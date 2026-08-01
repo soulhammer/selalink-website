@@ -1,406 +1,406 @@
 {
-    "how-to-store-hot-sauce": {
-        "ingId": "hot_sauce_sriracha",
-        "pubDate": "2026-04-23",
-        "updatedDate": "2026-04-23",
-        "heroImage": "/images/blog/hot_sauce_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "핫소스·스리라차 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 핫소스 및 스리라차의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
-                "intro": "피자, 타코, 볶음밥에 꼭 들어가는 핫소스나 스리라차를 개봉해 식탁 위나 양념장에 오래 두었다가, 빨갛던 소스가 어둡고 누렇게 변하거나 매운맛과 향이 떨어져 당황하신 적 있으시죠? 🌶️nn핫소스와 스리라차는 식초가 들어가 산도(pH 이하 3.5)가 매우 높기 때문에 세균이나 병원균이 살지 못하는 식재료입니다. 하지만 개봉 후 공기 중의 산소와 빛(자외선)에 노출되면 붉은빛을 내는 **카로티노이드(Carotenoids)** 색소와 매운맛의 핵심인 캡사이신 분자가 산화되면서 짙은 갈색으로 착색 산화(Darkening)되고 고유의 풍미가 저하됩니다.nn이번 가이드에서는 식품 안전 전문가들이 권장하는 과학적이고 확실한 핫소스·스리라차 선명도와 매운맛 유지 3단계 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 물리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "개봉 후 직사광선이 비치는 창가나 상온에 오래 방치하지 마세요 ⚠️",
-                        "desc": "높은 산도(pH 이하 3.5) 덕분에 곰팡이나 세균은 생육하지 못하지만, 상온의 빛과 산소에 지속 노출되면 붉은 카로티노이드 색소가 갈변되고 캡사이신 분자가 파괴되어 특유의 알싸한 풍미가 감소합니다."
-                    },
-                    {
-                        "title": "입구 주위에 묻은 소스를 그대로 두고 뚜껑을 닫지 마세요 🧼",
-                        "desc": "용기 입구에 묻은 소스 잔여물이 공기와 만나 딱딱하게 굳으면 세균 오염의 통로가 되거나 뚜껑 밀폐력을 떨어뜨려 내부 산화를 가속화합니다. 사용 후 항상 입구를 깨끗이 닦아주세요."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "사용 후 입구를 깨끗이 닦고 단단히 밀봉하기 — 공기 접촉 차단 🧻",
-                        "text": "소스 입구에 남아있는 잔여물은 공기 산화의 주요 원인입니다. 💡 보관 팁: 핫소스나 스리라차를 사용한 직후 입구 주변을 깨끗한 키친타월로 닦아내고 뚜껑을 꼭 닫아 공기 유입을 완벽히 차단하세요."
-                    },
-                    {
-                        "name": "개봉 후 4°C 이하의 냉장실에 보관하기 — 냉장 보관 (개봉 후 6개월~1년) ❄️",
-                        "text": "산화 반응과 카로티노이드 색소의 광분해 속도를 늦추는 핵심 단계입니다. 💡 보관 팁: 개봉한 소스는 4°C 이하의 냉장고 문 쪽이나 안쪽에 보관하세요. 상온 보관 시 3개월인 보관 기한이 냉장 보관 시 6개월에서 최대 1년까지 연장되며 선명한 붉은색과 매콤한 풍미가 보존됩니다."
-                    },
-                    {
-                        "name": "직사광선이 차단되는 서늘한 암소 보관하기 — 미개봉 상온 보관 (2년) 🌡️",
-                        "text": "개봉 전 소스는 온도 및 빛 통제가 최우선입니다. 💡 보관 팁: 미개봉 상태의 핫소스나 스리라차는 직사광선과 열기가 미치지 않는 어두운 찬장이나 다용도실에 보관해 주세요. 미개봉 시 최대 2년간 품질 변화 없이 안전하게 보관할 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "핫소스나 스리라차 색깔이 검붉게 변했는데 먹어도 안전한가요?",
-                        "answer": "네, 드셔도 안전합니다! 색이 짙은 갈색으로 변한 착색 산화(Darkening) 현상은 높은 산도(pH 이하 3.5) 환경에서 카로티노이드 색소가 산소 및 빛에 반응하여 생긴 자연스러운 화학적 변화입니다. 식중독균에 의한 변질이 아니므로 안심하고 드셔도 되지만, 산화로 인해 매운맛과 풍미가 약해졌을 수 있습니다."
-                    },
-                    {
-                        "question": "스리라차 소스는 왜 상온보다 냉장 보관이 더 권장되나요?",
-                        "answer": "스리라차 소스는 식초 성분 덕분에 상온에서도 미생물이 번식하지 않아 부패하지는 않습니다. 그러나 상온에서는 캡사이신과 카로티노이드 색소의 산화 및 광분해가 빠르게 진행되어 색이 갈색으로 바뀌고 고유의 칠리 향이 손실됩니다. 4°C 이하 냉장 보관 시 이 산화 반응 속도를 극적으로 늦출 수 있습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Hot Sauce & Sriracha Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for hot sauce and Sriracha based on official safety guidelines.",
-                "authority": "FDA & USDA & MFDS",
-                "intro": "Have you ever opened a bottle of hot sauce or Sriracha for pizza, tacos, or stir-fry, left it out on the counter, only to notice its bright red color turning dark brown and losing its fiery kick over time? 🌶️nnHot sauce and Sriracha are inherently shelf-stable condiments thanks to their high acetic acid concentration (pH le 3.5), which prevents microbial and pathogenic bacterial growth. However, once opened, exposure to oxygen and light (UV rays) oxidizes the red **carotenoid** pigments and capsaicin molecules, causing a dark browning effect (darkening) and flavor degradation.nnIn this guide, we introduce a scientifically proven 3-step hot sauce and Sriracha storage guide recommended by food safety experts to preserve vivid color and spicy flavor. 🛡️",
-                "whyTitle": "Why Store Hot Sauce & Sriracha This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physical and chemical characteristics of each food item and applying the proper storage method is essential for maintaining freshness and food safety.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never leave opened bottles exposed to sunlight or room heat for prolonged periods ⚠️",
-                        "desc": "Although high acidity (pH le 3.5) prevents bacterial growth, continuous exposure to room light and oxygen oxidizes red carotenoid pigments into dark brown and breaks down capsaicin, weakening its signature spicy kick."
-                    },
-                    {
-                        "title": "Do not close the cap with sauce residue crusting on the nozzle 🧼",
-                        "desc": "Sauce residue dried on the bottle tip can degrade the airtight seal, allowing oxygen to seep inside and accelerate internal oxidation. Always wipe the nozzle clean after use."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Wipe the nozzle clean and cap tightly after use — Block Oxygen Contact 🧻",
-                        "text": "Residual sauce on the cap is a primary path for oxygen exposure. 💡 Storage Tip: Immediately after pouring, wipe away leftover sauce from the nozzle with a clean paper towel and seal the cap tightly to block air entry."
-                    },
-                    {
-                        "name": "Refrigerate at 4°C or below after opening — Cold Storage (6 Months–1 Year Opened) ❄️",
-                        "text": "Chilling is key to slowing oxidation and carotenoid photo-degradation. 💡 Storage Tip: Keep opened sauce in the refrigerator at or below 4°C (39°F). While opened hot sauce lasts 3 months at room temperature, refrigeration extends shelf life to 6 months–1 year, preserving vivid red color and pungent spice."
-                    },
-                    {
-                        "name": "Store unopened bottles in a cool, dark pantry — Room Temp Storage (2 Years Unopened) 🌡️",
-                        "text": "Controlling temperature and light is essential before opening. 💡 Storage Tip: Keep unopened bottles in a cool, dark pantry away from direct sunlight and stove heat. Unopened hot sauce remains safe and flavorful for up to 2 years."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "My hot sauce or Sriracha turned dark brown. Is it still safe to eat?",
-                        "answer": "Yes, it is completely safe to consume! The darkening effect is a natural oxidation process where red carotenoid pigments react with light and oxygen under high acidity (pH le 3.5). It is not caused by bacterial spoilage, though the spice intensity and fresh flavor may have somewhat diminished."
-                    },
-                    {
-                        "question": "Why is refrigeration recommended over room temperature for Sriracha after opening?",
-                        "answer": "Due to its vinegar content, Sriracha will not spoil or grow bacteria at room temperature. However, ambient heat and light cause rapid oxidation of capsaicin and photo-degradation of carotenoids, making the sauce brown and lose flavor. Storing it below 4°C dramatically slows these chemical reactions."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ホットソース・スリラッチャを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくホットソースおよびスリラッチャの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "ピザやタコライス、炒め物に欠かせないホットソースやスリラッチャを開封し、食卓や棚に放置していたら、赤いソースが暗い茶色に変色したり辛さが抜けて困ったことはありませんか？🌶️nnホットソースやスリラッチャは酢の強い酸性（pH le 3.5）のおかげで病原菌や細菌が繁殖できない安全な調味料です。しかし、開封後に空気中の酸素や光（紫外線）に晒されると、赤い色素である**カロテノイド（Carotenoids）**や辛味成分のカプサイシン分子が酸化反応を起こし、濃い褐色に変色（Darkening）して本来の風味が低下します。nn本記事では、食品安全の専門家が推奨するホットソース・スリラッチャの鮮やかな色と辛さを保つ3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？ 科学的ファクト",
-                "whyDesc": "食材ごとの固有の物理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "開封後、直射日光の当たる場所や常温に長く放置しないでください ⚠️",
-                        "desc": "pH le 3.5の高い酸度により細菌は繁殖しませんが、常温の光や酸素に晒され続けると赤いカロテノイド色素が褐色化し、カプサイシン分子が分解されて独特の辛味が弱まります。"
-                    },
-                    {
-                        "title": "注ぎ口の周囲にソースが付着したままフタを閉めないでください 🧼",
-                        "desc": "注ぎ口に残ったソースの固まりは密閉性を低下させ、内部への酸素の侵入を許して酸化を加速させます。使用後は毎回注ぎ口を清潔に拭き取ってください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "使用後は注ぎ口を綺麗に拭き取りしっかり密閉する — 酸素接触の遮断 🧻",
-                        "text": "キャップ周辺に残ったソースは酸化の大きな原因になります。💡保存のコツ：使用直後に注ぎ口の周りを清潔なキッチンペーパーで拭き取り、フタをしっかり閉めて空気の侵入を遮断してください。"
-                    },
-                    {
-                        "name": "開封後は4℃以下の冷蔵室で保存する — 冷蔵保存 (開封後6ヶ月〜1年) ❄️",
-                        "text": "酸化反応とカロテノイド色素の光分解速度を遅らせる最大のポイントです。💡保存のコツ：開封したソースは4℃以下の冷蔵庫で保管してください。常温で3ヶ月の保存期間が、冷蔵保管により6ヶ月から最大1年に延び、鮮やかな赤色と辛味が維持されます。"
-                    },
-                    {
-                        "name": "直射日光の当たらない涼しい暗所で保存する — 未開封常温保存 (2年間) 🌡️",
-                        "text": "開封前のソースは温度と光の管理が最優先です。💡保存のコツ：未開封のホットソースやスリラッチャは、直射日光や熱気の当たらない暗いパントリーや棚に保管してください。未開封で最大2年間品質を維持できます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "ソースの色が黒っぽく変色しましたが、食べても安全ですか？",
-                        "answer": "はい、安全にお召し上がりいただけます！濃い褐色に変色する現象（Darkening）は、pH le 3.5の酸性環境下でカロテノイド色素が酸素や光と反応して生じる自然な化学変化です。細菌による腐敗ではないため問題ありませんが、酸化により辛さや風味が少し弱まっている場合があります。"
-                    },
-                    {
-                        "question": "スリラッチャソースはなぜ常温より冷蔵保存が推奨されるのですか？",
-                        "answer": "スリラッチャソースは酢の効果で常温でも細菌が増殖せず腐敗しません。しかし、常温ではカプサイシンやカロテノイドの酸化および光分解が急速に進み、色が褐色に変化して旨味が失われます。4℃以下で冷蔵保存することで、この酸化反応を大幅に遅らせることができます。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持辣酱与拉差辣椒酱新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解辣酱及是拉差酱（Sriracha）的最佳储存温度、方式及保鲜时长。",
-                "authority": "美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "当您打开一瓶辣酱或是拉差酱（Sriracha）蘸食披萨、塔可或炒饭，将其存放在台面上，是否发现原本鲜红的酱汁久而久之变成了暗褐色，且辣味与香气大打折扣？🌶️nn辣酱与是拉差酱由于含有高浓度的醋，具有极高的酸度（pH le 3.5），因此微生物和致病菌根本无法在此类环境中生存。然而开封后，一旦暴露于空气中的氧气与光线（紫外线）下，呈红色的**类胡萝卜素（Carotenoids）**色素及辣味核心成分辣椒素分子会发生氧化反应，导致酱体变暗发褐（Darkening）并降低风味。nn本指南基于食品安全专家的权威建议，为您带来3步科学辣酱保鲜秘诀，锁住鲜红色彩与鲜辣口感。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的物理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "开封后切勿长期置于阳光直射或常温高温处 ⚠️",
-                        "desc": "尽管 pH le 3.5 的高酸度能防止细菌滋生，但长期暴露于常温光照与氧气中，会使红色类胡萝卜素色素氧化变褐，并破坏辣椒素分子，减弱其招牌辣味。"
-                    },
-                    {
-                        "title": "瓶口残留酱汁时切勿直接盖紧 🧼",
-                        "desc": "瓶口干涸结块的酱汁残渣会降低密封性能，导致空气渗入瓶内并加速内部氧化。使用后请务必擦净瓶口。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "使用后擦净瓶口并紧闭瓶盖 — 阻绝氧气接触 🧻",
-                        "text": "瓶口残留的酱汁是引发氧化的主因。💡储存小贴士：使用完辣酱或是拉差酱后，立即用干净的厨房纸巾擦拭干净瓶口，并盖紧瓶盖以彻底阻绝空气进入。"
-                    },
-                    {
-                        "name": "开封后放入 4℃ 以下冰箱冷藏 — 冷藏保存 (开封后6个月~1年) ❄️",
-                        "text": "冷藏是减缓氧化反应与类胡萝卜素光解速度的关键。💡储存小贴士：开封后的酱料请保存在 4℃ 以下的冰箱中。常温保存期仅为3个月，而冷藏可延长至6个月甚至1年，完美保留鲜红色泽与香辣风味。"
-                    },
-                    {
-                        "name": "避光存放在阴凉干燥处 — 未开封常温保存 (2年) 🌡️",
-                        "text": "未开封前的酱料控温与避光最为重要。💡储存小贴士：未开封的辣酱或是拉差酱应存放在避光、远离热源的橱柜或储藏室中。未开封可安全保存长达2年。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "辣酱或是拉差酱颜色变黑变褐了，还能安全食用吗？",
-                        "answer": "可以安全食用！酱体颜色变暗发褐（Darkening）是因为在 pH le 3.5 的酸性环境下，类胡萝卜素色素与氧气及光线发生反应产生的自然化学变化。这并非细菌变质所致，因此可以放心食用，不过辣度和鲜香味可能会有所减弱。"
-                    },
-                    {
-                        "question": "为什么是拉差酱开封后更推荐冷藏而非常温保存？",
-                        "answer": "由于含有食醋成分，是拉差酱在常温下也不会滋生细菌变质。但在常温下，辣椒素与类胡萝卜素的氧化及光解速度较快，会导致酱汁变褐并失去原有的辣椒香气。保存在 4℃ 以下的冷藏环境中可显著减缓这一氧化过程。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener la salsa picante y la Sriracha frescas: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para la salsa picante y la Sriracha según las directrices oficiales de seguridad.",
-                "authority": "FDA & USDA & MFDS",
-                "intro": "¿Alguna vez abrió un frasco de salsa picante o Sriracha para pizzas, tacos o salteados, lo dejó en la encimera y notó que su vivo color rojo se oscurecía a marrón perdiendo su fuerza picante? 🌶️nnLa salsa picante y la Sriracha son condimentos estables por naturaleza gracias a su alta concentración de ácido acético (pH le 3.5), que impide el desarrollo de microorganismos y bacterias patógenas. Sin embargo, una vez abiertas, la exposición al oxígeno y a la luz (rayos UV) oxida los pigmentos **carotenoides** rojos y las moléculas de capsaicina, provocando un oscurecimiento (darkening) y la pérdida de sabor.nnEn esta guía se presenta una guía de conservación en 3 pasos respaldada por expertos en seguridad alimentaria para mantener el color y el picante de sus salsas. 🛡️",
-                "whyTitle": "¿Por qué almacenarla así? Datos científicos",
-                "whyDesc": "Comprender las características físicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Nunca deje frascos abiertos expuestos a la luz del sol o al calor ambiental ⚠️",
-                        "desc": "Aunque la alta acidez (pH le 3.5) evita las bacterias, la exposición continua a la luz y al oxígeno oxida los carotenoides rojos a marrón y degrada la capsaicina, reduciendo el picante."
-                    },
-                    {
-                        "title": "No cierre la tapa con restos de salsa incrustados en la boquilla 🧼",
-                        "desc": "La salsa seca en la boquilla resta hermeticidad al envase, permitiendo que el oxígeno penetre y acelere la oxidación interna. Limpie siempre la boquilla tras el uso."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Limpie la boquilla y cierre bien la tapa tras el uso — Bloqueo del oxígeno 🧻",
-                        "text": "Los residuos en la boquilla son la vía principal de entrada de aire. 💡 Consejo de almacenamiento: Limpie el exceso de salsa de la boquilla con papel de cocina inmediatamente después de servir y cierre la tapa con firmeza."
-                    },
-                    {
-                        "name": "Refrigere a 4 °C o menos tras abrir — Conservación refrigerada (6 meses a 1 año abierto) ❄️",
-                        "text": "El frío es clave para ralentizar la oxidación y la fotodegradación de los carotenoides. 💡 Consejo de almacenamiento: Guarde las salsas abiertas en el refrigerador a 4 °C o menos. Mientras que a temperatura ambiente duran 3 meses, la refrigeración extiende la vida útil de 6 meses a 1 año."
-                    },
-                    {
-                        "name": "Guarde frascos cerrados en una despensa fresca y oscura — Almacenamiento a temp. ambiente (2 años cerrado) 🌡️",
-                        "text": "El control de luz y temperatura es vital antes de abrir. 💡 Consejo de almacenamiento: Mantenga los envases sin abrir en una despensa oscura y fresca lejos del calor de la cocina. Se mantienen en perfecto estado hasta por 2 años."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mi salsa picante o Sriracha se ha vuelto café oscuro. ¿Sigue siendo segura para comer?",
-                        "answer": "¡Sí, es completamente segura! El oscurecimiento (darkening) es un proceso de oxidación natural en el que los carotenoides reaccionan con la luz y el oxígeno en un entorno de alta acidez (pH le 3.5). No se debe a deterioro bacteriano, aunque el picante y la frescura del aroma se hayan reducido ligeramente."
-                    },
-                    {
-                        "question": "¿Por qué se recomienda refrigerar la Sriracha tras abrir en lugar de dejarla a temperatura ambiente?",
-                        "answer": "Debido al vinagre que contiene, la Sriracha no desarrollará bacterias a temperatura ambiente. Sin embargo, el calor y la luz aceleran la oxidación de la capsaicina y los carotenoides, haciendo que la salsa se ponga marrón y pierda sabor. Guardarla a menos de 4 °C frena sustancialmente esa reacción."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver la sauce piquante et la Sriracha fraîches : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la sauce piquante et la Sriracha selon les directives officielles de sécurité.",
-                "authority": "FDA & USDA & MFDS",
-                "intro": "Avez-vous déjà ouvert une bouteille de sauce piquante ou de Sriracha pour une pizza, des tacos ou un plat sauté, pour constater avec le temps que sa vive couleur rouge virait au brun foncé et que son piquant s'estompait ? 🌶️nnLa sauce piquante et la Sriracha sont des condiments naturellement stables grâce à leur forte concentration en acide acétique (pH le 3,5), empêchant le développement des bactéries et pathogènes. Néanmoins, une fois ouvertes, l'exposition à l'oxygène et à la lumière (rayons UV) oxyde les pigments **caroténoïdes** rouges et les molécules de capsaïcine, entraînant un assombrissement (darkening) et une perte d'arôme.nnDans ce guide, vous présente un guide de conservation de la sauce piquante et de la Sriracha en 3 étapes recommandé par des experts en sécurité alimentaire. 🛡️",
-                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne laissez jamais les bouteilles ouvertes exposées au soleil ou à la chaleur ambiante ⚠️",
-                        "desc": "Bien que leur forte acidité (pH le 3,5) empêche les bactéries de pousser, l'exposition continue à la lumière et à l'oxygène oxyde les caroténoïdes en brun et détruit la capsaïcine, affaiblissant le piquant."
-                    },
-                    {
-                        "title": "Ne refermez pas le bouchon avec des résidus de sauce séchés sur l'embout 🧼",
-                        "desc": "La sauce séchée sur l'embout nuit à l'étanchéité du flacon, laissant l'oxygène s'infiltrer et accélérer l'oxydation interne. Essuyez toujours l'embout après usage."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Essuyer l'embout et bien fermer le bouchon après usage — Anti-oxygène 🧻",
-                        "text": "Les résidus de sauce sur le bouchon sont la principale porte d'entrée de l'air. 💡 Astuce de conservation : Essuyez immédiatement l'embout avec du papier absorbant après service et vissez fermement le bouchon."
-                    },
-                    {
-                        "name": "Réfrigérer à 4 °C ou moins après ouverture — Stockage réfrigéré (6 mois à 1 ans ouvert) ❄️",
-                        "text": "Le froid est essentiel pour ralentir l'oxydation et la photodégradation des caroténoïdes. 💡 Astuce de conservation : Conservez les sauces ouvertes au réfrigérateur (0–4 °C). Alors qu'elles se gardent 3 mois à température ambiante, le froid prolonge la durée de 6 mois à 1 an."
-                    },
-                    {
-                        "name": "Ranger les bouteilles fermées dans un placard frais et sombre — Stockage ambiant (2 ans non ouvert) 🌡️",
-                        "text": "Le contrôle de la lumière et de la température est primordial avant ouverture. 💡 Astuce de conservation : Conservez les bouteilles non ouvertes dans un placard sombre, loin des sources de chaleur. Elles restent parfaites jusqu'à 2 ans."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Ma sauce piquante ou ma Sriracha est devenue brun foncé. Est-elle encore consommable ?",
-                        "answer": "Oui, elle est totalement propre à la consommation ! Cet assombrissement (darkening) est un processus d'oxydation naturel où les caroténoïdes réagissent avec la lumière et l'oxygène dans un milieu acide (pH le 3,5). Il ne s'agit pas d'une altération bactérienne, bien que l'intensité du piquant et du goût ait pu diminuer."
-                    },
-                    {
-                        "question": "Pourquoi est-il conseillé de réfrigérer la Sriracha après ouverture plutôt que de la laisser à température ambiante ?",
-                        "answer": "Grâce au vinaigre qu'elle contient, la Sriracha ne développe pas de bactéries à température ambiante. Néanmoins, la chaleur et la lumière accélèrent l'oxydation de la capsaïcine et des pigments, la faisant brunir et perdre sa saveur. Un stockage sous 4 °C ralentit considérablement cette réaction."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Hot Sauce & Sriracha richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Hot Sauce und Sriracha basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "FDA & USDA & MFDS",
-                "intro": "Haben Sie schon einmal eine Flasche Hot Sauce oder Sriracha für Pizza, Tacos oder Asiapfannen geöffnet, sie auf der Arbeitsplatte stehen lassen und bemerkt, dass sich das leuchtende Rot dunkelbraun verfärbt und an Schärfe verloren hat? 🌶️nnHot Sauce und Sriracha sind dank ihres hohen Essigsäuregehalts (pH le 3,5) von Natur aus extrem haltbar, da Mikroorganismen und Bakterien darin nicht wachsen können. Nach dem Öffnen führt jedoch der Kontakt mit Sauerstoff und Licht (UV-Strahlen) zur Oxidation der roten **Carotinoid**-Pigmente und Capsaicin-Moleküle, was zu einer Nachdunklung (Darkening) und Geschmacksverlust führt.nnIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber zur Lagerung von Hot Sauce und Sriracha. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physikalischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Geöffnete Flaschen niemals längerem Sonnenlicht oder Raumwärme aussetzen ⚠️",
-                        "desc": "Obwohl die hohe Säure (pH le 3,5) Bakterien fernhält, führt dauerhaftes Raumlicht und Sauerstoff zur Verbraunung der Carotinoide und zersetzt Capsaicin, was die Schärfe mindert."
-                    },
-                    {
-                        "title": "Verschluss nicht mit angetrockneten Saucenresten an der Tülle schließen 🧼",
-                        "desc": "Antrocknende Sauce an der Flaschenöffnung beeinträchtigt die Luftdichtigkeit, sodass Sauerstoff eindringen und die Oxidation beschleunigen kann. Tülle nach Gebrauch stets abwischen."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Tülle nach Gebrauch abwischen und Verschluss fest schließen — Sauerstoffkontakt stoppen 🧻",
-                        "text": "Saucenreste an der Tülle sind das Haupteinfallstor für Sauerstoff. 💡 Lagerungstipp: Wischen Sie die Öffnung direkt nach dem Ausgießen mit Küchenpapier sauber und verschließen Sie den Deckel fest."
-                    },
-                    {
-                        "name": "Nach dem Öffnen bei 4 °C oder kälter im Kühlschrank aufbewahren — Kühllagerung (6 Monate–1 Jahr geöffnet) ❄️",
-                        "text": "Kühlung ist der Schlüssel, um Oxidation und den lichtbedingten Carotinoid-Abbau zu verlangsamen. 💡 Lagerungstipp: Bewahren Sie geöffnete Saucen im Kühlschrank (4 le ^°text{C}) auf. Während sie ungekühlt 3 Monate halten, verlängert die Kühlung die Haltbarkeit auf 6 Monate bis 1 Jahr."
-                    },
-                    {
-                        "name": "Ungeöffnete Flaschen in einer kühlen, dunklen Speisekammer lagern — Raumtemperaturlagerung (2 Jahre ungeöffnet) 🌡️",
-                        "text": "Vor dem Öffnen ist Licht- und Temperaturschutz entscheidend. 💡 Lagerungstipp: Lagern Sie ungeöffnete Flaschen an einem dunklen, kühlen Ort fern von Herdhitze. Ungeöffnet bleiben sie bis zu 2 Jahre frisch."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Meine Hot Sauce oder Sriracha ist dunkelbraun geworden. Ist sie noch essbar?",
-                        "answer": "Ja, sie ist absolut unbedenklich genießbar! Die Nachdunklung (Darkening) ist ein natürlicher Oxidationsprozess, bei dem Carotinoid-Pigmente im sauren Milieu (pH le 3,5) mit Sauerstoff und Licht reagieren. Es handelt sich nicht um Verderb, wenngleich Schärfe und Frische etwas nachgelassen haben können."
-                    },
-                    {
-                        "question": "Warum wird für Sriracha nach dem Öffnen die Lagerung im Kühlschrank empfohlen?",
-                        "answer": "Aufgrund des Essiggehalts verdirbt Sriracha auch bei Raumtemperatur nicht durch Bakterien. Allerdings beschleunigen Raumwärme und Licht die Oxidation von Capsaicin und Carotinoiden, sodass die Sauce braun wird und an Aroma verliert. Die Lagerung unter 4 °C verlangsamt diese chemischen Reaktionen entscheidend."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar molho de pimenta e Sriracha frescos: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para o molho de pimenta e Sriracha com base em diretrizes oficiais de segurança.",
-                "authority": "FDA & USDA & MFDS",
-                "intro": "Você já abriu um frasco de molho de pimenta ou Sriracha para pizza, tacos ou refogados, deixou-o no balcão e percebeu que a cor vermelha viva ficou marrom-escura e o picante perdeu a força com o tempo? 🌶️nnO molho de pimenta e a Sriracha são condimentos naturalmente estáveis graças à sua alta concentração de ácido acético (pH le 3,5), que impede o crescimento de micro-organismos e bactérias patogênicas. Porém, após abertos, a exposição ao oxigênio e à luz (raios UV) oxida os pigmentos **carotenoides** vermelhos e as moléculas de capsaicina, causando escurecimento (darkening) e perda de sabor.nnNeste guia, apresentamos um guia de conservação de molho de pimenta e Sriracha em 3 etapas recomendado por especialistas em segurança alimentar. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características físicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca deixe frascos abertos expostos à luz do sol ou ao calor ambiente ⚠️",
-                        "desc": "Embora a alta acidez (pH le 3,5) evite bactérias, a exposição contínua à luz e ao oxigênio oxida os carotenoides vermelhos para marrom e degrada a capsaicina, reduzindo o picante."
-                    },
-                    {
-                        "title": "Não feche a tampa com restos de molho ressecados no bico 🧼",
-                        "desc": "O molho seco no bico prejudica a vedação do frasco, permitindo a entrada de oxigênio e acelerando a oxidação interna. Limpe sempre o bico após o uso."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Limpe o bico e feche bem a tampa após o uso — Bloqueio de oxigênio 🧻",
-                        "text": "Os resíduos no bico são a principal porta de entrada do ar. 💡 Dica de conservação: Limpe o excesso de molho do bico com papel-toalha imediatamente após usar e feche bem a tampa."
-                    },
-                    {
-                        "name": "Refrigere a 4 °C ou menos após abrir — Refrigeração (6 meses a 1 ano aberto) ❄️",
-                        "text": "O frio é essencial para desacelerar a oxidação e a fotodegradação dos carotenoides. 💡 Dica de conservação: Guarde os molhos abertos na geladeira (4 le ^°text{C}). Enquanto em temperatura ambiente duram 3 meses, a refrigeração estende a validade de 6 meses a 1 ano."
-                    },
-                    {
-                        "name": "Guarde frascos fechados em despensa fresca e escura — Armazenamento a temp. ambiente (2 anos fechado) 🌡️",
-                        "text": "O controle de luz e temperatura é vital antes de abrir. 💡 Dica de conservação: Mantenha os frascos fechados em uma despensa escura e fresca, longe do calor do fogão. Conservam-se em perfeito estado por até 2 anos."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Meu molho de pimenta ou Sriracha ficou marrom-escuro. Ainda é seguro para consumir?",
-                        "answer": "Sim, é totalmente seguro! O escurecimento (darkening) é um processo natural de oxidação em que os carotenoides reagem com a luz e o oxigênio em ambiente ácido (pH le 3,5). Não é degradação bacteriana, embora o picante e o sabor possam ter diminuído ligeiramente."
-                    },
-                    {
-                        "question": "Por que se recomenda refrigerar a Sriracha após aberta em vez de deixá-la em temperatura ambiente?",
-                        "answer": "Devido ao vinagre que contém, a Sriracha não desenvolve bactérias em temperatura ambiente. Contudo, o calor e a luz aceleram a oxidação da capsaicina e dos carotenoides, fazendo o molho escurecer e perder sabor. Guardar abaixo de 4 °C desacelera bastante essa reação."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Saus Sambal & Sriracha agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk saus sambal dan Sriracha berdasarkan pedoman keselamatan resmi.",
-                "authority": "FDA & USDA & MFDS",
-                "intro": "Pernahkah Anda membuka botol saus sambal atau Sriracha untuk pizza, taco, atau tumisan, meninggalkannya di meja dapur, lalu mendapati warna merah cerahnya berubah menjadi cokelat gelap dan rasa pedasnya berkurang seiring waktu? 🌶️nnSaus sambal dan Sriracha adalah kondimen yang secara alami tahan lama berkat konsentrasi asam asetatnya yang tinggi (pH le 3,5), sehingga mikroorganisme dan bakteri patogen tidak dapat tumbuh. Namun setelah dibuka, paparan oksigen dan cahaya (sinar UV) mengoksidasi pigmen merah **karotenoid** dan molekul kapsaisin, memicu perubahan warna menjadi cokelat gelap (darkening) dan penurunan aroma.nnDalam panduan ini, kami membagikan panduan penyimpanan saus sambal dan Sriracha 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisik dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan pernah meninggalkan botol terbuka di bawah sinar matahari atau suhu ruang yang panas ⚠️",
-                        "desc": "Meskipun keasaman tinggi (pH le 3,5) mencegah bakteri, paparan cahaya dan oksigen secara terus-menerus mengoksidasi karotenoid menjadi cokelat dan merusak kapsaisin, mengurangi rasa pedasnya."
-                    },
-                    {
-                        "title": "Jangan menutup botol dengan sisa saus yang mengering di ujung mulut botol 🧼",
-                        "desc": "Sisa saus yang mengering di mulut botol mengurangi kerapatan tutup, memungkinkan oksigen masuk dan mempercepat oksidasi internal. Selalu bersihkan mulut botol setelah digunakan."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Bersihkan mulut botol dan tutup rapat setelah digunakan — Hentikan Kontak Oksigen 🧻",
-                        "text": "Sisa saus pada mulut botol adalah jalur utama masuknya udara. 💡 Tips Penyimpanan: Segera bersihkan sisa saus di mulut botol dengan tisu dapur bersih setelah dituang, lalu tutup rapat untuk menghalangi masuknya udara."
-                    },
-                    {
-                        "name": "Simpan di kulkas pada suhu 4°C atau lebih rendah setelah dibuka — Simpan Dingin (6 Bulan–1 Tahun Setelah Dibuka) ❄️",
-                        "text": "Pendinginan adalah kunci memperlambat oksidasi dan fotodegradasi karotenoid. 💡 Tips Penyimpanan: Simpan saus yang sudah dibuka di dalam kulkas (4 le ^°text{C}). Jika di suhu ruang bertahan 3 bulan, pendinginan memperpanjang masa simpan menjadi 6 bulan hingga 1 tahun."
-                    },
-                    {
-                        "name": "Simpan botol yang belum dibuka di lemari yang sejuk dan gelap — Simpan Suhu Ruang (2 Tahun Belum Dibuka) 🌡️",
-                        "text": "Pencegahan cahaya dan suhu panas adalah hal utama sebelum botol dibuka. 💡 Tips Penyimpanan: Simpan botol yang belum dibuka di lemari dapur yang gelap dan sejuk, jauh dari panas kompor. Bertahan hingga 2 tahun tanpa perubahan kualitas."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Saus sambal atau Sriracha saya berubah warna menjadi cokelat gelap. Apakah masih aman dikonsumsi?",
-                        "answer": "Ya, sangat aman dikonsumsi! Perubahan warna menjadi cokelat gelap (darkening) adalah proses oksidasi alami di mana pigmen karotenoid bereaksi dengan cahaya dan oksigen dalam kondisi asam (pH le 3,5). Ini bukan disebabkan oleh pembusukan bakteri, meskipun intensitas pedas dan kesegaran aromanya mungkin sedikit berkurang."
-                    },
-                    {
-                        "question": "Mengapa Sriracha lebih disarankan disimpan di kulkas daripada suhu ruang setelah dibuka?",
-                        "answer": "Berkat kandungan cuka di dalamnya, Sriracha tidak akan membusuk oleh bakteri di suhu ruang. Namun di suhu ruang, oksidasi kapsaisin dan karotenoid berlangsung lebih cepat sehingga saus berubah warna menjadi cokelat dan kehilangan aroma khasnya. Menyimpannya di bawah suhu 4°C memperlambat reaksi kimia tersebut secara signifikan."
-                    }
-                ]
-            }
-        }
+  "how-to-store-hot-sauce": {
+    "ingId": "hot_sauce_sriracha",
+    "pubDate": "2026-04-23",
+    "updatedDate": "2026-04-23",
+    "heroImage": "/images/blog/hot_sauce_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "핫소스·스리라차 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 핫소스 및 스리라차의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+        "intro": "피자, 타코, 볶음밥에 꼭 들어가는 핫소스나 스리라차를 개봉해 식탁 위나 양념장에 오래 두었다가, 빨갛던 소스가 어둡고 누렇게 변하거나 매운맛과 향이 떨어져 당황하신 적 있으시죠? 🌶️nn핫소스와 스리라차는 식초가 들어가 산도(pH 이하 3.5)가 매우 높기 때문에 세균이나 병원균이 살지 못하는 식재료입니다. 하지만 개봉 후 공기 중의 산소와 빛(자외선)에 노출되면 붉은빛을 내는 **카로티노이드(Carotenoids)** 색소와 매운맛의 핵심인 캡사이신 분자가 산화되면서 짙은 갈색으로 착색 산화(Darkening)되고 고유의 풍미가 저하됩니다.nn이번 가이드에서는 식품 안전 전문가들이 권장하는 과학적이고 확실한 핫소스·스리라차 선명도와 매운맛 유지 3단계 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 물리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "개봉 후 직사광선이 비치는 창가나 상온에 오래 방치하지 마세요 ⚠️",
+            "desc": "높은 산도(pH 이하 3.5) 덕분에 곰팡이나 세균은 생육하지 못하지만, 상온의 빛과 산소에 지속 노출되면 붉은 카로티노이드 색소가 갈변되고 캡사이신 분자가 파괴되어 특유의 알싸한 풍미가 감소합니다."
+          },
+          {
+            "title": "입구 주위에 묻은 소스를 그대로 두고 뚜껑을 닫지 마세요 🧼",
+            "desc": "용기 입구에 묻은 소스 잔여물이 공기와 만나 딱딱하게 굳으면 세균 오염의 통로가 되거나 뚜껑 밀폐력을 떨어뜨려 내부 산화를 가속화합니다. 사용 후 항상 입구를 깨끗이 닦아주세요."
+          }
+        ],
+        "steps": [
+          {
+            "name": "사용 후 입구를 깨끗이 닦고 단단히 밀봉하기 — 공기 접촉 차단 🧻",
+            "text": "소스 입구에 남아있는 잔여물은 공기 산화의 주요 원인입니다. 💡 보관 팁: 핫소스나 스리라차를 사용한 직후 입구 주변을 깨끗한 키친타월로 닦아내고 뚜껑을 꼭 닫아 공기 유입을 완벽히 차단하세요."
+          },
+          {
+            "name": "개봉 후 4°C 이하의 냉장실에 보관하기 — 냉장 보관 (개봉 후 6개월~1년) ❄️",
+            "text": "산화 반응과 카로티노이드 색소의 광분해 속도를 늦추는 핵심 단계입니다. 💡 보관 팁: 개봉한 소스는 4°C 이하의 냉장고 문 쪽이나 안쪽에 보관하세요. 상온 보관 시 3개월인 보관 기한이 냉장 보관 시 6개월에서 최대 1년까지 연장되며 선명한 붉은색과 매콤한 풍미가 보존됩니다."
+          },
+          {
+            "name": "직사광선이 차단되는 서늘한 암소 보관하기 — 미개봉 상온 보관 (2년) 🌡️",
+            "text": "개봉 전 소스는 온도 및 빛 통제가 최우선입니다. 💡 보관 팁: 미개봉 상태의 핫소스나 스리라차는 직사광선과 열기가 미치지 않는 어두운 찬장이나 다용도실에 보관해 주세요. 미개봉 시 최대 2년간 품질 변화 없이 안전하게 보관할 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "핫소스나 스리라차 색깔이 검붉게 변했는데 먹어도 안전한가요?",
+            "answer": "네, 드셔도 안전합니다! 색이 짙은 갈색으로 변한 착색 산화(Darkening) 현상은 높은 산도(pH 이하 3.5) 환경에서 카로티노이드 색소가 산소 및 빛에 반응하여 생긴 자연스러운 화학적 변화입니다. 식중독균에 의한 변질이 아니므로 안심하고 드셔도 되지만, 산화로 인해 매운맛과 풍미가 약해졌을 수 있습니다."
+          },
+          {
+            "question": "스리라차 소스는 왜 상온보다 냉장 보관이 더 권장되나요?",
+            "answer": "스리라차 소스는 식초 성분 덕분에 상온에서도 미생물이 번식하지 않아 부패하지는 않습니다. 그러나 상온에서는 캡사이신과 카로티노이드 색소의 산화 및 광분해가 빠르게 진행되어 색이 갈색으로 바뀌고 고유의 칠리 향이 손실됩니다. 4°C 이하 냉장 보관 시 이 산화 반응 속도를 극적으로 늦출 수 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Hot Sauce & Sriracha Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for hot sauce and Sriracha based on official safety guidelines.",
+        "authority": "FDA & USDA & MFDS",
+        "intro": "Have you ever opened a bottle of hot sauce or Sriracha for pizza, tacos, or stir-fry, left it out on the counter, only to notice its bright red color turning dark brown and losing its fiery kick over time? 🌶️nnHot sauce and Sriracha are inherently shelf-stable condiments thanks to their high acetic acid concentration (pH le 3.5), which prevents microbial and pathogenic bacterial growth. However, once opened, exposure to oxygen and light (UV rays) oxidizes the red **carotenoid** pigments and capsaicin molecules, causing a dark browning effect (darkening) and flavor degradation.nnIn this guide, we introduce a scientifically proven 3-step hot sauce and Sriracha storage guide recommended by food safety experts to preserve vivid color and spicy flavor. 🛡️",
+        "whyTitle": "Why Store Hot Sauce & Sriracha This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physical and chemical characteristics of each food item and applying the proper storage method is essential for maintaining freshness and food safety.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never leave opened bottles exposed to sunlight or room heat for prolonged periods ⚠️",
+            "desc": "Although high acidity (pH le 3.5) prevents bacterial growth, continuous exposure to room light and oxygen oxidizes red carotenoid pigments into dark brown and breaks down capsaicin, weakening its signature spicy kick."
+          },
+          {
+            "title": "Do not close the cap with sauce residue crusting on the nozzle 🧼",
+            "desc": "Sauce residue dried on the bottle tip can degrade the airtight seal, allowing oxygen to seep inside and accelerate internal oxidation. Always wipe the nozzle clean after use."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Wipe the nozzle clean and cap tightly after use — Block Oxygen Contact 🧻",
+            "text": "Residual sauce on the cap is a primary path for oxygen exposure. 💡 Storage Tip: Immediately after pouring, wipe away leftover sauce from the nozzle with a clean paper towel and seal the cap tightly to block air entry."
+          },
+          {
+            "name": "Refrigerate at 4°C or below after opening — Cold Storage (6 Months–1 Year Opened) ❄️",
+            "text": "Chilling is key to slowing oxidation and carotenoid photo-degradation. 💡 Storage Tip: Keep opened sauce in the refrigerator at or below 4°C (39°F). While opened hot sauce lasts 3 months at room temperature, refrigeration extends shelf life to 6 months–1 year, preserving vivid red color and pungent spice."
+          },
+          {
+            "name": "Store unopened bottles in a cool, dark pantry — Room Temp Storage (2 Years Unopened) 🌡️",
+            "text": "Controlling temperature and light is essential before opening. 💡 Storage Tip: Keep unopened bottles in a cool, dark pantry away from direct sunlight and stove heat. Unopened hot sauce remains safe and flavorful for up to 2 years."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "My hot sauce or Sriracha turned dark brown. Is it still safe to eat?",
+            "answer": "Yes, it is completely safe to consume! The darkening effect is a natural oxidation process where red carotenoid pigments react with light and oxygen under high acidity (pH le 3.5). It is not caused by bacterial spoilage, though the spice intensity and fresh flavor may have somewhat diminished."
+          },
+          {
+            "question": "Why is refrigeration recommended over room temperature for Sriracha after opening?",
+            "answer": "Due to its vinegar content, Sriracha will not spoil or grow bacteria at room temperature. However, ambient heat and light cause rapid oxidation of capsaicin and photo-degradation of carotenoids, making the sauce brown and lose flavor. Storing it below 4°C dramatically slows these chemical reactions."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ホットソース・スリラッチャを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくホットソースおよびスリラッチャの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "ピザやタコライス、炒め物に欠かせないホットソースやスリラッチャを開封し、食卓や棚に放置していたら、赤いソースが暗い茶色に変色したり辛さが抜けて困ったことはありませんか？🌶️nnホットソースやスリラッチャは酢の強い酸性（pH le 3.5）のおかげで病原菌や細菌が繁殖できない安全な調味料です。しかし、開封後に空気中の酸素や光（紫外線）に晒されると、赤い色素である**カロテノイド（Carotenoids）**や辛味成分のカプサイシン分子が酸化反応を起こし、濃い褐色に変色（Darkening）して本来の風味が低下します。nn本記事では、食品安全の専門家が推奨するホットソース・スリラッチャの鮮やかな色と辛さを保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？ 科学的ファクト",
+        "whyDesc": "食材ごとの固有の物理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "開封後、直射日光の当たる場所や常温に長く放置しないでください ⚠️",
+            "desc": "pH le 3.5の高い酸度により細菌は繁殖しませんが、常温の光や酸素に晒され続けると赤いカロテノイド色素が褐色化し、カプサイシン分子が分解されて独特の辛味が弱まります。"
+          },
+          {
+            "title": "注ぎ口の周囲にソースが付着したままフタを閉めないでください 🧼",
+            "desc": "注ぎ口に残ったソースの固まりは密閉性を低下させ、内部への酸素の侵入を許して酸化を加速させます。使用後は毎回注ぎ口を清潔に拭き取ってください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "使用後は注ぎ口を綺麗に拭き取りしっかり密閉する — 酸素接触の遮断 🧻",
+            "text": "キャップ周辺に残ったソースは酸化の大きな原因になります。💡保存のコツ：使用直後に注ぎ口の周りを清潔なキッチンペーパーで拭き取り、フタをしっかり閉めて空気の侵入を遮断してください。"
+          },
+          {
+            "name": "開封後は4℃以下の冷蔵室で保存する — 冷蔵保存 (開封後6ヶ月〜1年) ❄️",
+            "text": "酸化反応とカロテノイド色素の光分解速度を遅らせる最大のポイントです。💡保存のコツ：開封したソースは4℃以下の冷蔵庫で保管してください。常温で3ヶ月の保存期間が、冷蔵保管により6ヶ月から最大1年に延び、鮮やかな赤色と辛味が維持されます。"
+          },
+          {
+            "name": "直射日光の当たらない涼しい暗所で保存する — 未開封常温保存 (2年間) 🌡️",
+            "text": "開封前のソースは温度と光の管理が最優先です。💡保存のコツ：未開封のホットソースやスリラッチャは、直射日光や熱気の当たらない暗いパントリーや棚に保管してください。未開封で最大2年間品質を維持できます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ソースの色が黒っぽく変色しましたが、食べても安全ですか？",
+            "answer": "はい、安全にお召し上がりいただけます！濃い褐色に変色する現象（Darkening）は、pH le 3.5の酸性環境下でカロテノイド色素が酸素や光と反応して生じる自然な化学変化です。細菌による腐敗ではないため問題ありませんが、酸化により辛さや風味が少し弱まっている場合があります。"
+          },
+          {
+            "question": "スリラッチャソースはなぜ常温より冷蔵保存が推奨されるのですか？",
+            "answer": "スリラッチャソースは酢の効果で常温でも細菌が増殖せず腐敗しません。しかし、常温ではカプサイシンやカロテノイドの酸化および光分解が急速に進み、色が褐色に変化して旨味が失われます。4℃以下で冷蔵保存することで、この酸化反応を大幅に遅らせることができます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持辣酱与拉差辣椒酱新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解辣酱及是拉差酱（Sriracha）的最佳储存温度、方式及保鲜时长。",
+        "authority": "美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "当您打开一瓶辣酱或是拉差酱（Sriracha）蘸食披萨、塔可或炒饭，将其存放在台面上，是否发现原本鲜红的酱汁久而久之变成了暗褐色，且辣味与香气大打折扣？🌶️nn辣酱与是拉差酱由于含有高浓度的醋，具有极高的酸度（pH le 3.5），因此微生物和致病菌根本无法在此类环境中生存。然而开封后，一旦暴露于空气中的氧气与光线（紫外线）下，呈红色的**类胡萝卜素（Carotenoids）**色素及辣味核心成分辣椒素分子会发生氧化反应，导致酱体变暗发褐（Darkening）并降低风味。nn本指南基于食品安全专家的权威建议，为您带来3步科学辣酱保鲜秘诀，锁住鲜红色彩与鲜辣口感。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的物理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "开封后切勿长期置于阳光直射或常温高温处 ⚠️",
+            "desc": "尽管 pH le 3.5 的高酸度能防止细菌滋生，但长期暴露于常温光照与氧气中，会使红色类胡萝卜素色素氧化变褐，并破坏辣椒素分子，减弱其招牌辣味。"
+          },
+          {
+            "title": "瓶口残留酱汁时切勿直接盖紧 🧼",
+            "desc": "瓶口干涸结块的酱汁残渣会降低密封性能，导致空气渗入瓶内并加速内部氧化。使用后请务必擦净瓶口。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "使用后擦净瓶口并紧闭瓶盖 — 阻绝氧气接触 🧻",
+            "text": "瓶口残留的酱汁是引发氧化的主因。💡储存小贴士：使用完辣酱或是拉差酱后，立即用干净的厨房纸巾擦拭干净瓶口，并盖紧瓶盖以彻底阻绝空气进入。"
+          },
+          {
+            "name": "开封后放入 4℃ 以下冰箱冷藏 — 冷藏保存 (开封后6个月~1年) ❄️",
+            "text": "冷藏是减缓氧化反应与类胡萝卜素光解速度的关键。💡储存小贴士：开封后的酱料请保存在 4℃ 以下的冰箱中。常温保存期仅为3个月，而冷藏可延长至6个月甚至1年，完美保留鲜红色泽与香辣风味。"
+          },
+          {
+            "name": "避光存放在阴凉干燥处 — 未开封常温保存 (2年) 🌡️",
+            "text": "未开封前的酱料控温与避光最为重要。💡储存小贴士：未开封的辣酱或是拉差酱应存放在避光、远离热源的橱柜或储藏室中。未开封可安全保存长达2年。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "辣酱或是拉差酱颜色变黑变褐了，还能安全食用吗？",
+            "answer": "可以安全食用！酱体颜色变暗发褐（Darkening）是因为在 pH le 3.5 的酸性环境下，类胡萝卜素色素与氧气及光线发生反应产生的自然化学变化。这并非细菌变质所致，因此可以放心食用，不过辣度和鲜香味可能会有所减弱。"
+          },
+          {
+            "question": "为什么是拉差酱开封后更推荐冷藏而非常温保存？",
+            "answer": "由于含有食醋成分，是拉差酱在常温下也不会滋生细菌变质。但在常温下，辣椒素与类胡萝卜素的氧化及光解速度较快，会导致酱汁变褐并失去原有的辣椒香气。保存在 4℃ 以下的冷藏环境中可显著减缓这一氧化过程。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener la salsa picante y la Sriracha frescas: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para la salsa picante y la Sriracha según las directrices oficiales de seguridad.",
+        "authority": "FDA & USDA & MFDS",
+        "intro": "¿Alguna vez abrió un frasco de salsa picante o Sriracha para pizzas, tacos o salteados, lo dejó en la encimera y notó que su vivo color rojo se oscurecía a marrón perdiendo su fuerza picante? 🌶️nnLa salsa picante y la Sriracha son condimentos estables por naturaleza gracias a su alta concentración de ácido acético (pH le 3.5), que impide el desarrollo de microorganismos y bacterias patógenas. Sin embargo, una vez abiertas, la exposición al oxígeno y a la luz (rayos UV) oxida los pigmentos **carotenoides** rojos y las moléculas de capsaicina, provocando un oscurecimiento (darkening) y la pérdida de sabor.nnEn esta guía se presenta una guía de conservación en 3 pasos respaldada por expertos en seguridad alimentaria para mantener el color y el picante de sus salsas. 🛡️",
+        "whyTitle": "¿Por qué almacenarla así? Datos científicos",
+        "whyDesc": "Comprender las características físicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Nunca deje frascos abiertos expuestos a la luz del sol o al calor ambiental ⚠️",
+            "desc": "Aunque la alta acidez (pH le 3.5) evita las bacterias, la exposición continua a la luz y al oxígeno oxida los carotenoides rojos a marrón y degrada la capsaicina, reduciendo el picante."
+          },
+          {
+            "title": "No cierre la tapa con restos de salsa incrustados en la boquilla 🧼",
+            "desc": "La salsa seca en la boquilla resta hermeticidad al envase, permitiendo que el oxígeno penetre y acelere la oxidación interna. Limpie siempre la boquilla tras el uso."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Limpie la boquilla y cierre bien la tapa tras el uso — Bloqueo del oxígeno 🧻",
+            "text": "Los residuos en la boquilla son la vía principal de entrada de aire. 💡 Consejo de almacenamiento: Limpie el exceso de salsa de la boquilla con papel de cocina inmediatamente después de servir y cierre la tapa con firmeza."
+          },
+          {
+            "name": "Refrigere a 4 °C o menos tras abrir — Conservación refrigerada (6 meses a 1 año abierto) ❄️",
+            "text": "El frío es clave para ralentizar la oxidación y la fotodegradación de los carotenoides. 💡 Consejo de almacenamiento: Guarde las salsas abiertas en el refrigerador a 4 °C o menos. Mientras que a temperatura ambiente duran 3 meses, la refrigeración extiende la vida útil de 6 meses a 1 año."
+          },
+          {
+            "name": "Guarde frascos cerrados en una despensa fresca y oscura — Almacenamiento a temp. ambiente (2 años cerrado) 🌡️",
+            "text": "El control de luz y temperatura es vital antes de abrir. 💡 Consejo de almacenamiento: Mantenga los envases sin abrir en una despensa oscura y fresca lejos del calor de la cocina. Se mantienen en perfecto estado hasta por 2 años."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mi salsa picante o Sriracha se ha vuelto café oscuro. ¿Sigue siendo segura para comer?",
+            "answer": "¡Sí, es completamente segura! El oscurecimiento (darkening) es un proceso de oxidación natural en el que los carotenoides reaccionan con la luz y el oxígeno en un entorno de alta acidez (pH le 3.5). No se debe a deterioro bacteriano, aunque el picante y la frescura del aroma se hayan reducido ligeramente."
+          },
+          {
+            "question": "¿Por qué se recomienda refrigerar la Sriracha tras abrir en lugar de dejarla a temperatura ambiente?",
+            "answer": "Debido al vinagre que contiene, la Sriracha no desarrollará bacterias a temperatura ambiente. Sin embargo, el calor y la luz aceleran la oxidación de la capsaicina y los carotenoides, haciendo que la salsa se ponga marrón y pierda sabor. Guardarla a menos de 4 °C frena sustancialmente esa reacción."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver la sauce piquante et la Sriracha fraîches : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la sauce piquante et la Sriracha selon les directives officielles de sécurité.",
+        "authority": "FDA & USDA & MFDS",
+        "intro": "Avez-vous déjà ouvert une bouteille de sauce piquante ou de Sriracha pour une pizza, des tacos ou un plat sauté, pour constater avec le temps que sa vive couleur rouge virait au brun foncé et que son piquant s'estompait ? 🌶️nnLa sauce piquante et la Sriracha sont des condiments naturellement stables grâce à leur forte concentration en acide acétique (pH le 3,5), empêchant le développement des bactéries et pathogènes. Néanmoins, une fois ouvertes, l'exposition à l'oxygène et à la lumière (rayons UV) oxyde les pigments **caroténoïdes** rouges et les molécules de capsaïcine, entraînant un assombrissement (darkening) et une perte d'arôme.nnDans ce guide, vous présente un guide de conservation de la sauce piquante et de la Sriracha en 3 étapes recommandé par des experts en sécurité alimentaire. 🛡️",
+        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne laissez jamais les bouteilles ouvertes exposées au soleil ou à la chaleur ambiante ⚠️",
+            "desc": "Bien que leur forte acidité (pH le 3,5) empêche les bactéries de pousser, l'exposition continue à la lumière et à l'oxygène oxyde les caroténoïdes en brun et détruit la capsaïcine, affaiblissant le piquant."
+          },
+          {
+            "title": "Ne refermez pas le bouchon avec des résidus de sauce séchés sur l'embout 🧼",
+            "desc": "La sauce séchée sur l'embout nuit à l'étanchéité du flacon, laissant l'oxygène s'infiltrer et accélérer l'oxydation interne. Essuyez toujours l'embout après usage."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Essuyer l'embout et bien fermer le bouchon après usage — Anti-oxygène 🧻",
+            "text": "Les résidus de sauce sur le bouchon sont la principale porte d'entrée de l'air. 💡 Astuce de conservation : Essuyez immédiatement l'embout avec du papier absorbant après service et vissez fermement le bouchon."
+          },
+          {
+            "name": "Réfrigérer à 4 °C ou moins après ouverture — Stockage réfrigéré (6 mois à 1 ans ouvert) ❄️",
+            "text": "Le froid est essentiel pour ralentir l'oxydation et la photodégradation des caroténoïdes. 💡 Astuce de conservation : Conservez les sauces ouvertes au réfrigérateur (0–4 °C). Alors qu'elles se gardent 3 mois à température ambiante, le froid prolonge la durée de 6 mois à 1 an."
+          },
+          {
+            "name": "Ranger les bouteilles fermées dans un placard frais et sombre — Stockage ambiant (2 ans non ouvert) 🌡️",
+            "text": "Le contrôle de la lumière et de la température est primordial avant ouverture. 💡 Astuce de conservation : Conservez les bouteilles non ouvertes dans un placard sombre, loin des sources de chaleur. Elles restent parfaites jusqu'à 2 ans."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Ma sauce piquante ou ma Sriracha est devenue brun foncé. Est-elle encore consommable ?",
+            "answer": "Oui, elle est totalement propre à la consommation ! Cet assombrissement (darkening) est un processus d'oxydation naturel où les caroténoïdes réagissent avec la lumière et l'oxygène dans un milieu acide (pH le 3,5). Il ne s'agit pas d'une altération bactérienne, bien que l'intensité du piquant et du goût ait pu diminuer."
+          },
+          {
+            "question": "Pourquoi est-il conseillé de réfrigérer la Sriracha après ouverture plutôt que de la laisser à température ambiante ?",
+            "answer": "Grâce au vinaigre qu'elle contient, la Sriracha ne développe pas de bactéries à température ambiante. Néanmoins, la chaleur et la lumière accélèrent l'oxydation de la capsaïcine et des pigments, la faisant brunir et perdre sa saveur. Un stockage sous 4 °C ralentit considérablement cette réaction."
+          }
+        ]
+      },
+      "de": {
+        "title": "Hot Sauce & Sriracha richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Hot Sauce und Sriracha basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "FDA & USDA & MFDS",
+        "intro": "Haben Sie schon einmal eine Flasche Hot Sauce oder Sriracha für Pizza, Tacos oder Asiapfannen geöffnet, sie auf der Arbeitsplatte stehen lassen und bemerkt, dass sich das leuchtende Rot dunkelbraun verfärbt und an Schärfe verloren hat? 🌶️nnHot Sauce und Sriracha sind dank ihres hohen Essigsäuregehalts (pH le 3,5) von Natur aus extrem haltbar, da Mikroorganismen und Bakterien darin nicht wachsen können. Nach dem Öffnen führt jedoch der Kontakt mit Sauerstoff und Licht (UV-Strahlen) zur Oxidation der roten **Carotinoid**-Pigmente und Capsaicin-Moleküle, was zu einer Nachdunklung (Darkening) und Geschmacksverlust führt.nnIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber zur Lagerung von Hot Sauce und Sriracha. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physikalischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Geöffnete Flaschen niemals längerem Sonnenlicht oder Raumwärme aussetzen ⚠️",
+            "desc": "Obwohl die hohe Säure (pH le 3,5) Bakterien fernhält, führt dauerhaftes Raumlicht und Sauerstoff zur Verbraunung der Carotinoide und zersetzt Capsaicin, was die Schärfe mindert."
+          },
+          {
+            "title": "Verschluss nicht mit angetrockneten Saucenresten an der Tülle schließen 🧼",
+            "desc": "Antrocknende Sauce an der Flaschenöffnung beeinträchtigt die Luftdichtigkeit, sodass Sauerstoff eindringen und die Oxidation beschleunigen kann. Tülle nach Gebrauch stets abwischen."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Tülle nach Gebrauch abwischen und Verschluss fest schließen — Sauerstoffkontakt stoppen 🧻",
+            "text": "Saucenreste an der Tülle sind das Haupteinfallstor für Sauerstoff. 💡 Lagerungstipp: Wischen Sie die Öffnung direkt nach dem Ausgießen mit Küchenpapier sauber und verschließen Sie den Deckel fest."
+          },
+          {
+            "name": "Nach dem Öffnen bei 4 °C oder kälter im Kühlschrank aufbewahren — Kühllagerung (6 Monate–1 Jahr geöffnet) ❄️",
+            "text": "Kühlung ist der Schlüssel, um Oxidation und den lichtbedingten Carotinoid-Abbau zu verlangsamen. 💡 Lagerungstipp: Bewahren Sie geöffnete Saucen im Kühlschrank (4 le ^°text{C}) auf. Während sie ungekühlt 3 Monate halten, verlängert die Kühlung die Haltbarkeit auf 6 Monate bis 1 Jahr."
+          },
+          {
+            "name": "Ungeöffnete Flaschen in einer kühlen, dunklen Speisekammer lagern — Raumtemperaturlagerung (2 Jahre ungeöffnet) 🌡️",
+            "text": "Vor dem Öffnen ist Licht- und Temperaturschutz entscheidend. 💡 Lagerungstipp: Lagern Sie ungeöffnete Flaschen an einem dunklen, kühlen Ort fern von Herdhitze. Ungeöffnet bleiben sie bis zu 2 Jahre frisch."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Meine Hot Sauce oder Sriracha ist dunkelbraun geworden. Ist sie noch essbar?",
+            "answer": "Ja, sie ist absolut unbedenklich genießbar! Die Nachdunklung (Darkening) ist ein natürlicher Oxidationsprozess, bei dem Carotinoid-Pigmente im sauren Milieu (pH le 3,5) mit Sauerstoff und Licht reagieren. Es handelt sich nicht um Verderb, wenngleich Schärfe und Frische etwas nachgelassen haben können."
+          },
+          {
+            "question": "Warum wird für Sriracha nach dem Öffnen die Lagerung im Kühlschrank empfohlen?",
+            "answer": "Aufgrund des Essiggehalts verdirbt Sriracha auch bei Raumtemperatur nicht durch Bakterien. Allerdings beschleunigen Raumwärme und Licht die Oxidation von Capsaicin und Carotinoiden, sodass die Sauce braun wird und an Aroma verliert. Die Lagerung unter 4 °C verlangsamt diese chemischen Reaktionen entscheidend."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar molho de pimenta e Sriracha frescos: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para o molho de pimenta e Sriracha com base em diretrizes oficiais de segurança.",
+        "authority": "FDA & USDA & MFDS",
+        "intro": "Você já abriu um frasco de molho de pimenta ou Sriracha para pizza, tacos ou refogados, deixou-o no balcão e percebeu que a cor vermelha viva ficou marrom-escura e o picante perdeu a força com o tempo? 🌶️nnO molho de pimenta e a Sriracha são condimentos naturalmente estáveis graças à sua alta concentração de ácido acético (pH le 3,5), que impede o crescimento de micro-organismos e bactérias patogênicas. Porém, após abertos, a exposição ao oxigênio e à luz (raios UV) oxida os pigmentos **carotenoides** vermelhos e as moléculas de capsaicina, causando escurecimento (darkening) e perda de sabor.nnNeste guia, apresentamos um guia de conservação de molho de pimenta e Sriracha em 3 etapas recomendado por especialistas em segurança alimentar. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características físicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca deixe frascos abertos expostos à luz do sol ou ao calor ambiente ⚠️",
+            "desc": "Embora a alta acidez (pH le 3,5) evite bactérias, a exposição contínua à luz e ao oxigênio oxida os carotenoides vermelhos para marrom e degrada a capsaicina, reduzindo o picante."
+          },
+          {
+            "title": "Não feche a tampa com restos de molho ressecados no bico 🧼",
+            "desc": "O molho seco no bico prejudica a vedação do frasco, permitindo a entrada de oxigênio e acelerando a oxidação interna. Limpe sempre o bico após o uso."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Limpe o bico e feche bem a tampa após o uso — Bloqueio de oxigênio 🧻",
+            "text": "Os resíduos no bico são a principal porta de entrada do ar. 💡 Dica de conservação: Limpe o excesso de molho do bico com papel-toalha imediatamente após usar e feche bem a tampa."
+          },
+          {
+            "name": "Refrigere a 4 °C ou menos após abrir — Refrigeração (6 meses a 1 ano aberto) ❄️",
+            "text": "O frio é essencial para desacelerar a oxidação e a fotodegradação dos carotenoides. 💡 Dica de conservação: Guarde os molhos abertos na geladeira (4 le ^°text{C}). Enquanto em temperatura ambiente duram 3 meses, a refrigeração estende a validade de 6 meses a 1 ano."
+          },
+          {
+            "name": "Guarde frascos fechados em despensa fresca e escura — Armazenamento a temp. ambiente (2 anos fechado) 🌡️",
+            "text": "O controle de luz e temperatura é vital antes de abrir. 💡 Dica de conservação: Mantenha os frascos fechados em uma despensa escura e fresca, longe do calor do fogão. Conservam-se em perfeito estado por até 2 anos."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Meu molho de pimenta ou Sriracha ficou marrom-escuro. Ainda é seguro para consumir?",
+            "answer": "Sim, é totalmente seguro! O escurecimento (darkening) é um processo natural de oxidação em que os carotenoides reagem com a luz e o oxigênio em ambiente ácido (pH le 3,5). Não é degradação bacteriana, embora o picante e o sabor possam ter diminuído ligeiramente."
+          },
+          {
+            "question": "Por que se recomenda refrigerar a Sriracha após aberta em vez de deixá-la em temperatura ambiente?",
+            "answer": "Devido ao vinagre que contém, a Sriracha não desenvolve bactérias em temperatura ambiente. Contudo, o calor e a luz aceleram a oxidação da capsaicina e dos carotenoides, fazendo o molho escurecer e perder sabor. Guardar abaixo de 4 °C desacelera bastante essa reação."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Saus Sambal & Sriracha agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk saus sambal dan Sriracha berdasarkan pedoman keselamatan resmi.",
+        "authority": "FDA & USDA & MFDS",
+        "intro": "Pernahkah Anda membuka botol saus sambal atau Sriracha untuk pizza, taco, atau tumisan, meninggalkannya di meja dapur, lalu mendapati warna merah cerahnya berubah menjadi cokelat gelap dan rasa pedasnya berkurang seiring waktu? 🌶️nnSaus sambal dan Sriracha adalah kondimen yang secara alami tahan lama berkat konsentrasi asam asetatnya yang tinggi (pH le 3,5), sehingga mikroorganisme dan bakteri patogen tidak dapat tumbuh. Namun setelah dibuka, paparan oksigen dan cahaya (sinar UV) mengoksidasi pigmen merah **karotenoid** dan molekul kapsaisin, memicu perubahan warna menjadi cokelat gelap (darkening) dan penurunan aroma.nnDalam panduan ini, kami membagikan panduan penyimpanan saus sambal dan Sriracha 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisik dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan pernah meninggalkan botol terbuka di bawah sinar matahari atau suhu ruang yang panas ⚠️",
+            "desc": "Meskipun keasaman tinggi (pH le 3,5) mencegah bakteri, paparan cahaya dan oksigen secara terus-menerus mengoksidasi karotenoid menjadi cokelat dan merusak kapsaisin, mengurangi rasa pedasnya."
+          },
+          {
+            "title": "Jangan menutup botol dengan sisa saus yang mengering di ujung mulut botol 🧼",
+            "desc": "Sisa saus yang mengering di mulut botol mengurangi kerapatan tutup, memungkinkan oksigen masuk dan mempercepat oksidasi internal. Selalu bersihkan mulut botol setelah digunakan."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Bersihkan mulut botol dan tutup rapat setelah digunakan — Hentikan Kontak Oksigen 🧻",
+            "text": "Sisa saus pada mulut botol adalah jalur utama masuknya udara. 💡 Tips Penyimpanan: Segera bersihkan sisa saus di mulut botol dengan tisu dapur bersih setelah dituang, lalu tutup rapat untuk menghalangi masuknya udara."
+          },
+          {
+            "name": "Simpan di kulkas pada suhu 4°C atau lebih rendah setelah dibuka — Simpan Dingin (6 Bulan–1 Tahun Setelah Dibuka) ❄️",
+            "text": "Pendinginan adalah kunci memperlambat oksidasi dan fotodegradasi karotenoid. 💡 Tips Penyimpanan: Simpan saus yang sudah dibuka di dalam kulkas (4 le ^°text{C}). Jika di suhu ruang bertahan 3 bulan, pendinginan memperpanjang masa simpan menjadi 6 bulan hingga 1 tahun."
+          },
+          {
+            "name": "Simpan botol yang belum dibuka di lemari yang sejuk dan gelap — Simpan Suhu Ruang (2 Tahun Belum Dibuka) 🌡️",
+            "text": "Pencegahan cahaya dan suhu panas adalah hal utama sebelum botol dibuka. 💡 Tips Penyimpanan: Simpan botol yang belum dibuka di lemari dapur yang gelap dan sejuk, jauh dari panas kompor. Bertahan hingga 2 tahun tanpa perubahan kualitas."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Saus sambal atau Sriracha saya berubah warna menjadi cokelat gelap. Apakah masih aman dikonsumsi?",
+            "answer": "Ya, sangat aman dikonsumsi! Perubahan warna menjadi cokelat gelap (darkening) adalah proses oksidasi alami di mana pigmen karotenoid bereaksi dengan cahaya dan oksigen dalam kondisi asam (pH le 3,5). Ini bukan disebabkan oleh pembusukan bakteri, meskipun intensitas pedas dan kesegaran aromanya mungkin sedikit berkurang."
+          },
+          {
+            "question": "Mengapa Sriracha lebih disarankan disimpan di kulkas daripada suhu ruang setelah dibuka?",
+            "answer": "Berkat kandungan cuka di dalamnya, Sriracha tidak akan membusuk oleh bakteri di suhu ruang. Namun di suhu ruang, oksidasi kapsaisin dan karotenoid berlangsung lebih cepat sehingga saus berubah warna menjadi cokelat dan kehilangan aroma khasnya. Menyimpannya di bawah suhu 4°C memperlambat reaksi kimia tersebut secara signifikan."
+          }
+        ]
+      }
     }
+  }
 }

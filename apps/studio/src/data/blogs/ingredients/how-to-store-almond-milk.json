@@ -1,406 +1,406 @@
 {
-    "how-to-store-almond-milk": {
-        "ingId": "almond-milk",
-        "pubDate": "2026-05-20",
-        "updatedDate": "2026-05-20",
-        "heroImage": "/images/blog/almond_milk_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "아몬드 밀크 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 아몬드 밀크의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)",
-                "intro": "고소하고 유제품 대용으로 인기 있는 아몬드 밀크, 개봉 후 몇 번 마시고 냉장고 문 쪽에 두었다가 금세 덩어리가 지거나 시큼한 냄새가 나서 버린 경험 있으시죠? 🥛\n\n아몬드 밀크는 아몬드 추출물과 수분이 결합한 식물성 음료로, 유산균 발효유와 달리 개봉 직후 공기 중 미생물 오염에 노출되기 쉽습니다. 특히 수분 함량이 높아 개봉 후 상온에 방치하거나 온도 변화가 심한 냉장고 문 쪽에 두면 세균 증식과 침전물 분리가 급격히 촉진됩니다.\n\n이번 가이드에서는 FDA와 USDA의 과학적 가이드라인에 기반하여, 아몬드 밀크의 층분리를 방지하고 신선함을 오래 유지하는 3단계 보관 비법을 전해드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "식물성 대체 유제품의 유화 상태와 미생물 증식 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 식중독 예방과 신선도 유지에 필수적입니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "개봉 후 절대로 상온에 방치하지 마세요 🚫",
-                        "desc": "미개봉 멸균 팩은 상온 보관이 가능하지만, 일단 개봉하면 공기 중 미생물이 유입됩니다. 수분이 풍부한 환경 특성상 상온에서는 수시간 내에 세균이 폭발적으로 증식하므로 개봉 즉시 냉장 보관해야 합니다."
-                    },
-                    {
-                        "title": "냉장고 문 쪽 대신 안쪽에 보관하세요 ❄️",
-                        "desc": "냉장고 문 쪽은 문을 열고 닫을 때마다 온도 변화가 커 미생물 증식과 유화 분리를 유발합니다. 아몬드 밀크는 온도가 일정하게 유지되는 냉장고 안쪽 선반(0~4℃)에 보관해야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "사용 전 가볍게 흔들어주기 — 천연 침전물 유화 🥛",
-                        "text": "아몬드 밀크는 불포화지방산과 고형분이 수분에 서스펜션(현탁)된 형태이므로 가만히 두면 자연스럽게 층이 분리됩니다. 💡 보관 팁: 변질이 아닌 자연스러운 물리 현상이므로, 마시기 전이나 사용 전에 용기를 천천히 골고루 흔들어주면 다시 매끄러운 유화 상태가 됩니다."
-                    },
-                    {
-                        "name": "개봉 후 0~4℃ 저온 냉장 보관하기 — 개봉 후 보관 (7~10일) ❄️",
-                        "text": "개봉한 아몬드 밀크는 미생물 번식을 막기 위해 주 냉장실에 보관해야 합니다. 💡 보관 팁: 뚜껑을 완벽히 밀봉하여 0~4℃의 냉장고 안쪽에 보관하세요. 개봉 후 7~10일 이내에 모두 소비하는 것이 가장 안전합니다."
-                    },
-                    {
-                        "name": "미개봉 멸균 팩은 서늘한 실온 보관하기 — 미개봉 팬트리 보관 🏺",
-                        "text": "개봉하지 않은 멸균 테트라팩 아몬드 밀크는 상온에서 안정적입니다. 💡 보관 팁: 직사광선이 비치지 않는 서늘하고 건조한 팬트리나 찬장(10~20℃)에 보관하세요. 팩에 표기된 유통기한까지 신선도가 유지됩니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "아몬드 밀크를 장기 보관하기 위해 냉동해도 되나요?",
-                        "answer": "냉동 보관은 권장하지 않습니다. 아몬드 밀크를 얼리면 물과 아몬드 입자의 유화 구조가 깨져 해동 후 입자가 푸석하게 분리되고 음료로 마시기 어색한 식감이 됩니다. 다만 요리나 스무디용으로 사용할 목적이라면 얼음 트레이에 얼려 보관할 수 있습니다."
-                    },
-                    {
-                        "question": "아몬드 밀크가 상했는지 어떻게 확인하나요?",
-                        "answer": "아몬드 밀크가 상하면 시큼한 악취가 나거나, 마치 순두부처럼 덩어리가 지고 응고 현상이 일어납니다. 또한 용기가 부풀어 오르거나 표면에 곰팡이가 보인다면 미생물이 부패를 일으킨 것이므로 즉시 버려야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Almond Milk Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for almond milk based on official safety guidelines.",
-                "authority": "FDA & USDA & MFDS & RDA",
-                "intro": "Have you ever enjoyed a glass of nutty, refreshing almond milk only to find it curdling or smelling sour after a few days on the fridge door? 🥛\n\nAlmond milk is a plant-based beverage formed by suspending almond particles in water. Unlike fermented dairy products, opened almond milk is highly susceptible to microbial contamination from ambient air. Its high moisture content means leaving it at room temperature or storing it in the temperature-fluctuating fridge door rapidly speeds up bacterial growth and emulsion breakdown.\n\nIn this guide, shares a scientifically proven 3-step almond milk storage guide based on guidelines from the FDA and USDA to prevent separation and keep your almond milk safely fresh. 🛡️",
-                "whyTitle": "Why Store Almond Milk This Way? Scientific Facts",
-                "whyDesc": "Understanding the emulsification properties and microbial growth mechanisms of plant-based dairy alternatives is essential for preventing foodborne illness and preserving freshness.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never leave at room temperature after opening 🚫",
-                        "desc": "While unopened shelf-stable cartons can sit at room temperature, opening them introduces airborne microbes. Given its high moisture content, bacteria multiply exponentially within hours at room temperature, so refrigerate immediately after opening."
-                    },
-                    {
-                        "title": "Store on an inside fridge shelf, not on the door ❄️",
-                        "desc": "The refrigerator door experiences frequent temperature fluctuations whenever opened, encouraging bacterial blooms and fat separation. Always store opened almond milk on an interior shelf maintained at 0–4°C."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Shake gently before drinking — Re-Emulsify Natural Sediment 🥛",
-                        "text": "Almond milk is a suspension of finely ground almonds and water, so solids naturally settle over time. 💡 Storage Tip: This separation is a normal physical process, not spoilage. Gently shake the carton before serving to restore a smooth, creamy texture."
-                    },
-                    {
-                        "name": "Refrigerate at 0–4°C on an interior shelf — Cold Storage (7–10 Days) ❄️",
-                        "text": "Opened almond milk needs constant cold temperatures to inhibit microbial reproduction. 💡 Storage Tip: Ensure the cap is tightly sealed and place the container inside the main fridge compartment at 0–4°C. Consume within 7–10 days of opening for optimal safety."
-                    },
-                    {
-                        "name": "Store unopened cartons in a cool, dark pantry — Pantry Storage 🏺",
-                        "text": "Unopened shelf-stable tetra-paks are commercially sterile and remain stable at ambient temperatures. 💡 Storage Tip: Keep unopened cartons in a cool, dry pantry away from direct sunlight (10–20°C). They stay fresh until the printed expiration date."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Can I freeze almond milk for long-term storage?",
-                        "answer": "Freezing is generally not recommended for drinking purposes. Freezing breaks the emulsion between water and almond solids, causing a grainy, separated texture upon thawing. However, if you plan to use it for cooking or smoothies, freezing in ice cube trays works well."
-                    },
-                    {
-                        "question": "How can I tell if almond milk has gone bad?",
-                        "answer": "Spoiled almond milk develops a sour smell, curdles into thick clumps resembling tofu, or shows container bloating. If you spot mold spores or notice a sharp, acidic taste, discard it immediately as it has spoiled."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "アーモンドミルクを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくアーモンドミルクの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)",
-                "intro": "香ばしくヘルシーな植物性ミルクとして人気のあるアーモンドミルク。開封して冷蔵庫のドアポケットに入れておいたら、数日で塊ができたり酸っぱいにおいがして捨ててしまった経験はありませんか？ 🥛\n\nアーモンドミルクはアーモンド抽出物と水分が結びついた植物性飲料で、発酵乳製品と異なり開封直後から空気中の微生物に汚染されやすい性質を持っています。特に水分が多く常温放置や温度変化の激しいドアポケットでの保存は、雑菌の繁殖と分離を急激に促進します。\n\n本記事では、FDAやUSDAの科学的ガイドラインに基づき、アーモンドミルクの層分離を防ぎ鮮度を safe に保つ3段階の保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "植物性代替乳製品の乳化状態と微生物増殖の特性を理解し、正しい保存方法を実践することは食中毒予防と鮮度維持において不可欠です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "開封後は絶対に常温放置しないでください 🚫",
-                        "desc": "未開封の常温保存パックは常温保存が可能ですが、一度開封すると空気中の微生物が混入します。水分が豊富なため常温では数時間で雑菌が爆発的に増殖しますので、開封後はただちに冷蔵保存してください。"
-                    },
-                    {
-                        "title": "冷蔵庫のドアポケットではなく奥の棚で保存してください ❄️",
-                        "desc": "ドアポケットは開閉のたびに温度変化が大きく、雑菌の繁殖や乳化分離を引き起こします。アーモンドミルクは温度が一定に保たれる冷蔵庫奥の棚（0〜4℃）で保存してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "使用前に軽く振る — 天然沈殿物の再乳化 🥛",
-                        "text": "アーモンドミルクは不飽和脂肪酸と固形分が水分に懸濁した状態のため、静置すると自然に分離します。💡保存のコツ：傷みではなく自然な物理現象ですので、飲む前や使用前に容器をゆっくり振ってあげると再び滑らかな状態に戻ります。"
-                    },
-                    {
-                        "name": "開封後0〜4℃で冷蔵保存する — 開封後の保管 (7〜10日間) ❄️",
-                        "text": "開封したアーモンドミルクは微生物の繁殖を防ぐため主冷蔵室で保管する必要があります。💡保存のコツ：キャップをしっかり閉めて0〜4℃の冷蔵庫奥で保存してください。開封後7〜10日以内に使い切るのが最も安全です。"
-                    },
-                    {
-                        "name": "未開封パックは涼しい常温で保存する — 未開封パントリー保存 🏺",
-                        "text": "未開封の常温保存用テトラパックアーモンドミルクは常温で安定しています。💡保存のコツ：直射日光の当たらない涼しく乾燥した暗所（10〜20℃）で保存してください。賞味期限まで品質が保たれます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "アーモンドミルクを長期保存するために冷凍してもいいですか？",
-                        "answer": "飲料用としての冷凍保存はおすすめしません。冷凍すると水分とアーモンド成分の乳化構造が壊れ、解凍後にボソボソとした分離が生じて飲み心地が悪くなります。ただし、料理やスモージー用として使用する場合は製氷皿で凍らせて保存可能です。"
-                    },
-                    {
-                        "question": "アーモンドミルクが傷んでいるかどうかはどう確認しますか？",
-                        "answer": "傷んだアーモンドミルクは酸っぱい悪臭がしたり、豆腐のように固まってブツブツができます。また容器が膨張していたり表面にカビが見られる場合は腐敗しているため、直ちに破棄してください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持杏仁奶新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解杏仁奶的最佳储存温度、方式和保质时长。",
-                "authority": "美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA)",
-                "intro": "作为浓郁香醇的牛奶替代品，杏仁奶深受喜爱。但开封后放在冰箱门架上，没过几天就凝块结块或散发酸臭味，您遇到过这种情况吗？ 🥛\n\n杏仁奶是由杏仁提取物与水混合而成的植物性饮料，与发酵乳制品不同，开封后极易受到空气中微生物的污染。其水分含量极高，常温久置或放在温度波动剧烈的冰箱门架上，会急剧加速细菌滋生与水油分层。\n\n本指南将基于 FDA 和 USDA 的科学指南，为您介绍防止分层凝块、安全保持杏仁奶新鲜度的 3 步储存秘诀。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解植物性替代乳品的乳化状态与微生物滋生机制，并采用正确的储存方法，对于预防食物中毒和保持新鲜度至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "开封后切勿直接置于常温下 🚫",
-                        "desc": "未开封的常温无菌包装可在室温存放，但一旦开封就会落入空气中的微生物。在水分丰富的环境中，常温下数小时内细菌就会暴增，因此开封后须立即冷藏。"
-                    },
-                    {
-                        "title": "请置于冰箱内部深处，而非冰箱门架上 ❄️",
-                        "desc": "冰箱门架因开关频繁而存在较大的温度波动，极易引发细菌滋生与乳化分层。杏仁奶应存放在温度恒定的冰箱内部隔板上（0~4℃）。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "饮用前轻轻摇匀 — 使天然沉淀充分乳化 🥛",
-                        "text": "杏仁奶中的不饱和脂肪酸与固体颗粒悬浮于水中，静置时会自然分层。💡储存小贴士：这是正常的物理现象而非变质，饮用或使用前将包装轻轻摇匀即可恢复顺滑细腻。"
-                    },
-                    {
-                        "name": "开封后置于0~4℃冷藏 — 开封冷藏保存 (7~10天) ❄️",
-                        "text": "开封后的杏仁奶需要持续低温环境来抑制微生物繁殖。💡储存小贴士：拧紧盖子，放入0~4℃的冰箱内侧深处。开封后建议在7~10天内饮用完毕最安全。"
-                    },
-                    {
-                        "name": "未开封产品避光置于阴凉常温处 — 未开封常温保存 🏺",
-                        "text": "未开封的利乐包无菌杏仁奶在常温下非常稳定。💡储存小贴士：置于避光、干燥阴凉的橱柜或储藏室（10~20℃）中，在标注的保质期内均可保持新鲜。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "为了长期保存，可以把杏仁奶冷冻起来吗？",
-                        "answer": "作为直接饮用不推荐冷冻。冷冻会破坏水与杏仁颗粒的乳化结构，解冻后会出现豆腐渣状的分层与粗糙口感。但如果是用于做菜或打烘焙冰沙，可以用冰格分装冷冻保存。"
-                    },
-                    {
-                        "question": "如何判断杏仁奶是否变质？",
-                        "answer": "变质的杏仁奶会散发出刺鼻的酸臭味，或者像豆腐花一样出现结块凝固现象。如果包装鼓包或表面长霉，说明已被微生物污染腐败，必须立即丢弃。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener la leche de almendras fresca: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la leche de almendras según las directrices oficiales de seguridad.",
-                "authority": "FDA & USDA & MFDS & RDA",
-                "intro": "¿Alguna vez disfrutó de un vaso de deliciosa leche de almendras y, tras dejarla unos días en la puerta del refrigerador, descubrió que se cortaba o tenía olor agrio? 🥛\n\nLa leche de almendras es una bebida vegetal formada por partículas de almendra suspendidas en agua. A diferencia de los lácteos fermentados, al abrirse queda muy expuesta a la contaminación por microorganismos del aire. Su alto contenido de agua provoca que dejarla a temperatura ambiente o en la puerta del refrigerador acelere el crecimiento bacteriano y rompa la emulsión.\n\nEn esta guía se presenta una guía de conservación de leche de almendras en 3 pasos respaldada por la FDA y el USDA para evitar la separación y mantenerla fresca con seguridad. 🛡️",
-                "whyTitle": "¿Por qué almacenarla así? Datos científicos",
-                "whyDesc": "Comprender las propiedades de emulsión y los mecanismos de crecimiento microbiano en alternativas lácteas vegetales es fundamental para prevenir intoxicaciones alimentarias y mantener la frescura.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Nunca la deje a temperatura ambiente después de abrirla 🚫",
-                        "desc": "Los envases esterilizados cerrados se mantienen a temperatura ambiente, pero al abrirse entran microbios. Con su alto contenido de agua, las bacterias se multiplican en pocas horas fuera del refrigerador; refrigérela de inmediato."
-                    },
-                    {
-                        "title": "Guárdela en los estantes interiores del refrigerador, no en la puerta ❄️",
-                        "desc": "La puerta del refrigerador sufre constantes cambios de temperatura al abrirse, lo que estimula el crecimiento bacteriano y la separación de la mezcla. Consérvela siempre en un estante interior a 0–4 °C."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Agite suavemente antes de servir — Reemulsione los sedimentos naturales 🥛",
-                        "text": "La leche de almendras es una suspensión de sólidos en agua, por lo que las partículas se asientan al reposar. 💡 Consejo de almacenamiento: Esta separación es un proceso físico natural y no significa descomposición. Agite suavemente el envase antes de servir para recuperar la textura cremosa."
-                    },
-                    {
-                        "name": "Refrigere a 0–4 °C en un estante interior — Almacenamiento (7 a 10 días) ❄️",
-                        "text": "La leche de almendras abierta necesita frío constante para frenar la reproducción microbiana. 💡 Consejo de almacenamiento: Cierre bien la tapa y colóquela en el estante interior principal (0–4 °C). Consúmala en un plazo de 7 a 10 días tras abrirla."
-                    },
-                    {
-                        "name": "Conserve envases cerrados en una despensa fresca — Despensa 🏺",
-                        "text": "Los envases estériles sin abrir se mantienen estables a temperatura ambiente. 💡 Consejo de almacenamiento: Guarde los envases en una despensa fresca, seca y oscura (10–20 °C). Se mantienen frescos hasta la fecha de caducidad impresa."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Puedo congelar la leche de almendras para conservarla a largo plazo?",
-                        "answer": "No se recomienda congelar si planea beberla directamente. La congelación rompe la emulsión entre el agua y las almendras, dejando una textura grumosa tras descongelar. Sin embargo, si la usará para cocinar o batidos, congelarla en cubeteras de hielo funciona bien."
-                    },
-                    {
-                        "question": "¿Cómo puedo saber si la leche de almendras se ha echado a perder?",
-                        "answer": "La leche de almendras echada a perder desarrolla un olor agrio, se corta formando grumos o el envase se abulta. Si nota moho o sabor ácido fuerte, deséchela de inmediato."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver le lait d'amande frais : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le lait d'amande selon les directives officielles de sécurité.",
-                "authority": "FDA & USDA & MFDS & RDA",
-                "intro": "Avez-vous déjà dégusté un verre de lait d'amande pour constater, après quelques jours dans la porte du réfrigérateur, qu'il caillait ou dégageait une odeur sûre ? 🥛\n\nLe lait d'amande est une boisson végétale composée de fines particules d'amande en suspension dans l'eau. Contrairement aux produits laitiers fermentés, son ouverture l'expose directement aux micro-organismes ambiants. Sa forte teneur en eau fait que le laisser à température ambiante ou dans la porte du réfrigérateur accélère la prolifération bactérienne et la séparation des phases.\n\nDans ce guide, vous présente un guide scientifique de conservation du lait d'amande en 3 étapes basé sur les recommandations de la FDA et de l'USDA pour éviter la séparation et préserver sa fraîcheur. 🛡️",
-                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre la structure d'émulsion des alternatives végétales et le développement microbien est essentiel pour prévenir les intoxications et maintenir la fraîcheur.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne le laissez jamais à température ambiante après ouverture 🚫",
-                        "desc": "Les briques stériles non ouvertes restent à température ambiante, mais l'ouverture introduit des germes. Gorgé d'eau, le lait d'amande voit les bactéries se multiplier en quelques heures hors du frais; réfrigérez immédiatement."
-                    },
-                    {
-                        "title": "Rangez-le sur une étagère intérieure, pas dans la porte ❄️",
-                        "desc": "La porte du réfrigérateur subit d'importantes variations de température à chaque ouverture, favorisant la prolifération bactérienne et la séparation. Placez toujours la brique ouverte sur une étagère intérieure entre 0 et 4 °C."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Agiter doucement avant de servir — Ré-émulsionner le dépôt naturel 🥛",
-                        "text": "Le lait d'amande est une suspension d'amandes dans l'eau; les solides se déposent naturellement avec le temps. 💡 Astuce de conservation : Ce dépôt est un phénomène physique normal, pas une altération. Agitez doucement la brique avant de servir pour retrouver une consistance homogène."
-                    },
-                    {
-                        "name": "Réfrigérer entre 0 et 4 °C sur une étagère intérieure — Conservation (7 à 10 jours) ❄️",
-                        "text": "Le lait d'amande ouvert exige un froid constant pour freiner le développement microbien. 💡 Astuce de conservation : Refermez bien le bouchon et placez la brique au centre du réfrigérateur entre 0 et 4 °C. Consommez-le dans les 7 à 10 jours suivant l'ouverture."
-                    },
-                    {
-                        "name": "Conserver les briques fermées dans un placard frais — Placard 🏺",
-                        "text": "Les briques stériles non ouvertes restent très stables à température ambiante. 💡 Astuce de conservation : Gardez les emballages fermés dans un endroit frais, sec et sombre (10 à 20 °C). Ils restent frais jusqu'à la date de péremption."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Puis-je congeler du lait d'amande pour le conserver plus longtemps ?",
-                        "answer": "La congélation est déconseillée si vous souhaitez le boire tel quel. Le gel détruit l'émulsion entre l'eau et l'amande, rendant la texture granuleuse après décongélation. En revanche, pour cuisiner ou préparer des smoothies, la congélation dans des bacs à glaçons convient parfaitement."
-                    },
-                    {
-                        "question": "Comment savoir si le lait d'amande est périmé ?",
-                        "answer": "Un lait d'amande tourné dégage une odeur sûre, forme des grumeaux épais ressemblant à du tofu ou fait gonfler la brique. Si vous observez de la moisissure ou un goût très acide, jetez-le immédiatement."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Mandelmilch richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Mandelmilch basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "FDA & USDA & MFDS & RDA",
-                "intro": "Haben Sie schon einmal frische Mandelmilch genossen, nur um nach wenigen Tagen in der Kühlschranktür festzustellen, dass sie ausflockte oder sauer roch? 🥛\n\nMandelmilch ist ein pflanzlicher Drink, bei dem fein gemahlene Mandeln in Wasser suspendiert sind. Anders als fermentierte Milchprodukte ist geöffnete Mandelmilch sehr anfällig für Keime aus der Luft. Der hohe Wassergehalt führt bei Raumtemperatur oder in der Kühlschranktür zu raschem Bakterienwachstum und Entmischung.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von FDA und USDA basiert, um Entmischung zu verhindern und Mandelmilch sicher frisch zu halten. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der Emulsionseigenschaften pflanzlicher Milchalternativen und der Keimvermehrung ist entscheidend, um Lebensmittelvergiftungen vorzubeugen und Frische zu sichern.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Nach dem Öffnen niemals bei Raumtemperatur lagern 🚫",
-                        "desc": "Ungeöffnete haltbare Packungen bleiben bei Raumtemperatur stabil, doch nach dem Öffnen gelangen Keime hinein. Bei Raumtemperatur vermehren sich Bakterien im wasserreichen Drink innerhalb weniger Stunden ungehemmt. Daher sofort kühlen."
-                    },
-                    {
-                        "title": "Auf einem Innenfach lagern, nicht in der Kühlschranktür ❄️",
-                        "desc": "In der Kühlschranktür schwankt die Temperatur bei jedem Öffnen stark, was Keimwachstum und Entmischung begünstigt. Geöffnete Mandelmilch gehört stets auf ein Innenfach bei 0–4 °C."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Vor dem Trinken sanft schütteln — Natürliche Schwebstoffe re-emulgieren 🥛",
-                        "text": "Mandelmilch ist eine Suspension aus Mandelpartikeln und Wasser, weshalb sich Feststoffe mit der Zeit am Boden absetzen. 💡 Lagerungstipp: Dies ist kein Verderb, sondern ein normaler physikalischer Vorgang. Schütteln Sie die Packung vor dem Einschenken sanft."
-                    },
-                    {
-                        "name": "Bei 0–4 °C auf einem Innenfach kühlen — Kühllagerung (7–10 Tage) ❄️",
-                        "text": "Geöffnete Mandelmilch benötigt eine durchgehende Kühlung, um Keimvermehrung zu hemmen. 💡 Lagerungstipp: Verschließen Sie die Kappe fest und stellen Sie die Packung bei 0–4 °C ins Innere des Kühlschranks. Innerhalb von 7–10 Tagen verbrauchen."
-                    },
-                    {
-                        "name": "Ungeöffnete Packungen kühl und dunkel lagern — Vorratskammer 🏺",
-                        "text": "Ungeöffnete haltbare Tetra-Paks sind keimarm verpackt und bei Raumtemperatur stabil. 💡 Lagerungstipp: Lagern Sie ungeöffnete Kassetten an einem kühlen, trockenen Ort (10–20 °C) ohne direkte Sonneneinstrahlung. Sie bleiben bis zum Mindesthaltbarkeitsdatum frisch."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Kann man Mandelmilch einfrieren, um sie länger aufzubewahren?",
-                        "answer": "Das Einfrieren als Getränk wird nicht empfohlen. Durch das Gefrieren bricht die Emulsion zwischen Wasser und Mandelpartikeln, was nach dem Auftauen zu einer wässrig-flockigen Textur führt. Zum Kochen oder für Smoothies lässt sich Mandelmilch jedoch gut in Eiswürfelformen einfrieren."
-                    },
-                    {
-                        "question": "Woran erkennt man, dass Mandelmilch schlecht geworden ist?",
-                        "answer": "Schlechte Mandelmilch entwickelt einen sauren Geruch, flockt stark wie Quark aus oder lässt die Verpackung blähen. Wenn Sie Schimmel oder einen scharfen sauren Geschmack bemerken, sofort entsorgen."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar leite de amêndoas fresco: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para o leite de amêndoas com base em diretrizes oficiais de segurança.",
-                "authority": "FDA & USDA & MFDS & RDA",
-                "intro": "Você já tomou um copo de leite de amêndoas saboroso e, após alguns dias na porta da geladeira, percebeu que ele coalhou ou ganhou um odor azedo? 🥛\n\nO leite de amêndoas é uma bebida vegetal formada por partículas de amêndoa suspensas em água. Ao contrário de derivados lácteos fermentados, quando aberto ele fica muito exposto à contaminação microbiana do ar. Seu alto teor de água faz com que deixá-lo fora da geladeira ou na porta resulte em rápido crescimento bacteriano e separação.\n\nNeste guia, apresentamos um guia de conservação do leite de amêndoas em 3 etapas baseado em diretrizes da FDA e do USDA para evitar a separação e mantê-lo fresco com segurança. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as propriedades de emulsão e os mecanismos de crescimento microbiano em bebidas vegetais é essencial para prevenir intoxicações alimentares e manter o frescor.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca deixe à temperatura ambiente após abrir 🚫",
-                        "desc": "Caixas fechadas esterilizadas duram fora da geladeira, mas a abertura expõe o produto a micróbios. Por ser rico em água, as bactérias se multiplicam em poucas horas na temperatura ambiente; refrigere imediatamente."
-                    },
-                    {
-                        "title": "Guarde numa prateleira interna, não na porta da geladeira ❄️",
-                        "desc": "A porta da geladeira sofre constantes variações de temperatura ao abrir e fechar, estimulando bactérias e a separação dos ingredientes. Guarde o leite de amêndoas aberto numa prateleira interna a 0–4 °C."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Agite suavemente antes de servir — Re-emulsione o sedimento natural 🥛",
-                        "text": "O leite de amêndoas é uma suspensão de amêndoas em água, fazendo com que os sólidos decantem com o tempo. 💡 Dica de conservação: Essa separação é física e normal, não sendo sinal de deterioração. Agite suavemente a caixa antes de servir para recuperar a textura cremosa."
-                    },
-                    {
-                        "name": "Refrigere a 0–4 °C numa prateleira interna — Armazenamento (7 a 10 dias) ❄️",
-                        "text": "O leite de amêndoas aberto precisa de frio constante para conter a proliferação de germes. 💡 Dica de conservação: Feche bem a tampa e coloque a caixa na prateleira interna principal (0–4 °C). Consuma em até 7 a 10 dias após a abertura."
-                    },
-                    {
-                        "name": "Mantenha caixas fechadas na despensa fresca — Despensa 🏺",
-                        "text": "Embalagens fechadas de leite de amêndoas longa vida são estáveis à temperatura ambiente. 💡 Dica de conservação: Mantenha as embalagens fechadas em local fresco, seco e escuro (10–20 °C). Permanecem frescas até a data de validade."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Posso congelar leite de amêndoas para conservar por mais tempo?",
-                        "answer": "Não é recomendado congelar para beber diretamente. O congelamento destrói a emulsão entre a água e a amêndoa, deixando uma textura grulhenta após descongelar. Porém, para cozinhar ou preparar smoothies, congelar em formas de gelo funciona bem."
-                    },
-                    {
-                        "question": "Como saber se o leite de amêndoas estragou?",
-                        "answer": "O leite de amêndoas estragado desenvolve cheiro azedo, coalha em grumos parecidos com tofu ou faz a embalagem estufar. Se notar mofo ou sabor ácido forte, descarte imediatamente."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Susu Almond (Almond Milk) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk susu almond berdasarkan pedoman keselamatan resmi.",
-                "authority": "FDA & USDA & MFDS & RDA",
-                "intro": "Pernahkah Anda menikmati segelas susu almond gurih lalu mendapati susunya menggumpal atau berbau asam setelah beberapa hari di rak pintu kulkas? 🥛\n\nSusu almond adalah minuman berbasis nabati yang dibuat dari suspensi partikel almond halus dalam air. Berbeda dari produk olahan susu fermentasi, susu almond yang sudah dibuka sangat rentan terhadap kontaminasi mikroba udara. Kadar airnya yang tinggi membuat penyimpanan di suhu ruang atau rak pintu kulkas yang sering mengalami fluktuasi suhu mempercepat pertumbuhan bakteri dan pemisahan emulsi.\n\nDalam panduan ini, kami membagikan panduan penyimpanan susu almond 3 langkah berbasis ilmiah berdasarkan pedoman FDA dan USDA untuk mencegah pemisahan dan menjaga kesegaran susu almond secara aman. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami sifat emulsi minuman nabati dan mekanisme pertumbuhan mikroba sangat penting untuk mencegah keracunan makanan dan menjaga kesegaran.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan pernah membiarkan di suhu ruang setelah dibuka 🚫",
-                        "desc": "Kemasan steril yang belum dibuka dapat disimpan di suhu ruang, tetapi setelah dibuka mikroba udara akan masuk. Dengan kadar air yang tinggi, bakteri berkembang biak dengan cepat di suhu ruang; segera simpan di kulkas."
-                    },
-                    {
-                        "title": "Simpan di rak dalam kulkas, bukan di rak pintu ❄️",
-                        "desc": "Rak pintu kulkas sering mengalami fluktuasi suhu setiap kali dibuka, memicu pertumbuhan bakteri dan pemisahan lemak. Selalu simpan susu almond yang sudah dibuka di rak dalam kulkas pada suhu 0–4°C."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Kocok perlahan sebelum diminum — Satukan Kembali Endapan Alami 🥛",
-                        "text": "Susu almond adalah suspensi padatan almond dalam air sehingga endapan akan terbentuk secara alami. 💡 Tips Penyimpanan: Pemisahan ini adalah proses fisik alami dan bukan tanda pembusukan. Kocok kemasan secara perlahan sebelum diminum untuk mengembalikan tekstur lembutnya."
-                    },
-                    {
-                        "name": "Simpan di kulkas pada suhu 0–4°C di rak dalam — Simpan Dingin (7–10 Hari) ❄️",
-                        "text": "Susu almond yang sudah dibuka membutuhkan suhu dingin konstan untuk menekan perkembangbiakan kuman. 💡 Tips Penyimpanan: Tutup rapat dan letakkan di dalam rak utama kulkas pada suhu 0–4°C. Habiskan dalam waktu 7–10 hari setelah dibuka."
-                    },
-                    {
-                        "name": "Simpan kemasan yang belum dibuka di tempat sejuk dan kering — Lemari Dapur 🏺",
-                        "text": "Kemasan karton tetra-pak steril yang belum dibuka stabil di suhu ruang. 💡 Tips Penyimpanan: Simpan di lemari dapur yang sejuk, kering, dan gelap (10–20°C). Susu almond akan tetap segar hingga tanggal kedaluwarsa yang tertera."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apakah susu almond boleh dibekukan di freezer untuk penyimpanan jangka panjang?",
-                        "answer": "Pembekuan tidak direkomendasikan jika ingin diminum langsung. Membekukan susu almond merusak emulsi air dan padatan almond, menyebabkan teksturnya menjadi kasar dan terpisah setelah dilelehkan. Namun jika digunakan untuk memasak atau smoothie, membekukannya dalam cetakan es batu diperbolehkan."
-                    },
-                    {
-                        "question": "Bagaimana cara mengetahui jika susu almond sudah basi?",
-                        "answer": "Susu almond yang basi akan mengeluarkan bau asam, menggumpal seperti tahu, atau membuat kemasan menggelembung. Jika menemukan jamur atau rasa asam yang tajam, segera buang."
-                    }
-                ]
-            }
-        }
+  "how-to-store-almond-milk": {
+    "ingId": "almond-milk",
+    "pubDate": "2026-05-20",
+    "updatedDate": "2026-05-20",
+    "heroImage": "/images/blog/almond_milk_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "아몬드 밀크 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 아몬드 밀크의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)",
+        "intro": "고소하고 유제품 대용으로 인기 있는 아몬드 밀크, 개봉 후 몇 번 마시고 냉장고 문 쪽에 두었다가 금세 덩어리가 지거나 시큼한 냄새가 나서 버린 경험 있으시죠? 🥛\n\n아몬드 밀크는 아몬드 추출물과 수분이 결합한 식물성 음료로, 유산균 발효유와 달리 개봉 직후 공기 중 미생물 오염에 노출되기 쉽습니다. 특히 수분 함량이 높아 개봉 후 상온에 방치하거나 온도 변화가 심한 냉장고 문 쪽에 두면 세균 증식과 침전물 분리가 급격히 촉진됩니다.\n\n이번 가이드에서는 FDA와 USDA의 과학적 가이드라인에 기반하여, 아몬드 밀크의 층분리를 방지하고 신선함을 오래 유지하는 3단계 보관 비법을 전해드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "식물성 대체 유제품의 유화 상태와 미생물 증식 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 식중독 예방과 신선도 유지에 필수적입니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "개봉 후 절대로 상온에 방치하지 마세요 🚫",
+            "desc": "미개봉 멸균 팩은 상온 보관이 가능하지만, 일단 개봉하면 공기 중 미생물이 유입됩니다. 수분이 풍부한 환경 특성상 상온에서는 수시간 내에 세균이 폭발적으로 증식하므로 개봉 즉시 냉장 보관해야 합니다."
+          },
+          {
+            "title": "냉장고 문 쪽 대신 안쪽에 보관하세요 ❄️",
+            "desc": "냉장고 문 쪽은 문을 열고 닫을 때마다 온도 변화가 커 미생물 증식과 유화 분리를 유발합니다. 아몬드 밀크는 온도가 일정하게 유지되는 냉장고 안쪽 선반(0~4℃)에 보관해야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "사용 전 가볍게 흔들어주기 — 천연 침전물 유화 🥛",
+            "text": "아몬드 밀크는 불포화지방산과 고형분이 수분에 서스펜션(현탁)된 형태이므로 가만히 두면 자연스럽게 층이 분리됩니다. 💡 보관 팁: 변질이 아닌 자연스러운 물리 현상이므로, 마시기 전이나 사용 전에 용기를 천천히 골고루 흔들어주면 다시 매끄러운 유화 상태가 됩니다."
+          },
+          {
+            "name": "개봉 후 0~4℃ 저온 냉장 보관하기 — 개봉 후 보관 (7~10일) ❄️",
+            "text": "개봉한 아몬드 밀크는 미생물 번식을 막기 위해 주 냉장실에 보관해야 합니다. 💡 보관 팁: 뚜껑을 완벽히 밀봉하여 0~4℃의 냉장고 안쪽에 보관하세요. 개봉 후 7~10일 이내에 모두 소비하는 것이 가장 안전합니다."
+          },
+          {
+            "name": "미개봉 멸균 팩은 서늘한 실온 보관하기 — 미개봉 팬트리 보관 🏺",
+            "text": "개봉하지 않은 멸균 테트라팩 아몬드 밀크는 상온에서 안정적입니다. 💡 보관 팁: 직사광선이 비치지 않는 서늘하고 건조한 팬트리나 찬장(10~20℃)에 보관하세요. 팩에 표기된 유통기한까지 신선도가 유지됩니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "아몬드 밀크를 장기 보관하기 위해 냉동해도 되나요?",
+            "answer": "냉동 보관은 권장하지 않습니다. 아몬드 밀크를 얼리면 물과 아몬드 입자의 유화 구조가 깨져 해동 후 입자가 푸석하게 분리되고 음료로 마시기 어색한 식감이 됩니다. 다만 요리나 스무디용으로 사용할 목적이라면 얼음 트레이에 얼려 보관할 수 있습니다."
+          },
+          {
+            "question": "아몬드 밀크가 상했는지 어떻게 확인하나요?",
+            "answer": "아몬드 밀크가 상하면 시큼한 악취가 나거나, 마치 순두부처럼 덩어리가 지고 응고 현상이 일어납니다. 또한 용기가 부풀어 오르거나 표면에 곰팡이가 보인다면 미생물이 부패를 일으킨 것이므로 즉시 버려야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Almond Milk Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for almond milk based on official safety guidelines.",
+        "authority": "FDA & USDA & MFDS & RDA",
+        "intro": "Have you ever enjoyed a glass of nutty, refreshing almond milk only to find it curdling or smelling sour after a few days on the fridge door? 🥛\n\nAlmond milk is a plant-based beverage formed by suspending almond particles in water. Unlike fermented dairy products, opened almond milk is highly susceptible to microbial contamination from ambient air. Its high moisture content means leaving it at room temperature or storing it in the temperature-fluctuating fridge door rapidly speeds up bacterial growth and emulsion breakdown.\n\nIn this guide, shares a scientifically proven 3-step almond milk storage guide based on guidelines from the FDA and USDA to prevent separation and keep your almond milk safely fresh. 🛡️",
+        "whyTitle": "Why Store Almond Milk This Way? Scientific Facts",
+        "whyDesc": "Understanding the emulsification properties and microbial growth mechanisms of plant-based dairy alternatives is essential for preventing foodborne illness and preserving freshness.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never leave at room temperature after opening 🚫",
+            "desc": "While unopened shelf-stable cartons can sit at room temperature, opening them introduces airborne microbes. Given its high moisture content, bacteria multiply exponentially within hours at room temperature, so refrigerate immediately after opening."
+          },
+          {
+            "title": "Store on an inside fridge shelf, not on the door ❄️",
+            "desc": "The refrigerator door experiences frequent temperature fluctuations whenever opened, encouraging bacterial blooms and fat separation. Always store opened almond milk on an interior shelf maintained at 0–4°C."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Shake gently before drinking — Re-Emulsify Natural Sediment 🥛",
+            "text": "Almond milk is a suspension of finely ground almonds and water, so solids naturally settle over time. 💡 Storage Tip: This separation is a normal physical process, not spoilage. Gently shake the carton before serving to restore a smooth, creamy texture."
+          },
+          {
+            "name": "Refrigerate at 0–4°C on an interior shelf — Cold Storage (7–10 Days) ❄️",
+            "text": "Opened almond milk needs constant cold temperatures to inhibit microbial reproduction. 💡 Storage Tip: Ensure the cap is tightly sealed and place the container inside the main fridge compartment at 0–4°C. Consume within 7–10 days of opening for optimal safety."
+          },
+          {
+            "name": "Store unopened cartons in a cool, dark pantry — Pantry Storage 🏺",
+            "text": "Unopened shelf-stable tetra-paks are commercially sterile and remain stable at ambient temperatures. 💡 Storage Tip: Keep unopened cartons in a cool, dry pantry away from direct sunlight (10–20°C). They stay fresh until the printed expiration date."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Can I freeze almond milk for long-term storage?",
+            "answer": "Freezing is generally not recommended for drinking purposes. Freezing breaks the emulsion between water and almond solids, causing a grainy, separated texture upon thawing. However, if you plan to use it for cooking or smoothies, freezing in ice cube trays works well."
+          },
+          {
+            "question": "How can I tell if almond milk has gone bad?",
+            "answer": "Spoiled almond milk develops a sour smell, curdles into thick clumps resembling tofu, or shows container bloating. If you spot mold spores or notice a sharp, acidic taste, discard it immediately as it has spoiled."
+          }
+        ]
+      },
+      "ja": {
+        "title": "アーモンドミルクを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくアーモンドミルクの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)",
+        "intro": "香ばしくヘルシーな植物性ミルクとして人気のあるアーモンドミルク。開封して冷蔵庫のドアポケットに入れておいたら、数日で塊ができたり酸っぱいにおいがして捨ててしまった経験はありませんか？ 🥛\n\nアーモンドミルクはアーモンド抽出物と水分が結びついた植物性飲料で、発酵乳製品と異なり開封直後から空気中の微生物に汚染されやすい性質を持っています。特に水分が多く常温放置や温度変化の激しいドアポケットでの保存は、雑菌の繁殖と分離を急激に促進します。\n\n本記事では、FDAやUSDAの科学的ガイドラインに基づき、アーモンドミルクの層分離を防ぎ鮮度を safe に保つ3段階の保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "植物性代替乳製品の乳化状態と微生物増殖の特性を理解し、正しい保存方法を実践することは食中毒予防と鮮度維持において不可欠です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "開封後は絶対に常温放置しないでください 🚫",
+            "desc": "未開封の常温保存パックは常温保存が可能ですが、一度開封すると空気中の微生物が混入します。水分が豊富なため常温では数時間で雑菌が爆発的に増殖しますので、開封後はただちに冷蔵保存してください。"
+          },
+          {
+            "title": "冷蔵庫のドアポケットではなく奥の棚で保存してください ❄️",
+            "desc": "ドアポケットは開閉のたびに温度変化が大きく、雑菌の繁殖や乳化分離を引き起こします。アーモンドミルクは温度が一定に保たれる冷蔵庫奥の棚（0〜4℃）で保存してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "使用前に軽く振る — 天然沈殿物の再乳化 🥛",
+            "text": "アーモンドミルクは不飽和脂肪酸と固形分が水分に懸濁した状態のため、静置すると自然に分離します。💡保存のコツ：傷みではなく自然な物理現象ですので、飲む前や使用前に容器をゆっくり振ってあげると再び滑らかな状態に戻ります。"
+          },
+          {
+            "name": "開封後0〜4℃で冷蔵保存する — 開封後の保管 (7〜10日間) ❄️",
+            "text": "開封したアーモンドミルクは微生物の繁殖を防ぐため主冷蔵室で保管する必要があります。💡保存のコツ：キャップをしっかり閉めて0〜4℃の冷蔵庫奥で保存してください。開封後7〜10日以内に使い切るのが最も安全です。"
+          },
+          {
+            "name": "未開封パックは涼しい常温で保存する — 未開封パントリー保存 🏺",
+            "text": "未開封の常温保存用テトラパックアーモンドミルクは常温で安定しています。💡保存のコツ：直射日光の当たらない涼しく乾燥した暗所（10〜20℃）で保存してください。賞味期限まで品質が保たれます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "アーモンドミルクを長期保存するために冷凍してもいいですか？",
+            "answer": "飲料用としての冷凍保存はおすすめしません。冷凍すると水分とアーモンド成分の乳化構造が壊れ、解凍後にボソボソとした分離が生じて飲み心地が悪くなります。ただし、料理やスモージー用として使用する場合は製氷皿で凍らせて保存可能です。"
+          },
+          {
+            "question": "アーモンドミルクが傷んでいるかどうかはどう確認しますか？",
+            "answer": "傷んだアーモンドミルクは酸っぱい悪臭がしたり、豆腐のように固まってブツブツができます。また容器が膨張していたり表面にカビが見られる場合は腐敗しているため、直ちに破棄してください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持杏仁奶新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解杏仁奶的最佳储存温度、方式和保质时长。",
+        "authority": "美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA)",
+        "intro": "作为浓郁香醇的牛奶替代品，杏仁奶深受喜爱。但开封后放在冰箱门架上，没过几天就凝块结块或散发酸臭味，您遇到过这种情况吗？ 🥛\n\n杏仁奶是由杏仁提取物与水混合而成的植物性饮料，与发酵乳制品不同，开封后极易受到空气中微生物的污染。其水分含量极高，常温久置或放在温度波动剧烈的冰箱门架上，会急剧加速细菌滋生与水油分层。\n\n本指南将基于 FDA 和 USDA 的科学指南，为您介绍防止分层凝块、安全保持杏仁奶新鲜度的 3 步储存秘诀。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解植物性替代乳品的乳化状态与微生物滋生机制，并采用正确的储存方法，对于预防食物中毒和保持新鲜度至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "开封后切勿直接置于常温下 🚫",
+            "desc": "未开封的常温无菌包装可在室温存放，但一旦开封就会落入空气中的微生物。在水分丰富的环境中，常温下数小时内细菌就会暴增，因此开封后须立即冷藏。"
+          },
+          {
+            "title": "请置于冰箱内部深处，而非冰箱门架上 ❄️",
+            "desc": "冰箱门架因开关频繁而存在较大的温度波动，极易引发细菌滋生与乳化分层。杏仁奶应存放在温度恒定的冰箱内部隔板上（0~4℃）。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "饮用前轻轻摇匀 — 使天然沉淀充分乳化 🥛",
+            "text": "杏仁奶中的不饱和脂肪酸与固体颗粒悬浮于水中，静置时会自然分层。💡储存小贴士：这是正常的物理现象而非变质，饮用或使用前将包装轻轻摇匀即可恢复顺滑细腻。"
+          },
+          {
+            "name": "开封后置于0~4℃冷藏 — 开封冷藏保存 (7~10天) ❄️",
+            "text": "开封后的杏仁奶需要持续低温环境来抑制微生物繁殖。💡储存小贴士：拧紧盖子，放入0~4℃的冰箱内侧深处。开封后建议在7~10天内饮用完毕最安全。"
+          },
+          {
+            "name": "未开封产品避光置于阴凉常温处 — 未开封常温保存 🏺",
+            "text": "未开封的利乐包无菌杏仁奶在常温下非常稳定。💡储存小贴士：置于避光、干燥阴凉的橱柜或储藏室（10~20℃）中，在标注的保质期内均可保持新鲜。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "为了长期保存，可以把杏仁奶冷冻起来吗？",
+            "answer": "作为直接饮用不推荐冷冻。冷冻会破坏水与杏仁颗粒的乳化结构，解冻后会出现豆腐渣状的分层与粗糙口感。但如果是用于做菜或打烘焙冰沙，可以用冰格分装冷冻保存。"
+          },
+          {
+            "question": "如何判断杏仁奶是否变质？",
+            "answer": "变质的杏仁奶会散发出刺鼻的酸臭味，或者像豆腐花一样出现结块凝固现象。如果包装鼓包或表面长霉，说明已被微生物污染腐败，必须立即丢弃。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener la leche de almendras fresca: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la leche de almendras según las directrices oficiales de seguridad.",
+        "authority": "FDA & USDA & MFDS & RDA",
+        "intro": "¿Alguna vez disfrutó de un vaso de deliciosa leche de almendras y, tras dejarla unos días en la puerta del refrigerador, descubrió que se cortaba o tenía olor agrio? 🥛\n\nLa leche de almendras es una bebida vegetal formada por partículas de almendra suspendidas en agua. A diferencia de los lácteos fermentados, al abrirse queda muy expuesta a la contaminación por microorganismos del aire. Su alto contenido de agua provoca que dejarla a temperatura ambiente o en la puerta del refrigerador acelere el crecimiento bacteriano y rompa la emulsión.\n\nEn esta guía se presenta una guía de conservación de leche de almendras en 3 pasos respaldada por la FDA y el USDA para evitar la separación y mantenerla fresca con seguridad. 🛡️",
+        "whyTitle": "¿Por qué almacenarla así? Datos científicos",
+        "whyDesc": "Comprender las propiedades de emulsión y los mecanismos de crecimiento microbiano en alternativas lácteas vegetales es fundamental para prevenir intoxicaciones alimentarias y mantener la frescura.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Nunca la deje a temperatura ambiente después de abrirla 🚫",
+            "desc": "Los envases esterilizados cerrados se mantienen a temperatura ambiente, pero al abrirse entran microbios. Con su alto contenido de agua, las bacterias se multiplican en pocas horas fuera del refrigerador; refrigérela de inmediato."
+          },
+          {
+            "title": "Guárdela en los estantes interiores del refrigerador, no en la puerta ❄️",
+            "desc": "La puerta del refrigerador sufre constantes cambios de temperatura al abrirse, lo que estimula el crecimiento bacteriano y la separación de la mezcla. Consérvela siempre en un estante interior a 0–4 °C."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Agite suavemente antes de servir — Reemulsione los sedimentos naturales 🥛",
+            "text": "La leche de almendras es una suspensión de sólidos en agua, por lo que las partículas se asientan al reposar. 💡 Consejo de almacenamiento: Esta separación es un proceso físico natural y no significa descomposición. Agite suavemente el envase antes de servir para recuperar la textura cremosa."
+          },
+          {
+            "name": "Refrigere a 0–4 °C en un estante interior — Almacenamiento (7 a 10 días) ❄️",
+            "text": "La leche de almendras abierta necesita frío constante para frenar la reproducción microbiana. 💡 Consejo de almacenamiento: Cierre bien la tapa y colóquela en el estante interior principal (0–4 °C). Consúmala en un plazo de 7 a 10 días tras abrirla."
+          },
+          {
+            "name": "Conserve envases cerrados en una despensa fresca — Despensa 🏺",
+            "text": "Los envases estériles sin abrir se mantienen estables a temperatura ambiente. 💡 Consejo de almacenamiento: Guarde los envases en una despensa fresca, seca y oscura (10–20 °C). Se mantienen frescos hasta la fecha de caducidad impresa."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Puedo congelar la leche de almendras para conservarla a largo plazo?",
+            "answer": "No se recomienda congelar si planea beberla directamente. La congelación rompe la emulsión entre el agua y las almendras, dejando una textura grumosa tras descongelar. Sin embargo, si la usará para cocinar o batidos, congelarla en cubeteras de hielo funciona bien."
+          },
+          {
+            "question": "¿Cómo puedo saber si la leche de almendras se ha echado a perder?",
+            "answer": "La leche de almendras echada a perder desarrolla un olor agrio, se corta formando grumos o el envase se abulta. Si nota moho o sabor ácido fuerte, deséchela de inmediato."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver le lait d'amande frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le lait d'amande selon les directives officielles de sécurité.",
+        "authority": "FDA & USDA & MFDS & RDA",
+        "intro": "Avez-vous déjà dégusté un verre de lait d'amande pour constater, après quelques jours dans la porte du réfrigérateur, qu'il caillait ou dégageait une odeur sûre ? 🥛\n\nLe lait d'amande est une boisson végétale composée de fines particules d'amande en suspension dans l'eau. Contrairement aux produits laitiers fermentés, son ouverture l'expose directement aux micro-organismes ambiants. Sa forte teneur en eau fait que le laisser à température ambiante ou dans la porte du réfrigérateur accélère la prolifération bactérienne et la séparation des phases.\n\nDans ce guide, vous présente un guide scientifique de conservation du lait d'amande en 3 étapes basé sur les recommandations de la FDA et de l'USDA pour éviter la séparation et préserver sa fraîcheur. 🛡️",
+        "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre la structure d'émulsion des alternatives végétales et le développement microbien est essentiel pour prévenir les intoxications et maintenir la fraîcheur.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne le laissez jamais à température ambiante après ouverture 🚫",
+            "desc": "Les briques stériles non ouvertes restent à température ambiante, mais l'ouverture introduit des germes. Gorgé d'eau, le lait d'amande voit les bactéries se multiplier en quelques heures hors du frais; réfrigérez immédiatement."
+          },
+          {
+            "title": "Rangez-le sur une étagère intérieure, pas dans la porte ❄️",
+            "desc": "La porte du réfrigérateur subit d'importantes variations de température à chaque ouverture, favorisant la prolifération bactérienne et la séparation. Placez toujours la brique ouverte sur une étagère intérieure entre 0 et 4 °C."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Agiter doucement avant de servir — Ré-émulsionner le dépôt naturel 🥛",
+            "text": "Le lait d'amande est une suspension d'amandes dans l'eau; les solides se déposent naturellement avec le temps. 💡 Astuce de conservation : Ce dépôt est un phénomène physique normal, pas une altération. Agitez doucement la brique avant de servir pour retrouver une consistance homogène."
+          },
+          {
+            "name": "Réfrigérer entre 0 et 4 °C sur une étagère intérieure — Conservation (7 à 10 jours) ❄️",
+            "text": "Le lait d'amande ouvert exige un froid constant pour freiner le développement microbien. 💡 Astuce de conservation : Refermez bien le bouchon et placez la brique au centre du réfrigérateur entre 0 et 4 °C. Consommez-le dans les 7 à 10 jours suivant l'ouverture."
+          },
+          {
+            "name": "Conserver les briques fermées dans un placard frais — Placard 🏺",
+            "text": "Les briques stériles non ouvertes restent très stables à température ambiante. 💡 Astuce de conservation : Gardez les emballages fermés dans un endroit frais, sec et sombre (10 à 20 °C). Ils restent frais jusqu'à la date de péremption."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Puis-je congeler du lait d'amande pour le conserver plus longtemps ?",
+            "answer": "La congélation est déconseillée si vous souhaitez le boire tel quel. Le gel détruit l'émulsion entre l'eau et l'amande, rendant la texture granuleuse après décongélation. En revanche, pour cuisiner ou préparer des smoothies, la congélation dans des bacs à glaçons convient parfaitement."
+          },
+          {
+            "question": "Comment savoir si le lait d'amande est périmé ?",
+            "answer": "Un lait d'amande tourné dégage une odeur sûre, forme des grumeaux épais ressemblant à du tofu ou fait gonfler la brique. Si vous observez de la moisissure ou un goût très acide, jetez-le immédiatement."
+          }
+        ]
+      },
+      "de": {
+        "title": "Mandelmilch richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Mandelmilch basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "FDA & USDA & MFDS & RDA",
+        "intro": "Haben Sie schon einmal frische Mandelmilch genossen, nur um nach wenigen Tagen in der Kühlschranktür festzustellen, dass sie ausflockte oder sauer roch? 🥛\n\nMandelmilch ist ein pflanzlicher Drink, bei dem fein gemahlene Mandeln in Wasser suspendiert sind. Anders als fermentierte Milchprodukte ist geöffnete Mandelmilch sehr anfällig für Keime aus der Luft. Der hohe Wassergehalt führt bei Raumtemperatur oder in der Kühlschranktür zu raschem Bakterienwachstum und Entmischung.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von FDA und USDA basiert, um Entmischung zu verhindern und Mandelmilch sicher frisch zu halten. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der Emulsionseigenschaften pflanzlicher Milchalternativen und der Keimvermehrung ist entscheidend, um Lebensmittelvergiftungen vorzubeugen und Frische zu sichern.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Nach dem Öffnen niemals bei Raumtemperatur lagern 🚫",
+            "desc": "Ungeöffnete haltbare Packungen bleiben bei Raumtemperatur stabil, doch nach dem Öffnen gelangen Keime hinein. Bei Raumtemperatur vermehren sich Bakterien im wasserreichen Drink innerhalb weniger Stunden ungehemmt. Daher sofort kühlen."
+          },
+          {
+            "title": "Auf einem Innenfach lagern, nicht in der Kühlschranktür ❄️",
+            "desc": "In der Kühlschranktür schwankt die Temperatur bei jedem Öffnen stark, was Keimwachstum und Entmischung begünstigt. Geöffnete Mandelmilch gehört stets auf ein Innenfach bei 0–4 °C."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Vor dem Trinken sanft schütteln — Natürliche Schwebstoffe re-emulgieren 🥛",
+            "text": "Mandelmilch ist eine Suspension aus Mandelpartikeln und Wasser, weshalb sich Feststoffe mit der Zeit am Boden absetzen. 💡 Lagerungstipp: Dies ist kein Verderb, sondern ein normaler physikalischer Vorgang. Schütteln Sie die Packung vor dem Einschenken sanft."
+          },
+          {
+            "name": "Bei 0–4 °C auf einem Innenfach kühlen — Kühllagerung (7–10 Tage) ❄️",
+            "text": "Geöffnete Mandelmilch benötigt eine durchgehende Kühlung, um Keimvermehrung zu hemmen. 💡 Lagerungstipp: Verschließen Sie die Kappe fest und stellen Sie die Packung bei 0–4 °C ins Innere des Kühlschranks. Innerhalb von 7–10 Tagen verbrauchen."
+          },
+          {
+            "name": "Ungeöffnete Packungen kühl und dunkel lagern — Vorratskammer 🏺",
+            "text": "Ungeöffnete haltbare Tetra-Paks sind keimarm verpackt und bei Raumtemperatur stabil. 💡 Lagerungstipp: Lagern Sie ungeöffnete Kassetten an einem kühlen, trockenen Ort (10–20 °C) ohne direkte Sonneneinstrahlung. Sie bleiben bis zum Mindesthaltbarkeitsdatum frisch."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Kann man Mandelmilch einfrieren, um sie länger aufzubewahren?",
+            "answer": "Das Einfrieren als Getränk wird nicht empfohlen. Durch das Gefrieren bricht die Emulsion zwischen Wasser und Mandelpartikeln, was nach dem Auftauen zu einer wässrig-flockigen Textur führt. Zum Kochen oder für Smoothies lässt sich Mandelmilch jedoch gut in Eiswürfelformen einfrieren."
+          },
+          {
+            "question": "Woran erkennt man, dass Mandelmilch schlecht geworden ist?",
+            "answer": "Schlechte Mandelmilch entwickelt einen sauren Geruch, flockt stark wie Quark aus oder lässt die Verpackung blähen. Wenn Sie Schimmel oder einen scharfen sauren Geschmack bemerken, sofort entsorgen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar leite de amêndoas fresco: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para o leite de amêndoas com base em diretrizes oficiais de segurança.",
+        "authority": "FDA & USDA & MFDS & RDA",
+        "intro": "Você já tomou um copo de leite de amêndoas saboroso e, após alguns dias na porta da geladeira, percebeu que ele coalhou ou ganhou um odor azedo? 🥛\n\nO leite de amêndoas é uma bebida vegetal formada por partículas de amêndoa suspensas em água. Ao contrário de derivados lácteos fermentados, quando aberto ele fica muito exposto à contaminação microbiana do ar. Seu alto teor de água faz com que deixá-lo fora da geladeira ou na porta resulte em rápido crescimento bacteriano e separação.\n\nNeste guia, apresentamos um guia de conservação do leite de amêndoas em 3 etapas baseado em diretrizes da FDA e do USDA para evitar a separação e mantê-lo fresco com segurança. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as propriedades de emulsão e os mecanismos de crescimento microbiano em bebidas vegetais é essencial para prevenir intoxicações alimentares e manter o frescor.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca deixe à temperatura ambiente após abrir 🚫",
+            "desc": "Caixas fechadas esterilizadas duram fora da geladeira, mas a abertura expõe o produto a micróbios. Por ser rico em água, as bactérias se multiplicam em poucas horas na temperatura ambiente; refrigere imediatamente."
+          },
+          {
+            "title": "Guarde numa prateleira interna, não na porta da geladeira ❄️",
+            "desc": "A porta da geladeira sofre constantes variações de temperatura ao abrir e fechar, estimulando bactérias e a separação dos ingredientes. Guarde o leite de amêndoas aberto numa prateleira interna a 0–4 °C."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Agite suavemente antes de servir — Re-emulsione o sedimento natural 🥛",
+            "text": "O leite de amêndoas é uma suspensão de amêndoas em água, fazendo com que os sólidos decantem com o tempo. 💡 Dica de conservação: Essa separação é física e normal, não sendo sinal de deterioração. Agite suavemente a caixa antes de servir para recuperar a textura cremosa."
+          },
+          {
+            "name": "Refrigere a 0–4 °C numa prateleira interna — Armazenamento (7 a 10 dias) ❄️",
+            "text": "O leite de amêndoas aberto precisa de frio constante para conter a proliferação de germes. 💡 Dica de conservação: Feche bem a tampa e coloque a caixa na prateleira interna principal (0–4 °C). Consuma em até 7 a 10 dias após a abertura."
+          },
+          {
+            "name": "Mantenha caixas fechadas na despensa fresca — Despensa 🏺",
+            "text": "Embalagens fechadas de leite de amêndoas longa vida são estáveis à temperatura ambiente. 💡 Dica de conservação: Mantenha as embalagens fechadas em local fresco, seco e escuro (10–20 °C). Permanecem frescas até a data de validade."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Posso congelar leite de amêndoas para conservar por mais tempo?",
+            "answer": "Não é recomendado congelar para beber diretamente. O congelamento destrói a emulsão entre a água e a amêndoa, deixando uma textura grulhenta após descongelar. Porém, para cozinhar ou preparar smoothies, congelar em formas de gelo funciona bem."
+          },
+          {
+            "question": "Como saber se o leite de amêndoas estragou?",
+            "answer": "O leite de amêndoas estragado desenvolve cheiro azedo, coalha em grumos parecidos com tofu ou faz a embalagem estufar. Se notar mofo ou sabor ácido forte, descarte imediatamente."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Susu Almond (Almond Milk) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk susu almond berdasarkan pedoman keselamatan resmi.",
+        "authority": "FDA & USDA & MFDS & RDA",
+        "intro": "Pernahkah Anda menikmati segelas susu almond gurih lalu mendapati susunya menggumpal atau berbau asam setelah beberapa hari di rak pintu kulkas? 🥛\n\nSusu almond adalah minuman berbasis nabati yang dibuat dari suspensi partikel almond halus dalam air. Berbeda dari produk olahan susu fermentasi, susu almond yang sudah dibuka sangat rentan terhadap kontaminasi mikroba udara. Kadar airnya yang tinggi membuat penyimpanan di suhu ruang atau rak pintu kulkas yang sering mengalami fluktuasi suhu mempercepat pertumbuhan bakteri dan pemisahan emulsi.\n\nDalam panduan ini, kami membagikan panduan penyimpanan susu almond 3 langkah berbasis ilmiah berdasarkan pedoman FDA dan USDA untuk mencegah pemisahan dan menjaga kesegaran susu almond secara aman. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami sifat emulsi minuman nabati dan mekanisme pertumbuhan mikroba sangat penting untuk mencegah keracunan makanan dan menjaga kesegaran.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan pernah membiarkan di suhu ruang setelah dibuka 🚫",
+            "desc": "Kemasan steril yang belum dibuka dapat disimpan di suhu ruang, tetapi setelah dibuka mikroba udara akan masuk. Dengan kadar air yang tinggi, bakteri berkembang biak dengan cepat di suhu ruang; segera simpan di kulkas."
+          },
+          {
+            "title": "Simpan di rak dalam kulkas, bukan di rak pintu ❄️",
+            "desc": "Rak pintu kulkas sering mengalami fluktuasi suhu setiap kali dibuka, memicu pertumbuhan bakteri dan pemisahan lemak. Selalu simpan susu almond yang sudah dibuka di rak dalam kulkas pada suhu 0–4°C."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Kocok perlahan sebelum diminum — Satukan Kembali Endapan Alami 🥛",
+            "text": "Susu almond adalah suspensi padatan almond dalam air sehingga endapan akan terbentuk secara alami. 💡 Tips Penyimpanan: Pemisahan ini adalah proses fisik alami dan bukan tanda pembusukan. Kocok kemasan secara perlahan sebelum diminum untuk mengembalikan tekstur lembutnya."
+          },
+          {
+            "name": "Simpan di kulkas pada suhu 0–4°C di rak dalam — Simpan Dingin (7–10 Hari) ❄️",
+            "text": "Susu almond yang sudah dibuka membutuhkan suhu dingin konstan untuk menekan perkembangbiakan kuman. 💡 Tips Penyimpanan: Tutup rapat dan letakkan di dalam rak utama kulkas pada suhu 0–4°C. Habiskan dalam waktu 7–10 hari setelah dibuka."
+          },
+          {
+            "name": "Simpan kemasan yang belum dibuka di tempat sejuk dan kering — Lemari Dapur 🏺",
+            "text": "Kemasan karton tetra-pak steril yang belum dibuka stabil di suhu ruang. 💡 Tips Penyimpanan: Simpan di lemari dapur yang sejuk, kering, dan gelap (10–20°C). Susu almond akan tetap segar hingga tanggal kedaluwarsa yang tertera."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah susu almond boleh dibekukan di freezer untuk penyimpanan jangka panjang?",
+            "answer": "Pembekuan tidak direkomendasikan jika ingin diminum langsung. Membekukan susu almond merusak emulsi air dan padatan almond, menyebabkan teksturnya menjadi kasar dan terpisah setelah dilelehkan. Namun jika digunakan untuk memasak atau smoothie, membekukannya dalam cetakan es batu diperbolehkan."
+          },
+          {
+            "question": "Bagaimana cara mengetahui jika susu almond sudah basi?",
+            "answer": "Susu almond yang basi akan mengeluarkan bau asam, menggumpal seperti tahu, atau membuat kemasan menggelembung. Jika menemukan jamur atau rasa asam yang tajam, segera buang."
+          }
+        ]
+      }
     }
+  }
 }

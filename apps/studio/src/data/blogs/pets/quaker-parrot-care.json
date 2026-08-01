@@ -1,459 +1,459 @@
 {
-    "quaker-parrot-care": {
-        "pubDate": "2026-04-10",
-        "updatedDate": "2026-04-10",
-        "locales": {
-            "ko": {
-                "title": "퀘이커 앵무의 교감·경계 신호 해석과 지방간(Hepatic Lipidosis) 및 테플론 독성 예방을 위한 3단계 데일리 케어",
-                "description": "영리하고 언어 능력이 뛰어난 퀘이커 앵무(Quaker Parrot). 몸 떨기(Quaking) 및 새장 경계 신호 해석, 지방간·비만 예방, 테플론 가스 차단을 위한 3단계 홈케어 루틴을 소개합니다.",
-                "authority": "Association of Avian Veterinarians (AAV) 및 World Parrot Trust 케어 프로토콜",
-                "profile": {
-                    "breed": "퀘이커 앵무 (Quaker Parrot / Monk Parakeet)",
-                    "lifespan": "20 ~ 30년",
-                    "sleep_pattern": "10 ~ 12시간 (완전한 암막 수면으로 호르몬 및 스트레스 조절)",
-                    "temperament": "영리함, 언어 능력 우수, 강한 영역 본능(새장 집착), 애교 많음, 사교적"
-                },
-                "intro": "남미 원산의 퀘이커 앵무(Quaker Parrot / Monk Parakeet)는 뛰어난 언어 모사 능력과 당당하고 애교 넘치는 성격으로 전 세계 사육자들에게 큰 사랑을 받는 중소형 앵무새입니다. 퀘이커는 야생에서 유일하게 나뭇가지로 거대한 공동 둥지를 짓고 사는 앵무새로, 이로 인해 자신의 거주 공간(새장)에 대한 영역 본능과 집착이 매우 강합니다. 또한 식탐이 많고 비만해지기 쉬워 해바라기씨 위주의 지방 식단 시 치명적인 지방간(Hepatic Lipidosis)에 걸리기 쉬우며, 앵무새 특유의 공기주머니(Air Sacs) 호흡 구조로 인해 테플론(PTFE) 가공 팬의 유독 가스나 아로마 향수에 극도로 취약합니다. 이번 가이드에서는 퀘이커 앵무의 신체 신호를 정확히 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
-                "whyTitle": "퀘이커 앵무의 바디 랭귀지: 몸 떨기(Quaking)와 새장 영역 경계(Cage Defense)",
-                "whyDesc": "퀘이커 앵무는 몸의 진동과 새장 주변에서의 태도로 기쁨과 영역 경계 신호를 명확히 구분합니다. 머리와 몸 전체를 좌우로 파르르 떠는 **'몸 떨기(Quaking / Shaking)'**는 퀘이커 품종 특유의 행동으로, 보호자를 반기거나 먹이를 요청할 때, 혹은 극도의 기쁨을 느낄 때 내비치는 교감 신호입니다. 반면 새장 문 입구에서 몸을 세우고 동공을 조이며 부리를 딱딱거리는 **'새장 영역 경계(Cage Defense / Territorial Stance)'**는 둥지 수호 본능에서 비롯된 강한 영역 경고 신호입니다.",
-                "body_signals": [
-                    {
-                        "name": "머리와 몸 전체를 부드럽게 좌우로 파르르 떪 (Quaking / Shaking)",
-                        "meaning": "보호자를 향한 반가움, 먹이 요청, 또는 기분이 매우 좋을 때 나타나는 퀘이커 고유의 애정 표현 행동입니다.",
-                        "response": "다정한 목소리로 응답하고 손가락 끝으로 머리와 목 뒤를 부드럽게 긁어주며 교감을 나눕니다."
-                    },
-                    {
-                        "name": "새장 입구에서 동공을 조이며 부리로 딱딱 소리를 내거나 손을 향해 돌진함 (Cage Defense / Pupil Pinning)",
-                        "meaning": "자신의 둥지(새장)를 침범당했다고 느껴 본능적으로 영역을 수호하려는 강한 방어 행동입니다.",
-                        "response": "손을 무리하게 새장 안으로 넣지 말고, 문을 열어두고 스스로 나올 때까지 기다려 외부에서 교감합니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 펠릿 사료(60~70%) 급여 및 비타민 A 야채 제공, 주방 독성 가스 차단 환기",
-                        "text": "지방간과 비만을 예방하기 위해 영양 균형 펠릿과 당근, 단호박을 급여하고 테플론 프라이팬 가열 가스 노출을 차단합니다."
-                    },
-                    {
-                        "name": "낮: 둥지 본능 충족을 위한 포레징 장난감 제공 및 안전한 실내 자율 비행",
-                        "text": "나뭇가지나 종이를 뜯는 둥지 본능을 충족시킬 노즈워크 장난감을 제공하고, 창문을 닫은 안전한 공간에서 자유 비행시킵니다."
-                    },
-                    {
-                        "name": "저녁: 등 만지기 자제(호르몬 자극 예방) 및 10~12시간 완전 암막 수면 유지",
-                        "text": "암컷의 연속 산란과 알 묶임(Egg Binding)을 막기 위해 등이나 배를 만지지 않고, 정해진 시간에 암막 커버를 씌워 수면을 유지합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "주방에서 사용하는 테플론(PTFE) 코팅 팬이 왜 퀘이커 앵무에게 치명적인가요?",
-                        "answer": "앵무새는 허파 외에 공기주머니(Air Sacs)가 온몸에 퍼져 있는 고효율 호흡계를 가지고 있어 공기 중 오염 물질을 혈액으로 빠르게 흡수합니다. 테플론 팬이 고온 가열될 때 발생해 유포되는 무색무취의 독성 가스는 퀘이커에게 급성 폐출혈과 호흡 마비를 일으켜 사망에 이르게 하므로, 새장은 주방과 멀리 떨어진 환기가 잘 되는 곳에 두어야 합니다."
-                    },
-                    {
-                        "question": "퀘이커 앵무의 심한 '새장 영역 집착(Cage Aggression)'은 어떻게 교정하나요?",
-                        "answer": "퀘이커는 야생에서 거대한 나뭇가지 둥지를 짓고 사는 유일한 앵무새로, 새장을 자신의 요새이자 보금자리로 강하게 인식합니다. 새장 안으로 손을 넣어 억지로 꺼내려 하면 입질이 심해지므로, 새장 문을 열어둔 뒤 밖의 전용 쉼터(T포치)로 스스로 나올 때까지 기다렸다가 손 위에 올리는 훈련을 해야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Quaker Parrot Behavioral Signals and 3-Step Daily Routine for Hepatic Lipidosis and Teflon Toxicity Prevention",
-                "description": "Care guide for the intelligent Quaker Parrot (Monk Parakeet). Interpret quaking and cage defense signals, prevent fatty liver disease, avoid PTFE Teflon fumes, and control hormones in 3 steps.",
-                "authority": "Association of Avian Veterinarians (AAV) & World Parrot Trust Avian Care Protocols",
-                "profile": {
-                    "breed": "Quaker Parrot (Monk Parakeet / Myiopsitta monachus)",
-                    "lifespan": "20 - 30 Years",
-                    "sleep_pattern": "10 - 12 Hours (Uninterrupted blackout sleep for hormone and stress regulation)",
-                    "temperament": "Intelligent, Excellent Mimic, Strong Cage Territoriality, Affectionate, Social"
-                },
-                "intro": "Native to South America, the Quaker Parrot (Monk Parakeet) is a cherished medium-small parrot renowned worldwide for its exceptional mimicry skills, bold charm, and affectionate nature. Unique among parrots, Quakers build massive communal stick nests in the wild, instilling in them a fiercely protective instinct over their home cage. However, their voracious appetite makes them highly prone to obesity and fatal Hepatic Lipidosis (Fatty Liver Disease) if fed a high-fat seed diet. Furthermore, their specialized air sac respiratory system renders them extremely vulnerable to airborne toxins such as PTFE (Teflon) cookware fumes. In this guide, presents a 3-step daily care routine to decode your Quaker's body language and protect its health.",
-                "whyTitle": "Quaker Parrot Body Language: Quaking (Shaking) and Cage Defense (Pupil Pinning)",
-                "whyDesc": "Quaker Parrots communicate emotion and territorial boundaries through physical shaking and entrance postures. Rapidly quivering their head and body side-to-side **'Quaking / Shaking'** is a signature behavior expressing joy, affection, or food begging. Conversely, standing rigid at the cage door with flashing/pinning pupils and beak clicking **'Cage Defense / Territorial Stance'** is an instinctual warning driven by nest protection behavior.",
-                "body_signals": [
-                    {
-                        "name": "Rhythmically Quivering Head and Body Side-to-Side (Quaking / Shaking)",
-                        "meaning": "An iconic Quaker affection display signaling excitement, greeting joy, or a desire for food and interaction.",
-                        "response": "Respond in a warm, gentle voice while softly scratching the back of their head with a fingertip."
-                    },
-                    {
-                        "name": "Standing Tall at Cage Door, Rapidly Pinning Pupils, and Beak Clicking (Cage Defense)",
-                        "meaning": "A territorial defense behavior triggered by perceived intrusion into their nest (cage) space.",
-                        "response": "Never force hands into the cage; open the door and wait patiently for them to step out onto a T-perch voluntarily."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Formulated Pellets (60–70%), Vitamin A-Rich Vegetables & Kitchen Fume Protection",
-                        "text": "Feed a low-fat pellet diet with carrots and pumpkin to prevent fatty liver disease, strictly isolating the bird from overheated non-stick cookware."
-                    },
-                    {
-                        "name": "Afternoon: Nest-Building Foraging Enrichment & Safe Out-of-Cage Flight",
-                        "text": "Provide shreddable wooden sticks and paper toys to satisfy their nest-weaving drive, allowing flight in a secure room with closed windows."
-                    },
-                    {
-                        "name": "Evening: Avoid Back Petting (Hormone Control) & 10–12 Hour Uninterrupted Blackout Sleep",
-                        "text": "Refrain from stroking below the neck to prevent triggering egg laying and egg binding in females, covering the cage for 10–12 hours of sleep."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why are non-stick PTFE (Teflon) cookware fumes fatal to Quaker Parrots?",
-                        "answer": "Parrots possess an ultra-efficient air sac respiratory system that absorbs airborne pollutants directly into their bloodstream. Overheated PTFE releases invisible, odorless toxic fumes that cause severe acute pulmonary hemorrhage and respiratory failure within minutes. Cages must be placed far from kitchens in well-ventilated areas."
-                    },
-                    {
-                        "question": "How do I manage my Quaker's severe 'Cage Aggression'?",
-                        "answer": "Quakers are the only parrot species that construct large stick nests in nature, causing them to view their cage as an impenetrable fortress. Reaching into the cage triggers intense territorial biting. To correct this, open the cage door and allow the bird to emerge on its own onto a neutral stand before interacting."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "オキナインコ（クエイカーパロット）の愛嬌・警戒サイン解読と脂肪肝(Hepatic Lipidosis)・テフロン中毒予防のための3ステップデイリールーティン",
-                "description": "高い知性とおしゃべり能力を持つオキナインコ（Quaker Parrot）。身体の震え（クエイキング）やケージ縄張りサインの解読、脂肪肝予防、テフロンガス遮断の3ステップホームケアを紹介します。",
-                "authority": "鳥類獣医師会 (Association of Avian Veterinarians) ＆ ワールド・パロット・トラスト飼育基準",
-                "profile": {
-                    "breed": "オキナインコ (Quaker Parrot / Monk Parakeet / Myiopsitta monachus)",
-                    "lifespan": "20 〜 30年",
-                    "sleep_pattern": "10 〜 12時間 (ホルモンとストレス調節のための完全遮光睡眠)",
-                    "temperament": "知的、おしゃべりが得意、強いケージ縄張り意識、甘えん坊、社交的"
-                },
-                "intro": "南米原産のオキナインコ（Quaker Parrot / Monk Parakeet）は、優れた模倣能力とお茶目で人懐っこい性格で世界中から愛されている中小型インコです。インコの中で唯一、野外で小枝を集めて巨大な巣を作る習性を持つため、自分の住処（ケージ）に対する縄張り意識と執着が非常に強い特徴があります。また食いしん坊で肥満になりやすく、シード中心の脂質過多な食事は致命的な脂肪肝（Hepatic Lipidosis）を引き起こします。さらに気嚢（Air Sacs）構造のため、テフロン加工パンの加熱ガスやスプレー、アロマなどの空気中有害物質に極めて敏感です。本記事では、オキナインコのサインを解読し健康を守る3ステップルーティンをお届けします。",
-                "whyTitle": "オキナインコのボディランゲージ：クエイキング(Quaking)とケージ縄張り主張(Cage Defense)",
-                "whyDesc": "オキナインコは体全体の震えとケージ周りでの態度で歓喜と縄張り警戒を明確に区別します。頭と体を左右に細かく震わせる**「クエイキング（Quaking / 震え動作）」**は本種特有の行動で、飼い主への挨拶や甘え、深い喜びを示すサインです。一方、ケージの入口で身構えて瞳孔を伸縮させ、嘴をパチパチ鳴らす**「ケージ縄張り主張（Cage Defense）」**は、巣を守ろうとする強い警戒サインです。",
-                "body_signals": [
-                    {
-                        "name": "頭と体全体を左右に優しく細かく震わせる (Quaking / Shaking)",
-                        "meaning": "飼い主への歓喜、おねだり、またはご機嫌なときに見せるオキナインコ固有の親愛表現です。",
-                        "response": "優しく話しかけ、指先で頭や首の後ろを撫でてスキンシップを楽しみましょう。"
-                    },
-                    {
-                        "name": "ケージ入口で瞳孔を伸縮させ、嘴で音を鳴らして手に突進する (Cage Defense / Pupil Pinning)",
-                        "meaning": "自分の巣（ケージ）を侵されたと感じて本能的に縄張りを防衛しようとする警戒行動です。",
-                        "response": "無理に手を入れるのを避け、ドアを開けて自ら外のパーチに出てくるのを静かに待ちましょう。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：ペレット（60〜70%）給餌とビタミンA野菜の提供＆キッチン有毒ガスの遮断",
-                        "text": "脂肪肝と肥満を防ぐためペレットとニンジン・カボチャを与え、テフロンフライパンの加熱ガス吸入を徹底的に遮断します。"
-                    },
-                    {
-                        "name": "昼：営巣本能を満たすフォージング玩具の提供と安全な放鳥時間",
-                        "text": "小枝や紙をかじる本能を満たす知育トイを与え、窓を閉めた安全な部屋で飛翔させます。"
-                    },
-                    {
-                        "name": "夜：背中撫で控え（発情抑制）と10〜12時間の完全遮光睡眠の維持",
-                        "text": "メスの過剰産卵と卵詰まり（Egg Binding）を防ぐため背中や腹部を撫でず、決まった時間に遮光カバーをかけて熟睡させます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "キッチンのテフロン（PTFE）加工フライパンがなぜオキナインコに致死的なのですか？",
-                        "answer": "インコは全身に気嚢（Air Sacs）が張り巡らされた非常に高効率な呼吸器構造を持つため、空気中の有毒物質を即座に体内に吸収します。テフロンパンが高温加熱された際に発生する無色無臭のガスは、数分で急性肺出血と呼吸麻痺を引き起こし死亡させます。ケージはキッチンから離れた場所に設置してください。"
-                    },
-                    {
-                        "question": "オキナインコの激しい「ケージ攻撃性（Cage Aggression）」はどう改善すればいいですか？",
-                        "answer": "オキナインコは野生下で巨大な巣を作る唯一の種であり、ケージを自分の要塞と認識します。ケージ内に手を入れて無理に出そうとすると強く噛みつくため、ケージの扉を開けておき、外のスタンド（Tパーチ）へ自発的に出てきてから手乗りのコミュニケーションを行うのが鉄則です。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "和尚鹦鹉（奎克鹦鹉）行为信号解读与脂肪肝 (Hepatic Lipidosis) 及特氟龙毒气预防的 3 步日常流程",
-                "description": "极具语言天赋与学习能力的中小型鹦鹉和尚鹦鹉（Quaker Parrot）。解读抖动（Quaking）与笼舍领地警告，预防脂肪肝与肥胖，隔离特氟龙毒气的 3 步骤家庭护理。",
-                "authority": "美国鸟类兽医协会 (AAV) 与世界鹦鹉信托基金会 (World Parrot Trust) 护理标准",
-                "profile": {
-                    "breed": "和尚鹦鹉 / 奎克鹦鹉 (Quaker Parrot / Monk Parakeet)",
-                    "lifespan": "20 ~ 30年",
-                    "sleep_pattern": "10 ~ 12小时 (完全遮光睡眠以调节激素与压力)",
-                    "temperament": "极其聪明、善于模仿语言、领地意识极强 (笼霸)、黏人、喜群居"
-                },
-                "intro": "原产于南美洲的和尚鹦鹉（Quaker Parrot / Monk Parakeet），凭其出色的模仿语言能力、大胆自信的性格以及黏人的举止而深受全球鹦鹉爱好者喜爱。和尚鹦鹉是自然界中唯一会用树枝搭建巨大树巢的鹦鹉，因此它们对自己的居住空间（鸟笼）拥有极强的领地独占欲。此外，和尚鹦鹉极其贪吃且易发胖，若长期喂食高脂肪葵花籽，极易患上致命的脂肪肝（Hepatic Lipidosis）。同时，其特有的气囊（Air Sacs）呼吸系统对特氟龙（PTFE）加热毒气与喷雾极度敏感。本指南将带您准确解读和尚鹦鹉肢体语言，并通过 3 步骤日常护理维护其健康。",
-                "whyTitle": "和尚鹦鹉肢体语言：全身抖动 (Quaking) 与护笼警告 (Cage Defense / Pupil Pinning)",
-                "whyDesc": "和尚鹦鹉通过身体震动与笼门前的姿态清晰区分欢愉与领地防卫。头部与身体左右快速微小颤抖**“全身抖动 (Quaking / Shaking)”**，是和尚鹦鹉专属的欢快信号，表达见到主人的喜悦、乞食或极度兴奋。相反，在笼门前竖直身体、瞳孔急剧收缩（Pinning）并用嘴发出嗒嗒敲击声**“护笼警告 (Cage Defense)”**，则是因筑巢本能引发的强烈领地防衛警告。",
-                "body_signals": [
-                    {
-                        "name": "头部与身体左右轻柔频繁抖动 (Quaking / Shaking)",
-                        "meaning": "表达见到主人的极大欢喜、讨要食物或极其舒适的和尚鹦鹉专属标志性情感表达。",
-                        "response": "用温柔的声音回应，并用指尖轻柔梳理其头颈部羽毛加深情感。"
-                    },
-                    {
-                        "name": "在笼门前身体立直、瞳孔急剧收缩放闪并用嘴敲击或猛扑 (Cage Defense)",
-                        "meaning": "因领地（鸟笼）受到侵犯而发出的强烈本能护巢防卫警告，极易引发咬人。",
-                        "response": "切勿伸手强行入笼，打开笼门等待其自行飞出至笼外站架后再开展互动。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：投喂滋养丸（60~70%）与富含维生素 A 的蔬菜，厨房毒气严格隔绝",
-                        "text": "为预防脂肪肝与肥胖，投喂低脂滋养丸与胡萝卜、南瓜，并严格远离特氟龙不粘锅加热烟气。"
-                    },
-                    {
-                        "name": "中午：满足筑巢本能的觅食 (Foraging) 玩具与安全室内放飞",
-                        "text": "提供纸丝与木枝等撕咬玩具以满足其搭巢天性，防止啄羽症，并在关好门窗的安全房间放飞。"
-                    },
-                    {
-                        "name": "晚上：严禁抚摸背部（防止发情）与保证 10~12 小时完全遮光睡眠",
-                        "text": "严禁抚摸背部或腹部以防刺激母鸟过量产卵和卡蛋（Egg Binding），按时加盖遮光罩维持睡眠。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "厨房使用的特氟龙（PTFE）涂层不粘锅为什么对和尚鹦鹉是致命的？",
-                        "answer": "鹦鹉拥有极高效率的气囊（Air Sacs）呼吸系统，能瞬间将空气中的毒素吸收进血液。特氟龙不粘锅高温加热时产生的无色无味毒气，会在数分钟内引发和尚鹦鹉急性肺出血与呼吸麻痹导致死亡。鸟笼必须安置在远离厨房且通风良好的区域。"
-                    },
-                    {
-                        "question": "和尚鹦鹉严重“护笼 (Cage Aggression)”攻击手应该如何纠正？",
-                        "answer": "和尚鹦鹉是野外唯一会搭建大型树枝巢穴的鹦鹉，因此会将鸟笼视为不可侵犯的要塞。伸手入笼抓取会剧烈加重其护巢攻击。正确的做法是打开笼门，诱导其自行爬出至外部 T 型站架上，离开领地范围后再进行上手互动。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Señales de conducta en la Cotorra Cotorra (Quaker Parrot) y rutina diaria de 3 pasos para la prevención de lipidosis hepática y toxicidad por teflón",
-                "description": "Guía de cuidado para la inteligente Cotorra Cotorra o Argentina (Quaker Parrot). Interprete los temblores (Quaking) y la defensa de jaula, prevenga el hígado graso, evite el teflón y controle hormonas en 3 pasos.",
-                "authority": "Asociación de Veterinarios Aviares (AAV) y Protocolos del World Parrot Trust",
-                "profile": {
-                    "breed": "Cotorra Cotorra / Cotorra Argentina (Quaker Parrot / Myiopsitta monachus)",
-                    "lifespan": "20 ~ 30 años",
-                    "sleep_pattern": "10 ~ 12 horas (Oscuridad total con funda opaca para control hormonal)",
-                    "temperament": "Inteligente, Excelente imitador, Fuerte territorialidad de jaula, Afectuoso, Social"
-                },
-                "intro": "Originaria de Sudamérica, la Cotorra Cotorra o Cotorra Argentina (Myiopsitta monachus) es una cotorra de tamaño mediano-pequeño muy admirada en todo el mundo por su asombrosa capacidad de imitación vocal, su gran audacia y su carácter cariñoso. Única entre los loros, esta especie construye enormes nidos comunales con ramas en la naturaleza, lo que les infunde un instinto territorial fiero sobre su jaula. Sin embargo, su apetito voraz las predispone a la obesidad y a la letal Lipidosis Hepática (Hígado Graso). Además, sus sacos aéreos respiratorios las hacen vulnerables a toxinas como el teflón (PTFE). En esta guía, presenta una rutina de 3 pasos para cuidar su salud.",
-                "whyTitle": "Lenguaje corporal de la Cotorra Argentina: Temblores (Quaking) y defensa de jaula (Cage Defense)",
-                "whyDesc": "La Cotorra Argentina comunica entusiasmo y alerta territorial mediante temblores corporales y posturas en la jaula. Sacudir rápidamente la cabeza y el cuerpo hacia los lados **'Temblores (Quaking / Shaking)'** es una conducta distintiva que expresa alegría, bienvenida o pedido de comida. En cambio, erguirse en la puerta con pupilas contraídas (Pinning) y chasquidos **'Defensa de jaula (Cage Defense)'** es un aviso instintivo de protección de su nido.",
-                "body_signals": [
-                    {
-                        "name": "Sacudir rítmicamente la cabeza y el cuerpo de lado a lado (Quaking / Shaking)",
-                        "meaning": "Muestra de afecto icónica de la especie que indica emoción, alegría al ver al dueño o solicitud de comida.",
-                        "response": "Responda con voz suave y rasque delicadamente la parte posterior de su cabeza."
-                    },
-                    {
-                        "name": "Erguirse en la puerta de la jaula, contraer pupilas y chasquear el pico (Cage Defense)",
-                        "meaning": "Defensa territorial instintiva desencadenada por la intrusión percibida en su nido (jaula).",
-                        "response": "Nunca introduzca la mano por la fuerza; abra la jaula y espere a que salga voluntariamente a una percha exterior."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Pienso formulado (60–70%), vegetales ricos en vitamina A y protección contra teflón",
-                        "text": "Alimente con pienso extrusionado bajo en grasa con zanahoria y calabaza contra el hígado graso, alejando al ave de sartenes de teflón."
-                    },
-                    {
-                        "name": "Tarde: Juguetes de forrajeo que simulen la construcción de nidos y vuelo seguro fuera de la jaula",
-                        "text": "Ofrezca juguetes de papel y ramitas para triturar evitando el picaje por aburrimiento y permita el vuelo en una habitación segura."
-                    },
-                    {
-                        "name": "Noche: Evitar caricias en la espalda (control hormonal) y 10–12h de sueño sin interrupciones",
-                        "text": "No acaricie su espalda ni vientre para no estimular la puesta de huevos, cubriendo la jaula con una funda opaca para el descanso."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué los vapores de teflón (PTFE) son mortales para la Cotorra Argentina?",
-                        "answer": "Los loros poseen un sistema respiratorio de sacos aéreos extremadamente eficiente que absorbe toxinas del aire directo a la sangre. El teflón sobrecalentado emite gases inodoros e invisibles que provocan hemorragia pulmonar fulminante y asfixia. La jaula debe ubicarse muy lejos de la cocina en una zona ventilada."
-                    },
-                    {
-                        "question": "¿Cómo puedo corregir la agresividad territorial por la jaula (Cage Aggression)?",
-                        "answer": "Las cotorras son la única especie de loro que construye estructuras de nido con palos en libertad, por lo que ven su jaula como su fortaleza. Meter la mano a la fuerza genera mordiscos defensivos. La solución es abrir la puerta y permitir que salga sola a una percha externa (T-perch) antes de subirla a la mano."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Signaux comportementaux du Conure Veuve (Quaker Parrot) et routine quotidienne en 3 étapes pour la prévention de la stéatose hépatique et de la toxicité du téflon",
-                "description": "Guide de soins pour l'intelligent Conure Veuve (Quaker Parrot / Perruche Souris). Décryptez les tremblements (Quaking) et la défense de la cage, prévenez le foie gras, évitez le téflon et régulez ses hormones en 3 étapes.",
-                "authority": "Association of Avian Veterinarians (AAV) & Normes de Soins du World Parrot Trust",
-                "profile": {
-                    "breed": "Conure Veuve / Perruche Souris (Quaker Parrot / Myiopsitta monachus)",
-                    "lifespan": "20 ~ 30 ans",
-                    "sleep_pattern": "10 ~ 12 heures (Obscurité totale avec housse occultante pour la régulation hormonale)",
-                    "temperament": "Intelligent, Excellent imitateur, Forte territorialité de cage, Affectueux, Sociable"
-                },
-                "intro": "Originaire d'Amérique du Sud, le Conure Veuve ou Perruche Souris (Myiopsitta monachus) est un perroquet de taille moyenne très apprécié pour ses talents d'imitateur vocal, son audace et son affection. Seul parmi les perroquets, il construit d'immenses nids de branches en colonie, ce qui lui confère une territorialité très marquée envers sa cage. Son appétit vorace l'expose à l'obésité et à la stéatose hépatique (foie gras) si sa nourriture est trop riche en graines. De plus, ses sacs aériens le rendent vulnérable au téflon (PTFE). Dans ce guide, vous présente une routine en 3 étapes pour prendre soin de sa santé.",
-                "whyTitle": "Langage corporel du Conure Veuve : Tremblements (Quaking) et défense de la cage (Cage Defense)",
-                "whyDesc": "Le Conure Veuve exprime sa joie et sa territorialité par des frémissements et des postures à la porte de sa cage. Faire frémir rapidement sa tête et son corps de gauche à droite **« Tremblements (Quaking / Shaking) »** est un comportement propre à l'espèce traduisant la joie, l'accueil ou une demande de nourriture. En revanche, se dresser à la porte en dilatant ses pupilles (Pinning) **« Défense de la cage (Cage Defense) »** est un avertissement instinctif de protection du nid.",
-                "body_signals": [
-                    {
-                        "name": "Faire frémir rituellment la tête et le corps de droite à gauche (Quaking / Shaking)",
-                        "meaning": "Signe d'affection icônique exprimant l'enthousiasme des retrouvailles, la joie ou une demande d'attention.",
-                        "response": "Répondez-lui d'une voix chaleureuse et grattez-lui doucement l'arrière de la tête du bout du doigt."
-                    },
-                    {
-                        "name": "Se dresser à la porte de la cage, dilater ses pupilles et claquer du bec (Cage Defense)",
-                        "meaning": "Avertissement défensif instinctif déclenché par l'intrusion dans son territoire (sa cage).",
-                        "response": "Ne mettez pas la main dans la cage ; ouvrez la porte et attendez qu'il sorte de lui-même sur un perchoir extérieur."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Granulés extrudés (60–70%), légumes riches en vitamine A & protection contre le téflon",
-                        "text": "Donnez des granulés pauvres en graisse avec de la carotte ou de la courge pour éviter la stéatose hépatique, en l'éloignant des poêles antiadhésives."
-                    },
-                    {
-                        "name": "Après-midi : Jouets de recherche simulant le nid & vol libre sécurisé",
-                        "text": "Proposez des brindilles et des jouets en papier à déchiqueter pour satisfaire son instinct de bâtisseur et permettez le vol dans une pièce fermée."
-                    },
-                    {
-                        "name": "Soir : Éviter les caresses sur le dos (régulation hormonale) & 10–12h de sommeil sous housse occultante",
-                        "text": "Ne caressez pas son dos ni son ventre pour ne pas stimuler la ponte, et couvrez la cage d'une housse opaque pour la nuit."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi les émanations de téflon (PTFE) sont-elles mortelles pour le Conure Veuve ?",
-                        "answer": "Les perroquets possèdent des sacs aériens ultra-performants qui diffusent les toxines inhalées directement dans le sang. Le téflon surchauffé libère un gaz inodore et invisible provoquant une hémorragie pulmonaire foudroyante. La cage doit rester impérativement éloignée de la cuisine dans un espace bien aéré."
-                    },
-                    {
-                        "question": "Comment corriger la forte 'Agressivité de cage' chez le Conure Veuve ?",
-                        "answer": "Le Conure Veuve est le seul perroquet à construire des nids de branches dans la nature, considérant sa cage comme une forteresse. Mettre la main à l'intérieur provoque des morsures défensives. Pour y remédier, ouvrez la porte et laissez l'oiseau sortir de lui-même sur un perchoir T-bar avant de le prendre sur la main."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Verhaltenssignale des Mönchsittichs (Quaker Parrot) und 3-Schritte-Tagesroutine für Hepatische Lipidose und Teflon-Giftgas-Prophylaxe",
-                "description": "Pflegeanleitung für den intelligenten Mönchsittich (Quaker Parrot). Zittern (Quaking) und Käfigverteidigung verstehen, Fettleber vorbeugen, PTFE-Teflon-Dämpfe vermeiden und Hormone in 3 Schritten steuern.",
-                "authority": "Association of Avian Veterinarians (AAV) & Standards des World Parrot Trust",
-                "profile": {
-                    "breed": "Mönchsittich / Quaker Parrot (Myiopsitta monachus)",
-                    "lifespan": "20 ~ 30 Jahre",
-                    "sleep_pattern": "10 ~ 12 Stunden (Vollständige Abdunkelung zur Hormon- und Stressregulation)",
-                    "temperament": "Intelligent, Sprachbegabt, Starke Käfig-Territorialität, Verschmust, Gesellig"
-                },
-                "intro": "Stammend aus Südamerika ist der Mönchsittich (Quaker Parrot) wegen seines Sprachtalents, seines mutigen Wesens und seiner Anhänglichkeit ein weltweit beliebter Heimvogel. Als einzige Papageienart bauen Mönchsittiche in freier Wildbahn riesige Gemeinschafts-Reisignester, weshalb sie eine ausgeprägte Territorialität bezüglich ihres Käfigs entwickeln. Ihr großer Appetit führt bei fettreicher Saatgutfütterung schnell zu Übergewicht und tödlicher Fettleber (Hepatische Lipidose). Zudem macht sie ihr Atmungssystem mit Luftsäcken extrem anfällig für giftige Teflon-Dämpfe (PTFE). In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für die Gesundheit Ihres Mönchsittichs.",
-                "whyTitle": "Körpersprache des Mönchsittichs: Das Zittern (Quaking) und die Käfigverteidigung (Cage Defense)",
-                "whyDesc": "Der Mönchsittich drückt Freude und Revierverteidigung durch Körperzittern und Haltung an der Käfigtür aus. Ein schnelles Zittern von Kopf und Körper nach links und rechts **'Zittern (Quaking / Shaking)'** ist ein artgemäßes Signal für Freude, Begrüßung oder Betteln. Das starre Aufrichten an der Käfigtür mit Verengen der Pupillen (Pinning) **'Käfigverteidigung (Cage Defense)'** ist dagegen ein instinktiver Schutz des eigenen Nests.",
-                "body_signals": [
-                    {
-                        "name": "Kopf und Körper rhythmisch nach links und rechts zittern lassen (Quaking / Shaking)",
-                        "meaning": "Mönchsittich-spezifisches Zuneigungssignal, das Freude über das Wiedersehen, Betteln oder Wohlbefinden ausdrückt.",
-                        "response": "Antworten Sie freundlich und kraulen Sie sanft den Hinterkopf mit der Fingerkuppe."
-                    },
-                    {
-                        "name": "Aufrechter Stand an der Käfigtür mit verengten Pupillen und Schnabelknacken (Cage Defense)",
-                        "meaning": "Instinktives Verteidigen des Käfigs (Nests) vor vermeintlichen Eindringlingen.",
-                        "response": "Greifen Sie nicht in den Käfig; öffnen Sie die Tür und warten Sie, bis der Vogel freiwillig auf einen Freisitz steigt."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Pellets (60–70 %), Vitamin-A-Gemüse & Schutz vor Teflon-Dämpfen",
-                        "text": "Füttern Sie fettarme Pellets sowie Möhren und Kürbis zur Fettleber-Prophylaxe und halten Sie ihn fern von erhitztem Teflon-Geschirr."
-                    },
-                    {
-                        "name": "Mittag: Nist-Spielzeug zum Knabbern (Foraging) & Sicherer Freiflug",
-                        "text": "Bieten Sie Knabberholz und Papier an, um den Nestbautrieb zu befriedigen, und ermöglichen Sie Freiflug im gesicherten Raum."
-                    },
-                    {
-                        "name": "Abend: Rücken-Streicheln vermeiden (Hormonkontrolle) & 10–12 Stunden Schlafabdunkelung",
-                        "text": "Streicheln Sie nicht über Rücken oder Bauch, um Legereize zu vermeiden, und decken Sie den Käfig für 10–12 Stunden ab."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum sind Dämpfe von Teflon-Pfannen (PTFE) für Mönchsittiche tödlich?",
-                        "answer": "Papageien besitzen ein hocheffizientes Atmungssystem mit Luftsäcken, das Luftgifte direkt ins Blut aufnimmt. Überhitztes Teflon setzt geruchlose, unsichtbare Gase frei, die binnen Minuten tödliche Lungenblutungen und Erstickung auslösen. Der Käfig gehört weit weg von die Küche in einen gut belüfteten Raum."
-                    },
-                    {
-                        "question": "Wie gewöhne ich meinem Mönchsittich die schwere 'Käfigaggression (Cage Aggression)' ab?",
-                        "answer": "Mönchsittiche bauen als einzige Papageien Riesennester aus Zweigen und betrachten ihren Käfig als Festung. Wer mit der Hand hineingreift, wird gebissen. Lassen Sie stattdessen die Käfigtür offen und warten Sie, bis der Vogel von selbst auf einen externen T-Freisitz klettert, bevor Sie ihn auf die Hand nehmen."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Sinais comportamentais do Caturrita (Quaker Parrot) e rotina diária de 3 passos para prevenção de lipidose hepática e toxicidade por teflon",
-                "description": "Guia de cuidados para o inteligente Caturrita (Quaker Parrot / Periquito-Monge). Interprete os tremores (Quaking) e a defesa de gaiola, previna gordura no fígado, evite o teflon e controle hormônios em 3 passos.",
-                "authority": "Association of Avian Veterinarians (AAV) & Protocolos de Cuidados do World Parrot Trust",
-                "profile": {
-                    "breed": "Caturrita / Periquito-Monge (Quaker Parrot / Myiopsitta monachus)",
-                    "lifespan": "20 ~ 30 anos",
-                    "sleep_pattern": "10 ~ 12 horas (Escuridão total com capa blackout para controle hormonal)",
-                    "temperament": "Inteligente, Excelente imitador, Forte territorialidade de gaiola, Afetuoso, Social"
-                },
-                "intro": "Originário da América do Sul, o Caturrita ou Periquito-Monge (Myiopsitta monachus) é uma ave de tamanho médio-pequeno amada no mundo todo por sua capacidade de imitação vocal, ousadia e afeto. Único entre os papagaios, constrói grandes ninhos comunitários com galhos na natureza, desenvolvendo um forte instinto territorial em relação à sua gaiola. Seu apetite voraz predispõe a raça à obesidade e à letal Lipidose Hepática (Gordura no Fígado) se alimentado com sementes gordurosas. Além disso, seus sacos aéreos respiratórios são vulneráveis ao teflon (PTFE). Neste guia, apresenta uma rotina de 3 passos para cuidar da sua saúde.",
-                "whyTitle": "Linguagem corporal do Caturrita: Tremores (Quaking) e defesa de gaiola (Cage Defense)",
-                "whyDesc": "O Caturrita comunica alegria e territorialidade através de tremores corporais e posturas na gaiola. Vibrar a cabeça e o corpo rapidamente para os lados **'Tremores (Quaking / Shaking)'** é um comportamento típico que expressa felicidade, saudação ou pedido de comida. Por outro lado, erguer o corpo na porta da gaiola contraindo as pupilas (Pinning) **'Defesa de gaiola (Cage Defense)'** é um aviso instintivo de proteção do ninho.",
-                "body_signals": [
-                    {
-                        "name": "Vibrar a cabeça e o corpo ritmicamente de um lado para o outro (Quaking / Shaking)",
-                        "meaning": "Sinal de afeto icônico da espécie indicando alegria nas saudações, entusiasmo ou pedido de carinho.",
-                        "response": "Responda com tom carinhoso e afague delicadamente a nuca da ave com a ponta dos dedos."
-                    },
-                    {
-                        "name": "Erguer o corpo na porta da gaiola, contrair as pupilas e estalar o bico (Cage Defense)",
-                        "meaning": "Defesa territorial instintiva disparada pela invasão percebida em seu ninho (gaiola).",
-                        "response": "Nunca force a mão dentro da gaiola; abra a porta e espere a ave sair voluntariamente para um poleiro externo."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Ração extrusada (60–70%), vegetais ricos em vitamina A e proteção contra teflon",
-                        "text": "Forneça ração extrusada com cenoura e abóbora contra a gordura no fígado, mantendo a ave longe de panelas de teflon."
-                    },
-                    {
-                        "name": "Tarde: Brinquedos de forrageamento de ninho & voo livre seguro fora da gaiola",
-                        "text": "Ofereça gravetos e papéis para desfiar satisfazendo seu instinto construtor e permita o voo em recinto seguro."
-                    },
-                    {
-                        "name": "Noite: Evitar carinho nas costas (controle hormonal) e 10–12h de sono em blackout",
-                        "text": "Não passe a mão nas costas ou barriga da ave para não estimular a postura de ovos, cobrindo a gaiola com capa escura."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Por que os vapores de panelas de teflon (PTFE) são fatais para o Caturrita?",
-                        "answer": "Aves possuem um sistema respiratório de sacos aéreos muito eficiente que absorve toxinas do ar rapidamente. O teflon superaquecido emite gases inodoros e invisíveis que causam hemorragia pulmonar fulminante e parada respiratória. A gaiola deve ficar longe da cozinha."
-                    },
-                    {
-                        "question": "Como posso corrigir a 'Agressividade de Gaiola (Cage Aggression)' do meu Caturrita?",
-                        "answer": "Os Caturritas são a única espécie de papagaio que constrói ninhos de galhos na natureza, vendo a gaiola como sua fortaleza. Colocar a mão dentro gera bicadas defensivas. A solução é abrir a gaiola e permitir que a ave saia sozinha para um poleiro externo antes de interagir."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Sinyal Perilaku Burung Parkit Quaker (Monk Parakeet) dan Rutinitas Harian 3 Langkah Perawatan Pencegahan Lipidosis Hati serta Racun Teflon",
-                "description": "Panduan perawatan burung pintar Quaker Parrot (Monk Parakeet). Pahami sinyal getaran tubuh quaking dan pertahanan sangkar, cegah penyakit hati berlemak, hindari racun teflon, serta kelola hormon dalam 3 langkah.",
-                "authority": "Standar Perawatan Association of Avian Veterinarians (AAV) & World Parrot Trust",
-                "profile": {
-                    "breed": "Burung Parkit Quaker / Monk Parakeet (Myiopsitta monachus)",
-                    "lifespan": "20 ~ 30 tahun",
-                    "sleep_pattern": "10 ~ 12 jam (Kegelapan total dengan penutup sangkar untuk kontrol hormon)",
-                    "temperament": "Cerdas, Peniru Suara Andal, Teritorial Sangkar Kuat, Penyayang, Sosial"
-                },
-                "intro": "Berasal dari Amerika Selatan, Burung Parkit Quaker (Monk Parakeet) adalah burung paruh bengkok berukuran sedang-kecil yang sangat dicintai di seluruh dunia karena kemampuannya menirukan suara manusia, sifatnya yang berani, dan rasa sayangnya yang tinggi. Unik dibanding burung lainnya, Parkit Quaker membangun sarang ranting raksasa di alam liar, sehingga memiliki insting teritorial yang sangat kuat terhadap sangkarnya. Nafsu makan mereka yang besar membuat mereka rentan mengalami obesitas dan Lipidosis Hati (Penyakit Hati Berlemak) jika diberi pakan biji-bijian berlemak tinggi. Selain itu, sistem pernapasan kantung udara membuat mereka rentan terhadap asap racun PTFE (Teflon). Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk merawat kesehatan Parkit Quaker Anda.",
-                "whyTitle": "Bahasa Tubuh Parkit Quaker: Getaran Tubuh (Quaking) dan Pertahanan Sangkar (Cage Defense)",
-                "whyDesc": "Parkit Quaker menyampaikan rasa bahagia dan kewaspadaan teritorial melalui getaran tubuh dan sikap di pintu sangkar. Menggetarkan kepala dan tubuh ke kiri dan kanan dengan cepat **'Getaran Tubuh (Quaking / Shaking)'** adalah perilaku khas yang menunjukkan rasa bahagia, sapaan, atau meminta pakan. Sebaliknya, berdiri tegak di pintu sangkar dengan pupil mengecil (pinning) **'Pertahanan Sangkar (Cage Defense)'** adalah peringatan naluriah untuk melindungi sarangnya.",
-                "body_signals": [
-                    {
-                        "name": "Menggetarkan Kepala dan Tubuh secara Halus Kiri-Kanan (Quaking / Shaking)",
-                        "meaning": "Tanda kasih sayang khas spesies yang menunjukkan kegembiraan saat menyapa pemilik atau meminta perhatian.",
-                        "response": "Balas dengan suara ramah dan elus lembut bagian belakang kepalanya dengan ujung jari Anda."
-                    },
-                    {
-                        "name": "Berdiri Tegak di Pintu Sangkar, Pupil Mengecil, dan Membunyikan Paruh (Cage Defense)",
-                        "meaning": "Perilaku pertahanan wilayah naluriah akibat gangguan yang dirasakan pada ruang sarangnya (sangkar).",
-                        "response": "Jangan memaksa memasukkan tangan ke dalam sangkar; buka pintu dan tunggu burung keluar sendiri ke bertenggeran luar."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Pelet Nutrisi (60–70%), Sayuran Kaya Vitamin A & Perlindungan Asap Teflon Dapur",
-                        "text": "Berikan pakan pelet rendah lemak dengan wortel dan labu untuk mencegah penyakit hati berlemak, serta jauhkan dari wajan teflon."
-                    },
-                    {
-                        "name": "Siang: Mainan Pencarian Makanan Pembuat Sarang & Terbang Bebas yang Aman",
-                        "text": "Sediakan ranting dan mainan kertas untuk dicabik agar memenuhi insting membuat sarang, serta biarkan terbang di ruangan aman."
-                    },
-                    {
-                        "name": "Malam: Hindari Mengelus Punggung (Kontrol Hormon) & Tidur Gelap Total 10–12 Jam",
-                        "text": "Jangan mengelus punggung atau perut burung agar tidak merangsang peneluran, serta tutup sangkar dengan kain gelap."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa asap wajan anti-lengket Teflon (PTFE) sangat mematikan bagi Parkit Quaker?",
-                        "answer": "Burung memiliki sistem pernapasan kantung udara yang sangat efisien menyerap zat beracun dari udara langsung ke aliran darah. Teflon yang dipanaskan mengeluarkan asap beracun tanpa bau yang menyebabkan pendarahan paru-paru seketika dan gagal napas. Letakkan sangkar jauh dari dapur di area berpori udara baik."
-                    },
-                    {
-                        "question": "Bagaimana cara mengatasi sifat 'Agresif Sangkar (Cage Aggression)' pada Parkit Quaker?",
-                        "answer": "Parkit Quaker adalah satu-satunya burung paruh bengkok yang membuat sarang ranting di alam liar, sehingga menganggap sangkar sebagai bentengnya. Memasukkan tangan secara paksa memicu gigitan bertahan. Solusinya adalah membuka pintu sangkar dan membiarkan burung keluar sendiri ke bertenggeran T-bar sebelum diajak berinteraksi."
-                    }
-                ]
-            }
+  "quaker-parrot-care": {
+    "pubDate": "2026-04-10",
+    "updatedDate": "2026-04-10",
+    "locales": {
+      "ko": {
+        "title": "퀘이커 앵무의 교감·경계 신호 해석과 지방간(Hepatic Lipidosis) 및 테플론 독성 예방을 위한 3단계 데일리 케어",
+        "description": "영리하고 언어 능력이 뛰어난 퀘이커 앵무(Quaker Parrot). 몸 떨기(Quaking) 및 새장 경계 신호 해석, 지방간·비만 예방, 테플론 가스 차단을 위한 3단계 홈케어 루틴을 소개합니다.",
+        "authority": "Association of Avian Veterinarians (AAV) 및 World Parrot Trust 케어 프로토콜",
+        "profile": {
+          "breed": "퀘이커 앵무 (Quaker Parrot / Monk Parakeet)",
+          "lifespan": "20 ~ 30년",
+          "sleep_pattern": "10 ~ 12시간 (완전한 암막 수면으로 호르몬 및 스트레스 조절)",
+          "temperament": "영리함, 언어 능력 우수, 강한 영역 본능(새장 집착), 애교 많음, 사교적"
         },
-        "heroImage": "/images/blog/quaker_parrot_care.webp"
-    }
+        "intro": "남미 원산의 퀘이커 앵무(Quaker Parrot / Monk Parakeet)는 뛰어난 언어 모사 능력과 당당하고 애교 넘치는 성격으로 전 세계 사육자들에게 큰 사랑을 받는 중소형 앵무새입니다. 퀘이커는 야생에서 유일하게 나뭇가지로 거대한 공동 둥지를 짓고 사는 앵무새로, 이로 인해 자신의 거주 공간(새장)에 대한 영역 본능과 집착이 매우 강합니다. 또한 식탐이 많고 비만해지기 쉬워 해바라기씨 위주의 지방 식단 시 치명적인 지방간(Hepatic Lipidosis)에 걸리기 쉬우며, 앵무새 특유의 공기주머니(Air Sacs) 호흡 구조로 인해 테플론(PTFE) 가공 팬의 유독 가스나 아로마 향수에 극도로 취약합니다. 이번 가이드에서는 퀘이커 앵무의 신체 신호를 정확히 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
+        "whyTitle": "퀘이커 앵무의 바디 랭귀지: 몸 떨기(Quaking)와 새장 영역 경계(Cage Defense)",
+        "whyDesc": "퀘이커 앵무는 몸의 진동과 새장 주변에서의 태도로 기쁨과 영역 경계 신호를 명확히 구분합니다. 머리와 몸 전체를 좌우로 파르르 떠는 **'몸 떨기(Quaking / Shaking)'**는 퀘이커 품종 특유의 행동으로, 보호자를 반기거나 먹이를 요청할 때, 혹은 극도의 기쁨을 느낄 때 내비치는 교감 신호입니다. 반면 새장 문 입구에서 몸을 세우고 동공을 조이며 부리를 딱딱거리는 **'새장 영역 경계(Cage Defense / Territorial Stance)'**는 둥지 수호 본능에서 비롯된 강한 영역 경고 신호입니다.",
+        "body_signals": [
+          {
+            "name": "머리와 몸 전체를 부드럽게 좌우로 파르르 떪 (Quaking / Shaking)",
+            "meaning": "보호자를 향한 반가움, 먹이 요청, 또는 기분이 매우 좋을 때 나타나는 퀘이커 고유의 애정 표현 행동입니다.",
+            "response": "다정한 목소리로 응답하고 손가락 끝으로 머리와 목 뒤를 부드럽게 긁어주며 교감을 나눕니다."
+          },
+          {
+            "name": "새장 입구에서 동공을 조이며 부리로 딱딱 소리를 내거나 손을 향해 돌진함 (Cage Defense / Pupil Pinning)",
+            "meaning": "자신의 둥지(새장)를 침범당했다고 느껴 본능적으로 영역을 수호하려는 강한 방어 행동입니다.",
+            "response": "손을 무리하게 새장 안으로 넣지 말고, 문을 열어두고 스스로 나올 때까지 기다려 외부에서 교감합니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 펠릿 사료(60~70%) 급여 및 비타민 A 야채 제공, 주방 독성 가스 차단 환기",
+            "text": "지방간과 비만을 예방하기 위해 영양 균형 펠릿과 당근, 단호박을 급여하고 테플론 프라이팬 가열 가스 노출을 차단합니다."
+          },
+          {
+            "name": "낮: 둥지 본능 충족을 위한 포레징 장난감 제공 및 안전한 실내 자율 비행",
+            "text": "나뭇가지나 종이를 뜯는 둥지 본능을 충족시킬 노즈워크 장난감을 제공하고, 창문을 닫은 안전한 공간에서 자유 비행시킵니다."
+          },
+          {
+            "name": "저녁: 등 만지기 자제(호르몬 자극 예방) 및 10~12시간 완전 암막 수면 유지",
+            "text": "암컷의 연속 산란과 알 묶임(Egg Binding)을 막기 위해 등이나 배를 만지지 않고, 정해진 시간에 암막 커버를 씌워 수면을 유지합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "주방에서 사용하는 테플론(PTFE) 코팅 팬이 왜 퀘이커 앵무에게 치명적인가요?",
+            "answer": "앵무새는 허파 외에 공기주머니(Air Sacs)가 온몸에 퍼져 있는 고효율 호흡계를 가지고 있어 공기 중 오염 물질을 혈액으로 빠르게 흡수합니다. 테플론 팬이 고온 가열될 때 발생해 유포되는 무색무취의 독성 가스는 퀘이커에게 급성 폐출혈과 호흡 마비를 일으켜 사망에 이르게 하므로, 새장은 주방과 멀리 떨어진 환기가 잘 되는 곳에 두어야 합니다."
+          },
+          {
+            "question": "퀘이커 앵무의 심한 '새장 영역 집착(Cage Aggression)'은 어떻게 교정하나요?",
+            "answer": "퀘이커는 야생에서 거대한 나뭇가지 둥지를 짓고 사는 유일한 앵무새로, 새장을 자신의 요새이자 보금자리로 강하게 인식합니다. 새장 안으로 손을 넣어 억지로 꺼내려 하면 입질이 심해지므로, 새장 문을 열어둔 뒤 밖의 전용 쉼터(T포치)로 스스로 나올 때까지 기다렸다가 손 위에 올리는 훈련을 해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Quaker Parrot Behavioral Signals and 3-Step Daily Routine for Hepatic Lipidosis and Teflon Toxicity Prevention",
+        "description": "Care guide for the intelligent Quaker Parrot (Monk Parakeet). Interpret quaking and cage defense signals, prevent fatty liver disease, avoid PTFE Teflon fumes, and control hormones in 3 steps.",
+        "authority": "Association of Avian Veterinarians (AAV) & World Parrot Trust Avian Care Protocols",
+        "profile": {
+          "breed": "Quaker Parrot (Monk Parakeet / Myiopsitta monachus)",
+          "lifespan": "20 - 30 Years",
+          "sleep_pattern": "10 - 12 Hours (Uninterrupted blackout sleep for hormone and stress regulation)",
+          "temperament": "Intelligent, Excellent Mimic, Strong Cage Territoriality, Affectionate, Social"
+        },
+        "intro": "Native to South America, the Quaker Parrot (Monk Parakeet) is a cherished medium-small parrot renowned worldwide for its exceptional mimicry skills, bold charm, and affectionate nature. Unique among parrots, Quakers build massive communal stick nests in the wild, instilling in them a fiercely protective instinct over their home cage. However, their voracious appetite makes them highly prone to obesity and fatal Hepatic Lipidosis (Fatty Liver Disease) if fed a high-fat seed diet. Furthermore, their specialized air sac respiratory system renders them extremely vulnerable to airborne toxins such as PTFE (Teflon) cookware fumes. In this guide, presents a 3-step daily care routine to decode your Quaker's body language and protect its health.",
+        "whyTitle": "Quaker Parrot Body Language: Quaking (Shaking) and Cage Defense (Pupil Pinning)",
+        "whyDesc": "Quaker Parrots communicate emotion and territorial boundaries through physical shaking and entrance postures. Rapidly quivering their head and body side-to-side **'Quaking / Shaking'** is a signature behavior expressing joy, affection, or food begging. Conversely, standing rigid at the cage door with flashing/pinning pupils and beak clicking **'Cage Defense / Territorial Stance'** is an instinctual warning driven by nest protection behavior.",
+        "body_signals": [
+          {
+            "name": "Rhythmically Quivering Head and Body Side-to-Side (Quaking / Shaking)",
+            "meaning": "An iconic Quaker affection display signaling excitement, greeting joy, or a desire for food and interaction.",
+            "response": "Respond in a warm, gentle voice while softly scratching the back of their head with a fingertip."
+          },
+          {
+            "name": "Standing Tall at Cage Door, Rapidly Pinning Pupils, and Beak Clicking (Cage Defense)",
+            "meaning": "A territorial defense behavior triggered by perceived intrusion into their nest (cage) space.",
+            "response": "Never force hands into the cage; open the door and wait patiently for them to step out onto a T-perch voluntarily."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Formulated Pellets (60–70%), Vitamin A-Rich Vegetables & Kitchen Fume Protection",
+            "text": "Feed a low-fat pellet diet with carrots and pumpkin to prevent fatty liver disease, strictly isolating the bird from overheated non-stick cookware."
+          },
+          {
+            "name": "Afternoon: Nest-Building Foraging Enrichment & Safe Out-of-Cage Flight",
+            "text": "Provide shreddable wooden sticks and paper toys to satisfy their nest-weaving drive, allowing flight in a secure room with closed windows."
+          },
+          {
+            "name": "Evening: Avoid Back Petting (Hormone Control) & 10–12 Hour Uninterrupted Blackout Sleep",
+            "text": "Refrain from stroking below the neck to prevent triggering egg laying and egg binding in females, covering the cage for 10–12 hours of sleep."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why are non-stick PTFE (Teflon) cookware fumes fatal to Quaker Parrots?",
+            "answer": "Parrots possess an ultra-efficient air sac respiratory system that absorbs airborne pollutants directly into their bloodstream. Overheated PTFE releases invisible, odorless toxic fumes that cause severe acute pulmonary hemorrhage and respiratory failure within minutes. Cages must be placed far from kitchens in well-ventilated areas."
+          },
+          {
+            "question": "How do I manage my Quaker's severe 'Cage Aggression'?",
+            "answer": "Quakers are the only parrot species that construct large stick nests in nature, causing them to view their cage as an impenetrable fortress. Reaching into the cage triggers intense territorial biting. To correct this, open the cage door and allow the bird to emerge on its own onto a neutral stand before interacting."
+          }
+        ]
+      },
+      "ja": {
+        "title": "オキナインコ（クエイカーパロット）の愛嬌・警戒サイン解読と脂肪肝(Hepatic Lipidosis)・テフロン中毒予防のための3ステップデイリールーティン",
+        "description": "高い知性とおしゃべり能力を持つオキナインコ（Quaker Parrot）。身体の震え（クエイキング）やケージ縄張りサインの解読、脂肪肝予防、テフロンガス遮断の3ステップホームケアを紹介します。",
+        "authority": "鳥類獣医師会 (Association of Avian Veterinarians) ＆ ワールド・パロット・トラスト飼育基準",
+        "profile": {
+          "breed": "オキナインコ (Quaker Parrot / Monk Parakeet / Myiopsitta monachus)",
+          "lifespan": "20 〜 30年",
+          "sleep_pattern": "10 〜 12時間 (ホルモンとストレス調節のための完全遮光睡眠)",
+          "temperament": "知的、おしゃべりが得意、強いケージ縄張り意識、甘えん坊、社交的"
+        },
+        "intro": "南米原産のオキナインコ（Quaker Parrot / Monk Parakeet）は、優れた模倣能力とお茶目で人懐っこい性格で世界中から愛されている中小型インコです。インコの中で唯一、野外で小枝を集めて巨大な巣を作る習性を持つため、自分の住処（ケージ）に対する縄張り意識と執着が非常に強い特徴があります。また食いしん坊で肥満になりやすく、シード中心の脂質過多な食事は致命的な脂肪肝（Hepatic Lipidosis）を引き起こします。さらに気嚢（Air Sacs）構造のため、テフロン加工パンの加熱ガスやスプレー、アロマなどの空気中有害物質に極めて敏感です。本記事では、オキナインコのサインを解読し健康を守る3ステップルーティンをお届けします。",
+        "whyTitle": "オキナインコのボディランゲージ：クエイキング(Quaking)とケージ縄張り主張(Cage Defense)",
+        "whyDesc": "オキナインコは体全体の震えとケージ周りでの態度で歓喜と縄張り警戒を明確に区別します。頭と体を左右に細かく震わせる**「クエイキング（Quaking / 震え動作）」**は本種特有の行動で、飼い主への挨拶や甘え、深い喜びを示すサインです。一方、ケージの入口で身構えて瞳孔を伸縮させ、嘴をパチパチ鳴らす**「ケージ縄張り主張（Cage Defense）」**は、巣を守ろうとする強い警戒サインです。",
+        "body_signals": [
+          {
+            "name": "頭と体全体を左右に優しく細かく震わせる (Quaking / Shaking)",
+            "meaning": "飼い主への歓喜、おねだり、またはご機嫌なときに見せるオキナインコ固有の親愛表現です。",
+            "response": "優しく話しかけ、指先で頭や首の後ろを撫でてスキンシップを楽しみましょう。"
+          },
+          {
+            "name": "ケージ入口で瞳孔を伸縮させ、嘴で音を鳴らして手に突進する (Cage Defense / Pupil Pinning)",
+            "meaning": "自分の巣（ケージ）を侵されたと感じて本能的に縄張りを防衛しようとする警戒行動です。",
+            "response": "無理に手を入れるのを避け、ドアを開けて自ら外のパーチに出てくるのを静かに待ちましょう。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：ペレット（60〜70%）給餌とビタミンA野菜の提供＆キッチン有毒ガスの遮断",
+            "text": "脂肪肝と肥満を防ぐためペレットとニンジン・カボチャを与え、テフロンフライパンの加熱ガス吸入を徹底的に遮断します。"
+          },
+          {
+            "name": "昼：営巣本能を満たすフォージング玩具の提供と安全な放鳥時間",
+            "text": "小枝や紙をかじる本能を満たす知育トイを与え、窓を閉めた安全な部屋で飛翔させます。"
+          },
+          {
+            "name": "夜：背中撫で控え（発情抑制）と10〜12時間の完全遮光睡眠の維持",
+            "text": "メスの過剰産卵と卵詰まり（Egg Binding）を防ぐため背中や腹部を撫でず、決まった時間に遮光カバーをかけて熟睡させます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "キッチンのテフロン（PTFE）加工フライパンがなぜオキナインコに致死的なのですか？",
+            "answer": "インコは全身に気嚢（Air Sacs）が張り巡らされた非常に高効率な呼吸器構造を持つため、空気中の有毒物質を即座に体内に吸収します。テフロンパンが高温加熱された際に発生する無色無臭のガスは、数分で急性肺出血と呼吸麻痺を引き起こし死亡させます。ケージはキッチンから離れた場所に設置してください。"
+          },
+          {
+            "question": "オキナインコの激しい「ケージ攻撃性（Cage Aggression）」はどう改善すればいいですか？",
+            "answer": "オキナインコは野生下で巨大な巣を作る唯一の種であり、ケージを自分の要塞と認識します。ケージ内に手を入れて無理に出そうとすると強く噛みつくため、ケージの扉を開けておき、外のスタンド（Tパーチ）へ自発的に出てきてから手乗りのコミュニケーションを行うのが鉄則です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "和尚鹦鹉（奎克鹦鹉）行为信号解读与脂肪肝 (Hepatic Lipidosis) 及特氟龙毒气预防的 3 步日常流程",
+        "description": "极具语言天赋与学习能力的中小型鹦鹉和尚鹦鹉（Quaker Parrot）。解读抖动（Quaking）与笼舍领地警告，预防脂肪肝与肥胖，隔离特氟龙毒气的 3 步骤家庭护理。",
+        "authority": "美国鸟类兽医协会 (AAV) 与世界鹦鹉信托基金会 (World Parrot Trust) 护理标准",
+        "profile": {
+          "breed": "和尚鹦鹉 / 奎克鹦鹉 (Quaker Parrot / Monk Parakeet)",
+          "lifespan": "20 ~ 30年",
+          "sleep_pattern": "10 ~ 12小时 (完全遮光睡眠以调节激素与压力)",
+          "temperament": "极其聪明、善于模仿语言、领地意识极强 (笼霸)、黏人、喜群居"
+        },
+        "intro": "原产于南美洲的和尚鹦鹉（Quaker Parrot / Monk Parakeet），凭其出色的模仿语言能力、大胆自信的性格以及黏人的举止而深受全球鹦鹉爱好者喜爱。和尚鹦鹉是自然界中唯一会用树枝搭建巨大树巢的鹦鹉，因此它们对自己的居住空间（鸟笼）拥有极强的领地独占欲。此外，和尚鹦鹉极其贪吃且易发胖，若长期喂食高脂肪葵花籽，极易患上致命的脂肪肝（Hepatic Lipidosis）。同时，其特有的气囊（Air Sacs）呼吸系统对特氟龙（PTFE）加热毒气与喷雾极度敏感。本指南将带您准确解读和尚鹦鹉肢体语言，并通过 3 步骤日常护理维护其健康。",
+        "whyTitle": "和尚鹦鹉肢体语言：全身抖动 (Quaking) 与护笼警告 (Cage Defense / Pupil Pinning)",
+        "whyDesc": "和尚鹦鹉通过身体震动与笼门前的姿态清晰区分欢愉与领地防卫。头部与身体左右快速微小颤抖**“全身抖动 (Quaking / Shaking)”**，是和尚鹦鹉专属的欢快信号，表达见到主人的喜悦、乞食或极度兴奋。相反，在笼门前竖直身体、瞳孔急剧收缩（Pinning）并用嘴发出嗒嗒敲击声**“护笼警告 (Cage Defense)”**，则是因筑巢本能引发的强烈领地防衛警告。",
+        "body_signals": [
+          {
+            "name": "头部与身体左右轻柔频繁抖动 (Quaking / Shaking)",
+            "meaning": "表达见到主人的极大欢喜、讨要食物或极其舒适的和尚鹦鹉专属标志性情感表达。",
+            "response": "用温柔的声音回应，并用指尖轻柔梳理其头颈部羽毛加深情感。"
+          },
+          {
+            "name": "在笼门前身体立直、瞳孔急剧收缩放闪并用嘴敲击或猛扑 (Cage Defense)",
+            "meaning": "因领地（鸟笼）受到侵犯而发出的强烈本能护巢防卫警告，极易引发咬人。",
+            "response": "切勿伸手强行入笼，打开笼门等待其自行飞出至笼外站架后再开展互动。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：投喂滋养丸（60~70%）与富含维生素 A 的蔬菜，厨房毒气严格隔绝",
+            "text": "为预防脂肪肝与肥胖，投喂低脂滋养丸与胡萝卜、南瓜，并严格远离特氟龙不粘锅加热烟气。"
+          },
+          {
+            "name": "中午：满足筑巢本能的觅食 (Foraging) 玩具与安全室内放飞",
+            "text": "提供纸丝与木枝等撕咬玩具以满足其搭巢天性，防止啄羽症，并在关好门窗的安全房间放飞。"
+          },
+          {
+            "name": "晚上：严禁抚摸背部（防止发情）与保证 10~12 小时完全遮光睡眠",
+            "text": "严禁抚摸背部或腹部以防刺激母鸟过量产卵和卡蛋（Egg Binding），按时加盖遮光罩维持睡眠。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "厨房使用的特氟龙（PTFE）涂层不粘锅为什么对和尚鹦鹉是致命的？",
+            "answer": "鹦鹉拥有极高效率的气囊（Air Sacs）呼吸系统，能瞬间将空气中的毒素吸收进血液。特氟龙不粘锅高温加热时产生的无色无味毒气，会在数分钟内引发和尚鹦鹉急性肺出血与呼吸麻痹导致死亡。鸟笼必须安置在远离厨房且通风良好的区域。"
+          },
+          {
+            "question": "和尚鹦鹉严重“护笼 (Cage Aggression)”攻击手应该如何纠正？",
+            "answer": "和尚鹦鹉是野外唯一会搭建大型树枝巢穴的鹦鹉，因此会将鸟笼视为不可侵犯的要塞。伸手入笼抓取会剧烈加重其护巢攻击。正确的做法是打开笼门，诱导其自行爬出至外部 T 型站架上，离开领地范围后再进行上手互动。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Señales de conducta en la Cotorra Cotorra (Quaker Parrot) y rutina diaria de 3 pasos para la prevención de lipidosis hepática y toxicidad por teflón",
+        "description": "Guía de cuidado para la inteligente Cotorra Cotorra o Argentina (Quaker Parrot). Interprete los temblores (Quaking) y la defensa de jaula, prevenga el hígado graso, evite el teflón y controle hormonas en 3 pasos.",
+        "authority": "Asociación de Veterinarios Aviares (AAV) y Protocolos del World Parrot Trust",
+        "profile": {
+          "breed": "Cotorra Cotorra / Cotorra Argentina (Quaker Parrot / Myiopsitta monachus)",
+          "lifespan": "20 ~ 30 años",
+          "sleep_pattern": "10 ~ 12 horas (Oscuridad total con funda opaca para control hormonal)",
+          "temperament": "Inteligente, Excelente imitador, Fuerte territorialidad de jaula, Afectuoso, Social"
+        },
+        "intro": "Originaria de Sudamérica, la Cotorra Cotorra o Cotorra Argentina (Myiopsitta monachus) es una cotorra de tamaño mediano-pequeño muy admirada en todo el mundo por su asombrosa capacidad de imitación vocal, su gran audacia y su carácter cariñoso. Única entre los loros, esta especie construye enormes nidos comunales con ramas en la naturaleza, lo que les infunde un instinto territorial fiero sobre su jaula. Sin embargo, su apetito voraz las predispone a la obesidad y a la letal Lipidosis Hepática (Hígado Graso). Además, sus sacos aéreos respiratorios las hacen vulnerables a toxinas como el teflón (PTFE). En esta guía, presenta una rutina de 3 pasos para cuidar su salud.",
+        "whyTitle": "Lenguaje corporal de la Cotorra Argentina: Temblores (Quaking) y defensa de jaula (Cage Defense)",
+        "whyDesc": "La Cotorra Argentina comunica entusiasmo y alerta territorial mediante temblores corporales y posturas en la jaula. Sacudir rápidamente la cabeza y el cuerpo hacia los lados **'Temblores (Quaking / Shaking)'** es una conducta distintiva que expresa alegría, bienvenida o pedido de comida. En cambio, erguirse en la puerta con pupilas contraídas (Pinning) y chasquidos **'Defensa de jaula (Cage Defense)'** es un aviso instintivo de protección de su nido.",
+        "body_signals": [
+          {
+            "name": "Sacudir rítmicamente la cabeza y el cuerpo de lado a lado (Quaking / Shaking)",
+            "meaning": "Muestra de afecto icónica de la especie que indica emoción, alegría al ver al dueño o solicitud de comida.",
+            "response": "Responda con voz suave y rasque delicadamente la parte posterior de su cabeza."
+          },
+          {
+            "name": "Erguirse en la puerta de la jaula, contraer pupilas y chasquear el pico (Cage Defense)",
+            "meaning": "Defensa territorial instintiva desencadenada por la intrusión percibida en su nido (jaula).",
+            "response": "Nunca introduzca la mano por la fuerza; abra la jaula y espere a que salga voluntariamente a una percha exterior."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Pienso formulado (60–70%), vegetales ricos en vitamina A y protección contra teflón",
+            "text": "Alimente con pienso extrusionado bajo en grasa con zanahoria y calabaza contra el hígado graso, alejando al ave de sartenes de teflón."
+          },
+          {
+            "name": "Tarde: Juguetes de forrajeo que simulen la construcción de nidos y vuelo seguro fuera de la jaula",
+            "text": "Ofrezca juguetes de papel y ramitas para triturar evitando el picaje por aburrimiento y permita el vuelo en una habitación segura."
+          },
+          {
+            "name": "Noche: Evitar caricias en la espalda (control hormonal) y 10–12h de sueño sin interrupciones",
+            "text": "No acaricie su espalda ni vientre para no estimular la puesta de huevos, cubriendo la jaula con una funda opaca para el descanso."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué los vapores de teflón (PTFE) son mortales para la Cotorra Argentina?",
+            "answer": "Los loros poseen un sistema respiratorio de sacos aéreos extremadamente eficiente que absorbe toxinas del aire directo a la sangre. El teflón sobrecalentado emite gases inodoros e invisibles que provocan hemorragia pulmonar fulminante y asfixia. La jaula debe ubicarse muy lejos de la cocina en una zona ventilada."
+          },
+          {
+            "question": "¿Cómo puedo corregir la agresividad territorial por la jaula (Cage Aggression)?",
+            "answer": "Las cotorras son la única especie de loro que construye estructuras de nido con palos en libertad, por lo que ven su jaula como su fortaleza. Meter la mano a la fuerza genera mordiscos defensivos. La solución es abrir la puerta y permitir que salga sola a una percha externa (T-perch) antes de subirla a la mano."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Signaux comportementaux du Conure Veuve (Quaker Parrot) et routine quotidienne en 3 étapes pour la prévention de la stéatose hépatique et de la toxicité du téflon",
+        "description": "Guide de soins pour l'intelligent Conure Veuve (Quaker Parrot / Perruche Souris). Décryptez les tremblements (Quaking) et la défense de la cage, prévenez le foie gras, évitez le téflon et régulez ses hormones en 3 étapes.",
+        "authority": "Association of Avian Veterinarians (AAV) & Normes de Soins du World Parrot Trust",
+        "profile": {
+          "breed": "Conure Veuve / Perruche Souris (Quaker Parrot / Myiopsitta monachus)",
+          "lifespan": "20 ~ 30 ans",
+          "sleep_pattern": "10 ~ 12 heures (Obscurité totale avec housse occultante pour la régulation hormonale)",
+          "temperament": "Intelligent, Excellent imitateur, Forte territorialité de cage, Affectueux, Sociable"
+        },
+        "intro": "Originaire d'Amérique du Sud, le Conure Veuve ou Perruche Souris (Myiopsitta monachus) est un perroquet de taille moyenne très apprécié pour ses talents d'imitateur vocal, son audace et son affection. Seul parmi les perroquets, il construit d'immenses nids de branches en colonie, ce qui lui confère une territorialité très marquée envers sa cage. Son appétit vorace l'expose à l'obésité et à la stéatose hépatique (foie gras) si sa nourriture est trop riche en graines. De plus, ses sacs aériens le rendent vulnérable au téflon (PTFE). Dans ce guide, vous présente une routine en 3 étapes pour prendre soin de sa santé.",
+        "whyTitle": "Langage corporel du Conure Veuve : Tremblements (Quaking) et défense de la cage (Cage Defense)",
+        "whyDesc": "Le Conure Veuve exprime sa joie et sa territorialité par des frémissements et des postures à la porte de sa cage. Faire frémir rapidement sa tête et son corps de gauche à droite **« Tremblements (Quaking / Shaking) »** est un comportement propre à l'espèce traduisant la joie, l'accueil ou une demande de nourriture. En revanche, se dresser à la porte en dilatant ses pupilles (Pinning) **« Défense de la cage (Cage Defense) »** est un avertissement instinctif de protection du nid.",
+        "body_signals": [
+          {
+            "name": "Faire frémir rituellment la tête et le corps de droite à gauche (Quaking / Shaking)",
+            "meaning": "Signe d'affection icônique exprimant l'enthousiasme des retrouvailles, la joie ou une demande d'attention.",
+            "response": "Répondez-lui d'une voix chaleureuse et grattez-lui doucement l'arrière de la tête du bout du doigt."
+          },
+          {
+            "name": "Se dresser à la porte de la cage, dilater ses pupilles et claquer du bec (Cage Defense)",
+            "meaning": "Avertissement défensif instinctif déclenché par l'intrusion dans son territoire (sa cage).",
+            "response": "Ne mettez pas la main dans la cage ; ouvrez la porte et attendez qu'il sorte de lui-même sur un perchoir extérieur."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Granulés extrudés (60–70%), légumes riches en vitamine A & protection contre le téflon",
+            "text": "Donnez des granulés pauvres en graisse avec de la carotte ou de la courge pour éviter la stéatose hépatique, en l'éloignant des poêles antiadhésives."
+          },
+          {
+            "name": "Après-midi : Jouets de recherche simulant le nid & vol libre sécurisé",
+            "text": "Proposez des brindilles et des jouets en papier à déchiqueter pour satisfaire son instinct de bâtisseur et permettez le vol dans une pièce fermée."
+          },
+          {
+            "name": "Soir : Éviter les caresses sur le dos (régulation hormonale) & 10–12h de sommeil sous housse occultante",
+            "text": "Ne caressez pas son dos ni son ventre pour ne pas stimuler la ponte, et couvrez la cage d'une housse opaque pour la nuit."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi les émanations de téflon (PTFE) sont-elles mortelles pour le Conure Veuve ?",
+            "answer": "Les perroquets possèdent des sacs aériens ultra-performants qui diffusent les toxines inhalées directement dans le sang. Le téflon surchauffé libère un gaz inodore et invisible provoquant une hémorragie pulmonaire foudroyante. La cage doit rester impérativement éloignée de la cuisine dans un espace bien aéré."
+          },
+          {
+            "question": "Comment corriger la forte 'Agressivité de cage' chez le Conure Veuve ?",
+            "answer": "Le Conure Veuve est le seul perroquet à construire des nids de branches dans la nature, considérant sa cage comme une forteresse. Mettre la main à l'intérieur provoque des morsures défensives. Pour y remédier, ouvrez la porte et laissez l'oiseau sortir de lui-même sur un perchoir T-bar avant de le prendre sur la main."
+          }
+        ]
+      },
+      "de": {
+        "title": "Verhaltenssignale des Mönchsittichs (Quaker Parrot) und 3-Schritte-Tagesroutine für Hepatische Lipidose und Teflon-Giftgas-Prophylaxe",
+        "description": "Pflegeanleitung für den intelligenten Mönchsittich (Quaker Parrot). Zittern (Quaking) und Käfigverteidigung verstehen, Fettleber vorbeugen, PTFE-Teflon-Dämpfe vermeiden und Hormone in 3 Schritten steuern.",
+        "authority": "Association of Avian Veterinarians (AAV) & Standards des World Parrot Trust",
+        "profile": {
+          "breed": "Mönchsittich / Quaker Parrot (Myiopsitta monachus)",
+          "lifespan": "20 ~ 30 Jahre",
+          "sleep_pattern": "10 ~ 12 Stunden (Vollständige Abdunkelung zur Hormon- und Stressregulation)",
+          "temperament": "Intelligent, Sprachbegabt, Starke Käfig-Territorialität, Verschmust, Gesellig"
+        },
+        "intro": "Stammend aus Südamerika ist der Mönchsittich (Quaker Parrot) wegen seines Sprachtalents, seines mutigen Wesens und seiner Anhänglichkeit ein weltweit beliebter Heimvogel. Als einzige Papageienart bauen Mönchsittiche in freier Wildbahn riesige Gemeinschafts-Reisignester, weshalb sie eine ausgeprägte Territorialität bezüglich ihres Käfigs entwickeln. Ihr großer Appetit führt bei fettreicher Saatgutfütterung schnell zu Übergewicht und tödlicher Fettleber (Hepatische Lipidose). Zudem macht sie ihr Atmungssystem mit Luftsäcken extrem anfällig für giftige Teflon-Dämpfe (PTFE). In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für die Gesundheit Ihres Mönchsittichs.",
+        "whyTitle": "Körpersprache des Mönchsittichs: Das Zittern (Quaking) und die Käfigverteidigung (Cage Defense)",
+        "whyDesc": "Der Mönchsittich drückt Freude und Revierverteidigung durch Körperzittern und Haltung an der Käfigtür aus. Ein schnelles Zittern von Kopf und Körper nach links und rechts **'Zittern (Quaking / Shaking)'** ist ein artgemäßes Signal für Freude, Begrüßung oder Betteln. Das starre Aufrichten an der Käfigtür mit Verengen der Pupillen (Pinning) **'Käfigverteidigung (Cage Defense)'** ist dagegen ein instinktiver Schutz des eigenen Nests.",
+        "body_signals": [
+          {
+            "name": "Kopf und Körper rhythmisch nach links und rechts zittern lassen (Quaking / Shaking)",
+            "meaning": "Mönchsittich-spezifisches Zuneigungssignal, das Freude über das Wiedersehen, Betteln oder Wohlbefinden ausdrückt.",
+            "response": "Antworten Sie freundlich und kraulen Sie sanft den Hinterkopf mit der Fingerkuppe."
+          },
+          {
+            "name": "Aufrechter Stand an der Käfigtür mit verengten Pupillen und Schnabelknacken (Cage Defense)",
+            "meaning": "Instinktives Verteidigen des Käfigs (Nests) vor vermeintlichen Eindringlingen.",
+            "response": "Greifen Sie nicht in den Käfig; öffnen Sie die Tür und warten Sie, bis der Vogel freiwillig auf einen Freisitz steigt."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Pellets (60–70 %), Vitamin-A-Gemüse & Schutz vor Teflon-Dämpfen",
+            "text": "Füttern Sie fettarme Pellets sowie Möhren und Kürbis zur Fettleber-Prophylaxe und halten Sie ihn fern von erhitztem Teflon-Geschirr."
+          },
+          {
+            "name": "Mittag: Nist-Spielzeug zum Knabbern (Foraging) & Sicherer Freiflug",
+            "text": "Bieten Sie Knabberholz und Papier an, um den Nestbautrieb zu befriedigen, und ermöglichen Sie Freiflug im gesicherten Raum."
+          },
+          {
+            "name": "Abend: Rücken-Streicheln vermeiden (Hormonkontrolle) & 10–12 Stunden Schlafabdunkelung",
+            "text": "Streicheln Sie nicht über Rücken oder Bauch, um Legereize zu vermeiden, und decken Sie den Käfig für 10–12 Stunden ab."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum sind Dämpfe von Teflon-Pfannen (PTFE) für Mönchsittiche tödlich?",
+            "answer": "Papageien besitzen ein hocheffizientes Atmungssystem mit Luftsäcken, das Luftgifte direkt ins Blut aufnimmt. Überhitztes Teflon setzt geruchlose, unsichtbare Gase frei, die binnen Minuten tödliche Lungenblutungen und Erstickung auslösen. Der Käfig gehört weit weg von die Küche in einen gut belüfteten Raum."
+          },
+          {
+            "question": "Wie gewöhne ich meinem Mönchsittich die schwere 'Käfigaggression (Cage Aggression)' ab?",
+            "answer": "Mönchsittiche bauen als einzige Papageien Riesennester aus Zweigen und betrachten ihren Käfig als Festung. Wer mit der Hand hineingreift, wird gebissen. Lassen Sie stattdessen die Käfigtür offen und warten Sie, bis der Vogel von selbst auf einen externen T-Freisitz klettert, bevor Sie ihn auf die Hand nehmen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Sinais comportamentais do Caturrita (Quaker Parrot) e rotina diária de 3 passos para prevenção de lipidose hepática e toxicidade por teflon",
+        "description": "Guia de cuidados para o inteligente Caturrita (Quaker Parrot / Periquito-Monge). Interprete os tremores (Quaking) e a defesa de gaiola, previna gordura no fígado, evite o teflon e controle hormônios em 3 passos.",
+        "authority": "Association of Avian Veterinarians (AAV) & Protocolos de Cuidados do World Parrot Trust",
+        "profile": {
+          "breed": "Caturrita / Periquito-Monge (Quaker Parrot / Myiopsitta monachus)",
+          "lifespan": "20 ~ 30 anos",
+          "sleep_pattern": "10 ~ 12 horas (Escuridão total com capa blackout para controle hormonal)",
+          "temperament": "Inteligente, Excelente imitador, Forte territorialidade de gaiola, Afetuoso, Social"
+        },
+        "intro": "Originário da América do Sul, o Caturrita ou Periquito-Monge (Myiopsitta monachus) é uma ave de tamanho médio-pequeno amada no mundo todo por sua capacidade de imitação vocal, ousadia e afeto. Único entre os papagaios, constrói grandes ninhos comunitários com galhos na natureza, desenvolvendo um forte instinto territorial em relação à sua gaiola. Seu apetite voraz predispõe a raça à obesidade e à letal Lipidose Hepática (Gordura no Fígado) se alimentado com sementes gordurosas. Além disso, seus sacos aéreos respiratórios são vulneráveis ao teflon (PTFE). Neste guia, apresenta uma rotina de 3 passos para cuidar da sua saúde.",
+        "whyTitle": "Linguagem corporal do Caturrita: Tremores (Quaking) e defesa de gaiola (Cage Defense)",
+        "whyDesc": "O Caturrita comunica alegria e territorialidade através de tremores corporais e posturas na gaiola. Vibrar a cabeça e o corpo rapidamente para os lados **'Tremores (Quaking / Shaking)'** é um comportamento típico que expressa felicidade, saudação ou pedido de comida. Por outro lado, erguer o corpo na porta da gaiola contraindo as pupilas (Pinning) **'Defesa de gaiola (Cage Defense)'** é um aviso instintivo de proteção do ninho.",
+        "body_signals": [
+          {
+            "name": "Vibrar a cabeça e o corpo ritmicamente de um lado para o outro (Quaking / Shaking)",
+            "meaning": "Sinal de afeto icônico da espécie indicando alegria nas saudações, entusiasmo ou pedido de carinho.",
+            "response": "Responda com tom carinhoso e afague delicadamente a nuca da ave com a ponta dos dedos."
+          },
+          {
+            "name": "Erguer o corpo na porta da gaiola, contrair as pupilas e estalar o bico (Cage Defense)",
+            "meaning": "Defesa territorial instintiva disparada pela invasão percebida em seu ninho (gaiola).",
+            "response": "Nunca force a mão dentro da gaiola; abra a porta e espere a ave sair voluntariamente para um poleiro externo."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Ração extrusada (60–70%), vegetais ricos em vitamina A e proteção contra teflon",
+            "text": "Forneça ração extrusada com cenoura e abóbora contra a gordura no fígado, mantendo a ave longe de panelas de teflon."
+          },
+          {
+            "name": "Tarde: Brinquedos de forrageamento de ninho & voo livre seguro fora da gaiola",
+            "text": "Ofereça gravetos e papéis para desfiar satisfazendo seu instinto construtor e permita o voo em recinto seguro."
+          },
+          {
+            "name": "Noite: Evitar carinho nas costas (controle hormonal) e 10–12h de sono em blackout",
+            "text": "Não passe a mão nas costas ou barriga da ave para não estimular a postura de ovos, cobrindo a gaiola com capa escura."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que os vapores de panelas de teflon (PTFE) são fatais para o Caturrita?",
+            "answer": "Aves possuem um sistema respiratório de sacos aéreos muito eficiente que absorve toxinas do ar rapidamente. O teflon superaquecido emite gases inodoros e invisíveis que causam hemorragia pulmonar fulminante e parada respiratória. A gaiola deve ficar longe da cozinha."
+          },
+          {
+            "question": "Como posso corrigir a 'Agressividade de Gaiola (Cage Aggression)' do meu Caturrita?",
+            "answer": "Os Caturritas são a única espécie de papagaio que constrói ninhos de galhos na natureza, vendo a gaiola como sua fortaleza. Colocar a mão dentro gera bicadas defensivas. A solução é abrir a gaiola e permitir que a ave saia sozinha para um poleiro externo antes de interagir."
+          }
+        ]
+      },
+      "id": {
+        "title": "Sinyal Perilaku Burung Parkit Quaker (Monk Parakeet) dan Rutinitas Harian 3 Langkah Perawatan Pencegahan Lipidosis Hati serta Racun Teflon",
+        "description": "Panduan perawatan burung pintar Quaker Parrot (Monk Parakeet). Pahami sinyal getaran tubuh quaking dan pertahanan sangkar, cegah penyakit hati berlemak, hindari racun teflon, serta kelola hormon dalam 3 langkah.",
+        "authority": "Standar Perawatan Association of Avian Veterinarians (AAV) & World Parrot Trust",
+        "profile": {
+          "breed": "Burung Parkit Quaker / Monk Parakeet (Myiopsitta monachus)",
+          "lifespan": "20 ~ 30 tahun",
+          "sleep_pattern": "10 ~ 12 jam (Kegelapan total dengan penutup sangkar untuk kontrol hormon)",
+          "temperament": "Cerdas, Peniru Suara Andal, Teritorial Sangkar Kuat, Penyayang, Sosial"
+        },
+        "intro": "Berasal dari Amerika Selatan, Burung Parkit Quaker (Monk Parakeet) adalah burung paruh bengkok berukuran sedang-kecil yang sangat dicintai di seluruh dunia karena kemampuannya menirukan suara manusia, sifatnya yang berani, dan rasa sayangnya yang tinggi. Unik dibanding burung lainnya, Parkit Quaker membangun sarang ranting raksasa di alam liar, sehingga memiliki insting teritorial yang sangat kuat terhadap sangkarnya. Nafsu makan mereka yang besar membuat mereka rentan mengalami obesitas dan Lipidosis Hati (Penyakit Hati Berlemak) jika diberi pakan biji-bijian berlemak tinggi. Selain itu, sistem pernapasan kantung udara membuat mereka rentan terhadap asap racun PTFE (Teflon). Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk merawat kesehatan Parkit Quaker Anda.",
+        "whyTitle": "Bahasa Tubuh Parkit Quaker: Getaran Tubuh (Quaking) dan Pertahanan Sangkar (Cage Defense)",
+        "whyDesc": "Parkit Quaker menyampaikan rasa bahagia dan kewaspadaan teritorial melalui getaran tubuh dan sikap di pintu sangkar. Menggetarkan kepala dan tubuh ke kiri dan kanan dengan cepat **'Getaran Tubuh (Quaking / Shaking)'** adalah perilaku khas yang menunjukkan rasa bahagia, sapaan, atau meminta pakan. Sebaliknya, berdiri tegak di pintu sangkar dengan pupil mengecil (pinning) **'Pertahanan Sangkar (Cage Defense)'** adalah peringatan naluriah untuk melindungi sarangnya.",
+        "body_signals": [
+          {
+            "name": "Menggetarkan Kepala dan Tubuh secara Halus Kiri-Kanan (Quaking / Shaking)",
+            "meaning": "Tanda kasih sayang khas spesies yang menunjukkan kegembiraan saat menyapa pemilik atau meminta perhatian.",
+            "response": "Balas dengan suara ramah dan elus lembut bagian belakang kepalanya dengan ujung jari Anda."
+          },
+          {
+            "name": "Berdiri Tegak di Pintu Sangkar, Pupil Mengecil, dan Membunyikan Paruh (Cage Defense)",
+            "meaning": "Perilaku pertahanan wilayah naluriah akibat gangguan yang dirasakan pada ruang sarangnya (sangkar).",
+            "response": "Jangan memaksa memasukkan tangan ke dalam sangkar; buka pintu dan tunggu burung keluar sendiri ke bertenggeran luar."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pelet Nutrisi (60–70%), Sayuran Kaya Vitamin A & Perlindungan Asap Teflon Dapur",
+            "text": "Berikan pakan pelet rendah lemak dengan wortel dan labu untuk mencegah penyakit hati berlemak, serta jauhkan dari wajan teflon."
+          },
+          {
+            "name": "Siang: Mainan Pencarian Makanan Pembuat Sarang & Terbang Bebas yang Aman",
+            "text": "Sediakan ranting dan mainan kertas untuk dicabik agar memenuhi insting membuat sarang, serta biarkan terbang di ruangan aman."
+          },
+          {
+            "name": "Malam: Hindari Mengelus Punggung (Kontrol Hormon) & Tidur Gelap Total 10–12 Jam",
+            "text": "Jangan mengelus punggung atau perut burung agar tidak merangsang peneluran, serta tutup sangkar dengan kain gelap."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa asap wajan anti-lengket Teflon (PTFE) sangat mematikan bagi Parkit Quaker?",
+            "answer": "Burung memiliki sistem pernapasan kantung udara yang sangat efisien menyerap zat beracun dari udara langsung ke aliran darah. Teflon yang dipanaskan mengeluarkan asap beracun tanpa bau yang menyebabkan pendarahan paru-paru seketika dan gagal napas. Letakkan sangkar jauh dari dapur di area berpori udara baik."
+          },
+          {
+            "question": "Bagaimana cara mengatasi sifat 'Agresif Sangkar (Cage Aggression)' pada Parkit Quaker?",
+            "answer": "Parkit Quaker adalah satu-satunya burung paruh bengkok yang membuat sarang ranting di alam liar, sehingga menganggap sangkar sebagai bentengnya. Memasukkan tangan secara paksa memicu gigitan bertahan. Solusinya adalah membuka pintu sangkar dan membiarkan burung keluar sendiri ke bertenggeran T-bar sebelum diajak berinteraksi."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/quaker_parrot_care.webp"
+  }
 }

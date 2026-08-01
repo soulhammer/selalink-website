@@ -1,459 +1,459 @@
 {
-    "sulphur-crested-cockatoo-care": {
-        "pubDate": "2026-04-14",
-        "updatedDate": "2026-04-14",
-        "locales": {
-            "ko": {
-                "title": "유황 앵무 우관 언어와 파우더·지능 케어를 위한 3단계 데일리 케어",
-                "description": "아름다운 노란 벼슬(우관)과 뛰어난 지능을 지닌 유황 앵무(코카투). 우관이 보내는 감정 신호 해독과 파우더(깃털 가루) 관리, 분리불안 예방을 위한 3단계 맞춤 케어법을 소개합니다.",
-                "authority": "세계자연보전연맹(IUCN) 조류 보호 지침 및 조류수의학회(AAV) 대형 앵무 임상 가이드라인",
-                "profile": {
-                    "breed": "유황 앵무 / 코카투 (Sulphur-crested Cockatoo)",
-                    "lifespan": "50 ~ 70년 이상",
-                    "sleep_pattern": "10 ~ 12시간 (소음과 빛이 차단된 완전한 암전 수면)",
-                    "temperament": "애교 많음, 영리함, 감정 기복 있음, 사회성 높음, 분리불안 위험 있음, 소음 있음"
-                },
-                "intro": "유황 앵무(코카투)는 머리 위의 화려한 노란빛 우관(Crest)과 흰 깃털, 압도적인 지능과 감정 교감 능력으로 대형 앵무 애호가들에게 열렬한 사랑을 받는 종입니다. 어린아이 수준의 높은 지능과 풍부한 애정을 지녔지만, 그만큼 보호자에 대한 의존도가 높아 분리불안이나 자해증(깃털 뽑기)으로 이어지기 쉽습니다. 또한 방수와 깃털 관리를 위해 몸에서 다량의 흰색 파우더(파우더 다운)를 배출하므로 주기적인 목욕과 공기 질 관리가 필수적입니다. 이번 가이드에서는 유황 앵무의 우관 언어를 해석하고, 영리한 두뇌 활동과 깃털 위생을 보호하는 3단계 데일리 케어 루틴을 다룹니다.",
-                "whyTitle": "유황 앵무의 감정 언어: 우관(벼슬)의 각도와 행동 신호",
-                "whyDesc": "유황 앵무는 머리 위의 우관(벼슬)을 펼치거나 눕히는 각도로 감정을 명확히 표현합니다. 흥분하거나 경계할 때, 또는 극도로 반가울 때는 노란 우관을 왕관처럼 넓게 펼치는 **'우관 펼치기(Crest Erecting)'** 행동을 보입니다. 반면 편안할 때는 우관을 뒤로 눕히고 볼 깃털을 부풀리는 **'볼 부풀리기'** 상태를 유지합니다.",
-                "body_signals": [
-                    {
-                        "name": "우관을 완전히 펼치고 날개 깃털 세우기 (Crest Erecting)",
-                        "meaning": "강한 흥분, 호기심, 경계, 또는 보호자를 향한 극대의 반가움과 자신감을 나타내는 신호입니다.",
-                        "response": "상황에 따라 경계 원인을 제거해주거나, 차분한 톤으로 대화하며 흥분을 가라앉혀 줍니다."
-                    },
-                    {
-                        "name": "우관을 눕히고 부리 갈기 소리 내기 (Beak Grinding)",
-                        "meaning": "신체적·심리적으로 깊은 안정감과 휴식 상태에 들어갔음을 의미하는 전형적인 안도 신호입니다.",
-                        "response": "조명을 낮추고 조용한 환경을 조성하여 편안하게 잘 수 있도록 배려합니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 파우더 세정을 위한 온수 분무 목욕 및 영양 펠릿 급여",
-                        "text": "미지근한 물로 미스트 분무 목욕을 실시해 깃털 파우더를 세정하고 공기 중 분무 가루를 줄입니다. 비타민과 미네랄이 균형 잡힌 대형 앵무 전용 펠릿과 신선한 야채를 공급합니다."
-                    },
-                    {
-                        "name": "낮: 파괴형 나무 장난감 퍼즐 및 3시간 이상 교감",
-                        "text": "강한 부리 욕구를 충족하도록 안전한 나무 자재와 포리지 장난감(먹이 찾기 퍼즐)을 제공합니다. 분리불안 방지를 위해 3시간 이상 둥지 밖 교감 시간을 갖습니다."
-                    },
-                    {
-                        "name": "저녁: 깃털 손상 및 자해증 점검과 12시간 암전 수면 환경 조성",
-                        "text": "가슴과 날개 안쪽 깃털 뽑기(자해증)나 손상 여부를 확인합니다. 수면 부족으로 인한 스트레스를 막기 위해 차광 케이지 커버를 덮고 10~12시간 동안 완전 암전을 유지합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "유황 앵무에서 나오는 흰 가루(파우더)는 비듬인가요?",
-                        "answer": "아닙니다. '파우더 다운(Powder down)'으로 불리는 정상적인 깃털 가루로, 깃털을 보호하고 방수 기능을 돕는 천연 물질입니다. 다만 호흡기 질환 예방을 위해 HEPA 필터 공기청정기 사용과 주기적인 분무 목욕이 필수적입니다."
-                    },
-                    {
-                        "question": "보호자가 외출하면 비명을 지르고 깃털을 뽑는데 어떻게 해야 하나요?",
-                        "answer": "높은 지능과 사회성으로 인한 전형적인 분리불안 증상입니다. 혼자 있는 시간에 집중할 수 있는 먹이 찾기(Foraging) 장난감을 늘려주고, 외출 직전과 귀가 직후 과도한 애정 표현을 줄여 덤덤한 관계 형성을 유도해야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Sulphur-crested Cockatoo Crest Language, Feather Powder, and Cognitive Care 3-Step Daily Routine",
-                "description": "Essential care for the highly intelligent Sulphur-crested Cockatoo. Learn to decode crest emotion signals, manage feather powder down, and prevent separation anxiety with our 3-step guide.",
-                "authority": "IUCN Bird Conservation Guidelines & Association of Avian Veterinarians (AAV) Clinical Protocols",
-                "profile": {
-                    "breed": "Sulphur-crested Cockatoo",
-                    "lifespan": "50 - 70+ Years",
-                    "sleep_pattern": "10 - 12 Hours (Complete Darkness in a Quiet, Undisturbed Space)",
-                    "temperament": "Affectionate, Highly Intelligent, Emotional, Social, Prone to Separation Anxiety, Loud"
-                },
-                "intro": "The Sulphur-crested Cockatoo is a dream pet bird renowned worldwide for its striking bright yellow crest, snow-white plumage, and exceptional emotional depth. Possessing toddler-like intelligence and intense social needs, they form profound emotional bonds with their human companions. However, their high dependency makes them vulnerable to distress, screeching, and feather-plucking (self-mutilation) if neglected. Additionally, they produce a fine white powder down for feather maintenance, requiring strict air quality control and frequent bathing. In this guide, decodes cockatoo crest language and presents a 3-step daily care routine for feather hygiene and mental enrichment.",
-                "whyTitle": "Sulphur-crested Cockatoo Communication: Crest Positions and Emotional Signals",
-                "whyDesc": "Cockatoos visually communicate their mood using their yellow crest. When excited, alarmed, or overjoyed, they expand their crest into a fan shape (**'Crest Erecting'**). Conversely, when completely relaxed, they lower the crest flat against their head and fluff out their cheek feathers.",
-                "body_signals": [
-                    {
-                        "name": "Fully Fan-Expanded Yellow Crest (Crest Erecting)",
-                        "meaning": "Indicates high arousal, intense curiosity, alertness, or exuberant joy when greeting their favorite human.",
-                        "response": "Assess the environment to remove potential threats, or speak in a soft, soothing tone to help calm their excitement."
-                    },
-                    {
-                        "name": "Flattened Crest & Beak Grinding (Beak Grinding)",
-                        "meaning": "A definitive signal of physical contentment, safety, and readiness for restful sleep.",
-                        "response": "Dim the lights and lower ambient noise to provide a quiet, secure sleeping environment."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Warm Mist Bathing & Balanced Pellet Feeding",
-                        "text": "Mist bathe with lukewarm water to cleanse feather powder down and reduce airborne dust. Offer a balanced diet of large parrot pellets, fresh vegetables, and leafy greens."
-                    },
-                    {
-                        "name": "Afternoon: Foraging Wood Toys & 3+ Hours Out-of-Cage Bonding",
-                        "text": "Provide safe wooden destructible toys and complex foraging puzzles to satisfy beak enrichment. Ensure at least 3 hours of direct social interaction to prevent anxiety."
-                    },
-                    {
-                        "name": "Evening: Feather Inspection & 12-Hour Dark Sleep Environment",
-                        "text": "Check chest and wing feathers for signs of plucking or damage. Cover the cage with a blackout cover to ensure 10-12 hours of undisturbed darkness for hormonal balance."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Is the fine white dust produced by cockatoos dander?",
-                        "answer": "No, it is called 'powder down'—a natural byproduct of specialized feathers used to clean and waterproof their plumage. Because it spreads easily, using a HEPA air purifier and offering regular water baths are necessary for indoor health."
-                    },
-                    {
-                        "question": "How can I prevent screaming and feather plucking when I leave the house?",
-                        "answer": "These behaviors stem from separation anxiety due to high intelligence. Provide engaging foraging toys to keep their mind occupied while alone, and maintain a calm, neutral routine when leaving and returning rather than overly dramatic farewells."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "キバタン（キバタンインコ）の冠羽言語と羽粉・知育ケアの3ステップ日常ルーティン",
-                "description": "美しい黄色い冠羽と高い知能を持つキバタン（Sulphur-crested Cockatoo）。冠羽が示す感情シグナルの解読、羽粉（パウダーダウン）対策、分離不安を防ぐ3ステップケアを解説します。",
-                "authority": "IUCN鳥類保全ガイドラインおよび鳥類獣医生理学（AAV）大型インコ臨床プロトコル",
-                "profile": {
-                    "breed": "キバタン / コカトゥー (Sulphur-crested Cockatoo)",
-                    "lifespan": "50 〜 70年以上",
-                    "sleep_pattern": "10 〜 12時間 (光と騒音を遮단した完全な暗黒睡眠)",
-                    "temperament": "甘えん坊、非常に賢い、感情豊か、社交的、分離不安になりやすい、呼び鳴きあり"
-                },
-                "intro": "キバタン（Sulphur-crested Cockatoo）は、頭頂部の鮮やかな黄色い冠羽（Crest）と純白の羽、そして人間の子どもと同等の知能と感情交流能力で世界中の大型インコ愛好家を魅了する種です。非常に深い愛情を示しますが、その分飼い主への依存度が高く、放置されると寂しさから呼び鳴きや毛引き症（自傷行為）を引き起こしやすくなります。また、羽の防水と保全のために「羽粉（パウダーダウン）」と呼ばれる白い粉を大量に出すため、定期的な水浴びと空気清浄管理が不可欠です。本記事では、キバタンの冠羽シグナルと健やかな頭脳・羽毛衛生を保つ日常ケアを解説します。",
-                "whyTitle": "キバタンの感情言語：冠羽（トサカ）の角度と行動サイン",
-                "whyDesc": "キバタンは頭上の黄色い冠羽を扇状に広げたり寝かせたりすることで感情を正確に表現します。興奮時や警戒時、あるいは大好きな飼い主を歓迎する時は、冠羽を王冠のように大きく広げる**「冠羽開張（Crest Erecting）」**を見せます。一方、リラックスしている時は冠羽を寝かせ、頬の羽をふくらませます。",
-                "body_signals": [
-                    {
-                        "name": "冠羽を大きく広げ胸を張る (Crest Erecting)",
-                        "meaning": "強い興奮、好奇心、警戒、あるいは飼い主への最大の喜びを表すキバタン特有の表情サインです。",
-                        "response": "周囲に恐怖を与える原因がないか確認し、穏やかな声で話しかけて興奮を静めてあげましょう。"
-                    },
-                    {
-                        "name": "冠羽を寝かせて嘴をぎょりぎょり鳴らす (Beak Grinding)",
-                        "meaning": "身体的・精神的に深い安心感を得ており、リラックスして寝る準備が整ったサインです。",
-                        "response": "部屋の照明を落とし、静かな環境を作って安心して休めるように配慮します。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：羽粉洗浄のための温水ミスト浴とペレット給餌",
-                        "text": "ぬるま湯のミストでスプレー浴を行い、空気中に舞う羽粉を洗って飛び散りを防ぎます。栄養バランスの取れた大型インコ用ペレットと label 済みの新鮮な野菜を与えます。"
-                    },
-                    {
-                        "name": "昼：木製フォージングトイと3時間以上の放鳥コミュニケーション",
-                        "text": "強力な嘴の破壊欲求を満たす安全な木製おもちゃやフォージング（採餌）トイを与えます。分離不安を防ぐため、毎日3時間以上の放鳥・交流時間を確保します。"
-                    },
-                    {
-                        "name": "夜：毛引き症の点検と12時間の完全暗黒睡眠環境",
-                        "text": "胸や翼の内側に毛引き（毛を抜く行為）や損傷がないか確認します。ホルモンバランスとストレス軽減のため、遮光カバーを被せ10〜12時間の完全な暗闇で睡眠をとらせます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "キバタンから出る白い粉（パウダー）は皮膚のフケですか？",
-                        "answer": "いいえ。「パウダーダウン（粉羽）」と呼ばれる正常な羽の分解物で、羽毛を保護し撥水性を高める天然の物質です。ただし人間の呼吸器の健康のためにも、HEPAフィルター付き空気清浄機の設置とこまめな霧吹き水浴びが必要です。"
-                    },
-                    {
-                        "question": "留守番中に激しい呼び鳴きや毛引きをする場合の対策は？",
-                        "answer": "高い知能と社会性ゆえの分離不安の典型例です。1人の時間に没頭できるフォージングトイ（おやつ探しおもちゃ）を増やし、外出前後の過度なスキンシップを控え、落ち着いた関係性を築くことが大切です。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "葵花凤头鹦鹉冠羽语言与羽粉·智力护理3阶段日常指南",
-                "description": "针对拥有美丽黄色冠羽与惊人智力的葵花凤头鹦鹉（Sulphur-crested Cockatoo）。解读其冠羽表达的情感信号，掌握羽粉（Powder down）清理与预防分离焦虑的3阶段护理流程。",
-                "authority": "世界自然保护联盟 (IUCN) 鸟类保护指南及鸟类兽医师协会 (AAV) 临床规程",
-                "profile": {
-                    "breed": "葵花凤头鹦鹉 / 葵花巴丹 (Sulphur-crested Cockatoo)",
-                    "lifespan": "50 ~ 70年以上",
-                    "sleep_pattern": "10 ~ 12小时 (隔离光线与噪音的完全黑暗睡眠)",
-                    "temperament": "极度粘人、聪明绝顶、情绪化、社会化程度高、易患分离焦虑、叫声洪亮"
-                },
-                "intro": "葵花凤头鹦鹉（Sulphur-crested Cockatoo）因其头顶华丽的鲜黄色冠羽、雪白的羽毛以及媲美人类幼童的高超智力与情感交流能力，被誉为大中型鹦鹉宠主心中的梦幻品种。它们极度渴望爱与关注，但这也意味着对主人的依赖度极高，一旦缺乏陪伴，极易患上叫嚷症或咬羽症（自残拔毛）。此外，为了羽毛的防水与保养，它们体会分泌大量白色羽粉（Powder down），因此定期喷雾洗澡和空气质量管理不可或缺。本指南将解析葵花凤头鹦鹉的冠羽语言，并分享维护羽毛卫生与智力开发的3阶段日常护理流程。",
-                "whyTitle": "葵花凤头鹦鹉的情感语言：冠羽角度与行为信号",
-                "whyDesc": "葵花凤头鹦鹉通过展平或展开头顶的黄色冠羽来精确表达情绪。当感到兴奋、警惕，或是见到极度喜欢的主人时，它们会将黄色冠羽如皇冠般完全张开，这种行为被称为**“展开冠羽 (Crest Erecting)”**。相反，当处于放松状态时，它们会将冠羽收拢贴于脑后，并蓬起面颊羽毛。",
-                "body_signals": [
-                    {
-                        "name": "完全展开冠羽并张开翅膀 (Crest Erecting)",
-                        "meaning": "代表高度兴奋、好奇、警惕，或是对主人表达极致的欢迎与喜悦。",
-                        "response": "观察周围环境排除危险源，或用温和沉稳的声音与它们说话以平复兴奋情绪。"
-                    },
-                    {
-                        "name": "收拢冠羽并发出磨喙声 (Beak Grinding)",
-                        "meaning": "代表生理与心理上获得了极大的安全感，已进入准备舒适睡眠的放松状态。",
-                        "response": "调暗室内灯光，提供安静无干扰的环境，让其安心入睡。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：温水喷雾沐浴清理羽粉与高营养滋养丸喂食",
-                        "text": "使用温水进行细密喷雾沐浴，冲洗羽粉并减少空气中的飞尘。喂食营养均衡的大型鹦鹉专用滋养丸与新鲜蔬菜。"
-                    },
-                    {
-                        "name": "白天：破坏性木质玩具觅食与3小时以上出笼陪伴",
-                        "text": "提供安全的木质啃咬玩具与觅食（Foraging） puzzle 玩具以满足其喙部啃咬欲。每天保持3小时以上的出笼互动时间以预防分离焦虑。"
-                    },
-                    {
-                        "name": "晚上：拔羽症自残检查与12小时完全黑暗睡眠环境",
-                        "text": "检查胸部及翅膀内侧羽毛是否有拔毛痕迹。盖上遮光笼布，确保10-12小时无光照扰动的深度睡眠。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "葵花凤头鹦鹉身上散发出来的白色粉末是皮屑吗？",
-                        "answer": "不是。这被称为“羽粉 (Powder down)”，是专门羽毛粉碎后形成的天然物质，用于保护羽毛并提供防水功能。但为了宠主与鸟类的呼吸道健康，家中需配置高效 HEPA 空气净化器并定期帮其喷雾洗澡。"
-                    },
-                    {
-                        "question": "主人出门时鹦鹉尖叫并拔羽毛该怎么办？",
-                        "answer": "这是因智力极高且极具社会化而引发的典型分离焦虑。应增加独处时可玩的觅食玩具以分散注意力，并在出门前和回家后避免过于激动的亲昵行为，培养平稳的相处模式。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Lenguaje del copete de la Cacatúa Sulfúrea, cuidado del polvo de plumas y rutina de 3 pasos",
-                "description": "Cuidados esenciales para la inteligente Cacatúa Sulfúrea. Aprenda a descifrar las señales emocionales de su crest, gestionar el polvo de plumas y prevenir la ansiedad por separación.",
-                "authority": "Pautas de Conservación de Aves de la UICN y Protocolos Clínicos de la AAV",
-                "profile": {
-                    "breed": "Cacatúa Sulfúrea / Cacatúa de Cresta Amarilla (Sulphur-crested Cockatoo)",
-                    "lifespan": "50 ~ 70+ años",
-                    "sleep_pattern": "10 ~ 12 horas (oscuridad total libre de ruidos y luces)",
-                    "temperament": "Cariñosa, altamente inteligente, emocional, social, propensa a la ansiedad, ruidosa"
-                },
-                "intro": "La Cacatúa Sulfúrea es un ave de compañía de ensueño, famosa en todo el mundo por su llamativo copete de plumas amarillas (cresta), su plumaje blanco puro y su extraordinaria inteligencia. Posee una capacidad afectiva y un desarrollo mental comparables a los de un niño pequeño; sin embargo, esta gran necesidad social la hace vulnerable al estrés, chillidos y al arrancado de plumas (picaje) si se siente sola. Además, produce un polvo blanco (powder down) para impermeabilizar sus plumas, exigiendo baños frecuentes y control de calidad del aire. En esta guía, compartimos su guía de cuidados.",
-                "whyTitle": "Comunicación de la Cacatúa: Posiciones del copete y señales emocionales",
-                "whyDesc": "La Cacatúa Sulfúrea expresa sus emociones desplegando o replegando su cresta amarilla. Cuando está eufórica, alerta o feliz de ver a su tutor, despliega su copete en forma de abanico (**'Despliegue del copete'**). En cambio, al sentirse completamente segura, pliega la cresta y ahueca las plumas de las mejillas.",
-                "body_signals": [
-                    {
-                        "name": "Copete desplegado en abanico (Crest Erecting)",
-                        "meaning": "Indica gran excitación, curiosidad, alerta o una inmensa alegría al saludar a su tutor.",
-                        "response": "Valore el entorno para descarta amenazas o háblele con voz pausada para calmar su euforia."
-                    },
-                    {
-                        "name": "Copete replegado y crujido de pico (Beak Grinding)",
-                        "meaning": "Señal clara de relajación física y mental; indica que se siente segura y lista para descansar.",
-                        "response": "Atenúe las luces y reduzca el ruido ambiental para garantizarle un sueño reparador."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Baño de spray tibio contra el polvo e hidratación",
-                        "text": "Rocíe con agua tibia tipo ducha de spray para limpiar el polvo de plumas y evitar que flote en el aire. Ofrezca pienso extrusionado balanceado para loros grandes y verduras frescas."
-                    },
-                    {
-                        "name": "Tarde: Juguetes de madera destructibles y 3+ horas fuera de la jaula",
-                        "text": "Proporcione juguetes de madera seguros para picotear y puzles de forrajeo. Dedíquele un mínimo de 3 horas de interacción directa para evitar el estrés por soledad."
-                    },
-                    {
-                        "name": "Noche: Control del plumaje y 12 horas de oscuridad absoluta",
-                        "text": "Inspeccione el pecho y el interior de las alas buscando signos de picaje. Cubra la jaula con una funda opaca para asegurar de 10 a 12 horas de oscuridad total."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿El polvo blanco que suelta la cacatúa es caspa?",
-                        "answer": "No. Se llama 'powder down' (polvillo de pluma) y es una sustancia natural que impermeabiliza y protege el plumaje. Sin embargo, se aconseja usar purificadores de aire con filtro HEPA y pulverizarla con agua regularmente."
-                    },
-                    {
-                        "question": "¿Cómo puedo evitar que grite o se arranque plumas cuando me voy?",
-                        "answer": "Es un síntoma de ansiedad por separación debido a su elevada inteligencia. Déjele juguetes de forrajeo para mantener su mente ocupada mientras está sola y evite las despedidas y recibimientos demasiado efusivos."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Langage de la huppe du Cacatoès à huppe jaune, gestion de la poudre et routine en 3 étapes",
-                "description": "Soins essentiels pour le Cacatoès à huppe jaune, un oiseau très intelligent. Décryptez les mouvements de sa huppe, gérez le duvet de poudre et prévenez le piquage.",
-                "authority": "Directives de la UICN et Protocoles Cliniques de l'Association of Avian Veterinarians (AAV)",
-                "profile": {
-                    "breed": "Cacatoès à huppe jaune (Sulphur-crested Cockatoo)",
-                    "lifespan": "50 ~ 70+ ans",
-                    "sleep_pattern": "10 ~ 12 heures (obscurité totale sans bruit ni lumière)",
-                    "temperament": "Affectueux, très intelligent, sensible, social, sujet à l'anxiété de séparation, bruyant"
-                },
-                "intro": "Le Cacatoès à huppe jaune est un oiseau de compagnie d'exception, célèbre pour sa huppe jaune vif, son plumage blanc comme la neige et sa grande intelligence. Émotionnellement comparé à un jeune enfant, il développe des liens affectifs très puissants avec son maître. Cependant, sa forte dépendance sociale le rend vulnérable à l'anxiété de séparation, aux cris stridents et au piquage (auto-mutilation). De plus, il sécrète une fine poudre blanche (powder down) pour l'entretien de ses plumes, nécessitant une bonne qualité d'air. Dans ce guide, vous livre sa routine quotidienne.",
-                "whyTitle": "Communication du Cacatoès : Positions de la huppe et signaux émotionnels",
-                "whyDesc": "Le Cacatoès exprime visuellement ses émotions en déployant ou en rabattant sa huppe jaune. En cas d'excitation, d'alerte ou de joie intense, il dresse sa huppe en éventail (**'Déploiement de la huppe'**). En revanche, lorsqu'il est apaisé, il rabat sa huppe contre sa tête et gonfle les plumes de ses joues.",
-                "body_signals": [
-                    {
-                        "name": "Huppe jaune déployée en éventail (Crest Erecting)",
-                        "meaning": "Signe d'excitation intense, de curiosité, d'alerte ou de grande joie à la vue de son propriétaire.",
-                        "response": "Vérifiez l'absence de danger autour de lui ou parlez-lui d'un ton calme pour apaiser son excitation."
-                    },
-                    {
-                        "name": "Huppe rabattue et grincement de bec (Beak Grinding)",
-                        "meaning": "Preuve de bien-être physique et mental, indiquant qu'il est en sécurité et prêt à dormir.",
-                        "response": "Baissez les lumières et réduisez le bruit ambiant pour lui offrir un sommeil paisible."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Douche de brume tiède anti-poudre et alimentation",
-                        "text": "Brumisez-le à l'eau tiède pour nettoyer la poudre de plumes et réduire les poussières. Proposez des extrudés équilibrés pour grands perroquets et des légumes frais."
-                    },
-                    {
-                        "name": "Après-midi : Jouets à détruire, foragement et 3h+ hors de la cage",
-                        "text": "Fournissez des jouets en bois destructibles et des puzles de recherche de nourriture. Assurez au moins 3 heures de sortie et d'interaction par jour."
-                    },
-                    {
-                        "name": "Soir : Inspection du plumage et 12h d'obscurité totale",
-                        "text": "Examinez le poitrail et l'intérieur des ailes pour déceler tout début de piquage. Recouvrez la cage d'une housse occultante pour 10 à 12 heures de nuit complète."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "La poudre blanche produite par le cacatoès est-elle de la pellicule ?",
-                        "answer": "Non, c'est du 'duvet de poudre' (powder down), une substance naturelle qui nettoie et imperméabilise ses plumes. Utilisez un purificateur d'air à filtre HEPA et nettoyez-le régulièrement à l'eau."
-                    },
-                    {
-                        "question": "Comment empêcher les cris et le piquage quand je m'absente ?",
-                        "answer": "Ce sont des symptômes d'anxiété de séparation dus à sa haute intelligence. Donnez-lui des jouets de foragement pour occuper son esprit pendant vos absences, et évitez les départs et retrouvailles trop théâtraux."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Gelbhaubenkakadu Hauben-Sprache, Puderdunen & 3-Schritte-Tagesroutine für die geistige Fitness",
-                "description": "Essenzielle Pflege für den hochintelligenten Gelbhaubenkakadu. Lernen Sie die Signale der gelben Haube zu deuten, Puderdunen zu managen und Trennungsangst vorzubeugen.",
-                "authority": "IUCN-Vogelschutzrichtlinien & Klinische Protokolle der Association of Avian Veterinarians (AAV)",
-                "profile": {
-                    "breed": "Gelbhaubenkakadu (Sulphur-crested Cockatoo)",
-                    "lifespan": "50 ~ 70+ Jahre",
-                    "sleep_pattern": "10 ~ 12 Stunden (Völlige Dunkelheit ohne Licht und Lärm)",
-                    "temperament": "Anhänglich, hochintelligent, emotional, sozial, neigt zu Trennungsangst, laut"
-                },
-                "intro": "Der Gelbhaubenkakadu ist wegen seiner leuchtend gelben Haube, seines schneeweißen Gefieders und seiner erstaunlichen emotionalen Tiefe ein Traumvogel für Kakadu-Liebhaber. Mit einer Intelligenz, die der eines Kleinkindes gleicht, baut er eine extrem enge Bindung zu seinem Halter auf. Diese hohe soziale Abhängigkeit macht ihn jedoch anfällig für Trennungsangst, Schreien und Federrupfen (Rupfer-Syndrom). Zudem erzeugt er Puderdunen (Gefiederstaub) zur Federpflege, was eine gute Raumluftqualität erfordert. Dieser Ratgeber zeigt eine 3-Schritte-Routine für Gefiederhygiene und Beschäftigung.",
-                "whyTitle": "Kommunikation des Kakadus: Haubenstellung und emotionale Signale",
-                "whyDesc": "Der Gelbhaubenkakadu drückt seine Stimmung durch das Aufstellen oder Anlegen seiner gelben Haube aus. Bei großer Aufregung, Neugier oder Freude stellt er die Haube fächerartig auf (**'Aufstellen der Haube'**). Ist er entspannt, legt er die Haube flach an und plustert die Wangenfedern auf.",
-                "body_signals": [
-                    {
-                        "name": "Fächerartig aufgestellte Haube (Crest Erecting)",
-                        "meaning": "Signal für starke Aufregung, Wachsamkeit, Neugier oder überschwängliche Freude beim Begrüßen der Bezugsperson.",
-                        "response": "Überprüfen Sie die Umgebung auf Reize oder sprechen Sie ruhig mit dem Vogel, um ihn zu beruhigen."
-                    },
-                    {
-                        "name": "Angelegte Haube & Schnabelknirschen (Beak Grinding)",
-                        "meaning": "Deutliches Zeichen für körperliche Entspannung, Sicherheit und die Bereitschaft zu schlafen.",
-                        "response": "Dimmen Sie das Licht und reduzieren Sie Umgebungsgeräusche für eine ungestörte Nachtruhe."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Lauwarme Sprühdusche gegen Staub & Ausgewogene Pellets",
-                        "text": "Duschen Sie den Vogel sanft mit lauwarmem Wasser ab, um Puderdunen abzuwaschen. Bieten Sie hochwertige Großpapageien-Pellets und frisches Gemüse an."
-                    },
-                    {
-                        "name": "Nachmittag: Holz-Zerstörungsspielzeug & 3+ Stunden Freiflug",
-                        "text": "Stellen Sie sichere Holzspielzeuge und Foraging-Rätsel (Futtersuch-Spielzeug) bereit. Gewähren Sie täglich mindestens 3 Stunden Freiflug und Interaktion."
-                    },
-                    {
-                        "name": "Abend: Gefiederkontrolle & 12 Stunden völlige Dunkelheit",
-                        "text": "Prüfen Sie Brust und Flügelinnenseiten auf Rupfspuren. Decken Sie den Käfig mit einem dunklen Tuch ab, um 10-12 Stunden ungestörte Dunkelheit zu garantieren."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Ist der weiße Staub des Kakadus Hautschuppen?",
-                        "answer": "Nein, es handelt sich um 'Puderdunen' – eine spezielle Gefiederform, die zerfällt und das Gefieder reinigt sowie wasserabweisend macht. Ein HEPA-Luftreiniger und regelmäßiges Duschen sind für das Raumklima unerlässlich."
-                    },
-                    {
-                        "question": "Was tun gegen Schreien und Federrupfen beim Verlassen des Hauses?",
-                        "answer": "Dies sind Anzeichen von Trennungsangst aufgrund der hohen Intelligenz. Stellen Sie ausreichend Futtersuch-Spielzeuge zur Verfügung und vermeiden Sie überschwängliche Verabschiedungen oder Begrüßungen."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Linguagem da crista da Cacatua-de-crista-amarela, pó de penas e rotina diária de 3 passos",
-                "description": "Cuidados essenciais para a inteligente Cacatúa-de-crista-amarela. Aprenda a decifrar a linguagem da crista, gerenciar o pó das penas e prevenir a ansiedade de separação.",
-                "authority": "Diretrizes de Conservação da UICN e Protocolos Clínicos da AAV",
-                "profile": {
-                    "breed": "Cacatua-de-crista-amarela / Cacatua-de-crista-amarela-grande (Sulphur-crested Cockatoo)",
-                    "lifespan": "50 ~ 70+ anos",
-                    "sleep_pattern": "10 ~ 12 horas (escuridão total livre de luzes e barulhos)",
-                    "temperament": "Afetuosa, altamente inteligente, emocional, social, propensa à ansiedade, barulhenta"
-                },
-                "intro": "A Cacatua-de-crista-amarela é a ave de estimação dos sonhos de muitos criadores, famosa mundialmente pela sua belíssima crista amarela, plumagem branca e incrível profundidade emocional. Com uma inteligência comparável à de uma criança pequena, ela cria laços profundos com os seus tutores. Porém, essa dependência social pode levar a comportamentos autodestrutivos (arrancar penas) e gritos se deixada sozinha. Além disso, produz um pó branco natural (powder down) para proteção das penas, exigindo banhos frequentes e purificação do ar. Neste guia, apresentamos mos o seu guia de cuidados.",
-                "whyTitle": "Comunicação da Cacatua: Posição da crista e sinais emocionais",
-                "whyDesc": "A Cacatúa-de-crista-amarela expressa as suas emoções abrindo ou deitando a sua crista amarela. Quando está eufórica, alerta ou feliz ao ver o tutor, abre a crista como um leque (**'Abertura da crista'**). Já quando se sente segura e calma, deita a crista e infla as penas das bochechas.",
-                "body_signals": [
-                    {
-                        "name": "Crista amarela aberta em leque (Crest Erecting)",
-                        "meaning": "Indica forte excitação, curiosidade, alerta ou uma enorme alegria ao saudar o seu tutor.",
-                        "response": "Avalie o ambiente para descartar ameaças ou fale com voz calma para tranquilizar a ave."
-                    },
-                    {
-                        "name": "Crista deitada e ranger de bico (Beak Grinding)",
-                        "meaning": "Sinal claro de relaxamento físico e mental, indicando que está pronta para descansar.",
-                        "response": "Diminua as luzes e o barulho do ambiente para proporcionar um sono tranquilo."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Banho de borrifador morno e alimentação balanceada",
-                        "text": "Borrife água morna em névoa para limpar o pó das penas e reduzir o pó suspenso no ar. Ofereça ração extrusada para psitacídeos grandes e vegetais frescos."
-                    },
-                    {
-                        "name": "Tarde: Brinquedos de madeira e 3+ horas fora da gaiola",
-                        "text": "Forneça brinquedos de madeira seguros para roer e puzzles de forrageamento. Garanta pelo menos 3 horas de interação social direta fora da gaiola."
-                    },
-                    {
-                        "name": "Noite: Inspeção da plumagem e 12 horas de escuridão total",
-                        "text": "Examine o peito e o interior das asas para verificar se há penas arrancadas. Cubra a gaiola com capa opaca para garantir de 10 a 12 horas de sono no escuro."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "O pó branco soltado pela cacatua é caspa?",
-                        "answer": "Não, trata-se de 'pó de pena' (powder down), uma substância natural que impermeabiliza e protege a plumagem. Contudo, o uso de purificador de ar com filtro HEPA e banhos frequentes são fundamentais para a saúde respiratória."
-                    },
-                    {
-                        "question": "Como evitar que a ave grite ou arranque penas quando eu saio?",
-                        "answer": "Esses são sintomas de ansiedade de separação decorrentes da sua alta inteligência. Deixe brinquedos de forrageamento para ocupar a mente da ave durante a sua ausência e evite despedidas e retornos efusivos."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Bahasa Jambul Kakatua Koki, Perawatan Serbuk Bulu, dan Rutinitas 3 Langkah Stimulasi Otak",
-                "description": "Perawatan esensial untuk Kakatua Koki (Sulphur-crested Cockatoo) yang sangat cerdas. Pelajari cara membaca emosi lewat jambul, mengelola serbuk bulu, dan mencegah kecemasan berpisah.",
-                "authority": "Panduan Konservasi Burung IUCN & Protokol Klinis Association of Avian Veterinarians (AAV)",
-                "profile": {
-                    "breed": "Kakatua Koki / Kakatua Jambul Kuning (Sulphur-crested Cockatoo)",
-                    "lifespan": "50 ~ 70+ tahun",
-                    "sleep_pattern": "10 ~ 12 jam (kegelapan total tanpa gangguan suara dan cahaya)",
-                    "temperament": "Penyayang, sangat cerdas, emosional, sosial, rentan kecemasan berpisah, bersuara lantang"
-                },
-                "intro": "Kakatua Koki (Sulphur-crested Cockatoo) adalah burung peliharaan impian yang mendunia berkat jambul indahnya yang berwarna kuning cerah, bulu putih bersih, serta kecerdasannya yang luar biasa. Memiliki tingkat kecerdasan dan kebutuhan emosional setara anak balita, burung ini membentuk ikatan sosial yang sangat kuat dengan pemiliknya. Namun, ketergantungan yang tinggi ini membuatnya rentan mengalami kecemasan berpisah dan perilaku mencabuti bulu sendiri jika diabaikan. Selain itu, mereka menghasilkan serbuk bulu putih (powder down) untuk merawat bulunya, sehingga membutuhkan kualitas udara yang baik. Dalam panduan ini, membagikan panduan perawatan harian 3 langkahnya.",
-                "whyTitle": "Komunikasi Kakatua Koki: Posisi Jambul dan Sinyal Emosi",
-                "whyDesc": "Kakatua Koki berkomunikasi secara visual melalui gerakan jambul kuningnya. Saat merasa bersemangat, waspada, atau sangat senang bertemu pemiliknya, mereka akan mekar penuh jambulnya seperti mahkota (**'Pemekaran Jambul'**). Sebaliknya, saat merasa sangat santai, mereka akan merapatkan jambul ke belakang dan membusungkan bulu pipi.",
-                "body_signals": [
-                    {
-                        "name": "Jambul Kuning Mekar Penuh (Crest Erecting)",
-                        "meaning": "Menunjukkan rasa semangat tinggi, rasa ingin tahu, kewaspadaan, atau kegembiraan luar biasa saat menyapa pemiliknya.",
-                        "response": "Periksa lingkungan sekitar dari potensi ancaman, atau bicaralah dengan nada lembut untuk menenangkan emosinya."
-                    },
-                    {
-                        "name": "Jambul Dirapatkan & Gesekan Paruh (Beak Grinding)",
-                        "meaning": "Sinyal pasti bahwa burung merasa aman secara fisik dan mental serta siap untuk tidur nyenyak.",
-                        "response": "Redupkan lampu dan kurangi kebisingan agar burung dapat beristirahat dengan tenang."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Mandi Semprot Air Hangat & Pemberian Pelet Seimbang",
-                        "text": "Semprotkan air hangat secara halus untuk membersihkan serbuk bulu dan mengurangi debu melayang. Berikan pelet khusus burung besar yang seimbang serta sayuran segar."
-                    },
-                    {
-                        "name": "Siang: Mainan Kayu & Interaksi Luar Kandang 3+ Jam",
-                        "text": "Sediakan mainan kayu aman yang dapat dihancurkan dan puzel pencarian makanan (foraging). Pastikan waktu interaksi di luar kandang minimal 3 jam sehari."
-                    },
-                    {
-                        "name": "Malam: Pemeriksaan Bulu & Lingkungan Tidur Gelap 12 Jam",
-                        "text": "Periksa bulu dada dan bagian dalam sayap dari tanda-tanda dicabut. Tutup kandang dengan kain gelap untuk memastikan tidur malam yang tenang selama 10-12 jam."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apakah serbuk putih yang dihasilkan kakatua adalah ketombe?",
-                        "answer": "Bukan. Itu adalah 'powder down' (serbuk bulu), yaitu zat alami dari bulu khusus yang berfungsi membersihkan dan melindunginya dari air. Penggunaan pemurni udara berfilter HEPA dan mandi semprot rutin sangat disarankan."
-                    },
-                    {
-                        "question": "Bagaimana mencegah kakatua berteriak dan mencabuti bulu saat ditinggal?",
-                        "answer": "Ini adalah gejala kecemasan berpisah karena kecerdasannya yang tinggi. Sediakan mainan foraging untuk menyibukkan pikirannya saat sendirian, dan hindari salam perpisahan atau sambutan yang berlebihan."
-                    }
-                ]
-            }
+  "sulphur-crested-cockatoo-care": {
+    "pubDate": "2026-04-14",
+    "updatedDate": "2026-04-14",
+    "locales": {
+      "ko": {
+        "title": "유황 앵무 우관 언어와 파우더·지능 케어를 위한 3단계 데일리 케어",
+        "description": "아름다운 노란 벼슬(우관)과 뛰어난 지능을 지닌 유황 앵무(코카투). 우관이 보내는 감정 신호 해독과 파우더(깃털 가루) 관리, 분리불안 예방을 위한 3단계 맞춤 케어법을 소개합니다.",
+        "authority": "세계자연보전연맹(IUCN) 조류 보호 지침 및 조류수의학회(AAV) 대형 앵무 임상 가이드라인",
+        "profile": {
+          "breed": "유황 앵무 / 코카투 (Sulphur-crested Cockatoo)",
+          "lifespan": "50 ~ 70년 이상",
+          "sleep_pattern": "10 ~ 12시간 (소음과 빛이 차단된 완전한 암전 수면)",
+          "temperament": "애교 많음, 영리함, 감정 기복 있음, 사회성 높음, 분리불안 위험 있음, 소음 있음"
         },
-        "heroImage": "/images/blog/sulphur_crested_cockatoo_care.webp"
-    }
+        "intro": "유황 앵무(코카투)는 머리 위의 화려한 노란빛 우관(Crest)과 흰 깃털, 압도적인 지능과 감정 교감 능력으로 대형 앵무 애호가들에게 열렬한 사랑을 받는 종입니다. 어린아이 수준의 높은 지능과 풍부한 애정을 지녔지만, 그만큼 보호자에 대한 의존도가 높아 분리불안이나 자해증(깃털 뽑기)으로 이어지기 쉽습니다. 또한 방수와 깃털 관리를 위해 몸에서 다량의 흰색 파우더(파우더 다운)를 배출하므로 주기적인 목욕과 공기 질 관리가 필수적입니다. 이번 가이드에서는 유황 앵무의 우관 언어를 해석하고, 영리한 두뇌 활동과 깃털 위생을 보호하는 3단계 데일리 케어 루틴을 다룹니다.",
+        "whyTitle": "유황 앵무의 감정 언어: 우관(벼슬)의 각도와 행동 신호",
+        "whyDesc": "유황 앵무는 머리 위의 우관(벼슬)을 펼치거나 눕히는 각도로 감정을 명확히 표현합니다. 흥분하거나 경계할 때, 또는 극도로 반가울 때는 노란 우관을 왕관처럼 넓게 펼치는 **'우관 펼치기(Crest Erecting)'** 행동을 보입니다. 반면 편안할 때는 우관을 뒤로 눕히고 볼 깃털을 부풀리는 **'볼 부풀리기'** 상태를 유지합니다.",
+        "body_signals": [
+          {
+            "name": "우관을 완전히 펼치고 날개 깃털 세우기 (Crest Erecting)",
+            "meaning": "강한 흥분, 호기심, 경계, 또는 보호자를 향한 극대의 반가움과 자신감을 나타내는 신호입니다.",
+            "response": "상황에 따라 경계 원인을 제거해주거나, 차분한 톤으로 대화하며 흥분을 가라앉혀 줍니다."
+          },
+          {
+            "name": "우관을 눕히고 부리 갈기 소리 내기 (Beak Grinding)",
+            "meaning": "신체적·심리적으로 깊은 안정감과 휴식 상태에 들어갔음을 의미하는 전형적인 안도 신호입니다.",
+            "response": "조명을 낮추고 조용한 환경을 조성하여 편안하게 잘 수 있도록 배려합니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 파우더 세정을 위한 온수 분무 목욕 및 영양 펠릿 급여",
+            "text": "미지근한 물로 미스트 분무 목욕을 실시해 깃털 파우더를 세정하고 공기 중 분무 가루를 줄입니다. 비타민과 미네랄이 균형 잡힌 대형 앵무 전용 펠릿과 신선한 야채를 공급합니다."
+          },
+          {
+            "name": "낮: 파괴형 나무 장난감 퍼즐 및 3시간 이상 교감",
+            "text": "강한 부리 욕구를 충족하도록 안전한 나무 자재와 포리지 장난감(먹이 찾기 퍼즐)을 제공합니다. 분리불안 방지를 위해 3시간 이상 둥지 밖 교감 시간을 갖습니다."
+          },
+          {
+            "name": "저녁: 깃털 손상 및 자해증 점검과 12시간 암전 수면 환경 조성",
+            "text": "가슴과 날개 안쪽 깃털 뽑기(자해증)나 손상 여부를 확인합니다. 수면 부족으로 인한 스트레스를 막기 위해 차광 케이지 커버를 덮고 10~12시간 동안 완전 암전을 유지합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "유황 앵무에서 나오는 흰 가루(파우더)는 비듬인가요?",
+            "answer": "아닙니다. '파우더 다운(Powder down)'으로 불리는 정상적인 깃털 가루로, 깃털을 보호하고 방수 기능을 돕는 천연 물질입니다. 다만 호흡기 질환 예방을 위해 HEPA 필터 공기청정기 사용과 주기적인 분무 목욕이 필수적입니다."
+          },
+          {
+            "question": "보호자가 외출하면 비명을 지르고 깃털을 뽑는데 어떻게 해야 하나요?",
+            "answer": "높은 지능과 사회성으로 인한 전형적인 분리불안 증상입니다. 혼자 있는 시간에 집중할 수 있는 먹이 찾기(Foraging) 장난감을 늘려주고, 외출 직전과 귀가 직후 과도한 애정 표현을 줄여 덤덤한 관계 형성을 유도해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Sulphur-crested Cockatoo Crest Language, Feather Powder, and Cognitive Care 3-Step Daily Routine",
+        "description": "Essential care for the highly intelligent Sulphur-crested Cockatoo. Learn to decode crest emotion signals, manage feather powder down, and prevent separation anxiety with our 3-step guide.",
+        "authority": "IUCN Bird Conservation Guidelines & Association of Avian Veterinarians (AAV) Clinical Protocols",
+        "profile": {
+          "breed": "Sulphur-crested Cockatoo",
+          "lifespan": "50 - 70+ Years",
+          "sleep_pattern": "10 - 12 Hours (Complete Darkness in a Quiet, Undisturbed Space)",
+          "temperament": "Affectionate, Highly Intelligent, Emotional, Social, Prone to Separation Anxiety, Loud"
+        },
+        "intro": "The Sulphur-crested Cockatoo is a dream pet bird renowned worldwide for its striking bright yellow crest, snow-white plumage, and exceptional emotional depth. Possessing toddler-like intelligence and intense social needs, they form profound emotional bonds with their human companions. However, their high dependency makes them vulnerable to distress, screeching, and feather-plucking (self-mutilation) if neglected. Additionally, they produce a fine white powder down for feather maintenance, requiring strict air quality control and frequent bathing. In this guide, decodes cockatoo crest language and presents a 3-step daily care routine for feather hygiene and mental enrichment.",
+        "whyTitle": "Sulphur-crested Cockatoo Communication: Crest Positions and Emotional Signals",
+        "whyDesc": "Cockatoos visually communicate their mood using their yellow crest. When excited, alarmed, or overjoyed, they expand their crest into a fan shape (**'Crest Erecting'**). Conversely, when completely relaxed, they lower the crest flat against their head and fluff out their cheek feathers.",
+        "body_signals": [
+          {
+            "name": "Fully Fan-Expanded Yellow Crest (Crest Erecting)",
+            "meaning": "Indicates high arousal, intense curiosity, alertness, or exuberant joy when greeting their favorite human.",
+            "response": "Assess the environment to remove potential threats, or speak in a soft, soothing tone to help calm their excitement."
+          },
+          {
+            "name": "Flattened Crest & Beak Grinding (Beak Grinding)",
+            "meaning": "A definitive signal of physical contentment, safety, and readiness for restful sleep.",
+            "response": "Dim the lights and lower ambient noise to provide a quiet, secure sleeping environment."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Warm Mist Bathing & Balanced Pellet Feeding",
+            "text": "Mist bathe with lukewarm water to cleanse feather powder down and reduce airborne dust. Offer a balanced diet of large parrot pellets, fresh vegetables, and leafy greens."
+          },
+          {
+            "name": "Afternoon: Foraging Wood Toys & 3+ Hours Out-of-Cage Bonding",
+            "text": "Provide safe wooden destructible toys and complex foraging puzzles to satisfy beak enrichment. Ensure at least 3 hours of direct social interaction to prevent anxiety."
+          },
+          {
+            "name": "Evening: Feather Inspection & 12-Hour Dark Sleep Environment",
+            "text": "Check chest and wing feathers for signs of plucking or damage. Cover the cage with a blackout cover to ensure 10-12 hours of undisturbed darkness for hormonal balance."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Is the fine white dust produced by cockatoos dander?",
+            "answer": "No, it is called 'powder down'—a natural byproduct of specialized feathers used to clean and waterproof their plumage. Because it spreads easily, using a HEPA air purifier and offering regular water baths are necessary for indoor health."
+          },
+          {
+            "question": "How can I prevent screaming and feather plucking when I leave the house?",
+            "answer": "These behaviors stem from separation anxiety due to high intelligence. Provide engaging foraging toys to keep their mind occupied while alone, and maintain a calm, neutral routine when leaving and returning rather than overly dramatic farewells."
+          }
+        ]
+      },
+      "ja": {
+        "title": "キバタン（キバタンインコ）の冠羽言語と羽粉・知育ケアの3ステップ日常ルーティン",
+        "description": "美しい黄色い冠羽と高い知能を持つキバタン（Sulphur-crested Cockatoo）。冠羽が示す感情シグナルの解読、羽粉（パウダーダウン）対策、分離不安を防ぐ3ステップケアを解説します。",
+        "authority": "IUCN鳥類保全ガイドラインおよび鳥類獣医生理学（AAV）大型インコ臨床プロトコル",
+        "profile": {
+          "breed": "キバタン / コカトゥー (Sulphur-crested Cockatoo)",
+          "lifespan": "50 〜 70年以上",
+          "sleep_pattern": "10 〜 12時間 (光と騒音を遮단した完全な暗黒睡眠)",
+          "temperament": "甘えん坊、非常に賢い、感情豊か、社交的、分離不安になりやすい、呼び鳴きあり"
+        },
+        "intro": "キバタン（Sulphur-crested Cockatoo）は、頭頂部の鮮やかな黄色い冠羽（Crest）と純白の羽、そして人間の子どもと同等の知能と感情交流能力で世界中の大型インコ愛好家を魅了する種です。非常に深い愛情を示しますが、その分飼い主への依存度が高く、放置されると寂しさから呼び鳴きや毛引き症（自傷行為）を引き起こしやすくなります。また、羽の防水と保全のために「羽粉（パウダーダウン）」と呼ばれる白い粉を大量に出すため、定期的な水浴びと空気清浄管理が不可欠です。本記事では、キバタンの冠羽シグナルと健やかな頭脳・羽毛衛生を保つ日常ケアを解説します。",
+        "whyTitle": "キバタンの感情言語：冠羽（トサカ）の角度と行動サイン",
+        "whyDesc": "キバタンは頭上の黄色い冠羽を扇状に広げたり寝かせたりすることで感情を正確に表現します。興奮時や警戒時、あるいは大好きな飼い主を歓迎する時は、冠羽を王冠のように大きく広げる**「冠羽開張（Crest Erecting）」**を見せます。一方、リラックスしている時は冠羽を寝かせ、頬の羽をふくらませます。",
+        "body_signals": [
+          {
+            "name": "冠羽を大きく広げ胸を張る (Crest Erecting)",
+            "meaning": "強い興奮、好奇心、警戒、あるいは飼い主への最大の喜びを表すキバタン特有の表情サインです。",
+            "response": "周囲に恐怖を与える原因がないか確認し、穏やかな声で話しかけて興奮を静めてあげましょう。"
+          },
+          {
+            "name": "冠羽を寝かせて嘴をぎょりぎょり鳴らす (Beak Grinding)",
+            "meaning": "身体的・精神的に深い安心感を得ており、リラックスして寝る準備が整ったサインです。",
+            "response": "部屋の照明を落とし、静かな環境を作って安心して休めるように配慮します。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：羽粉洗浄のための温水ミスト浴とペレット給餌",
+            "text": "ぬるま湯のミストでスプレー浴を行い、空気中に舞う羽粉を洗って飛び散りを防ぎます。栄養バランスの取れた大型インコ用ペレットと label 済みの新鮮な野菜を与えます。"
+          },
+          {
+            "name": "昼：木製フォージングトイと3時間以上の放鳥コミュニケーション",
+            "text": "強力な嘴の破壊欲求を満たす安全な木製おもちゃやフォージング（採餌）トイを与えます。分離不安を防ぐため、毎日3時間以上の放鳥・交流時間を確保します。"
+          },
+          {
+            "name": "夜：毛引き症の点検と12時間の完全暗黒睡眠環境",
+            "text": "胸や翼の内側に毛引き（毛を抜く行為）や損傷がないか確認します。ホルモンバランスとストレス軽減のため、遮光カバーを被せ10〜12時間の完全な暗闇で睡眠をとらせます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "キバタンから出る白い粉（パウダー）は皮膚のフケですか？",
+            "answer": "いいえ。「パウダーダウン（粉羽）」と呼ばれる正常な羽の分解物で、羽毛を保護し撥水性を高める天然の物質です。ただし人間の呼吸器の健康のためにも、HEPAフィルター付き空気清浄機の設置とこまめな霧吹き水浴びが必要です。"
+          },
+          {
+            "question": "留守番中に激しい呼び鳴きや毛引きをする場合の対策は？",
+            "answer": "高い知能と社会性ゆえの分離不安の典型例です。1人の時間に没頭できるフォージングトイ（おやつ探しおもちゃ）を増やし、外出前後の過度なスキンシップを控え、落ち着いた関係性を築くことが大切です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "葵花凤头鹦鹉冠羽语言与羽粉·智力护理3阶段日常指南",
+        "description": "针对拥有美丽黄色冠羽与惊人智力的葵花凤头鹦鹉（Sulphur-crested Cockatoo）。解读其冠羽表达的情感信号，掌握羽粉（Powder down）清理与预防分离焦虑的3阶段护理流程。",
+        "authority": "世界自然保护联盟 (IUCN) 鸟类保护指南及鸟类兽医师协会 (AAV) 临床规程",
+        "profile": {
+          "breed": "葵花凤头鹦鹉 / 葵花巴丹 (Sulphur-crested Cockatoo)",
+          "lifespan": "50 ~ 70年以上",
+          "sleep_pattern": "10 ~ 12小时 (隔离光线与噪音的完全黑暗睡眠)",
+          "temperament": "极度粘人、聪明绝顶、情绪化、社会化程度高、易患分离焦虑、叫声洪亮"
+        },
+        "intro": "葵花凤头鹦鹉（Sulphur-crested Cockatoo）因其头顶华丽的鲜黄色冠羽、雪白的羽毛以及媲美人类幼童的高超智力与情感交流能力，被誉为大中型鹦鹉宠主心中的梦幻品种。它们极度渴望爱与关注，但这也意味着对主人的依赖度极高，一旦缺乏陪伴，极易患上叫嚷症或咬羽症（自残拔毛）。此外，为了羽毛的防水与保养，它们体会分泌大量白色羽粉（Powder down），因此定期喷雾洗澡和空气质量管理不可或缺。本指南将解析葵花凤头鹦鹉的冠羽语言，并分享维护羽毛卫生与智力开发的3阶段日常护理流程。",
+        "whyTitle": "葵花凤头鹦鹉的情感语言：冠羽角度与行为信号",
+        "whyDesc": "葵花凤头鹦鹉通过展平或展开头顶的黄色冠羽来精确表达情绪。当感到兴奋、警惕，或是见到极度喜欢的主人时，它们会将黄色冠羽如皇冠般完全张开，这种行为被称为**“展开冠羽 (Crest Erecting)”**。相反，当处于放松状态时，它们会将冠羽收拢贴于脑后，并蓬起面颊羽毛。",
+        "body_signals": [
+          {
+            "name": "完全展开冠羽并张开翅膀 (Crest Erecting)",
+            "meaning": "代表高度兴奋、好奇、警惕，或是对主人表达极致的欢迎与喜悦。",
+            "response": "观察周围环境排除危险源，或用温和沉稳的声音与它们说话以平复兴奋情绪。"
+          },
+          {
+            "name": "收拢冠羽并发出磨喙声 (Beak Grinding)",
+            "meaning": "代表生理与心理上获得了极大的安全感，已进入准备舒适睡眠的放松状态。",
+            "response": "调暗室内灯光，提供安静无干扰的环境，让其安心入睡。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：温水喷雾沐浴清理羽粉与高营养滋养丸喂食",
+            "text": "使用温水进行细密喷雾沐浴，冲洗羽粉并减少空气中的飞尘。喂食营养均衡的大型鹦鹉专用滋养丸与新鲜蔬菜。"
+          },
+          {
+            "name": "白天：破坏性木质玩具觅食与3小时以上出笼陪伴",
+            "text": "提供安全的木质啃咬玩具与觅食（Foraging） puzzle 玩具以满足其喙部啃咬欲。每天保持3小时以上的出笼互动时间以预防分离焦虑。"
+          },
+          {
+            "name": "晚上：拔羽症自残检查与12小时完全黑暗睡眠环境",
+            "text": "检查胸部及翅膀内侧羽毛是否有拔毛痕迹。盖上遮光笼布，确保10-12小时无光照扰动的深度睡眠。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "葵花凤头鹦鹉身上散发出来的白色粉末是皮屑吗？",
+            "answer": "不是。这被称为“羽粉 (Powder down)”，是专门羽毛粉碎后形成的天然物质，用于保护羽毛并提供防水功能。但为了宠主与鸟类的呼吸道健康，家中需配置高效 HEPA 空气净化器并定期帮其喷雾洗澡。"
+          },
+          {
+            "question": "主人出门时鹦鹉尖叫并拔羽毛该怎么办？",
+            "answer": "这是因智力极高且极具社会化而引发的典型分离焦虑。应增加独处时可玩的觅食玩具以分散注意力，并在出门前和回家后避免过于激动的亲昵行为，培养平稳的相处模式。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Lenguaje del copete de la Cacatúa Sulfúrea, cuidado del polvo de plumas y rutina de 3 pasos",
+        "description": "Cuidados esenciales para la inteligente Cacatúa Sulfúrea. Aprenda a descifrar las señales emocionales de su crest, gestionar el polvo de plumas y prevenir la ansiedad por separación.",
+        "authority": "Pautas de Conservación de Aves de la UICN y Protocolos Clínicos de la AAV",
+        "profile": {
+          "breed": "Cacatúa Sulfúrea / Cacatúa de Cresta Amarilla (Sulphur-crested Cockatoo)",
+          "lifespan": "50 ~ 70+ años",
+          "sleep_pattern": "10 ~ 12 horas (oscuridad total libre de ruidos y luces)",
+          "temperament": "Cariñosa, altamente inteligente, emocional, social, propensa a la ansiedad, ruidosa"
+        },
+        "intro": "La Cacatúa Sulfúrea es un ave de compañía de ensueño, famosa en todo el mundo por su llamativo copete de plumas amarillas (cresta), su plumaje blanco puro y su extraordinaria inteligencia. Posee una capacidad afectiva y un desarrollo mental comparables a los de un niño pequeño; sin embargo, esta gran necesidad social la hace vulnerable al estrés, chillidos y al arrancado de plumas (picaje) si se siente sola. Además, produce un polvo blanco (powder down) para impermeabilizar sus plumas, exigiendo baños frecuentes y control de calidad del aire. En esta guía, compartimos su guía de cuidados.",
+        "whyTitle": "Comunicación de la Cacatúa: Posiciones del copete y señales emocionales",
+        "whyDesc": "La Cacatúa Sulfúrea expresa sus emociones desplegando o replegando su cresta amarilla. Cuando está eufórica, alerta o feliz de ver a su tutor, despliega su copete en forma de abanico (**'Despliegue del copete'**). En cambio, al sentirse completamente segura, pliega la cresta y ahueca las plumas de las mejillas.",
+        "body_signals": [
+          {
+            "name": "Copete desplegado en abanico (Crest Erecting)",
+            "meaning": "Indica gran excitación, curiosidad, alerta o una inmensa alegría al saludar a su tutor.",
+            "response": "Valore el entorno para descarta amenazas o háblele con voz pausada para calmar su euforia."
+          },
+          {
+            "name": "Copete replegado y crujido de pico (Beak Grinding)",
+            "meaning": "Señal clara de relajación física y mental; indica que se siente segura y lista para descansar.",
+            "response": "Atenúe las luces y reduzca el ruido ambiental para garantizarle un sueño reparador."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Baño de spray tibio contra el polvo e hidratación",
+            "text": "Rocíe con agua tibia tipo ducha de spray para limpiar el polvo de plumas y evitar que flote en el aire. Ofrezca pienso extrusionado balanceado para loros grandes y verduras frescas."
+          },
+          {
+            "name": "Tarde: Juguetes de madera destructibles y 3+ horas fuera de la jaula",
+            "text": "Proporcione juguetes de madera seguros para picotear y puzles de forrajeo. Dedíquele un mínimo de 3 horas de interacción directa para evitar el estrés por soledad."
+          },
+          {
+            "name": "Noche: Control del plumaje y 12 horas de oscuridad absoluta",
+            "text": "Inspeccione el pecho y el interior de las alas buscando signos de picaje. Cubra la jaula con una funda opaca para asegurar de 10 a 12 horas de oscuridad total."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿El polvo blanco que suelta la cacatúa es caspa?",
+            "answer": "No. Se llama 'powder down' (polvillo de pluma) y es una sustancia natural que impermeabiliza y protege el plumaje. Sin embargo, se aconseja usar purificadores de aire con filtro HEPA y pulverizarla con agua regularmente."
+          },
+          {
+            "question": "¿Cómo puedo evitar que grite o se arranque plumas cuando me voy?",
+            "answer": "Es un síntoma de ansiedad por separación debido a su elevada inteligencia. Déjele juguetes de forrajeo para mantener su mente ocupada mientras está sola y evite las despedidas y recibimientos demasiado efusivos."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Langage de la huppe du Cacatoès à huppe jaune, gestion de la poudre et routine en 3 étapes",
+        "description": "Soins essentiels pour le Cacatoès à huppe jaune, un oiseau très intelligent. Décryptez les mouvements de sa huppe, gérez le duvet de poudre et prévenez le piquage.",
+        "authority": "Directives de la UICN et Protocoles Cliniques de l'Association of Avian Veterinarians (AAV)",
+        "profile": {
+          "breed": "Cacatoès à huppe jaune (Sulphur-crested Cockatoo)",
+          "lifespan": "50 ~ 70+ ans",
+          "sleep_pattern": "10 ~ 12 heures (obscurité totale sans bruit ni lumière)",
+          "temperament": "Affectueux, très intelligent, sensible, social, sujet à l'anxiété de séparation, bruyant"
+        },
+        "intro": "Le Cacatoès à huppe jaune est un oiseau de compagnie d'exception, célèbre pour sa huppe jaune vif, son plumage blanc comme la neige et sa grande intelligence. Émotionnellement comparé à un jeune enfant, il développe des liens affectifs très puissants avec son maître. Cependant, sa forte dépendance sociale le rend vulnérable à l'anxiété de séparation, aux cris stridents et au piquage (auto-mutilation). De plus, il sécrète une fine poudre blanche (powder down) pour l'entretien de ses plumes, nécessitant une bonne qualité d'air. Dans ce guide, vous livre sa routine quotidienne.",
+        "whyTitle": "Communication du Cacatoès : Positions de la huppe et signaux émotionnels",
+        "whyDesc": "Le Cacatoès exprime visuellement ses émotions en déployant ou en rabattant sa huppe jaune. En cas d'excitation, d'alerte ou de joie intense, il dresse sa huppe en éventail (**'Déploiement de la huppe'**). En revanche, lorsqu'il est apaisé, il rabat sa huppe contre sa tête et gonfle les plumes de ses joues.",
+        "body_signals": [
+          {
+            "name": "Huppe jaune déployée en éventail (Crest Erecting)",
+            "meaning": "Signe d'excitation intense, de curiosité, d'alerte ou de grande joie à la vue de son propriétaire.",
+            "response": "Vérifiez l'absence de danger autour de lui ou parlez-lui d'un ton calme pour apaiser son excitation."
+          },
+          {
+            "name": "Huppe rabattue et grincement de bec (Beak Grinding)",
+            "meaning": "Preuve de bien-être physique et mental, indiquant qu'il est en sécurité et prêt à dormir.",
+            "response": "Baissez les lumières et réduisez le bruit ambiant pour lui offrir un sommeil paisible."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Douche de brume tiède anti-poudre et alimentation",
+            "text": "Brumisez-le à l'eau tiède pour nettoyer la poudre de plumes et réduire les poussières. Proposez des extrudés équilibrés pour grands perroquets et des légumes frais."
+          },
+          {
+            "name": "Après-midi : Jouets à détruire, foragement et 3h+ hors de la cage",
+            "text": "Fournissez des jouets en bois destructibles et des puzles de recherche de nourriture. Assurez au moins 3 heures de sortie et d'interaction par jour."
+          },
+          {
+            "name": "Soir : Inspection du plumage et 12h d'obscurité totale",
+            "text": "Examinez le poitrail et l'intérieur des ailes pour déceler tout début de piquage. Recouvrez la cage d'une housse occultante pour 10 à 12 heures de nuit complète."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "La poudre blanche produite par le cacatoès est-elle de la pellicule ?",
+            "answer": "Non, c'est du 'duvet de poudre' (powder down), une substance naturelle qui nettoie et imperméabilise ses plumes. Utilisez un purificateur d'air à filtre HEPA et nettoyez-le régulièrement à l'eau."
+          },
+          {
+            "question": "Comment empêcher les cris et le piquage quand je m'absente ?",
+            "answer": "Ce sont des symptômes d'anxiété de séparation dus à sa haute intelligence. Donnez-lui des jouets de foragement pour occuper son esprit pendant vos absences, et évitez les départs et retrouvailles trop théâtraux."
+          }
+        ]
+      },
+      "de": {
+        "title": "Gelbhaubenkakadu Hauben-Sprache, Puderdunen & 3-Schritte-Tagesroutine für die geistige Fitness",
+        "description": "Essenzielle Pflege für den hochintelligenten Gelbhaubenkakadu. Lernen Sie die Signale der gelben Haube zu deuten, Puderdunen zu managen und Trennungsangst vorzubeugen.",
+        "authority": "IUCN-Vogelschutzrichtlinien & Klinische Protokolle der Association of Avian Veterinarians (AAV)",
+        "profile": {
+          "breed": "Gelbhaubenkakadu (Sulphur-crested Cockatoo)",
+          "lifespan": "50 ~ 70+ Jahre",
+          "sleep_pattern": "10 ~ 12 Stunden (Völlige Dunkelheit ohne Licht und Lärm)",
+          "temperament": "Anhänglich, hochintelligent, emotional, sozial, neigt zu Trennungsangst, laut"
+        },
+        "intro": "Der Gelbhaubenkakadu ist wegen seiner leuchtend gelben Haube, seines schneeweißen Gefieders und seiner erstaunlichen emotionalen Tiefe ein Traumvogel für Kakadu-Liebhaber. Mit einer Intelligenz, die der eines Kleinkindes gleicht, baut er eine extrem enge Bindung zu seinem Halter auf. Diese hohe soziale Abhängigkeit macht ihn jedoch anfällig für Trennungsangst, Schreien und Federrupfen (Rupfer-Syndrom). Zudem erzeugt er Puderdunen (Gefiederstaub) zur Federpflege, was eine gute Raumluftqualität erfordert. Dieser Ratgeber zeigt eine 3-Schritte-Routine für Gefiederhygiene und Beschäftigung.",
+        "whyTitle": "Kommunikation des Kakadus: Haubenstellung und emotionale Signale",
+        "whyDesc": "Der Gelbhaubenkakadu drückt seine Stimmung durch das Aufstellen oder Anlegen seiner gelben Haube aus. Bei großer Aufregung, Neugier oder Freude stellt er die Haube fächerartig auf (**'Aufstellen der Haube'**). Ist er entspannt, legt er die Haube flach an und plustert die Wangenfedern auf.",
+        "body_signals": [
+          {
+            "name": "Fächerartig aufgestellte Haube (Crest Erecting)",
+            "meaning": "Signal für starke Aufregung, Wachsamkeit, Neugier oder überschwängliche Freude beim Begrüßen der Bezugsperson.",
+            "response": "Überprüfen Sie die Umgebung auf Reize oder sprechen Sie ruhig mit dem Vogel, um ihn zu beruhigen."
+          },
+          {
+            "name": "Angelegte Haube & Schnabelknirschen (Beak Grinding)",
+            "meaning": "Deutliches Zeichen für körperliche Entspannung, Sicherheit und die Bereitschaft zu schlafen.",
+            "response": "Dimmen Sie das Licht und reduzieren Sie Umgebungsgeräusche für eine ungestörte Nachtruhe."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Lauwarme Sprühdusche gegen Staub & Ausgewogene Pellets",
+            "text": "Duschen Sie den Vogel sanft mit lauwarmem Wasser ab, um Puderdunen abzuwaschen. Bieten Sie hochwertige Großpapageien-Pellets und frisches Gemüse an."
+          },
+          {
+            "name": "Nachmittag: Holz-Zerstörungsspielzeug & 3+ Stunden Freiflug",
+            "text": "Stellen Sie sichere Holzspielzeuge und Foraging-Rätsel (Futtersuch-Spielzeug) bereit. Gewähren Sie täglich mindestens 3 Stunden Freiflug und Interaktion."
+          },
+          {
+            "name": "Abend: Gefiederkontrolle & 12 Stunden völlige Dunkelheit",
+            "text": "Prüfen Sie Brust und Flügelinnenseiten auf Rupfspuren. Decken Sie den Käfig mit einem dunklen Tuch ab, um 10-12 Stunden ungestörte Dunkelheit zu garantieren."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Ist der weiße Staub des Kakadus Hautschuppen?",
+            "answer": "Nein, es handelt sich um 'Puderdunen' – eine spezielle Gefiederform, die zerfällt und das Gefieder reinigt sowie wasserabweisend macht. Ein HEPA-Luftreiniger und regelmäßiges Duschen sind für das Raumklima unerlässlich."
+          },
+          {
+            "question": "Was tun gegen Schreien und Federrupfen beim Verlassen des Hauses?",
+            "answer": "Dies sind Anzeichen von Trennungsangst aufgrund der hohen Intelligenz. Stellen Sie ausreichend Futtersuch-Spielzeuge zur Verfügung und vermeiden Sie überschwängliche Verabschiedungen oder Begrüßungen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Linguagem da crista da Cacatua-de-crista-amarela, pó de penas e rotina diária de 3 passos",
+        "description": "Cuidados essenciais para a inteligente Cacatúa-de-crista-amarela. Aprenda a decifrar a linguagem da crista, gerenciar o pó das penas e prevenir a ansiedade de separação.",
+        "authority": "Diretrizes de Conservação da UICN e Protocolos Clínicos da AAV",
+        "profile": {
+          "breed": "Cacatua-de-crista-amarela / Cacatua-de-crista-amarela-grande (Sulphur-crested Cockatoo)",
+          "lifespan": "50 ~ 70+ anos",
+          "sleep_pattern": "10 ~ 12 horas (escuridão total livre de luzes e barulhos)",
+          "temperament": "Afetuosa, altamente inteligente, emocional, social, propensa à ansiedade, barulhenta"
+        },
+        "intro": "A Cacatua-de-crista-amarela é a ave de estimação dos sonhos de muitos criadores, famosa mundialmente pela sua belíssima crista amarela, plumagem branca e incrível profundidade emocional. Com uma inteligência comparável à de uma criança pequena, ela cria laços profundos com os seus tutores. Porém, essa dependência social pode levar a comportamentos autodestrutivos (arrancar penas) e gritos se deixada sozinha. Além disso, produz um pó branco natural (powder down) para proteção das penas, exigindo banhos frequentes e purificação do ar. Neste guia, apresentamos mos o seu guia de cuidados.",
+        "whyTitle": "Comunicação da Cacatua: Posição da crista e sinais emocionais",
+        "whyDesc": "A Cacatúa-de-crista-amarela expressa as suas emoções abrindo ou deitando a sua crista amarela. Quando está eufórica, alerta ou feliz ao ver o tutor, abre a crista como um leque (**'Abertura da crista'**). Já quando se sente segura e calma, deita a crista e infla as penas das bochechas.",
+        "body_signals": [
+          {
+            "name": "Crista amarela aberta em leque (Crest Erecting)",
+            "meaning": "Indica forte excitação, curiosidade, alerta ou uma enorme alegria ao saudar o seu tutor.",
+            "response": "Avalie o ambiente para descartar ameaças ou fale com voz calma para tranquilizar a ave."
+          },
+          {
+            "name": "Crista deitada e ranger de bico (Beak Grinding)",
+            "meaning": "Sinal claro de relaxamento físico e mental, indicando que está pronta para descansar.",
+            "response": "Diminua as luzes e o barulho do ambiente para proporcionar um sono tranquilo."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Banho de borrifador morno e alimentação balanceada",
+            "text": "Borrife água morna em névoa para limpar o pó das penas e reduzir o pó suspenso no ar. Ofereça ração extrusada para psitacídeos grandes e vegetais frescos."
+          },
+          {
+            "name": "Tarde: Brinquedos de madeira e 3+ horas fora da gaiola",
+            "text": "Forneça brinquedos de madeira seguros para roer e puzzles de forrageamento. Garanta pelo menos 3 horas de interação social direta fora da gaiola."
+          },
+          {
+            "name": "Noite: Inspeção da plumagem e 12 horas de escuridão total",
+            "text": "Examine o peito e o interior das asas para verificar se há penas arrancadas. Cubra a gaiola com capa opaca para garantir de 10 a 12 horas de sono no escuro."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "O pó branco soltado pela cacatua é caspa?",
+            "answer": "Não, trata-se de 'pó de pena' (powder down), uma substância natural que impermeabiliza e protege a plumagem. Contudo, o uso de purificador de ar com filtro HEPA e banhos frequentes são fundamentais para a saúde respiratória."
+          },
+          {
+            "question": "Como evitar que a ave grite ou arranque penas quando eu saio?",
+            "answer": "Esses são sintomas de ansiedade de separação decorrentes da sua alta inteligência. Deixe brinquedos de forrageamento para ocupar a mente da ave durante a sua ausência e evite despedidas e retornos efusivos."
+          }
+        ]
+      },
+      "id": {
+        "title": "Bahasa Jambul Kakatua Koki, Perawatan Serbuk Bulu, dan Rutinitas 3 Langkah Stimulasi Otak",
+        "description": "Perawatan esensial untuk Kakatua Koki (Sulphur-crested Cockatoo) yang sangat cerdas. Pelajari cara membaca emosi lewat jambul, mengelola serbuk bulu, dan mencegah kecemasan berpisah.",
+        "authority": "Panduan Konservasi Burung IUCN & Protokol Klinis Association of Avian Veterinarians (AAV)",
+        "profile": {
+          "breed": "Kakatua Koki / Kakatua Jambul Kuning (Sulphur-crested Cockatoo)",
+          "lifespan": "50 ~ 70+ tahun",
+          "sleep_pattern": "10 ~ 12 jam (kegelapan total tanpa gangguan suara dan cahaya)",
+          "temperament": "Penyayang, sangat cerdas, emosional, sosial, rentan kecemasan berpisah, bersuara lantang"
+        },
+        "intro": "Kakatua Koki (Sulphur-crested Cockatoo) adalah burung peliharaan impian yang mendunia berkat jambul indahnya yang berwarna kuning cerah, bulu putih bersih, serta kecerdasannya yang luar biasa. Memiliki tingkat kecerdasan dan kebutuhan emosional setara anak balita, burung ini membentuk ikatan sosial yang sangat kuat dengan pemiliknya. Namun, ketergantungan yang tinggi ini membuatnya rentan mengalami kecemasan berpisah dan perilaku mencabuti bulu sendiri jika diabaikan. Selain itu, mereka menghasilkan serbuk bulu putih (powder down) untuk merawat bulunya, sehingga membutuhkan kualitas udara yang baik. Dalam panduan ini, membagikan panduan perawatan harian 3 langkahnya.",
+        "whyTitle": "Komunikasi Kakatua Koki: Posisi Jambul dan Sinyal Emosi",
+        "whyDesc": "Kakatua Koki berkomunikasi secara visual melalui gerakan jambul kuningnya. Saat merasa bersemangat, waspada, atau sangat senang bertemu pemiliknya, mereka akan mekar penuh jambulnya seperti mahkota (**'Pemekaran Jambul'**). Sebaliknya, saat merasa sangat santai, mereka akan merapatkan jambul ke belakang dan membusungkan bulu pipi.",
+        "body_signals": [
+          {
+            "name": "Jambul Kuning Mekar Penuh (Crest Erecting)",
+            "meaning": "Menunjukkan rasa semangat tinggi, rasa ingin tahu, kewaspadaan, atau kegembiraan luar biasa saat menyapa pemiliknya.",
+            "response": "Periksa lingkungan sekitar dari potensi ancaman, atau bicaralah dengan nada lembut untuk menenangkan emosinya."
+          },
+          {
+            "name": "Jambul Dirapatkan & Gesekan Paruh (Beak Grinding)",
+            "meaning": "Sinyal pasti bahwa burung merasa aman secara fisik dan mental serta siap untuk tidur nyenyak.",
+            "response": "Redupkan lampu dan kurangi kebisingan agar burung dapat beristirahat dengan tenang."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Mandi Semprot Air Hangat & Pemberian Pelet Seimbang",
+            "text": "Semprotkan air hangat secara halus untuk membersihkan serbuk bulu dan mengurangi debu melayang. Berikan pelet khusus burung besar yang seimbang serta sayuran segar."
+          },
+          {
+            "name": "Siang: Mainan Kayu & Interaksi Luar Kandang 3+ Jam",
+            "text": "Sediakan mainan kayu aman yang dapat dihancurkan dan puzel pencarian makanan (foraging). Pastikan waktu interaksi di luar kandang minimal 3 jam sehari."
+          },
+          {
+            "name": "Malam: Pemeriksaan Bulu & Lingkungan Tidur Gelap 12 Jam",
+            "text": "Periksa bulu dada dan bagian dalam sayap dari tanda-tanda dicabut. Tutup kandang dengan kain gelap untuk memastikan tidur malam yang tenang selama 10-12 jam."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah serbuk putih yang dihasilkan kakatua adalah ketombe?",
+            "answer": "Bukan. Itu adalah 'powder down' (serbuk bulu), yaitu zat alami dari bulu khusus yang berfungsi membersihkan dan melindunginya dari air. Penggunaan pemurni udara berfilter HEPA dan mandi semprot rutin sangat disarankan."
+          },
+          {
+            "question": "Bagaimana mencegah kakatua berteriak dan mencabuti bulu saat ditinggal?",
+            "answer": "Ini adalah gejala kecemasan berpisah karena kecerdasannya yang tinggi. Sediakan mainan foraging untuk menyibukkan pikirannya saat sendirian, dan hindari salam perpisahan atau sambutan yang berlebihan."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/sulphur_crested_cockatoo_care.webp"
+  }
 }

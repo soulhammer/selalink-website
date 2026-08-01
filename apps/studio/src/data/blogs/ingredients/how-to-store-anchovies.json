@@ -1,406 +1,406 @@
 {
-    "how-to-store-anchovies": {
-        "ingId": "anchovy",
-        "pubDate": "2026-06-11",
-        "updatedDate": "2026-06-11",
-        "heroImage": "/images/blog/anchovy_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "멸치(안초비) 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 멸치의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "국립수산과학원(NIFS) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)",
-                "intro": "국물 요리의 핵심 재료이자 영양 만점 반찬인 멸치, 상온에 두었다가 색이 노랗게 변하고 퀴퀴한 잡내가 나거나 곰팡이가 피어 버려본 경험 있으시죠? 🐟\n\n멸치는 불포화지방산(DHA, EPA)과 단백질이 풍부하지만, 공기 중의 산소와 수분에 노출되면 지방 산패(Rancidity)와 부패가 매우 빠르게 진행되는 식재료입니다. 특히 수분을 머금으면 특유의 비린내가 심해지고 곰팡이가 쉽게 번식합니다.\n\n이번 가이드에서는 수산 및 식품 안전 전문가들의 검증된 가이드라인을 바탕으로, 멸치의 바삭한 식감과 고소한 풍미를 오래 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "상온에 장기간 방치하지 마세요 ⚠️",
-                        "desc": "마른 멸치라도 상온의 공기와 빛, 습기에 노출되면 지방이 빠르게 산화되어 노랗게 변색되고 쓴맛과 퀴퀴한 비린내가 납니다. 수분을 흡수하면 곰팡이가 피는 결정적인 원인이 됩니다."
-                    },
-                    {
-                        "title": "밀봉하지 않은 채 냉동실에 넣지 마세요 🐟",
-                        "desc": "멸치는 냉장고나 냉동실 안의 다른 음식 냄새를 스펀지처럼 흡수하는 성질이 있습니다. 지퍼백이나 밀폐 용기 없이 그대로 넣으면 멸치에 냉동실 잡내가 배고 수분이 바짝 말라 풍미가 떨어집니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "습기 제거 후 소분하기 — 비린내 제거 & 수분 차단 📦",
-                        "text": "멸치 표면에 습기가 있다면 기름 없는 달군 팬에 약불로 1~2분간 살짝 볶아 수분을 날려줍니다. 💡 보관 팁: 열기를 완전히 식힌 후, 1회 요리 분량씩 나뉘어 비닐 팩이나 지퍼백에 소분해 주세요."
-                    },
-                    {
-                        "name": "밀폐 용기에 담아 이중 밀봉하기 — 냄새 흡수 차단 & 산화 방지 📰",
-                        "text": "공기와의 접촉을 최소화해야 불포화지방산의 산패를 막을 수 있습니다. 💡 보관 팁: 소분한 멸치를 밀폐 용기나 불투명 용기에 한 번 더 담아 이중으로 밀봉하면 공기, 빛, 냉장고 잡내를 완벽히 차단할 수 있습니다."
-                    },
-                    {
-                        "name": "-18℃ 이하 냉동 보관하기 — 냉동 보관 (6~12개월) ❄️",
-                        "text": "마른 멸치의 최적 보관 장소는 냉장실이 아닌 냉동실입니다. 💡 보관 팁: 밀봉한 멸치를 냉동실(-18℃ 이하)에 보관하세요. 지방 산패와 곰팡이 생성을 완벽히 억제하여 6개월에서 1년 이상 고소한 맛을 유지할 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "멸치 색이 노랗거나 붉게 변하고 냄새가 나는데 먹어도 되나요?",
-                        "answer": "멸치 표면이 노랗게 변색된 것은 지방이 산소와 반응하여 산패(지방 산화)된 현상입니다. 변색이 살짝 진행되었더라도 퀴퀴한 냄새나 쓴맛이 심하다면 영양소가 파괴되고 유해 산화물이 생성되었을 수 있으므로 폐기하는 것이 좋습니다."
-                    },
-                    {
-                        "question": "냉동 보관했던 멸치를 사용할 때 비린내를 없애는 팁이 있나요?",
-                        "answer": "냉동실에서 꺼낸 멸치를 기름을 두르지 않은 팬에 넣고 약불에서 1~2분간 가볍게 볶아주세요. 수분과 함께 비린내를 유발하는 휘발성 성분이 날아가면서 바삭함과 고소한 향이 다시 살아납니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Store Dried Anchovies: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for dried anchovies based on official safety guidelines.",
-                "authority": "NIFS & USDA & MFDS",
-                "intro": "Have you ever kept dried anchovies at room temperature, only to find them turned yellow, stale, smelling unpleasantly fishy, or covered in mold? 🐟\n\nAnchovies are rich in unsaturated fatty acids (DHA, EPA) and protein, but exposure to ambient air, light, and humidity rapidly triggers lipid oxidation (rancidity) and decay. Absorbing moisture worsens their fishy odor and creates an ideal breeding ground for mold.\n\nIn this guide, introduces a scientifically proven 3-step anchovy storage guide recommended by seafood and food safety experts to preserve crispness and rich flavor for months. 🛡️",
-                "whyTitle": "Why Store Anchovies This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Do not store at room temperature long term ⚠️",
-                        "desc": "Exposing dried anchovies to ambient air, light, and moisture causes rapid fat oxidation, leading to yellowish discoloration, a bitter taste, and stale odors. Absorbing room humidity is the primary cause of mold growth."
-                    },
-                    {
-                        "title": "Never place unsealed anchovies in the freezer 🐟",
-                        "desc": "Anchovies act like a sponge, absorbing volatile odor molecules floating inside the freezer. Freezing them without airtight packaging results in freezer burn, dryness, and absorption of unpleasant freezer smells."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Dry-roast briefly and portion — Remove Moisture & Odors 📦",
-                        "text": "If anchovies feel slightly damp, dry-roast them in a pan without oil over low heat for 1–2 minutes to evaporate excess moisture. 💡 Storage Tip: Allow them to cool completely before portioning into single-meal plastic bags or Ziploc pouches."
-                    },
-                    {
-                        "name": "Double-seal in airtight containers — Prevent Odor Absorption & Oxidation 📰",
-                        "text": "Minimizing oxygen exposure is essential to prevent lipid oxidation of unsaturated fatty acids. 💡 Storage Tip: Place the portioned bags inside an airtight container or opaque box for double sealing against air, light, and ambient odors."
-                    },
-                    {
-                        "name": "Freeze below -18°C — Frozen Storage (6–12 Months) ❄️",
-                        "text": "The optimal long-term storage location for dried anchovies is the freezer, not the refrigerator cabinet. 💡 Storage Tip: Store sealed anchovies in the freezer (-18°C or below). This halts fat rancidity and mold growth, preserving fresh aroma for 6 to 12 months."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "My dried anchovies turned yellowish and smell stale. Are they still safe to eat?",
-                        "answer": "Yellowish discoloration indicates that the fats in anchovies have oxidized due to oxygen exposure (rancidity). If the discoloration is severe, accompanied by a sour smell or bitter taste, harmful oxidation byproducts have formed and they should be discarded."
-                    },
-                    {
-                        "question": "How can I remove the fishy odor from frozen anchovies before cooking?",
-                        "answer": "Take the anchovies out of the freezer and dry-toast them in a pan without oil over low heat for 1–2 minutes. Evaporating residual moisture drives off volatile fishy amines, restoring a crisp texture and savory aroma."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "煮干し・アンチョビ（カタクチイワシ）を新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づく煮干し（カタクチイワシ・アンチョビ）の最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "国立水産科学館(NIFS) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "出汁や料理の味の決め手となる煮干し（カタクチイワシ）、常温で保存していたら黄色く変色したり、生臭い古くなったニオイやカビが発生して捨ててしまった経験はありませんか？🐟\n\n煮干しは不飽和脂肪酸（DHA、EPA）やタンパク質が豊富ですが、空気中の酸素や湿気に晒されると脂質の酸化（酸敗）と劣化が急激に進む食材です。特に湿気を吸うと独特の魚臭さが強くなり、カビが繁殖しやすくなります。\n\n本記事では、専門家が推奨する煮干しの香ばしい風味と香りを長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "常温で長期間放置しないでください ⚠️",
-                        "desc": "乾燥した煮干しであっても常温の空気や光、湿気に晒されると脂肪が急速に酸化し、黄色く変色して苦味や嫌な魚臭さが発生します。湿気を吸うことがカビ発生の最大の原因です。"
-                    },
-                    {
-                        "title": "密閉せずに冷凍室に入れないでください 🐟",
-                        "desc": "煮干しは冷蔵庫や冷凍庫内の他の食品のニオイを吸収しやすい性質を持っています。チャック付き袋や密閉容器に入れずに保存すると、冷凍庫の臭いが移り、乾燥しすぎて旨味が損なわれます。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "湿気を取り除き小分けする — 生臭さ除去＆湿気遮断 📦",
-                        "text": "煮干しの表面に湿気を感じる場合は、油を敷かずにフライパンで弱火で1〜2分軽く乾煎りして水分を飛ばします。💡保存のコツ：熱を完全に冷ましてから、1回のお料理で使う分量ずつポリ袋やチャック付き袋に小分けします。"
-                    },
-                    {
-                        "name": "密閉容器に入れて二重密閉する — ニオイ移り防止＆酸化防止 📰",
-                        "text": "空気との接触を最小限に抑えることで不飽和脂肪酸の酸化（酸敗）を防ぎます。💡保存のコツ：小分けした袋を不透明な密閉容器に入れ、二重に密閉することで空気、光、冷蔵庫内のにおい移りを完全に遮断します。"
-                    },
-                    {
-                        "name": "-18℃以下で冷凍保存する — 冷凍保存 (6〜12ヶ月間) ❄️",
-                        "text": "煮干しの最適な保管場所は冷蔵室ではなく冷凍室です。💡保存のコツ：密閉した煮干しを冷凍室（-18℃以下）で保存します。脂肪の酸化やカビの発生を抑え、6ヶ月から1年以上香ばしい風味を保つことができます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "煮干しの色が黄色や赤っぽく変色してニオイがしますが、使えますか？",
-                        "answer": "表面が黄色く変色しているのは、脂肪が酸素と反応して酸化（酸敗）した現象です。変色が激しく、古い油のニオイや苦味が強い場合は、栄養素が破壊され有害な酸化物が生成されている可能性があるため、廃棄することをおすすめします。"
-                    },
-                    {
-                        "question": "冷凍保存していた煮干しを使う際、生臭さを消すコツはありますか？",
-                        "answer": "冷凍室から出した煮干しを、油を敷いていないフライパンに入れ、弱火で1〜2分ほど軽く乾煎りしてください。水分とともに臭みのもととなる揮発性成分が飛び、サクサクとした食感と香ばしい香りが蘇ります。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持干鳀鱼（小银鱼）新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解干鳀鱼（小银鱼）的最佳储存温度、方式和保质时长。",
-                "authority": "韩国国立水产科学院(NIFS) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "提鲜煮汤和制作小菜不可或缺的干鳀鱼（小银鱼），在常温下放久了是不是会变黄、发黏、散发腥臭味甚至发霉？🐟\n\n干鳀鱼富含不饱和脂肪酸（DHA、EPA）和蛋白质，但暴露于空气中的氧气与湿气时，极易发生油脂氧化酸败（Rancidity）与变质。特别是吸潮后，其鱼腥味会加重，并为霉菌滋生提供温床。\n\n本指南基于权威水产及食品安全指南，为您带来3步科学保存秘诀，帮您长久保持干鳀鱼的香酥口感与醇香。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "切勿在常温下长期存放 ⚠️",
-                        "desc": "即使是干鳀鱼，长期暴露于常温空气、光线和湿气中，脂肪也会迅速氧化变黄，产生苦味与陈腐腥味。吸潮是导致其发霉的根本原因。"
-                    },
-                    {
-                        "title": "切勿未密封直接放入冷冻室 🐟",
-                        "desc": "干鳀鱼具有极强的吸附性，会像海绵一样吸收冰箱内的其他食物异味。若不装入拉链袋或密封盒直接冷冻，会导致鱼干吸收冷冻室异味且干瘪失味。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "去除湿气后分装 — 祛除腥味与防潮 📦",
-                        "text": "若鳀鱼表皮受潮发软，可放入无油平底锅中用小火无油干炒1~2分钟驱散湿气。💡储存小贴士：待其彻底冷却后，按单次用量分装入保鲜袋或拉链袋中。"
-                    },
-                    {
-                        "name": "装入密封盒双层密封 — 隔绝异味与防氧化 📰",
-                        "text": "最大限度减少与空气接触是防止不饱和脂肪酸酸败的关键。💡储存小贴士：将分装好的袋装鳀鱼放入保鲜盒或不透明盒中进行双层密封，彻底阻隔空气、光线与冰箱异味。"
-                    },
-                    {
-                        "name": "-18℃以下冷冻保存 — 冷冻储存 (6~12个月) ❄️",
-                        "text": "干鳀鱼最佳储存位置是冷冻室而非冷藏室或常温橱柜。💡储存小贴士：将密封好的鳀鱼存入冷冻室（-18℃以下），可全面抑制油脂酸败和霉菌滋生，维持鲜香达6个月至1年以上。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "干鳀鱼变黄发红且有异味，还能食用吗？",
-                        "answer": "干鳀鱼表面发黄是脂肪接触氧气后发生酸败（油脂氧化）的现象。若变色严重并伴有强烈的哈喇味或苦味，说明营养成分已被破坏并产生了有害氧化物，建议丢弃。"
-                    },
-                    {
-                        "question": "使用冷冻保存的鳀鱼时，有什么去腥小窍门吗？",
-                        "answer": "将冷冻室取出的鳀鱼直接放入无油平底锅中，用小火轻炒1~2分钟。随着残余水分蒸发，挥发性腥味物质会被带走，使鳀鱼重新恢复香酥口感与浓郁香味。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo conservar anchoas secas: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para las anchoas secas según las directrices oficiales de seguridad.",
-                "authority": "NIFS & USDA & MFDS",
-                "intro": "¿Alguna vez guardó anchoas secas a temperatura ambiente, solo para descubrir que se ponían amarillas, rancias, con mal olor o llenas de moho? 🐟\n\nLas anchoas son ricas en ácidos grasos insaturados (DHA, EPA) y proteínas, pero la exposición al aire, la luz y la humedad desencadena rápidamente la oxidación de los lípidos (enranciamiento). La absorción de humedad intensifica el olor a pescado y propicia el moho.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por expertos para preservar la frescura y el sabor crujiente de sus anchoas secas durante meses. 🛡️",
-                "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "No almacene a temperatura ambiente durante periodos prolongados ⚠️",
-                        "desc": "Exponer las anchoas secas al aire, la luz y la humedad acelera la oxidación de las grasas, volviéndolas amarillas, amargas y con olor rancio. La humedad es la causa principal del moho."
-                    },
-                    {
-                        "title": "Nunca guarde las anchoas en el congelador sin sellar 🐟",
-                        "desc": "Las anchoas absorben fácilmente los olores presentes en el congelador. Almacenarlas sin empaque hermético causa quemaduras por congelación y absorción de malos olores."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Tueste ligeramente sin aceite y porcione — Eliminar humedad y olores 📦",
-                        "text": "Si las anchoas están húmedas, tuéstelas brevemente en una sartén sin aceite a fuego lento durante 1-2 minutos. 💡 Consejo de almacenamiento: Deje enfriar por completo antes de dividir en porciones."
-                    },
-                    {
-                        "name": "Guarde en contenedores herméticos con doble sellado — Evitar oxidación y malos olores 📰",
-                        "text": "Minimizar la exposición al oxígeno es crucial para evitar el enranciamiento de los ácidos grasos. 💡 Consejo de almacenamiento: Coloque las bolsas dentro de un recipiente hermético para protegerlas de la luz y el aire."
-                    },
-                    {
-                        "name": "Congele a menos de -18 °C — Almacenamiento congelado (6 a 12 meses) ❄️",
-                        "text": "El mejor lugar para guardar las anchoas secas es el congelador, no la despensa. 💡 Consejo de almacenamiento: Manténgalas congeladas a -18 °C o menos para detener la rancidez y conservar su aroma hasta por 1 año."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mis anchoas secas se volvieron amarillas y huelen rancio. ¿Aún se pueden comer?",
-                        "answer": "El tono amarillento indica que la grasa se ha oxidado debido al contacto con el oxígeno. Si el cambio de color es drástico y va acompañado de olor rancio o sabor amargo, la calidad se ha degradado y deben desecharse."
-                    },
-                    {
-                        "question": "¿Cómo puedo eliminar el olor a pescado de las anchoas congeladas antes de cocinar?",
-                        "answer": "Saque las anchoas del congelador y tuéstelas en una sartén seca a fuego lento durante 1-2 minutos. Al evaporarse la humedad residual se eliminan las aminas volátiles, devolviéndoles su textura crujiente y aroma sabroso."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver les anchois séchés : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les anchois séchés selon les directives officielles de sécurité.",
-                "authority": "NIFS & USDA & MFDS",
-                "intro": "Avez-vous déjà conservé des anchois séchés à température ambiante pour constater qu'ils jaunissaient, devenaient rances, dégageaient une forte odeur ou moississaient ? 🐟\n\nLes anchois sont très riches en acides gras insaturés (DHA, EPA) et en protéines. Cependant, leur exposition à l'air, à la lumière et à l'humidité déclenche une rapide oxydation des lipides (rancissement). L'humidité accentue l'odeur de poisson et favorise la moisissure.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts pour préserver le croquant et les arômes de vos anchois pendant des mois. 🛡️",
-                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne conservez pas à température ambiante trop longtemps ⚠️",
-                        "desc": "Exposer des anchois séchés à l'air et à la lumière entraîne une oxydation rapide des graisses, provoquant un jaunissement, de l'amertume et une odeur rance. L'humidité est la cause majeure de moisissure."
-                    },
-                    {
-                        "title": "Ne placez jamais d'anchois non scellés au congélateur 🐟",
-                        "desc": "Les anchois captent très facilement les odeurs du congélateur. Les stocker sans emballage étanche entraîne la déshydratation du produit et l'imprégnation de mauvaises odeurs."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Torréfier légèrement à sec et portionner — Éliminer l'humidité & Les odeurs 📦",
-                        "text": "Si les anchois sont humides, faites-les revenir 1 à 2 minutes dans une poêle sans matière grasse à feu doux. 💡 Astuce de conservation : Laissez refroidir avant de diviser en sachets individuels."
-                    },
-                    {
-                        "name": "Conserver en boîte hermétique avec double scellage — Bloquer l'oxydation et les odeurs 📰",
-                        "text": "Réduire l'exposition à l'oxygène est indispensable pour empêcher le rancissement des graisses. 💡 Astuce de conservation : Placez vos sachets dans une boîte hermétique opaque pour protéger de la lumière et de l'air."
-                    },
-                    {
-                        "name": "Congeler à moins de -18 °C — Stockage congelé (6 à 12 mois) ❄️",
-                        "text": "Le congélateur est le lieu idéal pour stocker les anchois séchés sur une longue période. 💡 Astuce de conservation : Maintenez à -18 °C pour bloquer le rancissement des lipides et préserver les arômes jusqu'à 1 an."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mes anchois séchés ont jauni et sentent le rance. Sont-ils encore consommables ?",
-                        "answer": "Le jaunissement montre que les graisses se sont oxidées au contact de l'oxygène. Si la couleur est marquée et s'accompagne d'un goût amer ou d'une odeur forte, jetez-les car des composés altérés s'y sont formés."
-                    },
-                    {
-                        "question": "Comment éliminer l'odeur fort de poisson des anchois congelés avant la cuisson ?",
-                        "answer": "Passez vos anchois congelés dans une poêle à sec à feu doux pendant 1 à 2 minutes. L'évaporation de l'humidité résiduelle entraîne les composés odorants volatils, leur redonnant leur croquant naturel."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Getrocknete Sardellen (Anchovis) richtig aufbewahren: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für getrocknete Sardellen basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "NIFS & USDA & MFDS",
-                "intro": "Haben Sie getrocknete Sardellen schon einmal bei Raumtemperatur gelagert und festgestellt, dass sie gelb wurden, ranzig rochen oder Schimmel ansetzten? 🐟\n\nSardellen sind reich an ungesättigten Fettsäuren (DHA, EPA) und Proteinen. Luft, Licht und Feuchtigkeit führen jedoch zu einer schnellen Fettoxidation (Ranzigwerden). Feuchtigkeit verstärkt zudem den Fischgeruch und bietet Schimmelpilzen Nährboden.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Knackigkeit und das Aroma Ihrer getrockneten Sardellen über Monate zu bewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Nicht über längere Zeit bei Raumtemperatur lagern ⚠️",
-                        "desc": "Luft, Licht und Luftfeuchtigkeit lassen die Fette in getrockneten Sardellen oxidieren. Die Fische verfärben sich gelb, werden bitter und riechen ranzig. Feuchtigkeit ist die Hauptursache für Schimmel."
-                    },
-                    {
-                        "title": "Niemals unversiegelt einfrieren 🐟",
-                        "desc": "Sardellen nehmen Gerüche im Gefrierschrank extrem leicht an. Werden sie ohne luftdichte Verpackung eingefroren, trocknen sie aus und nehmen Fremdgerüche an."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Kürzlich trocken anrösten und portionieren — Feuchtigkeit & Geruch entfernen 📦",
-                        "text": "Wenn die Sardellen feucht wirken, rösten Sie sie ohne Öl 1–2 Minuten bei schwacher Hitze in der Pfanne. 💡 Lagerungstipp: Vor dem Portionieren in Gefrierbeuteln komplett abkühlen lassen."
-                    },
-                    {
-                        "name": "Doppelt versiegeln in luftdichten Dosen — Schutz vor Sauerstoff & Gerüchen 📰",
-                        "text": "Der Luftabschluss verhindert die Oxidation der ungesättigten Fettsäuren. 💡 Lagerungstipp: Legen Sie die abgepackten Beutel zusätzlich in eine undurchsichtige Frischhaltedose."
-                    },
-                    {
-                        "name": "Bei unter -18 °C einfrieren — Gefrierlagerung (6–12 Monate) ❄️",
-                        "text": "Der ideale Aufbewahrungsort für getrocknete Sardellen ist der Gefrierschrank, nicht die Vorratskammer. 💡 Lagerungstipp: Bewahren Sie versiegelte Sardellen bei unter -18 °C auf, um Ranzigkeit bis zu 1 Jahr zu stoppen."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Meine Sardellen sind gelblich geworden und riechen ranzig. Kann ich sie noch verwenden?",
-                        "answer": "Die Gelbfärbung ist ein Zeichen für oxidiertes Fett. Wenn die Verfärbung stark ist und ein bitterer Geschmack oder ranziger Geruch vorliegt, sollten die Sardellen entsorgt werden."
-                    },
-                    {
-                        "question": "Wie entfernt man den Fischgeruch bei gefrorenen Sardellen vor dem Kochen?",
-                        "answer": "Rösten Sie die gefrorenen Sardellen ohne Öl für 1–2 Minuten auf kleiner Stufe in der Pfanne an. Mit dem verdampfenden Wasser entweichen flüchtige Geruchsstoffe und die Sardellen werden wieder knackig."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar anchovas secas frescas: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para anchovas secas com base em diretrizes oficiais de segurança.",
-                "authority": "NIFS & USDA & MFDS",
-                "intro": "Você já guardou anchovas secas em temperatura ambiente e percebeu que elas ficaram amareladas, râncidas, com cheiro forte ou mofadas? 🐟\n\nAs anchovas são ricas em ácidos graxos insaturados (DHA, EPA) e proteínas. Porém, a exposição ao ar, à luz e à umidade acelera a oxidação dos lipídios (rancificação). A absorção de umidade intensifica o odor de peixe e favorece o mofo.\n\nNeste guia, apresentamos um guia em 3 etapas baseado em diretrizes de especialistas para preservar a crocância e o sabor das suas anchovas secas por meses. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Não armazene em temperatura ambiente por longos períodos ⚠️",
-                        "desc": "Expor anchovas secas ao ar, à luz e à umidade faz com que a gordura oxide rapidamente, ficando amarelada, amarga e com odor râncio. A umidade é a principal causa de mofo."
-                    },
-                    {
-                        "title": "Nunca coloque anchovas no congelador sem vedação 🐟",
-                        "desc": "As anchovas funcionam como esponjas, absorvendo odores do congelador. Guardá-las sem embalagem hermética causa queimadura de gelo e ressecamento."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Toste levemente e porcione — Remover umidade & Odores 📦",
-                        "text": "Se as anchovas estiverem úmidas, toste-as em uma frigideira sem óleo em fogo baixo por 1 a 2 minutos. 💡 Dica de conservação: Deixe esfriar completamente antes de embalar."
-                    },
-                    {
-                        "name": "Guarde em pote hermético com dupla vedação — Proteção contra oxidação e odores 📰",
-                        "text": "Minimizar o contato com o oxigênio evita a rancificação das gorduras insaturadas. 💡 Dica de conservação: Coloque os sacos dentro de um pote hermético para proteger da luz e do ar."
-                    },
-                    {
-                        "name": "Congele a menos de -18 °C — Congelamento (6 a 12 meses) ❄️",
-                        "text": "O melhor lugar para guardar anchovas secas é no congelador, e não no armário da cozinha. 💡 Dica de conservação: Guarde a -18 °C para interromper a oxidação da gordura e manter o aroma por até 1 ano."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Minhas anchovas secas ficaram amareladas e com cheiro râncio. Ainda posso comer?",
-                        "answer": "O tom amarelado indica oxidação da gordura pelo ar. Se a mudança de cor for intensa e acompanhada de gosto amargo ou cheiro râncio forte, descarte-as, pois a qualidade foi comprometida."
-                    },
-                    {
-                        "question": "Como tirar o cheiro forte das anchovas congeladas antes de cozinhar?",
-                        "answer": "Retire as anchovas do congelador e toste em frigideira seca em fogo baixo por 1 a 2 minutos. A evaporação da umidade elimina o odor forte e devolve a crocância."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Ikan Teri Kering (Anchovy) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk ikan teri kering berdasarkan pedoman keselamatan resmi.",
-                "authority": "NIFS & USDA & MFDS",
-                "intro": "Pernahkah Anda menyimpan ikan teri kering pada suhu ruang lalu mendapatinya berubah kekuningan, tengik, berbau amis menyengat, atau berjamur? 🐟\n\nIkan teri kaya akan asam lemak tak jenuh (DHA, EPA) dan protein. Namun, paparan udara, cahaya, dan kelembapan akan memicu oksidasi lemak (ketengikan) secara cepat. Menyerap kelembapan udara membuat bau amisnya semakin tajam dan memicu tumbuhnya jamur.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli untuk menjaga renyah dan gurihnya ikan teri Anda selama berbulan-bulan. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan menyimpan pada suhu ruang dalam jangka panjang ⚠️",
-                        "desc": "Membiarkan ikan teri kering terpapar udara dan kelembapan ruangan akan mengoksidasi lemaknya dengan cepat, membuatnya menguning, pahit, dan berbau tengik. Kelembapan ruangan adalah penyebab utama tumbuhnya jamur."
-                    },
-                    {
-                        "title": "Jangan sekali-kali membekukan teri tanpa kemasan kedap udara 🐟",
-                        "desc": "Ikan teri sangat mudah menyerap bau makanan di sekitarnya. Menyimpannya di freezer tanpa kemasan kedap udara akan membuatnya kering, mengalami freezer burn, dan berbau freezer."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Sangrai sebentar lalu bagi porsi — Hilangkan Kelembapan & Bau 📦",
-                        "text": "Jika teri terasa lembap, sangrai di wajan tanpa minyak dengan api kecil selama 1–2 menit. 💡 Tips Penyimpanan: Biarkan dingin sepenuhnya sebelum dibagi ke dalam kantong plastik sekali pakai."
-                    },
-                    {
-                        "name": "Segel ganda dalam wadah kedap udara — Cegah Penyerapan Bau & Oksidasi 📰",
-                        "text": "Meminimalkan paparan oksigen sangat penting untuk mencegah ketengikan lemak tak jenuh. 💡 Tips Penyimpanan: Masukkan kantong teri ke wadah kedap udara untuk melindungi dari cahaya dan bau freezer."
-                    },
-                    {
-                        "name": "Simpan beku di bawah suhu -18°C — Penyimpanan Beku (6–12 Bulan) ❄️",
-                        "text": "Tempat penyimpanan terbaik untuk teri kering adalah freezer, bukan lemari dapur. 💡 Tips Penyimpanan: Bekukan pada suhu -18°C ke bawah untuk menghentikan ketengikan lemak dan menjaga aromanya hingga 1 tahun."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Ikan teri saya berubah warna menjadi agak kuning dan berbau tengik. Apakah masih bisa dimakan?",
-                        "answer": "Warna kekuningan menandakan lemak pada ikan teri telah teroksidasi oleh udara (tengik). Jika perubahan warna sangat jelas disertai rasa pahit atau bau tengik tajam, kualitasnya sudah rusak dan sebaiknya dibuang."
-                    },
-                    {
-                        "question": "Bagaimana cara menghilangkan bau amis ikan teri beku sebelum dimasak?",
-                        "answer": "Keluarkan teri dari freezer lalu sangrai di atas wajan tanpa minyak dengan api kecil selama 1–2 menit. Penguapan sisa air akan membawa keluar senyawa amis volatil sehingga teksturnya kembali renyah dan gurih."
-                    }
-                ]
-            }
-        }
+  "how-to-store-anchovies": {
+    "ingId": "anchovy",
+    "pubDate": "2026-06-11",
+    "updatedDate": "2026-06-11",
+    "heroImage": "/images/blog/anchovy_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "멸치(안초비) 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 멸치의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "국립수산과학원(NIFS) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)",
+        "intro": "국물 요리의 핵심 재료이자 영양 만점 반찬인 멸치, 상온에 두었다가 색이 노랗게 변하고 퀴퀴한 잡내가 나거나 곰팡이가 피어 버려본 경험 있으시죠? 🐟\n\n멸치는 불포화지방산(DHA, EPA)과 단백질이 풍부하지만, 공기 중의 산소와 수분에 노출되면 지방 산패(Rancidity)와 부패가 매우 빠르게 진행되는 식재료입니다. 특히 수분을 머금으면 특유의 비린내가 심해지고 곰팡이가 쉽게 번식합니다.\n\n이번 가이드에서는 수산 및 식품 안전 전문가들의 검증된 가이드라인을 바탕으로, 멸치의 바삭한 식감과 고소한 풍미를 오래 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "상온에 장기간 방치하지 마세요 ⚠️",
+            "desc": "마른 멸치라도 상온의 공기와 빛, 습기에 노출되면 지방이 빠르게 산화되어 노랗게 변색되고 쓴맛과 퀴퀴한 비린내가 납니다. 수분을 흡수하면 곰팡이가 피는 결정적인 원인이 됩니다."
+          },
+          {
+            "title": "밀봉하지 않은 채 냉동실에 넣지 마세요 🐟",
+            "desc": "멸치는 냉장고나 냉동실 안의 다른 음식 냄새를 스펀지처럼 흡수하는 성질이 있습니다. 지퍼백이나 밀폐 용기 없이 그대로 넣으면 멸치에 냉동실 잡내가 배고 수분이 바짝 말라 풍미가 떨어집니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "습기 제거 후 소분하기 — 비린내 제거 & 수분 차단 📦",
+            "text": "멸치 표면에 습기가 있다면 기름 없는 달군 팬에 약불로 1~2분간 살짝 볶아 수분을 날려줍니다. 💡 보관 팁: 열기를 완전히 식힌 후, 1회 요리 분량씩 나뉘어 비닐 팩이나 지퍼백에 소분해 주세요."
+          },
+          {
+            "name": "밀폐 용기에 담아 이중 밀봉하기 — 냄새 흡수 차단 & 산화 방지 📰",
+            "text": "공기와의 접촉을 최소화해야 불포화지방산의 산패를 막을 수 있습니다. 💡 보관 팁: 소분한 멸치를 밀폐 용기나 불투명 용기에 한 번 더 담아 이중으로 밀봉하면 공기, 빛, 냉장고 잡내를 완벽히 차단할 수 있습니다."
+          },
+          {
+            "name": "-18℃ 이하 냉동 보관하기 — 냉동 보관 (6~12개월) ❄️",
+            "text": "마른 멸치의 최적 보관 장소는 냉장실이 아닌 냉동실입니다. 💡 보관 팁: 밀봉한 멸치를 냉동실(-18℃ 이하)에 보관하세요. 지방 산패와 곰팡이 생성을 완벽히 억제하여 6개월에서 1년 이상 고소한 맛을 유지할 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "멸치 색이 노랗거나 붉게 변하고 냄새가 나는데 먹어도 되나요?",
+            "answer": "멸치 표면이 노랗게 변색된 것은 지방이 산소와 반응하여 산패(지방 산화)된 현상입니다. 변색이 살짝 진행되었더라도 퀴퀴한 냄새나 쓴맛이 심하다면 영양소가 파괴되고 유해 산화물이 생성되었을 수 있으므로 폐기하는 것이 좋습니다."
+          },
+          {
+            "question": "냉동 보관했던 멸치를 사용할 때 비린내를 없애는 팁이 있나요?",
+            "answer": "냉동실에서 꺼낸 멸치를 기름을 두르지 않은 팬에 넣고 약불에서 1~2분간 가볍게 볶아주세요. 수분과 함께 비린내를 유발하는 휘발성 성분이 날아가면서 바삭함과 고소한 향이 다시 살아납니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Store Dried Anchovies: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for dried anchovies based on official safety guidelines.",
+        "authority": "NIFS & USDA & MFDS",
+        "intro": "Have you ever kept dried anchovies at room temperature, only to find them turned yellow, stale, smelling unpleasantly fishy, or covered in mold? 🐟\n\nAnchovies are rich in unsaturated fatty acids (DHA, EPA) and protein, but exposure to ambient air, light, and humidity rapidly triggers lipid oxidation (rancidity) and decay. Absorbing moisture worsens their fishy odor and creates an ideal breeding ground for mold.\n\nIn this guide, introduces a scientifically proven 3-step anchovy storage guide recommended by seafood and food safety experts to preserve crispness and rich flavor for months. 🛡️",
+        "whyTitle": "Why Store Anchovies This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Do not store at room temperature long term ⚠️",
+            "desc": "Exposing dried anchovies to ambient air, light, and moisture causes rapid fat oxidation, leading to yellowish discoloration, a bitter taste, and stale odors. Absorbing room humidity is the primary cause of mold growth."
+          },
+          {
+            "title": "Never place unsealed anchovies in the freezer 🐟",
+            "desc": "Anchovies act like a sponge, absorbing volatile odor molecules floating inside the freezer. Freezing them without airtight packaging results in freezer burn, dryness, and absorption of unpleasant freezer smells."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Dry-roast briefly and portion — Remove Moisture & Odors 📦",
+            "text": "If anchovies feel slightly damp, dry-roast them in a pan without oil over low heat for 1–2 minutes to evaporate excess moisture. 💡 Storage Tip: Allow them to cool completely before portioning into single-meal plastic bags or Ziploc pouches."
+          },
+          {
+            "name": "Double-seal in airtight containers — Prevent Odor Absorption & Oxidation 📰",
+            "text": "Minimizing oxygen exposure is essential to prevent lipid oxidation of unsaturated fatty acids. 💡 Storage Tip: Place the portioned bags inside an airtight container or opaque box for double sealing against air, light, and ambient odors."
+          },
+          {
+            "name": "Freeze below -18°C — Frozen Storage (6–12 Months) ❄️",
+            "text": "The optimal long-term storage location for dried anchovies is the freezer, not the refrigerator cabinet. 💡 Storage Tip: Store sealed anchovies in the freezer (-18°C or below). This halts fat rancidity and mold growth, preserving fresh aroma for 6 to 12 months."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "My dried anchovies turned yellowish and smell stale. Are they still safe to eat?",
+            "answer": "Yellowish discoloration indicates that the fats in anchovies have oxidized due to oxygen exposure (rancidity). If the discoloration is severe, accompanied by a sour smell or bitter taste, harmful oxidation byproducts have formed and they should be discarded."
+          },
+          {
+            "question": "How can I remove the fishy odor from frozen anchovies before cooking?",
+            "answer": "Take the anchovies out of the freezer and dry-toast them in a pan without oil over low heat for 1–2 minutes. Evaporating residual moisture drives off volatile fishy amines, restoring a crisp texture and savory aroma."
+          }
+        ]
+      },
+      "ja": {
+        "title": "煮干し・アンチョビ（カタクチイワシ）を新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づく煮干し（カタクチイワシ・アンチョビ）の最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "国立水産科学館(NIFS) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "出汁や料理の味の決め手となる煮干し（カタクチイワシ）、常温で保存していたら黄色く変色したり、生臭い古くなったニオイやカビが発生して捨ててしまった経験はありませんか？🐟\n\n煮干しは不飽和脂肪酸（DHA、EPA）やタンパク質が豊富ですが、空気中の酸素や湿気に晒されると脂質の酸化（酸敗）と劣化が急激に進む食材です。特に湿気を吸うと独特の魚臭さが強くなり、カビが繁殖しやすくなります。\n\n本記事では、専門家が推奨する煮干しの香ばしい風味と香りを長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "常温で長期間放置しないでください ⚠️",
+            "desc": "乾燥した煮干しであっても常温の空気や光、湿気に晒されると脂肪が急速に酸化し、黄色く変色して苦味や嫌な魚臭さが発生します。湿気を吸うことがカビ発生の最大の原因です。"
+          },
+          {
+            "title": "密閉せずに冷凍室に入れないでください 🐟",
+            "desc": "煮干しは冷蔵庫や冷凍庫内の他の食品のニオイを吸収しやすい性質を持っています。チャック付き袋や密閉容器に入れずに保存すると、冷凍庫の臭いが移り、乾燥しすぎて旨味が損なわれます。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "湿気を取り除き小分けする — 生臭さ除去＆湿気遮断 📦",
+            "text": "煮干しの表面に湿気を感じる場合は、油を敷かずにフライパンで弱火で1〜2分軽く乾煎りして水分を飛ばします。💡保存のコツ：熱を完全に冷ましてから、1回のお料理で使う分量ずつポリ袋やチャック付き袋に小分けします。"
+          },
+          {
+            "name": "密閉容器に入れて二重密閉する — ニオイ移り防止＆酸化防止 📰",
+            "text": "空気との接触を最小限に抑えることで不飽和脂肪酸の酸化（酸敗）を防ぎます。💡保存のコツ：小分けした袋を不透明な密閉容器に入れ、二重に密閉することで空気、光、冷蔵庫内のにおい移りを完全に遮断します。"
+          },
+          {
+            "name": "-18℃以下で冷凍保存する — 冷凍保存 (6〜12ヶ月間) ❄️",
+            "text": "煮干しの最適な保管場所は冷蔵室ではなく冷凍室です。💡保存のコツ：密閉した煮干しを冷凍室（-18℃以下）で保存します。脂肪の酸化やカビの発生を抑え、6ヶ月から1年以上香ばしい風味を保つことができます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "煮干しの色が黄色や赤っぽく変色してニオイがしますが、使えますか？",
+            "answer": "表面が黄色く変色しているのは、脂肪が酸素と反応して酸化（酸敗）した現象です。変色が激しく、古い油のニオイや苦味が強い場合は、栄養素が破壊され有害な酸化物が生成されている可能性があるため、廃棄することをおすすめします。"
+          },
+          {
+            "question": "冷凍保存していた煮干しを使う際、生臭さを消すコツはありますか？",
+            "answer": "冷凍室から出した煮干しを、油を敷いていないフライパンに入れ、弱火で1〜2分ほど軽く乾煎りしてください。水分とともに臭みのもととなる揮発性成分が飛び、サクサクとした食感と香ばしい香りが蘇ります。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持干鳀鱼（小银鱼）新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解干鳀鱼（小银鱼）的最佳储存温度、方式和保质时长。",
+        "authority": "韩国国立水产科学院(NIFS) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "提鲜煮汤和制作小菜不可或缺的干鳀鱼（小银鱼），在常温下放久了是不是会变黄、发黏、散发腥臭味甚至发霉？🐟\n\n干鳀鱼富含不饱和脂肪酸（DHA、EPA）和蛋白质，但暴露于空气中的氧气与湿气时，极易发生油脂氧化酸败（Rancidity）与变质。特别是吸潮后，其鱼腥味会加重，并为霉菌滋生提供温床。\n\n本指南基于权威水产及食品安全指南，为您带来3步科学保存秘诀，帮您长久保持干鳀鱼的香酥口感与醇香。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "切勿在常温下长期存放 ⚠️",
+            "desc": "即使是干鳀鱼，长期暴露于常温空气、光线和湿气中，脂肪也会迅速氧化变黄，产生苦味与陈腐腥味。吸潮是导致其发霉的根本原因。"
+          },
+          {
+            "title": "切勿未密封直接放入冷冻室 🐟",
+            "desc": "干鳀鱼具有极强的吸附性，会像海绵一样吸收冰箱内的其他食物异味。若不装入拉链袋或密封盒直接冷冻，会导致鱼干吸收冷冻室异味且干瘪失味。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "去除湿气后分装 — 祛除腥味与防潮 📦",
+            "text": "若鳀鱼表皮受潮发软，可放入无油平底锅中用小火无油干炒1~2分钟驱散湿气。💡储存小贴士：待其彻底冷却后，按单次用量分装入保鲜袋或拉链袋中。"
+          },
+          {
+            "name": "装入密封盒双层密封 — 隔绝异味与防氧化 📰",
+            "text": "最大限度减少与空气接触是防止不饱和脂肪酸酸败的关键。💡储存小贴士：将分装好的袋装鳀鱼放入保鲜盒或不透明盒中进行双层密封，彻底阻隔空气、光线与冰箱异味。"
+          },
+          {
+            "name": "-18℃以下冷冻保存 — 冷冻储存 (6~12个月) ❄️",
+            "text": "干鳀鱼最佳储存位置是冷冻室而非冷藏室或常温橱柜。💡储存小贴士：将密封好的鳀鱼存入冷冻室（-18℃以下），可全面抑制油脂酸败和霉菌滋生，维持鲜香达6个月至1年以上。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "干鳀鱼变黄发红且有异味，还能食用吗？",
+            "answer": "干鳀鱼表面发黄是脂肪接触氧气后发生酸败（油脂氧化）的现象。若变色严重并伴有强烈的哈喇味或苦味，说明营养成分已被破坏并产生了有害氧化物，建议丢弃。"
+          },
+          {
+            "question": "使用冷冻保存的鳀鱼时，有什么去腥小窍门吗？",
+            "answer": "将冷冻室取出的鳀鱼直接放入无油平底锅中，用小火轻炒1~2分钟。随着残余水分蒸发，挥发性腥味物质会被带走，使鳀鱼重新恢复香酥口感与浓郁香味。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo conservar anchoas secas: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para las anchoas secas según las directrices oficiales de seguridad.",
+        "authority": "NIFS & USDA & MFDS",
+        "intro": "¿Alguna vez guardó anchoas secas a temperatura ambiente, solo para descubrir que se ponían amarillas, rancias, con mal olor o llenas de moho? 🐟\n\nLas anchoas son ricas en ácidos grasos insaturados (DHA, EPA) y proteínas, pero la exposición al aire, la luz y la humedad desencadena rápidamente la oxidación de los lípidos (enranciamiento). La absorción de humedad intensifica el olor a pescado y propicia el moho.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por expertos para preservar la frescura y el sabor crujiente de sus anchoas secas durante meses. 🛡️",
+        "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "No almacene a temperatura ambiente durante periodos prolongados ⚠️",
+            "desc": "Exponer las anchoas secas al aire, la luz y la humedad acelera la oxidación de las grasas, volviéndolas amarillas, amargas y con olor rancio. La humedad es la causa principal del moho."
+          },
+          {
+            "title": "Nunca guarde las anchoas en el congelador sin sellar 🐟",
+            "desc": "Las anchoas absorben fácilmente los olores presentes en el congelador. Almacenarlas sin empaque hermético causa quemaduras por congelación y absorción de malos olores."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Tueste ligeramente sin aceite y porcione — Eliminar humedad y olores 📦",
+            "text": "Si las anchoas están húmedas, tuéstelas brevemente en una sartén sin aceite a fuego lento durante 1-2 minutos. 💡 Consejo de almacenamiento: Deje enfriar por completo antes de dividir en porciones."
+          },
+          {
+            "name": "Guarde en contenedores herméticos con doble sellado — Evitar oxidación y malos olores 📰",
+            "text": "Minimizar la exposición al oxígeno es crucial para evitar el enranciamiento de los ácidos grasos. 💡 Consejo de almacenamiento: Coloque las bolsas dentro de un recipiente hermético para protegerlas de la luz y el aire."
+          },
+          {
+            "name": "Congele a menos de -18 °C — Almacenamiento congelado (6 a 12 meses) ❄️",
+            "text": "El mejor lugar para guardar las anchoas secas es el congelador, no la despensa. 💡 Consejo de almacenamiento: Manténgalas congeladas a -18 °C o menos para detener la rancidez y conservar su aroma hasta por 1 año."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mis anchoas secas se volvieron amarillas y huelen rancio. ¿Aún se pueden comer?",
+            "answer": "El tono amarillento indica que la grasa se ha oxidado debido al contacto con el oxígeno. Si el cambio de color es drástico y va acompañado de olor rancio o sabor amargo, la calidad se ha degradado y deben desecharse."
+          },
+          {
+            "question": "¿Cómo puedo eliminar el olor a pescado de las anchoas congeladas antes de cocinar?",
+            "answer": "Saque las anchoas del congelador y tuéstelas en una sartén seca a fuego lento durante 1-2 minutos. Al evaporarse la humedad residual se eliminan las aminas volátiles, devolviéndoles su textura crujiente y aroma sabroso."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver les anchois séchés : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les anchois séchés selon les directives officielles de sécurité.",
+        "authority": "NIFS & USDA & MFDS",
+        "intro": "Avez-vous déjà conservé des anchois séchés à température ambiante pour constater qu'ils jaunissaient, devenaient rances, dégageaient une forte odeur ou moississaient ? 🐟\n\nLes anchois sont très riches en acides gras insaturés (DHA, EPA) et en protéines. Cependant, leur exposition à l'air, à la lumière et à l'humidité déclenche une rapide oxydation des lipides (rancissement). L'humidité accentue l'odeur de poisson et favorise la moisissure.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts pour préserver le croquant et les arômes de vos anchois pendant des mois. 🛡️",
+        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne conservez pas à température ambiante trop longtemps ⚠️",
+            "desc": "Exposer des anchois séchés à l'air et à la lumière entraîne une oxydation rapide des graisses, provoquant un jaunissement, de l'amertume et une odeur rance. L'humidité est la cause majeure de moisissure."
+          },
+          {
+            "title": "Ne placez jamais d'anchois non scellés au congélateur 🐟",
+            "desc": "Les anchois captent très facilement les odeurs du congélateur. Les stocker sans emballage étanche entraîne la déshydratation du produit et l'imprégnation de mauvaises odeurs."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Torréfier légèrement à sec et portionner — Éliminer l'humidité & Les odeurs 📦",
+            "text": "Si les anchois sont humides, faites-les revenir 1 à 2 minutes dans une poêle sans matière grasse à feu doux. 💡 Astuce de conservation : Laissez refroidir avant de diviser en sachets individuels."
+          },
+          {
+            "name": "Conserver en boîte hermétique avec double scellage — Bloquer l'oxydation et les odeurs 📰",
+            "text": "Réduire l'exposition à l'oxygène est indispensable pour empêcher le rancissement des graisses. 💡 Astuce de conservation : Placez vos sachets dans une boîte hermétique opaque pour protéger de la lumière et de l'air."
+          },
+          {
+            "name": "Congeler à moins de -18 °C — Stockage congelé (6 à 12 mois) ❄️",
+            "text": "Le congélateur est le lieu idéal pour stocker les anchois séchés sur une longue période. 💡 Astuce de conservation : Maintenez à -18 °C pour bloquer le rancissement des lipides et préserver les arômes jusqu'à 1 an."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mes anchois séchés ont jauni et sentent le rance. Sont-ils encore consommables ?",
+            "answer": "Le jaunissement montre que les graisses se sont oxidées au contact de l'oxygène. Si la couleur est marquée et s'accompagne d'un goût amer ou d'une odeur forte, jetez-les car des composés altérés s'y sont formés."
+          },
+          {
+            "question": "Comment éliminer l'odeur fort de poisson des anchois congelés avant la cuisson ?",
+            "answer": "Passez vos anchois congelés dans une poêle à sec à feu doux pendant 1 à 2 minutes. L'évaporation de l'humidité résiduelle entraîne les composés odorants volatils, leur redonnant leur croquant naturel."
+          }
+        ]
+      },
+      "de": {
+        "title": "Getrocknete Sardellen (Anchovis) richtig aufbewahren: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für getrocknete Sardellen basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "NIFS & USDA & MFDS",
+        "intro": "Haben Sie getrocknete Sardellen schon einmal bei Raumtemperatur gelagert und festgestellt, dass sie gelb wurden, ranzig rochen oder Schimmel ansetzten? 🐟\n\nSardellen sind reich an ungesättigten Fettsäuren (DHA, EPA) und Proteinen. Luft, Licht und Feuchtigkeit führen jedoch zu einer schnellen Fettoxidation (Ranzigwerden). Feuchtigkeit verstärkt zudem den Fischgeruch und bietet Schimmelpilzen Nährboden.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Knackigkeit und das Aroma Ihrer getrockneten Sardellen über Monate zu bewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Nicht über längere Zeit bei Raumtemperatur lagern ⚠️",
+            "desc": "Luft, Licht und Luftfeuchtigkeit lassen die Fette in getrockneten Sardellen oxidieren. Die Fische verfärben sich gelb, werden bitter und riechen ranzig. Feuchtigkeit ist die Hauptursache für Schimmel."
+          },
+          {
+            "title": "Niemals unversiegelt einfrieren 🐟",
+            "desc": "Sardellen nehmen Gerüche im Gefrierschrank extrem leicht an. Werden sie ohne luftdichte Verpackung eingefroren, trocknen sie aus und nehmen Fremdgerüche an."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Kürzlich trocken anrösten und portionieren — Feuchtigkeit & Geruch entfernen 📦",
+            "text": "Wenn die Sardellen feucht wirken, rösten Sie sie ohne Öl 1–2 Minuten bei schwacher Hitze in der Pfanne. 💡 Lagerungstipp: Vor dem Portionieren in Gefrierbeuteln komplett abkühlen lassen."
+          },
+          {
+            "name": "Doppelt versiegeln in luftdichten Dosen — Schutz vor Sauerstoff & Gerüchen 📰",
+            "text": "Der Luftabschluss verhindert die Oxidation der ungesättigten Fettsäuren. 💡 Lagerungstipp: Legen Sie die abgepackten Beutel zusätzlich in eine undurchsichtige Frischhaltedose."
+          },
+          {
+            "name": "Bei unter -18 °C einfrieren — Gefrierlagerung (6–12 Monate) ❄️",
+            "text": "Der ideale Aufbewahrungsort für getrocknete Sardellen ist der Gefrierschrank, nicht die Vorratskammer. 💡 Lagerungstipp: Bewahren Sie versiegelte Sardellen bei unter -18 °C auf, um Ranzigkeit bis zu 1 Jahr zu stoppen."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Meine Sardellen sind gelblich geworden und riechen ranzig. Kann ich sie noch verwenden?",
+            "answer": "Die Gelbfärbung ist ein Zeichen für oxidiertes Fett. Wenn die Verfärbung stark ist und ein bitterer Geschmack oder ranziger Geruch vorliegt, sollten die Sardellen entsorgt werden."
+          },
+          {
+            "question": "Wie entfernt man den Fischgeruch bei gefrorenen Sardellen vor dem Kochen?",
+            "answer": "Rösten Sie die gefrorenen Sardellen ohne Öl für 1–2 Minuten auf kleiner Stufe in der Pfanne an. Mit dem verdampfenden Wasser entweichen flüchtige Geruchsstoffe und die Sardellen werden wieder knackig."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar anchovas secas frescas: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para anchovas secas com base em diretrizes oficiais de segurança.",
+        "authority": "NIFS & USDA & MFDS",
+        "intro": "Você já guardou anchovas secas em temperatura ambiente e percebeu que elas ficaram amareladas, râncidas, com cheiro forte ou mofadas? 🐟\n\nAs anchovas são ricas em ácidos graxos insaturados (DHA, EPA) e proteínas. Porém, a exposição ao ar, à luz e à umidade acelera a oxidação dos lipídios (rancificação). A absorção de umidade intensifica o odor de peixe e favorece o mofo.\n\nNeste guia, apresentamos um guia em 3 etapas baseado em diretrizes de especialistas para preservar a crocância e o sabor das suas anchovas secas por meses. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Não armazene em temperatura ambiente por longos períodos ⚠️",
+            "desc": "Expor anchovas secas ao ar, à luz e à umidade faz com que a gordura oxide rapidamente, ficando amarelada, amarga e com odor râncio. A umidade é a principal causa de mofo."
+          },
+          {
+            "title": "Nunca coloque anchovas no congelador sem vedação 🐟",
+            "desc": "As anchovas funcionam como esponjas, absorvendo odores do congelador. Guardá-las sem embalagem hermética causa queimadura de gelo e ressecamento."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Toste levemente e porcione — Remover umidade & Odores 📦",
+            "text": "Se as anchovas estiverem úmidas, toste-as em uma frigideira sem óleo em fogo baixo por 1 a 2 minutos. 💡 Dica de conservação: Deixe esfriar completamente antes de embalar."
+          },
+          {
+            "name": "Guarde em pote hermético com dupla vedação — Proteção contra oxidação e odores 📰",
+            "text": "Minimizar o contato com o oxigênio evita a rancificação das gorduras insaturadas. 💡 Dica de conservação: Coloque os sacos dentro de um pote hermético para proteger da luz e do ar."
+          },
+          {
+            "name": "Congele a menos de -18 °C — Congelamento (6 a 12 meses) ❄️",
+            "text": "O melhor lugar para guardar anchovas secas é no congelador, e não no armário da cozinha. 💡 Dica de conservação: Guarde a -18 °C para interromper a oxidação da gordura e manter o aroma por até 1 ano."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Minhas anchovas secas ficaram amareladas e com cheiro râncio. Ainda posso comer?",
+            "answer": "O tom amarelado indica oxidação da gordura pelo ar. Se a mudança de cor for intensa e acompanhada de gosto amargo ou cheiro râncio forte, descarte-as, pois a qualidade foi comprometida."
+          },
+          {
+            "question": "Como tirar o cheiro forte das anchovas congeladas antes de cozinhar?",
+            "answer": "Retire as anchovas do congelador e toste em frigideira seca em fogo baixo por 1 a 2 minutos. A evaporação da umidade elimina o odor forte e devolve a crocância."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Ikan Teri Kering (Anchovy) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk ikan teri kering berdasarkan pedoman keselamatan resmi.",
+        "authority": "NIFS & USDA & MFDS",
+        "intro": "Pernahkah Anda menyimpan ikan teri kering pada suhu ruang lalu mendapatinya berubah kekuningan, tengik, berbau amis menyengat, atau berjamur? 🐟\n\nIkan teri kaya akan asam lemak tak jenuh (DHA, EPA) dan protein. Namun, paparan udara, cahaya, dan kelembapan akan memicu oksidasi lemak (ketengikan) secara cepat. Menyerap kelembapan udara membuat bau amisnya semakin tajam dan memicu tumbuhnya jamur.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli untuk menjaga renyah dan gurihnya ikan teri Anda selama berbulan-bulan. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan menyimpan pada suhu ruang dalam jangka panjang ⚠️",
+            "desc": "Membiarkan ikan teri kering terpapar udara dan kelembapan ruangan akan mengoksidasi lemaknya dengan cepat, membuatnya menguning, pahit, dan berbau tengik. Kelembapan ruangan adalah penyebab utama tumbuhnya jamur."
+          },
+          {
+            "title": "Jangan sekali-kali membekukan teri tanpa kemasan kedap udara 🐟",
+            "desc": "Ikan teri sangat mudah menyerap bau makanan di sekitarnya. Menyimpannya di freezer tanpa kemasan kedap udara akan membuatnya kering, mengalami freezer burn, dan berbau freezer."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Sangrai sebentar lalu bagi porsi — Hilangkan Kelembapan & Bau 📦",
+            "text": "Jika teri terasa lembap, sangrai di wajan tanpa minyak dengan api kecil selama 1–2 menit. 💡 Tips Penyimpanan: Biarkan dingin sepenuhnya sebelum dibagi ke dalam kantong plastik sekali pakai."
+          },
+          {
+            "name": "Segel ganda dalam wadah kedap udara — Cegah Penyerapan Bau & Oksidasi 📰",
+            "text": "Meminimalkan paparan oksigen sangat penting untuk mencegah ketengikan lemak tak jenuh. 💡 Tips Penyimpanan: Masukkan kantong teri ke wadah kedap udara untuk melindungi dari cahaya dan bau freezer."
+          },
+          {
+            "name": "Simpan beku di bawah suhu -18°C — Penyimpanan Beku (6–12 Bulan) ❄️",
+            "text": "Tempat penyimpanan terbaik untuk teri kering adalah freezer, bukan lemari dapur. 💡 Tips Penyimpanan: Bekukan pada suhu -18°C ke bawah untuk menghentikan ketengikan lemak dan menjaga aromanya hingga 1 tahun."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Ikan teri saya berubah warna menjadi agak kuning dan berbau tengik. Apakah masih bisa dimakan?",
+            "answer": "Warna kekuningan menandakan lemak pada ikan teri telah teroksidasi oleh udara (tengik). Jika perubahan warna sangat jelas disertai rasa pahit atau bau tengik tajam, kualitasnya sudah rusak dan sebaiknya dibuang."
+          },
+          {
+            "question": "Bagaimana cara menghilangkan bau amis ikan teri beku sebelum dimasak?",
+            "answer": "Keluarkan teri dari freezer lalu sangrai di atas wajan tanpa minyak dengan api kecil selama 1–2 menit. Penguapan sisa air akan membawa keluar senyawa amis volatil sehingga teksturnya kembali renyah dan gurih."
+          }
+        ]
+      }
     }
+  }
 }

@@ -1,406 +1,406 @@
 {
-    "how-to-store-cabbage": {
-        "ingId": "cabbage",
-        "pubDate": "2026-04-20",
-        "updatedDate": "2026-04-20",
-        "heroImage": "/images/blog/cabbage_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "양배추 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 양배추의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "농촌진흥청(RDA) & 유럽식품안전청(EFSA) & 영국 식품기준청(FSA)",
-                "intro": "양배추 한 통을 사 와서 냉장고에 그냥 넣어두었다가 단면이 까맣게 갈변하고 시들어 결국 반 이상 잘라내 버린 경험 있으시죠? 🥬\n\n양배추는 수확 후에도 굵은 심지(줄기)를 통해 잎의 수분과 영양분을 계속해서 끌어당겨 소비하려는 생리적 특성을 가지고 있습니다. 심지를 제거하지 않으면 안쪽부터 수분이 빠르게 빠져나가 잎이 푸석해지고 부패가 가속화됩니다.\n\n이번 가이드에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 가이드를 바탕으로, 양배추 심지의 비밀을 파헤쳐 한 달 이상 아삭아삭한 신선함을 지속시키는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "심지에 둔 젖은 키친타월은 주기적으로 교체해 주세요 ⚠️",
-                        "desc": "심지 부위에 채워둔 젖은 키친타월을 1주일 이상 방치하면 습기로 인해 세균이나 곰팡이가 번식하고 시큼한 냄새가 날 수 있습니다. 최소 5~7일에 한 번씩 깨끗한 물에 적신 새 키친타월로 교체해 주어야 위생적입니다."
-                    },
-                    {
-                        "title": "상온(실온)에 방치하여 보관하지 마세요 🥬",
-                        "desc": "양배추를 따뜻한 상온(15℃ 이상)에 두면 과실 호흡이 왕성해지면서 잎이 벌어지고 내부 수분이 순식간에 증발합니다. 반드시 저온(0~4℃) 환경의 냉장고 야채실에 보관해야 아삭한 식감을 유지할 수 있습니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "양배추 심지 부분을 삼각형 모양으로 파내기 — 수분 및 영양 소모 통로 차단 🔪",
-                        "text": "양배추의 밑동 심지는 수확 후에도 겉잎의 수분과 영양분을 중심으로 공급받아 꽃을 피우려는 생장점 역할을 합니다. 💡 보관 팁: 칼끝을 이용해 심지 부분을 뾰족한 삼각형(원깔때기) 모양으로 깊숙이 오려내어 영양 소모 경로를 차단해 주세요. 부패가 가장 먼저 일어나는 원인을 뿌리째 제거하는 핵심 단계입니다."
-                    },
-                    {
-                        "name": "심지 자리에 물 적신 키친타월 채워 넣기 — 지속적인 수분 공급 패치 📰",
-                        "text": "심지를 오려낸 홈은 양배추 세포로 수분을 직접 전달할 수 있는 최적의 창구가 됩니다. 💡 보관 팁: 물에 적셔 가볍게 짠 키친타월이나 화장솜을 단단하게 뭉쳐 깊게 파인 홈에 꽉 채워 넣어주세요. 잘린 단면에 수분을 계속해서 공급하여 안쪽부터 시들고 갈변하는 현상을 강력히 차단해 줍니다."
-                    },
-                    {
-                        "name": "식품용 랩으로 밀착 포장 후 심지가 아래로 가게 냉장 보관하기 — 밀봉 보관 (21~30일) ❄️",
-                        "text": "공기 노출과 수분 증발을 차단해야 양배추의 신선함이 극대화됩니다. 💡 보관 팁: 수분 패치를 대어둔 양배추 전체를 식품용 랩으로 여러 겹 빈틈없이 감싸 밀봉하세요. 냉장고 야채실(0~4℃)에 넣을 때 수분 패치가 붙은 심지 부위가 아래로 향하도록 세워 두면 수분이 하단으로 모여 오랜 기간 아삭함이 유지됩니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "양배추 단면이 까맣게 갈변했는데 먹어도 되나요?",
-                        "answer": "양배추를 자른 단면이 갈색이나 검은색으로 변하는 것은 폴리페놀 성분이 공기 중의 산소와 반응하여 일어나는 자연스러운 산화 현상입니다. 독성은 없으므로 갈변된 단면 부위만 칼로 얇게 깎아내고 드시면 안쪽의 신선한 양배추는 안심하고 섭취하실 수 있습니다."
-                    },
-                    {
-                        "question": "남은 양배추 반통이나 채 썬 양배추는 어떻게 보관해야 하나요?",
-                        "answer": "자른 양배추 반통은 단면에 식초나 레몬즙을 살짝 바른 후 랩으로 공기가 통하지 않게 밀착 밀봉하여 냉장 보관하세요. 이미 채 썬 양배추는 수분이 쉽게 마르고 세균에 취약하므로 물기를 제거한 뒤 키친타월을 깔은 밀폐 용기에 담아 3~5일 내에 빠르게 소비해야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Cabbage Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for cabbage based on official safety guidelines.",
-                "authority": "RDA & EFSA & FSA",
-                "intro": "Have you ever bought a whole head of cabbage and put it in the fridge, only to find the cut surface turning black and withered, forcing you to throw half of it away? 🥬\n\nEven after being harvested, cabbage continuously draws water and nutrients from its outer leaves through its thick central core to keep growing. If the core is left intact, moisture evaporates rapidly from the inside out, making the leaves limp and accelerating rot.\n\nIn this guide, shares a scientifically proven 3-step storage guide based on research from the RDA and USDA to unlock the secret of the cabbage core, keeping your cabbage crisp and fresh for up to 30 days. 🛡️",
-                "whyTitle": "Why Store Cabbage This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each produce item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Replace the wet paper towel regularly ⚠️",
-                        "desc": "Leaving the damp paper towel stuffed inside the core cavity for over a week can trap moisture, causing bacteria or mold to breed and creating a sour odor. For optimal hygiene, replace it with a fresh, damp paper towel every 5 to 7 days."
-                    },
-                    {
-                        "title": "Never store cabbage at warm room temperature 🥬",
-                        "desc": "Leaving cabbage at warm room temperatures (above 15°C / 59°F) increases its respiration rate, causing the outer leaves to loosen and moisture to evaporate rapidly. Always store cabbage in the cold crisper drawer (0–4°C) to maintain crispness."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Carve out the core in a triangular cone shape — Block Nutrient Loss Path 🔪",
-                        "text": "The central core serves as a growth center that drains moisture and nutrients from outer leaves post-harvest. 💡 Storage Tip: Use a sharp knife tip to carve out the core deeply in a triangular cone shape. Removing the core eliminates the primary site where spoilage begins."
-                    },
-                    {
-                        "name": "Stuff the core cavity with a damp paper towel — Continuous Hydration Patch 📰",
-                        "text": "The carved core cavity becomes a direct portal to hydrate the cabbage cells. 💡 Storage Tip: Moisten a paper towel (squeeze out excess dripping water) and roll it into a dense ball to stuff tightly inside the carved cavity. This delivers continuous moisture to the cut stalk, preventing drying and browning."
-                    },
-                    {
-                        "name": "Wrap tightly with plastic wrap and store core-side down — Cold Storage (21–30 Days) ❄️",
-                        "text": "Blocking air contact and water evaporation is vital to maximizing shelf life. 💡 Storage Tip: Wrap the entire cabbage tightly with multiple layers of food-grade plastic wrap. Store it in the refrigerator crisper drawer (0–4°C) with the damp core patch facing downward so moisture settles evenly."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "The cut surface of my cabbage turned dark brown/black. Is it still safe to eat?",
-                        "answer": "Yes, it is completely safe. The darkening of the cut surface is a natural enzymatic reaction (browning) when polyphenols react with oxygen in the air. It is non-toxic. Simply slice off a thin layer of the browned surface with a knife, and the crisp, fresh cabbage inside is ready to eat."
-                    },
-                    {
-                        "question": "How should I store half-cut or shredded cabbage?",
-                        "answer": "For half a head of cabbage, lightly brush the cut surface with diluted lemon juice or vinegar, then wrap tightly in plastic wrap to block oxygen. Shredded cabbage loses moisture rapidly and is vulnerable to bacteria; store it dry in an airtight container lined with paper towels and consume within 3–5 days."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "キャベツを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくキャベツの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "農村振興庁(RDA) & EFSA & FSA",
-                "intro": "キャベツを1玉買ってそのまま冷蔵庫に入れておいたら、切り口が黒く変色してカサカサになり、半分以上捨ててしまった経験はありませんか？🥬\n\nキャベツは収穫後も太い芯（茎）を通じて外葉の水分や栄養分を吸い上げ、生長を続けようとする生理的特性を持っています。芯をそのままにしておくと内部から急速に水分が抜け、葉がパサついて傷みが早まります。\n\n本記事では、農村振興庁（RDA）および米国農務省（USDA）のガイドラインに基づき、キャベツの芯の秘密を解き明かし、約1ヶ月間シャキシャキした鮮度を保つ3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "芯に詰めた濡れペーパーは定期的に交換してください ⚠️",
-                        "desc": "くり抜いた芯に詰めた湿ったキッチンペーパーを1週間以上放置すると、湿気によって雑菌やカビが繁殖し、酸っぱいニオイの原因になります。衛生的に保つため、5〜7日に1回は清潔な水で濡らした新しいペーパーに交換してください。"
-                    },
-                    {
-                        "title": "暖かい常温に放置して保存しないでください 🥬",
-                        "desc": "キャベツを暖かい常温（15℃以上）に置くと呼吸が活発になり、葉が緩んで内部の水分が一気に蒸発します。シャキッとした食感を保つため、必ず低温（0〜4℃）の冷蔵庫の野菜室で保存してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "キャベツの芯を三角形のコーン状にくり抜く — 水分・栄養の消費ルート遮断 🔪",
-                        "text": "キャベツの中心にある芯は、収穫後も外葉の水分と栄養分を吸い上げる生長点です。💡保存のコツ：包丁の刃先を使って芯の部分を深い円すい状（三角形）にくり抜いてください。最も傷みが始まりやすい場所を根本から取り除くことが長持ちの秘訣です。"
-                    },
-                    {
-                        "name": "くり抜いた窪みに濡らしたペーパータオルを詰める — 持続的な水分補給 📰",
-                        "text": "芯をくり抜いた穴は、キャベツの細胞へ直接水分を供給できる最適な水分ルートになります。💡保存のコツ：水に濡らして軽く絞ったキッチンペーパーを固く丸め、くり抜いた窪みにしっかり詰めてください。切り口へ持続的に水分を与え、内部の乾燥と黒ずみを防ぎます。"
-                    },
-                    {
-                        "name": "ラップで空気が入らないよう包み芯を下にして冷蔵保存する — 密封保存 (21〜30日) ❄️",
-                        "text": "空気との接触と水分蒸発を防ぐことでキャベツの鮮度が大幅に長持ちします。💡保存のコツ：水分ペーパーをあてたキャベツ全体を食品用ラップで重なるようにぴったり包んで密閉します。冷蔵庫の野菜室（0〜4℃）に入れる際は、芯（水分ペーパー）を下にして立てて保存すると水分が行き渡り長持ちします。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "キャベツの切り口が黒く変色しましたが、食べても大丈夫ですか？",
-                        "answer": "大丈夫です。キャベツの断面が黒や褐色に変色するのは、ポリフェノール成分が空気中の酸素と反応して起こる自然な brown 酸化現象であり、毒性はありません。黒くなった切り口の表面を薄くナイフで削り落とせば、中の新鮮なキャベツを安全にお召し上がりいただけます。"
-                    },
-                    {
-                        "question": "使い残した半球のキャベツや千切りキャベツの保存方法は？",
-                        "answer": "半分に切ったキャベツは、断面に希釈したレモン汁や酢を薄く塗り、ラップで空気が入らないよう密着させて冷蔵保存します。千切りキャベツは水分が抜けやすく雑菌が繁殖しやすいため、水気をよく切ってペーパータオルを敷いた密閉容器に入れ、3〜5日以内に早めに使い切ってください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持卷心菜新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解卷心菜的最佳储存温度、方式和保鲜时长。",
-                "authority": "韩国农村振兴厅(RDA) & EFSA & FSA",
-                "intro": "您是否曾买回一整颗卷心菜直接扔进冰箱，结果发现切面发黑变干，最后不得不切掉大半扔掉？🥬\n\n卷心菜在采收后，依然会通过粗壮的菜芯（茎部）持续吸收并消耗外层叶片的水分与营养。如果不将菜芯去除，内部水分会急剧流失，导致叶片干瘪并加速腐烂。\n\n本指南基于韩国农村振兴厅(RDA)和美国农务部(USDA)的指南，为您揭开卷心菜菜芯的保鲜奥秘，带给您长达30天保持清脆新鲜的3步科学储存秘诀。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "请定期更换塞在菜芯处的湿纸巾 ⚠️",
-                        "desc": "塞在菜芯凹槽处的湿纸巾如果放置超过1周，积聚的湿气容易滋生细菌或霉菌，并产生酸臭味。为保持卫生，建议每5~7天更换一次用干净清水浸湿的新纸巾。"
-                    },
-                    {
-                        "title": "切勿在温暖的常温下保存 🥬",
-                        "desc": "将卷心菜放置在温暖的常温（15℃以上）环境中，会加速其呼吸作用，导致叶片松散、内部水分迅速蒸发。请务必保存在低温（0~4℃）的冰箱蔬菜保鲜抽屉中，以维持清脆口感。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "将卷心菜菜芯呈锥形挖除 — 阻断水分与营养消耗通道 🔪",
-                        "text": "卷心菜中央的硬芯是采收后继续消耗外叶水分与营养的生长点。💡储存小贴士：用尖刀将菜芯以锥形（三角形）深挖去除。从源头上切断营养消耗途径并拔除最容易开始腐烂的根源，是长期保鲜的关键。"
-                    },
-                    {
-                        "name": "在挖空处塞入湿纸巾 — 持续补水保鲜垫 📰",
-                        "text": "挖空菜芯后的凹槽是向卷心菜细胞直接输送水分的绝佳通道。💡储存小贴士：将浸湿后稍微拧干的厨房纸巾揉成紧实的纸团，塞满挖空的凹槽。这能为切口持续提供水分，强效防止内部干瘪和变褐。"
-                    },
-                    {
-                        "name": "用保鲜膜严密包裹，菜芯朝下冷藏 — 密封保存 (21~30天) ❄️",
-                        "text": "隔绝空气接触与水分蒸发是延长保鲜期的重中之重。💡储存小贴士：用食品级保鲜膜将塞有湿纸巾的卷心菜整颗紧密包裹多层。放入冰箱蔬菜抽屉（0~4℃）时，将塞有湿纸巾的菜芯朝下摆放，水分集中在下部可保持长久清脆。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "卷心菜切面变黑发褐了，还能食用吗？",
-                        "answer": "完全可以放心食用。卷心菜切面发黑变褐是多酚类物质接触空气中的氧气后发生的自然酶促褐变，并无毒性。只需用刀将变褐的表面薄薄地切除一层，内部新鲜清脆的卷心菜即可正常食用。"
-                    },
-                    {
-                        "question": "切开剩下的半颗卷心菜或切好的卷心菜丝该如何保存？",
-                        "answer": "切开的半颗卷心菜，可在切面上涂抹少许稀释的柠檬汁或食醋，再用保鲜膜紧密贴合包裹后冷藏。卷心菜丝极易失水且易滋生细菌，应彻底沥干水分后，放入垫有厨房纸巾的保鲜盒中，并在3~5天内尽快食用。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener el repollo fresco: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el repollo según las directrices oficiales de seguridad.",
-                "authority": "RDA & EFSA & FSA",
-                "intro": "¿Alguna vez compró una cabeza de repollo entera, la guardó en el refrigerador y descubrió que el corte se ponía negro y seco, obligándolo a desechar más de la mitad? 🥬\n\nIncluso después de ser cosechado, el repollo continúa extrayendo agua y nutrientes de sus hojas exteriores a través del tallo central o corazón. Si el corazón se deja intacto, la humedad se evapora rápidamente desde el interior, marchitando las hojas y acelerando la pudrición.\n\nEn esta guía se comparte una guía científica en 3 pasos basada en las recomendaciones de la RDA y el USDA para desactivar el tallo del repollo, manteniéndolo crujiente y fresco hasta por 30 días. 🛡️",
-                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Reemplace la toalla de papel húmeda periódicamente ⚠️",
-                        "desc": "Dejar la toalla de papel húmeda incrustada en el hueco del corazón por más de una semana puede acumular humedad, favoreciendo bacterias o mohos y generando un olor agrio. Para mayor higiene, cámbiela por una toalla limpia y húmeda cada 5 a 7 días."
-                    },
-                    {
-                        "title": "Nunca guarde el repollo a temperatura ambiente cálida 🥬",
-                        "desc": "Dejar el repollo a temperatura ambiente (más de 15 °C) acelera su respiración, haciendo que las hojas se aflojen y la humedad se evapore de golpe. Guárdelo siempre en el cajón de verduras del refrigerador (0-4 °C) para mantener su textura firme."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Retire el corazón en forma de cono triangular — Bloquee la pérdida de nutrientes 🔪",
-                        "text": "El corazón central actúa como centro de crecimiento que consume agua y nutrientes de las hojas tras la cosecha. 💡 Consejo de almacenamiento: Use la punta de un cuchillo para excavar profundamente el corazón en forma de cono. Eliminar el tallo suprime el punto de inicio de la descomposición."
-                    },
-                    {
-                        "name": "Rellene la cavidad con una toalla de papel húmeda — Parche de hidratación continua 📰",
-                        "text": "La cavidad del corazón excavado se convierte en una vía directa para hidratar las células del repollo. 💡 Consejo de almacenamiento: Humedezca una toalla de papel (escurra el exceso de agua) y compáctela firmemente dentro del hueco. Esto suministra agua constante al corte, evitando el oscurecimiento."
-                    },
-                    {
-                        "name": "Envuelva herméticamente con film plástico y guarde boca abajo — Refrigeración (21–30 días) ❄️",
-                        "text": "Bloquear el aire y la evaporación de agua es indispensable para prolongar la conservación. 💡 Consejo de almacenamiento: Envuelva todo el repollo con varias capas de film plástico transparente. Guárdelo en el cajón de verduras (0-4 °C) con el papel húmedo hacia abajo para conservar la frescura."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "El corte de mi repollo se puso negro o marrón, ¿puedo comerlo?",
-                        "answer": "Sí, es completamente seguro. El oscurecimiento de la superficie cortada es una reacción enzimática natural cuando los polifenoles reaccionan con el oxígeno del aire. No es tóxico. Simplemente corte una capa muy fina de la parte oscurecida con un cuchillo y el interior crujiente estará listo para consumir."
-                    },
-                    {
-                        "question": "¿Cómo debo conservar la mitad de un repollo o el repollo cortado en tiras?",
-                        "answer": "Para la mitad de un repollo, aplique una fina capa de jugo de limón o vinagre diluido sobre el corte y envuélvalo apretadamente con film plástico. El repollo en tiras pierde humedad rápido; escúrralo bien, guárdelo en un recipiente hermético con toallas de papel y consúmalo en 3 a 5 días."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver le chou frais : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le chou selon les directives officielles de sécurité.",
-                "authority": "RDA & EFSA & FSA",
-                "intro": "Avez-vous déjà acheté un chou entier pour constater, après quelques jours au réfrigérateur, que la surface coupée noircissait et se desséchait, vous obligeant à en jeter la moitié ? 🥬\n\nMême après la récolte, le chou continue de puiser l'eau et les nutriments de ses feuilles extérieures à travers son trognon central. Si le trognon reste intact, l'humidité s'évapore rapidement de l'intérieur, rendant les feuilles molles et hâtant le pourrissement.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations de la RDA et du USDA pour neutraliser le trognon du chou et le garder croquant et frais jusqu'à 30 jours. 🛡️",
-                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Remplacez régulièrement l'essuie-tout humide ⚠️",
-                        "desc": "Laisser l'essuie-tout humide au fond de la cavité du trognon plus d'une semaine peut accumuler l'humidité, favorisant les bactéries ou moisissures et dégageant une odeur aigre. Par mesure d'hygiène, remplacez-le par un papier propre et humide tous les 5 à 7 jours."
-                    },
-                    {
-                        "title": "Ne conservez jamais le chou à température ambiante 🥬",
-                        "desc": "Laisser le chou à température ambiante (plus de 15 °C) accélère sa respiration, relâchant les feuilles et asséchant le cœur en peu de temps. Conservez-le toujours dans le bac à légumes du réfrigérateur (0–4 °C) pour préserver son croquant."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Extirper le trognon en forme de cône — Bloquer la perte de nutriments 🔪",
-                        "text": "Le trognon central sert de centre de croissance qui puise l'eau des feuilles après la récolte. 💡 Astuce de conservation : Utilisez la pointe d'un couteau pour évider le trognon en cône. Retirer le trognon élimine le point de départ de la dégradation du légume."
-                    },
-                    {
-                        "name": "Garnir la cavité d'une feuille d'essuie-tout humide — Hydratation continue 📰",
-                        "text": "La cavité évidée du trognon devient un canal direct pour réhydrater les cellules du chou. 💡 Astuce de conservation : Humidifiez une feuille d'essuie-tout (essorez l'excès d'eau) et tassez-la dans la cavité. Cela apporte une humidité constante qui évite le brunissement."
-                    },
-                    {
-                        "name": "Envelopper de film étirable et stocker trognon vers le bas — Stockage (21–30 jours) ❄️",
-                        "text": "Bloquer l'air et l'évaporation de l'eau est crucial pour prolonger la durée de conservation. 💡 Astuce de conservation : Enveloppez tout le chou dans plusieurs épaisseurs de film alimentaire. Placez-le dans le bac à légumes (0–4 °C) avec le papier humide vers le bas."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "La tranche de mon chou a noirci. Est-il toujours consommable ?",
-                        "answer": "Oui, il est parfaitement consommable. Le noircissement de la surface coupée est une réaction enzymatique naturelle lorsque les polyphénols entrent en contact avec l'oxygène. Ce n'est pas toxique. Retirez simplement une fine tranche de la surface brunie avec un couteau pour retrouver un chou très frais."
-                    },
-                    {
-                        "question": "Comment conserver un demi-chou ou du chou émincé ?",
-                        "answer": "Pour un demi-chou, étalez un peu de jus de citron ou de vinaigre dilué sur la tranche, puis enveloppez hermétiquement de film étirable. Le chou émincé se dessèche très vite ; séchez-le bien, déposez-le dans une boîte hermétique tapissée d'essuie-tout et consommez-le sous 3 à 5 jours."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Kohl richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Kohl basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "RDA & EFSA & FSA",
-                "intro": "Haben Sie schon einmal einen ganzen Kohlkopf gekauft und in den Kühlschrank gelegt, nur um festzustellen, dass die Schnittfläche schwarz und trocken wurde, sodass Sie die Hälfte wegwerfen mussten? 🥬\n\nKohl zieht auch nach der Ernte über seinen dicken Strunk weiterhin Wasser und Nährstoffe aus den äußeren Blättern. Bleibt der Strunk intakt, verdunstet die Feuchtigkeit rasch von innen heraus, die Blätter werden schlaff und Fäulnis setzt ein.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Empfehlungen der RDA und USDA basiert, um den Strunk zu entschärfen und Ihren Kohl bis zu 30 Tage lang knackig und frisch zu halten. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Wechseln Sie das feuchte Küchenpapier regelmäßig aus ⚠️",
-                        "desc": "Wenn das feuchte Küchenpapier länger als eine Woche in der Strunkaussparung verbleibt, können sich durch die Feuchtigkeit Bakterien oder Schimmel bilden und saure Gerüche entstehen. Wechseln Sie es aus Hygienegründen alle 5 bis 7 Tage gegen ein frisches Papier aus."
-                    },
-                    {
-                        "title": "Lagern Sie Kohl niemals bei warmer Raumtemperatur 🥬",
-                        "desc": "Wird Kohl bei warmer Raumtemperatur (über 15 °C) gelagert, steigt seine Atmungsrate, die Blätter lockern sich und Feuchtigkeit entweicht rasch. Lagern Sie ihn stets im kühlen Gemüsefach (0–4 °C), um die Knackigkeit zu bewahren."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Den Strunk keilförmig ausschneiden — Nährstoff- und Wasserverlust stoppen 🔪",
-                        "text": "Der zentrale Strunk dient nach der Ernte als Wachstumszentrum, das den Blättern Feuchtigkeit entzieht. 💡 Lagerungstipp: Schneiden Sie den Strunk mit einer Messer-Spitze tief und keilförmig aus. Das Entfernen des Strunks schaltet die Hauptursache für schnellen Verderb aus."
-                    },
-                    {
-                        "name": "Die Aussparung mit feuchtem Küchenpapier füllen — Feuchtigkeitspad 📰",
-                        "text": "Die ausgeschnittene Höhlung bildet den perfekten Kanal, um die Kohlzellen direkt zu befeuchten. 💡 Lagerungstipp: Befeuchten Sie ein Küchenpapier (auswringen) und drücken Sie es fest in die Höhlung. Dies führt der Schnittfläche kontinuierlich Wasser zu und verhindert Austrocknung."
-                    },
-                    {
-                        "name": "Fest in Folie einwickeln und mit dem Strunk nach unten kühlen — Kühlen (21–30 Tage) ❄️",
-                        "text": "Das Blockieren von Luftkontakt und Wasserverdunstung ist entscheidend für maximale Haltbarkeit. 💡 Lagerungstipp: Wickeln Sie den Kohl fest in mehrere Lagen Frischhaltefolie ein. Lagern Sie ihn im Gemüsefach (0–4 °C) mit dem feuchten Papier nach unten."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Die Schnittfläche meines Kohls ist dunkelbraun/schwarz geworden. Kann ich ihn noch essen?",
-                        "answer": "Ja, er ist völlig unbedenklich. Die Dunkelfärbung der Schnittfläche ist eine natürliche enzymatische Reaktion (Bräunung), wenn Polyphenole mit Luftsauerstoff reagieren. Sie ist ungiftig. Schneiden Sie einfach eine hauchdünne Schicht der verfärbten Schnittfläche ab; der Kohl darunter ist frisch und knackig."
-                    },
-                    {
-                        "question": "Wie bewahre ich einen halbierten oder geschnittenen Kohl am besten auf?",
-                        "answer": "Bestreichen Sie bei einem halbierten Kohl die Schnittfläche dünn mit verdünntem Zitronensaft oder Essig und wickeln Sie ihn eng in Folie ein. Geschnittener Kohl verliert sehr schnell Feuchtigkeit; trocknen Sie ihn gut ab, legen Sie ihn in eine mit Küchenpapier ausgelegte Dose und verbrauchen Sie ihn innerhalb von 3–5 Tagen."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar repolho fresco: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para repolho com base em diretrizes oficiais de segurança.",
-                "authority": "RDA & EFSA & FSA",
-                "intro": "Você já comprou uma cabeça inteira de repolho e guardou na geladeira, apenas para descobrir que o corte ficou preto e seco, forçando você a jogar metade fora? 🥬\n\nMesmo após a colheita, o repolho continua puxando água e nutrientes de suas folhas externas através do miolo central. Se o miolo for mantido, a umidade evapora rapidamente de dentro para fora, murchando as folhas e acelerando a deterioração.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes da RDA e do USDA para desativar o miolo do repolho, mantendo-o crocante e fresco por até 30 dias. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Troque o papel-toalha úmido regularmente ⚠️",
-                        "desc": "Deixar o papel-toalha úmido na cavidade do miolo por mais de uma semana pode acumular umidade, estimulando bactérias ou mofo e gerando cheiro azedo. Por higiene, troque-o por um papel limpo e úmido a cada 5 a 7 dias."
-                    },
-                    {
-                        "title": "Nunca guarde o repolho em temperatura ambiente quente 🥬",
-                        "desc": "Deixar o repolho em temperatura ambiente (acima de 15 °C) acelera sua respiração, fazendo com que as folhas fiquem soltas e a umidade escape rápido. Guarde-o sempre na gaveta de legumes da geladeira (0-4 °C) para manter a crocância."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Remova o miolo em formato de cone triangular — Bloqueie a perda de nutrientes 🔪",
-                        "text": "O miolo central funciona como um centro de crescimento que consome água e nutrientes das folhas. 💡 Dica de conservação: Use a ponta de uma faca para cavar o miolo profundamente em formato de cone. Remover o miolo elimina a causa principal do apodrecimento."
-                    },
-                    {
-                        "name": "Preencha a cavidade com papel-toalha úmido — Hidratação contínua 📰",
-                        "text": "A cavidade do miolo torna-se um canal direto para hidratar as células do repolho. 💡 Dica de conservação: Umedeça um papel-toalha (esprema o excesso de água) e coloque-o bem apertado na cavidade. Isso fornece água constante ao corte, evitando o escurecimento."
-                    },
-                    {
-                        "name": "Embrulhe bem com filme plástico e guarde com o miolo para baixo — Refrigeração (21–30 dias) ❄️",
-                        "text": "Bloquear o ar e a evaporação de água é essencial para prolongar a conservação. 💡 Dica de conservação: Embrulhe todo o repolho com várias camadas de filme plástico. Guarde na gaveta de legumes (0-4 °C) com o papel úmido virado para baixo."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": " O corte do meu repolho ficou preto ou castanho. Ainda posso comer?",
-                        "answer": "Sim, é totalmente seguro. O escurecimento da superfície cortada é uma reação enzimática natural quando os polifenóis reagem com o oxigênio do ar. Não é tóxico. Basta cortar uma camada bem fina da superfície escurecida com uma faca e o interior crocante estará pronto para consumo."
-                    },
-                    {
-                        "question": "Como devo guardar metade de um repolho ou o repolho fatiado?",
-                        "answer": "Para metade de um repolho, passe uma fina camada de suco de limão ou vinagre diluído na superfície cortada e embrulhe bem com filme plástico. O repolho fatiado perde umidade rápido; seque-o bem, guarde em um pote hermético com papel-toalha e consuma em 3 a 5 dias."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Kubis agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk kubis berdasarkan pedoman keselamatan resmi.",
-                "authority": "RDA & EFSA & FSA",
-                "intro": "Pernahkah Anda membeli satu kepala kubis utuh lalu menyimpannya di kulkas, tetapi mendapati permukaan potongannya menghitam dan mengering hingga harus membuang setengahnya? 🥬\n\nBahkan setelah dipanen, kubis terus menyerap air dan nutrisi dari daun bagian luar melalui bagian tengah batang (inti). Jika bagian inti ini dibiarkan, kelembapan menguap dengan cepat dari dalam ke luar, membuat daun menjadi layu dan mempercepat pembusukan.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan panduan RDA dan USDA untuk menonaktifkan inti kubis, menjaga kubis Anda tetap renyah dan segar hingga 30 hari. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Ganti tisu dapur basah secara berkala ⚠️",
-                        "desc": "Membiarkan tisu dapur basah di dalam rongga inti selama lebih dari seminggu dapat menumpuk kelembapan, memicu jamur atau bakteri dan menimbulkan bau asam. Demi kebersihan, ganti dengan tisu dapur basah yang baru setiap 5 hingga 7 hari."
-                    },
-                    {
-                        "title": "Jangan pernah menyimpan kubis di suhu ruang yang hangat 🥬",
-                        "desc": "Menyimpan kubis di suhu ruang hangat (di atas 15°C) mempercepat laju respirasinya, menyebabkan daun melonggar dan kelembapan menguap dengan cepat. Selalu simpan kubis di laci sayuran kulkas yang dingin (0–4°C) untuk menjaga kerenyahannya."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Potong dan buang bagian inti berbentuk kerucut segitiga — Hentikan Kehilangan Nutrisi 🔪",
-                        "text": "Bagian inti tengah bertindak sebagai pusat pertumbuhan yang menyedot air dan nutrisi daun setelah dipanen. 💡 Tips Penyimpanan: Gunakan ujung pisau tajam untuk mengeruk bagian inti berbentuk kerucut secara mendalam. Membuang inti menghancurkan pusat utama mulainya pembusukan."
-                    },
-                    {
-                        "name": "Isi rongga inti dengan tisu dapur basah — Bantalan Hidrasi Berkelanjutan 📰",
-                        "text": "Rongga inti yang dikeruk menjadi jalur langsung untuk menyuplai air ke sel-sel kubis. 💡 Tips Penyimpanan: Basahi tisu dapur (peras kelebihan air) lalu padatkan ke dalam rongga. Ini memberikan kelembapan konstan pada potongan batang, mencegah kekeringan dan warna cokelat."
-                    },
-                    {
-                        "name": "Bungkus rapat dengan plastik wrap dan simpan posisi inti di bawah — Simpan Dingin (21–30 Hari) ❄️",
-                        "text": "Menghalangi kontak udara dan penguapan air sangat penting untuk memperpanjang masa simpan. 💡 Tips Penyimpanan: Bungkus seluruh kubis secara rapat dengan beberapa lapis plastik wrap. Simpan di laci sayuran kulkas (0–4°C) dengan posisi tisu basah menghadap ke bawah."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Permukaan potongan kubis saya berubah menjadi hitam/cokelat. Apakah masih aman dimakan?",
-                        "answer": "Ya, sangat aman. Perubahan warna menjadi hitam/cokelat pada permukaan potongan adalah reaksi enzim alami saat senyawa polifenol bereaksi dengan oksigen udara. Ini tidak beracun. Cukup iris tipis lapisan permukaan yang kecokelatan dengan pisau, dan kubis renyah di dalamnya siap dikonsumsi."
-                    },
-                    {
-                        "question": "Bagaimana cara menyimpan sisa separuh kubis atau kubis yang sudah diiris halus?",
-                        "answer": "Untuk separuh kubis, oleskan tipis air perasan lemon atau cuka encer pada permukaan potongan, lalu bungkus rapat dengan plastik wrap. Kubis iris sangat cepat kehilangan kelembapan; tiriskan hingga kering, simpan dalam wadah kedap udara yang dialasi tisu dapur, lalu konsumsi dalam 3–5 hari."
-                    }
-                ]
-            }
-        }
+  "how-to-store-cabbage": {
+    "ingId": "cabbage",
+    "pubDate": "2026-04-20",
+    "updatedDate": "2026-04-20",
+    "heroImage": "/images/blog/cabbage_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "양배추 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 양배추의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "농촌진흥청(RDA) & 유럽식품안전청(EFSA) & 영국 식품기준청(FSA)",
+        "intro": "양배추 한 통을 사 와서 냉장고에 그냥 넣어두었다가 단면이 까맣게 갈변하고 시들어 결국 반 이상 잘라내 버린 경험 있으시죠? 🥬\n\n양배추는 수확 후에도 굵은 심지(줄기)를 통해 잎의 수분과 영양분을 계속해서 끌어당겨 소비하려는 생리적 특성을 가지고 있습니다. 심지를 제거하지 않으면 안쪽부터 수분이 빠르게 빠져나가 잎이 푸석해지고 부패가 가속화됩니다.\n\n이번 가이드에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 가이드를 바탕으로, 양배추 심지의 비밀을 파헤쳐 한 달 이상 아삭아삭한 신선함을 지속시키는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "심지에 둔 젖은 키친타월은 주기적으로 교체해 주세요 ⚠️",
+            "desc": "심지 부위에 채워둔 젖은 키친타월을 1주일 이상 방치하면 습기로 인해 세균이나 곰팡이가 번식하고 시큼한 냄새가 날 수 있습니다. 최소 5~7일에 한 번씩 깨끗한 물에 적신 새 키친타월로 교체해 주어야 위생적입니다."
+          },
+          {
+            "title": "상온(실온)에 방치하여 보관하지 마세요 🥬",
+            "desc": "양배추를 따뜻한 상온(15℃ 이상)에 두면 과실 호흡이 왕성해지면서 잎이 벌어지고 내부 수분이 순식간에 증발합니다. 반드시 저온(0~4℃) 환경의 냉장고 야채실에 보관해야 아삭한 식감을 유지할 수 있습니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "양배추 심지 부분을 삼각형 모양으로 파내기 — 수분 및 영양 소모 통로 차단 🔪",
+            "text": "양배추의 밑동 심지는 수확 후에도 겉잎의 수분과 영양분을 중심으로 공급받아 꽃을 피우려는 생장점 역할을 합니다. 💡 보관 팁: 칼끝을 이용해 심지 부분을 뾰족한 삼각형(원깔때기) 모양으로 깊숙이 오려내어 영양 소모 경로를 차단해 주세요. 부패가 가장 먼저 일어나는 원인을 뿌리째 제거하는 핵심 단계입니다."
+          },
+          {
+            "name": "심지 자리에 물 적신 키친타월 채워 넣기 — 지속적인 수분 공급 패치 📰",
+            "text": "심지를 오려낸 홈은 양배추 세포로 수분을 직접 전달할 수 있는 최적의 창구가 됩니다. 💡 보관 팁: 물에 적셔 가볍게 짠 키친타월이나 화장솜을 단단하게 뭉쳐 깊게 파인 홈에 꽉 채워 넣어주세요. 잘린 단면에 수분을 계속해서 공급하여 안쪽부터 시들고 갈변하는 현상을 강력히 차단해 줍니다."
+          },
+          {
+            "name": "식품용 랩으로 밀착 포장 후 심지가 아래로 가게 냉장 보관하기 — 밀봉 보관 (21~30일) ❄️",
+            "text": "공기 노출과 수분 증발을 차단해야 양배추의 신선함이 극대화됩니다. 💡 보관 팁: 수분 패치를 대어둔 양배추 전체를 식품용 랩으로 여러 겹 빈틈없이 감싸 밀봉하세요. 냉장고 야채실(0~4℃)에 넣을 때 수분 패치가 붙은 심지 부위가 아래로 향하도록 세워 두면 수분이 하단으로 모여 오랜 기간 아삭함이 유지됩니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "양배추 단면이 까맣게 갈변했는데 먹어도 되나요?",
+            "answer": "양배추를 자른 단면이 갈색이나 검은색으로 변하는 것은 폴리페놀 성분이 공기 중의 산소와 반응하여 일어나는 자연스러운 산화 현상입니다. 독성은 없으므로 갈변된 단면 부위만 칼로 얇게 깎아내고 드시면 안쪽의 신선한 양배추는 안심하고 섭취하실 수 있습니다."
+          },
+          {
+            "question": "남은 양배추 반통이나 채 썬 양배추는 어떻게 보관해야 하나요?",
+            "answer": "자른 양배추 반통은 단면에 식초나 레몬즙을 살짝 바른 후 랩으로 공기가 통하지 않게 밀착 밀봉하여 냉장 보관하세요. 이미 채 썬 양배추는 수분이 쉽게 마르고 세균에 취약하므로 물기를 제거한 뒤 키친타월을 깔은 밀폐 용기에 담아 3~5일 내에 빠르게 소비해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Cabbage Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for cabbage based on official safety guidelines.",
+        "authority": "RDA & EFSA & FSA",
+        "intro": "Have you ever bought a whole head of cabbage and put it in the fridge, only to find the cut surface turning black and withered, forcing you to throw half of it away? 🥬\n\nEven after being harvested, cabbage continuously draws water and nutrients from its outer leaves through its thick central core to keep growing. If the core is left intact, moisture evaporates rapidly from the inside out, making the leaves limp and accelerating rot.\n\nIn this guide, shares a scientifically proven 3-step storage guide based on research from the RDA and USDA to unlock the secret of the cabbage core, keeping your cabbage crisp and fresh for up to 30 days. 🛡️",
+        "whyTitle": "Why Store Cabbage This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each produce item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Replace the wet paper towel regularly ⚠️",
+            "desc": "Leaving the damp paper towel stuffed inside the core cavity for over a week can trap moisture, causing bacteria or mold to breed and creating a sour odor. For optimal hygiene, replace it with a fresh, damp paper towel every 5 to 7 days."
+          },
+          {
+            "title": "Never store cabbage at warm room temperature 🥬",
+            "desc": "Leaving cabbage at warm room temperatures (above 15°C / 59°F) increases its respiration rate, causing the outer leaves to loosen and moisture to evaporate rapidly. Always store cabbage in the cold crisper drawer (0–4°C) to maintain crispness."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Carve out the core in a triangular cone shape — Block Nutrient Loss Path 🔪",
+            "text": "The central core serves as a growth center that drains moisture and nutrients from outer leaves post-harvest. 💡 Storage Tip: Use a sharp knife tip to carve out the core deeply in a triangular cone shape. Removing the core eliminates the primary site where spoilage begins."
+          },
+          {
+            "name": "Stuff the core cavity with a damp paper towel — Continuous Hydration Patch 📰",
+            "text": "The carved core cavity becomes a direct portal to hydrate the cabbage cells. 💡 Storage Tip: Moisten a paper towel (squeeze out excess dripping water) and roll it into a dense ball to stuff tightly inside the carved cavity. This delivers continuous moisture to the cut stalk, preventing drying and browning."
+          },
+          {
+            "name": "Wrap tightly with plastic wrap and store core-side down — Cold Storage (21–30 Days) ❄️",
+            "text": "Blocking air contact and water evaporation is vital to maximizing shelf life. 💡 Storage Tip: Wrap the entire cabbage tightly with multiple layers of food-grade plastic wrap. Store it in the refrigerator crisper drawer (0–4°C) with the damp core patch facing downward so moisture settles evenly."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "The cut surface of my cabbage turned dark brown/black. Is it still safe to eat?",
+            "answer": "Yes, it is completely safe. The darkening of the cut surface is a natural enzymatic reaction (browning) when polyphenols react with oxygen in the air. It is non-toxic. Simply slice off a thin layer of the browned surface with a knife, and the crisp, fresh cabbage inside is ready to eat."
+          },
+          {
+            "question": "How should I store half-cut or shredded cabbage?",
+            "answer": "For half a head of cabbage, lightly brush the cut surface with diluted lemon juice or vinegar, then wrap tightly in plastic wrap to block oxygen. Shredded cabbage loses moisture rapidly and is vulnerable to bacteria; store it dry in an airtight container lined with paper towels and consume within 3–5 days."
+          }
+        ]
+      },
+      "ja": {
+        "title": "キャベツを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくキャベツの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "農村振興庁(RDA) & EFSA & FSA",
+        "intro": "キャベツを1玉買ってそのまま冷蔵庫に入れておいたら、切り口が黒く変色してカサカサになり、半分以上捨ててしまった経験はありませんか？🥬\n\nキャベツは収穫後も太い芯（茎）を通じて外葉の水分や栄養分を吸い上げ、生長を続けようとする生理的特性を持っています。芯をそのままにしておくと内部から急速に水分が抜け、葉がパサついて傷みが早まります。\n\n本記事では、農村振興庁（RDA）および米国農務省（USDA）のガイドラインに基づき、キャベツの芯の秘密を解き明かし、約1ヶ月間シャキシャキした鮮度を保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "芯に詰めた濡れペーパーは定期的に交換してください ⚠️",
+            "desc": "くり抜いた芯に詰めた湿ったキッチンペーパーを1週間以上放置すると、湿気によって雑菌やカビが繁殖し、酸っぱいニオイの原因になります。衛生的に保つため、5〜7日に1回は清潔な水で濡らした新しいペーパーに交換してください。"
+          },
+          {
+            "title": "暖かい常温に放置して保存しないでください 🥬",
+            "desc": "キャベツを暖かい常温（15℃以上）に置くと呼吸が活発になり、葉が緩んで内部の水分が一気に蒸発します。シャキッとした食感を保つため、必ず低温（0〜4℃）の冷蔵庫の野菜室で保存してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "キャベツの芯を三角形のコーン状にくり抜く — 水分・栄養の消費ルート遮断 🔪",
+            "text": "キャベツの中心にある芯は、収穫後も外葉の水分と栄養分を吸い上げる生長点です。💡保存のコツ：包丁の刃先を使って芯の部分を深い円すい状（三角形）にくり抜いてください。最も傷みが始まりやすい場所を根本から取り除くことが長持ちの秘訣です。"
+          },
+          {
+            "name": "くり抜いた窪みに濡らしたペーパータオルを詰める — 持続的な水分補給 📰",
+            "text": "芯をくり抜いた穴は、キャベツの細胞へ直接水分を供給できる最適な水分ルートになります。💡保存のコツ：水に濡らして軽く絞ったキッチンペーパーを固く丸め、くり抜いた窪みにしっかり詰めてください。切り口へ持続的に水分を与え、内部の乾燥と黒ずみを防ぎます。"
+          },
+          {
+            "name": "ラップで空気が入らないよう包み芯を下にして冷蔵保存する — 密封保存 (21〜30日) ❄️",
+            "text": "空気との接触と水分蒸発を防ぐことでキャベツの鮮度が大幅に長持ちします。💡保存のコツ：水分ペーパーをあてたキャベツ全体を食品用ラップで重なるようにぴったり包んで密閉します。冷蔵庫の野菜室（0〜4℃）に入れる際は、芯（水分ペーパー）を下にして立てて保存すると水分が行き渡り長持ちします。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "キャベツの切り口が黒く変色しましたが、食べても大丈夫ですか？",
+            "answer": "大丈夫です。キャベツの断面が黒や褐色に変色するのは、ポリフェノール成分が空気中の酸素と反応して起こる自然な brown 酸化現象であり、毒性はありません。黒くなった切り口の表面を薄くナイフで削り落とせば、中の新鮮なキャベツを安全にお召し上がりいただけます。"
+          },
+          {
+            "question": "使い残した半球のキャベツや千切りキャベツの保存方法は？",
+            "answer": "半分に切ったキャベツは、断面に希釈したレモン汁や酢を薄く塗り、ラップで空気が入らないよう密着させて冷蔵保存します。千切りキャベツは水分が抜けやすく雑菌が繁殖しやすいため、水気をよく切ってペーパータオルを敷いた密閉容器に入れ、3〜5日以内に早めに使い切ってください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持卷心菜新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解卷心菜的最佳储存温度、方式和保鲜时长。",
+        "authority": "韩国农村振兴厅(RDA) & EFSA & FSA",
+        "intro": "您是否曾买回一整颗卷心菜直接扔进冰箱，结果发现切面发黑变干，最后不得不切掉大半扔掉？🥬\n\n卷心菜在采收后，依然会通过粗壮的菜芯（茎部）持续吸收并消耗外层叶片的水分与营养。如果不将菜芯去除，内部水分会急剧流失，导致叶片干瘪并加速腐烂。\n\n本指南基于韩国农村振兴厅(RDA)和美国农务部(USDA)的指南，为您揭开卷心菜菜芯的保鲜奥秘，带给您长达30天保持清脆新鲜的3步科学储存秘诀。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "请定期更换塞在菜芯处的湿纸巾 ⚠️",
+            "desc": "塞在菜芯凹槽处的湿纸巾如果放置超过1周，积聚的湿气容易滋生细菌或霉菌，并产生酸臭味。为保持卫生，建议每5~7天更换一次用干净清水浸湿的新纸巾。"
+          },
+          {
+            "title": "切勿在温暖的常温下保存 🥬",
+            "desc": "将卷心菜放置在温暖的常温（15℃以上）环境中，会加速其呼吸作用，导致叶片松散、内部水分迅速蒸发。请务必保存在低温（0~4℃）的冰箱蔬菜保鲜抽屉中，以维持清脆口感。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "将卷心菜菜芯呈锥形挖除 — 阻断水分与营养消耗通道 🔪",
+            "text": "卷心菜中央的硬芯是采收后继续消耗外叶水分与营养的生长点。💡储存小贴士：用尖刀将菜芯以锥形（三角形）深挖去除。从源头上切断营养消耗途径并拔除最容易开始腐烂的根源，是长期保鲜的关键。"
+          },
+          {
+            "name": "在挖空处塞入湿纸巾 — 持续补水保鲜垫 📰",
+            "text": "挖空菜芯后的凹槽是向卷心菜细胞直接输送水分的绝佳通道。💡储存小贴士：将浸湿后稍微拧干的厨房纸巾揉成紧实的纸团，塞满挖空的凹槽。这能为切口持续提供水分，强效防止内部干瘪和变褐。"
+          },
+          {
+            "name": "用保鲜膜严密包裹，菜芯朝下冷藏 — 密封保存 (21~30天) ❄️",
+            "text": "隔绝空气接触与水分蒸发是延长保鲜期的重中之重。💡储存小贴士：用食品级保鲜膜将塞有湿纸巾的卷心菜整颗紧密包裹多层。放入冰箱蔬菜抽屉（0~4℃）时，将塞有湿纸巾的菜芯朝下摆放，水分集中在下部可保持长久清脆。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "卷心菜切面变黑发褐了，还能食用吗？",
+            "answer": "完全可以放心食用。卷心菜切面发黑变褐是多酚类物质接触空气中的氧气后发生的自然酶促褐变，并无毒性。只需用刀将变褐的表面薄薄地切除一层，内部新鲜清脆的卷心菜即可正常食用。"
+          },
+          {
+            "question": "切开剩下的半颗卷心菜或切好的卷心菜丝该如何保存？",
+            "answer": "切开的半颗卷心菜，可在切面上涂抹少许稀释的柠檬汁或食醋，再用保鲜膜紧密贴合包裹后冷藏。卷心菜丝极易失水且易滋生细菌，应彻底沥干水分后，放入垫有厨房纸巾的保鲜盒中，并在3~5天内尽快食用。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener el repollo fresco: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el repollo según las directrices oficiales de seguridad.",
+        "authority": "RDA & EFSA & FSA",
+        "intro": "¿Alguna vez compró una cabeza de repollo entera, la guardó en el refrigerador y descubrió que el corte se ponía negro y seco, obligándolo a desechar más de la mitad? 🥬\n\nIncluso después de ser cosechado, el repollo continúa extrayendo agua y nutrientes de sus hojas exteriores a través del tallo central o corazón. Si el corazón se deja intacto, la humedad se evapora rápidamente desde el interior, marchitando las hojas y acelerando la pudrición.\n\nEn esta guía se comparte una guía científica en 3 pasos basada en las recomendaciones de la RDA y el USDA para desactivar el tallo del repollo, manteniéndolo crujiente y fresco hasta por 30 días. 🛡️",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Reemplace la toalla de papel húmeda periódicamente ⚠️",
+            "desc": "Dejar la toalla de papel húmeda incrustada en el hueco del corazón por más de una semana puede acumular humedad, favoreciendo bacterias o mohos y generando un olor agrio. Para mayor higiene, cámbiela por una toalla limpia y húmeda cada 5 a 7 días."
+          },
+          {
+            "title": "Nunca guarde el repollo a temperatura ambiente cálida 🥬",
+            "desc": "Dejar el repollo a temperatura ambiente (más de 15 °C) acelera su respiración, haciendo que las hojas se aflojen y la humedad se evapore de golpe. Guárdelo siempre en el cajón de verduras del refrigerador (0-4 °C) para mantener su textura firme."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Retire el corazón en forma de cono triangular — Bloquee la pérdida de nutrientes 🔪",
+            "text": "El corazón central actúa como centro de crecimiento que consume agua y nutrientes de las hojas tras la cosecha. 💡 Consejo de almacenamiento: Use la punta de un cuchillo para excavar profundamente el corazón en forma de cono. Eliminar el tallo suprime el punto de inicio de la descomposición."
+          },
+          {
+            "name": "Rellene la cavidad con una toalla de papel húmeda — Parche de hidratación continua 📰",
+            "text": "La cavidad del corazón excavado se convierte en una vía directa para hidratar las células del repollo. 💡 Consejo de almacenamiento: Humedezca una toalla de papel (escurra el exceso de agua) y compáctela firmemente dentro del hueco. Esto suministra agua constante al corte, evitando el oscurecimiento."
+          },
+          {
+            "name": "Envuelva herméticamente con film plástico y guarde boca abajo — Refrigeración (21–30 días) ❄️",
+            "text": "Bloquear el aire y la evaporación de agua es indispensable para prolongar la conservación. 💡 Consejo de almacenamiento: Envuelva todo el repollo con varias capas de film plástico transparente. Guárdelo en el cajón de verduras (0-4 °C) con el papel húmedo hacia abajo para conservar la frescura."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "El corte de mi repollo se puso negro o marrón, ¿puedo comerlo?",
+            "answer": "Sí, es completamente seguro. El oscurecimiento de la superficie cortada es una reacción enzimática natural cuando los polifenoles reaccionan con el oxígeno del aire. No es tóxico. Simplemente corte una capa muy fina de la parte oscurecida con un cuchillo y el interior crujiente estará listo para consumir."
+          },
+          {
+            "question": "¿Cómo debo conservar la mitad de un repollo o el repollo cortado en tiras?",
+            "answer": "Para la mitad de un repollo, aplique una fina capa de jugo de limón o vinagre diluido sobre el corte y envuélvalo apretadamente con film plástico. El repollo en tiras pierde humedad rápido; escúrralo bien, guárdelo en un recipiente hermético con toallas de papel y consúmalo en 3 a 5 días."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver le chou frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le chou selon les directives officielles de sécurité.",
+        "authority": "RDA & EFSA & FSA",
+        "intro": "Avez-vous déjà acheté un chou entier pour constater, après quelques jours au réfrigérateur, que la surface coupée noircissait et se desséchait, vous obligeant à en jeter la moitié ? 🥬\n\nMême après la récolte, le chou continue de puiser l'eau et les nutriments de ses feuilles extérieures à travers son trognon central. Si le trognon reste intact, l'humidité s'évapore rapidement de l'intérieur, rendant les feuilles molles et hâtant le pourrissement.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations de la RDA et du USDA pour neutraliser le trognon du chou et le garder croquant et frais jusqu'à 30 jours. 🛡️",
+        "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Remplacez régulièrement l'essuie-tout humide ⚠️",
+            "desc": "Laisser l'essuie-tout humide au fond de la cavité du trognon plus d'une semaine peut accumuler l'humidité, favorisant les bactéries ou moisissures et dégageant une odeur aigre. Par mesure d'hygiène, remplacez-le par un papier propre et humide tous les 5 à 7 jours."
+          },
+          {
+            "title": "Ne conservez jamais le chou à température ambiante 🥬",
+            "desc": "Laisser le chou à température ambiante (plus de 15 °C) accélère sa respiration, relâchant les feuilles et asséchant le cœur en peu de temps. Conservez-le toujours dans le bac à légumes du réfrigérateur (0–4 °C) pour préserver son croquant."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Extirper le trognon en forme de cône — Bloquer la perte de nutriments 🔪",
+            "text": "Le trognon central sert de centre de croissance qui puise l'eau des feuilles après la récolte. 💡 Astuce de conservation : Utilisez la pointe d'un couteau pour évider le trognon en cône. Retirer le trognon élimine le point de départ de la dégradation du légume."
+          },
+          {
+            "name": "Garnir la cavité d'une feuille d'essuie-tout humide — Hydratation continue 📰",
+            "text": "La cavité évidée du trognon devient un canal direct pour réhydrater les cellules du chou. 💡 Astuce de conservation : Humidifiez une feuille d'essuie-tout (essorez l'excès d'eau) et tassez-la dans la cavité. Cela apporte une humidité constante qui évite le brunissement."
+          },
+          {
+            "name": "Envelopper de film étirable et stocker trognon vers le bas — Stockage (21–30 jours) ❄️",
+            "text": "Bloquer l'air et l'évaporation de l'eau est crucial pour prolonger la durée de conservation. 💡 Astuce de conservation : Enveloppez tout le chou dans plusieurs épaisseurs de film alimentaire. Placez-le dans le bac à légumes (0–4 °C) avec le papier humide vers le bas."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "La tranche de mon chou a noirci. Est-il toujours consommable ?",
+            "answer": "Oui, il est parfaitement consommable. Le noircissement de la surface coupée est une réaction enzymatique naturelle lorsque les polyphénols entrent en contact avec l'oxygène. Ce n'est pas toxique. Retirez simplement une fine tranche de la surface brunie avec un couteau pour retrouver un chou très frais."
+          },
+          {
+            "question": "Comment conserver un demi-chou ou du chou émincé ?",
+            "answer": "Pour un demi-chou, étalez un peu de jus de citron ou de vinaigre dilué sur la tranche, puis enveloppez hermétiquement de film étirable. Le chou émincé se dessèche très vite ; séchez-le bien, déposez-le dans une boîte hermétique tapissée d'essuie-tout et consommez-le sous 3 à 5 jours."
+          }
+        ]
+      },
+      "de": {
+        "title": "Kohl richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Kohl basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "RDA & EFSA & FSA",
+        "intro": "Haben Sie schon einmal einen ganzen Kohlkopf gekauft und in den Kühlschrank gelegt, nur um festzustellen, dass die Schnittfläche schwarz und trocken wurde, sodass Sie die Hälfte wegwerfen mussten? 🥬\n\nKohl zieht auch nach der Ernte über seinen dicken Strunk weiterhin Wasser und Nährstoffe aus den äußeren Blättern. Bleibt der Strunk intakt, verdunstet die Feuchtigkeit rasch von innen heraus, die Blätter werden schlaff und Fäulnis setzt ein.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Empfehlungen der RDA und USDA basiert, um den Strunk zu entschärfen und Ihren Kohl bis zu 30 Tage lang knackig und frisch zu halten. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Wechseln Sie das feuchte Küchenpapier regelmäßig aus ⚠️",
+            "desc": "Wenn das feuchte Küchenpapier länger als eine Woche in der Strunkaussparung verbleibt, können sich durch die Feuchtigkeit Bakterien oder Schimmel bilden und saure Gerüche entstehen. Wechseln Sie es aus Hygienegründen alle 5 bis 7 Tage gegen ein frisches Papier aus."
+          },
+          {
+            "title": "Lagern Sie Kohl niemals bei warmer Raumtemperatur 🥬",
+            "desc": "Wird Kohl bei warmer Raumtemperatur (über 15 °C) gelagert, steigt seine Atmungsrate, die Blätter lockern sich und Feuchtigkeit entweicht rasch. Lagern Sie ihn stets im kühlen Gemüsefach (0–4 °C), um die Knackigkeit zu bewahren."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Den Strunk keilförmig ausschneiden — Nährstoff- und Wasserverlust stoppen 🔪",
+            "text": "Der zentrale Strunk dient nach der Ernte als Wachstumszentrum, das den Blättern Feuchtigkeit entzieht. 💡 Lagerungstipp: Schneiden Sie den Strunk mit einer Messer-Spitze tief und keilförmig aus. Das Entfernen des Strunks schaltet die Hauptursache für schnellen Verderb aus."
+          },
+          {
+            "name": "Die Aussparung mit feuchtem Küchenpapier füllen — Feuchtigkeitspad 📰",
+            "text": "Die ausgeschnittene Höhlung bildet den perfekten Kanal, um die Kohlzellen direkt zu befeuchten. 💡 Lagerungstipp: Befeuchten Sie ein Küchenpapier (auswringen) und drücken Sie es fest in die Höhlung. Dies führt der Schnittfläche kontinuierlich Wasser zu und verhindert Austrocknung."
+          },
+          {
+            "name": "Fest in Folie einwickeln und mit dem Strunk nach unten kühlen — Kühlen (21–30 Tage) ❄️",
+            "text": "Das Blockieren von Luftkontakt und Wasserverdunstung ist entscheidend für maximale Haltbarkeit. 💡 Lagerungstipp: Wickeln Sie den Kohl fest in mehrere Lagen Frischhaltefolie ein. Lagern Sie ihn im Gemüsefach (0–4 °C) mit dem feuchten Papier nach unten."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Die Schnittfläche meines Kohls ist dunkelbraun/schwarz geworden. Kann ich ihn noch essen?",
+            "answer": "Ja, er ist völlig unbedenklich. Die Dunkelfärbung der Schnittfläche ist eine natürliche enzymatische Reaktion (Bräunung), wenn Polyphenole mit Luftsauerstoff reagieren. Sie ist ungiftig. Schneiden Sie einfach eine hauchdünne Schicht der verfärbten Schnittfläche ab; der Kohl darunter ist frisch und knackig."
+          },
+          {
+            "question": "Wie bewahre ich einen halbierten oder geschnittenen Kohl am besten auf?",
+            "answer": "Bestreichen Sie bei einem halbierten Kohl die Schnittfläche dünn mit verdünntem Zitronensaft oder Essig und wickeln Sie ihn eng in Folie ein. Geschnittener Kohl verliert sehr schnell Feuchtigkeit; trocknen Sie ihn gut ab, legen Sie ihn in eine mit Küchenpapier ausgelegte Dose und verbrauchen Sie ihn innerhalb von 3–5 Tagen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar repolho fresco: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para repolho com base em diretrizes oficiais de segurança.",
+        "authority": "RDA & EFSA & FSA",
+        "intro": "Você já comprou uma cabeça inteira de repolho e guardou na geladeira, apenas para descobrir que o corte ficou preto e seco, forçando você a jogar metade fora? 🥬\n\nMesmo após a colheita, o repolho continua puxando água e nutrientes de suas folhas externas através do miolo central. Se o miolo for mantido, a umidade evapora rapidamente de dentro para fora, murchando as folhas e acelerando a deterioração.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes da RDA e do USDA para desativar o miolo do repolho, mantendo-o crocante e fresco por até 30 dias. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Troque o papel-toalha úmido regularmente ⚠️",
+            "desc": "Deixar o papel-toalha úmido na cavidade do miolo por mais de uma semana pode acumular umidade, estimulando bactérias ou mofo e gerando cheiro azedo. Por higiene, troque-o por um papel limpo e úmido a cada 5 a 7 dias."
+          },
+          {
+            "title": "Nunca guarde o repolho em temperatura ambiente quente 🥬",
+            "desc": "Deixar o repolho em temperatura ambiente (acima de 15 °C) acelera sua respiração, fazendo com que as folhas fiquem soltas e a umidade escape rápido. Guarde-o sempre na gaveta de legumes da geladeira (0-4 °C) para manter a crocância."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Remova o miolo em formato de cone triangular — Bloqueie a perda de nutrientes 🔪",
+            "text": "O miolo central funciona como um centro de crescimento que consome água e nutrientes das folhas. 💡 Dica de conservação: Use a ponta de uma faca para cavar o miolo profundamente em formato de cone. Remover o miolo elimina a causa principal do apodrecimento."
+          },
+          {
+            "name": "Preencha a cavidade com papel-toalha úmido — Hidratação contínua 📰",
+            "text": "A cavidade do miolo torna-se um canal direto para hidratar as células do repolho. 💡 Dica de conservação: Umedeça um papel-toalha (esprema o excesso de água) e coloque-o bem apertado na cavidade. Isso fornece água constante ao corte, evitando o escurecimento."
+          },
+          {
+            "name": "Embrulhe bem com filme plástico e guarde com o miolo para baixo — Refrigeração (21–30 dias) ❄️",
+            "text": "Bloquear o ar e a evaporação de água é essencial para prolongar a conservação. 💡 Dica de conservação: Embrulhe todo o repolho com várias camadas de filme plástico. Guarde na gaveta de legumes (0-4 °C) com o papel úmido virado para baixo."
+          }
+        ],
+        "faqs": [
+          {
+            "question": " O corte do meu repolho ficou preto ou castanho. Ainda posso comer?",
+            "answer": "Sim, é totalmente seguro. O escurecimento da superfície cortada é uma reação enzimática natural quando os polifenóis reagem com o oxigênio do ar. Não é tóxico. Basta cortar uma camada bem fina da superfície escurecida com uma faca e o interior crocante estará pronto para consumo."
+          },
+          {
+            "question": "Como devo guardar metade de um repolho ou o repolho fatiado?",
+            "answer": "Para metade de um repolho, passe uma fina camada de suco de limão ou vinagre diluído na superfície cortada e embrulhe bem com filme plástico. O repolho fatiado perde umidade rápido; seque-o bem, guarde em um pote hermético com papel-toalha e consuma em 3 a 5 dias."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Kubis agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk kubis berdasarkan pedoman keselamatan resmi.",
+        "authority": "RDA & EFSA & FSA",
+        "intro": "Pernahkah Anda membeli satu kepala kubis utuh lalu menyimpannya di kulkas, tetapi mendapati permukaan potongannya menghitam dan mengering hingga harus membuang setengahnya? 🥬\n\nBahkan setelah dipanen, kubis terus menyerap air dan nutrisi dari daun bagian luar melalui bagian tengah batang (inti). Jika bagian inti ini dibiarkan, kelembapan menguap dengan cepat dari dalam ke luar, membuat daun menjadi layu dan mempercepat pembusukan.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan panduan RDA dan USDA untuk menonaktifkan inti kubis, menjaga kubis Anda tetap renyah dan segar hingga 30 hari. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Ganti tisu dapur basah secara berkala ⚠️",
+            "desc": "Membiarkan tisu dapur basah di dalam rongga inti selama lebih dari seminggu dapat menumpuk kelembapan, memicu jamur atau bakteri dan menimbulkan bau asam. Demi kebersihan, ganti dengan tisu dapur basah yang baru setiap 5 hingga 7 hari."
+          },
+          {
+            "title": "Jangan pernah menyimpan kubis di suhu ruang yang hangat 🥬",
+            "desc": "Menyimpan kubis di suhu ruang hangat (di atas 15°C) mempercepat laju respirasinya, menyebabkan daun melonggar dan kelembapan menguap dengan cepat. Selalu simpan kubis di laci sayuran kulkas yang dingin (0–4°C) untuk menjaga kerenyahannya."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Potong dan buang bagian inti berbentuk kerucut segitiga — Hentikan Kehilangan Nutrisi 🔪",
+            "text": "Bagian inti tengah bertindak sebagai pusat pertumbuhan yang menyedot air dan nutrisi daun setelah dipanen. 💡 Tips Penyimpanan: Gunakan ujung pisau tajam untuk mengeruk bagian inti berbentuk kerucut secara mendalam. Membuang inti menghancurkan pusat utama mulainya pembusukan."
+          },
+          {
+            "name": "Isi rongga inti dengan tisu dapur basah — Bantalan Hidrasi Berkelanjutan 📰",
+            "text": "Rongga inti yang dikeruk menjadi jalur langsung untuk menyuplai air ke sel-sel kubis. 💡 Tips Penyimpanan: Basahi tisu dapur (peras kelebihan air) lalu padatkan ke dalam rongga. Ini memberikan kelembapan konstan pada potongan batang, mencegah kekeringan dan warna cokelat."
+          },
+          {
+            "name": "Bungkus rapat dengan plastik wrap dan simpan posisi inti di bawah — Simpan Dingin (21–30 Hari) ❄️",
+            "text": "Menghalangi kontak udara dan penguapan air sangat penting untuk memperpanjang masa simpan. 💡 Tips Penyimpanan: Bungkus seluruh kubis secara rapat dengan beberapa lapis plastik wrap. Simpan di laci sayuran kulkas (0–4°C) dengan posisi tisu basah menghadap ke bawah."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Permukaan potongan kubis saya berubah menjadi hitam/cokelat. Apakah masih aman dimakan?",
+            "answer": "Ya, sangat aman. Perubahan warna menjadi hitam/cokelat pada permukaan potongan adalah reaksi enzim alami saat senyawa polifenol bereaksi dengan oksigen udara. Ini tidak beracun. Cukup iris tipis lapisan permukaan yang kecokelatan dengan pisau, dan kubis renyah di dalamnya siap dikonsumsi."
+          },
+          {
+            "question": "Bagaimana cara menyimpan sisa separuh kubis atau kubis yang sudah diiris halus?",
+            "answer": "Untuk separuh kubis, oleskan tipis air perasan lemon atau cuka encer pada permukaan potongan, lalu bungkus rapat dengan plastik wrap. Kubis iris sangat cepat kehilangan kelembapan; tiriskan hingga kering, simpan dalam wadah kedap udara yang dialasi tisu dapur, lalu konsumsi dalam 3–5 hari."
+          }
+        ]
+      }
     }
+  }
 }

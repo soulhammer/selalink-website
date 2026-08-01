@@ -1,459 +1,459 @@
 {
-    "chinchilla-care": {
-        "pubDate": "2026-06-27",
-        "updatedDate": "2026-06-27",
-        "locales": {
-            "ko": {
-                "title": "친칠라 부정교합 및 온도 관리: 치아 마모와 열사병 예방을 위한 3단계 루틴",
-                "description": "친칠라는 평생 자라는 이빨 때문에 부정교합이 오기 쉽고 고온다습에 매우 취약합니다. 이갈이용 건초 급여와 모래목욕을 포함한 3단계 데일리 루틴을 알아봅니다.",
-                "authority": "특수동물수의사회(AEMV) 친칠라 사육 가이드라인 및 설치류 치과 임상 표준",
-                "profile": {
-                    "breed": "친칠라 (Chinchilla lanigera)",
-                    "lifespan": "10 ~ 15년",
-                    "sleep_pattern": "12 ~ 14시간 (야행성, 해먹이나 은신처 선호)",
-                    "temperament": "호기심 많음, 활발함, 예민함, 온순함"
-                },
-                "intro": "비단처럼 부드러운 모피와 동그란 몸집이 매력적인 친칠라는 최근 사랑받는 특수반려동물입니다. 하지만 개, 고양이와 달리 친칠라의 이빨은 평생 동안 멈추지 않고 계속 자라기 때문에 어금니와 앞니가 어긋나 입안에 상처를 내는 부정교합이 빈번하게 발생합니다. 또한 땀샘이 없고 털 밀도가 높아 고온다습한 환경에서 열사병에 걸리기 쉽습니다. 이번 가이드에서는 친칠라의 이빨 통증 및 더위 신호를 분석하고, 건강을 지키는 3단계 루틴을 제안합니다.",
-                "whyTitle": "친칠라의 바디 랭귀지: 침 흘림과 더위 먹은 상태의 의미",
-                "whyDesc": "친칠라가 입 주변 털을 축축하게 적시는 **'침 흘림과 건초 뱉기'**를 보인다면 이는 심각한 이빨 부정교합의 신호입니다. 몸을 완전히 옆으로 눕혀 가쁜 숨을 몰아쉬는 **'옆으로 누워 숨쉬기'**는 열사병 직전 상태를 의미합니다.",
-                "body_signals": [
-                    {
-                        "name": "침 흘림 및 건초 뱉기 (Drooling)",
-                        "meaning": "부정교합으로 인해 길어진 치아가 입천장이나 볼 안쪽을 찔러 침 삼킴이 불가능하고 씹는 활동이 차단된 고통스러운 상태입니다.",
-                        "response": "즉시 특수동물 전문 동물병원을 방문하여 치과용 절삭기(트리밍) 치료를 받아 길어진 치아를 갈아주어야 합니다."
-                    },
-                    {
-                        "name": "옆으로 누워 숨쉬기",
-                        "meaning": "실내 온도가 너무 높아 체온이 급격히 상승해 기진맥진하고 기도가 확장된 위험 신호입니다.",
-                        "response": "에어컨을 즉시 가동하여 방 온도를 20°C 이하로 낮춰주고, 시원한 대리석판이나 얼린 생수통을 수건에 싸서 케이지 안에 넣어줍니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 거친 섬유질의 티모시 건초 무제한 급여",
-                        "text": "이빨이 계속 자라는 것을 방지하기 위해 섬유질이 풍부하고 거친 티모시 건초를 상시 제공해 씹는 과정에서 이빨이 자연 마모되게 유도합니다."
-                    },
-                    {
-                        "name": "낮: 사계절 열사병 방지용 실내 온도 및 습도 관리",
-                        "text": "사계절 내내 실내 온도는 18-21°C, 습도는 40-50% 이하로 제습기와 에어컨을 가동하여 쾌적한 가을 기후를 세팅해 줍니다."
-                    },
-                    {
-                        "name": "저녁: 하루 1회 15분 전용 화산재 모래목욕 실시",
-                        "text": "활동 시간인 저녁에는 화산재 성분의 모래 목욕 전용 용기를 케이지에 넣어 털 안의 과도한 유분을 제거하도록 돕습니다. (물 목욕 절대 금지)"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "친칠라의 부정교합은 왜 위험한가요?",
-                        "answer": "치아가 너무 길어지면 턱뼈를 뚫거나 입안을 찌르고 혀의 운동을 막아 음식을 먹지 못해 영양실조나 고창증으로 폐사할 수 있습니다. 예방을 위해 끊임없이 건초를 씹게 해야 합니다."
-                    },
-                    {
-                        "question": "친칠라를 물로 목욕시키면 안 되나요?",
-                        "answer": "안 됩니다. 친칠라는 모공 하나에서 80가닥 이상의 엄청나게 촘촘한 모피를 갖고 있어 물이 닿으면 자연 건조가 불가능합니다. 젖은 상태가 지속되면 모피 곰팡이병에 걸리거나 급격한 체온 저하로 폐사할 수 있습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Chinchilla Malocclusion & Temperature Care: A 3-Step Daily Routine for Dental Wear and Heatstroke Prevention",
-                "description": "Chinchillas have continuously growing teeth and are highly sensitive to heat and humidity. Learn a 3-step daily routine for timothy hay feeding and dust baths under AEMV guidelines.",
-                "authority": "Association of Exotic Mammal Veterinarians (AEMV) Chinchilla Husbandry Guidelines & Rodent Dentistry Clinical Standards",
-                "profile": {
-                    "breed": "Chinchilla (Chinchilla lanigera)",
-                    "lifespan": "10 ~ 15 years",
-                    "sleep_pattern": "12 ~ 14 hours (nocturnal, prefers hideouts or hammocks)",
-                    "temperament": "Curious, Energetic, Sensitive, Gentle"
-                },
-                "intro": "Boasting silky-soft fur and adorable round bodies, Chinchillas are popular exotic pets. However, unlike dogs and cats, a chinchilla's teeth grow continuously throughout its life. As a result, misaligned incisors and molars often pierce the mouth, leading to painful malocclusion. Furthermore, lacking sweat glands and possessing extremely dense fur, they are highly vulnerable to heatstroke in hot, humid environments. In this guide, decodes chinchilla dental pain and heat stress signals, proposing a 3-step care routine to safeguard their health.",
-                "whyTitle": "Chinchilla Body Language: Drooling with Food Dropping and Overheating Signs",
-                "whyDesc": "If a chinchilla shows **'drooling and dropping hay'**, wetting the fur around its mouth, this is a critical warning signal of severe dental malocclusion. On the other hand, **'lying on their side with rapid breathing'** indicates a near-heatstroke emergency where immediate cooling intervention is required.",
-                "body_signals": [
-                    {
-                        "name": "Drooling and Dropping Hay",
-                        "meaning": "Overgrown teeth from malocclusion puncture the palate or cheek lining, making swallowing impossible and blocking chewing due to intense pain.",
-                        "response": "Visit a specialized exotic animal hospital immediately to have overgrown teeth trimmed or ground using specialized dental equipment."
-                    },
-                    {
-                        "name": "Lying on Side with Rapid Breathing",
-                        "meaning": "High indoor temperatures have caused body heat to spike, leaving the chinchilla exhausted with dilated airways in a state of heat stress.",
-                        "response": "Turn on the air conditioner immediately to lower room temperature below 20°C, and place marble slabs or towel-wrapped ice bottles inside the cage."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Unlimited Feeding of Coarse High-Fiber Timothy Hay",
-                        "text": "To prevent teeth from overgrowing continuously, provide fresh, coarse timothy hay at all times to induce natural dental wear through chewing."
-                    },
-                    {
-                        "name": "Afternoon: Climate Control for Year-Round Heatstroke & Humidity Prevention",
-                        "text": "Maintain indoor temperature at 18–21°C and humidity at 40–50% or lower year-round using air conditioners and dehumidifiers to replicate comfortable alpine conditions."
-                    },
-                    {
-                        "name": "Evening: 15-Minute Volcanic Dust Bath Session Once Daily",
-                        "text": "During their active evening hours, place a specialized volcanic dust bath container in the cage to remove excess skin oil from their dense fur. (Water baths are strictly prohibited.)"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why is dental malocclusion so dangerous for Chinchillas?",
-                        "answer": "When teeth become too long, they can pierce the jawbone or cheek mucosa and block tongue movement. Inability to chew leads to severe malnutrition, gastrointestinal stasis, or death. Continuous hay chewing is essential for prevention."
-                    },
-                    {
-                        "question": "Why shouldn't Chinchillas ever be bathed in water?",
-                        "answer": "Chinchillas have an incredibly dense coat with over 80 hairs growing per follicle, making natural drying impossible once wet. Trapped moisture causes severe fungal dermatitis or fatal hypothermia."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "チンチラの不正咬合＆温度ケア：歯の摩耗と熱中症予防の3段階日常ルーティン",
-                "description": "チンチラは一生伸び続ける歯による不正咬合のリスクが高く、高温多湿に極めて弱いです。イガリ用の牧草給与と砂浴びを含む3段階ケアを紹介します。",
-                "authority": "特種動物獣医師会(AEMV) チンチラ飼育ガイドラインおよび齧歯類歯科臨床標準",
-                "profile": {
-                    "breed": "チンチラ (Chinchilla lanigera)",
-                    "lifespan": "10 ~ 15年",
-                    "sleep_pattern": "12 ~ 14時間 (夜行性、ハンモックや隠れ家を好む)",
-                    "temperament": "好奇心旺盛、活発、繊細、穏やか"
-                },
-                "intro": "絹のように柔らかい毛並みと丸い体が魅力的なチンチラは、愛されているエキゾチックペットです。しかし犬や猫とは異なり、チンチラの歯は一生伸び続けるため、臼歯や前歯がかみ合わずに口内を傷つける不正咬合が多発します。また、汗腺がなく毛の密度が非常に高いため、高温多湿な環境では熱中症にかかりやすいです。本記事では、チンチラの歯の痛みや暑さのシグナルを分析し、健康を守る3段階ルーティンをご提案します。",
-                "whyTitle": "チンチラのボディランゲージ：よだれと熱中症の初期サイン",
-                "whyDesc": "チンチラが口元の毛を湿らせる**「よだれと牧草の吐き出し」**を見せる場合、深刻な歯の不正咬合のサインです。体を完全に横たえて荒い息をする**「横たわりの呼吸」**は、熱中症の直前状態を意味します。",
-                "body_signals": [
-                    {
-                        "name": "よだれと食べこぼし (Drooling)",
-                        "meaning": "不正咬合で伸びた歯が上顎や頬の内側を刺し、唾液を飲み込めず咀嚼が遮断された激痛の状態です。",
-                        "response": "直ちにエキゾチックアニマル専門の動物病院を受診し、歯科用トリミング機器で伸びた歯を削る治療を受けてください。"
-                    },
-                    {
-                        "name": "横たわって荒い呼吸をする",
-                        "meaning": "室温が高すぎて体温が急上昇し、ぐったりして気道が拡張した危険な熱ストレス状態です。",
-                        "response": "すぐにエアコンを稼働させて室温を20℃以下に下げ、冷たい大理石プレートやタオルで巻いた保冷剤をケージ内に入れてください。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：粗い繊維質のチモシー牧草を無制限給与",
-                        "text": "歯が伸び続けるのを防ぐため、繊維質が豊富で粗いチモシー牧草を常に提供し、噛む過程で歯を自然摩耗させます。"
-                    },
-                    {
-                        "name": "昼：年間を通じた熱中症予防の室温・湿度管理",
-                        "text": "年中を通じて室温18〜21℃、湿度40〜50%以下を維持するようエアコンと除湿機を稼働させ、快適な高山気候を整えます。"
-                    },
-                    {
-                        "name": "夜：1日1回15分の専用火山灰砂浴びの実施",
-                        "text": "活動時間である夜間に、火山灰成分の砂浴び専用容器をケージに入れ、被毛の中の過剰な皮脂を除去させます。（水浴びは絶対厳禁）"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "チンチラの不正咬合が危険な理由は何ですか？",
-                        "answer": "歯が伸びすぎると顎骨を突き破ったり口内を傷つけ、舌の動きを阻害して食事ができなくなり、栄養失調や胃腸停滞で死に至ることがあります。予防には常に牧草を噛ませることが必須です。"
-                    },
-                    {
-                        "question": "チンチラを水で洗ってはいけないのはなぜですか？",
-                        "answer": "チンチラは1つの毛穴から80本以上の極めて密生した被毛を持つため、濡れると自然乾燥が不可能です。湿った状態が続くと皮膚カビ病や急激な体温低下を引き起こし死に至ります。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "龙猫牙齿咬合不正与温度护理：促进磨牙及防止中暑的日常3步护理流程",
-                "description": "龙猫具有终生生长的牙齿且对高温高湿极度敏感。介绍通过日常3步护理流程科学提供提摩西干草与火山灰沙浴的方法。",
-                "authority": "特殊动物兽医师协会 (AEMV) 龙猫饲养指南与啮齿类口腔临床标准",
-                "profile": {
-                    "breed": "龙猫 (Chinchilla lanigera)",
-                    "lifespan": "10 ~ 15年",
-                    "sleep_pattern": "12 ~ 14小时 (夜行性，偏好吊床或躲避窝)",
-                    "temperament": "充满好奇、精力旺盛、敏感、温和"
-                },
-                "intro": "拥有如丝绸般柔软绒毛与浑圆体型的龙猫，是深受喜爱的异宠。但与猫狗不同的是，龙猫的牙齿一生都在不停生长，臼齿和门齿极易错位并刺伤口腔，导致痛苦的咬合不正。此外，它们缺乏汗腺且毛发密度极高，在高温潮湿的环境中极易发生中暑。本指南将为您解析龙猫的牙痛与过热信号，并提供守护其健康的3步日常护理流程。",
-                "whyTitle": "龙猫的肢体语言：流口水吐草与侧躺急促呼吸",
-                "whyDesc": "当龙猫出现 **“流口水打湿口周毛发并吐出干草”** 时，这是严重牙齿咬合不正的警示信号。而身体完全 **“侧躺且急促喘气”**，则意味着它们正处于中暑发作的危险边缘。",
-                "body_signals": [
-                    {
-                        "name": "流口水与吐出干草 (Drooling)",
-                        "meaning": "咬合不正导致过长的牙齿刺穿上颚或颊侧粘膜，引发剧痛，导致无法吞咽唾液并阻断咀嚼。",
-                        "response": "应立即带至特殊动物专科医院，使用专业口腔工具对过长的牙齿进行磨牙（Trimming）治疗。"
-                    },
-                    {
-                        "name": "侧躺且呼吸急促",
-                        "meaning": "环境温度过高导致体温急剧上升，机体瘫软、气道扩张的危险热应激状态。",
-                        "response": "请立即开启空调将室温降至 20°C 以下，并在笼内放置冰凉的大理石板或用毛巾包裹的冰冻矿泉水瓶。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：无限量供应粗纤维提摩西干草",
-                        "text": "为防止牙齿无限生长，随时提供新鲜且纤维粗糙的提摩西干草，引导其在咀嚼过程中自然磨损牙齿。"
-                    },
-                    {
-                        "name": "中午：四季防中暑与湿度严格管控",
-                        "text": "全年通过空调的除湿机将室内温度控制在 18–21°C，湿度保持在 40–50% 以下，打造舒适的高山气候。"
-                    },
-                    {
-                        "name": "晚上：每日1次15分钟专属火山灰沙浴",
-                        "text": "在其夜间活动高峰期，将火山灰成分的专属沙浴盆放入笼内，帮助其清除毛发深层的过多油脂。（绝对禁止水洗）"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "龙猫的咬合不正为什么非常危险？",
-                        "answer": "牙齿过长会刺穿颌骨或口腔粘膜，阻碍舌头运动导致无法进食，最终引发严重的营养不良、肠胃停滞（Stasis）甚至死亡。必须通过不断咀嚼干草来预防。"
-                    },
-                    {
-                        "question": "绝对不能用水给龙猫洗澡的原因是什么？",
-                        "answer": "龙猫单个毛孔生长着 80 根以上极度密实的毛发，一旦沾水极难自然风干。持续潮湿会导致严重的皮肤真菌感染或因急性低体温症死亡。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cuidado de la Maloclusión y Temperatura en la Chinchilla: Rutina diaria de 3 pasos para el desgaste dental y prevención del golpe de calor",
-                "description": "Las chinchillas tienen dientes de crecimiento continuo y son muy sensibles al calor y la humedad. Conozca una rutina de 3 pasos para el heno y sus baños de arena según directrices veterinarias.",
-                "authority": "Directrices de Manejo de Chinchillas de la Association of Exotic Mammal Veterinarians (AEMV) y Estándares de Odontología de Roedores",
-                "profile": {
-                    "breed": "Chinchilla (Chinchilla lanigera)",
-                    "lifespan": "10 ~ 15 años",
-                    "sleep_pattern": "12 ~ 14 horas (nocturna, prefiere hamacas o refugios)",
-                    "temperament": "Curiosa, Activa, Sensible, Gentil"
-                },
-                "intro": "Con su pelaje tan suave como la seda y su adorable cuerpo redondeado, la chinchilla es una mascota exótica fascinante. Sin embargo, a diferencia de los perros y gatos, los dientes de la chinchilla crecen continuamente durante toda su vida, por lo que el desalineamiento de molares e incisivos suele herir la boca provocando dolorosas maloclusiones. Además, al carecer de glándulas sudoríparas y poseer una densidad de pelo extrema, sufren fácilmente golpes de calor en ambientes cálidos y húmedos. En esta guía, descifra los signos de dolor dental y estrés térmico para proponer una rutina de 3 pasos que preserve su salud.",
-                "whyTitle": "Lenguaje corporal de la chinchilla: Babeo con caída de comida y signos de sobrecalentamiento",
-                "whyDesc": "Si una chinchilla muestra **'babeo y rechazo del heno'**, moijando el pelo alrededor de la boca, es una clara advertencia de una maloclusión dental grave. Por otro lado, **'acostarse de lado con respiración acelerada'** indica una emergencia por golpe de calor que requiere refrigeración inmediata.",
-                "body_signals": [
-                    {
-                        "name": "Babeo y rechazo del heno (Drooling)",
-                        "meaning": "Los dientes sobrecrecidos por maloclusión clavan el paladar o la pared de la mejilla, impidiendo tragar saliva y bloqueando la masticación debido al dolor intenso.",
-                        "response": "Acuda de inmediato a un hospital veterinario especializado en animales exóticos para realizar un limado o recorte dental profesional."
-                    },
-                    {
-                        "name": "Acostarse de lado con respiración acelerada",
-                        "meaning": "La temperatura ambiental elevada ha provocado un aumento repentino de su temperatura corporal, dejándola exhausta y en estrés térmico crítico.",
-                        "response": "Encienda inmediatamente el aire acondicionado para bajar la temperatura a menos de 20 °C y coloque losas de mármol o botellas heladas envueltas en toallas dentro de la jaula."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Suministro ilimitado de heno Timothy de fibra gruesa",
-                        "text": "Para evitar el crecimiento desmedido de los dientes, proporcione siempre heno Timothy fresco y de fibra gruesa para inducir el desgaste dental natural al masticar."
-                    },
-                    {
-                        "name": "Tarde: Control climático estricto para la prevención del golpe de calor todo el año",
-                        "text": "Mantenga la temperatura de la habitación entre 18 y 21 °C y la humedad por debajo del 40-50% activando el aire acondicionado y deshumidificadores durante todo el año."
-                    },
-                    {
-                        "name": "Noche: Sesión diaria de 15 minutos de baño con arena volcánica",
-                        "text": "Durante sus horas de actividad nocturna, coloque un contenedor especial con arena de origen volcánico en la jaula para eliminar el exceso de grasa del pelo. (Los baños con agua están estrictamente prohibidos)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué es tan peligrosa la maloclusión dental en las Chinchillas?",
-                        "answer": "Cuando los dientes crecen demasiado, pueden perforar el hueso mandibular o la mucosa bucal e impedir el movimiento de la lengua. Esto evita la ingesta de alimento, provocando desnutrición grave, estasis gastrointestinal o la muerte. La masticación constante de heno es vital."
-                    },
-                    {
-                        "question": "¿Por qué nunca se debe bañar a una Chinchilla con agua?",
-                        "answer": "Las chinchillas poseen una densidad extrema con más de 80 pelos por folículo, impidiendo el secado natural si se mojan. La humedad atrapada causa dermatitis fúngica grave o una hipotermia mortal."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Soins du Chinchilla (Malocclusion et Température) : Routine quotidienne en 3 étapes pour l'usure dentaire et la prévention du coup de chaleur",
-                "description": "Le chinchilla possède des dents à croissance continue et redoute la chaleur. Apprenez une routine en 3 étapes pour le foin Timothy et les bains de sable selon les directives de l'AEMV.",
-                "authority": "Directives d'Élevage du Chinchilla de l'Association of Exotic Mammal Veterinarians (AEMV) et Normes Cliniques de Dentisterie des Rongeurs",
-                "profile": {
-                    "breed": "Chinchilla (Chinchilla lanigera)",
-                    "lifespan": "10 ~ 15 ans",
-                    "sleep_pattern": "12 ~ 14 heures (nocturne, préfère les hamacs ou cabanes)",
-                    "temperament": "Curieux, Actif, Sensible, Gentil"
-                },
-                "intro": "Doté d'une pellisse d'une douceur infinie et d'un corps tout rond, le chinchilla est un animal de compagnie exotique très prisé. Cependant, à la différence des chiens et des chats, les dents du chinchilla poussent tout au long de sa vie ; un mauvais alignement des molaires ou des incisives blesse fréquemment sa bouche et provoque d'intenses malocclusions. De plus, dépourvu de glandes sudoripares et doté d'une fourrure extrêmement dense, il risque le coup de chaleur dans les environnements chauds et humides. Dans ce guide, décrypte les signaux de douleur dentaire et de détresse thermique du chinchilla pour vous proposer une routine en 3 étapes.",
-                "whyTitle": "Langage corporel du chinchilla : Salivation avec rejet de foin et signes de surchauffe",
-                "whyDesc": "Si un chinchilla présente une **« salivation abondante et recrache son foin »**, mouillant la fourrure autour de son museau, il s'agit d'un signal d'alarme de malocclusion dentaire sévère. En revanche, **« être couché sur le flanc avec un souffle rapide »** indique un état de surchauffe critique nécessitant un refroidissement immédiat.",
-                "body_signals": [
-                    {
-                        "name": "Salivation et rejet du foin (Drooling)",
-                        "meaning": "Les dents trop longues dues à la malocclusion transpercent le palais ou la paroi interne des joues, rendant la déglutition impossible et bloquant la mastication par la douleur.",
-                        "response": "Consultez d'urgence une clinique vétérinaire spécialisée NAC pour faire limer ou tailler les dents trop longues avec un équipement dentaire adapté."
-                    },
-                    {
-                        "name": "Couché sur le flanc avec souffle rapide",
-                        "meaning": "Une température ambiante trop élevée a fait grimper la température corporelle ; le chinchilla est épuisé et en détresse respiratoire due au stress thermique.",
-                        "response": "Allumez immédiatement la climatisation pour faire descendre la température sous 20 °C et placez des dalles de marbre frais ou des bouteilles d'eau glacée enveloppées dans une serviette dans la cage."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Distribution illimitée de foin de fléole (Timothy) à fibres riches",
-                        "text": "Afin d'éviter la pousse continue et excessive des dents, fournissez constamment du foin de fléole frais et rigide pour favoriser leur usure naturelle lors de la mastication."
-                    },
-                    {
-                        "name": "Midi : Contrôle climatique strict toute l'année contre le coup de chaleur et l'humidité",
-                        "text": "Maintenez la pièce entre 18 et 21 °C avec un taux d'humidité inférieur à 40-50 % grâce à la climatisation et à un déshumidificateur pour recréer un climat alpin confortable."
-                    },
-                    {
-                        "name": "Soir : Bain de terre volcanique de 15 minutes une fois par jour",
-                        "text": "Pendant sa phase d'activité nocturne, déposez un bac rempli de sable volcanique dans la cage pour éliminer l'excès de sébum de sa fourrure. (Les bains d'eau sont strictement interdits)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi la malocclusion dentaire est-elle si dangereuse chez le Chinchilla ?",
-                        "answer": "Des dents trop longues peuvent perforer l'os maxillaire ou la muqueuse buccale et entraver le mouvement de la langue. L'incapacité de se nourrir entraîne une dénutrition sévère, une stase digestive ou la mort. La mastication permanente de foin est indispensable pour prévenir cela."
-                    },
-                    {
-                        "question": "Pourquoi est-il strictement interdit de laver un Chinchilla à l'eau ?",
-                        "answer": "Le chinchilla possède plus de 80 poils par follicule pileux, formant un pelage extrêmement dense qui ne peut pas sécher naturellement. L'humidité emprisonnée provoque de graves mycoses cutanées ou une hypothermie mortelle."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Chinchilla Zahnfehlstellungs- und Temperaturpflege: Tägliche 3-Schritte-Routine für Zahnabrieb und Hitzeschutz",
-                "description": "Chinchillas haben ständig wachsende Zähne und reagieren empfindlich auf Hitze. Lernen Sie eine 3-Schritte-Routine für Timothy-Heu und Sandbäder nach AEMV-Standards kennen.",
-                "authority": "Haltungsrichtlinien der Association of Exotic Mammal Veterinarians (AEMV) für Chinchillas und klinische Standards der Zahnmedizin bei Nagern",
-                "profile": {
-                    "breed": "Chinchilla (Chinchilla lanigera)",
-                    "lifespan": "10 ~ 15 Jahre",
-                    "sleep_pattern": "12 ~ 14 Stunden (nachtaktiv, bevorzugt Hängematten oder Häuschen)",
-                    "temperament": "Neugierig, Aktiv, Sensibel, Sanftmütig"
-                },
-                "intro": "Mit ihrem seidig-weichen Fell und ihrem rundlichen Körper sind Chinchillas faszinierende exotische Heimtiere. Doch anders als bei Hunden oder Katzen wachsen die Zähne einer Chinchilla ein Leben lang ununterbrochen; Fehlstellungen der Backen- und Schneidezähne verletzen häufig die Mundhöhle und führen zu schmerzhafter Malokklusion. Da sie zudem keine Schweißdrüsen besitzen und ihr Fell extrem dicht ist, erleiden sie bei Sommerhitze und hoher Luftfeuchtigkeit schnell einen Hitzeschlag. Heute entschlüsselt  die Zahn- und Hitzeschmerzsignale der Chinchilla und zeigt eine 3-Schritte-Routine zum Schutz ihrer Gesundheit.",
-                "whyTitle": "Körpersprache der Chinchilla: Speicheln mit Futterauswurf und Überhitzungszeichen",
-                "whyDesc": "Zeigt eine Chinchilla **'Speicheln mit Ausspucken von Heu'**, sodass das Fell um das Maul nass wird, ist dies ein ernstes Warnzeichen für eine schwere Zahnfehlstellung. Das **'Flachliegen auf der Seite mit schneller Atmung'** deutet dagegen auf einen lebensbedrohlichen Zustand kurz vor einem Hitzeschlag hin.",
-                "body_signals": [
-                    {
-                        "name": "Speicheln und Futterverweigerung (Drooling)",
-                        "meaning": "Durch Fehlstellung überwachsene Zähne bohren sich in den Gaumen oder die Wangenschleimhaut, verhindern das Schlucken von Speichel und blockieren das Kauen unter extremen Schmerzen.",
-                        "response": "Suchen Sie sofort eine spezialisierte Tierklinik für Exoten auf, um die Zähne mit dentalen Präzisionsgeräten kürzen zu lassen."
-                    },
-                    {
-                        "name": "Flachliegen auf der Seite mit schneller Atmung",
-                        "meaning": "Eine zu hohe Raumtemperatur hat die Körpertemperatur stark ansteigen lassen; das Tier liegt erschöpft mit geweiteten Atemwegen im Hitzestress.",
-                        "response": "Schalten Sie sofort die Klimaanlage ein, um die Raumtemperatur unter 20 °C zu senken, und legen Sie kühle Marmorplatten oder in Handtücher gewickelte Kühlakkus in den Käfig."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Unbegrenzte Fütterung von grobfaserigem Timothy-Heu",
-                        "text": "Um das ständige Nachwachsen der Zähne auszugleichen, stellen Sie stets frisches, grobes Timothy-Heu bereit, damit sich die Zähne beim Kauen natürlich abnutzen."
-                    },
-                    {
-                        "name": "Mittag: Strenge Klimakontrolle zur Hitzeschlag- und Feuchtigkeitsprävention",
-                        "text": "Halten Sie die Raumtemperatur ganzjährig bei 18–21 °C und die Luftfeuchtigkeit unter 40–50 % durch den Einsatz von Klimaanlage und Entfeuchter, um ein kühles Gebirgsklima zu schaffen."
-                    },
-                    {
-                        "name": "Abend: Täglich 15 Minuten Pflege im speziellen Vulkan-Sandbad",
-                        "text": "Stellen Sie während der abendlichen Aktivitätsphase eine Badewanne mit speziellem Vulkanaschesand in den Käfig, um überschüssiges Hautfett aus dem dichten Fell zu entfernen. (Wasserbäder sind strengstens verboten)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum ist eine Zahnfehlstellung (Malokklusion) bei Chinchillas so gefährlich?",
-                        "answer": "Überwachsene Zähne können den Kieferknochen durchbohren, die Mundschleimhaut verletzen und die Zunge blockieren. Die Unfähigkeit zu fressen führt zu schwerer Mangelernährung, Magen-Darm-Inaktivität (Stase) und dem Tod. Kontinuierliches Heukauen ist zur Vorbeugung zwingend erforderlich."
-                    },
-                    {
-                        "question": "Warum dürfen Chinchillas niemals mit Wasser gebadet werden?",
-                        "answer": "Chinchillas besitzen ein extrem dichtes Fell mit über 80 Haaren pro Follikel, das nach dem Nasswerden nicht von allein trocknet. Die eingeschlossene Feuchtigkeit führt zu schweren Pilzinfektionen der Haut oder tödlicher Unterkühlung."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Cuidado da Maloclusão e Temperatura da Chinchila: Rotina diária de 3 passos para desgaste dentário e prevenção contra hipertermia",
-                "description": "Chinchilas têm dentes de crescimento contínuo e são intolerantes ao calor e à umidade. Conheça a rotina com feno Timothy e banho de areia segundo padrões da AEMV.",
-                "authority": "Diretrizes de Manejo de Chinchilas da Association of Exotic Mammal Veterinarians (AEMV) e Padrões Clínicos de Odontologia de Roedores",
-                "profile": {
-                    "breed": "Chinchila (Chinchilla lanigera)",
-                    "lifespan": "10 ~ 15 anos",
-                    "sleep_pattern": "12 ~ 14 horas (noturno, prefere redes ou tocas)",
-                    "temperament": "Curioso, Energético, Sensível, Manso"
-                },
-                "intro": "Com uma pelagem sedosa e extremamente macia e um corpo arredondado adorável, a chinchila é um animal exótico de estimação muito querido. No entanto, ao contrário de cães e gatos, os dentes da chinchila crescem continuamente durante toda a vida, e o desalinhamento dos molares e incisivos frequentemente perfura a boca, causando dolorosas maloclusões. Além disso, por não possuírem glândulas sudoríparas e apresentarem uma densidade de pelo extrema, sofrem facilmente com intermação e hipertermia em ambientes quentes e úmidos. Neste guia, decodifica os sinais de dor dentária e estresse térmico da chinchila e apresenta uma rotina de 3 passos para proteger sua saúde.",
-                "whyTitle": "Linguagem corporal da chinchila: Salivação com descarte de feno e sinais de prostração por calor",
-                "whyDesc": "Se a chinchila apresentar **'salivação excessiva e descarte de feno'**, molhando o pelo ao redor do focinho, este é um forte sinal de alerta para maloclusão dentária grave. Por outro lado, **'deitar de lado com respiração acelerada'** indica um estado crítico de hipertermia que exige resfriamento imediato.",
-                "body_signals": [
-                    {
-                        "name": "Salivação e recusa de feno (Drooling)",
-                        "meaning": "Dentes excessivamente longos decorrentes da maloclusão perfuram o céu da boca ou a parede interna da bochecha, impedindo a deglutição da saliva e bloqueando a mastigação devido à dor intensa.",
-                        "response": "Leve o animal imediatamente a um hospital veterinário especializado em animais exóticos para realizar o desgasto ou corte dentário com instrumentos adequados."
-                    },
-                    {
-                        "name": "Deitado de lado com respiração acelerada",
-                        "meaning": "A temperatura ambiente elevada provocou um pico na temperatura corporal, deixando o animal exausto e em estresse térmico grave com vias aéreas dilatadas.",
-                        "response": "Ligue o ar-condicionado imediatamente para baixar a temperatura ambiente para menos de 20 °C e coloque placas de mármore frio ou garrafas de água congelada enroladas em toalhas na gaiola."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Fornecimento ilimitado de feno Timothy rico em fibras duras",
-                        "text": "Para evitar que os dentes cresçam continuamente sem controle, forneça sempre feno Timothy fresco e de fibra grossa para induzir o desgaste dentário natural durante a mastigação."
-                    },
-                    {
-                        "name": "Tarde: Controle climático rigoroso o ano todo para prevenção de hipertermia e umidade",
-                        "text": "Mantenha a temperatura do ambiente entre 18 e 21 °C e a umidade abaixo de 40-50% usando ar-condicionado e desumidificadores constantemente para recriar o clima alpino."
-                    },
-                    {
-                        "name": "Noite: Sessão diária de 15 minutos de banho com pó de areia vulcânica",
-                        "text": "Durante o período de atividade noturna, coloque um recipiente com areia de origem vulcânica na gaiola para remover o excesso de oleosidade da pelagem. (Banhos com água são estritamente proibidos)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Por que a maloclusão dentária é tão perigosa para as Chinchilas?",
-                        "answer": "Dentes muito longos podem perfurar a mandíbula ou a mucosa bucal e travar os movimentos da língua. A incapacidade de se alimentar leva à desnutrição severa, estase gastrointestinal e óbito. A mastigação constante de feno é a única prevenção."
-                    },
-                    {
-                        "question": "Por que nunca se deve dar banho em uma Chinchila com água?",
-                        "answer": "A chinchila possui uma densidade de pelo impressionante de mais de 80 fios por folículo, tornando a secagem natural impossível quando molhada. A umidade presa causa dermatite fúngica grave ou hipotermia fatal."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Perawatan Maloklusi Gigi & Suhu Ruangan Chinchilla: Rutinitas Harian 3 Langkah untuk Pengikisan Gigi dan Pencegahan Heatstroke",
-                "description": "Chinchilla memiliki gigi yang tumbuh terus-menerus dan peka terhadap suhu panas. Pelajari 3 langkah rutinitas harian pemberian rumput Timothy hay dan mandi pasir berdasarkan panduan AEMV.",
-                "authority": "Pedoman Pemeliharaan Chinchilla Association of Exotic Mammal Veterinarians (AEMV) & Standar Klinis Kedokteran Gigi Hewan Pengerat",
-                "profile": {
-                    "breed": "Chinchilla (Chinchilla lanigera)",
-                    "lifespan": "10 ~ 15 tahun",
-                    "sleep_pattern": "12 ~ 14 jam (nokturnal, menyukai tempat tidur gantung atau tempat bersembunyi)",
-                    "temperament": "Ingin Tahu, Lincah, Sensitif, Lembut"
-                },
-                "intro": "Memiliki bulu yang sangat lembut seperti sutra dan tubuh bulat yang menggemaskan, chinchilla adalah hewan peliharaan eksotis yang sangat populer. Namun, tidak seperti anjing dan kucing, gigi chinchilla tumbuh terus-menerus sepanjang hidupnya. Akibatnya, posisi gigi geraham dan gigi seri yang tidak sejajar sering kali menusuk bagian dalam mulut hingga menyebabkan maloklusi yang menyakitkan. Selain itu, karena tidak memiliki kelenjar keringat dan memiliki bulu yang sangat padat, mereka sangat rentan terkena heatstroke di lingkungan yang panas dan lembap. Dalam panduan ini, mengulas sinyal sakit gigi dan stres panas pada chinchilla, serta menyajikan 3 langkah rutinitas harian untuk menjaga kesehatan mereka.",
-                "whyTitle": "Bahasa Tubuh Chinchilla: Air Liur Menetes dengan Makanan Terjatuh dan Tanda Kegerahan",
-                "whyDesc": "Jika chinchilla menunjukkan tanda **'air liur menetes dan memuntahkan rumput hay'** hingga membasahi bulu di sekitar mulutnya, ini adalah sinyal peringatan bahaya dari maloklusi gigi yang parah. Sementara itu, **'berbaring menyamping dengan napas cepat'** menandakan kondisi darurat akibat kepanasan yang membutuhkan tindakan pendinginan segera.",
-                "body_signals": [
-                    {
-                        "name": "Air Liur Menetes dan Memuntahkan Rumput Hay (Drooling)",
-                        "meaning": "Gigi yang tumbuh terlalu panjang akibat maloklusi menusuk langit-langit mulut atau dinding pipi bagian dalam, menyebabkan rasa sakit luar biasa hingga tidak bisa menelan ludah dan tidak dapat mengunyah.",
-                        "response": "Segera bawa ke rumah sakit hewan khusus hewan eksotis untuk mendapatkan perawatan pemotongan atau pengikiran gigi menggunakan peralatan medis khusus."
-                    },
-                    {
-                        "name": "Berbaring Menyamping dengan Napas Cepat",
-                        "meaning": "Suhu ruangan yang terlalu tinggi menyebabkan suhu tubuh melonjak drastis, membuat chinchilla lemas dengan saluran napas membesar dalam kondisi stres panas.",
-                        "response": "Segera nyalakan AC untuk menurunkan suhu ruangan di bawah 20 °C, serta letakkan ubin batu marmer dingin atau botol air es yang dibungkus handuk di dalam kandang."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Pemberian Rumput Timothy Hay Berserat Kasar Tanpa Batas",
-                        "text": "Untuk mencegah gigi tumbuh tanpa henti, sediakan rumput timothy hay yang segar dan berserat kasar setiap saat agar giginya terkikis secara alami selama proses mengunyah."
-                    },
-                    {
-                        "name": "Siang: Kontrol Suhu dan Kelembapan Ruangan Sepanjang Tahun",
-                        "text": "Jaga suhu ruangan pada 18–21 °C dan kelembapan di bawah 40–50% sepanjang tahun menggunakan AC dan dehumidifier untuk menciptakan iklim pegunungan yang sejuk."
-                    },
-                    {
-                        "name": "Malam: Sesi Mandi Pasir Debu Vulkanik Khusus 15 Menit Sekali Sehari",
-                        "text": "Pada jam aktif malam hari, sediakan wadah khusus mandi pasir debu vulkanik di dalam kandang untuk menyerap kelebihan minyak dari bulu tebal mereka. (Sangat dilarang memandikan dengan air)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa maloklusi gigi sangat berbahaya bagi Chinchilla?",
-                        "answer": "Gigi yang terlalu panjang dapat menembus tulang rahang atau mukosa mulut dan menghalangi gerakan lidah. Ketidakmampuan untuk makan menyebabkan malnutrisi parah, stasis pencernaan, hingga kematian. Mengunyah rumput hay secara terus-menerus adalah kunci pencegahannya."
-                    },
-                    {
-                        "question": "Mengapa Chinchilla sama sekali tidak boleh dimandikan dengan air?",
-                        "answer": "Chinchilla memiliki kepadatan bulu yang luar biasa dengan lebih dari 80 helai rambut tumbuh dari satu folikel, sehingga mustahil kering secara alami jika basah. Air yang terperangkap akan menyebabkan infeksi jamur kulit yang parah atau hipotermia yang mematikan."
-                    }
-                ]
-            }
+  "chinchilla-care": {
+    "pubDate": "2026-06-27",
+    "updatedDate": "2026-06-27",
+    "locales": {
+      "ko": {
+        "title": "친칠라 부정교합 및 온도 관리: 치아 마모와 열사병 예방을 위한 3단계 루틴",
+        "description": "친칠라는 평생 자라는 이빨 때문에 부정교합이 오기 쉽고 고온다습에 매우 취약합니다. 이갈이용 건초 급여와 모래목욕을 포함한 3단계 데일리 루틴을 알아봅니다.",
+        "authority": "특수동물수의사회(AEMV) 친칠라 사육 가이드라인 및 설치류 치과 임상 표준",
+        "profile": {
+          "breed": "친칠라 (Chinchilla lanigera)",
+          "lifespan": "10 ~ 15년",
+          "sleep_pattern": "12 ~ 14시간 (야행성, 해먹이나 은신처 선호)",
+          "temperament": "호기심 많음, 활발함, 예민함, 온순함"
         },
-        "heroImage": "/images/blog/chinchilla_care.webp"
-    }
+        "intro": "비단처럼 부드러운 모피와 동그란 몸집이 매력적인 친칠라는 최근 사랑받는 특수반려동물입니다. 하지만 개, 고양이와 달리 친칠라의 이빨은 평생 동안 멈추지 않고 계속 자라기 때문에 어금니와 앞니가 어긋나 입안에 상처를 내는 부정교합이 빈번하게 발생합니다. 또한 땀샘이 없고 털 밀도가 높아 고온다습한 환경에서 열사병에 걸리기 쉽습니다. 이번 가이드에서는 친칠라의 이빨 통증 및 더위 신호를 분석하고, 건강을 지키는 3단계 루틴을 제안합니다.",
+        "whyTitle": "친칠라의 바디 랭귀지: 침 흘림과 더위 먹은 상태의 의미",
+        "whyDesc": "친칠라가 입 주변 털을 축축하게 적시는 **'침 흘림과 건초 뱉기'**를 보인다면 이는 심각한 이빨 부정교합의 신호입니다. 몸을 완전히 옆으로 눕혀 가쁜 숨을 몰아쉬는 **'옆으로 누워 숨쉬기'**는 열사병 직전 상태를 의미합니다.",
+        "body_signals": [
+          {
+            "name": "침 흘림 및 건초 뱉기 (Drooling)",
+            "meaning": "부정교합으로 인해 길어진 치아가 입천장이나 볼 안쪽을 찔러 침 삼킴이 불가능하고 씹는 활동이 차단된 고통스러운 상태입니다.",
+            "response": "즉시 특수동물 전문 동물병원을 방문하여 치과용 절삭기(트리밍) 치료를 받아 길어진 치아를 갈아주어야 합니다."
+          },
+          {
+            "name": "옆으로 누워 숨쉬기",
+            "meaning": "실내 온도가 너무 높아 체온이 급격히 상승해 기진맥진하고 기도가 확장된 위험 신호입니다.",
+            "response": "에어컨을 즉시 가동하여 방 온도를 20°C 이하로 낮춰주고, 시원한 대리석판이나 얼린 생수통을 수건에 싸서 케이지 안에 넣어줍니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 거친 섬유질의 티모시 건초 무제한 급여",
+            "text": "이빨이 계속 자라는 것을 방지하기 위해 섬유질이 풍부하고 거친 티모시 건초를 상시 제공해 씹는 과정에서 이빨이 자연 마모되게 유도합니다."
+          },
+          {
+            "name": "낮: 사계절 열사병 방지용 실내 온도 및 습도 관리",
+            "text": "사계절 내내 실내 온도는 18-21°C, 습도는 40-50% 이하로 제습기와 에어컨을 가동하여 쾌적한 가을 기후를 세팅해 줍니다."
+          },
+          {
+            "name": "저녁: 하루 1회 15분 전용 화산재 모래목욕 실시",
+            "text": "활동 시간인 저녁에는 화산재 성분의 모래 목욕 전용 용기를 케이지에 넣어 털 안의 과도한 유분을 제거하도록 돕습니다. (물 목욕 절대 금지)"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "친칠라의 부정교합은 왜 위험한가요?",
+            "answer": "치아가 너무 길어지면 턱뼈를 뚫거나 입안을 찌르고 혀의 운동을 막아 음식을 먹지 못해 영양실조나 고창증으로 폐사할 수 있습니다. 예방을 위해 끊임없이 건초를 씹게 해야 합니다."
+          },
+          {
+            "question": "친칠라를 물로 목욕시키면 안 되나요?",
+            "answer": "안 됩니다. 친칠라는 모공 하나에서 80가닥 이상의 엄청나게 촘촘한 모피를 갖고 있어 물이 닿으면 자연 건조가 불가능합니다. 젖은 상태가 지속되면 모피 곰팡이병에 걸리거나 급격한 체온 저하로 폐사할 수 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Chinchilla Malocclusion & Temperature Care: A 3-Step Daily Routine for Dental Wear and Heatstroke Prevention",
+        "description": "Chinchillas have continuously growing teeth and are highly sensitive to heat and humidity. Learn a 3-step daily routine for timothy hay feeding and dust baths under AEMV guidelines.",
+        "authority": "Association of Exotic Mammal Veterinarians (AEMV) Chinchilla Husbandry Guidelines & Rodent Dentistry Clinical Standards",
+        "profile": {
+          "breed": "Chinchilla (Chinchilla lanigera)",
+          "lifespan": "10 ~ 15 years",
+          "sleep_pattern": "12 ~ 14 hours (nocturnal, prefers hideouts or hammocks)",
+          "temperament": "Curious, Energetic, Sensitive, Gentle"
+        },
+        "intro": "Boasting silky-soft fur and adorable round bodies, Chinchillas are popular exotic pets. However, unlike dogs and cats, a chinchilla's teeth grow continuously throughout its life. As a result, misaligned incisors and molars often pierce the mouth, leading to painful malocclusion. Furthermore, lacking sweat glands and possessing extremely dense fur, they are highly vulnerable to heatstroke in hot, humid environments. In this guide, decodes chinchilla dental pain and heat stress signals, proposing a 3-step care routine to safeguard their health.",
+        "whyTitle": "Chinchilla Body Language: Drooling with Food Dropping and Overheating Signs",
+        "whyDesc": "If a chinchilla shows **'drooling and dropping hay'**, wetting the fur around its mouth, this is a critical warning signal of severe dental malocclusion. On the other hand, **'lying on their side with rapid breathing'** indicates a near-heatstroke emergency where immediate cooling intervention is required.",
+        "body_signals": [
+          {
+            "name": "Drooling and Dropping Hay",
+            "meaning": "Overgrown teeth from malocclusion puncture the palate or cheek lining, making swallowing impossible and blocking chewing due to intense pain.",
+            "response": "Visit a specialized exotic animal hospital immediately to have overgrown teeth trimmed or ground using specialized dental equipment."
+          },
+          {
+            "name": "Lying on Side with Rapid Breathing",
+            "meaning": "High indoor temperatures have caused body heat to spike, leaving the chinchilla exhausted with dilated airways in a state of heat stress.",
+            "response": "Turn on the air conditioner immediately to lower room temperature below 20°C, and place marble slabs or towel-wrapped ice bottles inside the cage."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Unlimited Feeding of Coarse High-Fiber Timothy Hay",
+            "text": "To prevent teeth from overgrowing continuously, provide fresh, coarse timothy hay at all times to induce natural dental wear through chewing."
+          },
+          {
+            "name": "Afternoon: Climate Control for Year-Round Heatstroke & Humidity Prevention",
+            "text": "Maintain indoor temperature at 18–21°C and humidity at 40–50% or lower year-round using air conditioners and dehumidifiers to replicate comfortable alpine conditions."
+          },
+          {
+            "name": "Evening: 15-Minute Volcanic Dust Bath Session Once Daily",
+            "text": "During their active evening hours, place a specialized volcanic dust bath container in the cage to remove excess skin oil from their dense fur. (Water baths are strictly prohibited.)"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why is dental malocclusion so dangerous for Chinchillas?",
+            "answer": "When teeth become too long, they can pierce the jawbone or cheek mucosa and block tongue movement. Inability to chew leads to severe malnutrition, gastrointestinal stasis, or death. Continuous hay chewing is essential for prevention."
+          },
+          {
+            "question": "Why shouldn't Chinchillas ever be bathed in water?",
+            "answer": "Chinchillas have an incredibly dense coat with over 80 hairs growing per follicle, making natural drying impossible once wet. Trapped moisture causes severe fungal dermatitis or fatal hypothermia."
+          }
+        ]
+      },
+      "ja": {
+        "title": "チンチラの不正咬合＆温度ケア：歯の摩耗と熱中症予防の3段階日常ルーティン",
+        "description": "チンチラは一生伸び続ける歯による不正咬合のリスクが高く、高温多湿に極めて弱いです。イガリ用の牧草給与と砂浴びを含む3段階ケアを紹介します。",
+        "authority": "特種動物獣医師会(AEMV) チンチラ飼育ガイドラインおよび齧歯類歯科臨床標準",
+        "profile": {
+          "breed": "チンチラ (Chinchilla lanigera)",
+          "lifespan": "10 ~ 15年",
+          "sleep_pattern": "12 ~ 14時間 (夜行性、ハンモックや隠れ家を好む)",
+          "temperament": "好奇心旺盛、活発、繊細、穏やか"
+        },
+        "intro": "絹のように柔らかい毛並みと丸い体が魅力的なチンチラは、愛されているエキゾチックペットです。しかし犬や猫とは異なり、チンチラの歯は一生伸び続けるため、臼歯や前歯がかみ合わずに口内を傷つける不正咬合が多発します。また、汗腺がなく毛の密度が非常に高いため、高温多湿な環境では熱中症にかかりやすいです。本記事では、チンチラの歯の痛みや暑さのシグナルを分析し、健康を守る3段階ルーティンをご提案します。",
+        "whyTitle": "チンチラのボディランゲージ：よだれと熱中症の初期サイン",
+        "whyDesc": "チンチラが口元の毛を湿らせる**「よだれと牧草の吐き出し」**を見せる場合、深刻な歯の不正咬合のサインです。体を完全に横たえて荒い息をする**「横たわりの呼吸」**は、熱中症の直前状態を意味します。",
+        "body_signals": [
+          {
+            "name": "よだれと食べこぼし (Drooling)",
+            "meaning": "不正咬合で伸びた歯が上顎や頬の内側を刺し、唾液を飲み込めず咀嚼が遮断された激痛の状態です。",
+            "response": "直ちにエキゾチックアニマル専門の動物病院を受診し、歯科用トリミング機器で伸びた歯を削る治療を受けてください。"
+          },
+          {
+            "name": "横たわって荒い呼吸をする",
+            "meaning": "室温が高すぎて体温が急上昇し、ぐったりして気道が拡張した危険な熱ストレス状態です。",
+            "response": "すぐにエアコンを稼働させて室温を20℃以下に下げ、冷たい大理石プレートやタオルで巻いた保冷剤をケージ内に入れてください。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：粗い繊維質のチモシー牧草を無制限給与",
+            "text": "歯が伸び続けるのを防ぐため、繊維質が豊富で粗いチモシー牧草を常に提供し、噛む過程で歯を自然摩耗させます。"
+          },
+          {
+            "name": "昼：年間を通じた熱中症予防の室温・湿度管理",
+            "text": "年中を通じて室温18〜21℃、湿度40〜50%以下を維持するようエアコンと除湿機を稼働させ、快適な高山気候を整えます。"
+          },
+          {
+            "name": "夜：1日1回15分の専用火山灰砂浴びの実施",
+            "text": "活動時間である夜間に、火山灰成分の砂浴び専用容器をケージに入れ、被毛の中の過剰な皮脂を除去させます。（水浴びは絶対厳禁）"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "チンチラの不正咬合が危険な理由は何ですか？",
+            "answer": "歯が伸びすぎると顎骨を突き破ったり口内を傷つけ、舌の動きを阻害して食事ができなくなり、栄養失調や胃腸停滞で死に至ることがあります。予防には常に牧草を噛ませることが必須です。"
+          },
+          {
+            "question": "チンチラを水で洗ってはいけないのはなぜですか？",
+            "answer": "チンチラは1つの毛穴から80本以上の極めて密生した被毛を持つため、濡れると自然乾燥が不可能です。湿った状態が続くと皮膚カビ病や急激な体温低下を引き起こし死に至ります。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "龙猫牙齿咬合不正与温度护理：促进磨牙及防止中暑的日常3步护理流程",
+        "description": "龙猫具有终生生长的牙齿且对高温高湿极度敏感。介绍通过日常3步护理流程科学提供提摩西干草与火山灰沙浴的方法。",
+        "authority": "特殊动物兽医师协会 (AEMV) 龙猫饲养指南与啮齿类口腔临床标准",
+        "profile": {
+          "breed": "龙猫 (Chinchilla lanigera)",
+          "lifespan": "10 ~ 15年",
+          "sleep_pattern": "12 ~ 14小时 (夜行性，偏好吊床或躲避窝)",
+          "temperament": "充满好奇、精力旺盛、敏感、温和"
+        },
+        "intro": "拥有如丝绸般柔软绒毛与浑圆体型的龙猫，是深受喜爱的异宠。但与猫狗不同的是，龙猫的牙齿一生都在不停生长，臼齿和门齿极易错位并刺伤口腔，导致痛苦的咬合不正。此外，它们缺乏汗腺且毛发密度极高，在高温潮湿的环境中极易发生中暑。本指南将为您解析龙猫的牙痛与过热信号，并提供守护其健康的3步日常护理流程。",
+        "whyTitle": "龙猫的肢体语言：流口水吐草与侧躺急促呼吸",
+        "whyDesc": "当龙猫出现 **“流口水打湿口周毛发并吐出干草”** 时，这是严重牙齿咬合不正的警示信号。而身体完全 **“侧躺且急促喘气”**，则意味着它们正处于中暑发作的危险边缘。",
+        "body_signals": [
+          {
+            "name": "流口水与吐出干草 (Drooling)",
+            "meaning": "咬合不正导致过长的牙齿刺穿上颚或颊侧粘膜，引发剧痛，导致无法吞咽唾液并阻断咀嚼。",
+            "response": "应立即带至特殊动物专科医院，使用专业口腔工具对过长的牙齿进行磨牙（Trimming）治疗。"
+          },
+          {
+            "name": "侧躺且呼吸急促",
+            "meaning": "环境温度过高导致体温急剧上升，机体瘫软、气道扩张的危险热应激状态。",
+            "response": "请立即开启空调将室温降至 20°C 以下，并在笼内放置冰凉的大理石板或用毛巾包裹的冰冻矿泉水瓶。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：无限量供应粗纤维提摩西干草",
+            "text": "为防止牙齿无限生长，随时提供新鲜且纤维粗糙的提摩西干草，引导其在咀嚼过程中自然磨损牙齿。"
+          },
+          {
+            "name": "中午：四季防中暑与湿度严格管控",
+            "text": "全年通过空调的除湿机将室内温度控制在 18–21°C，湿度保持在 40–50% 以下，打造舒适的高山气候。"
+          },
+          {
+            "name": "晚上：每日1次15分钟专属火山灰沙浴",
+            "text": "在其夜间活动高峰期，将火山灰成分的专属沙浴盆放入笼内，帮助其清除毛发深层的过多油脂。（绝对禁止水洗）"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "龙猫的咬合不正为什么非常危险？",
+            "answer": "牙齿过长会刺穿颌骨或口腔粘膜，阻碍舌头运动导致无法进食，最终引发严重的营养不良、肠胃停滞（Stasis）甚至死亡。必须通过不断咀嚼干草来预防。"
+          },
+          {
+            "question": "绝对不能用水给龙猫洗澡的原因是什么？",
+            "answer": "龙猫单个毛孔生长着 80 根以上极度密实的毛发，一旦沾水极难自然风干。持续潮湿会导致严重的皮肤真菌感染或因急性低体温症死亡。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cuidado de la Maloclusión y Temperatura en la Chinchilla: Rutina diaria de 3 pasos para el desgaste dental y prevención del golpe de calor",
+        "description": "Las chinchillas tienen dientes de crecimiento continuo y son muy sensibles al calor y la humedad. Conozca una rutina de 3 pasos para el heno y sus baños de arena según directrices veterinarias.",
+        "authority": "Directrices de Manejo de Chinchillas de la Association of Exotic Mammal Veterinarians (AEMV) y Estándares de Odontología de Roedores",
+        "profile": {
+          "breed": "Chinchilla (Chinchilla lanigera)",
+          "lifespan": "10 ~ 15 años",
+          "sleep_pattern": "12 ~ 14 horas (nocturna, prefiere hamacas o refugios)",
+          "temperament": "Curiosa, Activa, Sensible, Gentil"
+        },
+        "intro": "Con su pelaje tan suave como la seda y su adorable cuerpo redondeado, la chinchilla es una mascota exótica fascinante. Sin embargo, a diferencia de los perros y gatos, los dientes de la chinchilla crecen continuamente durante toda su vida, por lo que el desalineamiento de molares e incisivos suele herir la boca provocando dolorosas maloclusiones. Además, al carecer de glándulas sudoríparas y poseer una densidad de pelo extrema, sufren fácilmente golpes de calor en ambientes cálidos y húmedos. En esta guía, descifra los signos de dolor dental y estrés térmico para proponer una rutina de 3 pasos que preserve su salud.",
+        "whyTitle": "Lenguaje corporal de la chinchilla: Babeo con caída de comida y signos de sobrecalentamiento",
+        "whyDesc": "Si una chinchilla muestra **'babeo y rechazo del heno'**, moijando el pelo alrededor de la boca, es una clara advertencia de una maloclusión dental grave. Por otro lado, **'acostarse de lado con respiración acelerada'** indica una emergencia por golpe de calor que requiere refrigeración inmediata.",
+        "body_signals": [
+          {
+            "name": "Babeo y rechazo del heno (Drooling)",
+            "meaning": "Los dientes sobrecrecidos por maloclusión clavan el paladar o la pared de la mejilla, impidiendo tragar saliva y bloqueando la masticación debido al dolor intenso.",
+            "response": "Acuda de inmediato a un hospital veterinario especializado en animales exóticos para realizar un limado o recorte dental profesional."
+          },
+          {
+            "name": "Acostarse de lado con respiración acelerada",
+            "meaning": "La temperatura ambiental elevada ha provocado un aumento repentino de su temperatura corporal, dejándola exhausta y en estrés térmico crítico.",
+            "response": "Encienda inmediatamente el aire acondicionado para bajar la temperatura a menos de 20 °C y coloque losas de mármol o botellas heladas envueltas en toallas dentro de la jaula."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Suministro ilimitado de heno Timothy de fibra gruesa",
+            "text": "Para evitar el crecimiento desmedido de los dientes, proporcione siempre heno Timothy fresco y de fibra gruesa para inducir el desgaste dental natural al masticar."
+          },
+          {
+            "name": "Tarde: Control climático estricto para la prevención del golpe de calor todo el año",
+            "text": "Mantenga la temperatura de la habitación entre 18 y 21 °C y la humedad por debajo del 40-50% activando el aire acondicionado y deshumidificadores durante todo el año."
+          },
+          {
+            "name": "Noche: Sesión diaria de 15 minutos de baño con arena volcánica",
+            "text": "Durante sus horas de actividad nocturna, coloque un contenedor especial con arena de origen volcánico en la jaula para eliminar el exceso de grasa del pelo. (Los baños con agua están estrictamente prohibidos)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué es tan peligrosa la maloclusión dental en las Chinchillas?",
+            "answer": "Cuando los dientes crecen demasiado, pueden perforar el hueso mandibular o la mucosa bucal e impedir el movimiento de la lengua. Esto evita la ingesta de alimento, provocando desnutrición grave, estasis gastrointestinal o la muerte. La masticación constante de heno es vital."
+          },
+          {
+            "question": "¿Por qué nunca se debe bañar a una Chinchilla con agua?",
+            "answer": "Las chinchillas poseen una densidad extrema con más de 80 pelos por folículo, impidiendo el secado natural si se mojan. La humedad atrapada causa dermatitis fúngica grave o una hipotermia mortal."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Soins du Chinchilla (Malocclusion et Température) : Routine quotidienne en 3 étapes pour l'usure dentaire et la prévention du coup de chaleur",
+        "description": "Le chinchilla possède des dents à croissance continue et redoute la chaleur. Apprenez une routine en 3 étapes pour le foin Timothy et les bains de sable selon les directives de l'AEMV.",
+        "authority": "Directives d'Élevage du Chinchilla de l'Association of Exotic Mammal Veterinarians (AEMV) et Normes Cliniques de Dentisterie des Rongeurs",
+        "profile": {
+          "breed": "Chinchilla (Chinchilla lanigera)",
+          "lifespan": "10 ~ 15 ans",
+          "sleep_pattern": "12 ~ 14 heures (nocturne, préfère les hamacs ou cabanes)",
+          "temperament": "Curieux, Actif, Sensible, Gentil"
+        },
+        "intro": "Doté d'une pellisse d'une douceur infinie et d'un corps tout rond, le chinchilla est un animal de compagnie exotique très prisé. Cependant, à la différence des chiens et des chats, les dents du chinchilla poussent tout au long de sa vie ; un mauvais alignement des molaires ou des incisives blesse fréquemment sa bouche et provoque d'intenses malocclusions. De plus, dépourvu de glandes sudoripares et doté d'une fourrure extrêmement dense, il risque le coup de chaleur dans les environnements chauds et humides. Dans ce guide, décrypte les signaux de douleur dentaire et de détresse thermique du chinchilla pour vous proposer une routine en 3 étapes.",
+        "whyTitle": "Langage corporel du chinchilla : Salivation avec rejet de foin et signes de surchauffe",
+        "whyDesc": "Si un chinchilla présente une **« salivation abondante et recrache son foin »**, mouillant la fourrure autour de son museau, il s'agit d'un signal d'alarme de malocclusion dentaire sévère. En revanche, **« être couché sur le flanc avec un souffle rapide »** indique un état de surchauffe critique nécessitant un refroidissement immédiat.",
+        "body_signals": [
+          {
+            "name": "Salivation et rejet du foin (Drooling)",
+            "meaning": "Les dents trop longues dues à la malocclusion transpercent le palais ou la paroi interne des joues, rendant la déglutition impossible et bloquant la mastication par la douleur.",
+            "response": "Consultez d'urgence une clinique vétérinaire spécialisée NAC pour faire limer ou tailler les dents trop longues avec un équipement dentaire adapté."
+          },
+          {
+            "name": "Couché sur le flanc avec souffle rapide",
+            "meaning": "Une température ambiante trop élevée a fait grimper la température corporelle ; le chinchilla est épuisé et en détresse respiratoire due au stress thermique.",
+            "response": "Allumez immédiatement la climatisation pour faire descendre la température sous 20 °C et placez des dalles de marbre frais ou des bouteilles d'eau glacée enveloppées dans une serviette dans la cage."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Distribution illimitée de foin de fléole (Timothy) à fibres riches",
+            "text": "Afin d'éviter la pousse continue et excessive des dents, fournissez constamment du foin de fléole frais et rigide pour favoriser leur usure naturelle lors de la mastication."
+          },
+          {
+            "name": "Midi : Contrôle climatique strict toute l'année contre le coup de chaleur et l'humidité",
+            "text": "Maintenez la pièce entre 18 et 21 °C avec un taux d'humidité inférieur à 40-50 % grâce à la climatisation et à un déshumidificateur pour recréer un climat alpin confortable."
+          },
+          {
+            "name": "Soir : Bain de terre volcanique de 15 minutes une fois par jour",
+            "text": "Pendant sa phase d'activité nocturne, déposez un bac rempli de sable volcanique dans la cage pour éliminer l'excès de sébum de sa fourrure. (Les bains d'eau sont strictement interdits)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi la malocclusion dentaire est-elle si dangereuse chez le Chinchilla ?",
+            "answer": "Des dents trop longues peuvent perforer l'os maxillaire ou la muqueuse buccale et entraver le mouvement de la langue. L'incapacité de se nourrir entraîne une dénutrition sévère, une stase digestive ou la mort. La mastication permanente de foin est indispensable pour prévenir cela."
+          },
+          {
+            "question": "Pourquoi est-il strictement interdit de laver un Chinchilla à l'eau ?",
+            "answer": "Le chinchilla possède plus de 80 poils par follicule pileux, formant un pelage extrêmement dense qui ne peut pas sécher naturellement. L'humidité emprisonnée provoque de graves mycoses cutanées ou une hypothermie mortelle."
+          }
+        ]
+      },
+      "de": {
+        "title": "Chinchilla Zahnfehlstellungs- und Temperaturpflege: Tägliche 3-Schritte-Routine für Zahnabrieb und Hitzeschutz",
+        "description": "Chinchillas haben ständig wachsende Zähne und reagieren empfindlich auf Hitze. Lernen Sie eine 3-Schritte-Routine für Timothy-Heu und Sandbäder nach AEMV-Standards kennen.",
+        "authority": "Haltungsrichtlinien der Association of Exotic Mammal Veterinarians (AEMV) für Chinchillas und klinische Standards der Zahnmedizin bei Nagern",
+        "profile": {
+          "breed": "Chinchilla (Chinchilla lanigera)",
+          "lifespan": "10 ~ 15 Jahre",
+          "sleep_pattern": "12 ~ 14 Stunden (nachtaktiv, bevorzugt Hängematten oder Häuschen)",
+          "temperament": "Neugierig, Aktiv, Sensibel, Sanftmütig"
+        },
+        "intro": "Mit ihrem seidig-weichen Fell und ihrem rundlichen Körper sind Chinchillas faszinierende exotische Heimtiere. Doch anders als bei Hunden oder Katzen wachsen die Zähne einer Chinchilla ein Leben lang ununterbrochen; Fehlstellungen der Backen- und Schneidezähne verletzen häufig die Mundhöhle und führen zu schmerzhafter Malokklusion. Da sie zudem keine Schweißdrüsen besitzen und ihr Fell extrem dicht ist, erleiden sie bei Sommerhitze und hoher Luftfeuchtigkeit schnell einen Hitzeschlag. Heute entschlüsselt  die Zahn- und Hitzeschmerzsignale der Chinchilla und zeigt eine 3-Schritte-Routine zum Schutz ihrer Gesundheit.",
+        "whyTitle": "Körpersprache der Chinchilla: Speicheln mit Futterauswurf und Überhitzungszeichen",
+        "whyDesc": "Zeigt eine Chinchilla **'Speicheln mit Ausspucken von Heu'**, sodass das Fell um das Maul nass wird, ist dies ein ernstes Warnzeichen für eine schwere Zahnfehlstellung. Das **'Flachliegen auf der Seite mit schneller Atmung'** deutet dagegen auf einen lebensbedrohlichen Zustand kurz vor einem Hitzeschlag hin.",
+        "body_signals": [
+          {
+            "name": "Speicheln und Futterverweigerung (Drooling)",
+            "meaning": "Durch Fehlstellung überwachsene Zähne bohren sich in den Gaumen oder die Wangenschleimhaut, verhindern das Schlucken von Speichel und blockieren das Kauen unter extremen Schmerzen.",
+            "response": "Suchen Sie sofort eine spezialisierte Tierklinik für Exoten auf, um die Zähne mit dentalen Präzisionsgeräten kürzen zu lassen."
+          },
+          {
+            "name": "Flachliegen auf der Seite mit schneller Atmung",
+            "meaning": "Eine zu hohe Raumtemperatur hat die Körpertemperatur stark ansteigen lassen; das Tier liegt erschöpft mit geweiteten Atemwegen im Hitzestress.",
+            "response": "Schalten Sie sofort die Klimaanlage ein, um die Raumtemperatur unter 20 °C zu senken, und legen Sie kühle Marmorplatten oder in Handtücher gewickelte Kühlakkus in den Käfig."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Unbegrenzte Fütterung von grobfaserigem Timothy-Heu",
+            "text": "Um das ständige Nachwachsen der Zähne auszugleichen, stellen Sie stets frisches, grobes Timothy-Heu bereit, damit sich die Zähne beim Kauen natürlich abnutzen."
+          },
+          {
+            "name": "Mittag: Strenge Klimakontrolle zur Hitzeschlag- und Feuchtigkeitsprävention",
+            "text": "Halten Sie die Raumtemperatur ganzjährig bei 18–21 °C und die Luftfeuchtigkeit unter 40–50 % durch den Einsatz von Klimaanlage und Entfeuchter, um ein kühles Gebirgsklima zu schaffen."
+          },
+          {
+            "name": "Abend: Täglich 15 Minuten Pflege im speziellen Vulkan-Sandbad",
+            "text": "Stellen Sie während der abendlichen Aktivitätsphase eine Badewanne mit speziellem Vulkanaschesand in den Käfig, um überschüssiges Hautfett aus dem dichten Fell zu entfernen. (Wasserbäder sind strengstens verboten)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum ist eine Zahnfehlstellung (Malokklusion) bei Chinchillas so gefährlich?",
+            "answer": "Überwachsene Zähne können den Kieferknochen durchbohren, die Mundschleimhaut verletzen und die Zunge blockieren. Die Unfähigkeit zu fressen führt zu schwerer Mangelernährung, Magen-Darm-Inaktivität (Stase) und dem Tod. Kontinuierliches Heukauen ist zur Vorbeugung zwingend erforderlich."
+          },
+          {
+            "question": "Warum dürfen Chinchillas niemals mit Wasser gebadet werden?",
+            "answer": "Chinchillas besitzen ein extrem dichtes Fell mit über 80 Haaren pro Follikel, das nach dem Nasswerden nicht von allein trocknet. Die eingeschlossene Feuchtigkeit führt zu schweren Pilzinfektionen der Haut oder tödlicher Unterkühlung."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Cuidado da Maloclusão e Temperatura da Chinchila: Rotina diária de 3 passos para desgaste dentário e prevenção contra hipertermia",
+        "description": "Chinchilas têm dentes de crescimento contínuo e são intolerantes ao calor e à umidade. Conheça a rotina com feno Timothy e banho de areia segundo padrões da AEMV.",
+        "authority": "Diretrizes de Manejo de Chinchilas da Association of Exotic Mammal Veterinarians (AEMV) e Padrões Clínicos de Odontologia de Roedores",
+        "profile": {
+          "breed": "Chinchila (Chinchilla lanigera)",
+          "lifespan": "10 ~ 15 anos",
+          "sleep_pattern": "12 ~ 14 horas (noturno, prefere redes ou tocas)",
+          "temperament": "Curioso, Energético, Sensível, Manso"
+        },
+        "intro": "Com uma pelagem sedosa e extremamente macia e um corpo arredondado adorável, a chinchila é um animal exótico de estimação muito querido. No entanto, ao contrário de cães e gatos, os dentes da chinchila crescem continuamente durante toda a vida, e o desalinhamento dos molares e incisivos frequentemente perfura a boca, causando dolorosas maloclusões. Além disso, por não possuírem glândulas sudoríparas e apresentarem uma densidade de pelo extrema, sofrem facilmente com intermação e hipertermia em ambientes quentes e úmidos. Neste guia, decodifica os sinais de dor dentária e estresse térmico da chinchila e apresenta uma rotina de 3 passos para proteger sua saúde.",
+        "whyTitle": "Linguagem corporal da chinchila: Salivação com descarte de feno e sinais de prostração por calor",
+        "whyDesc": "Se a chinchila apresentar **'salivação excessiva e descarte de feno'**, molhando o pelo ao redor do focinho, este é um forte sinal de alerta para maloclusão dentária grave. Por outro lado, **'deitar de lado com respiração acelerada'** indica um estado crítico de hipertermia que exige resfriamento imediato.",
+        "body_signals": [
+          {
+            "name": "Salivação e recusa de feno (Drooling)",
+            "meaning": "Dentes excessivamente longos decorrentes da maloclusão perfuram o céu da boca ou a parede interna da bochecha, impedindo a deglutição da saliva e bloqueando a mastigação devido à dor intensa.",
+            "response": "Leve o animal imediatamente a um hospital veterinário especializado em animais exóticos para realizar o desgasto ou corte dentário com instrumentos adequados."
+          },
+          {
+            "name": "Deitado de lado com respiração acelerada",
+            "meaning": "A temperatura ambiente elevada provocou um pico na temperatura corporal, deixando o animal exausto e em estresse térmico grave com vias aéreas dilatadas.",
+            "response": "Ligue o ar-condicionado imediatamente para baixar a temperatura ambiente para menos de 20 °C e coloque placas de mármore frio ou garrafas de água congelada enroladas em toalhas na gaiola."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Fornecimento ilimitado de feno Timothy rico em fibras duras",
+            "text": "Para evitar que os dentes cresçam continuamente sem controle, forneça sempre feno Timothy fresco e de fibra grossa para induzir o desgaste dentário natural durante a mastigação."
+          },
+          {
+            "name": "Tarde: Controle climático rigoroso o ano todo para prevenção de hipertermia e umidade",
+            "text": "Mantenha a temperatura do ambiente entre 18 e 21 °C e a umidade abaixo de 40-50% usando ar-condicionado e desumidificadores constantemente para recriar o clima alpino."
+          },
+          {
+            "name": "Noite: Sessão diária de 15 minutos de banho com pó de areia vulcânica",
+            "text": "Durante o período de atividade noturna, coloque um recipiente com areia de origem vulcânica na gaiola para remover o excesso de oleosidade da pelagem. (Banhos com água são estritamente proibidos)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que a maloclusão dentária é tão perigosa para as Chinchilas?",
+            "answer": "Dentes muito longos podem perfurar a mandíbula ou a mucosa bucal e travar os movimentos da língua. A incapacidade de se alimentar leva à desnutrição severa, estase gastrointestinal e óbito. A mastigação constante de feno é a única prevenção."
+          },
+          {
+            "question": "Por que nunca se deve dar banho em uma Chinchila com água?",
+            "answer": "A chinchila possui uma densidade de pelo impressionante de mais de 80 fios por folículo, tornando a secagem natural impossível quando molhada. A umidade presa causa dermatite fúngica grave ou hipotermia fatal."
+          }
+        ]
+      },
+      "id": {
+        "title": "Perawatan Maloklusi Gigi & Suhu Ruangan Chinchilla: Rutinitas Harian 3 Langkah untuk Pengikisan Gigi dan Pencegahan Heatstroke",
+        "description": "Chinchilla memiliki gigi yang tumbuh terus-menerus dan peka terhadap suhu panas. Pelajari 3 langkah rutinitas harian pemberian rumput Timothy hay dan mandi pasir berdasarkan panduan AEMV.",
+        "authority": "Pedoman Pemeliharaan Chinchilla Association of Exotic Mammal Veterinarians (AEMV) & Standar Klinis Kedokteran Gigi Hewan Pengerat",
+        "profile": {
+          "breed": "Chinchilla (Chinchilla lanigera)",
+          "lifespan": "10 ~ 15 tahun",
+          "sleep_pattern": "12 ~ 14 jam (nokturnal, menyukai tempat tidur gantung atau tempat bersembunyi)",
+          "temperament": "Ingin Tahu, Lincah, Sensitif, Lembut"
+        },
+        "intro": "Memiliki bulu yang sangat lembut seperti sutra dan tubuh bulat yang menggemaskan, chinchilla adalah hewan peliharaan eksotis yang sangat populer. Namun, tidak seperti anjing dan kucing, gigi chinchilla tumbuh terus-menerus sepanjang hidupnya. Akibatnya, posisi gigi geraham dan gigi seri yang tidak sejajar sering kali menusuk bagian dalam mulut hingga menyebabkan maloklusi yang menyakitkan. Selain itu, karena tidak memiliki kelenjar keringat dan memiliki bulu yang sangat padat, mereka sangat rentan terkena heatstroke di lingkungan yang panas dan lembap. Dalam panduan ini, mengulas sinyal sakit gigi dan stres panas pada chinchilla, serta menyajikan 3 langkah rutinitas harian untuk menjaga kesehatan mereka.",
+        "whyTitle": "Bahasa Tubuh Chinchilla: Air Liur Menetes dengan Makanan Terjatuh dan Tanda Kegerahan",
+        "whyDesc": "Jika chinchilla menunjukkan tanda **'air liur menetes dan memuntahkan rumput hay'** hingga membasahi bulu di sekitar mulutnya, ini adalah sinyal peringatan bahaya dari maloklusi gigi yang parah. Sementara itu, **'berbaring menyamping dengan napas cepat'** menandakan kondisi darurat akibat kepanasan yang membutuhkan tindakan pendinginan segera.",
+        "body_signals": [
+          {
+            "name": "Air Liur Menetes dan Memuntahkan Rumput Hay (Drooling)",
+            "meaning": "Gigi yang tumbuh terlalu panjang akibat maloklusi menusuk langit-langit mulut atau dinding pipi bagian dalam, menyebabkan rasa sakit luar biasa hingga tidak bisa menelan ludah dan tidak dapat mengunyah.",
+            "response": "Segera bawa ke rumah sakit hewan khusus hewan eksotis untuk mendapatkan perawatan pemotongan atau pengikiran gigi menggunakan peralatan medis khusus."
+          },
+          {
+            "name": "Berbaring Menyamping dengan Napas Cepat",
+            "meaning": "Suhu ruangan yang terlalu tinggi menyebabkan suhu tubuh melonjak drastis, membuat chinchilla lemas dengan saluran napas membesar dalam kondisi stres panas.",
+            "response": "Segera nyalakan AC untuk menurunkan suhu ruangan di bawah 20 °C, serta letakkan ubin batu marmer dingin atau botol air es yang dibungkus handuk di dalam kandang."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pemberian Rumput Timothy Hay Berserat Kasar Tanpa Batas",
+            "text": "Untuk mencegah gigi tumbuh tanpa henti, sediakan rumput timothy hay yang segar dan berserat kasar setiap saat agar giginya terkikis secara alami selama proses mengunyah."
+          },
+          {
+            "name": "Siang: Kontrol Suhu dan Kelembapan Ruangan Sepanjang Tahun",
+            "text": "Jaga suhu ruangan pada 18–21 °C dan kelembapan di bawah 40–50% sepanjang tahun menggunakan AC dan dehumidifier untuk menciptakan iklim pegunungan yang sejuk."
+          },
+          {
+            "name": "Malam: Sesi Mandi Pasir Debu Vulkanik Khusus 15 Menit Sekali Sehari",
+            "text": "Pada jam aktif malam hari, sediakan wadah khusus mandi pasir debu vulkanik di dalam kandang untuk menyerap kelebihan minyak dari bulu tebal mereka. (Sangat dilarang memandikan dengan air)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa maloklusi gigi sangat berbahaya bagi Chinchilla?",
+            "answer": "Gigi yang terlalu panjang dapat menembus tulang rahang atau mukosa mulut dan menghalangi gerakan lidah. Ketidakmampuan untuk makan menyebabkan malnutrisi parah, stasis pencernaan, hingga kematian. Mengunyah rumput hay secara terus-menerus adalah kunci pencegahannya."
+          },
+          {
+            "question": "Mengapa Chinchilla sama sekali tidak boleh dimandikan dengan air?",
+            "answer": "Chinchilla memiliki kepadatan bulu yang luar biasa dengan lebih dari 80 helai rambut tumbuh dari satu folikel, sehingga mustahil kering secara alami jika basah. Air yang terperangkap akan menyebabkan infeksi jamur kulit yang parah atau hipotermia yang mematikan."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/chinchilla_care.webp"
+  }
 }

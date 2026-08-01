@@ -1,406 +1,406 @@
 {
-    "how-to-store-ginger": {
-        "ingId": "ginger",
-        "pubDate": "2026-05-28",
-        "updatedDate": "2026-05-28",
-        "heroImage": "/images/blog/ginger_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "생강 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 생강의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
-                "intro": "알싸한 풍미와 다채로운 요리에 쓰이는 생강을 사 왔다가 며칠 만에 곰팡이가 피거나 말라 비틀어져 버린 적 있으시죠? 🫚\n\n생강은 수분과 섬유질이 풍부하지만 습기에는 매우 약해 곰팡이가 잘 생기고, 반대로 공기 중에 오래 노출되면 수분이 빠져나가 나무토막처럼 딱딱해집니다. 특히 곰팡이가 핀 생강은 강력한 독소가 생강 전체로 퍼지므로 보관 시 세심한 주의가 필요합니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 생강 신선도 극대화 3단계 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "보관 전에 물로 씻지 마세요 💧",
-                        "desc": "생강은 흙이 묻은 상태가 자체 보호막 역할을 합니다. 물에 씻으면 꼭지나 껍질 상처 부위로 수분이 침투하여 곰팡이와 세균이 번식하기 매우 쉬운 환경이 됩니다. 흙만 털어내고 먹기 직전에 씻으세요."
-                    },
-                    {
-                        "title": "곰팡이가 살짝이라도 핀 생강은 절대 먹지 마세요 ⚠️",
-                        "desc": "생강이 부패하거나 곰팡이가 피면 '사프롤(Safrole)' 등의 독성 물질이 생강 전체로 번집니다. 곰팡이 핀 부분만 도려내더라도 독소가 섬유질을 타고 깊숙이 퍼져 있으므로, 곰팡이가 생겼다면 즉시 통째로 버려야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "흙을 털어내고 신문지/키친타월로 감싸기 — 수분 조절 및 단기 보관 (1 ~ 2주) 📦",
-                        "text": "생강 표면의 습기를 잡고 건조를 막는 것이 핵심입니다. 💡 보관 팁: 씻지 않은 생강의 흙을 가볍게 털어낸 뒤, 키친타월이나 신문지로 한 덩이씩 감싸 서늘한 상온(10 ~ 15℃) 또는 냉장고 야채칸에 보관하세요."
-                    },
-                    {
-                        "name": "편으로 썰거나 다져서 용도별로 손질하기 — 활용도 극대화 🔪",
-                        "text": "생강은 통째로 오래 보관하기보다 요리 용도에 맞게 미리 손질해 두는 것이 수분 손실을 막고 위생적입니다. 💡 보관 팁: 껍질을 벗긴 뒤 찌개·탕용 편생강이나 양념용 다진 생강으로 구분하여 손질하세요."
-                    },
-                    {
-                        "name": "지퍼백에 평평하게 담아 소분 냉동 보관하기 — 냉동 보관 (6개월~1년) ❄️",
-                        "text": "손질한 생강은 공기를 차단하여 냉동실에 보관해야 풍미와 알싸한 성분(진저롤)이 유지됩니다. 💡 보관 팁: 다진 생강을 지퍼백에 넣고 납작하게 편 뒤 칼등으로 격자 모양 선을 그어 냉동실(-18℃ 이하)에 얼리세요. 필요할 때 한 조각씩 부러뜨려 쓰면 매우 편리합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "생강에 곰팡이가 피었을 때 윗부분만 깎아내고 써도 되나요?",
-                        "answer": "절대로 안 됩니다. 생강에 발생하는 곰팡이독소(사프롤 등)는 간 독성을 유발할 수 있으며, 수분과 섬유질이 많은 생강 특성상 눈에 보이지 않는 내부 깊은 곳까지 독소가 퍼져 있습니다. 일부에만 곰팡이가 폈더라도 반드시 통째로 폐기해야 합니다."
-                    },
-                    {
-                        "question": "생강을 냉장 보관할 때 변색이나 부패를 막는 다른 방법이 있나요?",
-                        "answer": "껍질을 벗긴 생강을 밀폐 용기에 담고 생강이 잠길 정도로 소주(또는 청주)나 물을 자작하게 부어 냉장 보관하면 1 ~ 2개월 동안 변색 없이 신선하게 사용할 수 있습니다. 물을 사용할 경우 2 ~ 3일에 한 번씩 새 물로 갈아주어야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Ginger Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for ginger based on official safety guidelines.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Have you ever bought fresh ginger only to find it covered in mold or dried up like a piece of wood after a few days? 🫚\n\nGinger is rich in moisture and fiber, but it is extremely sensitive to humidity, which quickly causes mold. Conversely, prolonged exposure to dry air evaporates its internal moisture, leaving it tough and fibrous. Moreover, moldy ginger develops dangerous mycotoxins, requiring careful storage practices.\n\nIn this guide, introduces a scientifically proven 3-step ginger storage guide recommended by agriculture and food safety experts to preserve peak freshness and flavor. 🛡️",
-                "whyTitle": "Why Store Ginger This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Do not wash ginger before storing 💧",
-                        "desc": "Dry soil on unwashed ginger acts as a natural protective barrier. Washing ginger allows moisture to penetrate skin crevices, creating an ideal environment for mold and bacterial growth. Simply brush off excess soil and wash right before cooking."
-                    },
-                    {
-                        "title": "Never consume ginger that has any mold on it ⚠️",
-                        "desc": "When ginger rots or molds, harmful toxins such as safrole spread throughout the root. Even if you cut away the moldy portion, invisible mycotoxins penetrate deep into the fibrous tissue. Always discard the entire root if mold appears."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Brush off soil and wrap in paper towels — Moisture Control (1–2 Weeks) 📦",
-                        "text": "Managing moisture while preventing dehydration is key. 💡 Storage Tip: Lightly brush off loose soil from unwashed ginger, wrap each piece tightly in paper towels or newspaper, and store at cool room temperature (10–15°C) or in the refrigerator crisper drawer."
-                    },
-                    {
-                        "name": "Slice or mince ginger for intended culinary uses — Prep Optimization 🔪",
-                        "text": "Pre-portioning ginger for cooking prevents moisture loss and extends usability compared to keeping whole roots. 💡 Storage Tip: Peel and either slice into rounds for soups/teas or mince fine for marinades and seasonings."
-                    },
-                    {
-                        "name": "Flatten in Ziploc bags and freeze — Frozen Storage (6 Months–1 Year) ❄️",
-                        "text": "Sealing prepped ginger from air locks in its aromatic gingerol compounds. 💡 Storage Tip: Place minced ginger into a Ziploc bag, flatten it thin, and use the back of a knife to score grid lines before freezing (-18°C). Break off individual cubes whenever needed."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Can I just cut off the moldy part of ginger and use the rest?",
-                        "answer": "No, absolutely not. Mold on ginger produces mycotoxins (such as safrole) that can cause liver toxicity. Because ginger is porous and fibrous, toxins spread deep throughout the root even if not visibly apparent. Always throw away the entire ginger piece if mold is present."
-                    },
-                    {
-                        "question": "Is there another way to keep peeled ginger fresh in the refrigerator?",
-                        "answer": "Place peeled ginger in an airtight glass container submerged in cooking sake, vodka, or water, and store in the fridge. Alcohol preserves ginger for 1–2 months without discoloration. If using water, change it every 2 to 3 days."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "生姜を新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づく生姜の最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "生姜を買って置いておいたら、たった数日でカビが生えたり、乾燥して木のように硬くなってしまった経験はありませんか？🫚\n\n生姜は水分と繊維質が豊富ですが、湿気に弱くカビが生えやすい反面、空気中に放置すると水分が抜けて固くなってしまいます。特にカビの生えた生姜には強力なカビ毒が発生するため、保存には特別な注意が必要です。\n\n本記事では、専門家が推奨する生姜の鮮度と風味を最大化する科学的で確実な3段階の保存のコツをご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合わせた正しい保存方法を実践することは 鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "保存する前に水で洗わないでください 💧",
-                        "desc": "土がついた状態の皮は天然の保護膜です。水洗いすると皮の隙間から水分が入り込み、カビや雑菌が繁殖する原因になります。泥を軽く払い落とすにとどめ、洗うのは調理の直前にしましょう。"
-                    },
-                    {
-                        "title": "少しでもカビが生えた生姜は絶対に食べないでください ⚠️",
-                        "desc": "生姜が腐敗してカビが生えると、「サフロール」などの有害なカビ毒が内部全体に広がります。カビた部分を切り落としても毒素は繊維を伝って奥深くまで浸透しているため、カビを見つけたら丸ごと廃棄してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "泥を払い落としてキッチンペーパーで包む — 湿気調整と短期保存 (1〜2週間) 📦",
-                        "text": "表面の余分な湿気を抑えつつ乾燥を防ぐことが重要です。💡保存のコツ：洗わずに泥を軽く払い落とし、1塊ずつキッチンペーパーや新聞紙で包んで涼しい常温（10〜15℃）または冷蔵庫の野菜室で保存します。"
-                    },
-                    {
-                        "name": "スライスやみじん切りにして用途別に下処理する — 活用度の最大化 🔪",
-                        "text": "丸ごと保存するよりも、料理の用途に合わせてあらかじめカットしておく方が水分蒸発を防ぎ衛生的に使えます。💡保存のコツ：皮をむき、煮物用の薄切りや薬味用みじん切りに切り分けておきましょう。"
-                    },
-                    {
-                        "name": "ジッパーバッグに平らに伸ばして冷凍保存する — 冷凍保存 (6ヶ月〜1年) ❄️",
-                        "text": "空気を遮断して冷凍することで、生姜特有の辛味成分（ジンゲロール）や香りを長期間保持できます。💡保存のコツ：みじん切り生姜をジッパーバッグに入れて平らに伸ばし、包丁の背で格子状の筋をつけて冷凍（-18℃以下）します。必要な分だけポキッと折って使えて便利です。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "生姜にカビが生えた場合、カビの部分だけ切り落とせば使えますか？",
-                        "answer": "絶対にやめてください。生姜に発生するカビ毒（サフロール等）は肝毒性を引き起こす恐れがあり、水分と繊維の多い生姜の内部深くへ目に見えない毒素が侵入しています。一部だけにカビが見えても必ず丸ごと廃棄してください。"
-                    },
-                    {
-                        "question": "むき生姜を冷蔵庫で長持ちさせる方法はありますか？",
-                        "answer": "皮をむいた生姜を密閉容器に入れ、生姜が浸る程度の焼酎（または清酒）や水を注いで冷蔵保存すると、1〜2ヶ月間変色せずに新鮮さを保てます。水を使用する場合は2〜3日ごとに新しい水に入れ替えてください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持生姜新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解生姜的最佳储存温度、方式和保鲜时长。",
-                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "您是否曾买回生姜放在家里，没过几天就发现发霉腐烂，或者干瘪得像木头一样？🫚\n\n生姜富含水分和纤维，但对湿度非常敏感，极易滋生霉菌；反之，若长期暴露在干燥空气中，水分蒸发会导致姜肉干硬发柴。特别是发霉的生姜会产生强效霉菌毒素，因此储存时需格外谨慎。\n\n本指南将为您介绍由农业及食品安全专家推荐的科学3步生姜保鲜秘诀，帮您最大程度锁定辛辣浓郁的风味。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "储存前切勿用水清洗 💧",
-                        "desc": "带有泥土的外皮是生姜的天然保护屏障。用水清洗会导致水分渗入表皮缝隙，为霉菌和细菌滋生提供温床。只需刷掉干泥，食用前再清洗。"
-                    },
-                    {
-                        "title": "绝不可食用任何发霉的生姜 ⚠️",
-                        "desc": "生姜发霉腐烂时，会产生具有肝毒性的“黄樟素（Safrole）”等毒素。即便切除发霉部位，肉眼不可见的毒素早已顺着纤维渗透至内部。一旦发霉，必须整块丢弃。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "刷掉泥土后用厨房纸巾包裹 — 控湿与短期储存 (1 ~ 2周) 📦",
-                        "text": "控制表面湿度并防止干瘪是关键。💡储存小贴士：切勿清洗，刷掉干泥后用厨房纸巾或报纸单块紧密包裹，存放在阴凉常温（10 ~ 15℃）或冰箱蔬菜保鲜层。"
-                    },
-                    {
-                        "name": "切片或切末按需切配 — 提升使用便利度 🔪",
-                        "text": "相比整块保存，按烹饪用途提前切配更能防止水分流失。💡储存小贴士：去皮后分别切成用于炖汤的姜片，或用于调味的姜末。"
-                    },
-                    {
-                        "name": "平铺装入拉链袋冷冻 — 冷冻储存 (6个月~1年) ❄️",
-                        "text": "隔绝空气冷冻可完好锁住姜辣素（Gingerol）和芳香风味。💡储存小贴士：将姜末装入拉链袋排尽空气并压平，用刀背划出方格压痕后放入冷冻室（-18℃以下）。使用时轻松折下一小块即可。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "生姜局部发霉，把发霉部位切掉后还能吃吗？",
-                        "answer": "绝对不能。生姜发霉产生的霉菌毒素（如黄樟素）具有强毒性，且生姜纤维丰富，毒素早已渗透至肉眼看不到的深层。即使只有一小块发霉，也必须整块扔掉。"
-                    },
-                    {
-                        "question": "冷藏保存去皮生姜有什么防变质的小妙招吗？",
-                        "answer": "将去皮生姜放入密封玻璃瓶中，倒入淹没生姜的白酒（或清酒）或清水冷藏，可保持1 ~ 2个月不变色不变质。若使用清水，需每2 ~ 3天更换一次干净水源。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener el jengibre fresco: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el jengibre según las directrices oficiales de seguridad.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "¿Alguna vez compró jengibre fresco solo para descubrir a los pocos días que estaba cubierto de moho o seco como una pieza de madera? 🫚\n\nEl jengibre es rico en agua y fibra, pero es extremadamente sensible a la humedad, la cual genera moho rápidamente. Por el contrario, la exposición prolongada al aire seca su interior volviéndolo duro y leñoso. Además, el jengibre mohoso desarrolla micotoxinas peligrosas, por lo que requiere un almacenamiento cuidadoso.\n\nEn esta guía se presenta una guía de conservación del jengibre en 3 pasos respaldada por expertos para preservar su máxima frescura y sabor. 🛡️",
-                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "No lave el jengibre antes de guardarlo 💧",
-                        "desc": "La tierra seca en la piel del jengibre actúa como una barrera protectora natural. Lavarlo permite que la humedad penetre en las grietas, creando un entorno ideal para mohos y bacterias. Limpie la tierra con un cepillo seco y lávelo justo antes de cocinar."
-                    },
-                    {
-                        "title": "Nunca consuma jengibre que tenga moho ⚠️",
-                        "desc": "Cuando el jengibre se pudre o se amohosa, toxinas dañinas como el safrol se propagan por toda la raíz. Aunque corte la parte mohosa, las micotoxinas penetran profundamente en las fibras. Deseche siempre la pieza entera si aparece moho."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Sacuda la tierra y envuelva en papel de cocina — Control de humedad (1-2 semanas) 📦",
-                        "text": "Gestionar la humedad evitando la deshidratación es fundamental. 💡 Consejo de almacenamiento: Retire la tierra con un cepillo seco, envuelva cada pieza en papel absorbente o periódico y guárdela a temperatura ambiente fresca (10-15 °C) o en el cajón de verduras."
-                    },
-                    {
-                        "name": "Corte en rodajas o pique según el uso culinario — Optimización de uso 🔪",
-                        "text": "Porcionar el jengibre con antelación evita la pérdida de humedad respecto a mantener la pieza entera. 💡 Consejo de almacenamiento: Pele el jengibre y córtelo en rodajas para guisos/tés o píquelo finamente para adobos."
-                    },
-                    {
-                        "name": "Aplane en bolsas Ziploc y congele — Conservación congelada (6 meses - 1 año) ❄️",
-                        "text": "Sellar el jengibre picado evitando el aire conserva el gingerol y sus aromas. 💡 Consejo de almacenamiento: Introduzca el jengibre picado en una bolsa Ziploc, aplánelo y marque divisiones cuadradas con el lomo de un cuchillo antes de congelar (-18 °C). Rompa una porción cuando la necesite."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Puedo cortar la parte mohosa del jengibre y usar el resto?",
-                        "answer": "No, en absoluto. El moho del jengibre produce micotoxinas (como el safrol) que provocan toxicidad hepática. Debido a su estructura porosa y fibrosa, las toxinas se filtran profundamente. Deseche siempre toda la pieza si nota moho."
-                    },
-                    {
-                        "question": "¿Existe alguna forma de conservar el jengibre pelado en el refrigerador?",
-                        "answer": "Sumerja el jengibre pelado en un frasco hermético lleno de sake, vodka o agua, y guárdelo en el refrigerador. El alcohol lo conserva de 1 a 2 meses sin decoloración. Si utiliza agua, cámbiela cada 2 o 3 días."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver le gingembre frais : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le gingembre selon les directives officielles de sécurité.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Avez-vous déjà acheté du gingembre frais pour constater quelques jours plus tard qu'il était couvert de moisissure ou desséché comme du bois ? 🫚\n\nLe gingembre est riche en eau et en fibres, mais il est très sensible à l'humidité qui provoque rapidement des moisissures. À l'inverse, l'air sec évapore son humidité intérieure, le rendant dur et fibreux. De plus, le gingembre moisi développe des mycotoxines dangereuses, exigeant un stockage très rigoureux.\n\nDans ce guide, vous présente un guide scientifique de conservation du gingembre en 3 étapes recommandé par des experts pour préserver sa fraîcheur et son piquant. 🛡️",
-                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne lavez pas le gingembre avant de le stocker 💧",
-                        "desc": "La terre sèche sur la peau sert de barrière naturelle. Laver le gingembre permet à l'eau de pénétrer dans les fissures, favorisant les moisissures. Brossez simplement la terre sèche et ne le lavez qu'au moment de cuisiner."
-                    },
-                    {
-                        "title": "Ne consommez jamais du gingembre qui présente de la moisissure ⚠️",
-                        "desc": "Lorsque le gingembre moisit, des toxines nocives comme le safrole se propagent dans toute la racine. Même si vous coupez la partie moisie, les mycotoxines s'infiltrent profondément dans les fibres. Jetez toujours le morceau entier."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Brosser la terre et envelopper dans du papier absorbant — Contrôle de l'humidité (1-2 semaines) 📦",
-                        "text": "Gérer l'humidité tout en évitant le dessèchement est la clé. 💡 Astuce de conservation : Brossez la terre sèche, enveloppez chaque morceau dans de l'essuie-tout ou du journal, et conservez à température ambiante fraîche (10–15 °C) ou au bac à légumes."
-                    },
-                    {
-                        "name": "Trancher ou hacher selon l'usage culinaire — Préparation optimale 🔪",
-                        "text": "Pré-portionner le gingembre évite la perte d'humidité par rapport à une conservation entière. 💡 Astuce de conservation : Épluchez et coupez en rondelles pour les bouillons/infusions ou hachez finement pour les marinades."
-                    },
-                    {
-                        "name": "Aplatir en sac Ziploc et congeler — Congélation (6 mois - 1 an) ❄️",
-                        "text": "Protéger le gingembre de l'air préserve ses composants aromatiques (gingérol). 💡 Astuce de conservation : Mettez le gingembre haché dans un sac congélation, aplatissez-le et pré-découpez des carrés avec le dos d'un couteau avant de congeler à -18 °C."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Puis-je simplement couper la partie moisie du gingembre et utiliser le reste ?",
-                        "answer": "Non, absolument pas. La moisissure du gingembre sécrète des mycotoxines (telles que le safrole) toxiques pour le foie. Les fibres du gingembre laissent s'infiltrer les toxines très profondément. Jetez toujours le morceau entier si de la moisissure apparaît."
-                    },
-                    {
-                        "question": "Comment conserver le gingembre épluché au réfrigérateur sans qu'il s'abîme ?",
-                        "answer": "Plongez le gingembre épluché dans un bocal hermétique rempli d'alcool (saké, vodka) ou d'eau, et conservez au frais. L'alcool le préserve pendant 1 à 2 mois sans décoloration. Si vous utilisez de l'eau, changez-la tous les 2 à 3 jours."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Ingwer richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Ingwer basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Haben Sie frischen Ingwer gekauft, nur um nach wenigen Tagen festzustellen, dass er schimmelig war oder wie Holz austrocknete? 🫚\n\nIngwer ist reich an Feuchtigkeit und Fasern, reagiert jedoch extrem empfindlich auf Nässe, die rasch Schimmel verursacht. Umgekehrt lässt trockene Luft das Innere verdunsten, wodurch die Knolle holzig wird. Zudem bildet schimmeliger Ingwer gefährliche Mykotoxine, weshalb die richtige Lagerung entscheidend ist.\n\nIn diesem Ratgeber erfahren Sie einen von Experten empfohlenen, wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Schärfe und Frische Ihres Ingwers zu bewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Ingwer vor der Lagerung nicht waschen 💧",
-                        "desc": "Trockene Erde auf der Schale dient als natürlicher Schutzschild. Waschen lässt Feuchtigkeit in Risse eindringen und schafft einen Nährboden für Schimmel. Bürsten Sie Erde nur trocken ab und waschen Sie Ingwer erst vor dem Kochen."
-                    },
-                    {
-                        "title": "Niemals Ingwer mit Schimmelbefall verzehren ⚠️",
-                        "desc": "Schimmelt Ingwer, breiten sich krebserregende und lebertoxische Substanzen wie Safrol in der Knolle aus. Selbst wenn die Stelle abgeschnitten wird, dringen die Gifte tief in das Gewebe ein. Werfen Sie schimmeligen Ingwer immer komplett weg."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Erde abbürsten und in Küchenpapier einwickeln — Feuchtigkeitskontrolle (1–2 Wochen) 📦",
-                        "text": "Feuchtigkeit ausgleichen und Austrocknen verhindern ist das Ziel. 💡 Lagerungstipp: Erde trocken abbürsten, Stücke einzeln in Küchenpapier oder Zeitung wickeln und bei kühlen 10–15 °C oder im Gemüsefach aufbewahren."
-                    },
-                    {
-                        "name": "In Scheiben schneiden oder hacken — Vorbereitung für die Küche 🔪",
-                        "text": "Portionieren schützt besser vor Feuchtigkeitsverlust als das Aufbewahren einer großen Knolle. 💡 Lagerungstipp: Schälen und entweder in Scheiben für Suppen/Tees schneiden oder fein hacken für Marinaden."
-                    },
-                    {
-                        "name": "Im Ziploc-Beutel flachdrücken und einfrieren — Gefrierlagerung (6 Monate–1 Jahr) ❄️",
-                        "text": "Luftdichtes Einfrieren bewahrt das scharfe Gingerol und die Aromen. 💡 Lagerungstipp: Gehackten Ingwer im Beutel flachdrücken, mit dem Messer rastern und unter -18 °C einfrieren. Bei Bedarf einfach einzelne Würfel abbrechen."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Kann man verschimmelten Ingwer großzügig abschneiden und weiterverwenden?",
-                        "answer": "Nein, auf keinen Fall. Schimmelpilze auf Ingwer bilden Mykotoxine (wie Safrol), die leberschädigend wirken. Da Ingwer faserig und feucht ist, verteilen sich die Gifte unsichtbar in der gesamten Knolle. Entsorgen Sie schimmeligen Ingwer stets vollständig."
-                    },
-                    {
-                        "question": "Wie bleibt geschälter Ingwer im Kühlschrank lange frisch?",
-                        "answer": "Legen Sie geschälten Ingwer in ein Schraubglas mit Sake, Wodka oder Wasser und stellen Sie ihn in den Kühlschrank. Alkohol konserviert den Ingwer 1–2 Monate ohne Verfärbung. Bei Wasser muss dieses alle 2 bis 3 Tage erneuert werden."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar gengibre fresco: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para o gengibre com base em diretrizes oficiais de segurança.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Você já comprou gengibre fresco e em poucos dias percebeu que ele mofou ou ressecou como um pedaço de madeira? 🫚\n\nO gengibre é rico em umidade e fibras, mas é extremamente sensível à umidade excessiva, que causa mofo rapidamente. Por outro lado, a exposição prolongada ao ar evapora sua umidade interna, deixando-o duro e fibroso. Além disso, o gengibre mofado desenvolve micotoxinas perigosas, exigindo um armazenamento cuidadoso.\n\nNeste guia, apresentamos um guia de conservação do gengibre em 3 etapas recomendado por especialistas para manter o frescor e o sabor picante. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Não lave o gengibre antes de guardar 💧",
-                        "desc": "A terra seca na casca funciona como uma proteção natural. Lavar o gengibre permite que a umidade penetre nas frestas, criando o ambiente perfeito para fungos e bactérias. Escove a terra seca e lave apenas antes de cozinhar."
-                    },
-                    {
-                        "title": "Nunca consuma gengibre que apresente mofo ⚠️",
-                        "desc": "Quando o gengibre mofa, toxinas prejudiciais como o safrol se espalham por toda a raiz. Mesmo cortando a parte mofada, as micotoxinas penetram fundo nas fibras. Descarte sempre a peça inteira caso surja mofo."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Escovar a terra e embrulhar em papel-toalha — Controle de umidade (1 a 2 semanas) 📦",
-                        "text": "Controlar a umidade e evitar o ressecamento é o segredo. 💡 Dica de conservação: Retire a terra com escova seca, embrulhe cada pedaço em papel-toalha ou jornal e guarde em local fresco (10-15 °C) ou na gaveta de legumes."
-                    },
-                    {
-                        "name": "Fatiar ou picar conforme o uso culinário — Otimização do preparo 🔪",
-                        "text": "Porcionar o gengibre com antecedência evita a perda de umidade em relação ao pedaço inteiro. 💡 Dica de conservação: Descasque e corte em rodelas para chás/sopas ou pique fino para temperos e marinadas."
-                    },
-                    {
-                        "name": "Aplanar em sacos Ziploc e congelar — Congelamento (6 meses a 1 ano) ❄️",
-                        "text": "Vedar o gengibre do ar preserva o gingerol e seus aromas picantes. 💡 Dica de conservação: Coloque o gengibre picado no saco Ziploc, achate e marque quadriculados com as costas de uma faca antes de congelar a -18 °C. Destaque um cubo sempre que precisar."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Posso cortar a parte mofada do gengibre e usar o resto?",
-                        "answer": "Não, de jeito nenhum. O mofo no gengibre produz micotoxinas (como o safrol) que causam toxicidade hepática. Como o gengibre é fibroso, as toxinas se espalham profundamente. Jogue fora a peça inteira se houver mofo."
-                    },
-                    {
-                        "question": "Existe alguma forma de conservar gengibre descascado na geladeira?",
-                        "answer": "Mergulhe o gengibre descascado num pote hermético com saquê, vodca ou água, e guarde na geladeira. O álcool conserva por 1 a 2 meses sem descolorir. Se usar água, troque-a a cada 2 ou 3 dias."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Jahe agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk jahe berdasarkan pedoman keselamatan resmi.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Pernahkah Anda membeli jahe segar lalu mendapati rimpangnya berjamur atau mengering keras seperti kayu setelah beberapa hari? 🫚\n\nJahe kaya akan air dan serat, tetapi sangat sensitif terhadap kelembapan tinggi yang memicu tumbuhnya jamur. Sebaliknya, paparan udara kering membuat kadar airnya menguap sehingga teksturnya menjadi keras dan berserat. Selain itu, jahe yang berjamur menghasilkan mikotoksin berbahaya sehingga membutuhkan penyimpanan yang tepat.\n\nDalam panduan ini, kami membagikan panduan penyimpanan jahe 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan untuk menjaga kesegaran dan rasa pedas khasnya. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan mencuci jahe sebelum disimpan 💧",
-                        "desc": "Tanah kering pada kulit jahe berfungsi sebagai pelindung alami. Mencuci jahe menyebabkan air meresap ke celah kulit, menciptakan lingkungan ideal bagi jamur dan bakteri. Cukup sikat tanahnya dan cucilah tepat sebelum dimasak."
-                    },
-                    {
-                        "title": "Jangan pernah mengonsumsi jahe yang sudah berjamur ⚠️",
-                        "desc": "Saat jahe membusuk atau berjamur, racun berbahaya seperti safrol menyebar ke seluruh rimpang. Meskipun bagian yang berjamur dipotong, mikotoksin yang tak terlihat telah meresap jauh ke dalam serat. Selalu buang seluruh rimpang jika berjamur."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Bersihkan tanah dan bungkus dengan tisu dapur — Kontrol Kelembapan (1–2 Minggu) 📦",
-                        "text": "Mengontrol kelembapan sekaligus mencegah kekeringan adalah kuncinya. 💡 Tips Penyimpanan: Sikat tanah kering pada jahe, bungkus setiap rimpang dengan tisu dapur atau koran, lalu simpan di suhu ruang sejuk (10–15°C) atau laci sayur kulkas."
-                    },
-                    {
-                        "name": "Iris atau cincang sesuai kebutuhan masakan — Optimasi Penggunaan 🔪",
-                        "text": "Memotong jahe terlebih dahulu mencegah kehilangan kadar air dibandingkan menyimpan rimpang utuh. 💡 Tips Penyimpanan: Kupas kulitnya lalu iris tipis untuk sup/teh atau cincang halus untuk bumbu marinasi."
-                    },
-                    {
-                        "name": "Ratakan dalam kantong Ziploc lalu bekukan — Simpan Beku (6 Bulan–1 Tahun) ❄️",
-                        "text": "Menyegel jahe cincang dari udara menjaga kandungan gingerol dan aroma pedasnya. 💡 Tips Penyimpanan: Masukkan jahe cincang ke kantong Ziploc, ratakan tipis, lalu beri garis kotak-kotak dengan punggung pisau sebelum dibekukan (-18°C). Patahkan satu kotak saat ingin menggunakannya."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apakah boleh memotong bagian jahe yang berjamur dan memakai sisanya?",
-                        "answer": "Sama sekali tidak boleh. Jamur pada jahe menghasilkan mikotoksin (seperti safrol) yang beracun bagi hati. Karena serat jahe mudah menyerap racun hingga ke bagian dalam, selalu buang seluruh rimpang jika ada bagian yang berjamur."
-                    },
-                    {
-                        "question": "Apakah ada cara menyimpan jahe kupas di kulkas agar awet?",
-                        "answer": "Masukkan jahe kupas ke dalam wadah kaca kedap udara lalu rendam dengan sisa arak masak/soju/vodka atau air bersih, lalu simpan di kulkas. Rendaman alkohol menjaga jahe selama 1–2 bulan tanpa berubah warna. Jika menggunakan air, gantilah airnya setiap 2 hingga 3 hari."
-                    }
-                ]
-            }
-        }
+  "how-to-store-ginger": {
+    "ingId": "ginger",
+    "pubDate": "2026-05-28",
+    "updatedDate": "2026-05-28",
+    "heroImage": "/images/blog/ginger_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "생강 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 생강의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+        "intro": "알싸한 풍미와 다채로운 요리에 쓰이는 생강을 사 왔다가 며칠 만에 곰팡이가 피거나 말라 비틀어져 버린 적 있으시죠? 🫚\n\n생강은 수분과 섬유질이 풍부하지만 습기에는 매우 약해 곰팡이가 잘 생기고, 반대로 공기 중에 오래 노출되면 수분이 빠져나가 나무토막처럼 딱딱해집니다. 특히 곰팡이가 핀 생강은 강력한 독소가 생강 전체로 퍼지므로 보관 시 세심한 주의가 필요합니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 생강 신선도 극대화 3단계 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "보관 전에 물로 씻지 마세요 💧",
+            "desc": "생강은 흙이 묻은 상태가 자체 보호막 역할을 합니다. 물에 씻으면 꼭지나 껍질 상처 부위로 수분이 침투하여 곰팡이와 세균이 번식하기 매우 쉬운 환경이 됩니다. 흙만 털어내고 먹기 직전에 씻으세요."
+          },
+          {
+            "title": "곰팡이가 살짝이라도 핀 생강은 절대 먹지 마세요 ⚠️",
+            "desc": "생강이 부패하거나 곰팡이가 피면 '사프롤(Safrole)' 등의 독성 물질이 생강 전체로 번집니다. 곰팡이 핀 부분만 도려내더라도 독소가 섬유질을 타고 깊숙이 퍼져 있으므로, 곰팡이가 생겼다면 즉시 통째로 버려야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "흙을 털어내고 신문지/키친타월로 감싸기 — 수분 조절 및 단기 보관 (1 ~ 2주) 📦",
+            "text": "생강 표면의 습기를 잡고 건조를 막는 것이 핵심입니다. 💡 보관 팁: 씻지 않은 생강의 흙을 가볍게 털어낸 뒤, 키친타월이나 신문지로 한 덩이씩 감싸 서늘한 상온(10 ~ 15℃) 또는 냉장고 야채칸에 보관하세요."
+          },
+          {
+            "name": "편으로 썰거나 다져서 용도별로 손질하기 — 활용도 극대화 🔪",
+            "text": "생강은 통째로 오래 보관하기보다 요리 용도에 맞게 미리 손질해 두는 것이 수분 손실을 막고 위생적입니다. 💡 보관 팁: 껍질을 벗긴 뒤 찌개·탕용 편생강이나 양념용 다진 생강으로 구분하여 손질하세요."
+          },
+          {
+            "name": "지퍼백에 평평하게 담아 소분 냉동 보관하기 — 냉동 보관 (6개월~1년) ❄️",
+            "text": "손질한 생강은 공기를 차단하여 냉동실에 보관해야 풍미와 알싸한 성분(진저롤)이 유지됩니다. 💡 보관 팁: 다진 생강을 지퍼백에 넣고 납작하게 편 뒤 칼등으로 격자 모양 선을 그어 냉동실(-18℃ 이하)에 얼리세요. 필요할 때 한 조각씩 부러뜨려 쓰면 매우 편리합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "생강에 곰팡이가 피었을 때 윗부분만 깎아내고 써도 되나요?",
+            "answer": "절대로 안 됩니다. 생강에 발생하는 곰팡이독소(사프롤 등)는 간 독성을 유발할 수 있으며, 수분과 섬유질이 많은 생강 특성상 눈에 보이지 않는 내부 깊은 곳까지 독소가 퍼져 있습니다. 일부에만 곰팡이가 폈더라도 반드시 통째로 폐기해야 합니다."
+          },
+          {
+            "question": "생강을 냉장 보관할 때 변색이나 부패를 막는 다른 방법이 있나요?",
+            "answer": "껍질을 벗긴 생강을 밀폐 용기에 담고 생강이 잠길 정도로 소주(또는 청주)나 물을 자작하게 부어 냉장 보관하면 1 ~ 2개월 동안 변색 없이 신선하게 사용할 수 있습니다. 물을 사용할 경우 2 ~ 3일에 한 번씩 새 물로 갈아주어야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Ginger Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for ginger based on official safety guidelines.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Have you ever bought fresh ginger only to find it covered in mold or dried up like a piece of wood after a few days? 🫚\n\nGinger is rich in moisture and fiber, but it is extremely sensitive to humidity, which quickly causes mold. Conversely, prolonged exposure to dry air evaporates its internal moisture, leaving it tough and fibrous. Moreover, moldy ginger develops dangerous mycotoxins, requiring careful storage practices.\n\nIn this guide, introduces a scientifically proven 3-step ginger storage guide recommended by agriculture and food safety experts to preserve peak freshness and flavor. 🛡️",
+        "whyTitle": "Why Store Ginger This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Do not wash ginger before storing 💧",
+            "desc": "Dry soil on unwashed ginger acts as a natural protective barrier. Washing ginger allows moisture to penetrate skin crevices, creating an ideal environment for mold and bacterial growth. Simply brush off excess soil and wash right before cooking."
+          },
+          {
+            "title": "Never consume ginger that has any mold on it ⚠️",
+            "desc": "When ginger rots or molds, harmful toxins such as safrole spread throughout the root. Even if you cut away the moldy portion, invisible mycotoxins penetrate deep into the fibrous tissue. Always discard the entire root if mold appears."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Brush off soil and wrap in paper towels — Moisture Control (1–2 Weeks) 📦",
+            "text": "Managing moisture while preventing dehydration is key. 💡 Storage Tip: Lightly brush off loose soil from unwashed ginger, wrap each piece tightly in paper towels or newspaper, and store at cool room temperature (10–15°C) or in the refrigerator crisper drawer."
+          },
+          {
+            "name": "Slice or mince ginger for intended culinary uses — Prep Optimization 🔪",
+            "text": "Pre-portioning ginger for cooking prevents moisture loss and extends usability compared to keeping whole roots. 💡 Storage Tip: Peel and either slice into rounds for soups/teas or mince fine for marinades and seasonings."
+          },
+          {
+            "name": "Flatten in Ziploc bags and freeze — Frozen Storage (6 Months–1 Year) ❄️",
+            "text": "Sealing prepped ginger from air locks in its aromatic gingerol compounds. 💡 Storage Tip: Place minced ginger into a Ziploc bag, flatten it thin, and use the back of a knife to score grid lines before freezing (-18°C). Break off individual cubes whenever needed."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Can I just cut off the moldy part of ginger and use the rest?",
+            "answer": "No, absolutely not. Mold on ginger produces mycotoxins (such as safrole) that can cause liver toxicity. Because ginger is porous and fibrous, toxins spread deep throughout the root even if not visibly apparent. Always throw away the entire ginger piece if mold is present."
+          },
+          {
+            "question": "Is there another way to keep peeled ginger fresh in the refrigerator?",
+            "answer": "Place peeled ginger in an airtight glass container submerged in cooking sake, vodka, or water, and store in the fridge. Alcohol preserves ginger for 1–2 months without discoloration. If using water, change it every 2 to 3 days."
+          }
+        ]
+      },
+      "ja": {
+        "title": "生姜を新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づく生姜の最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "生姜を買って置いておいたら、たった数日でカビが生えたり、乾燥して木のように硬くなってしまった経験はありませんか？🫚\n\n生姜は水分と繊維質が豊富ですが、湿気に弱くカビが生えやすい反面、空気中に放置すると水分が抜けて固くなってしまいます。特にカビの生えた生姜には強力なカビ毒が発生するため、保存には特別な注意が必要です。\n\n本記事では、専門家が推奨する生姜の鮮度と風味を最大化する科学的で確実な3段階の保存のコツをご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合わせた正しい保存方法を実践することは 鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "保存する前に水で洗わないでください 💧",
+            "desc": "土がついた状態の皮は天然の保護膜です。水洗いすると皮の隙間から水分が入り込み、カビや雑菌が繁殖する原因になります。泥を軽く払い落とすにとどめ、洗うのは調理の直前にしましょう。"
+          },
+          {
+            "title": "少しでもカビが生えた生姜は絶対に食べないでください ⚠️",
+            "desc": "生姜が腐敗してカビが生えると、「サフロール」などの有害なカビ毒が内部全体に広がります。カビた部分を切り落としても毒素は繊維を伝って奥深くまで浸透しているため、カビを見つけたら丸ごと廃棄してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "泥を払い落としてキッチンペーパーで包む — 湿気調整と短期保存 (1〜2週間) 📦",
+            "text": "表面の余分な湿気を抑えつつ乾燥を防ぐことが重要です。💡保存のコツ：洗わずに泥を軽く払い落とし、1塊ずつキッチンペーパーや新聞紙で包んで涼しい常温（10〜15℃）または冷蔵庫の野菜室で保存します。"
+          },
+          {
+            "name": "スライスやみじん切りにして用途別に下処理する — 活用度の最大化 🔪",
+            "text": "丸ごと保存するよりも、料理の用途に合わせてあらかじめカットしておく方が水分蒸発を防ぎ衛生的に使えます。💡保存のコツ：皮をむき、煮物用の薄切りや薬味用みじん切りに切り分けておきましょう。"
+          },
+          {
+            "name": "ジッパーバッグに平らに伸ばして冷凍保存する — 冷凍保存 (6ヶ月〜1年) ❄️",
+            "text": "空気を遮断して冷凍することで、生姜特有の辛味成分（ジンゲロール）や香りを長期間保持できます。💡保存のコツ：みじん切り生姜をジッパーバッグに入れて平らに伸ばし、包丁の背で格子状の筋をつけて冷凍（-18℃以下）します。必要な分だけポキッと折って使えて便利です。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "生姜にカビが生えた場合、カビの部分だけ切り落とせば使えますか？",
+            "answer": "絶対にやめてください。生姜に発生するカビ毒（サフロール等）は肝毒性を引き起こす恐れがあり、水分と繊維の多い生姜の内部深くへ目に見えない毒素が侵入しています。一部だけにカビが見えても必ず丸ごと廃棄してください。"
+          },
+          {
+            "question": "むき生姜を冷蔵庫で長持ちさせる方法はありますか？",
+            "answer": "皮をむいた生姜を密閉容器に入れ、生姜が浸る程度の焼酎（または清酒）や水を注いで冷蔵保存すると、1〜2ヶ月間変色せずに新鮮さを保てます。水を使用する場合は2〜3日ごとに新しい水に入れ替えてください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持生姜新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解生姜的最佳储存温度、方式和保鲜时长。",
+        "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "您是否曾买回生姜放在家里，没过几天就发现发霉腐烂，或者干瘪得像木头一样？🫚\n\n生姜富含水分和纤维，但对湿度非常敏感，极易滋生霉菌；反之，若长期暴露在干燥空气中，水分蒸发会导致姜肉干硬发柴。特别是发霉的生姜会产生强效霉菌毒素，因此储存时需格外谨慎。\n\n本指南将为您介绍由农业及食品安全专家推荐的科学3步生姜保鲜秘诀，帮您最大程度锁定辛辣浓郁的风味。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "储存前切勿用水清洗 💧",
+            "desc": "带有泥土的外皮是生姜的天然保护屏障。用水清洗会导致水分渗入表皮缝隙，为霉菌和细菌滋生提供温床。只需刷掉干泥，食用前再清洗。"
+          },
+          {
+            "title": "绝不可食用任何发霉的生姜 ⚠️",
+            "desc": "生姜发霉腐烂时，会产生具有肝毒性的“黄樟素（Safrole）”等毒素。即便切除发霉部位，肉眼不可见的毒素早已顺着纤维渗透至内部。一旦发霉，必须整块丢弃。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "刷掉泥土后用厨房纸巾包裹 — 控湿与短期储存 (1 ~ 2周) 📦",
+            "text": "控制表面湿度并防止干瘪是关键。💡储存小贴士：切勿清洗，刷掉干泥后用厨房纸巾或报纸单块紧密包裹，存放在阴凉常温（10 ~ 15℃）或冰箱蔬菜保鲜层。"
+          },
+          {
+            "name": "切片或切末按需切配 — 提升使用便利度 🔪",
+            "text": "相比整块保存，按烹饪用途提前切配更能防止水分流失。💡储存小贴士：去皮后分别切成用于炖汤的姜片，或用于调味的姜末。"
+          },
+          {
+            "name": "平铺装入拉链袋冷冻 — 冷冻储存 (6个月~1年) ❄️",
+            "text": "隔绝空气冷冻可完好锁住姜辣素（Gingerol）和芳香风味。💡储存小贴士：将姜末装入拉链袋排尽空气并压平，用刀背划出方格压痕后放入冷冻室（-18℃以下）。使用时轻松折下一小块即可。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "生姜局部发霉，把发霉部位切掉后还能吃吗？",
+            "answer": "绝对不能。生姜发霉产生的霉菌毒素（如黄樟素）具有强毒性，且生姜纤维丰富，毒素早已渗透至肉眼看不到的深层。即使只有一小块发霉，也必须整块扔掉。"
+          },
+          {
+            "question": "冷藏保存去皮生姜有什么防变质的小妙招吗？",
+            "answer": "将去皮生姜放入密封玻璃瓶中，倒入淹没生姜的白酒（或清酒）或清水冷藏，可保持1 ~ 2个月不变色不变质。若使用清水，需每2 ~ 3天更换一次干净水源。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener el jengibre fresco: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el jengibre según las directrices oficiales de seguridad.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "¿Alguna vez compró jengibre fresco solo para descubrir a los pocos días que estaba cubierto de moho o seco como una pieza de madera? 🫚\n\nEl jengibre es rico en agua y fibra, pero es extremadamente sensible a la humedad, la cual genera moho rápidamente. Por el contrario, la exposición prolongada al aire seca su interior volviéndolo duro y leñoso. Además, el jengibre mohoso desarrolla micotoxinas peligrosas, por lo que requiere un almacenamiento cuidadoso.\n\nEn esta guía se presenta una guía de conservación del jengibre en 3 pasos respaldada por expertos para preservar su máxima frescura y sabor. 🛡️",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "No lave el jengibre antes de guardarlo 💧",
+            "desc": "La tierra seca en la piel del jengibre actúa como una barrera protectora natural. Lavarlo permite que la humedad penetre en las grietas, creando un entorno ideal para mohos y bacterias. Limpie la tierra con un cepillo seco y lávelo justo antes de cocinar."
+          },
+          {
+            "title": "Nunca consuma jengibre que tenga moho ⚠️",
+            "desc": "Cuando el jengibre se pudre o se amohosa, toxinas dañinas como el safrol se propagan por toda la raíz. Aunque corte la parte mohosa, las micotoxinas penetran profundamente en las fibras. Deseche siempre la pieza entera si aparece moho."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Sacuda la tierra y envuelva en papel de cocina — Control de humedad (1-2 semanas) 📦",
+            "text": "Gestionar la humedad evitando la deshidratación es fundamental. 💡 Consejo de almacenamiento: Retire la tierra con un cepillo seco, envuelva cada pieza en papel absorbente o periódico y guárdela a temperatura ambiente fresca (10-15 °C) o en el cajón de verduras."
+          },
+          {
+            "name": "Corte en rodajas o pique según el uso culinario — Optimización de uso 🔪",
+            "text": "Porcionar el jengibre con antelación evita la pérdida de humedad respecto a mantener la pieza entera. 💡 Consejo de almacenamiento: Pele el jengibre y córtelo en rodajas para guisos/tés o píquelo finamente para adobos."
+          },
+          {
+            "name": "Aplane en bolsas Ziploc y congele — Conservación congelada (6 meses - 1 año) ❄️",
+            "text": "Sellar el jengibre picado evitando el aire conserva el gingerol y sus aromas. 💡 Consejo de almacenamiento: Introduzca el jengibre picado en una bolsa Ziploc, aplánelo y marque divisiones cuadradas con el lomo de un cuchillo antes de congelar (-18 °C). Rompa una porción cuando la necesite."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Puedo cortar la parte mohosa del jengibre y usar el resto?",
+            "answer": "No, en absoluto. El moho del jengibre produce micotoxinas (como el safrol) que provocan toxicidad hepática. Debido a su estructura porosa y fibrosa, las toxinas se filtran profundamente. Deseche siempre toda la pieza si nota moho."
+          },
+          {
+            "question": "¿Existe alguna forma de conservar el jengibre pelado en el refrigerador?",
+            "answer": "Sumerja el jengibre pelado en un frasco hermético lleno de sake, vodka o agua, y guárdelo en el refrigerador. El alcohol lo conserva de 1 a 2 meses sin decoloración. Si utiliza agua, cámbiela cada 2 o 3 días."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver le gingembre frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le gingembre selon les directives officielles de sécurité.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Avez-vous déjà acheté du gingembre frais pour constater quelques jours plus tard qu'il était couvert de moisissure ou desséché comme du bois ? 🫚\n\nLe gingembre est riche en eau et en fibres, mais il est très sensible à l'humidité qui provoque rapidement des moisissures. À l'inverse, l'air sec évapore son humidité intérieure, le rendant dur et fibreux. De plus, le gingembre moisi développe des mycotoxines dangereuses, exigeant un stockage très rigoureux.\n\nDans ce guide, vous présente un guide scientifique de conservation du gingembre en 3 étapes recommandé par des experts pour préserver sa fraîcheur et son piquant. 🛡️",
+        "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne lavez pas le gingembre avant de le stocker 💧",
+            "desc": "La terre sèche sur la peau sert de barrière naturelle. Laver le gingembre permet à l'eau de pénétrer dans les fissures, favorisant les moisissures. Brossez simplement la terre sèche et ne le lavez qu'au moment de cuisiner."
+          },
+          {
+            "title": "Ne consommez jamais du gingembre qui présente de la moisissure ⚠️",
+            "desc": "Lorsque le gingembre moisit, des toxines nocives comme le safrole se propagent dans toute la racine. Même si vous coupez la partie moisie, les mycotoxines s'infiltrent profondément dans les fibres. Jetez toujours le morceau entier."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Brosser la terre et envelopper dans du papier absorbant — Contrôle de l'humidité (1-2 semaines) 📦",
+            "text": "Gérer l'humidité tout en évitant le dessèchement est la clé. 💡 Astuce de conservation : Brossez la terre sèche, enveloppez chaque morceau dans de l'essuie-tout ou du journal, et conservez à température ambiante fraîche (10–15 °C) ou au bac à légumes."
+          },
+          {
+            "name": "Trancher ou hacher selon l'usage culinaire — Préparation optimale 🔪",
+            "text": "Pré-portionner le gingembre évite la perte d'humidité par rapport à une conservation entière. 💡 Astuce de conservation : Épluchez et coupez en rondelles pour les bouillons/infusions ou hachez finement pour les marinades."
+          },
+          {
+            "name": "Aplatir en sac Ziploc et congeler — Congélation (6 mois - 1 an) ❄️",
+            "text": "Protéger le gingembre de l'air préserve ses composants aromatiques (gingérol). 💡 Astuce de conservation : Mettez le gingembre haché dans un sac congélation, aplatissez-le et pré-découpez des carrés avec le dos d'un couteau avant de congeler à -18 °C."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Puis-je simplement couper la partie moisie du gingembre et utiliser le reste ?",
+            "answer": "Non, absolument pas. La moisissure du gingembre sécrète des mycotoxines (telles que le safrole) toxiques pour le foie. Les fibres du gingembre laissent s'infiltrer les toxines très profondément. Jetez toujours le morceau entier si de la moisissure apparaît."
+          },
+          {
+            "question": "Comment conserver le gingembre épluché au réfrigérateur sans qu'il s'abîme ?",
+            "answer": "Plongez le gingembre épluché dans un bocal hermétique rempli d'alcool (saké, vodka) ou d'eau, et conservez au frais. L'alcool le préserve pendant 1 à 2 mois sans décoloration. Si vous utilisez de l'eau, changez-la tous les 2 à 3 jours."
+          }
+        ]
+      },
+      "de": {
+        "title": "Ingwer richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Ingwer basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Haben Sie frischen Ingwer gekauft, nur um nach wenigen Tagen festzustellen, dass er schimmelig war oder wie Holz austrocknete? 🫚\n\nIngwer ist reich an Feuchtigkeit und Fasern, reagiert jedoch extrem empfindlich auf Nässe, die rasch Schimmel verursacht. Umgekehrt lässt trockene Luft das Innere verdunsten, wodurch die Knolle holzig wird. Zudem bildet schimmeliger Ingwer gefährliche Mykotoxine, weshalb die richtige Lagerung entscheidend ist.\n\nIn diesem Ratgeber erfahren Sie einen von Experten empfohlenen, wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Schärfe und Frische Ihres Ingwers zu bewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Ingwer vor der Lagerung nicht waschen 💧",
+            "desc": "Trockene Erde auf der Schale dient als natürlicher Schutzschild. Waschen lässt Feuchtigkeit in Risse eindringen und schafft einen Nährboden für Schimmel. Bürsten Sie Erde nur trocken ab und waschen Sie Ingwer erst vor dem Kochen."
+          },
+          {
+            "title": "Niemals Ingwer mit Schimmelbefall verzehren ⚠️",
+            "desc": "Schimmelt Ingwer, breiten sich krebserregende und lebertoxische Substanzen wie Safrol in der Knolle aus. Selbst wenn die Stelle abgeschnitten wird, dringen die Gifte tief in das Gewebe ein. Werfen Sie schimmeligen Ingwer immer komplett weg."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Erde abbürsten und in Küchenpapier einwickeln — Feuchtigkeitskontrolle (1–2 Wochen) 📦",
+            "text": "Feuchtigkeit ausgleichen und Austrocknen verhindern ist das Ziel. 💡 Lagerungstipp: Erde trocken abbürsten, Stücke einzeln in Küchenpapier oder Zeitung wickeln und bei kühlen 10–15 °C oder im Gemüsefach aufbewahren."
+          },
+          {
+            "name": "In Scheiben schneiden oder hacken — Vorbereitung für die Küche 🔪",
+            "text": "Portionieren schützt besser vor Feuchtigkeitsverlust als das Aufbewahren einer großen Knolle. 💡 Lagerungstipp: Schälen und entweder in Scheiben für Suppen/Tees schneiden oder fein hacken für Marinaden."
+          },
+          {
+            "name": "Im Ziploc-Beutel flachdrücken und einfrieren — Gefrierlagerung (6 Monate–1 Jahr) ❄️",
+            "text": "Luftdichtes Einfrieren bewahrt das scharfe Gingerol und die Aromen. 💡 Lagerungstipp: Gehackten Ingwer im Beutel flachdrücken, mit dem Messer rastern und unter -18 °C einfrieren. Bei Bedarf einfach einzelne Würfel abbrechen."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Kann man verschimmelten Ingwer großzügig abschneiden und weiterverwenden?",
+            "answer": "Nein, auf keinen Fall. Schimmelpilze auf Ingwer bilden Mykotoxine (wie Safrol), die leberschädigend wirken. Da Ingwer faserig und feucht ist, verteilen sich die Gifte unsichtbar in der gesamten Knolle. Entsorgen Sie schimmeligen Ingwer stets vollständig."
+          },
+          {
+            "question": "Wie bleibt geschälter Ingwer im Kühlschrank lange frisch?",
+            "answer": "Legen Sie geschälten Ingwer in ein Schraubglas mit Sake, Wodka oder Wasser und stellen Sie ihn in den Kühlschrank. Alkohol konserviert den Ingwer 1–2 Monate ohne Verfärbung. Bei Wasser muss dieses alle 2 bis 3 Tage erneuert werden."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar gengibre fresco: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para o gengibre com base em diretrizes oficiais de segurança.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Você já comprou gengibre fresco e em poucos dias percebeu que ele mofou ou ressecou como um pedaço de madeira? 🫚\n\nO gengibre é rico em umidade e fibras, mas é extremamente sensível à umidade excessiva, que causa mofo rapidamente. Por outro lado, a exposição prolongada ao ar evapora sua umidade interna, deixando-o duro e fibroso. Além disso, o gengibre mofado desenvolve micotoxinas perigosas, exigindo um armazenamento cuidadoso.\n\nNeste guia, apresentamos um guia de conservação do gengibre em 3 etapas recomendado por especialistas para manter o frescor e o sabor picante. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Não lave o gengibre antes de guardar 💧",
+            "desc": "A terra seca na casca funciona como uma proteção natural. Lavar o gengibre permite que a umidade penetre nas frestas, criando o ambiente perfeito para fungos e bactérias. Escove a terra seca e lave apenas antes de cozinhar."
+          },
+          {
+            "title": "Nunca consuma gengibre que apresente mofo ⚠️",
+            "desc": "Quando o gengibre mofa, toxinas prejudiciais como o safrol se espalham por toda a raiz. Mesmo cortando a parte mofada, as micotoxinas penetram fundo nas fibras. Descarte sempre a peça inteira caso surja mofo."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Escovar a terra e embrulhar em papel-toalha — Controle de umidade (1 a 2 semanas) 📦",
+            "text": "Controlar a umidade e evitar o ressecamento é o segredo. 💡 Dica de conservação: Retire a terra com escova seca, embrulhe cada pedaço em papel-toalha ou jornal e guarde em local fresco (10-15 °C) ou na gaveta de legumes."
+          },
+          {
+            "name": "Fatiar ou picar conforme o uso culinário — Otimização do preparo 🔪",
+            "text": "Porcionar o gengibre com antecedência evita a perda de umidade em relação ao pedaço inteiro. 💡 Dica de conservação: Descasque e corte em rodelas para chás/sopas ou pique fino para temperos e marinadas."
+          },
+          {
+            "name": "Aplanar em sacos Ziploc e congelar — Congelamento (6 meses a 1 ano) ❄️",
+            "text": "Vedar o gengibre do ar preserva o gingerol e seus aromas picantes. 💡 Dica de conservação: Coloque o gengibre picado no saco Ziploc, achate e marque quadriculados com as costas de uma faca antes de congelar a -18 °C. Destaque um cubo sempre que precisar."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Posso cortar a parte mofada do gengibre e usar o resto?",
+            "answer": "Não, de jeito nenhum. O mofo no gengibre produz micotoxinas (como o safrol) que causam toxicidade hepática. Como o gengibre é fibroso, as toxinas se espalham profundamente. Jogue fora a peça inteira se houver mofo."
+          },
+          {
+            "question": "Existe alguma forma de conservar gengibre descascado na geladeira?",
+            "answer": "Mergulhe o gengibre descascado num pote hermético com saquê, vodca ou água, e guarde na geladeira. O álcool conserva por 1 a 2 meses sem descolorir. Se usar água, troque-a a cada 2 ou 3 dias."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Jahe agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk jahe berdasarkan pedoman keselamatan resmi.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Pernahkah Anda membeli jahe segar lalu mendapati rimpangnya berjamur atau mengering keras seperti kayu setelah beberapa hari? 🫚\n\nJahe kaya akan air dan serat, tetapi sangat sensitif terhadap kelembapan tinggi yang memicu tumbuhnya jamur. Sebaliknya, paparan udara kering membuat kadar airnya menguap sehingga teksturnya menjadi keras dan berserat. Selain itu, jahe yang berjamur menghasilkan mikotoksin berbahaya sehingga membutuhkan penyimpanan yang tepat.\n\nDalam panduan ini, kami membagikan panduan penyimpanan jahe 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan untuk menjaga kesegaran dan rasa pedas khasnya. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan mencuci jahe sebelum disimpan 💧",
+            "desc": "Tanah kering pada kulit jahe berfungsi sebagai pelindung alami. Mencuci jahe menyebabkan air meresap ke celah kulit, menciptakan lingkungan ideal bagi jamur dan bakteri. Cukup sikat tanahnya dan cucilah tepat sebelum dimasak."
+          },
+          {
+            "title": "Jangan pernah mengonsumsi jahe yang sudah berjamur ⚠️",
+            "desc": "Saat jahe membusuk atau berjamur, racun berbahaya seperti safrol menyebar ke seluruh rimpang. Meskipun bagian yang berjamur dipotong, mikotoksin yang tak terlihat telah meresap jauh ke dalam serat. Selalu buang seluruh rimpang jika berjamur."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Bersihkan tanah dan bungkus dengan tisu dapur — Kontrol Kelembapan (1–2 Minggu) 📦",
+            "text": "Mengontrol kelembapan sekaligus mencegah kekeringan adalah kuncinya. 💡 Tips Penyimpanan: Sikat tanah kering pada jahe, bungkus setiap rimpang dengan tisu dapur atau koran, lalu simpan di suhu ruang sejuk (10–15°C) atau laci sayur kulkas."
+          },
+          {
+            "name": "Iris atau cincang sesuai kebutuhan masakan — Optimasi Penggunaan 🔪",
+            "text": "Memotong jahe terlebih dahulu mencegah kehilangan kadar air dibandingkan menyimpan rimpang utuh. 💡 Tips Penyimpanan: Kupas kulitnya lalu iris tipis untuk sup/teh atau cincang halus untuk bumbu marinasi."
+          },
+          {
+            "name": "Ratakan dalam kantong Ziploc lalu bekukan — Simpan Beku (6 Bulan–1 Tahun) ❄️",
+            "text": "Menyegel jahe cincang dari udara menjaga kandungan gingerol dan aroma pedasnya. 💡 Tips Penyimpanan: Masukkan jahe cincang ke kantong Ziploc, ratakan tipis, lalu beri garis kotak-kotak dengan punggung pisau sebelum dibekukan (-18°C). Patahkan satu kotak saat ingin menggunakannya."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah boleh memotong bagian jahe yang berjamur dan memakai sisanya?",
+            "answer": "Sama sekali tidak boleh. Jamur pada jahe menghasilkan mikotoksin (seperti safrol) yang beracun bagi hati. Karena serat jahe mudah menyerap racun hingga ke bagian dalam, selalu buang seluruh rimpang jika ada bagian yang berjamur."
+          },
+          {
+            "question": "Apakah ada cara menyimpan jahe kupas di kulkas agar awet?",
+            "answer": "Masukkan jahe kupas ke dalam wadah kaca kedap udara lalu rendam dengan sisa arak masak/soju/vodka atau air bersih, lalu simpan di kulkas. Rendaman alkohol menjaga jahe selama 1–2 bulan tanpa berubah warna. Jika menggunakan air, gantilah airnya setiap 2 hingga 3 hari."
+          }
+        ]
+      }
     }
+  }
 }

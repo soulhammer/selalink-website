@@ -1,459 +1,459 @@
 {
-    "corn-snake-care": {
-        "pubDate": "2026-05-28",
-        "updatedDate": "2026-07-26",
-        "locales": {
-            "ko": {
-                "title": "콘스네이크의 방어 신호 해석과 거식·구토 예방을 위한 3단계 데일리 케어",
-                "description": "온순하고 화려한 뱀 콘스네이크(Corn Snake). 꼬리 떨기·S자 공격 자세 신호 해석, 적정 온도(22°C~30°C) 및 먹이 구토 예방을 위한 3단계 홈케어 루틴을 소개합니다.",
-                "authority": "국제 파충류 수의학회 (ARAV) 및 USARK Herpetological Care Standards",
-                "profile": {
-                    "breed": "콘스네이크 / 옥수수뱀 (Corn Snake / Pantherophis guttatus)",
-                    "lifespan": "15 ~ 20년 (올바른 케어 시 20년 이상)",
-                    "sleep_pattern": "12 ~ 14시간 (야행성/박명성, 낮 동안 은신처 휴식)",
-                    "temperament": "온순함, 호기심 많음, 활동적, 탈출 능숙함"
-                },
-                "intro": "옥수수 알갱이를 닮은 배 비늘 무늬에서 이름이 유래된 콘스네이크(Corn Snake)는 온순한 성격과 화려한 다형성(Morph)으로 전 세계에서 가장 사랑받는 입문용 반려 뱀입니다. 볼파이톤보다 낮고 서늘한 적정 온도 경사(쿨존 22°C~24°C / 핫존 28°C~30°C)와 평소 40%~50%의 습도가 유지되어야 건강하게 서식합니다. 섭식 후 48시간 이내에 핸들링을 하거나 소화 온도가 부족할 경우 치명적인 먹이 구토(Regurgitation)가 발생할 수 있으며, 몸이 유연하여 틈새 탈출에 매우 능숙합니다. 이번 가이드에서는 콘스네이크의 행동 신호를 이해하고 구토와 탈피 부전을 예방하는 3단계 홈케어 루틴을 전해드립니다.",
-                "whyTitle": "콘스네이크의 바디 랭귀지: 꼬리 진동(Tail Rattling)과 S자 타격 자세(S-Strike Posture)",
-                "whyDesc": "콘스네이크는 꼬리의 진동과 상체의 곡선 모양으로 경계와 자극 상태를 전달합니다. 바닥재나 벽면에 꼬리를 빠르게 진동시켜 '딱딱' 소리를 내는 **'꼬리 떨기(Tail Rattling)'**는 방울뱀을 모사하여 위협을 알리는 경계 신호입니다. 반면 몸의 앞쪽 3분의 1을 S자로 접어 올리고 머리를 고정하는 **'S자 타격 자세(S-Strike Posture)'**는 방어적 공격 직전의 경고 신호입니다.",
-                "body_signals": [
-                    {
-                        "name": "바닥재에 꼬리를 바짝 대고 빠르게 진동함 (Tail Rattling)",
-                        "meaning": "포식자의 위협이나 갑작스러운 자극을 느꼈을 때 방울뱀을 모사하여 경고하는 방어 신호입니다.",
-                        "response": "자극을 주지 말고 손을 거두어 은신처에서 스스로 안정을 찾을 수 있도록 조용히 내버려 둡니다."
-                    },
-                    {
-                        "name": "상체를 S자로 꺾어 세우고 머리를 겨눔 (S-Strike Posture)",
-                        "meaning": "더 이상 물러설 곳이 없다고 느끼거나 강한 위협을 받았을 때 입을 벌려 물기 직전의 공격 준비 신호입니다.",
-                        "response": "무리한 접근이나 핸들링을 즉시 중단하고 사육장 문을 닫아 위협 요소를 제거합니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 적정 온도 경사(쿨존 22°C~24°C / 핫존 28°C~30°C) 및 환기 점검",
-                        "text": "볼파이톤보다 서늘한 온도를 유지해 주고, 습도 40%~50%를 체크하며 환기구 틈새 락킹 상태를 점검합니다."
-                    },
-                    {
-                        "name": "낮: 물그릇 청결 유지 및 은신처 주간 수면 모니터링",
-                        "text": "몸을 씻고 마실 수 있는 신선한 물을 매일 교체해 주고, 축축한 배설물을 청소하여 피부 질환을 예방합니다."
-                    },
-                    {
-                        "name": "저녁: 피딩 후 48시간 안정(휴식) 및 탈피기 습식 은신처 제공",
-                        "text": "먹이를 먹인 후에는 위산 역류와 구토를 막기 위해 최소 48시간 동안 핸들링을 금지하며, 탈피(블루) 시기에는 습식 은신처를 넣어줍니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "콘스네이크가 먹은 쥐를 그대로 토해냈는데(Regurgitation) 어떻게 하나요?",
-                        "answer": "먹이 구토는 식도와 위장 점막에 심각한 산성 상처를 남기는 응급 상황입니다. 급여 후 48시간 이내 핸들링, 핫존 온도 부족(28°C 미만), 또는 과도하게 큰 먹이가 원인입니다. 구토 후 최소 12~14일 동안은 절대 먹이를 주지 말고 위장을 회복시켜야 하며, 이후 아주 작은 사이즈의 데운 먹이부터 다시 시도해야 합니다."
-                    },
-                    {
-                        "question": "사육장 뚜껑을 닫아놓았는데 자꾸 틈새를 머리로 밀며 탈출을 시도해요.",
-                        "answer": "콘스네이크는 파충류 중에서도 유연하고 지능적인 '탈출 전문가(Escape Artist)'입니다. 머리가 들어가는 작은 틈만 있어도 몸 전체가 빠져나갈 수 있으므로, 클립이나 잠금장치가 있는 슬라이딩 케이지를 사용해야 합니다. 사육장이 너무 좁거나 온도가 너무 높은 경우에도 탈출 행동이 늘어나므로 온·습도를 점검하세요."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Corn Snake Behavioral Signals and 3-Step Daily Routine for Temperature, Regurgitation, and Shedding Care",
-                "description": "Care guide for the docile Corn Snake. Interpret tail rattling and S-strike posture, maintain proper thermal gradients (22°C–30°C), and prevent regurgitation in 3 steps.",
-                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & USARK Herpetological Care Standards",
-                "profile": {
-                    "breed": "Corn Snake (Pantherophis guttatus)",
-                    "lifespan": "15 - 20 Years (Up to 20+ years with optimal care)",
-                    "sleep_pattern": "12 - 14 Hours (Nocturnal/Crepuscular, Rests in hides during the day)",
-                    "temperament": "Docile, Curious, Active, Skilled Escape Artist"
-                },
-                "intro": "Named for the corn-like checkered pattern on their belly scales, the Corn Snake (Pantherophis guttatus) is the most cherished starter pet snake worldwide due to its docile nature and striking color morphs. Corn snakes require cooler thermal gradients than Ball Pythons, thriving with a cool zone of 22°C–24°C, a hot zone of 28°C–30°C, and baseline humidity of 40%–50%. Handling within 48 hours post-feeding or inadequate basking temperatures can cause fatal regurgitation. Furthermore, their slender, muscular bodies make them notorious escape artists. In this guide, presents a 3-step daily care routine to read your snake's signals and maintain its health.",
-                "whyTitle": "Corn Snake Body Language: Tail Rattling and S-Strike Posture",
-                "whyDesc": "Corn Snakes communicate alert states and defensive agitation through tail vibration and body posture. Rapidly vibrating their tail against substrate or walls to produce a buzzing noise **'Tail Rattling'** is a defensive mimicry of rattlesnakes when feeling threatened. Conversely, pulling the front third of the body back into an S-curve while staring **'S-Strike Posture'** is an explicit warning of an impending defensive strike.",
-                "body_signals": [
-                    {
-                        "name": "Rapidly Vibrating Tail Against Substrate (Tail Rattling)",
-                        "meaning": "An instinctual defensive warning mimicking rattlesnakes when startled by sudden handling or perceived threats.",
-                        "response": "Retract your hand immediately and allow the snake undisturbed time inside its hide to regain calm."
-                    },
-                    {
-                        "name": "S-Curving Upper Body & Aiming Head (S-Strike Posture)",
-                        "meaning": "A defensive strike warning indicating the snake feels cornered or intensely threatened and is ready to bite.",
-                        "response": "Stop all handling immediately and close the enclosure door to remove external threat factors."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Thermal Gradient Check (Cool 22°C–24°C / Hot 28°C–30°C) & Ventilation Lock Inspection",
-                        "text": "Maintain cooler temperatures than python species, checking digital humidity (40%–50%) and verifying cage escape-lock security."
-                    },
-                    {
-                        "name": "Afternoon: Fresh Water Bowl Renewal & Hide Substrate Hygiene",
-                        "text": "Change water daily in a bowl suitable for soaking, removing damp waste to prevent skin and scale infections."
-                    },
-                    {
-                        "name": "Evening: 48-Hour Post-Feeding Rest & Moist Hide Placement for Shedding",
-                        "text": "Strictly refrain from handling for at least 48 hours after feeding to prevent regurgitation, providing a moist moss hide during blue phase."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "My Corn Snake regurgitated its prey—what should I do?",
-                        "answer": "Regurgitation is a medical emergency that severely damages the esophagus and stomach lining with stomach acids. Causes include handling within 48 hours post-feeding, low hot-zone temperatures (below 28°C), or oversized prey. Do not offer food for at least 12–14 days to allow gut mucosa to heal, then restart with a much smaller, thoroughly warmed prey item."
-                    },
-                    {
-                        "question": "My Corn Snake keeps pushing against lid seams trying to escape—is this normal?",
-                        "answer": "Corn Snakes are highly agile and intelligent escape artists. If their head fits through a gap, their whole body will follow; always secure cages with locking clips or sliding locks. Persistent pushing can also indicate overheating or inadequate hideouts, so double-check enclosure temperatures."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "コーンスネークの威嚇サイン解読と嘔吐・温度管理のための3ステップデイリールーティン",
-                "description": "温厚で美しく人気のコーンスネーク（Corn Snake）。尻尾の振動やS字威嚇姿勢の解読、適正温度(22°C〜30°C)と吐き戻し（嘔吐）予防のための3ステップホームケアを紹介します。",
-                "authority": "国際爬虫類両生類獣医学会(ARAV)およびUSARK飼育基準",
-                "profile": {
-                    "breed": "コーンスネーク / ナメラ (Corn Snake / Pantherophis guttatus)",
-                    "lifespan": "15 〜 20년 (適切な環境下で20年以上)",
-                    "sleep_pattern": "12 〜 14時間 (夜行性/薄明薄暮性、昼間はシェルターで休息)",
-                    "temperament": "温厚、好奇心旺盛、活動的、脱走が得意"
-                },
-                "intro": "トウモロコシの粒に似た腹部の模様からその名がついたコーンスネーク（Corn Snake）は、温厚な性格と豊かなカラーモルフで、世界中で最も親しまれている入門用のペットスネークです。ボールパイソンよりもやや低めで涼しい温度勾配（クールゾーン22°C〜24°C / ホットゾーン28°C〜30°C）と、普段40%〜50%の湿度管理が必要です。給餌後48時間以内に触ったり、消化温度が不足すると危険な「吐き戻し（Regurgitation）」を起こすことがあり、しなやかな体で隙間から脱走するのが得意です。本記事では、コーンスネークのサインを読み解き、嘔吐と脱皮不全を防ぐ3ステップルーティンをお届けします。",
-                "whyTitle": "コーンスネークのボディランゲージ：尻尾の振動(Tail Rattling)とS字威嚇姿勢(S-Strike Posture)",
-                "whyDesc": "コーンスネークは尻尾の振動と上半身の姿勢で警戒状態を表します。床材や壁面に尻尾を高速で打ち付けて音を立てる**「尻尾の振動（Tail Rattling）」**は、ガラガラヘビを模倣して威嚇する警戒サインです。一方、体の前部3分の1をS字に折り曲げて頭を向ける**「S字威嚇姿勢（S-Strike Posture）」**は、噛みつく直前の防御的攻撃サインです。",
-                "body_signals": [
-                    {
-                        "name": "床材に尻尾を押し当てて高速振動させる (Tail Rattling)",
-                        "meaning": "外敵や急な刺激を感じた際、ガラガラヘビを模して警告を発する自己防衛サインです。",
-                        "response": "手を引っ込め、シェルターの中で自分で落ち着くまで刺激を与えず静かにしておきます。"
-                    },
-                    {
-                        "name": "上半身をS字に折り曲げて頭を向ける (S-Strike Posture)",
-                        "meaning": "追いつめられたと感じた際や強い脅威を受けた際に見せる、噛みつく直前の威嚇・攻撃態勢です。",
-                        "response": "無理な接近やハンドリングを直ちに中止し、ケージの扉を閉めて危険要因を取り除きます。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：適正温度勾配（クール22°C〜24°C / ホット28°C〜30°C）＆換気・ロック確認",
-                        "text": "他のニシキヘビ類より涼しい温度を保ち、湿度40%〜50%の確認と、ケージの隙間や鍵のロック状態を点検します。"
-                    },
-                    {
-                        "name": "昼：水皿の清潔維持＆シェルターでの睡眠モニタリング",
-                        "text": "全身が入れる水皿の水を毎日交換し、湿った排泄物を掃除して皮膚疾患や細菌感染を防ぎます。"
-                    },
-                    {
-                        "name": "夜：給餌後48時間の安静＆脱皮時のウェットシェルター設置",
-                        "text": "食後の胃酸逆流や吐き戻しを防ぐため食後最低48時間は触るのを控え、白濁（ブルー）時には湿らせた水苔シェルターを入れます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "コーンスネークが食べたマウスを吐き戻してしまった（Regurgitation）のですが、どう対処すればいいですか？",
-                        "answer": "吐き戻しは食道や胃の粘膜に強い酸性ダメージを与える緊急事態です。給餌後48時間以内のハンドリング、ホットゾーンの温度不足（28°C未満）、サイズが大きすぎる餌が主な原因です。吐いた後最低12〜14日間は絶対に餌を与えず胃腸を休ませ、その後極小サイズの温めたマウスから慎重に再開してください。"
-                    },
-                    {
-                        "question": "蓋を閉めているのに、隙間に頭を押し当てて脱走しようとします。",
-                        "answer": "コーンスネークは非常にしなやかで知能が高い「脱走の達人」です。頭が入るわずかな隙間があれば全身で抜け出してしまうため、ロック機能付きのスライドケージやクリップを必ず使用してください。ケージ内が狭すぎたり温度が高すぎる場合も脱走行動が増えるため、温湿度も再確認しましょう。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "玉米蛇防御信号解读与预防吐食及温湿度护理的3步日常流程",
-                "description": "温和绚丽的入门宠物蛇玉米蛇（Corn Snake）护理指南。解读尾部震动与S型攻击姿态，维持适宜温度（22°C~30°C）及预防吐食的3步骤家庭护理。",
-                "authority": "国际爬行动物兽医协会 (ARAV) 与 USARK 兽医护理标准",
-                "profile": {
-                    "breed": "玉米蛇 (Corn Snake / Pantherophis guttatus)",
-                    "lifespan": "15 ~ 20年 (科学饲养可达20年以上)",
-                    "sleep_pattern": "12 ~ 14小时 (夜行性/薄暮性，白天在躲避穴休息)",
-                    "temperament": "温和、好奇心强、活跃、极具越狱能力"
-                },
-                "intro": "因腹部鳞片图案酷似玉米粒而得名的玉米蛇（Corn Snake），凭借其温和的性格与极其丰富的基因变异（Morph），成为全球最受欢迎的入门级宠物蛇。与球蟒相比，玉米蛇需要更凉爽的温度梯度（冷区 22°C~24°C / 热区 28°C~30°C）以及 40%~50% 的基础湿度。若在进食后 48 小时内上手互动或消化温度不足，极易引发致命的**吐食（Regurgitation）**；且其柔软的身躯使其成为名副其实的“越狱大师”。本指南将带您准确解读玉米蛇的肢体语言，并通过 3 步骤日常护理维护其健康。",
-                "whyTitle": "玉米蛇的肢体语言：尾部震动 (Tail Rattling) 与 S 型攻击姿态 (S-Strike Posture)",
-                "whyDesc": "玉米蛇通过尾部震动与前半身的姿态表达警惕与应激状态。将尾尖快速打在垫料或缸壁上发出啪啪声**“尾部震动 (Tail Rattling)”**，是模仿响尾蛇发出的警告防御信号。相反，将身体前三分之一折叠成 S 型并固定头部**“S 型攻击姿态 (S-Strike Posture)”**，则是防御性咬人前的明确警告。",
-                "body_signals": [
-                    {
-                        "name": "尾巴紧贴垫料并快速高频震动 (Tail Rattling)",
-                        "meaning": "受到突如其来的惊吓或感到外界威胁时，模仿响尾蛇发出的警告与自卫信号。",
-                        "response": "切勿继续打扰，收回手并让其在躲避穴中自行恢复平静。"
-                    },
-                    {
-                        "name": "前半身弯曲成 S 型并抬起头部 (S-Strike Posture)",
-                        "meaning": "感到无路可退或受到强应激时，准备张嘴咬人的防御性攻击前兆。",
-                        "response": "立即停止强行接触，关闭笼舍门以消除外界威胁因素。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：温度梯度（冷区 22°C~24°C / 热区 28°C~30°C）与防逃锁扣检查",
-                        "text": "保持比蟒蛇类更凉爽的环境，检查 40%~50% 的基础湿度，并确认通风口与箱盖卡扣紧固。"
-                    },
-                    {
-                        "name": "中午：水盆清洁与躲避穴睡眠环境监测",
-                        "text": "每日更换可供其全身泡澡的干净饮用水，及时清理排泄物以防皮肤感染。"
-                    },
-                    {
-                        "name": "晚上：进食后 48 小时禁上手与脱皮期湿俱盒提供",
-                        "text": "进食后 48 小时内严禁上手以防胃酸逆流吐食，进入蓝眼脱皮期时提供湿润水苔盒。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "玉米蛇把刚吞下的乳鼠吐出来了（吐食），应该怎么处理？",
-                        "answer": "吐食（Regurgitation）是对蛇类食道和胃黏膜造成严重酸蚀的紧急状况。常见原因包括进食后 48 小时内上手、热区温度不足（低于 28°C）或食物过大。吐食后至少 12~14 天内严禁喂食，必须让胃肠黏膜充分休养恢复，之后从极小尺寸的加温乳鼠重新开始尝试。"
-                    },
-                    {
-                        "question": "明明关好了箱盖，玉米蛇为什么总用头顶缝隙尝试逃跑？",
-                        "answer": "玉米蛇是爬宠界极具智商与柔韧性的“越狱专家”。只要头部能够挤出小缝，全身即可穿过，因此必须使用带安全锁扣的专业饲养箱。若笼舍空间过小或温度过高，也会加剧其逃跑行为，请及时复查温湿度。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Señales de conducta en la Serpiente del Maíz y rutina diaria de 3 pasos para el control de temperatura, prevención de regurgitación y muda",
-                "description": "Guía de cuidado para la dócil Serpiente del Maíz (Corn Snake). Interprete la vibración de la cola y la postura en S, mantenga gradientes térmicos (22°C–30°C) y prevenga la regurgitación en 3 pasos.",
-                "authority": "Asociación de Veterinarios de Anfibios y Reptiles (ARAV) y Estándares de Herpetología de USARK",
-                "profile": {
-                    "breed": "Serpiente del Maíz / Culebra del Maíz (Pantherophis guttatus)",
-                    "lifespan": "15 ~ 20 años (Más de 20 años con cuidados óptimos)",
-                    "sleep_pattern": "12 ~ 14 horas (Nocturna/Crepuscular, reposa en refugios de día)",
-                    "temperament": "Dócil, Curiosa, Activa, Experta escapista"
-                },
-                "intro": "Llamada así por el patrón en forma de granos de maíz de sus escamas ventrales, la Serpiente del Maíz (Pantherophis guttatus) es la serpiente de compañía más apreciada en el mundo por su carácter dócil y sus vistosas fases de color. Requieren gradientes térmicos más frescos que los pitones, prosperando con una zona fría de 22°C–24°C, una zona caliente de 28°C–30°C y una humedad base del 40%–50%. Manipularla antes de 48 horas tras comer o una temperatura digestiva baja provoca una regurgitación letal. Además, su cuerpo delgado y elástico las convierte en maestras del escape. En esta guía, presenta una rutina de 3 pasos para cuidar su salud.",
-                "whyTitle": "Lenguaje corporal de la Serpiente del Maíz: Vibración de la cola y postura de ataque en S (S-Strike Posture)",
-                "whyDesc": "Las serpientes del maíz comunican alerta y estrés mediante la vibración de su cola y la postura de su tronco. Hacer vibrar rápidamente la cola contra el sustrato para imitar a una cascabel **'Vibración de la cola (Tail Rattling)'** es una señal defensiva ante amenazas. En cambio, replegar el primer tercio del cuerpo en forma de S sosteniendo la cabeza **'Postura de ataque en S (S-Strike Posture)'** es una advertencia de mordisco defensivo inminente.",
-                "body_signals": [
-                    {
-                        "name": "Vibrar rápidamente la cola contra el sustrato (Tail Rattling)",
-                        "meaning": "Señal defensiva instintiva que imita a las serpientes de cascabel al asustarse por manipulaciones bruscas.",
-                        "response": "Retire la mano de inmediato y deje a la serpiente tranquila dentro de su refugio para que recupere la calma."
-                    },
-                    {
-                        "name": "Plegar el torso en forma de S apuntando la cabeza (S-Strike Posture)",
-                        "meaning": "Advertencia de ataque defensivo indicando que se siente acorralada y está lista para morder.",
-                        "response": "Interrumpa la manipulación de inmediato y cierre el terrario para eliminar los factores de amenaza."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Control del gradiente térmico (Frío 22°C–24°C / Caliente 28°C–30°C) e inspección de cierres",
-                        "text": "Mantenga temperaturas más frescas que en las pitones, verifique la humedad (40%–50%) y revise la seguridad de los cierres antiderrame."
-                    },
-                    {
-                        "name": "Tarde: Renovación de agua fresca e higiene del refugio",
-                        "text": "Cambie el agua diariamente en un recipiente adecuado para el baño y limpie deyecciones húmedas para evitar dermatitis."
-                    },
-                    {
-                        "name": "Noche: 48 horas de reposo posalimentación y refugio húmedo para la muda",
-                        "text": "Prohíba estrictamente la manipulación durante 48 horas tras la comida para evitar la regurgitación, y coloque un refugio húmedo durante la fase azul."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mi Serpiente del Maíz ha regurgitado la presa, ¿qué debo hacer?",
-                        "answer": "La regurgitación es una urgencia veterinaria que quema el esófago con jugos gástricos. Se debe a la manipulación prematura (<48 horas), temperatura baja en el punto caliente (<28°C) o presas excesivamente grandes. No alimente a la serpiente durante al menos 12-14 días para permitir la cicatrización gástrica, y reinicie la dieta con una presa muy pequeña y bien templada."
-                    },
-                    {
-                        "question": "Mi serpiente empuja constantemente las juntas del terrario con la cabeza para escapar, ¿es normal?",
-                        "answer": "Las serpientes del maíz son famosas 'escapistas' dotadas de gran agilidad. Si su cabeza cabe por una rendija, el resto del cuerpo pasará; utilice siempre terrarios con cierres de seguridad. Si el hábito es persistente, revise si la temperatura es demasiado alta o si faltan refugios."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Signaux comportementaux du Serpent des Blés et routine quotidienne en 3 étapes pour la température, la prévention des régurgitations et la mue",
-                "description": "Guide de soins pour le docile Serpent des Blés (Corn Snake). Décryptez le battement de queue et la posture en S, ajustez le gradient thermique (22°C–30°C) et prévenez les régurgitations en 3 étapes.",
-                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Normes d'Élevage USARK",
-                "profile": {
-                    "breed": "Serpent des Blés (Corn Snake / Pantherophis guttatus)",
-                    "lifespan": "15 ~ 20 ans (Plus de 20 ans avec des soins adaptés)",
-                    "sleep_pattern": "12 ~ 14 heures (Nocturne/Crépusculaire, se repose dans des cachettes le jour)",
-                    "temperament": "Docile, Curieux, Actif, Expert en évasion"
-                },
-                "intro": "Tirant son nom des motifs en damier rappelant les épis de maïs sous son ventre, le Serpent des Blés (Pantherophis guttatus) est le serpent d'agrément le plus populaire au monde grâce à sa douceur et ses multiples phases de couleurs. Il requiert un gradient thermique plus frais que celui du Python Royal : une zone froide à 22°C–24°C, une zone chaude à 28°C–30°C et une humidité de base de 40%–50%. Toute manipulation dans les 48 heures suivant la prise de nourriture ou une température digestive insuffisante provoque une régurgitation mortelle. De plus, sa souplesse en fait un maître de l'évasion. Dans ce guide, vous présente une routine en 3 étapes.",
-                "whyTitle": "Langage corporel du Serpent des Blés : Battement de queue (Tail Rattling) et posture d'attaque en S (S-Strike Posture)",
-                "whyDesc": "Les serpents des blés expriment leur stress et leur vigilance par des vibrations de la queue et leur posture corporelle. Faire vibrer rapidement sa queue contre le sol pour produire un grésillement **« Battement de queue (Tail Rattling) »** est un comportement d'intimidation imitant le serpent à sonnette. En revanche, replier le tiers antérieur du corps en forme de S **« Posture d'attaque en S (S-Strike Posture) »** est une mise en garde explicite avant une morsure défensive.",
-                "body_signals": [
-                    {
-                        "name": "Faire vibrer rapidement la queue contre le substrat (Tail Rattling)",
-                        "meaning": "Mécanisme de défense instinctif imitant le serpent à sonnette lorsqu'il est surpris par un geste brusque.",
-                        "response": "Retirez immédiatement la main et laissez le serpent tranquille dans son abri pour qu'il s'apaise."
-                    },
-                    {
-                        "name": "Replier le haut du corps en S en ciblant avec la tête (S-Strike Posture)",
-                        "meaning": "Avertissement d'attaque défensive indiquant que le serpent se sent coincé et s'apprête à mordre.",
-                        "response": "Arrêtez toute tentative de manipulation et fermez le terrarium pour supprimer l'élément déclencheur."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Contrôle du gradient thermique (Froid 22°C–24°C / Chaud 28°C–30°C) & vérification des verrous",
-                        "text": "Maintenez un environnement plus frais que pour les pythons, contrôlez l'humidité (40%–50%) et vérifiez le verrouillage des aérations."
-                    },
-                    {
-                        "name": "Après-midi : Eau fraîche renouvelée & hygiène du substrat",
-                        "text": "Renouvelez l'eau du bac chaque jour et éliminez les déjections humides pour prévenir les affections cutanées."
-                    },
-                    {
-                        "name": "Soir : Repos de 48h après le repas & boite humide en période de mue",
-                        "text": "Interdisez toute manipulation pendant au moins 48 heures après la prise de proie pour éviter la régurgitation, et ajoutez une boîte humide lors de la phase bleue."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mon Serpent des Blés a régurgité sa proie, que dois-je faire ?",
-                        "answer": "La régurgitation est une urgence qui brûle l'œsophage et l'estomac avec les sucs gastriques. Elle est causée par une manipulation précoce (<48h), un point chaud trop froid (<28°C) ou une proie trop volumineuse. Ne donnez aucune nourriture pendant au moins 12 à 14 jours pour laisser la muqueuse guérir, puis reprenez avec une très petite proie bien chaude."
-                    },
-                    {
-                        "question": "Mon serpent pousse constamment sur les joints du terrarium avec son museau, est-ce normal ?",
-                        "answer": "Les serpents des blés sont des 'artistes de l'évasion' particulièrement agiles. Si leur tête passe dans un trou, tout le corps suivra ; utilisez toujours un terrarium verrouillé. Si ce comportement persiste, vérifiez que la température n'est pas trop élevée et qu'il dispose d'abris suffisants."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Verhaltenssignale der Kornnatter und 3-Schritte-Tagesroutine für Temperatur, Regurgitations- und Häutungspflege",
-                "description": "Pflegeanleitung für die friedliche Kornnatter (Corn Snake). Schwanzrasseln und S-Angriffshaltung verstehen, Temperaturgefälle (22 °C–30 °C) einrichten und Regurgitation in 3 Schritten vermeiden.",
-                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & USARK Herpetologische Standards",
-                "profile": {
-                    "breed": "Kornnatter (Corn Snake / Pantherophis guttatus)",
-                    "lifespan": "15 ~ 20 Jahre (Bei optimaler Haltung über 20 Jahre)",
-                    "sleep_pattern": "12 ~ 14 Stunden (Nacht-/Dämmerungsaktiv, ruht tagsüber in Verstecken)",
-                    "temperament": "Friedlich, Neugierig, Aktiv, Ausbruchsgeschickt"
-                },
-                "intro": "Benannt nach dem getreidekornartigen Muster auf ihren Bauchschuppen, ist die Kornnatter (Pantherophis guttatus) wegen ihres sanftmütigen Wesens und ihrer Vielfalt an Farbformen die beliebteste Einsteigerschlange weltweit. Kornnattern benötigen kühlere Temperaturen als Königspythons: eine kühle Zone von 22 °C–24 °C, eine warme Zone von 28 °C–30 °C und eine Grundfeuchtigkeit von 40 %–50 %. Handling innerhalb von 48 Stunden nach der Fütterung oder zu kalte Verdauungstemperaturen lösen gefährliches Erbrechen (Regurgitation) aus. Zudem sind sie geschickte Ausbrecher. In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für Ihre Kornnatter.",
-                "whyTitle": "Körpersprache der Kornnatter: Schwanzrasseln (Tail Rattling) und S-förmige Angriffshaltung (S-Strike Posture)",
-                "whyDesc": "Kornnattern drücken Stress und Abwehr über Schwanzvibrationen und Oberkörperhaltung aus. Das schnelle Schlagen des Schwanzes gegen den Bodengrund **'Schwanzrasseln (Tail Rattling)'** ist ein Abwehrverhalten zur Nachahmung einer Klapperschlange. Das Zurückziehen des vorderen Körpers in eine S-Kurve mit fixiertem Kopf **'S-förmige Angriffshaltung (S-Strike Posture)'** ist dagegen die direkte Warnung vor einem Verteidigungsbiss.",
-                "body_signals": [
-                    {
-                        "name": "Schnelles Vibrieren des Schwanzes am Bodengrund (Tail Rattling)",
-                        "meaning": "Instinktives Warnsignal zur Nachahmung von Klapperschlangen bei Bedrohung oder plötzlichem Schrecken.",
-                        "response": "Ziehen Sie die Hand zurück und lassen Sie die Schlange im Versteck in Ruhe wieder zu sich kommen."
-                    },
-                    {
-                        "name": "S-förmiges Aufrichten des Vorderkörpers mit fixiertem Kopf (S-Strike Posture)",
-                        "meaning": "Direkte Warnung vor einem Verteidigungsbiss, wenn sich die Schlange in die Enge getrieben fühlt.",
-                        "response": "Beenden Sie das Handling sofort und schließen Sie das Terrarium, um die Bedrohung zu entfernen."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Temperaturgefälle (Kühl 22 °C–24 °C / Warm 28 °C–30 °C) & Ausbruchssicherung prüfen",
-                        "text": "Halten Sie kühlere Parameter als bei Pythons ein, prüfen Sie die Luftfeuchtigkeit (40 %–50 %) und kontrollieren Sie Schiebetür-Schlösser."
-                    },
-                    {
-                        "name": "Mittag: Frisches Wasser anbieten & Hygiene im Versteck prüfen",
-                        "text": "Erneuern Sie das Wasser im Badeschale täglich und entfernen Sie feuchten Kot zur Vorbeugung von Hautinfektionen."
-                    },
-                    {
-                        "name": "Abend: 48 Stunden Fütterungsruhe & Feuchtbox während der Häutung",
-                        "text": "Vermeiden Sie Handling mindestens 48 Stunden nach dem Füttern gegen Regurgitation, und bieten Sie in der Blauphase eine Feuchtbox mit Moos an."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Meine Kornnatter hat ihre Futtermaus erbrochen (Regurgitation) – was muss ich tun?",
-                        "answer": "Futtererbrechen ist ein Notfall, der Speiseröhre und Magen durch Magensäure Verätzungen zufügt. Ursachen sind Handling kurz nach der Fütterung (<48 Std.), zu kühle Wärmeplätze (<28 °C) oder zu große Beute. Füttern Sie die Schlange mindestens 12–14 Tage lang gar nicht, damit die Schleimhaut heilt, und starten Sie danach mit einer sehr kleinen, gut erwärmten Maus."
-                    },
-                    {
-                        "question": "Meine Kornnatter drückt dauernd mit der Schnauze gegen Terrarienspalten – ist das normal?",
-                        "answer": "Kornnattern sind extrem bewegliche und geschickte 'Ausbrecherkönige'. Passt der Kopf durch einen Spalt, folgt der gesamte Körper; nutzen Sie stets Terrarienschlösser. Dauerhaftes Drücken kann auch auf zu hohe Temperaturen oder fehlende Verstecke hindeuten."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Sinais comportamentais da Cobra-do-Milho e rotina diária de 3 passos para controle de temperatura, prevenção de regurgitação e troca de pele",
-                "description": "Guia de cuidados para a dócil Cobra-do-Milho (Corn Snake). Entenda a vibração da cauda e a postura em S, ajuste gradientes de temperatura (22°C–30°C) e previna a regurgitação em 3 passos.",
-                "authority": "Associação de Veterinários de Anfíbios e Répteis (ARAV) & Padrões Herpetológicos da USARK",
-                "profile": {
-                    "breed": "Cobra-do-Milho / Cobra-do-Milho-Americana (Pantherophis guttatus)",
-                    "lifespan": "15 ~ 20 anos (Mais de 20 anos com cuidados ideais)",
-                    "sleep_pattern": "12 ~ 14 horas (Noturna/Crepuscular, descansa em abrigos durante o dia)",
-                    "temperament": "Dócil, Curiosa, Ativa, Habilidosa em fugas"
-                },
-                "intro": "Nomeada pelo padrão em formato de grãos de milho em suas escamas ventrais, a Cobra-do-Milho (Pantherophis guttatus) é a cobra de estimação mais popular do mundo devido ao seu temperamento dócil e lindas variações de cor. Elas necessitam de um gradiente térmico mais ameno do que as pitons: uma zona fria de 22°C–24°C, uma zona quente de 28°C–30°C e umidade base de 40%–50%. O manuseio nas primeiras 48 horas após a alimentação ou baixas temperaturas digestivas causam a perigosa regurgitação. Além disso, seu corpo esguio as torna especialistas em fugas. Neste guia, apresenta uma rotina de 3 passos para cuidar da sua cobra.",
-                "whyTitle": "Linguagem corporal da Cobra-do-Milho: Vibração da cauda (Tail Rattling) e postura de ataque em S (S-Strike Posture)",
-                "whyDesc": "As cobras-do-milho comunicam estresse e alerta através de vibrações da cauda e postura corporal. Vibrar a cauda rapidamente contra o substrato para imitar uma cascavel **'Vibração da cauda (Tail Rattling)'** é um comportamento defensivo quando assustadas. Por outro lado, recolher o terço anterior do corpo em formato de S **'Postura de ataque em S (S-Strike Posture)'** é um aviso explícito antes de uma bicada defensiva.",
-                "body_signals": [
-                    {
-                        "name": "Vibrar a cauda rapidamente contra o substrato (Tail Rattling)",
-                        "meaning": "Comportamento defensivo instintivo imitando cascavéis quando assustadas por manuseio repentino.",
-                        "response": "Retire a mão imediatamente e deixe a cobra tranquila em seu abrigo para recuperar a calma."
-                    },
-                    {
-                        "name": "Dobrar a parte superior do corpo em S direcionando a cabeça (S-Strike Posture)",
-                        "meaning": "Aviso de ataque defensivo indicando que a cobra se sente acorralada e está pronta para morder.",
-                        "response": "Interrompa o manuseio imediatamente e feche o terrário para remover a fonte de ameaça."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Controle do gradiente térmico (Frio 22°C–24°C / Quente 28°C–30°C) e verificação das travas",
-                        "text": "Mantenha temperaturas mais amenas que as de pitons, controle a umidade (40%–50%) e cheque as travas antifuga."
-                    },
-                    {
-                        "name": "Tarde: Renovação de água fresca e higiene do substrato",
-                        "text": "Troque a água diariamente em um recipiente espaçoso e limpe sujeiras úmidas para evitar infecções de pele."
-                    },
-                    {
-                        "name": "Noite: Repouso de 48h pós-alimentação e toca úmida durante a muda",
-                        "text": "Não manuseie a cobra por no mínimo 48 horas após a refeição para evitar regurgitação, adicionando uma toca úmida durante a fase azul."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Minha Cobra-do-Milho regurgitou o camundongo, o que devo fazer?",
-                        "answer": "A regurgitação é uma emergência que fere gravemente o esôfago e o estômago com ácidos gástricos. Ocorre por manuseio precoce (<48h), falta de calor no ponto quente (<28°C) ou alimento muito grande. Não alimente a cobra por pelo menos 12-14 dias para permitir a cicatrização estomacal e recomece com uma presa bem pequena e bem aquecida."
-                    },
-                    {
-                        "question": "Minha cobra empurra as frestas do terrário com a cabeça tentando fugir, isso é normal?",
-                        "answer": "As cobras-do-milho são mestres em fugas dotadas de grande agilidade. Se a cabeça passar por uma fresta, o corpo inteiro passará; use sempre travas de segurança no terrário. Se o comportamento for insistente, verifique se a temperatura não está alta demais."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Sinyal Perilaku Ular Jagung (Corn Snake) dan Rutinitas Harian 3 Langkah Perawatan Suhu, Pencegahan Muntah Pakan, serta Ganti Kulit",
-                "description": "Panduan perawatan Ular Jagung (Corn Snake) yang jinak. Pahami getaran ekor dan postur serangan S, atur gradien suhu (22°C–30°C), serta cegah regurgitasi pakan dalam 3 langkah.",
-                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Standar Perawatan Herpetologi USARK",
-                "profile": {
-                    "breed": "Ular Jagung / Corn Snake (Pantherophis guttatus)",
-                    "lifespan": "15 ~ 20 tahun (Lebih dari 20 tahun dengan perawatan optimal)",
-                    "sleep_pattern": "12 ~ 14 jam (Nokturnal/Krepuskular, beristirahat di tempat sembunyi saat siang)",
-                    "temperament": "Jinak, Penasaran, Aktif, Ahli meloloskan diri (Escape Artist)"
-                },
-                "intro": "Dinamai dari pola sisik perutnya yang menyerupai bulir jagung, Ular Jagung (Pantherophis guttatus) adalah ular peliharaan favorit pemula di seluruh dunia karena sifatnya yang jinak dan variasi warna (morph) yang menakjubkan. Ular jagung membutuhkan gradien suhu yang lebih sejuk daripada Piton Bola, berkembang baik pada area dingin 22°C–24°C, area panas 28°C–30°C, dan kelembapan dasar 40%–50%. Memegang ular dalam waktu kurang dari 48 jam setelah makan atau suhu pencernaan yang terlalu dingin dapat menyebabkan regurgitasi (muntah pakan) yang mematikan. Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk merawat Ular Jagung Anda.",
-                "whyTitle": "Bahasa Tubuh Ular Jagung: Getaran Ekor (Tail Rattling) dan Postur Serangan S (S-Strike Posture)",
-                "whyDesc": "Ular Jagung menyampaikan kewaspadaan dan rasa terancam melalui getaran ekor serta lekukan tubuh bagian atas. Menggetarkan ekor dengan cepat pada alas kandang untuk meniru ular derik **'Getaran Ekor (Tail Rattling)'** adalah sinyal peringatan saat merasa kaget atau terancam. Sebaliknya, menarik sepertiga tubuh bagian depan menjadi bentuk huruf S **'Postur Serangan S (S-Strike Posture)'** adalah peringatan tegas sebelum gigitan bertahan.",
-                "body_signals": [
-                    {
-                        "name": "Menggetarkan Ekor dengan Cepat pada Alas Kandang (Tail Rattling)",
-                        "meaning": "Sinyal pertahanan naluriah meniru ular derik saat terkejut oleh penanganan mendadak atau ancaman luar.",
-                        "response": "Segera jauhkan tangan dan biarkan ular beristirahat dengan tenang di dalam tempat sembunyinya."
-                    },
-                    {
-                        "name": "Membengkokkan Tubuh Atas Menjadi Bentuk S & Menargetkan Kepala (S-Strike Posture)",
-                        "meaning": "Peringatan serangan bertahan yang menandakan ular merasa terpojok dan siap menggigit.",
-                        "response": "Segera hentikan penanganan dan tutup pintu kandang untuk menghilangkan faktor ancaman."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Pemeriksaan Gradien Suhu (Dingin 22°C–24°C / Panas 28°C–30°C) & Kunci Keamanan Kandang",
-                        "text": "Jaga suhu lebih sejuk daripada spesies piton, periksa kelembapan (40%–50%), dan pastikan kunci pengaman kandang terpasang rapat."
-                    },
-                    {
-                        "name": "Siang: Penggantian Air Bersih & Kebersihan Tempat Sembunyi",
-                        "text": "Ganti air minum setiap hari dalam wadah yang cukup untuk berendam dan bersihkan kotoran basah untuk mencegah infeksi kulit."
-                    },
-                    {
-                        "name": "Malam: Istirahat 48 Jam Pasca-Makan & Kotak Sembunyi Lembap untuk Ganti Kulit",
-                        "text": "Dilarang memegang ular minimal 48 jam setelah makan untuk mencegah regurgitasi, dan sediakan tempat sembunyi lembap saat fase mata biru."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Ular Jagung saya memuntahkan kembali tikus yang dimakannya (Regurgitasi), apa yang harus dilakukan?",
-                        "answer": "Regurgitasi adalah kondisi darurat yang melukai dinding kerongkongan dan lambung akibat asam lambung. Penyebabnya adalah dipegang dalam kurun 48 jam pasca-makan, suhu area panas kurang (di bawah 28°C), atau ukuran mangsa terlalu besar. Jangan beri makan selama minimal 12–14 hari agar lambung pulih sepenuhnya, lalu mulai kembali dengan mangsa berukuran sangat kecil yang dihangatkan."
-                    },
-                    {
-                        "question": "Ular Jagung saya terus mendorong celah kandang dengan kepalanya untuk kabur, apakah ini normal?",
-                        "answer": "Ular Jagung adalah 'ahli meloloskan diri' yang sangat lincah. Jika kepalanya bisa muat di suatu celah, seluruh tubuhnya akan ikut lolos; selalu gunakan kandang dengan pengunci yang kuat. Jika perilaku ini terus berlanjut, periksa apakah suhu kandang terlalu panas atau tempat sembunyi kurang."
-                    }
-                ]
-            }
+  "corn-snake-care": {
+    "pubDate": "2026-05-28",
+    "updatedDate": "2026-07-26",
+    "locales": {
+      "ko": {
+        "title": "콘스네이크의 방어 신호 해석과 거식·구토 예방을 위한 3단계 데일리 케어",
+        "description": "온순하고 화려한 뱀 콘스네이크(Corn Snake). 꼬리 떨기·S자 공격 자세 신호 해석, 적정 온도(22°C~30°C) 및 먹이 구토 예방을 위한 3단계 홈케어 루틴을 소개합니다.",
+        "authority": "국제 파충류 수의학회 (ARAV) 및 USARK Herpetological Care Standards",
+        "profile": {
+          "breed": "콘스네이크 / 옥수수뱀 (Corn Snake / Pantherophis guttatus)",
+          "lifespan": "15 ~ 20년 (올바른 케어 시 20년 이상)",
+          "sleep_pattern": "12 ~ 14시간 (야행성/박명성, 낮 동안 은신처 휴식)",
+          "temperament": "온순함, 호기심 많음, 활동적, 탈출 능숙함"
         },
-        "heroImage": "/images/blog/corn_snake_care.webp"
-    }
+        "intro": "옥수수 알갱이를 닮은 배 비늘 무늬에서 이름이 유래된 콘스네이크(Corn Snake)는 온순한 성격과 화려한 다형성(Morph)으로 전 세계에서 가장 사랑받는 입문용 반려 뱀입니다. 볼파이톤보다 낮고 서늘한 적정 온도 경사(쿨존 22°C~24°C / 핫존 28°C~30°C)와 평소 40%~50%의 습도가 유지되어야 건강하게 서식합니다. 섭식 후 48시간 이내에 핸들링을 하거나 소화 온도가 부족할 경우 치명적인 먹이 구토(Regurgitation)가 발생할 수 있으며, 몸이 유연하여 틈새 탈출에 매우 능숙합니다. 이번 가이드에서는 콘스네이크의 행동 신호를 이해하고 구토와 탈피 부전을 예방하는 3단계 홈케어 루틴을 전해드립니다.",
+        "whyTitle": "콘스네이크의 바디 랭귀지: 꼬리 진동(Tail Rattling)과 S자 타격 자세(S-Strike Posture)",
+        "whyDesc": "콘스네이크는 꼬리의 진동과 상체의 곡선 모양으로 경계와 자극 상태를 전달합니다. 바닥재나 벽면에 꼬리를 빠르게 진동시켜 '딱딱' 소리를 내는 **'꼬리 떨기(Tail Rattling)'**는 방울뱀을 모사하여 위협을 알리는 경계 신호입니다. 반면 몸의 앞쪽 3분의 1을 S자로 접어 올리고 머리를 고정하는 **'S자 타격 자세(S-Strike Posture)'**는 방어적 공격 직전의 경고 신호입니다.",
+        "body_signals": [
+          {
+            "name": "바닥재에 꼬리를 바짝 대고 빠르게 진동함 (Tail Rattling)",
+            "meaning": "포식자의 위협이나 갑작스러운 자극을 느꼈을 때 방울뱀을 모사하여 경고하는 방어 신호입니다.",
+            "response": "자극을 주지 말고 손을 거두어 은신처에서 스스로 안정을 찾을 수 있도록 조용히 내버려 둡니다."
+          },
+          {
+            "name": "상체를 S자로 꺾어 세우고 머리를 겨눔 (S-Strike Posture)",
+            "meaning": "더 이상 물러설 곳이 없다고 느끼거나 강한 위협을 받았을 때 입을 벌려 물기 직전의 공격 준비 신호입니다.",
+            "response": "무리한 접근이나 핸들링을 즉시 중단하고 사육장 문을 닫아 위협 요소를 제거합니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 적정 온도 경사(쿨존 22°C~24°C / 핫존 28°C~30°C) 및 환기 점검",
+            "text": "볼파이톤보다 서늘한 온도를 유지해 주고, 습도 40%~50%를 체크하며 환기구 틈새 락킹 상태를 점검합니다."
+          },
+          {
+            "name": "낮: 물그릇 청결 유지 및 은신처 주간 수면 모니터링",
+            "text": "몸을 씻고 마실 수 있는 신선한 물을 매일 교체해 주고, 축축한 배설물을 청소하여 피부 질환을 예방합니다."
+          },
+          {
+            "name": "저녁: 피딩 후 48시간 안정(휴식) 및 탈피기 습식 은신처 제공",
+            "text": "먹이를 먹인 후에는 위산 역류와 구토를 막기 위해 최소 48시간 동안 핸들링을 금지하며, 탈피(블루) 시기에는 습식 은신처를 넣어줍니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "콘스네이크가 먹은 쥐를 그대로 토해냈는데(Regurgitation) 어떻게 하나요?",
+            "answer": "먹이 구토는 식도와 위장 점막에 심각한 산성 상처를 남기는 응급 상황입니다. 급여 후 48시간 이내 핸들링, 핫존 온도 부족(28°C 미만), 또는 과도하게 큰 먹이가 원인입니다. 구토 후 최소 12~14일 동안은 절대 먹이를 주지 말고 위장을 회복시켜야 하며, 이후 아주 작은 사이즈의 데운 먹이부터 다시 시도해야 합니다."
+          },
+          {
+            "question": "사육장 뚜껑을 닫아놓았는데 자꾸 틈새를 머리로 밀며 탈출을 시도해요.",
+            "answer": "콘스네이크는 파충류 중에서도 유연하고 지능적인 '탈출 전문가(Escape Artist)'입니다. 머리가 들어가는 작은 틈만 있어도 몸 전체가 빠져나갈 수 있으므로, 클립이나 잠금장치가 있는 슬라이딩 케이지를 사용해야 합니다. 사육장이 너무 좁거나 온도가 너무 높은 경우에도 탈출 행동이 늘어나므로 온·습도를 점검하세요."
+          }
+        ]
+      },
+      "en": {
+        "title": "Corn Snake Behavioral Signals and 3-Step Daily Routine for Temperature, Regurgitation, and Shedding Care",
+        "description": "Care guide for the docile Corn Snake. Interpret tail rattling and S-strike posture, maintain proper thermal gradients (22°C–30°C), and prevent regurgitation in 3 steps.",
+        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & USARK Herpetological Care Standards",
+        "profile": {
+          "breed": "Corn Snake (Pantherophis guttatus)",
+          "lifespan": "15 - 20 Years (Up to 20+ years with optimal care)",
+          "sleep_pattern": "12 - 14 Hours (Nocturnal/Crepuscular, Rests in hides during the day)",
+          "temperament": "Docile, Curious, Active, Skilled Escape Artist"
+        },
+        "intro": "Named for the corn-like checkered pattern on their belly scales, the Corn Snake (Pantherophis guttatus) is the most cherished starter pet snake worldwide due to its docile nature and striking color morphs. Corn snakes require cooler thermal gradients than Ball Pythons, thriving with a cool zone of 22°C–24°C, a hot zone of 28°C–30°C, and baseline humidity of 40%–50%. Handling within 48 hours post-feeding or inadequate basking temperatures can cause fatal regurgitation. Furthermore, their slender, muscular bodies make them notorious escape artists. In this guide, presents a 3-step daily care routine to read your snake's signals and maintain its health.",
+        "whyTitle": "Corn Snake Body Language: Tail Rattling and S-Strike Posture",
+        "whyDesc": "Corn Snakes communicate alert states and defensive agitation through tail vibration and body posture. Rapidly vibrating their tail against substrate or walls to produce a buzzing noise **'Tail Rattling'** is a defensive mimicry of rattlesnakes when feeling threatened. Conversely, pulling the front third of the body back into an S-curve while staring **'S-Strike Posture'** is an explicit warning of an impending defensive strike.",
+        "body_signals": [
+          {
+            "name": "Rapidly Vibrating Tail Against Substrate (Tail Rattling)",
+            "meaning": "An instinctual defensive warning mimicking rattlesnakes when startled by sudden handling or perceived threats.",
+            "response": "Retract your hand immediately and allow the snake undisturbed time inside its hide to regain calm."
+          },
+          {
+            "name": "S-Curving Upper Body & Aiming Head (S-Strike Posture)",
+            "meaning": "A defensive strike warning indicating the snake feels cornered or intensely threatened and is ready to bite.",
+            "response": "Stop all handling immediately and close the enclosure door to remove external threat factors."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Thermal Gradient Check (Cool 22°C–24°C / Hot 28°C–30°C) & Ventilation Lock Inspection",
+            "text": "Maintain cooler temperatures than python species, checking digital humidity (40%–50%) and verifying cage escape-lock security."
+          },
+          {
+            "name": "Afternoon: Fresh Water Bowl Renewal & Hide Substrate Hygiene",
+            "text": "Change water daily in a bowl suitable for soaking, removing damp waste to prevent skin and scale infections."
+          },
+          {
+            "name": "Evening: 48-Hour Post-Feeding Rest & Moist Hide Placement for Shedding",
+            "text": "Strictly refrain from handling for at least 48 hours after feeding to prevent regurgitation, providing a moist moss hide during blue phase."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "My Corn Snake regurgitated its prey—what should I do?",
+            "answer": "Regurgitation is a medical emergency that severely damages the esophagus and stomach lining with stomach acids. Causes include handling within 48 hours post-feeding, low hot-zone temperatures (below 28°C), or oversized prey. Do not offer food for at least 12–14 days to allow gut mucosa to heal, then restart with a much smaller, thoroughly warmed prey item."
+          },
+          {
+            "question": "My Corn Snake keeps pushing against lid seams trying to escape—is this normal?",
+            "answer": "Corn Snakes are highly agile and intelligent escape artists. If their head fits through a gap, their whole body will follow; always secure cages with locking clips or sliding locks. Persistent pushing can also indicate overheating or inadequate hideouts, so double-check enclosure temperatures."
+          }
+        ]
+      },
+      "ja": {
+        "title": "コーンスネークの威嚇サイン解読と嘔吐・温度管理のための3ステップデイリールーティン",
+        "description": "温厚で美しく人気のコーンスネーク（Corn Snake）。尻尾の振動やS字威嚇姿勢の解読、適正温度(22°C〜30°C)と吐き戻し（嘔吐）予防のための3ステップホームケアを紹介します。",
+        "authority": "国際爬虫類両生類獣医学会(ARAV)およびUSARK飼育基準",
+        "profile": {
+          "breed": "コーンスネーク / ナメラ (Corn Snake / Pantherophis guttatus)",
+          "lifespan": "15 〜 20년 (適切な環境下で20年以上)",
+          "sleep_pattern": "12 〜 14時間 (夜行性/薄明薄暮性、昼間はシェルターで休息)",
+          "temperament": "温厚、好奇心旺盛、活動的、脱走が得意"
+        },
+        "intro": "トウモロコシの粒に似た腹部の模様からその名がついたコーンスネーク（Corn Snake）は、温厚な性格と豊かなカラーモルフで、世界中で最も親しまれている入門用のペットスネークです。ボールパイソンよりもやや低めで涼しい温度勾配（クールゾーン22°C〜24°C / ホットゾーン28°C〜30°C）と、普段40%〜50%の湿度管理が必要です。給餌後48時間以内に触ったり、消化温度が不足すると危険な「吐き戻し（Regurgitation）」を起こすことがあり、しなやかな体で隙間から脱走するのが得意です。本記事では、コーンスネークのサインを読み解き、嘔吐と脱皮不全を防ぐ3ステップルーティンをお届けします。",
+        "whyTitle": "コーンスネークのボディランゲージ：尻尾の振動(Tail Rattling)とS字威嚇姿勢(S-Strike Posture)",
+        "whyDesc": "コーンスネークは尻尾の振動と上半身の姿勢で警戒状態を表します。床材や壁面に尻尾を高速で打ち付けて音を立てる**「尻尾の振動（Tail Rattling）」**は、ガラガラヘビを模倣して威嚇する警戒サインです。一方、体の前部3分の1をS字に折り曲げて頭を向ける**「S字威嚇姿勢（S-Strike Posture）」**は、噛みつく直前の防御的攻撃サインです。",
+        "body_signals": [
+          {
+            "name": "床材に尻尾を押し当てて高速振動させる (Tail Rattling)",
+            "meaning": "外敵や急な刺激を感じた際、ガラガラヘビを模して警告を発する自己防衛サインです。",
+            "response": "手を引っ込め、シェルターの中で自分で落ち着くまで刺激を与えず静かにしておきます。"
+          },
+          {
+            "name": "上半身をS字に折り曲げて頭を向ける (S-Strike Posture)",
+            "meaning": "追いつめられたと感じた際や強い脅威を受けた際に見せる、噛みつく直前の威嚇・攻撃態勢です。",
+            "response": "無理な接近やハンドリングを直ちに中止し、ケージの扉を閉めて危険要因を取り除きます。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：適正温度勾配（クール22°C〜24°C / ホット28°C〜30°C）＆換気・ロック確認",
+            "text": "他のニシキヘビ類より涼しい温度を保ち、湿度40%〜50%の確認と、ケージの隙間や鍵のロック状態を点検します。"
+          },
+          {
+            "name": "昼：水皿の清潔維持＆シェルターでの睡眠モニタリング",
+            "text": "全身が入れる水皿の水を毎日交換し、湿った排泄物を掃除して皮膚疾患や細菌感染を防ぎます。"
+          },
+          {
+            "name": "夜：給餌後48時間の安静＆脱皮時のウェットシェルター設置",
+            "text": "食後の胃酸逆流や吐き戻しを防ぐため食後最低48時間は触るのを控え、白濁（ブルー）時には湿らせた水苔シェルターを入れます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "コーンスネークが食べたマウスを吐き戻してしまった（Regurgitation）のですが、どう対処すればいいですか？",
+            "answer": "吐き戻しは食道や胃の粘膜に強い酸性ダメージを与える緊急事態です。給餌後48時間以内のハンドリング、ホットゾーンの温度不足（28°C未満）、サイズが大きすぎる餌が主な原因です。吐いた後最低12〜14日間は絶対に餌を与えず胃腸を休ませ、その後極小サイズの温めたマウスから慎重に再開してください。"
+          },
+          {
+            "question": "蓋を閉めているのに、隙間に頭を押し当てて脱走しようとします。",
+            "answer": "コーンスネークは非常にしなやかで知能が高い「脱走の達人」です。頭が入るわずかな隙間があれば全身で抜け出してしまうため、ロック機能付きのスライドケージやクリップを必ず使用してください。ケージ内が狭すぎたり温度が高すぎる場合も脱走行動が増えるため、温湿度も再確認しましょう。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "玉米蛇防御信号解读与预防吐食及温湿度护理的3步日常流程",
+        "description": "温和绚丽的入门宠物蛇玉米蛇（Corn Snake）护理指南。解读尾部震动与S型攻击姿态，维持适宜温度（22°C~30°C）及预防吐食的3步骤家庭护理。",
+        "authority": "国际爬行动物兽医协会 (ARAV) 与 USARK 兽医护理标准",
+        "profile": {
+          "breed": "玉米蛇 (Corn Snake / Pantherophis guttatus)",
+          "lifespan": "15 ~ 20年 (科学饲养可达20年以上)",
+          "sleep_pattern": "12 ~ 14小时 (夜行性/薄暮性，白天在躲避穴休息)",
+          "temperament": "温和、好奇心强、活跃、极具越狱能力"
+        },
+        "intro": "因腹部鳞片图案酷似玉米粒而得名的玉米蛇（Corn Snake），凭借其温和的性格与极其丰富的基因变异（Morph），成为全球最受欢迎的入门级宠物蛇。与球蟒相比，玉米蛇需要更凉爽的温度梯度（冷区 22°C~24°C / 热区 28°C~30°C）以及 40%~50% 的基础湿度。若在进食后 48 小时内上手互动或消化温度不足，极易引发致命的**吐食（Regurgitation）**；且其柔软的身躯使其成为名副其实的“越狱大师”。本指南将带您准确解读玉米蛇的肢体语言，并通过 3 步骤日常护理维护其健康。",
+        "whyTitle": "玉米蛇的肢体语言：尾部震动 (Tail Rattling) 与 S 型攻击姿态 (S-Strike Posture)",
+        "whyDesc": "玉米蛇通过尾部震动与前半身的姿态表达警惕与应激状态。将尾尖快速打在垫料或缸壁上发出啪啪声**“尾部震动 (Tail Rattling)”**，是模仿响尾蛇发出的警告防御信号。相反，将身体前三分之一折叠成 S 型并固定头部**“S 型攻击姿态 (S-Strike Posture)”**，则是防御性咬人前的明确警告。",
+        "body_signals": [
+          {
+            "name": "尾巴紧贴垫料并快速高频震动 (Tail Rattling)",
+            "meaning": "受到突如其来的惊吓或感到外界威胁时，模仿响尾蛇发出的警告与自卫信号。",
+            "response": "切勿继续打扰，收回手并让其在躲避穴中自行恢复平静。"
+          },
+          {
+            "name": "前半身弯曲成 S 型并抬起头部 (S-Strike Posture)",
+            "meaning": "感到无路可退或受到强应激时，准备张嘴咬人的防御性攻击前兆。",
+            "response": "立即停止强行接触，关闭笼舍门以消除外界威胁因素。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：温度梯度（冷区 22°C~24°C / 热区 28°C~30°C）与防逃锁扣检查",
+            "text": "保持比蟒蛇类更凉爽的环境，检查 40%~50% 的基础湿度，并确认通风口与箱盖卡扣紧固。"
+          },
+          {
+            "name": "中午：水盆清洁与躲避穴睡眠环境监测",
+            "text": "每日更换可供其全身泡澡的干净饮用水，及时清理排泄物以防皮肤感染。"
+          },
+          {
+            "name": "晚上：进食后 48 小时禁上手与脱皮期湿俱盒提供",
+            "text": "进食后 48 小时内严禁上手以防胃酸逆流吐食，进入蓝眼脱皮期时提供湿润水苔盒。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "玉米蛇把刚吞下的乳鼠吐出来了（吐食），应该怎么处理？",
+            "answer": "吐食（Regurgitation）是对蛇类食道和胃黏膜造成严重酸蚀的紧急状况。常见原因包括进食后 48 小时内上手、热区温度不足（低于 28°C）或食物过大。吐食后至少 12~14 天内严禁喂食，必须让胃肠黏膜充分休养恢复，之后从极小尺寸的加温乳鼠重新开始尝试。"
+          },
+          {
+            "question": "明明关好了箱盖，玉米蛇为什么总用头顶缝隙尝试逃跑？",
+            "answer": "玉米蛇是爬宠界极具智商与柔韧性的“越狱专家”。只要头部能够挤出小缝，全身即可穿过，因此必须使用带安全锁扣的专业饲养箱。若笼舍空间过小或温度过高，也会加剧其逃跑行为，请及时复查温湿度。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Señales de conducta en la Serpiente del Maíz y rutina diaria de 3 pasos para el control de temperatura, prevención de regurgitación y muda",
+        "description": "Guía de cuidado para la dócil Serpiente del Maíz (Corn Snake). Interprete la vibración de la cola y la postura en S, mantenga gradientes térmicos (22°C–30°C) y prevenga la regurgitación en 3 pasos.",
+        "authority": "Asociación de Veterinarios de Anfibios y Reptiles (ARAV) y Estándares de Herpetología de USARK",
+        "profile": {
+          "breed": "Serpiente del Maíz / Culebra del Maíz (Pantherophis guttatus)",
+          "lifespan": "15 ~ 20 años (Más de 20 años con cuidados óptimos)",
+          "sleep_pattern": "12 ~ 14 horas (Nocturna/Crepuscular, reposa en refugios de día)",
+          "temperament": "Dócil, Curiosa, Activa, Experta escapista"
+        },
+        "intro": "Llamada así por el patrón en forma de granos de maíz de sus escamas ventrales, la Serpiente del Maíz (Pantherophis guttatus) es la serpiente de compañía más apreciada en el mundo por su carácter dócil y sus vistosas fases de color. Requieren gradientes térmicos más frescos que los pitones, prosperando con una zona fría de 22°C–24°C, una zona caliente de 28°C–30°C y una humedad base del 40%–50%. Manipularla antes de 48 horas tras comer o una temperatura digestiva baja provoca una regurgitación letal. Además, su cuerpo delgado y elástico las convierte en maestras del escape. En esta guía, presenta una rutina de 3 pasos para cuidar su salud.",
+        "whyTitle": "Lenguaje corporal de la Serpiente del Maíz: Vibración de la cola y postura de ataque en S (S-Strike Posture)",
+        "whyDesc": "Las serpientes del maíz comunican alerta y estrés mediante la vibración de su cola y la postura de su tronco. Hacer vibrar rápidamente la cola contra el sustrato para imitar a una cascabel **'Vibración de la cola (Tail Rattling)'** es una señal defensiva ante amenazas. En cambio, replegar el primer tercio del cuerpo en forma de S sosteniendo la cabeza **'Postura de ataque en S (S-Strike Posture)'** es una advertencia de mordisco defensivo inminente.",
+        "body_signals": [
+          {
+            "name": "Vibrar rápidamente la cola contra el sustrato (Tail Rattling)",
+            "meaning": "Señal defensiva instintiva que imita a las serpientes de cascabel al asustarse por manipulaciones bruscas.",
+            "response": "Retire la mano de inmediato y deje a la serpiente tranquila dentro de su refugio para que recupere la calma."
+          },
+          {
+            "name": "Plegar el torso en forma de S apuntando la cabeza (S-Strike Posture)",
+            "meaning": "Advertencia de ataque defensivo indicando que se siente acorralada y está lista para morder.",
+            "response": "Interrumpa la manipulación de inmediato y cierre el terrario para eliminar los factores de amenaza."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Control del gradiente térmico (Frío 22°C–24°C / Caliente 28°C–30°C) e inspección de cierres",
+            "text": "Mantenga temperaturas más frescas que en las pitones, verifique la humedad (40%–50%) y revise la seguridad de los cierres antiderrame."
+          },
+          {
+            "name": "Tarde: Renovación de agua fresca e higiene del refugio",
+            "text": "Cambie el agua diariamente en un recipiente adecuado para el baño y limpie deyecciones húmedas para evitar dermatitis."
+          },
+          {
+            "name": "Noche: 48 horas de reposo posalimentación y refugio húmedo para la muda",
+            "text": "Prohíba estrictamente la manipulación durante 48 horas tras la comida para evitar la regurgitación, y coloque un refugio húmedo durante la fase azul."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mi Serpiente del Maíz ha regurgitado la presa, ¿qué debo hacer?",
+            "answer": "La regurgitación es una urgencia veterinaria que quema el esófago con jugos gástricos. Se debe a la manipulación prematura (<48 horas), temperatura baja en el punto caliente (<28°C) o presas excesivamente grandes. No alimente a la serpiente durante al menos 12-14 días para permitir la cicatrización gástrica, y reinicie la dieta con una presa muy pequeña y bien templada."
+          },
+          {
+            "question": "Mi serpiente empuja constantemente las juntas del terrario con la cabeza para escapar, ¿es normal?",
+            "answer": "Las serpientes del maíz son famosas 'escapistas' dotadas de gran agilidad. Si su cabeza cabe por una rendija, el resto del cuerpo pasará; utilice siempre terrarios con cierres de seguridad. Si el hábito es persistente, revise si la temperatura es demasiado alta o si faltan refugios."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Signaux comportementaux du Serpent des Blés et routine quotidienne en 3 étapes pour la température, la prévention des régurgitations et la mue",
+        "description": "Guide de soins pour le docile Serpent des Blés (Corn Snake). Décryptez le battement de queue et la posture en S, ajustez le gradient thermique (22°C–30°C) et prévenez les régurgitations en 3 étapes.",
+        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Normes d'Élevage USARK",
+        "profile": {
+          "breed": "Serpent des Blés (Corn Snake / Pantherophis guttatus)",
+          "lifespan": "15 ~ 20 ans (Plus de 20 ans avec des soins adaptés)",
+          "sleep_pattern": "12 ~ 14 heures (Nocturne/Crépusculaire, se repose dans des cachettes le jour)",
+          "temperament": "Docile, Curieux, Actif, Expert en évasion"
+        },
+        "intro": "Tirant son nom des motifs en damier rappelant les épis de maïs sous son ventre, le Serpent des Blés (Pantherophis guttatus) est le serpent d'agrément le plus populaire au monde grâce à sa douceur et ses multiples phases de couleurs. Il requiert un gradient thermique plus frais que celui du Python Royal : une zone froide à 22°C–24°C, une zone chaude à 28°C–30°C et une humidité de base de 40%–50%. Toute manipulation dans les 48 heures suivant la prise de nourriture ou une température digestive insuffisante provoque une régurgitation mortelle. De plus, sa souplesse en fait un maître de l'évasion. Dans ce guide, vous présente une routine en 3 étapes.",
+        "whyTitle": "Langage corporel du Serpent des Blés : Battement de queue (Tail Rattling) et posture d'attaque en S (S-Strike Posture)",
+        "whyDesc": "Les serpents des blés expriment leur stress et leur vigilance par des vibrations de la queue et leur posture corporelle. Faire vibrer rapidement sa queue contre le sol pour produire un grésillement **« Battement de queue (Tail Rattling) »** est un comportement d'intimidation imitant le serpent à sonnette. En revanche, replier le tiers antérieur du corps en forme de S **« Posture d'attaque en S (S-Strike Posture) »** est une mise en garde explicite avant une morsure défensive.",
+        "body_signals": [
+          {
+            "name": "Faire vibrer rapidement la queue contre le substrat (Tail Rattling)",
+            "meaning": "Mécanisme de défense instinctif imitant le serpent à sonnette lorsqu'il est surpris par un geste brusque.",
+            "response": "Retirez immédiatement la main et laissez le serpent tranquille dans son abri pour qu'il s'apaise."
+          },
+          {
+            "name": "Replier le haut du corps en S en ciblant avec la tête (S-Strike Posture)",
+            "meaning": "Avertissement d'attaque défensive indiquant que le serpent se sent coincé et s'apprête à mordre.",
+            "response": "Arrêtez toute tentative de manipulation et fermez le terrarium pour supprimer l'élément déclencheur."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Contrôle du gradient thermique (Froid 22°C–24°C / Chaud 28°C–30°C) & vérification des verrous",
+            "text": "Maintenez un environnement plus frais que pour les pythons, contrôlez l'humidité (40%–50%) et vérifiez le verrouillage des aérations."
+          },
+          {
+            "name": "Après-midi : Eau fraîche renouvelée & hygiène du substrat",
+            "text": "Renouvelez l'eau du bac chaque jour et éliminez les déjections humides pour prévenir les affections cutanées."
+          },
+          {
+            "name": "Soir : Repos de 48h après le repas & boite humide en période de mue",
+            "text": "Interdisez toute manipulation pendant au moins 48 heures après la prise de proie pour éviter la régurgitation, et ajoutez une boîte humide lors de la phase bleue."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mon Serpent des Blés a régurgité sa proie, que dois-je faire ?",
+            "answer": "La régurgitation est une urgence qui brûle l'œsophage et l'estomac avec les sucs gastriques. Elle est causée par une manipulation précoce (<48h), un point chaud trop froid (<28°C) ou une proie trop volumineuse. Ne donnez aucune nourriture pendant au moins 12 à 14 jours pour laisser la muqueuse guérir, puis reprenez avec une très petite proie bien chaude."
+          },
+          {
+            "question": "Mon serpent pousse constamment sur les joints du terrarium avec son museau, est-ce normal ?",
+            "answer": "Les serpents des blés sont des 'artistes de l'évasion' particulièrement agiles. Si leur tête passe dans un trou, tout le corps suivra ; utilisez toujours un terrarium verrouillé. Si ce comportement persiste, vérifiez que la température n'est pas trop élevée et qu'il dispose d'abris suffisants."
+          }
+        ]
+      },
+      "de": {
+        "title": "Verhaltenssignale der Kornnatter und 3-Schritte-Tagesroutine für Temperatur, Regurgitations- und Häutungspflege",
+        "description": "Pflegeanleitung für die friedliche Kornnatter (Corn Snake). Schwanzrasseln und S-Angriffshaltung verstehen, Temperaturgefälle (22 °C–30 °C) einrichten und Regurgitation in 3 Schritten vermeiden.",
+        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & USARK Herpetologische Standards",
+        "profile": {
+          "breed": "Kornnatter (Corn Snake / Pantherophis guttatus)",
+          "lifespan": "15 ~ 20 Jahre (Bei optimaler Haltung über 20 Jahre)",
+          "sleep_pattern": "12 ~ 14 Stunden (Nacht-/Dämmerungsaktiv, ruht tagsüber in Verstecken)",
+          "temperament": "Friedlich, Neugierig, Aktiv, Ausbruchsgeschickt"
+        },
+        "intro": "Benannt nach dem getreidekornartigen Muster auf ihren Bauchschuppen, ist die Kornnatter (Pantherophis guttatus) wegen ihres sanftmütigen Wesens und ihrer Vielfalt an Farbformen die beliebteste Einsteigerschlange weltweit. Kornnattern benötigen kühlere Temperaturen als Königspythons: eine kühle Zone von 22 °C–24 °C, eine warme Zone von 28 °C–30 °C und eine Grundfeuchtigkeit von 40 %–50 %. Handling innerhalb von 48 Stunden nach der Fütterung oder zu kalte Verdauungstemperaturen lösen gefährliches Erbrechen (Regurgitation) aus. Zudem sind sie geschickte Ausbrecher. In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für Ihre Kornnatter.",
+        "whyTitle": "Körpersprache der Kornnatter: Schwanzrasseln (Tail Rattling) und S-förmige Angriffshaltung (S-Strike Posture)",
+        "whyDesc": "Kornnattern drücken Stress und Abwehr über Schwanzvibrationen und Oberkörperhaltung aus. Das schnelle Schlagen des Schwanzes gegen den Bodengrund **'Schwanzrasseln (Tail Rattling)'** ist ein Abwehrverhalten zur Nachahmung einer Klapperschlange. Das Zurückziehen des vorderen Körpers in eine S-Kurve mit fixiertem Kopf **'S-förmige Angriffshaltung (S-Strike Posture)'** ist dagegen die direkte Warnung vor einem Verteidigungsbiss.",
+        "body_signals": [
+          {
+            "name": "Schnelles Vibrieren des Schwanzes am Bodengrund (Tail Rattling)",
+            "meaning": "Instinktives Warnsignal zur Nachahmung von Klapperschlangen bei Bedrohung oder plötzlichem Schrecken.",
+            "response": "Ziehen Sie die Hand zurück und lassen Sie die Schlange im Versteck in Ruhe wieder zu sich kommen."
+          },
+          {
+            "name": "S-förmiges Aufrichten des Vorderkörpers mit fixiertem Kopf (S-Strike Posture)",
+            "meaning": "Direkte Warnung vor einem Verteidigungsbiss, wenn sich die Schlange in die Enge getrieben fühlt.",
+            "response": "Beenden Sie das Handling sofort und schließen Sie das Terrarium, um die Bedrohung zu entfernen."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Temperaturgefälle (Kühl 22 °C–24 °C / Warm 28 °C–30 °C) & Ausbruchssicherung prüfen",
+            "text": "Halten Sie kühlere Parameter als bei Pythons ein, prüfen Sie die Luftfeuchtigkeit (40 %–50 %) und kontrollieren Sie Schiebetür-Schlösser."
+          },
+          {
+            "name": "Mittag: Frisches Wasser anbieten & Hygiene im Versteck prüfen",
+            "text": "Erneuern Sie das Wasser im Badeschale täglich und entfernen Sie feuchten Kot zur Vorbeugung von Hautinfektionen."
+          },
+          {
+            "name": "Abend: 48 Stunden Fütterungsruhe & Feuchtbox während der Häutung",
+            "text": "Vermeiden Sie Handling mindestens 48 Stunden nach dem Füttern gegen Regurgitation, und bieten Sie in der Blauphase eine Feuchtbox mit Moos an."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Meine Kornnatter hat ihre Futtermaus erbrochen (Regurgitation) – was muss ich tun?",
+            "answer": "Futtererbrechen ist ein Notfall, der Speiseröhre und Magen durch Magensäure Verätzungen zufügt. Ursachen sind Handling kurz nach der Fütterung (<48 Std.), zu kühle Wärmeplätze (<28 °C) oder zu große Beute. Füttern Sie die Schlange mindestens 12–14 Tage lang gar nicht, damit die Schleimhaut heilt, und starten Sie danach mit einer sehr kleinen, gut erwärmten Maus."
+          },
+          {
+            "question": "Meine Kornnatter drückt dauernd mit der Schnauze gegen Terrarienspalten – ist das normal?",
+            "answer": "Kornnattern sind extrem bewegliche und geschickte 'Ausbrecherkönige'. Passt der Kopf durch einen Spalt, folgt der gesamte Körper; nutzen Sie stets Terrarienschlösser. Dauerhaftes Drücken kann auch auf zu hohe Temperaturen oder fehlende Verstecke hindeuten."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Sinais comportamentais da Cobra-do-Milho e rotina diária de 3 passos para controle de temperatura, prevenção de regurgitação e troca de pele",
+        "description": "Guia de cuidados para a dócil Cobra-do-Milho (Corn Snake). Entenda a vibração da cauda e a postura em S, ajuste gradientes de temperatura (22°C–30°C) e previna a regurgitação em 3 passos.",
+        "authority": "Associação de Veterinários de Anfíbios e Répteis (ARAV) & Padrões Herpetológicos da USARK",
+        "profile": {
+          "breed": "Cobra-do-Milho / Cobra-do-Milho-Americana (Pantherophis guttatus)",
+          "lifespan": "15 ~ 20 anos (Mais de 20 anos com cuidados ideais)",
+          "sleep_pattern": "12 ~ 14 horas (Noturna/Crepuscular, descansa em abrigos durante o dia)",
+          "temperament": "Dócil, Curiosa, Ativa, Habilidosa em fugas"
+        },
+        "intro": "Nomeada pelo padrão em formato de grãos de milho em suas escamas ventrais, a Cobra-do-Milho (Pantherophis guttatus) é a cobra de estimação mais popular do mundo devido ao seu temperamento dócil e lindas variações de cor. Elas necessitam de um gradiente térmico mais ameno do que as pitons: uma zona fria de 22°C–24°C, uma zona quente de 28°C–30°C e umidade base de 40%–50%. O manuseio nas primeiras 48 horas após a alimentação ou baixas temperaturas digestivas causam a perigosa regurgitação. Além disso, seu corpo esguio as torna especialistas em fugas. Neste guia, apresenta uma rotina de 3 passos para cuidar da sua cobra.",
+        "whyTitle": "Linguagem corporal da Cobra-do-Milho: Vibração da cauda (Tail Rattling) e postura de ataque em S (S-Strike Posture)",
+        "whyDesc": "As cobras-do-milho comunicam estresse e alerta através de vibrações da cauda e postura corporal. Vibrar a cauda rapidamente contra o substrato para imitar uma cascavel **'Vibração da cauda (Tail Rattling)'** é um comportamento defensivo quando assustadas. Por outro lado, recolher o terço anterior do corpo em formato de S **'Postura de ataque em S (S-Strike Posture)'** é um aviso explícito antes de uma bicada defensiva.",
+        "body_signals": [
+          {
+            "name": "Vibrar a cauda rapidamente contra o substrato (Tail Rattling)",
+            "meaning": "Comportamento defensivo instintivo imitando cascavéis quando assustadas por manuseio repentino.",
+            "response": "Retire a mão imediatamente e deixe a cobra tranquila em seu abrigo para recuperar a calma."
+          },
+          {
+            "name": "Dobrar a parte superior do corpo em S direcionando a cabeça (S-Strike Posture)",
+            "meaning": "Aviso de ataque defensivo indicando que a cobra se sente acorralada e está pronta para morder.",
+            "response": "Interrompa o manuseio imediatamente e feche o terrário para remover a fonte de ameaça."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Controle do gradiente térmico (Frio 22°C–24°C / Quente 28°C–30°C) e verificação das travas",
+            "text": "Mantenha temperaturas mais amenas que as de pitons, controle a umidade (40%–50%) e cheque as travas antifuga."
+          },
+          {
+            "name": "Tarde: Renovação de água fresca e higiene do substrato",
+            "text": "Troque a água diariamente em um recipiente espaçoso e limpe sujeiras úmidas para evitar infecções de pele."
+          },
+          {
+            "name": "Noite: Repouso de 48h pós-alimentação e toca úmida durante a muda",
+            "text": "Não manuseie a cobra por no mínimo 48 horas após a refeição para evitar regurgitação, adicionando uma toca úmida durante a fase azul."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Minha Cobra-do-Milho regurgitou o camundongo, o que devo fazer?",
+            "answer": "A regurgitação é uma emergência que fere gravemente o esôfago e o estômago com ácidos gástricos. Ocorre por manuseio precoce (<48h), falta de calor no ponto quente (<28°C) ou alimento muito grande. Não alimente a cobra por pelo menos 12-14 dias para permitir a cicatrização estomacal e recomece com uma presa bem pequena e bem aquecida."
+          },
+          {
+            "question": "Minha cobra empurra as frestas do terrário com a cabeça tentando fugir, isso é normal?",
+            "answer": "As cobras-do-milho são mestres em fugas dotadas de grande agilidade. Se a cabeça passar por uma fresta, o corpo inteiro passará; use sempre travas de segurança no terrário. Se o comportamento for insistente, verifique se a temperatura não está alta demais."
+          }
+        ]
+      },
+      "id": {
+        "title": "Sinyal Perilaku Ular Jagung (Corn Snake) dan Rutinitas Harian 3 Langkah Perawatan Suhu, Pencegahan Muntah Pakan, serta Ganti Kulit",
+        "description": "Panduan perawatan Ular Jagung (Corn Snake) yang jinak. Pahami getaran ekor dan postur serangan S, atur gradien suhu (22°C–30°C), serta cegah regurgitasi pakan dalam 3 langkah.",
+        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Standar Perawatan Herpetologi USARK",
+        "profile": {
+          "breed": "Ular Jagung / Corn Snake (Pantherophis guttatus)",
+          "lifespan": "15 ~ 20 tahun (Lebih dari 20 tahun dengan perawatan optimal)",
+          "sleep_pattern": "12 ~ 14 jam (Nokturnal/Krepuskular, beristirahat di tempat sembunyi saat siang)",
+          "temperament": "Jinak, Penasaran, Aktif, Ahli meloloskan diri (Escape Artist)"
+        },
+        "intro": "Dinamai dari pola sisik perutnya yang menyerupai bulir jagung, Ular Jagung (Pantherophis guttatus) adalah ular peliharaan favorit pemula di seluruh dunia karena sifatnya yang jinak dan variasi warna (morph) yang menakjubkan. Ular jagung membutuhkan gradien suhu yang lebih sejuk daripada Piton Bola, berkembang baik pada area dingin 22°C–24°C, area panas 28°C–30°C, dan kelembapan dasar 40%–50%. Memegang ular dalam waktu kurang dari 48 jam setelah makan atau suhu pencernaan yang terlalu dingin dapat menyebabkan regurgitasi (muntah pakan) yang mematikan. Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk merawat Ular Jagung Anda.",
+        "whyTitle": "Bahasa Tubuh Ular Jagung: Getaran Ekor (Tail Rattling) dan Postur Serangan S (S-Strike Posture)",
+        "whyDesc": "Ular Jagung menyampaikan kewaspadaan dan rasa terancam melalui getaran ekor serta lekukan tubuh bagian atas. Menggetarkan ekor dengan cepat pada alas kandang untuk meniru ular derik **'Getaran Ekor (Tail Rattling)'** adalah sinyal peringatan saat merasa kaget atau terancam. Sebaliknya, menarik sepertiga tubuh bagian depan menjadi bentuk huruf S **'Postur Serangan S (S-Strike Posture)'** adalah peringatan tegas sebelum gigitan bertahan.",
+        "body_signals": [
+          {
+            "name": "Menggetarkan Ekor dengan Cepat pada Alas Kandang (Tail Rattling)",
+            "meaning": "Sinyal pertahanan naluriah meniru ular derik saat terkejut oleh penanganan mendadak atau ancaman luar.",
+            "response": "Segera jauhkan tangan dan biarkan ular beristirahat dengan tenang di dalam tempat sembunyinya."
+          },
+          {
+            "name": "Membengkokkan Tubuh Atas Menjadi Bentuk S & Menargetkan Kepala (S-Strike Posture)",
+            "meaning": "Peringatan serangan bertahan yang menandakan ular merasa terpojok dan siap menggigit.",
+            "response": "Segera hentikan penanganan dan tutup pintu kandang untuk menghilangkan faktor ancaman."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pemeriksaan Gradien Suhu (Dingin 22°C–24°C / Panas 28°C–30°C) & Kunci Keamanan Kandang",
+            "text": "Jaga suhu lebih sejuk daripada spesies piton, periksa kelembapan (40%–50%), dan pastikan kunci pengaman kandang terpasang rapat."
+          },
+          {
+            "name": "Siang: Penggantian Air Bersih & Kebersihan Tempat Sembunyi",
+            "text": "Ganti air minum setiap hari dalam wadah yang cukup untuk berendam dan bersihkan kotoran basah untuk mencegah infeksi kulit."
+          },
+          {
+            "name": "Malam: Istirahat 48 Jam Pasca-Makan & Kotak Sembunyi Lembap untuk Ganti Kulit",
+            "text": "Dilarang memegang ular minimal 48 jam setelah makan untuk mencegah regurgitasi, dan sediakan tempat sembunyi lembap saat fase mata biru."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Ular Jagung saya memuntahkan kembali tikus yang dimakannya (Regurgitasi), apa yang harus dilakukan?",
+            "answer": "Regurgitasi adalah kondisi darurat yang melukai dinding kerongkongan dan lambung akibat asam lambung. Penyebabnya adalah dipegang dalam kurun 48 jam pasca-makan, suhu area panas kurang (di bawah 28°C), atau ukuran mangsa terlalu besar. Jangan beri makan selama minimal 12–14 hari agar lambung pulih sepenuhnya, lalu mulai kembali dengan mangsa berukuran sangat kecil yang dihangatkan."
+          },
+          {
+            "question": "Ular Jagung saya terus mendorong celah kandang dengan kepalanya untuk kabur, apakah ini normal?",
+            "answer": "Ular Jagung adalah 'ahli meloloskan diri' yang sangat lincah. Jika kepalanya bisa muat di suatu celah, seluruh tubuhnya akan ikut lolos; selalu gunakan kandang dengan pengunci yang kuat. Jika perilaku ini terus berlanjut, periksa apakah suhu kandang terlalu panas atau tempat sembunyi kurang."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/corn_snake_care.webp"
+  }
 }

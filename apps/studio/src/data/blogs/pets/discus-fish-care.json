@@ -1,459 +1,459 @@
 {
-    "discus-care": {
-        "pubDate": "2026-07-22",
-        "updatedDate": "2026-07-22",
-        "locales": {
-            "ko": {
-                "title": "디스커스의 수영·체색 신호 해석과 구멍병(Hexamita) 및 수질 부적응 예방을 위한 3단계 데일리 케어",
-                "description": "열대어의 왕 디스커스(Discus Fish). 체색 어두워짐 및 지느러미 접기 신호 해석, 약산성 고온 수질 관리, 홀인더헤드(구멍병) 예방을 위한 3단계 홈케어 루틴을 소개합니다.",
-                "authority": "OFI (국제 관상어 협회) 및 WAVMA (세계 수생 수의사 협회) 케어 프로토콜",
-                "profile": {
-                    "breed": "디스커스 (Discus Fish / Symphysodon)",
-                    "lifespan": "10 ~ 15년",
-                    "sleep_pattern": "8 ~ 10시간 (주행성, 밤 동안 조명을 끄고 수중 구조물 근처에서 휴식)",
-                    "temperament": "온순함, 예민함, 사회성 있음(군영성), 수질 변화에 민감함, 섬세함"
-                },
-                "intro": "남미 아마존강 수계 원산의 디스커스(Discus Fish)는 원반 모양의 우아한 체형과 화려한 체색으로 '열대어의 왕'이라 불리는 시클리드과 민물 열대어입니다. 디스커스는 가장 아름다운 자태를 자랑하지만, 고온(28~30°C)과 깨끗한 약산성 연수(pH 6.0~6.8)를 요구하는 예민한 어종입니다. 수질 오염이나 질산염 축적 시 체색이 새까맣게 변하는 '블랙닝(Darkening)' 증상을 보이며, 내부 기생충(헥사미타) 감염 시 머리에 구멍이 뚫리는 '구멍병(Hole-in-the-Head)'에 매우 취약합니다. 이번 가이드에서는 디스커스의 행동 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
-                "whyTitle": "디스커스의 바디 랭귀지: 체색 어두워짐(Body Darkening)과 지느러미 접기·구석 숨기(Clamped Fins & Hiding)",
-                "whyDesc": "디스커스는 피부 발색의 변화와 지느러미 상태로 수질 부적응 및 건강 이상을 명확히 신호합니다. 본래의 화려한 색상을 잃고 신체 표면이 검게 변하는 **'체색 어두워짐(Body Darkening / Stress Bar)'**은 급격한 수질 오염, 아질산/질산염 중독, 혹은 높은 스트레스를 나타내는 경고 신호입니다. 반면 지느러미를 바짝 접고 수조 구석이나 구조물 뒤에 웅크려 있는 **'지느러미 접기·구석 숨기(Clamped Fins & Hiding)'**는 수온 저하, 내부 기생충 감염, 또는 서열 싸움에서 밀린 약자의 위축 신호입니다.",
-                "body_signals": [
-                    {
-                        "name": "화려한 체색이 사라지고 온몸이 새까맣게 변함 (Body Darkening / Stress Bar)",
-                        "meaning": "수질 오염(질산염 상승), 급격한 pH 변화, 또는 서열 및 수조 환경 스트레스 신호입니다.",
-                        "response": "즉시 질산염 수치를 측정하고, 따뜻하게 맞춘 신선한 물로 20~30% 환수를 실시합니다."
-                    },
-                    {
-                        "name": "지느러미를 바짝 접은 채 수조 구석에 웅크리고 투명한 흰 똥을 누움 (Clamped Fins & White Feces)",
-                        "meaning": "수온 하강으로 인한 면역 저하 또는 헥사미타(Hexamita) 내부 기생충 감염으로 인한 장염 신호입니다.",
-                        "response": "수온을 30~31°C로 올리고 수의사 진단 후 헥사미타 약욕 처방을 진행합니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 수온(28~30°C) 및 pH(6.0~6.8) 점검, 고단백 햄핏/디스커스 전용 사료 급여",
-                        "text": "체온 유지를 위해 고온 수질을 확인하고, 성장을 돕는 디스커스 전용 햄핏(소염통)이나 고단백 침강성 펠릿을 소량 급여합니다."
-                    },
-                    {
-                        "name": "낮: 잔여 먹이 즉시 제거 및 여과기 수류·에어레이션(용존 산소) 점검",
-                        "text": "수질 오염을 막기 위해 15분 내 남은 햄핏 잔여물을 바로 건져내고, 고수온에서 산소가 부족하지 않도록 강한 에어레이션을 유지합니다."
-                    },
-                    {
-                        "name": "저녁: 사이폰을 이용한 배설물 청소(소량 자주 환수) 및 야간 암막 안정 환경 조성",
-                        "text": "질산염 누적을 막기 위해 매일 또는 주 2~3회 온도를 맞춘 염소 제거 물로 소량 환수를 진행하며, 밤 동안 수면을 돕습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "디스커스의 머리에 구멍이 뚫리는 '구멍병(Hole-in-the-Head/Hexamita)'은 왜 생기나요?",
-                        "answer": "구멍병은 헥사미타(Spironucleus/Hexamita) 편모충 기생충과 영양 결핍(비타민/미네랄 부족), 수질 오염(질산염 축적)이 복합 작용하여 발생합니다. 기생충이 장내에서 칼슘과 미네랄 흡수를 방해하여 머리와 측선 부위의 연골이 괴사하면서 구멍이 생깁니다. 예방을 위해 매일 잔여 사료를 청소하여 수질을 깨끗이 유지하고 비타민 첨가 사료를 급여해야 합니다."
-                    },
-                    {
-                        "question": "디스커스 수조의 수온을 왜 28~30°C의 높은 온도로 유지해야 하나요?",
-                        "answer": "디스커스는 아마존 강 따뜻한 잔잔한 수계 출신으로 대사율과 면역계가 고온에 최적화되어 있습니다. 수온이 26°C 이하로 떨어지면 신진대사가 저하되어 사료를 거부하고, 면역력이 급격히 떨어져 백점병이나 내부 기생충 감염에 취약해집니다. 따라서 히터를 사용하여 상시 28~30°C(치어 사육 시 30~31°C)를 유지하는 것이 필수적입니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Discus Fish Behavioral Signals and 3-Step Daily Routine for Hole-in-the-Head Disease (Hexamita) and Water Shock Prevention",
-                "description": "Care guide for the King of Aquariums, the Discus Fish. Interpret body darkening and clamped fin signals, manage warm soft acidic water, and prevent Hexamita hole-in-the-head disease in 3 steps.",
-                "authority": "Ornamental Fish International (OFI) & World Aquatic Veterinary Medical Association (WAVMA) Care Standards",
-                "profile": {
-                    "breed": "Discus Fish (Symphysodon)",
-                    "lifespan": "10 - 15 Years",
-                    "sleep_pattern": "8 - 10 Hours (Diurnal, rests quietly near submerged decor at night)",
-                    "temperament": "Peaceful, Delicate, Highly Social (Schooling 5+), Sensitive to Water Parameters"
-                },
-                "intro": "Native to the warm, calm river basins of the Amazon River in South America, the Discus Fish (Symphysodon) is hailed worldwide as the 'King of the Aquarium' for its disc-shaped body and breathtaking color patterns. While magnificent, Discus are exceptionally sensitive freshwater cichlids requiring high water temperatures (28–30°C) and pristine, soft, slightly acidic water (pH 6.0–6.8). Water pollution or nitrate accumulation triggers 'body darkening,' while internal parasite infections cause fatal 'Hole-in-the-Head Disease' (Hexamita). In this guide, presents a 3-step daily care routine to decode your Discus's body language and protect its health.",
-                "whyTitle": "Discus Body Language: Body Darkening (Stress Bars) and Clamped Fins / Corner Hiding",
-                "whyDesc": "Discus fish signal water quality deterioration and physiological illness through dramatic skin color shifts and fin postures. Losing vibrant colors and turning dark black **'Body Darkening / Stress Bars'** is a critical distress signal indicating rising nitrates, sudden pH shock, or severe environmental stress. Conversely, clamping fins tightly while crouching in tank corners or trailing white stringy feces **'Clamped Fins & Hiding'** signals thermal shock, internal parasite infections (Hexamita), or social bullying.",
-                "body_signals": [
-                    {
-                        "name": "Losing Vibrant Coloration and Turning Dark Black All Over Body (Body Darkening / Stress Bars)",
-                        "meaning": "Indicates acute water pollution (nitrate/ammonia spike), sudden pH shock, or extreme environmental stress.",
-                        "response": "Test nitrate levels immediately and perform a 20–30% water change using temperature-matched dechlorinated water."
-                    },
-                    {
-                        "name": "Clamping Fins Tightly, Hiding in Corners, and Excreting White Stringy Feces (Clamped Fins & White Feces)",
-                        "meaning": "Signals immunosuppression from low temperature or active Hexamita internal parasite infection in the digestive tract.",
-                        "response": "Elevate water temperature to 30–31°C and consult an aquatic vet for metronidazole/Hexamita medication."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Water Temperature (28–30°C) & pH (6.0–6.8) Check, High-Protein Beefheart/Pellet Feeding",
-                        "text": "Verify warm thermal stability and feed small portions of high-protein beefheart mix or specialized Discus sinking pellets."
-                    },
-                    {
-                        "name": "Afternoon: Uneaten Food Removal & Aeration / Dissolved Oxygen Inspection",
-                        "text": "Siphon out unconsumed beefheart within 15 minutes to prevent water fouling, maintaining vigorous aeration at high temperatures."
-                    },
-                    {
-                        "name": "Evening: Siphon Substrate Waste (Frequent Small Water Changes) & Blackout Resting Setup",
-                        "text": "Vacuum feces daily to prevent nitrate buildup, performing frequent small water changes with aged water, and turn off aquarium lights."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "What causes 'Hole-in-the-Head Disease' (Hexamita) in Discus fish and how can it be prevented?",
-                        "answer": "Hole-in-the-Head disease is caused by the flagellate parasite Spironucleus/Hexamita, compounded by vitamin/mineral deficiencies and organic water pollution (high nitrates). The parasite impairs nutrient absorption in the gut, causing cartilage necrosis and sensory pit erosion on the head. Prevent this by siphoning leftover food daily, maintaining pristine water quality, and feeding vitamin-enriched foods."
-                    },
-                    {
-                        "question": "Why must Discus aquariums be kept at a high temperature of 28–30°C?",
-                        "answer": "Discus originate from warm Amazonian backwaters where their metabolic and immune systems evolved to thrive in high heat. Temperatures below 26°C depress their metabolism, cause anorexia, and severely weaken immunity against Ich and internal flagellates. Maintaining a constant 28–30°C (or 30–31°C for juveniles) using reliable heaters is mandatory."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ディスカスの行動サイン解読と穴あき病（ヘキサミタ）および水質ショック予防のための3ステップデイリールーティン",
-                "description": "熱帯魚の王様ディスカス（Discus Fish）。体色黒化やヒレたたみの解読、弱酸性・高温水質の管理、ヘキサミタ穴あき病予防のための3ステップホームケアを紹介します。",
-                "authority": "OFI（国際観賞魚協会）およびWAVMA（世界水生獣医師会）飼育基準",
-                "profile": {
-                    "breed": "ディスカス (Discus Fish / Symphysodon)",
-                    "lifespan": "10 〜 15年",
-                    "sleep_pattern": "8 〜 10時間 (昼行性、夜間は消灯して水草や流木付近で休息)",
-                    "temperament": "温和、繊細、社会性あり（群泳性5匹以上）、水質変化に極めて敏感"
-                },
-                "intro": "南米アマゾン川水系原産のディスカス（Discus Fish）は、円盤状の優雅な体型と鮮やかな色彩から「熱帯魚の王様」と称されるシクリッド科の淡水熱帯魚です。ディスカスは観賞魚の中で最も美しい姿を誇りますが、高温（28〜30℃）と清潔な弱酸性軟水（pH 6.0〜6.8）を要求する非常に繊細な魚です。水質悪化や硝酸塩の蓄積が起こると体色が真っ黒に変色する「黒化（Darkening）」を起こし、内部寄生虫（ヘキサミタ）に感染すると頭部に穴が開く致命的な「穴あき病（Hole-in-the-Head / Hexamita）」を発症します。本記事では、ディスカスのサインを解読し健康を守る3ステップルーティンをお届けします。",
-                "whyTitle": "ディスカスのボディランゲージ：体色黒化(Body Darkening)とヒレたたみ・隅っこでのうずくまり(Clamped Fins & Hiding)",
-                "whyDesc": "ディスカスは皮膚の発色とヒレの状態で水質不適合や体調不良を明確に表現します。本来の美しさを失い体全体が黒く変化する**「体色黒化（Body Darkening / ストレスバー）」**は、急激な水質汚染、硝酸塩の上昇、または重度の環境ストレスを示す警告サインです。一方、ヒレを体にピタッとたたんで水槽の隅や流木の後ろに隠れ、白いフンをする**「ヒレたたみ・隠れ（Clamped Fins & Hiding）」**は、水温低下、内部寄生虫感染、あるいはいじめによる衰弱サインです。",
-                "body_signals": [
-                    {
-                        "name": "美しい体色が消え、全身が真っ黒に変色する (Body Darkening / Stress Bar)",
-                        "meaning": "水質汚染（硝酸塩の上昇）、急激なpH変化、または水槽内の環境ストレス反応です。",
-                        "response": "すぐに硝酸塩濃度を測定し、事前に汲み置き・保温したきれいな水で20〜30%の水換えを行います。"
-                    },
-                    {
-                        "name": "ヒレをたたんで水槽の隅にうずくまり、透明な白い粘質フンをする (Clamped Fins & White Feces)",
-                        "meaning": "水温低下による免疫低下、またはヘキサミタ（Hexamita）内部寄生虫感染による腸炎です。",
-                        "response": "水温を30〜31℃に引き上げ、獣医師の診断のもとヘキサミタ用の薬浴治療を行います。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：水温（28〜30℃）＆pH（6.0〜6.8）チェック、高タンパクハンバーグ・ペレット給餌",
-                        "text": "高水温を保持しているか確認し、成長を促すディスカスハンバーグ（牛心臓）や高タンパク沈下性ペレットを少量をあたえます。"
-                    },
-                    {
-                        "name": "昼：食べ残しの即時回収とフィルター水流・エアレーション（溶存酸素）確認",
-                        "text": "水質悪化を防ぐため15分以内に残餌をネットで取り除き、高水温下で酸欠にならないよう強いエアレーションを維持します。"
-                    },
-                    {
-                        "name": "夜：プロホースでのフン清掃（頻繁な小規模水換え）と夜間消灯環境の維持",
-                        "text": "硝酸塩の蓄積を防ぐため、毎日〜週2-3回温調済みのカルキ抜き水で小規模換水を行い、消灯して静かに休ませます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "ディスカスの頭に穴が開く「穴あき病（Hole-in-the-Head/Hexamita）」はなぜ発生するのですか？",
-                        "answer": "穴あき病はヘキサミタ（Spironucleus/Hexamita）原虫寄生虫と、ビタミン・ミネラル不足、水質汚染（硝酸塩の蓄積）が複合して発生する病気です。寄生虫が腸内でカルシウム等の吸収を阻害し、頭部や側線系の軟骨が壊死して穴が開きます。予防には毎日の残餌清掃による水質維持とビタミンを含んだ新鮮な餌の給餌が重要です。"
-                    },
-                    {
-                        "question": "ディスカス水槽の水温をなぜ28〜30℃の高めに保つ必要があるのですか？",
-                        "answer": "ディスカスはアマゾン川の暖かい緩やかな水域原産であり、代謝や免疫系が高温環境に最適化されています。水温が26℃以下に下がると代謝が落ちて拒食を起こし、免疫力が低下して白点病や内部寄生虫に感染しやすくなります。ヒーターを用いて常に28〜30℃（幼魚期は30〜31℃）を維持することが飼育の絶対条件です。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "七彩神仙鱼行为信号解读与头洞病 (Hexamita) 及水质应激预防的 3 步日常流程",
-                "description": "热带观赏鱼之王七彩神仙鱼（Discus Fish）。解读体色发黑与缩鳍隐藏信号，维护弱酸性高温水质，预防头洞病的 3 步骤家庭护理。",
-                "authority": "国际观赏鱼协会 (OFI) 与世界水生兽医师协会 (WAVMA) 护理标准",
-                "profile": {
-                    "breed": "七彩神仙鱼 / 盘羊 (Discus Fish / Symphysodon)",
-                    "lifespan": "10 ~ 15年",
-                    "sleep_pattern": "8 ~ 10小时 (昼行性，夜间关灯后在水草或沉木旁静止休息)",
-                    "temperament": "温和、极其敏感、喜群居 (建议5尾以上)、对水质要求极高"
-                },
-                "intro": "原产于南美洲亚马逊河流域的七彩神仙鱼（Discus Fish），凭其圆盘状的优雅体型与如梦似幻的华丽斑纹，被誉为“热带观赏鱼之王”。七彩神仙鱼虽然极具观赏价值，但属于对水质极其挑剔的高难度观赏鱼，要求高水温 (28°C~30°C) 与极度洁净的弱酸性软水 (pH 6.0~6.8)。水质污染或硝酸盐堆积时，其体色会瞬间转黑发暗（“黑体/Darkening”）；而感染肠道鞭毛虫时，会引发头部的软骨腐蚀与溃烂，患上致命的“头洞病（Hole-in-the-Head/Hexamita）”。本指南将带您准确解读七彩神仙鱼肢体语言，并通过 3 步骤日常护理维护其健康。",
-                "whyTitle": "七彩神仙鱼肢体语言：体色发黑 (Body Darkening) 与缩鳍·躲藏 (Clamped Fins & Hiding)",
-                "whyDesc": "七彩神仙鱼通过色素细胞的变化与鱼鳍状态清晰反映水质应激与健康危机。失去原本绚丽的体色，全身甚至鳍条变得漆黑**“体色发黑 (Body Darkening / 栋条显现)”**，是因水质剧烈波动、氨氮/硝酸盐超标或严重应激引发的警告信号。相反，缩紧胸鳍背鳍躲在缸角或沉木后，且拉出白色透明便**“缩鳍·躲藏 (Clamped Fins & White Feces)”**，则是水温骤降、肠道六鞭毛虫（Hexamita）感染或弱势受欺压的衰弱信号。",
-                "body_signals": [
-                    {
-                        "name": "原本绚丽的体色消失，全身发黑并显现黑色栋条 (Body Darkening / Stress Bars)",
-                        "meaning": "水质严重恶化（硝酸盐超标）、pH 值剧烈波动，或对缸内环境产生剧烈应激。",
-                        "response": "立即检测硝酸盐浓度，并用预热且去氯的同温新水进行 20%~30% 的换水。"
-                    },
-                    {
-                        "name": "紧缩鱼鳍蜷缩在水族箱角落，拉出白色透明丝状粪便 (Clamped Fins & White Feces)",
-                        "meaning": "水温过低导致免疫力崩溃，或肠道感染六鞭毛虫（Hexamita）引发的严重肠炎。",
-                        "response": "将水温提升至 30°C~31°C，并在兽医指导下投喂或药浴甲硝唑等六鞭毛虫药物。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：水温 (28°C~30°C) 与 pH 值 (6.0~6.8) 检测，投喂高蛋白牛心汉堡/专用汉堡",
-                        "text": "确认高温水质恒定，投喂促进出彩与发育的高蛋白牛心汉堡或七彩神仙专用沉底滋养颗粒。"
-                    },
-                    {
-                        "name": "中午：残饵及时清理与检查过滤器水流及增氧爆氧",
-                        "text": "为防止牛心汉堡发酵破坏水质，15 分钟内必须捞出残渣，并在高温水体中保持强力增氧爆氧。"
-                    },
-                    {
-                        "name": "晚上：用洗沙器吸除底床粪便（少量多次换水）与维持夜间黑暗关灯休息",
-                        "text": "为防止硝酸盐堆积，每日或隔日用同温去氯水进行少量换水，关灯保持夜间安静睡眠。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "七彩神仙鱼头顶溃烂穿孔的“头洞病 (Hole-in-the-Head/Hexamita)”是如何产生的？",
-                        "answer": "头洞病是由六鞭毛虫（Spironucleus/Hexamita）肠道鞭毛虫感染，叠加营养不良（缺少维生素/矿物质）及水质污染（硝酸盐堆积）共同引发的疾病。虫体阻碍肠道对钙和矿物质的吸收，导致头部及侧线系统软骨坏死塌陷形成空洞。预防的关键是每日吸除残饵维持水质洁净，并补充富含维生素的高品质饲料。"
-                    },
-                    {
-                        "question": "为什么七彩神仙鱼的水族箱必须维持 28°C~30°C 的高水温？",
-                        "answer": "七彩神仙鱼原生于亚马逊河温暖平静的浅水区，其新陈代谢与免疫系统高度适应高温环境。若水温降至 26°C 以下，其消化酶活性骤降导致拒食绝食，免疫力崩溃极易感染白点病与肠道鞭毛虫。使用高品质加热棒常年维持 28°C~30°C（幼鱼期 30°C~31°C）是成功饲养的铁律。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Señales de conducta en el Pez Disco y rutina diaria de 3 pasos para la enfermedad del agujero en la cabeza (Hexamita) y desajustes del agua",
-                "description": "Guía de cuidado para el Rey del Acuario, el Pez Disco (Discus Fish). Interprete el oscurecimiento corporal y las aletas replegadas, mantenga el agua cálida y blanda, y prevenga el Hexamita en 3 pasos.",
-                "authority": "Ornamental Fish International (OFI) y Normas de la World Aquatic Veterinary Medical Association (WAVMA)",
-                "profile": {
-                    "breed": "Pez Disco (Symphysodon)",
-                    "lifespan": "10 ~ 15 años",
-                    "sleep_pattern": "8 ~ 10 horas (Diurno, descansa cerca de troncos o plantas por la noche)",
-                    "temperament": "Pacífico, Muy delicado, Gregario (grupo de 5+), Exigente con la calidad del agua"
-                },
-                "intro": "Nativo de las aguas cálidas y calmas de la cuenca del Amazonas en América del Sur, el Pez Disco (Symphysodon) es aclamado en todo el mundo como el 'Rey del Acuario' por su cuerpo redondeado en forma de disco y sus deslumbrantes patrones de color. Aunque majestuosos, son cíclidos de agua dulce sumamente exigentes que requieren temperaturas elevadas (28–30°C) y un agua blanda, limpia y ligeramente ácida (pH 6.0–6.8). La acumulación de nitratos produce un oscurecimiento corporal (Darkening), mientras que las infecciones por parásitos internos producen la mortal 'Enfermedad del Agujero en la Cabeza' (Hexamita). En esta guía, presenta una rutina de 3 pasos para cuidar su salud.",
-                "whyTitle": "Lenguaje corporal del Pez Disco: Oscurecimiento corporal (Stress Bars) y aletas plegadas / escondite en esquinas",
-                "whyDesc": "El Pez Disco comunica la mala calidad del agua y enfermedades mediante cambios en los pigmentos de la piel y la postura de las aletas. Perder sus colores brillantes y tornarse de un color negro oscuro **'Oscurecimiento corporal (Stress Bars)'** es una señal de socorro provocada por picos de nitratos, choques de pH o estrés ambiental. Por el contrario, replegar las aletas junto al cuerpo, esconderse en esquinas o defecar heces blanquecinas **'Aletas plegadas / Heces blancas'** indica hipotermia o parásitos intestinales (Hexamita).",
-                "body_signals": [
-                    {
-                        "name": "Perder la coloración brillante y tornarse de un color negro oscuro en todo el cuerpo (Body Darkening / Stress Bars)",
-                        "meaning": "Mala calidad del agua (pico de nitratos o amoníaco), choque brusco de pH o estrés severo por el entorno.",
-                        "response": "Mida los nitratos inmediatamente y realice un cambio de agua del 20 al 30% con agua tratada y a la misma temperatura."
-                    },
-                    {
-                        "name": "Plegar las aletas junto al cuerpo, esconderse en la esquina y expulsar heces blancas hilosas (Clamped Fins & White Feces)",
-                        "meaning": "Inmunodepresión por baja temperatura o infección intestinal activa por el parásito Hexamita.",
-                        "response": "Suba la temperatura a 30–31°C y consulte al veterinario para un tratamiento con metronidazol para Hexamita."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Control de temperatura (28–30°C) y pH (6.0–6.8), y alimento proteico (Papilla/Granulado)",
-                        "text": "Compruebe la estabilidad térmica y administre pequeñas raciones de papilla de corazón de ternera o gránulos específicos de hundimiento."
-                    },
-                    {
-                        "name": "Tarde: Retirada de sobrantes de comida e inspección de aireación y oxígeno disuelto",
-                        "text": "Sifone los restos de papilla en 15 minutos para evitar la contaminación del agua y mantenga una fuerte oxigenación."
-                    },
-                    {
-                        "name": "Noche: Sifonado de heces (cambios parciales de agua frecuentes) y descanso en oscuridad",
-                        "text": "Aspire las deyecciones del fondo a diario para evitar nitratos, realizando pequeños cambios de agua periódicos y apague la luz."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Qué causa la 'Enfermedad del Agujero en la Cabeza' (Hexamita) y cómo prevenirla?",
-                        "answer": "Es provocada por el parásito flagelado Spironucleus/Hexamita, combinada con deficiencias de vitaminas/minerales y agua contaminada por nitratos. El parásito impide la absorción de calcio en el intestino, causando necrosis de los cartílagos del cráneo. Se previene sifonando los restos de comida a diario, manteniendo el agua impecable y dando alimento rico en vitaminas."
-                    },
-                    {
-                        "question": "¿Por qué el acuario del Pez Disco debe mantenerse a una temperatura alta de 28–30°C?",
-                        "answer": "Los peces Disco proceden de remansos cálidos amazónicos donde su metabolismo e inmunidad evolucionaron para funcionar a temperaturas elevadas. Si la temperatura baja de 26°C, su metabolismo se ralentiza causando inapetencia, dejando al pez desprotegido frente a la enfermedad del punto blanco y parásitos flagelados. Mantener 28–30°C constante con termocalentadores es obligatorio."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Signaux comportementaux du Poisson Discus et routine quotidienne en 3 étapes pour la maladie des trous dans la tête (Hexamita) et les chocs de paramètres",
-                "description": "Guide de soins pour le Roi de l'Aquarium, le Poisson Discus. Décryptez l'assombrissement du corps et les nageoires collées, gérez une eau chaude et douce, et prévenez l'Hexamita en 3 étapes.",
-                "authority": "Ornamental Fish International (OFI) & Normes de la World Aquatic Veterinary Medical Association (WAVMA)",
-                "profile": {
-                    "breed": "Poisson Discus (Symphysodon)",
-                    "lifespan": "10 ~ 15 ans",
-                    "sleep_pattern": "8 ~ 10 heures (Diurne, se repose près des roches ou racines la nuit)",
-                    "temperament": "Paisible, Délicat, Grégaire (groupe de 5+), Très exigeant sur la qualité de l'eau"
-                },
-                "intro": "Originaire des bras de fleuve calmes de l'Amazone en Amérique du Sud, le Poisson Discus (Symphysodon) est surnommé le « Roi de l'Aquarium » pour sa forme majestueuse en disque et ses couleurs somptueuses. Bien que magnifiques, les Discus sont des cichlidés très exigeants qui demandent une eau chaude (28–30°C), douce et légèrement acide (pH 6.0–6.8). Une accumulation de nitrates provoque un assombrissement du corps (Darkening), tandis qu'une parasitose interne entraîne la redoutable « Maladie des trous dans la tête » (Hexamita). Dans ce guide, vous présente une routine en 3 étapes pour prendre soin de sa santé.",
-                "whyTitle": "Langage corporel du Discus : Assombrissement du corps (Barres de stress) et nageoires collées / isolement",
-                "whyDesc": "Le Discus exprime la dégradation de l'eau et les maladies par des changements de pigmentation et la tenue de ses nageoires. Perdre ses couleurs éclatantes et devenir très sombre/noir **« Assombrissement du corps (Stress Bars) »** est une alerte indiquant une montée de nitrates, un choc de pH ou un stress environnemental. En revanche, plaquer ses nageoires, se cacher au fond ou émettre des selles blanches et filamenteuses **« Nageoires collées / Selles blanches »** révèle une baisse de température ou une infection par Hexamita.",
-                "body_signals": [
-                    {
-                        "name": "Perdre ses couleurs lumineuses et devenir totalement noir (Body Darkening / Stress Bars)",
-                        "meaning": "Alerte de pollution de l'eau (pic de nitrates/ammoniac), choc de pH ou stress environnemental aigu.",
-                        "response": "Testez les nitrates immédiatement et faites un changement d'eau de 20 à 30 % avec de l'eau conditionnée à température."
-                    },
-                    {
-                        "name": "Nageoires collées au corps, prostration dans un coin et fientes blanches et translucides (Clamped Fins & White Feces)",
-                        "meaning": "Immunodépression due à une eau trop froide ou parasitose intestinale à Hexamita.",
-                        "response": "Montez la température à 30–31°C et administrez un traitement sur ordonnance vétérinaire (metronidazole)."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Contrôle température (28–30°C) & pH (6.0–6.8), et pâtée au cœur de bœuf / granulés",
-                        "text": "Vérifiez le chauffage et donnez de petites portions de pâtée protéinée ou de granulés coulant au fond."
-                    },
-                    {
-                        "name": "Après-midi : Retrait des restes de pâtée & contrôle de l'aération/oxygène dissous",
-                        "text": "Aspirez les restes de pâtée au bout de 15 minutes pour éviter la pollution et maintenez un fort bulleur."
-                    },
-                    {
-                        "name": "Soir : Siphonnage des déjections (petits changements d'eau fréquents) & obscurité complète",
-                        "text": "Nettoyez le sol quotidiennement contre les nitrates en faisant de petits changements d'eau et éteignez la galerie."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Quelle est la cause de la 'Maladie des trous dans la tête' (Hexamita) chez le Discus et comment l'éviter ?",
-                        "answer": "Elle est causée par le parasite flagellé Spironucleus/Hexamita, associée à des carences en vitamines et à une eau chargée en nitrates. Le parasite bloque l'assimilation du calcium, provoquant la nécrose des cartilages de la tête. Prévenez-la en siphonnant les déchets tous les jours, en gardant une eau très pure et en donnant une nourriture enrichie en vitamines."
-                    },
-                    {
-                        "question": "Pourquoi l'aquarium du Discus doit-il être maintenu à une température élevée de 28 à 30°C ?",
-                        "answer": "Les Discus viennent des eaux chaudes de l'Amazone où leur métabolisme est adapté à une forte chaleur. Sous 26°C, leur métabolisme s'effondre, ils refusent de s'alimenter et développent des parasitoses. Le maintien permanent de 28 à 30°C au chauffage est obligatoire."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Verhaltenssignale des Diskusfisches und 3-Schritte-Tagesroutine zur Prävention der Lochkrankheit (Hexamita) und Wasserwerte-Schock",
-                "description": "Pflegeanleitung für den König des Aquariums, den Diskusfisch (Discus Fish). Nachdunkeln des Körpers und Flossenklemmen verstehen, warmes weiches Wasser pflegen und die Lochkrankheit in 3 Schritten vorbeugen.",
-                "authority": "Ornamental Fish International (OFI) & Standards der World Aquatic Veterinary Medical Association (WAVMA)",
-                "profile": {
-                    "breed": "Diskusfisch (Discus Fish / Symphysodon)",
-                    "lifespan": "10 ~ 15 Jahre",
-                    "sleep_pattern": "8 ~ 10 Stunden (Tagaktiv, ruht nachts bei Wurzeln/Pflanzen)",
-                    "temperament": "Friedlich, Empfindlich, Gesellig (Gruppe ab 5 Tieren), Hohe Ansprüche an Wasserqualität"
-                },
-                "intro": "Aus den warmen, ruhigen Flussläufen des südamerikanischen Amazonas stammend, wird der Diskusfisch (Symphysodon) wegen seiner Scheibenform und Prachtfarben weltweit als „König des Aquariums“ gefeiert. So majestätisch Diskusfische sind, so anspruchsvoll sind sie: Sie benötigen hohe Wassertemperaturen (28–30 °C) und sehr sauberes, weiches, leicht saures Wasser (pH 6,0–6,8). Verschmutzungen führen zum Nachdunkeln der Körperfarbe, während Darmparasiten die tödliche Lochkrankheit (Hexamita) auslösen. In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für die Gesundheit Ihres Diskusfisches.",
-                "whyTitle": "Körpersprache des Diskusfisches: Schwarzfärbung (Stressstreifen) und Flossenklemmen / Ecke-Kauern",
-                "whyDesc": "Der Diskusfisch zeigt schlechte Wasserwerte und Parasitenbefall durch Farbwechsel und Flossenhaltung. Das Verblassen der Farben und dunkle Schwarzfärbung **'Schwarzfärbung (Stressstreifen)'** ist ein Notsignal bei Nitratspitzen, pH-Schock oder Umweltstress. Das dichte Anlegen der Flossen mit Kümmern in Aquarienecken und weißem Schleimkot **'Flossenklemmen & Weißer Kot'** signalisiert dagegen Unterkühlung oder akuten Hexamita-Befall im Darm.",
-                "body_signals": [
-                    {
-                        "name": "Verlust der Leuchtkraft und tiefe Schwarzfärbung des Körpers (Body Darkening / Stress Bars)",
-                        "meaning": "Akute Wasserbelastung (Nitrat-/Ammoniakspitze), pH-Wert-Schock oder schwerer Umweltstress.",
-                        "response": "Prüfen Sie sofort Nitrat und führen Sie einen 20–30%igen Wasserwechsel mit wohltemperiertem Wasser durch."
-                    },
-                    {
-                        "name": "Anlegen der Flossen, Kauern in Beckenecken und Ausscheiden weißer Kotfäden (Clamped Fins & White Feces)",
-                        "meaning": "Immunschwäche durch kühles Wasser oder Ausbruch der Hexamita-Darmparasitose.",
-                        "response": "Erhöhen Sie die Temperatur auf 30–31 °C und behandeln Sie auf tierärztlichen Rat hin mit Metronidazol."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Wassertemperatur (28–30 °C) & pH-Wert (6,0–6,8) prüfen & Rinderherz/Diskus-Granulat füttern",
-                        "text": "Stellen Sie die hohe Wassertemperatur sicher und füttern Sie kleine Rationen Rinderherzmischung oder spezielles Diskusgranulat."
-                    },
-                    {
-                        "name": "Mittag: Futterreste absaugen & Durchlüftung/Sauerstoffgehalt kontrollieren",
-                        "text": "Saugen Sie ungenutztes Rinderherz nach 15 Minuten ab, um Wasserkippen zu vermeiden, und halten Sie hohe Sauerstoffwerte."
-                    },
-                    {
-                        "name": "Abend: Kot absaugen (häufige kleine Wasserwechsel) & Dunkle Nachtruhe gewähren",
-                        "text": "Saugen Sie Kot täglich ab, um Nitrat niedrig zu halten, führen Sie regelmäßige kleine Wasserwechsel durch und schalten Sie das Licht aus."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Wie entsteht die 'Lochkrankheit' (Hexamita) beim Diskusfisch und wie beugt man ihr vor?",
-                        "answer": "Die Lochkrankheit wird durch den Flagellaten Spironucleus/Hexamita ausgelöst, begünstigt durch Vitaminmangel und hohe Nitratwerte. Der Parasit stört die Nährstoffaufnahme im Darm, sodass Gewebe am Kopf abstirbt und Löcher entstehen. Vorbeugung gelingt durch tägliches Absaugen von Futterresten, Top-Wasserhygiene und vitaminreiches Futter."
-                    },
-                    {
-                        "question": "Warum muss das Diskusaquarium auf hohen 28–30 °C gehalten werden?",
-                        "answer": "Diskusfische stammen aus heißen amazonischen Altwassern; ihr Immunsystem braucht diese Wärme. Sinkt die Temperatur unter 26 °C, verlangsamt sich der Stoffwechsel, sie verweigern Futter und werden anfällig für Parasiten. Ein dauerhafter Betrieb bei 28–30 °C per Heizstab ist unerlässlich."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Sinais comportamentais do Peixe Disco e rotina diária de 3 passos para doença do buraco na cabeça (Hexamita) e choque de parâmetros",
-                "description": "Guia de cuidados para o Rei do Aquário, o Peixe Disco (Discus Fish). Interprete o escurecimento do corpo e barbatanas encolhidas, mantenha água quente e ácida, e previna Hexamita em 3 passos.",
-                "authority": "Ornamental Fish International (OFI) & Padrões da World Aquatic Veterinary Medical Association (WAVMA)",
-                "profile": {
-                    "breed": "Peixe Disco (Symphysodon)",
-                    "lifespan": "10 ~ 15 anos",
-                    "sleep_pattern": "8 ~ 10 horas (Diurno, descansa perto de troncos e plantas à noite)",
-                    "temperament": "Pacífico, Delicado, Gregário (grupo de 5+), Muito exigente com a água"
-                },
-                "intro": "Nativo das águas calmas e quentes da Bacia Amazônica na América do Sul, o Peixe Disco (Symphysodon) é aclamado no mundo todo como o 'Rei do Aquário' devido à sua forma em disco e cores deslumbrantes. Embora majestosos, são ciclídeos muito delicados que exigem águas quentes (28–30°C), moles e ligeiramente ácidas (pH 6.0–6.8). O acúmulo de nitrato causa o escurecimento do corpo (Darkening), enquanto infecções por parasitas internos causam a letal 'Doença do Buraco na Cabeça' (Hexamita). Neste guia, apresenta uma rotina de 3 passos para cuidar da sua saúde.",
-                "whyTitle": "Linguagem corporal do Peixe Disco: Escurecimento do corpo (Barras de Estresse) e barbatanas encolhidas / isolamento",
-                "whyDesc": "O Peixe Disco comunica a má qualidade da água e infecções através de mudanças na pigmentação da pele e postura das barbatanas. Perder a cor brilhante e ficar totalmente escuro/preto **'Escurecimento do corpo (Barras de Estresse)'** é um sinal de alerta de picos de nitrato, choque de pH ou estresse ambiental. Em contrapartida, encolher as barbatanas no canto do aquário defecando fezes brancas **'Barbatanas encolhidas / Fezes brancas'** indica queda de temperatura ou infecção pelo parasita Hexamita.",
-                "body_signals": [
-                    {
-                        "name": "Perder a coloração vibrante e ficar com o corpo escuro/preto (Body Darkening / Stress Bars)",
-                        "meaning": "Má qualidade da água (pico de nitrato/amônia), choque térmico/pH ou estresse ambiental grave.",
-                        "response": "Meça o nitrato imediatamente e faça uma troca parcial de água de 20 a 30% com água tratada e aquecida."
-                    },
-                    {
-                        "name": "Encolher as barbatanas no canto do aquário e soltar fezes brancas e filamentosas (Clamped Fins & White Feces)",
-                        "meaning": "Baixa imunidade por água fria ou infecção intestinal ativa por Hexamita.",
-                        "response": "Aumente a temperatura para 30–31°C e consulte um veterinário para medicação com metronidazol."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Checagem de temperatura (28–30°C) e pH (6.0–6.8) & alimentação proteica (Pâté/Granulado)",
-                        "text": "Verifique o aquecimento e forneça pequenas porções de patê de coração bovino ou ração específica para Disco."
-                    },
-                    {
-                        "name": "Tarde: Remoção de sobras de alimentos & verificação da aeração/oxigênio dissolvido",
-                        "text": "Sifone restos de patê em 15 minutos para evitar poluição da água e mantenha boa oxigenação."
-                    },
-                    {
-                        "name": "Noite: Sifonagem do substrato (trocas parciais frequentes) & descanso na escuridão",
-                        "text": "Aspire fezes diariamente para evitar nitrato, fazendo pequenas trocas de água regulares e apague as luzes."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "O que causa a 'Doença do Buraco na Cabeça' (Hexamita) no Peixe Disco e como prevenir?",
-                        "answer": "É causada pelo parasita flagelado Spironucleus/Hexamita, combinado com falta de vitaminas e água poluída por nitrato. O parasita impede a absorção de cálcio no intestino, necrosando as cartilagens da cabeça. Previne-se sifonando restos de comida diariamente, mantendo a água limpa e oferecendo alimento com vitaminas."
-                    },
-                    {
-                        "question": "Por que o aquário do Peixe Disco deve ser mantido em temperatura alta de 28 a 30°C?",
-                        "answer": "Os peixes Disco vêm de águas quentes amazônicas onde seu metabolismo evoluiu para alta temperatura. Se a água cai abaixo de 26°C, o metabolismo desacelera, eles param de comer e a imunidade cai. Manter 28–30°C constante no termostato é obrigatório."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Sinyal Perilaku Ikan Discus dan Rutinitas Harian 3 Langkah Perawatan Penyakit Lubang di Kepala (Hexamita) serta Pencegahan Syok Air",
-                "description": "Panduan perawatan Raja Akuarium, Ikan Discus (Symphysodon). Pahami sinyal warna tubuh menggelap dan sirip kuncup, kelola air hangat agak asam, serta cegah penyakit Hexamita dalam 3 langkah.",
-                "authority": "Standar Perawatan Ornamental Fish International (OFI) & World Aquatic Veterinary Medical Association (WAVMA)",
-                "profile": {
-                    "breed": "Ikan Discus (Symphysodon)",
-                    "lifespan": "10 ~ 15 tahun",
-                    "sleep_pattern": "8 ~ 10 jam (Diurnal, beristirahat tenang di dekat tanaman/kayu saat malam)",
-                    "temperament": "Damai, Sangat Sensitif, Berkelompok (minimal 5 ekor), Sangat Peka Kualitas Air"
-                },
-                "intro": "Berasal dari perairan hangat Sungai Amazon di Amerika Selatan, Ikan Discus (Symphysodon) dijuluki sebagai 'Raja Akuarium' di seluruh dunia karena bentuk tubuh bundarnya dan warna-warnanya yang memukau. Meskipun sangat indah, Discus adalah ikan cichlid air tawar yang sangat sensitif yang membutuhkan suhu air tinggi (28–30°C) serta air lunak yang agak asam (pH 6.0–6.8). Penumpukan nitrat memicu gejala warna tubuh menggelap (Darkening), sedangkan infeksi parasit dalam menyebabkan penyakit 'Lubang di Kepala' (Hexamita) yang mematikan. Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk merawat kesehatan Ikan Discus Anda.",
-                "whyTitle": "Bahasa Tubuh Ikan Discus: Warna Tubuh Menggelap (Stress Bars) dan Sirip Kuncup / Sembunyi di Sudut",
-                "whyDesc": "Ikan Discus menunjukkan penurunan kualitas air dan infeksi penyakit melalui perubahan pigmen kulit dan bentuk siripnya. Kehilangan warna indahnya dan berubah menjadi hitam gelap **'Warna Tubuh Menggelap (Stress Bars)'** adalah sinyal darurat akibat lonjakan nitrat, syok pH, atau stres lingkungan. Sebaliknya, menguncupkan sirip rapat-rapat sambil berdiam di sudut akuarium dan mengeluarkan kotoran putih **'Sirip Kuncup & Kotoran Putih'** menandakan suhu terlalu dingin atau infeksi parasit usus Hexamita.",
-                "body_signals": [
-                    {
-                        "name": "Kehilangan Warna Cerah dan Tubuh Berubah Hitam Gelap (Body Darkening / Stress Bars)",
-                        "meaning": "Kualitas air buruk (lonjakan nitrat/amonia), syok perubahan pH mendadak, atau stres lingkungan berat.",
-                        "response": "Ukur kadar nitrat segera dan lakukan pergantian air 20–30% dengan air terendap yang suhunya disesuaikan."
-                    },
-                    {
-                        "name": "Menguncupkan Sirip, Berdiam di Sudut Akuarium, dan Mengeluarkan Kotoran Putih Panjang (Clamped Fins & White Feces)",
-                        "meaning": "Penurunan imunitas akibat suhu dingin atau infeksi parasit usus Hexamita aktif.",
-                        "response": "Naikkan suhu air menjadi 30–31°C dan konsultasikan dengan dokter hewan untuk pengobatan metronidazole."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Pemeriksaan Suhu Air (28–30°C) & pH (6.0–6.8), serta Pakan Burger Sapi/Pelet Protein Tinggi",
-                        "text": "Pastikan suhu air tetap hangat dan berikan burger sapi (beefheart) atau pelet tenggelam khusus Discus dalam porsi kecil."
-                    },
-                    {
-                        "name": "Siang: Pembersihan Sisa Pakan & Pemeriksaan Aerasi/Oksigen Terlarut",
-                        "text": "Sedot sisa burger sapi dalam 15 menit agar tidak membusukkan air, dan jaga aerasi tetap kuat di suhu tinggi."
-                    },
-                    {
-                        "name": "Malam: Penyiphonan Kotoran Dasar (Kuras Air Kecil Secara Rutin) & Istirahat Gelap",
-                        "text": "Sedot kotoran setiap hari untuk menekan nitrat, lakukan pergantian air kecil secara berkala, dan matikan lampu akuarium."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apa penyebab penyakit 'Lubang di Kepala' (Hexamita) pada Ikan Discus dan bagaimana cara mencegahnya?",
-                        "answer": "Penyakit Lubang di Kepala disebabkan oleh parasit usus Spironucleus/Hexamita, dipicu oleh kekurangan vitamin/mineral dan air kotor tinggi nitrat. Parasit ini menyerap kalsium di usus sehingga kartilago kepala membusuk dan berlubang. Cegah dengan menyedot sisa pakan setiap hari, menjaga kebersihan air, dan memberi pakan kaya vitamin."
-                    },
-                    {
-                        "question": "Mengapa akuarium Ikan Discus harus dijaga pada suhu tinggi 28–30°C?",
-                        "answer": "Ikan Discus berasal dari genangan hangat Amazon di mana sistem metabolisme dan imunnya berevolusi pada suhu tinggi. Jika suhu turun di bawah 26°C, metabolismenya melambat, mogok makan, dan imunnya runtuh sehingga rentan kena parasit usus dan bintik putih. Penggunaan heater konstan pada suhu 28–30°C adalah syarat mutlak."
-                    }
-                ]
-            }
+  "discus-care": {
+    "pubDate": "2026-07-22",
+    "updatedDate": "2026-07-22",
+    "locales": {
+      "ko": {
+        "title": "디스커스의 수영·체색 신호 해석과 구멍병(Hexamita) 및 수질 부적응 예방을 위한 3단계 데일리 케어",
+        "description": "열대어의 왕 디스커스(Discus Fish). 체색 어두워짐 및 지느러미 접기 신호 해석, 약산성 고온 수질 관리, 홀인더헤드(구멍병) 예방을 위한 3단계 홈케어 루틴을 소개합니다.",
+        "authority": "OFI (국제 관상어 협회) 및 WAVMA (세계 수생 수의사 협회) 케어 프로토콜",
+        "profile": {
+          "breed": "디스커스 (Discus Fish / Symphysodon)",
+          "lifespan": "10 ~ 15년",
+          "sleep_pattern": "8 ~ 10시간 (주행성, 밤 동안 조명을 끄고 수중 구조물 근처에서 휴식)",
+          "temperament": "온순함, 예민함, 사회성 있음(군영성), 수질 변화에 민감함, 섬세함"
         },
-        "heroImage": "/images/blog/discus_care.webp"
-    }
+        "intro": "남미 아마존강 수계 원산의 디스커스(Discus Fish)는 원반 모양의 우아한 체형과 화려한 체색으로 '열대어의 왕'이라 불리는 시클리드과 민물 열대어입니다. 디스커스는 가장 아름다운 자태를 자랑하지만, 고온(28~30°C)과 깨끗한 약산성 연수(pH 6.0~6.8)를 요구하는 예민한 어종입니다. 수질 오염이나 질산염 축적 시 체색이 새까맣게 변하는 '블랙닝(Darkening)' 증상을 보이며, 내부 기생충(헥사미타) 감염 시 머리에 구멍이 뚫리는 '구멍병(Hole-in-the-Head)'에 매우 취약합니다. 이번 가이드에서는 디스커스의 행동 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
+        "whyTitle": "디스커스의 바디 랭귀지: 체색 어두워짐(Body Darkening)과 지느러미 접기·구석 숨기(Clamped Fins & Hiding)",
+        "whyDesc": "디스커스는 피부 발색의 변화와 지느러미 상태로 수질 부적응 및 건강 이상을 명확히 신호합니다. 본래의 화려한 색상을 잃고 신체 표면이 검게 변하는 **'체색 어두워짐(Body Darkening / Stress Bar)'**은 급격한 수질 오염, 아질산/질산염 중독, 혹은 높은 스트레스를 나타내는 경고 신호입니다. 반면 지느러미를 바짝 접고 수조 구석이나 구조물 뒤에 웅크려 있는 **'지느러미 접기·구석 숨기(Clamped Fins & Hiding)'**는 수온 저하, 내부 기생충 감염, 또는 서열 싸움에서 밀린 약자의 위축 신호입니다.",
+        "body_signals": [
+          {
+            "name": "화려한 체색이 사라지고 온몸이 새까맣게 변함 (Body Darkening / Stress Bar)",
+            "meaning": "수질 오염(질산염 상승), 급격한 pH 변화, 또는 서열 및 수조 환경 스트레스 신호입니다.",
+            "response": "즉시 질산염 수치를 측정하고, 따뜻하게 맞춘 신선한 물로 20~30% 환수를 실시합니다."
+          },
+          {
+            "name": "지느러미를 바짝 접은 채 수조 구석에 웅크리고 투명한 흰 똥을 누움 (Clamped Fins & White Feces)",
+            "meaning": "수온 하강으로 인한 면역 저하 또는 헥사미타(Hexamita) 내부 기생충 감염으로 인한 장염 신호입니다.",
+            "response": "수온을 30~31°C로 올리고 수의사 진단 후 헥사미타 약욕 처방을 진행합니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 수온(28~30°C) 및 pH(6.0~6.8) 점검, 고단백 햄핏/디스커스 전용 사료 급여",
+            "text": "체온 유지를 위해 고온 수질을 확인하고, 성장을 돕는 디스커스 전용 햄핏(소염통)이나 고단백 침강성 펠릿을 소량 급여합니다."
+          },
+          {
+            "name": "낮: 잔여 먹이 즉시 제거 및 여과기 수류·에어레이션(용존 산소) 점검",
+            "text": "수질 오염을 막기 위해 15분 내 남은 햄핏 잔여물을 바로 건져내고, 고수온에서 산소가 부족하지 않도록 강한 에어레이션을 유지합니다."
+          },
+          {
+            "name": "저녁: 사이폰을 이용한 배설물 청소(소량 자주 환수) 및 야간 암막 안정 환경 조성",
+            "text": "질산염 누적을 막기 위해 매일 또는 주 2~3회 온도를 맞춘 염소 제거 물로 소량 환수를 진행하며, 밤 동안 수면을 돕습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "디스커스의 머리에 구멍이 뚫리는 '구멍병(Hole-in-the-Head/Hexamita)'은 왜 생기나요?",
+            "answer": "구멍병은 헥사미타(Spironucleus/Hexamita) 편모충 기생충과 영양 결핍(비타민/미네랄 부족), 수질 오염(질산염 축적)이 복합 작용하여 발생합니다. 기생충이 장내에서 칼슘과 미네랄 흡수를 방해하여 머리와 측선 부위의 연골이 괴사하면서 구멍이 생깁니다. 예방을 위해 매일 잔여 사료를 청소하여 수질을 깨끗이 유지하고 비타민 첨가 사료를 급여해야 합니다."
+          },
+          {
+            "question": "디스커스 수조의 수온을 왜 28~30°C의 높은 온도로 유지해야 하나요?",
+            "answer": "디스커스는 아마존 강 따뜻한 잔잔한 수계 출신으로 대사율과 면역계가 고온에 최적화되어 있습니다. 수온이 26°C 이하로 떨어지면 신진대사가 저하되어 사료를 거부하고, 면역력이 급격히 떨어져 백점병이나 내부 기생충 감염에 취약해집니다. 따라서 히터를 사용하여 상시 28~30°C(치어 사육 시 30~31°C)를 유지하는 것이 필수적입니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Discus Fish Behavioral Signals and 3-Step Daily Routine for Hole-in-the-Head Disease (Hexamita) and Water Shock Prevention",
+        "description": "Care guide for the King of Aquariums, the Discus Fish. Interpret body darkening and clamped fin signals, manage warm soft acidic water, and prevent Hexamita hole-in-the-head disease in 3 steps.",
+        "authority": "Ornamental Fish International (OFI) & World Aquatic Veterinary Medical Association (WAVMA) Care Standards",
+        "profile": {
+          "breed": "Discus Fish (Symphysodon)",
+          "lifespan": "10 - 15 Years",
+          "sleep_pattern": "8 - 10 Hours (Diurnal, rests quietly near submerged decor at night)",
+          "temperament": "Peaceful, Delicate, Highly Social (Schooling 5+), Sensitive to Water Parameters"
+        },
+        "intro": "Native to the warm, calm river basins of the Amazon River in South America, the Discus Fish (Symphysodon) is hailed worldwide as the 'King of the Aquarium' for its disc-shaped body and breathtaking color patterns. While magnificent, Discus are exceptionally sensitive freshwater cichlids requiring high water temperatures (28–30°C) and pristine, soft, slightly acidic water (pH 6.0–6.8). Water pollution or nitrate accumulation triggers 'body darkening,' while internal parasite infections cause fatal 'Hole-in-the-Head Disease' (Hexamita). In this guide, presents a 3-step daily care routine to decode your Discus's body language and protect its health.",
+        "whyTitle": "Discus Body Language: Body Darkening (Stress Bars) and Clamped Fins / Corner Hiding",
+        "whyDesc": "Discus fish signal water quality deterioration and physiological illness through dramatic skin color shifts and fin postures. Losing vibrant colors and turning dark black **'Body Darkening / Stress Bars'** is a critical distress signal indicating rising nitrates, sudden pH shock, or severe environmental stress. Conversely, clamping fins tightly while crouching in tank corners or trailing white stringy feces **'Clamped Fins & Hiding'** signals thermal shock, internal parasite infections (Hexamita), or social bullying.",
+        "body_signals": [
+          {
+            "name": "Losing Vibrant Coloration and Turning Dark Black All Over Body (Body Darkening / Stress Bars)",
+            "meaning": "Indicates acute water pollution (nitrate/ammonia spike), sudden pH shock, or extreme environmental stress.",
+            "response": "Test nitrate levels immediately and perform a 20–30% water change using temperature-matched dechlorinated water."
+          },
+          {
+            "name": "Clamping Fins Tightly, Hiding in Corners, and Excreting White Stringy Feces (Clamped Fins & White Feces)",
+            "meaning": "Signals immunosuppression from low temperature or active Hexamita internal parasite infection in the digestive tract.",
+            "response": "Elevate water temperature to 30–31°C and consult an aquatic vet for metronidazole/Hexamita medication."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Water Temperature (28–30°C) & pH (6.0–6.8) Check, High-Protein Beefheart/Pellet Feeding",
+            "text": "Verify warm thermal stability and feed small portions of high-protein beefheart mix or specialized Discus sinking pellets."
+          },
+          {
+            "name": "Afternoon: Uneaten Food Removal & Aeration / Dissolved Oxygen Inspection",
+            "text": "Siphon out unconsumed beefheart within 15 minutes to prevent water fouling, maintaining vigorous aeration at high temperatures."
+          },
+          {
+            "name": "Evening: Siphon Substrate Waste (Frequent Small Water Changes) & Blackout Resting Setup",
+            "text": "Vacuum feces daily to prevent nitrate buildup, performing frequent small water changes with aged water, and turn off aquarium lights."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "What causes 'Hole-in-the-Head Disease' (Hexamita) in Discus fish and how can it be prevented?",
+            "answer": "Hole-in-the-Head disease is caused by the flagellate parasite Spironucleus/Hexamita, compounded by vitamin/mineral deficiencies and organic water pollution (high nitrates). The parasite impairs nutrient absorption in the gut, causing cartilage necrosis and sensory pit erosion on the head. Prevent this by siphoning leftover food daily, maintaining pristine water quality, and feeding vitamin-enriched foods."
+          },
+          {
+            "question": "Why must Discus aquariums be kept at a high temperature of 28–30°C?",
+            "answer": "Discus originate from warm Amazonian backwaters where their metabolic and immune systems evolved to thrive in high heat. Temperatures below 26°C depress their metabolism, cause anorexia, and severely weaken immunity against Ich and internal flagellates. Maintaining a constant 28–30°C (or 30–31°C for juveniles) using reliable heaters is mandatory."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ディスカスの行動サイン解読と穴あき病（ヘキサミタ）および水質ショック予防のための3ステップデイリールーティン",
+        "description": "熱帯魚の王様ディスカス（Discus Fish）。体色黒化やヒレたたみの解読、弱酸性・高温水質の管理、ヘキサミタ穴あき病予防のための3ステップホームケアを紹介します。",
+        "authority": "OFI（国際観賞魚協会）およびWAVMA（世界水生獣医師会）飼育基準",
+        "profile": {
+          "breed": "ディスカス (Discus Fish / Symphysodon)",
+          "lifespan": "10 〜 15年",
+          "sleep_pattern": "8 〜 10時間 (昼行性、夜間は消灯して水草や流木付近で休息)",
+          "temperament": "温和、繊細、社会性あり（群泳性5匹以上）、水質変化に極めて敏感"
+        },
+        "intro": "南米アマゾン川水系原産のディスカス（Discus Fish）は、円盤状の優雅な体型と鮮やかな色彩から「熱帯魚の王様」と称されるシクリッド科の淡水熱帯魚です。ディスカスは観賞魚の中で最も美しい姿を誇りますが、高温（28〜30℃）と清潔な弱酸性軟水（pH 6.0〜6.8）を要求する非常に繊細な魚です。水質悪化や硝酸塩の蓄積が起こると体色が真っ黒に変色する「黒化（Darkening）」を起こし、内部寄生虫（ヘキサミタ）に感染すると頭部に穴が開く致命的な「穴あき病（Hole-in-the-Head / Hexamita）」を発症します。本記事では、ディスカスのサインを解読し健康を守る3ステップルーティンをお届けします。",
+        "whyTitle": "ディスカスのボディランゲージ：体色黒化(Body Darkening)とヒレたたみ・隅っこでのうずくまり(Clamped Fins & Hiding)",
+        "whyDesc": "ディスカスは皮膚の発色とヒレの状態で水質不適合や体調不良を明確に表現します。本来の美しさを失い体全体が黒く変化する**「体色黒化（Body Darkening / ストレスバー）」**は、急激な水質汚染、硝酸塩の上昇、または重度の環境ストレスを示す警告サインです。一方、ヒレを体にピタッとたたんで水槽の隅や流木の後ろに隠れ、白いフンをする**「ヒレたたみ・隠れ（Clamped Fins & Hiding）」**は、水温低下、内部寄生虫感染、あるいはいじめによる衰弱サインです。",
+        "body_signals": [
+          {
+            "name": "美しい体色が消え、全身が真っ黒に変色する (Body Darkening / Stress Bar)",
+            "meaning": "水質汚染（硝酸塩の上昇）、急激なpH変化、または水槽内の環境ストレス反応です。",
+            "response": "すぐに硝酸塩濃度を測定し、事前に汲み置き・保温したきれいな水で20〜30%の水換えを行います。"
+          },
+          {
+            "name": "ヒレをたたんで水槽の隅にうずくまり、透明な白い粘質フンをする (Clamped Fins & White Feces)",
+            "meaning": "水温低下による免疫低下、またはヘキサミタ（Hexamita）内部寄生虫感染による腸炎です。",
+            "response": "水温を30〜31℃に引き上げ、獣医師の診断のもとヘキサミタ用の薬浴治療を行います。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：水温（28〜30℃）＆pH（6.0〜6.8）チェック、高タンパクハンバーグ・ペレット給餌",
+            "text": "高水温を保持しているか確認し、成長を促すディスカスハンバーグ（牛心臓）や高タンパク沈下性ペレットを少量をあたえます。"
+          },
+          {
+            "name": "昼：食べ残しの即時回収とフィルター水流・エアレーション（溶存酸素）確認",
+            "text": "水質悪化を防ぐため15分以内に残餌をネットで取り除き、高水温下で酸欠にならないよう強いエアレーションを維持します。"
+          },
+          {
+            "name": "夜：プロホースでのフン清掃（頻繁な小規模水換え）と夜間消灯環境の維持",
+            "text": "硝酸塩の蓄積を防ぐため、毎日〜週2-3回温調済みのカルキ抜き水で小規模換水を行い、消灯して静かに休ませます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ディスカスの頭に穴が開く「穴あき病（Hole-in-the-Head/Hexamita）」はなぜ発生するのですか？",
+            "answer": "穴あき病はヘキサミタ（Spironucleus/Hexamita）原虫寄生虫と、ビタミン・ミネラル不足、水質汚染（硝酸塩の蓄積）が複合して発生する病気です。寄生虫が腸内でカルシウム等の吸収を阻害し、頭部や側線系の軟骨が壊死して穴が開きます。予防には毎日の残餌清掃による水質維持とビタミンを含んだ新鮮な餌の給餌が重要です。"
+          },
+          {
+            "question": "ディスカス水槽の水温をなぜ28〜30℃の高めに保つ必要があるのですか？",
+            "answer": "ディスカスはアマゾン川の暖かい緩やかな水域原産であり、代謝や免疫系が高温環境に最適化されています。水温が26℃以下に下がると代謝が落ちて拒食を起こし、免疫力が低下して白点病や内部寄生虫に感染しやすくなります。ヒーターを用いて常に28〜30℃（幼魚期は30〜31℃）を維持することが飼育の絶対条件です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "七彩神仙鱼行为信号解读与头洞病 (Hexamita) 及水质应激预防的 3 步日常流程",
+        "description": "热带观赏鱼之王七彩神仙鱼（Discus Fish）。解读体色发黑与缩鳍隐藏信号，维护弱酸性高温水质，预防头洞病的 3 步骤家庭护理。",
+        "authority": "国际观赏鱼协会 (OFI) 与世界水生兽医师协会 (WAVMA) 护理标准",
+        "profile": {
+          "breed": "七彩神仙鱼 / 盘羊 (Discus Fish / Symphysodon)",
+          "lifespan": "10 ~ 15年",
+          "sleep_pattern": "8 ~ 10小时 (昼行性，夜间关灯后在水草或沉木旁静止休息)",
+          "temperament": "温和、极其敏感、喜群居 (建议5尾以上)、对水质要求极高"
+        },
+        "intro": "原产于南美洲亚马逊河流域的七彩神仙鱼（Discus Fish），凭其圆盘状的优雅体型与如梦似幻的华丽斑纹，被誉为“热带观赏鱼之王”。七彩神仙鱼虽然极具观赏价值，但属于对水质极其挑剔的高难度观赏鱼，要求高水温 (28°C~30°C) 与极度洁净的弱酸性软水 (pH 6.0~6.8)。水质污染或硝酸盐堆积时，其体色会瞬间转黑发暗（“黑体/Darkening”）；而感染肠道鞭毛虫时，会引发头部的软骨腐蚀与溃烂，患上致命的“头洞病（Hole-in-the-Head/Hexamita）”。本指南将带您准确解读七彩神仙鱼肢体语言，并通过 3 步骤日常护理维护其健康。",
+        "whyTitle": "七彩神仙鱼肢体语言：体色发黑 (Body Darkening) 与缩鳍·躲藏 (Clamped Fins & Hiding)",
+        "whyDesc": "七彩神仙鱼通过色素细胞的变化与鱼鳍状态清晰反映水质应激与健康危机。失去原本绚丽的体色，全身甚至鳍条变得漆黑**“体色发黑 (Body Darkening / 栋条显现)”**，是因水质剧烈波动、氨氮/硝酸盐超标或严重应激引发的警告信号。相反，缩紧胸鳍背鳍躲在缸角或沉木后，且拉出白色透明便**“缩鳍·躲藏 (Clamped Fins & White Feces)”**，则是水温骤降、肠道六鞭毛虫（Hexamita）感染或弱势受欺压的衰弱信号。",
+        "body_signals": [
+          {
+            "name": "原本绚丽的体色消失，全身发黑并显现黑色栋条 (Body Darkening / Stress Bars)",
+            "meaning": "水质严重恶化（硝酸盐超标）、pH 值剧烈波动，或对缸内环境产生剧烈应激。",
+            "response": "立即检测硝酸盐浓度，并用预热且去氯的同温新水进行 20%~30% 的换水。"
+          },
+          {
+            "name": "紧缩鱼鳍蜷缩在水族箱角落，拉出白色透明丝状粪便 (Clamped Fins & White Feces)",
+            "meaning": "水温过低导致免疫力崩溃，或肠道感染六鞭毛虫（Hexamita）引发的严重肠炎。",
+            "response": "将水温提升至 30°C~31°C，并在兽医指导下投喂或药浴甲硝唑等六鞭毛虫药物。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：水温 (28°C~30°C) 与 pH 值 (6.0~6.8) 检测，投喂高蛋白牛心汉堡/专用汉堡",
+            "text": "确认高温水质恒定，投喂促进出彩与发育的高蛋白牛心汉堡或七彩神仙专用沉底滋养颗粒。"
+          },
+          {
+            "name": "中午：残饵及时清理与检查过滤器水流及增氧爆氧",
+            "text": "为防止牛心汉堡发酵破坏水质，15 分钟内必须捞出残渣，并在高温水体中保持强力增氧爆氧。"
+          },
+          {
+            "name": "晚上：用洗沙器吸除底床粪便（少量多次换水）与维持夜间黑暗关灯休息",
+            "text": "为防止硝酸盐堆积，每日或隔日用同温去氯水进行少量换水，关灯保持夜间安静睡眠。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "七彩神仙鱼头顶溃烂穿孔的“头洞病 (Hole-in-the-Head/Hexamita)”是如何产生的？",
+            "answer": "头洞病是由六鞭毛虫（Spironucleus/Hexamita）肠道鞭毛虫感染，叠加营养不良（缺少维生素/矿物质）及水质污染（硝酸盐堆积）共同引发的疾病。虫体阻碍肠道对钙和矿物质的吸收，导致头部及侧线系统软骨坏死塌陷形成空洞。预防的关键是每日吸除残饵维持水质洁净，并补充富含维生素的高品质饲料。"
+          },
+          {
+            "question": "为什么七彩神仙鱼的水族箱必须维持 28°C~30°C 的高水温？",
+            "answer": "七彩神仙鱼原生于亚马逊河温暖平静的浅水区，其新陈代谢与免疫系统高度适应高温环境。若水温降至 26°C 以下，其消化酶活性骤降导致拒食绝食，免疫力崩溃极易感染白点病与肠道鞭毛虫。使用高品质加热棒常年维持 28°C~30°C（幼鱼期 30°C~31°C）是成功饲养的铁律。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Señales de conducta en el Pez Disco y rutina diaria de 3 pasos para la enfermedad del agujero en la cabeza (Hexamita) y desajustes del agua",
+        "description": "Guía de cuidado para el Rey del Acuario, el Pez Disco (Discus Fish). Interprete el oscurecimiento corporal y las aletas replegadas, mantenga el agua cálida y blanda, y prevenga el Hexamita en 3 pasos.",
+        "authority": "Ornamental Fish International (OFI) y Normas de la World Aquatic Veterinary Medical Association (WAVMA)",
+        "profile": {
+          "breed": "Pez Disco (Symphysodon)",
+          "lifespan": "10 ~ 15 años",
+          "sleep_pattern": "8 ~ 10 horas (Diurno, descansa cerca de troncos o plantas por la noche)",
+          "temperament": "Pacífico, Muy delicado, Gregario (grupo de 5+), Exigente con la calidad del agua"
+        },
+        "intro": "Nativo de las aguas cálidas y calmas de la cuenca del Amazonas en América del Sur, el Pez Disco (Symphysodon) es aclamado en todo el mundo como el 'Rey del Acuario' por su cuerpo redondeado en forma de disco y sus deslumbrantes patrones de color. Aunque majestuosos, son cíclidos de agua dulce sumamente exigentes que requieren temperaturas elevadas (28–30°C) y un agua blanda, limpia y ligeramente ácida (pH 6.0–6.8). La acumulación de nitratos produce un oscurecimiento corporal (Darkening), mientras que las infecciones por parásitos internos producen la mortal 'Enfermedad del Agujero en la Cabeza' (Hexamita). En esta guía, presenta una rutina de 3 pasos para cuidar su salud.",
+        "whyTitle": "Lenguaje corporal del Pez Disco: Oscurecimiento corporal (Stress Bars) y aletas plegadas / escondite en esquinas",
+        "whyDesc": "El Pez Disco comunica la mala calidad del agua y enfermedades mediante cambios en los pigmentos de la piel y la postura de las aletas. Perder sus colores brillantes y tornarse de un color negro oscuro **'Oscurecimiento corporal (Stress Bars)'** es una señal de socorro provocada por picos de nitratos, choques de pH o estrés ambiental. Por el contrario, replegar las aletas junto al cuerpo, esconderse en esquinas o defecar heces blanquecinas **'Aletas plegadas / Heces blancas'** indica hipotermia o parásitos intestinales (Hexamita).",
+        "body_signals": [
+          {
+            "name": "Perder la coloración brillante y tornarse de un color negro oscuro en todo el cuerpo (Body Darkening / Stress Bars)",
+            "meaning": "Mala calidad del agua (pico de nitratos o amoníaco), choque brusco de pH o estrés severo por el entorno.",
+            "response": "Mida los nitratos inmediatamente y realice un cambio de agua del 20 al 30% con agua tratada y a la misma temperatura."
+          },
+          {
+            "name": "Plegar las aletas junto al cuerpo, esconderse en la esquina y expulsar heces blancas hilosas (Clamped Fins & White Feces)",
+            "meaning": "Inmunodepresión por baja temperatura o infección intestinal activa por el parásito Hexamita.",
+            "response": "Suba la temperatura a 30–31°C y consulte al veterinario para un tratamiento con metronidazol para Hexamita."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Control de temperatura (28–30°C) y pH (6.0–6.8), y alimento proteico (Papilla/Granulado)",
+            "text": "Compruebe la estabilidad térmica y administre pequeñas raciones de papilla de corazón de ternera o gránulos específicos de hundimiento."
+          },
+          {
+            "name": "Tarde: Retirada de sobrantes de comida e inspección de aireación y oxígeno disuelto",
+            "text": "Sifone los restos de papilla en 15 minutos para evitar la contaminación del agua y mantenga una fuerte oxigenación."
+          },
+          {
+            "name": "Noche: Sifonado de heces (cambios parciales de agua frecuentes) y descanso en oscuridad",
+            "text": "Aspire las deyecciones del fondo a diario para evitar nitratos, realizando pequeños cambios de agua periódicos y apague la luz."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Qué causa la 'Enfermedad del Agujero en la Cabeza' (Hexamita) y cómo prevenirla?",
+            "answer": "Es provocada por el parásito flagelado Spironucleus/Hexamita, combinada con deficiencias de vitaminas/minerales y agua contaminada por nitratos. El parásito impide la absorción de calcio en el intestino, causando necrosis de los cartílagos del cráneo. Se previene sifonando los restos de comida a diario, manteniendo el agua impecable y dando alimento rico en vitaminas."
+          },
+          {
+            "question": "¿Por qué el acuario del Pez Disco debe mantenerse a una temperatura alta de 28–30°C?",
+            "answer": "Los peces Disco proceden de remansos cálidos amazónicos donde su metabolismo e inmunidad evolucionaron para funcionar a temperaturas elevadas. Si la temperatura baja de 26°C, su metabolismo se ralentiza causando inapetencia, dejando al pez desprotegido frente a la enfermedad del punto blanco y parásitos flagelados. Mantener 28–30°C constante con termocalentadores es obligatorio."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Signaux comportementaux du Poisson Discus et routine quotidienne en 3 étapes pour la maladie des trous dans la tête (Hexamita) et les chocs de paramètres",
+        "description": "Guide de soins pour le Roi de l'Aquarium, le Poisson Discus. Décryptez l'assombrissement du corps et les nageoires collées, gérez une eau chaude et douce, et prévenez l'Hexamita en 3 étapes.",
+        "authority": "Ornamental Fish International (OFI) & Normes de la World Aquatic Veterinary Medical Association (WAVMA)",
+        "profile": {
+          "breed": "Poisson Discus (Symphysodon)",
+          "lifespan": "10 ~ 15 ans",
+          "sleep_pattern": "8 ~ 10 heures (Diurne, se repose près des roches ou racines la nuit)",
+          "temperament": "Paisible, Délicat, Grégaire (groupe de 5+), Très exigeant sur la qualité de l'eau"
+        },
+        "intro": "Originaire des bras de fleuve calmes de l'Amazone en Amérique du Sud, le Poisson Discus (Symphysodon) est surnommé le « Roi de l'Aquarium » pour sa forme majestueuse en disque et ses couleurs somptueuses. Bien que magnifiques, les Discus sont des cichlidés très exigeants qui demandent une eau chaude (28–30°C), douce et légèrement acide (pH 6.0–6.8). Une accumulation de nitrates provoque un assombrissement du corps (Darkening), tandis qu'une parasitose interne entraîne la redoutable « Maladie des trous dans la tête » (Hexamita). Dans ce guide, vous présente une routine en 3 étapes pour prendre soin de sa santé.",
+        "whyTitle": "Langage corporel du Discus : Assombrissement du corps (Barres de stress) et nageoires collées / isolement",
+        "whyDesc": "Le Discus exprime la dégradation de l'eau et les maladies par des changements de pigmentation et la tenue de ses nageoires. Perdre ses couleurs éclatantes et devenir très sombre/noir **« Assombrissement du corps (Stress Bars) »** est une alerte indiquant une montée de nitrates, un choc de pH ou un stress environnemental. En revanche, plaquer ses nageoires, se cacher au fond ou émettre des selles blanches et filamenteuses **« Nageoires collées / Selles blanches »** révèle une baisse de température ou une infection par Hexamita.",
+        "body_signals": [
+          {
+            "name": "Perdre ses couleurs lumineuses et devenir totalement noir (Body Darkening / Stress Bars)",
+            "meaning": "Alerte de pollution de l'eau (pic de nitrates/ammoniac), choc de pH ou stress environnemental aigu.",
+            "response": "Testez les nitrates immédiatement et faites un changement d'eau de 20 à 30 % avec de l'eau conditionnée à température."
+          },
+          {
+            "name": "Nageoires collées au corps, prostration dans un coin et fientes blanches et translucides (Clamped Fins & White Feces)",
+            "meaning": "Immunodépression due à une eau trop froide ou parasitose intestinale à Hexamita.",
+            "response": "Montez la température à 30–31°C et administrez un traitement sur ordonnance vétérinaire (metronidazole)."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Contrôle température (28–30°C) & pH (6.0–6.8), et pâtée au cœur de bœuf / granulés",
+            "text": "Vérifiez le chauffage et donnez de petites portions de pâtée protéinée ou de granulés coulant au fond."
+          },
+          {
+            "name": "Après-midi : Retrait des restes de pâtée & contrôle de l'aération/oxygène dissous",
+            "text": "Aspirez les restes de pâtée au bout de 15 minutes pour éviter la pollution et maintenez un fort bulleur."
+          },
+          {
+            "name": "Soir : Siphonnage des déjections (petits changements d'eau fréquents) & obscurité complète",
+            "text": "Nettoyez le sol quotidiennement contre les nitrates en faisant de petits changements d'eau et éteignez la galerie."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Quelle est la cause de la 'Maladie des trous dans la tête' (Hexamita) chez le Discus et comment l'éviter ?",
+            "answer": "Elle est causée par le parasite flagellé Spironucleus/Hexamita, associée à des carences en vitamines et à une eau chargée en nitrates. Le parasite bloque l'assimilation du calcium, provoquant la nécrose des cartilages de la tête. Prévenez-la en siphonnant les déchets tous les jours, en gardant une eau très pure et en donnant une nourriture enrichie en vitamines."
+          },
+          {
+            "question": "Pourquoi l'aquarium du Discus doit-il être maintenu à une température élevée de 28 à 30°C ?",
+            "answer": "Les Discus viennent des eaux chaudes de l'Amazone où leur métabolisme est adapté à une forte chaleur. Sous 26°C, leur métabolisme s'effondre, ils refusent de s'alimenter et développent des parasitoses. Le maintien permanent de 28 à 30°C au chauffage est obligatoire."
+          }
+        ]
+      },
+      "de": {
+        "title": "Verhaltenssignale des Diskusfisches und 3-Schritte-Tagesroutine zur Prävention der Lochkrankheit (Hexamita) und Wasserwerte-Schock",
+        "description": "Pflegeanleitung für den König des Aquariums, den Diskusfisch (Discus Fish). Nachdunkeln des Körpers und Flossenklemmen verstehen, warmes weiches Wasser pflegen und die Lochkrankheit in 3 Schritten vorbeugen.",
+        "authority": "Ornamental Fish International (OFI) & Standards der World Aquatic Veterinary Medical Association (WAVMA)",
+        "profile": {
+          "breed": "Diskusfisch (Discus Fish / Symphysodon)",
+          "lifespan": "10 ~ 15 Jahre",
+          "sleep_pattern": "8 ~ 10 Stunden (Tagaktiv, ruht nachts bei Wurzeln/Pflanzen)",
+          "temperament": "Friedlich, Empfindlich, Gesellig (Gruppe ab 5 Tieren), Hohe Ansprüche an Wasserqualität"
+        },
+        "intro": "Aus den warmen, ruhigen Flussläufen des südamerikanischen Amazonas stammend, wird der Diskusfisch (Symphysodon) wegen seiner Scheibenform und Prachtfarben weltweit als „König des Aquariums“ gefeiert. So majestätisch Diskusfische sind, so anspruchsvoll sind sie: Sie benötigen hohe Wassertemperaturen (28–30 °C) und sehr sauberes, weiches, leicht saures Wasser (pH 6,0–6,8). Verschmutzungen führen zum Nachdunkeln der Körperfarbe, während Darmparasiten die tödliche Lochkrankheit (Hexamita) auslösen. In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für die Gesundheit Ihres Diskusfisches.",
+        "whyTitle": "Körpersprache des Diskusfisches: Schwarzfärbung (Stressstreifen) und Flossenklemmen / Ecke-Kauern",
+        "whyDesc": "Der Diskusfisch zeigt schlechte Wasserwerte und Parasitenbefall durch Farbwechsel und Flossenhaltung. Das Verblassen der Farben und dunkle Schwarzfärbung **'Schwarzfärbung (Stressstreifen)'** ist ein Notsignal bei Nitratspitzen, pH-Schock oder Umweltstress. Das dichte Anlegen der Flossen mit Kümmern in Aquarienecken und weißem Schleimkot **'Flossenklemmen & Weißer Kot'** signalisiert dagegen Unterkühlung oder akuten Hexamita-Befall im Darm.",
+        "body_signals": [
+          {
+            "name": "Verlust der Leuchtkraft und tiefe Schwarzfärbung des Körpers (Body Darkening / Stress Bars)",
+            "meaning": "Akute Wasserbelastung (Nitrat-/Ammoniakspitze), pH-Wert-Schock oder schwerer Umweltstress.",
+            "response": "Prüfen Sie sofort Nitrat und führen Sie einen 20–30%igen Wasserwechsel mit wohltemperiertem Wasser durch."
+          },
+          {
+            "name": "Anlegen der Flossen, Kauern in Beckenecken und Ausscheiden weißer Kotfäden (Clamped Fins & White Feces)",
+            "meaning": "Immunschwäche durch kühles Wasser oder Ausbruch der Hexamita-Darmparasitose.",
+            "response": "Erhöhen Sie die Temperatur auf 30–31 °C und behandeln Sie auf tierärztlichen Rat hin mit Metronidazol."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Wassertemperatur (28–30 °C) & pH-Wert (6,0–6,8) prüfen & Rinderherz/Diskus-Granulat füttern",
+            "text": "Stellen Sie die hohe Wassertemperatur sicher und füttern Sie kleine Rationen Rinderherzmischung oder spezielles Diskusgranulat."
+          },
+          {
+            "name": "Mittag: Futterreste absaugen & Durchlüftung/Sauerstoffgehalt kontrollieren",
+            "text": "Saugen Sie ungenutztes Rinderherz nach 15 Minuten ab, um Wasserkippen zu vermeiden, und halten Sie hohe Sauerstoffwerte."
+          },
+          {
+            "name": "Abend: Kot absaugen (häufige kleine Wasserwechsel) & Dunkle Nachtruhe gewähren",
+            "text": "Saugen Sie Kot täglich ab, um Nitrat niedrig zu halten, führen Sie regelmäßige kleine Wasserwechsel durch und schalten Sie das Licht aus."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Wie entsteht die 'Lochkrankheit' (Hexamita) beim Diskusfisch und wie beugt man ihr vor?",
+            "answer": "Die Lochkrankheit wird durch den Flagellaten Spironucleus/Hexamita ausgelöst, begünstigt durch Vitaminmangel und hohe Nitratwerte. Der Parasit stört die Nährstoffaufnahme im Darm, sodass Gewebe am Kopf abstirbt und Löcher entstehen. Vorbeugung gelingt durch tägliches Absaugen von Futterresten, Top-Wasserhygiene und vitaminreiches Futter."
+          },
+          {
+            "question": "Warum muss das Diskusaquarium auf hohen 28–30 °C gehalten werden?",
+            "answer": "Diskusfische stammen aus heißen amazonischen Altwassern; ihr Immunsystem braucht diese Wärme. Sinkt die Temperatur unter 26 °C, verlangsamt sich der Stoffwechsel, sie verweigern Futter und werden anfällig für Parasiten. Ein dauerhafter Betrieb bei 28–30 °C per Heizstab ist unerlässlich."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Sinais comportamentais do Peixe Disco e rotina diária de 3 passos para doença do buraco na cabeça (Hexamita) e choque de parâmetros",
+        "description": "Guia de cuidados para o Rei do Aquário, o Peixe Disco (Discus Fish). Interprete o escurecimento do corpo e barbatanas encolhidas, mantenha água quente e ácida, e previna Hexamita em 3 passos.",
+        "authority": "Ornamental Fish International (OFI) & Padrões da World Aquatic Veterinary Medical Association (WAVMA)",
+        "profile": {
+          "breed": "Peixe Disco (Symphysodon)",
+          "lifespan": "10 ~ 15 anos",
+          "sleep_pattern": "8 ~ 10 horas (Diurno, descansa perto de troncos e plantas à noite)",
+          "temperament": "Pacífico, Delicado, Gregário (grupo de 5+), Muito exigente com a água"
+        },
+        "intro": "Nativo das águas calmas e quentes da Bacia Amazônica na América do Sul, o Peixe Disco (Symphysodon) é aclamado no mundo todo como o 'Rei do Aquário' devido à sua forma em disco e cores deslumbrantes. Embora majestosos, são ciclídeos muito delicados que exigem águas quentes (28–30°C), moles e ligeiramente ácidas (pH 6.0–6.8). O acúmulo de nitrato causa o escurecimento do corpo (Darkening), enquanto infecções por parasitas internos causam a letal 'Doença do Buraco na Cabeça' (Hexamita). Neste guia, apresenta uma rotina de 3 passos para cuidar da sua saúde.",
+        "whyTitle": "Linguagem corporal do Peixe Disco: Escurecimento do corpo (Barras de Estresse) e barbatanas encolhidas / isolamento",
+        "whyDesc": "O Peixe Disco comunica a má qualidade da água e infecções através de mudanças na pigmentação da pele e postura das barbatanas. Perder a cor brilhante e ficar totalmente escuro/preto **'Escurecimento do corpo (Barras de Estresse)'** é um sinal de alerta de picos de nitrato, choque de pH ou estresse ambiental. Em contrapartida, encolher as barbatanas no canto do aquário defecando fezes brancas **'Barbatanas encolhidas / Fezes brancas'** indica queda de temperatura ou infecção pelo parasita Hexamita.",
+        "body_signals": [
+          {
+            "name": "Perder a coloração vibrante e ficar com o corpo escuro/preto (Body Darkening / Stress Bars)",
+            "meaning": "Má qualidade da água (pico de nitrato/amônia), choque térmico/pH ou estresse ambiental grave.",
+            "response": "Meça o nitrato imediatamente e faça uma troca parcial de água de 20 a 30% com água tratada e aquecida."
+          },
+          {
+            "name": "Encolher as barbatanas no canto do aquário e soltar fezes brancas e filamentosas (Clamped Fins & White Feces)",
+            "meaning": "Baixa imunidade por água fria ou infecção intestinal ativa por Hexamita.",
+            "response": "Aumente a temperatura para 30–31°C e consulte um veterinário para medicação com metronidazol."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Checagem de temperatura (28–30°C) e pH (6.0–6.8) & alimentação proteica (Pâté/Granulado)",
+            "text": "Verifique o aquecimento e forneça pequenas porções de patê de coração bovino ou ração específica para Disco."
+          },
+          {
+            "name": "Tarde: Remoção de sobras de alimentos & verificação da aeração/oxigênio dissolvido",
+            "text": "Sifone restos de patê em 15 minutos para evitar poluição da água e mantenha boa oxigenação."
+          },
+          {
+            "name": "Noite: Sifonagem do substrato (trocas parciais frequentes) & descanso na escuridão",
+            "text": "Aspire fezes diariamente para evitar nitrato, fazendo pequenas trocas de água regulares e apague as luzes."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "O que causa a 'Doença do Buraco na Cabeça' (Hexamita) no Peixe Disco e como prevenir?",
+            "answer": "É causada pelo parasita flagelado Spironucleus/Hexamita, combinado com falta de vitaminas e água poluída por nitrato. O parasita impede a absorção de cálcio no intestino, necrosando as cartilagens da cabeça. Previne-se sifonando restos de comida diariamente, mantendo a água limpa e oferecendo alimento com vitaminas."
+          },
+          {
+            "question": "Por que o aquário do Peixe Disco deve ser mantido em temperatura alta de 28 a 30°C?",
+            "answer": "Os peixes Disco vêm de águas quentes amazônicas onde seu metabolismo evoluiu para alta temperatura. Se a água cai abaixo de 26°C, o metabolismo desacelera, eles param de comer e a imunidade cai. Manter 28–30°C constante no termostato é obrigatório."
+          }
+        ]
+      },
+      "id": {
+        "title": "Sinyal Perilaku Ikan Discus dan Rutinitas Harian 3 Langkah Perawatan Penyakit Lubang di Kepala (Hexamita) serta Pencegahan Syok Air",
+        "description": "Panduan perawatan Raja Akuarium, Ikan Discus (Symphysodon). Pahami sinyal warna tubuh menggelap dan sirip kuncup, kelola air hangat agak asam, serta cegah penyakit Hexamita dalam 3 langkah.",
+        "authority": "Standar Perawatan Ornamental Fish International (OFI) & World Aquatic Veterinary Medical Association (WAVMA)",
+        "profile": {
+          "breed": "Ikan Discus (Symphysodon)",
+          "lifespan": "10 ~ 15 tahun",
+          "sleep_pattern": "8 ~ 10 jam (Diurnal, beristirahat tenang di dekat tanaman/kayu saat malam)",
+          "temperament": "Damai, Sangat Sensitif, Berkelompok (minimal 5 ekor), Sangat Peka Kualitas Air"
+        },
+        "intro": "Berasal dari perairan hangat Sungai Amazon di Amerika Selatan, Ikan Discus (Symphysodon) dijuluki sebagai 'Raja Akuarium' di seluruh dunia karena bentuk tubuh bundarnya dan warna-warnanya yang memukau. Meskipun sangat indah, Discus adalah ikan cichlid air tawar yang sangat sensitif yang membutuhkan suhu air tinggi (28–30°C) serta air lunak yang agak asam (pH 6.0–6.8). Penumpukan nitrat memicu gejala warna tubuh menggelap (Darkening), sedangkan infeksi parasit dalam menyebabkan penyakit 'Lubang di Kepala' (Hexamita) yang mematikan. Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk merawat kesehatan Ikan Discus Anda.",
+        "whyTitle": "Bahasa Tubuh Ikan Discus: Warna Tubuh Menggelap (Stress Bars) dan Sirip Kuncup / Sembunyi di Sudut",
+        "whyDesc": "Ikan Discus menunjukkan penurunan kualitas air dan infeksi penyakit melalui perubahan pigmen kulit dan bentuk siripnya. Kehilangan warna indahnya dan berubah menjadi hitam gelap **'Warna Tubuh Menggelap (Stress Bars)'** adalah sinyal darurat akibat lonjakan nitrat, syok pH, atau stres lingkungan. Sebaliknya, menguncupkan sirip rapat-rapat sambil berdiam di sudut akuarium dan mengeluarkan kotoran putih **'Sirip Kuncup & Kotoran Putih'** menandakan suhu terlalu dingin atau infeksi parasit usus Hexamita.",
+        "body_signals": [
+          {
+            "name": "Kehilangan Warna Cerah dan Tubuh Berubah Hitam Gelap (Body Darkening / Stress Bars)",
+            "meaning": "Kualitas air buruk (lonjakan nitrat/amonia), syok perubahan pH mendadak, atau stres lingkungan berat.",
+            "response": "Ukur kadar nitrat segera dan lakukan pergantian air 20–30% dengan air terendap yang suhunya disesuaikan."
+          },
+          {
+            "name": "Menguncupkan Sirip, Berdiam di Sudut Akuarium, dan Mengeluarkan Kotoran Putih Panjang (Clamped Fins & White Feces)",
+            "meaning": "Penurunan imunitas akibat suhu dingin atau infeksi parasit usus Hexamita aktif.",
+            "response": "Naikkan suhu air menjadi 30–31°C dan konsultasikan dengan dokter hewan untuk pengobatan metronidazole."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pemeriksaan Suhu Air (28–30°C) & pH (6.0–6.8), serta Pakan Burger Sapi/Pelet Protein Tinggi",
+            "text": "Pastikan suhu air tetap hangat dan berikan burger sapi (beefheart) atau pelet tenggelam khusus Discus dalam porsi kecil."
+          },
+          {
+            "name": "Siang: Pembersihan Sisa Pakan & Pemeriksaan Aerasi/Oksigen Terlarut",
+            "text": "Sedot sisa burger sapi dalam 15 menit agar tidak membusukkan air, dan jaga aerasi tetap kuat di suhu tinggi."
+          },
+          {
+            "name": "Malam: Penyiphonan Kotoran Dasar (Kuras Air Kecil Secara Rutin) & Istirahat Gelap",
+            "text": "Sedot kotoran setiap hari untuk menekan nitrat, lakukan pergantian air kecil secara berkala, dan matikan lampu akuarium."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apa penyebab penyakit 'Lubang di Kepala' (Hexamita) pada Ikan Discus dan bagaimana cara mencegahnya?",
+            "answer": "Penyakit Lubang di Kepala disebabkan oleh parasit usus Spironucleus/Hexamita, dipicu oleh kekurangan vitamin/mineral dan air kotor tinggi nitrat. Parasit ini menyerap kalsium di usus sehingga kartilago kepala membusuk dan berlubang. Cegah dengan menyedot sisa pakan setiap hari, menjaga kebersihan air, dan memberi pakan kaya vitamin."
+          },
+          {
+            "question": "Mengapa akuarium Ikan Discus harus dijaga pada suhu tinggi 28–30°C?",
+            "answer": "Ikan Discus berasal dari genangan hangat Amazon di mana sistem metabolisme dan imunnya berevolusi pada suhu tinggi. Jika suhu turun di bawah 26°C, metabolismenya melambat, mogok makan, dan imunnya runtuh sehingga rentan kena parasit usus dan bintik putih. Penggunaan heater konstan pada suhu 28–30°C adalah syarat mutlak."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/discus_care.webp"
+  }
 }

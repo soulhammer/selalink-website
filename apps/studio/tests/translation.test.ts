@@ -317,8 +317,10 @@ describe('블로그 콘텐츠 다국어 검증 및 구조적 정합성 테스트
         if (lang === 'ko') {
           const hasJapanese = /[\u3040-\u309F\u30A0-\u30FF]/g.test(sanitizedAll);
           const hasKorean = /[\uAC00-\uD7A3\u3130-\u318F]/g.test(sanitizedAll);
+          const hasEnglishFallbackCta = /Smart storage & expiration alerts|Download on Google Play/i.test(sanitizedAll);
           expect(hasJapanese, `오류: 한국어 문서 ${fileName} 에 일본어(가나)가 포함되어 있습니다.`).toBe(false);
           expect(hasKorean, `오류: 한국어 문서 ${fileName} 에 한국어(한글)가 전혀 포함되어 있지 않습니다.`).toBe(true);
+          expect(hasEnglishFallbackCta, `오류: 한국어 문서 ${fileName} 에 영어 fallback CTA 텍스트가 잘못 포함되어 있습니다.`).toBe(false);
         }
 
         if (lang === 'ja') {

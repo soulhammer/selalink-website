@@ -222,5 +222,97 @@
       "pt": "✨ 100% Grátis · Sem Cadastro · Sem Anúncios · Offline",
       "id": "✨ 100% Gratis · Tanpa Daftar · Tanpa Iklan · Penyimpanan Offline"
     }
+  },
+  "petselfCta": {
+    "tag": {
+      "ko": "스마트 보관부터 유통기한 알림까지",
+      "en": "Smart storage & expiration alerts",
+      "ja": "スマート保存から賞味期限アラートまで",
+      "zh": "智能保存与保质期提醒",
+      "es": "Almacenamiento inteligente y alertas de caducidad",
+      "fr": "Stockage intelligent et alertes de péremption",
+      "de": "Smarte Lagerung & Ablaufbenachrichtigungen",
+      "pt": "Armazenamento inteligente e alertas de validade",
+      "id": "Penyimpanan pintar & peringatan kadaluwarsa"
+    },
+    "title": {
+      "ko": "FreshSelf - 사료와 영양제, 버려짐 없이 완벽 보관!",
+      "en": "FreshSelf - Keep pet food and supplements perfectly fresh!",
+      "ja": "FreshSelf - フードとサプリメントを無駄なく完璧保存！",
+      "zh": "FreshSelf - 宠粮与营养品，完美保存零浪费！",
+      "es": "FreshSelf - ¡Conserva el alimento y suplementos de tu mascota sin desperdicios!",
+      "fr": "FreshSelf - Conservez la nourriture et les compléments sans gaspillage!",
+      "de": "FreshSelf - Tierfutter & Nahrungsergänzungsmittel perfekt aufbewahren!",
+      "pt": "FreshSelf - Mantenha a ração e suplementos do seu pet perfeitamente frescos!",
+      "id": "FreshSelf - Simpan makanan & suplemen hewan peliharaan tanpa terbuang!"
+    },
+    "download": {
+      "ko": "Google Play에서 다운로드",
+      "en": "Download on Google Play",
+      "ja": "Google Playでダウンロード",
+      "zh": "在 Google Play 下载",
+      "es": "Descargar en Google Play",
+      "fr": "Télécharger sur Google Play",
+      "de": "Bei Google Play herunterladen",
+      "pt": "Baixar no Google Play",
+      "id": "Download di Google Play"
+    },
+    "subtext": {
+      "ko": "✨ 100% 무료 · 회원가입 없음 · 광고 없음 · 오프라인 저장",
+      "en": "✨ 100% Free · No Sign-up · No Ads · Offline Storage",
+      "ja": "✨ 100%無料 · 登録不要 · 広告なし · ローカル保存",
+      "zh": "✨ 100% 免费 · 免注册 · 无广告 · 离线存储",
+      "es": "✨ 100% Gratis · Sin Registro · Sin Anuncios · Offline",
+      "fr": "✨ 100% Gratuit · Sans Inscription · Sans Publicité · Hors Ligne",
+      "de": "✨ 100% Kostenlos · Keine Registrierung · Keine Werbung · Offline",
+      "pt": "✨ 100% Grátis · Sem Cadastro · Sem Anúncios · Offline",
+      "id": "✨ 100% Gratis · Tanpa Daftar · Tanpa Iklan · Penyimpanan Offline"
+    }
+  },
+  "freshsnapCta": {
+    "tag": {
+      "ko": "스마트 보관부터 유통기한 알림까지",
+      "en": "Smart storage & expiration alerts",
+      "ja": "スマート保存から賞味期限アラートまで",
+      "zh": "智能保存与保质期提醒",
+      "es": "Almacenamiento inteligente y alertas de caducidad",
+      "fr": "Stockage intelligent et alertes de péremption",
+      "de": "Smarte Lagerung & Ablaufbenachrichtigungen",
+      "pt": "Armazenamento inteligente e alertas de validade",
+      "id": "Penyimpanan pintar & peringatan kadaluwarsa"
+    },
+    "title": {
+      "ko": "FreshSelf - 버려짐 제로! 모두의 스마트 보관 비서",
+      "en": "FreshSelf - Zero waste! Your smart storage assistant",
+      "ja": "FreshSelf - 廃棄ゼロ！みんなのスマート保存アシスタント",
+      "zh": "FreshSelf - 零浪费！全民智能保存助手",
+      "es": "FreshSelf - ¡Zero desperdicio! Tu asistente inteligente de almacenamiento",
+      "fr": "FreshSelf - Zéro gaspillage! Votre assistant de stockage intelligent",
+      "de": "FreshSelf - Zero Waste! Ihr smarter Aufbewahrungsassistent",
+      "pt": "FreshSelf - Zero desperdício! Seu assistente de armazenamento inteligente",
+      "id": "FreshSelf - Zero waste! Asisten penyimpanan pintar Anda"
+    },
+    "download": {
+      "ko": "Google Play에서 다운로드",
+      "en": "Download on Google Play",
+      "ja": "Google Playでダウンロード",
+      "zh": "在 Google Play 下载",
+      "es": "Descargar en Google Play",
+      "fr": "Télécharger sur Google Play",
+      "de": "Bei Google Play herunterladen",
+      "pt": "Baixar no Google Play",
+      "id": "Download di Google Play"
+    },
+    "subtext": {
+      "ko": "✨ 100% 무료 · 회원가입 없음 · 광고 없음 · 오프라인 저장",
+      "en": "✨ 100% Free · No Sign-up · No Ads · Offline Storage",
+      "ja": "✨ 100%無料 · 登録不要 · 広告なし · ローカル保存",
+      "zh": "✨ 100% 免费 · 免注册 · 无广告 · 离线存储",
+      "es": "✨ 100% Gratis · Sin Registro · Sin Anuncios · Offline",
+      "fr": "✨ 100% Gratuit · Sans Inscription · Sans Publicité · Hors Ligne",
+      "de": "✨ 100% Kostenlos · Keine Registrierung · Keine Werbung · Offline",
+      "pt": "✨ 100% Grátis · Sem Cadastro · Sem Anúncios · Offline",
+      "id": "✨ 100% Gratis · Tanpa Daftar · Tanpa Iklan · Penyimpanan Offline"
+    }
   }
 }

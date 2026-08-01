@@ -1,459 +1,459 @@
 {
-    "dumpy-tree-frog-care": {
-        "pubDate": "2026-02-24",
-        "updatedDate": "2026-02-24",
-        "locales": {
-            "ko": {
-                "title": "덤피 나무개구리 염소 제거 수질 관리와 핸들링 주의사항 및 야간 습도 3단계 케어 루틴",
-                "description": "전 세계 인기 양서류 덤피 나무개구리(White's Tree Frog) 케어 가이드. 투과성 피부를 위한 수질 관리, 맨손 핸들링 금지, 야간 습도 조절 3단계 루틴을 알아봅니다.",
-                "authority": "세계파충류·양서류수의학회(ARAV: Association of Reptilian and Amphibian Veterinarians) 임상 가이드라인 및 Amphibian Ark 양서류 보존·사육 표준",
-                "profile": {
-                    "breed": "덤피 나무개구리 (White's Tree Frog / Litoria caerulea)",
-                    "lifespan": "15 ~ 20년",
-                    "sleep_pattern": "야행성 (낮에는 나뭇잎이나 유리 벽면에 붙어 수면)",
-                    "temperament": "온순함, 느긋함, 식탐이 많음, 수목성"
-                },
-                "intro": "덤피 나무개구리(Litoria caerulea)는 통통하고 귀여운 몸매와 특유의 웃는 듯한 입 모양으로 '웃는 개구리'라 불리며 전 세계 양서류 집사들에게 최고의 사랑을 받는 대표적인 주행성/야행성 수목성(Arboreal) 개구리입니다. 양서류 중에서는 비교적 온순하고 환경 적응력이 뛰어난 편이지만, 삼투압 반응을 통해 피부로 직접 수분과 산소를 흡수하는 양서류 특유의 생리적 특성을 지니고 있습니다. 따라서 수돗물의 잔류 염소(Chlorine)와 중금속, 맨손의 화학물질(비누, 로션, 염분)에 노출되면 피부 상피세포가 화상을 입거나 독성 중독 증상을 일으킬 수 있습니다. 또한 지나치게 높은 습도가 지속되면 세균성·진균성 피부 질환에 걸리기 쉬우므로 적절한 야간 습도 조절과 청결한 수질 관리가 필수적입니다. 이번 가이드에서는 덤피 나무개구리의 피부 신호와 수질 관리, 안전한 핸들링 및 3단계 케어 루틴을 다룹니다.",
-                "whyTitle": "덤피 나무개구리의 피부 반응과 환경 신호: 체색 변화와 허물 벗기(Molt)",
-                "whyDesc": "덤피 나무개구리는 습도, 온도, 조명 및 스트레스 상태에 따라 초록색에서 갈색, 밝은 연두색으로 체색을 자유롭게 바꿉니다. 또한 피부 건강을 유지하기 위해 주기적으로 허물을 벗어 스스로 삼키는 생리적 행동을 합니다.",
-                "body_signals": [
-                    {
-                        "name": "체색의 어두운 갈색 변화 (Darkening Color)",
-                        "meaning": "사육장 내부 습도가 지나치게 높거나 온도가 낮을 때, 혹은 스트레스나 세균 감염으로 피부 상태가 악화되었음을 뜻합니다.",
-                        "response": "사육장 온도(24~28°C)와 통풍 상태를 점검하고, 바닥재 및 물그릇의 위생 상태를 즉시 청소해 줍니다."
-                    },
-                    {
-                        "name": "몸을 비틀며 입을 벌리는 행동 (Shedding / Molting)",
-                        "meaning": "몸을 쥐어짜듯 움직이며 입을 뻐끔거려 오래된 피부 허물을 입으로 밀어 넣어 먹는 정상적인 피부 재생 행위입니다.",
-                        "response": "자연스러운 생리 현상이므로 억지로 허물을 떼어내지 말고, 탈피 부전이 생기지 않도록 수분을 분무해 줍니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 잔여 염소 제거된 깨끗한 물 교체 및 수조 세척",
-                        "text": "양서류 전용 컨디셔너로 염소와 중금속이 완전히 제거된 물로 물그릇을 매일 새로 교체해 수분 흡수를 돕습니다."
-                    },
-                    {
-                        "name": "낮: 통풍 상태 점검 및 주간 적정 습도(50~60%) 유지",
-                        "text": "낮 동안 공기가 정체되지 않도록 통풍을 유지하며 주간 적정 습도 50~60%와 온도 24~28°C를 점검합니다."
-                    },
-                    {
-                        "name": "저녁: 야간 습도 상승(70~80%) 미스팅 및 안전한 먹이 급여",
-                        "text": "야간 활동에 맞춰 사육장 벽면에 가볍게 분무하여 습도를 70~80%로 올리고, 니트릴 장갑을 착용한 상태로 칼슘제가 첨가된 귀뚜라미를 급여합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "덤피 나무개구리를 맨손으로 만지면 왜 위험한가요?",
-                        "answer": "양서류의 피부는 흡수성이 매우 높아 사람의 손에 남은 화학물질(비누, 로션, 세정제)과 염분, 세균을 피부로 직접 흡수하여 독성 중독을 일으키거나 유해균에 감염될 수 있습니다. 만져야 할 때는 반드시 파우더프리 니트릴 장갑을 착용하고 물로 적신 후 최소한으로 핸들링해야 합니다."
-                    },
-                    {
-                        "question": "수돗물을 그대로 물그릇에 받아주어도 되나요?",
-                        "answer": "절대 안 됩니다. 수돗물 속의 잔류 염소와 클로라민, 중금속은 덤피 나무개구리의 투과성 피부에 심각한 화학적 화상을 입힙니다. 반드시 양서류 전용 물 중화제를 사용하거나 최소 24~48시간 이상 받아두어 염소를 날린 물을 사용해야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "White's Tree Frog Dechlorinated Water Care, Handling Safety, and 3-Step Nighttime Humidity Routine",
-                "description": "Essential care guide for White's Tree Frog (Litoria caerulea). Learn about permeable skin water quality, handling safety with nitrile gloves, and 3-step humidity management.",
-                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) Clinical Guidelines and Amphibian Ark Captive Care Standards",
-                "profile": {
-                    "breed": "White's Tree Frog / Dumpy Tree Frog (Litoria caerulea)",
-                    "lifespan": "15 ~ 20 Years",
-                    "sleep_pattern": "Nocturnal (Rests on Glass or Foliage During Day)",
-                    "temperament": "Docile, Calm, Gluttonous, Arboreal"
-                },
-                "intro": "The White's Tree Frog (Litoria caerulea), also known as the Dumpy Tree Frog, is a popular arboreal amphibian famous for its plump, docile appearance and friendly expression. While hardy compared to other amphibians, they possess highly permeable skin through which they absorb water and oxygen directly via osmosis. Exposure to tap water chlorine, heavy metals, or chemicals from bare hands (soaps, lotions, salts) can cause severe skin burns or toxic absorption. Additionally, perpetually high humidity leads to bacterial and fungal dermatological infections, making proper ventilation, water quality management, and nighttime humidity regulation vital. In this guide, we detail White's Tree Frog skin signals, handling precautions, and a 3-step care routine.",
-                "whyTitle": "White's Tree Frog Skin Reactions: Color Shift and Skin Shedding (Molt)",
-                "whyDesc": "White's Tree Frogs adjust their skin coloration from bright green to dark brown based on humidity, temperature, and stress levels. They also regularly shed and consume their outer skin layer to maintain skin health.",
-                "body_signals": [
-                    {
-                        "name": "Dark Brown Color Shift",
-                        "meaning": "Indicates excessive humidity, low ambient temperatures, or high stress/bacterial skin irritation.",
-                        "response": "Check enclosure temperatures (24–28°C / 75–82°F), improve ventilation, and clean substrate and water dishes."
-                    },
-                    {
-                        "name": "Gaping & Body Yawning (Shedding/Molting)",
-                        "meaning": "A normal physiological process where the frog sloughs off dead skin and eats it to recycle nutrients.",
-                        "response": "Do not pull skin off manually; maintain adequate moisture to ensure a smooth, natural shed."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Dechlorinated Fresh Water Replacement & Dish Cleaning",
-                        "text": "Replace water daily using purified water treated with amphibian conditioner to eliminate chlorine and heavy metals."
-                    },
-                    {
-                        "name": "Afternoon: Ventilation & Daytime Humidity Inspection (50-60%)",
-                        "text": "Ensure adequate airflow to prevent stagnant air, keeping daytime humidity at 50–60% and temperature at 24–28°C."
-                    },
-                    {
-                        "name": "Evening: Nighttime Humidity Elevation (70-80%) & Safe Feeding",
-                        "text": "Lightly mist enclosure walls to raise humidity to 70–80% for nocturnal activity, and feed calcium-dusted crickets wearing nitrile gloves."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why is bare-hand handling dangerous for White's Tree Frogs?",
-                        "answer": "Amphibian skin easily absorbs toxins, soaps, hand creams, natural oils, and salts from human hands. This can poison the frog or cause chemical skin irritation. Always wear powder-free, pre-moistened nitrile gloves when handling is necessary."
-                    },
-                    {
-                        "question": "Can I use untreated tap water for my frog's water bowl?",
-                        "answer": "No. Residual chlorine, chloramines, and heavy metals in tap water cause severe chemical burns across their permeable skin. Always treat water with a reptile/amphibian declorinator or use RO water re-mineralized for amphibians."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "イエアメガエルの塩素除去水質管理とハンドリング注意事項・夜間湿度3ステップケア",
-                "description": "人気両生類イエアメガエル（White's Tree Frog）の飼育ガイド。浸透性の高い皮膚を守る水質管理、素手での接触厳禁、夜間湿度コントロールの3ステップを解説。",
-                "authority": "世界爬虫類・両生類獣医学会（ARAV）両生類臨床ガイドラインおよび Amphibian Ark 飼育基準",
-                "profile": {
-                    "breed": "イエアメガエル (White's Tree Frog / Litoria caerulea)",
-                    "lifespan": "15 〜 20年",
-                    "sleep_pattern": "夜行性 (日中はガラス面や葉に張り付いて睡眠)",
-                    "temperament": "温厚、おっとり、食欲旺盛、樹上性"
-                },
-                "intro": "イエアメガエル（Litoria caerulea）は、ぽっちゃりとした愛らしい体型と笑顔のような口元から世界中で親しまれている代表的な樹上性両生類です。両生類の中では比較的环境変化に強く丈夫ですが、浸透圧によって皮膚から直接水分や酸素を吸収する生理構造を持っています。そのため、水道水に含まれる残留塩素や重金属、素手に残った化学物質（石鹸、ローション、塩分）に触れると皮膚障害や中毒を引き起こす危険があります。また、常に過剰な高湿度が続くと細菌性・真菌性の皮膚炎にかかりやすくなるため、適切な夜間湿度管理と衛生的な水質維持が不可欠です。本記事では、イエアメガエルの皮膚サインと環境構築、安全なハンドリングと3ステップ日常ケアを解説します。",
-                "whyTitle": "イエアメガエルの皮膚反応とサイン：体色変化と脱皮行動",
-                "whyDesc": "イエアメガエルは湿度や温度、ストレス状態に応じて体色を明るい黄緑色から暗い褐色へと変化させます。また、皮膚の健康を保つために定期的に脱皮を行い、脱いだ皮を自分で食べる習性があります。",
-                "body_signals": [
-                    {
-                        "name": "体色が暗い褐色に変化 (Darkening Color)",
-                        "meaning": "ケージ内の湿度が上がりすぎているか温度が低い、あるいはストレスや皮膚感染症を起こしているサインです。",
-                        "response": "ケージ内温度（24〜28℃）と通気状態を確認し、床材や水入れを掃除して清潔を保ちます。"
-                    },
-                    {
-                        "name": "体をひねり口を開ける動作 (Shedding / Molting)",
-                        "meaning": "全身を押し出すように動かして古い皮膚を口へ押し込み食べる正常な脱皮行動です。",
-                        "response": "自然な生理現象ですので無理に皮を引っ張らず、湿度が不足しないよう霧吹きで補助します。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：塩素除去した新鮮な水への交換と水入れ清掃",
-                        "text": "両生類用カルキ抜きで塩素と重金属を完全除去した水を用意し、毎朝新鮮な水に交換します。"
-                    },
-                    {
-                        "name": "昼：通気確認と昼間の適正湿度(50〜60%)維持",
-                        "text": "蒸れを防ぐために通気を確保し、昼間の湿度を50〜60%、温度を24〜28℃に保ちます。"
-                    },
-                    {
-                        "name": "夜：夜間湿度(70〜80%)への昇湿と safe 給餌",
-                        "text": "夜間の活動時間に合わせて壁面に軽く霧吹きして湿度を70〜80%に上げ、ニトリル手袋を着用してカルシウムをまぶしたコオロギを与えます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "イエアメガエルを素手で触ってはいけない理由は何ですか？",
-                        "answer": "両生類の皮膚は吸収性が非常に高く、人の手に付着した化学物質（石鹸、ハンドクリーム）、塩分、細菌を皮膚から直接吸収して中毒を起こすためです。触れる必要がある場合は、必ず粉なしニトリル手袋を着用し、水で濡らしてから最小限にとどめてください。"
-                    },
-                    {
-                        "question": "水道水をそのまま水入れに使っても大丈夫ですか？",
-                        "answer": "絶対にいけません。水道水に含まれる残留塩素やクロラミン、重金属はカエルのデリケートな皮膚に化学やけどを負わせます。必ず両生類用のカルキ抜きを使用するか、1〜2日置き汲みして塩素を飛ばした水を使用してください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "老爷树蛙去氯水质管理、接触注意事项与夜间湿度3阶段日常护理流程",
-                "description": "热门两栖类老爷树蛙（White's Tree Frog）护理指南。了解透过性皮肤的水质要求、严禁徒手抓握的注意事项以及夜间湿度调控3阶段日常护理。",
-                "authority": "世界爬行类与两栖类兽医学会 (ARAV) 临床指南及 Amphibian Ark 两栖类保育标准",
-                "profile": {
-                    "breed": "老爷树蛙 / 绿雨滨蛙 (White's Tree Frog / Litoria caerulea)",
-                    "lifespan": "15 ~ 20年",
-                    "sleep_pattern": "夜行性 (白天贴在玻璃或树叶上睡觉)",
-                    "temperament": "温和、慵懒、食欲旺盛、树栖性"
-                },
-                "intro": "老爷树蛙（Litoria caerulea）因其圆滚滚的体型和宛如微笑般的嘴型而被称为“微笑树蛙”，是全球最受欢迎的树栖两栖宠物之一。虽然在两栖类中属于体质较为强健的品种，但它们具有通过透气皮肤直接渗透吸收水分和氧气的特殊生理结构。因此，接触自来水中的残留氯（Chlorine）、重金属以及人类手部的化学物质（香皂、护手霜、盐分）会导致其皮肤灼伤或中毒。此外，长期处于过于闷热的高湿环境中极易诱发细菌和真菌性皮肤病，因此合理控制夜间湿度与保持水质洁净至关重要。本指南将为您解析老爷树蛙的皮肤信号、水质管理、安全接触要点及3阶段日常护理流程。",
-                "whyTitle": "老爷树蛙的皮肤反应与环境信号：体色变幻与蜕皮行为 (Molt)",
-                "whyDesc": "老爷树蛙会根据湿度、温度和压力状况将体色从鲜绿色转变为暗褐色。此外，它们会定期蜕皮并将旧皮吞下以维护皮肤健康。",
-                "body_signals": [
-                    {
-                        "name": "体色变为暗褐色 (Darkening Color)",
-                        "meaning": "代表笼舍湿度过高、温度过低，或是处于高压力状态及皮肤受细菌感染的警告信号。",
-                        "response": "检查饲养盒温度（24~28°C）与通风状况，并立即清理垫料与水盆以维持卫生。"
-                    },
-                    {
-                        "name": "扭动身体并张嘴 (Shedding / Molting)",
-                        "meaning": "通过扭动身体将老化脱落的皮肤推入口中吞下，属于正常的皮肤新陈代谢行为。",
-                        "response": "属于自然生理现象，切勿手动撕扯其皮肤，适当喷雾保持湿度即可。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：更换去氯洁净水与水盆清洗",
-                        "text": "每日使用经过两栖类水质稳定剂去除氯和重金属的纯净水更换水盆，保障其安全吸收水分。"
-                    },
-                    {
-                        "name": "中午：通风检查与白天湿度（50~60%）维持",
-                        "text": "保持环境通风良好以防闷热，将白天湿度控制在 50~60%，温度维持在 24~28°C。"
-                    },
-                    {
-                        "name": "晚上：夜间提升湿度（70~80%）与安全喂食",
-                        "text": "配合夜间活动在箱壁轻微喷雾将湿度提升至 70~80%，戴上无粉丁腈手套喂食裹有钙粉的蟋蟀。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "为什么不能徒手触摸老爷树蛙？",
-                        "answer": "两栖类的皮肤具有极高吸收性，人类手上的化学残留（香皂、护肤品）、油脂、盐分和细菌会被其皮肤直接吸收从而导致中毒或感染。若需接触，必须佩戴无粉丁腈手套并用纯净水沾湿后进行短时间接触。"
-                    },
-                    {
-                        "question": "可以直接用自来水给老爷树蛙充当饮用水吗？",
-                        "answer": "绝对不行。自来水中的余氯、氯胺和重金属会对树蛙敏感的透气皮肤造成严重的化学灼伤。必须使用两栖类专用的除氯剂处理，或将自来水静置 24~48 小时以上去氯后方可使用。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Guía de agua desclorada para la rana de Dumpy, manejo seguro y rutina de humedad nocturna de 3 pasos",
-                "description": "Guía de cuidado esencial para la rana de Dumpy (Litoria caerulea). Calidad de agua para piel permeable, manejo seguro con guantes de nitrilo y control de humedad.",
-                "authority": "Pautas Clínicas de la Asociación de Veterinarios de Reptiles y Anfibios (ARAV) y Estándares de Amphibian Ark",
-                "profile": {
-                    "breed": "Rana de Dumpy / Rana de las Palmas (White's Tree Frog / Litoria caerulea)",
-                    "lifespan": "15 ~ 20 años",
-                    "sleep_pattern": "Nocturna (Descansa en el cristal o las hojas durante el día)",
-                    "temperament": "Dócil, tranquila, glotona, arborícola"
-                },
-                "intro": "La rana de Dumpy o rana de White (Litoria caerulea) es uno de los anfibios arborícolas más populares del mundo por su aspecto rechoncho y su expresión dócil. Aunque es una especie resistente, posee una piel altamente permeable a través de la cual absorbe agua y oxígeno directamente. La exposición al cloro del agua del grifo, metales pesados o sustancias químicas de las manos desnudas (jabones, cremas, sal) puede provocar quemaduras químicas graves o intoxicaciones. Además, una humedad excesiva constante causa infecciones fúngicas y bacterianas en la piel, por lo que el manejo del agua y el control de la humedad nocturna son vitales. En esta guía, cubrimos sus señales cutáneas, precauciones de manejo y una rutina de 3 pasos.",
-                "whyTitle": "Reacciones cutáneas de la rana de Dumpy: Cambio de color y muda de piel (Molt)",
-                "whyDesc": "Las ranas de Dumpy ajustan su coloración de verde brillante a marrón oscuro según la humedad, temperatura y estrés. También mudan periódicamente su piel y la ingieren para regenerarse.",
-                "body_signals": [
-                    {
-                        "name": "Cambio a color marrón oscuro",
-                        "meaning": "Indica humedad excesiva, temperatura demasiado baja o irritación cutánea por estrés o bacterias.",
-                        "response": "Verifique que la temperatura esté entre 24 y 28 °C, mejore la ventilación y limpie el agua y el sustrato."
-                    },
-                    {
-                        "name": "Bostezos y movimientos corporales (Muda de piel)",
-                        "meaning": "Proceso fisiológico normal donde la rana desprende su piel vieja y se la traga para reciclar nutrientes.",
-                        "response": "No retire la piel manualmente; mantenga una humedad adecuada para facilitar una muda limpia."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Cambio de agua por agua desclorada y limpieza",
-                        "text": "Rellene el bebedero diariamente con agua tratada con acondicionador para anfibios para eliminar el cloro y metales pesados."
-                    },
-                    {
-                        "name": "Tarde: Ventilación y control de humedad diurna (50-60 %)",
-                        "text": "Asegure un buen flujo de aire para evitar estancamiento y mantenga la humedad entre el 50 y el 60 % a 24-28 °C."
-                    },
-                    {
-                        "name": "Noche: Aumento de humedad nocturna (70-80 %) y alimentación",
-                        "text": "Pulverice agua para subir la humedad al 70-80 % durante su pico de actividad y ofrezca grillos espolvoreados con calcio usando guantes de nitrilo."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué es peligroso tocar a la rana de Dumpy con las manos desnudas?",
-                        "answer": "La piel de los anfibios absorbe fácilmente toxinas, jabones, cremas y sales presentes en las manos humanas, provocando intoxicaciones o quemaduras. Si es necesario manipularla, use siempre guantes de nitrilo sin polvo humedecidos con agua pura."
-                    },
-                    {
-                        "question": "¿Puedo usar agua del grifo directamente en el bebedero?",
-                        "answer": "No. El cloro, las cloraminas y los metales pesados del agua del grifo producen graves quemaduras en su piel permeable. Utilice siempre un acondicionador desclorador para anfibios o agua reposada durante al menos 24 a 48 horas."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Guide de la grenouille de White : eau déclorée, manipulation sécurisée et routine d'humidité nocturne en 3 étapes",
-                "description": "Guide de soin essentiel pour la grenouille de White (Litoria caerulea). Qualité de l'eau pour peau perméable, gants en nitrile et gestion de l'humidité en 3 étapes.",
-                "authority": "Directives Cliniques de l'Association of Reptilian and Amphibian Veterinarians (ARAV) et Normes de l'Amphibian Ark",
-                "profile": {
-                    "breed": "Grenouille de White (White's Tree Frog / Dumpy Tree Frog / Litoria caerulea)",
-                    "lifespan": "15 ~ 20 ans",
-                    "sleep_pattern": "Nocturne (Dort collée aux vitres ou au feuillage le jour)",
-                    "temperament": "Docile, calme, gloutonne, arboricole"
-                },
-                "intro": "La grenouille de White (Litoria caerulea) est un amphibien arboricole très apprécié pour sa silhouette dodue et son comportement paisible. Bien que robuste pour un amphibien, elle possède une peau extrêmement perméable par laquelle elle absorbe l'eau et l'oxygène. L'exposition au chlore de l'eau du robinet, aux métaux lourds ou aux produits chimiques des mains nues (savon, crèmes, sel) peut causer de graves brûlures cutanées ou des intoxications. De plus, une humidité constante trop élevée favorise les infections bactériennes. Dans ce guide, nous vous présentons ses signaux cutanés, les précautions de manipulation et sa routine d'hygiène.",
-                "whyTitle": "Réactions cutanées de la grenouille de White : Changement de couleur et mue (Molt)",
-                "whyDesc": "La grenouille de White ajuste sa couleur du vert vif au marron foncé selon l'humidité, la température et le stress. Elle mue également régulièrement en avalant sa vieille peau pour maintenir son épiderme en santé.",
-                "body_signals": [
-                    {
-                        "name": "Teinte marron foncé",
-                        "meaning": "Signale une humidité excessive, une température trop basse ou une irritation cutanée due au stress ou à des bactéries.",
-                        "response": "Vérifiez la température du terrarium (24–28 °C), améliorez l'aération et nettoyez l'eau et le substrat."
-                    },
-                    {
-                        "name": "Mouvements de corps et baillements (Mue)",
-                        "meaning": "Processus physiologique normal où la grenouille détache sa peau morte et l'avale pour recycler ses nutriments.",
-                        "response": "Ne tirez pas sur la peau ; vaporisez de l'eau pour maintenir une hygrométrie adaptée à une mue naturelle."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Renouvellement d'eau déclorée et nettoyage du bassin",
-                        "text": "Remplacez l'eau quotidiennement avec de l'eau traitée par un conditionneur pour amphibiens afin d'éliminer le chlore."
-                    },
-                    {
-                        "name": "Après-midi : Aération et humidité diurne contrôlée (50-60 %)",
-                        "text": "Assurez un bon renouvellement d'air et maintenez l'humidité de jour entre 50 et 60 % à une température de 24 à 28 °C."
-                    },
-                    {
-                        "name": "Soir : Augmentation de l'humidité nocturne (70-80 %) et nourrissage",
-                        "text": "Vaporisez le feuillage pour monter l'humidité à 70-80 % pendant la nuit et donnez des grillons saupoudrés de calcium en portant des gants en nitrile."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi est-il dangereux de toucher la grenouille de White à mains nues ?",
-                        "answer": "La peau des amphibiens absorbe rapidement les produits chimiques, savons, sébum et sels présents sur la peau humaine, risquant une intoxication sévère. Utilisez toujours des gants en nitrile sans poudre humidifiés à l'eau pure."
-                    },
-                    {
-                        "question": "Puis-je utiliser l'eau du robinet telle quelle pour son bassin ?",
-                        "answer": "Non. Le chlore, les chloramines et les métaux lourds provoquent de graves brûlures chimiques sur sa peau perméable. Utilisez impérativement un déchlorateur pour amphibiens ou de l'eau reposée pendant au moins 24 à 48 heures."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Korallenfinger-Laubfrosch Entchlortes Wasser, Handling-Sicherheit und 3-Schritte-Nachtfeuchte-Routine",
-                "description": "Leitfaden für den Korallenfinger-Laubfrosch (Litoria caerulea). Wasserqualität für durchlässige Haut, Handhabung mit Nitrilhandschuhen und Feuchtigkeitssteuerung.",
-                "authority": "Klinische Richtlinien der Association of Reptilian and Amphibian Veterinarians (ARAV) und Amphibian Ark Standards",
-                "profile": {
-                    "breed": "Korallenfinger-Laubfrosch (White's Tree Frog / Litoria caerulea)",
-                    "lifespan": "15 ~ 20 Jahre",
-                    "sleep_pattern": "Nachtaktiv (Schläft tagsüber an Scheiben oder Blättern)",
-                    "temperament": "Friedlich, ruhig, gefräßig, baumbewohnend"
-                },
-                "intro": "Der Korallenfinger-Laubfrosch (Litoria caerulea) ist aufgrund seines gemütlichen Aussehens und seines ruhigen Wesens einer der beliebtesten Terrarien-Amphibien weltweit. Obwohl er vergleichsweise robust ist, besitzt er eine extrem durchlässige Haut, über die er Wasser und Sauerstoff direkt aufnimmt. Leitungswasser mit Chlor, Schwermetalle oder Seifen- und Cremereste von ungeschützten Händen können schwere chemische Verbrennungen verursachen. Zudem führt dauerhaft zu hohe Feuchtigkeit zu Hautinfektionen. Heute erklärt  die Hautsignale des Frosches, sicheres Handling und die 3-Schritte-Pflege.",
-                "whyTitle": "Hautreaktionen des Korallenfinger-Laubfrosches: Farbwechsel und Häutung (Molt)",
-                "whyDesc": "Korallenfinger-Laubfrösche passen ihre Hautfarbe je nach Luftfeuchtigkeit, Temperatur und Stress von Hellgrün bis Dunkelbraun an. Zur Hautpflege häuten sie sich regelmäßig und fressen die abgestreifte Haut auf.",
-                "body_signals": [
-                    {
-                        "name": "Dunkelbraune Hautfärbung",
-                        "meaning": "Deutet auf zu hohe Feuchtigkeit, zu niedrige Temperaturen oder bakterielle Hautreizungen durch Stress hin.",
-                        "response": "Überprüfen Sie die Temperatur (24–28 °C), verbessern Sie die Belüftung und reinigen Sie die Wasserschale."
-                    },
-                    {
-                        "name": "Mundaufreißen & Körperkrümmen (Häutung)",
-                        "meaning": "Ein normaler Vorgang, bei dem der Frosch alte Haut abstreift und verschluckt, um Nährstoffe zu recyceln.",
-                        "response": "Ziehen Sie die Haut niemals manuell ab; sorgen Sie für ausreichende Feuchtigkeit für eine saubere Häutung."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Wasserwechsel mit entchlortem Wasser & Schalenreinigung",
-                        "text": "Wechseln Sie das Wasser täglich mit durch Wasseraufbereiter behandeltem Wasser, um Chlor und Schwermetalle zu entfernen."
-                    },
-                    {
-                        "name": "Nachmittag: Belüftung & Tagesfeuchtigkeit (50-60 %) kontrollieren",
-                        "text": "Achten Sie auf ausreichende Luftzirkulation und halten Sie die Luftfeuchtigkeit tagsüber bei 50–60 % und 24–28 °C."
-                    },
-                    {
-                        "name": "Abend: Anhebung der Nachtfeuchtigkeit (70-80 %) & Fütterung",
-                        "text": "Sprühen Sie abends Wasser zur Erhöhung der Feuchtigkeit auf 70–80 % und füttern Sie Heimchen mit Nitrilhandschuhen."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum ist das Anfassen mit bloßen Händen für Korallenfinger-Laubfrösche gefährlich?",
-                        "answer": "Die Haut von Amphibien absorbiert Salze, Seifen, Cremes und Bakterien von menschlichen Händen direkt, was zu Vergiftungen führen kann. Tragen Sie beim Handling stets puderfreie, mit Wasser befeuchtete Nitrilhandschuhe."
-                    },
-                    {
-                        "question": "Kann ich unbehandeltes Leitungswasser verwenden?",
-                        "answer": "Nein. Chlor und Schwermetalle im Leitungswasser verursachen schwere chemische Verbrennungen auf der durchlässigen Haut. Nutzen Sie stets Wasseraufbereiter für Amphibien oder mindestens 24–48 Stunden abgestandenes Wasser."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Guia de água desclorificada para rã-arborícola-de-white, manuseio seguro e rotina de umidade de 3 passos",
-                "description": "Guia essencial para a rã-arborícola-de-white (Litoria caerulea). Qualidade da água para pele permeável, manuseio com luvas de nitrilo e controle de umidade.",
-                "authority": "Diretrizes Clínicas da Associação de Veterinários de Répteis e Anfíbios (ARAV) e Padrões da Amphibian Ark",
-                "profile": {
-                    "breed": "Rã-arborícola-de-white (White's Tree Frog / Dumpy Tree Frog / Litoria caerulea)",
-                    "lifespan": "15 ~ 20 anos",
-                    "sleep_pattern": "Noturna (Descansa em vidros ou folhas durante o dia)",
-                    "temperament": "Dócil, calma, gulosa, arborícola"
-                },
-                "intro": "A rã-arborícola-de-white (Litoria caerulea) é um dos anfíbios mais populares do mundo devido ao seu corpo gordinho e temperamento dócil. Embora seja resistente, possui uma pele altamente permeável através da qual absorve água e oxigênio. A exposição ao cloro da água da torneira, metais pesados ou substâncias químicas das mãos (sabões, cremes, sal) pode causar queimaduras químicas graves. Além disso, a umidade excessiva constante favorece infecções bacterianas na pele. Neste guia, apresentamos mos os seus sinais cutâneos, cuidados de manuseio e rotina diária.",
-                "whyTitle": "Reações cutâneas da rã-arborícola-de-white: Mudança de cor e muda de pele (Molt)",
-                "whyDesc": "A rã-arborícola-de-white altera a sua cor do verde brilhante ao castanho escuro com base na umidade, temperatura e estresse. Ela também muda de pele periodicamente e ingere a pele antiga para manter a saúde cutânea.",
-                "body_signals": [
-                    {
-                        "name": "Mudança para castanho escuro",
-                        "meaning": "Indica umidade excessiva, temperatura muito baixa ou irritação na pele por estresse ou bactérias.",
-                        "response": "Verifique a temperatura do terrário (24–28 °C), melhore a ventilação e limpe a água e o substrato."
-                    },
-                    {
-                        "name": "Movimentos corporais e bocejos (Muda de pele)",
-                        "meaning": "Processo fisiológico normal no qual a rã solta a pele antiga e a engole para reciclar nutrientes.",
-                        "response": "Não puxe a pele manualmente; borrifa água para manter a umidade adequada para uma muda natural."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Troca de água por água desclorificada e limpeza do recipiente",
-                        "text": "Substitua a água diariamente utilizando água tratada com condicionador para anfíbios para eliminar o cloro."
-                    },
-                    {
-                        "name": "Tarde: Ventilação e controle de umidade diurna (50-60%)",
-                        "text": "Garante uma boa circulação de ar e mantém a umidade durante o dia entre 50 e 60% com temperatura de 24–28 °C."
-                    },
-                    {
-                        "name": "Noite: Aumento da umidade noturna (70-80%) e alimentação",
-                        "text": "Borrife água para subir a umidade para 70-80% durante a noite e ofereça grilos com cálcio usando luvas de nitrilo."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Por que é perigoso tocar na rã-arborícola-de-white com as mãos desprotegidas?",
-                        "answer": "A pele dos anfíbios absorve facilmente produtos químicos, sabões, cremes e sais presentes nas mãos humanas, o que pode causar intoxicação grave. Use sempre luvas de nitrilo sem pó umedecidas com água limpa."
-                    },
-                    {
-                        "question": "Posso usar água da torneira diretamente no recipiente de água?",
-                        "answer": "Não. O cloro, cloraminas e metais pesados causam queimaduras químicas graves na sua pele permeável. Use sempre um desclorificante para anfíbios ou água descansada por pelo menos 24 a 48 horas."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Panduan Air Bebas Klorin Katak Pohon Dumpy, Keamanan Penanganan, dan Rutin Kelembapan Malam 3 Langkah",
-                "description": "Panduan perawatan esensial katak pohon Dumpy (Litoria caerulea). Kualitas air untuk kulit permeabel, penanganan aman dengan sarung tangan nitril, dan kontrol kelembapan.",
-                "authority": "Pedoman Klinis Association of Reptilian and Amphibian Veterinarians (ARAV) dan Standar Pemeliharaan Amphibian Ark",
-                "profile": {
-                    "breed": "Katak Pohon Dumpy / Katak Pohon White (White's Tree Frog / Litoria caerulea)",
-                    "lifespan": "15 ~ 20 Tahun",
-                    "sleep_pattern": "Nokturnal (Tidur Menempel di Kaca atau Daun Saat Siang)",
-                    "temperament": "Penurut, Tenang, Rakus, Arborial"
-                },
-                "intro": "Katak pohon Dumpy (Litoria caerulea) adalah salah satu amfibi arborial paling populer di dunia karena tubuhnya yang gemuk dan ekspresinya yang tenang. Meskipun tergolong tangguh di antara amfibi lainnya, mereka memiliki kulit yang sangat permeabel untuk menyerap air dan oksigen secara langsung. Paparan klorin air keran, logam berat, atau zat kimia dari tangan telanjang (sabun, krim, garam) dapat menyebabkan luka bakar kimiawi parah. Selain itu, kelembapan tinggi yang terus-menerus dapat memicu infeksi bakteri kulit. Dalam panduan ini, kami membagikan panduan sinyal kulit, penanganan aman, dan rutin harian katak pohon Dumpy.",
-                "whyTitle": "Reaksi Kulit Katak Pohon Dumpy: Perubahan Warna dan Pergantian Kulit (Molt)",
-                "whyDesc": "Katak pohon Dumpy menyesuaikan warna kulitnya dari hijau cerah menjadi cokelat tua berdasarkan kelembapan, suhu, dan tingkat stres. Mereka juga berganti kulit secara berkala dan memakannya untuk menjaga kesehatan kulit.",
-                "body_signals": [
-                    {
-                        "name": "Perubahan Warna Menjadi Cokelat Tua",
-                        "meaning": "Menandakan kelembapan terlalu tinggi, suhu terlalu dingin, atau adanya iritasi kulit akibat stres maupun bakteri.",
-                        "response": "Periksa suhu kandang (24–28 °C), tingkatkan ventilasi udara, dan bersihkan wadah air serta alas kandang."
-                    },
-                    {
-                        "name": "Menggerakkan Tubuh dan Menguap (Ganti Kulit)",
-                        "meaning": "Proses fisiologis normal di mana katak melepaskan kulit lama dan menelannya untuk mendaur ulang nutrisi.",
-                        "response": "Jangan menarik kulit secara manual; semprotkan air untuk menjaga kelembapan agar proses ganti kulit lancar."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Penggantian Air Bebas Klorin & Pembersihan Wadah",
-                        "text": "Ganti air setiap hari menggunakan air yang diolah dengan kondisioner amfibi untuk menghilangkan klorin dan logam berat."
-                    },
-                    {
-                        "name": "Siang: Pemeriksaan Ventilasi & Kelembapan Siang Hari (50-60%)",
-                        "text": "Pastikan sirkulasi udara lancar dan jaga kelembapan siang hari pada kisaran 50–60% dengan suhu 24–28 °C."
-                    },
-                    {
-                        "name": "Malam: Peningkatan Kelembapan Malam (70-80%) & Pemberian Pakan",
-                        "text": "Semprotkan air untuk menaikkan kelembapan menjadi 70–80% pada malam hari, lalu berikan jangkrik bertabur kalsium dengan sarung tangan nitril."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa berbahaya memegang katak pohon Dumpy dengan tangan telanjang?",
-                        "answer": "Kulit amfibi sangat mudah menyerap zat kimia, sabun, lotion, dan garam dari tangan manusia yang dapat menyebabkan keracunan. Selalu gunakan sarung tangan nitril bebas bedak yang dibasahi air bersih saat harus memegang katak."
-                    },
-                    {
-                        "question": "Bolehkah saya menggunakan air keran langsung untuk wadah minumnya?",
-                        "answer": "Tidak boleh. Sisa klorin, kloramina, dan logam berat pada air keran menyebabkan luka bakar kimiawi pada kulit permeabelnya. Selalu gunakan pengondisi air khusus amfibi atau air yang telah diendapkan minimal 24–48 jam."
-                    }
-                ]
-            }
+  "dumpy-tree-frog-care": {
+    "pubDate": "2026-02-24",
+    "updatedDate": "2026-02-24",
+    "locales": {
+      "ko": {
+        "title": "덤피 나무개구리 염소 제거 수질 관리와 핸들링 주의사항 및 야간 습도 3단계 케어 루틴",
+        "description": "전 세계 인기 양서류 덤피 나무개구리(White's Tree Frog) 케어 가이드. 투과성 피부를 위한 수질 관리, 맨손 핸들링 금지, 야간 습도 조절 3단계 루틴을 알아봅니다.",
+        "authority": "세계파충류·양서류수의학회(ARAV: Association of Reptilian and Amphibian Veterinarians) 임상 가이드라인 및 Amphibian Ark 양서류 보존·사육 표준",
+        "profile": {
+          "breed": "덤피 나무개구리 (White's Tree Frog / Litoria caerulea)",
+          "lifespan": "15 ~ 20년",
+          "sleep_pattern": "야행성 (낮에는 나뭇잎이나 유리 벽면에 붙어 수면)",
+          "temperament": "온순함, 느긋함, 식탐이 많음, 수목성"
         },
-        "heroImage": "/images/blog/dumpy_tree_frog_care.webp"
-    }
+        "intro": "덤피 나무개구리(Litoria caerulea)는 통통하고 귀여운 몸매와 특유의 웃는 듯한 입 모양으로 '웃는 개구리'라 불리며 전 세계 양서류 집사들에게 최고의 사랑을 받는 대표적인 주행성/야행성 수목성(Arboreal) 개구리입니다. 양서류 중에서는 비교적 온순하고 환경 적응력이 뛰어난 편이지만, 삼투압 반응을 통해 피부로 직접 수분과 산소를 흡수하는 양서류 특유의 생리적 특성을 지니고 있습니다. 따라서 수돗물의 잔류 염소(Chlorine)와 중금속, 맨손의 화학물질(비누, 로션, 염분)에 노출되면 피부 상피세포가 화상을 입거나 독성 중독 증상을 일으킬 수 있습니다. 또한 지나치게 높은 습도가 지속되면 세균성·진균성 피부 질환에 걸리기 쉬우므로 적절한 야간 습도 조절과 청결한 수질 관리가 필수적입니다. 이번 가이드에서는 덤피 나무개구리의 피부 신호와 수질 관리, 안전한 핸들링 및 3단계 케어 루틴을 다룹니다.",
+        "whyTitle": "덤피 나무개구리의 피부 반응과 환경 신호: 체색 변화와 허물 벗기(Molt)",
+        "whyDesc": "덤피 나무개구리는 습도, 온도, 조명 및 스트레스 상태에 따라 초록색에서 갈색, 밝은 연두색으로 체색을 자유롭게 바꿉니다. 또한 피부 건강을 유지하기 위해 주기적으로 허물을 벗어 스스로 삼키는 생리적 행동을 합니다.",
+        "body_signals": [
+          {
+            "name": "체색의 어두운 갈색 변화 (Darkening Color)",
+            "meaning": "사육장 내부 습도가 지나치게 높거나 온도가 낮을 때, 혹은 스트레스나 세균 감염으로 피부 상태가 악화되었음을 뜻합니다.",
+            "response": "사육장 온도(24~28°C)와 통풍 상태를 점검하고, 바닥재 및 물그릇의 위생 상태를 즉시 청소해 줍니다."
+          },
+          {
+            "name": "몸을 비틀며 입을 벌리는 행동 (Shedding / Molting)",
+            "meaning": "몸을 쥐어짜듯 움직이며 입을 뻐끔거려 오래된 피부 허물을 입으로 밀어 넣어 먹는 정상적인 피부 재생 행위입니다.",
+            "response": "자연스러운 생리 현상이므로 억지로 허물을 떼어내지 말고, 탈피 부전이 생기지 않도록 수분을 분무해 줍니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 잔여 염소 제거된 깨끗한 물 교체 및 수조 세척",
+            "text": "양서류 전용 컨디셔너로 염소와 중금속이 완전히 제거된 물로 물그릇을 매일 새로 교체해 수분 흡수를 돕습니다."
+          },
+          {
+            "name": "낮: 통풍 상태 점검 및 주간 적정 습도(50~60%) 유지",
+            "text": "낮 동안 공기가 정체되지 않도록 통풍을 유지하며 주간 적정 습도 50~60%와 온도 24~28°C를 점검합니다."
+          },
+          {
+            "name": "저녁: 야간 습도 상승(70~80%) 미스팅 및 안전한 먹이 급여",
+            "text": "야간 활동에 맞춰 사육장 벽면에 가볍게 분무하여 습도를 70~80%로 올리고, 니트릴 장갑을 착용한 상태로 칼슘제가 첨가된 귀뚜라미를 급여합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "덤피 나무개구리를 맨손으로 만지면 왜 위험한가요?",
+            "answer": "양서류의 피부는 흡수성이 매우 높아 사람의 손에 남은 화학물질(비누, 로션, 세정제)과 염분, 세균을 피부로 직접 흡수하여 독성 중독을 일으키거나 유해균에 감염될 수 있습니다. 만져야 할 때는 반드시 파우더프리 니트릴 장갑을 착용하고 물로 적신 후 최소한으로 핸들링해야 합니다."
+          },
+          {
+            "question": "수돗물을 그대로 물그릇에 받아주어도 되나요?",
+            "answer": "절대 안 됩니다. 수돗물 속의 잔류 염소와 클로라민, 중금속은 덤피 나무개구리의 투과성 피부에 심각한 화학적 화상을 입힙니다. 반드시 양서류 전용 물 중화제를 사용하거나 최소 24~48시간 이상 받아두어 염소를 날린 물을 사용해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "White's Tree Frog Dechlorinated Water Care, Handling Safety, and 3-Step Nighttime Humidity Routine",
+        "description": "Essential care guide for White's Tree Frog (Litoria caerulea). Learn about permeable skin water quality, handling safety with nitrile gloves, and 3-step humidity management.",
+        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) Clinical Guidelines and Amphibian Ark Captive Care Standards",
+        "profile": {
+          "breed": "White's Tree Frog / Dumpy Tree Frog (Litoria caerulea)",
+          "lifespan": "15 ~ 20 Years",
+          "sleep_pattern": "Nocturnal (Rests on Glass or Foliage During Day)",
+          "temperament": "Docile, Calm, Gluttonous, Arboreal"
+        },
+        "intro": "The White's Tree Frog (Litoria caerulea), also known as the Dumpy Tree Frog, is a popular arboreal amphibian famous for its plump, docile appearance and friendly expression. While hardy compared to other amphibians, they possess highly permeable skin through which they absorb water and oxygen directly via osmosis. Exposure to tap water chlorine, heavy metals, or chemicals from bare hands (soaps, lotions, salts) can cause severe skin burns or toxic absorption. Additionally, perpetually high humidity leads to bacterial and fungal dermatological infections, making proper ventilation, water quality management, and nighttime humidity regulation vital. In this guide, we detail White's Tree Frog skin signals, handling precautions, and a 3-step care routine.",
+        "whyTitle": "White's Tree Frog Skin Reactions: Color Shift and Skin Shedding (Molt)",
+        "whyDesc": "White's Tree Frogs adjust their skin coloration from bright green to dark brown based on humidity, temperature, and stress levels. They also regularly shed and consume their outer skin layer to maintain skin health.",
+        "body_signals": [
+          {
+            "name": "Dark Brown Color Shift",
+            "meaning": "Indicates excessive humidity, low ambient temperatures, or high stress/bacterial skin irritation.",
+            "response": "Check enclosure temperatures (24–28°C / 75–82°F), improve ventilation, and clean substrate and water dishes."
+          },
+          {
+            "name": "Gaping & Body Yawning (Shedding/Molting)",
+            "meaning": "A normal physiological process where the frog sloughs off dead skin and eats it to recycle nutrients.",
+            "response": "Do not pull skin off manually; maintain adequate moisture to ensure a smooth, natural shed."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Dechlorinated Fresh Water Replacement & Dish Cleaning",
+            "text": "Replace water daily using purified water treated with amphibian conditioner to eliminate chlorine and heavy metals."
+          },
+          {
+            "name": "Afternoon: Ventilation & Daytime Humidity Inspection (50-60%)",
+            "text": "Ensure adequate airflow to prevent stagnant air, keeping daytime humidity at 50–60% and temperature at 24–28°C."
+          },
+          {
+            "name": "Evening: Nighttime Humidity Elevation (70-80%) & Safe Feeding",
+            "text": "Lightly mist enclosure walls to raise humidity to 70–80% for nocturnal activity, and feed calcium-dusted crickets wearing nitrile gloves."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why is bare-hand handling dangerous for White's Tree Frogs?",
+            "answer": "Amphibian skin easily absorbs toxins, soaps, hand creams, natural oils, and salts from human hands. This can poison the frog or cause chemical skin irritation. Always wear powder-free, pre-moistened nitrile gloves when handling is necessary."
+          },
+          {
+            "question": "Can I use untreated tap water for my frog's water bowl?",
+            "answer": "No. Residual chlorine, chloramines, and heavy metals in tap water cause severe chemical burns across their permeable skin. Always treat water with a reptile/amphibian declorinator or use RO water re-mineralized for amphibians."
+          }
+        ]
+      },
+      "ja": {
+        "title": "イエアメガエルの塩素除去水質管理とハンドリング注意事項・夜間湿度3ステップケア",
+        "description": "人気両生類イエアメガエル（White's Tree Frog）の飼育ガイド。浸透性の高い皮膚を守る水質管理、素手での接触厳禁、夜間湿度コントロールの3ステップを解説。",
+        "authority": "世界爬虫類・両生類獣医学会（ARAV）両生類臨床ガイドラインおよび Amphibian Ark 飼育基準",
+        "profile": {
+          "breed": "イエアメガエル (White's Tree Frog / Litoria caerulea)",
+          "lifespan": "15 〜 20年",
+          "sleep_pattern": "夜行性 (日中はガラス面や葉に張り付いて睡眠)",
+          "temperament": "温厚、おっとり、食欲旺盛、樹上性"
+        },
+        "intro": "イエアメガエル（Litoria caerulea）は、ぽっちゃりとした愛らしい体型と笑顔のような口元から世界中で親しまれている代表的な樹上性両生類です。両生類の中では比較的环境変化に強く丈夫ですが、浸透圧によって皮膚から直接水分や酸素を吸収する生理構造を持っています。そのため、水道水に含まれる残留塩素や重金属、素手に残った化学物質（石鹸、ローション、塩分）に触れると皮膚障害や中毒を引き起こす危険があります。また、常に過剰な高湿度が続くと細菌性・真菌性の皮膚炎にかかりやすくなるため、適切な夜間湿度管理と衛生的な水質維持が不可欠です。本記事では、イエアメガエルの皮膚サインと環境構築、安全なハンドリングと3ステップ日常ケアを解説します。",
+        "whyTitle": "イエアメガエルの皮膚反応とサイン：体色変化と脱皮行動",
+        "whyDesc": "イエアメガエルは湿度や温度、ストレス状態に応じて体色を明るい黄緑色から暗い褐色へと変化させます。また、皮膚の健康を保つために定期的に脱皮を行い、脱いだ皮を自分で食べる習性があります。",
+        "body_signals": [
+          {
+            "name": "体色が暗い褐色に変化 (Darkening Color)",
+            "meaning": "ケージ内の湿度が上がりすぎているか温度が低い、あるいはストレスや皮膚感染症を起こしているサインです。",
+            "response": "ケージ内温度（24〜28℃）と通気状態を確認し、床材や水入れを掃除して清潔を保ちます。"
+          },
+          {
+            "name": "体をひねり口を開ける動作 (Shedding / Molting)",
+            "meaning": "全身を押し出すように動かして古い皮膚を口へ押し込み食べる正常な脱皮行動です。",
+            "response": "自然な生理現象ですので無理に皮を引っ張らず、湿度が不足しないよう霧吹きで補助します。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：塩素除去した新鮮な水への交換と水入れ清掃",
+            "text": "両生類用カルキ抜きで塩素と重金属を完全除去した水を用意し、毎朝新鮮な水に交換します。"
+          },
+          {
+            "name": "昼：通気確認と昼間の適正湿度(50〜60%)維持",
+            "text": "蒸れを防ぐために通気を確保し、昼間の湿度を50〜60%、温度を24〜28℃に保ちます。"
+          },
+          {
+            "name": "夜：夜間湿度(70〜80%)への昇湿と safe 給餌",
+            "text": "夜間の活動時間に合わせて壁面に軽く霧吹きして湿度を70〜80%に上げ、ニトリル手袋を着用してカルシウムをまぶしたコオロギを与えます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "イエアメガエルを素手で触ってはいけない理由は何ですか？",
+            "answer": "両生類の皮膚は吸収性が非常に高く、人の手に付着した化学物質（石鹸、ハンドクリーム）、塩分、細菌を皮膚から直接吸収して中毒を起こすためです。触れる必要がある場合は、必ず粉なしニトリル手袋を着用し、水で濡らしてから最小限にとどめてください。"
+          },
+          {
+            "question": "水道水をそのまま水入れに使っても大丈夫ですか？",
+            "answer": "絶対にいけません。水道水に含まれる残留塩素やクロラミン、重金属はカエルのデリケートな皮膚に化学やけどを負わせます。必ず両生類用のカルキ抜きを使用するか、1〜2日置き汲みして塩素を飛ばした水を使用してください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "老爷树蛙去氯水质管理、接触注意事项与夜间湿度3阶段日常护理流程",
+        "description": "热门两栖类老爷树蛙（White's Tree Frog）护理指南。了解透过性皮肤的水质要求、严禁徒手抓握的注意事项以及夜间湿度调控3阶段日常护理。",
+        "authority": "世界爬行类与两栖类兽医学会 (ARAV) 临床指南及 Amphibian Ark 两栖类保育标准",
+        "profile": {
+          "breed": "老爷树蛙 / 绿雨滨蛙 (White's Tree Frog / Litoria caerulea)",
+          "lifespan": "15 ~ 20年",
+          "sleep_pattern": "夜行性 (白天贴在玻璃或树叶上睡觉)",
+          "temperament": "温和、慵懒、食欲旺盛、树栖性"
+        },
+        "intro": "老爷树蛙（Litoria caerulea）因其圆滚滚的体型和宛如微笑般的嘴型而被称为“微笑树蛙”，是全球最受欢迎的树栖两栖宠物之一。虽然在两栖类中属于体质较为强健的品种，但它们具有通过透气皮肤直接渗透吸收水分和氧气的特殊生理结构。因此，接触自来水中的残留氯（Chlorine）、重金属以及人类手部的化学物质（香皂、护手霜、盐分）会导致其皮肤灼伤或中毒。此外，长期处于过于闷热的高湿环境中极易诱发细菌和真菌性皮肤病，因此合理控制夜间湿度与保持水质洁净至关重要。本指南将为您解析老爷树蛙的皮肤信号、水质管理、安全接触要点及3阶段日常护理流程。",
+        "whyTitle": "老爷树蛙的皮肤反应与环境信号：体色变幻与蜕皮行为 (Molt)",
+        "whyDesc": "老爷树蛙会根据湿度、温度和压力状况将体色从鲜绿色转变为暗褐色。此外，它们会定期蜕皮并将旧皮吞下以维护皮肤健康。",
+        "body_signals": [
+          {
+            "name": "体色变为暗褐色 (Darkening Color)",
+            "meaning": "代表笼舍湿度过高、温度过低，或是处于高压力状态及皮肤受细菌感染的警告信号。",
+            "response": "检查饲养盒温度（24~28°C）与通风状况，并立即清理垫料与水盆以维持卫生。"
+          },
+          {
+            "name": "扭动身体并张嘴 (Shedding / Molting)",
+            "meaning": "通过扭动身体将老化脱落的皮肤推入口中吞下，属于正常的皮肤新陈代谢行为。",
+            "response": "属于自然生理现象，切勿手动撕扯其皮肤，适当喷雾保持湿度即可。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：更换去氯洁净水与水盆清洗",
+            "text": "每日使用经过两栖类水质稳定剂去除氯和重金属的纯净水更换水盆，保障其安全吸收水分。"
+          },
+          {
+            "name": "中午：通风检查与白天湿度（50~60%）维持",
+            "text": "保持环境通风良好以防闷热，将白天湿度控制在 50~60%，温度维持在 24~28°C。"
+          },
+          {
+            "name": "晚上：夜间提升湿度（70~80%）与安全喂食",
+            "text": "配合夜间活动在箱壁轻微喷雾将湿度提升至 70~80%，戴上无粉丁腈手套喂食裹有钙粉的蟋蟀。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "为什么不能徒手触摸老爷树蛙？",
+            "answer": "两栖类的皮肤具有极高吸收性，人类手上的化学残留（香皂、护肤品）、油脂、盐分和细菌会被其皮肤直接吸收从而导致中毒或感染。若需接触，必须佩戴无粉丁腈手套并用纯净水沾湿后进行短时间接触。"
+          },
+          {
+            "question": "可以直接用自来水给老爷树蛙充当饮用水吗？",
+            "answer": "绝对不行。自来水中的余氯、氯胺和重金属会对树蛙敏感的透气皮肤造成严重的化学灼伤。必须使用两栖类专用的除氯剂处理，或将自来水静置 24~48 小时以上去氯后方可使用。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Guía de agua desclorada para la rana de Dumpy, manejo seguro y rutina de humedad nocturna de 3 pasos",
+        "description": "Guía de cuidado esencial para la rana de Dumpy (Litoria caerulea). Calidad de agua para piel permeable, manejo seguro con guantes de nitrilo y control de humedad.",
+        "authority": "Pautas Clínicas de la Asociación de Veterinarios de Reptiles y Anfibios (ARAV) y Estándares de Amphibian Ark",
+        "profile": {
+          "breed": "Rana de Dumpy / Rana de las Palmas (White's Tree Frog / Litoria caerulea)",
+          "lifespan": "15 ~ 20 años",
+          "sleep_pattern": "Nocturna (Descansa en el cristal o las hojas durante el día)",
+          "temperament": "Dócil, tranquila, glotona, arborícola"
+        },
+        "intro": "La rana de Dumpy o rana de White (Litoria caerulea) es uno de los anfibios arborícolas más populares del mundo por su aspecto rechoncho y su expresión dócil. Aunque es una especie resistente, posee una piel altamente permeable a través de la cual absorbe agua y oxígeno directamente. La exposición al cloro del agua del grifo, metales pesados o sustancias químicas de las manos desnudas (jabones, cremas, sal) puede provocar quemaduras químicas graves o intoxicaciones. Además, una humedad excesiva constante causa infecciones fúngicas y bacterianas en la piel, por lo que el manejo del agua y el control de la humedad nocturna son vitales. En esta guía, cubrimos sus señales cutáneas, precauciones de manejo y una rutina de 3 pasos.",
+        "whyTitle": "Reacciones cutáneas de la rana de Dumpy: Cambio de color y muda de piel (Molt)",
+        "whyDesc": "Las ranas de Dumpy ajustan su coloración de verde brillante a marrón oscuro según la humedad, temperatura y estrés. También mudan periódicamente su piel y la ingieren para regenerarse.",
+        "body_signals": [
+          {
+            "name": "Cambio a color marrón oscuro",
+            "meaning": "Indica humedad excesiva, temperatura demasiado baja o irritación cutánea por estrés o bacterias.",
+            "response": "Verifique que la temperatura esté entre 24 y 28 °C, mejore la ventilación y limpie el agua y el sustrato."
+          },
+          {
+            "name": "Bostezos y movimientos corporales (Muda de piel)",
+            "meaning": "Proceso fisiológico normal donde la rana desprende su piel vieja y se la traga para reciclar nutrientes.",
+            "response": "No retire la piel manualmente; mantenga una humedad adecuada para facilitar una muda limpia."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Cambio de agua por agua desclorada y limpieza",
+            "text": "Rellene el bebedero diariamente con agua tratada con acondicionador para anfibios para eliminar el cloro y metales pesados."
+          },
+          {
+            "name": "Tarde: Ventilación y control de humedad diurna (50-60 %)",
+            "text": "Asegure un buen flujo de aire para evitar estancamiento y mantenga la humedad entre el 50 y el 60 % a 24-28 °C."
+          },
+          {
+            "name": "Noche: Aumento de humedad nocturna (70-80 %) y alimentación",
+            "text": "Pulverice agua para subir la humedad al 70-80 % durante su pico de actividad y ofrezca grillos espolvoreados con calcio usando guantes de nitrilo."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué es peligroso tocar a la rana de Dumpy con las manos desnudas?",
+            "answer": "La piel de los anfibios absorbe fácilmente toxinas, jabones, cremas y sales presentes en las manos humanas, provocando intoxicaciones o quemaduras. Si es necesario manipularla, use siempre guantes de nitrilo sin polvo humedecidos con agua pura."
+          },
+          {
+            "question": "¿Puedo usar agua del grifo directamente en el bebedero?",
+            "answer": "No. El cloro, las cloraminas y los metales pesados del agua del grifo producen graves quemaduras en su piel permeable. Utilice siempre un acondicionador desclorador para anfibios o agua reposada durante al menos 24 a 48 horas."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Guide de la grenouille de White : eau déclorée, manipulation sécurisée et routine d'humidité nocturne en 3 étapes",
+        "description": "Guide de soin essentiel pour la grenouille de White (Litoria caerulea). Qualité de l'eau pour peau perméable, gants en nitrile et gestion de l'humidité en 3 étapes.",
+        "authority": "Directives Cliniques de l'Association of Reptilian and Amphibian Veterinarians (ARAV) et Normes de l'Amphibian Ark",
+        "profile": {
+          "breed": "Grenouille de White (White's Tree Frog / Dumpy Tree Frog / Litoria caerulea)",
+          "lifespan": "15 ~ 20 ans",
+          "sleep_pattern": "Nocturne (Dort collée aux vitres ou au feuillage le jour)",
+          "temperament": "Docile, calme, gloutonne, arboricole"
+        },
+        "intro": "La grenouille de White (Litoria caerulea) est un amphibien arboricole très apprécié pour sa silhouette dodue et son comportement paisible. Bien que robuste pour un amphibien, elle possède une peau extrêmement perméable par laquelle elle absorbe l'eau et l'oxygène. L'exposition au chlore de l'eau du robinet, aux métaux lourds ou aux produits chimiques des mains nues (savon, crèmes, sel) peut causer de graves brûlures cutanées ou des intoxications. De plus, une humidité constante trop élevée favorise les infections bactériennes. Dans ce guide, nous vous présentons ses signaux cutanés, les précautions de manipulation et sa routine d'hygiène.",
+        "whyTitle": "Réactions cutanées de la grenouille de White : Changement de couleur et mue (Molt)",
+        "whyDesc": "La grenouille de White ajuste sa couleur du vert vif au marron foncé selon l'humidité, la température et le stress. Elle mue également régulièrement en avalant sa vieille peau pour maintenir son épiderme en santé.",
+        "body_signals": [
+          {
+            "name": "Teinte marron foncé",
+            "meaning": "Signale une humidité excessive, une température trop basse ou une irritation cutanée due au stress ou à des bactéries.",
+            "response": "Vérifiez la température du terrarium (24–28 °C), améliorez l'aération et nettoyez l'eau et le substrat."
+          },
+          {
+            "name": "Mouvements de corps et baillements (Mue)",
+            "meaning": "Processus physiologique normal où la grenouille détache sa peau morte et l'avale pour recycler ses nutriments.",
+            "response": "Ne tirez pas sur la peau ; vaporisez de l'eau pour maintenir une hygrométrie adaptée à une mue naturelle."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Renouvellement d'eau déclorée et nettoyage du bassin",
+            "text": "Remplacez l'eau quotidiennement avec de l'eau traitée par un conditionneur pour amphibiens afin d'éliminer le chlore."
+          },
+          {
+            "name": "Après-midi : Aération et humidité diurne contrôlée (50-60 %)",
+            "text": "Assurez un bon renouvellement d'air et maintenez l'humidité de jour entre 50 et 60 % à une température de 24 à 28 °C."
+          },
+          {
+            "name": "Soir : Augmentation de l'humidité nocturne (70-80 %) et nourrissage",
+            "text": "Vaporisez le feuillage pour monter l'humidité à 70-80 % pendant la nuit et donnez des grillons saupoudrés de calcium en portant des gants en nitrile."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi est-il dangereux de toucher la grenouille de White à mains nues ?",
+            "answer": "La peau des amphibiens absorbe rapidement les produits chimiques, savons, sébum et sels présents sur la peau humaine, risquant une intoxication sévère. Utilisez toujours des gants en nitrile sans poudre humidifiés à l'eau pure."
+          },
+          {
+            "question": "Puis-je utiliser l'eau du robinet telle quelle pour son bassin ?",
+            "answer": "Non. Le chlore, les chloramines et les métaux lourds provoquent de graves brûlures chimiques sur sa peau perméable. Utilisez impérativement un déchlorateur pour amphibiens ou de l'eau reposée pendant au moins 24 à 48 heures."
+          }
+        ]
+      },
+      "de": {
+        "title": "Korallenfinger-Laubfrosch Entchlortes Wasser, Handling-Sicherheit und 3-Schritte-Nachtfeuchte-Routine",
+        "description": "Leitfaden für den Korallenfinger-Laubfrosch (Litoria caerulea). Wasserqualität für durchlässige Haut, Handhabung mit Nitrilhandschuhen und Feuchtigkeitssteuerung.",
+        "authority": "Klinische Richtlinien der Association of Reptilian and Amphibian Veterinarians (ARAV) und Amphibian Ark Standards",
+        "profile": {
+          "breed": "Korallenfinger-Laubfrosch (White's Tree Frog / Litoria caerulea)",
+          "lifespan": "15 ~ 20 Jahre",
+          "sleep_pattern": "Nachtaktiv (Schläft tagsüber an Scheiben oder Blättern)",
+          "temperament": "Friedlich, ruhig, gefräßig, baumbewohnend"
+        },
+        "intro": "Der Korallenfinger-Laubfrosch (Litoria caerulea) ist aufgrund seines gemütlichen Aussehens und seines ruhigen Wesens einer der beliebtesten Terrarien-Amphibien weltweit. Obwohl er vergleichsweise robust ist, besitzt er eine extrem durchlässige Haut, über die er Wasser und Sauerstoff direkt aufnimmt. Leitungswasser mit Chlor, Schwermetalle oder Seifen- und Cremereste von ungeschützten Händen können schwere chemische Verbrennungen verursachen. Zudem führt dauerhaft zu hohe Feuchtigkeit zu Hautinfektionen. Heute erklärt  die Hautsignale des Frosches, sicheres Handling und die 3-Schritte-Pflege.",
+        "whyTitle": "Hautreaktionen des Korallenfinger-Laubfrosches: Farbwechsel und Häutung (Molt)",
+        "whyDesc": "Korallenfinger-Laubfrösche passen ihre Hautfarbe je nach Luftfeuchtigkeit, Temperatur und Stress von Hellgrün bis Dunkelbraun an. Zur Hautpflege häuten sie sich regelmäßig und fressen die abgestreifte Haut auf.",
+        "body_signals": [
+          {
+            "name": "Dunkelbraune Hautfärbung",
+            "meaning": "Deutet auf zu hohe Feuchtigkeit, zu niedrige Temperaturen oder bakterielle Hautreizungen durch Stress hin.",
+            "response": "Überprüfen Sie die Temperatur (24–28 °C), verbessern Sie die Belüftung und reinigen Sie die Wasserschale."
+          },
+          {
+            "name": "Mundaufreißen & Körperkrümmen (Häutung)",
+            "meaning": "Ein normaler Vorgang, bei dem der Frosch alte Haut abstreift und verschluckt, um Nährstoffe zu recyceln.",
+            "response": "Ziehen Sie die Haut niemals manuell ab; sorgen Sie für ausreichende Feuchtigkeit für eine saubere Häutung."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Wasserwechsel mit entchlortem Wasser & Schalenreinigung",
+            "text": "Wechseln Sie das Wasser täglich mit durch Wasseraufbereiter behandeltem Wasser, um Chlor und Schwermetalle zu entfernen."
+          },
+          {
+            "name": "Nachmittag: Belüftung & Tagesfeuchtigkeit (50-60 %) kontrollieren",
+            "text": "Achten Sie auf ausreichende Luftzirkulation und halten Sie die Luftfeuchtigkeit tagsüber bei 50–60 % und 24–28 °C."
+          },
+          {
+            "name": "Abend: Anhebung der Nachtfeuchtigkeit (70-80 %) & Fütterung",
+            "text": "Sprühen Sie abends Wasser zur Erhöhung der Feuchtigkeit auf 70–80 % und füttern Sie Heimchen mit Nitrilhandschuhen."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum ist das Anfassen mit bloßen Händen für Korallenfinger-Laubfrösche gefährlich?",
+            "answer": "Die Haut von Amphibien absorbiert Salze, Seifen, Cremes und Bakterien von menschlichen Händen direkt, was zu Vergiftungen führen kann. Tragen Sie beim Handling stets puderfreie, mit Wasser befeuchtete Nitrilhandschuhe."
+          },
+          {
+            "question": "Kann ich unbehandeltes Leitungswasser verwenden?",
+            "answer": "Nein. Chlor und Schwermetalle im Leitungswasser verursachen schwere chemische Verbrennungen auf der durchlässigen Haut. Nutzen Sie stets Wasseraufbereiter für Amphibien oder mindestens 24–48 Stunden abgestandenes Wasser."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Guia de água desclorificada para rã-arborícola-de-white, manuseio seguro e rotina de umidade de 3 passos",
+        "description": "Guia essencial para a rã-arborícola-de-white (Litoria caerulea). Qualidade da água para pele permeável, manuseio com luvas de nitrilo e controle de umidade.",
+        "authority": "Diretrizes Clínicas da Associação de Veterinários de Répteis e Anfíbios (ARAV) e Padrões da Amphibian Ark",
+        "profile": {
+          "breed": "Rã-arborícola-de-white (White's Tree Frog / Dumpy Tree Frog / Litoria caerulea)",
+          "lifespan": "15 ~ 20 anos",
+          "sleep_pattern": "Noturna (Descansa em vidros ou folhas durante o dia)",
+          "temperament": "Dócil, calma, gulosa, arborícola"
+        },
+        "intro": "A rã-arborícola-de-white (Litoria caerulea) é um dos anfíbios mais populares do mundo devido ao seu corpo gordinho e temperamento dócil. Embora seja resistente, possui uma pele altamente permeável através da qual absorve água e oxigênio. A exposição ao cloro da água da torneira, metais pesados ou substâncias químicas das mãos (sabões, cremes, sal) pode causar queimaduras químicas graves. Além disso, a umidade excessiva constante favorece infecções bacterianas na pele. Neste guia, apresentamos mos os seus sinais cutâneos, cuidados de manuseio e rotina diária.",
+        "whyTitle": "Reações cutâneas da rã-arborícola-de-white: Mudança de cor e muda de pele (Molt)",
+        "whyDesc": "A rã-arborícola-de-white altera a sua cor do verde brilhante ao castanho escuro com base na umidade, temperatura e estresse. Ela também muda de pele periodicamente e ingere a pele antiga para manter a saúde cutânea.",
+        "body_signals": [
+          {
+            "name": "Mudança para castanho escuro",
+            "meaning": "Indica umidade excessiva, temperatura muito baixa ou irritação na pele por estresse ou bactérias.",
+            "response": "Verifique a temperatura do terrário (24–28 °C), melhore a ventilação e limpe a água e o substrato."
+          },
+          {
+            "name": "Movimentos corporais e bocejos (Muda de pele)",
+            "meaning": "Processo fisiológico normal no qual a rã solta a pele antiga e a engole para reciclar nutrientes.",
+            "response": "Não puxe a pele manualmente; borrifa água para manter a umidade adequada para uma muda natural."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Troca de água por água desclorificada e limpeza do recipiente",
+            "text": "Substitua a água diariamente utilizando água tratada com condicionador para anfíbios para eliminar o cloro."
+          },
+          {
+            "name": "Tarde: Ventilação e controle de umidade diurna (50-60%)",
+            "text": "Garante uma boa circulação de ar e mantém a umidade durante o dia entre 50 e 60% com temperatura de 24–28 °C."
+          },
+          {
+            "name": "Noite: Aumento da umidade noturna (70-80%) e alimentação",
+            "text": "Borrife água para subir a umidade para 70-80% durante a noite e ofereça grilos com cálcio usando luvas de nitrilo."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que é perigoso tocar na rã-arborícola-de-white com as mãos desprotegidas?",
+            "answer": "A pele dos anfíbios absorve facilmente produtos químicos, sabões, cremes e sais presentes nas mãos humanas, o que pode causar intoxicação grave. Use sempre luvas de nitrilo sem pó umedecidas com água limpa."
+          },
+          {
+            "question": "Posso usar água da torneira diretamente no recipiente de água?",
+            "answer": "Não. O cloro, cloraminas e metais pesados causam queimaduras químicas graves na sua pele permeável. Use sempre um desclorificante para anfíbios ou água descansada por pelo menos 24 a 48 horas."
+          }
+        ]
+      },
+      "id": {
+        "title": "Panduan Air Bebas Klorin Katak Pohon Dumpy, Keamanan Penanganan, dan Rutin Kelembapan Malam 3 Langkah",
+        "description": "Panduan perawatan esensial katak pohon Dumpy (Litoria caerulea). Kualitas air untuk kulit permeabel, penanganan aman dengan sarung tangan nitril, dan kontrol kelembapan.",
+        "authority": "Pedoman Klinis Association of Reptilian and Amphibian Veterinarians (ARAV) dan Standar Pemeliharaan Amphibian Ark",
+        "profile": {
+          "breed": "Katak Pohon Dumpy / Katak Pohon White (White's Tree Frog / Litoria caerulea)",
+          "lifespan": "15 ~ 20 Tahun",
+          "sleep_pattern": "Nokturnal (Tidur Menempel di Kaca atau Daun Saat Siang)",
+          "temperament": "Penurut, Tenang, Rakus, Arborial"
+        },
+        "intro": "Katak pohon Dumpy (Litoria caerulea) adalah salah satu amfibi arborial paling populer di dunia karena tubuhnya yang gemuk dan ekspresinya yang tenang. Meskipun tergolong tangguh di antara amfibi lainnya, mereka memiliki kulit yang sangat permeabel untuk menyerap air dan oksigen secara langsung. Paparan klorin air keran, logam berat, atau zat kimia dari tangan telanjang (sabun, krim, garam) dapat menyebabkan luka bakar kimiawi parah. Selain itu, kelembapan tinggi yang terus-menerus dapat memicu infeksi bakteri kulit. Dalam panduan ini, kami membagikan panduan sinyal kulit, penanganan aman, dan rutin harian katak pohon Dumpy.",
+        "whyTitle": "Reaksi Kulit Katak Pohon Dumpy: Perubahan Warna dan Pergantian Kulit (Molt)",
+        "whyDesc": "Katak pohon Dumpy menyesuaikan warna kulitnya dari hijau cerah menjadi cokelat tua berdasarkan kelembapan, suhu, dan tingkat stres. Mereka juga berganti kulit secara berkala dan memakannya untuk menjaga kesehatan kulit.",
+        "body_signals": [
+          {
+            "name": "Perubahan Warna Menjadi Cokelat Tua",
+            "meaning": "Menandakan kelembapan terlalu tinggi, suhu terlalu dingin, atau adanya iritasi kulit akibat stres maupun bakteri.",
+            "response": "Periksa suhu kandang (24–28 °C), tingkatkan ventilasi udara, dan bersihkan wadah air serta alas kandang."
+          },
+          {
+            "name": "Menggerakkan Tubuh dan Menguap (Ganti Kulit)",
+            "meaning": "Proses fisiologis normal di mana katak melepaskan kulit lama dan menelannya untuk mendaur ulang nutrisi.",
+            "response": "Jangan menarik kulit secara manual; semprotkan air untuk menjaga kelembapan agar proses ganti kulit lancar."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Penggantian Air Bebas Klorin & Pembersihan Wadah",
+            "text": "Ganti air setiap hari menggunakan air yang diolah dengan kondisioner amfibi untuk menghilangkan klorin dan logam berat."
+          },
+          {
+            "name": "Siang: Pemeriksaan Ventilasi & Kelembapan Siang Hari (50-60%)",
+            "text": "Pastikan sirkulasi udara lancar dan jaga kelembapan siang hari pada kisaran 50–60% dengan suhu 24–28 °C."
+          },
+          {
+            "name": "Malam: Peningkatan Kelembapan Malam (70-80%) & Pemberian Pakan",
+            "text": "Semprotkan air untuk menaikkan kelembapan menjadi 70–80% pada malam hari, lalu berikan jangkrik bertabur kalsium dengan sarung tangan nitril."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa berbahaya memegang katak pohon Dumpy dengan tangan telanjang?",
+            "answer": "Kulit amfibi sangat mudah menyerap zat kimia, sabun, lotion, dan garam dari tangan manusia yang dapat menyebabkan keracunan. Selalu gunakan sarung tangan nitril bebas bedak yang dibasahi air bersih saat harus memegang katak."
+          },
+          {
+            "question": "Bolehkah saya menggunakan air keran langsung untuk wadah minumnya?",
+            "answer": "Tidak boleh. Sisa klorin, kloramina, dan logam berat pada air keran menyebabkan luka bakar kimiawi pada kulit permeabelnya. Selalu gunakan pengondisi air khusus amfibi atau air yang telah diendapkan minimal 24–48 jam."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/dumpy_tree_frog_care.webp"
+  }
 }

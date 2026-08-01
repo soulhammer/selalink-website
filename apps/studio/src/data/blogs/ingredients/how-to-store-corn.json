@@ -1,406 +1,406 @@
 {
-    "how-to-store-corn": {
-        "ingId": "corn",
-        "pubDate": "2026-02-22",
-        "updatedDate": "2026-02-22",
-        "heroImage": "/images/blog/corn_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "옥수수 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 옥수수의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
-                "intro": "옥수수를 사 와서 상온에 며칠 두었다가 알갱이가 딱딱해지고 단맛이 싹 빠져 맛없어진 경험 있으시죠? 🌽\n\n옥수수는 수확하는 순간부터 당분이 녹말로 빠르게 변화하는 호흡 급등형 작물입니다. 특히 상온에 방치하면 단 하루 만에 당분의 절반 이상이 손실되어 아삭하고 달콤한 풍미를 잃게 됩니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 옥수수 신선도 극대화 3단계 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "수확 후 껍질을 벗긴 채 상온에 방치하지 마세요 ⚠️",
-                        "desc": "옥수수는 상온에서 효소 작용이 매우 활발해져 당분이 녹말로 급격히 전환됩니다. 껍질을 벗긴 상태로 상온에 두면 수분까지 빠르게 증발해 알갱이가 딱딱해지므로 구매 즉시 냉장 또는 찌는 작업을 해야 합니다."
-                    },
-                    {
-                        "title": "생옥수수를 그대로 냉동하지 마세요 🚫",
-                        "desc": "생옥수수를 익히지 않고 냉동하면 효소 작용이 완전히 정지되지 않아 보관 중 당분이 계속 감소하고 해동 후 수분이 빠져나가 질겨집니다. 반드시 찐 후 식혀서 냉동해야 신선도와 단맛이 유지됩니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "껍질째 저온 냉장 보관하기 — 단기 냉장 (2 ~ 3일) 📦",
-                        "text": "수확 직후의 옥수수 껍질은 수분 증발을 막아주는 천연 보호막 역할을 합니다. 💡 보관 팁: 겉껍질을 1 ~ 2장 남겨둔 상태로 밀폐 비닐에 담아 냉장고 야채칸(0 ~ 2℃)에 보관하세요. 효소 반응을 늦춰 2 ~ 3일간 단맛을 유지할 수 있습니다."
-                    },
-                    {
-                        "name": "구매 즉시 쪄서 효소 작용 멈추기 — 당분 보존 가열 🌽",
-                        "text": "옥수수의 단맛을 지키는 가장 확실한 방법은 당분이 녹말로 바뀌기 전에 고온으로 효소를 비활성화하는 것입니다. 💡 보관 팁: 구매 후 가급적 빨리 찜기에 찌거나 삶아주세요. 효소가 파괴되어 단맛이 녹말로 변하는 과정이 완전히 중단됩니다."
-                    },
-                    {
-                        "name": "찐 옥수수 식힌 후 밀봉하여 냉동 보관하기 — 냉동 보관 (1년) ❄️",
-                        "text": "장기 보관 시에는 찐 옥수수의 열기를 완벽히 식힌 뒤 한 자루씩 랩으로 밀착 포장해야 합니다. 💡 보관 팁: 랩으로 감싼 옥수수를 지퍼백에 넣어 이중 밀봉한 후 냉동실(-18℃ 이하)에 보관하세요. 수분 손실과 냉동 탄화를 막아 1년 동안 갓 찐 듯한 탱글탱글한 식감을 즐길 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "옥수수를 냉동하기 전에 왜 반드시 먼저 쪄야 하나요?",
-                        "answer": "옥수수 속 당분 분해 효소는 냉동 상태(-18℃)에서도 미세하게 작용하여 단맛을 떨어뜨립니다. 먼저 쪄서 효소를 완전히 비활성화(Deactivation)해야 당분과 수분이 보존되어 해동 후에도 찰진 식감과 단맛을 유지할 수 있습니다."
-                    },
-                    {
-                        "question": "냉동 보관한 옥수수를 다시 맛있게 먹는 방법은 무엇인가요?",
-                        "answer": "해동 과정 없이 냉동 상태 그대로 찜기에 넣어 10 ~ 15분간 다시 찌는 것이 가장 좋습니다. 전자레인지를 사용할 경우 물을 살짝 붓거나 젖은 키친타월로 감싸 3 ~ 5분간 데우면 수분이 유지되어 촉촉하게 드실 수 있습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Corn Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for corn on the cob based on official safety guidelines.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Have you ever bought fresh corn on the cob, left it at room temperature for a few days, only to find the kernels tough and the sweetness gone? 🌽\n\nCorn is a respiratory-climacteric crop where sugar rapidly converts into starch from the moment it is harvested. Leaving corn at room temperature can cause it to lose more than half of its sugar content in just 24 hours, ruining its crisp and sweet flavor.\n\nIn this guide, introduces a scientifically proven 3-step corn storage guide recommended by agriculture and food safety experts to preserve peak sweetness and moisture. 🛡️",
-                "whyTitle": "Why Store Corn This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never leave husked corn at room temperature ⚠️",
-                        "desc": "Enzyme activity speeds up at room temperature, rapidly converting natural sugars into starch. Leaving husked corn out causes rapid moisture evaporation, making the kernels tough. Refrigerate or steam immediately after purchase."
-                    },
-                    {
-                        "title": "Do not freeze raw corn on the cob 🚫",
-                        "desc": "Freezing raw corn does not completely stop enzymatic activity, allowing sugar breakdown to continue during freezer storage and making the kernels chewy upon thawing. Always steam or boil corn before freezing."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Store in cold refrigeration with husks intact — Short-Term Cold Storage (2–3 Days) 📦",
-                        "text": "The outer husks act as a natural shield preventing moisture loss after harvest. 💡 Storage Tip: Leave 1–2 layers of inner husks on, place corn in sealed plastic bags, and store in the crisper drawer (0–2°C). This slows enzyme activity to keep corn sweet for 2 to 3 days."
-                    },
-                    {
-                        "name": "Steam immediately after purchase to deactivate enzymes — Sugar Retention Heating 🌽",
-                        "text": "The most effective way to lock in sweetness is heating corn to deactivate sugar-converting enzymes. 💡 Storage Tip: Steam or boil corn as soon as possible after purchase. Thermal processing deactivates enzymes, completely halting the conversion of sugar into starch."
-                    },
-                    {
-                        "name": "Cool cooked corn, wrap tightly, and freeze — Frozen Storage (1 Year) ❄️",
-                        "text": "For long-term storage, allow steamed corn to cool completely before wrapping each ear tightly in plastic wrap. 💡 Storage Tip: Double-seal the wrapped ears in freezer Ziploc bags and freeze below -18°C. This prevents freezer burn and moisture loss, preserving plumpness for up to a year."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why must corn be steamed or boiled before freezing?",
-                        "answer": "Sugar-degrading enzymes remain slightly active even at freezing temperatures (-18°C), causing loss of sweetness over time. Cooking corn beforehand deactivates these enzymes completely, preserving natural sugars and moisture so kernels remain tender and sweet after reheating."
-                    },
-                    {
-                        "question": "What is the best way to reheat frozen cooked corn?",
-                        "answer": "Steaming the corn directly from frozen without thawing for 10 to 15 minutes yields the best texture and flavor. If using a microwave, sprinkle a little water or wrap the ear in a damp paper towel and heat for 3 to 5 minutes to retain moisture."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "とうもろこしを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくとうもろこしの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "とうもろこしを買って常温に数日置いておいたら、粒が硬くなって甘みがなくなってしまった経験はありませんか？🌽\n\nとうもろこしは収穫直後から糖分がどんどん澱粉（デンプン）に変化する非常に足の早い作物のひとつです。常温に放置すると、たった1日で甘みの半分以上が失われ、シャキシャキとした美味しさが損なわれてしまいます。\n\n本記事では、農学および食品安全の専門家が推奨する、とうもろこしの甘みとみずみずしさを最大化する科学的で確実な3段階の保存のコツをご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "皮をむいたまま常温で放置しないでください ⚠️",
-                        "desc": "常温では酵素の働きが非常に活発になり、糖分が急激にデンプンへと変化します。皮をむいた状態で常温に置くと水分も急速に蒸発して粒が硬くなるため、購入後すぐに冷蔵保存するか加熱してください。"
-                    },
-                    {
-                        "title": "生のまま冷凍保存しないでください 🚫",
-                        "desc": "生のとうもろこしをそのまま冷凍しても酵素の働きは完全に止まらず、保存中に糖分が減少して解凍後に水っぽく硬くなってしまいます。必ず加熱して冷ましてから冷凍してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "皮つきのまま低温冷蔵保存する — 短期冷蔵 (2〜3日間) 📦",
-                        "text": "収穫直後の皮は水分蒸発を防ぐ天然の保護膜です。💡保存のコツ：薄皮を1〜2枚残した状態でポリ袋に入れて密閉し、冷蔵庫の野菜室（0〜2℃）で保存してください。酵素の反応を遅らせ、2〜3日間甘みをキープできます。"
-                    },
-                    {
-                        "name": "購入後すぐに蒸して酵素の働きを止める — 糖分保持加熱 🌽",
-                        "text": "とうもろこしの甘みを守る最も確実な方法は、糖分がデンプンに変わる前に加熱して酵素を失活させることです。💡保存のコツ：購入後はできるだけ早く蒸し器で蒸すか茹でてください。酵素が破壊され、甘みがデンプン化するプロセスの停止が可能です。"
-                    },
-                    {
-                        "name": "蒸したとうもろこしを冷まして密閉冷凍する — 冷凍保存 (1年間) ❄️",
-                        "text": "長期保存する場合は、蒸したとうもろこしの熱を完全に取ってから、1本ずつラップでぴったり包みます。💡保存のコツ：ラップで包んだとうもろこしをジッパーバッグに入れて二重密閉し、冷凍室（-18℃以下）で保存してください。乾燥や冷凍やけを防ぎ、1年間採れたてのようなぷりぷり感を味わえます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "なぜ冷凍する前に必ず蒸さなければならないのですか？",
-                        "answer": "とうもろこしに含まれる糖分解酵素は、冷凍温度（-18℃）でも微弱に働いて甘みを低下させます。あらかじめ加熱して酵素を完全に失活（Deactivation）させることで、糖分と水分が保持され、解凍後ももちもちとした食感と甘みを維持できます。"
-                    },
-                    {
-                        "question": "冷凍したとうもろこしを美味しく温め直す方法は？",
-                        "answer": "解凍せず凍ったまま蒸し器に入れ、10〜15分ほど蒸し直すのが最もおすすめです。電子レンジを使用する場合は、水を少しかけるか濡らしたキッチンペーパーで包んで3〜5分加熱すると、水分が保たれてジューシーに仕上がります。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持玉米新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解玉米的最佳储存温度、方式和保鲜时长。",
-                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "您是否曾买回新鲜玉米常温放置几天，结果发现玉米粒变硬且失去了鲜甜口感？🌽\n\n玉米属于采收后糖分极易流失的作物，从采摘那一刻起，内部的糖分就会快速转化为淀粉。常温下存放仅需24小时，玉米中的糖分就会流失过半，严重影响爽甜风味。\n\n本指南将为您介绍由农业及食品安全专家推荐的科学3步玉米保鲜秘诀，帮您最大程度锁定鲜甜与水分。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "切勿剥皮后常温摆放 ⚠️",
-                        "desc": "常温下玉米内部的酶活性极高，会促使糖分迅速转化为淀粉。剥皮常温放置还会导致水分加速蒸发，使玉米粒变硬，因此购买后应立即冷藏或蒸煮处理。"
-                    },
-                    {
-                        "title": "切勿生玉米直接冷冻 🚫",
-                        "desc": "生玉米直接冷冻无法完全终止酶活性，冷冻期间糖分仍会缓慢流失，解冻后口感会发柴变硬。务必先蒸熟、冷却后再进行冷冻。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "带皮低温冷藏 — 短期冷藏 (2 ~ 3天) 📦",
-                        "text": "采收后的外皮是防止水分蒸发的天然保护屏障。💡储存小贴士：保留1 ~ 2层内皮，放入保鲜袋密封，存放在冰箱冷藏室或蔬菜保鲜层（0 ~ 2℃）。这能减缓酶反应，锁住2 ~ 3天的甜度。"
-                    },
-                    {
-                        "name": "购买后立即蒸熟以终止酶活性 — 锁糖加热 🌽",
-                        "text": "保住玉米甜味最有效的方法是在糖分转化为淀粉前进行高温加热，破坏酶活性。💡储存小贴士：购买后请尽快用蒸锅蒸熟或煮熟。高温能完全终止糖分向淀粉转化的过程。"
-                    },
-                    {
-                        "name": "蒸熟冷却后紧密包裹冷冻 — 冷冻储存 (1年) ❄️",
-                        "text": "如需长期保存，须将蒸熟的玉米彻底晾凉，再用保鲜膜逐根紧密包裹。💡储存小贴士：包好保鲜膜后装入密封拉链袋双层密封，放入冷冻室（-18℃以下）。这能防止冻伤和水分流失，保持长达1年饱满多汁的口感。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "为什么玉米在冷冻前必须先蒸熟？",
-                        "answer": "玉米中的分解酶即使在冷冻温度（-18℃）下仍有微弱活性，会导致甜度下降。先蒸熟可以彻底灭活（Deactivation）这些酶，从而完好保存糖分与水分，解冻加热后依然软糯甜鲜。"
-                    },
-                    {
-                        "question": "冷冻的熟玉米怎样加热最美味？",
-                        "answer": "无需提前解冻，直接将冷冻玉米放入蒸锅大火蒸10 ~ 15分钟口感最佳。若使用微波炉，可喷少许水或包裹湿厨房纸巾加热3 ~ 5分钟，以防水分流失。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener el maíz fresco: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el maíz según las directrices oficiales de seguridad.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "¿Alguna vez compró mazorcas de maíz frescas, las dejó a temperatura ambiente unos días y descubrió que los granos estaban duros y sin dulzura? 🌽\n\nEl maíz es un cultivo donde el azúcar se convierte rápidamente en almidón a partir del momento de la cosecha. Dejarlo a temperatura ambiente puede hacer que pierda más de la mitad de su azúcar en solo 24 horas, arruinando su sabor dulce y crujiente.\n\nEn esta guía se presenta una guía de conservación del maíz en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria para mantener su máxima dulzura y humedad. 🛡️",
-                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "No deje el maíz pelado a temperatura ambiente ⚠️",
-                        "desc": "A temperatura ambiente la actividad enzimática se acelera, convirtiendo rápidamente los azúcares naturales en almidón. Si está sin hojas, la humedad se evapora rápido endureciendo el grano. Refrigere o cocine al vapor de inmediato."
-                    },
-                    {
-                        "title": "No congele la mazorca de maíz cruda 🚫",
-                        "desc": "Congelar el maíz crudo no detiene por completo la acción enzimática; el azúcar se sigue degradando durante la congelación y el grano queda duro y fibroso al descongelar. Cocínelo al vapor antes de congelar."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Conserve en frío con las hojas intactas — Refrigeración a corto plazo (2-3 días) 📦",
-                        "text": "Las hojas exteriores actúan como una barrera natural para evitar la pérdida de humedad. 💡 Consejo de almacenamiento: Deje 1-2 capas de hojas internas, coloque las mazorcas en bolsas de plástico selladas y guárdelas en el cajón de verduras (0-2 °C)."
-                    },
-                    {
-                        "name": "Cocine al vapor inmediatamente tras la compra — Cocción para retener azúcares 🌽",
-                        "text": "La forma más efectiva de fijar la dulzura es inactivar mediante calor las enzimas que convierten el azúcar en almidón. 💡 Consejo de almacenamiento: Hierva o cocine al vapor las mazorcas lo antes posible tras comprarlas. El calor detiene completamente la degradación de los azúcares."
-                    },
-                    {
-                        "name": "Enfríe el maíz cocido, envuélvalo bien y congele — Almacenamiento congelado (1 año) ❄️",
-                        "text": "Para un almacenamiento prolongado, deje enfriar por completo el maíz cocido y envuelva cada mazorca firmemente en film transparente. 💡 Consejo de almacenamiento: Guarde en bolsas Ziploc para congelador a menos de -18 °C. Evita quemaduras por congelación y mantiene los granos jugosos durante 1 año."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué se debe cocinar el maíz al vapor antes de congelarlo?",
-                        "answer": "Las enzimas que descomponen los azúcares siguen actuando ligeramente incluso a temperaturas de congelación (-18 °C). Cocinar el maíz previamente inactiva estas enzimas por completo, conservando los azúcares y la humedad natural para que permanezca tierno tras recalentar."
-                    },
-                    {
-                        "question": "¿Cuál es la mejor manera de recalentar el maíz congelado?",
-                        "answer": "Lo ideal es cocinarlo al vapor directamente desde congelado sin descongelar durante 10 a 15 minutos. Si usa microondas, rocíe un poco de agua o envuelva la mazorca en papel de cocina húmedo y caliente durante 3 a 5 minutos."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver le maïs frais : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le maïs selon les directives officielles de sécurité.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Avez-vous déjà acheté du maïs frais en épi, l'avez-vous laissé à température ambiante quelques jours pour constater que les grains étaient devenus durs et sans sucre ? 🌽\n\nLe maïs est une culture où le sucre se transforme très rapidement en amidon dès sa récolte. Laisser du maïs à température ambiante peut lui faire perdre plus de la moitié de son sucre en seulement 24 heures, altérant sa saveur douce et croustillante.\n\nDans ce guide, vous présente un guide scientifique de conservation du maïs en 3 étapes recommandé par des experts en sécurité alimentaire pour préserver sa douceur et sa fraîcheur. 🛡️",
-                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne laissez jamais le maïs effeuillé à température ambiante ⚠️",
-                        "desc": "La température ambiante stimule les enzymes qui convertissent les sucres naturels en amidon. Sans ses feuilles, le maïs perd son eau rapidement et les grains durcissent. Réfrigérez ou cuisez-le au vapeur immédiatement après l'achat."
-                    },
-                    {
-                        "title": "Ne congelez pas le maïs cru en épi 🚫",
-                        "desc": "Congeler du maïs cru ne stoppe pas totalement l'activité enzymatique : les sucres continuent de se dégrader au congélateur et les grains deviennent caoutchouteux à la décongélation. Cuisez-le toujours à la vapeur avant de congelation."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Conserver au frais avec les feuilles — Réfrigération courte durée (2-3 jours) 📦",
-                        "text": "Les spathes (feuilles) extérieures constituent un bouclier naturel contre la déshydratation. 💡 Astuce de conservation : Conservez 1 ou 2 épaisseurs de feuilles, placez les épis dans un sachet plastique fermé et rangez-les dans le bac à légumes (0–2 °C). Cela ralentit l'action enzymatique."
-                    },
-                    {
-                        "name": "Cuire à la vapeur juste après l'achat pour désactiver les enzymes — Fixation des sucres 🌽",
-                        "text": "Le moyen le plus efficace de préserver le goût sucré est de chauffer le maïs pour neutraliser les enzymes. 💡 Astuce de conservation : Cuisez les épis à la vapeur ou à l'eau le plus tôt possible après l'achat. La chaleur stoppe définitivement la transformation du sucre en amidon."
-                    },
-                    {
-                        "name": "Laisser refroidir, envelopper hermétiquement et congeler — Stockage congelé (1 an) ❄️",
-                        "text": "Pour une longue conservation, laissez refroidir le maïs cuit puis enveloppez chaque épi fermement dans du film étirable. 💡 Astuce de conservation : Placez les épis emballés dans un sac congélation à fermeture hermétique sous -18 °C. Cela prévient la brûlure de congélation et conserve des grains juteux pendant 1 an."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi faut-il impérativement cuire le maïs à la vapeur avant de le congeler ?",
-                        "answer": "Les enzymes responsables de la dégradation des sucres restent légèrement actives même à -18 °C. La cuisson préalable détruit complètement ces enzymes, préservant ainsi le sucre naturel et l'eau contenus dans les grains pour qu'ils restent tendres après réchauffage."
-                    },
-                    {
-                        "question": "Quelle est la meilleure méthode pour réchauffer du maïs cuit congelé ?",
-                        "answer": "La meilleure méthode consiste à réchauffer l'épi directement congelé à la vapeur pendant 10 à 15 minutes sans décongélation préalable. Au micro-ondes, humectez l'épi ou enveloppez-le dans de l'essuie-tout humide puis chauffez 3 à 5 minutes."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Mais richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Maiskolben basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Haben Sie schon einmal frischen Maiskolben gekauft, ihn ein paar Tage bei Raumtemperatur liegen lassen und dann festgestellt, dass die Körner hart und nicht mehr süß waren? 🌽\n\nMais gehört zu den Lebensmitteln, bei denen sich der natürliche Zucker nach der Ernte rasch in Stärke umwandelt. Bei Raumtemperatur verliert Mais innerhalb von nur 24 Stunden mehr als die Hälfte seines Zuckers, wodurch der süße, knackige Geschmack verloren geht.\n\nIn diesem Ratgeber erfahren Sie einen von Agrar- und Lebensmittelsicherheitsexperten empfohlenen, wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die maximale Süße und Feuchtigkeit Ihres Maises zu bewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Geschälten Mais niemals bei Raumtemperatur lagern ⚠️",
-                        "desc": "Bei Raumtemperatur läuft die Enzymaktivität auf Hochtouren und wandelt Zucker blitzschnell in Stärke um. Ohne Lieschblätter verdunstet zudem die Feuchtigkeit rasch. Nach dem Kauf sofort kühlen oder dämpfen."
-                    },
-                    {
-                        "title": "Rohen Maiskolben nicht ungekocht einfrieren 🚫",
-                        "desc": "Das Einfrieren von rohem Mais stoppt die Enzymaktivität nicht vollständig. Der Zucker baut sich im Gefrierschrank weiter ab und die Körner werden nach dem Auftauen zäh. Mais vor dem Einfrieren immer erst dämpfen oder kochen."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Mit Lieschblättern gekühlt aufbewahren — Kurzeitige Kühllagerung (2–3 Tage) 📦",
-                        "text": "Die äußeren Hüllblätter schützen den Mais von Natur aus vor dem Austrocknen. 💡 Lagerungstipp: Belassen Sie 1–2 Schichten der inneren Blätter am Kolben, verpacken Sie ihn in Plastikbeuteln und legen Sie ihn ins Gemüsefach (0–2 °C). Das verlangsamt den Zuckerabbau für 2 bis 3 Tage."
-                    },
-                    {
-                        "name": "Direkt nach dem Kauf dämpfen, um Enzymaktivität zu stoppen — Zuckerfixierung 🌽",
-                        "text": "Die sicherste Methode zur Bewahrung der Süße ist das Erhitzen, wodurch zuckerabbauende Enzyme inaktiviert werden. 💡 Lagerungstipp: Dämpfen oder kochen Sie den Mais so schnell wie möglich nach dem Kauf. Die Hitze stoppt die Umwandlung von Zucker in Stärke komplett."
-                    },
-                    {
-                        "name": "Gekochten Mais abkühlen lassen, fest einwickeln und einfrieren — Gefrierlagerung (1 Jahr) ❄️",
-                        "text": "Für die Langzeitlagerung lassen Sie den gekochten Mais vollständig abkühlen und wickeln jeden Kolben fest in Frischhaltefolie ein. 💡 Lagerungstipp: Geben Sie die eingewickelten Kolben in Ziploc-Gefrierbeutel unter -18 °C. Das schützt vor Gefrierbrand und hält die Körner 1 Jahr lang prall."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum muss Mais vor dem Einfrieren unbedingt gedämpft oder gekocht werden?",
-                        "answer": "Zuckerabbauende Enzyme sind selbst bei Gefriertemperaturen (-18 °C) noch schwach aktiv. Durch das vorherige Dämpfen werden die Enzyme vollständig inaktiviert, sodass Zucker und Feuchtigkeit erhalten bleiben und die Körner auch nach dem Aufwärmen knackig-süß schmecken."
-                    },
-                    {
-                        "question": "Wie erwärmt man gefrorenen gekochten Mais am besten?",
-                        "answer": "Am besten dämpft man den Kolben direkt im gefrorenen Zustand ohne vorheriges Auftauen für 10 bis 15 Minuten. In der Mikrowelle beträufeln Sie den Kolben mit etwas Wasser oder wickeln ihn in ein feuchtes Küchenpapier und erhitzen ihn 3 bis 5 Minuten."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar milho fresco: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para o milho com base em diretrizes oficiais de segurança.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Você já comprou espigas de milho frescas, deixou em temperatura ambiente por alguns dias e depois descobriu que os grãos ficaram duros e sem doçura? 🌽\n\nO milho é um alimento onde o açúcar se converte rapidamente em amido logo após a colheita. Deixar o milho em temperatura ambiente pode fazê-lo perder mais da metade do seu açúcar em apenas 24 horas, estragando seu sabor doce e crocante.\n\nNeste guia, apresentamos um guia prático em 3 etapas recomendado por especialistas para manter a doçura e a umidade do seu milho pelo maior tempo possível. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca deixe o milho sem palha em temperatura ambiente ⚠️",
-                        "desc": "A temperatura ambiente acelera a atividade enzimática que transforma açúcares em amido. Sem a palha, a umidade evapora rapidamente e os grãos endurecem. Refrigere ou cozinhe no vapor imediatamente após a compra."
-                    },
-                    {
-                        "title": "Não congele a espiga de milho crua 🚫",
-                        "desc": "Congelar o milho cru não interrompe totalmente as enzimas, fazendo com que o açúcar continue se degradando no congelador e deixando os grãos duros após o descongelamento. Sempre cozinhe no vapor antes de congelar."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Guardar sob refrigeração com a palha — Armazenamento refrigerado (2 a 3 dias) 📦",
-                        "text": "A palha funciona como uma proteção natural que evita a perda de umidade. 💡 Dica de conservação: Deixe 1 a 2 camadas internas de palha, coloque as espigas em sacos plásticos fechados e guarde na gaveta de legumes (0-2 °C). Isso desacelera as enzimas."
-                    },
-                    {
-                        "name": "Cozinhar no vapor logo após a compra para inativar enzimas — Retenção de doçura 🌽",
-                        "text": "O modo mais eficaz de preservar o sabor adocicado é aquecer o milho para inativar as enzimas que convertem açúcar em amido. 💡 Dica de conservação: Cozinhe no vapor ou em água fervente o quanto antes após a compra. O calor paralisa essa conversação."
-                    },
-                    {
-                        "name": "Esfriar o milho cozido, embalar bem e congelar — Armazenamento congelado (1 ano) ❄️",
-                        "text": "Para conservar a longo prazo, espere o milho cozido esfriar completamente e envolva cada espiga firmemente em filme plástico. 💡 Dica de conservação: Guarde as espigas embaladas em sacos Ziploc no freezer a menos de -18 °C. Isso previne queimaduras de gelo e mantém os grãos suculentos por 1 ano."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Por que é obrigatório cozinhar o milho no vapor antes de congelar?",
-                        "answer": "As enzimas que degradam o açúcar continuam levemente ativas mesmo a -18 °C. O cozimento prévio inativa completamente essas enzimas, preservando os açúcares e a umidade natural para que os grãos continuem macios após reaquecidos."
-                    },
-                    {
-                        "question": "Qual é a melhor forma de reaquecer o milho cozido congelado?",
-                        "answer": "O ideal é cozinhar a espiga congelada no vapor por 10 a 15 minutos, sem descongelar antes. No micro-ondas, respingue um pouco de água ou envolva a espiga em papel-toalha úmido e aqueça por 3 a 5 minutos."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Jagung agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk jagung manis berdasarkan pedoman keselamatan resmi.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Pernahkah Anda membeli jagung manis segar, membiarkannya di suhu ruang selama beberapa hari, lalu mendapati bulir jagungnya mengeras dan kehilangan rasa manisnya? 🌽\n\nJagung adalah bahan makanan yang kandungan gulanya dengan cepat berubah menjadi pati (tepung) sesaat setelah dipanen. Membiarkan jagung di suhu ruang dapat menghilangkan lebih dari separuh rasa manis alami alaminya hanya dalam waktu 24 jam.\n\nDalam panduan ini, kami membagikan panduan penyimpanan jagung 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan untuk menjaga kesegaran dan kelezatan jagung Anda. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan membiarkan jagung tanpa kulit di suhu ruang ⚠️",
-                        "desc": "Aktivitas enzim di suhu ruang sangat tinggi, dengan cepat mengubah gula alami jagung menjadi pati. Membiarkan jagung tanpa kulit membuat kadar airnya cepat menguap dan bulirnya keras. Segera simpan di kulkas atau kukus setelah dibeli."
-                    },
-                    {
-                        "title": "Jangan membekukan jagung manis dalam keadaan mentah 🚫",
-                        "desc": "Membekukan jagung mentah tidak menghentikan aktivitas enzim secara total, sehingga kadar gula terus menurun di freezer dan tekstur bulirnya menjadi liat saat dicairkan. Selalu kukus atau rebus jagung sebelum dibekukan."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Simpan di kulkas dengan kulit tetap menempel — Simpan Dingin (2–3 Hari) 📦",
-                        "text": "Kulit luar jagung berfungsi sebagai pelindung alami dari penguapan air. 💡 Tips Penyimpanan: Biarkan 1–2 lapis kulit dalam tetap menempel, masukkan jagung ke dalam kantong plastik tertutup, dan simpan di laci sayur kulkas (0–2°C). Langkah ini memperlambat kerja enzim."
-                    },
-                    {
-                        "name": "Segera kukus setelah dibeli untuk menghentikan kerja enzim — Penguncian Rasa Manis 🌽",
-                        "text": "Cara paling efektif untuk mengunci rasa manis jagung adalah dengan memanaskannya guna menonaktifkan enzim pemecah gula. 💡 Tips Penyimpanan: Segera kukus atau rebus jagung begitu dibeli. Panas akan menghentikan proses perubahan gula menjadi pati secara total."
-                    },
-                    {
-                        "name": "Dinginkan jagung matang, bungkus rapat, dan bekukan — Simpan Beku (1 Tahun) ❄️",
-                        "text": "Untuk penyimpanan jangka panjang, biarkan jagung kukus dingin sepenuhnya, lalu bungkus setiap tongkol secara rapat dengan plastik wrap. 💡 Tips Penyimpanan: Masukkan ke kantong Ziploc freezer di bawah -18°C. Langkah ini mencegah freezer burn dan menjaga bulir tetap renyah hingga 1 tahun."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa jagung harus dikukus terlebih dahulu sebelum dibekukan?",
-                        "answer": "Enzim pemecah gula tetap bekerja lambat meskipun pada suhu freezer (-18°C). Mengukusnya terlebih dahulu akan menonaktifkan enzim tersebut secara total, sehingga kandungan gula dan airnya terjaga dan jagung tetap manis serta empuk saat dipanaskan kembali."
-                    },
-                    {
-                        "question": "Bagaimana cara terbaik memanaskan kembali jagung manis beku?",
-                        "answer": "Cara terbaik adalah mengukus kembali tongkol jagung langsung dalam kondisi beku tanpa dicairkan selama 10 hingga 15 menit. Jika menggunakan microwave, percikkan sedikit air atau bungkus dengan tisu dapur basah lalu panaskan selama 3 hingga 5 menit."
-                    }
-                ]
-            }
-        }
+  "how-to-store-corn": {
+    "ingId": "corn",
+    "pubDate": "2026-02-22",
+    "updatedDate": "2026-02-22",
+    "heroImage": "/images/blog/corn_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "옥수수 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 옥수수의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+        "intro": "옥수수를 사 와서 상온에 며칠 두었다가 알갱이가 딱딱해지고 단맛이 싹 빠져 맛없어진 경험 있으시죠? 🌽\n\n옥수수는 수확하는 순간부터 당분이 녹말로 빠르게 변화하는 호흡 급등형 작물입니다. 특히 상온에 방치하면 단 하루 만에 당분의 절반 이상이 손실되어 아삭하고 달콤한 풍미를 잃게 됩니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 옥수수 신선도 극대화 3단계 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "수확 후 껍질을 벗긴 채 상온에 방치하지 마세요 ⚠️",
+            "desc": "옥수수는 상온에서 효소 작용이 매우 활발해져 당분이 녹말로 급격히 전환됩니다. 껍질을 벗긴 상태로 상온에 두면 수분까지 빠르게 증발해 알갱이가 딱딱해지므로 구매 즉시 냉장 또는 찌는 작업을 해야 합니다."
+          },
+          {
+            "title": "생옥수수를 그대로 냉동하지 마세요 🚫",
+            "desc": "생옥수수를 익히지 않고 냉동하면 효소 작용이 완전히 정지되지 않아 보관 중 당분이 계속 감소하고 해동 후 수분이 빠져나가 질겨집니다. 반드시 찐 후 식혀서 냉동해야 신선도와 단맛이 유지됩니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "껍질째 저온 냉장 보관하기 — 단기 냉장 (2 ~ 3일) 📦",
+            "text": "수확 직후의 옥수수 껍질은 수분 증발을 막아주는 천연 보호막 역할을 합니다. 💡 보관 팁: 겉껍질을 1 ~ 2장 남겨둔 상태로 밀폐 비닐에 담아 냉장고 야채칸(0 ~ 2℃)에 보관하세요. 효소 반응을 늦춰 2 ~ 3일간 단맛을 유지할 수 있습니다."
+          },
+          {
+            "name": "구매 즉시 쪄서 효소 작용 멈추기 — 당분 보존 가열 🌽",
+            "text": "옥수수의 단맛을 지키는 가장 확실한 방법은 당분이 녹말로 바뀌기 전에 고온으로 효소를 비활성화하는 것입니다. 💡 보관 팁: 구매 후 가급적 빨리 찜기에 찌거나 삶아주세요. 효소가 파괴되어 단맛이 녹말로 변하는 과정이 완전히 중단됩니다."
+          },
+          {
+            "name": "찐 옥수수 식힌 후 밀봉하여 냉동 보관하기 — 냉동 보관 (1년) ❄️",
+            "text": "장기 보관 시에는 찐 옥수수의 열기를 완벽히 식힌 뒤 한 자루씩 랩으로 밀착 포장해야 합니다. 💡 보관 팁: 랩으로 감싼 옥수수를 지퍼백에 넣어 이중 밀봉한 후 냉동실(-18℃ 이하)에 보관하세요. 수분 손실과 냉동 탄화를 막아 1년 동안 갓 찐 듯한 탱글탱글한 식감을 즐길 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "옥수수를 냉동하기 전에 왜 반드시 먼저 쪄야 하나요?",
+            "answer": "옥수수 속 당분 분해 효소는 냉동 상태(-18℃)에서도 미세하게 작용하여 단맛을 떨어뜨립니다. 먼저 쪄서 효소를 완전히 비활성화(Deactivation)해야 당분과 수분이 보존되어 해동 후에도 찰진 식감과 단맛을 유지할 수 있습니다."
+          },
+          {
+            "question": "냉동 보관한 옥수수를 다시 맛있게 먹는 방법은 무엇인가요?",
+            "answer": "해동 과정 없이 냉동 상태 그대로 찜기에 넣어 10 ~ 15분간 다시 찌는 것이 가장 좋습니다. 전자레인지를 사용할 경우 물을 살짝 붓거나 젖은 키친타월로 감싸 3 ~ 5분간 데우면 수분이 유지되어 촉촉하게 드실 수 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Corn Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for corn on the cob based on official safety guidelines.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Have you ever bought fresh corn on the cob, left it at room temperature for a few days, only to find the kernels tough and the sweetness gone? 🌽\n\nCorn is a respiratory-climacteric crop where sugar rapidly converts into starch from the moment it is harvested. Leaving corn at room temperature can cause it to lose more than half of its sugar content in just 24 hours, ruining its crisp and sweet flavor.\n\nIn this guide, introduces a scientifically proven 3-step corn storage guide recommended by agriculture and food safety experts to preserve peak sweetness and moisture. 🛡️",
+        "whyTitle": "Why Store Corn This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never leave husked corn at room temperature ⚠️",
+            "desc": "Enzyme activity speeds up at room temperature, rapidly converting natural sugars into starch. Leaving husked corn out causes rapid moisture evaporation, making the kernels tough. Refrigerate or steam immediately after purchase."
+          },
+          {
+            "title": "Do not freeze raw corn on the cob 🚫",
+            "desc": "Freezing raw corn does not completely stop enzymatic activity, allowing sugar breakdown to continue during freezer storage and making the kernels chewy upon thawing. Always steam or boil corn before freezing."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Store in cold refrigeration with husks intact — Short-Term Cold Storage (2–3 Days) 📦",
+            "text": "The outer husks act as a natural shield preventing moisture loss after harvest. 💡 Storage Tip: Leave 1–2 layers of inner husks on, place corn in sealed plastic bags, and store in the crisper drawer (0–2°C). This slows enzyme activity to keep corn sweet for 2 to 3 days."
+          },
+          {
+            "name": "Steam immediately after purchase to deactivate enzymes — Sugar Retention Heating 🌽",
+            "text": "The most effective way to lock in sweetness is heating corn to deactivate sugar-converting enzymes. 💡 Storage Tip: Steam or boil corn as soon as possible after purchase. Thermal processing deactivates enzymes, completely halting the conversion of sugar into starch."
+          },
+          {
+            "name": "Cool cooked corn, wrap tightly, and freeze — Frozen Storage (1 Year) ❄️",
+            "text": "For long-term storage, allow steamed corn to cool completely before wrapping each ear tightly in plastic wrap. 💡 Storage Tip: Double-seal the wrapped ears in freezer Ziploc bags and freeze below -18°C. This prevents freezer burn and moisture loss, preserving plumpness for up to a year."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why must corn be steamed or boiled before freezing?",
+            "answer": "Sugar-degrading enzymes remain slightly active even at freezing temperatures (-18°C), causing loss of sweetness over time. Cooking corn beforehand deactivates these enzymes completely, preserving natural sugars and moisture so kernels remain tender and sweet after reheating."
+          },
+          {
+            "question": "What is the best way to reheat frozen cooked corn?",
+            "answer": "Steaming the corn directly from frozen without thawing for 10 to 15 minutes yields the best texture and flavor. If using a microwave, sprinkle a little water or wrap the ear in a damp paper towel and heat for 3 to 5 minutes to retain moisture."
+          }
+        ]
+      },
+      "ja": {
+        "title": "とうもろこしを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくとうもろこしの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "とうもろこしを買って常温に数日置いておいたら、粒が硬くなって甘みがなくなってしまった経験はありませんか？🌽\n\nとうもろこしは収穫直後から糖分がどんどん澱粉（デンプン）に変化する非常に足の早い作物のひとつです。常温に放置すると、たった1日で甘みの半分以上が失われ、シャキシャキとした美味しさが損なわれてしまいます。\n\n本記事では、農学および食品安全の専門家が推奨する、とうもろこしの甘みとみずみずしさを最大化する科学的で確実な3段階の保存のコツをご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "皮をむいたまま常温で放置しないでください ⚠️",
+            "desc": "常温では酵素の働きが非常に活発になり、糖分が急激にデンプンへと変化します。皮をむいた状態で常温に置くと水分も急速に蒸発して粒が硬くなるため、購入後すぐに冷蔵保存するか加熱してください。"
+          },
+          {
+            "title": "生のまま冷凍保存しないでください 🚫",
+            "desc": "生のとうもろこしをそのまま冷凍しても酵素の働きは完全に止まらず、保存中に糖分が減少して解凍後に水っぽく硬くなってしまいます。必ず加熱して冷ましてから冷凍してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "皮つきのまま低温冷蔵保存する — 短期冷蔵 (2〜3日間) 📦",
+            "text": "収穫直後の皮は水分蒸発を防ぐ天然の保護膜です。💡保存のコツ：薄皮を1〜2枚残した状態でポリ袋に入れて密閉し、冷蔵庫の野菜室（0〜2℃）で保存してください。酵素の反応を遅らせ、2〜3日間甘みをキープできます。"
+          },
+          {
+            "name": "購入後すぐに蒸して酵素の働きを止める — 糖分保持加熱 🌽",
+            "text": "とうもろこしの甘みを守る最も確実な方法は、糖分がデンプンに変わる前に加熱して酵素を失活させることです。💡保存のコツ：購入後はできるだけ早く蒸し器で蒸すか茹でてください。酵素が破壊され、甘みがデンプン化するプロセスの停止が可能です。"
+          },
+          {
+            "name": "蒸したとうもろこしを冷まして密閉冷凍する — 冷凍保存 (1年間) ❄️",
+            "text": "長期保存する場合は、蒸したとうもろこしの熱を完全に取ってから、1本ずつラップでぴったり包みます。💡保存のコツ：ラップで包んだとうもろこしをジッパーバッグに入れて二重密閉し、冷凍室（-18℃以下）で保存してください。乾燥や冷凍やけを防ぎ、1年間採れたてのようなぷりぷり感を味わえます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "なぜ冷凍する前に必ず蒸さなければならないのですか？",
+            "answer": "とうもろこしに含まれる糖分解酵素は、冷凍温度（-18℃）でも微弱に働いて甘みを低下させます。あらかじめ加熱して酵素を完全に失活（Deactivation）させることで、糖分と水分が保持され、解凍後ももちもちとした食感と甘みを維持できます。"
+          },
+          {
+            "question": "冷凍したとうもろこしを美味しく温め直す方法は？",
+            "answer": "解凍せず凍ったまま蒸し器に入れ、10〜15分ほど蒸し直すのが最もおすすめです。電子レンジを使用する場合は、水を少しかけるか濡らしたキッチンペーパーで包んで3〜5分加熱すると、水分が保たれてジューシーに仕上がります。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持玉米新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解玉米的最佳储存温度、方式和保鲜时长。",
+        "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "您是否曾买回新鲜玉米常温放置几天，结果发现玉米粒变硬且失去了鲜甜口感？🌽\n\n玉米属于采收后糖分极易流失的作物，从采摘那一刻起，内部的糖分就会快速转化为淀粉。常温下存放仅需24小时，玉米中的糖分就会流失过半，严重影响爽甜风味。\n\n本指南将为您介绍由农业及食品安全专家推荐的科学3步玉米保鲜秘诀，帮您最大程度锁定鲜甜与水分。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "切勿剥皮后常温摆放 ⚠️",
+            "desc": "常温下玉米内部的酶活性极高，会促使糖分迅速转化为淀粉。剥皮常温放置还会导致水分加速蒸发，使玉米粒变硬，因此购买后应立即冷藏或蒸煮处理。"
+          },
+          {
+            "title": "切勿生玉米直接冷冻 🚫",
+            "desc": "生玉米直接冷冻无法完全终止酶活性，冷冻期间糖分仍会缓慢流失，解冻后口感会发柴变硬。务必先蒸熟、冷却后再进行冷冻。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "带皮低温冷藏 — 短期冷藏 (2 ~ 3天) 📦",
+            "text": "采收后的外皮是防止水分蒸发的天然保护屏障。💡储存小贴士：保留1 ~ 2层内皮，放入保鲜袋密封，存放在冰箱冷藏室或蔬菜保鲜层（0 ~ 2℃）。这能减缓酶反应，锁住2 ~ 3天的甜度。"
+          },
+          {
+            "name": "购买后立即蒸熟以终止酶活性 — 锁糖加热 🌽",
+            "text": "保住玉米甜味最有效的方法是在糖分转化为淀粉前进行高温加热，破坏酶活性。💡储存小贴士：购买后请尽快用蒸锅蒸熟或煮熟。高温能完全终止糖分向淀粉转化的过程。"
+          },
+          {
+            "name": "蒸熟冷却后紧密包裹冷冻 — 冷冻储存 (1年) ❄️",
+            "text": "如需长期保存，须将蒸熟的玉米彻底晾凉，再用保鲜膜逐根紧密包裹。💡储存小贴士：包好保鲜膜后装入密封拉链袋双层密封，放入冷冻室（-18℃以下）。这能防止冻伤和水分流失，保持长达1年饱满多汁的口感。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "为什么玉米在冷冻前必须先蒸熟？",
+            "answer": "玉米中的分解酶即使在冷冻温度（-18℃）下仍有微弱活性，会导致甜度下降。先蒸熟可以彻底灭活（Deactivation）这些酶，从而完好保存糖分与水分，解冻加热后依然软糯甜鲜。"
+          },
+          {
+            "question": "冷冻的熟玉米怎样加热最美味？",
+            "answer": "无需提前解冻，直接将冷冻玉米放入蒸锅大火蒸10 ~ 15分钟口感最佳。若使用微波炉，可喷少许水或包裹湿厨房纸巾加热3 ~ 5分钟，以防水分流失。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener el maíz fresco: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el maíz según las directrices oficiales de seguridad.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "¿Alguna vez compró mazorcas de maíz frescas, las dejó a temperatura ambiente unos días y descubrió que los granos estaban duros y sin dulzura? 🌽\n\nEl maíz es un cultivo donde el azúcar se convierte rápidamente en almidón a partir del momento de la cosecha. Dejarlo a temperatura ambiente puede hacer que pierda más de la mitad de su azúcar en solo 24 horas, arruinando su sabor dulce y crujiente.\n\nEn esta guía se presenta una guía de conservación del maíz en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria para mantener su máxima dulzura y humedad. 🛡️",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "No deje el maíz pelado a temperatura ambiente ⚠️",
+            "desc": "A temperatura ambiente la actividad enzimática se acelera, convirtiendo rápidamente los azúcares naturales en almidón. Si está sin hojas, la humedad se evapora rápido endureciendo el grano. Refrigere o cocine al vapor de inmediato."
+          },
+          {
+            "title": "No congele la mazorca de maíz cruda 🚫",
+            "desc": "Congelar el maíz crudo no detiene por completo la acción enzimática; el azúcar se sigue degradando durante la congelación y el grano queda duro y fibroso al descongelar. Cocínelo al vapor antes de congelar."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Conserve en frío con las hojas intactas — Refrigeración a corto plazo (2-3 días) 📦",
+            "text": "Las hojas exteriores actúan como una barrera natural para evitar la pérdida de humedad. 💡 Consejo de almacenamiento: Deje 1-2 capas de hojas internas, coloque las mazorcas en bolsas de plástico selladas y guárdelas en el cajón de verduras (0-2 °C)."
+          },
+          {
+            "name": "Cocine al vapor inmediatamente tras la compra — Cocción para retener azúcares 🌽",
+            "text": "La forma más efectiva de fijar la dulzura es inactivar mediante calor las enzimas que convierten el azúcar en almidón. 💡 Consejo de almacenamiento: Hierva o cocine al vapor las mazorcas lo antes posible tras comprarlas. El calor detiene completamente la degradación de los azúcares."
+          },
+          {
+            "name": "Enfríe el maíz cocido, envuélvalo bien y congele — Almacenamiento congelado (1 año) ❄️",
+            "text": "Para un almacenamiento prolongado, deje enfriar por completo el maíz cocido y envuelva cada mazorca firmemente en film transparente. 💡 Consejo de almacenamiento: Guarde en bolsas Ziploc para congelador a menos de -18 °C. Evita quemaduras por congelación y mantiene los granos jugosos durante 1 año."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué se debe cocinar el maíz al vapor antes de congelarlo?",
+            "answer": "Las enzimas que descomponen los azúcares siguen actuando ligeramente incluso a temperaturas de congelación (-18 °C). Cocinar el maíz previamente inactiva estas enzimas por completo, conservando los azúcares y la humedad natural para que permanezca tierno tras recalentar."
+          },
+          {
+            "question": "¿Cuál es la mejor manera de recalentar el maíz congelado?",
+            "answer": "Lo ideal es cocinarlo al vapor directamente desde congelado sin descongelar durante 10 a 15 minutos. Si usa microondas, rocíe un poco de agua o envuelva la mazorca en papel de cocina húmedo y caliente durante 3 a 5 minutos."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver le maïs frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le maïs selon les directives officielles de sécurité.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Avez-vous déjà acheté du maïs frais en épi, l'avez-vous laissé à température ambiante quelques jours pour constater que les grains étaient devenus durs et sans sucre ? 🌽\n\nLe maïs est une culture où le sucre se transforme très rapidement en amidon dès sa récolte. Laisser du maïs à température ambiante peut lui faire perdre plus de la moitié de son sucre en seulement 24 heures, altérant sa saveur douce et croustillante.\n\nDans ce guide, vous présente un guide scientifique de conservation du maïs en 3 étapes recommandé par des experts en sécurité alimentaire pour préserver sa douceur et sa fraîcheur. 🛡️",
+        "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne laissez jamais le maïs effeuillé à température ambiante ⚠️",
+            "desc": "La température ambiante stimule les enzymes qui convertissent les sucres naturels en amidon. Sans ses feuilles, le maïs perd son eau rapidement et les grains durcissent. Réfrigérez ou cuisez-le au vapeur immédiatement après l'achat."
+          },
+          {
+            "title": "Ne congelez pas le maïs cru en épi 🚫",
+            "desc": "Congeler du maïs cru ne stoppe pas totalement l'activité enzymatique : les sucres continuent de se dégrader au congélateur et les grains deviennent caoutchouteux à la décongélation. Cuisez-le toujours à la vapeur avant de congelation."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Conserver au frais avec les feuilles — Réfrigération courte durée (2-3 jours) 📦",
+            "text": "Les spathes (feuilles) extérieures constituent un bouclier naturel contre la déshydratation. 💡 Astuce de conservation : Conservez 1 ou 2 épaisseurs de feuilles, placez les épis dans un sachet plastique fermé et rangez-les dans le bac à légumes (0–2 °C). Cela ralentit l'action enzymatique."
+          },
+          {
+            "name": "Cuire à la vapeur juste après l'achat pour désactiver les enzymes — Fixation des sucres 🌽",
+            "text": "Le moyen le plus efficace de préserver le goût sucré est de chauffer le maïs pour neutraliser les enzymes. 💡 Astuce de conservation : Cuisez les épis à la vapeur ou à l'eau le plus tôt possible après l'achat. La chaleur stoppe définitivement la transformation du sucre en amidon."
+          },
+          {
+            "name": "Laisser refroidir, envelopper hermétiquement et congeler — Stockage congelé (1 an) ❄️",
+            "text": "Pour une longue conservation, laissez refroidir le maïs cuit puis enveloppez chaque épi fermement dans du film étirable. 💡 Astuce de conservation : Placez les épis emballés dans un sac congélation à fermeture hermétique sous -18 °C. Cela prévient la brûlure de congélation et conserve des grains juteux pendant 1 an."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi faut-il impérativement cuire le maïs à la vapeur avant de le congeler ?",
+            "answer": "Les enzymes responsables de la dégradation des sucres restent légèrement actives même à -18 °C. La cuisson préalable détruit complètement ces enzymes, préservant ainsi le sucre naturel et l'eau contenus dans les grains pour qu'ils restent tendres après réchauffage."
+          },
+          {
+            "question": "Quelle est la meilleure méthode pour réchauffer du maïs cuit congelé ?",
+            "answer": "La meilleure méthode consiste à réchauffer l'épi directement congelé à la vapeur pendant 10 à 15 minutes sans décongélation préalable. Au micro-ondes, humectez l'épi ou enveloppez-le dans de l'essuie-tout humide puis chauffez 3 à 5 minutes."
+          }
+        ]
+      },
+      "de": {
+        "title": "Mais richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Maiskolben basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Haben Sie schon einmal frischen Maiskolben gekauft, ihn ein paar Tage bei Raumtemperatur liegen lassen und dann festgestellt, dass die Körner hart und nicht mehr süß waren? 🌽\n\nMais gehört zu den Lebensmitteln, bei denen sich der natürliche Zucker nach der Ernte rasch in Stärke umwandelt. Bei Raumtemperatur verliert Mais innerhalb von nur 24 Stunden mehr als die Hälfte seines Zuckers, wodurch der süße, knackige Geschmack verloren geht.\n\nIn diesem Ratgeber erfahren Sie einen von Agrar- und Lebensmittelsicherheitsexperten empfohlenen, wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die maximale Süße und Feuchtigkeit Ihres Maises zu bewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Geschälten Mais niemals bei Raumtemperatur lagern ⚠️",
+            "desc": "Bei Raumtemperatur läuft die Enzymaktivität auf Hochtouren und wandelt Zucker blitzschnell in Stärke um. Ohne Lieschblätter verdunstet zudem die Feuchtigkeit rasch. Nach dem Kauf sofort kühlen oder dämpfen."
+          },
+          {
+            "title": "Rohen Maiskolben nicht ungekocht einfrieren 🚫",
+            "desc": "Das Einfrieren von rohem Mais stoppt die Enzymaktivität nicht vollständig. Der Zucker baut sich im Gefrierschrank weiter ab und die Körner werden nach dem Auftauen zäh. Mais vor dem Einfrieren immer erst dämpfen oder kochen."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Mit Lieschblättern gekühlt aufbewahren — Kurzeitige Kühllagerung (2–3 Tage) 📦",
+            "text": "Die äußeren Hüllblätter schützen den Mais von Natur aus vor dem Austrocknen. 💡 Lagerungstipp: Belassen Sie 1–2 Schichten der inneren Blätter am Kolben, verpacken Sie ihn in Plastikbeuteln und legen Sie ihn ins Gemüsefach (0–2 °C). Das verlangsamt den Zuckerabbau für 2 bis 3 Tage."
+          },
+          {
+            "name": "Direkt nach dem Kauf dämpfen, um Enzymaktivität zu stoppen — Zuckerfixierung 🌽",
+            "text": "Die sicherste Methode zur Bewahrung der Süße ist das Erhitzen, wodurch zuckerabbauende Enzyme inaktiviert werden. 💡 Lagerungstipp: Dämpfen oder kochen Sie den Mais so schnell wie möglich nach dem Kauf. Die Hitze stoppt die Umwandlung von Zucker in Stärke komplett."
+          },
+          {
+            "name": "Gekochten Mais abkühlen lassen, fest einwickeln und einfrieren — Gefrierlagerung (1 Jahr) ❄️",
+            "text": "Für die Langzeitlagerung lassen Sie den gekochten Mais vollständig abkühlen und wickeln jeden Kolben fest in Frischhaltefolie ein. 💡 Lagerungstipp: Geben Sie die eingewickelten Kolben in Ziploc-Gefrierbeutel unter -18 °C. Das schützt vor Gefrierbrand und hält die Körner 1 Jahr lang prall."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum muss Mais vor dem Einfrieren unbedingt gedämpft oder gekocht werden?",
+            "answer": "Zuckerabbauende Enzyme sind selbst bei Gefriertemperaturen (-18 °C) noch schwach aktiv. Durch das vorherige Dämpfen werden die Enzyme vollständig inaktiviert, sodass Zucker und Feuchtigkeit erhalten bleiben und die Körner auch nach dem Aufwärmen knackig-süß schmecken."
+          },
+          {
+            "question": "Wie erwärmt man gefrorenen gekochten Mais am besten?",
+            "answer": "Am besten dämpft man den Kolben direkt im gefrorenen Zustand ohne vorheriges Auftauen für 10 bis 15 Minuten. In der Mikrowelle beträufeln Sie den Kolben mit etwas Wasser oder wickeln ihn in ein feuchtes Küchenpapier und erhitzen ihn 3 bis 5 Minuten."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar milho fresco: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para o milho com base em diretrizes oficiais de segurança.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Você já comprou espigas de milho frescas, deixou em temperatura ambiente por alguns dias e depois descobriu que os grãos ficaram duros e sem doçura? 🌽\n\nO milho é um alimento onde o açúcar se converte rapidamente em amido logo após a colheita. Deixar o milho em temperatura ambiente pode fazê-lo perder mais da metade do seu açúcar em apenas 24 horas, estragando seu sabor doce e crocante.\n\nNeste guia, apresentamos um guia prático em 3 etapas recomendado por especialistas para manter a doçura e a umidade do seu milho pelo maior tempo possível. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca deixe o milho sem palha em temperatura ambiente ⚠️",
+            "desc": "A temperatura ambiente acelera a atividade enzimática que transforma açúcares em amido. Sem a palha, a umidade evapora rapidamente e os grãos endurecem. Refrigere ou cozinhe no vapor imediatamente após a compra."
+          },
+          {
+            "title": "Não congele a espiga de milho crua 🚫",
+            "desc": "Congelar o milho cru não interrompe totalmente as enzimas, fazendo com que o açúcar continue se degradando no congelador e deixando os grãos duros após o descongelamento. Sempre cozinhe no vapor antes de congelar."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Guardar sob refrigeração com a palha — Armazenamento refrigerado (2 a 3 dias) 📦",
+            "text": "A palha funciona como uma proteção natural que evita a perda de umidade. 💡 Dica de conservação: Deixe 1 a 2 camadas internas de palha, coloque as espigas em sacos plásticos fechados e guarde na gaveta de legumes (0-2 °C). Isso desacelera as enzimas."
+          },
+          {
+            "name": "Cozinhar no vapor logo após a compra para inativar enzimas — Retenção de doçura 🌽",
+            "text": "O modo mais eficaz de preservar o sabor adocicado é aquecer o milho para inativar as enzimas que convertem açúcar em amido. 💡 Dica de conservação: Cozinhe no vapor ou em água fervente o quanto antes após a compra. O calor paralisa essa conversação."
+          },
+          {
+            "name": "Esfriar o milho cozido, embalar bem e congelar — Armazenamento congelado (1 ano) ❄️",
+            "text": "Para conservar a longo prazo, espere o milho cozido esfriar completamente e envolva cada espiga firmemente em filme plástico. 💡 Dica de conservação: Guarde as espigas embaladas em sacos Ziploc no freezer a menos de -18 °C. Isso previne queimaduras de gelo e mantém os grãos suculentos por 1 ano."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que é obrigatório cozinhar o milho no vapor antes de congelar?",
+            "answer": "As enzimas que degradam o açúcar continuam levemente ativas mesmo a -18 °C. O cozimento prévio inativa completamente essas enzimas, preservando os açúcares e a umidade natural para que os grãos continuem macios após reaquecidos."
+          },
+          {
+            "question": "Qual é a melhor forma de reaquecer o milho cozido congelado?",
+            "answer": "O ideal é cozinhar a espiga congelada no vapor por 10 a 15 minutos, sem descongelar antes. No micro-ondas, respingue um pouco de água ou envolva a espiga em papel-toalha úmido e aqueça por 3 a 5 minutos."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Jagung agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk jagung manis berdasarkan pedoman keselamatan resmi.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Pernahkah Anda membeli jagung manis segar, membiarkannya di suhu ruang selama beberapa hari, lalu mendapati bulir jagungnya mengeras dan kehilangan rasa manisnya? 🌽\n\nJagung adalah bahan makanan yang kandungan gulanya dengan cepat berubah menjadi pati (tepung) sesaat setelah dipanen. Membiarkan jagung di suhu ruang dapat menghilangkan lebih dari separuh rasa manis alami alaminya hanya dalam waktu 24 jam.\n\nDalam panduan ini, kami membagikan panduan penyimpanan jagung 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan untuk menjaga kesegaran dan kelezatan jagung Anda. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan membiarkan jagung tanpa kulit di suhu ruang ⚠️",
+            "desc": "Aktivitas enzim di suhu ruang sangat tinggi, dengan cepat mengubah gula alami jagung menjadi pati. Membiarkan jagung tanpa kulit membuat kadar airnya cepat menguap dan bulirnya keras. Segera simpan di kulkas atau kukus setelah dibeli."
+          },
+          {
+            "title": "Jangan membekukan jagung manis dalam keadaan mentah 🚫",
+            "desc": "Membekukan jagung mentah tidak menghentikan aktivitas enzim secara total, sehingga kadar gula terus menurun di freezer dan tekstur bulirnya menjadi liat saat dicairkan. Selalu kukus atau rebus jagung sebelum dibekukan."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Simpan di kulkas dengan kulit tetap menempel — Simpan Dingin (2–3 Hari) 📦",
+            "text": "Kulit luar jagung berfungsi sebagai pelindung alami dari penguapan air. 💡 Tips Penyimpanan: Biarkan 1–2 lapis kulit dalam tetap menempel, masukkan jagung ke dalam kantong plastik tertutup, dan simpan di laci sayur kulkas (0–2°C). Langkah ini memperlambat kerja enzim."
+          },
+          {
+            "name": "Segera kukus setelah dibeli untuk menghentikan kerja enzim — Penguncian Rasa Manis 🌽",
+            "text": "Cara paling efektif untuk mengunci rasa manis jagung adalah dengan memanaskannya guna menonaktifkan enzim pemecah gula. 💡 Tips Penyimpanan: Segera kukus atau rebus jagung begitu dibeli. Panas akan menghentikan proses perubahan gula menjadi pati secara total."
+          },
+          {
+            "name": "Dinginkan jagung matang, bungkus rapat, dan bekukan — Simpan Beku (1 Tahun) ❄️",
+            "text": "Untuk penyimpanan jangka panjang, biarkan jagung kukus dingin sepenuhnya, lalu bungkus setiap tongkol secara rapat dengan plastik wrap. 💡 Tips Penyimpanan: Masukkan ke kantong Ziploc freezer di bawah -18°C. Langkah ini mencegah freezer burn dan menjaga bulir tetap renyah hingga 1 tahun."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa jagung harus dikukus terlebih dahulu sebelum dibekukan?",
+            "answer": "Enzim pemecah gula tetap bekerja lambat meskipun pada suhu freezer (-18°C). Mengukusnya terlebih dahulu akan menonaktifkan enzim tersebut secara total, sehingga kandungan gula dan airnya terjaga dan jagung tetap manis serta empuk saat dipanaskan kembali."
+          },
+          {
+            "question": "Bagaimana cara terbaik memanaskan kembali jagung manis beku?",
+            "answer": "Cara terbaik adalah mengukus kembali tongkol jagung langsung dalam kondisi beku tanpa dicairkan selama 10 hingga 15 menit. Jika menggunakan microwave, percikkan sedikit air atau bungkus dengan tisu dapur basah lalu panaskan selama 3 hingga 5 menit."
+          }
+        ]
+      }
     }
+  }
 }

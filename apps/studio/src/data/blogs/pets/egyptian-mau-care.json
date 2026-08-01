@@ -1,459 +1,459 @@
 {
-    "egyptian-mau-care": {
-        "pubDate": "2026-03-23",
-        "updatedDate": "2026-03-23",
-        "locales": {
-            "ko": {
-                "title": "이집션 마우 자연 발생 점박이 관리와 스피드 충전을 위한 3단계 데일리 케어",
-                "description": "고대 이집트의 유산이자 가장 빠른 집고양이 이집션 마우. 특유의 옆구리 피부 주름(Flank flap) 구조 이해와 원시적 높은 활동성을 채워주는 3단계 맞춤 케어법을 소개합니다.",
-                "authority": "고양이애호가협회(CFA) 및 국제고양이협회(TICA) 품종 표준, 세계고양이수의학회(ISFM) 임상 가이드라인",
-                "profile": {
-                    "breed": "이집션 마우 (Egyptian Mau)",
-                    "lifespan": "12 ~ 15년",
-                    "sleep_pattern": "12 ~ 14시간 (순간적인 고속 활동 후 깊은 휴식)",
-                    "temperament": "민첩함, 영리함, 충성심 높음, 호기심 많음, 독점욕 있음, 경계심 있음"
-                },
-                "intro": "이집션 마우는 인공 교배가 아닌 자연 상태에서 발생한 유일한 점박이 무늬 집고양이이자, 고대 이집트 벽화 속 왕실 고양이의 후손으로 알려진 보석 같은 품종입니다. 신비로운 '구즈베리 그린(Gooseberry green)' 눈빛과 이마의 스카라브(고대 풍뎅이) 문양, 속도감을 극대화하는 뒷다리 옆구리의 피부 주름(Flank flap)을 가지고 있습니다. 집고양이 중 가장 빠른 시속 48km/h 이상의 유연하고 폭발적인 주행 능력을 자랑하기 때문에 수직 공간과 활동성 관리가 필수적입니다. 또한 보호자에 대한 독점욕과 충성심이 강해 세심한 교감이 요구됩니다. 이번 가이드에서는 이집션 마우의 고유 신호를 해석하고 건강한 민첩성을 유지하는 3단계 데일리 케어 루틴을 다룹니다.",
-                "whyTitle": "이집션 마우의 감정 표현: 꼬리 떨림(Tail Wiggling)과 다정한 수다 신호",
-                "whyDesc": "이집션 마우는 기분이 최고조에 달했을 때 마치 소변 표시를 하듯 꼬리를 세우고 빠르게 파르르 떨치는 **'꼬리 떨림(Tail Wiggling)'** 행동으로 애정을 표현합니다. 또한 보호자를 반길 때 보통의 야옹 소리가 아닌 크로클링(Chortling, 챠챠거리는 소리) 형태의 부드러운 수다로 친밀감을 보냅니다.",
-                "body_signals": [
-                    {
-                        "name": "꼬리를 곧게 세우고 파르르 떨기 (Tail Wiggling)",
-                        "meaning": "영역 표시가 아닌, 보호자를 향한 극도의 반가움과 기쁨을 나타내는 이집션 마우 특유의 애정 신호입니다.",
-                        "response": "다정한 목소리로 응대해주고 머리나 뺨 주변을 부드럽게 쓰다듬어 기쁨을 함께 공유합니다."
-                    },
-                    {
-                        "name": "크로클링 소리와 발놀림 (Chortling & Treading)",
-                        "meaning": "보호자와 소통하고 싶어 하는 우호적인 신호로, 함께 놀자고 요청하거나 애정을 요구하는 상태입니다.",
-                        "response": "눈을 맞추며 부드럽게 대화하듯 소리를 내어주고 사냥 장난감으로 교감 놀이를 시작해 줍니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 단모 피복 브러싱 및 구즈베리 눈 상태 점검",
-                        "text": "실크 같은 실버/브론즈 점박이 피모를 실리콘 브러시로 정돈하여 윤기를 유지합니다. 특유의 구즈베리 그린 눈 주변에 눈꼽이나 염증이 없는지 살핍니다."
-                    },
-                    {
-                        "name": "낮: 입체적 수직 공간 활용 및 고속 사냥 놀이",
-                        "text": "Flank flap 주름을 활용해 뛰어오를 수 있는 캣타워와 캣폴을 점검합니다. 낚싯대 장난감으로 시속 48km 본능을 채우는 15~20분간의 고강도 점프 놀이를 진행합니다."
-                    },
-                    {
-                        "name": "저녁: 고단백 영양 급여 및 적정 수분 섭취 케어",
-                        "text": "강인한 근육질 체형을 유지하기 위해 고단백 건/습식 사료를 급여합니다. 활동량이 많은 만큼 신장 및 방광 건강을 위해 음수량을 꼼꼼히 챙깁니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "뱅갈(Bengal) 고양이의 점박이 무늬와 이집션 마우의 차이는 무엇인가요?",
-                        "answer": "뱅갈은 삭스캣과 야생 삵의 교배로 태어난 인공 품종인 반면, 이집션 마우는 피모는 물론 피부 자체에 점박이 무늬가 새겨진 자연 발생 품종입니다. 또한 이집션 마우는 그린 빛 눈과 이마의 M자(스카라브) 문양이 명확한 특징입니다."
-                    },
-                    {
-                        "question": "배와 뒷다리 사이에 늘어진 피부 주름(Flank flap)은 살이 찐 건가요?",
-                        "answer": "아닙니다. 옆구리부터 뒷다리 무릎까지 이어지는 루즈 스킨(Flank flap)은 뒷다리를 뒤로 길게 뻗어 최고 속도로 달릴 수 있게 돕는 이집션 마우의 정식 신체 구조적 특징입니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Egyptian Mau Natural Spot Care and 3-Step Speed-Fueling Daily Routine",
-                "description": "Essential care for the Egyptian Mau, the fastest domestic cat and ancient royal legacy. Understand their unique flank flap anatomy and satisfy their high-speed wild agility.",
-                "authority": "Cat Fanciers' Association (CFA) & TICA Breed Standards, International Society of Feline Medicine (ISFM)",
-                "profile": {
-                    "breed": "Egyptian Mau",
-                    "lifespan": "12 - 15 Years",
-                    "sleep_pattern": "12 - 14 Hours (Deep Recovery Following Explosive High-Speed Activity)",
-                    "temperament": "Agile, Highly Intelligent, Loyal, Curious, Possessive, Reserved with Strangers"
-                },
-                "intro": "The Egyptian Mau is the only naturally spotted breed of domesticated cat and a living treasure descended from the royal felines depicted in ancient Egyptian artwork. They are distinguished by striking 'gooseberry green' eyes, a scarab beetle marking on the forehead, and a unique flap of skin extending from the flank to the hind knee (flank flap). As the fastest domestic cat—capable of reaching speeds up to 30 mph (48 km/h)—providing 3D vertical territory and intense physical exercise is essential. Fiercely loyal and protective of their loved ones, they form deep bonds with their human family. In this guide, decodes Egyptian Mau body language and shares a 3-step daily care routine.",
-                "whyTitle": "Egyptian Mau Communication: Tail Wiggling and Chortling Vocalizations",
-                "whyDesc": "When experiencing intense affection or excitement, Egyptian Maus display a unique **'Tail Wiggling'** behavior, vibrating their upright tail rapidly without spraying. Instead of typical meows, they express joy through a distinctive **'Chortling'** or chattering vocal sound while treading their paws.",
-                "body_signals": [
-                    {
-                        "name": "Upright Tail Vibrating (Tail Wiggling)",
-                        "meaning": "An expression of supreme happiness and affection toward their caregiver, not to be confused with urine marking.",
-                        "response": "Acknowledge their delight with a cheerful voice and gentle petting around their cheeks or neck."
-                    },
-                    {
-                        "name": "Chortling Sound and Paw Treading (Chortling & Treading)",
-                        "meaning": "A friendly social greeting requesting interaction, play, or affection from their trusted human companion.",
-                        "response": "Engage in soft conversation and initiate an active play session with a feather wand."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Short-Coat Grooming & Gooseberry Eye Check",
-                        "text": "Gently brush their silky silver or bronze spotted coat with a rubber brush to maintain shine. Inspect their green eyes for clarity and clean any minor discharge."
-                    },
-                    {
-                        "name": "Afternoon: 3D Vertical Play & High-Speed Agility Exercise",
-                        "text": "Utilize tall cat trees that accommodate their explosive jumping ability. Conduct 15-20 minutes of high-speed chase games with feather wands to satisfy their running instinct."
-                    },
-                    {
-                        "name": "Evening: High-Protein Nutrition & Hydration Management",
-                        "text": "Feed a lean, high-protein diet to support their muscular, athletic build. Ensure ample fresh water access to maintain kidney and urinary tract health."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "How do Egyptian Mau spots differ from Bengal spots?",
-                        "answer": "Bengals are a hybrid breed created by crossing domestic cats with Asian Leopard Cats. Egyptian Maus are a naturally occurring breed whose spots exist on both the fur and underlying skin. Maus also exclusively feature gooseberry green eyes and a scarab forehead pattern."
-                    },
-                    {
-                        "question": "Is the loose skin flap between their belly and hind legs a sign of weight gain?",
-                        "answer": "No, the loose fold of skin extending from the flank to the hind knees (flank flap) is a natural anatomical feature that allows their hind legs to stretch further back, enabling their extraordinary running speeds."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "エジプシャンマウの自然斑点ケアと俊敏性を活かす3ステップ日常ルーティン",
-                "description": "古代エジプトの遺産であり最も速く走る家猫エジプシャンマウ。特徴的な後肢の皮膚のたるみ（フランクフラップ）と高い運動能力に合わせた3ステップケアを解説します。",
-                "authority": "CFAおよびTICA品種標準、国際猫医学会（ISFM）臨床ガイドライン",
-                "profile": {
-                    "breed": "エジプシャンマウ (Egyptian Mau)",
-                    "lifespan": "12 〜 15年",
-                    "sleep_pattern": "12 〜 15時間 (爆発的な高速運動後の深い回復睡眠)",
-                    "temperament": "俊敏、非常に賢い、忠実、好奇心旺盛、独占欲がある、人見知り"
-                },
-                "intro": "エジプシャンマウは、人為的な交配ではなく自然発生した唯一のスポット（斑点）模様を持つ家猫であり、古代エジプトの壁画に描かれた聖なる猫の末裔です。神秘的な「グースベリーグリーン（グースベリーの果実のような緑）」の瞳、額のスカラベ（古代のタマムシ/コガネムシ）模様、そして後肢の動きを滑らかにする「フランクフラップ（皮膚のたるみ）」を持っています。家猫の中で最も速い時速48kmで走ることができるため、立体的な上下運動と高い活動量の維持が不可欠です。飼い主への忠誠心が強い反面、繊細な面もあるため丁寧なコミュニケーションが求められます。本記事では、エジプシャンマウのケア法を紹介します。",
-                "whyTitle": "エジプシャンマウの感情表現：尻尾の震え（テイル・ウィグリング）と可愛らしいおしゃべり",
-                "whyDesc": "エジプシャンマウは嬉しさが最高潮に達すると、尻尾をピンと立てて細かく震わせる**「尻尾の震え（Tail Wiggling）」**で深い情愛を表現します。また、飼い主に話しかける際は通常の「ニャー」ではなく、**「クロークリング（Chortling）」**と呼ばれる独特の愛らしい鳴き声を出します。",
-                "body_signals": [
-                    {
-                        "name": "尻尾を立てて細かく震わせる (Tail Wiggling)",
-                        "meaning": "スプレー行為ではなく、飼い主に対する最大級の親愛と喜びを表すエジプシャンマウ固有の愛嬌表現です。",
-                        "response": "明るい声で応え、頬や首の周りを優しく撫でて喜びを共有してあげましょう。"
-                    },
-                    {
-                        "name": "クロークリング音と足踏み (Chortling & Treading)",
-                        "meaning": "コミュニケーションを求めているフレンドリーなサインで、遊んでほしい時や甘えたい時に見られます。",
-                        "response": "優しく話しかけながら、じゃらしやおもちゃを使って狩りごっこ遊びを始めてあげてください。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：短毛のブラッシングとグースベリーグリーンの目チェック",
-                        "text": "シルクのような斑点被毛をラバーブラシで整え、美しいツヤを維持します。特徴的な緑色の瞳に目ヤニや異常がないか点検します。"
-                    },
-                    {
-                        "name": "昼：立体的な高所環境の確保と高速ジャンプ遊び",
-                        "text": "優れた跳躍力を活かせる高めのキャットタワーを設置します。じゃらしを使って時速48kmの本能を満たす15〜20分間の高強度な狩りごっこを行います。"
-                    },
-                    {
-                        "name": "夜：高タンパクな栄養給餌と水分補給ケア",
-                        "text": "引き締まった筋肉質体を保つため、高タンパク質なフードを与えます。運動量が多いため、腎臓の健康を考慮して新鮮な水を十分に用意します。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "ベンガル（Bengal）のスポット模様とエジプシャンマウの違いは？",
-                        "answer": "ベンガルはアジアンレパードと家猫の交配による人工品種ですが、エジプシャンマウは被毛だけでなく皮膚自体にも斑点が存在する自然発生品種です。また、エジプシャンマウは緑色の目と額のスカラベ模様が明確な特徴です。"
-                    },
-                    {
-                        "question": "お腹と後ろ足の間にある皮膚のたるみ（フランクフラップ）は肥満ですか？",
-                        "answer": "肥満ではありません。後肢から膝まで伸びる皮膚のひだ（フランクフラップ）は、足を後ろへ大きく伸ばして最高速度で走るために存在するエジプシャンマウ特有の正常な解剖学的構造です。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "埃及猫自然斑纹护理与释放高速活力的3阶段日常护理指南",
-                "description": "古埃及王室遗风与家猫界速度之王——埃及猫（Egyptian Mau）。解析其独特的侧腹皮肤褶皱（Flank flap）与保持高敏捷度的3阶段日常护理流程。",
-                "authority": "国际爱猫协会 (CFA) 及 TICA 犬猫品种标准、国际猫科医学会 (ISFM) 临床指南",
-                "profile": {
-                    "breed": "埃及猫 (Egyptian Mau)",
-                    "lifespan": "12 ~ 15年",
-                    "sleep_pattern": "12 ~ 15小时 (爆发性高速运动后的深度恢复睡眠)",
-                    "temperament": "敏捷、极度聪明、忠诚、好奇心强、独占欲强、对陌生人警惕"
-                },
-                "intro": "埃及猫是唯一拥有自然形成斑点被纹的家猫品种，被认为是古埃及壁画中所描绘的神圣王室猫咪的直系后裔。它们拥有如“鹅莓绿 (Gooseberry green)”般清澈的眼眸、额头的圣甲虫 (Scarab) 斑纹，以及延伸至后肢的侧腹皮肤褶皱 (Flank flap)。作为家猫中跑得最快的品种，其奔跑时速可达48公里/小时，因此充足的3D垂直活动空间和爆发性运动至关重要。埃及猫对主人拥有极强的忠诚度与依赖感，需要宠主给予细心的情感陪伴。本指南将解析埃及猫的专属语言并分享3阶段日常护理流程。",
-                "whyTitle": "埃及猫的情感表达：尾巴快速颤抖与特殊的欢快鸣叫",
-                "whyDesc": "当情感达到顶峰或见到亲近的主人时，埃及猫会竖起尾巴并快速**“颤抖尾巴 (Tail Wiggling)”**，以此表达强烈的爱意。此外，它们在交流时很少发出普通喵叫，而是发出特殊的**“咯咯欢叫 (Chortling)”**声并配合踏脚动作。",
-                "body_signals": [
-                    {
-                        "name": "竖起尾巴快速颤抖 (Tail Wiggling)",
-                        "meaning": "并非喷尿标记行为，而是埃及猫对主人表达极致兴奋、欢迎与爱意的专属信号。",
-                        "response": "用温柔的声音回应，并抚摸其头部或面颊，共享重逢的喜悦。"
-                    },
-                    {
-                        "name": "咯咯欢叫与原地踏脚 (Chortling & Treading)",
-                        "meaning": "友好的社交沟通信号，表达渴望与主人互动、游戏或索求抚摸的意图。",
-                        "response": "温柔地与它们对视交谈，并拿出羽毛逗猫棒开启互动游戏。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：短毛梳理与鹅莓绿眼部检查",
-                        "text": "用橡胶梳梳理其丝滑的银色/青铜色斑点被毛。检查其独特的绿眼周围是否有眼屎，保持眼部清洁。"
-                    },
-                    {
-                        "name": "白天：3D垂直空间搭建与高速度捕猎游戏",
-                        "text": "准备能够满足其强大跳跃力的猫树。使用逗猫棒进行15-20分钟的高强度追逐游戏，释放其时速48公里的奔跑本能。"
-                    },
-                    {
-                        "name": "晚上：高蛋白肌肉养护与饮水量管理",
-                        "text": "喂食高蛋白干湿粮以维持其精瘦流线型的肌肉体态。鉴于其巨大的运动量，确保充足的饮水以保护肾脏与泌尿系统。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "孟加拉猫 (Bengal) 的斑纹与埃及猫有什么区别？",
-                        "answer": "孟加拉猫是人工杂交育成的品种；而埃及猫是自然发生的天然品种，其斑点不仅存在于毛发上，也印在皮肤上。此外，埃及猫拥有标志性的绿眼和额头圣甲虫图案。"
-                    },
-                    {
-                        "question": "腹部与后腿之间的皮肤褶皱 (Flank flap) 是肥胖导致的吗？",
-                        "answer": "不是。从侧腹延伸至后膝关节的松弛皮肤褶皱 (Flank flap) 是埃及猫特有的解剖学特征，它能让后腿在奔跑时向后大幅度伸展，从而实现极致的奔跑速度。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cuidado del manto moteado del Mau Egipcio y rutina de 3 pasos para su alta velocidad",
-                "description": "Atenciones para el Mau Egipcio, el gato doméstico más rápido y legado del antiguo Egipto. Descubra su exclusivo pliegue inguinal (flank flap) y cómo canalizar su agilidad.",
-                "authority": "Estándares de CFA y TICA, Sociedad Internacional de Medicina Felina (ISFM)",
-                "profile": {
-                    "breed": "Mau Egipcio (Egyptian Mau)",
-                    "lifespan": "12 ~ 15 años",
-                    "sleep_pattern": "12 ~ 15 horas (sueño reparador tras carreras explosivas de alta velocidad)",
-                    "temperament": "Ágil, extremadamente inteligente, leal, curioso, posesivo, cauto"
-                },
-                "intro": "El Mau Egipcio es la única raza de gato doméstico con un manto moteado de origen completamente natural y un descendiente vivo de los felinos sagrados del antiguo Egipto. Destaca por sus expresivos ojos 'verde grosella' (gooseberry green), la marca del escarabajo en la frente y un pliegue de piel suelto desde el flanco hasta la rodilla trasera (flank flap). Al ser el felino doméstico más veloz —capaz de alcanzar los 48 km/h— es crucial ofrecerle espacio vertical en 3D y juegos de alta intensidad. Leales y devotos a su familia, establecen vínculos muy profundos. En esta guía, desciframos su lenguaje y rutina cotidiana.",
-                "whyTitle": "Comunicación del Mau Egipcio: Vibración de cola y parloteo (Chortling)",
-                "whyDesc": "Cuando siente gran alegría o afecto, el Mau Egipcio realiza una singular **'Vibración de Cola' (Tail Wiggling)** manteniéndola erguida sin marcar territorio. Asimismo, suele comunicarse con sus tutores mediante un dulce chirrido o **'Parloteo' (Chortling)** combinado con el amasado de patas.",
-                "body_signals": [
-                    {
-                        "name": "Vibración de la cola erguida (Tail Wiggling)",
-                        "meaning": "Muestra de inmensa felicidad y bienvenida hacia su cuidador; un rasgo afectivo distintivo de esta raza.",
-                        "response": "Responda con tono afectuoso y acaricie suavemente la zona del cuello o mejillas."
-                    },
-                    {
-                        "name": "Parloteo suave y amasado (Chortling & Treading)",
-                        "meaning": "Señal amistosa de comunicación que expresa el deseo de interactuar, jugar o recibir atención.",
-                        "response": "Habla dulcemente con él e inicia una sesión de juego dinámico con una caña de plumas."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Cepillado del manto corto y revisión ocular",
-                        "text": "Pase un cepillo de goma suave sobre su manto moteado para mantener el brillo. Inspeccione sus ojos verde grosella y limpie pequeñas secreciones si existen."
-                    },
-                    {
-                        "name": "Tarde: Espacio vertical 3D y juego de carrera de alta velocidad",
-                        "text": "Proporcione rascadores altos para sus grandes saltos. Dedique 15-20 minutos a juegos de persecución rápida para satisfacer su instinto de corredor a 48 km/h."
-                    },
-                    {
-                        "name": "Noche: Nutrición rica en proteínas y control de hidratación",
-                        "text": "Ofrezca alimento alto en proteínas para mantener su cuerpo muscular y esbelto. Asegure suficiente agua fresca para proteger sus riñones y vías urinarias."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿En qué se diferencian las motas del Mau Egipcio de las del Bengalí?",
-                        "answer": "El Bengalí es una raza híbrida creada mediante cruces con el gato leopardo asiático; el Mau Egipcio es una raza natural cuyas motas están presentes tanto en el pelo como en la piel. Además, el Mau posee ojos verde grosella y la marca del escarabajo en la frente."
-                    },
-                    {
-                        "question": "¿El pliegue de piel en su abdomen bajo (flank flap) es exceso de peso?",
-                        "answer": "No. El pliegue de piel suelta entre el flanco y las patas traseras (flank flap) es un rasgo anatómico natural que le permite extender completamente las extremidades traseras para alcanzar velocidades de hasta 48 km/h."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Soin de la robe tachetée du Mau Égyptien et routine en 3 étapes pour sa grande vitesse",
-                "description": "Soins essentiels pour le Mau Égyptien, le chat le plus rapide du monde et héritier de l'Égypte antique. Comprenez son repli du flanc (flank flap) et canalisez son agilité.",
-                "authority": "Standards de race CFA & TICA, International Society of Feline Medicine (ISFM)",
-                "profile": {
-                    "breed": "Mau Égyptien (Egyptian Mau)",
-                    "lifespan": "12 ~ 15 ans",
-                    "sleep_pattern": "12 ~ 15 heures (sommeil réparateur après des courses rapides et explosives)",
-                    "temperament": "Agile, très intelligent, loyal, curieux, possessif, méfiant avec les inconnus"
-                },
-                "intro": "Le Mau Égyptien est la seule race de chat domestique à posséder un pelage naturellement tacheté. Descendant direct des chats sacrés de l'Égypte antique, il se distingue par ses yeux 'vert groseille' (gooseberry green), la marque du scarabée sur le front et un repli de peau particulier sous le ventre (flank flap). Élue race domestique la plus rapide au monde —pouvant courir jusqu'à 48 km/h— il nécessite un environnement vertical en 3D et des sessions de jeu intenses. Féroce loyal envers ses proches, c'est un compagnon fascinant. Dans ce guide, vous livre son guide de soins.",
-                "whyTitle": "Communication du Mau Égyptien : Frémissement de la queue et gloussements (Chortling)",
-                "whyDesc": "Lorsqu'il ressent une grande joie, le Mau Égyptien fait **'Frémir sa Queue' (Tail Wiggling)** dressée vers el haut, sans marquer son territoire. Il exprime aussi sa complicité par des **'Gloussements' (Chortling)** doux et des piétinements de pattes très expressifs.",
-                "body_signals": [
-                    {
-                        "name": "Frémissement de la queue dressée (Tail Wiggling)",
-                        "meaning": "Preuve d'un bonheur intense et d'une salutation chaleureuse envers son maître, spécifique à cette race.",
-                        "response": "Répondez avec une voix douce et caressez-lui délicatement les joues ou le cou."
-                    },
-                    {
-                        "name": "Gloussements doux et piétinement (Chortling & Treading)",
-                        "meaning": "Signal social amical indiquant une envie d'interagir, de jouer ou de recevoir des caresses.",
-                        "response": "Échangez quelques mots avec lui et lancez une session de jeu active avec un plumet."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Brossage du poil court et vérification des yeux",
-                        "text": "Utilisez une brosse en caoutchouc doux sur sa fourrure tachetée pour faire briller le poil. Contrôlez ses yeux vert groseille et nettoyez les petites impuretés."
-                    },
-                    {
-                        "name": "Après-midi : Aménagement vertical 3D et jeu de course rapide",
-                        "text": "Installez des arbres à chat hauts pour ses sauts phénoménaux. Proposez 15 à 20 minutes de jeu de poursuite rapide pour combler son besoin de courir."
-                    },
-                    {
-                        "name": "Soir : Repas riche en protéines et hydratation",
-                        "text": "Proposez une alimentation riche en protéines pour entretenir sa musculature athlétique. Veillez à un apport en eau suffisant pour préserver sa santé urinaire."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Quelle est la différence entre les taches du Bengal et du Mau Égyptien ?",
-                        "answer": "Le Bengal est issu de croisements hybrides avec le chat-léopard asiatique, tandis que le Mau Égyptien est une race naturelle dont les taches existent aussi sur la peau. Le Mau a également des yeux vert groseille et le motif du scarabée sur le front."
-                    },
-                    {
-                        "question": "Le pli de peau sous son ventre (flank flap) est-il dû au surpoids ?",
-                        "answer": "Non. Le repli de peau souple allant du flanc au genou arrière (flank flap) est une particularité anatomique naturelle qui permet à ses pattes arrière de s'étendre au maximum pour atteindre 48 km/h."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Egyptian Mau Pflege der natürlichen Tupfen & 3-Schritte-Tagesroutine für High-Speed",
-                "description": "Pflege für die Egyptian Mau – die schnellste Hauskatze und Erbe des alten Ägypten. Verstehen Sie die Flankenfalte (Flank flap) und fördern Sie ihre wilde Agilität.",
-                "authority": "CFA & TICA Rassestandards, International Society of Feline Medicine (ISFM)",
-                "profile": {
-                    "breed": "Egyptian Mau",
-                    "lifespan": "12 ~ 15 Jahre",
-                    "sleep_pattern": "12 ~ 15 Stunden (Tiefenschlaf nach explosiver High-Speed-Aktivität)",
-                    "temperament": "Flink, hochintelligent, loyal, neugierig, besitzergreifend, zurückhaltend"
-                },
-                "intro": "Die Egyptian Mau ist die einzige natürlich getupfte Hauskatzenrasse der Welt und ein lebendes Erbe der heiligen Katzen des alten Ägypten. Sie zeichnet sich durch stachelbeergrüne Augen (Gooseberry green), die Skarabäus-Zeichnung auf der Stirn und eine einzigartige Flankenfalte (Flank flap) aus. Als schnellste Hauskatze – mit Geschwindigkeiten von bis zu 48 km/h – benötigt sie dreidimensionale Klettermöglichkeiten und intensive Bewegung. Mau-Katzen bauen eine extrem tiefe Bindung zu ihren Menschen auf.  entschlüsselt ihre Körpersprache und stellt eine 3-Schritte-Routine vor.",
-                "whyTitle": "Kommunikation der Egyptian Mau: Schwanzzittern und Chortling-Laute",
-                "whyDesc": "Bei großer Freude zeigt die Egyptian Mau ein charakteristisches **'Schwanzzittern' (Tail Wiggling)** mit steil aufgerichtetem Schwanz. Statt eines normalen Miauens drückt sie ihr Wohlbefinden durch sanftes **'Chortling'** (glucksendes Schnattern) und Tretpformatation aus.",
-                "body_signals": [
-                    {
-                        "name": "Zittern des aufgerichteten Schwanzes (Tail Wiggling)",
-                        "meaning": "Ausdruck von extremer Freude und Begrüßung gegenüber der Bezugsperson (kein Markierverhalten).",
-                        "response": "Antworten Sie mit freundlicher Stimme und streicheln Sie sanft die Wangen oder den Hals."
-                    },
-                    {
-                        "name": "Glucksendes Schnattern und Tretpformatation (Chortling & Treading)",
-                        "meaning": "Freundliches Kontaktangebot mit dem Wunsch nach Interaktion, Spiel oder Streicheleinheiten.",
-                        "response": "Sprechen Sie leise mit ihr und starten Sie ein aktives Spiel mit einer Spielangel."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Kurzfell-Pflege & Augen-Check",
-                        "text": "Pflegen Sie das seidige, getupfte Fell mit einer weichen Gummibürste. Kontrollieren Sie die grünen Augen auf Klarheit und entfernen Sie sanft Schlafensspuren."
-                    },
-                    {
-                        "name": "Nachmittag: 3D-Kletterwelt & High-Speed-Rennspiele",
-                        "text": "Bieten Sie hohe Kratzbäume für ihre enormen Sprünge. Führen Sie 15-20 Minuten lang schnelle Verfolgungsspiele durch, um den Laufbetrieb mit 48 km/h auszulasten."
-                    },
-                    {
-                        "name": "Abend: Proteinreiche Nahrung & Flüssigkeitskontrolle",
-                        "text": "Füttern Sie hochwertiges, proteinreiches Futter zur Erhaltung der geschmeidigen Muskeln. Achten Sie auf eine gute Wasseraufnahme zur Nierenvorsorge."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Wie unterscheiden sich die Tupfen der Egyptian Mau von denen der Bengal?",
-                        "answer": "Die Bengal ist eine Hybridrasse aus der Verpaarung mit der asiatischen Leopardkatze. Die Egyptian Mau ist eine natürliche Rasse, deren Tupfen sowohl im Fell als auch auf der Haut sichtbar sind. Zudem hat die Mau immer stachelbeergrüne Augen."
-                    },
-                    {
-                        "question": "Ist die lose Hautfalte am Bauch (Flank flap) Übergewicht?",
-                        "answer": "Nein, die lose Hautfalte zwischen Flanke und Hinterbein (Flank flap) ist eine natürliche anatomische Besonderheit. Sie ermöglicht es den Hinterbeinen, sich extrem weit nach hinten zu strecken, was die hohe Laufgeschwindigkeit erst möglich macht."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Cuidados com a pelagem pintada do Egyptian Mau e rotina diária de 3 passos para alta velocidade",
-                "description": "Cuidados essenciais para o Egyptian Mau, o gato doméstico mais rápido e legado do Egito Antigo. Entenda a dobra do flanco (flank flap) e estimule sua agilidade.",
-                "authority": "Padrões de Raça da CFA e TICA, Sociedade Internacional de Medicina Felina (ISFM)",
-                "profile": {
-                    "breed": "Egyptian Mau",
-                    "lifespan": "12 ~ 15 anos",
-                    "sleep_pattern": "12 ~ 15 horas (sono reparador após corridas de alta velocidade)",
-                    "temperament": "Ágil, altamente inteligente, leal, curioso, possessivo, reservado com estranhos"
-                },
-                "intro": "O Egyptian Mau é a única raça de gato doméstico com pelagem pintada de origem totalmente natural, considerado um descendente vivo dos gatos sagrados do Egito Antigo. Destaca-se pelos olhos 'verde-groselha' (gooseberry green), a marca do escaravelho na testa e uma dobra de pele solta do flanco ao joelho traseiro (flank flap). Sendo o gato doméstico mais rápido do mundo —capaz de atingir 48 km/h— necessita de espaço vertical 3D e exercícios intensos. Fiel e devoto à família, cria laços profundos. Neste guia, apresentamos mos o seu guia completo de cuidados.",
-                "whyTitle": "Comunicação do Egyptian Mau: Vibração da cauda e gorgolejos (Chortling)",
-                "whyDesc": "Ao sentir grande alegria ou afeto, o Egyptian Mau demonstra a **'Vibração da Cauda' (Tail Wiggling)** mantendo-a ereta. Além disso, comunica-se através de um característico som de gorgolejo suave (**'Chortling'**) acompanhado pelo patinar das patas.",
-                "body_signals": [
-                    {
-                        "name": "Vibração da cauda ereta (Tail Wiggling)",
-                        "meaning": "Sinal de extrema felicidade e saudação calorosa ao tutor; uma característica afetiva marcante da raça.",
-                        "response": "Responda com tom carinhoso e faça carinho suave nas bochechas ou no pescoço."
-                    },
-                    {
-                        "name": "Som de gorgolejo e patinar de patas (Chortling & Treading)",
-                        "meaning": "Sinal amigável de comunicação expressando o desejo de interagir, brincar ou receber carinho.",
-                        "response": "Fale suavemente com ele e inicie uma sessão de brincadeira ativa com uma varinha de penas."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Escovação da pelagem curta e checagem dos olhos",
-                        "text": "Passe uma escova de borracha macia na pelagem pintada para manter o brilho. Inspecione os olhos verde-groselha e limpe eventuais secreções."
-                    },
-                    {
-                        "name": "Tarde: Espaço vertical 3D e corrida de alta velocidade",
-                        "text": "Proporcione arranhadores altos para os seus saltos potentes. Dedique 15 a 20 minutos a jogos de perseguição rápida para satisfazer o seu instinto de corredor."
-                    },
-                    {
-                        "name": "Noite: Nutrição rica em proteínas e controle de hidratação",
-                        "text": "Ofereça alimento rico em proteínas para manter o corpo muscular e esbelto. Garanta água fresca abundante para proteger a saúde renal."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Qual a diferença entre as pintas do Bengal e do Egyptian Mau?",
-                        "answer": "O Bengal é uma raça híbrida criada a partir do gato-leopardo asiático. O Egyptian Mau é uma raça natural cujas pintas estão presentes no pelo e na pele. O Mau também possui olhos verde-groselha e o desenho do escaravelho na testa."
-                    },
-                    {
-                        "question": "A dobra de pele no abdômen (flank flap) é excesso de peso?",
-                        "answer": "Não. A dobra de pele solta entre o flanco e as patas traseiras (flank flap) é uma característica anatômica natural que permite esticar totalmente as extremidades posteriores para atingir até 48 km/h."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Perawatan Bulu Bintik Alami Egyptian Mau dan Rutinitas Harian 3 Langkah Kecepatan Tinggi",
-                "description": "Perawatan esensial untuk Egyptian Mau, kucing domestik tercepat dan warisan Mesir Kuno. Pahami lipatan kulit samping (flank flap) dan salurkan kelincahan alaminya.",
-                "authority": "Standar Ras CFA & TICA, International Society of Feline Medicine (ISFM)",
-                "profile": {
-                    "breed": "Egyptian Mau",
-                    "lifespan": "12 ~ 15 tahun",
-                    "sleep_pattern": "12 ~ 15 jam (tidur pulas pemulihan setelah aktivitas berlari cepat)",
-                    "temperament": "Lincah, sangat cerdas, setia, ingin tahu, posesif, waspada terhadap orang asing"
-                },
-                "intro": "Egyptian Mau adalah satu-satunya ras kucing domestik dengan pola bintik yang terbentuk secara alami, serta diyakini sebagai keturunan langsung kucing kerajaan Mesir Kuno. Kucing ini memiliki mata hijau gooseberry yang indah, tanda kumbang scarab di dahi, serta lipatan kulit longgar dari pinggang hingga lutut belakang (flank flap). Sebagai kucing rumah tercepat di dunia yang dapat berlari hingga 48 km/jam, penyediaan area vertikal 3D dan stimulasi fisik berkecepatan tinggi sangat penting. Dalam panduan ini, membagikan panduan bahasa tubuh dan rutinitas perawatan 3 langkahnya.",
-                "whyTitle": "Komunikasi Egyptian Mau: Getaran Ekor (Tail Wiggling) dan Suara Kekehan (Chortling)",
-                "whyDesc": "Saat merasakan kebahagiaan atau kasih sayang yang mendalam, Egyptian Mau akan menegakkan ekornya dan melakukan **'Getaran Ekor' (Tail Wiggling)** yang cepat. Mereka juga menyapa pemiliknya bukan dengan mengeong biasa, melainkan dengan suara **'Kekehan' (Chortling)** yang lembut.",
-                "body_signals": [
-                    {
-                        "name": "Ekor Tegak Bergetar Cepat (Tail Wiggling)",
-                        "meaning": "Ungkapan kegembiraan luar biasa dan rasa selamat datang kepada pemiliknya; ciri khas kasih sayang ras ini.",
-                        "response": "Sambut dengan suara ramah dan elus lembut area pipi atau lehernya."
-                    },
-                    {
-                        "name": "Suara Kekehan Lembut dan Gerakan Meredam (Chortling & Treading)",
-                        "meaning": "Sinyal komunikasi ramah yang menunjukkan keinginan untuk berinteraksi, bermain, atau dimanja.",
-                        "response": "Ajak berbicara dengan lembut dan mulailah permainan aktif menggunakan pancingan bulu."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Menyisir Bulu Pendek & Pemeriksaan Mata Gooseberry",
-                        "text": "Sisir bulu halus berbintiknya dengan sikat karet lembut agar berkilau. Periksa kebersihan matanya yang berwarna hijau gooseberry dari kotoran mata."
-                    },
-                    {
-                        "name": "Siang: Area Vertikal 3D & Permainan Berlari Kecepatan Tinggi",
-                        "text": "Sediakan cat tree tinggi untuk mendukung kemampuan melompatnya. Lakukan permainan berburu cepat selama 15-20 menit untuk memuaskan insting berlari 48 km/jam."
-                    },
-                    {
-                        "name": "Malam: Nutrisi Tinggi Protein & Manajemen Cairan",
-                        "text": "Berikan makanan tinggi protein untuk menjaga otot tubuhnya tetap ramping dan atletis. Pastikan air minum selalu tersedia demi kesehatan ginjalnya."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apa perbedaan antara bintik pada Bengal dan Egyptian Mau?",
-                        "answer": "Bengal adalah ras hibrida hasil persilangan dengan kucing kuwuk Asia (Asian Leopard Cat). Egyptian Mau adalah ras alami yang bintiknya terdapat pada bulu sekaligus kulitnya. Mau juga memiliki mata hijau gooseberry dan tanda scarab di dahi."
-                    },
-                    {
-                        "question": "Apakah lipatan kulit di perut belakangnya (flank flap) adalah tanda kegemukan?",
-                        "answer": "Bukan. Lipatan kulit longgar antara pinggang dan kaki belakang (flank flap) adalah ciri anatomi alami yang memungkinkan kaki belakangnya meregang maksimal saat berlari hingga 48 km/jam."
-                    }
-                ]
-            }
+  "egyptian-mau-care": {
+    "pubDate": "2026-03-23",
+    "updatedDate": "2026-03-23",
+    "locales": {
+      "ko": {
+        "title": "이집션 마우 자연 발생 점박이 관리와 스피드 충전을 위한 3단계 데일리 케어",
+        "description": "고대 이집트의 유산이자 가장 빠른 집고양이 이집션 마우. 특유의 옆구리 피부 주름(Flank flap) 구조 이해와 원시적 높은 활동성을 채워주는 3단계 맞춤 케어법을 소개합니다.",
+        "authority": "고양이애호가협회(CFA) 및 국제고양이협회(TICA) 품종 표준, 세계고양이수의학회(ISFM) 임상 가이드라인",
+        "profile": {
+          "breed": "이집션 마우 (Egyptian Mau)",
+          "lifespan": "12 ~ 15년",
+          "sleep_pattern": "12 ~ 14시간 (순간적인 고속 활동 후 깊은 휴식)",
+          "temperament": "민첩함, 영리함, 충성심 높음, 호기심 많음, 독점욕 있음, 경계심 있음"
         },
-        "heroImage": "/images/blog/egyptian_mau_care.webp"
-    }
+        "intro": "이집션 마우는 인공 교배가 아닌 자연 상태에서 발생한 유일한 점박이 무늬 집고양이이자, 고대 이집트 벽화 속 왕실 고양이의 후손으로 알려진 보석 같은 품종입니다. 신비로운 '구즈베리 그린(Gooseberry green)' 눈빛과 이마의 스카라브(고대 풍뎅이) 문양, 속도감을 극대화하는 뒷다리 옆구리의 피부 주름(Flank flap)을 가지고 있습니다. 집고양이 중 가장 빠른 시속 48km/h 이상의 유연하고 폭발적인 주행 능력을 자랑하기 때문에 수직 공간과 활동성 관리가 필수적입니다. 또한 보호자에 대한 독점욕과 충성심이 강해 세심한 교감이 요구됩니다. 이번 가이드에서는 이집션 마우의 고유 신호를 해석하고 건강한 민첩성을 유지하는 3단계 데일리 케어 루틴을 다룹니다.",
+        "whyTitle": "이집션 마우의 감정 표현: 꼬리 떨림(Tail Wiggling)과 다정한 수다 신호",
+        "whyDesc": "이집션 마우는 기분이 최고조에 달했을 때 마치 소변 표시를 하듯 꼬리를 세우고 빠르게 파르르 떨치는 **'꼬리 떨림(Tail Wiggling)'** 행동으로 애정을 표현합니다. 또한 보호자를 반길 때 보통의 야옹 소리가 아닌 크로클링(Chortling, 챠챠거리는 소리) 형태의 부드러운 수다로 친밀감을 보냅니다.",
+        "body_signals": [
+          {
+            "name": "꼬리를 곧게 세우고 파르르 떨기 (Tail Wiggling)",
+            "meaning": "영역 표시가 아닌, 보호자를 향한 극도의 반가움과 기쁨을 나타내는 이집션 마우 특유의 애정 신호입니다.",
+            "response": "다정한 목소리로 응대해주고 머리나 뺨 주변을 부드럽게 쓰다듬어 기쁨을 함께 공유합니다."
+          },
+          {
+            "name": "크로클링 소리와 발놀림 (Chortling & Treading)",
+            "meaning": "보호자와 소통하고 싶어 하는 우호적인 신호로, 함께 놀자고 요청하거나 애정을 요구하는 상태입니다.",
+            "response": "눈을 맞추며 부드럽게 대화하듯 소리를 내어주고 사냥 장난감으로 교감 놀이를 시작해 줍니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 단모 피복 브러싱 및 구즈베리 눈 상태 점검",
+            "text": "실크 같은 실버/브론즈 점박이 피모를 실리콘 브러시로 정돈하여 윤기를 유지합니다. 특유의 구즈베리 그린 눈 주변에 눈꼽이나 염증이 없는지 살핍니다."
+          },
+          {
+            "name": "낮: 입체적 수직 공간 활용 및 고속 사냥 놀이",
+            "text": "Flank flap 주름을 활용해 뛰어오를 수 있는 캣타워와 캣폴을 점검합니다. 낚싯대 장난감으로 시속 48km 본능을 채우는 15~20분간의 고강도 점프 놀이를 진행합니다."
+          },
+          {
+            "name": "저녁: 고단백 영양 급여 및 적정 수분 섭취 케어",
+            "text": "강인한 근육질 체형을 유지하기 위해 고단백 건/습식 사료를 급여합니다. 활동량이 많은 만큼 신장 및 방광 건강을 위해 음수량을 꼼꼼히 챙깁니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "뱅갈(Bengal) 고양이의 점박이 무늬와 이집션 마우의 차이는 무엇인가요?",
+            "answer": "뱅갈은 삭스캣과 야생 삵의 교배로 태어난 인공 품종인 반면, 이집션 마우는 피모는 물론 피부 자체에 점박이 무늬가 새겨진 자연 발생 품종입니다. 또한 이집션 마우는 그린 빛 눈과 이마의 M자(스카라브) 문양이 명확한 특징입니다."
+          },
+          {
+            "question": "배와 뒷다리 사이에 늘어진 피부 주름(Flank flap)은 살이 찐 건가요?",
+            "answer": "아닙니다. 옆구리부터 뒷다리 무릎까지 이어지는 루즈 스킨(Flank flap)은 뒷다리를 뒤로 길게 뻗어 최고 속도로 달릴 수 있게 돕는 이집션 마우의 정식 신체 구조적 특징입니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Egyptian Mau Natural Spot Care and 3-Step Speed-Fueling Daily Routine",
+        "description": "Essential care for the Egyptian Mau, the fastest domestic cat and ancient royal legacy. Understand their unique flank flap anatomy and satisfy their high-speed wild agility.",
+        "authority": "Cat Fanciers' Association (CFA) & TICA Breed Standards, International Society of Feline Medicine (ISFM)",
+        "profile": {
+          "breed": "Egyptian Mau",
+          "lifespan": "12 - 15 Years",
+          "sleep_pattern": "12 - 14 Hours (Deep Recovery Following Explosive High-Speed Activity)",
+          "temperament": "Agile, Highly Intelligent, Loyal, Curious, Possessive, Reserved with Strangers"
+        },
+        "intro": "The Egyptian Mau is the only naturally spotted breed of domesticated cat and a living treasure descended from the royal felines depicted in ancient Egyptian artwork. They are distinguished by striking 'gooseberry green' eyes, a scarab beetle marking on the forehead, and a unique flap of skin extending from the flank to the hind knee (flank flap). As the fastest domestic cat—capable of reaching speeds up to 30 mph (48 km/h)—providing 3D vertical territory and intense physical exercise is essential. Fiercely loyal and protective of their loved ones, they form deep bonds with their human family. In this guide, decodes Egyptian Mau body language and shares a 3-step daily care routine.",
+        "whyTitle": "Egyptian Mau Communication: Tail Wiggling and Chortling Vocalizations",
+        "whyDesc": "When experiencing intense affection or excitement, Egyptian Maus display a unique **'Tail Wiggling'** behavior, vibrating their upright tail rapidly without spraying. Instead of typical meows, they express joy through a distinctive **'Chortling'** or chattering vocal sound while treading their paws.",
+        "body_signals": [
+          {
+            "name": "Upright Tail Vibrating (Tail Wiggling)",
+            "meaning": "An expression of supreme happiness and affection toward their caregiver, not to be confused with urine marking.",
+            "response": "Acknowledge their delight with a cheerful voice and gentle petting around their cheeks or neck."
+          },
+          {
+            "name": "Chortling Sound and Paw Treading (Chortling & Treading)",
+            "meaning": "A friendly social greeting requesting interaction, play, or affection from their trusted human companion.",
+            "response": "Engage in soft conversation and initiate an active play session with a feather wand."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Short-Coat Grooming & Gooseberry Eye Check",
+            "text": "Gently brush their silky silver or bronze spotted coat with a rubber brush to maintain shine. Inspect their green eyes for clarity and clean any minor discharge."
+          },
+          {
+            "name": "Afternoon: 3D Vertical Play & High-Speed Agility Exercise",
+            "text": "Utilize tall cat trees that accommodate their explosive jumping ability. Conduct 15-20 minutes of high-speed chase games with feather wands to satisfy their running instinct."
+          },
+          {
+            "name": "Evening: High-Protein Nutrition & Hydration Management",
+            "text": "Feed a lean, high-protein diet to support their muscular, athletic build. Ensure ample fresh water access to maintain kidney and urinary tract health."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "How do Egyptian Mau spots differ from Bengal spots?",
+            "answer": "Bengals are a hybrid breed created by crossing domestic cats with Asian Leopard Cats. Egyptian Maus are a naturally occurring breed whose spots exist on both the fur and underlying skin. Maus also exclusively feature gooseberry green eyes and a scarab forehead pattern."
+          },
+          {
+            "question": "Is the loose skin flap between their belly and hind legs a sign of weight gain?",
+            "answer": "No, the loose fold of skin extending from the flank to the hind knees (flank flap) is a natural anatomical feature that allows their hind legs to stretch further back, enabling their extraordinary running speeds."
+          }
+        ]
+      },
+      "ja": {
+        "title": "エジプシャンマウの自然斑点ケアと俊敏性を活かす3ステップ日常ルーティン",
+        "description": "古代エジプトの遺産であり最も速く走る家猫エジプシャンマウ。特徴的な後肢の皮膚のたるみ（フランクフラップ）と高い運動能力に合わせた3ステップケアを解説します。",
+        "authority": "CFAおよびTICA品種標準、国際猫医学会（ISFM）臨床ガイドライン",
+        "profile": {
+          "breed": "エジプシャンマウ (Egyptian Mau)",
+          "lifespan": "12 〜 15年",
+          "sleep_pattern": "12 〜 15時間 (爆発的な高速運動後の深い回復睡眠)",
+          "temperament": "俊敏、非常に賢い、忠実、好奇心旺盛、独占欲がある、人見知り"
+        },
+        "intro": "エジプシャンマウは、人為的な交配ではなく自然発生した唯一のスポット（斑点）模様を持つ家猫であり、古代エジプトの壁画に描かれた聖なる猫の末裔です。神秘的な「グースベリーグリーン（グースベリーの果実のような緑）」の瞳、額のスカラベ（古代のタマムシ/コガネムシ）模様、そして後肢の動きを滑らかにする「フランクフラップ（皮膚のたるみ）」を持っています。家猫の中で最も速い時速48kmで走ることができるため、立体的な上下運動と高い活動量の維持が不可欠です。飼い主への忠誠心が強い反面、繊細な面もあるため丁寧なコミュニケーションが求められます。本記事では、エジプシャンマウのケア法を紹介します。",
+        "whyTitle": "エジプシャンマウの感情表現：尻尾の震え（テイル・ウィグリング）と可愛らしいおしゃべり",
+        "whyDesc": "エジプシャンマウは嬉しさが最高潮に達すると、尻尾をピンと立てて細かく震わせる**「尻尾の震え（Tail Wiggling）」**で深い情愛を表現します。また、飼い主に話しかける際は通常の「ニャー」ではなく、**「クロークリング（Chortling）」**と呼ばれる独特の愛らしい鳴き声を出します。",
+        "body_signals": [
+          {
+            "name": "尻尾を立てて細かく震わせる (Tail Wiggling)",
+            "meaning": "スプレー行為ではなく、飼い主に対する最大級の親愛と喜びを表すエジプシャンマウ固有の愛嬌表現です。",
+            "response": "明るい声で応え、頬や首の周りを優しく撫でて喜びを共有してあげましょう。"
+          },
+          {
+            "name": "クロークリング音と足踏み (Chortling & Treading)",
+            "meaning": "コミュニケーションを求めているフレンドリーなサインで、遊んでほしい時や甘えたい時に見られます。",
+            "response": "優しく話しかけながら、じゃらしやおもちゃを使って狩りごっこ遊びを始めてあげてください。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：短毛のブラッシングとグースベリーグリーンの目チェック",
+            "text": "シルクのような斑点被毛をラバーブラシで整え、美しいツヤを維持します。特徴的な緑色の瞳に目ヤニや異常がないか点検します。"
+          },
+          {
+            "name": "昼：立体的な高所環境の確保と高速ジャンプ遊び",
+            "text": "優れた跳躍力を活かせる高めのキャットタワーを設置します。じゃらしを使って時速48kmの本能を満たす15〜20分間の高強度な狩りごっこを行います。"
+          },
+          {
+            "name": "夜：高タンパクな栄養給餌と水分補給ケア",
+            "text": "引き締まった筋肉質体を保つため、高タンパク質なフードを与えます。運動量が多いため、腎臓の健康を考慮して新鮮な水を十分に用意します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ベンガル（Bengal）のスポット模様とエジプシャンマウの違いは？",
+            "answer": "ベンガルはアジアンレパードと家猫の交配による人工品種ですが、エジプシャンマウは被毛だけでなく皮膚自体にも斑点が存在する自然発生品種です。また、エジプシャンマウは緑色の目と額のスカラベ模様が明確な特徴です。"
+          },
+          {
+            "question": "お腹と後ろ足の間にある皮膚のたるみ（フランクフラップ）は肥満ですか？",
+            "answer": "肥満ではありません。後肢から膝まで伸びる皮膚のひだ（フランクフラップ）は、足を後ろへ大きく伸ばして最高速度で走るために存在するエジプシャンマウ特有の正常な解剖学的構造です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "埃及猫自然斑纹护理与释放高速活力的3阶段日常护理指南",
+        "description": "古埃及王室遗风与家猫界速度之王——埃及猫（Egyptian Mau）。解析其独特的侧腹皮肤褶皱（Flank flap）与保持高敏捷度的3阶段日常护理流程。",
+        "authority": "国际爱猫协会 (CFA) 及 TICA 犬猫品种标准、国际猫科医学会 (ISFM) 临床指南",
+        "profile": {
+          "breed": "埃及猫 (Egyptian Mau)",
+          "lifespan": "12 ~ 15年",
+          "sleep_pattern": "12 ~ 15小时 (爆发性高速运动后的深度恢复睡眠)",
+          "temperament": "敏捷、极度聪明、忠诚、好奇心强、独占欲强、对陌生人警惕"
+        },
+        "intro": "埃及猫是唯一拥有自然形成斑点被纹的家猫品种，被认为是古埃及壁画中所描绘的神圣王室猫咪的直系后裔。它们拥有如“鹅莓绿 (Gooseberry green)”般清澈的眼眸、额头的圣甲虫 (Scarab) 斑纹，以及延伸至后肢的侧腹皮肤褶皱 (Flank flap)。作为家猫中跑得最快的品种，其奔跑时速可达48公里/小时，因此充足的3D垂直活动空间和爆发性运动至关重要。埃及猫对主人拥有极强的忠诚度与依赖感，需要宠主给予细心的情感陪伴。本指南将解析埃及猫的专属语言并分享3阶段日常护理流程。",
+        "whyTitle": "埃及猫的情感表达：尾巴快速颤抖与特殊的欢快鸣叫",
+        "whyDesc": "当情感达到顶峰或见到亲近的主人时，埃及猫会竖起尾巴并快速**“颤抖尾巴 (Tail Wiggling)”**，以此表达强烈的爱意。此外，它们在交流时很少发出普通喵叫，而是发出特殊的**“咯咯欢叫 (Chortling)”**声并配合踏脚动作。",
+        "body_signals": [
+          {
+            "name": "竖起尾巴快速颤抖 (Tail Wiggling)",
+            "meaning": "并非喷尿标记行为，而是埃及猫对主人表达极致兴奋、欢迎与爱意的专属信号。",
+            "response": "用温柔的声音回应，并抚摸其头部或面颊，共享重逢的喜悦。"
+          },
+          {
+            "name": "咯咯欢叫与原地踏脚 (Chortling & Treading)",
+            "meaning": "友好的社交沟通信号，表达渴望与主人互动、游戏或索求抚摸的意图。",
+            "response": "温柔地与它们对视交谈，并拿出羽毛逗猫棒开启互动游戏。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：短毛梳理与鹅莓绿眼部检查",
+            "text": "用橡胶梳梳理其丝滑的银色/青铜色斑点被毛。检查其独特的绿眼周围是否有眼屎，保持眼部清洁。"
+          },
+          {
+            "name": "白天：3D垂直空间搭建与高速度捕猎游戏",
+            "text": "准备能够满足其强大跳跃力的猫树。使用逗猫棒进行15-20分钟的高强度追逐游戏，释放其时速48公里的奔跑本能。"
+          },
+          {
+            "name": "晚上：高蛋白肌肉养护与饮水量管理",
+            "text": "喂食高蛋白干湿粮以维持其精瘦流线型的肌肉体态。鉴于其巨大的运动量，确保充足的饮水以保护肾脏与泌尿系统。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "孟加拉猫 (Bengal) 的斑纹与埃及猫有什么区别？",
+            "answer": "孟加拉猫是人工杂交育成的品种；而埃及猫是自然发生的天然品种，其斑点不仅存在于毛发上，也印在皮肤上。此外，埃及猫拥有标志性的绿眼和额头圣甲虫图案。"
+          },
+          {
+            "question": "腹部与后腿之间的皮肤褶皱 (Flank flap) 是肥胖导致的吗？",
+            "answer": "不是。从侧腹延伸至后膝关节的松弛皮肤褶皱 (Flank flap) 是埃及猫特有的解剖学特征，它能让后腿在奔跑时向后大幅度伸展，从而实现极致的奔跑速度。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cuidado del manto moteado del Mau Egipcio y rutina de 3 pasos para su alta velocidad",
+        "description": "Atenciones para el Mau Egipcio, el gato doméstico más rápido y legado del antiguo Egipto. Descubra su exclusivo pliegue inguinal (flank flap) y cómo canalizar su agilidad.",
+        "authority": "Estándares de CFA y TICA, Sociedad Internacional de Medicina Felina (ISFM)",
+        "profile": {
+          "breed": "Mau Egipcio (Egyptian Mau)",
+          "lifespan": "12 ~ 15 años",
+          "sleep_pattern": "12 ~ 15 horas (sueño reparador tras carreras explosivas de alta velocidad)",
+          "temperament": "Ágil, extremadamente inteligente, leal, curioso, posesivo, cauto"
+        },
+        "intro": "El Mau Egipcio es la única raza de gato doméstico con un manto moteado de origen completamente natural y un descendiente vivo de los felinos sagrados del antiguo Egipto. Destaca por sus expresivos ojos 'verde grosella' (gooseberry green), la marca del escarabajo en la frente y un pliegue de piel suelto desde el flanco hasta la rodilla trasera (flank flap). Al ser el felino doméstico más veloz —capaz de alcanzar los 48 km/h— es crucial ofrecerle espacio vertical en 3D y juegos de alta intensidad. Leales y devotos a su familia, establecen vínculos muy profundos. En esta guía, desciframos su lenguaje y rutina cotidiana.",
+        "whyTitle": "Comunicación del Mau Egipcio: Vibración de cola y parloteo (Chortling)",
+        "whyDesc": "Cuando siente gran alegría o afecto, el Mau Egipcio realiza una singular **'Vibración de Cola' (Tail Wiggling)** manteniéndola erguida sin marcar territorio. Asimismo, suele comunicarse con sus tutores mediante un dulce chirrido o **'Parloteo' (Chortling)** combinado con el amasado de patas.",
+        "body_signals": [
+          {
+            "name": "Vibración de la cola erguida (Tail Wiggling)",
+            "meaning": "Muestra de inmensa felicidad y bienvenida hacia su cuidador; un rasgo afectivo distintivo de esta raza.",
+            "response": "Responda con tono afectuoso y acaricie suavemente la zona del cuello o mejillas."
+          },
+          {
+            "name": "Parloteo suave y amasado (Chortling & Treading)",
+            "meaning": "Señal amistosa de comunicación que expresa el deseo de interactuar, jugar o recibir atención.",
+            "response": "Habla dulcemente con él e inicia una sesión de juego dinámico con una caña de plumas."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Cepillado del manto corto y revisión ocular",
+            "text": "Pase un cepillo de goma suave sobre su manto moteado para mantener el brillo. Inspeccione sus ojos verde grosella y limpie pequeñas secreciones si existen."
+          },
+          {
+            "name": "Tarde: Espacio vertical 3D y juego de carrera de alta velocidad",
+            "text": "Proporcione rascadores altos para sus grandes saltos. Dedique 15-20 minutos a juegos de persecución rápida para satisfacer su instinto de corredor a 48 km/h."
+          },
+          {
+            "name": "Noche: Nutrición rica en proteínas y control de hidratación",
+            "text": "Ofrezca alimento alto en proteínas para mantener su cuerpo muscular y esbelto. Asegure suficiente agua fresca para proteger sus riñones y vías urinarias."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿En qué se diferencian las motas del Mau Egipcio de las del Bengalí?",
+            "answer": "El Bengalí es una raza híbrida creada mediante cruces con el gato leopardo asiático; el Mau Egipcio es una raza natural cuyas motas están presentes tanto en el pelo como en la piel. Además, el Mau posee ojos verde grosella y la marca del escarabajo en la frente."
+          },
+          {
+            "question": "¿El pliegue de piel en su abdomen bajo (flank flap) es exceso de peso?",
+            "answer": "No. El pliegue de piel suelta entre el flanco y las patas traseras (flank flap) es un rasgo anatómico natural que le permite extender completamente las extremidades traseras para alcanzar velocidades de hasta 48 km/h."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Soin de la robe tachetée du Mau Égyptien et routine en 3 étapes pour sa grande vitesse",
+        "description": "Soins essentiels pour le Mau Égyptien, le chat le plus rapide du monde et héritier de l'Égypte antique. Comprenez son repli du flanc (flank flap) et canalisez son agilité.",
+        "authority": "Standards de race CFA & TICA, International Society of Feline Medicine (ISFM)",
+        "profile": {
+          "breed": "Mau Égyptien (Egyptian Mau)",
+          "lifespan": "12 ~ 15 ans",
+          "sleep_pattern": "12 ~ 15 heures (sommeil réparateur après des courses rapides et explosives)",
+          "temperament": "Agile, très intelligent, loyal, curieux, possessif, méfiant avec les inconnus"
+        },
+        "intro": "Le Mau Égyptien est la seule race de chat domestique à posséder un pelage naturellement tacheté. Descendant direct des chats sacrés de l'Égypte antique, il se distingue par ses yeux 'vert groseille' (gooseberry green), la marque du scarabée sur le front et un repli de peau particulier sous le ventre (flank flap). Élue race domestique la plus rapide au monde —pouvant courir jusqu'à 48 km/h— il nécessite un environnement vertical en 3D et des sessions de jeu intenses. Féroce loyal envers ses proches, c'est un compagnon fascinant. Dans ce guide, vous livre son guide de soins.",
+        "whyTitle": "Communication du Mau Égyptien : Frémissement de la queue et gloussements (Chortling)",
+        "whyDesc": "Lorsqu'il ressent une grande joie, le Mau Égyptien fait **'Frémir sa Queue' (Tail Wiggling)** dressée vers el haut, sans marquer son territoire. Il exprime aussi sa complicité par des **'Gloussements' (Chortling)** doux et des piétinements de pattes très expressifs.",
+        "body_signals": [
+          {
+            "name": "Frémissement de la queue dressée (Tail Wiggling)",
+            "meaning": "Preuve d'un bonheur intense et d'une salutation chaleureuse envers son maître, spécifique à cette race.",
+            "response": "Répondez avec une voix douce et caressez-lui délicatement les joues ou le cou."
+          },
+          {
+            "name": "Gloussements doux et piétinement (Chortling & Treading)",
+            "meaning": "Signal social amical indiquant une envie d'interagir, de jouer ou de recevoir des caresses.",
+            "response": "Échangez quelques mots avec lui et lancez une session de jeu active avec un plumet."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Brossage du poil court et vérification des yeux",
+            "text": "Utilisez une brosse en caoutchouc doux sur sa fourrure tachetée pour faire briller le poil. Contrôlez ses yeux vert groseille et nettoyez les petites impuretés."
+          },
+          {
+            "name": "Après-midi : Aménagement vertical 3D et jeu de course rapide",
+            "text": "Installez des arbres à chat hauts pour ses sauts phénoménaux. Proposez 15 à 20 minutes de jeu de poursuite rapide pour combler son besoin de courir."
+          },
+          {
+            "name": "Soir : Repas riche en protéines et hydratation",
+            "text": "Proposez une alimentation riche en protéines pour entretenir sa musculature athlétique. Veillez à un apport en eau suffisant pour préserver sa santé urinaire."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Quelle est la différence entre les taches du Bengal et du Mau Égyptien ?",
+            "answer": "Le Bengal est issu de croisements hybrides avec le chat-léopard asiatique, tandis que le Mau Égyptien est une race naturelle dont les taches existent aussi sur la peau. Le Mau a également des yeux vert groseille et le motif du scarabée sur le front."
+          },
+          {
+            "question": "Le pli de peau sous son ventre (flank flap) est-il dû au surpoids ?",
+            "answer": "Non. Le repli de peau souple allant du flanc au genou arrière (flank flap) est une particularité anatomique naturelle qui permet à ses pattes arrière de s'étendre au maximum pour atteindre 48 km/h."
+          }
+        ]
+      },
+      "de": {
+        "title": "Egyptian Mau Pflege der natürlichen Tupfen & 3-Schritte-Tagesroutine für High-Speed",
+        "description": "Pflege für die Egyptian Mau – die schnellste Hauskatze und Erbe des alten Ägypten. Verstehen Sie die Flankenfalte (Flank flap) und fördern Sie ihre wilde Agilität.",
+        "authority": "CFA & TICA Rassestandards, International Society of Feline Medicine (ISFM)",
+        "profile": {
+          "breed": "Egyptian Mau",
+          "lifespan": "12 ~ 15 Jahre",
+          "sleep_pattern": "12 ~ 15 Stunden (Tiefenschlaf nach explosiver High-Speed-Aktivität)",
+          "temperament": "Flink, hochintelligent, loyal, neugierig, besitzergreifend, zurückhaltend"
+        },
+        "intro": "Die Egyptian Mau ist die einzige natürlich getupfte Hauskatzenrasse der Welt und ein lebendes Erbe der heiligen Katzen des alten Ägypten. Sie zeichnet sich durch stachelbeergrüne Augen (Gooseberry green), die Skarabäus-Zeichnung auf der Stirn und eine einzigartige Flankenfalte (Flank flap) aus. Als schnellste Hauskatze – mit Geschwindigkeiten von bis zu 48 km/h – benötigt sie dreidimensionale Klettermöglichkeiten und intensive Bewegung. Mau-Katzen bauen eine extrem tiefe Bindung zu ihren Menschen auf.  entschlüsselt ihre Körpersprache und stellt eine 3-Schritte-Routine vor.",
+        "whyTitle": "Kommunikation der Egyptian Mau: Schwanzzittern und Chortling-Laute",
+        "whyDesc": "Bei großer Freude zeigt die Egyptian Mau ein charakteristisches **'Schwanzzittern' (Tail Wiggling)** mit steil aufgerichtetem Schwanz. Statt eines normalen Miauens drückt sie ihr Wohlbefinden durch sanftes **'Chortling'** (glucksendes Schnattern) und Tretpformatation aus.",
+        "body_signals": [
+          {
+            "name": "Zittern des aufgerichteten Schwanzes (Tail Wiggling)",
+            "meaning": "Ausdruck von extremer Freude und Begrüßung gegenüber der Bezugsperson (kein Markierverhalten).",
+            "response": "Antworten Sie mit freundlicher Stimme und streicheln Sie sanft die Wangen oder den Hals."
+          },
+          {
+            "name": "Glucksendes Schnattern und Tretpformatation (Chortling & Treading)",
+            "meaning": "Freundliches Kontaktangebot mit dem Wunsch nach Interaktion, Spiel oder Streicheleinheiten.",
+            "response": "Sprechen Sie leise mit ihr und starten Sie ein aktives Spiel mit einer Spielangel."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Kurzfell-Pflege & Augen-Check",
+            "text": "Pflegen Sie das seidige, getupfte Fell mit einer weichen Gummibürste. Kontrollieren Sie die grünen Augen auf Klarheit und entfernen Sie sanft Schlafensspuren."
+          },
+          {
+            "name": "Nachmittag: 3D-Kletterwelt & High-Speed-Rennspiele",
+            "text": "Bieten Sie hohe Kratzbäume für ihre enormen Sprünge. Führen Sie 15-20 Minuten lang schnelle Verfolgungsspiele durch, um den Laufbetrieb mit 48 km/h auszulasten."
+          },
+          {
+            "name": "Abend: Proteinreiche Nahrung & Flüssigkeitskontrolle",
+            "text": "Füttern Sie hochwertiges, proteinreiches Futter zur Erhaltung der geschmeidigen Muskeln. Achten Sie auf eine gute Wasseraufnahme zur Nierenvorsorge."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Wie unterscheiden sich die Tupfen der Egyptian Mau von denen der Bengal?",
+            "answer": "Die Bengal ist eine Hybridrasse aus der Verpaarung mit der asiatischen Leopardkatze. Die Egyptian Mau ist eine natürliche Rasse, deren Tupfen sowohl im Fell als auch auf der Haut sichtbar sind. Zudem hat die Mau immer stachelbeergrüne Augen."
+          },
+          {
+            "question": "Ist die lose Hautfalte am Bauch (Flank flap) Übergewicht?",
+            "answer": "Nein, die lose Hautfalte zwischen Flanke und Hinterbein (Flank flap) ist eine natürliche anatomische Besonderheit. Sie ermöglicht es den Hinterbeinen, sich extrem weit nach hinten zu strecken, was die hohe Laufgeschwindigkeit erst möglich macht."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Cuidados com a pelagem pintada do Egyptian Mau e rotina diária de 3 passos para alta velocidade",
+        "description": "Cuidados essenciais para o Egyptian Mau, o gato doméstico mais rápido e legado do Egito Antigo. Entenda a dobra do flanco (flank flap) e estimule sua agilidade.",
+        "authority": "Padrões de Raça da CFA e TICA, Sociedade Internacional de Medicina Felina (ISFM)",
+        "profile": {
+          "breed": "Egyptian Mau",
+          "lifespan": "12 ~ 15 anos",
+          "sleep_pattern": "12 ~ 15 horas (sono reparador após corridas de alta velocidade)",
+          "temperament": "Ágil, altamente inteligente, leal, curioso, possessivo, reservado com estranhos"
+        },
+        "intro": "O Egyptian Mau é a única raça de gato doméstico com pelagem pintada de origem totalmente natural, considerado um descendente vivo dos gatos sagrados do Egito Antigo. Destaca-se pelos olhos 'verde-groselha' (gooseberry green), a marca do escaravelho na testa e uma dobra de pele solta do flanco ao joelho traseiro (flank flap). Sendo o gato doméstico mais rápido do mundo —capaz de atingir 48 km/h— necessita de espaço vertical 3D e exercícios intensos. Fiel e devoto à família, cria laços profundos. Neste guia, apresentamos mos o seu guia completo de cuidados.",
+        "whyTitle": "Comunicação do Egyptian Mau: Vibração da cauda e gorgolejos (Chortling)",
+        "whyDesc": "Ao sentir grande alegria ou afeto, o Egyptian Mau demonstra a **'Vibração da Cauda' (Tail Wiggling)** mantendo-a ereta. Além disso, comunica-se através de um característico som de gorgolejo suave (**'Chortling'**) acompanhado pelo patinar das patas.",
+        "body_signals": [
+          {
+            "name": "Vibração da cauda ereta (Tail Wiggling)",
+            "meaning": "Sinal de extrema felicidade e saudação calorosa ao tutor; uma característica afetiva marcante da raça.",
+            "response": "Responda com tom carinhoso e faça carinho suave nas bochechas ou no pescoço."
+          },
+          {
+            "name": "Som de gorgolejo e patinar de patas (Chortling & Treading)",
+            "meaning": "Sinal amigável de comunicação expressando o desejo de interagir, brincar ou receber carinho.",
+            "response": "Fale suavemente com ele e inicie uma sessão de brincadeira ativa com uma varinha de penas."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Escovação da pelagem curta e checagem dos olhos",
+            "text": "Passe uma escova de borracha macia na pelagem pintada para manter o brilho. Inspecione os olhos verde-groselha e limpe eventuais secreções."
+          },
+          {
+            "name": "Tarde: Espaço vertical 3D e corrida de alta velocidade",
+            "text": "Proporcione arranhadores altos para os seus saltos potentes. Dedique 15 a 20 minutos a jogos de perseguição rápida para satisfazer o seu instinto de corredor."
+          },
+          {
+            "name": "Noite: Nutrição rica em proteínas e controle de hidratação",
+            "text": "Ofereça alimento rico em proteínas para manter o corpo muscular e esbelto. Garanta água fresca abundante para proteger a saúde renal."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Qual a diferença entre as pintas do Bengal e do Egyptian Mau?",
+            "answer": "O Bengal é uma raça híbrida criada a partir do gato-leopardo asiático. O Egyptian Mau é uma raça natural cujas pintas estão presentes no pelo e na pele. O Mau também possui olhos verde-groselha e o desenho do escaravelho na testa."
+          },
+          {
+            "question": "A dobra de pele no abdômen (flank flap) é excesso de peso?",
+            "answer": "Não. A dobra de pele solta entre o flanco e as patas traseiras (flank flap) é uma característica anatômica natural que permite esticar totalmente as extremidades posteriores para atingir até 48 km/h."
+          }
+        ]
+      },
+      "id": {
+        "title": "Perawatan Bulu Bintik Alami Egyptian Mau dan Rutinitas Harian 3 Langkah Kecepatan Tinggi",
+        "description": "Perawatan esensial untuk Egyptian Mau, kucing domestik tercepat dan warisan Mesir Kuno. Pahami lipatan kulit samping (flank flap) dan salurkan kelincahan alaminya.",
+        "authority": "Standar Ras CFA & TICA, International Society of Feline Medicine (ISFM)",
+        "profile": {
+          "breed": "Egyptian Mau",
+          "lifespan": "12 ~ 15 tahun",
+          "sleep_pattern": "12 ~ 15 jam (tidur pulas pemulihan setelah aktivitas berlari cepat)",
+          "temperament": "Lincah, sangat cerdas, setia, ingin tahu, posesif, waspada terhadap orang asing"
+        },
+        "intro": "Egyptian Mau adalah satu-satunya ras kucing domestik dengan pola bintik yang terbentuk secara alami, serta diyakini sebagai keturunan langsung kucing kerajaan Mesir Kuno. Kucing ini memiliki mata hijau gooseberry yang indah, tanda kumbang scarab di dahi, serta lipatan kulit longgar dari pinggang hingga lutut belakang (flank flap). Sebagai kucing rumah tercepat di dunia yang dapat berlari hingga 48 km/jam, penyediaan area vertikal 3D dan stimulasi fisik berkecepatan tinggi sangat penting. Dalam panduan ini, membagikan panduan bahasa tubuh dan rutinitas perawatan 3 langkahnya.",
+        "whyTitle": "Komunikasi Egyptian Mau: Getaran Ekor (Tail Wiggling) dan Suara Kekehan (Chortling)",
+        "whyDesc": "Saat merasakan kebahagiaan atau kasih sayang yang mendalam, Egyptian Mau akan menegakkan ekornya dan melakukan **'Getaran Ekor' (Tail Wiggling)** yang cepat. Mereka juga menyapa pemiliknya bukan dengan mengeong biasa, melainkan dengan suara **'Kekehan' (Chortling)** yang lembut.",
+        "body_signals": [
+          {
+            "name": "Ekor Tegak Bergetar Cepat (Tail Wiggling)",
+            "meaning": "Ungkapan kegembiraan luar biasa dan rasa selamat datang kepada pemiliknya; ciri khas kasih sayang ras ini.",
+            "response": "Sambut dengan suara ramah dan elus lembut area pipi atau lehernya."
+          },
+          {
+            "name": "Suara Kekehan Lembut dan Gerakan Meredam (Chortling & Treading)",
+            "meaning": "Sinyal komunikasi ramah yang menunjukkan keinginan untuk berinteraksi, bermain, atau dimanja.",
+            "response": "Ajak berbicara dengan lembut dan mulailah permainan aktif menggunakan pancingan bulu."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Menyisir Bulu Pendek & Pemeriksaan Mata Gooseberry",
+            "text": "Sisir bulu halus berbintiknya dengan sikat karet lembut agar berkilau. Periksa kebersihan matanya yang berwarna hijau gooseberry dari kotoran mata."
+          },
+          {
+            "name": "Siang: Area Vertikal 3D & Permainan Berlari Kecepatan Tinggi",
+            "text": "Sediakan cat tree tinggi untuk mendukung kemampuan melompatnya. Lakukan permainan berburu cepat selama 15-20 menit untuk memuaskan insting berlari 48 km/jam."
+          },
+          {
+            "name": "Malam: Nutrisi Tinggi Protein & Manajemen Cairan",
+            "text": "Berikan makanan tinggi protein untuk menjaga otot tubuhnya tetap ramping dan atletis. Pastikan air minum selalu tersedia demi kesehatan ginjalnya."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apa perbedaan antara bintik pada Bengal dan Egyptian Mau?",
+            "answer": "Bengal adalah ras hibrida hasil persilangan dengan kucing kuwuk Asia (Asian Leopard Cat). Egyptian Mau adalah ras alami yang bintiknya terdapat pada bulu sekaligus kulitnya. Mau juga memiliki mata hijau gooseberry dan tanda scarab di dahi."
+          },
+          {
+            "question": "Apakah lipatan kulit di perut belakangnya (flank flap) adalah tanda kegemukan?",
+            "answer": "Bukan. Lipatan kulit longgar antara pinggang dan kaki belakang (flank flap) adalah ciri anatomi alami yang memungkinkan kaki belakangnya meregang maksimal saat berlari hingga 48 km/jam."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/egyptian_mau_care.webp"
+  }
 }

@@ -1,459 +1,459 @@
 {
-    "poodle-care": {
-        "pubDate": "2026-01-26",
-        "updatedDate": "2026-01-26",
-        "locales": {
-            "ko": {
-                "title": "영리한 푸들을 위한 지능형 놀이법과 귓병 예방 3단계 홈케어 루틴",
-                "description": "높은 지능으로 인해 지루함을 느끼기 쉬운 푸들. 지능적 피로를 풀어주는 놀이와 유전적으로 취약한 귓병을 예방하는 3단계 홈케어를 알아봅니다.",
-                "authority": "American Kennel Club (AKC) 공식 가이드 및 IAABC 행동 프로토콜",
-                "profile": {
-                    "breed": "푸들 (Canis lupus familiaris / Poodle)",
-                    "lifespan": "12 ~ 15년",
-                    "sleep_pattern": "12 ~ 14시간 (보호자 동조형)",
-                    "temperament": "극도로 영리함, 활발함, 친화적"
-                },
-                "intro": "푸들은 세계에서 가장 머리가 좋은 강아지 중 하나로 꼽힙니다. 영리하고 보호자의 감정을 잘 파악하며 훈련 속도도 매우 빠르지만, 높은 지능만큼이나 쉽게 지루함을 느끼고 스트레스를 받기도 합니다. 🐩 또한, 푸들은 귀가 아래로 축 늘어져 귓구멍을 덮고 있는 외형적 특징 때문에 귓속 통풍이 잘 안 되어 만성적인 외이염(귓병)에 걸릴 확률이 유전적으로 매우 높습니다. 이번 가이드에서는 똑똑한 푸들의 지능적 피로를 풀어주어 파괴적 행동을 예방하고, 귀 건강을 효과적으로 지킬 수 있는 3단계 홈케어 루틴을 공유합니다.",
-                "whyTitle": "푸들의 바디 랭귀지: 요구성과 스트레스의 경계",
-                "whyDesc": "푸들은 지능이 높은 만큼 자신의 의사를 몸짓으로 적극 표현합니다. 대표적인 바디 랭귀지는 **'한 발 들기(Paw Raising)'**와 **'부드럽게 눈 깜빡이기(Soft Blinking)'**입니다. 푸들이 보호자 앞에서 한쪽 앞발을 들어올리는 행동은 흔히 손을 주는 교육의 연장선으로 보이지만, 실은 '나한테 관심을 가져다주세요'라는 요구나 '지금 약간 긴장되니 부드럽게 대해주세요'라는 진정의 메시지입니다. 눈을 지그시 응시하다 부드럽게 깜빡이는 것은 '적의가 없으며 당신을 온전히 신뢰한다'는 애정 표현입니다.",
-                "body_signals": [
-                    {
-                        "name": "한 발 들기 (Paw Raising)",
-                        "meaning": "주변에 애정을 요구하거나 가벼운 긴장 상태를 진정시키려는 의도입니다.",
-                        "response": "이 시그널이 관찰되면 강제로 지시를 내리지 말고 차분한 톤으로 쓰다듬어 안정시키십시오."
-                    },
-                    {
-                        "name": "부드럽게 눈 깜빡이기 (Soft Blinking)",
-                        "meaning": "보호자에 대한 깊은 신뢰와 적의가 전혀 없다는 애정 어린 약속입니다.",
-                        "response": "눈이 마주쳤을 때 같이 천천히 깜빡여 주어 안도감을 공유하십시오."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 브레인 토이를 이용한 인지적 피로 해소",
-                        "text": "단순한 달리기 산책 외에도 미로 식기나 노즈워크 담요를 사용해 간식을 찾아 먹게 함으로써 푸들의 뛰어난 지능을 자극하고 에너지 과잉을 이완시킵니다."
-                    },
-                    {
-                        "name": "오후: 통풍 불량 귀의 청결 점검 및 마사지",
-                        "text": "귀 세정제를 귓속에 2~3방울 넣고 귀밑 연골 부위를 부드럽게 마사지한 뒤, 밖으로 밀려 나온 이물질을 탈지면으로 닦아내 외이염 유발 인자를 차단합니다."
-                    },
-                    {
-                        "name": "저녁: 곱슬거리는 피모의 피부염 방지 브러싱",
-                        "text": "털이 꼬이기 쉬운 곱슬 푸들의 모질 특성을 감안해, 매일 저녁 슬리커 브러시로 죽은 털을 제거해 엉킴을 방지하고 피부에 공기가 잘 통하게 돕습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "푸들이 귀 세정 후에 머리를 세차게 터는 것은 정상인가요?",
-                        "answer": "정상적인 자가 청소 반응입니다. 귓속 깊이 들어갔던 세정제가 먼지와 함께 귀 밖으로 털려 나오는 과정이므로 놀라지 마시고 귓바퀴 부분만 가볍게 닦아주시면 됩니다."
-                    },
-                    {
-                        "question": "푸들이 가구를 씹거나 물어뜯는 행동은 어떻게 교정하나요?",
-                        "answer": "지능이 높은 만큼 신체 에너지는 물론 뇌의 에너지가 채워지지 않아 지루함을 느끼질 때 자주 발생합니다. 단순 씹는 장난감 대신 노즈워크나 인지 놀이를 대폭 늘려주세요."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Brain Play and Ear Care: A 3-Step Daily Routine for the Intelligent Poodle",
-                "description": "Discover how to relieve boredom in highly intelligent Poodles with brain games and prevent genetically vulnerable ear infections using a 3-step daily routine.",
-                "authority": "Official American Kennel Club (AKC) Breed Guide & IAABC Behavioral Protocols",
-                "profile": {
-                    "breed": "Poodle (Canis lupus familiaris)",
-                    "lifespan": "12 ~ 15 years",
-                    "sleep_pattern": "12 ~ 14 hours (synchronized with owner)",
-                    "temperament": "Highly Intelligent, Active, Friendly"
-                },
-                "intro": "Poodles are widely recognized as one of the most intelligent dog breeds in the world. While they are highly trainable and sensitive to their owner's emotions, they can easily get bored and stressed due to their active minds. 🐩 Additionally, because their floppy ears cover the ear canal, they are highly prone to chronic ear infections (otitis) due to poor ventilation. In this guide, shares tips on keeping your intelligent Poodle mentally stimulated and introduces a 3-step home care routine to keep their ears clean and healthy.",
-                "whyTitle": "Poodle Body Language: Distinguishing Demand from Stress",
-                "whyDesc": "Because of their intelligence, Poodles actively communicate using body language. Typical signals include **'Paw Raising'** and **'Soft Blinking'**. When a Poodle raises a front paw, it looks like a request for a trick, but it is often a message saying 'give me attention' or a calming signal meaning 'I'm slightly tense, please be gentle.' Staring softly and blinking slowly is their way of showing trust and affection, assuring you that they have no hostile intentions.",
-                "body_signals": [
-                    {
-                        "name": "Paw Raising",
-                        "meaning": "An expression seeking attention or attempting to soothe minor tension or anxiety.",
-                        "response": "If noticed, avoid giving forceful commands. Speak in a calm tone and pet them gently."
-                    },
-                    {
-                        "name": "Soft Blinking",
-                        "meaning": "A sign of deep trust and affection, confirming they feel safe and friendly with you.",
-                        "response": "When you lock eyes, blink back slowly to share and reinforce that sense of peace."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Cognitive Relief with Brain Toys",
-                        "text": "In addition to physical walks, use maze bowls or nosework mats to stimulate their highly active mind, helping them direct their excess energy productively."
-                    },
-                    {
-                        "name": "Afternoon: Ear Check and Gentle Cleaning Massage",
-                        "text": "Place 2-3 drops of ear cleanser into the ear canal, gently massage the base of the ear, and wipe away any dissolved wax with a cotton pad to prevent otitis."
-                    },
-                    {
-                        "name": "Evening: Slicker Brushing to Prevent Skin Matting",
-                        "text": "Since curly Poodle coats mat easily, brush daily with a slicker brush to remove dead hair, detangle, and allow proper air circulation to the skin."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Is it normal for my Poodle to shake its head vigorously after ear cleaning?",
-                        "answer": "Yes, this is a normal self-cleaning reaction. It helps shake out the cleanser along with dissolved debris from deep inside the ear. Just wipe the outer ear flap gently."
-                    },
-                    {
-                        "question": "How do I stop my Poodle from chewing furniture?",
-                        "answer": "Poodles often chew out of boredom when their brain is understimulated. Instead of just chew toys, introduce puzzles and interactive games to tire them out mentally."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "賢いプードルのための知能プレイと耳のケア3段階日常ルーティン",
-                "description": "高い知能ゆえに退屈しやすいプードル。知能的ストレスを和らげる遊びと、遺伝的に弱い耳の病気を予防する3段階ケアを紹介します。",
-                "authority": "アメリカンケネルクラブ(AKC)公式犬種ガイド＆IAABC行動学プロトコル",
-                "profile": {
-                    "breed": "プードル (Canis lupus familiaris / Poodle)",
-                    "lifespan": "12 ~ 15年",
-                    "sleep_pattern": "12 ~ 14時間（飼い主同調型）",
-                    "temperament": "極めて聡明、活発、フレンドリー"
-                },
-                "intro": "プードルは世界で最も頭の良い犬種の一つに挙げられます。賢くて飼い主の感情をよく理解し、訓練も非常に早いですが、高い知能ゆえに退屈しやすくストレスを感じやすいという面もあります。🐩 また、垂れ耳で耳の穴が塞がれているため、耳の中の通気性が悪く、遺伝的に慢性外耳炎（耳の病気）にかかる確率が極めて高いです。本記事では、聡明なプードルの知能的ストレスを解消し、耳の健康を効果的に守る3段階ホームケアルーティンをご紹介します。",
-                "whyTitle": "プードルのボディランゲージ：要求とストレスの境界",
-                "whyDesc": "プードルは知能が高い分、自分の意思をしぐさで積極的に表現します。代表的なボディランゲージは**「片足上げ（Paw Raising）」**と**「優しく瞬きする（Soft Blinking）」**です。プードルが飼い主の前で片方の前足を上げる行動は、お手のおねだりに見えますが、実は「構ってほしい」という要求や「少し緊張しているから優しくして」というメッセージです。目をじっと見つめて優しく瞬きするのは、「敵意はなく、あなたを完全に信頼している」という愛情の表現です。",
-                "body_signals": [
-                    {
-                        "name": "片足上げ (Paw Raising)",
-                        "meaning": "周囲にかまってほしいと要求したり、軽い緊張状態を落ち着かせようとするサインです。",
-                        "response": "このサインが見られたら、無理に指示を出さず、落ち着いた声で撫でて安心させてください。"
-                    },
-                    {
-                        "name": "優しく瞬きする (Soft Blinking)",
-                        "meaning": "飼い主への深い信頼と、敵意が全くないという愛情のメッセージです。",
-                        "response": "目が合ったら、一緒にゆっくり瞬きして安心感を共有してください。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：知能おもちゃを使った認知ストレス解消",
-                        "text": "単純なランニング散歩だけでなく、迷路食器やノーズワークマットを使っておやつを探し出させることで、プードルの優れた知能を刺激し、エネルギー過多を和らげます。"
-                    },
-                    {
-                        "name": "昼：通気不良の耳の衛生点検とマッサージ",
-                        "text": "耳洗浄液を耳の中に2〜3滴入れ、耳の根元の軟骨部分を優しくマッサージした後、外に出てきた汚れをコットンで拭き取って外耳炎を予防します。"
-                    },
-                    {
-                        "name": "夜：巻き毛の皮膚炎を予防するブラッシング",
-                        "text": "毛が絡まりやすい巻き毛のプードルの特徴を考慮し、毎晩スリッカーブラシで死毛を取り除いて絡まりを防ぎ、皮膚の通気性を高めます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "プードルが耳掃除の後に頭を激しく振るのは正常ですか？",
-                        "answer": "正常な自浄作用反応です。耳の奥深くに入った洗浄液が汚れと一緒に外に振り落とされる過程ですので、慌てずに耳の表面だけを優しく拭き取ってください。"
-                    },
-                    {
-                        "question": "プードルが家具をかじる行動はどうやって直しますか？",
-                        "answer": "知能が高いため、脳のエネルギーが消費されず退屈を感じた時によく起こります。単なるおもちゃではなく、ノーズワークや知能パズルゲームを大幅に増やしてください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "聪明贵宾犬的智力游戏与耳部护理3步日常护理流程",
-                "description": "了解如何通过智力游戏缓解高智商贵宾犬的无聊感，并使用3步日常护理流程预防遗传性耳部感染。",
-                "authority": "美国养犬俱乐部 (AKC) 官方犬种指南与 IAABC 行为学协议",
-                "profile": {
-                    "breed": "贵宾犬 (Canis lupus familiaris / Poodle)",
-                    "lifespan": "12 ~ 15年",
-                    "sleep_pattern": "12 ~ 14小时（与家长同步型）",
-                    "temperament": "极度聪明、活泼、友好"
-                },
-                "intro": "贵宾犬被公认为世界上最聪明的犬种之一。虽然它们非常易于训练，且对家长的情绪十分敏感，但也因为其活跃的大脑而极易感到无聊和产生压力。精神刺激不足可能会导致它们出现拆家等破坏性行为。🐩 此外，由于它们垂下的耳朵覆盖了耳道，导致耳内通风不良，因此遗传上极易患慢性外耳道炎。本指南将分享如何为聪明的贵宾犬提供智力刺激，并介绍一套日常3步护理流程，以保持它们的耳朵清洁与健康。",
-                "whyTitle": "贵宾犬的身体语言：区分需求与压力",
-                "whyDesc": "贵宾犬由于智商很高，会积极地用身体语言表达意图。最典型的肢体动作是 **“抬起一只前爪（Paw Raising）”** 和 **“温柔眨眼睛（Soft Blinking）”**。当贵宾犬在家长面前抬起一只前爪时，通常看起来像是要求握手，但实际上这往往是“请关注我”的需求，或是“我现在有点紧张，请温柔待我”的放松信号。轻柔地注视并缓慢地眨眼是它们表达信任与爱意的方式，表明它们完全没有敌意。",
-                "body_signals": [
-                    {
-                        "name": "抬爪 (Paw Raising)",
-                        "meaning": "寻求家长的关注，或者试图安抚轻微的紧张与焦虑情绪。",
-                        "response": "如果注意到这个动作，请避免下达强迫性命令。用温和的语气说话，并轻轻抚摸它们。"
-                    },
-                    {
-                        "name": "温柔眨眼 (Soft Blinking)",
-                        "meaning": "对家长深厚信任与爱意的表达，表明它们感到安全和友好。",
-                        "response": "当与它们眼神接触时，也缓慢地眨眼回应，以分享和巩固这种安全感。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早晨：利用智力玩具缓解认知疲劳",
-                        "text": "除了普通的散步，还可以使用迷宫碗或闻嗅垫让贵宾犬寻找零食，以此刺激它们高活跃度的大脑，帮助它们以建设性的方式宣泄过剩的精力。"
-                    },
-                    {
-                        "name": "中午：耳部通风检查与温和清洁按摩",
-                        "text": "在耳道内滴入2-3滴洗耳液，轻轻按摩耳根部的软骨，然后用棉片擦去溶解的耳垢，以预防耳道炎症。"
-                    },
-                    {
-                        "name": "晚上：梳理卷毛以防皮肤打结发炎",
-                        "text": "由于贵宾犬的卷毛容易打结，应每天晚上使用针梳清除死毛、解开结节，以促进皮肤的空气流通并预防皮肤病。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "贵宾犬在洗耳后剧烈甩头是正常的吗？",
-                        "answer": "这是正常的自我清洁反应。甩头能将溶解了污垢的洗耳液从耳道深处甩出，您只需轻轻擦拭外耳廓即可，无需惊慌。"
-                    },
-                    {
-                        "question": "如何纠正贵宾犬啃咬家具的行为？",
-                        "answer": "贵宾犬智商极高，这通常是因为缺乏脑力锻炼、感到无聊而引起的。相比普通的咬咬玩具，应多提供智力拼图和嗅闻游戏以满足它们的认知需求。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Juegos mentales y cuidado de oídos: Rutina diaria de 3 pasos para el inteligente Caniche",
-                "description": "Descubra cómo aliviar el aburrimiento en caniches inteligentes con juegos mentales y prevenir infecciones de oído con una rutina diaria de 3 pasos.",
-                "authority": "Guía Oficial de Razas del American Kennel Club (AKC) y Protocolos de Comportamiento de IAABC",
-                "profile": {
-                    "breed": "Caniche (Canis lupus familiaris / Poodle)",
-                    "lifespan": "12 ~ 15 años",
-                    "sleep_pattern": "12 ~ 14 horas (sincronizado con el dueño)",
-                    "temperament": "Altamente Inteligente, Activo, Amigable"
-                },
-                "intro": "Los caniches son reconocidos como una de las razas de perros más inteligentes del mundo. Si bien son muy dóciles y sensibles a las emociones de sus dueños, pueden aburrirse y estresarse fácilmente debido a sus mentes activas. 🐩 Además, debido a que sus orejas caídas cubren el canal auditivo, son muy propensos a infecciones de oído crónicas (otitis) por la mala ventilación. En esta guía, comparte consejos para mantener a su caniche mentalmente estimulado e introduce una rutina de cuidado diario de 3 pasos para mantener sus oídos limpios y saludables.",
-                "whyTitle": "Lenguaje corporal del caniche: Distinguir la demanda del estrés",
-                "whyDesc": "Debido a su inteligencia, los caniches se comunican activamente mediante el lenguaje corporal. Las señales típicas incluyen **'levantar la pata' (Paw Raising)** y **'parpadear suavemente' (Soft Blinking)**. Cuando un caniche levanta una pata delantera, parece una petición de un truco, pero a menudo es un mensaje que dice 'préstame atención' o una señal de calma que significa 'estoy un poco tenso, por favor sé amable'. Mirar suavemente y parpadear lentamente es su forma de mostrar confianza y afecto.",
-                "body_signals": [
-                    {
-                        "name": "Levantar la pata (Paw Raising)",
-                        "meaning": "Una expresión que busca atención o intenta calmar una leve tensión o ansiedad.",
-                        "response": "Si lo nota, evite dar órdenes enérgicas. Hable en un tono tranquilo y acaríecielo suavemente."
-                    },
-                    {
-                        "name": "Parpadear suavemente (Soft Blinking)",
-                        "meaning": "Una señal de profunda confianza y afecto, que confirma que se sienten seguros con usted.",
-                        "response": "Cuando crucen miradas, parpadee lentamente para compartir y reforzar esa sensación de paz."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Alivio cognitivo con juguetes interactivos",
-                        "text": "Además de los paseos físicos, use comederos interactivos o alfombras de olfato para estimular su mente activa, ayudándoles a canalizar el exceso de energía."
-                    },
-                    {
-                        "name": "Tarde: Control de oídos y masaje suave de limpieza",
-                        "text": "Coloque 2-3 gotas de limpiador de oídos en el canal, masajee suavemente la base de la oreja y limpie la cera disuelta con un disco de algodón para prevenir la otitis."
-                    },
-                    {
-                        "name": "Noche: Cepillado slicker para evitar nudos en la piel",
-                        "text": "Dado que el pelaje rizado del caniche se enreda fácilmente, cepille a diario con un cepillo slicker para eliminar el pelo muerto y permitir la ventilación de la piel."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Es normal que mi caniche sacuda la cabeza vigorosamente después de la limpieza de oídos?",
-                        "answer": "Sí, es una reacción normal de autolimpieza. Ayuda a expulsar el limpiador con la suciedad del interior del oído. Simplemente limpie la parte exterior de la oreja con cuidado."
-                    },
-                    {
-                        "question": "¿Cómo evito que mi caniche muerda los muebles?",
-                        "answer": "A menudo muerden por aburrimiento debido a la falta de estimulación mental. En lugar de juguetes masticables comunes, introduzca rompecabezas y juegos interactivos para cansar su cerebro."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Jeux cérébraux et soin des oreilles : Routine quotidienne en 3 étapes pour le Caniche intelligent",
-                "description": "Découvrez comment soulager l'ennui des caniches intelligents avec des jeux cérébraux et prévenir les otites grâce à une routine quotidienne en 3 étapes.",
-                "authority": "Guide Officiel des Races de l'American Kennel Club (AKC) et Protocoles Comportementaux de l'IAABC",
-                "profile": {
-                    "breed": "Caniche (Canis lupus familiaris / Poodle)",
-                    "lifespan": "12 ~ 15 ans",
-                    "sleep_pattern": "12 ~ 14 heures (synchronisé avec le maître)",
-                    "temperament": "Très Intelligent, Actif, Amical"
-                },
-                "intro": "Les caniches sont reconnus comme l'une des races de chiens les plus intelligentes au monde. Très faciles à éduquer et sensibles aux émotions de leur maître, ils peuvent s'ennuyer et stresser rapidement en raison de leur esprit vif. 🐩 De plus, comme leurs oreilles tombantes recouvrent le conduit auditif, ils sont très sujets aux otites chroniques à cause d'une mauvaise aération. Dans ce guide, partage des conseils pour stimuler mentalement votre caniche intelligent et présente une routine de soins quotidiens en 3 étapes pour garder ses oreilles propres et saines.",
-                "whyTitle": "Langage corporel du caniche : Distinguer la demande du stress",
-                "whyDesc": "En raison de leur intelligence, les caniches communiquent activement par le langage corporel. Les signaux typiques incluent **lever la patte (Paw Raising)** et **cligner doucement des yeux (Soft Blinking)**. Lorsqu'un caniche lève une patte avant, cela ressemble à une demande de poignée de main, mais c'est souvent un message disant 'occupe-toi de moi' ou un signal d'apaisement signifiant 'je suis un peu tendu, sois doux'. Regarder doucement et cligner lentement des yeux est leur façon de montrer de l'affection.",
-                "body_signals": [
-                    {
-                        "name": "Lever la patte (Paw Raising)",
-                        "meaning": "Une expression pour demander de l'attention ou tenter de calmer une légère tension.",
-                        "response": "Si vous le remarquez, évitez de donner des ordres stricts. Parlez calmement et caressez-le doucement."
-                    },
-                    {
-                        "name": "Cligner doucement des yeux (Soft Blinking)",
-                        "meaning": "Un signe de confiance profonde et d'affection, confirmant qu'il se sent en sécurité avec vous.",
-                        "response": "Quand vos regards se croisent, clignez des yeux lentement pour partager ce sentiment de paix."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Stimulation cognitive avec des jeux d'intelligence",
-                        "text": "En plus des promenades physiques, utilisez des gamelles anti-glouton ou des tapis de fouille pour stimuler leur esprit vif, les aidant à canaliser leur trop-plein d'énergie."
-                    },
-                    {
-                        "name": "Après-midi : Contrôle des oreilles et massage de nettoyage doux",
-                        "text": "Versez 2 à 3 gouttes de nettoyant auriculaire dans le conduit, massez doucement la base de l'oreille et essuyez le cérumen dissous avec un coton pour prévenir les otites."
-                    },
-                    {
-                        "name": "Soir : Brossage carde pour éviter les nœuds et dermatites",
-                        "text": "Le pelage frisé du caniche s'emmêlant facilement, brossez-le quotidiennement avec une carde pour retirer les poils morts et aérer la peau."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Est-il normal que mon caniche secoue la tête vigoureusement après le nettoyage des oreilles ?",
-                        "answer": "Oui, c'est une réaction normale d'auto-nettoyage. Cela aide à expulser le nettoyant et les débris dissous. Essuyez simplement l'extérieur du pavillon de l'oreille."
-                    },
-                    {
-                        "question": "Comment empêcher mon caniche de mâcher les meubles ?",
-                        "answer": "Le caniche mâche souvent par ennui lorsque son esprit n'est pas assez stimulé. Remplacez les jouets à mâcher simples par des jeux d'intelligence et de fouille pour fatiguer son cerveau."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Denkspiele und Ohrenpflege: Tägliche 3-Schritte-Routine für den intelligenten Pudel",
-                "description": "Erfahren Sie, wie Sie Langeweile bei intelligenten Pudeln durch Denkspiele lindern und Ohrentzündungen mit einer 3-Schritte-Routine vorbeugen.",
-                "authority": "Offizieller Rasseführer des American Kennel Club (AKC) und IAABC-Verhaltensprotokolle",
-                "profile": {
-                    "breed": "Pudel (Canis lupus familiaris / Poodle)",
-                    "lifespan": "12 ~ 15 Jahre",
-                    "sleep_pattern": "12 ~ 14 Stunden (besitzersynchron)",
-                    "temperament": "Sehr intelligent, Aktiv, Freundlich"
-                },
-                "intro": "Pudel gelten als eine der intelligentesten Hunderassen der Welt. Sie sind zwar sehr lernwillig und feinfühlig für die Gefühle ihrer Besitzer, können sich aber aufgrund ihres aktiven Geistes leicht langweilen und stressen. 🐩 Da ihre Hängeohren den Gehörgang bedecken, sind sie aufgrund schlechter Belüftung anfällig für chronische Ohrentzündungen. Heute gibt  Tipps, wie Sie Ihren intelligenten Pudel geistig auslasten können, und stellt eine 3-Schritte-Pflegeroutine vor, um seine Ohren sauber und gesund zu halten.",
-                "whyTitle": "Körpersprache des Pudels: Unterscheidung zwischen Forderung und Stress",
-                "whyDesc": "Aufgrund ihrer Intelligenz kommunizieren Pudel aktiv über die Körpersprache. Typische Signale sind **'Pfotenheben' (Paw Raising)** und **'sanftes Blinzeln' (Soft Blinking)**. Wenn ein Pudel eine Vorderpfote hebt, sieht das wie eine Bitte um ein Leckerli aus, ist aber oft eine Botschaft wie 'Gib mir Aufmerksamkeit' oder ein Beschwichtigungssignal mit der Bedeutung 'Ich bin etwas angespannt, bitte sei sanft'. Sanftes Anstarren und langsames Blinzeln ist ihre Art, Vertrauen zu zeigen.",
-                "body_signals": [
-                    {
-                        "name": "Pfotenheben (Paw Raising)",
-                        "meaning": "Ein Ausdruck, um Aufmerksamkeit zu suchen oder leichte Anspannung zu beruhigen.",
-                        "response": "Wenn Sie dies bemerken, vermeiden Sie energische Befehle. Sprechen Sie ruhig und streicheln Sie ihn."
-                    },
-                    {
-                        "name": "Sanftes Blinzeln (Soft Blinking)",
-                        "meaning": "Ein Zeichen von tiefem Vertrauen und Zuneigung, das zeigt, dass sie sich bei Ihnen sicher fühlen.",
-                        "response": "Wenn sich Ihre Blicke treffen, blinzeln Sie langsam zurück, um dieses Gefühl der Ruhe zu teilen."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Geistige Auslastung mit Denkspielzeug",
-                        "text": "Nutzen Sie neben Spaziergängen auch Labyrinth-Näpfe oder Schnüffelmatten, um ihren aktiven Geist zu fordern und überschüssige Energie abzubauen."
-                    },
-                    {
-                        "name": "Nachmittag: Ohrenkontrolle und sanfte Reinigungsmassage",
-                        "text": "Geben Sie 2-3 Tropfen Ohrreiniger in den Gehörgang, massieren Sie die Ohrbasis sanft und wischen Sie gelösten Schmalz mit einem Wattepad ab, um Ohrentzündungen vorzubeugen."
-                    },
-                    {
-                        "name": "Abend: Bürsten gegen Verfilzungen und Hautprobleme",
-                        "text": "Da das lockige Fell leicht verfilzt, bürsten Sie es täglich mit einer Zupfbürste, um abgestorbene Haare zu entfernen und die Belüftung der Haut zu fördern."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Ist es normal, dass mein Pudel nach der Ohrenreinigung heftig den Kopf schüttelt?",
-                        "answer": "Ja, das ist eine normale Selbstreinigungsreaktion. Sie hilft, den Reiniger samt gelöstem Schmutz herauszuschütteln. Wischen Sie einfach die Ohrmuschel sanft ab."
-                    },
-                    {
-                        "question": "Wie gewöhne ich meinem Pudel das Kauen an Möbeln ab?",
-                        "answer": "Pudel kauen oft aus Langeweile, wenn sie geistig nicht ausgelastet sind. Bieten Sie statt einfachem Kauspielzeug vermehrt Denkspiele und Schnüffelteppiche an."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Jogos mentais e cuidados com as orelhas: Rotina diária de 3 passos para o Poodle inteligente",
-                "description": "Descubra como aliviar o tédio em poodles inteligentes com jogos mentais e prevenir infecções de ouvido com uma rotina diária de 3 passos.",
-                "authority": "Guia Oficial de Raças do American Kennel Club (AKC) e Protocolos de Comportamento da IAABC",
-                "profile": {
-                    "breed": "Poodle (Canis lupus familiaris)",
-                    "lifespan": "12 ~ 15 anos",
-                    "sleep_pattern": "12 ~ 14 horas (sincronizado com o tutor)",
-                    "temperament": "Muito Inteligente, Ativo, Amigável"
-                },
-                "intro": "Os poodles são reconhecidos como uma das raças de cães mais inteligentes do mundo. Embora sejam muito adestráveis e sensíveis às emoções de seus tutores, eles podem ficar entediados e estressados facilmente devido às suas mentes ativas. 🐩 Além disso, como suas orelhas caídas cobrem o canal auditivo, eles são propensos a infecções crônicas de ouvido devido à má ventilação. Neste guia, compartilha dicas para manter seu poodle mentalmente estimulado e apresenta uma rotina de cuidados diários de 3 passos para manter suas orelhas limpas e saudáveis.",
-                "whyTitle": "Linguagem corporal do poodle: Distinguindo exigência de estresse",
-                "whyDesc": "Devido à sua inteligência, os poodles comunicam-se ativamente por meio da linguagem corporal. Os sinais típicos incluem **'levantar a pata' (Paw Raising)** e **'piscar suavemente' (Soft Blinking)**. Quando um poodle levanta uma pata dianteira, parece um pedido de carinho, mas muitas vezes é uma mensagem dizendo 'dê-me atenção' ou um sinal de calma que significa 'estou um pouco tenso, por favor, seja gentil'. Olhar suavemente e piscar lentamente é sua forma de mostrar carinho.",
-                "body_signals": [
-                    {
-                        "name": "Levantar a pata (Paw Raising)",
-                        "meaning": "Uma expressão que busca atenção ou tenta acalmar uma leve tensão ou ansiedade.",
-                        "response": "Se notar, evite dar ordens enérgicas. Fale em um tom calmo e acaricie-o suavemente."
-                    },
-                    {
-                        "name": "Piscar suavemente (Soft Blinking)",
-                        "meaning": "Um sinal de profunda confiança e carinho, confirmando que se sentem seguros com você.",
-                        "response": "Quando se olharem, pisque de volta lentamente para compartilhar e reforçar essa sensação de paz."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Alívio cognitivo com brinquedos inteligentes",
-                        "text": "Além dos passeios físicos, use comedouros interativos ou tapetes de faro para estimular sua mente ativa, ajudando a canalizar o excesso de energia."
-                    },
-                    {
-                        "name": "Tarde: Verificação das orelhas e massagem suave de limpeza",
-                        "text": "Coloque 2 a 3 gotas de limpador de orelha no canal, massageie suavemente a base da orelha e limpe a cera dissolvida com um algodão para evitar otites."
-                    },
-                    {
-                        "name": "Noite: Escovação com rasqueadeira para evitar nós na pele",
-                        "text": "Como a pelagem crespa do poodle embaraça facilmente, escove diariamente com uma rasqueadeira para remover pelos mortos e permitir a ventilação da pele."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "É normal o meu poodle sacudir a cabeça vigorosamente após a limpeza das orelhas?",
-                        "answer": "Sim, é uma reação normal de autolimpeza. Ajuda a expelir o limpador com a sujeira do interior da orelha. Apenas limpe a parte externa da orelha com cuidado."
-                    },
-                    {
-                        "question": "Como faço para o meu poodle parar de roer móveis?",
-                        "answer": "Poodles costumam roer por tédio devido à falta de estimulação mental. Em vez de brinquedos de mastigar comuns, introduza quebra-cabeças e jogos interativos para exercitar o cérebro."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Permainan Otak dan Perawatan Telinga: Rutinitas Harian 3 Langkah untuk Poodle yang Cerdas",
-                "description": "Temukan cara mengatasi kebosanan pada Poodle yang cerdas dengan permainan otak dan mencegah infeksi telinga menggunakan 3 langkah rutinitas harian.",
-                "authority": "Panduan Ras Resmi American Kennel Club (AKC) & Protokol Perilaku IAABC",
-                "profile": {
-                    "breed": "Poodle (Canis lupus familiaris)",
-                    "lifespan": "12 ~ 15 tahun",
-                    "sleep_pattern": "12 ~ 14 jam (sinkron dengan pemilik)",
-                    "temperament": "Sangat Cerdas, Aktif, Ramah"
-                },
-                "intro": "Poodle secara luas diakui sebagai salah satu ras anjing paling cerdas di dunia. Meskipun mereka sangat mudah dilatih dan peka terhadap emosi pemiliknya, mereka dapat dengan mudah bosan dan stres karena pikiran mereka yang aktif. 🐩 Selain itu, karena telinga mereka yang terkulai menutupi saluran telinga, mereka sangat rentan terhadap infeksi telinga kronis (otitis) akibat ventilasi yang buruk. Dalam panduan ini, kami membagikan tips untuk menjaga Poodle cerdas Anda terstimulasi secara mental dan memperkenalkan 3 langkah rutinitas harian untuk menjaga telinga mereka tetap bersih dan sehat.",
-                "whyTitle": "Bahasa Tubuh Poodle: Membedakan Permintaan dengan Stres",
-                "whyDesc": "Karena kecerdasan mereka, Poodle aktif berkomunikasi menggunakan bahasa tubuh. Sinyal yang khas meliputi **'mengangkat kaki depan' (Paw Raising)** dan **'berkedip lembut' (Soft Blinking)**. Saat Poodle mengangkat kaki depan, itu terlihat seperti meminta bersalaman, tetapi sering kali merupakan pesan yang mengatakan 'beri aku perhatian' atau sinyal penenang yang berarti 'aku agak tegang, harap lembut.' Menatap lembut dan berkedip perlahan adalah cara mereka menunjukkan kepercayaan dan kasih sayang.",
-                "body_signals": [
-                    {
-                        "name": "Mengangkat Kaki Depan (Paw Raising)",
-                        "meaning": "Ekspresi mencari perhatian atau mencoba menenangkan ketegangan atau kecemasan ringan.",
-                        "response": "Jika terlihat, hindari memberikan perintah yang memaksa. Bicaralah dengan nada tenang dan belai dengan lembut."
-                    },
-                    {
-                        "name": "Berkedip Lembut (Soft Blinking)",
-                        "meaning": "Tanda kepercayaan dan kasih sayang yang mendalam, menegaskan bahwa mereka merasa aman dengan Anda.",
-                        "response": "Saat mata saling bertatapan, berkedip kembalilah perlahan untuk membagikan perasaan tenang tersebut."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Peredaan Kognitif dengan Mainan Otak",
-                        "text": "Selain jalan-jalan fisik, gunakan mangkuk labirin atau alas pengendus untuk merangsang pikiran aktif mereka, membantu mengarahkan kelebihan energi mereka secara produktif."
-                    },
-                    {
-                        "name": "Siang: Pemeriksaan Telinga dan Pijat Pembersihan Lembut",
-                        "text": "Teteskan 2-3 tetes pembersih telinga ke dalam saluran telinga, pijat perlahan pangkal telinga, dan seka kotoran yang larut dengan kapas untuk mencegah otitis."
-                    },
-                    {
-                        "name": "Malam: Menyikat Bulu untuk Mencegah Kusut pada Kulit",
-                        "text": "Karena bulu Poodle yang keriting mudah kusut, sikatlah setiap hari dengan sikat slicker untuk merontokkan bulu mati dan melancarkan sirkulasi udara pada kulit."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apakah normal bagi Poodle saya menggelengkan kepalanya dengan kuat setelah pembersihan telinga?",
-                        "answer": "Ya, itu adalah reaksi pembersihan diri yang normal. Ini membantu mengeluarkan pembersih beserta kotoran dari dalam telinga. Cukup seka daun telinga bagian luar secara perlahan."
-                    },
-                    {
-                        "question": "Bagaimana cara menghentikan Poodle saya menggigit furnitur?",
-                        "answer": "Poodle sering menggigit karena bosan akibat kurangnya stimulasi mental. Alih-alih mainan kunyah biasa, perkenalkan teka-teki dan permainan interaktif untuk melatih otak mereka."
-                    }
-                ]
-            }
+  "poodle-care": {
+    "pubDate": "2026-01-26",
+    "updatedDate": "2026-01-26",
+    "locales": {
+      "ko": {
+        "title": "영리한 푸들을 위한 지능형 놀이법과 귓병 예방 3단계 홈케어 루틴",
+        "description": "높은 지능으로 인해 지루함을 느끼기 쉬운 푸들. 지능적 피로를 풀어주는 놀이와 유전적으로 취약한 귓병을 예방하는 3단계 홈케어를 알아봅니다.",
+        "authority": "American Kennel Club (AKC) 공식 가이드 및 IAABC 행동 프로토콜",
+        "profile": {
+          "breed": "푸들 (Canis lupus familiaris / Poodle)",
+          "lifespan": "12 ~ 15년",
+          "sleep_pattern": "12 ~ 14시간 (보호자 동조형)",
+          "temperament": "극도로 영리함, 활발함, 친화적"
         },
-        "heroImage": "/images/blog/poodle_care.webp"
-    }
+        "intro": "푸들은 세계에서 가장 머리가 좋은 강아지 중 하나로 꼽힙니다. 영리하고 보호자의 감정을 잘 파악하며 훈련 속도도 매우 빠르지만, 높은 지능만큼이나 쉽게 지루함을 느끼고 스트레스를 받기도 합니다. 🐩 또한, 푸들은 귀가 아래로 축 늘어져 귓구멍을 덮고 있는 외형적 특징 때문에 귓속 통풍이 잘 안 되어 만성적인 외이염(귓병)에 걸릴 확률이 유전적으로 매우 높습니다. 이번 가이드에서는 똑똑한 푸들의 지능적 피로를 풀어주어 파괴적 행동을 예방하고, 귀 건강을 효과적으로 지킬 수 있는 3단계 홈케어 루틴을 공유합니다.",
+        "whyTitle": "푸들의 바디 랭귀지: 요구성과 스트레스의 경계",
+        "whyDesc": "푸들은 지능이 높은 만큼 자신의 의사를 몸짓으로 적극 표현합니다. 대표적인 바디 랭귀지는 **'한 발 들기(Paw Raising)'**와 **'부드럽게 눈 깜빡이기(Soft Blinking)'**입니다. 푸들이 보호자 앞에서 한쪽 앞발을 들어올리는 행동은 흔히 손을 주는 교육의 연장선으로 보이지만, 실은 '나한테 관심을 가져다주세요'라는 요구나 '지금 약간 긴장되니 부드럽게 대해주세요'라는 진정의 메시지입니다. 눈을 지그시 응시하다 부드럽게 깜빡이는 것은 '적의가 없으며 당신을 온전히 신뢰한다'는 애정 표현입니다.",
+        "body_signals": [
+          {
+            "name": "한 발 들기 (Paw Raising)",
+            "meaning": "주변에 애정을 요구하거나 가벼운 긴장 상태를 진정시키려는 의도입니다.",
+            "response": "이 시그널이 관찰되면 강제로 지시를 내리지 말고 차분한 톤으로 쓰다듬어 안정시키십시오."
+          },
+          {
+            "name": "부드럽게 눈 깜빡이기 (Soft Blinking)",
+            "meaning": "보호자에 대한 깊은 신뢰와 적의가 전혀 없다는 애정 어린 약속입니다.",
+            "response": "눈이 마주쳤을 때 같이 천천히 깜빡여 주어 안도감을 공유하십시오."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 브레인 토이를 이용한 인지적 피로 해소",
+            "text": "단순한 달리기 산책 외에도 미로 식기나 노즈워크 담요를 사용해 간식을 찾아 먹게 함으로써 푸들의 뛰어난 지능을 자극하고 에너지 과잉을 이완시킵니다."
+          },
+          {
+            "name": "오후: 통풍 불량 귀의 청결 점검 및 마사지",
+            "text": "귀 세정제를 귓속에 2~3방울 넣고 귀밑 연골 부위를 부드럽게 마사지한 뒤, 밖으로 밀려 나온 이물질을 탈지면으로 닦아내 외이염 유발 인자를 차단합니다."
+          },
+          {
+            "name": "저녁: 곱슬거리는 피모의 피부염 방지 브러싱",
+            "text": "털이 꼬이기 쉬운 곱슬 푸들의 모질 특성을 감안해, 매일 저녁 슬리커 브러시로 죽은 털을 제거해 엉킴을 방지하고 피부에 공기가 잘 통하게 돕습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "푸들이 귀 세정 후에 머리를 세차게 터는 것은 정상인가요?",
+            "answer": "정상적인 자가 청소 반응입니다. 귓속 깊이 들어갔던 세정제가 먼지와 함께 귀 밖으로 털려 나오는 과정이므로 놀라지 마시고 귓바퀴 부분만 가볍게 닦아주시면 됩니다."
+          },
+          {
+            "question": "푸들이 가구를 씹거나 물어뜯는 행동은 어떻게 교정하나요?",
+            "answer": "지능이 높은 만큼 신체 에너지는 물론 뇌의 에너지가 채워지지 않아 지루함을 느끼질 때 자주 발생합니다. 단순 씹는 장난감 대신 노즈워크나 인지 놀이를 대폭 늘려주세요."
+          }
+        ]
+      },
+      "en": {
+        "title": "Brain Play and Ear Care: A 3-Step Daily Routine for the Intelligent Poodle",
+        "description": "Discover how to relieve boredom in highly intelligent Poodles with brain games and prevent genetically vulnerable ear infections using a 3-step daily routine.",
+        "authority": "Official American Kennel Club (AKC) Breed Guide & IAABC Behavioral Protocols",
+        "profile": {
+          "breed": "Poodle (Canis lupus familiaris)",
+          "lifespan": "12 ~ 15 years",
+          "sleep_pattern": "12 ~ 14 hours (synchronized with owner)",
+          "temperament": "Highly Intelligent, Active, Friendly"
+        },
+        "intro": "Poodles are widely recognized as one of the most intelligent dog breeds in the world. While they are highly trainable and sensitive to their owner's emotions, they can easily get bored and stressed due to their active minds. 🐩 Additionally, because their floppy ears cover the ear canal, they are highly prone to chronic ear infections (otitis) due to poor ventilation. In this guide, shares tips on keeping your intelligent Poodle mentally stimulated and introduces a 3-step home care routine to keep their ears clean and healthy.",
+        "whyTitle": "Poodle Body Language: Distinguishing Demand from Stress",
+        "whyDesc": "Because of their intelligence, Poodles actively communicate using body language. Typical signals include **'Paw Raising'** and **'Soft Blinking'**. When a Poodle raises a front paw, it looks like a request for a trick, but it is often a message saying 'give me attention' or a calming signal meaning 'I'm slightly tense, please be gentle.' Staring softly and blinking slowly is their way of showing trust and affection, assuring you that they have no hostile intentions.",
+        "body_signals": [
+          {
+            "name": "Paw Raising",
+            "meaning": "An expression seeking attention or attempting to soothe minor tension or anxiety.",
+            "response": "If noticed, avoid giving forceful commands. Speak in a calm tone and pet them gently."
+          },
+          {
+            "name": "Soft Blinking",
+            "meaning": "A sign of deep trust and affection, confirming they feel safe and friendly with you.",
+            "response": "When you lock eyes, blink back slowly to share and reinforce that sense of peace."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Cognitive Relief with Brain Toys",
+            "text": "In addition to physical walks, use maze bowls or nosework mats to stimulate their highly active mind, helping them direct their excess energy productively."
+          },
+          {
+            "name": "Afternoon: Ear Check and Gentle Cleaning Massage",
+            "text": "Place 2-3 drops of ear cleanser into the ear canal, gently massage the base of the ear, and wipe away any dissolved wax with a cotton pad to prevent otitis."
+          },
+          {
+            "name": "Evening: Slicker Brushing to Prevent Skin Matting",
+            "text": "Since curly Poodle coats mat easily, brush daily with a slicker brush to remove dead hair, detangle, and allow proper air circulation to the skin."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Is it normal for my Poodle to shake its head vigorously after ear cleaning?",
+            "answer": "Yes, this is a normal self-cleaning reaction. It helps shake out the cleanser along with dissolved debris from deep inside the ear. Just wipe the outer ear flap gently."
+          },
+          {
+            "question": "How do I stop my Poodle from chewing furniture?",
+            "answer": "Poodles often chew out of boredom when their brain is understimulated. Instead of just chew toys, introduce puzzles and interactive games to tire them out mentally."
+          }
+        ]
+      },
+      "ja": {
+        "title": "賢いプードルのための知能プレイと耳のケア3段階日常ルーティン",
+        "description": "高い知能ゆえに退屈しやすいプードル。知能的ストレスを和らげる遊びと、遺伝的に弱い耳の病気を予防する3段階ケアを紹介します。",
+        "authority": "アメリカンケネルクラブ(AKC)公式犬種ガイド＆IAABC行動学プロトコル",
+        "profile": {
+          "breed": "プードル (Canis lupus familiaris / Poodle)",
+          "lifespan": "12 ~ 15年",
+          "sleep_pattern": "12 ~ 14時間（飼い主同調型）",
+          "temperament": "極めて聡明、活発、フレンドリー"
+        },
+        "intro": "プードルは世界で最も頭の良い犬種の一つに挙げられます。賢くて飼い主の感情をよく理解し、訓練も非常に早いですが、高い知能ゆえに退屈しやすくストレスを感じやすいという面もあります。🐩 また、垂れ耳で耳の穴が塞がれているため、耳の中の通気性が悪く、遺伝的に慢性外耳炎（耳の病気）にかかる確率が極めて高いです。本記事では、聡明なプードルの知能的ストレスを解消し、耳の健康を効果的に守る3段階ホームケアルーティンをご紹介します。",
+        "whyTitle": "プードルのボディランゲージ：要求とストレスの境界",
+        "whyDesc": "プードルは知能が高い分、自分の意思をしぐさで積極的に表現します。代表的なボディランゲージは**「片足上げ（Paw Raising）」**と**「優しく瞬きする（Soft Blinking）」**です。プードルが飼い主の前で片方の前足を上げる行動は、お手のおねだりに見えますが、実は「構ってほしい」という要求や「少し緊張しているから優しくして」というメッセージです。目をじっと見つめて優しく瞬きするのは、「敵意はなく、あなたを完全に信頼している」という愛情の表現です。",
+        "body_signals": [
+          {
+            "name": "片足上げ (Paw Raising)",
+            "meaning": "周囲にかまってほしいと要求したり、軽い緊張状態を落ち着かせようとするサインです。",
+            "response": "このサインが見られたら、無理に指示を出さず、落ち着いた声で撫でて安心させてください。"
+          },
+          {
+            "name": "優しく瞬きする (Soft Blinking)",
+            "meaning": "飼い主への深い信頼と、敵意が全くないという愛情のメッセージです。",
+            "response": "目が合ったら、一緒にゆっくり瞬きして安心感を共有してください。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：知能おもちゃを使った認知ストレス解消",
+            "text": "単純なランニング散歩だけでなく、迷路食器やノーズワークマットを使っておやつを探し出させることで、プードルの優れた知能を刺激し、エネルギー過多を和らげます。"
+          },
+          {
+            "name": "昼：通気不良の耳の衛生点検とマッサージ",
+            "text": "耳洗浄液を耳の中に2〜3滴入れ、耳の根元の軟骨部分を優しくマッサージした後、外に出てきた汚れをコットンで拭き取って外耳炎を予防します。"
+          },
+          {
+            "name": "夜：巻き毛の皮膚炎を予防するブラッシング",
+            "text": "毛が絡まりやすい巻き毛のプードルの特徴を考慮し、毎晩スリッカーブラシで死毛を取り除いて絡まりを防ぎ、皮膚の通気性を高めます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "プードルが耳掃除の後に頭を激しく振るのは正常ですか？",
+            "answer": "正常な自浄作用反応です。耳の奥深くに入った洗浄液が汚れと一緒に外に振り落とされる過程ですので、慌てずに耳の表面だけを優しく拭き取ってください。"
+          },
+          {
+            "question": "プードルが家具をかじる行動はどうやって直しますか？",
+            "answer": "知能が高いため、脳のエネルギーが消費されず退屈を感じた時によく起こります。単なるおもちゃではなく、ノーズワークや知能パズルゲームを大幅に増やしてください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "聪明贵宾犬的智力游戏与耳部护理3步日常护理流程",
+        "description": "了解如何通过智力游戏缓解高智商贵宾犬的无聊感，并使用3步日常护理流程预防遗传性耳部感染。",
+        "authority": "美国养犬俱乐部 (AKC) 官方犬种指南与 IAABC 行为学协议",
+        "profile": {
+          "breed": "贵宾犬 (Canis lupus familiaris / Poodle)",
+          "lifespan": "12 ~ 15年",
+          "sleep_pattern": "12 ~ 14小时（与家长同步型）",
+          "temperament": "极度聪明、活泼、友好"
+        },
+        "intro": "贵宾犬被公认为世界上最聪明的犬种之一。虽然它们非常易于训练，且对家长的情绪十分敏感，但也因为其活跃的大脑而极易感到无聊和产生压力。精神刺激不足可能会导致它们出现拆家等破坏性行为。🐩 此外，由于它们垂下的耳朵覆盖了耳道，导致耳内通风不良，因此遗传上极易患慢性外耳道炎。本指南将分享如何为聪明的贵宾犬提供智力刺激，并介绍一套日常3步护理流程，以保持它们的耳朵清洁与健康。",
+        "whyTitle": "贵宾犬的身体语言：区分需求与压力",
+        "whyDesc": "贵宾犬由于智商很高，会积极地用身体语言表达意图。最典型的肢体动作是 **“抬起一只前爪（Paw Raising）”** 和 **“温柔眨眼睛（Soft Blinking）”**。当贵宾犬在家长面前抬起一只前爪时，通常看起来像是要求握手，但实际上这往往是“请关注我”的需求，或是“我现在有点紧张，请温柔待我”的放松信号。轻柔地注视并缓慢地眨眼是它们表达信任与爱意的方式，表明它们完全没有敌意。",
+        "body_signals": [
+          {
+            "name": "抬爪 (Paw Raising)",
+            "meaning": "寻求家长的关注，或者试图安抚轻微的紧张与焦虑情绪。",
+            "response": "如果注意到这个动作，请避免下达强迫性命令。用温和的语气说话，并轻轻抚摸它们。"
+          },
+          {
+            "name": "温柔眨眼 (Soft Blinking)",
+            "meaning": "对家长深厚信任与爱意的表达，表明它们感到安全和友好。",
+            "response": "当与它们眼神接触时，也缓慢地眨眼回应，以分享和巩固这种安全感。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早晨：利用智力玩具缓解认知疲劳",
+            "text": "除了普通的散步，还可以使用迷宫碗或闻嗅垫让贵宾犬寻找零食，以此刺激它们高活跃度的大脑，帮助它们以建设性的方式宣泄过剩的精力。"
+          },
+          {
+            "name": "中午：耳部通风检查与温和清洁按摩",
+            "text": "在耳道内滴入2-3滴洗耳液，轻轻按摩耳根部的软骨，然后用棉片擦去溶解的耳垢，以预防耳道炎症。"
+          },
+          {
+            "name": "晚上：梳理卷毛以防皮肤打结发炎",
+            "text": "由于贵宾犬的卷毛容易打结，应每天晚上使用针梳清除死毛、解开结节，以促进皮肤的空气流通并预防皮肤病。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "贵宾犬在洗耳后剧烈甩头是正常的吗？",
+            "answer": "这是正常的自我清洁反应。甩头能将溶解了污垢的洗耳液从耳道深处甩出，您只需轻轻擦拭外耳廓即可，无需惊慌。"
+          },
+          {
+            "question": "如何纠正贵宾犬啃咬家具的行为？",
+            "answer": "贵宾犬智商极高，这通常是因为缺乏脑力锻炼、感到无聊而引起的。相比普通的咬咬玩具，应多提供智力拼图和嗅闻游戏以满足它们的认知需求。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Juegos mentales y cuidado de oídos: Rutina diaria de 3 pasos para el inteligente Caniche",
+        "description": "Descubra cómo aliviar el aburrimiento en caniches inteligentes con juegos mentales y prevenir infecciones de oído con una rutina diaria de 3 pasos.",
+        "authority": "Guía Oficial de Razas del American Kennel Club (AKC) y Protocolos de Comportamiento de IAABC",
+        "profile": {
+          "breed": "Caniche (Canis lupus familiaris / Poodle)",
+          "lifespan": "12 ~ 15 años",
+          "sleep_pattern": "12 ~ 14 horas (sincronizado con el dueño)",
+          "temperament": "Altamente Inteligente, Activo, Amigable"
+        },
+        "intro": "Los caniches son reconocidos como una de las razas de perros más inteligentes del mundo. Si bien son muy dóciles y sensibles a las emociones de sus dueños, pueden aburrirse y estresarse fácilmente debido a sus mentes activas. 🐩 Además, debido a que sus orejas caídas cubren el canal auditivo, son muy propensos a infecciones de oído crónicas (otitis) por la mala ventilación. En esta guía, comparte consejos para mantener a su caniche mentalmente estimulado e introduce una rutina de cuidado diario de 3 pasos para mantener sus oídos limpios y saludables.",
+        "whyTitle": "Lenguaje corporal del caniche: Distinguir la demanda del estrés",
+        "whyDesc": "Debido a su inteligencia, los caniches se comunican activamente mediante el lenguaje corporal. Las señales típicas incluyen **'levantar la pata' (Paw Raising)** y **'parpadear suavemente' (Soft Blinking)**. Cuando un caniche levanta una pata delantera, parece una petición de un truco, pero a menudo es un mensaje que dice 'préstame atención' o una señal de calma que significa 'estoy un poco tenso, por favor sé amable'. Mirar suavemente y parpadear lentamente es su forma de mostrar confianza y afecto.",
+        "body_signals": [
+          {
+            "name": "Levantar la pata (Paw Raising)",
+            "meaning": "Una expresión que busca atención o intenta calmar una leve tensión o ansiedad.",
+            "response": "Si lo nota, evite dar órdenes enérgicas. Hable en un tono tranquilo y acaríecielo suavemente."
+          },
+          {
+            "name": "Parpadear suavemente (Soft Blinking)",
+            "meaning": "Una señal de profunda confianza y afecto, que confirma que se sienten seguros con usted.",
+            "response": "Cuando crucen miradas, parpadee lentamente para compartir y reforzar esa sensación de paz."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Alivio cognitivo con juguetes interactivos",
+            "text": "Además de los paseos físicos, use comederos interactivos o alfombras de olfato para estimular su mente activa, ayudándoles a canalizar el exceso de energía."
+          },
+          {
+            "name": "Tarde: Control de oídos y masaje suave de limpieza",
+            "text": "Coloque 2-3 gotas de limpiador de oídos en el canal, masajee suavemente la base de la oreja y limpie la cera disuelta con un disco de algodón para prevenir la otitis."
+          },
+          {
+            "name": "Noche: Cepillado slicker para evitar nudos en la piel",
+            "text": "Dado que el pelaje rizado del caniche se enreda fácilmente, cepille a diario con un cepillo slicker para eliminar el pelo muerto y permitir la ventilación de la piel."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Es normal que mi caniche sacuda la cabeza vigorosamente después de la limpieza de oídos?",
+            "answer": "Sí, es una reacción normal de autolimpieza. Ayuda a expulsar el limpiador con la suciedad del interior del oído. Simplemente limpie la parte exterior de la oreja con cuidado."
+          },
+          {
+            "question": "¿Cómo evito que mi caniche muerda los muebles?",
+            "answer": "A menudo muerden por aburrimiento debido a la falta de estimulación mental. En lugar de juguetes masticables comunes, introduzca rompecabezas y juegos interactivos para cansar su cerebro."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Jeux cérébraux et soin des oreilles : Routine quotidienne en 3 étapes pour le Caniche intelligent",
+        "description": "Découvrez comment soulager l'ennui des caniches intelligents avec des jeux cérébraux et prévenir les otites grâce à une routine quotidienne en 3 étapes.",
+        "authority": "Guide Officiel des Races de l'American Kennel Club (AKC) et Protocoles Comportementaux de l'IAABC",
+        "profile": {
+          "breed": "Caniche (Canis lupus familiaris / Poodle)",
+          "lifespan": "12 ~ 15 ans",
+          "sleep_pattern": "12 ~ 14 heures (synchronisé avec le maître)",
+          "temperament": "Très Intelligent, Actif, Amical"
+        },
+        "intro": "Les caniches sont reconnus comme l'une des races de chiens les plus intelligentes au monde. Très faciles à éduquer et sensibles aux émotions de leur maître, ils peuvent s'ennuyer et stresser rapidement en raison de leur esprit vif. 🐩 De plus, comme leurs oreilles tombantes recouvrent le conduit auditif, ils sont très sujets aux otites chroniques à cause d'une mauvaise aération. Dans ce guide, partage des conseils pour stimuler mentalement votre caniche intelligent et présente une routine de soins quotidiens en 3 étapes pour garder ses oreilles propres et saines.",
+        "whyTitle": "Langage corporel du caniche : Distinguer la demande du stress",
+        "whyDesc": "En raison de leur intelligence, les caniches communiquent activement par le langage corporel. Les signaux typiques incluent **lever la patte (Paw Raising)** et **cligner doucement des yeux (Soft Blinking)**. Lorsqu'un caniche lève une patte avant, cela ressemble à une demande de poignée de main, mais c'est souvent un message disant 'occupe-toi de moi' ou un signal d'apaisement signifiant 'je suis un peu tendu, sois doux'. Regarder doucement et cligner lentement des yeux est leur façon de montrer de l'affection.",
+        "body_signals": [
+          {
+            "name": "Lever la patte (Paw Raising)",
+            "meaning": "Une expression pour demander de l'attention ou tenter de calmer une légère tension.",
+            "response": "Si vous le remarquez, évitez de donner des ordres stricts. Parlez calmement et caressez-le doucement."
+          },
+          {
+            "name": "Cligner doucement des yeux (Soft Blinking)",
+            "meaning": "Un signe de confiance profonde et d'affection, confirmant qu'il se sent en sécurité avec vous.",
+            "response": "Quand vos regards se croisent, clignez des yeux lentement pour partager ce sentiment de paix."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Stimulation cognitive avec des jeux d'intelligence",
+            "text": "En plus des promenades physiques, utilisez des gamelles anti-glouton ou des tapis de fouille pour stimuler leur esprit vif, les aidant à canaliser leur trop-plein d'énergie."
+          },
+          {
+            "name": "Après-midi : Contrôle des oreilles et massage de nettoyage doux",
+            "text": "Versez 2 à 3 gouttes de nettoyant auriculaire dans le conduit, massez doucement la base de l'oreille et essuyez le cérumen dissous avec un coton pour prévenir les otites."
+          },
+          {
+            "name": "Soir : Brossage carde pour éviter les nœuds et dermatites",
+            "text": "Le pelage frisé du caniche s'emmêlant facilement, brossez-le quotidiennement avec une carde pour retirer les poils morts et aérer la peau."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Est-il normal que mon caniche secoue la tête vigoureusement après le nettoyage des oreilles ?",
+            "answer": "Oui, c'est une réaction normale d'auto-nettoyage. Cela aide à expulser le nettoyant et les débris dissous. Essuyez simplement l'extérieur du pavillon de l'oreille."
+          },
+          {
+            "question": "Comment empêcher mon caniche de mâcher les meubles ?",
+            "answer": "Le caniche mâche souvent par ennui lorsque son esprit n'est pas assez stimulé. Remplacez les jouets à mâcher simples par des jeux d'intelligence et de fouille pour fatiguer son cerveau."
+          }
+        ]
+      },
+      "de": {
+        "title": "Denkspiele und Ohrenpflege: Tägliche 3-Schritte-Routine für den intelligenten Pudel",
+        "description": "Erfahren Sie, wie Sie Langeweile bei intelligenten Pudeln durch Denkspiele lindern und Ohrentzündungen mit einer 3-Schritte-Routine vorbeugen.",
+        "authority": "Offizieller Rasseführer des American Kennel Club (AKC) und IAABC-Verhaltensprotokolle",
+        "profile": {
+          "breed": "Pudel (Canis lupus familiaris / Poodle)",
+          "lifespan": "12 ~ 15 Jahre",
+          "sleep_pattern": "12 ~ 14 Stunden (besitzersynchron)",
+          "temperament": "Sehr intelligent, Aktiv, Freundlich"
+        },
+        "intro": "Pudel gelten als eine der intelligentesten Hunderassen der Welt. Sie sind zwar sehr lernwillig und feinfühlig für die Gefühle ihrer Besitzer, können sich aber aufgrund ihres aktiven Geistes leicht langweilen und stressen. 🐩 Da ihre Hängeohren den Gehörgang bedecken, sind sie aufgrund schlechter Belüftung anfällig für chronische Ohrentzündungen. Heute gibt  Tipps, wie Sie Ihren intelligenten Pudel geistig auslasten können, und stellt eine 3-Schritte-Pflegeroutine vor, um seine Ohren sauber und gesund zu halten.",
+        "whyTitle": "Körpersprache des Pudels: Unterscheidung zwischen Forderung und Stress",
+        "whyDesc": "Aufgrund ihrer Intelligenz kommunizieren Pudel aktiv über die Körpersprache. Typische Signale sind **'Pfotenheben' (Paw Raising)** und **'sanftes Blinzeln' (Soft Blinking)**. Wenn ein Pudel eine Vorderpfote hebt, sieht das wie eine Bitte um ein Leckerli aus, ist aber oft eine Botschaft wie 'Gib mir Aufmerksamkeit' oder ein Beschwichtigungssignal mit der Bedeutung 'Ich bin etwas angespannt, bitte sei sanft'. Sanftes Anstarren und langsames Blinzeln ist ihre Art, Vertrauen zu zeigen.",
+        "body_signals": [
+          {
+            "name": "Pfotenheben (Paw Raising)",
+            "meaning": "Ein Ausdruck, um Aufmerksamkeit zu suchen oder leichte Anspannung zu beruhigen.",
+            "response": "Wenn Sie dies bemerken, vermeiden Sie energische Befehle. Sprechen Sie ruhig und streicheln Sie ihn."
+          },
+          {
+            "name": "Sanftes Blinzeln (Soft Blinking)",
+            "meaning": "Ein Zeichen von tiefem Vertrauen und Zuneigung, das zeigt, dass sie sich bei Ihnen sicher fühlen.",
+            "response": "Wenn sich Ihre Blicke treffen, blinzeln Sie langsam zurück, um dieses Gefühl der Ruhe zu teilen."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Geistige Auslastung mit Denkspielzeug",
+            "text": "Nutzen Sie neben Spaziergängen auch Labyrinth-Näpfe oder Schnüffelmatten, um ihren aktiven Geist zu fordern und überschüssige Energie abzubauen."
+          },
+          {
+            "name": "Nachmittag: Ohrenkontrolle und sanfte Reinigungsmassage",
+            "text": "Geben Sie 2-3 Tropfen Ohrreiniger in den Gehörgang, massieren Sie die Ohrbasis sanft und wischen Sie gelösten Schmalz mit einem Wattepad ab, um Ohrentzündungen vorzubeugen."
+          },
+          {
+            "name": "Abend: Bürsten gegen Verfilzungen und Hautprobleme",
+            "text": "Da das lockige Fell leicht verfilzt, bürsten Sie es täglich mit einer Zupfbürste, um abgestorbene Haare zu entfernen und die Belüftung der Haut zu fördern."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Ist es normal, dass mein Pudel nach der Ohrenreinigung heftig den Kopf schüttelt?",
+            "answer": "Ja, das ist eine normale Selbstreinigungsreaktion. Sie hilft, den Reiniger samt gelöstem Schmutz herauszuschütteln. Wischen Sie einfach die Ohrmuschel sanft ab."
+          },
+          {
+            "question": "Wie gewöhne ich meinem Pudel das Kauen an Möbeln ab?",
+            "answer": "Pudel kauen oft aus Langeweile, wenn sie geistig nicht ausgelastet sind. Bieten Sie statt einfachem Kauspielzeug vermehrt Denkspiele und Schnüffelteppiche an."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Jogos mentais e cuidados com as orelhas: Rotina diária de 3 passos para o Poodle inteligente",
+        "description": "Descubra como aliviar o tédio em poodles inteligentes com jogos mentais e prevenir infecções de ouvido com uma rotina diária de 3 passos.",
+        "authority": "Guia Oficial de Raças do American Kennel Club (AKC) e Protocolos de Comportamento da IAABC",
+        "profile": {
+          "breed": "Poodle (Canis lupus familiaris)",
+          "lifespan": "12 ~ 15 anos",
+          "sleep_pattern": "12 ~ 14 horas (sincronizado com o tutor)",
+          "temperament": "Muito Inteligente, Ativo, Amigável"
+        },
+        "intro": "Os poodles são reconhecidos como uma das raças de cães mais inteligentes do mundo. Embora sejam muito adestráveis e sensíveis às emoções de seus tutores, eles podem ficar entediados e estressados facilmente devido às suas mentes ativas. 🐩 Além disso, como suas orelhas caídas cobrem o canal auditivo, eles são propensos a infecções crônicas de ouvido devido à má ventilação. Neste guia, compartilha dicas para manter seu poodle mentalmente estimulado e apresenta uma rotina de cuidados diários de 3 passos para manter suas orelhas limpas e saudáveis.",
+        "whyTitle": "Linguagem corporal do poodle: Distinguindo exigência de estresse",
+        "whyDesc": "Devido à sua inteligência, os poodles comunicam-se ativamente por meio da linguagem corporal. Os sinais típicos incluem **'levantar a pata' (Paw Raising)** e **'piscar suavemente' (Soft Blinking)**. Quando um poodle levanta uma pata dianteira, parece um pedido de carinho, mas muitas vezes é uma mensagem dizendo 'dê-me atenção' ou um sinal de calma que significa 'estou um pouco tenso, por favor, seja gentil'. Olhar suavemente e piscar lentamente é sua forma de mostrar carinho.",
+        "body_signals": [
+          {
+            "name": "Levantar a pata (Paw Raising)",
+            "meaning": "Uma expressão que busca atenção ou tenta acalmar uma leve tensão ou ansiedade.",
+            "response": "Se notar, evite dar ordens enérgicas. Fale em um tom calmo e acaricie-o suavemente."
+          },
+          {
+            "name": "Piscar suavemente (Soft Blinking)",
+            "meaning": "Um sinal de profunda confiança e carinho, confirmando que se sentem seguros com você.",
+            "response": "Quando se olharem, pisque de volta lentamente para compartilhar e reforçar essa sensação de paz."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Alívio cognitivo com brinquedos inteligentes",
+            "text": "Além dos passeios físicos, use comedouros interativos ou tapetes de faro para estimular sua mente ativa, ajudando a canalizar o excesso de energia."
+          },
+          {
+            "name": "Tarde: Verificação das orelhas e massagem suave de limpeza",
+            "text": "Coloque 2 a 3 gotas de limpador de orelha no canal, massageie suavemente a base da orelha e limpe a cera dissolvida com um algodão para evitar otites."
+          },
+          {
+            "name": "Noite: Escovação com rasqueadeira para evitar nós na pele",
+            "text": "Como a pelagem crespa do poodle embaraça facilmente, escove diariamente com uma rasqueadeira para remover pelos mortos e permitir a ventilação da pele."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "É normal o meu poodle sacudir a cabeça vigorosamente após a limpeza das orelhas?",
+            "answer": "Sim, é uma reação normal de autolimpeza. Ajuda a expelir o limpador com a sujeira do interior da orelha. Apenas limpe a parte externa da orelha com cuidado."
+          },
+          {
+            "question": "Como faço para o meu poodle parar de roer móveis?",
+            "answer": "Poodles costumam roer por tédio devido à falta de estimulação mental. Em vez de brinquedos de mastigar comuns, introduza quebra-cabeças e jogos interativos para exercitar o cérebro."
+          }
+        ]
+      },
+      "id": {
+        "title": "Permainan Otak dan Perawatan Telinga: Rutinitas Harian 3 Langkah untuk Poodle yang Cerdas",
+        "description": "Temukan cara mengatasi kebosanan pada Poodle yang cerdas dengan permainan otak dan mencegah infeksi telinga menggunakan 3 langkah rutinitas harian.",
+        "authority": "Panduan Ras Resmi American Kennel Club (AKC) & Protokol Perilaku IAABC",
+        "profile": {
+          "breed": "Poodle (Canis lupus familiaris)",
+          "lifespan": "12 ~ 15 tahun",
+          "sleep_pattern": "12 ~ 14 jam (sinkron dengan pemilik)",
+          "temperament": "Sangat Cerdas, Aktif, Ramah"
+        },
+        "intro": "Poodle secara luas diakui sebagai salah satu ras anjing paling cerdas di dunia. Meskipun mereka sangat mudah dilatih dan peka terhadap emosi pemiliknya, mereka dapat dengan mudah bosan dan stres karena pikiran mereka yang aktif. 🐩 Selain itu, karena telinga mereka yang terkulai menutupi saluran telinga, mereka sangat rentan terhadap infeksi telinga kronis (otitis) akibat ventilasi yang buruk. Dalam panduan ini, kami membagikan tips untuk menjaga Poodle cerdas Anda terstimulasi secara mental dan memperkenalkan 3 langkah rutinitas harian untuk menjaga telinga mereka tetap bersih dan sehat.",
+        "whyTitle": "Bahasa Tubuh Poodle: Membedakan Permintaan dengan Stres",
+        "whyDesc": "Karena kecerdasan mereka, Poodle aktif berkomunikasi menggunakan bahasa tubuh. Sinyal yang khas meliputi **'mengangkat kaki depan' (Paw Raising)** dan **'berkedip lembut' (Soft Blinking)**. Saat Poodle mengangkat kaki depan, itu terlihat seperti meminta bersalaman, tetapi sering kali merupakan pesan yang mengatakan 'beri aku perhatian' atau sinyal penenang yang berarti 'aku agak tegang, harap lembut.' Menatap lembut dan berkedip perlahan adalah cara mereka menunjukkan kepercayaan dan kasih sayang.",
+        "body_signals": [
+          {
+            "name": "Mengangkat Kaki Depan (Paw Raising)",
+            "meaning": "Ekspresi mencari perhatian atau mencoba menenangkan ketegangan atau kecemasan ringan.",
+            "response": "Jika terlihat, hindari memberikan perintah yang memaksa. Bicaralah dengan nada tenang dan belai dengan lembut."
+          },
+          {
+            "name": "Berkedip Lembut (Soft Blinking)",
+            "meaning": "Tanda kepercayaan dan kasih sayang yang mendalam, menegaskan bahwa mereka merasa aman dengan Anda.",
+            "response": "Saat mata saling bertatapan, berkedip kembalilah perlahan untuk membagikan perasaan tenang tersebut."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Peredaan Kognitif dengan Mainan Otak",
+            "text": "Selain jalan-jalan fisik, gunakan mangkuk labirin atau alas pengendus untuk merangsang pikiran aktif mereka, membantu mengarahkan kelebihan energi mereka secara produktif."
+          },
+          {
+            "name": "Siang: Pemeriksaan Telinga dan Pijat Pembersihan Lembut",
+            "text": "Teteskan 2-3 tetes pembersih telinga ke dalam saluran telinga, pijat perlahan pangkal telinga, dan seka kotoran yang larut dengan kapas untuk mencegah otitis."
+          },
+          {
+            "name": "Malam: Menyikat Bulu untuk Mencegah Kusut pada Kulit",
+            "text": "Karena bulu Poodle yang keriting mudah kusut, sikatlah setiap hari dengan sikat slicker untuk merontokkan bulu mati dan melancarkan sirkulasi udara pada kulit."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah normal bagi Poodle saya menggelengkan kepalanya dengan kuat setelah pembersihan telinga?",
+            "answer": "Ya, itu adalah reaksi pembersihan diri yang normal. Ini membantu mengeluarkan pembersih beserta kotoran dari dalam telinga. Cukup seka daun telinga bagian luar secara perlahan."
+          },
+          {
+            "question": "Bagaimana cara menghentikan Poodle saya menggigit furnitur?",
+            "answer": "Poodle sering menggigit karena bosan akibat kurangnya stimulasi mental. Alih-alih mainan kunyah biasa, perkenalkan teka-teki dan permainan interaktif untuk melatih otak mereka."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/poodle_care.webp"
+  }
 }

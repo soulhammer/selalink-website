@@ -1,459 +1,459 @@
 {
-    "dwarf-hamster-care": {
-        "pubDate": "2026-03-20",
-        "updatedDate": "2026-07-26",
-        "locales": {
-            "ko": {
-                "title": "드워프 햄스터의 행동 신호 해석과 당뇨·체온 관리를 위한 3단계 데일리 케어",
-                "description": "귀여운 소형 설치류 드워프 햄스터(Dwarf Hamster). 귀 접힘과 방어적 드러눕기 신호 해석, 의사 동면(저체온증) 예방 및 당뇨 관리를 위한 3단계 홈케어 루틴을 소개합니다.",
-                "authority": "국제 소동물 수의학회 (WSAVA) 및 California Hamster Association 케어 프로토콜",
-                "profile": {
-                    "breed": "드워프 햄스터 (Dwarf Hamster)",
-                    "lifespan": "1.5 ~ 2.5년",
-                    "sleep_pattern": "12 ~ 14시간 (야행성/박명성, 낮 동안 굴 속 수면)",
-                    "temperament": "경계심 많음, 호기심 많음, 신속함, 민감함"
-                },
-                "intro": "작고 커다란 볼주머니가 매력적인 드워프 햄스터(Dwarf Hamster)는 정글리안(윈터화이트), 캠벨, 로보로브스키 등 다양한 종으로 전 세계에서 사랑받는 소형 설치류입니다. 드워프 햄스터는 사탕무나 과일 등 당분이 높은 음식을 섭취할 경우 당뇨병(Diabetes)에 걸리기 매우 쉬우며, 실내 온도가 15°C 이하로 떨어지면 생명을 위협하는 의사 동면(Torpor/저체온증) 상태에 빠질 수 있습니다. 또한 물목욕은 피모의 보호 유지분을 제거해 치명적인 저체온증을 유발하므로 모래목욕이 필수적입니다. 이번 가이드에서는 드워프 햄스터의 신체 신호를 올바르게 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
-                "whyTitle": "드워프 햄스터의 바디 랭귀지: 귀 접힘과 방어적 드러눕기 (Defensive Lying)",
-                "whyDesc": "드워프 햄스터는 귀의 모양과 몸의 자세로 불안과 스트레스를 명확히 표현합니다. 귀를 몸에 바짝 붙이고 납작하게 접는 **'귀 접힘(Ear Pinning)'**은 공포, 경계, 또는 체력 저하를 나타내는 행동입니다. 반면 배를 보이고 뒤집어져 이빨을 드러내며 소리를 지르는 **'방어적 드러눕기(Defensive Lying / Screeching)'**는 더 이상 물러설 곳이 없는 극심한 위협감을 느낄 때 나타내는 자해 및 방어 신호입니다.",
-                "body_signals": [
-                    {
-                        "name": "귀를 뒤로 바짝 붙이고 납작하게 접음 (Ear Pinning)",
-                        "meaning": "주변 환경에 대한 불안감, 공포, 졸음, 또는 질병으로 인한 컨디션 저하 신호입니다.",
-                        "response": "손을 대거나 핸들링을 하지 말고 은신처에서 스스로 안정을 찾을 수 있도록 조용히 내버려 둡니다."
-                    },
-                    {
-                        "name": "배를 보이고 뒤집어져 이빨을 드러냄 (Defensive Lying / Screeching)",
-                        "meaning": "극심한 공포와 생명의 위협을 느꼈을 때 나타내는 최후의 공격 및 방어 행동입니다.",
-                        "response": "즉시 자극 요소(손, 소음)를 치우고 사육장 케이지를 어둡게 가려주어 스트레스를 완화시킵니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 실내 온도(20°C~24°C) 점검 및 저당분·저지방 사료 급여",
-                        "text": "의사 동면 방지를 위해 사육장 온도를 확인하고, 당뇨 예방을 위해 과일과 단 간식을 배제한 전용 혼합 사료와 단백질(밀웜)을 급여합니다."
-                    },
-                    {
-                        "name": "낮: 직사광선 차단 및 베딩 깊이(15cm 이상) 점검",
-                        "text": "야행성 수면을 위해 조용하고 어두운 환경을 조성하고, 굴 파기 본능을 충족할 수 있도록 무향 베딩을 충분히 깔아줍니다."
-                    },
-                    {
-                        "name": "저녁: 사목욕(사막모래) 청결 점검 및 챗바퀴 작동 모니터링",
-                        "text": "물목욕 대신 전용 사막모래 목욕탕의 찌꺼기를 청소해 주며, 관절 손상을 막기 위해 등 휨이 없는 대형 무소음 챗바퀴(17~21cm 이상) 작동 상태를 점검합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "햄스터가 차갑게 굳어있는데 죽은 건가요, 동면인 건가요?",
-                        "answer": "실내 온도가 15°C 이하로 떨어지면 에너지 절약을 위해 의사 동면(Torpor) 상태에 빠진 것일 수 있습니다. 죽은 것처럼 보이지만 수염이나 숨의 미세한 떨림이 있을 수 있습니다. 즉시 따뜻한 수건이나 체온으로 천천히(1~2시간에 걸쳐) 체온을 올려주어야 하며, 급격한 가열은 장기 손상을 유발하므로 주의해야 합니다."
-                    },
-                    {
-                        "question": "햄스터에게 냄새가 나는데 물목욕을 시켜줘도 되나요?",
-                        "answer": "절대 물목욕을 시키면 안 됩니다! 햄스터는 감기에 매우 걸리기 쉽고 털이 잘 마르지 않아 치명적인 저체온증이나 폐렴으로 사망할 수 있습니다. 햄스터는 스스로 그루밍을 하며, 기름기 제거와 위생을 위해 반드시 햄스터 전용 사막모래 목욕탕을 제공해 주어야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Dwarf Hamster Behavioral Signals and 3-Step Daily Routine for Temperature and Diabetes Management",
-                "description": "Care guide for the adorable Dwarf Hamster. Interpret ear pinning and defensive lying, prevent torpor (pseudo-hibernation), and manage diabetes with a 3-step daily routine.",
-                "authority": "World Small Animal Veterinary Association (WSAVA) & California Hamster Association Care Standards",
-                "profile": {
-                    "breed": "Dwarf Hamster (Dwarf Hamster)",
-                    "lifespan": "1.5 - 2.5 Years",
-                    "sleep_pattern": "12 - 14 Hours (Nocturnal/Crepuscular, Sleeps in burrows during the day)",
-                    "temperament": "Alert, Curious, Fast, Sensitive"
-                },
-                "intro": "Loved worldwide for their adorable cheek pouches, Dwarf Hamsters encompass species like Winter Whites, Campbell's, and Roborovskis. Dwarf Hamsters are genetically highly prone to Diabetes Mellitus if fed sugary foods like sugar beets or fruits. Furthermore, if room temperatures drop below 15°C (59°F), they can fall into a life-threatening state of pseudo-hibernation (Torpor / hypothermia). Water baths must be strictly avoided as they strip protective coat oils and induce fatal hypothermia, making sand baths essential. In this guide, presents a 3-step daily care routine to understand your dwarf hamster's body signals and maintain its health.",
-                "whyTitle": "Dwarf Hamster Body Language: Ear Pinning and Defensive Lying",
-                "whyDesc": "Dwarf hamsters communicate anxiety and stress clearly through ear posture and body positions. Holding ears flattened tightly against the head **'Ear Pinning'** signals fear, high alertness, or physical exhaustion. Conversely, flipping onto their back, baring teeth, and screeching **'Defensive Lying / Screeching'** is a desperate threat display shown when feeling backed into a corner with extreme fear.",
-                "body_signals": [
-                    {
-                        "name": "Ears Flattened Tightly Against Head (Ear Pinning)",
-                        "meaning": "A sign of environmental anxiety, fear, drowsiness, or physical weakness due to illness.",
-                        "response": "Avoid reaching in or handling; leave them undisturbed so they can regain calm inside their hideout."
-                    },
-                    {
-                        "name": "Flipping onto Back & Baring Teeth (Defensive Lying / Screeching)",
-                        "meaning": "An extreme self-defense response triggered by severe fear and perceived life threat.",
-                        "response": "Immediately withdraw hands or noise sources and dim cage lighting to reduce environmental stress."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Room Temp (20°C–24°C) Check & Low-Sugar/Low-Fat Feeding",
-                        "text": "Verify cage temperature to prevent torpor, feeding a diabetes-safe species-appropriate seed mix and mealworms while strictly excluding sugary treats."
-                    },
-                    {
-                        "name": "Afternoon: Direct Sunlight Block & Deep Bedding Check (15cm+)",
-                        "text": "Provide a quiet, dark environment for nocturnal sleep and layer deep unscented bedding (15cm+) to satisfy burrowing instincts."
-                    },
-                    {
-                        "name": "Evening: Sand Bath Cleaning & Quiet Exercise Wheel Monitoring",
-                        "text": "Clean waste from the desert sand bath instead of giving water baths, checking that a large solid-surface wheel (17–21cm+) operates smoothly without bending their spine."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "My hamster is cold and stiff—are they dead or in hibernation?",
-                        "answer": "If room temperature dropped below 15°C (59°F), they may have entered pseudo-hibernation (Torpor) to save energy. Though appearing lifeless, slight twitching of whiskers or shallow breathing may be present. Slowly warm them using a warm towel or body heat over 1–2 hours; rapid heating causes fatal organ damage."
-                    },
-                    {
-                        "question": "My hamster smells a bit—can I give them a water bath?",
-                        "answer": "Never give a hamster a water bath! Hamsters catch colds easily, and wet fur stays damp for a long time, causing fatal hypothermia or pneumonia. Hamsters groom themselves constantly and require a dedicated desert sand bath to remove oil and maintain coat hygiene."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ドワーフハムスターの行動サイン解読と体温・糖尿病管理のための3ステップデイリールーティン",
-                "description": "愛らしい小型ペットのドワーフハムスター（Dwarf Hamster）。耳伏せや仰向け威嚇サインの解読、擬似冬眠（低体温症）予防、糖尿病管理のための3ステップホームケアを紹介します。",
-                "authority": "世界小動物獣医師会(WSAVA)およびカリフォルニアハムスター協会飼育基準",
-                "profile": {
-                    "breed": "ドワーフハムスター (Dwarf Hamster)",
-                    "lifespan": "1.5 〜 2.5年",
-                    "sleep_pattern": "12 〜 14時間 (夜行性/薄明薄暮性、昼間は巣穴で睡眠)",
-                    "temperament": "警戒心が強い、好奇心旺盛、すばやい、環境変化に敏感"
-                },
-                "intro": "小さな体と大きなほお袋が魅力的なドワーフハムスター（Dwarf Hamster）は、ジャンガリアン（ウィンターホワイト）、キャンベル、ロボロフスキーなど多様な種で世界中から愛されている小型齧歯類です。ドワーフハムスターは果物や糖分の多いおやつを与えると糖尿病（Diabetes）にかかりやすく、室温が15°C以下に下がると生命を脅かす「擬似冬眠（Torpor/低体温症）」状態に陥る危険があります。また、水浴びは皮脂膜を奪い致命的な低体温症を引き起こすため、砂浴びが不可欠です。本記事では、ドワーフハムスターのサインを正しく理解し、健康を守る3ステップルーティンをお届けします。",
-                "whyTitle": "ドワーフハムスターのボディランゲージ：耳伏せと仰向け威嚇 (Defensive Lying)",
-                "whyDesc": "ドワーフハムスターは耳の形と体勢で不安やストレスを明確に表現します。耳を頭にぴったりと伏せる**「耳伏せ（Ear Pinning）」**は、恐怖、警戒、または体調不良を示す行動です。一方、仰向けにひっくり返って歯をむき出しにして鳴き声を上げる**「仰向け威嚇（Defensive Lying / Screeching）」**は、追いつめられて極度の脅威を感じた際に見せる防御サインです。",
-                "body_signals": [
-                    {
-                        "name": "耳を後ろに伏せて平らにする (Ear Pinning)",
-                        "meaning": "周囲への不安感、恐怖、眠気、または体調不良によるコンディション低下のサインです。",
-                        "response": "手を伸ばしたり無理に触らず、シェルターの中で自分で落ち着けるよう静かにしておきましょう。"
-                    },
-                    {
-                        "name": "仰向けにひっくり返って歯を見せる (Defensive Lying / Screeching)",
-                        "meaning": "極度の恐怖と生命の危機を感じた際に見せる最終的な攻撃・防御行動です。",
-                        "response": "すぐに刺激（手や騒音）を取り除き、ケージを暗く覆ってストレスを和らげてください。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：室温（20°C〜24°C）の点検と低糖質・低脂質フードの給餌",
-                        "text": "擬似冬眠を防ぐために室温を確認し、糖尿病予防のため果物や甘いおやつを除いたペレット・ペレットミックスとタンパク質を与えます。"
-                    },
-                    {
-                        "name": "昼：直射日光の遮断と床材の深さ（15cm以上）の確認",
-                        "text": "夜行性の睡眠のために静かで暗い環境を整え、穴掘り本能を満たせるよう無香料の床材を十分に敷き詰めます。"
-                    },
-                    {
-                        "name": "夜：砂浴び（浴び砂）の清潔確認と回し車の作動モニタリング",
-                        "text": "水浴びの代わりに専用の砂浴び容器内の汚れを取り除き、背骨の曲がらない大きな静音回し車（17〜21cm以上）の作動を確認します。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "ハムスターが冷たくなって固まっていますが、死んでいるのでしょうか、冬眠でしょうか？",
-                        "answer": "室温が15°C以下に下がると、エネルギー節約のため「擬似冬眠（Torpor）」状態に陥っている可能性があります。死んでいるように見えますが、ひげや呼吸の微かな震えがある場合があります。すぐに温かいタオルや体温で1〜2時間かけてゆっくり温めてください。急激な加熱は内臓にダメージを与えるため厳禁です。"
-                    },
-                    {
-                        "question": "ハムスターからニオイがするのですが、水浴びをさせてもいいですか？",
-                        "answer": "絶対に水浴びをさせてはいけません！ハムスターは風邪を引きやすく毛が乾きにくいため、致命的な低体温症や肺炎で death に至ることがあります。ハムスターは自分で毛づくろいを行い、皮脂の除去と衛生維持のためには必ず専用のハムスター用砂浴び（浴び砂）を用意してください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "侏儒仓鼠行为信号解读与体温及糖尿病管理的3步日常流程",
-                "description": "可爱小型啮齿类侏儒仓鼠（Dwarf Hamster）护理指南。解读压耳与仰面防御信号，预防假冬眠（低体温症）及管理糖尿病的3步骤家庭护理。",
-                "authority": "世界小动物兽医师协会 (WSAVA) 与加利福尼亚仓鼠协会护理标准",
-                "profile": {
-                    "breed": "侏儒仓鼠 (Dwarf Hamster)",
-                    "lifespan": "1.5 ~ 2.5年",
-                    "sleep_pattern": "12 ~ 14小时 (夜行性/薄暮性，白天在地道中睡眠)",
-                    "temperament": "警惕性高、好奇心强、敏捷、对环境敏感"
-                },
-                "intro": "拥有小巧体型和大颊囊的侏儒仓鼠（Dwarf Hamster）囊括了三线（加卡利亚）、坎贝尔及罗伯罗夫斯基（公公婆婆）等受全球喜爱的品种。侏儒仓鼠在摄入甜菜或水果等高糖食物时极易患上糖尿病（Diabetes）；若室温降至15°C以下，则极易陷入危及生命的假冬眠（Torpor/低体温症）状态。此外，水洗会带走其毛皮保护性油脂并引发致命的低体温症，因此必须使用专用浴沙进行沙浴。本指南将带您准确解读侏儒仓鼠 身体语言，并介绍维持其健康的3步骤日常护理流程。",
-                "whyTitle": "侏儒仓鼠的肢体语言：压耳与仰面姿态 (Defensive Lying)",
-                "whyDesc": "侏儒仓鼠通过耳朵姿态与体位清晰表达不安与压力。将耳朵紧贴头部压平的**“压耳 (Ear Pinning)”**，是表达恐惧、警惕或体能衰竭的信号。相反，翻身仰面朝天、露齿并发出尖叫的**“仰面防御 (Defensive Lying / Screeching)”**，则是处于无路可退的极度恐慌中发出的自卫与防御警告。",
-                "body_signals": [
-                    {
-                        "name": "耳朵紧贴头部向后压平 (Ear Pinning)",
-                        "meaning": "对周围环境感到不安、恐惧、困倦或因生病导致体能下降的信号。",
-                        "response": "切勿伸手抓握，让其在躲避穴中自行恢复平静。"
-                    },
-                    {
-                        "name": "翻身仰面朝天并露出牙齿 (Defensive Lying / Screeching)",
-                        "meaning": "感受到极度恐惧与生命威胁时做出的最终自卫防御行为。",
-                        "response": "立即撤离刺激源（手或噪音），调暗笼舍光线以缓解其压力。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：室温（20°C~24°C）检查与投喂低糖低脂主粮",
-                        "text": "检查笼舍温度以防假冬眠，投喂无糖配方的专类谷物合成粮与蛋白质（面包虫），杜绝高糖零食。"
-                    },
-                    {
-                        "name": "中午：遮蔽日光与检查垫料深度（15cm以上）",
-                        "text": "为夜行性睡眠提供安静黑暗的环境，铺设足够深度的无香垫料（15cm以上）以满足打洞天性。"
-                    },
-                    {
-                        "name": "晚上：沙浴（沙漠沙）清洁检查与跑轮运转监控",
-                        "text": "清理浴沙盆中的废弃物而非水洗，并检查不弯曲脊柱的大号静音跑轮（17~21cm以上）运转状态。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "仓鼠身体冰冷僵硬，是死亡了还是进入冬眠了？",
-                        "answer": "如果室温低于15°C，仓鼠可能为了节省能量而进入了“假冬眠 (Torpor)”状态。虽然看似无生命迹象，但胡须或呼吸可能存在微弱震颤。必须立即用温毛巾或体温在1~2小时内缓慢复温，切勿快速加热，以免造成内脏衰竭。"
-                    },
-                    {
-                        "question": "仓鼠身上有异味，可以给它水洗吗？",
-                        "answer": "绝对不能水洗！仓鼠极易感冒且毛发难以干透，水洗会导致致命的低体温症或肺炎。仓鼠会自我梳理，只需提供专用沙漠浴沙供其沙浴即可去除油脂并保持清洁。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Señales de conducta en el Hámster Enano y rutina diaria de 3 pasos para el control de temperatura y diabetes",
-                "description": "Guía de cuidado para el Hámster Enano. Interprete las orejas replegadas y la postura defensiva, prevenga el torpor (seudohibernación) y gestione la diabetes en 3 pasos.",
-                "authority": "Asociación Mundial de Veterinarios de Pequeños Animales (WSAVA) y Normas de la California Hamster Association",
-                "profile": {
-                    "breed": "Hámster Enano (Dwarf Hamster)",
-                    "lifespan": "1.5 ~ 2.5 años",
-                    "sleep_pattern": "12 ~ 14 horas (Nocturno/Crepuscular, duerme en madrigueras de día)",
-                    "temperament": "Alerta, Curioso, Rápido, Sensible"
-                },
-                "intro": "Amados mundialmente por sus abultadas abazones, los Hámsteres Enanos abarcan especies como los Ruso (Winter White), Campbell y Roborovski. Son genéticamente propensos a la diabetes si consumen alimentos azucarados. Además, si la temperatura ambiente cae por debajo de 15°C, pueden entrar en un estado letal de seudohibernación (Torpor / hipotermia). Los baños de agua deben evitarse estrictamente porque eliminan los aceites protectores del pelo, haciendo indispensables los baños de arena. En esta guía, presenta una rutina de 3 pasos para cuidar su salud.",
-                "whyTitle": "Lenguaje corporal del Hámster Enano: Orejas pegadas y postura defensiva de espalda",
-                "whyDesc": "Los hámsteres enanos comunican ansiedad a través de las orejas y la posición del cuerpo. Mantener las orejas pegadas a la cabeza **'Orejas pegadas (Ear Pinning)'** indica miedo, alerta o agotamiento. En cambio, volcarse sobre su lomo, enseñar los dientes y chillar **'Postura defensiva de espalda (Defensive Lying)'** es una muestra desesperada de amenaza cuando se sienten acorralados.",
-                "body_signals": [
-                    {
-                        "name": "Orejas aplastadas contra la cabeza (Ear Pinning)",
-                        "meaning": "Señal de ansiedad ambiental, miedo, somnolencia o debilidad física por enfermedad.",
-                        "response": "Evite meter la mano; déjelo tranquilo dentro de su refugio para que recupere la calma."
-                    },
-                    {
-                        "name": "Volcarse sobre la espalda y enseñar dientes (Defensive Lying / Screeching)",
-                        "meaning": "Respuesta extrema de autodefensa ante un miedo intenso o amenaza percibida a su vida.",
-                        "response": "Retire de inmediato la mano o la fuente de ruido y atenúe la luz de la jaula."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Control de temperatura (20°C–24°C) y alimentación baja en azúcar",
-                        "text": "Verifique la temperatura de la jaula para prevenir el torpor y ofrezca una mezcla de semillas apta sin azúcares junto con proteína."
-                    },
-                    {
-                        "name": "Tarde: Bloqueo de luz solar e inspección de sustrato profundo (15 cm+)",
-                        "text": "Proporcione un ambiente oscuro para su descanso nocturno y coloque sustrato inodoro profundo (15 cm+) para cavar."
-                    },
-                    {
-                        "name": "Noche: Limpieza del baño de arena y revisión de la rueda de ejercicio",
-                        "text": "Limpie los desperdicios del baño de arena de desierto y compruebe que su rueda amplia (17-21 cm+) gire sin doblar su columna."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mi hámster está frío y rígido, ¿está muerto o hibernando?",
-                        "answer": "Si la temperatura bajó de 15°C, es posible que haya entrado en seudohibernación (Torpor) para ahorrar energía. Aunque parezca inerte, puede haber leves movimientos en sus bigotes. Caliéntelo gradualmente con una toalla tibia durante 1-2 horas; un calentamiento brusco provoca fallos orgánicos."
-                    },
-                    {
-                        "question": "Mi hámster huele mal, ¿puedo bañarlo con agua?",
-                        "answer": "¡Jamás lo bañe con agua! Los hámsteres se resfrían con facilidad y el pelo mojado tarda en secar, causando hipotermia o neumonía. Ellos se acicalan solos y requieren arena de desierto específica para retirar la grasa del pelaje."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Décodage du comportement du Hamster Nain et routine quotidienne en 3 étapes pour la température et le diabète",
-                "description": "Guide de soins pour l'adorable Hamster Nain. Décryptez les oreilles plaquées et la posture défensive, prévenez la torpeur (pseudo-hibernation) et gérez le diabète en 3 étapes.",
-                "authority": "Association Mondiale des Vétérinaires pour Petits Animaux (WSAVA) & Normes de la California Hamster Association",
-                "profile": {
-                    "breed": "Hamster Nain (Dwarf Hamster)",
-                    "lifespan": "1.5 ~ 2.5 ans",
-                    "sleep_pattern": "12 ~ 14 heures (Nocturne/Crépusculaire, dort dans des terriers le jour)",
-                    "temperament": "Alerte, Curieux, Rapide, Sensible"
-                },
-                "intro": "Appréciés dans le monde entier pour leurs abajoues, les Hamsters Nains regroupent les espèces comme le Russe (Winter White), Campbell et Roborovski. Le hamster nain est génétiquement très sujet au diabète s'il consomme des aliments sucrés. De plus, si la température descend sous 15°C, il peut tomber dans un état mortel de pseudo-hibernation (Torpeur / hypothermie). Les bains d'eau doivent être strictement proscrits car ils détruisent le sébum protecteur du pelage, rendant les bains de sable indispensables. Dans ce guide, vous présente une routine en 3 étapes.",
-                "whyTitle": "Langage corporel du Hamster Nain : Oreilles plaquées et position défensive sur le dos",
-                "whyDesc": "Les hamsters nains expriment leur anxiété par leurs oreilles et la posture de leur corps. Plaquer les oreilles contre la tête **« Oreilles plaquées (Ear Pinning) »** traduit la peur, la vigilance ou la fatigue. En revanche, se retourner sur le dos, montrer les dents et crier **« Position défensive sur le dos (Defensive Lying) »** est un signal de défense désespéré en cas de menace extrême.",
-                "body_signals": [
-                    {
-                        "name": "Oreilles totalement aplaties contre la tête (Ear Pinning)",
-                        "meaning": "Signe d'anxiété, de peur, de somnolence ou de faiblesse liée à une maladie.",
-                        "response": "N'essayez pas de le saisir ; laissez-le tranquille dans son abri pour qu'il retrouve son calme."
-                    },
-                    {
-                        "name": "Se retourner sur le dos en montrant les dents (Defensive Lying / Screeching)",
-                        "meaning": "Comportement d'autodéfense ultime déclenché par une peur panique et une menace vitale.",
-                        "response": "Retirez immédiatement la main ou la source de bruit et tamisez la lumière de la cage."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Contrôle de la température (20°C–24°C) et alimentation sans sucre",
-                        "text": "Vérifiez la température de la cage pour éviter la torpeur et donnez un mélange de graines sans sucre avec des protéines."
-                    },
-                    {
-                        "name": "Après-midi : Protection du soleil & litière profonde (15 cm+)",
-                        "text": "Assurez un environnement sombre pour son sommeil diurne et mettez une litière épaisse (15 cm+) pour lui permettre de creuser."
-                    },
-                    {
-                        "name": "Soir : Nettoyage du bain de sable & vérification de la roue d'exercice",
-                        "text": "Retirez les souillures du bac à sable de désert et vérifiez que sa grande roue pleine (17–21 cm+) n'impose aucune courbure à son dos."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mon hamster est froid et rigide, est-il mort ou en hibernation ?",
-                        "answer": "Si la température est descendue sous 15°C, il est peut-être en pseudo-hibernation (Torpeur) pour économiser son énergie. Même s'il paraît inerte, un léger frémissement des moustaches peut être présent. Réchauffez-le très progressivement avec une serviette tiède sur 1 à 2 heures ; un réchauffement brutal est mortel."
-                    },
-                    {
-                        "question": "Mon hamster sent un peu fort, puis-je lui donner un bain d'eau ?",
-                        "answer": "Ne donnez JAMAIS de bain d'eau à un hamster ! Ils prennent très vite froid et leur pelage met longtemps à sécher, provoquant une hypothermie ou une pneumonie fatale. Ils font leur toilette seuls et nécessitent un bac de sable de désert pour dégraisser leur pelage."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Verhaltenssignale beim Zwerghamster und 3-Schritte-Tagesroutine für Temperatur und Diabetes-Vorsorge",
-                "description": "Pflegeanleitung für den Zwerghamster. Anlegen der Ohren und Rücken-Abwehrhaltung verstehen, Torpor (Scheintod) vermeiden und Diabetes mit einer 3-Schritte-Routine managen.",
-                "authority": "World Small Animal Veterinary Association (WSAVA) & Standards der California Hamster Association",
-                "profile": {
-                    "breed": "Zwerghamster (Dwarf Hamster)",
-                    "lifespan": "1,5 ~ 2,5 Jahre",
-                    "sleep_pattern": "12 ~ 14 Stunden (Nacht-/Dämmerungsaktiv, schläft tagsüber in Bauten)",
-                    "temperament": "Wachsam, Neugierig, Flink, Empfindlich"
-                },
-                "intro": "Beliebt für ihre niedlichen Backentaschen, umfassen Zwerghamster Arten wie Dschungarische, Campbell- und Roborowski-Zwerghamster. Zwerghamster neigen genetisch stark zu Diabetes Mellitus, wenn sie zuckerhaltige Nahrung aufnehmen. Fällt die Raumtemperatur unter 15 °C, können sie in einen lebensgefährlichen Starrezustand (Torpor / Scheintod) verfallen. Wasserbäder müssen strikt vermieden werden, da sie das schützende Fellfett zerstören und zu tödlicher Unterkühlung führen. Sandbäder sind daher Pflicht. In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für Ihren Zwerghamster.",
-                "whyTitle": "Körpersprache des Zwerghamsters: Ohrenanlegen und Rücken-Abwehrhaltung (Defensive Lying)",
-                "whyDesc": "Zwerghamster drücken Stress und Angst klar über Ohren- und Körperhaltung aus. Dicht an den Kopf angelegte **'Angelegte Ohren (Ear Pinning)'** signalisieren Angst, Aufregung oder Krankheit. Das Werfen auf den Rücken mit Zähnezeigen und Fauchen **'Rücken-Abwehrhaltung (Defensive Lying)'** ist dagegen eine extreme Abwehrreaktion bei großer Bedrohung.",
-                "body_signals": [
-                    {
-                        "name": "Eng an den Kopf angelegte Ohren (Ear Pinning)",
-                        "meaning": "Anzeichen von Angst, Stress, Müdigkeit oder gesundheitlicher Schwäche.",
-                        "response": "Nicht greifen oder stören; lassen Sie das Tier im Versteck in Ruhe wieder zu sich kommen."
-                    },
-                    {
-                        "name": "Auf den Rücken werfen und Zähne zeigen (Defensive Lying / Screeching)",
-                        "meaning": "Extremer Selbstschutzreflex bei akuter Todesangst oder Bedrohung.",
-                        "response": "Ziehen Sie die Hand oder Lärmquelle sofort zurück und dunkeln Sie das Gehege ab."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Raumtemperaturprüfung (20 °C–24 °C) & Zuckerfreie Fütterung",
-                        "text": "Prüfen Sie die Temperatur zur Torpor-Prophylaxe und füttern Sie eine zuckerfreie Saatenmischung sowie Proteine."
-                    },
-                    {
-                        "name": "Mittag: Schutz vor Sonne & Einstreutiefe prüfen (mind. 15 cm)",
-                        "text": "Sorgen Sie für eine ruhige, dunkle Schlafumgebung und bieten Sie tiefe, unparfümierte Einstreu (15 cm+) zum Graben."
-                    },
-                    {
-                        "name": "Abend: Sandbad-Reinigung & Laufrad-Kontrolle",
-                        "text": "Reinigen Sie das Chinchillasandbad von Kot und prüfen Sie, ob ein ausreichend großes Laufrad (17–21 cm+) rückenfreundlich läuft."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mein Hamster ist kalt und starr – ist er tot oder im Winterschlaf?",
-                        "answer": "Fällt die Temperatur unter 15 °C, fallen Zwerghamster in eine Kältestarre (Torpor). Sie wirken leblos, aber die Schnurrhaare können leicht zucken. Wärmen Sie den Hamster langsam über 1–2 Stunden mit einem lauwarmen Tuch oder Körperwärme auf; schnelles Erhitzen schädigt die Organe tödlich."
-                    },
-                    {
-                        "question": "Mein Hamster riecht etwas streng – darf ich ihn mit Wasser waschen?",
-                        "answer": "Niemals mit Wasser waschen! Hamster verkühlen sich schnell und ihr dichtes Fell trocknet kaum, was zu tödlicher Lungenentzündung führt. Sie reinigen sich selbst und benötigen zwingend ein Badeschale mit speziellem Wüstensand zur Fellpflege."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Sinais comportamentais do Hámster Anão e rotina diária de 3 passos para controle de temperatura e diabetes",
-                "description": "Guia de cuidados para o Hámster Anão. Entenda as orelhas encolhidas e a postura defensiva de costas, previna o torpor e controle a diabetes em 3 passos.",
-                "authority": "Associação Mundial de Veterinários de Pequenos Animais (WSAVA) & Padrões da California Hamster Association",
-                "profile": {
-                    "breed": "Hámster Anão (Dwarf Hamster)",
-                    "lifespan": "1.5 ~ 2.5 anos",
-                    "sleep_pattern": "12 ~ 14 horas (Noturno/Crepuscular, dorme em túneis durante o dia)",
-                    "temperament": "Alerta, Curioso, Rápido, Sensível"
-                },
-                "intro": "Amados no mundo todo por suas bochechas avantajadas, os Hámsteres Anões incluem espécies como o Russo (Winter White), Campbell e Roborovski. Eles são geneticamente muito propensos à diabetes se consumirem alimentos com açúcar. Além disso, se a temperatura ambiente cair abaixo de 15°C, podem entrar em um estado perigoso de pseudohibernação (Torpor / hipotermia). Banhos de água devem ser totalmente evitados pois removem a gordura protetora do pelo, tornando os banhos de areia indispensáveis. Neste guia, apresenta uma rotina de 3 passos para cuidar da saúde do seu pet.",
-                "whyTitle": "Linguagem corporal do Hámster Anão: Orelhas encolhidas e postura defensiva de costas",
-                "whyDesc": "Os hámsteres anões expressam estresse claramente através das orelhas e postura corporal. Encolher as orelhas firmemente contra a cabeça **'Orelhas encolhidas (Ear Pinning)'** indica medo, alerta ou cansaço. Por outro lado, virar de costas, mostrar os dentes e gritar **'Postura defensiva de costas (Defensive Lying)'** é uma reação extrema de defesa quando se sentem acorralados.",
-                "body_signals": [
-                    {
-                        "name": "Orelhas totalmente coladas à cabeça (Ear Pinning)",
-                        "meaning": "Sinal de ansiedade com o ambiente, medo, sonolência ou fraqueza por doença.",
-                        "response": "Não tente pegá-lo; deixe-o tranquilo dentro do abrigo para que recupere a calma."
-                    },
-                    {
-                        "name": "Virar de costas e mostrar os dentes (Defensive Lying / Screeching)",
-                        "meaning": "Resposta extrema de autodefesa disparada por medo intenso e ameaça à vida.",
-                        "response": "Retire imediatamente a mão ou fonte de barulho e diminua a iluminação da gaiola."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Checagem da temperatura (20°C–24°C) e alimentação sem açúcar",
-                        "text": "Verifique a temperatura do ambiente para evitar o torpor e ofereça uma mistura de sementes sem açúcar com proteínas."
-                    },
-                    {
-                        "name": "Tarde: Bloqueio de luz solar & checagem da forração profunda (15 cm+)",
-                        "text": "Mantenha um ambiente escuro para seu sono diurno e coloque bastante forração sem cheiro (15 cm+) para cavar."
-                    },
-                    {
-                        "name": "Noite: Limpeza do banho de areia & verificação da rodinha de exercício",
-                        "text": "Limpe as sujeiras do banho de areia de deserto e garanta que sua rodinha espaçosa (17-21 cm+) gire sem curvar sua coluna."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Meu hámster está frio e duro, ele morreu ou está hibernando?",
-                        "answer": "Se a temperatura caiu abaixo de 15°C, ele pode ter entrado em pseudohibernação (Torpor) para economizar energia. Embora pareça sem vida, pode haver leve movimento nos bigodes. Aqueça-o muito lentamente com uma toalha morna ao longo de 1 a 2 horas; aquecimento rápido gera falência de órgãos."
-                    },
-                    {
-                        "question": "Meu hámster está com cheiro forte, posso dar banho de água nele?",
-                        "answer": "Nunca dê banho de água em um hámster! Eles se resfriam facilmente e a pelagem demora para secar, causando hipotermia ou pneumonia fatal. Eles se limpam sozinhos e precisam obrigatoriamente de uma banheira com areia de deserto apropriada."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Sinyal Perilaku Hamster Kerdil dan Rutinitas Harian 3 Langkah Perawatan Suhu serta Diabetes",
-                "description": "Panduan perawatan Hamster Kerdil (Dwarf Hamster). Pahami telinga terlipat dan posisi bertahan terlentang, cegah torpor (hibernasi semu), serta kelola diabetes dalam 3 langkah.",
-                "authority": "World Small Animal Veterinary Association (WSAVA) & Standar Perawatan California Hamster Association",
-                "profile": {
-                    "breed": "Hamster Kerdil (Dwarf Hamster)",
-                    "lifespan": "1.5 ~ 2.5 tahun",
-                    "sleep_pattern": "12 ~ 14 jam (Nokturnal/Krepuskular, tidur di liang saat siang)",
-                    "temperament": "Waspada, Penasaran, Cepat, Sensitif"
-                },
-                "intro": "Dicintai di seluruh dunia karena kantong pipinya yang menggemaskan, Hamster Kerdil (Dwarf Hamster) mencakup spesies seperti Winter White, Campbell, dan Roborovski. Hamster kerdil secara genetik sangat rentan terkena diabetes jika diberi makanan tinggi gula. Selain itu, jika suhu ruangan turun di bawah 15°C, mereka bisa jatuh ke dalam kondisi hibernasi semu yang berbahaya (Torpor / hipotermia). Mandi air sangat dilarang karena merusak lapisan minyak alami bulu mereka, sehingga mandi pasir sangat wajib. Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk merawat Hamster Kerdil Anda.",
-                "whyTitle": "Bahasa Tubuh Hamster Kerdil: Telinga Terlipat dan Postur Bertahan Terlentang",
-                "whyDesc": "Hamster kerdil menyampaikan rasa cemas melalui posisi telinga dan tubuh. Menempelkan telinga rapat-rapat ke kepala **'Telinga Terlipat (Ear Pinning)'** menandakan rasa takut, kewaspadaan tinggi, atau tubuh lemas. Sebaliknya, terbalik terlentang sambil memperlihatkan gigi dan menjerit **'Posisi Bertahan Terlentang (Defensive Lying)'** adalah reaksi pertahanan terakhir saat merasa terpojok oleh rasa takut yang luar biasa.",
-                "body_signals": [
-                    {
-                        "name": "Telinga Menempel Rapat ke Kepala (Ear Pinning)",
-                        "meaning": "Sinyal kecemasan lingkungan, rasa takut, kantuk, atau kondisi tubuh melemah akibat sakit.",
-                        "response": "Jangan langsung dipegang; biarkan mereka tenang di dalam tempat sembunyinya."
-                    },
-                    {
-                        "name": "Terbalik Terlentang & Memperlihatkan Gigi (Defensive Lying / Screeching)",
-                        "meaning": "Tindakan pertahanan diri ekstrem yang dipicu oleh rasa takut hebat dan ancaman keselamatan.",
-                        "response": "Segera jauhkan tangan atau sumber kebisingan dan redupkan pencahayaan kandang."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Pemeriksaan Suhu Ruangan (20°C–24°C) & Pemberian Pakan Rendah Gula",
-                        "text": "Periksa suhu kandang untuk mencegah torpor, lalu beri pakan racikan biji-bijian bebas gula dan protein (ulat bumbung/hongkong)."
-                    },
-                    {
-                        "name": "Siang: Perlindungan dari Sinar Matahari & Pemeriksaan Ketebalan Bedding (15cm+)",
-                        "text": "Sediakan lingkungan yang tenang dan gelap untuk tidur siang mereka, serta beri bedding tanpa wewangian yang tebal (15cm+) untuk menggali."
-                    },
-                    {
-                        "name": "Malam: Pembersihan Wadah Mandi Pasir & Pemantauan Roda Putar",
-                        "text": "Bersihkan kotoran dari wadah mandi pasir gurun khusus, dan pastikan roda putar berukuran besar (17–21cm+) berputar lancar tanpa membengkokkan tulang belakang."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Hamster saya tubuhnya dingin dan kaku, apakah mati atau hibernasi?",
-                        "answer": "Jika suhu ruangan turun di bawah 15°C, mereka mungkin mengalami hibernasi semu (Torpor) untuk menghemat energi. Meski terlihat kaku, gerakan halus pada kumis atau nafas lambat mungkin masih ada. Hangatkan tubuhnya secara perlahan menggunakan handuk hangat selama 1–2 jam; pemanasan secara mendadak dapat merusak organ dalam hingga mematikan."
-                    },
-                    {
-                        "question": "Hamster saya agak berbau, bolehkah dimandikan dengan air?",
-                        "answer": "Sangat dilarang memandikan hamster dengan air! Hamster mudah masuk angin dan bulunya yang basah sangat lama kering, menyebabkan hipotermia atau pneumonia mematikan. Mereka merawat diri sendiri secara alami dan wajib disediakan wadah mandi pasir gurun khusus untuk membersihkan minyak bulu."
-                    }
-                ]
-            }
+  "dwarf-hamster-care": {
+    "pubDate": "2026-03-20",
+    "updatedDate": "2026-07-26",
+    "locales": {
+      "ko": {
+        "title": "드워프 햄스터의 행동 신호 해석과 당뇨·체온 관리를 위한 3단계 데일리 케어",
+        "description": "귀여운 소형 설치류 드워프 햄스터(Dwarf Hamster). 귀 접힘과 방어적 드러눕기 신호 해석, 의사 동면(저체온증) 예방 및 당뇨 관리를 위한 3단계 홈케어 루틴을 소개합니다.",
+        "authority": "국제 소동물 수의학회 (WSAVA) 및 California Hamster Association 케어 프로토콜",
+        "profile": {
+          "breed": "드워프 햄스터 (Dwarf Hamster)",
+          "lifespan": "1.5 ~ 2.5년",
+          "sleep_pattern": "12 ~ 14시간 (야행성/박명성, 낮 동안 굴 속 수면)",
+          "temperament": "경계심 많음, 호기심 많음, 신속함, 민감함"
         },
-        "heroImage": "/images/blog/dwarf_hamster_care.webp"
-    }
+        "intro": "작고 커다란 볼주머니가 매력적인 드워프 햄스터(Dwarf Hamster)는 정글리안(윈터화이트), 캠벨, 로보로브스키 등 다양한 종으로 전 세계에서 사랑받는 소형 설치류입니다. 드워프 햄스터는 사탕무나 과일 등 당분이 높은 음식을 섭취할 경우 당뇨병(Diabetes)에 걸리기 매우 쉬우며, 실내 온도가 15°C 이하로 떨어지면 생명을 위협하는 의사 동면(Torpor/저체온증) 상태에 빠질 수 있습니다. 또한 물목욕은 피모의 보호 유지분을 제거해 치명적인 저체온증을 유발하므로 모래목욕이 필수적입니다. 이번 가이드에서는 드워프 햄스터의 신체 신호를 올바르게 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
+        "whyTitle": "드워프 햄스터의 바디 랭귀지: 귀 접힘과 방어적 드러눕기 (Defensive Lying)",
+        "whyDesc": "드워프 햄스터는 귀의 모양과 몸의 자세로 불안과 스트레스를 명확히 표현합니다. 귀를 몸에 바짝 붙이고 납작하게 접는 **'귀 접힘(Ear Pinning)'**은 공포, 경계, 또는 체력 저하를 나타내는 행동입니다. 반면 배를 보이고 뒤집어져 이빨을 드러내며 소리를 지르는 **'방어적 드러눕기(Defensive Lying / Screeching)'**는 더 이상 물러설 곳이 없는 극심한 위협감을 느낄 때 나타내는 자해 및 방어 신호입니다.",
+        "body_signals": [
+          {
+            "name": "귀를 뒤로 바짝 붙이고 납작하게 접음 (Ear Pinning)",
+            "meaning": "주변 환경에 대한 불안감, 공포, 졸음, 또는 질병으로 인한 컨디션 저하 신호입니다.",
+            "response": "손을 대거나 핸들링을 하지 말고 은신처에서 스스로 안정을 찾을 수 있도록 조용히 내버려 둡니다."
+          },
+          {
+            "name": "배를 보이고 뒤집어져 이빨을 드러냄 (Defensive Lying / Screeching)",
+            "meaning": "극심한 공포와 생명의 위협을 느꼈을 때 나타내는 최후의 공격 및 방어 행동입니다.",
+            "response": "즉시 자극 요소(손, 소음)를 치우고 사육장 케이지를 어둡게 가려주어 스트레스를 완화시킵니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 실내 온도(20°C~24°C) 점검 및 저당분·저지방 사료 급여",
+            "text": "의사 동면 방지를 위해 사육장 온도를 확인하고, 당뇨 예방을 위해 과일과 단 간식을 배제한 전용 혼합 사료와 단백질(밀웜)을 급여합니다."
+          },
+          {
+            "name": "낮: 직사광선 차단 및 베딩 깊이(15cm 이상) 점검",
+            "text": "야행성 수면을 위해 조용하고 어두운 환경을 조성하고, 굴 파기 본능을 충족할 수 있도록 무향 베딩을 충분히 깔아줍니다."
+          },
+          {
+            "name": "저녁: 사목욕(사막모래) 청결 점검 및 챗바퀴 작동 모니터링",
+            "text": "물목욕 대신 전용 사막모래 목욕탕의 찌꺼기를 청소해 주며, 관절 손상을 막기 위해 등 휨이 없는 대형 무소음 챗바퀴(17~21cm 이상) 작동 상태를 점검합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "햄스터가 차갑게 굳어있는데 죽은 건가요, 동면인 건가요?",
+            "answer": "실내 온도가 15°C 이하로 떨어지면 에너지 절약을 위해 의사 동면(Torpor) 상태에 빠진 것일 수 있습니다. 죽은 것처럼 보이지만 수염이나 숨의 미세한 떨림이 있을 수 있습니다. 즉시 따뜻한 수건이나 체온으로 천천히(1~2시간에 걸쳐) 체온을 올려주어야 하며, 급격한 가열은 장기 손상을 유발하므로 주의해야 합니다."
+          },
+          {
+            "question": "햄스터에게 냄새가 나는데 물목욕을 시켜줘도 되나요?",
+            "answer": "절대 물목욕을 시키면 안 됩니다! 햄스터는 감기에 매우 걸리기 쉽고 털이 잘 마르지 않아 치명적인 저체온증이나 폐렴으로 사망할 수 있습니다. 햄스터는 스스로 그루밍을 하며, 기름기 제거와 위생을 위해 반드시 햄스터 전용 사막모래 목욕탕을 제공해 주어야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Dwarf Hamster Behavioral Signals and 3-Step Daily Routine for Temperature and Diabetes Management",
+        "description": "Care guide for the adorable Dwarf Hamster. Interpret ear pinning and defensive lying, prevent torpor (pseudo-hibernation), and manage diabetes with a 3-step daily routine.",
+        "authority": "World Small Animal Veterinary Association (WSAVA) & California Hamster Association Care Standards",
+        "profile": {
+          "breed": "Dwarf Hamster (Dwarf Hamster)",
+          "lifespan": "1.5 - 2.5 Years",
+          "sleep_pattern": "12 - 14 Hours (Nocturnal/Crepuscular, Sleeps in burrows during the day)",
+          "temperament": "Alert, Curious, Fast, Sensitive"
+        },
+        "intro": "Loved worldwide for their adorable cheek pouches, Dwarf Hamsters encompass species like Winter Whites, Campbell's, and Roborovskis. Dwarf Hamsters are genetically highly prone to Diabetes Mellitus if fed sugary foods like sugar beets or fruits. Furthermore, if room temperatures drop below 15°C (59°F), they can fall into a life-threatening state of pseudo-hibernation (Torpor / hypothermia). Water baths must be strictly avoided as they strip protective coat oils and induce fatal hypothermia, making sand baths essential. In this guide, presents a 3-step daily care routine to understand your dwarf hamster's body signals and maintain its health.",
+        "whyTitle": "Dwarf Hamster Body Language: Ear Pinning and Defensive Lying",
+        "whyDesc": "Dwarf hamsters communicate anxiety and stress clearly through ear posture and body positions. Holding ears flattened tightly against the head **'Ear Pinning'** signals fear, high alertness, or physical exhaustion. Conversely, flipping onto their back, baring teeth, and screeching **'Defensive Lying / Screeching'** is a desperate threat display shown when feeling backed into a corner with extreme fear.",
+        "body_signals": [
+          {
+            "name": "Ears Flattened Tightly Against Head (Ear Pinning)",
+            "meaning": "A sign of environmental anxiety, fear, drowsiness, or physical weakness due to illness.",
+            "response": "Avoid reaching in or handling; leave them undisturbed so they can regain calm inside their hideout."
+          },
+          {
+            "name": "Flipping onto Back & Baring Teeth (Defensive Lying / Screeching)",
+            "meaning": "An extreme self-defense response triggered by severe fear and perceived life threat.",
+            "response": "Immediately withdraw hands or noise sources and dim cage lighting to reduce environmental stress."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Room Temp (20°C–24°C) Check & Low-Sugar/Low-Fat Feeding",
+            "text": "Verify cage temperature to prevent torpor, feeding a diabetes-safe species-appropriate seed mix and mealworms while strictly excluding sugary treats."
+          },
+          {
+            "name": "Afternoon: Direct Sunlight Block & Deep Bedding Check (15cm+)",
+            "text": "Provide a quiet, dark environment for nocturnal sleep and layer deep unscented bedding (15cm+) to satisfy burrowing instincts."
+          },
+          {
+            "name": "Evening: Sand Bath Cleaning & Quiet Exercise Wheel Monitoring",
+            "text": "Clean waste from the desert sand bath instead of giving water baths, checking that a large solid-surface wheel (17–21cm+) operates smoothly without bending their spine."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "My hamster is cold and stiff—are they dead or in hibernation?",
+            "answer": "If room temperature dropped below 15°C (59°F), they may have entered pseudo-hibernation (Torpor) to save energy. Though appearing lifeless, slight twitching of whiskers or shallow breathing may be present. Slowly warm them using a warm towel or body heat over 1–2 hours; rapid heating causes fatal organ damage."
+          },
+          {
+            "question": "My hamster smells a bit—can I give them a water bath?",
+            "answer": "Never give a hamster a water bath! Hamsters catch colds easily, and wet fur stays damp for a long time, causing fatal hypothermia or pneumonia. Hamsters groom themselves constantly and require a dedicated desert sand bath to remove oil and maintain coat hygiene."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ドワーフハムスターの行動サイン解読と体温・糖尿病管理のための3ステップデイリールーティン",
+        "description": "愛らしい小型ペットのドワーフハムスター（Dwarf Hamster）。耳伏せや仰向け威嚇サインの解読、擬似冬眠（低体温症）予防、糖尿病管理のための3ステップホームケアを紹介します。",
+        "authority": "世界小動物獣医師会(WSAVA)およびカリフォルニアハムスター協会飼育基準",
+        "profile": {
+          "breed": "ドワーフハムスター (Dwarf Hamster)",
+          "lifespan": "1.5 〜 2.5年",
+          "sleep_pattern": "12 〜 14時間 (夜行性/薄明薄暮性、昼間は巣穴で睡眠)",
+          "temperament": "警戒心が強い、好奇心旺盛、すばやい、環境変化に敏感"
+        },
+        "intro": "小さな体と大きなほお袋が魅力的なドワーフハムスター（Dwarf Hamster）は、ジャンガリアン（ウィンターホワイト）、キャンベル、ロボロフスキーなど多様な種で世界中から愛されている小型齧歯類です。ドワーフハムスターは果物や糖分の多いおやつを与えると糖尿病（Diabetes）にかかりやすく、室温が15°C以下に下がると生命を脅かす「擬似冬眠（Torpor/低体温症）」状態に陥る危険があります。また、水浴びは皮脂膜を奪い致命的な低体温症を引き起こすため、砂浴びが不可欠です。本記事では、ドワーフハムスターのサインを正しく理解し、健康を守る3ステップルーティンをお届けします。",
+        "whyTitle": "ドワーフハムスターのボディランゲージ：耳伏せと仰向け威嚇 (Defensive Lying)",
+        "whyDesc": "ドワーフハムスターは耳の形と体勢で不安やストレスを明確に表現します。耳を頭にぴったりと伏せる**「耳伏せ（Ear Pinning）」**は、恐怖、警戒、または体調不良を示す行動です。一方、仰向けにひっくり返って歯をむき出しにして鳴き声を上げる**「仰向け威嚇（Defensive Lying / Screeching）」**は、追いつめられて極度の脅威を感じた際に見せる防御サインです。",
+        "body_signals": [
+          {
+            "name": "耳を後ろに伏せて平らにする (Ear Pinning)",
+            "meaning": "周囲への不安感、恐怖、眠気、または体調不良によるコンディション低下のサインです。",
+            "response": "手を伸ばしたり無理に触らず、シェルターの中で自分で落ち着けるよう静かにしておきましょう。"
+          },
+          {
+            "name": "仰向けにひっくり返って歯を見せる (Defensive Lying / Screeching)",
+            "meaning": "極度の恐怖と生命の危機を感じた際に見せる最終的な攻撃・防御行動です。",
+            "response": "すぐに刺激（手や騒音）を取り除き、ケージを暗く覆ってストレスを和らげてください。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：室温（20°C〜24°C）の点検と低糖質・低脂質フードの給餌",
+            "text": "擬似冬眠を防ぐために室温を確認し、糖尿病予防のため果物や甘いおやつを除いたペレット・ペレットミックスとタンパク質を与えます。"
+          },
+          {
+            "name": "昼：直射日光の遮断と床材の深さ（15cm以上）の確認",
+            "text": "夜行性の睡眠のために静かで暗い環境を整え、穴掘り本能を満たせるよう無香料の床材を十分に敷き詰めます。"
+          },
+          {
+            "name": "夜：砂浴び（浴び砂）の清潔確認と回し車の作動モニタリング",
+            "text": "水浴びの代わりに専用の砂浴び容器内の汚れを取り除き、背骨の曲がらない大きな静音回し車（17〜21cm以上）の作動を確認します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ハムスターが冷たくなって固まっていますが、死んでいるのでしょうか、冬眠でしょうか？",
+            "answer": "室温が15°C以下に下がると、エネルギー節約のため「擬似冬眠（Torpor）」状態に陥っている可能性があります。死んでいるように見えますが、ひげや呼吸の微かな震えがある場合があります。すぐに温かいタオルや体温で1〜2時間かけてゆっくり温めてください。急激な加熱は内臓にダメージを与えるため厳禁です。"
+          },
+          {
+            "question": "ハムスターからニオイがするのですが、水浴びをさせてもいいですか？",
+            "answer": "絶対に水浴びをさせてはいけません！ハムスターは風邪を引きやすく毛が乾きにくいため、致命的な低体温症や肺炎で death に至ることがあります。ハムスターは自分で毛づくろいを行い、皮脂の除去と衛生維持のためには必ず専用のハムスター用砂浴び（浴び砂）を用意してください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "侏儒仓鼠行为信号解读与体温及糖尿病管理的3步日常流程",
+        "description": "可爱小型啮齿类侏儒仓鼠（Dwarf Hamster）护理指南。解读压耳与仰面防御信号，预防假冬眠（低体温症）及管理糖尿病的3步骤家庭护理。",
+        "authority": "世界小动物兽医师协会 (WSAVA) 与加利福尼亚仓鼠协会护理标准",
+        "profile": {
+          "breed": "侏儒仓鼠 (Dwarf Hamster)",
+          "lifespan": "1.5 ~ 2.5年",
+          "sleep_pattern": "12 ~ 14小时 (夜行性/薄暮性，白天在地道中睡眠)",
+          "temperament": "警惕性高、好奇心强、敏捷、对环境敏感"
+        },
+        "intro": "拥有小巧体型和大颊囊的侏儒仓鼠（Dwarf Hamster）囊括了三线（加卡利亚）、坎贝尔及罗伯罗夫斯基（公公婆婆）等受全球喜爱的品种。侏儒仓鼠在摄入甜菜或水果等高糖食物时极易患上糖尿病（Diabetes）；若室温降至15°C以下，则极易陷入危及生命的假冬眠（Torpor/低体温症）状态。此外，水洗会带走其毛皮保护性油脂并引发致命的低体温症，因此必须使用专用浴沙进行沙浴。本指南将带您准确解读侏儒仓鼠 身体语言，并介绍维持其健康的3步骤日常护理流程。",
+        "whyTitle": "侏儒仓鼠的肢体语言：压耳与仰面姿态 (Defensive Lying)",
+        "whyDesc": "侏儒仓鼠通过耳朵姿态与体位清晰表达不安与压力。将耳朵紧贴头部压平的**“压耳 (Ear Pinning)”**，是表达恐惧、警惕或体能衰竭的信号。相反，翻身仰面朝天、露齿并发出尖叫的**“仰面防御 (Defensive Lying / Screeching)”**，则是处于无路可退的极度恐慌中发出的自卫与防御警告。",
+        "body_signals": [
+          {
+            "name": "耳朵紧贴头部向后压平 (Ear Pinning)",
+            "meaning": "对周围环境感到不安、恐惧、困倦或因生病导致体能下降的信号。",
+            "response": "切勿伸手抓握，让其在躲避穴中自行恢复平静。"
+          },
+          {
+            "name": "翻身仰面朝天并露出牙齿 (Defensive Lying / Screeching)",
+            "meaning": "感受到极度恐惧与生命威胁时做出的最终自卫防御行为。",
+            "response": "立即撤离刺激源（手或噪音），调暗笼舍光线以缓解其压力。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：室温（20°C~24°C）检查与投喂低糖低脂主粮",
+            "text": "检查笼舍温度以防假冬眠，投喂无糖配方的专类谷物合成粮与蛋白质（面包虫），杜绝高糖零食。"
+          },
+          {
+            "name": "中午：遮蔽日光与检查垫料深度（15cm以上）",
+            "text": "为夜行性睡眠提供安静黑暗的环境，铺设足够深度的无香垫料（15cm以上）以满足打洞天性。"
+          },
+          {
+            "name": "晚上：沙浴（沙漠沙）清洁检查与跑轮运转监控",
+            "text": "清理浴沙盆中的废弃物而非水洗，并检查不弯曲脊柱的大号静音跑轮（17~21cm以上）运转状态。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "仓鼠身体冰冷僵硬，是死亡了还是进入冬眠了？",
+            "answer": "如果室温低于15°C，仓鼠可能为了节省能量而进入了“假冬眠 (Torpor)”状态。虽然看似无生命迹象，但胡须或呼吸可能存在微弱震颤。必须立即用温毛巾或体温在1~2小时内缓慢复温，切勿快速加热，以免造成内脏衰竭。"
+          },
+          {
+            "question": "仓鼠身上有异味，可以给它水洗吗？",
+            "answer": "绝对不能水洗！仓鼠极易感冒且毛发难以干透，水洗会导致致命的低体温症或肺炎。仓鼠会自我梳理，只需提供专用沙漠浴沙供其沙浴即可去除油脂并保持清洁。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Señales de conducta en el Hámster Enano y rutina diaria de 3 pasos para el control de temperatura y diabetes",
+        "description": "Guía de cuidado para el Hámster Enano. Interprete las orejas replegadas y la postura defensiva, prevenga el torpor (seudohibernación) y gestione la diabetes en 3 pasos.",
+        "authority": "Asociación Mundial de Veterinarios de Pequeños Animales (WSAVA) y Normas de la California Hamster Association",
+        "profile": {
+          "breed": "Hámster Enano (Dwarf Hamster)",
+          "lifespan": "1.5 ~ 2.5 años",
+          "sleep_pattern": "12 ~ 14 horas (Nocturno/Crepuscular, duerme en madrigueras de día)",
+          "temperament": "Alerta, Curioso, Rápido, Sensible"
+        },
+        "intro": "Amados mundialmente por sus abultadas abazones, los Hámsteres Enanos abarcan especies como los Ruso (Winter White), Campbell y Roborovski. Son genéticamente propensos a la diabetes si consumen alimentos azucarados. Además, si la temperatura ambiente cae por debajo de 15°C, pueden entrar en un estado letal de seudohibernación (Torpor / hipotermia). Los baños de agua deben evitarse estrictamente porque eliminan los aceites protectores del pelo, haciendo indispensables los baños de arena. En esta guía, presenta una rutina de 3 pasos para cuidar su salud.",
+        "whyTitle": "Lenguaje corporal del Hámster Enano: Orejas pegadas y postura defensiva de espalda",
+        "whyDesc": "Los hámsteres enanos comunican ansiedad a través de las orejas y la posición del cuerpo. Mantener las orejas pegadas a la cabeza **'Orejas pegadas (Ear Pinning)'** indica miedo, alerta o agotamiento. En cambio, volcarse sobre su lomo, enseñar los dientes y chillar **'Postura defensiva de espalda (Defensive Lying)'** es una muestra desesperada de amenaza cuando se sienten acorralados.",
+        "body_signals": [
+          {
+            "name": "Orejas aplastadas contra la cabeza (Ear Pinning)",
+            "meaning": "Señal de ansiedad ambiental, miedo, somnolencia o debilidad física por enfermedad.",
+            "response": "Evite meter la mano; déjelo tranquilo dentro de su refugio para que recupere la calma."
+          },
+          {
+            "name": "Volcarse sobre la espalda y enseñar dientes (Defensive Lying / Screeching)",
+            "meaning": "Respuesta extrema de autodefensa ante un miedo intenso o amenaza percibida a su vida.",
+            "response": "Retire de inmediato la mano o la fuente de ruido y atenúe la luz de la jaula."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Control de temperatura (20°C–24°C) y alimentación baja en azúcar",
+            "text": "Verifique la temperatura de la jaula para prevenir el torpor y ofrezca una mezcla de semillas apta sin azúcares junto con proteína."
+          },
+          {
+            "name": "Tarde: Bloqueo de luz solar e inspección de sustrato profundo (15 cm+)",
+            "text": "Proporcione un ambiente oscuro para su descanso nocturno y coloque sustrato inodoro profundo (15 cm+) para cavar."
+          },
+          {
+            "name": "Noche: Limpieza del baño de arena y revisión de la rueda de ejercicio",
+            "text": "Limpie los desperdicios del baño de arena de desierto y compruebe que su rueda amplia (17-21 cm+) gire sin doblar su columna."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mi hámster está frío y rígido, ¿está muerto o hibernando?",
+            "answer": "Si la temperatura bajó de 15°C, es posible que haya entrado en seudohibernación (Torpor) para ahorrar energía. Aunque parezca inerte, puede haber leves movimientos en sus bigotes. Caliéntelo gradualmente con una toalla tibia durante 1-2 horas; un calentamiento brusco provoca fallos orgánicos."
+          },
+          {
+            "question": "Mi hámster huele mal, ¿puedo bañarlo con agua?",
+            "answer": "¡Jamás lo bañe con agua! Los hámsteres se resfrían con facilidad y el pelo mojado tarda en secar, causando hipotermia o neumonía. Ellos se acicalan solos y requieren arena de desierto específica para retirar la grasa del pelaje."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Décodage du comportement du Hamster Nain et routine quotidienne en 3 étapes pour la température et le diabète",
+        "description": "Guide de soins pour l'adorable Hamster Nain. Décryptez les oreilles plaquées et la posture défensive, prévenez la torpeur (pseudo-hibernation) et gérez le diabète en 3 étapes.",
+        "authority": "Association Mondiale des Vétérinaires pour Petits Animaux (WSAVA) & Normes de la California Hamster Association",
+        "profile": {
+          "breed": "Hamster Nain (Dwarf Hamster)",
+          "lifespan": "1.5 ~ 2.5 ans",
+          "sleep_pattern": "12 ~ 14 heures (Nocturne/Crépusculaire, dort dans des terriers le jour)",
+          "temperament": "Alerte, Curieux, Rapide, Sensible"
+        },
+        "intro": "Appréciés dans le monde entier pour leurs abajoues, les Hamsters Nains regroupent les espèces comme le Russe (Winter White), Campbell et Roborovski. Le hamster nain est génétiquement très sujet au diabète s'il consomme des aliments sucrés. De plus, si la température descend sous 15°C, il peut tomber dans un état mortel de pseudo-hibernation (Torpeur / hypothermie). Les bains d'eau doivent être strictement proscrits car ils détruisent le sébum protecteur du pelage, rendant les bains de sable indispensables. Dans ce guide, vous présente une routine en 3 étapes.",
+        "whyTitle": "Langage corporel du Hamster Nain : Oreilles plaquées et position défensive sur le dos",
+        "whyDesc": "Les hamsters nains expriment leur anxiété par leurs oreilles et la posture de leur corps. Plaquer les oreilles contre la tête **« Oreilles plaquées (Ear Pinning) »** traduit la peur, la vigilance ou la fatigue. En revanche, se retourner sur le dos, montrer les dents et crier **« Position défensive sur le dos (Defensive Lying) »** est un signal de défense désespéré en cas de menace extrême.",
+        "body_signals": [
+          {
+            "name": "Oreilles totalement aplaties contre la tête (Ear Pinning)",
+            "meaning": "Signe d'anxiété, de peur, de somnolence ou de faiblesse liée à une maladie.",
+            "response": "N'essayez pas de le saisir ; laissez-le tranquille dans son abri pour qu'il retrouve son calme."
+          },
+          {
+            "name": "Se retourner sur le dos en montrant les dents (Defensive Lying / Screeching)",
+            "meaning": "Comportement d'autodéfense ultime déclenché par une peur panique et une menace vitale.",
+            "response": "Retirez immédiatement la main ou la source de bruit et tamisez la lumière de la cage."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Contrôle de la température (20°C–24°C) et alimentation sans sucre",
+            "text": "Vérifiez la température de la cage pour éviter la torpeur et donnez un mélange de graines sans sucre avec des protéines."
+          },
+          {
+            "name": "Après-midi : Protection du soleil & litière profonde (15 cm+)",
+            "text": "Assurez un environnement sombre pour son sommeil diurne et mettez une litière épaisse (15 cm+) pour lui permettre de creuser."
+          },
+          {
+            "name": "Soir : Nettoyage du bain de sable & vérification de la roue d'exercice",
+            "text": "Retirez les souillures du bac à sable de désert et vérifiez que sa grande roue pleine (17–21 cm+) n'impose aucune courbure à son dos."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mon hamster est froid et rigide, est-il mort ou en hibernation ?",
+            "answer": "Si la température est descendue sous 15°C, il est peut-être en pseudo-hibernation (Torpeur) pour économiser son énergie. Même s'il paraît inerte, un léger frémissement des moustaches peut être présent. Réchauffez-le très progressivement avec une serviette tiède sur 1 à 2 heures ; un réchauffement brutal est mortel."
+          },
+          {
+            "question": "Mon hamster sent un peu fort, puis-je lui donner un bain d'eau ?",
+            "answer": "Ne donnez JAMAIS de bain d'eau à un hamster ! Ils prennent très vite froid et leur pelage met longtemps à sécher, provoquant une hypothermie ou une pneumonie fatale. Ils font leur toilette seuls et nécessitent un bac de sable de désert pour dégraisser leur pelage."
+          }
+        ]
+      },
+      "de": {
+        "title": "Verhaltenssignale beim Zwerghamster und 3-Schritte-Tagesroutine für Temperatur und Diabetes-Vorsorge",
+        "description": "Pflegeanleitung für den Zwerghamster. Anlegen der Ohren und Rücken-Abwehrhaltung verstehen, Torpor (Scheintod) vermeiden und Diabetes mit einer 3-Schritte-Routine managen.",
+        "authority": "World Small Animal Veterinary Association (WSAVA) & Standards der California Hamster Association",
+        "profile": {
+          "breed": "Zwerghamster (Dwarf Hamster)",
+          "lifespan": "1,5 ~ 2,5 Jahre",
+          "sleep_pattern": "12 ~ 14 Stunden (Nacht-/Dämmerungsaktiv, schläft tagsüber in Bauten)",
+          "temperament": "Wachsam, Neugierig, Flink, Empfindlich"
+        },
+        "intro": "Beliebt für ihre niedlichen Backentaschen, umfassen Zwerghamster Arten wie Dschungarische, Campbell- und Roborowski-Zwerghamster. Zwerghamster neigen genetisch stark zu Diabetes Mellitus, wenn sie zuckerhaltige Nahrung aufnehmen. Fällt die Raumtemperatur unter 15 °C, können sie in einen lebensgefährlichen Starrezustand (Torpor / Scheintod) verfallen. Wasserbäder müssen strikt vermieden werden, da sie das schützende Fellfett zerstören und zu tödlicher Unterkühlung führen. Sandbäder sind daher Pflicht. In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für Ihren Zwerghamster.",
+        "whyTitle": "Körpersprache des Zwerghamsters: Ohrenanlegen und Rücken-Abwehrhaltung (Defensive Lying)",
+        "whyDesc": "Zwerghamster drücken Stress und Angst klar über Ohren- und Körperhaltung aus. Dicht an den Kopf angelegte **'Angelegte Ohren (Ear Pinning)'** signalisieren Angst, Aufregung oder Krankheit. Das Werfen auf den Rücken mit Zähnezeigen und Fauchen **'Rücken-Abwehrhaltung (Defensive Lying)'** ist dagegen eine extreme Abwehrreaktion bei großer Bedrohung.",
+        "body_signals": [
+          {
+            "name": "Eng an den Kopf angelegte Ohren (Ear Pinning)",
+            "meaning": "Anzeichen von Angst, Stress, Müdigkeit oder gesundheitlicher Schwäche.",
+            "response": "Nicht greifen oder stören; lassen Sie das Tier im Versteck in Ruhe wieder zu sich kommen."
+          },
+          {
+            "name": "Auf den Rücken werfen und Zähne zeigen (Defensive Lying / Screeching)",
+            "meaning": "Extremer Selbstschutzreflex bei akuter Todesangst oder Bedrohung.",
+            "response": "Ziehen Sie die Hand oder Lärmquelle sofort zurück und dunkeln Sie das Gehege ab."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Raumtemperaturprüfung (20 °C–24 °C) & Zuckerfreie Fütterung",
+            "text": "Prüfen Sie die Temperatur zur Torpor-Prophylaxe und füttern Sie eine zuckerfreie Saatenmischung sowie Proteine."
+          },
+          {
+            "name": "Mittag: Schutz vor Sonne & Einstreutiefe prüfen (mind. 15 cm)",
+            "text": "Sorgen Sie für eine ruhige, dunkle Schlafumgebung und bieten Sie tiefe, unparfümierte Einstreu (15 cm+) zum Graben."
+          },
+          {
+            "name": "Abend: Sandbad-Reinigung & Laufrad-Kontrolle",
+            "text": "Reinigen Sie das Chinchillasandbad von Kot und prüfen Sie, ob ein ausreichend großes Laufrad (17–21 cm+) rückenfreundlich läuft."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mein Hamster ist kalt und starr – ist er tot oder im Winterschlaf?",
+            "answer": "Fällt die Temperatur unter 15 °C, fallen Zwerghamster in eine Kältestarre (Torpor). Sie wirken leblos, aber die Schnurrhaare können leicht zucken. Wärmen Sie den Hamster langsam über 1–2 Stunden mit einem lauwarmen Tuch oder Körperwärme auf; schnelles Erhitzen schädigt die Organe tödlich."
+          },
+          {
+            "question": "Mein Hamster riecht etwas streng – darf ich ihn mit Wasser waschen?",
+            "answer": "Niemals mit Wasser waschen! Hamster verkühlen sich schnell und ihr dichtes Fell trocknet kaum, was zu tödlicher Lungenentzündung führt. Sie reinigen sich selbst und benötigen zwingend ein Badeschale mit speziellem Wüstensand zur Fellpflege."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Sinais comportamentais do Hámster Anão e rotina diária de 3 passos para controle de temperatura e diabetes",
+        "description": "Guia de cuidados para o Hámster Anão. Entenda as orelhas encolhidas e a postura defensiva de costas, previna o torpor e controle a diabetes em 3 passos.",
+        "authority": "Associação Mundial de Veterinários de Pequenos Animais (WSAVA) & Padrões da California Hamster Association",
+        "profile": {
+          "breed": "Hámster Anão (Dwarf Hamster)",
+          "lifespan": "1.5 ~ 2.5 anos",
+          "sleep_pattern": "12 ~ 14 horas (Noturno/Crepuscular, dorme em túneis durante o dia)",
+          "temperament": "Alerta, Curioso, Rápido, Sensível"
+        },
+        "intro": "Amados no mundo todo por suas bochechas avantajadas, os Hámsteres Anões incluem espécies como o Russo (Winter White), Campbell e Roborovski. Eles são geneticamente muito propensos à diabetes se consumirem alimentos com açúcar. Além disso, se a temperatura ambiente cair abaixo de 15°C, podem entrar em um estado perigoso de pseudohibernação (Torpor / hipotermia). Banhos de água devem ser totalmente evitados pois removem a gordura protetora do pelo, tornando os banhos de areia indispensáveis. Neste guia, apresenta uma rotina de 3 passos para cuidar da saúde do seu pet.",
+        "whyTitle": "Linguagem corporal do Hámster Anão: Orelhas encolhidas e postura defensiva de costas",
+        "whyDesc": "Os hámsteres anões expressam estresse claramente através das orelhas e postura corporal. Encolher as orelhas firmemente contra a cabeça **'Orelhas encolhidas (Ear Pinning)'** indica medo, alerta ou cansaço. Por outro lado, virar de costas, mostrar os dentes e gritar **'Postura defensiva de costas (Defensive Lying)'** é uma reação extrema de defesa quando se sentem acorralados.",
+        "body_signals": [
+          {
+            "name": "Orelhas totalmente coladas à cabeça (Ear Pinning)",
+            "meaning": "Sinal de ansiedade com o ambiente, medo, sonolência ou fraqueza por doença.",
+            "response": "Não tente pegá-lo; deixe-o tranquilo dentro do abrigo para que recupere a calma."
+          },
+          {
+            "name": "Virar de costas e mostrar os dentes (Defensive Lying / Screeching)",
+            "meaning": "Resposta extrema de autodefesa disparada por medo intenso e ameaça à vida.",
+            "response": "Retire imediatamente a mão ou fonte de barulho e diminua a iluminação da gaiola."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Checagem da temperatura (20°C–24°C) e alimentação sem açúcar",
+            "text": "Verifique a temperatura do ambiente para evitar o torpor e ofereça uma mistura de sementes sem açúcar com proteínas."
+          },
+          {
+            "name": "Tarde: Bloqueio de luz solar & checagem da forração profunda (15 cm+)",
+            "text": "Mantenha um ambiente escuro para seu sono diurno e coloque bastante forração sem cheiro (15 cm+) para cavar."
+          },
+          {
+            "name": "Noite: Limpeza do banho de areia & verificação da rodinha de exercício",
+            "text": "Limpe as sujeiras do banho de areia de deserto e garanta que sua rodinha espaçosa (17-21 cm+) gire sem curvar sua coluna."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Meu hámster está frio e duro, ele morreu ou está hibernando?",
+            "answer": "Se a temperatura caiu abaixo de 15°C, ele pode ter entrado em pseudohibernação (Torpor) para economizar energia. Embora pareça sem vida, pode haver leve movimento nos bigodes. Aqueça-o muito lentamente com uma toalha morna ao longo de 1 a 2 horas; aquecimento rápido gera falência de órgãos."
+          },
+          {
+            "question": "Meu hámster está com cheiro forte, posso dar banho de água nele?",
+            "answer": "Nunca dê banho de água em um hámster! Eles se resfriam facilmente e a pelagem demora para secar, causando hipotermia ou pneumonia fatal. Eles se limpam sozinhos e precisam obrigatoriamente de uma banheira com areia de deserto apropriada."
+          }
+        ]
+      },
+      "id": {
+        "title": "Sinyal Perilaku Hamster Kerdil dan Rutinitas Harian 3 Langkah Perawatan Suhu serta Diabetes",
+        "description": "Panduan perawatan Hamster Kerdil (Dwarf Hamster). Pahami telinga terlipat dan posisi bertahan terlentang, cegah torpor (hibernasi semu), serta kelola diabetes dalam 3 langkah.",
+        "authority": "World Small Animal Veterinary Association (WSAVA) & Standar Perawatan California Hamster Association",
+        "profile": {
+          "breed": "Hamster Kerdil (Dwarf Hamster)",
+          "lifespan": "1.5 ~ 2.5 tahun",
+          "sleep_pattern": "12 ~ 14 jam (Nokturnal/Krepuskular, tidur di liang saat siang)",
+          "temperament": "Waspada, Penasaran, Cepat, Sensitif"
+        },
+        "intro": "Dicintai di seluruh dunia karena kantong pipinya yang menggemaskan, Hamster Kerdil (Dwarf Hamster) mencakup spesies seperti Winter White, Campbell, dan Roborovski. Hamster kerdil secara genetik sangat rentan terkena diabetes jika diberi makanan tinggi gula. Selain itu, jika suhu ruangan turun di bawah 15°C, mereka bisa jatuh ke dalam kondisi hibernasi semu yang berbahaya (Torpor / hipotermia). Mandi air sangat dilarang karena merusak lapisan minyak alami bulu mereka, sehingga mandi pasir sangat wajib. Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk merawat Hamster Kerdil Anda.",
+        "whyTitle": "Bahasa Tubuh Hamster Kerdil: Telinga Terlipat dan Postur Bertahan Terlentang",
+        "whyDesc": "Hamster kerdil menyampaikan rasa cemas melalui posisi telinga dan tubuh. Menempelkan telinga rapat-rapat ke kepala **'Telinga Terlipat (Ear Pinning)'** menandakan rasa takut, kewaspadaan tinggi, atau tubuh lemas. Sebaliknya, terbalik terlentang sambil memperlihatkan gigi dan menjerit **'Posisi Bertahan Terlentang (Defensive Lying)'** adalah reaksi pertahanan terakhir saat merasa terpojok oleh rasa takut yang luar biasa.",
+        "body_signals": [
+          {
+            "name": "Telinga Menempel Rapat ke Kepala (Ear Pinning)",
+            "meaning": "Sinyal kecemasan lingkungan, rasa takut, kantuk, atau kondisi tubuh melemah akibat sakit.",
+            "response": "Jangan langsung dipegang; biarkan mereka tenang di dalam tempat sembunyinya."
+          },
+          {
+            "name": "Terbalik Terlentang & Memperlihatkan Gigi (Defensive Lying / Screeching)",
+            "meaning": "Tindakan pertahanan diri ekstrem yang dipicu oleh rasa takut hebat dan ancaman keselamatan.",
+            "response": "Segera jauhkan tangan atau sumber kebisingan dan redupkan pencahayaan kandang."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pemeriksaan Suhu Ruangan (20°C–24°C) & Pemberian Pakan Rendah Gula",
+            "text": "Periksa suhu kandang untuk mencegah torpor, lalu beri pakan racikan biji-bijian bebas gula dan protein (ulat bumbung/hongkong)."
+          },
+          {
+            "name": "Siang: Perlindungan dari Sinar Matahari & Pemeriksaan Ketebalan Bedding (15cm+)",
+            "text": "Sediakan lingkungan yang tenang dan gelap untuk tidur siang mereka, serta beri bedding tanpa wewangian yang tebal (15cm+) untuk menggali."
+          },
+          {
+            "name": "Malam: Pembersihan Wadah Mandi Pasir & Pemantauan Roda Putar",
+            "text": "Bersihkan kotoran dari wadah mandi pasir gurun khusus, dan pastikan roda putar berukuran besar (17–21cm+) berputar lancar tanpa membengkokkan tulang belakang."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Hamster saya tubuhnya dingin dan kaku, apakah mati atau hibernasi?",
+            "answer": "Jika suhu ruangan turun di bawah 15°C, mereka mungkin mengalami hibernasi semu (Torpor) untuk menghemat energi. Meski terlihat kaku, gerakan halus pada kumis atau nafas lambat mungkin masih ada. Hangatkan tubuhnya secara perlahan menggunakan handuk hangat selama 1–2 jam; pemanasan secara mendadak dapat merusak organ dalam hingga mematikan."
+          },
+          {
+            "question": "Hamster saya agak berbau, bolehkah dimandikan dengan air?",
+            "answer": "Sangat dilarang memandikan hamster dengan air! Hamster mudah masuk angin dan bulunya yang basah sangat lama kering, menyebabkan hipotermia atau pneumonia mematikan. Mereka merawat diri sendiri secara alami dan wajib disediakan wadah mandi pasir gurun khusus untuk membersihkan minyak bulu."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/dwarf_hamster_care.webp"
+  }
 }

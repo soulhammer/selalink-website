@@ -1,406 +1,406 @@
 {
-    "how-to-store-tofu": {
-        "ingId": "tofu",
-        "pubDate": "2026-04-20",
-        "updatedDate": "2026-04-20",
-        "heroImage": "/images/blog/tofu_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "두부 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 두부의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "식품의약품안전처(MFDS) & 미국 농무부(USDA) & 메이요 클리닉(Mayo Clinic)",
-                "intro": "요리하고 남은 두부를 밀폐 용기에 담을 때, 팩에 들어있던 기존 충전수를 그대로 부어 보관해 본 적 있으시죠? 🧊\n\n시판 두부 팩 안의 충전수는 두부에서 유출된 단백질과 유기물 성분이 녹아 있어, 개봉 직후 공기 중 박테리아와 세균이 증식하기 가장 좋은 영양 매체입니다. 충전수를 그대로 두거나 공기 중에 방치하면 단백질 부패가 진행되어 금방 미끈거리며 시큼한 냄새가 나게 됩니다.\n\n이번 가이드에서는 메이요 클리닉(Mayo Clinic)과 식품의약품안전처(MFDS)의 위생 관리 기준에 기반하여, 남은 두부를 일주일 이상 탱글탱글하고 안전하게 지켜주는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "팩 충전수는 재사용하지 말고 매일 깨끗한 물로 교체하세요 💧",
-                        "desc": "개봉된 팩 충전수에는 단백질 부산물과 미생물이 섞여 있어 그대로 두면 수시간 내에 두부가 상합니다. 충전수는 완전히 버리고, 보관 용기의 수돗물은 매일 깨끗한 새 찬물로 교체해 주어야 세균 증식을 차단할 수 있습니다."
-                    },
-                    {
-                        "title": "냉동 시 수분이 빠져나가 스펀지 구멍 조직으로 변합니다 ❄️",
-                        "desc": "두부를 냉동실에 얼리면 내부 수분이 얼음 결정으로 팽창했다가 해동 시 빠져나가며 미세한 구멍이 송송 뚫린 스펀지 구조(언두부)가 됩니다. 생두부 고유의 부드러운 식감은 사라지므로 찌개용보다는 국물을 흡수하는 조림이나 만두소 용도로 활용하세요."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "팩 충전수 완전히 버리고 흐르는 찬물에 헹구기 — 미생물 번식 차단 🚿",
-                        "text": "두부 포장 팩 안의 물은 단백질이 배어나와 세균이 가장 쉽게 번식하는 상태입니다. 💡 보관 팁: 팩 안의 충전수를 완벽히 버린 뒤, 두부를 흐르는 차가운 수돗물에 가볍게 헹궈 표면의 단백질 잔여물과 미생물을 씻어내세요."
-                    },
-                    {
-                        "name": "밀폐용기에 두부가 잠기도록 맑은 물과 소금 한 꼬집 넣기 — 조직 강화 및 천연 방부 🧂",
-                        "text": "두부는 공기와 접촉하면 호기성 세균에 의해 표면부터 단백질이 분해됩니다. 💡 보관 팁: 밀폐 용기에 두부가 완전히 잠길 정도로 깨끗한 수돗물을 붓고 천일염이나 소금 반 티스푼(한 꼬집)을 넣어주세요. 삼투압 현상으로 두부 조직이 단단해지고 세균 증식이 억제됩니다."
-                    },
-                    {
-                        "name": "찬물은 매일 한 번씩 새 물로 교체해주기 — 냉장 보관 (7일) 및 냉동 보관 (30일) 💧",
-                        "text": "소금을 넣었더라도 물속에 두부 수분이 계속 배어나옵니다. 💡 보관 팁: 용기의 물을 매일 1회 새 찬물로 교체해 주면 냉장실(0~4℃)에서 최대 7일까지 변질 없이 탱글하게 보관할 수 있습니다. 장기 보관 시에는 적당한 크기로 썰어 얼음틀이나 지퍼백에 담아 냉동(-18℃ 이하) 보관(30일)하세요."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "남은 두부를 물 없이 그냥 밀폐 용기에 넣어두면 왜 안 되나요?",
-                        "answer": "두부는 약 85%가 수분과 단백질로 이루어진 대표적인 고단백 식품입니다. 물 없이 공기 중에 노출된 채 두면 표면 수분이 증발하면서 공기 중의 잡균이 단백질에 침투하여 단 하루 만에 표면에 미끈거리는 점액질이 생기고 시큼한 냄새가 나며 상하게 됩니다. 반드시 소금물에 완전히 잠기도록 보관해야 합니다."
-                    },
-                    {
-                        "question": "두부를 냉동실에 얼리면 질감과 영양에 어떤 변화가 생기나요?",
-                        "answer": "두부를 얼리면 내부의 수분이 얼면서 입자가 팽창하여 단백질과 분리됩니다. 해동 시 수분이 빠져나가면서 단백질 조직만 남아 스펀지처럼 구멍이 뚫린 '언두부'로 변합니다. 이 과정에서 단위 무게당 단백질 함량이 약 5배 이상 농축되어 영양 밀도가 높아지며, 양념이나 국물을 잘 흡수하여 조림이나 전골 요리에 최고가 됩니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Tofu Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for tofu based on official safety guidelines.",
-                "authority": "MFDS & USDA & Mayo Clinic",
-                "intro": "When storing leftover tofu, did you pour the original liquid from the plastic pack into your storage container? 🧊\n\nThe water inside packaged tofu contains dissolved soy proteins and organic compounds, making it an ideal culture medium for bacteria once opened. Leaving tofu in this stagnant liquid or exposing it to open air accelerates protein degradation, resulting in a sour odor and slimy surface texture.\n\nIn this guide, shares a scientifically proven 3-step storage guide based on hygiene standards from the Mayo Clinic and MFDS to keep your leftover tofu firm, moist, and safe for over a week. 🛡️",
-                "whyTitle": "Why Store Tofu This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never reuse the original packaging water; change with fresh cold water daily 💧",
-                        "desc": "Opened packaging water harbors microbial byproducts and dissolved proteins that ruin tofu within hours. Always discard the original water completely and replace the container water with fresh, clean cold water daily to suppress bacterial growth."
-                    },
-                    {
-                        "title": "Freezing changes tofu texture into a porous, sponge-like structure ❄️",
-                        "desc": "Freezing tofu causes internal water to expand into ice crystals, which leave behind microscopic holes upon thawing, creating a chewy, honeycomb-like sponge texture. While it loses its silky smoothness, frozen tofu excels at absorbing sauces in stews and stir-fries."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Discard original pack water and rinse thoroughly under running water — Block Microbes 🚿",
-                        "text": "The liquid inside packaged tofu is rich in leached proteins, making it highly susceptible to bacterial bloom. 💡 Storage Tip: Completely drain the pack water and gently rinse the tofu under cold running tap water to remove surface residues and bacteria."
-                    },
-                    {
-                        "name": "Submerge completely in clean water with a pinch of salt — Firm Structure & Preserve 🧂",
-                        "text": "When exposed to oxygen, tofu undergoes rapid aerobic bacterial breakdown on its surface. 💡 Storage Tip: Place the tofu in an airtight container, cover it completely with clean cold water, and mix in half a teaspoon of salt. Mild osmotic pressure firms up the soy protein matrix and acts as a natural preservative."
-                    },
-                    {
-                        "name": "Change to fresh cold water daily — Cold Storage (7 Days), Frozen (30 Days) 💧",
-                        "text": "Even with salt added, organic compounds slowly leach into the water over time. 💡 Storage Tip: Replace the container water with fresh cold tap water daily to keep tofu firm and fresh in the fridge (0–4°C / 32–39°F) for up to 7 days. For long-term storage, cut into cubes and freeze in Ziploc bags (-18°C or below) for up to 30 days."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why shouldn't I store leftover tofu dry in an airtight container without water?",
-                        "answer": "Tofu consists of approximately 85% water and high-grade soy protein. Storing it dry without water allows surface moisture to evaporate while airborne bacteria quickly feed on the exposed proteins. This creates a slippery, slimy coating and a sour odor within 24 hours. Submerging tofu completely in light salt water is essential to exclude oxygen."
-                    },
-                    {
-                        "question": "How does freezing tofu alter its texture and nutritional profile?",
-                        "answer": "Freezing forces the water inside tofu to crystallize and expand, pushing apart the soy protein network. As it thaws and liquid drains out, a porous, sponge-like honeycomb structure remains. This process concentrates protein content by up to 5 times per unit weight, making frozen tofu denser in nutrients and superior at soaking up broths and marinades."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "豆腐を新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づく豆腐の最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "食品医薬品安全処(MFDS) & 米国農務省(USDA) & メイヨークリニック(Mayo Clinic)",
-                "intro": "使い残した半分の豆腐を保存する際、パックに入っていた元の水をそのまま保存容器に注いでいませんか？🧊\n\n市販の豆腐パックに入っている充填水には、溶け出した大豆タンパク質や有機物が含まれており、開封後は雑菌や細菌が最も繁殖しやすい絶好の栄養源となります。充填水のまま放置したり空気に触れさせると、タンパク質の腐敗が進み、すぐにぬめりや酸っぱい臭いが発生します。\n\n本記事では、メイヨークリニックおよび食品医薬品安全処（MFDS）の衛生基準に基づき、残った豆腐を1週間以上プリプリと safe に保つ3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "パックの充填水は再利用せず、毎日きれいな冷水に入れ替えてください 💧",
-                        "desc": "開封後の充填水にはタンパク質の分解物と雑菌が混ざっており、そのままにすると数時間で豆腐が傷みます。元の水は完全に捨て、保存容器の水道水は毎日新しい冷水に入れ替えて細菌の増殖を防ぎましょう。"
-                    },
-                    {
-                        "title": "冷凍すると水分が抜け、スポンジ状（こうや豆腐状）の組織に変化します ❄️",
-                        "desc": "豆腐を冷凍庫で凍らせると、内部の水分が氷の結晶となって膨張し、解凍時に水分が抜けて小さな穴がたくさん開いたスポンジ構造になります。生のなめらかな食感は失われますが、味が染み込みやすくなるため煮物や炒め物に最適です。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "パックの水を完全に捨てて流水で洗い流す — 雑菌繁殖の遮断 🚿",
-                        "text": "豆腐パック内の水は大豆タンパク質が溶け出しており、細菌が最も繁殖しやすい状態です。💡保存のコツ：パックの水は完全に捨て、豆腐を流れる冷水で軽く洗って表面のタンパク質成分と雑菌を洗い流してください。"
-                    },
-                    {
-                        "name": "密閉容器に入れ豆腐が浸かる冷水と塩ひとつまみを加える — 組織強化と天然保存 🧂",
-                        "text": "豆腐は空気に触れると好気性細菌によって表面から腐敗が始まります。💡保存のコツ：密閉容器に豆腐が完全に浸かるようきれいな水道水を注ぎ、塩小さじ1/2（ひとつまみ）を加えて混ぜてください。浸透圧で豆腐の組織が引き締まり細菌繁殖が抑えられます。"
-                    },
-                    {
-                        "name": "冷水は毎日新しい水に入れ替える — 冷蔵保存 (7日間)、冷凍保存 (30日間) 💧",
-                        "text": "塩を入れていても、時間経過とともに豆腐の成分が水に滲み出ます。💡保存のコツ：容器の水を毎日1回新しい冷水に入れ替えることで、冷蔵室（0〜4℃）で最大7日間新鮮さを保てます。長期保存する場合は一口大に切ってジッパーバッグ等で冷凍（-18℃以下）保存（30日）してください。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "残った豆腐を水なしでそのまま密閉容器に入れて保管してはいけない理由は何ですか？",
-                        "answer": "豆腐は約85%が水分とタンパク質で構成された高タンパク食品です。水なしで空気に触れたまま置くと、表面の水分が蒸発すると同時に空気中の雑菌がタンパク質に付着して繁殖し、わずか1日で表面にぬめりが生じて酸っぱい臭いがし傷んでしまいます。必ず塩水に完全に沈めて保存してください。"
-                    },
-                    {
-                        "question": "豆腐を冷凍保存すると食感や栄養にどのような変化が起きますか？",
-                        "answer": "豆腐を凍らせると内部の水分子が結晶化して膨張し、タンパク質網目構造を押し広げます。解凍時に水が抜けるとタンパク質組織だけが残り、スポンジ状の「凍り豆腐（こうや豆腐）」に変化します。この過程で重量あたりのタンパク質濃度が約5倍に凝縮されて栄養密度が高まり、出汁や調味料をよく吸うようになります。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持豆腐新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解豆腐的最佳储存温度、方式和保鲜时长。",
-                "authority": "韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 妙佑医疗国际(Mayo Clinic)",
-                "intro": "保存吃剩的半块豆腐时，您是否习惯性地把包装盒里的原水一起倒进了保鲜盒？🧊\n\n市售盒装豆腐中的浸泡水溶解了从豆腐中渗出的大豆蛋白与有机物，开封后会成为细菌与杂质快速滋生的绝佳培养基。若继续使用原水或将豆腐直接暴露在空气中，会导致蛋白质迅速腐败变质，出现发黏和发酸现象。\n\n本指南基于妙佑医疗国际(Mayo Clinic)和韩国食品医药品安全处(MFDS)的卫生标准，为您带来3步科学保存秘诀，帮您将吃剩的豆腐安全保鲜、维持紧致口感达1周以上。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "切勿重复使用原包装水，请每日更换干净凉水 💧",
-                        "desc": "拆封后的原包装水中混有蛋白质残留与微生物，继续使用会导致豆腐在数小时内变质。请务必彻底倒掉原水，并坚持每天为保鲜盒更换干净的冷自来水以阻断细菌滋生。"
-                    },
-                    {
-                        "title": "冷冻会导致水分流失，使豆腐变为多孔蜂窝状（冻豆腐） ❄️",
-                        "desc": "将豆腐放入冷冻室，内部水分会结冰膨胀，解冻流失后会留下微小的孔洞，变成富含弹性的蜂窝状冻豆腐。虽然失去了生豆腐的细嫩，但其吸收汤汁的能力极强，非常适合做炖菜或火锅。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "彻底倒掉原包装水并在流动清水下冲洗 — 阻断细菌滋生 🚿",
-                        "text": "包装盒内的原水富含溶出的蛋白质，是极易滋生细菌的液体。💡储存小贴士：彻底倒净包装水，将豆腐放在流动的冷自来水下轻柔冲洗，洗去表面的蛋白质残留与杂质。"
-                    },
-                    {
-                        "name": "放入保鲜盒倒入没过豆腐的清水并加一小撮盐 — 紧致肉质与天然防腐 🧂",
-                        "text": "豆腐若暴露在空气中，表面的蛋白质会被好氧细菌迅速分解。💡储存小贴士：在密封盒中注入能完全没过豆腐的干净凉水，加入半茶匙食盐搅拌均匀。轻微的渗透压能使豆腐质地更加紧致，并抑制细菌繁殖。"
-                    },
-                    {
-                        "name": "坚持每日更换一次干净凉水 — 冷藏保存 (7天)，冷冻保存 (30天) 💧",
-                        "text": "即使加了盐，随着时间推移，豆腐中的成分仍会缓缓渗入水中。💡储存小贴士：每天为保鲜盒更换一次干净的冷水，可在冷藏室（0~4℃）中维持鲜嫩紧致达7天。如需长期保存，可切块后装入拉链袋冷冻（-18℃以下）保存30天。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "为什么吃剩的豆腐不能直接干放进保鲜盒里冷藏？",
-                        "answer": "豆腐是一种约85%由水分和优质大豆蛋白构成的极易变质食品。如果不加水直接干放暴露在空气中，表面水分蒸发的同时，空气中的杂菌会附着在蛋白质上爆发性繁殖，仅需24小时表面就会产生黏稠液体并散发酸臭味。必须将其完全浸泡在轻微的盐水中以隔绝氧气。"
-                    },
-                    {
-                        "question": "把豆腐放进冷冻室冻起来，其口感和营养会发生什么变化？",
-                        "answer": "豆腐冷冻时，内部的水分会结冰膨胀，推开大豆蛋白的网状结构。解冻时水分流失，仅留下蛋白质框架，形成如海绵般布满孔洞的“冻豆腐”。在此过程中，单位重量下的蛋白质浓度可浓缩约5倍，营养密度大幅提升，且能极好地吸收汤汁与调味料。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener el tofu fresco: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el tofu según las directrices oficiales de seguridad.",
-                "authority": "MFDS & USDA & Mayo Clinic",
-                "intro": "Al guardar el tofu sobrante, ¿acostumbraba verter el agua original del envase dentro de su contenedor de almacenamiento? 🧊\n\nEl agua del empaque del tofu contiene proteínas de soja y compuestos orgánicos disueltos, convirtiéndose en un medio de cultivo ideal para bacterias una vez abierto. Dejar el tofu en este líquido estancado o exponerlo al aire acelera la degradación de proteínas, produciendo mal olor agrio y superficie viscosa.\n\nEn esta guía se comparte una guía científica en 3 pasos basada en las normas de higiene de la Clínica Mayo y el MFDS para mantener su tofu firme, húmedo y seguro por más de una semana. 🛡️",
-                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Nunca reutilice el agua del empaque original; cámbiela por agua fría limpia a diario 💧",
-                        "desc": "El agua del paquete abierto alberga subproductos microbianos que arruinan el tofu en horas. Deseche siempre el agua original y reemplácela a diario con agua fría limpia para frenar el desarrollo bacteriano."
-                    },
-                    {
-                        "title": "La congelación transforma la textura del tofu en una estructura esponjosa y porosa ❄️",
-                        "desc": "Congelar tofu hace que el agua interna se expanda en cristales de hielo, dejando microagujeros al descongelarse que crean una textura esponjosa tipo panal. Aunque pierde su firmeza sedosa, el tofu congelado es ideal para absorber salsas en estofados."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Deseche el agua del empaque y enjuague bien bajo agua corriente — Bloquee microbios 🚿",
-                        "text": "El líquido del paquete contiene proteínas disueltas muy propensas a la floración bacteriana. 💡 Consejo de almacenamiento: Elimine el agua del empaque y enjuague el tofu suavemente bajo agua fría corriente para quitar residuos de la superficie."
-                    },
-                    {
-                        "name": "Sumerja por completo en agua limpia con una pizca de sal — Reafirme la estructura 🧂",
-                        "text": "Al contacto con el oxígeno, el tofu sufre una rápida descomposición bacteriana en la superficie. 💡 Consejo de almacenamiento: Coloque el tofu en un recipiente hermético, cúbralo de agua fría limpia y añada media cucharadita de sal. La presión osmótica reafirma la proteína."
-                    },
-                    {
-                        "name": "Cambie el agua por agua fría fresca todos los días — Refrigeración (7 días), Congelación (30 días) 💧",
-                        "text": "Aun con sal, los compuestos orgánicos se disuelven lentamente en el agua con los días. 💡 Consejo de almacenamiento: Renueve el agua a diario con agua fría para mantener el tofu fresco en el refrigerador (0-4 °C) hasta por 7 días. Para largo plazo, córtelo en cubos y congele (-18 °C) por 30 días."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué no debo guardar el tofu sobrante seco en un recipiente hermético sin agua?",
-                        "answer": "El tofu se compone de aproximadamente 85% de agua y proteínas de soja. Guardarlo seco permite que la humedad de la superficie se evapore mientras las bacterias del aire se alimentan de las proteínas expuestas. Esto crea una capa viscosa y pegajosa con olor agrio en solo 24 horas. Sumergirlo por completo en agua ligeramente salada es vital para aislarlo del oxígeno."
-                    },
-                    {
-                        "question": "¿Cómo altera la congelación la textura y el perfil nutricional del tofu?",
-                        "answer": "Al congelar el tofu, el agua interna se cristaliza y se expande, separando la red de proteínas de soja. Al descongelar y drenar el líquido, queda una estructura porosa similar a una esponja. Este proceso concentra el contenido de proteína hasta 5 veces por unidad de peso, haciendo que el tofu congelado sea más denso en nutrientes y perfecto para absorber caldos."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver le tofu frais : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le tofu selon les directives officielles de sécurité.",
-                "authority": "MFDS & USDA & Mayo Clinic",
-                "intro": "Pour conserver un reste de tofu, avez-vous pris l'habitude de verser l'eau d'origine du paquet dans votre boîte hermétique ? 🧊\n\nL'eau du sachet de tofu contient des protéines de soja et des composés organiques dissous, constituant un milieu de culture idéal pour les bactéries une fois l'emballage ouvert. Laisser le tofu dans ce liquide ou l'exposer à l'air accélère la dégradation des protéines, entraînant une odeur sûre et une surface visqueuse.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les normes d'hygiène de la Mayo Clinic et du MFDS pour garder votre tofu ferme, frais et sûr pendant plus d'une semaine. 🛡️",
-                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne réutilisez jamais l'eau du paquet ; remplacez-la chaque jour par de l'eau froide propre 💧",
-                        "desc": "L'eau du sachet ouvert contient des protéines et des bactéries qui altèrent le tofu en quelques heures. Jetez toujours l'eau d'origine et remplacez-la quotidiennement par de l'eau froide claire pour limiter la prolifération microbienne."
-                    },
-                    {
-                        "title": "La congélation transforme la texture du tofu en une structure spongieuse et alvéolée ❄️",
-                        "desc": "Congeler le tofu fait dilater l'eau interne sous forme de cristaux de glace. En dégelant, l'eau s'écoule et laisse une texture alvéolée comme une éponge. Bien qu'il perde son velouté, le tofu congelé absorbe merveilleusement les sauces et bouillons."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Jeter l'eau du paquet et rincer soigneusement sous l'eau courante — Bloquer les bactéries 🚿",
-                        "text": "Le liquide d'emballage regorge de protéines dissoutes propices au développement bactérien. 💡 Astuce de conservation : Égouttez totalement l'eau du sachet et rincez délicatement le bloc de tofu sous l'eau froide pour éliminer les résidus en surface."
-                    },
-                    {
-                        "name": "Immerger complètement dans de l'eau propre avec une pincée de sel — Raffermir la structure 🧂",
-                        "text": "Exposé à l'air, le tofu subit une altération bactérienne rapide en surface. 💡 Astuce de conservation : Placez le tofu dans une boîte hermétique, couvrez d'eau froide propre et ajoutez une demi-cuillère à café de sel. La légère pression osmotique raffermit le tofu."
-                    },
-                    {
-                        "name": "Changer l'eau froide tous les jours — Réfrigération (7 jours), Congélation (30 jours) 💧",
-                        "text": "Même avec du sel, des composés organiques se dissolvent peu à peu dans l'eau. 💡 Astuce de conservation : Renouvelez l'eau chaque jour pour maintenir le tofu très frais au réfrigérateur (0–4 °C) jusqu'à 7 jours. Pour une plus longue conservation, coupez-le en dés et congelez (-18 °C) pendant 30 jours."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi ne faut-il pas conserver le tofu entamé à sec dans une boîte sans eau ?",
-                        "answer": "Le tofu contient environ 85 % d'eau et des protéines de soja de haute qualité. Le conserver à sec laisse l'humidité de surface s'évaporer tandis que les bactéries de l'air prolifèrent sur les protéines mises à nu. Cela forme un film gluant et une odeur aigre en 24 heures. L'immerger entièrement dans une eau légèrement salée est indispensable pour couper l'accès à l'oxygène."
-                    },
-                    {
-                        "question": "Comment la congélation modifie-t-elle la texture et les nutriments du tofu ?",
-                        "answer": "Lors de la congélation, l'eau interne cristallise et s'écarte, écartant le réseau de protéines. Au dégel, l'eau s'écoule en laissant une structure spongieuse alvéolée. Ce procédé concentre la densité en protéines jusqu'à 5 fois par unité de poids, rendant le tofu congelé très nourrissant et idéal pour imbiber les sauces."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Tofu richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Tofu basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "MFDS & USDA & Mayo Clinic",
-                "intro": "Haben Sie beim Lagern von angebrochenem Tofu das Originalwasser aus der Packung in die Dose gegossen? 🧊\n\nDas Verpackungswasser von Tofu enthält gelöste Sojaeiweiße und organische Stoffe, die nach dem Öffnen ein idealer Nährboden für Bakterien sind. Belässt man den Tofu in dieser Flüssigkeit oder setzt ihn der Luft aus, zersetzt sich das Eiweiß rasch, was zu saurem Geruch und schleimiger Oberfläche führt.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Hygienestandards der Mayo Clinic und der MFDS basiert, um Ihren Tofu über eine Woche lang fest, saftig und frisch zu halten. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Verpackungswasser niemals wiederverwenden; täglich durch frisches Kaltwasser ersetzen 💧",
-                        "desc": "Geöffnetes Packungswasser enthält Eiweißreste und Bakterien, die den Tofu in Stunden verderben. Gießen Sie das alte Wasser stets weg und füllen Sie täglich frisches, kaltes Leitungswasser nach."
-                    },
-                    {
-                        "title": "Einfrieren verwandelt die Tofutextur in eine schwammartige Porenstruktur ❄️",
-                        "desc": "Beim Einfrieren dehnt sich das enthaltene Wasser zu Eiskristallen aus, die nach dem Auftauen winzige Löcher hinterlassen (Gefriertofu). Die seidige Glätte geht verloren, aber der Tofu nimmt Soßen in Eintöpfen hervorragend auf."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Packungswasser wegwerfen und gründlich unter fließendem Wasser abspülen — Bakterien stoppen 🚿",
-                        "text": "Das Wasser in der Tofupackung enthält gelöste Proteine und ist extrem anfällig für Keimwachstum. 💡 Lagerungstipp: Gießen Sie das Wasser weg und spülen Sie den Tofu sanft unter fließendem kaltem Wasser ab."
-                    },
-                    {
-                        "name": "Vollständig in sauberes Wasser mit einer Prise Salz einlegen — Gewebe festigen 🧂",
-                        "text": "Unter Sauerstoffeinfluss zersetzen aerobe Bakterien die Oberfläche von Tofu rasch. 💡 Lagerungstipp: Legen Sie den Tofu in eine Dose, bedecken Sie ihn vollständig mit kaltem Wasser und geben Sie einen halben Teelöffel Salz hinzu. Der osmotische Druck festigt die Sojaproteine."
-                    },
-                    {
-                        "name": "Täglich frisches kaltes Wasser nachfüllen — Kühllagerung (7 Tage), Gefrierlagerung (30 Tage) 💧",
-                        "text": "Auch mit Salz lösen sich mit der Zeit organische Stoffe im Wasser. 💡 Lagerungstipp: Erneuern Sie das Wasser täglich, um den Tofu im Kühlschrank (0–4 °C) bis zu 7 Tage frisch zu halten. Für Langzeitlagerung in Würfel schneiden und im Gefrierbeutel (-18 °C) bis zu 30 Tage einfrieren."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum sollte man angebrochenen Tofu nicht trocken ohne Wasser in einer Dose aufbewahren?",
-                        "answer": "Tofu besteht zu etwa 85 % aus Wasser und Sojaeiweiß. Trocken gelagert verdunstet die Oberflächenfeuchtigkeit, während Bakterien aus der Luft das freiliegende Eiweiß zersetzen. Das führt innerhalb von 24 Stunden zu Schmiere und saurem Geruch. Das vollständige Untertauchen in leichtem Salzwasser schützt zuverlässig vor Sauerstoff."
-                    },
-                    {
-                        "question": "Wie verändert das Einfrieren die Textur und die Nährstoffe von Tofu?",
-                        "answer": "Beim Einfrieren dehnt sich das Wasser im Tofu aus und drückt die Eiweißnetzwerke auseinander. Beim Auftauen läuft das Wasser ab und hinterlässt eine schwammartige Porenstruktur. Dadurch konzentriert sich der Proteingehalt pro Gewichtseinheit um das bis zu 5-Fache, was Gefriertofu sehr nährstoffreich macht und Soßen ideal aufsaugen lässt."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar tofu fresco: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para tofu com base em diretrizes oficiais de segurança.",
-                "authority": "MFDS & USDA & Mayo Clinic",
-                "intro": "Ao guardar o tofu que sobrou, você costumava despejar a água original da embalagem no pote? 🧊\n\nA água da embalagem do tofu contém proteínas de soja e compostos orgânicos dissolvidos, tornando-se o meio ideal para proliferação de bactérias após a abertura. Deixar o tofu nesse líquido ou exposto ao ar acelera a degradação das proteínas, resultando em cheiro azedo e superfície viscosa.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em normas de higiene da Mayo Clinic e do MFDS para manter seu tofu firme, úmido e seguro por mais de uma semana. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca reutilize a água da embalagem original; troque por água fria limpa diariamente 💧",
-                        "desc": "A água da embalagem aberta contém resíduos proteicos e bactérias que estragam o tofu em poucas horas. Descarte sempre a água original e substitua por água fria limpa diariamente para deter as bactérias."
-                    },
-                    {
-                        "title": "O congelamento transforma a textura do tofu em uma estrutura esponjosa e porosa ❄️",
-                        "desc": "Congelar o tofu faz a água interna expandir em cristais de gelo, deixando pequenos furos ao descongelar que criam uma textura parecida com fava de mel. Embora perca a maciez macia, o tofu congelado absorve caldos perfeitamente."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Descarte a água da embalagem e enxágue bem em água corrente — Bloqueie micróbios 🚿",
-                        "text": "O líquido da embalagem contém proteínas dissolvidas propenso ao crescimento de bactérias. 💡 Dica de conservação: Jogue fora a água do pacote e enxágue o tofu suavemente em água fria corrente para tirar os resíduos."
-                    },
-                    {
-                        "name": "Submerja totalmente em água limpa com uma pitada de sal — Firme a estrutura 🧂",
-                        "text": "Em contato com o oxigênio, o tofu sofre rápida degradação bacteriana na superfície. 💡 Dica de conservação: Coloque o tofu em um pote hermético, cubra com água fria limpa e adicione meia colher de chá de sal. A pressão osmótica firma a proteína."
-                    },
-                    {
-                        "name": "Troque a água por água fria limpa diariamente — Refrigeração (7 dias), Congelamento (30 dias) 💧",
-                        "text": "Mesmo com sal, compostos orgânicos continuam saindo para a água com o passar dos dias. 💡 Dica de conservação: Troque a água diariamente para manter o tofu fresco na geladeira (0-4 °C) por até 7 dias. Para longo prazo, corte em cubos e congele (-18 °C) por 30 dias."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Por que não devo guardar o tofu que sobrou seco em um pote sem água?",
-                        "answer": "O tofu é composto por cerca de 85% de água e proteína de soja de alta qualidade. Guardá-lo seco faz a umidade da superfície evaporar enquanto bactérias do ar se alimentam da proteína exposta. Isso forma uma camada viscosa e odor azedo em apenas 24 horas. Submergir totalmente em água levemente salgada é essencial para isolar o oxigênio."
-                    },
-                    {
-                        "question": "Como o congelamento altera a textura e os nutrientes do tofu?",
-                        "answer": "Ao congelar o tofu, a água interna cristaliza e se expande, afastando as redes de proteína de soja. Ao descongelar e drenar o líquido, sobra uma estrutura porosa semelhante a uma esponja. Esse processo concentra a densidade proteica em até 5 vezes por unidade de peso, tornando o tofu congelado altamente nutritivo e ótimo para absorver molhos."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Tahu agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk tahu berdasarkan pedoman keselamatan resmi.",
-                "authority": "MFDS & USDA & Mayo Clinic",
-                "intro": "Saat menyimpan sisa tahu, apakah Anda biasa menuangkan air kemasan aslinya ke dalam wadah penyimpanan? 🧊\n\nAir dalam kemasan tahu mengandung protein kedelai terlarut dan senyawa organik, menjadikannya media biak yang ideal bagi bakteri begitu dibuka. Membiarkan tahu dalam cairan ini atau membiarkannya terpapar udara mempercepat pembusukan protein, menghasilkan bau asam dan tekstur berlendir.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan standar higienitas Mayo Clinic dan MFDS untuk menjaga tahu sisa Anda tetap padat, lembap, dan aman selama lebih dari seminggu. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan pernah menggunakan kembali air kemasan asli; ganti dengan air dingin bersih setiap hari 💧",
-                        "desc": "Air kemasan yang telah dibuka mengandung produk sampingan mikroba dan protein terlarut yang merusak tahu dalam beberapa jam. Selalu buang air asli secara total dan ganti air wadah dengan air dingin yang bersih setiap hari."
-                    },
-                    {
-                        "title": "Pembekuan mengubah tekstur tahu menjadi struktur berpori seperti spons ❄️",
-                        "desc": "Membekukan tahu membuat air di dalamnya memuai menjadi kristal es, meninggalkan lubang-lubang mikroskopis saat dicairkan sehingga teksturnya menjadi kenyal seperti spons. Meskipun kehilangan kelembutan lamanya, tahu beku sangat baik dalam menyerap kuah dan bumbu."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Buang air kemasan dan bilas hingga bersih di bawah air mengalir — Cegah Mikroba 🚿",
-                        "text": "Cairan di dalam kemasan tahu kaya akan protein terlarut yang sangat memicu perkembangan bakteri. 💡 Tips Penyimpanan: Buang air kemasan secara total dan bilas tahu secara lembut di bawah air kran dingin untuk membersihkan sisa protein di permukaan."
-                    },
-                    {
-                        "name": "Rendam seluruhnya dalam air bersih dengan sejumput garam — Perkokoh Struktur Tahu 🧂",
-                        "text": "Saat terpapar oksigen, permukaan tahu mengalami pembusukan bakteri aerobik secara cepat. 💡 Tips Penyimpanan: Masukkan tahu ke wadah kedap udara, rendam seluruhnya dalam air dingin bersih, dan tambahkan setengah sendok teh garam. Tekanan osmotik ringan memperkokoh protein."
-                    },
-                    {
-                        "name": "Ganti dengan air dingin baru setiap hari — Simpan Dingin (7 Hari), Beku (30 Hari) 💧",
-                        "text": "Meskipun diberi garam, senyawa organik tetap terlarut ke dalam air secara perlahan seiring waktu. 💡 Tips Penyimpanan: Ganti air wadah dengan air kran dingin yang baru setiap hari untuk menjaga tahu tetap segar di kulkas (0–4°C) hingga 7 hari. Untuk jangka panjang, potong dadu dan bekukan (-18°C) selama 30 hari."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa saya tidak boleh menyimpan sisa tahu dalam kondisi kering tanpa air di wadah kedap udara?",
-                        "answer": "Tahu terdiri dari sekitar 85% air dan protein kedelai berkualitas tinggi. Menyimpannya kering tanpa air membiarkan kelembapan permukaan menguap sementara bakteri udara dengan cepat mencerna protein yang terbuka. Ini menciptakan lapisan berlendir dan bau asam dalam 24 jam. Merendamnya seluruhnya dalam air bergaram ringan sangat penting untuk menghalangi oksigen."
-                    },
-                    {
-                        "question": "Bagaimana pembekuan mengubah tekstur dan kandungan nutrisi pada tahu?",
-                        "answer": "Membekukan tahu memaksa air di dalamnya mengkristal dan memuai, merenggangkan jaringan protein kedelai. Saat dicairkan dan airnya dibuang, tersisa struktur berpori seperti spons. Proses ini mengonsentrasikan kandungan protein hingga 5 kali lipat per unit berat, membuat tahu beku lebih padat nutrisi dan sangat cocok menyerap kuah masakan."
-                    }
-                ]
-            }
-        }
+  "how-to-store-tofu": {
+    "ingId": "tofu",
+    "pubDate": "2026-04-20",
+    "updatedDate": "2026-04-20",
+    "heroImage": "/images/blog/tofu_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "두부 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 두부의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "식품의약품안전처(MFDS) & 미국 농무부(USDA) & 메이요 클리닉(Mayo Clinic)",
+        "intro": "요리하고 남은 두부를 밀폐 용기에 담을 때, 팩에 들어있던 기존 충전수를 그대로 부어 보관해 본 적 있으시죠? 🧊\n\n시판 두부 팩 안의 충전수는 두부에서 유출된 단백질과 유기물 성분이 녹아 있어, 개봉 직후 공기 중 박테리아와 세균이 증식하기 가장 좋은 영양 매체입니다. 충전수를 그대로 두거나 공기 중에 방치하면 단백질 부패가 진행되어 금방 미끈거리며 시큼한 냄새가 나게 됩니다.\n\n이번 가이드에서는 메이요 클리닉(Mayo Clinic)과 식품의약품안전처(MFDS)의 위생 관리 기준에 기반하여, 남은 두부를 일주일 이상 탱글탱글하고 안전하게 지켜주는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "팩 충전수는 재사용하지 말고 매일 깨끗한 물로 교체하세요 💧",
+            "desc": "개봉된 팩 충전수에는 단백질 부산물과 미생물이 섞여 있어 그대로 두면 수시간 내에 두부가 상합니다. 충전수는 완전히 버리고, 보관 용기의 수돗물은 매일 깨끗한 새 찬물로 교체해 주어야 세균 증식을 차단할 수 있습니다."
+          },
+          {
+            "title": "냉동 시 수분이 빠져나가 스펀지 구멍 조직으로 변합니다 ❄️",
+            "desc": "두부를 냉동실에 얼리면 내부 수분이 얼음 결정으로 팽창했다가 해동 시 빠져나가며 미세한 구멍이 송송 뚫린 스펀지 구조(언두부)가 됩니다. 생두부 고유의 부드러운 식감은 사라지므로 찌개용보다는 국물을 흡수하는 조림이나 만두소 용도로 활용하세요."
+          }
+        ],
+        "steps": [
+          {
+            "name": "팩 충전수 완전히 버리고 흐르는 찬물에 헹구기 — 미생물 번식 차단 🚿",
+            "text": "두부 포장 팩 안의 물은 단백질이 배어나와 세균이 가장 쉽게 번식하는 상태입니다. 💡 보관 팁: 팩 안의 충전수를 완벽히 버린 뒤, 두부를 흐르는 차가운 수돗물에 가볍게 헹궈 표면의 단백질 잔여물과 미생물을 씻어내세요."
+          },
+          {
+            "name": "밀폐용기에 두부가 잠기도록 맑은 물과 소금 한 꼬집 넣기 — 조직 강화 및 천연 방부 🧂",
+            "text": "두부는 공기와 접촉하면 호기성 세균에 의해 표면부터 단백질이 분해됩니다. 💡 보관 팁: 밀폐 용기에 두부가 완전히 잠길 정도로 깨끗한 수돗물을 붓고 천일염이나 소금 반 티스푼(한 꼬집)을 넣어주세요. 삼투압 현상으로 두부 조직이 단단해지고 세균 증식이 억제됩니다."
+          },
+          {
+            "name": "찬물은 매일 한 번씩 새 물로 교체해주기 — 냉장 보관 (7일) 및 냉동 보관 (30일) 💧",
+            "text": "소금을 넣었더라도 물속에 두부 수분이 계속 배어나옵니다. 💡 보관 팁: 용기의 물을 매일 1회 새 찬물로 교체해 주면 냉장실(0~4℃)에서 최대 7일까지 변질 없이 탱글하게 보관할 수 있습니다. 장기 보관 시에는 적당한 크기로 썰어 얼음틀이나 지퍼백에 담아 냉동(-18℃ 이하) 보관(30일)하세요."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "남은 두부를 물 없이 그냥 밀폐 용기에 넣어두면 왜 안 되나요?",
+            "answer": "두부는 약 85%가 수분과 단백질로 이루어진 대표적인 고단백 식품입니다. 물 없이 공기 중에 노출된 채 두면 표면 수분이 증발하면서 공기 중의 잡균이 단백질에 침투하여 단 하루 만에 표면에 미끈거리는 점액질이 생기고 시큼한 냄새가 나며 상하게 됩니다. 반드시 소금물에 완전히 잠기도록 보관해야 합니다."
+          },
+          {
+            "question": "두부를 냉동실에 얼리면 질감과 영양에 어떤 변화가 생기나요?",
+            "answer": "두부를 얼리면 내부의 수분이 얼면서 입자가 팽창하여 단백질과 분리됩니다. 해동 시 수분이 빠져나가면서 단백질 조직만 남아 스펀지처럼 구멍이 뚫린 '언두부'로 변합니다. 이 과정에서 단위 무게당 단백질 함량이 약 5배 이상 농축되어 영양 밀도가 높아지며, 양념이나 국물을 잘 흡수하여 조림이나 전골 요리에 최고가 됩니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Tofu Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for tofu based on official safety guidelines.",
+        "authority": "MFDS & USDA & Mayo Clinic",
+        "intro": "When storing leftover tofu, did you pour the original liquid from the plastic pack into your storage container? 🧊\n\nThe water inside packaged tofu contains dissolved soy proteins and organic compounds, making it an ideal culture medium for bacteria once opened. Leaving tofu in this stagnant liquid or exposing it to open air accelerates protein degradation, resulting in a sour odor and slimy surface texture.\n\nIn this guide, shares a scientifically proven 3-step storage guide based on hygiene standards from the Mayo Clinic and MFDS to keep your leftover tofu firm, moist, and safe for over a week. 🛡️",
+        "whyTitle": "Why Store Tofu This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never reuse the original packaging water; change with fresh cold water daily 💧",
+            "desc": "Opened packaging water harbors microbial byproducts and dissolved proteins that ruin tofu within hours. Always discard the original water completely and replace the container water with fresh, clean cold water daily to suppress bacterial growth."
+          },
+          {
+            "title": "Freezing changes tofu texture into a porous, sponge-like structure ❄️",
+            "desc": "Freezing tofu causes internal water to expand into ice crystals, which leave behind microscopic holes upon thawing, creating a chewy, honeycomb-like sponge texture. While it loses its silky smoothness, frozen tofu excels at absorbing sauces in stews and stir-fries."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Discard original pack water and rinse thoroughly under running water — Block Microbes 🚿",
+            "text": "The liquid inside packaged tofu is rich in leached proteins, making it highly susceptible to bacterial bloom. 💡 Storage Tip: Completely drain the pack water and gently rinse the tofu under cold running tap water to remove surface residues and bacteria."
+          },
+          {
+            "name": "Submerge completely in clean water with a pinch of salt — Firm Structure & Preserve 🧂",
+            "text": "When exposed to oxygen, tofu undergoes rapid aerobic bacterial breakdown on its surface. 💡 Storage Tip: Place the tofu in an airtight container, cover it completely with clean cold water, and mix in half a teaspoon of salt. Mild osmotic pressure firms up the soy protein matrix and acts as a natural preservative."
+          },
+          {
+            "name": "Change to fresh cold water daily — Cold Storage (7 Days), Frozen (30 Days) 💧",
+            "text": "Even with salt added, organic compounds slowly leach into the water over time. 💡 Storage Tip: Replace the container water with fresh cold tap water daily to keep tofu firm and fresh in the fridge (0–4°C / 32–39°F) for up to 7 days. For long-term storage, cut into cubes and freeze in Ziploc bags (-18°C or below) for up to 30 days."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why shouldn't I store leftover tofu dry in an airtight container without water?",
+            "answer": "Tofu consists of approximately 85% water and high-grade soy protein. Storing it dry without water allows surface moisture to evaporate while airborne bacteria quickly feed on the exposed proteins. This creates a slippery, slimy coating and a sour odor within 24 hours. Submerging tofu completely in light salt water is essential to exclude oxygen."
+          },
+          {
+            "question": "How does freezing tofu alter its texture and nutritional profile?",
+            "answer": "Freezing forces the water inside tofu to crystallize and expand, pushing apart the soy protein network. As it thaws and liquid drains out, a porous, sponge-like honeycomb structure remains. This process concentrates protein content by up to 5 times per unit weight, making frozen tofu denser in nutrients and superior at soaking up broths and marinades."
+          }
+        ]
+      },
+      "ja": {
+        "title": "豆腐を新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づく豆腐の最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "食品医薬品安全処(MFDS) & 米国農務省(USDA) & メイヨークリニック(Mayo Clinic)",
+        "intro": "使い残した半分の豆腐を保存する際、パックに入っていた元の水をそのまま保存容器に注いでいませんか？🧊\n\n市販の豆腐パックに入っている充填水には、溶け出した大豆タンパク質や有機物が含まれており、開封後は雑菌や細菌が最も繁殖しやすい絶好の栄養源となります。充填水のまま放置したり空気に触れさせると、タンパク質の腐敗が進み、すぐにぬめりや酸っぱい臭いが発生します。\n\n本記事では、メイヨークリニックおよび食品医薬品安全処（MFDS）の衛生基準に基づき、残った豆腐を1週間以上プリプリと safe に保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "パックの充填水は再利用せず、毎日きれいな冷水に入れ替えてください 💧",
+            "desc": "開封後の充填水にはタンパク質の分解物と雑菌が混ざっており、そのままにすると数時間で豆腐が傷みます。元の水は完全に捨て、保存容器の水道水は毎日新しい冷水に入れ替えて細菌の増殖を防ぎましょう。"
+          },
+          {
+            "title": "冷凍すると水分が抜け、スポンジ状（こうや豆腐状）の組織に変化します ❄️",
+            "desc": "豆腐を冷凍庫で凍らせると、内部の水分が氷の結晶となって膨張し、解凍時に水分が抜けて小さな穴がたくさん開いたスポンジ構造になります。生のなめらかな食感は失われますが、味が染み込みやすくなるため煮物や炒め物に最適です。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "パックの水を完全に捨てて流水で洗い流す — 雑菌繁殖の遮断 🚿",
+            "text": "豆腐パック内の水は大豆タンパク質が溶け出しており、細菌が最も繁殖しやすい状態です。💡保存のコツ：パックの水は完全に捨て、豆腐を流れる冷水で軽く洗って表面のタンパク質成分と雑菌を洗い流してください。"
+          },
+          {
+            "name": "密閉容器に入れ豆腐が浸かる冷水と塩ひとつまみを加える — 組織強化と天然保存 🧂",
+            "text": "豆腐は空気に触れると好気性細菌によって表面から腐敗が始まります。💡保存のコツ：密閉容器に豆腐が完全に浸かるようきれいな水道水を注ぎ、塩小さじ1/2（ひとつまみ）を加えて混ぜてください。浸透圧で豆腐の組織が引き締まり細菌繁殖が抑えられます。"
+          },
+          {
+            "name": "冷水は毎日新しい水に入れ替える — 冷蔵保存 (7日間)、冷凍保存 (30日間) 💧",
+            "text": "塩を入れていても、時間経過とともに豆腐の成分が水に滲み出ます。💡保存のコツ：容器の水を毎日1回新しい冷水に入れ替えることで、冷蔵室（0〜4℃）で最大7日間新鮮さを保てます。長期保存する場合は一口大に切ってジッパーバッグ等で冷凍（-18℃以下）保存（30日）してください。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "残った豆腐を水なしでそのまま密閉容器に入れて保管してはいけない理由は何ですか？",
+            "answer": "豆腐は約85%が水分とタンパク質で構成された高タンパク食品です。水なしで空気に触れたまま置くと、表面の水分が蒸発すると同時に空気中の雑菌がタンパク質に付着して繁殖し、わずか1日で表面にぬめりが生じて酸っぱい臭いがし傷んでしまいます。必ず塩水に完全に沈めて保存してください。"
+          },
+          {
+            "question": "豆腐を冷凍保存すると食感や栄養にどのような変化が起きますか？",
+            "answer": "豆腐を凍らせると内部の水分子が結晶化して膨張し、タンパク質網目構造を押し広げます。解凍時に水が抜けるとタンパク質組織だけが残り、スポンジ状の「凍り豆腐（こうや豆腐）」に変化します。この過程で重量あたりのタンパク質濃度が約5倍に凝縮されて栄養密度が高まり、出汁や調味料をよく吸うようになります。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持豆腐新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解豆腐的最佳储存温度、方式和保鲜时长。",
+        "authority": "韩国食品医药品安全处(MFDS) & 美国农务部(USDA) & 妙佑医疗国际(Mayo Clinic)",
+        "intro": "保存吃剩的半块豆腐时，您是否习惯性地把包装盒里的原水一起倒进了保鲜盒？🧊\n\n市售盒装豆腐中的浸泡水溶解了从豆腐中渗出的大豆蛋白与有机物，开封后会成为细菌与杂质快速滋生的绝佳培养基。若继续使用原水或将豆腐直接暴露在空气中，会导致蛋白质迅速腐败变质，出现发黏和发酸现象。\n\n本指南基于妙佑医疗国际(Mayo Clinic)和韩国食品医药品安全处(MFDS)的卫生标准，为您带来3步科学保存秘诀，帮您将吃剩的豆腐安全保鲜、维持紧致口感达1周以上。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "切勿重复使用原包装水，请每日更换干净凉水 💧",
+            "desc": "拆封后的原包装水中混有蛋白质残留与微生物，继续使用会导致豆腐在数小时内变质。请务必彻底倒掉原水，并坚持每天为保鲜盒更换干净的冷自来水以阻断细菌滋生。"
+          },
+          {
+            "title": "冷冻会导致水分流失，使豆腐变为多孔蜂窝状（冻豆腐） ❄️",
+            "desc": "将豆腐放入冷冻室，内部水分会结冰膨胀，解冻流失后会留下微小的孔洞，变成富含弹性的蜂窝状冻豆腐。虽然失去了生豆腐的细嫩，但其吸收汤汁的能力极强，非常适合做炖菜或火锅。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "彻底倒掉原包装水并在流动清水下冲洗 — 阻断细菌滋生 🚿",
+            "text": "包装盒内的原水富含溶出的蛋白质，是极易滋生细菌的液体。💡储存小贴士：彻底倒净包装水，将豆腐放在流动的冷自来水下轻柔冲洗，洗去表面的蛋白质残留与杂质。"
+          },
+          {
+            "name": "放入保鲜盒倒入没过豆腐的清水并加一小撮盐 — 紧致肉质与天然防腐 🧂",
+            "text": "豆腐若暴露在空气中，表面的蛋白质会被好氧细菌迅速分解。💡储存小贴士：在密封盒中注入能完全没过豆腐的干净凉水，加入半茶匙食盐搅拌均匀。轻微的渗透压能使豆腐质地更加紧致，并抑制细菌繁殖。"
+          },
+          {
+            "name": "坚持每日更换一次干净凉水 — 冷藏保存 (7天)，冷冻保存 (30天) 💧",
+            "text": "即使加了盐，随着时间推移，豆腐中的成分仍会缓缓渗入水中。💡储存小贴士：每天为保鲜盒更换一次干净的冷水，可在冷藏室（0~4℃）中维持鲜嫩紧致达7天。如需长期保存，可切块后装入拉链袋冷冻（-18℃以下）保存30天。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "为什么吃剩的豆腐不能直接干放进保鲜盒里冷藏？",
+            "answer": "豆腐是一种约85%由水分和优质大豆蛋白构成的极易变质食品。如果不加水直接干放暴露在空气中，表面水分蒸发的同时，空气中的杂菌会附着在蛋白质上爆发性繁殖，仅需24小时表面就会产生黏稠液体并散发酸臭味。必须将其完全浸泡在轻微的盐水中以隔绝氧气。"
+          },
+          {
+            "question": "把豆腐放进冷冻室冻起来，其口感和营养会发生什么变化？",
+            "answer": "豆腐冷冻时，内部的水分会结冰膨胀，推开大豆蛋白的网状结构。解冻时水分流失，仅留下蛋白质框架，形成如海绵般布满孔洞的“冻豆腐”。在此过程中，单位重量下的蛋白质浓度可浓缩约5倍，营养密度大幅提升，且能极好地吸收汤汁与调味料。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener el tofu fresco: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el tofu según las directrices oficiales de seguridad.",
+        "authority": "MFDS & USDA & Mayo Clinic",
+        "intro": "Al guardar el tofu sobrante, ¿acostumbraba verter el agua original del envase dentro de su contenedor de almacenamiento? 🧊\n\nEl agua del empaque del tofu contiene proteínas de soja y compuestos orgánicos disueltos, convirtiéndose en un medio de cultivo ideal para bacterias una vez abierto. Dejar el tofu en este líquido estancado o exponerlo al aire acelera la degradación de proteínas, produciendo mal olor agrio y superficie viscosa.\n\nEn esta guía se comparte una guía científica en 3 pasos basada en las normas de higiene de la Clínica Mayo y el MFDS para mantener su tofu firme, húmedo y seguro por más de una semana. 🛡️",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Nunca reutilice el agua del empaque original; cámbiela por agua fría limpia a diario 💧",
+            "desc": "El agua del paquete abierto alberga subproductos microbianos que arruinan el tofu en horas. Deseche siempre el agua original y reemplácela a diario con agua fría limpia para frenar el desarrollo bacteriano."
+          },
+          {
+            "title": "La congelación transforma la textura del tofu en una estructura esponjosa y porosa ❄️",
+            "desc": "Congelar tofu hace que el agua interna se expanda en cristales de hielo, dejando microagujeros al descongelarse que crean una textura esponjosa tipo panal. Aunque pierde su firmeza sedosa, el tofu congelado es ideal para absorber salsas en estofados."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Deseche el agua del empaque y enjuague bien bajo agua corriente — Bloquee microbios 🚿",
+            "text": "El líquido del paquete contiene proteínas disueltas muy propensas a la floración bacteriana. 💡 Consejo de almacenamiento: Elimine el agua del empaque y enjuague el tofu suavemente bajo agua fría corriente para quitar residuos de la superficie."
+          },
+          {
+            "name": "Sumerja por completo en agua limpia con una pizca de sal — Reafirme la estructura 🧂",
+            "text": "Al contacto con el oxígeno, el tofu sufre una rápida descomposición bacteriana en la superficie. 💡 Consejo de almacenamiento: Coloque el tofu en un recipiente hermético, cúbralo de agua fría limpia y añada media cucharadita de sal. La presión osmótica reafirma la proteína."
+          },
+          {
+            "name": "Cambie el agua por agua fría fresca todos los días — Refrigeración (7 días), Congelación (30 días) 💧",
+            "text": "Aun con sal, los compuestos orgánicos se disuelven lentamente en el agua con los días. 💡 Consejo de almacenamiento: Renueve el agua a diario con agua fría para mantener el tofu fresco en el refrigerador (0-4 °C) hasta por 7 días. Para largo plazo, córtelo en cubos y congele (-18 °C) por 30 días."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué no debo guardar el tofu sobrante seco en un recipiente hermético sin agua?",
+            "answer": "El tofu se compone de aproximadamente 85% de agua y proteínas de soja. Guardarlo seco permite que la humedad de la superficie se evapore mientras las bacterias del aire se alimentan de las proteínas expuestas. Esto crea una capa viscosa y pegajosa con olor agrio en solo 24 horas. Sumergirlo por completo en agua ligeramente salada es vital para aislarlo del oxígeno."
+          },
+          {
+            "question": "¿Cómo altera la congelación la textura y el perfil nutricional del tofu?",
+            "answer": "Al congelar el tofu, el agua interna se cristaliza y se expande, separando la red de proteínas de soja. Al descongelar y drenar el líquido, queda una estructura porosa similar a una esponja. Este proceso concentra el contenido de proteína hasta 5 veces por unidad de peso, haciendo que el tofu congelado sea más denso en nutrientes y perfecto para absorber caldos."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver le tofu frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le tofu selon les directives officielles de sécurité.",
+        "authority": "MFDS & USDA & Mayo Clinic",
+        "intro": "Pour conserver un reste de tofu, avez-vous pris l'habitude de verser l'eau d'origine du paquet dans votre boîte hermétique ? 🧊\n\nL'eau du sachet de tofu contient des protéines de soja et des composés organiques dissous, constituant un milieu de culture idéal pour les bactéries une fois l'emballage ouvert. Laisser le tofu dans ce liquide ou l'exposer à l'air accélère la dégradation des protéines, entraînant une odeur sûre et une surface visqueuse.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les normes d'hygiène de la Mayo Clinic et du MFDS pour garder votre tofu ferme, frais et sûr pendant plus d'une semaine. 🛡️",
+        "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne réutilisez jamais l'eau du paquet ; remplacez-la chaque jour par de l'eau froide propre 💧",
+            "desc": "L'eau du sachet ouvert contient des protéines et des bactéries qui altèrent le tofu en quelques heures. Jetez toujours l'eau d'origine et remplacez-la quotidiennement par de l'eau froide claire pour limiter la prolifération microbienne."
+          },
+          {
+            "title": "La congélation transforme la texture du tofu en une structure spongieuse et alvéolée ❄️",
+            "desc": "Congeler le tofu fait dilater l'eau interne sous forme de cristaux de glace. En dégelant, l'eau s'écoule et laisse une texture alvéolée comme une éponge. Bien qu'il perde son velouté, le tofu congelé absorbe merveilleusement les sauces et bouillons."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Jeter l'eau du paquet et rincer soigneusement sous l'eau courante — Bloquer les bactéries 🚿",
+            "text": "Le liquide d'emballage regorge de protéines dissoutes propices au développement bactérien. 💡 Astuce de conservation : Égouttez totalement l'eau du sachet et rincez délicatement le bloc de tofu sous l'eau froide pour éliminer les résidus en surface."
+          },
+          {
+            "name": "Immerger complètement dans de l'eau propre avec une pincée de sel — Raffermir la structure 🧂",
+            "text": "Exposé à l'air, le tofu subit une altération bactérienne rapide en surface. 💡 Astuce de conservation : Placez le tofu dans une boîte hermétique, couvrez d'eau froide propre et ajoutez une demi-cuillère à café de sel. La légère pression osmotique raffermit le tofu."
+          },
+          {
+            "name": "Changer l'eau froide tous les jours — Réfrigération (7 jours), Congélation (30 jours) 💧",
+            "text": "Même avec du sel, des composés organiques se dissolvent peu à peu dans l'eau. 💡 Astuce de conservation : Renouvelez l'eau chaque jour pour maintenir le tofu très frais au réfrigérateur (0–4 °C) jusqu'à 7 jours. Pour une plus longue conservation, coupez-le en dés et congelez (-18 °C) pendant 30 jours."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi ne faut-il pas conserver le tofu entamé à sec dans une boîte sans eau ?",
+            "answer": "Le tofu contient environ 85 % d'eau et des protéines de soja de haute qualité. Le conserver à sec laisse l'humidité de surface s'évaporer tandis que les bactéries de l'air prolifèrent sur les protéines mises à nu. Cela forme un film gluant et une odeur aigre en 24 heures. L'immerger entièrement dans une eau légèrement salée est indispensable pour couper l'accès à l'oxygène."
+          },
+          {
+            "question": "Comment la congélation modifie-t-elle la texture et les nutriments du tofu ?",
+            "answer": "Lors de la congélation, l'eau interne cristallise et s'écarte, écartant le réseau de protéines. Au dégel, l'eau s'écoule en laissant une structure spongieuse alvéolée. Ce procédé concentre la densité en protéines jusqu'à 5 fois par unité de poids, rendant le tofu congelé très nourrissant et idéal pour imbiber les sauces."
+          }
+        ]
+      },
+      "de": {
+        "title": "Tofu richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Tofu basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "MFDS & USDA & Mayo Clinic",
+        "intro": "Haben Sie beim Lagern von angebrochenem Tofu das Originalwasser aus der Packung in die Dose gegossen? 🧊\n\nDas Verpackungswasser von Tofu enthält gelöste Sojaeiweiße und organische Stoffe, die nach dem Öffnen ein idealer Nährboden für Bakterien sind. Belässt man den Tofu in dieser Flüssigkeit oder setzt ihn der Luft aus, zersetzt sich das Eiweiß rasch, was zu saurem Geruch und schleimiger Oberfläche führt.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Hygienestandards der Mayo Clinic und der MFDS basiert, um Ihren Tofu über eine Woche lang fest, saftig und frisch zu halten. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Verpackungswasser niemals wiederverwenden; täglich durch frisches Kaltwasser ersetzen 💧",
+            "desc": "Geöffnetes Packungswasser enthält Eiweißreste und Bakterien, die den Tofu in Stunden verderben. Gießen Sie das alte Wasser stets weg und füllen Sie täglich frisches, kaltes Leitungswasser nach."
+          },
+          {
+            "title": "Einfrieren verwandelt die Tofutextur in eine schwammartige Porenstruktur ❄️",
+            "desc": "Beim Einfrieren dehnt sich das enthaltene Wasser zu Eiskristallen aus, die nach dem Auftauen winzige Löcher hinterlassen (Gefriertofu). Die seidige Glätte geht verloren, aber der Tofu nimmt Soßen in Eintöpfen hervorragend auf."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Packungswasser wegwerfen und gründlich unter fließendem Wasser abspülen — Bakterien stoppen 🚿",
+            "text": "Das Wasser in der Tofupackung enthält gelöste Proteine und ist extrem anfällig für Keimwachstum. 💡 Lagerungstipp: Gießen Sie das Wasser weg und spülen Sie den Tofu sanft unter fließendem kaltem Wasser ab."
+          },
+          {
+            "name": "Vollständig in sauberes Wasser mit einer Prise Salz einlegen — Gewebe festigen 🧂",
+            "text": "Unter Sauerstoffeinfluss zersetzen aerobe Bakterien die Oberfläche von Tofu rasch. 💡 Lagerungstipp: Legen Sie den Tofu in eine Dose, bedecken Sie ihn vollständig mit kaltem Wasser und geben Sie einen halben Teelöffel Salz hinzu. Der osmotische Druck festigt die Sojaproteine."
+          },
+          {
+            "name": "Täglich frisches kaltes Wasser nachfüllen — Kühllagerung (7 Tage), Gefrierlagerung (30 Tage) 💧",
+            "text": "Auch mit Salz lösen sich mit der Zeit organische Stoffe im Wasser. 💡 Lagerungstipp: Erneuern Sie das Wasser täglich, um den Tofu im Kühlschrank (0–4 °C) bis zu 7 Tage frisch zu halten. Für Langzeitlagerung in Würfel schneiden und im Gefrierbeutel (-18 °C) bis zu 30 Tage einfrieren."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum sollte man angebrochenen Tofu nicht trocken ohne Wasser in einer Dose aufbewahren?",
+            "answer": "Tofu besteht zu etwa 85 % aus Wasser und Sojaeiweiß. Trocken gelagert verdunstet die Oberflächenfeuchtigkeit, während Bakterien aus der Luft das freiliegende Eiweiß zersetzen. Das führt innerhalb von 24 Stunden zu Schmiere und saurem Geruch. Das vollständige Untertauchen in leichtem Salzwasser schützt zuverlässig vor Sauerstoff."
+          },
+          {
+            "question": "Wie verändert das Einfrieren die Textur und die Nährstoffe von Tofu?",
+            "answer": "Beim Einfrieren dehnt sich das Wasser im Tofu aus und drückt die Eiweißnetzwerke auseinander. Beim Auftauen läuft das Wasser ab und hinterlässt eine schwammartige Porenstruktur. Dadurch konzentriert sich der Proteingehalt pro Gewichtseinheit um das bis zu 5-Fache, was Gefriertofu sehr nährstoffreich macht und Soßen ideal aufsaugen lässt."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar tofu fresco: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para tofu com base em diretrizes oficiais de segurança.",
+        "authority": "MFDS & USDA & Mayo Clinic",
+        "intro": "Ao guardar o tofu que sobrou, você costumava despejar a água original da embalagem no pote? 🧊\n\nA água da embalagem do tofu contém proteínas de soja e compostos orgânicos dissolvidos, tornando-se o meio ideal para proliferação de bactérias após a abertura. Deixar o tofu nesse líquido ou exposto ao ar acelera a degradação das proteínas, resultando em cheiro azedo e superfície viscosa.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em normas de higiene da Mayo Clinic e do MFDS para manter seu tofu firme, úmido e seguro por mais de uma semana. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca reutilize a água da embalagem original; troque por água fria limpa diariamente 💧",
+            "desc": "A água da embalagem aberta contém resíduos proteicos e bactérias que estragam o tofu em poucas horas. Descarte sempre a água original e substitua por água fria limpa diariamente para deter as bactérias."
+          },
+          {
+            "title": "O congelamento transforma a textura do tofu em uma estrutura esponjosa e porosa ❄️",
+            "desc": "Congelar o tofu faz a água interna expandir em cristais de gelo, deixando pequenos furos ao descongelar que criam uma textura parecida com fava de mel. Embora perca a maciez macia, o tofu congelado absorve caldos perfeitamente."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Descarte a água da embalagem e enxágue bem em água corrente — Bloqueie micróbios 🚿",
+            "text": "O líquido da embalagem contém proteínas dissolvidas propenso ao crescimento de bactérias. 💡 Dica de conservação: Jogue fora a água do pacote e enxágue o tofu suavemente em água fria corrente para tirar os resíduos."
+          },
+          {
+            "name": "Submerja totalmente em água limpa com uma pitada de sal — Firme a estrutura 🧂",
+            "text": "Em contato com o oxigênio, o tofu sofre rápida degradação bacteriana na superfície. 💡 Dica de conservação: Coloque o tofu em um pote hermético, cubra com água fria limpa e adicione meia colher de chá de sal. A pressão osmótica firma a proteína."
+          },
+          {
+            "name": "Troque a água por água fria limpa diariamente — Refrigeração (7 dias), Congelamento (30 dias) 💧",
+            "text": "Mesmo com sal, compostos orgânicos continuam saindo para a água com o passar dos dias. 💡 Dica de conservação: Troque a água diariamente para manter o tofu fresco na geladeira (0-4 °C) por até 7 dias. Para longo prazo, corte em cubos e congele (-18 °C) por 30 dias."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que não devo guardar o tofu que sobrou seco em um pote sem água?",
+            "answer": "O tofu é composto por cerca de 85% de água e proteína de soja de alta qualidade. Guardá-lo seco faz a umidade da superfície evaporar enquanto bactérias do ar se alimentam da proteína exposta. Isso forma uma camada viscosa e odor azedo em apenas 24 horas. Submergir totalmente em água levemente salgada é essencial para isolar o oxigênio."
+          },
+          {
+            "question": "Como o congelamento altera a textura e os nutrientes do tofu?",
+            "answer": "Ao congelar o tofu, a água interna cristaliza e se expande, afastando as redes de proteína de soja. Ao descongelar e drenar o líquido, sobra uma estrutura porosa semelhante a uma esponja. Esse processo concentra a densidade proteica em até 5 vezes por unidade de peso, tornando o tofu congelado altamente nutritivo e ótimo para absorver molhos."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Tahu agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk tahu berdasarkan pedoman keselamatan resmi.",
+        "authority": "MFDS & USDA & Mayo Clinic",
+        "intro": "Saat menyimpan sisa tahu, apakah Anda biasa menuangkan air kemasan aslinya ke dalam wadah penyimpanan? 🧊\n\nAir dalam kemasan tahu mengandung protein kedelai terlarut dan senyawa organik, menjadikannya media biak yang ideal bagi bakteri begitu dibuka. Membiarkan tahu dalam cairan ini atau membiarkannya terpapar udara mempercepat pembusukan protein, menghasilkan bau asam dan tekstur berlendir.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan standar higienitas Mayo Clinic dan MFDS untuk menjaga tahu sisa Anda tetap padat, lembap, dan aman selama lebih dari seminggu. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan pernah menggunakan kembali air kemasan asli; ganti dengan air dingin bersih setiap hari 💧",
+            "desc": "Air kemasan yang telah dibuka mengandung produk sampingan mikroba dan protein terlarut yang merusak tahu dalam beberapa jam. Selalu buang air asli secara total dan ganti air wadah dengan air dingin yang bersih setiap hari."
+          },
+          {
+            "title": "Pembekuan mengubah tekstur tahu menjadi struktur berpori seperti spons ❄️",
+            "desc": "Membekukan tahu membuat air di dalamnya memuai menjadi kristal es, meninggalkan lubang-lubang mikroskopis saat dicairkan sehingga teksturnya menjadi kenyal seperti spons. Meskipun kehilangan kelembutan lamanya, tahu beku sangat baik dalam menyerap kuah dan bumbu."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Buang air kemasan dan bilas hingga bersih di bawah air mengalir — Cegah Mikroba 🚿",
+            "text": "Cairan di dalam kemasan tahu kaya akan protein terlarut yang sangat memicu perkembangan bakteri. 💡 Tips Penyimpanan: Buang air kemasan secara total dan bilas tahu secara lembut di bawah air kran dingin untuk membersihkan sisa protein di permukaan."
+          },
+          {
+            "name": "Rendam seluruhnya dalam air bersih dengan sejumput garam — Perkokoh Struktur Tahu 🧂",
+            "text": "Saat terpapar oksigen, permukaan tahu mengalami pembusukan bakteri aerobik secara cepat. 💡 Tips Penyimpanan: Masukkan tahu ke wadah kedap udara, rendam seluruhnya dalam air dingin bersih, dan tambahkan setengah sendok teh garam. Tekanan osmotik ringan memperkokoh protein."
+          },
+          {
+            "name": "Ganti dengan air dingin baru setiap hari — Simpan Dingin (7 Hari), Beku (30 Hari) 💧",
+            "text": "Meskipun diberi garam, senyawa organik tetap terlarut ke dalam air secara perlahan seiring waktu. 💡 Tips Penyimpanan: Ganti air wadah dengan air kran dingin yang baru setiap hari untuk menjaga tahu tetap segar di kulkas (0–4°C) hingga 7 hari. Untuk jangka panjang, potong dadu dan bekukan (-18°C) selama 30 hari."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa saya tidak boleh menyimpan sisa tahu dalam kondisi kering tanpa air di wadah kedap udara?",
+            "answer": "Tahu terdiri dari sekitar 85% air dan protein kedelai berkualitas tinggi. Menyimpannya kering tanpa air membiarkan kelembapan permukaan menguap sementara bakteri udara dengan cepat mencerna protein yang terbuka. Ini menciptakan lapisan berlendir dan bau asam dalam 24 jam. Merendamnya seluruhnya dalam air bergaram ringan sangat penting untuk menghalangi oksigen."
+          },
+          {
+            "question": "Bagaimana pembekuan mengubah tekstur dan kandungan nutrisi pada tahu?",
+            "answer": "Membekukan tahu memaksa air di dalamnya mengkristal dan memuai, merenggangkan jaringan protein kedelai. Saat dicairkan dan airnya dibuang, tersisa struktur berpori seperti spons. Proses ini mengonsentrasikan kandungan protein hingga 5 kali lipat per unit berat, membuat tahu beku lebih padat nutrisi dan sangat cocok menyerap kuah masakan."
+          }
+        ]
+      }
     }
+  }
 }

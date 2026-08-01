@@ -1,406 +1,406 @@
 {
-    "how-to-store-lettuce": {
-        "ingId": "lettuce",
-        "pubDate": "2026-01-15",
-        "updatedDate": "2026-01-15",
-        "heroImage": "/images/blog/lettuce_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "상추 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 상추의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
-                "intro": "사 온 지 며칠 지나지도 않았는데 상추가 무르고 물러져 갈색으로 변하거나 진물처럼 변해 버린 경험 다들 있으시죠? 🥬\n\n상추는 수분 함량이 95% 이상으로 매우 높고 조직이 약해 온도 변화와 습도, 그리고 에틸렌 가스에 매우 민감한 대표적인 채소입니다. 보관을 잘못하면 수분이 빠져 시들거나, 반대로 밀폐 용기 내 수분이 고여 무름병이 발생하기 쉽습니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 상추 신선도 극대화 3단계 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "보관 전 물로 씻지 않거나 완벽히 건조하세요 💧",
-                        "desc": "수분이 잎 표면에 그대로 남아있으면 미생물 증식과 세균성 무름병(soft rot)의 원인이 됩니다. 씻지 않은 상태로 보관하는 것이 가장 좋으며, 씻어서 보관할 경우 야채 탈수기 등을 사용해 물기를 100% 제거해야 합니다."
-                    },
-                    {
-                        "title": "사과, 바나나 등 에틸렌 방출 과일과 격리하세요 🍎",
-                        "desc": "상추는 에틸렌 가스에 매우 민감하여 사과, 배, 바나나 등과 함께 보관하면 잎에 적반증(갈색 반점, Russet spotting)이 생기고 빠르게 시들어 상품성을 잃습니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "키친타월로 수분 조절하기 — 수분 불균형 방지 🧻",
-                        "text": "상추의 수분 손실을 막고 결로 현상으로 인한 무름을 방지하려면 적절한 습도 유지가 필수적입니다. 💡 보관 팁: 씻지 않은 상추를 키친타월로 감싸거나 보관 용기 바닥과 층 사이에 키친타월을 깔아주세요. 키친타월이 과도한 습기를 흡수하면서도 적정 습도를 유지해 줍니다."
-                    },
-                    {
-                        "name": "줄기(밑동)가 아래로 가도록 세워서 밀폐 보관하기 — 자생 자세 유지 📦",
-                        "text": "채소는 밭에서 자라던 자연스러운 자세를 유지할 때 수분과 영양소 손실이 최소화됩니다. 💡 보관 팁: 키친타월로 감싼 상추를 줄기 부분이 아래로 향하도록 세워서 밀폐 용기나 지퍼백에 담아주세요. 눌림 방지와 시듦 지연에 매우 효과적입니다."
-                    },
-                    {
-                        "name": "0~4℃ 저온 냉장 보관하기 — 냉장 보관 (7~14일) ❄️",
-                        "text": "상추는 높은 온도에서 호흡량이 급증해 빠르게 시들고, 영하에서는 동해(냉해)를 입어 세포벽이 무너집니다. 💡 보관 팁: 0~4℃의 냉장고 야채칸(신선실)에 보관하세요. 온도가 일정하게 유지되고 얼지 않는 적정 저온 환경에서 최대 2주까지 아삭함을 유지할 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "시든 상추를 다시 아삭하게 되살리는 방법이 있나요?",
-                        "answer": "50℃ 따뜻한 물에 상추를 1~2분간 담그는 '50℃ 세척법'이나, 얼음물에 식초 한 두 방울 또는 설탕을 넣고 10~15분간 담가두면 삼투압 작용과 열 shock 효과로 수분이 급격히 재흡수되어 아삭함이 되살아납니다."
-                    },
-                    {
-                        "question": "상추를 냉동 보관해도 되나요?",
-                        "answer": "상추는 수분 함량이 95% 이상으로 매우 높아 냉동 시 얼음 결정이 세포벽을 파괴합니다. 해동하면 물러져 샐러드나 쌈용으로 사용할 수 없으므로 반드시 0~4℃ 냉장 보관해야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Lettuce Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for lettuce based on official safety guidelines.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Have you ever brought home fresh lettuce only to find it slimy, wilted, or browned after just a few days? 🥬\n\nWith a water content exceeding 95% and a delicate cellular structure, lettuce is extremely sensitive to temperature changes, moisture imbalance, and ethylene gas. Improper storage quickly causes dehydration and wilting, or conversely, bacterial decay from trapped condensation.\n\nIn this guide, introduces a scientifically proven 3-step lettuce storage guide recommended by agriculture and food safety experts to maximize crispness and shelf life. 🛡️",
-                "whyTitle": "Why Store Lettuce This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Do not wash before storing (or dry 100% thoroughly) 💧",
-                        "desc": "Residual surface water encourages bacterial proliferation and soft rot. Storing lettuce unwashed is ideal; if you must wash it beforehand, use a salad spinner to remove every drop of water."
-                    },
-                    {
-                        "title": "Isolate from ethylene-producing fruits like apples and bananas 🍎",
-                        "desc": "Lettuce is hyper-sensitive to ethylene gas. Storing it near apples, pears, or bananas causes russet spotting (brown spots) and rapid wilting, ruining its texture and appearance."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Regulate moisture with paper towels — Prevent Moisture Imbalance 🧻",
-                        "text": "Maintaining correct humidity without free water is key to preventing both dehydration and bacterial rot. 💡 Storage Tip: Wrap dry, unwashed lettuce in paper towels or place sheets between layers in your container. The paper towels absorb excess condensation while retaining sufficient humidity."
-                    },
-                    {
-                        "name": "Store upright with stem facing down — Maintain Natural Growth Posture 📦",
-                        "text": "Vegetables lose water and nutrients much slower when stored in their natural upright growth orientation. 💡 Storage Tip: Place paper-towel-wrapped lettuce stem-side down inside an airtight container or Ziploc bag. This prevents crushing and significantly delays wilting."
-                    },
-                    {
-                        "name": "Refrigerate at 0–4°C — Cold Storage (7–14 Days) ❄️",
-                        "text": "Higher temperatures spike lettuce respiration rate, causing rapid decay, while sub-zero temperatures cause chilling injury that destroys cell walls. 💡 Storage Tip: Keep it in the crisper drawer at 0–4°C (32–39°F). Stable, frost-free cold storage keeps lettuce crisp for up to two weeks."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Is there a way to revive wilted lettuce back to crispness?",
-                        "answer": "Submerging wilted lettuce in 50°C (122°F) warm water for 1–2 minutes (the 50°C wash method), or soaking it in ice water with a few drops of vinegar or sugar for 10–15 minutes triggers osmotic absorption and thermal shock, rapidly restoring crispness."
-                    },
-                    {
-                        "question": "Can I freeze lettuce for long-term storage?",
-                        "answer": "No. Because lettuce is over 95% water, freezing causes ice crystals to rupture its delicate cell walls. Upon thawing, it turns mushy and unusable for salads or wraps. Always store lettuce refrigerated at 0–4°C."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "レタスを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくレタスの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "買ってきたレタスが数日経つと、葉がしなびたり変色（褐変）したり、ドロドロに傷んでしまった経験はありませんか？🥬\n\nレタスは水分含有量が95%以上と非常に高く、組織が繊細なため、温度変化や湿度、エチレンガスに極めて敏感な野菜です。保存方法を誤ると、乾燥してしおれるだけでなく、閉じ込められた結露によって傷みやすくなります。\n\n本記事では、農学および食品安全の専門家が推奨する、レタスのシャキシャキ感と鮮度を最大化する3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "保存前に洗わない（洗う場合は水気を完全に取り除く） 💧",
-                        "desc": "葉の表面に水分が残っていると、雑菌の繁殖や腐敗（軟腐病）の原因になります。洗わずに保存するのが最も望ましく、洗って保存する場合はサラダスピナーなどで水分を100%取り除いてください。"
-                    },
-                    {
-                        "title": "リンゴやバナナなどエチレンを出す果物と隔離する 🍎",
-                        "desc": "レタスはエチレンガスに非常に敏感で、リンゴや洋梨、バナナなどと一緒に保存すると、葉に赤斑病（褐色の斑点）が発生し、急速にしおれて品質が著しく低下します。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "キッチンペーパーで水分調整する — 水分バランスの維持 🧻",
-                        "text": "レタスの水分蒸発を防ぎつつ、結露による傷みを防ぐには適切な湿度管理が欠かせません。💡保存のコツ：洗っていないレタスをキッチンペーパーで包むか、保存容器の底や層の間に敷いてください。キッチンペーパーが余分な湿気を吸収しつつ、適切な湿度を保ちます。"
-                    },
-                    {
-                        "name": "芯（軸）を下にして立てて密閉保存する — 生育姿勢の維持 📦",
-                        "text": "野菜は畑で育っていた自然な姿勢（立てた状態）を維持することで、水分や栄養素の損失を最小限に抑えられます。💡保存のコツ：キッチンペーパーで包んだレタスを芯を下にして立て、密閉容器やジッパーバッグに入れてください。潰れ防止やしおれ遅延に極めて効果的です。"
-                    },
-                    {
-                        "name": "0〜4℃の低温で冷蔵保存する — 冷蔵保存 (7〜14日間) ❄️",
-                        "text": "レタスは高温下で呼吸量が急増して急速にしおれ、氷点下では低温障害（凍結）を起こして細胞が破壊されます。💡保存のコツ：0〜4℃の冷蔵庫野菜室（鮮度保持室）で保存してください。凍結しない安定した低温環境により、最大2週間シャキシャキ感を維持できます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "しおれたレタスを再びシャキシャキに復活させる方法はありますか？",
-                        "answer": "50℃のぬるま湯にレタスを1〜2分間浸す「50℃洗い」や、氷水に酢を数滴または砂糖を加えて10〜15分間浸すと、浸透圧作用とヒートショック効果により水分が急速に再吸収され、シャキシャキ感が復活します。"
-                    },
-                    {
-                        "question": "レタスを冷凍保存してもいいですか？",
-                        "answer": "レタスは95%以上が水分のため、冷凍すると氷の結晶が細胞壁を破壊してしまいます。解凍すると水っぽくベチャベチャになり、サラダや生食には使えなくなるため、必ず0〜4℃で冷蔵保存してください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持生菜新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解生菜的最佳储存温度、方式和保鲜时长。",
-                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "您是否遇到过刚买回家的生菜没过几天就发黄萎蔫、变软甚至腐烂变黑的情况？🥬\n\n生菜含水量高达95%以上，叶片组织娇嫩，对温度变化、湿度以及乙烯气体极其敏感。储存不当极易导致水分流失而萎蔫，或者因内部积水而滋生细菌发生腐烂。\n\n本指南将为您介绍由农业及食品安全专家推荐的3步科学生菜保鲜秘诀，帮您最大程度保持生菜的爽脆口感与新鲜度。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "储存前切勿清洗（若清洗必须彻底甩干水分） 💧",
-                        "desc": "叶片表面残留水分是细菌滋生和引发软腐病的主要原因。不洗直接储存是最佳选择；若需洗净后储存，请务必使用蔬菜甩干机彻底去除每一滴水。"
-                    },
-                    {
-                        "title": "请与苹果、香蕉等释放乙烯的水果隔离 🍎",
-                        "desc": "生菜对乙烯气体高度敏感。若与苹果、梨或香蕉等混放，生菜叶片会出现红斑（褐色斑点，Russet spotting）并加速萎蔫，失去食用品质。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "用厨房纸巾调节湿度 — 防止湿度失衡 🧻",
-                        "text": "既要防止生菜水分蒸发，又要避免水汽凝结导致烂叶，保持适宜湿度是关键。💡储存小贴士：用厨房纸巾将未清洗的生菜包裹起来，或在保鲜盒底部及层间铺上纸巾。纸巾能吸收多余水汽，同时维持生菜所需的适度湿润。"
-                    },
-                    {
-                        "name": "根部朝下竖直密闭保存 — 保持自然生长姿态 📦",
-                        "text": "蔬菜在保持其在田间自然的生长姿态（竖放）时，水分和营养成分的消耗速度最慢。💡储存小贴士：将用纸巾包裹好的生菜根部朝下竖直放入密封盒或拉链袋中。这能有效防止压伤并极大延缓萎蔫。"
-                    },
-                    {
-                        "name": "0~4℃ 低温冷藏保存 — 冷藏储存 (7~14天) ❄️",
-                        "text": "温度过高会导致生菜呼吸作用剧烈而加速枯萎，而低于0℃则会造成冻伤破坏细胞结构。💡储存小贴士：请存放在0~4℃的冰箱蔬菜保鲜抽屉中。在不结霜的稳定低温环境下，生菜可保持爽脆长达两周。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "萎蔫的生菜有什么方法可以恢复爽脆吗？",
-                        "answer": "将萎蔫生菜放入50℃温水中浸泡1~2分钟（50℃清洗法），或浸泡在加有几滴醋或少许白糖的冰水中10~15分钟，利用渗透压和热休克效应刺激生菜细胞快速吸水，即可恢复爽脆口感。"
-                    },
-                    {
-                        "question": "生菜可以冷冻保存吗？",
-                        "answer": "不可以。生菜含水量高达95%以上，冷冻时形成的冰晶会破坏其脆弱的细胞壁。解冻后会变得粘软水肿，无法再用于沙拉或包肉生食，因此必须在0~4℃下冷藏保存。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener la lechuga fresca: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la lechuga según las directrices oficiales de seguridad.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "¿Alguna vez compró lechuga fresca solo para descubrir que en pocos días las hojas se marchitaban, se ponían marrones o se volvían viscosas? 🥬\n\nCon un contenido de agua superior al 95% y una estructura celular delicada, la lechuga es extremadamente sensible a las variaciones de temperatura, al desequilibrio de humedad y al gas etileno. Un almacenamiento inadecuado provoca deshidratación rápida o, por el contrario, pudrición bacteriana por condensación atrapada.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria para maximizar su frescura y textura crujiente. 🛡️",
-                "whyTitle": "¿Por qué almacenarla así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "No lave la lechuga antes de guardarla (o séquela al 100%) 💧",
-                        "desc": "El agua residual en las hojas favorece la proliferación bacteriana y la pudrición blanda. Guardarla sin lavar es ideal; si prefiere lavarla antes, use un centrifugador de ensaladas para eliminar hasta la última gota."
-                    },
-                    {
-                        "title": "Aíslela de frutas que emiten etileno como manzanas y plátanos 🍎",
-                        "desc": "La lechuga es hipersensible al etileno. Almacenarla cerca de manzanas, peras o plátanos provoca punteado pardo (manchas marrones) y un marchitamiento acelerado."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Regule la humedad con papel de cocina — Control de condensación 🧻",
-                        "text": "Mantener la humedad adecuada sin acumular agua libre es clave para prevenir el marchitamiento y la pudrición. 💡 Consejo de almacenamiento: Envuelva la lechuga seca y sin lavar con papel de cocina o coloque hojas entre capas en su contenedor. El papel absorbe el exceso de condensación manteniendo la humedad óptima."
-                    },
-                    {
-                        "name": "Guarde de pie con el tallo hacia abajo — Mantenga la posición de crecimiento natural 📦",
-                        "text": "Las hortalizas pierden agua y nutrientes mucho más despacio cuando conservan su orientación vertical de crecimiento. 💡 Consejo de almacenamiento: Coloque la lechuga envuelta en papel con el tallo hacia abajo dentro de un recipiente hermético o bolsa Ziploc. Esto evita aplastamientos y frena el marchitamiento."
-                    },
-                    {
-                        "name": "Conserve a baja temperatura (0 a 4 °C) — Almacenamiento refrigerado (7 a 14 días) ❄️",
-                        "text": "Las altas temperaturas aceleran la respiración de la lechuga causando su deterioro, mientras que las temperaturas bajo cero provocan daños por congelación. 💡 Consejo de almacenamiento: Guarde la lechuga en el cajón de verduras a 0-4 °C. Un ambiente frío y constante la mantendrá crujiente hasta por dos semanas."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Hay algún truco para devolverle la textura crujiente a la lechuga marchita?",
-                        "answer": "Sumergir la lechuga marchita en agua tibia a 50 °C durante 1 o 2 minutos (método del lavado a 50 °C), o dejarla en agua con hielo con unas gotas de vinagre o azúcar durante 10-15 minutos activa la reabsorción osmótica y el choque térmico, devolviéndole su textura crujiente."
-                    },
-                    {
-                        "question": "¿Se puede congelar la lechuga para conservarla por más tiempo?",
-                        "answer": "No. Debido a que la lechuga es más de un 95% agua, la congelación forma cristales de hielo que rompen sus paredes celulares. Al descongelarse queda blanda y viscosa, inservible para ensaladas. Debe mantenerse siempre refrigerada a 0-4 °C."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver la laitue fraîche : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la laitue selon les directives officielles de sécurité.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Avez-vous déjà acheté de la laitue bien fraîche pour constater quelques jours plus tard que ses feuilles étaient flétries, brunies ou devenues visqueuses ? 🥬\n\nAvec une teneur en eau supérieure à 95 % et une structure cellulaire très fragile, la laitue est extrêmement sensible aux variations de température, à l'excès d'humidité et au gaz éthylène. Un stockage inadéquat entraîne une déshydratation rapide ou, à l'inverse, un pourrissement bactérien dû à la condensation.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts pour préserver tout le croquant de votre laitue. 🛡️",
-                "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne lavez pas la laitue avant de la stocker (ou séchez-la à 100 %) 💧",
-                        "desc": "L'eau résiduelle sur les feuilles favorise la prolifération bactérienne et la pourriture molle. Il est préférable de la conserver non lavée ; si vous la lavez, utilisez une essoreuse à salade pour éliminer chaque goutte d'eau."
-                    },
-                    {
-                        "title": "Isolez-la des fruits émetteurs d'éthylène comme les pommes et bananes 🍎",
-                        "desc": "La laitue est très sensible au gaz éthylène. La placer près de pommes, poires ou bananes provoque des taches brunes (taches de rousseur) et accélère son flétrissement."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Régulez l'humidité avec du papier essuie-tout — Prévenir le déséquilibre hydrique 🧻",
-                        "text": "Maintenir un niveau d'humidité adéquat sans eau stagnante est essentiel pour éviter le flétrissement et la pourriture. 💡 Astuce de conservation : Enveloppez la laitue sèche et non lavée dans du papier essuie-tout ou déposez des feuilles entre les couches dans votre boîte. L'essuie-tout absorbe l'excès de condensation."
-                    },
-                    {
-                        "name": "Conserver debout, trognon vers le bas — Respecter la croissance naturelle 📦",
-                        "text": "Les légumes perdent leur eau et leurs nutriments beaucoup plus lentement lorsqu'ils sont conservés dans leur position de pousse verticale. 💡 Astuce de conservation : Placez la laitue enveloppée dans une boîte hermétique ou un sac congélation, le trognon vers le bas. Cela évite l'écrasement et ralentit le flétrissement."
-                    },
-                    {
-                        "name": "Conserver à basse température (0 à 4 °C) — Stockage réfrigéré (7 à 14 jours) ❄️",
-                        "text": "Une température trop élevée accélère la respiration de la laitue et sa détérioration, tandis qu'une température négative provoque des lésions dues au gel. 💡 Astuce de conservation : Placez-la dans le bac à légumes du réfrigérateur (0–4 °C) pour la garder croquante jusqu'à 2 semaines."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Existe-t-il une astuce pour redonner du croquant à une laitue flétrie ?",
-                        "answer": "Plonger la laitue flétrie pendant 1 à 2 minutes dans de l'eau chaude à 50 °C (méthode du lavage à 50 °C) ou la faire tremper dans de l'eau glacée avec quelques gouttes de vinaigre ou un peu de sucre pendant 10 à 15 minutes réactive l'absorption osmotique et lui rend son croquant."
-                    },
-                    {
-                        "question": "Peut-on congeler de la laitue ?",
-                        "answer": "Non. La laitue étant composée à plus de 95 % d'eau, la congélation forme des cristaux de glace qui font éclater ses parois cellulaires. À la décongélation, elle devient molle et visqueuse, inutilisable en salade. Elle doit toujours être conservée au réfrigérateur entre 0 et 4 °C."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Kopfsalat richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Salat basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Haben Sie frischen Kopfsalat gekauft, nur um festzustellen, dass die Blätter nach wenigen Tagen welk, braun oder matschig wurden? 🥬\n\nMit einem Wassergehalt von über 95 % und einer sehr empfindlichen Zellstruktur reagiert Salat extrem sensibel auf Temperaturschwankungen, Feuchtigkeitsungleichgewichte und Ethylengas. Falsche Lagerung führt rasch zu Austrocknung oder durch Kondenswasser zu bakterieller Fäulnis.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Knackigkeit und Frische Ihres Salats maximal zu verlängern. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Salat vor der Lagerung nicht waschen (oder 100 % trocken schleudern) 💧",
-                        "desc": "Feuchtigkeit auf den Blättern fördert das Bakterienwachstum und Weichfäule. Ungewaschene Lagerung ist ideal; falls Sie ihn waschen, nutzen Sie eine Salatkarussell, um jeden Tropfen Wasser zu entfernen."
-                    },
-                    {
-                        "title": "Von ethylenabgebendem Obst wie Äpfeln und Bananen trennen 🍎",
-                        "desc": "Salat ist extrem empfindlich gegenüber Ethylengas. Die Lagerung neben Äpfeln, Birnen oder Bananen führt zu braunen Flecken (Rostflecken) und beschleunigtem Welken."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Feuchtigkeit mit Küchenpapier regulieren — Feuchtigkeitsbalance 🧻",
-                        "text": "Um Austrocknung und Fäulnis zu vermeiden, ist die richtige Feuchtigkeitsregulierung entscheidend. 💡 Lagerungstipp: Wickeln Sie den ungewaschenen Salat in Küchenpapier ein oder legen Sie Papier zwischen die Schichten im Behälter. Das Küchenpapier nimmt überschüssiges Kondenswasser auf."
-                    },
-                    {
-                        "name": "Aufrecht mit dem Strunk nach unten lagern — Natürliche Wuchsrichtung 📦",
-                        "text": "Gemüse verliert Wasser und Nährstoffe viel langsamer, wenn es in seiner natürlichen vertikalen Wuchsrichtung gelagert wird. 💡 Lagerungstipp: Stellen Sie den in Küchenpapier gewickelten Salat mit dem Strunk nach unten in eine luftdichte Dose oder einen Ziploc-Beutel."
-                    },
-                    {
-                        "name": "Bei 0–4 °C im Kühlschrank lagern — Kühllagerung (7–14 Tage) ❄️",
-                        "text": "Höhere Temperaturen steigern die Atmungsrate des Salats und beschleunigen den Verderb, während Temperaturen unter 0 °C Frostschäden verursachen. 💡 Lagerungstipp: Bewahren Sie ihn im Gemüsefach bei 0–4 °C auf, um ihn bis zu 2 Wochen knackig zu halten."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Kann man welken Salat wieder knackig machen?",
-                        "answer": "Legt man welken Salat für 1–2 Minuten in 50 °C warmes Wasser (50-°C-Waschmethode) oder weicht ihn 10–15 Minuten in Eiswasser mit einigen Tropfen Essig oder etwas Zucker ein, führen Osmose und Hitzeschock zu einer schnellen Wasseraufnahme, die die Knackigkeit zurückbringt."
-                    },
-                    {
-                        "question": "Kann man Salat einfrieren?",
-                        "answer": "Nein. Da Salat zu über 95 % aus Wasser besteht, zerstören Eiskristalle beim Einfrieren die Zellwände. Nach dem Auftauen wird er matschig und ungenießbar. Salat muss immer bei 0–4 °C gekühlt gelagert werden."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar alface fresca: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para a alface com base em diretrizes oficiais de segurança.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Você já comprou alface bem fresca e percebeu que em poucos dias as folhas murcharam, ficaram escuras ou viscosas? 🥬\n\nCom mais de 95% de água e uma estrutura celular delicada, a alface é extremamente sensível a variações de temperatura, excesso de umidade e ao gás etileno. O armazenamento inadequado causa desidratação rápida ou podridão bacteriana por condensação acumulada.\n\nNeste guia, apresentamos um guia prático em 3 etapas recomendado por especialistas para maximizar a crocância e a durabilidade da sua alface. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Compreender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Não lave a alface antes de guardar (ou seque 100%) 💧",
-                        "desc": "A água acumulada nas folhas estimula a proliferação de bactérias e a podridão mole. Guardar sem lavar é o ideal; se preferir lavar, use uma centrifugadora de salada para secar completamente."
-                    },
-                    {
-                        "title": "Isole de frutas que emitem etileno, como maçãs e bananas 🍎",
-                        "desc": "A alface é muito sensível ao gás etileno. Guardá-la perto de maçãs, peras ou bananas provoca manchas marrons e acelera o murchamento das folhas."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Regule a umidade com papel-toalha — Controle de condensação 🧻",
-                        "text": "Manter a umidade adequada sem acúmulo de água é fundamental para evitar que murgue ou apodreça. 💡 Dica de conservação: Envolva a alface seca e sem lavar em folhas de papel-toalha ou coloque camadas entre as folhas no pote. O papel absorve o excesso de umidade."
-                    },
-                    {
-                        "name": "Guarde em pé com o talo para baixo — Posição natural de crescimento 📦",
-                        "text": "Os vegetais perdem água e nutrientes em ritmo muito mais lento quando mantidos na vertical, sua posição natural no campo. 💡 Dica de conservação: Coloque a alface envolvida em papel com o talo para baixo dentro de um pote hermético ou saco Ziploc. Isso previne o esmagamento e retarda o murchamento."
-                    },
-                    {
-                        "name": "Armazenar a baixa temperatura (0 a 4 °C) — Refrigeração (7 a 14 dias) ❄️",
-                        "text": "Temperaturas elevadas aumentam a respiração da alface e aceleram a deterioração, enquanto temperaturas abaixo de zero causam queimaduras de frio. 💡 Dica de conservação: Mantenha na gaveta de legumes a 0–4 °C para preservar a crocância por até duas semanas."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Existe algum truco para recuperar a alface murcha?",
-                        "answer": "Mergulhar a alface murcha em água morna a 50 °C por 1 a 2 minutos (método de lavagem a 50 °C), ou deixá-la em água com gelo com algumas gotas de vinagre ou açúcar por 10 a 15 minutos ativa a reabsorção osmótica e o choque térmico, devolvendo a crocância."
-                    },
-                    {
-                        "question": "Posso congelar a alface para conservar por mais tempo?",
-                        "answer": "Não. Por conter mais de 95% de água, o congelamento forma cristais de gelo que rompem as paredes celulares. Ao descongelar, a alface fica viscosa e imprópria para saladas. Mantenha sempre sob refrigeração de 0 a 4 °C."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Selada agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk selada berdasarkan pedoman keselamatan resmi.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Pernahkah Anda membeli selada segar tetapi dalam beberapa hari daunnya menjadi layu, kecokelatan, atau lembek berlendir? 🥬\n\nDengan kadar air melebihi 95% dan struktur sel yang rapuh, selada sangat sensitif terhadap perubahan suhu, ketidakseimbangan kelembapan, dan gas etilen. Penyimpanan yang salah menyebabkan dehidrasi cepat atau pembusukan akibat embun yang terperangkap.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli pertanian dan keamanan pangan untuk memaksimalkan kesegaran dan kerenyahan selada Anda. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan mencuci selada sebelum disimpan (atau keringkan 100%) 💧",
-                        "desc": "Sisa air pada permukaan daun memicu perkembangbiakan bakteri dan pembusukan. Menyimpan selada tanpa dicuci adalah opsi terbaik; jika ingin dicuci dulu, gunakan pengering sayur (salad spinner) hingga benar-benar kering."
-                    },
-                    {
-                        "title": "Pisahkan dari buah penghasil etilen seperti apel dan pisang 🍎",
-                        "desc": "Selada sangat sensitif terhadap gas etilen. Menyimpannya di dekat apel, pir, atau pisang menyebabkan timbulnya bintik-bintik cokelat (russet spotting) dan membuat daun cepat layu."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Atur kelembapan dengan tisu dapur — Cegah Kelembapan Berlebih 🧻",
-                        "text": "Menjaga kelembapan yang pas tanpa adanya genangan air adalah kunci mencegah selada layu dan membusuk. 💡 Tips Penyimpanan: Bungkus selada kering yang belum dicuci dengan tisu dapur atau lapisi wadah dengan tisu. Tisu dapur akan menyerap kelebihan embun sekaligus menjaga kelembapan yang ideal."
-                    },
-                    {
-                        "name": "Simpan berdiri dengan batang di bawah — Jaga Posisi Tumbuh Alami 📦",
-                        "text": "Sayuran kehilangan air dan nutrisi jauh lebih lambat jika disimpan sesuai posisi tumbuh alaminya (tegar/berdiri). 💡 Tips Penyimpanan: Masukkan selada yang sudah dibungkus tisu ke dalam wadah kedap udara atau kantong Ziploc dengan posisi batang di bawah."
-                    },
-                    {
-                        "name": "Simpan pada suhu rendah 0–4°C — Penyimpanan Dingin (7–14 Hari) ❄️",
-                        "text": "Suhu tinggi meningkatkan laju respirasi selada sehingga cepat membusuk, sedangkan suhu di bawah 0°C menyebabkan kerusakan akibat pembekuan. 💡 Tips Penyimpanan: Simpan di laci sayur kulkas pada suhu 0–4°C untuk menjaga kerenyahannya hingga 2 minggu."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apakah ada cara untuk menyegarkan kembali selada yang sudah layu?",
-                        "answer": "Merendam selada layu dalam air hangat suhu 50°C selama 1–2 menit (metode cuci 50°C), atau merendamnya dalam air es yang diberi sedikit cuka atau gula selama 10–15 menit akan memicu penyerapan osmotik dan kejutan termal, mengembalikan kerenyahannya dengan cepat."
-                    },
-                    {
-                        "question": "Apakah selada bisa dibekukan di freezer?",
-                        "answer": "Tidak bisa. Karena kandungan air selada mencapai lebih dari 95%, pembekuan akan membentuk kristal es yang merusak dinding sel. Saat dicairkan, selada akan menjadi lembek dan tidak bisa digunakan untuk salad. Selalu simpan di kulkas pada suhu 0–4°C."
-                    }
-                ]
-            }
-        }
+  "how-to-store-lettuce": {
+    "ingId": "lettuce",
+    "pubDate": "2026-01-15",
+    "updatedDate": "2026-01-15",
+    "heroImage": "/images/blog/lettuce_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "상추 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 상추의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+        "intro": "사 온 지 며칠 지나지도 않았는데 상추가 무르고 물러져 갈색으로 변하거나 진물처럼 변해 버린 경험 다들 있으시죠? 🥬\n\n상추는 수분 함량이 95% 이상으로 매우 높고 조직이 약해 온도 변화와 습도, 그리고 에틸렌 가스에 매우 민감한 대표적인 채소입니다. 보관을 잘못하면 수분이 빠져 시들거나, 반대로 밀폐 용기 내 수분이 고여 무름병이 발생하기 쉽습니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 상추 신선도 극대화 3단계 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "보관 전 물로 씻지 않거나 완벽히 건조하세요 💧",
+            "desc": "수분이 잎 표면에 그대로 남아있으면 미생물 증식과 세균성 무름병(soft rot)의 원인이 됩니다. 씻지 않은 상태로 보관하는 것이 가장 좋으며, 씻어서 보관할 경우 야채 탈수기 등을 사용해 물기를 100% 제거해야 합니다."
+          },
+          {
+            "title": "사과, 바나나 등 에틸렌 방출 과일과 격리하세요 🍎",
+            "desc": "상추는 에틸렌 가스에 매우 민감하여 사과, 배, 바나나 등과 함께 보관하면 잎에 적반증(갈색 반점, Russet spotting)이 생기고 빠르게 시들어 상품성을 잃습니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "키친타월로 수분 조절하기 — 수분 불균형 방지 🧻",
+            "text": "상추의 수분 손실을 막고 결로 현상으로 인한 무름을 방지하려면 적절한 습도 유지가 필수적입니다. 💡 보관 팁: 씻지 않은 상추를 키친타월로 감싸거나 보관 용기 바닥과 층 사이에 키친타월을 깔아주세요. 키친타월이 과도한 습기를 흡수하면서도 적정 습도를 유지해 줍니다."
+          },
+          {
+            "name": "줄기(밑동)가 아래로 가도록 세워서 밀폐 보관하기 — 자생 자세 유지 📦",
+            "text": "채소는 밭에서 자라던 자연스러운 자세를 유지할 때 수분과 영양소 손실이 최소화됩니다. 💡 보관 팁: 키친타월로 감싼 상추를 줄기 부분이 아래로 향하도록 세워서 밀폐 용기나 지퍼백에 담아주세요. 눌림 방지와 시듦 지연에 매우 효과적입니다."
+          },
+          {
+            "name": "0~4℃ 저온 냉장 보관하기 — 냉장 보관 (7~14일) ❄️",
+            "text": "상추는 높은 온도에서 호흡량이 급증해 빠르게 시들고, 영하에서는 동해(냉해)를 입어 세포벽이 무너집니다. 💡 보관 팁: 0~4℃의 냉장고 야채칸(신선실)에 보관하세요. 온도가 일정하게 유지되고 얼지 않는 적정 저온 환경에서 최대 2주까지 아삭함을 유지할 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "시든 상추를 다시 아삭하게 되살리는 방법이 있나요?",
+            "answer": "50℃ 따뜻한 물에 상추를 1~2분간 담그는 '50℃ 세척법'이나, 얼음물에 식초 한 두 방울 또는 설탕을 넣고 10~15분간 담가두면 삼투압 작용과 열 shock 효과로 수분이 급격히 재흡수되어 아삭함이 되살아납니다."
+          },
+          {
+            "question": "상추를 냉동 보관해도 되나요?",
+            "answer": "상추는 수분 함량이 95% 이상으로 매우 높아 냉동 시 얼음 결정이 세포벽을 파괴합니다. 해동하면 물러져 샐러드나 쌈용으로 사용할 수 없으므로 반드시 0~4℃ 냉장 보관해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Lettuce Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for lettuce based on official safety guidelines.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Have you ever brought home fresh lettuce only to find it slimy, wilted, or browned after just a few days? 🥬\n\nWith a water content exceeding 95% and a delicate cellular structure, lettuce is extremely sensitive to temperature changes, moisture imbalance, and ethylene gas. Improper storage quickly causes dehydration and wilting, or conversely, bacterial decay from trapped condensation.\n\nIn this guide, introduces a scientifically proven 3-step lettuce storage guide recommended by agriculture and food safety experts to maximize crispness and shelf life. 🛡️",
+        "whyTitle": "Why Store Lettuce This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Do not wash before storing (or dry 100% thoroughly) 💧",
+            "desc": "Residual surface water encourages bacterial proliferation and soft rot. Storing lettuce unwashed is ideal; if you must wash it beforehand, use a salad spinner to remove every drop of water."
+          },
+          {
+            "title": "Isolate from ethylene-producing fruits like apples and bananas 🍎",
+            "desc": "Lettuce is hyper-sensitive to ethylene gas. Storing it near apples, pears, or bananas causes russet spotting (brown spots) and rapid wilting, ruining its texture and appearance."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Regulate moisture with paper towels — Prevent Moisture Imbalance 🧻",
+            "text": "Maintaining correct humidity without free water is key to preventing both dehydration and bacterial rot. 💡 Storage Tip: Wrap dry, unwashed lettuce in paper towels or place sheets between layers in your container. The paper towels absorb excess condensation while retaining sufficient humidity."
+          },
+          {
+            "name": "Store upright with stem facing down — Maintain Natural Growth Posture 📦",
+            "text": "Vegetables lose water and nutrients much slower when stored in their natural upright growth orientation. 💡 Storage Tip: Place paper-towel-wrapped lettuce stem-side down inside an airtight container or Ziploc bag. This prevents crushing and significantly delays wilting."
+          },
+          {
+            "name": "Refrigerate at 0–4°C — Cold Storage (7–14 Days) ❄️",
+            "text": "Higher temperatures spike lettuce respiration rate, causing rapid decay, while sub-zero temperatures cause chilling injury that destroys cell walls. 💡 Storage Tip: Keep it in the crisper drawer at 0–4°C (32–39°F). Stable, frost-free cold storage keeps lettuce crisp for up to two weeks."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Is there a way to revive wilted lettuce back to crispness?",
+            "answer": "Submerging wilted lettuce in 50°C (122°F) warm water for 1–2 minutes (the 50°C wash method), or soaking it in ice water with a few drops of vinegar or sugar for 10–15 minutes triggers osmotic absorption and thermal shock, rapidly restoring crispness."
+          },
+          {
+            "question": "Can I freeze lettuce for long-term storage?",
+            "answer": "No. Because lettuce is over 95% water, freezing causes ice crystals to rupture its delicate cell walls. Upon thawing, it turns mushy and unusable for salads or wraps. Always store lettuce refrigerated at 0–4°C."
+          }
+        ]
+      },
+      "ja": {
+        "title": "レタスを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくレタスの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "買ってきたレタスが数日経つと、葉がしなびたり変色（褐変）したり、ドロドロに傷んでしまった経験はありませんか？🥬\n\nレタスは水分含有量が95%以上と非常に高く、組織が繊細なため、温度変化や湿度、エチレンガスに極めて敏感な野菜です。保存方法を誤ると、乾燥してしおれるだけでなく、閉じ込められた結露によって傷みやすくなります。\n\n本記事では、農学および食品安全の専門家が推奨する、レタスのシャキシャキ感と鮮度を最大化する3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "保存前に洗わない（洗う場合は水気を完全に取り除く） 💧",
+            "desc": "葉の表面に水分が残っていると、雑菌の繁殖や腐敗（軟腐病）の原因になります。洗わずに保存するのが最も望ましく、洗って保存する場合はサラダスピナーなどで水分を100%取り除いてください。"
+          },
+          {
+            "title": "リンゴやバナナなどエチレンを出す果物と隔離する 🍎",
+            "desc": "レタスはエチレンガスに非常に敏感で、リンゴや洋梨、バナナなどと一緒に保存すると、葉に赤斑病（褐色の斑点）が発生し、急速にしおれて品質が著しく低下します。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "キッチンペーパーで水分調整する — 水分バランスの維持 🧻",
+            "text": "レタスの水分蒸発を防ぎつつ、結露による傷みを防ぐには適切な湿度管理が欠かせません。💡保存のコツ：洗っていないレタスをキッチンペーパーで包むか、保存容器の底や層の間に敷いてください。キッチンペーパーが余分な湿気を吸収しつつ、適切な湿度を保ちます。"
+          },
+          {
+            "name": "芯（軸）を下にして立てて密閉保存する — 生育姿勢の維持 📦",
+            "text": "野菜は畑で育っていた自然な姿勢（立てた状態）を維持することで、水分や栄養素の損失を最小限に抑えられます。💡保存のコツ：キッチンペーパーで包んだレタスを芯を下にして立て、密閉容器やジッパーバッグに入れてください。潰れ防止やしおれ遅延に極めて効果的です。"
+          },
+          {
+            "name": "0〜4℃の低温で冷蔵保存する — 冷蔵保存 (7〜14日間) ❄️",
+            "text": "レタスは高温下で呼吸量が急増して急速にしおれ、氷点下では低温障害（凍結）を起こして細胞が破壊されます。💡保存のコツ：0〜4℃の冷蔵庫野菜室（鮮度保持室）で保存してください。凍結しない安定した低温環境により、最大2週間シャキシャキ感を維持できます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "しおれたレタスを再びシャキシャキに復活させる方法はありますか？",
+            "answer": "50℃のぬるま湯にレタスを1〜2分間浸す「50℃洗い」や、氷水に酢を数滴または砂糖を加えて10〜15分間浸すと、浸透圧作用とヒートショック効果により水分が急速に再吸収され、シャキシャキ感が復活します。"
+          },
+          {
+            "question": "レタスを冷凍保存してもいいですか？",
+            "answer": "レタスは95%以上が水分のため、冷凍すると氷の結晶が細胞壁を破壊してしまいます。解凍すると水っぽくベチャベチャになり、サラダや生食には使えなくなるため、必ず0〜4℃で冷蔵保存してください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持生菜新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解生菜的最佳储存温度、方式和保鲜时长。",
+        "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "您是否遇到过刚买回家的生菜没过几天就发黄萎蔫、变软甚至腐烂变黑的情况？🥬\n\n生菜含水量高达95%以上，叶片组织娇嫩，对温度变化、湿度以及乙烯气体极其敏感。储存不当极易导致水分流失而萎蔫，或者因内部积水而滋生细菌发生腐烂。\n\n本指南将为您介绍由农业及食品安全专家推荐的3步科学生菜保鲜秘诀，帮您最大程度保持生菜的爽脆口感与新鲜度。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "储存前切勿清洗（若清洗必须彻底甩干水分） 💧",
+            "desc": "叶片表面残留水分是细菌滋生和引发软腐病的主要原因。不洗直接储存是最佳选择；若需洗净后储存，请务必使用蔬菜甩干机彻底去除每一滴水。"
+          },
+          {
+            "title": "请与苹果、香蕉等释放乙烯的水果隔离 🍎",
+            "desc": "生菜对乙烯气体高度敏感。若与苹果、梨或香蕉等混放，生菜叶片会出现红斑（褐色斑点，Russet spotting）并加速萎蔫，失去食用品质。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "用厨房纸巾调节湿度 — 防止湿度失衡 🧻",
+            "text": "既要防止生菜水分蒸发，又要避免水汽凝结导致烂叶，保持适宜湿度是关键。💡储存小贴士：用厨房纸巾将未清洗的生菜包裹起来，或在保鲜盒底部及层间铺上纸巾。纸巾能吸收多余水汽，同时维持生菜所需的适度湿润。"
+          },
+          {
+            "name": "根部朝下竖直密闭保存 — 保持自然生长姿态 📦",
+            "text": "蔬菜在保持其在田间自然的生长姿态（竖放）时，水分和营养成分的消耗速度最慢。💡储存小贴士：将用纸巾包裹好的生菜根部朝下竖直放入密封盒或拉链袋中。这能有效防止压伤并极大延缓萎蔫。"
+          },
+          {
+            "name": "0~4℃ 低温冷藏保存 — 冷藏储存 (7~14天) ❄️",
+            "text": "温度过高会导致生菜呼吸作用剧烈而加速枯萎，而低于0℃则会造成冻伤破坏细胞结构。💡储存小贴士：请存放在0~4℃的冰箱蔬菜保鲜抽屉中。在不结霜的稳定低温环境下，生菜可保持爽脆长达两周。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "萎蔫的生菜有什么方法可以恢复爽脆吗？",
+            "answer": "将萎蔫生菜放入50℃温水中浸泡1~2分钟（50℃清洗法），或浸泡在加有几滴醋或少许白糖的冰水中10~15分钟，利用渗透压和热休克效应刺激生菜细胞快速吸水，即可恢复爽脆口感。"
+          },
+          {
+            "question": "生菜可以冷冻保存吗？",
+            "answer": "不可以。生菜含水量高达95%以上，冷冻时形成的冰晶会破坏其脆弱的细胞壁。解冻后会变得粘软水肿，无法再用于沙拉或包肉生食，因此必须在0~4℃下冷藏保存。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener la lechuga fresca: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la lechuga según las directrices oficiales de seguridad.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "¿Alguna vez compró lechuga fresca solo para descubrir que en pocos días las hojas se marchitaban, se ponían marrones o se volvían viscosas? 🥬\n\nCon un contenido de agua superior al 95% y una estructura celular delicada, la lechuga es extremadamente sensible a las variaciones de temperatura, al desequilibrio de humedad y al gas etileno. Un almacenamiento inadecuado provoca deshidratación rápida o, por el contrario, pudrición bacteriana por condensación atrapada.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria para maximizar su frescura y textura crujiente. 🛡️",
+        "whyTitle": "¿Por qué almacenarla así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "No lave la lechuga antes de guardarla (o séquela al 100%) 💧",
+            "desc": "El agua residual en las hojas favorece la proliferación bacteriana y la pudrición blanda. Guardarla sin lavar es ideal; si prefiere lavarla antes, use un centrifugador de ensaladas para eliminar hasta la última gota."
+          },
+          {
+            "title": "Aíslela de frutas que emiten etileno como manzanas y plátanos 🍎",
+            "desc": "La lechuga es hipersensible al etileno. Almacenarla cerca de manzanas, peras o plátanos provoca punteado pardo (manchas marrones) y un marchitamiento acelerado."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Regule la humedad con papel de cocina — Control de condensación 🧻",
+            "text": "Mantener la humedad adecuada sin acumular agua libre es clave para prevenir el marchitamiento y la pudrición. 💡 Consejo de almacenamiento: Envuelva la lechuga seca y sin lavar con papel de cocina o coloque hojas entre capas en su contenedor. El papel absorbe el exceso de condensación manteniendo la humedad óptima."
+          },
+          {
+            "name": "Guarde de pie con el tallo hacia abajo — Mantenga la posición de crecimiento natural 📦",
+            "text": "Las hortalizas pierden agua y nutrientes mucho más despacio cuando conservan su orientación vertical de crecimiento. 💡 Consejo de almacenamiento: Coloque la lechuga envuelta en papel con el tallo hacia abajo dentro de un recipiente hermético o bolsa Ziploc. Esto evita aplastamientos y frena el marchitamiento."
+          },
+          {
+            "name": "Conserve a baja temperatura (0 a 4 °C) — Almacenamiento refrigerado (7 a 14 días) ❄️",
+            "text": "Las altas temperaturas aceleran la respiración de la lechuga causando su deterioro, mientras que las temperaturas bajo cero provocan daños por congelación. 💡 Consejo de almacenamiento: Guarde la lechuga en el cajón de verduras a 0-4 °C. Un ambiente frío y constante la mantendrá crujiente hasta por dos semanas."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Hay algún truco para devolverle la textura crujiente a la lechuga marchita?",
+            "answer": "Sumergir la lechuga marchita en agua tibia a 50 °C durante 1 o 2 minutos (método del lavado a 50 °C), o dejarla en agua con hielo con unas gotas de vinagre o azúcar durante 10-15 minutos activa la reabsorción osmótica y el choque térmico, devolviéndole su textura crujiente."
+          },
+          {
+            "question": "¿Se puede congelar la lechuga para conservarla por más tiempo?",
+            "answer": "No. Debido a que la lechuga es más de un 95% agua, la congelación forma cristales de hielo que rompen sus paredes celulares. Al descongelarse queda blanda y viscosa, inservible para ensaladas. Debe mantenerse siempre refrigerada a 0-4 °C."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver la laitue fraîche : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la laitue selon les directives officielles de sécurité.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Avez-vous déjà acheté de la laitue bien fraîche pour constater quelques jours plus tard que ses feuilles étaient flétries, brunies ou devenues visqueuses ? 🥬\n\nAvec une teneur en eau supérieure à 95 % et une structure cellulaire très fragile, la laitue est extrêmement sensible aux variations de température, à l'excès d'humidité et au gaz éthylène. Un stockage inadéquat entraîne une déshydratation rapide ou, à l'inverse, un pourrissement bactérien dû à la condensation.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts pour préserver tout le croquant de votre laitue. 🛡️",
+        "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne lavez pas la laitue avant de la stocker (ou séchez-la à 100 %) 💧",
+            "desc": "L'eau résiduelle sur les feuilles favorise la prolifération bactérienne et la pourriture molle. Il est préférable de la conserver non lavée ; si vous la lavez, utilisez une essoreuse à salade pour éliminer chaque goutte d'eau."
+          },
+          {
+            "title": "Isolez-la des fruits émetteurs d'éthylène comme les pommes et bananes 🍎",
+            "desc": "La laitue est très sensible au gaz éthylène. La placer près de pommes, poires ou bananes provoque des taches brunes (taches de rousseur) et accélère son flétrissement."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Régulez l'humidité avec du papier essuie-tout — Prévenir le déséquilibre hydrique 🧻",
+            "text": "Maintenir un niveau d'humidité adéquat sans eau stagnante est essentiel pour éviter le flétrissement et la pourriture. 💡 Astuce de conservation : Enveloppez la laitue sèche et non lavée dans du papier essuie-tout ou déposez des feuilles entre les couches dans votre boîte. L'essuie-tout absorbe l'excès de condensation."
+          },
+          {
+            "name": "Conserver debout, trognon vers le bas — Respecter la croissance naturelle 📦",
+            "text": "Les légumes perdent leur eau et leurs nutriments beaucoup plus lentement lorsqu'ils sont conservés dans leur position de pousse verticale. 💡 Astuce de conservation : Placez la laitue enveloppée dans une boîte hermétique ou un sac congélation, le trognon vers le bas. Cela évite l'écrasement et ralentit le flétrissement."
+          },
+          {
+            "name": "Conserver à basse température (0 à 4 °C) — Stockage réfrigéré (7 à 14 jours) ❄️",
+            "text": "Une température trop élevée accélère la respiration de la laitue et sa détérioration, tandis qu'une température négative provoque des lésions dues au gel. 💡 Astuce de conservation : Placez-la dans le bac à légumes du réfrigérateur (0–4 °C) pour la garder croquante jusqu'à 2 semaines."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Existe-t-il une astuce pour redonner du croquant à une laitue flétrie ?",
+            "answer": "Plonger la laitue flétrie pendant 1 à 2 minutes dans de l'eau chaude à 50 °C (méthode du lavage à 50 °C) ou la faire tremper dans de l'eau glacée avec quelques gouttes de vinaigre ou un peu de sucre pendant 10 à 15 minutes réactive l'absorption osmotique et lui rend son croquant."
+          },
+          {
+            "question": "Peut-on congeler de la laitue ?",
+            "answer": "Non. La laitue étant composée à plus de 95 % d'eau, la congélation forme des cristaux de glace qui font éclater ses parois cellulaires. À la décongélation, elle devient molle et visqueuse, inutilisable en salade. Elle doit toujours être conservée au réfrigérateur entre 0 et 4 °C."
+          }
+        ]
+      },
+      "de": {
+        "title": "Kopfsalat richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Salat basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Haben Sie frischen Kopfsalat gekauft, nur um festzustellen, dass die Blätter nach wenigen Tagen welk, braun oder matschig wurden? 🥬\n\nMit einem Wassergehalt von über 95 % und einer sehr empfindlichen Zellstruktur reagiert Salat extrem sensibel auf Temperaturschwankungen, Feuchtigkeitsungleichgewichte und Ethylengas. Falsche Lagerung führt rasch zu Austrocknung oder durch Kondenswasser zu bakterieller Fäulnis.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Knackigkeit und Frische Ihres Salats maximal zu verlängern. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Salat vor der Lagerung nicht waschen (oder 100 % trocken schleudern) 💧",
+            "desc": "Feuchtigkeit auf den Blättern fördert das Bakterienwachstum und Weichfäule. Ungewaschene Lagerung ist ideal; falls Sie ihn waschen, nutzen Sie eine Salatkarussell, um jeden Tropfen Wasser zu entfernen."
+          },
+          {
+            "title": "Von ethylenabgebendem Obst wie Äpfeln und Bananen trennen 🍎",
+            "desc": "Salat ist extrem empfindlich gegenüber Ethylengas. Die Lagerung neben Äpfeln, Birnen oder Bananen führt zu braunen Flecken (Rostflecken) und beschleunigtem Welken."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Feuchtigkeit mit Küchenpapier regulieren — Feuchtigkeitsbalance 🧻",
+            "text": "Um Austrocknung und Fäulnis zu vermeiden, ist die richtige Feuchtigkeitsregulierung entscheidend. 💡 Lagerungstipp: Wickeln Sie den ungewaschenen Salat in Küchenpapier ein oder legen Sie Papier zwischen die Schichten im Behälter. Das Küchenpapier nimmt überschüssiges Kondenswasser auf."
+          },
+          {
+            "name": "Aufrecht mit dem Strunk nach unten lagern — Natürliche Wuchsrichtung 📦",
+            "text": "Gemüse verliert Wasser und Nährstoffe viel langsamer, wenn es in seiner natürlichen vertikalen Wuchsrichtung gelagert wird. 💡 Lagerungstipp: Stellen Sie den in Küchenpapier gewickelten Salat mit dem Strunk nach unten in eine luftdichte Dose oder einen Ziploc-Beutel."
+          },
+          {
+            "name": "Bei 0–4 °C im Kühlschrank lagern — Kühllagerung (7–14 Tage) ❄️",
+            "text": "Höhere Temperaturen steigern die Atmungsrate des Salats und beschleunigen den Verderb, während Temperaturen unter 0 °C Frostschäden verursachen. 💡 Lagerungstipp: Bewahren Sie ihn im Gemüsefach bei 0–4 °C auf, um ihn bis zu 2 Wochen knackig zu halten."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Kann man welken Salat wieder knackig machen?",
+            "answer": "Legt man welken Salat für 1–2 Minuten in 50 °C warmes Wasser (50-°C-Waschmethode) oder weicht ihn 10–15 Minuten in Eiswasser mit einigen Tropfen Essig oder etwas Zucker ein, führen Osmose und Hitzeschock zu einer schnellen Wasseraufnahme, die die Knackigkeit zurückbringt."
+          },
+          {
+            "question": "Kann man Salat einfrieren?",
+            "answer": "Nein. Da Salat zu über 95 % aus Wasser besteht, zerstören Eiskristalle beim Einfrieren die Zellwände. Nach dem Auftauen wird er matschig und ungenießbar. Salat muss immer bei 0–4 °C gekühlt gelagert werden."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar alface fresca: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para a alface com base em diretrizes oficiais de segurança.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Você já comprou alface bem fresca e percebeu que em poucos dias as folhas murcharam, ficaram escuras ou viscosas? 🥬\n\nCom mais de 95% de água e uma estrutura celular delicada, a alface é extremamente sensível a variações de temperatura, excesso de umidade e ao gás etileno. O armazenamento inadequado causa desidratação rápida ou podridão bacteriana por condensação acumulada.\n\nNeste guia, apresentamos um guia prático em 3 etapas recomendado por especialistas para maximizar a crocância e a durabilidade da sua alface. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Compreender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Não lave a alface antes de guardar (ou seque 100%) 💧",
+            "desc": "A água acumulada nas folhas estimula a proliferação de bactérias e a podridão mole. Guardar sem lavar é o ideal; se preferir lavar, use uma centrifugadora de salada para secar completamente."
+          },
+          {
+            "title": "Isole de frutas que emitem etileno, como maçãs e bananas 🍎",
+            "desc": "A alface é muito sensível ao gás etileno. Guardá-la perto de maçãs, peras ou bananas provoca manchas marrons e acelera o murchamento das folhas."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Regule a umidade com papel-toalha — Controle de condensação 🧻",
+            "text": "Manter a umidade adequada sem acúmulo de água é fundamental para evitar que murgue ou apodreça. 💡 Dica de conservação: Envolva a alface seca e sem lavar em folhas de papel-toalha ou coloque camadas entre as folhas no pote. O papel absorve o excesso de umidade."
+          },
+          {
+            "name": "Guarde em pé com o talo para baixo — Posição natural de crescimento 📦",
+            "text": "Os vegetais perdem água e nutrientes em ritmo muito mais lento quando mantidos na vertical, sua posição natural no campo. 💡 Dica de conservação: Coloque a alface envolvida em papel com o talo para baixo dentro de um pote hermético ou saco Ziploc. Isso previne o esmagamento e retarda o murchamento."
+          },
+          {
+            "name": "Armazenar a baixa temperatura (0 a 4 °C) — Refrigeração (7 a 14 dias) ❄️",
+            "text": "Temperaturas elevadas aumentam a respiração da alface e aceleram a deterioração, enquanto temperaturas abaixo de zero causam queimaduras de frio. 💡 Dica de conservação: Mantenha na gaveta de legumes a 0–4 °C para preservar a crocância por até duas semanas."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Existe algum truco para recuperar a alface murcha?",
+            "answer": "Mergulhar a alface murcha em água morna a 50 °C por 1 a 2 minutos (método de lavagem a 50 °C), ou deixá-la em água com gelo com algumas gotas de vinagre ou açúcar por 10 a 15 minutos ativa a reabsorção osmótica e o choque térmico, devolvendo a crocância."
+          },
+          {
+            "question": "Posso congelar a alface para conservar por mais tempo?",
+            "answer": "Não. Por conter mais de 95% de água, o congelamento forma cristais de gelo que rompem as paredes celulares. Ao descongelar, a alface fica viscosa e imprópria para saladas. Mantenha sempre sob refrigeração de 0 a 4 °C."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Selada agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk selada berdasarkan pedoman keselamatan resmi.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Pernahkah Anda membeli selada segar tetapi dalam beberapa hari daunnya menjadi layu, kecokelatan, atau lembek berlendir? 🥬\n\nDengan kadar air melebihi 95% dan struktur sel yang rapuh, selada sangat sensitif terhadap perubahan suhu, ketidakseimbangan kelembapan, dan gas etilen. Penyimpanan yang salah menyebabkan dehidrasi cepat atau pembusukan akibat embun yang terperangkap.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli pertanian dan keamanan pangan untuk memaksimalkan kesegaran dan kerenyahan selada Anda. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan mencuci selada sebelum disimpan (atau keringkan 100%) 💧",
+            "desc": "Sisa air pada permukaan daun memicu perkembangbiakan bakteri dan pembusukan. Menyimpan selada tanpa dicuci adalah opsi terbaik; jika ingin dicuci dulu, gunakan pengering sayur (salad spinner) hingga benar-benar kering."
+          },
+          {
+            "title": "Pisahkan dari buah penghasil etilen seperti apel dan pisang 🍎",
+            "desc": "Selada sangat sensitif terhadap gas etilen. Menyimpannya di dekat apel, pir, atau pisang menyebabkan timbulnya bintik-bintik cokelat (russet spotting) dan membuat daun cepat layu."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Atur kelembapan dengan tisu dapur — Cegah Kelembapan Berlebih 🧻",
+            "text": "Menjaga kelembapan yang pas tanpa adanya genangan air adalah kunci mencegah selada layu dan membusuk. 💡 Tips Penyimpanan: Bungkus selada kering yang belum dicuci dengan tisu dapur atau lapisi wadah dengan tisu. Tisu dapur akan menyerap kelebihan embun sekaligus menjaga kelembapan yang ideal."
+          },
+          {
+            "name": "Simpan berdiri dengan batang di bawah — Jaga Posisi Tumbuh Alami 📦",
+            "text": "Sayuran kehilangan air dan nutrisi jauh lebih lambat jika disimpan sesuai posisi tumbuh alaminya (tegar/berdiri). 💡 Tips Penyimpanan: Masukkan selada yang sudah dibungkus tisu ke dalam wadah kedap udara atau kantong Ziploc dengan posisi batang di bawah."
+          },
+          {
+            "name": "Simpan pada suhu rendah 0–4°C — Penyimpanan Dingin (7–14 Hari) ❄️",
+            "text": "Suhu tinggi meningkatkan laju respirasi selada sehingga cepat membusuk, sedangkan suhu di bawah 0°C menyebabkan kerusakan akibat pembekuan. 💡 Tips Penyimpanan: Simpan di laci sayur kulkas pada suhu 0–4°C untuk menjaga kerenyahannya hingga 2 minggu."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah ada cara untuk menyegarkan kembali selada yang sudah layu?",
+            "answer": "Merendam selada layu dalam air hangat suhu 50°C selama 1–2 menit (metode cuci 50°C), atau merendamnya dalam air es yang diberi sedikit cuka atau gula selama 10–15 menit akan memicu penyerapan osmotik dan kejutan termal, mengembalikan kerenyahannya dengan cepat."
+          },
+          {
+            "question": "Apakah selada bisa dibekukan di freezer?",
+            "answer": "Tidak bisa. Karena kandungan air selada mencapai lebih dari 95%, pembekuan akan membentuk kristal es yang merusak dinding sel. Saat dicairkan, selada akan menjadi lembek dan tidak bisa digunakan untuk salad. Selalu simpan di kulkas pada suhu 0–4°C."
+          }
+        ]
+      }
     }
+  }
 }

@@ -1,406 +1,406 @@
 {
-    "how-to-store-mango": {
-        "ingId": "mango",
-        "pubDate": "2026-05-24",
-        "updatedDate": "2026-05-24",
-        "heroImage": "/images/blog/mango_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "망고 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 망고의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
-                "intro": "달콤하고 부드러운 망고를 샀는데, 덜 익은 상태로 냉장고에 넣었다가 껍질이 까맣게 변하거나 단맛 없이 퍽퍽해진 경험 있으시죠? 🥭\n\n망고는 대표적인 후숙(Climacteric) 과일로, 수확 후에도 스스로 에틸렌 가스를 뿜어내며 익어가는 특성이 있습니다. 또한 열대 과일이기 때문에 덜 익은 상태에서 냉기에 노출되면 숙성이 멈추고 냉해(Chilling injury)를 입어 껍질이 회갈색으로 변하고 풍미를 영영 잃게 됩니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 망고의 달콤함을 극대화하고 신선도를 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "덜 익은(단단한) 망고를 절대 냉장고에 먼저 넣지 마세요 ⚠️",
-                        "desc": "망고가 푹 익기 전에 10℃ 이하의 찬 온도에 들어가면 숙성 과정이 영구적으로 중단되고, 껍질이 거뭇거뭇해지며 과육이 질겨지는 냉해를 입습니다. 반드시 상온에서 먼저 후숙해야 합니다."
-                    },
-                    {
-                        "title": "후숙을 빠르게 하려면 에틸렌 과일과 함께 종이봉투에 넣으세요 🍎",
-                        "desc": "바나나, 사과와 같이 에틸렌 가스를 많이 배출하는 과일과 망고를 종이봉투에 함께 넣어두면 숙성 속도를 자연스럽게 2~3배 높일 수 있습니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "[후숙 전] 20~25℃ 서늘한 상온에서 보관하기 — 자연 후숙 (3~7일) 🌡️",
-                        "text": "망고는 상온에서 서서히 당도를 끌어올립니다. 💡 보관 팁: 표면에 윤기가 돌고, 꼭지 부분에서 달콤한 향이 나며, 살짝 쥐었을 때 복숭아처럼 부드럽게 들어갈 때까지 직사광선이 닿지 않는 통기성 좋은 상온에 보관해 주세요."
-                    },
-                    {
-                        "name": "[후숙 후] 키친타월로 감싸 비닐봉지에 담아 냉장 보관하기 — 숙성 지연 (5~7일) ❄️",
-                        "text": "망고가 완벽하게 익었다면 과숙(Over-ripening)을 늦추기 위해 냉장 보관해야 합니다. 💡 보관 팁: 표면의 수분 증발을 막고 냉기가 직접 닿지 않도록 키친타월이나 신문지로 감싼 뒤, 비닐봉지나 지퍼백에 밀봉해 냉장고 야채칸(7~10℃)에 보관하세요."
-                    },
-                    {
-                        "name": "[장기 보관 시] 껍질을 벗기고 깍둑썰기하여 냉동 보관하기 — 장기 보관 (최대 6개월) 🧊",
-                        "text": "완전히 익은 망고를 장기간 보관하려면 과육만 분리해 얼리는 것이 가장 좋습니다. 💡 보관 팁: 껍질을 벗기고 과육을 먹기 좋은 크기로 깍둑썰기(다이스)한 후, 지퍼백이나 밀폐 용기에 평평하게 펴 담아 냉동실(-18℃ 이하)에 보관하세요."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "망고 껍질에 검은 반점(슈가스팟)이 생겼는데 상한 건가요?",
-                        "answer": "슈가스팟(Sugar Spot)은 바나나처럼 망고가 최고의 당도에 도달하고 완벽하게 후숙되었음을 알려주는 자연스러운 신호입니다. 단, 퀴퀴한 냄새가 나거나 진물이 흐른다면 부패한 것이므로 주의해야 합니다."
-                    },
-                    {
-                        "question": "자른 망고는 어떻게 보관해야 하나요?",
-                        "answer": "이미 자른 망고는 공기와 닿으면 빠르게 산화되고 미생물이 번식하기 쉽습니다. 밀폐 용기에 담아 즉시 냉장 보관하고 1~2일 이내에 섭취해야 합니다. 레몬즙을 살짝 뿌려두면 갈변을 방지할 수 있습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Mangoes Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for mangoes based on official safety guidelines.",
-                "authority": "USDA & MFDS & RDA",
-                "intro": "Have you ever bought a sweet, creamy mango, put it in the fridge while it was still unripe, and ended up with a blackened skin and tough, flavorless flesh? 🥭\n\nMangoes are classic climacteric fruits, meaning they continue to ripen and emit ethylene gas even after being harvested. Because they are tropical fruits, exposing them to cold temperatures before they are fully ripe halts the ripening process permanently, causing chilling injury that turns the skin grayish-brown and destroys the flavor forever.\n\nIn this guide, introduces a scientifically proven 3-step storage guide recommended by agriculture and food safety experts to maximize your mango's sweetness and maintain its freshness. 🛡️",
-                "whyTitle": "Why Store Mangoes This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never put an unripe (firm) mango in the refrigerator ⚠️",
-                        "desc": "If a mango is placed in cold temperatures below 10°C (50°F) before it fully ripens, the ripening process stops permanently. It will suffer chilling injury, resulting in a mottled, blackened skin and rubbery flesh. Always ripen at room temperature first."
-                    },
-                    {
-                        "title": "To speed up ripening, store in a paper bag with an ethylene-producing fruit 🍎",
-                        "desc": "Placing a mango in a loosely closed paper bag alongside a banana or apple (which naturally emit high levels of ethylene gas) will safely accelerate the ripening process by two to three times."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "[Before Ripening] Store at cool room temperature (20–25°C) — Natural Ripening (3–7 Days) 🌡️",
-                        "text": "Mangoes slowly develop their sweetness at room temperature. 💡 Storage Tip: Keep them in a well-ventilated spot away from direct sunlight until the skin develops a sheen, the stem area smells sweet, and the fruit yields slightly to a gentle squeeze, like a ripe peach."
-                    },
-                    {
-                        "name": "[After Ripening] Wrap in paper towels and refrigerate in a bag — Delay Over-ripening (5–7 Days) ❄️",
-                        "text": "Once a mango is perfectly ripe, it must be refrigerated to slow down the over-ripening process. 💡 Storage Tip: To prevent moisture loss and protect the skin from direct cold drafts, wrap the mango in a paper towel or newspaper, seal it in a Ziploc bag, and store it in the crisper drawer (7–10°C / 45–50°F)."
-                    },
-                    {
-                        "name": "[Long-term Storage] Peel, dice, and freeze — Frozen Storage (Up to 6 Months) 🧊",
-                        "text": "To store fully ripe mangoes for a long period, separating and freezing the flesh is the best method. 💡 Storage Tip: Peel the mango, cut the flesh into bite-sized cubes, lay them flat in a Ziploc bag or airtight container, and store in the freezer (-18°C or below)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "My mango has developed black spots on the skin. Has it gone bad?",
-                        "answer": "Like bananas, mangoes develop 'sugar spots' (black speckles) as a natural indicator that they have reached peak sweetness and are perfectly ripe. However, if the spots are accompanied by a sour smell, oozing liquid, or extreme mushiness, the fruit is spoiling and should be discarded."
-                    },
-                    {
-                        "question": "How should I store cut mango?",
-                        "answer": "Once cut, mango flesh oxidizes quickly upon contact with air and is susceptible to bacterial growth. Store it immediately in an airtight container in the refrigerator and consume within 1 to 2 days. A light sprinkle of lemon juice can help prevent browning."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "マンゴーを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくマンゴーの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "甘くて滑らかなマンゴーを買ってきたのに、未熟なまま冷蔵庫に入れてしまい、皮が黒ずんだり甘みのないパサパサの果肉になってしまった経験はありませんか？🥭\n\nマンゴーは代表的な「追熟（クライマクテリック）型」の果物で、収穫後も自らエチレンガスを放出して熟していく特性があります。また熱帯果実であるため、未熟な状態で冷気に晒されると熟成が止まり、「低温障害」を起こして皮が灰褐色に変色し、風味を永遠に失ってしまいます。\n\n本記事では、農学および食品安全の専門家が推奨する、マンゴーの甘みを最大限に引き出し、鮮度を保つ3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "未熟な（硬い）マンゴーを絶対に冷蔵庫へ先に入れないでください ⚠️",
-                        "desc": "マンゴーが十分に熟す前に10℃以下の低温環境に入れると、追熟プロセスが永久に停止し、皮が黒ずみ果肉が硬くなる低温障害を引き起こします。必ず先に常温で追熟させてください。"
-                    },
-                    {
-                        "title": "追熟を早めるには、エチレンを出す果物と一緒に紙袋へ入れてください 🍎",
-                        "desc": "バナナやリンゴなど、エチレンガスを多く放出する果物と一緒にマンゴーを紙袋に入れておくと、熟成スピードを自然に2〜3倍早めることができます。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "[追熟前] 20〜25℃の涼しい常温で保存する — 自然追熟 (3〜7日間) 🌡️",
-                        "text": "マンゴーは常温で徐々に糖度を上げていきます。💡保存のコツ：皮にツヤが出て、ヘタの周りから甘い香りが漂い、軽く握った時に桃のように柔らかく感じるようになるまで、直射日光の当たらない風通しの良い常温で保存してください。"
-                    },
-                    {
-                        "name": "[追熟後] キッチンペーパーで包み、ポリ袋に入れて冷蔵保存する — 熟成遅延 (5〜7日間) ❄️",
-                        "text": "マンゴーが完璧に熟したら、過熟（熟れすぎ）を遅らせるために冷蔵保存する必要があります。💡保存のコツ：表面の水分蒸発を防ぎ、冷気が直接当たるのを防ぐため、キッチンペーパーや新聞紙で包み、ポリ袋やジッパーバッグに密閉して冷蔵庫の野菜室（7〜10℃）で保存してください。"
-                    },
-                    {
-                        "name": "[長期保存時] 皮をむいて角切りにし、冷凍保存する — 長期保存 (最大6ヶ月) 🧊",
-                        "text": "完熟したマンゴーを長期保存するには、果肉だけを取り出して冷凍するのが最適です。💡保存のコツ：皮をむき、食べやすい大きさに角切り（ダイス状）にした後、ジッパーバッグや密閉容器に平らに広げて冷凍室（-18℃以下）で保存してください。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "マンゴーの皮に黒い斑点（シュガースポット）が出ましたが、腐っているのでしょうか？",
-                        "answer": "シュガースポットは、バナナと同様にマンゴーが最高の糖度に達し、完璧に追熟したことを知らせる自然なサインです。ただし、カビ臭いニオイがしたり、汁が漏れている場合は腐敗しているため注意が必要です。"
-                    },
-                    {
-                        "question": "カットしたマンゴーはどのように保存すればいいですか？",
-                        "answer": "すでにカットしたマンゴーは空気に触れると急速に酸化し、雑菌が繁殖しやすくなります。密閉容器に入れ、すぐに冷蔵保存して1〜2日以内にお召し上がりください。レモン汁を軽く振りかけておくと変色（褐変）を防げます。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持芒果新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解芒果的最佳储存温度、方式和保鲜时长。",
-                "authority": "美国农务部(USDA) & 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "您是否曾买回香甜柔软的芒果，却在它未熟时直接放入冰箱，结果发现果皮发黑、果肉生硬毫无甜味？🥭\n\n芒果是典型的呼吸跃变型（Climacteric）水果，采摘后仍会自身释放乙烯气体并持续成熟。同时，作为热带水果，如果在未熟透的状态下受到冷气侵袭，成熟过程会永久停止，并引发冷害（Chilling injury），导致果皮变成灰褐色，彻底丧失原有风味。\n\n本指南将为您介绍由农业及食品安全专家推荐的3步科学芒果保鲜与催熟秘诀，帮您最大化激发芒果的香甜并持久保鲜。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "切勿将未熟（偏硬）的芒果直接放入冰箱 ⚠️",
-                        "desc": "如果在芒果熟透前将其置于10℃以下的低温环境中，其成熟过程会被永久阻断，并引发果皮长黑斑、果肉变韧的冷害现象。请务必先在常温下催熟。"
-                    },
-                    {
-                        "title": "如需快速催熟，请与释放乙烯的水果同放于纸袋中 🍎",
-                        "desc": "将芒果与香蕉、苹果等大量释放乙烯气体的水果一起放入纸袋中，可自然且安全地将成熟速度提升2~3倍。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "[催熟前] 存放在20~25℃的阴凉常温处 — 自然催熟 (3~7天) 🌡️",
-                        "text": "芒果会在常温下缓慢积累糖分。💡储存小贴士：请将其放置在避开阳光直射且通风良好的常温环境中，直到果皮泛起光泽、果蒂处散发甜香，且轻轻按压时像熟透的桃子一样微微凹陷即可。"
-                    },
-                    {
-                        "name": "[催熟后] 用厨房纸巾包裹装袋冷藏 — 延缓过熟 (5~7天) ❄️",
-                        "text": "当芒果完全熟透后，为了防止过度成熟（熟烂），必须进行冷藏。💡储存小贴士：为了防止表面水分蒸发和冷气直吹，请用厨房纸巾或报纸将芒果包裹，装入保鲜袋密封后放入冰箱蔬菜抽屉（7~10℃）保存。"
-                    },
-                    {
-                        "name": "[长期保存] 去皮切块后冷冻 — 长期保存 (最长6个月) 🧊",
-                        "text": "若想长期保存熟透的芒果，取其果肉冷冻是最佳方法。💡储存小贴士：削去果皮，将果肉切成适口的小块（骰子状），平铺装入密封袋或保鲜盒中，放入冷冻室（-18℃以下）保存，非常适合制作冰沙或直接作为冰芒果食用。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "芒果皮上长了黑斑（糖斑），是坏了吗？",
-                        "answer": "芒果皮上的黑斑被称为“糖斑（Sugar Spot）”，就像香蕉长黑点一样，是芒果达到最高甜度、完美熟透的自然信号。但如果伴有酸腐味或流出汁液，则说明已经腐烂，请注意甄别。"
-                    },
-                    {
-                        "question": "切开的芒果应该如何保存？",
-                        "answer": "已经切开的芒果果肉接触空气后极易氧化并滋生细菌。请立即装入密封保鲜盒冷藏，并在1~2天内食用完毕。稍微滴上几滴柠檬汁可以有效防止果肉氧化变色。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener los mangos frescos: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para los mangos según las directrices oficiales de seguridad.",
-                "authority": "USDA & MFDS & RDA",
-                "intro": "¿Alguna vez compró un mango dulce y cremoso, lo guardó en el refrigerador cuando aún estaba verde y terminó con la piel negra y la pulpa dura y sin sabor? 🥭\n\nLos mangos son frutas climatéricas, lo que significa que continúan madurando y emitiendo gas etileno después de ser cosechadas. Al ser frutas tropicales, exponerlas al frío antes de que maduren por completo detiene el proceso de maduración permanentemente, causando daño por frío (chilling injury) que torna la piel marrón grisácea y destruye su sabor para siempre.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria para maximizar la dulzura de su mango y mantener su frescura. 🛡️",
-                "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Nunca introduzca un mango verde (duro) en el refrigerador ⚠️",
-                        "desc": "Si un mango entra a una temperatura fría (menos de 10 °C) antes de madurar, el proceso de maduración se detiene permanentemente. Sufrirá daños por frío, la piel se oscurecerá y la pulpa quedará correosa. Siempre madure a temperatura ambiente primero."
-                    },
-                    {
-                        "title": "Para acelerar la maduración, guárdelo en una bolsa de papel con frutas que emitan etileno 🍎",
-                        "desc": "Colocar el mango en una bolsa de papel junto con un plátano o una manzana (que emiten grandes cantidades de gas etileno) acelerará de forma segura el proceso de maduración de 2 a 3 veces."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "[Antes de madurar] Almacenar a temperatura ambiente fresca (20-25 °C) — Maduración natural (3 a 7 días) 🌡️",
-                        "text": "Los mangos desarrollan su dulzura lentamente a temperatura ambiente. 💡 Consejo de almacenamiento: Manténgalos en un lugar ventilado y lejos de la luz solar directa hasta que la piel adquiera brillo, la zona del tallo huela dulce y la fruta ceda ligeramente al apretarla con suavidad, como un melocotón maduro."
-                    },
-                    {
-                        "name": "[Después de madurar] Envolver en papel de cocina y refrigerar en una bolsa — Retrasar la sobremaduración (5 a 7 días) ❄️",
-                        "text": "Una vez que el mango esté perfectamente maduro, debe refrigerarse para ralentizar la sobremaduración. 💡 Consejo de almacenamiento: Para evitar la pérdida de humedad y proteger la piel del aire frío, envuelva el mango en papel de cocina o periódico, séllelo en una bolsa Ziploc y guárdelo en el cajón de verduras (7–10 °C)."
-                    },
-                    {
-                        "name": "[Almacenamiento a largo plazo] Pelar, cortar en dados y congelar — Conservación congelada (hasta 6 meses) 🧊",
-                        "text": "Para conservar mangos completamente maduros durante mucho tiempo, separar y congelar la pulpa es el mejor método. 💡 Consejo de almacenamiento: Pele el mango, corte la pulpa en dados, extiéndalos en una bolsa Ziploc o recipiente hermético y guárdelos en el congelador (a -18 °C o menos)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mi mango tiene manchas negras en la piel, ¿se echó a perder?",
-                        "answer": "Al igual que los plátanos, los mangos desarrollan 'manchas de azúcar' (puntos negros) como indicador natural de que han alcanzado su máximo dulzor y madurez. Sin embargo, si las manchas van acompañadas de un olor agrio, rezuman líquido o están extremadamente blandas, la fruta se está pudriendo y debe desecharse."
-                    },
-                    {
-                        "question": "¿Cómo debo guardar el mango ya cortado?",
-                        "answer": "Una vez cortada, la pulpa del mango se oxida rápidamente al contacto con el aire y es susceptible al crecimiento bacteriano. Guárdela inmediatamente en un recipiente hermético en el refrigerador y consúmala en 1 o 2 días. Unas gotas de jugo de limón pueden prevenir el oscurecimiento."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver les mangues fraîches : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les mangues selon les directives officielles de sécurité.",
-                "authority": "USDA & MFDS & RDA",
-                "intro": "Avez-vous déjà acheté une mangue douce et onctueuse, pour la mettre au réfrigérateur alors qu'elle n'était pas encore mûre, et vous retrouver avec une peau noircie et une chair dure et sans saveur ? 🥭\n\nLes mangues sont des fruits climactériques, ce qui signifie qu'elles continuent à mûrir et à émettre du gaz éthylène après la récolte. En tant que fruits tropicaux, les exposer au froid avant qu'elles ne soient parfaitement mûres stoppe définitivement le processus de maturation, causant des lésions dues au froid (chilling injury) qui brunissent la peau et détruisent la saveur à jamais.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts en agriculture et en sécurité alimentaire pour maximiser la douceur de votre mangue et maintenir sa fraîcheur. 🛡️",
-                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne mettez jamais une mangue non mûre (ferme) au réfrigérateur ⚠️",
-                        "desc": "Si une mangue est placée dans un environnement froid (moins de 10 °C) avant de mûrir, le processus de maturation s'arrête définitivement. Elle subira des dégâts dus au froid, avec une peau marbrée de noir et une chair caoutchouteuse. Laissez-la toujours mûrir à température ambiante d'abord."
-                    },
-                    {
-                        "title": "Pour accélérer la maturation, placez-la dans un sac en papier avec un fruit émetteur d'éthylène 🍎",
-                        "desc": "Placer une mangue dans un sac en papier fermé de manière lâche avec une banane ou une pomme (qui émettent naturellement de grandes quantités de gaz éthylène) accélérera le processus de maturation de deux à trois fois en toute sécurité."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "[Avant maturation] Conserver à température ambiante fraîche (20-25 °C) — Maturation naturelle (3 à 7 jours) 🌡️",
-                        "text": "Les mangues développent lentement leur douceur à température ambiante. 💡 Astuce de conservation : Gardez-les dans un endroit bien ventilé, à l'abri de la lumière directe du soleil, jusqu'à ce que la peau devienne brillante, que la zone du pédoncule sente bon, et que le fruit cède légèrement sous une pression douce, comme une pêche mûre."
-                    },
-                    {
-                        "name": "[Après maturation] Envelopper de papier essuie-tout et réfrigérer dans un sac — Retarder la surmaturation (5 à 7 jours) ❄️",
-                        "text": "Une fois que la mangue est parfaitement mûre, elle doit être réfrigérée pour ralentir le processus de surmaturation. 💡 Astuce de conservation : Pour éviter la perte d'humidité et protéger la peau des courants d'air froid directs, enveloppez la mangue dans du papier essuie-tout ou du papier journal, scellez-la dans un sac Ziploc et rangez-la dans le bac à légumes (7–10 °C)."
-                    },
-                    {
-                        "name": "[Conservation longue durée] Peler, couper en dés et congeler — Stockage congelé (Jusqu'à 6 mois) 🧊",
-                        "text": "Pour conserver des mangues complètement mûres pendant une longue période, séparer et congeler la chair est la meilleure méthode. 💡 Astuce de conservation : Pelez la mangue, coupez la chair en dés, étalez-les à plat dans un sac Ziploc ou une boîte hermétique, et placez-les au congélateur (-18 °C ou moins)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Ma mangue a des taches noires sur la peau. Est-elle gâtée ?",
-                        "answer": "Tout comme les bananes, les mangues développent des 'taches de sucre' (mouchetures noires), un indicateur naturel qu'elles ont atteint leur douceur maximale et sont parfaitement mûres. Cependant, si les taches s'accompagnent d'une odeur aigre, de suintements ou d'une extrême mollesse, le fruit pourrit et doit être jeté."
-                    },
-                    {
-                        "question": "Comment dois-je conserver une mangue coupée ?",
-                        "answer": "Une fois coupée, la chair de la mangue s'oxyde rapidement au contact de l'air et est sensible au développement bactérien. Conservez-la immédiatement dans une boîte hermétique au réfrigérateur et consommez-la dans les 1 à 2 jours. Un léger filet de jus de citron peut aider à prévenir le brunissement."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Mangos richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Mangos basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "USDA & MFDS & RDA",
-                "intro": "Haben Sie schon einmal eine süße, cremige Mango gekauft, sie noch unreif in den Kühlschrank gelegt und am Ende eine schwarz verfärbte Schale und zähes, geschmackloses Fruchtfleisch erhalten? 🥭\n\nMangos sind klassische klimakterische Früchte, was bedeutet, dass sie nach der Ernte weiterreifen und Ethylengas abgeben. Da es sich um tropische Früchte handelt, stoppt die Kälteeinwirkung vor der vollständigen Reifung den Reifeprozess dauerhaft. Es entsteht ein Kälteschaden (Chilling Injury), der die Schale graubraun färbt und den Geschmack für immer zerstört.\n\nHIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der von Agrar- und Lebensmittelsicherheitsexperten empfohlen wird, um die Süße Ihrer Mango zu maximieren und ihre Frische zu erhalten. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Legen Sie niemals eine unreife (feste) Mango in den Kühlschrank ⚠️",
-                        "desc": "Wird eine Mango vor der vollständigen Reifung kalten Temperaturen (unter 10 °C) ausgesetzt, stoppt der Reifeprozess dauerhaft. Sie erleidet einen Kälteschaden, was zu einer fleckigen, schwarzen Schale und gummiartigem Fruchtfleisch führt. Lassen Sie sie immer zuerst bei Raumtemperatur reifen."
-                    },
-                    {
-                        "title": "Zur Beschleunigung der Reifung in einer Papiertüte mit ethylenabgebendem Obst lagern 🍎",
-                        "desc": "Wenn Sie eine Mango zusammen mit einer Banane oder einem Apfel (die von Natur aus viel Ethylengas abgeben) in eine locker verschlossene Papiertüte legen, wird der Reifeprozess sicher um das Zwei- bis Dreifache beschleunigt."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "[Vor der Reifung] Bei kühler Raumtemperatur lagern (20–25 °C) — Natürliche Reifung (3–7 Tage) 🌡️",
-                        "text": "Mangos entwickeln ihre Süße langsam bei Raumtemperatur. 💡 Lagerungstipp: Bewahren Sie sie an einem gut belüfteten Ort vor direkter Sonneneinstrahlung geschützt auf, bis die Schale glänzt, der Stielansatz süß duftet und die Frucht auf leichten Druck wie ein reifer Pfirsich etwas nachgibt."
-                    },
-                    {
-                        "name": "[Nach der Reifung] In Küchenpapier wickeln und in einer Tüte kühlen — Überreifung verzögern (5–7 Tage) ❄️",
-                        "text": "Sobald eine Mango perfekt reif ist, muss sie in den Kühlschrank, um den Prozess der Überreifung zu verlangsamen. 💡 Lagerungstipp: Um Feuchtigkeitsverlust zu vermeiden und die Schale vor direkter kalter Zugluft zu schützen, wickeln Sie die Mango in Küchen- oder Zeitungspapier, verschließen Sie sie in einem Ziploc-Beutel und bewahren Sie sie im Gemüsefach (7–10 °C) auf."
-                    },
-                    {
-                        "name": "[Langzeitlagerung] Schälen, würfeln und einfrieren — Gefrierlagerung (Bis zu 6 Monate) 🧊",
-                        "text": "Um vollreife Mangos lange aufzubewahren, ist das Separieren und Einfrieren des Fruchtfleisches die beste Methode. 💡 Lagerungstipp: Schälen Sie die Mango, schneiden Sie das Fruchtfleisch in mundgerechte Würfel, legen Sie sie flach in einen Ziploc-Beutel oder einen luftdichten Behälter und lagern Sie sie im Gefrierschrank (-18 °C oder kälter)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Meine Mango hat schwarze Flecken auf der Schale. Ist sie schlecht geworden?",
-                        "answer": "Wie Bananen entwickeln auch Mangos 'Zuckerflecken' (schwarze Sprenkel) als natürliches Zeichen dafür, dass sie ihre maximale Süße erreicht haben und perfekt reif sind. Wenn die Flecken jedoch von einem sauren Geruch, austretender Flüssigkeit oder extremer Matschigkeit begleitet werden, verdirbt die Frucht und sollte entsorgt werden."
-                    },
-                    {
-                        "question": "Wie sollte ich aufgeschnittene Mango aufbewahren?",
-                        "answer": "Sobald das Mangofruchtfleisch angeschnitten ist, oxidiert es bei Kontakt mit Luft schnell und ist anfällig für Bakterienwachstum. Bewahren Sie es sofort in einem luftdichten Behälter im Kühlschrank auf und verbrauchen Sie es innerhalb von 1 bis 2 Tagen. Ein leichtes Beträufeln mit Zitronensaft kann helfen, das Braunwerden zu verhindern."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como manter as mangas frescas: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, o método e o tempo de conservação ideais para as mangas com base nas diretrizes oficiais de segurança.",
-                "authority": "USDA & MFDS & RDA",
-                "intro": "Você já comprou uma manga doce e cremosa, colocou-a na geladeira quando ainda estava verde e acabou com a casca preta e a polpa dura e sem sabor? 🥭\n\nAs mangas são frutas climatéricas clássicas, o que significa que continuam a amadurecer e a emitir gás etileno mesmo depois de colhidas. Por serem frutas tropicais, expô-las a temperaturas frias antes de estarem totalmente maduras interrompe o processo de amadurecimento de forma permanente, causando um dano por frio (chilling injury) que deixa a casca marrom-acinzentada e destrói o sabor para sempre.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas comprovado cientificamente e recomendado por especialistas em agricultura e segurança alimentar para maximizar a doçura de sua manga e manter seu frescor. 🛡️",
-                "whyTitle": "Por que armazenar as mangas assim? Fatos científicos",
-                "whyDesc": "Compreender as características fisiológicas únicas de cada alimento e aplicar o método de conservação adequado é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Regras essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca coloque uma manga verde (firme) na geladeira ⚠️",
-                        "desc": "Se uma manga for colocada em temperaturas frias (abaixo de 10 °C) antes de amadurecer totalmente, o processo de amadurecimento para permanentemente. Ela sofrerá danos por frio, resultando em uma casca manchada e preta e polpa borrachuda. Sempre amadureça em temperatura ambiente primeiro."
-                    },
-                    {
-                        "title": "Para acelerar o amadurecimento, guarde em um saco de papel com uma fruta que emita etileno 🍎",
-                        "desc": "Colocar uma manga em um saco de papel frouxamente fechado junto com uma banana ou maçã (que emitem naturalmente altos níveis de gás etileno) acelerará com segurança o processo de amadurecimento em duas a três vezes."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "[Antes de amadurecer] Armazenar em temperatura ambiente fresca (20-25 °C) — Amadurecimento natural (3 a 7 dias) 🌡️",
-                        "text": "As mangas desenvolvem lentamente sua doçura em temperatura ambiente. 💡 Dica de conservação: Mantenha-as em um local bem ventilado, longe da luz solar direta, até que a casca desenvolva um brilho, a área do caule cheire a doce e a fruta ceda levemente a um aperto suave, como um pêssego maduro."
-                    },
-                    {
-                        "name": "[Após o amadurecimento] Enrole em papel toalha e refrigere em um saco — Atrasar o amadurecimento excessivo (5 a 7 dias) ❄️",
-                        "text": "Quando a manga estiver perfeitamente madura, ela deve ser refrigerada para retardar o processo de amadurecimento excessivo. 💡 Dica de conservação: Para evitar a perda de umidade e proteger a casca das correntes de ar frio direto, embrulhe a manga em uma toalha de papel ou jornal, feche-a em um saco Ziploc e guarde-a na gaveta de legumes (7–10 °C)."
-                    },
-                    {
-                        "name": "[Armazenamento de longo prazo] Descascar, cortar em cubos e congelar — Conservação congelada (Até 6 meses) 🧊",
-                        "text": "Para conservar mangas totalmente maduras por um longo período, separar e congelar a polpa é o melhor método. 💡 Dica de conservação: Descasque a manga, corte a polpa em cubos pequenos, deite-os planos em um saco Ziploc ou recipiente hermético e guarde no freezer (-18 °C ou menos)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Minha manga desenvolveu manchas pretas na casca. Estragou?",
-                        "answer": "Assim como as bananas, as mangas desenvolvem 'manchas de açúcar' (pontinhos pretos) como um indicador natural de que atingiram a doçura máxima e estão perfeitamente maduras. No entanto, se as manchas forem acompanhadas por um cheiro azedo, líquido vazando ou extrema maciez, a fruta está estragando e deve ser descartada."
-                    },
-                    {
-                        "question": "Como devo guardar a manga cortada?",
-                        "answer": "Uma vez cortada, a polpa da manga oxida rapidamente ao entrar em contato com o ar e fica suscetível ao crescimento bacteriano. Guarde-a imediatamente em um recipiente hermético na geladeira e consuma em 1 a 2 dias. Um leve toque de suco de limão pode ajudar a prevenir o escurecimento."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menjaga Mangga Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Periksa suhu, metode, dan masa simpan optimal untuk mangga berdasarkan pedoman keselamatan resmi.",
-                "authority": "USDA & MFDS & RDA",
-                "intro": "Pernahkah Anda membeli mangga yang manis dan lembut, memasukkannya ke dalam kulkas saat masih mentah, dan berakhir dengan kulit yang menghitam serta daging yang keras dan hambar? 🥭\n\nMangga adalah buah klimakterik klasik, yang berarti buah ini terus matang dan memancarkan gas etilen bahkan setelah dipanen. Karena ini adalah buah tropis, memaparkannya pada suhu dingin sebelum benar-benar matang akan menghentikan proses pematangan secara permanen, menyebabkan cedera dingin (chilling injury) yang mengubah kulitnya menjadi cokelat keabu-abuan dan merusak rasanya selamanya.\n\nDalam panduan ini, memperkenalkan panduan penyimpanan 3 langkah yang terbukti secara ilmiah, yang direkomendasikan oleh pakar pertanian dan keamanan pangan untuk memaksimalkan rasa manis mangga Anda dan menjaga kesegarannya. 🛡️",
-                "whyTitle": "Mengapa Menyimpan Mangga Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan makanan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan dan Peringatan Penyimpanan Penting",
-                "cautions": [
-                    {
-                        "title": "Jangan pernah memasukkan mangga yang belum matang (keras) ke dalam kulkas ⚠️",
-                        "desc": "Jika mangga ditempatkan dalam suhu dingin (di bawah 10°C) sebelum matang sepenuhnya, proses pematangan akan berhenti permanen. Mangga akan mengalami cedera dingin, yang mengakibatkan kulit berbintik hitam dan daging kenyal. Selalu matangkan pada suhu ruangan terlebih dahulu."
-                    },
-                    {
-                        "title": "Untuk mempercepat pematangan, simpan di dalam kantong kertas bersama buah penghasil etilen 🍎",
-                        "desc": "Menempatkan mangga dalam kantong kertas yang tertutup longgar bersama dengan pisang atau apel (yang secara alami memancarkan gas etilen tingkat tinggi) akan mempercepat proses pematangan secara aman hingga dua atau tiga kali lipat."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "[Sebelum Matang] Simpan di suhu ruangan yang sejuk (20-25°C) — Pematangan Alami (3-7 Hari) 🌡️",
-                        "text": "Mangga perlahan mengembangkan rasa manisnya pada suhu ruangan. 💡 Tips Penyimpanan: Simpan di tempat yang berventilasi baik, jauh dari sinar matahari langsung, hingga kulitnya tampak mengilap, area batang berbau harum, dan buah sedikit empuk saat diremas lembut, seperti persik yang matang."
-                    },
-                    {
-                        "name": "[Setelah Matang] Bungkus dengan tisu dapur dan simpan di dalam kantong di kulkas — Menunda Kematangan Berlebih (5-7 Hari) ❄️",
-                        "text": "Setelah mangga matang sempurna, mangga harus didinginkan untuk memperlambat proses kematangan yang berlebihan. 💡 Tips Penyimpanan: Untuk mencegah hilangnya kelembapan dan melindungi kulit dari aliran udara dingin langsung, bungkus mangga dengan tisu dapur atau koran, segel di dalam kantong Ziploc, dan simpan di laci penyimpan sayuran (7-10°C)."
-                    },
-                    {
-                        "name": "[Penyimpanan Jangka Panjang] Kupas, potong dadu, dan bekukan — Penyimpanan Beku (Hingga 6 Bulan) 🧊",
-                        "text": "Untuk menyimpan mangga yang sudah matang sepenuhnya dalam jangka waktu lama, memisahkan dan membekukan daging buahnya adalah metode terbaik. 💡 Tips Penyimpanan: Kupas mangga, potong daging buahnya menjadi kubus kecil, ratakan di dalam kantong Ziploc atau wadah kedap udara, dan simpan di dalam freezer (-18°C atau di bawahnya)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mangga saya memiliki bintik-bintik hitam pada kulitnya. Apakah buahnya rusak?",
-                        "answer": "Seperti pisang, mangga mengembangkan 'bintik gula' (bintik hitam) sebagai indikator alami bahwa buah tersebut telah mencapai tingkat kemanisan tertinggi dan matang sempurna. Namun, jika bintik-bintik tersebut disertai dengan bau asam, cairan yang merembes, atau sangat lembek, buah tersebut membusuk dan harus dibuang."
-                    },
-                    {
-                        "question": "Bagaimana cara menyimpan mangga yang sudah dipotong?",
-                        "answer": "Setelah dipotong, daging mangga akan teroksidasi dengan cepat saat bersentuhan dengan udara dan rentan terhadap pertumbuhan bakteri. Simpan segera dalam wadah kedap udara di kulkas dan konsumsi dalam waktu 1 hingga 2 hari. Taburan sedikit jus lemon dapat membantu mencegah agar buah tidak menjadi kecokelatan."
-                    }
-                ]
-            }
-        }
+  "how-to-store-mango": {
+    "ingId": "mango",
+    "pubDate": "2026-05-24",
+    "updatedDate": "2026-05-24",
+    "heroImage": "/images/blog/mango_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "망고 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 망고의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+        "intro": "달콤하고 부드러운 망고를 샀는데, 덜 익은 상태로 냉장고에 넣었다가 껍질이 까맣게 변하거나 단맛 없이 퍽퍽해진 경험 있으시죠? 🥭\n\n망고는 대표적인 후숙(Climacteric) 과일로, 수확 후에도 스스로 에틸렌 가스를 뿜어내며 익어가는 특성이 있습니다. 또한 열대 과일이기 때문에 덜 익은 상태에서 냉기에 노출되면 숙성이 멈추고 냉해(Chilling injury)를 입어 껍질이 회갈색으로 변하고 풍미를 영영 잃게 됩니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 망고의 달콤함을 극대화하고 신선도를 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "덜 익은(단단한) 망고를 절대 냉장고에 먼저 넣지 마세요 ⚠️",
+            "desc": "망고가 푹 익기 전에 10℃ 이하의 찬 온도에 들어가면 숙성 과정이 영구적으로 중단되고, 껍질이 거뭇거뭇해지며 과육이 질겨지는 냉해를 입습니다. 반드시 상온에서 먼저 후숙해야 합니다."
+          },
+          {
+            "title": "후숙을 빠르게 하려면 에틸렌 과일과 함께 종이봉투에 넣으세요 🍎",
+            "desc": "바나나, 사과와 같이 에틸렌 가스를 많이 배출하는 과일과 망고를 종이봉투에 함께 넣어두면 숙성 속도를 자연스럽게 2~3배 높일 수 있습니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "[후숙 전] 20~25℃ 서늘한 상온에서 보관하기 — 자연 후숙 (3~7일) 🌡️",
+            "text": "망고는 상온에서 서서히 당도를 끌어올립니다. 💡 보관 팁: 표면에 윤기가 돌고, 꼭지 부분에서 달콤한 향이 나며, 살짝 쥐었을 때 복숭아처럼 부드럽게 들어갈 때까지 직사광선이 닿지 않는 통기성 좋은 상온에 보관해 주세요."
+          },
+          {
+            "name": "[후숙 후] 키친타월로 감싸 비닐봉지에 담아 냉장 보관하기 — 숙성 지연 (5~7일) ❄️",
+            "text": "망고가 완벽하게 익었다면 과숙(Over-ripening)을 늦추기 위해 냉장 보관해야 합니다. 💡 보관 팁: 표면의 수분 증발을 막고 냉기가 직접 닿지 않도록 키친타월이나 신문지로 감싼 뒤, 비닐봉지나 지퍼백에 밀봉해 냉장고 야채칸(7~10℃)에 보관하세요."
+          },
+          {
+            "name": "[장기 보관 시] 껍질을 벗기고 깍둑썰기하여 냉동 보관하기 — 장기 보관 (최대 6개월) 🧊",
+            "text": "완전히 익은 망고를 장기간 보관하려면 과육만 분리해 얼리는 것이 가장 좋습니다. 💡 보관 팁: 껍질을 벗기고 과육을 먹기 좋은 크기로 깍둑썰기(다이스)한 후, 지퍼백이나 밀폐 용기에 평평하게 펴 담아 냉동실(-18℃ 이하)에 보관하세요."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "망고 껍질에 검은 반점(슈가스팟)이 생겼는데 상한 건가요?",
+            "answer": "슈가스팟(Sugar Spot)은 바나나처럼 망고가 최고의 당도에 도달하고 완벽하게 후숙되었음을 알려주는 자연스러운 신호입니다. 단, 퀴퀴한 냄새가 나거나 진물이 흐른다면 부패한 것이므로 주의해야 합니다."
+          },
+          {
+            "question": "자른 망고는 어떻게 보관해야 하나요?",
+            "answer": "이미 자른 망고는 공기와 닿으면 빠르게 산화되고 미생물이 번식하기 쉽습니다. 밀폐 용기에 담아 즉시 냉장 보관하고 1~2일 이내에 섭취해야 합니다. 레몬즙을 살짝 뿌려두면 갈변을 방지할 수 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Mangoes Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for mangoes based on official safety guidelines.",
+        "authority": "USDA & MFDS & RDA",
+        "intro": "Have you ever bought a sweet, creamy mango, put it in the fridge while it was still unripe, and ended up with a blackened skin and tough, flavorless flesh? 🥭\n\nMangoes are classic climacteric fruits, meaning they continue to ripen and emit ethylene gas even after being harvested. Because they are tropical fruits, exposing them to cold temperatures before they are fully ripe halts the ripening process permanently, causing chilling injury that turns the skin grayish-brown and destroys the flavor forever.\n\nIn this guide, introduces a scientifically proven 3-step storage guide recommended by agriculture and food safety experts to maximize your mango's sweetness and maintain its freshness. 🛡️",
+        "whyTitle": "Why Store Mangoes This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never put an unripe (firm) mango in the refrigerator ⚠️",
+            "desc": "If a mango is placed in cold temperatures below 10°C (50°F) before it fully ripens, the ripening process stops permanently. It will suffer chilling injury, resulting in a mottled, blackened skin and rubbery flesh. Always ripen at room temperature first."
+          },
+          {
+            "title": "To speed up ripening, store in a paper bag with an ethylene-producing fruit 🍎",
+            "desc": "Placing a mango in a loosely closed paper bag alongside a banana or apple (which naturally emit high levels of ethylene gas) will safely accelerate the ripening process by two to three times."
+          }
+        ],
+        "steps": [
+          {
+            "name": "[Before Ripening] Store at cool room temperature (20–25°C) — Natural Ripening (3–7 Days) 🌡️",
+            "text": "Mangoes slowly develop their sweetness at room temperature. 💡 Storage Tip: Keep them in a well-ventilated spot away from direct sunlight until the skin develops a sheen, the stem area smells sweet, and the fruit yields slightly to a gentle squeeze, like a ripe peach."
+          },
+          {
+            "name": "[After Ripening] Wrap in paper towels and refrigerate in a bag — Delay Over-ripening (5–7 Days) ❄️",
+            "text": "Once a mango is perfectly ripe, it must be refrigerated to slow down the over-ripening process. 💡 Storage Tip: To prevent moisture loss and protect the skin from direct cold drafts, wrap the mango in a paper towel or newspaper, seal it in a Ziploc bag, and store it in the crisper drawer (7–10°C / 45–50°F)."
+          },
+          {
+            "name": "[Long-term Storage] Peel, dice, and freeze — Frozen Storage (Up to 6 Months) 🧊",
+            "text": "To store fully ripe mangoes for a long period, separating and freezing the flesh is the best method. 💡 Storage Tip: Peel the mango, cut the flesh into bite-sized cubes, lay them flat in a Ziploc bag or airtight container, and store in the freezer (-18°C or below)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "My mango has developed black spots on the skin. Has it gone bad?",
+            "answer": "Like bananas, mangoes develop 'sugar spots' (black speckles) as a natural indicator that they have reached peak sweetness and are perfectly ripe. However, if the spots are accompanied by a sour smell, oozing liquid, or extreme mushiness, the fruit is spoiling and should be discarded."
+          },
+          {
+            "question": "How should I store cut mango?",
+            "answer": "Once cut, mango flesh oxidizes quickly upon contact with air and is susceptible to bacterial growth. Store it immediately in an airtight container in the refrigerator and consume within 1 to 2 days. A light sprinkle of lemon juice can help prevent browning."
+          }
+        ]
+      },
+      "ja": {
+        "title": "マンゴーを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくマンゴーの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "甘くて滑らかなマンゴーを買ってきたのに、未熟なまま冷蔵庫に入れてしまい、皮が黒ずんだり甘みのないパサパサの果肉になってしまった経験はありませんか？🥭\n\nマンゴーは代表的な「追熟（クライマクテリック）型」の果物で、収穫後も自らエチレンガスを放出して熟していく特性があります。また熱帯果実であるため、未熟な状態で冷気に晒されると熟成が止まり、「低温障害」を起こして皮が灰褐色に変色し、風味を永遠に失ってしまいます。\n\n本記事では、農学および食品安全の専門家が推奨する、マンゴーの甘みを最大限に引き出し、鮮度を保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "未熟な（硬い）マンゴーを絶対に冷蔵庫へ先に入れないでください ⚠️",
+            "desc": "マンゴーが十分に熟す前に10℃以下の低温環境に入れると、追熟プロセスが永久に停止し、皮が黒ずみ果肉が硬くなる低温障害を引き起こします。必ず先に常温で追熟させてください。"
+          },
+          {
+            "title": "追熟を早めるには、エチレンを出す果物と一緒に紙袋へ入れてください 🍎",
+            "desc": "バナナやリンゴなど、エチレンガスを多く放出する果物と一緒にマンゴーを紙袋に入れておくと、熟成スピードを自然に2〜3倍早めることができます。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "[追熟前] 20〜25℃の涼しい常温で保存する — 自然追熟 (3〜7日間) 🌡️",
+            "text": "マンゴーは常温で徐々に糖度を上げていきます。💡保存のコツ：皮にツヤが出て、ヘタの周りから甘い香りが漂い、軽く握った時に桃のように柔らかく感じるようになるまで、直射日光の当たらない風通しの良い常温で保存してください。"
+          },
+          {
+            "name": "[追熟後] キッチンペーパーで包み、ポリ袋に入れて冷蔵保存する — 熟成遅延 (5〜7日間) ❄️",
+            "text": "マンゴーが完璧に熟したら、過熟（熟れすぎ）を遅らせるために冷蔵保存する必要があります。💡保存のコツ：表面の水分蒸発を防ぎ、冷気が直接当たるのを防ぐため、キッチンペーパーや新聞紙で包み、ポリ袋やジッパーバッグに密閉して冷蔵庫の野菜室（7〜10℃）で保存してください。"
+          },
+          {
+            "name": "[長期保存時] 皮をむいて角切りにし、冷凍保存する — 長期保存 (最大6ヶ月) 🧊",
+            "text": "完熟したマンゴーを長期保存するには、果肉だけを取り出して冷凍するのが最適です。💡保存のコツ：皮をむき、食べやすい大きさに角切り（ダイス状）にした後、ジッパーバッグや密閉容器に平らに広げて冷凍室（-18℃以下）で保存してください。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "マンゴーの皮に黒い斑点（シュガースポット）が出ましたが、腐っているのでしょうか？",
+            "answer": "シュガースポットは、バナナと同様にマンゴーが最高の糖度に達し、完璧に追熟したことを知らせる自然なサインです。ただし、カビ臭いニオイがしたり、汁が漏れている場合は腐敗しているため注意が必要です。"
+          },
+          {
+            "question": "カットしたマンゴーはどのように保存すればいいですか？",
+            "answer": "すでにカットしたマンゴーは空気に触れると急速に酸化し、雑菌が繁殖しやすくなります。密閉容器に入れ、すぐに冷蔵保存して1〜2日以内にお召し上がりください。レモン汁を軽く振りかけておくと変色（褐変）を防げます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持芒果新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解芒果的最佳储存温度、方式和保鲜时长。",
+        "authority": "美国农务部(USDA) & 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "您是否曾买回香甜柔软的芒果，却在它未熟时直接放入冰箱，结果发现果皮发黑、果肉生硬毫无甜味？🥭\n\n芒果是典型的呼吸跃变型（Climacteric）水果，采摘后仍会自身释放乙烯气体并持续成熟。同时，作为热带水果，如果在未熟透的状态下受到冷气侵袭，成熟过程会永久停止，并引发冷害（Chilling injury），导致果皮变成灰褐色，彻底丧失原有风味。\n\n本指南将为您介绍由农业及食品安全专家推荐的3步科学芒果保鲜与催熟秘诀，帮您最大化激发芒果的香甜并持久保鲜。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "切勿将未熟（偏硬）的芒果直接放入冰箱 ⚠️",
+            "desc": "如果在芒果熟透前将其置于10℃以下的低温环境中，其成熟过程会被永久阻断，并引发果皮长黑斑、果肉变韧的冷害现象。请务必先在常温下催熟。"
+          },
+          {
+            "title": "如需快速催熟，请与释放乙烯的水果同放于纸袋中 🍎",
+            "desc": "将芒果与香蕉、苹果等大量释放乙烯气体的水果一起放入纸袋中，可自然且安全地将成熟速度提升2~3倍。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "[催熟前] 存放在20~25℃的阴凉常温处 — 自然催熟 (3~7天) 🌡️",
+            "text": "芒果会在常温下缓慢积累糖分。💡储存小贴士：请将其放置在避开阳光直射且通风良好的常温环境中，直到果皮泛起光泽、果蒂处散发甜香，且轻轻按压时像熟透的桃子一样微微凹陷即可。"
+          },
+          {
+            "name": "[催熟后] 用厨房纸巾包裹装袋冷藏 — 延缓过熟 (5~7天) ❄️",
+            "text": "当芒果完全熟透后，为了防止过度成熟（熟烂），必须进行冷藏。💡储存小贴士：为了防止表面水分蒸发和冷气直吹，请用厨房纸巾或报纸将芒果包裹，装入保鲜袋密封后放入冰箱蔬菜抽屉（7~10℃）保存。"
+          },
+          {
+            "name": "[长期保存] 去皮切块后冷冻 — 长期保存 (最长6个月) 🧊",
+            "text": "若想长期保存熟透的芒果，取其果肉冷冻是最佳方法。💡储存小贴士：削去果皮，将果肉切成适口的小块（骰子状），平铺装入密封袋或保鲜盒中，放入冷冻室（-18℃以下）保存，非常适合制作冰沙或直接作为冰芒果食用。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "芒果皮上长了黑斑（糖斑），是坏了吗？",
+            "answer": "芒果皮上的黑斑被称为“糖斑（Sugar Spot）”，就像香蕉长黑点一样，是芒果达到最高甜度、完美熟透的自然信号。但如果伴有酸腐味或流出汁液，则说明已经腐烂，请注意甄别。"
+          },
+          {
+            "question": "切开的芒果应该如何保存？",
+            "answer": "已经切开的芒果果肉接触空气后极易氧化并滋生细菌。请立即装入密封保鲜盒冷藏，并在1~2天内食用完毕。稍微滴上几滴柠檬汁可以有效防止果肉氧化变色。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener los mangos frescos: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para los mangos según las directrices oficiales de seguridad.",
+        "authority": "USDA & MFDS & RDA",
+        "intro": "¿Alguna vez compró un mango dulce y cremoso, lo guardó en el refrigerador cuando aún estaba verde y terminó con la piel negra y la pulpa dura y sin sabor? 🥭\n\nLos mangos son frutas climatéricas, lo que significa que continúan madurando y emitiendo gas etileno después de ser cosechadas. Al ser frutas tropicales, exponerlas al frío antes de que maduren por completo detiene el proceso de maduración permanentemente, causando daño por frío (chilling injury) que torna la piel marrón grisácea y destruye su sabor para siempre.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria para maximizar la dulzura de su mango y mantener su frescura. 🛡️",
+        "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Nunca introduzca un mango verde (duro) en el refrigerador ⚠️",
+            "desc": "Si un mango entra a una temperatura fría (menos de 10 °C) antes de madurar, el proceso de maduración se detiene permanentemente. Sufrirá daños por frío, la piel se oscurecerá y la pulpa quedará correosa. Siempre madure a temperatura ambiente primero."
+          },
+          {
+            "title": "Para acelerar la maduración, guárdelo en una bolsa de papel con frutas que emitan etileno 🍎",
+            "desc": "Colocar el mango en una bolsa de papel junto con un plátano o una manzana (que emiten grandes cantidades de gas etileno) acelerará de forma segura el proceso de maduración de 2 a 3 veces."
+          }
+        ],
+        "steps": [
+          {
+            "name": "[Antes de madurar] Almacenar a temperatura ambiente fresca (20-25 °C) — Maduración natural (3 a 7 días) 🌡️",
+            "text": "Los mangos desarrollan su dulzura lentamente a temperatura ambiente. 💡 Consejo de almacenamiento: Manténgalos en un lugar ventilado y lejos de la luz solar directa hasta que la piel adquiera brillo, la zona del tallo huela dulce y la fruta ceda ligeramente al apretarla con suavidad, como un melocotón maduro."
+          },
+          {
+            "name": "[Después de madurar] Envolver en papel de cocina y refrigerar en una bolsa — Retrasar la sobremaduración (5 a 7 días) ❄️",
+            "text": "Una vez que el mango esté perfectamente maduro, debe refrigerarse para ralentizar la sobremaduración. 💡 Consejo de almacenamiento: Para evitar la pérdida de humedad y proteger la piel del aire frío, envuelva el mango en papel de cocina o periódico, séllelo en una bolsa Ziploc y guárdelo en el cajón de verduras (7–10 °C)."
+          },
+          {
+            "name": "[Almacenamiento a largo plazo] Pelar, cortar en dados y congelar — Conservación congelada (hasta 6 meses) 🧊",
+            "text": "Para conservar mangos completamente maduros durante mucho tiempo, separar y congelar la pulpa es el mejor método. 💡 Consejo de almacenamiento: Pele el mango, corte la pulpa en dados, extiéndalos en una bolsa Ziploc o recipiente hermético y guárdelos en el congelador (a -18 °C o menos)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mi mango tiene manchas negras en la piel, ¿se echó a perder?",
+            "answer": "Al igual que los plátanos, los mangos desarrollan 'manchas de azúcar' (puntos negros) como indicador natural de que han alcanzado su máximo dulzor y madurez. Sin embargo, si las manchas van acompañadas de un olor agrio, rezuman líquido o están extremadamente blandas, la fruta se está pudriendo y debe desecharse."
+          },
+          {
+            "question": "¿Cómo debo guardar el mango ya cortado?",
+            "answer": "Una vez cortada, la pulpa del mango se oxida rápidamente al contacto con el aire y es susceptible al crecimiento bacteriano. Guárdela inmediatamente en un recipiente hermético en el refrigerador y consúmala en 1 o 2 días. Unas gotas de jugo de limón pueden prevenir el oscurecimiento."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver les mangues fraîches : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les mangues selon les directives officielles de sécurité.",
+        "authority": "USDA & MFDS & RDA",
+        "intro": "Avez-vous déjà acheté une mangue douce et onctueuse, pour la mettre au réfrigérateur alors qu'elle n'était pas encore mûre, et vous retrouver avec une peau noircie et une chair dure et sans saveur ? 🥭\n\nLes mangues sont des fruits climactériques, ce qui signifie qu'elles continuent à mûrir et à émettre du gaz éthylène après la récolte. En tant que fruits tropicaux, les exposer au froid avant qu'elles ne soient parfaitement mûres stoppe définitivement le processus de maturation, causant des lésions dues au froid (chilling injury) qui brunissent la peau et détruisent la saveur à jamais.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts en agriculture et en sécurité alimentaire pour maximiser la douceur de votre mangue et maintenir sa fraîcheur. 🛡️",
+        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne mettez jamais une mangue non mûre (ferme) au réfrigérateur ⚠️",
+            "desc": "Si une mangue est placée dans un environnement froid (moins de 10 °C) avant de mûrir, le processus de maturation s'arrête définitivement. Elle subira des dégâts dus au froid, avec une peau marbrée de noir et une chair caoutchouteuse. Laissez-la toujours mûrir à température ambiante d'abord."
+          },
+          {
+            "title": "Pour accélérer la maturation, placez-la dans un sac en papier avec un fruit émetteur d'éthylène 🍎",
+            "desc": "Placer une mangue dans un sac en papier fermé de manière lâche avec une banane ou une pomme (qui émettent naturellement de grandes quantités de gaz éthylène) accélérera le processus de maturation de deux à trois fois en toute sécurité."
+          }
+        ],
+        "steps": [
+          {
+            "name": "[Avant maturation] Conserver à température ambiante fraîche (20-25 °C) — Maturation naturelle (3 à 7 jours) 🌡️",
+            "text": "Les mangues développent lentement leur douceur à température ambiante. 💡 Astuce de conservation : Gardez-les dans un endroit bien ventilé, à l'abri de la lumière directe du soleil, jusqu'à ce que la peau devienne brillante, que la zone du pédoncule sente bon, et que le fruit cède légèrement sous une pression douce, comme une pêche mûre."
+          },
+          {
+            "name": "[Après maturation] Envelopper de papier essuie-tout et réfrigérer dans un sac — Retarder la surmaturation (5 à 7 jours) ❄️",
+            "text": "Une fois que la mangue est parfaitement mûre, elle doit être réfrigérée pour ralentir le processus de surmaturation. 💡 Astuce de conservation : Pour éviter la perte d'humidité et protéger la peau des courants d'air froid directs, enveloppez la mangue dans du papier essuie-tout ou du papier journal, scellez-la dans un sac Ziploc et rangez-la dans le bac à légumes (7–10 °C)."
+          },
+          {
+            "name": "[Conservation longue durée] Peler, couper en dés et congeler — Stockage congelé (Jusqu'à 6 mois) 🧊",
+            "text": "Pour conserver des mangues complètement mûres pendant une longue période, séparer et congeler la chair est la meilleure méthode. 💡 Astuce de conservation : Pelez la mangue, coupez la chair en dés, étalez-les à plat dans un sac Ziploc ou une boîte hermétique, et placez-les au congélateur (-18 °C ou moins)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Ma mangue a des taches noires sur la peau. Est-elle gâtée ?",
+            "answer": "Tout comme les bananes, les mangues développent des 'taches de sucre' (mouchetures noires), un indicateur naturel qu'elles ont atteint leur douceur maximale et sont parfaitement mûres. Cependant, si les taches s'accompagnent d'une odeur aigre, de suintements ou d'une extrême mollesse, le fruit pourrit et doit être jeté."
+          },
+          {
+            "question": "Comment dois-je conserver une mangue coupée ?",
+            "answer": "Une fois coupée, la chair de la mangue s'oxyde rapidement au contact de l'air et est sensible au développement bactérien. Conservez-la immédiatement dans une boîte hermétique au réfrigérateur et consommez-la dans les 1 à 2 jours. Un léger filet de jus de citron peut aider à prévenir le brunissement."
+          }
+        ]
+      },
+      "de": {
+        "title": "Mangos richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Mangos basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "USDA & MFDS & RDA",
+        "intro": "Haben Sie schon einmal eine süße, cremige Mango gekauft, sie noch unreif in den Kühlschrank gelegt und am Ende eine schwarz verfärbte Schale und zähes, geschmackloses Fruchtfleisch erhalten? 🥭\n\nMangos sind klassische klimakterische Früchte, was bedeutet, dass sie nach der Ernte weiterreifen und Ethylengas abgeben. Da es sich um tropische Früchte handelt, stoppt die Kälteeinwirkung vor der vollständigen Reifung den Reifeprozess dauerhaft. Es entsteht ein Kälteschaden (Chilling Injury), der die Schale graubraun färbt und den Geschmack für immer zerstört.\n\nHIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der von Agrar- und Lebensmittelsicherheitsexperten empfohlen wird, um die Süße Ihrer Mango zu maximieren und ihre Frische zu erhalten. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Legen Sie niemals eine unreife (feste) Mango in den Kühlschrank ⚠️",
+            "desc": "Wird eine Mango vor der vollständigen Reifung kalten Temperaturen (unter 10 °C) ausgesetzt, stoppt der Reifeprozess dauerhaft. Sie erleidet einen Kälteschaden, was zu einer fleckigen, schwarzen Schale und gummiartigem Fruchtfleisch führt. Lassen Sie sie immer zuerst bei Raumtemperatur reifen."
+          },
+          {
+            "title": "Zur Beschleunigung der Reifung in einer Papiertüte mit ethylenabgebendem Obst lagern 🍎",
+            "desc": "Wenn Sie eine Mango zusammen mit einer Banane oder einem Apfel (die von Natur aus viel Ethylengas abgeben) in eine locker verschlossene Papiertüte legen, wird der Reifeprozess sicher um das Zwei- bis Dreifache beschleunigt."
+          }
+        ],
+        "steps": [
+          {
+            "name": "[Vor der Reifung] Bei kühler Raumtemperatur lagern (20–25 °C) — Natürliche Reifung (3–7 Tage) 🌡️",
+            "text": "Mangos entwickeln ihre Süße langsam bei Raumtemperatur. 💡 Lagerungstipp: Bewahren Sie sie an einem gut belüfteten Ort vor direkter Sonneneinstrahlung geschützt auf, bis die Schale glänzt, der Stielansatz süß duftet und die Frucht auf leichten Druck wie ein reifer Pfirsich etwas nachgibt."
+          },
+          {
+            "name": "[Nach der Reifung] In Küchenpapier wickeln und in einer Tüte kühlen — Überreifung verzögern (5–7 Tage) ❄️",
+            "text": "Sobald eine Mango perfekt reif ist, muss sie in den Kühlschrank, um den Prozess der Überreifung zu verlangsamen. 💡 Lagerungstipp: Um Feuchtigkeitsverlust zu vermeiden und die Schale vor direkter kalter Zugluft zu schützen, wickeln Sie die Mango in Küchen- oder Zeitungspapier, verschließen Sie sie in einem Ziploc-Beutel und bewahren Sie sie im Gemüsefach (7–10 °C) auf."
+          },
+          {
+            "name": "[Langzeitlagerung] Schälen, würfeln und einfrieren — Gefrierlagerung (Bis zu 6 Monate) 🧊",
+            "text": "Um vollreife Mangos lange aufzubewahren, ist das Separieren und Einfrieren des Fruchtfleisches die beste Methode. 💡 Lagerungstipp: Schälen Sie die Mango, schneiden Sie das Fruchtfleisch in mundgerechte Würfel, legen Sie sie flach in einen Ziploc-Beutel oder einen luftdichten Behälter und lagern Sie sie im Gefrierschrank (-18 °C oder kälter)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Meine Mango hat schwarze Flecken auf der Schale. Ist sie schlecht geworden?",
+            "answer": "Wie Bananen entwickeln auch Mangos 'Zuckerflecken' (schwarze Sprenkel) als natürliches Zeichen dafür, dass sie ihre maximale Süße erreicht haben und perfekt reif sind. Wenn die Flecken jedoch von einem sauren Geruch, austretender Flüssigkeit oder extremer Matschigkeit begleitet werden, verdirbt die Frucht und sollte entsorgt werden."
+          },
+          {
+            "question": "Wie sollte ich aufgeschnittene Mango aufbewahren?",
+            "answer": "Sobald das Mangofruchtfleisch angeschnitten ist, oxidiert es bei Kontakt mit Luft schnell und ist anfällig für Bakterienwachstum. Bewahren Sie es sofort in einem luftdichten Behälter im Kühlschrank auf und verbrauchen Sie es innerhalb von 1 bis 2 Tagen. Ein leichtes Beträufeln mit Zitronensaft kann helfen, das Braunwerden zu verhindern."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como manter as mangas frescas: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, o método e o tempo de conservação ideais para as mangas com base nas diretrizes oficiais de segurança.",
+        "authority": "USDA & MFDS & RDA",
+        "intro": "Você já comprou uma manga doce e cremosa, colocou-a na geladeira quando ainda estava verde e acabou com a casca preta e a polpa dura e sem sabor? 🥭\n\nAs mangas são frutas climatéricas clássicas, o que significa que continuam a amadurecer e a emitir gás etileno mesmo depois de colhidas. Por serem frutas tropicais, expô-las a temperaturas frias antes de estarem totalmente maduras interrompe o processo de amadurecimento de forma permanente, causando um dano por frio (chilling injury) que deixa a casca marrom-acinzentada e destrói o sabor para sempre.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas comprovado cientificamente e recomendado por especialistas em agricultura e segurança alimentar para maximizar a doçura de sua manga e manter seu frescor. 🛡️",
+        "whyTitle": "Por que armazenar as mangas assim? Fatos científicos",
+        "whyDesc": "Compreender as características fisiológicas únicas de cada alimento e aplicar o método de conservação adequado é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Regras essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca coloque uma manga verde (firme) na geladeira ⚠️",
+            "desc": "Se uma manga for colocada em temperaturas frias (abaixo de 10 °C) antes de amadurecer totalmente, o processo de amadurecimento para permanentemente. Ela sofrerá danos por frio, resultando em uma casca manchada e preta e polpa borrachuda. Sempre amadureça em temperatura ambiente primeiro."
+          },
+          {
+            "title": "Para acelerar o amadurecimento, guarde em um saco de papel com uma fruta que emita etileno 🍎",
+            "desc": "Colocar uma manga em um saco de papel frouxamente fechado junto com uma banana ou maçã (que emitem naturalmente altos níveis de gás etileno) acelerará com segurança o processo de amadurecimento em duas a três vezes."
+          }
+        ],
+        "steps": [
+          {
+            "name": "[Antes de amadurecer] Armazenar em temperatura ambiente fresca (20-25 °C) — Amadurecimento natural (3 a 7 dias) 🌡️",
+            "text": "As mangas desenvolvem lentamente sua doçura em temperatura ambiente. 💡 Dica de conservação: Mantenha-as em um local bem ventilado, longe da luz solar direta, até que a casca desenvolva um brilho, a área do caule cheire a doce e a fruta ceda levemente a um aperto suave, como um pêssego maduro."
+          },
+          {
+            "name": "[Após o amadurecimento] Enrole em papel toalha e refrigere em um saco — Atrasar o amadurecimento excessivo (5 a 7 dias) ❄️",
+            "text": "Quando a manga estiver perfeitamente madura, ela deve ser refrigerada para retardar o processo de amadurecimento excessivo. 💡 Dica de conservação: Para evitar a perda de umidade e proteger a casca das correntes de ar frio direto, embrulhe a manga em uma toalha de papel ou jornal, feche-a em um saco Ziploc e guarde-a na gaveta de legumes (7–10 °C)."
+          },
+          {
+            "name": "[Armazenamento de longo prazo] Descascar, cortar em cubos e congelar — Conservação congelada (Até 6 meses) 🧊",
+            "text": "Para conservar mangas totalmente maduras por um longo período, separar e congelar a polpa é o melhor método. 💡 Dica de conservação: Descasque a manga, corte a polpa em cubos pequenos, deite-os planos em um saco Ziploc ou recipiente hermético e guarde no freezer (-18 °C ou menos)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Minha manga desenvolveu manchas pretas na casca. Estragou?",
+            "answer": "Assim como as bananas, as mangas desenvolvem 'manchas de açúcar' (pontinhos pretos) como um indicador natural de que atingiram a doçura máxima e estão perfeitamente maduras. No entanto, se as manchas forem acompanhadas por um cheiro azedo, líquido vazando ou extrema maciez, a fruta está estragando e deve ser descartada."
+          },
+          {
+            "question": "Como devo guardar a manga cortada?",
+            "answer": "Uma vez cortada, a polpa da manga oxida rapidamente ao entrar em contato com o ar e fica suscetível ao crescimento bacteriano. Guarde-a imediatamente em um recipiente hermético na geladeira e consuma em 1 a 2 dias. Um leve toque de suco de limão pode ajudar a prevenir o escurecimento."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menjaga Mangga Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Periksa suhu, metode, dan masa simpan optimal untuk mangga berdasarkan pedoman keselamatan resmi.",
+        "authority": "USDA & MFDS & RDA",
+        "intro": "Pernahkah Anda membeli mangga yang manis dan lembut, memasukkannya ke dalam kulkas saat masih mentah, dan berakhir dengan kulit yang menghitam serta daging yang keras dan hambar? 🥭\n\nMangga adalah buah klimakterik klasik, yang berarti buah ini terus matang dan memancarkan gas etilen bahkan setelah dipanen. Karena ini adalah buah tropis, memaparkannya pada suhu dingin sebelum benar-benar matang akan menghentikan proses pematangan secara permanen, menyebabkan cedera dingin (chilling injury) yang mengubah kulitnya menjadi cokelat keabu-abuan dan merusak rasanya selamanya.\n\nDalam panduan ini, memperkenalkan panduan penyimpanan 3 langkah yang terbukti secara ilmiah, yang direkomendasikan oleh pakar pertanian dan keamanan pangan untuk memaksimalkan rasa manis mangga Anda dan menjaga kesegarannya. 🛡️",
+        "whyTitle": "Mengapa Menyimpan Mangga Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan makanan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan dan Peringatan Penyimpanan Penting",
+        "cautions": [
+          {
+            "title": "Jangan pernah memasukkan mangga yang belum matang (keras) ke dalam kulkas ⚠️",
+            "desc": "Jika mangga ditempatkan dalam suhu dingin (di bawah 10°C) sebelum matang sepenuhnya, proses pematangan akan berhenti permanen. Mangga akan mengalami cedera dingin, yang mengakibatkan kulit berbintik hitam dan daging kenyal. Selalu matangkan pada suhu ruangan terlebih dahulu."
+          },
+          {
+            "title": "Untuk mempercepat pematangan, simpan di dalam kantong kertas bersama buah penghasil etilen 🍎",
+            "desc": "Menempatkan mangga dalam kantong kertas yang tertutup longgar bersama dengan pisang atau apel (yang secara alami memancarkan gas etilen tingkat tinggi) akan mempercepat proses pematangan secara aman hingga dua atau tiga kali lipat."
+          }
+        ],
+        "steps": [
+          {
+            "name": "[Sebelum Matang] Simpan di suhu ruangan yang sejuk (20-25°C) — Pematangan Alami (3-7 Hari) 🌡️",
+            "text": "Mangga perlahan mengembangkan rasa manisnya pada suhu ruangan. 💡 Tips Penyimpanan: Simpan di tempat yang berventilasi baik, jauh dari sinar matahari langsung, hingga kulitnya tampak mengilap, area batang berbau harum, dan buah sedikit empuk saat diremas lembut, seperti persik yang matang."
+          },
+          {
+            "name": "[Setelah Matang] Bungkus dengan tisu dapur dan simpan di dalam kantong di kulkas — Menunda Kematangan Berlebih (5-7 Hari) ❄️",
+            "text": "Setelah mangga matang sempurna, mangga harus didinginkan untuk memperlambat proses kematangan yang berlebihan. 💡 Tips Penyimpanan: Untuk mencegah hilangnya kelembapan dan melindungi kulit dari aliran udara dingin langsung, bungkus mangga dengan tisu dapur atau koran, segel di dalam kantong Ziploc, dan simpan di laci penyimpan sayuran (7-10°C)."
+          },
+          {
+            "name": "[Penyimpanan Jangka Panjang] Kupas, potong dadu, dan bekukan — Penyimpanan Beku (Hingga 6 Bulan) 🧊",
+            "text": "Untuk menyimpan mangga yang sudah matang sepenuhnya dalam jangka waktu lama, memisahkan dan membekukan daging buahnya adalah metode terbaik. 💡 Tips Penyimpanan: Kupas mangga, potong daging buahnya menjadi kubus kecil, ratakan di dalam kantong Ziploc atau wadah kedap udara, dan simpan di dalam freezer (-18°C atau di bawahnya)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mangga saya memiliki bintik-bintik hitam pada kulitnya. Apakah buahnya rusak?",
+            "answer": "Seperti pisang, mangga mengembangkan 'bintik gula' (bintik hitam) sebagai indikator alami bahwa buah tersebut telah mencapai tingkat kemanisan tertinggi dan matang sempurna. Namun, jika bintik-bintik tersebut disertai dengan bau asam, cairan yang merembes, atau sangat lembek, buah tersebut membusuk dan harus dibuang."
+          },
+          {
+            "question": "Bagaimana cara menyimpan mangga yang sudah dipotong?",
+            "answer": "Setelah dipotong, daging mangga akan teroksidasi dengan cepat saat bersentuhan dengan udara dan rentan terhadap pertumbuhan bakteri. Simpan segera dalam wadah kedap udara di kulkas dan konsumsi dalam waktu 1 hingga 2 hari. Taburan sedikit jus lemon dapat membantu mencegah agar buah tidak menjadi kecokelatan."
+          }
+        ]
+      }
     }
+  }
 }

@@ -1,459 +1,459 @@
 {
-    "mongolian-gerbil-care": {
-        "pubDate": "2026-05-24",
-        "updatedDate": "2026-05-24",
-        "locales": {
-            "ko": {
-                "title": "몽골리안 저빌의 행동 신호 해석과 꼬리 탈피(Degloving) 예방 및 3단계 데일리 케어",
-                "description": "사막의 파수꾼 몽골리안 저빌(Mongolian Gerbil). 뒷발 구르기(Foot Thumping) 신호 해석, 꼬리 손상 예방, 모래목욕 및 굴 파기 환경 조성을 위한 3단계 홈케어 루틴을 소개합니다.",
-                "authority": "국립 저빌 협회 (NGS) 및 미국 팬시 래트 및 마우스 협회 (AFRMA) 케어 프로토콜",
-                "profile": {
-                    "breed": "몽골리안 저빌 (Mongolian Gerbil / Meriones unguiculatus)",
-                    "lifespan": "3 ~ 4년 (올바른 케어 시 최대 5년)",
-                    "sleep_pattern": "다상성 수면 (주행성/박명성, 몇 시간 간격 활동 및 수면 주기)",
-                    "temperament": "사교적임, 호기심 많음, 무리 생활 본능, 쾌적함, 청결함"
-                },
-                "intro": "몽골과 중국 북부의 건조한 사막 및 초원 지역이 원산지인 몽골리안 저빌(Mongolian Gerbil)은 털이 덮인 길쭉한 꼬리와 귀여운 외모, 높은 호기심으로 전 세계에서 사랑받는 소형 설치류입니다. 저빌은 습기가 적은 사막 환경에 적응하여 대사량이 낮고 배설물 양이 적어 매우 위생적인 반려동물로 알려져 있습니다. 하지만 포식자의 공격을 피하기 위해 꼬리 피부가 쉽게 벗겨지는 '꼬리 탈피 손상(Tail Degloving)' 메커니즘을 가지고 있어 꼬리를 잡는 행위는 절대 금물입니다. 또한 강한 무리 생활 동물이므로 외롭게 사육 시 우울증과 스트레스성 발작(Seizures)을 일으키기 쉽고, 물목욕 대신 반드시 사막 모래목욕과 깊은 베딩(15~20cm)이 필요합니다. 이번 가이드에서는 몽골리안 저빌의 행동 신호를 정확히 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
-                "whyTitle": "몽골리안 저빌의 바디 랭귀지: 뒷발 구르기(Foot Thumping)와 상호 그루밍(Allogrooming)",
-                "whyDesc": "몽골리안 저빌은 뒷발의 진동 소리와 몸 접촉 행동으로 경계 및 깊은 유대감을 구별합니다. 뒷발로 바닥을 빠르게 강하게 내리치는 **'뒷발 구르기(Foot Thumping)'**는 주변 포식자나 위협 요소에 대해 동료와 보호자에게 전달하는 경고 및 경계 신호입니다. 반면 두 마리가 서로 웅크려 털을 다정하게 정리해 주는 **'상호 그루밍(Allogrooming)'**은 서열을 안정시키고 극도의 안도감을 느끼는 깊은 사회적 애정 표시입니다.",
-                "body_signals": [
-                    {
-                        "name": "뒷발로 바닥을 강하게 탁탁 소리 내며 굴림 (Foot Thumping)",
-                        "meaning": "위협 감지, 경계 상태, 흥분, 또는 무리 동료들에게 포식자 위험을 알리는 경고 신호입니다.",
-                        "response": "주변의 갑작스러운 소음이나 진동 원인을 제거하고 케이지를 가려주어 마음을 진정시킵니다."
-                    },
-                    {
-                        "name": "동료 저빌과 몸을 맞대고 서로의 털을 다정하게 빗겨줌 (Allogrooming)",
-                        "meaning": "무리 내부의 유대감을 강화하고 스트레스를 완화하는 저빌의 대표적인 사회적 친밀 신호입니다.",
-                        "response": "교감을 방해하지 않도록 조용히 두고, 무리 생활이 안정적으로 유지되고 있음을 확인합니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 저빌 전용 혼합 곡물·펠릿 급여 및 급수기 위생 점검",
-                        "text": "사막 동물 특성에 맞춰 과도한 해바라기씨를 배제한 저지방 혼합 모이를 제공하고, 물방울이 새지 않는 구슬 급수기를 점검합니다."
-                    },
-                    {
-                        "name": "낮: 굴 파기 본능 충족을 위한 깊은 베딩(15~20cm) 및 이갈이 목재 구조물 점검",
-                        "text": "무향 종이/아스펜 베딩을 충분히 깔아 터널 굴 파기를 유도하고, 끊임없이 자라는 이빨 관리를 위해 안전한 이갈이 우드 장난감을 제공합니다."
-                    },
-                    {
-                        "name": "저녁: 사막 모래목욕탕 청결 관리 및 무리 동료와의 소통 상태 점검",
-                        "text": "피지 제거와 피모 청결을 위해 전용 사막 모래 목욕탕을 제공하고 오염된 모래를 체로 쳐 청소하며, 야간 안정 환경을 만듭니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "저빌의 꼬리를 잡으면 왜 피부가 벗겨지나요(Tail Degloving)?",
-                        "answer": "저빌은 야생에서 뱀이나 맹금류에게 꼬리를 잡혔을 때 꼬리 껍질을 벗겨내고 탈출하는 방어 메커니즘을 지니고 있습니다. 사람 손으로 꼬리를 잡거나 끌어당기면 꼬리 피부 전체가 껍질처럼 벗겨지는 '디글로빙(Degloving)' 손상이 발생하여 근육과 뼈가 노출되고, 결국 꼬리를 절단해야 하는 중상을 입게 됩니다. 저빌을 들어 올릴 때는 반드시 두 손으로 몸 전체를 감싸 쥐어야 합니다."
-                    },
-                    {
-                        "question": "저빌에게 물목욕을 시키면 왜 위험하며, 한 마리만 외롭게 키워도 되나요?",
-                        "answer": "저빌은 사막 환경 출신으로 털이 젖으면 잘 마르지 않아 급격한 체온 저하로 인한 저체온증과 폐렴으로 사망할 수 있어 물목욕은 절대 금물입니다. 대신 햄스터/저빌 전용 사막모래를 사용해야 합니다. 또한 저빌은 지극히 사회적인 동물로 혼자 키우면 외로움과 우울증, 자해 행동을 보이므로 반드시 동성 2마리 이상 함께 사육해야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Mongolian Gerbil Behavioral Signals and 3-Step Daily Routine for Tail Degloving Injury and Respiratory Care",
-                "description": "Care guide for the curious Mongolian Gerbil. Interpret foot thumping and allogrooming signals, prevent tail degloving injuries, provide sand baths and deep burrowing in 3 steps.",
-                "authority": "National Gerbil Society (NGS) & American Fancy Rat and Mouse Association (AFRMA) Care Standards",
-                "profile": {
-                    "breed": "Mongolian Gerbil (Meriones unguiculatus)",
-                    "lifespan": "3 - 4 Years (Up to 5 years with optimal care)",
-                    "sleep_pattern": "Polyphasic (Diurnal/Crepuscular, multiple activity and rest cycles day and night)",
-                    "temperament": "Social, Highly Curious, Colony-Oriented, Clean, Gentle"
-                },
-                "intro": "Native to the arid deserts and steppes of Mongolia and Northern China, the Mongolian Gerbil (Meriones unguiculatus) is a cherished pet rodent famed for its furred tail, energetic curiosity, and clean habits. Adapted to desert environments, gerbils produce minimal waste and odor, making them ideal companions. However, they possess a defensive escape mechanism where the skin sheath easily strips off if grasped—a severe trauma known as 'Tail Degloving.' Furthermore, as obligate social animals, housing a gerbil in isolation causes depression and stress seizures. They require deep burrowing bedding (15–20 cm) and desert sand baths instead of water. In this guide, presents a 3-step daily care routine to decode your Mongolian Gerbil's body language and protect its health.",
-                "whyTitle": "Mongolian Gerbil Body Language: Foot Thumping and Allogrooming",
-                "whyDesc": "Mongolian Gerbils communicate alertness and social attachment through foot vibrations and mutual grooming. Rapidly drumming their hind feet against the floor **'Foot Thumping'** is a signature alert signal warning tank mates and owners of perceived danger or excitement. Conversely, huddling together and gently nibbling each other's fur **'Allogrooming'** is a primary affection display that reinforces social hierarchy, reduces stress, and conveys emotional safety.",
-                "body_signals": [
-                    {
-                        "name": "Rhythmically Drumming Hind Feet Hard Against the Floor (Foot Thumping)",
-                        "meaning": "Indicates perceived threat, high arousal, or a warning signal alerting clan members of potential danger.",
-                        "response": "Remove sudden noise or vibration sources immediately, covering part of the tank to provide calm reassurance."
-                    },
-                    {
-                        "name": "Huddling Together and Gently Nibbling a Companion's Fur (Allogrooming)",
-                        "meaning": "A key social affection display that reinforces bond stability, cleans hard-to-reach areas, and lowers anxiety.",
-                        "response": "Allow them uninterrupted social bonding, confirming that group harmony is well established."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Low-Fat Seed/Pellet Mix Feeding & Water Sipper Bottle Hygiene Check",
-                        "text": "Feed a balanced, low-fat desert rodent seed mix with minimal sunflower seeds, checking that metal ball water bottles operate smoothly."
-                    },
-                    {
-                        "name": "Afternoon: Deep Substrate Burrowing Check (15–20 cm) & Safe Wooden Chewing Toys",
-                        "text": "Provide deep unscented paper or Aspen bedding to encourage tunnel building, supplying safe wooden chews for continuously growing incisors."
-                    },
-                    {
-                        "name": "Evening: Desert Sand Bath Maintenance & Social Pair Activity Observation",
-                        "text": "Offer dedicated chinchilla/gerbil sand for oil removal and coat grooming, sifting out debris to maintain pristine bath hygiene."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why does a gerbil's tail skin peel off if held (Tail Degloving)?",
-                        "answer": "In the wild, gerbils escape predators by shedding the outer skin sheath of their tail. If a human grabs or pulls a gerbil by its tail, this defensive mechanism triggers, causing a painful 'Degloving Injury' where skin strips off, exposing bare muscle and bone. This usually requires surgical tail amputation. Always scoop up a gerbil gently using both hands beneath its body."
-                    },
-                    {
-                        "question": "Why are water baths dangerous for gerbils, and can I keep a single gerbil alone?",
-                        "answer": "Water baths are strictly forbidden because gerbil fur retains water, causing rapid hypothermia and fatal pneumonia. Always provide dedicated desert sand baths for hygiene. Furthermore, gerbils are obligate social animals; single gerbils suffer severe psychological depression, stress-induced seizures, and weakened immunity. They must be kept in same-sex bonded pairs or small groups."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "モンゴリアンジャービル（スナネズミ）の行動サイン解読と皮膚剥離（Tail Degloving）予防・砂浴びケアのための3ステップデイリールーティン",
-                "description": "好奇心旺盛で社会性の高いスナネズミ（モンゴリアンジャービル）。足ダンダン（Foot Thumping）や毛づくろいサインの解読、尾の事故防止、砂浴び・穴掘り環境のための3ステップホームケアを紹介します。",
-                "authority": "National Gerbil Society (NGS) ＆ AFRMA（全米ファンシーレート・マウス協会）飼育基準",
-                "profile": {
-                    "breed": "モンゴリアンジャービル / スナネズミ (Meriones unguiculatus)",
-                    "lifespan": "3 〜 4年 (適切なケアで最大5年)",
-                    "sleep_pattern": "多相性睡眠 (昼行性/薄明薄暮性、数時間おきの活動と睡眠)",
-                    "temperament": "社交的、好奇心旺盛、群れ行動本能、清潔、温和"
-                },
-                "intro": "モンゴルや中国北部の乾燥した砂漠・ステップ地帯が原産のスナネズミ（モンゴリアンジャービル / Meriones unguiculatus）は、毛に覆われた長い尾と愛くるしい姿、高い好奇心で世界中で親しまれている小型齧歯類です。砂漠環境に適応しているため匂いや排泄物が非常に少なく、衛生的なペットとして知られています。しかし、天敵から逃げるための防衛本能として尾の皮膚が簡単に抜け落ちる「尾の皮膚剥離事故（Tail Degloving）」を起こしやすいため、尾を掴む行為は絶対に厳禁です。また強い社会性を持つ群れ動物であるため、単頭飼育は鬱やストレス性発作（Seizures）を引き起こします。水浴びは厳禁で、さわやかなサ漠砂での砂浴びと深い床材（15〜20cm）が不可欠です。本記事では、スナネズミのサインを正確に解読し健康を守る3ステップルーティンをお届けします。",
-                "whyTitle": "スナネズミのボディランゲージ：足ダンダン(Foot Thumping)と相互毛づくろい(Allogrooming)",
-                "whyDesc": "スナネズミは後脚の足踏み振動と身体接触で警戒と親愛のサインを表現します。後脚で床を力強く叩く**「足ダンダン（Foot Thumping / スタンピング）」**は、周囲の脅威や興奮を仲間に知らせる緊急警戒シグナルです。一方、2匹で寄り添い合ってお互いの毛を優しく並べてあげる**「相互毛づくろい（Allogrooming）」**は、群れの絆を深め安心感を感じている最高の親愛表現です。",
-                "body_signals": [
-                    {
-                        "name": "後脚で床を強くダンダンと音を立てて叩く (Foot Thumping)",
-                        "meaning": "周囲の物音や振動に対する強い警戒、または仲間への危険警告シグナルです。",
-                        "response": "刺激の原因を取り除き、ケージの一部を布で覆って落ち着かせましょう。"
-                    },
-                    {
-                        "name": "同居個体と体を寄せ合い、お互いの毛を優しく舐めて整える (Allogrooming)",
-                        "meaning": "群れの絆を強化し、ストレスを軽減するスナネズミの代表的な社会性親愛サインです。",
-                        "response": "邪魔をせず静かに見守り、良好な群れ関係が維持されていることを確認します。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：スナネズミ用低脂質ペレット・シード給餌と給水器点検",
-                        "text": "肥満を防ぐためひまわりの種を控えたバランスフードを与え、水漏れのないボトル式給水器を点検します。"
-                    },
-                    {
-                        "name": "昼：穴掘り本能を満たす深い床材（15〜20cm）とかじり木構造物の確認",
-                        "text": "無香料のペーパーやアスペン床材を深めに敷き詰めてトンネル作りを行わせ、伸び続ける前歯のために安全なかじり木を用意します。"
-                    },
-                    {
-                        "name": "夜：専用砂浴び容器の清潔管理と同居個体とのコミュニケーション観察",
-                        "text": "被毛の余分な皮脂を取り除くため砂浴び容器を用意し、汚れを取り除いて夜間の静かな環境を整えます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "スナネズミの尻尾を掴むとどうして皮が剥けてしまうのですか（Tail Degloving）？",
-                        "answer": "スナネズミは野生下でヘビや猛禽類に尾を掴まれた際、尾の皮膚を鞘のように脱ぎ捨てて逃げる自衛メカニズムを持っています。人が尾を強く掴んだり引っ張ったりすると、皮膚全体が剥がれ落ちる「ディグロービング（Degloving）」事故が発生し、骨や筋肉が露出して断尾手術が必要になります。持ち上げる時は必ず両手で体を下から包み込むように抱き上げてください。"
-                    },
-                    {
-                        "question": "スナネズミに水浴びをさせてはいけない理由と、1匹だけで飼育してはいけない理由は？",
-                        "answer": "乾燥地帯原産のため毛が濡れると乾きにくく、急激な体温低下による低体温症や肺炎で死亡するため水浴びは絶対厳禁です。お手入れには必ず小動物用の浴び砂を使用してください。また、スナネズミは非常に高い社会性を持つため、1匹だけの単頭飼育は重度の鬱やストレス性発作を引き起こします。必ず同性のペアまたはグループで飼育してください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "蒙古沙鼠（长爪沙鼠）行为信号解读与尾部脱皮伤 (Tail Degloving) 预防及沙浴护理的 3 步日常流程",
-                "description": "富有好奇心与强群居性的蒙古沙鼠（Mongolian Gerbil）。解读剁脚（Foot Thumping）与互相梳理信号，预防尾部皮肤脱落受损，提供深层打洞与沙浴的 3 步骤家庭护理。",
-                "authority": "英国国家沙鼠协会 (NGS) 与美国花色大鼠与小鼠协会 (AFRMA) 护理标准",
-                "profile": {
-                    "breed": "蒙古沙鼠 / 长爪沙鼠 (Mongolian Gerbil / Meriones unguiculatus)",
-                    "lifespan": "3 ~ 4年 (科学喂养可达5年)",
-                    "sleep_pattern": "多相性睡眠 (昼行性/薄暮性，昼夜交替间歇性活动)",
-                    "temperament": "极喜群居、好奇心极强、干净卫生、温和"
-                },
-                "intro": "原产于蒙古及中国北部干燥沙漠与草原地带的蒙古沙鼠（俗称“长爪沙鼠”），凭其被毛覆盖的长尾巴、萌态可掬的外表与旺盛的好奇心而深受全球小宠爱好者喜爱。沙鼠适应干旱环境，代谢率低且几乎没有异味，是非常干净的宠物。然而，为了在野外逃避捕食者，它们进化出了“尾部脱皮脱落（Tail Degloving）”的自卫机制，因此绝对严禁拎抓其尾巴。此外，沙鼠是严格的社群动物，单只独居极易诱发抑郁症与应激性癫痫发作（Seizures），且严禁水洗，必须提供专用浴沙与深层垫料（15~20厘米）。本指南将带您准确解读沙鼠肢体语言，并通过 3 步骤日常护理维护其健康。",
-                "whyTitle": "沙鼠肢体语言：强力剁脚 (Foot Thumping) 与互相梳理 (Allogrooming)",
-                "whyDesc": "沙鼠通过后肢剁脚震动与身体接触清晰表达领地警戒与社群亲密。用后腿快速重重敲击垫料**“强力剁脚 (Foot Thumping)”**，是向同伴和主人发出的警报与高度警戒信号。相反，两只沙鼠依偎在一起温柔地互相理毛**“互相梳理 (Allogrooming)”**，则是巩固社群等级、缓解压力并表达深度信任的代表性爱意行为。",
-                "body_signals": [
-                    {
-                        "name": "用后腿用力连续敲击垫料发出嗒嗒声 (Foot Thumping)",
-                        "meaning": "感知到潜在威胁、高度紧张、兴奋，或向族群同伴发出敌情警报。",
-                        "response": "消除附近的突发噪音或震动源，遮挡部分笼舍使其恢复安全感。"
-                    },
-                    {
-                        "name": "两只沙鼠依偎在一起，温柔地用牙齿理梳对方被毛 (Allogrooming)",
-                        "meaning": "表达社群内部极度信任、巩固亲密关系与降低焦虑的社会性爱意信号。",
-                        "response": "保持环境安静切勿惊扰，确认社群合笼关系稳定和谐。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：投喂低脂谷物杂粮/滋养丸与检查水壶卫生",
-                        "text": "顺应沙漠鼠类生理，投喂控制葵花籽配比的低脂混合粮，并检查滚珠水壶出水顺畅无渗漏。"
-                    },
-                    {
-                        "name": "中午：铺设深层垫料 (15~20厘米) 满足打洞天性与磨牙木质设施检查",
-                        "text": "铺设厚层无香纸垫料或杨木（Aspen）垫料供其挖掘复杂地道，并提供安全磨牙木块以防门齿过长。"
-                    },
-                    {
-                        "name": "晚上：沙漠浴沙清洁维护与社群伙伴互动状态观察",
-                        "text": "提供专用洗澡沙以吸附皮脂保持毛发干爽，筛除脏沙并创造夜间安静栖息环境。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "为什么抓拎沙鼠的尾巴会导致尾巴皮肉撕脱受损 (Tail Degloving)？",
-                        "answer": "沙鼠在野外被捕食者咬住尾巴时，其尾部皮肤会像套鞘一样瞬间脱落以便脱身。如果人类用手拎抓或拉扯沙鼠尾巴，极易触发该机制，导致尾部皮肤大面积撕脱（Degloving），暴露肌肉与骨骼，最终往往不得不截尾。抓取沙鼠时必须用双手从底部托住其整个身体。"
-                    },
-                    {
-                        "question": "为什么绝对不能给沙鼠水洗？可以只养一只沙鼠吗？",
-                        "answer": "沙鼠源自干旱沙漠，被毛沾水后难以干透，极易引发严重失温与致死性肺炎，因此绝对禁止水洗，必须使用专用沙漠浴沙。此外，沙鼠是强社群性动物，单只独居会导致剧烈的心理抑郁、免疫力崩溃及应激性发作，必须同性成对或成群饲养。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Señales de conducta en el Gerbo de Mongolia y rutina diaria de 3 pasos para la prevención de la mutilación de cola (Tail Degloving) y cuidado en baño de arena",
-                "description": "Guía de cuidado para el curioso Gerbo de Mongolia (Mongolian Gerbil). Interprete el zapateo y el acicalamiento mutuo, prevenga lesiones graves en la cola y cuide su higiene con baños de arena en 3 pasos.",
-                "authority": "National Gerbil Society (NGS) y Normas de la American Fancy Rat and Mouse Association (AFRMA)",
-                "profile": {
-                    "breed": "Gerbo de Mongolia (Mongolian Gerbil / Meriones unguiculatus)",
-                    "lifespan": "3 ~ 4 años (Hasta 5 años con cuidados óptimos)",
-                    "sleep_pattern": "Polifásico (Diurno/Crepuscular, múltiples ciclos de actividad y descanso)",
-                    "temperament": "Social, Muy curioso, Gregario, Muy limpio, Dócil"
-                },
-                "intro": "Originario de los desiertos y estepas áridas de Mongolia y el norte de China, el Gerbo de Mongolia (Meriones unguiculatus) es un roedor muy querido por su cola cubierta de pelo, su inagotable curiosidad y sus hábitos limpios. Adaptados al desierto, producen muy pocos deshechos y olores. Sin embargo, poseen un mecanismo de escape defensivo mediante el cual la piel de la cola se desprende fácilmente si se la sujeta, una lesión traumática conocida como 'Tail Degloving'. Además, al ser animales gregarios obligatorios, la soledad les causa depresión severa y convulsiones por estrés. Requieren sustrato profundo para excavar (15–20 cm) y baños de arena en lugar de agua. En esta guía, presenta una rutina de 3 pasos para cuidar su salud.",
-                "whyTitle": "Lenguaje corporal del Gerbo de Mongolia: Zapateo (Foot Thumping) y acicalamiento mutuo (Allogrooming)",
-                "whyDesc": "Los Gerbos de Mongolia comunican alerta y afecto social mediante rítmicos golpeteos de patas y acicalamiento. Golpear con fuerza el suelo con sus patas traseras **'Zapateo (Foot Thumping)'** es una señal de alarma característica para advertir a la manada de algún peligro. En cambio, acurrucarse juntos y limpiarse el pelaje mutuamente **'Acicalamiento mutuo (Allogrooming)'** es una muestra de afecto que refuerza la jerarquía y reduce el estrés.",
-                "body_signals": [
-                    {
-                        "name": "Golpear el suelo rítmicamente con las patas traseras (Foot Thumping)",
-                        "meaning": "Indica alerta por amenaza percibida, excitación intensa o señal de advertencia para sus compañeros.",
-                        "response": "Elimine ruidos o vibraciones repentinas y cubra parte del terrario para devolverles la tranquilidad."
-                    },
-                    {
-                        "name": "Acurrucarse juntos y mordisquear suavemente el pelo del compañero (Allogrooming)",
-                        "meaning": "Muestra de afecto social clave que fortalece la convivencia, limpia zonas difíciles y reduce la ansiedad.",
-                        "response": "Permita la interacción sin interrupciones, confirmando que la armonía del grupo está consolidada."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Alimentación variada baja en grasa y revisión del bebedero de bola",
-                        "text": "Ofrezca mezclas de semillas bajas en grasa reduciendo las pipas de girasol y compruebe que el bebedero de bola funcione sin fugas."
-                    },
-                    {
-                        "name": "Tarde: Sustrato profundo para excavación (15–20 cm) y madera segura para roer",
-                        "text": "Añada abundante papel sin perfume o sustrato de álamo (Aspen) para que túneles estables y suministre maderas seguras para sus incisivos."
-                    },
-                    {
-                        "name": "Noche: Limpieza del baño de arena del desierto y observación de la pareja",
-                        "text": "Proporcione arena especial para chinchillas/gerbos para eliminar la grasa del manto, tamizando la arena sucia diariamente."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué se desgarra la piel de la cola del gerbo si se le agarra por ella (Tail Degloving)?",
-                        "answer": "En la naturaleza, los gerbos escapan de los depredadores soltando la vaina de piel de la cola. Si un humano los agarra o tira de la cola, se activa este mecanismo causando un desollamiento grave ('Degloving') que expone músculo y hueso, requiriendo casi siempre la amputación quirúrgica. Tome siempre al gerbo ahuecando ambas manos bajo su cuerpo."
-                    },
-                    {
-                        "question": "¿Por qué los baños de agua son peligrosos y por qué no se debe tener un gerbo solo?",
-                        "answer": "Los baños de agua están prohibidos porque el pelo del gerbo retiene la humedad, provocando hipotermia y neumonía letal; use siempre arena de desierto. Además, los gerbos son animales gregarios obligatorios; un gerbo en soledad padece depresión severa, convulsiones inducidas por estrés y baja inmunidad. Deben vivir en parejas o grupos del mismo sexo."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Signaux comportementaux de la Gerbille de Mongolie et routine quotidienne en 3 étapes pour la prévention du dépouillement de la queue (Tail Degloving) et le bain de sable",
-                "description": "Guide de soins pour la curieuse Gerbille de Mongolie. Décryptez le tapotement de pattes et le toilettage mutuel, prévenez les blessures de la queue et proposez des bains de sable en 3 étapes.",
-                "authority": "National Gerbil Society (NGS) & Normes de l'American Fancy Rat and Mouse Association (AFRMA)",
-                "profile": {
-                    "breed": "Gerbille de Mongolie (Mongolian Gerbil / Meriones unguiculatus)",
-                    "lifespan": "12 ~ 15 ans",
-                    "sleep_pattern": "Polyphasique (Diurne/Crépusculaire, alternance de phases d'activité et de repos)",
-                    "temperament": "Sociale, Très curieuse, Grégaire, Très propre, Douce"
-                },
-                "intro": "Originaire des déserts et steppes arides de Mongolie et du nord de la Chine, la Gerbille de Mongolie (Meriones unguiculatus) est un petit rongeur adoré pour sa queue fournie, sa curiosité vive et sa grande propreté. Adaptée au désert, elle produit très peu d'urine et d'odeurs. Toutefois, elle possède un mécanisme de défense où la peau de la queue se détache facilement si on la saisit : une blessure grave appelée 'Tail Degloving'. De plus, étant un animal strictement grégaire, la solitude provoque chez elle dépression et crises d'épilepsie de stress. Elle nécessite de la litière profonde (15–20 cm) pour creuser et des bains de sable à la place de l'eau. Dans ce guide, vous présente une routine en 3 étapes pour préserver sa santé.",
-                "whyTitle": "Langage corporel de la Gerbille de Mongolie : Tapotement de pattes (Foot Thumping) et toilettage mutuel (Allogrooming)",
-                "whyDesc": "La Gerbille exprime sa vigilance et son affection par des vibrations de pattes et le toilettage. Frapper le sol rapidement avec ses pattes arrière **« Tapotement de pattes (Foot Thumping) »** est un signal d'alarme pour avertir le groupe d'un danger. À l'inverse, se blottir à deux et mordiller doucement le pelage de l'autre **« Toilettage mutuel (Allogrooming) »** est une preuve d'affection qui renforce les liens du groupe et apaise le stress.",
-                "body_signals": [
-                    {
-                        "name": "Frapper le sol avec force et rythme avec les pattes arrière (Foot Thumping)",
-                        "meaning": "Indique un danger perçu, une grande excitation ou un signal d'alerte destiné à ses congénères.",
-                        "response": "Éliminez les bruits ou vibrations soudaines et couvrez une partie du terrarium pour la rassurer."
-                    },
-                    {
-                        "name": "Se blottir l'une contre l'autre et nettoyer délicatement le pelage du compagnon (Allogrooming)",
-                        "meaning": "Comportement d'affection sociale majeur renforçant l'harmonie du groupe et réduisant l'anxiété.",
-                        "response": "Laissez-les interagir paisiblement sans les déranger pour préserver leur complicité."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Alimentation pauvre en graisse & vérification du biberon d'eau",
-                        "text": "Donnez un mélange de graines équilibré pauvre en tournesol et vérifiez que la bille du biberon d'eau fonctionne sans fuite."
-                    },
-                    {
-                        "name": "Après-midi : Épaisse couche de litière pour creuser (15–20 cm) & bois à ronger sécurisé",
-                        "text": "Fournissez une épaisse couche de litière en papier non parfumé ou peuplier (Aspen) pour ses galeries, et du bois sain pour user ses incisives."
-                    },
-                    {
-                        "name": "Soir : Entretien du bain de sable du désert & observation du groupe",
-                        "text": "Proposez de la terre à bain (sable pour chinchilla/gerbille) pour dégraisser son pelage, en criblant le sable souillé chaque soir."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi la peau de la queue de la gerbille s'arrache-t-elle si on la saisit (Tail Degloving) ?",
-                        "answer": "Dans la nature, la gerbille échappe aux prédateurs en laissant la fourreau de peau de sa queue s'arracher. Si un humain attrape la gerbille par la queue, ce mécanisme s'enclenche, provoquant une blessure 'Degloving' où le muscle et l'os sont mis à nu, nécessitant souvent une amputation. Prenez toujours la gerbille à deux mains en coupe sous son corps."
-                    },
-                    {
-                        "question": "Pourquoi le bain d'eau est-il dangereux et pourquoi faut-il éviter d'élever une gerbille seule ?",
-                        "answer": "Les bains d'eau sont interdits car le pelage de la gerbille retient l'eau, entraînant une hypothermie rapide et une pneumonie mortelle ; utilisez uniquement de la terre à bain. De plus, les gerbilles sont obligatoirement sociales : une gerbille seule souffre de dépression sévère et de crises de spasmes de stress. Élevez-les toujours en duos ou groupes du même sexe."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Verhaltenssignale der Mongolischen Rennmaus und 3-Schritte-Tagesroutine für Schwanz-Degloving-Schutz und Sandbad-Pflege",
-                "description": "Pflegeanleitung für die neugierige Mongolische Rennmaus (Mongolian Gerbil). Trommeln mit den Hinterbeinen und Gegenseitiges Putzen verstehen, Schwanzverletzungen vermeiden und Sandbäder in 3 Schritten bereitstellen.",
-                "authority": "National Gerbil Society (NGS) & Standards der American Fancy Rat and Mouse Association (AFRMA)",
-                "profile": {
-                    "breed": "Mongolische Rennmaus (Mongolian Gerbil / Meriones unguiculatus)",
-                    "lifespan": "3 ~ 4 Jahre (Bei optimaler Haltung bis zu 5 Jahre)",
-                    "sleep_pattern": "Polyphasisch (Tag-/Dämmerungsaktiv, mehrere Aktivitäts- und Ruhephasen)",
-                    "temperament": "Gesellig, Sehr neugierig, Rudelorientiert, Sehr reinlich, Sanftmütig"
-                },
-                "intro": "Aus den trockenen Wüsten und Steppen der Mongolei und Nordchinas stammend, ist die Mongolische Rennmaus (Meriones unguiculatus) wegen ihres behaarten Schwanzes, ihrer Neugier und ihrer Reinlichkeit ein beliebtes Heimtier. Als Wüstenbewohner produziert sie kaum Urin und Geruch. Sie besitzt jedoch einen Abwehrmechanismus, bei dem die Schwanzhaut bei Ergreifen leicht abreißt – eine schwere Verletzung, bekannt als 'Tail Degloving'. Da Rennmäuse strikte Rudeltiere sind, führt Einzelhaltung zu Depressionen und Stresskrampfanfällen. Sie benötigen ein tiefes Einstreubecken (15–20 cm) zum Graben und Sandbäder anstelle von Wasser. In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für die Gesundheit Ihrer Rennmaus.",
-                "whyTitle": "Körpersprache der Mongolischen Rennmaus: Trommeln mit den Hinterbeinen (Foot Thumping) und Gegenseitiges Putzen (Allogrooming)",
-                "whyDesc": "Rennmäuse drücken Wachsamkeit und soziale Bindung durch Beinvibrationen und Fellpflege aus. Das schnelle, kräftige Klopfen mit den Hinterbeinen auf den Boden **'Trommeln (Foot Thumping)'** ist ein klassisches Alarmsignal, um die Gruppe vor Gefahren zu warnen. Das gemeinsame Einkuscheln und sanfte Beknabbern des Fells **'Gegenseitiges Putzen (Allogrooming)'** ist dagegen ein Zeichen von tiefem Vertrauen und Gruppenzusammenhalt.",
-                "body_signals": [
-                    {
-                        "name": "Kräftiges, rhythmisches Trommeln mit den Hinterbeinen auf den Boden (Foot Thumping)",
-                        "meaning": "Signalisiert Gefahr, Anspannung oder einen Warnruf an die Gruppe bei unruhiger Umgebung.",
-                        "response": "Beseitigen Sie plötzliche Geräusche oder Vibrationen und decken Sie einen Teil des Geheges ab."
-                    },
-                    {
-                        "name": "Enges Einkuscheln und sanftes Knabbern im Fell des Partnervogels/Tiers (Allogrooming)",
-                        "meaning": "Wichtiges soziales Zuneigungssignal, das Bindungen stärkt und Stress abbaut.",
-                        "response": "Lassen Sie die Tiere ungestört interagieren, um die Harmonie der Gruppe zu sichern."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Fettarme Körnermischung füttern & Tränke auf Dichtigkeit prüfen",
-                        "text": "Füttern Sie ausgewogenes Rennmausfutter mit wenigen Sonnenblumenkernen und prüfen Sie die Tränke auf einwandfreie Funktion."
-                    },
-                    {
-                        "name": "Mittag: Hohe Einstreuschicht (15–20 cm) zum Tunnelbau & Knabberholz bereitstellen",
-                        "text": "Bieten Sie reichlich unparfümierte Papier- oder Aspen-Einstreu für unterirdische Gänge und frische Knabberhölzer für die Zähne."
-                    },
-                    {
-                        "name": "Abend: Chinchillasandbad pflegen & Gruppenverhalten beobachten",
-                        "text": "Stellen Sie speziellen Chinchillasand zur Fellentfettung bereit und sieben Sie verschmutzten Sand täglich aus."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum reißt die Schwanzhaut der Rennmaus ab, wenn man sie dort festhält (Tail Degloving)?",
-                        "answer": "In der Natur entkommen Rennmäuse Fressfeinden, indem die äußere Hautschicht des Schwanzes leicht abreißt. Greift ein Mensch die Rennmaus am Schwanz, löst dies das 'Degloving' aus: Die Haut zieht sich ab und legt Muskeln und Knochen frei, was meist eine chirurgische Amputation erfordert. Greifen Sie Rennmäuse immer mit beiden Händen schaufelförmig unter dem Körper."
-                    },
-                    {
-                        "question": "Warum ist ein Wasserbad gefährlich und warum darf man Rennmäuse nicht alleine halten?",
-                        "answer": "Wasserbäder sind verboten, da das dichte Fell der Rennmaus die Nässe hält und dies zu tödlicher Unterkühlung und Lungenentzündung führt; nutzen Sie nur Chinchillasand. Rennmäuse sind zudem Rudeltiere: Einzelhaltung führt zu Depressionen, Stresskrämpfen und Immunsystemzusammenbruch. Halten Sie sie immer mindestens als gleichgeschlechtliches Paar."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Sinais comportamentais do Gerbil da Mongólia e rotina diária de 3 passos para prevenção de lesões na cauda (Tail Degloving) e cuidados com banho de areia",
-                "description": "Guia de cuidados para o curioso Gerbil da Mongólia (Esquilo da Mongólia). Interprete o batimento de patas e o acasalamento social, evite lesões na cauda e ofereça banhos de areia em 3 passos.",
-                "authority": "National Gerbil Society (NGS) & Padrões da American Fancy Rat and Mouse Association (AFRMA)",
-                "profile": {
-                    "breed": "Gerbil da Mongólia / Esquilo da Mongólia (Meriones unguiculatus)",
-                    "lifespan": "3 ~ 4 anos (Até 5 anos com cuidados adequados)",
-                    "sleep_pattern": "Polifásico (Diurno/Crepuscular, múltiplos ciclos de sono e atividade)",
-                    "temperament": "Social, Muito curioso, Gregário, Muito limpo, Dócil"
-                },
-                "intro": "Originário dos desertos e estepes áridas da Mongólia e norte da China, o Gerbil da Mongólia (Meriones unguiculatus) é um pequeno roedor amado por sua cauda peluda, curiosidade viva e hábitos extremamente limpos. Adaptados ao deserto, produzem poucos dejetos e odores. No entanto, possuem um mecanismo de defesa no qual a pele da cauda se solta facilmente quando puxada — uma lesão traumática conhecida como 'Tail Degloving'. Além disso, como são animais estritamente gregários, a solidão causa depressão grave e convulsões por estresse. Necessitam de forração profunda (15–20 cm) e banhos de areia em vez de água. Neste guia, apresenta uma rotina de 3 passos para cuidar da sua saúde.",
-                "whyTitle": "Linguagem corporal do Gerbil da Mongólia: Batimento de patas (Foot Thumping) e acasalamento social (Allogrooming)",
-                "whyDesc": "Os Gerbils da Mongólia comunicam alerta e afeto social através do batimento de patas e limpeza mútua. Bater energicamente as patas traseiras no chão **'Batimento de patas (Foot Thumping)'** é um sinal de alerta característico para avisar o grupo sobre potenciais perigos. Em contrapartida, aconchegar-se e limpar o pelo do companheiro **'Limpeza mútua (Allogrooming)'** é uma demonstração de afeto que fortalece os laços sociais e reduz o estresse.",
-                "body_signals": [
-                    {
-                        "name": "Bater as patas traseiras com força e ritmo no chão (Foot Thumping)",
-                        "meaning": "Indica alerta por ameaça percebida, excitação ou sinal de aviso para os membros da colônia.",
-                        "response": "Elimine ruídos ou vibrações repentinas e cubra parte do recinto para devolver a tranquilidade."
-                    },
-                    {
-                        "name": "Aconchegar-se junto e mordiscar suavemente o pelo do companheiro (Allogrooming)",
-                        "meaning": "Demonstração de afeto social chave que fortalece o vínculo do grupo e reduz a ansiedade.",
-                        "response": "Permita a interação sem interrupções para manter a harmonia do grupo."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Alimentação equilibrada baixa em gordura e checagem do bebedouro",
-                        "text": "Forneça mistura de sementes própria para gerbils com pouca semente de girassol e verifique se o bebedouro de esfera funciona perfeitamente."
-                    },
-                    {
-                        "name": "Tarde: Forração profunda para escavação (15–20 cm) e madeira segura para roer",
-                        "text": "Coloque bastante papel sem cheiro ou forração de Aspen para a construção de túneis, oferecendo madeira segura para desgastar os dentes."
-                    },
-                    {
-                        "name": "Noite: Manutenção do banho de areia do deserto e observação do grupo",
-                        "text": "Ofereça areia própria para chinchila/gerbil para remover a oleosidade do pelo, peneirando a areia suja diariamente."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Por que a pele da cauda do gerbil se solta ao ser segurada por ela (Tail Degloving)?",
-                        "answer": "Na natureza, os gerbils escapam de predadores soltando a bainha de pele da cauda. Se uma pessoa segura o gerbil pela cauda, esse mecanismo é disparado, causando a grave lesão 'Degloving', expondo músculo e osso e exigindo amputação cirúrgica. Pegue o gerbil sempre com as duas mãos em concha por baixo do corpo."
-                    },
-                    {
-                        "question": "Por que banhos de água são perigosos e por que não se deve criar um gerbil sozinho?",
-                        "answer": "Banhos de água são proibidos porque a pelagem do gerbil retém umidade, levando à hipotermia e pneumonia fatal; use apenas areia de deserto. Além disso, gerbils são animais sociais obrigatórios: um gerbil sozinho sofre de depressão profunda, convulsões por estresse e queda de imunidade. Mantenha-os sempre em duplas ou grupos do mesmo sexo."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Sinyal Perilaku Gerbil Mongolia (Mongolian Gerbil) dan Rutinitas Harian 3 Langkah Perawatan Pencegahan Cedera Ekor (Tail Degloving) serta Mandi Pasir",
-                "description": "Panduan perawatan hewan kecil menggemaskan Gerbil Mongolia (Mongolian Gerbil). Pahami hentakan kaki dan grooming sosial, cegah cedera terkelupasnya ekor, serta berikan mandi pasir dalam 3 langkah.",
-                "authority": "Standar Perawatan National Gerbil Society (NGS) & American Fancy Rat and Mouse Association (AFRMA)",
-                "profile": {
-                    "breed": "Gerbil Mongolia / Mongolian Gerbil (Meriones unguiculatus)",
-                    "lifespan": "3 ~ 4 tahun (Hingga 5 tahun dengan perawatan optimal)",
-                    "sleep_pattern": "Polifasik (Diurnal/Krepuskular, siklus aktif dan tidur singkat berulang sepanjang hari)",
-                    "temperament": "Sangat Sosial, Sangat Ingin Tahu, Berkelompok, Sangat Bersih, Lembut"
-                },
-                "intro": "Berasal dari gurun kering dan padang rumput di Mongolia serta Tiongkok Utara, Gerbil Mongolia (Meriones unguiculatus) adalah hewan pengerat kecil yang sangat dicintai karena ekornya yang berbulu, rasa ingin tahunya yang tinggi, dan kebiasaannya yang sangat bersih. Beradaptasi dengan lingkungan gurun, gerbil menghasilkan sedikit kotoran dan tidak berbau. Namun, mereka memiliki mekanisme pertahanan diri di mana kulit ekornya dapat terkelupas dengan mudah jika ditarik—cedera trauma berat yang dikenal sebagai 'Tail Degloving'. Selain itu, sebagai hewan sosial sejati, memelihara gerbil sendirian dapat menyebabkan depresi dan kejang stres. Mereka membutuhkan alas kandang tebal (15–20 cm) untuk menggali serta mandi pasir alih-alih air. Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk merawat kesehatan Gerbil Mongolia Anda.",
-                "whyTitle": "Bahasa Tubuh Gerbil Mongolia: Hentakan Kaki (Foot Thumping) dan Grooming Bersama (Allogrooming)",
-                "whyDesc": "Gerbil Mongolia menyampaikan kewaspadaan dan ikatan sosial melalui getaran kaki dan grooming bersama. Menghentakkan kaki belakang secara kuat ke lantai kandang **'Hentakan Kaki (Foot Thumping)'** adalah sinyal bahaya khas untuk memperingatkan kelompoknya. Sebaliknya, meringkuk bersama dan saling membersihkan bulu **'Grooming Bersama (Allogrooming)'** adalah ungkapan kasih sayang yang memperkuat hirarki sosial dan meredakan stres.",
-                "body_signals": [
-                    {
-                        "name": "Menghentakkan Kaki Belakang secara Kuat dan Ritmis ke Lantai (Foot Thumping)",
-                        "meaning": "Sinyal kewaspadaan akibat ancaman, rasa cemas, atau peringatan bahaya kepada anggota kelompoknya.",
-                        "response": "Hentikan suara atau getaran mendadak di sekitar kandang dan tutup sebagian kandang agar gerbil tenang."
-                    },
-                    {
-                        "name": "Meringkuk Bersama dan Saling Membersihkan Bulu Pasangannya (Allogrooming)",
-                        "meaning": "Tanda kasih sayang sosial utama yang mempererat ikatan kelompok dan mengurangi rasa cemas.",
-                        "response": "Biarkan mereka berinteraksi tanpa gangguan untuk menjaga keharmonisan kelompok."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Pakan Biji-bijian/Pelet Rendah Lemak & Pemeriksaan Kebersihan Botol Minum",
-                        "text": "Berikan pakan biji-bijian khusus gerbil rendah lemak (batasi kuaci) dan pastikan botol minum kelereng berfungsi dengan baik."
-                    },
-                    {
-                        "name": "Siang: Alas Kandang Tebal untuk Menggali (15–20 cm) & Mainan Kayu Gigit Aman",
-                        "text": "Sediakan alas kertas tanpa pewangi atau kayu Aspen yang tebal untuk menyalurkan insting menggali terowongan, serta kayu gogok gigitan."
-                    },
-                    {
-                        "name": "Malam: Perawatan Wadah Mandi Pasir Gurun & Pengamatan Aktivitas Pasangan",
-                        "text": "Sediakan pasir khusus chinchilla/gerbil untuk membersihkan minyak bulu, dan ayel pasir kotor setiap hari."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa kulit ekor gerbil bisa terkelupas jika dipegang ekornya (Tail Degloving)?",
-                        "answer": "Di alam liar, gerbil meloloskan diri dari pemangsa dengan cara melepaskan lapisan kulit luar ekornya. Jika manusia memegang atau menarik ekor gerbil, mekanisme ini akan terpicu sehingga menyebabkan cedera parah 'Degloving' di mana otot dan tulang ekor terbuka hingga memerlukan amputasi medis. Selalu angkat gerbil dengan menyaukkan kedua tangan di bawah tubuhnya."
-                    },
-                    {
-                        "question": "Mengapa mandi air sangat berbahaya bagi gerbil dan bolehkah memelihara satu ekor gerbil saja?",
-                        "answer": "Mandi air sangat dilarang karena bulu gerbil menahan air sehingga memicu hipotermia cepat dan pneumonia mematikan; gunakan selalu pasir khusus gurun. Selain itu, gerbil adalah hewan sosial wajib. Gerbil yang dipelihara sendirian akan menderita depresi berat, kejang stres, dan penurunan imunitas. Selalu pelihara berpasangan sesama jenis atau kelompok."
-                    }
-                ]
-            }
+  "mongolian-gerbil-care": {
+    "pubDate": "2026-05-24",
+    "updatedDate": "2026-05-24",
+    "locales": {
+      "ko": {
+        "title": "몽골리안 저빌의 행동 신호 해석과 꼬리 탈피(Degloving) 예방 및 3단계 데일리 케어",
+        "description": "사막의 파수꾼 몽골리안 저빌(Mongolian Gerbil). 뒷발 구르기(Foot Thumping) 신호 해석, 꼬리 손상 예방, 모래목욕 및 굴 파기 환경 조성을 위한 3단계 홈케어 루틴을 소개합니다.",
+        "authority": "국립 저빌 협회 (NGS) 및 미국 팬시 래트 및 마우스 협회 (AFRMA) 케어 프로토콜",
+        "profile": {
+          "breed": "몽골리안 저빌 (Mongolian Gerbil / Meriones unguiculatus)",
+          "lifespan": "3 ~ 4년 (올바른 케어 시 최대 5년)",
+          "sleep_pattern": "다상성 수면 (주행성/박명성, 몇 시간 간격 활동 및 수면 주기)",
+          "temperament": "사교적임, 호기심 많음, 무리 생활 본능, 쾌적함, 청결함"
         },
-        "heroImage": "/images/blog/mongolian_gerbil_care.webp"
-    }
+        "intro": "몽골과 중국 북부의 건조한 사막 및 초원 지역이 원산지인 몽골리안 저빌(Mongolian Gerbil)은 털이 덮인 길쭉한 꼬리와 귀여운 외모, 높은 호기심으로 전 세계에서 사랑받는 소형 설치류입니다. 저빌은 습기가 적은 사막 환경에 적응하여 대사량이 낮고 배설물 양이 적어 매우 위생적인 반려동물로 알려져 있습니다. 하지만 포식자의 공격을 피하기 위해 꼬리 피부가 쉽게 벗겨지는 '꼬리 탈피 손상(Tail Degloving)' 메커니즘을 가지고 있어 꼬리를 잡는 행위는 절대 금물입니다. 또한 강한 무리 생활 동물이므로 외롭게 사육 시 우울증과 스트레스성 발작(Seizures)을 일으키기 쉽고, 물목욕 대신 반드시 사막 모래목욕과 깊은 베딩(15~20cm)이 필요합니다. 이번 가이드에서는 몽골리안 저빌의 행동 신호를 정확히 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
+        "whyTitle": "몽골리안 저빌의 바디 랭귀지: 뒷발 구르기(Foot Thumping)와 상호 그루밍(Allogrooming)",
+        "whyDesc": "몽골리안 저빌은 뒷발의 진동 소리와 몸 접촉 행동으로 경계 및 깊은 유대감을 구별합니다. 뒷발로 바닥을 빠르게 강하게 내리치는 **'뒷발 구르기(Foot Thumping)'**는 주변 포식자나 위협 요소에 대해 동료와 보호자에게 전달하는 경고 및 경계 신호입니다. 반면 두 마리가 서로 웅크려 털을 다정하게 정리해 주는 **'상호 그루밍(Allogrooming)'**은 서열을 안정시키고 극도의 안도감을 느끼는 깊은 사회적 애정 표시입니다.",
+        "body_signals": [
+          {
+            "name": "뒷발로 바닥을 강하게 탁탁 소리 내며 굴림 (Foot Thumping)",
+            "meaning": "위협 감지, 경계 상태, 흥분, 또는 무리 동료들에게 포식자 위험을 알리는 경고 신호입니다.",
+            "response": "주변의 갑작스러운 소음이나 진동 원인을 제거하고 케이지를 가려주어 마음을 진정시킵니다."
+          },
+          {
+            "name": "동료 저빌과 몸을 맞대고 서로의 털을 다정하게 빗겨줌 (Allogrooming)",
+            "meaning": "무리 내부의 유대감을 강화하고 스트레스를 완화하는 저빌의 대표적인 사회적 친밀 신호입니다.",
+            "response": "교감을 방해하지 않도록 조용히 두고, 무리 생활이 안정적으로 유지되고 있음을 확인합니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 저빌 전용 혼합 곡물·펠릿 급여 및 급수기 위생 점검",
+            "text": "사막 동물 특성에 맞춰 과도한 해바라기씨를 배제한 저지방 혼합 모이를 제공하고, 물방울이 새지 않는 구슬 급수기를 점검합니다."
+          },
+          {
+            "name": "낮: 굴 파기 본능 충족을 위한 깊은 베딩(15~20cm) 및 이갈이 목재 구조물 점검",
+            "text": "무향 종이/아스펜 베딩을 충분히 깔아 터널 굴 파기를 유도하고, 끊임없이 자라는 이빨 관리를 위해 안전한 이갈이 우드 장난감을 제공합니다."
+          },
+          {
+            "name": "저녁: 사막 모래목욕탕 청결 관리 및 무리 동료와의 소통 상태 점검",
+            "text": "피지 제거와 피모 청결을 위해 전용 사막 모래 목욕탕을 제공하고 오염된 모래를 체로 쳐 청소하며, 야간 안정 환경을 만듭니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "저빌의 꼬리를 잡으면 왜 피부가 벗겨지나요(Tail Degloving)?",
+            "answer": "저빌은 야생에서 뱀이나 맹금류에게 꼬리를 잡혔을 때 꼬리 껍질을 벗겨내고 탈출하는 방어 메커니즘을 지니고 있습니다. 사람 손으로 꼬리를 잡거나 끌어당기면 꼬리 피부 전체가 껍질처럼 벗겨지는 '디글로빙(Degloving)' 손상이 발생하여 근육과 뼈가 노출되고, 결국 꼬리를 절단해야 하는 중상을 입게 됩니다. 저빌을 들어 올릴 때는 반드시 두 손으로 몸 전체를 감싸 쥐어야 합니다."
+          },
+          {
+            "question": "저빌에게 물목욕을 시키면 왜 위험하며, 한 마리만 외롭게 키워도 되나요?",
+            "answer": "저빌은 사막 환경 출신으로 털이 젖으면 잘 마르지 않아 급격한 체온 저하로 인한 저체온증과 폐렴으로 사망할 수 있어 물목욕은 절대 금물입니다. 대신 햄스터/저빌 전용 사막모래를 사용해야 합니다. 또한 저빌은 지극히 사회적인 동물로 혼자 키우면 외로움과 우울증, 자해 행동을 보이므로 반드시 동성 2마리 이상 함께 사육해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Mongolian Gerbil Behavioral Signals and 3-Step Daily Routine for Tail Degloving Injury and Respiratory Care",
+        "description": "Care guide for the curious Mongolian Gerbil. Interpret foot thumping and allogrooming signals, prevent tail degloving injuries, provide sand baths and deep burrowing in 3 steps.",
+        "authority": "National Gerbil Society (NGS) & American Fancy Rat and Mouse Association (AFRMA) Care Standards",
+        "profile": {
+          "breed": "Mongolian Gerbil (Meriones unguiculatus)",
+          "lifespan": "3 - 4 Years (Up to 5 years with optimal care)",
+          "sleep_pattern": "Polyphasic (Diurnal/Crepuscular, multiple activity and rest cycles day and night)",
+          "temperament": "Social, Highly Curious, Colony-Oriented, Clean, Gentle"
+        },
+        "intro": "Native to the arid deserts and steppes of Mongolia and Northern China, the Mongolian Gerbil (Meriones unguiculatus) is a cherished pet rodent famed for its furred tail, energetic curiosity, and clean habits. Adapted to desert environments, gerbils produce minimal waste and odor, making them ideal companions. However, they possess a defensive escape mechanism where the skin sheath easily strips off if grasped—a severe trauma known as 'Tail Degloving.' Furthermore, as obligate social animals, housing a gerbil in isolation causes depression and stress seizures. They require deep burrowing bedding (15–20 cm) and desert sand baths instead of water. In this guide, presents a 3-step daily care routine to decode your Mongolian Gerbil's body language and protect its health.",
+        "whyTitle": "Mongolian Gerbil Body Language: Foot Thumping and Allogrooming",
+        "whyDesc": "Mongolian Gerbils communicate alertness and social attachment through foot vibrations and mutual grooming. Rapidly drumming their hind feet against the floor **'Foot Thumping'** is a signature alert signal warning tank mates and owners of perceived danger or excitement. Conversely, huddling together and gently nibbling each other's fur **'Allogrooming'** is a primary affection display that reinforces social hierarchy, reduces stress, and conveys emotional safety.",
+        "body_signals": [
+          {
+            "name": "Rhythmically Drumming Hind Feet Hard Against the Floor (Foot Thumping)",
+            "meaning": "Indicates perceived threat, high arousal, or a warning signal alerting clan members of potential danger.",
+            "response": "Remove sudden noise or vibration sources immediately, covering part of the tank to provide calm reassurance."
+          },
+          {
+            "name": "Huddling Together and Gently Nibbling a Companion's Fur (Allogrooming)",
+            "meaning": "A key social affection display that reinforces bond stability, cleans hard-to-reach areas, and lowers anxiety.",
+            "response": "Allow them uninterrupted social bonding, confirming that group harmony is well established."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Low-Fat Seed/Pellet Mix Feeding & Water Sipper Bottle Hygiene Check",
+            "text": "Feed a balanced, low-fat desert rodent seed mix with minimal sunflower seeds, checking that metal ball water bottles operate smoothly."
+          },
+          {
+            "name": "Afternoon: Deep Substrate Burrowing Check (15–20 cm) & Safe Wooden Chewing Toys",
+            "text": "Provide deep unscented paper or Aspen bedding to encourage tunnel building, supplying safe wooden chews for continuously growing incisors."
+          },
+          {
+            "name": "Evening: Desert Sand Bath Maintenance & Social Pair Activity Observation",
+            "text": "Offer dedicated chinchilla/gerbil sand for oil removal and coat grooming, sifting out debris to maintain pristine bath hygiene."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why does a gerbil's tail skin peel off if held (Tail Degloving)?",
+            "answer": "In the wild, gerbils escape predators by shedding the outer skin sheath of their tail. If a human grabs or pulls a gerbil by its tail, this defensive mechanism triggers, causing a painful 'Degloving Injury' where skin strips off, exposing bare muscle and bone. This usually requires surgical tail amputation. Always scoop up a gerbil gently using both hands beneath its body."
+          },
+          {
+            "question": "Why are water baths dangerous for gerbils, and can I keep a single gerbil alone?",
+            "answer": "Water baths are strictly forbidden because gerbil fur retains water, causing rapid hypothermia and fatal pneumonia. Always provide dedicated desert sand baths for hygiene. Furthermore, gerbils are obligate social animals; single gerbils suffer severe psychological depression, stress-induced seizures, and weakened immunity. They must be kept in same-sex bonded pairs or small groups."
+          }
+        ]
+      },
+      "ja": {
+        "title": "モンゴリアンジャービル（スナネズミ）の行動サイン解読と皮膚剥離（Tail Degloving）予防・砂浴びケアのための3ステップデイリールーティン",
+        "description": "好奇心旺盛で社会性の高いスナネズミ（モンゴリアンジャービル）。足ダンダン（Foot Thumping）や毛づくろいサインの解読、尾の事故防止、砂浴び・穴掘り環境のための3ステップホームケアを紹介します。",
+        "authority": "National Gerbil Society (NGS) ＆ AFRMA（全米ファンシーレート・マウス協会）飼育基準",
+        "profile": {
+          "breed": "モンゴリアンジャービル / スナネズミ (Meriones unguiculatus)",
+          "lifespan": "3 〜 4年 (適切なケアで最大5年)",
+          "sleep_pattern": "多相性睡眠 (昼行性/薄明薄暮性、数時間おきの活動と睡眠)",
+          "temperament": "社交的、好奇心旺盛、群れ行動本能、清潔、温和"
+        },
+        "intro": "モンゴルや中国北部の乾燥した砂漠・ステップ地帯が原産のスナネズミ（モンゴリアンジャービル / Meriones unguiculatus）は、毛に覆われた長い尾と愛くるしい姿、高い好奇心で世界中で親しまれている小型齧歯類です。砂漠環境に適応しているため匂いや排泄物が非常に少なく、衛生的なペットとして知られています。しかし、天敵から逃げるための防衛本能として尾の皮膚が簡単に抜け落ちる「尾の皮膚剥離事故（Tail Degloving）」を起こしやすいため、尾を掴む行為は絶対に厳禁です。また強い社会性を持つ群れ動物であるため、単頭飼育は鬱やストレス性発作（Seizures）を引き起こします。水浴びは厳禁で、さわやかなサ漠砂での砂浴びと深い床材（15〜20cm）が不可欠です。本記事では、スナネズミのサインを正確に解読し健康を守る3ステップルーティンをお届けします。",
+        "whyTitle": "スナネズミのボディランゲージ：足ダンダン(Foot Thumping)と相互毛づくろい(Allogrooming)",
+        "whyDesc": "スナネズミは後脚の足踏み振動と身体接触で警戒と親愛のサインを表現します。後脚で床を力強く叩く**「足ダンダン（Foot Thumping / スタンピング）」**は、周囲の脅威や興奮を仲間に知らせる緊急警戒シグナルです。一方、2匹で寄り添い合ってお互いの毛を優しく並べてあげる**「相互毛づくろい（Allogrooming）」**は、群れの絆を深め安心感を感じている最高の親愛表現です。",
+        "body_signals": [
+          {
+            "name": "後脚で床を強くダンダンと音を立てて叩く (Foot Thumping)",
+            "meaning": "周囲の物音や振動に対する強い警戒、または仲間への危険警告シグナルです。",
+            "response": "刺激の原因を取り除き、ケージの一部を布で覆って落ち着かせましょう。"
+          },
+          {
+            "name": "同居個体と体を寄せ合い、お互いの毛を優しく舐めて整える (Allogrooming)",
+            "meaning": "群れの絆を強化し、ストレスを軽減するスナネズミの代表的な社会性親愛サインです。",
+            "response": "邪魔をせず静かに見守り、良好な群れ関係が維持されていることを確認します。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：スナネズミ用低脂質ペレット・シード給餌と給水器点検",
+            "text": "肥満を防ぐためひまわりの種を控えたバランスフードを与え、水漏れのないボトル式給水器を点検します。"
+          },
+          {
+            "name": "昼：穴掘り本能を満たす深い床材（15〜20cm）とかじり木構造物の確認",
+            "text": "無香料のペーパーやアスペン床材を深めに敷き詰めてトンネル作りを行わせ、伸び続ける前歯のために安全なかじり木を用意します。"
+          },
+          {
+            "name": "夜：専用砂浴び容器の清潔管理と同居個体とのコミュニケーション観察",
+            "text": "被毛の余分な皮脂を取り除くため砂浴び容器を用意し、汚れを取り除いて夜間の静かな環境を整えます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "スナネズミの尻尾を掴むとどうして皮が剥けてしまうのですか（Tail Degloving）？",
+            "answer": "スナネズミは野生下でヘビや猛禽類に尾を掴まれた際、尾の皮膚を鞘のように脱ぎ捨てて逃げる自衛メカニズムを持っています。人が尾を強く掴んだり引っ張ったりすると、皮膚全体が剥がれ落ちる「ディグロービング（Degloving）」事故が発生し、骨や筋肉が露出して断尾手術が必要になります。持ち上げる時は必ず両手で体を下から包み込むように抱き上げてください。"
+          },
+          {
+            "question": "スナネズミに水浴びをさせてはいけない理由と、1匹だけで飼育してはいけない理由は？",
+            "answer": "乾燥地帯原産のため毛が濡れると乾きにくく、急激な体温低下による低体温症や肺炎で死亡するため水浴びは絶対厳禁です。お手入れには必ず小動物用の浴び砂を使用してください。また、スナネズミは非常に高い社会性を持つため、1匹だけの単頭飼育は重度の鬱やストレス性発作を引き起こします。必ず同性のペアまたはグループで飼育してください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "蒙古沙鼠（长爪沙鼠）行为信号解读与尾部脱皮伤 (Tail Degloving) 预防及沙浴护理的 3 步日常流程",
+        "description": "富有好奇心与强群居性的蒙古沙鼠（Mongolian Gerbil）。解读剁脚（Foot Thumping）与互相梳理信号，预防尾部皮肤脱落受损，提供深层打洞与沙浴的 3 步骤家庭护理。",
+        "authority": "英国国家沙鼠协会 (NGS) 与美国花色大鼠与小鼠协会 (AFRMA) 护理标准",
+        "profile": {
+          "breed": "蒙古沙鼠 / 长爪沙鼠 (Mongolian Gerbil / Meriones unguiculatus)",
+          "lifespan": "3 ~ 4年 (科学喂养可达5年)",
+          "sleep_pattern": "多相性睡眠 (昼行性/薄暮性，昼夜交替间歇性活动)",
+          "temperament": "极喜群居、好奇心极强、干净卫生、温和"
+        },
+        "intro": "原产于蒙古及中国北部干燥沙漠与草原地带的蒙古沙鼠（俗称“长爪沙鼠”），凭其被毛覆盖的长尾巴、萌态可掬的外表与旺盛的好奇心而深受全球小宠爱好者喜爱。沙鼠适应干旱环境，代谢率低且几乎没有异味，是非常干净的宠物。然而，为了在野外逃避捕食者，它们进化出了“尾部脱皮脱落（Tail Degloving）”的自卫机制，因此绝对严禁拎抓其尾巴。此外，沙鼠是严格的社群动物，单只独居极易诱发抑郁症与应激性癫痫发作（Seizures），且严禁水洗，必须提供专用浴沙与深层垫料（15~20厘米）。本指南将带您准确解读沙鼠肢体语言，并通过 3 步骤日常护理维护其健康。",
+        "whyTitle": "沙鼠肢体语言：强力剁脚 (Foot Thumping) 与互相梳理 (Allogrooming)",
+        "whyDesc": "沙鼠通过后肢剁脚震动与身体接触清晰表达领地警戒与社群亲密。用后腿快速重重敲击垫料**“强力剁脚 (Foot Thumping)”**，是向同伴和主人发出的警报与高度警戒信号。相反，两只沙鼠依偎在一起温柔地互相理毛**“互相梳理 (Allogrooming)”**，则是巩固社群等级、缓解压力并表达深度信任的代表性爱意行为。",
+        "body_signals": [
+          {
+            "name": "用后腿用力连续敲击垫料发出嗒嗒声 (Foot Thumping)",
+            "meaning": "感知到潜在威胁、高度紧张、兴奋，或向族群同伴发出敌情警报。",
+            "response": "消除附近的突发噪音或震动源，遮挡部分笼舍使其恢复安全感。"
+          },
+          {
+            "name": "两只沙鼠依偎在一起，温柔地用牙齿理梳对方被毛 (Allogrooming)",
+            "meaning": "表达社群内部极度信任、巩固亲密关系与降低焦虑的社会性爱意信号。",
+            "response": "保持环境安静切勿惊扰，确认社群合笼关系稳定和谐。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：投喂低脂谷物杂粮/滋养丸与检查水壶卫生",
+            "text": "顺应沙漠鼠类生理，投喂控制葵花籽配比的低脂混合粮，并检查滚珠水壶出水顺畅无渗漏。"
+          },
+          {
+            "name": "中午：铺设深层垫料 (15~20厘米) 满足打洞天性与磨牙木质设施检查",
+            "text": "铺设厚层无香纸垫料或杨木（Aspen）垫料供其挖掘复杂地道，并提供安全磨牙木块以防门齿过长。"
+          },
+          {
+            "name": "晚上：沙漠浴沙清洁维护与社群伙伴互动状态观察",
+            "text": "提供专用洗澡沙以吸附皮脂保持毛发干爽，筛除脏沙并创造夜间安静栖息环境。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "为什么抓拎沙鼠的尾巴会导致尾巴皮肉撕脱受损 (Tail Degloving)？",
+            "answer": "沙鼠在野外被捕食者咬住尾巴时，其尾部皮肤会像套鞘一样瞬间脱落以便脱身。如果人类用手拎抓或拉扯沙鼠尾巴，极易触发该机制，导致尾部皮肤大面积撕脱（Degloving），暴露肌肉与骨骼，最终往往不得不截尾。抓取沙鼠时必须用双手从底部托住其整个身体。"
+          },
+          {
+            "question": "为什么绝对不能给沙鼠水洗？可以只养一只沙鼠吗？",
+            "answer": "沙鼠源自干旱沙漠，被毛沾水后难以干透，极易引发严重失温与致死性肺炎，因此绝对禁止水洗，必须使用专用沙漠浴沙。此外，沙鼠是强社群性动物，单只独居会导致剧烈的心理抑郁、免疫力崩溃及应激性发作，必须同性成对或成群饲养。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Señales de conducta en el Gerbo de Mongolia y rutina diaria de 3 pasos para la prevención de la mutilación de cola (Tail Degloving) y cuidado en baño de arena",
+        "description": "Guía de cuidado para el curioso Gerbo de Mongolia (Mongolian Gerbil). Interprete el zapateo y el acicalamiento mutuo, prevenga lesiones graves en la cola y cuide su higiene con baños de arena en 3 pasos.",
+        "authority": "National Gerbil Society (NGS) y Normas de la American Fancy Rat and Mouse Association (AFRMA)",
+        "profile": {
+          "breed": "Gerbo de Mongolia (Mongolian Gerbil / Meriones unguiculatus)",
+          "lifespan": "3 ~ 4 años (Hasta 5 años con cuidados óptimos)",
+          "sleep_pattern": "Polifásico (Diurno/Crepuscular, múltiples ciclos de actividad y descanso)",
+          "temperament": "Social, Muy curioso, Gregario, Muy limpio, Dócil"
+        },
+        "intro": "Originario de los desiertos y estepas áridas de Mongolia y el norte de China, el Gerbo de Mongolia (Meriones unguiculatus) es un roedor muy querido por su cola cubierta de pelo, su inagotable curiosidad y sus hábitos limpios. Adaptados al desierto, producen muy pocos deshechos y olores. Sin embargo, poseen un mecanismo de escape defensivo mediante el cual la piel de la cola se desprende fácilmente si se la sujeta, una lesión traumática conocida como 'Tail Degloving'. Además, al ser animales gregarios obligatorios, la soledad les causa depresión severa y convulsiones por estrés. Requieren sustrato profundo para excavar (15–20 cm) y baños de arena en lugar de agua. En esta guía, presenta una rutina de 3 pasos para cuidar su salud.",
+        "whyTitle": "Lenguaje corporal del Gerbo de Mongolia: Zapateo (Foot Thumping) y acicalamiento mutuo (Allogrooming)",
+        "whyDesc": "Los Gerbos de Mongolia comunican alerta y afecto social mediante rítmicos golpeteos de patas y acicalamiento. Golpear con fuerza el suelo con sus patas traseras **'Zapateo (Foot Thumping)'** es una señal de alarma característica para advertir a la manada de algún peligro. En cambio, acurrucarse juntos y limpiarse el pelaje mutuamente **'Acicalamiento mutuo (Allogrooming)'** es una muestra de afecto que refuerza la jerarquía y reduce el estrés.",
+        "body_signals": [
+          {
+            "name": "Golpear el suelo rítmicamente con las patas traseras (Foot Thumping)",
+            "meaning": "Indica alerta por amenaza percibida, excitación intensa o señal de advertencia para sus compañeros.",
+            "response": "Elimine ruidos o vibraciones repentinas y cubra parte del terrario para devolverles la tranquilidad."
+          },
+          {
+            "name": "Acurrucarse juntos y mordisquear suavemente el pelo del compañero (Allogrooming)",
+            "meaning": "Muestra de afecto social clave que fortalece la convivencia, limpia zonas difíciles y reduce la ansiedad.",
+            "response": "Permita la interacción sin interrupciones, confirmando que la armonía del grupo está consolidada."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Alimentación variada baja en grasa y revisión del bebedero de bola",
+            "text": "Ofrezca mezclas de semillas bajas en grasa reduciendo las pipas de girasol y compruebe que el bebedero de bola funcione sin fugas."
+          },
+          {
+            "name": "Tarde: Sustrato profundo para excavación (15–20 cm) y madera segura para roer",
+            "text": "Añada abundante papel sin perfume o sustrato de álamo (Aspen) para que túneles estables y suministre maderas seguras para sus incisivos."
+          },
+          {
+            "name": "Noche: Limpieza del baño de arena del desierto y observación de la pareja",
+            "text": "Proporcione arena especial para chinchillas/gerbos para eliminar la grasa del manto, tamizando la arena sucia diariamente."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué se desgarra la piel de la cola del gerbo si se le agarra por ella (Tail Degloving)?",
+            "answer": "En la naturaleza, los gerbos escapan de los depredadores soltando la vaina de piel de la cola. Si un humano los agarra o tira de la cola, se activa este mecanismo causando un desollamiento grave ('Degloving') que expone músculo y hueso, requiriendo casi siempre la amputación quirúrgica. Tome siempre al gerbo ahuecando ambas manos bajo su cuerpo."
+          },
+          {
+            "question": "¿Por qué los baños de agua son peligrosos y por qué no se debe tener un gerbo solo?",
+            "answer": "Los baños de agua están prohibidos porque el pelo del gerbo retiene la humedad, provocando hipotermia y neumonía letal; use siempre arena de desierto. Además, los gerbos son animales gregarios obligatorios; un gerbo en soledad padece depresión severa, convulsiones inducidas por estrés y baja inmunidad. Deben vivir en parejas o grupos del mismo sexo."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Signaux comportementaux de la Gerbille de Mongolie et routine quotidienne en 3 étapes pour la prévention du dépouillement de la queue (Tail Degloving) et le bain de sable",
+        "description": "Guide de soins pour la curieuse Gerbille de Mongolie. Décryptez le tapotement de pattes et le toilettage mutuel, prévenez les blessures de la queue et proposez des bains de sable en 3 étapes.",
+        "authority": "National Gerbil Society (NGS) & Normes de l'American Fancy Rat and Mouse Association (AFRMA)",
+        "profile": {
+          "breed": "Gerbille de Mongolie (Mongolian Gerbil / Meriones unguiculatus)",
+          "lifespan": "12 ~ 15 ans",
+          "sleep_pattern": "Polyphasique (Diurne/Crépusculaire, alternance de phases d'activité et de repos)",
+          "temperament": "Sociale, Très curieuse, Grégaire, Très propre, Douce"
+        },
+        "intro": "Originaire des déserts et steppes arides de Mongolie et du nord de la Chine, la Gerbille de Mongolie (Meriones unguiculatus) est un petit rongeur adoré pour sa queue fournie, sa curiosité vive et sa grande propreté. Adaptée au désert, elle produit très peu d'urine et d'odeurs. Toutefois, elle possède un mécanisme de défense où la peau de la queue se détache facilement si on la saisit : une blessure grave appelée 'Tail Degloving'. De plus, étant un animal strictement grégaire, la solitude provoque chez elle dépression et crises d'épilepsie de stress. Elle nécessite de la litière profonde (15–20 cm) pour creuser et des bains de sable à la place de l'eau. Dans ce guide, vous présente une routine en 3 étapes pour préserver sa santé.",
+        "whyTitle": "Langage corporel de la Gerbille de Mongolie : Tapotement de pattes (Foot Thumping) et toilettage mutuel (Allogrooming)",
+        "whyDesc": "La Gerbille exprime sa vigilance et son affection par des vibrations de pattes et le toilettage. Frapper le sol rapidement avec ses pattes arrière **« Tapotement de pattes (Foot Thumping) »** est un signal d'alarme pour avertir le groupe d'un danger. À l'inverse, se blottir à deux et mordiller doucement le pelage de l'autre **« Toilettage mutuel (Allogrooming) »** est une preuve d'affection qui renforce les liens du groupe et apaise le stress.",
+        "body_signals": [
+          {
+            "name": "Frapper le sol avec force et rythme avec les pattes arrière (Foot Thumping)",
+            "meaning": "Indique un danger perçu, une grande excitation ou un signal d'alerte destiné à ses congénères.",
+            "response": "Éliminez les bruits ou vibrations soudaines et couvrez une partie du terrarium pour la rassurer."
+          },
+          {
+            "name": "Se blottir l'une contre l'autre et nettoyer délicatement le pelage du compagnon (Allogrooming)",
+            "meaning": "Comportement d'affection sociale majeur renforçant l'harmonie du groupe et réduisant l'anxiété.",
+            "response": "Laissez-les interagir paisiblement sans les déranger pour préserver leur complicité."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Alimentation pauvre en graisse & vérification du biberon d'eau",
+            "text": "Donnez un mélange de graines équilibré pauvre en tournesol et vérifiez que la bille du biberon d'eau fonctionne sans fuite."
+          },
+          {
+            "name": "Après-midi : Épaisse couche de litière pour creuser (15–20 cm) & bois à ronger sécurisé",
+            "text": "Fournissez une épaisse couche de litière en papier non parfumé ou peuplier (Aspen) pour ses galeries, et du bois sain pour user ses incisives."
+          },
+          {
+            "name": "Soir : Entretien du bain de sable du désert & observation du groupe",
+            "text": "Proposez de la terre à bain (sable pour chinchilla/gerbille) pour dégraisser son pelage, en criblant le sable souillé chaque soir."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi la peau de la queue de la gerbille s'arrache-t-elle si on la saisit (Tail Degloving) ?",
+            "answer": "Dans la nature, la gerbille échappe aux prédateurs en laissant la fourreau de peau de sa queue s'arracher. Si un humain attrape la gerbille par la queue, ce mécanisme s'enclenche, provoquant une blessure 'Degloving' où le muscle et l'os sont mis à nu, nécessitant souvent une amputation. Prenez toujours la gerbille à deux mains en coupe sous son corps."
+          },
+          {
+            "question": "Pourquoi le bain d'eau est-il dangereux et pourquoi faut-il éviter d'élever une gerbille seule ?",
+            "answer": "Les bains d'eau sont interdits car le pelage de la gerbille retient l'eau, entraînant une hypothermie rapide et une pneumonie mortelle ; utilisez uniquement de la terre à bain. De plus, les gerbilles sont obligatoirement sociales : une gerbille seule souffre de dépression sévère et de crises de spasmes de stress. Élevez-les toujours en duos ou groupes du même sexe."
+          }
+        ]
+      },
+      "de": {
+        "title": "Verhaltenssignale der Mongolischen Rennmaus und 3-Schritte-Tagesroutine für Schwanz-Degloving-Schutz und Sandbad-Pflege",
+        "description": "Pflegeanleitung für die neugierige Mongolische Rennmaus (Mongolian Gerbil). Trommeln mit den Hinterbeinen und Gegenseitiges Putzen verstehen, Schwanzverletzungen vermeiden und Sandbäder in 3 Schritten bereitstellen.",
+        "authority": "National Gerbil Society (NGS) & Standards der American Fancy Rat and Mouse Association (AFRMA)",
+        "profile": {
+          "breed": "Mongolische Rennmaus (Mongolian Gerbil / Meriones unguiculatus)",
+          "lifespan": "3 ~ 4 Jahre (Bei optimaler Haltung bis zu 5 Jahre)",
+          "sleep_pattern": "Polyphasisch (Tag-/Dämmerungsaktiv, mehrere Aktivitäts- und Ruhephasen)",
+          "temperament": "Gesellig, Sehr neugierig, Rudelorientiert, Sehr reinlich, Sanftmütig"
+        },
+        "intro": "Aus den trockenen Wüsten und Steppen der Mongolei und Nordchinas stammend, ist die Mongolische Rennmaus (Meriones unguiculatus) wegen ihres behaarten Schwanzes, ihrer Neugier und ihrer Reinlichkeit ein beliebtes Heimtier. Als Wüstenbewohner produziert sie kaum Urin und Geruch. Sie besitzt jedoch einen Abwehrmechanismus, bei dem die Schwanzhaut bei Ergreifen leicht abreißt – eine schwere Verletzung, bekannt als 'Tail Degloving'. Da Rennmäuse strikte Rudeltiere sind, führt Einzelhaltung zu Depressionen und Stresskrampfanfällen. Sie benötigen ein tiefes Einstreubecken (15–20 cm) zum Graben und Sandbäder anstelle von Wasser. In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für die Gesundheit Ihrer Rennmaus.",
+        "whyTitle": "Körpersprache der Mongolischen Rennmaus: Trommeln mit den Hinterbeinen (Foot Thumping) und Gegenseitiges Putzen (Allogrooming)",
+        "whyDesc": "Rennmäuse drücken Wachsamkeit und soziale Bindung durch Beinvibrationen und Fellpflege aus. Das schnelle, kräftige Klopfen mit den Hinterbeinen auf den Boden **'Trommeln (Foot Thumping)'** ist ein klassisches Alarmsignal, um die Gruppe vor Gefahren zu warnen. Das gemeinsame Einkuscheln und sanfte Beknabbern des Fells **'Gegenseitiges Putzen (Allogrooming)'** ist dagegen ein Zeichen von tiefem Vertrauen und Gruppenzusammenhalt.",
+        "body_signals": [
+          {
+            "name": "Kräftiges, rhythmisches Trommeln mit den Hinterbeinen auf den Boden (Foot Thumping)",
+            "meaning": "Signalisiert Gefahr, Anspannung oder einen Warnruf an die Gruppe bei unruhiger Umgebung.",
+            "response": "Beseitigen Sie plötzliche Geräusche oder Vibrationen und decken Sie einen Teil des Geheges ab."
+          },
+          {
+            "name": "Enges Einkuscheln und sanftes Knabbern im Fell des Partnervogels/Tiers (Allogrooming)",
+            "meaning": "Wichtiges soziales Zuneigungssignal, das Bindungen stärkt und Stress abbaut.",
+            "response": "Lassen Sie die Tiere ungestört interagieren, um die Harmonie der Gruppe zu sichern."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Fettarme Körnermischung füttern & Tränke auf Dichtigkeit prüfen",
+            "text": "Füttern Sie ausgewogenes Rennmausfutter mit wenigen Sonnenblumenkernen und prüfen Sie die Tränke auf einwandfreie Funktion."
+          },
+          {
+            "name": "Mittag: Hohe Einstreuschicht (15–20 cm) zum Tunnelbau & Knabberholz bereitstellen",
+            "text": "Bieten Sie reichlich unparfümierte Papier- oder Aspen-Einstreu für unterirdische Gänge und frische Knabberhölzer für die Zähne."
+          },
+          {
+            "name": "Abend: Chinchillasandbad pflegen & Gruppenverhalten beobachten",
+            "text": "Stellen Sie speziellen Chinchillasand zur Fellentfettung bereit und sieben Sie verschmutzten Sand täglich aus."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum reißt die Schwanzhaut der Rennmaus ab, wenn man sie dort festhält (Tail Degloving)?",
+            "answer": "In der Natur entkommen Rennmäuse Fressfeinden, indem die äußere Hautschicht des Schwanzes leicht abreißt. Greift ein Mensch die Rennmaus am Schwanz, löst dies das 'Degloving' aus: Die Haut zieht sich ab und legt Muskeln und Knochen frei, was meist eine chirurgische Amputation erfordert. Greifen Sie Rennmäuse immer mit beiden Händen schaufelförmig unter dem Körper."
+          },
+          {
+            "question": "Warum ist ein Wasserbad gefährlich und warum darf man Rennmäuse nicht alleine halten?",
+            "answer": "Wasserbäder sind verboten, da das dichte Fell der Rennmaus die Nässe hält und dies zu tödlicher Unterkühlung und Lungenentzündung führt; nutzen Sie nur Chinchillasand. Rennmäuse sind zudem Rudeltiere: Einzelhaltung führt zu Depressionen, Stresskrämpfen und Immunsystemzusammenbruch. Halten Sie sie immer mindestens als gleichgeschlechtliches Paar."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Sinais comportamentais do Gerbil da Mongólia e rotina diária de 3 passos para prevenção de lesões na cauda (Tail Degloving) e cuidados com banho de areia",
+        "description": "Guia de cuidados para o curioso Gerbil da Mongólia (Esquilo da Mongólia). Interprete o batimento de patas e o acasalamento social, evite lesões na cauda e ofereça banhos de areia em 3 passos.",
+        "authority": "National Gerbil Society (NGS) & Padrões da American Fancy Rat and Mouse Association (AFRMA)",
+        "profile": {
+          "breed": "Gerbil da Mongólia / Esquilo da Mongólia (Meriones unguiculatus)",
+          "lifespan": "3 ~ 4 anos (Até 5 anos com cuidados adequados)",
+          "sleep_pattern": "Polifásico (Diurno/Crepuscular, múltiplos ciclos de sono e atividade)",
+          "temperament": "Social, Muito curioso, Gregário, Muito limpo, Dócil"
+        },
+        "intro": "Originário dos desertos e estepes áridas da Mongólia e norte da China, o Gerbil da Mongólia (Meriones unguiculatus) é um pequeno roedor amado por sua cauda peluda, curiosidade viva e hábitos extremamente limpos. Adaptados ao deserto, produzem poucos dejetos e odores. No entanto, possuem um mecanismo de defesa no qual a pele da cauda se solta facilmente quando puxada — uma lesão traumática conhecida como 'Tail Degloving'. Além disso, como são animais estritamente gregários, a solidão causa depressão grave e convulsões por estresse. Necessitam de forração profunda (15–20 cm) e banhos de areia em vez de água. Neste guia, apresenta uma rotina de 3 passos para cuidar da sua saúde.",
+        "whyTitle": "Linguagem corporal do Gerbil da Mongólia: Batimento de patas (Foot Thumping) e acasalamento social (Allogrooming)",
+        "whyDesc": "Os Gerbils da Mongólia comunicam alerta e afeto social através do batimento de patas e limpeza mútua. Bater energicamente as patas traseiras no chão **'Batimento de patas (Foot Thumping)'** é um sinal de alerta característico para avisar o grupo sobre potenciais perigos. Em contrapartida, aconchegar-se e limpar o pelo do companheiro **'Limpeza mútua (Allogrooming)'** é uma demonstração de afeto que fortalece os laços sociais e reduz o estresse.",
+        "body_signals": [
+          {
+            "name": "Bater as patas traseiras com força e ritmo no chão (Foot Thumping)",
+            "meaning": "Indica alerta por ameaça percebida, excitação ou sinal de aviso para os membros da colônia.",
+            "response": "Elimine ruídos ou vibrações repentinas e cubra parte do recinto para devolver a tranquilidade."
+          },
+          {
+            "name": "Aconchegar-se junto e mordiscar suavemente o pelo do companheiro (Allogrooming)",
+            "meaning": "Demonstração de afeto social chave que fortalece o vínculo do grupo e reduz a ansiedade.",
+            "response": "Permita a interação sem interrupções para manter a harmonia do grupo."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Alimentação equilibrada baixa em gordura e checagem do bebedouro",
+            "text": "Forneça mistura de sementes própria para gerbils com pouca semente de girassol e verifique se o bebedouro de esfera funciona perfeitamente."
+          },
+          {
+            "name": "Tarde: Forração profunda para escavação (15–20 cm) e madeira segura para roer",
+            "text": "Coloque bastante papel sem cheiro ou forração de Aspen para a construção de túneis, oferecendo madeira segura para desgastar os dentes."
+          },
+          {
+            "name": "Noite: Manutenção do banho de areia do deserto e observação do grupo",
+            "text": "Ofereça areia própria para chinchila/gerbil para remover a oleosidade do pelo, peneirando a areia suja diariamente."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que a pele da cauda do gerbil se solta ao ser segurada por ela (Tail Degloving)?",
+            "answer": "Na natureza, os gerbils escapam de predadores soltando a bainha de pele da cauda. Se uma pessoa segura o gerbil pela cauda, esse mecanismo é disparado, causando a grave lesão 'Degloving', expondo músculo e osso e exigindo amputação cirúrgica. Pegue o gerbil sempre com as duas mãos em concha por baixo do corpo."
+          },
+          {
+            "question": "Por que banhos de água são perigosos e por que não se deve criar um gerbil sozinho?",
+            "answer": "Banhos de água são proibidos porque a pelagem do gerbil retém umidade, levando à hipotermia e pneumonia fatal; use apenas areia de deserto. Além disso, gerbils são animais sociais obrigatórios: um gerbil sozinho sofre de depressão profunda, convulsões por estresse e queda de imunidade. Mantenha-os sempre em duplas ou grupos do mesmo sexo."
+          }
+        ]
+      },
+      "id": {
+        "title": "Sinyal Perilaku Gerbil Mongolia (Mongolian Gerbil) dan Rutinitas Harian 3 Langkah Perawatan Pencegahan Cedera Ekor (Tail Degloving) serta Mandi Pasir",
+        "description": "Panduan perawatan hewan kecil menggemaskan Gerbil Mongolia (Mongolian Gerbil). Pahami hentakan kaki dan grooming sosial, cegah cedera terkelupasnya ekor, serta berikan mandi pasir dalam 3 langkah.",
+        "authority": "Standar Perawatan National Gerbil Society (NGS) & American Fancy Rat and Mouse Association (AFRMA)",
+        "profile": {
+          "breed": "Gerbil Mongolia / Mongolian Gerbil (Meriones unguiculatus)",
+          "lifespan": "3 ~ 4 tahun (Hingga 5 tahun dengan perawatan optimal)",
+          "sleep_pattern": "Polifasik (Diurnal/Krepuskular, siklus aktif dan tidur singkat berulang sepanjang hari)",
+          "temperament": "Sangat Sosial, Sangat Ingin Tahu, Berkelompok, Sangat Bersih, Lembut"
+        },
+        "intro": "Berasal dari gurun kering dan padang rumput di Mongolia serta Tiongkok Utara, Gerbil Mongolia (Meriones unguiculatus) adalah hewan pengerat kecil yang sangat dicintai karena ekornya yang berbulu, rasa ingin tahunya yang tinggi, dan kebiasaannya yang sangat bersih. Beradaptasi dengan lingkungan gurun, gerbil menghasilkan sedikit kotoran dan tidak berbau. Namun, mereka memiliki mekanisme pertahanan diri di mana kulit ekornya dapat terkelupas dengan mudah jika ditarik—cedera trauma berat yang dikenal sebagai 'Tail Degloving'. Selain itu, sebagai hewan sosial sejati, memelihara gerbil sendirian dapat menyebabkan depresi dan kejang stres. Mereka membutuhkan alas kandang tebal (15–20 cm) untuk menggali serta mandi pasir alih-alih air. Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk merawat kesehatan Gerbil Mongolia Anda.",
+        "whyTitle": "Bahasa Tubuh Gerbil Mongolia: Hentakan Kaki (Foot Thumping) dan Grooming Bersama (Allogrooming)",
+        "whyDesc": "Gerbil Mongolia menyampaikan kewaspadaan dan ikatan sosial melalui getaran kaki dan grooming bersama. Menghentakkan kaki belakang secara kuat ke lantai kandang **'Hentakan Kaki (Foot Thumping)'** adalah sinyal bahaya khas untuk memperingatkan kelompoknya. Sebaliknya, meringkuk bersama dan saling membersihkan bulu **'Grooming Bersama (Allogrooming)'** adalah ungkapan kasih sayang yang memperkuat hirarki sosial dan meredakan stres.",
+        "body_signals": [
+          {
+            "name": "Menghentakkan Kaki Belakang secara Kuat dan Ritmis ke Lantai (Foot Thumping)",
+            "meaning": "Sinyal kewaspadaan akibat ancaman, rasa cemas, atau peringatan bahaya kepada anggota kelompoknya.",
+            "response": "Hentikan suara atau getaran mendadak di sekitar kandang dan tutup sebagian kandang agar gerbil tenang."
+          },
+          {
+            "name": "Meringkuk Bersama dan Saling Membersihkan Bulu Pasangannya (Allogrooming)",
+            "meaning": "Tanda kasih sayang sosial utama yang mempererat ikatan kelompok dan mengurangi rasa cemas.",
+            "response": "Biarkan mereka berinteraksi tanpa gangguan untuk menjaga keharmonisan kelompok."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pakan Biji-bijian/Pelet Rendah Lemak & Pemeriksaan Kebersihan Botol Minum",
+            "text": "Berikan pakan biji-bijian khusus gerbil rendah lemak (batasi kuaci) dan pastikan botol minum kelereng berfungsi dengan baik."
+          },
+          {
+            "name": "Siang: Alas Kandang Tebal untuk Menggali (15–20 cm) & Mainan Kayu Gigit Aman",
+            "text": "Sediakan alas kertas tanpa pewangi atau kayu Aspen yang tebal untuk menyalurkan insting menggali terowongan, serta kayu gogok gigitan."
+          },
+          {
+            "name": "Malam: Perawatan Wadah Mandi Pasir Gurun & Pengamatan Aktivitas Pasangan",
+            "text": "Sediakan pasir khusus chinchilla/gerbil untuk membersihkan minyak bulu, dan ayel pasir kotor setiap hari."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa kulit ekor gerbil bisa terkelupas jika dipegang ekornya (Tail Degloving)?",
+            "answer": "Di alam liar, gerbil meloloskan diri dari pemangsa dengan cara melepaskan lapisan kulit luar ekornya. Jika manusia memegang atau menarik ekor gerbil, mekanisme ini akan terpicu sehingga menyebabkan cedera parah 'Degloving' di mana otot dan tulang ekor terbuka hingga memerlukan amputasi medis. Selalu angkat gerbil dengan menyaukkan kedua tangan di bawah tubuhnya."
+          },
+          {
+            "question": "Mengapa mandi air sangat berbahaya bagi gerbil dan bolehkah memelihara satu ekor gerbil saja?",
+            "answer": "Mandi air sangat dilarang karena bulu gerbil menahan air sehingga memicu hipotermia cepat dan pneumonia mematikan; gunakan selalu pasir khusus gurun. Selain itu, gerbil adalah hewan sosial wajib. Gerbil yang dipelihara sendirian akan menderita depresi berat, kejang stres, dan penurunan imunitas. Selalu pelihara berpasangan sesama jenis atau kelompok."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/mongolian_gerbil_care.webp"
+  }
 }

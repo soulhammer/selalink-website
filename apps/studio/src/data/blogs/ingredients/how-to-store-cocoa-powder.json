@@ -1,406 +1,406 @@
 {
-    "how-to-store-cocoa-powder": {
-        "ingId": "cocoa_powder",
-        "pubDate": "2026-01-15",
-        "updatedDate": "2026-01-15",
-        "heroImage": "/images/blog/cocoa_powder_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "카카오 파우더 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 카카오 파우더의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "미국 식품의약국(FDA) & 유럽식품안전청(EFSA) & 식품의약품안전처(MFDS)",
-                "intro": "홈 베이킹이나 따뜻한 코코아를 만들려고 카카오 파우더를 꺼냈다가, 덩어리가 단단하게 뭉쳐 있거나 눅눅한 냄새가 나서 당황하신 적 있으시죠? 🍫\n\n카카오 파우더는 수분 함량이 2~5%에 불과한 건조 식품이지만, 주변 수분을 강력하게 끌어당기는 흡습성(Hygroscopic)이 매우 뛰어납니다. 공기 중의 수분을 흡수하면 분자끼리 엉겨 붙어 굳어지는 케이킹(Caking) 현상이 발생하고, 포함된 코코아 버터 지방이 수분해(Lipolysis)되면서 쩐내(산패취)가 나기 쉽습니다.\n\n이번 가이드에서는 국제 식품 안전 전문가들이 권장하는 과학적이고 확실한 카카오 파우더 품질 유지 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 물리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "절대 냉장 또는 냉동 보관하지 마세요 ⚠️",
-                        "desc": "냉장고에 넣었던 카카오 파우더를 상온으로 꺼내면 온도가 급격히 변하면서 표면에 결로(이슬 맺힘) 현상이 발생합니다. 이 미세한 수분이 파우더 내부로 침투하면 케이킹 현상을 일으키고 곰팡이 및 세균 번식의 결정적 원인이 됩니다."
-                    },
-                    {
-                        "title": "투명한 용기나 직사광선 노출을 피하세요 ☀️",
-                        "desc": "카카오 파우더에 들어있는 코코아 버터 자외선과 빛에 노출되면 광산화(Photo-oxidation) 반응을 일으켜 맛과 향이 변질됩니다. 빛이 통하지 않는 불투명한 용기에 보관해야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "빛과 공기를 차단하는 불투명 밀폐 용기에 담기 — 완벽 밀폐 보관 🫙",
-                        "text": "카카오 파우더의 가장 큰 적은 공기 중의 습기와 빛입니다. 💡 보관 팁: 개봉 후에는 원래 봉투째 보관하기보다 자외선이 차단되는 불투명한 유리는 밀폐 용기나 스텐 용기, 또는 차광 지퍼백에 옮겨 담고 공기가 들어가지 않도록 밀봉하세요."
-                    },
-                    {
-                        "name": "서늘하고 건조한 상온(15~20℃)에 보관하기 — 상온 보관 (미개봉 2년 / 개봉 후 1년) 🌡️",
-                        "text": "습도 50% 이하, 온도 15~20℃의 환경이 카카오 파우더 보관에 가장 이상적입니다. 💡 보관 팁: 가스레인지, 오븐, 식기세척기 주변처럼 열기와 수증기가 발생하는 장소를 피해 다용도실이나 찬장 안쪽처럼 어둡고 서늘한 곳에 보관해 주세요. 미개봉 시 2년, 개봉 후 밀폐 상태로 1년 동안 최상의 맛을 유지할 수 있습니다."
-                    },
-                    {
-                        "name": "사용 시 물기 없는 건조한 스푼만 사용하기 — 오염 방지 🥄",
-                        "text": "파우더를 덜어낼 때 미세한 수분이라도 들어가면 전체가 뭉치고 상할 수 있습니다. 💡 보관 팁: 젖은 스푼이나 수증기가 올라오는 냄비 바로 위에서 파우더를 직접 털어 넣지 마세요. 반드시 바짝 마른 깨끗한 스푼을 사용해 필요한 양만큼만 건조한 용기에 덜어내어 써야 합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "카카오 파우더가 덩어리져 뭉쳤는데 먹어도 되나요?",
-                        "answer": "단순히 살짝 뭉친 상태에서 숟가락으로 눌렀을 때 쉽게 부서지고 이상한 냄새가 나지 않는다면 수분을 약간 흡수한 케이킹 현상이므로 사용하셔도 됩니다. 그러나 단단하게 굳어 부서지지 않거나 시큼하고 쩐내가 난다면 지방 산패 및 곰팡이 오염 가능성이 높으므로 폐기해야 합니다."
-                    },
-                    {
-                        "question": "더치 프로세스(알칼리화) 카카오 파우더와 내추럴 카카오 파우더의 보관법에 차이가 있나요?",
-                        "answer": "두 종류 모두 산도(pH) 차이만 있을 뿐 수분 흡수성과 지방 산패 원리는 동일합니다. 알칼리화 여부와 상관없이 습기와 빛을 차단하여 15~20℃ 서늘한 상온에서 불투명 밀폐 용기에 보관하는 규칙은 동일합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Cocoa Powder Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for cocoa powder based on official safety guidelines.",
-                "authority": "FDA & EFSA & MFDS",
-                "intro": "Have you ever opened your cocoa powder for home baking or a warm mug of hot chocolate, only to find it clumped into hard lumps or smelling stale? 🍫\n\nAlthough cocoa powder is a dry food with a moisture content of only 2–5%, it is exceptionally hygroscopic, meaning it greedily absorbs moisture from the surrounding air. Absorbing humidity causes molecules to bind together in a process known as caking, while the cocoa butter fat inside undergoes hydrolysis (lipolysis), producing rancid off-odors.\n\nIn this guide, we introduce a scientifically proven cocoa powder storage guide recommended by international food safety experts to preserve its quality and rich flavor. 🛡️",
-                "whyTitle": "Why Store Cocoa Powder This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physical and chemical characteristics of each food item and applying the proper storage method is essential for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never refrigerate or freeze cocoa powder ⚠️",
-                        "desc": "Taking refrigerated cocoa powder out into room temperature causes rapid thermal changes that create surface condensation. This micro-moisture penetrates the powder, causing severe caking and creating an ideal breeding ground for mold and bacteria."
-                    },
-                    {
-                        "title": "Avoid transparent containers and direct light exposure ☀️",
-                        "desc": "The cocoa butter in cocoa powder undergoes photo-oxidation when exposed to ultraviolet light and ambient sunlight, degrading its flavor and aroma. Always store it in an opaque container that blocks light entirely."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Store in airtight, opaque containers — Complete Sealing 🫙",
-                        "text": "The greatest enemies of cocoa powder are atmospheric moisture and light. 💡 Storage Tip: After opening, transfer the powder from its original pouch into an opaque glass, stainless steel, or light-blocking airtight container, and seal tightly to prevent air entry."
-                    },
-                    {
-                        "name": "Store at cool, dry room temperature (15–20°C / 59–68°F) — Room Temp Storage (2 Years Unopened / 1 Year Opened) 🌡️",
-                        "text": "An environment with relative humidity under 50% and temperatures between 15–20°C (59–68°F) is ideal. 💡 Storage Tip: Keep away from heat and steam sources such as stoves, ovens, and dishwashers. Store inside a dark, cool pantry or cabinet. Unopened cocoa powder lasts up to 2 years, and sealed opened powder stays fresh for 1 year."
-                    },
-                    {
-                        "name": "Use only clean, completely dry spoons — Prevent Contamination 🥄",
-                        "text": "Even a drop of moisture introduced while scooping can ruin the whole batch. 💡 Storage Tip: Never insert a wet spoon or hold the container directly over a steaming hot pot. Always use a thoroughly dry, clean utensil to measure out the required amount."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "My cocoa powder has formed clumps. Is it still safe to use?",
-                        "answer": "If the clumps crumble easily when pressed with a spoon and there is no off-odor, it is simply mild caking from absorbed humidity and is safe to use. However, if the lumps are hard, impossible to break, or smell sour/rancid, fats have oxidized or mold may be present, so it should be discarded."
-                    },
-                    {
-                        "question": "Does Dutch-processed cocoa powder require different storage than natural cocoa powder?",
-                        "answer": "No. While they differ in pH levels, both natural and Dutch-processed cocoa powders share the same hygroscopic nature and lipid oxidation properties. Regardless of the type, keep them in an opaque, airtight container at cool room temperature (15–20°C)."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ココアパウダーを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくココアパウダーの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "米国食品医薬品局(FDA) & 欧州食品安全機関(EFSA) & 食品医薬品安全処(MFDS)",
-                "intro": "お菓子作りや温かいココアを淹れようとココアパウダーを取り出した際、ダマになって固まっていたり、古い油のような臭いがして困ったことはありませんか？🍫\n\nココアパウダーは水分含有量がわずか2〜5%の乾燥食品ですが、周囲の湿気を強力に引き寄せる非常に高い吸湿性（Hygroscopic）を持っています。空気中の水分を吸収すると分子同士が結合して固まる「ケーキング（Caking）現象」が発生し、含まれるココアバターの脂質が加水分解（Lipolysis）を起こして酸化臭（戻り臭）が生じやすくなります。\n\n本記事では、国際的な食品安全専門家が推奨する、ココアパウダーの品質と風味が長持ちする科学的な保存方法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の物理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "絶対に冷蔵庫や冷凍庫で保存しないでください ⚠️",
-                        "desc": "冷蔵保管したココアパウダーを常温に出すと、急激な温度変化によって表面に結露が発生します。この微細な水分がパウダー内部に浸透すると、激しいケーキング現象を引き起こし、カビや細菌が繁殖する最大の原因となります。"
-                    },
-                    {
-                        "title": "透明な容器や直射日光への露出を避けてください ☀️",
-                        "desc": "ココアパウダーに含まれるココアバターは、紫外線や光に当たると光酸化（Photo-oxidation）反応を起こし、味や香りが劣化します。必ず光を遮断する不透明な密閉容器で保存してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "光と空気を遮断する不透明な密閉容器に入れる — 完全密閉保存 🫙",
-                        "text": "ココアパウダーの最大の敵は空気中の湿気と光です。💡保存のコツ：開封後は元の袋のまま保管せず、紫外線を通さない不透明なガラス瓶、ステンレス容器、または遮光チャック付き袋に移し替え、空気が入らないようしっかり密閉してください。"
-                    },
-                    {
-                        "name": "涼しく乾燥した常温（15〜20℃）で保存する — 常温保存 (未開封2年 / 開封後1年) 🌡️",
-                        "text": "湿度50%以下、温度15〜20℃の環境がココアパウダーの保存に最も理想的です。💡保存のコツ：コンロ、オーブン、食洗機の周辺など、熱や水蒸気が発生する場所を避け、パントリーや棚の奥など暗く涼しい場所に保管してください。未開封で2年、開封後は密閉状態で1年間、最高の風味を維持できます。"
-                    },
-                    {
-                        "name": "使用時は水気のない完全に乾いたスプーンのみを使用する — 汚染防止 🥄",
-                        "text": "すくう際に微量の水分が入るだけでも、全体が固まったり痛む原因になります。💡保存のコツ：濡れたスプーンや、湯気が立っている鍋の真上で直接振り入れないでください。必ず完全に乾いた清潔なスプーンを使用し、必要な分だけを取り出してご使用ください。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "ココアパウダーが固まってダマになっていますが、使っても大丈夫ですか？",
-                        "answer": "軽く固まっている程度でスプーンで押すと簡単に崩れ、異常な臭いがしなければ、湿気をわずかに吸収したケーキング現象ですので問題なく使用できます。ただし、硬く固まって崩れない場合や、酸っぱい臭い・油臭い臭いがする場合は酸化やカビの可能性があるため廃棄してください。"
-                    },
-                    {
-                        "question": "ダッチプロセス（アルカリ処理）とナチュラルココアパウダーで保存方法に違いはありますか？",
-                        "answer": "いいえ、違いはありません。pH値に違いはありますが、吸湿性と脂質酸化のメカニズムはどちらも同じです。種類に関係なく、光と湿気を遮断し、15〜20℃の涼しい常温で不透明な密閉容器に入れて保存してください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持可可粉新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解可可粉的最佳储存温度、方式及保鲜时长。",
-                "authority": "美国食品药品监督管理局(FDA) & 欧洲食品安全局(EFSA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "当您打算烘焙或冲泡一杯热可可而取出可可粉时，是否曾遇到过它结成硬块或散发出油酸味的情况？🍫\n\n可可粉虽然是水分含量仅为2~5%的干燥食品，但具有极强的吸湿性（Hygroscopic），会疯狂吸收空气中的水分。吸湿后分子间互相黏结会导致“结块（Caking）”现象，同时其中含有的可可脂成分会发生水解酸败（Lipolysis），从而产生异味。\n\n本指南基于国际食品安全专家的权威建议，为您带来保持可可粉高品质与浓郁风味的科学储存秘诀。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的物理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "绝对不要冷藏或冷冻保存 ⚠️",
-                        "desc": "将冷藏的可可粉取出至常温时，剧烈的温差会导致其表面产生冷凝水（结露）。微小水滴渗入粉末内部会引发严重的结块现象，并为霉菌和细菌滋生提供温床。"
-                    },
-                    {
-                        "title": "避免使用透明容器或暴露于阳光下 ☀️",
-                        "desc": "可可粉中的可可脂在紫外线和日光照射下会发生光氧化（Photo-oxidation）反应，破坏其原本的风味与香气。务必使用不透光的遮光密闭容器储存。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "装入防光防空气的不透明密封容器 — 完全密封 🫙",
-                        "text": "可可粉最大的敌人是空气中的湿气与光线。💡储存小贴士：开封后切勿直接用原包装袋保存，请转存至不透光的玻璃罐、不锈钢密封罐或避光拉链袋中，并紧密盖封以防空气进入。"
-                    },
-                    {
-                        "name": "存放于阴凉干燥的常温环境（15~20℃） — 常温保存 (未开封2年 / 开封后1年) 🌡️",
-                        "text": "相对湿度低于50%、温度在15~20℃的环境是最理想的可可粉储存条件。💡储存小贴士：避开灶台、烤箱、洗碗机等会产生热气和水蒸气的区域，存放在食品柜或橱柜深处等阴凉黑暗处。未开封可保存2年，开封后密封可保存1年。"
-                    },
-                    {
-                        "name": "使用时务必保证勺子绝对干燥 — 防止污染 🥄",
-                        "text": "取用粉末时哪怕带入一滴水，也会导致整罐可可粉结块变质。💡储存小贴士：切勿使用湿勺取用，也不要直接在冒着热气的锅上方倾倒可可粉。务必使用彻底擦干的干净勺子取用所需份量。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "可可粉结块了，还能继续使用吗？",
-                        "answer": "如果只是轻微结块，用勺子轻轻一压就能散开，且没有任何异味，说明只是吸收了少许湿气，可以正常使用。但如果结块坚硬无法压碎，或散发出酸味、油酸哈味，说明脂肪已氧化或可能有霉菌滋生，应立即丢弃。"
-                    },
-                    {
-                        "question": "碱化（荷兰式）可可粉与天然可可粉的储存方法有区别吗？",
-                        "answer": "没有区别。虽然两者的酸碱度（pH值）不同，但吸湿特性与油脂氧化原理完全一致。无论哪种可可粉，都需要防潮避光，置于15~20℃的阴凉常温下用不透明密封容器储存。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener el cacao en polvo fresco: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para el cacao en polvo según las directrices oficiales de seguridad.",
-                "authority": "FDA & EFSA & MFDS",
-                "intro": "¿Alguna vez ha ido a sacar cacao en polvo para repostería o para preparar un tazón caliente y se ha encontrado con que estaba endurecido en grumos o tenía un olor rancio? 🍫\n\nAunque el cacao en polvo es un alimento seco con un contenido de humedad de tan solo el 2–5 %, es sumamente higroscópico, lo que significa que absorbe con avidez la humedad del aire. La absorción de agua hace que sus moléculas se aglomeren en un proceso llamado apelmazamiento (caking), mientras que la manteca de cacao que contiene sufre hidrólisis (lipólisis), generando olores rancios.\n\nEn esta guía se presenta una guía de conservación del cacao en polvo respaldada por expertos internacionales en seguridad alimentaria para preservar su calidad y sabor. 🛡️",
-                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-                "whyDesc": "Comprender las características físicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Nunca refrigere ni congele el cacao en polvo ⚠️",
-                        "desc": "Sacar el cacao en polvo del refrigerador a temperatura ambiente provoca cambios térmicos bruscos que crean condensación en la superficie. Esta microhumedad se infiltra en el polvo, causando un grave apelmazamiento y creando el entorno ideal para el moho y las bacterias."
-                    },
-                    {
-                        "title": "Evite recipientes transparentes y la exposición a la luz solar ☀️",
-                        "desc": "La manteca de cacao presente en el polvo sufre fotooxidación al exponerse a la luz ultravioleta y solar, degradando su sabor y aroma. Guárdelo siempre en un recipiente opaco que bloquee la luz por completo."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Guarde en un recipiente hermético u opaco — Sellado completo 🫙",
-                        "text": "Los mayores enemigos del cacao en polvo son la humedad ambiental y la luz. 💡 Consejo de almacenamiento: Tras abrirlo, páselo del empaque original a un frasco opaco de vidrio, acero inoxidable o bolsa con cierre hermético que bloquee la luz, y cierre firmemente."
-                    },
-                    {
-                        "name": "Conserve a temperatura ambiente fresca y seca (15–20 °C) — Almacenamiento a temp. ambiente (2 años sin abrir / 1 año abierto) 🌡️",
-                        "text": "Un ambiente con humedad relativa inferior al 50 % y temperaturas de 15–20 °C es el ideal. 💡 Consejo de almacenamiento: Aléjelo de fuentes de calor y vapor como estufas, hornos o lavavajillas. Guárdelo en una despensa o armario oscuro y fresco. Sin abrir dura 2 años y abierto en recipiente sellado dura 1 año."
-                    },
-                    {
-                        "name": "Use únicamente cucharas totalmente secas — Prevención de contaminación 🥄",
-                        "text": "Una sola gota de agua al tomar el producto puede echar a perder todo el frasco. 💡 Consejo de almacenamiento: Nunca introduzca una cuchara húmeda ni vierta el cacao directamente sobre una olla hirviendo con vapor. Utilice siempre un utensilio limpio y completamente seco."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mi cacao en polvo tiene grumos. ¿Sigue siendo seguro consumirlo?",
-                        "answer": "Si los grumos se deshacen fácilmente al presionarlos con una cuchara y no hay mal olor, es un apelmazamiento leve por humedad absorbida y es seguro usarlo. Sin embargo, si los grumos están muy duros o huele agrio/rancio, las grasas se han oxidado o puede haber moho, por lo que debe desecharse."
-                    },
-                    {
-                        "question": "¿El cacao alcalinizado (holandés) requiere un almacenamiento diferente al cacao natural?",
-                        "answer": "No. Aunque difieren en el nivel de pH, tanto el cacao natural como el alcalinizado comparten las mismas propiedades higroscópicas y de oxidación de lípidos. Independientemente del tipo, conserve el producto en un recipiente opaco y hermético a temperatura ambiente fresca (15–20 °C)."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver la poudre de cacao fraîche : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la poudre de cacao selon les directives officielles de sécurité.",
-                "authority": "FDA & EFSA & MFDS",
-                "intro": "Avez-vous déjà voulu utiliser de la poudre de cacao pour de la pâtisserie ou un chocolat chaud, pour découvrir qu'elle avait formé de durs grumeaux ou dégageait une odeur rance ? 🍫\n\nBien que la poudre de cacao soit un aliment sec ne contenant que 2 à 5 % d'humidité, elle est extrêmement hygroscopique, absorbant rapidement l'humidité de l'air. L'absorption d'eau agglutine les molécules (mottage ou caking), tandis que le beurre de cacao qu'elle contient subit une hydrolyse (lipolyse), générant des odeurs de rance.\n\nDans ce guide, vous présente un guide de conservation de la poudre de cacao recommandé par des experts internationaux en sécurité alimentaire pour préserver sa qualité et sa richesse aromatique. 🛡️",
-                "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne réfrigérez ni ne congelez jamais la poudre de cacao ⚠️",
-                        "desc": "Sortir de la poudre de cacao du réfrigérateur vers la température ambiante provoque un choc thermique créant de la condensation en surface. Cette micro-humidité s'infiltre dans la poudre, provoquant un fort mottage et favorisant le développement de moisissures."
-                    },
-                    {
-                        "title": "Évitez les récipients transparents et la lumière directe ☀️",
-                        "desc": "Le beurre de cacao contenu dans la poudre subit une photo-oxydation sous l'effet des rayons UV et de la lumière, altérant ses saveurs. Conservez-la toujours dans un récipient opaque fermant hermétiquement."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Conserver dans un récipient hermétique opaque — Étanchéité totale 🫙",
-                        "text": "Les principaux ennemis du cacao en poudre sont l'humidité ambiante et la lumière. 💡 Astuce de conservation : Après ouverture, transférez la poudre dans un bocal opaque en verre, en inox ou dans un sachet opaque hermétique pour empêcher l'air d'entrer."
-                    },
-                    {
-                        "name": "Conserver à température ambiante fraîche et sèche (15–20 °C) — Stockage ambiant (2 ans non ouvert / 1 an ouvert) 🌡️",
-                        "text": "Un environnement avec une humidité relative inférieure à 50 % et une température de 15–20 °C est idéal. 💡 Astuce de conservation : Éloignez la poudre des sources de chaleur et de vapeur (plaques, four, lave-vaisselle). Rangez-la dans un placard sombre et frais. Elle se conserve 2 ans non ouverte et 1 an après ouverture."
-                    },
-                    {
-                        "name": "Utiliser uniquement des cuillères parfaitement sèches — Anti-contamination 🥄",
-                        "text": "Une seule goutte d'eau introduite lors du prélèvement peut gâter l'ensemble du pot. 💡 Astuce de conservation : N'utilisez jamais une cuillère humide et ne saupoudrez pas le cacao directement au-dessus d'une casserole fumante. Utilisez toujours un ustensile propre et bien sec."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Ma poudre de cacao a formé des grumeaux. Est-elle encore consommable ?",
-                        "answer": "Si les grumeaux s'écrasent facilement sous la pression d'une cuillère et qu'aucune odeur suspecte n'est présente, il s'agit d'un simple mottage dû à l'humidité et le cacao est propre à la consommation. En revanche, si les grumeaux sont durs ou si une odeur rance/acide se dégage, les graisses ont tout lieu d'être oxydées et le produit doit être jeté."
-                    },
-                    {
-                        "question": "Le cacao alcalinisé (procédé hollandais) se conserve-t-il différemment du cacao naturel ?",
-                        "answer": "Non. Bien que leur pH diffère, le cacao naturel et le cacao alcalinisé possèdent les mêmes propriétés hygroscopiques et de sensibilité à l'oxydation. Quel que soit le type, conservez-le dans un récipient hermétique et opaque à température ambiante fraîche (15–20 °C)."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Kakaopulver richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Kakaopulver basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "FDA & EFSA & MFDS",
-                "intro": "Wollten Sie schon einmal Kakaopulver zum Backen oder für eine heiße Schokolade verwenden und haben festgestellt, dass es zu harten Klumpen verkrustet war oder ranzig roch? 🍫\n\nObwohl Kakaopulver ein trockenes Lebensmittel mit nur 2–5 % Feuchtigkeitsgehalt ist, besitzt es eine extrem hohe Hygroskopie (Feuchtigkeitsaufnahme). Nimmt es Luftfeuchtigkeit auf, verkleben die Partikel miteinander (Verklumpung / Caking), während das enthaltene Kakaobutter-Fett eine Hydrolyse (Lipolyse) erleidet und ranzige Gerüche entwickelt.\n\nIn diesem Ratgeber erfahren Sie einen von internationalen Lebensmittelsicherheitsexperten empfohlenen, wissenschaftlich geprüften Ratgeber zur Kakaopulver-Lagerung, um Aroma und Qualität zu bewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physikalischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Kakaopulver niemals im Kühlschrank oder Tiefkühler lagern ⚠️",
-                        "desc": "Wird gekühltes Kakaopulver bei Raumtemperatur entnommen, entsteht durch den schlagartigen Temperaturunterschied Kondenswasser auf der Oberfläche. Diese Mikrofeuchtigkeit dringt in das Pulver ein, führt zu starker Verklumpung und bietet Schimmelpilzen den perfekten Nährboden."
-                    },
-                    {
-                        "title": "Transparente Behälter und künstliches/sonnenlicht meiden ☀️",
-                        "desc": "Die Kakaobutter im Pulver unterliegt bei UV- und Lichteinfluss einer Photooxidation, was den Geschmack und das Aroma zerstört. Lagern Sie das Pulver stets in einem lichtundurchlässigen, geschlossenen Behälter."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "In lichtundurchlässige, luftdichte Behälter umfüllen — Vollständiger Verschluss 🫙",
-                        "text": "Die größten Feinde von Kakaopulver sind Luftfeuchtigkeit und Licht. 💡 Lagerungstipp: Füllen Sie das Pulver nach dem Öffnen aus der Verpackung in eine dunkel getönte Glasdüse, eine Edelstahldose oder einen lichtgeschützten Ziploc-Beutel um und verschließen Sie ihn fest."
-                    },
-                    {
-                        "name": "Kühl und trocken bei Raumtemperatur (15–20 °C) lagern — Raumtemperaturlagerung (Ungeöffnet 2 Jahre / Geöffnet 1 Jahr) 🌡️",
-                        "text": "Ideal ist eine relative Luftfeuchtigkeit von unter 50 % bei 15–20 °C. 💡 Lagerungstipp: Halten Sie das Pulver fern von Herd, Ofen und Spülmaschine. Lagern Sie es in einem dunklen, kühlen Vorratsschrank. Ungeöffnet hält es 2 Jahre, geöffnet und dicht verschlossen 1 Jahr."
-                    },
-                    {
-                        "name": "Nur absolut trockene Löffel verwenden — Kontaminationsschutz 🥄",
-                        "text": "Schon ein einziger Wassertropfen beim Entnehmen kann die gesamte Packung verderben. 💡 Lagerungstipp: Verwenden Sie niemals feuchte Löffel und streuen Sie das Pulver nicht direkt über dampfende Töpfe. Nutzen Sie stets ein sauberes, trockenes Utensil."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mein Kakaopulver hat Klumpen gebildet. Kann ich es noch verwenden?",
-                        "answer": "Lassen sich die Klumpen mit einem Löffel leicht zerdrücken und riecht das Pulver normal, handelt es sich nur um eine leichte Verklumpung durch Luftfeuchtigkeit und es ist unbedenklich. Sind die Klumpen jedoch steinhart oder riecht es sauer/ranzig, sind die Fette oxidiert oder es bildet sich Schimmel – dann entsorgen."
-                    },
-                    {
-                        "question": "Unterscheidet sich die Lagerung von schwach entöltem (holländischem) Kakaopulver und schwach/nicht alkalisiertem Kakaopulver?",
-                        "answer": "Nein. Auch wenn sich der pH-Wert unterscheidet, sind Hygroskopie und Fettoxidation bei allen Kakaopulvern identisch. Lagern Sie jede Sorte stets in einem lichtundurchlässigen, luftdichten Behälter bei kühlen 15–20 °C."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar cacau em pó fresco: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para o cacau em pó com base em diretrizes oficiais de segurança.",
-                "authority": "FDA & EFSA & MFDS",
-                "intro": "Você já foi pegar cacau em pó para fazer uma receita de bolo ou preparar um chocolate quente e descobriu que ele estava empelotado em blocos duros ou com cheiro râncio? 🍫\n\nEmbora o cacau em pó seja um alimento seco com teor de umidade de apenas 2 a 5%, ele possui altíssima higroscopia, o que significa que absorve a umidade do ar com facilidade. A absorção de água faz com que as partículas se aglomerem (empedramento/caking), enquanto a manteiga de cacau presente sofre hidrólise (lipólise), gerando odores desagradáveis.\n\nNeste guia, apresentamos um guia científico de conservação de cacau em pó recomendado por especialistas internacionais em segurança alimentar para manter sua qualidade e sabor. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características físicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Regras essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca refrigere ou congele o cacau em pó ⚠️",
-                        "desc": "Retirar o cacau em pó da geladeira para a temperatura ambiente causa um choque térmico que gera condensação na superfície. Essa micro umidade penetra no pó, causando forte empedramento e criando o ambiente perfeito para mofo e bactérias."
-                    },
-                    {
-                        "title": "Evite recipientes transparentes e exposição à luz solar ☀️",
-                        "desc": "A manteiga de cacau presente no pó sofre foto-oxidação quando exposta aos raios UV e à luz solar, destruindo seu aroma e sabor. Guarde-o sempre em um recipiente opaco que bloqueie a luz totalmente."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Guarde em recipiente hermético e opaco — Vedação completa 🫙",
-                        "text": "Os maiores inimigos do cacau em pó são a umidade do ar e a luz. 💡 Dica de conservação: Após aberto, transfira o pó da embalagem original para um pote opaco de vidro, inox ou saco hermético que bloqueie a luz, e vede bem."
-                    },
-                    {
-                        "name": "Conserve em local fresco e seco a temperatura ambiente (15–20 °C) — Armazenamento a temp. ambiente (2 anos fechado / 1 ano aberto) 🌡️",
-                        "text": "Um ambiente com umidade relativa abaixo de 50% e temperatura entre 15 e 20 °C é o ideal. 💡 Dica de conservação: Mantenha longe do fogão, forno e lava-louças. Guarde dentro de um armário ou despensa escuro e fresco. Fechado dura 2 anos e aberto selado dura 1 ano."
-                    },
-                    {
-                        "name": "Use apenas colheres totalmente secas — Prevenção de contaminação 🥄",
-                        "text": "Uma única gota de água introduzida ao retirar o produto pode estragar todo o pote. 💡 Dica de conservação: Nunca use colheres úmidas nem polvilhe o cacau diretamente sobre panelas fumegantes. Use sempre um utensílio limpo e totalmente seco."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Meu cacau em pó empelotou. Ainda posso usar?",
-                        "answer": "Se as pelotas se desfazem facilmente ao pressionar com uma colher e não há cheiro estranho, é apenas um empedramento leve por umidade e é seguro usar. Porém, se os blocos estiverem muito duros ou o cheiro for azedo/râncio, as gorduras oxidaram ou há mofo, devendo ser descartado."
-                    },
-                    {
-                        "question": "O cacau em pó alcalino (processo holandês) exige armazenamento diferente do cacau natural?",
-                        "answer": "Não. Embora variem no nível de pH, tanto o cacau natural quanto o alcalino possuem as mesmas propriedades higroscópicas e de oxidação de gorduras. Independentemente do tipo, guarde em recipiente opaco e hermético em local fresco (15–20 °C)."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Bubuk Kakao agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk bubuk kakao berdasarkan pedoman keselamatan resmi.",
-                "authority": "FDA & EFSA & MFDS",
-                "intro": "Pernahkah Anda ingin mengambil bubuk kakao untuk membuat kue atau minuman cokelat hangat, lalu mendapati bubuknya menggumpal keras atau berbau tengik? 🍫\n\nMeskipun bubuk kakao adalah makanan kering dengan kadar air hanya 2–5%, bahan ini memiliki sifat higroskopis yang sangat tinggi, artinya sangat mudah menyerap kelembapan udara. Penyerapan air menyebabkan partikel saling menempel (penggumpalan / caking), sementara lemak cokelat (cocoa butter) di dalamnya mengalami hidrolisis (lipolisis) yang menghasilkan bau tengik.\n\nDalam panduan ini, kami membagikan panduan penyimpanan bubuk kakao berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan internasional untuk menjaga kualitas dan aromanya. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisik dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan pernah menyimpan bubuk kakao di kulkas atau freezer ⚠️",
-                        "desc": "Membawa bubuk kakao dingin dari kulkas ke suhu ruang memicu perubahan suhu drastis yang menimbulkan embun (kondensasi) di permukaan. Air mikro ini meresap ke dalam bubuk, memicu penggumpalan parah dan menjadi media tumbuh ideal bagi jamur serta bakteri."
-                    },
-                    {
-                        "title": "Hindari wadah transparan dan paparan sinar matahari langsung ☀️",
-                        "desc": "Kandungan lemak cokelat dalam bubuk kakao mengalami foto-oksidasi saat terpapar sinar UV dan cahaya matahari, yang merusak rasa dan aromanya. Selalu simpan dalam wadah kedap udara yang tidak tembus cahaya (buram)."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Simpan dalam wadah kedap udara yang buram — Penyegelan Sempurna 🫙",
-                        "text": "Musuh utama bubuk kakao adalah kelembapan udara dan cahaya. 💡 Tips Penyimpanan: Setelah dibuka, pindahkan bubuk dari kemasan asli ke toples kaca buram, wadah stainless steel, atau kantong Ziploc kedap cahaya, lalu tutup rapat."
-                    },
-                    {
-                        "name": "Simpan pada suhu ruang yang sejuk dan kering (15–20°C) — Simpan Suhu Ruang (2 Tahun Belum Dibuka / 1 Tahun Setelah Dibuka) 🌡️",
-                        "text": "Lingkungan dengan kelembapan relatif di bawah 50% dan suhu 15–20°C adalah kondisi ideal. 💡 Tips Penyimpanan: Jauhkan dari kompor, oven, dan mesin pencuci piring. Simpan di dalam lemari dapur atau kabinet yang gelap dan sejuk. Kemasan belum dibuka bertahan 2 tahun, dan setelah dibuka bertahan 1 tahun."
-                    },
-                    {
-                        "name": "Gunakan sendok yang benar-benar kering — Pencegahan Kontaminasi 🥄",
-                        "text": "Satu tetes air saja saat mengambil bubuk dapat merusak seluruh isi wadah. 💡 Tips Penyimpanan: Jangan gunakan sendok basah atau menaburkan bubuk langsung di atas panci yang berasap panas. Gunakan selalu sendok yang bersih dan kering."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Bubuk kakao saya menggumpal. Apakah masih aman digunakan?",
-                        "answer": "Jika gumpalan mudah hancur saat ditekan dengan sendok dan tidak berbau aneh, itu hanya penggumpalan ringan akibat menyerap sedikit kelembapan dan masih aman digunakan. Namun jika gumpalan sangat keras atau berbau asam/tengik, lemaknya telah teroksidasi atau tumbuh jamur, sehingga harus dibuang."
-                    },
-                    {
-                        "question": "Apakah bubuk kakao proses Dutch (alkalisasi) membutuhkan penyimpanan yang berbeda dari bubuk kakao natural?",
-                        "answer": "Tidak. Meskipun kadar pH keduanya berbeda, bubuk kakao natural maupun proses Dutch memiliki sifat higroskopis dan oksidasi lemak yang sama. Apa pun jenisnya, simpan dalam wadah kedap udara yang buram pada suhu ruang sejuk (15–20°C)."
-                    }
-                ]
-            }
-        }
+  "how-to-store-cocoa-powder": {
+    "ingId": "cocoa_powder",
+    "pubDate": "2026-01-15",
+    "updatedDate": "2026-01-15",
+    "heroImage": "/images/blog/cocoa_powder_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "카카오 파우더 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 카카오 파우더의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "미국 식품의약국(FDA) & 유럽식품안전청(EFSA) & 식품의약품안전처(MFDS)",
+        "intro": "홈 베이킹이나 따뜻한 코코아를 만들려고 카카오 파우더를 꺼냈다가, 덩어리가 단단하게 뭉쳐 있거나 눅눅한 냄새가 나서 당황하신 적 있으시죠? 🍫\n\n카카오 파우더는 수분 함량이 2~5%에 불과한 건조 식품이지만, 주변 수분을 강력하게 끌어당기는 흡습성(Hygroscopic)이 매우 뛰어납니다. 공기 중의 수분을 흡수하면 분자끼리 엉겨 붙어 굳어지는 케이킹(Caking) 현상이 발생하고, 포함된 코코아 버터 지방이 수분해(Lipolysis)되면서 쩐내(산패취)가 나기 쉽습니다.\n\n이번 가이드에서는 국제 식품 안전 전문가들이 권장하는 과학적이고 확실한 카카오 파우더 품질 유지 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 물리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "절대 냉장 또는 냉동 보관하지 마세요 ⚠️",
+            "desc": "냉장고에 넣었던 카카오 파우더를 상온으로 꺼내면 온도가 급격히 변하면서 표면에 결로(이슬 맺힘) 현상이 발생합니다. 이 미세한 수분이 파우더 내부로 침투하면 케이킹 현상을 일으키고 곰팡이 및 세균 번식의 결정적 원인이 됩니다."
+          },
+          {
+            "title": "투명한 용기나 직사광선 노출을 피하세요 ☀️",
+            "desc": "카카오 파우더에 들어있는 코코아 버터 자외선과 빛에 노출되면 광산화(Photo-oxidation) 반응을 일으켜 맛과 향이 변질됩니다. 빛이 통하지 않는 불투명한 용기에 보관해야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "빛과 공기를 차단하는 불투명 밀폐 용기에 담기 — 완벽 밀폐 보관 🫙",
+            "text": "카카오 파우더의 가장 큰 적은 공기 중의 습기와 빛입니다. 💡 보관 팁: 개봉 후에는 원래 봉투째 보관하기보다 자외선이 차단되는 불투명한 유리는 밀폐 용기나 스텐 용기, 또는 차광 지퍼백에 옮겨 담고 공기가 들어가지 않도록 밀봉하세요."
+          },
+          {
+            "name": "서늘하고 건조한 상온(15~20℃)에 보관하기 — 상온 보관 (미개봉 2년 / 개봉 후 1년) 🌡️",
+            "text": "습도 50% 이하, 온도 15~20℃의 환경이 카카오 파우더 보관에 가장 이상적입니다. 💡 보관 팁: 가스레인지, 오븐, 식기세척기 주변처럼 열기와 수증기가 발생하는 장소를 피해 다용도실이나 찬장 안쪽처럼 어둡고 서늘한 곳에 보관해 주세요. 미개봉 시 2년, 개봉 후 밀폐 상태로 1년 동안 최상의 맛을 유지할 수 있습니다."
+          },
+          {
+            "name": "사용 시 물기 없는 건조한 스푼만 사용하기 — 오염 방지 🥄",
+            "text": "파우더를 덜어낼 때 미세한 수분이라도 들어가면 전체가 뭉치고 상할 수 있습니다. 💡 보관 팁: 젖은 스푼이나 수증기가 올라오는 냄비 바로 위에서 파우더를 직접 털어 넣지 마세요. 반드시 바짝 마른 깨끗한 스푼을 사용해 필요한 양만큼만 건조한 용기에 덜어내어 써야 합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "카카오 파우더가 덩어리져 뭉쳤는데 먹어도 되나요?",
+            "answer": "단순히 살짝 뭉친 상태에서 숟가락으로 눌렀을 때 쉽게 부서지고 이상한 냄새가 나지 않는다면 수분을 약간 흡수한 케이킹 현상이므로 사용하셔도 됩니다. 그러나 단단하게 굳어 부서지지 않거나 시큼하고 쩐내가 난다면 지방 산패 및 곰팡이 오염 가능성이 높으므로 폐기해야 합니다."
+          },
+          {
+            "question": "더치 프로세스(알칼리화) 카카오 파우더와 내추럴 카카오 파우더의 보관법에 차이가 있나요?",
+            "answer": "두 종류 모두 산도(pH) 차이만 있을 뿐 수분 흡수성과 지방 산패 원리는 동일합니다. 알칼리화 여부와 상관없이 습기와 빛을 차단하여 15~20℃ 서늘한 상온에서 불투명 밀폐 용기에 보관하는 규칙은 동일합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Cocoa Powder Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for cocoa powder based on official safety guidelines.",
+        "authority": "FDA & EFSA & MFDS",
+        "intro": "Have you ever opened your cocoa powder for home baking or a warm mug of hot chocolate, only to find it clumped into hard lumps or smelling stale? 🍫\n\nAlthough cocoa powder is a dry food with a moisture content of only 2–5%, it is exceptionally hygroscopic, meaning it greedily absorbs moisture from the surrounding air. Absorbing humidity causes molecules to bind together in a process known as caking, while the cocoa butter fat inside undergoes hydrolysis (lipolysis), producing rancid off-odors.\n\nIn this guide, we introduce a scientifically proven cocoa powder storage guide recommended by international food safety experts to preserve its quality and rich flavor. 🛡️",
+        "whyTitle": "Why Store Cocoa Powder This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physical and chemical characteristics of each food item and applying the proper storage method is essential for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never refrigerate or freeze cocoa powder ⚠️",
+            "desc": "Taking refrigerated cocoa powder out into room temperature causes rapid thermal changes that create surface condensation. This micro-moisture penetrates the powder, causing severe caking and creating an ideal breeding ground for mold and bacteria."
+          },
+          {
+            "title": "Avoid transparent containers and direct light exposure ☀️",
+            "desc": "The cocoa butter in cocoa powder undergoes photo-oxidation when exposed to ultraviolet light and ambient sunlight, degrading its flavor and aroma. Always store it in an opaque container that blocks light entirely."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Store in airtight, opaque containers — Complete Sealing 🫙",
+            "text": "The greatest enemies of cocoa powder are atmospheric moisture and light. 💡 Storage Tip: After opening, transfer the powder from its original pouch into an opaque glass, stainless steel, or light-blocking airtight container, and seal tightly to prevent air entry."
+          },
+          {
+            "name": "Store at cool, dry room temperature (15–20°C / 59–68°F) — Room Temp Storage (2 Years Unopened / 1 Year Opened) 🌡️",
+            "text": "An environment with relative humidity under 50% and temperatures between 15–20°C (59–68°F) is ideal. 💡 Storage Tip: Keep away from heat and steam sources such as stoves, ovens, and dishwashers. Store inside a dark, cool pantry or cabinet. Unopened cocoa powder lasts up to 2 years, and sealed opened powder stays fresh for 1 year."
+          },
+          {
+            "name": "Use only clean, completely dry spoons — Prevent Contamination 🥄",
+            "text": "Even a drop of moisture introduced while scooping can ruin the whole batch. 💡 Storage Tip: Never insert a wet spoon or hold the container directly over a steaming hot pot. Always use a thoroughly dry, clean utensil to measure out the required amount."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "My cocoa powder has formed clumps. Is it still safe to use?",
+            "answer": "If the clumps crumble easily when pressed with a spoon and there is no off-odor, it is simply mild caking from absorbed humidity and is safe to use. However, if the lumps are hard, impossible to break, or smell sour/rancid, fats have oxidized or mold may be present, so it should be discarded."
+          },
+          {
+            "question": "Does Dutch-processed cocoa powder require different storage than natural cocoa powder?",
+            "answer": "No. While they differ in pH levels, both natural and Dutch-processed cocoa powders share the same hygroscopic nature and lipid oxidation properties. Regardless of the type, keep them in an opaque, airtight container at cool room temperature (15–20°C)."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ココアパウダーを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくココアパウダーの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "米国食品医薬品局(FDA) & 欧州食品安全機関(EFSA) & 食品医薬品安全処(MFDS)",
+        "intro": "お菓子作りや温かいココアを淹れようとココアパウダーを取り出した際、ダマになって固まっていたり、古い油のような臭いがして困ったことはありませんか？🍫\n\nココアパウダーは水分含有量がわずか2〜5%の乾燥食品ですが、周囲の湿気を強力に引き寄せる非常に高い吸湿性（Hygroscopic）を持っています。空気中の水分を吸収すると分子同士が結合して固まる「ケーキング（Caking）現象」が発生し、含まれるココアバターの脂質が加水分解（Lipolysis）を起こして酸化臭（戻り臭）が生じやすくなります。\n\n本記事では、国際的な食品安全専門家が推奨する、ココアパウダーの品質と風味が長持ちする科学的な保存方法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の物理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "絶対に冷蔵庫や冷凍庫で保存しないでください ⚠️",
+            "desc": "冷蔵保管したココアパウダーを常温に出すと、急激な温度変化によって表面に結露が発生します。この微細な水分がパウダー内部に浸透すると、激しいケーキング現象を引き起こし、カビや細菌が繁殖する最大の原因となります。"
+          },
+          {
+            "title": "透明な容器や直射日光への露出を避けてください ☀️",
+            "desc": "ココアパウダーに含まれるココアバターは、紫外線や光に当たると光酸化（Photo-oxidation）反応を起こし、味や香りが劣化します。必ず光を遮断する不透明な密閉容器で保存してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "光と空気を遮断する不透明な密閉容器に入れる — 完全密閉保存 🫙",
+            "text": "ココアパウダーの最大の敵は空気中の湿気と光です。💡保存のコツ：開封後は元の袋のまま保管せず、紫外線を通さない不透明なガラス瓶、ステンレス容器、または遮光チャック付き袋に移し替え、空気が入らないようしっかり密閉してください。"
+          },
+          {
+            "name": "涼しく乾燥した常温（15〜20℃）で保存する — 常温保存 (未開封2年 / 開封後1年) 🌡️",
+            "text": "湿度50%以下、温度15〜20℃の環境がココアパウダーの保存に最も理想的です。💡保存のコツ：コンロ、オーブン、食洗機の周辺など、熱や水蒸気が発生する場所を避け、パントリーや棚の奥など暗く涼しい場所に保管してください。未開封で2年、開封後は密閉状態で1年間、最高の風味を維持できます。"
+          },
+          {
+            "name": "使用時は水気のない完全に乾いたスプーンのみを使用する — 汚染防止 🥄",
+            "text": "すくう際に微量の水分が入るだけでも、全体が固まったり痛む原因になります。💡保存のコツ：濡れたスプーンや、湯気が立っている鍋の真上で直接振り入れないでください。必ず完全に乾いた清潔なスプーンを使用し、必要な分だけを取り出してご使用ください。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ココアパウダーが固まってダマになっていますが、使っても大丈夫ですか？",
+            "answer": "軽く固まっている程度でスプーンで押すと簡単に崩れ、異常な臭いがしなければ、湿気をわずかに吸収したケーキング現象ですので問題なく使用できます。ただし、硬く固まって崩れない場合や、酸っぱい臭い・油臭い臭いがする場合は酸化やカビの可能性があるため廃棄してください。"
+          },
+          {
+            "question": "ダッチプロセス（アルカリ処理）とナチュラルココアパウダーで保存方法に違いはありますか？",
+            "answer": "いいえ、違いはありません。pH値に違いはありますが、吸湿性と脂質酸化のメカニズムはどちらも同じです。種類に関係なく、光と湿気を遮断し、15〜20℃の涼しい常温で不透明な密閉容器に入れて保存してください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持可可粉新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解可可粉的最佳储存温度、方式及保鲜时长。",
+        "authority": "美国食品药品监督管理局(FDA) & 欧洲食品安全局(EFSA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "当您打算烘焙或冲泡一杯热可可而取出可可粉时，是否曾遇到过它结成硬块或散发出油酸味的情况？🍫\n\n可可粉虽然是水分含量仅为2~5%的干燥食品，但具有极强的吸湿性（Hygroscopic），会疯狂吸收空气中的水分。吸湿后分子间互相黏结会导致“结块（Caking）”现象，同时其中含有的可可脂成分会发生水解酸败（Lipolysis），从而产生异味。\n\n本指南基于国际食品安全专家的权威建议，为您带来保持可可粉高品质与浓郁风味的科学储存秘诀。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的物理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "绝对不要冷藏或冷冻保存 ⚠️",
+            "desc": "将冷藏的可可粉取出至常温时，剧烈的温差会导致其表面产生冷凝水（结露）。微小水滴渗入粉末内部会引发严重的结块现象，并为霉菌和细菌滋生提供温床。"
+          },
+          {
+            "title": "避免使用透明容器或暴露于阳光下 ☀️",
+            "desc": "可可粉中的可可脂在紫外线和日光照射下会发生光氧化（Photo-oxidation）反应，破坏其原本的风味与香气。务必使用不透光的遮光密闭容器储存。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "装入防光防空气的不透明密封容器 — 完全密封 🫙",
+            "text": "可可粉最大的敌人是空气中的湿气与光线。💡储存小贴士：开封后切勿直接用原包装袋保存，请转存至不透光的玻璃罐、不锈钢密封罐或避光拉链袋中，并紧密盖封以防空气进入。"
+          },
+          {
+            "name": "存放于阴凉干燥的常温环境（15~20℃） — 常温保存 (未开封2年 / 开封后1年) 🌡️",
+            "text": "相对湿度低于50%、温度在15~20℃的环境是最理想的可可粉储存条件。💡储存小贴士：避开灶台、烤箱、洗碗机等会产生热气和水蒸气的区域，存放在食品柜或橱柜深处等阴凉黑暗处。未开封可保存2年，开封后密封可保存1年。"
+          },
+          {
+            "name": "使用时务必保证勺子绝对干燥 — 防止污染 🥄",
+            "text": "取用粉末时哪怕带入一滴水，也会导致整罐可可粉结块变质。💡储存小贴士：切勿使用湿勺取用，也不要直接在冒着热气的锅上方倾倒可可粉。务必使用彻底擦干的干净勺子取用所需份量。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "可可粉结块了，还能继续使用吗？",
+            "answer": "如果只是轻微结块，用勺子轻轻一压就能散开，且没有任何异味，说明只是吸收了少许湿气，可以正常使用。但如果结块坚硬无法压碎，或散发出酸味、油酸哈味，说明脂肪已氧化或可能有霉菌滋生，应立即丢弃。"
+          },
+          {
+            "question": "碱化（荷兰式）可可粉与天然可可粉的储存方法有区别吗？",
+            "answer": "没有区别。虽然两者的酸碱度（pH值）不同，但吸湿特性与油脂氧化原理完全一致。无论哪种可可粉，都需要防潮避光，置于15~20℃的阴凉常温下用不透明密封容器储存。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener el cacao en polvo fresco: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para el cacao en polvo según las directrices oficiales de seguridad.",
+        "authority": "FDA & EFSA & MFDS",
+        "intro": "¿Alguna vez ha ido a sacar cacao en polvo para repostería o para preparar un tazón caliente y se ha encontrado con que estaba endurecido en grumos o tenía un olor rancio? 🍫\n\nAunque el cacao en polvo es un alimento seco con un contenido de humedad de tan solo el 2–5 %, es sumamente higroscópico, lo que significa que absorbe con avidez la humedad del aire. La absorción de agua hace que sus moléculas se aglomeren en un proceso llamado apelmazamiento (caking), mientras que la manteca de cacao que contiene sufre hidrólisis (lipólisis), generando olores rancios.\n\nEn esta guía se presenta una guía de conservación del cacao en polvo respaldada por expertos internacionales en seguridad alimentaria para preservar su calidad y sabor. 🛡️",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características físicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Nunca refrigere ni congele el cacao en polvo ⚠️",
+            "desc": "Sacar el cacao en polvo del refrigerador a temperatura ambiente provoca cambios térmicos bruscos que crean condensación en la superficie. Esta microhumedad se infiltra en el polvo, causando un grave apelmazamiento y creando el entorno ideal para el moho y las bacterias."
+          },
+          {
+            "title": "Evite recipientes transparentes y la exposición a la luz solar ☀️",
+            "desc": "La manteca de cacao presente en el polvo sufre fotooxidación al exponerse a la luz ultravioleta y solar, degradando su sabor y aroma. Guárdelo siempre en un recipiente opaco que bloquee la luz por completo."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Guarde en un recipiente hermético u opaco — Sellado completo 🫙",
+            "text": "Los mayores enemigos del cacao en polvo son la humedad ambiental y la luz. 💡 Consejo de almacenamiento: Tras abrirlo, páselo del empaque original a un frasco opaco de vidrio, acero inoxidable o bolsa con cierre hermético que bloquee la luz, y cierre firmemente."
+          },
+          {
+            "name": "Conserve a temperatura ambiente fresca y seca (15–20 °C) — Almacenamiento a temp. ambiente (2 años sin abrir / 1 año abierto) 🌡️",
+            "text": "Un ambiente con humedad relativa inferior al 50 % y temperaturas de 15–20 °C es el ideal. 💡 Consejo de almacenamiento: Aléjelo de fuentes de calor y vapor como estufas, hornos o lavavajillas. Guárdelo en una despensa o armario oscuro y fresco. Sin abrir dura 2 años y abierto en recipiente sellado dura 1 año."
+          },
+          {
+            "name": "Use únicamente cucharas totalmente secas — Prevención de contaminación 🥄",
+            "text": "Una sola gota de agua al tomar el producto puede echar a perder todo el frasco. 💡 Consejo de almacenamiento: Nunca introduzca una cuchara húmeda ni vierta el cacao directamente sobre una olla hirviendo con vapor. Utilice siempre un utensilio limpio y completamente seco."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mi cacao en polvo tiene grumos. ¿Sigue siendo seguro consumirlo?",
+            "answer": "Si los grumos se deshacen fácilmente al presionarlos con una cuchara y no hay mal olor, es un apelmazamiento leve por humedad absorbida y es seguro usarlo. Sin embargo, si los grumos están muy duros o huele agrio/rancio, las grasas se han oxidado o puede haber moho, por lo que debe desecharse."
+          },
+          {
+            "question": "¿El cacao alcalinizado (holandés) requiere un almacenamiento diferente al cacao natural?",
+            "answer": "No. Aunque difieren en el nivel de pH, tanto el cacao natural como el alcalinizado comparten las mismas propiedades higroscópicas y de oxidación de lípidos. Independientemente del tipo, conserve el producto en un recipiente opaco y hermético a temperatura ambiente fresca (15–20 °C)."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver la poudre de cacao fraîche : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la poudre de cacao selon les directives officielles de sécurité.",
+        "authority": "FDA & EFSA & MFDS",
+        "intro": "Avez-vous déjà voulu utiliser de la poudre de cacao pour de la pâtisserie ou un chocolat chaud, pour découvrir qu'elle avait formé de durs grumeaux ou dégageait une odeur rance ? 🍫\n\nBien que la poudre de cacao soit un aliment sec ne contenant que 2 à 5 % d'humidité, elle est extrêmement hygroscopique, absorbant rapidement l'humidité de l'air. L'absorption d'eau agglutine les molécules (mottage ou caking), tandis que le beurre de cacao qu'elle contient subit une hydrolyse (lipolyse), générant des odeurs de rance.\n\nDans ce guide, vous présente un guide de conservation de la poudre de cacao recommandé par des experts internationaux en sécurité alimentaire pour préserver sa qualité et sa richesse aromatique. 🛡️",
+        "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne réfrigérez ni ne congelez jamais la poudre de cacao ⚠️",
+            "desc": "Sortir de la poudre de cacao du réfrigérateur vers la température ambiante provoque un choc thermique créant de la condensation en surface. Cette micro-humidité s'infiltre dans la poudre, provoquant un fort mottage et favorisant le développement de moisissures."
+          },
+          {
+            "title": "Évitez les récipients transparents et la lumière directe ☀️",
+            "desc": "Le beurre de cacao contenu dans la poudre subit une photo-oxydation sous l'effet des rayons UV et de la lumière, altérant ses saveurs. Conservez-la toujours dans un récipient opaque fermant hermétiquement."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Conserver dans un récipient hermétique opaque — Étanchéité totale 🫙",
+            "text": "Les principaux ennemis du cacao en poudre sont l'humidité ambiante et la lumière. 💡 Astuce de conservation : Après ouverture, transférez la poudre dans un bocal opaque en verre, en inox ou dans un sachet opaque hermétique pour empêcher l'air d'entrer."
+          },
+          {
+            "name": "Conserver à température ambiante fraîche et sèche (15–20 °C) — Stockage ambiant (2 ans non ouvert / 1 an ouvert) 🌡️",
+            "text": "Un environnement avec une humidité relative inférieure à 50 % et une température de 15–20 °C est idéal. 💡 Astuce de conservation : Éloignez la poudre des sources de chaleur et de vapeur (plaques, four, lave-vaisselle). Rangez-la dans un placard sombre et frais. Elle se conserve 2 ans non ouverte et 1 an après ouverture."
+          },
+          {
+            "name": "Utiliser uniquement des cuillères parfaitement sèches — Anti-contamination 🥄",
+            "text": "Une seule goutte d'eau introduite lors du prélèvement peut gâter l'ensemble du pot. 💡 Astuce de conservation : N'utilisez jamais une cuillère humide et ne saupoudrez pas le cacao directement au-dessus d'une casserole fumante. Utilisez toujours un ustensile propre et bien sec."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Ma poudre de cacao a formé des grumeaux. Est-elle encore consommable ?",
+            "answer": "Si les grumeaux s'écrasent facilement sous la pression d'une cuillère et qu'aucune odeur suspecte n'est présente, il s'agit d'un simple mottage dû à l'humidité et le cacao est propre à la consommation. En revanche, si les grumeaux sont durs ou si une odeur rance/acide se dégage, les graisses ont tout lieu d'être oxydées et le produit doit être jeté."
+          },
+          {
+            "question": "Le cacao alcalinisé (procédé hollandais) se conserve-t-il différemment du cacao naturel ?",
+            "answer": "Non. Bien que leur pH diffère, le cacao naturel et le cacao alcalinisé possèdent les mêmes propriétés hygroscopiques et de sensibilité à l'oxydation. Quel que soit le type, conservez-le dans un récipient hermétique et opaque à température ambiante fraîche (15–20 °C)."
+          }
+        ]
+      },
+      "de": {
+        "title": "Kakaopulver richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Kakaopulver basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "FDA & EFSA & MFDS",
+        "intro": "Wollten Sie schon einmal Kakaopulver zum Backen oder für eine heiße Schokolade verwenden und haben festgestellt, dass es zu harten Klumpen verkrustet war oder ranzig roch? 🍫\n\nObwohl Kakaopulver ein trockenes Lebensmittel mit nur 2–5 % Feuchtigkeitsgehalt ist, besitzt es eine extrem hohe Hygroskopie (Feuchtigkeitsaufnahme). Nimmt es Luftfeuchtigkeit auf, verkleben die Partikel miteinander (Verklumpung / Caking), während das enthaltene Kakaobutter-Fett eine Hydrolyse (Lipolyse) erleidet und ranzige Gerüche entwickelt.\n\nIn diesem Ratgeber erfahren Sie einen von internationalen Lebensmittelsicherheitsexperten empfohlenen, wissenschaftlich geprüften Ratgeber zur Kakaopulver-Lagerung, um Aroma und Qualität zu bewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physikalischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Kakaopulver niemals im Kühlschrank oder Tiefkühler lagern ⚠️",
+            "desc": "Wird gekühltes Kakaopulver bei Raumtemperatur entnommen, entsteht durch den schlagartigen Temperaturunterschied Kondenswasser auf der Oberfläche. Diese Mikrofeuchtigkeit dringt in das Pulver ein, führt zu starker Verklumpung und bietet Schimmelpilzen den perfekten Nährboden."
+          },
+          {
+            "title": "Transparente Behälter und künstliches/sonnenlicht meiden ☀️",
+            "desc": "Die Kakaobutter im Pulver unterliegt bei UV- und Lichteinfluss einer Photooxidation, was den Geschmack und das Aroma zerstört. Lagern Sie das Pulver stets in einem lichtundurchlässigen, geschlossenen Behälter."
+          }
+        ],
+        "steps": [
+          {
+            "name": "In lichtundurchlässige, luftdichte Behälter umfüllen — Vollständiger Verschluss 🫙",
+            "text": "Die größten Feinde von Kakaopulver sind Luftfeuchtigkeit und Licht. 💡 Lagerungstipp: Füllen Sie das Pulver nach dem Öffnen aus der Verpackung in eine dunkel getönte Glasdüse, eine Edelstahldose oder einen lichtgeschützten Ziploc-Beutel um und verschließen Sie ihn fest."
+          },
+          {
+            "name": "Kühl und trocken bei Raumtemperatur (15–20 °C) lagern — Raumtemperaturlagerung (Ungeöffnet 2 Jahre / Geöffnet 1 Jahr) 🌡️",
+            "text": "Ideal ist eine relative Luftfeuchtigkeit von unter 50 % bei 15–20 °C. 💡 Lagerungstipp: Halten Sie das Pulver fern von Herd, Ofen und Spülmaschine. Lagern Sie es in einem dunklen, kühlen Vorratsschrank. Ungeöffnet hält es 2 Jahre, geöffnet und dicht verschlossen 1 Jahr."
+          },
+          {
+            "name": "Nur absolut trockene Löffel verwenden — Kontaminationsschutz 🥄",
+            "text": "Schon ein einziger Wassertropfen beim Entnehmen kann die gesamte Packung verderben. 💡 Lagerungstipp: Verwenden Sie niemals feuchte Löffel und streuen Sie das Pulver nicht direkt über dampfende Töpfe. Nutzen Sie stets ein sauberes, trockenes Utensil."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mein Kakaopulver hat Klumpen gebildet. Kann ich es noch verwenden?",
+            "answer": "Lassen sich die Klumpen mit einem Löffel leicht zerdrücken und riecht das Pulver normal, handelt es sich nur um eine leichte Verklumpung durch Luftfeuchtigkeit und es ist unbedenklich. Sind die Klumpen jedoch steinhart oder riecht es sauer/ranzig, sind die Fette oxidiert oder es bildet sich Schimmel – dann entsorgen."
+          },
+          {
+            "question": "Unterscheidet sich die Lagerung von schwach entöltem (holländischem) Kakaopulver und schwach/nicht alkalisiertem Kakaopulver?",
+            "answer": "Nein. Auch wenn sich der pH-Wert unterscheidet, sind Hygroskopie und Fettoxidation bei allen Kakaopulvern identisch. Lagern Sie jede Sorte stets in einem lichtundurchlässigen, luftdichten Behälter bei kühlen 15–20 °C."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar cacau em pó fresco: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para o cacau em pó com base em diretrizes oficiais de segurança.",
+        "authority": "FDA & EFSA & MFDS",
+        "intro": "Você já foi pegar cacau em pó para fazer uma receita de bolo ou preparar um chocolate quente e descobriu que ele estava empelotado em blocos duros ou com cheiro râncio? 🍫\n\nEmbora o cacau em pó seja um alimento seco com teor de umidade de apenas 2 a 5%, ele possui altíssima higroscopia, o que significa que absorve a umidade do ar com facilidade. A absorção de água faz com que as partículas se aglomerem (empedramento/caking), enquanto a manteiga de cacau presente sofre hidrólise (lipólise), gerando odores desagradáveis.\n\nNeste guia, apresentamos um guia científico de conservação de cacau em pó recomendado por especialistas internacionais em segurança alimentar para manter sua qualidade e sabor. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características físicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Regras essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca refrigere ou congele o cacau em pó ⚠️",
+            "desc": "Retirar o cacau em pó da geladeira para a temperatura ambiente causa um choque térmico que gera condensação na superfície. Essa micro umidade penetra no pó, causando forte empedramento e criando o ambiente perfeito para mofo e bactérias."
+          },
+          {
+            "title": "Evite recipientes transparentes e exposição à luz solar ☀️",
+            "desc": "A manteiga de cacau presente no pó sofre foto-oxidação quando exposta aos raios UV e à luz solar, destruindo seu aroma e sabor. Guarde-o sempre em um recipiente opaco que bloqueie a luz totalmente."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Guarde em recipiente hermético e opaco — Vedação completa 🫙",
+            "text": "Os maiores inimigos do cacau em pó são a umidade do ar e a luz. 💡 Dica de conservação: Após aberto, transfira o pó da embalagem original para um pote opaco de vidro, inox ou saco hermético que bloqueie a luz, e vede bem."
+          },
+          {
+            "name": "Conserve em local fresco e seco a temperatura ambiente (15–20 °C) — Armazenamento a temp. ambiente (2 anos fechado / 1 ano aberto) 🌡️",
+            "text": "Um ambiente com umidade relativa abaixo de 50% e temperatura entre 15 e 20 °C é o ideal. 💡 Dica de conservação: Mantenha longe do fogão, forno e lava-louças. Guarde dentro de um armário ou despensa escuro e fresco. Fechado dura 2 anos e aberto selado dura 1 ano."
+          },
+          {
+            "name": "Use apenas colheres totalmente secas — Prevenção de contaminação 🥄",
+            "text": "Uma única gota de água introduzida ao retirar o produto pode estragar todo o pote. 💡 Dica de conservação: Nunca use colheres úmidas nem polvilhe o cacau diretamente sobre panelas fumegantes. Use sempre um utensílio limpo e totalmente seco."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Meu cacau em pó empelotou. Ainda posso usar?",
+            "answer": "Se as pelotas se desfazem facilmente ao pressionar com uma colher e não há cheiro estranho, é apenas um empedramento leve por umidade e é seguro usar. Porém, se os blocos estiverem muito duros ou o cheiro for azedo/râncio, as gorduras oxidaram ou há mofo, devendo ser descartado."
+          },
+          {
+            "question": "O cacau em pó alcalino (processo holandês) exige armazenamento diferente do cacau natural?",
+            "answer": "Não. Embora variem no nível de pH, tanto o cacau natural quanto o alcalino possuem as mesmas propriedades higroscópicas e de oxidação de gorduras. Independentemente do tipo, guarde em recipiente opaco e hermético em local fresco (15–20 °C)."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Bubuk Kakao agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk bubuk kakao berdasarkan pedoman keselamatan resmi.",
+        "authority": "FDA & EFSA & MFDS",
+        "intro": "Pernahkah Anda ingin mengambil bubuk kakao untuk membuat kue atau minuman cokelat hangat, lalu mendapati bubuknya menggumpal keras atau berbau tengik? 🍫\n\nMeskipun bubuk kakao adalah makanan kering dengan kadar air hanya 2–5%, bahan ini memiliki sifat higroskopis yang sangat tinggi, artinya sangat mudah menyerap kelembapan udara. Penyerapan air menyebabkan partikel saling menempel (penggumpalan / caking), sementara lemak cokelat (cocoa butter) di dalamnya mengalami hidrolisis (lipolisis) yang menghasilkan bau tengik.\n\nDalam panduan ini, kami membagikan panduan penyimpanan bubuk kakao berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan internasional untuk menjaga kualitas dan aromanya. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisik dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan pernah menyimpan bubuk kakao di kulkas atau freezer ⚠️",
+            "desc": "Membawa bubuk kakao dingin dari kulkas ke suhu ruang memicu perubahan suhu drastis yang menimbulkan embun (kondensasi) di permukaan. Air mikro ini meresap ke dalam bubuk, memicu penggumpalan parah dan menjadi media tumbuh ideal bagi jamur serta bakteri."
+          },
+          {
+            "title": "Hindari wadah transparan dan paparan sinar matahari langsung ☀️",
+            "desc": "Kandungan lemak cokelat dalam bubuk kakao mengalami foto-oksidasi saat terpapar sinar UV dan cahaya matahari, yang merusak rasa dan aromanya. Selalu simpan dalam wadah kedap udara yang tidak tembus cahaya (buram)."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Simpan dalam wadah kedap udara yang buram — Penyegelan Sempurna 🫙",
+            "text": "Musuh utama bubuk kakao adalah kelembapan udara dan cahaya. 💡 Tips Penyimpanan: Setelah dibuka, pindahkan bubuk dari kemasan asli ke toples kaca buram, wadah stainless steel, atau kantong Ziploc kedap cahaya, lalu tutup rapat."
+          },
+          {
+            "name": "Simpan pada suhu ruang yang sejuk dan kering (15–20°C) — Simpan Suhu Ruang (2 Tahun Belum Dibuka / 1 Tahun Setelah Dibuka) 🌡️",
+            "text": "Lingkungan dengan kelembapan relatif di bawah 50% dan suhu 15–20°C adalah kondisi ideal. 💡 Tips Penyimpanan: Jauhkan dari kompor, oven, dan mesin pencuci piring. Simpan di dalam lemari dapur atau kabinet yang gelap dan sejuk. Kemasan belum dibuka bertahan 2 tahun, dan setelah dibuka bertahan 1 tahun."
+          },
+          {
+            "name": "Gunakan sendok yang benar-benar kering — Pencegahan Kontaminasi 🥄",
+            "text": "Satu tetes air saja saat mengambil bubuk dapat merusak seluruh isi wadah. 💡 Tips Penyimpanan: Jangan gunakan sendok basah atau menaburkan bubuk langsung di atas panci yang berasap panas. Gunakan selalu sendok yang bersih dan kering."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Bubuk kakao saya menggumpal. Apakah masih aman digunakan?",
+            "answer": "Jika gumpalan mudah hancur saat ditekan dengan sendok dan tidak berbau aneh, itu hanya penggumpalan ringan akibat menyerap sedikit kelembapan dan masih aman digunakan. Namun jika gumpalan sangat keras atau berbau asam/tengik, lemaknya telah teroksidasi atau tumbuh jamur, sehingga harus dibuang."
+          },
+          {
+            "question": "Apakah bubuk kakao proses Dutch (alkalisasi) membutuhkan penyimpanan yang berbeda dari bubuk kakao natural?",
+            "answer": "Tidak. Meskipun kadar pH keduanya berbeda, bubuk kakao natural maupun proses Dutch memiliki sifat higroskopis dan oksidasi lemak yang sama. Apa pun jenisnya, simpan dalam wadah kedap udara yang buram pada suhu ruang sejuk (15–20°C)."
+          }
+        ]
+      }
     }
+  }
 }

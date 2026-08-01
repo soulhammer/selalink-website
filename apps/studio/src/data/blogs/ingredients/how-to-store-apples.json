@@ -1,406 +1,406 @@
 {
-    "how-to-store-apples": {
-        "ingId": "apple",
-        "pubDate": "2026-03-11",
-        "updatedDate": "2026-03-11",
-        "heroImage": "/images/blog/apple_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "사과 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 사과의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
-                "intro": "아삭하고 달콤한 사과를 한 상자 가득 사 왔는데, 시간이 지날수록 껍질이 쭈글쭈글해지고 푸석해진 경험 다들 있으시죠? 🍎\n\n사과는 전 세계인에게 가장 사랑받는 대표적인 과일이지만, 다른 식재료를 빠르게 부패시키는 강력한 천연 가스를 뿜어내기 때문에 보관할 때 특별한 주의가 필요합니다. 제대로 관리하지 않으면 사과 자체의 수분이 날아가 맛이 없어질 뿐만 아니라, 냉장고 안의 다른 채소와 과일까지 전부 망가뜨릴 수 있습니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 사과 신선도 극대화 3단계 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "상처 입거나 골은 사과는 즉시 격리하세요 🍎",
-                        "desc": "흠집이 생기거나 썩기 시작한 사과는 일반 사과에 비해 수십 배에 달하는 에틸렌 가스를 뿜어내며 주변 사과까지 빠르게 상하게 합니다. 상처 난 사과는 발견 즉시 따로 골라내어 상처 부위를 도려내고 먼저 드셔야 합니다."
-                    },
-                    {
-                        "title": "보관하기 전에 절대 물로 씻지 마세요 💧",
-                        "desc": "물기가 남아있는 상태로 랩핑하거나 용기에 밀봉하면 습기가 갇혀 사과 껍질에 곰팡이나 세균이 번식하기 매우 좋은 환경이 됩니다. 흙이나 이물질은 마른 천으로 가볍게 털어내어 보관하고, 씻는 것은 먹기 직전에 하세요."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "씻지 않고 식품용 랩으로 개별 포장하기 — 수분 보호 랩핑 📦",
-                        "text": "사과를 상온이나 냉장고에 그대로 노출시키면 수분이 계속해서 날아가 껍질이 쭈글쭈글해지고 과육이 푸석해집니다. 💡 보관 팁: 수확 및 포장 상태 그대로 물을 묻히지 않은 사과를 식품용 랩(또는 위생 비닐봉지)으로 한 알씩 빈틈없이 꽁꽁 감싸주세요. 이렇게 하면 사과 자체의 수분이 가두어져 오랫동안 아삭아삭한 식감을 유지할 수 있고, 자체 방출되는 에틸렌 가스가 외부로 누출되는 것도 1차적으로 차단할 수 있습니다."
-                    },
-                    {
-                        "name": "0~4℃ 저온 냉장 보관하기 — 냉장 보관 (30일) ❄️",
-                        "text": "온도가 높을수록 사과의 호흡 작용이 활발해져 에틸렌 방출량이 늘어나고 쉽게 상합니다. 💡 보관 팁: 사과가 가장 좋아하는 최적 온도는 0~4℃의 저온입니다. 랩으로 포장한 사과를 냉장고의 야채칸(신선실)이나 별도의 밀폐 용기에 담아 냉장 보관해 주세요. 영하로 내려가면 얼어서 맛이 변하므로 성에가 끼지 않는 온도를 유지하는 것이 핵심입니다."
-                    },
-                    {
-                        "name": "다른 식재료와 완벽히 격리 보관하기 — 철저한 차단 🛡️",
-                        "text": "아무리 랩으로 잘 감쌌더라도 사과의 강력한 에틸렌 가스는 냉장고 내부 공기를 통해 다른 신선 식품들에 영향을 줄 수 있습니다. 💡 보관 팁: 개별 랩핑한 사과들을 밀폐 지퍼백이나 큰 플라스틱 보관 용기에 담아 이중으로 밀봉해 주세요. 그리고 냉장고 내에서 상추, 시금치, 바나나, 배 등 에틸렌에 취약한 다른 과일 및 채소들과는 칸을 완전히 분리해 보관해야 모든 식재료를 지킬 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "사과를 다른 과일과 함께 보관하면 안 되는 이유가 무엇인가요?",
-                        "answer": "사과는 익으면서 에틸렌 가스를 많이 분출합니다. 이 가스가 주변의 다른 과일이나 채소의 숙성을 촉진시켜 쉽게 무르고 부패하게 만들기 때문에 지퍼백 등으로 따로 밀봉해 보관해야 합니다."
-                    },
-                    {
-                        "question": "갈변을 방지하는 팁이 있나요?",
-                        "answer": "자른 사과 표면에 묽은 소금물이나 설탕물을 살짝 바르거나 레몬즙을 발라두면, 산화 효소 작용이 억제되어 뽀얀 속살을 오래 유지할 수 있습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Apples Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for apples based on official safety guidelines.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Have you ever bought a box of crisp, sweet apples only to find their skins wrinkled and flesh mealy after a few days? 🍎\n\nApples are one of the world's most beloved fruits, but because they emit a powerful natural gas that accelerates the spoilage of other produce, storing them requires special care. Improper storage causes moisture loss, ruining their taste and spoiling other fruits and vegetables in your refrigerator.\n\nIn this guide, introduces a scientifically proven 3-step apple storage guide recommended by agriculture and food safety experts to maximize freshness. 🛡️",
-                "whyTitle": "Why Store Apples This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Isolate bruised or decaying apples immediately 🍎",
-                        "desc": "Bruised or rotting apples release dozens of times more ethylene gas than normal ones, rapidly spoiling nearby apples. As soon as you spot a damaged apple, separate it immediately, cut away the damaged portion, and consume it first."
-                    },
-                    {
-                        "title": "Never wash apples before storing 💧",
-                        "desc": "Wrapping or sealing wet apples traps moisture, creating an ideal environment for mold and bacteria to grow on the skin. Lightly wipe off dirt or debris with a dry cloth before storing, and wash apples right before eating."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Wrap individually with plastic wrap without washing — Moisture Retention Wrapping 📦",
-                        "text": "Exposing apples to ambient room air or the refrigerator directly causes moisture to evaporate continuously, making the skin wrinkled and the flesh mealy. 💡 Storage Tip: Keep dry apples unwashed as harvested and tightly wrap each one individually with food-grade plastic wrap (or plastic bag) without leaving gaps. This traps the apple's natural moisture to maintain a crisp texture for a long time and provides a primary barrier against ethylene gas leakage."
-                    },
-                    {
-                        "name": "Refrigerate at 0–4°C — Cold Storage (30 Days) ❄️",
-                        "text": "Higher temperatures increase the respiration rate of apples, producing more ethylene gas and causing them to spoil faster. 💡 Storage Tip: The optimal temperature for apples is 0–4°C (32–39°F). Place wrapped apples in the refrigerator crisper drawer or a separate airtight container. Maintaining a temperature above freezing prevents frost damage, which is key to preserving flavor and texture."
-                    },
-                    {
-                        "name": "Isolate completely from other foods — Double Protection 🛡️",
-                        "text": "Even if individually wrapped, the strong ethylene gas emitted by apples can still spread through refrigerator air and affect other fresh produce. 💡 Storage Tip: Place individually wrapped apples into a sealed Ziploc bag or large plastic storage container for double sealing. Store them in a separate compartment away from ethylene-sensitive fruits and vegetables like lettuce, spinach, bananas, and pears to protect all your produce."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why shouldn't apples be stored with other fruits?",
-                        "answer": "Apples release large amounts of ethylene gas as they ripen. This gas accelerates the ripening and spoilage of nearby fruits and vegetables, which is why apples should be sealed and stored separately in Ziploc bags or airtight containers."
-                    },
-                    {
-                        "question": "Is there a tip to prevent cut apples from browning?",
-                        "answer": "Lightly applying a mild saltwater, sugar water, or lemon juice solution to cut apple surfaces inhibits polyphenol oxidase enzyme activity, preserving their bright flesh longer."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "リンゴを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくりんごの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "シャキシャキと甘いリンゴを箱で買ってきたものの、時間が経つにつれて皮がシワシワになり、食感がパサついてしまった経験はありませんか？🍎\n\nリンゴは世界中で愛されている代表的な果物ですが、他の食材を急速に傷ませる強力な天然ガスを放出するため、保存には特別な注意が必要です。適切に meintenance しないと、リンゴ自体の水分が抜けて味が落ちるだけでなく、冷蔵庫内の他の野菜や果物まで全てダメにしてしまうことがあります。\n\n本記事では、農学および食品安全の専門家が推奨する、リンゴの鮮度を最大化する科学的で確実な3段階の保存のコツをご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "傷ついたり傷み始めたリンゴはすぐに隔離してください 🍎",
-                        "desc": "傷が入ったり腐り始めたリンゴは、正常なリンゴに比べて数十倍のエチレンガスを放出し、周囲のリンゴまであっという間に傷ませてしまいます。傷ついたリンゴを見つけたらすぐに選別し、傷んだ部分を切り落として先にお召し上がりください。"
-                    },
-                    {
-                        "title": "保存する前に絶対に水で洗わないでください 💧",
-                        "desc": "水気が残った状態でラップをしたり容器に密封したりすると、湿気がこもり、リンゴの皮にカビや雑菌が繁殖しやすくなります。土や汚れは乾いた布で軽く拭き取って保存し、洗うのは食べる直前にしてください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "洗わずに食品用ラップで個別包装する — 水分保護ラッピング 📦",
-                        "text": "リンゴをそのまま常温や冷蔵庫に露出させておくと、水分がどんどん抜けて皮がシワシワになり、果肉がパサついてしまいます。💡保存のコツ：水気をつけず、収穫・包装状態のままのリンゴを食品用ラップ（または衛生ポリ袋）で1個ずつ隙間なくぴったり包んでください。これによりリンゴ自体の水分が閉じ込められてシャキシャキ感が長持ちし、放出されるエチレンガスの外部漏れも一次的に遮断できます。"
-                    },
-                    {
-                        "name": "0〜4℃の低温で冷蔵保存する — 冷蔵保存 (30日間) ❄️",
-                        "text": "温度が高くなるとリンゴの呼吸作用が活発になり、エチレンの放出量が増えて傷みやすくなります。💡保存のコツ：リンゴが最も好む最適温度は0〜4℃の低温です。ラップで包んだリンゴを冷蔵庫の野菜室（鮮度保持室）や別の密閉容器に入れて冷蔵保存してください。氷点下になると凍って味が落ちるため、霜がつかない適切な温度を維持することがポイントです。"
-                    },
-                    {
-                        "name": "他の食材と完全に隔離して保存する — 徹底遮断 🛡️",
-                        "text": "いくらラップでよく包んでいても、リンゴの強力なエチレンガスは冷蔵庫内の空気を通じて他の新鮮食品に影響を与える可能性があります。💡保存のコツ：個別にラップしたリンゴを密閉ジッパーバッグや大きめのプラスチック容器に入れ、二重に密封してください。そして冷蔵庫内でレタス、ほうれん草、バナナ、洋梨など、エチレンに弱い他の野菜や果物とは棚を完全に分けて保存することが全ての食材を守る鍵です。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "リンゴを他の果物と一緒に保存してはいけない理由は何ですか？",
-                        "answer": "リンゴは熟す過程でエチレンガスを多く放出し、周囲の果物や野菜の追熟と腐敗を促進してしまいます。そのため、ジッパーバッグ等で個別に密閉して隔離保存する必要があります。"
-                    },
-                    {
-                        "question": "変色（褐変）を防ぐコツはありますか？",
-                        "answer": "カットしたリンゴの表面に薄い塩水や砂糖水を塗るか、レモン汁をかけておくと、酸化酵素の働きが抑えられ、綺麗な果肉の色を長く保つことができます。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持苹果新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解苹果的最佳储存温度、方式和保鲜时长。",
-                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "您是否曾买了一整箱爽脆甜美的水果苹果，却在几天内流失水分变得果皮起皱、果肉软绵？🍎\n\n苹果是深受全球喜爱的代表性水果，但由于它会释放出加速其他食材腐烂的强效天然气体，因此在储存时需要格外注意。如果管理不当，不仅苹果自身的水分会蒸发影响口感，还会损坏冰箱里的其他蔬果。\n\n本指南将为您介绍由农业及食品安全专家推荐的科学3步苹果保鲜秘诀，帮您最大程度延长新鲜度。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材的固有特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "请立即隔离破损或变质的苹果 🍎",
-                        "desc": "带有磕碰或开始腐烂的苹果释放的乙烯气体是正常苹果的数十倍，会迅速导致周围的苹果变质。一旦发现受损苹果，应立即挑选出来，切除损坏部位并优先食用。"
-                    },
-                    {
-                        "title": "储存前切勿用水清洗 💧",
-                        "desc": "带水进行包裹或密封储存会导致内部湿气积聚，为苹果皮上霉菌和细菌的滋生提供绝佳环境。泥土或杂质用干布轻擦干净即可，清洗请留到食用前进行。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "无需清洗，用保鲜膜逐个包裹 — 锁水防干包裹 📦",
-                        "text": "将苹果直接暴露在常温或冰箱空气中会导致水分不断蒸发，使果皮起皱、果肉变绵。💡储存小贴士：保持干燥状态，用食品级保鲜膜（或保鲜袋）将每颗苹果无缝紧密包裹。这样可以锁住苹果自身水分，长久保持爽脆口感，并有效阻断乙烯气体的外溢。"
-                    },
-                    {
-                        "name": "0~4℃ 低温冷藏保存 — 冷藏储存 (30天) ❄️",
-                        "text": "温度越高，苹果的呼吸作用越活跃，乙烯释放量随之增加，加速变质。💡储存小贴士：苹果最适宜的存储温度为0~4℃低温。将裹好保鲜膜的苹果放入冰箱蔬菜保鲜抽屉或专用的密封保鲜盒中。注意避免零下冻伤，保持不结霜的稳定温度是关键。"
-                    },
-                    {
-                        "name": "与其他食材彻底隔离 — 双重保护 🛡️",
-                        "text": "即便用保鲜膜裹好，苹果释放的强效乙烯气体仍可能通过冰箱内部空气影响其他新鲜食材。💡储存小贴士：将单颗包裹好的苹果装入密封拉链袋或大型塑料保鲜盒中，进行双重密封。在冰箱内必须与生菜、菠菜、香蕉、梨等对乙烯敏感的蔬果完全分层隔离存放。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "为什么不能把苹果与其他水果一起存放？",
-                        "answer": "苹果在成熟过程中会释放大量乙烯气体。这种气体会加速周围蔬果的成熟与腐烂，因此需要用拉链袋等单独密封隔离保存。"
-                    },
-                    {
-                        "question": "有什么防止苹果切面变黑（褐变）的窍门吗？",
-                        "answer": "在切开的苹果表面涂抹淡盐水、糖水或柠檬汁，可以抑制多酚氧化酶的活性，从而长时间保持果肉白皙鲜亮。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener las manzanas frescas: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para las manzanas según las directrices oficiales de seguridad.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "¿Alguna vez compró una caja de manzanas crujientes y dulces, solo para descubrir que en unos días la piel se arrugaba y la pulpa se volvía harinosa? 🍎\n\nLas manzanas son una de las frutas más queridas en todo el mundo, pero como emiten un potente gas natural que acelera el deterioro de otros alimentos, requieren un cuidado especial al almacenarlas. Si no se conservan correctamente, pierden su humedad y sabor, e incluso pueden echar a perder otras frutas y verduras del refrigerador.\n\nEn esta guía se presenta una guía de conservación de manzanas en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria para maximizar su frescura. 🛡️",
-                "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
-                "whyDesc": "Comprender las características únicas de cada ingrediente y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Aísle de inmediato las manzanas dañadas o en descomposición 🍎",
-                        "desc": "Las manzanas golpeadas o en proceso de pudrición liberan docenas de veces más gas etileno que las normales, acelerando el deterioro de las demás. En cuanto detecte una manzana dañada, sepárela, retire la parte afectada y consúmala primero."
-                    },
-                    {
-                        "title": "No lave las manzanas antes de guardarlas 💧",
-                        "desc": "Guardar las manzanas húmedas atrapa el agua en el envoltorio, creando el ambiente perfecto para que crezcan mohos y bacterias en la piel. Limpie el polvo o la suciedad con un paño seco antes de guardarlas y lávelas justo antes de comer."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Envuelva individualmente con film plástico sin lavar — Retención de humedad 📦",
-                        "text": "Exponer las manzanas al aire ambiente o introducirlas directamente al refrigerador provoca la evaporación constante de su humedad, arrugando la piel y ablandando la pulpa. 💡 Consejo de almacenamiento: Sin lavarlas, envuelva cada manzana seca firmemente con film transparente (o bolsa de plástico) sin dejar espacios. Esto atrapa la humedad natural para mantener su textura crujiente y crea una primera barrera contra la fuga de etileno."
-                    },
-                    {
-                        "name": "Conserve a baja temperatura (0 a 4 °C) — Almacenamiento refrigerado (30 días) ❄️",
-                        "text": "Cuanto mayor sea la temperatura, más intensa será la respiración de la manzana, aumentando la liberación de etileno y acelerando su descomposición. 💡 Consejo de almacenamiento: La temperatura óptima para las manzanas es de 0 a 4 °C. Guarde las manzanas envueltas en el cajón de verduras del refrigerador o en un recipiente hermético independiente. Mantener una temperatura constante por encima de 0 °C evita daños por congelación."
-                    },
-                    {
-                        "name": "Aísle por completo de otros alimentos — Doble protección 🛡️",
-                        "text": "Aunque estén envueltas individualmente, el potente gas etileno que emiten las manzanas puede circular por el aire del refrigerador y afectar a otros productos frescos. 💡 Consejo de almacenamiento: Guarde las manzanas envueltas dentro de una bolsa con cierre hermético o en un contenedor grande de plástico para lograr un sellado doble. Colóquelas en un compartimento separado de frutas y verduras sensibles al etileno como lechugas, espinacas, plátanos y peras."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué no se deben almacenar las manzanas junto a otras frutas?",
-                        "answer": "Las manzanas liberan grandes cantidades de gas etileno a medida que maduran. Este gas acelera la maduración y pudrición de las frutas y verduras cercanas, por lo que deben guardarse selladas y aisladas en bolsas con cierre hermético."
-                    },
-                    {
-                        "question": "¿Existe algún truco para evitar que la manzana cortada se ponga negra?",
-                        "answer": "Aplicar una ligera capa de agua con sal, agua con azúcar o jugo de limón sobre la superficie cortada inhibe la enzima polifenol oxidasa, manteniendo la pulpa clara por más tiempo."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver les pommes fraîches : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les pommes selon les directives officielles de sécurité.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Avez-vous déjà acheté une cagette de pommes bien croquantes et douces, pour constater quelques jours plus tard que leur peau s'est flétrie et que leur chair est devenue farineuse ? 🍎\n\nBien que la pomme soit l'un des fruits les plus appréciés au monde, elle émet un puissant gaz naturel qui accélère la dégradation des autres aliments, nécessitant une attention particulière lors du stockage. Sans une conservation adéquate, la pomme perd son humidité, altérant son goût et détériorant les autres fruits et légumes du réfrigérateur.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts en agriculture et sécurité alimentaire pour maximiser leur fraîcheur. 🛡️",
-                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Isolez immédiatement les pommes abîmées ou gâtées 🍎",
-                        "desc": "Les pommes meurtries ou commençant à pourrir libèrent des dizaines de fois plus de gaz éthylène que les pommes saines, accélérant la dégradation des fruits voisins. Dès que vous repérez une pomme abîmée, séparez-la, coupez la partie gâtée et consommez-la en priorité."
-                    },
-                    {
-                        "title": "Ne lavez jamais les pommes avant de les stocker 💧",
-                        "desc": "Envelopper ou sceller des pommes humides emprisonne l'eau, créant un environnement idéal pour le développement de moisissures et de bactéries sur la peau. Essuyez simplement la poussière ou la saleté avec un chiffon sec, et ne lavez les pommes qu'au moment de les consommer."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Envelopper individuellement dans du film étirable sans laver — Maintien de l'humidité 📦",
-                        "text": "Exposer les pommes à l'air ambiant ou au réfrigérateur sans protection entraîne une évaporation continue de leur eau, rendant la peau flétrie et la chair farineuse. 💡 Astuce de conservation : Sans les laver, enveloppez chaque pomme sèche hermétiquement dans du film plastique alimentaire (ou un sachet individuel). Cela emprisonne l'humidité naturelle du fruit pour préserver son croquant et empêche le gaz éthylène de s'échapper."
-                    },
-                    {
-                        "name": "Conserver à basse température (0 à 4 °C) — Stockage réfrigéré (30 jours) ❄️",
-                        "text": "Plus la température est élevée, plus la respiration de la pomme s'accélère, augmentant le rejet d'éthylène et hâtant le pourrissement. 💡 Astuce de conservation : La température idéale pour la pomme se situe entre 0 et 4 °C. Placez les pommes emballées dans le bac à légumes du réfrigérateur ou dans une boîte hermétique séparée. Veillez à maintenir une température au-dessus de 0 °C pour éviter le gel."
-                    },
-                    {
-                        "name": "Isoler totalement des autres aliments — Double protection 🛡️",
-                        "text": "Même bien emballées individuellement, le puissant gaz éthylène des pommes peut circuler dans l'air du réfrigérateur et altérer d'autres produits frais. 💡 Astuce de conservation : Placez les pommes déjà emballées dans un sac congélation à fermeture hermétique ou une grande boîte en plastique pour un double scellage. Conservez-les dans un compartiment séparé des fruits et légumes sensibles à l'éthylène comme la salade, les épinards, les bananes et les poires."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi ne faut-il pas stocker les pommes avec d'autres fruits ?",
-                        "answer": "Les pommes dégagent une grande quantité de gaz éthylène en mûrissant. Ce gaz accélère la maturation et le pourrissement des fruits et légumes environnants, c'est pourquoi il faut les isoler dans des sachets hermétiques."
-                    },
-                    {
-                        "question": "Existe-t-il une astuce pour empêcher une pomme coupée de brunir ?",
-                        "answer": "Badigeonner la surface coupée avec un peu d'eau salée, d'eau sucrée ou du jus de citron inhibe l'activité de la polyphénol oxydase, préservant ainsi la couleur claire de la chair plus longtemps."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Äpfel richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Äpfel basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Haben Sie schon einmal eine Kiste knackiger, süßer Äpfel gekauft, nur um festzustellen, dass nach wenigen Tagen die Schale schrumpelig und das Fruchtfleisch mehlig wurde? 🍎\n\nÄpfel gehören zu den beliebtesten Früchten weltweit, aber da sie ein starkes natürliches Gas freisetzen, das den Verderb anderer Lebensmittel beschleunigt, erfordert ihre Lagerung besondere Aufmerksamkeit. Bei falscher Aufbewahrung geht Feuchtigkeit verloren, was den Geschmack beeinträchtigt und anderes Obst und Gemüse im Kühlschrank schädigt.\n\nIn diesem Ratgeber erfahren Sie einen von Agrar- und Lebensmittelsicherheitsexperten empfohlenen, wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Frische Ihrer Äpfel zu maximieren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Sondern Sie beschädigte oder faulende Äpfel sofort aus 🍎",
-                        "desc": "Druckstellen oder beginnende Fäulnis führen dazu, dass Äpfel ein Vielfaches an Ethylengas im Vergleich zu gesunden Früchten abgeben. Dies beschleunigt den Verderb der umliegenden Äpfel rasch. Sortieren Sie beschädigte Äpfel sofort aus, schneiden Sie die betroffene Stelle ab und verbrauchen Sie sie zuerst."
-                    },
-                    {
-                        "title": "Äpfel vor der Lagerung niemals waschen 💧",
-                        "desc": "Werden feuchte Äpfel eingewickelt oder luftdicht verpackt, schließt dies Feuchtigkeit ein und schafft ein ideales Umfeld für Schimmelpilze und Bakterien auf der Schale. Wischen Sie Schmutz nur mit einem trockenen Tuch ab und waschen Sie die Äpfel erst direkt vor dem Verzehr."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Ungewaschen einzeln in Frischhaltefolie einwickeln — Feuchtigkeitsschutz 📦",
-                        "text": "Werden Äpfel ungeschützt der Raumluft oder dem Kühlschrank ausgesetzt, verdunstet kontinuierlich Feuchtigkeit, wodurch die Schale schrumpft und das Fleisch mehlig wird. 💡 Lagerungstipp: Wickeln Sie jeden trockenen, ungewaschenen Apfel einzeln und lückenlos fest in Frischhaltefolie (oder einen Hygienebeutel) ein. Dies schließt die Eigenfeuchtigkeit ein, hält den Apfel knackig und verhindert primär das Entweichen von Ethylengas."
-                    },
-                    {
-                        "name": "Bei 0–4 °C im Kühlschrank lagern — Kühllagerung (30 Tage) ❄️",
-                        "text": "Je höher die Temperatur, desto intensiver ist die Atmung des Apfels, was die Ethylenabgabe steigert und den Verderb beschleunigt. 💡 Lagerungstipp: Die optimale Temperatur für Äpfel liegt bei 0–4 °C. Legen Sie die eingewickelten Äpfel in das Gemüsefach des Kühlschranks oder in einen separaten Behälter. Achten Sie darauf, dass die Temperatur nicht unter den Gefrierpunkt fällt, um Frostschäden zu vermeiden."
-                    },
-                    {
-                        "name": "Vollständig von anderen Lebensmitteln isolieren — Doppelter Schutz 🛡️",
-                        "text": "Selbst einzeln eingewickelt kann das starke Ethylengas der Äpfel über die Luft im Kühlschrank andere frische Lebensmittel beeinträchtigen. 💡 Lagerungstipp: Geben Sie die einzeln umwickelten Äpfel zusätzlich in einen verschließbaren Ziploc-Beutel oder einen großen Plastikbehälter. Lagern Sie sie im Kühlschrank strikt getrennt von ethylenempfindlichem Gemüse und Obst wie Kopfsalat, Spinat, Bananen und Birnen."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum sollte man Äpfel nicht zusammen mit anderem Obst lagern?",
-                        "answer": "Äpfel stoßen während des Reifeprozesses große Mengen Ethylengas aus. Dieses Gas beschleunigt das Nachreifen und den Verderb von umliegendem Obst und Gemüse. Daher müssen Äpfel separat in dicht verschlossenen Beuteln aufbewahrt werden."
-                    },
-                    {
-                        "question": "Gibt es einen Tipp, um das Braunwerden angeschnittener Äpfel zu verhindern?",
-                        "answer": "Wenn Sie die Schnittflächen leicht mit verdünntem Salzwasser, Zuckerwasser oder Zitronensaft bestreichen, wird das Enzym Polyphenoloxidase gehemmt und das Fruchtfleisch bleibt länger hell."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar maçãs frescas: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para maçãs com base em diretrizes oficiais de segurança.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Você já comprou uma caixa de maçãs doces e crocantes e percebeu que em poucos dias a casca murchou e a polpa ficou farinhenta? 🍎\n\nA maçã é uma das frutas mais amadas do mundo, mas por emitir um potente gás natural que acelera a deterioração de outros alimentos, exige cuidados especiais no armazenamento. Se não for armazenada corretamente, a maçã perde sua umidade e sabor, além de poder estragar outros vegetais da geladeira.\n\nNeste guia, apresentamos um guia prático em 3 etapas recomendado por especialistas em agricultura e segurança alimentar para maximizar a frescura das suas maçãs. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Compreender as características únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Regras essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Isole imediatamente as maçãs machucadas ou estragadas 🍎",
-                        "desc": "Maçãs com machucados ou em processo de deterioração liberam dezenas de vezes mais gás etileno do que as normais, acelerando o apodrecimento das maçãs ao redor. Ao notar uma fruta danificada, separe-a imediatamente, corte a parte afetada e consuma-a primeiro."
-                    },
-                    {
-                        "title": "Nunca lave as maçãs antes de guardar 💧",
-                        "desc": "Embrulhar ou selar maçãs úmidas retém a umidade, criando um ambiente propício para o crescimento de mofo e bactérias na casca. Limpe sujeiras ou poeira apenas com um pano seco antes de guardar e lave-as somente no momento do consumo."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Embrulhar individualmente em filme plástico sem lavar — Retenção de umidade 📦",
-                        "text": "Expor as maçãs diretamente ao ar ambiente ou à geladeira faz com que percam umidade continuamente, deixando a casca murcha e a polpa farinhenta. 💡 Dica de conservação: Sem lavar, envolva cada maçã seca firmemente em filme plástico alimentar (ou saco plástico) sem deixar aberturas. Isso retém a umidade natural da fruta para manter sua crocância e impede a liberação do gás etileno."
-                    },
-                    {
-                        "name": "Armazenar a baixa temperatura (0 a 4 °C) — Refrigeração (30 dias) ❄️",
-                        "text": "Quanto mais alta a temperatura, mais acelerada é a respiração da maçã, aumentando a emissão de etileno e acelerando a deterioração. 💡 Dica de conservação: A temperatura ideal para as maçãs é de 0 a 4 °C. Coloque as maçãs embaladas na gaveta de legumes ou em um recipiente hermético separado. Mantenha a temperatura acima do ponto de congelamento para evitar danos por frio."
-                    },
-                    {
-                        "name": "Isolar completamente de outros alimentos — Proteção dupla 🛡️",
-                        "text": "Mesmo embrulhadas individualmente, o forte gás etileno emitido pelas maçãs pode circular pelo ar da geladeira e afetar outros alimentos frescos. 💡 Dica de conservação: Coloque as maçãs já embrulhadas dentro de um saco tipo Ziploc ou em um pote plástico grande para garantir uma vedação dupla. Guarde-as em um compartimento separado de vegetais e frutas sensíveis ao etileno, como alface, espinafre, banana e pera."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Por que não devo guardar maçãs junto com outras frutas?",
-                        "answer": "As maçãs liberam grandes quantidades de gás etileno durante o amadurecimento. Esse gás acelera a maturação e a deterioração de frutas e vegetais próximos, por isso elas devem ser seladas e guardadas separadamente."
-                    },
-                    {
-                        "question": "Existe alguma dica para evitar o escurecimento da maçã cortada?",
-                        "answer": "Passar uma leve camada de água com sal, água com açúcar ou suco de limão na superfície cortada inibe a ação da enzima polifenol oxidase, mantendo a polpa clara por mais tempo."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Apel agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk apel berdasarkan pedoman keselamatan resmi.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Pernahkah Anda membeli satu kotak apel yang manis dan renyah, tetapi dalam beberapa hari kulitnya menjadi keriput dan daging buahnya terasa empuk bertepung? 🍎\n\nApel adalah salah satu buah paling populer di dunia, tetapi karena mengeluarkan gas alami kuat yang dapat mempercepat pembusukan bahan makanan lain, penyimpanannya membutuhkan perhatian khusus. Jika tidak disimpan dengan benar, kadar air apel akan menguap sehingga merusak rasanya, bahkan dapat merusak buah dan sayuran lain di dalam kulkas.\n\nDalam panduan ini, kami membagikan panduan penyimpanan apel 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli pertanian dan keamanan pangan untuk memaksimalkan kesegarannya. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Segera pisahkan apel yang memar atau mulai membusuk 🍎",
-                        "desc": "Apel yang cacat atau mulai membusuk melepaskan gas etilen puluhan kali lebih banyak daripada apel normal, sehingga mempercepat pembusukan apel di sekitarnya. Begitu Anda menemukan apel yang rusak, segera pisahkan, potong bagian yang rusak, dan konsumsi terlebih dahulu."
-                    },
-                    {
-                        "title": "Jangan sekali-kali mencuci apel sebelum disimpan 💧",
-                        "desc": "Membungkus atau menutup rapat apel dalam kondisi basah akan mengunci kelembapan, menciptakan lingkungan yang sangat disukai jamur dan bakteri untuk berkembang di kulit apel. Lap kotoran atau debu dengan kain kering sebelum disimpan, dan cucilah apel tepat sebelum dimakan."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Bungkus satu per satu dengan plastik wrap tanpa dicuci — Perlindungan Kelembapan 📦",
-                        "text": "Membiarkan apel terbuka di suhu ruang atau kulkas membuat kadar airnya terus menguap, menyebabkan kulit keriput dan daging buah menjadi empuk bertepung. 💡 Tips Penyimpanan: Tanpa dicuci, bungkus setiap apel kering secara rapat menggunakan plastik wrap (atau kantong plastik bening). Langkah ini mengunci kelembapan alami apel agar tetap renyah serta menahan kebocoran gas etilen."
-                    },
-                    {
-                        "name": "Simpan pada suhu rendah 0–4°C — Penyimpanan Dingin (30 Hari) ❄️",
-                        "text": "Semakin tinggi suhu, semakin aktif respirasi apel, yang meningkatkan pelepasan gas etilen dan mempercepat pembusukan. 💡 Tips Penyimpanan: Suhu terbaik untuk apel adalah 0–4°C. Letakkan apel yang sudah dibungkus di laci sayuran kulkas atau dalam wadah kedap udara terpisah. Pastikan suhu tidak di bawah titik beku agar apel tidak membeku dan merusak teksturnya."
-                    },
-                    {
-                        "name": "Pisahkan secara total dari bahan makanan lain — Perlindungan Ganda 🛡️",
-                        "text": "Meskipun sudah dibungkus satu per satu, gas etilen kuat dari apel tetap dapat menyebar melalui udara kulkas dan memengaruhi bahan segar lainnya. 💡 Tips Penyimpanan: Masukkan apel yang sudah dibungkus plastik ke dalam kantong ziploc tertutup atau wadah plastik besar untuk penyegelan ganda. Simpan di kompartemen terpisah dari buah dan sayuran yang sensitif terhadap etilen seperti selada, bayam, pisang, dan pir."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa apel tidak boleh disimpan bersama buah-buahan lain?",
-                        "answer": "Apel melepaskan gas etilen dalam jumlah besar saat matang. Gas ini mempercepat pematangan dan pembusukan buah serta sayuran di sekitarnya, sehingga apel harus disegel dan disimpan secara terpisah dalam kantong ziploc."
-                    },
-                    {
-                        "question": "Apakah ada tips untuk mencegah apel yang dipotong agar tidak berubah warna menjadi cokelat?",
-                        "answer": "Oleskan tipis-tipis air garam encer, air gula, atau perasan air lemon pada permukaan apel yang dipotong. Langkah ini menghambat aktivitas enzim polifenol oksidase sehingga warna daging apel tetap cerah lebih lama."
-                    }
-                ]
-            }
-        }
+  "how-to-store-apples": {
+    "ingId": "apple",
+    "pubDate": "2026-03-11",
+    "updatedDate": "2026-03-11",
+    "heroImage": "/images/blog/apple_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "사과 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 사과의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+        "intro": "아삭하고 달콤한 사과를 한 상자 가득 사 왔는데, 시간이 지날수록 껍질이 쭈글쭈글해지고 푸석해진 경험 다들 있으시죠? 🍎\n\n사과는 전 세계인에게 가장 사랑받는 대표적인 과일이지만, 다른 식재료를 빠르게 부패시키는 강력한 천연 가스를 뿜어내기 때문에 보관할 때 특별한 주의가 필요합니다. 제대로 관리하지 않으면 사과 자체의 수분이 날아가 맛이 없어질 뿐만 아니라, 냉장고 안의 다른 채소와 과일까지 전부 망가뜨릴 수 있습니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 사과 신선도 극대화 3단계 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "상처 입거나 골은 사과는 즉시 격리하세요 🍎",
+            "desc": "흠집이 생기거나 썩기 시작한 사과는 일반 사과에 비해 수십 배에 달하는 에틸렌 가스를 뿜어내며 주변 사과까지 빠르게 상하게 합니다. 상처 난 사과는 발견 즉시 따로 골라내어 상처 부위를 도려내고 먼저 드셔야 합니다."
+          },
+          {
+            "title": "보관하기 전에 절대 물로 씻지 마세요 💧",
+            "desc": "물기가 남아있는 상태로 랩핑하거나 용기에 밀봉하면 습기가 갇혀 사과 껍질에 곰팡이나 세균이 번식하기 매우 좋은 환경이 됩니다. 흙이나 이물질은 마른 천으로 가볍게 털어내어 보관하고, 씻는 것은 먹기 직전에 하세요."
+          }
+        ],
+        "steps": [
+          {
+            "name": "씻지 않고 식품용 랩으로 개별 포장하기 — 수분 보호 랩핑 📦",
+            "text": "사과를 상온이나 냉장고에 그대로 노출시키면 수분이 계속해서 날아가 껍질이 쭈글쭈글해지고 과육이 푸석해집니다. 💡 보관 팁: 수확 및 포장 상태 그대로 물을 묻히지 않은 사과를 식품용 랩(또는 위생 비닐봉지)으로 한 알씩 빈틈없이 꽁꽁 감싸주세요. 이렇게 하면 사과 자체의 수분이 가두어져 오랫동안 아삭아삭한 식감을 유지할 수 있고, 자체 방출되는 에틸렌 가스가 외부로 누출되는 것도 1차적으로 차단할 수 있습니다."
+          },
+          {
+            "name": "0~4℃ 저온 냉장 보관하기 — 냉장 보관 (30일) ❄️",
+            "text": "온도가 높을수록 사과의 호흡 작용이 활발해져 에틸렌 방출량이 늘어나고 쉽게 상합니다. 💡 보관 팁: 사과가 가장 좋아하는 최적 온도는 0~4℃의 저온입니다. 랩으로 포장한 사과를 냉장고의 야채칸(신선실)이나 별도의 밀폐 용기에 담아 냉장 보관해 주세요. 영하로 내려가면 얼어서 맛이 변하므로 성에가 끼지 않는 온도를 유지하는 것이 핵심입니다."
+          },
+          {
+            "name": "다른 식재료와 완벽히 격리 보관하기 — 철저한 차단 🛡️",
+            "text": "아무리 랩으로 잘 감쌌더라도 사과의 강력한 에틸렌 가스는 냉장고 내부 공기를 통해 다른 신선 식품들에 영향을 줄 수 있습니다. 💡 보관 팁: 개별 랩핑한 사과들을 밀폐 지퍼백이나 큰 플라스틱 보관 용기에 담아 이중으로 밀봉해 주세요. 그리고 냉장고 내에서 상추, 시금치, 바나나, 배 등 에틸렌에 취약한 다른 과일 및 채소들과는 칸을 완전히 분리해 보관해야 모든 식재료를 지킬 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "사과를 다른 과일과 함께 보관하면 안 되는 이유가 무엇인가요?",
+            "answer": "사과는 익으면서 에틸렌 가스를 많이 분출합니다. 이 가스가 주변의 다른 과일이나 채소의 숙성을 촉진시켜 쉽게 무르고 부패하게 만들기 때문에 지퍼백 등으로 따로 밀봉해 보관해야 합니다."
+          },
+          {
+            "question": "갈변을 방지하는 팁이 있나요?",
+            "answer": "자른 사과 표면에 묽은 소금물이나 설탕물을 살짝 바르거나 레몬즙을 발라두면, 산화 효소 작용이 억제되어 뽀얀 속살을 오래 유지할 수 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Apples Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for apples based on official safety guidelines.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Have you ever bought a box of crisp, sweet apples only to find their skins wrinkled and flesh mealy after a few days? 🍎\n\nApples are one of the world's most beloved fruits, but because they emit a powerful natural gas that accelerates the spoilage of other produce, storing them requires special care. Improper storage causes moisture loss, ruining their taste and spoiling other fruits and vegetables in your refrigerator.\n\nIn this guide, introduces a scientifically proven 3-step apple storage guide recommended by agriculture and food safety experts to maximize freshness. 🛡️",
+        "whyTitle": "Why Store Apples This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Isolate bruised or decaying apples immediately 🍎",
+            "desc": "Bruised or rotting apples release dozens of times more ethylene gas than normal ones, rapidly spoiling nearby apples. As soon as you spot a damaged apple, separate it immediately, cut away the damaged portion, and consume it first."
+          },
+          {
+            "title": "Never wash apples before storing 💧",
+            "desc": "Wrapping or sealing wet apples traps moisture, creating an ideal environment for mold and bacteria to grow on the skin. Lightly wipe off dirt or debris with a dry cloth before storing, and wash apples right before eating."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Wrap individually with plastic wrap without washing — Moisture Retention Wrapping 📦",
+            "text": "Exposing apples to ambient room air or the refrigerator directly causes moisture to evaporate continuously, making the skin wrinkled and the flesh mealy. 💡 Storage Tip: Keep dry apples unwashed as harvested and tightly wrap each one individually with food-grade plastic wrap (or plastic bag) without leaving gaps. This traps the apple's natural moisture to maintain a crisp texture for a long time and provides a primary barrier against ethylene gas leakage."
+          },
+          {
+            "name": "Refrigerate at 0–4°C — Cold Storage (30 Days) ❄️",
+            "text": "Higher temperatures increase the respiration rate of apples, producing more ethylene gas and causing them to spoil faster. 💡 Storage Tip: The optimal temperature for apples is 0–4°C (32–39°F). Place wrapped apples in the refrigerator crisper drawer or a separate airtight container. Maintaining a temperature above freezing prevents frost damage, which is key to preserving flavor and texture."
+          },
+          {
+            "name": "Isolate completely from other foods — Double Protection 🛡️",
+            "text": "Even if individually wrapped, the strong ethylene gas emitted by apples can still spread through refrigerator air and affect other fresh produce. 💡 Storage Tip: Place individually wrapped apples into a sealed Ziploc bag or large plastic storage container for double sealing. Store them in a separate compartment away from ethylene-sensitive fruits and vegetables like lettuce, spinach, bananas, and pears to protect all your produce."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why shouldn't apples be stored with other fruits?",
+            "answer": "Apples release large amounts of ethylene gas as they ripen. This gas accelerates the ripening and spoilage of nearby fruits and vegetables, which is why apples should be sealed and stored separately in Ziploc bags or airtight containers."
+          },
+          {
+            "question": "Is there a tip to prevent cut apples from browning?",
+            "answer": "Lightly applying a mild saltwater, sugar water, or lemon juice solution to cut apple surfaces inhibits polyphenol oxidase enzyme activity, preserving their bright flesh longer."
+          }
+        ]
+      },
+      "ja": {
+        "title": "リンゴを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくりんごの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "シャキシャキと甘いリンゴを箱で買ってきたものの、時間が経つにつれて皮がシワシワになり、食感がパサついてしまった経験はありませんか？🍎\n\nリンゴは世界中で愛されている代表的な果物ですが、他の食材を急速に傷ませる強力な天然ガスを放出するため、保存には特別な注意が必要です。適切に meintenance しないと、リンゴ自体の水分が抜けて味が落ちるだけでなく、冷蔵庫内の他の野菜や果物まで全てダメにしてしまうことがあります。\n\n本記事では、農学および食品安全の専門家が推奨する、リンゴの鮮度を最大化する科学的で確実な3段階の保存のコツをご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "傷ついたり傷み始めたリンゴはすぐに隔離してください 🍎",
+            "desc": "傷が入ったり腐り始めたリンゴは、正常なリンゴに比べて数十倍のエチレンガスを放出し、周囲のリンゴまであっという間に傷ませてしまいます。傷ついたリンゴを見つけたらすぐに選別し、傷んだ部分を切り落として先にお召し上がりください。"
+          },
+          {
+            "title": "保存する前に絶対に水で洗わないでください 💧",
+            "desc": "水気が残った状態でラップをしたり容器に密封したりすると、湿気がこもり、リンゴの皮にカビや雑菌が繁殖しやすくなります。土や汚れは乾いた布で軽く拭き取って保存し、洗うのは食べる直前にしてください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "洗わずに食品用ラップで個別包装する — 水分保護ラッピング 📦",
+            "text": "リンゴをそのまま常温や冷蔵庫に露出させておくと、水分がどんどん抜けて皮がシワシワになり、果肉がパサついてしまいます。💡保存のコツ：水気をつけず、収穫・包装状態のままのリンゴを食品用ラップ（または衛生ポリ袋）で1個ずつ隙間なくぴったり包んでください。これによりリンゴ自体の水分が閉じ込められてシャキシャキ感が長持ちし、放出されるエチレンガスの外部漏れも一次的に遮断できます。"
+          },
+          {
+            "name": "0〜4℃の低温で冷蔵保存する — 冷蔵保存 (30日間) ❄️",
+            "text": "温度が高くなるとリンゴの呼吸作用が活発になり、エチレンの放出量が増えて傷みやすくなります。💡保存のコツ：リンゴが最も好む最適温度は0〜4℃の低温です。ラップで包んだリンゴを冷蔵庫の野菜室（鮮度保持室）や別の密閉容器に入れて冷蔵保存してください。氷点下になると凍って味が落ちるため、霜がつかない適切な温度を維持することがポイントです。"
+          },
+          {
+            "name": "他の食材と完全に隔離して保存する — 徹底遮断 🛡️",
+            "text": "いくらラップでよく包んでいても、リンゴの強力なエチレンガスは冷蔵庫内の空気を通じて他の新鮮食品に影響を与える可能性があります。💡保存のコツ：個別にラップしたリンゴを密閉ジッパーバッグや大きめのプラスチック容器に入れ、二重に密封してください。そして冷蔵庫内でレタス、ほうれん草、バナナ、洋梨など、エチレンに弱い他の野菜や果物とは棚を完全に分けて保存することが全ての食材を守る鍵です。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "リンゴを他の果物と一緒に保存してはいけない理由は何ですか？",
+            "answer": "リンゴは熟す過程でエチレンガスを多く放出し、周囲の果物や野菜の追熟と腐敗を促進してしまいます。そのため、ジッパーバッグ等で個別に密閉して隔離保存する必要があります。"
+          },
+          {
+            "question": "変色（褐変）を防ぐコツはありますか？",
+            "answer": "カットしたリンゴの表面に薄い塩水や砂糖水を塗るか、レモン汁をかけておくと、酸化酵素の働きが抑えられ、綺麗な果肉の色を長く保つことができます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持苹果新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解苹果的最佳储存温度、方式和保鲜时长。",
+        "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "您是否曾买了一整箱爽脆甜美的水果苹果，却在几天内流失水分变得果皮起皱、果肉软绵？🍎\n\n苹果是深受全球喜爱的代表性水果，但由于它会释放出加速其他食材腐烂的强效天然气体，因此在储存时需要格外注意。如果管理不当，不仅苹果自身的水分会蒸发影响口感，还会损坏冰箱里的其他蔬果。\n\n本指南将为您介绍由农业及食品安全专家推荐的科学3步苹果保鲜秘诀，帮您最大程度延长新鲜度。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材的固有特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "请立即隔离破损或变质的苹果 🍎",
+            "desc": "带有磕碰或开始腐烂的苹果释放的乙烯气体是正常苹果的数十倍，会迅速导致周围的苹果变质。一旦发现受损苹果，应立即挑选出来，切除损坏部位并优先食用。"
+          },
+          {
+            "title": "储存前切勿用水清洗 💧",
+            "desc": "带水进行包裹或密封储存会导致内部湿气积聚，为苹果皮上霉菌和细菌的滋生提供绝佳环境。泥土或杂质用干布轻擦干净即可，清洗请留到食用前进行。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "无需清洗，用保鲜膜逐个包裹 — 锁水防干包裹 📦",
+            "text": "将苹果直接暴露在常温或冰箱空气中会导致水分不断蒸发，使果皮起皱、果肉变绵。💡储存小贴士：保持干燥状态，用食品级保鲜膜（或保鲜袋）将每颗苹果无缝紧密包裹。这样可以锁住苹果自身水分，长久保持爽脆口感，并有效阻断乙烯气体的外溢。"
+          },
+          {
+            "name": "0~4℃ 低温冷藏保存 — 冷藏储存 (30天) ❄️",
+            "text": "温度越高，苹果的呼吸作用越活跃，乙烯释放量随之增加，加速变质。💡储存小贴士：苹果最适宜的存储温度为0~4℃低温。将裹好保鲜膜的苹果放入冰箱蔬菜保鲜抽屉或专用的密封保鲜盒中。注意避免零下冻伤，保持不结霜的稳定温度是关键。"
+          },
+          {
+            "name": "与其他食材彻底隔离 — 双重保护 🛡️",
+            "text": "即便用保鲜膜裹好，苹果释放的强效乙烯气体仍可能通过冰箱内部空气影响其他新鲜食材。💡储存小贴士：将单颗包裹好的苹果装入密封拉链袋或大型塑料保鲜盒中，进行双重密封。在冰箱内必须与生菜、菠菜、香蕉、梨等对乙烯敏感的蔬果完全分层隔离存放。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "为什么不能把苹果与其他水果一起存放？",
+            "answer": "苹果在成熟过程中会释放大量乙烯气体。这种气体会加速周围蔬果的成熟与腐烂，因此需要用拉链袋等单独密封隔离保存。"
+          },
+          {
+            "question": "有什么防止苹果切面变黑（褐变）的窍门吗？",
+            "answer": "在切开的苹果表面涂抹淡盐水、糖水或柠檬汁，可以抑制多酚氧化酶的活性，从而长时间保持果肉白皙鲜亮。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener las manzanas frescas: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para las manzanas según las directrices oficiales de seguridad.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "¿Alguna vez compró una caja de manzanas crujientes y dulces, solo para descubrir que en unos días la piel se arrugaba y la pulpa se volvía harinosa? 🍎\n\nLas manzanas son una de las frutas más queridas en todo el mundo, pero como emiten un potente gas natural que acelera el deterioro de otros alimentos, requieren un cuidado especial al almacenarlas. Si no se conservan correctamente, pierden su humedad y sabor, e incluso pueden echar a perder otras frutas y verduras del refrigerador.\n\nEn esta guía se presenta una guía de conservación de manzanas en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria para maximizar su frescura. 🛡️",
+        "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
+        "whyDesc": "Comprender las características únicas de cada ingrediente y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Aísle de inmediato las manzanas dañadas o en descomposición 🍎",
+            "desc": "Las manzanas golpeadas o en proceso de pudrición liberan docenas de veces más gas etileno que las normales, acelerando el deterioro de las demás. En cuanto detecte una manzana dañada, sepárela, retire la parte afectada y consúmala primero."
+          },
+          {
+            "title": "No lave las manzanas antes de guardarlas 💧",
+            "desc": "Guardar las manzanas húmedas atrapa el agua en el envoltorio, creando el ambiente perfecto para que crezcan mohos y bacterias en la piel. Limpie el polvo o la suciedad con un paño seco antes de guardarlas y lávelas justo antes de comer."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Envuelva individualmente con film plástico sin lavar — Retención de humedad 📦",
+            "text": "Exponer las manzanas al aire ambiente o introducirlas directamente al refrigerador provoca la evaporación constante de su humedad, arrugando la piel y ablandando la pulpa. 💡 Consejo de almacenamiento: Sin lavarlas, envuelva cada manzana seca firmemente con film transparente (o bolsa de plástico) sin dejar espacios. Esto atrapa la humedad natural para mantener su textura crujiente y crea una primera barrera contra la fuga de etileno."
+          },
+          {
+            "name": "Conserve a baja temperatura (0 a 4 °C) — Almacenamiento refrigerado (30 días) ❄️",
+            "text": "Cuanto mayor sea la temperatura, más intensa será la respiración de la manzana, aumentando la liberación de etileno y acelerando su descomposición. 💡 Consejo de almacenamiento: La temperatura óptima para las manzanas es de 0 a 4 °C. Guarde las manzanas envueltas en el cajón de verduras del refrigerador o en un recipiente hermético independiente. Mantener una temperatura constante por encima de 0 °C evita daños por congelación."
+          },
+          {
+            "name": "Aísle por completo de otros alimentos — Doble protección 🛡️",
+            "text": "Aunque estén envueltas individualmente, el potente gas etileno que emiten las manzanas puede circular por el aire del refrigerador y afectar a otros productos frescos. 💡 Consejo de almacenamiento: Guarde las manzanas envueltas dentro de una bolsa con cierre hermético o en un contenedor grande de plástico para lograr un sellado doble. Colóquelas en un compartimento separado de frutas y verduras sensibles al etileno como lechugas, espinacas, plátanos y peras."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué no se deben almacenar las manzanas junto a otras frutas?",
+            "answer": "Las manzanas liberan grandes cantidades de gas etileno a medida que maduran. Este gas acelera la maduración y pudrición de las frutas y verduras cercanas, por lo que deben guardarse selladas y aisladas en bolsas con cierre hermético."
+          },
+          {
+            "question": "¿Existe algún truco para evitar que la manzana cortada se ponga negra?",
+            "answer": "Aplicar una ligera capa de agua con sal, agua con azúcar o jugo de limón sobre la superficie cortada inhibe la enzima polifenol oxidasa, manteniendo la pulpa clara por más tiempo."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver les pommes fraîches : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les pommes selon les directives officielles de sécurité.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Avez-vous déjà acheté une cagette de pommes bien croquantes et douces, pour constater quelques jours plus tard que leur peau s'est flétrie et que leur chair est devenue farineuse ? 🍎\n\nBien que la pomme soit l'un des fruits les plus appréciés au monde, elle émet un puissant gaz naturel qui accélère la dégradation des autres aliments, nécessitant une attention particulière lors du stockage. Sans une conservation adéquate, la pomme perd son humidité, altérant son goût et détériorant les autres fruits et légumes du réfrigérateur.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts en agriculture et sécurité alimentaire pour maximiser leur fraîcheur. 🛡️",
+        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Isolez immédiatement les pommes abîmées ou gâtées 🍎",
+            "desc": "Les pommes meurtries ou commençant à pourrir libèrent des dizaines de fois plus de gaz éthylène que les pommes saines, accélérant la dégradation des fruits voisins. Dès que vous repérez une pomme abîmée, séparez-la, coupez la partie gâtée et consommez-la en priorité."
+          },
+          {
+            "title": "Ne lavez jamais les pommes avant de les stocker 💧",
+            "desc": "Envelopper ou sceller des pommes humides emprisonne l'eau, créant un environnement idéal pour le développement de moisissures et de bactéries sur la peau. Essuyez simplement la poussière ou la saleté avec un chiffon sec, et ne lavez les pommes qu'au moment de les consommer."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Envelopper individuellement dans du film étirable sans laver — Maintien de l'humidité 📦",
+            "text": "Exposer les pommes à l'air ambiant ou au réfrigérateur sans protection entraîne une évaporation continue de leur eau, rendant la peau flétrie et la chair farineuse. 💡 Astuce de conservation : Sans les laver, enveloppez chaque pomme sèche hermétiquement dans du film plastique alimentaire (ou un sachet individuel). Cela emprisonne l'humidité naturelle du fruit pour préserver son croquant et empêche le gaz éthylène de s'échapper."
+          },
+          {
+            "name": "Conserver à basse température (0 à 4 °C) — Stockage réfrigéré (30 jours) ❄️",
+            "text": "Plus la température est élevée, plus la respiration de la pomme s'accélère, augmentant le rejet d'éthylène et hâtant le pourrissement. 💡 Astuce de conservation : La température idéale pour la pomme se situe entre 0 et 4 °C. Placez les pommes emballées dans le bac à légumes du réfrigérateur ou dans une boîte hermétique séparée. Veillez à maintenir une température au-dessus de 0 °C pour éviter le gel."
+          },
+          {
+            "name": "Isoler totalement des autres aliments — Double protection 🛡️",
+            "text": "Même bien emballées individuellement, le puissant gaz éthylène des pommes peut circuler dans l'air du réfrigérateur et altérer d'autres produits frais. 💡 Astuce de conservation : Placez les pommes déjà emballées dans un sac congélation à fermeture hermétique ou une grande boîte en plastique pour un double scellage. Conservez-les dans un compartiment séparé des fruits et légumes sensibles à l'éthylène comme la salade, les épinards, les bananes et les poires."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi ne faut-il pas stocker les pommes avec d'autres fruits ?",
+            "answer": "Les pommes dégagent une grande quantité de gaz éthylène en mûrissant. Ce gaz accélère la maturation et le pourrissement des fruits et légumes environnants, c'est pourquoi il faut les isoler dans des sachets hermétiques."
+          },
+          {
+            "question": "Existe-t-il une astuce pour empêcher une pomme coupée de brunir ?",
+            "answer": "Badigeonner la surface coupée avec un peu d'eau salée, d'eau sucrée ou du jus de citron inhibe l'activité de la polyphénol oxydase, préservant ainsi la couleur claire de la chair plus longtemps."
+          }
+        ]
+      },
+      "de": {
+        "title": "Äpfel richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Äpfel basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Haben Sie schon einmal eine Kiste knackiger, süßer Äpfel gekauft, nur um festzustellen, dass nach wenigen Tagen die Schale schrumpelig und das Fruchtfleisch mehlig wurde? 🍎\n\nÄpfel gehören zu den beliebtesten Früchten weltweit, aber da sie ein starkes natürliches Gas freisetzen, das den Verderb anderer Lebensmittel beschleunigt, erfordert ihre Lagerung besondere Aufmerksamkeit. Bei falscher Aufbewahrung geht Feuchtigkeit verloren, was den Geschmack beeinträchtigt und anderes Obst und Gemüse im Kühlschrank schädigt.\n\nIn diesem Ratgeber erfahren Sie einen von Agrar- und Lebensmittelsicherheitsexperten empfohlenen, wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Frische Ihrer Äpfel zu maximieren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Sondern Sie beschädigte oder faulende Äpfel sofort aus 🍎",
+            "desc": "Druckstellen oder beginnende Fäulnis führen dazu, dass Äpfel ein Vielfaches an Ethylengas im Vergleich zu gesunden Früchten abgeben. Dies beschleunigt den Verderb der umliegenden Äpfel rasch. Sortieren Sie beschädigte Äpfel sofort aus, schneiden Sie die betroffene Stelle ab und verbrauchen Sie sie zuerst."
+          },
+          {
+            "title": "Äpfel vor der Lagerung niemals waschen 💧",
+            "desc": "Werden feuchte Äpfel eingewickelt oder luftdicht verpackt, schließt dies Feuchtigkeit ein und schafft ein ideales Umfeld für Schimmelpilze und Bakterien auf der Schale. Wischen Sie Schmutz nur mit einem trockenen Tuch ab und waschen Sie die Äpfel erst direkt vor dem Verzehr."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Ungewaschen einzeln in Frischhaltefolie einwickeln — Feuchtigkeitsschutz 📦",
+            "text": "Werden Äpfel ungeschützt der Raumluft oder dem Kühlschrank ausgesetzt, verdunstet kontinuierlich Feuchtigkeit, wodurch die Schale schrumpft und das Fleisch mehlig wird. 💡 Lagerungstipp: Wickeln Sie jeden trockenen, ungewaschenen Apfel einzeln und lückenlos fest in Frischhaltefolie (oder einen Hygienebeutel) ein. Dies schließt die Eigenfeuchtigkeit ein, hält den Apfel knackig und verhindert primär das Entweichen von Ethylengas."
+          },
+          {
+            "name": "Bei 0–4 °C im Kühlschrank lagern — Kühllagerung (30 Tage) ❄️",
+            "text": "Je höher die Temperatur, desto intensiver ist die Atmung des Apfels, was die Ethylenabgabe steigert und den Verderb beschleunigt. 💡 Lagerungstipp: Die optimale Temperatur für Äpfel liegt bei 0–4 °C. Legen Sie die eingewickelten Äpfel in das Gemüsefach des Kühlschranks oder in einen separaten Behälter. Achten Sie darauf, dass die Temperatur nicht unter den Gefrierpunkt fällt, um Frostschäden zu vermeiden."
+          },
+          {
+            "name": "Vollständig von anderen Lebensmitteln isolieren — Doppelter Schutz 🛡️",
+            "text": "Selbst einzeln eingewickelt kann das starke Ethylengas der Äpfel über die Luft im Kühlschrank andere frische Lebensmittel beeinträchtigen. 💡 Lagerungstipp: Geben Sie die einzeln umwickelten Äpfel zusätzlich in einen verschließbaren Ziploc-Beutel oder einen großen Plastikbehälter. Lagern Sie sie im Kühlschrank strikt getrennt von ethylenempfindlichem Gemüse und Obst wie Kopfsalat, Spinat, Bananen und Birnen."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum sollte man Äpfel nicht zusammen mit anderem Obst lagern?",
+            "answer": "Äpfel stoßen während des Reifeprozesses große Mengen Ethylengas aus. Dieses Gas beschleunigt das Nachreifen und den Verderb von umliegendem Obst und Gemüse. Daher müssen Äpfel separat in dicht verschlossenen Beuteln aufbewahrt werden."
+          },
+          {
+            "question": "Gibt es einen Tipp, um das Braunwerden angeschnittener Äpfel zu verhindern?",
+            "answer": "Wenn Sie die Schnittflächen leicht mit verdünntem Salzwasser, Zuckerwasser oder Zitronensaft bestreichen, wird das Enzym Polyphenoloxidase gehemmt und das Fruchtfleisch bleibt länger hell."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar maçãs frescas: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para maçãs com base em diretrizes oficiais de segurança.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Você já comprou uma caixa de maçãs doces e crocantes e percebeu que em poucos dias a casca murchou e a polpa ficou farinhenta? 🍎\n\nA maçã é uma das frutas mais amadas do mundo, mas por emitir um potente gás natural que acelera a deterioração de outros alimentos, exige cuidados especiais no armazenamento. Se não for armazenada corretamente, a maçã perde sua umidade e sabor, além de poder estragar outros vegetais da geladeira.\n\nNeste guia, apresentamos um guia prático em 3 etapas recomendado por especialistas em agricultura e segurança alimentar para maximizar a frescura das suas maçãs. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Compreender as características únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Regras essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Isole imediatamente as maçãs machucadas ou estragadas 🍎",
+            "desc": "Maçãs com machucados ou em processo de deterioração liberam dezenas de vezes mais gás etileno do que as normais, acelerando o apodrecimento das maçãs ao redor. Ao notar uma fruta danificada, separe-a imediatamente, corte a parte afetada e consuma-a primeiro."
+          },
+          {
+            "title": "Nunca lave as maçãs antes de guardar 💧",
+            "desc": "Embrulhar ou selar maçãs úmidas retém a umidade, criando um ambiente propício para o crescimento de mofo e bactérias na casca. Limpe sujeiras ou poeira apenas com um pano seco antes de guardar e lave-as somente no momento do consumo."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Embrulhar individualmente em filme plástico sem lavar — Retenção de umidade 📦",
+            "text": "Expor as maçãs diretamente ao ar ambiente ou à geladeira faz com que percam umidade continuamente, deixando a casca murcha e a polpa farinhenta. 💡 Dica de conservação: Sem lavar, envolva cada maçã seca firmemente em filme plástico alimentar (ou saco plástico) sem deixar aberturas. Isso retém a umidade natural da fruta para manter sua crocância e impede a liberação do gás etileno."
+          },
+          {
+            "name": "Armazenar a baixa temperatura (0 a 4 °C) — Refrigeração (30 dias) ❄️",
+            "text": "Quanto mais alta a temperatura, mais acelerada é a respiração da maçã, aumentando a emissão de etileno e acelerando a deterioração. 💡 Dica de conservação: A temperatura ideal para as maçãs é de 0 a 4 °C. Coloque as maçãs embaladas na gaveta de legumes ou em um recipiente hermético separado. Mantenha a temperatura acima do ponto de congelamento para evitar danos por frio."
+          },
+          {
+            "name": "Isolar completamente de outros alimentos — Proteção dupla 🛡️",
+            "text": "Mesmo embrulhadas individualmente, o forte gás etileno emitido pelas maçãs pode circular pelo ar da geladeira e afetar outros alimentos frescos. 💡 Dica de conservação: Coloque as maçãs já embrulhadas dentro de um saco tipo Ziploc ou em um pote plástico grande para garantir uma vedação dupla. Guarde-as em um compartimento separado de vegetais e frutas sensíveis ao etileno, como alface, espinafre, banana e pera."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que não devo guardar maçãs junto com outras frutas?",
+            "answer": "As maçãs liberam grandes quantidades de gás etileno durante o amadurecimento. Esse gás acelera a maturação e a deterioração de frutas e vegetais próximos, por isso elas devem ser seladas e guardadas separadamente."
+          },
+          {
+            "question": "Existe alguma dica para evitar o escurecimento da maçã cortada?",
+            "answer": "Passar uma leve camada de água com sal, água com açúcar ou suco de limão na superfície cortada inibe a ação da enzima polifenol oxidase, mantendo a polpa clara por mais tempo."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Apel agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk apel berdasarkan pedoman keselamatan resmi.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Pernahkah Anda membeli satu kotak apel yang manis dan renyah, tetapi dalam beberapa hari kulitnya menjadi keriput dan daging buahnya terasa empuk bertepung? 🍎\n\nApel adalah salah satu buah paling populer di dunia, tetapi karena mengeluarkan gas alami kuat yang dapat mempercepat pembusukan bahan makanan lain, penyimpanannya membutuhkan perhatian khusus. Jika tidak disimpan dengan benar, kadar air apel akan menguap sehingga merusak rasanya, bahkan dapat merusak buah dan sayuran lain di dalam kulkas.\n\nDalam panduan ini, kami membagikan panduan penyimpanan apel 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli pertanian dan keamanan pangan untuk memaksimalkan kesegarannya. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Segera pisahkan apel yang memar atau mulai membusuk 🍎",
+            "desc": "Apel yang cacat atau mulai membusuk melepaskan gas etilen puluhan kali lebih banyak daripada apel normal, sehingga mempercepat pembusukan apel di sekitarnya. Begitu Anda menemukan apel yang rusak, segera pisahkan, potong bagian yang rusak, dan konsumsi terlebih dahulu."
+          },
+          {
+            "title": "Jangan sekali-kali mencuci apel sebelum disimpan 💧",
+            "desc": "Membungkus atau menutup rapat apel dalam kondisi basah akan mengunci kelembapan, menciptakan lingkungan yang sangat disukai jamur dan bakteri untuk berkembang di kulit apel. Lap kotoran atau debu dengan kain kering sebelum disimpan, dan cucilah apel tepat sebelum dimakan."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Bungkus satu per satu dengan plastik wrap tanpa dicuci — Perlindungan Kelembapan 📦",
+            "text": "Membiarkan apel terbuka di suhu ruang atau kulkas membuat kadar airnya terus menguap, menyebabkan kulit keriput dan daging buah menjadi empuk bertepung. 💡 Tips Penyimpanan: Tanpa dicuci, bungkus setiap apel kering secara rapat menggunakan plastik wrap (atau kantong plastik bening). Langkah ini mengunci kelembapan alami apel agar tetap renyah serta menahan kebocoran gas etilen."
+          },
+          {
+            "name": "Simpan pada suhu rendah 0–4°C — Penyimpanan Dingin (30 Hari) ❄️",
+            "text": "Semakin tinggi suhu, semakin aktif respirasi apel, yang meningkatkan pelepasan gas etilen dan mempercepat pembusukan. 💡 Tips Penyimpanan: Suhu terbaik untuk apel adalah 0–4°C. Letakkan apel yang sudah dibungkus di laci sayuran kulkas atau dalam wadah kedap udara terpisah. Pastikan suhu tidak di bawah titik beku agar apel tidak membeku dan merusak teksturnya."
+          },
+          {
+            "name": "Pisahkan secara total dari bahan makanan lain — Perlindungan Ganda 🛡️",
+            "text": "Meskipun sudah dibungkus satu per satu, gas etilen kuat dari apel tetap dapat menyebar melalui udara kulkas dan memengaruhi bahan segar lainnya. 💡 Tips Penyimpanan: Masukkan apel yang sudah dibungkus plastik ke dalam kantong ziploc tertutup atau wadah plastik besar untuk penyegelan ganda. Simpan di kompartemen terpisah dari buah dan sayuran yang sensitif terhadap etilen seperti selada, bayam, pisang, dan pir."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa apel tidak boleh disimpan bersama buah-buahan lain?",
+            "answer": "Apel melepaskan gas etilen dalam jumlah besar saat matang. Gas ini mempercepat pematangan dan pembusukan buah serta sayuran di sekitarnya, sehingga apel harus disegel dan disimpan secara terpisah dalam kantong ziploc."
+          },
+          {
+            "question": "Apakah ada tips untuk mencegah apel yang dipotong agar tidak berubah warna menjadi cokelat?",
+            "answer": "Oleskan tipis-tipis air garam encer, air gula, atau perasan air lemon pada permukaan apel yang dipotong. Langkah ini menghambat aktivitas enzim polifenol oksidase sehingga warna daging apel tetap cerah lebih lama."
+          }
+        ]
+      }
     }
+  }
 }

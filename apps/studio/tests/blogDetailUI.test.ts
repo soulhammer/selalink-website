@@ -47,18 +47,9 @@ describe('블로그 상세 페이지 UI 구조 및 TDD 정합성 검증', () => 
     expect(postCtaIndex).toBeLessThan(shareToolkitIndex);
   });
 
-  test('식재료/반려동물(freshsnap/freshself/petself) 관련 블로그에 FreshSelf 홍보가 올바르게 바인딩되었는지 검증', () => {
-    // 1. post-article-cta 에서 동적 targetCtaApp 변수가 전달되는지 검증
-    expect(slugContent.includes('<BlogAppCta lang={lang as string} app={targetCtaApp} />')).toBe(true);
-
-    // 2. targetCtaApp 및 isFreshCategory 변수가 바인딩되어 있는지 검증
-    expect(slugContent.includes("isFreshCategory")).toBe(true);
-  });
-
-  test('반려동물(petself) 카테고리 블로그에서도 SelaLink 대신 FreshSelf 브랜드 및 맞춤형 텍스트가 표시되는지 검증', () => {
-    // petself 도 freshself 브랜드 매핑에 포함되어 SelaLink로 오인 표시되지 않음을 검증
-    expect(slugContent.includes("['freshsnap', 'freshself', 'petself'].includes(app)") || slugContent.includes("app === 'petself'")).toBe(true);
-    expect(slugContent.includes("isFreshCategory")).toBe(true);
+  test('식재료/반려동물(freshsnap/freshself/petself) 관련 블로그 하단 중복 CTA가 hidden 처리되었는지 검증', () => {
+    // 1. post-article-cta 컨테이너가 하단 중복 방지를 위해 hidden 처리되어 있는지 검증
+    expect(slugContent.includes('id="post-article-cta" class="hidden"')).toBe(true);
   });
 
   test('일본어를 포함한 다국어 환경에서 서브 타이틀 정제 시 유니코드 문자가 지워지지 않고 정상 보존되는지 검증', () => {

@@ -1,406 +1,406 @@
 {
-    "how-to-store-shrimp": {
-        "ingId": "shrimp",
-        "pubDate": "2026-04-20",
-        "updatedDate": "2026-04-20",
-        "heroImage": "/images/blog/shrimp_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "새우 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 새우의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
-                "intro": "새우를 사 와서 냉장고에 그대로 두었다가 머리와 다리가 검게 변하고(흑변 현상) 비린내가 심해져 버린 적 있으시죠? 🦐\n\n새우는 단백질과 수분 함량이 높고 자체 효소 작용이 매우 활발하여 수확 및 구매 즉시 부패와 변색이 시작되는 대표적인 신선 수산물입니다. 특히 공기 중의 산소와 반응하면 티로시나아제(Tyrosinase) 효소 작용으로 머리부터 검게 변하는 흑변 현상(Melanosis)이 발생하고, 미생물이 빠르게 번식합니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 새우 신선도 극대화 3단계 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "수돗물(민물)에 오랫동안 담가두지 마세요 💧",
-                        "desc": "새우를 수돗물에 오래 담가두면 삼투압 현상으로 새우 특유의 감칠맛과 수분이 유출되고 살이 무르게 됩니다. 세척할 때는 반드시 옅은 소금물(약 3% 농도)에 가볍게 흔들어 씻어야 신선도와 탄력을 유지할 수 있습니다."
-                    },
-                    {
-                        "title": "머리와 껍질을 벗긴 채 공기에 노출시키지 마세요 ⚠️",
-                        "desc": "껍질을 벗긴 새우 살은 공기 중 산소와 접촉하여 산화가 촉진되고 수분이 빠져나가 쉽게 부패합니다. 보관할 때는 껍질째 보관하거나, 껍질을 벗겼다면 밀폐 용기에 담아 산소 접촉을 최소화해야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "옅은 소금물로 씻고 물기 제거하기 — 신선도 및 감칠맛 보존 📦",
-                        "text": "민물 대신 옅은 소금물(물 1L당 소금 1큰술)에 새우를 가볍게 흔들어 씻은 뒤, 키친타월로 물기를 완벽히 제거해 주세요. 💡 보관 팁: 염도를 유지해 감칠맛 유출을 막고 표면의 산화 반응을 완화해 줍니다."
-                    },
-                    {
-                        "name": "1 ~ 2일 내 섭취 시 얼음과 함께 냉장 보관하기 — 단기 냉장 (1 ~ 2일) ❄️",
-                        "text": "새우는 일반 냉장 온도(4℃)에서도 부패가 진행될 만큼 저온 관리가 중요합니다. 💡 보관 팁: 밀폐 용기 바닥에 얼음을 깔고 비닐을 덮은 후 새우를 올리거나, 얼음물과 함께 담아 냉장고 가장 차가운 신선실(0 ~ 2℃)에 보관하세요."
-                    },
-                    {
-                        "name": "장기 보관 시 얼음막(Ice Glaze) 형성하여 냉동 보관하기 — 냉동 보관 (2 ~ 3개월) ❄️",
-                        "text": "새우를 공기 중에 그대로 냉동하면 냉동 탄화(Freezer Burn)와 흑변 현상이 진행됩니다. 💡 보관 팁: 지퍼백에 새우를 넣고 소금물을 살짝 자작하게 채워 얼리거나(얼음막 형성), 쪄서 식힌 후 밀봉하여 냉동실(-18℃ 이하)에 보관하면 2 ~ 3개월간 갓 잡은 듯한 식감이 유지됩니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "새우 머리와 다리가 검게 변하는 흑변 현상(Melanosis)은 먹어도 되나요?",
-                        "answer": "흑변 현상은 새우 자체의 티로시나아제 효소가 산소와 반응하여 멜라닌 색소를 만들어내는 자연스러운 현상으로, 독성이 있는 것은 아닙니다. 하지만 흑변이 심하다는 것은 신선도가 떨어졌다는 신호이므로, 퀴퀴한 비린내가 나거나 살이 무르다면 섭취하지 않는 것이 좋습니다."
-                    },
-                    {
-                        "question": "냉동 새우를 가장 맛있게 해동하는 방법은 무엇인가요?",
-                        "answer": "냉동 새우는 옅은 소금물(약 3% 농도)에 담가 10 ~ 15분간 해동하거나 냉장실에서 천천히 해동하는 것이 좋습니다. 따뜻한 물이나 전자레인지 해동은 새우 살이 익거나 수분이 빠져나가 질겨지므로 피해야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Shrimp Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for shrimp based on official safety guidelines.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Have you ever left fresh shrimp in the refrigerator only to find its head and legs turning black (melanosis) accompanied by a strong fishy odor? 🦐\n\nShrimp high in protein and moisture content undergoes rapid enzymatic breakdown and bacterial deterioration immediately after harvest. When exposed to atmospheric oxygen, tyrosinase enzymes trigger melanosis (black spot formation) starting from the head, while microorganisms multiply quickly.\n\nIn this guide, introduces a scientifically proven 3-step shrimp storage guide recommended by seafood safety experts to preserve maximum freshness and texture. 🛡️",
-                "whyTitle": "Why Store Shrimp This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Do not soak shrimp in tap water (freshwater) for a long time 💧",
-                        "desc": "Soaking shrimp in tap water causes osmotic loss of its natural savory flavor and moisture, rendering the meat mushy. Always rinse gently in mild saltwater (~3% salinity) to retain firmness and flavor."
-                    },
-                    {
-                        "title": "Do not expose peeled raw shrimp meat directly to air ⚠️",
-                        "desc": "Peeled raw shrimp meat oxidizes rapidly upon oxygen contact and loses moisture, leading to quick spoilage. Store shrimp with shells intact, or if peeled, submerge in airtight containers to minimize exposure to air."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Rinse in mild saltwater and pat completely dry — Flavor & Freshness Preservation 📦",
-                        "text": "Swirl shrimp gently in mild saltwater (1 tbsp salt per 1L water) instead of fresh water, then pat completely dry with paper towels. 💡 Storage Tip: Maintaining salinity prevents drip loss of umami compounds and slows oxidation."
-                    },
-                    {
-                        "name": "Refrigerate on an ice bed if consuming within 1–2 days — Short-Term Cold Storage (1–2 Days) ❄️",
-                        "text": "Shrimp spoils rapidly even at standard refrigerator temperature (4°C), making extreme cold management essential. 💡 Storage Tip: Place shrimp over a layer of ice separated by plastic wrap, or submerge in ice water inside the coldest drawer (0–2°C)."
-                    },
-                    {
-                        "name": "Freeze with ice glazing for long-term preservation — Frozen Storage (2–3 Months) ❄️",
-                        "text": "Freezing shrimp exposed to dry freezer air causes freezer burn and melanosis. 💡 Storage Tip: Place shrimp in freezer bags filled slightly with saltwater to form a protective ice glaze, or steam, cool, and seal before freezing below -18°C for 2 to 3 months."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Is shrimp with black spots on its head and legs (melanosis) safe to eat?",
-                        "answer": "Melanosis is a harmless natural reaction where tyrosinase enzymes produce melanin pigment upon oxygen contact; it is not toxic. However, extensive blackening indicates reduced freshness, so discard the shrimp if it emits a foul odor or feels slimy."
-                    },
-                    {
-                        "question": "What is the best way to thaw frozen shrimp?",
-                        "answer": "Submerge frozen shrimp in cold saltwater (~3% salinity) for 10 to 15 minutes, or thaw slowly in the refrigerator overnight. Avoid warm water or microwave thawing, which cooks the flesh partially and leaves it tough and rubbery."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "エビを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくエビの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "エビを買って冷蔵庫に入れておいたら、頭や足が黒く変色し（黒変現象）、生臭さが強くなって捨ててしまった経験はありませんか？🦐\n\nエビはタンパク質と水分が多く、酵素の働きが非常に活発なため、水揚げや購入直後から劣化が始まる非常に傷みやすい水産物です。特に空気中の酸素と反応するとチロシナーゼ（Tyrosinase）酵素の働きで頭部から黒く変色する黒変現象（Melanosis）が発生し、雑菌が急速に増殖します。\n\n本記事では、専門家が推奨するエビの鮮度とぷりぷり感を最大化する科学的で確実な3段階の保存のコツをご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合わせた正しい保存方法を実践することは 鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "水道水（真水）に長時間を漬けないでください 💧",
-                        "desc": "エビを真水に長く浸すと浸透圧の影響でエビ本来の旨味や水分が流出し、身が柔らかく崩れてしまいます。洗う際は必ず薄い塩水（約3%濃度）で優しく振り洗いし、鮮度と弾力を保ちましょう。"
-                    },
-                    {
-                        "title": "殻を剥いた身をそのまま空気に晒さないでください ⚠️",
-                        "desc": "むき身にしたエビは酸素に触れると酸化が促進され、水分が抜けて急速に傷みます。保存する際は殻付きのまま保つか、むき身の場合は密閉容器に入れて空気との接触を最小限に抑えてください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "薄い塩水で洗い水気をしっかり拭き取る — 旨味と鮮度の保護 📦",
-                        "text": "真水ではなく薄い塩水（水1Lに対して塩大さじ1）で軽く振り洗いし、キッチンペーパーで水分を完全に拭き取ります。💡保存のコツ：塩分濃度を保つことで旨味成分の流出を防ぎ、表面の酸化を抑えられます。"
-                    },
-                    {
-                        "name": "1〜2日以内に食べる場合は氷と一緒に冷やす — 短期冷蔵 (1〜2日間) ❄️",
-                        "text": "エビは通常の冷蔵温度（4℃）でも傷みが進むため、徹底した chilled 管理が必要です。💡保存のコツ：密閉容器の底に氷を敷き、ラップを被せた上にエビを乗せるか、氷水と一緒に冷蔵庫の最も冷たいチルド室（0〜2℃）で保存します。"
-                    },
-                    {
-                        "name": "長期保存は氷の膜（アイスグレイズ）を作って冷凍する — 冷凍保存 (2〜3ヶ月間) ❄️",
-                        "text": "エビをそのまま冷凍すると乾燥（冷凍やけ）や黒変が進んでしまいます。💡保存のコツ：ジッパーバッグにエビを入れ、塩水をひたひたに注いで凍らせる（氷膜の形成）か、蒸して冷ましてから密閉冷凍（-18℃以下）すれば2〜3ヶ月間ぷりぷり感が持続します。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "頭や足が黒く変色したエビ（黒変現象）は食べても大丈夫ですか？",
-                        "answer": "黒変現象はエビ自体のチロシナーゼ酵素が酸素と反応してメラニン色素を生成する自然な現象であり、毒性はありません。ただし、黒変が著しい場合は鮮度が低下しているサインですので、古い生臭さや身の崩れがある場合は召し上がらないことを推奨します。"
-                    },
-                    {
-                        "question": "冷凍エビを最もおいしく解凍する方法は？",
-                        "answer": "冷凍エビは薄い塩水（約3%濃度）に漬けて10〜15分ほど流水解凍するか、冷蔵室でゆっくり解凍するのがベストです。お湯や電子レンジでの解凍は身が縮んで硬くなるため避けましょう。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持虾类新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解虾的最佳储存温度、方式和保鲜时长。",
-                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "您是否曾买回新鲜鲜虾放入冰箱，结果却发现虾头和虾足变黑（黑变现象）并散发出浓烈腥味？🦐\n\n虾类富含蛋白质和水分，且自身酶活性极高，在捕捞和购买后极易迅速变质。特别是暴露于空气中时，在酪氨酸酶（Tyrosinase）的作用下会引发自头部分解的黑变现象（Melanosis），同时细菌会快速滋生。\n\n本指南将为您介绍由农业及食品安全专家推荐的科学3步鲜虾保鲜秘诀，帮您最大程度锁定紧致与鲜美。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "切勿长时间浸泡于自来水（淡水）中 💧",
-                        "desc": "将虾长时间浸泡在自来水中，会因渗透压作用导致鲜味物质和水分大量流失，使虾肉变软发柴。清洗时务必使用淡盐水（约3%浓度）轻轻摇洗，以保持弹牙与鲜美。"
-                    },
-                    {
-                        "title": "剥皮去头后切勿直接暴露于空气中 ⚠️",
-                        "desc": "剥壳后的虾肉接触空气中的氧气会加速氧化，并流失水分导致腐败。保存时建议带壳储存；如已剥壳，应放入密封容器中浸于冰盐水中，最大限度隔绝空气。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "用淡盐水清洗并彻底擦干 — 锁鲜与保留鲜味 📦",
-                        "text": "使用淡盐水（1升水加1汤匙盐）轻轻晃洗鲜虾，随后用厨房纸巾吸干表面所有水分。💡储存小贴士：维持盐度可防止鲜味物质流失，并减缓表面的氧化反应。"
-                    },
-                    {
-                        "name": "1 ~ 2天内食用请铺冰冷藏 — 短期冷藏 (1 ~ 2天) ❄️",
-                        "text": "即使在普通冷藏温度（4℃）下，虾肉也会继续变质，因此极低温管理至关重要。💡储存小贴士：在密封盒底部铺上冰块并垫上塑料膜，再放上鲜虾；或浸入冰盐水中放入冰箱最冷的冰鲜层（0 ~ 2℃）。"
-                    },
-                    {
-                        "name": "长期保存请形成冰膜（Ice Glaze）冷冻 — 冷冻储存 (2 ~ 3个月) ❄️",
-                        "text": "将虾直接暴露于冷冻室干冷空气中会导致冻伤和黑变。💡储存小贴士：将虾放入拉链袋并加入少量盐水淹没（形成保护性冰膜），或蒸熟晾凉后密封放入冷冻室（-18℃以下），可保持2 ~ 3个月如新捕捞般的弹牙口感。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "虾头和虾脚变黑（黑变现象）还能吃吗？",
-                        "answer": "黑变现象是虾体内的酪氨酸酶与氧气反应生成黑色素的自然生理过程，本身并无毒性。但大面积变黑意味着新鲜度已大幅下降，若伴有腐臭腥味或肉质发黏变软，则不可继续食用。"
-                    },
-                    {
-                        "question": "冷冻虾最美味的解冻方法是什么？",
-                        "answer": "将冷冻虾浸泡在淡盐水（约3%浓度）中流解冻10 ~ 15分钟，或提前放入冷藏室缓缓解冻效果最佳。切忌使用热水或微波炉解冻，这会导致虾肉半熟发硬、失去弹性。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener los camarones frescos: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para los camarones según las directrices oficiales de seguridad.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "¿Alguna vez guardó camarones frescos en el refrigerador solo para descubrir que la cabeza y las patas se ponían negras (melanosis) con un fuerte olor a pescado? 🦐\n\nEl camarón tiene un alto contenido de proteínas y agua, y su actividad enzimática es sumamente rápida tras la captura. Al exponerse al oxígeno del aire, la enzima tirosinasa desencadena la melanosis (manchas negras) desde la cabeza, mientras los microorganismos se multiplican velozmente.\n\nEn esta guía se presenta una guía de conservación de camarones en 3 pasos respaldada por expertos para garantizar su textura firme y su sabor original. 🛡️",
-                "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "No deje los camarones en agua del grifo (agua dulce) durante mucho tiempo 💧",
-                        "desc": "Remojar los camarones en agua dulce causa la pérdida osmótica de sus jugos sabrosos y su firmeza. Enjuáguelos siempre suavemente en agua salada salobre (~3 % de salinidad) para preservar la textura."
-                    },
-                    {
-                        "title": "No exponga la carne del camarón pelado directamente al aire ⚠️",
-                        "desc": "La carne pelada se oxida rápidamente con el oxígeno y pierde humedad, acelerando la descomposición. Guárdelos con cáscara o, si están pelados, sumérjalos en agua helada salada dentro de recipientes herméticos."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Lave en agua salada suave y seque completamente — Conservación del sabor 📦",
-                        "text": "Lave suavemente en agua salada (1 cucharada de sal por litro) y seque bien con papel absorbente. 💡 Consejo de almacenamiento: Mantener la salinidad evita la pérdida del sabor umami y retrasa la oxidación."
-                    },
-                    {
-                        "name": "Conserve sobre cama de hielo para consumir en 1-2 días — Refrigeración a corto plazo (1-2 días) ❄️",
-                        "text": "El camarón se deteriora rápido incluso a 4 °C, por lo que exige un frío intenso. 💡 Consejo de almacenamiento: Coloque hielo en un contenedor, cubra con film plástico, ponga los camarones encima y guarde en el estante más frío (0-2 °C)."
-                    },
-                    {
-                        "name": "Congele formando una película de hielo (Ice Glaze) — Conservación congelada (2-3 meses) ❄️",
-                        "text": "Congelar al aire seco provoca quemaduras por congelación y melanosis. 💡 Consejo de almacenamiento: Congele los camarones en bolsas herméticas cubiertos ligeramente con agua salada para formar un escudo de hielo, o cocínelos al vapor antes de congelar a -18 °C."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Es seguro comer camarones con manchas negras en la cabeza y patas (melanosis)?",
-                        "answer": "La melanosis es una reacción natural inofensiva donde la enzima tirosinasa produce melanina al contacto con el oxígeno. No es tóxica, pero si las manchas son extensas indican baja frescura. Deséchelos si presentan olor fétido o textura viscosa."
-                    },
-                    {
-                        "question": "¿Cuál es la mejor manera de descongelar camarones congelados?",
-                        "answer": "Sumerja los camarones en agua salada fría (~3 % sal) de 10 a 15 minutos o descongélelos lentamente en el refrigerador. Evite el agua caliente o el microondas, ya que endurecen la carne y la vuelven gomosa."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver les crevettes fraîches : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les crevettes selon les directives officielles de sécurité.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Avez-vous déjà laissé des crevettes au réfrigérateur pour constater que leur tête et leurs pattes noircissaient (mélanose) avec une forte odeur de poisson ? 🦐\n\nRiche en protéines et en eau, la crevette subit une dégradation enzymatique très rapide dès sa pêche. Exposée à l'oxygène, l'enzyme tyrosinase provoque un noircissement (mélanose) commençant par la tête, tandis que les bactéries prolifèrent rapidement.\n\nDans ce guide, vous présente un guide scientifique de conservation des crevettes en 3 étapes recommandé par des experts pour garantir leur ferme texture. 🛡️",
-                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne laissez pas tremper les crevettes dans l'eau du robinet (eau douce) 💧",
-                        "desc": "L'eau douce provoque une perte osmotique des sucs et ramollit la chair de la crevette. Rincez toujours délicatement dans une eau légèrement salée (~3 % de sel) pour préserver sa fermeté."
-                    },
-                    {
-                        "title": "Ne laissez pas la chair de crevette décortiquée à l'air libre ⚠️",
-                        "desc": "La chair décortiquée s'oxyde très vite au contact de l'oxygène et perd son eau. Conservez les crevettes non décortiquées ou plongez-les dans de l'eau glacée salée en boîte hermétique."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Rincer à l'eau salée et sécher complètement — Maintien du goût et de la fraîcheur 📦",
-                        "text": "Rincez délicatement les crevettes dans de l'eau salée (1 c. à soupe de sel par litre) puis séchez-les avec de l'essuie-tout. 💡 Astuce de conservation : La salinité évite la perte de sucs et ralentit l'oxydation."
-                    },
-                    {
-                        "name": "Réfrigérer sur un lit de glace pour une consommation sous 1-2 jours — Réfrigération (1-2 jours) ❄️",
-                        "text": "La crevette se détériore vite même à 4 °C, exigeant un froid très vif. 💡 Astuce de conservation : Placez de la glace dans une boîte, couvrez d'un film, déposez les crevettes et conservez dans la zone la plus froide (0–2 °C)."
-                    },
-                    {
-                        "name": "Congeler avec un glaçage d'eau salée (Ice Glazing) — Congélation (2-3 mois) ❄️",
-                        "text": "La congélation à l'air sec provoque des brûlures de congélation et la mélanose. 💡 Astuce de conservation : Placez les crevettes dans un sachet avec un peu d'eau salée pour créer une couche de glace protectrice, puis congelez sous -18 °C."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Peut-on consommer des crevettes dont la tête a noirci (mélanose) ?",
-                        "answer": "La mélanose est une réaction naturelle inoffensive où l'enzyme tyrosinase produit de la mélanine au contact de l'air. Ce n'est pas toxique, mais un noircissement étendu indique un manque de fraîcheur. Jetez les crevettes si elles sentent fort ou deviennent poisseuses."
-                    },
-                    {
-                        "question": "Quelle est la meilleure méthode pour décongeler des crevettes ?",
-                        "answer": "Plongez les crevettes congelées dans de l'eau froide salée (~3 % de sel) pendant 10 à 15 minutes ou laissez-les décongeler doucement au réfrigérateur. Évitez l'eau chaude et le micro-ondes qui rendent la chair caoutchouteuse."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Garnelen richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Garnelen basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Haben Sie frische Garnelen im Kühlschrank gelagert, nur um festzustellen, dass sich Kopf und Beine schwarz verfärbten (Melanose) und ein fischiger Geruch entstand? 🦐\n\nGarnelen sind reich an Eiweiß und Wasser und unterliegen nach dem Fang einem extrem raschen enzymatischen Abbau. Bei Kontakt mit Luftsauerstoff löst das Enzym Tyrosinase eine Schwarzverfärbung (Melanose) ab dem Kopf aus, während sich Bakterien schnell vermehren.\n\nIn diesem Ratgeber erfahren Sie einen von Experten empfohlenen 3-Schritte-Ratgeber vor, um die knackige Textur und Frische Ihrer Garnelen zu bewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Garnelen nicht lange in Leitungswasser (Süßwasser) liegen lassen 💧",
-                        "desc": "Das Einlegen in Leitungswasser führt durch Osmose zum Verlust von Aromastoffen und macht das Fleisch weich. Waschen Sie Garnelen stets vorsichtig in leichtem Salzwasser (~3 % Salzgehalt)."
-                    },
-                    {
-                        "title": "Geschältes Garnelenfleisch nicht ungekühlt der Luft aussetzen ⚠️",
-                        "desc": "Geschältes Fleisch oxidiert an der Luft sehr schnell und verliert Feuchtigkeit. Lagern Sie Garnelen bevorzugt mit Schale oder bewahren Sie geschälte Garnelen in Eis-Salzwasser in Dosen auf."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "In leichtem Salzwasser spülen und gründlich trocknen — Frischeschutz 📦",
-                        "text": "Schwenken Sie die Garnelen vorsichtig in Salzwasser (1 EL Salz pro Liter) und tupfen Sie sie mit Küchenpapier trocken. 💡 Lagerungstipp: Die Salinität schützt vor Geschmacksverlust und verlangsamt die Oxidation."
-                    },
-                    {
-                        "name": "Bei Verzehr in 1–2 Tagen auf Eis kühlen — Kurzeitige Kühllagerung (1–2 Tage) ❄️",
-                        "text": "Garnelen verderben selbst bei normaler Kühlschranktemperatur (4 °C) schnell. 💡 Lagerungstipp: Legen Sie Eis in eine Dose, decken Sie es mit Folie ab, legen Sie die Garnelen darauf und lagern Sie sie im kältesten Fach (0–2 °C)."
-                    },
-                    {
-                        "name": "Für die Langzeitlagerung mit Eisschicht (Ice Glaze) einfrieren — Gefrierlagerung (2–3 Monate) ❄️",
-                        "text": "Das Einfrieren an trockener Luft führt zu Gefrierbrand und Schwarzverfärbung. 💡 Lagerungstipp: Frieren Sie die Garnelen in Beuteln leicht mit Salzwasser bedeckt ein (Eisschicht) oder dämpfen Sie sie vor dem Einfrieren bei unter -18 °C."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Kann man Garnelen mit schwarzen Flecken an Kopf und Beinen (Melanose) noch essen?",
-                        "answer": "Melanose ist eine ungiftige, natürliche Reaktion, bei der das Enzym Tyrosinase mit Sauerstoff Melanin bildet. Dennoch deutet eine starke Verfärbung auf nachlassende Frische hin. Riechen die Garnelen unangenehm oder sind glitschig, sollten sie entsorgt werden."
-                    },
-                    {
-                        "question": "Wie taut man gefrorene Garnelen am besten auf?",
-                        "answer": "Legen Sie die Garnelen für 10 bis 15 Minuten in kaltes Salzwasser (~3 % Salzgehalt) oder tauen Sie sie langsam im Kühlschrank auf. Vermeiden Sie heißes Wasser oder die Mikrowelle, da das Fleisch sonst zäh wird."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar camarões frescos: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para camarões com base em diretrizes oficiais de segurança.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Você já guardou camarões frescos na geladeira e depois percebeu que a cabeça e as patas ficaram pretas (melanose) acompanhadas de um cheiro forte? 🦐\n\nO camarão possui alto teor de proteínas e água, e sua deterioração enzimática é extremamente rápida após a pesca. Ao entrar em contato com o oxigênio, a enzima tirosinase provoca o escurecimento (melanose) a partir da cabeça, enquanto as bactérias se multiplicam rapidamente.\n\nNeste guia, apresentamos um guia prático de conservação em 3 etapas recomendado por especialistas para manter a firmeza e o sabor do camarão pelo maior tempo possível. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Não deixe os camarões de molho em água da torneira (água doce) 💧",
-                        "desc": "Deixar o camarão em água doce causa perda osmótica de seus sucos naturais e deixa a carne mole. Lave sempre suavemente em água levemente salgada (~3% de salinidade) para manter a firmeza."
-                    },
-                    {
-                        "title": "Não exponha a carne do camarão descascado ao ar ⚠️",
-                        "desc": "A carne descascada oxida rapidamente com o ar e perde umidade. Guarde os camarões com casca ou, se descascados, mergulhe-os em água salgada com gelo dentro de potes herméticos."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Lavar em água salgada e secar completamente — Preservação do sabor 📦",
-                        "text": "Lave suavemente em água salgada (1 colher de sopa de sal por litro) e seque bem com papel-toalha. 💡 Dica de conservação: A salinidade evita a perda do sabor umami e reduz a oxidação da superfície."
-                    },
-                    {
-                        "name": "Refrigerar sobre cama de gelo para consumo em 1 a 2 dias — Refrigeração (1 a 2 dias) ❄️",
-                        "text": "O camarão estraga rápido mesmo a 4 °C, exigindo frio intenso. 💡 Dica de conservação: Coloque gelo no pote, cubra com filme plástico, ponha os camarões por cima e guarde na gaveta mais fria (0-2 °C)."
-                    },
-                    {
-                        "name": "Congelar formando uma camada de gelo (Ice Glaze) — Congelamento (2 a 3 meses) ❄️",
-                        "text": "Congelar em ar seco provoca queimaduras de gelo e melanose. 💡 Dica de conservação: Congele os camarões em sacos cobertos levemente com água salgada para criar um escudo de gelo, ou cozinhe no vapor antes de congelar a -18 °C."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "É seguro comer camarão com manchas pretas na cabeça e patas (melanose)?",
-                        "answer": "A melanose é uma reação natural inofensiva onde a enzima tirosinase produz melanina ao contato com o oxigênio. Não é tóxica, mas manchas extensas indicam perda de frescor. Descarte se houver cheiro ruim ou textura viscosa."
-                    },
-                    {
-                        "question": "Qual é a melhor forma de descongelar camarões congelados?",
-                        "answer": "Mergulhe os camarões em água salgada fria (~3% de sal) por 10 a 15 minutos ou descongele lentamente na geladeira. Evite água quente ou micro-ondas, pois deixam a carne dura e borrachuda."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Udang agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk udang berdasarkan pedoman keselamatan resmi.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Pernahkah Anda menyimpan udang segar di kulkas lalu mendapati bagian kepala dan kakinya menghitam (melanosis) disertai bau amis yang menyengat? 🦐\n\nUdang memiliki kandungan protein dan air yang tinggi serta aktivitas enzim yang sangat cepat setelah ditangkap. Saat terpapar oksigen di udara, enzim tirosinase memicu timbulnya bercak hitam (melanosis) dimulai dari kepala, sementara bakteri berkembang biak dengan cepat.\n\nDalam panduan ini, kami membagikan panduan penyimpanan udang 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan untuk menjaga kesegaran dan tekstur kenyalnya. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan merendam udang dalam air keran (air tawar) terlalu lama 💧",
-                        "desc": "Merendam udang dalam air tawar menyebabkan hilangnya rasa gurih alami dan membuat dagingnya menjadi lembek akibat tekanan osmotik. Selalu cuci perlahan dengan air garam ringan (sekitar 3% salinitas) agar daging tetap kenyal."
-                    },
-                    {
-                        "title": "Jangan membiarkan daging udang kupas terpapar udara langsung ⚠️",
-                        "desc": "Daging udang tanpa kulit akan teroksidasi dengan cepat saat terkena udara dan kehilangan kelembapan. Simpan udang bersama kulitnya, atau jika sudah dikupas, rendam dalam wadah kedap udara berisi air es garam."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Cuci dengan air garam ringan dan lap hingga kering — Penjagaan Cita Rasa 📦",
-                        "text": "Cuci udang perlahan dalam air garam (1 sendok makan garam per 1 liter air) lalu keringkan dengan tisu dapur. 💡 Tips Penyimpanan: Menjaga kadar garam mencegah keluarnya cairan rasa gurih dan memperlambat oksidasi."
-                    },
-                    {
-                        "name": "Simpan di atas es batu untuk konsumsi 1–2 hari — Simpan Dingin (1–2 Hari) ❄️",
-                        "text": "Udang cepat rusak bahkan pada suhu kulkas biasa (4°C). 💡 Tips Penyimpanan: Tata es batu di dasar wadah, lapisi dengan plastik wrap, taruh udang di atasnya, lalu simpan di rak kulkas paling dingin (0–2°C)."
-                    },
-                    {
-                        "name": "Bekukan dengan lapisan es (Ice Glaze) untuk jangka panjang — Simpan Beku (2–3 Bulan) ❄️",
-                        "text": "Membekukan udang yang terpapar udara kering menyebabkan freezer burn dan melanosis. 💡 Tips Penyimpanan: Bekukan udang dalam kantong ziploc yang diisi sedikit air garam (membentuk lapisan es pelindung), atau kukus dan dinginkan sebelum dibekukan di bawah -18°C."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apakah udang yang kepala dan kakinya menghitam (melanosis) aman dimakan?",
-                        "answer": "Melanosis adalah reaksi alami yang tidak berbahaya di mana enzim tirosinase menghasilkan pigmen melanin saat terkena oksigen. Ini tidak beracun, tetapi bercak hitam yang luas menandakan kesegaran yang sudah menurun. Buang udang jika berbau busuk atau terasa lengket."
-                    },
-                    {
-                        "question": "Bagaimana cara terbaik mencairkan udang beku?",
-                        "answer": "Rendam udang beku dalam air garam dingin (salinitas ~3%) selama 10 hingga 15 menit, atau cairkan perlahan di dalam kulkas. Hindari penggunaan air hangat atau microwave karena akan membuat daging udang matang sebagian dan teksturnya menjadi liat."
-                    }
-                ]
-            }
-        }
+  "how-to-store-shrimp": {
+    "ingId": "shrimp",
+    "pubDate": "2026-04-20",
+    "updatedDate": "2026-04-20",
+    "heroImage": "/images/blog/shrimp_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "새우 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 새우의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+        "intro": "새우를 사 와서 냉장고에 그대로 두었다가 머리와 다리가 검게 변하고(흑변 현상) 비린내가 심해져 버린 적 있으시죠? 🦐\n\n새우는 단백질과 수분 함량이 높고 자체 효소 작용이 매우 활발하여 수확 및 구매 즉시 부패와 변색이 시작되는 대표적인 신선 수산물입니다. 특히 공기 중의 산소와 반응하면 티로시나아제(Tyrosinase) 효소 작용으로 머리부터 검게 변하는 흑변 현상(Melanosis)이 발생하고, 미생물이 빠르게 번식합니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 새우 신선도 극대화 3단계 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "수돗물(민물)에 오랫동안 담가두지 마세요 💧",
+            "desc": "새우를 수돗물에 오래 담가두면 삼투압 현상으로 새우 특유의 감칠맛과 수분이 유출되고 살이 무르게 됩니다. 세척할 때는 반드시 옅은 소금물(약 3% 농도)에 가볍게 흔들어 씻어야 신선도와 탄력을 유지할 수 있습니다."
+          },
+          {
+            "title": "머리와 껍질을 벗긴 채 공기에 노출시키지 마세요 ⚠️",
+            "desc": "껍질을 벗긴 새우 살은 공기 중 산소와 접촉하여 산화가 촉진되고 수분이 빠져나가 쉽게 부패합니다. 보관할 때는 껍질째 보관하거나, 껍질을 벗겼다면 밀폐 용기에 담아 산소 접촉을 최소화해야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "옅은 소금물로 씻고 물기 제거하기 — 신선도 및 감칠맛 보존 📦",
+            "text": "민물 대신 옅은 소금물(물 1L당 소금 1큰술)에 새우를 가볍게 흔들어 씻은 뒤, 키친타월로 물기를 완벽히 제거해 주세요. 💡 보관 팁: 염도를 유지해 감칠맛 유출을 막고 표면의 산화 반응을 완화해 줍니다."
+          },
+          {
+            "name": "1 ~ 2일 내 섭취 시 얼음과 함께 냉장 보관하기 — 단기 냉장 (1 ~ 2일) ❄️",
+            "text": "새우는 일반 냉장 온도(4℃)에서도 부패가 진행될 만큼 저온 관리가 중요합니다. 💡 보관 팁: 밀폐 용기 바닥에 얼음을 깔고 비닐을 덮은 후 새우를 올리거나, 얼음물과 함께 담아 냉장고 가장 차가운 신선실(0 ~ 2℃)에 보관하세요."
+          },
+          {
+            "name": "장기 보관 시 얼음막(Ice Glaze) 형성하여 냉동 보관하기 — 냉동 보관 (2 ~ 3개월) ❄️",
+            "text": "새우를 공기 중에 그대로 냉동하면 냉동 탄화(Freezer Burn)와 흑변 현상이 진행됩니다. 💡 보관 팁: 지퍼백에 새우를 넣고 소금물을 살짝 자작하게 채워 얼리거나(얼음막 형성), 쪄서 식힌 후 밀봉하여 냉동실(-18℃ 이하)에 보관하면 2 ~ 3개월간 갓 잡은 듯한 식감이 유지됩니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "새우 머리와 다리가 검게 변하는 흑변 현상(Melanosis)은 먹어도 되나요?",
+            "answer": "흑변 현상은 새우 자체의 티로시나아제 효소가 산소와 반응하여 멜라닌 색소를 만들어내는 자연스러운 현상으로, 독성이 있는 것은 아닙니다. 하지만 흑변이 심하다는 것은 신선도가 떨어졌다는 신호이므로, 퀴퀴한 비린내가 나거나 살이 무르다면 섭취하지 않는 것이 좋습니다."
+          },
+          {
+            "question": "냉동 새우를 가장 맛있게 해동하는 방법은 무엇인가요?",
+            "answer": "냉동 새우는 옅은 소금물(약 3% 농도)에 담가 10 ~ 15분간 해동하거나 냉장실에서 천천히 해동하는 것이 좋습니다. 따뜻한 물이나 전자레인지 해동은 새우 살이 익거나 수분이 빠져나가 질겨지므로 피해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Shrimp Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for shrimp based on official safety guidelines.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Have you ever left fresh shrimp in the refrigerator only to find its head and legs turning black (melanosis) accompanied by a strong fishy odor? 🦐\n\nShrimp high in protein and moisture content undergoes rapid enzymatic breakdown and bacterial deterioration immediately after harvest. When exposed to atmospheric oxygen, tyrosinase enzymes trigger melanosis (black spot formation) starting from the head, while microorganisms multiply quickly.\n\nIn this guide, introduces a scientifically proven 3-step shrimp storage guide recommended by seafood safety experts to preserve maximum freshness and texture. 🛡️",
+        "whyTitle": "Why Store Shrimp This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Do not soak shrimp in tap water (freshwater) for a long time 💧",
+            "desc": "Soaking shrimp in tap water causes osmotic loss of its natural savory flavor and moisture, rendering the meat mushy. Always rinse gently in mild saltwater (~3% salinity) to retain firmness and flavor."
+          },
+          {
+            "title": "Do not expose peeled raw shrimp meat directly to air ⚠️",
+            "desc": "Peeled raw shrimp meat oxidizes rapidly upon oxygen contact and loses moisture, leading to quick spoilage. Store shrimp with shells intact, or if peeled, submerge in airtight containers to minimize exposure to air."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Rinse in mild saltwater and pat completely dry — Flavor & Freshness Preservation 📦",
+            "text": "Swirl shrimp gently in mild saltwater (1 tbsp salt per 1L water) instead of fresh water, then pat completely dry with paper towels. 💡 Storage Tip: Maintaining salinity prevents drip loss of umami compounds and slows oxidation."
+          },
+          {
+            "name": "Refrigerate on an ice bed if consuming within 1–2 days — Short-Term Cold Storage (1–2 Days) ❄️",
+            "text": "Shrimp spoils rapidly even at standard refrigerator temperature (4°C), making extreme cold management essential. 💡 Storage Tip: Place shrimp over a layer of ice separated by plastic wrap, or submerge in ice water inside the coldest drawer (0–2°C)."
+          },
+          {
+            "name": "Freeze with ice glazing for long-term preservation — Frozen Storage (2–3 Months) ❄️",
+            "text": "Freezing shrimp exposed to dry freezer air causes freezer burn and melanosis. 💡 Storage Tip: Place shrimp in freezer bags filled slightly with saltwater to form a protective ice glaze, or steam, cool, and seal before freezing below -18°C for 2 to 3 months."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Is shrimp with black spots on its head and legs (melanosis) safe to eat?",
+            "answer": "Melanosis is a harmless natural reaction where tyrosinase enzymes produce melanin pigment upon oxygen contact; it is not toxic. However, extensive blackening indicates reduced freshness, so discard the shrimp if it emits a foul odor or feels slimy."
+          },
+          {
+            "question": "What is the best way to thaw frozen shrimp?",
+            "answer": "Submerge frozen shrimp in cold saltwater (~3% salinity) for 10 to 15 minutes, or thaw slowly in the refrigerator overnight. Avoid warm water or microwave thawing, which cooks the flesh partially and leaves it tough and rubbery."
+          }
+        ]
+      },
+      "ja": {
+        "title": "エビを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくエビの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "エビを買って冷蔵庫に入れておいたら、頭や足が黒く変色し（黒変現象）、生臭さが強くなって捨ててしまった経験はありませんか？🦐\n\nエビはタンパク質と水分が多く、酵素の働きが非常に活発なため、水揚げや購入直後から劣化が始まる非常に傷みやすい水産物です。特に空気中の酸素と反応するとチロシナーゼ（Tyrosinase）酵素の働きで頭部から黒く変色する黒変現象（Melanosis）が発生し、雑菌が急速に増殖します。\n\n本記事では、専門家が推奨するエビの鮮度とぷりぷり感を最大化する科学的で確実な3段階の保存のコツをご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合わせた正しい保存方法を実践することは 鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "水道水（真水）に長時間を漬けないでください 💧",
+            "desc": "エビを真水に長く浸すと浸透圧の影響でエビ本来の旨味や水分が流出し、身が柔らかく崩れてしまいます。洗う際は必ず薄い塩水（約3%濃度）で優しく振り洗いし、鮮度と弾力を保ちましょう。"
+          },
+          {
+            "title": "殻を剥いた身をそのまま空気に晒さないでください ⚠️",
+            "desc": "むき身にしたエビは酸素に触れると酸化が促進され、水分が抜けて急速に傷みます。保存する際は殻付きのまま保つか、むき身の場合は密閉容器に入れて空気との接触を最小限に抑えてください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "薄い塩水で洗い水気をしっかり拭き取る — 旨味と鮮度の保護 📦",
+            "text": "真水ではなく薄い塩水（水1Lに対して塩大さじ1）で軽く振り洗いし、キッチンペーパーで水分を完全に拭き取ります。💡保存のコツ：塩分濃度を保つことで旨味成分の流出を防ぎ、表面の酸化を抑えられます。"
+          },
+          {
+            "name": "1〜2日以内に食べる場合は氷と一緒に冷やす — 短期冷蔵 (1〜2日間) ❄️",
+            "text": "エビは通常の冷蔵温度（4℃）でも傷みが進むため、徹底した chilled 管理が必要です。💡保存のコツ：密閉容器の底に氷を敷き、ラップを被せた上にエビを乗せるか、氷水と一緒に冷蔵庫の最も冷たいチルド室（0〜2℃）で保存します。"
+          },
+          {
+            "name": "長期保存は氷の膜（アイスグレイズ）を作って冷凍する — 冷凍保存 (2〜3ヶ月間) ❄️",
+            "text": "エビをそのまま冷凍すると乾燥（冷凍やけ）や黒変が進んでしまいます。💡保存のコツ：ジッパーバッグにエビを入れ、塩水をひたひたに注いで凍らせる（氷膜の形成）か、蒸して冷ましてから密閉冷凍（-18℃以下）すれば2〜3ヶ月間ぷりぷり感が持続します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "頭や足が黒く変色したエビ（黒変現象）は食べても大丈夫ですか？",
+            "answer": "黒変現象はエビ自体のチロシナーゼ酵素が酸素と反応してメラニン色素を生成する自然な現象であり、毒性はありません。ただし、黒変が著しい場合は鮮度が低下しているサインですので、古い生臭さや身の崩れがある場合は召し上がらないことを推奨します。"
+          },
+          {
+            "question": "冷凍エビを最もおいしく解凍する方法は？",
+            "answer": "冷凍エビは薄い塩水（約3%濃度）に漬けて10〜15分ほど流水解凍するか、冷蔵室でゆっくり解凍するのがベストです。お湯や電子レンジでの解凍は身が縮んで硬くなるため避けましょう。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持虾类新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解虾的最佳储存温度、方式和保鲜时长。",
+        "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "您是否曾买回新鲜鲜虾放入冰箱，结果却发现虾头和虾足变黑（黑变现象）并散发出浓烈腥味？🦐\n\n虾类富含蛋白质和水分，且自身酶活性极高，在捕捞和购买后极易迅速变质。特别是暴露于空气中时，在酪氨酸酶（Tyrosinase）的作用下会引发自头部分解的黑变现象（Melanosis），同时细菌会快速滋生。\n\n本指南将为您介绍由农业及食品安全专家推荐的科学3步鲜虾保鲜秘诀，帮您最大程度锁定紧致与鲜美。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "切勿长时间浸泡于自来水（淡水）中 💧",
+            "desc": "将虾长时间浸泡在自来水中，会因渗透压作用导致鲜味物质和水分大量流失，使虾肉变软发柴。清洗时务必使用淡盐水（约3%浓度）轻轻摇洗，以保持弹牙与鲜美。"
+          },
+          {
+            "title": "剥皮去头后切勿直接暴露于空气中 ⚠️",
+            "desc": "剥壳后的虾肉接触空气中的氧气会加速氧化，并流失水分导致腐败。保存时建议带壳储存；如已剥壳，应放入密封容器中浸于冰盐水中，最大限度隔绝空气。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "用淡盐水清洗并彻底擦干 — 锁鲜与保留鲜味 📦",
+            "text": "使用淡盐水（1升水加1汤匙盐）轻轻晃洗鲜虾，随后用厨房纸巾吸干表面所有水分。💡储存小贴士：维持盐度可防止鲜味物质流失，并减缓表面的氧化反应。"
+          },
+          {
+            "name": "1 ~ 2天内食用请铺冰冷藏 — 短期冷藏 (1 ~ 2天) ❄️",
+            "text": "即使在普通冷藏温度（4℃）下，虾肉也会继续变质，因此极低温管理至关重要。💡储存小贴士：在密封盒底部铺上冰块并垫上塑料膜，再放上鲜虾；或浸入冰盐水中放入冰箱最冷的冰鲜层（0 ~ 2℃）。"
+          },
+          {
+            "name": "长期保存请形成冰膜（Ice Glaze）冷冻 — 冷冻储存 (2 ~ 3个月) ❄️",
+            "text": "将虾直接暴露于冷冻室干冷空气中会导致冻伤和黑变。💡储存小贴士：将虾放入拉链袋并加入少量盐水淹没（形成保护性冰膜），或蒸熟晾凉后密封放入冷冻室（-18℃以下），可保持2 ~ 3个月如新捕捞般的弹牙口感。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "虾头和虾脚变黑（黑变现象）还能吃吗？",
+            "answer": "黑变现象是虾体内的酪氨酸酶与氧气反应生成黑色素的自然生理过程，本身并无毒性。但大面积变黑意味着新鲜度已大幅下降，若伴有腐臭腥味或肉质发黏变软，则不可继续食用。"
+          },
+          {
+            "question": "冷冻虾最美味的解冻方法是什么？",
+            "answer": "将冷冻虾浸泡在淡盐水（约3%浓度）中流解冻10 ~ 15分钟，或提前放入冷藏室缓缓解冻效果最佳。切忌使用热水或微波炉解冻，这会导致虾肉半熟发硬、失去弹性。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener los camarones frescos: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para los camarones según las directrices oficiales de seguridad.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "¿Alguna vez guardó camarones frescos en el refrigerador solo para descubrir que la cabeza y las patas se ponían negras (melanosis) con un fuerte olor a pescado? 🦐\n\nEl camarón tiene un alto contenido de proteínas y agua, y su actividad enzimática es sumamente rápida tras la captura. Al exponerse al oxígeno del aire, la enzima tirosinasa desencadena la melanosis (manchas negras) desde la cabeza, mientras los microorganismos se multiplican velozmente.\n\nEn esta guía se presenta una guía de conservación de camarones en 3 pasos respaldada por expertos para garantizar su textura firme y su sabor original. 🛡️",
+        "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "No deje los camarones en agua del grifo (agua dulce) durante mucho tiempo 💧",
+            "desc": "Remojar los camarones en agua dulce causa la pérdida osmótica de sus jugos sabrosos y su firmeza. Enjuáguelos siempre suavemente en agua salada salobre (~3 % de salinidad) para preservar la textura."
+          },
+          {
+            "title": "No exponga la carne del camarón pelado directamente al aire ⚠️",
+            "desc": "La carne pelada se oxida rápidamente con el oxígeno y pierde humedad, acelerando la descomposición. Guárdelos con cáscara o, si están pelados, sumérjalos en agua helada salada dentro de recipientes herméticos."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Lave en agua salada suave y seque completamente — Conservación del sabor 📦",
+            "text": "Lave suavemente en agua salada (1 cucharada de sal por litro) y seque bien con papel absorbente. 💡 Consejo de almacenamiento: Mantener la salinidad evita la pérdida del sabor umami y retrasa la oxidación."
+          },
+          {
+            "name": "Conserve sobre cama de hielo para consumir en 1-2 días — Refrigeración a corto plazo (1-2 días) ❄️",
+            "text": "El camarón se deteriora rápido incluso a 4 °C, por lo que exige un frío intenso. 💡 Consejo de almacenamiento: Coloque hielo en un contenedor, cubra con film plástico, ponga los camarones encima y guarde en el estante más frío (0-2 °C)."
+          },
+          {
+            "name": "Congele formando una película de hielo (Ice Glaze) — Conservación congelada (2-3 meses) ❄️",
+            "text": "Congelar al aire seco provoca quemaduras por congelación y melanosis. 💡 Consejo de almacenamiento: Congele los camarones en bolsas herméticas cubiertos ligeramente con agua salada para formar un escudo de hielo, o cocínelos al vapor antes de congelar a -18 °C."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Es seguro comer camarones con manchas negras en la cabeza y patas (melanosis)?",
+            "answer": "La melanosis es una reacción natural inofensiva donde la enzima tirosinasa produce melanina al contacto con el oxígeno. No es tóxica, pero si las manchas son extensas indican baja frescura. Deséchelos si presentan olor fétido o textura viscosa."
+          },
+          {
+            "question": "¿Cuál es la mejor manera de descongelar camarones congelados?",
+            "answer": "Sumerja los camarones en agua salada fría (~3 % sal) de 10 a 15 minutos o descongélelos lentamente en el refrigerador. Evite el agua caliente o el microondas, ya que endurecen la carne y la vuelven gomosa."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver les crevettes fraîches : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les crevettes selon les directives officielles de sécurité.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Avez-vous déjà laissé des crevettes au réfrigérateur pour constater que leur tête et leurs pattes noircissaient (mélanose) avec une forte odeur de poisson ? 🦐\n\nRiche en protéines et en eau, la crevette subit une dégradation enzymatique très rapide dès sa pêche. Exposée à l'oxygène, l'enzyme tyrosinase provoque un noircissement (mélanose) commençant par la tête, tandis que les bactéries prolifèrent rapidement.\n\nDans ce guide, vous présente un guide scientifique de conservation des crevettes en 3 étapes recommandé par des experts pour garantir leur ferme texture. 🛡️",
+        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne laissez pas tremper les crevettes dans l'eau du robinet (eau douce) 💧",
+            "desc": "L'eau douce provoque une perte osmotique des sucs et ramollit la chair de la crevette. Rincez toujours délicatement dans une eau légèrement salée (~3 % de sel) pour préserver sa fermeté."
+          },
+          {
+            "title": "Ne laissez pas la chair de crevette décortiquée à l'air libre ⚠️",
+            "desc": "La chair décortiquée s'oxyde très vite au contact de l'oxygène et perd son eau. Conservez les crevettes non décortiquées ou plongez-les dans de l'eau glacée salée en boîte hermétique."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Rincer à l'eau salée et sécher complètement — Maintien du goût et de la fraîcheur 📦",
+            "text": "Rincez délicatement les crevettes dans de l'eau salée (1 c. à soupe de sel par litre) puis séchez-les avec de l'essuie-tout. 💡 Astuce de conservation : La salinité évite la perte de sucs et ralentit l'oxydation."
+          },
+          {
+            "name": "Réfrigérer sur un lit de glace pour une consommation sous 1-2 jours — Réfrigération (1-2 jours) ❄️",
+            "text": "La crevette se détériore vite même à 4 °C, exigeant un froid très vif. 💡 Astuce de conservation : Placez de la glace dans une boîte, couvrez d'un film, déposez les crevettes et conservez dans la zone la plus froide (0–2 °C)."
+          },
+          {
+            "name": "Congeler avec un glaçage d'eau salée (Ice Glazing) — Congélation (2-3 mois) ❄️",
+            "text": "La congélation à l'air sec provoque des brûlures de congélation et la mélanose. 💡 Astuce de conservation : Placez les crevettes dans un sachet avec un peu d'eau salée pour créer une couche de glace protectrice, puis congelez sous -18 °C."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Peut-on consommer des crevettes dont la tête a noirci (mélanose) ?",
+            "answer": "La mélanose est une réaction naturelle inoffensive où l'enzyme tyrosinase produit de la mélanine au contact de l'air. Ce n'est pas toxique, mais un noircissement étendu indique un manque de fraîcheur. Jetez les crevettes si elles sentent fort ou deviennent poisseuses."
+          },
+          {
+            "question": "Quelle est la meilleure méthode pour décongeler des crevettes ?",
+            "answer": "Plongez les crevettes congelées dans de l'eau froide salée (~3 % de sel) pendant 10 à 15 minutes ou laissez-les décongeler doucement au réfrigérateur. Évitez l'eau chaude et le micro-ondes qui rendent la chair caoutchouteuse."
+          }
+        ]
+      },
+      "de": {
+        "title": "Garnelen richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Garnelen basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Haben Sie frische Garnelen im Kühlschrank gelagert, nur um festzustellen, dass sich Kopf und Beine schwarz verfärbten (Melanose) und ein fischiger Geruch entstand? 🦐\n\nGarnelen sind reich an Eiweiß und Wasser und unterliegen nach dem Fang einem extrem raschen enzymatischen Abbau. Bei Kontakt mit Luftsauerstoff löst das Enzym Tyrosinase eine Schwarzverfärbung (Melanose) ab dem Kopf aus, während sich Bakterien schnell vermehren.\n\nIn diesem Ratgeber erfahren Sie einen von Experten empfohlenen 3-Schritte-Ratgeber vor, um die knackige Textur und Frische Ihrer Garnelen zu bewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Garnelen nicht lange in Leitungswasser (Süßwasser) liegen lassen 💧",
+            "desc": "Das Einlegen in Leitungswasser führt durch Osmose zum Verlust von Aromastoffen und macht das Fleisch weich. Waschen Sie Garnelen stets vorsichtig in leichtem Salzwasser (~3 % Salzgehalt)."
+          },
+          {
+            "title": "Geschältes Garnelenfleisch nicht ungekühlt der Luft aussetzen ⚠️",
+            "desc": "Geschältes Fleisch oxidiert an der Luft sehr schnell und verliert Feuchtigkeit. Lagern Sie Garnelen bevorzugt mit Schale oder bewahren Sie geschälte Garnelen in Eis-Salzwasser in Dosen auf."
+          }
+        ],
+        "steps": [
+          {
+            "name": "In leichtem Salzwasser spülen und gründlich trocknen — Frischeschutz 📦",
+            "text": "Schwenken Sie die Garnelen vorsichtig in Salzwasser (1 EL Salz pro Liter) und tupfen Sie sie mit Küchenpapier trocken. 💡 Lagerungstipp: Die Salinität schützt vor Geschmacksverlust und verlangsamt die Oxidation."
+          },
+          {
+            "name": "Bei Verzehr in 1–2 Tagen auf Eis kühlen — Kurzeitige Kühllagerung (1–2 Tage) ❄️",
+            "text": "Garnelen verderben selbst bei normaler Kühlschranktemperatur (4 °C) schnell. 💡 Lagerungstipp: Legen Sie Eis in eine Dose, decken Sie es mit Folie ab, legen Sie die Garnelen darauf und lagern Sie sie im kältesten Fach (0–2 °C)."
+          },
+          {
+            "name": "Für die Langzeitlagerung mit Eisschicht (Ice Glaze) einfrieren — Gefrierlagerung (2–3 Monate) ❄️",
+            "text": "Das Einfrieren an trockener Luft führt zu Gefrierbrand und Schwarzverfärbung. 💡 Lagerungstipp: Frieren Sie die Garnelen in Beuteln leicht mit Salzwasser bedeckt ein (Eisschicht) oder dämpfen Sie sie vor dem Einfrieren bei unter -18 °C."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Kann man Garnelen mit schwarzen Flecken an Kopf und Beinen (Melanose) noch essen?",
+            "answer": "Melanose ist eine ungiftige, natürliche Reaktion, bei der das Enzym Tyrosinase mit Sauerstoff Melanin bildet. Dennoch deutet eine starke Verfärbung auf nachlassende Frische hin. Riechen die Garnelen unangenehm oder sind glitschig, sollten sie entsorgt werden."
+          },
+          {
+            "question": "Wie taut man gefrorene Garnelen am besten auf?",
+            "answer": "Legen Sie die Garnelen für 10 bis 15 Minuten in kaltes Salzwasser (~3 % Salzgehalt) oder tauen Sie sie langsam im Kühlschrank auf. Vermeiden Sie heißes Wasser oder die Mikrowelle, da das Fleisch sonst zäh wird."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar camarões frescos: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para camarões com base em diretrizes oficiais de segurança.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Você já guardou camarões frescos na geladeira e depois percebeu que a cabeça e as patas ficaram pretas (melanose) acompanhadas de um cheiro forte? 🦐\n\nO camarão possui alto teor de proteínas e água, e sua deterioração enzimática é extremamente rápida após a pesca. Ao entrar em contato com o oxigênio, a enzima tirosinase provoca o escurecimento (melanose) a partir da cabeça, enquanto as bactérias se multiplicam rapidamente.\n\nNeste guia, apresentamos um guia prático de conservação em 3 etapas recomendado por especialistas para manter a firmeza e o sabor do camarão pelo maior tempo possível. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Não deixe os camarões de molho em água da torneira (água doce) 💧",
+            "desc": "Deixar o camarão em água doce causa perda osmótica de seus sucos naturais e deixa a carne mole. Lave sempre suavemente em água levemente salgada (~3% de salinidade) para manter a firmeza."
+          },
+          {
+            "title": "Não exponha a carne do camarão descascado ao ar ⚠️",
+            "desc": "A carne descascada oxida rapidamente com o ar e perde umidade. Guarde os camarões com casca ou, se descascados, mergulhe-os em água salgada com gelo dentro de potes herméticos."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Lavar em água salgada e secar completamente — Preservação do sabor 📦",
+            "text": "Lave suavemente em água salgada (1 colher de sopa de sal por litro) e seque bem com papel-toalha. 💡 Dica de conservação: A salinidade evita a perda do sabor umami e reduz a oxidação da superfície."
+          },
+          {
+            "name": "Refrigerar sobre cama de gelo para consumo em 1 a 2 dias — Refrigeração (1 a 2 dias) ❄️",
+            "text": "O camarão estraga rápido mesmo a 4 °C, exigindo frio intenso. 💡 Dica de conservação: Coloque gelo no pote, cubra com filme plástico, ponha os camarões por cima e guarde na gaveta mais fria (0-2 °C)."
+          },
+          {
+            "name": "Congelar formando uma camada de gelo (Ice Glaze) — Congelamento (2 a 3 meses) ❄️",
+            "text": "Congelar em ar seco provoca queimaduras de gelo e melanose. 💡 Dica de conservação: Congele os camarões em sacos cobertos levemente com água salgada para criar um escudo de gelo, ou cozinhe no vapor antes de congelar a -18 °C."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "É seguro comer camarão com manchas pretas na cabeça e patas (melanose)?",
+            "answer": "A melanose é uma reação natural inofensiva onde a enzima tirosinase produz melanina ao contato com o oxigênio. Não é tóxica, mas manchas extensas indicam perda de frescor. Descarte se houver cheiro ruim ou textura viscosa."
+          },
+          {
+            "question": "Qual é a melhor forma de descongelar camarões congelados?",
+            "answer": "Mergulhe os camarões em água salgada fria (~3% de sal) por 10 a 15 minutos ou descongele lentamente na geladeira. Evite água quente ou micro-ondas, pois deixam a carne dura e borrachuda."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Udang agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk udang berdasarkan pedoman keselamatan resmi.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Pernahkah Anda menyimpan udang segar di kulkas lalu mendapati bagian kepala dan kakinya menghitam (melanosis) disertai bau amis yang menyengat? 🦐\n\nUdang memiliki kandungan protein dan air yang tinggi serta aktivitas enzim yang sangat cepat setelah ditangkap. Saat terpapar oksigen di udara, enzim tirosinase memicu timbulnya bercak hitam (melanosis) dimulai dari kepala, sementara bakteri berkembang biak dengan cepat.\n\nDalam panduan ini, kami membagikan panduan penyimpanan udang 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan untuk menjaga kesegaran dan tekstur kenyalnya. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan merendam udang dalam air keran (air tawar) terlalu lama 💧",
+            "desc": "Merendam udang dalam air tawar menyebabkan hilangnya rasa gurih alami dan membuat dagingnya menjadi lembek akibat tekanan osmotik. Selalu cuci perlahan dengan air garam ringan (sekitar 3% salinitas) agar daging tetap kenyal."
+          },
+          {
+            "title": "Jangan membiarkan daging udang kupas terpapar udara langsung ⚠️",
+            "desc": "Daging udang tanpa kulit akan teroksidasi dengan cepat saat terkena udara dan kehilangan kelembapan. Simpan udang bersama kulitnya, atau jika sudah dikupas, rendam dalam wadah kedap udara berisi air es garam."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Cuci dengan air garam ringan dan lap hingga kering — Penjagaan Cita Rasa 📦",
+            "text": "Cuci udang perlahan dalam air garam (1 sendok makan garam per 1 liter air) lalu keringkan dengan tisu dapur. 💡 Tips Penyimpanan: Menjaga kadar garam mencegah keluarnya cairan rasa gurih dan memperlambat oksidasi."
+          },
+          {
+            "name": "Simpan di atas es batu untuk konsumsi 1–2 hari — Simpan Dingin (1–2 Hari) ❄️",
+            "text": "Udang cepat rusak bahkan pada suhu kulkas biasa (4°C). 💡 Tips Penyimpanan: Tata es batu di dasar wadah, lapisi dengan plastik wrap, taruh udang di atasnya, lalu simpan di rak kulkas paling dingin (0–2°C)."
+          },
+          {
+            "name": "Bekukan dengan lapisan es (Ice Glaze) untuk jangka panjang — Simpan Beku (2–3 Bulan) ❄️",
+            "text": "Membekukan udang yang terpapar udara kering menyebabkan freezer burn dan melanosis. 💡 Tips Penyimpanan: Bekukan udang dalam kantong ziploc yang diisi sedikit air garam (membentuk lapisan es pelindung), atau kukus dan dinginkan sebelum dibekukan di bawah -18°C."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah udang yang kepala dan kakinya menghitam (melanosis) aman dimakan?",
+            "answer": "Melanosis adalah reaksi alami yang tidak berbahaya di mana enzim tirosinase menghasilkan pigmen melanin saat terkena oksigen. Ini tidak beracun, tetapi bercak hitam yang luas menandakan kesegaran yang sudah menurun. Buang udang jika berbau busuk atau terasa lengket."
+          },
+          {
+            "question": "Bagaimana cara terbaik mencairkan udang beku?",
+            "answer": "Rendam udang beku dalam air garam dingin (salinitas ~3%) selama 10 hingga 15 menit, atau cairkan perlahan di dalam kulkas. Hindari penggunaan air hangat atau microwave karena akan membuat daging udang matang sebagian dan teksturnya menjadi liat."
+          }
+        ]
+      }
     }
+  }
 }

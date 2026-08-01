@@ -1,459 +1,459 @@
 {
-    "budgerigar-care": {
-        "pubDate": "2026-04-15",
-        "updatedDate": "2026-04-15",
-        "locales": {
-            "ko": {
-                "title": "사랑앵무의 호흡기 보호와 기분 신호 해석을 위한 3단계 데일리 케어",
-                "description": "화려하고 똑똑한 소형 앵무새 사랑앵무(Budgie). 테플론 유독가스 주의와 부리 갈기·동공 수축 신호 해석, 영양 균형을 위한 3단계 케어 루틴을 소개합니다.",
-                "authority": "Association of Avian Veterinarians (AAV) 조류 수의사회 및 World Parrot Trust 케어 프로토콜",
-                "profile": {
-                    "breed": "사랑앵무 / 잉꼬 (Budgerigar / Budgie)",
-                    "lifespan": "8 ~ 12년 (올바른 영양 공급 시 15년)",
-                    "sleep_pattern": "10 ~ 12시간 (암막 커버로 완전한 어둠 유지)",
-                    "temperament": "호기심 많음, 사교적, 활발함, 음향에 민감함"
-                },
-                "intro": "사랑앵무(Budgerigar / Budgie)는 화려한 깃털과 매력적인 소리, 높은 친화력으로 전 세계에서 가장 사랑받는 소형 앵무새입니다. 하지만 앵무새 특유의 공기주머니(Air Sacs) 호흡기 구조로 인해 테플론 코팅 팬에서 발생하는 유독 가스나 향수, 방향제 등 공기 중 유해 물질에 극도로 취약합니다. 또한 씨앗(알곡) 중심의 단일 식단은 간지방증(Hepatic Lipidosis)과 비타민 결핍을 유발하기 쉽습니다. 이번 가이드에서는 사랑앵무의 언어를 정확히 이해하고 호흡기 건강과 균형 잡힌 식단을 지키는 3단계 홈케어 루틴을 소개합니다.",
-                "whyTitle": "사랑앵무의 바디 랭귀지: 부리 갈기 소리와 동공 수축(Pupil Pinning)",
-                "whyDesc": "사랑앵무는 부리의 소리와 눈동자의 크기 변화로 기분 상태를 명확히 표현합니다. 잠들기 전 **'부리를 사각사각 가는 소리(Beak Grinding)'**는 편안함과 만족감을 나타내는 대표적인 휴식 신호입니다. 반면 흥분하거나 보호자의 목소리에 인지 집중할 때 **'동공이 수축하며 흰자위가 보이는 현상(Pupil Pinning)'**은 강한 호기심이나 감정적 흥분 상태를 의미합니다.",
-                "body_signals": [
-                    {
-                        "name": "부리를 사각사각 문지르며 가는 소리 (Beak Grinding)",
-                        "meaning": "수면 직전이나 환경에 완벽한 안전함과 만족감을 느낄 때 나오는 기분 좋은 휴식 신호입니다.",
-                        "response": "새장을 방해하지 말고 실내 조명을 낮추어 차분하게 수면에 들 수 있도록 정숙한 환경을 조성해 줍니다."
-                    },
-                    {
-                        "name": "눈동자의 동공이 순간적으로 축소됨 (Pupil Pinning)",
-                        "meaning": "새로운 장난감, 보호자의 목소리, 또는 주변 환경에 크게 흥분하거나 호기심을 느끼는 상태입니다.",
-                        "response": "과도한 흥분으로 이어져 입질을 하지 않도록 부드럽고 차분한 목소리로 대화하며 감정을 가라앉혀 줍니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 조류 전용 펠릿과 신선한 야채 급여 및 공기 환기",
-                        "text": "간지방증 예방을 위해 씨앗 비율을 줄이고 영양 펠릿과 신선한 잎채소(청경채, 당근 등)를 급여하며 청정한 공기를 유지합니다."
-                    },
-                    {
-                        "name": "낮: 포레징(먹이 탐색) 장난감 교체 및 안전한 자율 비행",
-                        "text": "지루함으로 인한 털 뽑기 행동을 방지하기 위해 종이 파쇄 노즈워크나 포레징 장난감을 제공하고, 창문과 문을 닫은 안전한 방에서 방사장 비행을 시켜줍니다."
-                    },
-                    {
-                        "name": "저녁: 꼬리 깃털 호흡 상태 점검 및 암막 커버 수면",
-                        "text": "위아래로 꼬리가 크게 흔들리는 꼬리 까딱임(Tail Bobbing) 등 호흡기 이상 유무를 체크하고, 10~12시간 숙면을 위해 암막 커버를 씌워줍니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "주방 근처나 테플론 코팅 프라이팬이 왜 사랑앵무에게 치명적인가요?",
-                        "answer": "테플론(PTFE) 코팅 팬이 고온으로 가열될 때 발생하는 무색무취의 독성 가스는 앵무새의 공기주머니(Air Sacs)에 치명적인 혈류 출혈과 호흡 마비를 일으킵니다. 새장은 주방과 완전히 분리된 구역에 위치해야 합니다."
-                    },
-                    {
-                        "question": "알곡(씨앗) 사료만 주면 왜 건강에 해롭나요?",
-                        "answer": "씨앗 사료는 지방 함량이 매우 높고 비타민 A와 칼슘이 부족하여 장기 급여 시 간지방증(Hepatic Lipidosis)과 갑상선 질환을 유발합니다. 영양 균형이 잡힌 조류 전용 펠릿을 60~70% 이상 주식으로 급여해야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Budgerigar Respiratory Protection and Mood Signal Interpretation: A 3-Step Daily Routine",
-                "description": "Care guide for the colorful and intelligent Budgerigar (Budgie). Prevent PTFE toxic gas exposure, interpret beak grinding and pupil pinning, and balance nutrition with a 3-step routine.",
-                "authority": "Association of Avian Veterinarians (AAV) & World Parrot Trust Avian Care Protocols",
-                "profile": {
-                    "breed": "Budgerigar / Budgie",
-                    "lifespan": "8 - 12 Years (Up to 15 years with optimal nutrition)",
-                    "sleep_pattern": "10 - 12 Hours (Complete darkness with blackout cover)",
-                    "temperament": "Curious, Social, Active, Sensitive to Sounds"
-                },
-                "intro": "Budgerigars (Budgies) are among the most popular pet birds worldwide, cherished for their vibrant plumage, cheerful chirping, and affectionate nature. However, due to their unique avian respiratory system with air sacs, they are extremely vulnerable to airborne toxins like PTFE (Teflon) fumes, perfumes, and aerosol sprays. Furthermore, an all-seed diet often leads to hepatic lipidosis (fatty liver disease) and severe nutritional deficiencies. In this guide, presents a 3-step daily care routine to understand your budgie's body language, ensure respiratory safety, and maintain a balanced diet.",
-                "whyTitle": "Budgerigar Body Language: Beak Grinding and Pupil Pinning",
-                "whyDesc": "Budgies communicate their emotional state clearly through beak sounds and eye contractions. **'Beak Grinding'** before sleep is a classic sign of contentment and relaxation. Conversely, rapid contraction and dilation of the pupils, known as **'Pupil Pinning'**, indicates high curiosity, intense excitement, or heightened cognitive focus.",
-                "body_signals": [
-                    {
-                        "name": "Crunchy Beak Rubbing Sound (Beak Grinding)",
-                        "meaning": "A sign of deep contentment, safety, and relaxation right before sleeping or resting.",
-                        "response": "Avoid disturbing them and dim the room lights to create a quiet environment for sleep."
-                    },
-                    {
-                        "name": "Rapid Contraction of Pupils (Pupil Pinning)",
-                        "meaning": "A state of high excitement, intense curiosity, or focus triggered by a toy, voice, or new object.",
-                        "response": "Speak in a gentle, calming tone to settle their emotions and prevent overstimulation biting."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Formulated Pellet & Fresh Veggie Feeding with Air Ventilation",
-                        "text": "Reduce seed proportions to prevent fatty liver disease and feed nutritional pellets alongside fresh leafy greens while ensuring clean room ventilation."
-                    },
-                    {
-                        "name": "Afternoon: Foraging Toys & Safe Out-of-Cage Flight Time",
-                        "text": "Provide shreddable paper or foraging toys to prevent feather plucking from boredom, and allow supervised flight in a secure room with closed windows."
-                    },
-                    {
-                        "name": "Evening: Respiratory Check (Tail Bobbing) & Blackout Sleep Routine",
-                        "text": "Check for breathing abnormalities like rhythmically bobbing tail feathers (Tail Bobbing), and cover the cage with a blackout cloth for 10-12 hours of sleep."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why are non-stick PTFE (Teflon) pans lethal to Budgies?",
-                        "answer": "When heated, PTFE-coated cookware emits odorless, invisible toxic fumes that cause severe lung hemorrhage and rapid respiratory paralysis in a bird's sensitive air sacs. Budgie cages must be kept far away from kitchens."
-                    },
-                    {
-                        "question": "Why is an all-seed diet dangerous for a Budgie?",
-                        "answer": "Seeds are excessively high in fat and lack essential Vitamin A and calcium. Long-term seed diets lead to fatal hepatic lipidosis (fatty liver disease). Formulated avian pellets should make up 60-70% of their daily diet."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "セキセイインコの呼吸器保護と感情サイン解読のための3ステップデイリールーティン",
-                "description": "カラフルで賢いセキセイインコ。テフロン中毒の予防、嘴を鳴らす音や瞳孔収縮サインの解読、栄養バランスを保つ3ステップのホームケアを紹介します。",
-                "authority": "鳥類獣医師会 (Association of Avian Veterinarians) ＆ ワールド・パロット・トラスト飼育基準",
-                "profile": {
-                    "breed": "セキセイインコ (Budgerigar / Budgie)",
-                    "lifespan": "8 〜 12年 (適切な栄養管理で15年)",
-                    "sleep_pattern": "10 〜 12時間 (遮光カバーによる完全な暗闇)",
-                    "temperament": "好奇心旺盛、社交的、活発、音に敏感"
-                },
-                "intro": "セキセイインコは美しい羽色と愛らしい鳴き声、人懐っこい性格で世界中で愛されている小型インコです。しかし、鳥類特有の「気嚢（Air Sacs）」という呼吸器官を持つため、テフロン加工のフライパンから発生する有毒ガスや香水、芳香剤などの空気中の有害物質に非常に脆弱です。また、シード（種子）中心の偏った食事は脂肪肝（Hepatic Lipidosis）や栄養失調を引き起こしやすいです。本記事では、セキセイインコのサインを正確に読み解き、呼吸器の安全と健康的な食生活を守る3ステップルーティンをお届けします。",
-                "whyTitle": "セキセイインコのボディランゲージ：嘴すり合わせと瞳孔収縮（Pinning）",
-                "whyDesc": "セキセイインコは嘴の音と瞳孔の大きさの変化で感情を表現します。就寝前の**「嘴をジャリジャリ鳴らす動作（Beak Grinding）」**は、リラックスして満足しているサインです。一方、興奮したり飼い主の声に集中している時の**「瞳孔が小さくなって白目が浮き出る現象（Pupil Pinning）」**は、強い好奇心や興奮状態を示しています。",
-                "body_signals": [
-                    {
-                        "name": "嘴をジャリジャリとすり合わせる音 (Beak Grinding)",
-                        "meaning": "寝る前や環境に完全な安心感と満足感を抱いている時のリラックスサインです。",
-                        "response": "ケージを刺激せず、部屋の照明を落として静かに眠れる環境を整えてあげましょう。"
-                    },
-                    {
-                        "name": "瞳孔が瞬間的に小さくなる (Pupil Pinning)",
-                        "meaning": "新しいおもちゃや飼い主の声、周囲の環境に大きく興奮・好奇心を抱いている状態です。",
-                        "response": "興奮しすぎて噛みつきに発展しないよう、優しく落ち着いた声で話しかけて気持ちを鎮めましょう。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：鳥用ペレットと新鮮な野菜の給餌＆換気",
-                        "text": "脂肪肝を防ぐためにシードの割合を減らし、総合栄養ペレットと青菜（小松菜や人参など）を与え、部屋の空気を清潔に保ちます。"
-                    },
-                    {
-                        "name": "昼：フォージング（採餌）玩具の交換と安全な放鳥時間",
-                        "text": "退屈による毛引き症を防ぐためにフォージングトイを提供し、窓や扉を閉めた安全な部屋で放鳥運動をさせます。"
-                    },
-                    {
-                        "name": "夜：尾羽の上下運動（呼吸状態）チェックと遮光睡眠",
-                        "text": "呼吸に合わせて尾羽が大きく上下する「テイルボビング」がないか確認し、10〜12時間の熟睡のためにケージに遮光カバーをかけます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "なぜテフロン加工のフライパンがセキセイインコにとって危険なのですか？",
-                        "answer": "テフロン（PTFE）加熱時に発生する無臭の有害ガスは、インコの気嚢に重度の出血と呼吸麻痺を引き起こし、短時間で致死的な状態に陥らせます。ケージはキッチンから離れた部屋に設置してください。"
-                    },
-                    {
-                        "question": "シード（種子）だけを与えるのが良くない理由は何ですか？",
-                        "answer": "シードは高脂質でビタミンAやカルシウムが著しく不足しており、長期給餌は脂肪肝（Hepatic Lipidosis）や甲状腺疾患を引き起こします。栄養バランスの整った鳥用ペレットを主食（60〜70%）にしてください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "虎皮鹦鹉呼吸道保护与情绪信号解读的3步日常护理流程",
-                "description": "绚丽聪慧的虎皮鹦鹉（Budgie）护理指南。预防特氟龙毒气伤害，解读磨嘴与瞳孔收缩信号，实现营养均衡的3步骤家庭护理。",
-                "authority": "美国鸟类兽医协会 (AAV) 与世界鹦鹉信托基金会 (World Parrot Trust) 护理标准",
-                "profile": {
-                    "breed": "虎皮鹦鹉 / 娇凤 (Budgerigar / Budgie)",
-                    "lifespan": "8 ~ 12年 (科学喂养可达15年)",
-                    "sleep_pattern": "10 ~ 12小时 (需使用遮光罩保持全黑环境)",
-                    "temperament": "好奇心强、喜社交、活泼、对声音敏感"
-                },
-                "intro": "虎皮鹦鹉（Budgie）凭借其绚丽的羽毛、清脆的鸣叫和亲人的性格，成为全球最受欢迎的小型宠物鸟。然而，由于鸟类特有的“气囊 (Air Sacs)” 呼吸系统，它们对特氟龙不粘锅加热产生的有毒气体、香水及喷雾极度敏感。此外，长期单喂种子（谷物）极易引发脂肪肝（Hepatic Lipidosis）与营养缺乏。本指南将带您准确解读虎皮鹦鹉的语言，并介绍保护其呼吸道与健康饮食的3步骤日常护理流程。",
-                "whyTitle": "虎皮鹦鹉的肢体语言：磨嘴声与瞳孔收缩 (Pupil Pinning)",
-                "whyDesc": "虎皮鹦鹉通过嘴部发声与瞳孔变化清晰表达情绪。睡前**“发出咯吱咯吱的磨嘴声 (Beak Grinding)”**代表放松与满足。相反，当对新事物兴奋或集中注意力听主人说话时，**“瞳孔瞬间收缩显露眼白 (Pupil Pinning)”**则代表强烈的各种好奇或情绪亢奋。",
-                "body_signals": [
-                    {
-                        "name": "发出沙沙/咯吱的磨嘴声 (Beak Grinding)",
-                        "meaning": "入睡前或对环境感到高度安全与满足时的放松休息信号。",
-                        "response": "切勿打扰，调暗室内灯光，为其营造安静舒适的入睡环境。"
-                    },
-                    {
-                        "name": "瞳孔瞬间缩小 (Pupil Pinning)",
-                        "meaning": "对新玩具、主人的声音或周围环境处于高度兴奋、好奇或专注状态。",
-                        "response": "用温柔平缓的语气与之交流，平复其情绪，防止过度亢奋引发咬人行为。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：喂食鹦鹉滋养丸与新鲜蔬菜及保持通风",
-                        "text": "减少高脂种子比例，以综合营养滋养丸和新鲜绿叶菜（如油菜、胡萝卜）为主食，并保持室内空气清新。"
-                    },
-                    {
-                        "name": "中午：更换觅食 (Foraging) 玩具与安全放飞",
-                        "text": "提供撕咬纸丝或觅食玩具预防无聊拔毛，并在关好门窗的安全房间内安排放飞运动。"
-                    },
-                    {
-                        "name": "晚上：尾羽呼吸状态检查与遮光睡眠",
-                        "text": "检查是否存在尾羽上下剧烈晃动（Tail Bobbing）等呼吸异常，并加盖遮光布保证10~12小时深度睡眠。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "为什么特氟龙（PTFE）不粘锅对虎皮鹦鹉是致命的？",
-                        "answer": "特氟龙涂层高温加热时产生的无色无味毒气，会瞬间破坏鹦鹉的气囊并导致严重肺出血与呼吸麻痹。鸟笼必须严格远离厨房区域。"
-                    },
-                    {
-                        "question": "为什么不能只给虎皮鹦鹉喂食谷物种子？",
-                        "answer": "纯种子食物脂肪含量极高且缺乏维生素A和钙，长期喂食会导致致命的脂肪肝（Hepatic Lipidosis）。应以营养均衡的专用滋养丸作为主食（占60~70%）。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Protección respiratoria y lectura de señales de ánimo en el Perico Australiano: Rutina diaria de 3 pasos",
-                "description": "Guía de cuidado para el colorido e inteligente Perico Australiano (Budgie). Evite gases tóxicos de teflón, interprete el rechinado de pico y la pupilación, y equilibre su nutrición.",
-                "authority": "Asociación de Veterinarios Aviares (AAV) y Protocolos del World Parrot Trust",
-                "profile": {
-                    "breed": "Perico Australiano / Periquito (Budgerigar / Budgie)",
-                    "lifespan": "8 ~ 12 años (Hasta 15 años con nutrición óptima)",
-                    "sleep_pattern": "10 ~ 12 horas (Oscuridad total con funda opaca)",
-                    "temperament": "Curioso, Social, Activo, Sensible a los sonidos"
-                },
-                "intro": "El Perico Australiano (Budgie) es un ave de compañía sumamente popular gracias a su plumaje vistoso, su canto alegre y su naturaleza afectuosa. Sin embargo, debido a su sistema respiratorio único con sacos aéreos, es extremadamente sensible a vapores tóxicos de teflón (PTFE), perfumes y aerosoles. Además, una dieta basada exclusivamente en semillas provoca lipidosis hepática (hígado graso) y graves deficiencias nutricionales. En esta guía, presenta una rutina de 3 pasos para interpretar su lenguaje corporal, proteger sus vías respiratorias y mantener una nutrición equilibrada.",
-                "whyTitle": "Lenguaje corporal del Periquito: Rechinado de pico y contraibilidad pupilar (Pupil Pinning)",
-                "whyDesc": "Los periquitos comunican su estado emocional con sonidos de su pico y cambios en sus ojos. **'Rechinar el pico (Beak Grinding)'** antes de dormir es un signo clásico de tranquilidad y satisfacción. En cambio, la rápida contracción y dilatación de la pupila, conocida como **'Pupil Pinning'**, indica alta curiosidad, excitación o intensa concentración.",
-                "body_signals": [
-                    {
-                        "name": "Sonido crujiente al frotar el pico (Beak Grinding)",
-                        "meaning": "Señala relajación profunda, seguridad y comodidad justo antes de descansar o dormir.",
-                        "response": "Evite molestarlo y atenúe las luces para crear un entorno silencioso adecuado para el sueño."
-                    },
-                    {
-                        "name": "Contracción rápida de las pupilas (Pupil Pinning)",
-                        "meaning": "Muestra un estado de gran excitación, curiosidad o enfoque intenso ante un juguete, voz o estímulo.",
-                        "response": "Háblele con voz suave para calmar sus emociones y prevenir picotazos por sobreestimulación."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Alimentación con pienso extruido, verduras frescas y ventilación",
-                        "text": "Reduzca las semillas para prevenir la lipidosis hepática y proporcione pienso extruido con vegetales de hoja verde mientras renueva el aire."
-                    },
-                    {
-                        "name": "Tarde: Juguetes de forrajeo y tiempo de vuelo seguro fuera de la jaula",
-                        "text": "Ofrezca juguetes para triturar papel que eviten el picaje por aburrimiento y permita el vuelo en una habitación segura con ventanas cerradas."
-                    },
-                    {
-                        "name": "Noche: Chequeo respiratorio (Balanceo de cola) y sueño con manta opaca",
-                        "text": "Compruebe que no haya balanceo rítmico de las plumas de la cola (Tail Bobbing) al respirar y cubra la jaula con una funda opaca durante 10-12 horas."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué el teflón (PTFE) de las sartenes antiadherentes es mortal para los periquitos?",
-                        "answer": "Al calentarse, el teflón emite gases tóxicos e inodoros que provocan hemorragias pulmonares graves y parálisis respiratoria rápida en los sacos aéreos del ave. La jaula debe ubicarse lejos de la cocina."
-                    },
-                    {
-                        "question": "¿Por qué es peligrosa una dieta exclusiva de semillas?",
-                        "answer": "Las semillas contienen demasiada grasa y carecen de vitamina A y calcio. Su consumo prolongado causa lipidosis hepática mortal. El pienso formulado para aves debe representar entre el 60% y 70% de su alimento diario."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Protection respiratoire et décodage du comportement chez la Perruche Ondulée : Routine en 3 étapes",
-                "description": "Guide de soins pour la charmante Perruche Ondulée (Budgie). Évitez les gaz toxiques de téflon, décryptez le grincement de bec et le pinning pupillaire, et équilibre son alimentation.",
-                "authority": "Association of Avian Veterinarians (AAV) & Normes de soins du World Parrot Trust",
-                "profile": {
-                    "breed": "Perruche Ondulée (Budgerigar / Budgie)",
-                    "lifespan": "8 ~ 12 ans (Jusqu'à 15 ans avec une alimentation adaptée)",
-                    "sleep_pattern": "10 ~ 12 heures (Obscurité totale avec housse occultante)",
-                    "temperament": "Curieuse, Sociale, Vive, Sensible aux bruits"
-                },
-                "intro": "La Perruche Ondulée est l'un des oiseaux de compagnie les plus populaires au monde grâce à son plumage multicolore, ses gazouillis joyeux et sa grande sociabilité. Cependant, son système respiratoire muni de sacs aériens la rend extrêmement vulnérable aux émanations toxiques de téflon (PTFE), aux parfums et aux aérosols. De plus, un régime constitué uniquement de graines provoque une stéatose hépatique (foie gras) et de graves carences. Dans ce guide, vous présente une routine en 3 étapes pour comprendre le langage de votre perruche et préserver sa santé.",
-                "whyTitle": "Langage corporel de la Perruche Ondulée : Grincement de bec et contraction des pupilles",
-                "whyDesc": "La perruche exprime ses émotions par les sons de son bec et les mouvements de ses yeux. Le **« Grincement de bec (Beak Grinding) »** avant de s'endormir est un signe classique de bien-être. À l'inverse, la contraction rapide de la pupille qui laisse apparaître le blanc de l'œil, appelée **« Pupil Pinning »**, traduit une forte curiosité, une excitation ou une grande concentration.",
-                "body_signals": [
-                    {
-                        "name": "Frottement crissant du bec (Beak Grinding)",
-                        "meaning": "Signe de détente profonde, de sécurité et de satisfaction juste avant le repos ou le sommeil.",
-                        "response": "Ne la dérangez pas et tamisez la lumière de la pièce pour lui offrir un environnement calme."
-                    },
-                    {
-                        "name": "Contraction rapide de la pupille (Pupil Pinning)",
-                        "meaning": "État de grande excitation ou de curiosité intense déclenché par un jouet, une voix ou une nouveauté.",
-                        "response": "Parlez-lui d'une voix douce pour apaiser ses émotions et éviter les coups de bec dus à la surstimulation."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Distribution d'extrudés, légumes frais et aération de la pièce",
-                        "text": "Réduisez les graines pour éviter la stéatose hépatique, donnez des extrudés équilibrés avec des légumes feuillus frais et aérez la pièce."
-                    },
-                    {
-                        "name": "Après-midi : Jouets de recherche (Foraging) et vol libre en toute sécurité",
-                        "text": "Proposez des jouets en papier à détruire pour éviter le piquage lié à l'ennui et permettez-lui de voler dans une pièce sécurisée."
-                    },
-                    {
-                        "name": "Soir : Contrôle de la respiration (Mouvement de queue) et sommeil sous housse",
-                        "text": "Vérifiez l'absence de balancement anormal de la queue (Tail Bobbing) lors de la respiration et couvrez la cage d'un drap occultant pour 10-12h de sommeil."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi le téflon (PTFE) des poêles antiadhésives est-il mortel pour la perruche ?",
-                        "answer": "Surchauffé, le téflon dégage des vapeurs toxiques inodores qui provoquent des hémorragies pulmonaires fulgurantes dans les sacs aériens de l'oiseau. La cage doit rester impérativement éloignée de la cuisine."
-                    },
-                    {
-                        "question": "Pourquoi un régime composé uniquement de graines est-il dangereux ?",
-                        "answer": "Les graines sont très riches en lipides et pauvres en vitamine A et calcium. Leur distribution exclusive entraîne une stéatose hépatique (foie gras) fatale. Les granulés extrudés pour oiseaux doivent constituer 60 à 70 % de sa nourriture."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Atemwegsschutz und Körpersprache beim Wellensittich: Eine 3-Schritte-Tagesroutine",
-                "description": "Pflegeanleitung für den farbenfrohen und klugen Wellensittich. Vermeiden Sie Teflon-Gase, verstehen Sie Schnabelknirschen und Pupillenverengung und sorgen Sie für gesunde Ernährung.",
-                "authority": "Association of Avian Veterinarians (AAV) & Standards des World Parrot Trust",
-                "profile": {
-                    "breed": "Wellensittich (Budgerigar / Budgie)",
-                    "lifespan": "8 ~ 12 Jahre (Bei optimaler Ernährung bis zu 15 Jahre)",
-                    "sleep_pattern": "10 ~ 12 Stunden (Vollständige Dunkelheit mit Abdeckung)",
-                    "temperament": "Neugierig, Gesellig, Lebhaft, Geräuschempfindlich"
-                },
-                "intro": "Der Wellensittich gehört wegen seines bunten Gefieders, seines fröhlichen Zwitscherns und seines freundlichen Wesens zu den weltweit beliebtesten Heimvögeln. Aufgrund des einzigartigen Atmungssystems mit Luftsäcken reagieren Wellensittiche jedoch extrem empfindlich auf giftige Teflon-Dämpfe (PTFE), Parfüms und Aerosole. Eine reine Körnerdiät führt zudem häufig zu Fettlebererkrankungen (Hepatische Lipidose) und Mangelerscheinungen. In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für die Körpersprache, Atemwegssicherheit und ausgewogene Ernährung Ihres Wellensittichs.",
-                "whyTitle": "Körpersprache des Wellensittichs: Schnabelknirschen und Pupillenverengung",
-                "whyDesc": "Wellensittiche drücken ihre Stimmung deutlich durch Schnabelgeräusche und Pupillenbewegungen aus. Das **'Schnabelknirschen (Beak Grinding)'** vor dem Einschlafen ist ein Zeichen von tiefer Entspannung. Das schnelle Verengen der Pupillen, bekannt als **'Pupil Pinning'**, signalisiert dagegen starke Neugier, Aufregung oder hohe Konzentration.",
-                "body_signals": [
-                    {
-                        "name": "Leises Schnabelknirschen (Beak Grinding)",
-                        "meaning": "Ein Zeichen von Wohlbefinden, Sicherheit und Entspannung direkt vor dem Schlafen.",
-                        "response": "Stören Sie den Vogel nicht und dimmen Sie das Licht für eine ruhige Schlafumgebung."
-                    },
-                    {
-                        "name": "Plötzliches Verengen der Pupillen (Pupil Pinning)",
-                        "meaning": "Starke Aufregung, Neugier oder Fokus durch ein Spielzeug, die Stimme des Halters oder Reize.",
-                        "response": "Sprechen Sie mit ruhiger Stimme, um Überregung und eventuelles Zwicken zu vermeiden."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Pellets, frisches Grünfutter & Raumlüftung",
-                        "text": "Reduzieren Sie den Saatenanteil zur Vorbeugung von Fettleber und füttern Sie hochwertige Pellets mit frischem Gemüse bei guter Raumluft."
-                    },
-                    {
-                        "name": "Mittag: Knabberspielzeug (Foraging) & Sicherer Freiflug",
-                        "text": "Bieten Sie Papier- oder Suchspielzeug gegen Langeweile und Federrupfen an und ermöglichen Sie Freiflug im gesicherten Raum."
-                    },
-                    {
-                        "name": "Abend: Atemkontrolle (Schwanzwippen) & Abdecken zur Nachtruhe",
-                        "text": "Achten Sie auf auffälliges Schwanzwippen (Tail Bobbing) beim Atmen und decken Sie den Käfig für 10–12 Stunden Nachtruhe ab."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum sind Teflon-Pfannen (PTFE) für Wellensittiche tödlich?",
-                        "answer": "Überhitztes PTFE setzt geruchlose, hochgiftige Dämpfe frei, die in den Luftsäcken der Vögel schwere Lungenblutungen und Lähmungen auslösen. Der Käfig darf niemals in der Küche stehen."
-                    },
-                    {
-                        "question": "Warum ist eine reine Körnerfütterung ungesund?",
-                        "answer": "Saaten sind sehr fettreich und enthalten zu wenig Vitamin A und Kalzium. Eine reine Körnerdiät führt zu tödlicher Fettleber (Hepatische Lipidose). Hochwertige Vogelpellets sollten 60–70 % der Nahrung ausmachen."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Proteção respiratória e linguagem corporal do Periquito-Australiano: Rotina diária de 3 passos",
-                "description": "Guia de cuidados para o colorido e inteligente Periquito-Australiano (Budgie). Evite gases tóxicos de teflon, entenda o ranger do bico e a contração pupilar com uma rotina em 3 passos.",
-                "authority": "Associação de Veterinários de Aves (AAV) & Protocolos do World Parrot Trust",
-                "profile": {
-                    "breed": "Periquito-Australiano (Budgerigar / Budgie)",
-                    "lifespan": "8 ~ 12 anos (Até 15 anos com nutrição adequada)",
-                    "sleep_pattern": "10 ~ 12 horas (Escuridão total com capa blackout)",
-                    "temperament": "Curioso, Social, Ativo, Sensível a sons"
-                },
-                "intro": "O Periquito-Australiano (Budgie) é uma das aves de estimação mais populares do mundo devido à sua plumagem vibrante, canto alegre e temperamento afetuoso. Contudo, seu sistema respiratório único com sacos aéreos o torna extremamente vulnerável a vapores tóxicos de teflon (PTFE), perfumes e aerossóis. Além disso, uma dieta exclusiva de sementes causa lipidose hepática (gordura no fígado) e deficiências nutricionais. Neste guia, apresenta uma rotina de 3 passos para compreender a linguagem do seu periquito e proteger sua saúde.",
-                "whyTitle": "Linguagem corporal do Periquito: Ranger do bico e contração pupilar (Pupil Pinning)",
-                "whyDesc": "Os periquitos comunicam suas emoções através dos sons do bico e do movimento dos olhos. O **'Ranger do bico (Beak Grinding)'** antes de dormir é um sinal clássico de relaxamento e bem-estar. Já a rápida contração da pupila, conhecida como **'Pupil Pinning'**, indica forte curiosidade, empolgação ou foco intenso.",
-                "body_signals": [
-                    {
-                        "name": "Som suave ao raspar o bico (Beak Grinding)",
-                        "meaning": "Indica relaxamento profundo, sensação de segurança e conforto antes de descansar.",
-                        "response": "Não o perturbe e diminua as luzes do ambiente para proporcionar um sono tranquilo."
-                    },
-                    {
-                        "name": "Contração rápida das pupilas (Pupil Pinning)",
-                        "meaning": "Estado de grande excitação, curiosidade ou foco despertado por um brinquedo, voz ou novidade.",
-                        "response": "Fale com voz calma para tranquilizá-lo e evitar bicadas por excesso de estimulação."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Alimentação com ração extrusada, vegetais frescos e ventilação",
-                        "text": "Reduza as sementes para prevenir a lipidose hepática e ofereça ração extrusada com folhas verdes em um ambiente bem ventilado."
-                    },
-                    {
-                        "name": "Tarde: Brinquedos de forrageamento e voo livre seguro fora da gaiola",
-                        "text": "Forneça brinquedos para desfiar papel para evitar o arrancamento de penas por tédio e permita o voo em um cômodo seguro."
-                    },
-                    {
-                        "name": "Noite: Checagem respiratória (Balanço da cauda) e sono com capa blackout",
-                        "text": "Verifique se não há movimento rítmico anormal da cauda (Tail Bobbing) ao respirar e cubra a gaiola para 10-12h de sono."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Por que o teflon (PTFE) das panelas antiaderentes é fatal para os periquitos?",
-                        "answer": "Quando aquecido, o teflon emite gases tóxicos e inodoros que provocam hemorragia pulmonar grave e paralisia respiratória nos sacos aéreos da ave. A gaiola deve ficar longe da cozinha."
-                    },
-                    {
-                        "question": "Por que uma dieta baseada apenas em sementes é perigosa?",
-                        "answer": "As sementes são ricas em gordura e pobres em vitamina A e cálcio. A alimentação exclusiva de sementes causa lipidose hepática fatal. A ração extrusada para aves deve compor de 60% a 70% da dieta diária."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Perlindungan Pernapasan dan Bahasa Tubuh Parkit Australia (Budgie): Rutinitas Harian 3 Langkah",
-                "description": "Panduan perawatan Parkit Australia (Budgie) yang cerdas dan berwarna-warni. Hindari gas beracun teflon, pahami gesekan paruh dan gerakan pupil, serta jaga nutrisi seimbang.",
-                "authority": "Association of Avian Veterinarians (AAV) & Protokol Perawatan World Parrot Trust",
-                "profile": {
-                    "breed": "Parkit Australia / Budgie (Budgerigar / Budgie)",
-                    "lifespan": "8 ~ 12 tahun (Hingga 15 tahun dengan nutrisi optimal)",
-                    "sleep_pattern": "10 ~ 12 jam (Kegelapan total dengan kain penutup)",
-                    "temperament": "Rasa ingin tahu tinggi, Sosial, Aktif, Sensitif terhadap suara"
-                },
-                "intro": "Parkit Australia (Budgie) adalah salah satu burung peliharaan paling populer di dunia karena bulunya yang indah, kicauannya yang ceria, dan sifatnya yang ramah. Namun, karena sistem pernapasan burung yang unik dengan kantung udara (Air Sacs), mereka sangat rentan terhadap asap beracun teflon (PTFE), parfum, dan semprotan aerosol. Selain itu, pola makan yang hanya mengandalkan biji-bijian sering memicu penyakit hati berlemak (Lipidosis Hati) dan defisiensi nutrisi. Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk memahami bahasa tubuh Budgie dan menjaga kesehatannya.",
-                "whyTitle": "Bahasa Tubuh Budgie: Gesekan Paruh dan Gerakan Pupil Mengecil (Pupil Pinning)",
-                "whyDesc": "Budgie menyampaikan emosinya dengan jelas melalui suara paruh dan perubahan pupil mata. **'Menggesekkan paruh (Beak Grinding)'** sebelum tidur adalah tanda klasik rasa nyaman dan rileks. Sebaliknya, mengecilnya pupil mata secara cepat yang disebut **'Pupil Pinning'** menandakan rasa ingin tahu yang besar, kegembiraan, atau fokus yang tinggi.",
-                "body_signals": [
-                    {
-                        "name": "Suara paruh bergesek dengan lembut (Beak Grinding)",
-                        "meaning": "Tanda rasa santai, aman, dan puas sesaat sebelum beristirahat atau tidur.",
-                        "response": "Jangan ganggu mereka dan redupkan lampu ruangan untuk menciptakan suasana tidur yang tenang."
-                    },
-                    {
-                        "name": "Pupil mata mengecil dengan cepat (Pupil Pinning)",
-                        "meaning": "Kondisi sangat gembira, penasaran, atau terfokus pada mainan, suara, atau objek baru.",
-                        "response": "Bicara dengan nada lembut untuk menenangkan emosi mereka agar tidak menggigit akibat stimulasi berlebih."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Pemberian Pelet Nutrisi, Sayuran Segar & Ventilasi Udara",
-                        "text": "Kurangi porsi biji-bijian untuk mencegah penyakit hati berlemak, berikan pelet nutrisi dan sayuran hijau segar, serta pastikan sirkulasi udara bersih."
-                    },
-                    {
-                        "name": "Siang: Mainan Pencarian Makanan (Foraging) & Terbang Bebas yang Aman",
-                        "text": "Sediakan mainan kertas untuk dicabik agar mencegah stres merusak bulu, dan biarkan terbang di dalam ruangan yang aman dengan jendela tertutup."
-                    },
-                    {
-                        "name": "Malam: Pemeriksaan Pernapasan (Gerakan Ekor) & Tidur Penutup Gelap",
-                        "text": "Pastikan tidak ada gerakan ekor naik turun berlebihan saat bernapas (Tail Bobbing), dan tutup sangkar dengan kain gelap untuk tidur 10-12 jam."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa wajan anti-lengket Teflon (PTFE) sangat mematikan bagi Budgie?",
-                        "answer": "Saat dipanaskan, lapisan PTFE mengeluarkan asap beracun tanpa bau yang menyebabkan pendarahan paru-paru dan kelumpuhan pernapasan pada kantung udara burung. Sangkar burung harus diletakkan jauh dari dapur."
-                    },
-                    {
-                        "question": "Mengapa pola makan hanya biji-bijian berbahaya bagi Budgie?",
-                        "answer": "Biji-bijian sangat tinggi lemak serta kekurangan Vitamin A dan kalsium. Konsumsi biji-bijian jangka panjang menyebabkan penyakit hati berlemak (Lipidosis Hati). Pelet nutrisi khusus burung harus menjadi makanan utama (60-70%)."
-                    }
-                ]
-            }
+  "budgerigar-care": {
+    "pubDate": "2026-04-15",
+    "updatedDate": "2026-04-15",
+    "locales": {
+      "ko": {
+        "title": "사랑앵무의 호흡기 보호와 기분 신호 해석을 위한 3단계 데일리 케어",
+        "description": "화려하고 똑똑한 소형 앵무새 사랑앵무(Budgie). 테플론 유독가스 주의와 부리 갈기·동공 수축 신호 해석, 영양 균형을 위한 3단계 케어 루틴을 소개합니다.",
+        "authority": "Association of Avian Veterinarians (AAV) 조류 수의사회 및 World Parrot Trust 케어 프로토콜",
+        "profile": {
+          "breed": "사랑앵무 / 잉꼬 (Budgerigar / Budgie)",
+          "lifespan": "8 ~ 12년 (올바른 영양 공급 시 15년)",
+          "sleep_pattern": "10 ~ 12시간 (암막 커버로 완전한 어둠 유지)",
+          "temperament": "호기심 많음, 사교적, 활발함, 음향에 민감함"
         },
-        "heroImage": "/images/blog/budgerigar_care.webp"
-    }
+        "intro": "사랑앵무(Budgerigar / Budgie)는 화려한 깃털과 매력적인 소리, 높은 친화력으로 전 세계에서 가장 사랑받는 소형 앵무새입니다. 하지만 앵무새 특유의 공기주머니(Air Sacs) 호흡기 구조로 인해 테플론 코팅 팬에서 발생하는 유독 가스나 향수, 방향제 등 공기 중 유해 물질에 극도로 취약합니다. 또한 씨앗(알곡) 중심의 단일 식단은 간지방증(Hepatic Lipidosis)과 비타민 결핍을 유발하기 쉽습니다. 이번 가이드에서는 사랑앵무의 언어를 정확히 이해하고 호흡기 건강과 균형 잡힌 식단을 지키는 3단계 홈케어 루틴을 소개합니다.",
+        "whyTitle": "사랑앵무의 바디 랭귀지: 부리 갈기 소리와 동공 수축(Pupil Pinning)",
+        "whyDesc": "사랑앵무는 부리의 소리와 눈동자의 크기 변화로 기분 상태를 명확히 표현합니다. 잠들기 전 **'부리를 사각사각 가는 소리(Beak Grinding)'**는 편안함과 만족감을 나타내는 대표적인 휴식 신호입니다. 반면 흥분하거나 보호자의 목소리에 인지 집중할 때 **'동공이 수축하며 흰자위가 보이는 현상(Pupil Pinning)'**은 강한 호기심이나 감정적 흥분 상태를 의미합니다.",
+        "body_signals": [
+          {
+            "name": "부리를 사각사각 문지르며 가는 소리 (Beak Grinding)",
+            "meaning": "수면 직전이나 환경에 완벽한 안전함과 만족감을 느낄 때 나오는 기분 좋은 휴식 신호입니다.",
+            "response": "새장을 방해하지 말고 실내 조명을 낮추어 차분하게 수면에 들 수 있도록 정숙한 환경을 조성해 줍니다."
+          },
+          {
+            "name": "눈동자의 동공이 순간적으로 축소됨 (Pupil Pinning)",
+            "meaning": "새로운 장난감, 보호자의 목소리, 또는 주변 환경에 크게 흥분하거나 호기심을 느끼는 상태입니다.",
+            "response": "과도한 흥분으로 이어져 입질을 하지 않도록 부드럽고 차분한 목소리로 대화하며 감정을 가라앉혀 줍니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 조류 전용 펠릿과 신선한 야채 급여 및 공기 환기",
+            "text": "간지방증 예방을 위해 씨앗 비율을 줄이고 영양 펠릿과 신선한 잎채소(청경채, 당근 등)를 급여하며 청정한 공기를 유지합니다."
+          },
+          {
+            "name": "낮: 포레징(먹이 탐색) 장난감 교체 및 안전한 자율 비행",
+            "text": "지루함으로 인한 털 뽑기 행동을 방지하기 위해 종이 파쇄 노즈워크나 포레징 장난감을 제공하고, 창문과 문을 닫은 안전한 방에서 방사장 비행을 시켜줍니다."
+          },
+          {
+            "name": "저녁: 꼬리 깃털 호흡 상태 점검 및 암막 커버 수면",
+            "text": "위아래로 꼬리가 크게 흔들리는 꼬리 까딱임(Tail Bobbing) 등 호흡기 이상 유무를 체크하고, 10~12시간 숙면을 위해 암막 커버를 씌워줍니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "주방 근처나 테플론 코팅 프라이팬이 왜 사랑앵무에게 치명적인가요?",
+            "answer": "테플론(PTFE) 코팅 팬이 고온으로 가열될 때 발생하는 무색무취의 독성 가스는 앵무새의 공기주머니(Air Sacs)에 치명적인 혈류 출혈과 호흡 마비를 일으킵니다. 새장은 주방과 완전히 분리된 구역에 위치해야 합니다."
+          },
+          {
+            "question": "알곡(씨앗) 사료만 주면 왜 건강에 해롭나요?",
+            "answer": "씨앗 사료는 지방 함량이 매우 높고 비타민 A와 칼슘이 부족하여 장기 급여 시 간지방증(Hepatic Lipidosis)과 갑상선 질환을 유발합니다. 영양 균형이 잡힌 조류 전용 펠릿을 60~70% 이상 주식으로 급여해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Budgerigar Respiratory Protection and Mood Signal Interpretation: A 3-Step Daily Routine",
+        "description": "Care guide for the colorful and intelligent Budgerigar (Budgie). Prevent PTFE toxic gas exposure, interpret beak grinding and pupil pinning, and balance nutrition with a 3-step routine.",
+        "authority": "Association of Avian Veterinarians (AAV) & World Parrot Trust Avian Care Protocols",
+        "profile": {
+          "breed": "Budgerigar / Budgie",
+          "lifespan": "8 - 12 Years (Up to 15 years with optimal nutrition)",
+          "sleep_pattern": "10 - 12 Hours (Complete darkness with blackout cover)",
+          "temperament": "Curious, Social, Active, Sensitive to Sounds"
+        },
+        "intro": "Budgerigars (Budgies) are among the most popular pet birds worldwide, cherished for their vibrant plumage, cheerful chirping, and affectionate nature. However, due to their unique avian respiratory system with air sacs, they are extremely vulnerable to airborne toxins like PTFE (Teflon) fumes, perfumes, and aerosol sprays. Furthermore, an all-seed diet often leads to hepatic lipidosis (fatty liver disease) and severe nutritional deficiencies. In this guide, presents a 3-step daily care routine to understand your budgie's body language, ensure respiratory safety, and maintain a balanced diet.",
+        "whyTitle": "Budgerigar Body Language: Beak Grinding and Pupil Pinning",
+        "whyDesc": "Budgies communicate their emotional state clearly through beak sounds and eye contractions. **'Beak Grinding'** before sleep is a classic sign of contentment and relaxation. Conversely, rapid contraction and dilation of the pupils, known as **'Pupil Pinning'**, indicates high curiosity, intense excitement, or heightened cognitive focus.",
+        "body_signals": [
+          {
+            "name": "Crunchy Beak Rubbing Sound (Beak Grinding)",
+            "meaning": "A sign of deep contentment, safety, and relaxation right before sleeping or resting.",
+            "response": "Avoid disturbing them and dim the room lights to create a quiet environment for sleep."
+          },
+          {
+            "name": "Rapid Contraction of Pupils (Pupil Pinning)",
+            "meaning": "A state of high excitement, intense curiosity, or focus triggered by a toy, voice, or new object.",
+            "response": "Speak in a gentle, calming tone to settle their emotions and prevent overstimulation biting."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Formulated Pellet & Fresh Veggie Feeding with Air Ventilation",
+            "text": "Reduce seed proportions to prevent fatty liver disease and feed nutritional pellets alongside fresh leafy greens while ensuring clean room ventilation."
+          },
+          {
+            "name": "Afternoon: Foraging Toys & Safe Out-of-Cage Flight Time",
+            "text": "Provide shreddable paper or foraging toys to prevent feather plucking from boredom, and allow supervised flight in a secure room with closed windows."
+          },
+          {
+            "name": "Evening: Respiratory Check (Tail Bobbing) & Blackout Sleep Routine",
+            "text": "Check for breathing abnormalities like rhythmically bobbing tail feathers (Tail Bobbing), and cover the cage with a blackout cloth for 10-12 hours of sleep."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why are non-stick PTFE (Teflon) pans lethal to Budgies?",
+            "answer": "When heated, PTFE-coated cookware emits odorless, invisible toxic fumes that cause severe lung hemorrhage and rapid respiratory paralysis in a bird's sensitive air sacs. Budgie cages must be kept far away from kitchens."
+          },
+          {
+            "question": "Why is an all-seed diet dangerous for a Budgie?",
+            "answer": "Seeds are excessively high in fat and lack essential Vitamin A and calcium. Long-term seed diets lead to fatal hepatic lipidosis (fatty liver disease). Formulated avian pellets should make up 60-70% of their daily diet."
+          }
+        ]
+      },
+      "ja": {
+        "title": "セキセイインコの呼吸器保護と感情サイン解読のための3ステップデイリールーティン",
+        "description": "カラフルで賢いセキセイインコ。テフロン中毒の予防、嘴を鳴らす音や瞳孔収縮サインの解読、栄養バランスを保つ3ステップのホームケアを紹介します。",
+        "authority": "鳥類獣医師会 (Association of Avian Veterinarians) ＆ ワールド・パロット・トラスト飼育基準",
+        "profile": {
+          "breed": "セキセイインコ (Budgerigar / Budgie)",
+          "lifespan": "8 〜 12年 (適切な栄養管理で15年)",
+          "sleep_pattern": "10 〜 12時間 (遮光カバーによる完全な暗闇)",
+          "temperament": "好奇心旺盛、社交的、活発、音に敏感"
+        },
+        "intro": "セキセイインコは美しい羽色と愛らしい鳴き声、人懐っこい性格で世界中で愛されている小型インコです。しかし、鳥類特有の「気嚢（Air Sacs）」という呼吸器官を持つため、テフロン加工のフライパンから発生する有毒ガスや香水、芳香剤などの空気中の有害物質に非常に脆弱です。また、シード（種子）中心の偏った食事は脂肪肝（Hepatic Lipidosis）や栄養失調を引き起こしやすいです。本記事では、セキセイインコのサインを正確に読み解き、呼吸器の安全と健康的な食生活を守る3ステップルーティンをお届けします。",
+        "whyTitle": "セキセイインコのボディランゲージ：嘴すり合わせと瞳孔収縮（Pinning）",
+        "whyDesc": "セキセイインコは嘴の音と瞳孔の大きさの変化で感情を表現します。就寝前の**「嘴をジャリジャリ鳴らす動作（Beak Grinding）」**は、リラックスして満足しているサインです。一方、興奮したり飼い主の声に集中している時の**「瞳孔が小さくなって白目が浮き出る現象（Pupil Pinning）」**は、強い好奇心や興奮状態を示しています。",
+        "body_signals": [
+          {
+            "name": "嘴をジャリジャリとすり合わせる音 (Beak Grinding)",
+            "meaning": "寝る前や環境に完全な安心感と満足感を抱いている時のリラックスサインです。",
+            "response": "ケージを刺激せず、部屋の照明を落として静かに眠れる環境を整えてあげましょう。"
+          },
+          {
+            "name": "瞳孔が瞬間的に小さくなる (Pupil Pinning)",
+            "meaning": "新しいおもちゃや飼い主の声、周囲の環境に大きく興奮・好奇心を抱いている状態です。",
+            "response": "興奮しすぎて噛みつきに発展しないよう、優しく落ち着いた声で話しかけて気持ちを鎮めましょう。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：鳥用ペレットと新鮮な野菜の給餌＆換気",
+            "text": "脂肪肝を防ぐためにシードの割合を減らし、総合栄養ペレットと青菜（小松菜や人参など）を与え、部屋の空気を清潔に保ちます。"
+          },
+          {
+            "name": "昼：フォージング（採餌）玩具の交換と安全な放鳥時間",
+            "text": "退屈による毛引き症を防ぐためにフォージングトイを提供し、窓や扉を閉めた安全な部屋で放鳥運動をさせます。"
+          },
+          {
+            "name": "夜：尾羽の上下運動（呼吸状態）チェックと遮光睡眠",
+            "text": "呼吸に合わせて尾羽が大きく上下する「テイルボビング」がないか確認し、10〜12時間の熟睡のためにケージに遮光カバーをかけます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "なぜテフロン加工のフライパンがセキセイインコにとって危険なのですか？",
+            "answer": "テフロン（PTFE）加熱時に発生する無臭の有害ガスは、インコの気嚢に重度の出血と呼吸麻痺を引き起こし、短時間で致死的な状態に陥らせます。ケージはキッチンから離れた部屋に設置してください。"
+          },
+          {
+            "question": "シード（種子）だけを与えるのが良くない理由は何ですか？",
+            "answer": "シードは高脂質でビタミンAやカルシウムが著しく不足しており、長期給餌は脂肪肝（Hepatic Lipidosis）や甲状腺疾患を引き起こします。栄養バランスの整った鳥用ペレットを主食（60〜70%）にしてください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "虎皮鹦鹉呼吸道保护与情绪信号解读的3步日常护理流程",
+        "description": "绚丽聪慧的虎皮鹦鹉（Budgie）护理指南。预防特氟龙毒气伤害，解读磨嘴与瞳孔收缩信号，实现营养均衡的3步骤家庭护理。",
+        "authority": "美国鸟类兽医协会 (AAV) 与世界鹦鹉信托基金会 (World Parrot Trust) 护理标准",
+        "profile": {
+          "breed": "虎皮鹦鹉 / 娇凤 (Budgerigar / Budgie)",
+          "lifespan": "8 ~ 12年 (科学喂养可达15年)",
+          "sleep_pattern": "10 ~ 12小时 (需使用遮光罩保持全黑环境)",
+          "temperament": "好奇心强、喜社交、活泼、对声音敏感"
+        },
+        "intro": "虎皮鹦鹉（Budgie）凭借其绚丽的羽毛、清脆的鸣叫和亲人的性格，成为全球最受欢迎的小型宠物鸟。然而，由于鸟类特有的“气囊 (Air Sacs)” 呼吸系统，它们对特氟龙不粘锅加热产生的有毒气体、香水及喷雾极度敏感。此外，长期单喂种子（谷物）极易引发脂肪肝（Hepatic Lipidosis）与营养缺乏。本指南将带您准确解读虎皮鹦鹉的语言，并介绍保护其呼吸道与健康饮食的3步骤日常护理流程。",
+        "whyTitle": "虎皮鹦鹉的肢体语言：磨嘴声与瞳孔收缩 (Pupil Pinning)",
+        "whyDesc": "虎皮鹦鹉通过嘴部发声与瞳孔变化清晰表达情绪。睡前**“发出咯吱咯吱的磨嘴声 (Beak Grinding)”**代表放松与满足。相反，当对新事物兴奋或集中注意力听主人说话时，**“瞳孔瞬间收缩显露眼白 (Pupil Pinning)”**则代表强烈的各种好奇或情绪亢奋。",
+        "body_signals": [
+          {
+            "name": "发出沙沙/咯吱的磨嘴声 (Beak Grinding)",
+            "meaning": "入睡前或对环境感到高度安全与满足时的放松休息信号。",
+            "response": "切勿打扰，调暗室内灯光，为其营造安静舒适的入睡环境。"
+          },
+          {
+            "name": "瞳孔瞬间缩小 (Pupil Pinning)",
+            "meaning": "对新玩具、主人的声音或周围环境处于高度兴奋、好奇或专注状态。",
+            "response": "用温柔平缓的语气与之交流，平复其情绪，防止过度亢奋引发咬人行为。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：喂食鹦鹉滋养丸与新鲜蔬菜及保持通风",
+            "text": "减少高脂种子比例，以综合营养滋养丸和新鲜绿叶菜（如油菜、胡萝卜）为主食，并保持室内空气清新。"
+          },
+          {
+            "name": "中午：更换觅食 (Foraging) 玩具与安全放飞",
+            "text": "提供撕咬纸丝或觅食玩具预防无聊拔毛，并在关好门窗的安全房间内安排放飞运动。"
+          },
+          {
+            "name": "晚上：尾羽呼吸状态检查与遮光睡眠",
+            "text": "检查是否存在尾羽上下剧烈晃动（Tail Bobbing）等呼吸异常，并加盖遮光布保证10~12小时深度睡眠。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "为什么特氟龙（PTFE）不粘锅对虎皮鹦鹉是致命的？",
+            "answer": "特氟龙涂层高温加热时产生的无色无味毒气，会瞬间破坏鹦鹉的气囊并导致严重肺出血与呼吸麻痹。鸟笼必须严格远离厨房区域。"
+          },
+          {
+            "question": "为什么不能只给虎皮鹦鹉喂食谷物种子？",
+            "answer": "纯种子食物脂肪含量极高且缺乏维生素A和钙，长期喂食会导致致命的脂肪肝（Hepatic Lipidosis）。应以营养均衡的专用滋养丸作为主食（占60~70%）。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Protección respiratoria y lectura de señales de ánimo en el Perico Australiano: Rutina diaria de 3 pasos",
+        "description": "Guía de cuidado para el colorido e inteligente Perico Australiano (Budgie). Evite gases tóxicos de teflón, interprete el rechinado de pico y la pupilación, y equilibre su nutrición.",
+        "authority": "Asociación de Veterinarios Aviares (AAV) y Protocolos del World Parrot Trust",
+        "profile": {
+          "breed": "Perico Australiano / Periquito (Budgerigar / Budgie)",
+          "lifespan": "8 ~ 12 años (Hasta 15 años con nutrición óptima)",
+          "sleep_pattern": "10 ~ 12 horas (Oscuridad total con funda opaca)",
+          "temperament": "Curioso, Social, Activo, Sensible a los sonidos"
+        },
+        "intro": "El Perico Australiano (Budgie) es un ave de compañía sumamente popular gracias a su plumaje vistoso, su canto alegre y su naturaleza afectuosa. Sin embargo, debido a su sistema respiratorio único con sacos aéreos, es extremadamente sensible a vapores tóxicos de teflón (PTFE), perfumes y aerosoles. Además, una dieta basada exclusivamente en semillas provoca lipidosis hepática (hígado graso) y graves deficiencias nutricionales. En esta guía, presenta una rutina de 3 pasos para interpretar su lenguaje corporal, proteger sus vías respiratorias y mantener una nutrición equilibrada.",
+        "whyTitle": "Lenguaje corporal del Periquito: Rechinado de pico y contraibilidad pupilar (Pupil Pinning)",
+        "whyDesc": "Los periquitos comunican su estado emocional con sonidos de su pico y cambios en sus ojos. **'Rechinar el pico (Beak Grinding)'** antes de dormir es un signo clásico de tranquilidad y satisfacción. En cambio, la rápida contracción y dilatación de la pupila, conocida como **'Pupil Pinning'**, indica alta curiosidad, excitación o intensa concentración.",
+        "body_signals": [
+          {
+            "name": "Sonido crujiente al frotar el pico (Beak Grinding)",
+            "meaning": "Señala relajación profunda, seguridad y comodidad justo antes de descansar o dormir.",
+            "response": "Evite molestarlo y atenúe las luces para crear un entorno silencioso adecuado para el sueño."
+          },
+          {
+            "name": "Contracción rápida de las pupilas (Pupil Pinning)",
+            "meaning": "Muestra un estado de gran excitación, curiosidad o enfoque intenso ante un juguete, voz o estímulo.",
+            "response": "Háblele con voz suave para calmar sus emociones y prevenir picotazos por sobreestimulación."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Alimentación con pienso extruido, verduras frescas y ventilación",
+            "text": "Reduzca las semillas para prevenir la lipidosis hepática y proporcione pienso extruido con vegetales de hoja verde mientras renueva el aire."
+          },
+          {
+            "name": "Tarde: Juguetes de forrajeo y tiempo de vuelo seguro fuera de la jaula",
+            "text": "Ofrezca juguetes para triturar papel que eviten el picaje por aburrimiento y permita el vuelo en una habitación segura con ventanas cerradas."
+          },
+          {
+            "name": "Noche: Chequeo respiratorio (Balanceo de cola) y sueño con manta opaca",
+            "text": "Compruebe que no haya balanceo rítmico de las plumas de la cola (Tail Bobbing) al respirar y cubra la jaula con una funda opaca durante 10-12 horas."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué el teflón (PTFE) de las sartenes antiadherentes es mortal para los periquitos?",
+            "answer": "Al calentarse, el teflón emite gases tóxicos e inodoros que provocan hemorragias pulmonares graves y parálisis respiratoria rápida en los sacos aéreos del ave. La jaula debe ubicarse lejos de la cocina."
+          },
+          {
+            "question": "¿Por qué es peligrosa una dieta exclusiva de semillas?",
+            "answer": "Las semillas contienen demasiada grasa y carecen de vitamina A y calcio. Su consumo prolongado causa lipidosis hepática mortal. El pienso formulado para aves debe representar entre el 60% y 70% de su alimento diario."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Protection respiratoire et décodage du comportement chez la Perruche Ondulée : Routine en 3 étapes",
+        "description": "Guide de soins pour la charmante Perruche Ondulée (Budgie). Évitez les gaz toxiques de téflon, décryptez le grincement de bec et le pinning pupillaire, et équilibre son alimentation.",
+        "authority": "Association of Avian Veterinarians (AAV) & Normes de soins du World Parrot Trust",
+        "profile": {
+          "breed": "Perruche Ondulée (Budgerigar / Budgie)",
+          "lifespan": "8 ~ 12 ans (Jusqu'à 15 ans avec une alimentation adaptée)",
+          "sleep_pattern": "10 ~ 12 heures (Obscurité totale avec housse occultante)",
+          "temperament": "Curieuse, Sociale, Vive, Sensible aux bruits"
+        },
+        "intro": "La Perruche Ondulée est l'un des oiseaux de compagnie les plus populaires au monde grâce à son plumage multicolore, ses gazouillis joyeux et sa grande sociabilité. Cependant, son système respiratoire muni de sacs aériens la rend extrêmement vulnérable aux émanations toxiques de téflon (PTFE), aux parfums et aux aérosols. De plus, un régime constitué uniquement de graines provoque une stéatose hépatique (foie gras) et de graves carences. Dans ce guide, vous présente une routine en 3 étapes pour comprendre le langage de votre perruche et préserver sa santé.",
+        "whyTitle": "Langage corporel de la Perruche Ondulée : Grincement de bec et contraction des pupilles",
+        "whyDesc": "La perruche exprime ses émotions par les sons de son bec et les mouvements de ses yeux. Le **« Grincement de bec (Beak Grinding) »** avant de s'endormir est un signe classique de bien-être. À l'inverse, la contraction rapide de la pupille qui laisse apparaître le blanc de l'œil, appelée **« Pupil Pinning »**, traduit une forte curiosité, une excitation ou une grande concentration.",
+        "body_signals": [
+          {
+            "name": "Frottement crissant du bec (Beak Grinding)",
+            "meaning": "Signe de détente profonde, de sécurité et de satisfaction juste avant le repos ou le sommeil.",
+            "response": "Ne la dérangez pas et tamisez la lumière de la pièce pour lui offrir un environnement calme."
+          },
+          {
+            "name": "Contraction rapide de la pupille (Pupil Pinning)",
+            "meaning": "État de grande excitation ou de curiosité intense déclenché par un jouet, une voix ou une nouveauté.",
+            "response": "Parlez-lui d'une voix douce pour apaiser ses émotions et éviter les coups de bec dus à la surstimulation."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Distribution d'extrudés, légumes frais et aération de la pièce",
+            "text": "Réduisez les graines pour éviter la stéatose hépatique, donnez des extrudés équilibrés avec des légumes feuillus frais et aérez la pièce."
+          },
+          {
+            "name": "Après-midi : Jouets de recherche (Foraging) et vol libre en toute sécurité",
+            "text": "Proposez des jouets en papier à détruire pour éviter le piquage lié à l'ennui et permettez-lui de voler dans une pièce sécurisée."
+          },
+          {
+            "name": "Soir : Contrôle de la respiration (Mouvement de queue) et sommeil sous housse",
+            "text": "Vérifiez l'absence de balancement anormal de la queue (Tail Bobbing) lors de la respiration et couvrez la cage d'un drap occultant pour 10-12h de sommeil."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi le téflon (PTFE) des poêles antiadhésives est-il mortel pour la perruche ?",
+            "answer": "Surchauffé, le téflon dégage des vapeurs toxiques inodores qui provoquent des hémorragies pulmonaires fulgurantes dans les sacs aériens de l'oiseau. La cage doit rester impérativement éloignée de la cuisine."
+          },
+          {
+            "question": "Pourquoi un régime composé uniquement de graines est-il dangereux ?",
+            "answer": "Les graines sont très riches en lipides et pauvres en vitamine A et calcium. Leur distribution exclusive entraîne une stéatose hépatique (foie gras) fatale. Les granulés extrudés pour oiseaux doivent constituer 60 à 70 % de sa nourriture."
+          }
+        ]
+      },
+      "de": {
+        "title": "Atemwegsschutz und Körpersprache beim Wellensittich: Eine 3-Schritte-Tagesroutine",
+        "description": "Pflegeanleitung für den farbenfrohen und klugen Wellensittich. Vermeiden Sie Teflon-Gase, verstehen Sie Schnabelknirschen und Pupillenverengung und sorgen Sie für gesunde Ernährung.",
+        "authority": "Association of Avian Veterinarians (AAV) & Standards des World Parrot Trust",
+        "profile": {
+          "breed": "Wellensittich (Budgerigar / Budgie)",
+          "lifespan": "8 ~ 12 Jahre (Bei optimaler Ernährung bis zu 15 Jahre)",
+          "sleep_pattern": "10 ~ 12 Stunden (Vollständige Dunkelheit mit Abdeckung)",
+          "temperament": "Neugierig, Gesellig, Lebhaft, Geräuschempfindlich"
+        },
+        "intro": "Der Wellensittich gehört wegen seines bunten Gefieders, seines fröhlichen Zwitscherns und seines freundlichen Wesens zu den weltweit beliebtesten Heimvögeln. Aufgrund des einzigartigen Atmungssystems mit Luftsäcken reagieren Wellensittiche jedoch extrem empfindlich auf giftige Teflon-Dämpfe (PTFE), Parfüms und Aerosole. Eine reine Körnerdiät führt zudem häufig zu Fettlebererkrankungen (Hepatische Lipidose) und Mangelerscheinungen. In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für die Körpersprache, Atemwegssicherheit und ausgewogene Ernährung Ihres Wellensittichs.",
+        "whyTitle": "Körpersprache des Wellensittichs: Schnabelknirschen und Pupillenverengung",
+        "whyDesc": "Wellensittiche drücken ihre Stimmung deutlich durch Schnabelgeräusche und Pupillenbewegungen aus. Das **'Schnabelknirschen (Beak Grinding)'** vor dem Einschlafen ist ein Zeichen von tiefer Entspannung. Das schnelle Verengen der Pupillen, bekannt als **'Pupil Pinning'**, signalisiert dagegen starke Neugier, Aufregung oder hohe Konzentration.",
+        "body_signals": [
+          {
+            "name": "Leises Schnabelknirschen (Beak Grinding)",
+            "meaning": "Ein Zeichen von Wohlbefinden, Sicherheit und Entspannung direkt vor dem Schlafen.",
+            "response": "Stören Sie den Vogel nicht und dimmen Sie das Licht für eine ruhige Schlafumgebung."
+          },
+          {
+            "name": "Plötzliches Verengen der Pupillen (Pupil Pinning)",
+            "meaning": "Starke Aufregung, Neugier oder Fokus durch ein Spielzeug, die Stimme des Halters oder Reize.",
+            "response": "Sprechen Sie mit ruhiger Stimme, um Überregung und eventuelles Zwicken zu vermeiden."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Pellets, frisches Grünfutter & Raumlüftung",
+            "text": "Reduzieren Sie den Saatenanteil zur Vorbeugung von Fettleber und füttern Sie hochwertige Pellets mit frischem Gemüse bei guter Raumluft."
+          },
+          {
+            "name": "Mittag: Knabberspielzeug (Foraging) & Sicherer Freiflug",
+            "text": "Bieten Sie Papier- oder Suchspielzeug gegen Langeweile und Federrupfen an und ermöglichen Sie Freiflug im gesicherten Raum."
+          },
+          {
+            "name": "Abend: Atemkontrolle (Schwanzwippen) & Abdecken zur Nachtruhe",
+            "text": "Achten Sie auf auffälliges Schwanzwippen (Tail Bobbing) beim Atmen und decken Sie den Käfig für 10–12 Stunden Nachtruhe ab."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum sind Teflon-Pfannen (PTFE) für Wellensittiche tödlich?",
+            "answer": "Überhitztes PTFE setzt geruchlose, hochgiftige Dämpfe frei, die in den Luftsäcken der Vögel schwere Lungenblutungen und Lähmungen auslösen. Der Käfig darf niemals in der Küche stehen."
+          },
+          {
+            "question": "Warum ist eine reine Körnerfütterung ungesund?",
+            "answer": "Saaten sind sehr fettreich und enthalten zu wenig Vitamin A und Kalzium. Eine reine Körnerdiät führt zu tödlicher Fettleber (Hepatische Lipidose). Hochwertige Vogelpellets sollten 60–70 % der Nahrung ausmachen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Proteção respiratória e linguagem corporal do Periquito-Australiano: Rotina diária de 3 passos",
+        "description": "Guia de cuidados para o colorido e inteligente Periquito-Australiano (Budgie). Evite gases tóxicos de teflon, entenda o ranger do bico e a contração pupilar com uma rotina em 3 passos.",
+        "authority": "Associação de Veterinários de Aves (AAV) & Protocolos do World Parrot Trust",
+        "profile": {
+          "breed": "Periquito-Australiano (Budgerigar / Budgie)",
+          "lifespan": "8 ~ 12 anos (Até 15 anos com nutrição adequada)",
+          "sleep_pattern": "10 ~ 12 horas (Escuridão total com capa blackout)",
+          "temperament": "Curioso, Social, Ativo, Sensível a sons"
+        },
+        "intro": "O Periquito-Australiano (Budgie) é uma das aves de estimação mais populares do mundo devido à sua plumagem vibrante, canto alegre e temperamento afetuoso. Contudo, seu sistema respiratório único com sacos aéreos o torna extremamente vulnerável a vapores tóxicos de teflon (PTFE), perfumes e aerossóis. Além disso, uma dieta exclusiva de sementes causa lipidose hepática (gordura no fígado) e deficiências nutricionais. Neste guia, apresenta uma rotina de 3 passos para compreender a linguagem do seu periquito e proteger sua saúde.",
+        "whyTitle": "Linguagem corporal do Periquito: Ranger do bico e contração pupilar (Pupil Pinning)",
+        "whyDesc": "Os periquitos comunicam suas emoções através dos sons do bico e do movimento dos olhos. O **'Ranger do bico (Beak Grinding)'** antes de dormir é um sinal clássico de relaxamento e bem-estar. Já a rápida contração da pupila, conhecida como **'Pupil Pinning'**, indica forte curiosidade, empolgação ou foco intenso.",
+        "body_signals": [
+          {
+            "name": "Som suave ao raspar o bico (Beak Grinding)",
+            "meaning": "Indica relaxamento profundo, sensação de segurança e conforto antes de descansar.",
+            "response": "Não o perturbe e diminua as luzes do ambiente para proporcionar um sono tranquilo."
+          },
+          {
+            "name": "Contração rápida das pupilas (Pupil Pinning)",
+            "meaning": "Estado de grande excitação, curiosidade ou foco despertado por um brinquedo, voz ou novidade.",
+            "response": "Fale com voz calma para tranquilizá-lo e evitar bicadas por excesso de estimulação."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Alimentação com ração extrusada, vegetais frescos e ventilação",
+            "text": "Reduza as sementes para prevenir a lipidose hepática e ofereça ração extrusada com folhas verdes em um ambiente bem ventilado."
+          },
+          {
+            "name": "Tarde: Brinquedos de forrageamento e voo livre seguro fora da gaiola",
+            "text": "Forneça brinquedos para desfiar papel para evitar o arrancamento de penas por tédio e permita o voo em um cômodo seguro."
+          },
+          {
+            "name": "Noite: Checagem respiratória (Balanço da cauda) e sono com capa blackout",
+            "text": "Verifique se não há movimento rítmico anormal da cauda (Tail Bobbing) ao respirar e cubra a gaiola para 10-12h de sono."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que o teflon (PTFE) das panelas antiaderentes é fatal para os periquitos?",
+            "answer": "Quando aquecido, o teflon emite gases tóxicos e inodoros que provocam hemorragia pulmonar grave e paralisia respiratória nos sacos aéreos da ave. A gaiola deve ficar longe da cozinha."
+          },
+          {
+            "question": "Por que uma dieta baseada apenas em sementes é perigosa?",
+            "answer": "As sementes são ricas em gordura e pobres em vitamina A e cálcio. A alimentação exclusiva de sementes causa lipidose hepática fatal. A ração extrusada para aves deve compor de 60% a 70% da dieta diária."
+          }
+        ]
+      },
+      "id": {
+        "title": "Perlindungan Pernapasan dan Bahasa Tubuh Parkit Australia (Budgie): Rutinitas Harian 3 Langkah",
+        "description": "Panduan perawatan Parkit Australia (Budgie) yang cerdas dan berwarna-warni. Hindari gas beracun teflon, pahami gesekan paruh dan gerakan pupil, serta jaga nutrisi seimbang.",
+        "authority": "Association of Avian Veterinarians (AAV) & Protokol Perawatan World Parrot Trust",
+        "profile": {
+          "breed": "Parkit Australia / Budgie (Budgerigar / Budgie)",
+          "lifespan": "8 ~ 12 tahun (Hingga 15 tahun dengan nutrisi optimal)",
+          "sleep_pattern": "10 ~ 12 jam (Kegelapan total dengan kain penutup)",
+          "temperament": "Rasa ingin tahu tinggi, Sosial, Aktif, Sensitif terhadap suara"
+        },
+        "intro": "Parkit Australia (Budgie) adalah salah satu burung peliharaan paling populer di dunia karena bulunya yang indah, kicauannya yang ceria, dan sifatnya yang ramah. Namun, karena sistem pernapasan burung yang unik dengan kantung udara (Air Sacs), mereka sangat rentan terhadap asap beracun teflon (PTFE), parfum, dan semprotan aerosol. Selain itu, pola makan yang hanya mengandalkan biji-bijian sering memicu penyakit hati berlemak (Lipidosis Hati) dan defisiensi nutrisi. Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk memahami bahasa tubuh Budgie dan menjaga kesehatannya.",
+        "whyTitle": "Bahasa Tubuh Budgie: Gesekan Paruh dan Gerakan Pupil Mengecil (Pupil Pinning)",
+        "whyDesc": "Budgie menyampaikan emosinya dengan jelas melalui suara paruh dan perubahan pupil mata. **'Menggesekkan paruh (Beak Grinding)'** sebelum tidur adalah tanda klasik rasa nyaman dan rileks. Sebaliknya, mengecilnya pupil mata secara cepat yang disebut **'Pupil Pinning'** menandakan rasa ingin tahu yang besar, kegembiraan, atau fokus yang tinggi.",
+        "body_signals": [
+          {
+            "name": "Suara paruh bergesek dengan lembut (Beak Grinding)",
+            "meaning": "Tanda rasa santai, aman, dan puas sesaat sebelum beristirahat atau tidur.",
+            "response": "Jangan ganggu mereka dan redupkan lampu ruangan untuk menciptakan suasana tidur yang tenang."
+          },
+          {
+            "name": "Pupil mata mengecil dengan cepat (Pupil Pinning)",
+            "meaning": "Kondisi sangat gembira, penasaran, atau terfokus pada mainan, suara, atau objek baru.",
+            "response": "Bicara dengan nada lembut untuk menenangkan emosi mereka agar tidak menggigit akibat stimulasi berlebih."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pemberian Pelet Nutrisi, Sayuran Segar & Ventilasi Udara",
+            "text": "Kurangi porsi biji-bijian untuk mencegah penyakit hati berlemak, berikan pelet nutrisi dan sayuran hijau segar, serta pastikan sirkulasi udara bersih."
+          },
+          {
+            "name": "Siang: Mainan Pencarian Makanan (Foraging) & Terbang Bebas yang Aman",
+            "text": "Sediakan mainan kertas untuk dicabik agar mencegah stres merusak bulu, dan biarkan terbang di dalam ruangan yang aman dengan jendela tertutup."
+          },
+          {
+            "name": "Malam: Pemeriksaan Pernapasan (Gerakan Ekor) & Tidur Penutup Gelap",
+            "text": "Pastikan tidak ada gerakan ekor naik turun berlebihan saat bernapas (Tail Bobbing), dan tutup sangkar dengan kain gelap untuk tidur 10-12 jam."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa wajan anti-lengket Teflon (PTFE) sangat mematikan bagi Budgie?",
+            "answer": "Saat dipanaskan, lapisan PTFE mengeluarkan asap beracun tanpa bau yang menyebabkan pendarahan paru-paru dan kelumpuhan pernapasan pada kantung udara burung. Sangkar burung harus diletakkan jauh dari dapur."
+          },
+          {
+            "question": "Mengapa pola makan hanya biji-bijian berbahaya bagi Budgie?",
+            "answer": "Biji-bijian sangat tinggi lemak serta kekurangan Vitamin A dan kalsium. Konsumsi biji-bijian jangka panjang menyebabkan penyakit hati berlemak (Lipidosis Hati). Pelet nutrisi khusus burung harus menjadi makanan utama (60-70%)."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/budgerigar_care.webp"
+  }
 }

@@ -1,406 +1,406 @@
 {
-    "how-to-store-lentils": {
-        "ingId": "lentils",
-        "pubDate": "2026-06-29",
-        "updatedDate": "2026-06-29",
-        "heroImage": "/images/blog/lentils_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "렌틸콩 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 식품 안전 가이드라인(USDA·FDA)에 따른 건조 렌틸콩의 수분 함량 관리법, 해충(팥바구미) 및 곰팡이독소(아플라톡신) 차단법과 보관 기한을 확인하세요.",
-                "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
-                "intro": "풍부한 단백질과 식이섬유, 철분을 자랑하며 세계적인 5대 슈퍼푸드로 꼽히는 렌틸콩(Lentils)! 🫘\n\n렌틸콩은 찌개, 카레, 샐러드 등 다양한 요리에 영양을 더해주는 훌륭한 식재료입니다. 하지만 건조 상태의 렌틸콩도 보관 습도가 높아지면 팥바구미 같은 해충에 쉽게 오염되거나, 열로도 파괴되지 않는 강력한 곰팡이독소인 아플라톡신(Aflatoxin) 및 오크라톡신 A(Ochratoxin A)에 오염될 위험이 급증합니다. 렌틸콩의 수분 함량을 10 - 12% 이하로 낮추고 수분 활성도(Aw)를 0.65 미만으로 유지해야 미생물 및 해충의 번식을 완벽히 차단할 수 있습니다.\n\n이번 가이드에서는 미국 USDA, FDA 및 식품의약품안전처의 검증된 가이드라인을 바탕으로, 렌틸콩을 해충과 독소 없이 신선하게 오랫동안 지켜주는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "수분 활성도(Aw)가 0.65를 넘을 때 발생하는 곰팡이 포자 발아 및 해충 생육 메커니즘을 이해하고, 밀폐·건조 환경을 유지하는 것이 렌틸콩 장기 보존의 핵심입니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "건조 렌틸콩을 습한 곳이나 종이/비닐 포장째 장기 보관하지 마세요 ⚠️",
-                        "desc": "구매 당시의 종이 포장이나 얇은 비닐봉지는 공기 중의 습기를 통과시켜 수분활성도를 올립니다. 습도가 높아지면 팥바구미 등 해충이 포장재를 뚫고 들어가 알을 낳거나 곰팡이독소가 생성되기 쉬우므로 반드시 완벽히 밀폐된 용기로 이송해야 합니다."
-                    },
-                    {
-                        "title": "삶은 렌틸콩을 상온에 방치하지 마세요 🍲",
-                        "desc": "물에 삶은 렌틸콩은 수분활성도가 급격히 상승하여 세균과 곰팡이가 번식하기 가장 좋은 상태가 됩니다. 삶은 렌틸콩을 상온에 2시간 이상 방치하면 식중독균이 증식하므로 사용 후 남은 것은 즉시 식혀서 냉장 또는 냉동 보관해야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "제습제와 함께 밀폐 용기(유리/PET/PP)에 보관하기 — 수분 활성도(Aw) < 0.65 유지 및 해충 차단 🫙",
-                        "text": "건조 렌틸콩을 구매한 즉시 밀폐력이 뛰어난 유리병이나 식품용 PET/PP 밀폐 용기에 담고, 실리카겔 등 식품용 제습제를 함께 넣어주세요. 💡 보관 팁: 렌틸콩의 수분 함량을 10 - 12% 이하로 통제하여 수분활성도를 0.65 미만으로 유지하면 미생물 생육 한계를 낮춰 곰팡이독소 생성 및 팥바구미 침입을 원천 차단합니다."
-                    },
-                    {
-                        "name": "직사광선이 없는 서늘한 암소(15 - 20℃)에 보관하기 — 상온 건소 보관 (1 - 2년) 🚪",
-                        "text": "밀폐 용기에 담은 렌틸콩을 햇빛이 들지 않는 주방 하부장이나 팬트리 같은 서늘한 장소에 보관하세요. 💡 보관 팁: 15 - 20℃ 이하의 서늘하고 건조한 환경에서는 영양소 파괴와 변색 없이 1 - 2년 이상 장기 보존이 가능합니다."
-                    },
-                    {
-                        "name": "삶은 렌틸콩은 소분하여 냉장(3 - 5일) 또는 냉동(6개월) 보관하기 — 조리 후 저온 보관 🧊",
-                        "text": "요리를 위해 물에 삶은 렌틸콩은 물기를 뺀 뒤 소분하여 밀폐 용기나 지퍼백에 담아 보관하세요. 💡 보관 팁: 0 - 4℃ 냉장실에서는 3 - 5일 이내에 소비하고, 장기 보관 시 냉동실(-18℃ 이하)에 두면 6개월간 해동 후 바로 요리에 사용할 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "렌틸콩에 조그만 구멍이 뚫려 있거나 벌레 가루가 보이는데 먹어도 되나요?",
-                        "answer": "절대 드시면 안 됩니다! 렌틸콩에 구멍이 뚫려 있거나 가루가 생겼다면 팥바구미 등 해충이 침입하여 알을 낳고 번식한 상태입니다. 벌레 유충 및 배설물로 오염되었을 뿐만 아니라 곰팡이독소 발생 가능성도 높으므로 즉시 전량 폐기하셔야 합니다."
-                    },
-                    {
-                        "question": "렌틸콩 표면에 하얀 가루나 반점이 생겼는데 씻어서 삶아 먹으면 괜찮나요?",
-                        "answer": "안 됩니다! 표면의 하얀 반점이나 가루는 아플라톡신이나 오크라톡신 A를 생성하는 곰팡이 포자일 확률이 높습니다. 곰팡이독소는 물로 씻겨 나가지 않으며 100℃ 이상에서 삶거나 가열해도 파괴되지 않는 열안정성을 가지고 있으므로 오염된 콩은 폐기해야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Lentils Fresh: Scientific Storage Guide",
-                "description": "Check optimal storage methods for dry and cooked lentils, moisture control techniques, pest and mycotoxin (aflatoxin) prevention, and shelf life based on official USDA & FDA safety guidelines.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Lentils are a globally renowned superfood packed with plant-based protein, dietary fiber, and iron! 🫘\n\nLentils are an outstanding nutritional addition to stews, curries, soups, and salads. However, even in their dry form, if storage humidity rises, lentils face a surging risk of infestation by pests like pulse beetles (bruchid weevils) and contamination by potent, heat-stable mycotoxins such as Aflatoxin and Ochratoxin A. Maintaining dry lentil moisture content at 10–12% and water activity (Aw) below 0.65 is crucial to completely block microbial growth and insect reproduction.\n\nIn this guide, based on scientifically verified guidelines from the USDA, FDA, and MFDS, we present a 3-step optimal storage strategy to keep your lentils safe, fresh, and free from pests and toxins. 🛡️",
-                "whyTitle": "Why Store Lentils This Way? Scientific Facts",
-                "whyDesc": "Understanding the mechanisms of mold spore germination and pest reproduction triggered when water activity (Aw) exceeds 0.65 makes airtight, dry storage the absolute cornerstone of lentil preservation.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never store dry lentils in permeable paper/plastic bags in humid areas ⚠️",
-                        "desc": "Original paper or thin plastic packaging allows ambient humidity to penetrate, elevating water activity. High moisture enables pulse beetles to pierce packaging and lay eggs while encouraging mycotoxin production; always transfer to airtight containers."
-                    },
-                    {
-                        "title": "Never leave cooked lentils at room temperature 🍲",
-                        "desc": "Boiled lentils have high water activity, creating an ideal environment for bacterial and mold proliferation. Leaving cooked lentils at room temperature for over 2 hours allows foodborne pathogens to multiply rapidly; cool and refrigerate or freeze immediately."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Store in airtight containers (glass/PET/PP) with desiccants — Maintain water activity (Aw) < 0.65 & Pest Control 🫙",
-                        "text": "Immediately transfer dry lentils into glass jars or food-grade PET/PP airtight containers and add a food-safe desiccant (silica gel). 💡 Storage Tip: Controlling moisture content below 10–12% keeps water activity below 0.65, effectively suppressing microbial growth and preventing pulse beetle infestations."
-                    },
-                    {
-                        "name": "Keep in a cool, dark place (15–20°C) away from direct sunlight — Dry Pantry Storage (1–2 Years) 🚪",
-                        "text": "Store airtight lentil containers in a cool kitchen cabinet or dark pantry away from sunlight. 💡 Storage Tip: In a cool, dry environment at 15–20°C (59–68°F), lentils preserve their nutritional value and color without quality degradation for 1 to 2 years."
-                    },
-                    {
-                        "name": "Portion and store cooked lentils in the fridge (3–5 Days) or freezer (6 Months) — Cooked Cold Storage 🧊",
-                        "text": "Drain boiled lentils, divide them into single-use portions, and place them in airtight containers or Ziploc bags. 💡 Storage Tip: Consume within 3 to 5 days when refrigerated at 0–4°C, or freeze (-18°C / 0°F or lower) for up to 6 months for quick cooking."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "My dry lentils have tiny holes or fine powder in the bag. Are they safe to eat?",
-                        "answer": "No, absolutely not! Tiny holes or powder indicate that pulse beetles or other stored-product pests have infested the lentils, laying eggs and feeding inside. The beans are contaminated with insect larvae, waste, and potential mold toxins, so discard the entire batch immediately."
-                    },
-                    {
-                        "question": "Dry lentils have white powder or spots on the surface. Can I wash and cook them?",
-                        "answer": "No! White spots or powder strongly suggest mold spores capable of producing Aflatoxin or Ochratoxin A. These mycotoxins are heat-stable and cannot be washed away or destroyed by boiling at 100°C. Contaminated lentils must be discarded."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "レンズ豆（Lentils）を新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的食品安全ガイドライン（USDA・FDA）に基づく乾燥レンズ豆の水分管理法、害虫（アズキゾウムシ等）およびカビ毒（アフラトキシン）遮断法と保存期間をご確認ください。",
-                "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
-                "intro": "豊富なタンパク質と食物繊維、鉄分を誇り、世界5大スーパーフードに数えられるレンズ豆（Lentils）！ 🫘\n\nレンズ豆はスープやカレー、サラダなど様々な料理に栄養を添える優れた食材です。しかし、乾燥状態のレンズ豆も保管湿度が高くなるとゾウムシなどの害虫に侵食されたり、熱でも分解されない強力なカビ毒であるアフラトキシン（Aflatoxin）やオクラトキシンA（Ochratoxin A）に汚染されるリスクが急増します。レンズ豆の水分含有量を10〜12%以下に抑え、水分活性度（水分活性 (Aw)）を0.65未満に維持することが微生物や害虫の繁殖を完全に遮断する鍵です。\n\n本記事では、米国USDA、FDAおよび食品医薬品安全処の検証済みガイドラインに基づき、レンズ豆を害虫や毒素から守り新鮮に長く保つ3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "水分活性度（水分活性 (Aw)）が0.65を超えた際に発生するカビ胞子の発芽および害虫の発生メカニズムを理解し、密閉・乾燥環境を維持することがレンズ豆の長期保存の核心です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "乾燥レンズ豆を湿気のある場所や紙・ビニール袋のまま長期保存しないでください ⚠️",
-                        "desc": "購入時の紙袋や薄いビニール袋は空気中の湿気を通し水分活性度を上げてしまいます。湿度が高くなるとゾウムシなどの害虫が袋を破って卵を産み付けたり、カビ毒が発生しやすくなるため、必ず完全密閉容器に移し替えてください。"
-                    },
-                    {
-                        "title": "茹でたレンズ豆を常温放置しないでください 🍲",
-                        "desc": "水で茹でたレンズ豆は水分活性度が急上昇し、細菌やカビが最も繁殖しやすい状態になります。茹でたレンズ豆を常温に2時間以上放置すると食中毒菌が増殖するため、使用後はすぐに冷まして冷蔵または冷凍保存してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "乾燥剤とともに密閉容器（ガラス/PET/PP）で保存する — 水分活性度 水分活性 (Aw) < 0.65 維持＆害虫遮断 🫙",
-                        "text": "乾燥レンズ豆を購入したらすぐに密閉性の高いガラス瓶や食品用PET/PP密閉容器に入れ、シリカゲルなどの食品用乾燥剤を一緒に入れてください。💡保存のコツ：水分含有量を10〜12%以下にコントロールして水分活性度を0.65未満に保つことで、カビ毒の発生や害虫の侵入を根本から防ぎます。"
-                    },
-                    {
-                        "name": "直射日光の当たらない涼しい暗所（15〜20℃）で保存する — 常温乾燥保存 (1〜2年間) 🚪",
-                        "text": "密閉容器に入れたレンズ豆を日光の当たらない戸棚やパントリーなどの涼しい場所に保管してください。💡保存のコツ：15〜20℃以下の涼しく乾燥した環境では、栄養素の破壊や変色なく1〜2年以上長期保存が可能です。"
-                    },
-                    {
-                        "name": "茹でたレンズ豆は小分けして冷蔵（3〜5日）または冷凍（6ヶ月）保存する — 調理後の低温保存 🧊",
-                        "text": "水で茹でたレンズ豆は水気を切り、小分けにして密閉容器やチャック付き袋に入れて保管します。💡保存のコツ：0〜4℃の冷蔵室では3〜5日以内に使い切り、長期保存の場合は冷凍室（-18℃以下）に入れれば6ヶ月間保存可能です。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "レンズ豆に小さな穴が開いていたり虫の粉が見えますが食べられますか？",
-                        "answer": "絶対に食べないでください！レンズ豆に穴が開いていたり粉が生じている場合はゾウムシなどの害虫が侵入して卵を産み繁殖した状態です。幼虫や排泄物で汚染されているだけでなくカビ毒の発生リスクも高いため、すぐに全量破棄してください。"
-                    },
-                    {
-                        "question": "レンズ豆の表面に白い粉や斑点がありますが、洗って茹でれば大丈夫ですか？",
-                        "answer": "ダメです！表面の白い斑点や粉はアフラトキシンやオクラトキシンAを産生するカビ胞子である可能性が高いです。カビ毒は水洗いでは落ちず、100℃以上で加熱しても分解されない耐熱性を持っているため、汚染された豆は破棄する必要があります。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持小扁豆（Lentils）新鲜：科学储存指南",
-                "description": "根据USDA及FDA官方食品安全指南，了解干燥小扁豆的水分管理法、防虫（红豆象等）及防霉菌毒素（黄曲霉毒素）方法与保质期。",
-                "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "小扁豆（Lentils）富含植物蛋白、膳食纤维和铁质，是享誉世界的五大超级食物之一！ 🫘\n\n小扁豆是为炖菜、咖喱、汤品和沙拉增添营养的绝佳食材。然而，干燥状态的小扁豆若储存湿度变高，极易遭受豆象虫等害虫侵蚀，或滋生耐高温的剧毒霉菌毒素——黄曲霉毒素（Aflatoxin）和赭曲霉毒素A（Ochratoxin A）。将小扁豆的水分含量控制在10 - 12%以下，并将水分活性（水活性 (Aw)）维持在0.65以下，才能彻底阻断微生物与害虫的繁殖。\n\n本指南基于美国USDA、FDA及韩国MFDS验证的科学指南，为您带来3步科学储存秘诀，保护小扁豆远离害虫与毒素，长久保持新鲜。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解水分活性（水活性 (Aw)）超过0.65时引发的霉菌孢子发芽与害虫繁殖机制，保持密封干燥环境是小扁豆长期保存的核心所在。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "切勿将干燥小扁豆存放在潮湿处或直接用原纸袋/薄塑料袋长期保存 ⚠️",
-                        "desc": "购买时的纸袋或薄塑料袋会让空气中的湿气渗入，提高水分活性。湿度升高会导致豆象虫咬破包装产卵，或产生霉菌毒素，因此必须转存至完全密封的容器中。"
-                    },
-                    {
-                        "title": "切勿将煮熟的小扁豆置于常温下 🍲",
-                        "desc": "水煮后的小扁豆水分活性剧增，极易滋生细菌和霉菌。煮熟的小扁豆在常温下放置超过2小时就会滋生致病菌，使用后剩余部分须立即冷却并冷藏或冷冻。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "与干燥剂一并存入密封容器（玻璃/PET/PP） — 维持水分活性 水活性 (Aw) < 0.65 并防虫 🫙",
-                        "text": "购买干燥小扁豆后请立即倒入密封性极佳的玻璃瓶或食品级PET/PP密封盒中，并放入食品级硅胶干燥剂。💡储存小贴士：将水分含量控制在10 - 12%以下、水分活性控制在0.65以下，可抑制微生物生长，从源头杜绝霉菌毒素与害虫。"
-                    },
-                    {
-                        "name": "存放在无阳光直射的阴凉暗处（15 - 20℃） — 常温干燥保存（1 - 2年） 🚪",
-                        "text": "将密封容器装的小扁豆存放在避光的橱柜或食品柜中。💡储存小贴士：在15 - 20℃以下的阴凉干燥环境中，可保持营养不流失、不变色，安全保存1 - 2年。"
-                    },
-                    {
-                        "name": "煮熟的小扁豆分装后冷藏（3 - 5天）或冷冻（6个月） — 烹饪后低温保存 🧊",
-                        "text": "煮熟的小扁豆沥干水分后，分装入密封盒或拉链袋中。💡储存小贴士：在0 - 4℃冷藏室中请于3 - 5天内吃完；若需长期保存，放入冷冻室（-18℃以下）可保存6个月。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "小扁豆上有小孔或能看到粉末，还能吃吗？",
-                        "answer": "绝对不能吃！如果小扁豆上有小孔或袋子里有粉末，说明已遭豆象虫等害虫侵入并产卵繁殖。豆子已被虫卵和排泄物污染，且极易产生霉菌毒素，请务必整批丢弃。"
-                    },
-                    {
-                        "question": "小扁豆表面有白粉或斑点，洗洗煮熟吃可以吗？",
-                        "answer": "不可以！表面的白斑或白粉极有可能是产生黄曲霉毒素或赭曲霉毒素A的霉菌孢子。霉菌毒素无法用水洗掉，且具有耐热性，100℃以上加热也无法破坏，受污染的豆子必须丢弃。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener frescas las lentejas: Guía científica de conservación",
-                "description": "Descubra los métodos óptimos de almacenamiento para lentejas secas y cocidas, control de humedad, prevención de plagas y micotoxinas (aflatoxinas) según la USDA y la FDA.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "¡Las lentejas (lentils) son un superalimento reconocido mundialmente por su alto contenido de proteína vegetal, fibra y hierro! 🫘\n\nLas lentejas son un ingrediente fabuloso para guisos, curris, sopas y ensaladas. Sin embargo, en su estado seco, si la humedad de almacenamiento se eleva, las lentejas corren un riesgo crítico de ser infestadas por gorgojos y de contaminarse con potentes micotoxinas termoestables como la aflatoxina y la ocratoxina A. Mantener la humedad de la lenteja entre el 10 y el 12% y la actividad de agua (actividad de agua (Aw)) por debajo de 0,65 es esencial para frenar microorganismos y plagas.\n\nEn esta guía, basada en pautas científicas de la USDA, la FDA y la MFDS, presentamos una estrategia en 3 pasos para mantener sus lentejas seguras, frescas y libres de toxinas. 🛡️",
-                "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
-                "whyDesc": "Comprender los mecanismos de germinación de moho y reproducción de plagas cuando la actividad de agua (actividad de agua (Aw)) supera 0,65 convierte al almacenamiento hermético y seco en la regla de oro.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Nunca guarde lentejas secas en bolsas de papel/plástico en zonas húmedas ⚠️",
-                        "desc": "El empaque original de papel o plástico delgado permite que la humedad ambiente se filtre, elevando la actividad de agua. Esto permite que los gorgojos perforen el empaque para poner huevos y favorece las micotoxinas; páselas siempre a recipientes herméticos."
-                    },
-                    {
-                        "title": "Nunca deje las lentejas cocidas a temperatura ambiente 🍲",
-                        "desc": "Las lentejas hervidas tienen una alta actividad de agua, lo que crea el ambiente ideal para bacterias y mohos. Dejarlas a temperatura ambiente por más de 2 horas permite la rápida multiplicación de patógenos; refrigere o congele de inmediato."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Guarde en recipientes herméticos (vidrio/PET/PP) con desecante — Mantener actividad de agua (Aw) < 0,65 y control de plagas 🫙",
-                        "text": "Trasvase inmediatamente las lentejas secas a frascos de vidrio o recipientes herméticos de PET/PP con un desecante de sílice para alimentos. 💡 Consejo de almacenamiento: Controlar la humedad por debajo del 10–12% mantiene la actividad de agua en $< 0,65$, frenando toxinas y plagas."
-                    },
-                    {
-                        "name": "Conserve en un lugar fresco y oscuro (15–20 °C) sin luz solar — Almacenamiento en despensa seca (1–2 años) 🚪",
-                        "text": "Guarde los recipientes en un armario de cocina fresco o despensa oscura. 💡 Consejo de almacenamiento: En un ambiente fresco y seco a 15–20 °C, las lentejas conservan sus nutrientes y color sin degradación durante 1 a 2 años."
-                    },
-                    {
-                        "name": "Porcione las lentejas cocidas y refrigere (3–5 días) o congele (6 meses) — Almacenamiento en frío 🧊",
-                        "text": "Escurra las lentejas hervidas, porciónelas en recipientes herméticos o bolsas Ziploc. 💡 Consejo de almacenamiento: Consúmalas en un plazo de 3 a 5 días a 0–4 °C en el refrigerador, o congélelas (-18 °C) hasta por 6 meses."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mis lentejas secas tienen diminutos agujeros o polvo en la bolsa. ¿Es seguro comerlas?",
-                        "answer": "¡No, en absoluto! Los agujeros diminutos o el polvo indican infestación por gorgojos que han puesto huevos y se han alimentado dentro. Las lentejas están contaminadas con larvas, desechos y posibles toxinas; descarte todo el lote de inmediato."
-                    },
-                    {
-                        "question": "Las lentejas secas tienen polvo blanco o manchas en la superficie. ¿Puedo lavarlas y cocinarlas?",
-                        "answer": "¡No! Las manchas o el polvo blanco indican esporas de moho capaces de producir aflatoxinas o ocratoxina A. Estas micotoxinas no se eliminan con agua ni se destruyen al hervir a 100 °C. Descarte las lentejas contaminadas."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver les lentilles fraîches : Guide scientifique de stockage",
-                "description": "Découvrez les méthodes optimales pour conserver les lentilles sèches et cuites, le contrôle de l'humidité, la prévention des parasites et des mycotoxines (aflatoxines) selon l'USDA et la FDA.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Les lentilles (lentils) sont un superaliment de renommée mondiale, gorgé de protéines végétales, de fibres et de fer ! 🫘\n\nLes lentilles sont un apport nutritionnel exceptionnel pour les mijotés, currys, soupes et salades. Cependant, même sous forme sèche, si l'humidité de stockage augmente, elles courent un risque élevé d'infestation par les bruches (charançons) et de contamination par des mycotoxines thermostables comme l'aflatoxine et l'ochratoxine A. Maintenir l'humidité des lentilles entre 10 et 12 % et l'activité de l'eau (activité de l'eau (Aw)) sous 0,65 est essentiel pour bloquer les moisissures et parasites.\n\nDans ce guide, basé sur des données scientifiques validées par l'USDA, la FDA et le MFDS, nous vous présentons une méthode en 3 étapes pour conserver vos lentilles fraîches, sûres et sans toxines. 🛡️",
-                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les mécanismes de germination des moisissures et de reproduction des parasites lorsque l'activité de l'eau (activité de l'eau (Aw)) dépasse 0,65 fait du stockage étanche et sec la règle absolue.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne stockez jamais les lentilles sèches dans leur sachet d'origine en zone humide ⚠️",
-                        "desc": "Les sachets en papier ou plastique fin laissent pénétrer l'humidité ambiante, faisant grimper l'activité de l'eau. Cela permet aux bruches de percer le sachet pour y pondre et favorise les mycotoxines ; transférez-les toujours dans des récipients étanches."
-                    },
-                    {
-                        "title": "Ne laissez jamais les lentilles cuites à température ambiante 🍲",
-                        "desc": "Les lentilles bouillies présentent une forte activité de l'eau, idéale pour la prolifération des bactéries. Les laisser plus de 2 heures à température ambiante entraîne une multiplication rapide des pathogènes ; réfrigérez ou congelez immédiatement."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Placer dans un récipient étanche (verre/PET/PP) avec déshydratant — Maintenir activité de l'eau (Aw) < 0,65 & Anti-parasites 🫙",
-                        "text": "Transférez immédiatement les lentilles sèches dans des bocaux en verre ou boîtes étanches en PET/PP avec un sachet déshydratant alimentaire (gel de silice). 💡 Astuce de conservation : Maintenir l'humidité sous 10–12 % garde l'activité de l'eau sous 0,65, éliminant tout risque de moisissure et de charançons."
-                    },
-                    {
-                        "name": "Garder dans un endroit frais et sombre (15–20 °C) — Placard sec (1–2 ans) 🚪",
-                        "text": "Conservez les récipients étanches dans un placard de cuisine sombre et frais. 💡 Astuce de conservation : Dans un environnement sec à 15–20 °C, les lentilles préservent leurs valeurs nutritionnelles et leur couleur sans dégradation pendant 1 à 2 ans."
-                    },
-                    {
-                        "name": "Portionner les lentilles cuites au réfrigérateur (3–5 jours) ou au congélateur (6 mois) — Conservation au frais 🧊",
-                        "text": "Égouttez les lentilles cuites, répartissez-les dans des boîtes hermétiques ou sachets Ziploc. 💡 Astuce de conservation : Consommez-les sous 3 à 5 jours entre 0 et 4 °C au réfrigérateur, ou congelez-les (-18 °C) jusqu'à 6 mois."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mes lentilles sèches ont de petits trous ou de la poussière dans le sachet. Sont-elles consommables ?",
-                        "answer": "Non, absolument pas ! Les petits trous ou la poussière indiquent une infestation par des bruches qui ont pondu et se sont nourries à l'intérieur. Les lentilles sont contaminées par des larves et des déjections ; jetez immédiatement tout le lot."
-                    },
-                    {
-                        "question": "Les lentilles sèches ont de la poudre blanche ou des taches. Puis-je les laver et les cuire ?",
-                        "answer": "Non ! Les taches ou la poudre blanche signalent des moisissures productrices d'aflatoxines ou d'ochratoxine A. Ces mycotoxines ne s'éliminent pas à l'eau et résistent à la cuisson à 100 °C. Jetez les lentilles contaminées."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Linsen richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimalen Lagerungsmethoden für trockene und gekochte Linsen, Feuchtigkeitskontrolle, Schädlings- und Mykotoxin-Schutz (Aflatoxin) nach USDA & FDA.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Linsen (Lentils) sind ein weltweit geschätztes Superfood voller pflanzlicher Proteine, Ballaststoffe und Eisen! 🫘\n\nLinsen sind eine hervorragende Zutat für Eintöpfe, Currys, Suppen und Salate. Doch selbst im trockenen Zustand steigt bei hoher Lagerfeuchtigkeit das Risiko für Schädlingsbefall (z. B. Speisebohnenkäfer) sowie für gefährliche, hitzebeständige Schimmelpilzgifte wie Aflatoxin und Ochratoxin A rasant an. Die Kontrolle des Feuchtigkeitsgehalts auf 10–12 % und der Wasseraktivität (Wasseraktivität (Aw)) auf unter 0,65 ist entscheidend, um Mikroben und Schädlinge fernzuhalten.\n\nIn diesem Ratgeber stellen wir Ihnen auf Basis wissenschaftlicher Richtlinien von USDA, FDA und MFDS eine 3-Schritte-Methode vor, um Ihre Linsen sicher, frisch und schädlingsfrei aufzubewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der Schimmelsporenkeimung und Schädlingsvermehrung ab einer Wasseraktivität (Wasseraktivität (Aw)) von über 0,65 macht die luftdichte, trockene Lagerung zur absoluten Grundregel.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Trockene Linsen niemals in Papier-/Plastiktüten in feuchten Räumen lagern ⚠️",
-                        "desc": "Die Originalverpackung lässt Luftfeuchtigkeit durch, was die Wasseraktivität anhebt. Schädlinge können die Hülle durchbohren und Eier ablegen; füllen Sie Linsen stets in luftdichte Behälter um."
-                    },
-                    {
-                        "title": "Gekochte Linsen niemals bei Raumtemperatur stehen lassen 🍲",
-                        "desc": "Gekochte Linsen haben eine hohe Wasseraktivität – der ideale Nährboden für Bakterien. Werden sie länger als 2 Stunden ungekühlt gelagert, vermehren sich Keime rasend schnell; kühlen oder frieren Sie sie sofort ein."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Mit Trockenmittel in luftdichte Behälter (Glas/PET/PP) füllen — Wasseraktivität (Aw) < 0,65 halten & Schädlingsschutz 🫙",
-                        "text": "Füllen Sie trockene Linsen sofort in Glasbehälter oder PET/PP-Dosen um und legen Sie ein lebensmittelechtes Trockenmittel (Silikagel) bei. 💡 Lagerungstipp: Die Kontrolle der Feuchtigkeit unter 10–12 % hält die Wasseraktivität unter 0,65 und stoppt Gifte sowie Käferbefall."
-                    },
-                    {
-                        "name": "An einem kühlen, dunklen Ort (15–20 °C) aufbewahren — Vorratskammer (1–2 Jahre) 🚪",
-                        "text": "Bewahren Sie die Behälter in einem kühlen Küchenschrank ohne Sonneneinstrahlung auf. 💡 Lagerungstipp: In kühler, trockener Umgebung bei 15–20 °C halten Linsen Nährstoffe und Farbe ohne Qualitätsverlust für 1 bis 2 Jahre."
-                    },
-                    {
-                        "name": "Gekochte Linsen portionieren und kühlen (3–5 Tage) oder einfrieren (6 Monate) — Kaltlagerung 🧊",
-                        "text": "Lassen Sie gekochte Linsen abtropfen und füllen Sie sie portioniert in Dose oder Ziploc-Beutel. 💡 Lagerungstipp: Bei 0–4 °C im Kühlschrank innerhalb von 3 bis 5 Tagen verbrauchen oder bis zu 6 Monate einfrieren (-18 °C)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Meine trockenen Linsen haben kleine Löcher oder Mehl im Beutel. Kann ich sie noch essen?",
-                        "answer": "Nein, auf keinen Fall! Kleine Löcher oder Mehl deuten auf Befall durch Speisebohnenkäfer hin, die darin Eier abgelegt haben. Die Linsen sind mit Larven und Kot kontaminiert – entsorgen Sie die gesamte Packung sofort."
-                    },
-                    {
-                        "question": "Trockene Linsen haben weißen Belag oder Flecken. Kann ich sie abwaschen und kochen?",
-                        "answer": "Nein! Weiße Flecken oder Belag weisen auf Schimmelpilze hin, die Aflatoxin oder Ochratoxin A bilden. Diese Gifte lassen sich nicht abwaschen und werden auch beim Kochen bei 100 °C nicht zerstört. Kontaminierte Linsen entsorgen."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar lentilhas frescas: Guia científico de armazenamento",
-                "description": "Descubra os métodos ideais de conservação para lentilhas secas e cozidas, controle de umidade, prevenção de pragas e micotoxinas (aflatoxinas) segundo a USDA e FDA.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "As lentilhas (lentils) são um superalimento mundialmente famoso, repleto de proteínas vegetais, fibras e ferro! 🫘\n\nAs lentilhas são um ingrediente fantástico para ensopados, curries, sopas e saladas. No entanto, mesmo secas, se a umidade do armazenamento subir, as lentilhas enfrentam um risco crítico de infestação por carunchos e contaminação por micotoxinas resistentes ao calor, como a Aflatoxina e a Ocratoxina A. Manter a umidade das lentilhas entre 10 e 12% e a atividade de água (atividade de água (Aw)) abaixo de 0,65 é essencial para bloquear fungos e pragas.\n\nNeste guia, baseado em dados científicos da USDA, FDA e MFDS, apresentamos um método em 3 etapas para manter suas lentilhas seguras, frescas e livres de toxinas. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Compreender os mecanismos de germinação de fungos e reprodução de pragas quando a atividade de água (atividade de água (Aw)) ultrapassa 0,65 torna o armazenamento vedado e seco uma regra fundamental.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca guarde lentilhas secas em sacos de papel/plástico em locais úmidos ⚠️",
-                        "desc": "A embalagem original de papel ou plástico fino deixa a umidade penetrar, elevando a atividade de água. Isso permite que os carunchos furem o saco para botar ovos e favorece micotoxinas; transfira sempre para potes herméticos."
-                    },
-                    {
-                        "title": "Nunca deixe lentilhas cozidas em temperatura ambiente 🍲",
-                        "desc": "Lentilhas cozidas têm alta atividade de água, criando o ambiente ideal para bactérias. Deixá-las por mais de 2 horas fora da geladeira permite a rápida multiplicação de micróbios; refrigere ou congele imediatamente."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Guarde em potes herméticos (vidro/PET/PP) com dessecante — Manter atividade de água (Aw) < 0,65 e controle de pragas 🫙",
-                        "text": "Transfira imediatamente as lentilhas secas para potes de vidro ou recipientes herméticos com um sachê de sílica gel. 💡 Dica de conservação: Controlar a umidade abaixo de 10–12% mantém a atividade de água $< 0,65$, eliminando o risco de fungos e carunchos."
-                    },
-                    {
-                        "name": "Guarde em local fresco e escuro (15–20 °C) — Armazenamento em despensa seca (1–2 anos) 🚪",
-                        "text": "Conserve os potes herméticos em um armário de cozinha fresco e escuro. 💡 Dica de conservação: Em um ambiente seco de 15 a 20 °C, as lentilhas preservam seus nutrientes e cor sem perda de qualidade por 1 a 2 anos."
-                    },
-                    {
-                        "name": "Porcione as lentilhas cozidas na geladeira (3–5 dias) ou no freezer (6 meses) — Conservação refrigerada 🧊",
-                        "text": "Escorra as lentilhas cozidas e embale em potes herméticos ou sacos Ziploc. 💡 Dica de conservação: Consuma em 3 a 5 dias a 0–4 °C na geladeira, ou congele (-18 °C) por até 6 meses."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Minhas lentilhas secas têm furos pequenos ou pó no saco. É seguro comer?",
-                        "answer": "Não, de forma alguma! Furos pequenos ou pó indicam infestação por carunchos que botaram ovos e se alimentaram dentro dos grãos. As lentilhas estão contaminadas com larvas e excrementos; descarte todo o lote imediatamente."
-                    },
-                    {
-                        "question": "Lentilhas secas com pó branco ou manchas podem ser lavadas e cozinhadas?",
-                        "answer": "Não! Manchas ou pó branco indicam fungos produtores de Aflatoxina ou Ocratoxina A. Essas micotoxinas não saem com água e resistem ao cozimento a 100 °C. Descarte as lentilhas contaminadas."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Kacang Lentil (Lentils) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui metode penyimpanan optimal untuk kacang lentil kering dan matang, kontrol kelembapan, pencegahan hama dan mikotoksin (aflatoksin) berdasarkan panduan USDA & FDA.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Kacang lentil (Lentils) adalah superfood yang terkenal di seluruh dunia, kaya akan protein nabati, serat pangan, dan zat besi! 🫘\n\nKacang lentil adalah bahan nutrisi yang luar biasa untuk sup, kari, dan salad. Namun, bahkan dalam bentuk kering, jika kelembapan penyimpanan meningkat, kacang lentil menghadapi risiko tinggi dari hama seperti kumbang biji (weevil) dan kontaminasi mikotoksin tahan panas seperti Aflatoksin dan Okratoksin A. Menjaga kadar air lentil kering di 10–12% dan aktivitas air (aktivitas air (Aw)) di bawah 0,65 sangat penting untuk menghentikan pertumbuhan mikroba dan hama.\n\nDalam panduan ini, berdasarkan fakta ilmiah yang diverifikasi oleh USDA, FDA, dan MFDS, kami membagikan strategi penyimpanan 3 langkah untuk menjaga kacang lentil Anda tetap aman, segar, dan bebas dari racun. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami mekanisme perkecambahan spora jamur dan perkembangbiakan hama saat aktivitas air (aktivitas air (Aw)) melebihi 0,65 menjadikan penyimpanan kering dan kedap udara sebagai aturan utama.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan menyimpan lentil kering dalam kantong kertas/plastik tipis di tempat lembap ⚠️",
-                        "desc": "Kemasan kertas atau plastik tipis membiarkan kelembapan udara masuk, menaikkan aktivitas air. Kelembapan tinggi memicu kumbang biji menembus kemasan untuk bertelur dan memicu mikotoksin; selalu pindahkan ke wadah kedap udara."
-                    },
-                    {
-                        "title": "Jangan pernah membiarkan kacang lentil yang sudah dimasak pada suhu ruang 🍲",
-                        "desc": "Kacang lentil rebus memiliki aktivitas air yang tinggi, menjadi media ideal bagi bakteri. Membiarkannya pada suhu ruang lebih dari 2 jam membuat bakteri berkembang pesat; segera dinginkan dan masukkan kulkas atau freezer."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Simpan dalam wadah kedap udara (kaca/PET/PP) bersama desikan — Jaga aktivitas air (Aw) < 0,65 & Bebas Hama 🫙",
-                        "text": "Segera pindahkan lentil kering ke dalam toples kaca atau wadah kedap udara PET/PP khusus makanan dan masukkan desikan (silica gel). 💡 Tips Penyimpanan: Mengontrol kadar air di bawah 10–12% menjaga aktivitas air di bawah 0,65, menghentikan racun dan hama."
-                    },
-                    {
-                        "name": "Simpan di tempat sejuk dan gelap (15–20°C) — Simpan Lemari Dapur Kering (1–2 Tahun) 🚪",
-                        "text": "Simpan wadah lentil di lemari dapur yang sejuk dan gelap. 💡 Tips Penyimpanan: Di lingkungan sejuk dan kering pada suhu 15–20°C, lentil mempertahankan nilai gizi dan warnanya tanpa penurunan kualitas selama 1 hingga 2 tahun."
-                    },
-                    {
-                        "name": "Bagi porsi lentil rebus di kulkas (3–5 Hari) atau freezer (6 Bulan) — Simpan Dingin 🧊",
-                        "text": "Tiriskan lentil rebus, bagi ke dalam wadah kedap udara atau kantong Ziploc. 💡 Tips Penyimpanan: Habiskan dalam 3 hingga 5 hari pada suhu 0–4°C di kulkas, atau bekukan (-18°C) hingga 6 bulan."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Kacang lentil kering saya memiliki lubang kecil atau serbuk di dalam kantong. Apakah aman dimakan?",
-                        "answer": "Sama sekali tidak boleh! Lubang kecil atau serbuk menandakan infestasi kumbang biji yang telah bertelur dan berkembang biak di dalam. Kacang telah terkontaminasi larva dan kotoran hama, buang seluruhnya segera."
-                    },
-                    {
-                        "question": "Lentil kering memiliki serbuk putih atau bintik-bintik. Bolehkah dicuci dan dimasak?",
-                        "answer": "Tidak boleh! Bintik atau serbuk putih menandakan spora jamur penghasil Aflatoksin atau Okratoksin A. Mikotoksin ini tidak hilang dengan dicuci dan tahan terhadap suhu merebus 100°C. Buang lentil yang terkontaminasi."
-                    }
-                ]
-            }
-        }
+  "how-to-store-lentils": {
+    "ingId": "lentils",
+    "pubDate": "2026-06-29",
+    "updatedDate": "2026-06-29",
+    "heroImage": "/images/blog/lentils_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "렌틸콩 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 식품 안전 가이드라인(USDA·FDA)에 따른 건조 렌틸콩의 수분 함량 관리법, 해충(팥바구미) 및 곰팡이독소(아플라톡신) 차단법과 보관 기한을 확인하세요.",
+        "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
+        "intro": "풍부한 단백질과 식이섬유, 철분을 자랑하며 세계적인 5대 슈퍼푸드로 꼽히는 렌틸콩(Lentils)! 🫘\n\n렌틸콩은 찌개, 카레, 샐러드 등 다양한 요리에 영양을 더해주는 훌륭한 식재료입니다. 하지만 건조 상태의 렌틸콩도 보관 습도가 높아지면 팥바구미 같은 해충에 쉽게 오염되거나, 열로도 파괴되지 않는 강력한 곰팡이독소인 아플라톡신(Aflatoxin) 및 오크라톡신 A(Ochratoxin A)에 오염될 위험이 급증합니다. 렌틸콩의 수분 함량을 10 - 12% 이하로 낮추고 수분 활성도(Aw)를 0.65 미만으로 유지해야 미생물 및 해충의 번식을 완벽히 차단할 수 있습니다.\n\n이번 가이드에서는 미국 USDA, FDA 및 식품의약품안전처의 검증된 가이드라인을 바탕으로, 렌틸콩을 해충과 독소 없이 신선하게 오랫동안 지켜주는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "수분 활성도(Aw)가 0.65를 넘을 때 발생하는 곰팡이 포자 발아 및 해충 생육 메커니즘을 이해하고, 밀폐·건조 환경을 유지하는 것이 렌틸콩 장기 보존의 핵심입니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "건조 렌틸콩을 습한 곳이나 종이/비닐 포장째 장기 보관하지 마세요 ⚠️",
+            "desc": "구매 당시의 종이 포장이나 얇은 비닐봉지는 공기 중의 습기를 통과시켜 수분활성도를 올립니다. 습도가 높아지면 팥바구미 등 해충이 포장재를 뚫고 들어가 알을 낳거나 곰팡이독소가 생성되기 쉬우므로 반드시 완벽히 밀폐된 용기로 이송해야 합니다."
+          },
+          {
+            "title": "삶은 렌틸콩을 상온에 방치하지 마세요 🍲",
+            "desc": "물에 삶은 렌틸콩은 수분활성도가 급격히 상승하여 세균과 곰팡이가 번식하기 가장 좋은 상태가 됩니다. 삶은 렌틸콩을 상온에 2시간 이상 방치하면 식중독균이 증식하므로 사용 후 남은 것은 즉시 식혀서 냉장 또는 냉동 보관해야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "제습제와 함께 밀폐 용기(유리/PET/PP)에 보관하기 — 수분 활성도(Aw) < 0.65 유지 및 해충 차단 🫙",
+            "text": "건조 렌틸콩을 구매한 즉시 밀폐력이 뛰어난 유리병이나 식품용 PET/PP 밀폐 용기에 담고, 실리카겔 등 식품용 제습제를 함께 넣어주세요. 💡 보관 팁: 렌틸콩의 수분 함량을 10 - 12% 이하로 통제하여 수분활성도를 0.65 미만으로 유지하면 미생물 생육 한계를 낮춰 곰팡이독소 생성 및 팥바구미 침입을 원천 차단합니다."
+          },
+          {
+            "name": "직사광선이 없는 서늘한 암소(15 - 20℃)에 보관하기 — 상온 건소 보관 (1 - 2년) 🚪",
+            "text": "밀폐 용기에 담은 렌틸콩을 햇빛이 들지 않는 주방 하부장이나 팬트리 같은 서늘한 장소에 보관하세요. 💡 보관 팁: 15 - 20℃ 이하의 서늘하고 건조한 환경에서는 영양소 파괴와 변색 없이 1 - 2년 이상 장기 보존이 가능합니다."
+          },
+          {
+            "name": "삶은 렌틸콩은 소분하여 냉장(3 - 5일) 또는 냉동(6개월) 보관하기 — 조리 후 저온 보관 🧊",
+            "text": "요리를 위해 물에 삶은 렌틸콩은 물기를 뺀 뒤 소분하여 밀폐 용기나 지퍼백에 담아 보관하세요. 💡 보관 팁: 0 - 4℃ 냉장실에서는 3 - 5일 이내에 소비하고, 장기 보관 시 냉동실(-18℃ 이하)에 두면 6개월간 해동 후 바로 요리에 사용할 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "렌틸콩에 조그만 구멍이 뚫려 있거나 벌레 가루가 보이는데 먹어도 되나요?",
+            "answer": "절대 드시면 안 됩니다! 렌틸콩에 구멍이 뚫려 있거나 가루가 생겼다면 팥바구미 등 해충이 침입하여 알을 낳고 번식한 상태입니다. 벌레 유충 및 배설물로 오염되었을 뿐만 아니라 곰팡이독소 발생 가능성도 높으므로 즉시 전량 폐기하셔야 합니다."
+          },
+          {
+            "question": "렌틸콩 표면에 하얀 가루나 반점이 생겼는데 씻어서 삶아 먹으면 괜찮나요?",
+            "answer": "안 됩니다! 표면의 하얀 반점이나 가루는 아플라톡신이나 오크라톡신 A를 생성하는 곰팡이 포자일 확률이 높습니다. 곰팡이독소는 물로 씻겨 나가지 않으며 100℃ 이상에서 삶거나 가열해도 파괴되지 않는 열안정성을 가지고 있으므로 오염된 콩은 폐기해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Lentils Fresh: Scientific Storage Guide",
+        "description": "Check optimal storage methods for dry and cooked lentils, moisture control techniques, pest and mycotoxin (aflatoxin) prevention, and shelf life based on official USDA & FDA safety guidelines.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Lentils are a globally renowned superfood packed with plant-based protein, dietary fiber, and iron! 🫘\n\nLentils are an outstanding nutritional addition to stews, curries, soups, and salads. However, even in their dry form, if storage humidity rises, lentils face a surging risk of infestation by pests like pulse beetles (bruchid weevils) and contamination by potent, heat-stable mycotoxins such as Aflatoxin and Ochratoxin A. Maintaining dry lentil moisture content at 10–12% and water activity (Aw) below 0.65 is crucial to completely block microbial growth and insect reproduction.\n\nIn this guide, based on scientifically verified guidelines from the USDA, FDA, and MFDS, we present a 3-step optimal storage strategy to keep your lentils safe, fresh, and free from pests and toxins. 🛡️",
+        "whyTitle": "Why Store Lentils This Way? Scientific Facts",
+        "whyDesc": "Understanding the mechanisms of mold spore germination and pest reproduction triggered when water activity (Aw) exceeds 0.65 makes airtight, dry storage the absolute cornerstone of lentil preservation.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never store dry lentils in permeable paper/plastic bags in humid areas ⚠️",
+            "desc": "Original paper or thin plastic packaging allows ambient humidity to penetrate, elevating water activity. High moisture enables pulse beetles to pierce packaging and lay eggs while encouraging mycotoxin production; always transfer to airtight containers."
+          },
+          {
+            "title": "Never leave cooked lentils at room temperature 🍲",
+            "desc": "Boiled lentils have high water activity, creating an ideal environment for bacterial and mold proliferation. Leaving cooked lentils at room temperature for over 2 hours allows foodborne pathogens to multiply rapidly; cool and refrigerate or freeze immediately."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Store in airtight containers (glass/PET/PP) with desiccants — Maintain water activity (Aw) < 0.65 & Pest Control 🫙",
+            "text": "Immediately transfer dry lentils into glass jars or food-grade PET/PP airtight containers and add a food-safe desiccant (silica gel). 💡 Storage Tip: Controlling moisture content below 10–12% keeps water activity below 0.65, effectively suppressing microbial growth and preventing pulse beetle infestations."
+          },
+          {
+            "name": "Keep in a cool, dark place (15–20°C) away from direct sunlight — Dry Pantry Storage (1–2 Years) 🚪",
+            "text": "Store airtight lentil containers in a cool kitchen cabinet or dark pantry away from sunlight. 💡 Storage Tip: In a cool, dry environment at 15–20°C (59–68°F), lentils preserve their nutritional value and color without quality degradation for 1 to 2 years."
+          },
+          {
+            "name": "Portion and store cooked lentils in the fridge (3–5 Days) or freezer (6 Months) — Cooked Cold Storage 🧊",
+            "text": "Drain boiled lentils, divide them into single-use portions, and place them in airtight containers or Ziploc bags. 💡 Storage Tip: Consume within 3 to 5 days when refrigerated at 0–4°C, or freeze (-18°C / 0°F or lower) for up to 6 months for quick cooking."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "My dry lentils have tiny holes or fine powder in the bag. Are they safe to eat?",
+            "answer": "No, absolutely not! Tiny holes or powder indicate that pulse beetles or other stored-product pests have infested the lentils, laying eggs and feeding inside. The beans are contaminated with insect larvae, waste, and potential mold toxins, so discard the entire batch immediately."
+          },
+          {
+            "question": "Dry lentils have white powder or spots on the surface. Can I wash and cook them?",
+            "answer": "No! White spots or powder strongly suggest mold spores capable of producing Aflatoxin or Ochratoxin A. These mycotoxins are heat-stable and cannot be washed away or destroyed by boiling at 100°C. Contaminated lentils must be discarded."
+          }
+        ]
+      },
+      "ja": {
+        "title": "レンズ豆（Lentils）を新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的食品安全ガイドライン（USDA・FDA）に基づく乾燥レンズ豆の水分管理法、害虫（アズキゾウムシ等）およびカビ毒（アフラトキシン）遮断法と保存期間をご確認ください。",
+        "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
+        "intro": "豊富なタンパク質と食物繊維、鉄分を誇り、世界5大スーパーフードに数えられるレンズ豆（Lentils）！ 🫘\n\nレンズ豆はスープやカレー、サラダなど様々な料理に栄養を添える優れた食材です。しかし、乾燥状態のレンズ豆も保管湿度が高くなるとゾウムシなどの害虫に侵食されたり、熱でも分解されない強力なカビ毒であるアフラトキシン（Aflatoxin）やオクラトキシンA（Ochratoxin A）に汚染されるリスクが急増します。レンズ豆の水分含有量を10〜12%以下に抑え、水分活性度（水分活性 (Aw)）を0.65未満に維持することが微生物や害虫の繁殖を完全に遮断する鍵です。\n\n本記事では、米国USDA、FDAおよび食品医薬品安全処の検証済みガイドラインに基づき、レンズ豆を害虫や毒素から守り新鮮に長く保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "水分活性度（水分活性 (Aw)）が0.65を超えた際に発生するカビ胞子の発芽および害虫の発生メカニズムを理解し、密閉・乾燥環境を維持することがレンズ豆の長期保存の核心です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "乾燥レンズ豆を湿気のある場所や紙・ビニール袋のまま長期保存しないでください ⚠️",
+            "desc": "購入時の紙袋や薄いビニール袋は空気中の湿気を通し水分活性度を上げてしまいます。湿度が高くなるとゾウムシなどの害虫が袋を破って卵を産み付けたり、カビ毒が発生しやすくなるため、必ず完全密閉容器に移し替えてください。"
+          },
+          {
+            "title": "茹でたレンズ豆を常温放置しないでください 🍲",
+            "desc": "水で茹でたレンズ豆は水分活性度が急上昇し、細菌やカビが最も繁殖しやすい状態になります。茹でたレンズ豆を常温に2時間以上放置すると食中毒菌が増殖するため、使用後はすぐに冷まして冷蔵または冷凍保存してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "乾燥剤とともに密閉容器（ガラス/PET/PP）で保存する — 水分活性度 水分活性 (Aw) < 0.65 維持＆害虫遮断 🫙",
+            "text": "乾燥レンズ豆を購入したらすぐに密閉性の高いガラス瓶や食品用PET/PP密閉容器に入れ、シリカゲルなどの食品用乾燥剤を一緒に入れてください。💡保存のコツ：水分含有量を10〜12%以下にコントロールして水分活性度を0.65未満に保つことで、カビ毒の発生や害虫の侵入を根本から防ぎます。"
+          },
+          {
+            "name": "直射日光の当たらない涼しい暗所（15〜20℃）で保存する — 常温乾燥保存 (1〜2年間) 🚪",
+            "text": "密閉容器に入れたレンズ豆を日光の当たらない戸棚やパントリーなどの涼しい場所に保管してください。💡保存のコツ：15〜20℃以下の涼しく乾燥した環境では、栄養素の破壊や変色なく1〜2年以上長期保存が可能です。"
+          },
+          {
+            "name": "茹でたレンズ豆は小分けして冷蔵（3〜5日）または冷凍（6ヶ月）保存する — 調理後の低温保存 🧊",
+            "text": "水で茹でたレンズ豆は水気を切り、小分けにして密閉容器やチャック付き袋に入れて保管します。💡保存のコツ：0〜4℃の冷蔵室では3〜5日以内に使い切り、長期保存の場合は冷凍室（-18℃以下）に入れれば6ヶ月間保存可能です。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "レンズ豆に小さな穴が開いていたり虫の粉が見えますが食べられますか？",
+            "answer": "絶対に食べないでください！レンズ豆に穴が開いていたり粉が生じている場合はゾウムシなどの害虫が侵入して卵を産み繁殖した状態です。幼虫や排泄物で汚染されているだけでなくカビ毒の発生リスクも高いため、すぐに全量破棄してください。"
+          },
+          {
+            "question": "レンズ豆の表面に白い粉や斑点がありますが、洗って茹でれば大丈夫ですか？",
+            "answer": "ダメです！表面の白い斑点や粉はアフラトキシンやオクラトキシンAを産生するカビ胞子である可能性が高いです。カビ毒は水洗いでは落ちず、100℃以上で加熱しても分解されない耐熱性を持っているため、汚染された豆は破棄する必要があります。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持小扁豆（Lentils）新鲜：科学储存指南",
+        "description": "根据USDA及FDA官方食品安全指南，了解干燥小扁豆的水分管理法、防虫（红豆象等）及防霉菌毒素（黄曲霉毒素）方法与保质期。",
+        "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "小扁豆（Lentils）富含植物蛋白、膳食纤维和铁质，是享誉世界的五大超级食物之一！ 🫘\n\n小扁豆是为炖菜、咖喱、汤品和沙拉增添营养的绝佳食材。然而，干燥状态的小扁豆若储存湿度变高，极易遭受豆象虫等害虫侵蚀，或滋生耐高温的剧毒霉菌毒素——黄曲霉毒素（Aflatoxin）和赭曲霉毒素A（Ochratoxin A）。将小扁豆的水分含量控制在10 - 12%以下，并将水分活性（水活性 (Aw)）维持在0.65以下，才能彻底阻断微生物与害虫的繁殖。\n\n本指南基于美国USDA、FDA及韩国MFDS验证的科学指南，为您带来3步科学储存秘诀，保护小扁豆远离害虫与毒素，长久保持新鲜。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解水分活性（水活性 (Aw)）超过0.65时引发的霉菌孢子发芽与害虫繁殖机制，保持密封干燥环境是小扁豆长期保存的核心所在。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "切勿将干燥小扁豆存放在潮湿处或直接用原纸袋/薄塑料袋长期保存 ⚠️",
+            "desc": "购买时的纸袋或薄塑料袋会让空气中的湿气渗入，提高水分活性。湿度升高会导致豆象虫咬破包装产卵，或产生霉菌毒素，因此必须转存至完全密封的容器中。"
+          },
+          {
+            "title": "切勿将煮熟的小扁豆置于常温下 🍲",
+            "desc": "水煮后的小扁豆水分活性剧增，极易滋生细菌和霉菌。煮熟的小扁豆在常温下放置超过2小时就会滋生致病菌，使用后剩余部分须立即冷却并冷藏或冷冻。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "与干燥剂一并存入密封容器（玻璃/PET/PP） — 维持水分活性 水活性 (Aw) < 0.65 并防虫 🫙",
+            "text": "购买干燥小扁豆后请立即倒入密封性极佳的玻璃瓶或食品级PET/PP密封盒中，并放入食品级硅胶干燥剂。💡储存小贴士：将水分含量控制在10 - 12%以下、水分活性控制在0.65以下，可抑制微生物生长，从源头杜绝霉菌毒素与害虫。"
+          },
+          {
+            "name": "存放在无阳光直射的阴凉暗处（15 - 20℃） — 常温干燥保存（1 - 2年） 🚪",
+            "text": "将密封容器装的小扁豆存放在避光的橱柜或食品柜中。💡储存小贴士：在15 - 20℃以下的阴凉干燥环境中，可保持营养不流失、不变色，安全保存1 - 2年。"
+          },
+          {
+            "name": "煮熟的小扁豆分装后冷藏（3 - 5天）或冷冻（6个月） — 烹饪后低温保存 🧊",
+            "text": "煮熟的小扁豆沥干水分后，分装入密封盒或拉链袋中。💡储存小贴士：在0 - 4℃冷藏室中请于3 - 5天内吃完；若需长期保存，放入冷冻室（-18℃以下）可保存6个月。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "小扁豆上有小孔或能看到粉末，还能吃吗？",
+            "answer": "绝对不能吃！如果小扁豆上有小孔或袋子里有粉末，说明已遭豆象虫等害虫侵入并产卵繁殖。豆子已被虫卵和排泄物污染，且极易产生霉菌毒素，请务必整批丢弃。"
+          },
+          {
+            "question": "小扁豆表面有白粉或斑点，洗洗煮熟吃可以吗？",
+            "answer": "不可以！表面的白斑或白粉极有可能是产生黄曲霉毒素或赭曲霉毒素A的霉菌孢子。霉菌毒素无法用水洗掉，且具有耐热性，100℃以上加热也无法破坏，受污染的豆子必须丢弃。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener frescas las lentejas: Guía científica de conservación",
+        "description": "Descubra los métodos óptimos de almacenamiento para lentejas secas y cocidas, control de humedad, prevención de plagas y micotoxinas (aflatoxinas) según la USDA y la FDA.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "¡Las lentejas (lentils) son un superalimento reconocido mundialmente por su alto contenido de proteína vegetal, fibra y hierro! 🫘\n\nLas lentejas son un ingrediente fabuloso para guisos, curris, sopas y ensaladas. Sin embargo, en su estado seco, si la humedad de almacenamiento se eleva, las lentejas corren un riesgo crítico de ser infestadas por gorgojos y de contaminarse con potentes micotoxinas termoestables como la aflatoxina y la ocratoxina A. Mantener la humedad de la lenteja entre el 10 y el 12% y la actividad de agua (actividad de agua (Aw)) por debajo de 0,65 es esencial para frenar microorganismos y plagas.\n\nEn esta guía, basada en pautas científicas de la USDA, la FDA y la MFDS, presentamos una estrategia en 3 pasos para mantener sus lentejas seguras, frescas y libres de toxinas. 🛡️",
+        "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
+        "whyDesc": "Comprender los mecanismos de germinación de moho y reproducción de plagas cuando la actividad de agua (actividad de agua (Aw)) supera 0,65 convierte al almacenamiento hermético y seco en la regla de oro.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Nunca guarde lentejas secas en bolsas de papel/plástico en zonas húmedas ⚠️",
+            "desc": "El empaque original de papel o plástico delgado permite que la humedad ambiente se filtre, elevando la actividad de agua. Esto permite que los gorgojos perforen el empaque para poner huevos y favorece las micotoxinas; páselas siempre a recipientes herméticos."
+          },
+          {
+            "title": "Nunca deje las lentejas cocidas a temperatura ambiente 🍲",
+            "desc": "Las lentejas hervidas tienen una alta actividad de agua, lo que crea el ambiente ideal para bacterias y mohos. Dejarlas a temperatura ambiente por más de 2 horas permite la rápida multiplicación de patógenos; refrigere o congele de inmediato."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Guarde en recipientes herméticos (vidrio/PET/PP) con desecante — Mantener actividad de agua (Aw) < 0,65 y control de plagas 🫙",
+            "text": "Trasvase inmediatamente las lentejas secas a frascos de vidrio o recipientes herméticos de PET/PP con un desecante de sílice para alimentos. 💡 Consejo de almacenamiento: Controlar la humedad por debajo del 10–12% mantiene la actividad de agua en $< 0,65$, frenando toxinas y plagas."
+          },
+          {
+            "name": "Conserve en un lugar fresco y oscuro (15–20 °C) sin luz solar — Almacenamiento en despensa seca (1–2 años) 🚪",
+            "text": "Guarde los recipientes en un armario de cocina fresco o despensa oscura. 💡 Consejo de almacenamiento: En un ambiente fresco y seco a 15–20 °C, las lentejas conservan sus nutrientes y color sin degradación durante 1 a 2 años."
+          },
+          {
+            "name": "Porcione las lentejas cocidas y refrigere (3–5 días) o congele (6 meses) — Almacenamiento en frío 🧊",
+            "text": "Escurra las lentejas hervidas, porciónelas en recipientes herméticos o bolsas Ziploc. 💡 Consejo de almacenamiento: Consúmalas en un plazo de 3 a 5 días a 0–4 °C en el refrigerador, o congélelas (-18 °C) hasta por 6 meses."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mis lentejas secas tienen diminutos agujeros o polvo en la bolsa. ¿Es seguro comerlas?",
+            "answer": "¡No, en absoluto! Los agujeros diminutos o el polvo indican infestación por gorgojos que han puesto huevos y se han alimentado dentro. Las lentejas están contaminadas con larvas, desechos y posibles toxinas; descarte todo el lote de inmediato."
+          },
+          {
+            "question": "Las lentejas secas tienen polvo blanco o manchas en la superficie. ¿Puedo lavarlas y cocinarlas?",
+            "answer": "¡No! Las manchas o el polvo blanco indican esporas de moho capaces de producir aflatoxinas o ocratoxina A. Estas micotoxinas no se eliminan con agua ni se destruyen al hervir a 100 °C. Descarte las lentejas contaminadas."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver les lentilles fraîches : Guide scientifique de stockage",
+        "description": "Découvrez les méthodes optimales pour conserver les lentilles sèches et cuites, le contrôle de l'humidité, la prévention des parasites et des mycotoxines (aflatoxines) selon l'USDA et la FDA.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Les lentilles (lentils) sont un superaliment de renommée mondiale, gorgé de protéines végétales, de fibres et de fer ! 🫘\n\nLes lentilles sont un apport nutritionnel exceptionnel pour les mijotés, currys, soupes et salades. Cependant, même sous forme sèche, si l'humidité de stockage augmente, elles courent un risque élevé d'infestation par les bruches (charançons) et de contamination par des mycotoxines thermostables comme l'aflatoxine et l'ochratoxine A. Maintenir l'humidité des lentilles entre 10 et 12 % et l'activité de l'eau (activité de l'eau (Aw)) sous 0,65 est essentiel pour bloquer les moisissures et parasites.\n\nDans ce guide, basé sur des données scientifiques validées par l'USDA, la FDA et le MFDS, nous vous présentons une méthode en 3 étapes pour conserver vos lentilles fraîches, sûres et sans toxines. 🛡️",
+        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les mécanismes de germination des moisissures et de reproduction des parasites lorsque l'activité de l'eau (activité de l'eau (Aw)) dépasse 0,65 fait du stockage étanche et sec la règle absolue.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne stockez jamais les lentilles sèches dans leur sachet d'origine en zone humide ⚠️",
+            "desc": "Les sachets en papier ou plastique fin laissent pénétrer l'humidité ambiante, faisant grimper l'activité de l'eau. Cela permet aux bruches de percer le sachet pour y pondre et favorise les mycotoxines ; transférez-les toujours dans des récipients étanches."
+          },
+          {
+            "title": "Ne laissez jamais les lentilles cuites à température ambiante 🍲",
+            "desc": "Les lentilles bouillies présentent une forte activité de l'eau, idéale pour la prolifération des bactéries. Les laisser plus de 2 heures à température ambiante entraîne une multiplication rapide des pathogènes ; réfrigérez ou congelez immédiatement."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Placer dans un récipient étanche (verre/PET/PP) avec déshydratant — Maintenir activité de l'eau (Aw) < 0,65 & Anti-parasites 🫙",
+            "text": "Transférez immédiatement les lentilles sèches dans des bocaux en verre ou boîtes étanches en PET/PP avec un sachet déshydratant alimentaire (gel de silice). 💡 Astuce de conservation : Maintenir l'humidité sous 10–12 % garde l'activité de l'eau sous 0,65, éliminant tout risque de moisissure et de charançons."
+          },
+          {
+            "name": "Garder dans un endroit frais et sombre (15–20 °C) — Placard sec (1–2 ans) 🚪",
+            "text": "Conservez les récipients étanches dans un placard de cuisine sombre et frais. 💡 Astuce de conservation : Dans un environnement sec à 15–20 °C, les lentilles préservent leurs valeurs nutritionnelles et leur couleur sans dégradation pendant 1 à 2 ans."
+          },
+          {
+            "name": "Portionner les lentilles cuites au réfrigérateur (3–5 jours) ou au congélateur (6 mois) — Conservation au frais 🧊",
+            "text": "Égouttez les lentilles cuites, répartissez-les dans des boîtes hermétiques ou sachets Ziploc. 💡 Astuce de conservation : Consommez-les sous 3 à 5 jours entre 0 et 4 °C au réfrigérateur, ou congelez-les (-18 °C) jusqu'à 6 mois."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mes lentilles sèches ont de petits trous ou de la poussière dans le sachet. Sont-elles consommables ?",
+            "answer": "Non, absolument pas ! Les petits trous ou la poussière indiquent une infestation par des bruches qui ont pondu et se sont nourries à l'intérieur. Les lentilles sont contaminées par des larves et des déjections ; jetez immédiatement tout le lot."
+          },
+          {
+            "question": "Les lentilles sèches ont de la poudre blanche ou des taches. Puis-je les laver et les cuire ?",
+            "answer": "Non ! Les taches ou la poudre blanche signalent des moisissures productrices d'aflatoxines ou d'ochratoxine A. Ces mycotoxines ne s'éliminent pas à l'eau et résistent à la cuisson à 100 °C. Jetez les lentilles contaminées."
+          }
+        ]
+      },
+      "de": {
+        "title": "Linsen richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimalen Lagerungsmethoden für trockene und gekochte Linsen, Feuchtigkeitskontrolle, Schädlings- und Mykotoxin-Schutz (Aflatoxin) nach USDA & FDA.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Linsen (Lentils) sind ein weltweit geschätztes Superfood voller pflanzlicher Proteine, Ballaststoffe und Eisen! 🫘\n\nLinsen sind eine hervorragende Zutat für Eintöpfe, Currys, Suppen und Salate. Doch selbst im trockenen Zustand steigt bei hoher Lagerfeuchtigkeit das Risiko für Schädlingsbefall (z. B. Speisebohnenkäfer) sowie für gefährliche, hitzebeständige Schimmelpilzgifte wie Aflatoxin und Ochratoxin A rasant an. Die Kontrolle des Feuchtigkeitsgehalts auf 10–12 % und der Wasseraktivität (Wasseraktivität (Aw)) auf unter 0,65 ist entscheidend, um Mikroben und Schädlinge fernzuhalten.\n\nIn diesem Ratgeber stellen wir Ihnen auf Basis wissenschaftlicher Richtlinien von USDA, FDA und MFDS eine 3-Schritte-Methode vor, um Ihre Linsen sicher, frisch und schädlingsfrei aufzubewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der Schimmelsporenkeimung und Schädlingsvermehrung ab einer Wasseraktivität (Wasseraktivität (Aw)) von über 0,65 macht die luftdichte, trockene Lagerung zur absoluten Grundregel.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Trockene Linsen niemals in Papier-/Plastiktüten in feuchten Räumen lagern ⚠️",
+            "desc": "Die Originalverpackung lässt Luftfeuchtigkeit durch, was die Wasseraktivität anhebt. Schädlinge können die Hülle durchbohren und Eier ablegen; füllen Sie Linsen stets in luftdichte Behälter um."
+          },
+          {
+            "title": "Gekochte Linsen niemals bei Raumtemperatur stehen lassen 🍲",
+            "desc": "Gekochte Linsen haben eine hohe Wasseraktivität – der ideale Nährboden für Bakterien. Werden sie länger als 2 Stunden ungekühlt gelagert, vermehren sich Keime rasend schnell; kühlen oder frieren Sie sie sofort ein."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Mit Trockenmittel in luftdichte Behälter (Glas/PET/PP) füllen — Wasseraktivität (Aw) < 0,65 halten & Schädlingsschutz 🫙",
+            "text": "Füllen Sie trockene Linsen sofort in Glasbehälter oder PET/PP-Dosen um und legen Sie ein lebensmittelechtes Trockenmittel (Silikagel) bei. 💡 Lagerungstipp: Die Kontrolle der Feuchtigkeit unter 10–12 % hält die Wasseraktivität unter 0,65 und stoppt Gifte sowie Käferbefall."
+          },
+          {
+            "name": "An einem kühlen, dunklen Ort (15–20 °C) aufbewahren — Vorratskammer (1–2 Jahre) 🚪",
+            "text": "Bewahren Sie die Behälter in einem kühlen Küchenschrank ohne Sonneneinstrahlung auf. 💡 Lagerungstipp: In kühler, trockener Umgebung bei 15–20 °C halten Linsen Nährstoffe und Farbe ohne Qualitätsverlust für 1 bis 2 Jahre."
+          },
+          {
+            "name": "Gekochte Linsen portionieren und kühlen (3–5 Tage) oder einfrieren (6 Monate) — Kaltlagerung 🧊",
+            "text": "Lassen Sie gekochte Linsen abtropfen und füllen Sie sie portioniert in Dose oder Ziploc-Beutel. 💡 Lagerungstipp: Bei 0–4 °C im Kühlschrank innerhalb von 3 bis 5 Tagen verbrauchen oder bis zu 6 Monate einfrieren (-18 °C)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Meine trockenen Linsen haben kleine Löcher oder Mehl im Beutel. Kann ich sie noch essen?",
+            "answer": "Nein, auf keinen Fall! Kleine Löcher oder Mehl deuten auf Befall durch Speisebohnenkäfer hin, die darin Eier abgelegt haben. Die Linsen sind mit Larven und Kot kontaminiert – entsorgen Sie die gesamte Packung sofort."
+          },
+          {
+            "question": "Trockene Linsen haben weißen Belag oder Flecken. Kann ich sie abwaschen und kochen?",
+            "answer": "Nein! Weiße Flecken oder Belag weisen auf Schimmelpilze hin, die Aflatoxin oder Ochratoxin A bilden. Diese Gifte lassen sich nicht abwaschen und werden auch beim Kochen bei 100 °C nicht zerstört. Kontaminierte Linsen entsorgen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar lentilhas frescas: Guia científico de armazenamento",
+        "description": "Descubra os métodos ideais de conservação para lentilhas secas e cozidas, controle de umidade, prevenção de pragas e micotoxinas (aflatoxinas) segundo a USDA e FDA.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "As lentilhas (lentils) são um superalimento mundialmente famoso, repleto de proteínas vegetais, fibras e ferro! 🫘\n\nAs lentilhas são um ingrediente fantástico para ensopados, curries, sopas e saladas. No entanto, mesmo secas, se a umidade do armazenamento subir, as lentilhas enfrentam um risco crítico de infestação por carunchos e contaminação por micotoxinas resistentes ao calor, como a Aflatoxina e a Ocratoxina A. Manter a umidade das lentilhas entre 10 e 12% e a atividade de água (atividade de água (Aw)) abaixo de 0,65 é essencial para bloquear fungos e pragas.\n\nNeste guia, baseado em dados científicos da USDA, FDA e MFDS, apresentamos um método em 3 etapas para manter suas lentilhas seguras, frescas e livres de toxinas. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Compreender os mecanismos de germinação de fungos e reprodução de pragas quando a atividade de água (atividade de água (Aw)) ultrapassa 0,65 torna o armazenamento vedado e seco uma regra fundamental.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca guarde lentilhas secas em sacos de papel/plástico em locais úmidos ⚠️",
+            "desc": "A embalagem original de papel ou plástico fino deixa a umidade penetrar, elevando a atividade de água. Isso permite que os carunchos furem o saco para botar ovos e favorece micotoxinas; transfira sempre para potes herméticos."
+          },
+          {
+            "title": "Nunca deixe lentilhas cozidas em temperatura ambiente 🍲",
+            "desc": "Lentilhas cozidas têm alta atividade de água, criando o ambiente ideal para bactérias. Deixá-las por mais de 2 horas fora da geladeira permite a rápida multiplicação de micróbios; refrigere ou congele imediatamente."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Guarde em potes herméticos (vidro/PET/PP) com dessecante — Manter atividade de água (Aw) < 0,65 e controle de pragas 🫙",
+            "text": "Transfira imediatamente as lentilhas secas para potes de vidro ou recipientes herméticos com um sachê de sílica gel. 💡 Dica de conservação: Controlar a umidade abaixo de 10–12% mantém a atividade de água $< 0,65$, eliminando o risco de fungos e carunchos."
+          },
+          {
+            "name": "Guarde em local fresco e escuro (15–20 °C) — Armazenamento em despensa seca (1–2 anos) 🚪",
+            "text": "Conserve os potes herméticos em um armário de cozinha fresco e escuro. 💡 Dica de conservação: Em um ambiente seco de 15 a 20 °C, as lentilhas preservam seus nutrientes e cor sem perda de qualidade por 1 a 2 anos."
+          },
+          {
+            "name": "Porcione as lentilhas cozidas na geladeira (3–5 dias) ou no freezer (6 meses) — Conservação refrigerada 🧊",
+            "text": "Escorra as lentilhas cozidas e embale em potes herméticos ou sacos Ziploc. 💡 Dica de conservação: Consuma em 3 a 5 dias a 0–4 °C na geladeira, ou congele (-18 °C) por até 6 meses."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Minhas lentilhas secas têm furos pequenos ou pó no saco. É seguro comer?",
+            "answer": "Não, de forma alguma! Furos pequenos ou pó indicam infestação por carunchos que botaram ovos e se alimentaram dentro dos grãos. As lentilhas estão contaminadas com larvas e excrementos; descarte todo o lote imediatamente."
+          },
+          {
+            "question": "Lentilhas secas com pó branco ou manchas podem ser lavadas e cozinhadas?",
+            "answer": "Não! Manchas ou pó branco indicam fungos produtores de Aflatoxina ou Ocratoxina A. Essas micotoxinas não saem com água e resistem ao cozimento a 100 °C. Descarte as lentilhas contaminadas."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Kacang Lentil (Lentils) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui metode penyimpanan optimal untuk kacang lentil kering dan matang, kontrol kelembapan, pencegahan hama dan mikotoksin (aflatoksin) berdasarkan panduan USDA & FDA.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Kacang lentil (Lentils) adalah superfood yang terkenal di seluruh dunia, kaya akan protein nabati, serat pangan, dan zat besi! 🫘\n\nKacang lentil adalah bahan nutrisi yang luar biasa untuk sup, kari, dan salad. Namun, bahkan dalam bentuk kering, jika kelembapan penyimpanan meningkat, kacang lentil menghadapi risiko tinggi dari hama seperti kumbang biji (weevil) dan kontaminasi mikotoksin tahan panas seperti Aflatoksin dan Okratoksin A. Menjaga kadar air lentil kering di 10–12% dan aktivitas air (aktivitas air (Aw)) di bawah 0,65 sangat penting untuk menghentikan pertumbuhan mikroba dan hama.\n\nDalam panduan ini, berdasarkan fakta ilmiah yang diverifikasi oleh USDA, FDA, dan MFDS, kami membagikan strategi penyimpanan 3 langkah untuk menjaga kacang lentil Anda tetap aman, segar, dan bebas dari racun. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami mekanisme perkecambahan spora jamur dan perkembangbiakan hama saat aktivitas air (aktivitas air (Aw)) melebihi 0,65 menjadikan penyimpanan kering dan kedap udara sebagai aturan utama.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan menyimpan lentil kering dalam kantong kertas/plastik tipis di tempat lembap ⚠️",
+            "desc": "Kemasan kertas atau plastik tipis membiarkan kelembapan udara masuk, menaikkan aktivitas air. Kelembapan tinggi memicu kumbang biji menembus kemasan untuk bertelur dan memicu mikotoksin; selalu pindahkan ke wadah kedap udara."
+          },
+          {
+            "title": "Jangan pernah membiarkan kacang lentil yang sudah dimasak pada suhu ruang 🍲",
+            "desc": "Kacang lentil rebus memiliki aktivitas air yang tinggi, menjadi media ideal bagi bakteri. Membiarkannya pada suhu ruang lebih dari 2 jam membuat bakteri berkembang pesat; segera dinginkan dan masukkan kulkas atau freezer."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Simpan dalam wadah kedap udara (kaca/PET/PP) bersama desikan — Jaga aktivitas air (Aw) < 0,65 & Bebas Hama 🫙",
+            "text": "Segera pindahkan lentil kering ke dalam toples kaca atau wadah kedap udara PET/PP khusus makanan dan masukkan desikan (silica gel). 💡 Tips Penyimpanan: Mengontrol kadar air di bawah 10–12% menjaga aktivitas air di bawah 0,65, menghentikan racun dan hama."
+          },
+          {
+            "name": "Simpan di tempat sejuk dan gelap (15–20°C) — Simpan Lemari Dapur Kering (1–2 Tahun) 🚪",
+            "text": "Simpan wadah lentil di lemari dapur yang sejuk dan gelap. 💡 Tips Penyimpanan: Di lingkungan sejuk dan kering pada suhu 15–20°C, lentil mempertahankan nilai gizi dan warnanya tanpa penurunan kualitas selama 1 hingga 2 tahun."
+          },
+          {
+            "name": "Bagi porsi lentil rebus di kulkas (3–5 Hari) atau freezer (6 Bulan) — Simpan Dingin 🧊",
+            "text": "Tiriskan lentil rebus, bagi ke dalam wadah kedap udara atau kantong Ziploc. 💡 Tips Penyimpanan: Habiskan dalam 3 hingga 5 hari pada suhu 0–4°C di kulkas, atau bekukan (-18°C) hingga 6 bulan."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Kacang lentil kering saya memiliki lubang kecil atau serbuk di dalam kantong. Apakah aman dimakan?",
+            "answer": "Sama sekali tidak boleh! Lubang kecil atau serbuk menandakan infestasi kumbang biji yang telah bertelur dan berkembang biak di dalam. Kacang telah terkontaminasi larva dan kotoran hama, buang seluruhnya segera."
+          },
+          {
+            "question": "Lentil kering memiliki serbuk putih atau bintik-bintik. Bolehkah dicuci dan dimasak?",
+            "answer": "Tidak boleh! Bintik atau serbuk putih menandakan spora jamur penghasil Aflatoksin atau Okratoksin A. Mikotoksin ini tidak hilang dengan dicuci dan tahan terhadap suhu merebus 100°C. Buang lentil yang terkontaminasi."
+          }
+        ]
+      }
     }
+  }
 }

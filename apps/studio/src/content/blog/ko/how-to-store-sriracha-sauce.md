@@ -8,7 +8,7 @@ category: "FreshSnap"
 heroImage: "/images/blog/sriracha_sauce_storage_hack.webp"
 app: "freshsnap"
 formatVersion: 4
-authority: "미국 식품의약국(FDA) & 食品医薬品安全処(MFDS)"
+authority: "미국 식품의약국(FDA) & 식품의약품안전처(MFDS)"
 steps:
   - name: "개봉 전에는 서늘하고 어두운 상온에 보관하기 — 상온 보관 (360 ~ 720일) 📦"
     text: "미개봉 스리라차 소스는 강산성 성분 덕분에 상온에서 매우 안정적으로 보존됩니다. 💡 보관 팁: 직사광선과 열기가 없는 서늘한 팬트리나 찬장(15 ~ 25℃)에 보관하세요. 개봉 전 상태에서는 1 ~ 2년 동안 품질과 신선도가 완벽히 유지됩니다."
@@ -38,8 +38,47 @@ faqs:
       식품 안전 & 과학적 근거
     </h5>
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
-      본 콘텐츠는 미국 식품의약국(FDA) & 食品医薬品安全処(MFDS)에 기반하고 있습니다.
+      본 콘텐츠는 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)에 기반하고 있습니다.
     </p>
+  </div>
+</div>
+
+<div class="my-8 relative overflow-hidden rounded-3xl border border-purple-100 dark:border-purple-500/20 p-6 md:p-8 bg-gradient-to-br from-purple-50/80 via-purple-50/40 to-transparent dark:from-purple-950/20 dark:via-purple-950/10 dark:to-slate-900/30 backdrop-blur-md transition-all duration-300 hover:shadow-lg not-prose">
+  <div class="flex flex-col lg:flex-row items-center justify-between gap-6 md:gap-8 relative z-10">
+    <div class="space-y-3.5 flex-1 min-w-0 max-w-xl w-full flex flex-col items-center text-center">
+      <div class="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-full text-xs font-extrabold border shadow-xs max-w-full mx-auto bg-purple-100 dark:bg-purple-500/20 text-purple-800 dark:text-purple-300 border-purple-200 dark:border-purple-500/30">
+        <span>💬</span>
+        <span class="truncate">스마트 보관부터 유통기한 알림까지</span>
+      </div>
+      <div class="space-y-1.5 w-full text-center">
+        <h3 class="text-xl md:text-2xl font-black text-slate-900 dark:text-white tracking-tight leading-snug text-center m-0 flex flex-col items-center">
+          <span class="inline-flex items-center gap-2 text-purple-600 dark:text-purple-400 font-black text-base md:text-lg tracking-wider uppercase">
+            <img src="/images/freshself/icon.png" alt="FreshSelf App Icon" class="w-5 h-5 md:w-6 md:h-6 rounded-lg object-cover shadow-xs border border-purple-200 dark:border-purple-500/30 m-0" />
+            <span>FreshSelf</span>
+          </span>
+          <span class="block text-base md:text-xl font-extrabold text-slate-900 dark:text-white leading-snug mt-0.5">버려짐 제로! 모두의 스마트 보관 비서</span>
+        </h3>
+      </div>
+    </div>
+    <div class="flex flex-col items-center justify-center gap-3 shrink-0 w-full lg:w-[340px] pt-4 lg:pt-0 border-t lg:border-t-0 border-slate-200/40 dark:border-slate-700/30">
+      <div class="flex items-center justify-center -space-x-2.5 py-1" title="Meet cute 3D fresh fruit & food characters">
+        <img src="/images/freshself/fruits/apple.webp" alt="Apple Buddy" class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-30 hover:scale-110 transition-transform bg-rose-50 dark:bg-rose-950/40 m-0" />
+        <img src="/images/freshself/fruits/avocado.webp" alt="Avocado Buddy" class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-20 hover:scale-110 transition-transform bg-emerald-50 dark:bg-emerald-950/40 m-0" />
+        <img src="/images/freshself/fruits/banana.webp" alt="Banana Buddy" class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-10 hover:scale-110 transition-transform bg-amber-50 dark:bg-amber-950/40 m-0" />
+        <img src="/images/freshself/fruits/strawberry.webp" alt="Strawberry Buddy" class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-0 hover:scale-110 transition-transform bg-red-50 dark:bg-red-950/40 m-0" />
+        <img src="/images/freshself/fruits/orange.webp" alt="Orange Buddy" class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-0 hover:scale-110 transition-transform bg-orange-50 dark:bg-orange-950/40 m-0" />
+        <img src="/images/freshself/fruits/broccoli.webp" alt="Broccoli Buddy" class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-0 hover:scale-110 transition-transform bg-green-50 dark:bg-green-950/40 m-0" />
+      </div>
+      <div class="flex items-center justify-center w-full">
+        <a href="https://play.google.com/store/apps/details?id=com.selalink.freshself&hl=ko" target="_blank" rel="noopener noreferrer" class="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-2xl font-semibold text-xs sm:text-sm transition-all duration-200 focus:outline-none focus:ring-4 shadow-sm hover:shadow hover:scale-[1.01] active:scale-[0.99] text-center whitespace-nowrap w-full sm:w-auto bg-purple-600 hover:bg-purple-700 text-white focus:ring-purple-500/20 no-underline">
+          <img src="/images/google_play_icon.webp" alt="Google Play Icon" class="w-4 h-4 sm:w-5 sm:h-5 shrink-0 object-contain drop-shadow-sm m-0" />
+          <span class="whitespace-nowrap">Google Play에서 다운로드</span>
+        </a>
+      </div>
+      <div class="text-[11px] font-semibold text-slate-500 dark:text-slate-400 text-center w-full max-w-[320px] leading-relaxed px-1">
+        ✨ 100% 무료 · 회원가입 없음 · 광고 없음 · 오프라인 저장
+      </div>
+    </div>
   </div>
 </div>
 

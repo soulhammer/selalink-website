@@ -1,406 +1,406 @@
 {
-    "how-to-store-radish": {
-        "ingId": "radish",
-        "pubDate": "2026-05-15",
-        "updatedDate": "2026-05-15",
-        "heroImage": "/images/blog/radish_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "무 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 무의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
-                "intro": "단단하고 시원한 무를 사 왔는데, 얼마 지나지 않아 속이 텅 비고 푸석해지는 '바람'이 들거나 겉면이 쭈글쭈글해져 버려본 경험 다들 있으시죠? 🧊\n\n무는 수분 함량이 94%에 달하며, 보관 시 잎(무청)이 붙어있으면 잎이 무 뿌리의 수분과 영양소를 지속적으로 흡수하여 빠르게 바람이 들게 만듭니다. 적절한 수분을 유지하지 못하면 조직이 건조해지고 식감이 크게 떨어집니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 무의 아삭하고 시원한 식감을 최대 2개월 동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "구매 즉시 무청(무 줄기와 잎)을 잘라내세요 ✂️",
-                        "desc": "무 잎은 생장이 지속되면서 무 뿌리 속에 들어있는 수분과 당분을 빠르게 빨아올립니다. 무청을 그대로 두면 며칠 만에 무 속이 스펀지처럼 비는 '바람드는 현상'이 일어납니다."
-                    },
-                    {
-                        "title": "0℃ 이하에서 얼지 않도록 주의하세요 (동해 주의) ❄️",
-                        "desc": "수분이 대부분인 무는 0℃ 이하에서 얼면 조직 내 세포벽이 파괴되어 해동 시 물바다가 되고 아삭한 식감을 영영 잃게 됩니다. 반드시 0~3℃의 적정 저온을 유지하세요."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "무청(잎) 잘라내기 — 영양소 및 수분 빼앗김 차단 🪓",
-                        "text": "무 뿌리의 수분 손실을 막는 가장 첫 번째 핵심 단계입니다. 💡 보관 팁: 무 상단의 줄기와 잎 부분을 칼로 싹둑 잘라내어 생장점을 제거해 주세요. 잘라낸 무청은 시래기나 조림용으로 따로 보관해 활용하면 좋습니다."
-                    },
-                    {
-                        "name": "키친타월로 싸고 랩으로 이중 포장하기 — 수분 증발 차단 🧻",
-                        "text": "무 표면의 수분 증발을 막고 외부 결로로 인한 부패를 방지해야 합니다. 💡 보관 팁: 씻지 않은 무 표면의 흙을 털어낸 뒤, 키친타월이나 신문지로 한 번 감싸고 식품용 랩으로 빈틈없이 꽁꽁 감싸주세요."
-                    },
-                    {
-                        "name": "0~3℃ 저온 냉장 보관하기 — 냉장 보관 (30~60일) 📦",
-                        "text": "밀봉 포장된 무는 저온에서 호흡 작용이 둔화되어 오랫동안 신선함이 유지됩니다. 💡 보관 팁: 랩핑한 무를 냉장고 야채칸(0~3℃)에 보관해 주세요. 1~2개월 동안 속이 꽉 차고 아삭아삭한 상태가 유지됩니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "무에 바람이 들어 속이 텅 비고 푸석해졌는데 먹어도 되나요?",
-                        "answer": "바람이 든 무는 수분이 빠져나가 조직에 구멍이 생긴 것으로, 유해한 것은 아니지만 식감이 푸석하고 단맛이 줄어듭니다. 생채나 무침용으로는 부적합하지만 국물 육수를 내거나 국, 감자탕, 생선조림 등에 푹 끓여 활용할 수 있습니다."
-                    },
-                    {
-                        "question": "무를 냉동 보관할 수도 있나요?",
-                        "answer": "통무를 그대로 얼리면 세포벽이 파괴되어 해동 후 사용할 수 없습니다. 하지만 찌개나 국용으로 먹기 좋게 썰거나 깍둑썰기 한 후 밀폐 지퍼백에 담아 냉동 보관(-18℃ 이하)하면 국거리용으로 편리하게 바로 사용할 수 있습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Store Radish Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for radishes based on official safety guidelines.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Have you ever bought a firm, crisp radish only to find it spongy, hollow, or wrinkled inside after a few days? 🧊\n\nRadishes contain up to 94% water. When stored with their leafy tops attached, the greens continuously pull water and sugars from the root, causing the radish to turn spongy and hollow (pithy). Without proper moisture retention, the texture rapidly deteriorates.\n\nIn this guide, introduces a scientifically proven 3-step radish storage guide recommended by agriculture and food safety experts to maintain crispness and sweet flavor for up to 2 months. 🛡️",
-                "whyTitle": "Why Store Radishes This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Cut off leafy tops/greens immediately after purchase ✂️",
-                        "desc": "Radish greens continue to grow after harvest, rapidly siphoning moisture and nutrients from the root. Leaving the tops attached causes the radish to become pithy and spongy within days."
-                    },
-                    {
-                        "title": "Avoid freezing temperatures below 0°C (Prevent Freezing Injury) ❄️",
-                        "desc": "Because radishes consist mostly of water, temperatures below 0°C (32°F) rupture their cell walls, causing them to turn soft and mushy upon thawing. Always maintain cold temperatures at 0–3°C."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Slice off green tops — Prevent Moisture & Nutrient Depletion 🪓",
-                        "text": "This is the crucial first step to stop dehydration. 💡 Storage Tip: Cut off the green leafy top close to the stem base to eliminate the growing point. You can store and cook the leafy greens separately."
-                    },
-                    {
-                        "name": "Wrap with paper towels and tightly seal in plastic wrap — Block Moisture Evaporation 🧻",
-                        "text": "Preventing surface dehydration while protecting against excess condensation is key. 💡 Storage Tip: Wipe dry dirt off the unwashed radish, wrap it in paper towels or newspaper, then seal tightly with food-grade plastic wrap without leaving gaps."
-                    },
-                    {
-                        "name": "Refrigerate at 0–3°C — Cold Storage (30–60 Days) 📦",
-                        "text": "Sealed radishes slow down their respiration at low temperatures, locking in crispness. 💡 Storage Tip: Keep wrapped radishes in the refrigerator crisper drawer (0–3°C / 32–37°F) to retain firmness for 1 to 2 months."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "My radish turned spongy and hollow (pithy) inside. Is it still safe to eat?",
-                        "answer": "Yes, pithy radishes are safe to eat. Pithiness occurs when water loss creates air pockets inside the root tissue. While unsuitable for raw salads or pickles due to texture loss, pithy radishes work well when simmered in soups, stews, or broths."
-                    },
-                    {
-                        "question": "Can I freeze radishes for long-term storage?",
-                        "answer": "Freezing a whole raw radish ruins its structure. However, slicing or dicing the radish into soup-sized pieces and sealing them in Ziploc bags allows you to freeze them (-18°C or below) for easy addition directly into hot soups and stews."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "大根を新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づく大根の最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "みずみずしく固い大根を買ってきたのに、しばらく経つと中がすかすか（すが入る）になったり皮がシワシワになってしまった経験はありませんか？🧊\n\n大根は水分含有量が約94%と高く、葉がついたまま保存すると葉が大根の根から水分と栄養分を吸い上げて急速に「す」が入る原因になります。適切な水分保持を行わないと組織が乾燥し食感が損なわれます。\n\n本記事では、農学および食品安全の専門家が推奨する、大根のみずみずしさとシャキシャキ感を最大2ヶ月間キープする3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "購入後すぐに葉（大根の葉）を切り落としてください ✂️",
-                        "desc": "大根の葉は成長を続け、根に含まれる水分や糖分を急速に吸い上げます。葉をつけたままにすると数日で中に空洞ができる「すが入る現象」が起こります。"
-                    },
-                    {
-                        "title": "0℃以下の凍結に注意してください（凍害防止） ❄️",
-                        "desc": "成分のほとんどが水分の stem は、0℃以下で凍結すると細胞壁が破壊され、解凍時に水分が抜けて食感が完全に失われます。必ず0〜3℃の低温を維持してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "葉（ヘタ）を切り落とす — 栄養と水分の吸収を遮断 🪓",
-                        "text": "水分蒸発を防ぐ最優先のステップです。💡保存のコツ：包丁で大根の上部の葉を切り落とし、生長点をなくしてください。切り落とした葉は炒め物や味噌汁の具として別保存できます。"
-                    },
-                    {
-                        "name": "キッチンペーパーで包みラップで二重包装する — 水分蒸発の防止 🧻",
-                        "text": "表面の乾燥を防ぎつつ、結露による傷みを防ぎます。💡保存のコツ：洗わずに汚れを拭き取った大根をキッチンペーパーや新聞紙で包み、食品用ラップで隙間なくぴったり包んでください。"
-                    },
-                    {
-                        "name": "0〜3℃の低温で冷蔵保存する — 冷蔵保存 (30〜60日間) 📦",
-                        "text": "ラップで密閉した大根は低温で呼吸が抑えられ、長期間みずみずしさを保ちます。💡保存のコツ：ラッピングした大根を冷蔵庫の野菜室（0〜3℃）で保存してください。1〜2ヶ月間シャキシャキ感が長持ちします。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "「す」が入ってスカスカになった大根は食べられますか？",
-                        "answer": "はい、「す」が入った大根は水分が抜けた状態で体に害はありません。ただしパサついて甘みが減るため、生食や刺身のツマには不向きです。味噌汁や煮物、スープにじっくり煮込んで使うのがおすすめです。"
-                    },
-                    {
-                        "question": "大根を冷凍保存することはできますか？",
-                        "answer": "丸ごとの生のまま冷凍すると細胞が破壊されて使えなくなります。しかし、いちょう切りや大根おろし、スープ用の角切りにして密閉袋で冷凍保存（-18℃以下）すれば、煮物や汁物にそのまま使えて便利です。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持萝卜新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解萝卜的最佳储存温度、方式和保鲜时长。",
-                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "您是否买回结实多汁的白萝卜，放了几天却发现里面发糠（变空心）、表皮起皱？🧊\n\n萝卜的含水量高达94%左右。如果在保存时连同萝卜叶（萝卜缨）一起存放，叶子会持续吸收萝卜根部的水分和糖分，导致萝卜迅速发糠。若未能妥善锁水，萝卜组织会干瘪失水，失去爽脆口感。\n\n本指南将为您介绍由农业及食品安全专家推荐的3步科学萝卜保鲜秘诀，帮您锁定萝卜的多汁与爽脆长达2个月。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "买回家后请立即切除萝卜叶（头部绿缨） ✂️",
-                        "desc": "萝卜叶在采摘后仍会生长，并快速抽走萝卜根部的水分和营养。保留叶子会导致萝卜在数天内迅速空心发糠。"
-                    },
-                    {
-                        "title": "注意避免0℃以下的冻害 ❄️",
-                        "desc": "水分极高的萝卜在0℃以下结冰会导致细胞壁破裂，解冻后会严重渗水并失去爽脆口感。请务必维持0~3℃的低适温。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "切除顶部萝卜叶 — 阻断水分与营养抽干 🪓",
-                        "text": "这是防止萝卜水分流失的最关键一步。💡储存小贴士：用刀将萝卜顶部的叶子及茎部切除，破坏生长点。切下的萝卜叶可单独保鲜用于炒菜或煲汤。"
-                    },
-                    {
-                        "name": "用厨房纸巾包裹并用保鲜膜紧密无缝包裹 — 阻绝水分蒸发 🧻",
-                        "text": "既要防止萝卜表面水分蒸发，又要避免外部凝结水珠导致腐烂。💡储存小贴士：擦干未清洗萝卜表面的泥土，用厨房纸巾或报纸包裹，再用食品级保鲜膜无缝紧密裹紧。"
-                    },
-                    {
-                        "name": "0~3℃ 低温冷藏保存 — 冷藏储存 (30~60天) 📦",
-                        "text": "密封包裹的萝卜在低温下呼吸作用减缓，能长久保持新鲜。💡储存小贴士：将裹好的萝卜放入冰箱蔬菜抽屉（0~3℃）保存，可保持紧实爽脆长达1~2个月。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "萝卜发糠（变空心）了还能吃吗？",
-                        "answer": "发糠是水分流失导致组织产生空隙的现象，对人体无害，可以食用。虽然口感变渣、甜味减少不适合生食或凉拌，但非常适合炖汤、煮火锅或做焖菜使用。"
-                    },
-                    {
-                        "question": "萝卜可以冷冻保存吗？",
-                        "answer": "整颗生萝卜直接冷冻会导致细胞壁破裂破坏质地。但如果切成适口块状、薄片或做成萝卜丝后装入密封拉链袋中冷冻（-18℃以下），可以直接下锅煲汤，非常方便。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener el rábano/daikon fresco: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el rábano según las directrices oficiales de seguridad.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "¿Alguna vez compró un rábano firme y crujiente solo para descubrir que días después estaba esponjoso, hueco o arrugado por dentro? 🧊\n\nLos rábanos contienen hasta un 94% de agua. Cuando se almacenan con las hojas verdes adheridas, estas extraen continuamente el agua y los azúcares de la raíz, haciendo que el rábano se vuelva fofo o hueco. Sin una retención adecuada de la humedad, la textura se deteriora rápidamente.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria para mantener la frescura y la textura crujiente de sus rábanos hasta por 2 meses. 🛡️",
-                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Corte las hojas/tallos inmediatamente tras la compra ✂️",
-                        "desc": "Las hojas del rábano continúan creciendo y absorbiendo el agua y los nutrientes de la raíz. Dejarlas unidas provoca que el rábano se vuelva ahuecado y fofo en pocos días."
-                    },
-                    {
-                        "title": "Evite temperaturas de congelación inferiores a 0 °C (Evite congelación) ❄️",
-                        "desc": "Dado que el rábano consiste mayoritariamente en agua, las temperaturas bajo 0 °C rompen las paredes celulares, dejándolo blando al descongelar. Mantenga siempre temperaturas de 0 a 3 °C."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Corte el tallo verde superior — Evite la pérdida de agua y nutrientes 🪓",
-                        "text": "Este es el primer paso indispensable para frenar la deshidratación. 💡 Consejo de almacenamiento: Corte la parte superior de las hojas cerca de la base para eliminar el punto de crecimiento. Puede guardar las hojas por separado para cocinar."
-                    },
-                    {
-                        "name": "Envuelva en papel de cocina y selle firmemente con film plástico — Retenga la humedad 🧻",
-                        "text": "Evitar la deshidratación superficial y protegerlo de la condensación es clave. 💡 Consejo de almacenamiento: Limpie la tierra del rábano sin lavarlo, envuélvalo en papel de cocina o periódico y fíjelo herméticamente con film transparente."
-                    },
-                    {
-                        "name": "Conserve a baja temperatura (0 a 3 °C) — Almacenamiento refrigerado (30 a 60 días) 📦",
-                        "text": "El rábano sellado ralentiza su respiración a temperaturas bajas, conservando su textura. 💡 Consejo de almacenamiento: Guarde los rábanos envueltos en el cajón de verduras del refrigerador (0–3 °C) para mantener la firmeza de 1 a 2 meses."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mi rábano se volvió ahuecado y fofo por dentro. ¿Es seguro comerlo?",
-                        "answer": "Sí, los rábanos ahuecados son seguros para comer. Este fenómeno ocurre por deshidratación. Aunque pierden la firmeza ideal para ensaladas, funcionan perfectamente al cocinarse en sopas, guisos o caldos."
-                    },
-                    {
-                        "question": "¿Se pueden congelar los rábanos para conservarlos por más tiempo?",
-                        "answer": "Congelar un rábano entero crudo destruye su estructura. Sin embargo, si se corta en dados o rodajas para sopa y se guarda sellado en bolsas Ziploc, puede congelarse (-18 °C o menos) y agregarse directamente a cocciones calientes."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver le radis/daïkon frais : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le radis selon les directives officielles de sécurité.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Avez-vous déjà acheté un radis bien ferme pour constater quelques jours plus tard qu'il était devenu spongieux, creux ou flétri ? 🧊\n\nLe radis contient jusqu'à 94 % d'eau. Lorsqu'il est conservé avec ses fanes (feuilles), celles-ci continuent d'absorber l'eau et les sucres de la racine, rendant le radis creux et fanné. Sans un bon maintien de l'humidité, sa texture se détériore rapidement.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts pour maintenir le croquant et la fraîcheur de vos radis jusqu'à 2 mois. 🛡️",
-                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Coupez immédiatement les fanes (feuilles) après l'achat ✂️",
-                        "desc": "Les fanes de radis continuent de pousser et pompent l'eau et les nutriments de la racine. Les laisser attachées rend le radis creux et spongieux en quelques jours."
-                    },
-                    {
-                        "title": "Évitez les températures sous 0 °C (Attention au gel) ❄️",
-                        "desc": "Composé essentiellement d'eau, le radis exposé à des températures négatives voit ses parois cellulaires éclater, le rendant mou à la décongélation. Maintenez une température entre 0 et 3 °C."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Couper le collet et les fanes — Stopper la déshydratation 🪓",
-                        "text": "C'est l'étape essentielle pour éviter la perte d'eau. 💡 Astuce de conservation : Coupez le haut avec les feuilles près du collet pour éliminer le point de croissance. Les fanes peuvent être cuisinées séparément."
-                    },
-                    {
-                        "name": "Envelopper dans du papier essuie-tout puis dans du film étirable — Maintien de l'humidité 🧻",
-                        "text": "Éviter la déshydratation tout en protégeant de la condensation est la clé. 💡 Astuce de conservation : Essuyez la terre du radis sans le laver, enveloppez-le dans du papier essuie-tout puis scellez-le fermement dans du film plastique."
-                    },
-                    {
-                        "name": "Conserver à basse température (0 à 3 °C) — Stockage réfrigéré (30 à 60 jours) 📦",
-                        "text": "Le radis emballé ralentit sa respiration au froid, préservant son croquant. 💡 Astuce de conservation : Conservez les radis ainsi emballés dans le bac à légumes (0–3 °C) pour les garder fermes pendant 1 à 2 mois."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mon radis est devenu creux et spongieux à l'intérieur. Est-il encore consommable ?",
-                        "answer": "Oui, un radis creux reste propre à la consommation. Ce phénomène est dû à la déshydratation. Bien qu'il ne soit plus adapté aux salades crues, il convient très bien cuit dans des soupes, potages ou mijotés."
-                    },
-                    {
-                        "question": "Peut-on congeler le radis ?",
-                        "answer": "Congeler un radis entier cru détruit sa structure. En revanche, si vous le coupez en dés ou en rondelles pour la soupe et le scellez dans un sac Ziploc au congélateur (-18 °C), vous pourrez l'ajouter directement dans vos préparations chaudes."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Rettich/Radieschen richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Rettich basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Haben Sie schon einmal festen Rettich gekauft, nur um nach einigen Tagen festzustellen, dass er innen schwammig, hohl oder schrumpelig war? 🧊\n\nRettich besteht zu etwa 94 % aus Wasser. Wird er mit dem Grün gelagert, entziehen die Blätter der Knolle kontinuierlich Wasser und Nährstoffe, wodurch der Rettich pelzig und hohl wird. Ohne Feuchtigkeitsschutz verliert er rasch seine Knackigkeit.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Frische und Knackigkeit Ihres Rettichs bis zu 2 Monate zu bewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Schneiden Sie das Blättergrün sofort nach dem Kauf ab ✂️",
-                        "desc": "Das Blättergrün wächst weiter und entzieht der Knolle Wasser und Zucker. Bleibt das Grün dran, wird der Rettich innerhalb weniger Tage holzig und schwammig."
-                    },
-                    {
-                        "title": "Temperaturen unter 0 °C vermeiden (Frostschäden verhindern) ❄️",
-                        "desc": "Da Rettich größtenteils aus Wasser besteht, zerstören Temperaturen unter 0 °C die Zellwände. Nach dem Auftauen wird er matschig. Lagern Sie ihn stets bei 0–3 °C."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Blätteransatz abschneiden — Feuchtigkeits- und Nährstoffverlust stoppen 🪓",
-                        "text": "Dies ist der wichtigste erste Schritt gegen das Austrocknen. 💡 Lagerungstipp: Schneiden Sie den grünen Blätteransatz nahe der Knolle ab. Das Grün kann separat für Suppen genutzt werden."
-                    },
-                    {
-                        "name": "In Küchenpapier wickeln und eng mit Frischhaltefolie umhüllen — Feuchtigkeitsschutz 🧻",
-                        "text": "Ablaufen von Feuchtigkeit verhindern und vor Kondenswasser schützen ist entscheidend. 💡 Lagerungstipp: Reiben Sie ungewaschenen Rettich trocken ab, wickeln Sie ihn in Küchenpapier und dann lückenlos in Frischhaltefolie."
-                    },
-                    {
-                        "name": "Bei 0–3 °C im Kühlschrank lagern — Kühllagerung (30–60 Tage) 📦",
-                        "text": "Eingewickelter Rettich verlangsamt bei Kälte seine Atmung und bleibt knackig. 💡 Lagerungstipp: Bewahren Sie ihn im Gemüsefach des Kühlschranks (0–3 °C) auf, um ihn 1 bis 2 Monate knackig zu halten."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mein Rettich ist innen holzig/schwammig geworden. Kann man ihn noch essen?",
-                        "answer": "Ja, schwammiger Rettich ist gesundheitlich unbedenklich. Das Entstehen von Hohlräumen entsteht durch Wasserverlust. Für Rohkost ist er zwar nicht mehr ideal, eignet sich aber hervorragend für Suppen, Eintöpfe oder Brühen."
-                    },
-                    {
-                        "question": "Kann man Rettich einfrieren?",
-                        "answer": "Ein ganzer roher Rettich wird beim Einfrieren zerstört. Wenn Sie ihn jedoch in scheiben- oder würfelförmige Suppenstücke schneiden und luftdicht im Ziploc-Beutel einfrieren (-18 °C), können Sie ihn direkt in heiße Suppen geben."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar rábano/rábanos frescos: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para o rábano com base em diretrizes oficiais de segurança.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Você já comprou um rábano firme e crocante e descobriu dias depois que ele ficou esponjoso, oco ou murcho por dentro? 🧊\n\nO rábano contém até 94% de água. Quando armazenado com as folhas presas, elas continuam puxando água e açúcares da raiz, fazendo com que o rábano fique esponjoso e oco. Sem a retenção adequada de umidade, sua textura se deteriora rapidamente.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas recomendado por especialistas para manter seus rábanos frescos e crocantes por até 2 meses. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Corte as folhas/ramos imediatamente após a compra ✂️",
-                        "desc": "As folhas do rábano continuam crescendo e sugando a água e os nutrientes da raiz. Deixá-las presas faz o rábano ficar oco e fibroso em poucos dias."
-                    },
-                    {
-                        "title": "Evite temperaturas de congelamento abaixo de 0 °C (Evite danos por frio) ❄️",
-                        "desc": "Como o rábano é composto principalmente por água, temperaturas abaixo de 0 °C rompem suas paredes celulares, deixando-o mole ao descongelar. Mantenha sempre entre 0 e 3 °C."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Corte a parte superior com folhas — Evite a perda de água e nutrientes 🪓",
-                        "text": "Este é o primeiro passo essencial para conter a desidratação. 💡 Dica de conservação: Corte o topo das folhas perto da base do rábano. As folhas podem ser guardadas separadamente para consumo."
-                    },
-                    {
-                        "name": "Envolva em papel-toalha e embale em filme plástico — Retenção de umidade 🧻",
-                        "text": "Evitar a desidratação da casca e protegê-lo da condensação é fundamental. 💡 Dica de conservação: Limpe a terra do rábano sem lavar, envolva em papel-toalha ou jornal e vede firmemente com filme plástico."
-                    },
-                    {
-                        "name": "Armazenar a baixa temperatura (0 a 3 °C) — Refrigeração (30 a 60 dias) 📦",
-                        "text": "O rábano embalado desacelera sua respiração no frio, mantendo a crocância. 💡 Dica de conservação: Guarde os rábanos embalados na gaveta de legumes da geladeira (0–3 °C) por 1 a 2 meses."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Meu rábano ficou oco e esponjoso por dentro. Ainda é seguro comer?",
-                        "answer": "Sim, rábanos ocos são seguros para consumo. Isso ocorre devido à perda de água. Embora percam a textura ideal para saladas cruas, funcionam perfeitamente cozidos em sopas, ensopados ou caldos."
-                    },
-                    {
-                        "question": "Posso congelar o rábano para conservar por mais tempo?",
-                        "answer": "Congelar o rábano inteiro cru destrói sua estrutura. No entanto, se você cortar em cubos ou rodelas para sopa e guardar num saco Ziploc no freezer (-18 °C), pode adicionar direto nas preparações quentes."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Lobak agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk lobak berdasarkan pedoman keselamatan resmi.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Pernahkah Anda membeli lobak yang padat dan renyah, lalu mendapatinya menjadi lembek, berongga, atau keriput beberapa hari kemudian? 🧊\n\nLobak mengandung hingga 94% air. Jika disimpan bersama daunnya, daun lobak akan terus menyedot air dan gula dari bagian umbi, menyebabkan lobak menjadi gabus dan berongga. Tanpa perlindungan kelembapan yang tepat, teksturnya akan cepat rusak.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh pakar pertanian untuk menjaga kesegaran dan kerenyahan lobak Anda hingga 2 bulan. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Potong daun/batang hijau segera setelah dibeli ✂️",
-                        "desc": "Daun lobak terus tumbuh dan menyedot air serta nutrisi dari umbi lobak. Membiarkan daunnya menempel membuat lobak cepat gabus dan berongga dalam beberapa hari."
-                    },
-                    {
-                        "title": "Hindari suhu pembekuan di bawah 0°C (Cegah Kerusakan Pembekuan) ❄️",
-                        "desc": "Karena sebagian besar komponen lobak adalah air, suhu di bawah 0°C akan merusak dinding selnya, menjadikannya lembek berair saat dicairkan. Selalu jaga suhu dingin 0–3°C."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Potong bagian pangkal daun — Mencegah Kehilangan Air & Nutrisi 🪓",
-                        "text": "Ini adalah langkah pertama yang sangat penting untuk menghentikan dehidrasi. 💡 Tips Penyimpanan: Potong bagian atas daun dekat dengan umbi untuk menghilangkan titik tumbuh. Daunnya bisa disimpan terpisah untuk dimasak."
-                    },
-                    {
-                        "name": "Bungkus dengan tisu dapur lalu segel rapat dengan plastik wrap — Jaga Kelembapan 🧻",
-                        "text": "Mencegah penguapan air sekaligus melindungi lobak dari embun adalah kuncinya. 💡 Tips Penyimpanan: Bersihkan tanah dari lobak kering tanpa dicuci, bungkus dengan tisu dapur atau koran, lalu bungkus rapat dengan plastik wrap."
-                    },
-                    {
-                        "name": "Simpan pada suhu rendah 0–3°C — Penyimpanan Dingin (30–60 Hari) 📦",
-                        "text": "Lobak yang terbungkus rapat akan memperlambat respirasinya pada suhu dingin. 💡 Tips Penyimpanan: Simpan lobak di laci sayur kulkas pada suhu 0–3°C untuk menjaga kepadatan dan kerenyahannya selama 1 hingga 2 bulan."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Lobak saya menjadi gabus dan berongga di dalamnya. Apakah masih aman dimakan?",
-                        "answer": "Aman. Lobak yang berongga terjadi akibat kehilangan air dan tidak berbahaya bagi kesehatan. Meski teksturnya kurang cocok untuk salad mentah, lobak ini sangat cocok dimasak untuk sup, soto, atau olahan kuah."
-                    },
-                    {
-                        "question": "Apakah lobak bisa dibekukan di freezer?",
-                        "answer": "Membekukan lobak utuh mentah akan merusak teksturnya. Namun jika Anda memotongnya menjadi dadu atau irisan untuk sup lalu menyegelnya dalam kantong Ziploc di freezer (-18°C), Anda bisa langsung memasukkannya ke dalam masakan berkuah panas."
-                    }
-                ]
-            }
-        }
+  "how-to-store-radish": {
+    "ingId": "radish",
+    "pubDate": "2026-05-15",
+    "updatedDate": "2026-05-15",
+    "heroImage": "/images/blog/radish_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "무 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 무의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+        "intro": "단단하고 시원한 무를 사 왔는데, 얼마 지나지 않아 속이 텅 비고 푸석해지는 '바람'이 들거나 겉면이 쭈글쭈글해져 버려본 경험 다들 있으시죠? 🧊\n\n무는 수분 함량이 94%에 달하며, 보관 시 잎(무청)이 붙어있으면 잎이 무 뿌리의 수분과 영양소를 지속적으로 흡수하여 빠르게 바람이 들게 만듭니다. 적절한 수분을 유지하지 못하면 조직이 건조해지고 식감이 크게 떨어집니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 무의 아삭하고 시원한 식감을 최대 2개월 동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "구매 즉시 무청(무 줄기와 잎)을 잘라내세요 ✂️",
+            "desc": "무 잎은 생장이 지속되면서 무 뿌리 속에 들어있는 수분과 당분을 빠르게 빨아올립니다. 무청을 그대로 두면 며칠 만에 무 속이 스펀지처럼 비는 '바람드는 현상'이 일어납니다."
+          },
+          {
+            "title": "0℃ 이하에서 얼지 않도록 주의하세요 (동해 주의) ❄️",
+            "desc": "수분이 대부분인 무는 0℃ 이하에서 얼면 조직 내 세포벽이 파괴되어 해동 시 물바다가 되고 아삭한 식감을 영영 잃게 됩니다. 반드시 0~3℃의 적정 저온을 유지하세요."
+          }
+        ],
+        "steps": [
+          {
+            "name": "무청(잎) 잘라내기 — 영양소 및 수분 빼앗김 차단 🪓",
+            "text": "무 뿌리의 수분 손실을 막는 가장 첫 번째 핵심 단계입니다. 💡 보관 팁: 무 상단의 줄기와 잎 부분을 칼로 싹둑 잘라내어 생장점을 제거해 주세요. 잘라낸 무청은 시래기나 조림용으로 따로 보관해 활용하면 좋습니다."
+          },
+          {
+            "name": "키친타월로 싸고 랩으로 이중 포장하기 — 수분 증발 차단 🧻",
+            "text": "무 표면의 수분 증발을 막고 외부 결로로 인한 부패를 방지해야 합니다. 💡 보관 팁: 씻지 않은 무 표면의 흙을 털어낸 뒤, 키친타월이나 신문지로 한 번 감싸고 식품용 랩으로 빈틈없이 꽁꽁 감싸주세요."
+          },
+          {
+            "name": "0~3℃ 저온 냉장 보관하기 — 냉장 보관 (30~60일) 📦",
+            "text": "밀봉 포장된 무는 저온에서 호흡 작용이 둔화되어 오랫동안 신선함이 유지됩니다. 💡 보관 팁: 랩핑한 무를 냉장고 야채칸(0~3℃)에 보관해 주세요. 1~2개월 동안 속이 꽉 차고 아삭아삭한 상태가 유지됩니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "무에 바람이 들어 속이 텅 비고 푸석해졌는데 먹어도 되나요?",
+            "answer": "바람이 든 무는 수분이 빠져나가 조직에 구멍이 생긴 것으로, 유해한 것은 아니지만 식감이 푸석하고 단맛이 줄어듭니다. 생채나 무침용으로는 부적합하지만 국물 육수를 내거나 국, 감자탕, 생선조림 등에 푹 끓여 활용할 수 있습니다."
+          },
+          {
+            "question": "무를 냉동 보관할 수도 있나요?",
+            "answer": "통무를 그대로 얼리면 세포벽이 파괴되어 해동 후 사용할 수 없습니다. 하지만 찌개나 국용으로 먹기 좋게 썰거나 깍둑썰기 한 후 밀폐 지퍼백에 담아 냉동 보관(-18℃ 이하)하면 국거리용으로 편리하게 바로 사용할 수 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Store Radish Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for radishes based on official safety guidelines.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Have you ever bought a firm, crisp radish only to find it spongy, hollow, or wrinkled inside after a few days? 🧊\n\nRadishes contain up to 94% water. When stored with their leafy tops attached, the greens continuously pull water and sugars from the root, causing the radish to turn spongy and hollow (pithy). Without proper moisture retention, the texture rapidly deteriorates.\n\nIn this guide, introduces a scientifically proven 3-step radish storage guide recommended by agriculture and food safety experts to maintain crispness and sweet flavor for up to 2 months. 🛡️",
+        "whyTitle": "Why Store Radishes This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Cut off leafy tops/greens immediately after purchase ✂️",
+            "desc": "Radish greens continue to grow after harvest, rapidly siphoning moisture and nutrients from the root. Leaving the tops attached causes the radish to become pithy and spongy within days."
+          },
+          {
+            "title": "Avoid freezing temperatures below 0°C (Prevent Freezing Injury) ❄️",
+            "desc": "Because radishes consist mostly of water, temperatures below 0°C (32°F) rupture their cell walls, causing them to turn soft and mushy upon thawing. Always maintain cold temperatures at 0–3°C."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Slice off green tops — Prevent Moisture & Nutrient Depletion 🪓",
+            "text": "This is the crucial first step to stop dehydration. 💡 Storage Tip: Cut off the green leafy top close to the stem base to eliminate the growing point. You can store and cook the leafy greens separately."
+          },
+          {
+            "name": "Wrap with paper towels and tightly seal in plastic wrap — Block Moisture Evaporation 🧻",
+            "text": "Preventing surface dehydration while protecting against excess condensation is key. 💡 Storage Tip: Wipe dry dirt off the unwashed radish, wrap it in paper towels or newspaper, then seal tightly with food-grade plastic wrap without leaving gaps."
+          },
+          {
+            "name": "Refrigerate at 0–3°C — Cold Storage (30–60 Days) 📦",
+            "text": "Sealed radishes slow down their respiration at low temperatures, locking in crispness. 💡 Storage Tip: Keep wrapped radishes in the refrigerator crisper drawer (0–3°C / 32–37°F) to retain firmness for 1 to 2 months."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "My radish turned spongy and hollow (pithy) inside. Is it still safe to eat?",
+            "answer": "Yes, pithy radishes are safe to eat. Pithiness occurs when water loss creates air pockets inside the root tissue. While unsuitable for raw salads or pickles due to texture loss, pithy radishes work well when simmered in soups, stews, or broths."
+          },
+          {
+            "question": "Can I freeze radishes for long-term storage?",
+            "answer": "Freezing a whole raw radish ruins its structure. However, slicing or dicing the radish into soup-sized pieces and sealing them in Ziploc bags allows you to freeze them (-18°C or below) for easy addition directly into hot soups and stews."
+          }
+        ]
+      },
+      "ja": {
+        "title": "大根を新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づく大根の最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "みずみずしく固い大根を買ってきたのに、しばらく経つと中がすかすか（すが入る）になったり皮がシワシワになってしまった経験はありませんか？🧊\n\n大根は水分含有量が約94%と高く、葉がついたまま保存すると葉が大根の根から水分と栄養分を吸い上げて急速に「す」が入る原因になります。適切な水分保持を行わないと組織が乾燥し食感が損なわれます。\n\n本記事では、農学および食品安全の専門家が推奨する、大根のみずみずしさとシャキシャキ感を最大2ヶ月間キープする3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "購入後すぐに葉（大根の葉）を切り落としてください ✂️",
+            "desc": "大根の葉は成長を続け、根に含まれる水分や糖分を急速に吸い上げます。葉をつけたままにすると数日で中に空洞ができる「すが入る現象」が起こります。"
+          },
+          {
+            "title": "0℃以下の凍結に注意してください（凍害防止） ❄️",
+            "desc": "成分のほとんどが水分の stem は、0℃以下で凍結すると細胞壁が破壊され、解凍時に水分が抜けて食感が完全に失われます。必ず0〜3℃の低温を維持してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "葉（ヘタ）を切り落とす — 栄養と水分の吸収を遮断 🪓",
+            "text": "水分蒸発を防ぐ最優先のステップです。💡保存のコツ：包丁で大根の上部の葉を切り落とし、生長点をなくしてください。切り落とした葉は炒め物や味噌汁の具として別保存できます。"
+          },
+          {
+            "name": "キッチンペーパーで包みラップで二重包装する — 水分蒸発の防止 🧻",
+            "text": "表面の乾燥を防ぎつつ、結露による傷みを防ぎます。💡保存のコツ：洗わずに汚れを拭き取った大根をキッチンペーパーや新聞紙で包み、食品用ラップで隙間なくぴったり包んでください。"
+          },
+          {
+            "name": "0〜3℃の低温で冷蔵保存する — 冷蔵保存 (30〜60日間) 📦",
+            "text": "ラップで密閉した大根は低温で呼吸が抑えられ、長期間みずみずしさを保ちます。💡保存のコツ：ラッピングした大根を冷蔵庫の野菜室（0〜3℃）で保存してください。1〜2ヶ月間シャキシャキ感が長持ちします。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "「す」が入ってスカスカになった大根は食べられますか？",
+            "answer": "はい、「す」が入った大根は水分が抜けた状態で体に害はありません。ただしパサついて甘みが減るため、生食や刺身のツマには不向きです。味噌汁や煮物、スープにじっくり煮込んで使うのがおすすめです。"
+          },
+          {
+            "question": "大根を冷凍保存することはできますか？",
+            "answer": "丸ごとの生のまま冷凍すると細胞が破壊されて使えなくなります。しかし、いちょう切りや大根おろし、スープ用の角切りにして密閉袋で冷凍保存（-18℃以下）すれば、煮物や汁物にそのまま使えて便利です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持萝卜新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解萝卜的最佳储存温度、方式和保鲜时长。",
+        "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "您是否买回结实多汁的白萝卜，放了几天却发现里面发糠（变空心）、表皮起皱？🧊\n\n萝卜的含水量高达94%左右。如果在保存时连同萝卜叶（萝卜缨）一起存放，叶子会持续吸收萝卜根部的水分和糖分，导致萝卜迅速发糠。若未能妥善锁水，萝卜组织会干瘪失水，失去爽脆口感。\n\n本指南将为您介绍由农业及食品安全专家推荐的3步科学萝卜保鲜秘诀，帮您锁定萝卜的多汁与爽脆长达2个月。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "买回家后请立即切除萝卜叶（头部绿缨） ✂️",
+            "desc": "萝卜叶在采摘后仍会生长，并快速抽走萝卜根部的水分和营养。保留叶子会导致萝卜在数天内迅速空心发糠。"
+          },
+          {
+            "title": "注意避免0℃以下的冻害 ❄️",
+            "desc": "水分极高的萝卜在0℃以下结冰会导致细胞壁破裂，解冻后会严重渗水并失去爽脆口感。请务必维持0~3℃的低适温。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "切除顶部萝卜叶 — 阻断水分与营养抽干 🪓",
+            "text": "这是防止萝卜水分流失的最关键一步。💡储存小贴士：用刀将萝卜顶部的叶子及茎部切除，破坏生长点。切下的萝卜叶可单独保鲜用于炒菜或煲汤。"
+          },
+          {
+            "name": "用厨房纸巾包裹并用保鲜膜紧密无缝包裹 — 阻绝水分蒸发 🧻",
+            "text": "既要防止萝卜表面水分蒸发，又要避免外部凝结水珠导致腐烂。💡储存小贴士：擦干未清洗萝卜表面的泥土，用厨房纸巾或报纸包裹，再用食品级保鲜膜无缝紧密裹紧。"
+          },
+          {
+            "name": "0~3℃ 低温冷藏保存 — 冷藏储存 (30~60天) 📦",
+            "text": "密封包裹的萝卜在低温下呼吸作用减缓，能长久保持新鲜。💡储存小贴士：将裹好的萝卜放入冰箱蔬菜抽屉（0~3℃）保存，可保持紧实爽脆长达1~2个月。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "萝卜发糠（变空心）了还能吃吗？",
+            "answer": "发糠是水分流失导致组织产生空隙的现象，对人体无害，可以食用。虽然口感变渣、甜味减少不适合生食或凉拌，但非常适合炖汤、煮火锅或做焖菜使用。"
+          },
+          {
+            "question": "萝卜可以冷冻保存吗？",
+            "answer": "整颗生萝卜直接冷冻会导致细胞壁破裂破坏质地。但如果切成适口块状、薄片或做成萝卜丝后装入密封拉链袋中冷冻（-18℃以下），可以直接下锅煲汤，非常方便。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener el rábano/daikon fresco: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el rábano según las directrices oficiales de seguridad.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "¿Alguna vez compró un rábano firme y crujiente solo para descubrir que días después estaba esponjoso, hueco o arrugado por dentro? 🧊\n\nLos rábanos contienen hasta un 94% de agua. Cuando se almacenan con las hojas verdes adheridas, estas extraen continuamente el agua y los azúcares de la raíz, haciendo que el rábano se vuelva fofo o hueco. Sin una retención adecuada de la humedad, la textura se deteriora rápidamente.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria para mantener la frescura y la textura crujiente de sus rábanos hasta por 2 meses. 🛡️",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Corte las hojas/tallos inmediatamente tras la compra ✂️",
+            "desc": "Las hojas del rábano continúan creciendo y absorbiendo el agua y los nutrientes de la raíz. Dejarlas unidas provoca que el rábano se vuelva ahuecado y fofo en pocos días."
+          },
+          {
+            "title": "Evite temperaturas de congelación inferiores a 0 °C (Evite congelación) ❄️",
+            "desc": "Dado que el rábano consiste mayoritariamente en agua, las temperaturas bajo 0 °C rompen las paredes celulares, dejándolo blando al descongelar. Mantenga siempre temperaturas de 0 a 3 °C."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Corte el tallo verde superior — Evite la pérdida de agua y nutrientes 🪓",
+            "text": "Este es el primer paso indispensable para frenar la deshidratación. 💡 Consejo de almacenamiento: Corte la parte superior de las hojas cerca de la base para eliminar el punto de crecimiento. Puede guardar las hojas por separado para cocinar."
+          },
+          {
+            "name": "Envuelva en papel de cocina y selle firmemente con film plástico — Retenga la humedad 🧻",
+            "text": "Evitar la deshidratación superficial y protegerlo de la condensación es clave. 💡 Consejo de almacenamiento: Limpie la tierra del rábano sin lavarlo, envuélvalo en papel de cocina o periódico y fíjelo herméticamente con film transparente."
+          },
+          {
+            "name": "Conserve a baja temperatura (0 a 3 °C) — Almacenamiento refrigerado (30 a 60 días) 📦",
+            "text": "El rábano sellado ralentiza su respiración a temperaturas bajas, conservando su textura. 💡 Consejo de almacenamiento: Guarde los rábanos envueltos en el cajón de verduras del refrigerador (0–3 °C) para mantener la firmeza de 1 a 2 meses."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mi rábano se volvió ahuecado y fofo por dentro. ¿Es seguro comerlo?",
+            "answer": "Sí, los rábanos ahuecados son seguros para comer. Este fenómeno ocurre por deshidratación. Aunque pierden la firmeza ideal para ensaladas, funcionan perfectamente al cocinarse en sopas, guisos o caldos."
+          },
+          {
+            "question": "¿Se pueden congelar los rábanos para conservarlos por más tiempo?",
+            "answer": "Congelar un rábano entero crudo destruye su estructura. Sin embargo, si se corta en dados o rodajas para sopa y se guarda sellado en bolsas Ziploc, puede congelarse (-18 °C o menos) y agregarse directamente a cocciones calientes."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver le radis/daïkon frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le radis selon les directives officielles de sécurité.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Avez-vous déjà acheté un radis bien ferme pour constater quelques jours plus tard qu'il était devenu spongieux, creux ou flétri ? 🧊\n\nLe radis contient jusqu'à 94 % d'eau. Lorsqu'il est conservé avec ses fanes (feuilles), celles-ci continuent d'absorber l'eau et les sucres de la racine, rendant le radis creux et fanné. Sans un bon maintien de l'humidité, sa texture se détériore rapidement.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts pour maintenir le croquant et la fraîcheur de vos radis jusqu'à 2 mois. 🛡️",
+        "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Coupez immédiatement les fanes (feuilles) après l'achat ✂️",
+            "desc": "Les fanes de radis continuent de pousser et pompent l'eau et les nutriments de la racine. Les laisser attachées rend le radis creux et spongieux en quelques jours."
+          },
+          {
+            "title": "Évitez les températures sous 0 °C (Attention au gel) ❄️",
+            "desc": "Composé essentiellement d'eau, le radis exposé à des températures négatives voit ses parois cellulaires éclater, le rendant mou à la décongélation. Maintenez une température entre 0 et 3 °C."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Couper le collet et les fanes — Stopper la déshydratation 🪓",
+            "text": "C'est l'étape essentielle pour éviter la perte d'eau. 💡 Astuce de conservation : Coupez le haut avec les feuilles près du collet pour éliminer le point de croissance. Les fanes peuvent être cuisinées séparément."
+          },
+          {
+            "name": "Envelopper dans du papier essuie-tout puis dans du film étirable — Maintien de l'humidité 🧻",
+            "text": "Éviter la déshydratation tout en protégeant de la condensation est la clé. 💡 Astuce de conservation : Essuyez la terre du radis sans le laver, enveloppez-le dans du papier essuie-tout puis scellez-le fermement dans du film plastique."
+          },
+          {
+            "name": "Conserver à basse température (0 à 3 °C) — Stockage réfrigéré (30 à 60 jours) 📦",
+            "text": "Le radis emballé ralentit sa respiration au froid, préservant son croquant. 💡 Astuce de conservation : Conservez les radis ainsi emballés dans le bac à légumes (0–3 °C) pour les garder fermes pendant 1 à 2 mois."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mon radis est devenu creux et spongieux à l'intérieur. Est-il encore consommable ?",
+            "answer": "Oui, un radis creux reste propre à la consommation. Ce phénomène est dû à la déshydratation. Bien qu'il ne soit plus adapté aux salades crues, il convient très bien cuit dans des soupes, potages ou mijotés."
+          },
+          {
+            "question": "Peut-on congeler le radis ?",
+            "answer": "Congeler un radis entier cru détruit sa structure. En revanche, si vous le coupez en dés ou en rondelles pour la soupe et le scellez dans un sac Ziploc au congélateur (-18 °C), vous pourrez l'ajouter directement dans vos préparations chaudes."
+          }
+        ]
+      },
+      "de": {
+        "title": "Rettich/Radieschen richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Rettich basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Haben Sie schon einmal festen Rettich gekauft, nur um nach einigen Tagen festzustellen, dass er innen schwammig, hohl oder schrumpelig war? 🧊\n\nRettich besteht zu etwa 94 % aus Wasser. Wird er mit dem Grün gelagert, entziehen die Blätter der Knolle kontinuierlich Wasser und Nährstoffe, wodurch der Rettich pelzig und hohl wird. Ohne Feuchtigkeitsschutz verliert er rasch seine Knackigkeit.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Frische und Knackigkeit Ihres Rettichs bis zu 2 Monate zu bewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Schneiden Sie das Blättergrün sofort nach dem Kauf ab ✂️",
+            "desc": "Das Blättergrün wächst weiter und entzieht der Knolle Wasser und Zucker. Bleibt das Grün dran, wird der Rettich innerhalb weniger Tage holzig und schwammig."
+          },
+          {
+            "title": "Temperaturen unter 0 °C vermeiden (Frostschäden verhindern) ❄️",
+            "desc": "Da Rettich größtenteils aus Wasser besteht, zerstören Temperaturen unter 0 °C die Zellwände. Nach dem Auftauen wird er matschig. Lagern Sie ihn stets bei 0–3 °C."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Blätteransatz abschneiden — Feuchtigkeits- und Nährstoffverlust stoppen 🪓",
+            "text": "Dies ist der wichtigste erste Schritt gegen das Austrocknen. 💡 Lagerungstipp: Schneiden Sie den grünen Blätteransatz nahe der Knolle ab. Das Grün kann separat für Suppen genutzt werden."
+          },
+          {
+            "name": "In Küchenpapier wickeln und eng mit Frischhaltefolie umhüllen — Feuchtigkeitsschutz 🧻",
+            "text": "Ablaufen von Feuchtigkeit verhindern und vor Kondenswasser schützen ist entscheidend. 💡 Lagerungstipp: Reiben Sie ungewaschenen Rettich trocken ab, wickeln Sie ihn in Küchenpapier und dann lückenlos in Frischhaltefolie."
+          },
+          {
+            "name": "Bei 0–3 °C im Kühlschrank lagern — Kühllagerung (30–60 Tage) 📦",
+            "text": "Eingewickelter Rettich verlangsamt bei Kälte seine Atmung und bleibt knackig. 💡 Lagerungstipp: Bewahren Sie ihn im Gemüsefach des Kühlschranks (0–3 °C) auf, um ihn 1 bis 2 Monate knackig zu halten."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mein Rettich ist innen holzig/schwammig geworden. Kann man ihn noch essen?",
+            "answer": "Ja, schwammiger Rettich ist gesundheitlich unbedenklich. Das Entstehen von Hohlräumen entsteht durch Wasserverlust. Für Rohkost ist er zwar nicht mehr ideal, eignet sich aber hervorragend für Suppen, Eintöpfe oder Brühen."
+          },
+          {
+            "question": "Kann man Rettich einfrieren?",
+            "answer": "Ein ganzer roher Rettich wird beim Einfrieren zerstört. Wenn Sie ihn jedoch in scheiben- oder würfelförmige Suppenstücke schneiden und luftdicht im Ziploc-Beutel einfrieren (-18 °C), können Sie ihn direkt in heiße Suppen geben."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar rábano/rábanos frescos: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para o rábano com base em diretrizes oficiais de segurança.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Você já comprou um rábano firme e crocante e descobriu dias depois que ele ficou esponjoso, oco ou murcho por dentro? 🧊\n\nO rábano contém até 94% de água. Quando armazenado com as folhas presas, elas continuam puxando água e açúcares da raiz, fazendo com que o rábano fique esponjoso e oco. Sem a retenção adequada de umidade, sua textura se deteriora rapidamente.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas recomendado por especialistas para manter seus rábanos frescos e crocantes por até 2 meses. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Corte as folhas/ramos imediatamente após a compra ✂️",
+            "desc": "As folhas do rábano continuam crescendo e sugando a água e os nutrientes da raiz. Deixá-las presas faz o rábano ficar oco e fibroso em poucos dias."
+          },
+          {
+            "title": "Evite temperaturas de congelamento abaixo de 0 °C (Evite danos por frio) ❄️",
+            "desc": "Como o rábano é composto principalmente por água, temperaturas abaixo de 0 °C rompem suas paredes celulares, deixando-o mole ao descongelar. Mantenha sempre entre 0 e 3 °C."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Corte a parte superior com folhas — Evite a perda de água e nutrientes 🪓",
+            "text": "Este é o primeiro passo essencial para conter a desidratação. 💡 Dica de conservação: Corte o topo das folhas perto da base do rábano. As folhas podem ser guardadas separadamente para consumo."
+          },
+          {
+            "name": "Envolva em papel-toalha e embale em filme plástico — Retenção de umidade 🧻",
+            "text": "Evitar a desidratação da casca e protegê-lo da condensação é fundamental. 💡 Dica de conservação: Limpe a terra do rábano sem lavar, envolva em papel-toalha ou jornal e vede firmemente com filme plástico."
+          },
+          {
+            "name": "Armazenar a baixa temperatura (0 a 3 °C) — Refrigeração (30 a 60 dias) 📦",
+            "text": "O rábano embalado desacelera sua respiração no frio, mantendo a crocância. 💡 Dica de conservação: Guarde os rábanos embalados na gaveta de legumes da geladeira (0–3 °C) por 1 a 2 meses."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Meu rábano ficou oco e esponjoso por dentro. Ainda é seguro comer?",
+            "answer": "Sim, rábanos ocos são seguros para consumo. Isso ocorre devido à perda de água. Embora percam a textura ideal para saladas cruas, funcionam perfeitamente cozidos em sopas, ensopados ou caldos."
+          },
+          {
+            "question": "Posso congelar o rábano para conservar por mais tempo?",
+            "answer": "Congelar o rábano inteiro cru destrói sua estrutura. No entanto, se você cortar em cubos ou rodelas para sopa e guardar num saco Ziploc no freezer (-18 °C), pode adicionar direto nas preparações quentes."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Lobak agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk lobak berdasarkan pedoman keselamatan resmi.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Pernahkah Anda membeli lobak yang padat dan renyah, lalu mendapatinya menjadi lembek, berongga, atau keriput beberapa hari kemudian? 🧊\n\nLobak mengandung hingga 94% air. Jika disimpan bersama daunnya, daun lobak akan terus menyedot air dan gula dari bagian umbi, menyebabkan lobak menjadi gabus dan berongga. Tanpa perlindungan kelembapan yang tepat, teksturnya akan cepat rusak.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh pakar pertanian untuk menjaga kesegaran dan kerenyahan lobak Anda hingga 2 bulan. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Potong daun/batang hijau segera setelah dibeli ✂️",
+            "desc": "Daun lobak terus tumbuh dan menyedot air serta nutrisi dari umbi lobak. Membiarkan daunnya menempel membuat lobak cepat gabus dan berongga dalam beberapa hari."
+          },
+          {
+            "title": "Hindari suhu pembekuan di bawah 0°C (Cegah Kerusakan Pembekuan) ❄️",
+            "desc": "Karena sebagian besar komponen lobak adalah air, suhu di bawah 0°C akan merusak dinding selnya, menjadikannya lembek berair saat dicairkan. Selalu jaga suhu dingin 0–3°C."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Potong bagian pangkal daun — Mencegah Kehilangan Air & Nutrisi 🪓",
+            "text": "Ini adalah langkah pertama yang sangat penting untuk menghentikan dehidrasi. 💡 Tips Penyimpanan: Potong bagian atas daun dekat dengan umbi untuk menghilangkan titik tumbuh. Daunnya bisa disimpan terpisah untuk dimasak."
+          },
+          {
+            "name": "Bungkus dengan tisu dapur lalu segel rapat dengan plastik wrap — Jaga Kelembapan 🧻",
+            "text": "Mencegah penguapan air sekaligus melindungi lobak dari embun adalah kuncinya. 💡 Tips Penyimpanan: Bersihkan tanah dari lobak kering tanpa dicuci, bungkus dengan tisu dapur atau koran, lalu bungkus rapat dengan plastik wrap."
+          },
+          {
+            "name": "Simpan pada suhu rendah 0–3°C — Penyimpanan Dingin (30–60 Hari) 📦",
+            "text": "Lobak yang terbungkus rapat akan memperlambat respirasinya pada suhu dingin. 💡 Tips Penyimpanan: Simpan lobak di laci sayur kulkas pada suhu 0–3°C untuk menjaga kepadatan dan kerenyahannya selama 1 hingga 2 bulan."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Lobak saya menjadi gabus dan berongga di dalamnya. Apakah masih aman dimakan?",
+            "answer": "Aman. Lobak yang berongga terjadi akibat kehilangan air dan tidak berbahaya bagi kesehatan. Meski teksturnya kurang cocok untuk salad mentah, lobak ini sangat cocok dimasak untuk sup, soto, atau olahan kuah."
+          },
+          {
+            "question": "Apakah lobak bisa dibekukan di freezer?",
+            "answer": "Membekukan lobak utuh mentah akan merusak teksturnya. Namun jika Anda memotongnya menjadi dadu atau irisan untuk sup lalu menyegelnya dalam kantong Ziploc di freezer (-18°C), Anda bisa langsung memasukkannya ke dalam masakan berkuah panas."
+          }
+        ]
+      }
     }
+  }
 }

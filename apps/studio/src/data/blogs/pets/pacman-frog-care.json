@@ -1,459 +1,459 @@
 {
-    "pacman-frog-care": {
-        "pubDate": "2026-07-08",
-        "updatedDate": "2026-07-08",
-        "locales": {
-            "ko": {
-                "title": "팩맨 뿔개구리의 행동 신호 해석과 임팩션(장막힘) 및 수포병(Red Leg) 예방을 위한 3단계 데일리 케어",
-                "description": "동그란 몸과 커다란 입이 매력적인 양서류 팩맨 뿔개구리(Pacman Frog). 버로우 및 발가락 흔들기 신호 해석, 수질·습도 관리, 임팩션과 수포병 예방을 위한 3단계 홈케어 루틴을 소개합니다.",
-                "authority": "ARAV (세계 파충류·양서류 수의사회) 및 Amphibian Ark 케어 프로토콜",
-                "profile": {
-                    "breed": "팩맨 뿔개구리 (Pacman Frog / Ceratophrys)",
-                    "lifespan": "10 ~ 15년 (올바른 케어 시 15년 이상)",
-                    "sleep_pattern": "12 ~ 14시간 (야행성, 낮 동안 매립 버로우 상태 수면)",
-                    "temperament": "매복 포식성, 매복 정적임, 식탐 강함, 예민한 피부, 핸들링 최소화 필요"
-                },
-                "intro": "고전 게임 캐릭터를 닮은 커다란 입과 동그란 체형을 지닌 팩맨 뿔개구리(Pacman Frog / Ceratophrys)는 독특한 외모와 사육의 재미로 전 세계 사육자들에게 사랑받는 대표적인 양서류입니다. 땅속에 몸을 묻고 지나가는 먹이를 기다리는 매복 포식자(Ambush Predator)인 팩맨은 엄청난 식탐을 자랑하지만, 삼킨 바닥재나 과도한 크기의 먹이로 인해 장이 막히는 '임팩션(Impaction)'에 매우 취약합니다. 또한 양서류 특유의 반투과성 피부를 통해 수분과 화학물질을 직접 흡수하므로 수질 오염이나 세균 감염 시 치명적인 '수포병/적다리병(Red Leg Disease)' 및 중독 증상이 발생할 수 있습니다. 이번 가이드에서는 팩맨 뿔개구리의 행동 신호를 정확히 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
-                "whyTitle": "팩맨 뿔개구리의 바디 랭귀지: 버로우(Burrowing / Estivation)와 뒷발가락 떨기(Pedal Luring)",
-                "whyDesc": "팩맨 뿔개구리는 버로우 상태와 발가락의 미세한 움직임으로 환경적 상태와 먹이 유인 신호를 표현합니다. 몸을 바닥재 깊숙이 묻고 눈만 내놓거나 피막을 형성하는 **'버로우(Burrowing / Estivation)'**는 정상적인 휴식이거나 습도 부족·온도 저하에 대응하는 생존 반응입니다. 반면 먹이를 발견했을 때 뒷발가락 끝을 애벌레처럼 유연하게 경련하듯 떠는 **'뒷발가락 떨기(Pedal Luring)'**는 먹이를 유인하여 사냥 준비를 마쳤다는 포식 신호입니다.",
-                "body_signals": [
-                    {
-                        "name": "몸 전체를 코코핏 등 바닥재 속으로 완전히 묻음 (Deep Burrowing / Estivation)",
-                        "meaning": "야행성 휴식 행동이거나, 사육장 내 습도 부족 및 건조한 환경으로부터 피부 수분을 지키려는 방어 반응입니다.",
-                        "response": "분무기로 바닥재 습도(70~80%)를 즉시 점검하고, 코코핏이 바싹 마르지 않도록 수분을 공급합니다."
-                    },
-                    {
-                        "name": "먹이를 바라보며 뒷발가락 끝을 가늘게 미세하게 떪 (Pedal Luring)",
-                        "meaning": "먹이를 시각적으로 인식하고 사냥 본능이 자극되어 먹이를 유인하는 자연스러운 조준 행동입니다.",
-                        "response": "손으로 직접 급여하지 말고 긴 전용 핀셋을 사용하여 안전하게 적정 크기의 먹이를 제공합니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 사육장 온·습도 점검(24~28°C, 70~80%) 및 염소 제거된 깨끗한 물 그릇 교체",
-                        "text": "피부 흡수 독성을 막기 위해 반드시 하루 이상 묵힌 수돗물이나 정수된 물을 사용하고, 물그릇을 깨끗이 세척하여 교체합니다."
-                    },
-                    {
-                        "name": "낮: 바닥재 위생 상태 확인 및 피부 질환(수포병) 예방을 위한 배설물 즉시 제거",
-                        "text": "배설물에서 나오는 암모니아와 세균에 의한 적다리병(Red Leg)을 예방하기 위해 오염된 바닥재 구역을 즉시 제거합니다."
-                    },
-                    {
-                        "name": "저녁: 임팩션 방지용 소화 용이한 먹이(칼슘 파우더 첨가) 급여 및 야간 안정을 위한 암막 유지",
-                        "text": "개구리 머리 크기의 1/2 이하 먹이(핑키, 개구리 전용 푸드)를 급여하고, 바닥재를 삼키지 않도록 루바망이나 깔개 위에서 정량 급여합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "팩맨 개구리를 맨손으로 만지면 왜 안 되나요?",
-                        "answer": "양서류인 팩맨의 피부는 수분과 기체를 직접 흡수하는 반투과성 조직입니다. 사람 손의 염분, 화장품 잔여물, 세균은 개구리 피부를 통해 체내로 즉시 흡수되어 중독을 일으키며, 사람의 체온(36.5°C)은 팩맨에게 심각한 화상을 입힐 수 있습니다. 핸들링은 가급적 피하고, 필요시 파충류 전용 장갑을 착용하거나 라텍스 장갑을 낀 후 깨끗한 물을 적셔 다뤄야 합니다."
-                    },
-                    {
-                        "question": "팩맨이 먹이를 먹은 후 배가 부풀어 오르고 며칠째 변을 보지 않는데 임팩션인가요?",
-                        "answer": "임팩션(Impaction)일 가능성이 높습니다. 바닥재(코코핏, 자갈)를 함께 삼켰거나 단단한 뼈·갑각이 있는 과도한 크기의 먹이를 먹었을 때 장이 막히는 질환입니다. 즉시 미지근한 물(27~29°C)에 무릎 높이까지 차오르도록 하여 15~20분간 미온수 목욕(온수욕)을 시켜 장 운동을 유도해야 하며, 배에 단단한 덩어리가 잡히고 기운이 없다면 수의사의 진료가 필요합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Pacman Frog Behavioral Signals and 3-Step Daily Routine for Impaction and Red Leg Disease Prevention",
-                "description": "Care guide for the iconic Pacman Frog. Interpret burrowing and pedal luring signals, manage dechlorinated water and humidity, and prevent fatal impaction and Red Leg disease in 3 steps.",
-                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Amphibian Ark Care Standards",
-                "profile": {
-                    "breed": "Pacman Frog (Ceratophrys)",
-                    "lifespan": "10 - 15 Years (15+ years with optimal care)",
-                    "sleep_pattern": "12 - 14 Hours (Nocturnal, sleeps burrowed underground during the day)",
-                    "temperament": "Ambush Predator, Sedentary, Highly Voracious, Delicate Skin, Minimal Handling Required"
-                },
-                "intro": "Famous for their round bodies and oversized mouths resembling the classic arcade character, the Pacman Frog (Ceratophrys) is a beloved terrestrial amphibian kept worldwide. As sedentary ambush predators that bury themselves in substrate waiting for prey, Pacman Frogs possess voracious appetites. However, they are extremely vulnerable to intestinal impaction caused by ingesting substrate or oversized prey. Furthermore, because amphibians possess semi-permeable skin that directly absorbs water, electrolytes, and toxins, poor water quality or bacterial contamination can cause fatal Red Leg Disease and toxic shock. In this guide, presents a 3-step daily care routine to decode your Pacman Frog's body language and protect its health.",
-                "whyTitle": "Pacman Frog Body Language: Deep Burrowing (Estivation) and Pedal Luring",
-                "whyDesc": "Pacman Frogs communicate environmental needs and hunting readiness through burrowing depth and subtle toe movements. Burying their entire body beneath the substrate **'Deep Burrowing / Estivation'** is a natural resting behavior or a protective response against low ambient humidity. Conversely, twitching the tips of their hind toes in a worm-like motion while staring at prey **'Pedal Luring'** is a predatory signal indicating they have locked onto prey and are ready to strike.",
-                "body_signals": [
-                    {
-                        "name": "Burying Entire Body Deep into Substrate (Deep Burrowing / Estivation)",
-                        "meaning": "Normal nocturnal resting or a protective defense mechanism triggered by dry conditions to preserve skin moisture.",
-                        "response": "Check substrate moisture and ambient humidity (70–80%) immediately, misting to prevent cocoon formation or dehydration."
-                    },
-                    {
-                        "name": "Rhythmically Twitching Tips of Hind Toes while Fixing Gaze on Prey (Pedal Luring)",
-                        "meaning": "An instinctual predatory behavior used to lure prey closer before striking.",
-                        "response": "Never feed by hand; use long, blunt-tipped feeding tongs to present appropriately sized prey safely."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Climate Check (24–28°C, 70–80% Humidity) & Dechlorinated Water Dish Replacement",
-                        "text": "Replace water dish daily using treated dechlorinated water, as tap chlorine and heavy metals are absorbed directly through skin."
-                    },
-                    {
-                        "name": "Afternoon: Substrate Hygiene Spot-Check & Waste Removal to Prevent Red Leg Disease",
-                        "text": "Promptly scoop feces and urates to eliminate ammonia buildup and bacterial proliferation responsible for bacterial dermatosepticemia."
-                    },
-                    {
-                        "name": "Evening: Impaction-Safe Feeding with Calcium Supplementation & Quiet Dark Environment",
-                        "text": "Feed feeder items smaller than half their head size on a clean rubber mat or feeding dish to prevent substrate ingestion."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why should I never handle my Pacman Frog with bare hands?",
-                        "answer": "Pacman Frogs have highly sensitive, semi-permeable skin that absorbs water, oils, salts, lotions, and bacteria directly into their bloodstream, leading to systemic toxicity. Additionally, human body temperature (37°C) is hot enough to cause thermal stress or burns. Handling should be avoided; if necessary, use powder-free latex gloves moistened with dechlorinated water."
-                    },
-                    {
-                        "question": "My Pacman Frog swallowed substrate, has a bloated abdomen, and hasn't defecated; is it impaction?",
-                        "answer": "Intestinal impaction is a serious risk when Pacman Frogs ingest substrate (coco coir, moss, gravel) or hard-shelled prey. Prepare a shallow lukewarm bath (27–29°C) filled up to their chin height for 15–20 minutes to stimulate bowel movement. If the abdomen remains hard or lethargy persists, consult an exotic veterinarian immediately."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ベルツノガエル（パックマンフロッグ）の行動サイン解読と腸詰まり(インパクション)・赤脚病(Red Leg)予防のための3ステップデイリールーティン",
-                "description": "まんまるな体と大きな口が魅力のツノガエル（パックマンフロッグ）。潜り込み（バーロウ）や足指ピクピクの解読、水質・湿度管理、インパクション・赤脚病予防のための3ステップホームケアを紹介します。",
-                "authority": "ARAV（世界爬虫類・両生類獣医師会）およびAmphibian Ark飼育基準",
-                "profile": {
-                    "breed": "パックマンフロッグ / ツノガエル (Ceratophrys)",
-                    "lifespan": "10 〜 15年 (適切なケアで15年以上)",
-                    "sleep_pattern": "12 〜 14時間 (夜行性、昼間は地中に潜って休む)",
-                    "temperament": "待ち伏せ型捕食者、静的、非常に旺盛な食欲、繊細な皮膚、ハンドリング非推奨"
-                },
-                "intro": "ゲームキャラのような丸い体と大きな口が特徴のパックマンフロッグ（ツノガエル / Ceratophrys）は、世界中で愛されている陸棲両生類です。地中に身を潜めて獲物を待つ待ち伏せ型捕食者（Ambush Predator）で、強烈な食欲を誇りますが、誤って飲んだ床材や過大な餌による腸閉塞「インパクション（Impaction）」に非常に脆弱です。また両生類特有の半透膜皮膚を通じて水分や化学物質を直接吸収するため、水質汚染や細菌感染により致死的な「赤脚病（Red Leg Disease）」や中毒を起こします。本記事では、ツノガエルのサインを解読し健康を守る3ステップルーティンをお届けします。",
-                "whyTitle": "パックマンフロッグのボディランゲージ：バーロウ(Burrowing / 休眠)と後脚指の誘引運動(Pedal Luring)",
-                "whyDesc": "ツノガエルは潜り込みの深さと足指の微細な動きで環境状態と捕食サインを表現します。床材の深くへ全身を潜らせる**「バーロウ（Burrowing / Estivation）」**は正常な休息、または湿度の低下・乾燥から身を守る防衛反応です。一方、獲物を見つめながら後脚の指先を虫のようにピクピクと動かす**「後脚指の誘引運動（Pedal Luring）」**は、獲物を引き寄せて襲いかかる準備が整った捕食サインです。",
-                "body_signals": [
-                    {
-                        "name": "全身を床材の深くまで完全に潜らせる (Deep Burrowing / Estivation)",
-                        "meaning": "夜行性の休息行動、またはケージ内の乾燥から皮膚の水分を守ろうとする防衛反応です。",
-                        "response": "すぐに床材の湿度（70〜80%）を確認し、霧吹きで十分な水分を補給してください。"
-                    },
-                    {
-                        "name": "獲物を凝視しながら後脚の指先を微細にピクピク動かす (Pedal Luring)",
-                        "meaning": "獲物を認識し、捕食本能が刺激されて獲物を誘い出す自然な捕食動作です。",
-                        "response": "素手で与えず、先の丸い長めの給餌用ピンセットで適切なサイズの餌を安全に与えてください。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：温湿度チェック（24〜28℃、70〜80%）とカルキ抜き済みの水交換",
-                        "text": "皮膚からの毒素吸収を防ぐため、必ずカルキ抜きした水を使用し、水容器を毎日きれいに洗って交換します。"
-                    },
-                    {
-                        "name": "昼：床材の衛生確認と赤脚病（Red Leg）予防のためのフン除去",
-                        "text": "排泄物から発生するアンモニアや細菌による皮膚感染症（赤脚病）を防ぐため、汚れた床材をすぐに取り除きます。"
-                    },
-                    {
-                        "name": "夜：インパクション防止のための適切な給餌（カルシウム添加）と夜間消灯環境",
-                        "text": "頭部の1/2以下のサイズの餌（専用フード等）をプラケースやマットの上で与え、床材の誤飲を防ぎます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "ツノガエルを素手で触ってはいけないのはなぜですか？",
-                        "answer": "ツノガエルの皮膚は水分や化学物質を直接体内に吸収する繊細な組織です。人の手に付着した塩分、化粧品、細菌が皮膚から吸収されて中毒を起こすほか、人間の体温（36.5℃）はカエルにとって火傷の原因になります。ハンドリングは避け、どうしても触る必要のある場合はカルキ抜き水で濡らしたパウダーフリーのラテックス手袋を着用してください。"
-                    },
-                    {
-                        "question": "床材を呑み込んでお腹が張り、フンが出ないのですがインパクションでしょうか？",
-                        "answer": "インパクション（腸閉塞）の可能性が高いです。床材（ヤシガラ、砂利）や消化しにくい大きな餌を呑み込んだ際に発生します。すぐにぬるま湯（27〜29℃）を足が浸かる程度の深さまで張り、15〜20分ほど温水浴させて腸の蠕動運動を促してください。お腹に固い塊があり、ぐったりしている場合は直ちに爬虫類・両生類専門医を受診してください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "角蛙（角花蟾/Pacman Frog）行为信号解读与肠梗阻 (Impaction) 及红腿病 (Red Leg) 预防的 3 步日常流程",
-                "description": "拥有圆滚滚身材与硕大嘴巴的大热两栖宠角蛙（Pacman Frog）。解读钻土与趾尖诱食信号，维护去氯水质与湿度，预防肠梗阻与红腿病的 3 步骤家庭护理。",
-                "authority": "世界两栖爬行类兽医师协会 (ARAV) 与两栖动物方舟 (Amphibian Ark) 护理标准",
-                "profile": {
-                    "breed": "角蛙 / 角花蟾 (Pacman Frog / Ceratophrys)",
-                    "lifespan": "10 ~ 15年 (科学喂养可达15年以上)",
-                    "sleep_pattern": "12 ~ 14小时 (夜行性，白天潜伏在泥土中睡眠)",
-                    "temperament": "伏击型捕食者、食婪、不喜活动、皮肤极敏感、严禁经常上手"
-                },
-                "intro": "因酷似经典游戏角色的大嘴与圆硕体型而得名的角蛙（Pacman Frog / Ceratophrys），是全球备受喜爱的陆栖两栖宠物。作为潜伏在泥土中等待猎物的“伏击型捕食者（Ambush Predator）”，角蛙拥有惊人的食欲，但极其容易因误吞垫料或进食过大猎物而引发致命的“肠梗阻（Impaction）”。此外，两栖动物半透膜结构的皮肤会直接吸收水分、电解质与化学毒素，水质污染或细菌滋生极易诱发致死性的“红腿病（Red Leg Disease）”与毒性休克。本指南将带您准确解读角蛙肢体语言，并通过 3 步骤日常护理维护其健康。",
-                "whyTitle": "角蛙肢体语言：深层钻土 (Deep Burrowing / Estivation) 与后趾诱食 (Pedal Luring)",
-                "whyDesc": "角蛙通过钻土深度与趾尖的微小抖动表达环境需求与捕食状态。将整个身体完全埋入垫料中**“深层钻土 (Deep Burrowing / Estivation)”**，是正常的夜行休息行为，或是应对环境干燥、湿度不足的自我保护反应。相反，在盯着猎物时后脚趾尖如蠕虫般微小抽动**“后趾诱食 (Pedal Luring)”**，则是锁定猎物、即将在发动攻击前的捕食信号。",
-                "body_signals": [
-                    {
-                        "name": "全身完全埋入椰土等垫料深处 (Deep Burrowing / Estivation)",
-                        "meaning": "正常的夜行性休息，或是环境湿度过低时为防止皮肤水分流失而采取的防御保护反应。",
-                        "response": "立即检查垫料湿度与环境湿度 (70%~80%)，及时喷水保湿以防形成皮膜干涸。"
-                    },
-                    {
-                        "name": "凝视猎物的同时，后脚趾尖微小频繁抽动 (Pedal Luring)",
-                        "meaning": "视觉识别猎物后激发捕食本能，通过模仿蠕虫诱诱猎物靠近的自然捕食动作。",
-                        "response": "切勿用手直接喂食，使用钝头长镊子夹取大小适中的猎物进行安全投喂。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：环境温湿度确认 (24°C~28°C, 70%~80%) 与去氯干净水水盆更换",
-                        "text": "为防止皮肤吸收毒素，必须使用困过一天以上的去氯自来水或纯净水，并清洗水盆后更换。"
-                    },
-                    {
-                        "name": "中午：垫料卫生排查与清理排泄物以预防红腿病 (Red Leg)",
-                        "text": "及时铲除粪便与尿酸，消除氨气滋生与细菌繁殖，预防皮肤败血症（红腿病）。"
-                    },
-                    {
-                        "name": "晚上：防梗阻安全投喂（添加钙粉）与保持夜间安静无光环境",
-                        "text": "投喂小于角蛙头部一半大小的食物（饲料或乳鼠），并在防误吞垫料的喂食垫或无垫料盒中定量投喂。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "为什么绝对不能用裸手直接触摸角蛙？",
-                        "answer": "角蛙等两栖动物的皮肤具有半透膜性质，能直接将手上的油脂、盐分、化学残余与细菌吸收进血液，导致全身性中气中毒。此外，人类 37°C 的体温对体温随环境变化的角蛙而言会导致严重烫伤。应尽量避免上手，必要时戴上无粉且用去氯水湿润的乳胶手套。"
-                    },
-                    {
-                        "question": "角蛙误吞垫料后腹部鼓胀且数日不排便，是肠梗阻 (Impaction) 吗？",
-                        "answer": "极有可能是肠梗阻。角蛙误吞椰土、水苔或吞食硬壳大猎物时极易堵塞肠道。应立即准备 27°C~29°C 的温水，水位漫至角蛙下巴高度，让其进行 15~20 分钟温水浴以促进肠道蠕动。若腹部能摸到硬块且精神萎靡，需立即送往异宠医院。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Señales de conducta en la Rana Pacman y rutina diaria de 3 pasos para la prevención de la impactación y la enfermedad de la pata roja (Red Leg)",
-                "description": "Guía de cuidado para la icónica Rana Pacman (Ceratophrys). Interprete los comportamientos de enterrado y señuelo pedal, controle la humedad y el agua declorada, y prevenga la impactación y la enfermedad de la pata roja en 3 pasos.",
-                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) y Normas de Amphibian Ark",
-                "profile": {
-                    "breed": "Rana Pacman (Ceratophrys)",
-                    "lifespan": "10 ~ 15 años (Más de 15 años con cuidados óptimos)",
-                    "sleep_pattern": "12 ~ 14 horas (Nocturna, duerme enterrada durante el día)",
-                    "temperament": "Depredadora de emboscada, Sedentaria, Muy voraz, Piel delicada, Manipulación mínima"
-                },
-                "intro": "Famosa por su cuerpo redondo y su boca gigante que recuerda al personaje de arcade, la Rana Pacman (Ceratophrys) es un anfibio terrestre muy popular en todo el mundo. Como depredadores de emboscada que se entierran a la espera de presas, poseen un apetito voraz. Sin embargo, son sumamente vulnerables a la impactación intestinal causada por la ingestión accidental de sustrato o presas demasiado grandes. Además, al poseer una piel semipermeable que absorbe agua, electrolitos y toxinas directamente, la mala calidad del agua o las infecciones bacterianas pueden provocar la letal enfermedad de la pata roja (Red Leg Disease). En esta guía, presenta una rutina de 3 pasos para cuidar su salud.",
-                "whyTitle": "Lenguaje corporal de la Rana Pacman: Enterrado profundo (Estivación) y señuelo pedal (Pedal Luring)",
-                "whyDesc": "La Rana Pacman comunica necesidades ambientales y disposición de caza mediante la profundidad de enterrado y pequeños movimientos táctiles. Enterrar todo su cuerpo bajo el sustrato **'Enterrado profundo / Estivación'** es un comportamiento normal de descanso o una defensa contra la baja humedad. En cambio, mover rápidamente la punta de sus dedos traseros como si fuera una lombriz mirando a su presa **'Señuelo pedal (Pedal Luring)'** es una señal predatoria que indica que ha fijado su objetivo y está lista para atacar.",
-                "body_signals": [
-                    {
-                        "name": "Enterrar el cuerpo completamente en el sustrato de fibra de coco (Deep Burrowing / Estivation)",
-                        "meaning": "Descanso nocturno normal o mecanismo defensivo ante la sequedad para conservar la humedad de la piel.",
-                        "response": "Verifique la humedad del sustrato (70–80%) inmediatamente y rocíe agua para evitar que la piel se deseque."
-                    },
-                    {
-                        "name": "Mover rítmicamente la punta de los dedos traseros mientras fija la mirada en la presa (Pedal Luring)",
-                        "meaning": "Comportamiento instintivo de caza usado para atraera presas antes del ataque.",
-                        "response": "No alimente con la mano directamente; use pinzas largas de punta roma para ofrecer presas de tamaño adecuado."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Control ambiental (24–28°C, 70–80% Humedad) y reemplazo de agua declorada",
-                        "text": "Cambie el agua diariamente con agua sin cloro ni metales pesados, ya que estos se absorben directo por la piel."
-                    },
-                    {
-                        "name": "Tarde: Higiene del sustrato y retirada de excrementos para prevenir la enfermedad de la pata roja",
-                        "text": "Retire heces y orina de inmediato para evitar amoníaco y bacterias responsables de la dermatosepticemia (Red Leg)."
-                    },
-                    {
-                        "name": "Noche: Alimentación segura anti-impactación con calcio y ambiente oscuro y tranquilo",
-                        "text": "Ofrezca presas más pequeñas que la mitad de su cabeza sobre una superficie limpia para evitar tragar sustrato."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué nunca debo manipular a mi Rana Pacman con las manos desnudas?",
-                        "answer": "La piel de la Rana Pacman es semipermeable y absorbe aceites, sal, lociones y bacterias directamente al torrente sanguíneo, causando intoxicación severa. Además, la temperatura corporal humana (37°C) puede provocarles quemaduras térmicas. Evite la manipulación o utilice guantes de látex sin polvo humedecidos con agua declorada."
-                    },
-                    {
-                        "question": "Mi Rana Pacman tragó sustrato, tiene el abdomen hinchado y no defeca, ¿es una impactación?",
-                        "answer": "Es muy probable. La impactación intestinal ocurre al ingerir fibra de coco, musgo o presas con caparazón duro. Prepare un baño tibio (27–29°C) con agua a la altura de su barbilla durante 15–20 minutos para estimular el tránsito intestinal. Si permanece dura o letárgica, acuda al veterinario inmediatamente."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Signaux comportementaux de la Grenouille Pacman et routine quotidienne en 3 étapes pour la prévention de l'impaction et de la maladie des pattes rouges (Red Leg)",
-                "description": "Guide de soins pour l'emblématique Grenouille Pacman (Ceratophrys). Décryptez l'enfouissement et le leurre pédal, gérez l'eau déchlorée et l'humidité, et prévenez l'impaction et la maladie des pattes rouges en 3 étapes.",
-                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Normes d'Amphibian Ark",
-                "profile": {
-                    "breed": "Grenouille Pacman (Ceratophrys)",
-                    "lifespan": "10 ~ 15 ans (Plus de 15 ans avec des soins adaptés)",
-                    "sleep_pattern": "12 ~ 14 heures (Nocturne, dort enfouie sous terre le jour)",
-                    "temperament": "Prédateur en embuscade, Sédentaire, Vorace, Peau très sensible, Manipulation minimale"
-                },
-                "intro": "Célèbre pour son corps rond et sa bouche géante rappelant le personnage de jeu vidéo, la Grenouille Pacman (Ceratophrys) est un amphibien terrestre très apprécié. Prédateur en embuscade s'enfouissant dans le sol pour guetter ses proies, elle possède un appétit insatiable. Cependant, elle est extrêmement vulnérable à l'impaction intestinale causée par l'ingestion de substrat ou de proies trop grosses. De plus, sa peau semi-perméable absorbant directement l'eau et les toxines, une mauvaise qualité d'eau peut entraîner la maladie mortelle des pattes rouges (Red Leg Disease). Dans ce guide, vous présente une routine en 3 étapes pour protéger sa santé.",
-                "whyTitle": "Langage corporel de la Grenouille Pacman : Enfouissement profond (Estivation) et leurre pédal (Pedal Luring)",
-                "whyDesc": "La Grenouille Pacman exprime ses besoins environnementaux et son état de chasse par la profondeur d'enfouissement et de légers mouvements de pattes. S'enterrer complètement sous le substrat **« Enfouissement profond / Estivation »** est un comportement de repos ou une protection contre une faible humidité. À l'inverse, faire vibrer l'extrémité de ses doigts arrière comme un ver en fixant une proie **« Leurre pédal (Pedal Luring) »** est un signal de prédation indiquant qu'elle est prête à bondir.",
-                "body_signals": [
-                    {
-                        "name": "S'enterrer complètement dans le substrat (Deep Burrowing / Estivation)",
-                        "meaning": "Repos nocturne normal ou réaction de défense face au dessèchement pour préserver l'hydratation de la peau.",
-                        "response": "Vérifiez immédiatement l'humidité du substrat (70–80 %) et vaporisez de l'eau pour éviter la formation d'un cocon sec."
-                    },
-                    {
-                        "name": "Faire vibrer la pointe des doigts arrière en fixant sa proie (Pedal Luring)",
-                        "meaning": "Comportement instinctif de chasse visant à attirer la proie avant de l'attaquer.",
-                        "response": "Ne nourrissez pas à la main ; utilisez une longue pince de nourrissage à bout rond pour lui présenter sa nourriture."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Contrôle du climat (24–28°C, 70–80% d'humidité) & renouvellement de l'eau déchlorée",
-                        "text": "Changez l'eau du bac quotidiennement avec de l'eau déchlorée, car le chlore est directement absorbé par sa peau."
-                    },
-                    {
-                        "name": "Après-midi : Inspection de l'hygiène du substrat & retrait des déjections contre la maladie des pattes rouges",
-                        "text": "Retirez immédiatement les selles pour éliminer l'ammoniac et les bactéries responsables de la dermatosepticémie (Red Leg)."
-                    },
-                    {
-                        "name": "Soir : Nourrissage sécurisé anti-impaction avec calcium & obscurité calme",
-                        "text": "Donnez des proies plus petites que la moitié de sa tête sur un tapis propre pour éviter qu'elle n'avale du substrat."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi ne faut-il jamais manipuler une Grenouille Pacman à mains nues ?",
-                        "answer": "La peau de la Grenouille Pacman est semi-perméable et absorbe directement le sel, les huiles, les savons et les bactéries des mains humaines, provoquant une intoxication sévère. De plus, la température corporelle humaine (37°C) peut lui causer des brûlures thermiques. Utilisez des gants en latex sans poudre humidifiés à l'eau déchlorée si une manipulation est indispensable."
-                    },
-                    {
-                        "question": "Ma Grenouille Pacman a avalé du substrat, a le ventre gonflé et ne fait plus de selles : est-ce une impaction ?",
-                        "answer": "C'est très probable. L'impaction intestinale survient lors de l'ingestion de substrat (fibre de coco, mousse) ou de proies trop dures. Donnez-lui un bain tiède (27–29°C) d'eau déchlorée au niveau du menton pendant 15 à 20 minutes pour stimuler le transit. Si le ventre reste dur ou si elle reste léthargique, consultez d'urgence un vétérinaire NAC."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Verhaltenssignale des Schmuckhornfrosches (Pacman-Frosch) und 3-Schritte-Tagesroutine zur Prävention von Impaktion (Darmverschluss) und Rotbeinigkeit (Red Leg)",
-                "description": "Pflegeanleitung für den kultigen Schmuckhornfrosch (Pacman-Frosch). Eingraben und Zehenködern verstehen, entchlortes Wasser und Luftfeuchtigkeit steuern sowie Impaktion und Rotbeinigkeit in 3 Schritten vorbeugen.",
-                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Standards der Amphibian Ark",
-                "profile": {
-                    "breed": "Schmuckhornfrosch / Pacman-Frosch (Ceratophrys)",
-                    "lifespan": "10 ~ 15 Jahre (Bei optimaler Haltung über 15 Jahre)",
-                    "sleep_pattern": "12 ~ 14 Stunden (Nachtaktiv, schläft tagsüber tief im Substrat)",
-                    "temperament": "Lauertäter, Bewegungslos, Gefräßig, Empfindliche Haut, Minimale Handhabung"
-                },
-                "intro": "Bekannt für seinen rundlichen Körper und das riesige Maul, das an die Videospielfigur erinnert, ist der Schmuckhornfrosch (Pacman-Frosch) ein weltweit beliebter Landamphibie. Als Lauerjäger, der sich im Boden eingräbt und auf Beute wartet, besitzt er einen enormen Appetit. Allerdings ist er extrem anfällig für Darmverschlüsse (Impaktion) durch verschlucktes Substrat oder zu große Beutetiere. Da Amphibien über ihre halbdurchlässige Haut Wasser und Schadstoffe direkt aufnehmen, führen schlechte Wasserqualität oder Bakterien rasch zur tödlichen Rotbeinigkeit (Red Leg) und Vergiftung. In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für die Gesundheit Ihres Schmuckhornfrosches.",
-                "whyTitle": "Körpersprache des Schmuckhornfrosches: Tiefes Eingraben (Trockenstarre) und Zehenködern (Pedal Luring)",
-                "whyDesc": "Der Pacman-Frosch drückt Umweltbedürfnisse und Jagdbereitschaft durch Eingrabentiefe und Zehenbewegungen aus. Das vollständige Vergraben unter dem Substrat **'Tiefes Eingraben / Trockenstarre'** ist normales Ruheverhalten oder Schutz vor zu geringer Luftfeuchtigkeit. Das rhythmische Zucken der hinteren Zehenspitzen beim Fixieren der Beute **'Zehenködern (Pedal Luring)'** ist dagegen ein Jagdsignal, das die unmittelbare Angriffsreaktion ankündigt.",
-                "body_signals": [
-                    {
-                        "name": "Vollständiges Eingraben des Körpers im Substrat (Deep Burrowing / Estivation)",
-                        "meaning": "Normaler Ruhemodus oder Schutzreaktion gegen Austrocknung der Haut bei zu geringer Feuchtigkeit.",
-                        "response": "Prüfen Sie sofort die Substrat- und Luftfeuchtigkeit (70–80 %) und sprühen Sie Wasser nach."
-                    },
-                    {
-                        "name": "Rhythmisches Zucken der hinteren Zehenspitzen beim Blick auf Beute (Pedal Luring)",
-                        "meaning": "Instinktives Jagdverhalten, um Beutetiere anzulocken und den Angriff vorzubereiten.",
-                        "response": "Füttern Sie niemals mit der Hand; nutzen Sie eine lange, stumpfe Pinzette zur sicheren Fütterung."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Klima-Klima-Kontrolle (24–28 °C, 70–80 % Feuchte) & Entchlortes Wasser wechseln",
-                        "text": "Wechseln Sie die Wasserschale täglich mit aufbereitetem, entchlortem Wasser, da Schadstoffe direkt über die Haut aufgenommen werden."
-                    },
-                    {
-                        "name": "Mittag: Substrathygiene & Kotbeseitigung zur Vorbeugung der Rotbeinigkeit",
-                        "text": "Entfernen Sie Ausscheidungen sofort zur Vermeidung von Ammoniak und Bakterien, die Hautsepsis (Red Leg) auslösen."
-                    },
-                    {
-                        "name": "Abend: Impaktionssichere Fütterung mit Calcium & Ruhige, dunkle Umgebung",
-                        "text": "Bieten Sie Beute an, die kleiner als die Hälfte des Froschkopfes ist, und füttern Sie auf einer sauberen Unterlage ohne Substrat."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum darf ich meinen Schmuckhornfrosch niemals mit bloßen Händen anfassen?",
-                        "answer": "Die Haut des Frosches ist hochsensibel und halbpermeabel; sie nimmt Salze, Öle, Seifenreste und Bakterien der menschlichen Hand direkt auf, was zu schweren Vergiftungen führt. Zudem kann die menschliche Körpertemperatur (37 °C) Verbrennungen verursachen. Nutzen Sie im Notfall puderfreie, mit entchlortem Wasser befeuchtete Latexthandschuhe."
-                    },
-                    {
-                        "question": "Mein Frosch hat Substrat verschluckt, hat einen aufgeblähten Bauch und setzt keinen Kot ab – ist das Impaktion?",
-                        "answer": "Das ist sehr wahrscheinlich. Ein Darmverschluss (Impaktion) entsteht durch Verschlucken von Kokoshumus, Moos oder zu harten Beutetieren. Setzen Sie den Frosch für 15–20 Minuten in ein lauwarmes Wasserbad (27–29 °C) bis zur Kinnhöhe, um die Darmtätigkeit anzuregen. Bleibt der Bauch hart, ist sofort ein Fachtierarzt aufzusuchen."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Sinais comportamentais do Sapo Pacman e rotina diária de 3 passos para prevenção de impacção intestinal e doença da perna vermelha (Red Leg)",
-                "description": "Guia de cuidados para o icônico Sapo Pacman (Ceratophrys). Interprete os comportamentos de enterrar-se e atração pedal, controle a umidade e a água desclorada, e previna a impacção e a doença da perna vermelha em 3 passos.",
-                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Padrões da Amphibian Ark",
-                "profile": {
-                    "breed": "Sapo Pacman (Ceratophrys)",
-                    "lifespan": "10 ~ 15 anos (Mais de 15 anos com cuidados adequados)",
-                    "sleep_pattern": "12 ~ 14 horas (Noturno, dorme enterrado durante o dia)",
-                    "temperament": "Predador de emboscada, Sedentário, Muito voraz, Pele delicada, Manipulação mínima"
-                },
-                "intro": "Famoso por seu corpo redondo e boca gigante que lembra o personagem dos videogames, o Sapo Pacman (Ceratophrys) é um anfíbio terrestre muito popular. Como predadores de emboscada que se enterram no substrato à espera de presas, possuem um apetite voraz. No entanto, são extremamente vulneráveis à impacção intestinal causada pela ingestão acidental de substrato ou presas muito grandes. Além disso, por possuírem pele semipermeável que absorve água e toxinas diretamente, a má qualidade da água pode levar à letal doença da perna vermelha (Red Leg Disease). Neste guia, apresenta uma rotina de 3 passos para cuidar da sua saúde.",
-                "whyTitle": "Linguagem corporal do Sapo Pacman: Enterrar-se profundamente (Estivação) e atração pedal (Pedal Luring)",
-                "whyDesc": "O Sapo Pacman comunica necessidades ambientais e prontidão para caçar através da profundidade de enterrar-se e movimentos nos dedos. Enterrar todo o corpo sob o substrato **'Enterrar-se profundamente / Estivação'** é um descanso normal ou proteção contra a baixa umidade. Por outro lado, fazer vibrar a ponta dos dedos traseiros como uma minhoca ao fixar a presa **'Atração pedal (Pedal Luring)'** é um sinal predatório indicando que está pronto para atacar.",
-                "body_signals": [
-                    {
-                        "name": "Enterrar o corpo completamente no substrato (Deep Burrowing / Estivation)",
-                        "meaning": "Descanso noturno normal ou mecanismo de defesa contra o ressecamento para preservar a umidade da pele.",
-                        "response": "Verifique a umidade do substrato (70–80%) imediatamente e borrife água para evitar o ressecamento da pele."
-                    },
-                    {
-                        "name": "Vibrar a ponta dos dedos traseiros enquanto olha para a presa (Pedal Luring)",
-                        "meaning": "Comportamento instintivo de caça usado para atrair a presa antes de dar o bote.",
-                        "response": "Não alimente diretamente com a mão; use uma pinça longa de ponta cega para oferecer presas de tamanho adequado."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Controle ambiental (24–28°C, 70–80% Umidade) & troca de água desclorada",
-                        "text": "Substitua a água diariamente utilizando água sem cloro ou metais pesados, pois estes são absorvidos diretamente pela pele."
-                    },
-                    {
-                        "name": "Tarde: Higiene do substrato & remoção de excrementos para prevenir a doença da perna vermelha",
-                        "text": "Remova fezes imediatamente para eliminar o acúmulo de amônia e bactérias causadoras da dermatosepticemia (Red Leg)."
-                    },
-                    {
-                        "name": "Noite: Alimentação segura anti-impacção com cálcio & ambiente escuro e calmo",
-                        "text": "Ofereça alimentos menores que a metade do tamanho da cabeça do sapo em uma superfície limpa sem substrato."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Por que nunca devo manusear meu Sapo Pacman com as mãos desnudas?",
-                        "answer": "A pele do Sapo Pacman é semipermeável e absorve óleos, sais, sabões e bactérias das mãos humanas diretamente para a corrente sanguínea, causando severa intoxicação. Além disso, a temperatura do corpo humano (37°C) pode causar queimaduras térmicas no sapo. Use luvas de látex sem pó umedecidas com água desclorada caso a manipulação seja necessária."
-                    },
-                    {
-                        "question": "Meu Sapo Pacman engoliu substrato, está com o abdômen inchado e não defeca: é impacção?",
-                        "answer": "É muito provável. A impacção intestinal ocorre pela ingestão de fibra de coco, musgo ou presas duras. Dê um banho morno (27–29°C) com água desclorada na altura do queixo por 15 a 20 minutos para estimular o trânsito intestinal. Se o abdômen permanecer duro ou houver letargia, consulte um veterinário especializado."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Sinyal Perilaku Katak Pacman (Pacman Frog) dan Rutinitas Harian 3 Langkah Perawatan Pencegahan Impaksi Usus serta Penyakit Kaki Merah (Red Leg)",
-                "description": "Panduan perawatan anjing amfibi ikonis Katak Pacman (Ceratophrys). Pahami perilaku mengubur diri dan umpan jari kaki pedal luring, kelola air bebas klorin dan kelembapan, serta cegah impaksi dan penyakit kaki merah dalam 3 langkah.",
-                "authority": "Standar Perawatan Association of Reptilian and Amphibian Veterinarians (ARAV) & Amphibian Ark",
-                "profile": {
-                    "breed": "Katak Pacman / Pacman Frog (Ceratophrys)",
-                    "lifespan": "10 ~ 15 tahun (Lebih dari 15 tahun dengan perawatan optimal)",
-                    "sleep_pattern": "12 ~ 14 jam (Nokturnal, tidur mengubur diri di dalam tanah saat siang)",
-                    "temperament": "Pemangsa Penyergap, Sedenter, Sangat Rakus, Kulit Sensitif, Manipulasi Minimal"
-                },
-                "intro": "Terkenal dengan tubuhnya yang bulat dan mulutnya yang sangat besar mirip karakter gim arcade, Katak Pacman (Ceratophrys) adalah amfibi darat yang sangat populer di seluruh dunia. Sebagai pemangsa penyergap (ambush predator) yang mengubur diri di tanah untuk menunggu mangsa, Katak Pacman memiliki nafsu makan yang sangat besar. Namun, mereka sangat rentan terhadap penyumbatan usus (impaksi) akibat tidak sengaja menelan alas kandang atau mangsa yang terlalu besar. Selain itu, kulit amfibi yang semi-permeabel menyerap air dan racun secara langsung, sehingga kualitas air yang buruk dapat memicu penyakit kaki merah (Red Leg Disease) yang mematikan. Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk merawat kesehatan Katak Pacman Anda.",
-                "whyTitle": "Bahasa Tubuh Katak Pacman: Mengubur Diri Dalam (Estivasi) dan Umpan Jari Kaki (Pedal Luring)",
-                "whyDesc": "Katak Pacman menyampaikan kebutuhan lingkungan dan kesiapan berburu melalui kedalaman mengubur diri dan gerakan halus jari kaki. Mengubur seluruh tubuh di bawah alas kandang **'Mengubur Diri Dalam / Estivasi'** adalah perilaku istirahat normal atau bentuk pertahanan terhadap kelembapan udara yang rendah. Sebaliknya, menggetarkan ujung jari kaki belakang seperti cacing sambil menatap mangsa **'Umpan Jari Kaki (Pedal Luring)'** adalah sinyal pemangsa yang menandakan mereka telah mengunci target dan siap menyergap.",
-                "body_signals": [
-                    {
-                        "name": "Mengubur Seluruh Tubuh ke Dalam Substrat Kokopit (Deep Burrowing / Estivation)",
-                        "meaning": "Istirahat nokturnal normal atau reaksi pertahanan dari kekeringan untuk menjaga kelembapan kulit.",
-                        "response": "Periksa kelembapan substrat dan udara (70–80%) segera, semprotkan air agar kulit tidak mengering."
-                    },
-                    {
-                        "name": "Menggetarkan Ujung Jari Kaki Belakang secara Ritmis Sambil Menatap Mangsa (Pedal Luring)",
-                        "meaning": "Perilaku berburu alami untuk memancing mangsa mendekat sebelum disergap.",
-                        "response": "Jangan memberi makan dengan tangan langsung; gunakan pinset pemakan yang panjang dan tumpul untuk memberikan mangsa secara aman."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Pemeriksaan Suhu & Kelembapan (24–28°C, 70–80%) serta Penggantian Air Bebas Klorin",
-                        "text": "Ganti wadah air setiap hari menggunakan air yang sudah diendapkan/bebas klorin karena racun air terserap langsung melalui kulit."
-                    },
-                    {
-                        "name": "Siang: Kebersihan Substrat & Pembersihan Kotoran untuk Mencegah Penyakit Kaki Merah",
-                        "text": "Segera bersihkan kotoran untuk mencegah penumpukan amonia dan bakteri penyebab penyakit dermatoseptisemia (Red Leg)."
-                    },
-                    {
-                        "name": "Malam: Pemberian Makanan Aman Bebas Impaksi (Kalsium) & Suasana Gelap yang Tenang",
-                        "text": "Berikan pakan yang ukurannya lebih kecil dari separuh ukuran kepala katak di atas matras bersih agar tidak menelan substrat."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa saya tidak boleh memegang Katak Pacman dengan tangan telanjang?",
-                        "answer": "Kulit Katak Pacman bersifat semi-permeabel dan dapat menyerap minyak, garam, sabun, dan bakteri dari tangan manusia langsung ke dalam aliran darahnya, menyebabkan keracunan berat. Selain itu, suhu tubuh manusia (37°C) dapat menyebabkan luka bakar thermal pada katak. Hindari memegangnya, atau gunakan sarung tangan lateks bebas bedak yang dibasahi air bebas klorin jika terpaksa."
-                    },
-                    {
-                        "question": "Katak Pacman saya menelan substrat, perutnya membesar dan tidak buang air besar, apakah mengalami impaksi?",
-                        "answer": "Kemungkinan besar ya. Impaksi usus terjadi saat katak menelan kokopit, lumut, atau mangsa berfur/bercangkang keras. Rendam katak dalam air hangat (27–29°C) setinggi dagunya selama 15–20 menit untuk merangsang pergerakan usus. Jika perut tetap keras atau katak lemas, segera bawa ke dokter hewan hewan eksotis."
-                    }
-                ]
-            }
+  "pacman-frog-care": {
+    "pubDate": "2026-07-08",
+    "updatedDate": "2026-07-08",
+    "locales": {
+      "ko": {
+        "title": "팩맨 뿔개구리의 행동 신호 해석과 임팩션(장막힘) 및 수포병(Red Leg) 예방을 위한 3단계 데일리 케어",
+        "description": "동그란 몸과 커다란 입이 매력적인 양서류 팩맨 뿔개구리(Pacman Frog). 버로우 및 발가락 흔들기 신호 해석, 수질·습도 관리, 임팩션과 수포병 예방을 위한 3단계 홈케어 루틴을 소개합니다.",
+        "authority": "ARAV (세계 파충류·양서류 수의사회) 및 Amphibian Ark 케어 프로토콜",
+        "profile": {
+          "breed": "팩맨 뿔개구리 (Pacman Frog / Ceratophrys)",
+          "lifespan": "10 ~ 15년 (올바른 케어 시 15년 이상)",
+          "sleep_pattern": "12 ~ 14시간 (야행성, 낮 동안 매립 버로우 상태 수면)",
+          "temperament": "매복 포식성, 매복 정적임, 식탐 강함, 예민한 피부, 핸들링 최소화 필요"
         },
-        "heroImage": "/images/blog/pacman_frog_care.webp"
-    }
+        "intro": "고전 게임 캐릭터를 닮은 커다란 입과 동그란 체형을 지닌 팩맨 뿔개구리(Pacman Frog / Ceratophrys)는 독특한 외모와 사육의 재미로 전 세계 사육자들에게 사랑받는 대표적인 양서류입니다. 땅속에 몸을 묻고 지나가는 먹이를 기다리는 매복 포식자(Ambush Predator)인 팩맨은 엄청난 식탐을 자랑하지만, 삼킨 바닥재나 과도한 크기의 먹이로 인해 장이 막히는 '임팩션(Impaction)'에 매우 취약합니다. 또한 양서류 특유의 반투과성 피부를 통해 수분과 화학물질을 직접 흡수하므로 수질 오염이나 세균 감염 시 치명적인 '수포병/적다리병(Red Leg Disease)' 및 중독 증상이 발생할 수 있습니다. 이번 가이드에서는 팩맨 뿔개구리의 행동 신호를 정확히 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
+        "whyTitle": "팩맨 뿔개구리의 바디 랭귀지: 버로우(Burrowing / Estivation)와 뒷발가락 떨기(Pedal Luring)",
+        "whyDesc": "팩맨 뿔개구리는 버로우 상태와 발가락의 미세한 움직임으로 환경적 상태와 먹이 유인 신호를 표현합니다. 몸을 바닥재 깊숙이 묻고 눈만 내놓거나 피막을 형성하는 **'버로우(Burrowing / Estivation)'**는 정상적인 휴식이거나 습도 부족·온도 저하에 대응하는 생존 반응입니다. 반면 먹이를 발견했을 때 뒷발가락 끝을 애벌레처럼 유연하게 경련하듯 떠는 **'뒷발가락 떨기(Pedal Luring)'**는 먹이를 유인하여 사냥 준비를 마쳤다는 포식 신호입니다.",
+        "body_signals": [
+          {
+            "name": "몸 전체를 코코핏 등 바닥재 속으로 완전히 묻음 (Deep Burrowing / Estivation)",
+            "meaning": "야행성 휴식 행동이거나, 사육장 내 습도 부족 및 건조한 환경으로부터 피부 수분을 지키려는 방어 반응입니다.",
+            "response": "분무기로 바닥재 습도(70~80%)를 즉시 점검하고, 코코핏이 바싹 마르지 않도록 수분을 공급합니다."
+          },
+          {
+            "name": "먹이를 바라보며 뒷발가락 끝을 가늘게 미세하게 떪 (Pedal Luring)",
+            "meaning": "먹이를 시각적으로 인식하고 사냥 본능이 자극되어 먹이를 유인하는 자연스러운 조준 행동입니다.",
+            "response": "손으로 직접 급여하지 말고 긴 전용 핀셋을 사용하여 안전하게 적정 크기의 먹이를 제공합니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 사육장 온·습도 점검(24~28°C, 70~80%) 및 염소 제거된 깨끗한 물 그릇 교체",
+            "text": "피부 흡수 독성을 막기 위해 반드시 하루 이상 묵힌 수돗물이나 정수된 물을 사용하고, 물그릇을 깨끗이 세척하여 교체합니다."
+          },
+          {
+            "name": "낮: 바닥재 위생 상태 확인 및 피부 질환(수포병) 예방을 위한 배설물 즉시 제거",
+            "text": "배설물에서 나오는 암모니아와 세균에 의한 적다리병(Red Leg)을 예방하기 위해 오염된 바닥재 구역을 즉시 제거합니다."
+          },
+          {
+            "name": "저녁: 임팩션 방지용 소화 용이한 먹이(칼슘 파우더 첨가) 급여 및 야간 안정을 위한 암막 유지",
+            "text": "개구리 머리 크기의 1/2 이하 먹이(핑키, 개구리 전용 푸드)를 급여하고, 바닥재를 삼키지 않도록 루바망이나 깔개 위에서 정량 급여합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "팩맨 개구리를 맨손으로 만지면 왜 안 되나요?",
+            "answer": "양서류인 팩맨의 피부는 수분과 기체를 직접 흡수하는 반투과성 조직입니다. 사람 손의 염분, 화장품 잔여물, 세균은 개구리 피부를 통해 체내로 즉시 흡수되어 중독을 일으키며, 사람의 체온(36.5°C)은 팩맨에게 심각한 화상을 입힐 수 있습니다. 핸들링은 가급적 피하고, 필요시 파충류 전용 장갑을 착용하거나 라텍스 장갑을 낀 후 깨끗한 물을 적셔 다뤄야 합니다."
+          },
+          {
+            "question": "팩맨이 먹이를 먹은 후 배가 부풀어 오르고 며칠째 변을 보지 않는데 임팩션인가요?",
+            "answer": "임팩션(Impaction)일 가능성이 높습니다. 바닥재(코코핏, 자갈)를 함께 삼켰거나 단단한 뼈·갑각이 있는 과도한 크기의 먹이를 먹었을 때 장이 막히는 질환입니다. 즉시 미지근한 물(27~29°C)에 무릎 높이까지 차오르도록 하여 15~20분간 미온수 목욕(온수욕)을 시켜 장 운동을 유도해야 하며, 배에 단단한 덩어리가 잡히고 기운이 없다면 수의사의 진료가 필요합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Pacman Frog Behavioral Signals and 3-Step Daily Routine for Impaction and Red Leg Disease Prevention",
+        "description": "Care guide for the iconic Pacman Frog. Interpret burrowing and pedal luring signals, manage dechlorinated water and humidity, and prevent fatal impaction and Red Leg disease in 3 steps.",
+        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Amphibian Ark Care Standards",
+        "profile": {
+          "breed": "Pacman Frog (Ceratophrys)",
+          "lifespan": "10 - 15 Years (15+ years with optimal care)",
+          "sleep_pattern": "12 - 14 Hours (Nocturnal, sleeps burrowed underground during the day)",
+          "temperament": "Ambush Predator, Sedentary, Highly Voracious, Delicate Skin, Minimal Handling Required"
+        },
+        "intro": "Famous for their round bodies and oversized mouths resembling the classic arcade character, the Pacman Frog (Ceratophrys) is a beloved terrestrial amphibian kept worldwide. As sedentary ambush predators that bury themselves in substrate waiting for prey, Pacman Frogs possess voracious appetites. However, they are extremely vulnerable to intestinal impaction caused by ingesting substrate or oversized prey. Furthermore, because amphibians possess semi-permeable skin that directly absorbs water, electrolytes, and toxins, poor water quality or bacterial contamination can cause fatal Red Leg Disease and toxic shock. In this guide, presents a 3-step daily care routine to decode your Pacman Frog's body language and protect its health.",
+        "whyTitle": "Pacman Frog Body Language: Deep Burrowing (Estivation) and Pedal Luring",
+        "whyDesc": "Pacman Frogs communicate environmental needs and hunting readiness through burrowing depth and subtle toe movements. Burying their entire body beneath the substrate **'Deep Burrowing / Estivation'** is a natural resting behavior or a protective response against low ambient humidity. Conversely, twitching the tips of their hind toes in a worm-like motion while staring at prey **'Pedal Luring'** is a predatory signal indicating they have locked onto prey and are ready to strike.",
+        "body_signals": [
+          {
+            "name": "Burying Entire Body Deep into Substrate (Deep Burrowing / Estivation)",
+            "meaning": "Normal nocturnal resting or a protective defense mechanism triggered by dry conditions to preserve skin moisture.",
+            "response": "Check substrate moisture and ambient humidity (70–80%) immediately, misting to prevent cocoon formation or dehydration."
+          },
+          {
+            "name": "Rhythmically Twitching Tips of Hind Toes while Fixing Gaze on Prey (Pedal Luring)",
+            "meaning": "An instinctual predatory behavior used to lure prey closer before striking.",
+            "response": "Never feed by hand; use long, blunt-tipped feeding tongs to present appropriately sized prey safely."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Climate Check (24–28°C, 70–80% Humidity) & Dechlorinated Water Dish Replacement",
+            "text": "Replace water dish daily using treated dechlorinated water, as tap chlorine and heavy metals are absorbed directly through skin."
+          },
+          {
+            "name": "Afternoon: Substrate Hygiene Spot-Check & Waste Removal to Prevent Red Leg Disease",
+            "text": "Promptly scoop feces and urates to eliminate ammonia buildup and bacterial proliferation responsible for bacterial dermatosepticemia."
+          },
+          {
+            "name": "Evening: Impaction-Safe Feeding with Calcium Supplementation & Quiet Dark Environment",
+            "text": "Feed feeder items smaller than half their head size on a clean rubber mat or feeding dish to prevent substrate ingestion."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why should I never handle my Pacman Frog with bare hands?",
+            "answer": "Pacman Frogs have highly sensitive, semi-permeable skin that absorbs water, oils, salts, lotions, and bacteria directly into their bloodstream, leading to systemic toxicity. Additionally, human body temperature (37°C) is hot enough to cause thermal stress or burns. Handling should be avoided; if necessary, use powder-free latex gloves moistened with dechlorinated water."
+          },
+          {
+            "question": "My Pacman Frog swallowed substrate, has a bloated abdomen, and hasn't defecated; is it impaction?",
+            "answer": "Intestinal impaction is a serious risk when Pacman Frogs ingest substrate (coco coir, moss, gravel) or hard-shelled prey. Prepare a shallow lukewarm bath (27–29°C) filled up to their chin height for 15–20 minutes to stimulate bowel movement. If the abdomen remains hard or lethargy persists, consult an exotic veterinarian immediately."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ベルツノガエル（パックマンフロッグ）の行動サイン解読と腸詰まり(インパクション)・赤脚病(Red Leg)予防のための3ステップデイリールーティン",
+        "description": "まんまるな体と大きな口が魅力のツノガエル（パックマンフロッグ）。潜り込み（バーロウ）や足指ピクピクの解読、水質・湿度管理、インパクション・赤脚病予防のための3ステップホームケアを紹介します。",
+        "authority": "ARAV（世界爬虫類・両生類獣医師会）およびAmphibian Ark飼育基準",
+        "profile": {
+          "breed": "パックマンフロッグ / ツノガエル (Ceratophrys)",
+          "lifespan": "10 〜 15年 (適切なケアで15年以上)",
+          "sleep_pattern": "12 〜 14時間 (夜行性、昼間は地中に潜って休む)",
+          "temperament": "待ち伏せ型捕食者、静的、非常に旺盛な食欲、繊細な皮膚、ハンドリング非推奨"
+        },
+        "intro": "ゲームキャラのような丸い体と大きな口が特徴のパックマンフロッグ（ツノガエル / Ceratophrys）は、世界中で愛されている陸棲両生類です。地中に身を潜めて獲物を待つ待ち伏せ型捕食者（Ambush Predator）で、強烈な食欲を誇りますが、誤って飲んだ床材や過大な餌による腸閉塞「インパクション（Impaction）」に非常に脆弱です。また両生類特有の半透膜皮膚を通じて水分や化学物質を直接吸収するため、水質汚染や細菌感染により致死的な「赤脚病（Red Leg Disease）」や中毒を起こします。本記事では、ツノガエルのサインを解読し健康を守る3ステップルーティンをお届けします。",
+        "whyTitle": "パックマンフロッグのボディランゲージ：バーロウ(Burrowing / 休眠)と後脚指の誘引運動(Pedal Luring)",
+        "whyDesc": "ツノガエルは潜り込みの深さと足指の微細な動きで環境状態と捕食サインを表現します。床材の深くへ全身を潜らせる**「バーロウ（Burrowing / Estivation）」**は正常な休息、または湿度の低下・乾燥から身を守る防衛反応です。一方、獲物を見つめながら後脚の指先を虫のようにピクピクと動かす**「後脚指の誘引運動（Pedal Luring）」**は、獲物を引き寄せて襲いかかる準備が整った捕食サインです。",
+        "body_signals": [
+          {
+            "name": "全身を床材の深くまで完全に潜らせる (Deep Burrowing / Estivation)",
+            "meaning": "夜行性の休息行動、またはケージ内の乾燥から皮膚の水分を守ろうとする防衛反応です。",
+            "response": "すぐに床材の湿度（70〜80%）を確認し、霧吹きで十分な水分を補給してください。"
+          },
+          {
+            "name": "獲物を凝視しながら後脚の指先を微細にピクピク動かす (Pedal Luring)",
+            "meaning": "獲物を認識し、捕食本能が刺激されて獲物を誘い出す自然な捕食動作です。",
+            "response": "素手で与えず、先の丸い長めの給餌用ピンセットで適切なサイズの餌を安全に与えてください。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：温湿度チェック（24〜28℃、70〜80%）とカルキ抜き済みの水交換",
+            "text": "皮膚からの毒素吸収を防ぐため、必ずカルキ抜きした水を使用し、水容器を毎日きれいに洗って交換します。"
+          },
+          {
+            "name": "昼：床材の衛生確認と赤脚病（Red Leg）予防のためのフン除去",
+            "text": "排泄物から発生するアンモニアや細菌による皮膚感染症（赤脚病）を防ぐため、汚れた床材をすぐに取り除きます。"
+          },
+          {
+            "name": "夜：インパクション防止のための適切な給餌（カルシウム添加）と夜間消灯環境",
+            "text": "頭部の1/2以下のサイズの餌（専用フード等）をプラケースやマットの上で与え、床材の誤飲を防ぎます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ツノガエルを素手で触ってはいけないのはなぜですか？",
+            "answer": "ツノガエルの皮膚は水分や化学物質を直接体内に吸収する繊細な組織です。人の手に付着した塩分、化粧品、細菌が皮膚から吸収されて中毒を起こすほか、人間の体温（36.5℃）はカエルにとって火傷の原因になります。ハンドリングは避け、どうしても触る必要のある場合はカルキ抜き水で濡らしたパウダーフリーのラテックス手袋を着用してください。"
+          },
+          {
+            "question": "床材を呑み込んでお腹が張り、フンが出ないのですがインパクションでしょうか？",
+            "answer": "インパクション（腸閉塞）の可能性が高いです。床材（ヤシガラ、砂利）や消化しにくい大きな餌を呑み込んだ際に発生します。すぐにぬるま湯（27〜29℃）を足が浸かる程度の深さまで張り、15〜20分ほど温水浴させて腸の蠕動運動を促してください。お腹に固い塊があり、ぐったりしている場合は直ちに爬虫類・両生類専門医を受診してください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "角蛙（角花蟾/Pacman Frog）行为信号解读与肠梗阻 (Impaction) 及红腿病 (Red Leg) 预防的 3 步日常流程",
+        "description": "拥有圆滚滚身材与硕大嘴巴的大热两栖宠角蛙（Pacman Frog）。解读钻土与趾尖诱食信号，维护去氯水质与湿度，预防肠梗阻与红腿病的 3 步骤家庭护理。",
+        "authority": "世界两栖爬行类兽医师协会 (ARAV) 与两栖动物方舟 (Amphibian Ark) 护理标准",
+        "profile": {
+          "breed": "角蛙 / 角花蟾 (Pacman Frog / Ceratophrys)",
+          "lifespan": "10 ~ 15年 (科学喂养可达15年以上)",
+          "sleep_pattern": "12 ~ 14小时 (夜行性，白天潜伏在泥土中睡眠)",
+          "temperament": "伏击型捕食者、食婪、不喜活动、皮肤极敏感、严禁经常上手"
+        },
+        "intro": "因酷似经典游戏角色的大嘴与圆硕体型而得名的角蛙（Pacman Frog / Ceratophrys），是全球备受喜爱的陆栖两栖宠物。作为潜伏在泥土中等待猎物的“伏击型捕食者（Ambush Predator）”，角蛙拥有惊人的食欲，但极其容易因误吞垫料或进食过大猎物而引发致命的“肠梗阻（Impaction）”。此外，两栖动物半透膜结构的皮肤会直接吸收水分、电解质与化学毒素，水质污染或细菌滋生极易诱发致死性的“红腿病（Red Leg Disease）”与毒性休克。本指南将带您准确解读角蛙肢体语言，并通过 3 步骤日常护理维护其健康。",
+        "whyTitle": "角蛙肢体语言：深层钻土 (Deep Burrowing / Estivation) 与后趾诱食 (Pedal Luring)",
+        "whyDesc": "角蛙通过钻土深度与趾尖的微小抖动表达环境需求与捕食状态。将整个身体完全埋入垫料中**“深层钻土 (Deep Burrowing / Estivation)”**，是正常的夜行休息行为，或是应对环境干燥、湿度不足的自我保护反应。相反，在盯着猎物时后脚趾尖如蠕虫般微小抽动**“后趾诱食 (Pedal Luring)”**，则是锁定猎物、即将在发动攻击前的捕食信号。",
+        "body_signals": [
+          {
+            "name": "全身完全埋入椰土等垫料深处 (Deep Burrowing / Estivation)",
+            "meaning": "正常的夜行性休息，或是环境湿度过低时为防止皮肤水分流失而采取的防御保护反应。",
+            "response": "立即检查垫料湿度与环境湿度 (70%~80%)，及时喷水保湿以防形成皮膜干涸。"
+          },
+          {
+            "name": "凝视猎物的同时，后脚趾尖微小频繁抽动 (Pedal Luring)",
+            "meaning": "视觉识别猎物后激发捕食本能，通过模仿蠕虫诱诱猎物靠近的自然捕食动作。",
+            "response": "切勿用手直接喂食，使用钝头长镊子夹取大小适中的猎物进行安全投喂。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：环境温湿度确认 (24°C~28°C, 70%~80%) 与去氯干净水水盆更换",
+            "text": "为防止皮肤吸收毒素，必须使用困过一天以上的去氯自来水或纯净水，并清洗水盆后更换。"
+          },
+          {
+            "name": "中午：垫料卫生排查与清理排泄物以预防红腿病 (Red Leg)",
+            "text": "及时铲除粪便与尿酸，消除氨气滋生与细菌繁殖，预防皮肤败血症（红腿病）。"
+          },
+          {
+            "name": "晚上：防梗阻安全投喂（添加钙粉）与保持夜间安静无光环境",
+            "text": "投喂小于角蛙头部一半大小的食物（饲料或乳鼠），并在防误吞垫料的喂食垫或无垫料盒中定量投喂。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "为什么绝对不能用裸手直接触摸角蛙？",
+            "answer": "角蛙等两栖动物的皮肤具有半透膜性质，能直接将手上的油脂、盐分、化学残余与细菌吸收进血液，导致全身性中气中毒。此外，人类 37°C 的体温对体温随环境变化的角蛙而言会导致严重烫伤。应尽量避免上手，必要时戴上无粉且用去氯水湿润的乳胶手套。"
+          },
+          {
+            "question": "角蛙误吞垫料后腹部鼓胀且数日不排便，是肠梗阻 (Impaction) 吗？",
+            "answer": "极有可能是肠梗阻。角蛙误吞椰土、水苔或吞食硬壳大猎物时极易堵塞肠道。应立即准备 27°C~29°C 的温水，水位漫至角蛙下巴高度，让其进行 15~20 分钟温水浴以促进肠道蠕动。若腹部能摸到硬块且精神萎靡，需立即送往异宠医院。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Señales de conducta en la Rana Pacman y rutina diaria de 3 pasos para la prevención de la impactación y la enfermedad de la pata roja (Red Leg)",
+        "description": "Guía de cuidado para la icónica Rana Pacman (Ceratophrys). Interprete los comportamientos de enterrado y señuelo pedal, controle la humedad y el agua declorada, y prevenga la impactación y la enfermedad de la pata roja en 3 pasos.",
+        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) y Normas de Amphibian Ark",
+        "profile": {
+          "breed": "Rana Pacman (Ceratophrys)",
+          "lifespan": "10 ~ 15 años (Más de 15 años con cuidados óptimos)",
+          "sleep_pattern": "12 ~ 14 horas (Nocturna, duerme enterrada durante el día)",
+          "temperament": "Depredadora de emboscada, Sedentaria, Muy voraz, Piel delicada, Manipulación mínima"
+        },
+        "intro": "Famosa por su cuerpo redondo y su boca gigante que recuerda al personaje de arcade, la Rana Pacman (Ceratophrys) es un anfibio terrestre muy popular en todo el mundo. Como depredadores de emboscada que se entierran a la espera de presas, poseen un apetito voraz. Sin embargo, son sumamente vulnerables a la impactación intestinal causada por la ingestión accidental de sustrato o presas demasiado grandes. Además, al poseer una piel semipermeable que absorbe agua, electrolitos y toxinas directamente, la mala calidad del agua o las infecciones bacterianas pueden provocar la letal enfermedad de la pata roja (Red Leg Disease). En esta guía, presenta una rutina de 3 pasos para cuidar su salud.",
+        "whyTitle": "Lenguaje corporal de la Rana Pacman: Enterrado profundo (Estivación) y señuelo pedal (Pedal Luring)",
+        "whyDesc": "La Rana Pacman comunica necesidades ambientales y disposición de caza mediante la profundidad de enterrado y pequeños movimientos táctiles. Enterrar todo su cuerpo bajo el sustrato **'Enterrado profundo / Estivación'** es un comportamiento normal de descanso o una defensa contra la baja humedad. En cambio, mover rápidamente la punta de sus dedos traseros como si fuera una lombriz mirando a su presa **'Señuelo pedal (Pedal Luring)'** es una señal predatoria que indica que ha fijado su objetivo y está lista para atacar.",
+        "body_signals": [
+          {
+            "name": "Enterrar el cuerpo completamente en el sustrato de fibra de coco (Deep Burrowing / Estivation)",
+            "meaning": "Descanso nocturno normal o mecanismo defensivo ante la sequedad para conservar la humedad de la piel.",
+            "response": "Verifique la humedad del sustrato (70–80%) inmediatamente y rocíe agua para evitar que la piel se deseque."
+          },
+          {
+            "name": "Mover rítmicamente la punta de los dedos traseros mientras fija la mirada en la presa (Pedal Luring)",
+            "meaning": "Comportamiento instintivo de caza usado para atraera presas antes del ataque.",
+            "response": "No alimente con la mano directamente; use pinzas largas de punta roma para ofrecer presas de tamaño adecuado."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Control ambiental (24–28°C, 70–80% Humedad) y reemplazo de agua declorada",
+            "text": "Cambie el agua diariamente con agua sin cloro ni metales pesados, ya que estos se absorben directo por la piel."
+          },
+          {
+            "name": "Tarde: Higiene del sustrato y retirada de excrementos para prevenir la enfermedad de la pata roja",
+            "text": "Retire heces y orina de inmediato para evitar amoníaco y bacterias responsables de la dermatosepticemia (Red Leg)."
+          },
+          {
+            "name": "Noche: Alimentación segura anti-impactación con calcio y ambiente oscuro y tranquilo",
+            "text": "Ofrezca presas más pequeñas que la mitad de su cabeza sobre una superficie limpia para evitar tragar sustrato."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué nunca debo manipular a mi Rana Pacman con las manos desnudas?",
+            "answer": "La piel de la Rana Pacman es semipermeable y absorbe aceites, sal, lociones y bacterias directamente al torrente sanguíneo, causando intoxicación severa. Además, la temperatura corporal humana (37°C) puede provocarles quemaduras térmicas. Evite la manipulación o utilice guantes de látex sin polvo humedecidos con agua declorada."
+          },
+          {
+            "question": "Mi Rana Pacman tragó sustrato, tiene el abdomen hinchado y no defeca, ¿es una impactación?",
+            "answer": "Es muy probable. La impactación intestinal ocurre al ingerir fibra de coco, musgo o presas con caparazón duro. Prepare un baño tibio (27–29°C) con agua a la altura de su barbilla durante 15–20 minutos para estimular el tránsito intestinal. Si permanece dura o letárgica, acuda al veterinario inmediatamente."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Signaux comportementaux de la Grenouille Pacman et routine quotidienne en 3 étapes pour la prévention de l'impaction et de la maladie des pattes rouges (Red Leg)",
+        "description": "Guide de soins pour l'emblématique Grenouille Pacman (Ceratophrys). Décryptez l'enfouissement et le leurre pédal, gérez l'eau déchlorée et l'humidité, et prévenez l'impaction et la maladie des pattes rouges en 3 étapes.",
+        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Normes d'Amphibian Ark",
+        "profile": {
+          "breed": "Grenouille Pacman (Ceratophrys)",
+          "lifespan": "10 ~ 15 ans (Plus de 15 ans avec des soins adaptés)",
+          "sleep_pattern": "12 ~ 14 heures (Nocturne, dort enfouie sous terre le jour)",
+          "temperament": "Prédateur en embuscade, Sédentaire, Vorace, Peau très sensible, Manipulation minimale"
+        },
+        "intro": "Célèbre pour son corps rond et sa bouche géante rappelant le personnage de jeu vidéo, la Grenouille Pacman (Ceratophrys) est un amphibien terrestre très apprécié. Prédateur en embuscade s'enfouissant dans le sol pour guetter ses proies, elle possède un appétit insatiable. Cependant, elle est extrêmement vulnérable à l'impaction intestinale causée par l'ingestion de substrat ou de proies trop grosses. De plus, sa peau semi-perméable absorbant directement l'eau et les toxines, une mauvaise qualité d'eau peut entraîner la maladie mortelle des pattes rouges (Red Leg Disease). Dans ce guide, vous présente une routine en 3 étapes pour protéger sa santé.",
+        "whyTitle": "Langage corporel de la Grenouille Pacman : Enfouissement profond (Estivation) et leurre pédal (Pedal Luring)",
+        "whyDesc": "La Grenouille Pacman exprime ses besoins environnementaux et son état de chasse par la profondeur d'enfouissement et de légers mouvements de pattes. S'enterrer complètement sous le substrat **« Enfouissement profond / Estivation »** est un comportement de repos ou une protection contre une faible humidité. À l'inverse, faire vibrer l'extrémité de ses doigts arrière comme un ver en fixant une proie **« Leurre pédal (Pedal Luring) »** est un signal de prédation indiquant qu'elle est prête à bondir.",
+        "body_signals": [
+          {
+            "name": "S'enterrer complètement dans le substrat (Deep Burrowing / Estivation)",
+            "meaning": "Repos nocturne normal ou réaction de défense face au dessèchement pour préserver l'hydratation de la peau.",
+            "response": "Vérifiez immédiatement l'humidité du substrat (70–80 %) et vaporisez de l'eau pour éviter la formation d'un cocon sec."
+          },
+          {
+            "name": "Faire vibrer la pointe des doigts arrière en fixant sa proie (Pedal Luring)",
+            "meaning": "Comportement instinctif de chasse visant à attirer la proie avant de l'attaquer.",
+            "response": "Ne nourrissez pas à la main ; utilisez une longue pince de nourrissage à bout rond pour lui présenter sa nourriture."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Contrôle du climat (24–28°C, 70–80% d'humidité) & renouvellement de l'eau déchlorée",
+            "text": "Changez l'eau du bac quotidiennement avec de l'eau déchlorée, car le chlore est directement absorbé par sa peau."
+          },
+          {
+            "name": "Après-midi : Inspection de l'hygiène du substrat & retrait des déjections contre la maladie des pattes rouges",
+            "text": "Retirez immédiatement les selles pour éliminer l'ammoniac et les bactéries responsables de la dermatosepticémie (Red Leg)."
+          },
+          {
+            "name": "Soir : Nourrissage sécurisé anti-impaction avec calcium & obscurité calme",
+            "text": "Donnez des proies plus petites que la moitié de sa tête sur un tapis propre pour éviter qu'elle n'avale du substrat."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi ne faut-il jamais manipuler une Grenouille Pacman à mains nues ?",
+            "answer": "La peau de la Grenouille Pacman est semi-perméable et absorbe directement le sel, les huiles, les savons et les bactéries des mains humaines, provoquant une intoxication sévère. De plus, la température corporelle humaine (37°C) peut lui causer des brûlures thermiques. Utilisez des gants en latex sans poudre humidifiés à l'eau déchlorée si une manipulation est indispensable."
+          },
+          {
+            "question": "Ma Grenouille Pacman a avalé du substrat, a le ventre gonflé et ne fait plus de selles : est-ce une impaction ?",
+            "answer": "C'est très probable. L'impaction intestinale survient lors de l'ingestion de substrat (fibre de coco, mousse) ou de proies trop dures. Donnez-lui un bain tiède (27–29°C) d'eau déchlorée au niveau du menton pendant 15 à 20 minutes pour stimuler le transit. Si le ventre reste dur ou si elle reste léthargique, consultez d'urgence un vétérinaire NAC."
+          }
+        ]
+      },
+      "de": {
+        "title": "Verhaltenssignale des Schmuckhornfrosches (Pacman-Frosch) und 3-Schritte-Tagesroutine zur Prävention von Impaktion (Darmverschluss) und Rotbeinigkeit (Red Leg)",
+        "description": "Pflegeanleitung für den kultigen Schmuckhornfrosch (Pacman-Frosch). Eingraben und Zehenködern verstehen, entchlortes Wasser und Luftfeuchtigkeit steuern sowie Impaktion und Rotbeinigkeit in 3 Schritten vorbeugen.",
+        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Standards der Amphibian Ark",
+        "profile": {
+          "breed": "Schmuckhornfrosch / Pacman-Frosch (Ceratophrys)",
+          "lifespan": "10 ~ 15 Jahre (Bei optimaler Haltung über 15 Jahre)",
+          "sleep_pattern": "12 ~ 14 Stunden (Nachtaktiv, schläft tagsüber tief im Substrat)",
+          "temperament": "Lauertäter, Bewegungslos, Gefräßig, Empfindliche Haut, Minimale Handhabung"
+        },
+        "intro": "Bekannt für seinen rundlichen Körper und das riesige Maul, das an die Videospielfigur erinnert, ist der Schmuckhornfrosch (Pacman-Frosch) ein weltweit beliebter Landamphibie. Als Lauerjäger, der sich im Boden eingräbt und auf Beute wartet, besitzt er einen enormen Appetit. Allerdings ist er extrem anfällig für Darmverschlüsse (Impaktion) durch verschlucktes Substrat oder zu große Beutetiere. Da Amphibien über ihre halbdurchlässige Haut Wasser und Schadstoffe direkt aufnehmen, führen schlechte Wasserqualität oder Bakterien rasch zur tödlichen Rotbeinigkeit (Red Leg) und Vergiftung. In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für die Gesundheit Ihres Schmuckhornfrosches.",
+        "whyTitle": "Körpersprache des Schmuckhornfrosches: Tiefes Eingraben (Trockenstarre) und Zehenködern (Pedal Luring)",
+        "whyDesc": "Der Pacman-Frosch drückt Umweltbedürfnisse und Jagdbereitschaft durch Eingrabentiefe und Zehenbewegungen aus. Das vollständige Vergraben unter dem Substrat **'Tiefes Eingraben / Trockenstarre'** ist normales Ruheverhalten oder Schutz vor zu geringer Luftfeuchtigkeit. Das rhythmische Zucken der hinteren Zehenspitzen beim Fixieren der Beute **'Zehenködern (Pedal Luring)'** ist dagegen ein Jagdsignal, das die unmittelbare Angriffsreaktion ankündigt.",
+        "body_signals": [
+          {
+            "name": "Vollständiges Eingraben des Körpers im Substrat (Deep Burrowing / Estivation)",
+            "meaning": "Normaler Ruhemodus oder Schutzreaktion gegen Austrocknung der Haut bei zu geringer Feuchtigkeit.",
+            "response": "Prüfen Sie sofort die Substrat- und Luftfeuchtigkeit (70–80 %) und sprühen Sie Wasser nach."
+          },
+          {
+            "name": "Rhythmisches Zucken der hinteren Zehenspitzen beim Blick auf Beute (Pedal Luring)",
+            "meaning": "Instinktives Jagdverhalten, um Beutetiere anzulocken und den Angriff vorzubereiten.",
+            "response": "Füttern Sie niemals mit der Hand; nutzen Sie eine lange, stumpfe Pinzette zur sicheren Fütterung."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Klima-Klima-Kontrolle (24–28 °C, 70–80 % Feuchte) & Entchlortes Wasser wechseln",
+            "text": "Wechseln Sie die Wasserschale täglich mit aufbereitetem, entchlortem Wasser, da Schadstoffe direkt über die Haut aufgenommen werden."
+          },
+          {
+            "name": "Mittag: Substrathygiene & Kotbeseitigung zur Vorbeugung der Rotbeinigkeit",
+            "text": "Entfernen Sie Ausscheidungen sofort zur Vermeidung von Ammoniak und Bakterien, die Hautsepsis (Red Leg) auslösen."
+          },
+          {
+            "name": "Abend: Impaktionssichere Fütterung mit Calcium & Ruhige, dunkle Umgebung",
+            "text": "Bieten Sie Beute an, die kleiner als die Hälfte des Froschkopfes ist, und füttern Sie auf einer sauberen Unterlage ohne Substrat."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum darf ich meinen Schmuckhornfrosch niemals mit bloßen Händen anfassen?",
+            "answer": "Die Haut des Frosches ist hochsensibel und halbpermeabel; sie nimmt Salze, Öle, Seifenreste und Bakterien der menschlichen Hand direkt auf, was zu schweren Vergiftungen führt. Zudem kann die menschliche Körpertemperatur (37 °C) Verbrennungen verursachen. Nutzen Sie im Notfall puderfreie, mit entchlortem Wasser befeuchtete Latexthandschuhe."
+          },
+          {
+            "question": "Mein Frosch hat Substrat verschluckt, hat einen aufgeblähten Bauch und setzt keinen Kot ab – ist das Impaktion?",
+            "answer": "Das ist sehr wahrscheinlich. Ein Darmverschluss (Impaktion) entsteht durch Verschlucken von Kokoshumus, Moos oder zu harten Beutetieren. Setzen Sie den Frosch für 15–20 Minuten in ein lauwarmes Wasserbad (27–29 °C) bis zur Kinnhöhe, um die Darmtätigkeit anzuregen. Bleibt der Bauch hart, ist sofort ein Fachtierarzt aufzusuchen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Sinais comportamentais do Sapo Pacman e rotina diária de 3 passos para prevenção de impacção intestinal e doença da perna vermelha (Red Leg)",
+        "description": "Guia de cuidados para o icônico Sapo Pacman (Ceratophrys). Interprete os comportamentos de enterrar-se e atração pedal, controle a umidade e a água desclorada, e previna a impacção e a doença da perna vermelha em 3 passos.",
+        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Padrões da Amphibian Ark",
+        "profile": {
+          "breed": "Sapo Pacman (Ceratophrys)",
+          "lifespan": "10 ~ 15 anos (Mais de 15 anos com cuidados adequados)",
+          "sleep_pattern": "12 ~ 14 horas (Noturno, dorme enterrado durante o dia)",
+          "temperament": "Predador de emboscada, Sedentário, Muito voraz, Pele delicada, Manipulação mínima"
+        },
+        "intro": "Famoso por seu corpo redondo e boca gigante que lembra o personagem dos videogames, o Sapo Pacman (Ceratophrys) é um anfíbio terrestre muito popular. Como predadores de emboscada que se enterram no substrato à espera de presas, possuem um apetite voraz. No entanto, são extremamente vulneráveis à impacção intestinal causada pela ingestão acidental de substrato ou presas muito grandes. Além disso, por possuírem pele semipermeável que absorve água e toxinas diretamente, a má qualidade da água pode levar à letal doença da perna vermelha (Red Leg Disease). Neste guia, apresenta uma rotina de 3 passos para cuidar da sua saúde.",
+        "whyTitle": "Linguagem corporal do Sapo Pacman: Enterrar-se profundamente (Estivação) e atração pedal (Pedal Luring)",
+        "whyDesc": "O Sapo Pacman comunica necessidades ambientais e prontidão para caçar através da profundidade de enterrar-se e movimentos nos dedos. Enterrar todo o corpo sob o substrato **'Enterrar-se profundamente / Estivação'** é um descanso normal ou proteção contra a baixa umidade. Por outro lado, fazer vibrar a ponta dos dedos traseiros como uma minhoca ao fixar a presa **'Atração pedal (Pedal Luring)'** é um sinal predatório indicando que está pronto para atacar.",
+        "body_signals": [
+          {
+            "name": "Enterrar o corpo completamente no substrato (Deep Burrowing / Estivation)",
+            "meaning": "Descanso noturno normal ou mecanismo de defesa contra o ressecamento para preservar a umidade da pele.",
+            "response": "Verifique a umidade do substrato (70–80%) imediatamente e borrife água para evitar o ressecamento da pele."
+          },
+          {
+            "name": "Vibrar a ponta dos dedos traseiros enquanto olha para a presa (Pedal Luring)",
+            "meaning": "Comportamento instintivo de caça usado para atrair a presa antes de dar o bote.",
+            "response": "Não alimente diretamente com a mão; use uma pinça longa de ponta cega para oferecer presas de tamanho adequado."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Controle ambiental (24–28°C, 70–80% Umidade) & troca de água desclorada",
+            "text": "Substitua a água diariamente utilizando água sem cloro ou metais pesados, pois estes são absorvidos diretamente pela pele."
+          },
+          {
+            "name": "Tarde: Higiene do substrato & remoção de excrementos para prevenir a doença da perna vermelha",
+            "text": "Remova fezes imediatamente para eliminar o acúmulo de amônia e bactérias causadoras da dermatosepticemia (Red Leg)."
+          },
+          {
+            "name": "Noite: Alimentação segura anti-impacção com cálcio & ambiente escuro e calmo",
+            "text": "Ofereça alimentos menores que a metade do tamanho da cabeça do sapo em uma superfície limpa sem substrato."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que nunca devo manusear meu Sapo Pacman com as mãos desnudas?",
+            "answer": "A pele do Sapo Pacman é semipermeável e absorve óleos, sais, sabões e bactérias das mãos humanas diretamente para a corrente sanguínea, causando severa intoxicação. Além disso, a temperatura do corpo humano (37°C) pode causar queimaduras térmicas no sapo. Use luvas de látex sem pó umedecidas com água desclorada caso a manipulação seja necessária."
+          },
+          {
+            "question": "Meu Sapo Pacman engoliu substrato, está com o abdômen inchado e não defeca: é impacção?",
+            "answer": "É muito provável. A impacção intestinal ocorre pela ingestão de fibra de coco, musgo ou presas duras. Dê um banho morno (27–29°C) com água desclorada na altura do queixo por 15 a 20 minutos para estimular o trânsito intestinal. Se o abdômen permanecer duro ou houver letargia, consulte um veterinário especializado."
+          }
+        ]
+      },
+      "id": {
+        "title": "Sinyal Perilaku Katak Pacman (Pacman Frog) dan Rutinitas Harian 3 Langkah Perawatan Pencegahan Impaksi Usus serta Penyakit Kaki Merah (Red Leg)",
+        "description": "Panduan perawatan anjing amfibi ikonis Katak Pacman (Ceratophrys). Pahami perilaku mengubur diri dan umpan jari kaki pedal luring, kelola air bebas klorin dan kelembapan, serta cegah impaksi dan penyakit kaki merah dalam 3 langkah.",
+        "authority": "Standar Perawatan Association of Reptilian and Amphibian Veterinarians (ARAV) & Amphibian Ark",
+        "profile": {
+          "breed": "Katak Pacman / Pacman Frog (Ceratophrys)",
+          "lifespan": "10 ~ 15 tahun (Lebih dari 15 tahun dengan perawatan optimal)",
+          "sleep_pattern": "12 ~ 14 jam (Nokturnal, tidur mengubur diri di dalam tanah saat siang)",
+          "temperament": "Pemangsa Penyergap, Sedenter, Sangat Rakus, Kulit Sensitif, Manipulasi Minimal"
+        },
+        "intro": "Terkenal dengan tubuhnya yang bulat dan mulutnya yang sangat besar mirip karakter gim arcade, Katak Pacman (Ceratophrys) adalah amfibi darat yang sangat populer di seluruh dunia. Sebagai pemangsa penyergap (ambush predator) yang mengubur diri di tanah untuk menunggu mangsa, Katak Pacman memiliki nafsu makan yang sangat besar. Namun, mereka sangat rentan terhadap penyumbatan usus (impaksi) akibat tidak sengaja menelan alas kandang atau mangsa yang terlalu besar. Selain itu, kulit amfibi yang semi-permeabel menyerap air dan racun secara langsung, sehingga kualitas air yang buruk dapat memicu penyakit kaki merah (Red Leg Disease) yang mematikan. Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk merawat kesehatan Katak Pacman Anda.",
+        "whyTitle": "Bahasa Tubuh Katak Pacman: Mengubur Diri Dalam (Estivasi) dan Umpan Jari Kaki (Pedal Luring)",
+        "whyDesc": "Katak Pacman menyampaikan kebutuhan lingkungan dan kesiapan berburu melalui kedalaman mengubur diri dan gerakan halus jari kaki. Mengubur seluruh tubuh di bawah alas kandang **'Mengubur Diri Dalam / Estivasi'** adalah perilaku istirahat normal atau bentuk pertahanan terhadap kelembapan udara yang rendah. Sebaliknya, menggetarkan ujung jari kaki belakang seperti cacing sambil menatap mangsa **'Umpan Jari Kaki (Pedal Luring)'** adalah sinyal pemangsa yang menandakan mereka telah mengunci target dan siap menyergap.",
+        "body_signals": [
+          {
+            "name": "Mengubur Seluruh Tubuh ke Dalam Substrat Kokopit (Deep Burrowing / Estivation)",
+            "meaning": "Istirahat nokturnal normal atau reaksi pertahanan dari kekeringan untuk menjaga kelembapan kulit.",
+            "response": "Periksa kelembapan substrat dan udara (70–80%) segera, semprotkan air agar kulit tidak mengering."
+          },
+          {
+            "name": "Menggetarkan Ujung Jari Kaki Belakang secara Ritmis Sambil Menatap Mangsa (Pedal Luring)",
+            "meaning": "Perilaku berburu alami untuk memancing mangsa mendekat sebelum disergap.",
+            "response": "Jangan memberi makan dengan tangan langsung; gunakan pinset pemakan yang panjang dan tumpul untuk memberikan mangsa secara aman."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pemeriksaan Suhu & Kelembapan (24–28°C, 70–80%) serta Penggantian Air Bebas Klorin",
+            "text": "Ganti wadah air setiap hari menggunakan air yang sudah diendapkan/bebas klorin karena racun air terserap langsung melalui kulit."
+          },
+          {
+            "name": "Siang: Kebersihan Substrat & Pembersihan Kotoran untuk Mencegah Penyakit Kaki Merah",
+            "text": "Segera bersihkan kotoran untuk mencegah penumpukan amonia dan bakteri penyebab penyakit dermatoseptisemia (Red Leg)."
+          },
+          {
+            "name": "Malam: Pemberian Makanan Aman Bebas Impaksi (Kalsium) & Suasana Gelap yang Tenang",
+            "text": "Berikan pakan yang ukurannya lebih kecil dari separuh ukuran kepala katak di atas matras bersih agar tidak menelan substrat."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa saya tidak boleh memegang Katak Pacman dengan tangan telanjang?",
+            "answer": "Kulit Katak Pacman bersifat semi-permeabel dan dapat menyerap minyak, garam, sabun, dan bakteri dari tangan manusia langsung ke dalam aliran darahnya, menyebabkan keracunan berat. Selain itu, suhu tubuh manusia (37°C) dapat menyebabkan luka bakar thermal pada katak. Hindari memegangnya, atau gunakan sarung tangan lateks bebas bedak yang dibasahi air bebas klorin jika terpaksa."
+          },
+          {
+            "question": "Katak Pacman saya menelan substrat, perutnya membesar dan tidak buang air besar, apakah mengalami impaksi?",
+            "answer": "Kemungkinan besar ya. Impaksi usus terjadi saat katak menelan kokopit, lumut, atau mangsa berfur/bercangkang keras. Rendam katak dalam air hangat (27–29°C) setinggi dagunya selama 15–20 menit untuk merangsang pergerakan usus. Jika perut tetap keras atau katak lemas, segera bawa ke dokter hewan hewan eksotis."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/pacman_frog_care.webp"
+  }
 }

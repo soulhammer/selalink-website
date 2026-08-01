@@ -8,7 +8,8 @@ import {
   renderPetStepCard, 
   renderPetRoutineCard, 
   renderTipBox, 
-  renderFaqSection
+  renderFaqSection,
+  renderPetSelfCtaBox
 } from '../../utils/blogTemplates.js';
 import { compileMasterJsonCollection } from './compile_blog_base.js';
 
@@ -26,13 +27,14 @@ if (!fs.existsSync(metaPath)) {
 
 function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
   const master = data;
-  const enData = master.locales?.['en'] || master.locales?.['ko'] || {};
-  const locData = master.locales?.[lang] || enData;
+  const enData = master.locales?.['en'] || {};
+  const koData = master.locales?.['ko'] || {};
+  const locData = master.locales?.[lang] || (lang === 'ko' ? koData : enData);
 
-  const title = locData.title || enData.title || '';
-  const desc = locData.description || enData.description || '';
-  const auth = locData.authority || enData.authority || '';
-  const intro = locData.intro || enData.intro || '';
+  const title = locData.title || enData.title || (lang === 'ko' ? koData.title : '') || '';
+  const desc = locData.description || enData.description || (lang === 'ko' ? koData.description : '') || '';
+  const auth = locData.authority || enData.authority || (lang === 'ko' ? koData.authority : '') || '';
+  const intro = locData.intro || enData.intro || (lang === 'ko' ? koData.intro : '') || '';
 
   const profile = locData.profile || enData.profile || {};
   const pBreed = profile.breed || '';
@@ -145,6 +147,7 @@ function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
   const curLabels = labelsMap[lang] || labelsMap['en'];
 
   const evidenceBoxHtml = renderEvidenceBox(lang, auth, 'petself');
+  const appCtaHtml = renderPetSelfCtaBox(lang);
   const step1CardHtml = renderPetRoutineCard(lang, 1, step1Title, step1Text);
 
   let step2CardHtml = '';
@@ -200,6 +203,8 @@ ${faqsYaml}
 ${intro}
 
 ${evidenceBoxHtml}
+
+${appCtaHtml}
 
 ---
 

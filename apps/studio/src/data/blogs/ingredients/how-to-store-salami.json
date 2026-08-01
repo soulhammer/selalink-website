@@ -1,406 +1,406 @@
 {
-    "how-to-store-salami": {
-        "ingId": "salami",
-        "pubDate": "2026-05-18",
-        "updatedDate": "2026-05-18",
-        "heroImage": "/images/blog/salami_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "살라미 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 살라미의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS) & EFSA",
-                "intro": "샤퀴테리 플래터나 샌드위치를 만들고 남은 살라미를 냉장고에 넣어두었다가 자른 단면이 딱딱하게 마르고 색이 시꺼멓게 변해버린 적 있으시죠? 🥓\n\n살라미는 유산균 발효를 통한 산도 저하(pH 5.3 미만)와 건조 과정을 통한 수분활동도 저하(a_w 0.90 미만)로 병원균 생육을 억제하는 과학적인 발효 건조 소시지입니다. 하지만 겉껍질을 벗기거나 단면을 잘라내는 순간 미오글로빈 변성(갈색화)과 유리지방산의 공기 산화가 급격히 진행되는 특성을 지니고 있습니다.\n\n이번 가이드에서는 미국 농무부(USDA)와 유럽식품안전청(EFSA)의 공인 가이드라인을 바탕으로, 살라미의 유익균 표면을 보호하고 산패 없이 3~4주간 풍미를 길게 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "단면 공기 노출 및 비닐 밀폐 방치는 산패와 부패의 주원인입니다 ⚠️",
-                        "desc": "살라미의 자른 단면이 공기에 노출되면 지방 산화가 일어나고 미오글로빈이 변성되어 색이 검어집니다. 반면 통살라미 전체를 비닐 밀폐 용기에 꽁꽁 싸매면 겉면 호기성 유익균 생태계가 무너지며 습기가 차 유해 곰팡이가 번식할 수 있습니다."
-                    },
-                    {
-                        "title": "겉면의 하얀 곰팡이는 닦아내지 말고 보존하세요 🛑",
-                        "desc": "살라미 겉면을 감싸고 있는 하얀 가루는 유해균과 산소를 막아주는 유익균(Penicillium nalgiovense)입니다. 섭취 전 껍질을 벗길 때를 제외하고 보관 중에는 이를 일부러 닦아내거나 씻어내지 않아야 안전하게 보존됩니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "절단 단면은 랩으로 밀착 포장하여 저온 보관하기 — 단면 밀봉 냉장 (21~30일) 🥓",
-                        "text": "살라미는 절단면에만 공기가 닿지 않도록 포장하는 것이 핵심입니다. 💡 보관 팁: 썰어낸 단면에 식품용 랩을 공기 방울 없이 완벽히 밀착시킨 후 냉장고(2~7℃)에 보관하세요. 공기 접촉을 차단하여 지방 산패와 단면 마름 현상을 막아줍니다."
-                    },
-                    {
-                        "name": "통살라미는 유황지나 종이에 싸서 통풍되게 저온 보관하기 — 통살라미 저온 보관 ❄️",
-                        "text": "자르지 않은 통살라미는 겉면의 호흡이 가능해야 합니다. 💡 보관 팁: 통살라미는 밀폐 용기 대신 유황지(파치먼트 페이퍼)나 종이로 느슨하게 감싸 냉장고 신선실이나 서늘한 곳(10~15℃)에 보관하면 겉면 곰팡이 생태계가 유지되며 수개월간 보존됩니다."
-                    },
-                    {
-                        "name": "얇게 슬라이스한 살라미는 왁스 페이퍼 레이어링 후 밀폐 보관하기 — 슬라이스 밀봉 보관 🥪",
-                        "text": "얇게 썬 살라미는 단면적이 넓어 산화 속도가 훨씬 빠릅니다. 💡 보관 팁: 슬라이스 사이에 종이나 왁스 페이퍼를 한 장씩 끼우고 밀폐 용기나 지퍼백에 공기를 빼고 보관하면 1~2주간 엉겨붙지 않고 신선하게 유지됩니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "살라미 껍질에 피어있는 하얀 가루나 곰팡이는 먹어도 안전한가요?",
-                        "answer": "네, 완벽히 안전하고 유용한 곰팡이입니다! 살라미 겉면의 흰 가루는 페니실리움 날기오벤세(Penicillium nalgiovense)라는 유익균으로, 유해 잡균의 침입을 막고 지방 산화를 방지하며 살라미 특유의 풍미를 만듭니다. 섭취 시에는 케이싱(껍질)을 벗겨내고 드시면 됩니다."
-                    },
-                    {
-                        "question": "남은 살라미 단면이 왜 검붉게 변하고 딱딱해지는 건가요?",
-                        "answer": "자른 단면이 공기 중 산소에 노출되어 미오글로빈 색소가 산화 및 변성되고, 내부 수분이 증발하면서 일어나는 현상입니다. 자른 직후 단면에 식품용 랩을 빈틈없이 밀착시켜 공기와 수분 증발을 차단해야 선명한 빛깔과 부드러운 식감을 유지할 수 있습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Salami Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for salami based on official safety guidelines.",
-                "authority": "USDA & MFDS & EFSA",
-                "intro": "Have you ever stored leftover salami after making a charcuterie platter or sandwich, only to find the cut surface turned dark, hard, and dry? 🥓\n\nSalami is a scientifically fermented and dried sausage that inhibits pathogen growth by lowering acidity through lactic acid fermentation (pH < 5.3) and reducing water activity through curing (a_w < 0.90). However, the moment the casing is peeled or the sausage is sliced, myoglobin denaturation (browning) and lipid autoxidation from oxygen exposure accelerate rapidly.\n\nBased on official guidelines from the USDA and European Food Safety Authority (EFSA), this 3-step scientific storage guide demonstrates how to protect the beneficial mold ecosystem on salami and keep it fresh without rancidity for 3 to 4 weeks. 🛡️",
-                "whyTitle": "Why Store Salami This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Exposing cut surfaces to air or sealing whole salami in plastic causes rancidity and decay ⚠️",
-                        "desc": "Exposing the sliced end of salami to air triggers lipid autoxidation and darkens myoglobin. Conversely, sealing a whole uncut salami tightly in plastic containers destroys its beneficial aerobic mold layer and traps moisture, encouraging spoilage."
-                    },
-                    {
-                        "title": "Do not wipe or wash off the white mold on the surface 🛑",
-                        "desc": "The white coating on the salami casing consists of beneficial mold (Penicillium nalgiovense) that blocks harmful bacteria and oxygen. Unless you are peeling the casing off to consume it, do not scrub or wash this layer away during storage."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Wrap cut surfaces tightly with plastic wrap and refrigerate — Sealed Cut Refrigeration (21–30 Days) 🥓",
-                        "text": "The key to storing sliced salami is covering only the exposed cut face. 💡 Storage Tip: Press plastic wrap tightly against the cut end without air bubbles and refrigerate (2–7°C / 36–45°F) to block oxidation and drying."
-                    },
-                    {
-                        "name": "Wrap whole salami loosely in parchment paper for breathable cold storage — Whole Salami Cooling ❄️",
-                        "text": "Uncut whole salami requires surface airflow to maintain its curing balance. 💡 Storage Tip: Wrap whole salami loosely in parchment or butcher paper instead of plastic and store in a cool pantry or fridge crisper (10–15°C / 50–59°F) to preserve the surface flora."
-                    },
-                    {
-                        "name": "Layer sliced salami with wax paper before storing in airtight containers — Sliced Storage 🥪",
-                        "text": "Thinly sliced salami has a larger surface area, accelerating oxidation. 💡 Storage Tip: Place a sheet of parchment or wax paper between slices, squeeze out air inside a container or zip-top bag, and refrigerate to keep slices fresh for 1–2 weeks."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Is the white powder or mold on the salami casing safe to eat?",
-                        "answer": "Yes, it is completely safe and beneficial! The white coating is Penicillium nalgiovense, a good mold inoculated onto cured meats to block harmful pathogens, slow lipid oxidation, and develop signature salami flavors. Simply peel off the outer casing before consuming."
-                    },
-                    {
-                        "question": "Why does the cut end of leftover salami turn dark and hard?",
-                        "answer": "Exposure to atmospheric oxygen oxidizes myoglobin pigments and evaporates moisture from the exposed meat tissue. Wrapping plastic wrap tightly against the exposed cut surface immediately after slicing seals out oxygen and retains moisture."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "サラミ（Salami）を新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくサラミの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS) & EFSA",
-                "intro": "シャルキュトリボードやサンドイッチに使った残りのサラミを冷蔵庫に入れておいたら、切り口が黒く硬く乾燥してしまった経験はありませんか？🥓\n\nサラミは乳酸菌発酵による pH 低下（pH 5.3未満）と乾燥による水分活性低下（a_w 0.90未満）によって病原菌の繁殖を抑える科学的な発酵乾燥ソーセージです。しかし、ケーシングを剥がしたり断面をカットした瞬間から、ミオグロビン変性（褐色化）と遊離脂肪酸の空気酸化が急速に進行する特性を持っています。\n\n本記事では、米国農務省（USDA）および欧州食品安全機関（EFSA）の公式ガイドラインに基づき、サラミの益菌表面を保護し酸敗を防いで3〜4週間美味しさを保つ3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "断面の空気暴露および一本ごとのポリ袋密閉は酸敗と腐敗の原因になります ⚠️",
-                        "desc": "サラミのカット断面が空気中の酸素に晒されると脂質酸化が起き、ミオグロビンが変性して黒ずみます。一方、一本丸ごとのサラミを密閉容器で包むと好気性益菌の生態系が崩れ、蒸れて腐敗カビが繁殖する原因になります。"
-                    },
-                    {
-                        "title": "表面の白いカビは拭き取らずに保護してください 🛑",
-                        "desc": "サラミの表面を覆う白い粉は、有害菌や酸素を遮断してくれる益菌（Penicillium nalgiovense）です。食べる直前に皮を剥く時を除き、保存中は無理に拭き取ったり洗い流したりしないでください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "カット断面をラップで密着包装して低温保存する — 断面密閉冷蔵 (21〜30日間) 🥓",
-                        "text": "サラミは切った断面のみに空気が出入りしないよう包装するのがポイントです。💡保存のコツ：切り口に空気が入らないよう食品用ラップをぴったり密させ、冷蔵庫（2〜7℃）で保管すると脂肪の酸化と乾燥を防げます。"
-                    },
-                    {
-                        "name": "一本丸ごとのサラミはパーチメント紙で包み通気性を持たせて保存 — 丸ごと低温保存 ❄️",
-                        "text": "カットしていない一本のサラミは表面の通気性が必要です。💡保存のコツ：密閉容器ではなくクッキングシートや紙でふんわり包み、冷蔵庫の野菜室や涼しい場所（10〜15℃）に保管すると表面のカビ生態系が維持されます。"
-                    },
-                    {
-                        "name": "スライスサラミはワックスペーパーを挟んで密閉保存する — スライス密閉保存 🥪",
-                        "text": "薄切りにしたサラミは表面積が広く酸化のスピードが非常に早いです。💡保存のコツ：スライスの間に1枚ずつクッキングペーパーを挟み、ジッパーバッグの空気を抜いて密閉保存すると1〜2週間新鮮に保てます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "サラミの皮についている白い粉やカビは食べても安全ですか？",
-                        "answer": "はい、完全に安全で有用なカビです！サラミ表面の白い粉はペニシリウム・ナルギオベンセ（Penicillium nalgiovense）という益菌で、有害菌の侵入を防ぎ脂質の酸化を抑制して独自の風味を作ります。食べる際はケーシング（外皮）を剥がしてお召し上がりください。"
-                    },
-                    {
-                        "question": "残ったサラミの切り口が黒っぽく硬くなってしまうのはなぜですか？",
-                        "answer": "カットした断面が空気中の酸素に触れることでミオグロビン色素が酸化変性し、内部の水分が蒸発するために起こる現象です。カット後すぐに断面へラップを隙間なく密着させ、空気と乾燥を遮断することが重要です。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持萨拉米香肠（Salami）新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解萨拉米发酵干香肠的最佳储存温度、方式及保鲜时长。",
-                "authority": "USDA & MFDS & EFSA",
-                "intro": "制作完风干肉盘或三明治后，您是否遇到过剩下的萨拉米香肠在冰箱里切口变硬、颜色发黑的情况？🥓\n\n萨拉米是通过乳酸菌发酵降低酸度（pH值小于5.3）并经过风干降低水分活性（a_w小于0.90）来抑制病原菌滋生的科学发酵干香肠。然而，一旦剥离肠衣或切开断面，肌红蛋白变性（发黑）以及游离脂肪酸的空气氧化就会剧烈加速。\n\n本指南基于美国农务部（USDA）与欧洲食品安全局（EFSA）的权威指南，为您介绍3步科学保存秘诀，保护香肠表面的有益菌层，防油脂酸败，锁住风味达3~4周。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "切口暴露于空气中或将整根香肠塑料密封是酸败腐烂的主因 ⚠️",
-                        "desc": "将萨拉米的切口暴露在空气中会导致脂肪氧化和肌红蛋白变性发黑。反之，若用塑料密封袋将整根未切开的香肠包裹太紧，会破坏其表面的好氧性有益菌生态并积聚潮气，从而滋生有害霉菌。"
-                    },
-                    {
-                        "title": "切勿擦拭或洗掉表面的白霉菌层 🛑",
-                        "desc": "覆盖在萨拉米外壳上的白色粉末是有益菌（Penicillium nalgiovense），能隔绝有害菌和氧气。除了食用前剥除肠衣外，保存期间切勿擦拭或用水清洗该白霉层。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "切口用保鲜膜紧密包裹后低温冷藏 — 贴膜切口冷藏 (21~30天) 🥓",
-                        "text": "保存萨拉米切块的关键在于只密封裸露的切口。💡储存小贴士：将食品级保鲜膜无气泡地紧贴在切口处，放入冰箱（2~7℃）冷藏，可阻断氧气接触，防止脂肪酸败和切面干硬。"
-                    },
-                    {
-                        "name": "整根香肠用羊皮纸松弛包裹通风冷藏 — 整根低温保存 ❄️",
-                        "text": "未切开的整根萨拉米需要表面透气。💡储存小贴士：使用羊皮纸（烘焙纸）或纸张包裹整根香肠，置于冰箱冷藏室抽屉或阴凉处（10~15℃），可维持表面菌群生态达数月之久。"
-                    },
-                    {
-                        "name": "薄切片萨拉米垫入蜡纸后密封冷藏 — 切片密封保存 🥪",
-                        "text": "切成薄片的萨拉米表面积大，氧化速度极快。💡储存小贴士：在每片萨拉米之间垫入一张蜡纸或烘焙纸，装入密封袋并挤出空气冷藏，可保持1~2周新鲜且不粘连。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "萨拉米肠衣上的白色粉末或霉菌可以安全食用吗？",
-                        "answer": "完全安全且极其有益！萨拉米表面的白色粉末是纳尔吉青霉菌（Penicillium nalgiovense），这种有益菌能阻挡有害杂菌侵入、延缓脂肪氧化并赋予萨拉米独特的风味。食用时只需将外层肠衣剥离即可。"
-                    },
-                    {
-                        "question": "为什么切开剩下的萨拉米切面会发黑发硬？",
-                        "answer": "这是因为切面暴露于空气中的氧气，导致肉质中的肌红蛋白色素发生氧化变性，同时内部水分蒸发。切开后立即用保鲜膜紧贴切面密封，即可阻断氧气并锁住水分。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener el salami fresco: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para el salami según las directrices oficiales de seguridad.",
-                "authority": "USDA & MFDS & EFSA",
-                "intro": "¿Alguna vez guardó sobrantes de salami tras preparar un bocadillo o tabla de charcutería y descubrió que la superficie cortada se volvió oscura y dura? 🥓\n\nEl salami es un embutido curado y fermentado que inhibe patógenos mediante la acidificación por bacterias lácticas (pH < 5.3) y la reducción de la actividad de agua mediante el secado (a_w < 0.90). Sin embargo, en cuanto se retira la piel o se corta el embutido, la desnaturalización de la mioglobina y la autooxidación lipídica por exposición al oxígeno se aceleran rápidamente.\n\nBasado en directrices oficiales del USDA y la Autoridad Europea de Seguridad Alimentaria (EFSA), esta guía le enseña un método científico en 3 pasos para proteger el moho beneficioso del salami y mantenerlo fresco durante 3 a 4 semanas. 🛡️",
-                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Exponer el corte al aire o sellar el salami entero en plástico causa rancia calidad ⚠️",
-                        "desc": "Exponer el corte del salami al aire causa oxidación de lípidos y oscurece la mioglobina. En cambio, sellar un salami entero en bolsas de plástico herméticas destruye la capa de moho benéfico aeróbico y atrapa humedad propiciando moho dañino."
-                    },
-                    {
-                        "title": "No limpie ni lave la capa de moho blanco de la superficie 🛑",
-                        "desc": "El polvo blanco de la piel es un moho beneficioso (Penicillium nalgiovense) que bloquea patógenos y oxígeno. A menos que vaya a retirar la tripa para consumirlo, no limpie esta capa durante el almacenamiento."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Envuelva la superficie cortada firmemente con film plástico y refrigere — Refrigeración del corte (21–30 días) 🥓",
-                        "text": "La clave para conservar el salami cortado es cubrir únicamente la parte expuesta. 💡 Consejo de almacenamiento: Presione film transparente contra el corte sin dejar burbujas de aire y refrigere (2–7 °C) para frenar la oxidación."
-                    },
-                    {
-                        "name": "Envuelva el salami entero sin apretar en papel vegetal — Conservación fresca del embutido ❄️",
-                        "text": "El salami entero sin cortar requiere ventilación superficial. 💡 Consejo de almacenamiento: Envuelva el salami en papel de cocina o papel vegetal en lugar de plástico y guárdelo en el refrigerador (10–15 °C)."
-                    },
-                    {
-                        "name": "Separe las lonchas de salami con papel sulfurizado antes de congelar o sellar — Conservación en lonchas 🥪",
-                        "text": "El salami en lonchas tiene mayor superficie de contacto con el aire. 💡 Consejo de almacenamiento: Coloque papel vegetal entre cada loncha, extraiga el aire en una bolsa zip y refrigere para mantenerlo fresco durante 1–2 semanas."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Es seguro comer el polvo o moho blanco de la piel del salami?",
-                        "answer": "¡Sí, es completamente seguro y beneficioso! La capa blanca es Penicillium nalgiovense, un moho bueno inoculado para proteger el embutido contra bacterias dañinas y la oxidación de grasas, aportando su aroma característico. Solo retire la tripa exterior antes de comer."
-                    },
-                    {
-                        "question": "¿Por qué la superficie cortada del salami se vuelve oscura y dura?",
-                        "answer": "Se debe a la exposición al oxígeno, que oxida los pigmentos de mioglobina y evapora la humedad de la carne. Envolver apretadamente con film transparente el corte expuesto inmediatamente después de cortar evita este problema."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver le salami frais : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le salami selon les directives officielles de sécurité.",
-                "authority": "USDA & MFDS & EFSA",
-                "intro": "Avez-vous déjà conservé du salami entamé après avoir préparé un sandwich ou une planche de charcuterie pour découvrir que la tranche coupée devenait dure et sombre ? 🥓\n\nLe salami est un saucisson sec fermenté dont la sécurité est assurée par l'acidification (pH < 5.3) et le séchage qui réduit l'activité de l'eau (a_w < 0.90). Cependant, dès que le boyau est retiré ou que la viande est tranchée, la dénaturation de la myoglobine et l'auto-oxydation des lipides au contact de l'air s'accélèrent.\n\nBasé sur les conseils du USDA et de l'Autorité européenne de sécurité des aliments (EFSA), ce guide en 3 étapes explique comment protéger les moisissures bénéfiques du salami et le conserver sans rancissement pendant 3 à 4 semaines. 🛡️",
-                "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Laisser la tranche à l'air ou sceller un salami entier dans du plastique provoque le rancissement ⚠️",
-                        "desc": "Laisser la tranche de salami à l'air libre oxyde les graisses et noircit la myoglobine. En revanche, enfermer un salami entier dans du plastique détruit la fleur superficielle bénéfique et retient l'humidité."
-                    },
-                    {
-                        "title": "Ne pas essuyer la couverture de moisissure blanche sur la peau 🛑",
-                        "desc": "La poudre blanche qui recouvre le salami est une moisissure noble (Penicillium nalgiovense) empêchant les bactéries nocives et l'oxygène de pénétrer. Ne la nettoyez pas pendant le stockage."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Envelopper fermement la tranche entamée de film étirable et réfrigérer — Conservation de la tranche (21–30 jours) 🥓",
-                        "text": "Le secret pour conserver le salami entamé est de protéger uniquement la partie coupée. 💡 Astuce de conservation : Plaquez du film étirable directement sur la tranche sans bulles d'air et réfrigérez (2–7 °C) pour stopper l'oxydation."
-                    },
-                    {
-                        "name": "Envelopper le salami entier sans serrer dans du papier sulfurisé — Conservation du saucisson entier ❄️",
-                        "text": "Un salami entier non tranché nécessite une aération superficielle. 💡 Astuce de conservation : Enveloppez-le dans du papier cuisson au lieu d'un sac en plastique et conservez-le au réfrigérateur ou dans un endroit frais (10–15 °C)."
-                    },
-                    {
-                        "name": "Séparer les tranches de salami avec du papier sulfurisé en boîte hermétique — Conservation des tranches 🥪",
-                        "text": "Le salami en tranches a une grande surface de contact avec l'air. 💡 Astuce de conservation : Intercalez une feuille de papier cuisson entre chaque tranche, chassez l'air du sachet et réfrigérez pendant 1 à 2 semaines."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "La poudre ou moisissure blanche sur la peau du salami est-elle consommable ?",
-                        "answer": "Oui, elle est parfaitement sûre et bénéfique ! Cette couche blanche est constituée de Penicillium nalgiovense, une bonne moisissure qui protège le salami contre les bactéries indésirables et l'oxydation. Retirez simplement le boyau avant de déguster."
-                    },
-                    {
-                        "question": "Pourquoi la tranche de salami entamée devient-elle sombre et dure ?",
-                        "answer": "L'exposition à l'oxygène oxyde les pigments de myoglobine et fait évaporer l'eau contenue dans la viande. Envelopper la tranche coupée de film étirable immédiatement après découpe bloque l'air et préserve la texture."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Salami richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Salami basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "USDA & MFDS & EFSA",
-                "intro": "Haben Sie schon einmal eine angebrochene Salami im Kühlschrank gelagert und festgestellt, dass die Schnittfläche dunkel, hart und trocken wurde? 🥓\n\nSalami ist eine fermentierte Rohwurst, bei der Krankheitserreger durch Milchsäuregärung (pH < 5.3) und Trocknung (Wasseraktivität a_w < 0.90) gehemmt werden. Sobald die Wurst jedoch aufgeschnitten oder geschält wird, beschleunigen sich Myoglobin-Denaturierung (Dunkelfärbung) und Fettoxidation drastisch.\n\nBasierend auf offiziellen Empfehlungen der USDA und EFSA zeigt Ihnen dieser Ratgeber in 3 Schritten, wie Sie die Edelschimmel-Schicht der Salami schützen und die Wurst 3 bis 4 Wochen lang ohne Ranzigwerden frisch halten. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Offene Schnittflächen oder luftdichtes Einwickeln ganzer Salamis meiden ⚠️",
-                        "desc": "Liegt die Schnittfläche offen an der Luft, oxidiert das Fett und Myoglobin verfärbt sich dunkel. Das komplette Einwickeln einer ganzen Salami in Plastik zerstört hingegen die Edelschimmelschicht und lässt Schimmelpilze wachsen."
-                    },
-                    {
-                        "title": "Den weißen Edelschimmel auf der Hülle keinesfalls abwaschen 🛑",
-                        "desc": "Der weiße Belag auf der Salamihülle besteht aus Nützlingen (Penicillium nalgiovense), die Schädlinge und Sauerstoff abwehren. Waschen oder wischen Sie diesen Belag während der Lagerung nicht ab."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Schnittfläche eng mit Frischhaltefolie umwickeln und kühlen — Schnittflächen-Kühlung (21–30 Tage) 🥓",
-                        "text": "Bei angeschnittener Salami muss nur die offene Schnittfläche luftdicht abgedeckt werden. 💡 Lagerungstipp: Drücken Sie Frischhaltefolie blasenfrei auf die Schnittfläche und lagern Sie die Salami im Kühlschrank (2–7 °C)."
-                    },
-                    {
-                        "name": "Ganze Salami locker in Backpapier wickeln und kühl lagern — Ganzwurst-Lagerung ❄️",
-                        "text": "Unaufgeschnittene Salami benötigt Luftzirkulation an der Oberfläche. 💡 Lagerungstipp: Wickeln Sie eine ganze Salami locker in Backpapier ein und lagern Sie sie im kühlen Fach oder der Speisekammer (10–15 °C)."
-                    },
-                    {
-                        "name": "Salami-Scheiben mit Trennpapier in einer Dosis aufbewahren — Scheiben-Lagerung 🥪",
-                        "text": "Aufgeschnittene Salami bietet eine große Angriffsfläche für Oxidation. 💡 Lagerungstipp: Legen Sie Backpapier zwischen die Scheiben, drücken Sie die Luft aus dem Beutel und kühlen Sie sie für 1–2 Wochen."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Ist der weiße Belag auf der Salamihülle essbar und unbedenklich?",
-                        "answer": "Ja, absolut unbedenklich und nützlich! Es handelt sich um Penicillium nalgiovense, einen Edelschimmel, der das Fleisch vor Schädlingen schützt, die Fettoxidation verlangsamt und das typische Aroma erzeugt. Ziehen Sie die Hülle vor dem Verzehr einfach ab."
-                    },
-                    {
-                        "question": "Warum wird die Schnittfläche einer Salami dunkel und hart?",
-                        "answer": "Sauerstoff oxidiert die Myoglobin-Pigmente im Fleisch und lässt Feuchtigkeit verdunsten. Das direkte Abdecken der Schnittfläche mit Frischhaltefolie verhindert den Luftkontakt und hält das Fleisch frisch."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar salame fresco: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para o salame com base em diretrizes oficiais de segurança.",
-                "authority": "USDA & MFDS & EFSA",
-                "intro": "Você já guardou salame fatiado após montar uma tábua de frios ou sanduíche e percebeu que a parte cortada ficou escura e dura? 🥓\n\nO salame é um embutido curado e fermentado que inibe patógenos reduzindo o pH através da fermentação lática (pH < 5.3) e diminuindo a atividade de água pela secagem (a_w < 0.90). No entanto, assim que a tripa é retirada ou o salame é cortado, a desnaturação da mioglobina e a oxidação lipídica pelo ar se aceleram.\n\nCom base em diretrizes do USDA e da Autoridade Europeia para a Segurança dos Alimentos (EFSA), este guia em 3 etapas ensina como proteger o mofo benéfico do salame e mantê-lo fresco por 3 a 4 semanas. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Deixar o corte exposto ou selar o salame inteiro em plástico causa rancificação ⚠️",
-                        "desc": "Expor o corte do salame ao ar oxida as gorduras e escurece a mioglobina. Por outro lado, embalar um salame inteiro em plástico destrói a camada de mofo aeróbico benéfico e acumula umidade."
-                    },
-                    {
-                        "title": "Não remova nem lave o mofo branco da superfície do salame 🛑",
-                        "desc": "A camada branca na pele do salame é um mofo benéfico (Penicillium nalgiovense) que bloqueia bactérias e oxigênio. A menos que vá retirar a pele para comer, não limpe essa camada."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Envolva a parte cortada com filme plástico e refrigere — Refrigeração do corte (21–30 dias) 🥓",
-                        "text": "O segredo para conservar o salame cortado é proteger apenas a superfície exposta. 💡 Dica de conservação: Pressione filme plástico sobre o corte sem bolhas de ar e refrigere (2–7 °C) para evitar a oxidação."
-                    },
-                    {
-                        "name": "Embrulhe o salame inteiro em papel-manteiga para ventilação — Conservação do salame inteiro ❄️",
-                        "text": "O salame inteiro precisa de fluxo de ar na superfície. 💡 Dica de conservação: Embrulhe o salame em papel-manteiga ou papel culinário e guarde na geladeira ou local fresco (10–15 °C)."
-                    },
-                    {
-                        "name": "Separe as fatias de salame com papel-manteiga em pote hermético — Conservação fatiada 🥪",
-                        "text": "O salame fatiado tem maior área de exposição ao ar. 💡 Dica de conservação: Coloque papel-manteiga entre as fatias, retire o ar do pote e refrigere por 1 a 2 semanas."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "É seguro comer a camada ou mofo branco na pele do salame?",
-                        "answer": "Sim, é totalmente seguro e benéfico! A camada branca é Penicillium nalgiovense, um mofo do bem que protege o salame contra bactérias nocivas e oxidação das gorduras, além de dar sabor ao embutido. Basta retirar a pele antes de consumir."
-                    },
-                    {
-                        "question": "Por que a ponta cortada do salame fica escura e dura?",
-                        "answer": "A exposição ao oxigênio oxida os pigmentos de mioglobina e evapora a água da carne. Envolver o corte exposto com filme plástico logo após cortar evita a perda de umidade e a oxidação."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Salami / Sosis Kering agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk salami berdasarkan pedoman keselamatan resmi.",
-                "authority": "USDA & MFDS & EFSA",
-                "intro": "Pernahkah Anda menyimpan sisa salami setelah membuat sandwich atau charcuterie board lalu mendapati potongan dagingnya menjadi gelap dan keras? 🥓\n\nSalami adalah sosis fermentasi kering yang menghambat pertumbuhan bakteri berbahaya melalui penurunan keasaman (pH < 5.3) dan pengurangan aktivitas air (a_w < 0.90). Namun, saat kulitnya dikupas atau dagingnya dipotong, denaturasi mioglobin dan autoksidasi lemak akibat paparan udara akan terpacu cepat.\n\nBerdasarkan pedoman resmi USDA dan EFSA, panduan 3 langkah ini menjelaskan cara melindungi lapisan kapang baik pada salami dan menyimpannya tetap segar tanpa tengik selama 3 hingga 4 minggu. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Membiarkan potongan terbuka atau membungkus salami utuh dengan plastik rapat memicu ketengikan ⚠️",
-                        "desc": "Membiarkan irisan salami terpapar udara memicu oksidasi lemak dan merusak warna mioglobin. Sebaliknya, membungkus salami utuh rapat-rapat dalam kantong plastik akan merusak kapang aerobik baik dan memicu jamur pembusuk."
-                    },
-                    {
-                        "title": "Jangan mengusap atau mencuci lapisan kapang putih di permukaan 🛑",
-                        "desc": "Lapisan putih pada kulit salami adalah kapang baik (Penicillium nalgiovense) yang menghalangi kuman jahat dan oksigen. Kecuali saat akan dikupas untuk dimakan, jangan mengusap atau mencuci lapisan ini."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Bungkus permukaan potongan rapat-rapat dengan plastik wrap — Simpan Dingin Irisan (21–30 Hari) 🥓",
-                        "text": "Kunci menyimpan salami yang sudah dipotong adalah menutup permukaan irisannya saja. 💡 Tips Penyimpanan: Tempelkan plastik wrap rapat-rapat pada permukaan potongan tanpa gelembung udara lalu simpan di kulkas (2–7°C)."
-                    },
-                    {
-                        "name": "Bungkus salami utuh dengan kertas roti agar tetap ber-sirkulasi — Simpan Salami Utuh ❄️",
-                        "text": "Salami utuh yang belum dipotong membutuhkan sirkulasi udara di permukaannya. 💡 Tips Penyimpanan: Bungkus salami utuh secara longgar menggunakan kertas roti/baking paper lalu simpan di tempat sejuk/kulkas (10–15°C)."
-                    },
-                    {
-                        "name": "Lapisi lembaran irisan salami dengan kertas roti sebelum disimpan — Simpan Lembaran Salami 🥪",
-                        "text": "Salami yang diiris tipis memiliki area terpapar udara lebih luas sehingga cepat teroksidasi. 💡 Tips Penyimpanan: Selipkan kertas roti di antara tiap irisan salami, buang udara dalam wadah kedap udara, lalu simpan di kulkas selama 1–2 minggu."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apakah bubuk atau kapang putih pada kulit salami aman dimakan?",
-                        "answer": "Sangat aman dan justru bermanfaat! Lapisan putih tersebut adalah Penicillium nalgiovense, kapang baik yang sengaja dikembangkan untuk melindungi salami dari kuman berbahaya, menekan oksidasi lemak, serta memberikan aroma khas salami. Kupas kulit luar sebelum dikonsumsi."
-                    },
-                    {
-                        "question": "Mengapa permukaan potongan salami berubah menjadi gelap dan keras?",
-                        "answer": "Hal tersebut terjadi akibat paparan oksigen yang mengoksidasi pigmen mioglobin serta menguapkan air dari daging. Menempelkan plastik wrap secara erat pada permukaan potongan segera setelah diiris akan mencegah paparan udara."
-                    }
-                ]
-            }
-        }
+  "how-to-store-salami": {
+    "ingId": "salami",
+    "pubDate": "2026-05-18",
+    "updatedDate": "2026-05-18",
+    "heroImage": "/images/blog/salami_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "살라미 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 살라미의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS) & EFSA",
+        "intro": "샤퀴테리 플래터나 샌드위치를 만들고 남은 살라미를 냉장고에 넣어두었다가 자른 단면이 딱딱하게 마르고 색이 시꺼멓게 변해버린 적 있으시죠? 🥓\n\n살라미는 유산균 발효를 통한 산도 저하(pH 5.3 미만)와 건조 과정을 통한 수분활동도 저하(a_w 0.90 미만)로 병원균 생육을 억제하는 과학적인 발효 건조 소시지입니다. 하지만 겉껍질을 벗기거나 단면을 잘라내는 순간 미오글로빈 변성(갈색화)과 유리지방산의 공기 산화가 급격히 진행되는 특성을 지니고 있습니다.\n\n이번 가이드에서는 미국 농무부(USDA)와 유럽식품안전청(EFSA)의 공인 가이드라인을 바탕으로, 살라미의 유익균 표면을 보호하고 산패 없이 3~4주간 풍미를 길게 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "단면 공기 노출 및 비닐 밀폐 방치는 산패와 부패의 주원인입니다 ⚠️",
+            "desc": "살라미의 자른 단면이 공기에 노출되면 지방 산화가 일어나고 미오글로빈이 변성되어 색이 검어집니다. 반면 통살라미 전체를 비닐 밀폐 용기에 꽁꽁 싸매면 겉면 호기성 유익균 생태계가 무너지며 습기가 차 유해 곰팡이가 번식할 수 있습니다."
+          },
+          {
+            "title": "겉면의 하얀 곰팡이는 닦아내지 말고 보존하세요 🛑",
+            "desc": "살라미 겉면을 감싸고 있는 하얀 가루는 유해균과 산소를 막아주는 유익균(Penicillium nalgiovense)입니다. 섭취 전 껍질을 벗길 때를 제외하고 보관 중에는 이를 일부러 닦아내거나 씻어내지 않아야 안전하게 보존됩니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "절단 단면은 랩으로 밀착 포장하여 저온 보관하기 — 단면 밀봉 냉장 (21~30일) 🥓",
+            "text": "살라미는 절단면에만 공기가 닿지 않도록 포장하는 것이 핵심입니다. 💡 보관 팁: 썰어낸 단면에 식품용 랩을 공기 방울 없이 완벽히 밀착시킨 후 냉장고(2~7℃)에 보관하세요. 공기 접촉을 차단하여 지방 산패와 단면 마름 현상을 막아줍니다."
+          },
+          {
+            "name": "통살라미는 유황지나 종이에 싸서 통풍되게 저온 보관하기 — 통살라미 저온 보관 ❄️",
+            "text": "자르지 않은 통살라미는 겉면의 호흡이 가능해야 합니다. 💡 보관 팁: 통살라미는 밀폐 용기 대신 유황지(파치먼트 페이퍼)나 종이로 느슨하게 감싸 냉장고 신선실이나 서늘한 곳(10~15℃)에 보관하면 겉면 곰팡이 생태계가 유지되며 수개월간 보존됩니다."
+          },
+          {
+            "name": "얇게 슬라이스한 살라미는 왁스 페이퍼 레이어링 후 밀폐 보관하기 — 슬라이스 밀봉 보관 🥪",
+            "text": "얇게 썬 살라미는 단면적이 넓어 산화 속도가 훨씬 빠릅니다. 💡 보관 팁: 슬라이스 사이에 종이나 왁스 페이퍼를 한 장씩 끼우고 밀폐 용기나 지퍼백에 공기를 빼고 보관하면 1~2주간 엉겨붙지 않고 신선하게 유지됩니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "살라미 껍질에 피어있는 하얀 가루나 곰팡이는 먹어도 안전한가요?",
+            "answer": "네, 완벽히 안전하고 유용한 곰팡이입니다! 살라미 겉면의 흰 가루는 페니실리움 날기오벤세(Penicillium nalgiovense)라는 유익균으로, 유해 잡균의 침입을 막고 지방 산화를 방지하며 살라미 특유의 풍미를 만듭니다. 섭취 시에는 케이싱(껍질)을 벗겨내고 드시면 됩니다."
+          },
+          {
+            "question": "남은 살라미 단면이 왜 검붉게 변하고 딱딱해지는 건가요?",
+            "answer": "자른 단면이 공기 중 산소에 노출되어 미오글로빈 색소가 산화 및 변성되고, 내부 수분이 증발하면서 일어나는 현상입니다. 자른 직후 단면에 식품용 랩을 빈틈없이 밀착시켜 공기와 수분 증발을 차단해야 선명한 빛깔과 부드러운 식감을 유지할 수 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Salami Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for salami based on official safety guidelines.",
+        "authority": "USDA & MFDS & EFSA",
+        "intro": "Have you ever stored leftover salami after making a charcuterie platter or sandwich, only to find the cut surface turned dark, hard, and dry? 🥓\n\nSalami is a scientifically fermented and dried sausage that inhibits pathogen growth by lowering acidity through lactic acid fermentation (pH < 5.3) and reducing water activity through curing (a_w < 0.90). However, the moment the casing is peeled or the sausage is sliced, myoglobin denaturation (browning) and lipid autoxidation from oxygen exposure accelerate rapidly.\n\nBased on official guidelines from the USDA and European Food Safety Authority (EFSA), this 3-step scientific storage guide demonstrates how to protect the beneficial mold ecosystem on salami and keep it fresh without rancidity for 3 to 4 weeks. 🛡️",
+        "whyTitle": "Why Store Salami This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Exposing cut surfaces to air or sealing whole salami in plastic causes rancidity and decay ⚠️",
+            "desc": "Exposing the sliced end of salami to air triggers lipid autoxidation and darkens myoglobin. Conversely, sealing a whole uncut salami tightly in plastic containers destroys its beneficial aerobic mold layer and traps moisture, encouraging spoilage."
+          },
+          {
+            "title": "Do not wipe or wash off the white mold on the surface 🛑",
+            "desc": "The white coating on the salami casing consists of beneficial mold (Penicillium nalgiovense) that blocks harmful bacteria and oxygen. Unless you are peeling the casing off to consume it, do not scrub or wash this layer away during storage."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Wrap cut surfaces tightly with plastic wrap and refrigerate — Sealed Cut Refrigeration (21–30 Days) 🥓",
+            "text": "The key to storing sliced salami is covering only the exposed cut face. 💡 Storage Tip: Press plastic wrap tightly against the cut end without air bubbles and refrigerate (2–7°C / 36–45°F) to block oxidation and drying."
+          },
+          {
+            "name": "Wrap whole salami loosely in parchment paper for breathable cold storage — Whole Salami Cooling ❄️",
+            "text": "Uncut whole salami requires surface airflow to maintain its curing balance. 💡 Storage Tip: Wrap whole salami loosely in parchment or butcher paper instead of plastic and store in a cool pantry or fridge crisper (10–15°C / 50–59°F) to preserve the surface flora."
+          },
+          {
+            "name": "Layer sliced salami with wax paper before storing in airtight containers — Sliced Storage 🥪",
+            "text": "Thinly sliced salami has a larger surface area, accelerating oxidation. 💡 Storage Tip: Place a sheet of parchment or wax paper between slices, squeeze out air inside a container or zip-top bag, and refrigerate to keep slices fresh for 1–2 weeks."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Is the white powder or mold on the salami casing safe to eat?",
+            "answer": "Yes, it is completely safe and beneficial! The white coating is Penicillium nalgiovense, a good mold inoculated onto cured meats to block harmful pathogens, slow lipid oxidation, and develop signature salami flavors. Simply peel off the outer casing before consuming."
+          },
+          {
+            "question": "Why does the cut end of leftover salami turn dark and hard?",
+            "answer": "Exposure to atmospheric oxygen oxidizes myoglobin pigments and evaporates moisture from the exposed meat tissue. Wrapping plastic wrap tightly against the exposed cut surface immediately after slicing seals out oxygen and retains moisture."
+          }
+        ]
+      },
+      "ja": {
+        "title": "サラミ（Salami）を新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくサラミの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS) & EFSA",
+        "intro": "シャルキュトリボードやサンドイッチに使った残りのサラミを冷蔵庫に入れておいたら、切り口が黒く硬く乾燥してしまった経験はありませんか？🥓\n\nサラミは乳酸菌発酵による pH 低下（pH 5.3未満）と乾燥による水分活性低下（a_w 0.90未満）によって病原菌の繁殖を抑える科学的な発酵乾燥ソーセージです。しかし、ケーシングを剥がしたり断面をカットした瞬間から、ミオグロビン変性（褐色化）と遊離脂肪酸の空気酸化が急速に進行する特性を持っています。\n\n本記事では、米国農務省（USDA）および欧州食品安全機関（EFSA）の公式ガイドラインに基づき、サラミの益菌表面を保護し酸敗を防いで3〜4週間美味しさを保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "断面の空気暴露および一本ごとのポリ袋密閉は酸敗と腐敗の原因になります ⚠️",
+            "desc": "サラミのカット断面が空気中の酸素に晒されると脂質酸化が起き、ミオグロビンが変性して黒ずみます。一方、一本丸ごとのサラミを密閉容器で包むと好気性益菌の生態系が崩れ、蒸れて腐敗カビが繁殖する原因になります。"
+          },
+          {
+            "title": "表面の白いカビは拭き取らずに保護してください 🛑",
+            "desc": "サラミの表面を覆う白い粉は、有害菌や酸素を遮断してくれる益菌（Penicillium nalgiovense）です。食べる直前に皮を剥く時を除き、保存中は無理に拭き取ったり洗い流したりしないでください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "カット断面をラップで密着包装して低温保存する — 断面密閉冷蔵 (21〜30日間) 🥓",
+            "text": "サラミは切った断面のみに空気が出入りしないよう包装するのがポイントです。💡保存のコツ：切り口に空気が入らないよう食品用ラップをぴったり密させ、冷蔵庫（2〜7℃）で保管すると脂肪の酸化と乾燥を防げます。"
+          },
+          {
+            "name": "一本丸ごとのサラミはパーチメント紙で包み通気性を持たせて保存 — 丸ごと低温保存 ❄️",
+            "text": "カットしていない一本のサラミは表面の通気性が必要です。💡保存のコツ：密閉容器ではなくクッキングシートや紙でふんわり包み、冷蔵庫の野菜室や涼しい場所（10〜15℃）に保管すると表面のカビ生態系が維持されます。"
+          },
+          {
+            "name": "スライスサラミはワックスペーパーを挟んで密閉保存する — スライス密閉保存 🥪",
+            "text": "薄切りにしたサラミは表面積が広く酸化のスピードが非常に早いです。💡保存のコツ：スライスの間に1枚ずつクッキングペーパーを挟み、ジッパーバッグの空気を抜いて密閉保存すると1〜2週間新鮮に保てます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "サラミの皮についている白い粉やカビは食べても安全ですか？",
+            "answer": "はい、完全に安全で有用なカビです！サラミ表面の白い粉はペニシリウム・ナルギオベンセ（Penicillium nalgiovense）という益菌で、有害菌の侵入を防ぎ脂質の酸化を抑制して独自の風味を作ります。食べる際はケーシング（外皮）を剥がしてお召し上がりください。"
+          },
+          {
+            "question": "残ったサラミの切り口が黒っぽく硬くなってしまうのはなぜですか？",
+            "answer": "カットした断面が空気中の酸素に触れることでミオグロビン色素が酸化変性し、内部の水分が蒸発するために起こる現象です。カット後すぐに断面へラップを隙間なく密着させ、空気と乾燥を遮断することが重要です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持萨拉米香肠（Salami）新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解萨拉米发酵干香肠的最佳储存温度、方式及保鲜时长。",
+        "authority": "USDA & MFDS & EFSA",
+        "intro": "制作完风干肉盘或三明治后，您是否遇到过剩下的萨拉米香肠在冰箱里切口变硬、颜色发黑的情况？🥓\n\n萨拉米是通过乳酸菌发酵降低酸度（pH值小于5.3）并经过风干降低水分活性（a_w小于0.90）来抑制病原菌滋生的科学发酵干香肠。然而，一旦剥离肠衣或切开断面，肌红蛋白变性（发黑）以及游离脂肪酸的空气氧化就会剧烈加速。\n\n本指南基于美国农务部（USDA）与欧洲食品安全局（EFSA）的权威指南，为您介绍3步科学保存秘诀，保护香肠表面的有益菌层，防油脂酸败，锁住风味达3~4周。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "切口暴露于空气中或将整根香肠塑料密封是酸败腐烂的主因 ⚠️",
+            "desc": "将萨拉米的切口暴露在空气中会导致脂肪氧化和肌红蛋白变性发黑。反之，若用塑料密封袋将整根未切开的香肠包裹太紧，会破坏其表面的好氧性有益菌生态并积聚潮气，从而滋生有害霉菌。"
+          },
+          {
+            "title": "切勿擦拭或洗掉表面的白霉菌层 🛑",
+            "desc": "覆盖在萨拉米外壳上的白色粉末是有益菌（Penicillium nalgiovense），能隔绝有害菌和氧气。除了食用前剥除肠衣外，保存期间切勿擦拭或用水清洗该白霉层。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "切口用保鲜膜紧密包裹后低温冷藏 — 贴膜切口冷藏 (21~30天) 🥓",
+            "text": "保存萨拉米切块的关键在于只密封裸露的切口。💡储存小贴士：将食品级保鲜膜无气泡地紧贴在切口处，放入冰箱（2~7℃）冷藏，可阻断氧气接触，防止脂肪酸败和切面干硬。"
+          },
+          {
+            "name": "整根香肠用羊皮纸松弛包裹通风冷藏 — 整根低温保存 ❄️",
+            "text": "未切开的整根萨拉米需要表面透气。💡储存小贴士：使用羊皮纸（烘焙纸）或纸张包裹整根香肠，置于冰箱冷藏室抽屉或阴凉处（10~15℃），可维持表面菌群生态达数月之久。"
+          },
+          {
+            "name": "薄切片萨拉米垫入蜡纸后密封冷藏 — 切片密封保存 🥪",
+            "text": "切成薄片的萨拉米表面积大，氧化速度极快。💡储存小贴士：在每片萨拉米之间垫入一张蜡纸或烘焙纸，装入密封袋并挤出空气冷藏，可保持1~2周新鲜且不粘连。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "萨拉米肠衣上的白色粉末或霉菌可以安全食用吗？",
+            "answer": "完全安全且极其有益！萨拉米表面的白色粉末是纳尔吉青霉菌（Penicillium nalgiovense），这种有益菌能阻挡有害杂菌侵入、延缓脂肪氧化并赋予萨拉米独特的风味。食用时只需将外层肠衣剥离即可。"
+          },
+          {
+            "question": "为什么切开剩下的萨拉米切面会发黑发硬？",
+            "answer": "这是因为切面暴露于空气中的氧气，导致肉质中的肌红蛋白色素发生氧化变性，同时内部水分蒸发。切开后立即用保鲜膜紧贴切面密封，即可阻断氧气并锁住水分。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener el salami fresco: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para el salami según las directrices oficiales de seguridad.",
+        "authority": "USDA & MFDS & EFSA",
+        "intro": "¿Alguna vez guardó sobrantes de salami tras preparar un bocadillo o tabla de charcutería y descubrió que la superficie cortada se volvió oscura y dura? 🥓\n\nEl salami es un embutido curado y fermentado que inhibe patógenos mediante la acidificación por bacterias lácticas (pH < 5.3) y la reducción de la actividad de agua mediante el secado (a_w < 0.90). Sin embargo, en cuanto se retira la piel o se corta el embutido, la desnaturalización de la mioglobina y la autooxidación lipídica por exposición al oxígeno se aceleran rápidamente.\n\nBasado en directrices oficiales del USDA y la Autoridad Europea de Seguridad Alimentaria (EFSA), esta guía le enseña un método científico en 3 pasos para proteger el moho beneficioso del salami y mantenerlo fresco durante 3 a 4 semanas. 🛡️",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Exponer el corte al aire o sellar el salami entero en plástico causa rancia calidad ⚠️",
+            "desc": "Exponer el corte del salami al aire causa oxidación de lípidos y oscurece la mioglobina. En cambio, sellar un salami entero en bolsas de plástico herméticas destruye la capa de moho benéfico aeróbico y atrapa humedad propiciando moho dañino."
+          },
+          {
+            "title": "No limpie ni lave la capa de moho blanco de la superficie 🛑",
+            "desc": "El polvo blanco de la piel es un moho beneficioso (Penicillium nalgiovense) que bloquea patógenos y oxígeno. A menos que vaya a retirar la tripa para consumirlo, no limpie esta capa durante el almacenamiento."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Envuelva la superficie cortada firmemente con film plástico y refrigere — Refrigeración del corte (21–30 días) 🥓",
+            "text": "La clave para conservar el salami cortado es cubrir únicamente la parte expuesta. 💡 Consejo de almacenamiento: Presione film transparente contra el corte sin dejar burbujas de aire y refrigere (2–7 °C) para frenar la oxidación."
+          },
+          {
+            "name": "Envuelva el salami entero sin apretar en papel vegetal — Conservación fresca del embutido ❄️",
+            "text": "El salami entero sin cortar requiere ventilación superficial. 💡 Consejo de almacenamiento: Envuelva el salami en papel de cocina o papel vegetal en lugar de plástico y guárdelo en el refrigerador (10–15 °C)."
+          },
+          {
+            "name": "Separe las lonchas de salami con papel sulfurizado antes de congelar o sellar — Conservación en lonchas 🥪",
+            "text": "El salami en lonchas tiene mayor superficie de contacto con el aire. 💡 Consejo de almacenamiento: Coloque papel vegetal entre cada loncha, extraiga el aire en una bolsa zip y refrigere para mantenerlo fresco durante 1–2 semanas."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Es seguro comer el polvo o moho blanco de la piel del salami?",
+            "answer": "¡Sí, es completamente seguro y beneficioso! La capa blanca es Penicillium nalgiovense, un moho bueno inoculado para proteger el embutido contra bacterias dañinas y la oxidación de grasas, aportando su aroma característico. Solo retire la tripa exterior antes de comer."
+          },
+          {
+            "question": "¿Por qué la superficie cortada del salami se vuelve oscura y dura?",
+            "answer": "Se debe a la exposición al oxígeno, que oxida los pigmentos de mioglobina y evapora la humedad de la carne. Envolver apretadamente con film transparente el corte expuesto inmediatamente después de cortar evita este problema."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver le salami frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le salami selon les directives officielles de sécurité.",
+        "authority": "USDA & MFDS & EFSA",
+        "intro": "Avez-vous déjà conservé du salami entamé après avoir préparé un sandwich ou une planche de charcuterie pour découvrir que la tranche coupée devenait dure et sombre ? 🥓\n\nLe salami est un saucisson sec fermenté dont la sécurité est assurée par l'acidification (pH < 5.3) et le séchage qui réduit l'activité de l'eau (a_w < 0.90). Cependant, dès que le boyau est retiré ou que la viande est tranchée, la dénaturation de la myoglobine et l'auto-oxydation des lipides au contact de l'air s'accélèrent.\n\nBasé sur les conseils du USDA et de l'Autorité européenne de sécurité des aliments (EFSA), ce guide en 3 étapes explique comment protéger les moisissures bénéfiques du salami et le conserver sans rancissement pendant 3 à 4 semaines. 🛡️",
+        "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Laisser la tranche à l'air ou sceller un salami entier dans du plastique provoque le rancissement ⚠️",
+            "desc": "Laisser la tranche de salami à l'air libre oxyde les graisses et noircit la myoglobine. En revanche, enfermer un salami entier dans du plastique détruit la fleur superficielle bénéfique et retient l'humidité."
+          },
+          {
+            "title": "Ne pas essuyer la couverture de moisissure blanche sur la peau 🛑",
+            "desc": "La poudre blanche qui recouvre le salami est une moisissure noble (Penicillium nalgiovense) empêchant les bactéries nocives et l'oxygène de pénétrer. Ne la nettoyez pas pendant le stockage."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Envelopper fermement la tranche entamée de film étirable et réfrigérer — Conservation de la tranche (21–30 jours) 🥓",
+            "text": "Le secret pour conserver le salami entamé est de protéger uniquement la partie coupée. 💡 Astuce de conservation : Plaquez du film étirable directement sur la tranche sans bulles d'air et réfrigérez (2–7 °C) pour stopper l'oxydation."
+          },
+          {
+            "name": "Envelopper le salami entier sans serrer dans du papier sulfurisé — Conservation du saucisson entier ❄️",
+            "text": "Un salami entier non tranché nécessite une aération superficielle. 💡 Astuce de conservation : Enveloppez-le dans du papier cuisson au lieu d'un sac en plastique et conservez-le au réfrigérateur ou dans un endroit frais (10–15 °C)."
+          },
+          {
+            "name": "Séparer les tranches de salami avec du papier sulfurisé en boîte hermétique — Conservation des tranches 🥪",
+            "text": "Le salami en tranches a une grande surface de contact avec l'air. 💡 Astuce de conservation : Intercalez une feuille de papier cuisson entre chaque tranche, chassez l'air du sachet et réfrigérez pendant 1 à 2 semaines."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "La poudre ou moisissure blanche sur la peau du salami est-elle consommable ?",
+            "answer": "Oui, elle est parfaitement sûre et bénéfique ! Cette couche blanche est constituée de Penicillium nalgiovense, une bonne moisissure qui protège le salami contre les bactéries indésirables et l'oxydation. Retirez simplement le boyau avant de déguster."
+          },
+          {
+            "question": "Pourquoi la tranche de salami entamée devient-elle sombre et dure ?",
+            "answer": "L'exposition à l'oxygène oxyde les pigments de myoglobine et fait évaporer l'eau contenue dans la viande. Envelopper la tranche coupée de film étirable immédiatement après découpe bloque l'air et préserve la texture."
+          }
+        ]
+      },
+      "de": {
+        "title": "Salami richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Salami basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "USDA & MFDS & EFSA",
+        "intro": "Haben Sie schon einmal eine angebrochene Salami im Kühlschrank gelagert und festgestellt, dass die Schnittfläche dunkel, hart und trocken wurde? 🥓\n\nSalami ist eine fermentierte Rohwurst, bei der Krankheitserreger durch Milchsäuregärung (pH < 5.3) und Trocknung (Wasseraktivität a_w < 0.90) gehemmt werden. Sobald die Wurst jedoch aufgeschnitten oder geschält wird, beschleunigen sich Myoglobin-Denaturierung (Dunkelfärbung) und Fettoxidation drastisch.\n\nBasierend auf offiziellen Empfehlungen der USDA und EFSA zeigt Ihnen dieser Ratgeber in 3 Schritten, wie Sie die Edelschimmel-Schicht der Salami schützen und die Wurst 3 bis 4 Wochen lang ohne Ranzigwerden frisch halten. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Offene Schnittflächen oder luftdichtes Einwickeln ganzer Salamis meiden ⚠️",
+            "desc": "Liegt die Schnittfläche offen an der Luft, oxidiert das Fett und Myoglobin verfärbt sich dunkel. Das komplette Einwickeln einer ganzen Salami in Plastik zerstört hingegen die Edelschimmelschicht und lässt Schimmelpilze wachsen."
+          },
+          {
+            "title": "Den weißen Edelschimmel auf der Hülle keinesfalls abwaschen 🛑",
+            "desc": "Der weiße Belag auf der Salamihülle besteht aus Nützlingen (Penicillium nalgiovense), die Schädlinge und Sauerstoff abwehren. Waschen oder wischen Sie diesen Belag während der Lagerung nicht ab."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Schnittfläche eng mit Frischhaltefolie umwickeln und kühlen — Schnittflächen-Kühlung (21–30 Tage) 🥓",
+            "text": "Bei angeschnittener Salami muss nur die offene Schnittfläche luftdicht abgedeckt werden. 💡 Lagerungstipp: Drücken Sie Frischhaltefolie blasenfrei auf die Schnittfläche und lagern Sie die Salami im Kühlschrank (2–7 °C)."
+          },
+          {
+            "name": "Ganze Salami locker in Backpapier wickeln und kühl lagern — Ganzwurst-Lagerung ❄️",
+            "text": "Unaufgeschnittene Salami benötigt Luftzirkulation an der Oberfläche. 💡 Lagerungstipp: Wickeln Sie eine ganze Salami locker in Backpapier ein und lagern Sie sie im kühlen Fach oder der Speisekammer (10–15 °C)."
+          },
+          {
+            "name": "Salami-Scheiben mit Trennpapier in einer Dosis aufbewahren — Scheiben-Lagerung 🥪",
+            "text": "Aufgeschnittene Salami bietet eine große Angriffsfläche für Oxidation. 💡 Lagerungstipp: Legen Sie Backpapier zwischen die Scheiben, drücken Sie die Luft aus dem Beutel und kühlen Sie sie für 1–2 Wochen."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Ist der weiße Belag auf der Salamihülle essbar und unbedenklich?",
+            "answer": "Ja, absolut unbedenklich und nützlich! Es handelt sich um Penicillium nalgiovense, einen Edelschimmel, der das Fleisch vor Schädlingen schützt, die Fettoxidation verlangsamt und das typische Aroma erzeugt. Ziehen Sie die Hülle vor dem Verzehr einfach ab."
+          },
+          {
+            "question": "Warum wird die Schnittfläche einer Salami dunkel und hart?",
+            "answer": "Sauerstoff oxidiert die Myoglobin-Pigmente im Fleisch und lässt Feuchtigkeit verdunsten. Das direkte Abdecken der Schnittfläche mit Frischhaltefolie verhindert den Luftkontakt und hält das Fleisch frisch."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar salame fresco: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para o salame com base em diretrizes oficiais de segurança.",
+        "authority": "USDA & MFDS & EFSA",
+        "intro": "Você já guardou salame fatiado após montar uma tábua de frios ou sanduíche e percebeu que a parte cortada ficou escura e dura? 🥓\n\nO salame é um embutido curado e fermentado que inibe patógenos reduzindo o pH através da fermentação lática (pH < 5.3) e diminuindo a atividade de água pela secagem (a_w < 0.90). No entanto, assim que a tripa é retirada ou o salame é cortado, a desnaturação da mioglobina e a oxidação lipídica pelo ar se aceleram.\n\nCom base em diretrizes do USDA e da Autoridade Europeia para a Segurança dos Alimentos (EFSA), este guia em 3 etapas ensina como proteger o mofo benéfico do salame e mantê-lo fresco por 3 a 4 semanas. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Deixar o corte exposto ou selar o salame inteiro em plástico causa rancificação ⚠️",
+            "desc": "Expor o corte do salame ao ar oxida as gorduras e escurece a mioglobina. Por outro lado, embalar um salame inteiro em plástico destrói a camada de mofo aeróbico benéfico e acumula umidade."
+          },
+          {
+            "title": "Não remova nem lave o mofo branco da superfície do salame 🛑",
+            "desc": "A camada branca na pele do salame é um mofo benéfico (Penicillium nalgiovense) que bloqueia bactérias e oxigênio. A menos que vá retirar a pele para comer, não limpe essa camada."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Envolva a parte cortada com filme plástico e refrigere — Refrigeração do corte (21–30 dias) 🥓",
+            "text": "O segredo para conservar o salame cortado é proteger apenas a superfície exposta. 💡 Dica de conservação: Pressione filme plástico sobre o corte sem bolhas de ar e refrigere (2–7 °C) para evitar a oxidação."
+          },
+          {
+            "name": "Embrulhe o salame inteiro em papel-manteiga para ventilação — Conservação do salame inteiro ❄️",
+            "text": "O salame inteiro precisa de fluxo de ar na superfície. 💡 Dica de conservação: Embrulhe o salame em papel-manteiga ou papel culinário e guarde na geladeira ou local fresco (10–15 °C)."
+          },
+          {
+            "name": "Separe as fatias de salame com papel-manteiga em pote hermético — Conservação fatiada 🥪",
+            "text": "O salame fatiado tem maior área de exposição ao ar. 💡 Dica de conservação: Coloque papel-manteiga entre as fatias, retire o ar do pote e refrigere por 1 a 2 semanas."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "É seguro comer a camada ou mofo branco na pele do salame?",
+            "answer": "Sim, é totalmente seguro e benéfico! A camada branca é Penicillium nalgiovense, um mofo do bem que protege o salame contra bactérias nocivas e oxidação das gorduras, além de dar sabor ao embutido. Basta retirar a pele antes de consumir."
+          },
+          {
+            "question": "Por que a ponta cortada do salame fica escura e dura?",
+            "answer": "A exposição ao oxigênio oxida os pigmentos de mioglobina e evapora a água da carne. Envolver o corte exposto com filme plástico logo após cortar evita a perda de umidade e a oxidação."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Salami / Sosis Kering agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk salami berdasarkan pedoman keselamatan resmi.",
+        "authority": "USDA & MFDS & EFSA",
+        "intro": "Pernahkah Anda menyimpan sisa salami setelah membuat sandwich atau charcuterie board lalu mendapati potongan dagingnya menjadi gelap dan keras? 🥓\n\nSalami adalah sosis fermentasi kering yang menghambat pertumbuhan bakteri berbahaya melalui penurunan keasaman (pH < 5.3) dan pengurangan aktivitas air (a_w < 0.90). Namun, saat kulitnya dikupas atau dagingnya dipotong, denaturasi mioglobin dan autoksidasi lemak akibat paparan udara akan terpacu cepat.\n\nBerdasarkan pedoman resmi USDA dan EFSA, panduan 3 langkah ini menjelaskan cara melindungi lapisan kapang baik pada salami dan menyimpannya tetap segar tanpa tengik selama 3 hingga 4 minggu. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Membiarkan potongan terbuka atau membungkus salami utuh dengan plastik rapat memicu ketengikan ⚠️",
+            "desc": "Membiarkan irisan salami terpapar udara memicu oksidasi lemak dan merusak warna mioglobin. Sebaliknya, membungkus salami utuh rapat-rapat dalam kantong plastik akan merusak kapang aerobik baik dan memicu jamur pembusuk."
+          },
+          {
+            "title": "Jangan mengusap atau mencuci lapisan kapang putih di permukaan 🛑",
+            "desc": "Lapisan putih pada kulit salami adalah kapang baik (Penicillium nalgiovense) yang menghalangi kuman jahat dan oksigen. Kecuali saat akan dikupas untuk dimakan, jangan mengusap atau mencuci lapisan ini."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Bungkus permukaan potongan rapat-rapat dengan plastik wrap — Simpan Dingin Irisan (21–30 Hari) 🥓",
+            "text": "Kunci menyimpan salami yang sudah dipotong adalah menutup permukaan irisannya saja. 💡 Tips Penyimpanan: Tempelkan plastik wrap rapat-rapat pada permukaan potongan tanpa gelembung udara lalu simpan di kulkas (2–7°C)."
+          },
+          {
+            "name": "Bungkus salami utuh dengan kertas roti agar tetap ber-sirkulasi — Simpan Salami Utuh ❄️",
+            "text": "Salami utuh yang belum dipotong membutuhkan sirkulasi udara di permukaannya. 💡 Tips Penyimpanan: Bungkus salami utuh secara longgar menggunakan kertas roti/baking paper lalu simpan di tempat sejuk/kulkas (10–15°C)."
+          },
+          {
+            "name": "Lapisi lembaran irisan salami dengan kertas roti sebelum disimpan — Simpan Lembaran Salami 🥪",
+            "text": "Salami yang diiris tipis memiliki area terpapar udara lebih luas sehingga cepat teroksidasi. 💡 Tips Penyimpanan: Selipkan kertas roti di antara tiap irisan salami, buang udara dalam wadah kedap udara, lalu simpan di kulkas selama 1–2 minggu."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah bubuk atau kapang putih pada kulit salami aman dimakan?",
+            "answer": "Sangat aman dan justru bermanfaat! Lapisan putih tersebut adalah Penicillium nalgiovense, kapang baik yang sengaja dikembangkan untuk melindungi salami dari kuman berbahaya, menekan oksidasi lemak, serta memberikan aroma khas salami. Kupas kulit luar sebelum dikonsumsi."
+          },
+          {
+            "question": "Mengapa permukaan potongan salami berubah menjadi gelap dan keras?",
+            "answer": "Hal tersebut terjadi akibat paparan oksigen yang mengoksidasi pigmen mioglobin serta menguapkan air dari daging. Menempelkan plastik wrap secara erat pada permukaan potongan segera setelah diiris akan mencegah paparan udara."
+          }
+        ]
+      }
     }
+  }
 }

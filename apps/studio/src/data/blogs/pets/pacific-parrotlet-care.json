@@ -1,459 +1,459 @@
 {
-    "pacific-parrotlet-care": {
-        "pubDate": "2026-06-10",
-        "updatedDate": "2026-06-10",
-        "locales": {
-            "ko": {
-                "title": "태평양 포켓앵무 높은 활동량 케어법과 영역 스트레스 관리·영양 펠렛 3단계 일상 루틴",
-                "description": "'세계에서 가장 작은 앵무새' 태평양 포켓앵무. 작은 체구에 비례한 높은 활동량과 영역 경계 스트레스 관리, 영양 펠렛 중심 3단계 케어 가이드를 제공합니다.",
-                "authority": "미국조류학회(AAV) 자문 표준 및 세계조류협회(WPT) 소형 앵무새 복지 가이드라인",
-                "profile": {
-                    "breed": "태평양 포켓앵무 (Pacific Parrotlet / Forpus coelestis)",
-                    "lifespan": "15 ~ 20년",
-                    "sleep_pattern": "10 ~ 12시간 (완전한 암막 환경에서 소음 없는 수면 필수)",
-                    "temperament": "대담함, 활발함, 호기심 많음, 영역 유세 심함, 충성스러움"
-                },
-                "intro": "태평양 포켓앵무(Pacific Parrotlet)는 몸길이 약 12~14cm에 불과한 '세계에서 가장 작은 앵무새'로, 아파트나 소형 주거 공간에서 사육하기 적합하여 북미와 유럽에서 입문용 반려조로 폭발적인 인기를 끌고 있습니다. 체구는 작지만 대형 앵무새 못지않은 강한 담력과 높은 지능, 무한한 체력을 지니고 있어 '작은 몸에 들어간 거대한 앵무새'라는 별명을 가지고 있습니다. 다만 자존감이 강하고 자기 영역에 대한 경계심이 높아 새장이나 전용 공간에 대한 영역 유세(Territoriality) 행동을 보이기 쉬우며, 영양 불균형 시 지방간이나 비만이 올 수 있어 영양 펠렛 중심의 식단 관리가 필수적입니다. 이번 가이드에서는 태평양 포켓앵무의 본능적 감정 신호를 분석하고, 영역 스트레스 완화와 건강 관리를 위한 3단계 일상 루틴을 공개합니다.",
-                "whyTitle": "태평양 포켓앵무의 본능: 깃털 부풀리기(Fluffing)와 부리 갈기(Beak Grinding) 시그널",
-                "whyDesc": "태평양 포켓앵무는 작지만 자기주장이 명확한 조류입니다. 경계 대상이나 낯선 이가 자신의 영역에 접근하면 체구를 커 보이게 하려고 깃털을 크게 부풀리고 목을 늘리는 영역 경계 시그널을 보입니다. 반면 기분이 매우 좋고 편안할 때는 눈을 감고 부리를 맷돌 돌리듯 사각사각 소리를 내는 '부리 갈기(Beak Grinding)' 행동을 통해 극상의 안도감을 표현합니다.",
-                "body_signals": [
-                    {
-                        "name": "부리 사각사각 갈기 (Beak Grinding)",
-                        "meaning": "수면 전이나 보호자의 품에서 눈을 감고 부리를 부드럽게 가는 행위로, 신체적·정서적으로 극도의 안전함과 만족감을 느끼고 있다는 표시입니다.",
-                        "response": "소음을 내지 않고 분위기를 조용하게 유지해 주어 편안하게 휴식하거나 잠에 들도록 도웁니다."
-                    },
-                    {
-                        "name": "몸 깃털 크게 부풀리기 및 목 늘리기 (Territorial Feather Fluffing)",
-                        "meaning": "자신의 새장이나 영역에 침범자가 들어왔다고 느껴 상대를 위협하고 영역을 지키려는 경계 및 공격 태세 신호입니다.",
-                        "response": "새장 안으로 손을 갑자기 밀어 넣지 말고, 훈련용 스탠드나 새장 밖 자유 구역으로 부드럽게 유도하여 영역 스트레스를 줄여줍니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 고영양 소형 전용 펠렛 및 신선한 야채·과일 제공",
-                        "text": "씨앗 위주의 고지방 식단을 지양하고, 영양 균형을 맞춘 소형 앵무 전용 펠렛과 신선한 비타민 풍부 야채(당근, 파슬리 등)를 공급합니다."
-                    },
-                    {
-                        "name": "낮: 높은 활동량 해소를 위한 포리지(Foraging) 장난감 및 방사장 활동",
-                        "text": "작은 몸집 대비 왕성한 활동량을 충족하도록 먹이를 찾아 먹는 포리지 장난감과 미니 사다리를 배치하고, 하루 최소 1~2시간 이상 안전한 실내 자유 비행을 보장합니다."
-                    },
-                    {
-                        "name": "밤: 영역 스트레스 완화를 위한 12시간 암막 수면 및 정서 교감",
-                        "text": "손 위에서 부드럽게 머리를 긁어주는 핑거 마사지로 정서적 유대를 다진 뒤, 완전히 빛과 소음이 차단된 암막 커버를 씌워 10~12시간 수면을 보장합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "태평양 포켓앵무의 강한 영역 공격성과 입질은 어떻게 교정해야 하나요?",
-                        "answer": "포켓앵무는 새장 안을 자신의 강력한 영토로 인식하므로 새장 내부로 손을 직접 넣어 억지로 꺼내려 하면 입질(Biting)이 심해질 수 있습니다. 새장 문을 열어 스스로 밖으로 나오게 한 후 T자형 훈련봉(Step-up)을 활용해 교감하는 것이 좋으며, 소리를 지르며 반응하기보다 무관심으로 대하는 태도가 효과적입니다."
-                    },
-                    {
-                        "question": "태평양 포켓앵무는 언어 습득 능력이 뛰어난가요? 소음은 어떤가요?",
-                        "answer": "포켓앵무는 체구가 작지만 명확하게 단어나 짧은 소리를 따라 할 수 있을 만큼 지능이 높습니다. 데시벨이 매우 낮고 울음소리가 '찍찍'거리는 미세한 소리에 가까워 아파트나 밀집 주거 형태에서도 소음 걱정 없이 사육할 수 있는 최고의 장점을 가지고 있습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Pacific Parrotlet Care Guide: High Activity Enrichment, Territorial Stress Management & 3-Step Routine",
-                "description": "Essential care for the Pacific Parrotlet, the world's smallest parrot. Learn how to fulfill their high activity needs, manage territorial feistiness, and maintain a balanced pelleted diet.",
-                "authority": "Association of Avian Veterinarians (AAV) Advisory Standards & World Parrot Trust (WPT) Small Parrot Welfare Guidelines",
-                "profile": {
-                    "breed": "Pacific Parrotlet (Forpus coelestis)",
-                    "lifespan": "15 - 20 Years",
-                    "sleep_pattern": "10 - 12 Hours (Requires complete blackout and quiet sleep environment)",
-                    "temperament": "Bold, Active, Curious, Feisty / Territorial, Loyal"
-                },
-                "intro": "The Pacific Parrotlet (Forpus coelestis) is widely celebrated as the 'world's smallest parrot,' measuring a compact 12 to 14 cm. Highly suitable for apartment living, they are immensely popular as beginner-friendly companion birds across North America and Europe. Despite their tiny size, they possess the bold confidence, sharp intelligence, and fearless stamina of a large macaw, earning them the nickname 'big parrot in a small body.' However, due to their strong self-esteem, they easily develop territorial behavior over their cage or play gym. Furthermore, unbalanced seed diets can quickly cause fatty liver disease, making high-quality formulated pellets essential. In this guide, we decode the Pacific Parrotlet's instinctive signals and present a 3-step homecare routine for territorial stress relief and health management.",
-                "whyTitle": "Pacific Parrotlet Instincts: Beak Grinding and Territorial Feather Fluffing",
-                "whyDesc": "Pacific Parrotlets are small birds with big personalities. When feeling threatened or territorial, they fluff up their feathers and stretch their necks to appear larger to intruders. Conversely, when feeling completely safe and contented, they close their eyes and produce a soft grinding sound with their beak ('Beak Grinding'), signaling deep relaxation.",
-                "body_signals": [
-                    {
-                        "name": "Beak Grinding",
-                        "meaning": "Softly grinding their beak while closing their eyes before sleep or in their owner's hands, signaling peak physical comfort and emotional contentment.",
-                        "response": "Keep the surrounding environment quiet and calm to help them settle into a restful sleep."
-                    },
-                    {
-                        "name": "Territorial Feather Fluffing & Neck Stretching",
-                        "meaning": "Fluffing body plumage and extending the neck to look intimidating when perceiving an intruder near their cage, indicating territorial aggression.",
-                        "response": "Avoid reaching abruptly into their cage; open the cage door to let them step out voluntarily onto a training perch to reduce territorial stress."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: High-Nutrient Small Parrot Pellets & Fresh Vegetables",
-                        "text": "Avoid high-fat seed-only diets; provide formulated micro-pellets balanced with fresh, vitamin-rich vegetables like carrots and parsley."
-                    },
-                    {
-                        "name": "Afternoon: Foraging Toys for High Activity & Supervised Free-Flight",
-                        "text": "Channel their high energy by deploying foraging puzzle toys and mini climbing ladders, allowing at least 1–2 hours of safe indoor free-flight time."
-                    },
-                    {
-                        "name": "Evening: Gentle Bonding & 12-Hour Blackout Rest",
-                        "text": "Strengthen emotional bonds with gentle head scratches, then cover their cage with a blackout cover to ensure 10–12 hours of quiet sleep."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "How should I handle a Pacific Parrotlet's territorial cage aggression and biting?",
-                        "answer": "Parrotlets view their cage as their personal fortress. Reaching directly inside can provoke defensive biting. Instead, open the cage door and let them step out onto a T-stand or training perch. If they bite, avoid shouting; calm disengagement is the most effective training response."
-                    },
-                    {
-                        "question": "Are Pacific Parrotlets good at talking, and how loud are they?",
-                        "answer": "Parrotlets are surprisingly intelligent and can learn to repeat words and short phrases clearly. Their vocal decibel level is extremely low, consisting mostly of quiet chirps and chatters, making them one of the best parrot species for apartment dwellers."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "太平洋ポケットインコ（マメルリハ）の運動量ケアと縄張りストレス管理・3ステップ日常ルーティン",
-                "description": "「世界で最も小さなインコ」太平洋ポケットインコ（マメルリハ）。小さな体に比例した旺盛な活動量を満たし、縄張り意識による噛みグセ予防とペレット中心の3ステップガイドを解説します。",
-                "authority": "全米鳥類獣医師会（AAV）諮問基準および世界インコトラスト（WPT）小型インコ福祉ガイドライン",
-                "profile": {
-                    "breed": "太平洋ポケットインコ / マメルリハ (Pacific Parrotlet / Forpus coelestis)",
-                    "lifespan": "15 〜 20年",
-                    "sleep_pattern": "10 〜 12時間 (完全な遮光環境での無騒音睡眠が必須)",
-                    "temperament": "大胆、活発、好奇心旺盛、縄張り意識が強い、忠実"
-                },
-                "intro": "太平洋ポケットインコ（マメルリハ / Pacific Parrotlet）は体長わずか12〜14cmほどの「世界で最も小さなインコ」で、マンションなどの室内でも飼育しやすいことから北米やヨーロッパで大人気の小型鳥です。小さな体でありながら大型インコにも負けない強い度胸と高い知能、無限の体力を持ち、「小さな体に大きなインコが入っている」と例えられます。しかし自己主張が強く縄張り意識が高いため、ケージ周辺での威嚇行動（Territoriality）を見せやすく、シード中心の食事では脂肪肝になりやすいため栄養ペレット主食の管理が欠かせません。本日は本記事では、マメルリハの感情シグナルを分析し、縄張りストレス軽減と健康管理のための3ステップ日常ルーティンを公開します。",
-                "whyTitle": "マメルリハの本能：羽毛の膨らまし（Fluffing）とクチバシ鳴らし（Beak Grinding）",
-                "whyDesc": "マメルリハは小さくても意志表示がはっきりしたインコです。警戒対象が自分の領域に近づくと、体を大きく見せようと羽毛を大きく膨らませて首を伸ばす警戒ポーズをとります。一方、リラックスして満ち足りている時は、目を閉じてクチバシをサクサクとすり合わせる「クチバシ鳴らし（Beak Grinding）」を行い、最高の安心感を表現します。",
-                "body_signals": [
-                    {
-                        "name": "クチバシをサクサクすり合わせる (Beak Grinding)",
-                        "meaning": "就寝前や飼い主の手の中で目を閉じてクチバシを優しくすり合わせる行為で、身体的・精神的に大きな安心感を得ているサインです。",
-                        "response": "周囲を静かに保ち、安心してぐっすり休める環境を作ってあげましょう。"
-                    },
-                    {
-                        "name": "羽毛を大きく膨らませて首を伸ばす (Territorial Feather Fluffing)",
-                        "meaning": "自分のケージや縄張りに侵入者が来たと感じ、相手を威嚇して自分の領域を守ろうとする威嚇・防御ポーズです。",
-                        "response": "ケージ内に手を急に入れず、ドアを開けてトレーニングパーチへ自発的に出させ、縄張りストレスを和らげます。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：高栄養小型鳥用ペレットと新鮮な野菜の給餌",
-                        "text": "高脂質のシード単食を避け、栄養バランスの取れた微粒ペレットとニンジンやパセリなどの新鮮な野菜を与えます。"
-                    },
-                    {
-                        "name": "昼：高い運動量を満たすフォージングトイと室内放鳥",
-                        "text": "頭を使うフォージング（採餌）トイやハシゴを設置して退屈を防ぎ、1日1〜2時間の安全な室内放鳥時間を確保します。"
-                    },
-                    {
-                        "name": "夜：スキンシップと12時間の完全遮光睡眠",
-                        "text": "指で頭を優しくカキカキして絆を深めた後、遮光カバーをかけて10〜12時間の静かな睡眠環境を確保します。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "マメルリハの強い縄張り意識と噛みグセはどう対策すればいいですか？",
-                        "answer": "マメルリハはケージ内を自分の城とみなすため、手を入れて無理に出そうとすると噛むことがあります。ケージの扉を開けて自発的に出させ、T字パーチを使ってコミュニケーションをとるのが効果的です。"
-                    },
-                    {
-                        "question": "マメルリハは喋りますか？また鳴き声の大きさは？",
-                        "answer": "マメルリハは知能が高く、単語や短い音を明瞭に真似できます。鳴き声の音量は非常に小さく「チッチッ」と囁くような声のため、集合住宅でも安心して飼育できます。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "太平洋口袋鹦鹉精力管理指南与领地应激缓解·营养滋养丸3阶段日常护理流程",
-                "description": "针对“世界上最小的鹦鹉”太平洋口袋鹦鹉的核心护理指南。提供满足其高活动量、缓解领地攻击性及以微粒滋养丸为主食的3阶段日常护理流程。",
-                "authority": "美国鸟类兽医师协会 (AAV) 咨询标准与世界鹦鹉信托基金 (WPT) 小型鹦鹉福利指南",
-                "profile": {
-                    "breed": "太平洋口袋鹦鹉 / 太平洋鹦哥 (Pacific Parrotlet / Forpus coelestis)",
-                    "lifespan": "15 ~ 20年",
-                    "sleep_pattern": "10 ~ 12小时 (必须在完全避光的安静环境中睡眠)",
-                    "temperament": "大胆、活泼、好奇心强、领地意识强、忠诚"
-                },
-                "intro": "太平洋口袋鹦鹉（太平洋鹦哥）体长仅约12~14厘米，被誉为“世界上最小的鹦鹉”，因其极度适合公寓饲养，在北美和欧洲作为新手入门鸟种备受欢迎。虽然体型微小，但它们却拥有不输给大型金刚鹦鹉的大胆性格、超高智商与充沛精力，有着“包裹在大体型里的巨型鹦鹉”之称。然而，它们自尊心极强且领地意识高，容易对鸟笼产生领地护卫行为（Territoriality）；同时若长期喂食高脂谷物易引发脂肪肝，因此必须以营养综合滋养丸为主食。本指南将解析太平洋口袋鹦鹉的情感语言，并公开缓解领地应激与健康管理的3阶段日常护理流程。",
-                "whyTitle": "太平洋口袋鹦鹉的本能：蓬羽(Fluffing)与磨喙(Beak Grinding)信号",
-                "whyDesc": "太平洋口袋鹦鹉虽小但表达十分鲜明。当感知到威胁或入侵者接近其领地时，它们会大幅蓬起全身羽毛并伸长脖子以威吓对手；反之，当感到极度放松与安全时，它们会闭上眼睛发出细碎的磨喙声（Beak Grinding），表达至高的舒适感。",
-                "body_signals": [
-                    {
-                        "name": "细碎磨喙 (Beak Grinding)",
-                        "meaning": "睡觉前或在主人手心里闭眼轻磨喙部，代表其生理与心理均处于极度放松、安全与满意的状态。",
-                        "response": "保持周围环境安静，不要打扰它们，让其安心进入梦乡。"
-                    },
-                    {
-                        "name": "蓬起羽毛并伸长脖子 (Territorial Feather Fluffing)",
-                        "meaning": "感知到鸟笼附近有入侵者时作出的领地防卫姿态，试图放大体型以威吓对方。",
-                        "response": "切勿将手直接伸入笼内，打开笼门让其自行出来站到训练架上，以减少其领地应激。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：高营养小型鸟专用滋养丸与新鲜蔬菜",
-                        "text": "避免高脂纯种子膳食，喂食营养均衡的微粒滋养丸以及富含维生素的新鲜蔬菜（如胡萝卜、欧芹）。"
-                    },
-                    {
-                        "name": "中午：觅食玩具(Foraging)与室内安全放飞",
-                        "text": "布置觅食解密玩具和小爬梯以消耗其旺盛精力，并保证每天至少1-2小时的室内安全放飞时间。"
-                    },
-                    {
-                        "name": "晚上：头部按摩情感互动与12小时遮光睡眠",
-                        "text": "用手指轻轻揉抚其头部以建立情感纽带，随后盖上遮光布，保证10-12小时无噪音的黑暗睡眠。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "如何纠正太平洋口袋鹦鹉强烈的领地攻击性与啃咬行为？",
-                        "answer": "口袋鹦鹉视鸟笼为绝对领地，强行伸手入笼极易招致咬伤。建议打开笼门让其自行出来站到T型架上再进行互动。若发生啃咬，保持冷静比大喊大叫更有效。"
-                    },
-                    {
-                        "question": "太平洋口袋鹦鹉会说话吗？叫声大吗？",
-                        "answer": "它们智商很高，能清晰模仿单词和短音。其发声分贝极低，多为细碎的唧唧声，非常适合公寓环境饲养。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Guía de cuidado del Cacatuó sterile / Cotorrita Celestial: Alta actividad, gestión de estrés territorial y rutina en 3 pasos",
-                "description": "Cuidados esenciales para la Cotorrita Celestial, el loro más pequeño del mundo. Aprenda a satisfacer su alta actividad, gestionar su territorialidad y mantener una dieta equilibrada de pienso.",
-                "authority": "Estándares de la Association of Avian Veterinarians (AAV) y Pautas de Bienestar para Pequeños Loros del World Parrot Trust (WPT)",
-                "profile": {
-                    "breed": "Cotorrita Celestial / Perico Celestial (Pacific Parrotlet / Forpus coelestis)",
-                    "lifespan": "15 ~ 20 años",
-                    "sleep_pattern": "10 ~ 12 horas (requiere oscuridad total y ambiente silencioso para dormir)",
-                    "temperament": "Audaz, activo, curioso, territorial, muy leal"
-                },
-                "intro": "La Cotorrita Celestial (Forpus coelestis) es famosa por ser el 'loro más pequeño del mundo', con un tamaño compacto de solo 12 a 14 cm. Muy adecuada para la vida en pisos, es una especie sumamente popular en Norteamérica y Europa. A pesar de su diminuto cuerpo, posee la audacia, inteligencia y resistencia de un gran guacamayo, lo que le ha valido el apodo de 'loro grande en cuerpo pequeño'. Sin embargo, pueden desarrollar conductas territoriales sobre su jaula; además, las dietas basadas solo en semillas causan hígado graso, por lo que el pienso extrusionado es vital. En esta guía, desciframos sus señales e identificamos una rutina de 3 pasos para su bienestar.",
-                "whyTitle": "Instintos de la Cotorrita Celestial: Chirriar de pico (Beak Grinding) y ahuecado territorial",
-                "whyDesc": "Las cotorritas celestiales son aves pequeñas con gran personalidad. Cuando se sienten amenazadas, ahuecan sus plumas y estiran el cuello para parecer más grandes. Por el contrario, cuando están totalmente relajadas y seguras, cierran los ojos y producen un suave chirrido con el pico.",
-                "body_signals": [
-                    {
-                        "name": "Chirriar de pico (Beak Grinding)",
-                        "meaning": "Frotar suavemente el pico antes de dormir o en manos de su dueño, lo que indica máxima comodidad y serenidad emocional.",
-                        "response": "Mantenga un entorno silencioso y relajado para ayudarle a conciliar un sueño reparador."
-                    },
-                    {
-                        "name": "Ahuecado de plumas territorial",
-                        "meaning": "Erizar el plumaje y estirar el cuello cuando alguien se acerca a su jaula, expresando una postura de defensa territorial.",
-                        "response": "Evite meter la mano bruscamente en la jaula; abra la puerta y deje que salga voluntariamente a una percha externa."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Pienso extrusionado para pequeñas aves y verduras frescas",
-                        "text": "Evite dietas grasas de solo semillas; sirva micropienso equilibrado junto con verduras frescas ricas en vitaminas como zanahorias."
-                    },
-                    {
-                        "name": "Tarde: Juguetes de forrajeo y vuelo libre supervisado",
-                        "text": "Canalice su gran energía colocando juguetes tipo rompecabezas de forrajeo y asegure entre 1 y 2 horas de vuelo libre seguro dentro de casa."
-                    },
-                    {
-                        "name": "Noche: Caricias relajantes y 12 horas de descanso a oscuras",
-                        "text": "Refuerce el vínculo rascando suavemente su cabeza, luego cubra su jaula con una funda opaca para garantizar de 10 a 12 horas de sueño tranquilo."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Cómo manejar la agresividad territorial y picotazos de la Cotorrita Celestial?",
-                        "answer": "Consideran su jaula como su fortaleza. Meter la mano directamente puede provocar picotazos defensivos. Abra la jaula y deje que salga por sí misma a una percha. Si pica, evite gritar; la calma es la respuesta más efectiva."
-                    },
-                    {
-                        "question": "¿Hablan las Cotorritas Celestiales y qué tan ruidosas son?",
-                        "answer": "Son muy inteligentes y aprenden palabras cortas con claridad. Su volumen vocal es sumamente bajo, emitiendo suaves chirridos, lo que las hace ideales para pisos."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Guide de soin du Toui Céleste : Forte activité, gestion du stress territorial et routine en 3 étapes",
-                "description": "Soins essentiels pour le Toui Céleste, le plus petit perroquet du monde. Apprenez à répondre à son grand besoin d'activité, à gérer sa territorialité et à lui offrir une alimentation équilibrée.",
-                "authority": "Normes de l'Association of Avian Veterinarians (AAV) et directives de bien-être du World Parrot Trust (WPT)",
-                "profile": {
-                    "breed": "Toui Céleste (Pacific Parrotlet / Forpus coelestis)",
-                    "lifespan": "15 ~ 20 ans",
-                    "sleep_pattern": "10 ~ 12 heures (nécessite une obscurité totale et un environnement calme)",
-                    "temperament": "Audacieux, actif, curieux, territorial, très fidèle"
-                },
-                "intro": "Le Toui Céleste (Forpus coelestis) est célèbre pour être le 'plus petit perroquet du monde', mesurant entre 12 et 14 cm. Parfaitement adapté à la vie en appartement, il est très populaire en Amérique du Nord et en Europe. Malgré sa taille lilliputienne, il possède l'audace, l'intelligence et l'énergie d'un grand ara, ce qui lui vaut le surnom de 'grand perroquet dans un petit corps'. Toutefois, il peut développer des comportements territoriaux autour de sa cage. De plus, les graines seules provoquent de la stéatose hépatique, rendant les granulés extrudés indispensables. Dans ce guide, nous décryptons ses signaux et vous présentons une routine en 3 étapes.",
-                "whyTitle": "Instincts du Toui Céleste : Grincement de bec (Beak Grinding) et gonflement territorial",
-                "whyDesc": "Les touis célestes ont une forte personnalité. Lorsqu'ils se sentent menacés, ils gonflent leurs plumes et étirent leur cou pour paraître plus imposants. À l'inverse, lorsqu'ils se sentent en sécurité, ils ferment les yeux et produisent un doux grincement de bec.",
-                "body_signals": [
-                    {
-                        "name": "Grincement de bec (Beak Grinding)",
-                        "meaning": "Frotter doucement son bec en fermant les yeux avant de dormir, traduisant un bien-être physique et émotionnel total.",
-                        "response": "Conservez un environnement paisible pour l'aider à s'endormir sereinement."
-                    },
-                    {
-                        "name": "Gonflement de plumes territorial",
-                        "meaning": "Éruffler le plumage et tendre le cou lorsqu'un intrus approche de la cage, affichant une posture de défense de son territoire.",
-                        "response": "Évitez de mettre la main brusquement dans la cage ; ouvrez la porte et laissez-le sortir de lui-même sur un perchoir."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Granulés extrudés pour petits perroquets et légumes frais",
-                        "text": "Évitez le tout-graines trop gras ; fournissez des micro-granulés équilibrés accompagnés de légumes frais riches en vitamines."
-                    },
-                    {
-                        "name": "Après-midi : Jouets de recherche alimentaire et vol libre sécurisé",
-                        "text": "Canalisez son énergie avec des jouets d'occupation/forage et permettez-lui au moins 1 à 2 heures de vol libre en intérieur en toute sécurité."
-                    },
-                    {
-                        "name": "Soir : Câlins doux et 12 heures de sommeil dans le noir",
-                        "text": "Renforcez la complicité avec de douces gratouilles sur la tête, puis recouvrez sa cage d'une housse occultante pour 10 à 12 heures de sommeil."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Comment gérer la territorialité et les mordillements du Toui Céleste ?",
-                        "answer": "Le toui considère sa cage comme son domaine. Y introduire la main peut déclencher des morsures défensives. Laissez-le sortir seul sur un perchoir. S'il mord, restez calme sans crier."
-                    },
-                    {
-                        "question": "Le Toui Céleste parle-t-il et est-il bruyant ?",
-                        "answer": "Très intelligent, il peut apprendre quelques mots très clairement. Son niveau sonore est extrêmement faible (doux pépiements), idéal pour la vie en appartement."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Axt-Sperlingspapagei Pflege-Leitfaden: Hohe Aktivität, Territorialer Stress & 3-Schritt-Tagesroutine",
-                "description": "Essenzielle Pflege für den Axt-Sperlingspapagei, den kleinsten Papagei der Welt. Erfahren Sie, wie Sie seinen Bewegungsdrang stillen und territoriales Verhalten managen.",
-                "authority": "Richtlinien der Association of Avian Veterinarians (AAV) & Standards des World Parrot Trust (WPT)",
-                "profile": {
-                    "breed": "Axt-Sperlingspapagei (Pacific Parrotlet / Forpus coelestis)",
-                    "lifespan": "15 ~ 20 Jahre",
-                    "sleep_pattern": "10 ~ 12 Stunden (benötigt absolute Dunkelheit und Ruhe)",
-                    "temperament": "Mutig, aktiv, neugierig, territorial, treu"
-                },
-                "intro": "Der Axt-Sperlingspapagei (Forpus coelestis) ist mit 12 bis 14 cm Körperlänge als 'kleinster Papagei der Welt' bekannt. Er eignet sich hervorragend für die Wohnungshaltung und ist in Nordamerika und Europa sehr beliebt. Trotz seiner geringen Größe besitzt er den Mut und die Intelligenz eines großen Aras ('großer Papagei im kleinen Körper'). Allerdings neigt er zu territorialem Verhalten bezüglich seines Käfigs. Reine Saatendiäten führen leicht zu Fettleber, weshalb Pelletfutter essenziell ist. Heute erklärt  seine Körpersprache und zeigt eine 3-Schritt-Routine.",
-                "whyTitle": "Instinkte des Sperlingspapageis: Schnabelknirschen (Beak Grinding) und territoriales Aufplustern",
-                "whyDesc": "Sperlingspapageien sind kleine Vögel mit großer Persönlichkeit. Wenn sie ihr Revier verteidigen, plustern sie ihr Gefieder auf. Fühlen sie sich vollkommen sicher, schließen sie die Augen und knirschen sanft mit dem Schnabel.",
-                "body_signals": [
-                    {
-                        "name": "Sanftes Schnabelknirschen (Beak Grinding)",
-                        "meaning": "Reiben des Schnabels bei geschlossenen Augen vor dem Schlafen; zeigt maximale Entspannung und Wohlbefinden an.",
-                        "response": "Halten Sie die Umgebung ruhig, damit der Vogel entspannt einschlafen kann."
-                    },
-                    {
-                        "name": "Territoriales Aufplustern & Halsstrecken",
-                        "meaning": "Aufstellen der Federn und Strecken des Halses bei Annäherung an den Käfig zur Abwehr von Eindringlingen.",
-                        "response": "Greifen Sie nicht direkt in den Käfig; öffnen Sie die Tür und lassen Sie ihn freiwillig auf einen Trainingsast steigen."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Nährstoffreiches Pelletfutter & frisches Gemüse",
-                        "text": "Vermeiden Sie fettreiche Saatenmischungen; füttern Sie ausgewogenes Mikropelletfutter und frisches Gemüse wie Karotten."
-                    },
-                    {
-                        "name": "Nachmittag: Foraging-Spielzeug & gesicherter Freiflug",
-                        "text": "Bieten Sie Futtersuch-Spielzeug an und gewähren Sie täglich mindestens 1–2 Stunden gesicherten Freiflug im Zimmer."
-                    },
-                    {
-                        "name": "Abend: Kraulen & 12 Stunden Dunkelheit",
-                        "text": "Stärken Sie die Bindung durch sanftes Kraulen am Kopf und decken Sie den Käfig für 10–12 Stunden ab."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Wie reagiere ich auf territoriales Bheißen beim Sperlingspapagei?",
-                        "answer": "Der Käfig ist sein Revier. Greifen Sie nicht hinein, sondern lassen Sie ihn selbst herauskommen. Bei Bissen ruhig bleiben und nicht schreien."
-                    },
-                    {
-                        "question": "Können Sperlingspapageien sprechen und wie laut sind sie?",
-                        "answer": "Sie sind sehr intelligent und können Wörter lernen. Ihre Lautstärke ist sehr gering (leises Zwitschern), ideal für Wohnungen."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Guia de cuidados do Tuim-sancti-thomae / Tuim-pacífico: Alta atividade, gestão de stresse territorial e rotina em 3 passos",
-                "description": "Cuidados essenciais para o Tuim-pacífico, o menor papagaio do mundo. Aprenda a satisfazer a sua alta atividade, gerir a territorialidade e manter uma dieta de ração.",
-                "authority": "Padrões da Association of Avian Veterinarians (AAV) e Diretrizes do World Parrot Trust (WPT)",
-                "profile": {
-                    "breed": "Tuim-pacífico (Pacific Parrotlet / Forpus coelestis)",
-                    "lifespan": "15 ~ 20 anos",
-                    "sleep_pattern": "10 ~ 12 horas (exige escuridão total e ambiente silencioso para dormir)",
-                    "temperament": "Audaz, ativo, curioso, territorial, leal"
-                },
-                "intro": "O Tuim-pacífico (Forpus coelestis) é famoso por ser o 'menor papagaio do mundo', medindo cerca de 12 a 14 cm. Muito adequado para apartamentos, é extremamente popular na América do Norte e Europa. Apesar do tamanho diminuto, tem a coragem e inteligência de uma arara ('grande papagaio num corpo pequeno'). No entanto, pode apresentar comportamento territorial na gaiola. Dietas só de sementes causam gordura no fígado, sendo a ração extrudada essencial. Neste guia, descodificamos os seus sinais e apresentamos uma rotina de 3 passos.",
-                "whyTitle": "Instintos do Tuim: Ranger do bico (Beak Grinding) e eriçar territorial",
-                "whyDesc": "Os tuins têm grande personalidade. Quando se sentem ameaçados, eriçam as penas e esticam o pescoço para parecerem maiores. Quando estão relaxados, fecham os olhos e rangem suavemente o bico.",
-                "body_signals": [
-                    {
-                        "name": "Ranger suave do bico (Beak Grinding)",
-                        "meaning": "Friccionar o bico ao fechar os olhos antes de dormir, indicando bem-estar físico e emocional profundo.",
-                        "response": "Mantenha o ambiente calmo para ajudar a ave a adormecer tranquila."
-                    },
-                    {
-                        "name": "Eriçar de penas territorial",
-                        "meaning": "Eriçar a plumagem e esticar o pescoço quando alguém se aproxima da gaiola, demonstrando defesa de território.",
-                        "response": "Não ponha a mão bruscamente na gaiola; abra a porta e deixe a ave sair voluntariamente para um poleiro."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Ração extrudada para pequenas aves e vegetais frescos",
-                        "text": "Evite dietas gordurosas de sementes; sirva micro-ração equilibrada e vegetais frescos ricos em vitaminas."
-                    },
-                    {
-                        "name": "Tarde: Brinquedos de forrageio e voo livre supervisionado",
-                        "text": "Canalize a sua energia com brinquedos de busca de comida e garanta 1 a 2 horas de voo livre seguro em casa."
-                    },
-                    {
-                        "name": "Noite: Carinho suave e 12 horas de sono no escuro",
-                        "text": "Reforce os laços com festas na cabeça e cubra a gaiola com uma capa opaca para garantir 10 a 12 horas de sono."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Como lidar com a territorialidade e bicadas do Tuim?",
-                        "answer": "A gaiola é o seu território. Não ponha a mão lá dentro; deixe a ave sair sozinha. Se bicar, mantenha a calma sem gritar."
-                    },
-                    {
-                        "question": "Os Tuins falam e são barulhentos?",
-                        "answer": "São muito inteligentes e aprendem palavras curtas. O volume do som é muito baixo (chilreios suaves), ideal para apartamentos."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Panduan Perawatan Pacific Parrotlet: Aktivitas Tinggi, Manajemen Stres Teritorial & Rutinitas 3 Langkah",
-                "description": "Perawatan esensial untuk Pacific Parrotlet, burung paruh bengkok terkecil di dunia. Pelajari cara memenuhi aktivitas tingginya, mengelola sifat teritorial, dan menjaga diet pelet.",
-                "authority": "Standar Penasihat Association of Avian Veterinarians (AAV) & Panduan Kesejahteraan World Parrot Trust (WPT)",
-                "profile": {
-                    "breed": "Pacific Parrotlet (Forpus coelestis)",
-                    "lifespan": "15 ~ 20 tahun",
-                    "sleep_pattern": "10 ~ 12 jam (membutuhkan kegelapan total dan suasana tenang untuk tidur)",
-                    "temperament": "Pemberani, aktif, serba ingin tahu, teritorial, setia"
-                },
-                "intro": "Pacific Parrotlet (Forpus coelestis) terkenal sebagai 'burung paruh bengkok terkecil di dunia' dengan ukuran 12-14 cm. Sangat cocok untuk apartemen, burung ini populer di Amerika Utara dan Eropa. Meski kecil, mereka memiliki keberanian dan kecerdasan ala makau besar ('burung besar dalam tubuh kecil'). Namun, mereka bisa menjadi teritorial terhadap kandangnya. Diet biji-bijian saja bisa memicu penyakit hati berlemak, sehingga pelet nutrisi sangat penting. Dalam panduan ini, kami membedah sinyal instingnya dan membagikan rutinitas 3 langkah.",
-                "whyTitle": "Insting Parrotlet: Menggesek Paruh (Beak Grinding) dan Mengembangkan Bulu Teritorial",
-                "whyDesc": "Parrotlet adalah burung kecil dengan kepribadian besar. Saat merasa terancam, mereka mengembangkan bulu dan merentangkan leher agar terlihat lebih besar. Saat sangat tenang, mereka memejamkan mata dan menggesekkan paruhnya perlahan.",
-                "body_signals": [
-                    {
-                        "name": "Menggesek Paruh Perlahan (Beak Grinding)",
-                        "meaning": "Menggesek paruh sambil memejamkan mata sebelum tidur, menandakan kenyamanan fisik dan emosional yang tinggi.",
-                        "response": "Jaga suasana tetap tenang agar burung dapat tidur dengan lelap."
-                    },
-                    {
-                        "name": "Mengembangkan Bulu Teritorial",
-                        "meaning": "Merekahkan bulu dan memanjangkan leher saat ada yang mendekati kandangnya, menunjukkan sikap mempertahankan wilayah.",
-                        "response": "Jangan memasukkan tangan secara mendadak; buka pintu kandang dan biarkan ia keluar sendiri ke tangkringan."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Pelet Nutrisi Burung Kecil & Sayuran Segar",
-                        "text": "Hindari diet biji tinggi lemak; berikan pelet nutrisi seimbang disertai sayuran segar kaya vitamin seperti wortel."
-                    },
-                    {
-                        "name": "Siang: Mainan Foraging & Terbang Bebas Terawasi",
-                        "text": "Salurkan energinya dengan mainan pencari makan (foraging) dan berikan waktu terbang bebas aman di dalam rumah 1-2 jam."
-                    },
-                    {
-                        "name": "Malam: Elusan Lembut & Tidur 12 Jam di Tempat Gelap",
-                        "text": "Pererat ikatan dengan mengelus kepalanya perlahan, lalu tutup kandang dengan kain gelap untuk tidur tenang 10-12 jam."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Bagaimana cara mengatasi sifat teritorial dan gigitan Pacific Parrotlet?",
-                        "answer": "Kandang adalah wilayah pribadinya. Jangan mengambilnya langsung dari dalam kandang; biarkan keluar sendiri. Jika menggigit, tetap tenang dan jangan berteriak."
-                    },
-                    {
-                        "question": "Apakah Pacific Parrotlet bisa bicara dan seberapa bising suaranya?",
-                        "answer": "Mereka sangat cerdas dan bisa menirukan kata-kata pendek. Suaranya sangat pelan (cicitan halus), sangat ideal untuk apartemen."
-                    }
-                ]
-            }
+  "pacific-parrotlet-care": {
+    "pubDate": "2026-06-10",
+    "updatedDate": "2026-06-10",
+    "locales": {
+      "ko": {
+        "title": "태평양 포켓앵무 높은 활동량 케어법과 영역 스트레스 관리·영양 펠렛 3단계 일상 루틴",
+        "description": "'세계에서 가장 작은 앵무새' 태평양 포켓앵무. 작은 체구에 비례한 높은 활동량과 영역 경계 스트레스 관리, 영양 펠렛 중심 3단계 케어 가이드를 제공합니다.",
+        "authority": "미국조류학회(AAV) 자문 표준 및 세계조류협회(WPT) 소형 앵무새 복지 가이드라인",
+        "profile": {
+          "breed": "태평양 포켓앵무 (Pacific Parrotlet / Forpus coelestis)",
+          "lifespan": "15 ~ 20년",
+          "sleep_pattern": "10 ~ 12시간 (완전한 암막 환경에서 소음 없는 수면 필수)",
+          "temperament": "대담함, 활발함, 호기심 많음, 영역 유세 심함, 충성스러움"
         },
-        "heroImage": "/images/blog/pacific_parrotlet_care.webp"
-    }
+        "intro": "태평양 포켓앵무(Pacific Parrotlet)는 몸길이 약 12~14cm에 불과한 '세계에서 가장 작은 앵무새'로, 아파트나 소형 주거 공간에서 사육하기 적합하여 북미와 유럽에서 입문용 반려조로 폭발적인 인기를 끌고 있습니다. 체구는 작지만 대형 앵무새 못지않은 강한 담력과 높은 지능, 무한한 체력을 지니고 있어 '작은 몸에 들어간 거대한 앵무새'라는 별명을 가지고 있습니다. 다만 자존감이 강하고 자기 영역에 대한 경계심이 높아 새장이나 전용 공간에 대한 영역 유세(Territoriality) 행동을 보이기 쉬우며, 영양 불균형 시 지방간이나 비만이 올 수 있어 영양 펠렛 중심의 식단 관리가 필수적입니다. 이번 가이드에서는 태평양 포켓앵무의 본능적 감정 신호를 분석하고, 영역 스트레스 완화와 건강 관리를 위한 3단계 일상 루틴을 공개합니다.",
+        "whyTitle": "태평양 포켓앵무의 본능: 깃털 부풀리기(Fluffing)와 부리 갈기(Beak Grinding) 시그널",
+        "whyDesc": "태평양 포켓앵무는 작지만 자기주장이 명확한 조류입니다. 경계 대상이나 낯선 이가 자신의 영역에 접근하면 체구를 커 보이게 하려고 깃털을 크게 부풀리고 목을 늘리는 영역 경계 시그널을 보입니다. 반면 기분이 매우 좋고 편안할 때는 눈을 감고 부리를 맷돌 돌리듯 사각사각 소리를 내는 '부리 갈기(Beak Grinding)' 행동을 통해 극상의 안도감을 표현합니다.",
+        "body_signals": [
+          {
+            "name": "부리 사각사각 갈기 (Beak Grinding)",
+            "meaning": "수면 전이나 보호자의 품에서 눈을 감고 부리를 부드럽게 가는 행위로, 신체적·정서적으로 극도의 안전함과 만족감을 느끼고 있다는 표시입니다.",
+            "response": "소음을 내지 않고 분위기를 조용하게 유지해 주어 편안하게 휴식하거나 잠에 들도록 도웁니다."
+          },
+          {
+            "name": "몸 깃털 크게 부풀리기 및 목 늘리기 (Territorial Feather Fluffing)",
+            "meaning": "자신의 새장이나 영역에 침범자가 들어왔다고 느껴 상대를 위협하고 영역을 지키려는 경계 및 공격 태세 신호입니다.",
+            "response": "새장 안으로 손을 갑자기 밀어 넣지 말고, 훈련용 스탠드나 새장 밖 자유 구역으로 부드럽게 유도하여 영역 스트레스를 줄여줍니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 고영양 소형 전용 펠렛 및 신선한 야채·과일 제공",
+            "text": "씨앗 위주의 고지방 식단을 지양하고, 영양 균형을 맞춘 소형 앵무 전용 펠렛과 신선한 비타민 풍부 야채(당근, 파슬리 등)를 공급합니다."
+          },
+          {
+            "name": "낮: 높은 활동량 해소를 위한 포리지(Foraging) 장난감 및 방사장 활동",
+            "text": "작은 몸집 대비 왕성한 활동량을 충족하도록 먹이를 찾아 먹는 포리지 장난감과 미니 사다리를 배치하고, 하루 최소 1~2시간 이상 안전한 실내 자유 비행을 보장합니다."
+          },
+          {
+            "name": "밤: 영역 스트레스 완화를 위한 12시간 암막 수면 및 정서 교감",
+            "text": "손 위에서 부드럽게 머리를 긁어주는 핑거 마사지로 정서적 유대를 다진 뒤, 완전히 빛과 소음이 차단된 암막 커버를 씌워 10~12시간 수면을 보장합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "태평양 포켓앵무의 강한 영역 공격성과 입질은 어떻게 교정해야 하나요?",
+            "answer": "포켓앵무는 새장 안을 자신의 강력한 영토로 인식하므로 새장 내부로 손을 직접 넣어 억지로 꺼내려 하면 입질(Biting)이 심해질 수 있습니다. 새장 문을 열어 스스로 밖으로 나오게 한 후 T자형 훈련봉(Step-up)을 활용해 교감하는 것이 좋으며, 소리를 지르며 반응하기보다 무관심으로 대하는 태도가 효과적입니다."
+          },
+          {
+            "question": "태평양 포켓앵무는 언어 습득 능력이 뛰어난가요? 소음은 어떤가요?",
+            "answer": "포켓앵무는 체구가 작지만 명확하게 단어나 짧은 소리를 따라 할 수 있을 만큼 지능이 높습니다. 데시벨이 매우 낮고 울음소리가 '찍찍'거리는 미세한 소리에 가까워 아파트나 밀집 주거 형태에서도 소음 걱정 없이 사육할 수 있는 최고의 장점을 가지고 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Pacific Parrotlet Care Guide: High Activity Enrichment, Territorial Stress Management & 3-Step Routine",
+        "description": "Essential care for the Pacific Parrotlet, the world's smallest parrot. Learn how to fulfill their high activity needs, manage territorial feistiness, and maintain a balanced pelleted diet.",
+        "authority": "Association of Avian Veterinarians (AAV) Advisory Standards & World Parrot Trust (WPT) Small Parrot Welfare Guidelines",
+        "profile": {
+          "breed": "Pacific Parrotlet (Forpus coelestis)",
+          "lifespan": "15 - 20 Years",
+          "sleep_pattern": "10 - 12 Hours (Requires complete blackout and quiet sleep environment)",
+          "temperament": "Bold, Active, Curious, Feisty / Territorial, Loyal"
+        },
+        "intro": "The Pacific Parrotlet (Forpus coelestis) is widely celebrated as the 'world's smallest parrot,' measuring a compact 12 to 14 cm. Highly suitable for apartment living, they are immensely popular as beginner-friendly companion birds across North America and Europe. Despite their tiny size, they possess the bold confidence, sharp intelligence, and fearless stamina of a large macaw, earning them the nickname 'big parrot in a small body.' However, due to their strong self-esteem, they easily develop territorial behavior over their cage or play gym. Furthermore, unbalanced seed diets can quickly cause fatty liver disease, making high-quality formulated pellets essential. In this guide, we decode the Pacific Parrotlet's instinctive signals and present a 3-step homecare routine for territorial stress relief and health management.",
+        "whyTitle": "Pacific Parrotlet Instincts: Beak Grinding and Territorial Feather Fluffing",
+        "whyDesc": "Pacific Parrotlets are small birds with big personalities. When feeling threatened or territorial, they fluff up their feathers and stretch their necks to appear larger to intruders. Conversely, when feeling completely safe and contented, they close their eyes and produce a soft grinding sound with their beak ('Beak Grinding'), signaling deep relaxation.",
+        "body_signals": [
+          {
+            "name": "Beak Grinding",
+            "meaning": "Softly grinding their beak while closing their eyes before sleep or in their owner's hands, signaling peak physical comfort and emotional contentment.",
+            "response": "Keep the surrounding environment quiet and calm to help them settle into a restful sleep."
+          },
+          {
+            "name": "Territorial Feather Fluffing & Neck Stretching",
+            "meaning": "Fluffing body plumage and extending the neck to look intimidating when perceiving an intruder near their cage, indicating territorial aggression.",
+            "response": "Avoid reaching abruptly into their cage; open the cage door to let them step out voluntarily onto a training perch to reduce territorial stress."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: High-Nutrient Small Parrot Pellets & Fresh Vegetables",
+            "text": "Avoid high-fat seed-only diets; provide formulated micro-pellets balanced with fresh, vitamin-rich vegetables like carrots and parsley."
+          },
+          {
+            "name": "Afternoon: Foraging Toys for High Activity & Supervised Free-Flight",
+            "text": "Channel their high energy by deploying foraging puzzle toys and mini climbing ladders, allowing at least 1–2 hours of safe indoor free-flight time."
+          },
+          {
+            "name": "Evening: Gentle Bonding & 12-Hour Blackout Rest",
+            "text": "Strengthen emotional bonds with gentle head scratches, then cover their cage with a blackout cover to ensure 10–12 hours of quiet sleep."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "How should I handle a Pacific Parrotlet's territorial cage aggression and biting?",
+            "answer": "Parrotlets view their cage as their personal fortress. Reaching directly inside can provoke defensive biting. Instead, open the cage door and let them step out onto a T-stand or training perch. If they bite, avoid shouting; calm disengagement is the most effective training response."
+          },
+          {
+            "question": "Are Pacific Parrotlets good at talking, and how loud are they?",
+            "answer": "Parrotlets are surprisingly intelligent and can learn to repeat words and short phrases clearly. Their vocal decibel level is extremely low, consisting mostly of quiet chirps and chatters, making them one of the best parrot species for apartment dwellers."
+          }
+        ]
+      },
+      "ja": {
+        "title": "太平洋ポケットインコ（マメルリハ）の運動量ケアと縄張りストレス管理・3ステップ日常ルーティン",
+        "description": "「世界で最も小さなインコ」太平洋ポケットインコ（マメルリハ）。小さな体に比例した旺盛な活動量を満たし、縄張り意識による噛みグセ予防とペレット中心の3ステップガイドを解説します。",
+        "authority": "全米鳥類獣医師会（AAV）諮問基準および世界インコトラスト（WPT）小型インコ福祉ガイドライン",
+        "profile": {
+          "breed": "太平洋ポケットインコ / マメルリハ (Pacific Parrotlet / Forpus coelestis)",
+          "lifespan": "15 〜 20年",
+          "sleep_pattern": "10 〜 12時間 (完全な遮光環境での無騒音睡眠が必須)",
+          "temperament": "大胆、活発、好奇心旺盛、縄張り意識が強い、忠実"
+        },
+        "intro": "太平洋ポケットインコ（マメルリハ / Pacific Parrotlet）は体長わずか12〜14cmほどの「世界で最も小さなインコ」で、マンションなどの室内でも飼育しやすいことから北米やヨーロッパで大人気の小型鳥です。小さな体でありながら大型インコにも負けない強い度胸と高い知能、無限の体力を持ち、「小さな体に大きなインコが入っている」と例えられます。しかし自己主張が強く縄張り意識が高いため、ケージ周辺での威嚇行動（Territoriality）を見せやすく、シード中心の食事では脂肪肝になりやすいため栄養ペレット主食の管理が欠かせません。本日は本記事では、マメルリハの感情シグナルを分析し、縄張りストレス軽減と健康管理のための3ステップ日常ルーティンを公開します。",
+        "whyTitle": "マメルリハの本能：羽毛の膨らまし（Fluffing）とクチバシ鳴らし（Beak Grinding）",
+        "whyDesc": "マメルリハは小さくても意志表示がはっきりしたインコです。警戒対象が自分の領域に近づくと、体を大きく見せようと羽毛を大きく膨らませて首を伸ばす警戒ポーズをとります。一方、リラックスして満ち足りている時は、目を閉じてクチバシをサクサクとすり合わせる「クチバシ鳴らし（Beak Grinding）」を行い、最高の安心感を表現します。",
+        "body_signals": [
+          {
+            "name": "クチバシをサクサクすり合わせる (Beak Grinding)",
+            "meaning": "就寝前や飼い主の手の中で目を閉じてクチバシを優しくすり合わせる行為で、身体的・精神的に大きな安心感を得ているサインです。",
+            "response": "周囲を静かに保ち、安心してぐっすり休める環境を作ってあげましょう。"
+          },
+          {
+            "name": "羽毛を大きく膨らませて首を伸ばす (Territorial Feather Fluffing)",
+            "meaning": "自分のケージや縄張りに侵入者が来たと感じ、相手を威嚇して自分の領域を守ろうとする威嚇・防御ポーズです。",
+            "response": "ケージ内に手を急に入れず、ドアを開けてトレーニングパーチへ自発的に出させ、縄張りストレスを和らげます。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：高栄養小型鳥用ペレットと新鮮な野菜の給餌",
+            "text": "高脂質のシード単食を避け、栄養バランスの取れた微粒ペレットとニンジンやパセリなどの新鮮な野菜を与えます。"
+          },
+          {
+            "name": "昼：高い運動量を満たすフォージングトイと室内放鳥",
+            "text": "頭を使うフォージング（採餌）トイやハシゴを設置して退屈を防ぎ、1日1〜2時間の安全な室内放鳥時間を確保します。"
+          },
+          {
+            "name": "夜：スキンシップと12時間の完全遮光睡眠",
+            "text": "指で頭を優しくカキカキして絆を深めた後、遮光カバーをかけて10〜12時間の静かな睡眠環境を確保します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "マメルリハの強い縄張り意識と噛みグセはどう対策すればいいですか？",
+            "answer": "マメルリハはケージ内を自分の城とみなすため、手を入れて無理に出そうとすると噛むことがあります。ケージの扉を開けて自発的に出させ、T字パーチを使ってコミュニケーションをとるのが効果的です。"
+          },
+          {
+            "question": "マメルリハは喋りますか？また鳴き声の大きさは？",
+            "answer": "マメルリハは知能が高く、単語や短い音を明瞭に真似できます。鳴き声の音量は非常に小さく「チッチッ」と囁くような声のため、集合住宅でも安心して飼育できます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "太平洋口袋鹦鹉精力管理指南与领地应激缓解·营养滋养丸3阶段日常护理流程",
+        "description": "针对“世界上最小的鹦鹉”太平洋口袋鹦鹉的核心护理指南。提供满足其高活动量、缓解领地攻击性及以微粒滋养丸为主食的3阶段日常护理流程。",
+        "authority": "美国鸟类兽医师协会 (AAV) 咨询标准与世界鹦鹉信托基金 (WPT) 小型鹦鹉福利指南",
+        "profile": {
+          "breed": "太平洋口袋鹦鹉 / 太平洋鹦哥 (Pacific Parrotlet / Forpus coelestis)",
+          "lifespan": "15 ~ 20年",
+          "sleep_pattern": "10 ~ 12小时 (必须在完全避光的安静环境中睡眠)",
+          "temperament": "大胆、活泼、好奇心强、领地意识强、忠诚"
+        },
+        "intro": "太平洋口袋鹦鹉（太平洋鹦哥）体长仅约12~14厘米，被誉为“世界上最小的鹦鹉”，因其极度适合公寓饲养，在北美和欧洲作为新手入门鸟种备受欢迎。虽然体型微小，但它们却拥有不输给大型金刚鹦鹉的大胆性格、超高智商与充沛精力，有着“包裹在大体型里的巨型鹦鹉”之称。然而，它们自尊心极强且领地意识高，容易对鸟笼产生领地护卫行为（Territoriality）；同时若长期喂食高脂谷物易引发脂肪肝，因此必须以营养综合滋养丸为主食。本指南将解析太平洋口袋鹦鹉的情感语言，并公开缓解领地应激与健康管理的3阶段日常护理流程。",
+        "whyTitle": "太平洋口袋鹦鹉的本能：蓬羽(Fluffing)与磨喙(Beak Grinding)信号",
+        "whyDesc": "太平洋口袋鹦鹉虽小但表达十分鲜明。当感知到威胁或入侵者接近其领地时，它们会大幅蓬起全身羽毛并伸长脖子以威吓对手；反之，当感到极度放松与安全时，它们会闭上眼睛发出细碎的磨喙声（Beak Grinding），表达至高的舒适感。",
+        "body_signals": [
+          {
+            "name": "细碎磨喙 (Beak Grinding)",
+            "meaning": "睡觉前或在主人手心里闭眼轻磨喙部，代表其生理与心理均处于极度放松、安全与满意的状态。",
+            "response": "保持周围环境安静，不要打扰它们，让其安心进入梦乡。"
+          },
+          {
+            "name": "蓬起羽毛并伸长脖子 (Territorial Feather Fluffing)",
+            "meaning": "感知到鸟笼附近有入侵者时作出的领地防卫姿态，试图放大体型以威吓对方。",
+            "response": "切勿将手直接伸入笼内，打开笼门让其自行出来站到训练架上，以减少其领地应激。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：高营养小型鸟专用滋养丸与新鲜蔬菜",
+            "text": "避免高脂纯种子膳食，喂食营养均衡的微粒滋养丸以及富含维生素的新鲜蔬菜（如胡萝卜、欧芹）。"
+          },
+          {
+            "name": "中午：觅食玩具(Foraging)与室内安全放飞",
+            "text": "布置觅食解密玩具和小爬梯以消耗其旺盛精力，并保证每天至少1-2小时的室内安全放飞时间。"
+          },
+          {
+            "name": "晚上：头部按摩情感互动与12小时遮光睡眠",
+            "text": "用手指轻轻揉抚其头部以建立情感纽带，随后盖上遮光布，保证10-12小时无噪音的黑暗睡眠。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "如何纠正太平洋口袋鹦鹉强烈的领地攻击性与啃咬行为？",
+            "answer": "口袋鹦鹉视鸟笼为绝对领地，强行伸手入笼极易招致咬伤。建议打开笼门让其自行出来站到T型架上再进行互动。若发生啃咬，保持冷静比大喊大叫更有效。"
+          },
+          {
+            "question": "太平洋口袋鹦鹉会说话吗？叫声大吗？",
+            "answer": "它们智商很高，能清晰模仿单词和短音。其发声分贝极低，多为细碎的唧唧声，非常适合公寓环境饲养。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Guía de cuidado del Cacatuó sterile / Cotorrita Celestial: Alta actividad, gestión de estrés territorial y rutina en 3 pasos",
+        "description": "Cuidados esenciales para la Cotorrita Celestial, el loro más pequeño del mundo. Aprenda a satisfacer su alta actividad, gestionar su territorialidad y mantener una dieta equilibrada de pienso.",
+        "authority": "Estándares de la Association of Avian Veterinarians (AAV) y Pautas de Bienestar para Pequeños Loros del World Parrot Trust (WPT)",
+        "profile": {
+          "breed": "Cotorrita Celestial / Perico Celestial (Pacific Parrotlet / Forpus coelestis)",
+          "lifespan": "15 ~ 20 años",
+          "sleep_pattern": "10 ~ 12 horas (requiere oscuridad total y ambiente silencioso para dormir)",
+          "temperament": "Audaz, activo, curioso, territorial, muy leal"
+        },
+        "intro": "La Cotorrita Celestial (Forpus coelestis) es famosa por ser el 'loro más pequeño del mundo', con un tamaño compacto de solo 12 a 14 cm. Muy adecuada para la vida en pisos, es una especie sumamente popular en Norteamérica y Europa. A pesar de su diminuto cuerpo, posee la audacia, inteligencia y resistencia de un gran guacamayo, lo que le ha valido el apodo de 'loro grande en cuerpo pequeño'. Sin embargo, pueden desarrollar conductas territoriales sobre su jaula; además, las dietas basadas solo en semillas causan hígado graso, por lo que el pienso extrusionado es vital. En esta guía, desciframos sus señales e identificamos una rutina de 3 pasos para su bienestar.",
+        "whyTitle": "Instintos de la Cotorrita Celestial: Chirriar de pico (Beak Grinding) y ahuecado territorial",
+        "whyDesc": "Las cotorritas celestiales son aves pequeñas con gran personalidad. Cuando se sienten amenazadas, ahuecan sus plumas y estiran el cuello para parecer más grandes. Por el contrario, cuando están totalmente relajadas y seguras, cierran los ojos y producen un suave chirrido con el pico.",
+        "body_signals": [
+          {
+            "name": "Chirriar de pico (Beak Grinding)",
+            "meaning": "Frotar suavemente el pico antes de dormir o en manos de su dueño, lo que indica máxima comodidad y serenidad emocional.",
+            "response": "Mantenga un entorno silencioso y relajado para ayudarle a conciliar un sueño reparador."
+          },
+          {
+            "name": "Ahuecado de plumas territorial",
+            "meaning": "Erizar el plumaje y estirar el cuello cuando alguien se acerca a su jaula, expresando una postura de defensa territorial.",
+            "response": "Evite meter la mano bruscamente en la jaula; abra la puerta y deje que salga voluntariamente a una percha externa."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Pienso extrusionado para pequeñas aves y verduras frescas",
+            "text": "Evite dietas grasas de solo semillas; sirva micropienso equilibrado junto con verduras frescas ricas en vitaminas como zanahorias."
+          },
+          {
+            "name": "Tarde: Juguetes de forrajeo y vuelo libre supervisado",
+            "text": "Canalice su gran energía colocando juguetes tipo rompecabezas de forrajeo y asegure entre 1 y 2 horas de vuelo libre seguro dentro de casa."
+          },
+          {
+            "name": "Noche: Caricias relajantes y 12 horas de descanso a oscuras",
+            "text": "Refuerce el vínculo rascando suavemente su cabeza, luego cubra su jaula con una funda opaca para garantizar de 10 a 12 horas de sueño tranquilo."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Cómo manejar la agresividad territorial y picotazos de la Cotorrita Celestial?",
+            "answer": "Consideran su jaula como su fortaleza. Meter la mano directamente puede provocar picotazos defensivos. Abra la jaula y deje que salga por sí misma a una percha. Si pica, evite gritar; la calma es la respuesta más efectiva."
+          },
+          {
+            "question": "¿Hablan las Cotorritas Celestiales y qué tan ruidosas son?",
+            "answer": "Son muy inteligentes y aprenden palabras cortas con claridad. Su volumen vocal es sumamente bajo, emitiendo suaves chirridos, lo que las hace ideales para pisos."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Guide de soin du Toui Céleste : Forte activité, gestion du stress territorial et routine en 3 étapes",
+        "description": "Soins essentiels pour le Toui Céleste, le plus petit perroquet du monde. Apprenez à répondre à son grand besoin d'activité, à gérer sa territorialité et à lui offrir une alimentation équilibrée.",
+        "authority": "Normes de l'Association of Avian Veterinarians (AAV) et directives de bien-être du World Parrot Trust (WPT)",
+        "profile": {
+          "breed": "Toui Céleste (Pacific Parrotlet / Forpus coelestis)",
+          "lifespan": "15 ~ 20 ans",
+          "sleep_pattern": "10 ~ 12 heures (nécessite une obscurité totale et un environnement calme)",
+          "temperament": "Audacieux, actif, curieux, territorial, très fidèle"
+        },
+        "intro": "Le Toui Céleste (Forpus coelestis) est célèbre pour être le 'plus petit perroquet du monde', mesurant entre 12 et 14 cm. Parfaitement adapté à la vie en appartement, il est très populaire en Amérique du Nord et en Europe. Malgré sa taille lilliputienne, il possède l'audace, l'intelligence et l'énergie d'un grand ara, ce qui lui vaut le surnom de 'grand perroquet dans un petit corps'. Toutefois, il peut développer des comportements territoriaux autour de sa cage. De plus, les graines seules provoquent de la stéatose hépatique, rendant les granulés extrudés indispensables. Dans ce guide, nous décryptons ses signaux et vous présentons une routine en 3 étapes.",
+        "whyTitle": "Instincts du Toui Céleste : Grincement de bec (Beak Grinding) et gonflement territorial",
+        "whyDesc": "Les touis célestes ont une forte personnalité. Lorsqu'ils se sentent menacés, ils gonflent leurs plumes et étirent leur cou pour paraître plus imposants. À l'inverse, lorsqu'ils se sentent en sécurité, ils ferment les yeux et produisent un doux grincement de bec.",
+        "body_signals": [
+          {
+            "name": "Grincement de bec (Beak Grinding)",
+            "meaning": "Frotter doucement son bec en fermant les yeux avant de dormir, traduisant un bien-être physique et émotionnel total.",
+            "response": "Conservez un environnement paisible pour l'aider à s'endormir sereinement."
+          },
+          {
+            "name": "Gonflement de plumes territorial",
+            "meaning": "Éruffler le plumage et tendre le cou lorsqu'un intrus approche de la cage, affichant une posture de défense de son territoire.",
+            "response": "Évitez de mettre la main brusquement dans la cage ; ouvrez la porte et laissez-le sortir de lui-même sur un perchoir."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Granulés extrudés pour petits perroquets et légumes frais",
+            "text": "Évitez le tout-graines trop gras ; fournissez des micro-granulés équilibrés accompagnés de légumes frais riches en vitamines."
+          },
+          {
+            "name": "Après-midi : Jouets de recherche alimentaire et vol libre sécurisé",
+            "text": "Canalisez son énergie avec des jouets d'occupation/forage et permettez-lui au moins 1 à 2 heures de vol libre en intérieur en toute sécurité."
+          },
+          {
+            "name": "Soir : Câlins doux et 12 heures de sommeil dans le noir",
+            "text": "Renforcez la complicité avec de douces gratouilles sur la tête, puis recouvrez sa cage d'une housse occultante pour 10 à 12 heures de sommeil."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Comment gérer la territorialité et les mordillements du Toui Céleste ?",
+            "answer": "Le toui considère sa cage comme son domaine. Y introduire la main peut déclencher des morsures défensives. Laissez-le sortir seul sur un perchoir. S'il mord, restez calme sans crier."
+          },
+          {
+            "question": "Le Toui Céleste parle-t-il et est-il bruyant ?",
+            "answer": "Très intelligent, il peut apprendre quelques mots très clairement. Son niveau sonore est extrêmement faible (doux pépiements), idéal pour la vie en appartement."
+          }
+        ]
+      },
+      "de": {
+        "title": "Axt-Sperlingspapagei Pflege-Leitfaden: Hohe Aktivität, Territorialer Stress & 3-Schritt-Tagesroutine",
+        "description": "Essenzielle Pflege für den Axt-Sperlingspapagei, den kleinsten Papagei der Welt. Erfahren Sie, wie Sie seinen Bewegungsdrang stillen und territoriales Verhalten managen.",
+        "authority": "Richtlinien der Association of Avian Veterinarians (AAV) & Standards des World Parrot Trust (WPT)",
+        "profile": {
+          "breed": "Axt-Sperlingspapagei (Pacific Parrotlet / Forpus coelestis)",
+          "lifespan": "15 ~ 20 Jahre",
+          "sleep_pattern": "10 ~ 12 Stunden (benötigt absolute Dunkelheit und Ruhe)",
+          "temperament": "Mutig, aktiv, neugierig, territorial, treu"
+        },
+        "intro": "Der Axt-Sperlingspapagei (Forpus coelestis) ist mit 12 bis 14 cm Körperlänge als 'kleinster Papagei der Welt' bekannt. Er eignet sich hervorragend für die Wohnungshaltung und ist in Nordamerika und Europa sehr beliebt. Trotz seiner geringen Größe besitzt er den Mut und die Intelligenz eines großen Aras ('großer Papagei im kleinen Körper'). Allerdings neigt er zu territorialem Verhalten bezüglich seines Käfigs. Reine Saatendiäten führen leicht zu Fettleber, weshalb Pelletfutter essenziell ist. Heute erklärt  seine Körpersprache und zeigt eine 3-Schritt-Routine.",
+        "whyTitle": "Instinkte des Sperlingspapageis: Schnabelknirschen (Beak Grinding) und territoriales Aufplustern",
+        "whyDesc": "Sperlingspapageien sind kleine Vögel mit großer Persönlichkeit. Wenn sie ihr Revier verteidigen, plustern sie ihr Gefieder auf. Fühlen sie sich vollkommen sicher, schließen sie die Augen und knirschen sanft mit dem Schnabel.",
+        "body_signals": [
+          {
+            "name": "Sanftes Schnabelknirschen (Beak Grinding)",
+            "meaning": "Reiben des Schnabels bei geschlossenen Augen vor dem Schlafen; zeigt maximale Entspannung und Wohlbefinden an.",
+            "response": "Halten Sie die Umgebung ruhig, damit der Vogel entspannt einschlafen kann."
+          },
+          {
+            "name": "Territoriales Aufplustern & Halsstrecken",
+            "meaning": "Aufstellen der Federn und Strecken des Halses bei Annäherung an den Käfig zur Abwehr von Eindringlingen.",
+            "response": "Greifen Sie nicht direkt in den Käfig; öffnen Sie die Tür und lassen Sie ihn freiwillig auf einen Trainingsast steigen."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Nährstoffreiches Pelletfutter & frisches Gemüse",
+            "text": "Vermeiden Sie fettreiche Saatenmischungen; füttern Sie ausgewogenes Mikropelletfutter und frisches Gemüse wie Karotten."
+          },
+          {
+            "name": "Nachmittag: Foraging-Spielzeug & gesicherter Freiflug",
+            "text": "Bieten Sie Futtersuch-Spielzeug an und gewähren Sie täglich mindestens 1–2 Stunden gesicherten Freiflug im Zimmer."
+          },
+          {
+            "name": "Abend: Kraulen & 12 Stunden Dunkelheit",
+            "text": "Stärken Sie die Bindung durch sanftes Kraulen am Kopf und decken Sie den Käfig für 10–12 Stunden ab."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Wie reagiere ich auf territoriales Bheißen beim Sperlingspapagei?",
+            "answer": "Der Käfig ist sein Revier. Greifen Sie nicht hinein, sondern lassen Sie ihn selbst herauskommen. Bei Bissen ruhig bleiben und nicht schreien."
+          },
+          {
+            "question": "Können Sperlingspapageien sprechen und wie laut sind sie?",
+            "answer": "Sie sind sehr intelligent und können Wörter lernen. Ihre Lautstärke ist sehr gering (leises Zwitschern), ideal für Wohnungen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Guia de cuidados do Tuim-sancti-thomae / Tuim-pacífico: Alta atividade, gestão de stresse territorial e rotina em 3 passos",
+        "description": "Cuidados essenciais para o Tuim-pacífico, o menor papagaio do mundo. Aprenda a satisfazer a sua alta atividade, gerir a territorialidade e manter uma dieta de ração.",
+        "authority": "Padrões da Association of Avian Veterinarians (AAV) e Diretrizes do World Parrot Trust (WPT)",
+        "profile": {
+          "breed": "Tuim-pacífico (Pacific Parrotlet / Forpus coelestis)",
+          "lifespan": "15 ~ 20 anos",
+          "sleep_pattern": "10 ~ 12 horas (exige escuridão total e ambiente silencioso para dormir)",
+          "temperament": "Audaz, ativo, curioso, territorial, leal"
+        },
+        "intro": "O Tuim-pacífico (Forpus coelestis) é famoso por ser o 'menor papagaio do mundo', medindo cerca de 12 a 14 cm. Muito adequado para apartamentos, é extremamente popular na América do Norte e Europa. Apesar do tamanho diminuto, tem a coragem e inteligência de uma arara ('grande papagaio num corpo pequeno'). No entanto, pode apresentar comportamento territorial na gaiola. Dietas só de sementes causam gordura no fígado, sendo a ração extrudada essencial. Neste guia, descodificamos os seus sinais e apresentamos uma rotina de 3 passos.",
+        "whyTitle": "Instintos do Tuim: Ranger do bico (Beak Grinding) e eriçar territorial",
+        "whyDesc": "Os tuins têm grande personalidade. Quando se sentem ameaçados, eriçam as penas e esticam o pescoço para parecerem maiores. Quando estão relaxados, fecham os olhos e rangem suavemente o bico.",
+        "body_signals": [
+          {
+            "name": "Ranger suave do bico (Beak Grinding)",
+            "meaning": "Friccionar o bico ao fechar os olhos antes de dormir, indicando bem-estar físico e emocional profundo.",
+            "response": "Mantenha o ambiente calmo para ajudar a ave a adormecer tranquila."
+          },
+          {
+            "name": "Eriçar de penas territorial",
+            "meaning": "Eriçar a plumagem e esticar o pescoço quando alguém se aproxima da gaiola, demonstrando defesa de território.",
+            "response": "Não ponha a mão bruscamente na gaiola; abra a porta e deixe a ave sair voluntariamente para um poleiro."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Ração extrudada para pequenas aves e vegetais frescos",
+            "text": "Evite dietas gordurosas de sementes; sirva micro-ração equilibrada e vegetais frescos ricos em vitaminas."
+          },
+          {
+            "name": "Tarde: Brinquedos de forrageio e voo livre supervisionado",
+            "text": "Canalize a sua energia com brinquedos de busca de comida e garanta 1 a 2 horas de voo livre seguro em casa."
+          },
+          {
+            "name": "Noite: Carinho suave e 12 horas de sono no escuro",
+            "text": "Reforce os laços com festas na cabeça e cubra a gaiola com uma capa opaca para garantir 10 a 12 horas de sono."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Como lidar com a territorialidade e bicadas do Tuim?",
+            "answer": "A gaiola é o seu território. Não ponha a mão lá dentro; deixe a ave sair sozinha. Se bicar, mantenha a calma sem gritar."
+          },
+          {
+            "question": "Os Tuins falam e são barulhentos?",
+            "answer": "São muito inteligentes e aprendem palavras curtas. O volume do som é muito baixo (chilreios suaves), ideal para apartamentos."
+          }
+        ]
+      },
+      "id": {
+        "title": "Panduan Perawatan Pacific Parrotlet: Aktivitas Tinggi, Manajemen Stres Teritorial & Rutinitas 3 Langkah",
+        "description": "Perawatan esensial untuk Pacific Parrotlet, burung paruh bengkok terkecil di dunia. Pelajari cara memenuhi aktivitas tingginya, mengelola sifat teritorial, dan menjaga diet pelet.",
+        "authority": "Standar Penasihat Association of Avian Veterinarians (AAV) & Panduan Kesejahteraan World Parrot Trust (WPT)",
+        "profile": {
+          "breed": "Pacific Parrotlet (Forpus coelestis)",
+          "lifespan": "15 ~ 20 tahun",
+          "sleep_pattern": "10 ~ 12 jam (membutuhkan kegelapan total dan suasana tenang untuk tidur)",
+          "temperament": "Pemberani, aktif, serba ingin tahu, teritorial, setia"
+        },
+        "intro": "Pacific Parrotlet (Forpus coelestis) terkenal sebagai 'burung paruh bengkok terkecil di dunia' dengan ukuran 12-14 cm. Sangat cocok untuk apartemen, burung ini populer di Amerika Utara dan Eropa. Meski kecil, mereka memiliki keberanian dan kecerdasan ala makau besar ('burung besar dalam tubuh kecil'). Namun, mereka bisa menjadi teritorial terhadap kandangnya. Diet biji-bijian saja bisa memicu penyakit hati berlemak, sehingga pelet nutrisi sangat penting. Dalam panduan ini, kami membedah sinyal instingnya dan membagikan rutinitas 3 langkah.",
+        "whyTitle": "Insting Parrotlet: Menggesek Paruh (Beak Grinding) dan Mengembangkan Bulu Teritorial",
+        "whyDesc": "Parrotlet adalah burung kecil dengan kepribadian besar. Saat merasa terancam, mereka mengembangkan bulu dan merentangkan leher agar terlihat lebih besar. Saat sangat tenang, mereka memejamkan mata dan menggesekkan paruhnya perlahan.",
+        "body_signals": [
+          {
+            "name": "Menggesek Paruh Perlahan (Beak Grinding)",
+            "meaning": "Menggesek paruh sambil memejamkan mata sebelum tidur, menandakan kenyamanan fisik dan emosional yang tinggi.",
+            "response": "Jaga suasana tetap tenang agar burung dapat tidur dengan lelap."
+          },
+          {
+            "name": "Mengembangkan Bulu Teritorial",
+            "meaning": "Merekahkan bulu dan memanjangkan leher saat ada yang mendekati kandangnya, menunjukkan sikap mempertahankan wilayah.",
+            "response": "Jangan memasukkan tangan secara mendadak; buka pintu kandang dan biarkan ia keluar sendiri ke tangkringan."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pelet Nutrisi Burung Kecil & Sayuran Segar",
+            "text": "Hindari diet biji tinggi lemak; berikan pelet nutrisi seimbang disertai sayuran segar kaya vitamin seperti wortel."
+          },
+          {
+            "name": "Siang: Mainan Foraging & Terbang Bebas Terawasi",
+            "text": "Salurkan energinya dengan mainan pencari makan (foraging) dan berikan waktu terbang bebas aman di dalam rumah 1-2 jam."
+          },
+          {
+            "name": "Malam: Elusan Lembut & Tidur 12 Jam di Tempat Gelap",
+            "text": "Pererat ikatan dengan mengelus kepalanya perlahan, lalu tutup kandang dengan kain gelap untuk tidur tenang 10-12 jam."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Bagaimana cara mengatasi sifat teritorial dan gigitan Pacific Parrotlet?",
+            "answer": "Kandang adalah wilayah pribadinya. Jangan mengambilnya langsung dari dalam kandang; biarkan keluar sendiri. Jika menggigit, tetap tenang dan jangan berteriak."
+          },
+          {
+            "question": "Apakah Pacific Parrotlet bisa bicara dan seberapa bising suaranya?",
+            "answer": "Mereka sangat cerdas dan bisa menirukan kata-kata pendek. Suaranya sangat pelan (cicitan halus), sangat ideal untuk apartemen."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/pacific_parrotlet_care.webp"
+  }
 }

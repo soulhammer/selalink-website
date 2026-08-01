@@ -1,406 +1,406 @@
 {
-    "how-to-store-curry-powder": {
-        "ingId": "curry_powder",
-        "pubDate": "2026-06-04",
-        "updatedDate": "2026-06-04",
-        "heroImage": "/images/blog/curry_powder_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "카레 가루·커리 파우더 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 카레 가루의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "미국 식품의약국(FDA) & 유럽식품안전청(EFSA) & 식품의약품안전처(MFDS)",
-                "intro": "집에서 맛있는 카레나 향신료 요리를 하려고 카레 가루를 꺼냈다가, 색이 바래 노란빛이 없어졌거나 향이 다 날아가 풍미가 없어진 적 있으시죠? 🍛\n\n카레 가루는 강황, 커민, 정향 등 다양한 혼합 향신료의 결합체로 전 세계에서 사랑받는 양념입니다. 하지만 주성분인 강황 속 **커큐민(Curcumin)** 분자는 자외선(UV)에 노출되면 **광분해(Photodegradation)** 반응이 일어나 노란 색상과 항산화 효능을 잃게 됩니다. 또한 커민과 정향에 포함된 휘발성 테르펜(Terpene) 정유 성분이 공기 중 산소와 접촉하면 순식간에 증발하여 특유의 고소하고 알싸한 향미가 사라집니다.\n\n이번 가이드에서는 국제 식품 안전 기관들이 검증한 과학적이고 확실한 카레 가루 신선도 및 향미 유지 3단계 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 물리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "투명 용기나 직사광선이 비치는 곳에 보관하지 마세요 ☀️",
-                        "desc": "자외선(UV)은 강황의 커큐민 성분을 강력하게 광분해(Photodegradation)시킵니다. 노란빛이 탈색되고 항산화 효능이 파괴되므로 반드시 빛을 차단하는 불투명 용기에 보관해야 합니다."
-                    },
-                    {
-                        "title": "절대 냉장고에 보관하거나 습기가 높은 곳에 두지 마세요 ⚠️",
-                        "desc": "카레 가루를 냉장 보관하다 상온으로 꺼내면 용기 내부에 온도 차로 인한 결로(이슬 맺힘) 수분이 생깁니다. 습기를 흡수한 파우더는 덩어리째 뭉치고 곰팡이가 피기 매우 쉬운 환경이 됩니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "빛을 차단하는 불투명 밀폐 용기에 담기 — 광분해 및 향 증발 차단 🫙",
-                        "text": "커큐민의 광분해와 휘발성 테르펜 정유의 증발을 막는 첫 번째 단계입니다. 💡 보관 팁: 개봉 후에는 투명한 유리병이나 원래 비닐 봉지째 두지 말고, 캔 용기, 불투명 밀폐 용기, 또는 차광 지퍼백에 옮겨 담아 공기를 빼고 단단히 밀봉하세요."
-                    },
-                    {
-                        "name": "서늘하고 건조한 상온 암소(15~20℃)에 보관하기 — 상온 보관 (미개봉 2년 / 개봉 후 6개월) 🌡️",
-                        "text": "상대습도가 낮고 열기가 없는 장소에 보관하는 것이 핵심입니다. 💡 보관 팁: 가스레인지나 오븐 주위의 열기를 피해 햇빛이 닿지 않고 바람이 통하는 찬장 깊은 곳이나 다용도실에 보관하세요. 미개봉 시 2년, 개봉 후 밀폐 상태로 6개월간 고유의 향미와 노란 색상을 유지할 수 있습니다."
-                    },
-                    {
-                        "name": "사용 시 바짝 마른 건조한 스푼만 사용하기 — 습기 및 오염 차단 🥄",
-                        "text": "냄비 위에 직접 가루를 털어 넣으면 수증기가 들어갈 수 있습니다. 💡 보관 팁: 끓는 국물이나 냄비 위에 카레 가루 용기를 직접 대고 털어 넣으면 수증기가 용기 안으로 들어가 가루가 뭉치고 산패가 진행됩니다. 반드시 바짝 마른 숟가락을 사용해 별도 그릇에 덜어 쓰세요."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "카레 가루 색이 옅어지고 누렇게 바래버렸는데 먹어도 되나요?",
-                        "answer": "색이 바랜 것은 자외선 노출로 인해 강황의 커큐민 성분이 광분해(Photodegradation)된 현상입니다. 부패하거나 독성이 생긴 것은 아니므로 드셔도 안전하지만, 커큐민의 항산화 효능이 떨어지고 커민·정향 등의 향 성분이 날아가 요리의 풍미가 크게 감소했을 수 있습니다."
-                    },
-                    {
-                        "question": "카레 가루를 냉장 보관하면 왜 안 되나요?",
-                        "answer": "냉장고 내부는 습도가 높은 데다 용기를 넣었다 꺼낼 때마다 발생하는 급격한 온도 차로 용기 내부에 결로(이슬) 수분이 형성됩니다. 건조 분말 형태인 카레 가루가 수분을 흡수하면 덩어리 뭉침(Caking) 현상이 발생하고 곰팡이가 증식하기 매우 좋은 환경으로 변하기 때문입니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Curry Powder Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for curry powder based on official safety guidelines.",
-                "authority": "FDA & EFSA & MFDS",
-                "intro": "Have you ever pulled out your curry powder to cook a flavorful curry or spiced dish, only to find that its vibrant yellow hue had faded or its aroma had completely disappeared? 🍛\n\nCurry powder is a beloved blend of spices including turmeric, cumin, and cloves used worldwide. However, the active compound in turmeric, **curcumin**, undergoes rapid **photodegradation** when exposed to ultraviolet (UV) light, causing loss of both its rich yellow pigment and antioxidant potency. Furthermore, volatile terpene essential oils from cumin and cloves evaporate rapidly upon oxygen exposure, destroying its signature pungent bouquet.\n\nIn this guide, we introduce a scientifically proven 3-step curry powder storage guide recommended by international food safety experts to preserve vivid color and rich aromatics. 🛡️",
-                "whyTitle": "Why Store Curry Powder This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physical and chemical characteristics of each food item and applying the proper storage method is essential for maintaining freshness and food safety.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Do not store in clear glass jars or direct sunlight ☀️",
-                        "desc": "Ultraviolet (UV) light causes severe photodegradation of curcumin in turmeric, bleaching its signature yellow color and breaking down antioxidant compounds. Always store in an opaque container that blocks light."
-                    },
-                    {
-                        "title": "Never refrigerate curry powder or store in high humidity ⚠️",
-                        "desc": "Taking refrigerated spice containers out to room temperature creates internal condensation from thermal shock. This moisture causes severe powder clumping (caking) and creates a ideal breeding ground for mold."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Store in opaque, airtight containers — Block Light and Aroma Evaporation 🫙",
-                        "text": "Preventing curcumin photodegradation and terpene oil evaporation is the critical first step. 💡 Storage Tip: After opening, transfer the powder from clear jars or original plastic bags into metal tins, opaque airtight containers, or light-blocking Ziploc pouches."
-                    },
-                    {
-                        "name": "Keep in a cool, dry, dark place at room temperature (15–20°C / 59–68°F) — Cool Room Temp Storage (2 Years Unopened / 6 Months Opened) 🌡️",
-                        "text": "Storing in an area with low relative humidity and away from ambient heat is essential. 💡 Storage Tip: Keep away from stovetops and ovens inside a dark pantry or cabinet. Unopened curry powder lasts up to 2 years, and sealed opened powder retains full flavor for 6 months."
-                    },
-                    {
-                        "name": "Use only clean, completely dry spoons — Block Moisture and Steam 🥄",
-                        "text": "Shaking powder directly over steaming pots introduces moisture. 💡 Storage Tip: Never hold the container over a boiling pot as rising steam enters the container, causing powder to clump and spoil. Always measure with a completely dry utensil into a separate dish."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "My curry powder has faded to a dull yellow/pale color. Is it still safe to use?",
-                        "answer": "Yes, it is safe to use! The pale color is caused by the photodegradation of curcumin due to UV light exposure. While it is not spoiled or toxic, the antioxidant potency has decreased and the volatile aromatic oils (terpenes) from cumin and cloves have likely evaporated, resulting in a milder flavor."
-                    },
-                    {
-                        "question": "Why shouldn't curry powder be stored in the refrigerator?",
-                        "answer": "Refrigerators have high ambient humidity, and removing the cold container into room air creates condensation inside the jar. As a dry spice powder, absorbing micro-moisture causes clumping (caking) and significantly increases the risk of mold growth."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "カレー粉（カレーパウダー）を新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくカレー粉の最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "米国食品医薬品局(FDA) & 欧州食品安全機関(EFSA) & 韓国食品医薬品安全処(MFDS)",
-                "intro": "美味しいカレーやスパイス料理を作ろうとカレー粉を取り出した際、黄色い色が褪せていたり、香りが抜けて風味がないと感じたことはありませんか？🍛\n\nカレー粉はターメリック（ウコン）、クミン、クローブなど多様な調合スパイスの集合体で、世界中で愛されている調味料です。しかし、主成分であるターメリックに含まれる**クルクミン（Curcumin）**分子は、紫外線（UV）に晒されると**光分解（Photodegradation）**反応を起こし、黄色い色素や抗酸化効能を失います。また、クミンやクローブに含まれる揮発性テルペン（Terpene）精油成分は、空気中の酸素と接触すると急速に蒸発し、特有のスパイシーな香りが失われてしまいます。\n\n本記事では、国際的な専門機関が検証したカレー粉の鮮やかな色と豊かな風味を保つ3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の物理的・化学的特性を理解し、それに応じた正しい保存方法を visual 適用することは 鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "透明な容器や直射日光の当たる場所に保管しないでください ☀️",
-                        "desc": "紫外線（UV）はターメリックのクルクミン成分を強力に光分解（Photodegradation）させます。黄色が退色し抗酸化作用が破壊されるため、必ず光を遮断する不透明な容器で保管してください。"
-                    },
-                    {
-                        "title": "絶対に冷蔵庫に保管したり湿気の高い場所に置かないでください ⚠️",
-                        "desc": "カレー粉を冷蔵保管し常温に出すと、温度差による結露（水滴）が容器内部に発生します。湿気を吸ったパウダーはダマになりやすく、カビが非常に繁殖しやすい環境になります。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "光を遮断する不透明な密閉容器に入れる — 光分解と香りの蒸発防止 🫙",
-                        "text": "クルクミンの光分解と揮発性テルペン精油の蒸発を防ぐ最初のステップです。💡保存のコツ：開封後は透明な瓶や袋のまま放置せず、缶容器、不透明な密閉容器、または遮光チャック付き袋に移し替え、しっかりと密閉してください。"
-                    },
-                    {
-                        "name": "涼しく乾燥した常温の暗所（15〜20℃）で保存する — 常温保存 (未開封2年 / 開封後6ヶ月) 🌡️",
-                        "text": "相対湿度が低く熱気のない場所に保管することが重要です。💡保存のコツ：コンロやオーブンの熱気を避け、日光が当たらず風通しの良い戸棚の奥などに保管してください。未開封で2年、開封後密閉状態で6ヶ月間風味と黄色を維持できます。"
-                    },
-                    {
-                        "name": "使用時は完全に乾いたスプーンのみを使用する — 湿気と汚染の遮断 🥄",
-                        "text": "鍋の上から直接振り入れると水蒸気が混入する原因になります。💡保存のコツ：沸騰したスープや鍋の上に容器を直接当てて振ると、水蒸気が入ってダマになり酸化が進みます。必ず完全に乾いたスプーンで別容器に取り分けてご使用ください。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "カレー粉の色が薄く褪せてしまいましたが、使っても大丈夫ですか？",
-                        "answer": "色が褪せたのは紫外線によりクルクミンが光分解（Photodegradation）を起こした現象です。腐敗や毒性はないため使用しても安全ですが、クルクミンの抗酸化効能が落ち、香気成分が飛んで風味が大きく低下している可能性があります。"
-                    },
-                    {
-                        "question": "カレー粉を冷蔵保存してはいけない理由は何ですか？",
-                        "answer": "冷蔵庫内は湿度が高く、出し入れ時の急激な温度差によって容器内部に結露が発生するためです。乾燥粉末であるカレー粉が水分を吸収するとケーキング（ダマ化）を起こし、カビが非常に発生しやすくなります。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持咖喱粉新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解咖喱粉（Curry Powder）的最佳储存温度、方式及保鲜时长。",
-                "authority": "美国食品药品监督管理局(FDA) & 欧洲食品安全局(EFSA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "当您打算烹饪美味的咖喱或香料料理而取出咖喱粉时，是否发现其原本鲜艳的黄色褪去了，或是香气全无、口感平淡？🍛\n\n咖喱粉是由姜黄、孜然、丁香等多重香料混合而成的全球经典调味料。然而，其核心成分姜黄中的**姜黄素（Curcumin）**分子在暴露于紫外线（UV）下时，会发生剧烈的**光降解（Photodegradation）**反应，失去亮黄色彩与抗氧化功效。此外，孜然和丁香中所含的挥发性萜烯（Terpene）精油成分一经接触空气中的氧气就会迅速挥发，导致其独特的浓郁香气丧失。\n\n本指南基于国际食品安全专家的权威建议，为您带来3步科学咖喱粉保鲜秘诀，锁住鲜亮色彩与浓郁香气。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的物理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "切勿存放在透明容器或阳光直射处 ☀️",
-                        "desc": "紫外线（UV）会导致姜黄素发生严重的光降解（Photodegradation），使其脱色并破坏抗氧化成分。务必保存在能遮光的不透明密封容器中。"
-                    },
-                    {
-                        "title": "切勿存放在冰箱冷藏或高湿度环境中 ⚠️",
-                        "desc": "将冷藏的咖喱粉取出至常温时，剧烈温差会导致容器内部产生凝结水（结露）。吸湿后的粉末极易结块（Caking）并滋生霉菌。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "装入遮光的不透明密封容器 — 阻隔光降解与香气挥发 🫙",
-                        "text": "防止姜黄素光降解与挥发性萜烯精油散失是第一步。💡储存小贴士：开封后切勿继续存放在透明玻璃瓶或原塑料袋中，请转存至金属罐、不透明密封罐或避光密封袋中。"
-                    },
-                    {
-                        "name": "存放在阴凉干燥的常温暗处（15~20℃） — 常温保存 (未开封2年 / 开封后6个月) 🌡️",
-                        "text": "控制相对湿度并避开热源是保鲜的核心。💡储存小贴士：避开灶台、烤箱周围的热源，存放在无阳光直射、通风良好的橱柜深处。未开封可保存2年，开封后密封可保存6个月。"
-                    },
-                    {
-                        "name": "取用时务必保证勺子绝对干燥 — 阻隔水汽与污染 🥄",
-                        "text": "直接在冒着热气的锅上方倾倒咖喱粉会导致水汽进入。💡储存小贴士：切勿将咖喱粉瓶直接对着沸腾的锅倾倒，上升的水汽进入瓶内会导致粉末结块与变质。务必使用干净彻底擦干的勺子取用。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "咖喱粉颜色变浅变白了，还能继续食用吗？",
-                        "answer": "可以食用！颜色变浅是由于暴露于紫外线下导致姜黄素发生光降解（Photodegradation）的自然现象。虽然没有变质或产生毒性，但姜黄素的抗氧化效果已降低，且孜然等挥发性香气成分已散失，料理的风味会大打折扣。"
-                    },
-                    {
-                        "question": "为什么不能把咖喱粉冷藏保存？",
-                        "answer": "冰箱内湿度较高，且频繁取用产生的温差会导致瓶内形成凝结水。干燥的咖喱粉极易吸收水分引发结块（Caking），并大幅增加发霉变质的风险。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener el curry en polvo fresco: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para el curry en polvo según las directrices oficiales de seguridad.",
-                "authority": "FDA & EFSA & MFDS",
-                "intro": "¿Alguna vez ha ido a sacar el curry en polvo para preparar una sabrosa receta y se ha encontrado con que su vivo color amarillo se había desvanecido o su aroma había desaparecido? 🍛\n\nEl curry en polvo es una popular mezcla de especias que incluye cúrcuma, comino y clavo. Sin embargo, el principio activo de la cúrcuma, la **curcumina**, sufre una rápida **fotodegradación** al exponerse a la luz ultravioleta (UV), perdiendo su pigmento amarillo y su capacidad antioxidante. Además, los aceites esenciales de terpenos volátiles presentes en el comino y el clavo se evaporan rápidamente en contacto con el oxígeno, destruyendo su aroma característico.\n\nEn esta guía se presenta una guía de conservación del curry en polvo en 3 pasos respaldada por expertos internacionales en seguridad alimentaria. 🛡️",
-                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-                "whyDesc": "Comprender las características físicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "No almacene en frascos de vidrio transparentes ni a la luz solar directa ☀️",
-                        "desc": "La luz ultravioleta (UV) causa una grave fotodegradación de la curcumina, decolorando su tono amarillo y destruyendo antioxidantes. Almacene siempre en un recipiente opaco que bloquee la luz."
-                    },
-                    {
-                        "title": "Nunca refrigere el curry en polvo ni lo guarde con mucha humedad ⚠️",
-                        "desc": "Sacar frascos fríos a temperatura ambiente crea condensación interna debido al choque térmico. Esta humedad provoca apelmazamiento (caking) y favorece la aparición de moho."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Guarde en recipientes opacos y herméticos — Bloqueo de luz y evaporación de aromas 🫙",
-                        "text": "Evitar la fotodegradación de la curcumina y la evaporación de terpenos es el primer paso vital. 💡 Consejo de almacenamiento: Tras abrirlo, pase el polvo de recipientes transparentes a latas de metal, frascos opacos o bolsas con cierre hermético que bloqueen la luz."
-                    },
-                    {
-                        "name": "Conserve en un lugar fresco, seco y oscuro a temperatura ambiente (15–20 °C) — Almacenamiento a temp. ambiente (2 años cerrado / 6 meses abierto) 🌡️",
-                        "text": "Mantener baja humedad relativa y alejar de fuentes de calor es fundamental. 💡 Consejo de almacenamiento: Guárdelo en una despensa o armario oscuro lejos de estufas y hornos. Sin abrir dura hasta 2 años, y bien cerrado dura 6 meses."
-                    },
-                    {
-                        "name": "Use únicamente cucharas totalmente secas — Prevención de humedad y vapor 🥄",
-                        "text": "Espolvorear el producto directamente sobre ollas hirviendo introduce humedad. 💡 Consejo de almacenamiento: Nunca sostenga el frasco sobre vapor, ya que la humedad entra y crea grumos. Mida siempre con una cuchara completamente seca en un plato aparte."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mi curry en polvo se ha vuelto pálido. ¿Sigue siendo seguro usarlo?",
-                        "answer": "¡Sí, es seguro consumir! La pérdida de color se debe a la fotodegradación de la curcumina provocada por la luz UV. Aunque no está estropeado ni es tóxico, su poder antioxidante ha disminuido y los aceites aromáticos volátiles se han evaporado, por lo que su sabor será más suave."
-                    },
-                    {
-                        "question": "¿Por qué no se debe guardar el curry en polvo en el refrigerador?",
-                        "answer": "El refrigerador tiene una elevada humedad ambiental y los cambios bruscos de temperatura al sacarlo generan condensación interna. Como producto seco, la absorción de humedad genera apelmazamiento (caking) e incrementa sustancialmente el riesgo de moho."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver le curry en poudre frais : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le curry en poudre selon les directives officielles de sécurité.",
-                "authority": "FDA & EFSA & MFDS",
-                "intro": "Avez-vous déjà voulu utiliser du curry en poudre pour cuisiner, pour constater que sa vive couleur jaune s'était ternie ou que son parfum avait disparu ? 🍛\n\nLe curry en poudre est un mélange d'épices emblématique comprenant du curcuma, du cumin et du clou de girofle. Néanmoins, son composé actif, la **curcumine**, subit une **photodégradation** rapide sous l'action des rayons ultraviolets (UV), entraînant la perte de sa couleur et de ses vertus antioxydantes. De plus, les huiles essentielles terpéniques volatiles s'évaporent rapidement au contact de l'oxygène, dégradant ses arômes.\n\nDans ce guide, vous présente un guide de conservation du curry en poudre en 3 étapes recommandé par des experts en sécurité alimentaire. 🛡️",
-                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne le conservez pas dans des bocaux transparents ou en plein soleil ☀️",
-                        "desc": "Les rayons ultraviolets (UV) provoquent une forte photodégradation de la curcumine, décolorant la poudre et détruisant ses propriétés. Conservez toujours dans un récipient opaque fermant hermétiquement."
-                    },
-                    {
-                        "title": "Ne réfrigérez jamais le curry en poudre ⚠️",
-                        "desc": "Placer puis sortir le flacon du réfrigérateur provoque un choc thermique créant de la condensation interne. Cette humidité provoque un mottage (caking) et favorise le développement de moisissures."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Conserver dans des récipients opaques et hermétiques — Bloquer la photodégradation et l'évaporation 🫙",
-                        "text": "Éviter la photodégradation de la curcumine et l'évaporation des huiles de terpène est l'étape essentielle. 💡 Astuce de conservation : Après ouverture, transvasez la poudre des sachets d'origine ou bocaux transparents vers des boîtes métalliques ou des flacons opaques."
-                    },
-                    {
-                        "name": "Conserver au frais, au sec et à l'abri de la lumière (15–20 °C) — Stockage ambiant (2 ans non ouvert / 6 mois ouvert) 🌡️",
-                        "text": "Conserver dans un endroit peu humide et loin de la chaleur est capital. 💡 Astuce de conservation : Rangez le flacon au fond d'un placard sombre, loin des plaques de cuisson. Il se conserve jusqu'à 2 ans non ouvert et 6 mois une fois ouvert."
-                    },
-                    {
-                        "name": "Utiliser uniquement des cuillères parfaitement sèches — Anti-humidité et vapeur 🥄",
-                        "text": "Saupoudrer la poudre directement au-dessus d'une casserole fumante introduit de l'humidité. 💡 Astuce de conservation : Ne tenez jamais le flacon au-dessus d'une casserole bouillante, car la vapeur y pénètre et crée des grumeaux. Prélevez toujours avec un ustensile sec."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mon curry en poudre a perdu sa belle couleur jaune. Est-il encore consommable ?",
-                        "answer": "Oui, il reste propre à la consommation ! La décoloration est due à la photodégradation de la curcumine sous l'effet des UV. Bien qu'il ne soit ni toxique ni périmé, le pouvoir antioxydant a diminué et les huiles aromatiques se sont évaporées, ce qui rend son goût nettement plus fade."
-                    },
-                    {
-                        "question": "Pourquoi est-il déconseillé de ranger le curry en poudre au réfrigérateur ?",
-                        "answer": "Le réfrigérateur présente une forte humidité et les chocs thermiques lors des sorties génèrent de la condensation dans le flacon. En tant qu'épice sèche, l'absorption d'humidité entraîne un mottage (caking) et augmente le risque de moisissure."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Currypulver richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Currypulver basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "FDA & EFSA & MFDS",
-                "intro": "Wollten Sie schon einmal Currypulver zum Kochen verwenden und haben festgestellt, dass die gelbe Farbe verblasst war oder das Aroma gefehlt hat? 🍛\n\nCurrypulver ist eine beliebte Gewürzmischung aus Kurkuma, Kreuzkümmel, Nelken und weiteren Zutaten. Der Hauptwirkstoff in Kurkuma, **Curcumin**, unterliegt jedoch unter UV-Licht einer schnellen **Photodegradation** (Lichtabbau), wodurch die gelbe Farbe und die Antioxidationskraft verloren gehen. Zudem verdunsten die flüchtigen Terpen-Öle aus Kreuzkümmel und Nelken bei Sauerstoffkontakt rasch.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber zur Lagerung von Currypulver. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physikalischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Nicht in transparenten Gläsern oder direktem Sonnenlicht lagern ☀️",
-                        "desc": "UV-Licht bewirkt einen starken Lichtabbau (Photodegradation) von Curcumin, bleicht die gelbe Farbe aus und zerstört Antioxidantien. Stets in lichtundurchlässigen Behältern aufbewahren."
-                    },
-                    {
-                        "title": "Currypulver niemals im Kühlschrank oder feuchter Umgebung lagern ⚠️",
-                        "desc": "Das Herausholen gekühlter Gewürzdosen bei Raumtemperatur erzeugt Kondenswasser im Inneren. Diese Feuchtigkeit führt zu Klumpenbildung (Caking) und begünstigt Schimmelpilze."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "In lichtundurchlässigen, luftdichten Behältern lagern — Lichtabbau und Aromaverlust stoppen 🫙",
-                        "text": "Das Verhindern des Curcumin-Lichtabbaus und das Stoppen der Terpenöl-Verdunstung ist der wichtigste Schritt. 💡 Lagerungstipp: Füllen Sie das Pulver nach dem Öffnen in Metalldosen, dunkle Glasbehälter oder lichtgeschützte Ziploc-Beutel um."
-                    },
-                    {
-                        "name": "Kühl, trocken und dunkel bei Raumtemperatur (15–20 °C) lagern — Raumtemperaturlagerung (Ungeöffnet 2 Jahre / Geöffnet 6 Monate) 🌡️",
-                        "text": "Lagerung bei geringer Luftfeuchtigkeit und fern von Hitze ist entscheidend. 💡 Lagerungstipp: Lagern Sie das Gewürz in einem dunklen Küchenschrank fern von Herd und Ofen. Ungeöffnet hält es 2 Jahre, geöffnet 6 Monate."
-                    },
-                    {
-                        "name": "Nur absolut trockene Löffel verwenden — Feuchtigkeitsschutz 🥄",
-                        "text": "Das Einstreuen direkt über kochenden Töpfen führt Feuchtigkeit zu. 💡 Lagerungstipp: Halten Sie die Dose nie direkt über dampfende Speisen, da Wasserdampf eindringt und Klumpen bildet. Stets mit einem trockenen Löffel entnehmen."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mein Currypulver ist blass geworden. Ist es noch genießbar?",
-                        "answer": "Ja, es ist unbedenklich genießbar! Die Verblassung ist auf den Lichtabbau (Photodegradation) von Curcumin durch UV-Licht zurückzuführen. Obwohl es nicht verdorben ist, haben die antioxidative Wirkung und die flüchtigen Aromastoffe nachgelassen, wodurch das Gericht milder schmeckt."
-                    },
-                    {
-                        "question": "Warum sollte Currypulver nicht im Kühlschrank gelagert werden?",
-                        "answer": "Kühlschränke weisen eine hohe Luftfeuchtigkeit auf und Tempereaturschwankungen beim Herausholen erzeugen Kondenswasser im Behälter. Das trockene Pulver nimmt Feuchtigkeit auf, verklumpt (Caking) und Schimmel kann sich bilden."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar curry em pó fresco: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para o curry em pó com base em diretrizes oficiais de segurança.",
-                "authority": "FDA & EFSA & MFDS",
-                "intro": "Você já foi pegar curry em pó para cozinhar e percebeu que a cor amarela viva estava desbotada ou o aroma havia desaparecido? 🍛\n\nO curry em pó é uma mistura de especiarias muito amada que inclui açafrão-da-terra (cúrcuma), cominho e cravo. No entanto, a **curcumina**, substância ativa do açafrão, sofre rápida **fotodegradação** quando exposta à luz ultravioleta (UV), perdendo sua pigmentação e propriedades antioxidantes. Além disso, os óleos essenciais de terpenos voláteis do cominho e do cravo evaporam rapidamente ao contato com o oxigênio, perdendo o aroma aroma característico.\n\nNeste guia, apresentamos um guia de conservação de curry em pó em 3 etapas recomendado por especialistas em segurança alimentar. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características físicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Não guarde em potes transparentes nem sob luz solar direta ☀️",
-                        "desc": "A luz ultravioleta (UV) causa severa fotodegradação da curcumina, desbotando a cor amarela e destruindo antioxidantes. Guarde sempre em recipiente opaco que bloqueie a luz."
-                    },
-                    {
-                        "title": "Nunca refrigere o curry em pó nem guarde em locais úmidos ⚠️",
-                        "desc": "Retirar potes frios para a temperatura ambiente gera condensação interna por choque térmico. Essa umidade provoca empedramento (caking) e cria o ambiente ideal para mofo."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Guarde em recipientes opacos e herméticos — Bloqueio de luz e evaporação de aromas 🫙",
-                        "text": "Evitar a fotodegradação da curcumina e a evaporação de óleos de terpeno é a etapa principal. 💡 Dica de conservação: Após aberto, transfira o pó de embalagens transparentes para latas metálicas, potes opacos ou sacos herméticos bloqueadores de luz."
-                    },
-                    {
-                        "name": "Conserve em local fresco, seco e escuro a temperatura ambiente (15–20 °C) — Armazenamento a temp. ambiente (2 anos fechado / 6 meses aberto) 🌡️",
-                        "text": "Manter baixa umidade relativa e longe de calor é essencial. 💡 Dica de conservação: Guarde dentro de um armário escuro longe do fogão. Fechado dura até 2 anos e aberto dura 6 meses."
-                    },
-                    {
-                        "name": "Use apenas colheres totalmente secas — Prevenção de umidade e vapor 🥄",
-                        "text": "Polvilhar o tempero diretamente sobre panelas fumegantes introduz umidade no pote. 💡 Dica de conservação: Nunca segure o pote sobre o vapor de panelas fervendo. Use sempre uma colher totalmente seca para retirar a quantidade desejada."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Meu curry em pó desbotou e ficou pálido. Ainda posso usar?",
-                        "answer": "Sim, é seguro consumir! O desbotamento ocorre pela fotodegradação da curcumina provocada pela luz UV. Embora não esteja estragado, o poder antioxidante diminuiu e os óleos aromáticos evaporaram, resultando em um sabor mais suave."
-                    },
-                    {
-                        "question": "Por que não se deve guardar curry em pó na geladeira?",
-                        "answer": "A geladeira tem alta umidade e a mudança de temperatura ao retirar o pote gera condensação no interior. Por ser um pó seco, a absorção de umidade gera empedramento (caking) e aumenta bastante o risco de mofo."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Bubuk Kari agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk bubuk kari berdasarkan pedoman keselamatan resmi.",
-                "authority": "FDA & EFSA & MFDS",
-                "intro": "Pernahkah Anda mengambil bubuk kari untuk memasak, lalu mendapati warna kuning cerahnya telah memudar atau aromanya hilang sama sekali? 🍛\n\nBubuk kari adalah racikan bumbu populer yang terdiri dari kunyit, jintan, cengkih, dan rempah lainnya. Namun, senyawa aktif dalam kunyit, yaitu **kurkumin**, mengalami **fotodegradasi** cepat saat terpapar sinar ultraviolet (UV), yang menyebabkan hilangnya pigmen kuning dan khasiat antioksidannya. Selain itu, minyak atsiri terpene yang mudah menguap dari jintan dan cengkih akan menguap dengan cepat saat kontak dengan oksigen, menghilangkan aroma khasnya.\n\nDalam panduan ini, kami membagikan panduan penyimpanan bubuk kari 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisik dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan menyimpan dalam toples transparan atau di bawah sinar matahari langsung ☀️",
-                        "desc": "Sinar ultraviolet (UV) memicu fotodegradasi parah pada kurkumin, memudarkan warna kuning dan merusak kandungan antioksidannya. Selalu simpan dalam wadah buram kedap cahaya."
-                    },
-                    {
-                        "title": "Jangan pernah menyimpan bubuk kari di kulkas atau tempat lembap ⚠️",
-                        "desc": "Mengeluarkan wadah dingin dari kulkas ke suhu ruang memicu embun (kondensasi) di dalam wadah. Kelembapan ini menyebabkan bubuk menggumpal (caking) dan menjadi media tumbuh jamur."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Simpan dalam wadah buram kedap udara — Hentikan Fotodegradasi dan Penguapan Aroma 🫙",
-                        "text": "Mencegah fotodegradasi kurkumin dan penguapan minyak terpene adalah langkah paling utama. 💡 Tips Penyimpanan: Setelah dibuka, pindahkan bubuk dari kemasan transparan ke kaleng logam, toples buram, atau kantong Ziploc kedap cahaya."
-                    },
-                    {
-                        "name": "Simpan di tempat sejuk, kering, dan gelap pada suhu ruang (15–20°C) — Simpan Suhu Ruang (2 Tahun Belum Dibuka / 6 Bulan Setelah Dibuka) 🌡️",
-                        "text": "Menjaga kelembapan relatif tetap rendah dan jauh dari sumber panas adalah kuncinya. 💡 Tips Penyimpanan: Simpan di dalam lemari dapur yang gelap dan jauh dari kompor. Belum dibuka bertahan 2 tahun, dan setelah dibuka bertahan 6 bulan."
-                    },
-                    {
-                        "name": "Gunakan selalu sendok yang benar-benar kering — Cegah Kelembapan dan Uap Air 🥄",
-                        "text": "Menaburkan bubuk langsung di atas masakan yang berasap memasukkan kelembapan ke dalam wadah. 💡 Tips Penyimpanan: Jangan pernah memegang botol di atas masakan mendidih karena uap air akan masuk dan menggumpalkan bubuk. Ambil selalu dengan sendok kering."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Bubuk kari saya warnanya memudar menjadi kuning pucat. Apakah masih aman digunakan?",
-                        "answer": "Ya, sangat aman digunakan! Warna yang memudar disebabkan oleh fotodegradasi kurkumin akibat paparan sinar UV. Meskipun tidak membusuk atau beracun, khasiat antioksidannya berkurang dan minyak aromatiknya telah menguap sehingga rasanya menjadi lebih hambar."
-                    },
-                    {
-                        "question": "Mengapa bubuk kari tidak boleh disimpan di dalam kulkas?",
-                        "answer": "Kulkas memiliki kelembapan tinggi, dan perubahan suhu saat wadah dikeluarkan menimbulkan embum di dalam wadah. Sebagai rempah bubuk kering, penyerapan air menyebabkan penggumpalan (caking) dan meningkatkan risiko tumbuhnya jamur secara signifikan."
-                    }
-                ]
-            }
-        }
+  "how-to-store-curry-powder": {
+    "ingId": "curry_powder",
+    "pubDate": "2026-06-04",
+    "updatedDate": "2026-06-04",
+    "heroImage": "/images/blog/curry_powder_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "카레 가루·커리 파우더 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 카레 가루의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "미국 식품의약국(FDA) & 유럽식품안전청(EFSA) & 식품의약품안전처(MFDS)",
+        "intro": "집에서 맛있는 카레나 향신료 요리를 하려고 카레 가루를 꺼냈다가, 색이 바래 노란빛이 없어졌거나 향이 다 날아가 풍미가 없어진 적 있으시죠? 🍛\n\n카레 가루는 강황, 커민, 정향 등 다양한 혼합 향신료의 결합체로 전 세계에서 사랑받는 양념입니다. 하지만 주성분인 강황 속 **커큐민(Curcumin)** 분자는 자외선(UV)에 노출되면 **광분해(Photodegradation)** 반응이 일어나 노란 색상과 항산화 효능을 잃게 됩니다. 또한 커민과 정향에 포함된 휘발성 테르펜(Terpene) 정유 성분이 공기 중 산소와 접촉하면 순식간에 증발하여 특유의 고소하고 알싸한 향미가 사라집니다.\n\n이번 가이드에서는 국제 식품 안전 기관들이 검증한 과학적이고 확실한 카레 가루 신선도 및 향미 유지 3단계 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 물리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "투명 용기나 직사광선이 비치는 곳에 보관하지 마세요 ☀️",
+            "desc": "자외선(UV)은 강황의 커큐민 성분을 강력하게 광분해(Photodegradation)시킵니다. 노란빛이 탈색되고 항산화 효능이 파괴되므로 반드시 빛을 차단하는 불투명 용기에 보관해야 합니다."
+          },
+          {
+            "title": "절대 냉장고에 보관하거나 습기가 높은 곳에 두지 마세요 ⚠️",
+            "desc": "카레 가루를 냉장 보관하다 상온으로 꺼내면 용기 내부에 온도 차로 인한 결로(이슬 맺힘) 수분이 생깁니다. 습기를 흡수한 파우더는 덩어리째 뭉치고 곰팡이가 피기 매우 쉬운 환경이 됩니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "빛을 차단하는 불투명 밀폐 용기에 담기 — 광분해 및 향 증발 차단 🫙",
+            "text": "커큐민의 광분해와 휘발성 테르펜 정유의 증발을 막는 첫 번째 단계입니다. 💡 보관 팁: 개봉 후에는 투명한 유리병이나 원래 비닐 봉지째 두지 말고, 캔 용기, 불투명 밀폐 용기, 또는 차광 지퍼백에 옮겨 담아 공기를 빼고 단단히 밀봉하세요."
+          },
+          {
+            "name": "서늘하고 건조한 상온 암소(15~20℃)에 보관하기 — 상온 보관 (미개봉 2년 / 개봉 후 6개월) 🌡️",
+            "text": "상대습도가 낮고 열기가 없는 장소에 보관하는 것이 핵심입니다. 💡 보관 팁: 가스레인지나 오븐 주위의 열기를 피해 햇빛이 닿지 않고 바람이 통하는 찬장 깊은 곳이나 다용도실에 보관하세요. 미개봉 시 2년, 개봉 후 밀폐 상태로 6개월간 고유의 향미와 노란 색상을 유지할 수 있습니다."
+          },
+          {
+            "name": "사용 시 바짝 마른 건조한 스푼만 사용하기 — 습기 및 오염 차단 🥄",
+            "text": "냄비 위에 직접 가루를 털어 넣으면 수증기가 들어갈 수 있습니다. 💡 보관 팁: 끓는 국물이나 냄비 위에 카레 가루 용기를 직접 대고 털어 넣으면 수증기가 용기 안으로 들어가 가루가 뭉치고 산패가 진행됩니다. 반드시 바짝 마른 숟가락을 사용해 별도 그릇에 덜어 쓰세요."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "카레 가루 색이 옅어지고 누렇게 바래버렸는데 먹어도 되나요?",
+            "answer": "색이 바랜 것은 자외선 노출로 인해 강황의 커큐민 성분이 광분해(Photodegradation)된 현상입니다. 부패하거나 독성이 생긴 것은 아니므로 드셔도 안전하지만, 커큐민의 항산화 효능이 떨어지고 커민·정향 등의 향 성분이 날아가 요리의 풍미가 크게 감소했을 수 있습니다."
+          },
+          {
+            "question": "카레 가루를 냉장 보관하면 왜 안 되나요?",
+            "answer": "냉장고 내부는 습도가 높은 데다 용기를 넣었다 꺼낼 때마다 발생하는 급격한 온도 차로 용기 내부에 결로(이슬) 수분이 형성됩니다. 건조 분말 형태인 카레 가루가 수분을 흡수하면 덩어리 뭉침(Caking) 현상이 발생하고 곰팡이가 증식하기 매우 좋은 환경으로 변하기 때문입니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Curry Powder Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for curry powder based on official safety guidelines.",
+        "authority": "FDA & EFSA & MFDS",
+        "intro": "Have you ever pulled out your curry powder to cook a flavorful curry or spiced dish, only to find that its vibrant yellow hue had faded or its aroma had completely disappeared? 🍛\n\nCurry powder is a beloved blend of spices including turmeric, cumin, and cloves used worldwide. However, the active compound in turmeric, **curcumin**, undergoes rapid **photodegradation** when exposed to ultraviolet (UV) light, causing loss of both its rich yellow pigment and antioxidant potency. Furthermore, volatile terpene essential oils from cumin and cloves evaporate rapidly upon oxygen exposure, destroying its signature pungent bouquet.\n\nIn this guide, we introduce a scientifically proven 3-step curry powder storage guide recommended by international food safety experts to preserve vivid color and rich aromatics. 🛡️",
+        "whyTitle": "Why Store Curry Powder This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physical and chemical characteristics of each food item and applying the proper storage method is essential for maintaining freshness and food safety.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Do not store in clear glass jars or direct sunlight ☀️",
+            "desc": "Ultraviolet (UV) light causes severe photodegradation of curcumin in turmeric, bleaching its signature yellow color and breaking down antioxidant compounds. Always store in an opaque container that blocks light."
+          },
+          {
+            "title": "Never refrigerate curry powder or store in high humidity ⚠️",
+            "desc": "Taking refrigerated spice containers out to room temperature creates internal condensation from thermal shock. This moisture causes severe powder clumping (caking) and creates a ideal breeding ground for mold."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Store in opaque, airtight containers — Block Light and Aroma Evaporation 🫙",
+            "text": "Preventing curcumin photodegradation and terpene oil evaporation is the critical first step. 💡 Storage Tip: After opening, transfer the powder from clear jars or original plastic bags into metal tins, opaque airtight containers, or light-blocking Ziploc pouches."
+          },
+          {
+            "name": "Keep in a cool, dry, dark place at room temperature (15–20°C / 59–68°F) — Cool Room Temp Storage (2 Years Unopened / 6 Months Opened) 🌡️",
+            "text": "Storing in an area with low relative humidity and away from ambient heat is essential. 💡 Storage Tip: Keep away from stovetops and ovens inside a dark pantry or cabinet. Unopened curry powder lasts up to 2 years, and sealed opened powder retains full flavor for 6 months."
+          },
+          {
+            "name": "Use only clean, completely dry spoons — Block Moisture and Steam 🥄",
+            "text": "Shaking powder directly over steaming pots introduces moisture. 💡 Storage Tip: Never hold the container over a boiling pot as rising steam enters the container, causing powder to clump and spoil. Always measure with a completely dry utensil into a separate dish."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "My curry powder has faded to a dull yellow/pale color. Is it still safe to use?",
+            "answer": "Yes, it is safe to use! The pale color is caused by the photodegradation of curcumin due to UV light exposure. While it is not spoiled or toxic, the antioxidant potency has decreased and the volatile aromatic oils (terpenes) from cumin and cloves have likely evaporated, resulting in a milder flavor."
+          },
+          {
+            "question": "Why shouldn't curry powder be stored in the refrigerator?",
+            "answer": "Refrigerators have high ambient humidity, and removing the cold container into room air creates condensation inside the jar. As a dry spice powder, absorbing micro-moisture causes clumping (caking) and significantly increases the risk of mold growth."
+          }
+        ]
+      },
+      "ja": {
+        "title": "カレー粉（カレーパウダー）を新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくカレー粉の最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "米国食品医薬品局(FDA) & 欧州食品安全機関(EFSA) & 韓国食品医薬品安全処(MFDS)",
+        "intro": "美味しいカレーやスパイス料理を作ろうとカレー粉を取り出した際、黄色い色が褪せていたり、香りが抜けて風味がないと感じたことはありませんか？🍛\n\nカレー粉はターメリック（ウコン）、クミン、クローブなど多様な調合スパイスの集合体で、世界中で愛されている調味料です。しかし、主成分であるターメリックに含まれる**クルクミン（Curcumin）**分子は、紫外線（UV）に晒されると**光分解（Photodegradation）**反応を起こし、黄色い色素や抗酸化効能を失います。また、クミンやクローブに含まれる揮発性テルペン（Terpene）精油成分は、空気中の酸素と接触すると急速に蒸発し、特有のスパイシーな香りが失われてしまいます。\n\n本記事では、国際的な専門機関が検証したカレー粉の鮮やかな色と豊かな風味を保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の物理的・化学的特性を理解し、それに応じた正しい保存方法を visual 適用することは 鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "透明な容器や直射日光の当たる場所に保管しないでください ☀️",
+            "desc": "紫外線（UV）はターメリックのクルクミン成分を強力に光分解（Photodegradation）させます。黄色が退色し抗酸化作用が破壊されるため、必ず光を遮断する不透明な容器で保管してください。"
+          },
+          {
+            "title": "絶対に冷蔵庫に保管したり湿気の高い場所に置かないでください ⚠️",
+            "desc": "カレー粉を冷蔵保管し常温に出すと、温度差による結露（水滴）が容器内部に発生します。湿気を吸ったパウダーはダマになりやすく、カビが非常に繁殖しやすい環境になります。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "光を遮断する不透明な密閉容器に入れる — 光分解と香りの蒸発防止 🫙",
+            "text": "クルクミンの光分解と揮発性テルペン精油の蒸発を防ぐ最初のステップです。💡保存のコツ：開封後は透明な瓶や袋のまま放置せず、缶容器、不透明な密閉容器、または遮光チャック付き袋に移し替え、しっかりと密閉してください。"
+          },
+          {
+            "name": "涼しく乾燥した常温の暗所（15〜20℃）で保存する — 常温保存 (未開封2年 / 開封後6ヶ月) 🌡️",
+            "text": "相対湿度が低く熱気のない場所に保管することが重要です。💡保存のコツ：コンロやオーブンの熱気を避け、日光が当たらず風通しの良い戸棚の奥などに保管してください。未開封で2年、開封後密閉状態で6ヶ月間風味と黄色を維持できます。"
+          },
+          {
+            "name": "使用時は完全に乾いたスプーンのみを使用する — 湿気と汚染の遮断 🥄",
+            "text": "鍋の上から直接振り入れると水蒸気が混入する原因になります。💡保存のコツ：沸騰したスープや鍋の上に容器を直接当てて振ると、水蒸気が入ってダマになり酸化が進みます。必ず完全に乾いたスプーンで別容器に取り分けてご使用ください。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "カレー粉の色が薄く褪せてしまいましたが、使っても大丈夫ですか？",
+            "answer": "色が褪せたのは紫外線によりクルクミンが光分解（Photodegradation）を起こした現象です。腐敗や毒性はないため使用しても安全ですが、クルクミンの抗酸化効能が落ち、香気成分が飛んで風味が大きく低下している可能性があります。"
+          },
+          {
+            "question": "カレー粉を冷蔵保存してはいけない理由は何ですか？",
+            "answer": "冷蔵庫内は湿度が高く、出し入れ時の急激な温度差によって容器内部に結露が発生するためです。乾燥粉末であるカレー粉が水分を吸収するとケーキング（ダマ化）を起こし、カビが非常に発生しやすくなります。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持咖喱粉新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解咖喱粉（Curry Powder）的最佳储存温度、方式及保鲜时长。",
+        "authority": "美国食品药品监督管理局(FDA) & 欧洲食品安全局(EFSA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "当您打算烹饪美味的咖喱或香料料理而取出咖喱粉时，是否发现其原本鲜艳的黄色褪去了，或是香气全无、口感平淡？🍛\n\n咖喱粉是由姜黄、孜然、丁香等多重香料混合而成的全球经典调味料。然而，其核心成分姜黄中的**姜黄素（Curcumin）**分子在暴露于紫外线（UV）下时，会发生剧烈的**光降解（Photodegradation）**反应，失去亮黄色彩与抗氧化功效。此外，孜然和丁香中所含的挥发性萜烯（Terpene）精油成分一经接触空气中的氧气就会迅速挥发，导致其独特的浓郁香气丧失。\n\n本指南基于国际食品安全专家的权威建议，为您带来3步科学咖喱粉保鲜秘诀，锁住鲜亮色彩与浓郁香气。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的物理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "切勿存放在透明容器或阳光直射处 ☀️",
+            "desc": "紫外线（UV）会导致姜黄素发生严重的光降解（Photodegradation），使其脱色并破坏抗氧化成分。务必保存在能遮光的不透明密封容器中。"
+          },
+          {
+            "title": "切勿存放在冰箱冷藏或高湿度环境中 ⚠️",
+            "desc": "将冷藏的咖喱粉取出至常温时，剧烈温差会导致容器内部产生凝结水（结露）。吸湿后的粉末极易结块（Caking）并滋生霉菌。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "装入遮光的不透明密封容器 — 阻隔光降解与香气挥发 🫙",
+            "text": "防止姜黄素光降解与挥发性萜烯精油散失是第一步。💡储存小贴士：开封后切勿继续存放在透明玻璃瓶或原塑料袋中，请转存至金属罐、不透明密封罐或避光密封袋中。"
+          },
+          {
+            "name": "存放在阴凉干燥的常温暗处（15~20℃） — 常温保存 (未开封2年 / 开封后6个月) 🌡️",
+            "text": "控制相对湿度并避开热源是保鲜的核心。💡储存小贴士：避开灶台、烤箱周围的热源，存放在无阳光直射、通风良好的橱柜深处。未开封可保存2年，开封后密封可保存6个月。"
+          },
+          {
+            "name": "取用时务必保证勺子绝对干燥 — 阻隔水汽与污染 🥄",
+            "text": "直接在冒着热气的锅上方倾倒咖喱粉会导致水汽进入。💡储存小贴士：切勿将咖喱粉瓶直接对着沸腾的锅倾倒，上升的水汽进入瓶内会导致粉末结块与变质。务必使用干净彻底擦干的勺子取用。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "咖喱粉颜色变浅变白了，还能继续食用吗？",
+            "answer": "可以食用！颜色变浅是由于暴露于紫外线下导致姜黄素发生光降解（Photodegradation）的自然现象。虽然没有变质或产生毒性，但姜黄素的抗氧化效果已降低，且孜然等挥发性香气成分已散失，料理的风味会大打折扣。"
+          },
+          {
+            "question": "为什么不能把咖喱粉冷藏保存？",
+            "answer": "冰箱内湿度较高，且频繁取用产生的温差会导致瓶内形成凝结水。干燥的咖喱粉极易吸收水分引发结块（Caking），并大幅增加发霉变质的风险。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener el curry en polvo fresco: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para el curry en polvo según las directrices oficiales de seguridad.",
+        "authority": "FDA & EFSA & MFDS",
+        "intro": "¿Alguna vez ha ido a sacar el curry en polvo para preparar una sabrosa receta y se ha encontrado con que su vivo color amarillo se había desvanecido o su aroma había desaparecido? 🍛\n\nEl curry en polvo es una popular mezcla de especias que incluye cúrcuma, comino y clavo. Sin embargo, el principio activo de la cúrcuma, la **curcumina**, sufre una rápida **fotodegradación** al exponerse a la luz ultravioleta (UV), perdiendo su pigmento amarillo y su capacidad antioxidante. Además, los aceites esenciales de terpenos volátiles presentes en el comino y el clavo se evaporan rápidamente en contacto con el oxígeno, destruyendo su aroma característico.\n\nEn esta guía se presenta una guía de conservación del curry en polvo en 3 pasos respaldada por expertos internacionales en seguridad alimentaria. 🛡️",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características físicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "No almacene en frascos de vidrio transparentes ni a la luz solar directa ☀️",
+            "desc": "La luz ultravioleta (UV) causa una grave fotodegradación de la curcumina, decolorando su tono amarillo y destruyendo antioxidantes. Almacene siempre en un recipiente opaco que bloquee la luz."
+          },
+          {
+            "title": "Nunca refrigere el curry en polvo ni lo guarde con mucha humedad ⚠️",
+            "desc": "Sacar frascos fríos a temperatura ambiente crea condensación interna debido al choque térmico. Esta humedad provoca apelmazamiento (caking) y favorece la aparición de moho."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Guarde en recipientes opacos y herméticos — Bloqueo de luz y evaporación de aromas 🫙",
+            "text": "Evitar la fotodegradación de la curcumina y la evaporación de terpenos es el primer paso vital. 💡 Consejo de almacenamiento: Tras abrirlo, pase el polvo de recipientes transparentes a latas de metal, frascos opacos o bolsas con cierre hermético que bloqueen la luz."
+          },
+          {
+            "name": "Conserve en un lugar fresco, seco y oscuro a temperatura ambiente (15–20 °C) — Almacenamiento a temp. ambiente (2 años cerrado / 6 meses abierto) 🌡️",
+            "text": "Mantener baja humedad relativa y alejar de fuentes de calor es fundamental. 💡 Consejo de almacenamiento: Guárdelo en una despensa o armario oscuro lejos de estufas y hornos. Sin abrir dura hasta 2 años, y bien cerrado dura 6 meses."
+          },
+          {
+            "name": "Use únicamente cucharas totalmente secas — Prevención de humedad y vapor 🥄",
+            "text": "Espolvorear el producto directamente sobre ollas hirviendo introduce humedad. 💡 Consejo de almacenamiento: Nunca sostenga el frasco sobre vapor, ya que la humedad entra y crea grumos. Mida siempre con una cuchara completamente seca en un plato aparte."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mi curry en polvo se ha vuelto pálido. ¿Sigue siendo seguro usarlo?",
+            "answer": "¡Sí, es seguro consumir! La pérdida de color se debe a la fotodegradación de la curcumina provocada por la luz UV. Aunque no está estropeado ni es tóxico, su poder antioxidante ha disminuido y los aceites aromáticos volátiles se han evaporado, por lo que su sabor será más suave."
+          },
+          {
+            "question": "¿Por qué no se debe guardar el curry en polvo en el refrigerador?",
+            "answer": "El refrigerador tiene una elevada humedad ambiental y los cambios bruscos de temperatura al sacarlo generan condensación interna. Como producto seco, la absorción de humedad genera apelmazamiento (caking) e incrementa sustancialmente el riesgo de moho."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver le curry en poudre frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le curry en poudre selon les directives officielles de sécurité.",
+        "authority": "FDA & EFSA & MFDS",
+        "intro": "Avez-vous déjà voulu utiliser du curry en poudre pour cuisiner, pour constater que sa vive couleur jaune s'était ternie ou que son parfum avait disparu ? 🍛\n\nLe curry en poudre est un mélange d'épices emblématique comprenant du curcuma, du cumin et du clou de girofle. Néanmoins, son composé actif, la **curcumine**, subit une **photodégradation** rapide sous l'action des rayons ultraviolets (UV), entraînant la perte de sa couleur et de ses vertus antioxydantes. De plus, les huiles essentielles terpéniques volatiles s'évaporent rapidement au contact de l'oxygène, dégradant ses arômes.\n\nDans ce guide, vous présente un guide de conservation du curry en poudre en 3 étapes recommandé par des experts en sécurité alimentaire. 🛡️",
+        "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne le conservez pas dans des bocaux transparents ou en plein soleil ☀️",
+            "desc": "Les rayons ultraviolets (UV) provoquent une forte photodégradation de la curcumine, décolorant la poudre et détruisant ses propriétés. Conservez toujours dans un récipient opaque fermant hermétiquement."
+          },
+          {
+            "title": "Ne réfrigérez jamais le curry en poudre ⚠️",
+            "desc": "Placer puis sortir le flacon du réfrigérateur provoque un choc thermique créant de la condensation interne. Cette humidité provoque un mottage (caking) et favorise le développement de moisissures."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Conserver dans des récipients opaques et hermétiques — Bloquer la photodégradation et l'évaporation 🫙",
+            "text": "Éviter la photodégradation de la curcumine et l'évaporation des huiles de terpène est l'étape essentielle. 💡 Astuce de conservation : Après ouverture, transvasez la poudre des sachets d'origine ou bocaux transparents vers des boîtes métalliques ou des flacons opaques."
+          },
+          {
+            "name": "Conserver au frais, au sec et à l'abri de la lumière (15–20 °C) — Stockage ambiant (2 ans non ouvert / 6 mois ouvert) 🌡️",
+            "text": "Conserver dans un endroit peu humide et loin de la chaleur est capital. 💡 Astuce de conservation : Rangez le flacon au fond d'un placard sombre, loin des plaques de cuisson. Il se conserve jusqu'à 2 ans non ouvert et 6 mois une fois ouvert."
+          },
+          {
+            "name": "Utiliser uniquement des cuillères parfaitement sèches — Anti-humidité et vapeur 🥄",
+            "text": "Saupoudrer la poudre directement au-dessus d'une casserole fumante introduit de l'humidité. 💡 Astuce de conservation : Ne tenez jamais le flacon au-dessus d'une casserole bouillante, car la vapeur y pénètre et crée des grumeaux. Prélevez toujours avec un ustensile sec."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mon curry en poudre a perdu sa belle couleur jaune. Est-il encore consommable ?",
+            "answer": "Oui, il reste propre à la consommation ! La décoloration est due à la photodégradation de la curcumine sous l'effet des UV. Bien qu'il ne soit ni toxique ni périmé, le pouvoir antioxydant a diminué et les huiles aromatiques se sont évaporées, ce qui rend son goût nettement plus fade."
+          },
+          {
+            "question": "Pourquoi est-il déconseillé de ranger le curry en poudre au réfrigérateur ?",
+            "answer": "Le réfrigérateur présente une forte humidité et les chocs thermiques lors des sorties génèrent de la condensation dans le flacon. En tant qu'épice sèche, l'absorption d'humidité entraîne un mottage (caking) et augmente le risque de moisissure."
+          }
+        ]
+      },
+      "de": {
+        "title": "Currypulver richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Currypulver basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "FDA & EFSA & MFDS",
+        "intro": "Wollten Sie schon einmal Currypulver zum Kochen verwenden und haben festgestellt, dass die gelbe Farbe verblasst war oder das Aroma gefehlt hat? 🍛\n\nCurrypulver ist eine beliebte Gewürzmischung aus Kurkuma, Kreuzkümmel, Nelken und weiteren Zutaten. Der Hauptwirkstoff in Kurkuma, **Curcumin**, unterliegt jedoch unter UV-Licht einer schnellen **Photodegradation** (Lichtabbau), wodurch die gelbe Farbe und die Antioxidationskraft verloren gehen. Zudem verdunsten die flüchtigen Terpen-Öle aus Kreuzkümmel und Nelken bei Sauerstoffkontakt rasch.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber zur Lagerung von Currypulver. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physikalischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Nicht in transparenten Gläsern oder direktem Sonnenlicht lagern ☀️",
+            "desc": "UV-Licht bewirkt einen starken Lichtabbau (Photodegradation) von Curcumin, bleicht die gelbe Farbe aus und zerstört Antioxidantien. Stets in lichtundurchlässigen Behältern aufbewahren."
+          },
+          {
+            "title": "Currypulver niemals im Kühlschrank oder feuchter Umgebung lagern ⚠️",
+            "desc": "Das Herausholen gekühlter Gewürzdosen bei Raumtemperatur erzeugt Kondenswasser im Inneren. Diese Feuchtigkeit führt zu Klumpenbildung (Caking) und begünstigt Schimmelpilze."
+          }
+        ],
+        "steps": [
+          {
+            "name": "In lichtundurchlässigen, luftdichten Behältern lagern — Lichtabbau und Aromaverlust stoppen 🫙",
+            "text": "Das Verhindern des Curcumin-Lichtabbaus und das Stoppen der Terpenöl-Verdunstung ist der wichtigste Schritt. 💡 Lagerungstipp: Füllen Sie das Pulver nach dem Öffnen in Metalldosen, dunkle Glasbehälter oder lichtgeschützte Ziploc-Beutel um."
+          },
+          {
+            "name": "Kühl, trocken und dunkel bei Raumtemperatur (15–20 °C) lagern — Raumtemperaturlagerung (Ungeöffnet 2 Jahre / Geöffnet 6 Monate) 🌡️",
+            "text": "Lagerung bei geringer Luftfeuchtigkeit und fern von Hitze ist entscheidend. 💡 Lagerungstipp: Lagern Sie das Gewürz in einem dunklen Küchenschrank fern von Herd und Ofen. Ungeöffnet hält es 2 Jahre, geöffnet 6 Monate."
+          },
+          {
+            "name": "Nur absolut trockene Löffel verwenden — Feuchtigkeitsschutz 🥄",
+            "text": "Das Einstreuen direkt über kochenden Töpfen führt Feuchtigkeit zu. 💡 Lagerungstipp: Halten Sie die Dose nie direkt über dampfende Speisen, da Wasserdampf eindringt und Klumpen bildet. Stets mit einem trockenen Löffel entnehmen."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mein Currypulver ist blass geworden. Ist es noch genießbar?",
+            "answer": "Ja, es ist unbedenklich genießbar! Die Verblassung ist auf den Lichtabbau (Photodegradation) von Curcumin durch UV-Licht zurückzuführen. Obwohl es nicht verdorben ist, haben die antioxidative Wirkung und die flüchtigen Aromastoffe nachgelassen, wodurch das Gericht milder schmeckt."
+          },
+          {
+            "question": "Warum sollte Currypulver nicht im Kühlschrank gelagert werden?",
+            "answer": "Kühlschränke weisen eine hohe Luftfeuchtigkeit auf und Tempereaturschwankungen beim Herausholen erzeugen Kondenswasser im Behälter. Das trockene Pulver nimmt Feuchtigkeit auf, verklumpt (Caking) und Schimmel kann sich bilden."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar curry em pó fresco: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para o curry em pó com base em diretrizes oficiais de segurança.",
+        "authority": "FDA & EFSA & MFDS",
+        "intro": "Você já foi pegar curry em pó para cozinhar e percebeu que a cor amarela viva estava desbotada ou o aroma havia desaparecido? 🍛\n\nO curry em pó é uma mistura de especiarias muito amada que inclui açafrão-da-terra (cúrcuma), cominho e cravo. No entanto, a **curcumina**, substância ativa do açafrão, sofre rápida **fotodegradação** quando exposta à luz ultravioleta (UV), perdendo sua pigmentação e propriedades antioxidantes. Além disso, os óleos essenciais de terpenos voláteis do cominho e do cravo evaporam rapidamente ao contato com o oxigênio, perdendo o aroma aroma característico.\n\nNeste guia, apresentamos um guia de conservação de curry em pó em 3 etapas recomendado por especialistas em segurança alimentar. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características físicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Não guarde em potes transparentes nem sob luz solar direta ☀️",
+            "desc": "A luz ultravioleta (UV) causa severa fotodegradação da curcumina, desbotando a cor amarela e destruindo antioxidantes. Guarde sempre em recipiente opaco que bloqueie a luz."
+          },
+          {
+            "title": "Nunca refrigere o curry em pó nem guarde em locais úmidos ⚠️",
+            "desc": "Retirar potes frios para a temperatura ambiente gera condensação interna por choque térmico. Essa umidade provoca empedramento (caking) e cria o ambiente ideal para mofo."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Guarde em recipientes opacos e herméticos — Bloqueio de luz e evaporação de aromas 🫙",
+            "text": "Evitar a fotodegradação da curcumina e a evaporação de óleos de terpeno é a etapa principal. 💡 Dica de conservação: Após aberto, transfira o pó de embalagens transparentes para latas metálicas, potes opacos ou sacos herméticos bloqueadores de luz."
+          },
+          {
+            "name": "Conserve em local fresco, seco e escuro a temperatura ambiente (15–20 °C) — Armazenamento a temp. ambiente (2 anos fechado / 6 meses aberto) 🌡️",
+            "text": "Manter baixa umidade relativa e longe de calor é essencial. 💡 Dica de conservação: Guarde dentro de um armário escuro longe do fogão. Fechado dura até 2 anos e aberto dura 6 meses."
+          },
+          {
+            "name": "Use apenas colheres totalmente secas — Prevenção de umidade e vapor 🥄",
+            "text": "Polvilhar o tempero diretamente sobre panelas fumegantes introduz umidade no pote. 💡 Dica de conservação: Nunca segure o pote sobre o vapor de panelas fervendo. Use sempre uma colher totalmente seca para retirar a quantidade desejada."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Meu curry em pó desbotou e ficou pálido. Ainda posso usar?",
+            "answer": "Sim, é seguro consumir! O desbotamento ocorre pela fotodegradação da curcumina provocada pela luz UV. Embora não esteja estragado, o poder antioxidante diminuiu e os óleos aromáticos evaporaram, resultando em um sabor mais suave."
+          },
+          {
+            "question": "Por que não se deve guardar curry em pó na geladeira?",
+            "answer": "A geladeira tem alta umidade e a mudança de temperatura ao retirar o pote gera condensação no interior. Por ser um pó seco, a absorção de umidade gera empedramento (caking) e aumenta bastante o risco de mofo."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Bubuk Kari agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk bubuk kari berdasarkan pedoman keselamatan resmi.",
+        "authority": "FDA & EFSA & MFDS",
+        "intro": "Pernahkah Anda mengambil bubuk kari untuk memasak, lalu mendapati warna kuning cerahnya telah memudar atau aromanya hilang sama sekali? 🍛\n\nBubuk kari adalah racikan bumbu populer yang terdiri dari kunyit, jintan, cengkih, dan rempah lainnya. Namun, senyawa aktif dalam kunyit, yaitu **kurkumin**, mengalami **fotodegradasi** cepat saat terpapar sinar ultraviolet (UV), yang menyebabkan hilangnya pigmen kuning dan khasiat antioksidannya. Selain itu, minyak atsiri terpene yang mudah menguap dari jintan dan cengkih akan menguap dengan cepat saat kontak dengan oksigen, menghilangkan aroma khasnya.\n\nDalam panduan ini, kami membagikan panduan penyimpanan bubuk kari 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisik dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan menyimpan dalam toples transparan atau di bawah sinar matahari langsung ☀️",
+            "desc": "Sinar ultraviolet (UV) memicu fotodegradasi parah pada kurkumin, memudarkan warna kuning dan merusak kandungan antioksidannya. Selalu simpan dalam wadah buram kedap cahaya."
+          },
+          {
+            "title": "Jangan pernah menyimpan bubuk kari di kulkas atau tempat lembap ⚠️",
+            "desc": "Mengeluarkan wadah dingin dari kulkas ke suhu ruang memicu embun (kondensasi) di dalam wadah. Kelembapan ini menyebabkan bubuk menggumpal (caking) dan menjadi media tumbuh jamur."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Simpan dalam wadah buram kedap udara — Hentikan Fotodegradasi dan Penguapan Aroma 🫙",
+            "text": "Mencegah fotodegradasi kurkumin dan penguapan minyak terpene adalah langkah paling utama. 💡 Tips Penyimpanan: Setelah dibuka, pindahkan bubuk dari kemasan transparan ke kaleng logam, toples buram, atau kantong Ziploc kedap cahaya."
+          },
+          {
+            "name": "Simpan di tempat sejuk, kering, dan gelap pada suhu ruang (15–20°C) — Simpan Suhu Ruang (2 Tahun Belum Dibuka / 6 Bulan Setelah Dibuka) 🌡️",
+            "text": "Menjaga kelembapan relatif tetap rendah dan jauh dari sumber panas adalah kuncinya. 💡 Tips Penyimpanan: Simpan di dalam lemari dapur yang gelap dan jauh dari kompor. Belum dibuka bertahan 2 tahun, dan setelah dibuka bertahan 6 bulan."
+          },
+          {
+            "name": "Gunakan selalu sendok yang benar-benar kering — Cegah Kelembapan dan Uap Air 🥄",
+            "text": "Menaburkan bubuk langsung di atas masakan yang berasap memasukkan kelembapan ke dalam wadah. 💡 Tips Penyimpanan: Jangan pernah memegang botol di atas masakan mendidih karena uap air akan masuk dan menggumpalkan bubuk. Ambil selalu dengan sendok kering."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Bubuk kari saya warnanya memudar menjadi kuning pucat. Apakah masih aman digunakan?",
+            "answer": "Ya, sangat aman digunakan! Warna yang memudar disebabkan oleh fotodegradasi kurkumin akibat paparan sinar UV. Meskipun tidak membusuk atau beracun, khasiat antioksidannya berkurang dan minyak aromatiknya telah menguap sehingga rasanya menjadi lebih hambar."
+          },
+          {
+            "question": "Mengapa bubuk kari tidak boleh disimpan di dalam kulkas?",
+            "answer": "Kulkas memiliki kelembapan tinggi, dan perubahan suhu saat wadah dikeluarkan menimbulkan embum di dalam wadah. Sebagai rempah bubuk kering, penyerapan air menyebabkan penggumpalan (caking) dan meningkatkan risiko tumbuhnya jamur secara signifikan."
+          }
+        ]
+      }
     }
+  }
 }

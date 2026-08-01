@@ -1,406 +1,406 @@
 {
-    "how-to-store-kale": {
-        "ingId": "kale",
-        "pubDate": "2026-02-22",
-        "updatedDate": "2026-02-22",
-        "heroImage": "/images/blog/kale_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "케일 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 케일의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
-                "intro": "디톡스 주스나 샐러드용으로 신선한 케일을 사 왔는데, 며칠 만에 잎이 누렇게 변하고 시들어버려 버린 적 있으시죠? 🥬\n\n케일은 전 세계적으로 사랑받는 대표 슈퍼푸드 채소이지만, 에틸렌(Ethylene) 가스 감수성이 극도로 높은 엽채류입니다. 사과나 바나나 등 에틸렌을 분출하는 과일과 함께 두면 엽록소 분해 효소(Chlorophyllase)가 촉진되어 잎이 노랗게 변하는 황화 현상이 일어납니다. 또한 증산 작용으로 수분을 잃으면 세포 팽창압(Turgor Pressure)을 저하당해 급격히 시듭니다.\n\n이번 가이드에서는 국제 식품 안전 및 농업 기관에서 권장하는 과학적이고 확실한 케일 신선도 유지 3단계 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "에틸렌 방출 과일과 절대로 함께 두지 마세요 ⚠️",
-                        "desc": "케일은 에틸렌 가스에 매우 민감합니다. 사과, 바나나, 토마토 등 에틸렌을 많이 방출하는 과일과 같이 보관하면 엽록소 분해 효소가 활성화되어 잎이 누렇게 변하는 황화 현상이 촉진됩니다."
-                    },
-                    {
-                        "title": "보관 전 무분별하게 물로 씻지 마세요 💧",
-                        "desc": "잎 표면에 남아있는 과도한 수분은 곰팡이나 세균 번식의 원인이 되며 잎을 쉽게 짓무르게 만듭니다. 보관 전에는 씻지 않는 것이 원칙이며, 씻어서 보관할 경우 야채 탈수기 등을 이용하여 물기를 완벽히 제거해야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "줄기 하단을 젖은 타월로 감싸 수분 공급하기 — 수분 손실 방지 🧻",
-                        "text": "케일은 증산 작용으로 수분을 잃으면 세포 팽창압이 저하되어 잎이 힘없이 시듭니다. 💡 보관 팁: 씻지 않은 케일의 줄기 밑동 절단면을 촉촉하게 적신 키친타월로 감싸 수분을 지속적으로 공급해 주세요."
-                    },
-                    {
-                        "name": "밀폐 용기나 지퍼백에 넣어 0~4℃ 냉장 보관하기 — 냉장 보관 (7~10일) ❄️",
-                        "text": "에틸렌 가스를 차단하고 상대습도 90~95%를 유지하는 것이 핵심입니다. 💡 보관 팁: 줄기를 감싼 케일을 밀폐 용기나 지퍼백에 담아 에틸렌 및 공기 접촉을 차단한 뒤, 냉장고 야채칸(0~4℃)에 세워 보관하세요. 최대 7~10일간 아삭함을 유지할 수 있습니다."
-                    },
-                    {
-                        "name": "손질 후 밀폐 지퍼백에 냉동 보관하기 — 냉동 보관 (10~12개월) 🧊",
-                        "text": "주스나 스무디용으로 오랫동안 보관하고 싶다면 냉동 보관이 유용합니다. 💡 보관 팁: 케일을 깨끗이 씻어 물기를 완벽히 제거한 후 줄기와 잎을 먹기 좋게 잘라 밀폐 지퍼백에 담아 냉동실(-18℃ 이하)에 보관하세요. 클렌즈 주스용으로 10~12개월간 활용할 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "케일 잎이 누렇게 변했는데 먹어도 되나요?",
-                        "answer": "황화 현상은 에틸렌 가스 등에 의해 엽록소 분해 효소(Chlorophyllase)가 작용하여 영양소와 엽록소가 파괴된 상태입니다. 독성이 생기는 것은 아니지만 영양가와 맛, 식감이 크게 떨어지므로 노랗게 변한 부위는 잘라내고 녹색 잎 위주로 섭취하는 것이 좋습니다. 만약 잎이 짓무르거나 냄새가 난다면 폐기해야 합니다."
-                    },
-                    {
-                        "question": "케일을 눕히지 않고 세워서 보관해야 하는 이유가 무엇인가요?",
-                        "answer": "엽채류는 밭에서 자라던 굴중성(Gravitropism) 성질을 기억하여 눕혀 놓으면 수직으로 서려고 에너지를 소모하며, 잎이 휘어지면서 수분과 영양 손실이 가속화됩니다. 줄기가 아래로 향하게 세워서 보관하면 신선도를 훨씬 오래 유지할 수 있습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Kale Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for kale based on official safety guidelines.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Have you ever bought fresh kale for smoothies or salads, only to find its leaves turned yellow and wilted within just a few days? 🥬\n\nKale is a globally recognized superfood, but as a leafy green, it is extremely sensitive to ethylene gas. Storing it near ethylene-emitting fruits like apples or bananas accelerates chlorophyllase enzyme activity, leading to leaf yellowing (chlorosis). Furthermore, moisture loss from transpiration reduces turgor pressure, causing the leaves to wilt rapidly.\n\nIn this guide, we introduce a scientifically proven 3-step kale storage guide recommended by agriculture and food safety experts to maximize freshness. 🛡️",
-                "whyTitle": "Why Store Kale This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the proper storage method is essential for maintaining freshness and food safety.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never store kale alongside ethylene-emitting fruits ⚠️",
-                        "desc": "Kale is highly sensitive to ethylene gas. Storing it near fruits like apples, bananas, or tomatoes activates chlorophyllase enzymes, accelerating leaf yellowing."
-                    },
-                    {
-                        "title": "Do not wash kale prior to storage 💧",
-                        "desc": "Excess moisture on the leaf surface creates an ideal environment for mold and bacteria, causing leaves to become slimy. Keep kale unwashed before storing, or use a salad spinner to remove all moisture if washed."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Wrap stem ends with moist paper towels — Moisture Retention 🧻",
-                        "text": "Transpiration causes moisture loss, lowering turgor pressure and making leaves limp. 💡 Storage Tip: Wrap the cut ends of unwashed kale stems with a damp paper towel to supply continuous hydration."
-                    },
-                    {
-                        "name": "Store sealed at 0–4°C in the fridge crisper — Cold Storage (7–10 Days) ❄️",
-                        "text": "Blocking ethylene gas and maintaining 90–95% relative humidity is essential. 💡 Storage Tip: Place the stem-wrapped kale inside an airtight container or Ziploc bag to block ethylene gas, and store upright in the crisper drawer (0–4°C / 32–39°F) for 7–10 days."
-                    },
-                    {
-                        "name": "Chop and freeze in airtight Ziploc bags — Freezer Storage (10–12 Months) 🧊",
-                        "text": "If you want long-term storage for smoothies or juices, freezing is ideal. 💡 Storage Tip: Wash thoroughly, dry completely, chop into bite-sized pieces, and seal in freezer Ziploc bags (-18°C / 0°F). Great for green juices for up to 10–12 months."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "My kale leaves have turned yellow. Is it still safe to eat?",
-                        "answer": "Yellowing occurs when the chlorophyllase enzyme breaks down chlorophyll due to ethylene exposure or aging. While not inherently toxic, nutritional value and crispness decline significantly. Trim away yellowed sections and consume the green parts. Discard immediately if slimy or emitting off-odors."
-                    },
-                    {
-                        "question": "Why should kale be stored upright rather than lying flat?",
-                        "answer": "Leafy greens retain gravitropism, spending energy trying to grow upward when laid flat, which accelerates nutrient and moisture loss. Storing stems vertically preserves turgor pressure and freshness much longer."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ケールを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくケールの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
-                "intro": "スムージーやサラダ用に新鮮なケールを買ってきたものの、わずか数日で葉が黄色く変色し、しなびて捨ててしまった経験はありませんか？🥬\n\nケールは世界的に有名なスーパーフードですが、エチレン（Ethylene）ガスへの感度が極めて高い葉物野菜です。リンゴやバナナなどのエチレン放出果物と一緒に保存すると、葉緑素分解酵素（Chlorophyllase）が活性化して黄化現象を起こし、蒸散作用で水分が抜けると細胞膨張圧（Turgor Pressure）を失って急速にしおれます。\n\n本記事では、国際的な専門機関が推奨するケールの鮮度を保つ3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに応じた正しい保存方法を visual 適用することは 鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "エチレンを放出する果物と絶対に一緒に置かないでください ⚠️",
-                        "desc": "ケールはエチレンガスに非常に敏感です。リンゴ、バナナ、トマトなどエチレンを多く放出する果物と一緒に保存すると、葉緑素分解酵素が活性化し、葉が黄色くなる黄化現象が促進されます。"
-                    },
-                    {
-                        "title": "保存前に不用意に水洗いしないでください 💧",
-                        "desc": "葉の表面に残った過剰な水分はカビや雑菌の繁殖原因となり、葉を傷ませやすくします。保存前は洗わないのが原則ですが、洗って保存する場合はサラダスピナーなどで水分を完全に切ってください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "茎の切り口を湿らせたペーパータオルで包む — 水分損失防止 🧻",
-                        "text": "ケールは蒸散作用で水分を失うと細胞膨張圧が低下し、葉がしおれます。💡保存のコツ：洗っていないケールの茎の切り口を湿らせたキッチンペーパーで包み、継続的に水分を補給してください。"
-                    },
-                    {
-                        "name": "密閉容器や袋に入れて0〜4℃で冷蔵保存する — 冷蔵保存 (7〜10日間) ❄️",
-                        "text": "エチレンガスを遮断し、相対湿度90〜95%を維持することが鍵です。💡保存のコツ：茎を包んだケールを密閉容器やジッパーバッグに入れてエチレンや空気との接触を防ぎ、冷蔵庫の野菜室（0〜4℃）に立てて保存すれば7〜10日間シャキシャキ感を保てます。"
-                    },
-                    {
-                        "name": "カットして密閉袋で冷凍保存する — 冷凍保存 (10〜12ヶ月間) 🧊",
-                        "text": "ジュースやスムージー用に長期保存したい場合は冷凍保存が便利です。💡保存のコツ：ケールをきれいに洗い、水分をしっかり拭き取った後、使いやすい大きさにカットして密閉袋に入れ、冷凍室（-18℃以下）で保管してください。10〜12ヶ月間活用できます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "ケールの葉が黄色くなりましたが、食べても大丈夫ですか？",
-                        "answer": "黄化現象はエチレンガスなどにより葉緑素分解酵素（Chlorophyllase）が働き、栄養素と葉緑素が破壊された状態です。毒性はありませんが、栄養価や食感が大きく落ちるため、黄色くなった部分を取り除き、緑色の部分を召し上がるのが望ましいです。ぬめりや臭いがある場合は廃棄してください。"
-                    },
-                    {
-                        "question": "ケールを寝かせず立てて保存すべき理由は何ですか？",
-                        "answer": "葉物野菜は畑で育った屈重性（Gravitropism）の性質により、横に倒すと垂直に起き上がろうとしてエネルギーを消費し、水分や栄養の損失が早まります。茎を下にして立てて保存することで、鮮度を大幅に長く維持できます。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持羽衣甘蓝新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解羽衣甘蓝的最佳储存温度、方式及保鲜时长。",
-                "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "当您买回新鲜的羽衣甘蓝准备做沙拉或青汁，却发现没过几天叶子就发黄干瘪，不得不丢弃？🥬\n\n羽衣甘蓝是公认的超级食物，但作为叶菜类，它对乙烯（Ethylene）气体极其敏感。若与苹果、香蕉等释放乙烯的水果放在一起，会激活叶绿素分解酶（Chlorophyllase），加速叶片发黄；同时蒸腾作用导致水分流失，使细胞膨压（Turgor Pressure）降低而快速萎蔫。\n\n本指南基于权威机构建议，为您带来3步科学羽衣甘蓝保鲜秘诀，锁住营养与爽脆。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "切勿与释放乙烯的水果同放 ⚠️",
-                        "desc": "羽衣甘蓝对乙烯气体极度敏感。与苹果、香蕉、番茄等高乙烯排放水果存放在一起，会激活叶绿素分解酶，加速叶片变黄。"
-                    },
-                    {
-                        "title": "储存前切勿随意清洗 💧",
-                        "desc": "叶片表面残留的过多水分易引发霉菌和细菌滋生，使叶子腐烂发粘。原则上储存前无需清洗；若已清洗，必须使用甩干机彻底甩干水分后再保存。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "用湿纸巾包裹茎部末端 — 锁水防干 🧻",
-                        "text": "蒸腾作用会导致羽衣甘蓝失水，降低细胞膨压使叶片软塌。💡储存小贴士：用湿润的厨房纸巾包裹未清洗的羽衣甘蓝茎部切口，持续补充水分。"
-                    },
-                    {
-                        "name": "装入密封盒或拉链袋，0~4℃ 冷藏 — 冷藏保存 (7~10天) ❄️",
-                        "text": "阻绝乙烯气体并保持90~95%的相对湿度是关键。💡储存小贴士：将裹好茎部的羽衣甘蓝装入密封盒或保鲜袋，阻隔空气与乙烯，直立放入冰箱蔬菜抽屉（0~4℃），可保鲜7~10天。"
-                    },
-                    {
-                        "name": "切块后装入密封袋冷冻 — 冷冻保存 (10~12个月) 🧊",
-                        "text": "若想长期保存用于打青汁或果昔，冷冻是最佳选择。💡储存小贴士：清洗干净并彻底擦干水分，将茎叶切成小块装入密封袋，放入冷冻室（-18℃以下）。可保存10~12个月。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "羽衣甘蓝叶子变黄了还能吃吗？",
-                        "answer": "叶片发黄是由于乙烯或老化导致叶绿素分解酶（Chlorophyllase）破坏了叶绿素和营养成分。虽然没有毒性，但营养价值和口感大幅下降。建议切除发黄部位，食用绿色部分。若叶片发粘发烂或有异味，请立即丢弃。"
-                    },
-                    {
-                        "question": "为什么要将羽衣甘蓝直立保存而非平放？",
-                        "answer": "叶菜类植物保留着向重性（Gravitropism）特性，平放时会消耗能量试图向上生长，从而加速水分和营养的流失。茎部朝下直立存放能显著延长保鲜期。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener la col rizada (kale) fresca: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para la col rizada según las directrices oficiales de seguridad.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "¿Alguna vez compró col rizada fresca para batidos o ensaladas y descubrió que sus hojas se ponían amarillas y marchitas en pocos días? 🥬\n\nEl kale o col rizada es un superalimento reconocido mundialmente, pero como hortaliza de hoja es extremadamente sensible al gas etileno. Guardarla junto a frutas que emiten etileno, como manzanas o plátanos, acelera la enzima clorofilasa, causando el amarillamiento foliar. Además, la pérdida de agua por transpiración reduce la presión de turgencia, haciendo que se marchite rápidamente.\n\nEn esta guía se presenta una guía de conservación de la col rizada en 3 pasos respaldada por expertos en seguridad alimentaria. 🛡️",
-                "whyTitle": "¿Por qué almacenarla así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Nunca guarde la col rizada junto a frutas que emiten etileno ⚠️",
-                        "desc": "El kale es muy sensible al etileno. Almacenarlo cerca de manzanas, plátanos o tomates activa la enzima clorofilasa, acelerando el amarillamiento de las hojas."
-                    },
-                    {
-                        "title": "No lave la col rizada antes de guardarla 💧",
-                        "desc": "El exceso de humedad en la superficie de las hojas favorece la aparición de bacterias y moho, volviéndolas viscosas. Manténgala sin lavar o utilice un centrifugador de verduras para secarla por completo."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Envuelva la base de los tallos con papel húmedo — Retención de humedad 🧻",
-                        "text": "La transpiración provoca pérdida de agua, reduciendo la presión de turgencia y ablandando las hojas. 💡 Consejo de almacenamiento: Envuelva la base cortada del tallo con papel de cocina húmedo para proporcionarle hidratación constante."
-                    },
-                    {
-                        "name": "Guarde sellado a 0–4 °C en el cajón de verduras — Conservación refrigerada (7 a 10 días) ❄️",
-                        "text": "Bloquear el etileno y mantener un 90–95 % de humedad relativa es clave. 💡 Consejo de almacenamiento: Coloque el kale en un recipiente hermético o bolsa Ziploc y manténgalo en posición vertical en el cajón de verduras (0–4 °C) de 7 a 10 días."
-                    },
-                    {
-                        "name": "Pique y congele en bolsas Ziploc herméticas — Congelación (10 a 12 meses) 🧊",
-                        "text": "Si desea conservar el kale a largo plazo para batidos verdes, congelarlo es ideal. 💡 Consejo de almacenamiento: Lave bien, seque por completo, corte en trozos y selle en bolsas de congelación Ziploc (-18 °C) hasta por 10–12 meses."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Las hojas de mi col rizada se han vuelto amarillas. ¿Puedo comerlas?",
-                        "answer": "El amarillamiento ocurre por la acción de la clorofilasa al exponerse al etileno o envejecer. Aunque no es tóxico, su valor nutricional y textura empeoran. Recorte las zonas amarillas y consuma la parte verde. Descarte de inmediato si está viscosa o desprende mal olor."
-                    },
-                    {
-                        "question": "¿Por qué se debe almacenar la col rizada en posición vertical?",
-                        "answer": "Las verduras de hoja conservan su gravitropismo, gastando energía al intentar crecer hacia arriba si se acostadas, lo que acelera la pérdida de humedad. Almacenarlas verticalmente mantiene la turgencia y el frescor por más tiempo."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver le chou frisé (kale) frais : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le chou frisé selon les directives officielles de sécurité.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Avez-vous déjà acheté du chou frisé (kale) frais pour des smoothies ou des salades, pour constater que ses feuilles jaunissaient et se flétrissaient en quelques jours ? 🥬\n\nLe kale est un superaliment reconnu mondialement, mais en tant que légume feuille, il est extrêmement sensible au gaz éthylène. Le stocker près de fruits émetteurs d'éthylène comme les pommes ou les bananes stimule l'enzyme chlorophyllase, provoquant le jaunissement des feuilles. De plus, la transpiration entraîne une perte d'eau qui réduit la pression de turgescence, provoquant un flétrissement rapide.\n\nDans ce guide, vous présente un guide de conservation du kale en 3 étapes recommandé par des experts en sécurité alimentaire. 🛡️",
-                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne conservez jamais le kale à côté de fruits émetteurs d'éthylène ⚠️",
-                        "desc": "Le kale est très sensible à l'éthylène. Le garder près de pommes, bananes ou tomates active la chlorophyllase, ce qui accélère le jaunissement des feuilles."
-                    },
-                    {
-                        "title": "Ne lavez pas le kale avant de le ranger 💧",
-                        "desc": "L'excès d'humidité sur les feuilles favorise le développement de moisissures et bactéries, rendant le légume visqueux. Gardez-le non lavé ou séchez-le parfaitement à l'essoreuse à salade s'il a été lavé."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Envelopper la base des tiges dans du papier absorbant humide — Maintien de l'hydratation 🧻",
-                        "text": "La transpiration fait perdre de l'eau, réduisant la pression de turgescence. 💡 Astuce de conservation : Enveloppez la coupe des tiges de kale non lavé dans du papier absorbant humide pour fournir de l'eau en continu."
-                    },
-                    {
-                        "name": "Conserver fermé à 0–4 °C dans le bac à légumes — Stockage réfrigéré (7 à 10 jours) ❄️",
-                        "text": "Bloquer l'éthylène et maintenir 90–95 % d'humidité relative est primordial. 💡 Astuce de conservation : Placez le kale dans une boîte hermétique ou un sachet Ziploc et stockez-le debout dans le bac à légumes (0–4 °C) pendant 7 à 10 jours."
-                    },
-                    {
-                        "name": "Hacher et congeler en sachets Ziploc hermétiques — Congélation (10 à 12 mois) 🧊",
-                        "text": "Pour conserver le kale longtemps pour vos smoothies, la congélation est idéale. 💡 Astuce de conservation : Lavez bien, séchez complètement, coupez en morceaux et congelez en sachet Ziploc (-18 °C) pendant 10 à 12 mois."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Les feuilles de mon kale ont jauni. Est-il encore consommable ?",
-                        "answer": "Le jaunissement est dû à l'action de la chlorophyllase sous l'effet de l'éthylène ou du vieillissement. Bien que non toxique, la valeur nutritive et le croquant diminuent fortement. Coupez les parties jaunes et consommez les parties vertes. Jetez si le chou devient visqueux ou dégage une odeur."
-                    },
-                    {
-                        "question": "Pourquoi faut-il conserver le kale en position verticale ?",
-                        "answer": "Les légumes feuilles conservent leur gravitropisme : posés à plat, ils dépensent de l'énergie pour essayer de se redresser, ce qui accélère la perte d'eau et de nutriments. Le stockage vertical préserve la turgescence plus longtemps."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Grünkohl (Kale) richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Grünkohl basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Haben Sie schon einmal frischen Grünkohl (Kale) für Smoothies oder Salate gekauft, nur um nach wenigen Tagen festzustellen, dass die Blätter gelb und welk wurden? 🥬\n\nGrünkohl ist ein weltweit bekanntes Superfood, aber als Blattgemüse extrem empfindlich gegenüber Ethylengas. Die Lagerung neben ethylenabgebenden Früchten wie Äpfeln oder Bananen aktiviert das Enzym Chlorophyllase, was zur Vergilbung führt. Zudem verringert der Wasserverlust durch Transpiration den Turgordruck, sodass die Blätter rasch erschlaffen.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber zur Grünkohl-Lagerung. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Grünkohl niemals zusammen mit ethylenabgebenden Früchten lagern ⚠️",
-                        "desc": "Grünkohl ist sehr empfindlich gegenüber Ethylengas. Die Lagerung neben Äpfeln, Bananen oder Tomaten aktiviert das Enzym Chlorophyllase und beschleunigt das Vergilben der Blätter."
-                    },
-                    {
-                        "title": "Grünkohl vor der Lagerung nicht waschen 💧",
-                        "desc": "Übermäßige Feuchtigkeit auf den Blättern begünstigt Schimmel und Bakterien, wodurch die Blätter matschig werden. Lagern Sie ihn ungewaschen oder trocknen Sie ihn nach dem Waschen gründlich mit einer Salatschleuder."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Stängelenden mit feuchtem Küchenpapier umwickeln — Feuchtigkeitsschutz 🧻",
-                        "text": "Transpiration führt zu Wasserverlust, reduziert den Turgordruck und lässt die Blätter welken. 💡 Lagerungstipp: Umwickeln Sie die Schnittstellen des ungewaschenen Grünkohls mit feuchtem Küchenpapier zur kontinuierlichen Wasserversorgung."
-                    },
-                    {
-                        "name": "Luftdicht verpackt bei 0–4 °C im Gemüsefach lagern — Kühllagerung (7–10 Tage) ❄️",
-                        "text": "Die Abschirmung von Ethylen und das Halten einer relativen Luftfeuchtigkeit von 90–95 % ist entscheidend. 💡 Lagerungstipp: Geben Sie den Grünkohl in eine Dose oder einen Ziploc-Beutel und lagern Sie ihn stehend im Gemüsefach (0–4 °C) für 7–10 Tage."
-                    },
-                    {
-                        "name": "Schneiden und im Ziploc-Beutel einfrieren — Gefrierlagerung (10–12 Monate) 🧊",
-                        "text": "Für die langfristige Nutzung in Smoothies ist Einfrieren ideal. 💡 Lagerungstipp: Grünkohl gründlich waschen, komplett trocknen, mundgerecht schneiden und in Ziploc-Gefrierbeuteln (-18 °C) aufbewahren. Hält 10–12 Monate."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Die Blätter meines Grünkohls sind gelb geworden. Kann ich sie noch essen?",
-                        "answer": "Die Vergilbung entsteht durch den Abbau von Chlorophyll durch das Enzym Chlorophyllase. Obwohl nicht giftig, sinken Nährwert und Knackigkeit stark. Schneiden Sie gelbe Stellen ab und verzehren Sie die grünen Teile. Bei Matschigkeit oder Geruch sofort entsorgen."
-                    },
-                    {
-                        "question": "Warum sollte man Grünkohl aufrecht stehend lagern?",
-                        "answer": "Blattgemüse behält seinen Gravitropismus bei: Liegend verbraucht die Pflanze Energie, um sich aufzurichten, was den Wasser- und Nährstoffverlust beschleunigt. Stehende Lagerung erhält den Turgordruck deutlich länger."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar couve-crespa (kale) fresca: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para a couve-crespa com base em diretrizes oficiais de segurança.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Você já comprou couve-crespa (kale) fresca para sucos ou saladas e descobriu que as folhas ficaram amareladas e murchas em poucos dias? 🥬\n\nA couve-crespa é um superalimento reconhecido mundialmente, mas por ser uma hortaliça folhosa, é extremamente sensível ao gás etileno. Guardá-la perto de frutas que emitem etileno, como maçãs ou bananas, acelera a ação da enzima clorofilase, provocando o amarelamento. Além disso, a perda de água por transpiração reduz a pressão de turgor, fazendo com que murche rapidamente.\n\nNeste guia, apresentamos um guia científico de conservação de kale em 3 etapas para preservar o frescor e os nutrientes. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca guarde a couve-crespa junto com frutas que emitem etileno ⚠️",
-                        "desc": "A couve-crespa é muito sensível ao etileno. Guardá-la perto de maçãs, bananas ou tomates ativa a enzima clorofilase, acelerando o amarelamento das folhas."
-                    },
-                    {
-                        "title": "Não lave a couve-crespa antes de guardar 💧",
-                        "desc": "O excesso de umidade na superfície das folhas favorece o surgimento de mofo e bactérias, deixando-as melecadas. Mantenha-a sem lavar ou use uma centrífuga de salada para secar totalmente."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Envolva a base dos talos com papel-toalha úmido — Retenção de umidade 🧻",
-                        "text": "A transpiração causa perda de água, reduzindo a pressão de turgor e murchando as folhas. 💡 Dica de conservação: Envolva a base cortada dos talos com papel-toalha úmido para fornecer hidratação constante."
-                    },
-                    {
-                        "name": "Guarde em pote hermético a 0–4 °C na gaveta de legumes — Refrigeração (7 a 10 dias) ❄️",
-                        "text": "Bloquear o etileno e manter a umidade relativa entre 90 e 95% é fundamental. 💡 Dica de conservação: Coloque a couve-crespa em um pote hermético ou saco Ziploc e mantenha na vertical na gaveta de legumes (0–4 °C) de 7 a 10 dias."
-                    },
-                    {
-                        "name": "Pique e congele em sacos Ziploc herméticos — Congelamento (10 a 12 meses) 🧊",
-                        "text": "Se quiser conservar a couve-crespa por longo prazo para sucos verdes, congelar é ideal. 💡 Dica de conservação: Lave bem, seque totalmente, pique e congele em sacos Ziploc (-18 °C) por até 10–12 meses."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "As folhas da minha couve-crespa ficaram amarelas. Posso comer?",
-                        "answer": "O amarelamento ocorre pela ação da clorofilase sob exposição ao etileno ou envelhecimento. Embora não seja tóxico, o valor nutricional e a crocância diminuem. Retire as partes amarelas e consuma a parte verde. Descarte se estiver melecada ou com mau cheiro."
-                    },
-                    {
-                        "question": "Por que a couve-crespa deve ser armazenada na vertical?",
-                        "answer": "Hortaliças folhosas mantêm o gravitropismo: deitadas, gastam energia tentando crescer para cima, o que acelera a perda de umidade e nutrientes. Armazenar na vertical preserva o turgor e o frescor por mais tempo."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Daun Kale agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk daun kale berdasarkan pedoman keselamatan resmi.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Pernahkah Anda membeli daun kale segar untuk jus atau salad, tetapi dalam beberapa hari daunnya menguning dan layu? 🥬\n\nKale adalah superfood yang diakui dunia, tetapi sebagai sayuran daun, kale sangat sensitif terhadap gas etilen. Menyimpannya dekat buah-buahan penghasil etilen seperti apel atau pisang mempercepat aktivitas enzim klorofilase, memicu penguningan daun. Selain itu, kehilangan air akibat transpirasi mengurangi tekanan turgor, menyebabkan kale layu dengan cepat.\n\nDalam panduan ini, kami membagikan panduan penyimpanan kale 3 langkah berbasis ilmiah untuk menjaga kesegaran dan nutrisinya. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan pernah menyimpan kale bersama buah penghasil etilen ⚠️",
-                        "desc": "Kale sangat sensitif terhadap etilen. Menyimpannya dekat apel, pisang, atau tomat mengaktifkan enzim klorofilase dan mempercepat penguningan daun."
-                    },
-                    {
-                        "title": "Jangan mencuci kale sebelum disimpan 💧",
-                        "desc": "Kelembapan berlebih di permukaan daun memicu pertumbuhan jamur dan bakteri, membuat daun menjadi lembek dan berlendir. Simpan dalam kondisi belum dicuci, atau gunakan pengering sayur jika terlanjur dicuci."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Bungkus ujung batang dengan tisu dapur basah — Perlindungan Kelembapan 🧻",
-                        "text": "Transpirasi menyebabkan kehilangan air yang menurunkan tekanan turgor dan membuat daun layu. 💡 Tips Penyimpanan: Bungkus bagian bawah batang kale yang belum dicuci dengan tisu dapur basah untuk hidrasi berkelanjutan."
-                    },
-                    {
-                        "name": "Simpan rapat pada suhu 0–4°C di laci kulkas — Simpan Dingin (7–10 Hari) ❄️",
-                        "text": "Menghalangi gas etilen dan menjaga kelembapan relatif 90–95% adalah kuncinya. 💡 Tips Penyimpanan: Masukkan kale ke wadah kedap udara atau kantong Ziploc, lalu simpan berdiri di laci sayur kulkas (0–4°C) selama 7–10 hari."
-                    },
-                    {
-                        "name": "Potong dan bekukan dalam kantong Ziploc — Simpan Freezer (10–12 Bulan) 🧊",
-                        "text": "Untuk penyimpanan jangka panjang pembuatan jus, membekukannya adalah pilihan terbaik. 💡 Tips Penyimpanan: Cuci bersih, keringkan total, potong-potong, lalu simpan dalam kantong Ziploc freezer (-18°C) hingga 10–12 bulan."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Daun kale saya menguning. Apakah masih bisa dimakan?",
-                        "answer": "Penguningan terjadi karena kerja enzim klorofilase akibat etilen atau penuaan. Meski tidak beracun, nilai gizi dan kesegarannya turun drastis. Buang bagian yang menguning dan makan bagian yang hijau. Segera buang jika daun berlendir atau berbau aneh."
-                    },
-                    {
-                        "question": "Mengapa kale harus disimpan dalam posisi berdiri?",
-                        "answer": "Sayuran daun memiliki sifat gravitropisme: jika dibaringkan, tumbuhan menghabiskan energi untuk tumbuh ke atas, yang mempercepat kehilangan air dan nutrisi. Menyimpannya secara berdiri menjaga tekanan turgor dan kesegaran lebih lama."
-                    }
-                ]
-            }
-        }
+  "how-to-store-kale": {
+    "ingId": "kale",
+    "pubDate": "2026-02-22",
+    "updatedDate": "2026-02-22",
+    "heroImage": "/images/blog/kale_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "케일 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 케일의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
+        "intro": "디톡스 주스나 샐러드용으로 신선한 케일을 사 왔는데, 며칠 만에 잎이 누렇게 변하고 시들어버려 버린 적 있으시죠? 🥬\n\n케일은 전 세계적으로 사랑받는 대표 슈퍼푸드 채소이지만, 에틸렌(Ethylene) 가스 감수성이 극도로 높은 엽채류입니다. 사과나 바나나 등 에틸렌을 분출하는 과일과 함께 두면 엽록소 분해 효소(Chlorophyllase)가 촉진되어 잎이 노랗게 변하는 황화 현상이 일어납니다. 또한 증산 작용으로 수분을 잃으면 세포 팽창압(Turgor Pressure)을 저하당해 급격히 시듭니다.\n\n이번 가이드에서는 국제 식품 안전 및 농업 기관에서 권장하는 과학적이고 확실한 케일 신선도 유지 3단계 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "에틸렌 방출 과일과 절대로 함께 두지 마세요 ⚠️",
+            "desc": "케일은 에틸렌 가스에 매우 민감합니다. 사과, 바나나, 토마토 등 에틸렌을 많이 방출하는 과일과 같이 보관하면 엽록소 분해 효소가 활성화되어 잎이 누렇게 변하는 황화 현상이 촉진됩니다."
+          },
+          {
+            "title": "보관 전 무분별하게 물로 씻지 마세요 💧",
+            "desc": "잎 표면에 남아있는 과도한 수분은 곰팡이나 세균 번식의 원인이 되며 잎을 쉽게 짓무르게 만듭니다. 보관 전에는 씻지 않는 것이 원칙이며, 씻어서 보관할 경우 야채 탈수기 등을 이용하여 물기를 완벽히 제거해야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "줄기 하단을 젖은 타월로 감싸 수분 공급하기 — 수분 손실 방지 🧻",
+            "text": "케일은 증산 작용으로 수분을 잃으면 세포 팽창압이 저하되어 잎이 힘없이 시듭니다. 💡 보관 팁: 씻지 않은 케일의 줄기 밑동 절단면을 촉촉하게 적신 키친타월로 감싸 수분을 지속적으로 공급해 주세요."
+          },
+          {
+            "name": "밀폐 용기나 지퍼백에 넣어 0~4℃ 냉장 보관하기 — 냉장 보관 (7~10일) ❄️",
+            "text": "에틸렌 가스를 차단하고 상대습도 90~95%를 유지하는 것이 핵심입니다. 💡 보관 팁: 줄기를 감싼 케일을 밀폐 용기나 지퍼백에 담아 에틸렌 및 공기 접촉을 차단한 뒤, 냉장고 야채칸(0~4℃)에 세워 보관하세요. 최대 7~10일간 아삭함을 유지할 수 있습니다."
+          },
+          {
+            "name": "손질 후 밀폐 지퍼백에 냉동 보관하기 — 냉동 보관 (10~12개월) 🧊",
+            "text": "주스나 스무디용으로 오랫동안 보관하고 싶다면 냉동 보관이 유용합니다. 💡 보관 팁: 케일을 깨끗이 씻어 물기를 완벽히 제거한 후 줄기와 잎을 먹기 좋게 잘라 밀폐 지퍼백에 담아 냉동실(-18℃ 이하)에 보관하세요. 클렌즈 주스용으로 10~12개월간 활용할 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "케일 잎이 누렇게 변했는데 먹어도 되나요?",
+            "answer": "황화 현상은 에틸렌 가스 등에 의해 엽록소 분해 효소(Chlorophyllase)가 작용하여 영양소와 엽록소가 파괴된 상태입니다. 독성이 생기는 것은 아니지만 영양가와 맛, 식감이 크게 떨어지므로 노랗게 변한 부위는 잘라내고 녹색 잎 위주로 섭취하는 것이 좋습니다. 만약 잎이 짓무르거나 냄새가 난다면 폐기해야 합니다."
+          },
+          {
+            "question": "케일을 눕히지 않고 세워서 보관해야 하는 이유가 무엇인가요?",
+            "answer": "엽채류는 밭에서 자라던 굴중성(Gravitropism) 성질을 기억하여 눕혀 놓으면 수직으로 서려고 에너지를 소모하며, 잎이 휘어지면서 수분과 영양 손실이 가속화됩니다. 줄기가 아래로 향하게 세워서 보관하면 신선도를 훨씬 오래 유지할 수 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Kale Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for kale based on official safety guidelines.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Have you ever bought fresh kale for smoothies or salads, only to find its leaves turned yellow and wilted within just a few days? 🥬\n\nKale is a globally recognized superfood, but as a leafy green, it is extremely sensitive to ethylene gas. Storing it near ethylene-emitting fruits like apples or bananas accelerates chlorophyllase enzyme activity, leading to leaf yellowing (chlorosis). Furthermore, moisture loss from transpiration reduces turgor pressure, causing the leaves to wilt rapidly.\n\nIn this guide, we introduce a scientifically proven 3-step kale storage guide recommended by agriculture and food safety experts to maximize freshness. 🛡️",
+        "whyTitle": "Why Store Kale This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the proper storage method is essential for maintaining freshness and food safety.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never store kale alongside ethylene-emitting fruits ⚠️",
+            "desc": "Kale is highly sensitive to ethylene gas. Storing it near fruits like apples, bananas, or tomatoes activates chlorophyllase enzymes, accelerating leaf yellowing."
+          },
+          {
+            "title": "Do not wash kale prior to storage 💧",
+            "desc": "Excess moisture on the leaf surface creates an ideal environment for mold and bacteria, causing leaves to become slimy. Keep kale unwashed before storing, or use a salad spinner to remove all moisture if washed."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Wrap stem ends with moist paper towels — Moisture Retention 🧻",
+            "text": "Transpiration causes moisture loss, lowering turgor pressure and making leaves limp. 💡 Storage Tip: Wrap the cut ends of unwashed kale stems with a damp paper towel to supply continuous hydration."
+          },
+          {
+            "name": "Store sealed at 0–4°C in the fridge crisper — Cold Storage (7–10 Days) ❄️",
+            "text": "Blocking ethylene gas and maintaining 90–95% relative humidity is essential. 💡 Storage Tip: Place the stem-wrapped kale inside an airtight container or Ziploc bag to block ethylene gas, and store upright in the crisper drawer (0–4°C / 32–39°F) for 7–10 days."
+          },
+          {
+            "name": "Chop and freeze in airtight Ziploc bags — Freezer Storage (10–12 Months) 🧊",
+            "text": "If you want long-term storage for smoothies or juices, freezing is ideal. 💡 Storage Tip: Wash thoroughly, dry completely, chop into bite-sized pieces, and seal in freezer Ziploc bags (-18°C / 0°F). Great for green juices for up to 10–12 months."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "My kale leaves have turned yellow. Is it still safe to eat?",
+            "answer": "Yellowing occurs when the chlorophyllase enzyme breaks down chlorophyll due to ethylene exposure or aging. While not inherently toxic, nutritional value and crispness decline significantly. Trim away yellowed sections and consume the green parts. Discard immediately if slimy or emitting off-odors."
+          },
+          {
+            "question": "Why should kale be stored upright rather than lying flat?",
+            "answer": "Leafy greens retain gravitropism, spending energy trying to grow upward when laid flat, which accelerates nutrient and moisture loss. Storing stems vertically preserves turgor pressure and freshness much longer."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ケールを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくケールの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
+        "intro": "スムージーやサラダ用に新鮮なケールを買ってきたものの、わずか数日で葉が黄色く変色し、しなびて捨ててしまった経験はありませんか？🥬\n\nケールは世界的に有名なスーパーフードですが、エチレン（Ethylene）ガスへの感度が極めて高い葉物野菜です。リンゴやバナナなどのエチレン放出果物と一緒に保存すると、葉緑素分解酵素（Chlorophyllase）が活性化して黄化現象を起こし、蒸散作用で水分が抜けると細胞膨張圧（Turgor Pressure）を失って急速にしおれます。\n\n本記事では、国際的な専門機関が推奨するケールの鮮度を保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに応じた正しい保存方法を visual 適用することは 鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "エチレンを放出する果物と絶対に一緒に置かないでください ⚠️",
+            "desc": "ケールはエチレンガスに非常に敏感です。リンゴ、バナナ、トマトなどエチレンを多く放出する果物と一緒に保存すると、葉緑素分解酵素が活性化し、葉が黄色くなる黄化現象が促進されます。"
+          },
+          {
+            "title": "保存前に不用意に水洗いしないでください 💧",
+            "desc": "葉の表面に残った過剰な水分はカビや雑菌の繁殖原因となり、葉を傷ませやすくします。保存前は洗わないのが原則ですが、洗って保存する場合はサラダスピナーなどで水分を完全に切ってください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "茎の切り口を湿らせたペーパータオルで包む — 水分損失防止 🧻",
+            "text": "ケールは蒸散作用で水分を失うと細胞膨張圧が低下し、葉がしおれます。💡保存のコツ：洗っていないケールの茎の切り口を湿らせたキッチンペーパーで包み、継続的に水分を補給してください。"
+          },
+          {
+            "name": "密閉容器や袋に入れて0〜4℃で冷蔵保存する — 冷蔵保存 (7〜10日間) ❄️",
+            "text": "エチレンガスを遮断し、相対湿度90〜95%を維持することが鍵です。💡保存のコツ：茎を包んだケールを密閉容器やジッパーバッグに入れてエチレンや空気との接触を防ぎ、冷蔵庫の野菜室（0〜4℃）に立てて保存すれば7〜10日間シャキシャキ感を保てます。"
+          },
+          {
+            "name": "カットして密閉袋で冷凍保存する — 冷凍保存 (10〜12ヶ月間) 🧊",
+            "text": "ジュースやスムージー用に長期保存したい場合は冷凍保存が便利です。💡保存のコツ：ケールをきれいに洗い、水分をしっかり拭き取った後、使いやすい大きさにカットして密閉袋に入れ、冷凍室（-18℃以下）で保管してください。10〜12ヶ月間活用できます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ケールの葉が黄色くなりましたが、食べても大丈夫ですか？",
+            "answer": "黄化現象はエチレンガスなどにより葉緑素分解酵素（Chlorophyllase）が働き、栄養素と葉緑素が破壊された状態です。毒性はありませんが、栄養価や食感が大きく落ちるため、黄色くなった部分を取り除き、緑色の部分を召し上がるのが望ましいです。ぬめりや臭いがある場合は廃棄してください。"
+          },
+          {
+            "question": "ケールを寝かせず立てて保存すべき理由は何ですか？",
+            "answer": "葉物野菜は畑で育った屈重性（Gravitropism）の性質により、横に倒すと垂直に起き上がろうとしてエネルギーを消費し、水分や栄養の損失が早まります。茎を下にして立てて保存することで、鮮度を大幅に長く維持できます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持羽衣甘蓝新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解羽衣甘蓝的最佳储存温度、方式及保鲜时长。",
+        "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "当您买回新鲜的羽衣甘蓝准备做沙拉或青汁，却发现没过几天叶子就发黄干瘪，不得不丢弃？🥬\n\n羽衣甘蓝是公认的超级食物，但作为叶菜类，它对乙烯（Ethylene）气体极其敏感。若与苹果、香蕉等释放乙烯的水果放在一起，会激活叶绿素分解酶（Chlorophyllase），加速叶片发黄；同时蒸腾作用导致水分流失，使细胞膨压（Turgor Pressure）降低而快速萎蔫。\n\n本指南基于权威机构建议，为您带来3步科学羽衣甘蓝保鲜秘诀，锁住营养与爽脆。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "切勿与释放乙烯的水果同放 ⚠️",
+            "desc": "羽衣甘蓝对乙烯气体极度敏感。与苹果、香蕉、番茄等高乙烯排放水果存放在一起，会激活叶绿素分解酶，加速叶片变黄。"
+          },
+          {
+            "title": "储存前切勿随意清洗 💧",
+            "desc": "叶片表面残留的过多水分易引发霉菌和细菌滋生，使叶子腐烂发粘。原则上储存前无需清洗；若已清洗，必须使用甩干机彻底甩干水分后再保存。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "用湿纸巾包裹茎部末端 — 锁水防干 🧻",
+            "text": "蒸腾作用会导致羽衣甘蓝失水，降低细胞膨压使叶片软塌。💡储存小贴士：用湿润的厨房纸巾包裹未清洗的羽衣甘蓝茎部切口，持续补充水分。"
+          },
+          {
+            "name": "装入密封盒或拉链袋，0~4℃ 冷藏 — 冷藏保存 (7~10天) ❄️",
+            "text": "阻绝乙烯气体并保持90~95%的相对湿度是关键。💡储存小贴士：将裹好茎部的羽衣甘蓝装入密封盒或保鲜袋，阻隔空气与乙烯，直立放入冰箱蔬菜抽屉（0~4℃），可保鲜7~10天。"
+          },
+          {
+            "name": "切块后装入密封袋冷冻 — 冷冻保存 (10~12个月) 🧊",
+            "text": "若想长期保存用于打青汁或果昔，冷冻是最佳选择。💡储存小贴士：清洗干净并彻底擦干水分，将茎叶切成小块装入密封袋，放入冷冻室（-18℃以下）。可保存10~12个月。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "羽衣甘蓝叶子变黄了还能吃吗？",
+            "answer": "叶片发黄是由于乙烯或老化导致叶绿素分解酶（Chlorophyllase）破坏了叶绿素和营养成分。虽然没有毒性，但营养价值和口感大幅下降。建议切除发黄部位，食用绿色部分。若叶片发粘发烂或有异味，请立即丢弃。"
+          },
+          {
+            "question": "为什么要将羽衣甘蓝直立保存而非平放？",
+            "answer": "叶菜类植物保留着向重性（Gravitropism）特性，平放时会消耗能量试图向上生长，从而加速水分和营养的流失。茎部朝下直立存放能显著延长保鲜期。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener la col rizada (kale) fresca: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para la col rizada según las directrices oficiales de seguridad.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "¿Alguna vez compró col rizada fresca para batidos o ensaladas y descubrió que sus hojas se ponían amarillas y marchitas en pocos días? 🥬\n\nEl kale o col rizada es un superalimento reconocido mundialmente, pero como hortaliza de hoja es extremadamente sensible al gas etileno. Guardarla junto a frutas que emiten etileno, como manzanas o plátanos, acelera la enzima clorofilasa, causando el amarillamiento foliar. Además, la pérdida de agua por transpiración reduce la presión de turgencia, haciendo que se marchite rápidamente.\n\nEn esta guía se presenta una guía de conservación de la col rizada en 3 pasos respaldada por expertos en seguridad alimentaria. 🛡️",
+        "whyTitle": "¿Por qué almacenarla así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Nunca guarde la col rizada junto a frutas que emiten etileno ⚠️",
+            "desc": "El kale es muy sensible al etileno. Almacenarlo cerca de manzanas, plátanos o tomates activa la enzima clorofilasa, acelerando el amarillamiento de las hojas."
+          },
+          {
+            "title": "No lave la col rizada antes de guardarla 💧",
+            "desc": "El exceso de humedad en la superficie de las hojas favorece la aparición de bacterias y moho, volviéndolas viscosas. Manténgala sin lavar o utilice un centrifugador de verduras para secarla por completo."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Envuelva la base de los tallos con papel húmedo — Retención de humedad 🧻",
+            "text": "La transpiración provoca pérdida de agua, reduciendo la presión de turgencia y ablandando las hojas. 💡 Consejo de almacenamiento: Envuelva la base cortada del tallo con papel de cocina húmedo para proporcionarle hidratación constante."
+          },
+          {
+            "name": "Guarde sellado a 0–4 °C en el cajón de verduras — Conservación refrigerada (7 a 10 días) ❄️",
+            "text": "Bloquear el etileno y mantener un 90–95 % de humedad relativa es clave. 💡 Consejo de almacenamiento: Coloque el kale en un recipiente hermético o bolsa Ziploc y manténgalo en posición vertical en el cajón de verduras (0–4 °C) de 7 a 10 días."
+          },
+          {
+            "name": "Pique y congele en bolsas Ziploc herméticas — Congelación (10 a 12 meses) 🧊",
+            "text": "Si desea conservar el kale a largo plazo para batidos verdes, congelarlo es ideal. 💡 Consejo de almacenamiento: Lave bien, seque por completo, corte en trozos y selle en bolsas de congelación Ziploc (-18 °C) hasta por 10–12 meses."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Las hojas de mi col rizada se han vuelto amarillas. ¿Puedo comerlas?",
+            "answer": "El amarillamiento ocurre por la acción de la clorofilasa al exponerse al etileno o envejecer. Aunque no es tóxico, su valor nutricional y textura empeoran. Recorte las zonas amarillas y consuma la parte verde. Descarte de inmediato si está viscosa o desprende mal olor."
+          },
+          {
+            "question": "¿Por qué se debe almacenar la col rizada en posición vertical?",
+            "answer": "Las verduras de hoja conservan su gravitropismo, gastando energía al intentar crecer hacia arriba si se acostadas, lo que acelera la pérdida de humedad. Almacenarlas verticalmente mantiene la turgencia y el frescor por más tiempo."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver le chou frisé (kale) frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le chou frisé selon les directives officielles de sécurité.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Avez-vous déjà acheté du chou frisé (kale) frais pour des smoothies ou des salades, pour constater que ses feuilles jaunissaient et se flétrissaient en quelques jours ? 🥬\n\nLe kale est un superaliment reconnu mondialement, mais en tant que légume feuille, il est extrêmement sensible au gaz éthylène. Le stocker près de fruits émetteurs d'éthylène comme les pommes ou les bananes stimule l'enzyme chlorophyllase, provoquant le jaunissement des feuilles. De plus, la transpiration entraîne une perte d'eau qui réduit la pression de turgescence, provoquant un flétrissement rapide.\n\nDans ce guide, vous présente un guide de conservation du kale en 3 étapes recommandé par des experts en sécurité alimentaire. 🛡️",
+        "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne conservez jamais le kale à côté de fruits émetteurs d'éthylène ⚠️",
+            "desc": "Le kale est très sensible à l'éthylène. Le garder près de pommes, bananes ou tomates active la chlorophyllase, ce qui accélère le jaunissement des feuilles."
+          },
+          {
+            "title": "Ne lavez pas le kale avant de le ranger 💧",
+            "desc": "L'excès d'humidité sur les feuilles favorise le développement de moisissures et bactéries, rendant le légume visqueux. Gardez-le non lavé ou séchez-le parfaitement à l'essoreuse à salade s'il a été lavé."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Envelopper la base des tiges dans du papier absorbant humide — Maintien de l'hydratation 🧻",
+            "text": "La transpiration fait perdre de l'eau, réduisant la pression de turgescence. 💡 Astuce de conservation : Enveloppez la coupe des tiges de kale non lavé dans du papier absorbant humide pour fournir de l'eau en continu."
+          },
+          {
+            "name": "Conserver fermé à 0–4 °C dans le bac à légumes — Stockage réfrigéré (7 à 10 jours) ❄️",
+            "text": "Bloquer l'éthylène et maintenir 90–95 % d'humidité relative est primordial. 💡 Astuce de conservation : Placez le kale dans une boîte hermétique ou un sachet Ziploc et stockez-le debout dans le bac à légumes (0–4 °C) pendant 7 à 10 jours."
+          },
+          {
+            "name": "Hacher et congeler en sachets Ziploc hermétiques — Congélation (10 à 12 mois) 🧊",
+            "text": "Pour conserver le kale longtemps pour vos smoothies, la congélation est idéale. 💡 Astuce de conservation : Lavez bien, séchez complètement, coupez en morceaux et congelez en sachet Ziploc (-18 °C) pendant 10 à 12 mois."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Les feuilles de mon kale ont jauni. Est-il encore consommable ?",
+            "answer": "Le jaunissement est dû à l'action de la chlorophyllase sous l'effet de l'éthylène ou du vieillissement. Bien que non toxique, la valeur nutritive et le croquant diminuent fortement. Coupez les parties jaunes et consommez les parties vertes. Jetez si le chou devient visqueux ou dégage une odeur."
+          },
+          {
+            "question": "Pourquoi faut-il conserver le kale en position verticale ?",
+            "answer": "Les légumes feuilles conservent leur gravitropisme : posés à plat, ils dépensent de l'énergie pour essayer de se redresser, ce qui accélère la perte d'eau et de nutriments. Le stockage vertical préserve la turgescence plus longtemps."
+          }
+        ]
+      },
+      "de": {
+        "title": "Grünkohl (Kale) richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Grünkohl basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Haben Sie schon einmal frischen Grünkohl (Kale) für Smoothies oder Salate gekauft, nur um nach wenigen Tagen festzustellen, dass die Blätter gelb und welk wurden? 🥬\n\nGrünkohl ist ein weltweit bekanntes Superfood, aber als Blattgemüse extrem empfindlich gegenüber Ethylengas. Die Lagerung neben ethylenabgebenden Früchten wie Äpfeln oder Bananen aktiviert das Enzym Chlorophyllase, was zur Vergilbung führt. Zudem verringert der Wasserverlust durch Transpiration den Turgordruck, sodass die Blätter rasch erschlaffen.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber zur Grünkohl-Lagerung. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Grünkohl niemals zusammen mit ethylenabgebenden Früchten lagern ⚠️",
+            "desc": "Grünkohl ist sehr empfindlich gegenüber Ethylengas. Die Lagerung neben Äpfeln, Bananen oder Tomaten aktiviert das Enzym Chlorophyllase und beschleunigt das Vergilben der Blätter."
+          },
+          {
+            "title": "Grünkohl vor der Lagerung nicht waschen 💧",
+            "desc": "Übermäßige Feuchtigkeit auf den Blättern begünstigt Schimmel und Bakterien, wodurch die Blätter matschig werden. Lagern Sie ihn ungewaschen oder trocknen Sie ihn nach dem Waschen gründlich mit einer Salatschleuder."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Stängelenden mit feuchtem Küchenpapier umwickeln — Feuchtigkeitsschutz 🧻",
+            "text": "Transpiration führt zu Wasserverlust, reduziert den Turgordruck und lässt die Blätter welken. 💡 Lagerungstipp: Umwickeln Sie die Schnittstellen des ungewaschenen Grünkohls mit feuchtem Küchenpapier zur kontinuierlichen Wasserversorgung."
+          },
+          {
+            "name": "Luftdicht verpackt bei 0–4 °C im Gemüsefach lagern — Kühllagerung (7–10 Tage) ❄️",
+            "text": "Die Abschirmung von Ethylen und das Halten einer relativen Luftfeuchtigkeit von 90–95 % ist entscheidend. 💡 Lagerungstipp: Geben Sie den Grünkohl in eine Dose oder einen Ziploc-Beutel und lagern Sie ihn stehend im Gemüsefach (0–4 °C) für 7–10 Tage."
+          },
+          {
+            "name": "Schneiden und im Ziploc-Beutel einfrieren — Gefrierlagerung (10–12 Monate) 🧊",
+            "text": "Für die langfristige Nutzung in Smoothies ist Einfrieren ideal. 💡 Lagerungstipp: Grünkohl gründlich waschen, komplett trocknen, mundgerecht schneiden und in Ziploc-Gefrierbeuteln (-18 °C) aufbewahren. Hält 10–12 Monate."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Die Blätter meines Grünkohls sind gelb geworden. Kann ich sie noch essen?",
+            "answer": "Die Vergilbung entsteht durch den Abbau von Chlorophyll durch das Enzym Chlorophyllase. Obwohl nicht giftig, sinken Nährwert und Knackigkeit stark. Schneiden Sie gelbe Stellen ab und verzehren Sie die grünen Teile. Bei Matschigkeit oder Geruch sofort entsorgen."
+          },
+          {
+            "question": "Warum sollte man Grünkohl aufrecht stehend lagern?",
+            "answer": "Blattgemüse behält seinen Gravitropismus bei: Liegend verbraucht die Pflanze Energie, um sich aufzurichten, was den Wasser- und Nährstoffverlust beschleunigt. Stehende Lagerung erhält den Turgordruck deutlich länger."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar couve-crespa (kale) fresca: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para a couve-crespa com base em diretrizes oficiais de segurança.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Você já comprou couve-crespa (kale) fresca para sucos ou saladas e descobriu que as folhas ficaram amareladas e murchas em poucos dias? 🥬\n\nA couve-crespa é um superalimento reconhecido mundialmente, mas por ser uma hortaliça folhosa, é extremamente sensível ao gás etileno. Guardá-la perto de frutas que emitem etileno, como maçãs ou bananas, acelera a ação da enzima clorofilase, provocando o amarelamento. Além disso, a perda de água por transpiração reduz a pressão de turgor, fazendo com que murche rapidamente.\n\nNeste guia, apresentamos um guia científico de conservação de kale em 3 etapas para preservar o frescor e os nutrientes. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca guarde a couve-crespa junto com frutas que emitem etileno ⚠️",
+            "desc": "A couve-crespa é muito sensível ao etileno. Guardá-la perto de maçãs, bananas ou tomates ativa a enzima clorofilase, acelerando o amarelamento das folhas."
+          },
+          {
+            "title": "Não lave a couve-crespa antes de guardar 💧",
+            "desc": "O excesso de umidade na superfície das folhas favorece o surgimento de mofo e bactérias, deixando-as melecadas. Mantenha-a sem lavar ou use uma centrífuga de salada para secar totalmente."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Envolva a base dos talos com papel-toalha úmido — Retenção de umidade 🧻",
+            "text": "A transpiração causa perda de água, reduzindo a pressão de turgor e murchando as folhas. 💡 Dica de conservação: Envolva a base cortada dos talos com papel-toalha úmido para fornecer hidratação constante."
+          },
+          {
+            "name": "Guarde em pote hermético a 0–4 °C na gaveta de legumes — Refrigeração (7 a 10 dias) ❄️",
+            "text": "Bloquear o etileno e manter a umidade relativa entre 90 e 95% é fundamental. 💡 Dica de conservação: Coloque a couve-crespa em um pote hermético ou saco Ziploc e mantenha na vertical na gaveta de legumes (0–4 °C) de 7 a 10 dias."
+          },
+          {
+            "name": "Pique e congele em sacos Ziploc herméticos — Congelamento (10 a 12 meses) 🧊",
+            "text": "Se quiser conservar a couve-crespa por longo prazo para sucos verdes, congelar é ideal. 💡 Dica de conservação: Lave bem, seque totalmente, pique e congele em sacos Ziploc (-18 °C) por até 10–12 meses."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "As folhas da minha couve-crespa ficaram amarelas. Posso comer?",
+            "answer": "O amarelamento ocorre pela ação da clorofilase sob exposição ao etileno ou envelhecimento. Embora não seja tóxico, o valor nutricional e a crocância diminuem. Retire as partes amarelas e consuma a parte verde. Descarte se estiver melecada ou com mau cheiro."
+          },
+          {
+            "question": "Por que a couve-crespa deve ser armazenada na vertical?",
+            "answer": "Hortaliças folhosas mantêm o gravitropismo: deitadas, gastam energia tentando crescer para cima, o que acelera a perda de umidade e nutrientes. Armazenar na vertical preserva o turgor e o frescor por mais tempo."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Daun Kale agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk daun kale berdasarkan pedoman keselamatan resmi.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Pernahkah Anda membeli daun kale segar untuk jus atau salad, tetapi dalam beberapa hari daunnya menguning dan layu? 🥬\n\nKale adalah superfood yang diakui dunia, tetapi sebagai sayuran daun, kale sangat sensitif terhadap gas etilen. Menyimpannya dekat buah-buahan penghasil etilen seperti apel atau pisang mempercepat aktivitas enzim klorofilase, memicu penguningan daun. Selain itu, kehilangan air akibat transpirasi mengurangi tekanan turgor, menyebabkan kale layu dengan cepat.\n\nDalam panduan ini, kami membagikan panduan penyimpanan kale 3 langkah berbasis ilmiah untuk menjaga kesegaran dan nutrisinya. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan pernah menyimpan kale bersama buah penghasil etilen ⚠️",
+            "desc": "Kale sangat sensitif terhadap etilen. Menyimpannya dekat apel, pisang, atau tomat mengaktifkan enzim klorofilase dan mempercepat penguningan daun."
+          },
+          {
+            "title": "Jangan mencuci kale sebelum disimpan 💧",
+            "desc": "Kelembapan berlebih di permukaan daun memicu pertumbuhan jamur dan bakteri, membuat daun menjadi lembek dan berlendir. Simpan dalam kondisi belum dicuci, atau gunakan pengering sayur jika terlanjur dicuci."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Bungkus ujung batang dengan tisu dapur basah — Perlindungan Kelembapan 🧻",
+            "text": "Transpirasi menyebabkan kehilangan air yang menurunkan tekanan turgor dan membuat daun layu. 💡 Tips Penyimpanan: Bungkus bagian bawah batang kale yang belum dicuci dengan tisu dapur basah untuk hidrasi berkelanjutan."
+          },
+          {
+            "name": "Simpan rapat pada suhu 0–4°C di laci kulkas — Simpan Dingin (7–10 Hari) ❄️",
+            "text": "Menghalangi gas etilen dan menjaga kelembapan relatif 90–95% adalah kuncinya. 💡 Tips Penyimpanan: Masukkan kale ke wadah kedap udara atau kantong Ziploc, lalu simpan berdiri di laci sayur kulkas (0–4°C) selama 7–10 hari."
+          },
+          {
+            "name": "Potong dan bekukan dalam kantong Ziploc — Simpan Freezer (10–12 Bulan) 🧊",
+            "text": "Untuk penyimpanan jangka panjang pembuatan jus, membekukannya adalah pilihan terbaik. 💡 Tips Penyimpanan: Cuci bersih, keringkan total, potong-potong, lalu simpan dalam kantong Ziploc freezer (-18°C) hingga 10–12 bulan."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Daun kale saya menguning. Apakah masih bisa dimakan?",
+            "answer": "Penguningan terjadi karena kerja enzim klorofilase akibat etilen atau penuaan. Meski tidak beracun, nilai gizi dan kesegarannya turun drastis. Buang bagian yang menguning dan makan bagian yang hijau. Segera buang jika daun berlendir atau berbau aneh."
+          },
+          {
+            "question": "Mengapa kale harus disimpan dalam posisi berdiri?",
+            "answer": "Sayuran daun memiliki sifat gravitropisme: jika dibaringkan, tumbuhan menghabiskan energi untuk tumbuh ke atas, yang mempercepat kehilangan air dan nutrisi. Menyimpannya secara berdiri menjaga tekanan turgor dan kesegaran lebih lama."
+          }
+        ]
+      }
     }
+  }
 }

@@ -1,406 +1,406 @@
 {
-    "how-to-store-pasta-sauce": {
-        "ingId": "pasta-sauce",
-        "pubDate": "2026-01-31",
-        "updatedDate": "2026-01-31",
-        "heroImage": "/images/blog/pasta_sauce_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "파스타 소스(토마토 소스) 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 파스타 소스의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
-                "intro": "먹다 남은 토마토 파스타 소스를 병째로 냉장고에 넣어두었다가 며칠 뒤 하얀 곰팡이가 피어 버린 적 있으시죠? 🍅\n\n토마토 소스는 수분과 당분이 많아 개봉 후 공기 중의 세균이나 곰팡이에 노출되면 매우 빠르게 부패합니다. 특히 침이나 이물질이 섞인 스푼을 그대로 넣으면 하루만에 변질될 수 있어 올바른 보관법이 필수적입니다.\n\n이번 가이드에서는 미국 농무부(USDA)와 식품의약품안전처(MFDS) 등의 안전 가이드라인을 바탕으로, 개봉한 파스타 소스를 안전하고 신선하게 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "침이나 이물질이 묻은 스푼을 절대 사용하지 마세요 ⚠️",
-                        "desc": "먹던 스푼이나 다른 음식이 묻은 도구를 소스 병에 넣으면 세균과 침이 유입되어 냉장 보관하더라도 하루이틀 만에 곰팡이가 피어오릅니다. 소스를 덜어낼 때는 반드시 완전히 깨끗하고 마른 스푼을 사용하세요."
-                    },
-                    {
-                        "title": "개봉한 소스를 상온에 방치하지 마세요 🌡️",
-                        "desc": "토마토 소스는 산도가 높지만 일단 개봉되면 실온에서 세균이 급격히 증식합니다. 식사 중 상온에 오래 방치된 소스는 병에 다시 넣지 말고 즉시 밀폐하여 냉장고에 넣어야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "밀폐 용기에 덜어 담아 공기 접촉 최소화하기 — 2차 오염 방지 📦",
-                        "text": "유리 병이나 캔에 남은 소스를 그대로 두면 뚜껑 틈새로 공기가 유입되고 오염 위험이 커집니다. 💡 보관 팁: 깨끗하고 건조한 밀폐 용기(유리 또는 밀폐 플라스틱)에 먹을 만큼 혹은 남은 소스를 옮겨 담고 뚜껑을 꽉 닫아주세요. 공기와의 접촉을 줄여야 신선도가 오래 유지됩니다."
-                    },
-                    {
-                        "name": "0~4℃ 냉장고 안쪽 깊은 곳에 보관하기 — 냉장 보관 (3~5일) ❄️",
-                        "text": "개봉한 파스타 소스는 상온 보관이 불가하며 반드시 냉장 보관해야 합니다. 💡 보관 팁: 온도 변화가 심한 냉장고 문 쪽보다는 온도가 일정하게 유지되는 냉장실 안쪽 깊은 곳(0~4℃)에 보관하세요. USDA 가이드라인에 따라 개봉 후 3~5일 이내에 소비하는 것이 안전합니다."
-                    },
-                    {
-                        "name": "1회용 분량으로 소분하여 냉동 보관하기 — 냉동 보관 (2달) 🧊",
-                        "text": "3~5일 내에 다 먹기 힘들거나 대용량으로 남았을 때는 냉동 보관이 정답입니다. 💡 보관 팁: 1회 먹을 분량씩 밀폐용기나 지퍼백(또는 실리콘 얼음 트레이)에 소분하여 냉동실(-18℃ 이하)에 보관하세요. 최대 2개월 동안 맛과 향을 유지하며 안전하게 보관할 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "개봉한 파스타 소스는 냉장고에서 최대 며칠 동안 보관할 수 있나요?",
-                        "answer": "미국 농무부(USDA) 가이드라인에 따르면, 시판 개봉된 토마토 파스타 소스는 냉장(0~4℃) 보관 시 3~5일 이내에 소비하는 것이 가장 안전합니다. 그 이상 보관하려면 반드시 냉동 보관해야 합니다."
-                    },
-                    {
-                        "question": "소스 표면에 살짝 핀 곰팡이를 걷어내고 먹어도 되나요?",
-                        "answer": "절대 안 됩니다! 곰팡이는 눈에 보이는 부분뿐만 아니라 소스 내부 전체에 미세한 균사와 독소를 퍼뜨렸을 가능성이 높습니다. 곰팡이가 발견된 소스는 아깝더라도 전량 폐기해야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Store Pasta Sauce (Marinara): Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for pasta sauce based on official safety guidelines.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Have you ever left leftover tomato pasta sauce in the fridge only to find white mold growing on it a few days later? 🍅\n\nTomato sauce is high in moisture and natural sugars, making it extremely vulnerable to bacteria and mold once opened. Introducing a utensil with saliva or food particles can cause it to spoil in just a day, making proper storage essential.\n\nIn this guide, introduces a scientifically proven 3-step storage guide based on safety guidelines from the USDA, FDA, and MFDS to keep your opened pasta sauce safe and fresh. 🛡️",
-                "whyTitle": "Why Store Pasta Sauce This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never use a utensil contaminated with saliva or food particles ⚠️",
-                        "desc": "Placing a used spoon or a utensil with food residues back into the sauce jar introduces bacteria and moisture, causing mold growth within a day or two even in the fridge. Always use a clean, completely dry spoon when serving."
-                    },
-                    {
-                        "title": "Do not leave opened sauce at room temperature 🌡️",
-                        "desc": "While tomato sauce is acidic, bacteria multiply rapidly at room temperature once opened. Sauce left out during a meal should not be put back into the jar; seal it immediately and refrigerate."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Transfer to an airtight container to minimize air contact — Prevent Secondary Contamination 📦",
-                        "text": "Leaving sauce in its original opened can or jar allows air to enter through the lid and increases contamination risks. 💡 Storage Tip: Transfer the remaining sauce into a clean, dry airtight container (glass or food-grade plastic) and seal tightly. Reducing air exposure preserves freshness longer."
-                    },
-                    {
-                        "name": "Refrigerate deep inside at 0–4°C — Cold Storage (3–5 Days) ❄️",
-                        "text": "Opened pasta sauce cannot be stored at room temperature and must be refrigerated. 💡 Storage Tip: Store it on a deep inner shelf where the temperature remains stable, rather than the door. According to USDA guidelines, consume opened pasta sauce within 3 to 5 days for safety."
-                    },
-                    {
-                        "name": "Portion into single servings and freeze — Freezer Storage (2 Months) 🧊",
-                        "text": "If you cannot finish it within 3–5 days or have a large batch, freezing is the best option. 💡 Storage Tip: Portion the sauce into single-serving airtight containers, Ziploc bags, or silicone ice cube trays and freeze below -18°C. It can be safely stored for up to 2 months while maintaining flavor."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "How many days can opened pasta sauce be stored in the refrigerator?",
-                        "answer": "According to USDA guidelines, opened commercial tomato pasta sauce should be consumed within 3 to 5 days when stored in the refrigerator (0–4°C). For longer storage, it must be frozen."
-                    },
-                    {
-                        "question": "Is it safe to scoop off a little mold on the surface and eat the rest?",
-                        "answer": "Absolutely not! Mold roots and toxins often spread deep throughout the sauce even if you only see spots on top. If mold is detected, discard the entire jar for safety."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "パスタソース（トマトソース）を新鮮に保持する保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づきパスタソースの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
-                "intro": "残ったトマトパスタソースを瓶のまま冷蔵庫に入れておいたら、数日後に白いカビが生えて捨てた経験はありませんか？🍅\n\nトマトソースは水分や糖分が多く、開封後に空気中の細菌やカビに晒されると非常に早く腐敗します。特に唾液や異物が混ざったスプーンをそのまま入れると一日で変質することもあるため、正しい保存法が不可欠です。\n\n本記事では、米国農務省（USDA）、FDA、食品医薬品安全処（MFDS）などのガイドラインに基づき、開封したパスタソースを安全かつ新鮮に保つ3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "唾液や異物のついたスプーンは絶対に使用しないでください ⚠️",
-                        "desc": "食べたスプーンや他の食材がついた道具をソース瓶に入れると、細菌や水分が入り込み、冷蔵保存しても1〜2日でカビが生えてきます。ソースを取り分ける際は必ず完全に清潔で乾いたスプーンを使用してください。"
-                    },
-                    {
-                        "title": "開封したソースを常温で放置しないでください 🌡️",
-                        "desc": "トマトソースは酸度がありますが、一度開封されると室温で細菌が急激に増殖します。食事中に常温で長時間放置されたソースは瓶に戻さず、すぐに密閉して冷蔵庫に入れてください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "密閉容器に移し替えて空気を最小限に抑える — 二次汚染の防止 📦",
-                        "text": "ガラス瓶や缶に残ったソースをそのままにしておくと、フタの隙間から空気が入り込み、汚染リスクが高まります。💡保存のコツ：清潔で乾燥した密閉容器（ガラスまたはプラスチック）に残りのソースを移し替え、フタをしっかり閉めてください。空気に触れる面積を減らすことで鮮度が長持ちします。"
-                    },
-                    {
-                        "name": "0〜4℃の冷蔵庫の奥深くに保存する — 冷蔵保存 (3〜5日間) ❄️",
-                        "text": "開封したパスタソースは常温保存ができず、必ず冷蔵保存する必要があります。💡保存のコツ：温度変化の激しいドアポケットではなく、温度が一定に保たれる冷蔵室の奥（0〜4℃）に保存してください。USDAガイドラインに基づき、開封後3〜5日以内に消費するのが安全です。"
-                    },
-                    {
-                        "name": "1回分ずつ小分けにして冷凍保存する — 冷凍保存 (2ヶ月間) 🧊",
-                        "text": "3〜5日以内に食べ切れない場合や、大容量で余った場合は冷凍保存が最適です。💡保存のコツ：1回分の量ずつ密閉容器やジッパーバッグ（またはシリコン製アイストレイ）に小分けし、冷凍室（-18℃以下）で保存してください。最大2ヶ月間、風味を損なわず安全に保存できます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "開封したパスタソースは冷蔵庫で最大何日間保存できますか？",
-                        "answer": "米国農務省（USDA）のガイドラインによると、市販の開封済みトマトパスタソースは冷蔵（0〜4℃）保存で3〜5日以内に消費するのが最も安全です。それ以上保存する場合は必ず冷凍保存してください。"
-                    },
-                    {
-                        "question": "ソースの表面に生えたカビをスプーンで取り除けば食べても大丈夫ですか？",
-                        "answer": "絶対にダメです！カビは目に見える部分だけでなく、ソースの内部全体に微小な菌糸や毒素を広げている可能性が高いです。カビが見つかった場合はもったいなくても全量廃棄してください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持意大利面酱（番茄酱）新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解意大利面酱的最佳储存温度、方式和保鲜时长。",
-                "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "您是否曾将吃剩的番茄意面酱连瓶带罐塞进冰箱，几天后却发现上面长了白毛霉菌而只能丢掉？🍅\n\n番茄酱含有大量水分和糖分，开封后一旦接触空气中的细菌和霉菌极易腐败。特别是如果用沾有唾液或杂质的勺子直接舀取，甚至可能在一天内变质，因此掌握正确的储存方法至关重要。\n\n本指南将基于美国农务部(USDA)、FDA和韩国食品医药品安全处(MFDS)的安全指南，为您带来3步科学保存秘诀，帮您安全、新鲜地储存开封后的意面酱。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "切勿使用沾有唾液或杂质的勺子 ⚠️",
-                        "desc": "将用过的勺子或带有食物残渣的工具伸入酱瓶中，会带入细菌和水分，即使冷藏也会在短短一两天内发霉。每次舀取酱料时，务必使用完全干净且干燥的勺子。"
-                    },
-                    {
-                        "title": "切勿将开封后的酱料室温放置 🌡️",
-                        "desc": "虽然番茄酱具有一定酸度，但开封后在室温下细菌会迅速繁殖。用餐时在室温下放置过久的酱料切勿倒回原瓶，应立即密封冷藏。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "换入密封容器中以减少空气接触 — 防止二次污染 📦",
-                        "text": "将酱料留在原装开封的玻璃瓶或罐头中，空气容易通过瓶盖缝隙渗入，增加污染风险。💡储存小贴士：将剩余酱料转移至干净、干燥的密封容器（玻璃或食品级塑料）中并拧紧瓶盖。减少空气接触能更长时间保持新鲜度。"
-                    },
-                    {
-                        "name": "存放于0~4℃冰箱内部深处 — 冷藏储存 (3~5天) ❄️",
-                        "text": "开封后的意面酱无法常温保存，必须冷藏。💡储存小贴士：存放在温度波动较小的冰箱内侧深处（0~4℃），而不是温度不稳定的冰箱门侧。根据USDA指南，开封后建议在3至5天内食用完毕。"
-                    },
-                    {
-                        "name": "单次分量分装冷冻 — 冷冻保存 (2个月) 🧊",
-                        "text": "如果无法在3~5天内吃完或分量较多，冷冻是最佳选择。💡储存小贴士：按单次食用分量将酱料装入密封盒、自封袋或硅胶冰格中，置于冷冻室（-18℃以下）保存。最多可安全保存2个月并保持良好风味。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "开封后的意大利面酱在冰箱里最多可以保存几天？",
-                        "answer": "根据美国农务部(USDA)指南，市售开封后的番茄意面酱在冷藏（0~4℃）条件下，最安全是在3至5天内食用完毕。若要保存更长时间，必须冷冻。"
-                    },
-                    {
-                        "question": "酱料表面长了一点点霉菌，刮掉后还能吃吗？",
-                        "answer": "绝对不能！霉菌不仅存在于表面肉眼可见的地方，其菌丝和毒素很可能已经渗透到酱料内部。如果发现霉菌，哪怕觉得可惜也必须整瓶丢弃。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener la salsa para pasta (marinara) fresca: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la salsa para pasta según las directrices oficiales de seguridad.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "¿Alguna vez dejó salsa de tomate sobrante en el refrigerador y, a los pocos días, descubrió que le había crecido moho blanco? 🍅\n\nLa salsa de tomate tiene un alto contenido de humedad y azúcares, lo que la hace muy vulnerable a las bacterias y al moho una vez abierta. Introducir una cuchara con saliva o restos de comida puede hacer que se eche a perder en apenas un día, por lo que un almacenamiento adecuado es fundamental.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por el USDA, la FDA y el MFDS para mantener su salsa para pasta abierta segura y fresca. 🛡️",
-                "whyTitle": "¿Por qué almacenarla así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Nunca use utensilios contaminados con saliva o restos de comida ⚠️",
-                        "desc": "Meter una cuchara usada o con residuos en el frasco introduce bacterias y humedad, provocando el crecimiento de moho en uno o dos días, incluso en el refrigerador. Utilice siempre una cuchara limpia y totalmente seca al servir."
-                    },
-                    {
-                        "title": "No deje la salsa abierta a temperatura ambiente 🌡️",
-                        "desc": "Aunque la salsa de tomate es ácida, las bacterias se multiplican rápidamente a temperatura ambiente una vez abierta. La salsa que se deje fuera durante una comida no debe devolverse al frasco; séllela inmediatamente y refrigérela."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Transfiera a un recipiente hermético para minimizar el contacto con el aire — Prevención de contaminación 📦",
-                        "text": "Dejar la salsa en su lata o frasco original abierto permite la entrada de aire y aumenta el riesgo de contaminación. 💡 Consejo de almacenamiento: Pase la salsa restante a un recipiente hermético limpio y seco (de vidrio o plástico apto para alimentos) y cierre bien. Reducir la exposición al aire preserva su frescura."
-                    },
-                    {
-                        "name": "Refrigere en la parte más fría del refrigerador (0 a 4 °C) — Almacenamiento (3 a 5 días) ❄️",
-                        "text": "La salsa para pasta abierta no se puede guardar a temperatura ambiente y debe refrigerarse. 💡 Consejo de almacenamiento: Guárdela en el fondo del estante interior, donde la temperatura es estable, en lugar de la puerta. Según las directrices del USDA, consuma la salsa abierta en un plazo de 3 a 5 días por seguridad."
-                    },
-                    {
-                        "name": "Porcione en porciones individuales y congele — Conservación (2 meses) 🧊",
-                        "text": "Si no puede terminarla en 3 a 5 días o tiene una gran cantidad, congelarla es la solución ideal. 💡 Consejo de almacenamiento: Porcione la salsa en recipientes herméticos individuales, bolsas Ziploc o bandejas de cubitos de hielo de silicona, y congele a menos de -18 °C. Se conservará segura hasta por 2 meses manteniendo su sabor."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Cuántos días se puede conservar la salsa para pasta abierta en el refrigerador?",
-                        "answer": "Según las directrices del USDA, la salsa de tomate comercial abierta debe consumirse dentro de los 3 a 5 días posteriores si se almacena en el refrigerador (0-4 °C). Para un almacenamiento prolongado, debe congelarse."
-                    },
-                    {
-                        "question": "¿Es seguro retirar un poco de moho de la superficie y comer el resto de la salsa?",
-                        "answer": "¡Absolutamente no! Las raíces del moho y las toxinas a menudo se extienden profundamente por toda la salsa, incluso si solo se ve en la superficie. Si detecta moho, deseche todo el frasco por seguridad."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver la sauce pour pâtes (marinara) fraîche : Guide scientifique",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la sauce pour pâtes selon les directives officielles de sécurité.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Avez-vous déjà laissé un reste de sauce tomate dans son bocal au réfrigérateur pour y découvrir quelques jours plus tard de la moisissure blanche ? 🍅\n\nLa sauce tomate est riche en humidité et en sucres, ce qui la rend très vulnérable aux bactéries et aux moisissures une fois ouverte. Y plonger une cuillère souillée de salive ou de restes alimentaires peut la faire tourner en un seul jour, d'où l'importance d'un stockage rigoureux.\n\nDans ce guide, vous présente un guide scientifique en 3 étapes basé sur les recommandations du USDA, de la FDA et du MFDS pour conserver votre sauce ouverte en toute sécurité. 🛡️",
-                "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "N'utilisez jamais d'ustensiles souillés par de la salive ou des aliments ⚠️",
-                        "desc": "Mettre une cuillère déjà utilisée ou comportant des résidus dans le pot introduit des bactéries et de l'humidité, provoquant l'apparition de moisissures en un ou deux jours, même au frais. Utilisez toujours une cuillère propre et parfaitement sèche."
-                    },
-                    {
-                        "title": "Ne laissez pas la sauce ouverte à température ambiante 🌡️",
-                        "desc": "Bien que la sauce tomate soit acide, les bactéries s'y multiplient rapidement à température ambiante après ouverture. La sauce restée sur la table pendant le repas ne doit pas être remise dans le bocal ; fermez-la immédiatement et mettez-la au réfrigérateur."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Transférer dans un contenant hermétique pour minimiser l'air — Éviter la contamination 📦",
-                        "text": "Laisser la sauce dans sa boîte ou son bocal d'origine ouvert permet à l'air de s'infiltrer et augmente les risques de contamination. 💡 Astuce de conservation : Transvasez la sauce restante dans un récipient hermétique propre et sec (en verre ou plastique alimentaire) et fermez bien. Réduire l'exposition à l'air préserve sa fraîcheur."
-                    },
-                    {
-                        "name": "Réfrigérer au fond du réfrigérateur (0 à 4 °C) — Stockage (3 à 5 jours) ❄️",
-                        "text": "La sauce ouverte ne se conserve pas à température ambiante et doit impérativement aller au frais. 💡 Astuce de conservation : Placez-la sur une étagère intérieure au fond du frigo, où la température est stable, plutôt que dans la porte. Selon les directives du USDA, consommez-la dans les 3 à 5 jours."
-                    },
-                    {
-                        "name": "Portionner et congeler pour une longue conservation — Stockage (2 mois) 🧊",
-                        "text": "Si vous ne pouvez pas la finir en 3 à 5 jours ou s'il en reste une grande quantité, la congélation est la solution. 💡 Astuce de conservation : Répartissez la sauce en portions individuelles dans des contenants hermétiques, des sacs de congélation ou des bacs à glaçons en silicone, et congelez à -18 °C. Elle se conservera en toute sécurité jusqu'à 2 mois."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Combien de jours peut-on conserver de la sauce pour pâtes ouverte au réfrigérateur ?",
-                        "answer": "Selon les directives du USDA, la sauce tomate du commerce ouverte doit être consommée dans les 3 à 5 jours lorsqu'elle est conservée au réfrigérateur (0–4 °C). Pour une plus longue conservation, il faut la congeler."
-                    },
-                    {
-                        "question": "Est-il sûr d'enlever un peu de moisissure à la surface et de manger le reste de la sauce ?",
-                        "answer": "Absolument pas ! Les racines de la moisissure et les toxines se propagent profondément dans toute la sauce, même si elles ne sont visibles qu'en surface. En présence de moisissure, jetez tout le pot."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Pastasauce (Tomatensoße) richtig frisch halten: Wissenschaftlicher Ratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Pastasauce basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Haben Sie schon einmal übrig gebliebene Tomatensoße im Glas im Kühlschrank stehen lassen, nur um Tage später weißen Schimmel darauf zu entdecken? 🍅\n\nTomatensoße hat einen hohen Feuchtigkeits- und Zuckergehalt, wodurch sie nach dem Öffnen extrem anfällig für Bakterien und Schimmel ist. Das Eintauchen eines Löffels mit Speichel oder Essensresten kann dazu führen, dass sie innerhalb eines Tages verdirbt, weshalb eine richtige Aufbewahrung unerlässlich ist.\n\nHeute stellt Ihnen  einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von USDA, FDA und MFDS basiert, um Ihre geöffnete Pastasauce sicher und frisch zu halten. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Verwenden Sie niemals Besteck mit Speichel- oder Essensresten ⚠️",
-                        "desc": "Das Hineinstechen eines benutzten Löffels oder von Werkzeugen mit Rückständen bringt Bakterien und Feuchtigkeit in das Glas, was selbst im Kühlschrank innerhalb von ein bis zwei Tagen zu Schimmelbildung führt. Nutzen Sie zum Entnehmen stets einen sauberen, völlig trockenen Löffel."
-                    },
-                    {
-                        "title": "Lassen Sie geöffnete Soße nicht bei Raumtemperatur stehen 🌡️",
-                        "desc": "Obwohl Tomatensoße säurehaltig ist, vermehren sich Bakterien nach dem Öffnen bei Raumtemperatur rasant. Während des Essens länger draußen stehende Soße sollte nicht zurück ins Glas gegeben, sondern sofort versiegelt und gekühlt werden."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "In einen luftdichten Behälter umfüllen und Luftkontakt minimieren — Kontamination verhindern 📦",
-                        "text": "Lässt man die Soße in der geöffneten Originalverpackung, kann durch den Deckel Luft eindringen und das Risiko einer Verunreinigung steigt. 💡 Lagerungstipp: Füllen Sie die restliche Soße in einen sauberen, trockenen luftdichten Behälter (Glas oder lebensmittelechter Kunststoff) um und verschließen Sie ihn fest. Weniger Luftkontakt bewahrt die Frische."
-                    },
-                    {
-                        "name": "Tief im Kühlschrank bei 0–4 °C lagern — Kühllagerung (3–5 Tage) ❄️",
-                        "text": "Geöffnete Pastasauce kann nicht bei Raumtemperatur aufbewahrt werden und muss zwingend gekühlt werden. 💡 Lagerungstipp: Lagern Sie sie im hinteren Bereich des Hauptfachs, wo die Temperatur stabil ist, statt in der Kühlschranktür. Gemäß USDA-Richtlinien sollten geöffnete Soßen innerhalb von 3 bis 5 Tagen verbraucht werden."
-                    },
-                    {
-                        "name": "In Einzelportionen teilen und einfrieren — Gefrierlagerung (2 Monate) 🧊",
-                        "text": "Wenn Sie sie nicht innerhalb von 3–5 Tagen aufbrauchen können oder eine große Menge übrig haben, ist Einfrieren die beste Wahl. 💡 Lagerungstipp: Portionieren Sie die Soße in auslaufsichere Behälter, Ziploc-Beutel oder Silikon-Eiswürfelbereiter und frieren Sie sie bei unter -18 °C ein. So ist sie bis zu 2 Monate sicher haltbar und behält ihren Geschmack."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Wie viele Tage kann geöffnete Pastasauce im Kühlschrank aufbewahrt werden?",
-                        "answer": "Laut USDA-Richtlinien sollte kommerzielle, geöffnete Tomatenpastasauce bei Kühllagerung (0–4 °C) innerhalb von 3 bis 5 Tagen verbraucht werden. Für eine längere Aufbewahrung muss sie eingefroren werden."
-                    },
-                    {
-                        "question": "Ist es sicher, ein wenig Schimmel an der Oberfläche abzuheben und den Rest zu essen?",
-                        "answer": "Absolut nicht! Schimmelwurzeln und Toxine breiten sich oft tief in der gesamten Soße aus, auch wenn man sie nur an der Oberfläche sieht. Bei Schimmelbefall muss das ganze Glas entsorgt werden."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar molho para massa (marinara) fresco: Guia científico",
-                "description": "Descubra a temperatura, o método e o tempo de conservação ideais para o molho de tomate com base em diretrizes oficiais de segurança.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Você já deixou sobra de molho de tomate na geladeira e descobriu, dias depois, que ele estava mofado? 🍅\n\nO molho de tomate possui alta umidade e açúcares, tornando-se altamente vulnerável a bactérias e fungos após aberto. Introduzir uma colher com saliva ou resíduos de alimentos pode fazê-lo estragar em apenas um dia, tornando o armazenamento correto essencial.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado nas diretrizes do USDA, FDA e MFDS para manter seu molho aberto seguro e fresco. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Compreender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Regras essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca use utensílios contaminados com saliva ou restos de comida ⚠️",
-                        "desc": "Colocar uma colher usada ou com resíduos de comida no pote introduz bactérias e umidade, provocando o surgimento de mofo em um ou dois dias, mesmo na geladeira. Use sempre uma colher limpa e totalmente seca ao servir."
-                    },
-                    {
-                        "title": "Não deixe o molho aberto em temperatura ambiente 🌡️",
-                        "desc": "Embora o molho de tomate seja ácido, as bactérias se multiplicam rapidamente à temperatura ambiente após aberto. O molho que ficar fora durante a refeição não deve voltar para o pote; sele-o imediatamente e leve à geladeira."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Transfira para um recipiente hermético para minimizar o contato com o ar — Evite contaminação 📦",
-                        "text": "Deixar o molho na lata ou frasco original aberto permite a entrada de ar e aumenta o risco de contaminação. 💡 Dica de conservação: Passe o molho restante para um recipiente hermético limpo e seco (vidro ou plástico próprio) e feche bem. Reduzir a exposição ao ar preserva o frescor."
-                    },
-                    {
-                        "name": "Refrigere na parte mais fria da geladeira (0 a 4 °C) — Armazenamento (3 a 5 dias) ❄️",
-                        "text": "O molho para massa aberto não pode ser guardado à temperatura ambiente e deve ser refrigerado. 💡 Dica de conservação: Guarde-o no fundo da prateleira interna, onde a temperatura é estável, em vez da porta. Segundo as diretrizes do USDA, consuma o molho aberto em um prazo de 3 a 5 dias por segurança."
-                    },
-                    {
-                        "name": "Porcione em porções individuais e congele — Conservação (2 meses) 🧊",
-                        "text": "Se não puder consumi-lo em 3 a 5 dias ou se tiver uma grande quantidade, congelá-lo é a melhor opção. 💡 Dica de conservação: Divida o molho em recipientes herméticos individuais, sacos Ziploc ou bandejas de gelo de silicone, e congele a menos de -18 °C. Ele pode ser armazenado com segurança por até 2 meses mantendo o sabor."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Quantos dias o molho para massa aberto pode ser mantido na geladeira?",
-                        "answer": "Segundo as diretrizes do USDA, o molho de tomate comercial aberto deve ser consumido dentro de 3 a 5 dias quando armazenado na geladeira (0–4 °C). Para armazenamento prolongado, ele deve ser congelado."
-                    },
-                    {
-                        "question": "É seguro remover um pouco de mofo da superfície e comer o resto do molho?",
-                        "answer": "Absolutamente não! As raízes do mofo e as toxinas costumam se espalhar profundamente por todo o molho, mesmo que só sejam visíveis na superfície. Se detectar mofo, descarte o pote inteiro por segurança."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Saus Pasta (Marinara) agar Tetap Segar: Panduan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk saus pasta berdasarkan pedoman keselamatan resmi.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Pernahkah Anda menyimpan sisa saus pasta tomat di dalam toples di kulkas lalu mendapati jamur putih tumbuh di atasnya beberapa hari kemudian? 🍅\n\nSaus tomat memiliki kadar air dan gula yang tinggi, menjadikannya sangat rentan terhadap bakteri dan jamur setelah dibuka. Memasukkan sendok yang terkena air liur atau sisa makanan dapat membuatnya basi hanya dalam waktu sehari, sehingga penyimpanan yang benar sangat penting.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman keselamatan dari USDA, FDA, dan MFDS untuk menjaga saus pasta yang sudah dibuka tetap aman dan segar. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan pernah menggunakan sendok yang terkontaminasi air liur atau makanan ⚠️",
-                        "desc": "Memasukkan sendok bekas atau alat yang mengandung sisa makanan ke dalam toples saus akan memasukkan bakteri dan kelembapan, menyebabkan tumbuhnya jamur dalam waktu 1-2 hari meskipun di dalam kulkas. Selalu gunakan sendok yang bersih dan benar-benar kering."
-                    },
-                    {
-                        "title": "Jangan biarkan saus yang sudah dibuka di suhu ruang 🌡️",
-                        "desc": "Meskipun saus tomat bersifat asam, bakteri berkembang biak dengan cepat pada suhu ruang setelah dibuka. Saus yang dibiarkan di luar meja makan terlalu lama tidak boleh dimasukkan kembali ke dalam toples; segera tutup rapat dan masukkan ke kulkas."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Pindahkan ke wadah kedap udara untuk meminimalkan kontak udara — Cegah Kontaminasi 📦",
-                        "text": "Membiarkan saus di dalam kaleng atau botol aslinya yang sudah terbuka memudahkan udara masuk dan meningkatkan risiko kontaminasi. 💡 Tips Penyimpanan: Pindahkan sisa saus ke wadah kedap udara yang bersih dan kering (kaca atau plastik food grade) lalu tutup rapat. Mengurangi paparan udara menjaga kesegaran lebih lama."
-                    },
-                    {
-                        "name": "Simpan di bagian dalam kulkas pada suhu 0–4°C — Penyimpanan Dingin (3–5 Hari) ❄️",
-                        "text": "Saus pasta yang sudah dibuka tidak dapat disimpan di suhu ruang dan harus didinginkan. 💡 Tips Penyimpanan: Simpan di rak bagian dalam yang suhunya stabil, bukan di rak pintu kulkas. Berdasarkan pedoman USDA, konsumsi saus pasta yang sudah dibuka dalam waktu 3 hingga 5 hari demi keamanan."
-                    },
-                    {
-                        "name": "Porsi ke dalam wadah kecil lalu bekukan — Simpan Beku (2 Bulan) 🧊",
-                        "text": "Jika Anda tidak dapat menghabiskannya dalam 3–5 hari atau memiliki porsi yang besar, membekukannya adalah pilihan terbaik. 💡 Tips Penyimpanan: Bagi saus ke dalam wadah kedap udara kecil, kantong Ziploc, atau cetakan es batu silikon, lalu bekukan di bawah suhu -18°C. Saus dapat disimpan dengan aman hingga 2 bulan tanpa kehilangan rasa."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Berapa hari saus pasta yang sudah dibuka dapat disimpan di dalam kulkas?",
-                        "answer": "Menurut pedoman USDA, saus pasta tomat komersial yang sudah dibuka harus dikonsumsi dalam waktu 3 hingga 5 hari jika disimpan di dalam kulkas (0–4°C). Untuk penyimpanan lebih lama, saus harus dibekukan."
-                    },
-                    {
-                        "question": "Apakah aman jika saya mengeruk sedikit jamur di permukaannya lalu memakan sisanya?",
-                        "answer": "Sama sekali tidak! Akar jamur dan toksin seringkali telah menyebar jauh ke dalam seluruh bagian saus meskipun jamur hanya terlihat di permukaan. Jika ditemukan jamur, buang seluruh toples demi keselamatan."
-                    }
-                ]
-            }
-        }
+  "how-to-store-pasta-sauce": {
+    "ingId": "pasta-sauce",
+    "pubDate": "2026-01-31",
+    "updatedDate": "2026-01-31",
+    "heroImage": "/images/blog/pasta_sauce_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "파스타 소스(토마토 소스) 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 파스타 소스의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
+        "intro": "먹다 남은 토마토 파스타 소스를 병째로 냉장고에 넣어두었다가 며칠 뒤 하얀 곰팡이가 피어 버린 적 있으시죠? 🍅\n\n토마토 소스는 수분과 당분이 많아 개봉 후 공기 중의 세균이나 곰팡이에 노출되면 매우 빠르게 부패합니다. 특히 침이나 이물질이 섞인 스푼을 그대로 넣으면 하루만에 변질될 수 있어 올바른 보관법이 필수적입니다.\n\n이번 가이드에서는 미국 농무부(USDA)와 식품의약품안전처(MFDS) 등의 안전 가이드라인을 바탕으로, 개봉한 파스타 소스를 안전하고 신선하게 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "침이나 이물질이 묻은 스푼을 절대 사용하지 마세요 ⚠️",
+            "desc": "먹던 스푼이나 다른 음식이 묻은 도구를 소스 병에 넣으면 세균과 침이 유입되어 냉장 보관하더라도 하루이틀 만에 곰팡이가 피어오릅니다. 소스를 덜어낼 때는 반드시 완전히 깨끗하고 마른 스푼을 사용하세요."
+          },
+          {
+            "title": "개봉한 소스를 상온에 방치하지 마세요 🌡️",
+            "desc": "토마토 소스는 산도가 높지만 일단 개봉되면 실온에서 세균이 급격히 증식합니다. 식사 중 상온에 오래 방치된 소스는 병에 다시 넣지 말고 즉시 밀폐하여 냉장고에 넣어야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "밀폐 용기에 덜어 담아 공기 접촉 최소화하기 — 2차 오염 방지 📦",
+            "text": "유리 병이나 캔에 남은 소스를 그대로 두면 뚜껑 틈새로 공기가 유입되고 오염 위험이 커집니다. 💡 보관 팁: 깨끗하고 건조한 밀폐 용기(유리 또는 밀폐 플라스틱)에 먹을 만큼 혹은 남은 소스를 옮겨 담고 뚜껑을 꽉 닫아주세요. 공기와의 접촉을 줄여야 신선도가 오래 유지됩니다."
+          },
+          {
+            "name": "0~4℃ 냉장고 안쪽 깊은 곳에 보관하기 — 냉장 보관 (3~5일) ❄️",
+            "text": "개봉한 파스타 소스는 상온 보관이 불가하며 반드시 냉장 보관해야 합니다. 💡 보관 팁: 온도 변화가 심한 냉장고 문 쪽보다는 온도가 일정하게 유지되는 냉장실 안쪽 깊은 곳(0~4℃)에 보관하세요. USDA 가이드라인에 따라 개봉 후 3~5일 이내에 소비하는 것이 안전합니다."
+          },
+          {
+            "name": "1회용 분량으로 소분하여 냉동 보관하기 — 냉동 보관 (2달) 🧊",
+            "text": "3~5일 내에 다 먹기 힘들거나 대용량으로 남았을 때는 냉동 보관이 정답입니다. 💡 보관 팁: 1회 먹을 분량씩 밀폐용기나 지퍼백(또는 실리콘 얼음 트레이)에 소분하여 냉동실(-18℃ 이하)에 보관하세요. 최대 2개월 동안 맛과 향을 유지하며 안전하게 보관할 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "개봉한 파스타 소스는 냉장고에서 최대 며칠 동안 보관할 수 있나요?",
+            "answer": "미국 농무부(USDA) 가이드라인에 따르면, 시판 개봉된 토마토 파스타 소스는 냉장(0~4℃) 보관 시 3~5일 이내에 소비하는 것이 가장 안전합니다. 그 이상 보관하려면 반드시 냉동 보관해야 합니다."
+          },
+          {
+            "question": "소스 표면에 살짝 핀 곰팡이를 걷어내고 먹어도 되나요?",
+            "answer": "절대 안 됩니다! 곰팡이는 눈에 보이는 부분뿐만 아니라 소스 내부 전체에 미세한 균사와 독소를 퍼뜨렸을 가능성이 높습니다. 곰팡이가 발견된 소스는 아깝더라도 전량 폐기해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Store Pasta Sauce (Marinara): Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for pasta sauce based on official safety guidelines.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Have you ever left leftover tomato pasta sauce in the fridge only to find white mold growing on it a few days later? 🍅\n\nTomato sauce is high in moisture and natural sugars, making it extremely vulnerable to bacteria and mold once opened. Introducing a utensil with saliva or food particles can cause it to spoil in just a day, making proper storage essential.\n\nIn this guide, introduces a scientifically proven 3-step storage guide based on safety guidelines from the USDA, FDA, and MFDS to keep your opened pasta sauce safe and fresh. 🛡️",
+        "whyTitle": "Why Store Pasta Sauce This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never use a utensil contaminated with saliva or food particles ⚠️",
+            "desc": "Placing a used spoon or a utensil with food residues back into the sauce jar introduces bacteria and moisture, causing mold growth within a day or two even in the fridge. Always use a clean, completely dry spoon when serving."
+          },
+          {
+            "title": "Do not leave opened sauce at room temperature 🌡️",
+            "desc": "While tomato sauce is acidic, bacteria multiply rapidly at room temperature once opened. Sauce left out during a meal should not be put back into the jar; seal it immediately and refrigerate."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Transfer to an airtight container to minimize air contact — Prevent Secondary Contamination 📦",
+            "text": "Leaving sauce in its original opened can or jar allows air to enter through the lid and increases contamination risks. 💡 Storage Tip: Transfer the remaining sauce into a clean, dry airtight container (glass or food-grade plastic) and seal tightly. Reducing air exposure preserves freshness longer."
+          },
+          {
+            "name": "Refrigerate deep inside at 0–4°C — Cold Storage (3–5 Days) ❄️",
+            "text": "Opened pasta sauce cannot be stored at room temperature and must be refrigerated. 💡 Storage Tip: Store it on a deep inner shelf where the temperature remains stable, rather than the door. According to USDA guidelines, consume opened pasta sauce within 3 to 5 days for safety."
+          },
+          {
+            "name": "Portion into single servings and freeze — Freezer Storage (2 Months) 🧊",
+            "text": "If you cannot finish it within 3–5 days or have a large batch, freezing is the best option. 💡 Storage Tip: Portion the sauce into single-serving airtight containers, Ziploc bags, or silicone ice cube trays and freeze below -18°C. It can be safely stored for up to 2 months while maintaining flavor."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "How many days can opened pasta sauce be stored in the refrigerator?",
+            "answer": "According to USDA guidelines, opened commercial tomato pasta sauce should be consumed within 3 to 5 days when stored in the refrigerator (0–4°C). For longer storage, it must be frozen."
+          },
+          {
+            "question": "Is it safe to scoop off a little mold on the surface and eat the rest?",
+            "answer": "Absolutely not! Mold roots and toxins often spread deep throughout the sauce even if you only see spots on top. If mold is detected, discard the entire jar for safety."
+          }
+        ]
+      },
+      "ja": {
+        "title": "パスタソース（トマトソース）を新鮮に保持する保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づきパスタソースの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
+        "intro": "残ったトマトパスタソースを瓶のまま冷蔵庫に入れておいたら、数日後に白いカビが生えて捨てた経験はありませんか？🍅\n\nトマトソースは水分や糖分が多く、開封後に空気中の細菌やカビに晒されると非常に早く腐敗します。特に唾液や異物が混ざったスプーンをそのまま入れると一日で変質することもあるため、正しい保存法が不可欠です。\n\n本記事では、米国農務省（USDA）、FDA、食品医薬品安全処（MFDS）などのガイドラインに基づき、開封したパスタソースを安全かつ新鮮に保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "唾液や異物のついたスプーンは絶対に使用しないでください ⚠️",
+            "desc": "食べたスプーンや他の食材がついた道具をソース瓶に入れると、細菌や水分が入り込み、冷蔵保存しても1〜2日でカビが生えてきます。ソースを取り分ける際は必ず完全に清潔で乾いたスプーンを使用してください。"
+          },
+          {
+            "title": "開封したソースを常温で放置しないでください 🌡️",
+            "desc": "トマトソースは酸度がありますが、一度開封されると室温で細菌が急激に増殖します。食事中に常温で長時間放置されたソースは瓶に戻さず、すぐに密閉して冷蔵庫に入れてください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "密閉容器に移し替えて空気を最小限に抑える — 二次汚染の防止 📦",
+            "text": "ガラス瓶や缶に残ったソースをそのままにしておくと、フタの隙間から空気が入り込み、汚染リスクが高まります。💡保存のコツ：清潔で乾燥した密閉容器（ガラスまたはプラスチック）に残りのソースを移し替え、フタをしっかり閉めてください。空気に触れる面積を減らすことで鮮度が長持ちします。"
+          },
+          {
+            "name": "0〜4℃の冷蔵庫の奥深くに保存する — 冷蔵保存 (3〜5日間) ❄️",
+            "text": "開封したパスタソースは常温保存ができず、必ず冷蔵保存する必要があります。💡保存のコツ：温度変化の激しいドアポケットではなく、温度が一定に保たれる冷蔵室の奥（0〜4℃）に保存してください。USDAガイドラインに基づき、開封後3〜5日以内に消費するのが安全です。"
+          },
+          {
+            "name": "1回分ずつ小分けにして冷凍保存する — 冷凍保存 (2ヶ月間) 🧊",
+            "text": "3〜5日以内に食べ切れない場合や、大容量で余った場合は冷凍保存が最適です。💡保存のコツ：1回分の量ずつ密閉容器やジッパーバッグ（またはシリコン製アイストレイ）に小分けし、冷凍室（-18℃以下）で保存してください。最大2ヶ月間、風味を損なわず安全に保存できます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "開封したパスタソースは冷蔵庫で最大何日間保存できますか？",
+            "answer": "米国農務省（USDA）のガイドラインによると、市販の開封済みトマトパスタソースは冷蔵（0〜4℃）保存で3〜5日以内に消費するのが最も安全です。それ以上保存する場合は必ず冷凍保存してください。"
+          },
+          {
+            "question": "ソースの表面に生えたカビをスプーンで取り除けば食べても大丈夫ですか？",
+            "answer": "絶対にダメです！カビは目に見える部分だけでなく、ソースの内部全体に微小な菌糸や毒素を広げている可能性が高いです。カビが見つかった場合はもったいなくても全量廃棄してください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持意大利面酱（番茄酱）新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解意大利面酱的最佳储存温度、方式和保鲜时长。",
+        "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "您是否曾将吃剩的番茄意面酱连瓶带罐塞进冰箱，几天后却发现上面长了白毛霉菌而只能丢掉？🍅\n\n番茄酱含有大量水分和糖分，开封后一旦接触空气中的细菌和霉菌极易腐败。特别是如果用沾有唾液或杂质的勺子直接舀取，甚至可能在一天内变质，因此掌握正确的储存方法至关重要。\n\n本指南将基于美国农务部(USDA)、FDA和韩国食品医药品安全处(MFDS)的安全指南，为您带来3步科学保存秘诀，帮您安全、新鲜地储存开封后的意面酱。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "切勿使用沾有唾液或杂质的勺子 ⚠️",
+            "desc": "将用过的勺子或带有食物残渣的工具伸入酱瓶中，会带入细菌和水分，即使冷藏也会在短短一两天内发霉。每次舀取酱料时，务必使用完全干净且干燥的勺子。"
+          },
+          {
+            "title": "切勿将开封后的酱料室温放置 🌡️",
+            "desc": "虽然番茄酱具有一定酸度，但开封后在室温下细菌会迅速繁殖。用餐时在室温下放置过久的酱料切勿倒回原瓶，应立即密封冷藏。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "换入密封容器中以减少空气接触 — 防止二次污染 📦",
+            "text": "将酱料留在原装开封的玻璃瓶或罐头中，空气容易通过瓶盖缝隙渗入，增加污染风险。💡储存小贴士：将剩余酱料转移至干净、干燥的密封容器（玻璃或食品级塑料）中并拧紧瓶盖。减少空气接触能更长时间保持新鲜度。"
+          },
+          {
+            "name": "存放于0~4℃冰箱内部深处 — 冷藏储存 (3~5天) ❄️",
+            "text": "开封后的意面酱无法常温保存，必须冷藏。💡储存小贴士：存放在温度波动较小的冰箱内侧深处（0~4℃），而不是温度不稳定的冰箱门侧。根据USDA指南，开封后建议在3至5天内食用完毕。"
+          },
+          {
+            "name": "单次分量分装冷冻 — 冷冻保存 (2个月) 🧊",
+            "text": "如果无法在3~5天内吃完或分量较多，冷冻是最佳选择。💡储存小贴士：按单次食用分量将酱料装入密封盒、自封袋或硅胶冰格中，置于冷冻室（-18℃以下）保存。最多可安全保存2个月并保持良好风味。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "开封后的意大利面酱在冰箱里最多可以保存几天？",
+            "answer": "根据美国农务部(USDA)指南，市售开封后的番茄意面酱在冷藏（0~4℃）条件下，最安全是在3至5天内食用完毕。若要保存更长时间，必须冷冻。"
+          },
+          {
+            "question": "酱料表面长了一点点霉菌，刮掉后还能吃吗？",
+            "answer": "绝对不能！霉菌不仅存在于表面肉眼可见的地方，其菌丝和毒素很可能已经渗透到酱料内部。如果发现霉菌，哪怕觉得可惜也必须整瓶丢弃。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener la salsa para pasta (marinara) fresca: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la salsa para pasta según las directrices oficiales de seguridad.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "¿Alguna vez dejó salsa de tomate sobrante en el refrigerador y, a los pocos días, descubrió que le había crecido moho blanco? 🍅\n\nLa salsa de tomate tiene un alto contenido de humedad y azúcares, lo que la hace muy vulnerable a las bacterias y al moho una vez abierta. Introducir una cuchara con saliva o restos de comida puede hacer que se eche a perder en apenas un día, por lo que un almacenamiento adecuado es fundamental.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por el USDA, la FDA y el MFDS para mantener su salsa para pasta abierta segura y fresca. 🛡️",
+        "whyTitle": "¿Por qué almacenarla así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Nunca use utensilios contaminados con saliva o restos de comida ⚠️",
+            "desc": "Meter una cuchara usada o con residuos en el frasco introduce bacterias y humedad, provocando el crecimiento de moho en uno o dos días, incluso en el refrigerador. Utilice siempre una cuchara limpia y totalmente seca al servir."
+          },
+          {
+            "title": "No deje la salsa abierta a temperatura ambiente 🌡️",
+            "desc": "Aunque la salsa de tomate es ácida, las bacterias se multiplican rápidamente a temperatura ambiente una vez abierta. La salsa que se deje fuera durante una comida no debe devolverse al frasco; séllela inmediatamente y refrigérela."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Transfiera a un recipiente hermético para minimizar el contacto con el aire — Prevención de contaminación 📦",
+            "text": "Dejar la salsa en su lata o frasco original abierto permite la entrada de aire y aumenta el riesgo de contaminación. 💡 Consejo de almacenamiento: Pase la salsa restante a un recipiente hermético limpio y seco (de vidrio o plástico apto para alimentos) y cierre bien. Reducir la exposición al aire preserva su frescura."
+          },
+          {
+            "name": "Refrigere en la parte más fría del refrigerador (0 a 4 °C) — Almacenamiento (3 a 5 días) ❄️",
+            "text": "La salsa para pasta abierta no se puede guardar a temperatura ambiente y debe refrigerarse. 💡 Consejo de almacenamiento: Guárdela en el fondo del estante interior, donde la temperatura es estable, en lugar de la puerta. Según las directrices del USDA, consuma la salsa abierta en un plazo de 3 a 5 días por seguridad."
+          },
+          {
+            "name": "Porcione en porciones individuales y congele — Conservación (2 meses) 🧊",
+            "text": "Si no puede terminarla en 3 a 5 días o tiene una gran cantidad, congelarla es la solución ideal. 💡 Consejo de almacenamiento: Porcione la salsa en recipientes herméticos individuales, bolsas Ziploc o bandejas de cubitos de hielo de silicona, y congele a menos de -18 °C. Se conservará segura hasta por 2 meses manteniendo su sabor."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Cuántos días se puede conservar la salsa para pasta abierta en el refrigerador?",
+            "answer": "Según las directrices del USDA, la salsa de tomate comercial abierta debe consumirse dentro de los 3 a 5 días posteriores si se almacena en el refrigerador (0-4 °C). Para un almacenamiento prolongado, debe congelarse."
+          },
+          {
+            "question": "¿Es seguro retirar un poco de moho de la superficie y comer el resto de la salsa?",
+            "answer": "¡Absolutamente no! Las raíces del moho y las toxinas a menudo se extienden profundamente por toda la salsa, incluso si solo se ve en la superficie. Si detecta moho, deseche todo el frasco por seguridad."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver la sauce pour pâtes (marinara) fraîche : Guide scientifique",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la sauce pour pâtes selon les directives officielles de sécurité.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Avez-vous déjà laissé un reste de sauce tomate dans son bocal au réfrigérateur pour y découvrir quelques jours plus tard de la moisissure blanche ? 🍅\n\nLa sauce tomate est riche en humidité et en sucres, ce qui la rend très vulnérable aux bactéries et aux moisissures une fois ouverte. Y plonger une cuillère souillée de salive ou de restes alimentaires peut la faire tourner en un seul jour, d'où l'importance d'un stockage rigoureux.\n\nDans ce guide, vous présente un guide scientifique en 3 étapes basé sur les recommandations du USDA, de la FDA et du MFDS pour conserver votre sauce ouverte en toute sécurité. 🛡️",
+        "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "N'utilisez jamais d'ustensiles souillés par de la salive ou des aliments ⚠️",
+            "desc": "Mettre une cuillère déjà utilisée ou comportant des résidus dans le pot introduit des bactéries et de l'humidité, provoquant l'apparition de moisissures en un ou deux jours, même au frais. Utilisez toujours une cuillère propre et parfaitement sèche."
+          },
+          {
+            "title": "Ne laissez pas la sauce ouverte à température ambiante 🌡️",
+            "desc": "Bien que la sauce tomate soit acide, les bactéries s'y multiplient rapidement à température ambiante après ouverture. La sauce restée sur la table pendant le repas ne doit pas être remise dans le bocal ; fermez-la immédiatement et mettez-la au réfrigérateur."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Transférer dans un contenant hermétique pour minimiser l'air — Éviter la contamination 📦",
+            "text": "Laisser la sauce dans sa boîte ou son bocal d'origine ouvert permet à l'air de s'infiltrer et augmente les risques de contamination. 💡 Astuce de conservation : Transvasez la sauce restante dans un récipient hermétique propre et sec (en verre ou plastique alimentaire) et fermez bien. Réduire l'exposition à l'air préserve sa fraîcheur."
+          },
+          {
+            "name": "Réfrigérer au fond du réfrigérateur (0 à 4 °C) — Stockage (3 à 5 jours) ❄️",
+            "text": "La sauce ouverte ne se conserve pas à température ambiante et doit impérativement aller au frais. 💡 Astuce de conservation : Placez-la sur une étagère intérieure au fond du frigo, où la température est stable, plutôt que dans la porte. Selon les directives du USDA, consommez-la dans les 3 à 5 jours."
+          },
+          {
+            "name": "Portionner et congeler pour une longue conservation — Stockage (2 mois) 🧊",
+            "text": "Si vous ne pouvez pas la finir en 3 à 5 jours ou s'il en reste une grande quantité, la congélation est la solution. 💡 Astuce de conservation : Répartissez la sauce en portions individuelles dans des contenants hermétiques, des sacs de congélation ou des bacs à glaçons en silicone, et congelez à -18 °C. Elle se conservera en toute sécurité jusqu'à 2 mois."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Combien de jours peut-on conserver de la sauce pour pâtes ouverte au réfrigérateur ?",
+            "answer": "Selon les directives du USDA, la sauce tomate du commerce ouverte doit être consommée dans les 3 à 5 jours lorsqu'elle est conservée au réfrigérateur (0–4 °C). Pour une plus longue conservation, il faut la congeler."
+          },
+          {
+            "question": "Est-il sûr d'enlever un peu de moisissure à la surface et de manger le reste de la sauce ?",
+            "answer": "Absolument pas ! Les racines de la moisissure et les toxines se propagent profondément dans toute la sauce, même si elles ne sont visibles qu'en surface. En présence de moisissure, jetez tout le pot."
+          }
+        ]
+      },
+      "de": {
+        "title": "Pastasauce (Tomatensoße) richtig frisch halten: Wissenschaftlicher Ratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Pastasauce basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Haben Sie schon einmal übrig gebliebene Tomatensoße im Glas im Kühlschrank stehen lassen, nur um Tage später weißen Schimmel darauf zu entdecken? 🍅\n\nTomatensoße hat einen hohen Feuchtigkeits- und Zuckergehalt, wodurch sie nach dem Öffnen extrem anfällig für Bakterien und Schimmel ist. Das Eintauchen eines Löffels mit Speichel oder Essensresten kann dazu führen, dass sie innerhalb eines Tages verdirbt, weshalb eine richtige Aufbewahrung unerlässlich ist.\n\nHeute stellt Ihnen  einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von USDA, FDA und MFDS basiert, um Ihre geöffnete Pastasauce sicher und frisch zu halten. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Verwenden Sie niemals Besteck mit Speichel- oder Essensresten ⚠️",
+            "desc": "Das Hineinstechen eines benutzten Löffels oder von Werkzeugen mit Rückständen bringt Bakterien und Feuchtigkeit in das Glas, was selbst im Kühlschrank innerhalb von ein bis zwei Tagen zu Schimmelbildung führt. Nutzen Sie zum Entnehmen stets einen sauberen, völlig trockenen Löffel."
+          },
+          {
+            "title": "Lassen Sie geöffnete Soße nicht bei Raumtemperatur stehen 🌡️",
+            "desc": "Obwohl Tomatensoße säurehaltig ist, vermehren sich Bakterien nach dem Öffnen bei Raumtemperatur rasant. Während des Essens länger draußen stehende Soße sollte nicht zurück ins Glas gegeben, sondern sofort versiegelt und gekühlt werden."
+          }
+        ],
+        "steps": [
+          {
+            "name": "In einen luftdichten Behälter umfüllen und Luftkontakt minimieren — Kontamination verhindern 📦",
+            "text": "Lässt man die Soße in der geöffneten Originalverpackung, kann durch den Deckel Luft eindringen und das Risiko einer Verunreinigung steigt. 💡 Lagerungstipp: Füllen Sie die restliche Soße in einen sauberen, trockenen luftdichten Behälter (Glas oder lebensmittelechter Kunststoff) um und verschließen Sie ihn fest. Weniger Luftkontakt bewahrt die Frische."
+          },
+          {
+            "name": "Tief im Kühlschrank bei 0–4 °C lagern — Kühllagerung (3–5 Tage) ❄️",
+            "text": "Geöffnete Pastasauce kann nicht bei Raumtemperatur aufbewahrt werden und muss zwingend gekühlt werden. 💡 Lagerungstipp: Lagern Sie sie im hinteren Bereich des Hauptfachs, wo die Temperatur stabil ist, statt in der Kühlschranktür. Gemäß USDA-Richtlinien sollten geöffnete Soßen innerhalb von 3 bis 5 Tagen verbraucht werden."
+          },
+          {
+            "name": "In Einzelportionen teilen und einfrieren — Gefrierlagerung (2 Monate) 🧊",
+            "text": "Wenn Sie sie nicht innerhalb von 3–5 Tagen aufbrauchen können oder eine große Menge übrig haben, ist Einfrieren die beste Wahl. 💡 Lagerungstipp: Portionieren Sie die Soße in auslaufsichere Behälter, Ziploc-Beutel oder Silikon-Eiswürfelbereiter und frieren Sie sie bei unter -18 °C ein. So ist sie bis zu 2 Monate sicher haltbar und behält ihren Geschmack."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Wie viele Tage kann geöffnete Pastasauce im Kühlschrank aufbewahrt werden?",
+            "answer": "Laut USDA-Richtlinien sollte kommerzielle, geöffnete Tomatenpastasauce bei Kühllagerung (0–4 °C) innerhalb von 3 bis 5 Tagen verbraucht werden. Für eine längere Aufbewahrung muss sie eingefroren werden."
+          },
+          {
+            "question": "Ist es sicher, ein wenig Schimmel an der Oberfläche abzuheben und den Rest zu essen?",
+            "answer": "Absolut nicht! Schimmelwurzeln und Toxine breiten sich oft tief in der gesamten Soße aus, auch wenn man sie nur an der Oberfläche sieht. Bei Schimmelbefall muss das ganze Glas entsorgt werden."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar molho para massa (marinara) fresco: Guia científico",
+        "description": "Descubra a temperatura, o método e o tempo de conservação ideais para o molho de tomate com base em diretrizes oficiais de segurança.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Você já deixou sobra de molho de tomate na geladeira e descobriu, dias depois, que ele estava mofado? 🍅\n\nO molho de tomate possui alta umidade e açúcares, tornando-se altamente vulnerável a bactérias e fungos após aberto. Introduzir uma colher com saliva ou resíduos de alimentos pode fazê-lo estragar em apenas um dia, tornando o armazenamento correto essencial.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado nas diretrizes do USDA, FDA e MFDS para manter seu molho aberto seguro e fresco. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Compreender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Regras essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca use utensílios contaminados com saliva ou restos de comida ⚠️",
+            "desc": "Colocar uma colher usada ou com resíduos de comida no pote introduz bactérias e umidade, provocando o surgimento de mofo em um ou dois dias, mesmo na geladeira. Use sempre uma colher limpa e totalmente seca ao servir."
+          },
+          {
+            "title": "Não deixe o molho aberto em temperatura ambiente 🌡️",
+            "desc": "Embora o molho de tomate seja ácido, as bactérias se multiplicam rapidamente à temperatura ambiente após aberto. O molho que ficar fora durante a refeição não deve voltar para o pote; sele-o imediatamente e leve à geladeira."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Transfira para um recipiente hermético para minimizar o contato com o ar — Evite contaminação 📦",
+            "text": "Deixar o molho na lata ou frasco original aberto permite a entrada de ar e aumenta o risco de contaminação. 💡 Dica de conservação: Passe o molho restante para um recipiente hermético limpo e seco (vidro ou plástico próprio) e feche bem. Reduzir a exposição ao ar preserva o frescor."
+          },
+          {
+            "name": "Refrigere na parte mais fria da geladeira (0 a 4 °C) — Armazenamento (3 a 5 dias) ❄️",
+            "text": "O molho para massa aberto não pode ser guardado à temperatura ambiente e deve ser refrigerado. 💡 Dica de conservação: Guarde-o no fundo da prateleira interna, onde a temperatura é estável, em vez da porta. Segundo as diretrizes do USDA, consuma o molho aberto em um prazo de 3 a 5 dias por segurança."
+          },
+          {
+            "name": "Porcione em porções individuais e congele — Conservação (2 meses) 🧊",
+            "text": "Se não puder consumi-lo em 3 a 5 dias ou se tiver uma grande quantidade, congelá-lo é a melhor opção. 💡 Dica de conservação: Divida o molho em recipientes herméticos individuais, sacos Ziploc ou bandejas de gelo de silicone, e congele a menos de -18 °C. Ele pode ser armazenado com segurança por até 2 meses mantendo o sabor."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Quantos dias o molho para massa aberto pode ser mantido na geladeira?",
+            "answer": "Segundo as diretrizes do USDA, o molho de tomate comercial aberto deve ser consumido dentro de 3 a 5 dias quando armazenado na geladeira (0–4 °C). Para armazenamento prolongado, ele deve ser congelado."
+          },
+          {
+            "question": "É seguro remover um pouco de mofo da superfície e comer o resto do molho?",
+            "answer": "Absolutamente não! As raízes do mofo e as toxinas costumam se espalhar profundamente por todo o molho, mesmo que só sejam visíveis na superfície. Se detectar mofo, descarte o pote inteiro por segurança."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Saus Pasta (Marinara) agar Tetap Segar: Panduan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk saus pasta berdasarkan pedoman keselamatan resmi.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Pernahkah Anda menyimpan sisa saus pasta tomat di dalam toples di kulkas lalu mendapati jamur putih tumbuh di atasnya beberapa hari kemudian? 🍅\n\nSaus tomat memiliki kadar air dan gula yang tinggi, menjadikannya sangat rentan terhadap bakteri dan jamur setelah dibuka. Memasukkan sendok yang terkena air liur atau sisa makanan dapat membuatnya basi hanya dalam waktu sehari, sehingga penyimpanan yang benar sangat penting.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman keselamatan dari USDA, FDA, dan MFDS untuk menjaga saus pasta yang sudah dibuka tetap aman dan segar. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan pernah menggunakan sendok yang terkontaminasi air liur atau makanan ⚠️",
+            "desc": "Memasukkan sendok bekas atau alat yang mengandung sisa makanan ke dalam toples saus akan memasukkan bakteri dan kelembapan, menyebabkan tumbuhnya jamur dalam waktu 1-2 hari meskipun di dalam kulkas. Selalu gunakan sendok yang bersih dan benar-benar kering."
+          },
+          {
+            "title": "Jangan biarkan saus yang sudah dibuka di suhu ruang 🌡️",
+            "desc": "Meskipun saus tomat bersifat asam, bakteri berkembang biak dengan cepat pada suhu ruang setelah dibuka. Saus yang dibiarkan di luar meja makan terlalu lama tidak boleh dimasukkan kembali ke dalam toples; segera tutup rapat dan masukkan ke kulkas."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Pindahkan ke wadah kedap udara untuk meminimalkan kontak udara — Cegah Kontaminasi 📦",
+            "text": "Membiarkan saus di dalam kaleng atau botol aslinya yang sudah terbuka memudahkan udara masuk dan meningkatkan risiko kontaminasi. 💡 Tips Penyimpanan: Pindahkan sisa saus ke wadah kedap udara yang bersih dan kering (kaca atau plastik food grade) lalu tutup rapat. Mengurangi paparan udara menjaga kesegaran lebih lama."
+          },
+          {
+            "name": "Simpan di bagian dalam kulkas pada suhu 0–4°C — Penyimpanan Dingin (3–5 Hari) ❄️",
+            "text": "Saus pasta yang sudah dibuka tidak dapat disimpan di suhu ruang dan harus didinginkan. 💡 Tips Penyimpanan: Simpan di rak bagian dalam yang suhunya stabil, bukan di rak pintu kulkas. Berdasarkan pedoman USDA, konsumsi saus pasta yang sudah dibuka dalam waktu 3 hingga 5 hari demi keamanan."
+          },
+          {
+            "name": "Porsi ke dalam wadah kecil lalu bekukan — Simpan Beku (2 Bulan) 🧊",
+            "text": "Jika Anda tidak dapat menghabiskannya dalam 3–5 hari atau memiliki porsi yang besar, membekukannya adalah pilihan terbaik. 💡 Tips Penyimpanan: Bagi saus ke dalam wadah kedap udara kecil, kantong Ziploc, atau cetakan es batu silikon, lalu bekukan di bawah suhu -18°C. Saus dapat disimpan dengan aman hingga 2 bulan tanpa kehilangan rasa."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Berapa hari saus pasta yang sudah dibuka dapat disimpan di dalam kulkas?",
+            "answer": "Menurut pedoman USDA, saus pasta tomat komersial yang sudah dibuka harus dikonsumsi dalam waktu 3 hingga 5 hari jika disimpan di dalam kulkas (0–4°C). Untuk penyimpanan lebih lama, saus harus dibekukan."
+          },
+          {
+            "question": "Apakah aman jika saya mengeruk sedikit jamur di permukaannya lalu memakan sisanya?",
+            "answer": "Sama sekali tidak! Akar jamur dan toksin seringkali telah menyebar jauh ke dalam seluruh bagian saus meskipun jamur hanya terlihat di permukaan. Jika ditemukan jamur, buang seluruh toples demi keselamatan."
+          }
+        ]
+      }
     }
+  }
 }

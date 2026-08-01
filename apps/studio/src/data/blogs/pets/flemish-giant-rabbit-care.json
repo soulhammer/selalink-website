@@ -1,459 +1,459 @@
 {
-    "flemish-giant-rabbit-care": {
-        "pubDate": "2026-05-21",
-        "updatedDate": "2026-05-21",
-        "locales": {
-            "ko": {
-                "title": "플레미시 자이언트 토끼 자유 방목 케어와 이빨·관절 건강 3단계 루틴",
-                "description": "'토끼계의 메인쿤'이라 불리는 거대 집토끼 플레미시 자이언트 맞춤 케어. 초대형 울타리 및 실내 자유 방목 환경, 무제한 건초를 통한 이빨·장 건강 관리, 관절 및 비절피부염 예방법을 상세히 다룹니다.",
-                "authority": "미국토끼협회(ARBA) 품종 표준 및 미국집토끼협회(House Rabbit Society, HRS) 임상 케어 가이드라인",
-                "profile": {
-                    "breed": "플레미시 자이언트 토끼 (Flemish Giant Rabbit)",
-                    "lifespan": "7 ~ 10년",
-                    "sleep_pattern": "8 ~ 12시간 (새벽과 저녁에 활발한 박명박모성·다상성 수면)",
-                    "temperament": "온순함, 차분함, 느긋함, 사교적임, 영리함"
-                },
-                "intro": "플레미시 자이언트 토끼는 성체 체중이 6~10kg 이상에 달하는 세계 최대 크기의 집토끼 품종으로, 거대한 체구와 대비되는 매우 느긋하고 온순한 성격 덕분에 '토끼계의 메인쿤' 또는 '거대한 순둥이'로 불립니다. 일반적인 소형 토끼용 케이지는 체형에 전혀 맞지 않아 초대형 울타리나 실내 자유 방목(Free-roaming) 환경 조성이 필수적입니다. 또한 평생 자라나는 이빨을 마모시키기 위한 무제한 건초 섭취와 육중한 체중을 지탱하는 관절 및 발바닥 피부 염증(비절피부염/Sore Hocks) 예방이 건강 유지를 위한 핵심입니다. 이번 가이드에서는 플레미시 자이언트의 본능 시그널을 해석하고, 자유 방목 케어, 이빨·위장 건강, 관절 및 발바닥 보호를 위한 3단계 데일리 홈케어 루틴을 소개합니다.",
-                "whyTitle": "플레미시 자이언트의 본능 시그널: 기쁨의 이빨 갈기(갈짝갈짝)와 경계의 뒷발 구르기",
-                "whyDesc": "플레미시 자이언트는 감정이 매우 솔직하며 신체 시그널을 통해 의사를 표현합니다. 보호자의 스킨십을 받거나 매우 편안한 상태일 때 이빨을 부드럽게 마찰시켜 **'이빨 갉는 소리(Tooth Purring)'**를 내며 고양이의 골골송과 같은 만족감을 표현합니다. 반면 위험을 느끼거나 강력한 불만이 있을 때는 육중한 체중을 실어 바닥을 강하게 내리치는 **'뒷발 구르기(Foot Thumping)'** 행동을 보입니다.",
-                "body_signals": [
-                    {
-                        "name": "이빨 갈짝이기 / 이빨 갉는 소리 (Tooth Purring)",
-                        "meaning": "보호자의 스킨십이나 안식처에서 극도의 안도감과 만족감을 느낄 때 내는 기쁨의 소리입니다.",
-                        "response": "머리를 부드럽게 쓰다듬어 주며 차분하고 편안한 휴식을 지속할 수 있도록 주변 환경을 조용하게 유지해 줍니다."
-                    },
-                    {
-                        "name": "뒷발 구르기 (Foot Thumping)",
-                        "meaning": "주변의 강한 소음, 낯선 냄새, 혹은 위협 상황에 대한 경고 및 강한 불만의 신호입니다.",
-                        "response": "위협 요소를 즉시 제거하고 부드러운 목소리로 안심시키며 무리하게 다가가거나 잡으려 하지 않습니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 신선한 티모시 건초 대량 보충 및 치아·장 상태 확인",
-                        "text": "평생 자라는 이빨의 마모와 장운동 촉진을 위해 갓 개봉한 티모시 건초를 넉넉히 제공하고, 정상적인 위장관 운동을 나타내는 대변 및 맹장변 상태를 확인합니다."
-                    },
-                    {
-                        "name": "낮: 푹신한 미끄럼 방지 매트 점검 및 실내 자유 방목",
-                        "text": "육중한 체중으로 인한 관절 부담과 발바닥 비절피부염을 막기 위해 푹신한 도톰 매트가 깔린 안전 구역에서 충분히 자유 방목 활동을 하도록 돕습니다."
-                    },
-                    {
-                        "name": "밤: 발바닥 피부·관절 점검 및 정량 펠릿 급여",
-                        "text": "뒷발바닥 털 속 피부에 발적이 없는지 점검하고, 비만 예방을 위해 체중에 맞춘 고섬유질 펠릿 사료를 정량 급여합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "플레미시 자이언트는 실내 자유 방목(Free-roaming)이 필수인가요?",
-                        "answer": "네, 필수입니다. 성체 체중이 6~10kg에 달하므로 시중의 표준 토끼 케이지는 너무 좁아 척추 및 관절 변형을 일으킵니다. 최소 2x3m 이상의 초대형 울타리를 사용하거나 전선과 위험물을 차단한 실내 자유 방목 환경을 갖춰야 합니다."
-                    },
-                    {
-                        "question": "관절 건강과 발바닥 비절피부염(Sore Hocks)은 어떻게 예방하나요?",
-                        "answer": "토끼는 발바닥 패드가 없어 두꺼운 털로만 뼈를 보호합니다. 플레미시 자이언트는 체중이 무거워 와이어 바닥이나 미끄러운 장판에서 비절피부염이 발생하기 매우 쉽습니다. 두꺼운 미끄럼 방지 푹신 매트나 메모리폼 카페트를 깔아주는 것이 가장 중요합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Flemish Giant Rabbit Free-Roaming Care and 3-Step Tooth & Joint Health Routine",
-                "description": "Essential care for the gentle 'Gentle Giant' Flemish Giant Rabbit. Learn to manage free-roaming environments for their massive size, supply unlimited hay for dental health, and prevent sore hocks and joint strain.",
-                "authority": "American Rabbit Breeders Association (ARBA) Standards and House Rabbit Society (HRS) Clinical Guidelines",
-                "profile": {
-                    "breed": "Flemish Giant Rabbit",
-                    "lifespan": "7 ~ 10 Years",
-                    "sleep_pattern": "8 ~ 12 Hours (Crepuscular - Active During Dawn and Dusk)",
-                    "temperament": "Gentle, Calm, Docile, Social, Intelligent"
-                },
-                "intro": "Reaching adult weights of 6 to over 10 kg, the Flemish Giant is the largest domesticated rabbit breed in the world. Often dubbed the 'Gentle Giant' or the 'Maine Coon of rabbits,' they are renowned for their calm, dog-like affection. Standard rabbit cages are entirely unsuitable for their massive size, making large exercise pens or indoor free-roaming essential. Furthermore, supplying unlimited hay to wear down continuously growing teeth and preventing joint strain and pododermatitis (sore hocks) are critical for their longevity. In this guide, we translate Flemish Giant instinctual signals and present a 3-step homecare routine for indoor roaming, gastrointestinal/dental wellness, and paw pad protection.",
-                "whyTitle": "Flemish Giant Instincts: Contented Tooth Purring and Defensive Foot Thumping",
-                "whyDesc": "Flemish Giants are highly expressive animals that communicate via clear physical cues. When deeply relaxed or receiving affection, they gently rub their molars together, producing a **'Tooth Purring'** sound equivalent to a cat's contented purr. Conversely, when startled, threatened, or annoyed, they stamp their heavy hind feet (**'Foot Thumping'**) against the floor to sound an alarm.",
-                "body_signals": [
-                    {
-                        "name": "Tooth Purring (Gentle Teeth Grinding)",
-                        "meaning": "A sign of pure relaxation, contentment, and deep trust when resting in a secure space or being gently petted.",
-                        "response": "Continue gentle head strokes and maintain a quiet, peaceful environment to sustain their comfortable mood."
-                    },
-                    {
-                        "name": "Foot Thumping (Hind Leg Stomping)",
-                        "meaning": "An alarm or frustration signal triggered by sudden loud noises, unfamiliar odors, or perceived environmental danger.",
-                        "response": "Identify and remove the threat immediately, speaking in soft, soothing tones without attempting to force contact."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Unlimited Fresh Timothy Hay & Dental/GI Checkup",
-                        "text": "Refill hay racks with clean Timothy hay to promote healthy gut motility and wear down incisors, while inspecting litter box droppings for normal GI function."
-                    },
-                    {
-                        "name": "Afternoon: Padded Flooring Maintenance & Free-Roaming Exercise",
-                        "text": "Inspect non-slip padded rugs and allow supervised indoor free-roaming exercise to stretch their large muscular limbs without putting pressure on joints."
-                    },
-                    {
-                        "name": "Evening: Sore Hock & Joint Inspection with Measured Pellet Feeding",
-                        "text": "Examine hind foot pads under the fur for inflammation or hair loss, and feed a measured high-fiber pellet portion to prevent obesity."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Is indoor free-roaming mandatory for a Flemish Giant Rabbit?",
-                        "answer": "Yes, absolutely. Due to their massive 6–10+ kg size, standard commercial rabbit cages cause spinal deformities and severe muscle atrophy. They require a spacious exercise pen (at least 2x3 meters) or a rabbit-proofed indoor free-roaming environment."
-                    },
-                    {
-                        "question": "How do I prevent sore hocks (pododermatitis) in giant rabbits?",
-                        "answer": "Rabbits lack protective paw pads and rely entirely on fur to cushion their feet. Because of their heavy weight, wire floors or slippery tiles easily cause ulcerative pododermatitis. Covering all walking areas with thick memory foam rugs or padded fleece is essential."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "フレミッシュジャイアントの室内放し飼いケアと歯・関節の健康3ステップルーティン",
-                "description": "「ウサギ界のメインクーン」フレミッシュジャイアントの専門ケア。大型体型に合わせた室内放し飼い環境、無制限の牧草による歯と腸のケア、関節炎・ソアホック予防法を詳しく解説します。",
-                "authority": "ARBA（アメリカウサギ協会）品種標準およびHouse Rabbit Society (HRS) 臨床ケアガイドライン",
-                "profile": {
-                    "breed": "フレミッシュジャイアント (Flemish Giant Rabbit)",
-                    "lifespan": "7 〜 10年",
-                    "sleep_pattern": "8 〜 12時間 (明け方と夕方に活発な薄明薄暮性・多相性睡眠)",
-                    "temperament": "温厚、穏やか、従順、社交的、賢い"
-                },
-                "intro": "成体の体重が6〜10kg以上にも達する世界最大の家ウサギ品種、フレミッシュジャイアント。その大きな体とは対照的に、非常に穏やかで人懐っこい性格から「優しい巨人」や「ウサギ界のメインクーン」と称されています。一般的な小型ウサギ用ケージでは狭すぎるため、特大サークルや室内の放し飼い（Free-roaming）環境が必須です。また、生涯伸び続ける歯を摩耗させる無制限の牧草給与と、重い体重を支える関節および足裏の皮膚炎（ソアホック）予防が健康維持の鍵となります。本記事では、本能サインの解説と、放し飼い・歯・関節を守る3ステップ日常ケアをご紹介します。",
-                "whyTitle": "フレミッシュジャイアントの習性サイン：喜びの歯鳴らし（ゴリゴリ）と警戒の足ダン",
-                "whyDesc": "フレミッシュジャイアントは感情表現が非常に豊かです。撫でられて心地よい時やリラックスしている時は、歯を優しくすり合わせて**「歯鳴らし（Tooth Purring）」**という音を立て、猫のゴロゴロ音のような満足感を示します。一方、恐怖や強い不満を感じた時は、重い後脚で床を力強く叩く**「足ダン（Foot Thumping）」**を見せます。",
-                "body_signals": [
-                    {
-                        "name": "歯鳴らし / 歯すり音 (Tooth Purring)",
-                        "meaning": "スキンシップや安全な場所で極上のリラックスと信頼を感じている時の喜びのサインです。",
-                        "response": "優しく頭を撫で続け、静かで穏やかな環境を維持して安心感を与えてあげましょう。"
-                    },
-                    {
-                        "name": "スタンピング / 足ダン (Foot Thumping)",
-                        "meaning": "大きな物音や知らない匂い、不快感に対する警戒および危険を知らせる行動です。",
-                        "response": "不安の要因を速やかに取り除き、優しく低い声で語りかけながら落ち着くのを待ちます。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：新鮮なチモシーの大量補充と糞の状態確認",
-                        "text": "歯の摩耗と胃腸の蠕動運動を促すため新鮮なチモシーをたっぷりと補充し、健全な糞（盲腸便を含む）の状態を確認します。"
-                    },
-                    {
-                        "name": "昼：クッション性の高い滑り止めマット点検と室内運動",
-                        "text": "重い体重による関節への負担とソアホックを防ぐため、厚手マットを敷いた安全な室内スペースで自由に過ごさせます。"
-                    },
-                    {
-                        "name": "夜：足裏ソアホック・関節の点検と定量ペレット給餌",
-                        "text": "後脚の足裏皮膚に赤みや抜け毛がないか確認し、肥満を防ぐため体重に合わせた高繊維ペレットを定量給餌します。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "フレミッシュジャイアントにケージなしの放し飼いは必須ですか？",
-                        "answer": "はい、必須です。成体で6〜10kg以上になるため、市販のウサギ用ケージでは骨格や関節に歪みが生じます。最低でも2x3m以上の大型サークルか、危険物を除去した部屋での放し飼い環境が必要です。"
-                    },
-                    {
-                        "question": "関節炎や足裏のソアホック（飛節皮膚炎）はどう予防しますか？",
-                        "answer": "ウサギには肉球がなく被毛だけで骨を保護しています。体重が重いフレミッシュジャイアントは、金網床や滑りやすいフローリングでソアホックを発症しやすいため、厚手のラグや低反発マットを敷くことが不可欠です。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "弗莱芒巨型兔室内半自由养护与牙齿·关节健康3阶段日常指南",
-                "description": "针对“兔界缅因猫”弗莱芒巨型兔（Flemish Giant Rabbit）专属护理。学习适应其巨型体格的室内自由活动环境构建、无限制牧草磨牙护肠法以及关节与脚底溃疡（Sore Hocks）预防。",
-                "authority": "美国家兔培育者协会 (ARBA) 标准与美国家兔协会 (HRS) 临床护理指南",
-                "profile": {
-                    "breed": "弗莱芒巨型兔 (Flemish Giant Rabbit)",
-                    "lifespan": "7 ~ 10年",
-                    "sleep_pattern": "8 ~ 12小时 (晨昏活跃的多相性睡眠)",
-                    "temperament": "温和、沉稳、顺从、社交性强、聪明"
-                },
-                "intro": "弗莱芒巨型兔成年体重可达6-10公斤以上，是世界上体型最大的家兔品种。与其庞大体型形成鲜明对比的是其极其温顺随和的性格，因而被称为“温柔的巨人”或“兔界缅因猫”。普通的兔子笼子完全无法满足其体型需求，必须使用超大型围栏或进行室内半自由养护（Free-roaming）。此外，无限量提供干草以磨损终生不断生长的牙齿，以及预防承受重压的关节与脚底炎（Sore Hocks）是维持其健康的核心。本指南将解析弗莱芒巨型兔的本能信号，并分享涵盖自由活动、牙齿肠道健康及脚底关节保护的3阶段居家护理流程。",
-                "whyTitle": "弗莱芒巨型兔的本能信号：愉悦的磨牙声与警惕的跺脚行为",
-                "whyDesc": "弗莱芒巨型兔情绪表达非常直接。当受到抚摸或处于极度放松状态时，它们会轻柔摩擦牙齿发出 **“轻微磨牙声（Tooth Purring）”**，表达类似于猫咪打呼噜般的满足感；反之，当受到惊吓或感到不满时，它们会用沉重后腿重跺地面发出 **“跺脚（Foot Thumping）”** 的警报。",
-                "body_signals": [
-                    {
-                        "name": "轻微磨牙声 (Tooth Purring)",
-                        "meaning": "在受到抚摸或处于极度有安全感的环境中发出的愉悦与放松信号。",
-                        "response": "轻柔抚摸其头部并保持安静舒适的环境，让其继续安心休息。"
-                    },
-                    {
-                        "name": "跺脚 (Foot Thumping)",
-                        "meaning": "对周围巨响、陌生气味或潜在威胁发出的警惕与强烈不满信号。",
-                        "response": "立即消除 Threat 来源，用温柔低沉的声音进行安抚，切勿强行抓抱。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：补充大量新鲜提摩西干草并检查排泄",
-                        "text": "提供充足提摩西干草以磨损牙齿并促进肠道蠕动，检查粪便及盲肠便状态以确认胃肠健康。"
-                    },
-                    {
-                        "name": "中午：检查防滑防压垫并进行室内散养活动",
-                        "text": "在铺有防滑软垫的区域进行散养活动，减轻重体型对关节与脚底皮肤的压力。"
-                    },
-                    {
-                        "name": "晚上：脚底皮肤与关节检查及定量喂食颗粒",
-                        "text": "检查后脚底皮肤有无红肿发炎，定量喂食高纤维颗粒饲料以防肥胖。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "室内自由散养对弗莱芒巨型兔是必须的吗？",
-                        "answer": "是的，非常必须。成年体重6-10公斤的巨型兔住在标准兔笼里会导致脊柱及关节严重变形。需要至少2x3米以上的超大围栏或彻底排除危险物的散养房间。"
-                    },
-                    {
-                        "question": "如何预防关节炎与脚底溃疡（Sore Hocks）？",
-                        "answer": "兔子没有足底肉垫，靠毛发保护骨头。巨型兔体重极重，在铁丝网或光滑地板上极易患脚底溃疡。必须铺设厚实柔软的防滑垫或记忆棉地毯。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Guía de cuidado del Conejo Gigante de Flandes y rutina de 3 pasos para salud dental y articular",
-                "description": "Cuidado esencial para el 'Gentil Gigante' Conejo Gigante de Flandes. Aprenda a gestionar espacios de libre movimiento para su gran tamaño, proveer heno ilimitado para sus dientes y prevenir úlceras podales (sore hocks).",
-                "authority": "Estándares de la ARBA y Guías Clínicas de la House Rabbit Society (HRS)",
-                "profile": {
-                    "breed": "Conejo Gigante de Flandes (Flemish Giant Rabbit)",
-                    "lifespan": "7 ~ 10 años",
-                    "sleep_pattern": "8 ~ 12 horas (crepuscular y polifásico - activo al amanecer y atardecer)",
-                    "temperament": "Gentil, calmo, dócil, social, inteligente"
-                },
-                "intro": "Con un peso adulto de 6 a más de 10 kg, el Gigante de Flandes es la raza de conejo doméstico más grande del mundo. Conocidos como 'gentiles gigantes' o el 'Maine Coon de los conejos', destacan por su carácter sereno y afable. Las jaulas estándar son totalmente inadecuadas para su tamaño, siendo imprescindibles los cercos XL o la libre circulación en casa. Además, el heno ilimitado para desgastar sus dientes en continuo crecimiento y la prevención de pododermatitis (sore hocks) son vitales. En esta guía se presenta mos una rutina de 3 pasos para su cuidado integral.",
-                "whyTitle": "Instintos del Gigante de Flandes: Ronroneo dental y pateo defensivo",
-                "whyDesc": "Los Gigantes de Flandes expresan sus emociones mediante señales físicas claras. Al estar profundamente relajados o recibir caricias, frotan sus molares suavemente emitiendo un **'Ronroneo dental' (Tooth Purring)**. Por el contrario, al asustarse o molestarse, golpean con fuerza el suelo con sus patas traseras (**'Foot Thumping'**) como señal de alarma.",
-                "body_signals": [
-                    {
-                        "name": "Ronroneo dental (Tooth Purring)",
-                        "meaning": "Señal de absoluto confort, paz y profunda confianza al descansar o recibir caricias afectuosas.",
-                        "response": "Acaricie su cabeza suavemente y mantenga un entorno tranquilo para prolongar su relajación."
-                    },
-                    {
-                        "name": "Golpe de pata trasera (Foot Thumping)",
-                        "meaning": "Señal de alarma o frustración desencadenada por ruidos fuertes, olores extraños o amenaza percibida.",
-                        "response": "Elimine la causa de estrés de inmediato y háblele con voz suave sin intentar acorralarlo."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Heno Timothy fresco ilimitado y chequeo digestivo",
-                        "text": "Suministre heno fresco a discreción para desgastar los dientes y estimular el tránsito intestinal, comprobando la salud de sus deposiciones."
-                    },
-                    {
-                        "name": "Tarde: Mantenimiento de suelo acolchado y ejercicio libre",
-                        "text": "Inspeccione las alfombras antideslizantes y permita el movimiento libre por zonas acolchadas para ejercitar sus extremidades sin dañar articulaciones."
-                    },
-                    {
-                        "name": "Noche: Inspección de patas y articulaciones y pienso medido",
-                        "text": "Examine la piel bajo el pelo de las patas traseras para descartar inflamaciones y ofrezca una ración dosificada de pienso alto en fibra para evitar obesidad."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Es obligatorio el espacio de libre movimiento para un Gigante de Flandes?",
-                        "answer": "Sí, totalmente. Debido a su masa corporal (6-10+ kg), las jaulas comerciales causan graves deformaciones espinales. Requieren un cerco amplio (mínimo 2x3 metros) o una habitación habilitada para libre movimiento."
-                    },
-                    {
-                        "question": "¿Cómo prevenir la pododermatitis (Sore Hocks) en conejos gigantes?",
-                        "answer": "Los conejos carecen de almohadillas plantares. Su gran peso sobre suelos duros o de alambre provoca úlceras dolorosas. Es fundamental cubrir todas las zonas de paso con alfombras gruesas acolchadas o de espuma viscoelástica."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Guide de soin du Lapin Géant des Flandres et routine en 3 étapes pour la santé dentaire et articulaire",
-                "description": "Soins essentiels pour le 'Gentil Géant' des Flandres. Apprenez à aménager un espace en liberté adapté à sa grande taille, fournir du foin à volonté et prévenir la pododermatite (sore hocks).",
-                "authority": "Normes de l'ARBA et Directives Cliniques de la House Rabbit Society (HRS)",
-                "profile": {
-                    "breed": "Géant des Flandres (Flemish Giant Rabbit)",
-                    "lifespan": "7 ~ 10 ans",
-                    "sleep_pattern": "8 ~ 12 heures (crépusculaire et polyphasique - actif à l'aube et au crépuscule)",
-                    "temperament": "Doux, calme, docile, social, intelligent"
-                },
-                "intro": "Atteignant 6 à plus de 10 kg à l'âge adulte, le Géant des Flandres est la plus grande race de lapin domestique au monde. Surnommé le 'Gentil Géant' ou le 'Maine Coon des lapins', il est réputé pour sa nature très paisible. Les cages standard sont totalement inadaptées à son gabarit, rendant les enclos XL ou la liberté totale en intérieur indispensables. De plus, du foin à volonté pour limer ses dents à croissance continue et la prévention de la pododermatite sont cruciaux. Découvrez une routine en 3 étapes.",
-                "whyTitle": "Instincts du Géant des Flandres : Grincement de dents apaisant et tapement de patte",
-                "whyDesc": "Le Géant des Flandres exprime clairement ses émotions. Lorsqu'il est apaisé ou caressé, il frotte doucement ses molaires (**'Grincement de dents' / Tooth Purring**). S'il est effrayé, surpris ou contrarié, il tape fort du pied arrière sur le sol (**'Tapement de patte' / Foot Thumping**).",
-                "body_signals": [
-                    {
-                        "name": "Grincement de dents doux (Tooth Purring)",
-                        "meaning": "Signe de relaxation absolue, de plaisir et de confiance totale lors des caresses ou du repos.",
-                        "response": "Caressez-lui la tête doucement et préservez un environnement calme pour prolonger ce moment."
-                    },
-                    {
-                        "name": "Tapement de patte arrière (Foot Thumping)",
-                        "meaning": "Signal d'alerte ou de frustration face à un bruit soudain, une odeur inconnue ou un danger.",
-                        "response": "Éliminez immédiatement la source de stress et parlez-lui d'une voix douce sans le brusquer."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Foin de fléole frais à volonté et vérification digestive",
-                        "text": "Distribuez du foin de fléole frais à volonté pour l'usure dentaire et le transit, tout en contrôlant l'aspect des crottes dans le bac."
-                    },
-                    {
-                        "name": "Après-midi : Entretien des tapis rembourrés et liberté en intérieur",
-                        "text": "Assurez-vous de la présence de tapis antidérapants et laissez-le gambader pour exercer ses membres sans solliciter excessivement ses articulations."
-                    },
-                    {
-                        "name": "Soir : Inspection des pattes, des articulations et granulés dosés",
-                        "text": "Examinez les coussinets arrière sous le pelage pour déceler toute rougeur et donnez une ration contrôlée de granulés riches en fibres."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "La liberté en intérieur est-elle obligatoire pour le Géant des Flandres ?",
-                        "answer": "Oui, absolument. Pesant entre 6 et 10+ kg, les cages du commerce provoquent de graves déformations de la colonne vertébrale. Un grand enclos d'au moins 2x3 mètres ou une pièce sécurisée en liberté est nécessaire."
-                    },
-                    {
-                        "question": "Comment éviter la pododermatite (Sore Hocks) chez les lapins géants ?",
-                        "answer": "Les lapins n'ont pas de coussinets de chair sous les pattes. Leur poids important sur sol dur ou grillage crée des plaies ulcéreuses. Il est primordial de recouvrir le sol de tapis épais rembourrés ou en mousse à mémoire de forme."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Belgischer Riese Haltung und 3-Schritte-Routine für Zahn- & Gelenkgesundheit",
-                "description": "Essenzielle Pflege für den 'Sanften Riesen' Belgischen Riesen (Flemish Giant). Erfahren Sie alles über freie Wohnungshaltung, unbegrenztes Heu für die Zähne und Prävention von Sohlengeschwüren (Sore Hocks).",
-                "authority": "ARBA-Rassestandards und Klinische Richtlinien der House Rabbit Society (HRS)",
-                "profile": {
-                    "breed": "Belgischer Riese (Flemish Giant Rabbit)",
-                    "lifespan": "7 ~ 10 Jahre",
-                    "sleep_pattern": "8 ~ 12 Stunden (dämmerungsaktiv & polyphasisch - aktiv bei Dämmerung)",
-                    "temperament": "Sanftmütig, ruhig, gelassen, sozial, klug"
-                },
-                "intro": "Mit einem ausgewachsenen Gewicht von 6 bis über 10 kg ist der Belgische Riese die größte Hauskaninchenrasse der Welt. Bekannt als 'Sanfter Riese' oder 'Main Coon der Kaninchen', besticht er durch sein ruhiges, anhängliches Wesen. Handelsübliche Käfige sind für seine Größe ungeeignet, weshalb XL-Gehege oder freie Wohnungshaltung unerlässlich sind. Unbegrenztes Heu für den Abrieb der nachwachsenden Zähne sowie der Schutz vor Pododermatitis (Sohlengeschwüren) sind entscheidend. Dieser Ratgeber zeigt die 3-Schritte-Routine.",
-                "whyTitle": "Instinkte des Belgischen Riesen: Zufriedenes Zähneknuspern und Warn-Klopfen",
-                "whyDesc": "Belgische Riesen drücken Gefühle klar aus. Bei Entspannung oder beim Streicheln reiben sie sanft die Backenzähne gegeneinander (**'Zähneknuspern' / Tooth Purring**). Bei Erschrecken, Gefahr oder Unmut klopfen sie kraftvoll mit den Hinterläufen auf den Boden (**'Klopfen' / Foot Thumping**).",
-                "body_signals": [
-                    {
-                        "name": "Zähneknuspern (Tooth Purring)",
-                        "meaning": "Zeichen tiefer Entspannung, Zufriedenheit und Vertrauen beim Ruhen oder Streicheln.",
-                        "response": "Streicheln Sie sanft den Kopf weiter und sorgen Sie für eine ruhige, entspannte Umgebung."
-                    },
-                    {
-                        "name": "Klopfen mit dem Hinterlauf (Foot Thumping)",
-                        "meaning": "Warn- und Stresssignal bei plötzlichem Lärm, fremden Gerüchen oder wahrgenommener Gefahr.",
-                        "response": "Entfernen Sie die Störquelle sofort und sprechen Sie beruhigend, ohne das Tier zu bedrängen."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Unbegrenztes Timothee-Heu & Zahn-/Darm-Check",
-                        "text": "Füllen Sie frisches Timothee-Heu nach, um den Abrieb der Zähne und die Darmbewegung zu fördern, und prüfen Sie den Kot im Gehege."
-                    },
-                    {
-                        "name": "Nachmittag: Pflege weicher Matten & Freilauf in der Wohnung",
-                        "text": "Prüfen Sie rutschfeste Matten und ermöglichen Sie Auslauf in gesicherten Bereichen, um die Gelenke der schweren Läufe zu schonen."
-                    },
-                    {
-                        "name": "Abend: Pfoten- & Gelenkkontrolle sowie abgemessene Pellets",
-                        "text": "Kontrollieren Sie die Sohlen der Hinterläufe auf Rötungen und füttern Sie eine rationierte Menge ballaststoffreicher Pellets zur Gewichtsregulierung."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Ist freie Wohnungshaltung für einen Belgischen Riesen Pflicht?",
-                        "answer": "Ja, absolut. Aufgrund ihres Gewichts von 6-10+ kg führen Standardkäfige zu Fehlhaltungen der Wirbelsäule. Ein Gehege von mindestens 2x3 Metern oder freie Wohnungshaltung in gesicherten Räumen ist erforderlich."
-                    },
-                    {
-                        "question": "Wie beugt man Sohlengeschwüren (Sore Hocks) vor?",
-                        "answer": "Kaninchen haben keine Pfotenballen und schützen die Knochen nur durch Fell. Das hohe Gewicht führt auf hartem Boden schnell zu Wunden. Das Auslegen von dicken, weichen Teppichen oder Memory-Foam-Matten ist zwingend nötig."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Guia de cuidado do Coelho Gigante de Flandres e rotina de 3 passos para saúde dental e articular",
-                "description": "Cuidados essenciais para o 'Gentil Gigante' de Flandres. Aprenda a gerir espaços de livre circulação para o seu grande porte, fornecer feno ilimitado e prevenir a pododermatite (sore hocks).",
-                "authority": "Padrões da ARBA e Diretrizes Clínicas da House Rabbit Society (HRS)",
-                "profile": {
-                    "breed": "Coelho Gigante de Flandres (Flemish Giant Rabbit)",
-                    "lifespan": "7 ~ 10 anos",
-                    "sleep_pattern": "8 ~ 12 horas (crepuscular e polifásico - ativo ao amanhecer e anoitecer)",
-                    "temperament": "Gentil, calmo, dócil, social, inteligente"
-                },
-                "intro": "Com peso adulto entre 6 e mais de 10 kg, o Gigante de Flandres é a maior raça de coelho doméstico do mundo. Conhecidos como 'Gentis Gigantes' ou o 'Maine Coon dos coelhos', destacam-se pelo seu temperamento sereno. Gaiolas padrão são totalmente inadequadas para o seu tamanho, sendo indispensáveis cercados XL ou vida livre em casa. Além disso, feno ilimitado para desgastar os dentes e prevenção de pododermatite são fundamentais. Conheça a rotina de 3 passos.",
-                "whyTitle": "Instintos do Gigante de Flandres: Ranger suave de dentes e batida de patas",
-                "whyDesc": "Os Gigantes de Flandres expressam as suas emoções através de sinais claros. Quando relaxados ou a receber carinho, roçam suavemente os molares (**'Ranger de dentes' / Tooth Purring**). Ao sentirem medo ou frustração, batem a pata traseira com força no chão (**'Batida de pata' / Foot Thumping**).",
-                "body_signals": [
-                    {
-                        "name": "Ranger suave de dentes (Tooth Purring)",
-                        "meaning": "Sinal de profundo relaxamento, conforto e confiança ao descansar ou receber carinho.",
-                        "response": "Acaricie a cabeça suavemente e mantenha um ambiente calmo para prolongar o seu bem-estar."
-                    },
-                    {
-                        "name": "Batida de pata traseira (Foot Thumping)",
-                        "meaning": "Sinal de alarme ou insatisfação perante barulhos fortes, odores estranhos ou perigo.",
-                        "response": "Remova a fonte de stresse imediatamente e fale de forma calma sem o encurralar."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Feno Timothy fresco ilimitado e controlo digestivo",
-                        "text": "Forneça feno Timothy fresco ilimitado para desgaste dentário e trânsito intestinal, inspecionando o aspeto dos dejetos."
-                    },
-                    {
-                        "name": "Tarde: Manutenção de piso acolchoado e exercício livre",
-                        "text": "Permita a circulação livre em áreas acolchoadas e antiderrapantes para exercitar os membros sem sobrecarregar as articulações."
-                    },
-                    {
-                        "name": "Noite: Inspeção das patas, articulações e ração dosada",
-                        "text": "Inspecione a pele sob o pelo das patas traseiras e ofereça uma porção dosada de ração rica em fibra para evitar a obesidade."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "A circulação livre é obrigatória para o Gigante de Flandres?",
-                        "answer": "Sim, totalmente. Devido ao seu peso (6-10+ kg), gaiolas comerciais causam deformações na coluna. Necessitam de cercados de no mínimo 2x3 metros ou espaço livre na casa."
-                    },
-                    {
-                        "question": "Como prevenir a pododermatite (Sore Hocks)?",
-                        "answer": "Os coelhos não têm almofadinhas nas patas e dependem do pelo para proteger os ossos. O peso elevado em pisos duros provoca feridas; é essencial cobrir o chão com tapetes acolchoados espessos."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Panduan Perawatan Flemish Giant Rabbit dan Rutinitas 3 Langkah Kesehatan Gigi & Sendi",
-                "description": "Perawatan esensial untuk 'Raksasa Lembut' kelinci Flemish Giant. Pelajari cara mengelola area bebas untuk ukurannya yang raksasa, menyediakan jerami tak terbatas, serta mencegah luka telapak kaki (sore hocks).",
-                "authority": "Standar ARBA dan Panduan Klinis House Rabbit Society (HRS)",
-                "profile": {
-                    "breed": "Kelinci Flemish Giant (Flemish Giant Rabbit)",
-                    "lifespan": "7 ~ 10 tahun",
-                    "sleep_pattern": "8 ~ 12 jam (krepuskular & polifasik - aktif saat fajar dan senja)",
-                    "temperament": "Lembut, tenang, penurut, sosial, cerdas"
-                },
-                "intro": "Dengan bobot dewasa mencapai 6 hingga 10+ kg, Flemish Giant adalah ras kelinci domestik terbesar di dunia. Dijuluki 'Raksasa Lembut' atau 'Maine Coon-nya kelinci', mereka terkenal dengan sifatnya yang sangat tenang dan penyayang. Kandang kelinci standar sama sekali tidak cocok untuk ukurannya, sehingga area bermain XL atau bebas di dalam rumah sangat wajib. Selain itu, pasokan jerami tak terbatas untuk mengikis gigi serta pencegahan luka telapak kaki (sore hocks) sangat krusial.  menyajikan rutinitas 3 langkahnya.",
-                "whyTitle": "Insting Flemish Giant: Gemertuk Gigi Lembut dan Hentakan Kaki Belakang",
-                "whyDesc": "Kelinci Flemish Giant mengekspresikan emosinya secara jelas. Saat merasa sangat santai atau dibelai, mereka menggesekkan gigi gerahamnya secara lembut (**'Gemertuk Gigi' / Tooth Purring**). Sebaliknya, saat terkejut atau kesal, mereka menghentakkan kaki belakangnya yang berat ke lantai (**'Hentakan Kaki' / Foot Thumping**).",
-                "body_signals": [
-                    {
-                        "name": "Gemertuk Gigi Lembut (Tooth Purring)",
-                        "meaning": "Tanda rasa nyaman, puas, dan percaya yang mendalam saat beristirahat atau dibelai.",
-                        "response": "Beri belaian lembut di kepala dan pertahankan suasana yang tenang untuk menjaga kenyamanannya."
-                    },
-                    {
-                        "name": "Hentakan Kaki Belakang (Foot Thumping)",
-                        "meaning": "Sinyal bahaya atau kekesalan akibat suara keras mendadak, bau asing, atau ancaman.",
-                        "response": "Singkirkan pemicu stres segera dan bicaralah dengan nada lembut tanpa memaksakan kontak."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Jerami Timothy Segar Tak Terbatas & Cek Gigi/Pencernaan",
-                        "text": "Sediakan jerami Timothy segar tak terbatas untuk mengikis gigi dan menjaga pencernaan, serta periksa kotoran di kotak pasir."
-                    },
-                    {
-                        "name": "Siang: Perawatan Alas Empuk & Aktivitas Bebas di Dalam Rumah",
-                        "text": "Bebaskan mereka bergerak di area berkarpet empuk anti-slip untuk melatih otot tanpa memberi tekanan berlebih pada sendi."
-                    },
-                    {
-                        "name": "Malam: Pemeriksaan Telapak Kaki & Sendi serta Pelet Terukur",
-                        "text": "Periksa kulit telapak kaki belakang di balik bulu dari kemerahan, dan berikan pelet tinggi serat yang terukur untuk mencegah obesitas."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apakah area bebas (free-roaming) wajib untuk Flemish Giant?",
-                        "answer": "Ya, sangat wajib. Karena ukurannya (6-10+ kg), kandang biasa menyebabkan kelainan tulang belakang. Mereka membutuhkan area pagar minimal 2x3 meter atau ruang bebas yang aman dari bahaya."
-                    },
-                    {
-                        "question": "Bagaimana cara mencegah luka telapak kaki (Sore Hocks)?",
-                        "answer": "Kelinci tidak memiliki bantalan kaki dan mengandalkan bulu untuk melindungi tulang. Beban berat di lantai keras dapat memicu luka. Sangat penting untuk melapisi lantai dengan karpet empuk atau busa memori."
-                    }
-                ]
-            }
+  "flemish-giant-rabbit-care": {
+    "pubDate": "2026-05-21",
+    "updatedDate": "2026-05-21",
+    "locales": {
+      "ko": {
+        "title": "플레미시 자이언트 토끼 자유 방목 케어와 이빨·관절 건강 3단계 루틴",
+        "description": "'토끼계의 메인쿤'이라 불리는 거대 집토끼 플레미시 자이언트 맞춤 케어. 초대형 울타리 및 실내 자유 방목 환경, 무제한 건초를 통한 이빨·장 건강 관리, 관절 및 비절피부염 예방법을 상세히 다룹니다.",
+        "authority": "미국토끼협회(ARBA) 품종 표준 및 미국집토끼협회(House Rabbit Society, HRS) 임상 케어 가이드라인",
+        "profile": {
+          "breed": "플레미시 자이언트 토끼 (Flemish Giant Rabbit)",
+          "lifespan": "7 ~ 10년",
+          "sleep_pattern": "8 ~ 12시간 (새벽과 저녁에 활발한 박명박모성·다상성 수면)",
+          "temperament": "온순함, 차분함, 느긋함, 사교적임, 영리함"
         },
-        "heroImage": "/images/blog/flemish_giant_rabbit_care.webp"
-    }
+        "intro": "플레미시 자이언트 토끼는 성체 체중이 6~10kg 이상에 달하는 세계 최대 크기의 집토끼 품종으로, 거대한 체구와 대비되는 매우 느긋하고 온순한 성격 덕분에 '토끼계의 메인쿤' 또는 '거대한 순둥이'로 불립니다. 일반적인 소형 토끼용 케이지는 체형에 전혀 맞지 않아 초대형 울타리나 실내 자유 방목(Free-roaming) 환경 조성이 필수적입니다. 또한 평생 자라나는 이빨을 마모시키기 위한 무제한 건초 섭취와 육중한 체중을 지탱하는 관절 및 발바닥 피부 염증(비절피부염/Sore Hocks) 예방이 건강 유지를 위한 핵심입니다. 이번 가이드에서는 플레미시 자이언트의 본능 시그널을 해석하고, 자유 방목 케어, 이빨·위장 건강, 관절 및 발바닥 보호를 위한 3단계 데일리 홈케어 루틴을 소개합니다.",
+        "whyTitle": "플레미시 자이언트의 본능 시그널: 기쁨의 이빨 갈기(갈짝갈짝)와 경계의 뒷발 구르기",
+        "whyDesc": "플레미시 자이언트는 감정이 매우 솔직하며 신체 시그널을 통해 의사를 표현합니다. 보호자의 스킨십을 받거나 매우 편안한 상태일 때 이빨을 부드럽게 마찰시켜 **'이빨 갉는 소리(Tooth Purring)'**를 내며 고양이의 골골송과 같은 만족감을 표현합니다. 반면 위험을 느끼거나 강력한 불만이 있을 때는 육중한 체중을 실어 바닥을 강하게 내리치는 **'뒷발 구르기(Foot Thumping)'** 행동을 보입니다.",
+        "body_signals": [
+          {
+            "name": "이빨 갈짝이기 / 이빨 갉는 소리 (Tooth Purring)",
+            "meaning": "보호자의 스킨십이나 안식처에서 극도의 안도감과 만족감을 느낄 때 내는 기쁨의 소리입니다.",
+            "response": "머리를 부드럽게 쓰다듬어 주며 차분하고 편안한 휴식을 지속할 수 있도록 주변 환경을 조용하게 유지해 줍니다."
+          },
+          {
+            "name": "뒷발 구르기 (Foot Thumping)",
+            "meaning": "주변의 강한 소음, 낯선 냄새, 혹은 위협 상황에 대한 경고 및 강한 불만의 신호입니다.",
+            "response": "위협 요소를 즉시 제거하고 부드러운 목소리로 안심시키며 무리하게 다가가거나 잡으려 하지 않습니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 신선한 티모시 건초 대량 보충 및 치아·장 상태 확인",
+            "text": "평생 자라는 이빨의 마모와 장운동 촉진을 위해 갓 개봉한 티모시 건초를 넉넉히 제공하고, 정상적인 위장관 운동을 나타내는 대변 및 맹장변 상태를 확인합니다."
+          },
+          {
+            "name": "낮: 푹신한 미끄럼 방지 매트 점검 및 실내 자유 방목",
+            "text": "육중한 체중으로 인한 관절 부담과 발바닥 비절피부염을 막기 위해 푹신한 도톰 매트가 깔린 안전 구역에서 충분히 자유 방목 활동을 하도록 돕습니다."
+          },
+          {
+            "name": "밤: 발바닥 피부·관절 점검 및 정량 펠릿 급여",
+            "text": "뒷발바닥 털 속 피부에 발적이 없는지 점검하고, 비만 예방을 위해 체중에 맞춘 고섬유질 펠릿 사료를 정량 급여합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "플레미시 자이언트는 실내 자유 방목(Free-roaming)이 필수인가요?",
+            "answer": "네, 필수입니다. 성체 체중이 6~10kg에 달하므로 시중의 표준 토끼 케이지는 너무 좁아 척추 및 관절 변형을 일으킵니다. 최소 2x3m 이상의 초대형 울타리를 사용하거나 전선과 위험물을 차단한 실내 자유 방목 환경을 갖춰야 합니다."
+          },
+          {
+            "question": "관절 건강과 발바닥 비절피부염(Sore Hocks)은 어떻게 예방하나요?",
+            "answer": "토끼는 발바닥 패드가 없어 두꺼운 털로만 뼈를 보호합니다. 플레미시 자이언트는 체중이 무거워 와이어 바닥이나 미끄러운 장판에서 비절피부염이 발생하기 매우 쉽습니다. 두꺼운 미끄럼 방지 푹신 매트나 메모리폼 카페트를 깔아주는 것이 가장 중요합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Flemish Giant Rabbit Free-Roaming Care and 3-Step Tooth & Joint Health Routine",
+        "description": "Essential care for the gentle 'Gentle Giant' Flemish Giant Rabbit. Learn to manage free-roaming environments for their massive size, supply unlimited hay for dental health, and prevent sore hocks and joint strain.",
+        "authority": "American Rabbit Breeders Association (ARBA) Standards and House Rabbit Society (HRS) Clinical Guidelines",
+        "profile": {
+          "breed": "Flemish Giant Rabbit",
+          "lifespan": "7 ~ 10 Years",
+          "sleep_pattern": "8 ~ 12 Hours (Crepuscular - Active During Dawn and Dusk)",
+          "temperament": "Gentle, Calm, Docile, Social, Intelligent"
+        },
+        "intro": "Reaching adult weights of 6 to over 10 kg, the Flemish Giant is the largest domesticated rabbit breed in the world. Often dubbed the 'Gentle Giant' or the 'Maine Coon of rabbits,' they are renowned for their calm, dog-like affection. Standard rabbit cages are entirely unsuitable for their massive size, making large exercise pens or indoor free-roaming essential. Furthermore, supplying unlimited hay to wear down continuously growing teeth and preventing joint strain and pododermatitis (sore hocks) are critical for their longevity. In this guide, we translate Flemish Giant instinctual signals and present a 3-step homecare routine for indoor roaming, gastrointestinal/dental wellness, and paw pad protection.",
+        "whyTitle": "Flemish Giant Instincts: Contented Tooth Purring and Defensive Foot Thumping",
+        "whyDesc": "Flemish Giants are highly expressive animals that communicate via clear physical cues. When deeply relaxed or receiving affection, they gently rub their molars together, producing a **'Tooth Purring'** sound equivalent to a cat's contented purr. Conversely, when startled, threatened, or annoyed, they stamp their heavy hind feet (**'Foot Thumping'**) against the floor to sound an alarm.",
+        "body_signals": [
+          {
+            "name": "Tooth Purring (Gentle Teeth Grinding)",
+            "meaning": "A sign of pure relaxation, contentment, and deep trust when resting in a secure space or being gently petted.",
+            "response": "Continue gentle head strokes and maintain a quiet, peaceful environment to sustain their comfortable mood."
+          },
+          {
+            "name": "Foot Thumping (Hind Leg Stomping)",
+            "meaning": "An alarm or frustration signal triggered by sudden loud noises, unfamiliar odors, or perceived environmental danger.",
+            "response": "Identify and remove the threat immediately, speaking in soft, soothing tones without attempting to force contact."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Unlimited Fresh Timothy Hay & Dental/GI Checkup",
+            "text": "Refill hay racks with clean Timothy hay to promote healthy gut motility and wear down incisors, while inspecting litter box droppings for normal GI function."
+          },
+          {
+            "name": "Afternoon: Padded Flooring Maintenance & Free-Roaming Exercise",
+            "text": "Inspect non-slip padded rugs and allow supervised indoor free-roaming exercise to stretch their large muscular limbs without putting pressure on joints."
+          },
+          {
+            "name": "Evening: Sore Hock & Joint Inspection with Measured Pellet Feeding",
+            "text": "Examine hind foot pads under the fur for inflammation or hair loss, and feed a measured high-fiber pellet portion to prevent obesity."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Is indoor free-roaming mandatory for a Flemish Giant Rabbit?",
+            "answer": "Yes, absolutely. Due to their massive 6–10+ kg size, standard commercial rabbit cages cause spinal deformities and severe muscle atrophy. They require a spacious exercise pen (at least 2x3 meters) or a rabbit-proofed indoor free-roaming environment."
+          },
+          {
+            "question": "How do I prevent sore hocks (pododermatitis) in giant rabbits?",
+            "answer": "Rabbits lack protective paw pads and rely entirely on fur to cushion their feet. Because of their heavy weight, wire floors or slippery tiles easily cause ulcerative pododermatitis. Covering all walking areas with thick memory foam rugs or padded fleece is essential."
+          }
+        ]
+      },
+      "ja": {
+        "title": "フレミッシュジャイアントの室内放し飼いケアと歯・関節の健康3ステップルーティン",
+        "description": "「ウサギ界のメインクーン」フレミッシュジャイアントの専門ケア。大型体型に合わせた室内放し飼い環境、無制限の牧草による歯と腸のケア、関節炎・ソアホック予防法を詳しく解説します。",
+        "authority": "ARBA（アメリカウサギ協会）品種標準およびHouse Rabbit Society (HRS) 臨床ケアガイドライン",
+        "profile": {
+          "breed": "フレミッシュジャイアント (Flemish Giant Rabbit)",
+          "lifespan": "7 〜 10年",
+          "sleep_pattern": "8 〜 12時間 (明け方と夕方に活発な薄明薄暮性・多相性睡眠)",
+          "temperament": "温厚、穏やか、従順、社交的、賢い"
+        },
+        "intro": "成体の体重が6〜10kg以上にも達する世界最大の家ウサギ品種、フレミッシュジャイアント。その大きな体とは対照的に、非常に穏やかで人懐っこい性格から「優しい巨人」や「ウサギ界のメインクーン」と称されています。一般的な小型ウサギ用ケージでは狭すぎるため、特大サークルや室内の放し飼い（Free-roaming）環境が必須です。また、生涯伸び続ける歯を摩耗させる無制限の牧草給与と、重い体重を支える関節および足裏の皮膚炎（ソアホック）予防が健康維持の鍵となります。本記事では、本能サインの解説と、放し飼い・歯・関節を守る3ステップ日常ケアをご紹介します。",
+        "whyTitle": "フレミッシュジャイアントの習性サイン：喜びの歯鳴らし（ゴリゴリ）と警戒の足ダン",
+        "whyDesc": "フレミッシュジャイアントは感情表現が非常に豊かです。撫でられて心地よい時やリラックスしている時は、歯を優しくすり合わせて**「歯鳴らし（Tooth Purring）」**という音を立て、猫のゴロゴロ音のような満足感を示します。一方、恐怖や強い不満を感じた時は、重い後脚で床を力強く叩く**「足ダン（Foot Thumping）」**を見せます。",
+        "body_signals": [
+          {
+            "name": "歯鳴らし / 歯すり音 (Tooth Purring)",
+            "meaning": "スキンシップや安全な場所で極上のリラックスと信頼を感じている時の喜びのサインです。",
+            "response": "優しく頭を撫で続け、静かで穏やかな環境を維持して安心感を与えてあげましょう。"
+          },
+          {
+            "name": "スタンピング / 足ダン (Foot Thumping)",
+            "meaning": "大きな物音や知らない匂い、不快感に対する警戒および危険を知らせる行動です。",
+            "response": "不安の要因を速やかに取り除き、優しく低い声で語りかけながら落ち着くのを待ちます。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：新鮮なチモシーの大量補充と糞の状態確認",
+            "text": "歯の摩耗と胃腸の蠕動運動を促すため新鮮なチモシーをたっぷりと補充し、健全な糞（盲腸便を含む）の状態を確認します。"
+          },
+          {
+            "name": "昼：クッション性の高い滑り止めマット点検と室内運動",
+            "text": "重い体重による関節への負担とソアホックを防ぐため、厚手マットを敷いた安全な室内スペースで自由に過ごさせます。"
+          },
+          {
+            "name": "夜：足裏ソアホック・関節の点検と定量ペレット給餌",
+            "text": "後脚の足裏皮膚に赤みや抜け毛がないか確認し、肥満を防ぐため体重に合わせた高繊維ペレットを定量給餌します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "フレミッシュジャイアントにケージなしの放し飼いは必須ですか？",
+            "answer": "はい、必須です。成体で6〜10kg以上になるため、市販のウサギ用ケージでは骨格や関節に歪みが生じます。最低でも2x3m以上の大型サークルか、危険物を除去した部屋での放し飼い環境が必要です。"
+          },
+          {
+            "question": "関節炎や足裏のソアホック（飛節皮膚炎）はどう予防しますか？",
+            "answer": "ウサギには肉球がなく被毛だけで骨を保護しています。体重が重いフレミッシュジャイアントは、金網床や滑りやすいフローリングでソアホックを発症しやすいため、厚手のラグや低反発マットを敷くことが不可欠です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "弗莱芒巨型兔室内半自由养护与牙齿·关节健康3阶段日常指南",
+        "description": "针对“兔界缅因猫”弗莱芒巨型兔（Flemish Giant Rabbit）专属护理。学习适应其巨型体格的室内自由活动环境构建、无限制牧草磨牙护肠法以及关节与脚底溃疡（Sore Hocks）预防。",
+        "authority": "美国家兔培育者协会 (ARBA) 标准与美国家兔协会 (HRS) 临床护理指南",
+        "profile": {
+          "breed": "弗莱芒巨型兔 (Flemish Giant Rabbit)",
+          "lifespan": "7 ~ 10年",
+          "sleep_pattern": "8 ~ 12小时 (晨昏活跃的多相性睡眠)",
+          "temperament": "温和、沉稳、顺从、社交性强、聪明"
+        },
+        "intro": "弗莱芒巨型兔成年体重可达6-10公斤以上，是世界上体型最大的家兔品种。与其庞大体型形成鲜明对比的是其极其温顺随和的性格，因而被称为“温柔的巨人”或“兔界缅因猫”。普通的兔子笼子完全无法满足其体型需求，必须使用超大型围栏或进行室内半自由养护（Free-roaming）。此外，无限量提供干草以磨损终生不断生长的牙齿，以及预防承受重压的关节与脚底炎（Sore Hocks）是维持其健康的核心。本指南将解析弗莱芒巨型兔的本能信号，并分享涵盖自由活动、牙齿肠道健康及脚底关节保护的3阶段居家护理流程。",
+        "whyTitle": "弗莱芒巨型兔的本能信号：愉悦的磨牙声与警惕的跺脚行为",
+        "whyDesc": "弗莱芒巨型兔情绪表达非常直接。当受到抚摸或处于极度放松状态时，它们会轻柔摩擦牙齿发出 **“轻微磨牙声（Tooth Purring）”**，表达类似于猫咪打呼噜般的满足感；反之，当受到惊吓或感到不满时，它们会用沉重后腿重跺地面发出 **“跺脚（Foot Thumping）”** 的警报。",
+        "body_signals": [
+          {
+            "name": "轻微磨牙声 (Tooth Purring)",
+            "meaning": "在受到抚摸或处于极度有安全感的环境中发出的愉悦与放松信号。",
+            "response": "轻柔抚摸其头部并保持安静舒适的环境，让其继续安心休息。"
+          },
+          {
+            "name": "跺脚 (Foot Thumping)",
+            "meaning": "对周围巨响、陌生气味或潜在威胁发出的警惕与强烈不满信号。",
+            "response": "立即消除 Threat 来源，用温柔低沉的声音进行安抚，切勿强行抓抱。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：补充大量新鲜提摩西干草并检查排泄",
+            "text": "提供充足提摩西干草以磨损牙齿并促进肠道蠕动，检查粪便及盲肠便状态以确认胃肠健康。"
+          },
+          {
+            "name": "中午：检查防滑防压垫并进行室内散养活动",
+            "text": "在铺有防滑软垫的区域进行散养活动，减轻重体型对关节与脚底皮肤的压力。"
+          },
+          {
+            "name": "晚上：脚底皮肤与关节检查及定量喂食颗粒",
+            "text": "检查后脚底皮肤有无红肿发炎，定量喂食高纤维颗粒饲料以防肥胖。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "室内自由散养对弗莱芒巨型兔是必须的吗？",
+            "answer": "是的，非常必须。成年体重6-10公斤的巨型兔住在标准兔笼里会导致脊柱及关节严重变形。需要至少2x3米以上的超大围栏或彻底排除危险物的散养房间。"
+          },
+          {
+            "question": "如何预防关节炎与脚底溃疡（Sore Hocks）？",
+            "answer": "兔子没有足底肉垫，靠毛发保护骨头。巨型兔体重极重，在铁丝网或光滑地板上极易患脚底溃疡。必须铺设厚实柔软的防滑垫或记忆棉地毯。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Guía de cuidado del Conejo Gigante de Flandes y rutina de 3 pasos para salud dental y articular",
+        "description": "Cuidado esencial para el 'Gentil Gigante' Conejo Gigante de Flandes. Aprenda a gestionar espacios de libre movimiento para su gran tamaño, proveer heno ilimitado para sus dientes y prevenir úlceras podales (sore hocks).",
+        "authority": "Estándares de la ARBA y Guías Clínicas de la House Rabbit Society (HRS)",
+        "profile": {
+          "breed": "Conejo Gigante de Flandes (Flemish Giant Rabbit)",
+          "lifespan": "7 ~ 10 años",
+          "sleep_pattern": "8 ~ 12 horas (crepuscular y polifásico - activo al amanecer y atardecer)",
+          "temperament": "Gentil, calmo, dócil, social, inteligente"
+        },
+        "intro": "Con un peso adulto de 6 a más de 10 kg, el Gigante de Flandes es la raza de conejo doméstico más grande del mundo. Conocidos como 'gentiles gigantes' o el 'Maine Coon de los conejos', destacan por su carácter sereno y afable. Las jaulas estándar son totalmente inadecuadas para su tamaño, siendo imprescindibles los cercos XL o la libre circulación en casa. Además, el heno ilimitado para desgastar sus dientes en continuo crecimiento y la prevención de pododermatitis (sore hocks) son vitales. En esta guía se presenta mos una rutina de 3 pasos para su cuidado integral.",
+        "whyTitle": "Instintos del Gigante de Flandes: Ronroneo dental y pateo defensivo",
+        "whyDesc": "Los Gigantes de Flandes expresan sus emociones mediante señales físicas claras. Al estar profundamente relajados o recibir caricias, frotan sus molares suavemente emitiendo un **'Ronroneo dental' (Tooth Purring)**. Por el contrario, al asustarse o molestarse, golpean con fuerza el suelo con sus patas traseras (**'Foot Thumping'**) como señal de alarma.",
+        "body_signals": [
+          {
+            "name": "Ronroneo dental (Tooth Purring)",
+            "meaning": "Señal de absoluto confort, paz y profunda confianza al descansar o recibir caricias afectuosas.",
+            "response": "Acaricie su cabeza suavemente y mantenga un entorno tranquilo para prolongar su relajación."
+          },
+          {
+            "name": "Golpe de pata trasera (Foot Thumping)",
+            "meaning": "Señal de alarma o frustración desencadenada por ruidos fuertes, olores extraños o amenaza percibida.",
+            "response": "Elimine la causa de estrés de inmediato y háblele con voz suave sin intentar acorralarlo."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Heno Timothy fresco ilimitado y chequeo digestivo",
+            "text": "Suministre heno fresco a discreción para desgastar los dientes y estimular el tránsito intestinal, comprobando la salud de sus deposiciones."
+          },
+          {
+            "name": "Tarde: Mantenimiento de suelo acolchado y ejercicio libre",
+            "text": "Inspeccione las alfombras antideslizantes y permita el movimiento libre por zonas acolchadas para ejercitar sus extremidades sin dañar articulaciones."
+          },
+          {
+            "name": "Noche: Inspección de patas y articulaciones y pienso medido",
+            "text": "Examine la piel bajo el pelo de las patas traseras para descartar inflamaciones y ofrezca una ración dosificada de pienso alto en fibra para evitar obesidad."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Es obligatorio el espacio de libre movimiento para un Gigante de Flandes?",
+            "answer": "Sí, totalmente. Debido a su masa corporal (6-10+ kg), las jaulas comerciales causan graves deformaciones espinales. Requieren un cerco amplio (mínimo 2x3 metros) o una habitación habilitada para libre movimiento."
+          },
+          {
+            "question": "¿Cómo prevenir la pododermatitis (Sore Hocks) en conejos gigantes?",
+            "answer": "Los conejos carecen de almohadillas plantares. Su gran peso sobre suelos duros o de alambre provoca úlceras dolorosas. Es fundamental cubrir todas las zonas de paso con alfombras gruesas acolchadas o de espuma viscoelástica."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Guide de soin du Lapin Géant des Flandres et routine en 3 étapes pour la santé dentaire et articulaire",
+        "description": "Soins essentiels pour le 'Gentil Géant' des Flandres. Apprenez à aménager un espace en liberté adapté à sa grande taille, fournir du foin à volonté et prévenir la pododermatite (sore hocks).",
+        "authority": "Normes de l'ARBA et Directives Cliniques de la House Rabbit Society (HRS)",
+        "profile": {
+          "breed": "Géant des Flandres (Flemish Giant Rabbit)",
+          "lifespan": "7 ~ 10 ans",
+          "sleep_pattern": "8 ~ 12 heures (crépusculaire et polyphasique - actif à l'aube et au crépuscule)",
+          "temperament": "Doux, calme, docile, social, intelligent"
+        },
+        "intro": "Atteignant 6 à plus de 10 kg à l'âge adulte, le Géant des Flandres est la plus grande race de lapin domestique au monde. Surnommé le 'Gentil Géant' ou le 'Maine Coon des lapins', il est réputé pour sa nature très paisible. Les cages standard sont totalement inadaptées à son gabarit, rendant les enclos XL ou la liberté totale en intérieur indispensables. De plus, du foin à volonté pour limer ses dents à croissance continue et la prévention de la pododermatite sont cruciaux. Découvrez une routine en 3 étapes.",
+        "whyTitle": "Instincts du Géant des Flandres : Grincement de dents apaisant et tapement de patte",
+        "whyDesc": "Le Géant des Flandres exprime clairement ses émotions. Lorsqu'il est apaisé ou caressé, il frotte doucement ses molaires (**'Grincement de dents' / Tooth Purring**). S'il est effrayé, surpris ou contrarié, il tape fort du pied arrière sur le sol (**'Tapement de patte' / Foot Thumping**).",
+        "body_signals": [
+          {
+            "name": "Grincement de dents doux (Tooth Purring)",
+            "meaning": "Signe de relaxation absolue, de plaisir et de confiance totale lors des caresses ou du repos.",
+            "response": "Caressez-lui la tête doucement et préservez un environnement calme pour prolonger ce moment."
+          },
+          {
+            "name": "Tapement de patte arrière (Foot Thumping)",
+            "meaning": "Signal d'alerte ou de frustration face à un bruit soudain, une odeur inconnue ou un danger.",
+            "response": "Éliminez immédiatement la source de stress et parlez-lui d'une voix douce sans le brusquer."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Foin de fléole frais à volonté et vérification digestive",
+            "text": "Distribuez du foin de fléole frais à volonté pour l'usure dentaire et le transit, tout en contrôlant l'aspect des crottes dans le bac."
+          },
+          {
+            "name": "Après-midi : Entretien des tapis rembourrés et liberté en intérieur",
+            "text": "Assurez-vous de la présence de tapis antidérapants et laissez-le gambader pour exercer ses membres sans solliciter excessivement ses articulations."
+          },
+          {
+            "name": "Soir : Inspection des pattes, des articulations et granulés dosés",
+            "text": "Examinez les coussinets arrière sous le pelage pour déceler toute rougeur et donnez une ration contrôlée de granulés riches en fibres."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "La liberté en intérieur est-elle obligatoire pour le Géant des Flandres ?",
+            "answer": "Oui, absolument. Pesant entre 6 et 10+ kg, les cages du commerce provoquent de graves déformations de la colonne vertébrale. Un grand enclos d'au moins 2x3 mètres ou une pièce sécurisée en liberté est nécessaire."
+          },
+          {
+            "question": "Comment éviter la pododermatite (Sore Hocks) chez les lapins géants ?",
+            "answer": "Les lapins n'ont pas de coussinets de chair sous les pattes. Leur poids important sur sol dur ou grillage crée des plaies ulcéreuses. Il est primordial de recouvrir le sol de tapis épais rembourrés ou en mousse à mémoire de forme."
+          }
+        ]
+      },
+      "de": {
+        "title": "Belgischer Riese Haltung und 3-Schritte-Routine für Zahn- & Gelenkgesundheit",
+        "description": "Essenzielle Pflege für den 'Sanften Riesen' Belgischen Riesen (Flemish Giant). Erfahren Sie alles über freie Wohnungshaltung, unbegrenztes Heu für die Zähne und Prävention von Sohlengeschwüren (Sore Hocks).",
+        "authority": "ARBA-Rassestandards und Klinische Richtlinien der House Rabbit Society (HRS)",
+        "profile": {
+          "breed": "Belgischer Riese (Flemish Giant Rabbit)",
+          "lifespan": "7 ~ 10 Jahre",
+          "sleep_pattern": "8 ~ 12 Stunden (dämmerungsaktiv & polyphasisch - aktiv bei Dämmerung)",
+          "temperament": "Sanftmütig, ruhig, gelassen, sozial, klug"
+        },
+        "intro": "Mit einem ausgewachsenen Gewicht von 6 bis über 10 kg ist der Belgische Riese die größte Hauskaninchenrasse der Welt. Bekannt als 'Sanfter Riese' oder 'Main Coon der Kaninchen', besticht er durch sein ruhiges, anhängliches Wesen. Handelsübliche Käfige sind für seine Größe ungeeignet, weshalb XL-Gehege oder freie Wohnungshaltung unerlässlich sind. Unbegrenztes Heu für den Abrieb der nachwachsenden Zähne sowie der Schutz vor Pododermatitis (Sohlengeschwüren) sind entscheidend. Dieser Ratgeber zeigt die 3-Schritte-Routine.",
+        "whyTitle": "Instinkte des Belgischen Riesen: Zufriedenes Zähneknuspern und Warn-Klopfen",
+        "whyDesc": "Belgische Riesen drücken Gefühle klar aus. Bei Entspannung oder beim Streicheln reiben sie sanft die Backenzähne gegeneinander (**'Zähneknuspern' / Tooth Purring**). Bei Erschrecken, Gefahr oder Unmut klopfen sie kraftvoll mit den Hinterläufen auf den Boden (**'Klopfen' / Foot Thumping**).",
+        "body_signals": [
+          {
+            "name": "Zähneknuspern (Tooth Purring)",
+            "meaning": "Zeichen tiefer Entspannung, Zufriedenheit und Vertrauen beim Ruhen oder Streicheln.",
+            "response": "Streicheln Sie sanft den Kopf weiter und sorgen Sie für eine ruhige, entspannte Umgebung."
+          },
+          {
+            "name": "Klopfen mit dem Hinterlauf (Foot Thumping)",
+            "meaning": "Warn- und Stresssignal bei plötzlichem Lärm, fremden Gerüchen oder wahrgenommener Gefahr.",
+            "response": "Entfernen Sie die Störquelle sofort und sprechen Sie beruhigend, ohne das Tier zu bedrängen."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Unbegrenztes Timothee-Heu & Zahn-/Darm-Check",
+            "text": "Füllen Sie frisches Timothee-Heu nach, um den Abrieb der Zähne und die Darmbewegung zu fördern, und prüfen Sie den Kot im Gehege."
+          },
+          {
+            "name": "Nachmittag: Pflege weicher Matten & Freilauf in der Wohnung",
+            "text": "Prüfen Sie rutschfeste Matten und ermöglichen Sie Auslauf in gesicherten Bereichen, um die Gelenke der schweren Läufe zu schonen."
+          },
+          {
+            "name": "Abend: Pfoten- & Gelenkkontrolle sowie abgemessene Pellets",
+            "text": "Kontrollieren Sie die Sohlen der Hinterläufe auf Rötungen und füttern Sie eine rationierte Menge ballaststoffreicher Pellets zur Gewichtsregulierung."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Ist freie Wohnungshaltung für einen Belgischen Riesen Pflicht?",
+            "answer": "Ja, absolut. Aufgrund ihres Gewichts von 6-10+ kg führen Standardkäfige zu Fehlhaltungen der Wirbelsäule. Ein Gehege von mindestens 2x3 Metern oder freie Wohnungshaltung in gesicherten Räumen ist erforderlich."
+          },
+          {
+            "question": "Wie beugt man Sohlengeschwüren (Sore Hocks) vor?",
+            "answer": "Kaninchen haben keine Pfotenballen und schützen die Knochen nur durch Fell. Das hohe Gewicht führt auf hartem Boden schnell zu Wunden. Das Auslegen von dicken, weichen Teppichen oder Memory-Foam-Matten ist zwingend nötig."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Guia de cuidado do Coelho Gigante de Flandres e rotina de 3 passos para saúde dental e articular",
+        "description": "Cuidados essenciais para o 'Gentil Gigante' de Flandres. Aprenda a gerir espaços de livre circulação para o seu grande porte, fornecer feno ilimitado e prevenir a pododermatite (sore hocks).",
+        "authority": "Padrões da ARBA e Diretrizes Clínicas da House Rabbit Society (HRS)",
+        "profile": {
+          "breed": "Coelho Gigante de Flandres (Flemish Giant Rabbit)",
+          "lifespan": "7 ~ 10 anos",
+          "sleep_pattern": "8 ~ 12 horas (crepuscular e polifásico - ativo ao amanhecer e anoitecer)",
+          "temperament": "Gentil, calmo, dócil, social, inteligente"
+        },
+        "intro": "Com peso adulto entre 6 e mais de 10 kg, o Gigante de Flandres é a maior raça de coelho doméstico do mundo. Conhecidos como 'Gentis Gigantes' ou o 'Maine Coon dos coelhos', destacam-se pelo seu temperamento sereno. Gaiolas padrão são totalmente inadequadas para o seu tamanho, sendo indispensáveis cercados XL ou vida livre em casa. Além disso, feno ilimitado para desgastar os dentes e prevenção de pododermatite são fundamentais. Conheça a rotina de 3 passos.",
+        "whyTitle": "Instintos do Gigante de Flandres: Ranger suave de dentes e batida de patas",
+        "whyDesc": "Os Gigantes de Flandres expressam as suas emoções através de sinais claros. Quando relaxados ou a receber carinho, roçam suavemente os molares (**'Ranger de dentes' / Tooth Purring**). Ao sentirem medo ou frustração, batem a pata traseira com força no chão (**'Batida de pata' / Foot Thumping**).",
+        "body_signals": [
+          {
+            "name": "Ranger suave de dentes (Tooth Purring)",
+            "meaning": "Sinal de profundo relaxamento, conforto e confiança ao descansar ou receber carinho.",
+            "response": "Acaricie a cabeça suavemente e mantenha um ambiente calmo para prolongar o seu bem-estar."
+          },
+          {
+            "name": "Batida de pata traseira (Foot Thumping)",
+            "meaning": "Sinal de alarme ou insatisfação perante barulhos fortes, odores estranhos ou perigo.",
+            "response": "Remova a fonte de stresse imediatamente e fale de forma calma sem o encurralar."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Feno Timothy fresco ilimitado e controlo digestivo",
+            "text": "Forneça feno Timothy fresco ilimitado para desgaste dentário e trânsito intestinal, inspecionando o aspeto dos dejetos."
+          },
+          {
+            "name": "Tarde: Manutenção de piso acolchoado e exercício livre",
+            "text": "Permita a circulação livre em áreas acolchoadas e antiderrapantes para exercitar os membros sem sobrecarregar as articulações."
+          },
+          {
+            "name": "Noite: Inspeção das patas, articulações e ração dosada",
+            "text": "Inspecione a pele sob o pelo das patas traseiras e ofereça uma porção dosada de ração rica em fibra para evitar a obesidade."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "A circulação livre é obrigatória para o Gigante de Flandres?",
+            "answer": "Sim, totalmente. Devido ao seu peso (6-10+ kg), gaiolas comerciais causam deformações na coluna. Necessitam de cercados de no mínimo 2x3 metros ou espaço livre na casa."
+          },
+          {
+            "question": "Como prevenir a pododermatite (Sore Hocks)?",
+            "answer": "Os coelhos não têm almofadinhas nas patas e dependem do pelo para proteger os ossos. O peso elevado em pisos duros provoca feridas; é essencial cobrir o chão com tapetes acolchoados espessos."
+          }
+        ]
+      },
+      "id": {
+        "title": "Panduan Perawatan Flemish Giant Rabbit dan Rutinitas 3 Langkah Kesehatan Gigi & Sendi",
+        "description": "Perawatan esensial untuk 'Raksasa Lembut' kelinci Flemish Giant. Pelajari cara mengelola area bebas untuk ukurannya yang raksasa, menyediakan jerami tak terbatas, serta mencegah luka telapak kaki (sore hocks).",
+        "authority": "Standar ARBA dan Panduan Klinis House Rabbit Society (HRS)",
+        "profile": {
+          "breed": "Kelinci Flemish Giant (Flemish Giant Rabbit)",
+          "lifespan": "7 ~ 10 tahun",
+          "sleep_pattern": "8 ~ 12 jam (krepuskular & polifasik - aktif saat fajar dan senja)",
+          "temperament": "Lembut, tenang, penurut, sosial, cerdas"
+        },
+        "intro": "Dengan bobot dewasa mencapai 6 hingga 10+ kg, Flemish Giant adalah ras kelinci domestik terbesar di dunia. Dijuluki 'Raksasa Lembut' atau 'Maine Coon-nya kelinci', mereka terkenal dengan sifatnya yang sangat tenang dan penyayang. Kandang kelinci standar sama sekali tidak cocok untuk ukurannya, sehingga area bermain XL atau bebas di dalam rumah sangat wajib. Selain itu, pasokan jerami tak terbatas untuk mengikis gigi serta pencegahan luka telapak kaki (sore hocks) sangat krusial.  menyajikan rutinitas 3 langkahnya.",
+        "whyTitle": "Insting Flemish Giant: Gemertuk Gigi Lembut dan Hentakan Kaki Belakang",
+        "whyDesc": "Kelinci Flemish Giant mengekspresikan emosinya secara jelas. Saat merasa sangat santai atau dibelai, mereka menggesekkan gigi gerahamnya secara lembut (**'Gemertuk Gigi' / Tooth Purring**). Sebaliknya, saat terkejut atau kesal, mereka menghentakkan kaki belakangnya yang berat ke lantai (**'Hentakan Kaki' / Foot Thumping**).",
+        "body_signals": [
+          {
+            "name": "Gemertuk Gigi Lembut (Tooth Purring)",
+            "meaning": "Tanda rasa nyaman, puas, dan percaya yang mendalam saat beristirahat atau dibelai.",
+            "response": "Beri belaian lembut di kepala dan pertahankan suasana yang tenang untuk menjaga kenyamanannya."
+          },
+          {
+            "name": "Hentakan Kaki Belakang (Foot Thumping)",
+            "meaning": "Sinyal bahaya atau kekesalan akibat suara keras mendadak, bau asing, atau ancaman.",
+            "response": "Singkirkan pemicu stres segera dan bicaralah dengan nada lembut tanpa memaksakan kontak."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Jerami Timothy Segar Tak Terbatas & Cek Gigi/Pencernaan",
+            "text": "Sediakan jerami Timothy segar tak terbatas untuk mengikis gigi dan menjaga pencernaan, serta periksa kotoran di kotak pasir."
+          },
+          {
+            "name": "Siang: Perawatan Alas Empuk & Aktivitas Bebas di Dalam Rumah",
+            "text": "Bebaskan mereka bergerak di area berkarpet empuk anti-slip untuk melatih otot tanpa memberi tekanan berlebih pada sendi."
+          },
+          {
+            "name": "Malam: Pemeriksaan Telapak Kaki & Sendi serta Pelet Terukur",
+            "text": "Periksa kulit telapak kaki belakang di balik bulu dari kemerahan, dan berikan pelet tinggi serat yang terukur untuk mencegah obesitas."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah area bebas (free-roaming) wajib untuk Flemish Giant?",
+            "answer": "Ya, sangat wajib. Karena ukurannya (6-10+ kg), kandang biasa menyebabkan kelainan tulang belakang. Mereka membutuhkan area pagar minimal 2x3 meter atau ruang bebas yang aman dari bahaya."
+          },
+          {
+            "question": "Bagaimana cara mencegah luka telapak kaki (Sore Hocks)?",
+            "answer": "Kelinci tidak memiliki bantalan kaki dan mengandalkan bulu untuk melindungi tulang. Beban berat di lantai keras dapat memicu luka. Sangat penting untuk melapisi lantai dengan karpet empuk atau busa memori."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/flemish_giant_rabbit_care.webp"
+  }
 }

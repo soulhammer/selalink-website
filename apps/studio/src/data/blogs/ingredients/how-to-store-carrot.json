@@ -1,406 +1,406 @@
 {
-    "how-to-store-carrot": {
-        "ingId": "carrot",
-        "pubDate": "2026-01-01",
-        "updatedDate": "2026-01-01",
-        "heroImage": "/images/blog/carrot_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "당근 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 당근의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
-                "intro": "흙 묻은 당근을 씻어서 그대로 냉장고에 넣었다가 얼마 못 가 검게 무르고 바람이 들어 버린 적 있으시죠? 🥕\n\n당근은 수분이 풍부한 뿌리채소로, 외부 습도와 식물 호르몬인 에틸렌 가스에 매우 민감하게 반응합니다. 특히 보관 환경에 따라 수분이 증발해 표면이 쭈글쭈글해지거나, 에틸렌에 노출되어 쓴맛 성분이 생기기 쉽습니다.\n\n이번 가이드에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 연구를 바탕으로, 당근의 쓴맛을 방지하고 아삭한 식감과 수분을 3주 이상 완벽하게 지켜주는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "사과 등 에틸렌 방출 과일과 격리하세요 ⚠️",
-                        "desc": "당근을 사과, 배, 바나나 등 에틸렌 가스를 많이 방출하는 과일과 함께 보관하면, 당근 속 당분이 쓴맛을 내는 유기화합물인 '이소쿠마린(Isocoumarin)'으로 변하게 됩니다. 반드시 밀봉하여 독립적으로 보관해야 합니다."
-                    },
-                    {
-                        "title": "보관 전 당근 잎(순)을 반드시 잘라내세요 🥕",
-                        "desc": "초록색 당근 잎이나 줄기가 붙어 있으면 수확 후에도 뿌리(당근)의 수분과 비타민, 영양소를 계속해서 빨아들입니다. 당근이 금세 푸석해지고 바람이 들게 되므로, 구매 즉시 잎 상단부를 잘라내고 보관해야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "표면 물기를 완벽하게 건조하기 — 습기 차단 흙당근 건조 📦",
-                        "text": "당근은 표면에 물기가 남아있으면 곰팡이와 미생물이 급격히 번식하여 부패가 시작됩니다. 💡 보관 팁: 흙당근은 씻지 말고 흙이 묻은 상태 그대로, 세척당근은 물기를 키친타월로 완전히 닦아낸 뒤 통풍이 잘되는 그늘에서 1~2시간 가볍게 말려 수분을 제거해 주세요."
-                    },
-                    {
-                        "name": "키친타월이나 신문지로 낱개 포장하기 — 수분 균형 유지 📰",
-                        "text": "당근을 한데 모아두면 결로가 생겨 서로 접촉하는 면부터 물러집니다. 💡 보관 팁: 건조된 당근을 신문지나 키친타월로 한 개씩 개별적으로 감싸주세요. 종이가 냉장고 안의 불필요한 과습을 흡수하는 동시에 당근 자체의 적정 수분이 빠져나가는 것을 막아주는 훌륭한 습도 조절제 역할을 합니다."
-                    },
-                    {
-                        "name": "지퍼백에 담아 세워서 냉장 보관하기 — 직립 냉장 보관 (21일) ❄️",
-                        "text": "당근을 눕혀서 보관하면 중력 스트레스로 인해 에너지를 소비하며 스스로 일어서려다가 아삭함이 사라집니다. 💡 보관 팁: 개별 포장한 당근을 밀폐 지퍼백에 넣은 뒤, 냉장고 야채칸(0~4℃)에 잎이 자라던 위쪽이 위로 향하도록 '세워서' 보관하세요. 밭에 심겨 있던 형태 그대로 보관해야 3주 이상 신선합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "당근을 먹었을 때 쓴맛이 나는 이유는 무엇인가요?",
-                        "answer": "당근의 쓴맛은 에틸렌 가스에 노출되었을 때 생성되는 '이소쿠마린' 성분 때문입니다. 사과, 배, 배추 등 에틸렌을 방출하는 식재료와 가까이 두었거나 보관 온도가 높았을 때 주로 발생합니다. 당근을 밀폐 지퍼백에 담아 에틸렌과 차단하고 0~4℃ 저온에서 보관하면 쓴맛 형성을 막을 수 있습니다."
-                    },
-                    {
-                        "question": "흙당근과 세척당근의 보관 기간과 방식에 차이가 있나요?",
-                        "answer": "네, 차이가 있습니다. 흙당근은 씻지 않고 흙을 털어낸 후 잎을 자르고 신문지에 싸서 냉장 보관하면 최대 1~2달까지 보관 가능합니다. 반면 세척당근은 표면 보호막이 제거되어 수분이 빨리 마르므로, 물기를 완전히 제거하고 키친타월로 감싸 밀봉 냉장 보관 시 약 2~3주간 보관할 수 있습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Carrots Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for carrots based on official safety guidelines.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Have you ever bought fresh carrots only to find them turn limp, rubbery, or covered in dark soft spots after a few days in the fridge? 🥕\n\nCarrots are moisture-rich root vegetables that react sensitively to external humidity and ethylene gas. Poor storage conditions cause moisture to evaporate—making the carrots wilted and soft—or trigger chemical reactions that produce a bitter taste.\n\nIn this guide, shares a scientifically proven 3-step storage guide based on research from the USDA and RDA to prevent bitterness, retain moisture, and keep your carrots perfectly crisp for over 3 weeks. 🛡️",
-                "whyTitle": "Why Store Carrots This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each produce item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Isolate carrots from ethylene-producing fruits ⚠️",
-                        "desc": "Storing carrots near ethylene-emitting produce like apples, pears, or bananas triggers a phenolic pathway that converts natural sugars in the carrot into 'isocoumarin', a bitter organic compound. Always seal and isolate carrots."
-                    },
-                    {
-                        "title": "Always trim green carrot tops before storing 🥕",
-                        "desc": "If green leafy carrot tops remain attached, they continue to draw water, vitamins, and reserves from the root post-harvest. This quickly leaves the carrot soft, fibrous, and hollow inside. Slice off the green tops immediately after purchase."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Dry surface moisture completely — Prevent Excess Moisture & Rot 📦",
-                        "text": "Trapped moisture on carrot skin causes rapid mold growth and bacterial soft rot. 💡 Storage Tip: Keep muddy unwashed carrots unwashed and dry any surface moisture in a cool, shady area. For pre-washed carrots, thoroughly pat them dry with paper towels before storing to maximize shelf life."
-                    },
-                    {
-                        "name": "Wrap individually in paper towels or newspaper — Moisture Balance 📰",
-                        "text": "Storing carrots piled together creates condensation at contact points, causing decay. 💡 Storage Tip: Wrap each dried carrot individually in paper towels or newspaper. The paper acts as a moisture regulator—absorbing excess humidity inside the fridge while preventing the carrot's inner moisture from evaporating."
-                    },
-                    {
-                        "name": "Store vertically in a Ziploc bag — Vertical Cold Storage (21 Days) ❄️",
-                        "text": "Storing carrots horizontally induces gravitropic stress, causing them to expend energy trying to bend upward and lose crispness. 💡 Storage Tip: Place wrapped carrots into a sealed Ziploc bag and stand them vertically in the refrigerator crisper drawer (0–4°C) with the stem end facing up, mimicking their natural growing position."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why do carrots sometimes taste bitter, and how can I prevent it?",
-                        "answer": "Carrots taste bitter when exposed to ethylene gas, which triggers the formation of 'isocoumarin'. This occurs when stored near ethylene producers like apples or stored at warm temperatures. Keep carrots sealed in a Ziploc bag away from ethylene sources and store at 0–4°C to prevent bitterness."
-                    },
-                    {
-                        "question": "What is the difference between storing unwashed (muddy) carrots vs. pre-washed carrots?",
-                        "answer": "Unwashed carrots with natural soil intact can last up to 1–2 months when green tops are trimmed and they are wrapped in newspaper. Pre-washed carrots have lost their protective outer layer and dry out faster; patting them completely dry and wrapping them individually in paper towels preserves them for about 2–3 weeks."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "人参を新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づく人参の最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "買ってきたばかりの人参を冷蔵庫に入れておいたら、数日でぐにゃぐにゃに柔らかくなったり、黒く傷んでしまった経験はありませんか？🥕\n\n人参は水分が豊富な根菜類で、外部の湿度やエチレンガスに対して非常に敏感です。保存環境が悪いと水分が蒸発して皮がシワシワになったり、エチレンに反応して苦味成分が発生しやすくなります。\n\n本記事では、農村振興庁（RDA）および米国農務省（USDA）の研究に基づき、人参の苦味を防ぎ、シャキシャキした食感と水分を3週間以上キープする3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "リンゴなどエチレンを出す果物と隔離してください ⚠️",
-                        "desc": "人参をリンゴや梨、バナナなどエチレンガスを多く出す果物と一緒に保存すると、人参の中の糖分が苦味を持つ成分「イソクマリン（Isocoumarin）」に変化します。必ずジッパーバッグなどで密封して隔離保存してください。"
-                    },
-                    {
-                        "title": "保存前に人参の葉（芽）を必ず切り落としてください 🥕",
-                        "desc": "緑の葉や茎がついたままだと、収穫後も根（人参）の水分や栄養分を吸い上げてしまいます。人参がすぐにパサパサになり「す」が入る原因となるため、購入後すぐに葉の付け根部分を切り落としてください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "表面の水分を完全に乾かす — カビ・腐敗防止 📦",
-                        "text": "人参の表面に水分が残っていると、カビや微小細菌が急速に繁殖して傷み始めます。💡保存のコツ：土付き人参は洗わずに土がついたまま、洗浄人参は水分をペーパータオルでしっかり拭き取り、風通しの良い日陰で1〜2時間軽く乾かして水分を除去しましょう。"
-                    },
-                    {
-                        "name": "新聞紙やキッチンペーパーで1本ずつ包む — 水分バランスの維持 📰",
-                        "text": "人参をまとめて置いておくと結露が発生し、接触面から傷みやすくなります。💡保存のコツ：乾いた人参を新聞紙やキッチンペーパーで1本ずつ丁寧に包んでください。紙が冷蔵庫内の余分な湿気を吸収しつつ、人参自体の水分が抜けるのを防ぐ調湿剤の役割を果たします。"
-                    },
-                    {
-                        "name": "ジッパーバッグに入れ立てて冷蔵保存する — 直立冷蔵保存 (21日間) ❄️",
-                        "text": "人参を横にして保存すると、重力に逆らって立ち上がろうとするエネルギー消費が起き、シャキシャキ感が失われます。💡保存のコツ：包んだ人参をチャック付き密閉袋に入れ、野菜室（0〜4℃）に葉が生えていた上部を上にして「立てて」保存してください。畑で育った姿勢を保つことが長持ちの秘密です。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "人参を食べたときに苦味を感じる理由は何ですか？",
-                        "answer": "人参の苦味は、エチレンガスに晒された際に生成される「イソクマリン」という成分が原因です。リンゴや梨などエチレンを放出する食材の近くに置いたり、保存温度が高かった場合に発生します。ジッパーバッグに密封してエチレンを遮断し、0〜4℃の低温で保存することで苦味の発生を防げます。"
-                    },
-                    {
-                        "question": "土付き人参と洗い人参の保存期間や方法に違いはありますか？",
-                        "answer": "はい、違いがあります。土付き人参は洗わずに土を払い、葉を切って新聞紙で包み冷蔵保存すると1〜2ヶ月ほど長持ちします。一方、洗い人参は保護膜が落ちているため水分が抜けやすく、水分を拭き取ってキッチンペーパーで包み密封保存した場合で約2〜3週間保存可能です。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持胡萝卜新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解胡萝卜的最佳储存温度、方式和保鲜时长。",
-                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "您是否曾买回新鲜的胡萝卜放入冰箱，结果仅过几天就变软发绵，或者表面出现黑斑腐烂？🥕\n\n胡萝卜是水分丰富的根茎类蔬菜，对环境湿度与植物催熟激素——乙烯气体极度敏感。不当的储存环境会导致水分蒸发使表皮起皱变软，或者受乙烯刺激产生苦味成分。\n\n本指南基于韩国农村振兴厅(RDA)和美国农务部(USDA)的研究，为您带来3步科学保存秘诀，帮您防止苦味产生，完美保持清脆口感与水分达3周以上。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "请与苹果等释放乙烯的水果彻底隔离 ⚠️",
-                        "desc": "将胡萝卜与苹果、梨、香蕉等释放大量乙烯的水果保存在一起，胡萝卜中的糖分会转化为带有苦味的有机化合物“异香豆素（Isocoumarin）”。请务必密封隔离存放。"
-                    },
-                    {
-                        "title": "储存前请务必切除胡萝卜顶部的绿叶 🥕",
-                        "desc": "胡萝卜顶部的绿叶或嫩芽在采收后仍会继续吸收根部（胡萝卜）的水分、维生素与营养，导致胡萝卜迅速干瘪变空心。买回后请立即将顶部绿叶切除。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "彻底晾干表面水分 — 阻断湿气与霉变 📦",
-                        "text": "胡萝卜表面的残留水分是霉菌和细菌滋生腐烂的主要原因。💡储存小贴士：带泥胡萝卜切勿清洗，保持带泥状态；清洗过的胡萝卜请用厨房纸巾吸干水分，置于阴凉通风处晾干1~2小时，确保表面干燥。"
-                    },
-                    {
-                        "name": "用报纸或厨房纸巾单根包裹 — 保持水分平衡 📰",
-                        "text": "胡萝卜堆叠存放会在接触点产生结露，导致局部发黑腐烂。💡储存小贴士：将晾干的胡萝卜用报纸或厨房纸巾逐根包裹。纸张能吸收冰箱内的多余湿气，同时防止胡萝卜自身水分蒸发，起到绝佳的调湿作用。"
-                    },
-                    {
-                        "name": "装入拉链袋竖立冷藏 — 竖立冷藏保存 (21天) ❄️",
-                        "text": "横放胡萝卜会导致其受重力应激影响，消耗能量尝试向上挺直，从而失去清脆口感。💡储存小贴士：将包好的胡萝卜装入密封拉链袋，头部朝上“竖直”放入冰箱蔬菜保鲜抽屉（0~4℃）。维持其在土壤中的自然生长姿态是长久保鲜的关键。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "胡萝卜吃起来为什么会有苦味？该如何预防？",
-                        "answer": "胡萝卜的苦味是由于接触乙烯气体后生成的“异香豆素”成分引起的。当与苹果、梨等水果同放或储存温度过高时极易产生。将胡萝卜装入密封袋隔绝乙烯，并储存在0~4℃的低温环境中，即可有效防止苦味产生。"
-                    },
-                    {
-                        "question": "带泥胡萝卜和净水清洗过的胡萝卜在保存上有何区别？",
-                        "answer": "带泥胡萝卜切除绿叶后不清洗，用报纸包裹冷藏，可保存长达1~2个月。而洗净的胡萝卜去除了表皮天然保护层，水分流失更快，擦干水分并用厨房纸巾包裹密封冷藏，保鲜期约为2~3周。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener las zanahorias frescas: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para las zanahorias según las directrices oficiales de seguridad.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "¿Alguna vez compró zanahorias frescas solo para ver cómo en pocos días en el refrigerador se ponían flácidas, gomosas o cubiertas de manchas oscuras? 🥕\n\nLa zanahoria es una hortaliza de raíz rica en agua que reacciona con gran sensibilidad a la humedad externa y al gas etileno. Un mal almacenamiento hace que el agua se evapore, ablandando la hortaliza, o desencadena reacciones químicas que le otorgan un sabor amargo.\n\nEn esta guía se comparte una guía científica en 3 pasos basada en investigaciones del USDA y la RDA para prevenir el sabor amargo, retener la humedad y mantener sus zanahorias perfectamente crujientes por más de 3 semanas. 🛡️",
-                "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Aísle las zanahorias de frutas que emitan etileno ⚠️",
-                        "desc": "Guardar zanahorias cerca de productos que desprenden etileno (como manzanas, peras o plátanos) activa una vía fenólica que convierte sus azúcares en 'isocumarina', un compuesto orgánico amargo. Guárdelas siempre selladas e independientes."
-                    },
-                    {
-                        "title": "Corte siempre las hojas verdes superiores antes de guardarlas 🥕",
-                        "desc": "Si se dejan las hojas verdes superiores, estas seguirán extrayendo agua y nutrientes de la raíz después de la cosecha. Esto ablanda rápidamente la zanahoria y la deja ahuecada por dentro. Corte el tallo verde inmediatamente tras la compra."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Seque la humedad superficial por completo — Evite la pudrición 📦",
-                        "text": "La humedad atrapada en la piel de la zanahoria provoca moho y pudrición bacteriana rápida. 💡 Consejo de almacenamiento: Deje las zanahorias con tierra sin lavar y séquelas a la sombra. Si son zanahorias lavadas, séquelas bien con toallas de papel antes de guardarlas."
-                    },
-                    {
-                        "name": "Envuelva individualmente con toallas de papel o papel periódico — Equilibrio de humedad 📰",
-                        "text": "Almacenar las zanahorias amontonadas genera condensación en los puntos de contacto, pudriéndolas. 💡 Consejo de almacenamiento: Envuelva cada zanahoria secada individualmente en papel. El papel absorbe la humedad excesiva del refrigerador y evita que el agua propia de la zanahoria se evapore."
-                    },
-                    {
-                        "name": "Guarde de pie en una bolsa Ziploc — Almacenamiento vertical (21 días) ❄️",
-                        "text": "Acostar las zanahorias induce un estrés gravitrópico que hace que gasten energía tratando de erguirse, perdiendo firmeza. 💡 Consejo de almacenamiento: Coloque las zanahorias envueltas en una bolsa Ziploc y guárdelas erguidas en el cajón de verduras (0-4 °C) con la parte del tallo hacia arriba."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué las zanahorias a veces tienen un sabor amargo y cómo prevenirlo?",
-                        "answer": "El sabor amargo se debe a la formación de 'isocumarina' cuando la zanahoria se expone al gas etileno o a temperaturas cálidas. Para evitarlo, conserve las zanahorias aisladas en bolsas Ziploc lejos de frutas como manzanas y manténgalas en refrigeración a 0-4 °C."
-                    },
-                    {
-                        "question": "¿Cuál es la diferencia entre conservar zanahorias con tierra y zanahorias lavadas?",
-                        "answer": "Las zanahorias con tierra sin lavar duran hasta 1 o 2 meses si se les cortan las hojas verdes y se envuelven en papel periódico. Las zanahorias lavadas han perdido su capa protectora natural y se secan más rápido; secarlas bien y envolverlas individualmente en papel de cocina las conserva durante 2 a 3 semanas."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver les carottes fraîches : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les carottes selon les directives officielles de sécurité.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Avez-vous déjà acheté des carottes fraîches pour les retrouver molles, caoutchouteuses ou couvertes de taches noires après quelques jours au réfrigérateur ? 🥕\n\nLa carotte est un légume-racine riche en eau très sensible à l'humidité extérieure et au gaz éthylène. Des conditions de stockage inadaptées entraînent l'évaporation de son eau — rendant la carotte flétrie — ou déclenchent des réactions chimiques provoquant une amertume désagréable.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recherches du USDA et de la RDA pour prévenir l'amertume, maintenir l'hydratation et garder vos carottes parfaitement croquantes pendant plus de 3 semaines. 🛡️",
-                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Isolez les carottes des fruits émettant de l'éthylène ⚠️",
-                        "desc": "Conserver des carottes près de fruits émettant de l'éthylène (pommes, poires, bananes) transforme leurs sucres naturels en 'isocoumarine', un composé organique amertumifiant. Veillez à toujours les sceller et les isoler."
-                    },
-                    {
-                        "title": "Coupez toujours les fanes de carotte avant le stockage 🥕",
-                        "desc": "Si les fanes vertes restent attachées, elles continuent de puiser l'eau et les nutriments de la racine après la récolte. La carotte devient vite molle et creuse. Coupez les fanes immédiatement après l'achat."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Sécher l'humidité de surface complètement — Éviter la moisissure 📦",
-                        "text": "L'humidité piégée sur la peau de la carotte entraîne une moisissure rapide et le pourrissement. 💡 Astuce de conservation : Laissez les carottes terreuses non lavées et séchez l'humidité à l'ombre. Pour les carottes lavées, séchez-les soigneusement avec du papier absorbant avant stockage."
-                    },
-                    {
-                        "name": "Envelopper individuellement dans du papier absorbant ou du journal — Équilibre de l'humidité 📰",
-                        "text": "Empiler les carottes crée de la condensation aux points de contact et les fait pourrir. 💡 Astuce de conservation : Enveloppez chaque carotte sèche individuellement dans du papier. Le papier régule l'humidité en absorbant l'excès d'eau du frigo tout en empêchant le dessèchement de la carotte."
-                    },
-                    {
-                        "name": "Stocker verticalement dans un sac Ziploc — Stockage vertical (21 jours) ❄️",
-                        "text": "Coucher les carottes provoque un stress géotropique : elles dépensent de l'énergie pour se redresser et perdent leur croquant. 💡 Astuce de conservation : Placez les carottes emballées dans un sac Ziploc et conservez-les debout dans le bac à légumes (0-4 °C), fanes vers le haut."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi les carottes ont-elles parfois un goût amer et comment l'éviter ?",
-                        "answer": "Le goût amer est dû à la formation d'isocoumarine provoqué par le gaz éthylène ou une température élevée. Pour l'éviter, conservez les carottes isolées dans un sac Ziploc à l'écart des fruits comme les pommes et gardez-les au frais entre 0 et 4 °C."
-                    },
-                    {
-                        "question": "Quelle est la différence entre la conservation des carottes terreuses et des carottes lavées ?",
-                        "answer": "Les carottes terreuses non lavées se conservent jusqu'à 1 à 2 mois si l'on coupe leurs fanes et qu'on les enveloppe dans du papier journal. Les carottes lavées ont perdu leur couche protectrice et sèchent plus vite ; bien les sécher et les emballer individuellement dans de l'essuie-tout permet de les garder 2 à 3 semaines."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Karotten richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Karotten basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Haben Sie schon einmal frische Karotten gekauft, nur um nach wenigen Tagen im Kühlschrank festzustellen, dass sie biegsam, schrumpelig oder schwarz wurden? 🥕\n\nDie Karotte ist ein wasserreiches Wurzelgemüse, das extrem empfindlich auf Luftfeuchtigkeit und das Reifegas Ethylen reagiert. Falsche Lagerung lässt Wasser verdunsten — wodurch die Karotte welkt — oder löst chemische Reaktionen aus, die einen bitteren Geschmack erzeugen.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Forschungen von USDA und RDA basiert, um Bitterkeit zu vermeiden, Feuchtigkeit zu bewahren und Ihre Karotten über 3 Wochen lang knackig zu halten. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Karotten von ethylenproduzierenden Früchten isolieren ⚠️",
-                        "desc": "Werden Karotten neben ethylenabgebenden Früchten wie Äpfeln, Birnen oder Bananen gelagert, wandeln sich die natürlichen Zucker in der Karotte in das bittere 'Isocoumarin' um. Bitte stets dicht verschlossen isolieren."
-                    },
-                    {
-                        "title": "Das Karottengrün vor der Lagerung immer abschneiden 🥕",
-                        "desc": "Bleibt das grüne Karottengrün dran, entzieht es der Wurzel nach der Ernte weiterhin Wasser und Nährstoffe. Die Karotte wird schnell holzig und hohl. Schneiden Sie das Grün direkt nach dem Kauf ab."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Oberflächenfeuchtigkeit vollständig trocknen — Fäulnis verhindern 📦",
-                        "text": "Eingeschlossene Feuchtigkeit auf der Karottenschale führt zu schnellem Schimmelbefall. 💡 Lagerungstipp: Lassen Sie ungewaschene erdige Karotten ungewaschen und trocknen Sie Feuchtigkeit im Schatten ab. Tupfen Sie gewaschene Karotten vor dem Lagern gründlich mit Küchenpapier trocken."
-                    },
-                    {
-                        "name": "Einzeln in Küchenpapier oder Zeitungspapier einwickeln — Feuchtigkeitsbalance 📰",
-                        "text": "Das Stapeln von Karotten erzeugt Kondenswasser an den Kontaktstellen und lässt sie verfaulen. 💡 Lagerungstipp: Wickeln Sie jede getrocknete Karotte einzeln in Papier ein. Das Papier reguliert die Feuchtigkeit, saugt Überschuss auf und verhindert das Austrocknen."
-                    },
-                    {
-                        "name": "Aufrecht in einem Ziploc-Beutel kühlen — Aufrechte Kühllagerung (21 Tage) ❄️",
-                        "text": "Das flache Hinlegen von Karotten erzeugt Schwerkraftstress, wodurch sie Energie verbrauchen, um sich aufzurichten, und ihre Knackigkeit verlieren. 💡 Lagerungstipp: Stecken Sie die gewickelten Karotten in einen Ziploc-Beutel und lagern Sie sie aufrecht im Gemüsefach (0–4 °C)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum schmecken Karotten manchmal bitter und wie verhindert man das?",
-                        "answer": "Der bittere Geschmack entsteht durch die Bildung von 'Isocoumarin', wenn Karotten Ethylengas oder Wärme ausgesetzt sind. Lagern Sie Karotten stets getrennt von Obst wie Äpfeln in verschlossenen Ziploc-Beuteln bei 0–4 °C, um Bitterkeit zu vermeiden."
-                    },
-                    {
-                        "question": "Was ist der Unterschied zwischen der Lagerung von ungewaschenen und gewaschenen Karotten?",
-                        "answer": "Ungewaschene Karotten mit Erde halten sich mit abgeschnittenem Grün in Zeitungspapier gewickelt bis zu 1–2 Monate. Gewaschene Karotten haben ihre Schutzschicht verloren und trocknen schneller aus; gründliches Abtrocknen und einzelnes Einwickeln in Küchenpapier hält sie ca. 2–3 Wochen frisch."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar cenouras frescas: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para cenouras com base em diretrizes oficiais de segurança.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Você já comprou cenouras frescas e percebeu que em poucos dias na geladeira elas ficaram moles, flexíveis ou com manchas escuras? 🥕\n\nA cenoura é uma hortaliça de raiz rica em água que reage com grande sensibilidade à umidade externa e ao gás etileno. O armazenamento inadequado faz a água evaporar — murchando a cenoura — ou dispara reações químicas que geram um sabor amargo.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em pesquisas do USDA e da RDA para prevenir o sabor amargo, reter a umidade e manter suas cenouras perfeitamente crocantes por mais de 3 semanas. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Isole as cenouras de frutas que liberam etileno ⚠️",
-                        "desc": "Guardar cenouras perto de alimentos que emitem etileno (como maçãs, peras ou bananas) converte os açúcares naturais da cenoura em 'isocumarina', um composto orgânico amargo. Guarde-as sempre seladas e isoladas."
-                    },
-                    {
-                        "title": "Corte sempre as folhas verdes da cenoura antes de guardar 🥕",
-                        "desc": "Se as folhas verdes do topo forem mantidas, elas continuarão puxando água e nutrientes da raiz após a colheita. Isso murcha a cenoura rapidamente e a deixa oca por dentro. Corte as folhas imediatamente após a compra."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Seque a umidade da superfície completamente — Evite o apodrecimento 📦",
-                        "text": "A umidade presa na casca da cenoura causa mofo e deterioração bacteriana rápida. 💡 Dica de conservação: Mantenha cenouras com terra sem lavar e seque a umidade à sombra. Se forem cenouras lavadas, seque-as bem com papel-toalha antes de guardar."
-                    },
-                    {
-                        "name": "Embrulhe individualmente em papel-toalha ou jornal — Equilíbrio de umidade 📰",
-                        "text": "Guardar cenouras empilhadas cria condensação nos pontos de contato, fazendo-as apodrecer. 💡 Dica de conservação: Embrulhe cada cenoura seca individualmente em papel. O papel absorve o excesso de umidade da geladeira e evita que a água da cenoura evapore."
-                    },
-                    {
-                        "name": "Guarde em pé em um saco Ziploc — Armazenamento vertical (21 dias) ❄️",
-                        "text": "Deitar as cenouras induz estresse gravitrópico, fazendo com que gastem energia tentando se erguer, perdendo a crocância. 💡 Dica de conservação: Coloque as cenouras em um saco Ziploc e guarde-as em pé na gaveta de legumes (0-4 °C) com o topo para cima."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Por que as cenouras às vezes ficam com gosto amargo e como evitar?",
-                        "answer": "O gosto amargo ocorre devido à formação de 'isocumarina' quando a cenoura é exposta ao gás etileno ou a temperaturas quentes. Para evitar, guarde as cenouras isoladas em sacos Ziploc longe de frutas como maçãs e mantenha refrigerado a 0-4 °C."
-                    },
-                    {
-                        "question": "Qual é a diferença entre guardar cenouras com terra e cenouras lavadas?",
-                        "answer": "Cenouras com terra sem lavar duram até 1 a 2 meses se as folhas forem cortadas e elas forem embrulhadas em jornal. Cenouras lavadas perderam a camada protetora natural e secam mais rápido; secá-las bem e embrulhar individualmente em papel-toalha conserva-as por 2 a 3 semanas."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Wortel agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk wortel berdasarkan pedoman keselamatan resmi.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Pernahkah Anda membeli wortel segar namun mendapatinya menjadi lembek, layu, atau dipenuhi bintik-bintik hitam setelah beberapa hari di kulkas? 🥕\n\nWortel adalah sayuran umbi yang kaya air dan sangat sensitif terhadap kelembapan luar serta gas etilen. Kondisi penyimpanan yang buruk membuat kadar air menguap—menyebabkan wortel layu—atau memicu reaksi kimia yang menghasilkan rasa pahit.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan penelitian USDA dan RDA untuk mencegah rasa pahit, menjaga kelembapan, dan menjaga wortel Anda tetap renyah selama lebih dari 3 minggu. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Pisahkan wortel dari buah yang menghasilkan etilen ⚠️",
-                        "desc": "Menyimpan wortel di dekat buah penghasil etilen seperti apel, pir, atau pisang akan mengubah gula alami wortel menjadi 'isocoumarin', yaitu senyawa organik yang terasa pahit. Selalu segel dan pisahkan wortel secara mandiri."
-                    },
-                    {
-                        "title": "Selalu potong daun hijau bagian atas wortel sebelum disimpan 🥕",
-                        "desc": "Jika daun hijau bagian atas dibiarkan menempel, daun tersebut akan terus menyedot air dan nutrisi dari umbi wortel setelah dipanen. Hal ini membuat wortel cepat lembek dan gabus di dalam. Potong bagian daun hijau segera setelah dibeli."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Keringkan kelembapan permukaan secara total — Mencegah Pembusukan 📦",
-                        "text": "Kelembapan yang terperangkap pada kulit wortel memicu pertumbuhan jamur dan pembusukan bakteri yang cepat. 💡 Tips Penyimpanan: Biarkan wortel berani tanah tanpa dicuci dan keringkan kelembapan di tempat teduh. Untuk wortel yang sudah dicuci, lap hingga benar-benar kering dengan tisu dapur sebelum disimpan."
-                    },
-                    {
-                        "name": "Bungkus satu per satu dengan tisu dapur atau koran — Keseimbangan Kelembapan 📰",
-                        "text": "Menumpuk wortel secara bersamaan menciptakan kondensasi di titik kontak, menyebabkannya membusuk. 💡 Tips Penyimpanan: Bungkus setiap wortel yang sudah kering secara individual dengan tisu dapur atau koran. Tisu/koran menyerap kelembapan berlebih sekaligus mencegah penguapan air alami wortel."
-                    },
-                    {
-                        "name": "Simpan secara tegak dalam kantong Ziploc — Simpan Tegak (21 Hari) ❄️",
-                        "text": "Meletakkan wortel secara miring/rebah memicu stres gravitropik di mana wortel menghabiskan energi untuk berdiri tegak, merusak kerenyahannya. 💡 Tips Penyimpanan: Masukkan wortel yang terbungkus ke dalam kantong Ziploc lalu simpan secara tegak di laci sayuran kulkas (0–4°C) dengan bagian pangkal di atas."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa wortel terkadang terasa pahit, dan bagaimana cara mencegahnya?",
-                        "answer": "Rasa pahit pada wortel disebabkan oleh terbentuknya senyawa 'isocoumarin' saat terpapar gas etilen atau suhu hangat. Mencegahnya mudah: simpan wortel dalam kantong Ziploc tertutup jauh dari buah-buahan seperti apel dan jaga pada suhu dingin 0–4°C."
-                    },
-                    {
-                        "question": "Apa perbedaan antara menyimpan wortel berani tanah (belum dicuci) dan wortel yang sudah dicuci?",
-                        "answer": "Wortel berani tanah yang belum dicuci dapat bertahan hingga 1–2 bulan jika daunnya dipotong dan dibungkus koran. Wortel yang sudah dicuci telah kehilangan lapisan pelindung alaminya sehingga lebih cepat kering; mengelapnya hingga benar-benar kering dan membungkusnya satu per satu dengan tisu dapur menjaga kesegarannya selama 2–3 minggu."
-                    }
-                ]
-            }
-        }
+  "how-to-store-carrot": {
+    "ingId": "carrot",
+    "pubDate": "2026-01-01",
+    "updatedDate": "2026-01-01",
+    "heroImage": "/images/blog/carrot_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "당근 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 당근의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+        "intro": "흙 묻은 당근을 씻어서 그대로 냉장고에 넣었다가 얼마 못 가 검게 무르고 바람이 들어 버린 적 있으시죠? 🥕\n\n당근은 수분이 풍부한 뿌리채소로, 외부 습도와 식물 호르몬인 에틸렌 가스에 매우 민감하게 반응합니다. 특히 보관 환경에 따라 수분이 증발해 표면이 쭈글쭈글해지거나, 에틸렌에 노출되어 쓴맛 성분이 생기기 쉽습니다.\n\n이번 가이드에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 연구를 바탕으로, 당근의 쓴맛을 방지하고 아삭한 식감과 수분을 3주 이상 완벽하게 지켜주는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "사과 등 에틸렌 방출 과일과 격리하세요 ⚠️",
+            "desc": "당근을 사과, 배, 바나나 등 에틸렌 가스를 많이 방출하는 과일과 함께 보관하면, 당근 속 당분이 쓴맛을 내는 유기화합물인 '이소쿠마린(Isocoumarin)'으로 변하게 됩니다. 반드시 밀봉하여 독립적으로 보관해야 합니다."
+          },
+          {
+            "title": "보관 전 당근 잎(순)을 반드시 잘라내세요 🥕",
+            "desc": "초록색 당근 잎이나 줄기가 붙어 있으면 수확 후에도 뿌리(당근)의 수분과 비타민, 영양소를 계속해서 빨아들입니다. 당근이 금세 푸석해지고 바람이 들게 되므로, 구매 즉시 잎 상단부를 잘라내고 보관해야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "표면 물기를 완벽하게 건조하기 — 습기 차단 흙당근 건조 📦",
+            "text": "당근은 표면에 물기가 남아있으면 곰팡이와 미생물이 급격히 번식하여 부패가 시작됩니다. 💡 보관 팁: 흙당근은 씻지 말고 흙이 묻은 상태 그대로, 세척당근은 물기를 키친타월로 완전히 닦아낸 뒤 통풍이 잘되는 그늘에서 1~2시간 가볍게 말려 수분을 제거해 주세요."
+          },
+          {
+            "name": "키친타월이나 신문지로 낱개 포장하기 — 수분 균형 유지 📰",
+            "text": "당근을 한데 모아두면 결로가 생겨 서로 접촉하는 면부터 물러집니다. 💡 보관 팁: 건조된 당근을 신문지나 키친타월로 한 개씩 개별적으로 감싸주세요. 종이가 냉장고 안의 불필요한 과습을 흡수하는 동시에 당근 자체의 적정 수분이 빠져나가는 것을 막아주는 훌륭한 습도 조절제 역할을 합니다."
+          },
+          {
+            "name": "지퍼백에 담아 세워서 냉장 보관하기 — 직립 냉장 보관 (21일) ❄️",
+            "text": "당근을 눕혀서 보관하면 중력 스트레스로 인해 에너지를 소비하며 스스로 일어서려다가 아삭함이 사라집니다. 💡 보관 팁: 개별 포장한 당근을 밀폐 지퍼백에 넣은 뒤, 냉장고 야채칸(0~4℃)에 잎이 자라던 위쪽이 위로 향하도록 '세워서' 보관하세요. 밭에 심겨 있던 형태 그대로 보관해야 3주 이상 신선합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "당근을 먹었을 때 쓴맛이 나는 이유는 무엇인가요?",
+            "answer": "당근의 쓴맛은 에틸렌 가스에 노출되었을 때 생성되는 '이소쿠마린' 성분 때문입니다. 사과, 배, 배추 등 에틸렌을 방출하는 식재료와 가까이 두었거나 보관 온도가 높았을 때 주로 발생합니다. 당근을 밀폐 지퍼백에 담아 에틸렌과 차단하고 0~4℃ 저온에서 보관하면 쓴맛 형성을 막을 수 있습니다."
+          },
+          {
+            "question": "흙당근과 세척당근의 보관 기간과 방식에 차이가 있나요?",
+            "answer": "네, 차이가 있습니다. 흙당근은 씻지 않고 흙을 털어낸 후 잎을 자르고 신문지에 싸서 냉장 보관하면 최대 1~2달까지 보관 가능합니다. 반면 세척당근은 표면 보호막이 제거되어 수분이 빨리 마르므로, 물기를 완전히 제거하고 키친타월로 감싸 밀봉 냉장 보관 시 약 2~3주간 보관할 수 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Carrots Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for carrots based on official safety guidelines.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Have you ever bought fresh carrots only to find them turn limp, rubbery, or covered in dark soft spots after a few days in the fridge? 🥕\n\nCarrots are moisture-rich root vegetables that react sensitively to external humidity and ethylene gas. Poor storage conditions cause moisture to evaporate—making the carrots wilted and soft—or trigger chemical reactions that produce a bitter taste.\n\nIn this guide, shares a scientifically proven 3-step storage guide based on research from the USDA and RDA to prevent bitterness, retain moisture, and keep your carrots perfectly crisp for over 3 weeks. 🛡️",
+        "whyTitle": "Why Store Carrots This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each produce item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Isolate carrots from ethylene-producing fruits ⚠️",
+            "desc": "Storing carrots near ethylene-emitting produce like apples, pears, or bananas triggers a phenolic pathway that converts natural sugars in the carrot into 'isocoumarin', a bitter organic compound. Always seal and isolate carrots."
+          },
+          {
+            "title": "Always trim green carrot tops before storing 🥕",
+            "desc": "If green leafy carrot tops remain attached, they continue to draw water, vitamins, and reserves from the root post-harvest. This quickly leaves the carrot soft, fibrous, and hollow inside. Slice off the green tops immediately after purchase."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Dry surface moisture completely — Prevent Excess Moisture & Rot 📦",
+            "text": "Trapped moisture on carrot skin causes rapid mold growth and bacterial soft rot. 💡 Storage Tip: Keep muddy unwashed carrots unwashed and dry any surface moisture in a cool, shady area. For pre-washed carrots, thoroughly pat them dry with paper towels before storing to maximize shelf life."
+          },
+          {
+            "name": "Wrap individually in paper towels or newspaper — Moisture Balance 📰",
+            "text": "Storing carrots piled together creates condensation at contact points, causing decay. 💡 Storage Tip: Wrap each dried carrot individually in paper towels or newspaper. The paper acts as a moisture regulator—absorbing excess humidity inside the fridge while preventing the carrot's inner moisture from evaporating."
+          },
+          {
+            "name": "Store vertically in a Ziploc bag — Vertical Cold Storage (21 Days) ❄️",
+            "text": "Storing carrots horizontally induces gravitropic stress, causing them to expend energy trying to bend upward and lose crispness. 💡 Storage Tip: Place wrapped carrots into a sealed Ziploc bag and stand them vertically in the refrigerator crisper drawer (0–4°C) with the stem end facing up, mimicking their natural growing position."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why do carrots sometimes taste bitter, and how can I prevent it?",
+            "answer": "Carrots taste bitter when exposed to ethylene gas, which triggers the formation of 'isocoumarin'. This occurs when stored near ethylene producers like apples or stored at warm temperatures. Keep carrots sealed in a Ziploc bag away from ethylene sources and store at 0–4°C to prevent bitterness."
+          },
+          {
+            "question": "What is the difference between storing unwashed (muddy) carrots vs. pre-washed carrots?",
+            "answer": "Unwashed carrots with natural soil intact can last up to 1–2 months when green tops are trimmed and they are wrapped in newspaper. Pre-washed carrots have lost their protective outer layer and dry out faster; patting them completely dry and wrapping them individually in paper towels preserves them for about 2–3 weeks."
+          }
+        ]
+      },
+      "ja": {
+        "title": "人参を新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づく人参の最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "買ってきたばかりの人参を冷蔵庫に入れておいたら、数日でぐにゃぐにゃに柔らかくなったり、黒く傷んでしまった経験はありませんか？🥕\n\n人参は水分が豊富な根菜類で、外部の湿度やエチレンガスに対して非常に敏感です。保存環境が悪いと水分が蒸発して皮がシワシワになったり、エチレンに反応して苦味成分が発生しやすくなります。\n\n本記事では、農村振興庁（RDA）および米国農務省（USDA）の研究に基づき、人参の苦味を防ぎ、シャキシャキした食感と水分を3週間以上キープする3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "リンゴなどエチレンを出す果物と隔離してください ⚠️",
+            "desc": "人参をリンゴや梨、バナナなどエチレンガスを多く出す果物と一緒に保存すると、人参の中の糖分が苦味を持つ成分「イソクマリン（Isocoumarin）」に変化します。必ずジッパーバッグなどで密封して隔離保存してください。"
+          },
+          {
+            "title": "保存前に人参の葉（芽）を必ず切り落としてください 🥕",
+            "desc": "緑の葉や茎がついたままだと、収穫後も根（人参）の水分や栄養分を吸い上げてしまいます。人参がすぐにパサパサになり「す」が入る原因となるため、購入後すぐに葉の付け根部分を切り落としてください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "表面の水分を完全に乾かす — カビ・腐敗防止 📦",
+            "text": "人参の表面に水分が残っていると、カビや微小細菌が急速に繁殖して傷み始めます。💡保存のコツ：土付き人参は洗わずに土がついたまま、洗浄人参は水分をペーパータオルでしっかり拭き取り、風通しの良い日陰で1〜2時間軽く乾かして水分を除去しましょう。"
+          },
+          {
+            "name": "新聞紙やキッチンペーパーで1本ずつ包む — 水分バランスの維持 📰",
+            "text": "人参をまとめて置いておくと結露が発生し、接触面から傷みやすくなります。💡保存のコツ：乾いた人参を新聞紙やキッチンペーパーで1本ずつ丁寧に包んでください。紙が冷蔵庫内の余分な湿気を吸収しつつ、人参自体の水分が抜けるのを防ぐ調湿剤の役割を果たします。"
+          },
+          {
+            "name": "ジッパーバッグに入れ立てて冷蔵保存する — 直立冷蔵保存 (21日間) ❄️",
+            "text": "人参を横にして保存すると、重力に逆らって立ち上がろうとするエネルギー消費が起き、シャキシャキ感が失われます。💡保存のコツ：包んだ人参をチャック付き密閉袋に入れ、野菜室（0〜4℃）に葉が生えていた上部を上にして「立てて」保存してください。畑で育った姿勢を保つことが長持ちの秘密です。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "人参を食べたときに苦味を感じる理由は何ですか？",
+            "answer": "人参の苦味は、エチレンガスに晒された際に生成される「イソクマリン」という成分が原因です。リンゴや梨などエチレンを放出する食材の近くに置いたり、保存温度が高かった場合に発生します。ジッパーバッグに密封してエチレンを遮断し、0〜4℃の低温で保存することで苦味の発生を防げます。"
+          },
+          {
+            "question": "土付き人参と洗い人参の保存期間や方法に違いはありますか？",
+            "answer": "はい、違いがあります。土付き人参は洗わずに土を払い、葉を切って新聞紙で包み冷蔵保存すると1〜2ヶ月ほど長持ちします。一方、洗い人参は保護膜が落ちているため水分が抜けやすく、水分を拭き取ってキッチンペーパーで包み密封保存した場合で約2〜3週間保存可能です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持胡萝卜新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解胡萝卜的最佳储存温度、方式和保鲜时长。",
+        "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "您是否曾买回新鲜的胡萝卜放入冰箱，结果仅过几天就变软发绵，或者表面出现黑斑腐烂？🥕\n\n胡萝卜是水分丰富的根茎类蔬菜，对环境湿度与植物催熟激素——乙烯气体极度敏感。不当的储存环境会导致水分蒸发使表皮起皱变软，或者受乙烯刺激产生苦味成分。\n\n本指南基于韩国农村振兴厅(RDA)和美国农务部(USDA)的研究，为您带来3步科学保存秘诀，帮您防止苦味产生，完美保持清脆口感与水分达3周以上。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "请与苹果等释放乙烯的水果彻底隔离 ⚠️",
+            "desc": "将胡萝卜与苹果、梨、香蕉等释放大量乙烯的水果保存在一起，胡萝卜中的糖分会转化为带有苦味的有机化合物“异香豆素（Isocoumarin）”。请务必密封隔离存放。"
+          },
+          {
+            "title": "储存前请务必切除胡萝卜顶部的绿叶 🥕",
+            "desc": "胡萝卜顶部的绿叶或嫩芽在采收后仍会继续吸收根部（胡萝卜）的水分、维生素与营养，导致胡萝卜迅速干瘪变空心。买回后请立即将顶部绿叶切除。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "彻底晾干表面水分 — 阻断湿气与霉变 📦",
+            "text": "胡萝卜表面的残留水分是霉菌和细菌滋生腐烂的主要原因。💡储存小贴士：带泥胡萝卜切勿清洗，保持带泥状态；清洗过的胡萝卜请用厨房纸巾吸干水分，置于阴凉通风处晾干1~2小时，确保表面干燥。"
+          },
+          {
+            "name": "用报纸或厨房纸巾单根包裹 — 保持水分平衡 📰",
+            "text": "胡萝卜堆叠存放会在接触点产生结露，导致局部发黑腐烂。💡储存小贴士：将晾干的胡萝卜用报纸或厨房纸巾逐根包裹。纸张能吸收冰箱内的多余湿气，同时防止胡萝卜自身水分蒸发，起到绝佳的调湿作用。"
+          },
+          {
+            "name": "装入拉链袋竖立冷藏 — 竖立冷藏保存 (21天) ❄️",
+            "text": "横放胡萝卜会导致其受重力应激影响，消耗能量尝试向上挺直，从而失去清脆口感。💡储存小贴士：将包好的胡萝卜装入密封拉链袋，头部朝上“竖直”放入冰箱蔬菜保鲜抽屉（0~4℃）。维持其在土壤中的自然生长姿态是长久保鲜的关键。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "胡萝卜吃起来为什么会有苦味？该如何预防？",
+            "answer": "胡萝卜的苦味是由于接触乙烯气体后生成的“异香豆素”成分引起的。当与苹果、梨等水果同放或储存温度过高时极易产生。将胡萝卜装入密封袋隔绝乙烯，并储存在0~4℃的低温环境中，即可有效防止苦味产生。"
+          },
+          {
+            "question": "带泥胡萝卜和净水清洗过的胡萝卜在保存上有何区别？",
+            "answer": "带泥胡萝卜切除绿叶后不清洗，用报纸包裹冷藏，可保存长达1~2个月。而洗净的胡萝卜去除了表皮天然保护层，水分流失更快，擦干水分并用厨房纸巾包裹密封冷藏，保鲜期约为2~3周。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener las zanahorias frescas: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para las zanahorias según las directrices oficiales de seguridad.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "¿Alguna vez compró zanahorias frescas solo para ver cómo en pocos días en el refrigerador se ponían flácidas, gomosas o cubiertas de manchas oscuras? 🥕\n\nLa zanahoria es una hortaliza de raíz rica en agua que reacciona con gran sensibilidad a la humedad externa y al gas etileno. Un mal almacenamiento hace que el agua se evapore, ablandando la hortaliza, o desencadena reacciones químicas que le otorgan un sabor amargo.\n\nEn esta guía se comparte una guía científica en 3 pasos basada en investigaciones del USDA y la RDA para prevenir el sabor amargo, retener la humedad y mantener sus zanahorias perfectamente crujientes por más de 3 semanas. 🛡️",
+        "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Aísle las zanahorias de frutas que emitan etileno ⚠️",
+            "desc": "Guardar zanahorias cerca de productos que desprenden etileno (como manzanas, peras o plátanos) activa una vía fenólica que convierte sus azúcares en 'isocumarina', un compuesto orgánico amargo. Guárdelas siempre selladas e independientes."
+          },
+          {
+            "title": "Corte siempre las hojas verdes superiores antes de guardarlas 🥕",
+            "desc": "Si se dejan las hojas verdes superiores, estas seguirán extrayendo agua y nutrientes de la raíz después de la cosecha. Esto ablanda rápidamente la zanahoria y la deja ahuecada por dentro. Corte el tallo verde inmediatamente tras la compra."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Seque la humedad superficial por completo — Evite la pudrición 📦",
+            "text": "La humedad atrapada en la piel de la zanahoria provoca moho y pudrición bacteriana rápida. 💡 Consejo de almacenamiento: Deje las zanahorias con tierra sin lavar y séquelas a la sombra. Si son zanahorias lavadas, séquelas bien con toallas de papel antes de guardarlas."
+          },
+          {
+            "name": "Envuelva individualmente con toallas de papel o papel periódico — Equilibrio de humedad 📰",
+            "text": "Almacenar las zanahorias amontonadas genera condensación en los puntos de contacto, pudriéndolas. 💡 Consejo de almacenamiento: Envuelva cada zanahoria secada individualmente en papel. El papel absorbe la humedad excesiva del refrigerador y evita que el agua propia de la zanahoria se evapore."
+          },
+          {
+            "name": "Guarde de pie en una bolsa Ziploc — Almacenamiento vertical (21 días) ❄️",
+            "text": "Acostar las zanahorias induce un estrés gravitrópico que hace que gasten energía tratando de erguirse, perdiendo firmeza. 💡 Consejo de almacenamiento: Coloque las zanahorias envueltas en una bolsa Ziploc y guárdelas erguidas en el cajón de verduras (0-4 °C) con la parte del tallo hacia arriba."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué las zanahorias a veces tienen un sabor amargo y cómo prevenirlo?",
+            "answer": "El sabor amargo se debe a la formación de 'isocumarina' cuando la zanahoria se expone al gas etileno o a temperaturas cálidas. Para evitarlo, conserve las zanahorias aisladas en bolsas Ziploc lejos de frutas como manzanas y manténgalas en refrigeración a 0-4 °C."
+          },
+          {
+            "question": "¿Cuál es la diferencia entre conservar zanahorias con tierra y zanahorias lavadas?",
+            "answer": "Las zanahorias con tierra sin lavar duran hasta 1 o 2 meses si se les cortan las hojas verdes y se envuelven en papel periódico. Las zanahorias lavadas han perdido su capa protectora natural y se secan más rápido; secarlas bien y envolverlas individualmente en papel de cocina las conserva durante 2 a 3 semanas."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver les carottes fraîches : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les carottes selon les directives officielles de sécurité.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Avez-vous déjà acheté des carottes fraîches pour les retrouver molles, caoutchouteuses ou couvertes de taches noires après quelques jours au réfrigérateur ? 🥕\n\nLa carotte est un légume-racine riche en eau très sensible à l'humidité extérieure et au gaz éthylène. Des conditions de stockage inadaptées entraînent l'évaporation de son eau — rendant la carotte flétrie — ou déclenchent des réactions chimiques provoquant une amertume désagréable.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recherches du USDA et de la RDA pour prévenir l'amertume, maintenir l'hydratation et garder vos carottes parfaitement croquantes pendant plus de 3 semaines. 🛡️",
+        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Isolez les carottes des fruits émettant de l'éthylène ⚠️",
+            "desc": "Conserver des carottes près de fruits émettant de l'éthylène (pommes, poires, bananes) transforme leurs sucres naturels en 'isocoumarine', un composé organique amertumifiant. Veillez à toujours les sceller et les isoler."
+          },
+          {
+            "title": "Coupez toujours les fanes de carotte avant le stockage 🥕",
+            "desc": "Si les fanes vertes restent attachées, elles continuent de puiser l'eau et les nutriments de la racine après la récolte. La carotte devient vite molle et creuse. Coupez les fanes immédiatement après l'achat."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Sécher l'humidité de surface complètement — Éviter la moisissure 📦",
+            "text": "L'humidité piégée sur la peau de la carotte entraîne une moisissure rapide et le pourrissement. 💡 Astuce de conservation : Laissez les carottes terreuses non lavées et séchez l'humidité à l'ombre. Pour les carottes lavées, séchez-les soigneusement avec du papier absorbant avant stockage."
+          },
+          {
+            "name": "Envelopper individuellement dans du papier absorbant ou du journal — Équilibre de l'humidité 📰",
+            "text": "Empiler les carottes crée de la condensation aux points de contact et les fait pourrir. 💡 Astuce de conservation : Enveloppez chaque carotte sèche individuellement dans du papier. Le papier régule l'humidité en absorbant l'excès d'eau du frigo tout en empêchant le dessèchement de la carotte."
+          },
+          {
+            "name": "Stocker verticalement dans un sac Ziploc — Stockage vertical (21 jours) ❄️",
+            "text": "Coucher les carottes provoque un stress géotropique : elles dépensent de l'énergie pour se redresser et perdent leur croquant. 💡 Astuce de conservation : Placez les carottes emballées dans un sac Ziploc et conservez-les debout dans le bac à légumes (0-4 °C), fanes vers le haut."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi les carottes ont-elles parfois un goût amer et comment l'éviter ?",
+            "answer": "Le goût amer est dû à la formation d'isocoumarine provoqué par le gaz éthylène ou une température élevée. Pour l'éviter, conservez les carottes isolées dans un sac Ziploc à l'écart des fruits comme les pommes et gardez-les au frais entre 0 et 4 °C."
+          },
+          {
+            "question": "Quelle est la différence entre la conservation des carottes terreuses et des carottes lavées ?",
+            "answer": "Les carottes terreuses non lavées se conservent jusqu'à 1 à 2 mois si l'on coupe leurs fanes et qu'on les enveloppe dans du papier journal. Les carottes lavées ont perdu leur couche protectrice et sèchent plus vite ; bien les sécher et les emballer individuellement dans de l'essuie-tout permet de les garder 2 à 3 semaines."
+          }
+        ]
+      },
+      "de": {
+        "title": "Karotten richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Karotten basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Haben Sie schon einmal frische Karotten gekauft, nur um nach wenigen Tagen im Kühlschrank festzustellen, dass sie biegsam, schrumpelig oder schwarz wurden? 🥕\n\nDie Karotte ist ein wasserreiches Wurzelgemüse, das extrem empfindlich auf Luftfeuchtigkeit und das Reifegas Ethylen reagiert. Falsche Lagerung lässt Wasser verdunsten — wodurch die Karotte welkt — oder löst chemische Reaktionen aus, die einen bitteren Geschmack erzeugen.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Forschungen von USDA und RDA basiert, um Bitterkeit zu vermeiden, Feuchtigkeit zu bewahren und Ihre Karotten über 3 Wochen lang knackig zu halten. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Karotten von ethylenproduzierenden Früchten isolieren ⚠️",
+            "desc": "Werden Karotten neben ethylenabgebenden Früchten wie Äpfeln, Birnen oder Bananen gelagert, wandeln sich die natürlichen Zucker in der Karotte in das bittere 'Isocoumarin' um. Bitte stets dicht verschlossen isolieren."
+          },
+          {
+            "title": "Das Karottengrün vor der Lagerung immer abschneiden 🥕",
+            "desc": "Bleibt das grüne Karottengrün dran, entzieht es der Wurzel nach der Ernte weiterhin Wasser und Nährstoffe. Die Karotte wird schnell holzig und hohl. Schneiden Sie das Grün direkt nach dem Kauf ab."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Oberflächenfeuchtigkeit vollständig trocknen — Fäulnis verhindern 📦",
+            "text": "Eingeschlossene Feuchtigkeit auf der Karottenschale führt zu schnellem Schimmelbefall. 💡 Lagerungstipp: Lassen Sie ungewaschene erdige Karotten ungewaschen und trocknen Sie Feuchtigkeit im Schatten ab. Tupfen Sie gewaschene Karotten vor dem Lagern gründlich mit Küchenpapier trocken."
+          },
+          {
+            "name": "Einzeln in Küchenpapier oder Zeitungspapier einwickeln — Feuchtigkeitsbalance 📰",
+            "text": "Das Stapeln von Karotten erzeugt Kondenswasser an den Kontaktstellen und lässt sie verfaulen. 💡 Lagerungstipp: Wickeln Sie jede getrocknete Karotte einzeln in Papier ein. Das Papier reguliert die Feuchtigkeit, saugt Überschuss auf und verhindert das Austrocknen."
+          },
+          {
+            "name": "Aufrecht in einem Ziploc-Beutel kühlen — Aufrechte Kühllagerung (21 Tage) ❄️",
+            "text": "Das flache Hinlegen von Karotten erzeugt Schwerkraftstress, wodurch sie Energie verbrauchen, um sich aufzurichten, und ihre Knackigkeit verlieren. 💡 Lagerungstipp: Stecken Sie die gewickelten Karotten in einen Ziploc-Beutel und lagern Sie sie aufrecht im Gemüsefach (0–4 °C)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum schmecken Karotten manchmal bitter und wie verhindert man das?",
+            "answer": "Der bittere Geschmack entsteht durch die Bildung von 'Isocoumarin', wenn Karotten Ethylengas oder Wärme ausgesetzt sind. Lagern Sie Karotten stets getrennt von Obst wie Äpfeln in verschlossenen Ziploc-Beuteln bei 0–4 °C, um Bitterkeit zu vermeiden."
+          },
+          {
+            "question": "Was ist der Unterschied zwischen der Lagerung von ungewaschenen und gewaschenen Karotten?",
+            "answer": "Ungewaschene Karotten mit Erde halten sich mit abgeschnittenem Grün in Zeitungspapier gewickelt bis zu 1–2 Monate. Gewaschene Karotten haben ihre Schutzschicht verloren und trocknen schneller aus; gründliches Abtrocknen und einzelnes Einwickeln in Küchenpapier hält sie ca. 2–3 Wochen frisch."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar cenouras frescas: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para cenouras com base em diretrizes oficiais de segurança.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Você já comprou cenouras frescas e percebeu que em poucos dias na geladeira elas ficaram moles, flexíveis ou com manchas escuras? 🥕\n\nA cenoura é uma hortaliça de raiz rica em água que reage com grande sensibilidade à umidade externa e ao gás etileno. O armazenamento inadequado faz a água evaporar — murchando a cenoura — ou dispara reações químicas que geram um sabor amargo.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em pesquisas do USDA e da RDA para prevenir o sabor amargo, reter a umidade e manter suas cenouras perfeitamente crocantes por mais de 3 semanas. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Isole as cenouras de frutas que liberam etileno ⚠️",
+            "desc": "Guardar cenouras perto de alimentos que emitem etileno (como maçãs, peras ou bananas) converte os açúcares naturais da cenoura em 'isocumarina', um composto orgânico amargo. Guarde-as sempre seladas e isoladas."
+          },
+          {
+            "title": "Corte sempre as folhas verdes da cenoura antes de guardar 🥕",
+            "desc": "Se as folhas verdes do topo forem mantidas, elas continuarão puxando água e nutrientes da raiz após a colheita. Isso murcha a cenoura rapidamente e a deixa oca por dentro. Corte as folhas imediatamente após a compra."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Seque a umidade da superfície completamente — Evite o apodrecimento 📦",
+            "text": "A umidade presa na casca da cenoura causa mofo e deterioração bacteriana rápida. 💡 Dica de conservação: Mantenha cenouras com terra sem lavar e seque a umidade à sombra. Se forem cenouras lavadas, seque-as bem com papel-toalha antes de guardar."
+          },
+          {
+            "name": "Embrulhe individualmente em papel-toalha ou jornal — Equilíbrio de umidade 📰",
+            "text": "Guardar cenouras empilhadas cria condensação nos pontos de contato, fazendo-as apodrecer. 💡 Dica de conservação: Embrulhe cada cenoura seca individualmente em papel. O papel absorve o excesso de umidade da geladeira e evita que a água da cenoura evapore."
+          },
+          {
+            "name": "Guarde em pé em um saco Ziploc — Armazenamento vertical (21 dias) ❄️",
+            "text": "Deitar as cenouras induz estresse gravitrópico, fazendo com que gastem energia tentando se erguer, perdendo a crocância. 💡 Dica de conservação: Coloque as cenouras em um saco Ziploc e guarde-as em pé na gaveta de legumes (0-4 °C) com o topo para cima."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que as cenouras às vezes ficam com gosto amargo e como evitar?",
+            "answer": "O gosto amargo ocorre devido à formação de 'isocumarina' quando a cenoura é exposta ao gás etileno ou a temperaturas quentes. Para evitar, guarde as cenouras isoladas em sacos Ziploc longe de frutas como maçãs e mantenha refrigerado a 0-4 °C."
+          },
+          {
+            "question": "Qual é a diferença entre guardar cenouras com terra e cenouras lavadas?",
+            "answer": "Cenouras com terra sem lavar duram até 1 a 2 meses se as folhas forem cortadas e elas forem embrulhadas em jornal. Cenouras lavadas perderam a camada protetora natural e secam mais rápido; secá-las bem e embrulhar individualmente em papel-toalha conserva-as por 2 a 3 semanas."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Wortel agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk wortel berdasarkan pedoman keselamatan resmi.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Pernahkah Anda membeli wortel segar namun mendapatinya menjadi lembek, layu, atau dipenuhi bintik-bintik hitam setelah beberapa hari di kulkas? 🥕\n\nWortel adalah sayuran umbi yang kaya air dan sangat sensitif terhadap kelembapan luar serta gas etilen. Kondisi penyimpanan yang buruk membuat kadar air menguap—menyebabkan wortel layu—atau memicu reaksi kimia yang menghasilkan rasa pahit.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan penelitian USDA dan RDA untuk mencegah rasa pahit, menjaga kelembapan, dan menjaga wortel Anda tetap renyah selama lebih dari 3 minggu. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Pisahkan wortel dari buah yang menghasilkan etilen ⚠️",
+            "desc": "Menyimpan wortel di dekat buah penghasil etilen seperti apel, pir, atau pisang akan mengubah gula alami wortel menjadi 'isocoumarin', yaitu senyawa organik yang terasa pahit. Selalu segel dan pisahkan wortel secara mandiri."
+          },
+          {
+            "title": "Selalu potong daun hijau bagian atas wortel sebelum disimpan 🥕",
+            "desc": "Jika daun hijau bagian atas dibiarkan menempel, daun tersebut akan terus menyedot air dan nutrisi dari umbi wortel setelah dipanen. Hal ini membuat wortel cepat lembek dan gabus di dalam. Potong bagian daun hijau segera setelah dibeli."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Keringkan kelembapan permukaan secara total — Mencegah Pembusukan 📦",
+            "text": "Kelembapan yang terperangkap pada kulit wortel memicu pertumbuhan jamur dan pembusukan bakteri yang cepat. 💡 Tips Penyimpanan: Biarkan wortel berani tanah tanpa dicuci dan keringkan kelembapan di tempat teduh. Untuk wortel yang sudah dicuci, lap hingga benar-benar kering dengan tisu dapur sebelum disimpan."
+          },
+          {
+            "name": "Bungkus satu per satu dengan tisu dapur atau koran — Keseimbangan Kelembapan 📰",
+            "text": "Menumpuk wortel secara bersamaan menciptakan kondensasi di titik kontak, menyebabkannya membusuk. 💡 Tips Penyimpanan: Bungkus setiap wortel yang sudah kering secara individual dengan tisu dapur atau koran. Tisu/koran menyerap kelembapan berlebih sekaligus mencegah penguapan air alami wortel."
+          },
+          {
+            "name": "Simpan secara tegak dalam kantong Ziploc — Simpan Tegak (21 Hari) ❄️",
+            "text": "Meletakkan wortel secara miring/rebah memicu stres gravitropik di mana wortel menghabiskan energi untuk berdiri tegak, merusak kerenyahannya. 💡 Tips Penyimpanan: Masukkan wortel yang terbungkus ke dalam kantong Ziploc lalu simpan secara tegak di laci sayuran kulkas (0–4°C) dengan bagian pangkal di atas."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa wortel terkadang terasa pahit, dan bagaimana cara mencegahnya?",
+            "answer": "Rasa pahit pada wortel disebabkan oleh terbentuknya senyawa 'isocoumarin' saat terpapar gas etilen atau suhu hangat. Mencegahnya mudah: simpan wortel dalam kantong Ziploc tertutup jauh dari buah-buahan seperti apel dan jaga pada suhu dingin 0–4°C."
+          },
+          {
+            "question": "Apa perbedaan antara menyimpan wortel berani tanah (belum dicuci) dan wortel yang sudah dicuci?",
+            "answer": "Wortel berani tanah yang belum dicuci dapat bertahan hingga 1–2 bulan jika daunnya dipotong dan dibungkus koran. Wortel yang sudah dicuci telah kehilangan lapisan pelindung alaminya sehingga lebih cepat kering; mengelapnya hingga benar-benar kering dan membungkusnya satu per satu dengan tisu dapur menjaga kesegarannya selama 2–3 minggu."
+          }
+        ]
+      }
     }
+  }
 }

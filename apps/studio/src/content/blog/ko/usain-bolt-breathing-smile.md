@@ -25,7 +25,7 @@ faqs:
 
 "가장 가혹한 통증이 몸을 짓누를 때 지어 보이는 미소 한 번이 뇌의 고통을 멈추고 새로운 에너지를 부른다." ⚡
 
-100m 9초 58, 200m 19秒19라는 인류 불멸의 신기록을 세운 '번개' 우사인 볼트(Usain Bolt, 1986–). 세계에서 가장 빠른 사나이인 그가 사실은 척추가 'S'자로 굽고 오른쪽 다리가 1.4cm나 짧은 심각한 선천성 척추측만증(Scoliosis) 환자였다는 사실을 알고 계신가요?
+100m 9초 58, 200m 19초 19라는 인류 불멸의 신기록을 세운 '번개' 우사인 볼트(Usain Bolt, 1986–). 세계에서 가장 빠른 사나이인 그가 사실은 척추가 'S'자로 굽고 오른쪽 다리가 1.4cm나 짧은 심각한 선천성 척추측만증(Scoliosis) 환자였다는 사실을 알고 계신가요?
 
 볼트는 남들보다 훨씬 극심한 햄스트링 통증과 허리 관절의 충격을 견뎌내기 위해 매일 고통스러운 보강 운동을 수행해야 했습니다. 그리고 그 지옥 같은 훈련이 끝난 직후, 볼트는 항상 '심호흡과 미소 루틴(Post-Stretch Breathing & Smile)'을 실천했습니다. 그는 가슴 가득 숨을 들이쉬고 천천히 내쉬며 안면 근육을 활짝 풀어 환한 미소를 지었습니다. 의도적으로 지어 보이는 이 작은 미소는 뇌에 '상황이 완전히 안전하다'는 인지적 신호를 보냈고, 부교감 신경을 즉각 활성화하여 신경계의 경직과 통증을 신속히 누그러뜨렸습니다. 이 미소 루틴 덕분에 볼트는 몸의 치명적 결함과 경기 직전의 중압감을 완벽히 극복하고 압도적인 퍼포먼스를 완성할 수 있었습니다.
 
@@ -63,7 +63,7 @@ faqs:
       </div>
     </div>
     <div class="flex flex-col items-center justify-center gap-3 shrink-0 w-full lg:w-[340px] pt-4 lg:pt-0 border-t lg:border-t-0 border-slate-200/40 dark:border-slate-700/30">
-      <div class="flex items-center justify-center -space-x-3 py-1" title="역사 속 위인 멘토들과 함께하세요">
+      <div class="flex items-center justify-center -space-x-3 py-1" title="Join historical mentors and figures">
         <img src="/images/buildself/mentors/einstein.webp" alt="Einstein Mentor" class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-30 hover:scale-110 transition-transform m-0" />
         <img src="/images/buildself/mentors/kingsejong.webp" alt="King Sejong Mentor" class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-20 hover:scale-110 transition-transform m-0" />
         <img src="/images/buildself/mentors/nikola_tesla.webp" alt="Nikola Tesla Mentor" class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-10 hover:scale-110 transition-transform m-0" />

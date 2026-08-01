@@ -1,6 +1,5 @@
 ---
 import Layout from '../../../layouts/Layout.astro';
-import BlogAppCta from '../../../components/BlogAppCta.astro';
 import YoutubeEmbed from '../../../components/YoutubeEmbed.astro';
 import ShareToolkit from '../../../components/ShareToolkit.astro';
 import BlogTocAside from '../../../components/blog/BlogTocAside.astro';
@@ -66,9 +65,6 @@ const activeAccent = themeConfig.accentClass;
 const categoryKey = themeConfig.categoryKey;
 const categoryLabel = t(`blog.filter.${categoryKey}` as any) || 'SelaLink';
 const categoryColorClass = themeConfig.categoryColorClass;
-
-const isFreshCategory = ['freshsnap', 'freshself', 'petself'].includes(app);
-const targetCtaApp = isFreshCategory ? (app === 'petself' ? 'petself' : 'freshself') : app;
 ---
 
 <Layout 
@@ -212,10 +208,7 @@ const targetCtaApp = isFreshCategory ? (app === 'petself' ? 'petself' : 'freshse
         </article>
         
         <!-- Post-Article CTA Container (App CTA 1st Priority) -->
-        <div id="post-article-cta" class={targetCtaApp !== 'buildself' ? "mt-10 pt-8 border-t border-slate-200/60 dark:border-white/10" : "hidden"}>
-          {targetCtaApp !== 'buildself' && (
-            <BlogAppCta lang={lang as string} app={targetCtaApp} />
-          )}
+        <div id="post-article-cta" class="hidden">
         </div>
 
         <!-- Share Toolkit (2nd Priority) -->

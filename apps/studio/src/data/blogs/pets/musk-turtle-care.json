@@ -1,459 +1,459 @@
 {
-    "musk-turtle-care": {
-        "pubDate": "2026-04-03",
-        "updatedDate": "2026-04-03",
-        "locales": {
-            "ko": {
-                "title": "커먼 머스크 터틀의 다리 펴기 일광욕과 여과 위생 3단계 루틴",
-                "description": "가장 널리 키워지는 반수생 거북이 품종인 커먼 머스크 터틀. 일광욕 중 뒷다리를 쭉 펴는 행동의 의미와 등껍질 질환을 막는 3단계 수질 여과 필터링 가이드를 알아봅니다.",
-                "authority": "World Chelonian Association 거북이 위생 가이드 및 반수생 거북 사육 수의 지침",
-                "profile": {
-                    "breed": "커먼 머스크 터틀 (Sternotherus odoratus / Common Musk Turtle)",
-                    "lifespan": "20 ~ 30년",
-                    "sleep_pattern": "8 ~ 10시간 (깊은 수조 아래나 은신처 바닥에서 수면)",
-                    "temperament": "정적임, 조용함, 경계심 강함, 호기심 많음"
-                },
-                "intro": "아담한 소형 크기로 큰 수조를 요구하지 않아 초보 반려인들에게 적합한 커먼 머스크 터틀은 조용하고 강인한 반수생 거북이 품종입니다. 비록 물속에서 대부분의 시간을 보내지만, 등껍질 살균과 비타민 D 합성, 그리고 체온 유지를 위해 정기적인 육지 일광욕이 절대적으로 필수적입니다. 일광욕이 부족하거나 필터 정비 없이 탁한 물에 오래 방치하면 쉘 롯(Shell Rot, 갑갑 부패증)과 같은 치명적인 질환으로 고통받을 수 있습니다. 이번 가이드에서는 머스크 터틀의 몸짓 언어와 일광욕 이완 시그널을 확인하고, 맑은 물과 쉘 케어를 돕는 3단계 수조 관리법을 익혀봅니다.",
-                "whyTitle": "머스크 터틀의 감정 표현: 다리 쭉 펴기와 등껍질 방어 신호",
-                "whyDesc": "커먼 머스크 터틀은 육지에 올라와 완전히 안심하고 햇살을 즐길 때 **'육지 위에서 뒷다리 쭉 펴기(Back-Leg Stretching)'** 자세를 취해 몸 표면적을 넓힙니다. 반대로 강한 소리나 위협적인 움직임을 감지하면 머리를 재빨리 삼키는 **'머리 숨기기(Shell Retraction)'** 행동으로 단단한 껍질 속으로 들어가 자신을 철저히 보호합니다.",
-                "body_signals": [
-                    {
-                        "name": "육지 뒷다리 펴기 (Back-Leg Stretching)",
-                        "meaning": "UV 램프 아래에서 긴장을 풀고 온몸으로 열을 받으며 체온을 올리는 최적의 릴랙스 상태입니다.",
-                        "response": "가까이 다가가 깜짝 놀라게 해 물속으로 뛰어들지 않도록 방해를 피하고 멀리서 램프를 작동해 둡니다."
-                    },
-                    {
-                        "name": "등껍질 속에 몸 숨기기 (Shell Retraction)",
-                        "meaning": "위쪽에서 내려다보는 손이나 그림자, 큰 파동에 위협을 느껴 껍질 속으로 도망친 경계 상태입니다.",
-                        "response": "스스로 진정해 머리를 내밀 때까지 수조 앞에서 급하게 움직이지 말고 한참 물러서 줍니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 수온 25~28도 점검 및 영양 균형 사료 공급",
-                        "text": "거북이의 대사 작용 활성화를 돕기 위해 온도계 수온을 체크하고 전용 거북이 사료와 영양 사료를 소량 나누어 급여합니다."
-                    },
-                    {
-                        "name": "낮: UV-B 및 열 스팟 램프 오작동 확인",
-                        "text": "비타민 D가 부족하면 뼈가 말랑해지는 대사성 골질환(MBD)에 취약해지므로 일광욕 육지용 램프의 불빛 작동 여부를 확인합니다."
-                    },
-                    {
-                        "name": "저녁: 찌꺼기 흡입 수거 및 주 1회 부분 환수 진행",
-                        "text": "배설물이 다량 발생하는 시기에 맞춰 바닥면 찌꺼기를 치우고, 여과기 필터를 씻어 수질 악화를 방지합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "수돗물을 그냥 물그릇과 수조에 채워도 안전한가요?",
-                        "answer": "수돗물 내 함유된 염소 성분은 거북이의 약한 안구 점막과 피부에 큰 자극을 주어 안구 건조 및 부종을 유발할 수 있습니다. 반드시 만 하루 이상 상온에 받아두어 염소를 날린 물이나 전용 중화제를 사용해야 안전합니다."
-                    },
-                    {
-                        "question": "등껍질이 하얗게 껍질처럼 벗겨지는데 정상인가요?",
-                        "answer": "거북이가 성장하면서 등껍질의 낡은 조각이 투명하고 얇은 판 형태로 저절로 떨어져 나가는 현상은 '탈피'라고 부르는 극히 정상적인 발달 단계입니다. 다만, 하얀 삼출물이 나오고 등껍질이 끈적하며 악취가 난다면 세균 감염성 질병일 수 있어 병원 진료가 필요합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Common Musk Turtle Sunbathing Stretch and 3-Step Water Filtration Daily Routine",
-                "description": "Caring for the popular Common Musk Turtle. Learn the meaning of back-leg stretching during basking and prevent shell disease with a 3-step daily filtration routine.",
-                "authority": "World Chelonian Association Basking Guidelines and Aquatic Turtle Veterinary Protocols",
-                "profile": {
-                    "breed": "Common Musk Turtle (Sternotherus odoratus)",
-                    "lifespan": "20 ~ 30 Years",
-                    "sleep_pattern": "8 ~ 10 Hours (Sleeps on Substrate or Basking Platform)",
-                    "temperament": "Quiet, Sedentary, Highly Cautious, Curious"
-                },
-                "intro": "The compact Common Musk Turtle is ideal for beginners due to its resilient nature and minimal tank size requirements. Although they spend most of their time in water, regular dry basking under a UV lamp is essential for shell disinfection, vitamin D synthesis, and maintaining body temperature. Poor water quality and lack of dry basking can lead to painful shell rot (ulcerative shell disease). In this guide, we explain their basking body language and relaxation signals, along with a 3-step tank management routine for crystal-clear water and healthy shell care.",
-                "whyTitle": "Common Musk Turtle Basking Signals and Shell Retraction Defense",
-                "whyDesc": "Common Musk Turtles stretch their hind legs backward while basking on land **'Back-Leg Stretching'** to maximize surface area absorption when completely at ease. Conversely, when sensing sudden shadows or vibrations, they perform a **'Shell Retraction'** defense, pulling their head and limbs into their hard shell to protect themselves.",
-                "body_signals": [
-                    {
-                        "name": "Back-Leg Stretching on Basking Area",
-                        "meaning": "A relaxed state under the UV lamp, loosening tension and stretching limbs to absorb heat and dry skin.",
-                        "response": "Avoid approaching suddenly so as not to startle them into jumping back into the water. Monitor the basking lamp from a distance."
-                    },
-                    {
-                        "name": "Retracting Head and Limbs into Shell (Shell Retraction)",
-                        "meaning": "A state of high vigilance triggered by overhead hands, shadows, or water vibrations.",
-                        "response": "Avoid sudden movements in front of the tank and step back until they feel safe enough to peek out again."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Water Temperature Check (25-28°C) & Balanced Feeding",
-                        "text": "Check the water thermometer (keep at 25-28°C) to stimulate active metabolic function and feed age-appropriate commercial turtle pellets in divided portions."
-                    },
-                    {
-                        "name": "Afternoon: Checking Basking Lamp and UV-B Bulbs",
-                        "text": "Ensure UV-B and basking heat lamps are functioning properly to prevent metabolic bone disease (MBD) caused by vitamin D deficiency."
-                    },
-                    {
-                        "name": "Evening: Removing Food Leftovers & Weekly Water Changes",
-                        "text": "Siphon out waste and leftovers. Clean filter media and perform a 30% weekly water change using aged dechlorinated water."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Is it safe to fill the turtle tank directly with tap water?",
-                        "answer": "No. Chlorine in tap water irritates a turtle's sensitive ocular mucous membranes and skin, causing dryness or swelling. Use water aged for at least 24 hours or dechlorinating drops."
-                    },
-                    {
-                        "question": "Is it normal for my turtle's shell plates to peel off?",
-                        "answer": "Yes. As turtles grow, they shed old scutes, which peel off as thin, translucent pieces called 'scute shedding'. However, if you see white slimy discharge, a soft shell, or foul odor, it indicates a bacterial infection like shell rot and requires veterinary care."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "コモンマスクタートルの後ろ足伸ばし日光浴と水質濾過の3ステップ日常ルーティン",
-                "description": "最も広く飼育されている半水生カメであるコモンマスクタートル。日光浴中の足伸ばし行動の意味と、甲羅の病気を防ぐための3ステップ濾過ガイドを解説します。",
-                "authority": "World Chelonian Association カメ衛生ガイドおよび半水生カメ飼育臨床基準",
-                "profile": {
-                    "breed": "コモンマスクタートル (Sternotherus odoratus / Common Musk Turtle)",
-                    "lifespan": "20 〜 30年",
-                    "sleep_pattern": "8 〜 10時間 (水槽の底や陸地のシェルターで眠る)",
-                    "temperament": "静か、あまり動かない、警戒心が強い、好奇心旺盛"
-                },
-                "intro": "小型で大きな水槽を必要としないコモンマスクタートルは、カメ飼育の初心者にも適した強健な半水生カメの品種です。一日のほとんどを水の中で過ごしますが、甲羅の殺菌、ビタミンDの合成、そして体温維持のために陸地での日光浴が絶対に欠かせません。日光浴が不足したり、水質が悪化すると、甲羅が腐る「シェルロット（甲殻腐敗症）」などの重大な病気にかかってしまいます。本記事では、マスクタートルの日光浴サインと、清潔な水と甲羅を保つための3ステップ水槽管理法をご紹介します。",
-                "whyTitle": "マスクタートルの感情表現：足伸ばしと甲羅への引っ込みサイン",
-                "whyDesc": "コモンマスクタートルは陸に上がり、完全に安心している時に**「後ろ足を伸ばす（Back-Leg Stretching）」**姿勢をとります。反対に、突然の影や振動を感じると**「甲羅に頭を引っ込める（Shell Retraction）」**行動を見せ、頑丈な甲羅の中で身を守ります。",
-                "body_signals": [
-                    {
-                        "name": "後ろ足を伸ばす (Back-Leg Stretching)",
-                        "meaning": "UVランプの下で緊張をほぐし、全身で熱を吸収して体温を上げているリラックス状態です。",
-                        "response": "驚いて水に飛び込まないよう、近づくのを避け、離れた場所から見守りましょう。"
-                    },
-                    {
-                        "name": "甲羅に頭を引っ込める (Shell Retraction)",
-                        "meaning": "上からの影や振動、近づく手などに恐怖を感じて甲羅の中に避難した警戒状態です。",
-                        "response": "カメが安心するまで水槽の前で急に動かないようにし、少し離れた場所で待ちます。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：水温を25〜28度に調整しバランスの良い給餌",
-                        "text": "代謝を活発にするため、ヒーターの水温を確認し、年齢に合った専用の人工飼料を適量与えます。"
-                    },
-                    {
-                        "name": "昼：UV-Bおよびバスキングライトの動作点検",
-                        "text": "カルシウム代謝に必要なビタミンDを合成できるよう、日光浴エリアのランプが正常に点灯しているか確認します。"
-                    },
-                    {
-                        "name": "夜：ゴミの吸引回収と週1回の部分換水の実施",
-                        "text": "排泄物が多いため、スポイトでゴミを取り除き、フィルターを掃除して週に一度30%程度の水換えを行います。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "水道水をそのまま水槽に入れても大丈夫ですか？",
-                        "answer": "水道水に含まれる塩素は、カメのデリケートな粘膜や皮膚に強い刺激を与え、目の病気を引き起こすことがあります。必ずカルキ抜きを使用するか、一日汲み置きした水を使用してください。"
-                    },
-                    {
-                        "question": "甲羅の表面が白くペラペラ剥がれるのは病気ですか？",
-                        "answer": "カメの成長に伴い、古い甲羅が透明で薄い板のように剥がれ落ちるのは『脱皮』と呼ばれる極めて正常な現象です。ただし、白い粘液が出ていたり、甲羅が柔らかく悪臭がする場合はシェルロットの疑いがあるため、病院で診てもらってください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "密西西比泥龟的伸腿日光浴与水质过滤3阶段日常护理流程",
-                "description": "护理最常作为宠物饲养的半水生龟——密西西比泥龟（小香龟）。了解其日光浴期间伸展后腿的行为意义，并通过3阶段水质过滤指南防范甲壳疾病。",
-                "authority": "World Chelonian Association 乌龟卫生指南及半水生龟饲养兽医指南",
-                "profile": {
-                    "breed": "密西西比泥龟 (Sternotherus odoratus / Common Musk Turtle)",
-                    "lifespan": "20 ~ 30年",
-                    "sleep_pattern": "8 ~ 10小时 (在深水底或陆地躲避穴中睡觉)",
-                    "temperament": "安静、少动、警惕性高、好奇心强"
-                },
-                "intro": "密西西比泥龟（又称小香龟）因体型小巧、不需要大型水族箱而非常适合初学者，是一种生命力顽强的半水生龟品种。虽然它们的大部分时间都在水中度过，但为了甲壳杀菌、维生素D合成以及维持体温，定期在陆地上进行日光浴是绝对必需的。如果缺乏日光浴，或是在不进行过滤器维护的浑浊水中生活，极易患上甲壳腐烂病（Shell Rot），给健康带来严重威胁。本指南将教您观察泥龟的肢体语言和日光浴放松信号，并学习维持水质和甲壳健康的3阶段日常护理流程。",
-                "whyTitle": "密西西比泥龟的情感表达：伸展后腿与甲壳回缩防卫",
-                "whyDesc": "密西西比泥龟爬上陆地并完全安心地享受阳光时，会摆出 **“陆地上伸展后腿（Back-Leg Stretching）”** 的姿势以增大体表面积。相反，当察觉到突然的黑影或异常震动时，会快速做出 **“身体回缩（Shell Retraction）”** 动作，将头和四肢藏进坚硬的壳中以保护自己。",
-                "body_signals": [
-                    {
-                        "name": "陆地伸展后腿 (Back-Leg Stretching)",
-                        "meaning": "在UV灯下放松身心、吸收热量以提高体温的放松状态。",
-                        "response": "避免突然靠近惊吓它们使其跳回水中，保持距离并检查日光浴专用灯的温度和强度。"
-                    },
-                    {
-                        "name": "身体缩回甲壳中 (Shell Retraction)",
-                        "meaning": "受到从上方俯视的手、阴影或水流波动的惊吓而逃入壳中的警戒状态。",
-                        "response": "请勿在水族箱前急促移动，退后并耐心等待其重新探出头来。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：水温25~28°C点检与营养均衡饲料供给",
-                        "text": "为确保其活跃的代谢功能，检查加热棒水温，并根据年龄适量喂食乌龟专用料。"
-                    },
-                    {
-                        "name": "中午：检查UV-B及加热射灯是否正常运行",
-                        "text": "如果缺乏维生素D，极易患上代谢性骨病（MBD）导致骨骼变软，因此需确认日光浴陆地用灯具是否亮起。"
-                    },
-                    {
-                        "name": "晚上：吸取残留杂质与每周部分换水",
-                        "text": "在排泄物增多的时期，用滴管吸走残渣并清洗过滤器，每周换掉大约30%的水质。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "可以直接用自来水填满水族箱吗？",
-                        "answer": "自来水中的余氯对乌龟娇嫩的眼部粘膜和皮肤有很大刺激，易引发眼部干燥及水肿。必须使用晾晒过一天的水，或使用专门的去氯制剂。"
-                    },
-                    {
-                        "question": "甲壳像脱皮一样白白地剥落，这正常吗？",
-                        "answer": "随着乌龟的成长，旧甲壳的碎片会以透明、薄板状自然脱落，这被称为“蜕甲”，是完全正常的发育过程。但如果出现白色粘液、甲壳变软并伴有恶臭，可能是细菌感染性甲壳腐烂病，需送医治疗。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Estiramiento de patas del galápago almizclado y rutina diaria de 3 pasos de filtración de agua",
-                "description": "Cuidado del galápago almizclado común. Conozca el significado del estiramiento de patas traseras durante el asoleamiento y prevenga enfermedades del caparazón con una rutina de filtración de 3 pasos.",
-                "authority": "Pautas de Asoleamiento de la World Chelonian Association y Protocolo Veterinario de Tortugas Acuáticas",
-                "profile": {
-                    "breed": "Galápago Almizclado Común (Sternotherus odoratus / Common Musk Turtle)",
-                    "lifespan": "20 ~ 30 años",
-                    "sleep_pattern": "8 ~ 10 horas (duerme en el fondo del acuario o plataforma)",
-                    "temperament": "Silencioso, sedentario, cauteloso, curioso"
-                },
-                "intro": "El galápago almizclado común de tamaño compacto es ideal para principiantes por su gran resistencia. Aunque pasan la mayor parte de su tiempo en el agua, el asoleamiento seco regular bajo una lámpara UV es esencial para la desinfección del caparazón, la síntesis de vitamina D y el mantenimiento de la temperatura corporal. La mala calidad del agua y la falta de asoleamiento seco pueden provocar la dolorosa podredumbre del caparazón (shell rot). En esta guía, explicamos sus lenguajes corporales de asoleamiento, señales de advertencia y una rutina de mantenimiento del acuario de 3 pasos para un agua cristalina.",
-                "whyTitle": "Señales de asoleamiento del galápago almizclado y defensa de retracción del caparazón",
-                "whyDesc": "Los galápagos almizclados comunes estiran sus patas traseras hacia atrás mientras se asolean **'Estiramiento de patas traseras' (Back-Leg Stretching)** para maximizar la absorción de luz cuando están en total calma. Por el contrario, al detectar amenazas o vibraciones, retraen su cabeza y extremidades en su caparazón duro **'Retracción del caparazón' (Shell Retraction)** para defenderse.",
-                "body_signals": [
-                    {
-                        "name": "Estiramiento de patas traseras (Back-Leg Stretching)",
-                        "meaning": "Un estado relajado bajo la lámpara UV, estirando las extremidades para absorber calor y secar la piel.",
-                        "response": "Evite asustarlos para que no salten de regreso al agua. Monitoree la temperatura de la lámpara desde una distancia."
-                    },
-                    {
-                        "name": "Retracción de cabeza y extremidades (Shell Retraction)",
-                        "meaning": "Un estado de vigilancia, sobresaltado por sombras, movimiento superior o vibraciones.",
-                        "response": "Evite movimientos bruscos frente al acuario y retroceda hasta que se sientan seguros de mirar hacia afuera."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Control de temperatura del agua (25-28 °C) y alimentación equilibrada",
-                        "text": "Verifique el termómetro del agua (mantener a 25-28 °C) para activar el metabolismo y alimente con pellets comerciales de alta calidad adecuados para su edad."
-                    },
-                    {
-                        "name": "Tarde: Verificación de la lámpara de asoleamiento y bombillas UV-B",
-                        "text": "Verifique si las lámparas de calor UV-B y de asoleamiento funcionan correctamente para evitar la enfermedad metabólica ósea (MBD)."
-                    },
-                    {
-                        "name": "Noche: Limpieza de restos de comida y cambios de agua semanales",
-                        "text": "Extraiga los desechos y sobras con un sifón. Realice un cambio de agua semanal del 30% utilizando agua desclorada."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Es seguro llenar el acuario directamente con agua del grifo?",
-                        "answer": "No. El cloro del agua del grifo irrita las membranas oculares y la piel sensible de la tortuga, causando sequedad o hinchazón. Utilice agua reposada por 24 horas o gotas acondicionadoras de agua."
-                    },
-                    {
-                        "question": "¿Es normal que las placas del caparazón de mi tortuga se pelen?",
-                        "answer": "Sí. A medida que las tortugas crecen, mudan los escudos antiguos, que se desprenden como piezas delgadas y translúcidas ('muda de escudos'). Sin embargo, si observa secreción viscosa blanca, un caparazón blando o maloliente, es señal de podredumbre y necesita atención médica."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Étirement des pattes de la tortue musquée et routine quotidienne de filtration de l'eau en 3 étapes",
-                "description": "Soin de la tortue musquée commune. Découvrez la signification de l'étirement des pattes arrière pendant l'exposition au soleil et prévenez les maladies du caparaçon avec une routine de filtration en 3 étapes.",
-                "authority": "Directives d'Exposition au Soleil de la World Chelonian Association et Protocole Vétérinaire pour Tortues Aquatiques",
-                "profile": {
-                    "breed": "Tortue Musquée Commune (Sternotherus odoratus / Common Musk Turtle)",
-                    "lifespan": "20 ~ 30 ans",
-                    "sleep_pattern": "8 ~ 10 heures (dort au fond de l'aquarium ou sur plateforme)",
-                    "temperament": "Silencieux, sédentaire, prudent, curieux"
-                },
-                "intro": "La tortue musquée commune de taille compacte est idéale pour les débutants en raison de sa résistance. Bien qu'elles passent la majeure partie de leur temps dans l'eau, une exposition sèche régulière sous une lampe UV est essentielle pour la désinfection du caparaçon, la synthèse de vitamine D et le maintien de la température corporelle. Une mauvaise qualité de l'eau et un manque d'exposition sèche peuvent entraîner une pourriture douloureuse du caparaçon (shell rot). Dans ce guide, nous expliquons leur langage corporel d'exposition et leurs signaux d'alerte, ainsi qu'une routine d'entretien de l'aquarium en 3 étapes pour une eau cristalline.",
-                "whyTitle": "Signaux d'exposition de la tortue musquée et défense de rétraction dans le caparaçon",
-                "whyDesc": "Les tortues musquées communes étirent leurs pattes arrière vers l'arrière pendant qu'elles s'exposent **« Étirement des pattes arrière » (Back-Leg Stretching)** pour maximiser l'absorption de lumière lorsqu'elles sont en totale confiance. À l'inverse, lorsqu'elles détectent des menaces ou des vibrations, elles rétractent leur tête et leurs membres dans leur caparaçon dur **« Rétraction dans le caparaçon » (Shell Retraction)** pour se défendre.",
-                "body_signals": [
-                    {
-                        "name": "Étirement des pattes arrière (Back-Leg Stretching)",
-                        "meaning": "Un état détendu sous la lampe UV, étirant les membres pour absorber la chaleur et sécher la peau.",
-                        "response": "Évitez de les effrayer pour qu'elles ne sautent pas dans l'eau. Surveillez la température de la lampe à distance."
-                    },
-                    {
-                        "name": "Rétraction de la tête et des membres (Shell Retraction)",
-                        "meaning": "Un état de vigilance, surpris par les ombres, les mouvements au-dessus ou les vibrations.",
-                        "response": "Évitez les mouvements brusques devant l'aquarium et reculez jusqu'à ce qu'elles se sentent en sécurité pour regarder dehors."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Contrôle de la température de l'eau (25-28 °C) et alimentation équilibrée",
-                        "text": "Vérifiez le thermomètre de l'eau (maintenir à 25-28 °C) pour activer le métabolisme et nourrissez avec des granulés commerciaux de haute qualité adaptés à leur âge."
-                    },
-                    {
-                        "name": "Après-midi : Vérification de la lampe d'exposition et des ampoules UV-B",
-                        "text": "Vérifiez si les lampes chauffantes UV-B et d'exposition fonctionnent correctement pour éviter la maladie métabolique des os (MBD)."
-                    },
-                    {
-                        "name": "Soir : Nettoyage des restes de nourriture et changements d'eau hebdomadaires",
-                        "text": "Siphonnez les déchets et les restes. Effectuez un changement d'eau hebdomadaire de 30% en utilisant de l'eau déchlorée."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Est-il sûr de remplir l'aquarium directement avec de l'eau du robinet ?",
-                        "answer": "Non. Le chlore de l'eau du robinet irrite les membranes oculaires et la peau sensitive de la tortue, provoquant sécheresse ou gonflement. Utilisez de l'eau reposée pendant 24 heures ou des gouttes de déchloration."
-                    },
-                    {
-                        "question": "Est-il normal que les plaques du caparaçon de ma tortue pèlent ?",
-                        "answer": "Oui. À mesure que les tortues grandissent, elles muent les anciennes plaques, qui se détachent sous forme de morceaux minces et translucides ('mue des écailles/écussons'). Cependant, si vous observez des sécrétions gluantes blanches ou un caparaçon mou et malodorant, c'est le signe d'une pourriture et nécessite des soins vétérinaires."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Beinstrecken der Gewöhnlichen Moschusschildkröte und tägliche 3-Schritt-Wasserfiltrationsroutine",
-                "description": "Pflege für die beliebte Gewöhnliche Moschusschildkröte. Lernen Sie die Bedeutung des Beinstreckens beim Basking kennen und beugen Sie Panzererkrankungen mit einer 3-Schritt-Filtrationsroutine vor.",
-                "authority": "Basking-Richtlinien der World Chelonian Association und Klinisches Protokoll für Wasserschildkröten",
-                "profile": {
-                    "breed": "Gewöhnliche Moschusschildkröte (Sternotherus odoratus / Common Musk Turtle)",
-                    "lifespan": "20 ~ 30 Jahre",
-                    "sleep_pattern": "8 ~ 10 Stunden (schläft auf dem Substrat oder der Basking-Plattform)",
-                    "temperament": "Ruhig, träge, vorsichtig, neugierig"
-                },
-                "intro": "Die kompakte Gewöhnliche Moschusschildkröte ist aufgrund ihrer Robustheit ideal für Anfänger. Obwohl sie die meiste Zeit im Wasser verbringt, ist regelmäßiges trockenes Sonnenbaden unter einer UV-Lampe für die Panzerdesinfektion, Vitamin-D-Synthese und Aufrechterhaltung der Körpertemperatur unerlässlich. Schlechte Wasserqualität und mangelndes trockenes Sonnenbaden können zu schmerzhafter Panzerfäule (Shell Rot) führen. Heute auf  erklären wir die Basking-Körpersprache, Warnzeichen und eine 3-Schritt-Beckenroutine für kristallklares Wasser.",
-                "whyTitle": "Basking-Signale der Moschusschildkröte und Einziehen in den Panzer",
-                "whyDesc": "Gewöhnliche Moschusschildkröten strecken beim Sonnenbaden ihre Hinterbeine nach hinten **'Beinstrecken' (Back-Leg Stretching)**, um die Lichtabsorption zu maximieren, wenn sie völlig entspannt sind. Bei Bedrohung oder Vibration ziehen sie Kopf und Gliedmaßen in ihren harten Panzer zurück **'Einziehen in den Panzer' (Shell Retraction)**, um sich zu verteidigen.",
-                "body_signals": [
-                    {
-                        "name": "Hinterbeine strecken (Back-Leg Stretching)",
-                        "meaning": "Ein entspannter Zustand unter der UV-Lampe, Gliedmaßen strecken, um Wärme aufzunehmen und die Haut zu trocknen.",
-                        "response": "Vermeiden Sie es, sie zu erschrecken, damit sie nicht ins Wasser springen. Überwachen Sie die Lampentemperatur aus der Ferne."
-                    },
-                    {
-                        "name": "Kopf und Beine einziehen (Shell Retraction)",
-                        "meaning": "Ein Zustand der Wachsamkeit, erschrocken durch Schatten, Bewegungen von oben oder Vibrationen.",
-                        "response": "Vermeiden Sie plötzliche Bewegungen vor dem Becken und treten Sie zurück, bis sie sich sicher genug fühlen, um herauszugucken."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Wassertemperaturkontrolle (25-28 °C) und ausgewogene Fütterung",
-                        "text": "Überprüfen Sie die Wassertemperatur (bei 25-28 °C halten) zur Anregung des Stoffwechsels und füttern Sie altersgerechte kommerzielle Schildkrötenpellets."
-                    },
-                    {
-                        "name": "Nachmittag: Überprüfung der Basking-Lampe und UV-B-Birnen",
-                        "text": "Prüfen Sie, ob UV-B- und Wärme-Basking-Lampen ordnungsgemäß funktionieren, um der metabolischen Knochenerkrankung (MBD) vorzubeugen."
-                    },
-                    {
-                        "name": "Abend: Futterreste absaugen und wöchentlicher Wasserwechsel",
-                        "text": "Saugen Sie Kot und Futterreste ab. Führen Sie einen wöchentlichen Wasserwechsel von 30 % mit entchlortem Wasser durch."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Ist es sicher, das Schildkrötenbecken direkt mit Leitungswasser zu füllen?",
-                        "answer": "Nein. Chlor im Leitungswasser reizt die empfindlichen Augen und die Haut der Schildkröte, was zu Trockenheit oder Schwellungen führt. Verwenden Sie 24 Stunden abgestandenes Wasser oder Entchlorungstropfen."
-                    },
-                    {
-                        "question": "Ist es normal, dass sich die Panzerschilder meiner Schildkröte abschälen?",
-                        "answer": "Ja. Wenn Schildkröten wachsen, häuten sie alte Panzerschilder ab, die sich als dünne, durchsichtige Platten ablösen ('Schilderhäutung'). Wenn Sie jedoch weißen schleimigen Ausfluss oder einen weichen, stinkenden Panzer feststellen, ist dies ein Zeichen für Panzerfäule und muss tierärztlich behandelt werden."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Alongamento de patas do tigre d'água comum e rotina diária de filtração de água de 3 passos",
-                "description": "Cuidado da tartaruga almíscar comum. Conheça o significado do alongamento de patas traseiras durante o banho de sol e previna doenças da carapaça com uma rotina de filtração de 3 passos.",
-                "authority": "Diretrizes de Banho de Sol da World Chelonian Association e Protocolo Veterinário de Tartarugas Aquáticas",
-                "profile": {
-                    "breed": "Tartaruga Almíscar Comum (Sternotherus odoratus / Common Musk Turtle)",
-                    "lifespan": "20 ~ 30 anos",
-                    "sleep_pattern": "8 ~ 10 horas (dorme no fundo do aquário ou plataforma)",
-                    "temperament": "Silencioso, sedentário, cauteloso, curioso"
-                },
-                "intro": "A tartaruga almíscar comum de tamanho compacto é ideal para principiantes pela sua resistência. Embora passem a maior parte do seu tempo na água, o banho de sol seco regular sob uma lâmpada UV é essencial para a desinfecção da carapaça, a síntese de vitamina D e a manutenção da temperatura corporal. A má qualidade da água e a falta de banho de sol seco podem provocar a dolorosa podridão da carapaça (shell rot). Neste guia, explicamos os seus comportamentos corporais de banho de sol, sinais de aviso e uma rotina de manutenção do aquário de 3 passos para uma água cristalina.",
-                "whyTitle": "Sinais de banho de sol da tartaruga almíscar comum e defesa de retracção da carapaça",
-                "whyDesc": "As tartarugas almíscar comum esticam as suas patas traseiras para trás enquanto apanham sol **'Alongamento de patas traseiras' (Back-Leg Stretching)** para maximizar a absorção de luz quando estão em total calma. Pelo contrário, ao detetar ameaças ou vibrações, retraem a cabeça e extremidades na carapaça dura **'Retracção da carapaça' (Shell Retraction)** para se defenderem.",
-                "body_signals": [
-                    {
-                        "name": "Alongamento de patas traseiras (Back-Leg Stretching)",
-                        "meaning": "Um estado relaxado sob a lâmpada UV, esticando as extremidades para absorver calor e secar a pele.",
-                        "response": "Evite assustá-las para que não saltem de volta para a água. Monitorize a temperatura da lâmpada a partir de uma distância."
-                    },
-                    {
-                        "name": "Retracção de cabeça e extremidades (Shell Retraction)",
-                        "meaning": "Um estado de vigilância, sobressaltado por sombras, movimento superior ou vibrações.",
-                        "response": "Evite movimentos bruscos em frente ao aquário e recue até que se sintam seguras de olhar para fora."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Controlo de temperatura da água (25-28 °C) e alimentação equilibrada",
-                        "text": "Verifique o termómetro da água (manter a 25-28 °C) para activar o metabolismo e alimente com ração comercial de alta qualidade adequada para a idade."
-                    },
-                    {
-                        "name": "Tarde: Verificação da lâmpada de banho de sol e lâmpadas UV-B",
-                        "text": "Verifique se as lâmpadas de calor UV-B e de banho de sol funcionam corretamente para evitar a doença metabólica óssea (MBD)."
-                    },
-                    {
-                        "name": "Noite: Limpeza de restos de comida e trocas de água semanais",
-                        "text": "Sifoneie os resíduos e as sobras. Realize uma troca de água semanal de 30% utilizando água desclorada."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "É seguro encher o aquário directamente com água da torneira?",
-                        "answer": "Não. O cloro da água da torneira irrita as membranas oculares e a pele sensível da tartaruga, causando secura ou inchaço. Utilize água repousada por 24 horas ou gotas de decloração."
-                    },
-                    {
-                        "question": "É normal que as placas da carapaça da minha tartaruga descasquem?",
-                        "answer": "Sim. À medida que as tartarugas crescem, mudam as placas antigas, que se desprendem como peças finas e translúcidas ('muda de placas'). No entanto, se observar secreções viscosas brancas ou uma carapaça mole e malcheirosa, é sinal de podridão e precisa de cuidados médicos."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Peregangan Kaki Kura-Kura Kasturi dan Rutinitas Harian 3 Langkah Filtrasi Air",
-                "description": "Merawat kura-kura kasturi umum (semi-akuatik). Pelajari arti peregangan kaki belakang saat berjemur dan cegah penyakit tempurung dengan rutin filtrasi 3 langkah.",
-                "authority": "Panduan Berjemur World Chelonian Association dan Protokol Medis Kura-Kura Akuatik",
-                "profile": {
-                    "breed": "Kura-Kura Kasturi Umum (Sternotherus odoratus / Common Musk Turtle)",
-                    "lifespan": "20 ~ 30 tahun",
-                    "sleep_pattern": "8 ~ 10 jam (tidur di dasar akuarium atau platform berjemur)",
-                    "temperament": "Tenang, sedentary, waspada, penasaran"
-                },
-                "intro": "Kura-kura kasturi umum yang berukuran kompak sangat ideal untuk pemula karena daya tahannya yang kuat. Meskipun menghabiskan sebagian besar waktu mereka di air, berjemur kering secara rutin di bawah lampu UV sangat penting untuk disinfeksi tempurung, sintesis vitamin D, dan pemeliharaan suhu tubuh. Kualitas air yang buruk dan kurangnya berjemur kering dapat menyebabkan pembusukan tempurung (shell rot) yang menyakitkan. Dalam panduan ini, kami menjelaskan bahasa tubuh berjemur, tanda peringatan, dan 3 langkah rutinitas harian pengelolaan akuarium untuk air yang jernih.",
-                "whyTitle": "Sinyal Berjemur Kura-Kura Kasturi dan Pertahanan Penarikan Tempurung",
-                "whyDesc": "Kura-kura kasturi umum meregangkan kaki belakang ke belakang saat berjemur **'Peregangan kaki belakang' (Back-Leg Stretching)** untuk memaksimalkan penyerapan cahaya saat merasa sangat tenang. Sebaliknya, ketika mendeteksi ancaman atau getaran, mereka menarik kepala dan anggota tubuh ke dalam tempurung keras **'Penarikan tempurung' (Shell Retraction)** untuk pertahanan diri.",
-                "body_signals": [
-                    {
-                        "name": "Peregangan Kaki Belakang (Back-Leg Stretching)",
-                        "meaning": "Keadaan santai di bawah lampu UV, meregangkan anggota tubuh untuk menyerap panas dan mengeringkan kulit.",
-                        "response": "Hindari mengejutkan mereka agar tidak melompat kembali ke air. Pantau suhu lampu berjemur dari jarak jauh."
-                    },
-                    {
-                        "name": "Menarik Kepala dan Anggota Tubuh (Shell Retraction)",
-                        "meaning": "Keadaan waspada, terkejut oleh bayangan, gerakan di atas, atau getaran.",
-                        "response": "Hindari gerakan tiba-tiba di depan akuarium dan mundur sampai mereka merasa cukup aman untuk mengintip keluar."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Pemeriksaan Suhu Air (25-28 °C) & Pemberian Makan Seimbang",
-                        "text": "Periksa termometer air (jaga pada suhu 25-28 °C) untuk mengaktifkan metabolisme dan beri pelet kura-kura komersial berkualitas tinggi yang sesuai dengan usianya."
-                    },
-                    {
-                        "name": "Siang: Memeriksa Lampu Berjemur dan Bohlam UV-B",
-                        "text": "Periksa apakah lampu panas UV-B dan lampu berjemur berfungsi dengan baik untuk mencegah penyakit tulang metabolik (MBD)."
-                    },
-                    {
-                        "name": "Malam: Membersihkan Sisa Makanan & Penggantian Air Mingguan",
-                        "text": "Sedot kotoran dan sisa makanan. Lakukan penggantian air mingguan sebanyak 30% menggunakan air yang sudah diendapkan."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apakah aman mengisi akuarium kura-kura langsung dengan air keran?",
-                        "answer": "Tidak. Klorin dalam air keran mengiritasi selaput mata dan kulit sensitif kura-kura, menyebabkan kering atau bengkak. Gunakan air yang diendapkan selama 24 jam atau tetes antiklorin."
-                    },
-                    {
-                        "question": "Apakah normal jika lempeng tempurung kura-kura saya mengelupas?",
-                        "answer": "Ya. Seiring pertumbuhan kura-kura, mereka melepaskan keping tempurung tua, yang terkelupas sebagai kepingan tipis dan transparan ('moulting keping'). Namun, jika Anda melihat cairan lendir putih atau tempurung yang lunak dan berbau, itu tanda pembusukan dan perlu perawatan dokter hewan."
-                    }
-                ]
-            }
+  "musk-turtle-care": {
+    "pubDate": "2026-04-03",
+    "updatedDate": "2026-04-03",
+    "locales": {
+      "ko": {
+        "title": "커먼 머스크 터틀의 다리 펴기 일광욕과 여과 위생 3단계 루틴",
+        "description": "가장 널리 키워지는 반수생 거북이 품종인 커먼 머스크 터틀. 일광욕 중 뒷다리를 쭉 펴는 행동의 의미와 등껍질 질환을 막는 3단계 수질 여과 필터링 가이드를 알아봅니다.",
+        "authority": "World Chelonian Association 거북이 위생 가이드 및 반수생 거북 사육 수의 지침",
+        "profile": {
+          "breed": "커먼 머스크 터틀 (Sternotherus odoratus / Common Musk Turtle)",
+          "lifespan": "20 ~ 30년",
+          "sleep_pattern": "8 ~ 10시간 (깊은 수조 아래나 은신처 바닥에서 수면)",
+          "temperament": "정적임, 조용함, 경계심 강함, 호기심 많음"
         },
-        "heroImage": "/images/blog/musk_turtle_care.webp"
-    }
+        "intro": "아담한 소형 크기로 큰 수조를 요구하지 않아 초보 반려인들에게 적합한 커먼 머스크 터틀은 조용하고 강인한 반수생 거북이 품종입니다. 비록 물속에서 대부분의 시간을 보내지만, 등껍질 살균과 비타민 D 합성, 그리고 체온 유지를 위해 정기적인 육지 일광욕이 절대적으로 필수적입니다. 일광욕이 부족하거나 필터 정비 없이 탁한 물에 오래 방치하면 쉘 롯(Shell Rot, 갑갑 부패증)과 같은 치명적인 질환으로 고통받을 수 있습니다. 이번 가이드에서는 머스크 터틀의 몸짓 언어와 일광욕 이완 시그널을 확인하고, 맑은 물과 쉘 케어를 돕는 3단계 수조 관리법을 익혀봅니다.",
+        "whyTitle": "머스크 터틀의 감정 표현: 다리 쭉 펴기와 등껍질 방어 신호",
+        "whyDesc": "커먼 머스크 터틀은 육지에 올라와 완전히 안심하고 햇살을 즐길 때 **'육지 위에서 뒷다리 쭉 펴기(Back-Leg Stretching)'** 자세를 취해 몸 표면적을 넓힙니다. 반대로 강한 소리나 위협적인 움직임을 감지하면 머리를 재빨리 삼키는 **'머리 숨기기(Shell Retraction)'** 행동으로 단단한 껍질 속으로 들어가 자신을 철저히 보호합니다.",
+        "body_signals": [
+          {
+            "name": "육지 뒷다리 펴기 (Back-Leg Stretching)",
+            "meaning": "UV 램프 아래에서 긴장을 풀고 온몸으로 열을 받으며 체온을 올리는 최적의 릴랙스 상태입니다.",
+            "response": "가까이 다가가 깜짝 놀라게 해 물속으로 뛰어들지 않도록 방해를 피하고 멀리서 램프를 작동해 둡니다."
+          },
+          {
+            "name": "등껍질 속에 몸 숨기기 (Shell Retraction)",
+            "meaning": "위쪽에서 내려다보는 손이나 그림자, 큰 파동에 위협을 느껴 껍질 속으로 도망친 경계 상태입니다.",
+            "response": "스스로 진정해 머리를 내밀 때까지 수조 앞에서 급하게 움직이지 말고 한참 물러서 줍니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 수온 25~28도 점검 및 영양 균형 사료 공급",
+            "text": "거북이의 대사 작용 활성화를 돕기 위해 온도계 수온을 체크하고 전용 거북이 사료와 영양 사료를 소량 나누어 급여합니다."
+          },
+          {
+            "name": "낮: UV-B 및 열 스팟 램프 오작동 확인",
+            "text": "비타민 D가 부족하면 뼈가 말랑해지는 대사성 골질환(MBD)에 취약해지므로 일광욕 육지용 램프의 불빛 작동 여부를 확인합니다."
+          },
+          {
+            "name": "저녁: 찌꺼기 흡입 수거 및 주 1회 부분 환수 진행",
+            "text": "배설물이 다량 발생하는 시기에 맞춰 바닥면 찌꺼기를 치우고, 여과기 필터를 씻어 수질 악화를 방지합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "수돗물을 그냥 물그릇과 수조에 채워도 안전한가요?",
+            "answer": "수돗물 내 함유된 염소 성분은 거북이의 약한 안구 점막과 피부에 큰 자극을 주어 안구 건조 및 부종을 유발할 수 있습니다. 반드시 만 하루 이상 상온에 받아두어 염소를 날린 물이나 전용 중화제를 사용해야 안전합니다."
+          },
+          {
+            "question": "등껍질이 하얗게 껍질처럼 벗겨지는데 정상인가요?",
+            "answer": "거북이가 성장하면서 등껍질의 낡은 조각이 투명하고 얇은 판 형태로 저절로 떨어져 나가는 현상은 '탈피'라고 부르는 극히 정상적인 발달 단계입니다. 다만, 하얀 삼출물이 나오고 등껍질이 끈적하며 악취가 난다면 세균 감염성 질병일 수 있어 병원 진료가 필요합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Common Musk Turtle Sunbathing Stretch and 3-Step Water Filtration Daily Routine",
+        "description": "Caring for the popular Common Musk Turtle. Learn the meaning of back-leg stretching during basking and prevent shell disease with a 3-step daily filtration routine.",
+        "authority": "World Chelonian Association Basking Guidelines and Aquatic Turtle Veterinary Protocols",
+        "profile": {
+          "breed": "Common Musk Turtle (Sternotherus odoratus)",
+          "lifespan": "20 ~ 30 Years",
+          "sleep_pattern": "8 ~ 10 Hours (Sleeps on Substrate or Basking Platform)",
+          "temperament": "Quiet, Sedentary, Highly Cautious, Curious"
+        },
+        "intro": "The compact Common Musk Turtle is ideal for beginners due to its resilient nature and minimal tank size requirements. Although they spend most of their time in water, regular dry basking under a UV lamp is essential for shell disinfection, vitamin D synthesis, and maintaining body temperature. Poor water quality and lack of dry basking can lead to painful shell rot (ulcerative shell disease). In this guide, we explain their basking body language and relaxation signals, along with a 3-step tank management routine for crystal-clear water and healthy shell care.",
+        "whyTitle": "Common Musk Turtle Basking Signals and Shell Retraction Defense",
+        "whyDesc": "Common Musk Turtles stretch their hind legs backward while basking on land **'Back-Leg Stretching'** to maximize surface area absorption when completely at ease. Conversely, when sensing sudden shadows or vibrations, they perform a **'Shell Retraction'** defense, pulling their head and limbs into their hard shell to protect themselves.",
+        "body_signals": [
+          {
+            "name": "Back-Leg Stretching on Basking Area",
+            "meaning": "A relaxed state under the UV lamp, loosening tension and stretching limbs to absorb heat and dry skin.",
+            "response": "Avoid approaching suddenly so as not to startle them into jumping back into the water. Monitor the basking lamp from a distance."
+          },
+          {
+            "name": "Retracting Head and Limbs into Shell (Shell Retraction)",
+            "meaning": "A state of high vigilance triggered by overhead hands, shadows, or water vibrations.",
+            "response": "Avoid sudden movements in front of the tank and step back until they feel safe enough to peek out again."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Water Temperature Check (25-28°C) & Balanced Feeding",
+            "text": "Check the water thermometer (keep at 25-28°C) to stimulate active metabolic function and feed age-appropriate commercial turtle pellets in divided portions."
+          },
+          {
+            "name": "Afternoon: Checking Basking Lamp and UV-B Bulbs",
+            "text": "Ensure UV-B and basking heat lamps are functioning properly to prevent metabolic bone disease (MBD) caused by vitamin D deficiency."
+          },
+          {
+            "name": "Evening: Removing Food Leftovers & Weekly Water Changes",
+            "text": "Siphon out waste and leftovers. Clean filter media and perform a 30% weekly water change using aged dechlorinated water."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Is it safe to fill the turtle tank directly with tap water?",
+            "answer": "No. Chlorine in tap water irritates a turtle's sensitive ocular mucous membranes and skin, causing dryness or swelling. Use water aged for at least 24 hours or dechlorinating drops."
+          },
+          {
+            "question": "Is it normal for my turtle's shell plates to peel off?",
+            "answer": "Yes. As turtles grow, they shed old scutes, which peel off as thin, translucent pieces called 'scute shedding'. However, if you see white slimy discharge, a soft shell, or foul odor, it indicates a bacterial infection like shell rot and requires veterinary care."
+          }
+        ]
+      },
+      "ja": {
+        "title": "コモンマスクタートルの後ろ足伸ばし日光浴と水質濾過の3ステップ日常ルーティン",
+        "description": "最も広く飼育されている半水生カメであるコモンマスクタートル。日光浴中の足伸ばし行動の意味と、甲羅の病気を防ぐための3ステップ濾過ガイドを解説します。",
+        "authority": "World Chelonian Association カメ衛生ガイドおよび半水生カメ飼育臨床基準",
+        "profile": {
+          "breed": "コモンマスクタートル (Sternotherus odoratus / Common Musk Turtle)",
+          "lifespan": "20 〜 30年",
+          "sleep_pattern": "8 〜 10時間 (水槽の底や陸地のシェルターで眠る)",
+          "temperament": "静か、あまり動かない、警戒心が強い、好奇心旺盛"
+        },
+        "intro": "小型で大きな水槽を必要としないコモンマスクタートルは、カメ飼育の初心者にも適した強健な半水生カメの品種です。一日のほとんどを水の中で過ごしますが、甲羅の殺菌、ビタミンDの合成、そして体温維持のために陸地での日光浴が絶対に欠かせません。日光浴が不足したり、水質が悪化すると、甲羅が腐る「シェルロット（甲殻腐敗症）」などの重大な病気にかかってしまいます。本記事では、マスクタートルの日光浴サインと、清潔な水と甲羅を保つための3ステップ水槽管理法をご紹介します。",
+        "whyTitle": "マスクタートルの感情表現：足伸ばしと甲羅への引っ込みサイン",
+        "whyDesc": "コモンマスクタートルは陸に上がり、完全に安心している時に**「後ろ足を伸ばす（Back-Leg Stretching）」**姿勢をとります。反対に、突然の影や振動を感じると**「甲羅に頭を引っ込める（Shell Retraction）」**行動を見せ、頑丈な甲羅の中で身を守ります。",
+        "body_signals": [
+          {
+            "name": "後ろ足を伸ばす (Back-Leg Stretching)",
+            "meaning": "UVランプの下で緊張をほぐし、全身で熱を吸収して体温を上げているリラックス状態です。",
+            "response": "驚いて水に飛び込まないよう、近づくのを避け、離れた場所から見守りましょう。"
+          },
+          {
+            "name": "甲羅に頭を引っ込める (Shell Retraction)",
+            "meaning": "上からの影や振動、近づく手などに恐怖を感じて甲羅の中に避難した警戒状態です。",
+            "response": "カメが安心するまで水槽の前で急に動かないようにし、少し離れた場所で待ちます。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：水温を25〜28度に調整しバランスの良い給餌",
+            "text": "代謝を活発にするため、ヒーターの水温を確認し、年齢に合った専用の人工飼料を適量与えます。"
+          },
+          {
+            "name": "昼：UV-Bおよびバスキングライトの動作点検",
+            "text": "カルシウム代謝に必要なビタミンDを合成できるよう、日光浴エリアのランプが正常に点灯しているか確認します。"
+          },
+          {
+            "name": "夜：ゴミの吸引回収と週1回の部分換水の実施",
+            "text": "排泄物が多いため、スポイトでゴミを取り除き、フィルターを掃除して週に一度30%程度の水換えを行います。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "水道水をそのまま水槽に入れても大丈夫ですか？",
+            "answer": "水道水に含まれる塩素は、カメのデリケートな粘膜や皮膚に強い刺激を与え、目の病気を引き起こすことがあります。必ずカルキ抜きを使用するか、一日汲み置きした水を使用してください。"
+          },
+          {
+            "question": "甲羅の表面が白くペラペラ剥がれるのは病気ですか？",
+            "answer": "カメの成長に伴い、古い甲羅が透明で薄い板のように剥がれ落ちるのは『脱皮』と呼ばれる極めて正常な現象です。ただし、白い粘液が出ていたり、甲羅が柔らかく悪臭がする場合はシェルロットの疑いがあるため、病院で診てもらってください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "密西西比泥龟的伸腿日光浴与水质过滤3阶段日常护理流程",
+        "description": "护理最常作为宠物饲养的半水生龟——密西西比泥龟（小香龟）。了解其日光浴期间伸展后腿的行为意义，并通过3阶段水质过滤指南防范甲壳疾病。",
+        "authority": "World Chelonian Association 乌龟卫生指南及半水生龟饲养兽医指南",
+        "profile": {
+          "breed": "密西西比泥龟 (Sternotherus odoratus / Common Musk Turtle)",
+          "lifespan": "20 ~ 30年",
+          "sleep_pattern": "8 ~ 10小时 (在深水底或陆地躲避穴中睡觉)",
+          "temperament": "安静、少动、警惕性高、好奇心强"
+        },
+        "intro": "密西西比泥龟（又称小香龟）因体型小巧、不需要大型水族箱而非常适合初学者，是一种生命力顽强的半水生龟品种。虽然它们的大部分时间都在水中度过，但为了甲壳杀菌、维生素D合成以及维持体温，定期在陆地上进行日光浴是绝对必需的。如果缺乏日光浴，或是在不进行过滤器维护的浑浊水中生活，极易患上甲壳腐烂病（Shell Rot），给健康带来严重威胁。本指南将教您观察泥龟的肢体语言和日光浴放松信号，并学习维持水质和甲壳健康的3阶段日常护理流程。",
+        "whyTitle": "密西西比泥龟的情感表达：伸展后腿与甲壳回缩防卫",
+        "whyDesc": "密西西比泥龟爬上陆地并完全安心地享受阳光时，会摆出 **“陆地上伸展后腿（Back-Leg Stretching）”** 的姿势以增大体表面积。相反，当察觉到突然的黑影或异常震动时，会快速做出 **“身体回缩（Shell Retraction）”** 动作，将头和四肢藏进坚硬的壳中以保护自己。",
+        "body_signals": [
+          {
+            "name": "陆地伸展后腿 (Back-Leg Stretching)",
+            "meaning": "在UV灯下放松身心、吸收热量以提高体温的放松状态。",
+            "response": "避免突然靠近惊吓它们使其跳回水中，保持距离并检查日光浴专用灯的温度和强度。"
+          },
+          {
+            "name": "身体缩回甲壳中 (Shell Retraction)",
+            "meaning": "受到从上方俯视的手、阴影或水流波动的惊吓而逃入壳中的警戒状态。",
+            "response": "请勿在水族箱前急促移动，退后并耐心等待其重新探出头来。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：水温25~28°C点检与营养均衡饲料供给",
+            "text": "为确保其活跃的代谢功能，检查加热棒水温，并根据年龄适量喂食乌龟专用料。"
+          },
+          {
+            "name": "中午：检查UV-B及加热射灯是否正常运行",
+            "text": "如果缺乏维生素D，极易患上代谢性骨病（MBD）导致骨骼变软，因此需确认日光浴陆地用灯具是否亮起。"
+          },
+          {
+            "name": "晚上：吸取残留杂质与每周部分换水",
+            "text": "在排泄物增多的时期，用滴管吸走残渣并清洗过滤器，每周换掉大约30%的水质。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "可以直接用自来水填满水族箱吗？",
+            "answer": "自来水中的余氯对乌龟娇嫩的眼部粘膜和皮肤有很大刺激，易引发眼部干燥及水肿。必须使用晾晒过一天的水，或使用专门的去氯制剂。"
+          },
+          {
+            "question": "甲壳像脱皮一样白白地剥落，这正常吗？",
+            "answer": "随着乌龟的成长，旧甲壳的碎片会以透明、薄板状自然脱落，这被称为“蜕甲”，是完全正常的发育过程。但如果出现白色粘液、甲壳变软并伴有恶臭，可能是细菌感染性甲壳腐烂病，需送医治疗。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Estiramiento de patas del galápago almizclado y rutina diaria de 3 pasos de filtración de agua",
+        "description": "Cuidado del galápago almizclado común. Conozca el significado del estiramiento de patas traseras durante el asoleamiento y prevenga enfermedades del caparazón con una rutina de filtración de 3 pasos.",
+        "authority": "Pautas de Asoleamiento de la World Chelonian Association y Protocolo Veterinario de Tortugas Acuáticas",
+        "profile": {
+          "breed": "Galápago Almizclado Común (Sternotherus odoratus / Common Musk Turtle)",
+          "lifespan": "20 ~ 30 años",
+          "sleep_pattern": "8 ~ 10 horas (duerme en el fondo del acuario o plataforma)",
+          "temperament": "Silencioso, sedentario, cauteloso, curioso"
+        },
+        "intro": "El galápago almizclado común de tamaño compacto es ideal para principiantes por su gran resistencia. Aunque pasan la mayor parte de su tiempo en el agua, el asoleamiento seco regular bajo una lámpara UV es esencial para la desinfección del caparazón, la síntesis de vitamina D y el mantenimiento de la temperatura corporal. La mala calidad del agua y la falta de asoleamiento seco pueden provocar la dolorosa podredumbre del caparazón (shell rot). En esta guía, explicamos sus lenguajes corporales de asoleamiento, señales de advertencia y una rutina de mantenimiento del acuario de 3 pasos para un agua cristalina.",
+        "whyTitle": "Señales de asoleamiento del galápago almizclado y defensa de retracción del caparazón",
+        "whyDesc": "Los galápagos almizclados comunes estiran sus patas traseras hacia atrás mientras se asolean **'Estiramiento de patas traseras' (Back-Leg Stretching)** para maximizar la absorción de luz cuando están en total calma. Por el contrario, al detectar amenazas o vibraciones, retraen su cabeza y extremidades en su caparazón duro **'Retracción del caparazón' (Shell Retraction)** para defenderse.",
+        "body_signals": [
+          {
+            "name": "Estiramiento de patas traseras (Back-Leg Stretching)",
+            "meaning": "Un estado relajado bajo la lámpara UV, estirando las extremidades para absorber calor y secar la piel.",
+            "response": "Evite asustarlos para que no salten de regreso al agua. Monitoree la temperatura de la lámpara desde una distancia."
+          },
+          {
+            "name": "Retracción de cabeza y extremidades (Shell Retraction)",
+            "meaning": "Un estado de vigilancia, sobresaltado por sombras, movimiento superior o vibraciones.",
+            "response": "Evite movimientos bruscos frente al acuario y retroceda hasta que se sientan seguros de mirar hacia afuera."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Control de temperatura del agua (25-28 °C) y alimentación equilibrada",
+            "text": "Verifique el termómetro del agua (mantener a 25-28 °C) para activar el metabolismo y alimente con pellets comerciales de alta calidad adecuados para su edad."
+          },
+          {
+            "name": "Tarde: Verificación de la lámpara de asoleamiento y bombillas UV-B",
+            "text": "Verifique si las lámparas de calor UV-B y de asoleamiento funcionan correctamente para evitar la enfermedad metabólica ósea (MBD)."
+          },
+          {
+            "name": "Noche: Limpieza de restos de comida y cambios de agua semanales",
+            "text": "Extraiga los desechos y sobras con un sifón. Realice un cambio de agua semanal del 30% utilizando agua desclorada."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Es seguro llenar el acuario directamente con agua del grifo?",
+            "answer": "No. El cloro del agua del grifo irrita las membranas oculares y la piel sensible de la tortuga, causando sequedad o hinchazón. Utilice agua reposada por 24 horas o gotas acondicionadoras de agua."
+          },
+          {
+            "question": "¿Es normal que las placas del caparazón de mi tortuga se pelen?",
+            "answer": "Sí. A medida que las tortugas crecen, mudan los escudos antiguos, que se desprenden como piezas delgadas y translúcidas ('muda de escudos'). Sin embargo, si observa secreción viscosa blanca, un caparazón blando o maloliente, es señal de podredumbre y necesita atención médica."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Étirement des pattes de la tortue musquée et routine quotidienne de filtration de l'eau en 3 étapes",
+        "description": "Soin de la tortue musquée commune. Découvrez la signification de l'étirement des pattes arrière pendant l'exposition au soleil et prévenez les maladies du caparaçon avec une routine de filtration en 3 étapes.",
+        "authority": "Directives d'Exposition au Soleil de la World Chelonian Association et Protocole Vétérinaire pour Tortues Aquatiques",
+        "profile": {
+          "breed": "Tortue Musquée Commune (Sternotherus odoratus / Common Musk Turtle)",
+          "lifespan": "20 ~ 30 ans",
+          "sleep_pattern": "8 ~ 10 heures (dort au fond de l'aquarium ou sur plateforme)",
+          "temperament": "Silencieux, sédentaire, prudent, curieux"
+        },
+        "intro": "La tortue musquée commune de taille compacte est idéale pour les débutants en raison de sa résistance. Bien qu'elles passent la majeure partie de leur temps dans l'eau, une exposition sèche régulière sous une lampe UV est essentielle pour la désinfection du caparaçon, la synthèse de vitamine D et le maintien de la température corporelle. Une mauvaise qualité de l'eau et un manque d'exposition sèche peuvent entraîner une pourriture douloureuse du caparaçon (shell rot). Dans ce guide, nous expliquons leur langage corporel d'exposition et leurs signaux d'alerte, ainsi qu'une routine d'entretien de l'aquarium en 3 étapes pour une eau cristalline.",
+        "whyTitle": "Signaux d'exposition de la tortue musquée et défense de rétraction dans le caparaçon",
+        "whyDesc": "Les tortues musquées communes étirent leurs pattes arrière vers l'arrière pendant qu'elles s'exposent **« Étirement des pattes arrière » (Back-Leg Stretching)** pour maximiser l'absorption de lumière lorsqu'elles sont en totale confiance. À l'inverse, lorsqu'elles détectent des menaces ou des vibrations, elles rétractent leur tête et leurs membres dans leur caparaçon dur **« Rétraction dans le caparaçon » (Shell Retraction)** pour se défendre.",
+        "body_signals": [
+          {
+            "name": "Étirement des pattes arrière (Back-Leg Stretching)",
+            "meaning": "Un état détendu sous la lampe UV, étirant les membres pour absorber la chaleur et sécher la peau.",
+            "response": "Évitez de les effrayer pour qu'elles ne sautent pas dans l'eau. Surveillez la température de la lampe à distance."
+          },
+          {
+            "name": "Rétraction de la tête et des membres (Shell Retraction)",
+            "meaning": "Un état de vigilance, surpris par les ombres, les mouvements au-dessus ou les vibrations.",
+            "response": "Évitez les mouvements brusques devant l'aquarium et reculez jusqu'à ce qu'elles se sentent en sécurité pour regarder dehors."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Contrôle de la température de l'eau (25-28 °C) et alimentation équilibrée",
+            "text": "Vérifiez le thermomètre de l'eau (maintenir à 25-28 °C) pour activer le métabolisme et nourrissez avec des granulés commerciaux de haute qualité adaptés à leur âge."
+          },
+          {
+            "name": "Après-midi : Vérification de la lampe d'exposition et des ampoules UV-B",
+            "text": "Vérifiez si les lampes chauffantes UV-B et d'exposition fonctionnent correctement pour éviter la maladie métabolique des os (MBD)."
+          },
+          {
+            "name": "Soir : Nettoyage des restes de nourriture et changements d'eau hebdomadaires",
+            "text": "Siphonnez les déchets et les restes. Effectuez un changement d'eau hebdomadaire de 30% en utilisant de l'eau déchlorée."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Est-il sûr de remplir l'aquarium directement avec de l'eau du robinet ?",
+            "answer": "Non. Le chlore de l'eau du robinet irrite les membranes oculaires et la peau sensitive de la tortue, provoquant sécheresse ou gonflement. Utilisez de l'eau reposée pendant 24 heures ou des gouttes de déchloration."
+          },
+          {
+            "question": "Est-il normal que les plaques du caparaçon de ma tortue pèlent ?",
+            "answer": "Oui. À mesure que les tortues grandissent, elles muent les anciennes plaques, qui se détachent sous forme de morceaux minces et translucides ('mue des écailles/écussons'). Cependant, si vous observez des sécrétions gluantes blanches ou un caparaçon mou et malodorant, c'est le signe d'une pourriture et nécessite des soins vétérinaires."
+          }
+        ]
+      },
+      "de": {
+        "title": "Beinstrecken der Gewöhnlichen Moschusschildkröte und tägliche 3-Schritt-Wasserfiltrationsroutine",
+        "description": "Pflege für die beliebte Gewöhnliche Moschusschildkröte. Lernen Sie die Bedeutung des Beinstreckens beim Basking kennen und beugen Sie Panzererkrankungen mit einer 3-Schritt-Filtrationsroutine vor.",
+        "authority": "Basking-Richtlinien der World Chelonian Association und Klinisches Protokoll für Wasserschildkröten",
+        "profile": {
+          "breed": "Gewöhnliche Moschusschildkröte (Sternotherus odoratus / Common Musk Turtle)",
+          "lifespan": "20 ~ 30 Jahre",
+          "sleep_pattern": "8 ~ 10 Stunden (schläft auf dem Substrat oder der Basking-Plattform)",
+          "temperament": "Ruhig, träge, vorsichtig, neugierig"
+        },
+        "intro": "Die kompakte Gewöhnliche Moschusschildkröte ist aufgrund ihrer Robustheit ideal für Anfänger. Obwohl sie die meiste Zeit im Wasser verbringt, ist regelmäßiges trockenes Sonnenbaden unter einer UV-Lampe für die Panzerdesinfektion, Vitamin-D-Synthese und Aufrechterhaltung der Körpertemperatur unerlässlich. Schlechte Wasserqualität und mangelndes trockenes Sonnenbaden können zu schmerzhafter Panzerfäule (Shell Rot) führen. Heute auf  erklären wir die Basking-Körpersprache, Warnzeichen und eine 3-Schritt-Beckenroutine für kristallklares Wasser.",
+        "whyTitle": "Basking-Signale der Moschusschildkröte und Einziehen in den Panzer",
+        "whyDesc": "Gewöhnliche Moschusschildkröten strecken beim Sonnenbaden ihre Hinterbeine nach hinten **'Beinstrecken' (Back-Leg Stretching)**, um die Lichtabsorption zu maximieren, wenn sie völlig entspannt sind. Bei Bedrohung oder Vibration ziehen sie Kopf und Gliedmaßen in ihren harten Panzer zurück **'Einziehen in den Panzer' (Shell Retraction)**, um sich zu verteidigen.",
+        "body_signals": [
+          {
+            "name": "Hinterbeine strecken (Back-Leg Stretching)",
+            "meaning": "Ein entspannter Zustand unter der UV-Lampe, Gliedmaßen strecken, um Wärme aufzunehmen und die Haut zu trocknen.",
+            "response": "Vermeiden Sie es, sie zu erschrecken, damit sie nicht ins Wasser springen. Überwachen Sie die Lampentemperatur aus der Ferne."
+          },
+          {
+            "name": "Kopf und Beine einziehen (Shell Retraction)",
+            "meaning": "Ein Zustand der Wachsamkeit, erschrocken durch Schatten, Bewegungen von oben oder Vibrationen.",
+            "response": "Vermeiden Sie plötzliche Bewegungen vor dem Becken und treten Sie zurück, bis sie sich sicher genug fühlen, um herauszugucken."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Wassertemperaturkontrolle (25-28 °C) und ausgewogene Fütterung",
+            "text": "Überprüfen Sie die Wassertemperatur (bei 25-28 °C halten) zur Anregung des Stoffwechsels und füttern Sie altersgerechte kommerzielle Schildkrötenpellets."
+          },
+          {
+            "name": "Nachmittag: Überprüfung der Basking-Lampe und UV-B-Birnen",
+            "text": "Prüfen Sie, ob UV-B- und Wärme-Basking-Lampen ordnungsgemäß funktionieren, um der metabolischen Knochenerkrankung (MBD) vorzubeugen."
+          },
+          {
+            "name": "Abend: Futterreste absaugen und wöchentlicher Wasserwechsel",
+            "text": "Saugen Sie Kot und Futterreste ab. Führen Sie einen wöchentlichen Wasserwechsel von 30 % mit entchlortem Wasser durch."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Ist es sicher, das Schildkrötenbecken direkt mit Leitungswasser zu füllen?",
+            "answer": "Nein. Chlor im Leitungswasser reizt die empfindlichen Augen und die Haut der Schildkröte, was zu Trockenheit oder Schwellungen führt. Verwenden Sie 24 Stunden abgestandenes Wasser oder Entchlorungstropfen."
+          },
+          {
+            "question": "Ist es normal, dass sich die Panzerschilder meiner Schildkröte abschälen?",
+            "answer": "Ja. Wenn Schildkröten wachsen, häuten sie alte Panzerschilder ab, die sich als dünne, durchsichtige Platten ablösen ('Schilderhäutung'). Wenn Sie jedoch weißen schleimigen Ausfluss oder einen weichen, stinkenden Panzer feststellen, ist dies ein Zeichen für Panzerfäule und muss tierärztlich behandelt werden."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Alongamento de patas do tigre d'água comum e rotina diária de filtração de água de 3 passos",
+        "description": "Cuidado da tartaruga almíscar comum. Conheça o significado do alongamento de patas traseiras durante o banho de sol e previna doenças da carapaça com uma rotina de filtração de 3 passos.",
+        "authority": "Diretrizes de Banho de Sol da World Chelonian Association e Protocolo Veterinário de Tartarugas Aquáticas",
+        "profile": {
+          "breed": "Tartaruga Almíscar Comum (Sternotherus odoratus / Common Musk Turtle)",
+          "lifespan": "20 ~ 30 anos",
+          "sleep_pattern": "8 ~ 10 horas (dorme no fundo do aquário ou plataforma)",
+          "temperament": "Silencioso, sedentário, cauteloso, curioso"
+        },
+        "intro": "A tartaruga almíscar comum de tamanho compacto é ideal para principiantes pela sua resistência. Embora passem a maior parte do seu tempo na água, o banho de sol seco regular sob uma lâmpada UV é essencial para a desinfecção da carapaça, a síntese de vitamina D e a manutenção da temperatura corporal. A má qualidade da água e a falta de banho de sol seco podem provocar a dolorosa podridão da carapaça (shell rot). Neste guia, explicamos os seus comportamentos corporais de banho de sol, sinais de aviso e uma rotina de manutenção do aquário de 3 passos para uma água cristalina.",
+        "whyTitle": "Sinais de banho de sol da tartaruga almíscar comum e defesa de retracção da carapaça",
+        "whyDesc": "As tartarugas almíscar comum esticam as suas patas traseiras para trás enquanto apanham sol **'Alongamento de patas traseiras' (Back-Leg Stretching)** para maximizar a absorção de luz quando estão em total calma. Pelo contrário, ao detetar ameaças ou vibrações, retraem a cabeça e extremidades na carapaça dura **'Retracção da carapaça' (Shell Retraction)** para se defenderem.",
+        "body_signals": [
+          {
+            "name": "Alongamento de patas traseiras (Back-Leg Stretching)",
+            "meaning": "Um estado relaxado sob a lâmpada UV, esticando as extremidades para absorver calor e secar a pele.",
+            "response": "Evite assustá-las para que não saltem de volta para a água. Monitorize a temperatura da lâmpada a partir de uma distância."
+          },
+          {
+            "name": "Retracção de cabeça e extremidades (Shell Retraction)",
+            "meaning": "Um estado de vigilância, sobressaltado por sombras, movimento superior ou vibrações.",
+            "response": "Evite movimentos bruscos em frente ao aquário e recue até que se sintam seguras de olhar para fora."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Controlo de temperatura da água (25-28 °C) e alimentação equilibrada",
+            "text": "Verifique o termómetro da água (manter a 25-28 °C) para activar o metabolismo e alimente com ração comercial de alta qualidade adequada para a idade."
+          },
+          {
+            "name": "Tarde: Verificação da lâmpada de banho de sol e lâmpadas UV-B",
+            "text": "Verifique se as lâmpadas de calor UV-B e de banho de sol funcionam corretamente para evitar a doença metabólica óssea (MBD)."
+          },
+          {
+            "name": "Noite: Limpeza de restos de comida e trocas de água semanais",
+            "text": "Sifoneie os resíduos e as sobras. Realize uma troca de água semanal de 30% utilizando água desclorada."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "É seguro encher o aquário directamente com água da torneira?",
+            "answer": "Não. O cloro da água da torneira irrita as membranas oculares e a pele sensível da tartaruga, causando secura ou inchaço. Utilize água repousada por 24 horas ou gotas de decloração."
+          },
+          {
+            "question": "É normal que as placas da carapaça da minha tartaruga descasquem?",
+            "answer": "Sim. À medida que as tartarugas crescem, mudam as placas antigas, que se desprendem como peças finas e translúcidas ('muda de placas'). No entanto, se observar secreções viscosas brancas ou uma carapaça mole e malcheirosa, é sinal de podridão e precisa de cuidados médicos."
+          }
+        ]
+      },
+      "id": {
+        "title": "Peregangan Kaki Kura-Kura Kasturi dan Rutinitas Harian 3 Langkah Filtrasi Air",
+        "description": "Merawat kura-kura kasturi umum (semi-akuatik). Pelajari arti peregangan kaki belakang saat berjemur dan cegah penyakit tempurung dengan rutin filtrasi 3 langkah.",
+        "authority": "Panduan Berjemur World Chelonian Association dan Protokol Medis Kura-Kura Akuatik",
+        "profile": {
+          "breed": "Kura-Kura Kasturi Umum (Sternotherus odoratus / Common Musk Turtle)",
+          "lifespan": "20 ~ 30 tahun",
+          "sleep_pattern": "8 ~ 10 jam (tidur di dasar akuarium atau platform berjemur)",
+          "temperament": "Tenang, sedentary, waspada, penasaran"
+        },
+        "intro": "Kura-kura kasturi umum yang berukuran kompak sangat ideal untuk pemula karena daya tahannya yang kuat. Meskipun menghabiskan sebagian besar waktu mereka di air, berjemur kering secara rutin di bawah lampu UV sangat penting untuk disinfeksi tempurung, sintesis vitamin D, dan pemeliharaan suhu tubuh. Kualitas air yang buruk dan kurangnya berjemur kering dapat menyebabkan pembusukan tempurung (shell rot) yang menyakitkan. Dalam panduan ini, kami menjelaskan bahasa tubuh berjemur, tanda peringatan, dan 3 langkah rutinitas harian pengelolaan akuarium untuk air yang jernih.",
+        "whyTitle": "Sinyal Berjemur Kura-Kura Kasturi dan Pertahanan Penarikan Tempurung",
+        "whyDesc": "Kura-kura kasturi umum meregangkan kaki belakang ke belakang saat berjemur **'Peregangan kaki belakang' (Back-Leg Stretching)** untuk memaksimalkan penyerapan cahaya saat merasa sangat tenang. Sebaliknya, ketika mendeteksi ancaman atau getaran, mereka menarik kepala dan anggota tubuh ke dalam tempurung keras **'Penarikan tempurung' (Shell Retraction)** untuk pertahanan diri.",
+        "body_signals": [
+          {
+            "name": "Peregangan Kaki Belakang (Back-Leg Stretching)",
+            "meaning": "Keadaan santai di bawah lampu UV, meregangkan anggota tubuh untuk menyerap panas dan mengeringkan kulit.",
+            "response": "Hindari mengejutkan mereka agar tidak melompat kembali ke air. Pantau suhu lampu berjemur dari jarak jauh."
+          },
+          {
+            "name": "Menarik Kepala dan Anggota Tubuh (Shell Retraction)",
+            "meaning": "Keadaan waspada, terkejut oleh bayangan, gerakan di atas, atau getaran.",
+            "response": "Hindari gerakan tiba-tiba di depan akuarium dan mundur sampai mereka merasa cukup aman untuk mengintip keluar."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pemeriksaan Suhu Air (25-28 °C) & Pemberian Makan Seimbang",
+            "text": "Periksa termometer air (jaga pada suhu 25-28 °C) untuk mengaktifkan metabolisme dan beri pelet kura-kura komersial berkualitas tinggi yang sesuai dengan usianya."
+          },
+          {
+            "name": "Siang: Memeriksa Lampu Berjemur dan Bohlam UV-B",
+            "text": "Periksa apakah lampu panas UV-B dan lampu berjemur berfungsi dengan baik untuk mencegah penyakit tulang metabolik (MBD)."
+          },
+          {
+            "name": "Malam: Membersihkan Sisa Makanan & Penggantian Air Mingguan",
+            "text": "Sedot kotoran dan sisa makanan. Lakukan penggantian air mingguan sebanyak 30% menggunakan air yang sudah diendapkan."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah aman mengisi akuarium kura-kura langsung dengan air keran?",
+            "answer": "Tidak. Klorin dalam air keran mengiritasi selaput mata dan kulit sensitif kura-kura, menyebabkan kering atau bengkak. Gunakan air yang diendapkan selama 24 jam atau tetes antiklorin."
+          },
+          {
+            "question": "Apakah normal jika lempeng tempurung kura-kura saya mengelupas?",
+            "answer": "Ya. Seiring pertumbuhan kura-kura, mereka melepaskan keping tempurung tua, yang terkelupas sebagai kepingan tipis dan transparan ('moulting keping'). Namun, jika Anda melihat cairan lendir putih atau tempurung yang lunak dan berbau, itu tanda pembusukan dan perlu perawatan dokter hewan."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/musk_turtle_care.webp"
+  }
 }

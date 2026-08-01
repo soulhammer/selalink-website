@@ -1,406 +1,406 @@
 {
-    "how-to-store-tea-leaves": {
-        "ingId": "tea",
-        "pubDate": "2026-01-22",
-        "updatedDate": "2026-01-22",
-        "heroImage": "/images/blog/tea_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "찻잎 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 찻잎의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS)",
-                "intro": "향긋하게 즐기려고 사 둔 찻잎이 시간이 지날수록 향이 날아가고 텁텁해지거나 묵은 냄새가 난 적 있으시죠? 🍃\n\n찻잎은 완전히 건조된 상태이지만 공기 중의 산소, 습도, 빛, 열, 그리고 주변의 냄새를 스펀지처럼 흡수하는 매우 민감한 식재료입니다. 습기와 산소에 노출되면 카테킨이나 티아닌 등 유익한 성분이 산화되어 특유의 싱그러운 아로마와 은은한 단맛이 사라지고 씁쓸하고 변질된 맛만 남게 됩니다.\n\n이번 가이드에서는 식품 안전 당국과 차 전문가들이 권장하는 찻잎 고유의 섬세한 향미와 신선도를 수개월 이상 길게 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "투명한 유리병이나 비닐 봉지에 보관하지 마세요 ☀️",
-                        "desc": "자외선과 빛은 찻잎의 엽록소와 휘발성 향미 성분을 빠르게 파괴하여 차의 색을 변하게 하고 고소한 향을 앗아갑니다. 빛을 완전히 차단하는 불투명한 용기를 사용해야 합니다."
-                    },
-                    {
-                        "title": "향신료나 냉장고 잡내 근처에 두지 마세요 👃",
-                        "desc": "찻잎은 표면에 수많은 미세 구멍이 있는 구조라 주변의 향(커피, 향신료, 냉장고 냄새 등)을 순식간에 흡수합니다. 냄새가 강한 식재료와 반드시 분리 보관해야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "불투명 차통(차호)이나 은박 봉투에 밀봉하기 — 빛과 공기 완벽 차단 📦",
-                        "text": "찻잎 보관의 최고 적은 산소와 빛입니다. 💡 보관 팁: 개봉한 찻잎은 이중 뚜껑이 있는 불투명 금속 캔(차통)이나 은박 알루미늄 지퍼백에 담아 공기를 완전히 빼고 밀봉해 주세요."
-                    },
-                    {
-                        "name": "15~25℃ 서늘하고 건조한 그늘에 두기 — 습기 및 열기 차단 🌡️",
-                        "text": "온도가 높거나 습도가 60% 이상이면 차 속의 항산화 성분이 급격히 산화합니다. 💡 보관 팁: 가스레인지 주변이나 창가를 피해, 온도가 일정하고 건조한 어두운 찬장이나 서랍 속에 보관하세요."
-                    },
-                    {
-                        "name": "[녹차/말차류] 장기 보관 시 진공 밀폐 후 냉장·냉동 보관하기 — 장기 보관 (최대 1년) ❄️",
-                        "text": "발효되지 않은 녹차나 말차는 산화에 더욱 취약하므로 서늘함이 필수입니다. 💡 보관 팁: 완전 밀폐된 봉투째 냉장/냉동실(-18℃ 이하)에 보관하되, 꺼내 사용할 때는 결로(이슬 맺힘) 현상 방지를 위해 실온에 1~2시간 두어 완전히 회복된 후 뚜껑을 열어야 합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "홍차, 녹차, 우롱차, 보이차의 보관 방법이 모두 같나요?",
-                        "answer": "차 종류에 따라 차이가 있습니다. 녹차는 산화 방지가 핵심이므로 냉암소(또는 완전 밀폐 냉장) 보관이 좋고, 홍차나 우롱차는 수분만 차단하여 상온 보관합니다. 반면 후발효차인 보이차는 바람이 통하고 통기성이 있는 환경에서 천천히 숙성시키는 것이 좋습니다."
-                    },
-                    {
-                        "question": "찻잎의 유통기한이 지나면 마실 수 없나요?",
-                        "answer": "찻잎은 건조 식품이라 쉽게 부패하지는 않지만 시간이 지날수록 유익 성분과 향미가 감소합니다. 밀폐 보관된 찻잎은 유통기한이 지나도 마실 수 있으며, 향이 많이 날아갔다면 팬에 살짝 볶아 떫은맛을 줄여 마시거나 디퓨저, 냄새 제거제로 활용할 수 있습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Tea Leaves Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for tea leaves based on official safety guidelines.",
-                "authority": "USDA & MFDS",
-                "intro": "Have you ever bought aromatic tea leaves only to find their delicate flavor faded, stale, or flat after a few weeks? 🍃\n\nAlthough loose tea leaves are completely dry, they act like a sponge, rapidly absorbing oxygen, moisture, light, heat, and surrounding odors. Exposure to humidity and oxygen oxidizes beneficial compounds like catechins and theanine, destroying freshness and leaving behind a dull, bitter taste.\n\nIn this guide, introduces a scientifically proven 3-step tea storage guide recommended by USDA and tea experts to preserve subtle aromas and vibrant flavor for months. 🛡️",
-                "whyTitle": "Why Store Tea Leaves This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Do not store tea in transparent glass jars or clear plastic ☀️",
-                        "desc": "UV rays and light rapidly break down chlorophyll and volatile aroma compounds, changing the tea color and stripping away its sweet, floral notes. Always use opaque, light-blocking containers."
-                    },
-                    {
-                        "title": "Keep tea away from spices and refrigerator odors 👃",
-                        "desc": "Tea leaves have a porous microscopic structure that instantly absorbs volatile odor molecules (coffee, garlic, spices, or fridge odors). Store tea strictly separated from strong-smelling items."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Seal in an opaque tin canister or multi-layer foil bag — Complete Light & Oxygen Barrier 📦",
-                        "text": "Oxygen and light are the greatest enemies of tea quality. 💡 Storage Tip: Transfer opened tea leaves into an opaque double-lidded metal tin or a heavy-duty aluminum foil Ziploc bag, squeeze out excess air, and seal tightly."
-                    },
-                    {
-                        "name": "Keep in a cool, dry, dark pantry at 15–25°C — Block Heat & Moisture 🌡️",
-                        "text": "High ambient temperatures and relative humidity above 60% trigger rapid oxidation of tea antioxidants. 💡 Storage Tip: Store tea in a dark, dry cabinet away from stoves, kettles, and sunny windows."
-                    },
-                    {
-                        "name": "[Green Tea/Matcha] Vacuum-seal and refrigerate/freeze for long-term storage — Long-Term Storage (Up to 1 Year) ❄️",
-                        "text": "Unfermented teas like green tea and matcha are hyper-sensitive to oxidation and benefit from cold storage. 💡 Storage Tip: Seal completely airtight in foil bags before placing in the fridge or freezer (-18°C). When taking it out, allow the sealed package to come to room temperature for 1–2 hours before opening to prevent condensation."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Are storage requirements the same for green, black, oolong, and pu-erh teas?",
-                        "answer": "No. Green tea requires strict oxidation control (cool/dark or airtight cold storage). Black and oolong teas stay fresh at dry room temperature. Pu-erh and fermented teas require slight airflow and controlled humidity to age properly."
-                    },
-                    {
-                        "question": "Can I still drink tea past its printed expiration date?",
-                        "answer": "Yes. Tea leaves do not easily rot if kept completely dry, but their delicate aromas and health benefits degrade over time. If older tea has lost its fragrance, you can lightly roast it in a dry pan to enjoy as toasted tea (hojicha) or use it as a natural deodorizer."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "茶葉を新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づく茶葉の最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "香り高いお茶を楽しもうと買った茶葉が、時間が経つにつれて香りが飛び、味が落ちたり古くさいニオイがしてしまった経験はありませんか？🍃\n\n茶葉は乾燥していますが、空気中の酸素や湿度、光、熱、そして周囲の匂いをスポンジのように強烈に吸収する極めて繊細な食材です。湿気や酸素に晒されるとカテキンやテアニンなどの旨味成分が酸化し、爽やかなアロマが失われて渋みや雑味だけが残ってしまいます。\n\n本記事では、食品安全機関や日本茶・紅茶の専門家が推奨する、茶葉本来の繊細な風味と鮮度を長期間キープする3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の 生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "透明なガラス瓶やポリ袋で保存しないでください ☀️",
-                        "desc": "紫外線や光は茶葉の葉緑素や揮発性の香り成分を急速に破壊し、お茶の色を変化させ芳醇な香りを奪います。光を完全に遮断する不透明な容器を使用してください。"
-                    },
-                    {
-                        "title": "スパイスや冷蔵庫のニオイの近くに置かないでください 👃",
-                        "desc": "茶葉の表面には無数の微小な穴がある多孔質構造のため、周囲のニオイ（コーヒー、スパイス、冷蔵庫の臭いなど）を一瞬で吸い取ってしまいます。ニオイの強い食材とは必ず分けて保存してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "不透明な茶筒やアルミ袋に密封する — 光と空気の完全遮断 📦",
-                        "text": "茶葉保存の最大の敵は酸素と光です。💡保存の コツ：開封した茶葉は、中蓋が付いた不透明な金属製の茶筒や、アルミ箔のチャック付き袋に入れ、しっかりと空気を抜いて密閉してください。"
-                    },
-                    {
-                        "name": "15〜25℃の涼しく乾燥した日陰に置く — 湿気と熱の遮断 🌡️",
-                        "text": "室温が高かったり湿度が60%を超えると、お茶に含まれる抗酸化成分が急激に酸化します。💡保存のコツ：コンロ周辺や窓際を避け、温度が一定で乾燥した暗い棚や引き出しの中で保存してください。"
-                    },
-                    {
-                        "name": "[緑茶・抹茶類] 長期保存時は真空密封して冷蔵・冷凍保存する — 長期保存 (最大1年間) ❄️",
-                        "text": "未発酵の緑茶や抹茶は特に酸化しやすいため、冷暗保存が必須です。💡保存のコツ：未開封または完全密封した袋ごと冷蔵・冷凍室（-18℃以下）で保存します。使用する際は、結露を防ぐため常温に1〜2時間置いて完全に常温に戻してから開けてください。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "緑茶、紅茶、ウーロン茶、プーアル茶の保存方法はすべて同じですか？",
-                        "answer": "お茶の種類によって異なります。緑茶は酸化防止が最優先なため冷暗所（または完全密封で冷蔵）が適しており、紅茶やウーロン茶は湿気だけを遮断して常温で保存します。一方、後発酵茶であるプーアル茶は、適度な通気性のある環境でゆっくり熟成させるのが良いとされています。"
-                    },
-                    {
-                        "question": "賞味期限が切れた茶葉は飲めなくなりますか？",
-                        "answer": "茶葉は乾燥食品のため腐敗しにくいですが、時間が経つと風味や栄養成分が低下します。乾燥が保たれていれば期限が過ぎても飲めますが、香りが飛んでしまった場合はフライパンで軽く炒って香ばしいほうじ茶にしたり、消臭剤や消臭ポプリとして活用できます。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持茶叶新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解茶叶的最佳储存温度、方式和保鲜时长。",
-                "authority": "美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "您是否曾买回香气扑鼻的茶叶，结果放了没多久就发现香气挥发尽净，冲泡出来口感平淡甚至带有一股陈腐味？🍃\n\n虽然茶叶处于完全干燥的状态，但其表面具有多孔结构，会像海绵一样极易吸收空气中的氧气、水分、光线、热量以及周围的异味。暴露于湿气与氧气中会导致茶多酚、氨基酸等天然有效成分剧烈氧化，从而破坏其鲜爽清甜的口感。\n\n本指南基于食品安全指南与茶道专家建议，为您带来3步科学茶叶保存秘诀，长久锁住茶叶的细腻香气与品质。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "切勿存放在透明玻璃瓶或透明塑料袋中 ☀️",
-                        "desc": "阳光与紫外线会迅速分解茶叶中的叶绿素与挥发性香气物质，导致茶叶变色并流失原本鲜甜的茶香。请务必使用遮光性好的不透明容器。"
-                    },
-                    {
-                        "title": "请勿靠近香料或冰箱异味处 👃",
-                        "desc": "茶叶表面布满微孔，极易瞬间吸收咖啡、大蒜、香料或冰箱里的各种异味。请务必将茶叶与强气味物品严格分开放置。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "装入不透明茶罐或铝箔袋密封 — 彻底阻绝光线与氧气 📦",
-                        "text": "保存茶叶的最大宿敌是氧气和光线。💡储存小贴士：拆封后的茶叶请装入带有双层盖的不透明金属茶罐或厚实铝箔拉链袋中，挤出袋内多余空气后紧密封口。"
-                    },
-                    {
-                        "name": "存放在15~25℃阴凉干燥处 — 隔绝湿气与高热 🌡️",
-                        "text": "环境温度过高或相对湿度超过60%时，茶叶中的抗氧化成分会加速氧化变质。💡储存小贴士：请避开灶台周围、水壶旁及日光直射的窗台，存放在干燥阴暗的橱柜中。"
-                    },
-                    {
-                        "name": "[绿茶/抹茶类] 长期保存请抽真空密封后冷藏冷冻 — 长期保存 (最长1年) ❄️",
-                        "text": "未经发酵的绿茶和抹茶对氧化极度敏感，低温冷藏至关重要。💡储存小贴士：将未开封或彻底密封的铝箔袋放入冷藏室或冷冻室（-18℃以下）。取出时，切勿立即开封，需在常温下静置1~2小时完全回温，以防凝结水珠导致茶叶受潮。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "绿茶、红茶、乌龙茶和普洱茶的保存方法都一样吗？",
-                        "answer": "并不完全相同。绿茶防氧化是关键，适合冷暗处（或密封冷藏）保存；红茶和乌龙茶只需防潮，在常温下密封保存即可；而作为后发酵茶的普洱茶，则需要适当通风和适宜湿度的环境，使其自然缓慢陈化。"
-                    },
-                    {
-                        "question": "茶叶过了保质期还能喝吗？",
-                        "answer": "只要完全干燥未受潮发霉，过期的茶叶通常不会腐败变质，但其香气与养分会随时间流逝而衰减。如果茶叶香气变淡，可以用无油干锅小火轻烘制作成香气浓郁的焙茶饮用，或者作为天然除味剂使用。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener las hojas de té frescas: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para las hojas de té según las directrices oficiales de seguridad.",
-                "authority": "USDA & MFDS",
-                "intro": "¿Alguna vez compró hojas de té aromáticas solo para descubrir que semanas después su fragancia se había desvanecido o sabían rancias? 🍃\n\nAunque las hojas de té sueltas están completamente secas, su estructura porosa actúa como una esponja, absorbiendo rápidamente oxígeno, humedad, luz, calor y olores del ambiente. La exposición a la humedad y al oxígeno degrada antioxidantes como las catequinas, destruyendo su frescura y dejando un sabor plano o amargo.\n\nEn esta guía se comparte una guía de conservación en 3 pasos respaldada por el USDA y expertos en té para preservar los aromas delicados y la frescura por meses. 🛡️",
-                "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "No guarde el té en frascos de vidrio transparentes o bolsas plásticas ☀️",
-                        "desc": "La luz ultravioleta descompone la clorofila y los compuestos aromáticos volátiles, alterando el color del té y despojándolo de sus notas florales. Utilice siempre recipientes opacos que bloqueen la luz."
-                    },
-                    {
-                        "title": "Mantenga el té alejado de especias y olores del refrigerador 👃",
-                        "desc": "Las hojas de té poseen una estructura microscópica porosa que absorbe de inmediato olores de café, ajo, especias o humedad del refrigerador. Manténgalas aisladas de alimentos con fragancias fuertes."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Selle en una lata opaca o bolsa de aluminio multicapa — Barrera total contra luz y oxígeno 📦",
-                        "text": "El oxígeno y la luz son los mayores enemigos de la calidad del té. 💡 Consejo de almacenamiento: Guarde el té abierto en latas metálicas opacas con doble tapa o en bolsas herméticas de aluminio extraiga el exceso de aire y cierre bien."
-                    },
-                    {
-                        "name": "Conserve en una alacena fresca, seca y oscura a 15–25 °C — Bloquee calor y humedad 🌡️",
-                        "text": "Temperaturas elevadas y una humedad relativa superior al 60% aceleran la oxidación de las hojas. 💡 Consejo de almacenamiento: Guarde el contenedor en un armario oscuro lejos de estufas, teteras o ventanas expuestas al sol."
-                    },
-                    {
-                        "name": "[Té verde/Matcha] Selle al vacío y refrigere/congele para almacenamiento prolongado — Conservación (Hasta 1 año) ❄️",
-                        "text": "Los tés no fermentados son muy sensibles a la oxidación y se benefician del frío. 💡 Consejo de almacenamiento: Selle herméticamente en bolsas de aluminio y refrigere/congele (-18 °C). Al retirar, deje reposar la bolsa cerrada a temperatura ambiente de 1 a 2 horas antes de abrir."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Son iguales los requisitos de conservación para el té verde, negro, oolong y pu-erh?",
-                        "answer": "No. El té verde requiere un control estricto de la oxidación (lugar frío/oscuro o refrigerado). El té negro y oolong se conservan bien a temperatura ambiente seca. El té pu-erh y los tés fermentados requieren una ligera ventilación para envejecer correctamente."
-                    },
-                    {
-                        "question": "¿Se puede consumir el té después de su fecha de vencimiento?",
-                        "answer": "Sí. Si se mantiene completamente seco, el té no se pudre, aunque pierde sus matices aromáticos con el tiempo. Si ha perdido fragancia, puede tostarlo ligeramente en una sartén seca para disfrutarlo como té tostado o usarlo como desodorante natural."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver les feuilles de thé fraîches : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les feuilles de thé selon les directives officielles de sécurité.",
-                "authority": "USDA & MFDS",
-                "intro": "Avez-vous déjà acheté du thé en vrac très aromatique pour constater après quelques semaines que son parfum s'était volatisé ou qu'il avait un goût rance ? 🍃\n\nBien que les feuilles de thé soient séchées, leur structure microscopique poreuse agit comme une éponge, absorbant l'oxygène, l'humidité, la lumière, la chaleur et les odeurs ambiantes. L'exposition à l'humidité et à l'air oxyde les catéchines et la théanine, altérant leur fraîcheur et laissant un goût plat ou amer.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et d'experts du thé pour préserver leurs arômes pendant des mois. 🛡️",
-                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne conservez pas le thé dans des bocaux en verre transparents ☀️",
-                        "desc": "Les rayons UV et la lumière dégradent la chlorophylle et les composés aromatiques, altérant la couleur de la liqueur et effaçant les notes florales. Utilisez toujours des boîtes opacifiantes."
-                    },
-                    {
-                        "title": "Éloignez le thé des épices et des odeurs du réfrigérateur 👃",
-                        "desc": "La structure poreuse des feuilles de thé absorbe immédiatement les odeurs volatiles (café, ail, épices, etc.). Conservez votre thé totalement à l'écart des produits très odorants."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Sceller dans une boîte en métal opaque ou un sachet en aluminium — Barrière totale contre lumière et oxygène 📦",
-                        "text": "L'oxygène et la lumière sont les pires ennemis du thé. 💡 Astuce de conservation : Transférez le thé ouvert dans une boîte métallique opaque à double couvercle ou un sachet en aluminium zip, videz l'air et scellez."
-                    },
-                    {
-                        "name": "Garder dans un endroit frais, sec et sombre (15 à 25 °C) — Protéger de la chaleur et de l'humidité 🌡️",
-                        "text": "Une température élevée et un taux d'humidité supérieur à 60 % accélèrent l'oxydation des antioxydants du thé. 💡 Astuce de conservation : Conservez-le dans un placard sombre éloigné des bouilloires et des plaques de cuisson."
-                    },
-                    {
-                        "name": "[Thé vert/Matcha] Sceller sous vide et réfrigérer/congeler pour un stockage prolongé — Stockage longue durée ❄️",
-                        "text": "Les thés non fermentés (thé vert, matcha) sont très sensibles à l'oxydation. 💡 Astuce de conservation : Scellez fermement en sachet aluminium et conservez au réfrigérateur ou congélateur (-18 °C). Attendez 1 à 2 heures après la sortie du froid avant d'ouvrir le paquet pour éviter la condensation."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Les règles de conservation sont-elles les mêmes pour le thé vert, noir, oolong et pu-erh ?",
-                        "answer": "Non. Le thé vert nécessite un contrôle strict de l'oxydation (au frais et à l'abri de l'air). Les thés noirs et oolong se conservent à température ambiante sèche. Le thé pu-erh nécessite un environnement légèrement aéré et contrôlé en humidité pour poursuivre sa maturation."
-                    },
-                    {
-                        "question": "Peut-on consommer du thé dont la date de péremption est dépassée ?",
-                        "answer": "Oui. Conservé au sec, le thé ne pourrit pas, mais perd ses vertus et ses qualités aromatiques. Si votre thé a perdu de sa fraîcheur, vous pouvez le torréfier légèrement à la poêle pour en faire un thé grillé (hojicha) ou l'utiliser comme désodorisant naturel."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Teeblätter richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Teeblätter basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "USDA & MFDS",
-                "intro": "Haben Sie aromatisierte Teeblätter gekauft, nur um nach einigen Wochen festzustellen, dass das feine Aroma verflogen war oder der Tee alt schmeckte? 🍃\n\nObwohl loser Tee getrocknet ist, wirkt seine mikroskopische Porenstruktur wie ein Schwamm. Er nimmt Sauerstoff, Feuchtigkeit, Licht, Hitze und Umgebungsgerüche extrem schnell auf. Feuchtigkeit und Sauerstoff oxidieren wertvolle Inhaltsstoffe wie Catechine und lassen den Tee flach oder bitter werden.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der von der USDA und Tee-Experten empfohlen wird, um Aroma und Frische monatelang zu bewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Tee nicht in transparenten Glas- oder Plastikgefäßen lagern ☀️",
-                        "desc": "UV-Strahlung und Licht zerstören das Chlorophyll und die flüchtigen Aromastoffe rasch. Dadurch verändert sich die Farbe des Aufgusses und feine Geschmacksnoten gehen verloren. Nutzen Sie stets lichtundurchlässige Dosen."
-                    },
-                    {
-                        "title": "Von Gewürzen und Kühlschrankgerüchen fernhalten 👃",
-                        "desc": "Teeblätter besitzen eine feine Porenstruktur, die Gerüche von Kaffee, Knoblauch oder Gewürzen sofort bindet. Lagern Sie Tee strikt getrennt von stark riechenden Lebensmitteln."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "In einer blickdichten Teedose oder Alufolie versiegeln — Völliger Licht- & Sauerstoffschutz 📦",
-                        "text": "Sauerstoff und Licht sind die größten Feinde der Teequalität. 💡 Lagerungstipp: Füllen Sie geöffneten Tee in eine lichtundurchlässige Metalldose mit Doppeldeckel oder einen Aluminium-Ziploc-Beutel um und drücken Sie die Luft vor dem Verschließen heraus."
-                    },
-                    {
-                        "name": "Bei 15–25 °C kühl, trocken und dunkel lagern — Wärme und Feuchtigkeit abblocken 🌡️",
-                        "text": "Hohe Raumtemperaturen und eine Luftfeuchtigkeit über 60 % beschleunigen die Oxidation. 💡 Lagerungstipp: Lagern Sie den Tee in einem dunklen, trockenen Schrank fern von Herd, Wasserkocher und Fenster."
-                    },
-                    {
-                        "name": "[Grüner Tee/Matcha] Für die Langzeitlagerung vakuumieren und kühlen/einfrieren — Langzeitlagerung ❄️",
-                        "text": "Unfermentierte Tees wie Grüner Tee oder Matcha sind extrem oxidationsempfindlich. 💡 Lagerungstipp: In Alubeuteln luftdicht versiegelt im Kühlschrank oder Gefrierfach (-18 °C) aufbewahren. Nach dem Entnehmen erst 1–2 Stunden auf Raumtemperatur erwärmen lassen, bevor die Packung geöffnet wird."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Gelten für Grünen Tee, Schwarztee, Oolong und Pu-Erh dieselben Regeln?",
-                        "answer": "Nein. Grüner Tee benötigt strengen Oxidationsschutz (kühl/dunkel oder gekühlt). Schwarztee und Oolong bleiben bei trockener Raumtemperatur frisch. Fermentierter Pu-Erh-Tee benötigt hingegen etwas Luftzirkulation zur optimalen Reifung."
-                    },
-                    {
-                        "question": "Kann man Tee nach Ablauf des Mindesthaltbarkeitsdatums noch trinken?",
-                        "answer": "Ja. Trocken gelagerter Tee schimmelt nicht so leicht, verliert aber mit der Zeit an Aroma und Wirkung. Älteren Tee ohne Aroma können Sie in einer fettfreien Pfanne kurz anrösten, um schmackhaften Rösttee (Hojicha) zu erhalten."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar folhas de chá frescas: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para as folhas de chá com base em diretrizes oficiais de segurança.",
-                "authority": "USDA & MFDS",
-                "intro": "Você já comprou folhas de chá aromáticas e percebeu que semanas depois o sabor sutil havia desvanecido ou ficado velho? 🍃\n\nEmbora as folhas de chá estejam secas, sua estrutura porosa funciona como uma esponja, absorvendo rapidamente oxigênio, umidade, luz, calor e odores. A exposição à umidade e ao oxigênio oxida os flavonoides e catequinas, destruindo o frescor e deixando um sabor amargo e apagado.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes do USDA para preservar os aromas delicados e a qualidade do seu chá por meses. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Não guarde o chá em potes de vidro transparentes ☀️",
-                        "desc": "A luz solar e os raios UV decompõem a clorofila e compostos aromáticos voláteis, alterando a cor e eliminando as notas florais. Use sempre recipientes opacos que bloqueiem a luz."
-                    },
-                    {
-                        "title": "Mantenha longe de temperos e odores da geladeira 👃",
-                        "desc": "A estrutura microscópica das folhas de chá absorve instantaneamente odores voláteis de café, alho ou comida. Guarde o chá totalmente separado de itens de cheiro forte."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Sela em uma lata opaca ou saco de alumínio — Barreira total contra luz e oxigênio 📦",
-                        "text": "O oxigênio e a luz são os piores inimigos da qualidade do chá. 💡 Dica de conservação: Guarde o chá aberto em latas metálicas opacas com tampa dupla ou em sacos de alumínio Ziploc tirando todo o ar."
-                    },
-                    {
-                        "name": "Mantenha em local fresco, seco e escuro a 15–25 °C — Bloqueie calor e umidade 🌡️",
-                        "text": "Temperaturas elevadas e umidade acima de 60% aceleram a oxidação dos antioxidantes. 💡 Dica de conservação: Guarde o pote em um armário escuro e seco, longe do fogão e janelas."
-                    },
-                    {
-                        "name": "[Chá Verde/Matcha] Sela a vácuo e refrigere/congele para armazenamento longo — Conservação (Até 1 ano) ❄️",
-                        "text": "Os chás não fermentados são muito sensíveis à oxidação e se beneficiam do frio. 💡 Dica de conservação: Sele em sacos de alumínio e guarde na geladeira ou freezer (-18 °C). Espere o pacote atingir a temperatura ambiente por 1–2 horas antes de abrir."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "As exigências de armazenamento são iguais para chá verde, preto, oolong e pu-erh?",
-                        "answer": "Não. O chá verde exige controle rigoroso de oxidação (local frio ou refrigerado). Chá preto e oolong conservam-se bem em temperatura ambiente seca. O chá pu-erh necessita de leve ventilação para maturar."
-                    },
-                    {
-                        "question": "Posso consumir o chá após a data de validade impresso?",
-                        "answer": "Sim. Mantido totalmente seco, o chá não estraga, mas perde seus aromas gradualmente. Se o chá perdeu a fragrância, você pode tostá-lo levemente em uma frigideira seca para criar um chá tostado ou usá-lo como desodorizador natural."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Daun Teh agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk daun teh berdasarkan pedoman keselamatan resmi.",
-                "authority": "USDA & MFDS",
-                "intro": "Pernahkah Anda membeli daun teh aromatik lalu mendapati aromanya yang lembut hilang dan rasanya menjadi hambar atau tengik setelah beberapa minggu? 🍃\n\nMeskipun daun teh kering, struktur mikro berpori pada daun teh bertindak seperti spons yang menyerap oksigen, kelembapan, cahaya, panas, dan bau di sekitarnya. Paparan kelembapan dan oksigen mengoksidasi senyawa katekin dan theanin, merusak kesegaran dan menyisakan rasa pahit yang tidak sedap.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh pakar keselamatan pangan untuk menjaga aroma dan kesegaran teh Anda. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan menyimpan teh dalam toples kaca transparan atau plastik bening ☀️",
-                        "desc": "Sinar UV dan cahaya merusak klorofil serta senyawa aroma volatil, mengubah warna air seduhan dan merusak aroma alami teh. Selalu gunakan wadah buram yang menahan cahaya."
-                    },
-                    {
-                        "title": "Jauhkan teh dari bumbu dapur dan bau kulkas 👃",
-                        "desc": "Daun teh memiliki struktur mikro berpori yang sangat cepat menyerap bau menyengat (kopi, bawang, rempah-rempah). Simpan teh terpisah dari bahan makanan berbau tajam."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Segel dalam kaleng buram atau kantong alumunium foil — Pelindung Total dari Cahaya & Oksigen 📦",
-                        "text": "Oksigen dan cahaya adalah musuh utama kualitas teh. 💡 Tips Penyimpanan: Pindahkan daun teh yang sudah dibuka ke dalam kaleng logam buram ganda atau kantong Ziploc alumunium foil, buang udara di dalamnya lalu tutup rapat."
-                    },
-                    {
-                        "name": "Simpan di lemari sejuk, kering, dan gelap pada suhu 15–25°C — Tahan Panas & Kelembapan 🌡️",
-                        "text": "Suhu tinggi dan kelembapan di atas 60% memicu oksidasi cepat pada zat antioksidan teh. 💡 Tips Penyimpanan: Simpan wadah teh di dalam lemari dapur yang gelap dan jauh dari kompor atau jendela."
-                    },
-                    {
-                        "name": "[Teh Hijau/Matcha] Segel vakum lalu bekukan untuk jangka panjang — Simpan Beku (Hingga 1 Tahun) ❄️",
-                        "text": "Teh tanpa fermentasi seperti teh hijau dan matcha sangat sensitif terhadap oksidasi. 💡 Tips Penyimpanan: Segel rapat dalam kantong foil lalu simpan di kulkas atau freezer (-18°C). Biarkan bungkus teh berada pada suhu ruang selama 1–2 jam sebelum dibuka agar tidak timbul embun."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apakah cara penyimpanan teh hijau, teh hitam, oolong, dan pu-erh sama?",
-                        "answer": "Berbeda. Teh hijau membutuhkan kontrol oksidasi ketat (tempat sejuk/dingin kedap udara). Teh hitam dan oolong awet pada suhu ruang yang kering. Sedangkan teh fermentasi seperti pu-erh membutuhkan sedikit sirkulasi udara untuk proses pematangan alami."
-                    },
-                    {
-                        "question": "Apakah teh yang sudah lewat tanggal kedaluwarsa masih boleh diminum?",
-                        "answer": "Boleh. Selama tersimpan kering sempurna, daun teh tidak membusuk, hanya saja aroma dan khasiatnya berkurang. Jika teh sudah kehilangan aromanya, Anda bisa sangrai sebentar di wajan kering untuk dijadikan teh sangrai (hojicha) atau dimanfaatkan sebagai pembersih bau alami."
-                    }
-                ]
-            }
-        }
+  "how-to-store-tea-leaves": {
+    "ingId": "tea",
+    "pubDate": "2026-01-22",
+    "updatedDate": "2026-01-22",
+    "heroImage": "/images/blog/tea_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "찻잎 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 찻잎의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+        "intro": "향긋하게 즐기려고 사 둔 찻잎이 시간이 지날수록 향이 날아가고 텁텁해지거나 묵은 냄새가 난 적 있으시죠? 🍃\n\n찻잎은 완전히 건조된 상태이지만 공기 중의 산소, 습도, 빛, 열, 그리고 주변의 냄새를 스펀지처럼 흡수하는 매우 민감한 식재료입니다. 습기와 산소에 노출되면 카테킨이나 티아닌 등 유익한 성분이 산화되어 특유의 싱그러운 아로마와 은은한 단맛이 사라지고 씁쓸하고 변질된 맛만 남게 됩니다.\n\n이번 가이드에서는 식품 안전 당국과 차 전문가들이 권장하는 찻잎 고유의 섬세한 향미와 신선도를 수개월 이상 길게 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "투명한 유리병이나 비닐 봉지에 보관하지 마세요 ☀️",
+            "desc": "자외선과 빛은 찻잎의 엽록소와 휘발성 향미 성분을 빠르게 파괴하여 차의 색을 변하게 하고 고소한 향을 앗아갑니다. 빛을 완전히 차단하는 불투명한 용기를 사용해야 합니다."
+          },
+          {
+            "title": "향신료나 냉장고 잡내 근처에 두지 마세요 👃",
+            "desc": "찻잎은 표면에 수많은 미세 구멍이 있는 구조라 주변의 향(커피, 향신료, 냉장고 냄새 등)을 순식간에 흡수합니다. 냄새가 강한 식재료와 반드시 분리 보관해야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "불투명 차통(차호)이나 은박 봉투에 밀봉하기 — 빛과 공기 완벽 차단 📦",
+            "text": "찻잎 보관의 최고 적은 산소와 빛입니다. 💡 보관 팁: 개봉한 찻잎은 이중 뚜껑이 있는 불투명 금속 캔(차통)이나 은박 알루미늄 지퍼백에 담아 공기를 완전히 빼고 밀봉해 주세요."
+          },
+          {
+            "name": "15~25℃ 서늘하고 건조한 그늘에 두기 — 습기 및 열기 차단 🌡️",
+            "text": "온도가 높거나 습도가 60% 이상이면 차 속의 항산화 성분이 급격히 산화합니다. 💡 보관 팁: 가스레인지 주변이나 창가를 피해, 온도가 일정하고 건조한 어두운 찬장이나 서랍 속에 보관하세요."
+          },
+          {
+            "name": "[녹차/말차류] 장기 보관 시 진공 밀폐 후 냉장·냉동 보관하기 — 장기 보관 (최대 1년) ❄️",
+            "text": "발효되지 않은 녹차나 말차는 산화에 더욱 취약하므로 서늘함이 필수입니다. 💡 보관 팁: 완전 밀폐된 봉투째 냉장/냉동실(-18℃ 이하)에 보관하되, 꺼내 사용할 때는 결로(이슬 맺힘) 현상 방지를 위해 실온에 1~2시간 두어 완전히 회복된 후 뚜껑을 열어야 합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "홍차, 녹차, 우롱차, 보이차의 보관 방법이 모두 같나요?",
+            "answer": "차 종류에 따라 차이가 있습니다. 녹차는 산화 방지가 핵심이므로 냉암소(또는 완전 밀폐 냉장) 보관이 좋고, 홍차나 우롱차는 수분만 차단하여 상온 보관합니다. 반면 후발효차인 보이차는 바람이 통하고 통기성이 있는 환경에서 천천히 숙성시키는 것이 좋습니다."
+          },
+          {
+            "question": "찻잎의 유통기한이 지나면 마실 수 없나요?",
+            "answer": "찻잎은 건조 식품이라 쉽게 부패하지는 않지만 시간이 지날수록 유익 성분과 향미가 감소합니다. 밀폐 보관된 찻잎은 유통기한이 지나도 마실 수 있으며, 향이 많이 날아갔다면 팬에 살짝 볶아 떫은맛을 줄여 마시거나 디퓨저, 냄새 제거제로 활용할 수 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Tea Leaves Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for tea leaves based on official safety guidelines.",
+        "authority": "USDA & MFDS",
+        "intro": "Have you ever bought aromatic tea leaves only to find their delicate flavor faded, stale, or flat after a few weeks? 🍃\n\nAlthough loose tea leaves are completely dry, they act like a sponge, rapidly absorbing oxygen, moisture, light, heat, and surrounding odors. Exposure to humidity and oxygen oxidizes beneficial compounds like catechins and theanine, destroying freshness and leaving behind a dull, bitter taste.\n\nIn this guide, introduces a scientifically proven 3-step tea storage guide recommended by USDA and tea experts to preserve subtle aromas and vibrant flavor for months. 🛡️",
+        "whyTitle": "Why Store Tea Leaves This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Do not store tea in transparent glass jars or clear plastic ☀️",
+            "desc": "UV rays and light rapidly break down chlorophyll and volatile aroma compounds, changing the tea color and stripping away its sweet, floral notes. Always use opaque, light-blocking containers."
+          },
+          {
+            "title": "Keep tea away from spices and refrigerator odors 👃",
+            "desc": "Tea leaves have a porous microscopic structure that instantly absorbs volatile odor molecules (coffee, garlic, spices, or fridge odors). Store tea strictly separated from strong-smelling items."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Seal in an opaque tin canister or multi-layer foil bag — Complete Light & Oxygen Barrier 📦",
+            "text": "Oxygen and light are the greatest enemies of tea quality. 💡 Storage Tip: Transfer opened tea leaves into an opaque double-lidded metal tin or a heavy-duty aluminum foil Ziploc bag, squeeze out excess air, and seal tightly."
+          },
+          {
+            "name": "Keep in a cool, dry, dark pantry at 15–25°C — Block Heat & Moisture 🌡️",
+            "text": "High ambient temperatures and relative humidity above 60% trigger rapid oxidation of tea antioxidants. 💡 Storage Tip: Store tea in a dark, dry cabinet away from stoves, kettles, and sunny windows."
+          },
+          {
+            "name": "[Green Tea/Matcha] Vacuum-seal and refrigerate/freeze for long-term storage — Long-Term Storage (Up to 1 Year) ❄️",
+            "text": "Unfermented teas like green tea and matcha are hyper-sensitive to oxidation and benefit from cold storage. 💡 Storage Tip: Seal completely airtight in foil bags before placing in the fridge or freezer (-18°C). When taking it out, allow the sealed package to come to room temperature for 1–2 hours before opening to prevent condensation."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Are storage requirements the same for green, black, oolong, and pu-erh teas?",
+            "answer": "No. Green tea requires strict oxidation control (cool/dark or airtight cold storage). Black and oolong teas stay fresh at dry room temperature. Pu-erh and fermented teas require slight airflow and controlled humidity to age properly."
+          },
+          {
+            "question": "Can I still drink tea past its printed expiration date?",
+            "answer": "Yes. Tea leaves do not easily rot if kept completely dry, but their delicate aromas and health benefits degrade over time. If older tea has lost its fragrance, you can lightly roast it in a dry pan to enjoy as toasted tea (hojicha) or use it as a natural deodorizer."
+          }
+        ]
+      },
+      "ja": {
+        "title": "茶葉を新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づく茶葉の最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "香り高いお茶を楽しもうと買った茶葉が、時間が経つにつれて香りが飛び、味が落ちたり古くさいニオイがしてしまった経験はありませんか？🍃\n\n茶葉は乾燥していますが、空気中の酸素や湿度、光、熱、そして周囲の匂いをスポンジのように強烈に吸収する極めて繊細な食材です。湿気や酸素に晒されるとカテキンやテアニンなどの旨味成分が酸化し、爽やかなアロマが失われて渋みや雑味だけが残ってしまいます。\n\n本記事では、食品安全機関や日本茶・紅茶の専門家が推奨する、茶葉本来の繊細な風味と鮮度を長期間キープする3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の 生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "透明なガラス瓶やポリ袋で保存しないでください ☀️",
+            "desc": "紫外線や光は茶葉の葉緑素や揮発性の香り成分を急速に破壊し、お茶の色を変化させ芳醇な香りを奪います。光を完全に遮断する不透明な容器を使用してください。"
+          },
+          {
+            "title": "スパイスや冷蔵庫のニオイの近くに置かないでください 👃",
+            "desc": "茶葉の表面には無数の微小な穴がある多孔質構造のため、周囲のニオイ（コーヒー、スパイス、冷蔵庫の臭いなど）を一瞬で吸い取ってしまいます。ニオイの強い食材とは必ず分けて保存してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "不透明な茶筒やアルミ袋に密封する — 光と空気の完全遮断 📦",
+            "text": "茶葉保存の最大の敵は酸素と光です。💡保存の コツ：開封した茶葉は、中蓋が付いた不透明な金属製の茶筒や、アルミ箔のチャック付き袋に入れ、しっかりと空気を抜いて密閉してください。"
+          },
+          {
+            "name": "15〜25℃の涼しく乾燥した日陰に置く — 湿気と熱の遮断 🌡️",
+            "text": "室温が高かったり湿度が60%を超えると、お茶に含まれる抗酸化成分が急激に酸化します。💡保存のコツ：コンロ周辺や窓際を避け、温度が一定で乾燥した暗い棚や引き出しの中で保存してください。"
+          },
+          {
+            "name": "[緑茶・抹茶類] 長期保存時は真空密封して冷蔵・冷凍保存する — 長期保存 (最大1年間) ❄️",
+            "text": "未発酵の緑茶や抹茶は特に酸化しやすいため、冷暗保存が必須です。💡保存のコツ：未開封または完全密封した袋ごと冷蔵・冷凍室（-18℃以下）で保存します。使用する際は、結露を防ぐため常温に1〜2時間置いて完全に常温に戻してから開けてください。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "緑茶、紅茶、ウーロン茶、プーアル茶の保存方法はすべて同じですか？",
+            "answer": "お茶の種類によって異なります。緑茶は酸化防止が最優先なため冷暗所（または完全密封で冷蔵）が適しており、紅茶やウーロン茶は湿気だけを遮断して常温で保存します。一方、後発酵茶であるプーアル茶は、適度な通気性のある環境でゆっくり熟成させるのが良いとされています。"
+          },
+          {
+            "question": "賞味期限が切れた茶葉は飲めなくなりますか？",
+            "answer": "茶葉は乾燥食品のため腐敗しにくいですが、時間が経つと風味や栄養成分が低下します。乾燥が保たれていれば期限が過ぎても飲めますが、香りが飛んでしまった場合はフライパンで軽く炒って香ばしいほうじ茶にしたり、消臭剤や消臭ポプリとして活用できます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持茶叶新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解茶叶的最佳储存温度、方式和保鲜时长。",
+        "authority": "美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "您是否曾买回香气扑鼻的茶叶，结果放了没多久就发现香气挥发尽净，冲泡出来口感平淡甚至带有一股陈腐味？🍃\n\n虽然茶叶处于完全干燥的状态，但其表面具有多孔结构，会像海绵一样极易吸收空气中的氧气、水分、光线、热量以及周围的异味。暴露于湿气与氧气中会导致茶多酚、氨基酸等天然有效成分剧烈氧化，从而破坏其鲜爽清甜的口感。\n\n本指南基于食品安全指南与茶道专家建议，为您带来3步科学茶叶保存秘诀，长久锁住茶叶的细腻香气与品质。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "切勿存放在透明玻璃瓶或透明塑料袋中 ☀️",
+            "desc": "阳光与紫外线会迅速分解茶叶中的叶绿素与挥发性香气物质，导致茶叶变色并流失原本鲜甜的茶香。请务必使用遮光性好的不透明容器。"
+          },
+          {
+            "title": "请勿靠近香料或冰箱异味处 👃",
+            "desc": "茶叶表面布满微孔，极易瞬间吸收咖啡、大蒜、香料或冰箱里的各种异味。请务必将茶叶与强气味物品严格分开放置。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "装入不透明茶罐或铝箔袋密封 — 彻底阻绝光线与氧气 📦",
+            "text": "保存茶叶的最大宿敌是氧气和光线。💡储存小贴士：拆封后的茶叶请装入带有双层盖的不透明金属茶罐或厚实铝箔拉链袋中，挤出袋内多余空气后紧密封口。"
+          },
+          {
+            "name": "存放在15~25℃阴凉干燥处 — 隔绝湿气与高热 🌡️",
+            "text": "环境温度过高或相对湿度超过60%时，茶叶中的抗氧化成分会加速氧化变质。💡储存小贴士：请避开灶台周围、水壶旁及日光直射的窗台，存放在干燥阴暗的橱柜中。"
+          },
+          {
+            "name": "[绿茶/抹茶类] 长期保存请抽真空密封后冷藏冷冻 — 长期保存 (最长1年) ❄️",
+            "text": "未经发酵的绿茶和抹茶对氧化极度敏感，低温冷藏至关重要。💡储存小贴士：将未开封或彻底密封的铝箔袋放入冷藏室或冷冻室（-18℃以下）。取出时，切勿立即开封，需在常温下静置1~2小时完全回温，以防凝结水珠导致茶叶受潮。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "绿茶、红茶、乌龙茶和普洱茶的保存方法都一样吗？",
+            "answer": "并不完全相同。绿茶防氧化是关键，适合冷暗处（或密封冷藏）保存；红茶和乌龙茶只需防潮，在常温下密封保存即可；而作为后发酵茶的普洱茶，则需要适当通风和适宜湿度的环境，使其自然缓慢陈化。"
+          },
+          {
+            "question": "茶叶过了保质期还能喝吗？",
+            "answer": "只要完全干燥未受潮发霉，过期的茶叶通常不会腐败变质，但其香气与养分会随时间流逝而衰减。如果茶叶香气变淡，可以用无油干锅小火轻烘制作成香气浓郁的焙茶饮用，或者作为天然除味剂使用。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener las hojas de té frescas: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para las hojas de té según las directrices oficiales de seguridad.",
+        "authority": "USDA & MFDS",
+        "intro": "¿Alguna vez compró hojas de té aromáticas solo para descubrir que semanas después su fragancia se había desvanecido o sabían rancias? 🍃\n\nAunque las hojas de té sueltas están completamente secas, su estructura porosa actúa como una esponja, absorbiendo rápidamente oxígeno, humedad, luz, calor y olores del ambiente. La exposición a la humedad y al oxígeno degrada antioxidantes como las catequinas, destruyendo su frescura y dejando un sabor plano o amargo.\n\nEn esta guía se comparte una guía de conservación en 3 pasos respaldada por el USDA y expertos en té para preservar los aromas delicados y la frescura por meses. 🛡️",
+        "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "No guarde el té en frascos de vidrio transparentes o bolsas plásticas ☀️",
+            "desc": "La luz ultravioleta descompone la clorofila y los compuestos aromáticos volátiles, alterando el color del té y despojándolo de sus notas florales. Utilice siempre recipientes opacos que bloqueen la luz."
+          },
+          {
+            "title": "Mantenga el té alejado de especias y olores del refrigerador 👃",
+            "desc": "Las hojas de té poseen una estructura microscópica porosa que absorbe de inmediato olores de café, ajo, especias o humedad del refrigerador. Manténgalas aisladas de alimentos con fragancias fuertes."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Selle en una lata opaca o bolsa de aluminio multicapa — Barrera total contra luz y oxígeno 📦",
+            "text": "El oxígeno y la luz son los mayores enemigos de la calidad del té. 💡 Consejo de almacenamiento: Guarde el té abierto en latas metálicas opacas con doble tapa o en bolsas herméticas de aluminio extraiga el exceso de aire y cierre bien."
+          },
+          {
+            "name": "Conserve en una alacena fresca, seca y oscura a 15–25 °C — Bloquee calor y humedad 🌡️",
+            "text": "Temperaturas elevadas y una humedad relativa superior al 60% aceleran la oxidación de las hojas. 💡 Consejo de almacenamiento: Guarde el contenedor en un armario oscuro lejos de estufas, teteras o ventanas expuestas al sol."
+          },
+          {
+            "name": "[Té verde/Matcha] Selle al vacío y refrigere/congele para almacenamiento prolongado — Conservación (Hasta 1 año) ❄️",
+            "text": "Los tés no fermentados son muy sensibles a la oxidación y se benefician del frío. 💡 Consejo de almacenamiento: Selle herméticamente en bolsas de aluminio y refrigere/congele (-18 °C). Al retirar, deje reposar la bolsa cerrada a temperatura ambiente de 1 a 2 horas antes de abrir."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Son iguales los requisitos de conservación para el té verde, negro, oolong y pu-erh?",
+            "answer": "No. El té verde requiere un control estricto de la oxidación (lugar frío/oscuro o refrigerado). El té negro y oolong se conservan bien a temperatura ambiente seca. El té pu-erh y los tés fermentados requieren una ligera ventilación para envejecer correctamente."
+          },
+          {
+            "question": "¿Se puede consumir el té después de su fecha de vencimiento?",
+            "answer": "Sí. Si se mantiene completamente seco, el té no se pudre, aunque pierde sus matices aromáticos con el tiempo. Si ha perdido fragancia, puede tostarlo ligeramente en una sartén seca para disfrutarlo como té tostado o usarlo como desodorante natural."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver les feuilles de thé fraîches : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les feuilles de thé selon les directives officielles de sécurité.",
+        "authority": "USDA & MFDS",
+        "intro": "Avez-vous déjà acheté du thé en vrac très aromatique pour constater après quelques semaines que son parfum s'était volatisé ou qu'il avait un goût rance ? 🍃\n\nBien que les feuilles de thé soient séchées, leur structure microscopique poreuse agit comme une éponge, absorbant l'oxygène, l'humidité, la lumière, la chaleur et les odeurs ambiantes. L'exposition à l'humidité et à l'air oxyde les catéchines et la théanine, altérant leur fraîcheur et laissant un goût plat ou amer.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et d'experts du thé pour préserver leurs arômes pendant des mois. 🛡️",
+        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne conservez pas le thé dans des bocaux en verre transparents ☀️",
+            "desc": "Les rayons UV et la lumière dégradent la chlorophylle et les composés aromatiques, altérant la couleur de la liqueur et effaçant les notes florales. Utilisez toujours des boîtes opacifiantes."
+          },
+          {
+            "title": "Éloignez le thé des épices et des odeurs du réfrigérateur 👃",
+            "desc": "La structure poreuse des feuilles de thé absorbe immédiatement les odeurs volatiles (café, ail, épices, etc.). Conservez votre thé totalement à l'écart des produits très odorants."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Sceller dans une boîte en métal opaque ou un sachet en aluminium — Barrière totale contre lumière et oxygène 📦",
+            "text": "L'oxygène et la lumière sont les pires ennemis du thé. 💡 Astuce de conservation : Transférez le thé ouvert dans une boîte métallique opaque à double couvercle ou un sachet en aluminium zip, videz l'air et scellez."
+          },
+          {
+            "name": "Garder dans un endroit frais, sec et sombre (15 à 25 °C) — Protéger de la chaleur et de l'humidité 🌡️",
+            "text": "Une température élevée et un taux d'humidité supérieur à 60 % accélèrent l'oxydation des antioxydants du thé. 💡 Astuce de conservation : Conservez-le dans un placard sombre éloigné des bouilloires et des plaques de cuisson."
+          },
+          {
+            "name": "[Thé vert/Matcha] Sceller sous vide et réfrigérer/congeler pour un stockage prolongé — Stockage longue durée ❄️",
+            "text": "Les thés non fermentés (thé vert, matcha) sont très sensibles à l'oxydation. 💡 Astuce de conservation : Scellez fermement en sachet aluminium et conservez au réfrigérateur ou congélateur (-18 °C). Attendez 1 à 2 heures après la sortie du froid avant d'ouvrir le paquet pour éviter la condensation."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Les règles de conservation sont-elles les mêmes pour le thé vert, noir, oolong et pu-erh ?",
+            "answer": "Non. Le thé vert nécessite un contrôle strict de l'oxydation (au frais et à l'abri de l'air). Les thés noirs et oolong se conservent à température ambiante sèche. Le thé pu-erh nécessite un environnement légèrement aéré et contrôlé en humidité pour poursuivre sa maturation."
+          },
+          {
+            "question": "Peut-on consommer du thé dont la date de péremption est dépassée ?",
+            "answer": "Oui. Conservé au sec, le thé ne pourrit pas, mais perd ses vertus et ses qualités aromatiques. Si votre thé a perdu de sa fraîcheur, vous pouvez le torréfier légèrement à la poêle pour en faire un thé grillé (hojicha) ou l'utiliser comme désodorisant naturel."
+          }
+        ]
+      },
+      "de": {
+        "title": "Teeblätter richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Teeblätter basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "USDA & MFDS",
+        "intro": "Haben Sie aromatisierte Teeblätter gekauft, nur um nach einigen Wochen festzustellen, dass das feine Aroma verflogen war oder der Tee alt schmeckte? 🍃\n\nObwohl loser Tee getrocknet ist, wirkt seine mikroskopische Porenstruktur wie ein Schwamm. Er nimmt Sauerstoff, Feuchtigkeit, Licht, Hitze und Umgebungsgerüche extrem schnell auf. Feuchtigkeit und Sauerstoff oxidieren wertvolle Inhaltsstoffe wie Catechine und lassen den Tee flach oder bitter werden.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der von der USDA und Tee-Experten empfohlen wird, um Aroma und Frische monatelang zu bewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Tee nicht in transparenten Glas- oder Plastikgefäßen lagern ☀️",
+            "desc": "UV-Strahlung und Licht zerstören das Chlorophyll und die flüchtigen Aromastoffe rasch. Dadurch verändert sich die Farbe des Aufgusses und feine Geschmacksnoten gehen verloren. Nutzen Sie stets lichtundurchlässige Dosen."
+          },
+          {
+            "title": "Von Gewürzen und Kühlschrankgerüchen fernhalten 👃",
+            "desc": "Teeblätter besitzen eine feine Porenstruktur, die Gerüche von Kaffee, Knoblauch oder Gewürzen sofort bindet. Lagern Sie Tee strikt getrennt von stark riechenden Lebensmitteln."
+          }
+        ],
+        "steps": [
+          {
+            "name": "In einer blickdichten Teedose oder Alufolie versiegeln — Völliger Licht- & Sauerstoffschutz 📦",
+            "text": "Sauerstoff und Licht sind die größten Feinde der Teequalität. 💡 Lagerungstipp: Füllen Sie geöffneten Tee in eine lichtundurchlässige Metalldose mit Doppeldeckel oder einen Aluminium-Ziploc-Beutel um und drücken Sie die Luft vor dem Verschließen heraus."
+          },
+          {
+            "name": "Bei 15–25 °C kühl, trocken und dunkel lagern — Wärme und Feuchtigkeit abblocken 🌡️",
+            "text": "Hohe Raumtemperaturen und eine Luftfeuchtigkeit über 60 % beschleunigen die Oxidation. 💡 Lagerungstipp: Lagern Sie den Tee in einem dunklen, trockenen Schrank fern von Herd, Wasserkocher und Fenster."
+          },
+          {
+            "name": "[Grüner Tee/Matcha] Für die Langzeitlagerung vakuumieren und kühlen/einfrieren — Langzeitlagerung ❄️",
+            "text": "Unfermentierte Tees wie Grüner Tee oder Matcha sind extrem oxidationsempfindlich. 💡 Lagerungstipp: In Alubeuteln luftdicht versiegelt im Kühlschrank oder Gefrierfach (-18 °C) aufbewahren. Nach dem Entnehmen erst 1–2 Stunden auf Raumtemperatur erwärmen lassen, bevor die Packung geöffnet wird."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Gelten für Grünen Tee, Schwarztee, Oolong und Pu-Erh dieselben Regeln?",
+            "answer": "Nein. Grüner Tee benötigt strengen Oxidationsschutz (kühl/dunkel oder gekühlt). Schwarztee und Oolong bleiben bei trockener Raumtemperatur frisch. Fermentierter Pu-Erh-Tee benötigt hingegen etwas Luftzirkulation zur optimalen Reifung."
+          },
+          {
+            "question": "Kann man Tee nach Ablauf des Mindesthaltbarkeitsdatums noch trinken?",
+            "answer": "Ja. Trocken gelagerter Tee schimmelt nicht so leicht, verliert aber mit der Zeit an Aroma und Wirkung. Älteren Tee ohne Aroma können Sie in einer fettfreien Pfanne kurz anrösten, um schmackhaften Rösttee (Hojicha) zu erhalten."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar folhas de chá frescas: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para as folhas de chá com base em diretrizes oficiais de segurança.",
+        "authority": "USDA & MFDS",
+        "intro": "Você já comprou folhas de chá aromáticas e percebeu que semanas depois o sabor sutil havia desvanecido ou ficado velho? 🍃\n\nEmbora as folhas de chá estejam secas, sua estrutura porosa funciona como uma esponja, absorvendo rapidamente oxigênio, umidade, luz, calor e odores. A exposição à umidade e ao oxigênio oxida os flavonoides e catequinas, destruindo o frescor e deixando um sabor amargo e apagado.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes do USDA para preservar os aromas delicados e a qualidade do seu chá por meses. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Não guarde o chá em potes de vidro transparentes ☀️",
+            "desc": "A luz solar e os raios UV decompõem a clorofila e compostos aromáticos voláteis, alterando a cor e eliminando as notas florais. Use sempre recipientes opacos que bloqueiem a luz."
+          },
+          {
+            "title": "Mantenha longe de temperos e odores da geladeira 👃",
+            "desc": "A estrutura microscópica das folhas de chá absorve instantaneamente odores voláteis de café, alho ou comida. Guarde o chá totalmente separado de itens de cheiro forte."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Sela em uma lata opaca ou saco de alumínio — Barreira total contra luz e oxigênio 📦",
+            "text": "O oxigênio e a luz são os piores inimigos da qualidade do chá. 💡 Dica de conservação: Guarde o chá aberto em latas metálicas opacas com tampa dupla ou em sacos de alumínio Ziploc tirando todo o ar."
+          },
+          {
+            "name": "Mantenha em local fresco, seco e escuro a 15–25 °C — Bloqueie calor e umidade 🌡️",
+            "text": "Temperaturas elevadas e umidade acima de 60% aceleram a oxidação dos antioxidantes. 💡 Dica de conservação: Guarde o pote em um armário escuro e seco, longe do fogão e janelas."
+          },
+          {
+            "name": "[Chá Verde/Matcha] Sela a vácuo e refrigere/congele para armazenamento longo — Conservação (Até 1 ano) ❄️",
+            "text": "Os chás não fermentados são muito sensíveis à oxidação e se beneficiam do frio. 💡 Dica de conservação: Sele em sacos de alumínio e guarde na geladeira ou freezer (-18 °C). Espere o pacote atingir a temperatura ambiente por 1–2 horas antes de abrir."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "As exigências de armazenamento são iguais para chá verde, preto, oolong e pu-erh?",
+            "answer": "Não. O chá verde exige controle rigoroso de oxidação (local frio ou refrigerado). Chá preto e oolong conservam-se bem em temperatura ambiente seca. O chá pu-erh necessita de leve ventilação para maturar."
+          },
+          {
+            "question": "Posso consumir o chá após a data de validade impresso?",
+            "answer": "Sim. Mantido totalmente seco, o chá não estraga, mas perde seus aromas gradualmente. Se o chá perdeu a fragrância, você pode tostá-lo levemente em uma frigideira seca para criar um chá tostado ou usá-lo como desodorizador natural."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Daun Teh agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk daun teh berdasarkan pedoman keselamatan resmi.",
+        "authority": "USDA & MFDS",
+        "intro": "Pernahkah Anda membeli daun teh aromatik lalu mendapati aromanya yang lembut hilang dan rasanya menjadi hambar atau tengik setelah beberapa minggu? 🍃\n\nMeskipun daun teh kering, struktur mikro berpori pada daun teh bertindak seperti spons yang menyerap oksigen, kelembapan, cahaya, panas, dan bau di sekitarnya. Paparan kelembapan dan oksigen mengoksidasi senyawa katekin dan theanin, merusak kesegaran dan menyisakan rasa pahit yang tidak sedap.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh pakar keselamatan pangan untuk menjaga aroma dan kesegaran teh Anda. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan menyimpan teh dalam toples kaca transparan atau plastik bening ☀️",
+            "desc": "Sinar UV dan cahaya merusak klorofil serta senyawa aroma volatil, mengubah warna air seduhan dan merusak aroma alami teh. Selalu gunakan wadah buram yang menahan cahaya."
+          },
+          {
+            "title": "Jauhkan teh dari bumbu dapur dan bau kulkas 👃",
+            "desc": "Daun teh memiliki struktur mikro berpori yang sangat cepat menyerap bau menyengat (kopi, bawang, rempah-rempah). Simpan teh terpisah dari bahan makanan berbau tajam."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Segel dalam kaleng buram atau kantong alumunium foil — Pelindung Total dari Cahaya & Oksigen 📦",
+            "text": "Oksigen dan cahaya adalah musuh utama kualitas teh. 💡 Tips Penyimpanan: Pindahkan daun teh yang sudah dibuka ke dalam kaleng logam buram ganda atau kantong Ziploc alumunium foil, buang udara di dalamnya lalu tutup rapat."
+          },
+          {
+            "name": "Simpan di lemari sejuk, kering, dan gelap pada suhu 15–25°C — Tahan Panas & Kelembapan 🌡️",
+            "text": "Suhu tinggi dan kelembapan di atas 60% memicu oksidasi cepat pada zat antioksidan teh. 💡 Tips Penyimpanan: Simpan wadah teh di dalam lemari dapur yang gelap dan jauh dari kompor atau jendela."
+          },
+          {
+            "name": "[Teh Hijau/Matcha] Segel vakum lalu bekukan untuk jangka panjang — Simpan Beku (Hingga 1 Tahun) ❄️",
+            "text": "Teh tanpa fermentasi seperti teh hijau dan matcha sangat sensitif terhadap oksidasi. 💡 Tips Penyimpanan: Segel rapat dalam kantong foil lalu simpan di kulkas atau freezer (-18°C). Biarkan bungkus teh berada pada suhu ruang selama 1–2 jam sebelum dibuka agar tidak timbul embun."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah cara penyimpanan teh hijau, teh hitam, oolong, dan pu-erh sama?",
+            "answer": "Berbeda. Teh hijau membutuhkan kontrol oksidasi ketat (tempat sejuk/dingin kedap udara). Teh hitam dan oolong awet pada suhu ruang yang kering. Sedangkan teh fermentasi seperti pu-erh membutuhkan sedikit sirkulasi udara untuk proses pematangan alami."
+          },
+          {
+            "question": "Apakah teh yang sudah lewat tanggal kedaluwarsa masih boleh diminum?",
+            "answer": "Boleh. Selama tersimpan kering sempurna, daun teh tidak membusuk, hanya saja aroma dan khasiatnya berkurang. Jika teh sudah kehilangan aromanya, Anda bisa sangrai sebentar di wajan kering untuk dijadikan teh sangrai (hojicha) atau dimanfaatkan sebagai pembersih bau alami."
+          }
+        ]
+      }
     }
+  }
 }

@@ -1,406 +1,406 @@
 {
-    "how-to-store-scallops": {
-        "ingId": "scallops",
-        "pubDate": "2026-04-14",
-        "updatedDate": "2026-04-14",
-        "heroImage": "/images/blog/scallop_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "가리비(관자) 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 가리비의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "미국 해양대기청(NOAA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "파인 다이닝부터 가정식까지 고급스러운 풍미를 자랑하는 가리비(관자)를 구입한 뒤, 조금만 油断해도 비린내가 심해지고 살이 물러져 난감하셨던 적 있으시죠? 🦪\n\n가리비 관자는 글리코겐 함량이 높고 단백질 조직이 연약하여 사후(Post-mortem) 자가분해(Autolysis) 효소 작용이 매우 빠르게 일어납니다. 또한 관자 및 내장에 존재하는 트리메틸아민N-옥사이드(TMAO) 성분이 미생물에 의해 트리메틸아민(TMA)으로 환원되면서 특유의 강한 비린내와 부패가 즉각 시작되므로, 0~2°C의 극저온 보관이 필수적입니다.\n\n이번 가이드에서는 NOAA, USDA, 식품의약품안전처의 검증된 가이드라인을 바탕으로, 가리비의 달콤한 감칠맛과 탱글한 식감을 오랫동안 신선하게 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 효소 분해 특성과 미생물 환원 반응을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "자가분해 효소와 TMAO 환원 반응으로 인한 부패를 주의하세요 ⚠️",
-                        "desc": "가리비는 사후 자가분해 효소 작용으로 단백질 조직이 빠르게 무너집니다. 특히 TMAO 성분이 미생물에 의해 TMA로 환원되면 불쾌한 비린내가 발생하고 세균 번식이 가속화되므로 반드시 0~2°C의 극저온 상태를 유지해야 합니다."
-                    },
-                    {
-                        "title": "민물(수도수) 세척 후 방치하거나 내장을 제거하지 않고 보관하지 마세요 💧",
-                        "desc": "가리비를 삼투압이 다른 민물에 오랫동안 담가두면 과육 세포가 단물에 불어 감칠맛 성분이 소실되고 부패가 빨라집니다. 보관 전에는 차가운 소금물로 살살 씻어내고, 부패 원인이 되는 내장을 신속히 제거해야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "생물 가리비는 내장 제거 후 소금물 세척하여 극저온 냉장 보관하기 — 냉장 보관 (1~2일) ❄️",
-                        "text": "생물 가리비는 구매 즉시 내장을 깔끔히 제거하고 차가운 옅은 소금물(약 3% 해수 농도)로 가볍게 씻은 뒤 수분을 완전히 제거해야 합니다. 💡 보관 팁: 밀폐 용기에 키친타월을 깔고 가리비를 올린 뒤 냉장고 가장 차가운 신선실(0~2°C)에 보관하세요. 1~2일 이내에 신속히 섭취해야 합니다."
-                    },
-                    {
-                        "name": "급속 냉동으로 조직 파괴와 자가분해 완벽 차단하기 — 장기 냉동 보관 (90~180일) 🧊",
-                        "text": "2일 이상 보관할 경우 자가분해와 TMA 발생을 막기 위해 즉시 냉동해야 합니다. 💡 보관 팁: 가리비 관자의 수분을 키친타월로 완전히 제거한 뒤, 1회 분량씩 랩으로 밀착 포장하여 냉동실(-18°C 이하)에 보관하세요. 3~6개월 동안 탱글한 식감을 유지할 수 있습니다."
-                    },
-                    {
-                        "name": "해동 시 냉장 해동 또는 찬 소금물 해동으로 드립 방지하기 — 과학적 해동법 🧪",
-                        "text": "냉동된 가리비를 상온이나 따뜻한 물에서 급속 해동하면 세포 조직이 파괴되어 육즙(드립)과 감칠맛이 모두 흘러나옵니다. 💡 보관 팁: 섭취 전날 냉장고(0~4°C)로 옮겨 천천히 해동하거나, 차가운 옅은 소금물에 담가 단시간 해동해야 세포 파괴와 비린내 발생을 막을 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "가리비에서 심한 비린내가 나는데 먹어도 되나요?",
-                        "answer": "절대 드시면 안 됩니다! 가리비의 강한 비린내는 관자와 내장에 있는 TMAO 성분이 미생물에 의해 TMA(트리메틸아민)로 환원되면서 발생하는 부패의 대표적 신호입니다. 심한 비린내나 악취가 나고 살이 힘없이 무너진다면 세균이 증식한 상태이므로 즉시 폐기해야 합니다."
-                    },
-                    {
-                        "question": "가리비를 보관할 때 수분을 제거하고 키친타월을 까는 이유는 무엇인가요?",
-                        "answer": "가리비 표면에 남아있는 수분은 자가분해 효소 작용을 촉진하고 미생물 증식의 원인이 됩니다. 세척 후 수분을 완전히 제거하고 키친타월을 까는 것은 수분과 드립(육즙)을 흡수하여 TMAO의 TMA 환원 반응을 저해하고 신선도를 극대화하기 위한 필수적인 보관법입니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Scallops Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for scallops based on official safety guidelines.",
-                "authority": "NOAA & USDA & MFDS",
-                "intro": "Have you ever purchased sweet, delicate scallops only to find them smelling fishy and losing their firm texture after a short time in the fridge? 🦪\n\nScallop adductor muscles are high in glycogen and have delicate protein tissue, making them highly susceptible to rapid post-mortem autolysis by endogenous enzymes. Additionally, Trimethylamine N-oxide (TMAO) present in scallops is reduced into Trimethylamine (TMA) by spoilage bacteria, generating an offensive fishy odor. Therefore, ultra-low temperature storage at 0–2°C is essential.\n\nIn this guide, we share a scientifically proven 3-step scallop storage guide based on guidelines from NOAA, USDA, and MFDS to preserve their natural sweetness and plump texture. 🛡️",
-                "whyTitle": "Why Store Scallops This Way? Scientific Facts",
-                "whyDesc": "Understanding the enzymatic autolysis and microbial reduction of TMAO into TMA is crucial for maintaining maximum freshness and seafood safety.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Prevent rapid autolysis and microbial TMA odor formation ⚠️",
-                        "desc": "Enzymatic autolysis rapidly degrades scallop muscle protein after harvest. Microbial breakdown of TMAO into TMA accelerates spoilage and creates harsh fishy smells, making strict temperature control at 0–2°C mandatory."
-                    },
-                    {
-                        "title": "Avoid soaking in fresh tap water or leaving viscera attached 💧",
-                        "desc": "Soaking scallops in fresh tap water disrupts osmotic balance, causing cells to swell and leak sweet flavor compounds. Always rinse gently with cold saline water and promptly remove internal organs before storing."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Eviscerate, rinse with salt water, and store ultra-cold — Refrigerated Storage (1–2 Days) ❄️",
-                        "text": "Fresh raw scallops should be eviscerated immediately, washed gently in cold light salt water (~3% salinity), and thoroughly patted dry. 💡 Storage Tip: Line an airtight container with paper towels, lay the scallops flat, and store them in the coldest compartment (0–2°C / 32–35°F). Consume within 1 to 2 days."
-                    },
-                    {
-                        "name": "Flash freeze to halt autolysis and tissue degradation — Frozen Storage (90–180 Days) 🧊",
-                        "text": "If storing for more than 2 days, freeze scallops immediately to halt autolytic enzyme activity and TMA formation. 💡 Storage Tip: Dry scallop meats completely, wrap tightly in vacuum or plastic film in single-meal portions, and freeze below -18°C (0°F). Maintains texture for 3 to 6 months."
-                    },
-                    {
-                        "name": "Thaw slowly in the fridge or cold saline to prevent drip loss — Scientific Thawing 🧪",
-                        "text": "Thawing frozen scallops at room temperature or in warm water destroys cell walls, leading to excessive drip loss and flavor leakage. 💡 Storage Tip: Transfer to the refrigerator (0–4°C / 32–39°F) 24 hours prior to cooking, or submerge wrapped scallops in cold salt water for quick, safe thawing."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "My scallops have a strong, pungent fishy odor. Are they still safe to eat?",
-                        "answer": "No, they are not safe! A strong fishy odor is a direct indicator of spoilage caused by bacteria converting TMAO into TMA (Trimethylamine). If scallops smell unpleasantly pungent or feel mushy and slimy, bacterial proliferation has occurred, and they should be discarded immediately."
-                    },
-                    {
-                        "question": "Why is it necessary to dry scallops and line containers with paper towels?",
-                        "answer": "Excess surface moisture accelerates autolytic enzyme action and provides a breeding ground for spoilage bacteria. Thoroughly patting scallops dry and resting them on paper towels absorbs purge (drip loss), suppressing the conversion of TMAO into offensive TMA compounds."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ホタテ（ホタテ貝柱）を新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくホタテの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "水産庁(JFA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "高級食材として人気のホタテ（貝柱）を購入したものの、少し 油断すると生臭さが強くなったり身がやわらかく崩れてしまったりして困った経験はありませんか？🦪\n\nホタテの貝柱はグリコーゲン含量が高くタンパク質組織が繊細なため、死後（Post-mortem）の自己分解（Autolysis）酵素作用が非常に早く進行します。また、貝柱や内臓に存在するトリメチルアミン-N-オキシド（TMAO）が微生物によってトリメチルアミン（TMA）へ還元されることで独特の強い生臭さと腐敗が始まるため、0〜2°Cの極低温保存が必須です。\n\n本記事では、水産庁、USDA、食品医薬品安全処のガイドラインに基づき、ホタテの甘みとプリッとした食感を長期間保つ3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？ 科学的ファクト",
-                "whyDesc": "食材ごとの酵素分解特性や微生物還元反応を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "自己分解酵素とTMAO還元反応による腐敗に注意してください ⚠️",
-                        "desc": "ホタテは死後の自己分解酵素作用によってタンパク質組織が急速に崩れます。特にTMAO成分が微生物によりTMAに還元されると嫌な生臭さが発生し細菌繁殖が加速するため、必ず0〜2°Cの極低温を維持してください。"
-                    },
-                    {
-                        "title": "真水（水道水）に浸したままにしたり内臓を残したまま保存しないでください 💧",
-                        "desc": "浸透圧の異なる真水に長く浸すと細胞がふやけて旨味成分が流出し腐敗が早まります。保存前は冷たい塩水で優しく洗い、腐敗の原因となるウロ（内臓）をすみやかに取り除いてください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "生ホタテはウロを除去し塩水で洗って極低温冷蔵保存する — 冷蔵保存 (1〜2日間) ❄️",
-                        "text": "生のホタテは購入後すぐにウロ（内臓）をきれいに取り除き、冷たい薄い塩水（約3%の海水濃度）で軽く洗って水分を完全に拭き取ります。💡保存のコツ：密閉容器にキッチンペーパーを敷いてホタテを並べ、冷蔵庫のチルド室（0〜2°C）で保存し、1〜2日以内に使い切ってください。"
-                    },
-                    {
-                        "name": "急速冷凍で組織破壊と自己分解を完全に遮断する — 長期冷凍保存 (90〜180日間) 🧊",
-                        "text": "2日以上保存する場合は自己分解とTMAの発生を防ぐためすぐに冷凍します。💡保存のコツ：貝柱の水分をペーパーで完全に拭き取り、1回分ずつラップでぴったり包んで冷凍室（-18°C以下）で保存すれば、3〜6ヶ月間プリプリの食感を維持できます。"
-                    },
-                    {
-                        "name": "解凍時は冷蔵解凍または冷塩水解凍でドリップを防ぐ — 科学的解凍法 🧪",
-                        "text": "冷凍ホタテを常温や温水で急速解凍すると細胞組織が破壊され旨味成分を含むドリップが流出してしまいます。💡保存のコツ：調理前日に冷蔵庫（0〜4°C）に移して低温でじっくり解凍するか、冷たい塩水に浸して短時間で解凍することで生臭さとドリップを防げます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "ホタテから強い生臭さがしますが食べられますか？",
-                        "answer": "絶対に食べてはいけません！ホタテの強い生臭さはTMAO成分が微生物によってTMA（トリメチルアミン）へ還元される腐敗のサインです。強い臭いや不快な悪臭がし、身が崩れている場合は細菌が増殖しているため直ちに廃棄してください。"
-                    },
-                    {
-                        "question": "ホタテを保存する際に水分を拭き取りペーパーを敷く理由は何ですか？",
-                        "answer": "表面に残った水分は自己分解酵素の 作用を促し微生物増殖の原因となります。水分を拭き取りペーパーを敷くことでドリップ（旨味成分を含む水分）を吸収し、TMAOからTMAへの還元反応を抑えて鮮度を極大化できます。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持扇贝（干贝/贝柱）新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解扇贝的最佳储存温度、方式及保鲜时长。",
-                "authority": "美国国家海洋和大气管理局(NOAA) & USDA & 韩国食品医药品安全处(MFDS)",
-                "intro": "您是否曾遇到过买回新鲜扇贝后，稍微存放大意就会散发出浓烈腥味、肉质变得松软无弹性的情况？🦪\n\n扇贝柱（闭壳肌）含有丰富的糖原，且蛋白质组织细嫩，捕捞死后（Post-mortem）自体分解（Autolysis）酶促作用极其迅速。此外，扇贝肌肉及内脏中的氧化三甲胺（TMAO）会被微生物还原为三甲胺（TMA），从而迅速产生特征性的强烈腥臭味并开始腐败，因此必须在0~2°C的极低温下储存。\n\n本指南将基于NOAA、USDA以及韩国MFDS的权威指南，为您带来3步科学保存秘诀，帮您长久锁定扇贝的甘甜鲜味与紧实口感。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解食材固有的酶促分解特性与微生物还原反应并采取正确的储存方法，对于保持鲜度与食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "警惕自体分解酶与TMAO还原反应导致的腐败 ⚠️",
-                        "desc": "扇贝死后自体分解酶会迅速破坏蛋白质结构。特别当TMAO被微生物还原为TMA时，会产生令人不适的腥臭味并加速细菌繁殖，因此必须严格保持0~2°C的极低温。"
-                    },
-                    {
-                        "title": "切勿淡水浸泡或保留内脏直接储存 💧",
-                        "desc": "将扇贝长时间浸泡在渗透压不同的淡水中会导致细胞吸水膨胀，使鲜味物质流失并加速腐败。储存前请用冷盐水轻轻清洗，并迅速去除易腐败的内脏。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "鲜活扇贝去内脏用盐水清洗后极低温冷藏 — 冷藏储存 (1~2天) ❄️",
-                        "text": "鲜活扇贝购买后应立即清除内脏，用冷淡盐水（约3%海水浓度）轻洗，并吸干表面水分。💡储存小贴士：密封盒内铺上厨房纸巾，平铺扇贝，放入冰箱最冷保鲜层（0~2°C），并在1~2天内尽快食用。"
-                    },
-                    {
-                        "name": "迅速冷冻以阻断组织破坏与自体分解 — 长期冷冻保存 (90~180天) 🧊",
-                        "text": "保存超过2天时，应立即冷冻以阻止自体分解与TMA的生成。💡储存小贴士：用纸巾彻底吸干扇贝柱水分，按单次食用量用保鲜膜紧密包裹，放入冷冻室（-18°C以下），可保持3~6个月的紧致口感。"
-                    },
-                    {
-                        "name": "解冻时采用冷藏或冷盐水解冻以防汁液流失 — 科学解冻法 🧪",
-                        "text": "冷冻扇贝若在常温或温水中快速解冻，会导致细胞破裂，鲜美汁液（Drip loss）大量流失。💡储存小贴士：提前一天移入冰箱冷藏室（0~4°C）缓慢解冻，或浸泡于冷盐水中快速解冻，以防止细胞破坏和腥味产生。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "扇贝散发出很重的腥味，还能吃吗？",
-                        "answer": "绝对不能食用！扇贝产生强烈腥味是内脏和肌肉中的TMAO被微生物还原为TMA（三甲胺）的典型腐败信号。如果闻到刺鼻腥臭味或肉质松散软塌，说明细菌已大量滋生，应立即丢弃。"
-                    },
-                    {
-                        "question": "保存扇贝时擦干水分并铺厨房纸巾的原因是什么？",
-                        "answer": "残留的水分会促进自体分解酶活性并为微生物滋生提供条件。彻底擦干水分并在密封盒内铺厨房纸巾能吸收析出的汁液，抑制TMAO向TMA的还原反应，从而最大程度延长保鲜期。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener las vieiras (veneras) frescas: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para las vieiras según las directrices oficiales de seguridad.",
-                "authority": "NOAA & USDA & MFDS",
-                "intro": "¿Alguna vez compró vieiras frescas y al poco tiempo en el refrigerador notó que desprendían un olor fuerte a pescado y perdían su textura firme? 🦪\n\nEl músculo aductor de la vieira es rico en glucógeno y posee un tejido proteico delicado, lo que lo hace muy susceptible a una rápida autólisis (Autolysis) enzimática posmórtem. Además, el óxido de trimetilamina (TMAO) presente en la vieira es reducido por bacterias en trimetilamina (TMA), generando un desagradable olor a pescado. Por ello, el almacenamiento a temperatura ultrabaja (0–2 °C) es obligatorio.\n\nEn esta guía se presenta una guía científica en 3 pasos basada en las directrices de la NOAA, el USDA y el MFDS para preservar la dulzura natural y la textura jugosa de las vieiras. 🛡️",
-                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-                "whyDesc": "Comprender la autólisis enzimática y la reducción microbiana de TMAO a TMA es clave para mantener la máxima frescura y seguridad de los mariscos.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Prevenga la autólisis acelerada y el olor a TMA microbiano ⚠️",
-                        "desc": "La autólisis enzimática degrada rápidamente las proteínas de la vieira tras la captura. La transformación microbiana de TMAO en TMA acelera el deterioro y genera olores intensos a pescado, haciendo obligatorio mantener entre 0 y 2 °C."
-                    },
-                    {
-                        "title": "Evite remojar en agua del grifo o guardar con vísceras 💧",
-                        "desc": "Sumergir vieiras en agua dulce altera el equilibrio osmótico, hinchando sus células y eliminando los compuestos de sabor dulce. Lávelas con agua salada fría y retire rápidamente las vísceras antes de guardar."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Eviscere, lave con agua salada y refrigere a baja temperatura — Almacenamiento Refrigerado (1–2 días) ❄️",
-                        "text": "Las vieiras frescas deben eviscerarse de inmediato, lavarse suavemente en agua salada fría (3% salinidad) y secarse por completo. 💡 Consejo de almacenamiento: Coloque papel absorbente en un recipiente hermético, disponga las vieiras y guárdelas en la zona más fría (0–2 °C). Consuma en 1 a 2 días."
-                    },
-                    {
-                        "name": "Congele rápidamente para detener la autólisis y el deterioro — Congelación (90–180 días) 🧊",
-                        "text": "Para conservar más de 2 días, congele las vieiras de inmediato para frenar la autólisis y la síntesis de TMA. 💡 Consejo de almacenamiento: Seque bien la carne, envuélvala apretada en film plástico en porciones individuales y congele bajo -18 °C. Conserva la textura de 3 a 6 meses."
-                    },
-                    {
-                        "name": "Descongele lentamente en el refrigerador o agua salada fría — Descongelación Científica 🧪",
-                        "text": "Descongelar vieiras a temperatura ambiente rompe las estructuras celulares provocando pérdida de exudado (drip) y sabor. 💡 Consejo de almacenamiento: Páselas al refrigerador (0–4 °C) 24 horas antes o sumérjalas envueltas en agua salada fría para mantener intacta su calidad."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mis vieiras huelen muy fuerte a pescado. ¿Siguen siendo aptas para el consumo?",
-                        "answer": "¡No, no son aptas! El fuerte olor a pescado es síntoma directo de descomposición microbiana que convierte TMAO en TMA (Trimetilamina). Si las vieiras desprenden un olor penetrante o están pegajosas y blandas, deseche el producto de inmediato."
-                    },
-                    {
-                        "question": "¿Por qué hay que secar las vieiras y colocar papel absorbente en el recipiente?",
-                        "answer": "El exceso de humedad en la superficie acelera las enzimas autolíticas y favorece a las bacterias del deterioro. Secar bien las vieiras y ponerlas sobre papel absorbente retiene el exudado, bloqueando la conversión de TMAO en el molesto compuesto TMA."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver les coquilles Saint-Jacques fraîches : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les coquilles Saint-Jacques selon les directives officielles de sécurité.",
-                "authority": "NOAA & USDA & MFDS",
-                "intro": "Avez-vous déjà acheté de délicieuses coquilles Saint-Jacques avant de constater qu'elles dégageaient rapidement une forte odeur de poisson et perdaient leur fermeté au réfrigérateur ? 🦪\n\nLe muscle adducteur de la coquille Saint-Jacques est riche en glycogène et possède des tissus protéiques très délicats, le rendant vulnérable à une autolyse (Autolysis) enzymatique post-mortem rapide. De plus, le N-oxyde de triméthylamine (TMAO) naturellement présent est réduit par des bactéries en triméthylamine (TMA), créant une odeur de poisson fort peu agréable. Un stockage à température ultra-basse (0–2 °C) est donc indispensable.\n\nDans ce guide, nous vous présentons un guide scientifique en 3 étapes basé sur les recommandations de la NOAA, de l'USDA et du MFDS pour préserver leur saveur douce et leur texture nacrée. 🛡️",
-                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre l'autolyse enzymatique et la réduction microbienne du TMAO en TMA est essentiel pour garantir la fraîcheur et la sécurité des produits de la mer.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Évitez l'autolyse rapide et le développement de l'odeur de TMA ⚠️",
-                        "desc": "L'autolyse enzymatique dégrade rapidement les protéines du muscle. La décomposition microbienne du TMAO en TMA accélère le rancissement et dégage une odeur piquante. Un contrôle strict entre 0 et 2 °C est obligatoire."
-                    },
-                    {
-                        "title": "Ne trempez pas dans l'eau du robinet et ne gardez pas les visceres 💧",
-                        "desc": "Rincer les Saint-Jacques à l'eau douce perturbe l'équilibre osmotique, fait gonfler les cellules et extrait les composés aromatiques. Rincez doucement à l'eau salée froide et retirez le corail/viscères si vous souhaitez les conserver."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Éviscérer, rincer à l'eau salée et réfrigérer au très froid — Stockage Réfrigéré (1–2 jours) ❄️",
-                        "text": "Les noix de Saint-Jacques fraîches doivent être éviscérées, rincées à l'eau salée froide (3 % de salinité) et bien séchées. 💡 Astuce de conservation : Tapissez un conteneur hermétique de papier absorbant, déposez les noix et placez-les dans la zone la plus froide (0–2 °C). À consommer sous 1 à 2 jours."
-                    },
-                    {
-                        "name": "Congeler rapidement pour stopper l'autolyse et la dégradation — Congélation (90–180 jours) 🧊",
-                        "text": "Pour conserver plus de 2 jours, congelez immédiatement les Saint-Jacques afin de stopper l'autolyse et la production de TMA. 💡 Astuce de conservation : Séchez parfaitement les noix, emballez-les sous film individuel et congelez sous -18 °C. La texture est préservée 3 à 6 mois."
-                    },
-                    {
-                        "name": "Décongeler lentement au réfrigérateur ou dans l'eau salée froide — Décongélation Scientifique 🧪",
-                        "text": "Décongeler les Saint-Jacques à température ambiante détruit les membranes cellulaires et entraîne une perte d'exudat (drip) riche en saveur. 💡 Astuce de conservation : Transférez au réfrigérateur (0–4 °C) 24h avant cuisson ou immergez-les emballées dans de l'eau salée froide."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mes coquilles Saint-Jacques ont une forte odeur de poisson. Sont-elles encore consommables ?",
-                        "answer": "Non, elles ne sont plus propres à la consommation ! L'odeur forte de poisson est le signe direct que les bactéries ont transformé le TMAO en TMA (Triméthylamine). Si elles sentent fort ou deviennent gluantes et molles, jetez-les immédiatement."
-                    },
-                    {
-                        "question": "Pourquoi est-il nécessaire de sécher les Saint-Jacques et d'utiliser du papier absorbant ?",
-                        "answer": "L'humidité de surface accélère les enzymes d'autolyse et favorise la multiplication bactérienne. Sécher les noix et utiliser du papier absorbant permet de capturer les jus (drip loss), bloquant ainsi la formation du composé odorant TMA."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Jakobsmuscheln richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Jakobsmuscheln basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "NOAA & USDA & MFDS",
-                "intro": "Haben Sie schon einmal edle Jakobsmuscheln gekauft und nach kurzer Zeit im Kühlschrank festgestellt, dass sie fischig rochen und ihre feste Struktur verloren hatten? 🦪\n\nDas Muschelfleisch (Schließmuskel) der Jakobsmuschel ist reich an Glykogen und besitzt sehr zartes Proteingewebe. Dadurch unterliegt es einer extrem schnellen postmortalen Autolyse (Autolysis) durch körpereigene Enzyme. Zudem wird enthaltenes Trimethylamin-N-oxid (TMAO) von Bakterien zu Trimethylamin (TMA) reduziert, was einen stechenden Fischgeruch erzeugt. Eine Lagerung bei 0–2 °C ist daher zwingend erforderlich.\n\nIn diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von NOAA, USDA und MFDS basiert, um den süßlichen Geschmack und die feine Textur zu bewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der enzymatischen Autolyse und der mikrobiellen Reduktion von TMAO zu TMA ist entscheidend für maximale Frische und Lebensmittelsicherheit.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Schnelle Autolyse und mikrobiellen TMA-Fischgeruch verhindern ⚠️",
-                        "desc": "Enzymatische Autolyse baut das Muscheleiweiß nach dem Fang rasch ab. Der mikrobielle Abbau von TMAO zu TMA beschleunigt den Verderb und erzeugt unangenehme Gerüche. Eine Kühlung bei 0–2 °C ist Pflicht."
-                    },
-                    {
-                        "title": "Süßwasserspülung vermeiden und Eingeweide sofort entfernen 💧",
-                        "desc": "Das Einlegen in Leitungswasser zerstört das osmotische Gleichgewicht, lässt Zellen aufquellen und laugt Aromen aus. Waschen Sie das Muschelfleisch nur vorsichtig mit kaltem Salzwasser und entfernen Sie Eingeweide zügig."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Ausnehmen, mit Salzwasser spülen und extrem kalt lagern — Kühlaufbewahrung (1–2 Tage) ❄️",
-                        "text": "Frische Jakobsmuscheln sofort ausnehmen, in kaltem leichtem Salzwasser (~3 % Salzgehalt) waschen und gründlich trockentupfen. 💡 Lagerungstipp: Ein Gefäß mit Küchenpapier auslegen, Muscheln darauflegen und im kältesten Fach (0–2 °C) aufbewahren. Innerhalb von 1 bis 2 Tagen verbrauchen."
-                    },
-                    {
-                        "name": "Schockfrieren zur Stoppung von Autolyse und Zellzerfall — Gefrierlagerung (90–180 Tage) 🧊",
-                        "text": "Müssen die Muscheln länger als 2 Tage aufbewahrt werden, frieren Sie sie sofort ein. 💡 Lagerungstipp: Muschelfleisch komplett trocknen, portioniert stramm in Folie wickeln und unter -18 °C einfrieren. Hält die Struktur 3 bis 6 Monate frisch."
-                    },
-                    {
-                        "name": "Langsam im Kühlschrank oder kaltem Salzwasser auftauen — Wissenschaftliches Auftauen 🧪",
-                        "text": "Das Auftauen bei Raumtemperatur zerstört Zellwände und führt zu hohem Tropfverlust (Drip loss) und Geschmacksverlust. 💡 Lagerungstipp: 24 Stunden vor der Zubereitung in den Kühlschrank (0–4 °C) legen oder verpackt in kaltem Salzwasser auftauen."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Meine Jakobsmuscheln riechen stark fischig. Kann ich sie noch zubereiten?",
-                        "answer": "Nein, auf keinen Fall! Ein starker Fischgeruch ist ein direktes Anzeichen dafür, dass Bakterien TMAO zu stechendem TMA (Trimethylamin) abgebaut haben. Wenn die Muscheln unangenehm riechen oder schmierig-weich sind, entsorgen Sie sie sofort."
-                    },
-                    {
-                        "question": "Warum muss man Jakobsmuscheln trocknen und Küchenpapier unterlegen?",
-                        "answer": "Oberflächenfeuchtigkeit beschleunigt autolytische Enzyme und bietet Nährboden für Verderbnisbakterien. Durch gründliches Trocknen und Unterlegen von Küchenpapier wird austretender Zellsaft gebunden und die TMA-Bildung unterdrückt."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar vieiras frescas: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para vieiras com base em diretrizes oficiais de segurança.",
-                "authority": "NOAA & USDA & MFDS",
-                "intro": "Você já comprou vieiras frescas e, após pouco tempo na geladeira, percebeu que elas desenvolveram um cheiro forte de peixe e perderam a firmeza? 🦪\n\nO músculo adutor da vieira é rico em glicogênio e possui um tecido proteico delicado, tornando-a muito suscetível a uma rápida autólise (Autolysis) enzimática pós-morte. Além disso, o óxido de trimetilamina (TMAO) presente na vieira é reduzido por bactérias em trimetilamina (TMA), gerando um odor desagradável. Por isso, o armazenamento em temperatura ultrabaixa (0–2 °C) é essencial.\n\nNeste guia, apresentamos um guia científico em 3 etapas baseado em diretrizes da NOAA, USDA e MFDS para preservar a doçura natural e a textura macia das suas vieiras. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Compreender a autólise enzimática e a redução microbiana do TMAO em TMA é crucial para manter a máxima frescura e segurança dos frutos do mar.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Evite a autólise rápida e a formação microbiana do odor de TMA ⚠️",
-                        "desc": "A autólise enzimática degrada rapidamente as proteínas da vieira. A transformação microbiana de TMAO em TMA acelera a deterioração e gera odores fortes de peixe, tornando obrigatório manter a temperatura entre 0 e 2 °C."
-                    },
-                    {
-                        "title": "Evite lavar em água corrente ou guardar com vísceras 💧",
-                        "desc": "Lavar vieiras em água doce altera o equilíbrio osmótico, fazendo as células incharem e perderem o sabor adocicado. Lave delicadamente em água salgada fria e remova as vísceras antes de guardar."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Eviscere, lave com água salgada e refrigere a ultrabaixa temperatura — Armazenamento refrigerado (1–2 dias) ❄️",
-                        "text": "Vieiras frescas devem ser evisceradas imediatamente, lavadas em água salgada fria (3% de salinidade) e bem secas. 💡 Dica de conservação: Forre um pote hermético com papel-toalha, coloque as vieiras e guarde no local mais frio da geladeira (0–2 °C). Consuma em 1 a 2 dias."
-                    },
-                    {
-                        "name": "Congele rapidamente para interromper a autólise e a degradação — Congelamento (90–180 dias) 🧊",
-                        "text": "Se for guardar por mais de 2 dias, congele as vieiras imediatamente para parar a autólise e a síntese de TMA. 💡 Dica de conservação: Seque bem a carne, embale firmemente em filme plástico em porções individuais e congele abaixo de -18 °C. Preserva a textura por 3 a 6 meses."
-                    },
-                    {
-                        "name": "Descongele lentamente na geladeira ou em água salgada fria — Descongelamento Científico 🧪",
-                        "text": "Descongelar vieiras em temperatura ambiente rompe as células e causa grande perda de suco (drip) e sabor. 💡 Dica de conservação: Passe para a geladeira (0–4 °C) 24 horas antes do preparo ou mergulhe-as embaladas em água salgada fria."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Minhas vieiras estão com um cheiro forte de peixe. Ainda posso comer?",
-                        "answer": "Não, absolutamente não! O cheiro forte de peixe é sinal direto de deterioração microbiana que converteu TMAO em TMA (Trimetilamina). Se apresentarem cheiro forte ou textura pegajosa e mole, descarte-as imediatamente."
-                    },
-                    {
-                        "question": "Por que é preciso secar as vieiras e colocar papel-toalha no pote?",
-                        "answer": "A umidade na superfície acelera as enzimas autolíticas e favorece a proliferação de bactérias. Secar bem as vieiras e usar papel-toalha absorve os líquidos (drip loss), bloqueando a conversão de TMAO no composto desagradável TMA."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Kerang Simping (Scallop) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk kerang simping (scallop) berdasarkan pedoman keselamatan resmi.",
-                "authority": "NOAA & USDA & MFDS",
-                "intro": "Pernahkah Anda membeli daging kerang simping (scallop) yang segar lalu mendapati baunya berubah amis dan teksturnya menjadi lembek setelah disimpan sebentar di kulkas? 🦪\n\nDaging otot aduktor scallop kaya akan glikogen dan memiliki jaringan protein yang lembut, membuatnya sangat rentan terhadap autolisis (Autolysis) enzimatis pascamati yang cepat. Selain itu, kandungan Trimetilamina N-oksida (TMAO) pada kerang diubah oleh bakteri menjadi Trimetilamina (TMA) yang memicu bau amis menyengat. Oleh karena itu, penyimpanan suhu sangat dingin pada 0–2°C sangat wajib dilakukan.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman resmi NOAA, USDA, dan MFDS untuk menjaga rasa manis alami dan tekstur kenyal scallop Anda. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami autolisis enzimatis dan reduksi mikroba dari TMAO menjadi TMA sangat penting untuk menjaga kesegaran dan keamanan pangan laut.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Cegah autolisis cepat dan pembentukan bau amis TMA oleh bakteri ⚠️",
-                        "desc": "Autolisis enzimatis merusak protein scallop dengan cepat setelah ditangkap. Perubahan TMAO menjadi TMA oleh mikroba mempercepat pembusukan dan menimbulkan bau amis tajam. Pengendalian suhu ketat pada 0–2°C sangat wajib."
-                    },
-                    {
-                        "title": "Hindari merendam dalam air tawar dan jangan simpan bersama jeroannya 💧",
-                        "desc": "Merendam scallop dalam air tawar merusak keseimbangan osmotik, membuat sel membengkak dan senyawa rasa manisnya hilang. Cuci lembut dengan air garam dingin dan segera buang jeroannya sebelum disimpan."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Buang jeroan, cuci dengan air garam, dan simpan di suhu sangat dingin — Simpan Kulkas (1–2 Hari) ❄️",
-                        "text": "Scallop segar harus segera dibuang jeroannya, dicuci lembut dengan air garam dingin (kadar garam ~3%), dan dikeringkan sepenuhnya. 💡 Tips Penyimpanan: Lapisi wadah kedap udara dengan tisu dapur, tata scallop, lalu simpan di bagian kulkas paling dingin (0–2°C). Konsumsi dalam 1 hingga 2 hari."
-                    },
-                    {
-                        "name": "Bekukan dengan cepat untuk menghentikan autolisis dan kerusakan sel — Simpan Beku (90–180 Hari) 🧊",
-                        "text": "Jika disimpan lebih dari 2 hari, segera bekukan scallop untuk menghentikan autolisis dan pembentukan TMA. 💡 Tips Penyimpanan: Keringkan daging scallop, bungkus rapat dengan plastik wrap per porsi, lalu simpan di freezer di bawah -18°C. Tekstur kenyalnya terjaga 3 hingga 6 bulan."
-                    },
-                    {
-                        "name": "Cairkan perlahan di kulkas atau air garam dingin — Pencairan Ilmiah 🧪",
-                        "text": "Mencairkan scallop beku di suhu ruang merusak struktur sel sehingga rasa dan cairan lezatnya (drip loss) terbuang. 💡 Tips Penyimpanan: Pindahkan ke kulkas (0–4°C) 24 jam sebelum dimasak, atau rendam scallop yang terbungkus rapat dalam air garam dingin."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Scallop saya berbau amis sangat tajam. Apakah masih aman dimasak?",
-                        "answer": "Tidak aman! Bau amis yang tajam adalah tanda pasti pembusukan akibat bakteri yang mengubah TMAO menjadi TMA (Trimetilamina). Jika scallop berbau menyengat atau terasa lembek dan berlendir, segera buang."
-                    },
-                    {
-                        "question": "Mengapa scallop harus dikeringkan dan wadahnya dilapisi tisu dapur?",
-                        "answer": "Sisa air di permukaan mempercepat enzim autolisis dan menjadi media berkembang biak bagi bakteri pembusuk. Mengeringkan scallop dan melapisi wadah dengan tisu dapur akan menyerap sisa cairan (drip loss), sehingga menekan pembentukan senyawa bau TMA."
-                    }
-                ]
-            }
-        }
+  "how-to-store-scallops": {
+    "ingId": "scallops",
+    "pubDate": "2026-04-14",
+    "updatedDate": "2026-04-14",
+    "heroImage": "/images/blog/scallop_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "가리비(관자) 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 가리비의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "미국 해양대기청(NOAA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+        "intro": "파인 다이닝부터 가정식까지 고급스러운 풍미를 자랑하는 가리비(관자)를 구입한 뒤, 조금만 油断해도 비린내가 심해지고 살이 물러져 난감하셨던 적 있으시죠? 🦪\n\n가리비 관자는 글리코겐 함량이 높고 단백질 조직이 연약하여 사후(Post-mortem) 자가분해(Autolysis) 효소 작용이 매우 빠르게 일어납니다. 또한 관자 및 내장에 존재하는 트리메틸아민N-옥사이드(TMAO) 성분이 미생물에 의해 트리메틸아민(TMA)으로 환원되면서 특유의 강한 비린내와 부패가 즉각 시작되므로, 0~2°C의 극저온 보관이 필수적입니다.\n\n이번 가이드에서는 NOAA, USDA, 식품의약품안전처의 검증된 가이드라인을 바탕으로, 가리비의 달콤한 감칠맛과 탱글한 식감을 오랫동안 신선하게 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 효소 분해 특성과 미생물 환원 반응을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "자가분해 효소와 TMAO 환원 반응으로 인한 부패를 주의하세요 ⚠️",
+            "desc": "가리비는 사후 자가분해 효소 작용으로 단백질 조직이 빠르게 무너집니다. 특히 TMAO 성분이 미생물에 의해 TMA로 환원되면 불쾌한 비린내가 발생하고 세균 번식이 가속화되므로 반드시 0~2°C의 극저온 상태를 유지해야 합니다."
+          },
+          {
+            "title": "민물(수도수) 세척 후 방치하거나 내장을 제거하지 않고 보관하지 마세요 💧",
+            "desc": "가리비를 삼투압이 다른 민물에 오랫동안 담가두면 과육 세포가 단물에 불어 감칠맛 성분이 소실되고 부패가 빨라집니다. 보관 전에는 차가운 소금물로 살살 씻어내고, 부패 원인이 되는 내장을 신속히 제거해야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "생물 가리비는 내장 제거 후 소금물 세척하여 극저온 냉장 보관하기 — 냉장 보관 (1~2일) ❄️",
+            "text": "생물 가리비는 구매 즉시 내장을 깔끔히 제거하고 차가운 옅은 소금물(약 3% 해수 농도)로 가볍게 씻은 뒤 수분을 완전히 제거해야 합니다. 💡 보관 팁: 밀폐 용기에 키친타월을 깔고 가리비를 올린 뒤 냉장고 가장 차가운 신선실(0~2°C)에 보관하세요. 1~2일 이내에 신속히 섭취해야 합니다."
+          },
+          {
+            "name": "급속 냉동으로 조직 파괴와 자가분해 완벽 차단하기 — 장기 냉동 보관 (90~180일) 🧊",
+            "text": "2일 이상 보관할 경우 자가분해와 TMA 발생을 막기 위해 즉시 냉동해야 합니다. 💡 보관 팁: 가리비 관자의 수분을 키친타월로 완전히 제거한 뒤, 1회 분량씩 랩으로 밀착 포장하여 냉동실(-18°C 이하)에 보관하세요. 3~6개월 동안 탱글한 식감을 유지할 수 있습니다."
+          },
+          {
+            "name": "해동 시 냉장 해동 또는 찬 소금물 해동으로 드립 방지하기 — 과학적 해동법 🧪",
+            "text": "냉동된 가리비를 상온이나 따뜻한 물에서 급속 해동하면 세포 조직이 파괴되어 육즙(드립)과 감칠맛이 모두 흘러나옵니다. 💡 보관 팁: 섭취 전날 냉장고(0~4°C)로 옮겨 천천히 해동하거나, 차가운 옅은 소금물에 담가 단시간 해동해야 세포 파괴와 비린내 발생을 막을 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "가리비에서 심한 비린내가 나는데 먹어도 되나요?",
+            "answer": "절대 드시면 안 됩니다! 가리비의 강한 비린내는 관자와 내장에 있는 TMAO 성분이 미생물에 의해 TMA(트리메틸아민)로 환원되면서 발생하는 부패의 대표적 신호입니다. 심한 비린내나 악취가 나고 살이 힘없이 무너진다면 세균이 증식한 상태이므로 즉시 폐기해야 합니다."
+          },
+          {
+            "question": "가리비를 보관할 때 수분을 제거하고 키친타월을 까는 이유는 무엇인가요?",
+            "answer": "가리비 표면에 남아있는 수분은 자가분해 효소 작용을 촉진하고 미생물 증식의 원인이 됩니다. 세척 후 수분을 완전히 제거하고 키친타월을 까는 것은 수분과 드립(육즙)을 흡수하여 TMAO의 TMA 환원 반응을 저해하고 신선도를 극대화하기 위한 필수적인 보관법입니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Scallops Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for scallops based on official safety guidelines.",
+        "authority": "NOAA & USDA & MFDS",
+        "intro": "Have you ever purchased sweet, delicate scallops only to find them smelling fishy and losing their firm texture after a short time in the fridge? 🦪\n\nScallop adductor muscles are high in glycogen and have delicate protein tissue, making them highly susceptible to rapid post-mortem autolysis by endogenous enzymes. Additionally, Trimethylamine N-oxide (TMAO) present in scallops is reduced into Trimethylamine (TMA) by spoilage bacteria, generating an offensive fishy odor. Therefore, ultra-low temperature storage at 0–2°C is essential.\n\nIn this guide, we share a scientifically proven 3-step scallop storage guide based on guidelines from NOAA, USDA, and MFDS to preserve their natural sweetness and plump texture. 🛡️",
+        "whyTitle": "Why Store Scallops This Way? Scientific Facts",
+        "whyDesc": "Understanding the enzymatic autolysis and microbial reduction of TMAO into TMA is crucial for maintaining maximum freshness and seafood safety.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Prevent rapid autolysis and microbial TMA odor formation ⚠️",
+            "desc": "Enzymatic autolysis rapidly degrades scallop muscle protein after harvest. Microbial breakdown of TMAO into TMA accelerates spoilage and creates harsh fishy smells, making strict temperature control at 0–2°C mandatory."
+          },
+          {
+            "title": "Avoid soaking in fresh tap water or leaving viscera attached 💧",
+            "desc": "Soaking scallops in fresh tap water disrupts osmotic balance, causing cells to swell and leak sweet flavor compounds. Always rinse gently with cold saline water and promptly remove internal organs before storing."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Eviscerate, rinse with salt water, and store ultra-cold — Refrigerated Storage (1–2 Days) ❄️",
+            "text": "Fresh raw scallops should be eviscerated immediately, washed gently in cold light salt water (~3% salinity), and thoroughly patted dry. 💡 Storage Tip: Line an airtight container with paper towels, lay the scallops flat, and store them in the coldest compartment (0–2°C / 32–35°F). Consume within 1 to 2 days."
+          },
+          {
+            "name": "Flash freeze to halt autolysis and tissue degradation — Frozen Storage (90–180 Days) 🧊",
+            "text": "If storing for more than 2 days, freeze scallops immediately to halt autolytic enzyme activity and TMA formation. 💡 Storage Tip: Dry scallop meats completely, wrap tightly in vacuum or plastic film in single-meal portions, and freeze below -18°C (0°F). Maintains texture for 3 to 6 months."
+          },
+          {
+            "name": "Thaw slowly in the fridge or cold saline to prevent drip loss — Scientific Thawing 🧪",
+            "text": "Thawing frozen scallops at room temperature or in warm water destroys cell walls, leading to excessive drip loss and flavor leakage. 💡 Storage Tip: Transfer to the refrigerator (0–4°C / 32–39°F) 24 hours prior to cooking, or submerge wrapped scallops in cold salt water for quick, safe thawing."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "My scallops have a strong, pungent fishy odor. Are they still safe to eat?",
+            "answer": "No, they are not safe! A strong fishy odor is a direct indicator of spoilage caused by bacteria converting TMAO into TMA (Trimethylamine). If scallops smell unpleasantly pungent or feel mushy and slimy, bacterial proliferation has occurred, and they should be discarded immediately."
+          },
+          {
+            "question": "Why is it necessary to dry scallops and line containers with paper towels?",
+            "answer": "Excess surface moisture accelerates autolytic enzyme action and provides a breeding ground for spoilage bacteria. Thoroughly patting scallops dry and resting them on paper towels absorbs purge (drip loss), suppressing the conversion of TMAO into offensive TMA compounds."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ホタテ（ホタテ貝柱）を新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくホタテの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "水産庁(JFA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "高級食材として人気のホタテ（貝柱）を購入したものの、少し 油断すると生臭さが強くなったり身がやわらかく崩れてしまったりして困った経験はありませんか？🦪\n\nホタテの貝柱はグリコーゲン含量が高くタンパク質組織が繊細なため、死後（Post-mortem）の自己分解（Autolysis）酵素作用が非常に早く進行します。また、貝柱や内臓に存在するトリメチルアミン-N-オキシド（TMAO）が微生物によってトリメチルアミン（TMA）へ還元されることで独特の強い生臭さと腐敗が始まるため、0〜2°Cの極低温保存が必須です。\n\n本記事では、水産庁、USDA、食品医薬品安全処のガイドラインに基づき、ホタテの甘みとプリッとした食感を長期間保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？ 科学的ファクト",
+        "whyDesc": "食材ごとの酵素分解特性や微生物還元反応を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "自己分解酵素とTMAO還元反応による腐敗に注意してください ⚠️",
+            "desc": "ホタテは死後の自己分解酵素作用によってタンパク質組織が急速に崩れます。特にTMAO成分が微生物によりTMAに還元されると嫌な生臭さが発生し細菌繁殖が加速するため、必ず0〜2°Cの極低温を維持してください。"
+          },
+          {
+            "title": "真水（水道水）に浸したままにしたり内臓を残したまま保存しないでください 💧",
+            "desc": "浸透圧の異なる真水に長く浸すと細胞がふやけて旨味成分が流出し腐敗が早まります。保存前は冷たい塩水で優しく洗い、腐敗の原因となるウロ（内臓）をすみやかに取り除いてください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "生ホタテはウロを除去し塩水で洗って極低温冷蔵保存する — 冷蔵保存 (1〜2日間) ❄️",
+            "text": "生のホタテは購入後すぐにウロ（内臓）をきれいに取り除き、冷たい薄い塩水（約3%の海水濃度）で軽く洗って水分を完全に拭き取ります。💡保存のコツ：密閉容器にキッチンペーパーを敷いてホタテを並べ、冷蔵庫のチルド室（0〜2°C）で保存し、1〜2日以内に使い切ってください。"
+          },
+          {
+            "name": "急速冷凍で組織破壊と自己分解を完全に遮断する — 長期冷凍保存 (90〜180日間) 🧊",
+            "text": "2日以上保存する場合は自己分解とTMAの発生を防ぐためすぐに冷凍します。💡保存のコツ：貝柱の水分をペーパーで完全に拭き取り、1回分ずつラップでぴったり包んで冷凍室（-18°C以下）で保存すれば、3〜6ヶ月間プリプリの食感を維持できます。"
+          },
+          {
+            "name": "解凍時は冷蔵解凍または冷塩水解凍でドリップを防ぐ — 科学的解凍法 🧪",
+            "text": "冷凍ホタテを常温や温水で急速解凍すると細胞組織が破壊され旨味成分を含むドリップが流出してしまいます。💡保存のコツ：調理前日に冷蔵庫（0〜4°C）に移して低温でじっくり解凍するか、冷たい塩水に浸して短時間で解凍することで生臭さとドリップを防げます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ホタテから強い生臭さがしますが食べられますか？",
+            "answer": "絶対に食べてはいけません！ホタテの強い生臭さはTMAO成分が微生物によってTMA（トリメチルアミン）へ還元される腐敗のサインです。強い臭いや不快な悪臭がし、身が崩れている場合は細菌が増殖しているため直ちに廃棄してください。"
+          },
+          {
+            "question": "ホタテを保存する際に水分を拭き取りペーパーを敷く理由は何ですか？",
+            "answer": "表面に残った水分は自己分解酵素の 作用を促し微生物増殖の原因となります。水分を拭き取りペーパーを敷くことでドリップ（旨味成分を含む水分）を吸収し、TMAOからTMAへの還元反応を抑えて鮮度を極大化できます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持扇贝（干贝/贝柱）新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解扇贝的最佳储存温度、方式及保鲜时长。",
+        "authority": "美国国家海洋和大气管理局(NOAA) & USDA & 韩国食品医药品安全处(MFDS)",
+        "intro": "您是否曾遇到过买回新鲜扇贝后，稍微存放大意就会散发出浓烈腥味、肉质变得松软无弹性的情况？🦪\n\n扇贝柱（闭壳肌）含有丰富的糖原，且蛋白质组织细嫩，捕捞死后（Post-mortem）自体分解（Autolysis）酶促作用极其迅速。此外，扇贝肌肉及内脏中的氧化三甲胺（TMAO）会被微生物还原为三甲胺（TMA），从而迅速产生特征性的强烈腥臭味并开始腐败，因此必须在0~2°C的极低温下储存。\n\n本指南将基于NOAA、USDA以及韩国MFDS的权威指南，为您带来3步科学保存秘诀，帮您长久锁定扇贝的甘甜鲜味与紧实口感。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解食材固有的酶促分解特性与微生物还原反应并采取正确的储存方法，对于保持鲜度与食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "警惕自体分解酶与TMAO还原反应导致的腐败 ⚠️",
+            "desc": "扇贝死后自体分解酶会迅速破坏蛋白质结构。特别当TMAO被微生物还原为TMA时，会产生令人不适的腥臭味并加速细菌繁殖，因此必须严格保持0~2°C的极低温。"
+          },
+          {
+            "title": "切勿淡水浸泡或保留内脏直接储存 💧",
+            "desc": "将扇贝长时间浸泡在渗透压不同的淡水中会导致细胞吸水膨胀，使鲜味物质流失并加速腐败。储存前请用冷盐水轻轻清洗，并迅速去除易腐败的内脏。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "鲜活扇贝去内脏用盐水清洗后极低温冷藏 — 冷藏储存 (1~2天) ❄️",
+            "text": "鲜活扇贝购买后应立即清除内脏，用冷淡盐水（约3%海水浓度）轻洗，并吸干表面水分。💡储存小贴士：密封盒内铺上厨房纸巾，平铺扇贝，放入冰箱最冷保鲜层（0~2°C），并在1~2天内尽快食用。"
+          },
+          {
+            "name": "迅速冷冻以阻断组织破坏与自体分解 — 长期冷冻保存 (90~180天) 🧊",
+            "text": "保存超过2天时，应立即冷冻以阻止自体分解与TMA的生成。💡储存小贴士：用纸巾彻底吸干扇贝柱水分，按单次食用量用保鲜膜紧密包裹，放入冷冻室（-18°C以下），可保持3~6个月的紧致口感。"
+          },
+          {
+            "name": "解冻时采用冷藏或冷盐水解冻以防汁液流失 — 科学解冻法 🧪",
+            "text": "冷冻扇贝若在常温或温水中快速解冻，会导致细胞破裂，鲜美汁液（Drip loss）大量流失。💡储存小贴士：提前一天移入冰箱冷藏室（0~4°C）缓慢解冻，或浸泡于冷盐水中快速解冻，以防止细胞破坏和腥味产生。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "扇贝散发出很重的腥味，还能吃吗？",
+            "answer": "绝对不能食用！扇贝产生强烈腥味是内脏和肌肉中的TMAO被微生物还原为TMA（三甲胺）的典型腐败信号。如果闻到刺鼻腥臭味或肉质松散软塌，说明细菌已大量滋生，应立即丢弃。"
+          },
+          {
+            "question": "保存扇贝时擦干水分并铺厨房纸巾的原因是什么？",
+            "answer": "残留的水分会促进自体分解酶活性并为微生物滋生提供条件。彻底擦干水分并在密封盒内铺厨房纸巾能吸收析出的汁液，抑制TMAO向TMA的还原反应，从而最大程度延长保鲜期。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener las vieiras (veneras) frescas: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para las vieiras según las directrices oficiales de seguridad.",
+        "authority": "NOAA & USDA & MFDS",
+        "intro": "¿Alguna vez compró vieiras frescas y al poco tiempo en el refrigerador notó que desprendían un olor fuerte a pescado y perdían su textura firme? 🦪\n\nEl músculo aductor de la vieira es rico en glucógeno y posee un tejido proteico delicado, lo que lo hace muy susceptible a una rápida autólisis (Autolysis) enzimática posmórtem. Además, el óxido de trimetilamina (TMAO) presente en la vieira es reducido por bacterias en trimetilamina (TMA), generando un desagradable olor a pescado. Por ello, el almacenamiento a temperatura ultrabaja (0–2 °C) es obligatorio.\n\nEn esta guía se presenta una guía científica en 3 pasos basada en las directrices de la NOAA, el USDA y el MFDS para preservar la dulzura natural y la textura jugosa de las vieiras. 🛡️",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender la autólisis enzimática y la reducción microbiana de TMAO a TMA es clave para mantener la máxima frescura y seguridad de los mariscos.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Prevenga la autólisis acelerada y el olor a TMA microbiano ⚠️",
+            "desc": "La autólisis enzimática degrada rápidamente las proteínas de la vieira tras la captura. La transformación microbiana de TMAO en TMA acelera el deterioro y genera olores intensos a pescado, haciendo obligatorio mantener entre 0 y 2 °C."
+          },
+          {
+            "title": "Evite remojar en agua del grifo o guardar con vísceras 💧",
+            "desc": "Sumergir vieiras en agua dulce altera el equilibrio osmótico, hinchando sus células y eliminando los compuestos de sabor dulce. Lávelas con agua salada fría y retire rápidamente las vísceras antes de guardar."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Eviscere, lave con agua salada y refrigere a baja temperatura — Almacenamiento Refrigerado (1–2 días) ❄️",
+            "text": "Las vieiras frescas deben eviscerarse de inmediato, lavarse suavemente en agua salada fría (3% salinidad) y secarse por completo. 💡 Consejo de almacenamiento: Coloque papel absorbente en un recipiente hermético, disponga las vieiras y guárdelas en la zona más fría (0–2 °C). Consuma en 1 a 2 días."
+          },
+          {
+            "name": "Congele rápidamente para detener la autólisis y el deterioro — Congelación (90–180 días) 🧊",
+            "text": "Para conservar más de 2 días, congele las vieiras de inmediato para frenar la autólisis y la síntesis de TMA. 💡 Consejo de almacenamiento: Seque bien la carne, envuélvala apretada en film plástico en porciones individuales y congele bajo -18 °C. Conserva la textura de 3 a 6 meses."
+          },
+          {
+            "name": "Descongele lentamente en el refrigerador o agua salada fría — Descongelación Científica 🧪",
+            "text": "Descongelar vieiras a temperatura ambiente rompe las estructuras celulares provocando pérdida de exudado (drip) y sabor. 💡 Consejo de almacenamiento: Páselas al refrigerador (0–4 °C) 24 horas antes o sumérjalas envueltas en agua salada fría para mantener intacta su calidad."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mis vieiras huelen muy fuerte a pescado. ¿Siguen siendo aptas para el consumo?",
+            "answer": "¡No, no son aptas! El fuerte olor a pescado es síntoma directo de descomposición microbiana que convierte TMAO en TMA (Trimetilamina). Si las vieiras desprenden un olor penetrante o están pegajosas y blandas, deseche el producto de inmediato."
+          },
+          {
+            "question": "¿Por qué hay que secar las vieiras y colocar papel absorbente en el recipiente?",
+            "answer": "El exceso de humedad en la superficie acelera las enzimas autolíticas y favorece a las bacterias del deterioro. Secar bien las vieiras y ponerlas sobre papel absorbente retiene el exudado, bloqueando la conversión de TMAO en el molesto compuesto TMA."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver les coquilles Saint-Jacques fraîches : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les coquilles Saint-Jacques selon les directives officielles de sécurité.",
+        "authority": "NOAA & USDA & MFDS",
+        "intro": "Avez-vous déjà acheté de délicieuses coquilles Saint-Jacques avant de constater qu'elles dégageaient rapidement une forte odeur de poisson et perdaient leur fermeté au réfrigérateur ? 🦪\n\nLe muscle adducteur de la coquille Saint-Jacques est riche en glycogène et possède des tissus protéiques très délicats, le rendant vulnérable à une autolyse (Autolysis) enzymatique post-mortem rapide. De plus, le N-oxyde de triméthylamine (TMAO) naturellement présent est réduit par des bactéries en triméthylamine (TMA), créant une odeur de poisson fort peu agréable. Un stockage à température ultra-basse (0–2 °C) est donc indispensable.\n\nDans ce guide, nous vous présentons un guide scientifique en 3 étapes basé sur les recommandations de la NOAA, de l'USDA et du MFDS pour préserver leur saveur douce et leur texture nacrée. 🛡️",
+        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre l'autolyse enzymatique et la réduction microbienne du TMAO en TMA est essentiel pour garantir la fraîcheur et la sécurité des produits de la mer.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Évitez l'autolyse rapide et le développement de l'odeur de TMA ⚠️",
+            "desc": "L'autolyse enzymatique dégrade rapidement les protéines du muscle. La décomposition microbienne du TMAO en TMA accélère le rancissement et dégage une odeur piquante. Un contrôle strict entre 0 et 2 °C est obligatoire."
+          },
+          {
+            "title": "Ne trempez pas dans l'eau du robinet et ne gardez pas les visceres 💧",
+            "desc": "Rincer les Saint-Jacques à l'eau douce perturbe l'équilibre osmotique, fait gonfler les cellules et extrait les composés aromatiques. Rincez doucement à l'eau salée froide et retirez le corail/viscères si vous souhaitez les conserver."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Éviscérer, rincer à l'eau salée et réfrigérer au très froid — Stockage Réfrigéré (1–2 jours) ❄️",
+            "text": "Les noix de Saint-Jacques fraîches doivent être éviscérées, rincées à l'eau salée froide (3 % de salinité) et bien séchées. 💡 Astuce de conservation : Tapissez un conteneur hermétique de papier absorbant, déposez les noix et placez-les dans la zone la plus froide (0–2 °C). À consommer sous 1 à 2 jours."
+          },
+          {
+            "name": "Congeler rapidement pour stopper l'autolyse et la dégradation — Congélation (90–180 jours) 🧊",
+            "text": "Pour conserver plus de 2 jours, congelez immédiatement les Saint-Jacques afin de stopper l'autolyse et la production de TMA. 💡 Astuce de conservation : Séchez parfaitement les noix, emballez-les sous film individuel et congelez sous -18 °C. La texture est préservée 3 à 6 mois."
+          },
+          {
+            "name": "Décongeler lentement au réfrigérateur ou dans l'eau salée froide — Décongélation Scientifique 🧪",
+            "text": "Décongeler les Saint-Jacques à température ambiante détruit les membranes cellulaires et entraîne une perte d'exudat (drip) riche en saveur. 💡 Astuce de conservation : Transférez au réfrigérateur (0–4 °C) 24h avant cuisson ou immergez-les emballées dans de l'eau salée froide."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mes coquilles Saint-Jacques ont une forte odeur de poisson. Sont-elles encore consommables ?",
+            "answer": "Non, elles ne sont plus propres à la consommation ! L'odeur forte de poisson est le signe direct que les bactéries ont transformé le TMAO en TMA (Triméthylamine). Si elles sentent fort ou deviennent gluantes et molles, jetez-les immédiatement."
+          },
+          {
+            "question": "Pourquoi est-il nécessaire de sécher les Saint-Jacques et d'utiliser du papier absorbant ?",
+            "answer": "L'humidité de surface accélère les enzymes d'autolyse et favorise la multiplication bactérienne. Sécher les noix et utiliser du papier absorbant permet de capturer les jus (drip loss), bloquant ainsi la formation du composé odorant TMA."
+          }
+        ]
+      },
+      "de": {
+        "title": "Jakobsmuscheln richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Jakobsmuscheln basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "NOAA & USDA & MFDS",
+        "intro": "Haben Sie schon einmal edle Jakobsmuscheln gekauft und nach kurzer Zeit im Kühlschrank festgestellt, dass sie fischig rochen und ihre feste Struktur verloren hatten? 🦪\n\nDas Muschelfleisch (Schließmuskel) der Jakobsmuschel ist reich an Glykogen und besitzt sehr zartes Proteingewebe. Dadurch unterliegt es einer extrem schnellen postmortalen Autolyse (Autolysis) durch körpereigene Enzyme. Zudem wird enthaltenes Trimethylamin-N-oxid (TMAO) von Bakterien zu Trimethylamin (TMA) reduziert, was einen stechenden Fischgeruch erzeugt. Eine Lagerung bei 0–2 °C ist daher zwingend erforderlich.\n\nIn diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von NOAA, USDA und MFDS basiert, um den süßlichen Geschmack und die feine Textur zu bewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der enzymatischen Autolyse und der mikrobiellen Reduktion von TMAO zu TMA ist entscheidend für maximale Frische und Lebensmittelsicherheit.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Schnelle Autolyse und mikrobiellen TMA-Fischgeruch verhindern ⚠️",
+            "desc": "Enzymatische Autolyse baut das Muscheleiweiß nach dem Fang rasch ab. Der mikrobielle Abbau von TMAO zu TMA beschleunigt den Verderb und erzeugt unangenehme Gerüche. Eine Kühlung bei 0–2 °C ist Pflicht."
+          },
+          {
+            "title": "Süßwasserspülung vermeiden und Eingeweide sofort entfernen 💧",
+            "desc": "Das Einlegen in Leitungswasser zerstört das osmotische Gleichgewicht, lässt Zellen aufquellen und laugt Aromen aus. Waschen Sie das Muschelfleisch nur vorsichtig mit kaltem Salzwasser und entfernen Sie Eingeweide zügig."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Ausnehmen, mit Salzwasser spülen und extrem kalt lagern — Kühlaufbewahrung (1–2 Tage) ❄️",
+            "text": "Frische Jakobsmuscheln sofort ausnehmen, in kaltem leichtem Salzwasser (~3 % Salzgehalt) waschen und gründlich trockentupfen. 💡 Lagerungstipp: Ein Gefäß mit Küchenpapier auslegen, Muscheln darauflegen und im kältesten Fach (0–2 °C) aufbewahren. Innerhalb von 1 bis 2 Tagen verbrauchen."
+          },
+          {
+            "name": "Schockfrieren zur Stoppung von Autolyse und Zellzerfall — Gefrierlagerung (90–180 Tage) 🧊",
+            "text": "Müssen die Muscheln länger als 2 Tage aufbewahrt werden, frieren Sie sie sofort ein. 💡 Lagerungstipp: Muschelfleisch komplett trocknen, portioniert stramm in Folie wickeln und unter -18 °C einfrieren. Hält die Struktur 3 bis 6 Monate frisch."
+          },
+          {
+            "name": "Langsam im Kühlschrank oder kaltem Salzwasser auftauen — Wissenschaftliches Auftauen 🧪",
+            "text": "Das Auftauen bei Raumtemperatur zerstört Zellwände und führt zu hohem Tropfverlust (Drip loss) und Geschmacksverlust. 💡 Lagerungstipp: 24 Stunden vor der Zubereitung in den Kühlschrank (0–4 °C) legen oder verpackt in kaltem Salzwasser auftauen."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Meine Jakobsmuscheln riechen stark fischig. Kann ich sie noch zubereiten?",
+            "answer": "Nein, auf keinen Fall! Ein starker Fischgeruch ist ein direktes Anzeichen dafür, dass Bakterien TMAO zu stechendem TMA (Trimethylamin) abgebaut haben. Wenn die Muscheln unangenehm riechen oder schmierig-weich sind, entsorgen Sie sie sofort."
+          },
+          {
+            "question": "Warum muss man Jakobsmuscheln trocknen und Küchenpapier unterlegen?",
+            "answer": "Oberflächenfeuchtigkeit beschleunigt autolytische Enzyme und bietet Nährboden für Verderbnisbakterien. Durch gründliches Trocknen und Unterlegen von Küchenpapier wird austretender Zellsaft gebunden und die TMA-Bildung unterdrückt."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar vieiras frescas: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para vieiras com base em diretrizes oficiais de segurança.",
+        "authority": "NOAA & USDA & MFDS",
+        "intro": "Você já comprou vieiras frescas e, após pouco tempo na geladeira, percebeu que elas desenvolveram um cheiro forte de peixe e perderam a firmeza? 🦪\n\nO músculo adutor da vieira é rico em glicogênio e possui um tecido proteico delicado, tornando-a muito suscetível a uma rápida autólise (Autolysis) enzimática pós-morte. Além disso, o óxido de trimetilamina (TMAO) presente na vieira é reduzido por bactérias em trimetilamina (TMA), gerando um odor desagradável. Por isso, o armazenamento em temperatura ultrabaixa (0–2 °C) é essencial.\n\nNeste guia, apresentamos um guia científico em 3 etapas baseado em diretrizes da NOAA, USDA e MFDS para preservar a doçura natural e a textura macia das suas vieiras. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Compreender a autólise enzimática e a redução microbiana do TMAO em TMA é crucial para manter a máxima frescura e segurança dos frutos do mar.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Evite a autólise rápida e a formação microbiana do odor de TMA ⚠️",
+            "desc": "A autólise enzimática degrada rapidamente as proteínas da vieira. A transformação microbiana de TMAO em TMA acelera a deterioração e gera odores fortes de peixe, tornando obrigatório manter a temperatura entre 0 e 2 °C."
+          },
+          {
+            "title": "Evite lavar em água corrente ou guardar com vísceras 💧",
+            "desc": "Lavar vieiras em água doce altera o equilíbrio osmótico, fazendo as células incharem e perderem o sabor adocicado. Lave delicadamente em água salgada fria e remova as vísceras antes de guardar."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Eviscere, lave com água salgada e refrigere a ultrabaixa temperatura — Armazenamento refrigerado (1–2 dias) ❄️",
+            "text": "Vieiras frescas devem ser evisceradas imediatamente, lavadas em água salgada fria (3% de salinidade) e bem secas. 💡 Dica de conservação: Forre um pote hermético com papel-toalha, coloque as vieiras e guarde no local mais frio da geladeira (0–2 °C). Consuma em 1 a 2 dias."
+          },
+          {
+            "name": "Congele rapidamente para interromper a autólise e a degradação — Congelamento (90–180 dias) 🧊",
+            "text": "Se for guardar por mais de 2 dias, congele as vieiras imediatamente para parar a autólise e a síntese de TMA. 💡 Dica de conservação: Seque bem a carne, embale firmemente em filme plástico em porções individuais e congele abaixo de -18 °C. Preserva a textura por 3 a 6 meses."
+          },
+          {
+            "name": "Descongele lentamente na geladeira ou em água salgada fria — Descongelamento Científico 🧪",
+            "text": "Descongelar vieiras em temperatura ambiente rompe as células e causa grande perda de suco (drip) e sabor. 💡 Dica de conservação: Passe para a geladeira (0–4 °C) 24 horas antes do preparo ou mergulhe-as embaladas em água salgada fria."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Minhas vieiras estão com um cheiro forte de peixe. Ainda posso comer?",
+            "answer": "Não, absolutamente não! O cheiro forte de peixe é sinal direto de deterioração microbiana que converteu TMAO em TMA (Trimetilamina). Se apresentarem cheiro forte ou textura pegajosa e mole, descarte-as imediatamente."
+          },
+          {
+            "question": "Por que é preciso secar as vieiras e colocar papel-toalha no pote?",
+            "answer": "A umidade na superfície acelera as enzimas autolíticas e favorece a proliferação de bactérias. Secar bem as vieiras e usar papel-toalha absorve os líquidos (drip loss), bloqueando a conversão de TMAO no composto desagradável TMA."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Kerang Simping (Scallop) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk kerang simping (scallop) berdasarkan pedoman keselamatan resmi.",
+        "authority": "NOAA & USDA & MFDS",
+        "intro": "Pernahkah Anda membeli daging kerang simping (scallop) yang segar lalu mendapati baunya berubah amis dan teksturnya menjadi lembek setelah disimpan sebentar di kulkas? 🦪\n\nDaging otot aduktor scallop kaya akan glikogen dan memiliki jaringan protein yang lembut, membuatnya sangat rentan terhadap autolisis (Autolysis) enzimatis pascamati yang cepat. Selain itu, kandungan Trimetilamina N-oksida (TMAO) pada kerang diubah oleh bakteri menjadi Trimetilamina (TMA) yang memicu bau amis menyengat. Oleh karena itu, penyimpanan suhu sangat dingin pada 0–2°C sangat wajib dilakukan.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman resmi NOAA, USDA, dan MFDS untuk menjaga rasa manis alami dan tekstur kenyal scallop Anda. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami autolisis enzimatis dan reduksi mikroba dari TMAO menjadi TMA sangat penting untuk menjaga kesegaran dan keamanan pangan laut.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Cegah autolisis cepat dan pembentukan bau amis TMA oleh bakteri ⚠️",
+            "desc": "Autolisis enzimatis merusak protein scallop dengan cepat setelah ditangkap. Perubahan TMAO menjadi TMA oleh mikroba mempercepat pembusukan dan menimbulkan bau amis tajam. Pengendalian suhu ketat pada 0–2°C sangat wajib."
+          },
+          {
+            "title": "Hindari merendam dalam air tawar dan jangan simpan bersama jeroannya 💧",
+            "desc": "Merendam scallop dalam air tawar merusak keseimbangan osmotik, membuat sel membengkak dan senyawa rasa manisnya hilang. Cuci lembut dengan air garam dingin dan segera buang jeroannya sebelum disimpan."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Buang jeroan, cuci dengan air garam, dan simpan di suhu sangat dingin — Simpan Kulkas (1–2 Hari) ❄️",
+            "text": "Scallop segar harus segera dibuang jeroannya, dicuci lembut dengan air garam dingin (kadar garam ~3%), dan dikeringkan sepenuhnya. 💡 Tips Penyimpanan: Lapisi wadah kedap udara dengan tisu dapur, tata scallop, lalu simpan di bagian kulkas paling dingin (0–2°C). Konsumsi dalam 1 hingga 2 hari."
+          },
+          {
+            "name": "Bekukan dengan cepat untuk menghentikan autolisis dan kerusakan sel — Simpan Beku (90–180 Hari) 🧊",
+            "text": "Jika disimpan lebih dari 2 hari, segera bekukan scallop untuk menghentikan autolisis dan pembentukan TMA. 💡 Tips Penyimpanan: Keringkan daging scallop, bungkus rapat dengan plastik wrap per porsi, lalu simpan di freezer di bawah -18°C. Tekstur kenyalnya terjaga 3 hingga 6 bulan."
+          },
+          {
+            "name": "Cairkan perlahan di kulkas atau air garam dingin — Pencairan Ilmiah 🧪",
+            "text": "Mencairkan scallop beku di suhu ruang merusak struktur sel sehingga rasa dan cairan lezatnya (drip loss) terbuang. 💡 Tips Penyimpanan: Pindahkan ke kulkas (0–4°C) 24 jam sebelum dimasak, atau rendam scallop yang terbungkus rapat dalam air garam dingin."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Scallop saya berbau amis sangat tajam. Apakah masih aman dimasak?",
+            "answer": "Tidak aman! Bau amis yang tajam adalah tanda pasti pembusukan akibat bakteri yang mengubah TMAO menjadi TMA (Trimetilamina). Jika scallop berbau menyengat atau terasa lembek dan berlendir, segera buang."
+          },
+          {
+            "question": "Mengapa scallop harus dikeringkan dan wadahnya dilapisi tisu dapur?",
+            "answer": "Sisa air di permukaan mempercepat enzim autolisis dan menjadi media berkembang biak bagi bakteri pembusuk. Mengeringkan scallop dan melapisi wadah dengan tisu dapur akan menyerap sisa cairan (drip loss), sehingga menekan pembentukan senyawa bau TMA."
+          }
+        ]
+      }
     }
+  }
 }

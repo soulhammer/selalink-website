@@ -1,406 +1,406 @@
 {
-    "how-to-store-lamb": {
-        "ingId": "lamb",
-        "pubDate": "2026-01-15",
-        "updatedDate": "2026-01-15",
-        "heroImage": "/images/blog/lamb_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "양고기 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 양고기의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS)",
-                "intro": "특유의 풍미와 부드러운 식감으로 사랑받는 양고기를 사 왔는데, 금방 색이 변하거나 냄새가 진해져 고민해 본 적 있으시죠? 🥩\n\n양고기는 단백질과 수분 함량이 높아 세균 증식과 지방 산화에 매우 취약한 식재료입니다. 특히 잘못 보관하면 잡내가 심해지고 육즙 손실(Drip)이 발생하여 맛과 영양이 크게 저하됩니다.\n\n이번 가이드에서는 미국 농무부(USDA)와 식품의약품안전처(MFDS)의 검증된 안전 가이드라인을 바탕으로, 양고기의 신선함과 육즙을 오래 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "보관 전 양고기를 물로 씻지 마세요 🚫",
-                        "desc": "생양고기를 물로 씻으면 물방울이 튀면서 싱크대와 주변 식재료로 교차 오염(세균 확산)이 일어날 수 있으며, 고기 표면의 수분이 세균 번식을 촉진합니다. 핏물이나 이물질은 키친타월로 가볍게 눌러 닦아내세요."
-                    },
-                    {
-                        "title": "냉장고 최하단 선반에 교차 오염을 차단하여 보관하세요 🥩",
-                        "desc": "양고기에서 흘러나오는 핏물(육즙)에는 교차 오염을 유발하는 세균이 포함되어 있을 수 있습니다. 다른 익힌 음식이나 채소에 육즙이 떨어지지 않도록 밀폐 용기에 담아 냉장고 가장 아래쪽 선반에 보관하세요."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "핏물 제거 후 랩으로 밀착 포장하기 — 핏물 닦기 & 산소 차단 📦",
-                        "text": "양고기 표면의 핏물은 잡내와 부패의 주원인이 되며, 공기 중 산소와 만나면 지방이 쉽게 산화됩니다. 💡 보관 팁: 키친타월로 표면의 수분과 핏물을 닦아낸 후, 식품용 랩으로 공기가 통하지 않게 고기를 한 덩이씩 빈틈없이 밀착 포장해 주세요. 변색과 수분 증발을 완벽히 막아줍니다."
-                    },
-                    {
-                        "name": "0~2℃ 신선실 저온 냉장 보관하기 — 냉장 보관 (3~5일) ❄️",
-                        "text": "온도가 높을수록 고기의 호흡 작용과 미생물 증식이 급격히 증가합니다. 💡 보관 팁: 양고기는 냉장고 안쪽 깊은 곳이나 신선실(육류 전용칸, 0~2℃)에 보관하세요. 구이용/정육은 3~5일, 다진 양고기는 1~2일 이내에 조리해 드시는 것이 안전합니다."
-                    },
-                    {
-                        "name": "이중 밀봉 후 냉동 보관하기 — 냉동 보관 (4~9개월) 🧊",
-                        "text": "장기 보관 시에는 1회 먹을 분량으로 나누어 밀착 포장한 뒤 지퍼백이나 진공 포장지로 이중 밀봉합니다. 💡 보관 팁: 냉동실(-18℃ 이하)에 보관하면 4~9개월 동안 신선도를 유지할 수 있습니다. 해동 시에는 성급히 상온에 두지 말고 냉장실에서 천천히 해동해야 육즙 손실을 줄일 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "양고기 색이 갈색이나 어두운빛으로 변했는데 먹어도 되나요?",
-                        "answer": "공기(산소)가 차단된 밀폐 상태에서는 고기 속 미오글로빈 성분 때문에 어두운 갈색으로 변할 수 있습니다. 포장을 벗겨 산소와 접촉했을 때 15~30분 내로 다시 선홍색으로 돌아온다면 정상입니다. 단, 퀴퀴한 변질 냄새가 나거나 표면이 끈적거린다면 부패한 것이므로 폐기해야 합니다."
-                    },
-                    {
-                        "question": "냉동 양고기는 어떻게 해동하는 것이 가장 좋은가요?",
-                        "answer": "가장 좋은 방법은 사용 12~24시간 전에 냉장실로 옮겨 천천히 해동하는 '냉장 해동'입니다. 급할 경우 밀봉된 상태로 찬물에 담가 해동하세요. 상온 해동이나 뜨거운 물 해동은 세균 증식과 육즙 손실을 유발하므로 피해야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Lamb Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for lamb based on official safety guidelines.",
-                "authority": "USDA & MFDS",
-                "intro": "Have you ever bought lamb for its rich flavor and tender texture, only to worry about it darkening quickly or developing a strong odor in the fridge? 🥩\n\nLamb is high in protein and moisture, making it particularly vulnerable to bacterial growth and lipid oxidation. Improper storage leads to stronger unpleasant odors and drip loss (loss of meat juices), significantly degrading its flavor and nutrition.\n\nIn this guide, introduces a scientifically proven 3-step storage guide based on safety guidelines from the USDA and MFDS to keep your lamb juicy, flavorful, and fresh for longer. 🛡️",
-                "whyTitle": "Why Store Lamb This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Do not wash raw lamb before storing 🚫",
-                        "desc": "Washing raw lamb causes water splatters that spread bacteria across your sink and surrounding food (cross-contamination). Additionally, excess surface moisture accelerates bacterial growth. Lightly pat the surface dry with paper towels instead."
-                    },
-                    {
-                        "title": "Store on the bottom refrigerator shelf to prevent cross-contamination 🥩",
-                        "desc": "Juices dripping from raw lamb can carry bacteria that cause cross-contamination. Place the meat in an airtight container on the lowest shelf of your refrigerator to prevent juices from dripping onto cooked foods or produce."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Pat dry and wrap tightly with plastic wrap — Wipe Juices & Block Oxygen 📦",
-                        "text": "Surface moisture and residual blood are primary causes of odors and spoilage, while oxygen exposure rapidly oxidizes fats. 💡 Storage Tip: Pat the surface dry with paper towels, then tightly wrap each cut individually with plastic wrap without leaving air pockets to prevent discoloration and moisture loss."
-                    },
-                    {
-                        "name": "Refrigerate in the meat drawer at 0–2°C — Cold Storage (3–5 Days) ❄️",
-                        "text": "Higher temperatures dramatically accelerate microbial growth and meat degradation. 💡 Storage Tip: Keep lamb in the coldest part of the fridge or the dedicated meat drawer (0–2°C). Cook chops, steaks, and roasts within 3–5 days, and ground lamb within 1–2 days."
-                    },
-                    {
-                        "name": "Double seal and freeze — Frozen Storage (4–9 Months) 🧊",
-                        "text": "For long-term storage, portion the wrapped meat into single meals and double seal in freezer Ziploc bags or vacuum bags. 💡 Storage Tip: Freeze below -18°C to maintain freshness for 4–9 months. Always thaw slowly in the refrigerator rather than at room temperature to minimize juice loss."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "My lamb turned brownish or dark. Is it still safe to eat?",
-                        "answer": "When sealed without oxygen, myoglobin in meat naturally causes a brownish or dark discoloration. If the meat regains a bright red color within 15–30 minutes after exposure to air, it is completely safe. However, if it smells sour or feels slimy, it has spoiled and should be discarded."
-                    },
-                    {
-                        "question": "What is the best way to thaw frozen lamb?",
-                        "answer": "The safest and best method is slow refrigeration, moving the meat to the fridge 12–24 hours before cooking. If you are in a rush, submerge the sealed meat in cold water. Avoid room temperature or hot water thawing, as these trigger rapid bacterial growth and heavy drip loss."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ラム肉（羊肉）を新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくラム肉の最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "独特の風味と柔らかい食感で人気のラム肉を買ってきたものの、すぐに色が変色したりニオイが強くなったりして困った経験はありませんか？🥩\n\nラム肉はタンパク質と水分が多く含まれており、細菌の繁殖や脂質の酸化に非常に弱い食材です。適切に保存しないとクセや臭みが強くなり、ドリップ（旨味成分を含む肉汁）が流出して味や栄養が大きく損なわれます。\n\n本記事では、米国農務省（USDA）および食品医薬品安全処（MFDS）のガイドラインに基づき、ラム肉の鮮度と旨味を長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "保存前に生ラム肉を水で洗わないでください 🚫",
-                        "desc": "生のラム肉を水で洗うと、水滴が跳ねてシンクや周囲の食材に細菌が飛散し（二次汚染）、表面の水分が細菌の繁殖を促進します。ドリップや汚れはキッチンペーパーで軽く押さえて拭き取ってください。"
-                    },
-                    {
-                        "title": "冷蔵庫の最下段で二次汚染を防いで保存してください 🥩",
-                        "desc": "ラム肉から出るドリップ（肉汁）には食中毒の原因となる細菌が含まれている可能性があります。他の加熱調理済み食品や野菜に肉汁がかからないよう、密閉容器に入れて冷蔵庫の一番下の棚に保存してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "水分を拭き取りラップで密着包装する — ドリップ除去＆酸素遮断 📦",
-                        "text": "肉の表面に残ったドリップは臭みや傷みの主な原因となり、空気中の酸素と触れると脂質が酸化しやすくなります。💡保存のコツ：キッチンペーパーで表面の水分を拭き取った後、ラップで空気が入らないよう1塊ずつ隙間なくぴったり包んで変色と乾燥を防ぎます。"
-                    },
-                    {
-                        "name": "0〜2℃のパーシャル室・チルド室で保存する — 冷蔵保存 (3〜5日間) ❄️",
-                        "text": "温度が高くなると細菌の繁殖や肉の劣化が急激に進みます。💡保存のコツ：ラム肉は冷蔵庫の奥やチルド室（肉類専用室、0〜2℃）で保存してください。ステーキ・焼き肉用は3〜5日以内、ひき肉は1〜2日以内に調理してお召し上がりください。"
-                    },
-                    {
-                        "name": "二重密閉して冷凍保存する — 冷冷凍保存 (4〜9ヶ月間) 🧊",
-                        "text": "長期保存する場合は、1回分ずつラップで包み、冷凍用ジッパーバッグや真空パックで二重密閉します。💡保存のコツ：-18℃以下の冷凍室で保存すると4〜9ヶ月間鮮度を保てます。解凍時は常温で急激に戻さず、冷蔵室でゆっくり解凍することで旨味成分の流出を抑えられます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "ラム肉の色が変色して黒っぽくなっていますが、食べられますか？",
-                        "answer": "酸素が遮断された密閉状態では、肉に含まれるミオグロビンという成分の影響で黒っぽい褐色に変色することがあります。パックを開けて空気（酸素）に触れてから15〜30分程度で鮮やかな赤色に戻れば問題ありません。ただし、酸っぱく嫌なニオイがしたり表面がネバつく場合は傷んでいるため廃棄してください。"
-                    },
-                    {
-                        "question": "冷凍したラム肉の解凍方法は何が一番良いですか？",
-                        "answer": "最もおすすめなのは、調理の12〜24時間前に冷蔵室へ移してゆっくり解凍する「冷蔵解凍」です。急ぐ場合は密閉した状態で氷水や冷水に浸して解凍してください。常温解凍や熱湯での解凍は、細菌の増殖やドリップの大量流出につながるため避けてください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持羊肉新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解羊肉的最佳储存温度、方式和保鲜时长。",
-                "authority": "美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "您是否曾因为买回家的羊肉口感鲜嫩却很快变色或散发浓重异味而感到苦恼？🥩\n\n羊肉富含蛋白质和水分，极易滋生细菌并发生脂肪氧化。如果储存不当，不仅异味会加重，还会导致肉汁（Drip）流失，严重破坏口感与营养价值。\n\n本指南基于美国农务部(USDA)和韩国食品医药品安全处(MFDS)的安全指南，为您带来3步科学保存秘诀，帮您锁住羊肉的鲜嫩肉汁与美味。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "储存前切勿用水清洗生羊肉 🚫",
-                        "desc": "用水清洗生羊肉时，水花飞溅会将细菌散播至水槽及周围食材（引发交叉污染），且表面的残留水分会加速细菌滋生。请使用厨房纸巾轻压吸干表面血水与水分。"
-                    },
-                    {
-                        "title": "存放在冰箱最下层隔板以防交叉污染 🥩",
-                        "desc": "生羊肉流出的血水（肉汁）可能含有致病菌。请将其装入密封保鲜盒，存放在冰箱最底层的隔板上，防止血水滴落到熟食或新鲜蔬果上。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "吸干血水后用保鲜膜紧密包裹 — 清除血水与阻绝氧气 📦",
-                        "text": "羊肉表面的血水是产生异味和变质的主因，接触空气中的氧气还会导致油脂氧化。💡储存小贴士：用厨房纸巾擦干表面水分和血水后，用食品级保鲜膜将每块羊肉无缝紧密包裹，可有效防止变色和水分蒸发。"
-                    },
-                    {
-                        "name": "在0~2℃冰鲜室/保鲜抽屉冷藏 — 冷藏储存 (3~5天) ❄️",
-                        "text": "温度越高，微生物滋生与肉质劣化的速度越快。💡储存小贴士：请将羊肉存放在冰箱内侧深处或专用冰鲜室（0~2℃）。羊排、羊肉块建议在3~5天内食用完，羊肉馅（碎肉）请在1~2天内烹饪完毕。"
-                    },
-                    {
-                        "name": "双层密封后冷冻保存 — 冷冻储存 (4~9个月) 🧊",
-                        "text": "如需长期保存，按单次食用量分装包裹后，装入冷冻拉链袋或真空袋中进行双层密封。💡储存小贴士：在-18℃ banner以下的冷冻室中可保鲜4~9个月。解冻时请提前放入冷藏室缓缓解冻，切勿常温解冻，以减少肉汁流失。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "羊肉颜色发暗变褐，还能食用吗？",
-                        "answer": "在缺氧密封状态下，羊肉中的肌红蛋白会导致肉质呈现暗褐色。拆开包装接触空气（氧气）15~30分钟后，若能恢复鲜红色则完全正常。但如果散发出酸臭异味或表面发粘，说明已经变质，应立即丢弃。"
-                    },
-                    {
-                        "question": "冷冻羊肉的最佳解冻方法是什么？",
-                        "answer": "最佳方法是在烹饪前12~24小时将羊肉移至冷藏室缓慢解冻（冷藏解冻）。如需快速解冻，可保持密封状态浸泡在冷水中。切忌常温解冻或用热水冲泡，以免引发细菌大量滋生和肉汁严重流失。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener la carne de cordero fresca: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la carne de cordero según las directrices oficiales de seguridad.",
-                "authority": "USDA & MFDS",
-                "intro": "¿Alguna vez compró carne de cordero por su sabor rico y textura tierna, solo para ver cómo se oscurecía rápidamente o desarrollaba un olor fuerte en el refrigerador? 🥩\n\nEl cordero es una carne rica en proteínas y agua, lo que la hace altamente vulnerable a la proliferación bacteriana y la oxidación de grasas. Un almacenamiento inadecuado intensifica los olores desagradables y causa la pérdida de jugos (drip loss), deteriorando su sabor y valor nutricional.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por el USDA y el MFDS para mantener la jugosidad y frescura de su carne de cordero por más tiempo. 🛡️",
-                "whyTitle": "¿Por qué almacenarla así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "No lave la carne de cordero cruda antes de guardarla 🚫",
-                        "desc": "Lavar el cordero crudo genera salpicaduras que extienden bacterias por el fregadero y alimentos cercanos (contaminación cruzada). Además, la humedad superficial acelera el crecimiento de microbios. Limpie suavemente con papel absorbente en su lugar."
-                    },
-                    {
-                        "title": "Guarde en el estante inferior del refrigerador para evitar contaminación cruzada 🥩",
-                        "desc": "Los jugos que gotean del cordero crudo contienen bacterias dañinas. Coloque la carne dentro de un recipiente hermético en el estante más bajo del refrigerador para evitar que los jugos caigan sobre alimentos cocinados o vegetales."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Seque los jugos y envuelva firmemente con film plástico — Eliminar jugos y bloquear oxígeno 📦",
-                        "text": "Los jugos acumulados en la superficie provocan mal olor y descomposición, mientras que el oxígeno oxida las grasas. 💡 Consejo de almacenamiento: Seque la superficie con papel absorbente y envuelva cada pieza firmemente con film plástico sin dejar bolsas de aire para evitar la decoloración y deshidratación."
-                    },
-                    {
-                        "name": "Refrigere en el cajón de carnes a 0-2 °C — Almacenamiento refrigerado (3 a 5 días) ❄️",
-                        "text": "A temperaturas más altas, las bacterias se multiplican rápidamente. 💡 Consejo de almacenamiento: Coloque el cordero en la parte más fría o cajón especial para carnes (0-2 °C). Consuma los cortes o chuletas en 3 a 5 días, y la carne molida en 1 o 2 días."
-                    },
-                    {
-                        "name": "Congele con doble sellado — Almacenamiento congelado (4 a 9 meses) 🧊",
-                        "text": "Para una conservación prolongada, envuelva las porciones individuales y colóquelas en bolsas para congelar con cierre Ziploc o al vacío. 💡 Consejo de almacenamiento: Mantenga a menos de -18 °C para conservar la frescura de 4 a 9 meses. Descongele lentamente en el refrigerador."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "La carne de cordero se puso marrón o oscura. ¿Aún se puede comer?",
-                        "answer": "En un empaque sellado sin oxígeno, la mioglobina de la carne adquiere naturalmente un tono marrón oscuro. Si recupera un color rojo brillante a los 15-30 minutos de abrir el empaque y exponerse al aire, es completamente segura. Si tiene olor agrio o superficie pegajosa, debe desecharse."
-                    },
-                    {
-                        "question": "¿Cuál es la mejor manera de descongelar la carne de cordero?",
-                        "answer": "El método más seguro es la descongelación lenta en el refrigerador durante 12-24 horas antes de cocinar. Para descongelar rápidamente, sumerja el empaque sellado en agua fría. Evite el agua caliente o la temperatura ambiente, ya que disparan el crecimiento bacteriano."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver la viande d'agneau fraîche : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la viande d'agneau selon les directives officielles de sécurité.",
-                "authority": "USDA & MFDS",
-                "intro": "Avez-vous déjà acheté de la viande d'agneau pour sa saveur riche et sa texture tendre, pour constater qu'elle s'assombrissait rapidement ou développait une odeur fort désagréable au réfrigérateur ? 🥩\n\nL'agneau est une viande riche en protéines et en eau, ce qui la rend particulièrement vulnérable à la prolifération bactérienne et à l'oxydation des graisses. Un stockage inadéquat renforce les mauvaises odeurs et entraîne une perte de jus (exsudat), altérant ses qualités gustatives et nutritionnelles.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et du MFDS pour préserver la fraîcheur et la tendreté de votre viande d'agneau. 🛡️",
-                "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne lavez jamais la viande d'agneau crue avant de la stocker 🚫",
-                        "desc": "Laver l'agneau cru provoque des projections d'eau qui propagent les bactéries sur l'évier et les aliments environnants (contamination croisée). De plus, l'humidité résiduelle favorise le développement bactérien. Épongez délicatement avec du papier absorbant."
-                    },
-                    {
-                        "title": "Stockez sur l'étagère inférieure du réfrigérateur pour éviter la contamination croisée 🥩",
-                        "desc": "Le jus qui s'écoule de l'agneau cru contient des bactéries pathogènes. Placez la viande dans une boîte hermétique sur l'étagère la plus basse du réfrigérateur pour empêcher le jus de couler sur les plats cuisinés ou les légumes."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Éponger le jus et envelopper hermétiquement de film étirable — Retrait du jus & Blocage de l'oxygène 📦",
-                        "text": "Le jus accumulé à la surface favorise le rancissement et les odeurs, tandis que l'oxygène altère les graisses. 💡 Astuce de conservation : Épongez la surface avec du papier absorbant, puis enveloppez chaque morceau de film plastique sans laisser de bulles d'air pour éviter la décoloration."
-                    },
-                    {
-                        "name": "Réfrigérer dans le bac à viande à 0–2 °C — Stockage réfrigéré (3 à 5 jours) ❄️",
-                        "text": "Plus la température est élevée, plus les bactéries se développent vite. 💡 Astuce de conservation : Conservez l'agneau dans la zone la plus froide ou le compartiment à viande (0–2 °C). Consommez les côtelettes ou rôti sous 3 à 5 jours, et la viande hachée sous 1 à 2 jours."
-                    },
-                    {
-                        "name": "Double scellage et congélation — Stockage congelé (4 à 9 mois) 🧊",
-                        "text": "Pour une conservation à long terme, enveloppez des portions individuelles puis placez-les dans des sacs congélation Ziploc ou sous vide. 💡 Astuce de conservation : Congelez à moins de -18 °C pour maintenir la fraîcheur pendant 4 à 9 mois. Décongelez lentement au réfrigérateur."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "La viande d'agneau est devenue brunâtre ou sombre. Est-elle encore propre à la consommation ?",
-                        "answer": "Dans un emballage hermétique sans oxygène, la myoglobine présente dans la viande donne naturellement une couleur brunâtre. Si la viande retrouve une belle couleur rouge vif dans les 15 à 30 minutes après l'ouverture, elle est sans danger. Si elle dégage une odeur sûre ou devient poisseuse, jetez-la."
-                    },
-                    {
-                        "question": "Quelle est la meilleure méthode pour décongeler de la viande d'agneau ?",
-                        "answer": "La méthode optimale est la décongélation lente au réfrigérateur pendant 12 à 24 heures avant la cuisson. En cas d'urgence, plongez le sachet scellé dans de l'eau froide. Évitez l'eau chaude ou la température ambiante qui favorisent la prolifération bactérienne."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Lammfleisch richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Lammfleisch basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "USDA & MFDS",
-                "intro": "Haben Sie schon einmal Lammfleisch wegen seines köstlichen Geschmacks gekauft, nur um festzustellen, dass es im Kühlschrank schnell nach dunkelte oder einen strengen Geruch entwickelte? 🥩\n\nLammfleisch ist sehr eiweiß- und wasserreich, wodurch es extrem anfällig für Bakterienwachstum und Fettoxidation ist. Unsachgemäße Lagerung verstärkt unangenehme Gerüche und führt zu Fleischsaftverlust (Drip-Verlust), was Geschmack und Nährstoffe beeinträchtigt.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Sicherheitsrichtlinien von USDA und MFDS basiert, um die Saftigkeit und Frische Ihres Lammfleischs lange zu bewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Rohes Lammfleisch vor der Lagerung niemals waschen 🚫",
-                        "desc": "Das Waschen von rohem Fleisch führt zu Spritzwasser, das Bakterien auf Spüle und umliegende Lebensmittel überträgt (Kreuzkontamination). Zudem fördert Oberflächenfeuchtigkeit das Bakterienwachstum. Tupfen Sie das Fleisch stattdessen mit Küchenpapier ab."
-                    },
-                    {
-                        "title": "Auf dem untersten Kühlschrankregal lagern, um Kreuzkontaminationen zu vermeiden 🥩",
-                        "desc": "Austretender Fleischsaft von rohem Lammfleisch kann Bakterien enthalten. Bewahren Sie das Fleisch in einem dichten Behälter auf dem untersten Regalbrett auf, damit kein Saft auf zubereitete Speisen oder Gemüse tropft."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Fleischsaft abtupfen und fest in Frischhaltefolie wickeln — Saft entfernen & Sauerstoff blockieren 📦",
-                        "text": "Oberflächensaft ist die Hauptursache für Gerüche und Verderb, während Sauerstoff Fette oxidieren lässt. 💡 Lagerungstipp: Tupfen Sie die Oberfläche mit Küchenpapier ab und wickeln Sie jedes Stück luftdicht in Frischhaltefolie ein, um Verfärbung und Austrocknung zu verhindern."
-                    },
-                    {
-                        "name": "Bei 0–2 °C im Fleischfach/Null-Grad-Fach kühlen — Kühllagerung (3–5 Tage) ❄️",
-                        "text": "Höhere Temperaturen beschleunigen das Bakterienwachstum drastisch. 💡 Lagerungstipp: Lagern Sie Lammfleisch im kältesten Bereich des Kühlschranks oder im speziellen Fleischfach (0–2 °C). Verbrauchen Sie Koteletts und Braten innerhalb von 3–5 Tagen, Hackfleisch innerhalb von 1–2 Tagen."
-                    },
-                    {
-                        "name": "Doppelt versiegeln und einfrieren — Gefrierlagerung (4–9 Monate) 🧊",
-                        "text": "Für die Langzeitlagerung portionieren Sie das eingewickelte Fleisch und versiegeln es zusätzlich in Ziploc-Gefrierbeuteln oder Vakuumbeuteln. 💡 Lagerungstipp: Bei unter -18 °C bleibt die Frische 4–9 Monate erhalten. Tauen Sie das Fleisch stets langsam im Kühlschrank auf."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mein Lammfleisch ist bräunlich oder dunkel geworden. Ist es noch essbar?",
-                        "answer": "In sauerstofffrei versiegelten Verpackungen führt das Myoglobin im Fleisch zu einer dunklen, bräunlichen Verfärbung. Nimmt das Fleisch nach dem Öffnen an der Luft innerhalb von 15–30 Minuten wieder eine helle, rote Farbe an, ist es vollkommen unbedenklich. Riecht es jedoch säuerlich oder fühlt sich schmierig an, ist es verdorben."
-                    },
-                    {
-                        "question": "Wie taut man gefrorenes Lammfleisch am besten auf?",
-                        "answer": "Die beste Methode ist das langsame Auftauen im Kühlschrank 12–24 Stunden vor der Zubereitung. Wenn es schnell gehen muss, legen Sie die dicht verpackte Ware in kaltes Wasser. Das Auftauen bei Raumtemperatur oder in heißem Wasser sollte wegen starker Keimvermehrung vermieden werden."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar carne de cordeiro fresca: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para a carne de cordeiro com base em diretrizes oficiais de segurança.",
-                "authority": "USDA & MFDS",
-                "intro": "Você já comprou carne de cordeiro por causa do seu sabor rico e textura macia, mas ficou preocupado ao ver a carne escurecer rapidamente ou desenvolver um odor forte na geladeira? 🥩\n\nA carne de cordeiro possui alto teor de proteínas e água, sendo muito vulnerável à proliferação bacteriana e à oxidação das gorduras. O armazenamento inadequado intensifica odores desagradáveis e causa a perda de sucos (suco da carne), prejudicando o sabor e o valor nutricional.\n\nNeste guia, apresentamos um guia em 3 etapas baseado em diretrizes do USDA e do MFDS para manter a suculência e o frescor da sua carne de cordeiro por mais tempo. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Compreender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Regras essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Não lave a carne de cordeiro crua antes de guardar 🚫",
-                        "desc": "Lavar a carne crua gera respingos que espalham bactérias pela pia e alimentos próximos (contaminação cruzada). Além disso, a umidade na superfície acelera o crescimento microbiano. Em vez disso, seque suavemente com papel-toalha."
-                    },
-                    {
-                        "title": "Guarde na prateleira inferior da geladeira para evitar contaminação cruzada 🥩",
-                        "desc": "Os sucos que escorrem da carne crua podem conter bactérias prejudiciais. Coloque a carne em um recipiente hermético na prateleira mais baixa da geladeira para evitar que os sucos pinguem em alimentos prontos ou vegetais."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Seque o suco e envolva firmemente em filme plástico — Remover suco & Bloquear oxigênio 📦",
-                        "text": "O suco acumulado na superfície causa mau cheiro e deterioração, enquanto o oxigênio oxida as gorduras. 💡 Dica de conservação: Seque a superfície com papel-toalha e envolva cada pedaço firmemente com filme plástico sem deixar bolhas de ar para evitar escurecimento e ressecamento."
-                    },
-                    {
-                        "name": "Refrigere na gaveta de carnes de 0 a 2 °C — Refrigeração (3 a 5 dias) ❄️",
-                        "text": "Temperaturas mais altas aceleram o crescimento de bactérias. 💡 Dica de conservação: Mantenha o cordeiro na parte mais fria ou na gaveta exclusiva para carnes (0 a 2 °C). Consuma bifes, pernil ou costelas em 3 a 5 dias, e carne moída em 1 a 2 dias."
-                    },
-                    {
-                        "name": "Faça selagem dupla e congele — Congelamento (4 a 9 meses) 🧊",
-                        "text": "Para armazenamento prolongado, embale as porções individuais e coloque-as em sacos herméticos Ziploc para congelador ou sacos a vácuo. 💡 Dica de conservação: Congele a menos de -18 °C para manter o frescor de 4 a 9 meses. Descongele lentamente na geladeira."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "A carne de cordeiro ficou escura ou amarronzada. Ainda posso consumir?",
-                        "answer": "Em embalagens seladas sem oxigênio, a mioglobina da carne naturalmente adquire um tom marrom escuro. Se a carne recuperar a cor vermelha viva em 15 a 30 minutos após a abertura da embalagem, está perfeitamente própria para consumo. Se apresentar cheiro azedo ou superfície pegajosa, deve ser descartada."
-                    },
-                    {
-                        "question": "Qual é a melhor maneira de descongelar carne de cordeiro?",
-                        "answer": "O melhor método é o descongelamento lento na geladeira, transferindo a carne 12 a 24 horas antes do cozimento. Se tiver pressa, mergulhe a embalagem selada em água fria. Evite descongelar em água quente ou em temperatura ambiente, pois isso estimula a proliferação de bactérias."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Daging Domba agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk daging domba berdasarkan pedoman keselamatan resmi.",
-                "authority": "USDA & MFDS",
-                "intro": "Pernahkah Anda membeli daging domba karena rasanya yang gurih dan teksturnya yang lembut, tetapi khawatir karena warnanya cepat menggelap atau baunya menjadi menyengat di kulkas? 🥩\n\nDaging domba tinggi akan kandungan protein dan air, menjadikannya sangat rentan terhadap pertumbuhan bakteri dan oksidasi lemak. Penyimpanan yang tidak tepat membuat bau prengus semakin kuat dan menyebabkan hilangnya cairan daging (drip loss), yang merusak rasa dan nutrisinya.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman USDA dan MFDS untuk menjaga kelembutan dan kesegaran daging domba Anda lebih lama. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan mencuci daging domba mentah sebelum disimpan 🚫",
-                        "desc": "Mencuci daging domba mentah menyebabkan cipratan air yang menyebarkan bakteri ke bak cuci piring dan makanan di sekitarnya (kontaminasi silang). Selain itu, kelembapan di permukaan mempercepat pertumbuhan bakteri. Lap perlahan permukaannya dengan tisu dapur."
-                    },
-                    {
-                        "title": "Simpan di rak kulkas paling bawah untuk mencegah kontaminasi silang 🥩",
-                        "desc": "Cairan darah/daging mentah dapat membawa bakteri berbahaya. Simpan daging di dalam wadah kedap udara di rak paling bawah kulkas agar cairannya tidak menetes ke makanan siap saji atau sayuran."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Lap sisa darah lalu bungkus rapat dengan plastik wrap — Keringkan Cairan & Tahan Oksigen 📦",
-                        "text": "Cairan darah di permukaan merupakan penyebab utama bau dan pembusukan, sementara paparan oksigen mengoksidasi lemak. 💡 Tips Penyimpanan: Lap permukaan dengan tisu dapur, lalu bungkus setiap potongan daging secara rapat dengan plastik wrap tanpa ada rongga udara untuk mencegah perubahan warna dan dehidrasi."
-                    },
-                    {
-                        "name": "Simpan di laci khusus daging pada suhu 0–2°C — Penyimpanan Dingin (3–5 Hari) ❄️",
-                        "text": "Suhu yang lebih tinggi mempercepat pertumbuhan bakteri dan pembusukan daging. 💡 Tips Penyimpanan: Simpan daging domba di bagian paling dingin atau laci khusus daging (0–2°C). Masak potongan daging/iga dalam 3–5 hari, dan daging cincang dalam 1–2 hari."
-                    },
-                    {
-                        "name": "Segel ganda lalu bekukan — Penyimpanan Beku (4–9 Bulan) 🧊",
-                        "text": "Untuk penyimpanan jangka panjang, bagi daging per porsi masak, bungkus rapat, lalu masukkan ke dalam kantong Ziploc freezer atau kantong vakum. 💡 Tips Penyimpanan: Bekukan di bawah suhu -18°C untuk menjaga kesegaran selama 4–9 bulan. Selalu cairkan secara perlahan di dalam kulkas."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warna daging domba berubah menjadi kecokelatan atau gelap, apakah masih aman dimakan?",
-                        "answer": "Dalam kemasan kedap udara tanpa oksigen, kandungan mioglobin pada daging secara alami berubah warna menjadi kecokelatan. Jika warnanya kembali merah segar dalam 15–30 menit setelah kemasan dibuka dan terpapar udara, daging tersebut aman. Namun jika berbau asam atau permukaannya lengket, daging sudah busuk dan harus dibuang."
-                    },
-                    {
-                        "question": "Bagaimana cara terbaik mencairkan daging domba beku?",
-                        "answer": "Cara terbaik dan paling aman adalah mencairkannya secara perlahan di dalam kulkas selama 12–24 jam sebelum dimasak. Jika terburu-buru, rendam kemasan kedap udara dalam air dingin. Hindari mencairkan pada suhu ruang atau dengan air panas karena memicu perkembangbiakan bakteri dengan cepat."
-                    }
-                ]
-            }
-        }
+  "how-to-store-lamb": {
+    "ingId": "lamb",
+    "pubDate": "2026-01-15",
+    "updatedDate": "2026-01-15",
+    "heroImage": "/images/blog/lamb_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "양고기 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 양고기의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+        "intro": "특유의 풍미와 부드러운 식감으로 사랑받는 양고기를 사 왔는데, 금방 색이 변하거나 냄새가 진해져 고민해 본 적 있으시죠? 🥩\n\n양고기는 단백질과 수분 함량이 높아 세균 증식과 지방 산화에 매우 취약한 식재료입니다. 특히 잘못 보관하면 잡내가 심해지고 육즙 손실(Drip)이 발생하여 맛과 영양이 크게 저하됩니다.\n\n이번 가이드에서는 미국 농무부(USDA)와 식품의약품안전처(MFDS)의 검증된 안전 가이드라인을 바탕으로, 양고기의 신선함과 육즙을 오래 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "보관 전 양고기를 물로 씻지 마세요 🚫",
+            "desc": "생양고기를 물로 씻으면 물방울이 튀면서 싱크대와 주변 식재료로 교차 오염(세균 확산)이 일어날 수 있으며, 고기 표면의 수분이 세균 번식을 촉진합니다. 핏물이나 이물질은 키친타월로 가볍게 눌러 닦아내세요."
+          },
+          {
+            "title": "냉장고 최하단 선반에 교차 오염을 차단하여 보관하세요 🥩",
+            "desc": "양고기에서 흘러나오는 핏물(육즙)에는 교차 오염을 유발하는 세균이 포함되어 있을 수 있습니다. 다른 익힌 음식이나 채소에 육즙이 떨어지지 않도록 밀폐 용기에 담아 냉장고 가장 아래쪽 선반에 보관하세요."
+          }
+        ],
+        "steps": [
+          {
+            "name": "핏물 제거 후 랩으로 밀착 포장하기 — 핏물 닦기 & 산소 차단 📦",
+            "text": "양고기 표면의 핏물은 잡내와 부패의 주원인이 되며, 공기 중 산소와 만나면 지방이 쉽게 산화됩니다. 💡 보관 팁: 키친타월로 표면의 수분과 핏물을 닦아낸 후, 식품용 랩으로 공기가 통하지 않게 고기를 한 덩이씩 빈틈없이 밀착 포장해 주세요. 변색과 수분 증발을 완벽히 막아줍니다."
+          },
+          {
+            "name": "0~2℃ 신선실 저온 냉장 보관하기 — 냉장 보관 (3~5일) ❄️",
+            "text": "온도가 높을수록 고기의 호흡 작용과 미생물 증식이 급격히 증가합니다. 💡 보관 팁: 양고기는 냉장고 안쪽 깊은 곳이나 신선실(육류 전용칸, 0~2℃)에 보관하세요. 구이용/정육은 3~5일, 다진 양고기는 1~2일 이내에 조리해 드시는 것이 안전합니다."
+          },
+          {
+            "name": "이중 밀봉 후 냉동 보관하기 — 냉동 보관 (4~9개월) 🧊",
+            "text": "장기 보관 시에는 1회 먹을 분량으로 나누어 밀착 포장한 뒤 지퍼백이나 진공 포장지로 이중 밀봉합니다. 💡 보관 팁: 냉동실(-18℃ 이하)에 보관하면 4~9개월 동안 신선도를 유지할 수 있습니다. 해동 시에는 성급히 상온에 두지 말고 냉장실에서 천천히 해동해야 육즙 손실을 줄일 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "양고기 색이 갈색이나 어두운빛으로 변했는데 먹어도 되나요?",
+            "answer": "공기(산소)가 차단된 밀폐 상태에서는 고기 속 미오글로빈 성분 때문에 어두운 갈색으로 변할 수 있습니다. 포장을 벗겨 산소와 접촉했을 때 15~30분 내로 다시 선홍색으로 돌아온다면 정상입니다. 단, 퀴퀴한 변질 냄새가 나거나 표면이 끈적거린다면 부패한 것이므로 폐기해야 합니다."
+          },
+          {
+            "question": "냉동 양고기는 어떻게 해동하는 것이 가장 좋은가요?",
+            "answer": "가장 좋은 방법은 사용 12~24시간 전에 냉장실로 옮겨 천천히 해동하는 '냉장 해동'입니다. 급할 경우 밀봉된 상태로 찬물에 담가 해동하세요. 상온 해동이나 뜨거운 물 해동은 세균 증식과 육즙 손실을 유발하므로 피해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Lamb Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for lamb based on official safety guidelines.",
+        "authority": "USDA & MFDS",
+        "intro": "Have you ever bought lamb for its rich flavor and tender texture, only to worry about it darkening quickly or developing a strong odor in the fridge? 🥩\n\nLamb is high in protein and moisture, making it particularly vulnerable to bacterial growth and lipid oxidation. Improper storage leads to stronger unpleasant odors and drip loss (loss of meat juices), significantly degrading its flavor and nutrition.\n\nIn this guide, introduces a scientifically proven 3-step storage guide based on safety guidelines from the USDA and MFDS to keep your lamb juicy, flavorful, and fresh for longer. 🛡️",
+        "whyTitle": "Why Store Lamb This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Do not wash raw lamb before storing 🚫",
+            "desc": "Washing raw lamb causes water splatters that spread bacteria across your sink and surrounding food (cross-contamination). Additionally, excess surface moisture accelerates bacterial growth. Lightly pat the surface dry with paper towels instead."
+          },
+          {
+            "title": "Store on the bottom refrigerator shelf to prevent cross-contamination 🥩",
+            "desc": "Juices dripping from raw lamb can carry bacteria that cause cross-contamination. Place the meat in an airtight container on the lowest shelf of your refrigerator to prevent juices from dripping onto cooked foods or produce."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Pat dry and wrap tightly with plastic wrap — Wipe Juices & Block Oxygen 📦",
+            "text": "Surface moisture and residual blood are primary causes of odors and spoilage, while oxygen exposure rapidly oxidizes fats. 💡 Storage Tip: Pat the surface dry with paper towels, then tightly wrap each cut individually with plastic wrap without leaving air pockets to prevent discoloration and moisture loss."
+          },
+          {
+            "name": "Refrigerate in the meat drawer at 0–2°C — Cold Storage (3–5 Days) ❄️",
+            "text": "Higher temperatures dramatically accelerate microbial growth and meat degradation. 💡 Storage Tip: Keep lamb in the coldest part of the fridge or the dedicated meat drawer (0–2°C). Cook chops, steaks, and roasts within 3–5 days, and ground lamb within 1–2 days."
+          },
+          {
+            "name": "Double seal and freeze — Frozen Storage (4–9 Months) 🧊",
+            "text": "For long-term storage, portion the wrapped meat into single meals and double seal in freezer Ziploc bags or vacuum bags. 💡 Storage Tip: Freeze below -18°C to maintain freshness for 4–9 months. Always thaw slowly in the refrigerator rather than at room temperature to minimize juice loss."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "My lamb turned brownish or dark. Is it still safe to eat?",
+            "answer": "When sealed without oxygen, myoglobin in meat naturally causes a brownish or dark discoloration. If the meat regains a bright red color within 15–30 minutes after exposure to air, it is completely safe. However, if it smells sour or feels slimy, it has spoiled and should be discarded."
+          },
+          {
+            "question": "What is the best way to thaw frozen lamb?",
+            "answer": "The safest and best method is slow refrigeration, moving the meat to the fridge 12–24 hours before cooking. If you are in a rush, submerge the sealed meat in cold water. Avoid room temperature or hot water thawing, as these trigger rapid bacterial growth and heavy drip loss."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ラム肉（羊肉）を新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくラム肉の最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "独特の風味と柔らかい食感で人気のラム肉を買ってきたものの、すぐに色が変色したりニオイが強くなったりして困った経験はありませんか？🥩\n\nラム肉はタンパク質と水分が多く含まれており、細菌の繁殖や脂質の酸化に非常に弱い食材です。適切に保存しないとクセや臭みが強くなり、ドリップ（旨味成分を含む肉汁）が流出して味や栄養が大きく損なわれます。\n\n本記事では、米国農務省（USDA）および食品医薬品安全処（MFDS）のガイドラインに基づき、ラム肉の鮮度と旨味を長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "保存前に生ラム肉を水で洗わないでください 🚫",
+            "desc": "生のラム肉を水で洗うと、水滴が跳ねてシンクや周囲の食材に細菌が飛散し（二次汚染）、表面の水分が細菌の繁殖を促進します。ドリップや汚れはキッチンペーパーで軽く押さえて拭き取ってください。"
+          },
+          {
+            "title": "冷蔵庫の最下段で二次汚染を防いで保存してください 🥩",
+            "desc": "ラム肉から出るドリップ（肉汁）には食中毒の原因となる細菌が含まれている可能性があります。他の加熱調理済み食品や野菜に肉汁がかからないよう、密閉容器に入れて冷蔵庫の一番下の棚に保存してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "水分を拭き取りラップで密着包装する — ドリップ除去＆酸素遮断 📦",
+            "text": "肉の表面に残ったドリップは臭みや傷みの主な原因となり、空気中の酸素と触れると脂質が酸化しやすくなります。💡保存のコツ：キッチンペーパーで表面の水分を拭き取った後、ラップで空気が入らないよう1塊ずつ隙間なくぴったり包んで変色と乾燥を防ぎます。"
+          },
+          {
+            "name": "0〜2℃のパーシャル室・チルド室で保存する — 冷蔵保存 (3〜5日間) ❄️",
+            "text": "温度が高くなると細菌の繁殖や肉の劣化が急激に進みます。💡保存のコツ：ラム肉は冷蔵庫の奥やチルド室（肉類専用室、0〜2℃）で保存してください。ステーキ・焼き肉用は3〜5日以内、ひき肉は1〜2日以内に調理してお召し上がりください。"
+          },
+          {
+            "name": "二重密閉して冷凍保存する — 冷冷凍保存 (4〜9ヶ月間) 🧊",
+            "text": "長期保存する場合は、1回分ずつラップで包み、冷凍用ジッパーバッグや真空パックで二重密閉します。💡保存のコツ：-18℃以下の冷凍室で保存すると4〜9ヶ月間鮮度を保てます。解凍時は常温で急激に戻さず、冷蔵室でゆっくり解凍することで旨味成分の流出を抑えられます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ラム肉の色が変色して黒っぽくなっていますが、食べられますか？",
+            "answer": "酸素が遮断された密閉状態では、肉に含まれるミオグロビンという成分の影響で黒っぽい褐色に変色することがあります。パックを開けて空気（酸素）に触れてから15〜30分程度で鮮やかな赤色に戻れば問題ありません。ただし、酸っぱく嫌なニオイがしたり表面がネバつく場合は傷んでいるため廃棄してください。"
+          },
+          {
+            "question": "冷凍したラム肉の解凍方法は何が一番良いですか？",
+            "answer": "最もおすすめなのは、調理の12〜24時間前に冷蔵室へ移してゆっくり解凍する「冷蔵解凍」です。急ぐ場合は密閉した状態で氷水や冷水に浸して解凍してください。常温解凍や熱湯での解凍は、細菌の増殖やドリップの大量流出につながるため避けてください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持羊肉新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解羊肉的最佳储存温度、方式和保鲜时长。",
+        "authority": "美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "您是否曾因为买回家的羊肉口感鲜嫩却很快变色或散发浓重异味而感到苦恼？🥩\n\n羊肉富含蛋白质和水分，极易滋生细菌并发生脂肪氧化。如果储存不当，不仅异味会加重，还会导致肉汁（Drip）流失，严重破坏口感与营养价值。\n\n本指南基于美国农务部(USDA)和韩国食品医药品安全处(MFDS)的安全指南，为您带来3步科学保存秘诀，帮您锁住羊肉的鲜嫩肉汁与美味。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "储存前切勿用水清洗生羊肉 🚫",
+            "desc": "用水清洗生羊肉时，水花飞溅会将细菌散播至水槽及周围食材（引发交叉污染），且表面的残留水分会加速细菌滋生。请使用厨房纸巾轻压吸干表面血水与水分。"
+          },
+          {
+            "title": "存放在冰箱最下层隔板以防交叉污染 🥩",
+            "desc": "生羊肉流出的血水（肉汁）可能含有致病菌。请将其装入密封保鲜盒，存放在冰箱最底层的隔板上，防止血水滴落到熟食或新鲜蔬果上。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "吸干血水后用保鲜膜紧密包裹 — 清除血水与阻绝氧气 📦",
+            "text": "羊肉表面的血水是产生异味和变质的主因，接触空气中的氧气还会导致油脂氧化。💡储存小贴士：用厨房纸巾擦干表面水分和血水后，用食品级保鲜膜将每块羊肉无缝紧密包裹，可有效防止变色和水分蒸发。"
+          },
+          {
+            "name": "在0~2℃冰鲜室/保鲜抽屉冷藏 — 冷藏储存 (3~5天) ❄️",
+            "text": "温度越高，微生物滋生与肉质劣化的速度越快。💡储存小贴士：请将羊肉存放在冰箱内侧深处或专用冰鲜室（0~2℃）。羊排、羊肉块建议在3~5天内食用完，羊肉馅（碎肉）请在1~2天内烹饪完毕。"
+          },
+          {
+            "name": "双层密封后冷冻保存 — 冷冻储存 (4~9个月) 🧊",
+            "text": "如需长期保存，按单次食用量分装包裹后，装入冷冻拉链袋或真空袋中进行双层密封。💡储存小贴士：在-18℃ banner以下的冷冻室中可保鲜4~9个月。解冻时请提前放入冷藏室缓缓解冻，切勿常温解冻，以减少肉汁流失。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "羊肉颜色发暗变褐，还能食用吗？",
+            "answer": "在缺氧密封状态下，羊肉中的肌红蛋白会导致肉质呈现暗褐色。拆开包装接触空气（氧气）15~30分钟后，若能恢复鲜红色则完全正常。但如果散发出酸臭异味或表面发粘，说明已经变质，应立即丢弃。"
+          },
+          {
+            "question": "冷冻羊肉的最佳解冻方法是什么？",
+            "answer": "最佳方法是在烹饪前12~24小时将羊肉移至冷藏室缓慢解冻（冷藏解冻）。如需快速解冻，可保持密封状态浸泡在冷水中。切忌常温解冻或用热水冲泡，以免引发细菌大量滋生和肉汁严重流失。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener la carne de cordero fresca: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la carne de cordero según las directrices oficiales de seguridad.",
+        "authority": "USDA & MFDS",
+        "intro": "¿Alguna vez compró carne de cordero por su sabor rico y textura tierna, solo para ver cómo se oscurecía rápidamente o desarrollaba un olor fuerte en el refrigerador? 🥩\n\nEl cordero es una carne rica en proteínas y agua, lo que la hace altamente vulnerable a la proliferación bacteriana y la oxidación de grasas. Un almacenamiento inadecuado intensifica los olores desagradables y causa la pérdida de jugos (drip loss), deteriorando su sabor y valor nutricional.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por el USDA y el MFDS para mantener la jugosidad y frescura de su carne de cordero por más tiempo. 🛡️",
+        "whyTitle": "¿Por qué almacenarla así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "No lave la carne de cordero cruda antes de guardarla 🚫",
+            "desc": "Lavar el cordero crudo genera salpicaduras que extienden bacterias por el fregadero y alimentos cercanos (contaminación cruzada). Además, la humedad superficial acelera el crecimiento de microbios. Limpie suavemente con papel absorbente en su lugar."
+          },
+          {
+            "title": "Guarde en el estante inferior del refrigerador para evitar contaminación cruzada 🥩",
+            "desc": "Los jugos que gotean del cordero crudo contienen bacterias dañinas. Coloque la carne dentro de un recipiente hermético en el estante más bajo del refrigerador para evitar que los jugos caigan sobre alimentos cocinados o vegetales."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Seque los jugos y envuelva firmemente con film plástico — Eliminar jugos y bloquear oxígeno 📦",
+            "text": "Los jugos acumulados en la superficie provocan mal olor y descomposición, mientras que el oxígeno oxida las grasas. 💡 Consejo de almacenamiento: Seque la superficie con papel absorbente y envuelva cada pieza firmemente con film plástico sin dejar bolsas de aire para evitar la decoloración y deshidratación."
+          },
+          {
+            "name": "Refrigere en el cajón de carnes a 0-2 °C — Almacenamiento refrigerado (3 a 5 días) ❄️",
+            "text": "A temperaturas más altas, las bacterias se multiplican rápidamente. 💡 Consejo de almacenamiento: Coloque el cordero en la parte más fría o cajón especial para carnes (0-2 °C). Consuma los cortes o chuletas en 3 a 5 días, y la carne molida en 1 o 2 días."
+          },
+          {
+            "name": "Congele con doble sellado — Almacenamiento congelado (4 a 9 meses) 🧊",
+            "text": "Para una conservación prolongada, envuelva las porciones individuales y colóquelas en bolsas para congelar con cierre Ziploc o al vacío. 💡 Consejo de almacenamiento: Mantenga a menos de -18 °C para conservar la frescura de 4 a 9 meses. Descongele lentamente en el refrigerador."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "La carne de cordero se puso marrón o oscura. ¿Aún se puede comer?",
+            "answer": "En un empaque sellado sin oxígeno, la mioglobina de la carne adquiere naturalmente un tono marrón oscuro. Si recupera un color rojo brillante a los 15-30 minutos de abrir el empaque y exponerse al aire, es completamente segura. Si tiene olor agrio o superficie pegajosa, debe desecharse."
+          },
+          {
+            "question": "¿Cuál es la mejor manera de descongelar la carne de cordero?",
+            "answer": "El método más seguro es la descongelación lenta en el refrigerador durante 12-24 horas antes de cocinar. Para descongelar rápidamente, sumerja el empaque sellado en agua fría. Evite el agua caliente o la temperatura ambiente, ya que disparan el crecimiento bacteriano."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver la viande d'agneau fraîche : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la viande d'agneau selon les directives officielles de sécurité.",
+        "authority": "USDA & MFDS",
+        "intro": "Avez-vous déjà acheté de la viande d'agneau pour sa saveur riche et sa texture tendre, pour constater qu'elle s'assombrissait rapidement ou développait une odeur fort désagréable au réfrigérateur ? 🥩\n\nL'agneau est une viande riche en protéines et en eau, ce qui la rend particulièrement vulnérable à la prolifération bactérienne et à l'oxydation des graisses. Un stockage inadéquat renforce les mauvaises odeurs et entraîne une perte de jus (exsudat), altérant ses qualités gustatives et nutritionnelles.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et du MFDS pour préserver la fraîcheur et la tendreté de votre viande d'agneau. 🛡️",
+        "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne lavez jamais la viande d'agneau crue avant de la stocker 🚫",
+            "desc": "Laver l'agneau cru provoque des projections d'eau qui propagent les bactéries sur l'évier et les aliments environnants (contamination croisée). De plus, l'humidité résiduelle favorise le développement bactérien. Épongez délicatement avec du papier absorbant."
+          },
+          {
+            "title": "Stockez sur l'étagère inférieure du réfrigérateur pour éviter la contamination croisée 🥩",
+            "desc": "Le jus qui s'écoule de l'agneau cru contient des bactéries pathogènes. Placez la viande dans une boîte hermétique sur l'étagère la plus basse du réfrigérateur pour empêcher le jus de couler sur les plats cuisinés ou les légumes."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Éponger le jus et envelopper hermétiquement de film étirable — Retrait du jus & Blocage de l'oxygène 📦",
+            "text": "Le jus accumulé à la surface favorise le rancissement et les odeurs, tandis que l'oxygène altère les graisses. 💡 Astuce de conservation : Épongez la surface avec du papier absorbant, puis enveloppez chaque morceau de film plastique sans laisser de bulles d'air pour éviter la décoloration."
+          },
+          {
+            "name": "Réfrigérer dans le bac à viande à 0–2 °C — Stockage réfrigéré (3 à 5 jours) ❄️",
+            "text": "Plus la température est élevée, plus les bactéries se développent vite. 💡 Astuce de conservation : Conservez l'agneau dans la zone la plus froide ou le compartiment à viande (0–2 °C). Consommez les côtelettes ou rôti sous 3 à 5 jours, et la viande hachée sous 1 à 2 jours."
+          },
+          {
+            "name": "Double scellage et congélation — Stockage congelé (4 à 9 mois) 🧊",
+            "text": "Pour une conservation à long terme, enveloppez des portions individuelles puis placez-les dans des sacs congélation Ziploc ou sous vide. 💡 Astuce de conservation : Congelez à moins de -18 °C pour maintenir la fraîcheur pendant 4 à 9 mois. Décongelez lentement au réfrigérateur."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "La viande d'agneau est devenue brunâtre ou sombre. Est-elle encore propre à la consommation ?",
+            "answer": "Dans un emballage hermétique sans oxygène, la myoglobine présente dans la viande donne naturellement une couleur brunâtre. Si la viande retrouve une belle couleur rouge vif dans les 15 à 30 minutes après l'ouverture, elle est sans danger. Si elle dégage une odeur sûre ou devient poisseuse, jetez-la."
+          },
+          {
+            "question": "Quelle est la meilleure méthode pour décongeler de la viande d'agneau ?",
+            "answer": "La méthode optimale est la décongélation lente au réfrigérateur pendant 12 à 24 heures avant la cuisson. En cas d'urgence, plongez le sachet scellé dans de l'eau froide. Évitez l'eau chaude ou la température ambiante qui favorisent la prolifération bactérienne."
+          }
+        ]
+      },
+      "de": {
+        "title": "Lammfleisch richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Lammfleisch basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "USDA & MFDS",
+        "intro": "Haben Sie schon einmal Lammfleisch wegen seines köstlichen Geschmacks gekauft, nur um festzustellen, dass es im Kühlschrank schnell nach dunkelte oder einen strengen Geruch entwickelte? 🥩\n\nLammfleisch ist sehr eiweiß- und wasserreich, wodurch es extrem anfällig für Bakterienwachstum und Fettoxidation ist. Unsachgemäße Lagerung verstärkt unangenehme Gerüche und führt zu Fleischsaftverlust (Drip-Verlust), was Geschmack und Nährstoffe beeinträchtigt.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Sicherheitsrichtlinien von USDA und MFDS basiert, um die Saftigkeit und Frische Ihres Lammfleischs lange zu bewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Rohes Lammfleisch vor der Lagerung niemals waschen 🚫",
+            "desc": "Das Waschen von rohem Fleisch führt zu Spritzwasser, das Bakterien auf Spüle und umliegende Lebensmittel überträgt (Kreuzkontamination). Zudem fördert Oberflächenfeuchtigkeit das Bakterienwachstum. Tupfen Sie das Fleisch stattdessen mit Küchenpapier ab."
+          },
+          {
+            "title": "Auf dem untersten Kühlschrankregal lagern, um Kreuzkontaminationen zu vermeiden 🥩",
+            "desc": "Austretender Fleischsaft von rohem Lammfleisch kann Bakterien enthalten. Bewahren Sie das Fleisch in einem dichten Behälter auf dem untersten Regalbrett auf, damit kein Saft auf zubereitete Speisen oder Gemüse tropft."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Fleischsaft abtupfen und fest in Frischhaltefolie wickeln — Saft entfernen & Sauerstoff blockieren 📦",
+            "text": "Oberflächensaft ist die Hauptursache für Gerüche und Verderb, während Sauerstoff Fette oxidieren lässt. 💡 Lagerungstipp: Tupfen Sie die Oberfläche mit Küchenpapier ab und wickeln Sie jedes Stück luftdicht in Frischhaltefolie ein, um Verfärbung und Austrocknung zu verhindern."
+          },
+          {
+            "name": "Bei 0–2 °C im Fleischfach/Null-Grad-Fach kühlen — Kühllagerung (3–5 Tage) ❄️",
+            "text": "Höhere Temperaturen beschleunigen das Bakterienwachstum drastisch. 💡 Lagerungstipp: Lagern Sie Lammfleisch im kältesten Bereich des Kühlschranks oder im speziellen Fleischfach (0–2 °C). Verbrauchen Sie Koteletts und Braten innerhalb von 3–5 Tagen, Hackfleisch innerhalb von 1–2 Tagen."
+          },
+          {
+            "name": "Doppelt versiegeln und einfrieren — Gefrierlagerung (4–9 Monate) 🧊",
+            "text": "Für die Langzeitlagerung portionieren Sie das eingewickelte Fleisch und versiegeln es zusätzlich in Ziploc-Gefrierbeuteln oder Vakuumbeuteln. 💡 Lagerungstipp: Bei unter -18 °C bleibt die Frische 4–9 Monate erhalten. Tauen Sie das Fleisch stets langsam im Kühlschrank auf."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mein Lammfleisch ist bräunlich oder dunkel geworden. Ist es noch essbar?",
+            "answer": "In sauerstofffrei versiegelten Verpackungen führt das Myoglobin im Fleisch zu einer dunklen, bräunlichen Verfärbung. Nimmt das Fleisch nach dem Öffnen an der Luft innerhalb von 15–30 Minuten wieder eine helle, rote Farbe an, ist es vollkommen unbedenklich. Riecht es jedoch säuerlich oder fühlt sich schmierig an, ist es verdorben."
+          },
+          {
+            "question": "Wie taut man gefrorenes Lammfleisch am besten auf?",
+            "answer": "Die beste Methode ist das langsame Auftauen im Kühlschrank 12–24 Stunden vor der Zubereitung. Wenn es schnell gehen muss, legen Sie die dicht verpackte Ware in kaltes Wasser. Das Auftauen bei Raumtemperatur oder in heißem Wasser sollte wegen starker Keimvermehrung vermieden werden."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar carne de cordeiro fresca: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para a carne de cordeiro com base em diretrizes oficiais de segurança.",
+        "authority": "USDA & MFDS",
+        "intro": "Você já comprou carne de cordeiro por causa do seu sabor rico e textura macia, mas ficou preocupado ao ver a carne escurecer rapidamente ou desenvolver um odor forte na geladeira? 🥩\n\nA carne de cordeiro possui alto teor de proteínas e água, sendo muito vulnerável à proliferação bacteriana e à oxidação das gorduras. O armazenamento inadequado intensifica odores desagradáveis e causa a perda de sucos (suco da carne), prejudicando o sabor e o valor nutricional.\n\nNeste guia, apresentamos um guia em 3 etapas baseado em diretrizes do USDA e do MFDS para manter a suculência e o frescor da sua carne de cordeiro por mais tempo. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Compreender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Regras essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Não lave a carne de cordeiro crua antes de guardar 🚫",
+            "desc": "Lavar a carne crua gera respingos que espalham bactérias pela pia e alimentos próximos (contaminação cruzada). Além disso, a umidade na superfície acelera o crescimento microbiano. Em vez disso, seque suavemente com papel-toalha."
+          },
+          {
+            "title": "Guarde na prateleira inferior da geladeira para evitar contaminação cruzada 🥩",
+            "desc": "Os sucos que escorrem da carne crua podem conter bactérias prejudiciais. Coloque a carne em um recipiente hermético na prateleira mais baixa da geladeira para evitar que os sucos pinguem em alimentos prontos ou vegetais."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Seque o suco e envolva firmemente em filme plástico — Remover suco & Bloquear oxigênio 📦",
+            "text": "O suco acumulado na superfície causa mau cheiro e deterioração, enquanto o oxigênio oxida as gorduras. 💡 Dica de conservação: Seque a superfície com papel-toalha e envolva cada pedaço firmemente com filme plástico sem deixar bolhas de ar para evitar escurecimento e ressecamento."
+          },
+          {
+            "name": "Refrigere na gaveta de carnes de 0 a 2 °C — Refrigeração (3 a 5 dias) ❄️",
+            "text": "Temperaturas mais altas aceleram o crescimento de bactérias. 💡 Dica de conservação: Mantenha o cordeiro na parte mais fria ou na gaveta exclusiva para carnes (0 a 2 °C). Consuma bifes, pernil ou costelas em 3 a 5 dias, e carne moída em 1 a 2 dias."
+          },
+          {
+            "name": "Faça selagem dupla e congele — Congelamento (4 a 9 meses) 🧊",
+            "text": "Para armazenamento prolongado, embale as porções individuais e coloque-as em sacos herméticos Ziploc para congelador ou sacos a vácuo. 💡 Dica de conservação: Congele a menos de -18 °C para manter o frescor de 4 a 9 meses. Descongele lentamente na geladeira."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "A carne de cordeiro ficou escura ou amarronzada. Ainda posso consumir?",
+            "answer": "Em embalagens seladas sem oxigênio, a mioglobina da carne naturalmente adquire um tom marrom escuro. Se a carne recuperar a cor vermelha viva em 15 a 30 minutos após a abertura da embalagem, está perfeitamente própria para consumo. Se apresentar cheiro azedo ou superfície pegajosa, deve ser descartada."
+          },
+          {
+            "question": "Qual é a melhor maneira de descongelar carne de cordeiro?",
+            "answer": "O melhor método é o descongelamento lento na geladeira, transferindo a carne 12 a 24 horas antes do cozimento. Se tiver pressa, mergulhe a embalagem selada em água fria. Evite descongelar em água quente ou em temperatura ambiente, pois isso estimula a proliferação de bactérias."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Daging Domba agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk daging domba berdasarkan pedoman keselamatan resmi.",
+        "authority": "USDA & MFDS",
+        "intro": "Pernahkah Anda membeli daging domba karena rasanya yang gurih dan teksturnya yang lembut, tetapi khawatir karena warnanya cepat menggelap atau baunya menjadi menyengat di kulkas? 🥩\n\nDaging domba tinggi akan kandungan protein dan air, menjadikannya sangat rentan terhadap pertumbuhan bakteri dan oksidasi lemak. Penyimpanan yang tidak tepat membuat bau prengus semakin kuat dan menyebabkan hilangnya cairan daging (drip loss), yang merusak rasa dan nutrisinya.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman USDA dan MFDS untuk menjaga kelembutan dan kesegaran daging domba Anda lebih lama. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan mencuci daging domba mentah sebelum disimpan 🚫",
+            "desc": "Mencuci daging domba mentah menyebabkan cipratan air yang menyebarkan bakteri ke bak cuci piring dan makanan di sekitarnya (kontaminasi silang). Selain itu, kelembapan di permukaan mempercepat pertumbuhan bakteri. Lap perlahan permukaannya dengan tisu dapur."
+          },
+          {
+            "title": "Simpan di rak kulkas paling bawah untuk mencegah kontaminasi silang 🥩",
+            "desc": "Cairan darah/daging mentah dapat membawa bakteri berbahaya. Simpan daging di dalam wadah kedap udara di rak paling bawah kulkas agar cairannya tidak menetes ke makanan siap saji atau sayuran."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Lap sisa darah lalu bungkus rapat dengan plastik wrap — Keringkan Cairan & Tahan Oksigen 📦",
+            "text": "Cairan darah di permukaan merupakan penyebab utama bau dan pembusukan, sementara paparan oksigen mengoksidasi lemak. 💡 Tips Penyimpanan: Lap permukaan dengan tisu dapur, lalu bungkus setiap potongan daging secara rapat dengan plastik wrap tanpa ada rongga udara untuk mencegah perubahan warna dan dehidrasi."
+          },
+          {
+            "name": "Simpan di laci khusus daging pada suhu 0–2°C — Penyimpanan Dingin (3–5 Hari) ❄️",
+            "text": "Suhu yang lebih tinggi mempercepat pertumbuhan bakteri dan pembusukan daging. 💡 Tips Penyimpanan: Simpan daging domba di bagian paling dingin atau laci khusus daging (0–2°C). Masak potongan daging/iga dalam 3–5 hari, dan daging cincang dalam 1–2 hari."
+          },
+          {
+            "name": "Segel ganda lalu bekukan — Penyimpanan Beku (4–9 Bulan) 🧊",
+            "text": "Untuk penyimpanan jangka panjang, bagi daging per porsi masak, bungkus rapat, lalu masukkan ke dalam kantong Ziploc freezer atau kantong vakum. 💡 Tips Penyimpanan: Bekukan di bawah suhu -18°C untuk menjaga kesegaran selama 4–9 bulan. Selalu cairkan secara perlahan di dalam kulkas."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warna daging domba berubah menjadi kecokelatan atau gelap, apakah masih aman dimakan?",
+            "answer": "Dalam kemasan kedap udara tanpa oksigen, kandungan mioglobin pada daging secara alami berubah warna menjadi kecokelatan. Jika warnanya kembali merah segar dalam 15–30 menit setelah kemasan dibuka dan terpapar udara, daging tersebut aman. Namun jika berbau asam atau permukaannya lengket, daging sudah busuk dan harus dibuang."
+          },
+          {
+            "question": "Bagaimana cara terbaik mencairkan daging domba beku?",
+            "answer": "Cara terbaik dan paling aman adalah mencairkannya secara perlahan di dalam kulkas selama 12–24 jam sebelum dimasak. Jika terburu-buru, rendam kemasan kedap udara dalam air dingin. Hindari mencairkan pada suhu ruang atau dengan air panas karena memicu perkembangbiakan bakteri dengan cepat."
+          }
+        ]
+      }
     }
+  }
 }

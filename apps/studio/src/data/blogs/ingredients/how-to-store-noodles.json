@@ -1,406 +1,406 @@
 {
-    "how-to-store-noodles": {
-        "ingId": "noodles",
-        "pubDate": "2026-04-08",
-        "updatedDate": "2026-04-08",
-        "heroImage": "/images/blog/noodles_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "아시안 국수 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 건면과 생면·우동면의 최적 보관 온도, 습기·벌레 차단법 및 냉장·냉동 보관 기한을 확인하세요.",
-                "authority": "농촌진흥청(RDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
-                "intro": "소면, 중면, 칼국수, 생우동, 생면 등... 국수는 동서양을 막론하고 수억 명에게 주식으로 사랑받는 대중적인 식재료입니다! 🍜\n\n대용량 건면(소면)을 사왔다가 습기를 먹어 눅눅해지거나 권련벌레·화랑곡나방 애벌레가 생겨 통째로 버린 경험, 혹은 생면이나 우동면을 찬장에 두었다가 곰팡이가 피어 당황했던 경험 다들 있으시죠?\n\n국수는 수분 함량 14% 이하의 '건면'과 수분 함량 20~30% 이상의 '생면·숙면'으로 나뉘며, 수분 활성도(Water Activity)가 완전히 달라 보관 방식도 극단적으로 갈립니다. 건면은 강한 흡습성 때문에 수분과 쌀벌레 차단이 핵심이며, 생면은 미생물 증식이 빨라 저온 관리가 필수적입니다. 이번 가이드에서는 전문 기관의 검증된 가이드라인을 바탕으로 모든 종류의 국수를 맛과 식감 손실 없이 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "국수 종류별 수분 활성도(Aw)와 미생물 증식 원리, 건면의 흡습 작용 및 유충 침입 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 위생과 식감 유지를 위해 필수적입니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "건면은 습기가 많거나 향이 강한 곳에 절대 두지 마세요 ⚠️",
-                        "desc": "건면은 건조한 상태여서 주변 수분과 냄새(향신료, 세제 등)를 강력하게 흡수합니다. 습한 환경에서는 눅눅해지면서 곰팡이가 피고, 주변 잡향이 면에 베어 조리 시 국수의 고유한 풍미를 망칩니다."
-                    },
-                    {
-                        "title": "생면과 우동면은 상온 방치 금지! 개봉 즉시 저온 보관하세요 ❄️",
-                        "desc": "수분 함량이 높고 pH가 중성에 가까운 생면, 생우동, 칼국수 면은 상온에서 세균과 곰팡이가 급격히 증식합니다. 개봉 후 상온에 방치하면 수시간 내에 부패가 진행되므로 반드시 냉장 또는 냉동 보관해야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "건면은 밀폐 용기나 페트병에 밀봉하여 서늘한 곳에 보관하기 — 건면 습기·벌레 차단 (1~2년) 📦",
-                        "text": "건면을 비닐 포장째 찬장에 두면 권련벌레나 화랑곡나방 애벌레가 포장 비닐을 뚫고 들어가 알을 낳습니다. 💡 보관 팁: 건면 포장을 푼 뒤 실리카겔(건조제)과 함께 긴 밀폐 용기, 입구가 넓은 페트병, 또는 지퍼백에 담아 완전 밀봉하세요. 직사광선을 피한 서늘한 상온(15~20℃ 이하)에 두면 1~2년 이상 벌레와 습기 없이 아삭함을 유지할 수 있습니다."
-                    },
-                    {
-                        "name": "생면·우동면은 1회분씩 소분하여 밀봉 냉장 보관하기 — 생면 단기 냉장 보관 (7~14일) ❄️",
-                        "text": "수분 함량이 높은 생면 및 우동면은 저온에서 수분 증발을 차단하는 것이 핵심입니다. 💡 보관 팁: 1인분 분량씩 덧가루(전분)가 얇게 묻은 상태로 랩이나 지퍼백에 밀봉하여 냉장고 신선실(0~4℃)에 보관하세요. 1~2주간 면발의 찰기와 수분감을 유지할 수 있습니다."
-                    },
-                    {
-                        "name": "생면·우동면의 장기 보관 시 소분하여 냉동 보관하기 — 생면 장기 냉동 보관 (3~6개월) 🧊",
-                        "text": "대용량 생면이나 생우동을 오래 보관할 때는 소분 냉동 보관이 가장 안전합니다. 💡 보관 팁: 1회분씩 랩으로 감싼 뒤 지퍼백에 담아 냉동실(-18℃ 이하)에 보관하세요. 3~6개월간 변질 없이 보관 가능하며, 요리 시 해동 없이 끓는 물에 바로 넣어 조리하면 면발이 불거나 무너지지 않고 아삭한 식감을 유지합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "건면에서 작은 벌레(권련벌레/쌀벌레)가 나왔는데 털어내고 삶아 먹어도 되나요?",
-                        "answer": "절대 드시면 안 됩니다! 건면을 뚫고 들어가는 권련벌레나 화랑곡나방 애벌레는 면 내부까지 굴을 파고 배설물과 실, 허물을 남깁니다. 가열 조리하더라도 세균 독소나 알레르기 유발 물질이 남아있을 수 있으므로 벌레가 발견된 건면은 통째로 폐기하는 것이 안전합니다."
-                    },
-                    {
-                        "question": "냉동 보관한 생면이나 우동면은 해동 후 삶아야 하나요?",
-                        "answer": "아닙니다! 냉동된 생면을 상온에서 해동하면 면 표면에 응축수가 생겨 수분을 흡수하면서 서로 엉겨 붙고 흐물거려집니다. 해동 과정 없이 끓는 물에 냉동 상태 그대로 넣고, 면발이 자연스럽게 풀릴 때까지 기다린 뒤 가볍게 저어 조리해야 탱글탱글한 면발을 얻을 수 있습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Asian Noodles Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, moisture and pest barriers, and shelf life for refrigerating and freezing dried and fresh Asian noodles based on official safety guidelines.",
-                "authority": "RDA & FDA & MFDS",
-                "intro": "Somyeon, udon, fresh ramen, kalguksu... Asian noodles are beloved staple foods consumed by hundreds of millions worldwide! 🍜\n\nHave you ever bought a large bundle of dried noodles only to find them stale from absorbing humidity or infested with pantry beetles? Or found your fresh udon molding in the pantry?\n\nAsian noodles are split into 'dried noodles' (moisture below 14%) and 'fresh/pre-cooked noodles' (moisture 20–30%+). Because their water activity differs drastically, their storage methods are completely opposite. Dried noodles require airtight barriers against humidity and pantry pests, whereas fresh noodles require cold storage to halt rapid bacterial growth. In this guide, introduces a scientifically proven 3-step storage guide based on expert food safety standards to preserve flavor and texture across all noodle types. 🛡️",
-                "whyTitle": "Why Store Asian Noodles This Way? Scientific Facts",
-                "whyDesc": "Understanding water activity (Aw), microbial growth, hygroscopic properties of dried noodles, and insect larva penetration is essential for maintaining hygiene and noodle elasticity.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never store dried noodles in humid or odor-heavy environments ⚠️",
-                        "desc": "Dried noodles are extremely dry and absorb surrounding moisture and strong odors (spices, detergents, etc.). High humidity turns them stale and moldy, while absorbed odors spoil the natural grain flavor when cooked."
-                    },
-                    {
-                        "title": "Never leave fresh or udon noodles at room temperature; refrigerate immediately ❄️",
-                        "desc": "Fresh noodles and raw udon have high moisture and neutral pH, making them ideal breeding grounds for bacteria and mold at room temperature. Once opened, store immediately under refrigeration or freezing."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Seal dried noodles in airtight containers or plastic bottles — Humidity & Pest Barrier (1–2 Years) 📦",
-                        "text": "Leaving dried noodles in thin original plastic allows cigarette beetles or Indianmeal moth larvae to bore through the film and lay eggs. 💡 Storage Tip: Unpack dried noodles and store with a silica gel desiccant in tall airtight canisters, wide-mouth plastic bottles, or heavy-duty Ziploc bags. Store in a cool, dark pantry below 20°C (68°F) for 1 to 2 years pest-free."
-                    },
-                    {
-                        "name": "Portion fresh or udon noodles into single servings and refrigerate — Cold Storage (7–14 Days) ❄️",
-                        "text": "Preventing moisture loss at low temperatures is key for fresh noodles. 💡 Storage Tip: Lightly dust 1-portion servings with starch, wrap tightly in plastic wrap or seal in airtight bags, and store in the refrigerator crisper drawer (0–4°C). Preserves elasticity and moisture for 1 to 2 weeks."
-                    },
-                    {
-                        "name": "Freeze single-serving portions for long-term storage — Freezer Storage (3–6 Months) 🧊",
-                        "text": "For long-term storage of bulk fresh noodles or raw udon, portioned freezing is safest. 💡 Storage Tip: Wrap individual portions in plastic wrap, place in freezer Ziploc bags, and store at -18°C or lower. Boil directly from frozen without thawing to prevent the noodles from becoming soggy or breaking."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "I found tiny beetles (pantry pests) in my dried noodles. Can I sift them out, boil, and eat the noodles?",
-                        "answer": "No, absolutely not! Pests like drug store beetles or moth larvae bore deep inside dried noodle bundles, leaving droppings, larval webs, and cast skins. Even after boiling, heat-stable bacterial toxins or allergens remain, so discard the entire package immediately."
-                    },
-                    {
-                        "question": "Should frozen fresh noodles or udon be thawed before boiling?",
-                        "answer": "No! Thawing frozen fresh noodles at room temperature causes surface condensation that absorbs into the starch, making the noodles sticky and mushy. Drop frozen noodles directly into boiling water without thawing, and wait for them to loosen naturally for the best chewy texture."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "アジアン麺・素麺を新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づく乾麺と生麺・うどん麺の最適保存温度、湿気・害虫遮断法および冷蔵・冷凍保存期間をご確認ください。",
-                "authority": "農村振興庁(RDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
-                "intro": "素麺、うどん、中華生麺、きしめんなど... アジアン麺は世界中で主食として愛されている代表的な食材です！🍜\n\n大容量の乾麺（素麺）を買ってきたものの湿気を吸ってシケてしまったり、シバンムシなどの害虫が発生して丸ごと捨ててしまった経験、あるいは生麺や生うどんをパントリーに置いてカビさせてしまった経験はありませんか？\n\n麺類は水分14%以下の「乾麺」と水分20〜30%以上の「生麺・ゆで麺」で水分活性度（Water Activity）が大きく異なり、保存方法も極端に分かれます。乾麺は強い吸湿性があるため湿気と害虫の遮断が最優先であり、生麺は菌の増殖が早いため低温管理が必須です。本記事では専門機関の検証済みガイドラインに基づき、あらゆる麺の美味しさと食感を保つ3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "麺の種類ごとの水分活性度（Aw）や微生物の増殖メカニズム、乾麺の吸湿作用および幼虫の穿孔特性を理解し、正しい保存法を実践することが衛生と食感の維持に不可欠です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "乾麺は湿気の多い場所や匂いの強い場所を避けてください ⚠️",
-                        "desc": "乾麺は乾燥しているため、周囲の湿気や強い匂い（スパイス、洗剤など）を強力に吸収します。湿度の高い場所ではシケてカビが生え、臭い移りがあると調理時の風味を損ないます。"
-                    },
-                    {
-                        "title": "生麺とうどん麺は常温放置厳禁！開封後はすぐ低温保存してください ❄️",
-                        "desc": "水分が多くpHが中性に近いため、生麺や生うどん、きしめんは常温で細菌やカビが急速に繁殖します。開封後に常温放置すると数時間で傷むため、必ず冷蔵または冷凍保管してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "乾麺は密閉容器やペットボトルで密閉し涼しい場所で保管する — 湿気・害虫遮断 (1〜2年間) 📦",
-                        "text": "乾麺を薄い Focus 袋のまま保存すると、タバコシバンムシやメイガの幼虫が袋を食い破って侵入します。💡保存のコツ：乾麺を袋から出し、シリカゲル（乾燥剤）と共に背の高い密閉容器や広口ペットボトル、ジッパーバッグに入れて完全に密閉します。直射日光を避け涼しい場所（20℃以下）で保管すれば1〜2年害虫なしで保てます。"
-                    },
-                    {
-                        "name": "生麺・うどん麺は1食分ずつ小分けして密閉冷蔵保存する — 生麺短期冷蔵保存 (7〜14日間) ❄️",
-                        "text": "水分の多い生麺とうどん麺は、低温で水分蒸発を防ぐことが鍵となります。💡保存のコツ：打ち粉（淀粉）がついた状態のまま1食分ずつラップやジッパーバッグで密閉し、冷蔵庫のチルド室（0〜4℃）に保管してください。1〜2週間コシとモチモチ感を維持できます。"
-                    },
-                    {
-                        "name": "長期間保存する場合は1食分ずつ小分けして冷凍保存する — 生麺長期冷凍保存 (3〜6ヶ月間) 🧊",
-                        "text": "生麺や生うどんを長期保存する場合は小分け冷凍が最も安全です。💡保存のコツ：1食分ずつラップで包み、ジッパーバッグに入れて冷凍室（-18℃以下）で保存します。3〜6ヶ月間品質を保てます。調理時は解凍せず沸騰したお湯に直接入れて茹でると、麺が伸びずにツルツルに仕上がります。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "乾麺から小さな虫（シバンムシなど）が出てきました。取り除いて茹でれば食べられますか？",
-                        "answer": "絶対に食べないでください！乾麺に侵入するシバンムシやメイガの幼虫は、麺の内部までトンネルを掘り、フンや糸、脱皮殻を残します。加熱調理しても細菌毒素やアレルゲンが残る可能性があるため、害虫が発生した乾麺は袋ごと廃棄してください。"
-                    },
-                    {
-                        "question": "冷凍した生麺やうどん麺は解凍してから茹でるべきですか？",
-                        "answer": "いいえ！冷凍生麺を常温で解凍すると、表面に結露が発生して水分を吸い、麺同士がくっついてブヨブヨになります。解凍せず凍ったまま沸騰したお湯に入れ、麺が自然にほぐれるまで触らずに加熱して調理するのがコシを残すコツです。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持亚洲面条/素面新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解干面与生面·乌冬面的最佳储存温度、防潮防虫技巧及冷藏冷冻保鲜时长。",
-                "authority": "韩国农村振兴厅(RDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "素面、中面、刀削面、鲜乌冬面、生拉面... 面条是全球数亿人日常喜爱的经典主食！🍜\n\n您是否买过大包干面条，却因吸潮受潮发霉，或长出烟草甲、螟蛾幼虫而整包扔掉？或是将鲜面条、乌冬面存放在橱柜里却发霉变质？\n\n面条按水分为水分14%以下的“干面”与水分20~30%以上的“生面·熟面”，两者的水活性（Water Activity）截然不同，因而储存方式也完全相反。干面极易吸湿，防潮防虫是核心；而生面含水量高、细菌繁殖快，必须进行低温管理。本指南基于权威机构验证的指南，为您带来3步科学保鲜法，保持所有种类面条的鲜美味觉与弹牙口感。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解不同面条的水活性（Aw）、微生物繁殖原理、干面的吸湿特性及害虫蛀蚀特点，对于食品卫生与口感保持至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "干面切勿存放在潮湿或异味浓重的环境中 ⚠️",
-                        "desc": "干面极度干燥，会强力吸收周围的水分和异味（如香料、洗涤剂等）。潮湿环境会导致其发霉变质，而吸收异味会在下锅烹煮时破坏面条原有的面香。"
-                    },
-                    {
-                        "title": "生面和乌冬面切勿常温放置！开封后须立即低温保存 ❄️",
-                        "desc": "生面、鲜乌冬面含水量高且pH值接近中性，在常温下细菌和霉菌会呈爆发式滋生。开封后若常温放置数小时即可变质，务必冷藏或冷冻保存。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "干面装入密封盒或塑料瓶中密封，置于阴凉处 — 防潮防虫 (1~2年) 📦",
-                        "text": "干面若放在原装薄塑料袋中，烟草甲或甲虫幼虫会咬破塑料袋钻入产卵。💡储存小贴士：拆封干面后，连同干燥剂（硅胶）一起装入高的密封罐、广口塑料瓶或密封拉链袋中完全密封。避光存放在20℃以下的阴凉处，可保存1~2年无虫无潮。"
-                    },
-                    {
-                        "name": "生面·乌冬面按1次用量分装密封冷藏 — 短期冷藏保存 (7~14天) ❄️",
-                        "text": "高含水量的生面与乌冬面在低温下防止水分蒸发是保鲜关键。💡储存小贴士：表面带少许手粉（淀粉），按1人份用保鲜膜或拉链袋密封，放入冰箱保鲜冷藏室（0~4℃）。可保持1~2周劲道与水分。"
-                    },
-                    {
-                        "name": "长期保存生面·乌冬面请分装冷冻 — 长期冷冻保存 (3~6个月) 🧊",
-                        "text": "若要长期保存大份量生面或鲜乌冬面，分装冷冻是最安全的方式。💡储存小贴士：按单次食用量用保鲜膜裹好，放入拉链袋存入冷冻室（-18℃以下）。可保存3~6个月，烹饪时无须解冻，直接下入沸水中煮熟，面条不会变软烂。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "干面里发现了小虫子（烟草甲/象甲），挑出来煮熟还能吃吗？",
-                        "answer": "绝对不能食用！蛀蚀干面的害虫幼虫会在面条内部钻洞并留下排泄物、蛹壳与丝网。即使高温煮熟，残留的细菌毒素或过敏原仍可能引发健康风险，发现害虫的干面请整包丢弃。"
-                    },
-                    {
-                        "question": "冷冻保存的生面或乌冬面需要解冻后再煮吗？",
-                        "answer": "不需要！冷冻生面在常温下解冻会在表面产生凝结水，吸水后会导致面条黏连成团、发软变烂。保持冷冻状态直接放入沸水中，静待其自然散开后再轻搅拌，才能煮出 Q 弹劲道的面条。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener los fideos asiáticos frescos: Guía científica de conservación",
-                "description": "Descubra la temperatura de almacenamiento, técnicas de barrera antihumedad y plagas, y tiempo de conservación para refrigerar y congelar fideos secos y frescos según directrices oficiales.",
-                "authority": "RDA & FDA & MFDS",
-                "intro": "Fideos somyeon, udon, ramen fresco, kalguksu... ¡Los fideos asiáticos son un alimento básico querido por cientos de millones en todo el mundo! 🍜\n\n¿Alguna vez compró un paquete grande de fideos secos solo para descubrirlos húmedos o infestados de escarabajos de la despensa? ¿O encontró sus fideos udon frescos con moho en la alacena?\n\nLos fideos se dividen en 'fideos secos' (humedad menor al 14%) y 'fideos frescos/precocidos' (humedad del 20–30%+). Debido a que su actividad de agua difiere enormemente, sus métodos de conservación son opuestos. Los fideos secos requieren sellado hermético contra la humedad y plagas, mientras que los fideos frescos exigen almacenamiento frío para frenar bacterias. En esta guía se presenta una guía de conservación en 3 pasos respaldada por autoridades sanitarias para mantener la textura y sabor de todos sus fideos. 🛡️",
-                "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
-                "whyDesc": "Comprender la actividad de agua (Aw), la proliferación microbiana, la higroscopicidad de los fideos secos y la penetración de larvas es fundamental para garantizar higiene y elasticidad.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Nunca guarde fideos secos en lugares húmedos o con olores fuertes ⚠️",
-                        "desc": "Los fideos secos absorben fuertemente la humedad ambiental y los olores potentes (especias, detergentes). La humedad los ablanda y genera moho, mientras que los olores arruinan su sabor natural."
-                    },
-                    {
-                        "title": "¡Nunca deje fideos frescos o udon a temperatura ambiente! Refrigere de inmediato ❄️",
-                        "desc": "Los fideos frescos y udon crudo tienen alta humedad y pH neutro, entorno ideal para la multiplicación acelerada de bacterias y mohos. Una vez abiertos, guárdelos de inmediato en frío."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Selle fideos secos en contenedores herméticos o botellas — Barrera contra humedad y plagas (1–2 años) 📦",
-                        "text": "Dejar fideos secos en sus bolsas plásticas delgadas permite que larvas de escarabajo perforen el empaque y pongan huevos. 💡 Consejo de almacenamiento: Guarde los fideos secos con desecante de sílice en botellas plásticas de boca ancha o frascos herméticos. Consérvelos en la alacena a menos de 20 °C por 1 a 2 años sin plagas."
-                    },
-                    {
-                        "name": "Divida fideos frescos o udon en porciones individuales y refrigere — Refrigeración (7–14 días) ❄️",
-                        "text": "Evitar la pérdida de agua a baja temperatura es la clave para fideos frescos. 💡 Consejo de almacenamiento: Enhagregue un poco de almidón a cada porción individual, envuelva firmemente en film transparente o selle en bolsa hermética y refrigere a 0–4 °C. Preserva elasticidad por 1 a 2 semanas."
-                    },
-                    {
-                        "name": "Congele porciones individuales para almacenamiento a largo plazo — Congelación (3–6 meses) 🧊",
-                        "text": "Para conservar grandes cantidades de fideos frescos a largo plazo, congelar por porciones es lo más seguro. 💡 Consejo de almacenamiento: Envuelva porciones individuales, colóquelas en bolsas Ziploc y congele (-18 °C). Hiérvalos directamente congelados sin descongelar para evitar que se deshagan."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Encontré pequeños escarabajos en mis fideos secos. ¿Puedo limpiarlos, hervir los fideos y comerlos?",
-                        "answer": "¡Jamás debe comerlos! Las plagas de despensa perforan el interior de los fideos dejando desechos, mudas y hilos. Hervirlos no destruye toxinas bacterianas o alérgenos resistentes al calor, por lo que descarte el paquete entero."
-                    },
-                    {
-                        "question": "¿Debo descongelar los fideos frescos o udon congelados antes de hervirlos?",
-                        "answer": "¡No! Descongelarlos a temperatura ambiente genera condensación superficial que el almidón absorbe, volviendo los fideos pegajosos y blandos. Échelos congelados directamente al agua hirviendo y espere a que se separen de forma natural para lograr la mejor textura firme."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver les nouilles asiatiques fraîches : Guide scientifique de conservation",
-                "description": "Découvrez la température de stockage, les barrières contre l'humidité et les parasites, et la durée de conservation pour réfrigérer et congeler les nouilles asiatiques sèches et fraîches selon les normes officielles.",
-                "authority": "RDA & FDA & MFDS",
-                "intro": "Somyeon, udon, ramen frais, kalguksu... Les nouilles asiatiques sont des aliments de base consommés par des centaines de millions de personnes ! 🍜\n\nAvez-vous déjà acheté un paquet de nouilles sèches pour le retrouver ramolli par l'humidité ou infesté d'insectes ? Ou découvert vos nouilles udon fraîches moisies dans le placard ?\n\nLes nouilles se divisent en 'nouilles sèches' (humidité inférieure à 14 %) et 'nouilles fraîches/cuites' (humidité de 20–30 %+). Leur activité de l'eau étant très différente, les méthodes de conservation sont opposées. Les nouilles sèches exigent une étanchéité totale contre l'humidité et les insectes, tandis que les nouilles fraîches imposent le froid pour stopper les bactéries. Dans ce guide, vous présente un guide de conservation en 3 étapes pour préserver texture et saveur. 🛡️",
-                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre l'activité de l'eau (Aw), la prolifération microbienne, l'hygroscopicité des nouilles sèches et la pénétration des larves est essentiel pour garantir hygiène et élasticité.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne stockez jamais les nouilles sèches dans un endroit humide ou à forte odeur ⚠️",
-                        "desc": "Très sèches, les nouilles absorbent l'humidité et les odeurs environnantes (épices, produits ménagers). L'humidité les fait moisir, et les odeurs altèrent leur goût naturel à la cuisson."
-                    },
-                    {
-                        "title": "Ne laissez jamais les nouilles fraîches ou udon à température ambiante ! ❄️",
-                        "desc": "Riches en eau et de pH neutre, les nouilles fraîches et l'udon cru favorisent la multiplication rapide des bactéries et moisissures à température ambiante. Réfrigérez ou congelez immédiatement après ouverture."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Sceller les nouilles sèches dans des boîtes hermétiques ou bouteilles — Barrière contre l'humidité et les insectes (1–2 ans) 📦",
-                        "text": "Conserver les nouilles sèches dans leur sachet d'origine permet aux larves d'insectes de percer le plastique. 💡 Astuce de conservation : Transvasez les nouilles avec un sachet de silice dans un récipient hermétique ou une bouteille en plastique. Conservez au sec sous 20 °C pendant 1 à 2 ans."
-                    },
-                    {
-                        "name": "Portionner les nouilles fraîches ou udon et réfrigérer sous film — Stockage froid (7–14 jours) ❄️",
-                        "text": "Empêcher la perte d'humidité à basse température est la clé des nouilles fraîches. 💡 Astuce de conservation : Saupoudrez légèrement chaque portion d'amidon, emballez sous film étirable ou en sachet hermétique et placez au réfrigérateur (0–4 °C). Préserve la fraîcheur 1 à 2 semaines."
-                    },
-                    {
-                        "name": "Congeler par portions individuelles pour un stockage longue durée — Congélation (3–6 mois) 🧊",
-                        "text": "Pour conserver de grandes quantités de nouilles fraîches, la congélation par portion est idéale. 💡 Astuce de conservation : Emballez individuellement sous film, mettez en sachets Ziploc et congelez (-18 °C). Plongez-les directement congelées dans l'eau bouillante sans décongélation."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "J'ai trouvé de petits insectes dans mes nouilles sèches. Puis-je les trier, les faire bouillir et consommer les nouilles ?",
-                        "answer": "Non, absolument pas ! Les parasites de placard creusent l'intérieur des nouilles et y laissent déjections et mues. La cuisson ne détruisant pas les toxines bactériennes ni les allergènes, jetez tout le paquet."
-                    },
-                    {
-                        "question": "Faut-il décongeler les nouilles fraîches ou udon congelées avant de les cuire ?",
-                        "answer": "Non ! La décongélation à température ambiante crée de la condensation qui détrempe la pâte et la rend collante. Plongez les nouilles congelées directement dans l'eau bouillante et laissez-les se séparer naturellement pour une texture parfaitement ferme."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Asiatische Nudeln richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Feuchtigkeits- und Schädlingsbarrieren sowie die Haltbarkeit beim Kühlen und Einfrieren von getrockneten und frischen asiatischen Nudeln nach offiziellen Richtlinien.",
-                "authority": "RDA & FDA & MFDS",
-                "intro": "Somyeon, Udon, frische Ramen, Kalguksu... Asiatische Nudeln sind geliebte Grundnahrungsmittel für hunderte Millionen Menschen! 🍜\n\nHaben Sie schon einmal eine große Packung getrockneter Nudeln gekauft, nur um sie durch Feuchtigkeit alt oder von Vorratsschädlingen befallen vorzufinden? Oder schimmelten frische Udon-Nudeln im Schrank?\n\nNudeln unterteilen sich in 'Trockennudeln' (Feuchtigkeit unter 14 %) und 'Frischnudeln/Vorgekochte Nudeln' (Feuchtigkeit 20–30 %+). Da sich ihre Wasseraktivität stark unterscheidet, sind die Lagermethoden gegensätzlich. Trockennudeln brauchen Luft- und Schädlingsdichtheit, Frischnudeln benötigen Kälte zur Keimstoppung. In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber für perfekten Nudelgenuss. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der Wasseraktivität (Aw), der Keimvermehrung, der Hygroskopie von Trockennudeln und des Larvenbefalls ist entscheidend für Hygiene und Bisseigenschaften.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Trockennudeln niemals an feuchten oder geruchsintensiven Orten lagern ⚠️",
-                        "desc": "Trockene Nudeln nehmen Umgebungsfeuchte und starke Gerüche (Gewürze, Putzmittel) gierig auf. Feuchtigkeit führt zu Schimmel, Fremdgerüche ruinieren den Eigengeschmack."
-                    },
-                    {
-                        "title": "Frisch- und Udon-Nudeln niemals ungekühlt lassen! Sofort kühlen ❄️",
-                        "desc": "Frischnudeln besitzen eine hohe Feuchtigkeit und neutralen pH-Wert – ideal für Bakterien und Schimmel bei Raumtemperatur. Nach dem Öffnen sofort kühlen oder einfrieren."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Trockennudeln in luftdichten Dosen oder Flaschen versiegeln — Feuchtigkeits- & Schädlingsschutz (1–2 Jahre) 📦",
-                        "text": "Lässt man Trockennudeln in der dünnen Plastikfolie, bohren sich Käferlarven hindurch. 💡 Lagerungstipp: Nudeln mit Trockenmittel (Kieselgel) in hohe luftdichte Dosen oder Weithalsflaschen umfüllen. Bei unter 20 °C im Schrank 1 bis 2 Jahre schädlingsfrei haltbar."
-                    },
-                    {
-                        "name": "Frisch- & Udon-Nudeln in Einzelportionen kühlen — Kühllagerung (7–14 Tage) ❄️",
-                        "text": "Die Feuchtigkeitsbewahrung bei kühlen Temperaturen ist der Schlüssel für Frischnudeln. 💡 Lagerungstipp: Einzelportionen leicht mit Stärke bestreuen, fest in Folie wickeln oder im Ziploc-Beutel verschließen und im Gemüsefach (0–4 °C) kühlen (1–2 Wochen haltbar)."
-                    },
-                    {
-                        "name": "Einzelportionen für die Langzeitlagerung einfrieren — Gefrierlagerung (3–6 Monate) 🧊",
-                        "text": "Für die lange Lagerung frischer Nudeln ist das Einfrieren in Portionen am sichersten. 💡 Lagerungstipp: Portionen einzeln einwickeln, in Gefrierbeutel legen und einfrieren (-18 °C). Ohne Auftauen direkt in kochendes Wasser geben, damit sie nicht matschig werden."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Ich habe kleine Käfer in meinen Trockennudeln entdeckt. Kann ich sie aussieben, kochen und die Nudeln essen?",
-                        "answer": "Auf keinen Fall! Vorratsschädlinge bohren sich tief in die Nudeln und hinterlassen Kot und Larvenhäute. Kochen zerstört hitzebeständige Bakterientoxine nicht, entsorgen Sie die gesamte Packung."
-                    },
-                    {
-                        "question": "Sollten gefrorene Frisch- oder Udon-Nudeln vor dem Kochen aufgetaut werden?",
-                        "answer": "Nein! Beim Auftauen entsteht Kondenswasser, das die Stärke aufweicht und die Nudeln klebrig macht. Geben Sie die gefrorenen Nudeln direkt ins kochende Wasser und lassen Sie sie sich von selbst lösen."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar macarrão e fideos asiáticos frescos: Guia científico de armazenamento",
-                "description": "Descubra a temperatura de armazenamento, barreiras contra umidade e pragas, e tempo de conservação para refrigerar e congelar macarrão seco e fresco segundo diretrizes oficiais.",
-                "authority": "RDA & FDA & MFDS",
-                "intro": "Massa somyeon, udon, ramen fresco, kalguksu... O macarrão asiático é um alimento básico amado por centenas de milhões de pessoas! 🍜\n\nVocê já comprou um pacote grande de macarrão seco e o encontrou murcho pela umidade ou infestado de besouros de despensa? Ou encontrou seu udon fresco com mofo no armário?\n\nO macarrão é dividido em 'massa seca' (umidade abaixo de 14%) e 'massa fresca/pré-cozida' (umidade de 20–30%+). Como a atividade de água é diferente, os métodos de conservação são opostos. A massa seca exige vedação hermética contra umidade e pragas, enquanto a massa fresca exige refrigeração para frear bactérias. Neste guia, apresentamos um guia em 3 etapas para preservar a textura e sabor do seu macarrão. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Compreender a atividade de água (Aw), a proliferação microbiana, a higroscopia da massa seca e a perfuração por larvas é essencial para manter a higiene e elasticidade.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Regras essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca guarde massa seca em locais úmidos ou com cheiros fortes ⚠️",
-                        "desc": "A massa seca absorve fortemente a umidade do ambiente e odores intensos (temperos, produtos de limpeza). A umidade gera mofo e os cheiros estragam o sabor natural ao cozinhar."
-                    },
-                    {
-                        "title": "Nunca deixe massa fresca ou udon em temperatura ambiente! Refrigere já ❄️",
-                        "desc": "Massas frescas e udon cru têm alta umidade e pH neutro, ambiente perfeito para proliferação rápida de bactérias e mofo. Após aberto, guarde sob refrigeração ou congelamento."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Selar massa seca em potes herméticos ou garrafas — Barreira contra umidade e pragas (1–2 anos) 📦",
-                        "text": "Manter a massa seca na embalagem plástica fina permite que larvas de besouro perfurem o plástico e ponham ovos. 💡 Dica de conservação: Guarde a massa seca com sílica-gel em potes herméticos ou garrafas plásticas. Conserve no armário abaixo de 20 °C por 1 a 2 anos sem pragas."
-                    },
-                    {
-                        "name": "Porcionar massa fresca ou udon em doses individuais e refrigerar — Refrigeração (7–14 dias) ❄️",
-                        "text": "Evitar a perda de água em baixa temperatura é fundamental para a massa fresca. 💡 Dica de conservação: Polvilhe um pouco de amido em cada porção, envolva firmemente em filme plástico ou sele em saco hermético e refrigere (0–4 °C). Mantém a elasticidade por 1 a 2 semanas."
-                    },
-                    {
-                        "name": "Congelar porções individuais para armazenamento de longo prazo — Congelamento (3–6 meses) 🧊",
-                        "text": "Para guardar grandes quantidades de massa fresca, congelar em porções é o mais seguro. 💡 Dica de conservação: Envolva as porções individualmente, coloque em sacos Ziploc e congele (-18 °C). Cozinhe direto do congelador sem descongelar para não amolecer."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Encontrei pequenos besouros na minha massa seca. Posso catar os insetos, ferver a massa e comer?",
-                        "answer": "Jamais coma! As pragas perfuram o interior da massa deixando excrementos e teias. O cozimento não destrói toxinas bacterianas resistentes ao calor, portanto descarte todo o pacote."
-                    },
-                    {
-                        "question": "Devo descongelar a massa fresca ou udon congelado antes de ferver?",
-                        "answer": "Não! Descongelar em temperatura ambiente cria condensação que encharca a massa e a deixa grudenta e mole. Coloque a massa congelada diretamente na água fervente e espere soltar naturalmente."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Mi Asia agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu penyimpanan optimal, pelindung kelembapan dan hama, serta masa simpan kulkas dan freezer untuk mi kering dan mi segar berdasarkan pedoman keselamatan resmi.",
-                "authority": "RDA & FDA & MFDS",
-                "intro": "Mi somyeon, udon, ramen segar, kalguksu... Mi Asia adalah makanan pokok favorit yang dikonsumsi ratusan juta orang di seluruh dunia! 🍜\n\nPernahkah Anda membeli satu kemasan mi kering lalu menemukannya melempem karena lembap atau dihinggapi kutu beras/kutu kemasan? Atau menemukan mi udon segar Anda berjamur di lemari dapur?\n\nMi terbagi menjadi 'mi kering' (kadar air di bawah 14%) dan 'mi segar/matang' (kadar air 20–30%+). Karena aktivitas airnya sangat berbeda, cara penyimpanannya pun bertolak belakang. Mi kering membutuhkan wadah kedap udara penahan lembap dan kutu, sedangkan mi segar wajib disimpan pada suhu dingin untuk menghentikan kuman. Dalam panduan ini, kami membagikan panduan 3 langkah berbasis ilmiah untuk menjaga tekstur dan kelezatan mi Anda. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami aktivitas air (Aw), pertumbuhan mikroba, sifat higroskopis mi kering, dan penetrasi larva serangga sangat penting untuk menjaga kebersihan dan kenyalnya mi.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan pernah menyimpan mi kering di tempat yang lembap atau berbau menyengat ⚠️",
-                        "desc": "Mi kering sangat menyerap kelembapan dan bau menyengat dari sekitarnya (bumbu, detergen). Kelembapan memicu jamur, sedangkan bau asing akan merusak cita rasa alami mi saat dimasak."
-                    },
-                    {
-                        "title": "Jangan biarkan mi segar atau udon di suhu ruang! Segera simpan dingin ❄️",
-                        "desc": "Mi segar dan udon mentah memiliki kadar air tinggi dan pH netral, lingkungan ideal bagi bakteri dan jamur untuk berkembang cepat di suhu ruang. Segera simpan di kulkas atau freezer begitu dibuka."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Simpan mi kering dalam wadah kedap udara atau botol — Pelindung Lembap & Kutu (1–2 Tahun) 📦",
-                        "text": "Membiarkan mi kering di kemasan plastik tipisnya memudahkan larva kutu menembus plastik dan bertelur. 💡 Tips Penyimpanan: Masukkan mi kering bersama silica gel ke dalam toples tinggi kedap udara atau botol plastik. Simpan di tempat sejuk di bawah 20°C selama 1 hingga 2 tahun bebas hama."
-                    },
-                    {
-                        "name": "Bagi mi segar atau udon per porsi lalu simpan di kulkas — Simpan Dingin (7–14 Hari) ❄️",
-                        "text": "Menjaga kelembapan tidak menguap pada suhu dingin adalah kunci mi segar. 💡 Tips Penyimpanan: Taburi sedikit tepung tapioka pada setiap porsi, bungkus rapat dengan plastik wrap atau simpan di kantong ziploc, lalu masukkan ke laci kulkas (0–4°C). Bertahan 1–2 minggu."
-                    },
-                    {
-                        "name": "Bekukan porsi tunggal untuk penyimpanan jangka panjang — Simpan Freezer (3–6 Bulan) 🧊",
-                        "text": "Untuk menyimpan mi segar dalam jumlah banyak, membekukannya per porsi adalah cara paling aman. 💡 Tips Penyimpanan: Bungkus porsi individu dengan plastik wrap, masukkan ke kantong ziploc freezer (-18°C). Rebus langsung dari kondisi beku tanpa dicairkan agar mi tidak lembek."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Saya menemukan kutu kecil di dalam mi kering saya. Bisakah saya ayak, rebus, lalu memakannya?",
-                        "answer": "Sangat tidak boleh! Kutu bahan makanan menembus ke dalam gulungan mi kering, meninggalkan kotoran, jaring, dan selongsong telur. Merebusnya tidak menghancurkan racun bakteri atau alergen yang tahan panas, jadi segera buang seluruh kemasan."
-                    },
-                    {
-                        "question": "Apakah mi segar atau udon beku harus dicairkan dulu sebelum direbus?",
-                        "answer": "Tidak! Mencairkan mi beku di suhu ruang menimbulkan kondensasi yang diserap pati mi, membuatnya lengket dan hancur. Masukkan mi beku langsung ke dalam air mendidih dan biarkan terurai secara alami untuk mendapatkan tekstur kenyal sempurna."
-                    }
-                ]
-            }
-        }
+  "how-to-store-noodles": {
+    "ingId": "noodles",
+    "pubDate": "2026-04-08",
+    "updatedDate": "2026-04-08",
+    "heroImage": "/images/blog/noodles_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "아시안 국수 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 건면과 생면·우동면의 최적 보관 온도, 습기·벌레 차단법 및 냉장·냉동 보관 기한을 확인하세요.",
+        "authority": "농촌진흥청(RDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
+        "intro": "소면, 중면, 칼국수, 생우동, 생면 등... 국수는 동서양을 막론하고 수억 명에게 주식으로 사랑받는 대중적인 식재료입니다! 🍜\n\n대용량 건면(소면)을 사왔다가 습기를 먹어 눅눅해지거나 권련벌레·화랑곡나방 애벌레가 생겨 통째로 버린 경험, 혹은 생면이나 우동면을 찬장에 두었다가 곰팡이가 피어 당황했던 경험 다들 있으시죠?\n\n국수는 수분 함량 14% 이하의 '건면'과 수분 함량 20~30% 이상의 '생면·숙면'으로 나뉘며, 수분 활성도(Water Activity)가 완전히 달라 보관 방식도 극단적으로 갈립니다. 건면은 강한 흡습성 때문에 수분과 쌀벌레 차단이 핵심이며, 생면은 미생물 증식이 빨라 저온 관리가 필수적입니다. 이번 가이드에서는 전문 기관의 검증된 가이드라인을 바탕으로 모든 종류의 국수를 맛과 식감 손실 없이 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "국수 종류별 수분 활성도(Aw)와 미생물 증식 원리, 건면의 흡습 작용 및 유충 침입 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 위생과 식감 유지를 위해 필수적입니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "건면은 습기가 많거나 향이 강한 곳에 절대 두지 마세요 ⚠️",
+            "desc": "건면은 건조한 상태여서 주변 수분과 냄새(향신료, 세제 등)를 강력하게 흡수합니다. 습한 환경에서는 눅눅해지면서 곰팡이가 피고, 주변 잡향이 면에 베어 조리 시 국수의 고유한 풍미를 망칩니다."
+          },
+          {
+            "title": "생면과 우동면은 상온 방치 금지! 개봉 즉시 저온 보관하세요 ❄️",
+            "desc": "수분 함량이 높고 pH가 중성에 가까운 생면, 생우동, 칼국수 면은 상온에서 세균과 곰팡이가 급격히 증식합니다. 개봉 후 상온에 방치하면 수시간 내에 부패가 진행되므로 반드시 냉장 또는 냉동 보관해야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "건면은 밀폐 용기나 페트병에 밀봉하여 서늘한 곳에 보관하기 — 건면 습기·벌레 차단 (1~2년) 📦",
+            "text": "건면을 비닐 포장째 찬장에 두면 권련벌레나 화랑곡나방 애벌레가 포장 비닐을 뚫고 들어가 알을 낳습니다. 💡 보관 팁: 건면 포장을 푼 뒤 실리카겔(건조제)과 함께 긴 밀폐 용기, 입구가 넓은 페트병, 또는 지퍼백에 담아 완전 밀봉하세요. 직사광선을 피한 서늘한 상온(15~20℃ 이하)에 두면 1~2년 이상 벌레와 습기 없이 아삭함을 유지할 수 있습니다."
+          },
+          {
+            "name": "생면·우동면은 1회분씩 소분하여 밀봉 냉장 보관하기 — 생면 단기 냉장 보관 (7~14일) ❄️",
+            "text": "수분 함량이 높은 생면 및 우동면은 저온에서 수분 증발을 차단하는 것이 핵심입니다. 💡 보관 팁: 1인분 분량씩 덧가루(전분)가 얇게 묻은 상태로 랩이나 지퍼백에 밀봉하여 냉장고 신선실(0~4℃)에 보관하세요. 1~2주간 면발의 찰기와 수분감을 유지할 수 있습니다."
+          },
+          {
+            "name": "생면·우동면의 장기 보관 시 소분하여 냉동 보관하기 — 생면 장기 냉동 보관 (3~6개월) 🧊",
+            "text": "대용량 생면이나 생우동을 오래 보관할 때는 소분 냉동 보관이 가장 안전합니다. 💡 보관 팁: 1회분씩 랩으로 감싼 뒤 지퍼백에 담아 냉동실(-18℃ 이하)에 보관하세요. 3~6개월간 변질 없이 보관 가능하며, 요리 시 해동 없이 끓는 물에 바로 넣어 조리하면 면발이 불거나 무너지지 않고 아삭한 식감을 유지합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "건면에서 작은 벌레(권련벌레/쌀벌레)가 나왔는데 털어내고 삶아 먹어도 되나요?",
+            "answer": "절대 드시면 안 됩니다! 건면을 뚫고 들어가는 권련벌레나 화랑곡나방 애벌레는 면 내부까지 굴을 파고 배설물과 실, 허물을 남깁니다. 가열 조리하더라도 세균 독소나 알레르기 유발 물질이 남아있을 수 있으므로 벌레가 발견된 건면은 통째로 폐기하는 것이 안전합니다."
+          },
+          {
+            "question": "냉동 보관한 생면이나 우동면은 해동 후 삶아야 하나요?",
+            "answer": "아닙니다! 냉동된 생면을 상온에서 해동하면 면 표면에 응축수가 생겨 수분을 흡수하면서 서로 엉겨 붙고 흐물거려집니다. 해동 과정 없이 끓는 물에 냉동 상태 그대로 넣고, 면발이 자연스럽게 풀릴 때까지 기다린 뒤 가볍게 저어 조리해야 탱글탱글한 면발을 얻을 수 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Asian Noodles Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, moisture and pest barriers, and shelf life for refrigerating and freezing dried and fresh Asian noodles based on official safety guidelines.",
+        "authority": "RDA & FDA & MFDS",
+        "intro": "Somyeon, udon, fresh ramen, kalguksu... Asian noodles are beloved staple foods consumed by hundreds of millions worldwide! 🍜\n\nHave you ever bought a large bundle of dried noodles only to find them stale from absorbing humidity or infested with pantry beetles? Or found your fresh udon molding in the pantry?\n\nAsian noodles are split into 'dried noodles' (moisture below 14%) and 'fresh/pre-cooked noodles' (moisture 20–30%+). Because their water activity differs drastically, their storage methods are completely opposite. Dried noodles require airtight barriers against humidity and pantry pests, whereas fresh noodles require cold storage to halt rapid bacterial growth. In this guide, introduces a scientifically proven 3-step storage guide based on expert food safety standards to preserve flavor and texture across all noodle types. 🛡️",
+        "whyTitle": "Why Store Asian Noodles This Way? Scientific Facts",
+        "whyDesc": "Understanding water activity (Aw), microbial growth, hygroscopic properties of dried noodles, and insect larva penetration is essential for maintaining hygiene and noodle elasticity.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never store dried noodles in humid or odor-heavy environments ⚠️",
+            "desc": "Dried noodles are extremely dry and absorb surrounding moisture and strong odors (spices, detergents, etc.). High humidity turns them stale and moldy, while absorbed odors spoil the natural grain flavor when cooked."
+          },
+          {
+            "title": "Never leave fresh or udon noodles at room temperature; refrigerate immediately ❄️",
+            "desc": "Fresh noodles and raw udon have high moisture and neutral pH, making them ideal breeding grounds for bacteria and mold at room temperature. Once opened, store immediately under refrigeration or freezing."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Seal dried noodles in airtight containers or plastic bottles — Humidity & Pest Barrier (1–2 Years) 📦",
+            "text": "Leaving dried noodles in thin original plastic allows cigarette beetles or Indianmeal moth larvae to bore through the film and lay eggs. 💡 Storage Tip: Unpack dried noodles and store with a silica gel desiccant in tall airtight canisters, wide-mouth plastic bottles, or heavy-duty Ziploc bags. Store in a cool, dark pantry below 20°C (68°F) for 1 to 2 years pest-free."
+          },
+          {
+            "name": "Portion fresh or udon noodles into single servings and refrigerate — Cold Storage (7–14 Days) ❄️",
+            "text": "Preventing moisture loss at low temperatures is key for fresh noodles. 💡 Storage Tip: Lightly dust 1-portion servings with starch, wrap tightly in plastic wrap or seal in airtight bags, and store in the refrigerator crisper drawer (0–4°C). Preserves elasticity and moisture for 1 to 2 weeks."
+          },
+          {
+            "name": "Freeze single-serving portions for long-term storage — Freezer Storage (3–6 Months) 🧊",
+            "text": "For long-term storage of bulk fresh noodles or raw udon, portioned freezing is safest. 💡 Storage Tip: Wrap individual portions in plastic wrap, place in freezer Ziploc bags, and store at -18°C or lower. Boil directly from frozen without thawing to prevent the noodles from becoming soggy or breaking."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "I found tiny beetles (pantry pests) in my dried noodles. Can I sift them out, boil, and eat the noodles?",
+            "answer": "No, absolutely not! Pests like drug store beetles or moth larvae bore deep inside dried noodle bundles, leaving droppings, larval webs, and cast skins. Even after boiling, heat-stable bacterial toxins or allergens remain, so discard the entire package immediately."
+          },
+          {
+            "question": "Should frozen fresh noodles or udon be thawed before boiling?",
+            "answer": "No! Thawing frozen fresh noodles at room temperature causes surface condensation that absorbs into the starch, making the noodles sticky and mushy. Drop frozen noodles directly into boiling water without thawing, and wait for them to loosen naturally for the best chewy texture."
+          }
+        ]
+      },
+      "ja": {
+        "title": "アジアン麺・素麺を新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づく乾麺と生麺・うどん麺の最適保存温度、湿気・害虫遮断法および冷蔵・冷凍保存期間をご確認ください。",
+        "authority": "農村振興庁(RDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
+        "intro": "素麺、うどん、中華生麺、きしめんなど... アジアン麺は世界中で主食として愛されている代表的な食材です！🍜\n\n大容量の乾麺（素麺）を買ってきたものの湿気を吸ってシケてしまったり、シバンムシなどの害虫が発生して丸ごと捨ててしまった経験、あるいは生麺や生うどんをパントリーに置いてカビさせてしまった経験はありませんか？\n\n麺類は水分14%以下の「乾麺」と水分20〜30%以上の「生麺・ゆで麺」で水分活性度（Water Activity）が大きく異なり、保存方法も極端に分かれます。乾麺は強い吸湿性があるため湿気と害虫の遮断が最優先であり、生麺は菌の増殖が早いため低温管理が必須です。本記事では専門機関の検証済みガイドラインに基づき、あらゆる麺の美味しさと食感を保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "麺の種類ごとの水分活性度（Aw）や微生物の増殖メカニズム、乾麺の吸湿作用および幼虫の穿孔特性を理解し、正しい保存法を実践することが衛生と食感の維持に不可欠です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "乾麺は湿気の多い場所や匂いの強い場所を避けてください ⚠️",
+            "desc": "乾麺は乾燥しているため、周囲の湿気や強い匂い（スパイス、洗剤など）を強力に吸収します。湿度の高い場所ではシケてカビが生え、臭い移りがあると調理時の風味を損ないます。"
+          },
+          {
+            "title": "生麺とうどん麺は常温放置厳禁！開封後はすぐ低温保存してください ❄️",
+            "desc": "水分が多くpHが中性に近いため、生麺や生うどん、きしめんは常温で細菌やカビが急速に繁殖します。開封後に常温放置すると数時間で傷むため、必ず冷蔵または冷凍保管してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "乾麺は密閉容器やペットボトルで密閉し涼しい場所で保管する — 湿気・害虫遮断 (1〜2年間) 📦",
+            "text": "乾麺を薄い Focus 袋のまま保存すると、タバコシバンムシやメイガの幼虫が袋を食い破って侵入します。💡保存のコツ：乾麺を袋から出し、シリカゲル（乾燥剤）と共に背の高い密閉容器や広口ペットボトル、ジッパーバッグに入れて完全に密閉します。直射日光を避け涼しい場所（20℃以下）で保管すれば1〜2年害虫なしで保てます。"
+          },
+          {
+            "name": "生麺・うどん麺は1食分ずつ小分けして密閉冷蔵保存する — 生麺短期冷蔵保存 (7〜14日間) ❄️",
+            "text": "水分の多い生麺とうどん麺は、低温で水分蒸発を防ぐことが鍵となります。💡保存のコツ：打ち粉（淀粉）がついた状態のまま1食分ずつラップやジッパーバッグで密閉し、冷蔵庫のチルド室（0〜4℃）に保管してください。1〜2週間コシとモチモチ感を維持できます。"
+          },
+          {
+            "name": "長期間保存する場合は1食分ずつ小分けして冷凍保存する — 生麺長期冷凍保存 (3〜6ヶ月間) 🧊",
+            "text": "生麺や生うどんを長期保存する場合は小分け冷凍が最も安全です。💡保存のコツ：1食分ずつラップで包み、ジッパーバッグに入れて冷凍室（-18℃以下）で保存します。3〜6ヶ月間品質を保てます。調理時は解凍せず沸騰したお湯に直接入れて茹でると、麺が伸びずにツルツルに仕上がります。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "乾麺から小さな虫（シバンムシなど）が出てきました。取り除いて茹でれば食べられますか？",
+            "answer": "絶対に食べないでください！乾麺に侵入するシバンムシやメイガの幼虫は、麺の内部までトンネルを掘り、フンや糸、脱皮殻を残します。加熱調理しても細菌毒素やアレルゲンが残る可能性があるため、害虫が発生した乾麺は袋ごと廃棄してください。"
+          },
+          {
+            "question": "冷凍した生麺やうどん麺は解凍してから茹でるべきですか？",
+            "answer": "いいえ！冷凍生麺を常温で解凍すると、表面に結露が発生して水分を吸い、麺同士がくっついてブヨブヨになります。解凍せず凍ったまま沸騰したお湯に入れ、麺が自然にほぐれるまで触らずに加熱して調理するのがコシを残すコツです。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持亚洲面条/素面新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解干面与生面·乌冬面的最佳储存温度、防潮防虫技巧及冷藏冷冻保鲜时长。",
+        "authority": "韩国农村振兴厅(RDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "素面、中面、刀削面、鲜乌冬面、生拉面... 面条是全球数亿人日常喜爱的经典主食！🍜\n\n您是否买过大包干面条，却因吸潮受潮发霉，或长出烟草甲、螟蛾幼虫而整包扔掉？或是将鲜面条、乌冬面存放在橱柜里却发霉变质？\n\n面条按水分为水分14%以下的“干面”与水分20~30%以上的“生面·熟面”，两者的水活性（Water Activity）截然不同，因而储存方式也完全相反。干面极易吸湿，防潮防虫是核心；而生面含水量高、细菌繁殖快，必须进行低温管理。本指南基于权威机构验证的指南，为您带来3步科学保鲜法，保持所有种类面条的鲜美味觉与弹牙口感。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解不同面条的水活性（Aw）、微生物繁殖原理、干面的吸湿特性及害虫蛀蚀特点，对于食品卫生与口感保持至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "干面切勿存放在潮湿或异味浓重的环境中 ⚠️",
+            "desc": "干面极度干燥，会强力吸收周围的水分和异味（如香料、洗涤剂等）。潮湿环境会导致其发霉变质，而吸收异味会在下锅烹煮时破坏面条原有的面香。"
+          },
+          {
+            "title": "生面和乌冬面切勿常温放置！开封后须立即低温保存 ❄️",
+            "desc": "生面、鲜乌冬面含水量高且pH值接近中性，在常温下细菌和霉菌会呈爆发式滋生。开封后若常温放置数小时即可变质，务必冷藏或冷冻保存。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "干面装入密封盒或塑料瓶中密封，置于阴凉处 — 防潮防虫 (1~2年) 📦",
+            "text": "干面若放在原装薄塑料袋中，烟草甲或甲虫幼虫会咬破塑料袋钻入产卵。💡储存小贴士：拆封干面后，连同干燥剂（硅胶）一起装入高的密封罐、广口塑料瓶或密封拉链袋中完全密封。避光存放在20℃以下的阴凉处，可保存1~2年无虫无潮。"
+          },
+          {
+            "name": "生面·乌冬面按1次用量分装密封冷藏 — 短期冷藏保存 (7~14天) ❄️",
+            "text": "高含水量的生面与乌冬面在低温下防止水分蒸发是保鲜关键。💡储存小贴士：表面带少许手粉（淀粉），按1人份用保鲜膜或拉链袋密封，放入冰箱保鲜冷藏室（0~4℃）。可保持1~2周劲道与水分。"
+          },
+          {
+            "name": "长期保存生面·乌冬面请分装冷冻 — 长期冷冻保存 (3~6个月) 🧊",
+            "text": "若要长期保存大份量生面或鲜乌冬面，分装冷冻是最安全的方式。💡储存小贴士：按单次食用量用保鲜膜裹好，放入拉链袋存入冷冻室（-18℃以下）。可保存3~6个月，烹饪时无须解冻，直接下入沸水中煮熟，面条不会变软烂。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "干面里发现了小虫子（烟草甲/象甲），挑出来煮熟还能吃吗？",
+            "answer": "绝对不能食用！蛀蚀干面的害虫幼虫会在面条内部钻洞并留下排泄物、蛹壳与丝网。即使高温煮熟，残留的细菌毒素或过敏原仍可能引发健康风险，发现害虫的干面请整包丢弃。"
+          },
+          {
+            "question": "冷冻保存的生面或乌冬面需要解冻后再煮吗？",
+            "answer": "不需要！冷冻生面在常温下解冻会在表面产生凝结水，吸水后会导致面条黏连成团、发软变烂。保持冷冻状态直接放入沸水中，静待其自然散开后再轻搅拌，才能煮出 Q 弹劲道的面条。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener los fideos asiáticos frescos: Guía científica de conservación",
+        "description": "Descubra la temperatura de almacenamiento, técnicas de barrera antihumedad y plagas, y tiempo de conservación para refrigerar y congelar fideos secos y frescos según directrices oficiales.",
+        "authority": "RDA & FDA & MFDS",
+        "intro": "Fideos somyeon, udon, ramen fresco, kalguksu... ¡Los fideos asiáticos son un alimento básico querido por cientos de millones en todo el mundo! 🍜\n\n¿Alguna vez compró un paquete grande de fideos secos solo para descubrirlos húmedos o infestados de escarabajos de la despensa? ¿O encontró sus fideos udon frescos con moho en la alacena?\n\nLos fideos se dividen en 'fideos secos' (humedad menor al 14%) y 'fideos frescos/precocidos' (humedad del 20–30%+). Debido a que su actividad de agua difiere enormemente, sus métodos de conservación son opuestos. Los fideos secos requieren sellado hermético contra la humedad y plagas, mientras que los fideos frescos exigen almacenamiento frío para frenar bacterias. En esta guía se presenta una guía de conservación en 3 pasos respaldada por autoridades sanitarias para mantener la textura y sabor de todos sus fideos. 🛡️",
+        "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
+        "whyDesc": "Comprender la actividad de agua (Aw), la proliferación microbiana, la higroscopicidad de los fideos secos y la penetración de larvas es fundamental para garantizar higiene y elasticidad.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Nunca guarde fideos secos en lugares húmedos o con olores fuertes ⚠️",
+            "desc": "Los fideos secos absorben fuertemente la humedad ambiental y los olores potentes (especias, detergentes). La humedad los ablanda y genera moho, mientras que los olores arruinan su sabor natural."
+          },
+          {
+            "title": "¡Nunca deje fideos frescos o udon a temperatura ambiente! Refrigere de inmediato ❄️",
+            "desc": "Los fideos frescos y udon crudo tienen alta humedad y pH neutro, entorno ideal para la multiplicación acelerada de bacterias y mohos. Una vez abiertos, guárdelos de inmediato en frío."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Selle fideos secos en contenedores herméticos o botellas — Barrera contra humedad y plagas (1–2 años) 📦",
+            "text": "Dejar fideos secos en sus bolsas plásticas delgadas permite que larvas de escarabajo perforen el empaque y pongan huevos. 💡 Consejo de almacenamiento: Guarde los fideos secos con desecante de sílice en botellas plásticas de boca ancha o frascos herméticos. Consérvelos en la alacena a menos de 20 °C por 1 a 2 años sin plagas."
+          },
+          {
+            "name": "Divida fideos frescos o udon en porciones individuales y refrigere — Refrigeración (7–14 días) ❄️",
+            "text": "Evitar la pérdida de agua a baja temperatura es la clave para fideos frescos. 💡 Consejo de almacenamiento: Enhagregue un poco de almidón a cada porción individual, envuelva firmemente en film transparente o selle en bolsa hermética y refrigere a 0–4 °C. Preserva elasticidad por 1 a 2 semanas."
+          },
+          {
+            "name": "Congele porciones individuales para almacenamiento a largo plazo — Congelación (3–6 meses) 🧊",
+            "text": "Para conservar grandes cantidades de fideos frescos a largo plazo, congelar por porciones es lo más seguro. 💡 Consejo de almacenamiento: Envuelva porciones individuales, colóquelas en bolsas Ziploc y congele (-18 °C). Hiérvalos directamente congelados sin descongelar para evitar que se deshagan."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Encontré pequeños escarabajos en mis fideos secos. ¿Puedo limpiarlos, hervir los fideos y comerlos?",
+            "answer": "¡Jamás debe comerlos! Las plagas de despensa perforan el interior de los fideos dejando desechos, mudas y hilos. Hervirlos no destruye toxinas bacterianas o alérgenos resistentes al calor, por lo que descarte el paquete entero."
+          },
+          {
+            "question": "¿Debo descongelar los fideos frescos o udon congelados antes de hervirlos?",
+            "answer": "¡No! Descongelarlos a temperatura ambiente genera condensación superficial que el almidón absorbe, volviendo los fideos pegajosos y blandos. Échelos congelados directamente al agua hirviendo y espere a que se separen de forma natural para lograr la mejor textura firme."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver les nouilles asiatiques fraîches : Guide scientifique de conservation",
+        "description": "Découvrez la température de stockage, les barrières contre l'humidité et les parasites, et la durée de conservation pour réfrigérer et congeler les nouilles asiatiques sèches et fraîches selon les normes officielles.",
+        "authority": "RDA & FDA & MFDS",
+        "intro": "Somyeon, udon, ramen frais, kalguksu... Les nouilles asiatiques sont des aliments de base consommés par des centaines de millions de personnes ! 🍜\n\nAvez-vous déjà acheté un paquet de nouilles sèches pour le retrouver ramolli par l'humidité ou infesté d'insectes ? Ou découvert vos nouilles udon fraîches moisies dans le placard ?\n\nLes nouilles se divisent en 'nouilles sèches' (humidité inférieure à 14 %) et 'nouilles fraîches/cuites' (humidité de 20–30 %+). Leur activité de l'eau étant très différente, les méthodes de conservation sont opposées. Les nouilles sèches exigent une étanchéité totale contre l'humidité et les insectes, tandis que les nouilles fraîches imposent le froid pour stopper les bactéries. Dans ce guide, vous présente un guide de conservation en 3 étapes pour préserver texture et saveur. 🛡️",
+        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre l'activité de l'eau (Aw), la prolifération microbienne, l'hygroscopicité des nouilles sèches et la pénétration des larves est essentiel pour garantir hygiène et élasticité.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne stockez jamais les nouilles sèches dans un endroit humide ou à forte odeur ⚠️",
+            "desc": "Très sèches, les nouilles absorbent l'humidité et les odeurs environnantes (épices, produits ménagers). L'humidité les fait moisir, et les odeurs altèrent leur goût naturel à la cuisson."
+          },
+          {
+            "title": "Ne laissez jamais les nouilles fraîches ou udon à température ambiante ! ❄️",
+            "desc": "Riches en eau et de pH neutre, les nouilles fraîches et l'udon cru favorisent la multiplication rapide des bactéries et moisissures à température ambiante. Réfrigérez ou congelez immédiatement après ouverture."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Sceller les nouilles sèches dans des boîtes hermétiques ou bouteilles — Barrière contre l'humidité et les insectes (1–2 ans) 📦",
+            "text": "Conserver les nouilles sèches dans leur sachet d'origine permet aux larves d'insectes de percer le plastique. 💡 Astuce de conservation : Transvasez les nouilles avec un sachet de silice dans un récipient hermétique ou une bouteille en plastique. Conservez au sec sous 20 °C pendant 1 à 2 ans."
+          },
+          {
+            "name": "Portionner les nouilles fraîches ou udon et réfrigérer sous film — Stockage froid (7–14 jours) ❄️",
+            "text": "Empêcher la perte d'humidité à basse température est la clé des nouilles fraîches. 💡 Astuce de conservation : Saupoudrez légèrement chaque portion d'amidon, emballez sous film étirable ou en sachet hermétique et placez au réfrigérateur (0–4 °C). Préserve la fraîcheur 1 à 2 semaines."
+          },
+          {
+            "name": "Congeler par portions individuelles pour un stockage longue durée — Congélation (3–6 mois) 🧊",
+            "text": "Pour conserver de grandes quantités de nouilles fraîches, la congélation par portion est idéale. 💡 Astuce de conservation : Emballez individuellement sous film, mettez en sachets Ziploc et congelez (-18 °C). Plongez-les directement congelées dans l'eau bouillante sans décongélation."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "J'ai trouvé de petits insectes dans mes nouilles sèches. Puis-je les trier, les faire bouillir et consommer les nouilles ?",
+            "answer": "Non, absolument pas ! Les parasites de placard creusent l'intérieur des nouilles et y laissent déjections et mues. La cuisson ne détruisant pas les toxines bactériennes ni les allergènes, jetez tout le paquet."
+          },
+          {
+            "question": "Faut-il décongeler les nouilles fraîches ou udon congelées avant de les cuire ?",
+            "answer": "Non ! La décongélation à température ambiante crée de la condensation qui détrempe la pâte et la rend collante. Plongez les nouilles congelées directement dans l'eau bouillante et laissez-les se séparer naturellement pour une texture parfaitement ferme."
+          }
+        ]
+      },
+      "de": {
+        "title": "Asiatische Nudeln richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Feuchtigkeits- und Schädlingsbarrieren sowie die Haltbarkeit beim Kühlen und Einfrieren von getrockneten und frischen asiatischen Nudeln nach offiziellen Richtlinien.",
+        "authority": "RDA & FDA & MFDS",
+        "intro": "Somyeon, Udon, frische Ramen, Kalguksu... Asiatische Nudeln sind geliebte Grundnahrungsmittel für hunderte Millionen Menschen! 🍜\n\nHaben Sie schon einmal eine große Packung getrockneter Nudeln gekauft, nur um sie durch Feuchtigkeit alt oder von Vorratsschädlingen befallen vorzufinden? Oder schimmelten frische Udon-Nudeln im Schrank?\n\nNudeln unterteilen sich in 'Trockennudeln' (Feuchtigkeit unter 14 %) und 'Frischnudeln/Vorgekochte Nudeln' (Feuchtigkeit 20–30 %+). Da sich ihre Wasseraktivität stark unterscheidet, sind die Lagermethoden gegensätzlich. Trockennudeln brauchen Luft- und Schädlingsdichtheit, Frischnudeln benötigen Kälte zur Keimstoppung. In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber für perfekten Nudelgenuss. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der Wasseraktivität (Aw), der Keimvermehrung, der Hygroskopie von Trockennudeln und des Larvenbefalls ist entscheidend für Hygiene und Bisseigenschaften.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Trockennudeln niemals an feuchten oder geruchsintensiven Orten lagern ⚠️",
+            "desc": "Trockene Nudeln nehmen Umgebungsfeuchte und starke Gerüche (Gewürze, Putzmittel) gierig auf. Feuchtigkeit führt zu Schimmel, Fremdgerüche ruinieren den Eigengeschmack."
+          },
+          {
+            "title": "Frisch- und Udon-Nudeln niemals ungekühlt lassen! Sofort kühlen ❄️",
+            "desc": "Frischnudeln besitzen eine hohe Feuchtigkeit und neutralen pH-Wert – ideal für Bakterien und Schimmel bei Raumtemperatur. Nach dem Öffnen sofort kühlen oder einfrieren."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Trockennudeln in luftdichten Dosen oder Flaschen versiegeln — Feuchtigkeits- & Schädlingsschutz (1–2 Jahre) 📦",
+            "text": "Lässt man Trockennudeln in der dünnen Plastikfolie, bohren sich Käferlarven hindurch. 💡 Lagerungstipp: Nudeln mit Trockenmittel (Kieselgel) in hohe luftdichte Dosen oder Weithalsflaschen umfüllen. Bei unter 20 °C im Schrank 1 bis 2 Jahre schädlingsfrei haltbar."
+          },
+          {
+            "name": "Frisch- & Udon-Nudeln in Einzelportionen kühlen — Kühllagerung (7–14 Tage) ❄️",
+            "text": "Die Feuchtigkeitsbewahrung bei kühlen Temperaturen ist der Schlüssel für Frischnudeln. 💡 Lagerungstipp: Einzelportionen leicht mit Stärke bestreuen, fest in Folie wickeln oder im Ziploc-Beutel verschließen und im Gemüsefach (0–4 °C) kühlen (1–2 Wochen haltbar)."
+          },
+          {
+            "name": "Einzelportionen für die Langzeitlagerung einfrieren — Gefrierlagerung (3–6 Monate) 🧊",
+            "text": "Für die lange Lagerung frischer Nudeln ist das Einfrieren in Portionen am sichersten. 💡 Lagerungstipp: Portionen einzeln einwickeln, in Gefrierbeutel legen und einfrieren (-18 °C). Ohne Auftauen direkt in kochendes Wasser geben, damit sie nicht matschig werden."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Ich habe kleine Käfer in meinen Trockennudeln entdeckt. Kann ich sie aussieben, kochen und die Nudeln essen?",
+            "answer": "Auf keinen Fall! Vorratsschädlinge bohren sich tief in die Nudeln und hinterlassen Kot und Larvenhäute. Kochen zerstört hitzebeständige Bakterientoxine nicht, entsorgen Sie die gesamte Packung."
+          },
+          {
+            "question": "Sollten gefrorene Frisch- oder Udon-Nudeln vor dem Kochen aufgetaut werden?",
+            "answer": "Nein! Beim Auftauen entsteht Kondenswasser, das die Stärke aufweicht und die Nudeln klebrig macht. Geben Sie die gefrorenen Nudeln direkt ins kochende Wasser und lassen Sie sie sich von selbst lösen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar macarrão e fideos asiáticos frescos: Guia científico de armazenamento",
+        "description": "Descubra a temperatura de armazenamento, barreiras contra umidade e pragas, e tempo de conservação para refrigerar e congelar macarrão seco e fresco segundo diretrizes oficiais.",
+        "authority": "RDA & FDA & MFDS",
+        "intro": "Massa somyeon, udon, ramen fresco, kalguksu... O macarrão asiático é um alimento básico amado por centenas de milhões de pessoas! 🍜\n\nVocê já comprou um pacote grande de macarrão seco e o encontrou murcho pela umidade ou infestado de besouros de despensa? Ou encontrou seu udon fresco com mofo no armário?\n\nO macarrão é dividido em 'massa seca' (umidade abaixo de 14%) e 'massa fresca/pré-cozida' (umidade de 20–30%+). Como a atividade de água é diferente, os métodos de conservação são opostos. A massa seca exige vedação hermética contra umidade e pragas, enquanto a massa fresca exige refrigeração para frear bactérias. Neste guia, apresentamos um guia em 3 etapas para preservar a textura e sabor do seu macarrão. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Compreender a atividade de água (Aw), a proliferação microbiana, a higroscopia da massa seca e a perfuração por larvas é essencial para manter a higiene e elasticidade.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Regras essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca guarde massa seca em locais úmidos ou com cheiros fortes ⚠️",
+            "desc": "A massa seca absorve fortemente a umidade do ambiente e odores intensos (temperos, produtos de limpeza). A umidade gera mofo e os cheiros estragam o sabor natural ao cozinhar."
+          },
+          {
+            "title": "Nunca deixe massa fresca ou udon em temperatura ambiente! Refrigere já ❄️",
+            "desc": "Massas frescas e udon cru têm alta umidade e pH neutro, ambiente perfeito para proliferação rápida de bactérias e mofo. Após aberto, guarde sob refrigeração ou congelamento."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Selar massa seca em potes herméticos ou garrafas — Barreira contra umidade e pragas (1–2 anos) 📦",
+            "text": "Manter a massa seca na embalagem plástica fina permite que larvas de besouro perfurem o plástico e ponham ovos. 💡 Dica de conservação: Guarde a massa seca com sílica-gel em potes herméticos ou garrafas plásticas. Conserve no armário abaixo de 20 °C por 1 a 2 anos sem pragas."
+          },
+          {
+            "name": "Porcionar massa fresca ou udon em doses individuais e refrigerar — Refrigeração (7–14 dias) ❄️",
+            "text": "Evitar a perda de água em baixa temperatura é fundamental para a massa fresca. 💡 Dica de conservação: Polvilhe um pouco de amido em cada porção, envolva firmemente em filme plástico ou sele em saco hermético e refrigere (0–4 °C). Mantém a elasticidade por 1 a 2 semanas."
+          },
+          {
+            "name": "Congelar porções individuais para armazenamento de longo prazo — Congelamento (3–6 meses) 🧊",
+            "text": "Para guardar grandes quantidades de massa fresca, congelar em porções é o mais seguro. 💡 Dica de conservação: Envolva as porções individualmente, coloque em sacos Ziploc e congele (-18 °C). Cozinhe direto do congelador sem descongelar para não amolecer."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Encontrei pequenos besouros na minha massa seca. Posso catar os insetos, ferver a massa e comer?",
+            "answer": "Jamais coma! As pragas perfuram o interior da massa deixando excrementos e teias. O cozimento não destrói toxinas bacterianas resistentes ao calor, portanto descarte todo o pacote."
+          },
+          {
+            "question": "Devo descongelar a massa fresca ou udon congelado antes de ferver?",
+            "answer": "Não! Descongelar em temperatura ambiente cria condensação que encharca a massa e a deixa grudenta e mole. Coloque a massa congelada diretamente na água fervente e espere soltar naturalmente."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Mi Asia agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu penyimpanan optimal, pelindung kelembapan dan hama, serta masa simpan kulkas dan freezer untuk mi kering dan mi segar berdasarkan pedoman keselamatan resmi.",
+        "authority": "RDA & FDA & MFDS",
+        "intro": "Mi somyeon, udon, ramen segar, kalguksu... Mi Asia adalah makanan pokok favorit yang dikonsumsi ratusan juta orang di seluruh dunia! 🍜\n\nPernahkah Anda membeli satu kemasan mi kering lalu menemukannya melempem karena lembap atau dihinggapi kutu beras/kutu kemasan? Atau menemukan mi udon segar Anda berjamur di lemari dapur?\n\nMi terbagi menjadi 'mi kering' (kadar air di bawah 14%) dan 'mi segar/matang' (kadar air 20–30%+). Karena aktivitas airnya sangat berbeda, cara penyimpanannya pun bertolak belakang. Mi kering membutuhkan wadah kedap udara penahan lembap dan kutu, sedangkan mi segar wajib disimpan pada suhu dingin untuk menghentikan kuman. Dalam panduan ini, kami membagikan panduan 3 langkah berbasis ilmiah untuk menjaga tekstur dan kelezatan mi Anda. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami aktivitas air (Aw), pertumbuhan mikroba, sifat higroskopis mi kering, dan penetrasi larva serangga sangat penting untuk menjaga kebersihan dan kenyalnya mi.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan pernah menyimpan mi kering di tempat yang lembap atau berbau menyengat ⚠️",
+            "desc": "Mi kering sangat menyerap kelembapan dan bau menyengat dari sekitarnya (bumbu, detergen). Kelembapan memicu jamur, sedangkan bau asing akan merusak cita rasa alami mi saat dimasak."
+          },
+          {
+            "title": "Jangan biarkan mi segar atau udon di suhu ruang! Segera simpan dingin ❄️",
+            "desc": "Mi segar dan udon mentah memiliki kadar air tinggi dan pH netral, lingkungan ideal bagi bakteri dan jamur untuk berkembang cepat di suhu ruang. Segera simpan di kulkas atau freezer begitu dibuka."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Simpan mi kering dalam wadah kedap udara atau botol — Pelindung Lembap & Kutu (1–2 Tahun) 📦",
+            "text": "Membiarkan mi kering di kemasan plastik tipisnya memudahkan larva kutu menembus plastik dan bertelur. 💡 Tips Penyimpanan: Masukkan mi kering bersama silica gel ke dalam toples tinggi kedap udara atau botol plastik. Simpan di tempat sejuk di bawah 20°C selama 1 hingga 2 tahun bebas hama."
+          },
+          {
+            "name": "Bagi mi segar atau udon per porsi lalu simpan di kulkas — Simpan Dingin (7–14 Hari) ❄️",
+            "text": "Menjaga kelembapan tidak menguap pada suhu dingin adalah kunci mi segar. 💡 Tips Penyimpanan: Taburi sedikit tepung tapioka pada setiap porsi, bungkus rapat dengan plastik wrap atau simpan di kantong ziploc, lalu masukkan ke laci kulkas (0–4°C). Bertahan 1–2 minggu."
+          },
+          {
+            "name": "Bekukan porsi tunggal untuk penyimpanan jangka panjang — Simpan Freezer (3–6 Bulan) 🧊",
+            "text": "Untuk menyimpan mi segar dalam jumlah banyak, membekukannya per porsi adalah cara paling aman. 💡 Tips Penyimpanan: Bungkus porsi individu dengan plastik wrap, masukkan ke kantong ziploc freezer (-18°C). Rebus langsung dari kondisi beku tanpa dicairkan agar mi tidak lembek."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Saya menemukan kutu kecil di dalam mi kering saya. Bisakah saya ayak, rebus, lalu memakannya?",
+            "answer": "Sangat tidak boleh! Kutu bahan makanan menembus ke dalam gulungan mi kering, meninggalkan kotoran, jaring, dan selongsong telur. Merebusnya tidak menghancurkan racun bakteri atau alergen yang tahan panas, jadi segera buang seluruh kemasan."
+          },
+          {
+            "question": "Apakah mi segar atau udon beku harus dicairkan dulu sebelum direbus?",
+            "answer": "Tidak! Mencairkan mi beku di suhu ruang menimbulkan kondensasi yang diserap pati mi, membuatnya lengket dan hancur. Masukkan mi beku langsung ke dalam air mendidih dan biarkan terurai secara alami untuk mendapatkan tekstur kenyal sempurna."
+          }
+        ]
+      }
     }
+  }
 }

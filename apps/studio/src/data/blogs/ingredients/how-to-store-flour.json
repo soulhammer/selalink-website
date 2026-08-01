@@ -1,406 +1,406 @@
 {
-    "how-to-store-flour": {
-        "ingId": "flour",
-        "pubDate": "2026-03-09",
-        "updatedDate": "2026-03-09",
-        "heroImage": "/images/blog/flour_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "밀가루 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 밀가루의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS)",
-                "intro": "대용량으로 산 밀가루를 봉지째 찬장에 넣어두었다가 눅눅해지거나 쌀바구미, 화랑곡나방 같은 곡물 해충이 생겨 버린 경험 다들 있으시죠? 🌾\n\n밀가루는 수분 함량이 11~14%로 비교적 낮아 건조해 보이지만, 공기 중의 습기와 냄새를 스펀지처럼 쉽게 흡수하는 다공성 식재료입니다. 습기에 노출되면 덩어리지거나 곰팡이가 피고, 쌀벌레 등 해충의 표적이 되기 쉽습니다.\n\n이번 가이드에서는 미국 농무부(USDA)와 식품안전 당국의 가이드라인을 바탕으로, 밀가루의 고소한 풍미와 품질을 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "개봉 후 종이 포장재째 그대로 방치하지 마세요 🐛",
-                        "desc": "종이 포장재나 얇은 비닐은 곡물 해충(화랑곡나방 유충 등)이 쉽게 뚫고 침입하며, 공기 중의 습기를 흡수해 덩어리지거나 곰팡이가 습니다. 개봉 후에는 즉시 밀폐 용기로 옮겨 담아야 합니다."
-                    },
-                    {
-                        "title": "습하고 온도가 높은 싱크대 아래나 가스레인지 주변에 두지 마세요 ⚠️",
-                        "desc": "높은 습도와 열기는 밀가루의 변질을 촉진하고 해충 번식을 돕는 최적의 환경을 만듭니다. 반드시 서늘하고 건조한 장소에 보관하세요."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "밀폐 용기나 유리병에 담기 — 습기 및 해충 완벽 차단 📦",
-                        "text": "밀가루 보관의 핵심은 공기와 습기, 해충의 유입을 원천 차단하는 것입니다. 💡 보관 팁: 개봉한 밀가루는 고무 패킹이 있는 밀폐 용기나 유리병에 담고 뚜껑을 단단히 닫아주세요."
-                    },
-                    {
-                        "name": "15~20℃ 서늘하고 어두운 찬장에 보관하기 — 적정 상온 보관 (6~12개월) ☀️",
-                        "text": "온도 변화가 적고 통풍이 잘되는 환경이 밀가루 보관에 가장 좋습니다. 💡 보관 팁: 직사광선을 피해 어두운 찬장이나 팬트리(15~20℃)에 보관하면 일반 밀가루는 수개월~1년 이상 품질을 유지할 수 있습니다. (전립분은 지방 함량이 높아 냉장 보관 권장)"
-                    },
-                    {
-                        "name": "장기 보관 또는 여름철에는 냉동 보관하기 — 장기 보관 (1년 이상) ❄️",
-                        "text": "기온과 습도가 높은 여름철이나 대용량 밀가루를 오래 두고 쓸 때는 냉동 보관이 안전합니다. 💡 보관 팁: 지퍼백에 밀봉하여 냉동실(-18℃ 이하)에 보관하세요. 사용 전 실온으로 완전히 해동(결로 방지)한 뒤 사용해야 뭉침을 막을 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "밀가루에 벌레(쌀벌레 등)가 생겼는데 어떻게 해야 하나요?",
-                        "answer": "곡물 해충이 발생했다면 즉시 폐기하는 것이 안전합니다. 해충을 예방하려면 구매 직후 밀폐 용기에 담고, 소량씩 나누어 냉동실에 24~48시간 얼린 후 보관하면 해충의 알까지 박멸할 수 있습니다."
-                    },
-                    {
-                        "question": "통밀가루(전립분)와 일반 밀가루의 보관 방법이 다른가요?",
-                        "answer": "네. 통밀가루는 씨눈과 껍질이 포함되어 있어 불포화지방산이 풍부하므로 일반 밀가루보다 훨씬 빨리 산패됩니다. 따라서 통밀가루는 개봉 후 가급적 냉장 또는 냉동 보관하는 것이 좋습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Store Flour Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for flour based on official safety guidelines.",
-                "authority": "USDA & MFDS",
-                "intro": "Have you ever stored a bag of flour in your pantry for a few months, only to find it clumpy, stale, or infested with weevils and pantry bugs? 🌾\n\nWhile flour has a low moisture content (11–14%) and seems dry, it is a porous ingredient that easily absorbs ambient moisture and odors like a sponge. Exposure to humidity causes clumping and mold growth, while making it a prime target for grain pests.\n\nIn this guide, introduces a scientifically proven 3-step storage guide recommended by the USDA and food safety authorities to keep your flour fresh and high quality for months. 🛡️",
-                "whyTitle": "Why Store Flour This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Do not leave opened flour in its original paper bag 🐛",
-                        "desc": "Paper bags and thin packaging are easily penetrated by pantry pest larvae and absorb moisture from the air, causing clumping and mold. Always transfer flour to an airtight container after opening."
-                    },
-                    {
-                        "title": "Avoid humid, warm areas near sinks or stovetops ⚠️",
-                        "desc": "High humidity and heat accelerate flour degradation and create optimal conditions for pest breeding. Always store it in a cool, dry environment."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Transfer to an airtight container or glass jar — Complete Moisture & Pest Barrier 📦",
-                        "text": "The key to storing flour is completely blocking air, moisture, and pests. 💡 Storage Tip: Pour opened flour into a glass jar or airtight plastic container with a rubber seal and lock the lid tightly."
-                    },
-                    {
-                        "name": "Store in a cool, dark pantry at 15–20°C — Optimal Room Temperature Storage (6–12 Months) ☀️",
-                        "text": "Stable, well-ventilated conditions are best for flour storage. 💡 Storage Tip: Keep containers in a dark pantry or cupboard away from direct sunlight (15–20°C / 59–68°F). (Whole wheat flour, however, should be refrigerated due to higher fat content.)"
-                    },
-                    {
-                        "name": "Freeze for long-term storage or during summer — Extended Frozen Storage (1+ Years) ❄️",
-                        "text": "During hot, humid summers or for bulk storage, freezing is the safest method. 💡 Storage Tip: Seal securely in a Ziploc bag and freeze below -18°C (-0.4°F). Bring to room temperature completely before use to prevent condensation clumping."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "I found weevils/bugs in my flour. What should I do?",
-                        "answer": "If grain pests are present, it is safest to discard the flour. To prevent pests, transfer flour to an airtight container immediately after purchase, or freeze it for 24–48 hours to kill any eggs."
-                    },
-                    {
-                        "question": "Is storage different for whole wheat flour compared to all-purpose flour?",
-                        "answer": "Yes. Whole wheat flour contains the germ and bran, which are rich in natural oils that go rancid much faster than all-purpose flour. Therefore, whole wheat flour should preferably be refrigerated or frozen after opening."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "小麦粉を新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づく小麦粉の最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "買った小麦粉の袋をそのまま戸棚に置いておいたら、湿気て固まったり、コクゾウムシなどの穀物害虫が発生して捨ててしまった経験はありませんか？🌾\n\n小麦粉は水分含有量が11〜14%と比較的低く乾燥しているように見えますが、空気中の湿気やニオイをスポンジのように吸収する多孔質な食材です。湿気に晒されると固まったりカビが生えたりし、害虫の標的にもなりやすいです。\n\n本記事では、米国農務省（USDA）などの安全ガイドラインに基づき、小麦粉の風味と品質を長く保つ3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "開封後に紙袋のまま放置しないでください 🐛",
-                        "desc": "紙袋や薄い包装は害虫（メイガの幼虫など）が簡単に食い破って侵入し、湿気を吸って固まる原因になります。開封後はすぐに密閉容器に移し替えてください。"
-                    },
-                    {
-                        "title": "湿気の高いシンク下やコンロ周りに置かないでください ⚠️",
-                        "desc": "高温多湿は小麦粉の劣化を早め、害虫が繁殖する最適な環境を作ります。必ず涼しく乾燥した場所で保管してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "密閉容器やガラス瓶に移す — 湿気と害虫の完全遮断 📦",
-                        "text": "小麦粉保存の鍵は、空気、湿気、害虫の侵入を元から断つことです。💡保存のコツ：開封した小麦粉はパッキン付きの密閉容器やガラス瓶に入れ、フタをしっかり閉めてください。"
-                    },
-                    {
-                        "name": "15〜20℃の涼しく暗い棚で保存する — 最適な常温保存 (6〜12ヶ月) ☀️",
-                        "text": "温度変化が少なく風通しの良い環境が小麦粉に最適です。💡保存のコツ：直射日光を避け、暗い戸棚やパントリー（15〜20℃）で保存すれば数ヶ月〜1年間品質を維持できます。（全粒粉は脂質が多く含まれるため冷蔵保存が推奨されます）"
-                    },
-                    {
-                        "name": "長期保存や夏場は冷凍保存する — 長期保存 (1年以上) ❄️",
-                        "text": "湿度の高い夏場や、大容量の小麦粉を長期間使う場合は冷凍保存が安全です。💡保存のコツ：ジッパーバッグに密閉して冷凍室（-18℃以下）で保存します。使用する際は、結露を防ぐため完全に室温に戻してから使用してください。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "小麦粉に虫が発生してしまったのですが、どうすればいいですか？",
-                        "answer": "小麦粉に虫（コクゾウムシなど）が発生した場合、安全のため廃棄することをおすすめします。予防するには、購入後すぐに密閉容器に入れ、24〜48時間冷凍して卵を死滅させるのが効果的です。"
-                    },
-                    {
-                        "question": "全粒粉と通常の小麦粉で保存方法は異なりますか？",
-                        "answer": "はい。全粒粉は胚芽やふすまが含まれており不飽和脂肪酸が豊富なため、普通の小麦粉よりもはるかに早く酸化します。そのため、全粒粉は開封後、冷蔵または冷凍保存するのが望ましいです。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持面粉新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解面粉的最佳储存温度、方式和保鲜时长。",
-                "authority": "美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "您是否曾将买回的面粉连同原纸袋一起放在橱柜里，过了一段时间发现面粉结块、受潮甚至长了面虫？🌾\n\n面粉的水分含量较低（约11~14%），虽然看起来干燥，但它是一种多孔性食材，会像海绵一样轻易吸收空气中的湿气与异味。一旦受潮极易结块发霉，并成为谷物害虫的目标。\n\n本指南基于美国农务部(USDA)与食品安全指南，为您带来3步科学保存面粉的秘诀，帮您长久锁住面粉的品质与新鲜。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "拆封后切勿直接保留原纸袋存放 🐛",
-                        "desc": "原纸袋或薄包装极易被谷物害虫（如印度谷螟幼虫）咬破侵入，且会吸收空气中的湿气导致结块发霉。拆封后请务必立即转移至密封容器中。"
-                    },
-                    {
-                        "title": "切勿存放在水槽下或灶台旁等潮湿温热处 ⚠️",
-                        "desc": "高温高湿会加速面粉变质，并为害虫繁殖提供温床。请务必存放在阴凉干燥的环境中。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "转移至密封容器或玻璃瓶中 — 彻底阻绝湿气与害虫 📦",
-                        "text": "保存面粉的核心在于彻底隔绝空气、湿气与害虫。💡储存小贴士：将拆封后的面粉倒入带有橡胶密封圈的玻璃瓶或密封塑料盒中，紧扣盒盖。"
-                    },
-                    {
-                        "name": "存放在15~20℃阴凉避光的橱柜中 — 适温常温保存 (6~12个月) ☀️",
-                        "text": "温度稳定且通风良好的环境最适合面粉保存。💡储存小贴士：避开阳光直射，存放在阴暗的橱柜或储藏室（15~20℃）中，普通面粉可保持数月至1年品质。（全麦粉因含脂肪较多建议冷藏）"
-                    },
-                    {
-                        "name": "长期保存或夏季时进行冷冻保存 — 长期冷冻保存 (1年以上) ❄️",
-                        "text": "在潮湿闷热的夏季或储存大包装面粉时，冷冻是最安全的方法。💡储存小贴士：用密封袋装好放入冷冻室（-18℃以下）。使用前务必在常温下完全解冻（防止结露），以免面粉结块。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "面粉里长了虫子该怎么办？",
-                        "answer": "如果发现面粉中滋生谷物害虫，为了安全起见建议直接丢弃。预防方法是购买后立即转移至密封盒，或先放入冷冻室冷冻24~48小时以杀灭虫卵。"
-                    },
-                    {
-                        "question": "全麦面粉和普通面粉的保存方法一样吗？",
-                        "answer": "不一样。全麦面粉保留了麸皮和胚芽，富含天然油脂，比普通面粉更容易氧化变质。因此，全麦面粉拆封后最好放入冰箱冷藏或冷冻保存。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener la harina fresca: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la harina según las directrices oficiales de seguridad.",
-                "authority": "USDA & MFDS",
-                "intro": "¿Alguna vez guardó un paquete de harina en la alacena por unos meses y descubrió que estaba grumosa, rancia o con gorgojos? 🌾\n\nAunque la harina tiene un bajo contenido de humedad (11–14%) y parece seca, es un ingrediente poroso que absorbe fácilmente la humedad y los olores del ambiente como una esponja. La exposición a la humedad provoca grumos y moho, convirtiéndola en un blanco fácil para las plagas de granos.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por el USDA y autoridades de seguridad alimentaria para mantener su harina fresca y en perfecto estado por meses. 🛡️",
-                "whyTitle": "¿Por qué almacenarla así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "No deje la harina abierta en su bolsa de papel original 🐛",
-                        "desc": "Las bolsas de papel y los empaques delgados son perforados fácilmente por larvas de plagas y absorben la humedad del aire, causando grumos y moho. Transfiera siempre la harina a un recipiente hermético."
-                    },
-                    {
-                        "title": "Evite áreas húmedas y cálidas cerca de fregaderos o estufas ⚠️",
-                        "desc": "La alta humedad y el calor aceleran la degradación de la harina y crean las condiciones óptimas para la reproducción de plagas. Guárdela siempre en un ambiente fresco y seco."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Pase la harina a un recipiente hermético o frasco de vidrio — Barrera total contra humedad y plagas 📦",
-                        "text": "La clave para conservar la harina es bloquear por completo el aire, la humedad y las plagas. 💡 Consejo de almacenamiento: Vierta la harina en un frasco de vidrio o contenedor plástico hermético con sello de goma y cierre firmemente."
-                    },
-                    {
-                        "name": "Guarde en una alacena fresca y oscura a 15–20 °C — Almacenamiento óptimo a temperatura ambiente (6 a 12 meses) ☀️",
-                        "text": "Las condiciones estables y bien ventiladas son ideales para la harina. 💡 Consejo de almacenamiento: Mantenga los contenedores en una alacena oscura alejada de la luz solar directa (15–20 °C). (La harina integral debe refrigerarse debido a su mayor contenido graso)."
-                    },
-                    {
-                        "name": "Congele para almacenamiento a largo plazo o en verano — Conservación congelada (1+ años) ❄️",
-                        "text": "Durante veranos cálidos y húmedos, o para almacenar grandes cantidades, la congelación es el método más seguro. 💡 Consejo de almacenamiento: Selle de forma segura en una bolsa Ziploc y congele a menos de -18 °C. Deje que alcance la temperatura ambiente por completo antes de usar para evitar agrumamientos por condensación."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Encontré gorgojos/insectos en mi harina. ¿Qué debo hacer?",
-                        "answer": "Si hay plagas de granos presentes, lo más seguro es desechar la harina. Para prevenirlas, transfiera la harina a un recipiente hermético inmediatamente después de comprarla, o congele por 24–48 horas para matar cualquier huevo."
-                    },
-                    {
-                        "question": "¿Es diferente el almacenamiento para la harina integral en comparación con la harina blanca?",
-                        "answer": "Sí. La harina integral contiene el germen y el salvado, que son ricos en aceites naturales que se ponen rancios mucho más rápido que la harina blanca. Por lo tanto, la harina integral debe refrigerarse o congelarse preferiblemente tras su apertura."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver la farine fraîche : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la farine selon les directives officielles de sécurité.",
-                "authority": "USDA & MFDS",
-                "intro": "Avez-vous déjà laissé un paquet de farine dans votre placard pendant quelques mois pour constater qu'elle était grumeleuse, rance ou infestée d'insectes ? 🌾\n\nBien que la farine ait une faible teneur en humidité (11 à 14 %) et paraisse sèche, c'est un ingrédient poreux qui absorbe facilement l'humidité ambiante et les odeurs comme une éponge. L'exposition à l'humidité provoque des grumeaux et des moisissures, tout en en faisant une cible idéale pour les parasites des céréales.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes recommandé par le USDA et les autorités de sécurité alimentaire pour garder votre farine fraîche et de qualité pendant des mois. 🛡️",
-                "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne laissez pas la farine ouverte dans son sachet en papier d'origine 🐛",
-                        "desc": "Les sachets en papier et les emballages fins sont facilement perforés par les larves de parasites et absorbent l'humidité de l'air, provoquant des grumeaux et de la moisissure. Transférez toujours la farine dans un récipient hermétique."
-                    },
-                    {
-                        "title": "Évitez les zones chaudes et humides près des éviers ou des plaques de cuisson ⚠️",
-                        "desc": "L'humidité élevée et la chaleur accélèrent la dégradation de la farine et créent des conditions idéales pour la prolifération des nuisibles. Conservez-la toujours dans un endroit frais et sec."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Transférer dans un récipient hermétique ou un bocal en verre — Barrière totale contre l'humidité et les nuisibles 📦",
-                        "text": "La clé de la conservation de la farine est de bloquer complètement l'air, l'humidité et les parasites. 💡 Astuce de conservation : Versez la farine ouverte dans un bocal en verre ou une boîte plastique hermétique munie d'un joint en caoutchouc et fermez bien."
-                    },
-                    {
-                        "name": "Conserver dans un placard frais et sombre à 15–20 °C — Stockage optimal à température ambiante (6 à 12 mois) ☀️",
-                        "text": "Des conditions stables et bien ventilées conviennent le mieux à la farine. 💡 Astuce de conservation : Gardez les récipients dans un placard sombre à l'abri de la lumière directe (15–20 °C). (La farine complète doit toutefois être réfrigérée en raison de sa teneur en matières grasses)."
-                    },
-                    {
-                        "name": "Congeler pour un stockage de longue durée ou en été — Stockage congelé (1 an et plus) ❄️",
-                        "text": "Pendant les étés chauds et humides, ou pour stocker de grandes quantités, la congélation est la méthode la plus sûre. 💡 Astuce de conservation : Scellez solidement dans un sac Ziploc et congelez en dessous de -18 °C. Laissez revenir complètement à température ambiante avant usage pour éviter les grumeaux dus à la condensation."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "J'ai trouvé des insectes dans ma farine. Que dois-je faire ?",
-                        "answer": "En présence de parasites des céréales, il est plus prudent de jeter la farine. Pour les prévenir, transférez la farine dans un récipient hermétique dès l'achat ou congelez-la pendant 24 à 48 heures pour tuer les éventuels œufs."
-                    },
-                    {
-                        "question": "Le stockage est-il différent pour la farine complète par rapport à la farine blanche ?",
-                        "answer": "Oui. La farine complète contient le germe et le son, riches en huiles naturelles qui rancissent beaucoup plus vite que la farine blanche. Par conséquent, la farine complète doit de préférence être réfrigérée ou congelée après ouverture."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Mehl richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Mehl basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "USDA & MFDS",
-                "intro": "Haben Sie eine Papiertüte Mehl schon einmal einige Monate im Schrank stehen lassen, nur um festzustellen, dass es klumpig, alt oder von Mehlkäfern befallen war? 🌾\n\nObwohl Mehl einen geringen Feuchtigkeitsgehalt (11–14 %) hat und trocken erscheint, ist es ein poröses Lebensmittel, das Feuchtigkeit und Gerüche aus der Umgebung wie ein Schwamm aufsaugt. Feuchtigkeit führt zu Klumpenbildung und Schimmel und macht Mehl zu einem leichten Ziel für Vorratsschädlinge.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der von der USDA empfohlen wird, um Ihr Mehl monatelang frisch und von hoher Qualität zu halten. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Lassen Sie Mehl nicht in der Originalpapiertüte stehen 🐛",
-                        "desc": "Papiertüten werden leicht von Schädlingen (wie Mottenlarven) durchfressen und nehmen Luftfeuchtigkeit auf, was zu Klumpen und Schimmel führt. Füllen Sie Mehl nach dem Öffnen immer in ein luftdichtes Gefäß um."
-                    },
-                    {
-                        "title": "Feuchte und warme Bereiche nahe Spülen oder Herden meiden ⚠️",
-                        "desc": "Hohe Luftfeuchtigkeit und Hitze beschleunigen den Verderb von Mehl und schaffen ideale Bedingungen für die Vermehrung von Schädlingen. Bewahren Sie es stets kühl und trocken auf."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "In ein luftdichtes Gefäß oder Glas umfüllen — Vollständiger Schutz vor Feuchtigkeit und Schädlingen 📦",
-                        "text": "Der Schlüssel zur Mehlaufbewahrung ist der absolute Ausschluss von Luft, Feuchtigkeit und Schädlingen. 💡 Lagerungstipp: Füllen Sie geöffnetes Mehl in ein Schraubglas oder eine luftdichte Kunststoffdose mit Gummidichtung um und verschließen Sie den Deckel fest."
-                    },
-                    {
-                        "name": "Bei 15–20 °C kühl und dunkel lagern — Optimale Raumtemperaturlagerung (6–12 Monate) ☀️",
-                        "text": "Stabile, gut belüftete Bedingungen eignen sich am besten für Mehl. 💡 Lagerungstipp: Bewahren Sie Dosen in einem dunklen Küchenschrank fern von direkter Sonneneinstrahlung auf (15–20 °C). (Vollkornmehl sollte wegen des höheren Fettgehalts im Kühlschrank gelagert werden)."
-                    },
-                    {
-                        "name": "Für Langzeitlagerung oder im Sommer einfrieren — Gefrierlagerung (1+ Jahre) ❄️",
-                        "text": "In heißen, feuchten Sommern oder bei Vorratsmengen ist das Einfrieren die sicherste Methode. 💡 Lagerungstipp: Dicht in einem Ziploc-Beutel verschließen und unter -18 °C einfrieren. Vor der Verwendung vollständig auf Raumtemperatur erwärmen lassen, um Kondenswasserklumpen zu vermeiden."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Ich habe Insekten in meinem Mehl gefunden. Was soll ich tun?",
-                        "answer": "Bei Schädlingsbefall ist es am sichersten, das Mehl zu entsorgen. Zur Vorbeugung Mehl direkt nach dem Kauf in ein luftdichtes Gefäß umfüllen oder 24–48 Stunden einfrieren, um eventuelle Eier abzutöten."
-                    },
-                    {
-                        "question": "Unterscheidet sich die Lagerung von Vollkornmehl im Vergleich zu normalem Weißmehl?",
-                        "answer": "Ja. Vollkornmehl enthält Keimlinge und Kleie, die reich an natürlichen Ölen sind und viel schneller ranzig werden als Weißmehl. Daher sollte Vollkornmehl nach dem Öffnen vorzugsweise im Kühlschrank oder Gefrierfach aufbewahrt werden."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar farinha fresca: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para a farinha com base em diretrizes oficiais de segurança.",
-                "authority": "USDA & MFDS",
-                "intro": "Você já guardou um pacote de farinha no armário por alguns meses e percebeu que ela empelotou, ficou com cheiro rançoso ou com carunchos? 🌾\n\nEmbora a farinha tenha um teor de umidade relativamente baixo (11–14%) e pareça seca, ela é um ingrediente poroso que absorve facilmente a umidade e os odores do ambiente como uma esponja. A exposição à umidade causa grumos e mofo, tornando-a um alvo fácil para pragas de grãos.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas recomendado pelo USDA e autoridades de segurança alimentar para manter sua farinha fresca e de alta qualidade por meses. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Não deixe a farinha aberta na embalagem original de papel 🐛",
-                        "desc": "Sacos de papel e embalagens finas são facilmente perfurados por larvas de pragas e absorvem a umidade do ar, causando grumos e mofo. Transfira sempre a farinha para um recipiente hermético."
-                    },
-                    {
-                        "title": "Evite áreas úmidas e quentes perto de pias ou fogões ⚠️",
-                        "desc": "Alta umidade e calor aceleram a degradação da farinha e criam as condições ideais para a proliferação de pragas. Mantenha-a sempre em um ambiente fresco e seco."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Transfira para um recipiente hermético ou pote de vidro — Proteção total contra umidade e pragas 📦",
-                        "text": "O segredo para guardar farinha é bloquear completamente o ar, a umidade e as pragas. 💡 Dica de conservação: Despeje a farinha aberta em um pote de vidro ou recipiente plástico hermético com vedação de borracha e feche bem."
-                    },
-                    {
-                        "name": "Guarde em armário fresco e escuro a 15–20 °C — Armazenamento ideal em temperatura ambiente (6 a 12 meses) ☀️",
-                        "text": "Condições estáveis e bem ventiladas são ótimas para a farinha. 💡 Dica de conservação: Mantenha os potes em um armário escuro longe da luz solar direta (15–20 °C). (A farinha integral deve ser refrigerada devido ao maior teor de gordura)."
-                    },
-                    {
-                        "name": "Congele para armazenamento de longo prazo ou no verão — Conservação congelada (1+ anos) ❄️",
-                        "text": "Durante verões quentes e úmidos, ou para estocar grandes quantidades, o congelamento é o método mais seguro. 💡 Dica de conservação: Sele firmemente em um saco Ziploc e congele abaixo de -18 °C. Deixe atingir a temperatura ambiente completamente antes de usar para evitar empelotamento por condensação."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Encontrei carunchos/insetos na minha farinha. O que devo fazer?",
-                        "answer": "Se houver pragas de grãos presentes, o mais seguro é descartar a farinha. Para prevenir, transfira a farinha para um recipiente hermético logo após a compra ou congele por 24–48 horas para eliminar eventuais ovos."
-                    },
-                    {
-                        "question": "O armazenamento é diferente para a farinha integral em comparação com a farinha branca?",
-                        "answer": "Sim. A farinha integral contém o gérmen e o farelo, que são ricos em óleos naturais que ficam rançosos muito mais rápido que a farinha branca. Portanto, a farinha integral deve de preferência ser refrigerada ou congelada após aberta."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Tepung agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk tepung berdasarkan pedoman keselamatan resmi.",
-                "authority": "USDA & MFDS",
-                "intro": "Pernahkah Anda menyimpan sekantong tepung di lemari selama beberapa bulan, lalu mendapatinya menggumpal, berbau apek, atau dihinggapi kutu beras? 🌾\n\nMeskipun tepung memiliki kadar air yang rendah (11–14%) dan tampak kering, tepung adalah bahan berpori yang mudah menyerap kelembapan dan bau di sekitarnya seperti spons. Paparan kelembapan menyebabkan penggumpalan dan jamur, serta menjadikannya sasaran empuk hama biji-bijian.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh USDA untuk menjaga tepung Anda tetap segar dan berkualitas tinggi selama berbulan-bulan. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan biarkan tepung terbuka dalam kemasan kertas aslinya 🐛",
-                        "desc": "Kantong kertas dan kemasan tipis mudah ditembus oleh larva hama dan menyerap kelembapan udara, menyebabkan penggumpalan dan jamur. Selalu pindahkan tepung ke wadah kedap udara setelah dibuka."
-                    },
-                    {
-                        "title": "Hindari area lembap dan panas di dekat tempat cuci piring atau kompor ⚠️",
-                        "desc": "Kelembapan tinggi dan panas mempercepat kerusakan tepung dan menciptakan kondisi ideal bagi perkembangbiakan hama. Selalu simpan di lingkungan yang sejuk dan kering."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Pindahkan ke wadah kedap udara atau toples kaca — Perlindungan Total dari Kelembapan & Hama 📦",
-                        "text": "Kunci menyimpan tepung adalah menutup rapat akses udara, kelembapan, dan hama. 💡 Tips Penyimpanan: Tuang tepung yang sudah dibuka ke dalam toples kaca atau wadah plastik kedap udara dengan karet penyegel lalu tutup rapat."
-                    },
-                    {
-                        "name": "Simpan di lemari sejuk dan gelap pada suhu 15–20°C — Simpan Suhu Ruang Optimal (6–12 Bulan) ☀️",
-                        "text": "Kondisi yang stabil dan berventilasi baik sangat ideal untuk tepung. 💡 Tips Penyimpanan: Simpan wadah di lemari dapur yang gelap dan jauh dari sinar matahari langsung (15–20°C). (Tepung gandum utuh sebaiknya didinginkan karena kandungan lemaknya lebih tinggi)."
-                    },
-                    {
-                        "name": "Bekukan untuk penyimpanan jangka panjang atau saat musim panas — Simpan Beku (1+ Tahun) ❄️",
-                        "text": "Selama musim panas yang panas dan lembap, atau untuk penyimpanan dalam jumlah banyak, pembekuan adalah metode paling aman. 💡 Tips Penyimpanan: Segel rapat dalam kantong Ziploc dan bekukan di bawah -18°C. Biarkan mencapai suhu ruang sepenuhnya sebelum digunakan untuk mencegah penggumpalan akibat kondensasi."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Saya menemukan kutu/serangga di dalam tepung saya. Apa yang harus saya lakukan?",
-                        "answer": "Jika terdapat hama biji-bijian, yang paling aman adalah membuang tepung tersebut. Untuk mencegahnya, pindahkan tepung ke wadah kedap udara segera setelah dibeli, atau bekukan selama 24–48 jam untuk membunuh telurnya."
-                    },
-                    {
-                        "question": "Apakah penyimpanan tepung gandum utuh berbeda dengan tepung terigu biasa?",
-                        "answer": "Ya. Tepung gandum utuh mengandung dedak dan germina yang kaya akan minyak alami yang lebih cepat tengik dibandingkan tepung terigu biasa. Oleh karena itu, tepung gandum utuh sebaiknya disimpan di kulkas atau freezer setelah dibuka."
-                    }
-                ]
-            }
-        }
+  "how-to-store-flour": {
+    "ingId": "flour",
+    "pubDate": "2026-03-09",
+    "updatedDate": "2026-03-09",
+    "heroImage": "/images/blog/flour_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "밀가루 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 밀가루의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+        "intro": "대용량으로 산 밀가루를 봉지째 찬장에 넣어두었다가 눅눅해지거나 쌀바구미, 화랑곡나방 같은 곡물 해충이 생겨 버린 경험 다들 있으시죠? 🌾\n\n밀가루는 수분 함량이 11~14%로 비교적 낮아 건조해 보이지만, 공기 중의 습기와 냄새를 스펀지처럼 쉽게 흡수하는 다공성 식재료입니다. 습기에 노출되면 덩어리지거나 곰팡이가 피고, 쌀벌레 등 해충의 표적이 되기 쉽습니다.\n\n이번 가이드에서는 미국 농무부(USDA)와 식품안전 당국의 가이드라인을 바탕으로, 밀가루의 고소한 풍미와 품질을 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "개봉 후 종이 포장재째 그대로 방치하지 마세요 🐛",
+            "desc": "종이 포장재나 얇은 비닐은 곡물 해충(화랑곡나방 유충 등)이 쉽게 뚫고 침입하며, 공기 중의 습기를 흡수해 덩어리지거나 곰팡이가 습니다. 개봉 후에는 즉시 밀폐 용기로 옮겨 담아야 합니다."
+          },
+          {
+            "title": "습하고 온도가 높은 싱크대 아래나 가스레인지 주변에 두지 마세요 ⚠️",
+            "desc": "높은 습도와 열기는 밀가루의 변질을 촉진하고 해충 번식을 돕는 최적의 환경을 만듭니다. 반드시 서늘하고 건조한 장소에 보관하세요."
+          }
+        ],
+        "steps": [
+          {
+            "name": "밀폐 용기나 유리병에 담기 — 습기 및 해충 완벽 차단 📦",
+            "text": "밀가루 보관의 핵심은 공기와 습기, 해충의 유입을 원천 차단하는 것입니다. 💡 보관 팁: 개봉한 밀가루는 고무 패킹이 있는 밀폐 용기나 유리병에 담고 뚜껑을 단단히 닫아주세요."
+          },
+          {
+            "name": "15~20℃ 서늘하고 어두운 찬장에 보관하기 — 적정 상온 보관 (6~12개월) ☀️",
+            "text": "온도 변화가 적고 통풍이 잘되는 환경이 밀가루 보관에 가장 좋습니다. 💡 보관 팁: 직사광선을 피해 어두운 찬장이나 팬트리(15~20℃)에 보관하면 일반 밀가루는 수개월~1년 이상 품질을 유지할 수 있습니다. (전립분은 지방 함량이 높아 냉장 보관 권장)"
+          },
+          {
+            "name": "장기 보관 또는 여름철에는 냉동 보관하기 — 장기 보관 (1년 이상) ❄️",
+            "text": "기온과 습도가 높은 여름철이나 대용량 밀가루를 오래 두고 쓸 때는 냉동 보관이 안전합니다. 💡 보관 팁: 지퍼백에 밀봉하여 냉동실(-18℃ 이하)에 보관하세요. 사용 전 실온으로 완전히 해동(결로 방지)한 뒤 사용해야 뭉침을 막을 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "밀가루에 벌레(쌀벌레 등)가 생겼는데 어떻게 해야 하나요?",
+            "answer": "곡물 해충이 발생했다면 즉시 폐기하는 것이 안전합니다. 해충을 예방하려면 구매 직후 밀폐 용기에 담고, 소량씩 나누어 냉동실에 24~48시간 얼린 후 보관하면 해충의 알까지 박멸할 수 있습니다."
+          },
+          {
+            "question": "통밀가루(전립분)와 일반 밀가루의 보관 방법이 다른가요?",
+            "answer": "네. 통밀가루는 씨눈과 껍질이 포함되어 있어 불포화지방산이 풍부하므로 일반 밀가루보다 훨씬 빨리 산패됩니다. 따라서 통밀가루는 개봉 후 가급적 냉장 또는 냉동 보관하는 것이 좋습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Store Flour Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for flour based on official safety guidelines.",
+        "authority": "USDA & MFDS",
+        "intro": "Have you ever stored a bag of flour in your pantry for a few months, only to find it clumpy, stale, or infested with weevils and pantry bugs? 🌾\n\nWhile flour has a low moisture content (11–14%) and seems dry, it is a porous ingredient that easily absorbs ambient moisture and odors like a sponge. Exposure to humidity causes clumping and mold growth, while making it a prime target for grain pests.\n\nIn this guide, introduces a scientifically proven 3-step storage guide recommended by the USDA and food safety authorities to keep your flour fresh and high quality for months. 🛡️",
+        "whyTitle": "Why Store Flour This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Do not leave opened flour in its original paper bag 🐛",
+            "desc": "Paper bags and thin packaging are easily penetrated by pantry pest larvae and absorb moisture from the air, causing clumping and mold. Always transfer flour to an airtight container after opening."
+          },
+          {
+            "title": "Avoid humid, warm areas near sinks or stovetops ⚠️",
+            "desc": "High humidity and heat accelerate flour degradation and create optimal conditions for pest breeding. Always store it in a cool, dry environment."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Transfer to an airtight container or glass jar — Complete Moisture & Pest Barrier 📦",
+            "text": "The key to storing flour is completely blocking air, moisture, and pests. 💡 Storage Tip: Pour opened flour into a glass jar or airtight plastic container with a rubber seal and lock the lid tightly."
+          },
+          {
+            "name": "Store in a cool, dark pantry at 15–20°C — Optimal Room Temperature Storage (6–12 Months) ☀️",
+            "text": "Stable, well-ventilated conditions are best for flour storage. 💡 Storage Tip: Keep containers in a dark pantry or cupboard away from direct sunlight (15–20°C / 59–68°F). (Whole wheat flour, however, should be refrigerated due to higher fat content.)"
+          },
+          {
+            "name": "Freeze for long-term storage or during summer — Extended Frozen Storage (1+ Years) ❄️",
+            "text": "During hot, humid summers or for bulk storage, freezing is the safest method. 💡 Storage Tip: Seal securely in a Ziploc bag and freeze below -18°C (-0.4°F). Bring to room temperature completely before use to prevent condensation clumping."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "I found weevils/bugs in my flour. What should I do?",
+            "answer": "If grain pests are present, it is safest to discard the flour. To prevent pests, transfer flour to an airtight container immediately after purchase, or freeze it for 24–48 hours to kill any eggs."
+          },
+          {
+            "question": "Is storage different for whole wheat flour compared to all-purpose flour?",
+            "answer": "Yes. Whole wheat flour contains the germ and bran, which are rich in natural oils that go rancid much faster than all-purpose flour. Therefore, whole wheat flour should preferably be refrigerated or frozen after opening."
+          }
+        ]
+      },
+      "ja": {
+        "title": "小麦粉を新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づく小麦粉の最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "買った小麦粉の袋をそのまま戸棚に置いておいたら、湿気て固まったり、コクゾウムシなどの穀物害虫が発生して捨ててしまった経験はありませんか？🌾\n\n小麦粉は水分含有量が11〜14%と比較的低く乾燥しているように見えますが、空気中の湿気やニオイをスポンジのように吸収する多孔質な食材です。湿気に晒されると固まったりカビが生えたりし、害虫の標的にもなりやすいです。\n\n本記事では、米国農務省（USDA）などの安全ガイドラインに基づき、小麦粉の風味と品質を長く保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "開封後に紙袋のまま放置しないでください 🐛",
+            "desc": "紙袋や薄い包装は害虫（メイガの幼虫など）が簡単に食い破って侵入し、湿気を吸って固まる原因になります。開封後はすぐに密閉容器に移し替えてください。"
+          },
+          {
+            "title": "湿気の高いシンク下やコンロ周りに置かないでください ⚠️",
+            "desc": "高温多湿は小麦粉の劣化を早め、害虫が繁殖する最適な環境を作ります。必ず涼しく乾燥した場所で保管してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "密閉容器やガラス瓶に移す — 湿気と害虫の完全遮断 📦",
+            "text": "小麦粉保存の鍵は、空気、湿気、害虫の侵入を元から断つことです。💡保存のコツ：開封した小麦粉はパッキン付きの密閉容器やガラス瓶に入れ、フタをしっかり閉めてください。"
+          },
+          {
+            "name": "15〜20℃の涼しく暗い棚で保存する — 最適な常温保存 (6〜12ヶ月) ☀️",
+            "text": "温度変化が少なく風通しの良い環境が小麦粉に最適です。💡保存のコツ：直射日光を避け、暗い戸棚やパントリー（15〜20℃）で保存すれば数ヶ月〜1年間品質を維持できます。（全粒粉は脂質が多く含まれるため冷蔵保存が推奨されます）"
+          },
+          {
+            "name": "長期保存や夏場は冷凍保存する — 長期保存 (1年以上) ❄️",
+            "text": "湿度の高い夏場や、大容量の小麦粉を長期間使う場合は冷凍保存が安全です。💡保存のコツ：ジッパーバッグに密閉して冷凍室（-18℃以下）で保存します。使用する際は、結露を防ぐため完全に室温に戻してから使用してください。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "小麦粉に虫が発生してしまったのですが、どうすればいいですか？",
+            "answer": "小麦粉に虫（コクゾウムシなど）が発生した場合、安全のため廃棄することをおすすめします。予防するには、購入後すぐに密閉容器に入れ、24〜48時間冷凍して卵を死滅させるのが効果的です。"
+          },
+          {
+            "question": "全粒粉と通常の小麦粉で保存方法は異なりますか？",
+            "answer": "はい。全粒粉は胚芽やふすまが含まれており不飽和脂肪酸が豊富なため、普通の小麦粉よりもはるかに早く酸化します。そのため、全粒粉は開封後、冷蔵または冷凍保存するのが望ましいです。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持面粉新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解面粉的最佳储存温度、方式和保鲜时长。",
+        "authority": "美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "您是否曾将买回的面粉连同原纸袋一起放在橱柜里，过了一段时间发现面粉结块、受潮甚至长了面虫？🌾\n\n面粉的水分含量较低（约11~14%），虽然看起来干燥，但它是一种多孔性食材，会像海绵一样轻易吸收空气中的湿气与异味。一旦受潮极易结块发霉，并成为谷物害虫的目标。\n\n本指南基于美国农务部(USDA)与食品安全指南，为您带来3步科学保存面粉的秘诀，帮您长久锁住面粉的品质与新鲜。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "拆封后切勿直接保留原纸袋存放 🐛",
+            "desc": "原纸袋或薄包装极易被谷物害虫（如印度谷螟幼虫）咬破侵入，且会吸收空气中的湿气导致结块发霉。拆封后请务必立即转移至密封容器中。"
+          },
+          {
+            "title": "切勿存放在水槽下或灶台旁等潮湿温热处 ⚠️",
+            "desc": "高温高湿会加速面粉变质，并为害虫繁殖提供温床。请务必存放在阴凉干燥的环境中。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "转移至密封容器或玻璃瓶中 — 彻底阻绝湿气与害虫 📦",
+            "text": "保存面粉的核心在于彻底隔绝空气、湿气与害虫。💡储存小贴士：将拆封后的面粉倒入带有橡胶密封圈的玻璃瓶或密封塑料盒中，紧扣盒盖。"
+          },
+          {
+            "name": "存放在15~20℃阴凉避光的橱柜中 — 适温常温保存 (6~12个月) ☀️",
+            "text": "温度稳定且通风良好的环境最适合面粉保存。💡储存小贴士：避开阳光直射，存放在阴暗的橱柜或储藏室（15~20℃）中，普通面粉可保持数月至1年品质。（全麦粉因含脂肪较多建议冷藏）"
+          },
+          {
+            "name": "长期保存或夏季时进行冷冻保存 — 长期冷冻保存 (1年以上) ❄️",
+            "text": "在潮湿闷热的夏季或储存大包装面粉时，冷冻是最安全的方法。💡储存小贴士：用密封袋装好放入冷冻室（-18℃以下）。使用前务必在常温下完全解冻（防止结露），以免面粉结块。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "面粉里长了虫子该怎么办？",
+            "answer": "如果发现面粉中滋生谷物害虫，为了安全起见建议直接丢弃。预防方法是购买后立即转移至密封盒，或先放入冷冻室冷冻24~48小时以杀灭虫卵。"
+          },
+          {
+            "question": "全麦面粉和普通面粉的保存方法一样吗？",
+            "answer": "不一样。全麦面粉保留了麸皮和胚芽，富含天然油脂，比普通面粉更容易氧化变质。因此，全麦面粉拆封后最好放入冰箱冷藏或冷冻保存。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener la harina fresca: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la harina según las directrices oficiales de seguridad.",
+        "authority": "USDA & MFDS",
+        "intro": "¿Alguna vez guardó un paquete de harina en la alacena por unos meses y descubrió que estaba grumosa, rancia o con gorgojos? 🌾\n\nAunque la harina tiene un bajo contenido de humedad (11–14%) y parece seca, es un ingrediente poroso que absorbe fácilmente la humedad y los olores del ambiente como una esponja. La exposición a la humedad provoca grumos y moho, convirtiéndola en un blanco fácil para las plagas de granos.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por el USDA y autoridades de seguridad alimentaria para mantener su harina fresca y en perfecto estado por meses. 🛡️",
+        "whyTitle": "¿Por qué almacenarla así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "No deje la harina abierta en su bolsa de papel original 🐛",
+            "desc": "Las bolsas de papel y los empaques delgados son perforados fácilmente por larvas de plagas y absorben la humedad del aire, causando grumos y moho. Transfiera siempre la harina a un recipiente hermético."
+          },
+          {
+            "title": "Evite áreas húmedas y cálidas cerca de fregaderos o estufas ⚠️",
+            "desc": "La alta humedad y el calor aceleran la degradación de la harina y crean las condiciones óptimas para la reproducción de plagas. Guárdela siempre en un ambiente fresco y seco."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Pase la harina a un recipiente hermético o frasco de vidrio — Barrera total contra humedad y plagas 📦",
+            "text": "La clave para conservar la harina es bloquear por completo el aire, la humedad y las plagas. 💡 Consejo de almacenamiento: Vierta la harina en un frasco de vidrio o contenedor plástico hermético con sello de goma y cierre firmemente."
+          },
+          {
+            "name": "Guarde en una alacena fresca y oscura a 15–20 °C — Almacenamiento óptimo a temperatura ambiente (6 a 12 meses) ☀️",
+            "text": "Las condiciones estables y bien ventiladas son ideales para la harina. 💡 Consejo de almacenamiento: Mantenga los contenedores en una alacena oscura alejada de la luz solar directa (15–20 °C). (La harina integral debe refrigerarse debido a su mayor contenido graso)."
+          },
+          {
+            "name": "Congele para almacenamiento a largo plazo o en verano — Conservación congelada (1+ años) ❄️",
+            "text": "Durante veranos cálidos y húmedos, o para almacenar grandes cantidades, la congelación es el método más seguro. 💡 Consejo de almacenamiento: Selle de forma segura en una bolsa Ziploc y congele a menos de -18 °C. Deje que alcance la temperatura ambiente por completo antes de usar para evitar agrumamientos por condensación."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Encontré gorgojos/insectos en mi harina. ¿Qué debo hacer?",
+            "answer": "Si hay plagas de granos presentes, lo más seguro es desechar la harina. Para prevenirlas, transfiera la harina a un recipiente hermético inmediatamente después de comprarla, o congele por 24–48 horas para matar cualquier huevo."
+          },
+          {
+            "question": "¿Es diferente el almacenamiento para la harina integral en comparación con la harina blanca?",
+            "answer": "Sí. La harina integral contiene el germen y el salvado, que son ricos en aceites naturales que se ponen rancios mucho más rápido que la harina blanca. Por lo tanto, la harina integral debe refrigerarse o congelarse preferiblemente tras su apertura."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver la farine fraîche : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la farine selon les directives officielles de sécurité.",
+        "authority": "USDA & MFDS",
+        "intro": "Avez-vous déjà laissé un paquet de farine dans votre placard pendant quelques mois pour constater qu'elle était grumeleuse, rance ou infestée d'insectes ? 🌾\n\nBien que la farine ait une faible teneur en humidité (11 à 14 %) et paraisse sèche, c'est un ingrédient poreux qui absorbe facilement l'humidité ambiante et les odeurs comme une éponge. L'exposition à l'humidité provoque des grumeaux et des moisissures, tout en en faisant une cible idéale pour les parasites des céréales.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes recommandé par le USDA et les autorités de sécurité alimentaire pour garder votre farine fraîche et de qualité pendant des mois. 🛡️",
+        "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne laissez pas la farine ouverte dans son sachet en papier d'origine 🐛",
+            "desc": "Les sachets en papier et les emballages fins sont facilement perforés par les larves de parasites et absorbent l'humidité de l'air, provoquant des grumeaux et de la moisissure. Transférez toujours la farine dans un récipient hermétique."
+          },
+          {
+            "title": "Évitez les zones chaudes et humides près des éviers ou des plaques de cuisson ⚠️",
+            "desc": "L'humidité élevée et la chaleur accélèrent la dégradation de la farine et créent des conditions idéales pour la prolifération des nuisibles. Conservez-la toujours dans un endroit frais et sec."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Transférer dans un récipient hermétique ou un bocal en verre — Barrière totale contre l'humidité et les nuisibles 📦",
+            "text": "La clé de la conservation de la farine est de bloquer complètement l'air, l'humidité et les parasites. 💡 Astuce de conservation : Versez la farine ouverte dans un bocal en verre ou une boîte plastique hermétique munie d'un joint en caoutchouc et fermez bien."
+          },
+          {
+            "name": "Conserver dans un placard frais et sombre à 15–20 °C — Stockage optimal à température ambiante (6 à 12 mois) ☀️",
+            "text": "Des conditions stables et bien ventilées conviennent le mieux à la farine. 💡 Astuce de conservation : Gardez les récipients dans un placard sombre à l'abri de la lumière directe (15–20 °C). (La farine complète doit toutefois être réfrigérée en raison de sa teneur en matières grasses)."
+          },
+          {
+            "name": "Congeler pour un stockage de longue durée ou en été — Stockage congelé (1 an et plus) ❄️",
+            "text": "Pendant les étés chauds et humides, ou pour stocker de grandes quantités, la congélation est la méthode la plus sûre. 💡 Astuce de conservation : Scellez solidement dans un sac Ziploc et congelez en dessous de -18 °C. Laissez revenir complètement à température ambiante avant usage pour éviter les grumeaux dus à la condensation."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "J'ai trouvé des insectes dans ma farine. Que dois-je faire ?",
+            "answer": "En présence de parasites des céréales, il est plus prudent de jeter la farine. Pour les prévenir, transférez la farine dans un récipient hermétique dès l'achat ou congelez-la pendant 24 à 48 heures pour tuer les éventuels œufs."
+          },
+          {
+            "question": "Le stockage est-il différent pour la farine complète par rapport à la farine blanche ?",
+            "answer": "Oui. La farine complète contient le germe et le son, riches en huiles naturelles qui rancissent beaucoup plus vite que la farine blanche. Par conséquent, la farine complète doit de préférence être réfrigérée ou congelée après ouverture."
+          }
+        ]
+      },
+      "de": {
+        "title": "Mehl richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Mehl basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "USDA & MFDS",
+        "intro": "Haben Sie eine Papiertüte Mehl schon einmal einige Monate im Schrank stehen lassen, nur um festzustellen, dass es klumpig, alt oder von Mehlkäfern befallen war? 🌾\n\nObwohl Mehl einen geringen Feuchtigkeitsgehalt (11–14 %) hat und trocken erscheint, ist es ein poröses Lebensmittel, das Feuchtigkeit und Gerüche aus der Umgebung wie ein Schwamm aufsaugt. Feuchtigkeit führt zu Klumpenbildung und Schimmel und macht Mehl zu einem leichten Ziel für Vorratsschädlinge.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der von der USDA empfohlen wird, um Ihr Mehl monatelang frisch und von hoher Qualität zu halten. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Lassen Sie Mehl nicht in der Originalpapiertüte stehen 🐛",
+            "desc": "Papiertüten werden leicht von Schädlingen (wie Mottenlarven) durchfressen und nehmen Luftfeuchtigkeit auf, was zu Klumpen und Schimmel führt. Füllen Sie Mehl nach dem Öffnen immer in ein luftdichtes Gefäß um."
+          },
+          {
+            "title": "Feuchte und warme Bereiche nahe Spülen oder Herden meiden ⚠️",
+            "desc": "Hohe Luftfeuchtigkeit und Hitze beschleunigen den Verderb von Mehl und schaffen ideale Bedingungen für die Vermehrung von Schädlingen. Bewahren Sie es stets kühl und trocken auf."
+          }
+        ],
+        "steps": [
+          {
+            "name": "In ein luftdichtes Gefäß oder Glas umfüllen — Vollständiger Schutz vor Feuchtigkeit und Schädlingen 📦",
+            "text": "Der Schlüssel zur Mehlaufbewahrung ist der absolute Ausschluss von Luft, Feuchtigkeit und Schädlingen. 💡 Lagerungstipp: Füllen Sie geöffnetes Mehl in ein Schraubglas oder eine luftdichte Kunststoffdose mit Gummidichtung um und verschließen Sie den Deckel fest."
+          },
+          {
+            "name": "Bei 15–20 °C kühl und dunkel lagern — Optimale Raumtemperaturlagerung (6–12 Monate) ☀️",
+            "text": "Stabile, gut belüftete Bedingungen eignen sich am besten für Mehl. 💡 Lagerungstipp: Bewahren Sie Dosen in einem dunklen Küchenschrank fern von direkter Sonneneinstrahlung auf (15–20 °C). (Vollkornmehl sollte wegen des höheren Fettgehalts im Kühlschrank gelagert werden)."
+          },
+          {
+            "name": "Für Langzeitlagerung oder im Sommer einfrieren — Gefrierlagerung (1+ Jahre) ❄️",
+            "text": "In heißen, feuchten Sommern oder bei Vorratsmengen ist das Einfrieren die sicherste Methode. 💡 Lagerungstipp: Dicht in einem Ziploc-Beutel verschließen und unter -18 °C einfrieren. Vor der Verwendung vollständig auf Raumtemperatur erwärmen lassen, um Kondenswasserklumpen zu vermeiden."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Ich habe Insekten in meinem Mehl gefunden. Was soll ich tun?",
+            "answer": "Bei Schädlingsbefall ist es am sichersten, das Mehl zu entsorgen. Zur Vorbeugung Mehl direkt nach dem Kauf in ein luftdichtes Gefäß umfüllen oder 24–48 Stunden einfrieren, um eventuelle Eier abzutöten."
+          },
+          {
+            "question": "Unterscheidet sich die Lagerung von Vollkornmehl im Vergleich zu normalem Weißmehl?",
+            "answer": "Ja. Vollkornmehl enthält Keimlinge und Kleie, die reich an natürlichen Ölen sind und viel schneller ranzig werden als Weißmehl. Daher sollte Vollkornmehl nach dem Öffnen vorzugsweise im Kühlschrank oder Gefrierfach aufbewahrt werden."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar farinha fresca: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para a farinha com base em diretrizes oficiais de segurança.",
+        "authority": "USDA & MFDS",
+        "intro": "Você já guardou um pacote de farinha no armário por alguns meses e percebeu que ela empelotou, ficou com cheiro rançoso ou com carunchos? 🌾\n\nEmbora a farinha tenha um teor de umidade relativamente baixo (11–14%) e pareça seca, ela é um ingrediente poroso que absorve facilmente a umidade e os odores do ambiente como uma esponja. A exposição à umidade causa grumos e mofo, tornando-a um alvo fácil para pragas de grãos.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas recomendado pelo USDA e autoridades de segurança alimentar para manter sua farinha fresca e de alta qualidade por meses. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Não deixe a farinha aberta na embalagem original de papel 🐛",
+            "desc": "Sacos de papel e embalagens finas são facilmente perfurados por larvas de pragas e absorvem a umidade do ar, causando grumos e mofo. Transfira sempre a farinha para um recipiente hermético."
+          },
+          {
+            "title": "Evite áreas úmidas e quentes perto de pias ou fogões ⚠️",
+            "desc": "Alta umidade e calor aceleram a degradação da farinha e criam as condições ideais para a proliferação de pragas. Mantenha-a sempre em um ambiente fresco e seco."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Transfira para um recipiente hermético ou pote de vidro — Proteção total contra umidade e pragas 📦",
+            "text": "O segredo para guardar farinha é bloquear completamente o ar, a umidade e as pragas. 💡 Dica de conservação: Despeje a farinha aberta em um pote de vidro ou recipiente plástico hermético com vedação de borracha e feche bem."
+          },
+          {
+            "name": "Guarde em armário fresco e escuro a 15–20 °C — Armazenamento ideal em temperatura ambiente (6 a 12 meses) ☀️",
+            "text": "Condições estáveis e bem ventiladas são ótimas para a farinha. 💡 Dica de conservação: Mantenha os potes em um armário escuro longe da luz solar direta (15–20 °C). (A farinha integral deve ser refrigerada devido ao maior teor de gordura)."
+          },
+          {
+            "name": "Congele para armazenamento de longo prazo ou no verão — Conservação congelada (1+ anos) ❄️",
+            "text": "Durante verões quentes e úmidos, ou para estocar grandes quantidades, o congelamento é o método mais seguro. 💡 Dica de conservação: Sele firmemente em um saco Ziploc e congele abaixo de -18 °C. Deixe atingir a temperatura ambiente completamente antes de usar para evitar empelotamento por condensação."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Encontrei carunchos/insetos na minha farinha. O que devo fazer?",
+            "answer": "Se houver pragas de grãos presentes, o mais seguro é descartar a farinha. Para prevenir, transfira a farinha para um recipiente hermético logo após a compra ou congele por 24–48 horas para eliminar eventuais ovos."
+          },
+          {
+            "question": "O armazenamento é diferente para a farinha integral em comparação com a farinha branca?",
+            "answer": "Sim. A farinha integral contém o gérmen e o farelo, que são ricos em óleos naturais que ficam rançosos muito mais rápido que a farinha branca. Portanto, a farinha integral deve de preferência ser refrigerada ou congelada após aberta."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Tepung agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk tepung berdasarkan pedoman keselamatan resmi.",
+        "authority": "USDA & MFDS",
+        "intro": "Pernahkah Anda menyimpan sekantong tepung di lemari selama beberapa bulan, lalu mendapatinya menggumpal, berbau apek, atau dihinggapi kutu beras? 🌾\n\nMeskipun tepung memiliki kadar air yang rendah (11–14%) dan tampak kering, tepung adalah bahan berpori yang mudah menyerap kelembapan dan bau di sekitarnya seperti spons. Paparan kelembapan menyebabkan penggumpalan dan jamur, serta menjadikannya sasaran empuk hama biji-bijian.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh USDA untuk menjaga tepung Anda tetap segar dan berkualitas tinggi selama berbulan-bulan. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan biarkan tepung terbuka dalam kemasan kertas aslinya 🐛",
+            "desc": "Kantong kertas dan kemasan tipis mudah ditembus oleh larva hama dan menyerap kelembapan udara, menyebabkan penggumpalan dan jamur. Selalu pindahkan tepung ke wadah kedap udara setelah dibuka."
+          },
+          {
+            "title": "Hindari area lembap dan panas di dekat tempat cuci piring atau kompor ⚠️",
+            "desc": "Kelembapan tinggi dan panas mempercepat kerusakan tepung dan menciptakan kondisi ideal bagi perkembangbiakan hama. Selalu simpan di lingkungan yang sejuk dan kering."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Pindahkan ke wadah kedap udara atau toples kaca — Perlindungan Total dari Kelembapan & Hama 📦",
+            "text": "Kunci menyimpan tepung adalah menutup rapat akses udara, kelembapan, dan hama. 💡 Tips Penyimpanan: Tuang tepung yang sudah dibuka ke dalam toples kaca atau wadah plastik kedap udara dengan karet penyegel lalu tutup rapat."
+          },
+          {
+            "name": "Simpan di lemari sejuk dan gelap pada suhu 15–20°C — Simpan Suhu Ruang Optimal (6–12 Bulan) ☀️",
+            "text": "Kondisi yang stabil dan berventilasi baik sangat ideal untuk tepung. 💡 Tips Penyimpanan: Simpan wadah di lemari dapur yang gelap dan jauh dari sinar matahari langsung (15–20°C). (Tepung gandum utuh sebaiknya didinginkan karena kandungan lemaknya lebih tinggi)."
+          },
+          {
+            "name": "Bekukan untuk penyimpanan jangka panjang atau saat musim panas — Simpan Beku (1+ Tahun) ❄️",
+            "text": "Selama musim panas yang panas dan lembap, atau untuk penyimpanan dalam jumlah banyak, pembekuan adalah metode paling aman. 💡 Tips Penyimpanan: Segel rapat dalam kantong Ziploc dan bekukan di bawah -18°C. Biarkan mencapai suhu ruang sepenuhnya sebelum digunakan untuk mencegah penggumpalan akibat kondensasi."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Saya menemukan kutu/serangga di dalam tepung saya. Apa yang harus saya lakukan?",
+            "answer": "Jika terdapat hama biji-bijian, yang paling aman adalah membuang tepung tersebut. Untuk mencegahnya, pindahkan tepung ke wadah kedap udara segera setelah dibeli, atau bekukan selama 24–48 jam untuk membunuh telurnya."
+          },
+          {
+            "question": "Apakah penyimpanan tepung gandum utuh berbeda dengan tepung terigu biasa?",
+            "answer": "Ya. Tepung gandum utuh mengandung dedak dan germina yang kaya akan minyak alami yang lebih cepat tengik dibandingkan tepung terigu biasa. Oleh karena itu, tepung gandum utuh sebaiknya disimpan di kulkas atau freezer setelah dibuka."
+          }
+        ]
+      }
     }
+  }
 }

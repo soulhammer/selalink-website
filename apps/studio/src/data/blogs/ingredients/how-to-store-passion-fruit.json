@@ -1,406 +1,406 @@
 {
-    "how-to-store-passion-fruit": {
-        "ingId": "passion-fruit",
-        "pubDate": "2026-05-28",
-        "updatedDate": "2026-05-28",
-        "heroImage": "/images/blog/passion_fruit_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "패션후르츠(백향과) 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 패션후르츠의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 食品医薬品安全処(MFDS)",
-                "intro": "음료나 디저트 재료로 인기가 높은 패션후르츠(백향과)를 상온에 두었더니 껍질이 쭈글쭈글해져 상한 것인지 걱정된 적 있으시죠? 🥭\n\n패션후르츠는 수확 후에도 스스로 에틸렌(Ethylene) 가스를 방출하며 급격히 후숙되는 대표적인 호흡급등형(Climacteric) 과일입니다. 후숙 과정에서 과피의 수분 손실(Desiccation)로 껍질에 주름이 자글자글 생기게 되는데, 이는 내부 산도가 감소하고 당도가 축적되는 정상적인 생화학적 대사 과정입니다. 완숙 완료 후에는 5~7℃ 냉장 보관을 통해 과숙 및 부패를 지연시키는 것이 신선도 관리의 핵심입니다.\n\n이번 가이드에서는 USDA, FDA, 식품의약품안전처의 검증된 가이드라인을 바탕으로, 패션후르츠의 최상의 당도와 새콤달콤한 풍미를 오랫동안 보존하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 호흡급등 생리 및 과피 수분 손실에 따른 당도 변화 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 최상의 풍미와 신선도 유지에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "미완숙 상태에서 저온(냉장) 보관하지 마세요 ⚠️",
-                        "desc": "껍질이 매끈하고 단단한 덜 익은 패션후르츠를 5℃ 이하 저온에 두면 저온 장애(Chilling Injury)를 입어 후숙이 영구적으로 멈추고 당도가 올라가지 않습니다. 반드시 상온에서 주름이 생길 때까지 후숙시켜야 합니다."
-                    },
-                    {
-                        "title": "완숙 후 상온에 장기간 방치하여 과숙 부패되는 것을 막으세요 🛑",
-                        "desc": "겉껍질에 주름이 자글자글 생기고 향이 진해진 완숙 상태에서 상온에 오래 방치하면 에틸렌 반응이 과도하게 진행되어 과육이 발효되거나 곰팡이가 생깁니다. 완숙 즉시 냉장 또는 냉동 보관해야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "껍질이 쭈글해질 때까지 상온에서 후숙하기 — 상온 후숙 (3~5일) 🥑",
-                        "text": "단단하고 매끈한 미완숙 패션후르츠는 20~25℃ 상온에 두어야 정상적으로 후숙됩니다. 💡 보관 팁: 직사광선이 없는 서늘한 상온에 두면 과피 수분 손실로 껍질에 주름이 생기면서 산도가 낮아지고 당도가 극대화됩니다."
-                    },
-                    {
-                        "name": "후숙 완료 후 랩 포장하여 냉장 보관하기 — 저온 냉장 (7~14일) ❄️",
-                        "text": "껍질 전체에 주름이 잡히고 달콤한 향이 진해지면 후숙이 완료된 상태입니다. 💡 보관 팁: 완숙된 과실은 식품용 랩으로 개별 밀봉하거나 밀폐 용기에 담아 냉장고 야채칸(5~7℃)에 보관하세요. 에틸렌 작용이 억제되어 1~2주간 신선함이 유지됩니다."
-                    },
-                    {
-                        "name": "과육(퓨레)만 추출하여 밀봉 냉동하기 — 과육 냉동 보관 (180일) 🧊",
-                        "text": "장기간 보관하여 음료나 에이드로 활용하고 싶다면 과육만 분리해 냉동하는 것이 가장 좋습니다. 💡 보관 팁: 반으로 잘라 씨앗과 과육을 긁어낸 뒤 얼음 트레이나 밀폐 용기, 지퍼백에 담아 냉동실(-18℃ 이하)에 보관하세요. 6개월 동안 변질 없이 새콤달콤한 풍미를 즐길 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "패션후르츠 껍질이 쭈글쭈글해졌는데 상한 건가요?",
-                        "answer": "절대 상한 것이 아닙니다! 패션후르츠는 호흡급등형 과일로, 후숙 과정에서 껍질의 수분이 빠져나가면서(Desiccation) 쭈글쭈글해집니다. 이 시기가 산도는 줄어들고 당도가 가장 높아진 완숙 상태이므로 가장 맛있는 시점입니다."
-                    },
-                    {
-                        "question": "패션후르츠를 얼릴 때 껍질째 얼려도 되나요, 과육만 얼려야 하나요?",
-                        "answer": "과육(퓨레)만 따로 추출하여 얼리는 것을 강력히 추천합니다! 껍질째 얼리면 냉동실 부피를 많이 차지할 뿐만 아니라 해동 시 과피 세포가 파괴되어 즙이 과도하게 흘러나오고 손질하기 불편해집니다. 과육만 과즙 형태로 추출해 냉동 용기나 지퍼백에 보관하는 것이 풍미와 위생 관리에 훨씬 유리합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Passion Fruit Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for passion fruit based on official safety guidelines.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "When leaving passion fruit out at room temperature for drinks or desserts, have you ever worried that its skin becoming wrinkled means it has gone bad? 🥭\n\nPassion fruit is a classic climacteric fruit that releases ethylene gas post-harvest, undergoing rapid ripening. During ripening, moisture loss (desiccation) causes the outer skin to wrinkle, which is a normal biochemical metabolic process where internal acidity drops and sugars concentrate. Once fully ripened, refrigerating at 5–7°C to delay over-ripening and decay is the key to freshness management.\n\nIn this guide, we share a scientifically proven 3-step passion fruit storage guide based on guidelines from the USDA, FDA, and MFDS to safely preserve its sweet-and-tart flavor and peak sweetness. 🛡️",
-                "whyTitle": "Why Store Passion Fruit This Way? Scientific Facts",
-                "whyDesc": "Understanding climacteric physiology and sugar concentration caused by skin desiccation is essential for maintaining peak flavor and freshness.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never refrigerate unripe passion fruit ⚠️",
-                        "desc": "Placing firm, smooth, unripe passion fruit below 5°C causes chilling injury, permanently halting the ripening process and preventing sugar accumulation. Always ripen at room temperature until wrinkles appear."
-                    },
-                    {
-                        "title": "Prevent over-ripening and decay after full maturation 🛑",
-                        "desc": "Leaving fully ripened passion fruit with wrinkled skin at room temperature for too long causes excessive ethylene reaction, leading to pulp fermentation or mold. Refrigerate or freeze immediately upon full ripening."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Ripen at room temperature until wrinkled — Room Temp Ripening (3–5 Days) 🥑",
-                        "text": "Firm, smooth, unripe passion fruit must be kept at 20–25°C to ripen normally. 💡 Storage Tip: Keep in a cool room away from direct sunlight; moisture loss from the peel will create heavy wrinkles, lowering acidity and maximizing sweetness."
-                    },
-                    {
-                        "name": "Wrap and refrigerate once fully ripe — Cold Refrigeration (7–14 Days) ❄️",
-                        "text": "Passion fruit is fully ripe when the entire skin is deeply wrinkled and emits a rich, sweet aroma. 💡 Storage Tip: Wrap ripe fruits individually in plastic wrap or place in an airtight container in the crisper drawer (5–7°C / 41–45°F). Inhibits ethylene action to keep fresh for 1 to 2 weeks."
-                    },
-                    {
-                        "name": "Scoop out pulp and seal tightly for freezing — Frozen Pulp Storage (180 Days) 🧊",
-                        "text": "If you want to store passion fruit long-term for beverages or desserts, freezing only the pulp is the best method. 💡 Storage Tip: Cut in half, scoop out the seeds and pulp, and store in ice trays, airtight containers, or freezer bags below -18°C (0°F). Enjoy sweet and tangy flavor for up to 6 months."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "My passion fruit skin is deeply wrinkled. Has it spoiled?",
-                        "answer": "Not at all! Passion fruit is a climacteric fruit, and as it ripens, moisture loss (desiccation) causes its outer peel to wrinkle. This indicates full maturation where acidity is reduced and sugar levels peak, making it the most delicious time to eat."
-                    },
-                    {
-                        "question": "Should I freeze passion fruit whole with the skin, or only the pulp?",
-                        "answer": "Scooping out and freezing only the pulp is strongly recommended! Freezing whole fruits takes up excessive freezer space, and upon thawing, skin cells collapse, causing messy juice leakage and difficult prep. Storing extracted pulp in containers or freezer bags is far superior for flavor and hygiene."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "パッションフルーツ（百香果）を新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくパッションフルーツの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
-                "intro": "ドリンクやスイーツの材料として人気のパッションフルーツを常温に置いておいたら、皮がシワシワになって腐ってしまったのかと心配したことはありませんか？🥭\n\nパッションフルーツは収穫後も自らエチレンガスを放出し、急速に追熟する代表的な追熟型（Climacteric）果実です。追熟の過程で果皮の水分が抜ける（Desiccation）ことで表面にシワができますが、これは内部の酸度が減少し甘みが蓄積される正常な生化学的大謝プロセスです。追熟完了後は5〜7℃で冷蔵保存し、熟しすぎによる腐敗を遅らせることが鮮度管理のポイントです。\n\n本記事では、USDA、FDA、食品医薬品安全処のガイドラインに基づき、パッションフルーツの甘みと甘酸っぱい風味を長期間保つ3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？ 科学的ファクト",
-                "whyDesc": "食材ごとの追熟生理や果皮の水分損失に伴う糖度変化の特性を理解し、それに合った正しい保存方法を実践することは、最高の風味と鮮度を維持する上で非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "未熟な状態で低温（冷蔵）保存しないでください ⚠️",
-                        "desc": "皮がツルツルとして固い未熟なパッションフルーツを5℃以下の低温に置くと、低温障害（Chilling Injury）を起こして追熟が永久に停止し甘みが上がりません。必ず常温でシワができるまで追熟させてください。"
-                    },
-                    {
-                        "title": "完熟後に常温で長時間放置し過熟腐敗させるのを防いでください 🛑",
-                        "desc": "表面全体にシワができ香りが強くなった完熟状態で常温に長く放置すると、エチレン反応が過剰に進行して果肉が発酵したりカビが発生します。完熟後は直ちに冷蔵または冷凍保存してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "皮にシワができるまで常温で追熟させる — 常温追熟 (3〜5日間) 🥑",
-                        "text": "固くツルツルとした未熟なパッションフルーツは20〜25℃の常温に置いて正常に追熟させます。💡保存のコツ：直射日光の当たらない涼しい常温に置くと、果皮の水分損失により表面にシワができ、酸度が下がって甘みが最大限に引き出されます。"
-                    },
-                    {
-                        "name": "追熟完了後はラップで包み冷蔵保存する — 低温冷蔵 (7〜14日間) ❄️",
-                        "text": "皮全体にシワが入り甘い香りが強くなったら追熟完了です。💡保存のコツ：完熟した果実はラップで1個ずつ密閉するか密閉容器に入れ、冷蔵庫の野菜室（5〜7℃）で保存してください。エチレンの働きが抑えられ1〜2週間新鮮さを維持できます。"
-                    },
-                    {
-                        "name": "果肉（ピューレ）だけを取り出して密閉冷凍する — 果肉冷凍保存 (180日間) 🧊",
-                        "text": "長期間保存してドリンクやエードに活用したい場合は、果肉だけを分離して冷凍するのが最適です。💡保存のコツ：半分に切って種と果肉をすくい出し、製氷皿や密閉容器、ジッパーバッグに入れて冷凍室（-18℃以下）で保存すれば、6ヶ月間甘酸っぱい風味を楽しめます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "パッションフルーツの皮がシワシワになりましたが腐っているのですか？",
-                        "answer": "決して腐っているわけではありません！パッションフルーツは追熟型の果物で、追熟の過程で皮の水分が抜けるためシワができます。この時期が酸度が抜け糖度が最も高くなった完熟状態であり、最も美味しい食べ頃です。"
-                    },
-                    {
-                        "question": "パッションフルーツを凍らせる際、丸ごと凍らせてもいいですか？それとも果肉だけ凍らせるべきですか？",
-                        "answer": "果肉（ピューレ）だけを取り出して凍らせることを強くおすすめします！丸ごと凍らせると冷凍室の場所を取るだけでなく、解凍時に皮の細胞が破壊されて果汁が過剰に流出し調理もしにくくなります。果肉だけを取り出して保存する方が風味や衛生管理の上で圧倒的に有利です。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持百香果（Passion Fruit）新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解百香果的最佳储存温度、方式及保鲜时长。",
-                "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "将百香果买回家用于制作饮品或甜点时，您是否曾因其表皮变皱而担心是变质腐烂了？🥭\n\n百香果属于典型的后熟跃变型（Climacteric）水果，采摘后仍会自行释放乙烯气体并迅速后熟催熟。在后熟过程中，果皮失水（Desiccation）会导致表皮起皱，这是内部酸度降低、糖分不断积累的正常生化学代谢过程。完全成熟后，通过5~7℃冷藏保存以延缓过熟腐烂，是品质保鲜的核心。\n\n本指南基于USDA、FDA及韩国MFDS的权威指南，为您带来3步科学保存秘诀，帮您长久锁定百香果的高糖度与酸甜风味。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解百香果后熟跃变生理及果皮失水促使糖分积累的特性，并采取正确的储存方法，对于维持最佳口感与新鲜度至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "未成熟状态下切勿低温（冷藏）保存 ⚠️",
-                        "desc": "将果皮光滑坚硬的未熟百香果置于5℃以下的低温环境中会导致冷害（Chilling Injury），使后熟过程永久停止且无法积累糖分。务必先在常温下放至表皮起皱。"
-                    },
-                    {
-                        "title": "完熟后严防常温久放导致过熟发酵 🛑",
-                        "desc": "表皮布满褶皱且香味浓郁的完熟百香果若在常温下继续久放，乙烯反应过度会导致果肉发酵变酸或滋生霉菌。完熟后应立即冷藏或冷冻。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "常温放置至表皮起皱催熟 — 常温催熟 (3~5天) 🥑",
-                        "text": "坚硬光滑的未熟百香果应置于20~25℃常温下正常后熟。💡储存小贴士：放在无阳光直射的阴凉常温处，果皮失水起皱的同时酸度下降、糖度达到峰值。"
-                    },
-                    {
-                        "name": "催熟完成后用保鲜膜包裹冷藏 — 低温冷藏 (7~14天) ❄️",
-                        "text": "当整个果皮布满褶皱并散发浓郁甜香时，即表示已经完全成熟。💡储存小贴士：熟透的百香果用保鲜膜单独包裹或放入密封盒，置于冰箱蔬菜抽屉（5~7℃），可抑制乙烯作用保鲜1~2周。"
-                    },
-                    {
-                        "name": "仅挖出果肉（果浆）密封冷冻 — 果肉冷冻保存 (180天) 🧊",
-                        "text": "若想长期保存用于冲泡饮品，仅分离果肉冷冻是最佳方法。💡储存小贴士：切开百香果，挖出籽和果肉装入冰格、密封盒或拉链袋中，置于冷冻室（-18℃以下），可完好保存6个月。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "百香果表皮变得凹凸不平起皱了，是变质了吗？",
-                        "answer": "完全没有变质！百香果是后熟型水果，后熟过程中果皮失水（Desiccation）就会自然起皱。此时内部酸度降低、糖度达到最高，正是百香果口感最甜、风味最好的最佳赏味期。"
-                    },
-                    {
-                        "question": "冷冻百香果时可以带皮直接冻，还是必须挖出果肉？",
-                        "answer": "强烈建议只挖出果肉（果浆）进行冷冻！带皮整颗冷冻不仅占用极大空间，且解冻时果皮细胞破裂会导致汁液大量流失、极难处理。仅提取果肉装入保鲜袋冷冻，在风味保持和食品卫生上更为优秀。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener el maracuyá (fruta de la pasión) fresco: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para el maracuyá según las directrices oficiales de seguridad.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "¿Alguna vez dejó maracuyá a temperatura ambiente para bebidas o postres y se preocupó pensando que la piel arrugada significaba que se había estropeado? 🥭\n\nEl maracuyá es una fruta climatérica típica que libera gas etileno tras ser cosechada, sufriendo una maduración rápida. Durante este proceso, la deshidratación (Desiccation) de la piel hace que se arrugue, lo cual es un proceso metabólico normal en el que disminuye la acidez interna y se concentran los azúcares. Una vez maduro, la refrigeración a 5–7 °C para retrasar el deterioro por sobremaduración es la clave para su conservación.\n\nEn esta guía se presenta una guía científica en 3 pasos basada en las directrices del USDA, la FDA y el MFDS para conservar su dulzura y sabor agridulce de forma óptima. 🛡️",
-                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-                "whyDesc": "Comprender la fisiología climatérica y la concentración de azúcares por deshidratación de la cáscara es fundamental para mantener el mejor sabor y frescura.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Nunca refrigere el maracuyá sin madurar ⚠️",
-                        "desc": "Colocar maracuyás firmes y lisos por debajo de los 5 °C provoca daños por frío (Chilling Injury), deteniendo la maduración de forma permanente e impidiendo la acumulación de azúcares. Madúrelos a temperatura ambiente hasta que aparezcan arrugas."
-                    },
-                    {
-                        "title": "Evite la sobremaduración y pudrición tras completar la maduración 🛑",
-                        "desc": "Dejar el maracuyá maduro con la piel arrugada a temperatura ambiente demasiado tiempo provoca una reacción excesiva de etileno, fermentando la pulpa o generando moho. Refrigere o congele inmediatamente tras madurar."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Deje madurar a temperatura ambiente hasta que la piel se arrugue — Maduración a Temp. Ambiente (3–5 días) 🥑",
-                        "text": "El maracuyá firme y liso debe mantenerse entre 20 y 25 °C para madurar normalmente. 💡 Consejo de almacenamiento: Déjelo en un lugar fresco lejos del sol; la pérdida de humedad de la cáscara arrugará la piel, reduciendo la acidez y maximizando el dulzor."
-                    },
-                    {
-                        "name": "Envuelva y refrigere una vez alcanzada la madurez completa — Refrigeración (7–14 días) ❄️",
-                        "text": "El maracuyá está completamente maduro cuando la piel está profundamente arrugada y emite un aroma dulce. 💡 Consejo de almacenamiento: Envuelva las frutas maduras individualmente en film transparente o guárdelas en el cajón de verduras (5–7 °C). Esto frena el etileno y las mantiene frescas de 1 a 2 semanas."
-                    },
-                    {
-                        "name": "Extraiga la pulpa y congele en envases herméticos — Congelación de Pulpa (180 días) 🧊",
-                        "text": "Para conservar el maracuyá a largo plazo para zumos o postres, congelar solo la pulpa es la mejor opción. 💡 Consejo de almacenamiento: Corte por la mitad, extraiga las semillas y la pulpa, y congélelas en cubeteras o bolsas bajo -18 °C. Conserva su sabor vibrante hasta por 6 meses."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "La piel de mi maracuyá está totalmente arrugada. ¿Se ha echado a perder?",
-                        "answer": "¡Para nada! El maracuyá es una fruta climatérica y, a medida que madura, pierde humedad en la cáscara (deshidratación) arrugándose. Esto indica que ha alcanzado la madurez plena, donde la acidez se reduce y el nivel de azúcar llega a su punto máximo, siendo el momento más delicioso para comerlo."
-                    },
-                    {
-                        "question": "¿Debo congelar el maracuyá entero con cáscara o solo la pulpa?",
-                        "answer": "¡Se recomienda encarecidamente extraer y congelar solo la pulpa! Congelar frutas enteras ocupa demasiado espacio y, al descongelarse, la piel se colapsa dejando escapar el jugo y dificultando su manejo. Conservar solo la pulpa extraída en recipientes o bolsas es superior para el sabor e higiene."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver le fruit de la passion frais : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le fruit de la passion selon les directives officielles de sécurité.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "En laissant vos fruits de la passion à température ambiante pour vos boissons ou desserts, vous êtes-vous déjà demandé si leur peau flétrie et ridée signifiait qu'ils étaient gâtés ? 🥭\n\nLe fruit de la passion est un fruit climatérique typique qui émet de l'éthylène après récolte, accélérant sa maturation. Durant ce processus, la déshydratation de la peau entraîne l'apparition de rides, un processus métabolique normal où l'acidité diminue au profit des sucres. Une fois mûr, la réfrigération entre 5 et 7 °C est essentielle pour ralentir la surmaturation et le pourrissement.\n\nDans ce guide, nous vous présentons un guide scientifique en 3 étapes basé sur les recommandations de l'USDA, de la FDA et du MFDS pour préserver au mieux ses arômes doux et acidulés. 🛡️",
-                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre la physiologie climatérique et la concentration des sucres liée à la déshydratation de la peau est essentiel pour maintenir une saveur et une fraîcheur optimales.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne réfrigérez jamais un fruit de la passion pas mûr ⚠️",
-                        "desc": "Placer un fruit de la passion ferme et lisse en dessous de 5 °C provoque des dégâts dus au froid (Chilling Injury), stoppant définitivement le mûrissement. Laissez-le toujours mûrir à température ambiante jusqu'à apparition des rides."
-                    },
-                    {
-                        "title": "Évitez la surmaturation et le pourrissement une fois le fruit mûr 🛑",
-                        "desc": "Laisser un fruit de la passion ridé et mûr trop longtemps à température ambiante entraîne une réaction excessive à l'éthylène, provoquant la fermentation de la pulpe ou des moisissures. Réfrigérez ou congelez immédiatement."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Mûrir à température ambiante jusqu'à ce que la peau se ride — Maturation Ambiante (3–5 jours) 🥑",
-                        "text": "Le fruit ferme et lisse doit être conservé entre 20 et 25 °C. 💡 Astuce de conservation : Conservez à l'abri de la lumière directe ; la perte d'humidité de la peau la rida, réduisant l'acidité et maximisant le taux de sucre."
-                    },
-                    {
-                        "name": "Envelopper et réfrigérer une fois mûr — Stockage Réfrigéré (7–14 jours) ❄️",
-                        "text": "Le fruit est mûr lorsque toute sa peau est profondément ridée et dégage un parfum doux. 💡 Astuce de conservation : Enveloppez chaque fruit de film étirable ou placez-les dans le bac à légumes (5–7 °C). Cela stoppe l'action de l'éthylène pendant 1 à 2 semaines."
-                    },
-                    {
-                        "name": "Extraire la pulpe et la congeler en récipient hermétique — Congélation de la Pulpe (180 jours) 🧊",
-                        "text": "Pour conserver le fruit de la passion à long terme pour des jus ou desserts, congeler uniquement la pulpe est la meilleure méthode. 💡 Astuce de conservation : Coupez le fruit, prélevez la pulpe avec ses graines et congelez dans des bacs à glaçons ou sachets sous -18 °C jusqu'à 6 mois."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "La peau de mon fruit de la passion est très ridée. Est-il gâté ?",
-                        "answer": "Pas du tout ! Le fruit de la passion est un fruit climatérique. En mûrissant, sa peau perd de l'eau et se ride. Cela indique une maturation complète où l'acidité est faible et la teneur en sucre maximale : c'est le moment idéal pour le déguster."
-                    },
-                    {
-                        "question": "Faut-il congeler le fruit de la passion entier avec la peau ou seulement la pulpe ?",
-                        "answer": "Il est vivement recommandé d'extraire et de congeler uniquement la pulpe ! Congeler le fruit entier prend trop de place et, lors de la décongélation, la peau s'effondre en laissant couler le jus de façon désordonnée. Congeler la pulpe en boîte ou en sachet préserve mieux la saveur et l'hygiène."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Passionsfrucht (Maracuja) richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Passionsfrüchte basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Haben Sie Passionsfrüchte bei Raumtemperatur gelagert und befürchtet, dass die schrumpelige Schale bedeutet, dass sie verdorben sind? 🥭\n\nDie Passionsfrucht ist eine klassische klimakterische Frucht, die nach der Ernte Ethylengas freisetzt und rasch nachreift. Während der Reifung führt der Feuchtigkeitsverlust der Schale (Desikkation) zu Faltenbildung. Dies ist ein normaler biochemischer Stoffwechselprozess, bei dem Säure abgebaut und Zucker angereichert wird. Nach vollständiger Reife ist die Kühlung bei 5–7 °C der Schlüssel, um Überreifung und Verderb zu verzögern.\n\nIn diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von USDA, FDA und MFDS basiert, um die süß-saure Frische optimal zu bewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der klimakterischen Physiologie und der Anreicherung von Zucker durch Schalenentwässerung ist entscheidend für den Erhalt von Geschmack und Frische.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Unreife Passionsfrüchte niemals kühlen ⚠️",
-                        "desc": "Lagert man feste, glatte unreife Früchte unter 5 °C, erleiden sie Kälteschäden (Chilling Injury), wodurch der Reifeprozess stoppt und keine Zuckeranreicherung stattfindet. Immer bei Raumtemperatur nachreifen lassen."
-                    },
-                    {
-                        "title": "Überreifung und Fäulnis nach der Reife verhindern 🛑",
-                        "desc": "Lässt man vollreife Früchte mit schrumpeliger Schale zu lange bei Raumtemperatur stehen, führt die Ethylenreaktion zu Gärung der Pulpe oder Schimmel. Nach der Reife sofort kühlen oder einfrieren."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Bei Raumtemperatur nachreifen lassen, bis die Schale schrumpelt — Raumtemperaturreife (3–5 Tage) 🥑",
-                        "text": "Feste, glatte Früchte müssen bei 20–25 °C gelagert werden. 💡 Lagerungstipp: An einem kühlen Ort ohne direkte Sonne aufbewahren; der Feuchtigkeitsverlust lässt die Schale schrumpeln, senkt die Säure und maximiert die Süße."
-                    },
-                    {
-                        "name": "Sobald ausgereift, einwickeln und kühlen — Kühllagerung (7–14 Tage) ❄️",
-                        "text": "Die Frucht ist vollreif, wenn die Schale stark faltig ist und einen süßen Duft verströmt. 💡 Lagerungstipp: Früchte einzeln in Folie wickeln oder im Gemüsefach (5–7 °C) lagern. Dies hemmt das Ethylen und hält sie 1 bis 2 Wochen frisch."
-                    },
-                    {
-                        "name": "Fruchtfleisch herauslöffeln und einfrieren — Gefrierlagerung der Pulpe (180 Tage) 🧊",
-                        "text": "Möchten Sie das Fruchtfleisch langfristig für Getränke oder Desserts aufbewahren, ist das Einfrieren der Pulpe ideal. 💡 Lagerungstipp: Frucht halbieren, Pulpe samt Samen herauslöffeln und in Eiswürfelformen oder Gefrierbeuteln unter -18 °C einfrieren (bis zu 6 Monate)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Die Schale meiner Passionsfrucht ist stark schrumpelig. Ist sie verdorben?",
-                        "answer": "Keineswegs! Die Passionsfrucht ist eine klimakterische Frucht. Beim Nachreifen verliert die Schale Feuchtigkeit und schrumpelt. Dies zeigt die Vollreife an, bei der Säure reduziert ist und der Zuckergehalt sein Maximum erreicht – jetzt schmeckt sie am besten!"
-                    },
-                    {
-                        "question": "Sollte man Passionsfrüchte im Ganzen einfrieren oder nur das Fruchtfleisch?",
-                        "answer": "Es wird dringend empfohlen, nur das herausgelöffelte Fruchtfleisch (Pulpe) einzufrieren! Ganze Früchte nehmen viel Platz weg und beim Auftauen kollabiert die Schale, was zu Auslaufen und schwieriger Handhabung führt. Nur die Pulpe einzufrieren ist hygienischer und geschmacklich besser."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar maracujá fresco: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para o maracujá com base em diretrizes oficiais de segurança.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Ao deixar o maracujá em temperatura ambiente para fazer sucos ou sobremesas, você já ficou preocupado pensando que a casca enrugada significava que ele havia estragado? 🥭\n\nO maracujá é uma fruta climatérica típica que libera gás etileno após a colheita, passando por um rápido amadurecimento. Durante esse processo, a perda de umidade (desidratação) da casca faz com que ela fique enrugada, o que é um processo metabólico normal em que a acidez diminui e os açúcares se concentram. Após o amadurecimento completo, a refrigeração entre 5 e 7 °C para retardar a deterioração é a chave para o conservação.\n\nNeste guia, apresentamos um guia científico em 3 etapas baseado em diretrizes da USDA, FDA e MFDS para preservar o sabor agridoce e o dulçor ideal do maracujá. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Compreender a fisiologia climatérica e a concentração de açúcares causada pela desidratação da casca é essencial para manter o sabor e o frescor ideais.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca refrigere o maracujá verde ⚠️",
-                        "desc": "Colocar maracujás firmes e lisos abaixo de 5 °C causa danos pelo frio (Chilling Injury), interrompendo permanentemente o amadurecimento e impedindo o acúmulo de açúcares. Amadureça-os em temperatura ambiente até surgirem as rugas."
-                    },
-                    {
-                        "title": "Evite o amadurecimento excessivo e a podridão após a maturação 🛑",
-                        "desc": "Deixar o maracujá maduro com a casca enrugada em temperatura ambiente por muito tempo causa reação excessiva ao etileno, fermentando a polpa ou gerando mofo. Refrigere ou congele imediatamente após amadurecer."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Deixe amadurecer em temperatura ambiente até a casca enrugar — Maturação Ambiente (3–5 dias) 🥑",
-                        "text": "O maracujá firme e liso deve ser mantido entre 20 e 25 °C. 💡 Dica de conservação: Mantenha em local fresco e longe do sol; a perda de água da casca criará rugas, reduzindo a acidez e elevando o dulçor ao máximo."
-                    },
-                    {
-                        "name": "Embrulhe e refrigere após o amadurecimento completo — Refrigeração (7–14 dias) ❄️",
-                        "text": "O maracujá está maduro quando a casca fica bem enrugada e solta um aroma doce. 💡 Dica de conservação: Embrulhe os frutos maduros em filme plástico ou guarde na gaveta de legumes da geladeira (5–7 °C). Isso inibe o etileno por 1 a 2 semanas."
-                    },
-                    {
-                        "name": "Retire a polpa e congele em pote hermético — Congelamento da Polpa (180 dias) 🧊",
-                        "text": "Para guardar por longo prazo para sucos ou sobremesas, congelar apenas a polpa é a melhor opção. 💡 Dica de conservação: Corte ao meio, retire a polpa com as sementes e congele em forminhas de gelo ou potes herméticos abaixo de -18 °C por até 6 meses."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "A casca do meu maracujá está totalmente enrugada. Ele estragou?",
-                        "answer": "De forma alguma! O maracujá é uma fruta climatérica. Conforme amadurece, a casca perde umidade e fica enrugada. Isso indica maturação plena, onde a acidez cai e o teor de açúcar atinge o ápice — é o momento mais saboroso para consumir."
-                    },
-                    {
-                        "question": "Devo congelar o maracujá inteiro com casca ou apenas a polpa?",
-                        "answer": "É altamente recomendável congelar apenas a polpa! Congelar a fruta inteira ocupa muito espaço e, ao descongelar, a casca murcha soltando suco e dificultando o manuseio. Congelar apenas a polpa extraída em recipientes ou sacos herméticos preserva melhor o sabor e a higiene."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Buah Markisa (Passion Fruit) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk buah markisa berdasarkan pedoman keselamatan resmi.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Saat menyimpan buah markisa di suhu ruang untuk bahan minuman atau pencuci mulut, pernahkah Anda khawatir kulitnya yang keriput menandakan buah tersebut sudah busuk? 🥭\n\nMarkisa adalah buah klimakterik khas yang terus melepaskan gas etilen setelah dipetik, mengalami pematangan dengan cepat. Selama pematangan, kehilangan kelembapan (desikasi) pada kulit buah menyebabkan permukaannya berkerut, yang merupakan proses metabolisme biokimia normal di mana kadar asam menurun dan gula terakumulasi. Setelah matang sempurna, menyimpannya di kulkas pada suhu 5–7°C untuk memperlambat pembusukan adalah kunci penyimpanannya.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan standar resmi USDA, FDA, dan MFDS untuk menjaga rasa manis dan asam segar markisa Anda. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami fisiologi klimakterik dan akumulasi rasa manis akibat pengerutan kulit markisa sangat penting untuk menjaga rasa dan kesegaran terbaik.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan pernah menyimpan markisa mentah di dalam kulkas ⚠️",
-                        "desc": "Menyimpan markisa mentah yang keras dan mulus di bawah suhu 5°C memicu kerusakan dingin (Chilling Injury), menghentikan proses pematangan secara permanen dan mencegah akumulasi gula. Biarkan mematang di suhu ruang hingga kulitnya berkerut."
-                    },
-                    {
-                        "title": "Cegah pembusukan akibat terlalu matang di suhu ruang 🛑",
-                        "desc": "Membiarkan markisa yang sudah matang dan berkerut terlalu lama di suhu ruang memicu reaksi etilen berlebih, membuat daging buah fermentasi atau berjamur. Segera dinginkan atau bekukan begitu matang sempurna."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Biarkan mematang di suhu ruang hingga berkerut — Pematangan Suhu Ruang (3–5 Hari) 🥑",
-                        "text": "Markisa yang keras dan mulus harus disimpan pada suhu 20–25°C. 💡 Tips Penyimpanan: Simpan di tempat sejuk yang terhindar dari sinar matahari langsung; hilangnya cairan kulit akan membuat markisa berkerut, menurunkan kadar asam dan memaksimalkan rasa manis."
-                    },
-                    {
-                        "name": "Bungkus dan simpan di kulkas setelah matang sempurna — Simpan Kulkas (7–14 Hari) ❄️",
-                        "text": "Markisa matang sempurna saat seluruh kulitnya berkerut dalam dan mengeluarkan aroma manis. 💡 Tips Penyimpanan: Bungkus markisa matang satu per satu dengan plastik wrap atau masukkan wadah kedap udara di laci sayur (5–7°C). Menekan kerja etilen agar tetap segar 1 hingga 2 minggu."
-                    },
-                    {
-                        "name": "Keruk daging buah (bulir) dan bekukan dalam wadah kedap udara — Simpan Beku Bulir (180 Hari) 🧊",
-                        "text": "Jika ingin menyimpan markisa jangka panjang untuk minuman atau saus, membekukan daging buahnya saja adalah cara terbaik. 💡 Tips Penyimpanan: Belah markisa, keruk biji dan bulirnya, lalu bekukan dalam cetakan es atau wadah kedap udara di bawah -18°C hingga 6 bulan."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Kulit buah markisa saya sangat keriput. Apakah sudah busuk?",
-                        "answer": "Sama sekali tidak busuk! Markisa adalah buah klimakterik. Saat mematang, kulitnya kehilangan cairan sehingga menjadi keriput. Ini menandakan pematangan sempurna di mana kadar asam berkurang dan rasa manis mencapai puncaknya — ini adalah saat terbaik untuk mengonsumsinya."
-                    },
-                    {
-                        "question": "Apakah markisa sebaiknya dibekukan utuh bersama kulitnya atau hanya daging buahnya saja?",
-                        "answer": "Sangat disarankan untuk mengeruk dan membekukan daging buahnya saja! Membekukan buah utuh memakan banyak tempat di freezer, dan saat dicairkan, kulitnya akan hancur membuat cairan keluar berantakan. Membekukan bulirnya saja jauh lebih praktis, higienis, dan menjaga rasa."
-                    }
-                ]
-            }
-        }
+  "how-to-store-passion-fruit": {
+    "ingId": "passion-fruit",
+    "pubDate": "2026-05-28",
+    "updatedDate": "2026-05-28",
+    "heroImage": "/images/blog/passion_fruit_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "패션후르츠(백향과) 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 패션후르츠의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
+        "intro": "음료나 디저트 재료로 인기가 높은 패션후르츠(백향과)를 상온에 두었더니 껍질이 쭈글쭈글해져 상한 것인지 걱정된 적 있으시죠? 🥭\n\n패션후르츠는 수확 후에도 스스로 에틸렌(Ethylene) 가스를 방출하며 급격히 후숙되는 대표적인 호흡급등형(Climacteric) 과일입니다. 후숙 과정에서 과피의 수분 손실(Desiccation)로 껍질에 주름이 자글자글 생기게 되는데, 이는 내부 산도가 감소하고 당도가 축적되는 정상적인 생화학적 대사 과정입니다. 완숙 완료 후에는 5~7℃ 냉장 보관을 통해 과숙 및 부패를 지연시키는 것이 신선도 관리의 핵심입니다.\n\n이번 가이드에서는 USDA, FDA, 식품의약품안전처의 검증된 가이드라인을 바탕으로, 패션후르츠의 최상의 당도와 새콤달콤한 풍미를 오랫동안 보존하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 호흡급등 생리 및 과피 수분 손실에 따른 당도 변화 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 최상의 풍미와 신선도 유지에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "미완숙 상태에서 저온(냉장) 보관하지 마세요 ⚠️",
+            "desc": "껍질이 매끈하고 단단한 덜 익은 패션후르츠를 5℃ 이하 저온에 두면 저온 장애(Chilling Injury)를 입어 후숙이 영구적으로 멈추고 당도가 올라가지 않습니다. 반드시 상온에서 주름이 생길 때까지 후숙시켜야 합니다."
+          },
+          {
+            "title": "완숙 후 상온에 장기간 방치하여 과숙 부패되는 것을 막으세요 🛑",
+            "desc": "겉껍질에 주름이 자글자글 생기고 향이 진해진 완숙 상태에서 상온에 오래 방치하면 에틸렌 반응이 과도하게 진행되어 과육이 발효되거나 곰팡이가 생깁니다. 완숙 즉시 냉장 또는 냉동 보관해야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "껍질이 쭈글해질 때까지 상온에서 후숙하기 — 상온 후숙 (3~5일) 🥑",
+            "text": "단단하고 매끈한 미완숙 패션후르츠는 20~25℃ 상온에 두어야 정상적으로 후숙됩니다. 💡 보관 팁: 직사광선이 없는 서늘한 상온에 두면 과피 수분 손실로 껍질에 주름이 생기면서 산도가 낮아지고 당도가 극대화됩니다."
+          },
+          {
+            "name": "후숙 완료 후 랩 포장하여 냉장 보관하기 — 저온 냉장 (7~14일) ❄️",
+            "text": "껍질 전체에 주름이 잡히고 달콤한 향이 진해지면 후숙이 완료된 상태입니다. 💡 보관 팁: 완숙된 과실은 식품용 랩으로 개별 밀봉하거나 밀폐 용기에 담아 냉장고 야채칸(5~7℃)에 보관하세요. 에틸렌 작용이 억제되어 1~2주간 신선함이 유지됩니다."
+          },
+          {
+            "name": "과육(퓨레)만 추출하여 밀봉 냉동하기 — 과육 냉동 보관 (180일) 🧊",
+            "text": "장기간 보관하여 음료나 에이드로 활용하고 싶다면 과육만 분리해 냉동하는 것이 가장 좋습니다. 💡 보관 팁: 반으로 잘라 씨앗과 과육을 긁어낸 뒤 얼음 트레이나 밀폐 용기, 지퍼백에 담아 냉동실(-18℃ 이하)에 보관하세요. 6개월 동안 변질 없이 새콤달콤한 풍미를 즐길 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "패션후르츠 껍질이 쭈글쭈글해졌는데 상한 건가요?",
+            "answer": "절대 상한 것이 아닙니다! 패션후르츠는 호흡급등형 과일로, 후숙 과정에서 껍질의 수분이 빠져나가면서(Desiccation) 쭈글쭈글해집니다. 이 시기가 산도는 줄어들고 당도가 가장 높아진 완숙 상태이므로 가장 맛있는 시점입니다."
+          },
+          {
+            "question": "패션후르츠를 얼릴 때 껍질째 얼려도 되나요, 과육만 얼려야 하나요?",
+            "answer": "과육(퓨레)만 따로 추출하여 얼리는 것을 강력히 추천합니다! 껍질째 얼리면 냉동실 부피를 많이 차지할 뿐만 아니라 해동 시 과피 세포가 파괴되어 즙이 과도하게 흘러나오고 손질하기 불편해집니다. 과육만 과즙 형태로 추출해 냉동 용기나 지퍼백에 보관하는 것이 풍미와 위생 관리에 훨씬 유리합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Passion Fruit Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for passion fruit based on official safety guidelines.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "When leaving passion fruit out at room temperature for drinks or desserts, have you ever worried that its skin becoming wrinkled means it has gone bad? 🥭\n\nPassion fruit is a classic climacteric fruit that releases ethylene gas post-harvest, undergoing rapid ripening. During ripening, moisture loss (desiccation) causes the outer skin to wrinkle, which is a normal biochemical metabolic process where internal acidity drops and sugars concentrate. Once fully ripened, refrigerating at 5–7°C to delay over-ripening and decay is the key to freshness management.\n\nIn this guide, we share a scientifically proven 3-step passion fruit storage guide based on guidelines from the USDA, FDA, and MFDS to safely preserve its sweet-and-tart flavor and peak sweetness. 🛡️",
+        "whyTitle": "Why Store Passion Fruit This Way? Scientific Facts",
+        "whyDesc": "Understanding climacteric physiology and sugar concentration caused by skin desiccation is essential for maintaining peak flavor and freshness.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never refrigerate unripe passion fruit ⚠️",
+            "desc": "Placing firm, smooth, unripe passion fruit below 5°C causes chilling injury, permanently halting the ripening process and preventing sugar accumulation. Always ripen at room temperature until wrinkles appear."
+          },
+          {
+            "title": "Prevent over-ripening and decay after full maturation 🛑",
+            "desc": "Leaving fully ripened passion fruit with wrinkled skin at room temperature for too long causes excessive ethylene reaction, leading to pulp fermentation or mold. Refrigerate or freeze immediately upon full ripening."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Ripen at room temperature until wrinkled — Room Temp Ripening (3–5 Days) 🥑",
+            "text": "Firm, smooth, unripe passion fruit must be kept at 20–25°C to ripen normally. 💡 Storage Tip: Keep in a cool room away from direct sunlight; moisture loss from the peel will create heavy wrinkles, lowering acidity and maximizing sweetness."
+          },
+          {
+            "name": "Wrap and refrigerate once fully ripe — Cold Refrigeration (7–14 Days) ❄️",
+            "text": "Passion fruit is fully ripe when the entire skin is deeply wrinkled and emits a rich, sweet aroma. 💡 Storage Tip: Wrap ripe fruits individually in plastic wrap or place in an airtight container in the crisper drawer (5–7°C / 41–45°F). Inhibits ethylene action to keep fresh for 1 to 2 weeks."
+          },
+          {
+            "name": "Scoop out pulp and seal tightly for freezing — Frozen Pulp Storage (180 Days) 🧊",
+            "text": "If you want to store passion fruit long-term for beverages or desserts, freezing only the pulp is the best method. 💡 Storage Tip: Cut in half, scoop out the seeds and pulp, and store in ice trays, airtight containers, or freezer bags below -18°C (0°F). Enjoy sweet and tangy flavor for up to 6 months."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "My passion fruit skin is deeply wrinkled. Has it spoiled?",
+            "answer": "Not at all! Passion fruit is a climacteric fruit, and as it ripens, moisture loss (desiccation) causes its outer peel to wrinkle. This indicates full maturation where acidity is reduced and sugar levels peak, making it the most delicious time to eat."
+          },
+          {
+            "question": "Should I freeze passion fruit whole with the skin, or only the pulp?",
+            "answer": "Scooping out and freezing only the pulp is strongly recommended! Freezing whole fruits takes up excessive freezer space, and upon thawing, skin cells collapse, causing messy juice leakage and difficult prep. Storing extracted pulp in containers or freezer bags is far superior for flavor and hygiene."
+          }
+        ]
+      },
+      "ja": {
+        "title": "パッションフルーツ（百香果）を新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくパッションフルーツの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
+        "intro": "ドリンクやスイーツの材料として人気のパッションフルーツを常温に置いておいたら、皮がシワシワになって腐ってしまったのかと心配したことはありませんか？🥭\n\nパッションフルーツは収穫後も自らエチレンガスを放出し、急速に追熟する代表的な追熟型（Climacteric）果実です。追熟の過程で果皮の水分が抜ける（Desiccation）ことで表面にシワができますが、これは内部の酸度が減少し甘みが蓄積される正常な生化学的大謝プロセスです。追熟完了後は5〜7℃で冷蔵保存し、熟しすぎによる腐敗を遅らせることが鮮度管理のポイントです。\n\n本記事では、USDA、FDA、食品医薬品安全処のガイドラインに基づき、パッションフルーツの甘みと甘酸っぱい風味を長期間保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？ 科学的ファクト",
+        "whyDesc": "食材ごとの追熟生理や果皮の水分損失に伴う糖度変化の特性を理解し、それに合った正しい保存方法を実践することは、最高の風味と鮮度を維持する上で非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "未熟な状態で低温（冷蔵）保存しないでください ⚠️",
+            "desc": "皮がツルツルとして固い未熟なパッションフルーツを5℃以下の低温に置くと、低温障害（Chilling Injury）を起こして追熟が永久に停止し甘みが上がりません。必ず常温でシワができるまで追熟させてください。"
+          },
+          {
+            "title": "完熟後に常温で長時間放置し過熟腐敗させるのを防いでください 🛑",
+            "desc": "表面全体にシワができ香りが強くなった完熟状態で常温に長く放置すると、エチレン反応が過剰に進行して果肉が発酵したりカビが発生します。完熟後は直ちに冷蔵または冷凍保存してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "皮にシワができるまで常温で追熟させる — 常温追熟 (3〜5日間) 🥑",
+            "text": "固くツルツルとした未熟なパッションフルーツは20〜25℃の常温に置いて正常に追熟させます。💡保存のコツ：直射日光の当たらない涼しい常温に置くと、果皮の水分損失により表面にシワができ、酸度が下がって甘みが最大限に引き出されます。"
+          },
+          {
+            "name": "追熟完了後はラップで包み冷蔵保存する — 低温冷蔵 (7〜14日間) ❄️",
+            "text": "皮全体にシワが入り甘い香りが強くなったら追熟完了です。💡保存のコツ：完熟した果実はラップで1個ずつ密閉するか密閉容器に入れ、冷蔵庫の野菜室（5〜7℃）で保存してください。エチレンの働きが抑えられ1〜2週間新鮮さを維持できます。"
+          },
+          {
+            "name": "果肉（ピューレ）だけを取り出して密閉冷凍する — 果肉冷凍保存 (180日間) 🧊",
+            "text": "長期間保存してドリンクやエードに活用したい場合は、果肉だけを分離して冷凍するのが最適です。💡保存のコツ：半分に切って種と果肉をすくい出し、製氷皿や密閉容器、ジッパーバッグに入れて冷凍室（-18℃以下）で保存すれば、6ヶ月間甘酸っぱい風味を楽しめます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "パッションフルーツの皮がシワシワになりましたが腐っているのですか？",
+            "answer": "決して腐っているわけではありません！パッションフルーツは追熟型の果物で、追熟の過程で皮の水分が抜けるためシワができます。この時期が酸度が抜け糖度が最も高くなった完熟状態であり、最も美味しい食べ頃です。"
+          },
+          {
+            "question": "パッションフルーツを凍らせる際、丸ごと凍らせてもいいですか？それとも果肉だけ凍らせるべきですか？",
+            "answer": "果肉（ピューレ）だけを取り出して凍らせることを強くおすすめします！丸ごと凍らせると冷凍室の場所を取るだけでなく、解凍時に皮の細胞が破壊されて果汁が過剰に流出し調理もしにくくなります。果肉だけを取り出して保存する方が風味や衛生管理の上で圧倒的に有利です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持百香果（Passion Fruit）新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解百香果的最佳储存温度、方式及保鲜时长。",
+        "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "将百香果买回家用于制作饮品或甜点时，您是否曾因其表皮变皱而担心是变质腐烂了？🥭\n\n百香果属于典型的后熟跃变型（Climacteric）水果，采摘后仍会自行释放乙烯气体并迅速后熟催熟。在后熟过程中，果皮失水（Desiccation）会导致表皮起皱，这是内部酸度降低、糖分不断积累的正常生化学代谢过程。完全成熟后，通过5~7℃冷藏保存以延缓过熟腐烂，是品质保鲜的核心。\n\n本指南基于USDA、FDA及韩国MFDS的权威指南，为您带来3步科学保存秘诀，帮您长久锁定百香果的高糖度与酸甜风味。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解百香果后熟跃变生理及果皮失水促使糖分积累的特性，并采取正确的储存方法，对于维持最佳口感与新鲜度至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "未成熟状态下切勿低温（冷藏）保存 ⚠️",
+            "desc": "将果皮光滑坚硬的未熟百香果置于5℃以下的低温环境中会导致冷害（Chilling Injury），使后熟过程永久停止且无法积累糖分。务必先在常温下放至表皮起皱。"
+          },
+          {
+            "title": "完熟后严防常温久放导致过熟发酵 🛑",
+            "desc": "表皮布满褶皱且香味浓郁的完熟百香果若在常温下继续久放，乙烯反应过度会导致果肉发酵变酸或滋生霉菌。完熟后应立即冷藏或冷冻。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "常温放置至表皮起皱催熟 — 常温催熟 (3~5天) 🥑",
+            "text": "坚硬光滑的未熟百香果应置于20~25℃常温下正常后熟。💡储存小贴士：放在无阳光直射的阴凉常温处，果皮失水起皱的同时酸度下降、糖度达到峰值。"
+          },
+          {
+            "name": "催熟完成后用保鲜膜包裹冷藏 — 低温冷藏 (7~14天) ❄️",
+            "text": "当整个果皮布满褶皱并散发浓郁甜香时，即表示已经完全成熟。💡储存小贴士：熟透的百香果用保鲜膜单独包裹或放入密封盒，置于冰箱蔬菜抽屉（5~7℃），可抑制乙烯作用保鲜1~2周。"
+          },
+          {
+            "name": "仅挖出果肉（果浆）密封冷冻 — 果肉冷冻保存 (180天) 🧊",
+            "text": "若想长期保存用于冲泡饮品，仅分离果肉冷冻是最佳方法。💡储存小贴士：切开百香果，挖出籽和果肉装入冰格、密封盒或拉链袋中，置于冷冻室（-18℃以下），可完好保存6个月。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "百香果表皮变得凹凸不平起皱了，是变质了吗？",
+            "answer": "完全没有变质！百香果是后熟型水果，后熟过程中果皮失水（Desiccation）就会自然起皱。此时内部酸度降低、糖度达到最高，正是百香果口感最甜、风味最好的最佳赏味期。"
+          },
+          {
+            "question": "冷冻百香果时可以带皮直接冻，还是必须挖出果肉？",
+            "answer": "强烈建议只挖出果肉（果浆）进行冷冻！带皮整颗冷冻不仅占用极大空间，且解冻时果皮细胞破裂会导致汁液大量流失、极难处理。仅提取果肉装入保鲜袋冷冻，在风味保持和食品卫生上更为优秀。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener el maracuyá (fruta de la pasión) fresco: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para el maracuyá según las directrices oficiales de seguridad.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "¿Alguna vez dejó maracuyá a temperatura ambiente para bebidas o postres y se preocupó pensando que la piel arrugada significaba que se había estropeado? 🥭\n\nEl maracuyá es una fruta climatérica típica que libera gas etileno tras ser cosechada, sufriendo una maduración rápida. Durante este proceso, la deshidratación (Desiccation) de la piel hace que se arrugue, lo cual es un proceso metabólico normal en el que disminuye la acidez interna y se concentran los azúcares. Una vez maduro, la refrigeración a 5–7 °C para retrasar el deterioro por sobremaduración es la clave para su conservación.\n\nEn esta guía se presenta una guía científica en 3 pasos basada en las directrices del USDA, la FDA y el MFDS para conservar su dulzura y sabor agridulce de forma óptima. 🛡️",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender la fisiología climatérica y la concentración de azúcares por deshidratación de la cáscara es fundamental para mantener el mejor sabor y frescura.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Nunca refrigere el maracuyá sin madurar ⚠️",
+            "desc": "Colocar maracuyás firmes y lisos por debajo de los 5 °C provoca daños por frío (Chilling Injury), deteniendo la maduración de forma permanente e impidiendo la acumulación de azúcares. Madúrelos a temperatura ambiente hasta que aparezcan arrugas."
+          },
+          {
+            "title": "Evite la sobremaduración y pudrición tras completar la maduración 🛑",
+            "desc": "Dejar el maracuyá maduro con la piel arrugada a temperatura ambiente demasiado tiempo provoca una reacción excesiva de etileno, fermentando la pulpa o generando moho. Refrigere o congele inmediatamente tras madurar."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Deje madurar a temperatura ambiente hasta que la piel se arrugue — Maduración a Temp. Ambiente (3–5 días) 🥑",
+            "text": "El maracuyá firme y liso debe mantenerse entre 20 y 25 °C para madurar normalmente. 💡 Consejo de almacenamiento: Déjelo en un lugar fresco lejos del sol; la pérdida de humedad de la cáscara arrugará la piel, reduciendo la acidez y maximizando el dulzor."
+          },
+          {
+            "name": "Envuelva y refrigere una vez alcanzada la madurez completa — Refrigeración (7–14 días) ❄️",
+            "text": "El maracuyá está completamente maduro cuando la piel está profundamente arrugada y emite un aroma dulce. 💡 Consejo de almacenamiento: Envuelva las frutas maduras individualmente en film transparente o guárdelas en el cajón de verduras (5–7 °C). Esto frena el etileno y las mantiene frescas de 1 a 2 semanas."
+          },
+          {
+            "name": "Extraiga la pulpa y congele en envases herméticos — Congelación de Pulpa (180 días) 🧊",
+            "text": "Para conservar el maracuyá a largo plazo para zumos o postres, congelar solo la pulpa es la mejor opción. 💡 Consejo de almacenamiento: Corte por la mitad, extraiga las semillas y la pulpa, y congélelas en cubeteras o bolsas bajo -18 °C. Conserva su sabor vibrante hasta por 6 meses."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "La piel de mi maracuyá está totalmente arrugada. ¿Se ha echado a perder?",
+            "answer": "¡Para nada! El maracuyá es una fruta climatérica y, a medida que madura, pierde humedad en la cáscara (deshidratación) arrugándose. Esto indica que ha alcanzado la madurez plena, donde la acidez se reduce y el nivel de azúcar llega a su punto máximo, siendo el momento más delicioso para comerlo."
+          },
+          {
+            "question": "¿Debo congelar el maracuyá entero con cáscara o solo la pulpa?",
+            "answer": "¡Se recomienda encarecidamente extraer y congelar solo la pulpa! Congelar frutas enteras ocupa demasiado espacio y, al descongelarse, la piel se colapsa dejando escapar el jugo y dificultando su manejo. Conservar solo la pulpa extraída en recipientes o bolsas es superior para el sabor e higiene."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver le fruit de la passion frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le fruit de la passion selon les directives officielles de sécurité.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "En laissant vos fruits de la passion à température ambiante pour vos boissons ou desserts, vous êtes-vous déjà demandé si leur peau flétrie et ridée signifiait qu'ils étaient gâtés ? 🥭\n\nLe fruit de la passion est un fruit climatérique typique qui émet de l'éthylène après récolte, accélérant sa maturation. Durant ce processus, la déshydratation de la peau entraîne l'apparition de rides, un processus métabolique normal où l'acidité diminue au profit des sucres. Une fois mûr, la réfrigération entre 5 et 7 °C est essentielle pour ralentir la surmaturation et le pourrissement.\n\nDans ce guide, nous vous présentons un guide scientifique en 3 étapes basé sur les recommandations de l'USDA, de la FDA et du MFDS pour préserver au mieux ses arômes doux et acidulés. 🛡️",
+        "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre la physiologie climatérique et la concentration des sucres liée à la déshydratation de la peau est essentiel pour maintenir une saveur et une fraîcheur optimales.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne réfrigérez jamais un fruit de la passion pas mûr ⚠️",
+            "desc": "Placer un fruit de la passion ferme et lisse en dessous de 5 °C provoque des dégâts dus au froid (Chilling Injury), stoppant définitivement le mûrissement. Laissez-le toujours mûrir à température ambiante jusqu'à apparition des rides."
+          },
+          {
+            "title": "Évitez la surmaturation et le pourrissement une fois le fruit mûr 🛑",
+            "desc": "Laisser un fruit de la passion ridé et mûr trop longtemps à température ambiante entraîne une réaction excessive à l'éthylène, provoquant la fermentation de la pulpe ou des moisissures. Réfrigérez ou congelez immédiatement."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Mûrir à température ambiante jusqu'à ce que la peau se ride — Maturation Ambiante (3–5 jours) 🥑",
+            "text": "Le fruit ferme et lisse doit être conservé entre 20 et 25 °C. 💡 Astuce de conservation : Conservez à l'abri de la lumière directe ; la perte d'humidité de la peau la rida, réduisant l'acidité et maximisant le taux de sucre."
+          },
+          {
+            "name": "Envelopper et réfrigérer une fois mûr — Stockage Réfrigéré (7–14 jours) ❄️",
+            "text": "Le fruit est mûr lorsque toute sa peau est profondément ridée et dégage un parfum doux. 💡 Astuce de conservation : Enveloppez chaque fruit de film étirable ou placez-les dans le bac à légumes (5–7 °C). Cela stoppe l'action de l'éthylène pendant 1 à 2 semaines."
+          },
+          {
+            "name": "Extraire la pulpe et la congeler en récipient hermétique — Congélation de la Pulpe (180 jours) 🧊",
+            "text": "Pour conserver le fruit de la passion à long terme pour des jus ou desserts, congeler uniquement la pulpe est la meilleure méthode. 💡 Astuce de conservation : Coupez le fruit, prélevez la pulpe avec ses graines et congelez dans des bacs à glaçons ou sachets sous -18 °C jusqu'à 6 mois."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "La peau de mon fruit de la passion est très ridée. Est-il gâté ?",
+            "answer": "Pas du tout ! Le fruit de la passion est un fruit climatérique. En mûrissant, sa peau perd de l'eau et se ride. Cela indique une maturation complète où l'acidité est faible et la teneur en sucre maximale : c'est le moment idéal pour le déguster."
+          },
+          {
+            "question": "Faut-il congeler le fruit de la passion entier avec la peau ou seulement la pulpe ?",
+            "answer": "Il est vivement recommandé d'extraire et de congeler uniquement la pulpe ! Congeler le fruit entier prend trop de place et, lors de la décongélation, la peau s'effondre en laissant couler le jus de façon désordonnée. Congeler la pulpe en boîte ou en sachet préserve mieux la saveur et l'hygiène."
+          }
+        ]
+      },
+      "de": {
+        "title": "Passionsfrucht (Maracuja) richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Passionsfrüchte basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Haben Sie Passionsfrüchte bei Raumtemperatur gelagert und befürchtet, dass die schrumpelige Schale bedeutet, dass sie verdorben sind? 🥭\n\nDie Passionsfrucht ist eine klassische klimakterische Frucht, die nach der Ernte Ethylengas freisetzt und rasch nachreift. Während der Reifung führt der Feuchtigkeitsverlust der Schale (Desikkation) zu Faltenbildung. Dies ist ein normaler biochemischer Stoffwechselprozess, bei dem Säure abgebaut und Zucker angereichert wird. Nach vollständiger Reife ist die Kühlung bei 5–7 °C der Schlüssel, um Überreifung und Verderb zu verzögern.\n\nIn diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von USDA, FDA und MFDS basiert, um die süß-saure Frische optimal zu bewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der klimakterischen Physiologie und der Anreicherung von Zucker durch Schalenentwässerung ist entscheidend für den Erhalt von Geschmack und Frische.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Unreife Passionsfrüchte niemals kühlen ⚠️",
+            "desc": "Lagert man feste, glatte unreife Früchte unter 5 °C, erleiden sie Kälteschäden (Chilling Injury), wodurch der Reifeprozess stoppt und keine Zuckeranreicherung stattfindet. Immer bei Raumtemperatur nachreifen lassen."
+          },
+          {
+            "title": "Überreifung und Fäulnis nach der Reife verhindern 🛑",
+            "desc": "Lässt man vollreife Früchte mit schrumpeliger Schale zu lange bei Raumtemperatur stehen, führt die Ethylenreaktion zu Gärung der Pulpe oder Schimmel. Nach der Reife sofort kühlen oder einfrieren."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Bei Raumtemperatur nachreifen lassen, bis die Schale schrumpelt — Raumtemperaturreife (3–5 Tage) 🥑",
+            "text": "Feste, glatte Früchte müssen bei 20–25 °C gelagert werden. 💡 Lagerungstipp: An einem kühlen Ort ohne direkte Sonne aufbewahren; der Feuchtigkeitsverlust lässt die Schale schrumpeln, senkt die Säure und maximiert die Süße."
+          },
+          {
+            "name": "Sobald ausgereift, einwickeln und kühlen — Kühllagerung (7–14 Tage) ❄️",
+            "text": "Die Frucht ist vollreif, wenn die Schale stark faltig ist und einen süßen Duft verströmt. 💡 Lagerungstipp: Früchte einzeln in Folie wickeln oder im Gemüsefach (5–7 °C) lagern. Dies hemmt das Ethylen und hält sie 1 bis 2 Wochen frisch."
+          },
+          {
+            "name": "Fruchtfleisch herauslöffeln und einfrieren — Gefrierlagerung der Pulpe (180 Tage) 🧊",
+            "text": "Möchten Sie das Fruchtfleisch langfristig für Getränke oder Desserts aufbewahren, ist das Einfrieren der Pulpe ideal. 💡 Lagerungstipp: Frucht halbieren, Pulpe samt Samen herauslöffeln und in Eiswürfelformen oder Gefrierbeuteln unter -18 °C einfrieren (bis zu 6 Monate)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Die Schale meiner Passionsfrucht ist stark schrumpelig. Ist sie verdorben?",
+            "answer": "Keineswegs! Die Passionsfrucht ist eine klimakterische Frucht. Beim Nachreifen verliert die Schale Feuchtigkeit und schrumpelt. Dies zeigt die Vollreife an, bei der Säure reduziert ist und der Zuckergehalt sein Maximum erreicht – jetzt schmeckt sie am besten!"
+          },
+          {
+            "question": "Sollte man Passionsfrüchte im Ganzen einfrieren oder nur das Fruchtfleisch?",
+            "answer": "Es wird dringend empfohlen, nur das herausgelöffelte Fruchtfleisch (Pulpe) einzufrieren! Ganze Früchte nehmen viel Platz weg und beim Auftauen kollabiert die Schale, was zu Auslaufen und schwieriger Handhabung führt. Nur die Pulpe einzufrieren ist hygienischer und geschmacklich besser."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar maracujá fresco: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para o maracujá com base em diretrizes oficiais de segurança.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Ao deixar o maracujá em temperatura ambiente para fazer sucos ou sobremesas, você já ficou preocupado pensando que a casca enrugada significava que ele havia estragado? 🥭\n\nO maracujá é uma fruta climatérica típica que libera gás etileno após a colheita, passando por um rápido amadurecimento. Durante esse processo, a perda de umidade (desidratação) da casca faz com que ela fique enrugada, o que é um processo metabólico normal em que a acidez diminui e os açúcares se concentram. Após o amadurecimento completo, a refrigeração entre 5 e 7 °C para retardar a deterioração é a chave para o conservação.\n\nNeste guia, apresentamos um guia científico em 3 etapas baseado em diretrizes da USDA, FDA e MFDS para preservar o sabor agridoce e o dulçor ideal do maracujá. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Compreender a fisiologia climatérica e a concentração de açúcares causada pela desidratação da casca é essencial para manter o sabor e o frescor ideais.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca refrigere o maracujá verde ⚠️",
+            "desc": "Colocar maracujás firmes e lisos abaixo de 5 °C causa danos pelo frio (Chilling Injury), interrompendo permanentemente o amadurecimento e impedindo o acúmulo de açúcares. Amadureça-os em temperatura ambiente até surgirem as rugas."
+          },
+          {
+            "title": "Evite o amadurecimento excessivo e a podridão após a maturação 🛑",
+            "desc": "Deixar o maracujá maduro com a casca enrugada em temperatura ambiente por muito tempo causa reação excessiva ao etileno, fermentando a polpa ou gerando mofo. Refrigere ou congele imediatamente após amadurecer."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Deixe amadurecer em temperatura ambiente até a casca enrugar — Maturação Ambiente (3–5 dias) 🥑",
+            "text": "O maracujá firme e liso deve ser mantido entre 20 e 25 °C. 💡 Dica de conservação: Mantenha em local fresco e longe do sol; a perda de água da casca criará rugas, reduzindo a acidez e elevando o dulçor ao máximo."
+          },
+          {
+            "name": "Embrulhe e refrigere após o amadurecimento completo — Refrigeração (7–14 dias) ❄️",
+            "text": "O maracujá está maduro quando a casca fica bem enrugada e solta um aroma doce. 💡 Dica de conservação: Embrulhe os frutos maduros em filme plástico ou guarde na gaveta de legumes da geladeira (5–7 °C). Isso inibe o etileno por 1 a 2 semanas."
+          },
+          {
+            "name": "Retire a polpa e congele em pote hermético — Congelamento da Polpa (180 dias) 🧊",
+            "text": "Para guardar por longo prazo para sucos ou sobremesas, congelar apenas a polpa é a melhor opção. 💡 Dica de conservação: Corte ao meio, retire a polpa com as sementes e congele em forminhas de gelo ou potes herméticos abaixo de -18 °C por até 6 meses."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "A casca do meu maracujá está totalmente enrugada. Ele estragou?",
+            "answer": "De forma alguma! O maracujá é uma fruta climatérica. Conforme amadurece, a casca perde umidade e fica enrugada. Isso indica maturação plena, onde a acidez cai e o teor de açúcar atinge o ápice — é o momento mais saboroso para consumir."
+          },
+          {
+            "question": "Devo congelar o maracujá inteiro com casca ou apenas a polpa?",
+            "answer": "É altamente recomendável congelar apenas a polpa! Congelar a fruta inteira ocupa muito espaço e, ao descongelar, a casca murcha soltando suco e dificultando o manuseio. Congelar apenas a polpa extraída em recipientes ou sacos herméticos preserva melhor o sabor e a higiene."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Buah Markisa (Passion Fruit) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk buah markisa berdasarkan pedoman keselamatan resmi.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Saat menyimpan buah markisa di suhu ruang untuk bahan minuman atau pencuci mulut, pernahkah Anda khawatir kulitnya yang keriput menandakan buah tersebut sudah busuk? 🥭\n\nMarkisa adalah buah klimakterik khas yang terus melepaskan gas etilen setelah dipetik, mengalami pematangan dengan cepat. Selama pematangan, kehilangan kelembapan (desikasi) pada kulit buah menyebabkan permukaannya berkerut, yang merupakan proses metabolisme biokimia normal di mana kadar asam menurun dan gula terakumulasi. Setelah matang sempurna, menyimpannya di kulkas pada suhu 5–7°C untuk memperlambat pembusukan adalah kunci penyimpanannya.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan standar resmi USDA, FDA, dan MFDS untuk menjaga rasa manis dan asam segar markisa Anda. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami fisiologi klimakterik dan akumulasi rasa manis akibat pengerutan kulit markisa sangat penting untuk menjaga rasa dan kesegaran terbaik.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan pernah menyimpan markisa mentah di dalam kulkas ⚠️",
+            "desc": "Menyimpan markisa mentah yang keras dan mulus di bawah suhu 5°C memicu kerusakan dingin (Chilling Injury), menghentikan proses pematangan secara permanen dan mencegah akumulasi gula. Biarkan mematang di suhu ruang hingga kulitnya berkerut."
+          },
+          {
+            "title": "Cegah pembusukan akibat terlalu matang di suhu ruang 🛑",
+            "desc": "Membiarkan markisa yang sudah matang dan berkerut terlalu lama di suhu ruang memicu reaksi etilen berlebih, membuat daging buah fermentasi atau berjamur. Segera dinginkan atau bekukan begitu matang sempurna."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Biarkan mematang di suhu ruang hingga berkerut — Pematangan Suhu Ruang (3–5 Hari) 🥑",
+            "text": "Markisa yang keras dan mulus harus disimpan pada suhu 20–25°C. 💡 Tips Penyimpanan: Simpan di tempat sejuk yang terhindar dari sinar matahari langsung; hilangnya cairan kulit akan membuat markisa berkerut, menurunkan kadar asam dan memaksimalkan rasa manis."
+          },
+          {
+            "name": "Bungkus dan simpan di kulkas setelah matang sempurna — Simpan Kulkas (7–14 Hari) ❄️",
+            "text": "Markisa matang sempurna saat seluruh kulitnya berkerut dalam dan mengeluarkan aroma manis. 💡 Tips Penyimpanan: Bungkus markisa matang satu per satu dengan plastik wrap atau masukkan wadah kedap udara di laci sayur (5–7°C). Menekan kerja etilen agar tetap segar 1 hingga 2 minggu."
+          },
+          {
+            "name": "Keruk daging buah (bulir) dan bekukan dalam wadah kedap udara — Simpan Beku Bulir (180 Hari) 🧊",
+            "text": "Jika ingin menyimpan markisa jangka panjang untuk minuman atau saus, membekukan daging buahnya saja adalah cara terbaik. 💡 Tips Penyimpanan: Belah markisa, keruk biji dan bulirnya, lalu bekukan dalam cetakan es atau wadah kedap udara di bawah -18°C hingga 6 bulan."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Kulit buah markisa saya sangat keriput. Apakah sudah busuk?",
+            "answer": "Sama sekali tidak busuk! Markisa adalah buah klimakterik. Saat mematang, kulitnya kehilangan cairan sehingga menjadi keriput. Ini menandakan pematangan sempurna di mana kadar asam berkurang dan rasa manis mencapai puncaknya — ini adalah saat terbaik untuk mengonsumsinya."
+          },
+          {
+            "question": "Apakah markisa sebaiknya dibekukan utuh bersama kulitnya atau hanya daging buahnya saja?",
+            "answer": "Sangat disarankan untuk mengeruk dan membekukan daging buahnya saja! Membekukan buah utuh memakan banyak tempat di freezer, dan saat dicairkan, kulitnya akan hancur membuat cairan keluar berantakan. Membekukan bulirnya saja jauh lebih praktis, higienis, dan menjaga rasa."
+          }
+        ]
+      }
     }
+  }
 }

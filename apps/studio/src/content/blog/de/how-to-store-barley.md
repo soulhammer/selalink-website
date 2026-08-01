@@ -13,7 +13,7 @@ steps:
   - name: "Silikagel beilegen und in luftdichten Behältern lagern — Wasseraktivitätskontrolle (Wasseraktivität (Aw) < 0.60) 📦"
     text: "Für getrocknete Gerstenkörner ist das Fernhalten von Luft und Feuchtigkeit essenziell. 💡 Lagerungstipp: Füllen Sie Gerste in dichte Behälter oder PET-Flaschen mit Silikagel. Eine Wasseraktivität (Wasseraktivität (Aw)) unter 0,60 hemmt Amylase-Enzyme und stoppt Keime."
   - name: "In einer kühlen, dunklen Speisekammer unter 10–15 °C aufbewahren — Vorratskammer (1–2 Jahre) 🧺"
-    text: "Lagern Sie Gerste fern von Sonnenlicht und Wärme, um Enzymreaktionen zu verlangsamen. 💡 Lagerungstipp: Bewahren Sie die Behälter in einem dunklen Schrank unter 10–15 °C fern von Herdhitze auf, um $\\beta$-Glucan 1–2 Jahre zu erhalten."
+    text: "Lagern Sie Gerste fern von Sonnenlicht und Wärme, um Enzymreaktionen zu verlangsamen. 💡 Lagerungstipp: Bewahren Sie die Behälter in einem dunklen Schrank unter 10–15 °C fern von Herdhitze auf, um beta-Glucan 1–2 Jahre zu erhalten."
   - name: "Bei feuchtem Wetter oder Großmengen im Kühlschrank lagern — Kühllagerung (2+ Jahre) ❄️"
     text: "In feuchten Sommern oder bei Großmengen ist die Kühlung am sichersten. 💡 Lagerungstipp: Lagern Sie dichte Behälter im Kühlschrank (0–5 °C). Die Kälte stoppt Enzymaktivität und Schädlinge vollständig für über 2 Jahre."
 faqs:
@@ -25,7 +25,7 @@ faqs:
 
 Gerste gehört neben Weizen, Reis und Mais zu den vier wichtigsten Getreidesorten der Welt und wird für Eintöpfe, Brot, Getränke und Tees geschätzt! Doch haben Sie Gerste schon einmal gelagert und festgestellt, dass sie feucht, ranzig oder von Schädlingen befallen wurde? 🌾
 
-Gerste ist reich an $\beta$-Glucan, einem wichtigen löslichen Ballaststoff, und besitzt eine dichte Stärkestruktur. Bei hoher Luftfeuchtigkeit aktivieren sich die echten $\alpha$- und $\beta$-Amylase-Enzyme der Gerste rasch. Dies führt zur Autohydrolyse der Stärke, Nährstoffverlust, erhöhter Wasseraktivität und Mykotoxinrisiko.
+Gerste ist reich an beta-Glucan, einem wichtigen löslichen Ballaststoff, und besitzt eine dichte Stärkestruktur. Bei hoher Luftfeuchtigkeit aktivieren sich die echten alpha- und beta-Amylase-Enzyme der Gerste rasch. Dies führt zur Autohydrolyse der Stärke, Nährstoffverlust, erhöhter Wasseraktivität und Mykotoxinrisiko.
 
 In diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritte-Lagerungsratgeber vor, um Feuchtigkeitsgehalt und Wasseraktivität zu kontrollieren und Geschmack sowie Nährstoffe zu sichern. 🛡️
 
@@ -40,6 +40,45 @@ In diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritt
     <p class="text-xs md:text-sm text-emerald-800/90 dark:text-emerald-300/90 font-medium m-0 mt-1.5 leading-relaxed break-words">
       Dieser Inhalt basiert auf RDA & USDA & MFDS.
     </p>
+  </div>
+</div>
+
+<div class="my-8 relative overflow-hidden rounded-3xl border border-purple-100 dark:border-purple-500/20 p-6 md:p-8 bg-gradient-to-br from-purple-50/80 via-purple-50/40 to-transparent dark:from-purple-950/20 dark:via-purple-950/10 dark:to-slate-900/30 backdrop-blur-md transition-all duration-300 hover:shadow-lg not-prose">
+  <div class="flex flex-col lg:flex-row items-center justify-between gap-6 md:gap-8 relative z-10">
+    <div class="space-y-3.5 flex-1 min-w-0 max-w-xl w-full flex flex-col items-center text-center">
+      <div class="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-full text-xs font-extrabold border shadow-xs max-w-full mx-auto bg-purple-100 dark:bg-purple-500/20 text-purple-800 dark:text-purple-300 border-purple-200 dark:border-purple-500/30">
+        <span>💬</span>
+        <span class="truncate">Smarte Lagerung & Ablaufbenachrichtigungen</span>
+      </div>
+      <div class="space-y-1.5 w-full text-center">
+        <h3 class="text-xl md:text-2xl font-black text-slate-900 dark:text-white tracking-tight leading-snug text-center m-0 flex flex-col items-center">
+          <span class="inline-flex items-center gap-2 text-purple-600 dark:text-purple-400 font-black text-base md:text-lg tracking-wider uppercase">
+            <img src="/images/freshself/icon.png" alt="FreshSelf App Icon" class="w-5 h-5 md:w-6 md:h-6 rounded-lg object-cover shadow-xs border border-purple-200 dark:border-purple-500/30 m-0" />
+            <span>FreshSelf</span>
+          </span>
+          <span class="block text-base md:text-xl font-extrabold text-slate-900 dark:text-white leading-snug mt-0.5">Zero Waste! Ihr smarter Aufbewahrungsassistent</span>
+        </h3>
+      </div>
+    </div>
+    <div class="flex flex-col items-center justify-center gap-3 shrink-0 w-full lg:w-[340px] pt-4 lg:pt-0 border-t lg:border-t-0 border-slate-200/40 dark:border-slate-700/30">
+      <div class="flex items-center justify-center -space-x-2.5 py-1" title="Meet cute 3D fresh fruit & food characters">
+        <img src="/images/freshself/fruits/apple.webp" alt="Apple Buddy" class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-30 hover:scale-110 transition-transform bg-rose-50 dark:bg-rose-950/40 m-0" />
+        <img src="/images/freshself/fruits/avocado.webp" alt="Avocado Buddy" class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-20 hover:scale-110 transition-transform bg-emerald-50 dark:bg-emerald-950/40 m-0" />
+        <img src="/images/freshself/fruits/banana.webp" alt="Banana Buddy" class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-10 hover:scale-110 transition-transform bg-amber-50 dark:bg-amber-950/40 m-0" />
+        <img src="/images/freshself/fruits/strawberry.webp" alt="Strawberry Buddy" class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-0 hover:scale-110 transition-transform bg-red-50 dark:bg-red-950/40 m-0" />
+        <img src="/images/freshself/fruits/orange.webp" alt="Orange Buddy" class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-0 hover:scale-110 transition-transform bg-orange-50 dark:bg-orange-950/40 m-0" />
+        <img src="/images/freshself/fruits/broccoli.webp" alt="Broccoli Buddy" class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-0 hover:scale-110 transition-transform bg-green-50 dark:bg-green-950/40 m-0" />
+      </div>
+      <div class="flex items-center justify-center w-full">
+        <a href="https://play.google.com/store/apps/details?id=com.selalink.freshself&hl=de" target="_blank" rel="noopener noreferrer" class="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-2xl font-semibold text-xs sm:text-sm transition-all duration-200 focus:outline-none focus:ring-4 shadow-sm hover:shadow hover:scale-[1.01] active:scale-[0.99] text-center whitespace-nowrap w-full sm:w-auto bg-purple-600 hover:bg-purple-700 text-white focus:ring-purple-500/20 no-underline">
+          <img src="/images/google_play_icon.webp" alt="Google Play Icon" class="w-4 h-4 sm:w-5 sm:h-5 shrink-0 object-contain drop-shadow-sm m-0" />
+          <span class="whitespace-nowrap">Bei Google Play herunterladen</span>
+        </a>
+      </div>
+      <div class="text-[11px] font-semibold text-slate-500 dark:text-slate-400 text-center w-full max-w-[320px] leading-relaxed px-1">
+        ✨ 100% Kostenlos · Keine Registrierung · Keine Werbung · Offline
+      </div>
+    </div>
   </div>
 </div>
 
@@ -63,7 +102,7 @@ In diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritt
     <h4 class="text-lg md:text-xl font-extrabold text-slate-900 dark:text-slate-100 m-0">In einer kühlen, dunklen Speisekammer unter 10–15 °C aufbewahren — Vorratskammer (1–2 Jahre) 🧺</h4>
   </div>
   <p class="text-slate-700 dark:text-slate-200 leading-relaxed text-sm md:text-base m-0 font-normal">
-    Lagern Sie Gerste fern von Sonnenlicht und Wärme, um Enzymreaktionen zu verlangsamen. 💡 Lagerungstipp: Bewahren Sie die Behälter in einem dunklen Schrank unter 10–15 °C fern von Herdhitze auf, um $\beta$-Glucan 1–2 Jahre zu erhalten.
+    Lagern Sie Gerste fern von Sonnenlicht und Wärme, um Enzymreaktionen zu verlangsamen. 💡 Lagerungstipp: Bewahren Sie die Behälter in einem dunklen Schrank unter 10–15 °C fern von Herdhitze auf, um beta-Glucan 1–2 Jahre zu erhalten.
   </p>
 </div>
 

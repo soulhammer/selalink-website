@@ -1,459 +1,459 @@
 {
-    "cockatiel-care": {
-        "pubDate": "2026-01-15",
-        "updatedDate": "2026-01-15",
-        "locales": {
-            "ko": {
-                "title": "왕관앵무의 우관 표현과 나이트 파닉 예방을 위한 3단계 데일리 케어",
-                "description": "사교적이고 머리 벼슬(우관)이 매력적인 왕관앵무. 밤에 깜짝 놀라는 나이트 파닉(Night Fright) 예방과 깃털 긁기 시그널 해독, 맞춤형 3단계 데일리 케어 루틴을 소개합니다.",
-                "authority": "Association of Avian Veterinarians (AAV) & Avian Behavior Advisory Standards",
-                "profile": {
-                    "breed": "왕관앵무 (Nymphicus hollandicus / Cockatiel)",
-                    "lifespan": "15 ~ 20년",
-                    "sleep_pattern": "10 ~ 12시간 (규칙적인 암막 조용 수면 필수)",
-                    "temperament": "사교적임, 호기심 다분, 음률 애호, 예민함"
-                },
-                "intro": "노란 뺨과 머리 위 우아한 벼슬(우관)이 특징인 왕관앵무(Cockatiel)는 전 세계 반려조류 집사들에게 가장 사랑받는 소형 앵무새 품종입니다. 사람과의 강한 유대감을 형성하고 멜로디 휘파람을 즐기지만, 야생에서의 천적 경계 본능이 남아있어 밤중에 작은 빛이나 소음에도 크게 놀라 새장 속에서 날뛰는 '나이트 파닉(Night Fright)'을 겪기 쉽습니다. 조류 수의사 협회(AAV)의 지침을 바탕으로, 왕관앵무의 감정 시그널을 읽고 건강한 조류 생활을 돕는 루틴을 안내합니다.",
-                "whyTitle": "왕관앵무의 기분 언어: 우관(벼슬)의 세밀한 신호와 긁기 표현",
-                "whyDesc": "왕관앵무 머리의 우관(Crest)은 기분과 경계 상태를 알려주는 안테나입니다. 우관이 머리에 바짝 붙어있을 때와 수직으로 곧게 섰을 때의 의미가 완전히 다르며, 머리를 푹 숙이고 목을 내밀 때는 깊은 신뢰의 표현입니다.",
-                "body_signals": [
-                    {
-                        "name": "우관 바짝 세우기 & 수평 유지 (Fully Erect Crest)",
-                        "meaning": "주변 환경에 강한 호기심을 느끼거나 새로운 소리/물체에 긴장하여 유심히 경계하고 있는 상태입니다.",
-                        "response": "갑자기 손을 가져다 대지 말고 잔잔한 목소리로 대화하며 앵무새가 상황을 안전하게 파악하도록 기다려 줍니다."
-                    },
-                    {
-                        "name": "머리 숙이고 목 내밀기 (Head Lowering for Scratches)",
-                        "meaning": "보호자에게 깊은 친밀감을 느끼며 머리와 뺨 주변(우관 뿌리)을 부드럽게 긁어달라는 애정 표현입니다.",
-                        "response": "손가락 끝으로 깃결의 반대 방향이나 뺨의 주황색 깃털 부위를 살살 다정하게 긁어줍니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 자연광 환기, 깃털 청결 점검 및 신선한 펠릿 급여",
-                        "text": "아침 덮개를 개봉한 후 펠릿 사료와 깨끗한 물을 교체하고, 깃털 손상이나 눈곱이 없는지 비행 상태를 살핍니다."
-                    },
-                    {
-                        "name": "낮: 새장 밖 자유 비행(방사) 및 아크릴 씹기 장난감 상호작용",
-                        "text": "창문과 창문을 닫고 안전이 확보된 방에서 최소 1 - 2시간 자유 비행을 시키며 먹이 탐색 장난감(Foraging Toy)을 제공합니다."
-                    },
-                    {
-                        "name": "저녁: 깃털 파우더 닦기 및 나이트 파닉 방지용 암막·미등 커버링",
-                        "text": "새장 주변 깃털 파우더를 청소하고, 완전히 깜깜한 것보다는 은은한 수면 미등을 켜둔 뒤 암막 커튼을 씌워 숙면을 유도합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "한밤중에 새장 안에서 비명을 지르며 날개를 펄럭이는데(나이트 파닉) 어떻게 해야 하나요?",
-                        "answer": "즉시 방 조명을 켜고 다정한 목소리로 안심시킨 뒤, 날개나 부리에 상처가 없는지 확인하세요. 나이트 파닉 예방을 위해 새장 옆에 작은 야간 미등(Night light)을 항상 켜두는 것이 좋습니다."
-                    },
-                    {
-                        "question": "왕관앵무 비듬(파우더)이 너무 많이 날리는데 정상인가요?",
-                        "answer": "왕관앵무는 깃털 보호를 위한 파우더(Powder Down)가 자연스럽게 분비되는 종입니다. 공기청정기를 가동하고 일주일에 2 - 3회 부드러운 분무기 분사로 깃털 목욕을 시켜주면 파우더 날림을 줄일 수 있습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Cockatiel Crest Communication and 3-Step Care Routine to Prevent Night Frights",
-                "description": "Comprehensive care guide for the crested Cockatiel. Learn to decode crest body language, prevent nocturnal night frights, and master a 3-step daily routine recommended by AAV.",
-                "authority": "Association of Avian Veterinarians (AAV) & Avian Behavior Advisory Standards",
-                "profile": {
-                    "breed": "Cockatiel (Nymphicus hollandicus)",
-                    "lifespan": "15 - 20 Years",
-                    "sleep_pattern": "10 - 12 Hours (Requires Strict Dark & Quiet Sleep)",
-                    "temperament": "Highly Social, Curious, Melodic, Environmentally Sensitive"
-                },
-                "intro": "Characterized by bright orange cheeks and an elegant head crest, the Cockatiel is one of the most cherished companion birds globally. Cockatiels form deep emotional bonds with human caregivers and love whistling tunes, yet they retain wild prey instincts that make them highly susceptible to 'Night Frights'—sudden nocturnal panic attacks triggered by dim shadows or distant noises. Guided by Association of Avian Veterinarians (AAV) protocols, this guide breaks down their emotional body language and establishes a daily routine for optimal health.",
-                "whyTitle": "Cockatiel Communication Language: Deciphering Crest Movements and Head Bowing",
-                "whyDesc": "A Cockatiel's head crest acts as a sensitive emotional antenna revealing its inner state. A crest held flat against the skull versus one fully erect indicates completely different mindsets, while lowering the head is a profound gesture of trust.",
-                "body_signals": [
-                    {
-                        "name": "Fully Erect Crest & Vertical Posture (Fully Erect Crest)",
-                        "meaning": "Indicates intense curiosity or alert vigilance toward an unfamiliar noise, object, or sudden movement in the room.",
-                        "response": "Avoid reaching in suddenly. Speak in low, comforting tones while allowing the bird to safely observe and assess the situation."
-                    },
-                    {
-                        "name": "Head Lowered & Neck Extended Forward (Head Lowering for Scratches)",
-                        "meaning": "A sign of deep trust and affection, explicitly requesting head and cheek (crest base) preening from the caregiver.",
-                        "response": "Gently stroke the base of the crest and orange cheek feathers against the grain using your fingertip."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Natural Ventilation, Feather Inspection & Fresh Pellet Feeding",
-                        "text": "Uncover the cage, refresh high-quality pellet feed and clean water, and observe flight agility for any wing injury or eye discharge."
-                    },
-                    {
-                        "name": "Afternoon: Supervised Free Flight & Foraging Toy Interaction",
-                        "text": "Secure all windows and doors for 1 - 2 hours of supervised free flight in a bird-proof room while offering foraging toys to stimulate mental acuity."
-                    },
-                    {
-                        "name": "Evening: Feather Powder Dander Wiping & Night Fright Cover Routine",
-                        "text": "Wipe down cage powder dander, switch on a dim night-light nearby to prevent darkness panic, and drape a breathable dark cover."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "What immediate steps should I take during a midnight Night Fright episode?",
-                        "answer": "Immediately switch on room lights, speak calmly to soothe the bird, and carefully check wings and beak for bleeding feathers. Keeping a permanent dim night-light next to the cage effectively prevents future episodes."
-                    },
-                    {
-                        "question": "Is the heavy white powder dander from my Cockatiel normal?",
-                        "answer": "Yes, Cockatiels naturally produce keratin powder down to waterproof and condition their feathers. Operating an HEPA air purifier and offering gentle water spray misting 2 - 3 times weekly will manage dander efficiently."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "オカメインコの冠羽サインとナイトフライト予防のための3ステップデイリーケア",
-                "description": "愛くるしい冠羽を持つオカメインコ。夜間のパニック（ナイトフライト）予防と冠羽の感情解読、AAV基準に準拠した3ステップルーチンを解説します。",
-                "authority": "鳥類獣医師協会 (AAV) および行動学アドバイザリー基準",
-                "profile": {
-                    "breed": "オカメインコ (Nymphicus hollandicus / Cockatiel)",
-                    "lifespan": "15 - 20年",
-                    "sleep_pattern": "10 - 12時間 (暗く静かな規則正しい睡眠が必須)",
-                    "temperament": "社交的、好奇心旺盛、メロディ好き、繊細"
-                },
-                "intro": "鮮やかなオレンジ色のほっぺと頭の美しい冠羽が特徴のオカメインコは、世界中で最も愛されている小型インコです。飼い主と強い絆を結び、口笛を真似るのが大好きな反面、捕食される側の野生本能が残っているため、夜間の僅かな光や音に驚いてケージ内で暴れる「ナイトフライト（夜間パニック）」を起こしやすい一面があります。鳥類獣医師協会（AAV）のガイドラインに基づき、オカメインコの感情サインを読み解き、健康な鳥生をサポートするデイリーケアを解説します。",
-                "whyTitle": "オカメインコの感情表現：冠羽の動きとおねだりポーズの解読",
-                "whyDesc": "頭の冠羽（Crest）は感情や警戒状態をリアルタイムで伝えるアンテナです。頭にピッタリ伏せている時と垂直に立ち上がっている時では意味が全く異なり、頭を低く下げて首を差し出すのは深い信頼の証です。",
-                "body_signals": [
-                    {
-                        "name": "冠羽をピンと垂直に立てる (Fully Erect Crest)",
-                        "meaning": "周囲の新しい音や物体に強い好奇心を感じているか、緊張して警戒している状態を示します。",
-                        "response": "急に手を伸ばさず、優しく穏やかな声で話しかけ、インコ自身が状況を安全だと判断するのを待ちます。"
-                    },
-                    {
-                        "name": "頭を低く下げて首を差し出す (Head Lowering for Scratches)",
-                        "meaning": "飼い主を深く信頼しており、頭やほっぺの周り（冠羽の根元）をカキカキしてほしいという愛情表現です。",
-                        "response": "指先で毛並みと逆方向に、ほっぺのオレンジ色の羽周辺を優しく撫でてあげましょう。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：自然光での換気、羽の健康チェックと新鮮なペレット給餌",
-                        "text": "朝のケージカバーを外し、ペレットと水を新鮮なものに交換し、羽の傷や目の輝き、飛行状態を確認します。"
-                    },
-                    {
-                        "name": "昼：安全な室内での放鳥タイムとフォージングトイ体験",
-                        "text": "窓やドアをしっかり閉めた部屋で1 - 2時間の自由飛行をさせ、フォージングトイ（おやつ探しおもちゃ）で頭を使わせます。"
-                    },
-                    {
-                        "name": "夜：脂粉の清掃とナイトフライト防止用カバー＆常夜灯設定",
-                        "text": "ケージ周囲の脂粉を拭き取り、完全な暗闇ではなく小さな常夜灯を点灯させた上で遮光カバーをかけ静かに休ませます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "夜中にケージの中で暴れ出した（ナイトフライト）時はどうすればいいですか？",
-                        "answer": "すぐに部屋の電気をつけて優しい声で安心させ、羽やクチバシに怪我がないか確認してください。予防のためケージの横に小さな常夜灯を常に点灯させておくことが推奨されます。"
-                    },
-                    {
-                        "question": "オカメインコの白い粉（脂粉）がたくさん飛ぶのは正常ですか？",
-                        "answer": "はい、オカメインコは羽を保護するための脂粉（Powder Down）を自然に分泌する犬種・鳥種です。空気清浄機を稼働させ、週に2 - 3回霧吹きで水浴びをさせてあげると脂粉の飛び散りを抑えられます。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "玄凤鹦鹉冠羽情绪语言与预防夜惊的3步日常护理",
-                "description": "全方位玄凤鹦鹉（Cockatiel）护理指南。解析冠羽肢体语言，科学预防夜间暴冲惊厥（Night Fright），建立AAV标准的3步日常流程。",
-                "authority": "国际鸟类兽医协会 (AAV) 行为护理标准",
-                "profile": {
-                    "breed": "玄凤鹦鹉 (Nymphicus hollandicus / Cockatiel)",
-                    "lifespan": "15 - 20年",
-                    "sleep_pattern": "10 - 12小时 (需要定时遮光安静睡眠)",
-                    "temperament": "社交性强、好歌唱、温和、环境敏感"
-                },
-                "intro": "拥有鲜艳红腮和优雅头顶冠羽的玄凤鹦鹉（Cockatiel）是全球最受喜爱的伴侣鸟之一。它们能与主人建立深厚的情感联结并喜爱吹笛模仿歌曲，但野外被捕食者的本能使其在夜间极易因微弱光影或异响发生扑腾撞笼的‘夜惊’（Night Fright）。遵照AAV国际兽医标准，本文将详细拆解其情绪信号与日常护理要点。",
-                "whyTitle": "玄凤鹦鹉的情绪语言：冠羽形态与低头求摸解密",
-                "whyDesc": "玄凤鹦鹉头顶的冠羽是其心理状态的晴雨表。完全紧贴头骨与直立竖起代表着截然不同的情绪，而主动低头伸长脖子则是对主人表达极度信任的专属姿态。",
-                "body_signals": [
-                    {
-                        "name": "冠羽高高竖起并保持垂直 (Fully Erect Crest)",
-                        "meaning": "对新环境、未知的声音或新物体产生了强烈的好奇心或高度戒备状态。",
-                        "response": "切勿突然伸出手抓握，请保持动作轻柔，用温柔的声音安抚，给其自行观察评估安全的时间。"
-                    },
-                    {
-                        "name": "低头靠近并伸长脖子 (Head Lowering for Scratches)",
-                        "meaning": "对主人表达极高的依赖与亲密，主动请求抚摸其头颈部与腮红羽毛。",
-                        "response": "用手指顺着羽毛逆向轻轻挠抚其腮红与冠羽根部。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早晨：通风换气、羽毛检查与新鲜滋养丸喂食",
-                        "text": "揭开鸟笼遮光布，更换新鲜滋养丸与净水，观察其晨间飞翔姿态与精神状况。"
-                    },
-                    {
-                        "name": "下午：室内安全放飞与觅食玩具智力互动",
-                        "text": "在关好门窗的安全房间内放飞1 - 2小时，并提供觅食玩具丰富其日间生活。"
-                    },
-                    {
-                        "name": "夜晚：羽粉清理与微光小夜灯防夜惊盖笼",
-                        "text": "清理鸟笼周围的羽粉，在笼旁保留一盏微弱小夜灯后盖上遮光布，确保优质睡眠。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "深夜鹦鹉突然撞笼暴冲（夜惊）应该如何处理？",
-                        "answer": "请立即打开房间大灯并用温柔的声音安抚，仔细检查翅膀羽毛是否有断裂出血。笼旁保留一盏微弱小夜灯是预防夜惊的最有效手段。"
-                    },
-                    {
-                        "question": "玄凤鹦鹉掉落大量白色粉沫（羽粉）是正常的吗？",
-                        "answer": "非常正常。玄凤鹦鹉会自然分泌羽粉（Powder Down）用于羽毛保养。开启HEPA空气净化器并每周进行2 - 3次温和喷雾水沐浴可有效管理羽粉。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Comunicación de la Cresta de la Ninfa y Rutina de 3 Pasos para Prevenir Sustos Nocturnos",
-                "description": "Guía completa de cuidado para la ninfa (Cockatiel). Descifra su lenguaje corporal, previene sustos nocturnos y aplica la rutina diaria avalada por la AAV.",
-                "authority": "Asociación de Veterinarios de Aves (AAV) & Normas de Comportamiento Aviar",
-                "profile": {
-                    "breed": "Ninfa / Carolina (Nymphicus hollandicus / Cockatiel)",
-                    "lifespan": "15 - 20 años",
-                    "sleep_pattern": "10 - 12 horas (Sueño estricto en oscuridad y silencio)",
-                    "temperament": "Muy sociable, curiosa, melódica, sensible"
-                },
-                "intro": "Conocida por sus mejillas anaranjadas y su elegante cresta, la ninfa (Cockatiel) es una de las aves de compañía más queridas. Aunque forman lazos afectivos profundos y disfrutan silbando melodías, conservan instintos de presa que las hacen propensas a 'sustos nocturnos' (Night Frights). Guiados por la AAV, explicamos su lenguaje y cuidados diarios.",
-                "whyTitle": "Lenguaje de la Ninfa: Significado de la Cresta y Cabeza Agachada",
-                "whyDesc": "La cresta de la ninfa actúa como una antena emocional. Una cresta completamente erguida transmite alerta o curiosidad, mientras que agachar la cabeza es una petición directa de caricias.",
-                "body_signals": [
-                    {
-                        "name": "Cresta Totalmente Erguida (Fully Erect Crest)",
-                        "meaning": "Alerta máxima o curiosidad intensa ante un sonido u objeto desconocido en la estancia.",
-                        "response": "Evita movimientos bruscos. Háblale con voz suave y permite que evalúe su entorno con calma."
-                    },
-                    {
-                        "name": "Cabeza Agachada y Cuello Extendido (Head Lowering for Scratches)",
-                        "meaning": "Muestra de gran confianza solicitando rascados en la nuca y las mejillas.",
-                        "response": "Rasca suavemente la zona de la cresta y mejillas a contrapelo con la yema del dedo."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Ventilación, Inspección y Pienso Fresco",
-                        "text": "Destapa la jaula, renueva el pienso extruido y el agua limpia, y observa su agilidad de vuelo."
-                    },
-                    {
-                        "name": "Tarde: Vuelo Libre Seguro y Juguetes de Forrajeo",
-                        "text": "Permite 1 - 2 horas de vuelo supervisado en una habitación segura con juguetes de búsqueda de comida."
-                    },
-                    {
-                        "name": "Noche: Limpieza de Plumón y Luz Nocturna Anti-Sustos",
-                        "text": "Limpia el polvo de plumas y deja una pequeña luz nocturna encendida antes de cubrir la jaula."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Qué hacer ante un episodio de pánico nocturno (Night Fright)?",
-                        "answer": "Enciende la luz de inmediato, háblale con calma y revisa sus alas por si hay plumas sangrantes. Dejar una luz de noche encendida previene nuevos sustos."
-                    },
-                    {
-                        "question": "¿Es normal el polvo blanco que suelta la ninfa?",
-                        "answer": "Sí, las ninfas producen plumón en polvo para proteger sus plumas. Usa un purificador de aire y ofrece baños de pulverización 2 - 3 veces por semana."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Langage de la Huppe de la Calopsitte et Routine en 3 Étapes Anti-Frayeurs Nocturnes",
-                "description": "Guide complet pour la Calopsitte élégante. Décodez la huppe, prévenez les frayeurs nocturnes et suivez la routine recommandée par l'AAV.",
-                "authority": "Association of Avian Veterinarians (AAV) & Normes de Comportement Aviaire",
-                "profile": {
-                    "breed": "Calopsitte Élégante (Nymphicus hollandicus / Cockatiel)",
-                    "lifespan": "15 - 20 ans",
-                    "sleep_pattern": "10 - 12 heures (Sommeil obscur et calme exigé)",
-                    "temperament": "Très sociable, curieuse, mélodieuse, sensible"
-                },
-                "intro": "Reconnue pour ses joues oranges et sa huppe expressive, la Calopsitte est un oiseau de compagnie très affectueux. Elle développe un lien fort avec son humain mais reste sujette aux frayeurs nocturnes (Night Frights). Suivez les normes de l'AAV pour la décoder et la protéger.",
-                "whyTitle": "Communication de la Calopsitte: Signification de la Huppe et Demande de Gratouilles",
-                "whyDesc": "La huppe est une véritable antenne émotionnelle. Dressée verticalement, elle traduit l'alerte; penchée en avant avec la tête baissée, elle demande de l'affection.",
-                "body_signals": [
-                    {
-                        "name": "Huppe Complètement Dressée (Fully Erect Crest)",
-                        "meaning": "Vigilance accrue ou curiosité vive face à un bruit ou un objet nouveau.",
-                        "response": "Parlez doucement et évitez les gestes brusques pour la rassurer."
-                    },
-                    {
-                        "name": "Tête Baissée vers l'Avant (Head Lowering for Scratches)",
-                        "meaning": "Marque de confiance totale sollicitant des gratouilles sur les joues et la base de la huppe.",
-                        "response": "Grattez doucement la base de la huppe à rebrousse-poil."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin: Aération, Inspection du Plumage et Extrudés Frais",
-                        "text": "Découvrez la cage, renouvelez l'eau et les granulés et vérifiez la vitalité de l'oiseau."
-                    },
-                    {
-                        "name": "Après-midi: Vol Libre Sécurisé et Jouets de Recherche",
-                        "text": "Offrez 1 - 2 heures de vol libre sécurisé avec des jouets de foraging pour stimuler son intellect."
-                    },
-                    {
-                        "name": "Soir: Nettoyage de la Poudre de Plume et Veilleuse Anti-Panique",
-                        "text": "Nettoyez la poudre de duvet et laissez une faible veilleuse allumée sous le drap de nuit."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Comment réagir lors d'une panique nocturne (Night Fright) ?",
-                        "answer": "Allumez immédiatement la lumière, rassurez l'oiseau avec une voix douce et vérifiez les ailes. Laissez toujours une veilleuse allumée."
-                    },
-                    {
-                        "question": "La poudre blanche produite par la Calopsitte est-elle normale ?",
-                        "answer": "Oui, c'est du duvet de poudre naturel. Utilisez un purificateur d'air HEPA et donnez des douches au vaporisateur 2 - 3 fois par semaine."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Nymphensittich-Haubensignale und 3-Schritte-Routine gegen nächtliche Panik",
-                "description": "Pflegeanleitung für Nymphensittiche. Haubensprache verstehen, Night Frights vermeiden und eine 3-Schritte-Routine nach AAV-Standards etablieren.",
-                "authority": "Association of Avian Veterinarians (AAV) & Verhaltensempfehlungen",
-                "profile": {
-                    "breed": "Nymphensittich (Nymphicus hollandicus / Cockatiel)",
-                    "lifespan": "15 - 20 Jahre",
-                    "sleep_pattern": "10 - 12 Stunden (Dunkle und ruhige Nachtruhe)",
-                    "temperament": "Gesellig, neugierig, melodisch, sensibel"
-                },
-                "intro": "Der Nymphensittich mit seinen roten Bäckchen und der eleganten Haube gehört zu den beliebtesten Heimvögeln. Trotz ihrer Verschmustheit neigen sie wegen ihres Fluchtinstinkts zu nächtlicher Panik ('Night Frights'). Gemäß AAV-Standards lernen Sie hier ihre Sprache kennen. Die Bereitstellung einer konsistenten täglichen Gesundheitspflege und einer sicheren Umgebung sichert das Wohlbefinden Ihres Haustieres.",
-                "whyTitle": "Kommunikation des Nymphensittichs: Die Sprache der Haube",
-                "whyDesc": "Die Haube verrät die Stimmung des Vogels. Steht sie steil aufgerichtet, ist er wachsam; neigt er den Kopf, fordert er Krauleinheiten ein.",
-                "body_signals": [
-                    {
-                        "name": "Steil Aufgerichtete Haube (Fully Erect Crest)",
-                        "meaning": "Hohe Aufmerksamkeit, Neugier oder Skepsis gegenüber neuen Reizen im Raum.",
-                        "response": "Ruhig sprechen und keine hastigen Bewegungen machen, bis sich der Vogel beruhigt hat."
-                    },
-                    {
-                        "name": "Gesenkter Kopf und Vorgebeugter Nacken (Head Lowering for Scratches)",
-                        "meaning": "Großes Vertrauen und die Bitte um Kraulen an den Wangen und am Hinterkopf.",
-                        "response": "Sanft entgegen der Federrichtung an den Wangenfedern kraulen."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Lüften, Gefiedercheck und Frisches Pelletergänzungsfutter",
-                        "text": "Käfig abdecken, frisches Wasser und Pellets anbieten sowie das Flugverhalten beobachten."
-                    },
-                    {
-                        "name": "Nachmittag: Gesicherter Freiflug und Beschäftigungsspielzeug",
-                        "text": "1 - 2 Stunden Freiflug im gesicherten Raum ermöglichen und Futtersuch-Spielzeug bereitstellen."
-                    },
-                    {
-                        "name": "Abend: Gefiederstaub entfernen und Nachtlicht aktivieren",
-                        "text": "Staub wischen und ein schwaches Nachtlicht brennen lassen, um Panikattacken zu verhindern."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Was tun bei nächtlichen Panikattacken (Night Frights)?",
-                        "answer": "Schalten Sie sofort das Licht ein und beruhigen Sie den Vogel mit sanfter Stimme. Ein kleines Nachtlicht verhindert zukünftige Schreckeinheiten."
-                    },
-                    {
-                        "question": "Ist der weiße Gefiederstaub beim Nymphensittich normal?",
-                        "answer": "Ja, Nymphensittiche produzieren Puderdunen zur Gefiederpflege. Ein Luftreiniger und Duschen mit der Sprühflasche 2 - 3 Mal pro Woche helfen."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Comunicação da Crista da Calopsita e Rotina em 3 Passos Contra Sustos Noturnos",
-                "description": "Guia completo de cuidados para Calopsita. Entenda a linguagem da crista, previna o pânico noturno e siga uma rotina recomendada pela AAV.",
-                "authority": "Associação de Veterinários de Aves (AAV) & Padrões Comportamentais",
-                "profile": {
-                    "breed": "Calopsita (Nymphicus hollandicus / Cockatiel)",
-                    "lifespan": "15 - 20 anos",
-                    "sleep_pattern": "10 - 12 horas (Sono escuro e tranquilo obrigatório)",
-                    "temperament": "Muito sociável, curiosa, melódica, sensível"
-                },
-                "intro": "Famosa pelas bochechas laranjas e crista graciosa, a Calopsita é uma ave inteligente e afetuosa. Contudo, seu instinto de presa a torna propensa ao 'pânico noturno' (Night Frights). Com base nos padrões da AAV, aprenda a decodificar seus sinais. Oferecer cuidados de saúde diários constantes e um ambiente seguro garante o bem-estar a longo prazo do seu animal.",
-                "whyTitle": "Comunicação da Calopsita: O Que a Crista e a Cabeça Abaixada Revelam",
-                "whyDesc": "A crista é uma antena emocional. Erguida verticalmente sinaliza alerta; a cabeça abaixada é um pedido explícito de carinho na nuca.",
-                "body_signals": [
-                    {
-                        "name": "Crista Totalmente Erguida (Fully Erect Crest)",
-                        "meaning": "Alerta máximo ou curiosidade intensa diante de um novo som ou objeto no ambiente.",
-                        "response": "Fale com voz calma e evite aproximações bruscas com as mãos."
-                    },
-                    {
-                        "name": "Cabeça Abaixada e Pescoço Estendido (Head Lowering for Scratches)",
-                        "meaning": "Demonstração de profunda confiança pedindo carinho nas bochechas e nuca.",
-                        "response": "Coce suavemente as penas da bochecha e base da crista no sentido oposto às penas."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Ventilação, Inspeção e Ração Extrusada Fresca",
-                        "text": "Descubra a gaiola, troque a água e a ração extrusada e observe a agilidade de voo."
-                    },
-                    {
-                        "name": "Tarde: Voo Livre Seguro e Brinquedos de Forrageamento",
-                        "text": "Ofereça 1 - 2 horas de voo em ambiente seguro com brinquedos de busca de alimento."
-                    },
-                    {
-                        "name": "Noite: Limpeza de Pó e Luz Noturna Anti-Susto",
-                        "text": "Limpe o pó de penas e mantenha uma luz noturna fraca acesa perto da gaiola."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Como agir durante um episódio de pânico noturno (Night Fright)?",
-                        "answer": "Acenda a luz imediatamente, acalme a ave com voz suave e verifique se há penas sangrando. Deixe sempre uma luz fraca acesa durante a noite."
-                    },
-                    {
-                        "question": "É normal a Calopsita soltar um pó branco pelas penas?",
-                        "answer": "Sim, elas produzem penas de pó (Powder Down) naturalmente. Use um purificador de ar HEPA e ofereça banhos de borrifador 2 - 3 vezes por semana."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Bahasa Jambul Cockatiel dan Rutinitas 3 Langkah Mencegah Night Fright",
-                "description": "Panduan lengkap merawat burung Cockatiel (Parkit Australia). Pahami bahasa tubuh jambul, cegah panik malam (Night Fright), dan terapkan rutinitas AAV.",
-                "authority": "Association of Avian Veterinarians (AAV) & Standar Perilaku Burung",
-                "profile": {
-                    "breed": "Cockatiel / Parkit Australia (Nymphicus hollandicus)",
-                    "lifespan": "15 - 20 Tahun",
-                    "sleep_pattern": "10 - 12 Jam (Butuh Gelap & Tenang)",
-                    "temperament": "Sangat Sosial, Ingin Tahu, Melodis, Sensitif"
-                },
-                "intro": "Cockatiel terkenal dengan pipi oranye ikonik dan jambul indahnya. Burung sosial ini sangat menyukai siulan dan memiliki ikatan erat dengan pemiliknya, namun rentan mengalami panik malam (Night Fright) akibat bayangan atau suara mendadak. Berdasarkan panduan Association of Avian Veterinarians (AAV), berikut adalah panduan memahami bahasa tubuh dan rutinitas kesehatannya.",
-                "whyTitle": "Komunikasi Cockatiel: Arti Gerakan Jambul dan Menundukkan Kepala",
-                "whyDesc": "Jambul di kepala adalah antena emosi. Jambul tegak lurus menunjukkan kewaspadaan atau rasa ingin tahu tinggi, sementara menundukkan kepala adalah ekspresi kepercayaan mendalam.",
-                "body_signals": [
-                    {
-                        "name": "Jambul Tegak Lurus & Postur Vertikal (Fully Erect Crest)",
-                        "meaning": "Rasa ingin tahu tinggi atau kewaspadaan terhadap suara maupun benda baru di ruangan.",
-                        "response": "Bicara dengan nada lembut dan hindari gerakan mendadak agar burung merasa aman."
-                    },
-                    {
-                        "name": "Menundukkan Kepala & Menjulurkan Leher (Head Lowering for Scratches)",
-                        "meaning": "Tanda kepercayaan mendalam dan meminta elusan di area pipi serta pangkal jambul.",
-                        "response": "Usap lembut bulu di sekitar pipi oranye dan pangkal jambul berlawanan arah bulu."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Ventilasi Udara, Inspeksi Bulu & Pelet Segar",
-                        "text": "Buka penutup kandang, ganti air bersih dan pelet nutrisi, lalu amati kelincahan terbangnya."
-                    },
-                    {
-                        "name": "Siang: Terbang Bebas Aman & Mainan Foraging",
-                        "text": "Beri waktu 1 - 2 jam terbang bebas di ruangan aman dengan mainan pencari makan (foraging toys)."
-                    },
-                    {
-                        "name": "Malam: Pembersihan Debu Bulu & Lampu Tidur Anti-Panik",
-                        "text": "Bersihkan debu bulu, nyalakan lampu tidur redup dekat kandang, dan pasang penutup penahan cahaya."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Bagaimana cara menangani panik malam (Night Fright) saat tengah malam?",
-                        "answer": "Nyalakan lampu ruangan segera, bicara lembut untuk menenangkan, dan periksa apakah ada bulu sayap yang patah. Pasang lampu malam redup di dekat kandang secara permanen."
-                    },
-                    {
-                        "question": "Apakah debu putih (powder dander) pada Cockatiel itu normal?",
-                        "answer": "Sangat normal. Cockatiel secara alami menghasilkan debu bedak untuk merawat bulunya. Gunakan pemurni udara HEPA dan beri mandi semprot halus 2 - 3 kali seminggu."
-                    }
-                ]
-            }
+  "cockatiel-care": {
+    "pubDate": "2026-01-15",
+    "updatedDate": "2026-01-15",
+    "locales": {
+      "ko": {
+        "title": "왕관앵무의 우관 표현과 나이트 파닉 예방을 위한 3단계 데일리 케어",
+        "description": "사교적이고 머리 벼슬(우관)이 매력적인 왕관앵무. 밤에 깜짝 놀라는 나이트 파닉(Night Fright) 예방과 깃털 긁기 시그널 해독, 맞춤형 3단계 데일리 케어 루틴을 소개합니다.",
+        "authority": "Association of Avian Veterinarians (AAV) & Avian Behavior Advisory Standards",
+        "profile": {
+          "breed": "왕관앵무 (Nymphicus hollandicus / Cockatiel)",
+          "lifespan": "15 ~ 20년",
+          "sleep_pattern": "10 ~ 12시간 (규칙적인 암막 조용 수면 필수)",
+          "temperament": "사교적임, 호기심 다분, 음률 애호, 예민함"
         },
-        "heroImage": "/images/blog/cockatiel_care.webp"
-    }
+        "intro": "노란 뺨과 머리 위 우아한 벼슬(우관)이 특징인 왕관앵무(Cockatiel)는 전 세계 반려조류 집사들에게 가장 사랑받는 소형 앵무새 품종입니다. 사람과의 강한 유대감을 형성하고 멜로디 휘파람을 즐기지만, 야생에서의 천적 경계 본능이 남아있어 밤중에 작은 빛이나 소음에도 크게 놀라 새장 속에서 날뛰는 '나이트 파닉(Night Fright)'을 겪기 쉽습니다. 조류 수의사 협회(AAV)의 지침을 바탕으로, 왕관앵무의 감정 시그널을 읽고 건강한 조류 생활을 돕는 루틴을 안내합니다.",
+        "whyTitle": "왕관앵무의 기분 언어: 우관(벼슬)의 세밀한 신호와 긁기 표현",
+        "whyDesc": "왕관앵무 머리의 우관(Crest)은 기분과 경계 상태를 알려주는 안테나입니다. 우관이 머리에 바짝 붙어있을 때와 수직으로 곧게 섰을 때의 의미가 완전히 다르며, 머리를 푹 숙이고 목을 내밀 때는 깊은 신뢰의 표현입니다.",
+        "body_signals": [
+          {
+            "name": "우관 바짝 세우기 & 수평 유지 (Fully Erect Crest)",
+            "meaning": "주변 환경에 강한 호기심을 느끼거나 새로운 소리/물체에 긴장하여 유심히 경계하고 있는 상태입니다.",
+            "response": "갑자기 손을 가져다 대지 말고 잔잔한 목소리로 대화하며 앵무새가 상황을 안전하게 파악하도록 기다려 줍니다."
+          },
+          {
+            "name": "머리 숙이고 목 내밀기 (Head Lowering for Scratches)",
+            "meaning": "보호자에게 깊은 친밀감을 느끼며 머리와 뺨 주변(우관 뿌리)을 부드럽게 긁어달라는 애정 표현입니다.",
+            "response": "손가락 끝으로 깃결의 반대 방향이나 뺨의 주황색 깃털 부위를 살살 다정하게 긁어줍니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 자연광 환기, 깃털 청결 점검 및 신선한 펠릿 급여",
+            "text": "아침 덮개를 개봉한 후 펠릿 사료와 깨끗한 물을 교체하고, 깃털 손상이나 눈곱이 없는지 비행 상태를 살핍니다."
+          },
+          {
+            "name": "낮: 새장 밖 자유 비행(방사) 및 아크릴 씹기 장난감 상호작용",
+            "text": "창문과 창문을 닫고 안전이 확보된 방에서 최소 1 - 2시간 자유 비행을 시키며 먹이 탐색 장난감(Foraging Toy)을 제공합니다."
+          },
+          {
+            "name": "저녁: 깃털 파우더 닦기 및 나이트 파닉 방지용 암막·미등 커버링",
+            "text": "새장 주변 깃털 파우더를 청소하고, 완전히 깜깜한 것보다는 은은한 수면 미등을 켜둔 뒤 암막 커튼을 씌워 숙면을 유도합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "한밤중에 새장 안에서 비명을 지르며 날개를 펄럭이는데(나이트 파닉) 어떻게 해야 하나요?",
+            "answer": "즉시 방 조명을 켜고 다정한 목소리로 안심시킨 뒤, 날개나 부리에 상처가 없는지 확인하세요. 나이트 파닉 예방을 위해 새장 옆에 작은 야간 미등(Night light)을 항상 켜두는 것이 좋습니다."
+          },
+          {
+            "question": "왕관앵무 비듬(파우더)이 너무 많이 날리는데 정상인가요?",
+            "answer": "왕관앵무는 깃털 보호를 위한 파우더(Powder Down)가 자연스럽게 분비되는 종입니다. 공기청정기를 가동하고 일주일에 2 - 3회 부드러운 분무기 분사로 깃털 목욕을 시켜주면 파우더 날림을 줄일 수 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Cockatiel Crest Communication and 3-Step Care Routine to Prevent Night Frights",
+        "description": "Comprehensive care guide for the crested Cockatiel. Learn to decode crest body language, prevent nocturnal night frights, and master a 3-step daily routine recommended by AAV.",
+        "authority": "Association of Avian Veterinarians (AAV) & Avian Behavior Advisory Standards",
+        "profile": {
+          "breed": "Cockatiel (Nymphicus hollandicus)",
+          "lifespan": "15 - 20 Years",
+          "sleep_pattern": "10 - 12 Hours (Requires Strict Dark & Quiet Sleep)",
+          "temperament": "Highly Social, Curious, Melodic, Environmentally Sensitive"
+        },
+        "intro": "Characterized by bright orange cheeks and an elegant head crest, the Cockatiel is one of the most cherished companion birds globally. Cockatiels form deep emotional bonds with human caregivers and love whistling tunes, yet they retain wild prey instincts that make them highly susceptible to 'Night Frights'—sudden nocturnal panic attacks triggered by dim shadows or distant noises. Guided by Association of Avian Veterinarians (AAV) protocols, this guide breaks down their emotional body language and establishes a daily routine for optimal health.",
+        "whyTitle": "Cockatiel Communication Language: Deciphering Crest Movements and Head Bowing",
+        "whyDesc": "A Cockatiel's head crest acts as a sensitive emotional antenna revealing its inner state. A crest held flat against the skull versus one fully erect indicates completely different mindsets, while lowering the head is a profound gesture of trust.",
+        "body_signals": [
+          {
+            "name": "Fully Erect Crest & Vertical Posture (Fully Erect Crest)",
+            "meaning": "Indicates intense curiosity or alert vigilance toward an unfamiliar noise, object, or sudden movement in the room.",
+            "response": "Avoid reaching in suddenly. Speak in low, comforting tones while allowing the bird to safely observe and assess the situation."
+          },
+          {
+            "name": "Head Lowered & Neck Extended Forward (Head Lowering for Scratches)",
+            "meaning": "A sign of deep trust and affection, explicitly requesting head and cheek (crest base) preening from the caregiver.",
+            "response": "Gently stroke the base of the crest and orange cheek feathers against the grain using your fingertip."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Natural Ventilation, Feather Inspection & Fresh Pellet Feeding",
+            "text": "Uncover the cage, refresh high-quality pellet feed and clean water, and observe flight agility for any wing injury or eye discharge."
+          },
+          {
+            "name": "Afternoon: Supervised Free Flight & Foraging Toy Interaction",
+            "text": "Secure all windows and doors for 1 - 2 hours of supervised free flight in a bird-proof room while offering foraging toys to stimulate mental acuity."
+          },
+          {
+            "name": "Evening: Feather Powder Dander Wiping & Night Fright Cover Routine",
+            "text": "Wipe down cage powder dander, switch on a dim night-light nearby to prevent darkness panic, and drape a breathable dark cover."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "What immediate steps should I take during a midnight Night Fright episode?",
+            "answer": "Immediately switch on room lights, speak calmly to soothe the bird, and carefully check wings and beak for bleeding feathers. Keeping a permanent dim night-light next to the cage effectively prevents future episodes."
+          },
+          {
+            "question": "Is the heavy white powder dander from my Cockatiel normal?",
+            "answer": "Yes, Cockatiels naturally produce keratin powder down to waterproof and condition their feathers. Operating an HEPA air purifier and offering gentle water spray misting 2 - 3 times weekly will manage dander efficiently."
+          }
+        ]
+      },
+      "ja": {
+        "title": "オカメインコの冠羽サインとナイトフライト予防のための3ステップデイリーケア",
+        "description": "愛くるしい冠羽を持つオカメインコ。夜間のパニック（ナイトフライト）予防と冠羽の感情解読、AAV基準に準拠した3ステップルーチンを解説します。",
+        "authority": "鳥類獣医師協会 (AAV) および行動学アドバイザリー基準",
+        "profile": {
+          "breed": "オカメインコ (Nymphicus hollandicus / Cockatiel)",
+          "lifespan": "15 - 20年",
+          "sleep_pattern": "10 - 12時間 (暗く静かな規則正しい睡眠が必須)",
+          "temperament": "社交的、好奇心旺盛、メロディ好き、繊細"
+        },
+        "intro": "鮮やかなオレンジ色のほっぺと頭の美しい冠羽が特徴のオカメインコは、世界中で最も愛されている小型インコです。飼い主と強い絆を結び、口笛を真似るのが大好きな反面、捕食される側の野生本能が残っているため、夜間の僅かな光や音に驚いてケージ内で暴れる「ナイトフライト（夜間パニック）」を起こしやすい一面があります。鳥類獣医師協会（AAV）のガイドラインに基づき、オカメインコの感情サインを読み解き、健康な鳥生をサポートするデイリーケアを解説します。",
+        "whyTitle": "オカメインコの感情表現：冠羽の動きとおねだりポーズの解読",
+        "whyDesc": "頭の冠羽（Crest）は感情や警戒状態をリアルタイムで伝えるアンテナです。頭にピッタリ伏せている時と垂直に立ち上がっている時では意味が全く異なり、頭を低く下げて首を差し出すのは深い信頼の証です。",
+        "body_signals": [
+          {
+            "name": "冠羽をピンと垂直に立てる (Fully Erect Crest)",
+            "meaning": "周囲の新しい音や物体に強い好奇心を感じているか、緊張して警戒している状態を示します。",
+            "response": "急に手を伸ばさず、優しく穏やかな声で話しかけ、インコ自身が状況を安全だと判断するのを待ちます。"
+          },
+          {
+            "name": "頭を低く下げて首を差し出す (Head Lowering for Scratches)",
+            "meaning": "飼い主を深く信頼しており、頭やほっぺの周り（冠羽の根元）をカキカキしてほしいという愛情表現です。",
+            "response": "指先で毛並みと逆方向に、ほっぺのオレンジ色の羽周辺を優しく撫でてあげましょう。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：自然光での換気、羽の健康チェックと新鮮なペレット給餌",
+            "text": "朝のケージカバーを外し、ペレットと水を新鮮なものに交換し、羽の傷や目の輝き、飛行状態を確認します。"
+          },
+          {
+            "name": "昼：安全な室内での放鳥タイムとフォージングトイ体験",
+            "text": "窓やドアをしっかり閉めた部屋で1 - 2時間の自由飛行をさせ、フォージングトイ（おやつ探しおもちゃ）で頭を使わせます。"
+          },
+          {
+            "name": "夜：脂粉の清掃とナイトフライト防止用カバー＆常夜灯設定",
+            "text": "ケージ周囲の脂粉を拭き取り、完全な暗闇ではなく小さな常夜灯を点灯させた上で遮光カバーをかけ静かに休ませます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "夜中にケージの中で暴れ出した（ナイトフライト）時はどうすればいいですか？",
+            "answer": "すぐに部屋の電気をつけて優しい声で安心させ、羽やクチバシに怪我がないか確認してください。予防のためケージの横に小さな常夜灯を常に点灯させておくことが推奨されます。"
+          },
+          {
+            "question": "オカメインコの白い粉（脂粉）がたくさん飛ぶのは正常ですか？",
+            "answer": "はい、オカメインコは羽を保護するための脂粉（Powder Down）を自然に分泌する犬種・鳥種です。空気清浄機を稼働させ、週に2 - 3回霧吹きで水浴びをさせてあげると脂粉の飛び散りを抑えられます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "玄凤鹦鹉冠羽情绪语言与预防夜惊的3步日常护理",
+        "description": "全方位玄凤鹦鹉（Cockatiel）护理指南。解析冠羽肢体语言，科学预防夜间暴冲惊厥（Night Fright），建立AAV标准的3步日常流程。",
+        "authority": "国际鸟类兽医协会 (AAV) 行为护理标准",
+        "profile": {
+          "breed": "玄凤鹦鹉 (Nymphicus hollandicus / Cockatiel)",
+          "lifespan": "15 - 20年",
+          "sleep_pattern": "10 - 12小时 (需要定时遮光安静睡眠)",
+          "temperament": "社交性强、好歌唱、温和、环境敏感"
+        },
+        "intro": "拥有鲜艳红腮和优雅头顶冠羽的玄凤鹦鹉（Cockatiel）是全球最受喜爱的伴侣鸟之一。它们能与主人建立深厚的情感联结并喜爱吹笛模仿歌曲，但野外被捕食者的本能使其在夜间极易因微弱光影或异响发生扑腾撞笼的‘夜惊’（Night Fright）。遵照AAV国际兽医标准，本文将详细拆解其情绪信号与日常护理要点。",
+        "whyTitle": "玄凤鹦鹉的情绪语言：冠羽形态与低头求摸解密",
+        "whyDesc": "玄凤鹦鹉头顶的冠羽是其心理状态的晴雨表。完全紧贴头骨与直立竖起代表着截然不同的情绪，而主动低头伸长脖子则是对主人表达极度信任的专属姿态。",
+        "body_signals": [
+          {
+            "name": "冠羽高高竖起并保持垂直 (Fully Erect Crest)",
+            "meaning": "对新环境、未知的声音或新物体产生了强烈的好奇心或高度戒备状态。",
+            "response": "切勿突然伸出手抓握，请保持动作轻柔，用温柔的声音安抚，给其自行观察评估安全的时间。"
+          },
+          {
+            "name": "低头靠近并伸长脖子 (Head Lowering for Scratches)",
+            "meaning": "对主人表达极高的依赖与亲密，主动请求抚摸其头颈部与腮红羽毛。",
+            "response": "用手指顺着羽毛逆向轻轻挠抚其腮红与冠羽根部。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早晨：通风换气、羽毛检查与新鲜滋养丸喂食",
+            "text": "揭开鸟笼遮光布，更换新鲜滋养丸与净水，观察其晨间飞翔姿态与精神状况。"
+          },
+          {
+            "name": "下午：室内安全放飞与觅食玩具智力互动",
+            "text": "在关好门窗的安全房间内放飞1 - 2小时，并提供觅食玩具丰富其日间生活。"
+          },
+          {
+            "name": "夜晚：羽粉清理与微光小夜灯防夜惊盖笼",
+            "text": "清理鸟笼周围的羽粉，在笼旁保留一盏微弱小夜灯后盖上遮光布，确保优质睡眠。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "深夜鹦鹉突然撞笼暴冲（夜惊）应该如何处理？",
+            "answer": "请立即打开房间大灯并用温柔的声音安抚，仔细检查翅膀羽毛是否有断裂出血。笼旁保留一盏微弱小夜灯是预防夜惊的最有效手段。"
+          },
+          {
+            "question": "玄凤鹦鹉掉落大量白色粉沫（羽粉）是正常的吗？",
+            "answer": "非常正常。玄凤鹦鹉会自然分泌羽粉（Powder Down）用于羽毛保养。开启HEPA空气净化器并每周进行2 - 3次温和喷雾水沐浴可有效管理羽粉。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Comunicación de la Cresta de la Ninfa y Rutina de 3 Pasos para Prevenir Sustos Nocturnos",
+        "description": "Guía completa de cuidado para la ninfa (Cockatiel). Descifra su lenguaje corporal, previene sustos nocturnos y aplica la rutina diaria avalada por la AAV.",
+        "authority": "Asociación de Veterinarios de Aves (AAV) & Normas de Comportamiento Aviar",
+        "profile": {
+          "breed": "Ninfa / Carolina (Nymphicus hollandicus / Cockatiel)",
+          "lifespan": "15 - 20 años",
+          "sleep_pattern": "10 - 12 horas (Sueño estricto en oscuridad y silencio)",
+          "temperament": "Muy sociable, curiosa, melódica, sensible"
+        },
+        "intro": "Conocida por sus mejillas anaranjadas y su elegante cresta, la ninfa (Cockatiel) es una de las aves de compañía más queridas. Aunque forman lazos afectivos profundos y disfrutan silbando melodías, conservan instintos de presa que las hacen propensas a 'sustos nocturnos' (Night Frights). Guiados por la AAV, explicamos su lenguaje y cuidados diarios.",
+        "whyTitle": "Lenguaje de la Ninfa: Significado de la Cresta y Cabeza Agachada",
+        "whyDesc": "La cresta de la ninfa actúa como una antena emocional. Una cresta completamente erguida transmite alerta o curiosidad, mientras que agachar la cabeza es una petición directa de caricias.",
+        "body_signals": [
+          {
+            "name": "Cresta Totalmente Erguida (Fully Erect Crest)",
+            "meaning": "Alerta máxima o curiosidad intensa ante un sonido u objeto desconocido en la estancia.",
+            "response": "Evita movimientos bruscos. Háblale con voz suave y permite que evalúe su entorno con calma."
+          },
+          {
+            "name": "Cabeza Agachada y Cuello Extendido (Head Lowering for Scratches)",
+            "meaning": "Muestra de gran confianza solicitando rascados en la nuca y las mejillas.",
+            "response": "Rasca suavemente la zona de la cresta y mejillas a contrapelo con la yema del dedo."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Ventilación, Inspección y Pienso Fresco",
+            "text": "Destapa la jaula, renueva el pienso extruido y el agua limpia, y observa su agilidad de vuelo."
+          },
+          {
+            "name": "Tarde: Vuelo Libre Seguro y Juguetes de Forrajeo",
+            "text": "Permite 1 - 2 horas de vuelo supervisado en una habitación segura con juguetes de búsqueda de comida."
+          },
+          {
+            "name": "Noche: Limpieza de Plumón y Luz Nocturna Anti-Sustos",
+            "text": "Limpia el polvo de plumas y deja una pequeña luz nocturna encendida antes de cubrir la jaula."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Qué hacer ante un episodio de pánico nocturno (Night Fright)?",
+            "answer": "Enciende la luz de inmediato, háblale con calma y revisa sus alas por si hay plumas sangrantes. Dejar una luz de noche encendida previene nuevos sustos."
+          },
+          {
+            "question": "¿Es normal el polvo blanco que suelta la ninfa?",
+            "answer": "Sí, las ninfas producen plumón en polvo para proteger sus plumas. Usa un purificador de aire y ofrece baños de pulverización 2 - 3 veces por semana."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Langage de la Huppe de la Calopsitte et Routine en 3 Étapes Anti-Frayeurs Nocturnes",
+        "description": "Guide complet pour la Calopsitte élégante. Décodez la huppe, prévenez les frayeurs nocturnes et suivez la routine recommandée par l'AAV.",
+        "authority": "Association of Avian Veterinarians (AAV) & Normes de Comportement Aviaire",
+        "profile": {
+          "breed": "Calopsitte Élégante (Nymphicus hollandicus / Cockatiel)",
+          "lifespan": "15 - 20 ans",
+          "sleep_pattern": "10 - 12 heures (Sommeil obscur et calme exigé)",
+          "temperament": "Très sociable, curieuse, mélodieuse, sensible"
+        },
+        "intro": "Reconnue pour ses joues oranges et sa huppe expressive, la Calopsitte est un oiseau de compagnie très affectueux. Elle développe un lien fort avec son humain mais reste sujette aux frayeurs nocturnes (Night Frights). Suivez les normes de l'AAV pour la décoder et la protéger.",
+        "whyTitle": "Communication de la Calopsitte: Signification de la Huppe et Demande de Gratouilles",
+        "whyDesc": "La huppe est une véritable antenne émotionnelle. Dressée verticalement, elle traduit l'alerte; penchée en avant avec la tête baissée, elle demande de l'affection.",
+        "body_signals": [
+          {
+            "name": "Huppe Complètement Dressée (Fully Erect Crest)",
+            "meaning": "Vigilance accrue ou curiosité vive face à un bruit ou un objet nouveau.",
+            "response": "Parlez doucement et évitez les gestes brusques pour la rassurer."
+          },
+          {
+            "name": "Tête Baissée vers l'Avant (Head Lowering for Scratches)",
+            "meaning": "Marque de confiance totale sollicitant des gratouilles sur les joues et la base de la huppe.",
+            "response": "Grattez doucement la base de la huppe à rebrousse-poil."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin: Aération, Inspection du Plumage et Extrudés Frais",
+            "text": "Découvrez la cage, renouvelez l'eau et les granulés et vérifiez la vitalité de l'oiseau."
+          },
+          {
+            "name": "Après-midi: Vol Libre Sécurisé et Jouets de Recherche",
+            "text": "Offrez 1 - 2 heures de vol libre sécurisé avec des jouets de foraging pour stimuler son intellect."
+          },
+          {
+            "name": "Soir: Nettoyage de la Poudre de Plume et Veilleuse Anti-Panique",
+            "text": "Nettoyez la poudre de duvet et laissez une faible veilleuse allumée sous le drap de nuit."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Comment réagir lors d'une panique nocturne (Night Fright) ?",
+            "answer": "Allumez immédiatement la lumière, rassurez l'oiseau avec une voix douce et vérifiez les ailes. Laissez toujours une veilleuse allumée."
+          },
+          {
+            "question": "La poudre blanche produite par la Calopsitte est-elle normale ?",
+            "answer": "Oui, c'est du duvet de poudre naturel. Utilisez un purificateur d'air HEPA et donnez des douches au vaporisateur 2 - 3 fois par semaine."
+          }
+        ]
+      },
+      "de": {
+        "title": "Nymphensittich-Haubensignale und 3-Schritte-Routine gegen nächtliche Panik",
+        "description": "Pflegeanleitung für Nymphensittiche. Haubensprache verstehen, Night Frights vermeiden und eine 3-Schritte-Routine nach AAV-Standards etablieren.",
+        "authority": "Association of Avian Veterinarians (AAV) & Verhaltensempfehlungen",
+        "profile": {
+          "breed": "Nymphensittich (Nymphicus hollandicus / Cockatiel)",
+          "lifespan": "15 - 20 Jahre",
+          "sleep_pattern": "10 - 12 Stunden (Dunkle und ruhige Nachtruhe)",
+          "temperament": "Gesellig, neugierig, melodisch, sensibel"
+        },
+        "intro": "Der Nymphensittich mit seinen roten Bäckchen und der eleganten Haube gehört zu den beliebtesten Heimvögeln. Trotz ihrer Verschmustheit neigen sie wegen ihres Fluchtinstinkts zu nächtlicher Panik ('Night Frights'). Gemäß AAV-Standards lernen Sie hier ihre Sprache kennen. Die Bereitstellung einer konsistenten täglichen Gesundheitspflege und einer sicheren Umgebung sichert das Wohlbefinden Ihres Haustieres.",
+        "whyTitle": "Kommunikation des Nymphensittichs: Die Sprache der Haube",
+        "whyDesc": "Die Haube verrät die Stimmung des Vogels. Steht sie steil aufgerichtet, ist er wachsam; neigt er den Kopf, fordert er Krauleinheiten ein.",
+        "body_signals": [
+          {
+            "name": "Steil Aufgerichtete Haube (Fully Erect Crest)",
+            "meaning": "Hohe Aufmerksamkeit, Neugier oder Skepsis gegenüber neuen Reizen im Raum.",
+            "response": "Ruhig sprechen und keine hastigen Bewegungen machen, bis sich der Vogel beruhigt hat."
+          },
+          {
+            "name": "Gesenkter Kopf und Vorgebeugter Nacken (Head Lowering for Scratches)",
+            "meaning": "Großes Vertrauen und die Bitte um Kraulen an den Wangen und am Hinterkopf.",
+            "response": "Sanft entgegen der Federrichtung an den Wangenfedern kraulen."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Lüften, Gefiedercheck und Frisches Pelletergänzungsfutter",
+            "text": "Käfig abdecken, frisches Wasser und Pellets anbieten sowie das Flugverhalten beobachten."
+          },
+          {
+            "name": "Nachmittag: Gesicherter Freiflug und Beschäftigungsspielzeug",
+            "text": "1 - 2 Stunden Freiflug im gesicherten Raum ermöglichen und Futtersuch-Spielzeug bereitstellen."
+          },
+          {
+            "name": "Abend: Gefiederstaub entfernen und Nachtlicht aktivieren",
+            "text": "Staub wischen und ein schwaches Nachtlicht brennen lassen, um Panikattacken zu verhindern."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Was tun bei nächtlichen Panikattacken (Night Frights)?",
+            "answer": "Schalten Sie sofort das Licht ein und beruhigen Sie den Vogel mit sanfter Stimme. Ein kleines Nachtlicht verhindert zukünftige Schreckeinheiten."
+          },
+          {
+            "question": "Ist der weiße Gefiederstaub beim Nymphensittich normal?",
+            "answer": "Ja, Nymphensittiche produzieren Puderdunen zur Gefiederpflege. Ein Luftreiniger und Duschen mit der Sprühflasche 2 - 3 Mal pro Woche helfen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Comunicação da Crista da Calopsita e Rotina em 3 Passos Contra Sustos Noturnos",
+        "description": "Guia completo de cuidados para Calopsita. Entenda a linguagem da crista, previna o pânico noturno e siga uma rotina recomendada pela AAV.",
+        "authority": "Associação de Veterinários de Aves (AAV) & Padrões Comportamentais",
+        "profile": {
+          "breed": "Calopsita (Nymphicus hollandicus / Cockatiel)",
+          "lifespan": "15 - 20 anos",
+          "sleep_pattern": "10 - 12 horas (Sono escuro e tranquilo obrigatório)",
+          "temperament": "Muito sociável, curiosa, melódica, sensível"
+        },
+        "intro": "Famosa pelas bochechas laranjas e crista graciosa, a Calopsita é uma ave inteligente e afetuosa. Contudo, seu instinto de presa a torna propensa ao 'pânico noturno' (Night Frights). Com base nos padrões da AAV, aprenda a decodificar seus sinais. Oferecer cuidados de saúde diários constantes e um ambiente seguro garante o bem-estar a longo prazo do seu animal.",
+        "whyTitle": "Comunicação da Calopsita: O Que a Crista e a Cabeça Abaixada Revelam",
+        "whyDesc": "A crista é uma antena emocional. Erguida verticalmente sinaliza alerta; a cabeça abaixada é um pedido explícito de carinho na nuca.",
+        "body_signals": [
+          {
+            "name": "Crista Totalmente Erguida (Fully Erect Crest)",
+            "meaning": "Alerta máximo ou curiosidade intensa diante de um novo som ou objeto no ambiente.",
+            "response": "Fale com voz calma e evite aproximações bruscas com as mãos."
+          },
+          {
+            "name": "Cabeça Abaixada e Pescoço Estendido (Head Lowering for Scratches)",
+            "meaning": "Demonstração de profunda confiança pedindo carinho nas bochechas e nuca.",
+            "response": "Coce suavemente as penas da bochecha e base da crista no sentido oposto às penas."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Ventilação, Inspeção e Ração Extrusada Fresca",
+            "text": "Descubra a gaiola, troque a água e a ração extrusada e observe a agilidade de voo."
+          },
+          {
+            "name": "Tarde: Voo Livre Seguro e Brinquedos de Forrageamento",
+            "text": "Ofereça 1 - 2 horas de voo em ambiente seguro com brinquedos de busca de alimento."
+          },
+          {
+            "name": "Noite: Limpeza de Pó e Luz Noturna Anti-Susto",
+            "text": "Limpe o pó de penas e mantenha uma luz noturna fraca acesa perto da gaiola."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Como agir durante um episódio de pânico noturno (Night Fright)?",
+            "answer": "Acenda a luz imediatamente, acalme a ave com voz suave e verifique se há penas sangrando. Deixe sempre uma luz fraca acesa durante a noite."
+          },
+          {
+            "question": "É normal a Calopsita soltar um pó branco pelas penas?",
+            "answer": "Sim, elas produzem penas de pó (Powder Down) naturalmente. Use um purificador de ar HEPA e ofereça banhos de borrifador 2 - 3 vezes por semana."
+          }
+        ]
+      },
+      "id": {
+        "title": "Bahasa Jambul Cockatiel dan Rutinitas 3 Langkah Mencegah Night Fright",
+        "description": "Panduan lengkap merawat burung Cockatiel (Parkit Australia). Pahami bahasa tubuh jambul, cegah panik malam (Night Fright), dan terapkan rutinitas AAV.",
+        "authority": "Association of Avian Veterinarians (AAV) & Standar Perilaku Burung",
+        "profile": {
+          "breed": "Cockatiel / Parkit Australia (Nymphicus hollandicus)",
+          "lifespan": "15 - 20 Tahun",
+          "sleep_pattern": "10 - 12 Jam (Butuh Gelap & Tenang)",
+          "temperament": "Sangat Sosial, Ingin Tahu, Melodis, Sensitif"
+        },
+        "intro": "Cockatiel terkenal dengan pipi oranye ikonik dan jambul indahnya. Burung sosial ini sangat menyukai siulan dan memiliki ikatan erat dengan pemiliknya, namun rentan mengalami panik malam (Night Fright) akibat bayangan atau suara mendadak. Berdasarkan panduan Association of Avian Veterinarians (AAV), berikut adalah panduan memahami bahasa tubuh dan rutinitas kesehatannya.",
+        "whyTitle": "Komunikasi Cockatiel: Arti Gerakan Jambul dan Menundukkan Kepala",
+        "whyDesc": "Jambul di kepala adalah antena emosi. Jambul tegak lurus menunjukkan kewaspadaan atau rasa ingin tahu tinggi, sementara menundukkan kepala adalah ekspresi kepercayaan mendalam.",
+        "body_signals": [
+          {
+            "name": "Jambul Tegak Lurus & Postur Vertikal (Fully Erect Crest)",
+            "meaning": "Rasa ingin tahu tinggi atau kewaspadaan terhadap suara maupun benda baru di ruangan.",
+            "response": "Bicara dengan nada lembut dan hindari gerakan mendadak agar burung merasa aman."
+          },
+          {
+            "name": "Menundukkan Kepala & Menjulurkan Leher (Head Lowering for Scratches)",
+            "meaning": "Tanda kepercayaan mendalam dan meminta elusan di area pipi serta pangkal jambul.",
+            "response": "Usap lembut bulu di sekitar pipi oranye dan pangkal jambul berlawanan arah bulu."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Ventilasi Udara, Inspeksi Bulu & Pelet Segar",
+            "text": "Buka penutup kandang, ganti air bersih dan pelet nutrisi, lalu amati kelincahan terbangnya."
+          },
+          {
+            "name": "Siang: Terbang Bebas Aman & Mainan Foraging",
+            "text": "Beri waktu 1 - 2 jam terbang bebas di ruangan aman dengan mainan pencari makan (foraging toys)."
+          },
+          {
+            "name": "Malam: Pembersihan Debu Bulu & Lampu Tidur Anti-Panik",
+            "text": "Bersihkan debu bulu, nyalakan lampu tidur redup dekat kandang, dan pasang penutup penahan cahaya."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Bagaimana cara menangani panik malam (Night Fright) saat tengah malam?",
+            "answer": "Nyalakan lampu ruangan segera, bicara lembut untuk menenangkan, dan periksa apakah ada bulu sayap yang patah. Pasang lampu malam redup di dekat kandang secara permanen."
+          },
+          {
+            "question": "Apakah debu putih (powder dander) pada Cockatiel itu normal?",
+            "answer": "Sangat normal. Cockatiel secara alami menghasilkan debu bedak untuk merawat bulunya. Gunakan pemurni udara HEPA dan beri mandi semprot halus 2 - 3 kali seminggu."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/cockatiel_care.webp"
+  }
 }

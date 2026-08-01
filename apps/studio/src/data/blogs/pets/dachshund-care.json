@@ -1,459 +1,459 @@
 {
-    "dachshund-care": {
-        "pubDate": "2026-06-20",
-        "updatedDate": "2026-06-20",
-        "locales": {
-            "ko": {
-                "title": "닥스훈트 허리 보호 가이드와 코어 근육 강화 3단계 루틴",
-                "description": "허리가 길고 다리가 짧은 닥스훈트 케어법. 척추 이상 신호를 감지하고 3단계 일상 루틴으로 관절과 디스크를 보호하는 법을 알아봅니다.",
-                "authority": "미국 캔넬 클럽(AKC) 닥스훈트 건강 가이드 및 수의학 척추 연합 권고사항",
-                "profile": {
-                    "breed": "닥스훈트 (Canis lupus familiaris)",
-                    "lifespan": "12 ~ 16년",
-                    "sleep_pattern": "12 ~ 14시간 (주간 활동성)",
-                    "temperament": "장난스러움, 영리함, 헌신적임, 활발함, 용맹함"
-                },
-                "intro": "긴 허리와 짧은 다리의 독특한 체형을 가진 닥스훈트는 전 세계적으로 큰 사랑을 받는 견종입니다. 그러나 이 개성 있는 신체 구조 때문에 닥스훈트는 허리 디스크(척추 추간판 탈출증 - IVDD)에 극도로 취약합니다. 소파에서 뛰어내리거나 계단을 오르내리는 평범한 행동조차 척추에 치명적인 무리를 줄 수 있습니다. 이번 가이드에서는 닥스훈트가 보내는 척추 이상 신호를 분석하고, 허리 건강을 지키며 코어 근육을 강화하는 3단계 홈케어 루틴을 공유합니다.",
-                "whyTitle": "닥스훈트 척추 경고 신호: 서 있기와 몸 늘이기",
-                "whyDesc": "닥스훈트는 척추에 무리가 가거나 통증이 있을 때 미묘한 몸짓으로 표현합니다. 흔히 귀엽다고 생각하는 두 발로 서는 **'구걸 자세'**는 요추에 엄청난 하중을 싣는 위험한 신호입니다. 또한 등을 둥글게 굽히거나 목을 길게 늘이는 자세는 디스크 초기 신경 압박에 따른 통증의 징후일 수 있으므로 빠른 대처가 필요합니다.",
-                "body_signals": [
-                    {
-                        "name": "두 발로 서기 (구걸 자세)",
-                        "meaning": "허리 척추에 강한 압박을 가하는 자세로, 주로 간식 요구나 보호자 주의를 끌기 위해 행합니다.",
-                        "response": "해당 자세를 취하지 못하도록 즉시 부드럽게 제지하고, 가구 옆에 전용 경사로를 설치해 점프를 방지합니다."
-                    },
-                    {
-                        "name": "등을 굽히고 목 늘이기",
-                        "meaning": "척추 통증이나 디스크 초기 신경 압박으로 인해 몸을 웅크리고 통증을 참는 자세입니다.",
-                        "response": "움직임을 즉시 제한하고, 안아 올릴 때 가슴과 엉덩이를 동시에 받쳐 척추 수평을 유지한 후 병원을 찾습니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 아침 관절 상태 점검 및 가벼운 마사지",
-                        "text": "본격적인 활동 전 걸음걸이의 뻣뻣함을 확인하고, 척추 라인을 따라 가볍게 마사지하여 통증 반응을 확인합니다."
-                    },
-                    {
-                        "name": "낮: 척추 안전 생활 환경 점검 및 수평 유지",
-                        "text": "침대나 소파 옆의 반려견용 경사로 각도와 미끄럼 방지 상태를 점검하고, 계단 진입로에 안전문을 설치해 계단 이용을 차단합니다."
-                    },
-                    {
-                        "name": "저녁: 코어 근육 강화를 위한 평지 산책 및 체중 관리",
-                        "text": "허리를 받쳐줄 복근 강화를 위해 경사지 대신 평평한 잔디밭을 천천히 산책하고, 디스크 예방을 위해 식사량을 정밀하게 조절하여 비만을 예방합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "닥스훈트가 계단을 오르내려도 되나요?",
-                        "answer": "짧은 다리와 긴 허리 구조상 계단 이동은 척추에 반복적이고 강한 충격을 줍니다. 안전문으로 계단 출입을 막고 이동 시에는 직접 안아 올려주는 것이 좋습니다."
-                    },
-                    {
-                        "question": "닥스훈트를 안아 올리는 올바른 방법은 무엇인가요?",
-                        "answer": "한 손으로 가슴과 앞다리 사이를 받치고, 다른 한 손으로 엉덩이와 뒷다리를 감싸 척추가 항상 수평을 유지하도록 안정적으로 들어 올려야 합니다. 앞다리만 잡고 들어 올리는 것은 금물입니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Dachshund Back Protection Guide and 3-Step Core-Strengthening Daily Routine",
-                "description": "Caring for the long-backed, short-legged Dachshund. Learn to recognize signs of spinal discomfort and protect their joints with a 3-step daily routine.",
-                "authority": "American Kennel Club Dachshund Health Guide and Veterinary Spinal Association Guidelines",
-                "profile": {
-                    "breed": "Dachshund (Canis lupus familiaris)",
-                    "lifespan": "12 - 16 Years",
-                    "sleep_pattern": "12 - 14 Hours (Diurnal - Active During Day)",
-                    "temperament": "Playful, Clever, Devoted, Lively, Courageous"
-                },
-                "intro": "Dachshunds are beloved worldwide for their charming silhouette and bold, friendly personality. However, their unique anatomy—a long torso paired with short limbs—makes them highly vulnerable to Intervertebral Disc Disease (IVDD). Even standard activities like jumping off sofas or climbing stairs can put dangerous strain on their spine. In this guide, decodes Dachshund body language signaling back stress and outlines a 3-step homecare routine designed to protect their back and strengthen their core muscles.",
-                "whyTitle": "Dachshund Spinal Warning Signs: Begging Posture and Body Stretches",
-                "whyDesc": "Due to their long spine, Dachshunds will often signal physical stress or pain in subtle ways. While standing on their hind legs (the **'begging posture'**) is commonly seen as cute, it places critical weight on their lower lumbar spine. Conversely, tense neck stretching or a hunched back can indicate early-stage spinal nerve compression that requires immediate attention.",
-                "body_signals": [
-                    {
-                        "name": "Hind Leg Stand (Begging Posture)",
-                        "meaning": "A stance that places excessive pressure on the lumbar spine, often done to request food or attention.",
-                        "response": "Gently discourage this stance immediately, use ramps for furniture access, and keep food or toys at chest level."
-                    },
-                    {
-                        "name": "Hunched Back & Neck Stretching",
-                        "meaning": "A guarding posture indicating back pain, stiffness, or early onset of spinal nerve compression.",
-                        "response": "Restrict their movement immediately, support both chest and quarters to keep the spine level when handling, and consult a vet."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Back & Joint Mobility Inspection",
-                        "text": "Before active play, check their gait for any stiffness. Perform a gentle massage along their spinal line to assess comfort and check for pain reactions."
-                    },
-                    {
-                        "name": "Afternoon: Spine-Safe Living Space Verification",
-                        "text": "Ensure pet ramps are correctly positioned with non-slip surfaces next to beds and sofas. Block stair access with safety gates to eliminate stair usage."
-                    },
-                    {
-                        "name": "Evening: Core Abdominal Strengthening & Weight Control",
-                        "text": "Perform low-impact walking on flat grass to build supportive core abdominal muscles, and measure their food intake strictly to prevent obesity and disc strain."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Can Dachshunds climb stairs?",
-                        "answer": "Climbing stairs puts repetitive, intense impact on a Dachshund's elongated spine due to their short legs. It is highly recommended to block stairs with gates and carry your Dachshund up and down when necessary."
-                    },
-                    {
-                        "question": "What is the safest way to pick up a Dachshund?",
-                        "answer": "Always support their entire body horizontally. Place one hand under their chest between the front legs and the other hand supporting their rump and hind legs. Never lift them solely by their front legs or underarms."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ダックスフントの腰痛警告と体幹強化の3ステップ日常ルーティン",
-                "description": "胴長短足のダックスフントのケア。背骨への負担を示す警告サインを察知し、関節と椎間板を保護するための3ステップ日常ルーティンを解説します。",
-                "authority": "アメリカンケネルクラブ（AKC）ダックスフント健康ガイドおよび獣医脊椎協会ガイドライン",
-                "profile": {
-                    "breed": "ダックスフント (Canis lupus familiaris)",
-                    "lifespan": "12 〜 16年",
-                    "sleep_pattern": "12 〜 14時間 (昼行性 - 日中に活動)",
-                    "temperament": "遊び好き、賢い、献身的、活発、勇敢"
-                },
-                "intro": "長い胴体と短い四肢というユニークな体型を持つダックスフントは、世界中で大人気の犬種です。しかし、この特徴的な身体構造ゆえに、椎間板ヘルニア（IVDD）に対して非常に脆弱です。ソファーからの飛び降ろしや階段の上り下りといった日常の動作でさえ、脊椎に致命的な負担をかけることがあります。本記事では、ダックスフントが送る脊椎のSOSサインを分析し、背骨を守り体幹筋肉を強化する3ステップのホームケアルーティンをご紹介します。",
-                "whyTitle": "ダックスフントの脊椎警告信号：二本足立ちと姿勢の変化",
-                "whyDesc": "ダックスフントは背骨に負担がかかったり痛みを感じたりすると、微細なサインでそれを表現します。可愛いと思われがちな二本足立ちの**「おねだりポーズ」**は、腰椎に極度な負荷をかける危険な姿勢です。また、背中を丸めたり首を不自然に伸ばす行動は、ヘルニア初期の神経圧迫による痛みを示している可能性があります。",
-                "body_signals": [
-                    {
-                        "name": "二本足立ち（おねだりポーズ）",
-                        "meaning": "腰椎に強力な圧力がかかる姿勢で、主にオヤツの要求や飼い主の注意を引く際に行われます。",
-                        "response": "この姿勢をとらないようすぐに優しく制止し、家具の横には専用のスロープを設置してジャンプを防ぎます。"
-                    },
-                    {
-                        "name": "背中を丸める・首を伸ばす",
-                        "meaning": "脊椎の痛みやヘルニア初期の神経圧迫により、体をこわばらせて痛みを耐えている保護姿勢です。",
-                        "response": "すぐに活動を制限し、抱き上げる際は胸と臀部を同時に支えて背骨を水平に保ち、速やかに獣医師の診察を受けます。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：脊椎と関節の動きのチェックおよびマッサージ",
-                        "text": "本格的な活動を始める前に歩き方に硬さがないか確認し、背骨のラインに沿って優しくマッサージして痛みに対する反応を確かめます。"
-                    },
-                    {
-                        "name": "昼：脊椎に安全な生活環境の維持と水平保持",
-                        "text": "ベッドやソファーの横に置いたペット用スロープの角度と滑り止め状態を点検し、階段の入口には安全ゲートを設置して階段の利用を遮断します。"
-                    },
-                    {
-                        "name": "夜：体幹（腹筋）強化のための平地散歩と厳密な体重管理",
-                        "text": "腰を支える腹筋を鍛えるため、傾斜のない平らな芝生の上をゆっくり散歩させ、ヘルニア予防のために食事量を厳密に調節して肥満を防ぎます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "ダックスフントは階段を上り下りしても大丈夫ですか？",
-                        "answer": "短い脚と長い背骨の構造上、階段移動は脊椎に繰り返しの強い衝撃を与えます。安全ゲートで出入りを防ぎ、移動時には飼い主が直接抱き上げてあげるのが推奨されます。"
-                    },
-                    {
-                        "question": "ダックスフントの正しい抱き方は？",
-                        "answer": "片手で胸と前足の間を支え、もう片方の手で臀部と後肢をしっかり包み込み、背骨が常に水平を維持するように安定して持ち上げます。前足だけを持って持ち上げるのは厳禁です。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "腊肠犬护脊指南与强化核心肌肉3阶段日常护理流程",
-                "description": "针对身长腿短的腊肠犬护理法。学习识别脊椎不适信号，并通过3阶段日常护理流程保护其关节与椎间盘。",
-                "authority": "美国养犬俱乐部 (AKC) 腊肠犬健康指南与兽医脊椎协会指导原则",
-                "profile": {
-                    "breed": "腊肠犬 (Canis lupus familiaris)",
-                    "lifespan": "12 ~ 16年",
-                    "sleep_pattern": "12 ~ 14小时 (日间活动性)",
-                    "temperament": "顽皮、聪明、忠诚、活泼、勇敢"
-                },
-                "intro": "腊肠犬因其独特的长身短腿体型而在全球备受欢迎。然而，这种特殊的身体结构使它们极易患上椎间盘突出症（IVDD）。对于腊肠犬来说，即使是从沙发上跳下或爬楼梯这种日常行为，也会给脊椎带来致命的负担。本指南将为您分析腊肠犬表现出的脊椎受损警告信号，并分享保护腰部健康并强化核心肌肉的3阶段每日护理流程。",
-                "whyTitle": "腊肠犬的脊椎警告信号：站立与异常伸展",
-                "whyDesc": "当腊肠犬脊椎负担过重或感到疼痛时，会通过细微的动作来表达。两足站立的**“拜拜姿势”** 虽然可爱，但会将极极大的重量负荷压在腰椎上，是非常危险的信号。此外，拱背或脖子僵硬伸直也是椎间盘突出早期的疼痛征兆，需要尽快采取措施。",
-                "body_signals": [
-                    {
-                        "name": "双足站立 (拜拜姿势)",
-                        "meaning": "会对腰椎施加强烈压迫的姿势，通常是为了索要食物或引起主人的注意。",
-                        "response": "应立即温柔制止该动作，并在家具旁安装专用的宠物斜坡，防止其剧烈跳跃。"
-                    },
-                    {
-                        "name": "拱背与颈部伸展",
-                        "meaning": "因脊椎疼痛或早期椎间盘神经受压导致身体僵硬、忍受痛苦的防护姿势。",
-                        "response": "必须立即限制其活动，抱起时应同时托住胸部与臀部以保持脊椎水平，并及时就医。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：检查晨间关节状态与轻柔按摩",
-                        "text": "开始活动前观察步态是否僵硬，沿着脊椎线轻轻按摩，检测是否有疼痛反应。"
-                    },
-                    {
-                        "name": "中午：维护安全的无障碍生活环境与保持水平",
-                        "text": "检查床和沙发旁的宠物斜坡角度及防滑状态。在楼梯口安装安全门，封锁楼梯通道。"
-                    },
-                    {
-                        "name": "晚上：平地散步强化核心肌肉与严格控制体重",
-                        "text": "为锻炼支撑腰部的腹部核心肌肉，选择平坦的草地慢步散步。精确调节给食量以预防肥胖和椎间盘压力。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "腊肠犬可以爬楼梯吗？",
-                        "answer": "由于其短腿长背的结构，爬楼梯会给脊椎带来反复且剧烈的冲击。强烈建议用安全门封锁楼梯，移动时由主人直接抱行。"
-                    },
-                    {
-                        "question": "抱腊肠犬的正确姿势是什么？",
-                        "answer": "一手托住胸口和前肢之间，另一手托住臀部和后肢，抬起时确保脊椎始终保持水平状态。千万不要只拉扯前腿或抓着腋下抱起。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Guía de protección de espalda del Teckel y rutina diaria de 3 pasos para fortalecer el núcleo",
-                "description": "Cuidado del perro de cuerpo largo y patas cortas, el Teckel (Dachshund). Aprenda a reconocer señales de dolor de espalda y proteja sus articulaciones con una rutina de 3 pasos.",
-                "authority": "Guía de Salud del Dachshund del American Kennel Club y Directrices de la Asociación Veterinaria de la Columna",
-                "profile": {
-                    "breed": "Teckel / Dachshund (Canis lupus familiaris)",
-                    "lifespan": "12 ~ 16 años",
-                    "sleep_pattern": "12 ~ 14 horas (diurno: activo durante el día)",
-                    "temperament": "Juguetón, inteligente, devoto, vivaz, valiente"
-                },
-                "intro": "Los perros salchicha (Teckel) son adorados en todo el mundo por su silueta encantadora y su personalidad valiente y amigable. Sin embargo, su anatomía particular con torso alargado y extremidades cortas los hace extremadamente vulnerables a la enfermedad de disco intervertebral (IVDD). Actividades cotidianas como saltar del sofá o subir escaleras pueden causar un estrés peligroso en su columna. En esta guía, analiza el lenguaje corporal que indica estrés en la espalda del Teckel y presenta una rutina diaria de 3 pasos para proteger su columna y fortalecer su musculatura central.",
-                "whyTitle": "Señales de advertencia en la columna del Teckel: Postura de ruego y estiramientos",
-                "whyDesc": "Los Teckels muestran el estrés espinal mediante sutiles cambios en su postura. Ponerse de pie sobre sus patas traseras (la **'posición de ruego'**) ejerce una presión extrema sobre su columna lumbar. De la misma manera, encorvar la espalda o estirar rígidamente el cuello son signos de compresión nerviosa temprana que requieren atención inmediata.",
-                "body_signals": [
-                    {
-                        "name": "Ponerse de pie (Posición de ruego)",
-                        "meaning": "Una postura que concentra una presión excesiva en la columna lumbar, hecha a menudo para pedir comida o atención.",
-                        "response": "Evite esta postura de inmediato con suavidad, use rampas para los muebles y mantenga sus juguetes o comida a la altura del pecho."
-                    },
-                    {
-                        "name": "Espalda encorvada y cuello estirado",
-                        "meaning": "Postura de protección provocada por dolor de espalda, rigidez o compresión nerviosa espinal temprana.",
-                        "response": "Restrinja su actividad física de inmediato, sostenga el pecho y los cuartos traseros para mantener la columna horizontal y acuda al veterinario."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Inspección de movilidad espinal y masaje suave",
-                        "text": "Antes de comenzar la actividad, verifique si camina con rigidez. Realice un masaje suave a lo largo de la línea de su columna para evaluar si hay reacciones de dolor."
-                    },
-                    {
-                        "name": "Tarde: Verificación de un entorno seguro para la columna y mantenimiento horizontal",
-                        "text": "Asegúrese de que las rampas antideslizantes estén bien colocadas junto al sofá o la cama y bloquee el acceso a las escaleras con barreras de seguridad."
-                    },
-                    {
-                        "name": "Noche: Fortalecimiento del núcleo abdominal y control estricto del peso",
-                        "text": "Pasee al perro lentamente sobre césped plano para desarrollar los músculos abdominales que sostienen la espalda. Controle estrictamente su ración de comida para prevenir la obesidad."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Pueden los Teckels subir y bajar escaleras?",
-                        "answer": "Debido a sus patas cortas y espalda larga, subir escaleras aplica un impacto severo y repetitivo sobre su columna. Es muy aconsejable bloquear el acceso a las escaleras y llevarlos en brazos."
-                    },
-                    {
-                        "question": "¿Cuál es la forma más segura de cargar a un Teckel?",
-                        "answer": "Debe sostener todo su cuerpo de forma horizontal. Coloque una mano debajo de su pecho entre las patas delanteras y la otra mano debajo de sus cuartos traseros. Nunca lo levante solo de las patas delanteras o las axilas."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Guide de protection du dos du Teckel et routine quotidienne de 3 étapes pour renforcer la ceinture abdominale",
-                "description": "Prendre soin du Teckel au corps long et pattes courtes. Apprenez à reconnaître les signes de douleur dorsale et protégez sa colonne vertébrale grâce à une routine en 3 étapes.",
-                "authority": "Guide de Santé du Teckel de l'American Kennel Club et Directives de l'Association Vétérinaire de la Colonne",
-                "profile": {
-                    "breed": "Teckel / Dachshund (Canis lupus familiaris)",
-                    "lifespan": "12 ~ 16 ans",
-                    "sleep_pattern": "12 ~ 14 heures (diurne : actif pendant la journée)",
-                    "temperament": "Joueur, intelligent, dévoué, vif, courageux"
-                },
-                "intro": "Les Teckels sont célèbres dans le monde entier pour leur silhouette unique et leur tempérament audacieux et amical. Cependant, leur morphologie allongée aux pattes courtes les prédispose fortement à la hernie discale (IVDD). Sauter du canapé ou monter les escaliers peut causer de graves traumatismes au niveau de leur colonne vertébrale. Dans ce guide, décrypte le langage corporel lié au mal de dos du Teckel et propose une routine en 3 étapes pour sécuriser leur colonne et renforcer les muscles du tronc.",
-                "whyTitle": "Signaux d'alerte dorsale chez le Teckel : Faire le beau et étirements",
-                "whyDesc": "Les Teckels manifestent leur inconfort au niveau du dos par des postures spécifiques. Se tenir sur les pattes arrière (la **« position du beau »**) applique une pression excessive sur les vertèbres lombaires. De même, un dos arqué ou un cou étiré de manière rigide sont des indices de compression nerveuse précoce à surveiller de près.",
-                "body_signals": [
-                    {
-                        "name": "Se tenir sur les pattes arrière (Faire le beau)",
-                        "meaning": "Une posture qui exerce une pression excessive sur les lombaires, généralement pour réclamer de la nourriture ou de l'attention.",
-                        "response": "Découragez immédiatement cette position avec douceur, installez des rampes d'accès et présentez les jouets à hauteur de poitrine."
-                    },
-                    {
-                        "name": "Dos arqué et cou tendu",
-                        "meaning": "Une posture de protection traduisant une douleur dorsale, une raideur ou un début de compression nerveuse.",
-                        "response": "Limitez immédiatement ses mouvements, soutenez la poitrine et le train arrière pour maintenir la colonne horizontale et consultez un vétérinaire."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Examen de la mobilité du dos et massage doux",
-                        "text": "Avant l'effort, observez s'il marche de façon rigide. Palpez doucement le long de sa colonne vertébrale pour détecter d'éventuelles réactions de douleur."
-                    },
-                    {
-                        "name": "Après-midi : Examen de l'environnement de vie et maintien de l'horizontalité",
-                        "text": "Vérifiez la stabilité et l'antidérapant des rampes près du canapé et du lit. Bloquez l'accès aux escaliers à l'aide d'une barrière de sécurité."
-                    },
-                    {
-                        "name": "Soir : Renforcement musculaire abdominal et contrôle du poids",
-                        "text": "Marchez lentement sur un sol plat et herbeux pour muscler les abdominaux qui soutiennent le dos. Pesez ses croquettes avec précision pour éviter l'obésité."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Les Teckels peuvent-ils monter les escaliers ?",
-                        "answer": "En raison de leurs pattes courtes et de leur long dos, la montée et la descente d'escaliers génèrent des chocs répétés et violents pour leur colonne. Il est fortement recommandé d'interdire les escaliers et de les porter."
-                    },
-                    {
-                        "question": "Comment porter un Teckel en toute sécurité ?",
-                        "answer": "Soutenez toujours l'ensemble de son corps à l'horizontale. Placez une main sous sa poitrine entre les pattes avant et l'autre main sous son arrière-train. Ne le soulevez jamais uniquement par les pattes avant ou sous les aisselles."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Dackel Rückenschutz-Leitfaden und 3-Schritt-Tagesroutine zur Stärkung der Rumpfmuskulatur",
-                "description": "Pflege für den Dackel mit langem Rücken und kurzen Beinen. Lernen Sie, Anzeichen von Rückenproblemen zu erkennen und die Wirbelsäule mit einer 3-Schritt-Routine zu schützen.",
-                "authority": "Dachshund-Gesundheitsratgeber des American Kennel Club und Richtlinien der Veterinär-Wirbelsäulen-Vereinigung",
-                "profile": {
-                    "breed": "Dackel / Dachshund (Canis lupus familiaris)",
-                    "lifespan": "12 ~ 16 Jahre",
-                    "sleep_pattern": "12 ~ 14 Stunden (tagaktiv)",
-                    "temperament": "Verspielt, klug, treu, lebhaft, mutig"
-                },
-                "intro": "Dackel (Dachshunds) sind weltweit bekannt für ihre charmante Silhouette und ihren mutigen, freundlichen Charakter. Ihre einzigartige Anatomie – ein langer Körper gepaart mit kurzen Beinen – macht sie jedoch extrem anfällig für Dackellähme und Bandscheibenvorfälle (IVDD). Selbst alltägliche Dinge wie das Springen vom Sofa oder das Treppensteigen können die Wirbelsäule gefährlich belasten. Heute analysiert  die Körpersprache des Dackels bei Rückenstress und stellt eine 3-Schritt-Routine vor, um den Rücken zu schonen und die Rumpfmuskulatur zu stärken.",
-                "whyTitle": "Dackel Wirbelsäulen-Warnsignale: Männchen machen und Körperstreckung",
-                "whyDesc": "Aufgrund ihres langen Rückens zeigen Dackel Wirbelsäulenstress oder Schmerzen durch subtile Signale. Das Stehen auf den Hinterbeinen (das **'Männchen machen'**) mag niedlich aussehen, belastet aber die Lendenwirbelsäule extrem. Ein gekrümmter Rücken oder ein steif gestreckter Nacken sind Anzeichen für Nervenkompressionen, die sofortige Hilfe erfordern.",
-                "body_signals": [
-                    {
-                        "name": "Stehen auf den Hinterbeinen (Männchen machen)",
-                        "meaning": "Diese Haltung übt extremen Druck auf die Lendenwirbelsäule aus und wird oft ausgeführt, um Futter oder Aufmerksamkeit zu erlangen.",
-                        "response": "Unterbinden Sie dieses Verhalten sofort sanft, stellen Sie Rampen bereit und halten Sie Futter und Spielzeug auf Brusthöhe."
-                    },
-                    {
-                        "name": "Gekrümmter Rücken & gestreckter Nacken",
-                        "meaning": "Eine Schonhaltung, die auf Rückenschmerzen, Steifheit oder eine beginnende Nervenkompression in der Wirbelsäule hinweist.",
-                        "response": "Schränken Sie die Bewegung sofort ein, stützen Sie Brust und Hinterteil beim Tragen waagerecht ab und suchen Sie unverzüglich einen Tierarzt auf."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Prüfen der Gelenkbeweglichkeit und Rückenmassage",
-                        "text": "Überprüfen Sie den Gang vor dem Spielen auf Steifheit. Tasten Sie die Wirbelsäule vorsichtig ab, um Schmerzreaktionen zu testen."
-                    },
-                    {
-                        "name": "Nachmittag: Sicherung der Wohnumgebung und Waagerechthaltung",
-                        "text": "Stellen Sie sicher, dass Hunderampen an Betten und Sofas stabil und rutschfest stehen. Blockieren Sie den Zugang zu Treppen mit Schutzgittern."
-                    },
-                    {
-                        "name": "Abend: Stärkung der Rumpfmuskulatur & Gewichtskontrolle",
-                        "text": "Gehen Sie langsam auf flachem Rasen spazieren, um die unterstützenden Bauchmuskeln aufzubauen. Futterrationen streng abmessen, um Übergewicht und Bandscheibenbelastung zu vermeiden."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Dürfen Dackel Treppen steigen?",
-                        "answer": "Aufgrund der kurzen Beine und des langen Rückens übt das Steigen von Treppen wiederholt harte Stöße auf die Wirbelsäule aus. Es wird dringend empfohlen, Treppen mit Gittern abzudichten und den Dackel zu tragen."
-                    },
-                    {
-                        "question": "Wie hebt man einen Dackel am besten hoch?",
-                        "answer": "Stützen Sie immer den gesamten Körper waagerecht. Legen Sie eine Hand unter die Brust zwischen den Vorderbeinen und die andere Hand unter das Hinterteil. Heben Sie den Hund niemals nur an den Vorderbeinen oder Achseln hoch."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Guia de proteção de costas do Teckel e rotina diária de 3 passos para fortalecer a musculatura core",
-                "description": "Cuidado do cão de corpo longo e patas curtas, o Teckel (Dachshund). Aprenda a reconhecer sinais de dor nas costas e proteja a coluna com uma rotina de 3 passos.",
-                "authority": "Diretrizes de Saúde do Dachshund do American Kennel Club e Padrões da Associação Veterinária da Coluna",
-                "profile": {
-                    "breed": "Teckel / Dachshund (Canis lupus familiaris)",
-                    "lifespan": "12 ~ 16 anos",
-                    "sleep_pattern": "12 ~ 14 horas (diurno: ativo durante o dia)",
-                    "temperament": "Brincalhão, inteligente, devoto, vivaz, corajoso"
-                },
-                "intro": "Os salsichas (Teckel) são amados no mundo inteiro pela sua silhueta única e temperamento corajoso e amigável. No entanto, o seu corpo longo e patas curtas tornam-nos extremamente propensos à doença do disco intervertebral (IVDD). Saltar de sofás ou usar escadas pode sobrecarregar severamente a sua coluna. Neste guia, decodifica os sinais de dor nas costas do Teckel e ensina uma rotina diária de 3 passos para proteger a coluna e fortalecer o core do seu cão.",
-                "whyTitle": "Sinais de alerta na coluna do Teckel: Postura de pedir e estiramentos",
-                "whyDesc": "Devido à sua coluna longa, os Teckels demonstram desconforto espinhal através de sinais discretos. Ficar de pé nas patas traseiras (a **'posição de pedir'**) coloca um peso excessivo na coluna lombar. Da mesma forma, arquear as costas ou esticar o pescoço de forma rígida são sinais de compressão nervosa inicial que requerem atenção médica imediata.",
-                "body_signals": [
-                    {
-                        "name": "Ficar nas patas traseiras (Posição de pedir)",
-                        "meaning": "Postura que concentra uma pressão excessiva sobre a coluna lombar, normalmente feita para pedir comida ou atenção.",
-                        "response": "Desencoraje esta postura imediatamente com calma, utilize rampas de acesso aos sofás e mantenha brinquedos ao nível do peito."
-                    },
-                    {
-                        "name": "Costas arqueadas e pescoço estendido",
-                        "meaning": "Uma postura de proteção que indica dor nas costas, rigidez ou compressão nervosa espinhal em fase inicial.",
-                        "response": "Restrinja a atividade física imediatamente, apoie o peito e a traseira mantendo a coluna na horizontal e consulte um veterinário."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Inspeção de mobilidade e massagem suave",
-                        "text": "Antes de iniciar as brincadeiras, veja se ele caminha com rigidez. Faça uma massagem leve ao longo da coluna para avaliar reações de dor."
-                    },
-                    {
-                        "name": "Tarde: Adequação de um espaço seguro para a coluna e manutenção horizontal",
-                        "text": "Certifique-se de que as rampas antiderrapantes estão bem posicionadas junto à cama ou sofá e bloqueie escadas com grades de segurança."
-                    },
-                    {
-                        "name": "Noite: Fortalecimento do core abdominal e controle rigoroso do peso",
-                        "text": "Passeie com o cão devagar em solo plano para desenvolver os músculos abdominais que sustentam a coluna. Controle rigorosamente a ração diária para evitar a obesidade."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Os Teckels podem subir e descer escadas?",
-                        "answer": "Devido às patas curtas e coluna longa, subir escadas gera impactos repetitivos e severos na coluna do Teckel. É altamente recomendado bloquear as escadas e carregá-lo no colo."
-                    },
-                    {
-                        "question": "Qual é a forma mais segura de pegar um Teckel ao colo?",
-                        "answer": "Sustente todo o corpo dele na horizontal. Coloque uma mão por baixo do peito entre as patas dianteiras e a outra mão por baixo do quadril/traseira. Nunca o levante apenas pelas patas dianteiras ou axilas."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Panduan Proteksi Punggung Dachshund dan Rutinitas Harian 3 Langkah Penguatan Otot Core",
-                "description": "Merawat Dachshund bertubuh panjang dan berkaki pendek. Pelajari cara mendeteksi tanda gangguan saraf punggung dan lindungi sendi mereka dengan 3 langkah rutinitas.",
-                "authority": "Panduan Kesehatan Dachshund American Kennel Club dan Pedoman Asosiasi Tulang Belakang Veteriner",
-                "profile": {
-                    "breed": "Dachshund (Canis lupus familiaris)",
-                    "lifespan": "12 ~ 16 tahun",
-                    "sleep_pattern": "12 ~ 14 jam (diurnal: aktif di siang hari)",
-                    "temperament": "Lincah, cerdas, setia, bersemangat, pemberani"
-                },
-                "intro": "Dachshund dicintai di seluruh dunia karena bentuk tubuhnya yang unik dan kepribadiannya yang berani serta ramah. Namun, karena anatomi punggung yang panjang dan kaki yang pendek, mereka sangat rentan terhadap penyakit diskus intervertebralis (IVDD). Aktivitas biasa seperti melompat dari sofa atau naik turun tangga dapat menekan tulang belakang mereka secara berbahaya. Dalam panduan ini, mengurai bahasa tubuh anjing Dachshund yang menunjukkan stres pada punggung dan membagikan 3 langkah rutinitas harian untuk menjaga tulang belakang dan memperkuat otot core.",
-                "whyTitle": "Sinyal Peringatan Tulang Belakang Dachshund: Sikap Berdiri dan Peregangan Tubuh",
-                "whyDesc": "Dachshund menunjukkan rasa tidak nyaman di punggung dengan gerakan halus. Berdiri dengan dua kaki belakang (**'sikap meminta'**) memberikan beban yang sangat besar pada tulang belakang lumbar. Selain itu, punggung melengkung atau leher yang meregang kaku adalah tanda penekanan saraf tulang belakang tahap awal yang perlu diwaspadai.",
-                "body_signals": [
-                    {
-                        "name": "Berdiri dengan Dua Kaki Belakang (Sikap Meminta)",
-                        "meaning": "Sikap yang memberikan tekanan berlebih pada tulang belakang lumbar, biasanya dilakukan saat meminta makanan atau perhatian.",
-                        "response": "Cegah sikap ini segera secara lembut, pasang tangga landai (ramps) di dekat furnitur, dan taruh mainan setinggi dada anjing."
-                    },
-                    {
-                        "name": "Punggung Melengkung & Leher Meregang",
-                        "meaning": "Sikap melindungi tubuh akibat nyeri punggung, kekakuan, atau tekanan saraf tulang belakang tahap awal.",
-                        "response": "Batasi gerakannya segera, gendong dengan menopang dada dan bokong secara bersamaan agar tulang belakang tetap horizontal, lalu bawa ke dokter hewan."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Pemeriksaan Mobilitas Tulang Belakang & Pijat Ringan",
-                        "text": "Sebelum beraktivitas, amati apakah jalannya kaku. Pijat lembut di sepanjang garis tulang belakang untuk melihat reaksi nyeri."
-                    },
-                    {
-                        "name": "Siang: Penataan Lingkungan yang Aman bagi Punggung & Menjaga Posisi Datar",
-                        "text": "Pastikan kemiringan ramp antiselip di dekat sofa dan tempat tidur stabil. Pasang gerbang pengaman di akses jalan tangga untuk mencegah penggunaan tangga."
-                    },
-                    {
-                        "name": "Malam: Jalan di Area Rata untuk Memperkuat Core dan Kontrol Berat Badan",
-                        "text": "Untuk melatih otot perut guna menyangga punggung, berjalanlah santai di rumput datar. Atur porsi makanan secara ketat demi mencegah obesitas dan beban diskus."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apakah anjing Dachshund boleh naik turun tangga?",
-                        "answer": "Karena struktur kaki pendek dan punggung panjang, naik turun tangga memberikan benturan berulang dan keras pada tulang belakang Dachshund. Sangat disarankan menghalangi tangga dengan gerbang pengaman dan menggendong anjing Anda saat melewati tangga."
-                    },
-                    {
-                        "question": "Bagaimana cara menggendong Dachshund yang benar?",
-                        "answer": "Topang seluruh tubuhnya secara horizontal. Letakkan satu tangan di bawah dada di antara kaki depan, dan tangan lainnya di bawah pantat dan kaki belakang anjing. Jangan pernah mengangkatnya hanya dengan menarik kaki depan atau ketiaknya."
-                    }
-                ]
-            }
+  "dachshund-care": {
+    "pubDate": "2026-06-20",
+    "updatedDate": "2026-06-20",
+    "locales": {
+      "ko": {
+        "title": "닥스훈트 허리 보호 가이드와 코어 근육 강화 3단계 루틴",
+        "description": "허리가 길고 다리가 짧은 닥스훈트 케어법. 척추 이상 신호를 감지하고 3단계 일상 루틴으로 관절과 디스크를 보호하는 법을 알아봅니다.",
+        "authority": "미국 캔넬 클럽(AKC) 닥스훈트 건강 가이드 및 수의학 척추 연합 권고사항",
+        "profile": {
+          "breed": "닥스훈트 (Canis lupus familiaris)",
+          "lifespan": "12 ~ 16년",
+          "sleep_pattern": "12 ~ 14시간 (주간 활동성)",
+          "temperament": "장난스러움, 영리함, 헌신적임, 활발함, 용맹함"
         },
-        "heroImage": "/images/blog/dachshund_care.webp"
-    }
+        "intro": "긴 허리와 짧은 다리의 독특한 체형을 가진 닥스훈트는 전 세계적으로 큰 사랑을 받는 견종입니다. 그러나 이 개성 있는 신체 구조 때문에 닥스훈트는 허리 디스크(척추 추간판 탈출증 - IVDD)에 극도로 취약합니다. 소파에서 뛰어내리거나 계단을 오르내리는 평범한 행동조차 척추에 치명적인 무리를 줄 수 있습니다. 이번 가이드에서는 닥스훈트가 보내는 척추 이상 신호를 분석하고, 허리 건강을 지키며 코어 근육을 강화하는 3단계 홈케어 루틴을 공유합니다.",
+        "whyTitle": "닥스훈트 척추 경고 신호: 서 있기와 몸 늘이기",
+        "whyDesc": "닥스훈트는 척추에 무리가 가거나 통증이 있을 때 미묘한 몸짓으로 표현합니다. 흔히 귀엽다고 생각하는 두 발로 서는 **'구걸 자세'**는 요추에 엄청난 하중을 싣는 위험한 신호입니다. 또한 등을 둥글게 굽히거나 목을 길게 늘이는 자세는 디스크 초기 신경 압박에 따른 통증의 징후일 수 있으므로 빠른 대처가 필요합니다.",
+        "body_signals": [
+          {
+            "name": "두 발로 서기 (구걸 자세)",
+            "meaning": "허리 척추에 강한 압박을 가하는 자세로, 주로 간식 요구나 보호자 주의를 끌기 위해 행합니다.",
+            "response": "해당 자세를 취하지 못하도록 즉시 부드럽게 제지하고, 가구 옆에 전용 경사로를 설치해 점프를 방지합니다."
+          },
+          {
+            "name": "등을 굽히고 목 늘이기",
+            "meaning": "척추 통증이나 디스크 초기 신경 압박으로 인해 몸을 웅크리고 통증을 참는 자세입니다.",
+            "response": "움직임을 즉시 제한하고, 안아 올릴 때 가슴과 엉덩이를 동시에 받쳐 척추 수평을 유지한 후 병원을 찾습니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 아침 관절 상태 점검 및 가벼운 마사지",
+            "text": "본격적인 활동 전 걸음걸이의 뻣뻣함을 확인하고, 척추 라인을 따라 가볍게 마사지하여 통증 반응을 확인합니다."
+          },
+          {
+            "name": "낮: 척추 안전 생활 환경 점검 및 수평 유지",
+            "text": "침대나 소파 옆의 반려견용 경사로 각도와 미끄럼 방지 상태를 점검하고, 계단 진입로에 안전문을 설치해 계단 이용을 차단합니다."
+          },
+          {
+            "name": "저녁: 코어 근육 강화를 위한 평지 산책 및 체중 관리",
+            "text": "허리를 받쳐줄 복근 강화를 위해 경사지 대신 평평한 잔디밭을 천천히 산책하고, 디스크 예방을 위해 식사량을 정밀하게 조절하여 비만을 예방합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "닥스훈트가 계단을 오르내려도 되나요?",
+            "answer": "짧은 다리와 긴 허리 구조상 계단 이동은 척추에 반복적이고 강한 충격을 줍니다. 안전문으로 계단 출입을 막고 이동 시에는 직접 안아 올려주는 것이 좋습니다."
+          },
+          {
+            "question": "닥스훈트를 안아 올리는 올바른 방법은 무엇인가요?",
+            "answer": "한 손으로 가슴과 앞다리 사이를 받치고, 다른 한 손으로 엉덩이와 뒷다리를 감싸 척추가 항상 수평을 유지하도록 안정적으로 들어 올려야 합니다. 앞다리만 잡고 들어 올리는 것은 금물입니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Dachshund Back Protection Guide and 3-Step Core-Strengthening Daily Routine",
+        "description": "Caring for the long-backed, short-legged Dachshund. Learn to recognize signs of spinal discomfort and protect their joints with a 3-step daily routine.",
+        "authority": "American Kennel Club Dachshund Health Guide and Veterinary Spinal Association Guidelines",
+        "profile": {
+          "breed": "Dachshund (Canis lupus familiaris)",
+          "lifespan": "12 - 16 Years",
+          "sleep_pattern": "12 - 14 Hours (Diurnal - Active During Day)",
+          "temperament": "Playful, Clever, Devoted, Lively, Courageous"
+        },
+        "intro": "Dachshunds are beloved worldwide for their charming silhouette and bold, friendly personality. However, their unique anatomy—a long torso paired with short limbs—makes them highly vulnerable to Intervertebral Disc Disease (IVDD). Even standard activities like jumping off sofas or climbing stairs can put dangerous strain on their spine. In this guide, decodes Dachshund body language signaling back stress and outlines a 3-step homecare routine designed to protect their back and strengthen their core muscles.",
+        "whyTitle": "Dachshund Spinal Warning Signs: Begging Posture and Body Stretches",
+        "whyDesc": "Due to their long spine, Dachshunds will often signal physical stress or pain in subtle ways. While standing on their hind legs (the **'begging posture'**) is commonly seen as cute, it places critical weight on their lower lumbar spine. Conversely, tense neck stretching or a hunched back can indicate early-stage spinal nerve compression that requires immediate attention.",
+        "body_signals": [
+          {
+            "name": "Hind Leg Stand (Begging Posture)",
+            "meaning": "A stance that places excessive pressure on the lumbar spine, often done to request food or attention.",
+            "response": "Gently discourage this stance immediately, use ramps for furniture access, and keep food or toys at chest level."
+          },
+          {
+            "name": "Hunched Back & Neck Stretching",
+            "meaning": "A guarding posture indicating back pain, stiffness, or early onset of spinal nerve compression.",
+            "response": "Restrict their movement immediately, support both chest and quarters to keep the spine level when handling, and consult a vet."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Back & Joint Mobility Inspection",
+            "text": "Before active play, check their gait for any stiffness. Perform a gentle massage along their spinal line to assess comfort and check for pain reactions."
+          },
+          {
+            "name": "Afternoon: Spine-Safe Living Space Verification",
+            "text": "Ensure pet ramps are correctly positioned with non-slip surfaces next to beds and sofas. Block stair access with safety gates to eliminate stair usage."
+          },
+          {
+            "name": "Evening: Core Abdominal Strengthening & Weight Control",
+            "text": "Perform low-impact walking on flat grass to build supportive core abdominal muscles, and measure their food intake strictly to prevent obesity and disc strain."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Can Dachshunds climb stairs?",
+            "answer": "Climbing stairs puts repetitive, intense impact on a Dachshund's elongated spine due to their short legs. It is highly recommended to block stairs with gates and carry your Dachshund up and down when necessary."
+          },
+          {
+            "question": "What is the safest way to pick up a Dachshund?",
+            "answer": "Always support their entire body horizontally. Place one hand under their chest between the front legs and the other hand supporting their rump and hind legs. Never lift them solely by their front legs or underarms."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ダックスフントの腰痛警告と体幹強化の3ステップ日常ルーティン",
+        "description": "胴長短足のダックスフントのケア。背骨への負担を示す警告サインを察知し、関節と椎間板を保護するための3ステップ日常ルーティンを解説します。",
+        "authority": "アメリカンケネルクラブ（AKC）ダックスフント健康ガイドおよび獣医脊椎協会ガイドライン",
+        "profile": {
+          "breed": "ダックスフント (Canis lupus familiaris)",
+          "lifespan": "12 〜 16年",
+          "sleep_pattern": "12 〜 14時間 (昼行性 - 日中に活動)",
+          "temperament": "遊び好き、賢い、献身的、活発、勇敢"
+        },
+        "intro": "長い胴体と短い四肢というユニークな体型を持つダックスフントは、世界中で大人気の犬種です。しかし、この特徴的な身体構造ゆえに、椎間板ヘルニア（IVDD）に対して非常に脆弱です。ソファーからの飛び降ろしや階段の上り下りといった日常の動作でさえ、脊椎に致命的な負担をかけることがあります。本記事では、ダックスフントが送る脊椎のSOSサインを分析し、背骨を守り体幹筋肉を強化する3ステップのホームケアルーティンをご紹介します。",
+        "whyTitle": "ダックスフントの脊椎警告信号：二本足立ちと姿勢の変化",
+        "whyDesc": "ダックスフントは背骨に負担がかかったり痛みを感じたりすると、微細なサインでそれを表現します。可愛いと思われがちな二本足立ちの**「おねだりポーズ」**は、腰椎に極度な負荷をかける危険な姿勢です。また、背中を丸めたり首を不自然に伸ばす行動は、ヘルニア初期の神経圧迫による痛みを示している可能性があります。",
+        "body_signals": [
+          {
+            "name": "二本足立ち（おねだりポーズ）",
+            "meaning": "腰椎に強力な圧力がかかる姿勢で、主にオヤツの要求や飼い主の注意を引く際に行われます。",
+            "response": "この姿勢をとらないようすぐに優しく制止し、家具の横には専用のスロープを設置してジャンプを防ぎます。"
+          },
+          {
+            "name": "背中を丸める・首を伸ばす",
+            "meaning": "脊椎の痛みやヘルニア初期の神経圧迫により、体をこわばらせて痛みを耐えている保護姿勢です。",
+            "response": "すぐに活動を制限し、抱き上げる際は胸と臀部を同時に支えて背骨を水平に保ち、速やかに獣医師の診察を受けます。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：脊椎と関節の動きのチェックおよびマッサージ",
+            "text": "本格的な活動を始める前に歩き方に硬さがないか確認し、背骨のラインに沿って優しくマッサージして痛みに対する反応を確かめます。"
+          },
+          {
+            "name": "昼：脊椎に安全な生活環境の維持と水平保持",
+            "text": "ベッドやソファーの横に置いたペット用スロープの角度と滑り止め状態を点検し、階段の入口には安全ゲートを設置して階段の利用を遮断します。"
+          },
+          {
+            "name": "夜：体幹（腹筋）強化のための平地散歩と厳密な体重管理",
+            "text": "腰を支える腹筋を鍛えるため、傾斜のない平らな芝生の上をゆっくり散歩させ、ヘルニア予防のために食事量を厳密に調節して肥満を防ぎます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ダックスフントは階段を上り下りしても大丈夫ですか？",
+            "answer": "短い脚と長い背骨の構造上、階段移動は脊椎に繰り返しの強い衝撃を与えます。安全ゲートで出入りを防ぎ、移動時には飼い主が直接抱き上げてあげるのが推奨されます。"
+          },
+          {
+            "question": "ダックスフントの正しい抱き方は？",
+            "answer": "片手で胸と前足の間を支え、もう片方の手で臀部と後肢をしっかり包み込み、背骨が常に水平を維持するように安定して持ち上げます。前足だけを持って持ち上げるのは厳禁です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "腊肠犬护脊指南与强化核心肌肉3阶段日常护理流程",
+        "description": "针对身长腿短的腊肠犬护理法。学习识别脊椎不适信号，并通过3阶段日常护理流程保护其关节与椎间盘。",
+        "authority": "美国养犬俱乐部 (AKC) 腊肠犬健康指南与兽医脊椎协会指导原则",
+        "profile": {
+          "breed": "腊肠犬 (Canis lupus familiaris)",
+          "lifespan": "12 ~ 16年",
+          "sleep_pattern": "12 ~ 14小时 (日间活动性)",
+          "temperament": "顽皮、聪明、忠诚、活泼、勇敢"
+        },
+        "intro": "腊肠犬因其独特的长身短腿体型而在全球备受欢迎。然而，这种特殊的身体结构使它们极易患上椎间盘突出症（IVDD）。对于腊肠犬来说，即使是从沙发上跳下或爬楼梯这种日常行为，也会给脊椎带来致命的负担。本指南将为您分析腊肠犬表现出的脊椎受损警告信号，并分享保护腰部健康并强化核心肌肉的3阶段每日护理流程。",
+        "whyTitle": "腊肠犬的脊椎警告信号：站立与异常伸展",
+        "whyDesc": "当腊肠犬脊椎负担过重或感到疼痛时，会通过细微的动作来表达。两足站立的**“拜拜姿势”** 虽然可爱，但会将极极大的重量负荷压在腰椎上，是非常危险的信号。此外，拱背或脖子僵硬伸直也是椎间盘突出早期的疼痛征兆，需要尽快采取措施。",
+        "body_signals": [
+          {
+            "name": "双足站立 (拜拜姿势)",
+            "meaning": "会对腰椎施加强烈压迫的姿势，通常是为了索要食物或引起主人的注意。",
+            "response": "应立即温柔制止该动作，并在家具旁安装专用的宠物斜坡，防止其剧烈跳跃。"
+          },
+          {
+            "name": "拱背与颈部伸展",
+            "meaning": "因脊椎疼痛或早期椎间盘神经受压导致身体僵硬、忍受痛苦的防护姿势。",
+            "response": "必须立即限制其活动，抱起时应同时托住胸部与臀部以保持脊椎水平，并及时就医。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：检查晨间关节状态与轻柔按摩",
+            "text": "开始活动前观察步态是否僵硬，沿着脊椎线轻轻按摩，检测是否有疼痛反应。"
+          },
+          {
+            "name": "中午：维护安全的无障碍生活环境与保持水平",
+            "text": "检查床和沙发旁的宠物斜坡角度及防滑状态。在楼梯口安装安全门，封锁楼梯通道。"
+          },
+          {
+            "name": "晚上：平地散步强化核心肌肉与严格控制体重",
+            "text": "为锻炼支撑腰部的腹部核心肌肉，选择平坦的草地慢步散步。精确调节给食量以预防肥胖和椎间盘压力。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "腊肠犬可以爬楼梯吗？",
+            "answer": "由于其短腿长背的结构，爬楼梯会给脊椎带来反复且剧烈的冲击。强烈建议用安全门封锁楼梯，移动时由主人直接抱行。"
+          },
+          {
+            "question": "抱腊肠犬的正确姿势是什么？",
+            "answer": "一手托住胸口和前肢之间，另一手托住臀部和后肢，抬起时确保脊椎始终保持水平状态。千万不要只拉扯前腿或抓着腋下抱起。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Guía de protección de espalda del Teckel y rutina diaria de 3 pasos para fortalecer el núcleo",
+        "description": "Cuidado del perro de cuerpo largo y patas cortas, el Teckel (Dachshund). Aprenda a reconocer señales de dolor de espalda y proteja sus articulaciones con una rutina de 3 pasos.",
+        "authority": "Guía de Salud del Dachshund del American Kennel Club y Directrices de la Asociación Veterinaria de la Columna",
+        "profile": {
+          "breed": "Teckel / Dachshund (Canis lupus familiaris)",
+          "lifespan": "12 ~ 16 años",
+          "sleep_pattern": "12 ~ 14 horas (diurno: activo durante el día)",
+          "temperament": "Juguetón, inteligente, devoto, vivaz, valiente"
+        },
+        "intro": "Los perros salchicha (Teckel) son adorados en todo el mundo por su silueta encantadora y su personalidad valiente y amigable. Sin embargo, su anatomía particular con torso alargado y extremidades cortas los hace extremadamente vulnerables a la enfermedad de disco intervertebral (IVDD). Actividades cotidianas como saltar del sofá o subir escaleras pueden causar un estrés peligroso en su columna. En esta guía, analiza el lenguaje corporal que indica estrés en la espalda del Teckel y presenta una rutina diaria de 3 pasos para proteger su columna y fortalecer su musculatura central.",
+        "whyTitle": "Señales de advertencia en la columna del Teckel: Postura de ruego y estiramientos",
+        "whyDesc": "Los Teckels muestran el estrés espinal mediante sutiles cambios en su postura. Ponerse de pie sobre sus patas traseras (la **'posición de ruego'**) ejerce una presión extrema sobre su columna lumbar. De la misma manera, encorvar la espalda o estirar rígidamente el cuello son signos de compresión nerviosa temprana que requieren atención inmediata.",
+        "body_signals": [
+          {
+            "name": "Ponerse de pie (Posición de ruego)",
+            "meaning": "Una postura que concentra una presión excesiva en la columna lumbar, hecha a menudo para pedir comida o atención.",
+            "response": "Evite esta postura de inmediato con suavidad, use rampas para los muebles y mantenga sus juguetes o comida a la altura del pecho."
+          },
+          {
+            "name": "Espalda encorvada y cuello estirado",
+            "meaning": "Postura de protección provocada por dolor de espalda, rigidez o compresión nerviosa espinal temprana.",
+            "response": "Restrinja su actividad física de inmediato, sostenga el pecho y los cuartos traseros para mantener la columna horizontal y acuda al veterinario."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Inspección de movilidad espinal y masaje suave",
+            "text": "Antes de comenzar la actividad, verifique si camina con rigidez. Realice un masaje suave a lo largo de la línea de su columna para evaluar si hay reacciones de dolor."
+          },
+          {
+            "name": "Tarde: Verificación de un entorno seguro para la columna y mantenimiento horizontal",
+            "text": "Asegúrese de que las rampas antideslizantes estén bien colocadas junto al sofá o la cama y bloquee el acceso a las escaleras con barreras de seguridad."
+          },
+          {
+            "name": "Noche: Fortalecimiento del núcleo abdominal y control estricto del peso",
+            "text": "Pasee al perro lentamente sobre césped plano para desarrollar los músculos abdominales que sostienen la espalda. Controle estrictamente su ración de comida para prevenir la obesidad."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Pueden los Teckels subir y bajar escaleras?",
+            "answer": "Debido a sus patas cortas y espalda larga, subir escaleras aplica un impacto severo y repetitivo sobre su columna. Es muy aconsejable bloquear el acceso a las escaleras y llevarlos en brazos."
+          },
+          {
+            "question": "¿Cuál es la forma más segura de cargar a un Teckel?",
+            "answer": "Debe sostener todo su cuerpo de forma horizontal. Coloque una mano debajo de su pecho entre las patas delanteras y la otra mano debajo de sus cuartos traseros. Nunca lo levante solo de las patas delanteras o las axilas."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Guide de protection du dos du Teckel et routine quotidienne de 3 étapes pour renforcer la ceinture abdominale",
+        "description": "Prendre soin du Teckel au corps long et pattes courtes. Apprenez à reconnaître les signes de douleur dorsale et protégez sa colonne vertébrale grâce à une routine en 3 étapes.",
+        "authority": "Guide de Santé du Teckel de l'American Kennel Club et Directives de l'Association Vétérinaire de la Colonne",
+        "profile": {
+          "breed": "Teckel / Dachshund (Canis lupus familiaris)",
+          "lifespan": "12 ~ 16 ans",
+          "sleep_pattern": "12 ~ 14 heures (diurne : actif pendant la journée)",
+          "temperament": "Joueur, intelligent, dévoué, vif, courageux"
+        },
+        "intro": "Les Teckels sont célèbres dans le monde entier pour leur silhouette unique et leur tempérament audacieux et amical. Cependant, leur morphologie allongée aux pattes courtes les prédispose fortement à la hernie discale (IVDD). Sauter du canapé ou monter les escaliers peut causer de graves traumatismes au niveau de leur colonne vertébrale. Dans ce guide, décrypte le langage corporel lié au mal de dos du Teckel et propose une routine en 3 étapes pour sécuriser leur colonne et renforcer les muscles du tronc.",
+        "whyTitle": "Signaux d'alerte dorsale chez le Teckel : Faire le beau et étirements",
+        "whyDesc": "Les Teckels manifestent leur inconfort au niveau du dos par des postures spécifiques. Se tenir sur les pattes arrière (la **« position du beau »**) applique une pression excessive sur les vertèbres lombaires. De même, un dos arqué ou un cou étiré de manière rigide sont des indices de compression nerveuse précoce à surveiller de près.",
+        "body_signals": [
+          {
+            "name": "Se tenir sur les pattes arrière (Faire le beau)",
+            "meaning": "Une posture qui exerce une pression excessive sur les lombaires, généralement pour réclamer de la nourriture ou de l'attention.",
+            "response": "Découragez immédiatement cette position avec douceur, installez des rampes d'accès et présentez les jouets à hauteur de poitrine."
+          },
+          {
+            "name": "Dos arqué et cou tendu",
+            "meaning": "Une posture de protection traduisant une douleur dorsale, une raideur ou un début de compression nerveuse.",
+            "response": "Limitez immédiatement ses mouvements, soutenez la poitrine et le train arrière pour maintenir la colonne horizontale et consultez un vétérinaire."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Examen de la mobilité du dos et massage doux",
+            "text": "Avant l'effort, observez s'il marche de façon rigide. Palpez doucement le long de sa colonne vertébrale pour détecter d'éventuelles réactions de douleur."
+          },
+          {
+            "name": "Après-midi : Examen de l'environnement de vie et maintien de l'horizontalité",
+            "text": "Vérifiez la stabilité et l'antidérapant des rampes près du canapé et du lit. Bloquez l'accès aux escaliers à l'aide d'une barrière de sécurité."
+          },
+          {
+            "name": "Soir : Renforcement musculaire abdominal et contrôle du poids",
+            "text": "Marchez lentement sur un sol plat et herbeux pour muscler les abdominaux qui soutiennent le dos. Pesez ses croquettes avec précision pour éviter l'obésité."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Les Teckels peuvent-ils monter les escaliers ?",
+            "answer": "En raison de leurs pattes courtes et de leur long dos, la montée et la descente d'escaliers génèrent des chocs répétés et violents pour leur colonne. Il est fortement recommandé d'interdire les escaliers et de les porter."
+          },
+          {
+            "question": "Comment porter un Teckel en toute sécurité ?",
+            "answer": "Soutenez toujours l'ensemble de son corps à l'horizontale. Placez une main sous sa poitrine entre les pattes avant et l'autre main sous son arrière-train. Ne le soulevez jamais uniquement par les pattes avant ou sous les aisselles."
+          }
+        ]
+      },
+      "de": {
+        "title": "Dackel Rückenschutz-Leitfaden und 3-Schritt-Tagesroutine zur Stärkung der Rumpfmuskulatur",
+        "description": "Pflege für den Dackel mit langem Rücken und kurzen Beinen. Lernen Sie, Anzeichen von Rückenproblemen zu erkennen und die Wirbelsäule mit einer 3-Schritt-Routine zu schützen.",
+        "authority": "Dachshund-Gesundheitsratgeber des American Kennel Club und Richtlinien der Veterinär-Wirbelsäulen-Vereinigung",
+        "profile": {
+          "breed": "Dackel / Dachshund (Canis lupus familiaris)",
+          "lifespan": "12 ~ 16 Jahre",
+          "sleep_pattern": "12 ~ 14 Stunden (tagaktiv)",
+          "temperament": "Verspielt, klug, treu, lebhaft, mutig"
+        },
+        "intro": "Dackel (Dachshunds) sind weltweit bekannt für ihre charmante Silhouette und ihren mutigen, freundlichen Charakter. Ihre einzigartige Anatomie – ein langer Körper gepaart mit kurzen Beinen – macht sie jedoch extrem anfällig für Dackellähme und Bandscheibenvorfälle (IVDD). Selbst alltägliche Dinge wie das Springen vom Sofa oder das Treppensteigen können die Wirbelsäule gefährlich belasten. Heute analysiert  die Körpersprache des Dackels bei Rückenstress und stellt eine 3-Schritt-Routine vor, um den Rücken zu schonen und die Rumpfmuskulatur zu stärken.",
+        "whyTitle": "Dackel Wirbelsäulen-Warnsignale: Männchen machen und Körperstreckung",
+        "whyDesc": "Aufgrund ihres langen Rückens zeigen Dackel Wirbelsäulenstress oder Schmerzen durch subtile Signale. Das Stehen auf den Hinterbeinen (das **'Männchen machen'**) mag niedlich aussehen, belastet aber die Lendenwirbelsäule extrem. Ein gekrümmter Rücken oder ein steif gestreckter Nacken sind Anzeichen für Nervenkompressionen, die sofortige Hilfe erfordern.",
+        "body_signals": [
+          {
+            "name": "Stehen auf den Hinterbeinen (Männchen machen)",
+            "meaning": "Diese Haltung übt extremen Druck auf die Lendenwirbelsäule aus und wird oft ausgeführt, um Futter oder Aufmerksamkeit zu erlangen.",
+            "response": "Unterbinden Sie dieses Verhalten sofort sanft, stellen Sie Rampen bereit und halten Sie Futter und Spielzeug auf Brusthöhe."
+          },
+          {
+            "name": "Gekrümmter Rücken & gestreckter Nacken",
+            "meaning": "Eine Schonhaltung, die auf Rückenschmerzen, Steifheit oder eine beginnende Nervenkompression in der Wirbelsäule hinweist.",
+            "response": "Schränken Sie die Bewegung sofort ein, stützen Sie Brust und Hinterteil beim Tragen waagerecht ab und suchen Sie unverzüglich einen Tierarzt auf."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Prüfen der Gelenkbeweglichkeit und Rückenmassage",
+            "text": "Überprüfen Sie den Gang vor dem Spielen auf Steifheit. Tasten Sie die Wirbelsäule vorsichtig ab, um Schmerzreaktionen zu testen."
+          },
+          {
+            "name": "Nachmittag: Sicherung der Wohnumgebung und Waagerechthaltung",
+            "text": "Stellen Sie sicher, dass Hunderampen an Betten und Sofas stabil und rutschfest stehen. Blockieren Sie den Zugang zu Treppen mit Schutzgittern."
+          },
+          {
+            "name": "Abend: Stärkung der Rumpfmuskulatur & Gewichtskontrolle",
+            "text": "Gehen Sie langsam auf flachem Rasen spazieren, um die unterstützenden Bauchmuskeln aufzubauen. Futterrationen streng abmessen, um Übergewicht und Bandscheibenbelastung zu vermeiden."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Dürfen Dackel Treppen steigen?",
+            "answer": "Aufgrund der kurzen Beine und des langen Rückens übt das Steigen von Treppen wiederholt harte Stöße auf die Wirbelsäule aus. Es wird dringend empfohlen, Treppen mit Gittern abzudichten und den Dackel zu tragen."
+          },
+          {
+            "question": "Wie hebt man einen Dackel am besten hoch?",
+            "answer": "Stützen Sie immer den gesamten Körper waagerecht. Legen Sie eine Hand unter die Brust zwischen den Vorderbeinen und die andere Hand unter das Hinterteil. Heben Sie den Hund niemals nur an den Vorderbeinen oder Achseln hoch."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Guia de proteção de costas do Teckel e rotina diária de 3 passos para fortalecer a musculatura core",
+        "description": "Cuidado do cão de corpo longo e patas curtas, o Teckel (Dachshund). Aprenda a reconhecer sinais de dor nas costas e proteja a coluna com uma rotina de 3 passos.",
+        "authority": "Diretrizes de Saúde do Dachshund do American Kennel Club e Padrões da Associação Veterinária da Coluna",
+        "profile": {
+          "breed": "Teckel / Dachshund (Canis lupus familiaris)",
+          "lifespan": "12 ~ 16 anos",
+          "sleep_pattern": "12 ~ 14 horas (diurno: ativo durante o dia)",
+          "temperament": "Brincalhão, inteligente, devoto, vivaz, corajoso"
+        },
+        "intro": "Os salsichas (Teckel) são amados no mundo inteiro pela sua silhueta única e temperamento corajoso e amigável. No entanto, o seu corpo longo e patas curtas tornam-nos extremamente propensos à doença do disco intervertebral (IVDD). Saltar de sofás ou usar escadas pode sobrecarregar severamente a sua coluna. Neste guia, decodifica os sinais de dor nas costas do Teckel e ensina uma rotina diária de 3 passos para proteger a coluna e fortalecer o core do seu cão.",
+        "whyTitle": "Sinais de alerta na coluna do Teckel: Postura de pedir e estiramentos",
+        "whyDesc": "Devido à sua coluna longa, os Teckels demonstram desconforto espinhal através de sinais discretos. Ficar de pé nas patas traseiras (a **'posição de pedir'**) coloca um peso excessivo na coluna lombar. Da mesma forma, arquear as costas ou esticar o pescoço de forma rígida são sinais de compressão nervosa inicial que requerem atenção médica imediata.",
+        "body_signals": [
+          {
+            "name": "Ficar nas patas traseiras (Posição de pedir)",
+            "meaning": "Postura que concentra uma pressão excessiva sobre a coluna lombar, normalmente feita para pedir comida ou atenção.",
+            "response": "Desencoraje esta postura imediatamente com calma, utilize rampas de acesso aos sofás e mantenha brinquedos ao nível do peito."
+          },
+          {
+            "name": "Costas arqueadas e pescoço estendido",
+            "meaning": "Uma postura de proteção que indica dor nas costas, rigidez ou compressão nervosa espinhal em fase inicial.",
+            "response": "Restrinja a atividade física imediatamente, apoie o peito e a traseira mantendo a coluna na horizontal e consulte um veterinário."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Inspeção de mobilidade e massagem suave",
+            "text": "Antes de iniciar as brincadeiras, veja se ele caminha com rigidez. Faça uma massagem leve ao longo da coluna para avaliar reações de dor."
+          },
+          {
+            "name": "Tarde: Adequação de um espaço seguro para a coluna e manutenção horizontal",
+            "text": "Certifique-se de que as rampas antiderrapantes estão bem posicionadas junto à cama ou sofá e bloqueie escadas com grades de segurança."
+          },
+          {
+            "name": "Noite: Fortalecimento do core abdominal e controle rigoroso do peso",
+            "text": "Passeie com o cão devagar em solo plano para desenvolver os músculos abdominais que sustentam a coluna. Controle rigorosamente a ração diária para evitar a obesidade."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Os Teckels podem subir e descer escadas?",
+            "answer": "Devido às patas curtas e coluna longa, subir escadas gera impactos repetitivos e severos na coluna do Teckel. É altamente recomendado bloquear as escadas e carregá-lo no colo."
+          },
+          {
+            "question": "Qual é a forma mais segura de pegar um Teckel ao colo?",
+            "answer": "Sustente todo o corpo dele na horizontal. Coloque uma mão por baixo do peito entre as patas dianteiras e a outra mão por baixo do quadril/traseira. Nunca o levante apenas pelas patas dianteiras ou axilas."
+          }
+        ]
+      },
+      "id": {
+        "title": "Panduan Proteksi Punggung Dachshund dan Rutinitas Harian 3 Langkah Penguatan Otot Core",
+        "description": "Merawat Dachshund bertubuh panjang dan berkaki pendek. Pelajari cara mendeteksi tanda gangguan saraf punggung dan lindungi sendi mereka dengan 3 langkah rutinitas.",
+        "authority": "Panduan Kesehatan Dachshund American Kennel Club dan Pedoman Asosiasi Tulang Belakang Veteriner",
+        "profile": {
+          "breed": "Dachshund (Canis lupus familiaris)",
+          "lifespan": "12 ~ 16 tahun",
+          "sleep_pattern": "12 ~ 14 jam (diurnal: aktif di siang hari)",
+          "temperament": "Lincah, cerdas, setia, bersemangat, pemberani"
+        },
+        "intro": "Dachshund dicintai di seluruh dunia karena bentuk tubuhnya yang unik dan kepribadiannya yang berani serta ramah. Namun, karena anatomi punggung yang panjang dan kaki yang pendek, mereka sangat rentan terhadap penyakit diskus intervertebralis (IVDD). Aktivitas biasa seperti melompat dari sofa atau naik turun tangga dapat menekan tulang belakang mereka secara berbahaya. Dalam panduan ini, mengurai bahasa tubuh anjing Dachshund yang menunjukkan stres pada punggung dan membagikan 3 langkah rutinitas harian untuk menjaga tulang belakang dan memperkuat otot core.",
+        "whyTitle": "Sinyal Peringatan Tulang Belakang Dachshund: Sikap Berdiri dan Peregangan Tubuh",
+        "whyDesc": "Dachshund menunjukkan rasa tidak nyaman di punggung dengan gerakan halus. Berdiri dengan dua kaki belakang (**'sikap meminta'**) memberikan beban yang sangat besar pada tulang belakang lumbar. Selain itu, punggung melengkung atau leher yang meregang kaku adalah tanda penekanan saraf tulang belakang tahap awal yang perlu diwaspadai.",
+        "body_signals": [
+          {
+            "name": "Berdiri dengan Dua Kaki Belakang (Sikap Meminta)",
+            "meaning": "Sikap yang memberikan tekanan berlebih pada tulang belakang lumbar, biasanya dilakukan saat meminta makanan atau perhatian.",
+            "response": "Cegah sikap ini segera secara lembut, pasang tangga landai (ramps) di dekat furnitur, dan taruh mainan setinggi dada anjing."
+          },
+          {
+            "name": "Punggung Melengkung & Leher Meregang",
+            "meaning": "Sikap melindungi tubuh akibat nyeri punggung, kekakuan, atau tekanan saraf tulang belakang tahap awal.",
+            "response": "Batasi gerakannya segera, gendong dengan menopang dada dan bokong secara bersamaan agar tulang belakang tetap horizontal, lalu bawa ke dokter hewan."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pemeriksaan Mobilitas Tulang Belakang & Pijat Ringan",
+            "text": "Sebelum beraktivitas, amati apakah jalannya kaku. Pijat lembut di sepanjang garis tulang belakang untuk melihat reaksi nyeri."
+          },
+          {
+            "name": "Siang: Penataan Lingkungan yang Aman bagi Punggung & Menjaga Posisi Datar",
+            "text": "Pastikan kemiringan ramp antiselip di dekat sofa dan tempat tidur stabil. Pasang gerbang pengaman di akses jalan tangga untuk mencegah penggunaan tangga."
+          },
+          {
+            "name": "Malam: Jalan di Area Rata untuk Memperkuat Core dan Kontrol Berat Badan",
+            "text": "Untuk melatih otot perut guna menyangga punggung, berjalanlah santai di rumput datar. Atur porsi makanan secara ketat demi mencegah obesitas dan beban diskus."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah anjing Dachshund boleh naik turun tangga?",
+            "answer": "Karena struktur kaki pendek dan punggung panjang, naik turun tangga memberikan benturan berulang dan keras pada tulang belakang Dachshund. Sangat disarankan menghalangi tangga dengan gerbang pengaman dan menggendong anjing Anda saat melewati tangga."
+          },
+          {
+            "question": "Bagaimana cara menggendong Dachshund yang benar?",
+            "answer": "Topang seluruh tubuhnya secara horizontal. Letakkan satu tangan di bawah dada di antara kaki depan, dan tangan lainnya di bawah pantat dan kaki belakang anjing. Jangan pernah mengangkatnya hanya dengan menarik kaki depan atau ketiaknya."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/dachshund_care.webp"
+  }
 }

@@ -1,406 +1,406 @@
 {
-    "how-to-store-jam": {
-        "ingId": "jam",
-        "pubDate": "2026-03-13",
-        "updatedDate": "2026-03-13",
-        "heroImage": "/images/blog/jam_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "과일 잼 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 과일 잼의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
-                "intro": "달콤한 과일 잼을 개봉해 몇 번 먹지도 못했는데, 며칠 뒤 표면에 흰색이나 푸른색 곰팡이가 피어 버린 적 있으시죠? 🍓\n\n잼은 설탕 함량이 높아 세균 번식이 억제되는 편이지만, 공기 중의 곰팡이 포자나 빵 부스러기, 침 등이 닿으면 매우 쉽게 곰팡이가 피어오릅니다. 특히 저당(Low-Sugar) 잼이나 수제 잼은 보존력이 낮아 개봉 후 관리가 더욱 중요합니다.\n\n이번 가이드에서는 미국 농무부(USDA)와 식품의약품안전처(MFDS) 등의 안전 가이드라인을 바탕으로, 과일 잼을 변질 없이 오랫동안 신선하게 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "침이나 버터, 빵 부스러기가 묻은 스푼을 절대 사용하지 마세요 ⚠️",
-                        "desc": "버터칼이나 침, 빵 부스러기가 잼 병 안에 유입되면 수분과 영양분이 공급되어 곰팡이가 급격히 번식합니다. 반드시 완전히 깨끗하고 마른 전용 스푼을 사용하세요."
-                    },
-                    {
-                        "title": "저당 잼과 일반 잼의 보관 기간 차이에 주의하세요 🍯",
-                        "desc": "일반 잼은 높은 당도가 천연 보존제 역할을 하지만, 당도를 낮춘 저당 잼이나 수제 잼은 수분 활성도가 높아 곰팡이에 매우 취약합니다. 저당 잼은 개봉 후 소비 기한이 훨씬 짧습니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "미개봉 잼은 서늘하고 어두운 팬트리에 보관하기 — 상온 보관 (1년) 📦",
-                        "text": "미개봉 밀폐 잼은 가열 진공 포장되어 상온 보관이 가능합니다. 💡 보관 팁: 직사광선과 가스레인지 주변 열기를 피해 서늘하고 어두운 찬장(15~20℃)에 보관하세요. 개봉 전까지 1년 이상 신선도가 유지됩니다."
-                    },
-                    {
-                        "name": "개봉 후 즉시 냉장 보관하기 — 당도별 맞춤 냉장 (1~6개월) ❄️",
-                        "text": "잼을 개봉한 후에는 세균과 곰팡이 방지를 위해 반드시 냉장 보관해야 합니다. 💡 보관 팁: 뚜껑을 꽉 닫아 냉장실(0~4℃)에 보관하세요. 일반 당도 잼은 개봉 후 6개월까지, 저당 잼이나 수제 잼은 1~3개월 이내에 소비하는 것이 안전합니다."
-                    },
-                    {
-                        "name": "병 입구를 깨끗이 닦고 밀폐 보관하기 — 곰팡이 방지 🛡️",
-                        "text": "병 테두리나 뚜껑 안쪽에 잼이 묻어있으면 공기 중의 곰팡이 포자가 붙어 증식하기 쉽습니다. 💡 보관 팁: 사용 후 마른 키친타월로 병 입구와 뚜껑 테두리를 깔끔하게 닦아낸 뒤 꽉 닫아주세요. 공기 접촉을 차단하고 입구 주변의 곰팡이 발생을 예방할 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "잼 표면에 살짝 핀 곰팡이를 덜어내고 먹어도 되나요?",
-                        "answer": "절대 안 됩니다! 눈에 보이는 곰팡이는 일부분일 뿐, 잼의 수분과 당분을 타고 미세한 곰팡이 균사와 독소(마이코톡신)가 병 전체에 퍼졌을 가능성이 높습니다. 곰팡이가 발견된 잼은 아깝더라도 즉시 전량 폐기해야 합니다."
-                    },
-                    {
-                        "question": "잼은 개봉 후 냉장고에서 최대 얼마 동안 보관할 수 있나요?",
-                        "answer": "미국 농무부(USDA) 가이드라인에 따르면, 당도가 높은 일반 상업용 과일 잼은 개봉 후 냉장(0~4℃) 보관 시 최대 6개월까지 보관 가능합니다. 다만, 설탕 함량이 적은 저당 잼이나 방부제가 들어가지 않은 수제 잼은 1~3개월 이내에 모두 드시는 것을 권장합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Store Jam (Fruit Preserves): Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for fruit jam based on official safety guidelines.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Have you ever opened a jar of delicious fruit jam only to find white or blue mold growing on the surface a few days later? 🍓\n\nWhile high sugar content generally inhibits bacterial growth, mold spores, breadcrumbs, butter, or saliva entering the jar can cause mold to thrive quickly. Low-sugar or homemade jams have lower natural preservative qualities, making proper post-opening care essential.\n\nIn this guide, introduces a scientifically proven 3-step fruit jam storage guide based on safety guidelines from the USDA, FDA, and MFDS to keep your jam fresh and mold-free. 🛡️",
-                "whyTitle": "Why Store Fruit Jam This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never use a spoon contaminated with saliva, butter, or breadcrumbs ⚠️",
-                        "desc": "Introducing a butter knife, saliva, or crumbs into the jam jar adds moisture and organic matter, causing mold to multiply rapidly. Always use a dedicated, clean, and completely dry spoon."
-                    },
-                    {
-                        "title": "Be mindful of shelf-life differences between low-sugar and traditional jams 🍯",
-                        "desc": "High sugar levels act as a natural preservative in traditional jam, whereas low-sugar or homemade jams have higher water activity and are far more vulnerable to mold. Low-sugar jams have a much shorter shelf life after opening."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Store unopened jars in a cool, dark pantry — Room Temperature (1 Year) 📦",
-                        "text": "Unopened, vacuum-sealed jars are shelf-stable at room temperature. 💡 Storage Tip: Keep jars in a cool, dark pantry (15–20°C / 59–68°F) away from direct sunlight and stove heat. They maintain freshness for up to 1 year unopened."
-                    },
-                    {
-                        "name": "Refrigerate immediately after opening — Customized Refrigeration (1–6 Months) ❄️",
-                        "text": "Once opened, jam must be refrigerated to prevent bacterial and mold contamination. 💡 Storage Tip: Seal the lid tightly and store in the refrigerator (0–4°C / 32–39°F). Traditional high-sugar jam lasts up to 6 months refrigerated, while low-sugar or artisan jams should be consumed within 1–3 months."
-                    },
-                    {
-                        "name": "Wipe the rim clean and seal tightly — Mold Prevention 🛡️",
-                        "text": "Jam residue on the jar rim attracts airborne mold spores, encouraging growth under the lid. 💡 Storage Tip: After each use, thoroughly wipe the rim and inner lid with a dry paper towel before sealing tightly to minimize air exposure and prevent mold around the opening."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Is it safe to scrape off a small spot of mold on top of the jam and eat the rest?",
-                        "answer": "Absolutely not! The visible spot is only a fraction of the mold. Microscopic mold hyphae and mycotoxins spread easily through the moisture and sugar matrix of the jar. Always discard the entire jar if mold appears."
-                    },
-                    {
-                        "question": "How long can opened jam be kept in the refrigerator?",
-                        "answer": "According to USDA guidelines, commercial fruit jam with traditional sugar levels can be stored in the refrigerator (0–4°C) for up to 6 months after opening. Low-sugar or preservative-free artisan jams should be consumed within 1 to 3 months."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ジャム（果実ジャム）を新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくジャムの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
-                "intro": "せっかく開けたジャムを数回食べただけで、数日後に表面に白いカビが生えて捨ててしまった経験はありませんか？🍓\n\nジャムは糖度が高いため細菌の繁殖が抑えられやすい食品ですが、空気中のカビの胞子やパンくず、唾液などが混入すると非常にカビが発生しやすくなります。特に低糖度ジャムや手作りジャムは保存性が低いため、開封後の meintenance が非常に重要です。\n\n本記事では、米国農務省（USDA）、FDA、食品医薬品安全処（MFDS）などのガイドラインに基づき、ジャムを傷ませず長期間新鮮に保つ3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "唾液やバター、パンくずのついたスプーンは絶対に使用しないでください ⚠️",
-                        "desc": "バターナイフや唾液、パンくずがジャム瓶の中に入ると、水分や栄養分が供給されカビが急激に繁殖します。必ず完全に清潔で乾いた専用のスプーンを使用してください。"
-                    },
-                    {
-                        "title": "低糖ジャムと一般的なジャムの保存期間の違いに注意してください 🍯",
-                        "desc": "一般的なジャムは高い糖度が天然の防腐剤の役割を果たしますが、糖分を抑えた低糖ジャムや手作りジャムは水分活性度が高くカビに対して非常に脆弱です。低糖ジャムは開封後の賞味期限がはるかに短くなります。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "未開封のジャムは涼しく暗いパントリーで保存する — 常温保存 (1年間) 📦",
-                        "text": "未開封の密閉ジャムは加熱真空包装されているため常温保存が可能です。💡保存のコツ：直射日光やコンロ周辺の熱を避け、涼しく暗い棚（15〜20℃）で保存してください。開封前であれば1年以上新鮮さを維持できます。"
-                    },
-                    {
-                        "name": "開封後はすぐに冷蔵保存する — 糖度別の冷蔵管理 (1〜6ヶ月間) ❄️",
-                        "text": "開封後のジャムは、細菌やカビを防ぐため必ず冷蔵保存する必要があります。💡保存のコツ：フタをしっかり閉めて冷蔵室（0〜4℃）で保存してください。一般的な高糖度ジャムは開封後6ヶ月まで、低糖ジャムや手作りジャムは1〜3ヶ月以内に使い切るのが安全です。"
-                    },
-                    {
-                        "name": "瓶の口をきれいに拭いて密閉保存する — カビ防止 🛡️",
-                        "text": "瓶のフチやフタの裏側にジャムが付着したままだと、空気中のカビ胞子が付着して増殖しやすくなります。💡保存のコツ：使用後は乾いた wepe（キッチンペーパー）で瓶の口とフタのフチをきれいに拭き取り、フタをしっかり閉めてください。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "ジャムの表面に少し生えたカビを取り除けば食べても大丈夫ですか？",
-                        "answer": "絶対にダメです！目に見えるカビはほんの一部に過ぎず、ジャムの水分や糖分を伝って微小なカビ菌糸や毒素（マイコトキシン）が瓶全体に広がっている可能性が高いです。カビが見つかったジャムは全量廃棄してください。"
-                    },
-                    {
-                        "question": "ジャムは開封後、冷蔵庫で最大何日間保存できますか？",
-                        "answer": "米国農務省（USDA）のガイドラインによると、糖度の高い一般的な商業用ジャムは開封後、冷蔵（0〜4℃）保存で最大6ヶ月間保存可能です。ただし、砂糖控えめの低糖ジャムや保存料なしの手作りジャムは1〜3ヶ月以内に使い切ることを推奨します。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持果酱新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解果酱的最佳储存温度、方式和保鲜时长。",
-                "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "您是否曾遇到刚开封没吃几次的果酱，几天后表面就长出了白色或青色霉菌而不得不扔掉的情况？🍓\n\n果酱虽然因含糖量高而相对抑制细菌，但一旦接触空气中的霉菌孢子、面包屑或唾液，极易滋生霉菌。特别是低糖果酱或手工果酱，防腐能力较弱，开封后的保存管理尤为重要。\n\n本指南将基于美国农务部(USDA)、FDA和韩国食品医药品安全处(MFDS)的安全指南，为您带来3步科学保存秘诀，帮您长久保持果酱的新鲜与美味。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "切勿使用沾有唾液、黄油或面包屑的勺子 ⚠️",
-                        "desc": "将抹过黄油的刀具、沾有唾液或面包屑的勺子伸入果酱瓶，会带入水分和营养物质，导致霉菌疯狂滋生。请务必使用完全干净且干燥的专用勺子。"
-                    },
-                    {
-                        "title": "注意低糖果酱与普通果酱保质期的差异 🍯",
-                        "desc": "普通果酱的高糖分充当了天然防腐剂，而低糖果酱或手工果酱水分活性较高，对霉菌非常敏感。低糖果酱开封后的食用期限要短得多。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "未开封果酱置于阴凉干燥橱柜 — 常温储存 (1年) 📦",
-                        "text": "未开封的密封果酱经过加热真空包装，可在常温下保存。💡储存小贴士：请存放在避开阳光直射和燃气灶热源的阴凉干燥橱柜（15~20℃）中。未开封前可保鲜1年以上。"
-                    },
-                    {
-                        "name": "开封后立即冷藏 — 按糖度分类冷藏 (1~6个月) ❄️",
-                        "text": "果酱开封后必须冷藏，以防细菌和霉菌污染。💡储存小贴士：盖紧瓶盖放入冰箱冷藏室（0~4℃）。普通高糖果酱开封后可冷藏保存长达6个月，低糖果酱或手工果酱建议在1~3个月内食用完毕。"
-                    },
-                    {
-                        "name": "擦净瓶口并紧密密封 — 防止发霉 🛡️",
-                        "text": "瓶口边缘或瓶盖内侧残留果酱，容易吸引空气中的霉菌孢子并在此滋生。💡储存小贴士：每次使用后，请用干纸巾将瓶口及瓶盖边缘擦拭干净并盖紧瓶盖，最大限度阻绝空气 contact。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "果酱表面长了一点点霉菌，刮掉后还能吃吗？",
-                        "answer": "绝对不能！肉眼可见的霉菌只是冰山一角，微小的霉菌菌丝和毒素（真菌毒素）很可能已经顺着果酱的水分和糖分渗透至整瓶。一旦发现发霉，必须整瓶丢弃。"
-                    },
-                    {
-                        "question": "果酱开封后在冰箱里最多可以保存多久？",
-                        "answer": "根据美国农务部(USDA)指南，含糖量高的普通商业果酱开封后冷藏（0~4℃）最多可保存6个月。但对于低糖果酱或不含防腐剂的手工果酱，建议在1至3个月内吃完。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener la mermelada fresca: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la mermelada según las directrices oficiales de seguridad.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "¿Alguna vez abrió un frasco de mermelada y, a los pocos días, descubrió moho blanco o azul en la superficie? 🍓\n\nAunque el alto contenido de azúcar inhibe el crecimiento bacteriano, las esporas de moho en el aire, las migas de pan, la mantequilla o la saliva que entran al frasco facilitan la proliferación de moho. Las mermeladas bajas en azúcar o artesanales tienen menor capacidad de conservación, por lo que el cuidado tras la apertura es vital.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por el USDA, la FDA y el MFDS para mantener su mermelada fresca y libre de moho. 🛡️",
-                "whyTitle": "¿Por qué almacenarla así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Nunca use una cuchara contaminada con saliva, mantequilla o migas ⚠️",
-                        "desc": "Meter un cuchillo de mantequilla, saliva o migas dentro del frasco aporta agua y materia orgánica, haciendo que el moho se multiplique rápidamente. Utilice siempre una cuchara limpia y totalmente seca."
-                    },
-                    {
-                        "title": "Atención a las diferencias de vida útil entre mermeladas tradicionales y bajas en azúcar 🍯",
-                        "desc": "El azúcar actúa como conservante natural en las mermeladas tradicionales, mientras que las versiones bajas en azúcar tienen mayor actividad de agua y son muy vulnerables al moho, durando mucho menos tras su apertura."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Guarde los frascos cerrados en una despensa fresca y oscura — Temperatura ambiente (1 año) 📦",
-                        "text": "Los frascos cerrados al vacío se conservan a temperatura ambiente. 💡 Consejo de almacenamiento: Guarde los frascos en una despensa fresca (15-20 °C) lejos del fuego y la luz solar. Se mantendrán frescos hasta por 1 año sin abrir."
-                    },
-                    {
-                        "name": "Refrigere inmediatamente después de abrir — Según el contenido de azúcar (1 a 6 meses) ❄️",
-                        "text": "Una vez abierta, la mermelada debe refrigerarse para evitar contaminación por mohos. 💡 Consejo de almacenamiento: Cierre bien la tapa y manténgala en el refrigerador (0-4 °C). La mermelada tradicional dura hasta 6 meses; las bajas en azúcar o artesanales deben consumirse en 1 a 3 meses."
-                    },
-                    {
-                        "name": "Limpie el borde del frasco y selle herméticamente — Prevención de moho 🛡️",
-                        "text": "Los restos de mermelada en el borde del frasco atraen esporas de moho presentes en el aire. 💡 Consejo de almacenamiento: Limpie bien el borde y la tapa con papel de cocina seco después de cada uso antes de cerrar con firmeza."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Es seguro retirar una capa pequeña de moho de la mermelada y comer el resto?",
-                        "answer": "¡Absolutamente no! El moho visible es solo una parte. Sus hifas microscópicas y micotoxinas se extienden fácilmente a través de la humedad y el azúcar del frasco. Si aparece moho, deseche todo el frasco."
-                    },
-                    {
-                        "question": "¿Cuánto tiempo se puede conservar la mermelada abierta en el refrigerador?",
-                        "answer": "Según las directrices del USDA, la mermelada comercial tradicional abierta se puede conservar en el refrigerador (0-4 °C) hasta por 6 meses. Sin embargo, las mermeladas bajas en azúcar o artesanales sin conservantes deben consumirse en un plazo de 1 a 3 meses."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver la confiture fraîche : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la confiture selon les directives officielles de sécurité.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Avez-vous déjà ouvert un pot de confiture pour y découvrir quelques jours plus tard de la moisissure blanche ou bleue en surface ? 🍓\n\nSi le sucre inhibe généralement la prolifération bactérienne, les spores de moisissure flottant dans l'air, les miettes de pain, le beurre ou la salive introduced dans le pot favorisent le développement des moisissures. Les confitures allégées en sucre ou artisanales étant moins conservatrices, une gestion rigoureuse après ouverture est indispensable.\n\nDans ce guide, vous présente un guide scientifique en 3 étapes basé sur les recommandations du USDA, de la FDA et du MFDS pour conserver votre confiture fraîche et sans moisissure. 🛡️",
-                "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "N'utilisez jamais une cuillère souillée de salive, de beurre ou de miettes ⚠️",
-                        "desc": "Introduire un couteau à beurre, de la salive ou des miettes dans le pot apporte de l'eau et de la matière organique, provoquant la multiplication rapide des moisissures. Utilisez toujours une cuillère propre et parfaitement sèche."
-                    },
-                    {
-                        "title": "Attention à la durée de conservation des confitures allégées en sucre 🍯",
-                        "desc": "Le fort taux de sucre agit comme un conservateur naturel dans les confitures traditionnelles. En revanche, les confitures allégées ou artisanales ont une activité de l'eau plus élevée et s'altèrent beaucoup plus vite après ouverture."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Conserver les pots non ouverts dans un placard frais et sombre — Stockage (1 an) 📦",
-                        "text": "Les pots fermés sous vide se conservent à température ambiante. 💡 Astuce de conservation : Gardez les pots dans un endroit frais et sombre (15–20 °C) à l'abri du soleil et de la chaleur de la cuisinière. Ils se conservent jusqu'à 1 an non ouverts."
-                    },
-                    {
-                        "name": "Réfrigérer immédiatement après ouverture — Selon la teneur en sucre (1 à 6 mois) ❄️",
-                        "text": "Une fois ouverte, la confiture doit être conservée au frais pour empêcher la moisissure. 💡 Astuce de conservation : Fermez bien le couvercle et placez au réfrigérateur (0–4 °C). La confiture traditionnelle se garde jusqu'à 6 mois, tandis que les confitures allégées ou artisanales doivent être consommées sous 1 à 3 mois."
-                    },
-                    {
-                        "name": "Essuyer le rebord du pot et fermer hermétiquement — Prévenir la moisissure 🛡️",
-                        "text": "Les résidus de confiture sur le rebord du pot attirent les spores de moisissure en suspension dans l'air. 💡 Astuce de conservation : Après chaque utilisation, essuyez le rebord et le couvercle avec de l'essuie-tout sec avant de fermer hermétiquement."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Est-il sûr d'enlever un peu de moisissure à la surface de la confiture et de consommer le reste ?",
-                        "answer": "Absolument pas ! La partie visible n'est qu'une fraction de la moisissure. Les hyphes microscopiques et les mycotoxines se propagent facilement à travers la confiture. En présence de moisissure, jetez tout le pot."
-                    },
-                    {
-                        "question": "Combien de temps peut-on conserver de la confiture ouverte au réfrigérateur ?",
-                        "answer": "Selon les directives du USDA, la confiture de fruits commerciale traditionnelle ouverte se conserve au réfrigérateur (0–4 °C) jusqu'à 6 mois. Les confitures allégées en sucre ou artisanales sans conservateurs doivent être consommées dans les 1 à 3 mois."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Marmelade (Fruchtaufstrich) richtig frisch halten: Wissenschaftlicher Ratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Marmelade basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Haben Sie schon einmal ein Glas Konfitüre geöffnet, nur um Tage später weißen oder bläulichen Schimmel an der Oberfläche zu entdecken? 🍓\n\nObwohl ein hoher Zuckergehalt das Bakterienwachstum hemmt, begünstigen Schimmelsporen aus der Luft, Brotkrümel, Butter oder Speichel im Glas ein schnelles Schimmelwachstum. Besonders zuckerreduzierte oder selbstgemachte Aufstriche verderben rasch und erfordern besondere Pflege nach dem Öffnen.\n\nHeute stellt Ihnen  einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von USDA, FDA und MFDS basiert, um Ihre Konfitüre schimmelfrei und frisch zu halten. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Verwenden Sie niemals Besteck mit Speichel, Butter oder Krümeln ⚠️",
-                        "desc": "Das Eintauchen eines Buttermessers oder eines benutzten Löffels führt Feuchtigkeit und organische Stoffe zu, was das Schimmelwachstum drastisch beschleunigt. Verwenden Sie stets einen sauberen, völlig trockenen Löffel."
-                    },
-                    {
-                        "title": "Beachten Sie Haltbarkeitsunterschiede bei zuckerreduzierten Aufstrichen 🍯",
-                        "desc": "Hoher Zucker wirkt als natürliches Konservierungsmittel. Zuckerreduzierte oder selbstgemachte Fruchtaufstriche haben eine höhere Wasseraktivität und schimmeln viel schneller. Sie müssen nach dem Öffnen rascher verbraucht werden."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Ungeöffnete Gläser in einer kühlen Speisekammer lagern — Raumtemperatur (1 Jahr) 📦",
-                        "text": "Ungeöffnete, vakuumversiegelte Gläser sind bei Raumtemperatur haltbar. 💡 Lagerungstipp: Lagern Sie Gläser an einem kühlen, dunklen Ort (15–20 °C) fern von Sonnenlicht und Herd. Ungeöffnet halten sie bis zu 1 Jahr."
-                    },
-                    {
-                        "name": "Nach dem Öffnen sofort kühlen — Haltbarkeit nach Zuckergehalt (1–6 Monate) ❄️",
-                        "text": "Ein angebrochenes Glas muss gekühlt werden, um Schimmelbildung zu verhindern. 💡 Lagerungstipp: Verschließen Sie den Deckel fest und stellen Sie das Glas in den Kühlschrank (0–4 °C). Klassische Konfitüre hält gekühlt bis zu 6 Monate, zuckerreduzierte Varianten sollten innerhalb von 1–3 Monaten verbraucht werden."
-                    },
-                    {
-                        "name": "Glasrand sauber wischen und fest verschließen — Schimmel vorbeugen 🛡️",
-                        "text": "Marmeladenreste am Glasrand ziehen Schimmelsporen aus der Luft an. 💡 Lagerungstipp: Wischen Sie den Rand und den Deckel nach jedem Gebrauch mit einem trockenen Küchenpapier gründlich ab, um Sauerstoffkontakt und Schimmel zu vermeiden."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Kann man Schimmel an der Oberfläche von Marmelade einfach entfernen und den Rest essen?",
-                        "answer": "Auf keinen Fall! Der sichtbare Schimmel ist nur die Spitze des Eisbergs. Mikroskopische Schimmelpilzfäden und Gifte (Mykotoxine) breiten sich im gesamten Glas aus. Bei Schimmelbefall muss das ganze Glas entsorgt werden."
-                    },
-                    {
-                        "question": "Wie lange hält sich geöffnete Marmelade im Kühlschrank?",
-                        "answer": "Laut USDA-Richtlinien hält sich herkömmliche gewerblich hergestellte Konfitüre nach dem Öffnen im Kühlschrank (0–4 °C) bis zu 6 Monate. Zuckerreduzierte oder selbstgemachte Aufstriche ohne Konservierungsstoffe sollten innerhalb von 1 bis 3 Monaten verbraucht werden."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar geleia de frutas fresca: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para geleia de frutas com base em diretrizes oficiais de segurança.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Você já abriu um pote de geleia de frutas e descobriu, dias depois, mofo branco ou azulado na superfície? 🍓\n\nEmbora o alto teor de açúcar iniba o crescimento bacteriano, esporos de mofo presentes no ar, migalhas de pão, manteiga ou saliva que entram no pote facilitam o surgimento de fungos. Geleias artesanais ou com baixo teor de açúcar têm menor conservação, exigindo cuidados especiais após abertas.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado nas diretrizes do USDA, FDA e MFDS para manter sua geleia fresca e livre de mofo. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Compreender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Regras essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca use uma colher contaminada com saliva, manteiga ou migalhas ⚠️",
-                        "desc": "Inserir uma faca com manteiga, saliva ou migalhas no pote adiciona água e matéria orgânica, fazendo o mofo se multiplicar rapidamente. Use sempre uma colher limpa e totalmente seca."
-                    },
-                    {
-                        "title": "Atenção às diferenças de validade entre geleias tradicionais e com baixo teor de açúcar 🍯",
-                        "desc": "O açúcar atua como conservante natural nas geleias tradicionais. Geleias artesanais ou 'zero açúcar' possuem maior atividade de água e mofam com muito mais facilidade após abertas."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Guarde os potes fechados em local fresco e escuro — Temperatura ambiente (1 ano) 📦",
-                        "text": "Potes fechados a vácuo duram em temperatura ambiente. 💡 Dica de conservação: Mantenha os potes em local fresco e escuro (15-20 °C) longe do sol e do calor do fogão. Conservam-se por até 1 ano sem abrir."
-                    },
-                    {
-                        "name": "Refrigere imediatamente após abrir — Conforme a quantidade de açúcar (1 a 6 meses) ❄️",
-                        "text": "Após aberta, a geleia deve ser refrigerada para evitar mofo. 💡 Dica de conservação: Feche bem a tampa e guarde na geladeira (0-4 °C). Geleias tradicionais duram até 6 meses; versões com baixo teor de açúcar ou artesanais devem ser consumidas em 1 a 3 meses."
-                    },
-                    {
-                        "name": "Limpe a borda do pote e feche bem — Prevenção de mofo 🛡️",
-                        "text": "Resíduos de geleia na borda do pote atraem esporos de mofo presentes no ar. 💡 Dica de conservação: Limpe bem a borda e a tampa com papel toalha seco após o uso antes de fechar firmemente."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "É seguro retirar um pouco de mofo da superfície e comer o resto da geleia?",
-                        "answer": "Com certeza não! O mofo visível é apenas uma parte. Hifas microscópicas e micotoxinas espalham-se facilmente por todo o pote. Se encontrar mofo, descarte o pote inteiro."
-                    },
-                    {
-                        "question": "Por quanto tempo a geleia aberta pode ser mantida na geladeira?",
-                        "answer": "Segundo as diretrizes do USDA, a geleia comercial tradicional aberta pode ser mantida na geladeira (0-4 °C) por até 6 meses. No entanto, geleias sem conservantes ou com baixo teor de açúcar devem ser consumidas em 1 a 3 meses."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Selai Buah agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk selai buah berdasarkan pedoman keselamatan resmi.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Pernahkah Anda membuka toples selai buah lalu mendapati jamur putih atau biru tumbuh di permukaannya beberapa hari kemudian? 🍓\n\nMeskipun kadar gula yang tinggi umumnya menghambat pertumbuhan bakteri, spora jamur di udara, remah roti, mentega, atau air liur yang masuk ke dalam toples dapat memicu tumbuhnya jamur dengan cepat. Selai buatan sendiri atau selai rendah gula memiliki daya simpan yang lebih rendah sehingga memerlukan perawatan khusus setelah dibuka.\n\nDalam panduan ini, kami membagikan panduan penyimpanan selai buah 3 langkah berbasis ilmiah berdasarkan pedoman keselamatan USDA, FDA, dan MFDS untuk menjaga selai Anda tetap segar dan bebas jamur. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan pernah menggunakan sendok yang terkontaminasi air liur, mentega, atau remah roti ⚠️",
-                        "desc": "Memasukkan pisau mentega, air liur, atau remah roti ke dalam toples selai menambah kelembapan dan bahan organik, menyebabkan jamur berkembang dengan cepat. Selalu gunakan sendok khusus yang bersih dan benar-benar kering."
-                    },
-                    {
-                        "title": "Perhatikan perbedaan masa simpan antara selai tradisional dan selai rendah gula 🍯",
-                        "desc": "Kadar gula tinggi bertindak sebagai pengawet alami pada selai tradisional, sedangkan selai rendah gula memiliki aktivitas air lebih tinggi sehingga jauh lebih rentan terhadap jamur dan memiliki masa simpan lebih singkat setelah dibuka."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Simpan toples yang belum dibuka di lemari sejuk dan gelap — Suhu Ruang (1 Tahun) 📦",
-                        "text": "Toples kedap udara yang belum dibuka stabil di suhu ruang. 💡 Tips Penyimpanan: Simpan toples di tempat sejuk dan gelap (15–20°C) jauh dari sinar matahari dan panas kompor. Selai bertahan hingga 1 tahun sebelum dibuka."
-                    },
-                    {
-                        "name": "Segera simpan di kulkas setelah dibuka — Masa Simpan Berdasarkan Kadar Gula (1–6 Bulan) ❄️",
-                        "text": "Setelah dibuka, selai harus disimpan di kulkas untuk mencegah jamur. 💡 Tips Penyimpanan: Tutup rapat dan simpan di kulkas (0–4°C). Selai tradisional bertahan hingga 6 bulan, sedangkan selai rendah gula atau buatan sendiri sebaiknya dihabiskan dalam 1–3 bulan."
-                    },
-                    {
-                        "name": "Bersihkan bibir toples lalu tutup rapat — Mencegah Jamur 🛡️",
-                        "text": "Sisa selai pada bibir toples menarik spora jamur dari udara. 💡 Tips Penyimpanan: Bersihkan bibir toples dan bagian dalam tutup dengan tisu dapur kering setelah digunakan sebelum menutupnya rapat-rapat."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apakah aman pengeruk sedikit jamur di permukaan selai lalu memakan sisanya?",
-                        "answer": "Sama sekali tidak! Jamur yang terlihat hanya sebagian kecil. Hifa mikroskopis dan mikotoksin mudah menyebar ke seluruh toples. Jika ditemukan jamur, segera buang seluruh toples."
-                    },
-                    {
-                        "question": "Berapa lama selai yang sudah dibuka dapat disimpan di dalam kulkas?",
-                        "answer": "Menurut pedoman USDA, selai buah komersial tradisional yang sudah dibuka dapat disimpan di kulkas (0–4°C) hingga 6 bulan. Namun, selai rendah gula atau buatan sendiri tanpa pengawet disarankan untuk dikonsumsi dalam waktu 1 hingga 3 bulan."
-                    }
-                ]
-            }
-        }
+  "how-to-store-jam": {
+    "ingId": "jam",
+    "pubDate": "2026-03-13",
+    "updatedDate": "2026-03-13",
+    "heroImage": "/images/blog/jam_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "과일 잼 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 과일 잼의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
+        "intro": "달콤한 과일 잼을 개봉해 몇 번 먹지도 못했는데, 며칠 뒤 표면에 흰색이나 푸른색 곰팡이가 피어 버린 적 있으시죠? 🍓\n\n잼은 설탕 함량이 높아 세균 번식이 억제되는 편이지만, 공기 중의 곰팡이 포자나 빵 부스러기, 침 등이 닿으면 매우 쉽게 곰팡이가 피어오릅니다. 특히 저당(Low-Sugar) 잼이나 수제 잼은 보존력이 낮아 개봉 후 관리가 더욱 중요합니다.\n\n이번 가이드에서는 미국 농무부(USDA)와 식품의약품안전처(MFDS) 등의 안전 가이드라인을 바탕으로, 과일 잼을 변질 없이 오랫동안 신선하게 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "침이나 버터, 빵 부스러기가 묻은 스푼을 절대 사용하지 마세요 ⚠️",
+            "desc": "버터칼이나 침, 빵 부스러기가 잼 병 안에 유입되면 수분과 영양분이 공급되어 곰팡이가 급격히 번식합니다. 반드시 완전히 깨끗하고 마른 전용 스푼을 사용하세요."
+          },
+          {
+            "title": "저당 잼과 일반 잼의 보관 기간 차이에 주의하세요 🍯",
+            "desc": "일반 잼은 높은 당도가 천연 보존제 역할을 하지만, 당도를 낮춘 저당 잼이나 수제 잼은 수분 활성도가 높아 곰팡이에 매우 취약합니다. 저당 잼은 개봉 후 소비 기한이 훨씬 짧습니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "미개봉 잼은 서늘하고 어두운 팬트리에 보관하기 — 상온 보관 (1년) 📦",
+            "text": "미개봉 밀폐 잼은 가열 진공 포장되어 상온 보관이 가능합니다. 💡 보관 팁: 직사광선과 가스레인지 주변 열기를 피해 서늘하고 어두운 찬장(15~20℃)에 보관하세요. 개봉 전까지 1년 이상 신선도가 유지됩니다."
+          },
+          {
+            "name": "개봉 후 즉시 냉장 보관하기 — 당도별 맞춤 냉장 (1~6개월) ❄️",
+            "text": "잼을 개봉한 후에는 세균과 곰팡이 방지를 위해 반드시 냉장 보관해야 합니다. 💡 보관 팁: 뚜껑을 꽉 닫아 냉장실(0~4℃)에 보관하세요. 일반 당도 잼은 개봉 후 6개월까지, 저당 잼이나 수제 잼은 1~3개월 이내에 소비하는 것이 안전합니다."
+          },
+          {
+            "name": "병 입구를 깨끗이 닦고 밀폐 보관하기 — 곰팡이 방지 🛡️",
+            "text": "병 테두리나 뚜껑 안쪽에 잼이 묻어있으면 공기 중의 곰팡이 포자가 붙어 증식하기 쉽습니다. 💡 보관 팁: 사용 후 마른 키친타월로 병 입구와 뚜껑 테두리를 깔끔하게 닦아낸 뒤 꽉 닫아주세요. 공기 접촉을 차단하고 입구 주변의 곰팡이 발생을 예방할 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "잼 표면에 살짝 핀 곰팡이를 덜어내고 먹어도 되나요?",
+            "answer": "절대 안 됩니다! 눈에 보이는 곰팡이는 일부분일 뿐, 잼의 수분과 당분을 타고 미세한 곰팡이 균사와 독소(마이코톡신)가 병 전체에 퍼졌을 가능성이 높습니다. 곰팡이가 발견된 잼은 아깝더라도 즉시 전량 폐기해야 합니다."
+          },
+          {
+            "question": "잼은 개봉 후 냉장고에서 최대 얼마 동안 보관할 수 있나요?",
+            "answer": "미국 농무부(USDA) 가이드라인에 따르면, 당도가 높은 일반 상업용 과일 잼은 개봉 후 냉장(0~4℃) 보관 시 최대 6개월까지 보관 가능합니다. 다만, 설탕 함량이 적은 저당 잼이나 방부제가 들어가지 않은 수제 잼은 1~3개월 이내에 모두 드시는 것을 권장합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Store Jam (Fruit Preserves): Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for fruit jam based on official safety guidelines.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Have you ever opened a jar of delicious fruit jam only to find white or blue mold growing on the surface a few days later? 🍓\n\nWhile high sugar content generally inhibits bacterial growth, mold spores, breadcrumbs, butter, or saliva entering the jar can cause mold to thrive quickly. Low-sugar or homemade jams have lower natural preservative qualities, making proper post-opening care essential.\n\nIn this guide, introduces a scientifically proven 3-step fruit jam storage guide based on safety guidelines from the USDA, FDA, and MFDS to keep your jam fresh and mold-free. 🛡️",
+        "whyTitle": "Why Store Fruit Jam This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never use a spoon contaminated with saliva, butter, or breadcrumbs ⚠️",
+            "desc": "Introducing a butter knife, saliva, or crumbs into the jam jar adds moisture and organic matter, causing mold to multiply rapidly. Always use a dedicated, clean, and completely dry spoon."
+          },
+          {
+            "title": "Be mindful of shelf-life differences between low-sugar and traditional jams 🍯",
+            "desc": "High sugar levels act as a natural preservative in traditional jam, whereas low-sugar or homemade jams have higher water activity and are far more vulnerable to mold. Low-sugar jams have a much shorter shelf life after opening."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Store unopened jars in a cool, dark pantry — Room Temperature (1 Year) 📦",
+            "text": "Unopened, vacuum-sealed jars are shelf-stable at room temperature. 💡 Storage Tip: Keep jars in a cool, dark pantry (15–20°C / 59–68°F) away from direct sunlight and stove heat. They maintain freshness for up to 1 year unopened."
+          },
+          {
+            "name": "Refrigerate immediately after opening — Customized Refrigeration (1–6 Months) ❄️",
+            "text": "Once opened, jam must be refrigerated to prevent bacterial and mold contamination. 💡 Storage Tip: Seal the lid tightly and store in the refrigerator (0–4°C / 32–39°F). Traditional high-sugar jam lasts up to 6 months refrigerated, while low-sugar or artisan jams should be consumed within 1–3 months."
+          },
+          {
+            "name": "Wipe the rim clean and seal tightly — Mold Prevention 🛡️",
+            "text": "Jam residue on the jar rim attracts airborne mold spores, encouraging growth under the lid. 💡 Storage Tip: After each use, thoroughly wipe the rim and inner lid with a dry paper towel before sealing tightly to minimize air exposure and prevent mold around the opening."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Is it safe to scrape off a small spot of mold on top of the jam and eat the rest?",
+            "answer": "Absolutely not! The visible spot is only a fraction of the mold. Microscopic mold hyphae and mycotoxins spread easily through the moisture and sugar matrix of the jar. Always discard the entire jar if mold appears."
+          },
+          {
+            "question": "How long can opened jam be kept in the refrigerator?",
+            "answer": "According to USDA guidelines, commercial fruit jam with traditional sugar levels can be stored in the refrigerator (0–4°C) for up to 6 months after opening. Low-sugar or preservative-free artisan jams should be consumed within 1 to 3 months."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ジャム（果実ジャム）を新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくジャムの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
+        "intro": "せっかく開けたジャムを数回食べただけで、数日後に表面に白いカビが生えて捨ててしまった経験はありませんか？🍓\n\nジャムは糖度が高いため細菌の繁殖が抑えられやすい食品ですが、空気中のカビの胞子やパンくず、唾液などが混入すると非常にカビが発生しやすくなります。特に低糖度ジャムや手作りジャムは保存性が低いため、開封後の meintenance が非常に重要です。\n\n本記事では、米国農務省（USDA）、FDA、食品医薬品安全処（MFDS）などのガイドラインに基づき、ジャムを傷ませず長期間新鮮に保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "唾液やバター、パンくずのついたスプーンは絶対に使用しないでください ⚠️",
+            "desc": "バターナイフや唾液、パンくずがジャム瓶の中に入ると、水分や栄養分が供給されカビが急激に繁殖します。必ず完全に清潔で乾いた専用のスプーンを使用してください。"
+          },
+          {
+            "title": "低糖ジャムと一般的なジャムの保存期間の違いに注意してください 🍯",
+            "desc": "一般的なジャムは高い糖度が天然の防腐剤の役割を果たしますが、糖分を抑えた低糖ジャムや手作りジャムは水分活性度が高くカビに対して非常に脆弱です。低糖ジャムは開封後の賞味期限がはるかに短くなります。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "未開封のジャムは涼しく暗いパントリーで保存する — 常温保存 (1年間) 📦",
+            "text": "未開封の密閉ジャムは加熱真空包装されているため常温保存が可能です。💡保存のコツ：直射日光やコンロ周辺の熱を避け、涼しく暗い棚（15〜20℃）で保存してください。開封前であれば1年以上新鮮さを維持できます。"
+          },
+          {
+            "name": "開封後はすぐに冷蔵保存する — 糖度別の冷蔵管理 (1〜6ヶ月間) ❄️",
+            "text": "開封後のジャムは、細菌やカビを防ぐため必ず冷蔵保存する必要があります。💡保存のコツ：フタをしっかり閉めて冷蔵室（0〜4℃）で保存してください。一般的な高糖度ジャムは開封後6ヶ月まで、低糖ジャムや手作りジャムは1〜3ヶ月以内に使い切るのが安全です。"
+          },
+          {
+            "name": "瓶の口をきれいに拭いて密閉保存する — カビ防止 🛡️",
+            "text": "瓶のフチやフタの裏側にジャムが付着したままだと、空気中のカビ胞子が付着して増殖しやすくなります。💡保存のコツ：使用後は乾いた wepe（キッチンペーパー）で瓶の口とフタのフチをきれいに拭き取り、フタをしっかり閉めてください。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ジャムの表面に少し生えたカビを取り除けば食べても大丈夫ですか？",
+            "answer": "絶対にダメです！目に見えるカビはほんの一部に過ぎず、ジャムの水分や糖分を伝って微小なカビ菌糸や毒素（マイコトキシン）が瓶全体に広がっている可能性が高いです。カビが見つかったジャムは全量廃棄してください。"
+          },
+          {
+            "question": "ジャムは開封後、冷蔵庫で最大何日間保存できますか？",
+            "answer": "米国農務省（USDA）のガイドラインによると、糖度の高い一般的な商業用ジャムは開封後、冷蔵（0〜4℃）保存で最大6ヶ月間保存可能です。ただし、砂糖控えめの低糖ジャムや保存料なしの手作りジャムは1〜3ヶ月以内に使い切ることを推奨します。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持果酱新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解果酱的最佳储存温度、方式和保鲜时长。",
+        "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "您是否曾遇到刚开封没吃几次的果酱，几天后表面就长出了白色或青色霉菌而不得不扔掉的情况？🍓\n\n果酱虽然因含糖量高而相对抑制细菌，但一旦接触空气中的霉菌孢子、面包屑或唾液，极易滋生霉菌。特别是低糖果酱或手工果酱，防腐能力较弱，开封后的保存管理尤为重要。\n\n本指南将基于美国农务部(USDA)、FDA和韩国食品医药品安全处(MFDS)的安全指南，为您带来3步科学保存秘诀，帮您长久保持果酱的新鲜与美味。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "切勿使用沾有唾液、黄油或面包屑的勺子 ⚠️",
+            "desc": "将抹过黄油的刀具、沾有唾液或面包屑的勺子伸入果酱瓶，会带入水分和营养物质，导致霉菌疯狂滋生。请务必使用完全干净且干燥的专用勺子。"
+          },
+          {
+            "title": "注意低糖果酱与普通果酱保质期的差异 🍯",
+            "desc": "普通果酱的高糖分充当了天然防腐剂，而低糖果酱或手工果酱水分活性较高，对霉菌非常敏感。低糖果酱开封后的食用期限要短得多。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "未开封果酱置于阴凉干燥橱柜 — 常温储存 (1年) 📦",
+            "text": "未开封的密封果酱经过加热真空包装，可在常温下保存。💡储存小贴士：请存放在避开阳光直射和燃气灶热源的阴凉干燥橱柜（15~20℃）中。未开封前可保鲜1年以上。"
+          },
+          {
+            "name": "开封后立即冷藏 — 按糖度分类冷藏 (1~6个月) ❄️",
+            "text": "果酱开封后必须冷藏，以防细菌和霉菌污染。💡储存小贴士：盖紧瓶盖放入冰箱冷藏室（0~4℃）。普通高糖果酱开封后可冷藏保存长达6个月，低糖果酱或手工果酱建议在1~3个月内食用完毕。"
+          },
+          {
+            "name": "擦净瓶口并紧密密封 — 防止发霉 🛡️",
+            "text": "瓶口边缘或瓶盖内侧残留果酱，容易吸引空气中的霉菌孢子并在此滋生。💡储存小贴士：每次使用后，请用干纸巾将瓶口及瓶盖边缘擦拭干净并盖紧瓶盖，最大限度阻绝空气 contact。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "果酱表面长了一点点霉菌，刮掉后还能吃吗？",
+            "answer": "绝对不能！肉眼可见的霉菌只是冰山一角，微小的霉菌菌丝和毒素（真菌毒素）很可能已经顺着果酱的水分和糖分渗透至整瓶。一旦发现发霉，必须整瓶丢弃。"
+          },
+          {
+            "question": "果酱开封后在冰箱里最多可以保存多久？",
+            "answer": "根据美国农务部(USDA)指南，含糖量高的普通商业果酱开封后冷藏（0~4℃）最多可保存6个月。但对于低糖果酱或不含防腐剂的手工果酱，建议在1至3个月内吃完。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener la mermelada fresca: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la mermelada según las directrices oficiales de seguridad.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "¿Alguna vez abrió un frasco de mermelada y, a los pocos días, descubrió moho blanco o azul en la superficie? 🍓\n\nAunque el alto contenido de azúcar inhibe el crecimiento bacteriano, las esporas de moho en el aire, las migas de pan, la mantequilla o la saliva que entran al frasco facilitan la proliferación de moho. Las mermeladas bajas en azúcar o artesanales tienen menor capacidad de conservación, por lo que el cuidado tras la apertura es vital.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por el USDA, la FDA y el MFDS para mantener su mermelada fresca y libre de moho. 🛡️",
+        "whyTitle": "¿Por qué almacenarla así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Nunca use una cuchara contaminada con saliva, mantequilla o migas ⚠️",
+            "desc": "Meter un cuchillo de mantequilla, saliva o migas dentro del frasco aporta agua y materia orgánica, haciendo que el moho se multiplique rápidamente. Utilice siempre una cuchara limpia y totalmente seca."
+          },
+          {
+            "title": "Atención a las diferencias de vida útil entre mermeladas tradicionales y bajas en azúcar 🍯",
+            "desc": "El azúcar actúa como conservante natural en las mermeladas tradicionales, mientras que las versiones bajas en azúcar tienen mayor actividad de agua y son muy vulnerables al moho, durando mucho menos tras su apertura."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Guarde los frascos cerrados en una despensa fresca y oscura — Temperatura ambiente (1 año) 📦",
+            "text": "Los frascos cerrados al vacío se conservan a temperatura ambiente. 💡 Consejo de almacenamiento: Guarde los frascos en una despensa fresca (15-20 °C) lejos del fuego y la luz solar. Se mantendrán frescos hasta por 1 año sin abrir."
+          },
+          {
+            "name": "Refrigere inmediatamente después de abrir — Según el contenido de azúcar (1 a 6 meses) ❄️",
+            "text": "Una vez abierta, la mermelada debe refrigerarse para evitar contaminación por mohos. 💡 Consejo de almacenamiento: Cierre bien la tapa y manténgala en el refrigerador (0-4 °C). La mermelada tradicional dura hasta 6 meses; las bajas en azúcar o artesanales deben consumirse en 1 a 3 meses."
+          },
+          {
+            "name": "Limpie el borde del frasco y selle herméticamente — Prevención de moho 🛡️",
+            "text": "Los restos de mermelada en el borde del frasco atraen esporas de moho presentes en el aire. 💡 Consejo de almacenamiento: Limpie bien el borde y la tapa con papel de cocina seco después de cada uso antes de cerrar con firmeza."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Es seguro retirar una capa pequeña de moho de la mermelada y comer el resto?",
+            "answer": "¡Absolutamente no! El moho visible es solo una parte. Sus hifas microscópicas y micotoxinas se extienden fácilmente a través de la humedad y el azúcar del frasco. Si aparece moho, deseche todo el frasco."
+          },
+          {
+            "question": "¿Cuánto tiempo se puede conservar la mermelada abierta en el refrigerador?",
+            "answer": "Según las directrices del USDA, la mermelada comercial tradicional abierta se puede conservar en el refrigerador (0-4 °C) hasta por 6 meses. Sin embargo, las mermeladas bajas en azúcar o artesanales sin conservantes deben consumirse en un plazo de 1 a 3 meses."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver la confiture fraîche : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la confiture selon les directives officielles de sécurité.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Avez-vous déjà ouvert un pot de confiture pour y découvrir quelques jours plus tard de la moisissure blanche ou bleue en surface ? 🍓\n\nSi le sucre inhibe généralement la prolifération bactérienne, les spores de moisissure flottant dans l'air, les miettes de pain, le beurre ou la salive introduced dans le pot favorisent le développement des moisissures. Les confitures allégées en sucre ou artisanales étant moins conservatrices, une gestion rigoureuse après ouverture est indispensable.\n\nDans ce guide, vous présente un guide scientifique en 3 étapes basé sur les recommandations du USDA, de la FDA et du MFDS pour conserver votre confiture fraîche et sans moisissure. 🛡️",
+        "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "N'utilisez jamais une cuillère souillée de salive, de beurre ou de miettes ⚠️",
+            "desc": "Introduire un couteau à beurre, de la salive ou des miettes dans le pot apporte de l'eau et de la matière organique, provoquant la multiplication rapide des moisissures. Utilisez toujours une cuillère propre et parfaitement sèche."
+          },
+          {
+            "title": "Attention à la durée de conservation des confitures allégées en sucre 🍯",
+            "desc": "Le fort taux de sucre agit comme un conservateur naturel dans les confitures traditionnelles. En revanche, les confitures allégées ou artisanales ont une activité de l'eau plus élevée et s'altèrent beaucoup plus vite après ouverture."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Conserver les pots non ouverts dans un placard frais et sombre — Stockage (1 an) 📦",
+            "text": "Les pots fermés sous vide se conservent à température ambiante. 💡 Astuce de conservation : Gardez les pots dans un endroit frais et sombre (15–20 °C) à l'abri du soleil et de la chaleur de la cuisinière. Ils se conservent jusqu'à 1 an non ouverts."
+          },
+          {
+            "name": "Réfrigérer immédiatement après ouverture — Selon la teneur en sucre (1 à 6 mois) ❄️",
+            "text": "Une fois ouverte, la confiture doit être conservée au frais pour empêcher la moisissure. 💡 Astuce de conservation : Fermez bien le couvercle et placez au réfrigérateur (0–4 °C). La confiture traditionnelle se garde jusqu'à 6 mois, tandis que les confitures allégées ou artisanales doivent être consommées sous 1 à 3 mois."
+          },
+          {
+            "name": "Essuyer le rebord du pot et fermer hermétiquement — Prévenir la moisissure 🛡️",
+            "text": "Les résidus de confiture sur le rebord du pot attirent les spores de moisissure en suspension dans l'air. 💡 Astuce de conservation : Après chaque utilisation, essuyez le rebord et le couvercle avec de l'essuie-tout sec avant de fermer hermétiquement."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Est-il sûr d'enlever un peu de moisissure à la surface de la confiture et de consommer le reste ?",
+            "answer": "Absolument pas ! La partie visible n'est qu'une fraction de la moisissure. Les hyphes microscopiques et les mycotoxines se propagent facilement à travers la confiture. En présence de moisissure, jetez tout le pot."
+          },
+          {
+            "question": "Combien de temps peut-on conserver de la confiture ouverte au réfrigérateur ?",
+            "answer": "Selon les directives du USDA, la confiture de fruits commerciale traditionnelle ouverte se conserve au réfrigérateur (0–4 °C) jusqu'à 6 mois. Les confitures allégées en sucre ou artisanales sans conservateurs doivent être consommées dans les 1 à 3 mois."
+          }
+        ]
+      },
+      "de": {
+        "title": "Marmelade (Fruchtaufstrich) richtig frisch halten: Wissenschaftlicher Ratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Marmelade basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Haben Sie schon einmal ein Glas Konfitüre geöffnet, nur um Tage später weißen oder bläulichen Schimmel an der Oberfläche zu entdecken? 🍓\n\nObwohl ein hoher Zuckergehalt das Bakterienwachstum hemmt, begünstigen Schimmelsporen aus der Luft, Brotkrümel, Butter oder Speichel im Glas ein schnelles Schimmelwachstum. Besonders zuckerreduzierte oder selbstgemachte Aufstriche verderben rasch und erfordern besondere Pflege nach dem Öffnen.\n\nHeute stellt Ihnen  einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von USDA, FDA und MFDS basiert, um Ihre Konfitüre schimmelfrei und frisch zu halten. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Verwenden Sie niemals Besteck mit Speichel, Butter oder Krümeln ⚠️",
+            "desc": "Das Eintauchen eines Buttermessers oder eines benutzten Löffels führt Feuchtigkeit und organische Stoffe zu, was das Schimmelwachstum drastisch beschleunigt. Verwenden Sie stets einen sauberen, völlig trockenen Löffel."
+          },
+          {
+            "title": "Beachten Sie Haltbarkeitsunterschiede bei zuckerreduzierten Aufstrichen 🍯",
+            "desc": "Hoher Zucker wirkt als natürliches Konservierungsmittel. Zuckerreduzierte oder selbstgemachte Fruchtaufstriche haben eine höhere Wasseraktivität und schimmeln viel schneller. Sie müssen nach dem Öffnen rascher verbraucht werden."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Ungeöffnete Gläser in einer kühlen Speisekammer lagern — Raumtemperatur (1 Jahr) 📦",
+            "text": "Ungeöffnete, vakuumversiegelte Gläser sind bei Raumtemperatur haltbar. 💡 Lagerungstipp: Lagern Sie Gläser an einem kühlen, dunklen Ort (15–20 °C) fern von Sonnenlicht und Herd. Ungeöffnet halten sie bis zu 1 Jahr."
+          },
+          {
+            "name": "Nach dem Öffnen sofort kühlen — Haltbarkeit nach Zuckergehalt (1–6 Monate) ❄️",
+            "text": "Ein angebrochenes Glas muss gekühlt werden, um Schimmelbildung zu verhindern. 💡 Lagerungstipp: Verschließen Sie den Deckel fest und stellen Sie das Glas in den Kühlschrank (0–4 °C). Klassische Konfitüre hält gekühlt bis zu 6 Monate, zuckerreduzierte Varianten sollten innerhalb von 1–3 Monaten verbraucht werden."
+          },
+          {
+            "name": "Glasrand sauber wischen und fest verschließen — Schimmel vorbeugen 🛡️",
+            "text": "Marmeladenreste am Glasrand ziehen Schimmelsporen aus der Luft an. 💡 Lagerungstipp: Wischen Sie den Rand und den Deckel nach jedem Gebrauch mit einem trockenen Küchenpapier gründlich ab, um Sauerstoffkontakt und Schimmel zu vermeiden."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Kann man Schimmel an der Oberfläche von Marmelade einfach entfernen und den Rest essen?",
+            "answer": "Auf keinen Fall! Der sichtbare Schimmel ist nur die Spitze des Eisbergs. Mikroskopische Schimmelpilzfäden und Gifte (Mykotoxine) breiten sich im gesamten Glas aus. Bei Schimmelbefall muss das ganze Glas entsorgt werden."
+          },
+          {
+            "question": "Wie lange hält sich geöffnete Marmelade im Kühlschrank?",
+            "answer": "Laut USDA-Richtlinien hält sich herkömmliche gewerblich hergestellte Konfitüre nach dem Öffnen im Kühlschrank (0–4 °C) bis zu 6 Monate. Zuckerreduzierte oder selbstgemachte Aufstriche ohne Konservierungsstoffe sollten innerhalb von 1 bis 3 Monaten verbraucht werden."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar geleia de frutas fresca: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para geleia de frutas com base em diretrizes oficiais de segurança.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Você já abriu um pote de geleia de frutas e descobriu, dias depois, mofo branco ou azulado na superfície? 🍓\n\nEmbora o alto teor de açúcar iniba o crescimento bacteriano, esporos de mofo presentes no ar, migalhas de pão, manteiga ou saliva que entram no pote facilitam o surgimento de fungos. Geleias artesanais ou com baixo teor de açúcar têm menor conservação, exigindo cuidados especiais após abertas.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado nas diretrizes do USDA, FDA e MFDS para manter sua geleia fresca e livre de mofo. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Compreender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Regras essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca use uma colher contaminada com saliva, manteiga ou migalhas ⚠️",
+            "desc": "Inserir uma faca com manteiga, saliva ou migalhas no pote adiciona água e matéria orgânica, fazendo o mofo se multiplicar rapidamente. Use sempre uma colher limpa e totalmente seca."
+          },
+          {
+            "title": "Atenção às diferenças de validade entre geleias tradicionais e com baixo teor de açúcar 🍯",
+            "desc": "O açúcar atua como conservante natural nas geleias tradicionais. Geleias artesanais ou 'zero açúcar' possuem maior atividade de água e mofam com muito mais facilidade após abertas."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Guarde os potes fechados em local fresco e escuro — Temperatura ambiente (1 ano) 📦",
+            "text": "Potes fechados a vácuo duram em temperatura ambiente. 💡 Dica de conservação: Mantenha os potes em local fresco e escuro (15-20 °C) longe do sol e do calor do fogão. Conservam-se por até 1 ano sem abrir."
+          },
+          {
+            "name": "Refrigere imediatamente após abrir — Conforme a quantidade de açúcar (1 a 6 meses) ❄️",
+            "text": "Após aberta, a geleia deve ser refrigerada para evitar mofo. 💡 Dica de conservação: Feche bem a tampa e guarde na geladeira (0-4 °C). Geleias tradicionais duram até 6 meses; versões com baixo teor de açúcar ou artesanais devem ser consumidas em 1 a 3 meses."
+          },
+          {
+            "name": "Limpe a borda do pote e feche bem — Prevenção de mofo 🛡️",
+            "text": "Resíduos de geleia na borda do pote atraem esporos de mofo presentes no ar. 💡 Dica de conservação: Limpe bem a borda e a tampa com papel toalha seco após o uso antes de fechar firmemente."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "É seguro retirar um pouco de mofo da superfície e comer o resto da geleia?",
+            "answer": "Com certeza não! O mofo visível é apenas uma parte. Hifas microscópicas e micotoxinas espalham-se facilmente por todo o pote. Se encontrar mofo, descarte o pote inteiro."
+          },
+          {
+            "question": "Por quanto tempo a geleia aberta pode ser mantida na geladeira?",
+            "answer": "Segundo as diretrizes do USDA, a geleia comercial tradicional aberta pode ser mantida na geladeira (0-4 °C) por até 6 meses. No entanto, geleias sem conservantes ou com baixo teor de açúcar devem ser consumidas em 1 a 3 meses."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Selai Buah agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk selai buah berdasarkan pedoman keselamatan resmi.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Pernahkah Anda membuka toples selai buah lalu mendapati jamur putih atau biru tumbuh di permukaannya beberapa hari kemudian? 🍓\n\nMeskipun kadar gula yang tinggi umumnya menghambat pertumbuhan bakteri, spora jamur di udara, remah roti, mentega, atau air liur yang masuk ke dalam toples dapat memicu tumbuhnya jamur dengan cepat. Selai buatan sendiri atau selai rendah gula memiliki daya simpan yang lebih rendah sehingga memerlukan perawatan khusus setelah dibuka.\n\nDalam panduan ini, kami membagikan panduan penyimpanan selai buah 3 langkah berbasis ilmiah berdasarkan pedoman keselamatan USDA, FDA, dan MFDS untuk menjaga selai Anda tetap segar dan bebas jamur. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan pernah menggunakan sendok yang terkontaminasi air liur, mentega, atau remah roti ⚠️",
+            "desc": "Memasukkan pisau mentega, air liur, atau remah roti ke dalam toples selai menambah kelembapan dan bahan organik, menyebabkan jamur berkembang dengan cepat. Selalu gunakan sendok khusus yang bersih dan benar-benar kering."
+          },
+          {
+            "title": "Perhatikan perbedaan masa simpan antara selai tradisional dan selai rendah gula 🍯",
+            "desc": "Kadar gula tinggi bertindak sebagai pengawet alami pada selai tradisional, sedangkan selai rendah gula memiliki aktivitas air lebih tinggi sehingga jauh lebih rentan terhadap jamur dan memiliki masa simpan lebih singkat setelah dibuka."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Simpan toples yang belum dibuka di lemari sejuk dan gelap — Suhu Ruang (1 Tahun) 📦",
+            "text": "Toples kedap udara yang belum dibuka stabil di suhu ruang. 💡 Tips Penyimpanan: Simpan toples di tempat sejuk dan gelap (15–20°C) jauh dari sinar matahari dan panas kompor. Selai bertahan hingga 1 tahun sebelum dibuka."
+          },
+          {
+            "name": "Segera simpan di kulkas setelah dibuka — Masa Simpan Berdasarkan Kadar Gula (1–6 Bulan) ❄️",
+            "text": "Setelah dibuka, selai harus disimpan di kulkas untuk mencegah jamur. 💡 Tips Penyimpanan: Tutup rapat dan simpan di kulkas (0–4°C). Selai tradisional bertahan hingga 6 bulan, sedangkan selai rendah gula atau buatan sendiri sebaiknya dihabiskan dalam 1–3 bulan."
+          },
+          {
+            "name": "Bersihkan bibir toples lalu tutup rapat — Mencegah Jamur 🛡️",
+            "text": "Sisa selai pada bibir toples menarik spora jamur dari udara. 💡 Tips Penyimpanan: Bersihkan bibir toples dan bagian dalam tutup dengan tisu dapur kering setelah digunakan sebelum menutupnya rapat-rapat."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah aman pengeruk sedikit jamur di permukaan selai lalu memakan sisanya?",
+            "answer": "Sama sekali tidak! Jamur yang terlihat hanya sebagian kecil. Hifa mikroskopis dan mikotoksin mudah menyebar ke seluruh toples. Jika ditemukan jamur, segera buang seluruh toples."
+          },
+          {
+            "question": "Berapa lama selai yang sudah dibuka dapat disimpan di dalam kulkas?",
+            "answer": "Menurut pedoman USDA, selai buah komersial tradisional yang sudah dibuka dapat disimpan di kulkas (0–4°C) hingga 6 bulan. Namun, selai rendah gula atau buatan sendiri tanpa pengawet disarankan untuk dikonsumsi dalam waktu 1 hingga 3 bulan."
+          }
+        ]
+      }
     }
+  }
 }

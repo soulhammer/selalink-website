@@ -1,459 +1,459 @@
 {
-    "golden-hamster-care": {
-        "pubDate": "2026-01-21",
-        "updatedDate": "2026-01-21",
-        "locales": {
-            "ko": {
-                "title": "골든 햄스터의 굴 파기 본능과 스트레스 없는 3단계 데일리 루틴",
-                "description": "야행성이며 단독 생활을 하는 골든 햄스터. 낮 수면 시간의 정적 환경 조성과 볼주머니 수집 본능 충족, 쳇바퀴 정비를 통한 3단계 스트레스 예방 케어를 알아봅니다.",
-                "authority": "Humane Society 햄스터 케어 가이드 및 수의학 행동 지침",
-                "profile": {
-                    "breed": "골든 햄스터 (Mesocricetus auratus)",
-                    "lifespan": "2 ~ 3년",
-                    "sleep_pattern": "14 ~ 16시간 (야행성 및 조용한 터널 선호)",
-                    "temperament": "겁이 많음, 경계심 강함, 호기심 많음, 독립적"
-                },
-                "intro": "작고 귀여운 골든 햄스터는 보호자와 단독 공간에서 조용하게 생활할 수 있어 많은 이들의 사랑을 받는 소형 반려동물입니다. 하지만 자연 상태에서 굴을 파고 살며 매일 수 킬로미터를 달리던 습성이 그대로 남아있어, 좁은 케이지와 시끄러운 환경에서 쉽게 극도의 스트레스를 받습니다. 스트레스를 받은 햄스터는 이갈이를 하며 딱딱 소리를 내거나 케이지 철창을 갉아 이빨이 부러질 수 있습니다. 이번 가이드에서는 골든 햄스터의 경계 신호를 알아보고, 스트레스 없이 아늑한 하루를 만들어주는 3단계 데일리 케어 루틴을 소개합니다.",
-                "whyTitle": "골든 햄스터의 의사소통: 이갈이 경고와 경계 행동",
-                "whyDesc": "골든 햄스터는 극도로 화가 나거나 두려움을 느낄 때 **'이갈이 및 갉작거림(Teeth Chattering)'** 소리를 내며 다가오지 말 것을 경고합니다. 또한 갑작스러운 소음에 놀라면 **'귀를 뒤로 눕히고 굳는 행동(Ear Flattening)'**으로 주변을 강하게 경계합니다. 이러한 예민한 바디 랭귀지를 빠르게 포착하여 편안한 단독 공간을 마련해 주는 것이 핵심입니다.",
-                "body_signals": [
-                    {
-                        "name": "이갈이 딱딱 소리 (Teeth Chattering)",
-                        "meaning": "위협을 느끼거나 몹시 예민해져 있으니 가까이 다가오지 말라는 강력한 경고입니다.",
-                        "response": "핸들링이나 청소를 즉시 멈추고 햄스터가 은신처에서 마음을 가라앉히도록 시간을 주며 조용히 해줍니다."
-                    },
-                    {
-                        "name": "귀 눕히고 동작 멈추기 (Ear Flattening)",
-                        "meaning": "갑작스러운 진동이나 낯선 시각 자극에 큰 위협을 느끼고 숨을 죽인 긴장 상태입니다.",
-                        "response": "가까이서 소리를 지르거나 움직이지 말고 조명을 조금 낮춰 어둡고 아늑하게 유지해 줍니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 은신처 주변 정돈 및 신선한 식수 교체",
-                        "text": "햄스터가 잠드는 시간인 아침에는 은신처 내부를 직접 건드리지 않고, 물그릇의 물을 깨끗하게 갈아주고 주변 오물만 가볍게 치웁니다."
-                    },
-                    {
-                        "name": "낮: 깊은 수면을 돕는 정적 및 암실 환경 유지",
-                        "text": "낮 동안 긴 수면 시간을 충분히 확보할 수 있도록 케이지 주변에 시끄러운 가전 기기 사용을 자제하고 그늘막을 쳐줍니다."
-                    },
-                    {
-                        "name": "저녁: 쳇바퀴 정밀 검사 및 고단백 저녁 식사 급여",
-                        "text": "야행성 활동량이 폭발하기 전에 쳇바퀴가 흔들리지 않고 안전한지 점검하고, 영양이 풍부한 전용 사료와 볼주머니 보상 간식을 줍니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "햄스터가 철장을 자꾸 갉는데 어떡하나요?",
-                        "answer": "철장을 갉는 행동은 케이지 면적이 너무 좁아 답답함을 호소하거나, 갉을 수 있는 이갈이 완구가 부족할 때 생깁니다. 넓은 터널형 리빙박스로 교체하고 이갈이용 나무 장난감을 많이 배치해 주세요."
-                    },
-                    {
-                        "question": "모래 목욕탕은 꼭 설치해야 하나요?",
-                        "answer": "골든 햄스터는 모래를 파면서 등껍질과 피지의 기름기를 청결히 씻어냅니다. 따라서 털 건강과 스트레스 해소를 위해 전용 목욕 모래가 있는 화장실 겸 목욕탕을 반드시 제공해 주는 것이 좋습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Golden Hamster Tunneling Instinct and 3-Step Stress-Free Daily Routine",
-                "description": "Caring for the solitary and nocturnal Golden Hamster. Learn a 3-step routine covering silent daytime environments, cheek stuffing instincts, and wheel checkups to prevent high stress.",
-                "authority": "Humane Society Hamster Care Guide and Veterinary Behavior Standards",
-                "profile": {
-                    "breed": "Golden Hamster (Mesocricetus auratus / Syrian Hamster)",
-                    "lifespan": "2 - 3 Years",
-                    "sleep_pattern": "14 - 16 Hours (Nocturnal & Burrow Preferred)",
-                    "temperament": "Timid, Vigilant, Curious, Solitary"
-                },
-                "intro": "The small and adorable Golden Hamster is a beloved solitary pet. However, they retain their wild instincts of digging burrows and running miles daily. In confined cages or noisy surroundings, they easily suffer from extreme stress. Stressed hamsters may grind their teeth loudly or chew cage bars, risking broken teeth. In this guide, we explain the warning signals of Golden Hamsters and introduce a 3-step daily care routine for a cozy, stress-free day.",
-                "whyTitle": "Golden Hamster Communication: Teeth Chattering and Vigilance Signals",
-                "whyDesc": "Golden Hamsters express anger or fear by making a distinct teeth chattering sound, warning you to keep your distance. Additionally, when startled by sudden noises, they show ear flattening behavior and freeze. Recognizing these delicate body language signals is the key to maintaining their comfort.",
-                "body_signals": [
-                    {
-                        "name": "Teeth Chattering (Grinding & Clicking)",
-                        "meaning": "A strong warning that they feel threatened or extremely sensitive. Do not approach.",
-                        "response": "Immediately stop handling or cleaning, and give them quiet space to calm down in their hideout."
-                    },
-                    {
-                        "name": "Ear Flattening & Freezing",
-                        "meaning": "A state of high tension and caution, triggered by sudden vibrations or unfamiliar visual stimuli.",
-                        "response": "Avoid loud noises or sudden movements nearby, and dim the lights to keep the room dark and cozy."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Organizing Hideout Surroundings & Water Replacement",
-                        "text": "Since hamsters sleep in the morning, do not disturb the inside of their hideout. Replace water and lightly clean waste around the cage."
-                    },
-                    {
-                        "name": "Afternoon: Keeping a Quiet & Dark Environment for Deep Sleep",
-                        "text": "Ensure they get plenty of uninterrupted sleep by avoiding noisy home appliances nearby and shading the cage."
-                    },
-                    {
-                        "name": "Evening: Thorough Wheel Inspection & High-Protein Dinner",
-                        "text": "Before their nocturnal activity peaks, check if the running wheel is stable and safe. Feed nutritious hamster pellets and reward treats."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why does my hamster keep chewing on the cage bars?",
-                        "answer": "Bar-chewing indicates severe boredom from a small cage or lack of chewing toys. Replace the cage with a large glass tank or bin cage, and add wooden chew toys."
-                    },
-                    {
-                        "question": "Is a sand bath absolutely necessary?",
-                        "answer": "Yes. Golden Hamsters clean their fur and remove excess skin oils by digging in sand. Providing a sand bath with appropriate hamster-safe sand is vital for their coat health."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ゴールデンハムスターの穴掘り本能とストレスのない3ステップ日常ルーティン",
-                "description": "夜行性で単独生活を好むゴールデンハムスター。日中の静かな睡眠環境づくり、頬袋に食べ物を集める本能の充足、回し車の整備による3ステップのストレス予防ケアを解説します。",
-                "authority": "Humane Society ハムスターケアガイドおよび獣医行動学基準",
-                "profile": {
-                    "breed": "ゴールデンハムスター (Mesocricetus auratus / シリアンハムスター)",
-                    "lifespan": "2 〜 3年",
-                    "sleep_pattern": "14 〜 16時間 (夜行性・静かなトンネルを好む)",
-                    "temperament": "臆病、警戒心が強い、好奇心旺盛、独立心がある"
-                },
-                "intro": "小さくて愛らしいゴールデンハムスターは、飼い主と静かに暮らせる人気の小動物ペットです。しかし、野生環境で巣穴を掘って生活し、毎日数キロメートルも走っていた習性が残っているため、狭いケージや騒がしい環境では非常に強いストレスを感じやすいです。ストレスを感じたハムスターは、歯ぎしりをしてカチカチと音を立てたり、ケージの金網をかじって歯を折ってしまう危険があります。今回はゴールデンハムスターの警戒サインを学び、ストレスのない快適な一日を作るための3ステップ日常ケアアルーティンをご紹介します。",
-                "whyTitle": "ゴールデンハムスターの意思表示：歯ぎしり警告と警戒行動",
-                "whyDesc": "ゴールデンハムスターは非常に怒っている時や恐怖を感じている時、**『歯ぎしり（Teeth Chattering）』**をしてカチカチと音を鳴らし、近づかないよう警告します。また、突然の騒音に驚くと**『耳を伏せて静止する行動（Ear Flattening）』**を見せ、周囲を強く警戒します。これらの警戒サインを素早く察知し、落ち着ける個別のスペースを確保することが重要です。",
-                "body_signals": [
-                    {
-                        "name": "歯ぎしりの音 (Teeth Chattering)",
-                        "meaning": "脅威を感じているか、非常に神経質になっているため、近くに寄るなという強い警告です。",
-                        "response": "ふれあいや掃除をすぐに中止し、ハムスターが隠れ家で落ち着くまで静かに見守りましょう。"
-                    },
-                    {
-                        "name": "耳を伏せて静止する (Ear Flattening)",
-                        "meaning": "突然の振動や見慣れない視覚刺激に大きな脅威を感じ、息を潜めて緊張している状態です。",
-                        "response": "近くで大声を出したり動いたりせず、部屋を少し暗くして居心地の良い環境を作ってあげましょう。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：隠れ家周辺の整理と新鮮な水の交換",
-                        "text": "ハムスターが眠りにつく朝は、隠れ家の内部には直接触れず、給水器の水を新鮮なものに変え、周囲の汚れだけを軽く掃除します。"
-                    },
-                    {
-                        "name": "昼：深い眠りを助ける静かで暗い環境の維持",
-                        "text": "日中に十分な睡眠時間を確保できるよう、ケージの近くでの騒々しい家電製品の使用を控え、遮光カバーをかけます。"
-                    },
-                    {
-                        "name": "夜：回し車の精密検査と高タンパクな夕食の給餌",
-                        "text": "夜間の活動量が爆発する前に、回し車がぐらついていないか安全を確認し、栄養豊富なペレットと頬袋用のトリーツを与えます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "ハムスターがケージの金網をかじるのですが、どうすればいいですか？",
-                        "answer": "金網をかじるのは、ケージが狭くてストレスを感じているか、かじるためのおもちゃが不足している証拠です。広い水槽やプラスチック衣装ケースに変え、かじり木を多めに配置してあげてください。"
-                    },
-                    {
-                        "question": "砂浴び場は必ず設置しなければなりませんか？",
-                        "answer": "ゴールデンハムスターは砂を掘ることで、被毛の余分な皮脂汚れを落とします。毛並みの健康維持とストレス解消のため、ハムスター専用の浴び砂を入れたお風呂を設置することを強くおすすめします。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "金仓鼠的掘洞本能与无压力3阶段每日护理流程",
-                "description": "护理独居且夜行性的金仓鼠。了解涵盖白天安静环境、颊囊收集本能以及跑轮检查的3阶段护理，有效预防高压状态。",
-                "authority": "Humane Society 仓鼠护理指南及兽医行为标准",
-                "profile": {
-                    "breed": "金仓鼠 (Mesocricetus auratus / 叙利亚仓鼠)",
-                    "lifespan": "2 ~ 3年",
-                    "sleep_pattern": "14 ~ 16小时 (夜行性且偏好安静隧道)",
-                    "temperament": "胆小、警惕性高、好奇心强、独居性"
-                },
-                "intro": "小巧可爱的金仓鼠是深受人们喜爱的独居小宠物。然而，它们仍保留着在野生环境中掘洞和每天奔跑数公里的本能。在狭窄的笼子或嘈杂的环境中，它们很容易陷入极度紧张的状态。处于压力下的仓鼠可能会发出咯咯的磨牙声，或者咬笼子铁丝，这有折断牙齿的风险。今天，本指南将为您讲解金仓鼠的警惕信号，并介绍3阶段每日护理流程，为您的小宠物打造舒适无压的一天。",
-                "whyTitle": "金仓鼠的沟通方式：磨牙警告与警惕行为",
-                "whyDesc": "金仓鼠在极度愤怒或害怕时，会发出独特的磨牙声 **“磨牙及咯咯声 (Teeth Chattering)”**，警告人类保持距离。此外，当受到突然的噪音惊吓时，它们会表现出 **“压低耳朵并静止的动作 (Ear Flattening)”**，对周围进行强烈警惕。快速捕捉这些敏感的身体语言信号并提供舒适的独立空间是照顾它们的关键。",
-                "body_signals": [
-                    {
-                        "name": "磨牙咯咯声 (Teeth Chattering)",
-                        "meaning": "感到威胁或极度敏感的强烈警告，意思是不要靠近。",
-                        "response": "立即停止互动或清理，给它们安静的空间在躲避穴中冷静下来。"
-                    },
-                    {
-                        "name": "压低耳朵并静止 (Ear Flattening)",
-                        "meaning": "由突然的震动或陌生的视觉刺激引起的极度紧张和警惕状态。",
-                        "response": "避免在附近发出大声或突然移动，调暗灯光以保持房间黑暗和舒适。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：整理躲避穴周围并更换新鲜饮水",
-                        "text": "由于仓鼠在早上入睡，请勿直接触碰其躲避穴内部。更换饮水并轻轻清理笼子周围的污垢。"
-                    },
-                    {
-                        "name": "中午：保持安静和黑暗环境以帮助其深睡眠",
-                        "text": "在白天避免在笼子附近使用嘈杂的家电，并拉上遮光罩，以确保其有充足的无干扰睡眠时间。"
-                    },
-                    {
-                        "name": "晚上：跑轮精密检查与高蛋白晚餐喂食",
-                        "text": "在夜间活动达到高峰前，检查跑轮是否稳固安全。喂食营养丰富的仓鼠粮并给予颊囊奖励零食。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "仓鼠总是咬笼子铁丝该怎么办？",
-                        "answer": "咬铁丝表示笼子面积过小导致的压抑，或是缺乏可供啃咬的磨牙玩具。请更换为宽敞的玻璃缸或整理箱，并配置充足的木质磨牙玩具。"
-                    },
-                    {
-                        "question": "沙浴盆是必须安装的吗？",
-                        "answer": "是的。金仓鼠通过刨沙来清洁毛发并去除多余的皮脂油分。为了毛发健康和释放压力，强烈建议提供备有仓鼠专用浴沙的浴室。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Instinto de excavación del hámster sirio y rutina diaria de 3 pasos sin estrés",
-                "description": "Cuidado del hámster sirio (dorado), solitario y nocturno. Conozca una rutina de 3 pasos para un ambiente diurno silencioso, instinto de recolección en mejillas y control de ruedas para prevenir el estrés.",
-                "authority": "Guía de Cuidado de Hámsters de la Humane Society y Protocolos de Conducta Veterinaria",
-                "profile": {
-                    "breed": "Hámster Sirio / Dorado (Mesocricetus auratus)",
-                    "lifespan": "2 ~ 3 años",
-                    "sleep_pattern": "14 ~ 16 horas (nocturno y prefiere túneles oscuros)",
-                    "temperament": "Tímido, vigilante, curioso, solitario"
-                },
-                "intro": "El pequeño y adorable hámster sirio o dorado es una de las mascotas solitarias más queridas. Sin embargo, conservan sus instintos salvajes de cavar madrigueras y correr kilómetros diariamente. En jaulas estrechas o ambientes ruidosos, sufren fácilmente de estrés extremo. Los hámsters estresados pueden rechinar los dientes ruidosamente o morder los barrotes de la jaula, con el riesgo de romperse los dientes. En esta guía, explicamos las señales de advertencia del hámster sirio y presentamos una rutina de cuidado diario de 3 pasos para un día acogedor y sin estrés.",
-                "whyTitle": "Comunicación del hámster sirio: Castañeo de dientes y señales de vigilancia",
-                "whyDesc": "Los hámsters sirios expresan enojo o miedo haciendo un sonido distintivo de **castañeo de dientes (Teeth Chattering)**, advirtiéndole que se mantenga alejado. Además, cuando se sobresaltan por ruidos repentinos, muestran un comportamiento de **aplanar las orejas y congelarse (Ear Flattening)**. Reconocer estas delicadas señales de lenguaje corporal es la clave para mantener su comodidad.",
-                "body_signals": [
-                    {
-                        "name": "Castañeo de dientes (Teeth Chattering)",
-                        "meaning": "Una advertencia firme de que se sienten amenazados o extremadamente sensibles. No se acerque.",
-                        "response": "Detenga inmediatamente la manipulación o la limpieza, y dele un espacio tranquilo para calmarse en su escondite."
-                    },
-                    {
-                        "name": "Orejas aplanadas y congelamiento (Ear Flattening)",
-                        "meaning": "Un estado de alta tensión y precaución, provocado por vibraciones repentinas o estímulos visuales desconocidos.",
-                        "response": "Evite ruidos fuertes o movimientos bruscos cerca, y atenúe las luces para mantener la habitación oscura y acogedora."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Organización del escondite y reemplazo de agua",
-                        "text": "Dado que los hámsters duermen por la mañana, no perturbe el interior de su escondite. Reemplace el agua y limpie ligeramente la suciedad alrededor de la jaula."
-                    },
-                    {
-                        "name": "Tarde: Mantener un ambiente silencioso y oscuro para un sueño profundo",
-                        "text": "Asegure que duerman sin interrupciones evitando electrodomésticos ruidosos cerca y sombreando la jaula."
-                    },
-                    {
-                        "name": "Noche: Inspección minuciosa de la rueda y cena alta en proteínas",
-                        "text": "Antes de que su actividad nocturna alcance su punto máximo, verifique que la rueda sea estable y segura. Alimente con pellets nutritivos y premios para rellenar sus mejillas."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué mi hámster muerde constantemente los barrotes de la jaula?",
-                        "answer": "Morder los barrotes indica aburrimiento severo debido a una jaula pequeña o falta de juguetes para masticar. Reemplace la jaula por un terrario grande o caja de plástico grande, y agregue juguetes de madera para morder."
-                    },
-                    {
-                        "question": "¿Es absolutamente necesario un baño de arena?",
-                        "answer": "Sí. Los hámsters sirios limpian su pelaje y eliminan el exceso de grasa cavando en la arena. Proporcionar un baño de arena con arena segura para hámsters es vital para la salud de su pelaje."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Instinct de creusement du hamster syrien et routine quotidienne en 3 étapes sans stress",
-                "description": "Prendre soin du hamster syrien (doré), solitaire et nocturne. Découvrez une routine en 3 étapes couvrant un environnement diurne silencieux, l'instinct d'accumulation dans les joues et le contrôle de la roue pour prévenir le stress.",
-                "authority": "Guide de Soins des Hamsters de la Humane Society et Protocoles Comportementaux Vétérinaires",
-                "profile": {
-                    "breed": "Hamster Syrien / Doré (Mesocricetus auratus)",
-                    "lifespan": "2 ~ 3 ans",
-                    "sleep_pattern": "14 ~ 16 heures (nocturne et préfère les tunnels sombres)",
-                    "temperament": "Timide, vigilant, curieux, solitaire"
-                },
-                "intro": "Le petit et adorable hamster syrien ou doré est l'un des animaux de compagnie solitaires les plus appréciés. Cependant, ils conservent leurs instincts sauvages consistant à creuser des terriers et à courir des kilomètres quotidiennement. Dans des cages exiguës ou des environnements bruyants, ils souffrent facilement d'un stress extrême. Les hamsters stressés peuvent grincer des dents bruyamment ou ronger les barreaux de la cage, risquant de se casser les dents. Dans ce guide, nous expliquons les signaux d'alerte du hamster syrien et présentons une routine de soins quotidiens en 3 étapes pour une journée confortable et sans stress.",
-                "whyTitle": "Communication du hamster syrien : Grincement de dents et signaux de vigilance",
-                "whyDesc": "Les hamsters syriens expriment leur colère ou leur peur en émettant un bruit de **grincement de dents (Teeth Chattering)** caractéristique, vous avertissant de garder vos distances. De plus, lorsqu'ils sont surpris par des bruits soudains, ils replient leurs oreilles et s'immobilisent **(Ear Flattening)**. Reconnaître ces signaux délicats du langage corporel est la clé de leur confort.",
-                "body_signals": [
-                    {
-                        "name": "Grincement de dents (Teeth Chattering)",
-                        "meaning": "Un avertissement ferme qu'ils se sentent menacés ou extrêmement sensibles. Ne pas approcher.",
-                        "response": "Arrêtez immédiatement toute manipulation ou nettoyage, et laissez-leur un espace calme pour s'apaiser dans leur cachette."
-                    },
-                    {
-                        "name": "Oreilles repliées et immobilisation (Ear Flattening)",
-                        "meaning": "Un état de tension et de prudence élevé, déclenché par des vibrations soudaines ou des stimuli visuels inconnus.",
-                        "response": "Évitez les bruits forts ou les mouvements brusques à proximité, et tamisez les lumières pour garder la pièce sombre et confortable."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Organisation de la cachette et remplacement de l'eau",
-                        "text": "Puisque les hamsters dorment le matin, ne perturbez pas l'intérieur de leur cachette. Remplacez l'eau et nettoyez légèrement les saletés autour de la cage."
-                    },
-                    {
-                        "name": "Après-midi : Maintenir un environnement silencieux et sombre pour un sommeil profond",
-                        "text": "Assurez-leur un sommeil sans interruption en évitant les appareils ménagers bruyants à proximité et en ombrageant la cage."
-                    },
-                    {
-                        "name": "Soir : Inspection minutieuse de la roue et dîner riche en protéines",
-                        "text": "Avant que leur activité nocturne n'atteigne son apogée, vérifiez que la roue est stable et sûre. Donnez-leur des granulés nutritifs et des friandises pour remplir leurs joues."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi mon hamster ronge-t-il constamment les barreaux de sa cage ?",
-                        "answer": "Ronger les barreaux indique un ennui sévère dû à une cage trop petite ou à un manque de jouets à ronger. Remplacez la cage par un grand terrarium ou un bac en plastique de grande taille, et ajoutez des jouets en bois à ronger."
-                    },
-                    {
-                        "question": "Le bain de sable est-il absolument nécessaire ?",
-                        "answer": "Oui. Les hamsters syriens nettoient leur pelage et éliminent l'excès de sébum en creusant dans le sable. Fournir un bain de sable avec du sable adapté aux hamsters est vital pour la santé de leur pelage."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Tunnelinstinkt des Goldhamsters und stressfreie 3-Schritt-Tagesroutine",
-                "description": "Pflege für den solitären und nachtaktiven Goldhamster. Lernen Sie eine 3-Schritt-Routine kennen, die eine ruhige Tagesumgebung, Backentaschen-Sammelinstinkte und Laufrad-Checks abdeckt.",
-                "authority": "Goldhamster-Pflegeleitfaden der Humane Society und Veterinär-Verhaltenstandards",
-                "profile": {
-                    "breed": "Goldhamster (Mesocricetus auratus)",
-                    "lifespan": "2 ~ 3 Jahre",
-                    "sleep_pattern": "14 ~ 16 Stunden (nachtaktiv & Tunnel bevorzugt)",
-                    "temperament": "Scheu, wachsam, neugierig, einzelgängerisch"
-                },
-                "intro": "Der kleine und niedliche Goldhamster ist ein beliebtes solitäres Heimtier. Er behält jedoch seine wilden Instinkte bei, Tunnel zu graben und täglich Kilometer zu rennen. In engen Käfigen oder unruhigen Umgebungen leidet er leicht unter extremem Stress. Gestresste Hamster können laut Zähne knirschen oder an den Gitterstäben nagen, mit dem Risiko von Zahnbrüchen. Heute auf  erklären wir die Warnsignale des Goldhamsters und stellen eine 3-Schritt-Tagesroutine für einen gemütlichen, stressfreien Tag vor.",
-                "whyTitle": "Goldhamster-Kommunikation: Zähneknirschen und Wachsamkeitssignale",
-                "whyDesc": "Goldhamster drücken Wut oder Angst durch ein charakteristisches **Zähneknirschen (Teeth Chattering)** aus und warnen Sie, Abstand zu halten. Wenn sie durch plötzliche Geräusche erschreckt werden, legen sie zudem die Ohren flach und erstarren **(Ear Flattening)**. Das Erkennen dieser feinen Körpersprache-Signale ist der Schlüssel zu ihrem Wohlbefinden.",
-                "body_signals": [
-                    {
-                        "name": "Zähneknirschen (Teeth Chattering)",
-                        "meaning": "Eine deutliche Warnung, dass sie sich bedroht fühlen oder extrem sensibel sind. Nicht nähern.",
-                        "response": "Stoppen Sie sofort jeglichen Kontakt oder die Reinigung und geben Sie ihnen einen ruhigen Raum, um sich in ihrem Versteck zu beruhigen."
-                    },
-                    {
-                        "name": "Ohren anlegen & Erstarren (Ear Flattening)",
-                        "meaning": "Ein Zustand hoher Anspannung und Vorsicht, ausgelöst durch plötzliche Vibrationen oder unbekannte visuelle Reize.",
-                        "response": "Vermeiden Sie laute Geräusche oder plötzliche Bewegungen in der Nähe und dimmen Sie das Licht, um den Raum dunkel und gemütlich zu halten."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Organisation des Verstecks und Wasserwechsel",
-                        "text": "Da Hamster am Morgen schlafen, stören Sie nicht das Innere ihres Verstecks. Ersetzen Sie das Wasser und reinigen Sie leicht den Schmutz um den Käfig herum."
-                    },
-                    {
-                        "name": "Nachmittag: Ruhige und dunkle Umgebung für tiefen Schlaf sichern",
-                        "text": "Sichern Sie ihnen einen ungestörten Schlaf, indem Sie laute Haushaltsgeräte in der Nähe vermeiden und den Käfig beschatten."
-                    },
-                    {
-                        "name": "Abend: Laufrad-Prüfung und proteinreiches Abendessen",
-                        "text": "Bevor ihre nächtliche Aktivität ihren Höhepunkt erreicht, überprüfen Sie, ob das Laufrad stabil und sicher ist. Füttern Sie nahrhafte Pellets und Belohnungsleckerlis für die Backentaschen."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum nagt mein Hamster ständig an den Gitterstäben des Käfigs?",
-                        "answer": "Das Nagen an den Stäben deutet auf starke Langeweile aufgrund eines zu kleinen Käfigs oder fehlender Nagespielzeuge hin. Ersetzen Sie den Käfig durch ein großes Terrarium oder eine große Kunststoffbox und fügen Sie Holznagespielzeug hinzu."
-                    },
-                    {
-                        "question": "Ist ein Sandbad absolut notwendig?",
-                        "answer": "Ja. Goldhamster reinigen ihr Fell und entfernen überschüssiges Hautfett, indem sie im Sand graben. Die Bereitstellung eines Sandbads mit hamsterfreundlichem Sand ist lebenswichtig für die Fellgesundheit."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Instinto de escavação do hámster sírio e rotina diária de 3 passos sem stresse",
-                "description": "Cuidado do hámster sírio (dourado), solitário e noturno. Conheça uma rotina de 3 passos para um ambiente diurno silencioso, instinto de recolha nas bochechas e controlo da roda para prevenir o stresse.",
-                "authority": "Guia de Cuidado de Hámsters da Humane Society e Protocolos de Conduta Veterinária",
-                "profile": {
-                    "breed": "Hámster Sírio / Dourado (Mesocricetus auratus)",
-                    "lifespan": "2 ~ 3 anos",
-                    "sleep_pattern": "14 ~ 16 horas (noturno e prefere túneis escuros)",
-                    "temperament": "Tímido, vigilante, curioso, solitário"
-                },
-                "intro": "O pequeno e adorável hámster sírio ou dourado é um dos animais de estimação solitários mais queridos. No entanto, conservam os seus instintos selvagens de cavar tocas e correr quilómetros diariamente. Em gaiolas estreitas ou ambientes ruidosos, sofrem facilmente de stresse extremo. Os hámsters stressados podem ranger os dentes ruidosamente ou roer as grades da gaiola, com o risco de partir os dentes. Neste guia, explicamos as marcas de aviso do hámster sírio e apresentamos uma rotina de cuidado diário de 3 passos para um dia acolhedor e sem stresse.",
-                "whyTitle": "Comunicação do hámster sírio: Ranger de dentes e sinais de vigilância",
-                "whyDesc": "Os hámsters sírios expressam raiva ou medo fazendo um som distintivo de **ranger de dentes (Teeth Chattering)**, avisando-o para se manter afastado. Além disso, quando se assustam com ruídos repentinos, mostram um comportamento de **achatar as orelhas e congelar (Ear Flattening)**. Reconhecer estes delicados sinais de linguagem corporal é a chave para manter o seu conforto.",
-                "body_signals": [
-                    {
-                        "name": "Ranger de dentes (Teeth Chattering)",
-                        "meaning": "Um aviso firme de que se sentem ameaçados ou extremamente sensíveis. Não se aproxime.",
-                        "response": "Pare imediatamente a manipulação ou a limpeza, e dê-lhe um espaço tranquilo para se acalmar no seu esconderijo."
-                    },
-                    {
-                        "name": "Orelhas achatadas e congelamento (Ear Flattening)",
-                        "meaning": "Um estado de alta tensão e precaução, provocado por vibrações repentinas ou estímulos visuais desconhecidos.",
-                        "response": "Evite ruídos fortes ou movimentos bruscos perto, e diminua as luzes para manter o quarto escuro e acolhedor."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Organização do esconderijo e substituição de água",
-                        "text": "Dado que os hámsters dormem pela manhã, não perturbe o interior do seu esconderijo. Substitua a água e limpe levemente a sujidade ao redor da gaiola."
-                    },
-                    {
-                        "name": "Tarde: Manter um ambiente silencioso e escuro para um sono profundo",
-                        "text": "Assegure que dormem sem interrupções evitando eletrodomésticos ruidosos perto e sombreando a gaiola."
-                    },
-                    {
-                        "name": "Noite: Inspeção minuciosa da roda e jantar rico em proteínas",
-                        "text": "Antes de a sua atividade noturna atingir o pico, verifique se a roda é estável e segura. Alimente com pellets nutritivos e prémios para as bochechas."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por que o meu hámster morde constantemente as grades da gaiola?",
-                        "answer": "Morder as grades indica tédio severo devido a uma gaiola pequena ou falta de brinquedos para mastigar. Substitua a gaiola por um terrário grande ou caixa de plástico grande, e adicione brinquedos de madeira para roer."
-                    },
-                    {
-                        "question": "¿É absolutamente necessário um banho de areia?",
-                        "answer": "Sim. Os hámsters sírios limpam o seu pelo e eliminam o excesso de gordura cavando na areia. Proporcionar um banho de areia com areia segura para hámsters é vital para a saúde do seu pelo."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Insting Menggali Hamster Suriah dan Rutinitas Harian 3 Langkah Bebas Stres",
-                "description": "Merawat hamster Suriah (emas) yang soliter dan nokturnal. Pelajari 3 langkah rutin mencakup lingkungan siang yang tenang, insting menimbun makanan di pipi, dan pengecekan roda putar untuk mencegah stres.",
-                "authority": "Panduan Perawatan Hamster Humane Society dan Standar Perilaku Veteriner",
-                "profile": {
-                    "breed": "Hamster Suriah / Emas (Mesocricetus auratus)",
-                    "lifespan": "2 ~ 3 tahun",
-                    "sleep_pattern": "14 ~ 16 jam (nokturnal & menyukai terowongan gelap)",
-                    "temperament": "Penakut, waspada, penasaran, soliter"
-                },
-                "intro": "Hamster Suriah atau emas yang kecil dan menggemaskan adalah salah satu hewan peliharaan soliter yang paling dicintai. Namun, mereka tetap mempertahankan insting liar mereka untuk menggali liang dan berlari bermil-mil setiap hari. Di kandang yang sempit atau lingkungan yang bising, mereka mudah mengalami stres ekstrem. Hamster yang stres mungkin menggeretakkan gigi mereka dengan keras atau menggigit jeruji kandang, berisiko mematahkan gigi mereka. Dalam panduan ini, kami menjelaskan tanda peringatan hamster Suriah dan menyajikan 3 langkah rutin perawatan harian untuk hari yang nyaman dan bebas stres.",
-                "whyTitle": "Komunikasi Hamster Suriah: Geretakan Gigi dan Sinyal Waspada",
-                "whyDesc": "Hamster Suriah mengekspresikan kemarahan atau ketakutan dengan membuat suara **geretakan gigi (Teeth Chattering)** yang khas, memperingatkan Anda untuk menjaga jarak. Selain itu, ketika terkejut oleh suara mendadak, mereka menunjukkan perilaku **melipat telinga dan membeku (Ear Flattening)**. Mengenali sinyal bahasa tubuh yang halus ini adalah kunci untuk menjaga kenyamanan mereka.",
-                "body_signals": [
-                    {
-                        "name": "Geretakan Gigi (Teeth Chattering)",
-                        "meaning": "Peringatan keras bahwa mereka merasa terancam atau sangat sensitif. Jangan mendekat.",
-                        "response": "Segera hentikan penanganan atau pembersihan, dan beri mereka ruang tenang untuk menenangkan diri di tempat persembunyian mereka."
-                    },
-                    {
-                        "name": "Melipat Telinga & Membeku (Ear Flattening)",
-                        "meaning": "Keadaan tegang dan waspada yang tinggi, dipicu oleh getaran mendadak atau rangsangan visual yang tidak dikenal.",
-                        "response": "Hindari suara keras atau gerakan tiba-tiba di dekatnya, dan redupkan lampu agar ruangan tetap gelap dan nyaman."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Merapikan Sekitar Tempat Sembunyi & Penggantian Air",
-                        "text": "Karena hamster tidur di pagi hari, jangan ganggu bagian dalam tempat sembunyi mereka. Ganti air dan bersihkan kotoran di sekitar kandang dengan ringan."
-                    },
-                    {
-                        "name": "Siang: Menjaga Lingkungan Sunyi & Gelap untuk Tidur Nyenyak",
-                        "text": "Pastikan mereka tidur tanpa gangguan dengan menghindari peralatan rumah tangga yang bising di dekatnya dan memberi peneduh pada kandang."
-                    },
-                    {
-                        "name": "Malam: Pemeriksaan Roda Putar Secara Menyeluruh & Makan Malam Tinggi Protein",
-                        "text": "Sebelum aktivitas nokturnal mereka memuncak, periksa apakah roda putar stabil dan aman. Beri pelet bernutrisi dan camilan hadiah untuk kantung pipi."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa hamster saya terus menggigit jeruji kandang?",
-                        "answer": "Menggigit jeruji menunjukkan rasa bosan yang parah akibat kandang yang terlalu kecil atau kurangnya mainan kunyah. Ganti kandang dengan akuarium kaca besar atau boks plastik besar, dan tambahkan mainan kunyah dari kayu."
-                    },
-                    {
-                        "question": "Apakah bak mandi pasir mutlak diperlukan?",
-                        "answer": "Ya. Hamster Suriah membersihkan bulu mereka dan menghilangkan minyak kulit berlebih dengan menggali di dalam pasir. Menyediakan mandi pasir dengan pasir khusus hamster yang aman sangat penting untuk kesehatan bulu mereka."
-                    }
-                ]
-            }
+  "golden-hamster-care": {
+    "pubDate": "2026-01-21",
+    "updatedDate": "2026-01-21",
+    "locales": {
+      "ko": {
+        "title": "골든 햄스터의 굴 파기 본능과 스트레스 없는 3단계 데일리 루틴",
+        "description": "야행성이며 단독 생활을 하는 골든 햄스터. 낮 수면 시간의 정적 환경 조성과 볼주머니 수집 본능 충족, 쳇바퀴 정비를 통한 3단계 스트레스 예방 케어를 알아봅니다.",
+        "authority": "Humane Society 햄스터 케어 가이드 및 수의학 행동 지침",
+        "profile": {
+          "breed": "골든 햄스터 (Mesocricetus auratus)",
+          "lifespan": "2 ~ 3년",
+          "sleep_pattern": "14 ~ 16시간 (야행성 및 조용한 터널 선호)",
+          "temperament": "겁이 많음, 경계심 강함, 호기심 많음, 독립적"
         },
-        "heroImage": "/images/blog/golden_hamster_care.webp"
-    }
+        "intro": "작고 귀여운 골든 햄스터는 보호자와 단독 공간에서 조용하게 생활할 수 있어 많은 이들의 사랑을 받는 소형 반려동물입니다. 하지만 자연 상태에서 굴을 파고 살며 매일 수 킬로미터를 달리던 습성이 그대로 남아있어, 좁은 케이지와 시끄러운 환경에서 쉽게 극도의 스트레스를 받습니다. 스트레스를 받은 햄스터는 이갈이를 하며 딱딱 소리를 내거나 케이지 철창을 갉아 이빨이 부러질 수 있습니다. 이번 가이드에서는 골든 햄스터의 경계 신호를 알아보고, 스트레스 없이 아늑한 하루를 만들어주는 3단계 데일리 케어 루틴을 소개합니다.",
+        "whyTitle": "골든 햄스터의 의사소통: 이갈이 경고와 경계 행동",
+        "whyDesc": "골든 햄스터는 극도로 화가 나거나 두려움을 느낄 때 **'이갈이 및 갉작거림(Teeth Chattering)'** 소리를 내며 다가오지 말 것을 경고합니다. 또한 갑작스러운 소음에 놀라면 **'귀를 뒤로 눕히고 굳는 행동(Ear Flattening)'**으로 주변을 강하게 경계합니다. 이러한 예민한 바디 랭귀지를 빠르게 포착하여 편안한 단독 공간을 마련해 주는 것이 핵심입니다.",
+        "body_signals": [
+          {
+            "name": "이갈이 딱딱 소리 (Teeth Chattering)",
+            "meaning": "위협을 느끼거나 몹시 예민해져 있으니 가까이 다가오지 말라는 강력한 경고입니다.",
+            "response": "핸들링이나 청소를 즉시 멈추고 햄스터가 은신처에서 마음을 가라앉히도록 시간을 주며 조용히 해줍니다."
+          },
+          {
+            "name": "귀 눕히고 동작 멈추기 (Ear Flattening)",
+            "meaning": "갑작스러운 진동이나 낯선 시각 자극에 큰 위협을 느끼고 숨을 죽인 긴장 상태입니다.",
+            "response": "가까이서 소리를 지르거나 움직이지 말고 조명을 조금 낮춰 어둡고 아늑하게 유지해 줍니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 은신처 주변 정돈 및 신선한 식수 교체",
+            "text": "햄스터가 잠드는 시간인 아침에는 은신처 내부를 직접 건드리지 않고, 물그릇의 물을 깨끗하게 갈아주고 주변 오물만 가볍게 치웁니다."
+          },
+          {
+            "name": "낮: 깊은 수면을 돕는 정적 및 암실 환경 유지",
+            "text": "낮 동안 긴 수면 시간을 충분히 확보할 수 있도록 케이지 주변에 시끄러운 가전 기기 사용을 자제하고 그늘막을 쳐줍니다."
+          },
+          {
+            "name": "저녁: 쳇바퀴 정밀 검사 및 고단백 저녁 식사 급여",
+            "text": "야행성 활동량이 폭발하기 전에 쳇바퀴가 흔들리지 않고 안전한지 점검하고, 영양이 풍부한 전용 사료와 볼주머니 보상 간식을 줍니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "햄스터가 철장을 자꾸 갉는데 어떡하나요?",
+            "answer": "철장을 갉는 행동은 케이지 면적이 너무 좁아 답답함을 호소하거나, 갉을 수 있는 이갈이 완구가 부족할 때 생깁니다. 넓은 터널형 리빙박스로 교체하고 이갈이용 나무 장난감을 많이 배치해 주세요."
+          },
+          {
+            "question": "모래 목욕탕은 꼭 설치해야 하나요?",
+            "answer": "골든 햄스터는 모래를 파면서 등껍질과 피지의 기름기를 청결히 씻어냅니다. 따라서 털 건강과 스트레스 해소를 위해 전용 목욕 모래가 있는 화장실 겸 목욕탕을 반드시 제공해 주는 것이 좋습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Golden Hamster Tunneling Instinct and 3-Step Stress-Free Daily Routine",
+        "description": "Caring for the solitary and nocturnal Golden Hamster. Learn a 3-step routine covering silent daytime environments, cheek stuffing instincts, and wheel checkups to prevent high stress.",
+        "authority": "Humane Society Hamster Care Guide and Veterinary Behavior Standards",
+        "profile": {
+          "breed": "Golden Hamster (Mesocricetus auratus / Syrian Hamster)",
+          "lifespan": "2 - 3 Years",
+          "sleep_pattern": "14 - 16 Hours (Nocturnal & Burrow Preferred)",
+          "temperament": "Timid, Vigilant, Curious, Solitary"
+        },
+        "intro": "The small and adorable Golden Hamster is a beloved solitary pet. However, they retain their wild instincts of digging burrows and running miles daily. In confined cages or noisy surroundings, they easily suffer from extreme stress. Stressed hamsters may grind their teeth loudly or chew cage bars, risking broken teeth. In this guide, we explain the warning signals of Golden Hamsters and introduce a 3-step daily care routine for a cozy, stress-free day.",
+        "whyTitle": "Golden Hamster Communication: Teeth Chattering and Vigilance Signals",
+        "whyDesc": "Golden Hamsters express anger or fear by making a distinct teeth chattering sound, warning you to keep your distance. Additionally, when startled by sudden noises, they show ear flattening behavior and freeze. Recognizing these delicate body language signals is the key to maintaining their comfort.",
+        "body_signals": [
+          {
+            "name": "Teeth Chattering (Grinding & Clicking)",
+            "meaning": "A strong warning that they feel threatened or extremely sensitive. Do not approach.",
+            "response": "Immediately stop handling or cleaning, and give them quiet space to calm down in their hideout."
+          },
+          {
+            "name": "Ear Flattening & Freezing",
+            "meaning": "A state of high tension and caution, triggered by sudden vibrations or unfamiliar visual stimuli.",
+            "response": "Avoid loud noises or sudden movements nearby, and dim the lights to keep the room dark and cozy."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Organizing Hideout Surroundings & Water Replacement",
+            "text": "Since hamsters sleep in the morning, do not disturb the inside of their hideout. Replace water and lightly clean waste around the cage."
+          },
+          {
+            "name": "Afternoon: Keeping a Quiet & Dark Environment for Deep Sleep",
+            "text": "Ensure they get plenty of uninterrupted sleep by avoiding noisy home appliances nearby and shading the cage."
+          },
+          {
+            "name": "Evening: Thorough Wheel Inspection & High-Protein Dinner",
+            "text": "Before their nocturnal activity peaks, check if the running wheel is stable and safe. Feed nutritious hamster pellets and reward treats."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why does my hamster keep chewing on the cage bars?",
+            "answer": "Bar-chewing indicates severe boredom from a small cage or lack of chewing toys. Replace the cage with a large glass tank or bin cage, and add wooden chew toys."
+          },
+          {
+            "question": "Is a sand bath absolutely necessary?",
+            "answer": "Yes. Golden Hamsters clean their fur and remove excess skin oils by digging in sand. Providing a sand bath with appropriate hamster-safe sand is vital for their coat health."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ゴールデンハムスターの穴掘り本能とストレスのない3ステップ日常ルーティン",
+        "description": "夜行性で単独生活を好むゴールデンハムスター。日中の静かな睡眠環境づくり、頬袋に食べ物を集める本能の充足、回し車の整備による3ステップのストレス予防ケアを解説します。",
+        "authority": "Humane Society ハムスターケアガイドおよび獣医行動学基準",
+        "profile": {
+          "breed": "ゴールデンハムスター (Mesocricetus auratus / シリアンハムスター)",
+          "lifespan": "2 〜 3年",
+          "sleep_pattern": "14 〜 16時間 (夜行性・静かなトンネルを好む)",
+          "temperament": "臆病、警戒心が強い、好奇心旺盛、独立心がある"
+        },
+        "intro": "小さくて愛らしいゴールデンハムスターは、飼い主と静かに暮らせる人気の小動物ペットです。しかし、野生環境で巣穴を掘って生活し、毎日数キロメートルも走っていた習性が残っているため、狭いケージや騒がしい環境では非常に強いストレスを感じやすいです。ストレスを感じたハムスターは、歯ぎしりをしてカチカチと音を立てたり、ケージの金網をかじって歯を折ってしまう危険があります。今回はゴールデンハムスターの警戒サインを学び、ストレスのない快適な一日を作るための3ステップ日常ケアアルーティンをご紹介します。",
+        "whyTitle": "ゴールデンハムスターの意思表示：歯ぎしり警告と警戒行動",
+        "whyDesc": "ゴールデンハムスターは非常に怒っている時や恐怖を感じている時、**『歯ぎしり（Teeth Chattering）』**をしてカチカチと音を鳴らし、近づかないよう警告します。また、突然の騒音に驚くと**『耳を伏せて静止する行動（Ear Flattening）』**を見せ、周囲を強く警戒します。これらの警戒サインを素早く察知し、落ち着ける個別のスペースを確保することが重要です。",
+        "body_signals": [
+          {
+            "name": "歯ぎしりの音 (Teeth Chattering)",
+            "meaning": "脅威を感じているか、非常に神経質になっているため、近くに寄るなという強い警告です。",
+            "response": "ふれあいや掃除をすぐに中止し、ハムスターが隠れ家で落ち着くまで静かに見守りましょう。"
+          },
+          {
+            "name": "耳を伏せて静止する (Ear Flattening)",
+            "meaning": "突然の振動や見慣れない視覚刺激に大きな脅威を感じ、息を潜めて緊張している状態です。",
+            "response": "近くで大声を出したり動いたりせず、部屋を少し暗くして居心地の良い環境を作ってあげましょう。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：隠れ家周辺の整理と新鮮な水の交換",
+            "text": "ハムスターが眠りにつく朝は、隠れ家の内部には直接触れず、給水器の水を新鮮なものに変え、周囲の汚れだけを軽く掃除します。"
+          },
+          {
+            "name": "昼：深い眠りを助ける静かで暗い環境の維持",
+            "text": "日中に十分な睡眠時間を確保できるよう、ケージの近くでの騒々しい家電製品の使用を控え、遮光カバーをかけます。"
+          },
+          {
+            "name": "夜：回し車の精密検査と高タンパクな夕食の給餌",
+            "text": "夜間の活動量が爆発する前に、回し車がぐらついていないか安全を確認し、栄養豊富なペレットと頬袋用のトリーツを与えます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ハムスターがケージの金網をかじるのですが、どうすればいいですか？",
+            "answer": "金網をかじるのは、ケージが狭くてストレスを感じているか、かじるためのおもちゃが不足している証拠です。広い水槽やプラスチック衣装ケースに変え、かじり木を多めに配置してあげてください。"
+          },
+          {
+            "question": "砂浴び場は必ず設置しなければなりませんか？",
+            "answer": "ゴールデンハムスターは砂を掘ることで、被毛の余分な皮脂汚れを落とします。毛並みの健康維持とストレス解消のため、ハムスター専用の浴び砂を入れたお風呂を設置することを強くおすすめします。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "金仓鼠的掘洞本能与无压力3阶段每日护理流程",
+        "description": "护理独居且夜行性的金仓鼠。了解涵盖白天安静环境、颊囊收集本能以及跑轮检查的3阶段护理，有效预防高压状态。",
+        "authority": "Humane Society 仓鼠护理指南及兽医行为标准",
+        "profile": {
+          "breed": "金仓鼠 (Mesocricetus auratus / 叙利亚仓鼠)",
+          "lifespan": "2 ~ 3年",
+          "sleep_pattern": "14 ~ 16小时 (夜行性且偏好安静隧道)",
+          "temperament": "胆小、警惕性高、好奇心强、独居性"
+        },
+        "intro": "小巧可爱的金仓鼠是深受人们喜爱的独居小宠物。然而，它们仍保留着在野生环境中掘洞和每天奔跑数公里的本能。在狭窄的笼子或嘈杂的环境中，它们很容易陷入极度紧张的状态。处于压力下的仓鼠可能会发出咯咯的磨牙声，或者咬笼子铁丝，这有折断牙齿的风险。今天，本指南将为您讲解金仓鼠的警惕信号，并介绍3阶段每日护理流程，为您的小宠物打造舒适无压的一天。",
+        "whyTitle": "金仓鼠的沟通方式：磨牙警告与警惕行为",
+        "whyDesc": "金仓鼠在极度愤怒或害怕时，会发出独特的磨牙声 **“磨牙及咯咯声 (Teeth Chattering)”**，警告人类保持距离。此外，当受到突然的噪音惊吓时，它们会表现出 **“压低耳朵并静止的动作 (Ear Flattening)”**，对周围进行强烈警惕。快速捕捉这些敏感的身体语言信号并提供舒适的独立空间是照顾它们的关键。",
+        "body_signals": [
+          {
+            "name": "磨牙咯咯声 (Teeth Chattering)",
+            "meaning": "感到威胁或极度敏感的强烈警告，意思是不要靠近。",
+            "response": "立即停止互动或清理，给它们安静的空间在躲避穴中冷静下来。"
+          },
+          {
+            "name": "压低耳朵并静止 (Ear Flattening)",
+            "meaning": "由突然的震动或陌生的视觉刺激引起的极度紧张和警惕状态。",
+            "response": "避免在附近发出大声或突然移动，调暗灯光以保持房间黑暗和舒适。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：整理躲避穴周围并更换新鲜饮水",
+            "text": "由于仓鼠在早上入睡，请勿直接触碰其躲避穴内部。更换饮水并轻轻清理笼子周围的污垢。"
+          },
+          {
+            "name": "中午：保持安静和黑暗环境以帮助其深睡眠",
+            "text": "在白天避免在笼子附近使用嘈杂的家电，并拉上遮光罩，以确保其有充足的无干扰睡眠时间。"
+          },
+          {
+            "name": "晚上：跑轮精密检查与高蛋白晚餐喂食",
+            "text": "在夜间活动达到高峰前，检查跑轮是否稳固安全。喂食营养丰富的仓鼠粮并给予颊囊奖励零食。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "仓鼠总是咬笼子铁丝该怎么办？",
+            "answer": "咬铁丝表示笼子面积过小导致的压抑，或是缺乏可供啃咬的磨牙玩具。请更换为宽敞的玻璃缸或整理箱，并配置充足的木质磨牙玩具。"
+          },
+          {
+            "question": "沙浴盆是必须安装的吗？",
+            "answer": "是的。金仓鼠通过刨沙来清洁毛发并去除多余的皮脂油分。为了毛发健康和释放压力，强烈建议提供备有仓鼠专用浴沙的浴室。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Instinto de excavación del hámster sirio y rutina diaria de 3 pasos sin estrés",
+        "description": "Cuidado del hámster sirio (dorado), solitario y nocturno. Conozca una rutina de 3 pasos para un ambiente diurno silencioso, instinto de recolección en mejillas y control de ruedas para prevenir el estrés.",
+        "authority": "Guía de Cuidado de Hámsters de la Humane Society y Protocolos de Conducta Veterinaria",
+        "profile": {
+          "breed": "Hámster Sirio / Dorado (Mesocricetus auratus)",
+          "lifespan": "2 ~ 3 años",
+          "sleep_pattern": "14 ~ 16 horas (nocturno y prefiere túneles oscuros)",
+          "temperament": "Tímido, vigilante, curioso, solitario"
+        },
+        "intro": "El pequeño y adorable hámster sirio o dorado es una de las mascotas solitarias más queridas. Sin embargo, conservan sus instintos salvajes de cavar madrigueras y correr kilómetros diariamente. En jaulas estrechas o ambientes ruidosos, sufren fácilmente de estrés extremo. Los hámsters estresados pueden rechinar los dientes ruidosamente o morder los barrotes de la jaula, con el riesgo de romperse los dientes. En esta guía, explicamos las señales de advertencia del hámster sirio y presentamos una rutina de cuidado diario de 3 pasos para un día acogedor y sin estrés.",
+        "whyTitle": "Comunicación del hámster sirio: Castañeo de dientes y señales de vigilancia",
+        "whyDesc": "Los hámsters sirios expresan enojo o miedo haciendo un sonido distintivo de **castañeo de dientes (Teeth Chattering)**, advirtiéndole que se mantenga alejado. Además, cuando se sobresaltan por ruidos repentinos, muestran un comportamiento de **aplanar las orejas y congelarse (Ear Flattening)**. Reconocer estas delicadas señales de lenguaje corporal es la clave para mantener su comodidad.",
+        "body_signals": [
+          {
+            "name": "Castañeo de dientes (Teeth Chattering)",
+            "meaning": "Una advertencia firme de que se sienten amenazados o extremadamente sensibles. No se acerque.",
+            "response": "Detenga inmediatamente la manipulación o la limpieza, y dele un espacio tranquilo para calmarse en su escondite."
+          },
+          {
+            "name": "Orejas aplanadas y congelamiento (Ear Flattening)",
+            "meaning": "Un estado de alta tensión y precaución, provocado por vibraciones repentinas o estímulos visuales desconocidos.",
+            "response": "Evite ruidos fuertes o movimientos bruscos cerca, y atenúe las luces para mantener la habitación oscura y acogedora."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Organización del escondite y reemplazo de agua",
+            "text": "Dado que los hámsters duermen por la mañana, no perturbe el interior de su escondite. Reemplace el agua y limpie ligeramente la suciedad alrededor de la jaula."
+          },
+          {
+            "name": "Tarde: Mantener un ambiente silencioso y oscuro para un sueño profundo",
+            "text": "Asegure que duerman sin interrupciones evitando electrodomésticos ruidosos cerca y sombreando la jaula."
+          },
+          {
+            "name": "Noche: Inspección minuciosa de la rueda y cena alta en proteínas",
+            "text": "Antes de que su actividad nocturna alcance su punto máximo, verifique que la rueda sea estable y segura. Alimente con pellets nutritivos y premios para rellenar sus mejillas."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué mi hámster muerde constantemente los barrotes de la jaula?",
+            "answer": "Morder los barrotes indica aburrimiento severo debido a una jaula pequeña o falta de juguetes para masticar. Reemplace la jaula por un terrario grande o caja de plástico grande, y agregue juguetes de madera para morder."
+          },
+          {
+            "question": "¿Es absolutamente necesario un baño de arena?",
+            "answer": "Sí. Los hámsters sirios limpian su pelaje y eliminan el exceso de grasa cavando en la arena. Proporcionar un baño de arena con arena segura para hámsters es vital para la salud de su pelaje."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Instinct de creusement du hamster syrien et routine quotidienne en 3 étapes sans stress",
+        "description": "Prendre soin du hamster syrien (doré), solitaire et nocturne. Découvrez une routine en 3 étapes couvrant un environnement diurne silencieux, l'instinct d'accumulation dans les joues et le contrôle de la roue pour prévenir le stress.",
+        "authority": "Guide de Soins des Hamsters de la Humane Society et Protocoles Comportementaux Vétérinaires",
+        "profile": {
+          "breed": "Hamster Syrien / Doré (Mesocricetus auratus)",
+          "lifespan": "2 ~ 3 ans",
+          "sleep_pattern": "14 ~ 16 heures (nocturne et préfère les tunnels sombres)",
+          "temperament": "Timide, vigilant, curieux, solitaire"
+        },
+        "intro": "Le petit et adorable hamster syrien ou doré est l'un des animaux de compagnie solitaires les plus appréciés. Cependant, ils conservent leurs instincts sauvages consistant à creuser des terriers et à courir des kilomètres quotidiennement. Dans des cages exiguës ou des environnements bruyants, ils souffrent facilement d'un stress extrême. Les hamsters stressés peuvent grincer des dents bruyamment ou ronger les barreaux de la cage, risquant de se casser les dents. Dans ce guide, nous expliquons les signaux d'alerte du hamster syrien et présentons une routine de soins quotidiens en 3 étapes pour une journée confortable et sans stress.",
+        "whyTitle": "Communication du hamster syrien : Grincement de dents et signaux de vigilance",
+        "whyDesc": "Les hamsters syriens expriment leur colère ou leur peur en émettant un bruit de **grincement de dents (Teeth Chattering)** caractéristique, vous avertissant de garder vos distances. De plus, lorsqu'ils sont surpris par des bruits soudains, ils replient leurs oreilles et s'immobilisent **(Ear Flattening)**. Reconnaître ces signaux délicats du langage corporel est la clé de leur confort.",
+        "body_signals": [
+          {
+            "name": "Grincement de dents (Teeth Chattering)",
+            "meaning": "Un avertissement ferme qu'ils se sentent menacés ou extrêmement sensibles. Ne pas approcher.",
+            "response": "Arrêtez immédiatement toute manipulation ou nettoyage, et laissez-leur un espace calme pour s'apaiser dans leur cachette."
+          },
+          {
+            "name": "Oreilles repliées et immobilisation (Ear Flattening)",
+            "meaning": "Un état de tension et de prudence élevé, déclenché par des vibrations soudaines ou des stimuli visuels inconnus.",
+            "response": "Évitez les bruits forts ou les mouvements brusques à proximité, et tamisez les lumières pour garder la pièce sombre et confortable."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Organisation de la cachette et remplacement de l'eau",
+            "text": "Puisque les hamsters dorment le matin, ne perturbez pas l'intérieur de leur cachette. Remplacez l'eau et nettoyez légèrement les saletés autour de la cage."
+          },
+          {
+            "name": "Après-midi : Maintenir un environnement silencieux et sombre pour un sommeil profond",
+            "text": "Assurez-leur un sommeil sans interruption en évitant les appareils ménagers bruyants à proximité et en ombrageant la cage."
+          },
+          {
+            "name": "Soir : Inspection minutieuse de la roue et dîner riche en protéines",
+            "text": "Avant que leur activité nocturne n'atteigne son apogée, vérifiez que la roue est stable et sûre. Donnez-leur des granulés nutritifs et des friandises pour remplir leurs joues."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi mon hamster ronge-t-il constamment les barreaux de sa cage ?",
+            "answer": "Ronger les barreaux indique un ennui sévère dû à une cage trop petite ou à un manque de jouets à ronger. Remplacez la cage par un grand terrarium ou un bac en plastique de grande taille, et ajoutez des jouets en bois à ronger."
+          },
+          {
+            "question": "Le bain de sable est-il absolument nécessaire ?",
+            "answer": "Oui. Les hamsters syriens nettoient leur pelage et éliminent l'excès de sébum en creusant dans le sable. Fournir un bain de sable avec du sable adapté aux hamsters est vital pour la santé de leur pelage."
+          }
+        ]
+      },
+      "de": {
+        "title": "Tunnelinstinkt des Goldhamsters und stressfreie 3-Schritt-Tagesroutine",
+        "description": "Pflege für den solitären und nachtaktiven Goldhamster. Lernen Sie eine 3-Schritt-Routine kennen, die eine ruhige Tagesumgebung, Backentaschen-Sammelinstinkte und Laufrad-Checks abdeckt.",
+        "authority": "Goldhamster-Pflegeleitfaden der Humane Society und Veterinär-Verhaltenstandards",
+        "profile": {
+          "breed": "Goldhamster (Mesocricetus auratus)",
+          "lifespan": "2 ~ 3 Jahre",
+          "sleep_pattern": "14 ~ 16 Stunden (nachtaktiv & Tunnel bevorzugt)",
+          "temperament": "Scheu, wachsam, neugierig, einzelgängerisch"
+        },
+        "intro": "Der kleine und niedliche Goldhamster ist ein beliebtes solitäres Heimtier. Er behält jedoch seine wilden Instinkte bei, Tunnel zu graben und täglich Kilometer zu rennen. In engen Käfigen oder unruhigen Umgebungen leidet er leicht unter extremem Stress. Gestresste Hamster können laut Zähne knirschen oder an den Gitterstäben nagen, mit dem Risiko von Zahnbrüchen. Heute auf  erklären wir die Warnsignale des Goldhamsters und stellen eine 3-Schritt-Tagesroutine für einen gemütlichen, stressfreien Tag vor.",
+        "whyTitle": "Goldhamster-Kommunikation: Zähneknirschen und Wachsamkeitssignale",
+        "whyDesc": "Goldhamster drücken Wut oder Angst durch ein charakteristisches **Zähneknirschen (Teeth Chattering)** aus und warnen Sie, Abstand zu halten. Wenn sie durch plötzliche Geräusche erschreckt werden, legen sie zudem die Ohren flach und erstarren **(Ear Flattening)**. Das Erkennen dieser feinen Körpersprache-Signale ist der Schlüssel zu ihrem Wohlbefinden.",
+        "body_signals": [
+          {
+            "name": "Zähneknirschen (Teeth Chattering)",
+            "meaning": "Eine deutliche Warnung, dass sie sich bedroht fühlen oder extrem sensibel sind. Nicht nähern.",
+            "response": "Stoppen Sie sofort jeglichen Kontakt oder die Reinigung und geben Sie ihnen einen ruhigen Raum, um sich in ihrem Versteck zu beruhigen."
+          },
+          {
+            "name": "Ohren anlegen & Erstarren (Ear Flattening)",
+            "meaning": "Ein Zustand hoher Anspannung und Vorsicht, ausgelöst durch plötzliche Vibrationen oder unbekannte visuelle Reize.",
+            "response": "Vermeiden Sie laute Geräusche oder plötzliche Bewegungen in der Nähe und dimmen Sie das Licht, um den Raum dunkel und gemütlich zu halten."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Organisation des Verstecks und Wasserwechsel",
+            "text": "Da Hamster am Morgen schlafen, stören Sie nicht das Innere ihres Verstecks. Ersetzen Sie das Wasser und reinigen Sie leicht den Schmutz um den Käfig herum."
+          },
+          {
+            "name": "Nachmittag: Ruhige und dunkle Umgebung für tiefen Schlaf sichern",
+            "text": "Sichern Sie ihnen einen ungestörten Schlaf, indem Sie laute Haushaltsgeräte in der Nähe vermeiden und den Käfig beschatten."
+          },
+          {
+            "name": "Abend: Laufrad-Prüfung und proteinreiches Abendessen",
+            "text": "Bevor ihre nächtliche Aktivität ihren Höhepunkt erreicht, überprüfen Sie, ob das Laufrad stabil und sicher ist. Füttern Sie nahrhafte Pellets und Belohnungsleckerlis für die Backentaschen."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum nagt mein Hamster ständig an den Gitterstäben des Käfigs?",
+            "answer": "Das Nagen an den Stäben deutet auf starke Langeweile aufgrund eines zu kleinen Käfigs oder fehlender Nagespielzeuge hin. Ersetzen Sie den Käfig durch ein großes Terrarium oder eine große Kunststoffbox und fügen Sie Holznagespielzeug hinzu."
+          },
+          {
+            "question": "Ist ein Sandbad absolut notwendig?",
+            "answer": "Ja. Goldhamster reinigen ihr Fell und entfernen überschüssiges Hautfett, indem sie im Sand graben. Die Bereitstellung eines Sandbads mit hamsterfreundlichem Sand ist lebenswichtig für die Fellgesundheit."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Instinto de escavação do hámster sírio e rotina diária de 3 passos sem stresse",
+        "description": "Cuidado do hámster sírio (dourado), solitário e noturno. Conheça uma rotina de 3 passos para um ambiente diurno silencioso, instinto de recolha nas bochechas e controlo da roda para prevenir o stresse.",
+        "authority": "Guia de Cuidado de Hámsters da Humane Society e Protocolos de Conduta Veterinária",
+        "profile": {
+          "breed": "Hámster Sírio / Dourado (Mesocricetus auratus)",
+          "lifespan": "2 ~ 3 anos",
+          "sleep_pattern": "14 ~ 16 horas (noturno e prefere túneis escuros)",
+          "temperament": "Tímido, vigilante, curioso, solitário"
+        },
+        "intro": "O pequeno e adorável hámster sírio ou dourado é um dos animais de estimação solitários mais queridos. No entanto, conservam os seus instintos selvagens de cavar tocas e correr quilómetros diariamente. Em gaiolas estreitas ou ambientes ruidosos, sofrem facilmente de stresse extremo. Os hámsters stressados podem ranger os dentes ruidosamente ou roer as grades da gaiola, com o risco de partir os dentes. Neste guia, explicamos as marcas de aviso do hámster sírio e apresentamos uma rotina de cuidado diário de 3 passos para um dia acolhedor e sem stresse.",
+        "whyTitle": "Comunicação do hámster sírio: Ranger de dentes e sinais de vigilância",
+        "whyDesc": "Os hámsters sírios expressam raiva ou medo fazendo um som distintivo de **ranger de dentes (Teeth Chattering)**, avisando-o para se manter afastado. Além disso, quando se assustam com ruídos repentinos, mostram um comportamento de **achatar as orelhas e congelar (Ear Flattening)**. Reconhecer estes delicados sinais de linguagem corporal é a chave para manter o seu conforto.",
+        "body_signals": [
+          {
+            "name": "Ranger de dentes (Teeth Chattering)",
+            "meaning": "Um aviso firme de que se sentem ameaçados ou extremamente sensíveis. Não se aproxime.",
+            "response": "Pare imediatamente a manipulação ou a limpeza, e dê-lhe um espaço tranquilo para se acalmar no seu esconderijo."
+          },
+          {
+            "name": "Orelhas achatadas e congelamento (Ear Flattening)",
+            "meaning": "Um estado de alta tensão e precaução, provocado por vibrações repentinas ou estímulos visuais desconhecidos.",
+            "response": "Evite ruídos fortes ou movimentos bruscos perto, e diminua as luzes para manter o quarto escuro e acolhedor."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Organização do esconderijo e substituição de água",
+            "text": "Dado que os hámsters dormem pela manhã, não perturbe o interior do seu esconderijo. Substitua a água e limpe levemente a sujidade ao redor da gaiola."
+          },
+          {
+            "name": "Tarde: Manter um ambiente silencioso e escuro para um sono profundo",
+            "text": "Assegure que dormem sem interrupções evitando eletrodomésticos ruidosos perto e sombreando a gaiola."
+          },
+          {
+            "name": "Noite: Inspeção minuciosa da roda e jantar rico em proteínas",
+            "text": "Antes de a sua atividade noturna atingir o pico, verifique se a roda é estável e segura. Alimente com pellets nutritivos e prémios para as bochechas."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por que o meu hámster morde constantemente as grades da gaiola?",
+            "answer": "Morder as grades indica tédio severo devido a uma gaiola pequena ou falta de brinquedos para mastigar. Substitua a gaiola por um terrário grande ou caixa de plástico grande, e adicione brinquedos de madeira para roer."
+          },
+          {
+            "question": "¿É absolutamente necessário um banho de areia?",
+            "answer": "Sim. Os hámsters sírios limpam o seu pelo e eliminam o excesso de gordura cavando na areia. Proporcionar um banho de areia com areia segura para hámsters é vital para a saúde do seu pelo."
+          }
+        ]
+      },
+      "id": {
+        "title": "Insting Menggali Hamster Suriah dan Rutinitas Harian 3 Langkah Bebas Stres",
+        "description": "Merawat hamster Suriah (emas) yang soliter dan nokturnal. Pelajari 3 langkah rutin mencakup lingkungan siang yang tenang, insting menimbun makanan di pipi, dan pengecekan roda putar untuk mencegah stres.",
+        "authority": "Panduan Perawatan Hamster Humane Society dan Standar Perilaku Veteriner",
+        "profile": {
+          "breed": "Hamster Suriah / Emas (Mesocricetus auratus)",
+          "lifespan": "2 ~ 3 tahun",
+          "sleep_pattern": "14 ~ 16 jam (nokturnal & menyukai terowongan gelap)",
+          "temperament": "Penakut, waspada, penasaran, soliter"
+        },
+        "intro": "Hamster Suriah atau emas yang kecil dan menggemaskan adalah salah satu hewan peliharaan soliter yang paling dicintai. Namun, mereka tetap mempertahankan insting liar mereka untuk menggali liang dan berlari bermil-mil setiap hari. Di kandang yang sempit atau lingkungan yang bising, mereka mudah mengalami stres ekstrem. Hamster yang stres mungkin menggeretakkan gigi mereka dengan keras atau menggigit jeruji kandang, berisiko mematahkan gigi mereka. Dalam panduan ini, kami menjelaskan tanda peringatan hamster Suriah dan menyajikan 3 langkah rutin perawatan harian untuk hari yang nyaman dan bebas stres.",
+        "whyTitle": "Komunikasi Hamster Suriah: Geretakan Gigi dan Sinyal Waspada",
+        "whyDesc": "Hamster Suriah mengekspresikan kemarahan atau ketakutan dengan membuat suara **geretakan gigi (Teeth Chattering)** yang khas, memperingatkan Anda untuk menjaga jarak. Selain itu, ketika terkejut oleh suara mendadak, mereka menunjukkan perilaku **melipat telinga dan membeku (Ear Flattening)**. Mengenali sinyal bahasa tubuh yang halus ini adalah kunci untuk menjaga kenyamanan mereka.",
+        "body_signals": [
+          {
+            "name": "Geretakan Gigi (Teeth Chattering)",
+            "meaning": "Peringatan keras bahwa mereka merasa terancam atau sangat sensitif. Jangan mendekat.",
+            "response": "Segera hentikan penanganan atau pembersihan, dan beri mereka ruang tenang untuk menenangkan diri di tempat persembunyian mereka."
+          },
+          {
+            "name": "Melipat Telinga & Membeku (Ear Flattening)",
+            "meaning": "Keadaan tegang dan waspada yang tinggi, dipicu oleh getaran mendadak atau rangsangan visual yang tidak dikenal.",
+            "response": "Hindari suara keras atau gerakan tiba-tiba di dekatnya, dan redupkan lampu agar ruangan tetap gelap dan nyaman."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Merapikan Sekitar Tempat Sembunyi & Penggantian Air",
+            "text": "Karena hamster tidur di pagi hari, jangan ganggu bagian dalam tempat sembunyi mereka. Ganti air dan bersihkan kotoran di sekitar kandang dengan ringan."
+          },
+          {
+            "name": "Siang: Menjaga Lingkungan Sunyi & Gelap untuk Tidur Nyenyak",
+            "text": "Pastikan mereka tidur tanpa gangguan dengan menghindari peralatan rumah tangga yang bising di dekatnya dan memberi peneduh pada kandang."
+          },
+          {
+            "name": "Malam: Pemeriksaan Roda Putar Secara Menyeluruh & Makan Malam Tinggi Protein",
+            "text": "Sebelum aktivitas nokturnal mereka memuncak, periksa apakah roda putar stabil dan aman. Beri pelet bernutrisi dan camilan hadiah untuk kantung pipi."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa hamster saya terus menggigit jeruji kandang?",
+            "answer": "Menggigit jeruji menunjukkan rasa bosan yang parah akibat kandang yang terlalu kecil atau kurangnya mainan kunyah. Ganti kandang dengan akuarium kaca besar atau boks plastik besar, dan tambahkan mainan kunyah dari kayu."
+          },
+          {
+            "question": "Apakah bak mandi pasir mutlak diperlukan?",
+            "answer": "Ya. Hamster Suriah membersihkan bulu mereka dan menghilangkan minyak kulit berlebih dengan menggali di dalam pasir. Menyediakan mandi pasir dengan pasir khusus hamster yang aman sangat penting untuk kesehatan bulu mereka."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/golden_hamster_care.webp"
+  }
 }

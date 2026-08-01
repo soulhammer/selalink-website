@@ -1,459 +1,459 @@
 {
-    "apple-snail-care": {
-        "pubDate": "2026-02-05",
-        "updatedDate": "2026-02-05",
-        "locales": {
-            "ko": {
-                "title": "애플 스네일 패각(칼슘) 케어와 수조 탈출 방지·수초 합사 3단계 루틴",
-                "description": "노랑·보라 등 화려한 패각과 이끼 청소 능력을 가진 애플 스네일(미스터리 스네일) 맞춤 케어. 칼슘 수질 관리, 수조 탈출 방지 대책, 수생식물과의 조화로운 합사 팁을 상세히 다룹니다.",
-                "authority": "세계관상어협회 (OFI) 수질 관리 표준 및 무척추동물 의학 임상 가이드라인",
-                "profile": {
-                    "breed": "애플 스네일 / 미스터리 스네일 (Apple Snail / Mystery Snail / Pomacea bridgesii)",
-                    "lifespan": "1 ~ 3년",
-                    "sleep_pattern": "불규칙적 (3~4일에 한 번씩 수풀이나 바닥재 위에서 2~4시간 연속 수면)",
-                    "temperament": "평화로움, 온순함, 야행성 성향, 이끼 및 잔반 청소, 탐색적"
-                },
-                "intro": "애플 스네일(미스터리 스네일)은 골든, 퍼플, 블루, 핑크 등 다채롭고 알록달록한 패각(껍데기) 빛깔과 수조 내 잔반 및 이끼 청소 능력으로 전 세계 물생활 동호인들에게 큰 사랑을 받는 수생 무척추동물입니다. 긴 촉수와 사이펀(수면 호흡관)을 이용해 환경을 탐색하는 귀여운 모습이 매력적이지만, 산성 수질에서는 패각이 부식되거나 구멍이 뚫리기 쉽습니다. 또한 알을 낳기 위해 수면 위로 기어올라가 수조 밖으로 탈출하는 습성이 있어 뚜껑 설치가 필수적입니다. 이번 가이드에서는 애플 스네일의 본능 시그널을 해석하고, 칼슘 패각 관리, 탈출 방지 대책, 수초 합사를 위한 3단계 데일리 홈케어 루틴을 소개합니다.",
-                "whyTitle": "애플 스네일의 본능 시그널: 촉수 신장 및 수면 기어오르기(탈출 시도)",
-                "whyDesc": "애플 스네일은 수질 상태나 호흡 욕구에 따라 신체 시그널을 보냅니다. 환경이 안전하고 먹이가 풍부할 때는 긴 촉수를 펼쳐 물속을 탐색하지만, 수조 내 용존 산소가 부족하거나 산란기가 되면 수면 위로 기어올라가 사이펀을 뻗어 공기를 호흡하거나 수조 밖으로 탈출을 시도합니다.",
-                "body_signals": [
-                    {
-                        "name": "긴 촉수 및 사이펀 신장 (Tentacle & Siphon Extension)",
-                        "meaning": "수질이 안정적이고 편안할 때 촉수로 주변을 탐색하거나, 수면 부근에서 사이펀을 길게 뻗어 공기를 호흡하는 정상적인 본능 활동입니다.",
-                        "response": "촉수를 물어뜯는 공격성 어종(바브류, 대형 시클리드 등)이 없는지 점검하고 평화로운 수조 환경을 유지해 줍니다."
-                    },
-                    {
-                        "name": "수면 위 기어오르기 / 껍데기 웅크리기 (Surface Climbing & Shell Inactivity)",
-                        "meaning": "산란 장소를 찾거나 용존 산소 부족, 혹은 수질 오염(질산염/암모니아 상승) 시 수조를 탈출하려는 신호입니다. 껍데기 문(덮개)을 꽉 닫고 오랫동안 반응이 없으면 수질 이상이나 질병을 의미합니다.",
-                        "response": "수조 뚜껑 마감을 즉시 확인하고, 수질 검사 키트로 암모니아 및 아질산 수치를 점검하여 부분 환수를 진행합니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: GH/pH 수질 점검 및 칼슘 보충 사료 급여",
-                        "text": "패각 부식을 막기 위해 약알칼리성 pH(7.5~8.0) 및 높은 일반경도(GH 8~12)를 유지하고, 칼슘과 스피룰리나가 풍부한 침강성 펠렛 사료를 급여합니다."
-                    },
-                    {
-                        "name": "낮: 수조 뚜껑 틈새 결착 및 수면 여유 공간 점검",
-                        "text": "알을 낳거나 호흡하기 위해 올라올 수 있도록 수면 위 5~10cm 여유 공간을 확보하고, 호기심이나 산란욕구로 인한 탈출을 막기 위해 뚜껑 틈새를 정밀 밀폐합니다."
-                    },
-                    {
-                        "name": "밤: 잔반 청소 상태 및 수초 훼손 여부 확인",
-                        "text": "수조 바닥의 사료 잔반을 청소하는 상태를 관찰하고, 부드러운 수초(아나카리스 등) 대신 활착성 단단한 수초(나나, 미크로소리움 등)가 훼손되지 않았는지 확인합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "애플 스네일의 패각(껍데기)이 하얗게 침식되거나 구멍이 뚫리는데 이유가 무엇인가요?",
-                        "answer": "수질이 약산성(pH 7.0 미만)이거나 물속 칼슘 농도가 부족하기 때문입니다. 약산성 수질은 패각의 주성분인 탄산칼슘을 녹여 표면을 하얗게 부식시킵니다. 수조에 뼈 오징어(컷틀본), 패각 가루, 혹은 칼슘 첨가제를 투여하고 약알칼리성 수질(pH 7.5 이상)을 유지해 주어야 합니다."
-                    },
-                    {
-                        "question": "애플 스네일이 수초를 모두 먹어치우지 않나요?",
-                        "answer": "진짜 미스터리 스네일(Pomacea bridgesii)은 이빨(치설) 구조상 건강하고 단단한 살아있는 수초를 갉아먹지 못하고 죽거나 시든 잎만 먹습니다. 단, 외형이 유사한 카나리큘라타(Pomacea canaliculata) 종은 살아있는 수초를 모두 먹어 치우므로, 구입 시 종 구분을 명확히 하고 나나, 미크로소리움, 볼비티스 같은 단단한 수초와 합사하는 것이 안전합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Apple Snail Shell Calcium Care, Escape Prevention, and 3-Step Live Plant Tank Routine",
-                "description": "Essential care for the vibrant Apple Snail (Mystery Snail). Learn to manage shell calcium levels in water, prevent tank escapes, and maintain a harmonious planted aquarium.",
-                "authority": "Ornamental Fish International (OFI) Water Quality Standards and Invertebrate Veterinary Guidelines",
-                "profile": {
-                    "breed": "Apple Snail / Mystery Snail (Pomacea bridgesii)",
-                    "lifespan": "1 ~ 3 Years",
-                    "sleep_pattern": "Irregular (Polyphasic - Sleep Batches of 2–4 Hours Every Few Days)",
-                    "temperament": "Peaceful, Gentle, Nocturnal Tendencies, Scavenger, Exploratory"
-                },
-                "intro": "The Apple Snail, commonly known as the Mystery Snail (Pomacea bridgesii), is a globally popular aquatic invertebrate prized for its vibrant shell colors ranging from golden yellow and magenta to violet and blue. Outstanding scavengers of leftover food and algae, they feature long sensory tentacles and a breathing siphon. However, soft or acidic water erodes their calcium-based shells, causing pitting and deterioration. Furthermore, their instinct to lay egg clutches above the waterline makes secure tank covers mandatory to prevent fatal falls and escapes. In this guide, we decode Mystery Snail behavioral signals and present a 3-step homecare routine for shell calcium maintenance, escape prevention, and planted tank cohabitation.",
-                "whyTitle": "Mystery Snail Instincts: Tentacle Sensing and Surface Climbing",
-                "whyDesc": "Mystery Snails send clear physical signals regarding their environment. In clean, safe water, they extend long sensory tentacles to scavenge for food. When oxygen levels drop, water turns acidic, or females prepare to lay eggs, they climb up walls above the waterline and extend their breathing siphon or attempt to escape the tank.",
-                "body_signals": [
-                    {
-                        "name": "Tentacle & Siphon Extension",
-                        "meaning": "Normal exploratory behavior in safe water; extending the breathing siphon near the surface allows atmospheric air intake.",
-                        "response": "Ensure no nipping fish species (like Tiger Barbs or Cichlids) attack their delicate sensory tentacles."
-                    },
-                    {
-                        "name": "Surface Climbing & Trapdoor Withdrawal",
-                        "meaning": "An indicator of egg-laying behavior, low dissolved oxygen, or high toxins (ammonia/nitrates). Remaining sealed in their shell via operculum indicates severe stress or poor water quality.",
-                        "response": "Check lid seals immediately to prevent escapes, test water parameters for toxins, and perform a partial water change."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: GH/pH Water Check & Calcium Supplement Feeding",
-                        "text": "Maintain slightly alkaline pH (7.5–8.0) and high general hardness (GH 8–12) to protect shells, feeding calcium-fortified sinking pellets."
-                    },
-                    {
-                        "name": "Afternoon: Lid Seal Inspection & Water Level Adjustment",
-                        "text": "Maintain a 5–10 cm air gap below the tank rim for breathing/egg laying, and seal all canopy gaps near filters to stop escape attempts."
-                    },
-                    {
-                        "name": "Evening: Scavenging Observation & Live Plant Integrity Check",
-                        "text": "Observe their scavenging activity on substrate waste and verify that sturdy live plants (e.g., Anubias, Java Fern) remain healthy and intact."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why is my Mystery Snail's shell turning white, pitting, or cracking?",
-                        "answer": "This is caused by acidic water (pH below 7.0) or low calcium hardness. Acidic water dissolves calcium carbonate, weakening the shell structure. Add cuttlebone, crushed coral, or liquid calcium supplements, and keep water slightly alkaline (pH 7.5–8.0)."
-                    },
-                    {
-                        "question": "Will Mystery Snails eat and destroy my live aquarium plants?",
-                        "answer": "True Mystery Snails (Pomacea bridgesii) have delicate rasping mouthparts that cannot eat healthy, tough live plants; they only consume decaying leaves and algae. However, the similar Channeled Apple Snail (Pomacea canaliculata) destroys live plants. Ensure proper species identification and pair with sturdy plants like Anubias or Java Fern."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "アップルスネイルの殻（カルシウム）ケアと脱走防止・水草混泳の3ステップルーティン",
-                "description": "黄色や紫色などの鮮やかな殻を持つアップルスネイル（ミステリースネイル）の専門ケア。カルシウム水質管理、水槽脱走防止策、水草との調和した混泳コツを詳しく解説します。",
-                "authority": "世界観賞魚協会 (OFI) 水質管理基準および無脊椎動物医学臨床ガイドライン",
-                "profile": {
-                    "breed": "アップルスネイル / ミステリースネイル (Pomacea bridgesii)",
-                    "lifespan": "1 〜 3年",
-                    "sleep_pattern": "不定期 (数日に1回、流木や床材の上で2〜4時間連続睡眠)",
-                    "temperament": "平和、温和、夜行性傾向、お掃除役、探求心旺盛"
-                },
-                "intro": "ゴールデン、パープル、ブルー、ピンクなどカラフルな貝殻と、残餌やコケの掃除能力で世界中のアクアリストに愛される水生無脊椎動物のアップルスネイル（ミステリースネイル）。長触手やサイフォン（呼吸管）を使って環境を探る姿が愛くるしいですが、酸性水質では貝殻が溶けて穴が空いてしまいます。また、産卵期や呼吸時に水面から這い上がり、水槽外へ脱走する習性があるためフタの密閉が必須です。本記事では、本能サインの解読と、カルシウム殻管理・脱走防止・水草混泳を叶える3ステップ日常ケアをご紹介します。",
-                "whyTitle": "アップルスネイルの習性サイン：触手の伸長と水面登り（脱走試み）",
-                "whyDesc": "アップルスネイルは水質や呼吸欲求に応じて身体サインを出します。水質が安定している時は長い触手を広げて探査しますが、酸欠や水質悪化、産卵時には水面の上に這い上がり、サイフォンを伸ばして空気呼吸をしたり水槽外への脱走を試みます。",
-                "body_signals": [
-                    {
-                        "name": "長い触手とサイフォンの伸長 (Tentacle & Siphon Extension)",
-                        "meaning": "水質が安定している快適な状態での探査行動、または水面付近でサイフォンを伸ばして空気呼吸を行う正常な本能行動です。",
-                        "response": "触手を突っつく攻撃的な魚（スマトラや大型シクリッド等）がいないか確認し、平和な混泳環境を維持します。"
-                    },
-                    {
-                        "name": "水面登りと蓋閉め引きこもり (Surface Climbing & Operculum Closing)",
-                        "meaning": "産卵場所の探索、酸欠、またはアンモニア・硝酸塩などの水質悪化による脱走サインです。蓋（ふた）を固く閉じて動かない場合は深刻な水質異常を示します。",
-                        "response": "水槽のフタの隙間をすぐ確認し、水質検査を行ってアンモニア・亜硝酸が高い場合は部分水換えを行います。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：GH/pH水質チェックとカルシウム補給餌の給餌",
-                        "text": "殻の溶出を防ぐため弱アルカリ性pH（7.5〜8.0）と高い硬度（GH 8〜12）を維持し、カルシウム・スピルリナ配合の沈下性ペレットを与えます。"
-                    },
-                    {
-                        "name": "昼：水槽フタの隙間チェックと水面上の空間確保",
-                        "text": "空気呼吸や産卵のために水面上5〜10cmの空間を確保し、隙間からの脱走を防ぐためフタの合致をしっかり確認します。"
-                    },
-                    {
-                        "name": "夜：残餌掃除状態の観察と水草の食害チェック",
-                        "text": "底床の残餌を掃除する様子を観察し、ナナやミクロソリウムなどの硬い活着性水草が傷ついていないか確認します。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "アップルスネイルの殻が白く溶けたり穴が空く理由は？",
-                        "answer": "水質が弱酸性（pH 7.0未満）であるか、カルシウム分が不足しているためです。酸性水は殻の主成分である炭酸カルシウムを溶かします。カットルボーン（カトルボーン）やカルシウム添加剤を投入し、弱アルカリ性（pH 7.5以上）を維持してください。"
-                    },
-                    {
-                        "question": "アップルスネイルは水草を全部食べてしまいますか？",
-                        "answer": "本物のミステリースネイル（Pomacea bridgesii）は歯が柔らかいため、健康で硬い生きている水草は食べられず、枯れ葉やコケだけを食べます。ただし、類似種のスクミリンゴガイ（Pomacea canaliculata）は水草を食い荒らすため、購入時に種を確認し、ナナやミクロソリウムなどの硬い水草と混泳させるのが安全です。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "苹果螺（Mystery Snail）外壳钙质护理、防逃跑与水草缸共存3阶段日常指南",
-                "description": "针对拥有金色、紫色等缤纷外壳的苹果螺（神秘螺 / Apple Snail）专属护理。学习外壳钙质水质管理、防逃跑措施以及与水生植物和谐共存的技巧。",
-                "authority": "国际观赏鱼协会 (OFI) 水质管理标准与无脊椎动物临床兽医指南",
-                "profile": {
-                    "breed": "苹果螺 / 神秘螺 (Apple Snail / Mystery Snail / Pomacea bridgesii)",
-                    "lifespan": "1 ~ 3年",
-                    "sleep_pattern": "不定期 (每隔几天在沉木或底沙上连续睡眠2~4小时)",
-                    "temperament": "和平、温和、偏夜行性、清洁残饵、探索型"
-                },
-                "intro": "苹果螺（神秘螺）因其金黄、紫罗兰、蔚蓝、粉红等色彩斑斓的外壳，以及清理水族箱残饵和藻类的高效能力，在全球观赏鱼爱好者中极具人气。它们利用长触角和呼吸管（Siphon）探索水下世界，模样十分讨喜。然而，在酸性软水中，它们富含钙质的外壳极易腐蚀发白甚至穿孔。此外，它们在产卵期或缺氧时有爬出水面脱逃的习性，因此加盖防护至关重要。本指南将解析苹果螺的本能信号，并分享涵盖外壳钙质维护、防逃跑措施与水草缸共存的3阶段日常护理流程。",
-                "whyTitle": "苹果螺的本能信号：触角伸展与爬出水面（逃跑倾向）",
-                "whyDesc": "苹果螺根据水质和呼吸需求表达身体信号。在水质优良且食物充足时，它们会伸出长触角探索底沙；当水中溶氧量不足、水质酸化或准备产卵时，它们会爬上缸壁伸出呼吸管吸取空气，甚至尝试爬出水族箱。",
-                "body_signals": [
-                    {
-                        "name": "触角与呼吸管伸展 (Tentacle & Siphon Extension)",
-                        "meaning": "在舒适水质中探索四周，或在水面附近伸长呼吸管吸取空气的正常本能行为。",
-                        "response": "检查水族箱内是否有爱咬触角的鱼类（如虎皮鱼、大型慈鲷等），确保混养环境和平。"
-                    },
-                    {
-                        "name": "爬出水面与紧闭厣盖 (Surface Climbing & Shell Inactivity)",
-                        "meaning": "寻找产卵地点、水中缺氧或毒素（氨/亚硝酸盐）超标时的逃跑信号。若紧闭厣盖长久不动，代表严重应激或水质恶化。",
-                        "response": "检查水族箱盖密封性防止逃跑，测试水质参数并及时进行局部换水。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：GH/pH水质检测与高钙沉底饲料投喂",
-                        "text": "保持弱碱性pH（7.5–8.0）与较高硬度（GH 8–12）以防外壳腐蚀，投喂富含钙质与螺旋藻的沉底颗粒饲料。"
-                    },
-                    {
-                        "name": "中午：水族箱盖缝隙检查与水面上方空间留白",
-                        "text": "保留水面上方5–10厘米的空间供其呼吸与产卵，并严格封闭过滤器旁的所有缝隙以防逃跑。"
-                    },
-                    {
-                        "name": "晚上：观察残饵清理状况与水草完整性",
-                        "text": "观察其清理底沙残饵的情况，确认水榕、铁皇冠等硬叶水草未受损坏。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "为什么苹果螺的外壳会发白、脱皮甚至打洞？",
-                        "answer": "这是由于水质偏酸（pH低于7.0）或水中钙质浓度不足造成的。酸性水会溶解外壳主要成分碳酸钙。应在水族箱中加入墨鱼骨、水草钙粉或钙质添加剂，并将水质维持在弱碱性（pH 7.5–8.0）。"
-                    },
-                    {
-                        "question": "苹果螺会吃光水族箱里的活体水草吗？",
-                        "answer": "真正的神秘螺（Pomacea bridgesii）齿舌构造较软，无法啃食健康硬实的新鲜水草，仅进食腐烂叶片与藻类。但外形相似的福寿螺（Pomacea canaliculata）会啃食活体水草。购买时应严格区分品种，并与水榕、铁皇冠等硬叶水草混养。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Guía de cuidado del calcio en la concha del Caracol Manzana, prevención de fugas y rutina de 3 pasos para acuario plantado",
-                "description": "Cuidado especial para el vistoso Caracol Manzana (Mystery Snail). Domine el control de calcio en el agua para su concha, prevenga fugas fuera del acuario y mantenga la armonía con plantas naturales.",
-                "authority": "Estándares de Calidad del Agua de Ornamental Fish International (OFI) y Guías de Veterinaria de Invertebrados",
-                "profile": {
-                    "breed": "Caracol Manzana / Caracol Misterio (Pomacea bridgesii)",
-                    "lifespan": "1 ~ 3 años",
-                    "sleep_pattern": "Irregular (polifásico: descansos de 2 a 4 horas cada varios días)",
-                    "temperament": "Pacífico, dócil, tendencias nocturnas, limpiador de detritos, explorador"
-                },
-                "intro": "El Caracol Manzana (Pomacea bridgesii) es un invertebrado acuático sumamente popular en la acuariofilia mundial por sus variadas tonalidades (dorado, púrpura, azul, rosa) y su excelente labor limpiando restos de alimento y algas. Dotados de largas tentáculos sensoriales y un sifón respiratorio, son animales exploradores fascinantes. Sin embargo, las aguas blandas o ácidas desgastan su concha de carbonato cálcico, provocando erosión o agujeros. Además, su instinto de desovar sobre la línea de agua exige tapas herméticas. Descubra la rutina de esta guía para cuidar su concha, evitar fugas y mantener un acuario plantado perfecto.",
-                "whyTitle": "Instintos del Caracol Manzana: Extensión de tentáculos y subidas a la superficie",
-                "whyDesc": "Los caracoles manzana transmiten señales claras sobre su entorno. En agua limpia y segura, extienden sus largos tentáculos para explorar. Cuando el nivel de oxígeno desciende, el agua se acidifica o las hembras van a poner huevos, trepan por las paredes sobre el nivel del agua y extienden su sifón o intentan escapar.",
-                "body_signals": [
-                    {
-                        "name": "Extensión de tentáculos y sifón (Tentacle & Siphon Extension)",
-                        "meaning": "Comportamiento exploratorio normal en agua segura; extender el sifón cerca de la superficie permite respirar aire atmosférico.",
-                        "response": "Asegúrese de que no haya peces mordedores (como Barbos o Cíclidos) que ataquen sus delicados tentáculos."
-                    },
-                    {
-                        "name": "Subida a la superficie y cierre del opérculo (Surface Climbing & Operculum Closing)",
-                        "meaning": "Búsqueda de zona de puesta, falta de oxígeno o picos de amonio/nitratos. Permanecer sellado mediante el opérculo indica alto estrés o mala calidad del agua.",
-                        "response": "Revise el sellado de la tapa de inmediato, analice los parámetros del agua y realice un cambio parcial de agua."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Control de GH/pH y alimento enriquecido con calcio",
-                        "text": "Mantenga un pH ligeramente alcalino (7.5–8.0) y dureza alta (GH 8–12) para proteger la concha, ofreciendo pastillas de fondo ricas en calcio."
-                    },
-                    {
-                        "name": "Tarde: Inspección de tapas y margen de aire en la superficie",
-                        "text": "Deje un espacio de 5–10 cm de aire bajo la tapa para su respiración y puesta de huevos, sellando huecos cerca de los filtros para evitar fugas."
-                    },
-                    {
-                        "name": "Noche: Observación de limpieza e integridad de plantas vivas",
-                        "text": "Observe cómo limpia los detritos del sustrato y verifique que las plantas robustas (Anubias, Helecho de Java) permanezcan intactas."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué la concha de mi Caracol Manzana se vuelve blanca o presenta agujeros?",
-                        "answer": "Se debe a agua ácida (pH inferior a 7.0) o falta de calcio disuelto. El ácido disuelve el carbonato cálcico de la concha. Añada hueso de jibia, arena de coral o calcio líquido, y mantenga un pH ligeramente alcalino (7.5–8.0)."
-                    },
-                    {
-                        "question": "¿Los Caracoles Manzana se comerán mis plantas naturales del acuario?",
-                        "answer": "El verdadero Caracol Manzana (Pomacea bridgesii) posee una rádula suave incapaz de comer plantas sanas y duras; solo consume hojas en descomposición y algas. Sin embargo, la especie Pomacea canaliculata sí devora plantas. Verifique la especie y manténgalo con plantas duras como Anubias o Helecho de Java."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Soins du calcium de la coquille de l'Escargot Pomme, prévention des fuites et routine en 3 étapes pour aquarium planté",
-                "description": "Soins essentiels pour l'Escargot Pomme / Mystère (Mystery Snail). Gérez le taux de calcium pour sa coquille, évitez les fuites hors du bac et maintenez l'harmonie avec les plantes aquatiques.",
-                "authority": "Normes de Qualité de l'Eau de l'Ornamental Fish International (OFI) et Directives Vétérinaires pour Invertébrés",
-                "profile": {
-                    "breed": "Escargot Pomme / Escargot Mystère (Apple Snail / Pomacea bridgesii)",
-                    "lifespan": "1 ~ 3 ans",
-                    "sleep_pattern": "Irrégulier (polyphasique : périodes de sommeil de 2 à 4 heures tous les quelques jours)",
-                    "temperament": "Paisible, doux, tendances nocturnes, détritivore, explorateur"
-                },
-                "intro": "L'Escargot Pomme (Pomacea bridgesii) est un invertébré aquatique populaire dans le monde entier pour sa coquille aux couleurs vives (jaune d'or, violet, bleu, rose) et sa capacité à nettoyer les restes de nourriture et les algues. Doté de longs tentacules tactiles et d'un siphon respiratoire, il est très attrayant. Cependant, une eau acide ou trop douce érode sa coquille en carbonate de calcium. De plus, son instinct de pondre ses grappes d'œufs au-dessus de l'eau nécessite un couvercle parfaitement ajusté pour éviter les fuites fatales. Découvrez la routine .",
-                "whyTitle": "Instincts de l'Escargot Pomme : Déploiement des tentacules et remontée en surface",
-                "whyDesc": "L'Escargot Pomme émet des signaux physiques clairs selon la qualité de son environnement. Dans une eau saine, il déploie ses tentacules pour chercher de la nourriture. Lorsque le taux d'oxygène chute, que l'eau s'acidifie ou que la femelle s'apprête à pondre, il escalade les vitres au-dessus du niveau de l'eau.",
-                "body_signals": [
-                    {
-                        "name": "Déploiement des tentacules et du siphon (Tentacle & Siphon Extension)",
-                        "meaning": "Comportement d'exploration normal en eau saine ; étirer son siphon près de la surface lui permet d'aspirer de l'air ambiant.",
-                        "response": "Assurez-vous qu'aucun poisson mordreur (Barbus, Cichlidés) ne s'attaque à ses tentacules sensibles."
-                    },
-                    {
-                        "name": "Remontée en surface et fermeture de l'opercule (Surface Climbing & Trapdoor Withdrawal)",
-                        "meaning": "Recherche d'un site de ponte, manque d'oxygène ou présence de toxines (ammoniac/nitrites). Rester enfermé sous son opercule indique un fort stress.",
-                        "response": "Vérifiez l'étanchéité du couvercle, testez les paramètres de l'eau et réalisez un changement d'eau partiel."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Contrôle du GH/pH et apport d'aliments enrichis en calcium",
-                        "text": "Maintenez un pH légèrement alcalin (7,5–8,0) et une dureté élevée (GH 8–12) pour protéger la coquille, en distribuant des pastilles de fond enrichies en calcium."
-                    },
-                    {
-                        "name": "Après-midi : Vérification du couvercle et espace d'air en surface",
-                        "text": "Laissez un espace de 5 à 10 cm d'air sous le couvercle pour la respiration et la ponte, et bouchez les ouvertures près du filtre pour empêcher toute fuite."
-                    },
-                    {
-                        "name": "Soir : Observation du nettoyage du fond et état des plantes",
-                        "text": "Observez son activité de détritivore sur le substrat et vérifiez que les plantes robustes (Anubias, Fougère de Java) restent intactes."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi la coquille de mon Escargot Pomme devient-elle blanche ou trouée ?",
-                        "answer": "Cela est dû à une eau acide (pH inférieur à 7,0) ou pauvre en calcium. L'acide dissout le carbonate de calcium de la coquille. Ajoutez de l'os de seiche, du sable de corail ou du calcium liquide, et conservez un pH légèrement alcalin (7,5–8,0)."
-                    },
-                    {
-                        "question": "L'Escargot Pomme va-t-il dévorer mes plantes aquatiques vivantes ?",
-                        "answer": "Le véritable Escargot Mystère (Pomacea bridgesii) possède une radula trop tendre pour manger des plantes vivantes en bonne santé ; il ne consomme que les feuilles mortes et les algues. Seule l'espèce Pomacea canaliculata détruit les plantes. Associez-le à des plantes robustes comme les Anubias."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Apfelschnecke Gehäuse-Kalziumpflege, Ausbruchschutz und 3-Schritte-Routine für Pflanzenaquarien",
-                "description": "Essenzielle Pflege für die farbenfrohe Apfelschnecke (Mystery Snail). Lernen Sie, den Kalziumgehalt im Wasser für das Gehäuse zu steuern, Ausbrüche zu verhindern und ein bepflanztes Aquarium zu pflegen.",
-                "authority": "Wasserqualitätsstandards der Ornamental Fish International (OFI) und Klinische Leitlinien für Wirbellose",
-                "profile": {
-                    "breed": "Apfelschnecke / Mystery Snail (Pomacea bridgesii)",
-                    "lifespan": "1 ~ 3 Jahre",
-                    "sleep_pattern": "Unregelmäßig (polyphasisch - Schlafphasen von 2–4 Stunden alle paar Tage)",
-                    "temperament": "Friedlich, sanft, nachtaktiv, Restefresser, erkundungsfreudig"
-                },
-                "intro": "Die Apfelschnecke (Pomacea bridgesii) ist ein weltweit geschätzter wirbelloser Aquarienbewohner, der durch Gehäusefarben von Goldgelb über Magenta bis hin zu Blau fasziniert. Als hervorragende Restefresser verfügen sie über lange Fühler und einen Atemsiphon. Weiches oder saures Wasser greift jedoch ihr kalkhaltiges Gehäuse an und führt zu Löchern. Zudem erfordert ihr Instinkt, Gelege oberhalb der Wasserlinie abzulegen, eine lückenlose Aquarienabdeckung.",
-                "whyTitle": "Instinkte der Apfelschnecke: Fühlereinsatz und Klettern an die Oberfläche",
-                "whyDesc": "Apfelschnecken zeigen klare Körpersignale. In sauberem Wasser strecken sie ihre Fühler weit aus. Bei Sauerstoffmangel, saurem Wasser oder zur Eiablage klettern sie an den Scheiben über die Wasseroberfläche und strecken ihren Siphon aus oder versuchen auszubrechen.",
-                "body_signals": [
-                    {
-                        "name": "Ausstrecken von Fühlern & Siphon (Tentacle & Siphon Extension)",
-                        "meaning": "Normales Erkundungsverhalten bei guten Wasserwerten; der Siphon nahe der Oberfläche dient der atmosphärischen Luftaufnahme.",
-                        "response": "Achten Sie darauf, dass keine anknabbernden Fischarten (wie Sumatrabarben oder Buntbarsche) ihre Fühler attackieren."
-                    },
-                    {
-                        "name": "Klettern an die Oberfläche & Gehäuserückzug (Surface Climbing & Operculum Closing)",
-                        "meaning": "Anzeichen für Eiablage, Sauerstoffmangel oder Giftstoffe (Ammoniak/Nitrit). Dauerhaftes Verschließen mit dem Deckel zeigt starken Stress.",
-                        "response": "Prüfen Sie die Abdeckung sofort auf Lücken, testen Sie das Wasser und führen Sie einen Teilwasserwechsel durch."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: GH/pH-Wasserwertkontrolle & Kalziumfütterung",
-                        "text": "Halten Sie leicht alkalische pH-Werte (7,5–8,0) und hohe Gesamthärte (GH 8–12), um das Gehäuse zu schützen, und füttern Sie kalziumreiche Boden-Pellets."
-                    },
-                    {
-                        "name": "Nachmittag: Abdeckungskontrolle & Luftabstand an der Oberfläche",
-                        "text": "Lassen Sie 5–10 cm Platz unter der Abdeckung für die Atmung und Eiablage und dichten Sie Lücken nahe dem Filter ab."
-                    },
-                    {
-                        "name": "Abend: Beobachtung der Restefressaktivität & Pflanzenkontrolle",
-                        "text": "Beobachten Sie das Reinigen des Bodengrunds und stellen Sie sicher, dass robuste Pflanzen (Anubias, Javafarn) unbeschädigt bleiben."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum wird das Gehäuse meiner Apfelschnecke weiß oder löchrig?",
-                        "answer": "Dies liegt an saurem Wasser (pH unter 7,0) oder Kalziummangel. Säure löst den Kalk des Gehäuses auf. Geben Sie Sepiaschale oder Kalziumpräparate ins Wasser und halten Sie den pH-Wert im leicht alkalischen Bereich (7,5–8,0)."
-                    },
-                    {
-                        "question": "Fressen Apfelschnecken gesunde Aquarienpflanzen?",
-                        "answer": "Echte Apfelschnecken (Pomacea bridgesii) besitzen eine zu weiche Raspelzunge für gesunde Pflanzen und fressen nur abgestorbene Blätter sowie Algen. Nur die verwandte Art Pomacea canaliculata frisst Pflanzen. Kombinieren Sie sie mit festen Pflanzen wie Anubias."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Guia de cuidado do cálcio na concha da Ampulária, prevenção de fugas e rotina de 3 passos para aquário plantado",
-                "description": "Cuidados essenciais para a colorida Ampulária (Mystery Snail). Domine o controlo de cálcio na água para a concha, evite fugas fora do aquário e mantenha a harmonia com plantas naturais.",
-                "authority": "Padrões de Qualidade da Água da Ornamental Fish International (OFI) e Diretrizes Veterinárias para Invertebrados",
-                "profile": {
-                    "breed": "Ampulária / Caracol Mistério (Pomacea bridgesii)",
-                    "lifespan": "1 ~ 3 anos",
-                    "sleep_pattern": "Irregular (polifásico: períodos de sono de 2 a 4 horas a cada poucos dias)",
-                    "temperament": "Pacífico, dócil, tendências noturnas, limpador de detritos, explorador"
-                },
-                "intro": "A Ampulária (Pomacea bridgesii) é um invertebrado aquático popular no mundo inteiro pelas suas cores vibrantes (dourado, púrpura, azul, rosa) e pela excelente capacidade de limpeza de restos de comida e algas. Dotadas de longos tentáculos sensoriais e de um sifão respiratório, são animais fascinantes. No entanto, águas ácidas desgastam a concha de carbonato de cálcio, causando furos. Além disso, o seu instinto de desovar acima da água exige tampas herméticas. Descubra a rotina deste guia.",
-                "whyTitle": "Instintos da Ampulária: Extensão de tentáculos e subida à superfície",
-                "whyDesc": "As ampulárias emitem sinais claros sobre o ambiente. Em água limpa, estendem os tentáculos para explorar. Quando o oxigénio baixa, a água acidifica ou as fêmeas vão desovar, sobem pelas paredes acima do nível da água.",
-                "body_signals": [
-                    {
-                        "name": "Extensão de tentáculos e sifão (Tentacle & Siphon Extension)",
-                        "meaning": "Comportamento exploratório normal em água segura; estender o sifão perto da superfície permite respirar ar atmosférico.",
-                        "response": "Certifique-se de que não existem peixes beliscadores (Barbos ou Ciclídeos) que ataquem os seus tentáculos sensíveis."
-                    },
-                    {
-                        "name": "Subida à superfície e fecho do opérculo (Surface Climbing & Operculum Closing)",
-                        "meaning": "Procura de local de postura, falta de oxigénio ou toxinas (amónia/nitritos). Permanecer fechada sob o opérculo indica elevado stresse.",
-                        "response": "Verifique o fecho da tampa imediatamente, analise a água e realize uma troca parcial de água."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Controlo de GH/pH e alimento enriquecido com cálcio",
-                        "text": "Mantenha o pH ligeiramente alcalino (7.5–8.0) e dureza elevada (GH 8–12) para proteger a concha, oferecendo pastilhas de fundo ricas em cálcio."
-                    },
-                    {
-                        "name": "Tarde: Inspeção de tampas e margem de ar na superfície",
-                        "text": "Deixe um espaço de 5–10 cm de ar sob a tampa para respiração e postura, selando aberturas perto do filtro para evitar fugas."
-                    },
-                    {
-                        "name": "Noite: Observação de limpeza e integridade de plantas vivas",
-                        "text": "Observe como limpa os detritos e verifique se as plantas robustas (Anubias, Feto de Java) permanecem intactas."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Por que a concha da minha Ampulária fica branca ou com furos?",
-                        "answer": "É causado por água ácida (pH abaixo de 7.0) ou falta de cálcio. O ácido dissolve o carbonato de cálcio da concha. Adicione osso de choco ou cálcio líquido e mantenha o pH ligeiramente alcalino (7.5–8.0)."
-                    },
-                    {
-                        "question": "As Ampulárias vão comer as minhas plantas aquáticas vivas?",
-                        "answer": "A verdadeira Ampulária (Pomacea bridgesii) tem uma rádula macia incapaz de comer plantas vivas e duras; consome apenas folhas mortas e algas. A espécie Pomacea canaliculata é que devora plantas. Combine-as com plantas duras como Anubias."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Panduan Perawatan Kalsium Cangkang Siput Apel, Pencegahan Kabur, dan Rutinitas 3 Langkah Akuarium Tumbuhan",
-                "description": "Perawatan esensial untuk Siput Apel (Mystery Snail) berwarna cerah. Kelola kadar kalsium air untuk cangkang, cegah kabur keluar akuarium, dan jaga keharmonisan dengan tanaman air.",
-                "authority": "Standar Kualitas Air Ornamental Fish International (OFI) dan Panduan Kedokteran Hewan Invertebrata",
-                "profile": {
-                    "breed": "Siput Apel / Mystery Snail (Pomacea bridgesii)",
-                    "lifespan": "1 ~ 3 tahun",
-                    "sleep_pattern": "Tidak teratur (polifasik - tidur 2–4 jam setiap beberapa hari)",
-                    "temperament": "Damai, lembut, kecenderungan nokturnal, pemakan bangkai/sisa, eksploratif"
-                },
-                "intro": "Siput Apel (Pomacea bridgesii) adalah invertebrata akuatik yang sangat populer di dunia karena cangkangnya yang berwarna-warni (kuning emas, magenta, biru, merah muda) dan kemampuannya membersihkan sisa makanan serta lumut. Memiliki tentakel sensorik panjang dan sifon pernapasan, mereka sangat menarik. Namun, air asam atau lunak mengikis cangkang kalsiumnya hingga berlubang. Naluri bertelur di atas permukaan air juga membutuhkan penutup akuarium yang rapat.",
-                "whyTitle": "Insting Siput Apel: Merentangkan Tentakel dan Memanjat ke Permukaan",
-                "whyDesc": "Siput Apel memberikan sinyal fisik yang jelas. Di air yang bersih, mereka merentangkan tentakel panjang untuk mencari makan. Saat kadar oksigen turun, air menjadi asam, atau hendak bertelur, mereka memanjat ke atas permukaan air.",
-                "body_signals": [
-                    {
-                        "name": "Merentangkan Tentakel & Sifon (Tentacle & Siphon Extension)",
-                        "meaning": "Perilaku eksplorasi normal di air yang aman; merentangkan sifon dekat permukaan memungkinkan pengambilan udara atmosfer.",
-                        "response": "Pastikan tidak ada ikan jahil (seperti Barb atau Cichlid) yang menyerang tentakel sensoriknya."
-                    },
-                    {
-                        "name": "Memanjat Permukaan & Menutup Cangkang (Surface Climbing & Operculum Closing)",
-                        "meaning": "Mencari tempat bertelur, kurang oksigen, atau kadar racun (amonia/nitrit) tinggi. Menutup cangkang rapat-rapat menandakan stres berat.",
-                        "response": "Periksa kerapatan penutup akuarium, tes parameter air, dan lakukan penggantian air sebagian."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Cek GH/pH Air & Pemberian Pakan Tambahan Kalsium",
-                        "text": "Jaga pH agak basa (7.5–8.0) dan kesadahan tinggi (GH 8–12) untuk melindungi cangkang, serta berikan pelet tenggelam kaya kalsium."
-                    },
-                    {
-                        "name": "Siang: Pemeriksaan Penutup & Jarak Udara Permukaan",
-                        "text": "Beri ruang udara 5–10 cm di bawah penutup untuk bernapas dan bertelur, serta tutup celah dekat filter untuk mencegah kabur."
-                    },
-                    {
-                        "name": "Malam: Pengamatan Pembersihan Sisa Makanan & Kondisi Tanaman",
-                        "text": "Amati aktivitas pembersihan sisa makanan di dasar dan pastikan tanaman air yang kuat (Anubias, Java Fern) tetap utuh."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa cangkang Siput Apel saya memutih atau berlubang?",
-                        "answer": "Disebabkan oleh air yang terlalu asam (pH di bawah 7.0) atau kekurangan kalsium. Air asam melarutkan kalsium karbonat cangkang. Tambahkan tulang sotong (cuttlebone) atau kalsium cair, dan jaga pH agak basa (7.5–8.0)."
-                    },
-                    {
-                        "question": "Apakah Siput Apel akan memakan tanaman air hidup saya?",
-                        "answer": "Siput Apel sejati (Pomacea bridgesii) memiliki struktur mulut yang lembut sehingga tidak bisa memakan tanaman hidup yang sehat; mereka hanya memakan daun busuk dan lumut. Jenis Pomacea canaliculata lah yang merusak tanaman. Gabungkan dengan tanaman kuat seperti Anubias."
-                    }
-                ]
-            }
+  "apple-snail-care": {
+    "pubDate": "2026-02-05",
+    "updatedDate": "2026-02-05",
+    "locales": {
+      "ko": {
+        "title": "애플 스네일 패각(칼슘) 케어와 수조 탈출 방지·수초 합사 3단계 루틴",
+        "description": "노랑·보라 등 화려한 패각과 이끼 청소 능력을 가진 애플 스네일(미스터리 스네일) 맞춤 케어. 칼슘 수질 관리, 수조 탈출 방지 대책, 수생식물과의 조화로운 합사 팁을 상세히 다룹니다.",
+        "authority": "세계관상어협회 (OFI) 수질 관리 표준 및 무척추동물 의학 임상 가이드라인",
+        "profile": {
+          "breed": "애플 스네일 / 미스터리 스네일 (Apple Snail / Mystery Snail / Pomacea bridgesii)",
+          "lifespan": "1 ~ 3년",
+          "sleep_pattern": "불규칙적 (3~4일에 한 번씩 수풀이나 바닥재 위에서 2~4시간 연속 수면)",
+          "temperament": "평화로움, 온순함, 야행성 성향, 이끼 및 잔반 청소, 탐색적"
         },
-        "heroImage": "/images/blog/apple_snail_care.webp"
-    }
+        "intro": "애플 스네일(미스터리 스네일)은 골든, 퍼플, 블루, 핑크 등 다채롭고 알록달록한 패각(껍데기) 빛깔과 수조 내 잔반 및 이끼 청소 능력으로 전 세계 물생활 동호인들에게 큰 사랑을 받는 수생 무척추동물입니다. 긴 촉수와 사이펀(수면 호흡관)을 이용해 환경을 탐색하는 귀여운 모습이 매력적이지만, 산성 수질에서는 패각이 부식되거나 구멍이 뚫리기 쉽습니다. 또한 알을 낳기 위해 수면 위로 기어올라가 수조 밖으로 탈출하는 습성이 있어 뚜껑 설치가 필수적입니다. 이번 가이드에서는 애플 스네일의 본능 시그널을 해석하고, 칼슘 패각 관리, 탈출 방지 대책, 수초 합사를 위한 3단계 데일리 홈케어 루틴을 소개합니다.",
+        "whyTitle": "애플 스네일의 본능 시그널: 촉수 신장 및 수면 기어오르기(탈출 시도)",
+        "whyDesc": "애플 스네일은 수질 상태나 호흡 욕구에 따라 신체 시그널을 보냅니다. 환경이 안전하고 먹이가 풍부할 때는 긴 촉수를 펼쳐 물속을 탐색하지만, 수조 내 용존 산소가 부족하거나 산란기가 되면 수면 위로 기어올라가 사이펀을 뻗어 공기를 호흡하거나 수조 밖으로 탈출을 시도합니다.",
+        "body_signals": [
+          {
+            "name": "긴 촉수 및 사이펀 신장 (Tentacle & Siphon Extension)",
+            "meaning": "수질이 안정적이고 편안할 때 촉수로 주변을 탐색하거나, 수면 부근에서 사이펀을 길게 뻗어 공기를 호흡하는 정상적인 본능 활동입니다.",
+            "response": "촉수를 물어뜯는 공격성 어종(바브류, 대형 시클리드 등)이 없는지 점검하고 평화로운 수조 환경을 유지해 줍니다."
+          },
+          {
+            "name": "수면 위 기어오르기 / 껍데기 웅크리기 (Surface Climbing & Shell Inactivity)",
+            "meaning": "산란 장소를 찾거나 용존 산소 부족, 혹은 수질 오염(질산염/암모니아 상승) 시 수조를 탈출하려는 신호입니다. 껍데기 문(덮개)을 꽉 닫고 오랫동안 반응이 없으면 수질 이상이나 질병을 의미합니다.",
+            "response": "수조 뚜껑 마감을 즉시 확인하고, 수질 검사 키트로 암모니아 및 아질산 수치를 점검하여 부분 환수를 진행합니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: GH/pH 수질 점검 및 칼슘 보충 사료 급여",
+            "text": "패각 부식을 막기 위해 약알칼리성 pH(7.5~8.0) 및 높은 일반경도(GH 8~12)를 유지하고, 칼슘과 스피룰리나가 풍부한 침강성 펠렛 사료를 급여합니다."
+          },
+          {
+            "name": "낮: 수조 뚜껑 틈새 결착 및 수면 여유 공간 점검",
+            "text": "알을 낳거나 호흡하기 위해 올라올 수 있도록 수면 위 5~10cm 여유 공간을 확보하고, 호기심이나 산란욕구로 인한 탈출을 막기 위해 뚜껑 틈새를 정밀 밀폐합니다."
+          },
+          {
+            "name": "밤: 잔반 청소 상태 및 수초 훼손 여부 확인",
+            "text": "수조 바닥의 사료 잔반을 청소하는 상태를 관찰하고, 부드러운 수초(아나카리스 등) 대신 활착성 단단한 수초(나나, 미크로소리움 등)가 훼손되지 않았는지 확인합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "애플 스네일의 패각(껍데기)이 하얗게 침식되거나 구멍이 뚫리는데 이유가 무엇인가요?",
+            "answer": "수질이 약산성(pH 7.0 미만)이거나 물속 칼슘 농도가 부족하기 때문입니다. 약산성 수질은 패각의 주성분인 탄산칼슘을 녹여 표면을 하얗게 부식시킵니다. 수조에 뼈 오징어(컷틀본), 패각 가루, 혹은 칼슘 첨가제를 투여하고 약알칼리성 수질(pH 7.5 이상)을 유지해 주어야 합니다."
+          },
+          {
+            "question": "애플 스네일이 수초를 모두 먹어치우지 않나요?",
+            "answer": "진짜 미스터리 스네일(Pomacea bridgesii)은 이빨(치설) 구조상 건강하고 단단한 살아있는 수초를 갉아먹지 못하고 죽거나 시든 잎만 먹습니다. 단, 외형이 유사한 카나리큘라타(Pomacea canaliculata) 종은 살아있는 수초를 모두 먹어 치우므로, 구입 시 종 구분을 명확히 하고 나나, 미크로소리움, 볼비티스 같은 단단한 수초와 합사하는 것이 안전합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Apple Snail Shell Calcium Care, Escape Prevention, and 3-Step Live Plant Tank Routine",
+        "description": "Essential care for the vibrant Apple Snail (Mystery Snail). Learn to manage shell calcium levels in water, prevent tank escapes, and maintain a harmonious planted aquarium.",
+        "authority": "Ornamental Fish International (OFI) Water Quality Standards and Invertebrate Veterinary Guidelines",
+        "profile": {
+          "breed": "Apple Snail / Mystery Snail (Pomacea bridgesii)",
+          "lifespan": "1 ~ 3 Years",
+          "sleep_pattern": "Irregular (Polyphasic - Sleep Batches of 2–4 Hours Every Few Days)",
+          "temperament": "Peaceful, Gentle, Nocturnal Tendencies, Scavenger, Exploratory"
+        },
+        "intro": "The Apple Snail, commonly known as the Mystery Snail (Pomacea bridgesii), is a globally popular aquatic invertebrate prized for its vibrant shell colors ranging from golden yellow and magenta to violet and blue. Outstanding scavengers of leftover food and algae, they feature long sensory tentacles and a breathing siphon. However, soft or acidic water erodes their calcium-based shells, causing pitting and deterioration. Furthermore, their instinct to lay egg clutches above the waterline makes secure tank covers mandatory to prevent fatal falls and escapes. In this guide, we decode Mystery Snail behavioral signals and present a 3-step homecare routine for shell calcium maintenance, escape prevention, and planted tank cohabitation.",
+        "whyTitle": "Mystery Snail Instincts: Tentacle Sensing and Surface Climbing",
+        "whyDesc": "Mystery Snails send clear physical signals regarding their environment. In clean, safe water, they extend long sensory tentacles to scavenge for food. When oxygen levels drop, water turns acidic, or females prepare to lay eggs, they climb up walls above the waterline and extend their breathing siphon or attempt to escape the tank.",
+        "body_signals": [
+          {
+            "name": "Tentacle & Siphon Extension",
+            "meaning": "Normal exploratory behavior in safe water; extending the breathing siphon near the surface allows atmospheric air intake.",
+            "response": "Ensure no nipping fish species (like Tiger Barbs or Cichlids) attack their delicate sensory tentacles."
+          },
+          {
+            "name": "Surface Climbing & Trapdoor Withdrawal",
+            "meaning": "An indicator of egg-laying behavior, low dissolved oxygen, or high toxins (ammonia/nitrates). Remaining sealed in their shell via operculum indicates severe stress or poor water quality.",
+            "response": "Check lid seals immediately to prevent escapes, test water parameters for toxins, and perform a partial water change."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: GH/pH Water Check & Calcium Supplement Feeding",
+            "text": "Maintain slightly alkaline pH (7.5–8.0) and high general hardness (GH 8–12) to protect shells, feeding calcium-fortified sinking pellets."
+          },
+          {
+            "name": "Afternoon: Lid Seal Inspection & Water Level Adjustment",
+            "text": "Maintain a 5–10 cm air gap below the tank rim for breathing/egg laying, and seal all canopy gaps near filters to stop escape attempts."
+          },
+          {
+            "name": "Evening: Scavenging Observation & Live Plant Integrity Check",
+            "text": "Observe their scavenging activity on substrate waste and verify that sturdy live plants (e.g., Anubias, Java Fern) remain healthy and intact."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why is my Mystery Snail's shell turning white, pitting, or cracking?",
+            "answer": "This is caused by acidic water (pH below 7.0) or low calcium hardness. Acidic water dissolves calcium carbonate, weakening the shell structure. Add cuttlebone, crushed coral, or liquid calcium supplements, and keep water slightly alkaline (pH 7.5–8.0)."
+          },
+          {
+            "question": "Will Mystery Snails eat and destroy my live aquarium plants?",
+            "answer": "True Mystery Snails (Pomacea bridgesii) have delicate rasping mouthparts that cannot eat healthy, tough live plants; they only consume decaying leaves and algae. However, the similar Channeled Apple Snail (Pomacea canaliculata) destroys live plants. Ensure proper species identification and pair with sturdy plants like Anubias or Java Fern."
+          }
+        ]
+      },
+      "ja": {
+        "title": "アップルスネイルの殻（カルシウム）ケアと脱走防止・水草混泳の3ステップルーティン",
+        "description": "黄色や紫色などの鮮やかな殻を持つアップルスネイル（ミステリースネイル）の専門ケア。カルシウム水質管理、水槽脱走防止策、水草との調和した混泳コツを詳しく解説します。",
+        "authority": "世界観賞魚協会 (OFI) 水質管理基準および無脊椎動物医学臨床ガイドライン",
+        "profile": {
+          "breed": "アップルスネイル / ミステリースネイル (Pomacea bridgesii)",
+          "lifespan": "1 〜 3年",
+          "sleep_pattern": "不定期 (数日に1回、流木や床材の上で2〜4時間連続睡眠)",
+          "temperament": "平和、温和、夜行性傾向、お掃除役、探求心旺盛"
+        },
+        "intro": "ゴールデン、パープル、ブルー、ピンクなどカラフルな貝殻と、残餌やコケの掃除能力で世界中のアクアリストに愛される水生無脊椎動物のアップルスネイル（ミステリースネイル）。長触手やサイフォン（呼吸管）を使って環境を探る姿が愛くるしいですが、酸性水質では貝殻が溶けて穴が空いてしまいます。また、産卵期や呼吸時に水面から這い上がり、水槽外へ脱走する習性があるためフタの密閉が必須です。本記事では、本能サインの解読と、カルシウム殻管理・脱走防止・水草混泳を叶える3ステップ日常ケアをご紹介します。",
+        "whyTitle": "アップルスネイルの習性サイン：触手の伸長と水面登り（脱走試み）",
+        "whyDesc": "アップルスネイルは水質や呼吸欲求に応じて身体サインを出します。水質が安定している時は長い触手を広げて探査しますが、酸欠や水質悪化、産卵時には水面の上に這い上がり、サイフォンを伸ばして空気呼吸をしたり水槽外への脱走を試みます。",
+        "body_signals": [
+          {
+            "name": "長い触手とサイフォンの伸長 (Tentacle & Siphon Extension)",
+            "meaning": "水質が安定している快適な状態での探査行動、または水面付近でサイフォンを伸ばして空気呼吸を行う正常な本能行動です。",
+            "response": "触手を突っつく攻撃的な魚（スマトラや大型シクリッド等）がいないか確認し、平和な混泳環境を維持します。"
+          },
+          {
+            "name": "水面登りと蓋閉め引きこもり (Surface Climbing & Operculum Closing)",
+            "meaning": "産卵場所の探索、酸欠、またはアンモニア・硝酸塩などの水質悪化による脱走サインです。蓋（ふた）を固く閉じて動かない場合は深刻な水質異常を示します。",
+            "response": "水槽のフタの隙間をすぐ確認し、水質検査を行ってアンモニア・亜硝酸が高い場合は部分水換えを行います。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：GH/pH水質チェックとカルシウム補給餌の給餌",
+            "text": "殻の溶出を防ぐため弱アルカリ性pH（7.5〜8.0）と高い硬度（GH 8〜12）を維持し、カルシウム・スピルリナ配合の沈下性ペレットを与えます。"
+          },
+          {
+            "name": "昼：水槽フタの隙間チェックと水面上の空間確保",
+            "text": "空気呼吸や産卵のために水面上5〜10cmの空間を確保し、隙間からの脱走を防ぐためフタの合致をしっかり確認します。"
+          },
+          {
+            "name": "夜：残餌掃除状態の観察と水草の食害チェック",
+            "text": "底床の残餌を掃除する様子を観察し、ナナやミクロソリウムなどの硬い活着性水草が傷ついていないか確認します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "アップルスネイルの殻が白く溶けたり穴が空く理由は？",
+            "answer": "水質が弱酸性（pH 7.0未満）であるか、カルシウム分が不足しているためです。酸性水は殻の主成分である炭酸カルシウムを溶かします。カットルボーン（カトルボーン）やカルシウム添加剤を投入し、弱アルカリ性（pH 7.5以上）を維持してください。"
+          },
+          {
+            "question": "アップルスネイルは水草を全部食べてしまいますか？",
+            "answer": "本物のミステリースネイル（Pomacea bridgesii）は歯が柔らかいため、健康で硬い生きている水草は食べられず、枯れ葉やコケだけを食べます。ただし、類似種のスクミリンゴガイ（Pomacea canaliculata）は水草を食い荒らすため、購入時に種を確認し、ナナやミクロソリウムなどの硬い水草と混泳させるのが安全です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "苹果螺（Mystery Snail）外壳钙质护理、防逃跑与水草缸共存3阶段日常指南",
+        "description": "针对拥有金色、紫色等缤纷外壳的苹果螺（神秘螺 / Apple Snail）专属护理。学习外壳钙质水质管理、防逃跑措施以及与水生植物和谐共存的技巧。",
+        "authority": "国际观赏鱼协会 (OFI) 水质管理标准与无脊椎动物临床兽医指南",
+        "profile": {
+          "breed": "苹果螺 / 神秘螺 (Apple Snail / Mystery Snail / Pomacea bridgesii)",
+          "lifespan": "1 ~ 3年",
+          "sleep_pattern": "不定期 (每隔几天在沉木或底沙上连续睡眠2~4小时)",
+          "temperament": "和平、温和、偏夜行性、清洁残饵、探索型"
+        },
+        "intro": "苹果螺（神秘螺）因其金黄、紫罗兰、蔚蓝、粉红等色彩斑斓的外壳，以及清理水族箱残饵和藻类的高效能力，在全球观赏鱼爱好者中极具人气。它们利用长触角和呼吸管（Siphon）探索水下世界，模样十分讨喜。然而，在酸性软水中，它们富含钙质的外壳极易腐蚀发白甚至穿孔。此外，它们在产卵期或缺氧时有爬出水面脱逃的习性，因此加盖防护至关重要。本指南将解析苹果螺的本能信号，并分享涵盖外壳钙质维护、防逃跑措施与水草缸共存的3阶段日常护理流程。",
+        "whyTitle": "苹果螺的本能信号：触角伸展与爬出水面（逃跑倾向）",
+        "whyDesc": "苹果螺根据水质和呼吸需求表达身体信号。在水质优良且食物充足时，它们会伸出长触角探索底沙；当水中溶氧量不足、水质酸化或准备产卵时，它们会爬上缸壁伸出呼吸管吸取空气，甚至尝试爬出水族箱。",
+        "body_signals": [
+          {
+            "name": "触角与呼吸管伸展 (Tentacle & Siphon Extension)",
+            "meaning": "在舒适水质中探索四周，或在水面附近伸长呼吸管吸取空气的正常本能行为。",
+            "response": "检查水族箱内是否有爱咬触角的鱼类（如虎皮鱼、大型慈鲷等），确保混养环境和平。"
+          },
+          {
+            "name": "爬出水面与紧闭厣盖 (Surface Climbing & Shell Inactivity)",
+            "meaning": "寻找产卵地点、水中缺氧或毒素（氨/亚硝酸盐）超标时的逃跑信号。若紧闭厣盖长久不动，代表严重应激或水质恶化。",
+            "response": "检查水族箱盖密封性防止逃跑，测试水质参数并及时进行局部换水。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：GH/pH水质检测与高钙沉底饲料投喂",
+            "text": "保持弱碱性pH（7.5–8.0）与较高硬度（GH 8–12）以防外壳腐蚀，投喂富含钙质与螺旋藻的沉底颗粒饲料。"
+          },
+          {
+            "name": "中午：水族箱盖缝隙检查与水面上方空间留白",
+            "text": "保留水面上方5–10厘米的空间供其呼吸与产卵，并严格封闭过滤器旁的所有缝隙以防逃跑。"
+          },
+          {
+            "name": "晚上：观察残饵清理状况与水草完整性",
+            "text": "观察其清理底沙残饵的情况，确认水榕、铁皇冠等硬叶水草未受损坏。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "为什么苹果螺的外壳会发白、脱皮甚至打洞？",
+            "answer": "这是由于水质偏酸（pH低于7.0）或水中钙质浓度不足造成的。酸性水会溶解外壳主要成分碳酸钙。应在水族箱中加入墨鱼骨、水草钙粉或钙质添加剂，并将水质维持在弱碱性（pH 7.5–8.0）。"
+          },
+          {
+            "question": "苹果螺会吃光水族箱里的活体水草吗？",
+            "answer": "真正的神秘螺（Pomacea bridgesii）齿舌构造较软，无法啃食健康硬实的新鲜水草，仅进食腐烂叶片与藻类。但外形相似的福寿螺（Pomacea canaliculata）会啃食活体水草。购买时应严格区分品种，并与水榕、铁皇冠等硬叶水草混养。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Guía de cuidado del calcio en la concha del Caracol Manzana, prevención de fugas y rutina de 3 pasos para acuario plantado",
+        "description": "Cuidado especial para el vistoso Caracol Manzana (Mystery Snail). Domine el control de calcio en el agua para su concha, prevenga fugas fuera del acuario y mantenga la armonía con plantas naturales.",
+        "authority": "Estándares de Calidad del Agua de Ornamental Fish International (OFI) y Guías de Veterinaria de Invertebrados",
+        "profile": {
+          "breed": "Caracol Manzana / Caracol Misterio (Pomacea bridgesii)",
+          "lifespan": "1 ~ 3 años",
+          "sleep_pattern": "Irregular (polifásico: descansos de 2 a 4 horas cada varios días)",
+          "temperament": "Pacífico, dócil, tendencias nocturnas, limpiador de detritos, explorador"
+        },
+        "intro": "El Caracol Manzana (Pomacea bridgesii) es un invertebrado acuático sumamente popular en la acuariofilia mundial por sus variadas tonalidades (dorado, púrpura, azul, rosa) y su excelente labor limpiando restos de alimento y algas. Dotados de largas tentáculos sensoriales y un sifón respiratorio, son animales exploradores fascinantes. Sin embargo, las aguas blandas o ácidas desgastan su concha de carbonato cálcico, provocando erosión o agujeros. Además, su instinto de desovar sobre la línea de agua exige tapas herméticas. Descubra la rutina de esta guía para cuidar su concha, evitar fugas y mantener un acuario plantado perfecto.",
+        "whyTitle": "Instintos del Caracol Manzana: Extensión de tentáculos y subidas a la superficie",
+        "whyDesc": "Los caracoles manzana transmiten señales claras sobre su entorno. En agua limpia y segura, extienden sus largos tentáculos para explorar. Cuando el nivel de oxígeno desciende, el agua se acidifica o las hembras van a poner huevos, trepan por las paredes sobre el nivel del agua y extienden su sifón o intentan escapar.",
+        "body_signals": [
+          {
+            "name": "Extensión de tentáculos y sifón (Tentacle & Siphon Extension)",
+            "meaning": "Comportamiento exploratorio normal en agua segura; extender el sifón cerca de la superficie permite respirar aire atmosférico.",
+            "response": "Asegúrese de que no haya peces mordedores (como Barbos o Cíclidos) que ataquen sus delicados tentáculos."
+          },
+          {
+            "name": "Subida a la superficie y cierre del opérculo (Surface Climbing & Operculum Closing)",
+            "meaning": "Búsqueda de zona de puesta, falta de oxígeno o picos de amonio/nitratos. Permanecer sellado mediante el opérculo indica alto estrés o mala calidad del agua.",
+            "response": "Revise el sellado de la tapa de inmediato, analice los parámetros del agua y realice un cambio parcial de agua."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Control de GH/pH y alimento enriquecido con calcio",
+            "text": "Mantenga un pH ligeramente alcalino (7.5–8.0) y dureza alta (GH 8–12) para proteger la concha, ofreciendo pastillas de fondo ricas en calcio."
+          },
+          {
+            "name": "Tarde: Inspección de tapas y margen de aire en la superficie",
+            "text": "Deje un espacio de 5–10 cm de aire bajo la tapa para su respiración y puesta de huevos, sellando huecos cerca de los filtros para evitar fugas."
+          },
+          {
+            "name": "Noche: Observación de limpieza e integridad de plantas vivas",
+            "text": "Observe cómo limpia los detritos del sustrato y verifique que las plantas robustas (Anubias, Helecho de Java) permanezcan intactas."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué la concha de mi Caracol Manzana se vuelve blanca o presenta agujeros?",
+            "answer": "Se debe a agua ácida (pH inferior a 7.0) o falta de calcio disuelto. El ácido disuelve el carbonato cálcico de la concha. Añada hueso de jibia, arena de coral o calcio líquido, y mantenga un pH ligeramente alcalino (7.5–8.0)."
+          },
+          {
+            "question": "¿Los Caracoles Manzana se comerán mis plantas naturales del acuario?",
+            "answer": "El verdadero Caracol Manzana (Pomacea bridgesii) posee una rádula suave incapaz de comer plantas sanas y duras; solo consume hojas en descomposición y algas. Sin embargo, la especie Pomacea canaliculata sí devora plantas. Verifique la especie y manténgalo con plantas duras como Anubias o Helecho de Java."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Soins du calcium de la coquille de l'Escargot Pomme, prévention des fuites et routine en 3 étapes pour aquarium planté",
+        "description": "Soins essentiels pour l'Escargot Pomme / Mystère (Mystery Snail). Gérez le taux de calcium pour sa coquille, évitez les fuites hors du bac et maintenez l'harmonie avec les plantes aquatiques.",
+        "authority": "Normes de Qualité de l'Eau de l'Ornamental Fish International (OFI) et Directives Vétérinaires pour Invertébrés",
+        "profile": {
+          "breed": "Escargot Pomme / Escargot Mystère (Apple Snail / Pomacea bridgesii)",
+          "lifespan": "1 ~ 3 ans",
+          "sleep_pattern": "Irrégulier (polyphasique : périodes de sommeil de 2 à 4 heures tous les quelques jours)",
+          "temperament": "Paisible, doux, tendances nocturnes, détritivore, explorateur"
+        },
+        "intro": "L'Escargot Pomme (Pomacea bridgesii) est un invertébré aquatique populaire dans le monde entier pour sa coquille aux couleurs vives (jaune d'or, violet, bleu, rose) et sa capacité à nettoyer les restes de nourriture et les algues. Doté de longs tentacules tactiles et d'un siphon respiratoire, il est très attrayant. Cependant, une eau acide ou trop douce érode sa coquille en carbonate de calcium. De plus, son instinct de pondre ses grappes d'œufs au-dessus de l'eau nécessite un couvercle parfaitement ajusté pour éviter les fuites fatales. Découvrez la routine .",
+        "whyTitle": "Instincts de l'Escargot Pomme : Déploiement des tentacules et remontée en surface",
+        "whyDesc": "L'Escargot Pomme émet des signaux physiques clairs selon la qualité de son environnement. Dans une eau saine, il déploie ses tentacules pour chercher de la nourriture. Lorsque le taux d'oxygène chute, que l'eau s'acidifie ou que la femelle s'apprête à pondre, il escalade les vitres au-dessus du niveau de l'eau.",
+        "body_signals": [
+          {
+            "name": "Déploiement des tentacules et du siphon (Tentacle & Siphon Extension)",
+            "meaning": "Comportement d'exploration normal en eau saine ; étirer son siphon près de la surface lui permet d'aspirer de l'air ambiant.",
+            "response": "Assurez-vous qu'aucun poisson mordreur (Barbus, Cichlidés) ne s'attaque à ses tentacules sensibles."
+          },
+          {
+            "name": "Remontée en surface et fermeture de l'opercule (Surface Climbing & Trapdoor Withdrawal)",
+            "meaning": "Recherche d'un site de ponte, manque d'oxygène ou présence de toxines (ammoniac/nitrites). Rester enfermé sous son opercule indique un fort stress.",
+            "response": "Vérifiez l'étanchéité du couvercle, testez les paramètres de l'eau et réalisez un changement d'eau partiel."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Contrôle du GH/pH et apport d'aliments enrichis en calcium",
+            "text": "Maintenez un pH légèrement alcalin (7,5–8,0) et une dureté élevée (GH 8–12) pour protéger la coquille, en distribuant des pastilles de fond enrichies en calcium."
+          },
+          {
+            "name": "Après-midi : Vérification du couvercle et espace d'air en surface",
+            "text": "Laissez un espace de 5 à 10 cm d'air sous le couvercle pour la respiration et la ponte, et bouchez les ouvertures près du filtre pour empêcher toute fuite."
+          },
+          {
+            "name": "Soir : Observation du nettoyage du fond et état des plantes",
+            "text": "Observez son activité de détritivore sur le substrat et vérifiez que les plantes robustes (Anubias, Fougère de Java) restent intactes."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi la coquille de mon Escargot Pomme devient-elle blanche ou trouée ?",
+            "answer": "Cela est dû à une eau acide (pH inférieur à 7,0) ou pauvre en calcium. L'acide dissout le carbonate de calcium de la coquille. Ajoutez de l'os de seiche, du sable de corail ou du calcium liquide, et conservez un pH légèrement alcalin (7,5–8,0)."
+          },
+          {
+            "question": "L'Escargot Pomme va-t-il dévorer mes plantes aquatiques vivantes ?",
+            "answer": "Le véritable Escargot Mystère (Pomacea bridgesii) possède une radula trop tendre pour manger des plantes vivantes en bonne santé ; il ne consomme que les feuilles mortes et les algues. Seule l'espèce Pomacea canaliculata détruit les plantes. Associez-le à des plantes robustes comme les Anubias."
+          }
+        ]
+      },
+      "de": {
+        "title": "Apfelschnecke Gehäuse-Kalziumpflege, Ausbruchschutz und 3-Schritte-Routine für Pflanzenaquarien",
+        "description": "Essenzielle Pflege für die farbenfrohe Apfelschnecke (Mystery Snail). Lernen Sie, den Kalziumgehalt im Wasser für das Gehäuse zu steuern, Ausbrüche zu verhindern und ein bepflanztes Aquarium zu pflegen.",
+        "authority": "Wasserqualitätsstandards der Ornamental Fish International (OFI) und Klinische Leitlinien für Wirbellose",
+        "profile": {
+          "breed": "Apfelschnecke / Mystery Snail (Pomacea bridgesii)",
+          "lifespan": "1 ~ 3 Jahre",
+          "sleep_pattern": "Unregelmäßig (polyphasisch - Schlafphasen von 2–4 Stunden alle paar Tage)",
+          "temperament": "Friedlich, sanft, nachtaktiv, Restefresser, erkundungsfreudig"
+        },
+        "intro": "Die Apfelschnecke (Pomacea bridgesii) ist ein weltweit geschätzter wirbelloser Aquarienbewohner, der durch Gehäusefarben von Goldgelb über Magenta bis hin zu Blau fasziniert. Als hervorragende Restefresser verfügen sie über lange Fühler und einen Atemsiphon. Weiches oder saures Wasser greift jedoch ihr kalkhaltiges Gehäuse an und führt zu Löchern. Zudem erfordert ihr Instinkt, Gelege oberhalb der Wasserlinie abzulegen, eine lückenlose Aquarienabdeckung.",
+        "whyTitle": "Instinkte der Apfelschnecke: Fühlereinsatz und Klettern an die Oberfläche",
+        "whyDesc": "Apfelschnecken zeigen klare Körpersignale. In sauberem Wasser strecken sie ihre Fühler weit aus. Bei Sauerstoffmangel, saurem Wasser oder zur Eiablage klettern sie an den Scheiben über die Wasseroberfläche und strecken ihren Siphon aus oder versuchen auszubrechen.",
+        "body_signals": [
+          {
+            "name": "Ausstrecken von Fühlern & Siphon (Tentacle & Siphon Extension)",
+            "meaning": "Normales Erkundungsverhalten bei guten Wasserwerten; der Siphon nahe der Oberfläche dient der atmosphärischen Luftaufnahme.",
+            "response": "Achten Sie darauf, dass keine anknabbernden Fischarten (wie Sumatrabarben oder Buntbarsche) ihre Fühler attackieren."
+          },
+          {
+            "name": "Klettern an die Oberfläche & Gehäuserückzug (Surface Climbing & Operculum Closing)",
+            "meaning": "Anzeichen für Eiablage, Sauerstoffmangel oder Giftstoffe (Ammoniak/Nitrit). Dauerhaftes Verschließen mit dem Deckel zeigt starken Stress.",
+            "response": "Prüfen Sie die Abdeckung sofort auf Lücken, testen Sie das Wasser und führen Sie einen Teilwasserwechsel durch."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: GH/pH-Wasserwertkontrolle & Kalziumfütterung",
+            "text": "Halten Sie leicht alkalische pH-Werte (7,5–8,0) und hohe Gesamthärte (GH 8–12), um das Gehäuse zu schützen, und füttern Sie kalziumreiche Boden-Pellets."
+          },
+          {
+            "name": "Nachmittag: Abdeckungskontrolle & Luftabstand an der Oberfläche",
+            "text": "Lassen Sie 5–10 cm Platz unter der Abdeckung für die Atmung und Eiablage und dichten Sie Lücken nahe dem Filter ab."
+          },
+          {
+            "name": "Abend: Beobachtung der Restefressaktivität & Pflanzenkontrolle",
+            "text": "Beobachten Sie das Reinigen des Bodengrunds und stellen Sie sicher, dass robuste Pflanzen (Anubias, Javafarn) unbeschädigt bleiben."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum wird das Gehäuse meiner Apfelschnecke weiß oder löchrig?",
+            "answer": "Dies liegt an saurem Wasser (pH unter 7,0) oder Kalziummangel. Säure löst den Kalk des Gehäuses auf. Geben Sie Sepiaschale oder Kalziumpräparate ins Wasser und halten Sie den pH-Wert im leicht alkalischen Bereich (7,5–8,0)."
+          },
+          {
+            "question": "Fressen Apfelschnecken gesunde Aquarienpflanzen?",
+            "answer": "Echte Apfelschnecken (Pomacea bridgesii) besitzen eine zu weiche Raspelzunge für gesunde Pflanzen und fressen nur abgestorbene Blätter sowie Algen. Nur die verwandte Art Pomacea canaliculata frisst Pflanzen. Kombinieren Sie sie mit festen Pflanzen wie Anubias."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Guia de cuidado do cálcio na concha da Ampulária, prevenção de fugas e rotina de 3 passos para aquário plantado",
+        "description": "Cuidados essenciais para a colorida Ampulária (Mystery Snail). Domine o controlo de cálcio na água para a concha, evite fugas fora do aquário e mantenha a harmonia com plantas naturais.",
+        "authority": "Padrões de Qualidade da Água da Ornamental Fish International (OFI) e Diretrizes Veterinárias para Invertebrados",
+        "profile": {
+          "breed": "Ampulária / Caracol Mistério (Pomacea bridgesii)",
+          "lifespan": "1 ~ 3 anos",
+          "sleep_pattern": "Irregular (polifásico: períodos de sono de 2 a 4 horas a cada poucos dias)",
+          "temperament": "Pacífico, dócil, tendências noturnas, limpador de detritos, explorador"
+        },
+        "intro": "A Ampulária (Pomacea bridgesii) é um invertebrado aquático popular no mundo inteiro pelas suas cores vibrantes (dourado, púrpura, azul, rosa) e pela excelente capacidade de limpeza de restos de comida e algas. Dotadas de longos tentáculos sensoriais e de um sifão respiratório, são animais fascinantes. No entanto, águas ácidas desgastam a concha de carbonato de cálcio, causando furos. Além disso, o seu instinto de desovar acima da água exige tampas herméticas. Descubra a rotina deste guia.",
+        "whyTitle": "Instintos da Ampulária: Extensão de tentáculos e subida à superfície",
+        "whyDesc": "As ampulárias emitem sinais claros sobre o ambiente. Em água limpa, estendem os tentáculos para explorar. Quando o oxigénio baixa, a água acidifica ou as fêmeas vão desovar, sobem pelas paredes acima do nível da água.",
+        "body_signals": [
+          {
+            "name": "Extensão de tentáculos e sifão (Tentacle & Siphon Extension)",
+            "meaning": "Comportamento exploratório normal em água segura; estender o sifão perto da superfície permite respirar ar atmosférico.",
+            "response": "Certifique-se de que não existem peixes beliscadores (Barbos ou Ciclídeos) que ataquem os seus tentáculos sensíveis."
+          },
+          {
+            "name": "Subida à superfície e fecho do opérculo (Surface Climbing & Operculum Closing)",
+            "meaning": "Procura de local de postura, falta de oxigénio ou toxinas (amónia/nitritos). Permanecer fechada sob o opérculo indica elevado stresse.",
+            "response": "Verifique o fecho da tampa imediatamente, analise a água e realize uma troca parcial de água."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Controlo de GH/pH e alimento enriquecido com cálcio",
+            "text": "Mantenha o pH ligeiramente alcalino (7.5–8.0) e dureza elevada (GH 8–12) para proteger a concha, oferecendo pastilhas de fundo ricas em cálcio."
+          },
+          {
+            "name": "Tarde: Inspeção de tampas e margem de ar na superfície",
+            "text": "Deixe um espaço de 5–10 cm de ar sob a tampa para respiração e postura, selando aberturas perto do filtro para evitar fugas."
+          },
+          {
+            "name": "Noite: Observação de limpeza e integridade de plantas vivas",
+            "text": "Observe como limpa os detritos e verifique se as plantas robustas (Anubias, Feto de Java) permanecem intactas."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que a concha da minha Ampulária fica branca ou com furos?",
+            "answer": "É causado por água ácida (pH abaixo de 7.0) ou falta de cálcio. O ácido dissolve o carbonato de cálcio da concha. Adicione osso de choco ou cálcio líquido e mantenha o pH ligeiramente alcalino (7.5–8.0)."
+          },
+          {
+            "question": "As Ampulárias vão comer as minhas plantas aquáticas vivas?",
+            "answer": "A verdadeira Ampulária (Pomacea bridgesii) tem uma rádula macia incapaz de comer plantas vivas e duras; consome apenas folhas mortas e algas. A espécie Pomacea canaliculata é que devora plantas. Combine-as com plantas duras como Anubias."
+          }
+        ]
+      },
+      "id": {
+        "title": "Panduan Perawatan Kalsium Cangkang Siput Apel, Pencegahan Kabur, dan Rutinitas 3 Langkah Akuarium Tumbuhan",
+        "description": "Perawatan esensial untuk Siput Apel (Mystery Snail) berwarna cerah. Kelola kadar kalsium air untuk cangkang, cegah kabur keluar akuarium, dan jaga keharmonisan dengan tanaman air.",
+        "authority": "Standar Kualitas Air Ornamental Fish International (OFI) dan Panduan Kedokteran Hewan Invertebrata",
+        "profile": {
+          "breed": "Siput Apel / Mystery Snail (Pomacea bridgesii)",
+          "lifespan": "1 ~ 3 tahun",
+          "sleep_pattern": "Tidak teratur (polifasik - tidur 2–4 jam setiap beberapa hari)",
+          "temperament": "Damai, lembut, kecenderungan nokturnal, pemakan bangkai/sisa, eksploratif"
+        },
+        "intro": "Siput Apel (Pomacea bridgesii) adalah invertebrata akuatik yang sangat populer di dunia karena cangkangnya yang berwarna-warni (kuning emas, magenta, biru, merah muda) dan kemampuannya membersihkan sisa makanan serta lumut. Memiliki tentakel sensorik panjang dan sifon pernapasan, mereka sangat menarik. Namun, air asam atau lunak mengikis cangkang kalsiumnya hingga berlubang. Naluri bertelur di atas permukaan air juga membutuhkan penutup akuarium yang rapat.",
+        "whyTitle": "Insting Siput Apel: Merentangkan Tentakel dan Memanjat ke Permukaan",
+        "whyDesc": "Siput Apel memberikan sinyal fisik yang jelas. Di air yang bersih, mereka merentangkan tentakel panjang untuk mencari makan. Saat kadar oksigen turun, air menjadi asam, atau hendak bertelur, mereka memanjat ke atas permukaan air.",
+        "body_signals": [
+          {
+            "name": "Merentangkan Tentakel & Sifon (Tentacle & Siphon Extension)",
+            "meaning": "Perilaku eksplorasi normal di air yang aman; merentangkan sifon dekat permukaan memungkinkan pengambilan udara atmosfer.",
+            "response": "Pastikan tidak ada ikan jahil (seperti Barb atau Cichlid) yang menyerang tentakel sensoriknya."
+          },
+          {
+            "name": "Memanjat Permukaan & Menutup Cangkang (Surface Climbing & Operculum Closing)",
+            "meaning": "Mencari tempat bertelur, kurang oksigen, atau kadar racun (amonia/nitrit) tinggi. Menutup cangkang rapat-rapat menandakan stres berat.",
+            "response": "Periksa kerapatan penutup akuarium, tes parameter air, dan lakukan penggantian air sebagian."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Cek GH/pH Air & Pemberian Pakan Tambahan Kalsium",
+            "text": "Jaga pH agak basa (7.5–8.0) dan kesadahan tinggi (GH 8–12) untuk melindungi cangkang, serta berikan pelet tenggelam kaya kalsium."
+          },
+          {
+            "name": "Siang: Pemeriksaan Penutup & Jarak Udara Permukaan",
+            "text": "Beri ruang udara 5–10 cm di bawah penutup untuk bernapas dan bertelur, serta tutup celah dekat filter untuk mencegah kabur."
+          },
+          {
+            "name": "Malam: Pengamatan Pembersihan Sisa Makanan & Kondisi Tanaman",
+            "text": "Amati aktivitas pembersihan sisa makanan di dasar dan pastikan tanaman air yang kuat (Anubias, Java Fern) tetap utuh."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa cangkang Siput Apel saya memutih atau berlubang?",
+            "answer": "Disebabkan oleh air yang terlalu asam (pH di bawah 7.0) atau kekurangan kalsium. Air asam melarutkan kalsium karbonat cangkang. Tambahkan tulang sotong (cuttlebone) atau kalsium cair, dan jaga pH agak basa (7.5–8.0)."
+          },
+          {
+            "question": "Apakah Siput Apel akan memakan tanaman air hidup saya?",
+            "answer": "Siput Apel sejati (Pomacea bridgesii) memiliki struktur mulut yang lembut sehingga tidak bisa memakan tanaman hidup yang sehat; mereka hanya memakan daun busuk dan lumut. Jenis Pomacea canaliculata lah yang merusak tanaman. Gabungkan dengan tanaman kuat seperti Anubias."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/apple_snail_care.webp"
+  }
 }

@@ -1,459 +1,459 @@
 {
-    "indian-ringneck-care": {
-        "pubDate": "2026-06-11",
-        "updatedDate": "2026-06-11",
-        "heroImage": "/images/blog/indian_ringneck_care.webp",
-        "locales": {
-            "ko": {
-                "title": "인디언 링넥 앵무 언어 훈련법과 블러핑(사춘기) 교정·식이 밸런스 3단계 루틴",
-                "description": "목둘레 띠와 탁월한 언어 능력을 지닌 인디언 링넥 앵무(목도리앵무) 맞춤 케어. 언어 교감 훈련, 깃털 사춘기(Bluffing) 공격성 교정, 펠렛과 생식의 영양 밸런스를 다룹니다.",
-                "authority": "세계조류수의학회(Association of Avian Veterinarians, AAV) 임상 가이드라인 및 조류 행동학 표준",
-                "profile": {
-                    "breed": "인디언 링넥 앵무 / 목도리앵무 (Indian Ringneck Parakeet / Psittacula krameri)",
-                    "lifespan": "20 ~ 30년",
-                    "sleep_pattern": "10 ~ 12시간 (어두운 암막 커버 상태에서의 안정적인 수면)",
-                    "temperament": "영리함, 독립적임, 호기심 많음, 표현력이 풍부함, 사춘기 예민함"
-                },
-                "intro": "인디언 링넥 앵무(목도리앵무)는 성조 수컷 특유의 세련된 목둘레 띠(Ring)와 사람 말을 명확히 따라 하는 탁월한 언어 능력으로 글로벌 SNS와 유튜브에서 큰 사랑을 받는 중형 앵무새입니다. 지능이 매우 높고 독립적인 성향을 지녔지만, 1세 전후로 입질과 공격성이 폭발하는 '블러핑(Bluffing, 깃털 사춘기)' 시기를 겪게 됩니다. 이 시기의 올바른 행동 교정과 더불어 언어 교감 훈련, 영양 불균형을 막는 펠렛 중심의 식이 밸런스가 필수적입니다. 이번 가이드에서는 인디언 링넥 앵무의 본능 시그널을 해석하고, 언어 교감, 블러핑 극복, 영양 관리를 위한 3단계 데일리 홈케어 루틴을 소개합니다.",
-                "whyTitle": "인디언 링넥 앵무의 본능 시그널: 동공 수축(Eye Pinning)과 머리 흔들기",
-                "whyDesc": "인디언 링넥 앵무는 기쁨, 흥분, 혹은 경계 상태일 때 동공을 순간적으로 급격히 수축시키는 **'아이 피닝(Eye Pinning)'** 동작을 보입니다. 또한 좋아하는 사람이나 사물 앞에서 머리를 위아래로 율동감 있게 흔들며 말을 걸거나 흥얼거리는 행동으로 깊은 호감과 교감의 메시지를 전합니다.",
-                "body_signals": [
-                    {
-                        "name": "동공 수축 (Eye Pinning / Eye Flashing)",
-                        "meaning": "극도의 흥분, 호기심, 혹은 공격 직전의 경계 상태를 나타내는 지능형 조류의 감정 표현입니다.",
-                        "response": "주변 상황을 관찰하여 기쁜 흥분인지 경계인지 파악하고, 경계 상태라면 흥분이 가라앉을 때까지 다가가지 않고 조용히 기다려 줍니다."
-                    },
-                    {
-                        "name": "머리 흔들기 및 소리 내기 (Head Bobbing & Whistling)",
-                        "meaning": "보호자에 대한 깊은 호감과 교감 신호이며, 언어 훈련이나 흥미로운 자극에 반응하는 기쁨의 표시입니다.",
-                        "response": "다정한 목소리로 말을 받아주고 명확한 단어를 반복하여 언어 습득을 유도하는 기회로 활용합니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 영양 균형 펠렛 급여 및 10분 언어 교감 훈련",
-                        "text": "단백질과 비타민이 풍부한 기본 펠렛 사료를 급여하고, 정신이 맑은 아침 시간에 명확하고 밝은 톤으로 핵심 단어를 반복해 언어 자극을 줍니다."
-                    },
-                    {
-                        "name": "낮: 신선한 채소·과일 생식 급여 및 파괴형 장난감 교체",
-                        "text": "비타민 A와 섬유질이 풍부한 브로콜리, 당근, 사과 등 신선 생식을 제공하고, 사춘기 입질 욕구를 해소할 우드·파피루스 장난감을 배치합니다."
-                    },
-                    {
-                        "name": "밤: 아웃케이지 비행 및 블러핑 공격성 무시 교정 후 암막 수면",
-                        "text": "1시간 이상의 실내 비행 활동으로 에너지를 발산시키며, 사춘기 입질 시에는 소리 지르지 않고 무반응으로 격리하는 교정을 진행한 뒤 10~12시간 암막 수면을 보장합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "1세 전후의 블러핑(Bluffing, 깃털 사춘기) 입질은 어떻게 교정하나요?",
-                        "answer": "블러핑은 호르몬 변화와 독립심 형성으로 인한 자연스러운 발달 단계입니다. 앵무새가 물었을 때 소리를 지르거나 반응하면 이를 놀이로 오인하므로, 무표정과 무반응으로 손을 거두고 잠시 새장에 넣어 관심 끊기(Time-out) 교정을 지속해야 합니다."
-                    },
-                    {
-                        "question": "알곡(씨앗) 사료만 주면 어떤 건강 문제가 생기나요?",
-                        "answer": "알곡 위주의 식단은 지방 함량이 높고 비타민 A와 칼슘이 심각하게 부족하여 지방간, 비만, 깃털 손상 및 자해벽을 유발합니다. 영양적으로 완벽한 펠렛을 60~70% 이상 주식으로 하고 신선한 채소를 곁들여야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Indian Ringneck Parakeet Speech Training, Bluffing Correction, and 3-Step Dietary Routine",
-                "description": "Essential care for the elegant Indian Ringneck Parakeet. Master speech training, correct juvenile bluffing aggression, and maintain a healthy balance of pellets and fresh foods.",
-                "authority": "Association of Avian Veterinarians (AAV) Clinical Guidelines and Avian Behavioral Standards",
-                "profile": {
-                    "breed": "Indian Ringneck Parakeet (Psittacula krameri)",
-                    "lifespan": "20 ~ 30 Years",
-                    "sleep_pattern": "10 ~ 12 Hours (Polyphasic - Deep Rest in Blackout Covered Cages)",
-                    "temperament": "Intelligent, Independent, Curious, Expressive, Sensitive in Adolescence"
-                },
-                "intro": "The Indian Ringneck Parakeet is a medium-sized parrot wildly popular on social media for the adult male's distinguished neck ring and remarkable speech mimicry skills. Highly intelligent and independent, they go through a challenging juvenile 'bluffing' phase around one year of age characterized by sudden biting and aggression. Overcoming this phase requires consistent behavioral training, speech engagement, and a pellet-centered diet balanced with fresh produce. In this guide, decodes Indian Ringneck behavioral signals and shares a 3-step homecare routine for vocal bonding, bluffing correction, and optimal nutrition.",
-                "whyTitle": "Indian Ringneck Instincts: Eye Pinning and Rhythmic Head Bobbing",
-                "whyDesc": "Indian Ringnecks express intense emotions through rapid pupil constriction known as **'Eye Pinning'** during moments of joy, excitement, or territorial arousal. They also rhythmically bob their heads and chatter in front of favorite humans or objects as a sign of affection and vocal engagement.",
-                "body_signals": [
-                    {
-                        "name": "Eye Pinning / Eye Flashing",
-                        "meaning": "Rapid pupil constriction indicating heightened excitement, intense curiosity, or pre-bite territorial warning.",
-                        "response": "Assess the context: if it stems from aggression or fear, pause interaction and wait calmly until pupils stabilize."
-                    },
-                    {
-                        "name": "Head Bobbing & Whistling",
-                        "meaning": "A display of affection, excitement, and readiness for social interaction or speech training.",
-                        "response": "Respond enthusiastically with clear words and gentle praise to encourage mimicry and strengthen your bond."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Balanced Pellet Feeding & 10-Minute Speech Session",
-                        "text": "Offer a high-quality formulated pellet diet and conduct a focused 10-minute vocal repetition session in a clear, cheerful tone during morning alertness."
-                    },
-                    {
-                        "name": "Afternoon: Fresh Produce Chop & Foraging Toy Rotation",
-                        "text": "Provide fresh vegetables rich in Vitamin A (broccoli, carrots, leafy greens) and supply wood/paper foraging toys to channel juvenile chewing urges."
-                    },
-                    {
-                        "name": "Evening: Supervised Flight, Bluffing Correction & Blackout Sleep",
-                        "text": "Allow at least one hour of out-of-cage flight exercise. Correct biting by remaining neutral (no yelling) and applying a short time-out, then ensure 10–12 hours of covered sleep."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "How do I manage the juvenile 'Bluffing' phase biting?",
-                        "answer": "Bluffing is a natural hormonal developmental stage. Yelping or reacting dramatically rewards the bird with attention. Instead, maintain a neutral expression, withdraw your hand calmly, and give a brief 5-minute cage time-out to reinforce boundaries."
-                    },
-                    {
-                        "question": "Why is an all-seed diet dangerous for Indian Ringnecks?",
-                        "answer": "Seed-only diets are excessively high in fat and deficient in Vitamin A and calcium, leading to fatty liver disease, obesity, feather plucking, and shortened lifespans. Formulated pellets should make up 60–70% of their daily intake, supplemented with fresh vegetables."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ワカケホンセイインコ（インディアンリングネック）のおしゃべり訓練とブラフィング（反抗期）矯正・3ステップ食餌ルーティン",
-                "description": "首のリング模様と高い言語能力を持つワカケホンセイインコ（インディアンリングネック）の専門ケア。おしゃべり訓練、ブラフィング（反抗期）の噛み癖矯正、ペレットと生食の栄養バランスを解説します。",
-                "authority": "世界鳥類獣医学会 (AAV) 臨床ガイドラインおよび鳥類行動学標準",
-                "profile": {
-                    "breed": "ワカケホンセイインコ / インディアンリングネック (Psittacula krameri)",
-                    "lifespan": "20 〜 30年",
-                    "sleep_pattern": "10 〜 12時間 (暗幕カバーをかけたケージでの安定した睡眠)",
-                    "temperament": "賢い、自立心が強い、好奇心旺盛、感情表現が豊か、反抗期は繊細"
-                },
-                "intro": "成鳥のオスに見られる優雅な首のリング模様（Ring）と、人の言葉を鮮明に真似る高い言語能力で世界的に大人気のワカケホンセイインコ（インディアンリングネック）。非常に賢く自立心が強い反面、1歳前後に「ブラフィング（Bluffing）」と呼ばれる一時的な噛み癖や攻撃性が強まる反抗期を迎えます。この時期の適切な行動矯正、おしゃべりコミュニケーション訓練、脂肪肝を防ぐペレット中心の食餌管理が不可欠です。本記事では、ワカケホンセイインコの習性サインを解読し、愛鳥との絆を深める3ステップ日常ケアをご紹介します。",
-                "whyTitle": "ワカケホンセイインコの習性サイン：瞳孔の収縮（アイピニング）と首振り行動",
-                "whyDesc": "ワカケホンセイインコは、喜びや興奮、または警戒している時に瞳孔を瞬間的に小さく収縮させる**「アイピニング（Eye Pinning）」**という表現を見せます。また、好きな人やおもちゃの前で首をリズミカルに上下に振りながら歌ったりおしゃべりしたりして、深い好意を伝えます。",
-                "body_signals": [
-                    {
-                        "name": "瞳孔の収縮 (Eye Pinning / Eye Flashing)",
-                        "meaning": "強い興奮、好奇心、または噛む直前の威嚇・警戒を示す知能の高い鳥類特有の感情表現です。",
-                        "response": "周囲の状況を観察し、警戒による収縮の場合は興奮が冷めるまで優しく見守り無理に手を出しません。"
-                    },
-                    {
-                        "name": "首振りと口ずさみ (Head Bobbing & Whistling)",
-                        "meaning": "飼い主への親愛の情やおしゃべり・遊戯への準備が整っている楽しい気分のサインです。",
-                        "response": "明るい声で言葉を返し、明確な単語を繰り返しておしゃべり訓練の機会として活用します。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：ペレット給餌と10分間のおしゃべりコミュニケーション",
-                        "text": "栄養バランスの整ったペレットを与え、頭が冴えている朝の時間に明確で明るいトーンで単語を繰り返し教えます。"
-                    },
-                    {
-                        "name": "昼：新鮮な野菜の給餌と破壊系かじるおもちゃの設置",
-                        "text": "ビタミンA豊富なブロッコリーや人参などの生野菜を与え、反抗期の噛み欲求を満たす木製・ペーパーおもちゃを設置します。"
-                    },
-                    {
-                        "name": "夜：放鳥運動・噛み癖無視矯正と暗幕による十分な睡眠",
-                        "text": "1時間以上の放鳥でエネルギーを発散させ、噛まれた時は大声をあげず無反応でタイムアウトを行い、10〜12時間の暗幕睡眠を確保します。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "1歳前後のブラフィング（反抗期）の噛み癖はどう矯正しますか？",
-                        "answer": "ブラフィングはホルモン変化に伴う一時的な成長過程です。噛まれた時に大声を出したり騒ぐと「遊んでくれた」と誤解するため、無表情・無反応で手を引き、5分ほどケージに戻すタイムアウト（無視）を徹底してください。"
-                    },
-                    {
-                        "question": "シード（種子）メインの食事にはどのようなリスクがありますか？",
-                        "answer": "シード類は高脂質でビタミンAやカルシウムが著しく不足しており、脂肪肝や肥満、毛引き症 Cause の原因となります。総合栄養食であるペレットを主食（60〜70%）とし、新鮮な野菜を副食として与えてください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "红领绿鹦鹉（环颈鹦鹉）语言训练、咬人青春期纠正与3阶段饮食护理指南",
-                "description": "针对拥有精致颈环与超凡语言能力的红领绿鹦鹉专属护理。掌握语言互动训练、纠正羽毛青春期（Bluffing）咬人攻击性，以及滋养丸与生鲜食物的营养平衡。",
-                "authority": "国际鸟类兽医协会 (AAV) 临床指南与鸟类行为学标准",
-                "profile": {
-                    "breed": "红领绿鹦鹉 / 环颈鹦鹉 (Indian Ringneck Parakeet / Psittacula krameri)",
-                    "lifespan": "20 ~ 30年",
-                    "sleep_pattern": "10 ~ 12小时 (在盖有遮光罩的笼舍中保持充足睡眠)",
-                    "temperament": "聪明、独立、好奇、表达力强、青春期敏感"
-                },
-                "intro": "红领绿鹦鹉（环颈鹦鹉）因成年雄鸟独特的颈环标志和模仿人类语言的超凡能力，在网络上极具人气。它们智商极高且性格独立，但在1岁左右会经历被称为“啄咬期/羽毛青春期（Bluffing）”的阶段，表现出突然的咬人和攻击性。这一时期正确的行为纠正、每日的语言互动以及以滋养丸为主的营养平衡至关重要。本指南将解析红领绿鹦鹉的本能信号，并分享涵盖语言训练、纠正咬人及营养管理的3阶段日常护理流程。",
-                "whyTitle": "红领绿鹦鹉的本能信号：瞳孔收缩（Eye Pinning）与律动点头",
-                "whyDesc": "红领绿鹦鹉在感到兴奋、好奇或警惕时，瞳孔会瞬间快速收缩，这一动作被称为 **“缩瞳（Eye Pinning）”**。此外，在喜欢的人或玩具面前，它们会节奏感十足地上下点头并发出哼鸣声，表达强烈的喜爱与交流欲望。",
-                "body_signals": [
-                    {
-                        "name": "瞳孔收缩 (Eye Pinning / Eye Flashing)",
-                        "meaning": "高智商鸟类表达极度兴奋、好奇或咬人前警惕威吓的情绪信号。",
-                        "response": "观察周围环境，若属于警戒收缩，应保持冷静并暂停接触，等待其情绪平复。"
-                    },
-                    {
-                        "name": "律动点头与吹口哨 (Head Bobbing & Whistling)",
-                        "meaning": "对主人表达好感与信任的亲密信号，表明其处于愉悦且乐于交流的状态。",
-                        "response": "用温柔明快的语调回应，重复清晰的词汇，将其作为语言训练的最佳时机。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：喂食营养滋养丸与10分钟语言训练",
-                        "text": "喂食营养均衡的高品质滋养丸，并在晨间头脑清醒时用清晰欢快的语调重复重点词汇进行语言刺激。"
-                    },
-                    {
-                        "name": "中午：补充新鲜蔬果生食与更新啃咬玩具",
-                        "text": "提供富含维生素A的西兰花、胡萝卜、苹果等生鲜蔬果，并放置木质与纸质玩具以宣泄青春期的啃咬欲望。"
-                    },
-                    {
-                        "name": "晚上：出笼飞行运动、咬人冷处理纠正与遮光睡眠",
-                        "text": "提供至少1小时的出笼飞行以消耗精力。若发生咬人，切勿尖叫，保持无表情并将鸟放回笼内冷处理，随后保证10-12小时无光睡眠。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "如何纠正1岁左右青春期（Bluffing）的咬人行为？",
-                        "answer": "青春期咬人是激素变化导致的阶段性行为。被咬时尖叫或大发雷霆会被鹦鹉误认为是互动奖励。正确做法是保持面部无表情、无声收回手，将其放回笼中冷处理5分钟，确立行为边界。"
-                    },
-                    {
-                        "question": "长期只喂食种子（谷物）饲料有什么危害？",
-                        "answer": "纯种子饮食脂肪含量过高，且严重缺乏维生素A和钙，易导致脂肪肝、肥胖、羽毛损坏及自残倾向。应以营养全面的滋养丸为主食（占60-70%），并辅以新鲜蔬菜。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Guía de entrenamiento del habla, corrección del picoteo adolescente y rutina nutricional para la Cotorra de Kramer",
-                "description": "Cuidado especial para la Cotorra de Kramer (Indian Ringneck). Domine el entrenamiento del habla, corrija la agresividad de la adolescencia (bluffing) y mantenga un equilibrio de pellets y vegetales frescos.",
-                "authority": "Directrices Clínicas de la Association of Avian Veterinarians (AAV) y Estándares de Etología Aviar",
-                "profile": {
-                    "breed": "Cotorra de Kramer / Perico de Collar (Psittacula krameri)",
-                    "lifespan": "20 ~ 30 años",
-                    "sleep_pattern": "10 ~ 12 horas (sueño repararador en jaulas cubiertas con funda oscura)",
-                    "temperament": "Inteligente, independiente, curioso, expresivo, sensible en la adolescencia"
-                },
-                "intro": "La Cotorra de Kramer (Indian Ringneck) es un ave muy popular por el elegante collar del macho adulto y su extraordinaria capacidad de imitación vocal. Sumamente inteligentes e independientes, atraviesan alrededor del primer año una fase de adolescencia conocida como 'bluffing' (etapa de picoteo y agresividad). Superar este periodo requiere un entrenamiento conductual firme, estimulación vocal y una dieta basada en pellets combinada con vegetales frescos. En esta guía, desciframos sus señales corporales y ofrecemos una rutina de 3 pasos para fortalecer el vínculo, corregir picotazos y brindar la nutrición adecuada.",
-                "whyTitle": "Instintos de la Cotorra de Kramer: Contracción pupilar y cabeceo rítmico",
-                "whyDesc": "Las cotorras de Kramer expresan emociones intensas mediante la rápida contracción de sus pupilas conocida como **'Eye Pinning'** durante momentos de excitación o alerta. Asimismo, mueven la cabeza rítmicamente de arriba abajo frente a sus personas favoritas para mostrar afecto y disposición al habla.",
-                "body_signals": [
-                    {
-                        "name": "Contracción pupilar (Eye Pinning / Eye Flashing)",
-                        "meaning": "Manifestación física de excitación intensa, curiosidad o señal de advertencia territorial previa a un picotazo.",
-                        "response": "Evalúe el entorno: si se debe a alerta o enfado, detenga la interacción y espere con calma a que se tranquilice."
-                    },
-                    {
-                        "name": "Cabeceo y silbidos (Head Bobbing & Whistling)",
-                        "meaning": "Muestra de profundo afecto y disposición para socializar o realizar sesiones de entrenamiento de imitación vocal.",
-                        "response": "Responda con tono alegre y repita palabras claras para motivar el aprendizaje del habla."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Alimentación con pellets y sesión de habla de 10 minutos",
-                        "text": "Suministre pellets extruidos equilibrados y realice un entrenamiento focalizado repitiendo palabras clave con voz clara por la mañana."
-                    },
-                    {
-                        "name": "Tarde: Vegetales frescos y rotación de juguetes para roer",
-                        "text": "Ofrezca vegetales ricos en vitamina A (brócoli, zanahoria, hojas verdes) y proporcione juguetes de madera para canalizar el deseo de morder."
-                    },
-                    {
-                        "name": "Noche: Vuelo libre, corrección sin reacción y descanso en oscuridad",
-                        "text": "Permita al menos 1 hora de vuelo supervisado. Si muerde, no grite: manténgase neutral y aplique un breve tiempo fuera, garantizando luego 10-12 horas de oscuridad."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Cómo corregir los picotazos durante la fase de 'Bluffing' (adolescencia)?",
-                        "answer": "El bluffing es un proceso hormonal natural. Gritar o reaccionar exageradamente al recibir un picotazo es visto por el ave como una recompensa. Mantenga la calma sin gesticular, retire la mano y regrésela a la jaula durante 5 minutos para marcar límites claros."
-                    },
-                    {
-                        "question": "¿Por qué es peligrosa una dieta exclusiva de semillas?",
-                        "answer": "Las semillas contienen demasiada grasa y carecen de vitamina A y calcio, lo que genera hígado graso, picaje de plumas y menor esperanza de vida. Los pellets deben constituir el 60-70% de la dieta diaria junto con verduras frescas."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Guide d'apprentissage de la parole, correction du pincement et routine alimentaire pour la Perruche à collier",
-                "description": "Soins essentiels pour la Perruche à collier (Indian Ringneck). Maîtrisez l'apprentissage du vocabulaire, corrigez le pincement de l'adolescence (bluffing) et équilibrez pellets et produits frais.",
-                "authority": "Directives Cliniques de l'Association of Avian Veterinarians (AAV) et Normes de Comportement Aviaire",
-                "profile": {
-                    "breed": "Perruche à collier (Indian Ringneck Parakeet / Psittacula krameri)",
-                    "lifespan": "20 ~ 30 ans",
-                    "sleep_pattern": "10 ~ 12 heures (sommeil paisible dans une cage couverte d'un drap obscur)",
-                    "temperament": "Intelligent, indépendant, curieux, expressif, sensible à l'adolescence"
-                },
-                "intro": "La Perruche à collier est un perroquet de taille moyenne célèbre pour le collier raffiné du mâle adulte et sa capacité exceptionnelle à reproduire la parole humaine. Très intelligente et autonome, elle traverse vers l'âge d'un an une période de crise d'adolescence appelée 'bluffing', marquée par des pincements et une certaine agressivité. Surmonter cette étape exige une éducation ferme mais douce, des échanges vocaux stimulants et une alimentation basée sur des extrudés (pellets) et des légumes frais.  vous dévoile ses signaux comportementaux et une routine en 3 étapes.",
-                "whyTitle": "Instincts de la Perruche à collier : Contraction des pupilles et hochements de tête",
-                "whyDesc": "La Perruche à collier exprime ses émotions intenses par une contraction rapide de la pupille appelée **'Eye Pinning'** en cas de joie ou d'alerte. Elle hoche également la tête en rythme devant ses proches pour manifester son affection et son envie de communiquer.",
-                "body_signals": [
-                    {
-                        "name": "Contraction de la pupille (Eye Pinning / Eye Flashing)",
-                        "meaning": "Signe d'excitation intense, de curiosité ou d'avertissement territorial avant un pincement.",
-                        "response": "Analysez le contexte : si l'oiseau est tendu, suspendez l'interaction et attendez qu'il se calme."
-                    },
-                    {
-                        "name": "Hochements de tête et sifflotements (Head Bobbing & Whistling)",
-                        "meaning": "Démonstration d'affection et signe de disponibilité pour jouer ou apprendre de nouveaux mots.",
-                        "response": "Répondez avec entrain et répétez des mots clairs pour encourager l'imitation vocale."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Distribution de pellets et entraînement vocal de 10 minutes",
-                        "text": "Proposez des pellets équilibrés et effectuez une séance de répétition de mots clefs d'un ton joyeux pendant son pic d'éveil matinal."
-                    },
-                    {
-                        "name": "Après-midi : Apport de légumes frais et jouets à détruire",
-                        "text": "Offrez des légumes frais riches en vitamine A (brocoli, carotte) et mettez à disposition des jouets en bois pour répondre au besoin de ronger."
-                    },
-                    {
-                        "name": "Soir : Vol libre, correction du pincement et nuit dans l'obscurité",
-                        "text": "Accordez au moins 1 heure de vol libre. En cas de morsure, restez impassible (sans crier), remettez l'oiseau en cage 5 minutes, puis assurez 10 à 12 heures de sommeil."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Comment gérer la phase de morsure de l'adolescence ('Bluffing') ?",
-                        "answer": "Le bluffing est une étape hormonale naturelle. Crier ou réagir vivement lors d'une morsure est perçu par l'oiseau comme un jeu. Restez neutre, retirez votre main sans geste brusque et isolez-le au calme pendant quelques minutes."
-                    },
-                    {
-                        "question": "Pourquoi un régime composé uniquement de graines est-il dangereux ?",
-                        "answer": "Les graines sont trop grasse et manquent de vitamine A et de calcium, ce qui provoque la stéatose hépatique, l'obésité et le piquage. Les extrudés (pellets) doivent constituer 60 à 70 % de la ration, complétés par des légumes frais."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Halsbandsittich Sprechtraining, Korrektur der Beißphase (Bluffing) und 3-Schritte-Ernährungsroutine",
-                "description": "Essenzielle Pflege für den eleganten Halsbandsittich (Indian Ringneck). Meistern Sie das Sprechtraining, korrigieren Sie Jugendaggressivität und halten Sie die Balance zwischen Extrudaten und Frischfutter.",
-                "authority": "Klinische Richtlinien der Association of Avian Veterinarians (AAV) und Verhaltensstandards für Papageien",
-                "profile": {
-                    "breed": "Halsbandsittich (Indian Ringneck Parakeet / Psittacula krameri)",
-                    "lifespan": "20 ~ 30 Jahre",
-                    "sleep_pattern": "10 ~ 12 Stunden (ungestörter Schlaf in abgedunkelten Käfigen)",
-                    "temperament": "Intelligent, unabhängig, neugierig, ausdrucksstark, sensibel in der Jugend"
-                },
-                "intro": "Der Halsbandsittich ist wegen des eleganten Halsbands der Männchen und seiner erstaunlichen Fähigkeit, Stimmen nachzuahmen, weltweit überaus beliebt. Die Tiere sind hochintelligent, durchlaufen jedoch mit etwa einem Jahr eine hormonelle Jugendphase, das sogenannte 'Bluffing', in der sie zu Knabbern und Beißen neigen. Die Überwindung dieser Phase erfordert konsequentes Verhaltenstraining, sprachliche Reize und eine pelletbasierte Ernährung mit frischem Gemüse. Dieser Ratgeber zeigt die Verhaltensmuster und eine 3-Schritte-Routine.",
-                "whyTitle": "Instinkte des Halsbandsittichs: Pupillenverengung (Eye Pinning) und Kopfnicken",
-                "whyDesc": "Halsbandsittiche drücken starke Emotionen durch ein schnelles Verengen der Pupillen (**'Eye Pinning'**) aus, wenn sie aufgeregt oder wachsam sind. Vor ihren Bezugspersonen nicken sie zudem rhythmisch mit dem Kopf und plappern, um Zuneigung zu zeigen.",
-                "body_signals": [
-                    {
-                        "name": "Pupillenverengung (Eye Pinning / Eye Flashing)",
-                        "meaning": "Ausdruck von großer Freude, Neugier oder eine Warnung vor einem bevorstehenden Biss.",
-                        "response": "Deuten Sie den Kontext: Bei Reizung oder Abwehrhaltung ziehen Sie sich ruhig zurück, bis sich die Pupillen normalisieren."
-                    },
-                    {
-                        "name": "Kopfnicken & Pfeifen (Head Bobbing & Whistling)",
-                        "meaning": "Zeichen von Zuneigung und Bereitschaft zur Interaktion oder zum Sprechtraining.",
-                        "response": "Antworten Sie mit freundlicher Stimme und wiederholen Sie deutliche Wörter zur Sprachförderung."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Fütterung von Pellets & 10 Minuten Sprechtraining",
-                        "text": "Bieten Sie hochwertige Extrudate (Pellets) an und wiederholen Sie morgens in klarem Ton kurze Zielwörter."
-                    },
-                    {
-                        "name": "Nachmittag: Frischfutter-Gemüse & Schredderspielzeug",
-                        "text": "Reichen Sie vitamin-A-reiches Gemüse (Brokkoli, Karotten) und Holzspielzeug, um den Knabbertrieb der Jugendphase umzuleiten."
-                    },
-                    {
-                        "name": "Abend: Freiflug, konsequente Ignorier-Korrektur & Dunkelruhe",
-                        "text": "Gewähren Sie mindestens 1 Stunde Freiflug. Bei Bissen nicht schreien, sondern schweigend eine kurze Auszeit einleiten und 10–12 Stunden Dunkelheit sichern."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Wie korrigiert man das Beißen in der Jugendphase ('Bluffing')?",
-                        "answer": "Bluffing ist eine natürliche Entwicklungsphase. Lautes Schreien bei Bissen wird vom Vogel als Aufmerksamkeit belohnt. Bleiben Sie völlig neutral, nehmen Sie die Hand weg und setzen Sie den Vogel für 5 Minuten in den Käfig (Auszeit)."
-                    },
-                    {
-                        "question": "Warum ist eine reine Körnerfütterung gefährlich?",
-                        "answer": "Körnerfutter ist zu fettreich und leidet an Vitamin-A- sowie Kalziummangel. Dies führt zu Leberverfettung, Gefiederschäden und Verhaltensstörungen. Pellets sollten 60–70 % der Nahrung ausmachen."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Guia de treino de fala, correção de bicadas da adolescência (Bluffing) e rotina alimentar para o Periquito-colar",
-                "description": "Cuidados essenciais para o Periquito-colar (Indian Ringneck). Domine o treino de fala, corrija a agressividade da fase jovem (bluffing) e mantenha o equilíbrio entre ração extrudada e vegetais.",
-                "authority": "Diretrizes Clínicas da Association of Avian Veterinarians (AAV) e Padrões de Comportamento de Aves",
-                "profile": {
-                    "breed": "Periquito-colar / Ringneck (Psittacula krameri)",
-                    "lifespan": "20 ~ 30 anos",
-                    "sleep_pattern": "10 ~ 12 horas (sono tranquilo em gaiolas cobertas com capa escura)",
-                    "temperament": "Inteligente, independente, curioso, expressivo, sensível na adolescência"
-                },
-                "intro": "O Periquito-colar (Indian Ringneck) é uma ave de médio porte famosa pelo colar elegante do macho adulto e pela excelente capacidade de imitação da fala. Extremamente inteligentes e independentes, passam por volta do primeiro ano de vida por uma fase chamada 'bluffing' (adolescência das aves), marcada por bicadas e agressividade territorial. Superar essa etapa exige treino comportamental firme, estimulação vocal diária e uma dieta baseada em ração extrudada e vegetais frescos. O Este guia  a rotina de 3 passos.",
-                "whyTitle": "Instintos do Periquito-colar: Contração das pupilas (Eye Pinning) e acenar de cabeça",
-                "whyDesc": "Os periquitos-colar expressam emoções intensas através da rápida contração das pupilas (**'Eye Pinning'**) em momentos de entusiasmo ou alerta. Além disso, acenam a cabeça ritmicamente diante das suas pessoas favoritas para demonstrar afeto e vontade de comunicar.",
-                "body_signals": [
-                    {
-                        "name": "Contração da pupila (Eye Pinning / Eye Flashing)",
-                        "meaning": "Sinal de forte excitação, curiosidade ou aviso territorial antes de uma bicada.",
-                        "response": "Avalie o ambiente: se for irritação, interrompa o contacto e aguarde até que a ave se acalme."
-                    },
-                    {
-                        "name": "Acenar de cabeça e assobios (Head Bobbing & Whistling)",
-                        "meaning": "Demonstração de afeto e prontidão para interagir ou aprender novas palavras.",
-                        "response": "Responda com entusiasmo e repita palavras claras para incentivar a imitação vocal."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Alimentação com extrudados e treino de fala de 10 minutos",
-                        "text": "Forneça ração extrudada de qualidade e faça um treino de repetição de palavras com tom alegre durante a manhã."
-                    },
-                    {
-                        "name": "Tarde: Vegetais frescos e brinquedos para roer",
-                        "text": "Ofereça vegetais ricos em vitamina A (brócolos, cenoura) e disponibilize brinquedos de madeira para canalizar o desejo de morder."
-                    },
-                    {
-                        "name": "Noite: Voo livre, correção neutra de bicadas e descanso escuro",
-                        "text": "Permita pelo menos 1 hora de voo fora da gaiola. Se houver bicadas, não grite: mantenha-se neutro, coloque a ave na gaiola por 5 minutos e garanta 10-12 horas de escuridão."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Como corrigir as bicadas na fase de 'Bluffing' (adolescência)?",
-                        "answer": "O bluffing é um processo hormonal natural. Gritar ou reagir excessivamente é interpretado pela ave como uma recompensa de atenção. Mantenha a calma, retire a mão sem gestos bruscos e coloque-a na gaiola por alguns minutos."
-                    },
-                    {
-                        "question": "Por que a dieta exclusiva de sementes é perigosa?",
-                        "answer": "A dieta só de sementes é rica em gorduras e deficiente em vitamina A e cálcio, causando esteatose hepática, obesidade e arrancamento de penas. A ração extrudada deve corresponder a 60-70% da alimentação diária."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Panduan Pelatihan Bicara, Koreksi Fase Menggigit (Bluffing), dan Rutinitas Nutrisi Burung Indian Ringneck",
-                "description": "Perawatan esensial untuk burung Indian Ringneck yang anggun. Kuasai pelatihan bicara, atasi agresivitas masa remaja (bluffing), serta jaga keseimbangan nutrisi pelet dan sayuran segar.",
-                "authority": "Panduan Klinis Association of Avian Veterinarians (AAV) dan Standar Perilaku Burung",
-                "profile": {
-                    "breed": "Indian Ringneck Parakeet (Psittacula krameri)",
-                    "lifespan": "20 ~ 30 tahun",
-                    "sleep_pattern": "10 ~ 12 jam (istirahat dalam sangkar yang ditutup kain gelap)",
-                    "temperament": "Cerdas, mandiri, penasaran, ekspresif, sensitif di masa remaja"
-                },
-                "intro": "Burung Indian Ringneck sangat populer berkat lingkar leher khas pada pejantan dewasa dan kemampuannya yang luar biasa dalam menirukan suara manusia. Meskipun sangat cerdas dan mandiri, mereka mengalami masa remaja yang disebut 'bluffing' pada usia sekitar 1 tahun yang ditandai dengan kecenderungan menggigit. Mengatasi masa ini membutuhkan pelatihan perilaku yang konsisten, stimulasi bicara, dan diet berbasis pelet yang seimbang dengan sayuran segar.  menyajikan rutinitas perawatan 3 langkahnya.",
-                "whyTitle": "Insting Indian Ringneck: Penyempitan Pupil (Eye Pinning) dan Anggukan Kepala",
-                "whyDesc": "Indian Ringneck mengekspresikan emosi yang kuat melalui penyempitan pupil mata yang cepat yang disebut **'Eye Pinning'** saat merasa gembira atau waspada. Mereka juga menganggukkan kepala secara ritmis di depan pemilik favoritnya sebagai tanda kasih sayang dan kesiapan berkomunikasi.",
-                "body_signals": [
-                    {
-                        "name": "Penyempitan Pupil (Eye Pinning / Eye Flashing)",
-                        "meaning": "Indikator kegembiraan tinggi, rasa penasaran, atau peringatan sebelum menggigit akibat merasa terancam.",
-                        "response": "Perhatikan situasi: jika disebabkan oleh rasa marah, beri jarak dan tunggu hingga mata kembali normal."
-                    },
-                    {
-                        "name": "Menganggukkan Kepala & Bersiul (Head Bobbing & Whistling)",
-                        "meaning": "Tanda kasih sayang dan kesiapan untuk berinteraksi atau memulai sesi latihan menirukan kata.",
-                        "response": "Tanggapi dengan nada ramah dan ulangi kata-kata yang jelas untuk mendorong kemampuan bicaranya."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Pemberian Pelet Nutrisi & Latihan Bicara 10 Menit",
-                        "text": "Berikan pelet bernutrisi seimbang dan lakukan latihan pengulangan kata-kata dengan suara ceria di pagi hari saat burung dalam kondisi segar."
-                    },
-                    {
-                        "name": "Siang: Pemberian Sayuran Segar & Mainan Kayu Gigit",
-                        "text": "Sediakan sayuran segar kaya Vitamin A (brokoli, wortel) dan berikan mainan kayu untuk menyalurkan keinginan menggigitnya."
-                    },
-                    {
-                        "name": "Malam: Terbang Bebas, Koreksi Menggigit Tanpa Emosi & Tidur Gelap",
-                        "text": "Berikan kesempatan terbang di luar sangkar minimal 1 jam. Jika menggigit, jangan berteriak: bersikap netral, masukkan burung ke sangkar selama 5 menit, lalu pastikan tidur 10–12 jam dalam ruangan gelap."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Bagaimana cara mengatasi gigitan pada masa remaja ('Bluffing')?",
-                        "answer": "Bluffing adalah fase perkembangan hormonal yang alami. Berteriak saat digigit akan dianggap burung sebagai perhatian atau ajakan bermain. Bersikaplah tenang tanpa ekspresi, tarik tangan perlahan, dan masukkan burung ke sangkar selama 5 menit untuk memberi batas perilaku."
-                    },
-                    {
-                        "question": "Mengapa diet biji-bijian saja berbahaya bagi Indian Ringneck?",
-                        "answer": "Biji-bijian tinggi lemak tetapi sangat kekurangan Vitamin A dan kalsium, yang memicu penyakit hati berlemak, obesitas, dan Kerusakan bulu. Pelet khusus harus menjadi makanan utama (60–70%), ditambah dengan sayuran segar."
-                    }
-                ]
-            }
-        }
+  "indian-ringneck-care": {
+    "pubDate": "2026-06-11",
+    "updatedDate": "2026-06-11",
+    "heroImage": "/images/blog/indian_ringneck_care.webp",
+    "locales": {
+      "ko": {
+        "title": "인디언 링넥 앵무 언어 훈련법과 블러핑(사춘기) 교정·식이 밸런스 3단계 루틴",
+        "description": "목둘레 띠와 탁월한 언어 능력을 지닌 인디언 링넥 앵무(목도리앵무) 맞춤 케어. 언어 교감 훈련, 깃털 사춘기(Bluffing) 공격성 교정, 펠렛과 생식의 영양 밸런스를 다룹니다.",
+        "authority": "세계조류수의학회(Association of Avian Veterinarians, AAV) 임상 가이드라인 및 조류 행동학 표준",
+        "profile": {
+          "breed": "인디언 링넥 앵무 / 목도리앵무 (Indian Ringneck Parakeet / Psittacula krameri)",
+          "lifespan": "20 ~ 30년",
+          "sleep_pattern": "10 ~ 12시간 (어두운 암막 커버 상태에서의 안정적인 수면)",
+          "temperament": "영리함, 독립적임, 호기심 많음, 표현력이 풍부함, 사춘기 예민함"
+        },
+        "intro": "인디언 링넥 앵무(목도리앵무)는 성조 수컷 특유의 세련된 목둘레 띠(Ring)와 사람 말을 명확히 따라 하는 탁월한 언어 능력으로 글로벌 SNS와 유튜브에서 큰 사랑을 받는 중형 앵무새입니다. 지능이 매우 높고 독립적인 성향을 지녔지만, 1세 전후로 입질과 공격성이 폭발하는 '블러핑(Bluffing, 깃털 사춘기)' 시기를 겪게 됩니다. 이 시기의 올바른 행동 교정과 더불어 언어 교감 훈련, 영양 불균형을 막는 펠렛 중심의 식이 밸런스가 필수적입니다. 이번 가이드에서는 인디언 링넥 앵무의 본능 시그널을 해석하고, 언어 교감, 블러핑 극복, 영양 관리를 위한 3단계 데일리 홈케어 루틴을 소개합니다.",
+        "whyTitle": "인디언 링넥 앵무의 본능 시그널: 동공 수축(Eye Pinning)과 머리 흔들기",
+        "whyDesc": "인디언 링넥 앵무는 기쁨, 흥분, 혹은 경계 상태일 때 동공을 순간적으로 급격히 수축시키는 **'아이 피닝(Eye Pinning)'** 동작을 보입니다. 또한 좋아하는 사람이나 사물 앞에서 머리를 위아래로 율동감 있게 흔들며 말을 걸거나 흥얼거리는 행동으로 깊은 호감과 교감의 메시지를 전합니다.",
+        "body_signals": [
+          {
+            "name": "동공 수축 (Eye Pinning / Eye Flashing)",
+            "meaning": "극도의 흥분, 호기심, 혹은 공격 직전의 경계 상태를 나타내는 지능형 조류의 감정 표현입니다.",
+            "response": "주변 상황을 관찰하여 기쁜 흥분인지 경계인지 파악하고, 경계 상태라면 흥분이 가라앉을 때까지 다가가지 않고 조용히 기다려 줍니다."
+          },
+          {
+            "name": "머리 흔들기 및 소리 내기 (Head Bobbing & Whistling)",
+            "meaning": "보호자에 대한 깊은 호감과 교감 신호이며, 언어 훈련이나 흥미로운 자극에 반응하는 기쁨의 표시입니다.",
+            "response": "다정한 목소리로 말을 받아주고 명확한 단어를 반복하여 언어 습득을 유도하는 기회로 활용합니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 영양 균형 펠렛 급여 및 10분 언어 교감 훈련",
+            "text": "단백질과 비타민이 풍부한 기본 펠렛 사료를 급여하고, 정신이 맑은 아침 시간에 명확하고 밝은 톤으로 핵심 단어를 반복해 언어 자극을 줍니다."
+          },
+          {
+            "name": "낮: 신선한 채소·과일 생식 급여 및 파괴형 장난감 교체",
+            "text": "비타민 A와 섬유질이 풍부한 브로콜리, 당근, 사과 등 신선 생식을 제공하고, 사춘기 입질 욕구를 해소할 우드·파피루스 장난감을 배치합니다."
+          },
+          {
+            "name": "밤: 아웃케이지 비행 및 블러핑 공격성 무시 교정 후 암막 수면",
+            "text": "1시간 이상의 실내 비행 활동으로 에너지를 발산시키며, 사춘기 입질 시에는 소리 지르지 않고 무반응으로 격리하는 교정을 진행한 뒤 10~12시간 암막 수면을 보장합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "1세 전후의 블러핑(Bluffing, 깃털 사춘기) 입질은 어떻게 교정하나요?",
+            "answer": "블러핑은 호르몬 변화와 독립심 형성으로 인한 자연스러운 발달 단계입니다. 앵무새가 물었을 때 소리를 지르거나 반응하면 이를 놀이로 오인하므로, 무표정과 무반응으로 손을 거두고 잠시 새장에 넣어 관심 끊기(Time-out) 교정을 지속해야 합니다."
+          },
+          {
+            "question": "알곡(씨앗) 사료만 주면 어떤 건강 문제가 생기나요?",
+            "answer": "알곡 위주의 식단은 지방 함량이 높고 비타민 A와 칼슘이 심각하게 부족하여 지방간, 비만, 깃털 손상 및 자해벽을 유발합니다. 영양적으로 완벽한 펠렛을 60~70% 이상 주식으로 하고 신선한 채소를 곁들여야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Indian Ringneck Parakeet Speech Training, Bluffing Correction, and 3-Step Dietary Routine",
+        "description": "Essential care for the elegant Indian Ringneck Parakeet. Master speech training, correct juvenile bluffing aggression, and maintain a healthy balance of pellets and fresh foods.",
+        "authority": "Association of Avian Veterinarians (AAV) Clinical Guidelines and Avian Behavioral Standards",
+        "profile": {
+          "breed": "Indian Ringneck Parakeet (Psittacula krameri)",
+          "lifespan": "20 ~ 30 Years",
+          "sleep_pattern": "10 ~ 12 Hours (Polyphasic - Deep Rest in Blackout Covered Cages)",
+          "temperament": "Intelligent, Independent, Curious, Expressive, Sensitive in Adolescence"
+        },
+        "intro": "The Indian Ringneck Parakeet is a medium-sized parrot wildly popular on social media for the adult male's distinguished neck ring and remarkable speech mimicry skills. Highly intelligent and independent, they go through a challenging juvenile 'bluffing' phase around one year of age characterized by sudden biting and aggression. Overcoming this phase requires consistent behavioral training, speech engagement, and a pellet-centered diet balanced with fresh produce. In this guide, decodes Indian Ringneck behavioral signals and shares a 3-step homecare routine for vocal bonding, bluffing correction, and optimal nutrition.",
+        "whyTitle": "Indian Ringneck Instincts: Eye Pinning and Rhythmic Head Bobbing",
+        "whyDesc": "Indian Ringnecks express intense emotions through rapid pupil constriction known as **'Eye Pinning'** during moments of joy, excitement, or territorial arousal. They also rhythmically bob their heads and chatter in front of favorite humans or objects as a sign of affection and vocal engagement.",
+        "body_signals": [
+          {
+            "name": "Eye Pinning / Eye Flashing",
+            "meaning": "Rapid pupil constriction indicating heightened excitement, intense curiosity, or pre-bite territorial warning.",
+            "response": "Assess the context: if it stems from aggression or fear, pause interaction and wait calmly until pupils stabilize."
+          },
+          {
+            "name": "Head Bobbing & Whistling",
+            "meaning": "A display of affection, excitement, and readiness for social interaction or speech training.",
+            "response": "Respond enthusiastically with clear words and gentle praise to encourage mimicry and strengthen your bond."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Balanced Pellet Feeding & 10-Minute Speech Session",
+            "text": "Offer a high-quality formulated pellet diet and conduct a focused 10-minute vocal repetition session in a clear, cheerful tone during morning alertness."
+          },
+          {
+            "name": "Afternoon: Fresh Produce Chop & Foraging Toy Rotation",
+            "text": "Provide fresh vegetables rich in Vitamin A (broccoli, carrots, leafy greens) and supply wood/paper foraging toys to channel juvenile chewing urges."
+          },
+          {
+            "name": "Evening: Supervised Flight, Bluffing Correction & Blackout Sleep",
+            "text": "Allow at least one hour of out-of-cage flight exercise. Correct biting by remaining neutral (no yelling) and applying a short time-out, then ensure 10–12 hours of covered sleep."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "How do I manage the juvenile 'Bluffing' phase biting?",
+            "answer": "Bluffing is a natural hormonal developmental stage. Yelping or reacting dramatically rewards the bird with attention. Instead, maintain a neutral expression, withdraw your hand calmly, and give a brief 5-minute cage time-out to reinforce boundaries."
+          },
+          {
+            "question": "Why is an all-seed diet dangerous for Indian Ringnecks?",
+            "answer": "Seed-only diets are excessively high in fat and deficient in Vitamin A and calcium, leading to fatty liver disease, obesity, feather plucking, and shortened lifespans. Formulated pellets should make up 60–70% of their daily intake, supplemented with fresh vegetables."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ワカケホンセイインコ（インディアンリングネック）のおしゃべり訓練とブラフィング（反抗期）矯正・3ステップ食餌ルーティン",
+        "description": "首のリング模様と高い言語能力を持つワカケホンセイインコ（インディアンリングネック）の専門ケア。おしゃべり訓練、ブラフィング（反抗期）の噛み癖矯正、ペレットと生食の栄養バランスを解説します。",
+        "authority": "世界鳥類獣医学会 (AAV) 臨床ガイドラインおよび鳥類行動学標準",
+        "profile": {
+          "breed": "ワカケホンセイインコ / インディアンリングネック (Psittacula krameri)",
+          "lifespan": "20 〜 30年",
+          "sleep_pattern": "10 〜 12時間 (暗幕カバーをかけたケージでの安定した睡眠)",
+          "temperament": "賢い、自立心が強い、好奇心旺盛、感情表現が豊か、反抗期は繊細"
+        },
+        "intro": "成鳥のオスに見られる優雅な首のリング模様（Ring）と、人の言葉を鮮明に真似る高い言語能力で世界的に大人気のワカケホンセイインコ（インディアンリングネック）。非常に賢く自立心が強い反面、1歳前後に「ブラフィング（Bluffing）」と呼ばれる一時的な噛み癖や攻撃性が強まる反抗期を迎えます。この時期の適切な行動矯正、おしゃべりコミュニケーション訓練、脂肪肝を防ぐペレット中心の食餌管理が不可欠です。本記事では、ワカケホンセイインコの習性サインを解読し、愛鳥との絆を深める3ステップ日常ケアをご紹介します。",
+        "whyTitle": "ワカケホンセイインコの習性サイン：瞳孔の収縮（アイピニング）と首振り行動",
+        "whyDesc": "ワカケホンセイインコは、喜びや興奮、または警戒している時に瞳孔を瞬間的に小さく収縮させる**「アイピニング（Eye Pinning）」**という表現を見せます。また、好きな人やおもちゃの前で首をリズミカルに上下に振りながら歌ったりおしゃべりしたりして、深い好意を伝えます。",
+        "body_signals": [
+          {
+            "name": "瞳孔の収縮 (Eye Pinning / Eye Flashing)",
+            "meaning": "強い興奮、好奇心、または噛む直前の威嚇・警戒を示す知能の高い鳥類特有の感情表現です。",
+            "response": "周囲の状況を観察し、警戒による収縮の場合は興奮が冷めるまで優しく見守り無理に手を出しません。"
+          },
+          {
+            "name": "首振りと口ずさみ (Head Bobbing & Whistling)",
+            "meaning": "飼い主への親愛の情やおしゃべり・遊戯への準備が整っている楽しい気分のサインです。",
+            "response": "明るい声で言葉を返し、明確な単語を繰り返しておしゃべり訓練の機会として活用します。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：ペレット給餌と10分間のおしゃべりコミュニケーション",
+            "text": "栄養バランスの整ったペレットを与え、頭が冴えている朝の時間に明確で明るいトーンで単語を繰り返し教えます。"
+          },
+          {
+            "name": "昼：新鮮な野菜の給餌と破壊系かじるおもちゃの設置",
+            "text": "ビタミンA豊富なブロッコリーや人参などの生野菜を与え、反抗期の噛み欲求を満たす木製・ペーパーおもちゃを設置します。"
+          },
+          {
+            "name": "夜：放鳥運動・噛み癖無視矯正と暗幕による十分な睡眠",
+            "text": "1時間以上の放鳥でエネルギーを発散させ、噛まれた時は大声をあげず無反応でタイムアウトを行い、10〜12時間の暗幕睡眠を確保します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "1歳前後のブラフィング（反抗期）の噛み癖はどう矯正しますか？",
+            "answer": "ブラフィングはホルモン変化に伴う一時的な成長過程です。噛まれた時に大声を出したり騒ぐと「遊んでくれた」と誤解するため、無表情・無反応で手を引き、5分ほどケージに戻すタイムアウト（無視）を徹底してください。"
+          },
+          {
+            "question": "シード（種子）メインの食事にはどのようなリスクがありますか？",
+            "answer": "シード類は高脂質でビタミンAやカルシウムが著しく不足しており、脂肪肝や肥満、毛引き症 Cause の原因となります。総合栄養食であるペレットを主食（60〜70%）とし、新鮮な野菜を副食として与えてください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "红领绿鹦鹉（环颈鹦鹉）语言训练、咬人青春期纠正与3阶段饮食护理指南",
+        "description": "针对拥有精致颈环与超凡语言能力的红领绿鹦鹉专属护理。掌握语言互动训练、纠正羽毛青春期（Bluffing）咬人攻击性，以及滋养丸与生鲜食物的营养平衡。",
+        "authority": "国际鸟类兽医协会 (AAV) 临床指南与鸟类行为学标准",
+        "profile": {
+          "breed": "红领绿鹦鹉 / 环颈鹦鹉 (Indian Ringneck Parakeet / Psittacula krameri)",
+          "lifespan": "20 ~ 30年",
+          "sleep_pattern": "10 ~ 12小时 (在盖有遮光罩的笼舍中保持充足睡眠)",
+          "temperament": "聪明、独立、好奇、表达力强、青春期敏感"
+        },
+        "intro": "红领绿鹦鹉（环颈鹦鹉）因成年雄鸟独特的颈环标志和模仿人类语言的超凡能力，在网络上极具人气。它们智商极高且性格独立，但在1岁左右会经历被称为“啄咬期/羽毛青春期（Bluffing）”的阶段，表现出突然的咬人和攻击性。这一时期正确的行为纠正、每日的语言互动以及以滋养丸为主的营养平衡至关重要。本指南将解析红领绿鹦鹉的本能信号，并分享涵盖语言训练、纠正咬人及营养管理的3阶段日常护理流程。",
+        "whyTitle": "红领绿鹦鹉的本能信号：瞳孔收缩（Eye Pinning）与律动点头",
+        "whyDesc": "红领绿鹦鹉在感到兴奋、好奇或警惕时，瞳孔会瞬间快速收缩，这一动作被称为 **“缩瞳（Eye Pinning）”**。此外，在喜欢的人或玩具面前，它们会节奏感十足地上下点头并发出哼鸣声，表达强烈的喜爱与交流欲望。",
+        "body_signals": [
+          {
+            "name": "瞳孔收缩 (Eye Pinning / Eye Flashing)",
+            "meaning": "高智商鸟类表达极度兴奋、好奇或咬人前警惕威吓的情绪信号。",
+            "response": "观察周围环境，若属于警戒收缩，应保持冷静并暂停接触，等待其情绪平复。"
+          },
+          {
+            "name": "律动点头与吹口哨 (Head Bobbing & Whistling)",
+            "meaning": "对主人表达好感与信任的亲密信号，表明其处于愉悦且乐于交流的状态。",
+            "response": "用温柔明快的语调回应，重复清晰的词汇，将其作为语言训练的最佳时机。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：喂食营养滋养丸与10分钟语言训练",
+            "text": "喂食营养均衡的高品质滋养丸，并在晨间头脑清醒时用清晰欢快的语调重复重点词汇进行语言刺激。"
+          },
+          {
+            "name": "中午：补充新鲜蔬果生食与更新啃咬玩具",
+            "text": "提供富含维生素A的西兰花、胡萝卜、苹果等生鲜蔬果，并放置木质与纸质玩具以宣泄青春期的啃咬欲望。"
+          },
+          {
+            "name": "晚上：出笼飞行运动、咬人冷处理纠正与遮光睡眠",
+            "text": "提供至少1小时的出笼飞行以消耗精力。若发生咬人，切勿尖叫，保持无表情并将鸟放回笼内冷处理，随后保证10-12小时无光睡眠。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "如何纠正1岁左右青春期（Bluffing）的咬人行为？",
+            "answer": "青春期咬人是激素变化导致的阶段性行为。被咬时尖叫或大发雷霆会被鹦鹉误认为是互动奖励。正确做法是保持面部无表情、无声收回手，将其放回笼中冷处理5分钟，确立行为边界。"
+          },
+          {
+            "question": "长期只喂食种子（谷物）饲料有什么危害？",
+            "answer": "纯种子饮食脂肪含量过高，且严重缺乏维生素A和钙，易导致脂肪肝、肥胖、羽毛损坏及自残倾向。应以营养全面的滋养丸为主食（占60-70%），并辅以新鲜蔬菜。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Guía de entrenamiento del habla, corrección del picoteo adolescente y rutina nutricional para la Cotorra de Kramer",
+        "description": "Cuidado especial para la Cotorra de Kramer (Indian Ringneck). Domine el entrenamiento del habla, corrija la agresividad de la adolescencia (bluffing) y mantenga un equilibrio de pellets y vegetales frescos.",
+        "authority": "Directrices Clínicas de la Association of Avian Veterinarians (AAV) y Estándares de Etología Aviar",
+        "profile": {
+          "breed": "Cotorra de Kramer / Perico de Collar (Psittacula krameri)",
+          "lifespan": "20 ~ 30 años",
+          "sleep_pattern": "10 ~ 12 horas (sueño repararador en jaulas cubiertas con funda oscura)",
+          "temperament": "Inteligente, independiente, curioso, expresivo, sensible en la adolescencia"
+        },
+        "intro": "La Cotorra de Kramer (Indian Ringneck) es un ave muy popular por el elegante collar del macho adulto y su extraordinaria capacidad de imitación vocal. Sumamente inteligentes e independientes, atraviesan alrededor del primer año una fase de adolescencia conocida como 'bluffing' (etapa de picoteo y agresividad). Superar este periodo requiere un entrenamiento conductual firme, estimulación vocal y una dieta basada en pellets combinada con vegetales frescos. En esta guía, desciframos sus señales corporales y ofrecemos una rutina de 3 pasos para fortalecer el vínculo, corregir picotazos y brindar la nutrición adecuada.",
+        "whyTitle": "Instintos de la Cotorra de Kramer: Contracción pupilar y cabeceo rítmico",
+        "whyDesc": "Las cotorras de Kramer expresan emociones intensas mediante la rápida contracción de sus pupilas conocida como **'Eye Pinning'** durante momentos de excitación o alerta. Asimismo, mueven la cabeza rítmicamente de arriba abajo frente a sus personas favoritas para mostrar afecto y disposición al habla.",
+        "body_signals": [
+          {
+            "name": "Contracción pupilar (Eye Pinning / Eye Flashing)",
+            "meaning": "Manifestación física de excitación intensa, curiosidad o señal de advertencia territorial previa a un picotazo.",
+            "response": "Evalúe el entorno: si se debe a alerta o enfado, detenga la interacción y espere con calma a que se tranquilice."
+          },
+          {
+            "name": "Cabeceo y silbidos (Head Bobbing & Whistling)",
+            "meaning": "Muestra de profundo afecto y disposición para socializar o realizar sesiones de entrenamiento de imitación vocal.",
+            "response": "Responda con tono alegre y repita palabras claras para motivar el aprendizaje del habla."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Alimentación con pellets y sesión de habla de 10 minutos",
+            "text": "Suministre pellets extruidos equilibrados y realice un entrenamiento focalizado repitiendo palabras clave con voz clara por la mañana."
+          },
+          {
+            "name": "Tarde: Vegetales frescos y rotación de juguetes para roer",
+            "text": "Ofrezca vegetales ricos en vitamina A (brócoli, zanahoria, hojas verdes) y proporcione juguetes de madera para canalizar el deseo de morder."
+          },
+          {
+            "name": "Noche: Vuelo libre, corrección sin reacción y descanso en oscuridad",
+            "text": "Permita al menos 1 hora de vuelo supervisado. Si muerde, no grite: manténgase neutral y aplique un breve tiempo fuera, garantizando luego 10-12 horas de oscuridad."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Cómo corregir los picotazos durante la fase de 'Bluffing' (adolescencia)?",
+            "answer": "El bluffing es un proceso hormonal natural. Gritar o reaccionar exageradamente al recibir un picotazo es visto por el ave como una recompensa. Mantenga la calma sin gesticular, retire la mano y regrésela a la jaula durante 5 minutos para marcar límites claros."
+          },
+          {
+            "question": "¿Por qué es peligrosa una dieta exclusiva de semillas?",
+            "answer": "Las semillas contienen demasiada grasa y carecen de vitamina A y calcio, lo que genera hígado graso, picaje de plumas y menor esperanza de vida. Los pellets deben constituir el 60-70% de la dieta diaria junto con verduras frescas."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Guide d'apprentissage de la parole, correction du pincement et routine alimentaire pour la Perruche à collier",
+        "description": "Soins essentiels pour la Perruche à collier (Indian Ringneck). Maîtrisez l'apprentissage du vocabulaire, corrigez le pincement de l'adolescence (bluffing) et équilibrez pellets et produits frais.",
+        "authority": "Directives Cliniques de l'Association of Avian Veterinarians (AAV) et Normes de Comportement Aviaire",
+        "profile": {
+          "breed": "Perruche à collier (Indian Ringneck Parakeet / Psittacula krameri)",
+          "lifespan": "20 ~ 30 ans",
+          "sleep_pattern": "10 ~ 12 heures (sommeil paisible dans une cage couverte d'un drap obscur)",
+          "temperament": "Intelligent, indépendant, curieux, expressif, sensible à l'adolescence"
+        },
+        "intro": "La Perruche à collier est un perroquet de taille moyenne célèbre pour le collier raffiné du mâle adulte et sa capacité exceptionnelle à reproduire la parole humaine. Très intelligente et autonome, elle traverse vers l'âge d'un an une période de crise d'adolescence appelée 'bluffing', marquée par des pincements et une certaine agressivité. Surmonter cette étape exige une éducation ferme mais douce, des échanges vocaux stimulants et une alimentation basée sur des extrudés (pellets) et des légumes frais.  vous dévoile ses signaux comportementaux et une routine en 3 étapes.",
+        "whyTitle": "Instincts de la Perruche à collier : Contraction des pupilles et hochements de tête",
+        "whyDesc": "La Perruche à collier exprime ses émotions intenses par une contraction rapide de la pupille appelée **'Eye Pinning'** en cas de joie ou d'alerte. Elle hoche également la tête en rythme devant ses proches pour manifester son affection et son envie de communiquer.",
+        "body_signals": [
+          {
+            "name": "Contraction de la pupille (Eye Pinning / Eye Flashing)",
+            "meaning": "Signe d'excitation intense, de curiosité ou d'avertissement territorial avant un pincement.",
+            "response": "Analysez le contexte : si l'oiseau est tendu, suspendez l'interaction et attendez qu'il se calme."
+          },
+          {
+            "name": "Hochements de tête et sifflotements (Head Bobbing & Whistling)",
+            "meaning": "Démonstration d'affection et signe de disponibilité pour jouer ou apprendre de nouveaux mots.",
+            "response": "Répondez avec entrain et répétez des mots clairs pour encourager l'imitation vocale."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Distribution de pellets et entraînement vocal de 10 minutes",
+            "text": "Proposez des pellets équilibrés et effectuez une séance de répétition de mots clefs d'un ton joyeux pendant son pic d'éveil matinal."
+          },
+          {
+            "name": "Après-midi : Apport de légumes frais et jouets à détruire",
+            "text": "Offrez des légumes frais riches en vitamine A (brocoli, carotte) et mettez à disposition des jouets en bois pour répondre au besoin de ronger."
+          },
+          {
+            "name": "Soir : Vol libre, correction du pincement et nuit dans l'obscurité",
+            "text": "Accordez au moins 1 heure de vol libre. En cas de morsure, restez impassible (sans crier), remettez l'oiseau en cage 5 minutes, puis assurez 10 à 12 heures de sommeil."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Comment gérer la phase de morsure de l'adolescence ('Bluffing') ?",
+            "answer": "Le bluffing est une étape hormonale naturelle. Crier ou réagir vivement lors d'une morsure est perçu par l'oiseau comme un jeu. Restez neutre, retirez votre main sans geste brusque et isolez-le au calme pendant quelques minutes."
+          },
+          {
+            "question": "Pourquoi un régime composé uniquement de graines est-il dangereux ?",
+            "answer": "Les graines sont trop grasse et manquent de vitamine A et de calcium, ce qui provoque la stéatose hépatique, l'obésité et le piquage. Les extrudés (pellets) doivent constituer 60 à 70 % de la ration, complétés par des légumes frais."
+          }
+        ]
+      },
+      "de": {
+        "title": "Halsbandsittich Sprechtraining, Korrektur der Beißphase (Bluffing) und 3-Schritte-Ernährungsroutine",
+        "description": "Essenzielle Pflege für den eleganten Halsbandsittich (Indian Ringneck). Meistern Sie das Sprechtraining, korrigieren Sie Jugendaggressivität und halten Sie die Balance zwischen Extrudaten und Frischfutter.",
+        "authority": "Klinische Richtlinien der Association of Avian Veterinarians (AAV) und Verhaltensstandards für Papageien",
+        "profile": {
+          "breed": "Halsbandsittich (Indian Ringneck Parakeet / Psittacula krameri)",
+          "lifespan": "20 ~ 30 Jahre",
+          "sleep_pattern": "10 ~ 12 Stunden (ungestörter Schlaf in abgedunkelten Käfigen)",
+          "temperament": "Intelligent, unabhängig, neugierig, ausdrucksstark, sensibel in der Jugend"
+        },
+        "intro": "Der Halsbandsittich ist wegen des eleganten Halsbands der Männchen und seiner erstaunlichen Fähigkeit, Stimmen nachzuahmen, weltweit überaus beliebt. Die Tiere sind hochintelligent, durchlaufen jedoch mit etwa einem Jahr eine hormonelle Jugendphase, das sogenannte 'Bluffing', in der sie zu Knabbern und Beißen neigen. Die Überwindung dieser Phase erfordert konsequentes Verhaltenstraining, sprachliche Reize und eine pelletbasierte Ernährung mit frischem Gemüse. Dieser Ratgeber zeigt die Verhaltensmuster und eine 3-Schritte-Routine.",
+        "whyTitle": "Instinkte des Halsbandsittichs: Pupillenverengung (Eye Pinning) und Kopfnicken",
+        "whyDesc": "Halsbandsittiche drücken starke Emotionen durch ein schnelles Verengen der Pupillen (**'Eye Pinning'**) aus, wenn sie aufgeregt oder wachsam sind. Vor ihren Bezugspersonen nicken sie zudem rhythmisch mit dem Kopf und plappern, um Zuneigung zu zeigen.",
+        "body_signals": [
+          {
+            "name": "Pupillenverengung (Eye Pinning / Eye Flashing)",
+            "meaning": "Ausdruck von großer Freude, Neugier oder eine Warnung vor einem bevorstehenden Biss.",
+            "response": "Deuten Sie den Kontext: Bei Reizung oder Abwehrhaltung ziehen Sie sich ruhig zurück, bis sich die Pupillen normalisieren."
+          },
+          {
+            "name": "Kopfnicken & Pfeifen (Head Bobbing & Whistling)",
+            "meaning": "Zeichen von Zuneigung und Bereitschaft zur Interaktion oder zum Sprechtraining.",
+            "response": "Antworten Sie mit freundlicher Stimme und wiederholen Sie deutliche Wörter zur Sprachförderung."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Fütterung von Pellets & 10 Minuten Sprechtraining",
+            "text": "Bieten Sie hochwertige Extrudate (Pellets) an und wiederholen Sie morgens in klarem Ton kurze Zielwörter."
+          },
+          {
+            "name": "Nachmittag: Frischfutter-Gemüse & Schredderspielzeug",
+            "text": "Reichen Sie vitamin-A-reiches Gemüse (Brokkoli, Karotten) und Holzspielzeug, um den Knabbertrieb der Jugendphase umzuleiten."
+          },
+          {
+            "name": "Abend: Freiflug, konsequente Ignorier-Korrektur & Dunkelruhe",
+            "text": "Gewähren Sie mindestens 1 Stunde Freiflug. Bei Bissen nicht schreien, sondern schweigend eine kurze Auszeit einleiten und 10–12 Stunden Dunkelheit sichern."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Wie korrigiert man das Beißen in der Jugendphase ('Bluffing')?",
+            "answer": "Bluffing ist eine natürliche Entwicklungsphase. Lautes Schreien bei Bissen wird vom Vogel als Aufmerksamkeit belohnt. Bleiben Sie völlig neutral, nehmen Sie die Hand weg und setzen Sie den Vogel für 5 Minuten in den Käfig (Auszeit)."
+          },
+          {
+            "question": "Warum ist eine reine Körnerfütterung gefährlich?",
+            "answer": "Körnerfutter ist zu fettreich und leidet an Vitamin-A- sowie Kalziummangel. Dies führt zu Leberverfettung, Gefiederschäden und Verhaltensstörungen. Pellets sollten 60–70 % der Nahrung ausmachen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Guia de treino de fala, correção de bicadas da adolescência (Bluffing) e rotina alimentar para o Periquito-colar",
+        "description": "Cuidados essenciais para o Periquito-colar (Indian Ringneck). Domine o treino de fala, corrija a agressividade da fase jovem (bluffing) e mantenha o equilíbrio entre ração extrudada e vegetais.",
+        "authority": "Diretrizes Clínicas da Association of Avian Veterinarians (AAV) e Padrões de Comportamento de Aves",
+        "profile": {
+          "breed": "Periquito-colar / Ringneck (Psittacula krameri)",
+          "lifespan": "20 ~ 30 anos",
+          "sleep_pattern": "10 ~ 12 horas (sono tranquilo em gaiolas cobertas com capa escura)",
+          "temperament": "Inteligente, independente, curioso, expressivo, sensível na adolescência"
+        },
+        "intro": "O Periquito-colar (Indian Ringneck) é uma ave de médio porte famosa pelo colar elegante do macho adulto e pela excelente capacidade de imitação da fala. Extremamente inteligentes e independentes, passam por volta do primeiro ano de vida por uma fase chamada 'bluffing' (adolescência das aves), marcada por bicadas e agressividade territorial. Superar essa etapa exige treino comportamental firme, estimulação vocal diária e uma dieta baseada em ração extrudada e vegetais frescos. O Este guia  a rotina de 3 passos.",
+        "whyTitle": "Instintos do Periquito-colar: Contração das pupilas (Eye Pinning) e acenar de cabeça",
+        "whyDesc": "Os periquitos-colar expressam emoções intensas através da rápida contração das pupilas (**'Eye Pinning'**) em momentos de entusiasmo ou alerta. Além disso, acenam a cabeça ritmicamente diante das suas pessoas favoritas para demonstrar afeto e vontade de comunicar.",
+        "body_signals": [
+          {
+            "name": "Contração da pupila (Eye Pinning / Eye Flashing)",
+            "meaning": "Sinal de forte excitação, curiosidade ou aviso territorial antes de uma bicada.",
+            "response": "Avalie o ambiente: se for irritação, interrompa o contacto e aguarde até que a ave se acalme."
+          },
+          {
+            "name": "Acenar de cabeça e assobios (Head Bobbing & Whistling)",
+            "meaning": "Demonstração de afeto e prontidão para interagir ou aprender novas palavras.",
+            "response": "Responda com entusiasmo e repita palavras claras para incentivar a imitação vocal."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Alimentação com extrudados e treino de fala de 10 minutos",
+            "text": "Forneça ração extrudada de qualidade e faça um treino de repetição de palavras com tom alegre durante a manhã."
+          },
+          {
+            "name": "Tarde: Vegetais frescos e brinquedos para roer",
+            "text": "Ofereça vegetais ricos em vitamina A (brócolos, cenoura) e disponibilize brinquedos de madeira para canalizar o desejo de morder."
+          },
+          {
+            "name": "Noite: Voo livre, correção neutra de bicadas e descanso escuro",
+            "text": "Permita pelo menos 1 hora de voo fora da gaiola. Se houver bicadas, não grite: mantenha-se neutro, coloque a ave na gaiola por 5 minutos e garanta 10-12 horas de escuridão."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Como corrigir as bicadas na fase de 'Bluffing' (adolescência)?",
+            "answer": "O bluffing é um processo hormonal natural. Gritar ou reagir excessivamente é interpretado pela ave como uma recompensa de atenção. Mantenha a calma, retire a mão sem gestos bruscos e coloque-a na gaiola por alguns minutos."
+          },
+          {
+            "question": "Por que a dieta exclusiva de sementes é perigosa?",
+            "answer": "A dieta só de sementes é rica em gorduras e deficiente em vitamina A e cálcio, causando esteatose hepática, obesidade e arrancamento de penas. A ração extrudada deve corresponder a 60-70% da alimentação diária."
+          }
+        ]
+      },
+      "id": {
+        "title": "Panduan Pelatihan Bicara, Koreksi Fase Menggigit (Bluffing), dan Rutinitas Nutrisi Burung Indian Ringneck",
+        "description": "Perawatan esensial untuk burung Indian Ringneck yang anggun. Kuasai pelatihan bicara, atasi agresivitas masa remaja (bluffing), serta jaga keseimbangan nutrisi pelet dan sayuran segar.",
+        "authority": "Panduan Klinis Association of Avian Veterinarians (AAV) dan Standar Perilaku Burung",
+        "profile": {
+          "breed": "Indian Ringneck Parakeet (Psittacula krameri)",
+          "lifespan": "20 ~ 30 tahun",
+          "sleep_pattern": "10 ~ 12 jam (istirahat dalam sangkar yang ditutup kain gelap)",
+          "temperament": "Cerdas, mandiri, penasaran, ekspresif, sensitif di masa remaja"
+        },
+        "intro": "Burung Indian Ringneck sangat populer berkat lingkar leher khas pada pejantan dewasa dan kemampuannya yang luar biasa dalam menirukan suara manusia. Meskipun sangat cerdas dan mandiri, mereka mengalami masa remaja yang disebut 'bluffing' pada usia sekitar 1 tahun yang ditandai dengan kecenderungan menggigit. Mengatasi masa ini membutuhkan pelatihan perilaku yang konsisten, stimulasi bicara, dan diet berbasis pelet yang seimbang dengan sayuran segar.  menyajikan rutinitas perawatan 3 langkahnya.",
+        "whyTitle": "Insting Indian Ringneck: Penyempitan Pupil (Eye Pinning) dan Anggukan Kepala",
+        "whyDesc": "Indian Ringneck mengekspresikan emosi yang kuat melalui penyempitan pupil mata yang cepat yang disebut **'Eye Pinning'** saat merasa gembira atau waspada. Mereka juga menganggukkan kepala secara ritmis di depan pemilik favoritnya sebagai tanda kasih sayang dan kesiapan berkomunikasi.",
+        "body_signals": [
+          {
+            "name": "Penyempitan Pupil (Eye Pinning / Eye Flashing)",
+            "meaning": "Indikator kegembiraan tinggi, rasa penasaran, atau peringatan sebelum menggigit akibat merasa terancam.",
+            "response": "Perhatikan situasi: jika disebabkan oleh rasa marah, beri jarak dan tunggu hingga mata kembali normal."
+          },
+          {
+            "name": "Menganggukkan Kepala & Bersiul (Head Bobbing & Whistling)",
+            "meaning": "Tanda kasih sayang dan kesiapan untuk berinteraksi atau memulai sesi latihan menirukan kata.",
+            "response": "Tanggapi dengan nada ramah dan ulangi kata-kata yang jelas untuk mendorong kemampuan bicaranya."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pemberian Pelet Nutrisi & Latihan Bicara 10 Menit",
+            "text": "Berikan pelet bernutrisi seimbang dan lakukan latihan pengulangan kata-kata dengan suara ceria di pagi hari saat burung dalam kondisi segar."
+          },
+          {
+            "name": "Siang: Pemberian Sayuran Segar & Mainan Kayu Gigit",
+            "text": "Sediakan sayuran segar kaya Vitamin A (brokoli, wortel) dan berikan mainan kayu untuk menyalurkan keinginan menggigitnya."
+          },
+          {
+            "name": "Malam: Terbang Bebas, Koreksi Menggigit Tanpa Emosi & Tidur Gelap",
+            "text": "Berikan kesempatan terbang di luar sangkar minimal 1 jam. Jika menggigit, jangan berteriak: bersikap netral, masukkan burung ke sangkar selama 5 menit, lalu pastikan tidur 10–12 jam dalam ruangan gelap."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Bagaimana cara mengatasi gigitan pada masa remaja ('Bluffing')?",
+            "answer": "Bluffing adalah fase perkembangan hormonal yang alami. Berteriak saat digigit akan dianggap burung sebagai perhatian atau ajakan bermain. Bersikaplah tenang tanpa ekspresi, tarik tangan perlahan, dan masukkan burung ke sangkar selama 5 menit untuk memberi batas perilaku."
+          },
+          {
+            "question": "Mengapa diet biji-bijian saja berbahaya bagi Indian Ringneck?",
+            "answer": "Biji-bijian tinggi lemak tetapi sangat kekurangan Vitamin A dan kalsium, yang memicu penyakit hati berlemak, obesitas, dan Kerusakan bulu. Pelet khusus harus menjadi makanan utama (60–70%), ditambah dengan sayuran segar."
+          }
+        ]
+      }
     }
+  }
 }

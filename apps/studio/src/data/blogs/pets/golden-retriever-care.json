@@ -1,459 +1,459 @@
 {
-    "golden-retriever-care": {
-        "pubDate": "2026-05-28",
-        "updatedDate": "2026-05-30",
-        "locales": {
-            "ko": {
-                "title": "천사견 골든 리트리버? 관절과 리트리빙 본능을 위한 3단계 헬시 루틴",
-                "description": "친근하고 영리한 골든 리트리버. 대형견의 취약점인 고관절 이형성증 예방과 에너지를 채워주는 3단계 데일리 교감 루틴을 소개합니다.",
-                "authority": "American Kennel Club (AKC) 공식 가이드 및 IAABC 행동 프로토콜",
-                "profile": {
-                    "breed": "골든 리트리버 (Canis lupus familiaris)",
-                    "lifespan": "10 ~ 12년",
-                    "sleep_pattern": "12 ~ 14시간 (보호자 동조형)",
-                    "temperament": "지능적, 다정다감, 활발함"
-                },
-                "intro": "황금빛 털과 온순한 성격으로 전 세계적으로 큰 사랑을 받고 있는 골든 리트리버는 뛰어난 지능과 친화력을 지닌 반려견입니다. '천사견'이라는 별명처럼 다정하지만, 대형 사냥견 출신인 만큼 넘치는 에너지를 지녀 일상에서의 적극적인 자극과 교감이 필요합니다. 특히 대형견의 유전적 취약점인 고관절 이형성증(Hip Dysplasia)을 예방하고, 타고난 리트리빙(물건 물어오기) 본능을 해소해 주는 일상 루틴이 평생의 건강과 정서적 안정에 절대적인 영향을 미칩니다. 이번 가이드에서는 리트리버의 바디 랭귀지를 이해하고, 관절과 놀이 본능을 매일 관리할 수 있는 3단계 헬시 루틴을 소개합니다.",
-                "whyTitle": "골든 리트리버의 바디 랭귀지: 신뢰와 신호의 해독",
-                "whyDesc": "골든 리트리버는 풍부한 표정과 몸짓으로 감정을 활발히 공유합니다. 대표적인 바디 랭귀지 중 하나는 부드럽고 지긋이 눈을 맞추는 **'소프트 아이 콘택트(Soft Eye Contact)'**입니다. 긴장된 대치 상황에서 노려보는 눈빛과 달리, 리트리버가 눈을 편안하게 가늘게 뜨고 보호자와 눈을 마주치는 행동은 깊은 애정과 신뢰, 그리고 심리적 유대감을 나누고 싶어 하는 안전 신호입니다. 이때 보호자가 부드러운 목소리로 칭찬해 주면 옥시토신 분비가 활성화되어 정서적 안정감이 더 커집니다. 반면, 몸 전체를 경직시키고 꼬리만 팽팽하게 세우는 신호가 나타나면 주의가 필요합니다.",
-                "body_signals": [
-                    {
-                        "name": "부드러운 시선 맞춤 (Soft Eye Contact)",
-                        "meaning": "보호자에 대한 완전한 신뢰와 심리적 결속을 의미하는 긍정적인 눈빛입니다.",
-                        "response": "눈을 부드럽게 깜빡여 마주 응답해 주고 차분한 칭찬으로 반응해 주십시오."
-                    },
-                    {
-                        "name": "몸 흔들기 (Full Body Wagging)",
-                        "meaning": "단순히 흥분한 것이 아니라 다정함을 적극적으로 전하는 호감 표현입니다.",
-                        "response": "리트리버를 부드럽게 쓰다듬으며 긍정적인 흥분 에너지를 차분하게 나누십시오."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 리트리빙 본능 충족 공 놀이",
-                        "text": "리트리버는 물건을 물어오는 것에 가장 큰 희열을 느낍니다. 아침 산책 전 실내나 마당에서 부드러운 공을 던져 가져오게 하는 놀이를 5~10분간 진행하여 야생 본능적 에너지를 안전하게 방산시킵니다."
-                    },
-                    {
-                        "name": "낮/오후: 1시간 이상의 충분한 야외 산책",
-                        "text": "지능이 높고 활동량이 많은 대형견이므로 하루 최소 1시간 이상의 에너지 발산이 필수적입니다. 산책 도중 잔디밭 등 안전한 곳에서 후각 자극(노즈워크)을 듬뿍 줄 때 스트레스 지수가 낮아지고 실내 파괴 행동을 예방할 수 있습니다."
-                    },
-                    {
-                        "name": "저녁: 처진 귀 위생 세정 및 관절 마사지",
-                        "text": "귀가 밑으로 덮여 있어 귓병에 걸리기 쉬운 리트리버를 위해 매일 저녁 귀 내부 청결을 확인하고 전용 세정제로 정돈합니다. 또한, 고관절 질환 예방을 위해 뒷다리 관절 부위를 부드럽게 압박 마사지해 주어 피로를 해소시킵니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "리트리버가 산책할 때 나뭇가지나 신발을 자꾸 물고 다니는데 왜 그런가요?",
-                        "answer": "이는 사냥감을 입에 상처 없이 물어 오던 리트리빙(Retrieving) 본능에서 비롯된 정상적인 행동입니다. 이를 야단치기보다 산책 시 물어도 안전한 전용 장난감을 입에 물려주는 것이 본능을 충족시키는 현명한 방법입니다."
-                    },
-                    {
-                        "question": "골든 리트리버를 키울 때 관절 관리는 몇 살부터 시작해야 하나요?",
-                        "answer": "골든 리트리버는 고관절 이형성증 등 유전적 관절 질환에 취약하므로, 성장이 활발한 생후 3개월령부터 체중 조절과 미끄럼 방지 매트 설치, 수영과 같은 부하가 적은 근력 운동을 시작하는 것이 좋습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "The Angelic Golden Retriever? A 3-Step Healthy Routine for Joint and Retrieving Play",
-                "description": "Friendly and intelligent Golden Retrievers. Discover tips to prevent genetically vulnerable hip dysplasia in large dogs and a 3-step daily routine for energy outlet.",
-                "authority": "Official American Kennel Club (AKC) Breed Guide & IAABC Behavioral Protocols",
-                "profile": {
-                    "breed": "Golden Retriever (Canis lupus familiaris)",
-                    "lifespan": "10 ~ 12 years",
-                    "sleep_pattern": "12 ~ 14 hours (synchronized with owner)",
-                    "temperament": "Intelligent, Affectionate, Active"
-                },
-                "intro": "The Golden Retriever, beloved worldwide for its golden coat and gentle personality, is an intelligent and highly affectionate companion. While known as 'angelic,' they possess high athletic energy as former retrieving gundogs and require active daily physical and mental stimulation. Preventing genetically vulnerable hip dysplasia and satisfying their natural instinct to retrieve are critical for their lifelong health and emotional stability. In this guide, we explore Golden Retriever body language and introduces a 3-step healthy routine for joint care and interactive play.",
-                "whyTitle": "Golden Retriever Body Language: Understanding Trust and Communication Signals",
-                "whyDesc": "Golden Retrievers express emotions actively through facial expressions and body gestures. A key trust and calming signal is **'soft eye contact'**. Unlike tense, adversarial staring, gently squinting while maintaining eye contact represents deep affection, trust, and a desire for psychological bonding. Responding with gentle verbal praise triggers oxytocin release, deepening their sense of security. On the contrary, a stiff body posture with a high, rigid tail indicates tension and requires caution.",
-                "body_signals": [
-                    {
-                        "name": "Soft Eye Contact",
-                        "meaning": "A positive eye contact indicating complete trust in the owner, deep affection, and psychological bonding.",
-                        "response": "Respond by blinking slowly and praising them in a calm, gentle voice."
-                    },
-                    {
-                        "name": "Full Body Wagging",
-                        "meaning": "An active expression of friendliness and joy, showing extreme comfort and fondness rather than simple excitement.",
-                        "response": "Gently stroke their chest or shoulders, calmly sharing and guiding their joyful energy."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Retrieving Play to Satisfy Gun-Dog Instincts",
-                        "text": "Since they derive immense satisfaction from carrying objects, play fetch with soft balls for 5-10 minutes indoors or in the yard before walks to safely burn off natural morning energy."
-                    },
-                    {
-                        "name": "Afternoon: 1-Hour Energetic Outdoor Walk & Sniffing Session",
-                        "text": "As highly active large dogs, they require at least 1 hour of daily outdoor exercise. Providing ample sniffing opportunities in safe grassy areas lowers stress and prevents destructive indoor behavior."
-                    },
-                    {
-                        "name": "Evening: Floppy Ear Cleaning and Large Dog Joint Massage",
-                        "text": "Check and clean their floppy ears daily with specialized ear cleanser to prevent infections. To prevent hip dysplasia, gently massage their hindquarters and leg joints to relieve muscle tension."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why does my Golden Retriever always carry sticks or shoes during walks?",
-                        "answer": "This is a natural retrieving instinct from their history as gun-dogs bred to carry game gently in their mouths. Instead of scolding them, let them carry a safe, dedicated dog toy during walks to satisfy this instinct."
-                    },
-                    {
-                        "question": "At what age should joint care start for a Golden Retriever?",
-                        "answer": "As they are prone to genetic joint conditions like hip dysplasia, you should start joint care—including weight management, non-slip floor mats, and low-impact exercise like swimming—around 3 months of age during active growth."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "天使の犬ゴールデンレトリバー？関節とレトリービング本能のための3段階ヘルシールーティン",
-                "description": "フレンドリーで賢いゴールデンレトリバー。大腿骨関節形成不全の予防と、十分なエネルギー発散のための3段階デイリールーティンを紹介します。",
-                "authority": "アメリカンケネルクラブ(AKC)公式犬種ガイド＆IAABC行動学プロトコル",
-                "profile": {
-                    "breed": "ゴールデンレトリバー (Canis lupus familiaris)",
-                    "lifespan": "10 ~ 12年",
-                    "sleep_pattern": "12 ~ 14時間（飼い主同調型）",
-                    "temperament": "聡明、人懐っこい、活発"
-                },
-                "intro": "黄金色の毛並みと温厚な性格で愛されるゴールデンレトリバーは、高い知能と親和性を備えた犬種です。「天使の犬」と呼ばれるほど穏やかですが、元は大型狩猟犬であるため、非常に活発で毎日の十分な運動と刺激が必要です。特に遺伝的に弱い股関節形成不全の予防と、レトリービング（獲物の回収）本能を満たすルーティンが一生の健康を左右します。本記事では、レトリバーのシグナルを理解し、関節と遊び本能を満たす3段階ルーティンを紹介します。",
-                "whyTitle": "ゴールデンレトリバーのボディランゲージ：信頼とサインの解読",
-                "whyDesc": "ゴールデンレトリバーは豊かな表情としぐさで感情を活発に表現します。代表的なサインの1つが、優しく静かに見つめる**「ソフトアイコンタクト」**です。緊張状態の視線とは異なり、目を細めて飼い主と視線を合わせる行動は、深い愛情と信頼、情緒的な結びつきを求める安全の合図です。この時に優しい声で応えると、オキシトシンが分泌されてさらに情緒が安定します。一方で、全身を硬直させて尾をピンと立てている時は警戒が必要です。",
-                "body_signals": [
-                    {
-                        "name": "ソフトアイコンタクト (Soft Eye Contact)",
-                        "meaning": "飼い主への完全な信頼と情緒的な結びつきを意味する肯定的な視線です。",
-                        "response": "目を優しくまばたきして応え、穏やかな声で褒めてあげてください。"
-                    },
-                    {
-                        "name": "ボディウェーブ (Full Body Wagging)",
-                        "meaning": "単なる興奮ではなく、親愛の情を積極的に伝える好意の表現です。",
-                        "response": "胸や肩を優しくなでながら、嬉しい気持ちを落ち着いて分かち合ってください。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：レトリービング本能を満たすボール遊び",
-                        "text": "レトリバーは物を咥えて運ぶことに最大の喜びを感じます。朝の散歩前に、室内や庭で柔らかいボールを投げて持ってこさせる遊びを5〜10分行い、本能的なエネルギーを安全に発散させます。"
-                    },
-                    {
-                        "name": "昼・午後：1時間以上の十分な屋外散歩",
-                        "text": "知能が高く活動量の多い大型犬なので、毎日最低1時間以上の散歩が不可欠です。芝生などの安全な場所で十分に匂いを嗅がせる（ノーズワーク）ことで、ストレスを和らげ問題行動を防ぎます。"
-                    },
-                    {
-                        "name": "夜：垂れ耳の衛生管理と関節マッサージ",
-                        "text": "耳が垂れていて耳病にかかりやすいレトリバーのため、毎晩耳の汚れをチェックし、専用クリーナーで清掃します。股関節の負担を和らげるため、後ろ足の関節部位を優しくマッサージします。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "レトリバーが散歩の時、枝や靴をよく咥えて歩くのはなぜですか？",
-                        "answer": "獲物を傷つけずに咥えて運ぶレトリービング（Retrieving）本能による自然な行動です。叱るのではなく、お気に入りのおもちゃを咥えさせて散歩をさせることで本能を満たすのが効果的です。"
-                    },
-                    {
-                        "question": "ゴールデンレトリバーの関節ケアは何歳から始めるべきですか？",
-                        "answer": "股関節形成不全などの遺伝的疾患に弱いため、成長期である生後3ヶ月頃から体重管理、滑り止めマットの設置、関節に負担の少ない水泳などの運動を始めるのが推奨されます。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "天使犬金毛寻回猎犬？呵护关节与寻回天性的日常3步健康护理流程",
-                "description": "友好且聪明的金毛寻回犬。介绍预防大型犬易患的髋关节发育不良的窍门，以及用于消耗精力的3步日常护理流程。",
-                "authority": "美国养犬俱乐部 (AKC) 官方犬种指南与 IAABC 行为学协议",
-                "profile": {
-                    "breed": "金毛寻回猎犬 (Canis lupus familiaris)",
-                    "lifespan": "10 ~ 12年",
-                    "sleep_pattern": "12 ~ 14小时（家长同频型）",
-                    "temperament": "聪明、温顺、活泼"
-                },
-                "intro": "金毛寻回猎犬以其金黄色的被毛和温顺的性格深受全球喜爱，是一种极具智慧且充满亲和力的伴侣犬。虽然有着“天使犬”的美誉，但它们毕竟是大型寻回猎犬出身，拥有旺盛的精力，因此需要日常积极的运动与互动。特别是预防遗传性髋关节发育不良以及满足它们天生的寻回（叼回物品）本能，对于其终身健康与情绪稳定至关重要。今天，本指南将带您解读金毛的身体语言，并介绍一套日常3步健康护理流程。",
-                "whyTitle": "金毛寻回犬的身体语言：解读信任与沟通信号",
-                "whyDesc": "金毛寻回犬擅长通过丰富的表情与肢体动作来表达情感。其中最核心的信任信号是 **“温柔的眼神接触（Soft Eye Contact）”**。与紧张对峙时带有攻击性的凝视不同，金毛微微眯起双眼、温和注视家长的行为，代表着深切的爱意、信任以及对心理纽带的渴求。此时家长若以轻柔的声音回应和夸奖，会刺激其体内催产素的分泌，使安全感翻倍。相反，若它们身体僵硬且尾巴高高竖起，则暗示着警惕与紧张。",
-                "body_signals": [
-                    {
-                        "name": "温柔的眼神接触 (Soft Eye Contact)",
-                        "meaning": "表达对家长完全信任、爱意与心理联结的积极眼神。",
-                        "response": "家长也应温柔地眨眼回应，并用平静、轻柔的声音予以夸奖。"
-                    },
-                    {
-                        "name": "身体摇摆 (Full Body Wagging)",
-                        "meaning": "并非单纯的兴奋，而是积极传递友好、喜悦与极度舒适的示好表现。",
-                        "response": "温柔地抚摸它们的胸口或肩膀，平静地共享并引导它们释放这种喜悦的能量。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早晨：满足寻回天性的衔回球类游戏",
-                        "text": "金毛通过叼回物品能获得极大的快感。在早晨散步前，可在室内或院子里用软球进行5-10分钟的抛接衔回游戏，安全释放其本能能量，开启精力充沛的一天。"
-                    },
-                    {
-                        "name": "中午/下午：1小时以上的高能量户外散步",
-                        "text": "作为高智商且运动量巨大的大型犬，金毛每天至少需要1小时以上的能量消耗。在草地等安全区域给予充足的嗅觉刺激（嗅闻活动），能有效舒缓压力并杜绝拆家行为。"
-                    },
-                    {
-                        "name": "晚上：垂耳耳道卫生清洁与大狗关节按摩",
-                        "text": "金毛为垂耳犬，耳道密闭易生耳疾，需在每晚检查耳内清洁并用专用洗耳液护理。同时，为预防髋关节发育不良，应温和地对后肢关节区域进行按压按摩，以舒缓肌肉紧张。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "为什么金毛在散步时总是喜欢叼着树枝或鞋子？",
-                        "answer": "这源于它们作为寻回猎犬（Retrieving）的天性，过去它们被培育来温和地叼回猎物。不要责骂它们，在散步时让它们叼着安全的专属玩具是满足其天性的好办法。"
-                    },
-                    {
-                        "question": "金毛寻回犬的关节护理应该从几岁开始？",
-                        "answer": "金毛易患髋关节发育不良等遗传性关节疾病，因此建议从生后3个月的快速成长阶段就开始进行体重控制、铺设防滑垫以及进行游泳等低冲击的关节养护运动。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "¿El Golden Retriever angelical? Una rutina saludable de 3 pasos para las articulaciones y el juego de cobro",
-                "description": "Golden Retriever amigable e inteligente. Descubra consejos para prevenir la displasia de cadera genéticamente vulnerable en perros grandes y una rutina diaria de 3 pasos.",
-                "authority": "Guía Oficial de Razas del American Kennel Club (AKC) y Protocolos de Comportamiento de IAABC",
-                "profile": {
-                    "breed": "Golden Retriever (Canis lupus familiaris)",
-                    "lifespan": "10 ~ 12 años",
-                    "sleep_pattern": "12 ~ 14 horas (sincronizado con el dueño)",
-                    "temperament": "Inteligente, Afectuoso, Activo"
-                },
-                "intro": "El Golden Retriever, querido en todo el mundo por su pelaje dorado y su personalidad gentil, es un compañero inteligente y sumamente amigable. Aunque se le conoce como 'angelical', posee una gran energía atlética como perro de cobro y requiere estimulación diaria física y mental. Prevenir la displasia de cadera genéticamente vulnerable y satisfacer su instinto natural de cobro son fundamentales para su salud y bienestar emocional. En esta guía se explora sus señales corporales e introduce una rutina saludable de 3 pasos para las articulaciones y el juego.",
-                "whyTitle": "Lenguaje corporal del Golden Retriever: Comprensión de señales de comunicación y confianza",
-                "whyDesc": "Los Golden Retrievers expressan sus emociones de forma activa a través de gestos. Una señal clave de confianza y calma es el **'contacto visual suave' (Soft Eye Contact)**. A diferencia de la mirada fija tensa y adversarial, entrecerrar los ojos suavemente mientras mantienen el contacto visual representa profundo afecto, confianza y deseo de conexión psicológica. Responder con elogios suaves estimula la liberación de oxitocina, aumentando su estabilidad emocional. Por el contrario, un cuerpo tenso con la cola erguida y rígida indica tensión y requiere precaución.",
-                "body_signals": [
-                    {
-                        "name": "Contacto visual suave (Soft Eye Contact)",
-                        "meaning": "Un contacto visual positivo que indica confianza completa en el dueño, afecto profundo y vínculo psicológico.",
-                        "response": "Responda parpadeando lentamente y elogiando con una voz tranquila y suave."
-                    },
-                    {
-                        "name": "Movimiento de todo el cuerpo (Full Body Wagging)",
-                        "meaning": "Una expresión activa de amabilidad y alegría, que muestra extremo confort y cariño más allá de la simple excitación.",
-                        "response": "Acaricie suavemente su pecho o hombros, compartiendo su energía alegre de forma serena."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Juego de cobro para satisfacer los instintos de cazador",
-                        "text": "Dado que disfrutan llevando objetos en la boca, juegue a traer una pelota suave durante 5-10 minutos en casa o el jardín antes del paseo para liberar la energía matutina de forma segura."
-                    },
-                    {
-                        "name": "Tarde: Paseo energético al aire libre de más de 1 hora con estimulación olfativa",
-                        "text": "Como perros grandes muy activos, necesitan al menos 1 hora de ejercicio diario. Permitirles olfatear en zonas de césped seguras reduce el estrés y evita comportamientos destructivos en el hogar."
-                    },
-                    {
-                        "name": "Noche: Limpieza de oídos caídos y masaje articular para perros grandes",
-                        "text": "Limpie sus orejas caídas a diario con un limpiador específico para evitar infecciones. Para prevenir problemas de displasia de cadera, masajee suavemente las patas traseras y articulaciones para aliviar la tensión muscular."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué mi Golden Retriever siempre lleva palos o zapatos durante los paseos?",
-                        "answer": "Es un instinto natural de cobro (Retrieving) derivado de su origen como perros de caza criados para llevar presas sin dañarlas. En lugar de regañarlo, deje que lleve un juguete seguro durante el paseo para satisfacer su instinto."
-                    },
-                    {
-                        "question": "¿A qué edad debe comenzar el cuidado articular en un Golden Retriever?",
-                        "answer": "Dado que son propensos a la displasia de cadera genérica, comience el cuidado articular (control de peso, alfombras antideslizantes y natación) alrededor de los 3 meses de edad durante su etapa de crecimiento activo."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "L'angélique Golden Retriever ? Une routine saine en 3 étapes pour les articulations et le jeu de rapport",
-                "description": "Golden Retriever amical et intelligent. Découvrez des conseils pour prévenir la dysplasie de la hanche chez les grands chiens et une routine quotidienne en 3 étapes.",
-                "authority": "Guide Officiel des Races de l'American Kennel Club (AKC) et Protocoles Comportementaux de l'IAABC",
-                "profile": {
-                    "breed": "Golden Retriever (Canis lupus familiaris)",
-                    "lifespan": "10 ~ 12 ans",
-                    "sleep_pattern": "12 ~ 14 heures (synchronisé avec le maître)",
-                    "temperament": "Intelligent, Affectueux, Actif"
-                },
-                "intro": "Le Golden Retriever, adoré dans le monde entier pour son pelage doré et sa douceur, est un compagnon intelligent et extrêmement sociable. Bien que qualifié d'« angélique », il possède une grande énergie athlétique en tant qu'ancien chien de rapport et nécessite une stimulation physique et mentale quotidienne. Prévenir la dysplasie de la hanche à laquelle il est sujet et satisfaire son instinct naturel de rapport sont essentiels pour sa santé et son équilibre émotionnel. Dans ce guide, étudie son langage corporel et propose une routine en 3 étapes.",
-                "whyTitle": "Langage corporel du Golden Retriever : Comprendre la confiance et les signaux de communication",
-                "whyDesc": "Les Golden Retrievers expriment leurs émotions par des mouvements et des expressions faciales très clairs. Un signal clé de confiance est le **« contact visuel doux » (Soft Eye Contact)**. Contrairement au regard fixe et tendu, plisser doucement les yeux tout en maintenant le contact visuel traduit une profonde affection, de la confiance et une volonté de connexion psychologique. Répondre par des félicitations calmes stimule l'ocytocine et renforce sa sérénité. En revanche, un corps raide avec la queue haute indique de la tension.",
-                "body_signals": [
-                    {
-                        "name": "Contact visuel doux (Soft Eye Contact)",
-                        "meaning": "Un contact visuel positif témoignant d'une confiance totale envers son maître, d'affection et d'un lien psychologique fort.",
-                        "response": "Répondez en clignant des yeux lentement et en le félicitant d'une voix douce et calme."
-                    },
-                    {
-                        "name": "Frétillement de tout le corps (Full Body Wagging)",
-                        "meaning": "Une expression active de convivialité et de joie, montrant un confort extrême et un attachement profond.",
-                        "response": "Caressez doucement son poitrail ou ses épaules pour partager calmement son enthousiasme."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Jeu de rapport pour satisfaire ses instincts de chasseur",
-                        "text": "Comme il aime transporter des objets, jouez à rapporter une balle douce pendant 5 à 10 minutes à la maison ou au jardin avant la promenade pour dépenser son énergie matinale en toute sécurité."
-                    },
-                    {
-                        "name": "Après-midi : Promenade dynamique d'une heure avec exploration olfactive",
-                        "text": "En tant que grand chien très actif, il a besoin d'au moins une heure d'exercice par jour. Lui permettre de renifler dans des zones sûres réduit le stress et évite les comportements destructeurs à la maison."
-                    },
-                    {
-                        "name": "Soir : Nettoyage des oreilles tombantes et massage articulaire",
-                        "text": "Nettoyez ses oreilles tombantes quotidiennement avec un soin adapté pour éviter les otites. Pour prévenir la dysplasie de la hanche, massez doucement les pattes arrière et les articulations pour relâcher les tensions."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi mon Golden Retriever porte-t-il toujours des bâtons ou des chaussures en promenade ?",
-                        "answer": "C'est un instinct naturel de rapport (Retrieving) hérité de ses ancêtres chiens de chasse, élevés pour rapporter le gibier sans l'abîmer. Au lieu de le gronder, laissez-le porter son jouet préféré pendant la promenade pour satisfaire ce besoin."
-                    },
-                    {
-                        "question": "À quel âge doit-on commencer le soin des articulations pour un Golden Retriever ?",
-                        "answer": "Étant sujets à des pathologies génétiques comme la dysplasie de la hanche, commencez le soin des articulations (contrôle du poids, tapis antidérapants, natation) dès l'âge de 3 mois pendant sa phase de croissance rapide."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Der engelhafte Golden Retriever? Eine 3-Schritte-Gesundheitsroutine für Gelenke und Apportierspiele",
-                "description": "Freundliche und intelligente Golden Retriever. Erfahren Sie Tipps zur Vorbeugung von Hüftdysplasie bei großen Hunden und eine tägliche 3-Schritte-Routine.",
-                "authority": "Offizieller Rasseführer des American Kennel Club (AKC) und IAABC-Verhaltensprotokolle",
-                "profile": {
-                    "breed": "Golden Retriever (Canis lupus familiaris)",
-                    "lifespan": "10 ~ 12 Jahre",
-                    "sleep_pattern": "12 ~ 14 Stunden (besitzersynchron)",
-                    "temperament": "Intelligent, Anhänglich, Aktiv"
-                },
-                "intro": "Der Golden Retriever ist wegen seines goldenen Fells und seines sanftmütigen Wesens weltweit als intelligenter und freundlicher Begleiter beliebt. Obwohl er als 'engelhaft' gilt, besitzt er als ehemaliger Jagd- und Apportierhund eine hohe körperliche Energie und benötigt tägliche Auslastung. Die Vorbeugung der genetisch bedingten Hüftdysplasie und die Befriedigung seines Apportiertriebs sind entscheidend für seine Lebensqualität. In diesem Ratgeber die Körpersprache des Golden Retrievers vor und zeigt eine 3-Schritte-Routine für Gelenke und Spiel.",
-                "whyTitle": "Körpersprache des Golden Retrievers: Vertrauen und Kommunikationssignale verstehen",
-                "whyDesc": "Golden Retriever drücken Gefühle aktiv durch Mimik und Körpersprache aus. Ein zentrales Signal für Vertrauen ist der **'sanfte Blickkontakt' (Soft Eye Contact)**. Im Gegensatz zu starrem Fixieren drückt das sanfte Blinzeln Zuneigung, Vertrauen und den Wunsch nach emotionaler Bindung aus. Ruhiges Loben setzt Oxytocin frei und stärkt das Sicherheitsgefühl. Ein steifer Körper mit hoch erhobener Rute signalisiert dagegen Anspannung.",
-                "body_signals": [
-                    {
-                        "name": "Sanfter Blickkontakt (Soft Eye Contact)",
-                        "meaning": "Ein positiver Blickkontakt, der volles Vertrauen zum Halter, Zuneigung und Bindung signalisiert.",
-                        "response": "Antworten Sie durch langsames Blinzeln und loben Sie mit ruhiger, sanfter Stimme."
-                    },
-                    {
-                        "name": "Körperschwänzeln (Full Body Wagging)",
-                        "meaning": "Ein aktiver Ausdruck von Freude und Freundlichkeit, der tiefes Wohlbefinden und Zuneigung zeigt.",
-                        "response": "Streicheln Sie sanft die Brust oder Schultern und teilen Sie die Freude auf ruhige Weise."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Apportierspiel zur Triebbefriedigung",
-                        "text": "Da sie gerne Gegenstände tragen, spielen Sie vor dem Gassigehen 5–10 Minuten Apportieren mit einem weichen Ball. Dies befriedigt ihren natürlichen Instinkt und baut Morgenenergie ab."
-                    },
-                    {
-                        "name": "Nachmittag: Über einstündiger energischer Spaziergang mit Schnüffeleinheiten",
-                        "text": "Als aktive große Hunde benötigen sie mindestens eine Stunde Bewegung täglich. Ausgiebiges Schnüffeln in sicheren Bereichen baut Stress ab und beugt unerwünschtem Verhalten vor."
-                    },
-                    {
-                        "name": "Abend: Ohrenreinigung bei Hängeohren und Gelenkmassage",
-                        "text": "Reinigen Sie die Hängeohren täglich mit Spezialreiniger, um Entzündungen vorzubeugen. Massieren Sie sanft die Hinterbeine und Gelenke, um Verspannungen zu lösen und Hüftproblemen vorzubeugen."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum trägt mein Golden Retriever beim Spaziergang Stöcke oder Schuhe?",
-                        "answer": "Dies ist der natürliche Apportiertrieb (Retrieving) des Jagdhundes, Beute unbeschädigt im Maul zu tragen. Schimpfen Sie nicht; lassen Sie ihn beim Spaziergang ein sicheres Spielzeug tragen, um diesen Trieb zu befriedigen."
-                    },
-                    {
-                        "question": "Ab welchem Alter sollte die Gelenkpflege bei einem Golden Retriever beginnen?",
-                        "answer": "Da sie anfällig für genetische Hüftdysplasie sind, sollten Sie bereits in der Wachstumsphase ab dem 3. Monat mit der Gelenkpflege (Gewichtskontrolle, rutschfeste Matten, Schwimmen) beginnen."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "O Golden Retriever angelical? Uma rotina diária saudável de 3 passos para as articulações e o jogo de busca",
-                "description": "Golden Retriever amigável e inteligente. Descubra dicas para prevenir a displasia de quadril em cães grandes e uma rotina diária de 3 passos.",
-                "authority": "Guia Oficial de Raças do American Kennel Club (AKC) e Protocolos de Comportamento da IAABC",
-                "profile": {
-                    "breed": "Golden Retriever (Canis lupus familiaris)",
-                    "lifespan": "10 ~ 12 anos",
-                    "sleep_pattern": "12 ~ 14 horas (sincronizado com o tutor)",
-                    "temperament": "Inteligente, Afetuoso, Ativo"
-                },
-                "intro": "O Golden Retriever, amado no mundo todo por sua pelagem dourada e personalidade gentil, é um companheiro inteligente e extremamente amigável. Embora conhecido como 'angelical', possui alta energia atlética como cão de busca e requer estimulação diária física e mental. Prevenir a displasia de quadril a que são propensos e satisfazer seu instinto de busca são essenciais para sua saúde e bem-estar emocional. Neste guia, explora sua linguagem corporal e apresenta uma rotina saudável de 3 passos.",
-                "whyTitle": "Linguagem corporal do Golden Retriever: Compreendendo sinais de comunicação e confiança",
-                "whyDesc": "Os Golden Retrievers expressam suas emoções por meio de gestos e expressões. Um sinal chave de confiança é o **'contato visual suave' (Soft Eye Contact)**. Ao contrário do olhar tenso e confrontador, estreitar os olhos suavemente enquanto mantêm o contato visual representa afeto profundo, confiança e vínculo psicológico. Responder com elogios suaves estimula a ocitocina, aumentando sua estabilidade emocional. Por outro lado, um corpo rígido com a cauda erguida indica tensão.",
-                "body_signals": [
-                    {
-                        "name": "Contato visual suave (Soft Eye Contact)",
-                        "meaning": "Um contato visual positivo que indica confiança total no tutor, afeto profundo e vínculo psicológico.",
-                        "response": "Responda piscando lentamente e elogiando com uma voz calma e suave."
-                    },
-                    {
-                        "name": "Abanar o corpo inteiro (Full Body Wagging)",
-                        "meaning": "Uma expressão ativa de amizade e alegria, mostrando extremo conforto e carinho além da simples excitação.",
-                        "response": "Acaricie suavemente o peito ou ombros, compartilhando a energia alegre de forma serena."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Jogo de busca para satisfazer os instintos de caça",
-                        "text": "Como adoram carregar objetos na boca, jogue busca com uma bola macia por 5-10 minutos em casa ou no quintal antes do passeio para liberar a energia matinal em segurança."
-                    },
-                    {
-                        "name": "Tarde: Passeio energético ao ar livre de mais de 1 hora com estimulação olfativa",
-                        "text": "Como cães grandes ativos, precisam de pelo menos 1 hora de exercício por dia. Permitir que farejem em áreas seguras reduz o estresse e evita comportamentos destrutivos."
-                    },
-                    {
-                        "name": "Noite: Limpeza de orelhas caídas e massagem articular para cães grandes",
-                        "text": "Limpe as orelhas caídas diariamente com solução específica para evitar infecções. Para prevenir problemas de quadril, massageie suavemente as patas traseiras e articulações para aliviar a tensão."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Por que o meu Golden Retriever sempre carrega gravetos ou sapatos durante os passeios?",
-                        "answer": "É o instinto natural de busca (Retrieving) de sua origem como cão de caça criado para trazer a presa sem danificá-la. Em vez de brigar, permita que carregue um brinquedo seguro durante o passeio para satisfazer esse instinto."
-                    },
-                    {
-                        "question": "Com que idade deve começar o cuidado articular em um Golden Retriever?",
-                        "answer": "Como são propensos à displasia de quadril genética, comece o cuidado articular (controle de peso, tapetes antiderrapantes e natação) aos 3 meses de idade durante seu crescimento ativo."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Golden Retriever yang Ramah? Rutinitas Harian 3 Langkah Sehat untuk Sendi dan Insting Mengambil Barang",
-                "description": "Golden Retriever yang ramah dan cerdas. Temukan tips untuk mencegah displasia pinggul yang rentan pada anjing besar dan rutinitas harian 3 langkah.",
-                "authority": "Panduan Ras Resmi American Kennel Club (AKC) & Protokol Perilaku IAABC",
-                "profile": {
-                    "breed": "Golden Retriever (Canis lupus familiaris)",
-                    "lifespan": "10 ~ 12 tahun",
-                    "sleep_pattern": "12 ~ 14 jam (sinkron dengan pemilik)",
-                    "temperament": "Cerdas, Penuh Kasih Sayang, Aktif"
-                },
-                "intro": "Golden Retriever, yang dicintai di seluruh dunia karena bulu keemasannya dan kepribadiannya yang lembut, adalah teman yang cerdas dan sangat ramah. Meskipun dikenal sebagai 'anjing malaikat', mereka memiliki energi atletis yang tinggi sebagai mantan anjing pemburu dan membutuhkan stimulasi fisik serta mental harian. Mencegah displasia pinggul yang rentan secara genetik dan memuaskan insting alami mengambil barang sangat penting untuk kesehatan dan stabilitas emosional mereka. Dalam panduan ini, mengulas bahasa tubuh Golden Retriever dan memperkenalkan 3 langkah rutinitas harian.",
-                "whyTitle": "Bahasa Tubuh Golden Retriever: Memahami Sinyal Kepercayaan dan Komunikasi",
-                "whyDesc": "Golden Retriever mengekspresikan emosi secara aktif melalui gerakan tubuh dan ekspresi wajah. Sinyal kepercayaan utama adalah **'kontak mata yang lembut' (Soft Eye Contact)**. Berbeda dengan tatapan tegang, menyipitkan mata dengan lembut sambil menatap pemilik menunjukkan kasih sayang mendalam, kepercayaan, dan ikatan emosional. Menanggapi dengan pujian lembut memicu pelepasan oksitosin, meningkatkan rasa aman mereka. Sebaliknya, tubuh yang kaku dengan ekor tegang menandakan kewaspadaan.",
-                "body_signals": [
-                    {
-                        "name": "Kontak Mata yang Lembut (Soft Eye Contact)",
-                        "meaning": "Kontak mata positif yang menunjukkan kepercayaan penuh pada pemilik, kasih sayang mendalam, dan ikatan psikologis.",
-                        "response": "Tanggapi dengan berkedip perlahan dan memuji dengan suara tenang dan lembut."
-                    },
-                    {
-                        "name": "Menggoyangkan Seluruh Tubuh (Full Body Wagging)",
-                        "meaning": "Ekspresi aktif keramahtamahan dan kegembiraan, menunjukkan kenyamanan dan kasih sayang mendalam.",
-                        "response": "Usap dada atau bahu mereka dengan lembut, bagikan energi gembira mereka dengan tenang."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Permainan Mengambil Barang untuk Memuaskan Insting Pemburu",
-                        "text": "Karena mereka sangat suka membawa barang, bermain lempar tangkap bola lembut selama 5-10 menit di dalam rumah atau halaman sebelum jalan-jalan untuk melepaskan energi pagi secara aman."
-                    },
-                    {
-                        "name": "Siang/Sore: Jalan-jalan Energetik 1 Jam Lebih dengan Stimulasi Penciuman",
-                        "text": "Sebagai anjing besar yang aktif, mereka membutuhkan setidaknya 1 jam latihan harian. Membiarkan mereka mengendus di area rumput yang aman menurunkan tingkat stres dan mencegah perilaku merusak."
-                    },
-                    {
-                        "name": "Malam: Pembersihan Telinga Terkulai dan Pijat Sendi Anjing Besar",
-                        "text": "Bersihkan telinga mereka yang terkulai setiap hari dengan cairan pembersih khusus untuk mencegah infeksi. Untuk mencegah displasia pinggul, pijat lembut sendi kaki belakang untuk meredakan ketegangan otot."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa Golden Retriever saya selalu membawa kayu atau sepatu saat jalan-jalan?",
-                        "answer": "Ini adalah insting alami mengambil barang (Retrieving) dari sejarah mereka sebagai anjing pemburu untuk membawa buruan tanpa merusaknya. Biarkan mereka membawa mainan anjing yang aman saat jalan-jalan untuk memuaskan insting ini."
-                    },
-                    {
-                        "question": "Pada usia berapa perawatan sendi harus dimulai untuk Golden Retriever?",
-                        "answer": "Karena mereka rentan terhadap displasia pinggul genetik, Anda harus memulai perawatan sendi (kontrol berat badan, keset antislip, dan berenang) sekitar usia 3 bulan selama masa pertumbuhan aktif."
-                    }
-                ]
-            }
+  "golden-retriever-care": {
+    "pubDate": "2026-05-28",
+    "updatedDate": "2026-05-30",
+    "locales": {
+      "ko": {
+        "title": "천사견 골든 리트리버? 관절과 리트리빙 본능을 위한 3단계 헬시 루틴",
+        "description": "친근하고 영리한 골든 리트리버. 대형견의 취약점인 고관절 이형성증 예방과 에너지를 채워주는 3단계 데일리 교감 루틴을 소개합니다.",
+        "authority": "American Kennel Club (AKC) 공식 가이드 및 IAABC 행동 프로토콜",
+        "profile": {
+          "breed": "골든 리트리버 (Canis lupus familiaris)",
+          "lifespan": "10 ~ 12년",
+          "sleep_pattern": "12 ~ 14시간 (보호자 동조형)",
+          "temperament": "지능적, 다정다감, 활발함"
         },
-        "heroImage": "/images/blog/golden_retriever_care.webp"
-    }
+        "intro": "황금빛 털과 온순한 성격으로 전 세계적으로 큰 사랑을 받고 있는 골든 리트리버는 뛰어난 지능과 친화력을 지닌 반려견입니다. '천사견'이라는 별명처럼 다정하지만, 대형 사냥견 출신인 만큼 넘치는 에너지를 지녀 일상에서의 적극적인 자극과 교감이 필요합니다. 특히 대형견의 유전적 취약점인 고관절 이형성증(Hip Dysplasia)을 예방하고, 타고난 리트리빙(물건 물어오기) 본능을 해소해 주는 일상 루틴이 평생의 건강과 정서적 안정에 절대적인 영향을 미칩니다. 이번 가이드에서는 리트리버의 바디 랭귀지를 이해하고, 관절과 놀이 본능을 매일 관리할 수 있는 3단계 헬시 루틴을 소개합니다.",
+        "whyTitle": "골든 리트리버의 바디 랭귀지: 신뢰와 신호의 해독",
+        "whyDesc": "골든 리트리버는 풍부한 표정과 몸짓으로 감정을 활발히 공유합니다. 대표적인 바디 랭귀지 중 하나는 부드럽고 지긋이 눈을 맞추는 **'소프트 아이 콘택트(Soft Eye Contact)'**입니다. 긴장된 대치 상황에서 노려보는 눈빛과 달리, 리트리버가 눈을 편안하게 가늘게 뜨고 보호자와 눈을 마주치는 행동은 깊은 애정과 신뢰, 그리고 심리적 유대감을 나누고 싶어 하는 안전 신호입니다. 이때 보호자가 부드러운 목소리로 칭찬해 주면 옥시토신 분비가 활성화되어 정서적 안정감이 더 커집니다. 반면, 몸 전체를 경직시키고 꼬리만 팽팽하게 세우는 신호가 나타나면 주의가 필요합니다.",
+        "body_signals": [
+          {
+            "name": "부드러운 시선 맞춤 (Soft Eye Contact)",
+            "meaning": "보호자에 대한 완전한 신뢰와 심리적 결속을 의미하는 긍정적인 눈빛입니다.",
+            "response": "눈을 부드럽게 깜빡여 마주 응답해 주고 차분한 칭찬으로 반응해 주십시오."
+          },
+          {
+            "name": "몸 흔들기 (Full Body Wagging)",
+            "meaning": "단순히 흥분한 것이 아니라 다정함을 적극적으로 전하는 호감 표현입니다.",
+            "response": "리트리버를 부드럽게 쓰다듬으며 긍정적인 흥분 에너지를 차분하게 나누십시오."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 리트리빙 본능 충족 공 놀이",
+            "text": "리트리버는 물건을 물어오는 것에 가장 큰 희열을 느낍니다. 아침 산책 전 실내나 마당에서 부드러운 공을 던져 가져오게 하는 놀이를 5~10분간 진행하여 야생 본능적 에너지를 안전하게 방산시킵니다."
+          },
+          {
+            "name": "낮/오후: 1시간 이상의 충분한 야외 산책",
+            "text": "지능이 높고 활동량이 많은 대형견이므로 하루 최소 1시간 이상의 에너지 발산이 필수적입니다. 산책 도중 잔디밭 등 안전한 곳에서 후각 자극(노즈워크)을 듬뿍 줄 때 스트레스 지수가 낮아지고 실내 파괴 행동을 예방할 수 있습니다."
+          },
+          {
+            "name": "저녁: 처진 귀 위생 세정 및 관절 마사지",
+            "text": "귀가 밑으로 덮여 있어 귓병에 걸리기 쉬운 리트리버를 위해 매일 저녁 귀 내부 청결을 확인하고 전용 세정제로 정돈합니다. 또한, 고관절 질환 예방을 위해 뒷다리 관절 부위를 부드럽게 압박 마사지해 주어 피로를 해소시킵니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "리트리버가 산책할 때 나뭇가지나 신발을 자꾸 물고 다니는데 왜 그런가요?",
+            "answer": "이는 사냥감을 입에 상처 없이 물어 오던 리트리빙(Retrieving) 본능에서 비롯된 정상적인 행동입니다. 이를 야단치기보다 산책 시 물어도 안전한 전용 장난감을 입에 물려주는 것이 본능을 충족시키는 현명한 방법입니다."
+          },
+          {
+            "question": "골든 리트리버를 키울 때 관절 관리는 몇 살부터 시작해야 하나요?",
+            "answer": "골든 리트리버는 고관절 이형성증 등 유전적 관절 질환에 취약하므로, 성장이 활발한 생후 3개월령부터 체중 조절과 미끄럼 방지 매트 설치, 수영과 같은 부하가 적은 근력 운동을 시작하는 것이 좋습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "The Angelic Golden Retriever? A 3-Step Healthy Routine for Joint and Retrieving Play",
+        "description": "Friendly and intelligent Golden Retrievers. Discover tips to prevent genetically vulnerable hip dysplasia in large dogs and a 3-step daily routine for energy outlet.",
+        "authority": "Official American Kennel Club (AKC) Breed Guide & IAABC Behavioral Protocols",
+        "profile": {
+          "breed": "Golden Retriever (Canis lupus familiaris)",
+          "lifespan": "10 ~ 12 years",
+          "sleep_pattern": "12 ~ 14 hours (synchronized with owner)",
+          "temperament": "Intelligent, Affectionate, Active"
+        },
+        "intro": "The Golden Retriever, beloved worldwide for its golden coat and gentle personality, is an intelligent and highly affectionate companion. While known as 'angelic,' they possess high athletic energy as former retrieving gundogs and require active daily physical and mental stimulation. Preventing genetically vulnerable hip dysplasia and satisfying their natural instinct to retrieve are critical for their lifelong health and emotional stability. In this guide, we explore Golden Retriever body language and introduces a 3-step healthy routine for joint care and interactive play.",
+        "whyTitle": "Golden Retriever Body Language: Understanding Trust and Communication Signals",
+        "whyDesc": "Golden Retrievers express emotions actively through facial expressions and body gestures. A key trust and calming signal is **'soft eye contact'**. Unlike tense, adversarial staring, gently squinting while maintaining eye contact represents deep affection, trust, and a desire for psychological bonding. Responding with gentle verbal praise triggers oxytocin release, deepening their sense of security. On the contrary, a stiff body posture with a high, rigid tail indicates tension and requires caution.",
+        "body_signals": [
+          {
+            "name": "Soft Eye Contact",
+            "meaning": "A positive eye contact indicating complete trust in the owner, deep affection, and psychological bonding.",
+            "response": "Respond by blinking slowly and praising them in a calm, gentle voice."
+          },
+          {
+            "name": "Full Body Wagging",
+            "meaning": "An active expression of friendliness and joy, showing extreme comfort and fondness rather than simple excitement.",
+            "response": "Gently stroke their chest or shoulders, calmly sharing and guiding their joyful energy."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Retrieving Play to Satisfy Gun-Dog Instincts",
+            "text": "Since they derive immense satisfaction from carrying objects, play fetch with soft balls for 5-10 minutes indoors or in the yard before walks to safely burn off natural morning energy."
+          },
+          {
+            "name": "Afternoon: 1-Hour Energetic Outdoor Walk & Sniffing Session",
+            "text": "As highly active large dogs, they require at least 1 hour of daily outdoor exercise. Providing ample sniffing opportunities in safe grassy areas lowers stress and prevents destructive indoor behavior."
+          },
+          {
+            "name": "Evening: Floppy Ear Cleaning and Large Dog Joint Massage",
+            "text": "Check and clean their floppy ears daily with specialized ear cleanser to prevent infections. To prevent hip dysplasia, gently massage their hindquarters and leg joints to relieve muscle tension."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why does my Golden Retriever always carry sticks or shoes during walks?",
+            "answer": "This is a natural retrieving instinct from their history as gun-dogs bred to carry game gently in their mouths. Instead of scolding them, let them carry a safe, dedicated dog toy during walks to satisfy this instinct."
+          },
+          {
+            "question": "At what age should joint care start for a Golden Retriever?",
+            "answer": "As they are prone to genetic joint conditions like hip dysplasia, you should start joint care—including weight management, non-slip floor mats, and low-impact exercise like swimming—around 3 months of age during active growth."
+          }
+        ]
+      },
+      "ja": {
+        "title": "天使の犬ゴールデンレトリバー？関節とレトリービング本能のための3段階ヘルシールーティン",
+        "description": "フレンドリーで賢いゴールデンレトリバー。大腿骨関節形成不全の予防と、十分なエネルギー発散のための3段階デイリールーティンを紹介します。",
+        "authority": "アメリカンケネルクラブ(AKC)公式犬種ガイド＆IAABC行動学プロトコル",
+        "profile": {
+          "breed": "ゴールデンレトリバー (Canis lupus familiaris)",
+          "lifespan": "10 ~ 12年",
+          "sleep_pattern": "12 ~ 14時間（飼い主同調型）",
+          "temperament": "聡明、人懐っこい、活発"
+        },
+        "intro": "黄金色の毛並みと温厚な性格で愛されるゴールデンレトリバーは、高い知能と親和性を備えた犬種です。「天使の犬」と呼ばれるほど穏やかですが、元は大型狩猟犬であるため、非常に活発で毎日の十分な運動と刺激が必要です。特に遺伝的に弱い股関節形成不全の予防と、レトリービング（獲物の回収）本能を満たすルーティンが一生の健康を左右します。本記事では、レトリバーのシグナルを理解し、関節と遊び本能を満たす3段階ルーティンを紹介します。",
+        "whyTitle": "ゴールデンレトリバーのボディランゲージ：信頼とサインの解読",
+        "whyDesc": "ゴールデンレトリバーは豊かな表情としぐさで感情を活発に表現します。代表的なサインの1つが、優しく静かに見つめる**「ソフトアイコンタクト」**です。緊張状態の視線とは異なり、目を細めて飼い主と視線を合わせる行動は、深い愛情と信頼、情緒的な結びつきを求める安全の合図です。この時に優しい声で応えると、オキシトシンが分泌されてさらに情緒が安定します。一方で、全身を硬直させて尾をピンと立てている時は警戒が必要です。",
+        "body_signals": [
+          {
+            "name": "ソフトアイコンタクト (Soft Eye Contact)",
+            "meaning": "飼い主への完全な信頼と情緒的な結びつきを意味する肯定的な視線です。",
+            "response": "目を優しくまばたきして応え、穏やかな声で褒めてあげてください。"
+          },
+          {
+            "name": "ボディウェーブ (Full Body Wagging)",
+            "meaning": "単なる興奮ではなく、親愛の情を積極的に伝える好意の表現です。",
+            "response": "胸や肩を優しくなでながら、嬉しい気持ちを落ち着いて分かち合ってください。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：レトリービング本能を満たすボール遊び",
+            "text": "レトリバーは物を咥えて運ぶことに最大の喜びを感じます。朝の散歩前に、室内や庭で柔らかいボールを投げて持ってこさせる遊びを5〜10分行い、本能的なエネルギーを安全に発散させます。"
+          },
+          {
+            "name": "昼・午後：1時間以上の十分な屋外散歩",
+            "text": "知能が高く活動量の多い大型犬なので、毎日最低1時間以上の散歩が不可欠です。芝生などの安全な場所で十分に匂いを嗅がせる（ノーズワーク）ことで、ストレスを和らげ問題行動を防ぎます。"
+          },
+          {
+            "name": "夜：垂れ耳の衛生管理と関節マッサージ",
+            "text": "耳が垂れていて耳病にかかりやすいレトリバーのため、毎晩耳の汚れをチェックし、専用クリーナーで清掃します。股関節の負担を和らげるため、後ろ足の関節部位を優しくマッサージします。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "レトリバーが散歩の時、枝や靴をよく咥えて歩くのはなぜですか？",
+            "answer": "獲物を傷つけずに咥えて運ぶレトリービング（Retrieving）本能による自然な行動です。叱るのではなく、お気に入りのおもちゃを咥えさせて散歩をさせることで本能を満たすのが効果的です。"
+          },
+          {
+            "question": "ゴールデンレトリバーの関節ケアは何歳から始めるべきですか？",
+            "answer": "股関節形成不全などの遺伝的疾患に弱いため、成長期である生後3ヶ月頃から体重管理、滑り止めマットの設置、関節に負担の少ない水泳などの運動を始めるのが推奨されます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "天使犬金毛寻回猎犬？呵护关节与寻回天性的日常3步健康护理流程",
+        "description": "友好且聪明的金毛寻回犬。介绍预防大型犬易患的髋关节发育不良的窍门，以及用于消耗精力的3步日常护理流程。",
+        "authority": "美国养犬俱乐部 (AKC) 官方犬种指南与 IAABC 行为学协议",
+        "profile": {
+          "breed": "金毛寻回猎犬 (Canis lupus familiaris)",
+          "lifespan": "10 ~ 12年",
+          "sleep_pattern": "12 ~ 14小时（家长同频型）",
+          "temperament": "聪明、温顺、活泼"
+        },
+        "intro": "金毛寻回猎犬以其金黄色的被毛和温顺的性格深受全球喜爱，是一种极具智慧且充满亲和力的伴侣犬。虽然有着“天使犬”的美誉，但它们毕竟是大型寻回猎犬出身，拥有旺盛的精力，因此需要日常积极的运动与互动。特别是预防遗传性髋关节发育不良以及满足它们天生的寻回（叼回物品）本能，对于其终身健康与情绪稳定至关重要。今天，本指南将带您解读金毛的身体语言，并介绍一套日常3步健康护理流程。",
+        "whyTitle": "金毛寻回犬的身体语言：解读信任与沟通信号",
+        "whyDesc": "金毛寻回犬擅长通过丰富的表情与肢体动作来表达情感。其中最核心的信任信号是 **“温柔的眼神接触（Soft Eye Contact）”**。与紧张对峙时带有攻击性的凝视不同，金毛微微眯起双眼、温和注视家长的行为，代表着深切的爱意、信任以及对心理纽带的渴求。此时家长若以轻柔的声音回应和夸奖，会刺激其体内催产素的分泌，使安全感翻倍。相反，若它们身体僵硬且尾巴高高竖起，则暗示着警惕与紧张。",
+        "body_signals": [
+          {
+            "name": "温柔的眼神接触 (Soft Eye Contact)",
+            "meaning": "表达对家长完全信任、爱意与心理联结的积极眼神。",
+            "response": "家长也应温柔地眨眼回应，并用平静、轻柔的声音予以夸奖。"
+          },
+          {
+            "name": "身体摇摆 (Full Body Wagging)",
+            "meaning": "并非单纯的兴奋，而是积极传递友好、喜悦与极度舒适的示好表现。",
+            "response": "温柔地抚摸它们的胸口或肩膀，平静地共享并引导它们释放这种喜悦的能量。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早晨：满足寻回天性的衔回球类游戏",
+            "text": "金毛通过叼回物品能获得极大的快感。在早晨散步前，可在室内或院子里用软球进行5-10分钟的抛接衔回游戏，安全释放其本能能量，开启精力充沛的一天。"
+          },
+          {
+            "name": "中午/下午：1小时以上的高能量户外散步",
+            "text": "作为高智商且运动量巨大的大型犬，金毛每天至少需要1小时以上的能量消耗。在草地等安全区域给予充足的嗅觉刺激（嗅闻活动），能有效舒缓压力并杜绝拆家行为。"
+          },
+          {
+            "name": "晚上：垂耳耳道卫生清洁与大狗关节按摩",
+            "text": "金毛为垂耳犬，耳道密闭易生耳疾，需在每晚检查耳内清洁并用专用洗耳液护理。同时，为预防髋关节发育不良，应温和地对后肢关节区域进行按压按摩，以舒缓肌肉紧张。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "为什么金毛在散步时总是喜欢叼着树枝或鞋子？",
+            "answer": "这源于它们作为寻回猎犬（Retrieving）的天性，过去它们被培育来温和地叼回猎物。不要责骂它们，在散步时让它们叼着安全的专属玩具是满足其天性的好办法。"
+          },
+          {
+            "question": "金毛寻回犬的关节护理应该从几岁开始？",
+            "answer": "金毛易患髋关节发育不良等遗传性关节疾病，因此建议从生后3个月的快速成长阶段就开始进行体重控制、铺设防滑垫以及进行游泳等低冲击的关节养护运动。"
+          }
+        ]
+      },
+      "es": {
+        "title": "¿El Golden Retriever angelical? Una rutina saludable de 3 pasos para las articulaciones y el juego de cobro",
+        "description": "Golden Retriever amigable e inteligente. Descubra consejos para prevenir la displasia de cadera genéticamente vulnerable en perros grandes y una rutina diaria de 3 pasos.",
+        "authority": "Guía Oficial de Razas del American Kennel Club (AKC) y Protocolos de Comportamiento de IAABC",
+        "profile": {
+          "breed": "Golden Retriever (Canis lupus familiaris)",
+          "lifespan": "10 ~ 12 años",
+          "sleep_pattern": "12 ~ 14 horas (sincronizado con el dueño)",
+          "temperament": "Inteligente, Afectuoso, Activo"
+        },
+        "intro": "El Golden Retriever, querido en todo el mundo por su pelaje dorado y su personalidad gentil, es un compañero inteligente y sumamente amigable. Aunque se le conoce como 'angelical', posee una gran energía atlética como perro de cobro y requiere estimulación diaria física y mental. Prevenir la displasia de cadera genéticamente vulnerable y satisfacer su instinto natural de cobro son fundamentales para su salud y bienestar emocional. En esta guía se explora sus señales corporales e introduce una rutina saludable de 3 pasos para las articulaciones y el juego.",
+        "whyTitle": "Lenguaje corporal del Golden Retriever: Comprensión de señales de comunicación y confianza",
+        "whyDesc": "Los Golden Retrievers expressan sus emociones de forma activa a través de gestos. Una señal clave de confianza y calma es el **'contacto visual suave' (Soft Eye Contact)**. A diferencia de la mirada fija tensa y adversarial, entrecerrar los ojos suavemente mientras mantienen el contacto visual representa profundo afecto, confianza y deseo de conexión psicológica. Responder con elogios suaves estimula la liberación de oxitocina, aumentando su estabilidad emocional. Por el contrario, un cuerpo tenso con la cola erguida y rígida indica tensión y requiere precaución.",
+        "body_signals": [
+          {
+            "name": "Contacto visual suave (Soft Eye Contact)",
+            "meaning": "Un contacto visual positivo que indica confianza completa en el dueño, afecto profundo y vínculo psicológico.",
+            "response": "Responda parpadeando lentamente y elogiando con una voz tranquila y suave."
+          },
+          {
+            "name": "Movimiento de todo el cuerpo (Full Body Wagging)",
+            "meaning": "Una expresión activa de amabilidad y alegría, que muestra extremo confort y cariño más allá de la simple excitación.",
+            "response": "Acaricie suavemente su pecho o hombros, compartiendo su energía alegre de forma serena."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Juego de cobro para satisfacer los instintos de cazador",
+            "text": "Dado que disfrutan llevando objetos en la boca, juegue a traer una pelota suave durante 5-10 minutos en casa o el jardín antes del paseo para liberar la energía matutina de forma segura."
+          },
+          {
+            "name": "Tarde: Paseo energético al aire libre de más de 1 hora con estimulación olfativa",
+            "text": "Como perros grandes muy activos, necesitan al menos 1 hora de ejercicio diario. Permitirles olfatear en zonas de césped seguras reduce el estrés y evita comportamientos destructivos en el hogar."
+          },
+          {
+            "name": "Noche: Limpieza de oídos caídos y masaje articular para perros grandes",
+            "text": "Limpie sus orejas caídas a diario con un limpiador específico para evitar infecciones. Para prevenir problemas de displasia de cadera, masajee suavemente las patas traseras y articulaciones para aliviar la tensión muscular."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué mi Golden Retriever siempre lleva palos o zapatos durante los paseos?",
+            "answer": "Es un instinto natural de cobro (Retrieving) derivado de su origen como perros de caza criados para llevar presas sin dañarlas. En lugar de regañarlo, deje que lleve un juguete seguro durante el paseo para satisfacer su instinto."
+          },
+          {
+            "question": "¿A qué edad debe comenzar el cuidado articular en un Golden Retriever?",
+            "answer": "Dado que son propensos a la displasia de cadera genérica, comience el cuidado articular (control de peso, alfombras antideslizantes y natación) alrededor de los 3 meses de edad durante su etapa de crecimiento activo."
+          }
+        ]
+      },
+      "fr": {
+        "title": "L'angélique Golden Retriever ? Une routine saine en 3 étapes pour les articulations et le jeu de rapport",
+        "description": "Golden Retriever amical et intelligent. Découvrez des conseils pour prévenir la dysplasie de la hanche chez les grands chiens et une routine quotidienne en 3 étapes.",
+        "authority": "Guide Officiel des Races de l'American Kennel Club (AKC) et Protocoles Comportementaux de l'IAABC",
+        "profile": {
+          "breed": "Golden Retriever (Canis lupus familiaris)",
+          "lifespan": "10 ~ 12 ans",
+          "sleep_pattern": "12 ~ 14 heures (synchronisé avec le maître)",
+          "temperament": "Intelligent, Affectueux, Actif"
+        },
+        "intro": "Le Golden Retriever, adoré dans le monde entier pour son pelage doré et sa douceur, est un compagnon intelligent et extrêmement sociable. Bien que qualifié d'« angélique », il possède une grande énergie athlétique en tant qu'ancien chien de rapport et nécessite une stimulation physique et mentale quotidienne. Prévenir la dysplasie de la hanche à laquelle il est sujet et satisfaire son instinct naturel de rapport sont essentiels pour sa santé et son équilibre émotionnel. Dans ce guide, étudie son langage corporel et propose une routine en 3 étapes.",
+        "whyTitle": "Langage corporel du Golden Retriever : Comprendre la confiance et les signaux de communication",
+        "whyDesc": "Les Golden Retrievers expriment leurs émotions par des mouvements et des expressions faciales très clairs. Un signal clé de confiance est le **« contact visuel doux » (Soft Eye Contact)**. Contrairement au regard fixe et tendu, plisser doucement les yeux tout en maintenant le contact visuel traduit une profonde affection, de la confiance et une volonté de connexion psychologique. Répondre par des félicitations calmes stimule l'ocytocine et renforce sa sérénité. En revanche, un corps raide avec la queue haute indique de la tension.",
+        "body_signals": [
+          {
+            "name": "Contact visuel doux (Soft Eye Contact)",
+            "meaning": "Un contact visuel positif témoignant d'une confiance totale envers son maître, d'affection et d'un lien psychologique fort.",
+            "response": "Répondez en clignant des yeux lentement et en le félicitant d'une voix douce et calme."
+          },
+          {
+            "name": "Frétillement de tout le corps (Full Body Wagging)",
+            "meaning": "Une expression active de convivialité et de joie, montrant un confort extrême et un attachement profond.",
+            "response": "Caressez doucement son poitrail ou ses épaules pour partager calmement son enthousiasme."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Jeu de rapport pour satisfaire ses instincts de chasseur",
+            "text": "Comme il aime transporter des objets, jouez à rapporter une balle douce pendant 5 à 10 minutes à la maison ou au jardin avant la promenade pour dépenser son énergie matinale en toute sécurité."
+          },
+          {
+            "name": "Après-midi : Promenade dynamique d'une heure avec exploration olfactive",
+            "text": "En tant que grand chien très actif, il a besoin d'au moins une heure d'exercice par jour. Lui permettre de renifler dans des zones sûres réduit le stress et évite les comportements destructeurs à la maison."
+          },
+          {
+            "name": "Soir : Nettoyage des oreilles tombantes et massage articulaire",
+            "text": "Nettoyez ses oreilles tombantes quotidiennement avec un soin adapté pour éviter les otites. Pour prévenir la dysplasie de la hanche, massez doucement les pattes arrière et les articulations pour relâcher les tensions."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi mon Golden Retriever porte-t-il toujours des bâtons ou des chaussures en promenade ?",
+            "answer": "C'est un instinct naturel de rapport (Retrieving) hérité de ses ancêtres chiens de chasse, élevés pour rapporter le gibier sans l'abîmer. Au lieu de le gronder, laissez-le porter son jouet préféré pendant la promenade pour satisfaire ce besoin."
+          },
+          {
+            "question": "À quel âge doit-on commencer le soin des articulations pour un Golden Retriever ?",
+            "answer": "Étant sujets à des pathologies génétiques comme la dysplasie de la hanche, commencez le soin des articulations (contrôle du poids, tapis antidérapants, natation) dès l'âge de 3 mois pendant sa phase de croissance rapide."
+          }
+        ]
+      },
+      "de": {
+        "title": "Der engelhafte Golden Retriever? Eine 3-Schritte-Gesundheitsroutine für Gelenke und Apportierspiele",
+        "description": "Freundliche und intelligente Golden Retriever. Erfahren Sie Tipps zur Vorbeugung von Hüftdysplasie bei großen Hunden und eine tägliche 3-Schritte-Routine.",
+        "authority": "Offizieller Rasseführer des American Kennel Club (AKC) und IAABC-Verhaltensprotokolle",
+        "profile": {
+          "breed": "Golden Retriever (Canis lupus familiaris)",
+          "lifespan": "10 ~ 12 Jahre",
+          "sleep_pattern": "12 ~ 14 Stunden (besitzersynchron)",
+          "temperament": "Intelligent, Anhänglich, Aktiv"
+        },
+        "intro": "Der Golden Retriever ist wegen seines goldenen Fells und seines sanftmütigen Wesens weltweit als intelligenter und freundlicher Begleiter beliebt. Obwohl er als 'engelhaft' gilt, besitzt er als ehemaliger Jagd- und Apportierhund eine hohe körperliche Energie und benötigt tägliche Auslastung. Die Vorbeugung der genetisch bedingten Hüftdysplasie und die Befriedigung seines Apportiertriebs sind entscheidend für seine Lebensqualität. In diesem Ratgeber die Körpersprache des Golden Retrievers vor und zeigt eine 3-Schritte-Routine für Gelenke und Spiel.",
+        "whyTitle": "Körpersprache des Golden Retrievers: Vertrauen und Kommunikationssignale verstehen",
+        "whyDesc": "Golden Retriever drücken Gefühle aktiv durch Mimik und Körpersprache aus. Ein zentrales Signal für Vertrauen ist der **'sanfte Blickkontakt' (Soft Eye Contact)**. Im Gegensatz zu starrem Fixieren drückt das sanfte Blinzeln Zuneigung, Vertrauen und den Wunsch nach emotionaler Bindung aus. Ruhiges Loben setzt Oxytocin frei und stärkt das Sicherheitsgefühl. Ein steifer Körper mit hoch erhobener Rute signalisiert dagegen Anspannung.",
+        "body_signals": [
+          {
+            "name": "Sanfter Blickkontakt (Soft Eye Contact)",
+            "meaning": "Ein positiver Blickkontakt, der volles Vertrauen zum Halter, Zuneigung und Bindung signalisiert.",
+            "response": "Antworten Sie durch langsames Blinzeln und loben Sie mit ruhiger, sanfter Stimme."
+          },
+          {
+            "name": "Körperschwänzeln (Full Body Wagging)",
+            "meaning": "Ein aktiver Ausdruck von Freude und Freundlichkeit, der tiefes Wohlbefinden und Zuneigung zeigt.",
+            "response": "Streicheln Sie sanft die Brust oder Schultern und teilen Sie die Freude auf ruhige Weise."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Apportierspiel zur Triebbefriedigung",
+            "text": "Da sie gerne Gegenstände tragen, spielen Sie vor dem Gassigehen 5–10 Minuten Apportieren mit einem weichen Ball. Dies befriedigt ihren natürlichen Instinkt und baut Morgenenergie ab."
+          },
+          {
+            "name": "Nachmittag: Über einstündiger energischer Spaziergang mit Schnüffeleinheiten",
+            "text": "Als aktive große Hunde benötigen sie mindestens eine Stunde Bewegung täglich. Ausgiebiges Schnüffeln in sicheren Bereichen baut Stress ab und beugt unerwünschtem Verhalten vor."
+          },
+          {
+            "name": "Abend: Ohrenreinigung bei Hängeohren und Gelenkmassage",
+            "text": "Reinigen Sie die Hängeohren täglich mit Spezialreiniger, um Entzündungen vorzubeugen. Massieren Sie sanft die Hinterbeine und Gelenke, um Verspannungen zu lösen und Hüftproblemen vorzubeugen."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum trägt mein Golden Retriever beim Spaziergang Stöcke oder Schuhe?",
+            "answer": "Dies ist der natürliche Apportiertrieb (Retrieving) des Jagdhundes, Beute unbeschädigt im Maul zu tragen. Schimpfen Sie nicht; lassen Sie ihn beim Spaziergang ein sicheres Spielzeug tragen, um diesen Trieb zu befriedigen."
+          },
+          {
+            "question": "Ab welchem Alter sollte die Gelenkpflege bei einem Golden Retriever beginnen?",
+            "answer": "Da sie anfällig für genetische Hüftdysplasie sind, sollten Sie bereits in der Wachstumsphase ab dem 3. Monat mit der Gelenkpflege (Gewichtskontrolle, rutschfeste Matten, Schwimmen) beginnen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "O Golden Retriever angelical? Uma rotina diária saudável de 3 passos para as articulações e o jogo de busca",
+        "description": "Golden Retriever amigável e inteligente. Descubra dicas para prevenir a displasia de quadril em cães grandes e uma rotina diária de 3 passos.",
+        "authority": "Guia Oficial de Raças do American Kennel Club (AKC) e Protocolos de Comportamento da IAABC",
+        "profile": {
+          "breed": "Golden Retriever (Canis lupus familiaris)",
+          "lifespan": "10 ~ 12 anos",
+          "sleep_pattern": "12 ~ 14 horas (sincronizado com o tutor)",
+          "temperament": "Inteligente, Afetuoso, Ativo"
+        },
+        "intro": "O Golden Retriever, amado no mundo todo por sua pelagem dourada e personalidade gentil, é um companheiro inteligente e extremamente amigável. Embora conhecido como 'angelical', possui alta energia atlética como cão de busca e requer estimulação diária física e mental. Prevenir a displasia de quadril a que são propensos e satisfazer seu instinto de busca são essenciais para sua saúde e bem-estar emocional. Neste guia, explora sua linguagem corporal e apresenta uma rotina saudável de 3 passos.",
+        "whyTitle": "Linguagem corporal do Golden Retriever: Compreendendo sinais de comunicação e confiança",
+        "whyDesc": "Os Golden Retrievers expressam suas emoções por meio de gestos e expressões. Um sinal chave de confiança é o **'contato visual suave' (Soft Eye Contact)**. Ao contrário do olhar tenso e confrontador, estreitar os olhos suavemente enquanto mantêm o contato visual representa afeto profundo, confiança e vínculo psicológico. Responder com elogios suaves estimula a ocitocina, aumentando sua estabilidade emocional. Por outro lado, um corpo rígido com a cauda erguida indica tensão.",
+        "body_signals": [
+          {
+            "name": "Contato visual suave (Soft Eye Contact)",
+            "meaning": "Um contato visual positivo que indica confiança total no tutor, afeto profundo e vínculo psicológico.",
+            "response": "Responda piscando lentamente e elogiando com uma voz calma e suave."
+          },
+          {
+            "name": "Abanar o corpo inteiro (Full Body Wagging)",
+            "meaning": "Uma expressão ativa de amizade e alegria, mostrando extremo conforto e carinho além da simples excitação.",
+            "response": "Acaricie suavemente o peito ou ombros, compartilhando a energia alegre de forma serena."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Jogo de busca para satisfazer os instintos de caça",
+            "text": "Como adoram carregar objetos na boca, jogue busca com uma bola macia por 5-10 minutos em casa ou no quintal antes do passeio para liberar a energia matinal em segurança."
+          },
+          {
+            "name": "Tarde: Passeio energético ao ar livre de mais de 1 hora com estimulação olfativa",
+            "text": "Como cães grandes ativos, precisam de pelo menos 1 hora de exercício por dia. Permitir que farejem em áreas seguras reduz o estresse e evita comportamentos destrutivos."
+          },
+          {
+            "name": "Noite: Limpeza de orelhas caídas e massagem articular para cães grandes",
+            "text": "Limpe as orelhas caídas diariamente com solução específica para evitar infecções. Para prevenir problemas de quadril, massageie suavemente as patas traseiras e articulações para aliviar a tensão."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que o meu Golden Retriever sempre carrega gravetos ou sapatos durante os passeios?",
+            "answer": "É o instinto natural de busca (Retrieving) de sua origem como cão de caça criado para trazer a presa sem danificá-la. Em vez de brigar, permita que carregue um brinquedo seguro durante o passeio para satisfazer esse instinto."
+          },
+          {
+            "question": "Com que idade deve começar o cuidado articular em um Golden Retriever?",
+            "answer": "Como são propensos à displasia de quadril genética, comece o cuidado articular (controle de peso, tapetes antiderrapantes e natação) aos 3 meses de idade durante seu crescimento ativo."
+          }
+        ]
+      },
+      "id": {
+        "title": "Golden Retriever yang Ramah? Rutinitas Harian 3 Langkah Sehat untuk Sendi dan Insting Mengambil Barang",
+        "description": "Golden Retriever yang ramah dan cerdas. Temukan tips untuk mencegah displasia pinggul yang rentan pada anjing besar dan rutinitas harian 3 langkah.",
+        "authority": "Panduan Ras Resmi American Kennel Club (AKC) & Protokol Perilaku IAABC",
+        "profile": {
+          "breed": "Golden Retriever (Canis lupus familiaris)",
+          "lifespan": "10 ~ 12 tahun",
+          "sleep_pattern": "12 ~ 14 jam (sinkron dengan pemilik)",
+          "temperament": "Cerdas, Penuh Kasih Sayang, Aktif"
+        },
+        "intro": "Golden Retriever, yang dicintai di seluruh dunia karena bulu keemasannya dan kepribadiannya yang lembut, adalah teman yang cerdas dan sangat ramah. Meskipun dikenal sebagai 'anjing malaikat', mereka memiliki energi atletis yang tinggi sebagai mantan anjing pemburu dan membutuhkan stimulasi fisik serta mental harian. Mencegah displasia pinggul yang rentan secara genetik dan memuaskan insting alami mengambil barang sangat penting untuk kesehatan dan stabilitas emosional mereka. Dalam panduan ini, mengulas bahasa tubuh Golden Retriever dan memperkenalkan 3 langkah rutinitas harian.",
+        "whyTitle": "Bahasa Tubuh Golden Retriever: Memahami Sinyal Kepercayaan dan Komunikasi",
+        "whyDesc": "Golden Retriever mengekspresikan emosi secara aktif melalui gerakan tubuh dan ekspresi wajah. Sinyal kepercayaan utama adalah **'kontak mata yang lembut' (Soft Eye Contact)**. Berbeda dengan tatapan tegang, menyipitkan mata dengan lembut sambil menatap pemilik menunjukkan kasih sayang mendalam, kepercayaan, dan ikatan emosional. Menanggapi dengan pujian lembut memicu pelepasan oksitosin, meningkatkan rasa aman mereka. Sebaliknya, tubuh yang kaku dengan ekor tegang menandakan kewaspadaan.",
+        "body_signals": [
+          {
+            "name": "Kontak Mata yang Lembut (Soft Eye Contact)",
+            "meaning": "Kontak mata positif yang menunjukkan kepercayaan penuh pada pemilik, kasih sayang mendalam, dan ikatan psikologis.",
+            "response": "Tanggapi dengan berkedip perlahan dan memuji dengan suara tenang dan lembut."
+          },
+          {
+            "name": "Menggoyangkan Seluruh Tubuh (Full Body Wagging)",
+            "meaning": "Ekspresi aktif keramahtamahan dan kegembiraan, menunjukkan kenyamanan dan kasih sayang mendalam.",
+            "response": "Usap dada atau bahu mereka dengan lembut, bagikan energi gembira mereka dengan tenang."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Permainan Mengambil Barang untuk Memuaskan Insting Pemburu",
+            "text": "Karena mereka sangat suka membawa barang, bermain lempar tangkap bola lembut selama 5-10 menit di dalam rumah atau halaman sebelum jalan-jalan untuk melepaskan energi pagi secara aman."
+          },
+          {
+            "name": "Siang/Sore: Jalan-jalan Energetik 1 Jam Lebih dengan Stimulasi Penciuman",
+            "text": "Sebagai anjing besar yang aktif, mereka membutuhkan setidaknya 1 jam latihan harian. Membiarkan mereka mengendus di area rumput yang aman menurunkan tingkat stres dan mencegah perilaku merusak."
+          },
+          {
+            "name": "Malam: Pembersihan Telinga Terkulai dan Pijat Sendi Anjing Besar",
+            "text": "Bersihkan telinga mereka yang terkulai setiap hari dengan cairan pembersih khusus untuk mencegah infeksi. Untuk mencegah displasia pinggul, pijat lembut sendi kaki belakang untuk meredakan ketegangan otot."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa Golden Retriever saya selalu membawa kayu atau sepatu saat jalan-jalan?",
+            "answer": "Ini adalah insting alami mengambil barang (Retrieving) dari sejarah mereka sebagai anjing pemburu untuk membawa buruan tanpa merusaknya. Biarkan mereka membawa mainan anjing yang aman saat jalan-jalan untuk memuaskan insting ini."
+          },
+          {
+            "question": "Pada usia berapa perawatan sendi harus dimulai untuk Golden Retriever?",
+            "answer": "Karena mereka rentan terhadap displasia pinggul genetik, Anda harus memulai perawatan sendi (kontrol berat badan, keset antislip, dan berenang) sekitar usia 3 bulan selama masa pertumbuhan aktif."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/golden_retriever_care.webp"
+  }
 }

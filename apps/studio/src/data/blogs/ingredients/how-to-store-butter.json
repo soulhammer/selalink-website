@@ -1,406 +1,406 @@
 {
-    "how-to-store-butter": {
-        "ingId": "butter",
-        "pubDate": "2026-06-03",
-        "updatedDate": "2026-06-03",
-        "heroImage": "/images/blog/butter_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "버터 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 버터의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS)",
-                "intro": "버터를 냉장고 문 쪽에 두었다가 표면이 노랗게 마르고 퀴퀴한 냉장고 잡내를 잔뜩 흡수해 버려본 경험 있으시죠? 🧈\n\n버터는 80% 이상이 지방으로 이루어져 있어 공기 중의 산소, 빛, 온도 변화에 매우 민감하며, 주변의 강한 냄새를 스펀지처럼 흡수하는 특성이 있습니다. 올바르지 않은 보관법은 유지방의 산패(Rancidity)와 풍미 저하를 유발합니다.\n\n이번 가이드에서는 미국 농무부(USDA)와 식품의약품안전처(MFDS)의 안전 가이드라인을 바탕으로, 버터의 고소한 풍미와 신선함을 90일 이상 오래 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "냉장고 문(도어) 선반에 보관하지 마세요 ⚠️",
-                        "desc": "냉장고 문 쪽은 문을 열고 닫을 때마다 온도 변화가 가장 크고 빛에 노출되기 쉽습니다. 온도가 자주 변하면 유지방 구조가 약해지고 산패가 급격히 진행되므로, 온도가 일정하고 차가운 냉장고 안쪽 깊은 선반(0~4℃)에 보관하세요."
-                    },
-                    {
-                        "title": "소분 시 물기나 이물질이 닿지 않게 주의하세요 🧈",
-                        "desc": "물기가 남아있거나 다른 식재료를 베었던 칼로 버터를 자르면 수분과 균이 들어간 단면에서 곰팡이가 피거나 세균성 산패가 일어납니다. 소분할 때는 반드시 소독되고 완전히 마른 칼을 사용해야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "알루미늄 오리지널 포장지 유지하기 — 빛과 산소 차단 📦",
-                        "text": "버터의 오리지널 은박(알루미늄) 포장지는 자외선과 산소를 강력하게 차단하여 유지방의 산화를 막아주는 최적의 보호재입니다. 💡 보관 팁: 오리지널 포장지를 버리고 일반 투명 용기나 비닐 랩으로 교체하면 빛과 산소에 노출되어 산패 속도가 훨씬 빨라집니다. 포장지를 그대로 유지하세요."
-                    },
-                    {
-                        "name": "밀폐 지퍼백이나 용기에 담아 이중 밀봉하기 — 냉장고 잡내 흡수 방지 📰",
-                        "text": "버터 속 유지방은 공기 중의 휘발성 냄새 입자를 당기는 성질이 강합니다. 💡 보관 팁: 알루미늄 포장지로 감싼 버터를 밀폐 지퍼백이나 불투명 밀폐 용기에 담아 이중으로 밀봉하세요. 냉장고 안의 김치, 마늘, 생선 등 강한 음식 냄새가 버터에 배는 것을 완벽히 차단할 수 있습니다."
-                    },
-                    {
-                        "name": "소분하여 종이 호일로 감싸 냉동 보관하기 — 냉동 보관 (90일) ❄️",
-                        "text": "장기 보관을 원할 때는 1회 요리 분량(예: 10~20g)씩 칼로 미리 소분해 두는 것이 좋습니다. 💡 보관 팁: 잘라낸 버터 조각 사이에 종이 호일을 끼워 서로 붙지 않게 감싼 후, 지퍼백에 담아 냉동실(-18℃ 이하)에 보관하세요. 필요할 때마다 한 조각씩 꺼내어 상온 해동 후 바로 사용할 수 있어 편리합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "버터를 상온에 보관해도 괜찮나요?",
-                        "answer": "가염 버터는 소금 성분이 미생물 번식을 억제하여 1~2일 정도 상온 보관이 가능하지만, 산패를 막기 위해 냉장 보관을 권장합니다. 특히 무염 버터는 미생물과 산화에 매우 취약하므로 반드시 냉장(0~4℃) 보관해야 합니다."
-                    },
-                    {
-                        "question": "버터 겉면이 노랗게 변색되고 냄새가 나는데 사용해도 되나요?",
-                        "answer": "공기와 빛에 노출되어 버터 표면의 지방이 산화(산패)된 현상입니다. 변색이 심하지 않다면 노란 겉면을 칼로 살짝 깎아내고 내부 버터를 사용할 수 있지만, 퀴퀴한 냄새나 쓴맛이 심하다면 품질이 저하된 것이므로 폐기하는 것이 좋습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Butter Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for butter based on official safety guidelines.",
-                "authority": "USDA & MFDS",
-                "intro": "Have you ever left butter in the refrigerator door only to find its surface dried out, dark yellow, and full of stale fridge odors? 🧈\n\nButter is composed of over 80% milk fat, making it highly sensitive to oxygen, light, and temperature fluctuations. It also acts like a sponge, readily absorbing strong volatile aromas from surrounding foods. Improper storage leads to lipid oxidation (rancidity) and loss of flavor.\n\nIn this guide, shares a scientifically proven 3-step storage guide based on safety guidelines from the USDA and MFDS to keep your butter rich, creamy, and fresh for over 90 days. 🛡️",
-                "whyTitle": "Why Store Butter This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Do not store butter on the refrigerator door shelf ⚠️",
-                        "desc": "The refrigerator door experiences the most severe temperature fluctuations and light exposure every time it opens. Frequent temperature shifts weaken the milk fat structure and accelerate rancidity. Store butter on a cold, deep inner shelf (0–4°C) where the temperature remains stable."
-                    },
-                    {
-                        "title": "Prevent moisture and microbial contamination while slicing 🧈",
-                        "desc": "Cutting butter with a wet knife or one previously used on other foods introduces moisture and bacteria, causing mold growth or bacterial rancidity on the cut surface. Always use a dry, sanitized knife when portioning butter."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Keep the original aluminum foil wrapper — Block Light & Oxygen 📦",
-                        "text": "The original foil wrapper of butter provides an exceptional barrier against light and UV exposure, protecting milk fats from oxidation. 💡 Storage Tip: Discarding the foil wrapper and transferring butter to plastic wrap or clear containers increases light and oxygen exposure, drastically accelerating rancidity. Keep it in its original foil."
-                    },
-                    {
-                        "name": "Double seal in a Ziploc bag or container — Prevent Odor Absorption 📰",
-                        "text": "Milk fats in butter strongly attract volatile aromatic odor molecules floating in the air. 💡 Storage Tip: Place the foil-wrapped butter inside an airtight Ziploc bag or an opaque container for double sealing. This completely blocks strong food odors like kimchi, garlic, or fish from penetrating the butter."
-                    },
-                    {
-                        "name": "Portion and wrap with parchment paper to freeze — Cold Storage (90 Days) ❄️",
-                        "text": "For long-term storage, portion the butter into single-use sizes (e.g., 10–20g) using a clean knife. 💡 Storage Tip: Wrap each slice in parchment paper so they do not stick together, then place them in a freezer Ziploc bag and freeze below -18°C. You can easily thaw individual portions at room temperature whenever needed for cooking."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Is it safe to store butter at room temperature?",
-                        "answer": "Salted butter can stay at room temperature for 1–2 days because salt inhibits bacterial growth, but refrigeration is still recommended to prevent lipid oxidation. Unsalted butter is extremely vulnerable to microbial growth and oxidation, so it must always be kept refrigerated (0–4°C)."
-                    },
-                    {
-                        "question": "My butter surface turned dark yellow and smells off. Is it still usable?",
-                        "answer": "Dark yellow discoloration on the surface indicates lipid oxidation caused by exposure to light and air. If the discoloration is minor, you can scrape off the outer yellow layer and use the fresh butter underneath. However, if it has a sour, stale smell or a bitter taste, it has gone rancid and should be discarded."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "バターを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくバターの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "バターを冷蔵庫のドアポケットに入れておいたら、表面が黄色く乾燥したり、冷蔵庫の嫌なニオイを吸ってしまったりして捨てた経験はありませんか？🧈\n\nバターは80%以上が乳脂肪で構成されており、空気中の酸素や光、温度変化に非常に敏感で、周囲の強いニオイをスポンジのように吸収する特性があります。不適切な保存方法は乳脂肪の酸化（酸敗）や風味の低下を引き起こします。\n\n本記事では、米国農務省（USDA）および食品医薬品安全処（MFDS）のガイドラインに基づき、バターのリッチな風味と新鮮さを90日以上長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "冷蔵庫のドアポケットでの保存は避けてください ⚠️",
-                        "desc": "ドアポケットは冷蔵庫の開閉ごとに最も温度変化が大きく、光に晒されやすい場所です。頻繁な温度変化は乳脂肪の構造を弱め、酸敗を急激に進めるため、温度が一定で冷たい冷蔵庫の奥の棚（0〜4℃）で保存してください。"
-                    },
-                    {
-                        "title": "カットする際の水分や雑菌の付着に注意してください 🧈",
-                        "desc": "水気が残っていたり、他の食材を切った包丁でバターをカットすると、断面に水分や菌が入り込んでカビが生えたり細菌性酸敗の原因になります。切り分ける際は必ず消毒され、完全に乾いたナイフを使用してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "アルミのオリジナル包装紙のまま保管する — 光と酸素の遮断 📦",
-                        "text": "バターの銀紙（アルミ）包装紙は、紫外線や酸素を強力に遮断して乳脂肪の酸化を防ぐ最高の保護材です。💡保存のコツ：銀紙を捨てて一般的な透明容器やラップに包み直すと、光や酸素に晒されて酸化が急激に進みます。元の包装紙でそのまま包んで保存しましょう。"
-                    },
-                    {
-                        "name": "密閉袋や容器に入れて二重密閉する — におい移り防止 📰",
-                        "text": "バターの中の乳脂肪は、空気中の揮発性臭気分子を引き寄せる性質が非常に強いです。💡保存のコツ：アルミ包装で包んだバターをチャック付き密閉袋や不透明な密閉容器に入れ、二重に密閉してください。キムチやニンニク、魚などの強いニオイがバターに移るのを完全に防ぐことができます。"
-                    },
-                    {
-                        "name": "小分けにしてクッキングシートで包み冷凍する — 冷凍保存 (90日間) ❄️",
-                        "text": "長期保存したい場合は、1回のお料理に使う分量（例：10〜20g）ずつあらかじめナイフでカットしておくのがおすすめです。💡保存のコツ：切ったバターの間にクッキングシート（オーブンシート）を挟んでくっつかないよう包み、ジッパーバッグに入れて冷凍室（-18℃以下）で保存します。必要な時に1塊ずつ取り出して常温で解凍し、すぐ使えて便利です。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "バターは常温で保存しても大丈夫ですか？",
-                        "answer": "有塩バターは塩分が微生物の繁殖を抑えるため1〜2日程度は常温保存が可能ですが、酸化を防ぐため冷蔵保存をおすすめします。特に無塩バターは微生物や酸化に対して非常に弱いため、必ず冷蔵（0〜4℃）で保存してください。"
-                    },
-                    {
-                        "question": "バターの表面が黄色く変色してニオイがしますが、使ってもいいですか？",
-                        "answer": "空気や光に晒されて表面の脂質が酸化（酸敗）した現象です。変色が軽微であれば、黄色くなった表面をナイフで軽く削り落とせば内部のバターを使用できますが、古いニオイや苦味が強い場合は品質が劣化しているため廃棄することをおすすめします。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持黄油新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解黄油的最佳储存温度、方式和保鲜时长。",
-                "authority": "美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "您是否曾将黄油放在冰箱门架上，结果发现其表面干黄变硬，甚至吸满了冰箱里的食物异味？🧈\n\n黄油的脂肪含量高达80%以上，对空气中的氧气、光线及温度变化极度敏感，且会像海绵一样迅速吸收周围的强烈气味。不当的储存方式会导致乳脂发生氧化酸败（Rancidity），严重破坏其浓郁风味。\n\n本指南基于美国农务部(USDA)和韩国食品医药品安全处(MFDS)的安全指南，为您带来3步科学保存秘诀，帮您完美锁定黄油的醇香与新鲜达90天以上。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "切勿存放在冰箱门侧架上 ⚠️",
-                        "desc": "冰箱门是开关时温度波动最大且最易受光线照射的区域。频繁的温度变化会削弱乳脂结构，加速油脂酸败。请务必将黄油存放在温度恒定且冰冷的冰箱内侧深处隔板（0~4℃）上。"
-                    },
-                    {
-                        "title": "切块分装时请注意防潮与防菌 🧈",
-                        "desc": "如果使用带有水汽或切过其他食材的刀具切割黄油，水分和细菌会侵入切面，导致霉菌滋生或发生细菌性酸败。切割分装时请务必使用已消毒并彻底擦干的干净刀具。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "保留原厂铝箔纸包装 — 阻绝光线与氧气 📦",
-                        "text": "黄油原厂的银色铝箔包装是阻挡紫外线和氧气的极佳屏障，能有效防止乳脂氧化。💡储存小贴士：剥离原厂铝箔纸而改用普通塑料膜或透明盒包装，会使黄油暴露于光线和氧气中，极大加速酸败过程。请务必保留原包装。"
-                    },
-                    {
-                        "name": "放入密封拉链袋或保鲜盒双层密封 — 防止吸附冰箱异味 📰",
-                        "text": "黄油中的乳脂具有极强的吸附空气中挥发性异味分子的特性。💡储存小贴士：将裹有铝箔纸的黄油装入密封拉链袋或不透明保鲜盒中进行双重密封。这能彻底阻断冰箱内泡菜、大蒜、生鲜等浓烈异味的侵入。"
-                    },
-                    {
-                        "name": "切块并用烘焙纸分隔包裹后冷冻 — 冷冻保存 (90天) ❄️",
-                        "text": "如需长期保存，建议提前用干净刀具按单次烹饪用量（如10~20克）切成小块。💡储存小贴士：在切开的黄油块之间垫上烘焙纸（油纸）以防粘连，再装入密封袋放入冷冻室（-18℃以下）。需要时取出一块常温解冻，即可直接用于烹饪，方便快捷。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "黄油可以保存在常温下吗？",
-                        "answer": "加盐黄油中的盐分能抑制部分微生物繁殖，在常温下可短暂保存1~2天，但为了防止油脂氧化，仍建议冷藏。特别是无盐黄油对微生物和氧化极度敏感，必须全程冷藏（0~4℃）保存。"
-                    },
-                    {
-                        "question": "黄油表层发黄变色且有异味，还能继续食用吗？",
-                        "answer": "这是黄油表层脂肪因接触空气和光线而发生氧化（酸败）的现象。如果变色较轻，可用刀切除变黄的外层，使用内部未氧化的黄油；但如果散发出哈喇味、陈腐臭味或有明显苦味，说明品质已严重变质，建议直接丢弃。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener la mantequilla fresca: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la mantequilla según las directrices oficiales de seguridad.",
-                "authority": "USDA & MFDS",
-                "intro": "¿Alguna vez guardó mantequilla en la puerta del refrigerador solo para descubrir que la superficie se secaba, se ponía amarillo oscuro y absorbía los malos olores del electrodoméstico? 🧈\n\nLa mantequilla está compuesta por más de un 80% de grasa láctea, lo que la hace altamente sensible al oxígeno, la luz y las variaciones de temperatura. Además, actúa como una esponja, absorbiendo con facilidad los olores fuertes de otros alimentos. Un almacenamiento inadecuado causa la oxidación de los lípidos (rancidez) y arruina su sabor.\n\nEn esta guía se comparte una guía de conservación en 3 pasos respaldada por el USDA y el MFDS para conservar la frescura y la cremosidad de su mantequilla por más de 90 días. 🛡️",
-                "whyTitle": "¿Por qué almacenarla así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "No guarde la mantequilla en el estante de la puerta del refrigerador ⚠️",
-                        "desc": "La puerta del refrigerador experimenta los cambios de temperatura más drásticos cada vez que se abre. Estas fluctuaciones continuas debilitan la estructura de la grasa láctea y aceleran el enranciamiento. Guárdela en un estante interior frío y profundo (0-4 °C) donde la temperatura se mantenga constante."
-                    },
-                    {
-                        "title": "Evite la humedad y la contaminación microbiana al cortarla 🧈",
-                        "desc": "Cortar la mantequilla con un cuchillo húmedo o usado previamente con otros alimentos introduce agua y bacterias, favoreciendo el desarrollo de moho o rancidez bacteriana. Utilice siempre un cuchillo limpio y seco al porcionarla."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Mantenga el envoltorio original de papel de aluminio — Bloquee la luz y el oxígeno 📦",
-                        "text": "El envoltorio de aluminio original actúa como una barrera superior contra la luz UV y el oxígeno, protegiendo las grasas lácteas de la oxidación. 💡 Consejo de almacenamiento: Desechar el envoltorio original para pasar la mantequilla a un recipiente transparente o film de plástico acelera drásticamente el enranciamiento."
-                    },
-                    {
-                        "name": "Guarde en una bolsa Ziploc o contenedor con doble sellado — Evite la absorción de olores 📰",
-                        "text": "Las grasas lácteas atraen fuertemente las moléculas aromáticas volátiles presentes en el aire. 💡 Consejo de almacenamiento: Guarde la mantequilla envuelta en su aluminio dentro de una bolsa Ziploc hermética o un recipiente opaco. Esto evita por completo que absorba olores de ajos, pescado o alimentos condimentados del refrigerador."
-                    },
-                    {
-                        "name": "Corte en porciones y envuelva con papel vegetal para congelar — Conservación (90 días) ❄️",
-                        "text": "Para un almacenamiento prolongado, corte la mantequilla en porciones individuales para cocinar (ej. 10-20 g) con un cuchillo seco. 💡 Consejo de almacenamiento: Envuelva cada porción con papel vegetal (papel de horno) para que no se peguen, colóquelas en una bolsa Ziploc y congélelas a menos de -18 °C. Puede descongelar cubos individuales rápidamente a temperatura ambiente."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Es seguro conservar la mantequilla a temperatura ambiente?",
-                        "answer": "La mantequilla con sal puede mantenerse a temperatura ambiente durante 1 o 2 días gracias a que la sal frena el desarrollo microbiano, pero se recomienda refrigerar para evitar la oxidación. La mantequilla sin sal es muy vulnerable a bacterias y rancidez, por lo que debe estar siempre refrigerada (0-4 °C)."
-                    },
-                    {
-                        "question": "La superficie de mi mantequilla se volvió amarillo oscuro y huele rancio. ¿Aún sirve?",
-                        "answer": "El tono amarillo oscuro indica que la grasa de la superficie se ha oxidado por contacto con la luz y el aire. Si la alteración es mínima, puede raspar la capa exterior afectada y usar la mantequilla del interior. Si presenta un olor rancio intenso o sabor amargo, la calidad se ha degradado y debe desecharse."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver le beurre frais : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le beurre selon les directives officielles de sécurité.",
-                "authority": "USDA & MFDS",
-                "intro": "Avez-vous déjà laissé du beurre dans la porte du réfrigérateur pour constater que sa surface s'asséchait, jaunissait et absorbait toutes les odeurs du frigo ? 🧈\n\nLe beurre est composé de plus de 80 % de matière grasse laitière, ce qui le rend très sensible à l'oxygène, à la lumière et aux variations de température. Il fonctionne comme une véritable éponge vis-à-vis des odeurs environnantes. Un stockage inadéquat entraîne l'oxydation des lipides (rancissement) et gâche ses qualités gustatives.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et du MFDS pour préserver le goût riche et la fraîcheur de votre beurre pendant plus de 90 jours. 🛡️",
-                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne stockez pas le beurre dans le balconnet de la porte du réfrigérateur ⚠️",
-                        "desc": "La porte subit les fluctuations de température les plus fortes et les expositions à la lumière à chaque ouverture. Ces variations altèrent la structure des graisses laitières et accélèrent le rancissement. Conservez le beurre sur une étagère intérieure bien froide (0–4 °C)."
-                    },
-                    {
-                        "title": "Évitez l'humidité et les contaminations lors de la découpe 🧈",
-                        "desc": "Couper le beurre avec un couteau humide ou ayant servi à d'autres aliments introduit de l'eau et des bactéries, causant l'apparition de moisissures ou de rancissement bactérien. Utilisez toujours un couteau propre et bien sec."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Conserver l'emballage d'origine en aluminium — Bloquer la lumière et l'oxygène 📦",
-                        "text": "L'emballage d'origine en papier aluminium constitue un bouclier exceptionnel contre les rayons UV et l'oxygène, protégeant la matière grasse de l'oxydation. 💡 Astuce de conservation : Jeter l'emballage d'origine pour mettre le beurre dans un récipient transparent ou du film plastique accélère considérablement le rancissement."
-                    },
-                    {
-                        "name": "Doublez le scellage dans un sac Ziploc ou une boîte hermétique — Prévenir l'absorption des odeurs 📰",
-                        "text": "Les matières grasses du beurre capturent très facilement les molécules odorantes volatiles en suspension dans l'air. 💡 Astuce de conservation : Placez le beurre emballé dans son aluminium dans un sac congélation hermétique ou une boîte opaque. Cela empêche totalement les odeurs d'ail, de poisson ou de plats cuisinés de s'y imprégner."
-                    },
-                    {
-                        "name": "Portionner et envelopper dans du papier cuisson pour congeler — Stockage (90 jours) ❄️",
-                        "text": "Pour un stockage de longue durée, découpez le beurre en portions individuelles (ex. 10 à 20 g) avec un couteau sec. 💡 Astuce de conservation : Enveloppez chaque morceau dans du papier cuisson (papier sulfurisé) pour éviter qu'ils ne collent, puis déposez-les dans un sac Ziploc au congélateur (-18 °C). Vous pourrez ainsi décongeler la quantité exacte à température ambiante."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Peut-on conserver le beurre à température ambiante ?",
-                        "answer": "Le beurre doux est très sensible aux bactéries et à l'oxydation et doit toujours être réfrigéré (0-4 °C). Le beurre demi-sel ou salé peut rester 1 à 2 jours à température ambiante car le sel ralentit le développement bactérien, mais la réfrigération reste recommandée pour éviter le rancissement de la graisse."
-                    },
-                    {
-                        "question": "La surface de mon beurre est devenue jaune foncé et dégage une odeur rance. Est-il encore consommable ?",
-                        "answer": "La teinte jaune foncé indique que les lipides de surface se sont oxydés sous l'effet de l'air et de la lumière. Si l'oxydation est superficielle, vous pouvez gratter la couche supérieure et utiliser le beurre intérieur. En revanche, s'il dégage une odeur rance prononcée ou présente un goût amer, jetez-le."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Butter richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Butter basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "USDA & MFDS",
-                "intro": "Haben Sie Butter schon einmal in der Kühlschranktür gelagert, nur um festzustellen, dass die Oberfläche austrocknete, dunkelgelb wurde und alte Kühlschrankgerüche annahm? 🧈\n\nButter besteht zu über 80 % aus Milchfett und reagiert extrem empfindlich auf Sauerstoff, Licht und Temperaturschwankungen. Zudem wirkt Fett wie ein Schwamm für fremde Geruchsstoffe. Falsche Lagerung führt zu Fettoxidation (Ranzigwerden) und Geschmacksverlust.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Sicherheitsrichtlinien von USDA und MFDS basiert, um den reinen Geschmack und die Frische Ihrer Butter über 90 Tage lang zu bewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Lagern Sie Butter nicht in der Kühlschranktür ⚠️",
-                        "desc": "In der Kühlschranktür schwanken die Temperaturen beim Öffnen am stärksten. Diese ständigen Temperaturwechsel schwächen die Fettstruktur und beschleunigen das Ranzigwerden. Lagern Sie Butter auf einem kühlen, tiefen Innenregal (0–4 °C) bei konstanter Kälte."
-                    },
-                    {
-                        "title": "Achten Sie beim Schneiden auf Sauberkeit und Trockenheit 🧈",
-                        "desc": "Das Schneiden mit einem feuchten oder unsauberen Messer bringt Feuchtigkeit und Keime an die Schnittfläche, was zu Schimmel oder bakterieller Fettoxidation führt. Verwenden Sie zum Portionieren stets ein sauberes, trockenes Messer."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Original-Alufolie behalten — Licht & Sauerstoff blockieren 📦",
-                        "text": "Die Original-Alufolie der Butter schützt hervorragend vor UV-Licht und Sauerstoff und bewahrt das Fett vor Oxidation. 💡 Lagerungstipp: Wenn Sie die Alufolie entfernen und Butter in transparente Plastikdosen legen, beschleunigen Licht und Luft das Ranzigwerden drastisch. Belassen Sie die Butter in der Alufolie."
-                    },
-                    {
-                        "name": "In Ziploc-Beutel oder Dose doppelt versiegeln — Geruchsaufnahme verhindern 📰",
-                        "text": "Das Milchfett in der Butter bindet flüchtige Aromastoffe aus der Luft extrem schnell. 💡 Lagerungstipp: Geben Sie die in Alufolie gewickelte Butter zusätzlich in einen luftdichten Ziploc-Beutel oder eine undurchsichtige Dose. So verhindern Sie zuverlässig, dass Gerüche von Knoblauch, Fisch oder Käse in die Butter einziehen."
-                    },
-                    {
-                        "name": "Portionieren, in Backpapier wickeln und einfrieren — Gefrierlagerung (90 Tage) ❄️",
-                        "text": "Für die Langzeitlagerung schneiden Sie die Butter mit einem trockenen Messer in passende Kochportionen (z. B. 10–20 g). 💡 Lagerungstipp: Wickeln Sie die Stücke einzeln in Backpapier, damit sie nicht zusammenkleben, und frieren Sie sie im Ziploc-Beutel bei unter -18 °C ein. Bei Bedarf lassen sich einzelne Würfel schnell bei Raumtemperatur auftauen."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Kann man Butter bei Raumtemperatur aufbewahren?",
-                        "answer": "Gesalzene Butter kann wegen der konservierenden Wirkung des Salzes 1–2 Tage bei Raumtemperatur stehen, zur Vermeidung von Fettoxidation wird jedoch die Kühlung empfohlen. Ungesalzene Butter ist extrem anfällig für Mikroben und Oxidation und muss immer im Kühlschrank (0–4 °C) gelagert werden."
-                    },
-                    {
-                        "question": "Meine Butter ist außen dunkelgelb geworden und riecht alt. Kann ich sie noch verwenden?",
-                        "answer": "Die dunkelgelbe Verfärbung entsteht durch Fettverbrennung/Oxidation an Licht und Luft. Ist nur die Oberfläche leicht betroffen, können Sie die äußere Schicht dünn abschneiden und die innere Butter nutzen. Riecht sie jedoch stark ranzig oder schmeckt bitter, ist sie verdorben und sollte entsorgt werden."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar manteiga fresca: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para manteiga com base em diretrizes oficiais de segurança.",
-                "authority": "USDA & MFDS",
-                "intro": "Você já deixou a manteiga na porta da geladeira e percebeu que a superfície ficou ressecada, amarelo-escura e cheia de odores velhos da geladeira? 🧈\n\nA manteiga é composta por mais de 80% de gordura láctea, sendo extremamente sensível ao oxigênio, à luz e às variações de temperatura. Ela funciona como uma esponja, absorvendo facilmente cheiros fortes de outros alimentos. O armazenamento inadequado causa a oxidação dos lipídios (rancificação) e estraga seu sabor.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes do USDA e do MFDS para manter a riqueza e o frescor da sua manteiga por mais de 90 dias. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Não guarde a manteiga na prateleira da porta da geladeira ⚠️",
-                        "desc": "A porta da geladeira sofre as variações de temperatura mais drásticas cada vez que é aberta. Mudanças constantes enfraquecem a estrutura da gordura láctea e aceleram a rancificação. Guarde a manteiga em uma prateleira interna bem fria (0-4 °C) com temperatura estável."
-                    },
-                    {
-                        "title": "Evite umidade e contaminação microbiana ao cortar 🧈",
-                        "desc": "Cortar a manteiga com uma faca molhada ou usada em outros alimentos introduz água e bactérias, favorecendo o surgimento de mofo ou rancidez bacteriana. Use sempre uma faca limpa e bem seca ao cortar em porções."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Mantenha a embalagem original de papel alumínio — Bloqueie luz e oxigênio 📦",
-                        "text": "A embalagem de alumínio original é uma barreira incrível contra luz UV e oxigênio, protegendo a gordura da oxidação. 💡 Dica de conservação: Descartar a embalagem original e passar a manteiga para um pote transparente ou filme plástico acelera muito a rancificação."
-                    },
-                    {
-                        "name": "Guarde em saco Ziploc ou pote com dupla vedação — Evite a absorção de odores 📰",
-                        "text": "A gordura láctea atrai com facilidade moléculas de odor voláteis presentes no ar da geladeira. 💡 Dica de conservação: Coloque a manteiga embrulhada no alumínio dentro de um saco Ziploc hermético ou pote opaco. Isso impede que odores de alho, peixe ou temperos penetrem na manteiga."
-                    },
-                    {
-                        "name": "Corte em porções e embrulhe em papel manteiga para congelar — Conservação (90 dias) ❄️",
-                        "text": "Para conservar por longo prazo, corte a manteiga em porções individuais (ex. 10 a 20 g) com uma faca seca. 💡 Dica de conservação: Embrulhe cada pedaço em papel manteiga para não grudarem, coloque em um saco Ziploc e congele a menos de -18 °C. É fácil descongelar porções individuais em temperatura ambiente."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "É seguro guardar manteiga em temperatura ambiente?",
-                        "answer": "A manteiga com sal pode ficar em temperatura ambiente por 1 a 2 dias porque o sal inibe o crescimento microbiano, mas a refrigeração é recomendada para evitar a oxidação da gordura. A manteiga sem sal é muito vulnerável a bactérias e oxidação, devendo ser mantida sempre refrigerada (0-4 °C)."
-                    },
-                    {
-                        "question": "A superfície da minha manteiga ficou amarelo-escura e com cheiro forte. Ainda posso usar?",
-                        "answer": "O tom amarelo-escuro na superfície indica que a gordura oxidou pelo contato com ar e luz. Se for uma alteração leve, você pode raspar a camada externa oxidada e usar a parte interna. Porém, se houver cheiro râncio forte ou gosto amargo, ela estragou e deve ser descartada."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Mentega agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk mentega berdasarkan pedoman keselamatan resmi.",
-                "authority": "USDA & MFDS",
-                "intro": "Pernahkah Anda menyimpan mentega di rak pintu kulkas lalu mendapati permukaannya mengering, berwarna kuning gelap, dan menyerap bau makanan lain di kulkas? 🧈\n\nMentega terdiri dari lebih dari 80% lemak susu, menjadikannya sangat sensitif terhadap oksigen, cahaya, dan fluktuasi suhu. Lemak mentega juga bertindak seperti spons yang mudah menyerap bau menyengat dari bahan makanan di sekitarnya. Penyimpanan yang salah menyebabkan oksidasi lemak (ketengikan) dan merusak cita rasa.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman USDA dan MFDS untuk menjaga kelezatan, tekstur lembut, dan kesegaran mentega Anda selama lebih dari 90 hari. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan menyimpan mentega di rak pintu kulkas ⚠️",
-                        "desc": "Rak pintu kulkas mengalami perubahan suhu paling drastis dan paparan cahaya setiap kali kulkas dibuka. Perubahan suhu yang sering melemahkan struktur lemak susu dan mempercepat ketengikan. Simpan mentega di rak bagian dalam yang dingin dan stabil (0–4°C)."
-                    },
-                    {
-                        "title": "Cegah kelembapan dan kontaminasi mikroba saat memotong 🧈",
-                        "desc": "Memotong mentega dengan pisau basah atau bekas bahan makanan lain akan memasukkan air dan bakteri, memicu tumbuhnya jamur atau ketengikan akibat bakteri. Selalu gunakan pisau yang bersih dan benar-benar kering saat memotong mentega."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Pertahankan pembungkus kertas aluminium asli — Menahan Cahaya & Oksigen 📦",
-                        "text": "Pembungkus aluminium foil asli mentega adalah pelindung luar biasa dari sinar UV dan oksigen, mencegah oksidasi lemak susu. 💡 Tips Penyimpanan: Membuang pembungkus aluminium dan memindahkan mentega ke wadah transparan atau plastik wrap akan mempercepat proses ketengikan secara drastis."
-                    },
-                    {
-                        "name": "Segel ganda dalam kantong Ziploc atau wadah kedap udara — Cegah Penyerapan Bau 📰",
-                        "text": "Lemak susu pada mentega sangat kuat menarik molekul bau volatil di udara kulkas. 💡 Tips Penyimpanan: Masukkan mentega yang masih terbungkus aluminium ke dalam kantong Ziploc kedap udara atau wadah buram. Ini sepenuhnya menghalangi bau kimchi, bawang, atau ikan meresap ke dalam mentega."
-                    },
-                    {
-                        "name": "Potong menjadi bagian kecil lalu bungkus dengan kertas roti untuk dibekukan — Simpan Beku (90 Hari) ❄️",
-                        "text": "Untuk penyimpanan jangka panjang, potong mentega menjadi porsi sekali pakai (misalnya 10–20g) menggunakan pisau kering. 💡 Tips Penyimpanan: Bungkus setiap potongan dengan kertas roti (parchment paper) agar tidak saling menempel, lalu masukkan ke kantong Ziploc freezer di bawah -18°C. Anda dapat mencairkan potongan sesuai kebutuhan pada suhu ruang."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apakah aman menyimpan mentega pada suhu ruang?",
-                        "answer": "Mentega asin (salted butter) dapat bertahan pada suhu ruang selama 1–2 hari karena garam menghambat pertumbuhan mikroba, tetapi pendinginan di kulkas tetap disarankan untuk mencegah oksidasi lemak. Mentega tawar (unsalted butter) sangat rentan terhadap bakteri dan oksidasi sehingga harus selalu disimpan di kulkas (0–4°C)."
-                    },
-                    {
-                        "question": "Permukaan mentega saya berubah menjadi kuning gelap dan berbau tengik. Apakah masih bisa digunakan?",
-                        "answer": "Warna kuning gelap menandakan lemak di permukaan telah teroksidasi akibat terpapar udara dan cahaya. Jika perubahan warna hanya tipis di permukaan, Anda dapat mengikis lapisan kuning tersebut dan menggunakan bagian dalam yang masih segar. Namun jika baunya sangat tengik atau rasanya pahit, mentega sudah rusak dan harus dibuang."
-                    }
-                ]
-            }
-        }
+  "how-to-store-butter": {
+    "ingId": "butter",
+    "pubDate": "2026-06-03",
+    "updatedDate": "2026-06-03",
+    "heroImage": "/images/blog/butter_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "버터 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 버터의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+        "intro": "버터를 냉장고 문 쪽에 두었다가 표면이 노랗게 마르고 퀴퀴한 냉장고 잡내를 잔뜩 흡수해 버려본 경험 있으시죠? 🧈\n\n버터는 80% 이상이 지방으로 이루어져 있어 공기 중의 산소, 빛, 온도 변화에 매우 민감하며, 주변의 강한 냄새를 스펀지처럼 흡수하는 특성이 있습니다. 올바르지 않은 보관법은 유지방의 산패(Rancidity)와 풍미 저하를 유발합니다.\n\n이번 가이드에서는 미국 농무부(USDA)와 식품의약품안전처(MFDS)의 안전 가이드라인을 바탕으로, 버터의 고소한 풍미와 신선함을 90일 이상 오래 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "냉장고 문(도어) 선반에 보관하지 마세요 ⚠️",
+            "desc": "냉장고 문 쪽은 문을 열고 닫을 때마다 온도 변화가 가장 크고 빛에 노출되기 쉽습니다. 온도가 자주 변하면 유지방 구조가 약해지고 산패가 급격히 진행되므로, 온도가 일정하고 차가운 냉장고 안쪽 깊은 선반(0~4℃)에 보관하세요."
+          },
+          {
+            "title": "소분 시 물기나 이물질이 닿지 않게 주의하세요 🧈",
+            "desc": "물기가 남아있거나 다른 식재료를 베었던 칼로 버터를 자르면 수분과 균이 들어간 단면에서 곰팡이가 피거나 세균성 산패가 일어납니다. 소분할 때는 반드시 소독되고 완전히 마른 칼을 사용해야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "알루미늄 오리지널 포장지 유지하기 — 빛과 산소 차단 📦",
+            "text": "버터의 오리지널 은박(알루미늄) 포장지는 자외선과 산소를 강력하게 차단하여 유지방의 산화를 막아주는 최적의 보호재입니다. 💡 보관 팁: 오리지널 포장지를 버리고 일반 투명 용기나 비닐 랩으로 교체하면 빛과 산소에 노출되어 산패 속도가 훨씬 빨라집니다. 포장지를 그대로 유지하세요."
+          },
+          {
+            "name": "밀폐 지퍼백이나 용기에 담아 이중 밀봉하기 — 냉장고 잡내 흡수 방지 📰",
+            "text": "버터 속 유지방은 공기 중의 휘발성 냄새 입자를 당기는 성질이 강합니다. 💡 보관 팁: 알루미늄 포장지로 감싼 버터를 밀폐 지퍼백이나 불투명 밀폐 용기에 담아 이중으로 밀봉하세요. 냉장고 안의 김치, 마늘, 생선 등 강한 음식 냄새가 버터에 배는 것을 완벽히 차단할 수 있습니다."
+          },
+          {
+            "name": "소분하여 종이 호일로 감싸 냉동 보관하기 — 냉동 보관 (90일) ❄️",
+            "text": "장기 보관을 원할 때는 1회 요리 분량(예: 10~20g)씩 칼로 미리 소분해 두는 것이 좋습니다. 💡 보관 팁: 잘라낸 버터 조각 사이에 종이 호일을 끼워 서로 붙지 않게 감싼 후, 지퍼백에 담아 냉동실(-18℃ 이하)에 보관하세요. 필요할 때마다 한 조각씩 꺼내어 상온 해동 후 바로 사용할 수 있어 편리합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "버터를 상온에 보관해도 괜찮나요?",
+            "answer": "가염 버터는 소금 성분이 미생물 번식을 억제하여 1~2일 정도 상온 보관이 가능하지만, 산패를 막기 위해 냉장 보관을 권장합니다. 특히 무염 버터는 미생물과 산화에 매우 취약하므로 반드시 냉장(0~4℃) 보관해야 합니다."
+          },
+          {
+            "question": "버터 겉면이 노랗게 변색되고 냄새가 나는데 사용해도 되나요?",
+            "answer": "공기와 빛에 노출되어 버터 표면의 지방이 산화(산패)된 현상입니다. 변색이 심하지 않다면 노란 겉면을 칼로 살짝 깎아내고 내부 버터를 사용할 수 있지만, 퀴퀴한 냄새나 쓴맛이 심하다면 품질이 저하된 것이므로 폐기하는 것이 좋습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Butter Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for butter based on official safety guidelines.",
+        "authority": "USDA & MFDS",
+        "intro": "Have you ever left butter in the refrigerator door only to find its surface dried out, dark yellow, and full of stale fridge odors? 🧈\n\nButter is composed of over 80% milk fat, making it highly sensitive to oxygen, light, and temperature fluctuations. It also acts like a sponge, readily absorbing strong volatile aromas from surrounding foods. Improper storage leads to lipid oxidation (rancidity) and loss of flavor.\n\nIn this guide, shares a scientifically proven 3-step storage guide based on safety guidelines from the USDA and MFDS to keep your butter rich, creamy, and fresh for over 90 days. 🛡️",
+        "whyTitle": "Why Store Butter This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Do not store butter on the refrigerator door shelf ⚠️",
+            "desc": "The refrigerator door experiences the most severe temperature fluctuations and light exposure every time it opens. Frequent temperature shifts weaken the milk fat structure and accelerate rancidity. Store butter on a cold, deep inner shelf (0–4°C) where the temperature remains stable."
+          },
+          {
+            "title": "Prevent moisture and microbial contamination while slicing 🧈",
+            "desc": "Cutting butter with a wet knife or one previously used on other foods introduces moisture and bacteria, causing mold growth or bacterial rancidity on the cut surface. Always use a dry, sanitized knife when portioning butter."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Keep the original aluminum foil wrapper — Block Light & Oxygen 📦",
+            "text": "The original foil wrapper of butter provides an exceptional barrier against light and UV exposure, protecting milk fats from oxidation. 💡 Storage Tip: Discarding the foil wrapper and transferring butter to plastic wrap or clear containers increases light and oxygen exposure, drastically accelerating rancidity. Keep it in its original foil."
+          },
+          {
+            "name": "Double seal in a Ziploc bag or container — Prevent Odor Absorption 📰",
+            "text": "Milk fats in butter strongly attract volatile aromatic odor molecules floating in the air. 💡 Storage Tip: Place the foil-wrapped butter inside an airtight Ziploc bag or an opaque container for double sealing. This completely blocks strong food odors like kimchi, garlic, or fish from penetrating the butter."
+          },
+          {
+            "name": "Portion and wrap with parchment paper to freeze — Cold Storage (90 Days) ❄️",
+            "text": "For long-term storage, portion the butter into single-use sizes (e.g., 10–20g) using a clean knife. 💡 Storage Tip: Wrap each slice in parchment paper so they do not stick together, then place them in a freezer Ziploc bag and freeze below -18°C. You can easily thaw individual portions at room temperature whenever needed for cooking."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Is it safe to store butter at room temperature?",
+            "answer": "Salted butter can stay at room temperature for 1–2 days because salt inhibits bacterial growth, but refrigeration is still recommended to prevent lipid oxidation. Unsalted butter is extremely vulnerable to microbial growth and oxidation, so it must always be kept refrigerated (0–4°C)."
+          },
+          {
+            "question": "My butter surface turned dark yellow and smells off. Is it still usable?",
+            "answer": "Dark yellow discoloration on the surface indicates lipid oxidation caused by exposure to light and air. If the discoloration is minor, you can scrape off the outer yellow layer and use the fresh butter underneath. However, if it has a sour, stale smell or a bitter taste, it has gone rancid and should be discarded."
+          }
+        ]
+      },
+      "ja": {
+        "title": "バターを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくバターの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "バターを冷蔵庫のドアポケットに入れておいたら、表面が黄色く乾燥したり、冷蔵庫の嫌なニオイを吸ってしまったりして捨てた経験はありませんか？🧈\n\nバターは80%以上が乳脂肪で構成されており、空気中の酸素や光、温度変化に非常に敏感で、周囲の強いニオイをスポンジのように吸収する特性があります。不適切な保存方法は乳脂肪の酸化（酸敗）や風味の低下を引き起こします。\n\n本記事では、米国農務省（USDA）および食品医薬品安全処（MFDS）のガイドラインに基づき、バターのリッチな風味と新鮮さを90日以上長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "冷蔵庫のドアポケットでの保存は避けてください ⚠️",
+            "desc": "ドアポケットは冷蔵庫の開閉ごとに最も温度変化が大きく、光に晒されやすい場所です。頻繁な温度変化は乳脂肪の構造を弱め、酸敗を急激に進めるため、温度が一定で冷たい冷蔵庫の奥の棚（0〜4℃）で保存してください。"
+          },
+          {
+            "title": "カットする際の水分や雑菌の付着に注意してください 🧈",
+            "desc": "水気が残っていたり、他の食材を切った包丁でバターをカットすると、断面に水分や菌が入り込んでカビが生えたり細菌性酸敗の原因になります。切り分ける際は必ず消毒され、完全に乾いたナイフを使用してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "アルミのオリジナル包装紙のまま保管する — 光と酸素の遮断 📦",
+            "text": "バターの銀紙（アルミ）包装紙は、紫外線や酸素を強力に遮断して乳脂肪の酸化を防ぐ最高の保護材です。💡保存のコツ：銀紙を捨てて一般的な透明容器やラップに包み直すと、光や酸素に晒されて酸化が急激に進みます。元の包装紙でそのまま包んで保存しましょう。"
+          },
+          {
+            "name": "密閉袋や容器に入れて二重密閉する — におい移り防止 📰",
+            "text": "バターの中の乳脂肪は、空気中の揮発性臭気分子を引き寄せる性質が非常に強いです。💡保存のコツ：アルミ包装で包んだバターをチャック付き密閉袋や不透明な密閉容器に入れ、二重に密閉してください。キムチやニンニク、魚などの強いニオイがバターに移るのを完全に防ぐことができます。"
+          },
+          {
+            "name": "小分けにしてクッキングシートで包み冷凍する — 冷凍保存 (90日間) ❄️",
+            "text": "長期保存したい場合は、1回のお料理に使う分量（例：10〜20g）ずつあらかじめナイフでカットしておくのがおすすめです。💡保存のコツ：切ったバターの間にクッキングシート（オーブンシート）を挟んでくっつかないよう包み、ジッパーバッグに入れて冷凍室（-18℃以下）で保存します。必要な時に1塊ずつ取り出して常温で解凍し、すぐ使えて便利です。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "バターは常温で保存しても大丈夫ですか？",
+            "answer": "有塩バターは塩分が微生物の繁殖を抑えるため1〜2日程度は常温保存が可能ですが、酸化を防ぐため冷蔵保存をおすすめします。特に無塩バターは微生物や酸化に対して非常に弱いため、必ず冷蔵（0〜4℃）で保存してください。"
+          },
+          {
+            "question": "バターの表面が黄色く変色してニオイがしますが、使ってもいいですか？",
+            "answer": "空気や光に晒されて表面の脂質が酸化（酸敗）した現象です。変色が軽微であれば、黄色くなった表面をナイフで軽く削り落とせば内部のバターを使用できますが、古いニオイや苦味が強い場合は品質が劣化しているため廃棄することをおすすめします。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持黄油新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解黄油的最佳储存温度、方式和保鲜时长。",
+        "authority": "美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "您是否曾将黄油放在冰箱门架上，结果发现其表面干黄变硬，甚至吸满了冰箱里的食物异味？🧈\n\n黄油的脂肪含量高达80%以上，对空气中的氧气、光线及温度变化极度敏感，且会像海绵一样迅速吸收周围的强烈气味。不当的储存方式会导致乳脂发生氧化酸败（Rancidity），严重破坏其浓郁风味。\n\n本指南基于美国农务部(USDA)和韩国食品医药品安全处(MFDS)的安全指南，为您带来3步科学保存秘诀，帮您完美锁定黄油的醇香与新鲜达90天以上。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "切勿存放在冰箱门侧架上 ⚠️",
+            "desc": "冰箱门是开关时温度波动最大且最易受光线照射的区域。频繁的温度变化会削弱乳脂结构，加速油脂酸败。请务必将黄油存放在温度恒定且冰冷的冰箱内侧深处隔板（0~4℃）上。"
+          },
+          {
+            "title": "切块分装时请注意防潮与防菌 🧈",
+            "desc": "如果使用带有水汽或切过其他食材的刀具切割黄油，水分和细菌会侵入切面，导致霉菌滋生或发生细菌性酸败。切割分装时请务必使用已消毒并彻底擦干的干净刀具。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "保留原厂铝箔纸包装 — 阻绝光线与氧气 📦",
+            "text": "黄油原厂的银色铝箔包装是阻挡紫外线和氧气的极佳屏障，能有效防止乳脂氧化。💡储存小贴士：剥离原厂铝箔纸而改用普通塑料膜或透明盒包装，会使黄油暴露于光线和氧气中，极大加速酸败过程。请务必保留原包装。"
+          },
+          {
+            "name": "放入密封拉链袋或保鲜盒双层密封 — 防止吸附冰箱异味 📰",
+            "text": "黄油中的乳脂具有极强的吸附空气中挥发性异味分子的特性。💡储存小贴士：将裹有铝箔纸的黄油装入密封拉链袋或不透明保鲜盒中进行双重密封。这能彻底阻断冰箱内泡菜、大蒜、生鲜等浓烈异味的侵入。"
+          },
+          {
+            "name": "切块并用烘焙纸分隔包裹后冷冻 — 冷冻保存 (90天) ❄️",
+            "text": "如需长期保存，建议提前用干净刀具按单次烹饪用量（如10~20克）切成小块。💡储存小贴士：在切开的黄油块之间垫上烘焙纸（油纸）以防粘连，再装入密封袋放入冷冻室（-18℃以下）。需要时取出一块常温解冻，即可直接用于烹饪，方便快捷。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "黄油可以保存在常温下吗？",
+            "answer": "加盐黄油中的盐分能抑制部分微生物繁殖，在常温下可短暂保存1~2天，但为了防止油脂氧化，仍建议冷藏。特别是无盐黄油对微生物和氧化极度敏感，必须全程冷藏（0~4℃）保存。"
+          },
+          {
+            "question": "黄油表层发黄变色且有异味，还能继续食用吗？",
+            "answer": "这是黄油表层脂肪因接触空气和光线而发生氧化（酸败）的现象。如果变色较轻，可用刀切除变黄的外层，使用内部未氧化的黄油；但如果散发出哈喇味、陈腐臭味或有明显苦味，说明品质已严重变质，建议直接丢弃。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener la mantequilla fresca: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la mantequilla según las directrices oficiales de seguridad.",
+        "authority": "USDA & MFDS",
+        "intro": "¿Alguna vez guardó mantequilla en la puerta del refrigerador solo para descubrir que la superficie se secaba, se ponía amarillo oscuro y absorbía los malos olores del electrodoméstico? 🧈\n\nLa mantequilla está compuesta por más de un 80% de grasa láctea, lo que la hace altamente sensible al oxígeno, la luz y las variaciones de temperatura. Además, actúa como una esponja, absorbiendo con facilidad los olores fuertes de otros alimentos. Un almacenamiento inadecuado causa la oxidación de los lípidos (rancidez) y arruina su sabor.\n\nEn esta guía se comparte una guía de conservación en 3 pasos respaldada por el USDA y el MFDS para conservar la frescura y la cremosidad de su mantequilla por más de 90 días. 🛡️",
+        "whyTitle": "¿Por qué almacenarla así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "No guarde la mantequilla en el estante de la puerta del refrigerador ⚠️",
+            "desc": "La puerta del refrigerador experimenta los cambios de temperatura más drásticos cada vez que se abre. Estas fluctuaciones continuas debilitan la estructura de la grasa láctea y aceleran el enranciamiento. Guárdela en un estante interior frío y profundo (0-4 °C) donde la temperatura se mantenga constante."
+          },
+          {
+            "title": "Evite la humedad y la contaminación microbiana al cortarla 🧈",
+            "desc": "Cortar la mantequilla con un cuchillo húmedo o usado previamente con otros alimentos introduce agua y bacterias, favoreciendo el desarrollo de moho o rancidez bacteriana. Utilice siempre un cuchillo limpio y seco al porcionarla."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Mantenga el envoltorio original de papel de aluminio — Bloquee la luz y el oxígeno 📦",
+            "text": "El envoltorio de aluminio original actúa como una barrera superior contra la luz UV y el oxígeno, protegiendo las grasas lácteas de la oxidación. 💡 Consejo de almacenamiento: Desechar el envoltorio original para pasar la mantequilla a un recipiente transparente o film de plástico acelera drásticamente el enranciamiento."
+          },
+          {
+            "name": "Guarde en una bolsa Ziploc o contenedor con doble sellado — Evite la absorción de olores 📰",
+            "text": "Las grasas lácteas atraen fuertemente las moléculas aromáticas volátiles presentes en el aire. 💡 Consejo de almacenamiento: Guarde la mantequilla envuelta en su aluminio dentro de una bolsa Ziploc hermética o un recipiente opaco. Esto evita por completo que absorba olores de ajos, pescado o alimentos condimentados del refrigerador."
+          },
+          {
+            "name": "Corte en porciones y envuelva con papel vegetal para congelar — Conservación (90 días) ❄️",
+            "text": "Para un almacenamiento prolongado, corte la mantequilla en porciones individuales para cocinar (ej. 10-20 g) con un cuchillo seco. 💡 Consejo de almacenamiento: Envuelva cada porción con papel vegetal (papel de horno) para que no se peguen, colóquelas en una bolsa Ziploc y congélelas a menos de -18 °C. Puede descongelar cubos individuales rápidamente a temperatura ambiente."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Es seguro conservar la mantequilla a temperatura ambiente?",
+            "answer": "La mantequilla con sal puede mantenerse a temperatura ambiente durante 1 o 2 días gracias a que la sal frena el desarrollo microbiano, pero se recomienda refrigerar para evitar la oxidación. La mantequilla sin sal es muy vulnerable a bacterias y rancidez, por lo que debe estar siempre refrigerada (0-4 °C)."
+          },
+          {
+            "question": "La superficie de mi mantequilla se volvió amarillo oscuro y huele rancio. ¿Aún sirve?",
+            "answer": "El tono amarillo oscuro indica que la grasa de la superficie se ha oxidado por contacto con la luz y el aire. Si la alteración es mínima, puede raspar la capa exterior afectada y usar la mantequilla del interior. Si presenta un olor rancio intenso o sabor amargo, la calidad se ha degradado y debe desecharse."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver le beurre frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le beurre selon les directives officielles de sécurité.",
+        "authority": "USDA & MFDS",
+        "intro": "Avez-vous déjà laissé du beurre dans la porte du réfrigérateur pour constater que sa surface s'asséchait, jaunissait et absorbait toutes les odeurs du frigo ? 🧈\n\nLe beurre est composé de plus de 80 % de matière grasse laitière, ce qui le rend très sensible à l'oxygène, à la lumière et aux variations de température. Il fonctionne comme une véritable éponge vis-à-vis des odeurs environnantes. Un stockage inadéquat entraîne l'oxydation des lipides (rancissement) et gâche ses qualités gustatives.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et du MFDS pour préserver le goût riche et la fraîcheur de votre beurre pendant plus de 90 jours. 🛡️",
+        "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne stockez pas le beurre dans le balconnet de la porte du réfrigérateur ⚠️",
+            "desc": "La porte subit les fluctuations de température les plus fortes et les expositions à la lumière à chaque ouverture. Ces variations altèrent la structure des graisses laitières et accélèrent le rancissement. Conservez le beurre sur une étagère intérieure bien froide (0–4 °C)."
+          },
+          {
+            "title": "Évitez l'humidité et les contaminations lors de la découpe 🧈",
+            "desc": "Couper le beurre avec un couteau humide ou ayant servi à d'autres aliments introduit de l'eau et des bactéries, causant l'apparition de moisissures ou de rancissement bactérien. Utilisez toujours un couteau propre et bien sec."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Conserver l'emballage d'origine en aluminium — Bloquer la lumière et l'oxygène 📦",
+            "text": "L'emballage d'origine en papier aluminium constitue un bouclier exceptionnel contre les rayons UV et l'oxygène, protégeant la matière grasse de l'oxydation. 💡 Astuce de conservation : Jeter l'emballage d'origine pour mettre le beurre dans un récipient transparent ou du film plastique accélère considérablement le rancissement."
+          },
+          {
+            "name": "Doublez le scellage dans un sac Ziploc ou une boîte hermétique — Prévenir l'absorption des odeurs 📰",
+            "text": "Les matières grasses du beurre capturent très facilement les molécules odorantes volatiles en suspension dans l'air. 💡 Astuce de conservation : Placez le beurre emballé dans son aluminium dans un sac congélation hermétique ou une boîte opaque. Cela empêche totalement les odeurs d'ail, de poisson ou de plats cuisinés de s'y imprégner."
+          },
+          {
+            "name": "Portionner et envelopper dans du papier cuisson pour congeler — Stockage (90 jours) ❄️",
+            "text": "Pour un stockage de longue durée, découpez le beurre en portions individuelles (ex. 10 à 20 g) avec un couteau sec. 💡 Astuce de conservation : Enveloppez chaque morceau dans du papier cuisson (papier sulfurisé) pour éviter qu'ils ne collent, puis déposez-les dans un sac Ziploc au congélateur (-18 °C). Vous pourrez ainsi décongeler la quantité exacte à température ambiante."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Peut-on conserver le beurre à température ambiante ?",
+            "answer": "Le beurre doux est très sensible aux bactéries et à l'oxydation et doit toujours être réfrigéré (0-4 °C). Le beurre demi-sel ou salé peut rester 1 à 2 jours à température ambiante car le sel ralentit le développement bactérien, mais la réfrigération reste recommandée pour éviter le rancissement de la graisse."
+          },
+          {
+            "question": "La surface de mon beurre est devenue jaune foncé et dégage une odeur rance. Est-il encore consommable ?",
+            "answer": "La teinte jaune foncé indique que les lipides de surface se sont oxydés sous l'effet de l'air et de la lumière. Si l'oxydation est superficielle, vous pouvez gratter la couche supérieure et utiliser le beurre intérieur. En revanche, s'il dégage une odeur rance prononcée ou présente un goût amer, jetez-le."
+          }
+        ]
+      },
+      "de": {
+        "title": "Butter richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Butter basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "USDA & MFDS",
+        "intro": "Haben Sie Butter schon einmal in der Kühlschranktür gelagert, nur um festzustellen, dass die Oberfläche austrocknete, dunkelgelb wurde und alte Kühlschrankgerüche annahm? 🧈\n\nButter besteht zu über 80 % aus Milchfett und reagiert extrem empfindlich auf Sauerstoff, Licht und Temperaturschwankungen. Zudem wirkt Fett wie ein Schwamm für fremde Geruchsstoffe. Falsche Lagerung führt zu Fettoxidation (Ranzigwerden) und Geschmacksverlust.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Sicherheitsrichtlinien von USDA und MFDS basiert, um den reinen Geschmack und die Frische Ihrer Butter über 90 Tage lang zu bewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Lagern Sie Butter nicht in der Kühlschranktür ⚠️",
+            "desc": "In der Kühlschranktür schwanken die Temperaturen beim Öffnen am stärksten. Diese ständigen Temperaturwechsel schwächen die Fettstruktur und beschleunigen das Ranzigwerden. Lagern Sie Butter auf einem kühlen, tiefen Innenregal (0–4 °C) bei konstanter Kälte."
+          },
+          {
+            "title": "Achten Sie beim Schneiden auf Sauberkeit und Trockenheit 🧈",
+            "desc": "Das Schneiden mit einem feuchten oder unsauberen Messer bringt Feuchtigkeit und Keime an die Schnittfläche, was zu Schimmel oder bakterieller Fettoxidation führt. Verwenden Sie zum Portionieren stets ein sauberes, trockenes Messer."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Original-Alufolie behalten — Licht & Sauerstoff blockieren 📦",
+            "text": "Die Original-Alufolie der Butter schützt hervorragend vor UV-Licht und Sauerstoff und bewahrt das Fett vor Oxidation. 💡 Lagerungstipp: Wenn Sie die Alufolie entfernen und Butter in transparente Plastikdosen legen, beschleunigen Licht und Luft das Ranzigwerden drastisch. Belassen Sie die Butter in der Alufolie."
+          },
+          {
+            "name": "In Ziploc-Beutel oder Dose doppelt versiegeln — Geruchsaufnahme verhindern 📰",
+            "text": "Das Milchfett in der Butter bindet flüchtige Aromastoffe aus der Luft extrem schnell. 💡 Lagerungstipp: Geben Sie die in Alufolie gewickelte Butter zusätzlich in einen luftdichten Ziploc-Beutel oder eine undurchsichtige Dose. So verhindern Sie zuverlässig, dass Gerüche von Knoblauch, Fisch oder Käse in die Butter einziehen."
+          },
+          {
+            "name": "Portionieren, in Backpapier wickeln und einfrieren — Gefrierlagerung (90 Tage) ❄️",
+            "text": "Für die Langzeitlagerung schneiden Sie die Butter mit einem trockenen Messer in passende Kochportionen (z. B. 10–20 g). 💡 Lagerungstipp: Wickeln Sie die Stücke einzeln in Backpapier, damit sie nicht zusammenkleben, und frieren Sie sie im Ziploc-Beutel bei unter -18 °C ein. Bei Bedarf lassen sich einzelne Würfel schnell bei Raumtemperatur auftauen."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Kann man Butter bei Raumtemperatur aufbewahren?",
+            "answer": "Gesalzene Butter kann wegen der konservierenden Wirkung des Salzes 1–2 Tage bei Raumtemperatur stehen, zur Vermeidung von Fettoxidation wird jedoch die Kühlung empfohlen. Ungesalzene Butter ist extrem anfällig für Mikroben und Oxidation und muss immer im Kühlschrank (0–4 °C) gelagert werden."
+          },
+          {
+            "question": "Meine Butter ist außen dunkelgelb geworden und riecht alt. Kann ich sie noch verwenden?",
+            "answer": "Die dunkelgelbe Verfärbung entsteht durch Fettverbrennung/Oxidation an Licht und Luft. Ist nur die Oberfläche leicht betroffen, können Sie die äußere Schicht dünn abschneiden und die innere Butter nutzen. Riecht sie jedoch stark ranzig oder schmeckt bitter, ist sie verdorben und sollte entsorgt werden."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar manteiga fresca: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para manteiga com base em diretrizes oficiais de segurança.",
+        "authority": "USDA & MFDS",
+        "intro": "Você já deixou a manteiga na porta da geladeira e percebeu que a superfície ficou ressecada, amarelo-escura e cheia de odores velhos da geladeira? 🧈\n\nA manteiga é composta por mais de 80% de gordura láctea, sendo extremamente sensível ao oxigênio, à luz e às variações de temperatura. Ela funciona como uma esponja, absorvendo facilmente cheiros fortes de outros alimentos. O armazenamento inadequado causa a oxidação dos lipídios (rancificação) e estraga seu sabor.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes do USDA e do MFDS para manter a riqueza e o frescor da sua manteiga por mais de 90 dias. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Não guarde a manteiga na prateleira da porta da geladeira ⚠️",
+            "desc": "A porta da geladeira sofre as variações de temperatura mais drásticas cada vez que é aberta. Mudanças constantes enfraquecem a estrutura da gordura láctea e aceleram a rancificação. Guarde a manteiga em uma prateleira interna bem fria (0-4 °C) com temperatura estável."
+          },
+          {
+            "title": "Evite umidade e contaminação microbiana ao cortar 🧈",
+            "desc": "Cortar a manteiga com uma faca molhada ou usada em outros alimentos introduz água e bactérias, favorecendo o surgimento de mofo ou rancidez bacteriana. Use sempre uma faca limpa e bem seca ao cortar em porções."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Mantenha a embalagem original de papel alumínio — Bloqueie luz e oxigênio 📦",
+            "text": "A embalagem de alumínio original é uma barreira incrível contra luz UV e oxigênio, protegendo a gordura da oxidação. 💡 Dica de conservação: Descartar a embalagem original e passar a manteiga para um pote transparente ou filme plástico acelera muito a rancificação."
+          },
+          {
+            "name": "Guarde em saco Ziploc ou pote com dupla vedação — Evite a absorção de odores 📰",
+            "text": "A gordura láctea atrai com facilidade moléculas de odor voláteis presentes no ar da geladeira. 💡 Dica de conservação: Coloque a manteiga embrulhada no alumínio dentro de um saco Ziploc hermético ou pote opaco. Isso impede que odores de alho, peixe ou temperos penetrem na manteiga."
+          },
+          {
+            "name": "Corte em porções e embrulhe em papel manteiga para congelar — Conservação (90 dias) ❄️",
+            "text": "Para conservar por longo prazo, corte a manteiga em porções individuais (ex. 10 a 20 g) com uma faca seca. 💡 Dica de conservação: Embrulhe cada pedaço em papel manteiga para não grudarem, coloque em um saco Ziploc e congele a menos de -18 °C. É fácil descongelar porções individuais em temperatura ambiente."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "É seguro guardar manteiga em temperatura ambiente?",
+            "answer": "A manteiga com sal pode ficar em temperatura ambiente por 1 a 2 dias porque o sal inibe o crescimento microbiano, mas a refrigeração é recomendada para evitar a oxidação da gordura. A manteiga sem sal é muito vulnerável a bactérias e oxidação, devendo ser mantida sempre refrigerada (0-4 °C)."
+          },
+          {
+            "question": "A superfície da minha manteiga ficou amarelo-escura e com cheiro forte. Ainda posso usar?",
+            "answer": "O tom amarelo-escuro na superfície indica que a gordura oxidou pelo contato com ar e luz. Se for uma alteração leve, você pode raspar a camada externa oxidada e usar a parte interna. Porém, se houver cheiro râncio forte ou gosto amargo, ela estragou e deve ser descartada."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Mentega agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk mentega berdasarkan pedoman keselamatan resmi.",
+        "authority": "USDA & MFDS",
+        "intro": "Pernahkah Anda menyimpan mentega di rak pintu kulkas lalu mendapati permukaannya mengering, berwarna kuning gelap, dan menyerap bau makanan lain di kulkas? 🧈\n\nMentega terdiri dari lebih dari 80% lemak susu, menjadikannya sangat sensitif terhadap oksigen, cahaya, dan fluktuasi suhu. Lemak mentega juga bertindak seperti spons yang mudah menyerap bau menyengat dari bahan makanan di sekitarnya. Penyimpanan yang salah menyebabkan oksidasi lemak (ketengikan) dan merusak cita rasa.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman USDA dan MFDS untuk menjaga kelezatan, tekstur lembut, dan kesegaran mentega Anda selama lebih dari 90 hari. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan menyimpan mentega di rak pintu kulkas ⚠️",
+            "desc": "Rak pintu kulkas mengalami perubahan suhu paling drastis dan paparan cahaya setiap kali kulkas dibuka. Perubahan suhu yang sering melemahkan struktur lemak susu dan mempercepat ketengikan. Simpan mentega di rak bagian dalam yang dingin dan stabil (0–4°C)."
+          },
+          {
+            "title": "Cegah kelembapan dan kontaminasi mikroba saat memotong 🧈",
+            "desc": "Memotong mentega dengan pisau basah atau bekas bahan makanan lain akan memasukkan air dan bakteri, memicu tumbuhnya jamur atau ketengikan akibat bakteri. Selalu gunakan pisau yang bersih dan benar-benar kering saat memotong mentega."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Pertahankan pembungkus kertas aluminium asli — Menahan Cahaya & Oksigen 📦",
+            "text": "Pembungkus aluminium foil asli mentega adalah pelindung luar biasa dari sinar UV dan oksigen, mencegah oksidasi lemak susu. 💡 Tips Penyimpanan: Membuang pembungkus aluminium dan memindahkan mentega ke wadah transparan atau plastik wrap akan mempercepat proses ketengikan secara drastis."
+          },
+          {
+            "name": "Segel ganda dalam kantong Ziploc atau wadah kedap udara — Cegah Penyerapan Bau 📰",
+            "text": "Lemak susu pada mentega sangat kuat menarik molekul bau volatil di udara kulkas. 💡 Tips Penyimpanan: Masukkan mentega yang masih terbungkus aluminium ke dalam kantong Ziploc kedap udara atau wadah buram. Ini sepenuhnya menghalangi bau kimchi, bawang, atau ikan meresap ke dalam mentega."
+          },
+          {
+            "name": "Potong menjadi bagian kecil lalu bungkus dengan kertas roti untuk dibekukan — Simpan Beku (90 Hari) ❄️",
+            "text": "Untuk penyimpanan jangka panjang, potong mentega menjadi porsi sekali pakai (misalnya 10–20g) menggunakan pisau kering. 💡 Tips Penyimpanan: Bungkus setiap potongan dengan kertas roti (parchment paper) agar tidak saling menempel, lalu masukkan ke kantong Ziploc freezer di bawah -18°C. Anda dapat mencairkan potongan sesuai kebutuhan pada suhu ruang."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah aman menyimpan mentega pada suhu ruang?",
+            "answer": "Mentega asin (salted butter) dapat bertahan pada suhu ruang selama 1–2 hari karena garam menghambat pertumbuhan mikroba, tetapi pendinginan di kulkas tetap disarankan untuk mencegah oksidasi lemak. Mentega tawar (unsalted butter) sangat rentan terhadap bakteri dan oksidasi sehingga harus selalu disimpan di kulkas (0–4°C)."
+          },
+          {
+            "question": "Permukaan mentega saya berubah menjadi kuning gelap dan berbau tengik. Apakah masih bisa digunakan?",
+            "answer": "Warna kuning gelap menandakan lemak di permukaan telah teroksidasi akibat terpapar udara dan cahaya. Jika perubahan warna hanya tipis di permukaan, Anda dapat mengikis lapisan kuning tersebut dan menggunakan bagian dalam yang masih segar. Namun jika baunya sangat tengik atau rasanya pahit, mentega sudah rusak dan harus dibuang."
+          }
+        ]
+      }
     }
+  }
 }

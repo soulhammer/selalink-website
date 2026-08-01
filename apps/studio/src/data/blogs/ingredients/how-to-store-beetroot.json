@@ -1,406 +1,406 @@
 {
-    "how-to-store-beetroot": {
-        "ingId": "beetroot",
-        "pubDate": "2026-03-12",
-        "updatedDate": "2026-03-12",
-        "heroImage": "/images/blog/beetroot_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "비트 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 비트의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
-                "intro": "건강 주스나 샐러드용으로 뿌리채소인 비트를 사 왔는데, 며칠 지나지 않아 표면이 쭈글쭈글해지고 속이 푸석하게 변해 버린 적 있으시죠? 붉은 뿌리채소 비트는 동유럽의 보르시 수프부터 글로벌 클렌즈 주스까지 널리 쓰이는 슈퍼푸드입니다.\n\n하지만 비트 상부에 잎과 줄기가 붙어있으면 **증산 작용(Transpiration)**이 지속되어 구근 속 수분과 영양분을 위쪽으로 계속 끌어당깁니다. 이로 인해 뿌리 조직이 섬유화되고 급격히 무르게 됩니다. 또한 비트의 강력한 항산화 성분이자 수용성 색소인 **베타시아닌(Betacyanin)**은 빛과 열에 노출되면 유기 분자 구조가 파괴되어 영양 가치가 크게 떨어집니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들이 검증한 과학적인 비트 신선도 유지 3단계 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "잎과 줄기를 붙인 채 그대로 보관하지 마세요 ⚠️",
-                        "desc": "상부의 잎은 구근(뿌리)의 수분과 당분을 지속적으로 흡수하여 증산 작용으로 배출합니다. 잎을 제거하지 않으면 구근이 빠른 속도로 바람이 들고 푸석해집니다."
-                    },
-                    {
-                        "title": "보관 전에 물로 씻거나 잔뿌리를 바짝 자르지 마세요 💧",
-                        "desc": "물에 씻으면 표면 습기로 인해 곰팡이가 피기 쉽고, 길게 늘어진 밑동 잔뿌리를 바짝 잘라내면 상처 부위로 베타시아닌 색소와 즙이 새어나와 부패가 촉진됩니다. 흙만 가볍게 털어내어 보관하세요."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "상부 잎을 2cm 남기고 잘라내기 — 수분 및 영양 유출 차단 ✂️",
-                        "text": "잎에 의한 증산 작용을 차단하는 것이 비트 보관의 가장 첫 단계입니다. 💡 보관 팁: 줄기를 바짝 자르면 구근에 상처가 생겨 베타시아닌 즙이 새어나오므로, 줄기를 2cm 정도 남겨두고 잘라내어 수분과 영양분의 유출 경로를 차단해 주세요."
-                    },
-                    {
-                        "name": "신문지나 키친타월로 감싸 0~4℃ 저온 밀폐 보관하기 — 저온 냉장 보관 (3~4주) ❄️",
-                        "text": "빛을 차단해 베타시아닌 분해를 막고 적정 습도를 유지해야 합니다. 💡 보관 팁: 흙이 묻은 상태 그대로 구근을 신문지나 키친타월로 감싸 습도를 조절한 뒤, 밀폐 용기나 지퍼백에 담아 냉장고 야채칸(0~4℃)에 보관하세요. 잎을 제거하고 저온 보관 시 3~4주간 신선함이 유지됩니다. (※ 잎 미제거 시 보관 기한은 5일로 단축됩니다.)"
-                    },
-                    {
-                        "name": "살짝 찌거나 삶은 후 깍둑썰기하여 냉동 보관하기 — 냉동 보관 (10~12개월) 🧊",
-                        "text": "생비트를 그대로 냉동하면 해동 시 조직이 모두 깨지고 물러집니다. 💡 보관 팁: 비트를 껍질째 찌거나 삶아 익힌 후, 껍질을 벗기고 깍둑썰기하여 밀폐 지퍼백에 담아 냉동실(-18℃ 이하)에 보관하세요. 주스나 수프용으로 10~12개월간 영양소 손실 없이 활용할 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "비트를 감싼 키친타월이 젖으면 어떻게 해야 하나요?",
-                        "answer": "비트 자체에서 배출되는 수분으로 인해 감싸둔 신문지나 키친타월이 축축해지면 곰팡이가 생기거나 표면이 무를 수 있습니다. 주기적으로 확인하여 젖은 타올을 새 마른 키친타월로 교체해 주면 보관 기간을 더욱 늘릴 수 있습니다."
-                    },
-                    {
-                        "question": "비트 잎은 버려야 하나요, 아니면 따로 활용할 수 있나요?",
-                        "answer": "잘라낸 비트 잎은 버릴 필요가 없습니다! 비트 잎에는 철분, 칼슘, 비타민 A가 풍부합니다. 잘라낸 즉시 씻어서 시금치처럼 나물로 무치거나 샐러드, 찌개용으로 활용하시면 좋습니다. 단, 잎은 부패가 빠르므로 1~2일 이내에 소비해야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Beetroot Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for beetroot based on official safety guidelines.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Have you ever bought beetroot for healthy juices or salads, only to find it shriveled and spongy after just a few days? Beetroot is a vibrant root vegetable and global superfood used in everything from Eastern European borscht to detox smoothies.\n\nHowever, leaving the top leaves and stems attached causes continuous **transpiration**, drawing stored moisture and nutrients out of the bulb to nourish the leaves. This causes the root flesh to become woody and soft. Furthermore, **betacyanin**, the powerful antioxidant water-soluble pigment that gives beetroot its deep red color, easily degrades under light and heat.\n\nIn this guide, we introduce a scientifically proven 3-step beetroot storage guide recommended by agriculture and food safety experts to preserve freshness and nutrition. 🛡️",
-                "whyTitle": "Why Store Beetroot This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and food safety.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never store beetroots with their leaves and stems attached ⚠️",
-                        "desc": "The top leaves continuously draw moisture and sugars out of the root bulb and release them through transpiration. If you leave the leaves intact, the root quickly becomes woody, spongy, and limp."
-                    },
-                    {
-                        "title": "Do not wash before storing or trim the taproot too closely 💧",
-                        "desc": "Washing introduces surface moisture that encourages mold growth. Trimming the bottom taproot too close to the bulb creates wounds that leak betacyanin pigment and juices, accelerating decay. Gently brush off dirt instead."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Trim top leaves, leaving about 2 cm (1 inch) of stem — Block Moisture & Nutrient Loss ✂️",
-                        "text": "Stopping transpiration caused by the leaves is the crucial first step. 💡 Storage Tip: Cutting stems flush with the bulb creates open wounds that bleed betacyanin juices. Leave about 2 cm (1 inch) of stem intact to seal off moisture and nutrient loss routes."
-                    },
-                    {
-                        "name": "Wrap in paper towels or newspaper and store at 0–4°C — Cold Storage (3–4 Weeks) ❄️",
-                        "text": "Blocking light prevents betacyanin breakdown while keeping proper humidity. 💡 Storage Tip: Keep unwashed beets wrapped in paper towels or newspaper to regulate humidity, place inside airtight containers or Ziploc bags, and store in the fridge crisper (0–4°C / 32–39°F). Trimmed beets last 3–4 weeks (leaving leaves on reduces shelf life to just 5 days)."
-                    },
-                    {
-                        "name": "Steam or boil, cube, and freeze in Ziploc bags — Freezer Storage (10–12 Months) 🧊",
-                        "text": "Freezing raw beetroot damages cellular walls, making it mushy upon thawing. 💡 Storage Tip: Steam or boil beetroots whole with skin on until cooked, peel, cube, and place into freezer Ziploc bags (-18°C / 0°F). Great for smoothies or soups for 10–12 months without nutrient loss."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "What should I do if the paper towel wrapped around the beetroot gets damp?",
-                        "answer": "Moisture naturally released by the beetroot can damp the wrapping paper, encouraging mold or soft spots. Check periodically and replace damp towels with fresh, dry ones to extend the storage period."
-                    },
-                    {
-                        "question": "Should beet greens be discarded, or can they be eaten?",
-                        "answer": "Do not throw them away! Beet greens are rich in iron, calcium, and vitamin A. Wash them immediately after trimming and use them like spinach in salads, sautéed dishes, or soups. Since leaves decay quickly, consume them within 1–2 days."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ビート（ビーツ）を新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくビートの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
-                "intro": "健康ジュースやサラダ用に根菜のビート（ビーツ）を買ってきたものの、数日もしないうちに 表面がシワシワになり、中がパサついてしまった経験はありませんか？鮮やかな赤い根菜であるビートは、東欧のボルシチからデトックスジュースまで広く愛されているスーパーフードです。\n\nしかし、ビートの上部に葉や茎がついて居ると**蒸散作用(Transpiration)**が継続し、根に蓄えられた水分や栄養素を上部に吸い上げて消費してしまいます。これにより根の組織が繊維化し、急激に柔らかくなります。また、ビートの強力な抗酸化成分であり水溶性色素である**ベタシアニン(Betacyanin)**は、光や熱に晒されると有機分子構造が破壊され、栄養価値が大きく低下します。\n\n本記事では、専門家が検証したビートの鮮度と栄養を守る3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？ 科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "葉や茎をつけたまま保存しないでください ⚠️",
-                        "desc": "上部の葉は根の水分や糖分を継続的に吸収し、蒸散作用によって放出してしまいます。葉を取り除かないと、根が急速にす入りしてパサパサになります。"
-                    },
-                    {
-                        "title": "保存前に水洗いしたりひげ根を短く切り落とさないでください 💧",
-                        "desc": "水洗いすると表面の湿気でカビが生えやすくなり、長く伸びたひげ根を根元から切ると傷口からベタシアニン色素や果汁が漏れ出して腐敗が早まります。土だけを軽く払い落として保存してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "上部の葉を2cmほど残して切り落とす — 水分＆栄養流出の遮断 ✂️",
-                        "text": "葉による蒸散作用を遮断することがビート保存の第一歩です。💡保存のコツ：茎を根元から切ると傷口からベタシアニン果汁が漏れ出すため、茎を2cmほど残してカットし、水分と栄養の流出経路を遮断してください。"
-                    },
-                    {
-                        "name": "新聞紙やキッチンペーパーで包み0〜4℃の低温で密閉保存する — 低温冷蔵保存 (3〜4週間) ❄️",
-                        "text": "光を遮断してベタシアニンの分解を防ぎ、適切な湿度を維持することが重要です。💡保存のコツ：土がついたまま新聞紙やキッチンペーパーで包んで湿度を調整し、密閉容器やジッパーバッグに入れて冷蔵庫の野菜室（0〜4℃）で保管します。葉を取り除いて低温保存すれば3〜4週間新鮮さを保てます。（※葉をつけたままの場合、保存期間は5日に短縮します。）"
-                    },
-                    {
-                        "name": "軽く蒸すかゆでた後、角切りにして冷凍保存する — 冷凍保存 (10〜12ヶ月間) 🧊",
-                        "text": "生のビートをそのまま冷凍すると、解凍時に組織が破壊されてドロドロになります。💡保存のコツ：皮ごと蒸すかゆでて火を通した後、皮をむいて角切りにし、密閉ジッパーバッグに入れて冷凍室（-18℃以下）で保管します。ジュースやスープ用に10〜12ヶ月間栄養を損なわずに活用できます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "ビートを包んだキッチンペーパーが濡れてきたらどうすればよいですか？",
-                        "answer": "ビート自体から放出される水分によってペーパーが湿ると、カビの発生や表面の傷みの原因になります。定期的に確認し、濡れたペーパーを新しい乾いたペーパーに交換することで保存期間をさらに延ばすことができます。"
-                    },
-                    {
-                        "question": "切り落としたビートの葉は捨てるべきですか、それとも食べられますか？",
-                        "answer": "捨てる必要はありません！ビートの葉には鉄分、カルシウム、ビタミンAが豊富に含まれています。切り落とした後すぐに洗い、ホウレンソウのようにお浸しやサラダ、スープの具材として活用できます。ただし葉は傷みやすいため、1〜2日以内に使い切ってください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持甜菜根新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解甜菜根的最佳储存温度、方式及保鲜时长。",
-                "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "当您买回新鲜的根茎蔬菜甜菜根准备打汁或做沙拉，却发现没过几天表皮就起皱变软、内部发棉？甜菜根是一种营养丰富的红色根茎蔬菜，从东欧罗宋汤到全球流行的排毒青汁，都是极受欢迎的超级食物。\n\n然而，如果保留甜菜根顶部的叶子和茎，**蒸腾作用(Transpiration)**会持续发生，不断汲取根部储存的水分和营养向上方输送，导致根部肉质纤维化并迅速变软。此外，甜菜根中富含的强效抗氧化水溶性色素**甜菜红素(Betacyanin)**在光照和高温下极易发生分子结构破坏，降低营养价值。\n\n本指南基于权威机构建议，为您带来3步科学甜菜根保鲜秘诀，锁住水分与营养。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "切勿连同叶子和茎一起储存 ⚠️",
-                        "desc": "顶部的叶子会持续吸收根部的水分和糖分并通过蒸腾作用散发。如果不切除叶子，甜菜根很快就会失水发棉、变软变糠。"
-                    },
-                    {
-                        "title": "储存前切勿用水清洗，也不要将细根剪得过短 💧",
-                        "desc": "用水清洗留下的湿气易导致发霉；而将底部细长的主根剪得过短会留下伤口，导致甜菜红素色素和汁液外流，加速腐烂。轻轻刷掉表面泥土即可。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "切除顶部叶子，保留约2厘米茎部 — 阻断水分与营养流失 ✂️",
-                        "text": "切断叶片引起的蒸腾作用是甜菜根保存的第一步。💡储存小贴士：若贴着根部紧贴切断会造成伤口渗出汁液，因此请保留约2厘米的茎部，封闭水分和营养流失的通道。"
-                    },
-                    {
-                        "name": "用报纸或厨房纸巾包裹，0~4℃低温密封冷藏 — 低温冷藏 (3~4周) ❄️",
-                        "text": "避光可防止甜菜红素分解，同时保持适宜湿度。💡储存小贴士：带土用厨房纸巾或报纸包裹根部以调节湿度，装入密封盒或拉链袋中，放入冰箱蔬菜抽屉（0~4℃）。切除叶子后冷藏可保鲜3~4周（若未切除叶子，保鲜期将缩短至5天）。"
-                    },
-                    {
-                        "name": "蒸熟或煮熟后切块冷冻 — 冷冻保存 (10~12个月) 🧊",
-                        "text": "直接生冻甜菜根会导致解冻时细胞壁破裂、肉质烂塌。💡储存小贴士：带皮将甜菜根蒸熟或煮熟，去皮后切成小块，装入密封拉链袋放入冷冻室（-18℃以下）。用于打汁或煮汤可保存10~12个月且营养不流失。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "包裹甜菜根的厨房纸巾变湿了怎么办？",
-                        "answer": "甜菜根自身散发的水分若使包裹的纸巾变湿，易引发发霉或表皮腐烂。定期检查并更换干爽的新纸巾，可以进一步延长保存期限。"
-                    },
-                    {
-                        "question": "切下来的甜菜根叶子需要丢弃吗？还是可以食用？",
-                        "answer": "完全不需要丢弃！甜菜根叶富含铁、钙和维生素A。切下后立即清洗干净，可以像菠菜一样凉拌、炒食或煮汤。但由于叶片易腐烂，建议在1~2天内食用完毕。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener la remolacha (remolacha roja) fresca: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para la remolacha según las directrices oficiales de seguridad.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "¿Alguna vez compró remolacha para jugos saludables o ensaladas y descubrió que se volví arrugada y esponjosa a los pocos días? La remolacha es un hortaliza de raíz vibrante y un superalimento global utilizado desde la sopa borscht oriental hasta los batidos detox.\n\nSin embargo, dejar las hojas y tallos unidos provoca una **transpiración** continua, extrayendo la humedad y los nutrientes almacenados en el bulbo para nutrir las hojas. Esto hace que la pulpa de la raíz se vuelva leñosa y blanda. Además, la **betacianina**, el potente pigmento antioxidante hidrosoluble que le da su característico color rojo, se degrada fácilmente bajo la luz y el calor.\n\nEn esta guía se presenta una guía de conservación de la remolacha en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria. 🛡️",
-                "whyTitle": "¿Por qué almacenarla así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Nunca almacene las remolachas con sus hojas y tallos unidos ⚠️",
-                        "desc": "Las hojas superiores extraen humedad y azúcares del bulbo continuamente. Si no corta las hojas, la raíz se vuelve blanda, esponjosa y leñosa rápidamente."
-                    },
-                    {
-                        "title": "No la lave antes de guardarla ni corte la raíz principal demasiado cerca 💧",
-                        "desc": "Lavarla introduce humedad que favorece el moho. Cortar la raíz inferior demasiado cerca del bulbo crea heridas por donde se escapan la betacianina y los jugos, acelerando la descomposición. Limpie la tierra con un cepillo seco."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Corte las hojas superiores dejando unos 2 cm de tallo — Bloqueo de pérdida de humedad y nutrientes ✂️",
-                        "text": "Detener la transpiración de las hojas es el primer paso crucial. 💡 Consejo de almacenamiento: Cortar los tallos al ras del bulbo provoca heridas que sangran jugo de betacianina. Deje 2 cm de tallo para sellar las vías de pérdida de agua y nutrientes."
-                    },
-                    {
-                        "name": "Envuelva en papel de cocina o periódico y conserve a 0–4 °C — Almacenamiento refrigerado (3 a 4 semanas) ❄️",
-                        "text": "Bloquear la luz previene la descomposición de la betacianina mientras se mantiene la humedad adecuada. 💡 Consejo de almacenamiento: Envuelva la remolacha sin lavar en papel para regular la humedad, colóquela en un recipiente hermético o bolsa Ziploc y guárdela en el cajón de verduras (0–4 °C). Dura de 3 a 4 semanas sin hojas (dejar las hojas reduce la duración a solo 5 días)."
-                    },
-                    {
-                        "name": "Cocine al vapor o hierva, corte en cubos y congele — Congelación (10 a 12 meses) 🧊",
-                        "text": "Congelar la remolacha cruda destruye sus paredes celulares, volviéndola viscosa al descongelar. 💡 Consejo de almacenamiento: Cocine la remolacha entera con piel al vapor o hervida, pélela, córtela en cubos y guárdela en bolsas Ziploc en el congelador (-18 °C). Ideal para batidos durante 10–12 meses."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Qué debo hacer si el papel que envuelve la remolacha se humedece?",
-                        "answer": "La humedad liberada por la remolacha puede humedecer el papel, lo que favorece el moho. Revise periódicamente y cambie el papel húmedo por uno seco para prolongar el tiempo de conservación."
-                    },
-                    {
-                        "question": "¿Debo tirar las hojas de la remolacha o se pueden comer?",
-                        "answer": "¡No las tire! Las hojas de remolacha son ricas en hierro, calcio y vitamina A. Lávelas inmediatamente tras cortarlas y úselas como las espinacas en ensaladas, salteados o sopas. Como se deterioran rápido, consúmalas en 1–2 días."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver la betterave rouge fraîche : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la betterave rouge selon les directives officielles de sécurité.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Avez-vous déjà acheté de la betterave rouge pour des jus sains ou des salades, pour constater qu'elle devenait flétrie et spongieuse en quelques jours ? La betterave est un légume racine très prisé, utilisé du borscht d'Europe de l'Est aux smoothies detox du monde entier.\n\nCependant, laisser les feuilles et tiges attachées maintient une **transpiration** continue, tirant l'eau et les nutriments stockés dans la racine vers le haut. La chair devient alors fibreuse et ramollit vite. De plus, la **bétacyanine**, un puissant pigment antioxydant hydrosoluble qui lui donne sa couleur rouge, se dégrade facilement sous l'action de la lumière et de la chaleur.\n\nDans ce guide, vous présente un guide de conservation de la betterave en 3 étapes recommandé par des experts en sécurité alimentaire. 🛡️",
-                "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne conservez jamais les betteraves avec leurs feuilles et tiges ⚠️",
-                        "desc": "Les feuilles absorbent en continu l'eau et les sucres de la racine. Si vous ne coupez pas les feuilles, la racine devient rapidement spongieuse, molle et fibreuse."
-                    },
-                    {
-                        "title": "Ne la lavez pas avant le stockage et ne coupez pas la racine pivotante trop court 💧",
-                        "desc": "Le lavage apporte de l'humidité propice aux moisissures. Couper la racine infèrieure trop court crée des blessures par lesquelles la bétacyanine et le jus s'échappent. Brossez simplement la terre."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Couper les feuilles en laissant environ 2 cm de tige — Bloquer la perte d'eau ✂️",
-                        "text": "Stopper la transpiration causée par les feuilles est la première étape cruciale. 💡 Astuce de conservation : Couper les tiges à ras crée des ouvertures qui laissent couler le jus de bétacyanine. Laissez 2 cm de tige pour sceller les voies de perte d'eau et de nutriments."
-                    },
-                    {
-                        "name": "Envelopper dans du papier absorbant ou du journal et conserver à 0–4 °C — Stockage réfrigéré (3 à 4 semaines) ❄️",
-                        "text": "Bloquer la lumière évite la dégradation de la bétacyanine tout en maintenant une humidité adaptée. 💡 Astuce de conservation : Enveloppez la betterave non lavée dans du papier, placez-la dans une boîte hermétique ou un sachet Ziploc et rangez-la dans le bac à légumes (0–4 °C) pendant 3 à 4 semaines (sans couper les feuilles, la durée tombe à 5 jours)."
-                    },
-                    {
-                        "name": "Cuire à la vapeur ou à l'eau, couper en dés et congeler — Congélation (10 à 12 mois) 🧊",
-                        "text": "Congeler la betterave crue détruit ses parois cellulaires, la rendant molle à la décongélation. 💡 Astuce de conservation : Cuisez la betterave entière avec sa peau, épluchez-la, coupez-la en dés et congelez-la en sachets Ziploc (-18 °C) jusqu'à 10–12 mois."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Que faire si le papier enveloppant la betterave devient humide ?",
-                        "answer": "L'humidité libérée par la betterave peut mouiller le papier, favorisant la moisissure. Vérifiez régulièrement et remplacez le papier humide par du papier sec pour prolonger la conservation."
-                    },
-                    {
-                        "question": "Faut-il jeter les fanes de betterave ou peut-on les manger ?",
-                        "answer": "Ne les jetez surtout pas ! Les fanes de betterave sont riches en fer, calcium et vitamine A. Lavez-les dès que vous les coupez et cuisinez-les comme des épinards en salade, poêlées ou soupes. Consommez-les sous 1 à 2 jours."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Rote Bete (Beetroot) richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Rote Bete basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Haben Sie schon einmal Rote Bete für gesunde Säfte oder Salate gekauft, nur um festzustellen, dass sie nach wenigen Tagen schrumpelig und schwammig wurde? Rote Bete ist eine leuchtende Knolle und ein weltweites Superfood, das von osteuropäischem Borschtsch bis zu Detox-Smoothies geschätzt wird.\n\nBleiben jedoch Blätter und Stängel an der Knolle, findet kontinuierlich **Transpiration** statt, die der Knolle Feuchtigkeit und Nährstoffe entzieht, um die Blätter zu versorgen. Dadurch wird das Fleisch holzig und weich. Zudem wird das wertvolle Antioxidans **Betacyanin**, der wasserlösliche rote Farbstoff, durch Licht und Hitze leicht zersetzt.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber zur Lagerung von Roter Bete. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Rote Bete niemals mit Blättern und Stängeln lagern ⚠️",
-                        "desc": "Die Blätter entziehen der Knolle kontinuierlich Wasser und Zucker. Werden die Blätter nicht entfernt, wird die Rote Bete schnell schwammig, weich und holzig."
-                    },
-                    {
-                        "title": "Vor der Lagerung nicht waschen und die Wurzel nicht zu kurz schneiden 💧",
-                        "desc": "Waschen führt zu Feuchtigkeit, die Schimmel begünstigt. Das zu kurze Abschneiden der unteren Wurzel erzeugt Wunden, aus denen Betacyanin und Saft austreten, was den Verderb beschleunigt. Erde nur trocken abbürsten."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Blätter abschneiden, ca. 2 cm Stängel belassen — Wasser- und Nährstoffverlust stoppen ✂️",
-                        "text": "Das Stoppen der Transpiration durch die Blätter ist der wichtigste erste Schritt. 💡 Lagerungstipp: Schneiden Sie die Stängel nicht direkt an der Knolle ab, da sonst Saft austritt. Lassen Sie ca. 2 cm Stängel stehen, um den Feuchtigkeitsverlust zu verhindern."
-                    },
-                    {
-                        "name": "In Küchenpapier oder Zeitung einwickeln und bei 0–4 °C lagern — Kühllagerung (3–4 Wochen) ❄️",
-                        "text": "Lichtschutz verhindert den Betacyanin-Abbau, während die Feuchtigkeit reguliert wird. 💡 Lagerungstipp: Die ungewaschene Rote Bete in Papier einwickeln, in eine Dose oder einen Ziploc-Beutel geben und im Gemüsefach (0–4 °C) aufbewahren. Hält ohne Blätter 3–4 Wochen (mit Blättern nur 5 Tage)."
-                    },
-                    {
-                        "name": "Dämpfen oder kochen, würfeln und einfrieren — Gefrierlagerung (10–12 Monate) 🧊",
-                        "text": "Das Einfrieren roher Roter Bete zerstört die Zellwände, sodass sie beim Auftauen matschig wird. 💡 Lagerungstipp: Rote Bete mit Schale garen, schälen, würfeln und in Ziploc-Gefrierbeuteln (-18 °C) aufbewahren. Hält 10–12 Monate ohne Nährstoffverlust."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Was tun, wenn das Papier um die Rote Bete feucht wird?",
-                        "answer": "Die von der Rote Bete abgegebene Feuchtigkeit kann das Papier durchfeuchten und Schimmel fördern. Prüfen Sie das Papier regelmäßig und ersetzen Sie feuchtes durch trockenes Papier, um die Haltbarkeit zu verlängern."
-                    },
-                    {
-                        "question": "Sollte man das Blättergrün der Roten Bete wegwerfen oder kann man es essen?",
-                        "answer": "Nicht wegwerfen! Rote-Bete-Blätter sind reich an Eisen, Kalzium und Vitamin A. Nach dem Abschneiden waschen und wie Spinat in Salaten, Pfannengerichten oder Suppen verwenden. Da Blätter schnell verderben, innerhalb von 1–2 Tagen verbrauchen."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar beterraba fresca: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para a beterraba com base em diretrizes oficiais de segurança.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Você já comprou beterraba para sucos saudáveis ou saladas e descobriu que ela ficou murcha e esponjosa em poucos dias? A beterraba é uma raiz vibrante e um superalimento global usado desde a sopa borscht até sucos detox.\n\nContudo, deixar as folhas e talos anexados mantém uma **transpiração** contínua, puxando a água e os nutrientes armazenados na raiz em direção às folhas. Isso faz com que a polpa fique fibrosa e murcha. Além disso, a **betacianina**, o potente pigmento antioxidante hidrossolúvel que dá a cor vermelha, degrada-se facilmente com luz e calor.\n\nNeste guia, apresentamos um guia de conservação de beterraba em 3 etapas recomendado por especialistas em segurança alimentar. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca guarde beterrabas com as folhas e talos anexados ⚠️",
-                        "desc": "As folhas superiores retiram água e açúcares da raiz continuamente. Se não cortar as folhas, a raiz fica esponjosa, murcha e fibrosa rapidamente."
-                    },
-                    {
-                        "title": "Não lave antes de guardar nem corte a raiz principal muito rente 💧",
-                        "desc": "Lavar introduz umidade que favorece o mofo. Cortar a raiz inferior muito rente ao bulbo cria feridas por onde escorrem a betacianina e os sucos. Apenas limpe a terra com uma escova seca."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Corte as folhas superiores deixando cerca de 2 cm de talo — Bloqueio de perda de umidade e nutrientes ✂️",
-                        "text": "Parar a transpiração das folhas é o primeiro passo fundamental. 💡 Dica de conservação: Cortar os talos rente ao bulbo gera feridas que vazam o suco de betacianina. Deixe 2 cm de talo para selar as vias de perda de água."
-                    },
-                    {
-                        "name": "Envolva em papel-toalha ou jornal e conserve a 0–4 °C — Refrigeração (3 a 4 semanas) ❄️",
-                        "text": "Bloquear a luz evita a degradação da betacianina enquanto mantém a umidade ideal. 💡 Dica de conservação: Envolva a beterraba sem lavar em papel, coloque em um pote hermético ou saco Ziploc e guarde na gaveta de legumes (0–4 °C) de 3 a 4 semanas (sem cortar as folhas, dura apenas 5 dias)."
-                    },
-                    {
-                        "name": "Cozinhe no vapor ou água, corte em cubos e congele — Congelamento (10 a 12 meses) 🧊",
-                        "text": "Congelar a beterraba crua destrói as paredes celulares, deixando-a murcha ao descongelar. 💡 Dica de conservação: Cozinhe a beterraba inteira com casca, descasque, corte em cubos e guarde em sacos Ziploc no freezer (-18 °C) por 10 a 12 meses."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "O que devo fazer se o papel que envolve a beterraba ficar úmido?",
-                        "answer": "A umidade liberada pela beterraba pode molhar o papel, o que favorece o mofo. Verifique periodicamente e troque o papel úmido por um seco para prolongar o tempo de conservação."
-                    },
-                    {
-                        "question": "Devo jogar fora as folhas da beterraba ou elas podem ser comidas?",
-                        "answer": "Não jogue fora! As folhas de beterraba são ricas em ferro, cálcio e vitamina A. Lave-as imediatamente após cortar e use como espinafre em saladas, refogados ou sopas. Consuma em 1 a 2 dias."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Bit (Beetroot) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk bit berdasarkan pedoman keselamatan resmi.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Pernahkah Anda membeli buah bit untuk jus sehat atau salad, lalu mendapati teksturnya menjadi keriput dan lembek hanya dalam beberapa hari? Bit adalah sayuran umbi berwarna merah cerah yang populer dari Sup Borscht Eropa Timur hingga jus detoks dunia.\n\nNamun, membiarkan daun dan batang atasnya tetap menempel memicu **transpirasi** berkelanjutan, yang menyedot cadangan air dan nutrisi dari umbi ke bagian atas. Hal ini membuat daging umbi menjadi berserat dan keras/lembek. Selain itu, **betasianin (Betacyanin)**, pigmen merah antioksidan larut air yang kuat, sangat mudah rusak akibat paparan cahaya dan panas.\n\nDalam panduan ini, kami membagikan panduan penyimpanan bit 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan pernah menyimpan bit dengan daun dan batang tetap menempel ⚠️",
-                        "desc": "Daun atas terus menyedot air dan gula dari umbi. Jika Anda tidak memotong daunnya, umbi akan dengan cepat menjadi kempis, lembek, dan berserat."
-                    },
-                    {
-                        "title": "Jangan dicuci sebelum disimpan atau memotong akar tunggang terlalu pendek 💧",
-                        "desc": "Mencuci bit menyebabkan kelembapan yang memicu jamur. Memotong akar bawah terlalu pendek membuat luka yang menyebarkan pigmen betasianin dan sari umbi, mempercepat pembusukan. Bersihkan tanah dengan sikat kering saja."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Potong daun atas, sisakan batang sekitar 2 cm — Hentikan Kehilangan Air & Nutrisi ✂️",
-                        "text": "Menghentikan transpirasi dari daun adalah langkah utama. 💡 Tips Penyimpanan: Memotong batang terlalu mepet membuat luka yang mengeluarkan sari betasianin. Sisakan batang sekitar 2 cm untuk menutup jalur kehilangan air dan nutrisi."
-                    },
-                    {
-                        "name": "Bungkus dengan tisu dapur atau koran lalu simpan pada suhu 0–4°C — Simpan Dingin (3–4 Minggu) ❄️",
-                        "text": "Menghalangi cahaya mencegah kerusakan betasianin sekaligus menjaga kelembapan yang tepat. 💡 Tips Penyimpanan: Bungkus bit yang belum dicuci dengan kertas untuk mengatur kelembapan, masukkan ke wadah kedap udara atau kantong Ziploc, lalu simpan di laci sayur kulkas (0–4°C). Bertahan 3–4 minggu jika daun dipotong (tanpa memotong daun hanya bertahan 5 hari)."
-                    },
-                    {
-                        "name": "Kukus atau rebus, potong dadu, lalu bekukan — Simpan Freezer (10–12 Bulan) 🧊",
-                        "text": "Membekukan bit mentah merusak dinding selnya, membuatnya sangat lembek saat dicairkan. 💡 Tips Penyimpanan: Kukus atau rebus bit utuh bersama kulitnya hingga matang, kupas kulitnya, potong dadu, lalu simpan dalam kantong Ziploc freezer (-18°C) hingga 10–12 bulan tanpa kehilangan nutrisi."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apa yang harus saya lakukan jika kertas pembungkus bit menjadi basah?",
-                        "answer": "Kelembapan yang dikeluarkan bit dapat membasahi kertas pembungkus, memicu jamur. Periksa secara berkala dan ganti kertas basah dengan kertas kering yang baru untuk memperpanjang masa simpan."
-                    },
-                    {
-                        "question": "Apakah daun bit harus dibuang atau bisa dimakan?",
-                        "answer": "Jangan dibuang! Daun bit kaya akan zat besi, kalsium, dan vitamin A. Cuci bersih segera setelah dipotong dan olah seperti bayam untuk salad, tumisan, atau sup. Karena daun cepat membusuk, habisi dalam 1–2 hari."
-                    }
-                ]
-            }
-        }
+  "how-to-store-beetroot": {
+    "ingId": "beetroot",
+    "pubDate": "2026-03-12",
+    "updatedDate": "2026-03-12",
+    "heroImage": "/images/blog/beetroot_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "비트 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 비트의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
+        "intro": "건강 주스나 샐러드용으로 뿌리채소인 비트를 사 왔는데, 며칠 지나지 않아 표면이 쭈글쭈글해지고 속이 푸석하게 변해 버린 적 있으시죠? 붉은 뿌리채소 비트는 동유럽의 보르시 수프부터 글로벌 클렌즈 주스까지 널리 쓰이는 슈퍼푸드입니다.\n\n하지만 비트 상부에 잎과 줄기가 붙어있으면 **증산 작용(Transpiration)**이 지속되어 구근 속 수분과 영양분을 위쪽으로 계속 끌어당깁니다. 이로 인해 뿌리 조직이 섬유화되고 급격히 무르게 됩니다. 또한 비트의 강력한 항산화 성분이자 수용성 색소인 **베타시아닌(Betacyanin)**은 빛과 열에 노출되면 유기 분자 구조가 파괴되어 영양 가치가 크게 떨어집니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들이 검증한 과학적인 비트 신선도 유지 3단계 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "잎과 줄기를 붙인 채 그대로 보관하지 마세요 ⚠️",
+            "desc": "상부의 잎은 구근(뿌리)의 수분과 당분을 지속적으로 흡수하여 증산 작용으로 배출합니다. 잎을 제거하지 않으면 구근이 빠른 속도로 바람이 들고 푸석해집니다."
+          },
+          {
+            "title": "보관 전에 물로 씻거나 잔뿌리를 바짝 자르지 마세요 💧",
+            "desc": "물에 씻으면 표면 습기로 인해 곰팡이가 피기 쉽고, 길게 늘어진 밑동 잔뿌리를 바짝 잘라내면 상처 부위로 베타시아닌 색소와 즙이 새어나와 부패가 촉진됩니다. 흙만 가볍게 털어내어 보관하세요."
+          }
+        ],
+        "steps": [
+          {
+            "name": "상부 잎을 2cm 남기고 잘라내기 — 수분 및 영양 유출 차단 ✂️",
+            "text": "잎에 의한 증산 작용을 차단하는 것이 비트 보관의 가장 첫 단계입니다. 💡 보관 팁: 줄기를 바짝 자르면 구근에 상처가 생겨 베타시아닌 즙이 새어나오므로, 줄기를 2cm 정도 남겨두고 잘라내어 수분과 영양분의 유출 경로를 차단해 주세요."
+          },
+          {
+            "name": "신문지나 키친타월로 감싸 0~4℃ 저온 밀폐 보관하기 — 저온 냉장 보관 (3~4주) ❄️",
+            "text": "빛을 차단해 베타시아닌 분해를 막고 적정 습도를 유지해야 합니다. 💡 보관 팁: 흙이 묻은 상태 그대로 구근을 신문지나 키친타월로 감싸 습도를 조절한 뒤, 밀폐 용기나 지퍼백에 담아 냉장고 야채칸(0~4℃)에 보관하세요. 잎을 제거하고 저온 보관 시 3~4주간 신선함이 유지됩니다. (※ 잎 미제거 시 보관 기한은 5일로 단축됩니다.)"
+          },
+          {
+            "name": "살짝 찌거나 삶은 후 깍둑썰기하여 냉동 보관하기 — 냉동 보관 (10~12개월) 🧊",
+            "text": "생비트를 그대로 냉동하면 해동 시 조직이 모두 깨지고 물러집니다. 💡 보관 팁: 비트를 껍질째 찌거나 삶아 익힌 후, 껍질을 벗기고 깍둑썰기하여 밀폐 지퍼백에 담아 냉동실(-18℃ 이하)에 보관하세요. 주스나 수프용으로 10~12개월간 영양소 손실 없이 활용할 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "비트를 감싼 키친타월이 젖으면 어떻게 해야 하나요?",
+            "answer": "비트 자체에서 배출되는 수분으로 인해 감싸둔 신문지나 키친타월이 축축해지면 곰팡이가 생기거나 표면이 무를 수 있습니다. 주기적으로 확인하여 젖은 타올을 새 마른 키친타월로 교체해 주면 보관 기간을 더욱 늘릴 수 있습니다."
+          },
+          {
+            "question": "비트 잎은 버려야 하나요, 아니면 따로 활용할 수 있나요?",
+            "answer": "잘라낸 비트 잎은 버릴 필요가 없습니다! 비트 잎에는 철분, 칼슘, 비타민 A가 풍부합니다. 잘라낸 즉시 씻어서 시금치처럼 나물로 무치거나 샐러드, 찌개용으로 활용하시면 좋습니다. 단, 잎은 부패가 빠르므로 1~2일 이내에 소비해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Beetroot Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for beetroot based on official safety guidelines.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Have you ever bought beetroot for healthy juices or salads, only to find it shriveled and spongy after just a few days? Beetroot is a vibrant root vegetable and global superfood used in everything from Eastern European borscht to detox smoothies.\n\nHowever, leaving the top leaves and stems attached causes continuous **transpiration**, drawing stored moisture and nutrients out of the bulb to nourish the leaves. This causes the root flesh to become woody and soft. Furthermore, **betacyanin**, the powerful antioxidant water-soluble pigment that gives beetroot its deep red color, easily degrades under light and heat.\n\nIn this guide, we introduce a scientifically proven 3-step beetroot storage guide recommended by agriculture and food safety experts to preserve freshness and nutrition. 🛡️",
+        "whyTitle": "Why Store Beetroot This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and food safety.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never store beetroots with their leaves and stems attached ⚠️",
+            "desc": "The top leaves continuously draw moisture and sugars out of the root bulb and release them through transpiration. If you leave the leaves intact, the root quickly becomes woody, spongy, and limp."
+          },
+          {
+            "title": "Do not wash before storing or trim the taproot too closely 💧",
+            "desc": "Washing introduces surface moisture that encourages mold growth. Trimming the bottom taproot too close to the bulb creates wounds that leak betacyanin pigment and juices, accelerating decay. Gently brush off dirt instead."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Trim top leaves, leaving about 2 cm (1 inch) of stem — Block Moisture & Nutrient Loss ✂️",
+            "text": "Stopping transpiration caused by the leaves is the crucial first step. 💡 Storage Tip: Cutting stems flush with the bulb creates open wounds that bleed betacyanin juices. Leave about 2 cm (1 inch) of stem intact to seal off moisture and nutrient loss routes."
+          },
+          {
+            "name": "Wrap in paper towels or newspaper and store at 0–4°C — Cold Storage (3–4 Weeks) ❄️",
+            "text": "Blocking light prevents betacyanin breakdown while keeping proper humidity. 💡 Storage Tip: Keep unwashed beets wrapped in paper towels or newspaper to regulate humidity, place inside airtight containers or Ziploc bags, and store in the fridge crisper (0–4°C / 32–39°F). Trimmed beets last 3–4 weeks (leaving leaves on reduces shelf life to just 5 days)."
+          },
+          {
+            "name": "Steam or boil, cube, and freeze in Ziploc bags — Freezer Storage (10–12 Months) 🧊",
+            "text": "Freezing raw beetroot damages cellular walls, making it mushy upon thawing. 💡 Storage Tip: Steam or boil beetroots whole with skin on until cooked, peel, cube, and place into freezer Ziploc bags (-18°C / 0°F). Great for smoothies or soups for 10–12 months without nutrient loss."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "What should I do if the paper towel wrapped around the beetroot gets damp?",
+            "answer": "Moisture naturally released by the beetroot can damp the wrapping paper, encouraging mold or soft spots. Check periodically and replace damp towels with fresh, dry ones to extend the storage period."
+          },
+          {
+            "question": "Should beet greens be discarded, or can they be eaten?",
+            "answer": "Do not throw them away! Beet greens are rich in iron, calcium, and vitamin A. Wash them immediately after trimming and use them like spinach in salads, sautéed dishes, or soups. Since leaves decay quickly, consume them within 1–2 days."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ビート（ビーツ）を新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくビートの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
+        "intro": "健康ジュースやサラダ用に根菜のビート（ビーツ）を買ってきたものの、数日もしないうちに 表面がシワシワになり、中がパサついてしまった経験はありませんか？鮮やかな赤い根菜であるビートは、東欧のボルシチからデトックスジュースまで広く愛されているスーパーフードです。\n\nしかし、ビートの上部に葉や茎がついて居ると**蒸散作用(Transpiration)**が継続し、根に蓄えられた水分や栄養素を上部に吸い上げて消費してしまいます。これにより根の組織が繊維化し、急激に柔らかくなります。また、ビートの強力な抗酸化成分であり水溶性色素である**ベタシアニン(Betacyanin)**は、光や熱に晒されると有機分子構造が破壊され、栄養価値が大きく低下します。\n\n本記事では、専門家が検証したビートの鮮度と栄養を守る3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？ 科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "葉や茎をつけたまま保存しないでください ⚠️",
+            "desc": "上部の葉は根の水分や糖分を継続的に吸収し、蒸散作用によって放出してしまいます。葉を取り除かないと、根が急速にす入りしてパサパサになります。"
+          },
+          {
+            "title": "保存前に水洗いしたりひげ根を短く切り落とさないでください 💧",
+            "desc": "水洗いすると表面の湿気でカビが生えやすくなり、長く伸びたひげ根を根元から切ると傷口からベタシアニン色素や果汁が漏れ出して腐敗が早まります。土だけを軽く払い落として保存してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "上部の葉を2cmほど残して切り落とす — 水分＆栄養流出の遮断 ✂️",
+            "text": "葉による蒸散作用を遮断することがビート保存の第一歩です。💡保存のコツ：茎を根元から切ると傷口からベタシアニン果汁が漏れ出すため、茎を2cmほど残してカットし、水分と栄養の流出経路を遮断してください。"
+          },
+          {
+            "name": "新聞紙やキッチンペーパーで包み0〜4℃の低温で密閉保存する — 低温冷蔵保存 (3〜4週間) ❄️",
+            "text": "光を遮断してベタシアニンの分解を防ぎ、適切な湿度を維持することが重要です。💡保存のコツ：土がついたまま新聞紙やキッチンペーパーで包んで湿度を調整し、密閉容器やジッパーバッグに入れて冷蔵庫の野菜室（0〜4℃）で保管します。葉を取り除いて低温保存すれば3〜4週間新鮮さを保てます。（※葉をつけたままの場合、保存期間は5日に短縮します。）"
+          },
+          {
+            "name": "軽く蒸すかゆでた後、角切りにして冷凍保存する — 冷凍保存 (10〜12ヶ月間) 🧊",
+            "text": "生のビートをそのまま冷凍すると、解凍時に組織が破壊されてドロドロになります。💡保存のコツ：皮ごと蒸すかゆでて火を通した後、皮をむいて角切りにし、密閉ジッパーバッグに入れて冷凍室（-18℃以下）で保管します。ジュースやスープ用に10〜12ヶ月間栄養を損なわずに活用できます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ビートを包んだキッチンペーパーが濡れてきたらどうすればよいですか？",
+            "answer": "ビート自体から放出される水分によってペーパーが湿ると、カビの発生や表面の傷みの原因になります。定期的に確認し、濡れたペーパーを新しい乾いたペーパーに交換することで保存期間をさらに延ばすことができます。"
+          },
+          {
+            "question": "切り落としたビートの葉は捨てるべきですか、それとも食べられますか？",
+            "answer": "捨てる必要はありません！ビートの葉には鉄分、カルシウム、ビタミンAが豊富に含まれています。切り落とした後すぐに洗い、ホウレンソウのようにお浸しやサラダ、スープの具材として活用できます。ただし葉は傷みやすいため、1〜2日以内に使い切ってください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持甜菜根新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解甜菜根的最佳储存温度、方式及保鲜时长。",
+        "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "当您买回新鲜的根茎蔬菜甜菜根准备打汁或做沙拉，却发现没过几天表皮就起皱变软、内部发棉？甜菜根是一种营养丰富的红色根茎蔬菜，从东欧罗宋汤到全球流行的排毒青汁，都是极受欢迎的超级食物。\n\n然而，如果保留甜菜根顶部的叶子和茎，**蒸腾作用(Transpiration)**会持续发生，不断汲取根部储存的水分和营养向上方输送，导致根部肉质纤维化并迅速变软。此外，甜菜根中富含的强效抗氧化水溶性色素**甜菜红素(Betacyanin)**在光照和高温下极易发生分子结构破坏，降低营养价值。\n\n本指南基于权威机构建议，为您带来3步科学甜菜根保鲜秘诀，锁住水分与营养。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "切勿连同叶子和茎一起储存 ⚠️",
+            "desc": "顶部的叶子会持续吸收根部的水分和糖分并通过蒸腾作用散发。如果不切除叶子，甜菜根很快就会失水发棉、变软变糠。"
+          },
+          {
+            "title": "储存前切勿用水清洗，也不要将细根剪得过短 💧",
+            "desc": "用水清洗留下的湿气易导致发霉；而将底部细长的主根剪得过短会留下伤口，导致甜菜红素色素和汁液外流，加速腐烂。轻轻刷掉表面泥土即可。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "切除顶部叶子，保留约2厘米茎部 — 阻断水分与营养流失 ✂️",
+            "text": "切断叶片引起的蒸腾作用是甜菜根保存的第一步。💡储存小贴士：若贴着根部紧贴切断会造成伤口渗出汁液，因此请保留约2厘米的茎部，封闭水分和营养流失的通道。"
+          },
+          {
+            "name": "用报纸或厨房纸巾包裹，0~4℃低温密封冷藏 — 低温冷藏 (3~4周) ❄️",
+            "text": "避光可防止甜菜红素分解，同时保持适宜湿度。💡储存小贴士：带土用厨房纸巾或报纸包裹根部以调节湿度，装入密封盒或拉链袋中，放入冰箱蔬菜抽屉（0~4℃）。切除叶子后冷藏可保鲜3~4周（若未切除叶子，保鲜期将缩短至5天）。"
+          },
+          {
+            "name": "蒸熟或煮熟后切块冷冻 — 冷冻保存 (10~12个月) 🧊",
+            "text": "直接生冻甜菜根会导致解冻时细胞壁破裂、肉质烂塌。💡储存小贴士：带皮将甜菜根蒸熟或煮熟，去皮后切成小块，装入密封拉链袋放入冷冻室（-18℃以下）。用于打汁或煮汤可保存10~12个月且营养不流失。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "包裹甜菜根的厨房纸巾变湿了怎么办？",
+            "answer": "甜菜根自身散发的水分若使包裹的纸巾变湿，易引发发霉或表皮腐烂。定期检查并更换干爽的新纸巾，可以进一步延长保存期限。"
+          },
+          {
+            "question": "切下来的甜菜根叶子需要丢弃吗？还是可以食用？",
+            "answer": "完全不需要丢弃！甜菜根叶富含铁、钙和维生素A。切下后立即清洗干净，可以像菠菜一样凉拌、炒食或煮汤。但由于叶片易腐烂，建议在1~2天内食用完毕。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener la remolacha (remolacha roja) fresca: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para la remolacha según las directrices oficiales de seguridad.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "¿Alguna vez compró remolacha para jugos saludables o ensaladas y descubrió que se volví arrugada y esponjosa a los pocos días? La remolacha es un hortaliza de raíz vibrante y un superalimento global utilizado desde la sopa borscht oriental hasta los batidos detox.\n\nSin embargo, dejar las hojas y tallos unidos provoca una **transpiración** continua, extrayendo la humedad y los nutrientes almacenados en el bulbo para nutrir las hojas. Esto hace que la pulpa de la raíz se vuelva leñosa y blanda. Además, la **betacianina**, el potente pigmento antioxidante hidrosoluble que le da su característico color rojo, se degrada fácilmente bajo la luz y el calor.\n\nEn esta guía se presenta una guía de conservación de la remolacha en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria. 🛡️",
+        "whyTitle": "¿Por qué almacenarla así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Nunca almacene las remolachas con sus hojas y tallos unidos ⚠️",
+            "desc": "Las hojas superiores extraen humedad y azúcares del bulbo continuamente. Si no corta las hojas, la raíz se vuelve blanda, esponjosa y leñosa rápidamente."
+          },
+          {
+            "title": "No la lave antes de guardarla ni corte la raíz principal demasiado cerca 💧",
+            "desc": "Lavarla introduce humedad que favorece el moho. Cortar la raíz inferior demasiado cerca del bulbo crea heridas por donde se escapan la betacianina y los jugos, acelerando la descomposición. Limpie la tierra con un cepillo seco."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Corte las hojas superiores dejando unos 2 cm de tallo — Bloqueo de pérdida de humedad y nutrientes ✂️",
+            "text": "Detener la transpiración de las hojas es el primer paso crucial. 💡 Consejo de almacenamiento: Cortar los tallos al ras del bulbo provoca heridas que sangran jugo de betacianina. Deje 2 cm de tallo para sellar las vías de pérdida de agua y nutrientes."
+          },
+          {
+            "name": "Envuelva en papel de cocina o periódico y conserve a 0–4 °C — Almacenamiento refrigerado (3 a 4 semanas) ❄️",
+            "text": "Bloquear la luz previene la descomposición de la betacianina mientras se mantiene la humedad adecuada. 💡 Consejo de almacenamiento: Envuelva la remolacha sin lavar en papel para regular la humedad, colóquela en un recipiente hermético o bolsa Ziploc y guárdela en el cajón de verduras (0–4 °C). Dura de 3 a 4 semanas sin hojas (dejar las hojas reduce la duración a solo 5 días)."
+          },
+          {
+            "name": "Cocine al vapor o hierva, corte en cubos y congele — Congelación (10 a 12 meses) 🧊",
+            "text": "Congelar la remolacha cruda destruye sus paredes celulares, volviéndola viscosa al descongelar. 💡 Consejo de almacenamiento: Cocine la remolacha entera con piel al vapor o hervida, pélela, córtela en cubos y guárdela en bolsas Ziploc en el congelador (-18 °C). Ideal para batidos durante 10–12 meses."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Qué debo hacer si el papel que envuelve la remolacha se humedece?",
+            "answer": "La humedad liberada por la remolacha puede humedecer el papel, lo que favorece el moho. Revise periódicamente y cambie el papel húmedo por uno seco para prolongar el tiempo de conservación."
+          },
+          {
+            "question": "¿Debo tirar las hojas de la remolacha o se pueden comer?",
+            "answer": "¡No las tire! Las hojas de remolacha son ricas en hierro, calcio y vitamina A. Lávelas inmediatamente tras cortarlas y úselas como las espinacas en ensaladas, salteados o sopas. Como se deterioran rápido, consúmalas en 1–2 días."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver la betterave rouge fraîche : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la betterave rouge selon les directives officielles de sécurité.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Avez-vous déjà acheté de la betterave rouge pour des jus sains ou des salades, pour constater qu'elle devenait flétrie et spongieuse en quelques jours ? La betterave est un légume racine très prisé, utilisé du borscht d'Europe de l'Est aux smoothies detox du monde entier.\n\nCependant, laisser les feuilles et tiges attachées maintient une **transpiration** continue, tirant l'eau et les nutriments stockés dans la racine vers le haut. La chair devient alors fibreuse et ramollit vite. De plus, la **bétacyanine**, un puissant pigment antioxydant hydrosoluble qui lui donne sa couleur rouge, se dégrade facilement sous l'action de la lumière et de la chaleur.\n\nDans ce guide, vous présente un guide de conservation de la betterave en 3 étapes recommandé par des experts en sécurité alimentaire. 🛡️",
+        "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne conservez jamais les betteraves avec leurs feuilles et tiges ⚠️",
+            "desc": "Les feuilles absorbent en continu l'eau et les sucres de la racine. Si vous ne coupez pas les feuilles, la racine devient rapidement spongieuse, molle et fibreuse."
+          },
+          {
+            "title": "Ne la lavez pas avant le stockage et ne coupez pas la racine pivotante trop court 💧",
+            "desc": "Le lavage apporte de l'humidité propice aux moisissures. Couper la racine infèrieure trop court crée des blessures par lesquelles la bétacyanine et le jus s'échappent. Brossez simplement la terre."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Couper les feuilles en laissant environ 2 cm de tige — Bloquer la perte d'eau ✂️",
+            "text": "Stopper la transpiration causée par les feuilles est la première étape cruciale. 💡 Astuce de conservation : Couper les tiges à ras crée des ouvertures qui laissent couler le jus de bétacyanine. Laissez 2 cm de tige pour sceller les voies de perte d'eau et de nutriments."
+          },
+          {
+            "name": "Envelopper dans du papier absorbant ou du journal et conserver à 0–4 °C — Stockage réfrigéré (3 à 4 semaines) ❄️",
+            "text": "Bloquer la lumière évite la dégradation de la bétacyanine tout en maintenant une humidité adaptée. 💡 Astuce de conservation : Enveloppez la betterave non lavée dans du papier, placez-la dans une boîte hermétique ou un sachet Ziploc et rangez-la dans le bac à légumes (0–4 °C) pendant 3 à 4 semaines (sans couper les feuilles, la durée tombe à 5 jours)."
+          },
+          {
+            "name": "Cuire à la vapeur ou à l'eau, couper en dés et congeler — Congélation (10 à 12 mois) 🧊",
+            "text": "Congeler la betterave crue détruit ses parois cellulaires, la rendant molle à la décongélation. 💡 Astuce de conservation : Cuisez la betterave entière avec sa peau, épluchez-la, coupez-la en dés et congelez-la en sachets Ziploc (-18 °C) jusqu'à 10–12 mois."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Que faire si le papier enveloppant la betterave devient humide ?",
+            "answer": "L'humidité libérée par la betterave peut mouiller le papier, favorisant la moisissure. Vérifiez régulièrement et remplacez le papier humide par du papier sec pour prolonger la conservation."
+          },
+          {
+            "question": "Faut-il jeter les fanes de betterave ou peut-on les manger ?",
+            "answer": "Ne les jetez surtout pas ! Les fanes de betterave sont riches en fer, calcium et vitamine A. Lavez-les dès que vous les coupez et cuisinez-les comme des épinards en salade, poêlées ou soupes. Consommez-les sous 1 à 2 jours."
+          }
+        ]
+      },
+      "de": {
+        "title": "Rote Bete (Beetroot) richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Rote Bete basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Haben Sie schon einmal Rote Bete für gesunde Säfte oder Salate gekauft, nur um festzustellen, dass sie nach wenigen Tagen schrumpelig und schwammig wurde? Rote Bete ist eine leuchtende Knolle und ein weltweites Superfood, das von osteuropäischem Borschtsch bis zu Detox-Smoothies geschätzt wird.\n\nBleiben jedoch Blätter und Stängel an der Knolle, findet kontinuierlich **Transpiration** statt, die der Knolle Feuchtigkeit und Nährstoffe entzieht, um die Blätter zu versorgen. Dadurch wird das Fleisch holzig und weich. Zudem wird das wertvolle Antioxidans **Betacyanin**, der wasserlösliche rote Farbstoff, durch Licht und Hitze leicht zersetzt.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber zur Lagerung von Roter Bete. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Rote Bete niemals mit Blättern und Stängeln lagern ⚠️",
+            "desc": "Die Blätter entziehen der Knolle kontinuierlich Wasser und Zucker. Werden die Blätter nicht entfernt, wird die Rote Bete schnell schwammig, weich und holzig."
+          },
+          {
+            "title": "Vor der Lagerung nicht waschen und die Wurzel nicht zu kurz schneiden 💧",
+            "desc": "Waschen führt zu Feuchtigkeit, die Schimmel begünstigt. Das zu kurze Abschneiden der unteren Wurzel erzeugt Wunden, aus denen Betacyanin und Saft austreten, was den Verderb beschleunigt. Erde nur trocken abbürsten."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Blätter abschneiden, ca. 2 cm Stängel belassen — Wasser- und Nährstoffverlust stoppen ✂️",
+            "text": "Das Stoppen der Transpiration durch die Blätter ist der wichtigste erste Schritt. 💡 Lagerungstipp: Schneiden Sie die Stängel nicht direkt an der Knolle ab, da sonst Saft austritt. Lassen Sie ca. 2 cm Stängel stehen, um den Feuchtigkeitsverlust zu verhindern."
+          },
+          {
+            "name": "In Küchenpapier oder Zeitung einwickeln und bei 0–4 °C lagern — Kühllagerung (3–4 Wochen) ❄️",
+            "text": "Lichtschutz verhindert den Betacyanin-Abbau, während die Feuchtigkeit reguliert wird. 💡 Lagerungstipp: Die ungewaschene Rote Bete in Papier einwickeln, in eine Dose oder einen Ziploc-Beutel geben und im Gemüsefach (0–4 °C) aufbewahren. Hält ohne Blätter 3–4 Wochen (mit Blättern nur 5 Tage)."
+          },
+          {
+            "name": "Dämpfen oder kochen, würfeln und einfrieren — Gefrierlagerung (10–12 Monate) 🧊",
+            "text": "Das Einfrieren roher Roter Bete zerstört die Zellwände, sodass sie beim Auftauen matschig wird. 💡 Lagerungstipp: Rote Bete mit Schale garen, schälen, würfeln und in Ziploc-Gefrierbeuteln (-18 °C) aufbewahren. Hält 10–12 Monate ohne Nährstoffverlust."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Was tun, wenn das Papier um die Rote Bete feucht wird?",
+            "answer": "Die von der Rote Bete abgegebene Feuchtigkeit kann das Papier durchfeuchten und Schimmel fördern. Prüfen Sie das Papier regelmäßig und ersetzen Sie feuchtes durch trockenes Papier, um die Haltbarkeit zu verlängern."
+          },
+          {
+            "question": "Sollte man das Blättergrün der Roten Bete wegwerfen oder kann man es essen?",
+            "answer": "Nicht wegwerfen! Rote-Bete-Blätter sind reich an Eisen, Kalzium und Vitamin A. Nach dem Abschneiden waschen und wie Spinat in Salaten, Pfannengerichten oder Suppen verwenden. Da Blätter schnell verderben, innerhalb von 1–2 Tagen verbrauchen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar beterraba fresca: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para a beterraba com base em diretrizes oficiais de segurança.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Você já comprou beterraba para sucos saudáveis ou saladas e descobriu que ela ficou murcha e esponjosa em poucos dias? A beterraba é uma raiz vibrante e um superalimento global usado desde a sopa borscht até sucos detox.\n\nContudo, deixar as folhas e talos anexados mantém uma **transpiração** contínua, puxando a água e os nutrientes armazenados na raiz em direção às folhas. Isso faz com que a polpa fique fibrosa e murcha. Além disso, a **betacianina**, o potente pigmento antioxidante hidrossolúvel que dá a cor vermelha, degrada-se facilmente com luz e calor.\n\nNeste guia, apresentamos um guia de conservação de beterraba em 3 etapas recomendado por especialistas em segurança alimentar. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca guarde beterrabas com as folhas e talos anexados ⚠️",
+            "desc": "As folhas superiores retiram água e açúcares da raiz continuamente. Se não cortar as folhas, a raiz fica esponjosa, murcha e fibrosa rapidamente."
+          },
+          {
+            "title": "Não lave antes de guardar nem corte a raiz principal muito rente 💧",
+            "desc": "Lavar introduz umidade que favorece o mofo. Cortar a raiz inferior muito rente ao bulbo cria feridas por onde escorrem a betacianina e os sucos. Apenas limpe a terra com uma escova seca."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Corte as folhas superiores deixando cerca de 2 cm de talo — Bloqueio de perda de umidade e nutrientes ✂️",
+            "text": "Parar a transpiração das folhas é o primeiro passo fundamental. 💡 Dica de conservação: Cortar os talos rente ao bulbo gera feridas que vazam o suco de betacianina. Deixe 2 cm de talo para selar as vias de perda de água."
+          },
+          {
+            "name": "Envolva em papel-toalha ou jornal e conserve a 0–4 °C — Refrigeração (3 a 4 semanas) ❄️",
+            "text": "Bloquear a luz evita a degradação da betacianina enquanto mantém a umidade ideal. 💡 Dica de conservação: Envolva a beterraba sem lavar em papel, coloque em um pote hermético ou saco Ziploc e guarde na gaveta de legumes (0–4 °C) de 3 a 4 semanas (sem cortar as folhas, dura apenas 5 dias)."
+          },
+          {
+            "name": "Cozinhe no vapor ou água, corte em cubos e congele — Congelamento (10 a 12 meses) 🧊",
+            "text": "Congelar a beterraba crua destrói as paredes celulares, deixando-a murcha ao descongelar. 💡 Dica de conservação: Cozinhe a beterraba inteira com casca, descasque, corte em cubos e guarde em sacos Ziploc no freezer (-18 °C) por 10 a 12 meses."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "O que devo fazer se o papel que envolve a beterraba ficar úmido?",
+            "answer": "A umidade liberada pela beterraba pode molhar o papel, o que favorece o mofo. Verifique periodicamente e troque o papel úmido por um seco para prolongar o tempo de conservação."
+          },
+          {
+            "question": "Devo jogar fora as folhas da beterraba ou elas podem ser comidas?",
+            "answer": "Não jogue fora! As folhas de beterraba são ricas em ferro, cálcio e vitamina A. Lave-as imediatamente após cortar e use como espinafre em saladas, refogados ou sopas. Consuma em 1 a 2 dias."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Bit (Beetroot) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk bit berdasarkan pedoman keselamatan resmi.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Pernahkah Anda membeli buah bit untuk jus sehat atau salad, lalu mendapati teksturnya menjadi keriput dan lembek hanya dalam beberapa hari? Bit adalah sayuran umbi berwarna merah cerah yang populer dari Sup Borscht Eropa Timur hingga jus detoks dunia.\n\nNamun, membiarkan daun dan batang atasnya tetap menempel memicu **transpirasi** berkelanjutan, yang menyedot cadangan air dan nutrisi dari umbi ke bagian atas. Hal ini membuat daging umbi menjadi berserat dan keras/lembek. Selain itu, **betasianin (Betacyanin)**, pigmen merah antioksidan larut air yang kuat, sangat mudah rusak akibat paparan cahaya dan panas.\n\nDalam panduan ini, kami membagikan panduan penyimpanan bit 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan pernah menyimpan bit dengan daun dan batang tetap menempel ⚠️",
+            "desc": "Daun atas terus menyedot air dan gula dari umbi. Jika Anda tidak memotong daunnya, umbi akan dengan cepat menjadi kempis, lembek, dan berserat."
+          },
+          {
+            "title": "Jangan dicuci sebelum disimpan atau memotong akar tunggang terlalu pendek 💧",
+            "desc": "Mencuci bit menyebabkan kelembapan yang memicu jamur. Memotong akar bawah terlalu pendek membuat luka yang menyebarkan pigmen betasianin dan sari umbi, mempercepat pembusukan. Bersihkan tanah dengan sikat kering saja."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Potong daun atas, sisakan batang sekitar 2 cm — Hentikan Kehilangan Air & Nutrisi ✂️",
+            "text": "Menghentikan transpirasi dari daun adalah langkah utama. 💡 Tips Penyimpanan: Memotong batang terlalu mepet membuat luka yang mengeluarkan sari betasianin. Sisakan batang sekitar 2 cm untuk menutup jalur kehilangan air dan nutrisi."
+          },
+          {
+            "name": "Bungkus dengan tisu dapur atau koran lalu simpan pada suhu 0–4°C — Simpan Dingin (3–4 Minggu) ❄️",
+            "text": "Menghalangi cahaya mencegah kerusakan betasianin sekaligus menjaga kelembapan yang tepat. 💡 Tips Penyimpanan: Bungkus bit yang belum dicuci dengan kertas untuk mengatur kelembapan, masukkan ke wadah kedap udara atau kantong Ziploc, lalu simpan di laci sayur kulkas (0–4°C). Bertahan 3–4 minggu jika daun dipotong (tanpa memotong daun hanya bertahan 5 hari)."
+          },
+          {
+            "name": "Kukus atau rebus, potong dadu, lalu bekukan — Simpan Freezer (10–12 Bulan) 🧊",
+            "text": "Membekukan bit mentah merusak dinding selnya, membuatnya sangat lembek saat dicairkan. 💡 Tips Penyimpanan: Kukus atau rebus bit utuh bersama kulitnya hingga matang, kupas kulitnya, potong dadu, lalu simpan dalam kantong Ziploc freezer (-18°C) hingga 10–12 bulan tanpa kehilangan nutrisi."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apa yang harus saya lakukan jika kertas pembungkus bit menjadi basah?",
+            "answer": "Kelembapan yang dikeluarkan bit dapat membasahi kertas pembungkus, memicu jamur. Periksa secara berkala dan ganti kertas basah dengan kertas kering yang baru untuk memperpanjang masa simpan."
+          },
+          {
+            "question": "Apakah daun bit harus dibuang atau bisa dimakan?",
+            "answer": "Jangan dibuang! Daun bit kaya akan zat besi, kalsium, dan vitamin A. Cuci bersih segera setelah dipotong dan olah seperti bayam untuk salad, tumisan, atau sup. Karena daun cepat membusuk, habisi dalam 1–2 hari."
+          }
+        ]
+      }
     }
+  }
 }

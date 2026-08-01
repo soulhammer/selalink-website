@@ -1,406 +1,406 @@
 {
-    "how-to-store-bok-choy": {
-        "ingId": "bok-choy",
-        "pubDate": "2026-04-08",
-        "updatedDate": "2026-04-08",
-        "heroImage": "/images/blog/bok_choy_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "청경채 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 청경채의 최적 보관 온도, 세포 팽창압 유지를 통한 시듦 방지 및 냉해 차단 가이드를 확인하세요.",
-                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "아삭한 식감과 깔끔한 맛으로 마라탕, 샤브샤브, 볶음 요리 등 전 세계 아시안 푸드에서 빠질 수 없는 대표 엽채류 청경채! 하지만 사온 지 며칠 지나지 않아 잎이 누렇게 시들고 줄기가 물러져 버린 경험 다들 있으시죠? 🥬\n\n청경채는 넓은 잎의 기공을 통한 증산 작용(Transpiration) 속도가 매우 빠른 채소입니다. 수분이 조금만 손실되어도 세포 팽창압(Turgor Pressure)이 급격히 떨어져 아삭함을 잃고 시듦 현상이 발생합니다. 또한 0°C 이하의 극저온에 노출되면 냉해(Chilling Injury)로 인해 세포막이 붕괴하고 짓물림이 일어납니다.\n\n이번 가이드에서는 농업 및 식품 안전 기관의 공인된 지침을 바탕으로, 청경채의 수분 손실을 막고 생육 방향을 유지하여 아삭함을 오래 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "보관 전 절대 물로 씻지 마세요 💧",
-                        "desc": "청경채 잎 사이에 물기가 남아있으면 수분 응축 현상이 발생하여 미생물과 세균이 급격히 증식하고 줄기가 물러집니다. 흙과 이물질은 마른 천으로 가볍게 털어내고, 세척은 조리 직전에 하세요."
-                    },
-                    {
-                        "title": "0°C 이하 얼음이나 성에에 직접 닿지 않게 주의하세요 ⚠️",
-                        "desc": "청경채는 추위에 약해 0°C 이하에 노출되면 세포막이 파괴되는 냉해(Chilling Injury)를 입습니다. 냉장고 안쪽 벽면이나 성에가 끼는 곳을 피하고, 1~4°C의 최적 온도를 유지해야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "씻지 않고 키친타월로 감싸기 — 수분 응축 및 증발 제어 📦",
-                        "text": "청경채 표면의 수분을 닦아내고 세척하지 않은 상태에서 키친타월로 감싸주세요. 💡 보관 팁: 키친타월이 잎에서 배어나오는 과도한 습기(수분 응축)는 흡수하고 수분 증발은 막아주어, 미생물 부패와 세포 팽창압 손실에 의한 시듦을 동시에 방지합니다."
-                    },
-                    {
-                        "name": "줄기 하단을 아래로 향하게 세워서 1~4℃ 냉장 보관하기 — 세워 보관하기 (1~2주) ❄️",
-                        "text": "청경채를 눕혀 보관하면 중력 작용으로 인해 다시 바로 서려는 생리 반응이 일어나 에너지 소모와 수분 손실이 가속화됩니다. 💡 보관 팁: 키친타월로 감싼 청경채를 비닐봉지나 밀폐 용기에 담고, 뿌리 줄기 부분이 아래로 향하도록 세워서 냉장고 야채실(1~4℃)에 보관하세요. 1~2주 동안 아삭함이 그대로 유지됩니다."
-                    },
-                    {
-                        "name": "살짝 데친 후 -18℃ 이하 장기 냉동 보관하기 — 데침(Blanching) 냉동 보관 (6~8개월) 🧊",
-                        "text": "청경채를 오랫동안 두고 먹으려면 데침(Blanching)을 통해 세포 파괴 효소를 불활성화해야 합니다. 💡 보관 팁: 끓는 물에 소금을 약간 넣고 20~30초간 살짝 데친 뒤 찬물에 헹궈 수분을 꼭 짜내세요. 한 번 먹을 분량씩 소분하여 지퍼백에 밀봉 후 냉동실(-18℃ 이하)에 보관하면 6~8개월간 국이나 볶음용으로 활용할 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "시들어서 힘이 없어진 청경채를 다시 아삭하게 살리는 방법이 있나요?",
-                        "answer": "세포 팽창압이 떨어져 시든 청경채는 밑동을 1cm 정도 잘라낸 뒤 찬물이나 얼음물에 식초 한 스푼, 설탕 한 스푼을 넣고 15~20분간 담가두면 삼투압 작용으로 세포 내로 수분이 재흡수되어 다시 아삭아삭하게 살아납니다."
-                    },
-                    {
-                        "question": "청경채 줄기 표면에 검은 작은 점(깨순 현상)이 생겼는데 먹어도 되나요?",
-                        "answer": "줄기에 생기는 작은 검은 점들은 '깨순 현상(Black Specks)'으로, 질소 자양분 과다 흡수나 재배 환경의 기온 변화로 발생하는 단순 생리 현상입니다. 곰팡이나 부패가 아니므로 영양과 맛에는 이상이 없으니 안심하고 드셔도 됩니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Bok Choy Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for bok choy based on official safety guidelines to prevent wilting and chilling injury.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Celebrated for its crisp texture and clean flavor, bok choy is an essential leafy green in Asian stir-fries, soups, and global cuisine! However, have you ever stored bok choy only to find its leaves yellowing and stalks turning mushy within days? 🥬\n\nBok choy has a very rapid transpiration rate through its broad leaf stomata. Even minimal moisture loss drastically drops turgor pressure, causing rapid wilting. Furthermore, exposing bok choy to freezing temperatures below 0°C causes chilling injury, collapsing cell membranes and causing water-soaking breakdown.\n\nIn this guide, we introduce a scientifically proven 3-step bok choy storage guide based on guidelines from agricultural and food safety authorities to prevent water loss, maintain vertical growth alignment, and keep it crisp. 🛡️",
-                "whyTitle": "Why Store Bok Choy This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never wash before storing 💧",
-                        "desc": "Trapped moisture between bok choy leaves leads to condensation, promoting rapid bacterial growth and stalk rot. Lightly brush off dry dirt and wash immediately before cooking."
-                    },
-                    {
-                        "title": "Protect from freezing temperatures below 0°C ⚠️",
-                        "desc": "Bok choy is cold-sensitive. Exposure to sub-zero temperatures damages cell membranes (chilling injury). Store away from freezer vents at optimal temperatures of 1–4°C."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Wrap unwashed bok choy in paper towels — Moisture Control 📦",
-                        "text": "Wipe away surface moisture and wrap the unwashed bok choy in paper towels. 💡 Storage Tip: Paper towels absorb exuded moisture to prevent bacterial decay while retaining enough humidity to maintain turgor pressure and prevent wilting."
-                    },
-                    {
-                        "name": "Store upright with stems facing down at 1–4°C — Vertical Refrigeration (1–2 Weeks) ❄️",
-                        "text": "Storing leafy greens horizontally triggers geotropic responses, causing them to expend energy and lose moisture while trying to bend upright. 💡 Storage Tip: Place wrapped bok choy upright with root stems down in a plastic bag or container in the crisper drawer (1–4°C / 34–39°F) to preserve crispness for 1 to 2 weeks."
-                    },
-                    {
-                        "name": "Blanch and freeze below -18°C — Freezer Storage (6–8 Months) 🧊",
-                        "text": "For long-term storage, blanching is required to deactivate cell-degrading enzymes. 💡 Storage Tip: Blanch in boiling salted water for 20–30 seconds, plunge into ice water, squeeze dry, seal in Ziploc bags, and store in the freezer (-18°C / 0°F) for 6 to 8 months."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "How can I revive wilted, limp bok choy?",
-                        "answer": "Trim 1 cm off the root base and submerge the bok choy in ice water mixed with 1 spoonful of sugar and 1 spoonful of vinegar for 15–20 minutes. Osmosis rehydrates the cells, restoring turgor pressure and crispness."
-                    },
-                    {
-                        "question": "Are tiny black specks on bok choy stalks safe to eat?",
-                        "answer": "Yes! Small black dots on stalks are known as 'peppering' or 'black specks.' This is a cosmetic physiological condition caused by high nitrogen absorption or temperature changes during growth. It is not mold or rot, and is completely safe to consume."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "チンゲンサイを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくチンゲンサイの最適な保存温度、細胞膨張圧の維持による shidare 防止、低温障害の遮断ガイドをご確認ください。",
-                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "シャキシャキした食感とクセのない味で、炒め物やスープ、鍋料理に欠かせない 代表的葉物野菜のチンゲンサイ！ですが、買ってきて数日経つと葉が黄色く萎れたり、茎がドロドロに溶けて捨ててしまった経験はありませんか？🥬\n\nチンゲンサイは広い葉の気孔を通じた蒸散作用（Transpiration）の速度が非常に早い野菜です。水分が少しでも失われると細胞膨張圧（Turgor Pressure）が急激に低下し、シャキシャキ感を失って萎れが発生します。また、0℃以下の極低温に露出されると低温障害（Chilling Injury）によって細胞膜が破壊され、軟化・腐敗を起こします。\n\n本記事では、農学および食品安全機関の公認ガイドラインに基づき、チンゲンサイの水分損失を防ぎ、生育方向を維持してシャキシャキ感を長く保つ3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "保存前に絶対に水洗いしないでください 💧",
-                        "desc": "チンゲンサイの葉の間に水分が残っていると水滴の結露が発生し、雑菌や細菌が急増して茎が傷みやすくなります。土や汚れは乾いた布で軽く払い落とし、洗うのは調理直前にしてください。"
-                    },
-                    {
-                        "title": "0℃以下の氷や霜に直接触れないよう注意してください ⚠️",
-                        "desc": "チンゲンサイは寒さに弱く、0℃以下に晒されると細胞膜が破壊される低温障害（Chilling Injury）を起こします。冷蔵庫の奥や冷気の吹き出し口を避け、1〜4℃の最適温度を維持してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "洗わずにキッチンペーパーで包む — 水分結露＆蒸発の制御 📦",
-                        "text": "チンゲンサイ表面の水分を拭き取り、洗わない状態でキッチンペーパーで包みます。💡保存のコツ：ペーパーが葉から染み出る余分な湿気を吸収し、水分の蒸発を防ぐため、雑菌繁殖と細胞膨張圧低下による萎れを同時に防ぎます。"
-                    },
-                    {
-                        "name": "茎を下にして立てて1〜4℃で冷蔵保存する — 立てて保存 (1〜2週間) ❄️",
-                        "text": "チンゲンサイを寝かせて保存すると、重力に逆らって起き上がろうとする生理反応が起こり、エネルギー消費と水分損失が加速します。💡保存のコツ：ペーパーで包んだチンゲンサイをポリ袋に入れ、根元の茎を下にして立てて冷蔵庫の野菜室（1〜4℃）で保存します。1〜2週間シャキシャキ感が保たれます。"
-                    },
-                    {
-                        "name": "サッとゆでて（ブランチング）-18℃以下で冷凍保存する — 冷凍保存 (6〜8ヶ月) 🧊",
-                        "text": "チンゲンサイを長期保存するには、下ゆで（ブランチング）して酵素の働きを止める必要があります。💡保存のコツ：沸騰したお湯に塩を少し入れ、20〜30秒間サッとゆでて冷水に晒し、水気をしっかり絞ります。1回分ずつラップしてジッパー袋に入れ、冷凍室（-18℃以下）で保管すれば6〜8ヶ月使用可能です。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "萎れてしなしなになったチンゲンサイを復活させる方法はありますか？",
-                        "answer": "細胞膨張圧が下がって萎れたチンゲンサイは、根元を1cmほど切り落とし、冷水または氷水に砂糖大さじ1と酢大さじ1を加えた液に15〜20分間浸しておくと、浸透圧作用で細胞内に水分が再吸収され、再びシャキシャキに蘇ります。"
-                    },
-                    {
-                        "question": "チンゲンサイの茎の表面に黒い小さな点ができていますが食べられますか？",
-                        "answer": "茎にできる黒い小さな点は「ゴマ症（Black Specks）」と呼ばれ、窒素成分の過剰吸収や栽培時の 天候の変化によって発生する生理現象です。カビや腐敗ではないため、栄養や味に問題はなく安心してお召し上がりいただけます。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持上海青（青梗菜/小油菜）新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解上海青（青梗菜）的最佳储存温度、通过维持细胞膨压防止萎蔫及避免冷害的科学方法。",
-                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "上海青（青梗菜/小油菜）凭其爽脆的口感和清爽的味道，是麻辣烫、火锅、炒菜等各类亚裔美食中不可或缺的代表性绿叶蔬菜！但您是否有过买回来没几天叶子就发黄萎蔫、菜茎发软变烂的经历？🥬\n\n上海青叶片宽大，通过气孔发生的蒸腾作用（Transpiration）速率极快。哪怕流失少量水分，细胞膨压（Turgor Pressure）也会急剧下降，导致失去爽脆度并迅速萎蔫。此外，若暴露于0°C以下的极低温环境中，会因冷害（Chilling Injury）导致细胞膜崩溃而水渍化腐烂。\n\n本指南基于权威农业与食品安全机构的指导方针，为您介绍3步科学上海青保存秘诀，防止水分流失并维持立向生长，长久锁住爽脆口感。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "储存前切勿用水清洗 💧",
-                        "desc": "若上海青叶片间滞留水分，极易产生冷凝水，导致细菌与微生物爆发式滋生，使菜茎发软变烂。干布擦去表面泥土即可，清洗请留到烹饪前进行。"
-                    },
-                    {
-                        "title": "切勿直接接触0°C以下的冰块或霜冻 ⚠️",
-                        "desc": "上海青不耐寒，暴露于0°C以下会导致细胞膜破坏的冷害（Chilling Injury）。应避开冰箱出风口，维持1~4°C的最佳储存温度。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "无需清洗，用厨房纸巾包裹 — 控湿防萎蔫 📦",
-                        "text": "拭干上海青表面水分，在未清洗状态下用厨房纸巾包裹。💡储存小贴士：厨房纸巾既能吸收叶片渗出的多余水分防止细菌腐烂，又能保持适当湿度防止水分蒸发和细胞膨压下降导致的萎蔫。"
-                    },
-                    {
-                        "name": "根部朝下竖直立放于1~4℃冷藏 — 竖立冷藏 (1~2周) ❄️",
-                        "text": "若平放上海青，在其向重性生理反应下菜株会试图弯曲向上生长，从而加速能量消耗与水分流失。💡储存小贴士：将包好的上海青根部朝下装入保鲜袋，竖立放入冰箱冷藏保鲜抽屉（1~4℃），可维持1~2周爽脆口感。"
-                    },
-                    {
-                        "name": "焯水后在-18℃以下长期冷冻 — 焯水（Blanching）冷冻 (6~8个月) 🧊",
-                        "text": "若要长期保存上海青，需通过焯水灭活破坏细胞结构降解酶。💡储存小贴士：放入加盐沸水中焯水20~30秒，捞出过冰水并挤干水分。分装密封后放入冷冻室（-18℃以下），可保存6~8个月用于煮汤或炒菜。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "萎蔫发软的上海青有什么方法能让它重新变得爽脆吗？",
-                        "answer": "因细胞膨压下降而萎蔫的上海青，可将根部切除1厘米，然后浸泡在加入1勺糖和1勺醋的冰水中15~20分钟。在渗透压作用下水分会重新吸入细胞内，使菜叶重新恢复爽脆挺拔。"
-                    },
-                    {
-                        "question": "上海青菜茎表面长了黑色细小斑点（小黑点），还能吃吗？",
-                        "answer": "菜茎上出现的黑色小斑点被称为“芝麻斑（Black Specks）”，是由于生长过程中氮肥吸收过多或气温变化引起的简单生理现象。这既不是发霉也不是腐烂，不影响营养与口感，可放心食用。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener el bok choy fresco: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para el bok choy según las directrices oficiales para evitar el marchitamiento y el daño por frío.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "¡Celebrado por su textura crujiente y sabor suave, el bok choy es una verdura de hoja verde esencial en salteados, sopas y la cocina internacional! Sin embargo, ¿alguna vez lo guardó solo para ver cómo sus hojas se ponían amarillas y sus tallos se ablandaban en pocos días? 🥬\n\nEl bok choy tiene una tasa de transpiración muy rápida a través de sus estomas. Incluso una mínima pérdida de humedad reduce drásticamente la presión de turgencia, provocando un rápido marchitamiento. Además, exponerlo a temperaturas bajo 0 °C causa daño por frío (chilling injury), colapsando las membranas celulares.\n\nEn esta guía se presenta una guía científica en 3 pasos respaldada por autoridades agrícolas para evitar la pérdida de agua, mantener la alineación vertical y conservar su frescura crujiente. 🛡️",
-                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-                "whyDesc": "Comprender las características únicas de cada ingrediente y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Nunca lo lave antes de guardarlo 💧",
-                        "desc": "La humedad atrapada entre las hojas genera condensación, favoreciendo el crecimiento bacteriano y la pudrición del tallo. Limpie el polvo seco y lávelo justo antes de cocinar."
-                    },
-                    {
-                        "title": "Protégelo de temperaturas bajo 0 °C ⚠️",
-                        "desc": "El bok choy es sensible al frío. La exposición a temperaturas de congelación destruye las membranas celulares (daño por frío). Guárdelo a temperaturas óptimas de 1 a 4 °C."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Envuelva el bok choy sin lavar en papel absorbente — Control de Humedad 📦",
-                        "text": "Seque la humedad superficial y envuelva el bok choy sin lavar en papel absorbente. 💡 Consejo de almacenamiento: El papel absorbe la humedad sobrante para evitar pudrición mientras retiene suficiente agua para mantener la presión de turgencia."
-                    },
-                    {
-                        "name": "Guarde en posición vertical a 1–4 °C — Refrigeración Vertical (1 a 2 semanas) ❄️",
-                        "text": "Guardar verduras de hoja horizontalmente activa respuestas geotrópicas, haciendo que gasten energía y pierdan agua intentando enderezarse. 💡 Consejo de almacenamiento: Coloque el bok choy erguido con los tallos hacia abajo en una bolsa o contenedor en el cajón de verduras (1–4 °C) de 1 a 2 semanas."
-                    },
-                    {
-                        "name": "Escalde y congele por debajo de -18 °C — Congelación (6 a 8 meses) 🧊",
-                        "text": "Para guardar a largo plazo, escaldarlo desactiva las enzimas degradativas. 💡 Consejo de almacenamiento: Escalde en agua hirviendo con sal durante 20–30 segundos, sumerja en agua helada, escurra bien y congele en bolsas Ziploc (-18 °C) de 6 a 8 meses."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Cómo puedo revivir un bok choy marchito y blando?",
-                        "answer": "Corte 1 cm de la base del tallo y sumerja el bok choy en agua helada con 1 cucharada de azúcar y 1 cucharada de vinagre durante 15–20 minutos. La ósmosis rehidrata las células, devolviéndole la firmeza crujiente."
-                    },
-                    {
-                        "question": "¿Es seguro comer las pequeñas pecas negras en los tallos del bok choy?",
-                        "answer": "¡Sí! Los pequeños puntos negros en los tallos son un fenómeno fisiológico inofensivo causado por la absorción de nitrógeno o cambios de temperatura durante el cultivo. No es moho ni pudrición, y es totalmente seguro comerlo."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver le bok choy frais : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le bok choy selon les directives officielles pour éviter le flétrissement et les dégâts dus au froid.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Célébré pour sa texture croquante et sa saveur douce, le bok choy est un légume feuille indispensable des sautés, potages et de la cuisine asiatique ! Cependant, vous est-il déjà arrivé de le conserver pour retrouver ses feuilles jaunies et ses tiges molles en quelques jours ? 🥬\n\nLe bok choy a un taux de transpiration très élevé par les stomates de ses feuilles. La moindre perte d'humidité chute brutalement sa pression de turgescence, provoquant son flétrissement. De plus, l'exposer à des températures négatives sous 0 °C entraîne des dégâts dus au froid (chilling injury).\n\nDans ce guide, nous vous proposons une méthode scientifique en 3 étapes pour éviter la perte d'eau, maintenir la verticalité et conserver sa fraîcheur croquante. 🛡️",
-                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne le lavez jamais avant le stockage 💧",
-                        "desc": "L'eau piégée entre les feuilles forme de la condensation, favorisant la prolifération bactérienne et le pourrissement des tiges. Essuyez la terre sèche et ne lavez qu'avant la cuisson."
-                    },
-                    {
-                        "title": "Protégez-le des températures de gel sous 0 °C ⚠️",
-                        "desc": "Le bok choy est sensible au gel. L'exposition à des températures inférieures à 0 °C détruit les membranes cellulaires (dégâts dus au froid). Conservez-le entre 1 et 4 °C."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Envelopper le bok choy non lavé dans du papier absorbant — Contrôle de l'Humidité 📦",
-                        "text": "Épongez l'humidité superficielle et enveloppez le bok choy non lavé dans du papier absorbant. 💡 Astuce de conservation : Le papier absorbe l'excès d'eau pour éviter la pourriture tout en retenant l'humidité nécessaire à la turgescence."
-                    },
-                    {
-                        "name": "Conserver verticalement tiges vers le bas à 1–4 °C — Stockage Vertical (1–2 semaines) ❄️",
-                        "text": "Conserver les légumes feuilles à plat déclenche une réaction géotropique qui dépense leur énergie pour se redresser. 💡 Astuce de conservation : Placez le bok choy debout, tiges vers le bas, dans un sachet ou bac à légumes (1–4 °C) pendant 1 à 2 semaines."
-                    },
-                    {
-                        "name": "Blanchir et congeler sous -18 °C — Congélation (6–8 mois) 🧊",
-                        "text": "Pour conserver le bok choy longtemps, le blanchiment désactive les enzymes d'altération. 💡 Astuce de conservation : Blanchissez dans l'eau bouillante salée 20 à 30 secondes, plongez dans l'eau glacée, égouttez bien et congelez (-18 °C) pendant 6 à 8 mois."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Comment rafraîchir un bok choy ramolli et flétri ?",
-                        "answer": "Coupez 1 cm de la base de la tige et plongez le bok choy dans de l'eau glacée additionnée d'une cuillère de sucre et d'une cuillère de vinaigre pendant 15 à 20 minutes. L'osmose réhydrate les cellules, restaurant sa turgescence croquante."
-                    },
-                    {
-                        "question": "Les petites taches noires sur les tiges de bok choy sont-elles consommables ?",
-                        "answer": "Oui ! Ces petits points noirs sur les tiges sont un phénomène physiologique inoffensif appelé 'poivrage' causé par l'absorption d'azote ou les variations de température. Ce n'est ni moisissure ni pourriture, et c'est parfaitement propre à la consommation."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Pak Choi richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Pak Choi basierend auf offiziellen Sicherheitsrichtlinien zum Schutz vor Welken und Kälteschäden.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Geschätzt für seinen knackigen Biss und milden Geschmack ist Pak Choi ein unverzichtbares Blattgemüse in Wokgerichten, Suppen und der asiatischen Küche! Doch haben Sie Pak Choi schon einmal gelagert und festgestellt, dass seine Blätter gelb und die Stiele weich wurden? 🥬\n\nPak Choi weist eine sehr hohe Transpirationsrate über die Blattporen auf. Bereits ein geringer Feuchtigkeitsverlust lässt den Turgordruck der Zellen drastisch sinken, was zum Welken führt. Zudem führen Temperaturen unter 0 °C zu Kälteschäden (Chilling Injury), die die Zellmembranen zerstören.\n\nIn diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritte-Lagerungsratgeber vor, um Wasserverlust zu verhindern und Knackigkeit zu bewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Vor der Lagerung niemals waschen 💧",
-                        "desc": "Zwischen den Blättern eingeschlossene Feuchtigkeit bildet Kondenswasser, was Bakterienwachstum und Stielfäule beschleunigt. Trockenen Schmutz nur abbürsten und erst vor dem Kochen waschen."
-                    },
-                    {
-                        "title": "Vor Frosttemperaturen unter 0 °C schützen ⚠️",
-                        "desc": "Pak Choi ist kälteempfindlich. Minusgrade zerstören die Zellmembranen (Kälteschaden). Lagern Sie ihn im optimalen Temperaturbereich von 1–4 °C."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Ungewaschenen Pak Choi in Küchenpapier wickeln — Feuchtigkeitskontrolle 📦",
-                        "text": "Trocknen Sie die Oberfläche ab und wickeln Sie den ungewaschenen Pak Choi in Küchenpapier ein. 💡 Lagerungstipp: Küchenpapier nimmt überschüssige Nässe auf, um Fäulnis zu vermeiden, hält aber genug Feuchtigkeit für den Turgordruck."
-                    },
-                    {
-                        "name": "Aufrecht mit dem Strunk nach unten bei 1–4 °C lagern — Aufrechte Lagerung (1–2 Wochen) ❄️",
-                        "text": "Das waagerechte Lagern von Blattgemüse löst Geotropismus aus – die Pflanze verbraucht Energie, um sich aufzurichten, und verliert Feuchtigkeit. 💡 Lagerungstipp: Lagern Sie den verpackten Pak Choi aufrecht im Gemüsefach (1–4 °C) für 1–2 Wochen."
-                    },
-                    {
-                        "name": "Blanchieren und unter -18 °C einfrieren — Gefrierlagerung (6–8 Monate) 🧊",
-                        "text": "Für die Langzeitlagerung ist Blanchieren erforderlich, um zellabbauende Enzyme zu deaktivieren. 💡 Lagerungstipp: In kochendem Salzwasser 20–30 Sekunden blanchieren, in Eiswasser abschrecken, ausdrücken und einfrieren (-18 °C)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Wie kann man welken Pak Choi wieder knackig machen?",
-                        "answer": "Schneiden Sie 1 cm vom Strunk ab und legen Sie den Pak Choi für 15–20 Minuten in Eiswasser mit 1 EL Zucker und 1 EL Essig. Osmose rehydriert die Zellen und stellt den Turgordruck wieder her."
-                    },
-                    {
-                        "question": "Sind kleine schwarze Punkte auf den Stielen von Pak Choi essbar?",
-                        "answer": "Ja! Die kleinen schwarzen Punkte sind ein harmloses physiologisches Phänomen (Gefäß-Spottings), das durch hohe Stickstoffaufnahme oder Temperaturschwankungen entsteht. Es ist kein Schimmel und völlig unbedenklich."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar bok choy fresco: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para o bok choy com base em diretrizes oficiais para evitar o murchamento e danos por frio.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Celebrado pela sua textura crocante e sabor suave, o bok choy é uma hortaliça essencial em refogados, sopas e na culinária internacional! No entanto, você já o guardou e percebeu que as folhas amarelaram e os talos amoleceram em poucos dias? 🥬\n\nO bok choy tem uma taxa de transpiração muito rápida através dos estômatos de suas folhas. Mesmo uma pequena perda de umidade reduz drasticamente a pressão de turgor, causando murchamento rápido. Além disso, expô-lo a temperaturas abaixo de 0 °C causa Danos por Frio (chilling injury).\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes oficiais para evitar a perda de água, manter o alinhamento vertical e preservar a crocância. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Compreender as características únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca lave antes de guardar 💧",
-                        "desc": "A umidade presa entre as folhas forma condensação, promovendo o crescimento bacteriano e o apodrecimento dos talos. Limpe a sujeira a seco e lave apenas antes de cozinhar."
-                    },
-                    {
-                        "title": "Proteja de temperaturas de congelamento abaixo de 0 °C ⚠️",
-                        "desc": "O bok choy é sensível ao frio. A exposição a temperaturas abaixo de zero destrói as membranas celulares (danos por frio). Guarde-o em temperaturas ideais de 1 a 4 °C."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Envolva o bok choy sem lavar em papel toalha — Controle de Umidade 📦",
-                        "text": "Seque a umidade superficial e envolva o bok choy sem lavar em papel toalha. 💡 Dica de conservação: O papel absorve o excesso de umidade para evitar a podridão enquanto retém a umidade necessária para manter a pressão de turgor."
-                    },
-                    {
-                        "name": "Guarde na posição vertical a 1–4 °C — Refrigeração Vertical (1 a 2 semanas) ❄️",
-                        "text": "Guardar hortaliças na horizontal ativa respostas geotrópicas, fazendo com que gastem energia e percam água tentando se endireitar. 💡 Dica de conservação: Coloque o bok choy em pé com os talos para baixo no gaveteiro de legumes (1–4 °C) por 1 a 2 semanas."
-                    },
-                    {
-                        "name": "Aferventar e congelar abaixo de -18 °C — Congelamento (6 a 8 meses) 🧊",
-                        "text": "Para guardar a longo prazo, aferventá-lo inativa as enzimas de degradação. 💡 Dica de conservação: Afervente em água fervente com sal por 20–30 segundos, mergulhe em água gelada, esprema bem e congele em sacos Ziploc (-18 °C) por 6 a 8 meses."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Como posso reavivar um bok choy murcho e mole?",
-                        "answer": "Corte 1 cm da base do talo e mergulhe o bok choy em água gelada com 1 colher de açúcar e 1 colher de vinagre por 15–20 minutos. A osmose reidrata as células, devolvendo a firmeza crocante."
-                    },
-                    {
-                        "question": "É seguro comer as pequenas manchas escuras nos talos do bok choy?",
-                        "answer": "Sim! Os pequenos pontos negros nos talos são um fenômeno fisiológico inofensivo provocado pela absorção de nitrogênio ou mudanças de temperatura durante o cultivo. Não é mofo nem podridão, e é totalmente seguro para consumo."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Sendok/Sawi Daging (Bok Choy) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk bok choy berdasarkan pedoman keselamatan resmi untuk mencegah pemuaian dan kerusakan akibat dingin.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Terkenal dengan tekstur renyah dan rasa yang segar, bok choy (sawi sendok) adalah sayuran hijau wajib dalam tumisan, sup, dan masakan internasional! Namun, pernahkah Anda menyimpannya lalu mendapati daunnya menguning dan batangnya melunak hanya dalam beberapa hari? 🥬\n\nBok choy memiliki laju transpirasi yang sangat cepat melalui stomata daunnya. Kehilangan sedikit kelembapan saja dapat menurunkan tekanan turgor sel secara drastis sehingga menyebabkan layu. Selain itu, paparan suhu di bawah 0°C memicu kerusakan dingin (chilling injury) yang merusak membran sel.\n\nDalam panduan ini, kami membagikan panduan penyimpanan bok choy 3 langkah berbasis ilmiah untuk mencegah kehilangan air dan menjaga tekstur renyahnya. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan pernah mencuci sebelum disimpan 💧",
-                        "desc": "Air yang terperangkap di antara daun membentuk embun, memicu pertumbuhan bakteri cepat dan pembusukan batang. Bersihkan tanah kering dan cucilah tepat sebelum dimasak."
-                    },
-                    {
-                        "title": "Lindungi dari suhu beku di bawah 0°C ⚠️",
-                        "desc": "Bok choy sensitif terhadap dingin. Paparan suhu di bawah nol merusak membran sel (chilling injury). Simpan pada suhu optimal 1–4°C."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Bungkus bok choy tanpa dicuci dengan tisu dapur — Kontrol Kelembapan 📦",
-                        "text": "Lap kelembapan permukaan dan bungkus bok choy tanpa dicuci dengan tisu dapur. 💡 Tips Penyimpanan: Tisu menyerap kelebihan air untuk mencegah pembusukan sekaligus menahan kelembapan untuk menjaga tekanan turgor sel."
-                    },
-                    {
-                        "name": "Simpan berdiri dengan batang menghadap ke bawah pada suhu 1–4°C — Simpan Berdiri (1–2 Minggu) ❄️",
-                        "text": "Menyimpan sayuran hijau secara mendatar memicu respons geotropis, membuatnya menghabiskan energi dan kehilangan air saat berusaha tumbuh tegak. 💡 Tips Penyimpanan: Simpan bok choy secara berdiri dengan pangkal batang di bawah dalam wadah di laci sayur (1–4°C) selama 1–2 minggu."
-                    },
-                    {
-                        "name": "Rebus sebentar (blanching) lalu bekukan di bawah -18°C — Pembekuan (6–8 Bulan) 🧊",
-                        "text": "Untuk penyimpanan jangka panjang, perebusan sebentar menghentikan enzim perusak sel. 💡 Tips Penyimpanan: Rebus dalam air garam mendidih selama 20–30 detik, bilas air es, peras hingga kering, lalu bekukan dalam kantong Ziploc (-18°C) selama 6–8 bulan."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Bagaimana cara menyegarkan kembali bok choy yang layu dan lemas?",
-                        "answer": "Potong 1 cm pangkal batangnya lalu rendam bok choy dalam air es yang dicampur 1 sendok makan gula dan 1 sendok makan cuka selama 15–20 menit. Proses osmosis akan merehidrasi sel, mengembalikan tekstur renyahnya."
-                    },
-                    {
-                        "question": "Apakah bintik-bintik hitam kecil pada batang bok choy aman dimakan?",
-                        "answer": "Ya! Bintik hitam kecil pada batang adalah kondisi fisiologis tidak berbahaya yang dikenal sebagai 'peppering' akibat penyerapan nitrogen atau perubahan suhu saat tumbuh. Ini bukan jamur atau pembusukan, dan sangat aman dikonsumsi."
-                    }
-                ]
-            }
-        }
+  "how-to-store-bok-choy": {
+    "ingId": "bok-choy",
+    "pubDate": "2026-04-08",
+    "updatedDate": "2026-04-08",
+    "heroImage": "/images/blog/bok_choy_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "청경채 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 청경채의 최적 보관 온도, 세포 팽창압 유지를 통한 시듦 방지 및 냉해 차단 가이드를 확인하세요.",
+        "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+        "intro": "아삭한 식감과 깔끔한 맛으로 마라탕, 샤브샤브, 볶음 요리 등 전 세계 아시안 푸드에서 빠질 수 없는 대표 엽채류 청경채! 하지만 사온 지 며칠 지나지 않아 잎이 누렇게 시들고 줄기가 물러져 버린 경험 다들 있으시죠? 🥬\n\n청경채는 넓은 잎의 기공을 통한 증산 작용(Transpiration) 속도가 매우 빠른 채소입니다. 수분이 조금만 손실되어도 세포 팽창압(Turgor Pressure)이 급격히 떨어져 아삭함을 잃고 시듦 현상이 발생합니다. 또한 0°C 이하의 극저온에 노출되면 냉해(Chilling Injury)로 인해 세포막이 붕괴하고 짓물림이 일어납니다.\n\n이번 가이드에서는 농업 및 식품 안전 기관의 공인된 지침을 바탕으로, 청경채의 수분 손실을 막고 생육 방향을 유지하여 아삭함을 오래 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "보관 전 절대 물로 씻지 마세요 💧",
+            "desc": "청경채 잎 사이에 물기가 남아있으면 수분 응축 현상이 발생하여 미생물과 세균이 급격히 증식하고 줄기가 물러집니다. 흙과 이물질은 마른 천으로 가볍게 털어내고, 세척은 조리 직전에 하세요."
+          },
+          {
+            "title": "0°C 이하 얼음이나 성에에 직접 닿지 않게 주의하세요 ⚠️",
+            "desc": "청경채는 추위에 약해 0°C 이하에 노출되면 세포막이 파괴되는 냉해(Chilling Injury)를 입습니다. 냉장고 안쪽 벽면이나 성에가 끼는 곳을 피하고, 1~4°C의 최적 온도를 유지해야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "씻지 않고 키친타월로 감싸기 — 수분 응축 및 증발 제어 📦",
+            "text": "청경채 표면의 수분을 닦아내고 세척하지 않은 상태에서 키친타월로 감싸주세요. 💡 보관 팁: 키친타월이 잎에서 배어나오는 과도한 습기(수분 응축)는 흡수하고 수분 증발은 막아주어, 미생물 부패와 세포 팽창압 손실에 의한 시듦을 동시에 방지합니다."
+          },
+          {
+            "name": "줄기 하단을 아래로 향하게 세워서 1~4℃ 냉장 보관하기 — 세워 보관하기 (1~2주) ❄️",
+            "text": "청경채를 눕혀 보관하면 중력 작용으로 인해 다시 바로 서려는 생리 반응이 일어나 에너지 소모와 수분 손실이 가속화됩니다. 💡 보관 팁: 키친타월로 감싼 청경채를 비닐봉지나 밀폐 용기에 담고, 뿌리 줄기 부분이 아래로 향하도록 세워서 냉장고 야채실(1~4℃)에 보관하세요. 1~2주 동안 아삭함이 그대로 유지됩니다."
+          },
+          {
+            "name": "살짝 데친 후 -18℃ 이하 장기 냉동 보관하기 — 데침(Blanching) 냉동 보관 (6~8개월) 🧊",
+            "text": "청경채를 오랫동안 두고 먹으려면 데침(Blanching)을 통해 세포 파괴 효소를 불활성화해야 합니다. 💡 보관 팁: 끓는 물에 소금을 약간 넣고 20~30초간 살짝 데친 뒤 찬물에 헹궈 수분을 꼭 짜내세요. 한 번 먹을 분량씩 소분하여 지퍼백에 밀봉 후 냉동실(-18℃ 이하)에 보관하면 6~8개월간 국이나 볶음용으로 활용할 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "시들어서 힘이 없어진 청경채를 다시 아삭하게 살리는 방법이 있나요?",
+            "answer": "세포 팽창압이 떨어져 시든 청경채는 밑동을 1cm 정도 잘라낸 뒤 찬물이나 얼음물에 식초 한 스푼, 설탕 한 스푼을 넣고 15~20분간 담가두면 삼투압 작용으로 세포 내로 수분이 재흡수되어 다시 아삭아삭하게 살아납니다."
+          },
+          {
+            "question": "청경채 줄기 표면에 검은 작은 점(깨순 현상)이 생겼는데 먹어도 되나요?",
+            "answer": "줄기에 생기는 작은 검은 점들은 '깨순 현상(Black Specks)'으로, 질소 자양분 과다 흡수나 재배 환경의 기온 변화로 발생하는 단순 생리 현상입니다. 곰팡이나 부패가 아니므로 영양과 맛에는 이상이 없으니 안심하고 드셔도 됩니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Bok Choy Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for bok choy based on official safety guidelines to prevent wilting and chilling injury.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Celebrated for its crisp texture and clean flavor, bok choy is an essential leafy green in Asian stir-fries, soups, and global cuisine! However, have you ever stored bok choy only to find its leaves yellowing and stalks turning mushy within days? 🥬\n\nBok choy has a very rapid transpiration rate through its broad leaf stomata. Even minimal moisture loss drastically drops turgor pressure, causing rapid wilting. Furthermore, exposing bok choy to freezing temperatures below 0°C causes chilling injury, collapsing cell membranes and causing water-soaking breakdown.\n\nIn this guide, we introduce a scientifically proven 3-step bok choy storage guide based on guidelines from agricultural and food safety authorities to prevent water loss, maintain vertical growth alignment, and keep it crisp. 🛡️",
+        "whyTitle": "Why Store Bok Choy This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never wash before storing 💧",
+            "desc": "Trapped moisture between bok choy leaves leads to condensation, promoting rapid bacterial growth and stalk rot. Lightly brush off dry dirt and wash immediately before cooking."
+          },
+          {
+            "title": "Protect from freezing temperatures below 0°C ⚠️",
+            "desc": "Bok choy is cold-sensitive. Exposure to sub-zero temperatures damages cell membranes (chilling injury). Store away from freezer vents at optimal temperatures of 1–4°C."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Wrap unwashed bok choy in paper towels — Moisture Control 📦",
+            "text": "Wipe away surface moisture and wrap the unwashed bok choy in paper towels. 💡 Storage Tip: Paper towels absorb exuded moisture to prevent bacterial decay while retaining enough humidity to maintain turgor pressure and prevent wilting."
+          },
+          {
+            "name": "Store upright with stems facing down at 1–4°C — Vertical Refrigeration (1–2 Weeks) ❄️",
+            "text": "Storing leafy greens horizontally triggers geotropic responses, causing them to expend energy and lose moisture while trying to bend upright. 💡 Storage Tip: Place wrapped bok choy upright with root stems down in a plastic bag or container in the crisper drawer (1–4°C / 34–39°F) to preserve crispness for 1 to 2 weeks."
+          },
+          {
+            "name": "Blanch and freeze below -18°C — Freezer Storage (6–8 Months) 🧊",
+            "text": "For long-term storage, blanching is required to deactivate cell-degrading enzymes. 💡 Storage Tip: Blanch in boiling salted water for 20–30 seconds, plunge into ice water, squeeze dry, seal in Ziploc bags, and store in the freezer (-18°C / 0°F) for 6 to 8 months."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "How can I revive wilted, limp bok choy?",
+            "answer": "Trim 1 cm off the root base and submerge the bok choy in ice water mixed with 1 spoonful of sugar and 1 spoonful of vinegar for 15–20 minutes. Osmosis rehydrates the cells, restoring turgor pressure and crispness."
+          },
+          {
+            "question": "Are tiny black specks on bok choy stalks safe to eat?",
+            "answer": "Yes! Small black dots on stalks are known as 'peppering' or 'black specks.' This is a cosmetic physiological condition caused by high nitrogen absorption or temperature changes during growth. It is not mold or rot, and is completely safe to consume."
+          }
+        ]
+      },
+      "ja": {
+        "title": "チンゲンサイを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくチンゲンサイの最適な保存温度、細胞膨張圧の維持による shidare 防止、低温障害の遮断ガイドをご確認ください。",
+        "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "シャキシャキした食感とクセのない味で、炒め物やスープ、鍋料理に欠かせない 代表的葉物野菜のチンゲンサイ！ですが、買ってきて数日経つと葉が黄色く萎れたり、茎がドロドロに溶けて捨ててしまった経験はありませんか？🥬\n\nチンゲンサイは広い葉の気孔を通じた蒸散作用（Transpiration）の速度が非常に早い野菜です。水分が少しでも失われると細胞膨張圧（Turgor Pressure）が急激に低下し、シャキシャキ感を失って萎れが発生します。また、0℃以下の極低温に露出されると低温障害（Chilling Injury）によって細胞膜が破壊され、軟化・腐敗を起こします。\n\n本記事では、農学および食品安全機関の公認ガイドラインに基づき、チンゲンサイの水分損失を防ぎ、生育方向を維持してシャキシャキ感を長く保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "保存前に絶対に水洗いしないでください 💧",
+            "desc": "チンゲンサイの葉の間に水分が残っていると水滴の結露が発生し、雑菌や細菌が急増して茎が傷みやすくなります。土や汚れは乾いた布で軽く払い落とし、洗うのは調理直前にしてください。"
+          },
+          {
+            "title": "0℃以下の氷や霜に直接触れないよう注意してください ⚠️",
+            "desc": "チンゲンサイは寒さに弱く、0℃以下に晒されると細胞膜が破壊される低温障害（Chilling Injury）を起こします。冷蔵庫の奥や冷気の吹き出し口を避け、1〜4℃の最適温度を維持してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "洗わずにキッチンペーパーで包む — 水分結露＆蒸発の制御 📦",
+            "text": "チンゲンサイ表面の水分を拭き取り、洗わない状態でキッチンペーパーで包みます。💡保存のコツ：ペーパーが葉から染み出る余分な湿気を吸収し、水分の蒸発を防ぐため、雑菌繁殖と細胞膨張圧低下による萎れを同時に防ぎます。"
+          },
+          {
+            "name": "茎を下にして立てて1〜4℃で冷蔵保存する — 立てて保存 (1〜2週間) ❄️",
+            "text": "チンゲンサイを寝かせて保存すると、重力に逆らって起き上がろうとする生理反応が起こり、エネルギー消費と水分損失が加速します。💡保存のコツ：ペーパーで包んだチンゲンサイをポリ袋に入れ、根元の茎を下にして立てて冷蔵庫の野菜室（1〜4℃）で保存します。1〜2週間シャキシャキ感が保たれます。"
+          },
+          {
+            "name": "サッとゆでて（ブランチング）-18℃以下で冷凍保存する — 冷凍保存 (6〜8ヶ月) 🧊",
+            "text": "チンゲンサイを長期保存するには、下ゆで（ブランチング）して酵素の働きを止める必要があります。💡保存のコツ：沸騰したお湯に塩を少し入れ、20〜30秒間サッとゆでて冷水に晒し、水気をしっかり絞ります。1回分ずつラップしてジッパー袋に入れ、冷凍室（-18℃以下）で保管すれば6〜8ヶ月使用可能です。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "萎れてしなしなになったチンゲンサイを復活させる方法はありますか？",
+            "answer": "細胞膨張圧が下がって萎れたチンゲンサイは、根元を1cmほど切り落とし、冷水または氷水に砂糖大さじ1と酢大さじ1を加えた液に15〜20分間浸しておくと、浸透圧作用で細胞内に水分が再吸収され、再びシャキシャキに蘇ります。"
+          },
+          {
+            "question": "チンゲンサイの茎の表面に黒い小さな点ができていますが食べられますか？",
+            "answer": "茎にできる黒い小さな点は「ゴマ症（Black Specks）」と呼ばれ、窒素成分の過剰吸収や栽培時の 天候の変化によって発生する生理現象です。カビや腐敗ではないため、栄養や味に問題はなく安心してお召し上がりいただけます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持上海青（青梗菜/小油菜）新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解上海青（青梗菜）的最佳储存温度、通过维持细胞膨压防止萎蔫及避免冷害的科学方法。",
+        "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "上海青（青梗菜/小油菜）凭其爽脆的口感和清爽的味道，是麻辣烫、火锅、炒菜等各类亚裔美食中不可或缺的代表性绿叶蔬菜！但您是否有过买回来没几天叶子就发黄萎蔫、菜茎发软变烂的经历？🥬\n\n上海青叶片宽大，通过气孔发生的蒸腾作用（Transpiration）速率极快。哪怕流失少量水分，细胞膨压（Turgor Pressure）也会急剧下降，导致失去爽脆度并迅速萎蔫。此外，若暴露于0°C以下的极低温环境中，会因冷害（Chilling Injury）导致细胞膜崩溃而水渍化腐烂。\n\n本指南基于权威农业与食品安全机构的指导方针，为您介绍3步科学上海青保存秘诀，防止水分流失并维持立向生长，长久锁住爽脆口感。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "储存前切勿用水清洗 💧",
+            "desc": "若上海青叶片间滞留水分，极易产生冷凝水，导致细菌与微生物爆发式滋生，使菜茎发软变烂。干布擦去表面泥土即可，清洗请留到烹饪前进行。"
+          },
+          {
+            "title": "切勿直接接触0°C以下的冰块或霜冻 ⚠️",
+            "desc": "上海青不耐寒，暴露于0°C以下会导致细胞膜破坏的冷害（Chilling Injury）。应避开冰箱出风口，维持1~4°C的最佳储存温度。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "无需清洗，用厨房纸巾包裹 — 控湿防萎蔫 📦",
+            "text": "拭干上海青表面水分，在未清洗状态下用厨房纸巾包裹。💡储存小贴士：厨房纸巾既能吸收叶片渗出的多余水分防止细菌腐烂，又能保持适当湿度防止水分蒸发和细胞膨压下降导致的萎蔫。"
+          },
+          {
+            "name": "根部朝下竖直立放于1~4℃冷藏 — 竖立冷藏 (1~2周) ❄️",
+            "text": "若平放上海青，在其向重性生理反应下菜株会试图弯曲向上生长，从而加速能量消耗与水分流失。💡储存小贴士：将包好的上海青根部朝下装入保鲜袋，竖立放入冰箱冷藏保鲜抽屉（1~4℃），可维持1~2周爽脆口感。"
+          },
+          {
+            "name": "焯水后在-18℃以下长期冷冻 — 焯水（Blanching）冷冻 (6~8个月) 🧊",
+            "text": "若要长期保存上海青，需通过焯水灭活破坏细胞结构降解酶。💡储存小贴士：放入加盐沸水中焯水20~30秒，捞出过冰水并挤干水分。分装密封后放入冷冻室（-18℃以下），可保存6~8个月用于煮汤或炒菜。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "萎蔫发软的上海青有什么方法能让它重新变得爽脆吗？",
+            "answer": "因细胞膨压下降而萎蔫的上海青，可将根部切除1厘米，然后浸泡在加入1勺糖和1勺醋的冰水中15~20分钟。在渗透压作用下水分会重新吸入细胞内，使菜叶重新恢复爽脆挺拔。"
+          },
+          {
+            "question": "上海青菜茎表面长了黑色细小斑点（小黑点），还能吃吗？",
+            "answer": "菜茎上出现的黑色小斑点被称为“芝麻斑（Black Specks）”，是由于生长过程中氮肥吸收过多或气温变化引起的简单生理现象。这既不是发霉也不是腐烂，不影响营养与口感，可放心食用。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener el bok choy fresco: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para el bok choy según las directrices oficiales para evitar el marchitamiento y el daño por frío.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "¡Celebrado por su textura crujiente y sabor suave, el bok choy es una verdura de hoja verde esencial en salteados, sopas y la cocina internacional! Sin embargo, ¿alguna vez lo guardó solo para ver cómo sus hojas se ponían amarillas y sus tallos se ablandaban en pocos días? 🥬\n\nEl bok choy tiene una tasa de transpiración muy rápida a través de sus estomas. Incluso una mínima pérdida de humedad reduce drásticamente la presión de turgencia, provocando un rápido marchitamiento. Además, exponerlo a temperaturas bajo 0 °C causa daño por frío (chilling injury), colapsando las membranas celulares.\n\nEn esta guía se presenta una guía científica en 3 pasos respaldada por autoridades agrícolas para evitar la pérdida de agua, mantener la alineación vertical y conservar su frescura crujiente. 🛡️",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características únicas de cada ingrediente y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Nunca lo lave antes de guardarlo 💧",
+            "desc": "La humedad atrapada entre las hojas genera condensación, favoreciendo el crecimiento bacteriano y la pudrición del tallo. Limpie el polvo seco y lávelo justo antes de cocinar."
+          },
+          {
+            "title": "Protégelo de temperaturas bajo 0 °C ⚠️",
+            "desc": "El bok choy es sensible al frío. La exposición a temperaturas de congelación destruye las membranas celulares (daño por frío). Guárdelo a temperaturas óptimas de 1 a 4 °C."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Envuelva el bok choy sin lavar en papel absorbente — Control de Humedad 📦",
+            "text": "Seque la humedad superficial y envuelva el bok choy sin lavar en papel absorbente. 💡 Consejo de almacenamiento: El papel absorbe la humedad sobrante para evitar pudrición mientras retiene suficiente agua para mantener la presión de turgencia."
+          },
+          {
+            "name": "Guarde en posición vertical a 1–4 °C — Refrigeración Vertical (1 a 2 semanas) ❄️",
+            "text": "Guardar verduras de hoja horizontalmente activa respuestas geotrópicas, haciendo que gasten energía y pierdan agua intentando enderezarse. 💡 Consejo de almacenamiento: Coloque el bok choy erguido con los tallos hacia abajo en una bolsa o contenedor en el cajón de verduras (1–4 °C) de 1 a 2 semanas."
+          },
+          {
+            "name": "Escalde y congele por debajo de -18 °C — Congelación (6 a 8 meses) 🧊",
+            "text": "Para guardar a largo plazo, escaldarlo desactiva las enzimas degradativas. 💡 Consejo de almacenamiento: Escalde en agua hirviendo con sal durante 20–30 segundos, sumerja en agua helada, escurra bien y congele en bolsas Ziploc (-18 °C) de 6 a 8 meses."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Cómo puedo revivir un bok choy marchito y blando?",
+            "answer": "Corte 1 cm de la base del tallo y sumerja el bok choy en agua helada con 1 cucharada de azúcar y 1 cucharada de vinagre durante 15–20 minutos. La ósmosis rehidrata las células, devolviéndole la firmeza crujiente."
+          },
+          {
+            "question": "¿Es seguro comer las pequeñas pecas negras en los tallos del bok choy?",
+            "answer": "¡Sí! Los pequeños puntos negros en los tallos son un fenómeno fisiológico inofensivo causado por la absorción de nitrógeno o cambios de temperatura durante el cultivo. No es moho ni pudrición, y es totalmente seguro comerlo."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver le bok choy frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le bok choy selon les directives officielles pour éviter le flétrissement et les dégâts dus au froid.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Célébré pour sa texture croquante et sa saveur douce, le bok choy est un légume feuille indispensable des sautés, potages et de la cuisine asiatique ! Cependant, vous est-il déjà arrivé de le conserver pour retrouver ses feuilles jaunies et ses tiges molles en quelques jours ? 🥬\n\nLe bok choy a un taux de transpiration très élevé par les stomates de ses feuilles. La moindre perte d'humidité chute brutalement sa pression de turgescence, provoquant son flétrissement. De plus, l'exposer à des températures négatives sous 0 °C entraîne des dégâts dus au froid (chilling injury).\n\nDans ce guide, nous vous proposons une méthode scientifique en 3 étapes pour éviter la perte d'eau, maintenir la verticalité et conserver sa fraîcheur croquante. 🛡️",
+        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne le lavez jamais avant le stockage 💧",
+            "desc": "L'eau piégée entre les feuilles forme de la condensation, favorisant la prolifération bactérienne et le pourrissement des tiges. Essuyez la terre sèche et ne lavez qu'avant la cuisson."
+          },
+          {
+            "title": "Protégez-le des températures de gel sous 0 °C ⚠️",
+            "desc": "Le bok choy est sensible au gel. L'exposition à des températures inférieures à 0 °C détruit les membranes cellulaires (dégâts dus au froid). Conservez-le entre 1 et 4 °C."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Envelopper le bok choy non lavé dans du papier absorbant — Contrôle de l'Humidité 📦",
+            "text": "Épongez l'humidité superficielle et enveloppez le bok choy non lavé dans du papier absorbant. 💡 Astuce de conservation : Le papier absorbe l'excès d'eau pour éviter la pourriture tout en retenant l'humidité nécessaire à la turgescence."
+          },
+          {
+            "name": "Conserver verticalement tiges vers le bas à 1–4 °C — Stockage Vertical (1–2 semaines) ❄️",
+            "text": "Conserver les légumes feuilles à plat déclenche une réaction géotropique qui dépense leur énergie pour se redresser. 💡 Astuce de conservation : Placez le bok choy debout, tiges vers le bas, dans un sachet ou bac à légumes (1–4 °C) pendant 1 à 2 semaines."
+          },
+          {
+            "name": "Blanchir et congeler sous -18 °C — Congélation (6–8 mois) 🧊",
+            "text": "Pour conserver le bok choy longtemps, le blanchiment désactive les enzymes d'altération. 💡 Astuce de conservation : Blanchissez dans l'eau bouillante salée 20 à 30 secondes, plongez dans l'eau glacée, égouttez bien et congelez (-18 °C) pendant 6 à 8 mois."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Comment rafraîchir un bok choy ramolli et flétri ?",
+            "answer": "Coupez 1 cm de la base de la tige et plongez le bok choy dans de l'eau glacée additionnée d'une cuillère de sucre et d'une cuillère de vinaigre pendant 15 à 20 minutes. L'osmose réhydrate les cellules, restaurant sa turgescence croquante."
+          },
+          {
+            "question": "Les petites taches noires sur les tiges de bok choy sont-elles consommables ?",
+            "answer": "Oui ! Ces petits points noirs sur les tiges sont un phénomène physiologique inoffensif appelé 'poivrage' causé par l'absorption d'azote ou les variations de température. Ce n'est ni moisissure ni pourriture, et c'est parfaitement propre à la consommation."
+          }
+        ]
+      },
+      "de": {
+        "title": "Pak Choi richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Pak Choi basierend auf offiziellen Sicherheitsrichtlinien zum Schutz vor Welken und Kälteschäden.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Geschätzt für seinen knackigen Biss und milden Geschmack ist Pak Choi ein unverzichtbares Blattgemüse in Wokgerichten, Suppen und der asiatischen Küche! Doch haben Sie Pak Choi schon einmal gelagert und festgestellt, dass seine Blätter gelb und die Stiele weich wurden? 🥬\n\nPak Choi weist eine sehr hohe Transpirationsrate über die Blattporen auf. Bereits ein geringer Feuchtigkeitsverlust lässt den Turgordruck der Zellen drastisch sinken, was zum Welken führt. Zudem führen Temperaturen unter 0 °C zu Kälteschäden (Chilling Injury), die die Zellmembranen zerstören.\n\nIn diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritte-Lagerungsratgeber vor, um Wasserverlust zu verhindern und Knackigkeit zu bewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Vor der Lagerung niemals waschen 💧",
+            "desc": "Zwischen den Blättern eingeschlossene Feuchtigkeit bildet Kondenswasser, was Bakterienwachstum und Stielfäule beschleunigt. Trockenen Schmutz nur abbürsten und erst vor dem Kochen waschen."
+          },
+          {
+            "title": "Vor Frosttemperaturen unter 0 °C schützen ⚠️",
+            "desc": "Pak Choi ist kälteempfindlich. Minusgrade zerstören die Zellmembranen (Kälteschaden). Lagern Sie ihn im optimalen Temperaturbereich von 1–4 °C."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Ungewaschenen Pak Choi in Küchenpapier wickeln — Feuchtigkeitskontrolle 📦",
+            "text": "Trocknen Sie die Oberfläche ab und wickeln Sie den ungewaschenen Pak Choi in Küchenpapier ein. 💡 Lagerungstipp: Küchenpapier nimmt überschüssige Nässe auf, um Fäulnis zu vermeiden, hält aber genug Feuchtigkeit für den Turgordruck."
+          },
+          {
+            "name": "Aufrecht mit dem Strunk nach unten bei 1–4 °C lagern — Aufrechte Lagerung (1–2 Wochen) ❄️",
+            "text": "Das waagerechte Lagern von Blattgemüse löst Geotropismus aus – die Pflanze verbraucht Energie, um sich aufzurichten, und verliert Feuchtigkeit. 💡 Lagerungstipp: Lagern Sie den verpackten Pak Choi aufrecht im Gemüsefach (1–4 °C) für 1–2 Wochen."
+          },
+          {
+            "name": "Blanchieren und unter -18 °C einfrieren — Gefrierlagerung (6–8 Monate) 🧊",
+            "text": "Für die Langzeitlagerung ist Blanchieren erforderlich, um zellabbauende Enzyme zu deaktivieren. 💡 Lagerungstipp: In kochendem Salzwasser 20–30 Sekunden blanchieren, in Eiswasser abschrecken, ausdrücken und einfrieren (-18 °C)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Wie kann man welken Pak Choi wieder knackig machen?",
+            "answer": "Schneiden Sie 1 cm vom Strunk ab und legen Sie den Pak Choi für 15–20 Minuten in Eiswasser mit 1 EL Zucker und 1 EL Essig. Osmose rehydriert die Zellen und stellt den Turgordruck wieder her."
+          },
+          {
+            "question": "Sind kleine schwarze Punkte auf den Stielen von Pak Choi essbar?",
+            "answer": "Ja! Die kleinen schwarzen Punkte sind ein harmloses physiologisches Phänomen (Gefäß-Spottings), das durch hohe Stickstoffaufnahme oder Temperaturschwankungen entsteht. Es ist kein Schimmel und völlig unbedenklich."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar bok choy fresco: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para o bok choy com base em diretrizes oficiais para evitar o murchamento e danos por frio.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Celebrado pela sua textura crocante e sabor suave, o bok choy é uma hortaliça essencial em refogados, sopas e na culinária internacional! No entanto, você já o guardou e percebeu que as folhas amarelaram e os talos amoleceram em poucos dias? 🥬\n\nO bok choy tem uma taxa de transpiração muito rápida através dos estômatos de suas folhas. Mesmo uma pequena perda de umidade reduz drasticamente a pressão de turgor, causando murchamento rápido. Além disso, expô-lo a temperaturas abaixo de 0 °C causa Danos por Frio (chilling injury).\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes oficiais para evitar a perda de água, manter o alinhamento vertical e preservar a crocância. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Compreender as características únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca lave antes de guardar 💧",
+            "desc": "A umidade presa entre as folhas forma condensação, promovendo o crescimento bacteriano e o apodrecimento dos talos. Limpe a sujeira a seco e lave apenas antes de cozinhar."
+          },
+          {
+            "title": "Proteja de temperaturas de congelamento abaixo de 0 °C ⚠️",
+            "desc": "O bok choy é sensível ao frio. A exposição a temperaturas abaixo de zero destrói as membranas celulares (danos por frio). Guarde-o em temperaturas ideais de 1 a 4 °C."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Envolva o bok choy sem lavar em papel toalha — Controle de Umidade 📦",
+            "text": "Seque a umidade superficial e envolva o bok choy sem lavar em papel toalha. 💡 Dica de conservação: O papel absorve o excesso de umidade para evitar a podridão enquanto retém a umidade necessária para manter a pressão de turgor."
+          },
+          {
+            "name": "Guarde na posição vertical a 1–4 °C — Refrigeração Vertical (1 a 2 semanas) ❄️",
+            "text": "Guardar hortaliças na horizontal ativa respostas geotrópicas, fazendo com que gastem energia e percam água tentando se endireitar. 💡 Dica de conservação: Coloque o bok choy em pé com os talos para baixo no gaveteiro de legumes (1–4 °C) por 1 a 2 semanas."
+          },
+          {
+            "name": "Aferventar e congelar abaixo de -18 °C — Congelamento (6 a 8 meses) 🧊",
+            "text": "Para guardar a longo prazo, aferventá-lo inativa as enzimas de degradação. 💡 Dica de conservação: Afervente em água fervente com sal por 20–30 segundos, mergulhe em água gelada, esprema bem e congele em sacos Ziploc (-18 °C) por 6 a 8 meses."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Como posso reavivar um bok choy murcho e mole?",
+            "answer": "Corte 1 cm da base do talo e mergulhe o bok choy em água gelada com 1 colher de açúcar e 1 colher de vinagre por 15–20 minutos. A osmose reidrata as células, devolvendo a firmeza crocante."
+          },
+          {
+            "question": "É seguro comer as pequenas manchas escuras nos talos do bok choy?",
+            "answer": "Sim! Os pequenos pontos negros nos talos são um fenômeno fisiológico inofensivo provocado pela absorção de nitrogênio ou mudanças de temperatura durante o cultivo. Não é mofo nem podridão, e é totalmente seguro para consumo."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Sendok/Sawi Daging (Bok Choy) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk bok choy berdasarkan pedoman keselamatan resmi untuk mencegah pemuaian dan kerusakan akibat dingin.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Terkenal dengan tekstur renyah dan rasa yang segar, bok choy (sawi sendok) adalah sayuran hijau wajib dalam tumisan, sup, dan masakan internasional! Namun, pernahkah Anda menyimpannya lalu mendapati daunnya menguning dan batangnya melunak hanya dalam beberapa hari? 🥬\n\nBok choy memiliki laju transpirasi yang sangat cepat melalui stomata daunnya. Kehilangan sedikit kelembapan saja dapat menurunkan tekanan turgor sel secara drastis sehingga menyebabkan layu. Selain itu, paparan suhu di bawah 0°C memicu kerusakan dingin (chilling injury) yang merusak membran sel.\n\nDalam panduan ini, kami membagikan panduan penyimpanan bok choy 3 langkah berbasis ilmiah untuk mencegah kehilangan air dan menjaga tekstur renyahnya. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan pernah mencuci sebelum disimpan 💧",
+            "desc": "Air yang terperangkap di antara daun membentuk embun, memicu pertumbuhan bakteri cepat dan pembusukan batang. Bersihkan tanah kering dan cucilah tepat sebelum dimasak."
+          },
+          {
+            "title": "Lindungi dari suhu beku di bawah 0°C ⚠️",
+            "desc": "Bok choy sensitif terhadap dingin. Paparan suhu di bawah nol merusak membran sel (chilling injury). Simpan pada suhu optimal 1–4°C."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Bungkus bok choy tanpa dicuci dengan tisu dapur — Kontrol Kelembapan 📦",
+            "text": "Lap kelembapan permukaan dan bungkus bok choy tanpa dicuci dengan tisu dapur. 💡 Tips Penyimpanan: Tisu menyerap kelebihan air untuk mencegah pembusukan sekaligus menahan kelembapan untuk menjaga tekanan turgor sel."
+          },
+          {
+            "name": "Simpan berdiri dengan batang menghadap ke bawah pada suhu 1–4°C — Simpan Berdiri (1–2 Minggu) ❄️",
+            "text": "Menyimpan sayuran hijau secara mendatar memicu respons geotropis, membuatnya menghabiskan energi dan kehilangan air saat berusaha tumbuh tegak. 💡 Tips Penyimpanan: Simpan bok choy secara berdiri dengan pangkal batang di bawah dalam wadah di laci sayur (1–4°C) selama 1–2 minggu."
+          },
+          {
+            "name": "Rebus sebentar (blanching) lalu bekukan di bawah -18°C — Pembekuan (6–8 Bulan) 🧊",
+            "text": "Untuk penyimpanan jangka panjang, perebusan sebentar menghentikan enzim perusak sel. 💡 Tips Penyimpanan: Rebus dalam air garam mendidih selama 20–30 detik, bilas air es, peras hingga kering, lalu bekukan dalam kantong Ziploc (-18°C) selama 6–8 bulan."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Bagaimana cara menyegarkan kembali bok choy yang layu dan lemas?",
+            "answer": "Potong 1 cm pangkal batangnya lalu rendam bok choy dalam air es yang dicampur 1 sendok makan gula dan 1 sendok makan cuka selama 15–20 menit. Proses osmosis akan merehidrasi sel, mengembalikan tekstur renyahnya."
+          },
+          {
+            "question": "Apakah bintik-bintik hitam kecil pada batang bok choy aman dimakan?",
+            "answer": "Ya! Bintik hitam kecil pada batang adalah kondisi fisiologis tidak berbahaya yang dikenal sebagai 'peppering' akibat penyerapan nitrogen atau perubahan suhu saat tumbuh. Ini bukan jamur atau pembusukan, dan sangat aman dikonsumsi."
+          }
+        ]
+      }
     }
+  }
 }

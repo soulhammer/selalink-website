@@ -1,406 +1,406 @@
 {
-    "how-to-store-raspberry": {
-        "ingId": "raspberry",
-        "pubDate": "2026-02-03",
-        "updatedDate": "2026-02-03",
-        "heroImage": "/images/blog/raspberry_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "라즈베리 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 라즈베리의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
-                "intro": "새콤달콤하고 예쁜 라즈베리를 사 왔는데, 냉장고에 넣은 지 얼마 되지도 않아 곰팡이가 피거나 짓물러서 버린 적 있으시죠? 🍓\n\n라즈베리는 전 세계인의 아침 식단과 디저트에 자주 쓰이는 대표 베리류지만, 과피(Skin)가 매우 얇고 속이 뚫린 중공 구조를 가지고 있어 베리류 중 호흡률(Respiration Rate)이 극도로 높고 부패 속도가 매우 빠릅니다. 특히 물에 닿는 순간 표면 수분 활성도(Aw)가 1.0에 가까워지면서 회색곰팡이균(Botrytis cinerea) 포자가 세포 벽을 파괴하고 급격히 증식합니다.\n\n이번 가이드에서는 국제 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 라즈베리 신선도 유지 3단계 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적·물리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "구매 즉시 절대 물로 씻지 마세요 💧",
-                        "desc": "라즈베리를 보관 전에 씻으면 표면 수분 활성도(Aw)가 1.0에 도달하여 잠복해 있던 회색곰팡이균 포자가 세포 벽을 분해하고 수시간 내에 조직을 파괴합니다. 물 세척은 반드시 먹기 직전에 하셔야 합니다."
-                    },
-                    {
-                        "title": "짓눌리거나 무른 라즈베리는 즉시 격리하세요 ⚠️",
-                        "desc": "과피가 부서지거나 상처 난 라즈베리는 진액을 흘리며 주변의 멀쩡한 라즈베리까지 빠르게 부패시킵니다. 구매 직후 무르거나 상처 난 알맹이는 즉시 골라내어 따로 먼저 드셔야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "씻지 않은 상태로 키친타월 위에 단층으로 펼치기 — 수분 흡수 및 짓눌림 방지 🧻",
-                        "text": "라즈베리는 서로 겹쳐 쌓이면 자체 무게와 습기로 인해 아래쪽 과육이 무르고 곰팡이가 피기 쉽습니다. 💡 보관 팁: 밀폐 용기 바닥에 키친타월을 깔아 수분을 흡수하게 하고, 물에 씻지 않은 라즈베리를 겹치지 않게 단층으로 배열하여 뚜껑을 닫아주세요."
-                    },
-                    {
-                        "name": "0~2℃ 극저온 냉장 보관하기 — 냉장 보관 (2~3일) ❄️",
-                        "text": "라즈베리는 호흡률이 높아 온도가 조금만 높아도 스스로 에너지를 소비하며 급격히 시듭니다. 💡 보관 팁: 0~2℃의 가장 서늘한 냉장실 신선실이나 야채칸에 보관해 주세요. 올바르게 냉장 보관하면 2~3일간 신선도를 유지할 수 있습니다. (※ 세척 후 수분 방치 시 보관 기한은 1일로 단축됩니다.)"
-                    },
-                    {
-                        "name": "급속 냉동 보관하기 — 냉동 보관 (10~12개월) 🧊",
-                        "text": "라즈베리는 생과 상태의 보관 기한이 매우 짧으므로 3일 이내에 소비하기 힘들다면 냉동 보관이 필수입니다. 💡 보관 팁: 라즈베리를 물에 살짝 씻은 후 키친타월로 물기를 완벽히 제거하고, 쟁반에 겹치지 않게 펼쳐 1차 냉동한 뒤 단단해지면 지퍼백에 담아 냉동실(-18℃ 이하)에 보관하세요. 스무디나 디저트용으로 10~12개월간 활용 가능합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "라즈베리를 미리 씻어서 보관하면 안 되는 이유가 무엇인가요?",
-                        "answer": "라즈베리는 속이 비어 있는 중공 구조라 물을 쉽게 머금으며, 과피가 얇아 물이 닿으면 표면 수분 활성도(Aw)가 1.0에 가까워집니다. 이로 인해 잠복 중인 회색곰팡이균(Botrytis cinerea) 포자가 활성화되어 세포 벽을 파괴하고 수시간 내에 과육을 녹여 부패시키기 때문입니다."
-                    },
-                    {
-                        "question": "냉동 라즈베리를 해동할 때 녹아서 형태가 무너지는데 어떻게 해야 하나요?",
-                        "answer": "라즈베리는 세포벽이 약해 해동 시 조직이 파괴되고 수분이 빠져나와 형태가 무너집니다. 따라서 완전히 해동하지 않고 냉동 상태 그대로 스무디, 요거트 토핑, 베이킹 등에 바로 사용하는 것이 가장 좋습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Raspberries Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for raspberries based on official safety guidelines.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Have you ever bought beautiful, sweet raspberries only to find them moldy or mushy just a couple of days after putting them in the fridge? 🍓\n\nRaspberries are a staple berry for breakfasts and desserts worldwide, but because of their very thin skin and hollow core, they have an extremely high respiration rate and spoil faster than almost any other fruit. Washing them increases surface water activity (Aw) close to 1.0, causing latent grey mold (*Botrytis cinerea*) spores to break down cell walls and rapidly proliferate within hours.\n\nIn this guide, we introduce a scientifically proven 3-step raspberry storage guide recommended by agriculture and food safety experts to maximize freshness. 🛡️",
-                "whyTitle": "Why Store Raspberries This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological and physical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and food safety.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never wash raspberries immediately upon purchase 💧",
-                        "desc": "Washing raspberries prior to storage pushes surface water activity (Aw) close to 1.0. This activates latent *Botrytis cinerea* (grey mold) spores, which break down cell walls and ruin the fruit within hours. Wash them only right before eating."
-                    },
-                    {
-                        "title": "Isolate bruised or damaged berries immediately ⚠️",
-                        "desc": "Crushed or leaking raspberries release juices that rapidly spread mold and decay to neighboring berries. Sort through your berries upon purchase and immediately consume or discard any damaged ones."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Arrange unwashed berries in a single layer on paper towels — Moisture Control & Cushioning 🧻",
-                        "text": "Stacking raspberries causes the bottom layers to crush under their own weight, trapping moisture and encouraging mold. 💡 Storage Tip: Line an airtight container with a paper towel to absorb ambient humidity, and place unwashed raspberries in a single layer without overlapping before sealing."
-                    },
-                    {
-                        "name": "Refrigerate at ultra-low temperature (0–2°C / 32–35°F) — Cold Storage (2–3 Days) ❄️",
-                        "text": "Due to their high respiration rate, raspberries rapidly deteriorate and lose energy even at slightly elevated temperatures. 💡 Storage Tip: Store in the coldest part of your fridge (crisper drawer or dedicated chill zone) at 0–2°C. Proper cold storage keeps them fresh for 2–3 days (washed berries left wet last only 1 day)."
-                    },
-                    {
-                        "name": "Flash-freeze for long-term storage — Freezer Storage (10–12 Months) 🧊",
-                        "text": "Since fresh raspberries have a very short shelf life, freezing is essential if you cannot finish them within 3 days. 💡 Storage Tip: Gently rinse raspberries, dry them completely with paper towels, flash-freeze in a single layer on a tray, then transfer to freezer Ziploc bags (-18°C / 0°F). Great for smoothies and desserts for 10–12 months."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why shouldn't raspberries be washed before storage?",
-                        "answer": "Raspberries have a hollow center that easily traps water and a delicate skin. Washing them raises the surface water activity (Aw) to nearly 1.0, which triggers latent *Botrytis cinerea* (grey mold) spores to germinate, dissolving cell walls and rotting the berry within hours."
-                    },
-                    {
-                        "question": "Why do frozen raspberries collapse when thawed, and how should I use them?",
-                        "answer": "Raspberries have fragile cell walls that rupture during freezing; upon thawing, cell sap leaks out, making them mushy. It is best to use frozen raspberries directly without thawing in smoothies, yogurt toppings, or baking recipes."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ラズベリーを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくラズベリーの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
-                "intro": "甘酸っぱくて見た目も可愛いラズベリーを買ってきたものの、冷蔵庫に入れて数日もしないうちにカビが生えたり傷んで捨ててしまった経験はありませんか？🍓\n\nラズベリーは世界中の朝食やスイーツに欠かせない人気のベリー類ですが、果皮（Skin）が非常に薄く、中心が空洞の中空構造をしているため、ベリー類の中でも呼吸率（Respiration Rate）が極めて高く、急速に傷みやすい特徴があります。特に水に濡れると表面の水分活性度（水分活性 (Aw)）が1.0に近づき、潜伏していた灰色カビ病菌（Botrytis cinerea）の胞子が細胞壁を破壊して数時間で急激に繁殖します。\n\n本記事では、農学および食品安全の専門家が推奨する、ラズベリーの鮮度を保つ3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？ 科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的・物理的特性を理解し、それに応じた正しい保存方法を visual 適用することは 鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "購入直後に絶対に水洗いしないでください 💧",
-                        "desc": "保存前にラズベリーを洗うと、表面の水分活性度（水分活性 (Aw)）が1.0に達し、潜伏していた灰色カビ病菌の胞子が細胞壁を分解して数時間で組織を破壊します。水洗いは必ず食べる直前に行ってください。"
-                    },
-                    {
-                        "title": "潰れたり傷んだラズベリーはすぐに取り除いてください ⚠️",
-                        "desc": "果皮が潰れたり傷のあるラズベリーは果汁を漏らし、周囲の正常なラズベリーまで急速に腐敗させます。購入直後に柔らかくなっているものや傷のある粒はすぐに選別し、優先的にお召し上がりください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "洗わずにキッチンペーパーの上に重ならないよう1段（Single Layer）で並べる — 水分吸収＆潰れ防止 🧻",
-                        "text": "ラズベリーを重ねて保管すると、自重と湿気により下の果肉が潰れてカビが発生しやすくなります。💡保存のコツ：密閉容器の底にキッチンペーパーを敷いて湿気を吸収させ、洗っていないラズベリーを重ならないように1段で並べてフタを閉めてください。"
-                    },
-                    {
-                        "name": "0〜2℃の極低温で冷蔵保存する — 冷蔵保存 (2〜3日間) ❄️",
-                        "text": "ラズベリーは呼吸率が高いため、温度が少し上がるだけでも自らエネルギーを消費して急速に傷みます。💡保存のコツ：0〜2℃の最も涼しいチルド室や野菜室で保存してください。正しく冷蔵保存すれば2〜3日間新鮮さを維持できます。（※洗った後に水気が残っていると保存期間は1日に短縮します。）"
-                    },
-                    {
-                        "name": "急速冷凍保存する — 冷凍保存 (10〜12ヶ月間) 🧊",
-                        "text": "生のラズベリーは保存期間が非常に短いため、3日以内に使い切れない場合は冷凍保存が必須です。💡保存のコツ：水で優しく洗い、キッチンペーパーで水分を完全に拭き取った後、トレイに重ならないよう並べて一次冷凍します。固まったらチャック付き袋に移して冷凍室（-18℃以下）で保管してください。スムージーや製菓用に10〜12ヶ月間使用可能です。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "ラズベリーをあらかじめ洗って保存してはいけない理由は何ですか？",
-                        "answer": "ラズベリーは内部が空洞構造のため水を含みやすく、果皮が薄いため水に触れると表面の水分活性度（水分活性 (Aw)）が1.0に近づきます。これにより潜伏中の灰色カビ病菌（Botrytis cinerea）の胞子が活性化し、細胞壁を破壊して数時間で果肉を溶かして腐敗させるためです。"
-                    },
-                    {
-                        "question": "冷凍ラズベリーを解凍するとドロドロに崩れてしまいますが、どうすればよいですか？",
-                        "answer": "ラズベリーは細胞壁が弱いため、解凍時に組織が破壊されて水分が抜け、形が崩れてしまいます。そのため完全解凍はせず、冷凍状態のままスムージー、ヨーグルトのトッピング、お菓子作りなどに直接使用するのがベストです。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持树莓（覆盆子）新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解树莓的最佳储存温度、方式及保鲜时长。",
-                "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "您是否买回酸甜美观的树莓（覆盆子），却发现刚放入冰箱没两天就发霉变软、不得不丢弃？🍓\n\n树莓是全球早餐和甜点中不可或缺的代表性浆果，但由于其果皮（Skin）极薄且内部呈空心结构，在浆果类中呼吸率（Respiration Rate）极高，腐败速度飞快。特别是清洗时，表面水分活性（水活性 (Aw)）会接近1.0，导致潜伏的灰霉菌（Botrytis cinerea）孢子在数小时内破坏细胞壁并急速繁殖。\n\n本指南基于农业及食品安全专家的建议，为您带来3步科学树莓保鲜秘诀，延长这娇嫩浆果的新鲜度。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理与物理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "购买后切勿立即用水清洗 💧",
-                        "desc": "在储存前清洗树莓会导致表面水分活性（水活性 (Aw)）达到1.0，使潜伏的灰霉菌孢子分解细胞壁，在数小时内破坏果肉组织。务必在食用前才进行清洗。"
-                    },
-                    {
-                        "title": "请立即挑出压伤或变软的树莓 ⚠️",
-                        "desc": "破损或压伤的树莓会渗出汁液，迅速导致周围原本完好的树莓腐烂。购买后应立即筛选，将压伤的果实挑出优先食用。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "保持干燥，在厨房纸巾上单层（Single Layer）铺开 — 吸收湿气与防压 🧻",
-                        "text": "树莓若堆叠存放，底层的果肉会因自身重量和积聚的湿气而变软发霉。💡储存小贴士：在密封盒底部铺上厨房纸巾以吸收水分，将未清洗的树莓单层平铺、互不重叠，然后盖紧盒盖。"
-                    },
-                    {
-                        "name": "0~2℃ 极低温冷藏 — 冷藏保存 (2~3天) ❄️",
-                        "text": "树莓呼吸率极高，温度稍微升高就会快速消耗自身能量而萎蔫。💡储存小贴士：请存放在0~2℃的冰箱最冷区域（冰鲜抽屉或蔬菜保鲜室）。正确冷藏可保鲜2~3天。（※若清洗后带水冷藏，保鲜期将缩短至1天。）"
-                    },
-                    {
-                        "name": "急速冷冻储存 — 冷冻保存 (10~12个月) 🧊",
-                        "text": "鲜树莓的保鲜期极短，若无法在3天内吃完，冷冻是最佳选择。💡储存小贴士：用清水轻轻冲洗树莓后用纸巾彻底吸干水分，平铺在盘中预冻变硬，再装入拉链袋放入冷冻室（-18℃以下）。适用于制作果昔或甜点，可保存10~12个月。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "为什么树莓不能提前清洗后保存？",
-                        "answer": "树莓中心呈空心结构，极易积水，且果皮娇嫩，遇水后表面水分活性（水活性 (Aw)）会接近1.0。这会激活潜伏的灰霉菌（Botrytis cinerea）孢子萌发，分解细胞壁并在数小时内导致果肉腐烂。"
-                    },
-                    {
-                        "question": "冷冻树莓解冻时会发软变形，应该如何食用？",
-                        "answer": "树莓细胞壁脆弱，解冻时细胞液外流会导致形态塌陷。因此无需解冻，直接将冷冻树莓用于制作果昔、酸奶配料或烘焙材料效果最佳。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener las frambuesas frescas: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para las frambuesas según las directrices oficiales de seguridad.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "¿Alguna vez compró hermosas frambuesas y descubrió que tenían moho o estaban pochas a los dos días de meterlas al refrigerador? 🍓\n\nLas frambuesas son un fruto rojo esencial en desayunos y postres de todo el mundo. Sin embargo, debido a su piel extremadamente fina y su estructura hueca, tienen una tasa de respiración (Respiration Rate) altísima y se deterioran más rápido que casi cualquier otra fruta. Lavarlas eleva la actividad de agua en superficie (actividad de agua (Aw)) cerca de 1.0, lo que hace que las esporas de moho gris (*Botrytis cinerea*) destruyan las paredes celulares y se multipliquen en horas.\n\nEn esta guía se presenta una guía de conservación de frambuesas en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria. 🛡️",
-                "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas y físicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Nunca lave las frambuesas justo después de comprarlas 💧",
-                        "desc": "Lavar las frambuesas antes de guardarlas eleva la actividad de agua en superficie (actividad de agua (Aw)) a casi 1.0. Esto activa las esporas de *Botrytis cinerea* (moho gris), que descomponen las paredes celulares y echan a perder el fruto en pocas horas. Lávelas solo justo antes de comer."
-                    },
-                    {
-                        "title": "Aísle de inmediato las frambuesas aplastadas o dañadas ⚠️",
-                        "desc": "Las frambuesas aplastadas sueltan jugos que propagan rápidamente el moho al resto del recipiente. Revise las frambuesas al comprarlas y consuma o retire de inmediato las que estén dañadas."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Coloque las frambuesas secas en una sola capa (Single Layer) sobre papel de cocina — Absorción de humedad y protección 🧻",
-                        "text": "Apilar frambuesas hace que el peso aplaste las capas inferiores, atrapando humedad y favoreciendo el moho. 💡 Consejo de almacenamiento: Cubra el fondo de un recipiente hermético con papel de cocina para absorber la humedad y coloque las frambuesas sin lavar en una sola capa sin superponerlas."
-                    },
-                    {
-                        "name": "Refrigere a temperatura muy baja (0 a 2 °C) — Almacenamiento refrigerado (2 a 3 días) ❄️",
-                        "text": "Debido a su alta tasa de respiración, las frambuesas pierden energía y se marchitan rápido incluso a temperaturas ligeramente elevadas. 💡 Consejo de almacenamiento: Guarde en la zona más fría del refrigerador (0 a 2 °C). Un almacenamiento adecuado las mantiene frescas durante 2–3 días (si se lavan y guardan húmedas, duran solo 1 día)."
-                    },
-                    {
-                        "name": "Congele rápidamente para almacenamiento prolongado — Congelación (10 a 12 meses) 🧊",
-                        "text": "Como las frambuesas frescas duran muy poco, congelarlas es imprescindible si no las va a consumir en 3 días. 💡 Consejo de almacenamiento: Lávelas suavemente, séquelas completamente con papel de cocina, congele en una sola capa sobre una bandeja y páselas a bolsas Ziploc en el congelador (-18 °C). Perfectas para batidos durante 10–12 meses."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué no se deben lavar las frambuesas antes de guardarlas?",
-                        "answer": "Las frambuesas son huecas por dentro y retienen agua fácilmente, además de tener una piel muy delgada. Al lavarlas, la actividad de agua (actividad de agua (Aw)) de la superficie sube a cerca de 1.0, lo que activa las esporas de moho gris (*Botrytis cinerea*), disolviendo las paredes celulares y pudriendo la fruta en horas."
-                    },
-                    {
-                        "question": "¿Por qué las frambuesas congeladas se deshacen al descongelar y cómo debo usarlas?",
-                        "answer": "Las frambuesas tienen paredes celulares frágiles que se rompen durante la congelación; al descongelar, el jugo se escapa y quedan pochas. Lo mejor es utilizarlas directamente congeladas en batidos, yogures o repostería sin descongelar previo."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver les framboises fraîches : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les framboises selon les directives officielles de sécurité.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Avez-vous déjà acheté de belles framboises pour constater qu'elles étaient moisies ou écrasées deux jours seulement après les avoir mises au réfrigérateur ? 🍓\n\nBien que les framboises soient un fruit vedette des petits-déjeuners et desserts du monde entier, leur peau très fine et leur cœur creux leur confèrent un taux de respiration (Respiration Rate) extrêmement élevé, accélérant leur détérioration. Le lavage amène l'activité de l'eau en surface (activité de l'eau (Aw)) proche de 1,0, incitant les spores de moisissure grise (*Botrytis cinerea*) à détruire les parois cellulaires en quelques heures.\n\nDans ce guide, vous présente un guide scientifique de conservation des framboises en 3 étapes recommandé par des experts en sécurité alimentaire. 🛡️",
-                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques et physiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne lavez jamais les framboises immédiatement après l'achat 💧",
-                        "desc": "Laver les framboises avant le stockage porte l'activité de l'eau en surface (activité de l'eau (Aw)) près de 1,0. Cela active les spores de moisissure grise (*Botrytis cinerea*), qui décomposent les cellules et altèrent le fruit en quelques heures. N'effectuez le lavage qu'immédiatement avant de consommer."
-                    },
-                    {
-                        "title": "Isolez immédiatement les framboises écrasées ou abîmées ⚠️",
-                        "desc": "Les framboises écrasées libèrent du jus qui propage rapidement la moisissure aux fruits voisins. Triéz vos framboises dès l'achat et consommez ou éliminez immédiatement celles qui sont abîmées."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Disposer les framboises non lavées en une seule couche (Single Layer) sur du papier absorbant — Contrôle de l'humidité 🧻",
-                        "text": "Empiler les framboises écrase les couches inférieures sous leur propre poids, piégeant l'humidité et favorisant la moisissure. 💡 Astuce de conservation : Tapissez le fond d'une boîte hermétique avec du papier absorbant et déposez les framboises non lavées sur un seul rang sans qu'elles se chevauchent."
-                    },
-                    {
-                        "name": "Conserver au réfrigérateur à très basse température (0 à 2 °C) — Stockage réfrigéré (2 à 3 jours) ❄️",
-                        "text": "En raison de leur taux de respiration élevé, les framboises se détériorent vite dès que la température monte. 💡 Astuce de conservation : Rangez-les dans la zone la plus froide de votre réfrigérateur (bac à légumes / zone fraîcheur) entre 0 et 2 °C pour les conserver 2 à 3 jours (si lavées et humides, leur durée tombe à 1 jour)."
-                    },
-                    {
-                        "name": "Surgeler pour une conservation longue durée — Congélation (10 à 12 mois) 🧊",
-                        "text": "Les framboises fraîches se gardant très peu de temps, la congélation est indispensable si vous ne les consommez pas sous 3 jours. 💡 Astuce de conservation : Rincez délicatement les framboises, séchez-les complètement, congelez-les à plat sur un plateau puis transférez-les dans des sachets Ziploc au congélateur (-18 °C) pendant 10 à 12 mois."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi ne faut-il pas laver les framboises avant de les stocker ?",
-                        "answer": "Les framboises sont creuses et retiennent l'eau, et leur peau est extrêmement fine. Le lavage augmente l'activité de l'eau (activité de l'eau (Aw)) en surface à près de 1,0, ce qui active la germination des spores de moisissure grise (*Botrytis cinerea*), dissolvant les parois cellulaires et faisant pourrir le fruit en quelques heures."
-                    },
-                    {
-                        "question": "Pourquoi les framboises congelées ramollissent-elles à la décongélation et comment les utiliser ?",
-                        "answer": "Les parois cellulaires des framboises se rompent lors de la congélation ; en décongelant, le jus s'échappe et les fruits ramollissent. Il est recommandé d'utiliser les framboises congelées directement sans décongélation dans vos smoothies, yaourts ou pâtisseries."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Himbeeren richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Himbeeren basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Haben Sie schon einmal wunderschöne Himbeeren gekauft, nur um festzustellen, dass sie bereits zwei Tage nach dem Einräumen in den Kühlschrank schimmelig oder matschig waren? 🍓\n\nHimbeeren sind ein beliebter Klassiker für Frühstück und Desserts. Da sie jedoch eine sehr dünne Fruchtschale und eine hohle Innenstruktur besitzen, weisen sie eine extrem hohe Atmungsrate (Respiration Rate) auf und verderben schneller als fast jedes andere Obst. Durch Waschen steigt die Wasseraktivität an der Oberfläche (Wasseraktivität (Aw)) auf nahe 1,0, was dazu führt, dass Sporen des Grauschimmels (*Botrytis cinerea*) die Zellwände innerhalb weniger Stunden zerstören.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber zur Lagerung von Himbeeren, um deren Frische zu maximieren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen und physikalischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Himbeeren direkt nach dem Kauf niemals waschen 💧",
-                        "desc": "Werden Himbeeren vor der Lagerung gewaschen, steigt die Oberflächen-Wasseraktivität (Wasseraktivität (Aw)) auf fast 1,0. Dies aktiviert die Sporen von *Botrytis cinerea* (Grauschimmel), die die Zellwände zersetzen und die Beere binnen Stunden zerstören. Erst unmittelbar vor dem Verzehr waschen."
-                    },
-                    {
-                        "title": "Matschige oder beschädigte Beeren sofort aussortieren ⚠️",
-                        "desc": "Zerdrückte Himbeeren verlieren Saft, wodurch sich Schimmel rasch auf umliegende Beeren überträgt. Sortieren Sie Himbeeren nach dem Kauf sofort durch und verbrauchen Sie beschädigte Früchte direkt."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Ungewaschene Beeren einlagig (Single Layer) auf Küchenpapier auslegen — Feuchtigkeitsschutz 🧻",
-                        "text": "Das Stapeln von Himbeeren führt dazu, dass untere Beeren unter dem Eigengewicht zerdrückt werden, was Feuchtigkeit staut und Schimmel fördert. 💡 Lagerungstipp: Legen Sie eine Dosis mit Küchenpapier aus und platzieren Sie die ungewaschenen Himbeeren nebeneinander in einer einzelnen Schicht."
-                    },
-                    {
-                        "name": "Bei ultraniedriger Temperatur (0–2 °C) kühlen — Kühllagerung (2–3 Tage) ❄️",
-                        "text": "Aufgrund der hohen Atmungsrate büßen Himbeeren bereits bei leicht erhöhten Temperaturen schnell Energie ein. 💡 Lagerungstipp: Im kältesten Bereich des Kühlschranks (0–2 °C) aufbewahren. So bleiben sie 2–3 Tage frisch (feucht gelagerte gewaschene Beeren halten nur 1 Tag)."
-                    },
-                    {
-                        "name": "Schockgefrieren für Langzeitlagerung — Gefrierlagerung (10–12 Monate) 🧊",
-                        "text": "Da frische Himbeeren nur kurz haltbar sind, ist Einfrieren ideal, wenn Sie sie nicht binnen 3 Tagen verbrauchen. 💡 Lagerungstipp: Himbeeren vorsichtig waschen, mit Küchenpapier gründlich trocknen, auf einem Blech einzeln vorfrieren und dann in Ziploc-Beutel (-18 °C) umfüllen. Hält 10–12 Monate für Smoothies."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum sollte man Himbeeren vor der Lagerung nicht waschen?",
-                        "answer": "Himbeeren sind innen hohl und speichern leicht Wasser, während ihre Schale hauchdünn ist. Waschen erhöht die Oberflächen-Wasseraktivität (Wasseraktivität (Aw)) auf nahezu 1,0, was die Keimung von Grauschimmelsporen (*Botrytis cinerea*) auslöst. Diese zersetzen die Zellwände und lassen die Frucht binnen Stunden faulen."
-                    },
-                    {
-                        "question": "Warum werden gefrorene Himbeeren beim Auftauen matschig und wie verwendet man sie am besten?",
-                        "answer": "Himbeeren haben empfindliche Zellwände, die beim Einfrieren platzen; beim Auftauen tritt Zellsaft aus. Am besten verwendet man gefrorene Himbeeren direkt ohne Auftauen für Smoothies, Joghurt-Toppings oder zum Backen."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar framboesas frescas: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para as framboesas com base em diretrizes oficiais de segurança.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Você já comprou framboesas lindas e descobriu que elas estavam mofadas ou murchas poucos dias após colocá-las na geladeira? 🍓\n\nAs framboesas são um fruto vermelho essencial em cafés da manhã e sobremesas em todo o mundo. Porém, por terem uma pele muito fina e centro oco, possuem uma taxa de respiração (Respiration Rate) extremamente alta e estragam rapidamente. Lavá-las eleva a atividade de água na superfície (atividade de água (Aw)) para perto de 1.0, fazendo com que esporos de bolor cinzento (*Botrytis cinerea*) destruam as paredes celulares em poucas horas.\n\nNeste guia, apresentamos um guia de conservação de framboesas em 3 etapas recomendado por especialistas em segurança alimentar. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas e físicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca lave as framboesas imediatamente após a compra 💧",
-                        "desc": "Lavar as framboesas antes do armazenamento eleva a atividade de água na superfície (atividade de água (Aw)) para quase 1.0. Isso ativa os esporos de *Botrytis cinerea* (bolor cinzento), que destroem as paredes celulares e estragam a fruta em poucas horas. Lave-as apenas antes de comer."
-                    },
-                    {
-                        "title": "Isole imediatamente framboesas machucadas ou danificadas ⚠️",
-                        "desc": "Framboesas esmagadas soltam suco que espalha o mofo rapidamente para as outras frutas. Verifique as framboesas ao comprar e consuma ou retire imediatamente as danificadas."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Disponha as framboesas secas em uma única camada (Single Layer) sobre papel-toalha — Absorção de umidade 🧻",
-                        "text": "Empilhar framboesas faz com que o peso esmague as camadas inferiores, acumulando umidade e favorecendo o mofo. 💡 Dica de conservação: Forre o fundo de um pote hermético com papel-toalha e coloque as framboesas sem lavar em uma camada única sem sobrepor."
-                    },
-                    {
-                        "name": "Refrigere a temperatura muito baixa (0 a 2 °C) — Refrigeração (2 a 3 dias) ❄️",
-                        "text": "Devido à alta taxa de respiração, as framboesas perdem energia e estragam rápido mesmo em temperaturas ligeiramente altas. 💡 Dica de conservação: Guarde na parte mais fria da geladeira (0 a 2 °C). O armazenamento correto as mantém frescas por 2 a 3 dias (se lavadas e úmidas, duram apenas 1 dia)."
-                    },
-                    {
-                        "name": "Congele rapidamente para armazenamento longo — Congelamento (10 a 12 meses) 🧊",
-                        "text": "Como as framboesas frescas duram muito pouco, congelar é essencial se não for consumir em 3 dias. 💡 Dica de conservação: Lave delicadamente, seque totalmente com papel-toalha, congele em camada única numa bandeja e passe para sacos Ziploc no freezer (-18 °C) por 10 a 12 meses."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Por que não devo lavar as framboesas antes de guardar?",
-                        "answer": "As framboesas são ocas por dentro e retêm água facilmente, além de terem pele muito fina. Ao lavá-las, a atividade de água (atividade de água (Aw)) na superfície sobe para quase 1.0, ativando esporos de bolor cinzento (*Botrytis cinerea*), dissolvendo as paredes celulares e apodrecendo a fruta em poucas horas."
-                    },
-                    {
-                        "question": "Por que as framboesas congeladas desmancham ao descongelar e como devo usá-las?",
-                        "answer": "As framboesas têm paredes celulares frágeis que rompem no congelamento; ao descongelar, o suco vaza e elas ficam moles. O melhor é usá-las diretamente congeladas em smoothies, iogurtes ou receitas de bolo sem descongelar prévio."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Buah Rasberi agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk buah rasberi berdasarkan pedoman keselamatan resmi.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Pernahkah Anda membeli buah rasberi segar yang manis, tetapi beberapa hari setelah disimpan di kulkas buahnya menjadi berjamur atau lembek? 🍓\n\nRasberi adalah buah beri favorit untuk sarapan dan pencuci mulut di seluruh dunia. Namun, karena kulitnya sangat tipis dan bagian tengahnya berongga, rasberi memiliki laju respirasi (Respiration Rate) yang sangat tinggi dan paling cepat membusuk. Mencuci buah ini sebelum disimpan membuat aktivitas air permukaan (aktivitas air (Aw)) mendekati 1,0, yang memicu spora kapang kelabu (*Botrytis cinerea*) merusak dinding sel dan berkembang biak dengan cepat dalam hitungan jam.\n\nDalam panduan ini, kami membagikan panduan penyimpanan rasberi 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis dan fisik unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan pernah langsung mencuci rasberi setelah dibeli 💧",
-                        "desc": "Mencuci rasberi sebelum disimpan membuat aktivitas air permukaan (aktivitas air (Aw)) mencapai hampir 1,0. Hal ini mengaktifkan spora *Botrytis cinerea* (kapang kelabu) yang merusak dinding sel dan merusak buah dalam hitungan jam. Cucilah tepat sebelum dimakan."
-                    },
-                    {
-                        "title": "Segera pisahkan rasberi yang memar atau rusak ⚠️",
-                        "desc": "Rasberi yang hancur atau bocor mengeluarkan cairan yang dengan cepat menyebarkan jamur ke buah di sekitarnya. Periksa buah saat dibeli dan segera konsumsi atau buang buah yang rusak."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Tata rasberi kering satu lapis (Single Layer) di atas tisu dapur — Kontrol Kelembapan 🧻",
-                        "text": "Menumpuk rasberi membuat lapisan bawah hancur tertindih beban, merangkap kelembapan dan memicu jamur. 💡 Tips Penyimpanan: Lapisi dasar wadah kedap udara dengan tisu dapur untuk menyerap kelembapan, lalu tata rasberi yang belum dicuci dalam satu lapisan tanpa saling bertumpuk."
-                    },
-                    {
-                        "name": "Simpan di kulkas pada suhu sangat rendah (0–2°C) — Simpan Dingin (2–3 Hari) ❄️",
-                        "text": "Karena laju respirasinya tinggi, rasberi dengan cepat kehilangan energi dan layu pada suhu yang sedikit tinggi. 💡 Tips Penyimpanan: Simpan di bagian kulkas paling dingin (laci sayur/pendingin) pada suhu 0–2°C. Penyimpanan dingin yang benar membuatnya tetap segar selama 2–3 hari (jika dicuci dan disimpan basah hanya bertahan 1 hari)."
-                    },
-                    {
-                        "name": "Bekukan dengan cepat untuk penyimpanan jangka panjang — Simpan Freezer (10–12 Bulan) 🧊",
-                        "text": "Karena rasberi segar memiliki masa simpan sangat singkat, membekukannya adalah opsi wajib jika tidak habis dalam 3 hari. 💡 Tips Penyimpanan: Cuci rasberi dengan lembut, keringkan total dengan tisu dapur, bekukan satu lapis di atas nampan, lalu pindahkan ke kantong Ziploc freezer (-18°C) hingga 10–12 bulan."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa rasberi tidak boleh dicuci sebelum disimpan?",
-                        "answer": "Rasberi memiliki rongga di tengah yang mudah menyimpan air dan kulit yang sangat tipis. Mencuci rasberi meningkatkan aktivitas air permukaan (aktivitas air (Aw)) mendekati 1,0, yang memicu spora kapang kelabu (*Botrytis cinerea*) berkecambah, melarutkan dinding sel dan membusukkan buah dalam hitungan jam."
-                    },
-                    {
-                        "question": "Mengapa rasberi beku menjadi hancur lembek saat dicairkan dan bagaimana cara menggunakannya?",
-                        "answer": "Rasberi memiliki dinding sel yang rapuh dan pecah saat dibekukan; saat dicairkan, cairan sel keluar sehingga teksturnya menjadi lembek. Sebaiknya gunakan rasberi beku secara langsung tanpa dicairkan ke dalam smoothie, topping yoghurt, atau adonan kue."
-                    }
-                ]
-            }
-        }
+  "how-to-store-raspberry": {
+    "ingId": "raspberry",
+    "pubDate": "2026-02-03",
+    "updatedDate": "2026-02-03",
+    "heroImage": "/images/blog/raspberry_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "라즈베리 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 라즈베리의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
+        "intro": "새콤달콤하고 예쁜 라즈베리를 사 왔는데, 냉장고에 넣은 지 얼마 되지도 않아 곰팡이가 피거나 짓물러서 버린 적 있으시죠? 🍓\n\n라즈베리는 전 세계인의 아침 식단과 디저트에 자주 쓰이는 대표 베리류지만, 과피(Skin)가 매우 얇고 속이 뚫린 중공 구조를 가지고 있어 베리류 중 호흡률(Respiration Rate)이 극도로 높고 부패 속도가 매우 빠릅니다. 특히 물에 닿는 순간 표면 수분 활성도(Aw)가 1.0에 가까워지면서 회색곰팡이균(Botrytis cinerea) 포자가 세포 벽을 파괴하고 급격히 증식합니다.\n\n이번 가이드에서는 국제 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 라즈베리 신선도 유지 3단계 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적·물리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "구매 즉시 절대 물로 씻지 마세요 💧",
+            "desc": "라즈베리를 보관 전에 씻으면 표면 수분 활성도(Aw)가 1.0에 도달하여 잠복해 있던 회색곰팡이균 포자가 세포 벽을 분해하고 수시간 내에 조직을 파괴합니다. 물 세척은 반드시 먹기 직전에 하셔야 합니다."
+          },
+          {
+            "title": "짓눌리거나 무른 라즈베리는 즉시 격리하세요 ⚠️",
+            "desc": "과피가 부서지거나 상처 난 라즈베리는 진액을 흘리며 주변의 멀쩡한 라즈베리까지 빠르게 부패시킵니다. 구매 직후 무르거나 상처 난 알맹이는 즉시 골라내어 따로 먼저 드셔야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "씻지 않은 상태로 키친타월 위에 단층으로 펼치기 — 수분 흡수 및 짓눌림 방지 🧻",
+            "text": "라즈베리는 서로 겹쳐 쌓이면 자체 무게와 습기로 인해 아래쪽 과육이 무르고 곰팡이가 피기 쉽습니다. 💡 보관 팁: 밀폐 용기 바닥에 키친타월을 깔아 수분을 흡수하게 하고, 물에 씻지 않은 라즈베리를 겹치지 않게 단층으로 배열하여 뚜껑을 닫아주세요."
+          },
+          {
+            "name": "0~2℃ 극저온 냉장 보관하기 — 냉장 보관 (2~3일) ❄️",
+            "text": "라즈베리는 호흡률이 높아 온도가 조금만 높아도 스스로 에너지를 소비하며 급격히 시듭니다. 💡 보관 팁: 0~2℃의 가장 서늘한 냉장실 신선실이나 야채칸에 보관해 주세요. 올바르게 냉장 보관하면 2~3일간 신선도를 유지할 수 있습니다. (※ 세척 후 수분 방치 시 보관 기한은 1일로 단축됩니다.)"
+          },
+          {
+            "name": "급속 냉동 보관하기 — 냉동 보관 (10~12개월) 🧊",
+            "text": "라즈베리는 생과 상태의 보관 기한이 매우 짧으므로 3일 이내에 소비하기 힘들다면 냉동 보관이 필수입니다. 💡 보관 팁: 라즈베리를 물에 살짝 씻은 후 키친타월로 물기를 완벽히 제거하고, 쟁반에 겹치지 않게 펼쳐 1차 냉동한 뒤 단단해지면 지퍼백에 담아 냉동실(-18℃ 이하)에 보관하세요. 스무디나 디저트용으로 10~12개월간 활용 가능합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "라즈베리를 미리 씻어서 보관하면 안 되는 이유가 무엇인가요?",
+            "answer": "라즈베리는 속이 비어 있는 중공 구조라 물을 쉽게 머금으며, 과피가 얇아 물이 닿으면 표면 수분 활성도(Aw)가 1.0에 가까워집니다. 이로 인해 잠복 중인 회색곰팡이균(Botrytis cinerea) 포자가 활성화되어 세포 벽을 파괴하고 수시간 내에 과육을 녹여 부패시키기 때문입니다."
+          },
+          {
+            "question": "냉동 라즈베리를 해동할 때 녹아서 형태가 무너지는데 어떻게 해야 하나요?",
+            "answer": "라즈베리는 세포벽이 약해 해동 시 조직이 파괴되고 수분이 빠져나와 형태가 무너집니다. 따라서 완전히 해동하지 않고 냉동 상태 그대로 스무디, 요거트 토핑, 베이킹 등에 바로 사용하는 것이 가장 좋습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Raspberries Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for raspberries based on official safety guidelines.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Have you ever bought beautiful, sweet raspberries only to find them moldy or mushy just a couple of days after putting them in the fridge? 🍓\n\nRaspberries are a staple berry for breakfasts and desserts worldwide, but because of their very thin skin and hollow core, they have an extremely high respiration rate and spoil faster than almost any other fruit. Washing them increases surface water activity (Aw) close to 1.0, causing latent grey mold (*Botrytis cinerea*) spores to break down cell walls and rapidly proliferate within hours.\n\nIn this guide, we introduce a scientifically proven 3-step raspberry storage guide recommended by agriculture and food safety experts to maximize freshness. 🛡️",
+        "whyTitle": "Why Store Raspberries This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological and physical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and food safety.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never wash raspberries immediately upon purchase 💧",
+            "desc": "Washing raspberries prior to storage pushes surface water activity (Aw) close to 1.0. This activates latent *Botrytis cinerea* (grey mold) spores, which break down cell walls and ruin the fruit within hours. Wash them only right before eating."
+          },
+          {
+            "title": "Isolate bruised or damaged berries immediately ⚠️",
+            "desc": "Crushed or leaking raspberries release juices that rapidly spread mold and decay to neighboring berries. Sort through your berries upon purchase and immediately consume or discard any damaged ones."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Arrange unwashed berries in a single layer on paper towels — Moisture Control & Cushioning 🧻",
+            "text": "Stacking raspberries causes the bottom layers to crush under their own weight, trapping moisture and encouraging mold. 💡 Storage Tip: Line an airtight container with a paper towel to absorb ambient humidity, and place unwashed raspberries in a single layer without overlapping before sealing."
+          },
+          {
+            "name": "Refrigerate at ultra-low temperature (0–2°C / 32–35°F) — Cold Storage (2–3 Days) ❄️",
+            "text": "Due to their high respiration rate, raspberries rapidly deteriorate and lose energy even at slightly elevated temperatures. 💡 Storage Tip: Store in the coldest part of your fridge (crisper drawer or dedicated chill zone) at 0–2°C. Proper cold storage keeps them fresh for 2–3 days (washed berries left wet last only 1 day)."
+          },
+          {
+            "name": "Flash-freeze for long-term storage — Freezer Storage (10–12 Months) 🧊",
+            "text": "Since fresh raspberries have a very short shelf life, freezing is essential if you cannot finish them within 3 days. 💡 Storage Tip: Gently rinse raspberries, dry them completely with paper towels, flash-freeze in a single layer on a tray, then transfer to freezer Ziploc bags (-18°C / 0°F). Great for smoothies and desserts for 10–12 months."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why shouldn't raspberries be washed before storage?",
+            "answer": "Raspberries have a hollow center that easily traps water and a delicate skin. Washing them raises the surface water activity (Aw) to nearly 1.0, which triggers latent *Botrytis cinerea* (grey mold) spores to germinate, dissolving cell walls and rotting the berry within hours."
+          },
+          {
+            "question": "Why do frozen raspberries collapse when thawed, and how should I use them?",
+            "answer": "Raspberries have fragile cell walls that rupture during freezing; upon thawing, cell sap leaks out, making them mushy. It is best to use frozen raspberries directly without thawing in smoothies, yogurt toppings, or baking recipes."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ラズベリーを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくラズベリーの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
+        "intro": "甘酸っぱくて見た目も可愛いラズベリーを買ってきたものの、冷蔵庫に入れて数日もしないうちにカビが生えたり傷んで捨ててしまった経験はありませんか？🍓\n\nラズベリーは世界中の朝食やスイーツに欠かせない人気のベリー類ですが、果皮（Skin）が非常に薄く、中心が空洞の中空構造をしているため、ベリー類の中でも呼吸率（Respiration Rate）が極めて高く、急速に傷みやすい特徴があります。特に水に濡れると表面の水分活性度（水分活性 (Aw)）が1.0に近づき、潜伏していた灰色カビ病菌（Botrytis cinerea）の胞子が細胞壁を破壊して数時間で急激に繁殖します。\n\n本記事では、農学および食品安全の専門家が推奨する、ラズベリーの鮮度を保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？ 科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的・物理的特性を理解し、それに応じた正しい保存方法を visual 適用することは 鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "購入直後に絶対に水洗いしないでください 💧",
+            "desc": "保存前にラズベリーを洗うと、表面の水分活性度（水分活性 (Aw)）が1.0に達し、潜伏していた灰色カビ病菌の胞子が細胞壁を分解して数時間で組織を破壊します。水洗いは必ず食べる直前に行ってください。"
+          },
+          {
+            "title": "潰れたり傷んだラズベリーはすぐに取り除いてください ⚠️",
+            "desc": "果皮が潰れたり傷のあるラズベリーは果汁を漏らし、周囲の正常なラズベリーまで急速に腐敗させます。購入直後に柔らかくなっているものや傷のある粒はすぐに選別し、優先的にお召し上がりください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "洗わずにキッチンペーパーの上に重ならないよう1段（Single Layer）で並べる — 水分吸収＆潰れ防止 🧻",
+            "text": "ラズベリーを重ねて保管すると、自重と湿気により下の果肉が潰れてカビが発生しやすくなります。💡保存のコツ：密閉容器の底にキッチンペーパーを敷いて湿気を吸収させ、洗っていないラズベリーを重ならないように1段で並べてフタを閉めてください。"
+          },
+          {
+            "name": "0〜2℃の極低温で冷蔵保存する — 冷蔵保存 (2〜3日間) ❄️",
+            "text": "ラズベリーは呼吸率が高いため、温度が少し上がるだけでも自らエネルギーを消費して急速に傷みます。💡保存のコツ：0〜2℃の最も涼しいチルド室や野菜室で保存してください。正しく冷蔵保存すれば2〜3日間新鮮さを維持できます。（※洗った後に水気が残っていると保存期間は1日に短縮します。）"
+          },
+          {
+            "name": "急速冷凍保存する — 冷凍保存 (10〜12ヶ月間) 🧊",
+            "text": "生のラズベリーは保存期間が非常に短いため、3日以内に使い切れない場合は冷凍保存が必須です。💡保存のコツ：水で優しく洗い、キッチンペーパーで水分を完全に拭き取った後、トレイに重ならないよう並べて一次冷凍します。固まったらチャック付き袋に移して冷凍室（-18℃以下）で保管してください。スムージーや製菓用に10〜12ヶ月間使用可能です。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ラズベリーをあらかじめ洗って保存してはいけない理由は何ですか？",
+            "answer": "ラズベリーは内部が空洞構造のため水を含みやすく、果皮が薄いため水に触れると表面の水分活性度（水分活性 (Aw)）が1.0に近づきます。これにより潜伏中の灰色カビ病菌（Botrytis cinerea）の胞子が活性化し、細胞壁を破壊して数時間で果肉を溶かして腐敗させるためです。"
+          },
+          {
+            "question": "冷凍ラズベリーを解凍するとドロドロに崩れてしまいますが、どうすればよいですか？",
+            "answer": "ラズベリーは細胞壁が弱いため、解凍時に組織が破壊されて水分が抜け、形が崩れてしまいます。そのため完全解凍はせず、冷凍状態のままスムージー、ヨーグルトのトッピング、お菓子作りなどに直接使用するのがベストです。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持树莓（覆盆子）新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解树莓的最佳储存温度、方式及保鲜时长。",
+        "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "您是否买回酸甜美观的树莓（覆盆子），却发现刚放入冰箱没两天就发霉变软、不得不丢弃？🍓\n\n树莓是全球早餐和甜点中不可或缺的代表性浆果，但由于其果皮（Skin）极薄且内部呈空心结构，在浆果类中呼吸率（Respiration Rate）极高，腐败速度飞快。特别是清洗时，表面水分活性（水活性 (Aw)）会接近1.0，导致潜伏的灰霉菌（Botrytis cinerea）孢子在数小时内破坏细胞壁并急速繁殖。\n\n本指南基于农业及食品安全专家的建议，为您带来3步科学树莓保鲜秘诀，延长这娇嫩浆果的新鲜度。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理与物理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "购买后切勿立即用水清洗 💧",
+            "desc": "在储存前清洗树莓会导致表面水分活性（水活性 (Aw)）达到1.0，使潜伏的灰霉菌孢子分解细胞壁，在数小时内破坏果肉组织。务必在食用前才进行清洗。"
+          },
+          {
+            "title": "请立即挑出压伤或变软的树莓 ⚠️",
+            "desc": "破损或压伤的树莓会渗出汁液，迅速导致周围原本完好的树莓腐烂。购买后应立即筛选，将压伤的果实挑出优先食用。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "保持干燥，在厨房纸巾上单层（Single Layer）铺开 — 吸收湿气与防压 🧻",
+            "text": "树莓若堆叠存放，底层的果肉会因自身重量和积聚的湿气而变软发霉。💡储存小贴士：在密封盒底部铺上厨房纸巾以吸收水分，将未清洗的树莓单层平铺、互不重叠，然后盖紧盒盖。"
+          },
+          {
+            "name": "0~2℃ 极低温冷藏 — 冷藏保存 (2~3天) ❄️",
+            "text": "树莓呼吸率极高，温度稍微升高就会快速消耗自身能量而萎蔫。💡储存小贴士：请存放在0~2℃的冰箱最冷区域（冰鲜抽屉或蔬菜保鲜室）。正确冷藏可保鲜2~3天。（※若清洗后带水冷藏，保鲜期将缩短至1天。）"
+          },
+          {
+            "name": "急速冷冻储存 — 冷冻保存 (10~12个月) 🧊",
+            "text": "鲜树莓的保鲜期极短，若无法在3天内吃完，冷冻是最佳选择。💡储存小贴士：用清水轻轻冲洗树莓后用纸巾彻底吸干水分，平铺在盘中预冻变硬，再装入拉链袋放入冷冻室（-18℃以下）。适用于制作果昔或甜点，可保存10~12个月。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "为什么树莓不能提前清洗后保存？",
+            "answer": "树莓中心呈空心结构，极易积水，且果皮娇嫩，遇水后表面水分活性（水活性 (Aw)）会接近1.0。这会激活潜伏的灰霉菌（Botrytis cinerea）孢子萌发，分解细胞壁并在数小时内导致果肉腐烂。"
+          },
+          {
+            "question": "冷冻树莓解冻时会发软变形，应该如何食用？",
+            "answer": "树莓细胞壁脆弱，解冻时细胞液外流会导致形态塌陷。因此无需解冻，直接将冷冻树莓用于制作果昔、酸奶配料或烘焙材料效果最佳。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener las frambuesas frescas: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para las frambuesas según las directrices oficiales de seguridad.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "¿Alguna vez compró hermosas frambuesas y descubrió que tenían moho o estaban pochas a los dos días de meterlas al refrigerador? 🍓\n\nLas frambuesas son un fruto rojo esencial en desayunos y postres de todo el mundo. Sin embargo, debido a su piel extremadamente fina y su estructura hueca, tienen una tasa de respiración (Respiration Rate) altísima y se deterioran más rápido que casi cualquier otra fruta. Lavarlas eleva la actividad de agua en superficie (actividad de agua (Aw)) cerca de 1.0, lo que hace que las esporas de moho gris (*Botrytis cinerea*) destruyan las paredes celulares y se multipliquen en horas.\n\nEn esta guía se presenta una guía de conservación de frambuesas en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria. 🛡️",
+        "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas y físicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Nunca lave las frambuesas justo después de comprarlas 💧",
+            "desc": "Lavar las frambuesas antes de guardarlas eleva la actividad de agua en superficie (actividad de agua (Aw)) a casi 1.0. Esto activa las esporas de *Botrytis cinerea* (moho gris), que descomponen las paredes celulares y echan a perder el fruto en pocas horas. Lávelas solo justo antes de comer."
+          },
+          {
+            "title": "Aísle de inmediato las frambuesas aplastadas o dañadas ⚠️",
+            "desc": "Las frambuesas aplastadas sueltan jugos que propagan rápidamente el moho al resto del recipiente. Revise las frambuesas al comprarlas y consuma o retire de inmediato las que estén dañadas."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Coloque las frambuesas secas en una sola capa (Single Layer) sobre papel de cocina — Absorción de humedad y protección 🧻",
+            "text": "Apilar frambuesas hace que el peso aplaste las capas inferiores, atrapando humedad y favoreciendo el moho. 💡 Consejo de almacenamiento: Cubra el fondo de un recipiente hermético con papel de cocina para absorber la humedad y coloque las frambuesas sin lavar en una sola capa sin superponerlas."
+          },
+          {
+            "name": "Refrigere a temperatura muy baja (0 a 2 °C) — Almacenamiento refrigerado (2 a 3 días) ❄️",
+            "text": "Debido a su alta tasa de respiración, las frambuesas pierden energía y se marchitan rápido incluso a temperaturas ligeramente elevadas. 💡 Consejo de almacenamiento: Guarde en la zona más fría del refrigerador (0 a 2 °C). Un almacenamiento adecuado las mantiene frescas durante 2–3 días (si se lavan y guardan húmedas, duran solo 1 día)."
+          },
+          {
+            "name": "Congele rápidamente para almacenamiento prolongado — Congelación (10 a 12 meses) 🧊",
+            "text": "Como las frambuesas frescas duran muy poco, congelarlas es imprescindible si no las va a consumir en 3 días. 💡 Consejo de almacenamiento: Lávelas suavemente, séquelas completamente con papel de cocina, congele en una sola capa sobre una bandeja y páselas a bolsas Ziploc en el congelador (-18 °C). Perfectas para batidos durante 10–12 meses."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué no se deben lavar las frambuesas antes de guardarlas?",
+            "answer": "Las frambuesas son huecas por dentro y retienen agua fácilmente, además de tener una piel muy delgada. Al lavarlas, la actividad de agua (actividad de agua (Aw)) de la superficie sube a cerca de 1.0, lo que activa las esporas de moho gris (*Botrytis cinerea*), disolviendo las paredes celulares y pudriendo la fruta en horas."
+          },
+          {
+            "question": "¿Por qué las frambuesas congeladas se deshacen al descongelar y cómo debo usarlas?",
+            "answer": "Las frambuesas tienen paredes celulares frágiles que se rompen durante la congelación; al descongelar, el jugo se escapa y quedan pochas. Lo mejor es utilizarlas directamente congeladas en batidos, yogures o repostería sin descongelar previo."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver les framboises fraîches : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les framboises selon les directives officielles de sécurité.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Avez-vous déjà acheté de belles framboises pour constater qu'elles étaient moisies ou écrasées deux jours seulement après les avoir mises au réfrigérateur ? 🍓\n\nBien que les framboises soient un fruit vedette des petits-déjeuners et desserts du monde entier, leur peau très fine et leur cœur creux leur confèrent un taux de respiration (Respiration Rate) extrêmement élevé, accélérant leur détérioration. Le lavage amène l'activité de l'eau en surface (activité de l'eau (Aw)) proche de 1,0, incitant les spores de moisissure grise (*Botrytis cinerea*) à détruire les parois cellulaires en quelques heures.\n\nDans ce guide, vous présente un guide scientifique de conservation des framboises en 3 étapes recommandé par des experts en sécurité alimentaire. 🛡️",
+        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques et physiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne lavez jamais les framboises immédiatement après l'achat 💧",
+            "desc": "Laver les framboises avant le stockage porte l'activité de l'eau en surface (activité de l'eau (Aw)) près de 1,0. Cela active les spores de moisissure grise (*Botrytis cinerea*), qui décomposent les cellules et altèrent le fruit en quelques heures. N'effectuez le lavage qu'immédiatement avant de consommer."
+          },
+          {
+            "title": "Isolez immédiatement les framboises écrasées ou abîmées ⚠️",
+            "desc": "Les framboises écrasées libèrent du jus qui propage rapidement la moisissure aux fruits voisins. Triéz vos framboises dès l'achat et consommez ou éliminez immédiatement celles qui sont abîmées."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Disposer les framboises non lavées en une seule couche (Single Layer) sur du papier absorbant — Contrôle de l'humidité 🧻",
+            "text": "Empiler les framboises écrase les couches inférieures sous leur propre poids, piégeant l'humidité et favorisant la moisissure. 💡 Astuce de conservation : Tapissez le fond d'une boîte hermétique avec du papier absorbant et déposez les framboises non lavées sur un seul rang sans qu'elles se chevauchent."
+          },
+          {
+            "name": "Conserver au réfrigérateur à très basse température (0 à 2 °C) — Stockage réfrigéré (2 à 3 jours) ❄️",
+            "text": "En raison de leur taux de respiration élevé, les framboises se détériorent vite dès que la température monte. 💡 Astuce de conservation : Rangez-les dans la zone la plus froide de votre réfrigérateur (bac à légumes / zone fraîcheur) entre 0 et 2 °C pour les conserver 2 à 3 jours (si lavées et humides, leur durée tombe à 1 jour)."
+          },
+          {
+            "name": "Surgeler pour une conservation longue durée — Congélation (10 à 12 mois) 🧊",
+            "text": "Les framboises fraîches se gardant très peu de temps, la congélation est indispensable si vous ne les consommez pas sous 3 jours. 💡 Astuce de conservation : Rincez délicatement les framboises, séchez-les complètement, congelez-les à plat sur un plateau puis transférez-les dans des sachets Ziploc au congélateur (-18 °C) pendant 10 à 12 mois."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi ne faut-il pas laver les framboises avant de les stocker ?",
+            "answer": "Les framboises sont creuses et retiennent l'eau, et leur peau est extrêmement fine. Le lavage augmente l'activité de l'eau (activité de l'eau (Aw)) en surface à près de 1,0, ce qui active la germination des spores de moisissure grise (*Botrytis cinerea*), dissolvant les parois cellulaires et faisant pourrir le fruit en quelques heures."
+          },
+          {
+            "question": "Pourquoi les framboises congelées ramollissent-elles à la décongélation et comment les utiliser ?",
+            "answer": "Les parois cellulaires des framboises se rompent lors de la congélation ; en décongelant, le jus s'échappe et les fruits ramollissent. Il est recommandé d'utiliser les framboises congelées directement sans décongélation dans vos smoothies, yaourts ou pâtisseries."
+          }
+        ]
+      },
+      "de": {
+        "title": "Himbeeren richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Himbeeren basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Haben Sie schon einmal wunderschöne Himbeeren gekauft, nur um festzustellen, dass sie bereits zwei Tage nach dem Einräumen in den Kühlschrank schimmelig oder matschig waren? 🍓\n\nHimbeeren sind ein beliebter Klassiker für Frühstück und Desserts. Da sie jedoch eine sehr dünne Fruchtschale und eine hohle Innenstruktur besitzen, weisen sie eine extrem hohe Atmungsrate (Respiration Rate) auf und verderben schneller als fast jedes andere Obst. Durch Waschen steigt die Wasseraktivität an der Oberfläche (Wasseraktivität (Aw)) auf nahe 1,0, was dazu führt, dass Sporen des Grauschimmels (*Botrytis cinerea*) die Zellwände innerhalb weniger Stunden zerstören.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber zur Lagerung von Himbeeren, um deren Frische zu maximieren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen und physikalischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Himbeeren direkt nach dem Kauf niemals waschen 💧",
+            "desc": "Werden Himbeeren vor der Lagerung gewaschen, steigt die Oberflächen-Wasseraktivität (Wasseraktivität (Aw)) auf fast 1,0. Dies aktiviert die Sporen von *Botrytis cinerea* (Grauschimmel), die die Zellwände zersetzen und die Beere binnen Stunden zerstören. Erst unmittelbar vor dem Verzehr waschen."
+          },
+          {
+            "title": "Matschige oder beschädigte Beeren sofort aussortieren ⚠️",
+            "desc": "Zerdrückte Himbeeren verlieren Saft, wodurch sich Schimmel rasch auf umliegende Beeren überträgt. Sortieren Sie Himbeeren nach dem Kauf sofort durch und verbrauchen Sie beschädigte Früchte direkt."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Ungewaschene Beeren einlagig (Single Layer) auf Küchenpapier auslegen — Feuchtigkeitsschutz 🧻",
+            "text": "Das Stapeln von Himbeeren führt dazu, dass untere Beeren unter dem Eigengewicht zerdrückt werden, was Feuchtigkeit staut und Schimmel fördert. 💡 Lagerungstipp: Legen Sie eine Dosis mit Küchenpapier aus und platzieren Sie die ungewaschenen Himbeeren nebeneinander in einer einzelnen Schicht."
+          },
+          {
+            "name": "Bei ultraniedriger Temperatur (0–2 °C) kühlen — Kühllagerung (2–3 Tage) ❄️",
+            "text": "Aufgrund der hohen Atmungsrate büßen Himbeeren bereits bei leicht erhöhten Temperaturen schnell Energie ein. 💡 Lagerungstipp: Im kältesten Bereich des Kühlschranks (0–2 °C) aufbewahren. So bleiben sie 2–3 Tage frisch (feucht gelagerte gewaschene Beeren halten nur 1 Tag)."
+          },
+          {
+            "name": "Schockgefrieren für Langzeitlagerung — Gefrierlagerung (10–12 Monate) 🧊",
+            "text": "Da frische Himbeeren nur kurz haltbar sind, ist Einfrieren ideal, wenn Sie sie nicht binnen 3 Tagen verbrauchen. 💡 Lagerungstipp: Himbeeren vorsichtig waschen, mit Küchenpapier gründlich trocknen, auf einem Blech einzeln vorfrieren und dann in Ziploc-Beutel (-18 °C) umfüllen. Hält 10–12 Monate für Smoothies."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum sollte man Himbeeren vor der Lagerung nicht waschen?",
+            "answer": "Himbeeren sind innen hohl und speichern leicht Wasser, während ihre Schale hauchdünn ist. Waschen erhöht die Oberflächen-Wasseraktivität (Wasseraktivität (Aw)) auf nahezu 1,0, was die Keimung von Grauschimmelsporen (*Botrytis cinerea*) auslöst. Diese zersetzen die Zellwände und lassen die Frucht binnen Stunden faulen."
+          },
+          {
+            "question": "Warum werden gefrorene Himbeeren beim Auftauen matschig und wie verwendet man sie am besten?",
+            "answer": "Himbeeren haben empfindliche Zellwände, die beim Einfrieren platzen; beim Auftauen tritt Zellsaft aus. Am besten verwendet man gefrorene Himbeeren direkt ohne Auftauen für Smoothies, Joghurt-Toppings oder zum Backen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar framboesas frescas: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para as framboesas com base em diretrizes oficiais de segurança.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Você já comprou framboesas lindas e descobriu que elas estavam mofadas ou murchas poucos dias após colocá-las na geladeira? 🍓\n\nAs framboesas são um fruto vermelho essencial em cafés da manhã e sobremesas em todo o mundo. Porém, por terem uma pele muito fina e centro oco, possuem uma taxa de respiração (Respiration Rate) extremamente alta e estragam rapidamente. Lavá-las eleva a atividade de água na superfície (atividade de água (Aw)) para perto de 1.0, fazendo com que esporos de bolor cinzento (*Botrytis cinerea*) destruam as paredes celulares em poucas horas.\n\nNeste guia, apresentamos um guia de conservação de framboesas em 3 etapas recomendado por especialistas em segurança alimentar. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas e físicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca lave as framboesas imediatamente após a compra 💧",
+            "desc": "Lavar as framboesas antes do armazenamento eleva a atividade de água na superfície (atividade de água (Aw)) para quase 1.0. Isso ativa os esporos de *Botrytis cinerea* (bolor cinzento), que destroem as paredes celulares e estragam a fruta em poucas horas. Lave-as apenas antes de comer."
+          },
+          {
+            "title": "Isole imediatamente framboesas machucadas ou danificadas ⚠️",
+            "desc": "Framboesas esmagadas soltam suco que espalha o mofo rapidamente para as outras frutas. Verifique as framboesas ao comprar e consuma ou retire imediatamente as danificadas."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Disponha as framboesas secas em uma única camada (Single Layer) sobre papel-toalha — Absorção de umidade 🧻",
+            "text": "Empilhar framboesas faz com que o peso esmague as camadas inferiores, acumulando umidade e favorecendo o mofo. 💡 Dica de conservação: Forre o fundo de um pote hermético com papel-toalha e coloque as framboesas sem lavar em uma camada única sem sobrepor."
+          },
+          {
+            "name": "Refrigere a temperatura muito baixa (0 a 2 °C) — Refrigeração (2 a 3 dias) ❄️",
+            "text": "Devido à alta taxa de respiração, as framboesas perdem energia e estragam rápido mesmo em temperaturas ligeiramente altas. 💡 Dica de conservação: Guarde na parte mais fria da geladeira (0 a 2 °C). O armazenamento correto as mantém frescas por 2 a 3 dias (se lavadas e úmidas, duram apenas 1 dia)."
+          },
+          {
+            "name": "Congele rapidamente para armazenamento longo — Congelamento (10 a 12 meses) 🧊",
+            "text": "Como as framboesas frescas duram muito pouco, congelar é essencial se não for consumir em 3 dias. 💡 Dica de conservação: Lave delicadamente, seque totalmente com papel-toalha, congele em camada única numa bandeja e passe para sacos Ziploc no freezer (-18 °C) por 10 a 12 meses."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que não devo lavar as framboesas antes de guardar?",
+            "answer": "As framboesas são ocas por dentro e retêm água facilmente, além de terem pele muito fina. Ao lavá-las, a atividade de água (atividade de água (Aw)) na superfície sobe para quase 1.0, ativando esporos de bolor cinzento (*Botrytis cinerea*), dissolvendo as paredes celulares e apodrecendo a fruta em poucas horas."
+          },
+          {
+            "question": "Por que as framboesas congeladas desmancham ao descongelar e como devo usá-las?",
+            "answer": "As framboesas têm paredes celulares frágeis que rompem no congelamento; ao descongelar, o suco vaza e elas ficam moles. O melhor é usá-las diretamente congeladas em smoothies, iogurtes ou receitas de bolo sem descongelar prévio."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Buah Rasberi agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk buah rasberi berdasarkan pedoman keselamatan resmi.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Pernahkah Anda membeli buah rasberi segar yang manis, tetapi beberapa hari setelah disimpan di kulkas buahnya menjadi berjamur atau lembek? 🍓\n\nRasberi adalah buah beri favorit untuk sarapan dan pencuci mulut di seluruh dunia. Namun, karena kulitnya sangat tipis dan bagian tengahnya berongga, rasberi memiliki laju respirasi (Respiration Rate) yang sangat tinggi dan paling cepat membusuk. Mencuci buah ini sebelum disimpan membuat aktivitas air permukaan (aktivitas air (Aw)) mendekati 1,0, yang memicu spora kapang kelabu (*Botrytis cinerea*) merusak dinding sel dan berkembang biak dengan cepat dalam hitungan jam.\n\nDalam panduan ini, kami membagikan panduan penyimpanan rasberi 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis dan fisik unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan pernah langsung mencuci rasberi setelah dibeli 💧",
+            "desc": "Mencuci rasberi sebelum disimpan membuat aktivitas air permukaan (aktivitas air (Aw)) mencapai hampir 1,0. Hal ini mengaktifkan spora *Botrytis cinerea* (kapang kelabu) yang merusak dinding sel dan merusak buah dalam hitungan jam. Cucilah tepat sebelum dimakan."
+          },
+          {
+            "title": "Segera pisahkan rasberi yang memar atau rusak ⚠️",
+            "desc": "Rasberi yang hancur atau bocor mengeluarkan cairan yang dengan cepat menyebarkan jamur ke buah di sekitarnya. Periksa buah saat dibeli dan segera konsumsi atau buang buah yang rusak."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Tata rasberi kering satu lapis (Single Layer) di atas tisu dapur — Kontrol Kelembapan 🧻",
+            "text": "Menumpuk rasberi membuat lapisan bawah hancur tertindih beban, merangkap kelembapan dan memicu jamur. 💡 Tips Penyimpanan: Lapisi dasar wadah kedap udara dengan tisu dapur untuk menyerap kelembapan, lalu tata rasberi yang belum dicuci dalam satu lapisan tanpa saling bertumpuk."
+          },
+          {
+            "name": "Simpan di kulkas pada suhu sangat rendah (0–2°C) — Simpan Dingin (2–3 Hari) ❄️",
+            "text": "Karena laju respirasinya tinggi, rasberi dengan cepat kehilangan energi dan layu pada suhu yang sedikit tinggi. 💡 Tips Penyimpanan: Simpan di bagian kulkas paling dingin (laci sayur/pendingin) pada suhu 0–2°C. Penyimpanan dingin yang benar membuatnya tetap segar selama 2–3 hari (jika dicuci dan disimpan basah hanya bertahan 1 hari)."
+          },
+          {
+            "name": "Bekukan dengan cepat untuk penyimpanan jangka panjang — Simpan Freezer (10–12 Bulan) 🧊",
+            "text": "Karena rasberi segar memiliki masa simpan sangat singkat, membekukannya adalah opsi wajib jika tidak habis dalam 3 hari. 💡 Tips Penyimpanan: Cuci rasberi dengan lembut, keringkan total dengan tisu dapur, bekukan satu lapis di atas nampan, lalu pindahkan ke kantong Ziploc freezer (-18°C) hingga 10–12 bulan."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa rasberi tidak boleh dicuci sebelum disimpan?",
+            "answer": "Rasberi memiliki rongga di tengah yang mudah menyimpan air dan kulit yang sangat tipis. Mencuci rasberi meningkatkan aktivitas air permukaan (aktivitas air (Aw)) mendekati 1,0, yang memicu spora kapang kelabu (*Botrytis cinerea*) berkecambah, melarutkan dinding sel dan membusukkan buah dalam hitungan jam."
+          },
+          {
+            "question": "Mengapa rasberi beku menjadi hancur lembek saat dicairkan dan bagaimana cara menggunakannya?",
+            "answer": "Rasberi memiliki dinding sel yang rapuh dan pecah saat dibekukan; saat dicairkan, cairan sel keluar sehingga teksturnya menjadi lembek. Sebaiknya gunakan rasberi beku secara langsung tanpa dicairkan ke dalam smoothie, topping yoghurt, atau adonan kue."
+          }
+        ]
+      }
     }
+  }
 }

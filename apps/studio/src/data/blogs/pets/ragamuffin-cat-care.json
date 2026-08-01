@@ -1,459 +1,459 @@
 {
-    "ragamuffin-cat-care": {
-        "pubDate": "2026-03-02",
-        "updatedDate": "2026-03-02",
-        "locales": {
-            "ko": {
-                "title": "라가머핀 털 관리 및 slow-growth 성장을 위한 3단계 데일리 케어",
-                "description": "비단결 같은 복실복실한 털과 안기면 온몸의 힘을 빼는 순둥이 라가머핀. 4~5년에 걸친 대형 골격의 완만한 성장 특성과 털 엉킴 방지를 위한 3단계 케어법을 소개합니다.",
-                "authority": "고양이애호가협회(CFA) 및 국제고양이협회(TICA) 품종 표준, 세계고양이수의학회(ISFM) 임상 가이드라인",
-                "profile": {
-                    "breed": "라가머핀 (Ragamuffin Cat)",
-                    "lifespan": "12 ~ 16년",
-                    "sleep_pattern": "12 ~ 16시간 (대형 묘종 특유의 여유롭고 깊은 실내 수면)",
-                    "temperament": "온순함, 사람을 매우 좋아함, 애교 많음, 느긋함, 포용력 높음, 무던함"
-                },
-                "intro": "라가머핀은 랙돌(Ragdoll) 품종에서 파생되어 1990년대에 확립된 대형 고양이로, 토끼털처럼 부드럽고 풍성한 모질과 다채로운 모색, 순박한 눈망울이 매력적인 품종입니다. 성묘가 되기까지 4~5년이 걸리는 대표적인 대형 장모종으로, 골격이 튼튼하고 하복부의 복부 지방 패드(Fatty pad)가 형성되는 품종적 고유 특성을 지닙니다. 사람 품에 안기면 인형처럼 몸을 완전히 내맡기는 극상의 온순함을 자랑하지만, 빽빽한 이중모 관리와 체중 조절, 심장 질환(HCM) 예방 관리가 필수적입니다. 이번 가이드에서는 라가머핀의 교감 신호를 해석하고 건강한 성장을 돕는 3단계 데일리 케어 루틴을 다룹니다.",
-                "whyTitle": "라가머핀의 감정 표현: 몸 이완하기(Limp Posture)와 골골송 반응",
-                "whyDesc": "라가머핀은 안아 들었을 때 긴장을 완전히 풀고 온몸을 오징어처럼 늘어뜨리는 **'몸 이완하기(Going Limp)'** 행동으로 깊은 신뢰를 표출합니다. 또한 보호자가 다가오면 높은 톤의 부드러운 가르랑 소리(**'골골송'**)를 내며 머리를 문지르는 행동으로 애정을 요구합니다.",
-                "body_signals": [
-                    {
-                        "name": "품 안에서 몸 늘어뜨리기 (Going Limp)",
-                        "meaning": "보호자에 대한 완전한 안정감과 방어 해제를 의미하며, 스트레스가 전혀 없는 최상의 심리적 편안함 상태입니다.",
-                        "response": "몸 전체를 떨어뜨리지 않게 하체까지 포근히 받쳐 안아주며 따뜻한 스킨십을 이어갑니다."
-                    },
-                    {
-                        "name": "부드러운 골골송과 꾹꾹이 (Purring & Kneading)",
-                        "meaning": "극도의 행복감과 교감 욕구를 나타내는 신호로, 보호자와의 긴밀한 유대감을 강화하고 싶을 때 나타납니다.",
-                        "response": "다정한 목소리로 이름을 불러주고 턱 밑이나 귀 뒤쪽을 부드럽게 긁어주어 호응합니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 빗질을 통한 장모 속털 관리 및 하복부 점검",
-                        "text": "핀 브러시로 죽은 털과 엉킴을 제거해 헤어볼을 예방합니다. 하복부의 자연스러운 지방 패드 상태와 체중 변화를 정기적으로 체크합니다."
-                    },
-                    {
-                        "name": "낮: 관절 부담을 줄이는 낮게 설계된 사냥 놀이",
-                        "text": "대형 골격이 완만히 성장하도록 무리한 높은 점프 대신 바닥 위주의 깃털 낚싯대 놀이로 매일 15~20분간 적당한 운동량을 제공합니다."
-                    },
-                    {
-                        "name": "저녁: 고단백 영양 급여 및 유전 질환 상태 관찰",
-                        "text": "4~5년에 걸친 긴 성장기에 맞춘 고단백 수분 풍부 습식 사료를 급여합니다. 심장 마찰음이나 호흡 이상 등 비대성 심근증(HCM) 관련 이상 증상을 관찰합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "랙돌(Ragdoll)과 라가머핀(Ragamuffin)은 무엇이 다른가요?",
-                        "answer": "랙돌은 에메랄드빛이 아닌 오직 '파란 눈'과 포인터 모색만 인정되지만, 라가머핀은 그린, 앰버 등 모든 눈 색상과 코트 컬러/패턴(단색, 바이컬러, 태비 등)이 허용됩니다. 또한 라가머핀이 둥근 머리 윤곽과 조금 더 두터운 골격을 가집니다."
-                    },
-                    {
-                        "question": "뱃살처럼 처진 복부는 비만인가요?",
-                        "answer": "라가머핀의 하복부 지방 패드(Fatty pad)는 장기 보호 및 유연한 움직임을 위해 형성되는 품종 고유의 정식 표준 특성입니다. 다만 전체적인 뼈대 대비 갈비뼈가 잡히지 않을 정도의 과도한 체중 증가라면 수의사와 상담하여 체중 관리를 시작해야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Ragamuffin Cat Coat Care and 3-Step Slow-Growth Vitality Daily Routine",
-                "description": "Caring for the silky-coated, ultra-placid Ragamuffin cat. Discover their slow 4-5 year maturation process and a 3-step daily routine to prevent coat matting and maintain ideal weight.",
-                "authority": "Cat Fanciers' Association (CFA) & TICA Breed Standards, International Society of Feline Medicine (ISFM)",
-                "profile": {
-                    "breed": "Ragamuffin Cat",
-                    "lifespan": "12 - 16 Years",
-                    "sleep_pattern": "12 - 16 Hours (Relaxed Indoor Sleep Suited for Large Breeds)",
-                    "temperament": "Docile, Affectionate, Placid, Lap Cat, Gentle, Patient"
-                },
-                "intro": "Derived from the Ragdoll in the 1990s, the Ragamuffin is a large, heavily boned cat breed famous for its dense, plush rabbit-like coat, diverse color patterns, and exceptionally expressive walnut-shaped eyes. Taking 4 to 5 years to reach full physical maturity, Ragamuffins uniquely possess a natural fatty pad on their lower abdomen as outlined in breed standards. Renowned for going completely limp when cradled in human arms, they are ultimate lap cats. However, their plush double coat requires routine grooming, and their slow maturation calls for careful nutrition and monitoring for hypertrophic cardiomyopathy (HCM). In this guide, outlines Ragamuffin communication signals and a 3-step daily care guide.",
-                "whyTitle": "Ragamuffin Communication: Going Limp and Contented Purring",
-                "whyDesc": "Ragamuffins express profound trust by relaxing their entire muscular frame when lifted, a behavior known as **'Going Limp'**. When seeking human interaction, they greet their owners with soft, chirping purrs (**'Contented Purring'**) and gentle head-butts.",
-                "body_signals": [
-                    {
-                        "name": "Relaxing Muscles in Arms (Going Limp)",
-                        "meaning": "Signifies absolute trust and complete release of defense mechanisms, reflecting a state of pure emotional security.",
-                        "response": "Support their hindquarters securely while holding them, continuing warm, gentle physical affection."
-                    },
-                    {
-                        "name": "Soft Purring & Kneading (Purring & Kneading)",
-                        "meaning": "Indicates supreme happiness and a desire for bonding and emotional connection with their caregiver.",
-                        "response": "Acknowledge them with a soothing voice and gently scratch behind their ears or under their chin."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Plush Coat Brushing & Abdominal Pad Check",
-                        "text": "Gently comb their plush undercoat with a pin brush to prevent mats and hairballs. Inspect their natural lower abdominal fat pad and monitor body condition."
-                    },
-                    {
-                        "name": "Afternoon: Low-Impact Ground Play & Mental Bonding",
-                        "text": "Engage them in 15-20 minutes of floor-based wand-toy games rather than high jumping to protect developing joints during their long growth period."
-                    },
-                    {
-                        "name": "Evening: High-Protein Nutrition & Cardiac Health Monitoring",
-                        "text": "Provide high-protein wet food tailored for slow-growing large breeds. Observe for signs of cardiac stress or lethargy associated with Hypertrophic Cardiomyopathy (HCM)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "What is the main difference between a Ragdoll and a Ragamuffin?",
-                        "answer": "Ragdolls strictly feature pointed coat patterns and blue eyes. Ragamuffins come in all coat colors, patterns (solid, tabby, mink, tortoiseshell), and eye colors (green, gold, amber, blue). Ragamuffins also possess a slightly rounder head and broader build."
-                    },
-                    {
-                        "question": "Is the pouch on their lower belly a sign of obesity?",
-                        "answer": "No, a lower abdominal fatty pad is a natural physical standard trait for Ragamuffins, meant to protect organs and allow flexibility. However, if their ribs are no longer easily felt beneath their coat, consult a vet for weight management."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ラガマフィンの毛並みケアと緩やかな成長を支える3ステップ日常ルーティン",
-                "description": "絹のように柔らかい被毛と、抱っこされると脱力する愛好家憧れのラガマフィン。4〜5年かける緩やかな成長と毛玉防止に向けた3ステップお手入れガイドをご紹介します。",
-                "authority": "CFAおよびTICA品種標準、国際猫医学会（ISFM）臨床ガイドライン",
-                "profile": {
-                    "breed": "ラガマフィン (Ragamuffin Cat)",
-                    "lifespan": "12 〜 16年",
-                    "sleep_pattern": "12 〜 16時間 (大型猫ならではの悠々と深い室内睡眠)",
-                    "temperament": "温厚、人懐っこい、甘えん坊、非常に穏やか、包容力がある、我慢強い"
-                },
-                "intro": "1990年代にラグドールから派生して確立されたラガマフィンは、ウサギのようにふわふわとした密生した被毛と多様な毛色、愛らしい目が魅力の大型猫種です。成猫になるまで4〜5年を要する代表的な大型長毛種で、頑丈な骨格と下腹部の「ファティパッド（腹部脂肪層）」という猫種固有のスタンダード特徴を持っています。抱っこされると人形のように脱力する極めて人懐っこい性格ですが、毛玉防止のブラッシングや適正体重の維持、心臓病（HCM）の定期健診が欠かせません。本記事では、ラガマフィンのサイン解読と健やかな成長を助ける日常ケアプロトコルを解説します。",
-                "whyTitle": "ラガマフィンの感情表現：抱っこでの脱力（ゴーイング・リンプ）とゴロゴロ音",
-                "whyDesc": "ラガマフィンは抱き上げられると体中の力を完全に抜く**「脱力（Going Limp）」**という行動で深い信頼を示します。また、飼い主に近づくと高めの可愛らしい声で**「ゴロゴロ音（Purring）」**を鳴らし、すりすりとおねだりします。",
-                "body_signals": [
-                    {
-                        "name": "腕の中で力を抜く脱力行動 (Going Limp)",
-                        "meaning": "飼い主に対する絶対的な安心感と警戒心の解除を意味する、心理的に極めてリラックスした状態です。",
-                        "response": "体を落とさないよう下半身までしっかり支えて抱っこし、優しくスキンシップを続けましょう。"
-                    },
-                    {
-                        "name": "優しく鳴らすゴロゴロ音とふみふみ (Purring & Kneading)",
-                        "meaning": "最高の幸福感と愛情表現であり、飼い主との強い絆を実感しているサインです。",
-                        "response": "優しい声で名前を呼び、あごの下や耳の後ろを優しく撫でて応えてあげてください。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：ふわふわ被毛のブラッシングと下腹部チェック",
-                        "text": "ピンブラシで密生したアンダーコートの抜け毛を取り除き、毛玉や毛球症を防ぎます。下腹部にある天然の脂肪パッドの柔らかさと体重変化を観察します。"
-                    },
-                    {
-                        "name": "昼：関節に優しい低めのアジリティ・狩りごっこ",
-                        "text": "骨格がゆっくり成長する時期のため、高所からのジャンプは避け、床でジャラシやフェザーを使った15〜20分程度の遊びで運動量を確保します。"
-                    },
-                    {
-                        "name": "夜：高タンパクの栄養給餌と心臓の健康観察",
-                        "text": "長期間の成長期に合わせ、水分と高タンパク質が豊富なウェットフードを与えます。肥大性心筋症（HCM）の初期症状である呼吸の乱れがないか観察します。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "ラグドール（Ragdoll）とラガマフィンの違いは何ですか？",
-                        "answer": "ラグドールは「青い目」とポイントカラー（ポインテッド）のみが認められていますが、ラガマフィンはグリーンやアンバーなど全ての目の色、あらゆる毛色・パターン（単色、タビー等）が許容されます。また頭部の輪郭もラガマフィンの方がやや丸みを帯びています。"
-                    },
-                    {
-                        "question": "お腹の下にたるんでいるお肉は肥満ですか？",
-                        "answer": "ラガマフィンの下腹部にある脂肪層（Fatty pad）は、内臓の保護と柔軟な動きのために存在する血統標準の正常な特徴です。ただし、肋骨に触れられないほどの過剰な体重増加が見られる場合は、獣医師に相談して食事管理を行いましょう。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "拉加马芬猫被毛护理与长达4-5年缓慢生长的3阶段日常护理指南",
-                "description": "针对拥有丝般繁茂被毛、抱起即全身放松的温柔巨猫拉加马芬猫（Ragamuffin）。介绍其长达4-5年的缓慢发育特性与防止毛发打结的3阶段日常护理流程。",
-                "authority": "国际爱猫协会 (CFA) 及 TICA 犬猫品种标准、国际猫科医学会 (ISFM) 临床指南",
-                "profile": {
-                    "breed": "拉加马芬猫 (Ragamuffin Cat)",
-                    "lifespan": "12 ~ 16年",
-                    "sleep_pattern": "12 ~ 16小时 (适应大型猫特点的放松深度室内睡眠)",
-                    "temperament": "温顺、极其亲人、粘人、悠闲、包容力强、脾气极佳"
-                },
-                "intro": "拉加马芬猫于20世纪90年代源自布偶猫（Ragdoll）品种的繁育分支，是一种拥有重型骨骼、如兔毛般密实柔顺被毛和丰富毛色的大型长毛猫。拉加马芬猫需要4至5年才能完全发育成熟，品种标准中明确规定其下腹部拥有天然的“脂肪垫 (Fatty pad)”。它们因抱在怀中时会像布偶一样完全放松身体而闻名，是理想的伴侣猫。然而，其丰厚的双层被毛需要定期梳理，长期的生长发育过程也需要科学的高蛋白营养以及针对肥大性心肌病（HCM）的定期筛查。本指南将解析拉加马芬猫的情感信号并分享3阶段日常护理流程。",
-                "whyTitle": "拉加马芬猫的情感表达：放松瘫软（Going Limp）与咕噜咕噜声",
-                "whyDesc": "当被主人抱起时，拉加马芬猫会完全放松全身肌肉，呈现标志性的**“瘫软放松 (Going Limp)”**姿态，代表绝对的信任。当表达亲近意图时，它们会发出温和高频的**“咕噜咕噜声 (Purring)”**并用头部摩擦主人。",
-                "body_signals": [
-                    {
-                        "name": "怀中肌肉完全放松 (Going Limp)",
-                        "meaning": "代表对主人百分之百的信任与安全感，完全卸下防御机制，处于最舒适的心理状态。",
-                        "response": "抱着它们时请稳稳托住其下半身，给予温暖温和的抚摸与互动。"
-                    },
-                    {
-                        "name": "温柔咕噜声与踩奶 (Purring & Kneading)",
-                        "meaning": "表明极度幸福与依赖，是希望与主人加深情感联结的求关注信号。",
-                        "response": "用温柔的声音呼唤其名字，轻挠其下巴或耳后以回应其爱意。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：双层被毛梳理与下腹部脂肪垫检查",
-                        "text": "使用针梳梳理密实的底毛以防打结和吐毛球。检查下腹部天然脂肪垫的软硬度并监测体重变化。"
-                    },
-                    {
-                        "name": "白天：低冲击地面互动与心理陪伴",
-                        "text": "因骨骼长期处于发育期，避免高剧烈跳跃，改为进行15-20分钟地面逗猫棒捕猎游戏。"
-                    },
-                    {
-                        "name": "晚上：高蛋白营养补充与心脏健康观察",
-                        "text": "喂食符合长生长期需求的高蛋白湿粮。密切观察是否有呼吸急促或精神萎靡等肥大性心肌病（HCM）潜在信号。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "布偶猫 (Ragdoll) 与拉加马芬猫 (Ragamuffin) 有何区别？",
-                        "answer": "布偶猫仅认可蓝眼和重点色被毛；而拉加马芬猫认可所有眼色（绿色、琥珀色、蓝色等）和所有毛色与花纹（单色、双色、虎斑等）。拉加马芬猫的头部线条也更为圆润，骨骼更显沉重。"
-                    },
-                    {
-                        "question": "拉加马芬猫下腹部下垂的肉是肥胖导致的吗？",
-                        "answer": "拉加马芬猫下腹部的脂肪垫 (Fatty pad) 是其品种标准中认可的自然生理特征，用于保护内脏并维持身体灵活性。但如果手掌抚摸时已完全无法触摸到肋骨，则属于病理性肥胖，需咨询兽医进行饮食管理。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cuidados del pelaje del gato Ragamuffin y rutina de 3 pasos para su crecimiento lento",
-                "description": "Atenciones para el suave y apacible gato Ragamuffin. Descubra su proceso de maduración de 4 a 5 años y la rutina de 3 pasos para evitar nudos en su manto y mantener un peso saludable.",
-                "authority": "Estándares de CFA y TICA, Sociedad Internacional de Medicina Felina (ISFM)",
-                "profile": {
-                    "breed": "Gato Ragamuffin (Ragamuffin Cat)",
-                    "lifespan": "12 ~ 16 años",
-                    "sleep_pattern": "12 ~ 16 horas (sueño profundo y relajado en interiores de razas grandes)",
-                    "temperament": "Dócil, afectuoso, apacible, faldero, paciente, dulce"
-                },
-                "intro": "Derivado del Ragdoll en la década de 1990, el Ragamuffin es una raza felina grande de osamenta pesada, famosa por su pelaje tupido y afelpado similar al del conejo, sus variados colores y sus expresivos ojos en forma de nuez. Al tardar de 4 a 5 años en alcanzar su tamaño adulto, el Ragamuffin posee por estándar un pliegue graso abdominal inferior (fatty pad) característico. Son conocidos por quedarse completamente laxos ('going limp') cuando se les toma en brazos. Sin embargo, su espeso manto doble requiere cepillado regular, y su largo crecimiento exige nutrición rica en proteínas y chequeos cardíacos periódicos para descartar la miocardiopatía hipertrófica (HCM). En esta guía, compartimos su guía de cuidados.",
-                "whyTitle": "Comunicación del Ragamuffin: Postura laxa en brazos (Going Limp) y ronroneo",
-                "whyDesc": "El Ragamuffin expresa confianza ciega relajando por completo toda su musculatura cuando se le sostiene, un fenómeno denominado **'Quedarse Laxo' (Going Limp)**. Además, suele saludar a sus tutores con suaves **'Ronroneos y Amasados'** mientras frota su cabeza.",
-                "body_signals": [
-                    {
-                        "name": "Relajación muscular en brazos (Going Limp)",
-                        "meaning": "Significa confianza absoluta y ausencia total de defensas, demostrando un estado de máxima paz emocional.",
-                        "response": "Sostenga siempre su tren posterior para que se sienta seguro mientras disfruta de las caricias."
-                    },
-                    {
-                        "name": "Ronroneo suave y amasado (Purring & Kneading)",
-                        "meaning": "Muestra de inmensa dicha y afecto; señala el deseo de conectar estrechamente con su cuidador.",
-                        "response": "Háblele con voz dulce y acaricie suavemente la zona tras las orejas o bajo la barbilla."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Cepillado del manto afelpado y revisión abdominal",
-                        "text": "Peine el subpelo denso con un cepillo de púas metálicas sin bola para evitar nudos y bolas de pelo. Revise la textura de su almohadilla grasa abdominal."
-                    },
-                    {
-                        "name": "Tarde: Juego a nivel del suelo para proteger articulaciones",
-                        "text": "Durante su prolongada etapa de desarrollo, evite saltos desde gran altura. Promueva 15-20 minutos de juego con cañas a nivel del suelo."
-                    },
-                    {
-                        "name": "Noche: Nutrición alta en proteína y control cardiológico",
-                        "text": "Proporcione alimento húmedo rico en proteína e hidratación. Observe posibles signos de cansancio o fatiga respiratoria vinculados a la miocardiopatía hipertrófica (HCM)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿En qué se diferencian el Ragdoll y el Ragamuffin?",
-                        "answer": "El Ragdoll solo admite ojos azules y patrón 'point' (extremidades oscuras). El Ragamuffin acepta todos los colores de ojos (verde, ámbar, azul) y cualquier patrón o color de pelaje (sólido, atigrado, marten, etc.). Además, el Ragamuffin tiene la cabeza más redondeada."
-                    },
-                    {
-                        "question": "¿La bolsa en su vientre bajo indica sobrepeso?",
-                        "answer": "No, la almohadilla grasa abdominal (fatty pad) es un rasgo anatómico natural y reconocido por el estándar de la raza Ragamuffin. No obstante, si no logra palpar sus costillas bajo el manto, consulte al veterinario."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Soin du pelage du chat Ragamuffin et routine quotidienne en 3 étapes pour sa croissance lente",
-                "description": "Prendre soin du doux et paisible chat Ragamuffin. Découvrez sa croissance lente sur 4 à 5 ans et une routine en 3 étapes pour éviter les nœuds et maintenir sa santé cardiaque.",
-                "authority": "Standards de race CFA & TICA, International Society of Feline Medicine (ISFM)",
-                "profile": {
-                    "breed": "Chat Ragamuffin (Ragamuffin Cat)",
-                    "lifespan": "12 ~ 16 ans",
-                    "sleep_pattern": "12 ~ 16 heures (sommeil calme et profond en intérieur propre aux grandes races)",
-                    "temperament": "Doux, très affectueux, calme, chat de genoux, patient, indulgent"
-                },
-                "intro": "Issu du Ragdoll dans les années 1990, le Ragamuffin est un grand chat à l'ossature lourde, célèbre pour son pelage dense et doux comme de la fourrure de lapin, ses robes variées et ses grands yeux expressifs. Prenant 4 à 5 ans pour atteindre sa taille adulte, le Ragamuffin possède officiellement une poche graisseuse abdominale (fatty pad) sur le bas du ventre. Connu pour se détendre complètement ('going limp') dans les bras, c'est le chat d'intérieur par excellence. Toutefois, sa fourrure fournie exige un brossage régulier, et sa croissance lente demande une alimentation riche en protéines et un suivi de la cardiomyopathie hypertrophique (HCM).",
-                "whyTitle": "Communication du Ragamuffin : Relâchement dans les bras (Going Limp) et ronronnements",
-                "whyDesc": "Le Ragamuffin témoigne d'une confiance absolue en relâchant entièrement sa musculature lorsqu'on le porte, un comportement appelé **'Relâchement Total' (Going Limp)**. Il sollicite l'affection en émettant de doux **'Ronronnements et Petits Coups de Tête'**.",
-                "body_signals": [
-                    {
-                        "name": "Abandon musculaire dans les bras (Going Limp)",
-                        "meaning": "Preuve de confiance totale et d'abandon des défenses, reflétant un confort émotionnel absolu.",
-                        "response": "Soutenez bien son arrière-train pour qu'il se sente en sécurité tout en le caressant doucement."
-                    },
-                    {
-                        "name": "Ronronnement doux et patounage (Purring & Kneading)",
-                        "meaning": "Signe d'un bonheur intense et d'un besoin de complicité affectueuse avec son propriétaire.",
-                        "response": "Répondez avec une voix douce et grattez-le délicatement sous le menton ou derrière les oreilles."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Brossage du pelage pelucheux et examen du ventre",
-                        "text": "Brossez le sous-poil dense avec une brosse à picots pour éviter les nœuds et la formation de boules de poils. Contrôlez la poche graisseuse naturelle de son bas-ventre."
-                    },
-                    {
-                        "name": "Après-midi : Jeux au sol pour préserver les articulations",
-                        "text": "Durant sa longue période de croissance, privilégiez 15 à 20 minutes de jeu au sol avec un plumet plutôt que de grands sauts en hauteur."
-                    },
-                    {
-                        "name": "Soir : Alimentation protéinée et surveillance cardiaque",
-                        "text": "Offrez une pâtée riche en protéines et en eau adaptée à sa croissance. Observez l'absence de fatigue anormale ou de gêne respiratoire (prévention HCM)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Quelle est la différence entre le Ragdoll et le Ragamuffin ?",
-                        "answer": "Le Ragdoll n'est accepté qu'avec les yeux bleus et le patron 'point'. Le Ragamuffin accepte toutes les couleurs d'yeux (vert, ambre, bleu) et toutes les couleurs/motifs de robe (solide, tabby, marten, etc.). Le Ragamuffin a aussi une tête plus ronde."
-                    },
-                    {
-                        "question": "Le surplus de peau/graisse sous le ventre est-il un signe d'obésité ?",
-                        "answer": "Non, la poche graisseuse abdominale (fatty pad) est un trait naturel et officiel du standard de la race Ragamuffin. Cependant, si vous ne sentez plus du tout ses côtes au toucher, consultez votre vétérinaire."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Ragamuffin Katze Fellpflege und 3-Schritte-Tagesroutine für das langsame Wachstum",
-                "description": "Pflege für die seidenweiche, sanftmütige Ragamuffin Katze. Erfahren Sie alles über das 4-5-jährige Wachstum und die 3-Schritte-Routine gegen Verfilzungen und für die Herzgesundheit.",
-                "authority": "CFA & TICA Rassestandards, International Society of Feline Medicine (ISFM)",
-                "profile": {
-                    "breed": "Ragamuffin Katze (Ragamuffin Cat)",
-                    "lifespan": "12 ~ 16 Jahre",
-                    "sleep_pattern": "12 ~ 16 Stunden (Entspannter Wohnungs-Schlaf großer Katzenrassen)",
-                    "temperament": "Sanftmütig, sehr menschenbezogen, verschmust, gelassen, geduldig, freundlich"
-                },
-                "intro": "Die in den 1990er Jahren aus der Ragdoll hervorgegangene Ragamuffin ist eine große, knochenstarke Katzenrasse, die für ihr dichtes, plüschiges Fell (ähnlich einem Kaninchenfell), ihre Vielfalt an Fellfarben und ihre ausdrucksstarken Augen berühmt ist. Sie benötigt 4 bis 5 Jahre, um ihre volle Körpergröße zu erreichen, und besitzt standardgemäß eine natürliche Fetttasche am Unterbauch (Fatty pad). Ragamuffins sind bekannt dafür, auf dem Arm wie eine Stoffpuppe völlig zu entspannen ('going limp'). Das plüschige Doppelkopffell erfordert regelmäßiges Bürsten, und die lange Entwicklungsphase verlangt hochwertige Proteine sowie ein Screening auf Hypertrophe Kardiomyopathie (HCM).",
-                "whyTitle": "Kommunikation der Ragamuffin: Muskelentspannung auf dem Arm und Schnurren",
-                "whyDesc": "Die Ragamuffin drückt tiefes Vertrauen aus, indem sie beim Hochheben ihre Muskeln komplett erschlaffen lässt – bekannt als **'Entspannen im Arm' (Going Limp)**. Wenn sie Zuwendung sucht, begrüßt sie ihren Halter mit sanftem Schnurren (**'Zufriedenes Schnurren'**) und Köpfchengeben.",
-                "body_signals": [
-                    {
-                        "name": "Erschlaffen der Muskeln auf dem Arm (Going Limp)",
-                        "meaning": "Zeichen für absolutes Vertrauen und das vollständige Ablegen von Schutzreflexen; zeugt von emotionaler Sicherheit.",
-                        "response": "Stützen Sie das Hinterteil beim Tragen gut ab und schenken Sie ihr sanfte Streicheleinheiten."
-                    },
-                    {
-                        "name": "Sanftes Schnurren und Tretpformatation (Purring & Kneading)",
-                        "meaning": "Ausdruck von großer Zufriedenheit und der Wunsch nach enger Bindung zum Besitzer.",
-                        "response": "Antworten Sie mit ruhiger Stimme und kraulen Sie die Katze am Kinn oder hinter den Ohren."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Fellpflege des Plüschfells & Bauchfalten-Check",
-                        "text": "Kämmen Sie das dichte Unterfell mit einer Stiftbürste durch, um Verfilzungen vorzubeugen. Überprüfen Sie das Fettpolster am Unterbauch auf Konsistenz."
-                    },
-                    {
-                        "name": "Nachmittag: Gelenkschonendes Spiel am Boden",
-                        "text": "Vermeiden Sie während der langen Wachstumsphase hohe Sprünge. Nutzen Sie Reizangeln für 15-20 Minuten bodennahes Spiel."
-                    },
-                    {
-                        "name": "Abend: Proteinreiche Ernährung & Herzkreislauf-Beobachtung",
-                        "text": "Füttern Sie proteinreiches Nassfutter, das den langen Wachstumszyklus unterstützt. Achten Sie auf Anzeichen von Atemnot oder Trägheit (HCM-Prophylaxe)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Was unterscheidet die Ragdoll von der Ragamuffin?",
-                        "answer": "Ragdolls haben ausschließlich blaue Augen und Points (dunkle Abzeichen). Ragamuffins sind in allen Augenfarben (Grün, Bernstein, Blau) und Fellmustern (Solid, Tabby, Bicolor) anerkannt. Zudem ist der Kopf der Ragamuffin etwas rundlicher."
-                    },
-                    {
-                        "question": "Ist die Gewebefalte am Unterbauch ein Zeichen von Übergewicht?",
-                        "answer": "Nein, die Fettlasche am Unterbauch (Fatty pad) ist ein offizielles Merkmal des Ragamuffin-Rassestandards zum Schutz der Organe. Wenn die Rippen unter dem Fell jedoch gar nicht mehr tastbar sind, sollten Sie den Tierarzt konsultieren."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Cuidados com a pelagem do gato Ragamuffin e rotina diária de 3 passos para crescimento lento",
-                "description": "Cuidados para o dócil e tranquilo gato Ragamuffin. Descubra o seu processo de maturação de 4 a 5 anos e a rotina de 3 passos para evitar nós no pelo e manter a saúde cardíaca.",
-                "authority": "Padrões de Raça da CFA e TICA, Sociedade Internacional de Medicina Felina (ISFM)",
-                "profile": {
-                    "breed": "Gato Ragamuffin (Ragamuffin Cat)",
-                    "lifespan": "12 ~ 16 anos",
-                    "sleep_pattern": "12 ~ 16 horas (sono tranquilo de raça grande em ambiente interno)",
-                    "temperament": "Dócil, afetuoso, tranquilo, dócil de colo, paciente, tolerante"
-                },
-                "intro": "Derivado do Ragdoll na década de 1990, o Ragamuffin é uma raça de gato grande e de ossatura pesada, famosa pela pelagem densa e macia como a de um coelho, variedade de cores e olhos expressivos. Levando de 4 a 5 anos para atingir a maturidade física total, o Ragamuffin possui por padrão uma bolsa de gordura abdominal inferior (fatty pad). Conhecidos por relaxarem completamente os músculos quando segurados no colo ('going limp'), são companheiros extremamente afetuosos. No entanto, a pelagem dupla requer escovação frequente, e o seu crescimento longo exige nutrição rica em proteínas e monitoramento da miocardiopatia hipertrófica (HCM).",
-                "whyTitle": "Comunicação do Ragamuffin: Relaxamento muscular no colo (Going Limp) e ronronar",
-                "whyDesc": "O Ragamuffin demonstra confiança absoluta ao relaxar completamente o corpo quando é levantado, comportamento conhecido como **'Ficar Relaxado' (Going Limp)**. Ao buscar carinho, cumprimenta o tutor com **'Ronronares Suaves'** e fricções de cabeça.",
-                "body_signals": [
-                    {
-                        "name": "Relaxamento dos músculos no colo (Going Limp)",
-                        "meaning": "Significa confiança plena e ausência total de defesas, refletindo um estado de completo conforto emocional.",
-                        "response": "Sustente o quadril do gato com firmeza ao segurá-lo, continuando com carinhos suaves."
-                    },
-                    {
-                        "name": "Ronronar suave e patinar (Purring & Kneading)",
-                        "meaning": "Demonstra profunda felicidade e desejo de vínculo afetuoso com o tutor.",
-                        "response": "Responda com voz doce e faça carinho embaixo do queixo ou atrás das orelhas."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Escovação da pelagem densa e checagem abdominal",
-                        "text": "Penteie a pelagem interna com escova de pinos para evitar nós e bolas de pelo. Inspecione a textura da bolsa de gordura abdominal."
-                    },
-                    {
-                        "name": "Tarde: Brincadeiras no chão para proteger as articulações",
-                        "text": "Evite saltos altos durante a sua longa fase de crescimento. Promova 15 a 20 minutos de jogos no chão com varinhas."
-                    },
-                    {
-                        "name": "Noite: Nutrição rica em proteínas e observação cardíaca",
-                        "text": "Ofereça ração úmida rica em proteínas e água. Observe se há cansaço excessivo ou respiração acelerada (prevenção de HCM)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Qual a diferença entre o Ragdoll e o Ragamuffin?",
-                        "answer": "O Ragdoll só aceita olhos azuis e padrão de pelagem 'point'. O Ragamuffin aceita todas as cores de olhos (verde, âmbar, azul) e qualquer cor ou padrão de pelagem (sólido, tabaco, bicolor, etc.). O Ragamuffin também possui a cabeça mais arredondada."
-                    },
-                    {
-                        "question": "A bolsa de gordura na barriga é sinal de obesidade?",
-                        "answer": "Não, a bolsa de gordura abdominal (fatty pad) é uma característica natural e reconhecida pelo padrão da raça Ragamuffin. No entanto, se não for possível sentir as costelas ao tocar, consulte um veterinário."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Perawatan Bulu Kucing Ragamuffin dan Rutinitas Harian 3 Langkah Pertumbuhan Lambat",
-                "description": "Perawatan untuk kucing Ragamuffin yang lembut dan tenang. Pelajari proses kedewasaannya yang lambat (4-5 tahun) serta rutinitas 3 langkah untuk mencegah bulu menggumpal dan menjaga kesehatan jantung.",
-                "authority": "Standar Ras CFA & TICA, International Society of Feline Medicine (ISFM)",
-                "profile": {
-                    "breed": "Kucing Ragamuffin (Ragamuffin Cat)",
-                    "lifespan": "12 ~ 16 tahun",
-                    "sleep_pattern": "12 ~ 16 jam (tidur tenang di dalam rumah khas ras kucing besar)",
-                    "temperament": "Penurut, sangat penyayang, tenang, suka dipangku, sabar, ramah"
-                },
-                "intro": "Diturunkan dari ras Ragdoll pada tahun 1990-an, Ragamuffin adalah ras kucing besar bertulang berat yang terkenal dengan bulunya yang tebal dan lembut seperti bulu kelinci, variasi warna yang beragam, serta matanya yang sangat ekspresif. Membutuhkan waktu 4 hingga 5 tahun untuk mencapai kedewasaan fisik penuh, Ragamuffin secara resmi memiliki kantong lemak di perut bawah (fatty pad) sebagai standar ras. Terkenal akan sifatnya yang lemas pasrah ('going limp') saat diangkat, mereka adalah kucing pangkuan yang ideal. Namun, bulu ganda tebalnya memerlukan penyisiran rutin, dan masa tumbuhnya yang panjang membutuhkan nutrisi tinggi protein serta pemeriksaan jantung rutin (HCM).",
-                "whyTitle": "Komunikasi Ragamuffin: Tubuh Lemas Pasrah (Going Limp) dan Dengkur Lembut",
-                "whyDesc": "Ragamuffin menunjukkan rasa percaya yang mendalam dengan merilekskan seluruh otot tubuhnya saat diangkat, sebuah perilaku yang dikenal sebagai **'Tubuh Lemas Pasrah' (Going Limp)**. Saat meminta perhatian, mereka menyapa pemiliknya dengan **'Dengkur Lembut' (Purring)** dan sundulan kepala.",
-                "body_signals": [
-                    {
-                        "name": "Melemaskan Otot Saat Diangkat (Going Limp)",
-                        "meaning": "Menandakan kepercayaan mutlak dan pelepasan pertahanan diri, mencerminkan kenyamanan emosional yang tinggi.",
-                        "response": "Pegang dan sanggah bagian tubuh bawahnya dengan stabil sambil mengelusnya dengan lembut."
-                    },
-                    {
-                        "name": "Dengkur Lembut dan Gerakan Meredam (Purring & Kneading)",
-                        "meaning": "Sinyal kebahagiaan luar biasa dan keinginan untuk mempererat ikatan kasih sayang dengan pemilik.",
-                        "response": "Sambut dengan suara lembut dan elus area bawah dagu atau belakang telinganya."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Menyisir Bulu Tebal & Pemeriksaan Lipatan Perut",
-                        "text": "Sisir bulu halus bagian dalam dengan sisir pin untuk mencegah gumpalan bulu (hairball). Periksa kondisi lipatan lemak di perut bawahnya."
-                    },
-                    {
-                        "name": "Siang: Permainan Tingkat Lantai untuk Menjaga Sendi",
-                        "text": "Selama masa pertumbuhannya yang panjang, hindari lompatan tinggi. Lakukan permainan pancingan bulu di atas lantai selama 15-20 menit."
-                    },
-                    {
-                        "name": "Malam: Nutrisi Tinggi Protein & Pemantauan Kesehatan Jantung",
-                        "text": "Berikan makanan basah tinggi protein yang sesuai untuk ras besar. Amati adanya gejala napas terengah-engah atau kelelahan (pencegahan HCM)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apa perbedaan utama antara Ragdoll dan Ragamuffin?",
-                        "answer": "Ragdoll hanya diakui dengan mata biru dan pola warna 'point' (ujung gelap). Ragamuffin diakui dengan semua warna mata (hijau, amber, biru) dan semua pola/warna bulu (solid, tabby, bicolor). Bentuk kepala Ragamuffin juga sedikit lebih membulat."
-                    },
-                    {
-                        "question": "Apakah kantong lemak di perut bawahnya menandakan obesitas?",
-                        "answer": "Tidak, kantong lemak perut bawah (fatty pad) adalah ciri fisik alami dan diakui secara resmi dalam standar ras Ragamuffin. Namun jika tulang rusuknya sama sekali tidak teraba di balik bulu, berkonsultasilah dengan dokter hewan."
-                    }
-                ]
-            }
+  "ragamuffin-cat-care": {
+    "pubDate": "2026-03-02",
+    "updatedDate": "2026-03-02",
+    "locales": {
+      "ko": {
+        "title": "라가머핀 털 관리 및 slow-growth 성장을 위한 3단계 데일리 케어",
+        "description": "비단결 같은 복실복실한 털과 안기면 온몸의 힘을 빼는 순둥이 라가머핀. 4~5년에 걸친 대형 골격의 완만한 성장 특성과 털 엉킴 방지를 위한 3단계 케어법을 소개합니다.",
+        "authority": "고양이애호가협회(CFA) 및 국제고양이협회(TICA) 품종 표준, 세계고양이수의학회(ISFM) 임상 가이드라인",
+        "profile": {
+          "breed": "라가머핀 (Ragamuffin Cat)",
+          "lifespan": "12 ~ 16년",
+          "sleep_pattern": "12 ~ 16시간 (대형 묘종 특유의 여유롭고 깊은 실내 수면)",
+          "temperament": "온순함, 사람을 매우 좋아함, 애교 많음, 느긋함, 포용력 높음, 무던함"
         },
-        "heroImage": "/images/blog/ragamuffin_cat_care.webp"
-    }
+        "intro": "라가머핀은 랙돌(Ragdoll) 품종에서 파생되어 1990년대에 확립된 대형 고양이로, 토끼털처럼 부드럽고 풍성한 모질과 다채로운 모색, 순박한 눈망울이 매력적인 품종입니다. 성묘가 되기까지 4~5년이 걸리는 대표적인 대형 장모종으로, 골격이 튼튼하고 하복부의 복부 지방 패드(Fatty pad)가 형성되는 품종적 고유 특성을 지닙니다. 사람 품에 안기면 인형처럼 몸을 완전히 내맡기는 극상의 온순함을 자랑하지만, 빽빽한 이중모 관리와 체중 조절, 심장 질환(HCM) 예방 관리가 필수적입니다. 이번 가이드에서는 라가머핀의 교감 신호를 해석하고 건강한 성장을 돕는 3단계 데일리 케어 루틴을 다룹니다.",
+        "whyTitle": "라가머핀의 감정 표현: 몸 이완하기(Limp Posture)와 골골송 반응",
+        "whyDesc": "라가머핀은 안아 들었을 때 긴장을 완전히 풀고 온몸을 오징어처럼 늘어뜨리는 **'몸 이완하기(Going Limp)'** 행동으로 깊은 신뢰를 표출합니다. 또한 보호자가 다가오면 높은 톤의 부드러운 가르랑 소리(**'골골송'**)를 내며 머리를 문지르는 행동으로 애정을 요구합니다.",
+        "body_signals": [
+          {
+            "name": "품 안에서 몸 늘어뜨리기 (Going Limp)",
+            "meaning": "보호자에 대한 완전한 안정감과 방어 해제를 의미하며, 스트레스가 전혀 없는 최상의 심리적 편안함 상태입니다.",
+            "response": "몸 전체를 떨어뜨리지 않게 하체까지 포근히 받쳐 안아주며 따뜻한 스킨십을 이어갑니다."
+          },
+          {
+            "name": "부드러운 골골송과 꾹꾹이 (Purring & Kneading)",
+            "meaning": "극도의 행복감과 교감 욕구를 나타내는 신호로, 보호자와의 긴밀한 유대감을 강화하고 싶을 때 나타납니다.",
+            "response": "다정한 목소리로 이름을 불러주고 턱 밑이나 귀 뒤쪽을 부드럽게 긁어주어 호응합니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 빗질을 통한 장모 속털 관리 및 하복부 점검",
+            "text": "핀 브러시로 죽은 털과 엉킴을 제거해 헤어볼을 예방합니다. 하복부의 자연스러운 지방 패드 상태와 체중 변화를 정기적으로 체크합니다."
+          },
+          {
+            "name": "낮: 관절 부담을 줄이는 낮게 설계된 사냥 놀이",
+            "text": "대형 골격이 완만히 성장하도록 무리한 높은 점프 대신 바닥 위주의 깃털 낚싯대 놀이로 매일 15~20분간 적당한 운동량을 제공합니다."
+          },
+          {
+            "name": "저녁: 고단백 영양 급여 및 유전 질환 상태 관찰",
+            "text": "4~5년에 걸친 긴 성장기에 맞춘 고단백 수분 풍부 습식 사료를 급여합니다. 심장 마찰음이나 호흡 이상 등 비대성 심근증(HCM) 관련 이상 증상을 관찰합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "랙돌(Ragdoll)과 라가머핀(Ragamuffin)은 무엇이 다른가요?",
+            "answer": "랙돌은 에메랄드빛이 아닌 오직 '파란 눈'과 포인터 모색만 인정되지만, 라가머핀은 그린, 앰버 등 모든 눈 색상과 코트 컬러/패턴(단색, 바이컬러, 태비 등)이 허용됩니다. 또한 라가머핀이 둥근 머리 윤곽과 조금 더 두터운 골격을 가집니다."
+          },
+          {
+            "question": "뱃살처럼 처진 복부는 비만인가요?",
+            "answer": "라가머핀의 하복부 지방 패드(Fatty pad)는 장기 보호 및 유연한 움직임을 위해 형성되는 품종 고유의 정식 표준 특성입니다. 다만 전체적인 뼈대 대비 갈비뼈가 잡히지 않을 정도의 과도한 체중 증가라면 수의사와 상담하여 체중 관리를 시작해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Ragamuffin Cat Coat Care and 3-Step Slow-Growth Vitality Daily Routine",
+        "description": "Caring for the silky-coated, ultra-placid Ragamuffin cat. Discover their slow 4-5 year maturation process and a 3-step daily routine to prevent coat matting and maintain ideal weight.",
+        "authority": "Cat Fanciers' Association (CFA) & TICA Breed Standards, International Society of Feline Medicine (ISFM)",
+        "profile": {
+          "breed": "Ragamuffin Cat",
+          "lifespan": "12 - 16 Years",
+          "sleep_pattern": "12 - 16 Hours (Relaxed Indoor Sleep Suited for Large Breeds)",
+          "temperament": "Docile, Affectionate, Placid, Lap Cat, Gentle, Patient"
+        },
+        "intro": "Derived from the Ragdoll in the 1990s, the Ragamuffin is a large, heavily boned cat breed famous for its dense, plush rabbit-like coat, diverse color patterns, and exceptionally expressive walnut-shaped eyes. Taking 4 to 5 years to reach full physical maturity, Ragamuffins uniquely possess a natural fatty pad on their lower abdomen as outlined in breed standards. Renowned for going completely limp when cradled in human arms, they are ultimate lap cats. However, their plush double coat requires routine grooming, and their slow maturation calls for careful nutrition and monitoring for hypertrophic cardiomyopathy (HCM). In this guide, outlines Ragamuffin communication signals and a 3-step daily care guide.",
+        "whyTitle": "Ragamuffin Communication: Going Limp and Contented Purring",
+        "whyDesc": "Ragamuffins express profound trust by relaxing their entire muscular frame when lifted, a behavior known as **'Going Limp'**. When seeking human interaction, they greet their owners with soft, chirping purrs (**'Contented Purring'**) and gentle head-butts.",
+        "body_signals": [
+          {
+            "name": "Relaxing Muscles in Arms (Going Limp)",
+            "meaning": "Signifies absolute trust and complete release of defense mechanisms, reflecting a state of pure emotional security.",
+            "response": "Support their hindquarters securely while holding them, continuing warm, gentle physical affection."
+          },
+          {
+            "name": "Soft Purring & Kneading (Purring & Kneading)",
+            "meaning": "Indicates supreme happiness and a desire for bonding and emotional connection with their caregiver.",
+            "response": "Acknowledge them with a soothing voice and gently scratch behind their ears or under their chin."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Plush Coat Brushing & Abdominal Pad Check",
+            "text": "Gently comb their plush undercoat with a pin brush to prevent mats and hairballs. Inspect their natural lower abdominal fat pad and monitor body condition."
+          },
+          {
+            "name": "Afternoon: Low-Impact Ground Play & Mental Bonding",
+            "text": "Engage them in 15-20 minutes of floor-based wand-toy games rather than high jumping to protect developing joints during their long growth period."
+          },
+          {
+            "name": "Evening: High-Protein Nutrition & Cardiac Health Monitoring",
+            "text": "Provide high-protein wet food tailored for slow-growing large breeds. Observe for signs of cardiac stress or lethargy associated with Hypertrophic Cardiomyopathy (HCM)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "What is the main difference between a Ragdoll and a Ragamuffin?",
+            "answer": "Ragdolls strictly feature pointed coat patterns and blue eyes. Ragamuffins come in all coat colors, patterns (solid, tabby, mink, tortoiseshell), and eye colors (green, gold, amber, blue). Ragamuffins also possess a slightly rounder head and broader build."
+          },
+          {
+            "question": "Is the pouch on their lower belly a sign of obesity?",
+            "answer": "No, a lower abdominal fatty pad is a natural physical standard trait for Ragamuffins, meant to protect organs and allow flexibility. However, if their ribs are no longer easily felt beneath their coat, consult a vet for weight management."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ラガマフィンの毛並みケアと緩やかな成長を支える3ステップ日常ルーティン",
+        "description": "絹のように柔らかい被毛と、抱っこされると脱力する愛好家憧れのラガマフィン。4〜5年かける緩やかな成長と毛玉防止に向けた3ステップお手入れガイドをご紹介します。",
+        "authority": "CFAおよびTICA品種標準、国際猫医学会（ISFM）臨床ガイドライン",
+        "profile": {
+          "breed": "ラガマフィン (Ragamuffin Cat)",
+          "lifespan": "12 〜 16年",
+          "sleep_pattern": "12 〜 16時間 (大型猫ならではの悠々と深い室内睡眠)",
+          "temperament": "温厚、人懐っこい、甘えん坊、非常に穏やか、包容力がある、我慢強い"
+        },
+        "intro": "1990年代にラグドールから派生して確立されたラガマフィンは、ウサギのようにふわふわとした密生した被毛と多様な毛色、愛らしい目が魅力の大型猫種です。成猫になるまで4〜5年を要する代表的な大型長毛種で、頑丈な骨格と下腹部の「ファティパッド（腹部脂肪層）」という猫種固有のスタンダード特徴を持っています。抱っこされると人形のように脱力する極めて人懐っこい性格ですが、毛玉防止のブラッシングや適正体重の維持、心臓病（HCM）の定期健診が欠かせません。本記事では、ラガマフィンのサイン解読と健やかな成長を助ける日常ケアプロトコルを解説します。",
+        "whyTitle": "ラガマフィンの感情表現：抱っこでの脱力（ゴーイング・リンプ）とゴロゴロ音",
+        "whyDesc": "ラガマフィンは抱き上げられると体中の力を完全に抜く**「脱力（Going Limp）」**という行動で深い信頼を示します。また、飼い主に近づくと高めの可愛らしい声で**「ゴロゴロ音（Purring）」**を鳴らし、すりすりとおねだりします。",
+        "body_signals": [
+          {
+            "name": "腕の中で力を抜く脱力行動 (Going Limp)",
+            "meaning": "飼い主に対する絶対的な安心感と警戒心の解除を意味する、心理的に極めてリラックスした状態です。",
+            "response": "体を落とさないよう下半身までしっかり支えて抱っこし、優しくスキンシップを続けましょう。"
+          },
+          {
+            "name": "優しく鳴らすゴロゴロ音とふみふみ (Purring & Kneading)",
+            "meaning": "最高の幸福感と愛情表現であり、飼い主との強い絆を実感しているサインです。",
+            "response": "優しい声で名前を呼び、あごの下や耳の後ろを優しく撫でて応えてあげてください。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：ふわふわ被毛のブラッシングと下腹部チェック",
+            "text": "ピンブラシで密生したアンダーコートの抜け毛を取り除き、毛玉や毛球症を防ぎます。下腹部にある天然の脂肪パッドの柔らかさと体重変化を観察します。"
+          },
+          {
+            "name": "昼：関節に優しい低めのアジリティ・狩りごっこ",
+            "text": "骨格がゆっくり成長する時期のため、高所からのジャンプは避け、床でジャラシやフェザーを使った15〜20分程度の遊びで運動量を確保します。"
+          },
+          {
+            "name": "夜：高タンパクの栄養給餌と心臓の健康観察",
+            "text": "長期間の成長期に合わせ、水分と高タンパク質が豊富なウェットフードを与えます。肥大性心筋症（HCM）の初期症状である呼吸の乱れがないか観察します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ラグドール（Ragdoll）とラガマフィンの違いは何ですか？",
+            "answer": "ラグドールは「青い目」とポイントカラー（ポインテッド）のみが認められていますが、ラガマフィンはグリーンやアンバーなど全ての目の色、あらゆる毛色・パターン（単色、タビー等）が許容されます。また頭部の輪郭もラガマフィンの方がやや丸みを帯びています。"
+          },
+          {
+            "question": "お腹の下にたるんでいるお肉は肥満ですか？",
+            "answer": "ラガマフィンの下腹部にある脂肪層（Fatty pad）は、内臓の保護と柔軟な動きのために存在する血統標準の正常な特徴です。ただし、肋骨に触れられないほどの過剰な体重増加が見られる場合は、獣医師に相談して食事管理を行いましょう。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "拉加马芬猫被毛护理与长达4-5年缓慢生长的3阶段日常护理指南",
+        "description": "针对拥有丝般繁茂被毛、抱起即全身放松的温柔巨猫拉加马芬猫（Ragamuffin）。介绍其长达4-5年的缓慢发育特性与防止毛发打结的3阶段日常护理流程。",
+        "authority": "国际爱猫协会 (CFA) 及 TICA 犬猫品种标准、国际猫科医学会 (ISFM) 临床指南",
+        "profile": {
+          "breed": "拉加马芬猫 (Ragamuffin Cat)",
+          "lifespan": "12 ~ 16年",
+          "sleep_pattern": "12 ~ 16小时 (适应大型猫特点的放松深度室内睡眠)",
+          "temperament": "温顺、极其亲人、粘人、悠闲、包容力强、脾气极佳"
+        },
+        "intro": "拉加马芬猫于20世纪90年代源自布偶猫（Ragdoll）品种的繁育分支，是一种拥有重型骨骼、如兔毛般密实柔顺被毛和丰富毛色的大型长毛猫。拉加马芬猫需要4至5年才能完全发育成熟，品种标准中明确规定其下腹部拥有天然的“脂肪垫 (Fatty pad)”。它们因抱在怀中时会像布偶一样完全放松身体而闻名，是理想的伴侣猫。然而，其丰厚的双层被毛需要定期梳理，长期的生长发育过程也需要科学的高蛋白营养以及针对肥大性心肌病（HCM）的定期筛查。本指南将解析拉加马芬猫的情感信号并分享3阶段日常护理流程。",
+        "whyTitle": "拉加马芬猫的情感表达：放松瘫软（Going Limp）与咕噜咕噜声",
+        "whyDesc": "当被主人抱起时，拉加马芬猫会完全放松全身肌肉，呈现标志性的**“瘫软放松 (Going Limp)”**姿态，代表绝对的信任。当表达亲近意图时，它们会发出温和高频的**“咕噜咕噜声 (Purring)”**并用头部摩擦主人。",
+        "body_signals": [
+          {
+            "name": "怀中肌肉完全放松 (Going Limp)",
+            "meaning": "代表对主人百分之百的信任与安全感，完全卸下防御机制，处于最舒适的心理状态。",
+            "response": "抱着它们时请稳稳托住其下半身，给予温暖温和的抚摸与互动。"
+          },
+          {
+            "name": "温柔咕噜声与踩奶 (Purring & Kneading)",
+            "meaning": "表明极度幸福与依赖，是希望与主人加深情感联结的求关注信号。",
+            "response": "用温柔的声音呼唤其名字，轻挠其下巴或耳后以回应其爱意。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：双层被毛梳理与下腹部脂肪垫检查",
+            "text": "使用针梳梳理密实的底毛以防打结和吐毛球。检查下腹部天然脂肪垫的软硬度并监测体重变化。"
+          },
+          {
+            "name": "白天：低冲击地面互动与心理陪伴",
+            "text": "因骨骼长期处于发育期，避免高剧烈跳跃，改为进行15-20分钟地面逗猫棒捕猎游戏。"
+          },
+          {
+            "name": "晚上：高蛋白营养补充与心脏健康观察",
+            "text": "喂食符合长生长期需求的高蛋白湿粮。密切观察是否有呼吸急促或精神萎靡等肥大性心肌病（HCM）潜在信号。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "布偶猫 (Ragdoll) 与拉加马芬猫 (Ragamuffin) 有何区别？",
+            "answer": "布偶猫仅认可蓝眼和重点色被毛；而拉加马芬猫认可所有眼色（绿色、琥珀色、蓝色等）和所有毛色与花纹（单色、双色、虎斑等）。拉加马芬猫的头部线条也更为圆润，骨骼更显沉重。"
+          },
+          {
+            "question": "拉加马芬猫下腹部下垂的肉是肥胖导致的吗？",
+            "answer": "拉加马芬猫下腹部的脂肪垫 (Fatty pad) 是其品种标准中认可的自然生理特征，用于保护内脏并维持身体灵活性。但如果手掌抚摸时已完全无法触摸到肋骨，则属于病理性肥胖，需咨询兽医进行饮食管理。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cuidados del pelaje del gato Ragamuffin y rutina de 3 pasos para su crecimiento lento",
+        "description": "Atenciones para el suave y apacible gato Ragamuffin. Descubra su proceso de maduración de 4 a 5 años y la rutina de 3 pasos para evitar nudos en su manto y mantener un peso saludable.",
+        "authority": "Estándares de CFA y TICA, Sociedad Internacional de Medicina Felina (ISFM)",
+        "profile": {
+          "breed": "Gato Ragamuffin (Ragamuffin Cat)",
+          "lifespan": "12 ~ 16 años",
+          "sleep_pattern": "12 ~ 16 horas (sueño profundo y relajado en interiores de razas grandes)",
+          "temperament": "Dócil, afectuoso, apacible, faldero, paciente, dulce"
+        },
+        "intro": "Derivado del Ragdoll en la década de 1990, el Ragamuffin es una raza felina grande de osamenta pesada, famosa por su pelaje tupido y afelpado similar al del conejo, sus variados colores y sus expresivos ojos en forma de nuez. Al tardar de 4 a 5 años en alcanzar su tamaño adulto, el Ragamuffin posee por estándar un pliegue graso abdominal inferior (fatty pad) característico. Son conocidos por quedarse completamente laxos ('going limp') cuando se les toma en brazos. Sin embargo, su espeso manto doble requiere cepillado regular, y su largo crecimiento exige nutrición rica en proteínas y chequeos cardíacos periódicos para descartar la miocardiopatía hipertrófica (HCM). En esta guía, compartimos su guía de cuidados.",
+        "whyTitle": "Comunicación del Ragamuffin: Postura laxa en brazos (Going Limp) y ronroneo",
+        "whyDesc": "El Ragamuffin expresa confianza ciega relajando por completo toda su musculatura cuando se le sostiene, un fenómeno denominado **'Quedarse Laxo' (Going Limp)**. Además, suele saludar a sus tutores con suaves **'Ronroneos y Amasados'** mientras frota su cabeza.",
+        "body_signals": [
+          {
+            "name": "Relajación muscular en brazos (Going Limp)",
+            "meaning": "Significa confianza absoluta y ausencia total de defensas, demostrando un estado de máxima paz emocional.",
+            "response": "Sostenga siempre su tren posterior para que se sienta seguro mientras disfruta de las caricias."
+          },
+          {
+            "name": "Ronroneo suave y amasado (Purring & Kneading)",
+            "meaning": "Muestra de inmensa dicha y afecto; señala el deseo de conectar estrechamente con su cuidador.",
+            "response": "Háblele con voz dulce y acaricie suavemente la zona tras las orejas o bajo la barbilla."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Cepillado del manto afelpado y revisión abdominal",
+            "text": "Peine el subpelo denso con un cepillo de púas metálicas sin bola para evitar nudos y bolas de pelo. Revise la textura de su almohadilla grasa abdominal."
+          },
+          {
+            "name": "Tarde: Juego a nivel del suelo para proteger articulaciones",
+            "text": "Durante su prolongada etapa de desarrollo, evite saltos desde gran altura. Promueva 15-20 minutos de juego con cañas a nivel del suelo."
+          },
+          {
+            "name": "Noche: Nutrición alta en proteína y control cardiológico",
+            "text": "Proporcione alimento húmedo rico en proteína e hidratación. Observe posibles signos de cansancio o fatiga respiratoria vinculados a la miocardiopatía hipertrófica (HCM)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿En qué se diferencian el Ragdoll y el Ragamuffin?",
+            "answer": "El Ragdoll solo admite ojos azules y patrón 'point' (extremidades oscuras). El Ragamuffin acepta todos los colores de ojos (verde, ámbar, azul) y cualquier patrón o color de pelaje (sólido, atigrado, marten, etc.). Además, el Ragamuffin tiene la cabeza más redondeada."
+          },
+          {
+            "question": "¿La bolsa en su vientre bajo indica sobrepeso?",
+            "answer": "No, la almohadilla grasa abdominal (fatty pad) es un rasgo anatómico natural y reconocido por el estándar de la raza Ragamuffin. No obstante, si no logra palpar sus costillas bajo el manto, consulte al veterinario."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Soin du pelage du chat Ragamuffin et routine quotidienne en 3 étapes pour sa croissance lente",
+        "description": "Prendre soin du doux et paisible chat Ragamuffin. Découvrez sa croissance lente sur 4 à 5 ans et une routine en 3 étapes pour éviter les nœuds et maintenir sa santé cardiaque.",
+        "authority": "Standards de race CFA & TICA, International Society of Feline Medicine (ISFM)",
+        "profile": {
+          "breed": "Chat Ragamuffin (Ragamuffin Cat)",
+          "lifespan": "12 ~ 16 ans",
+          "sleep_pattern": "12 ~ 16 heures (sommeil calme et profond en intérieur propre aux grandes races)",
+          "temperament": "Doux, très affectueux, calme, chat de genoux, patient, indulgent"
+        },
+        "intro": "Issu du Ragdoll dans les années 1990, le Ragamuffin est un grand chat à l'ossature lourde, célèbre pour son pelage dense et doux comme de la fourrure de lapin, ses robes variées et ses grands yeux expressifs. Prenant 4 à 5 ans pour atteindre sa taille adulte, le Ragamuffin possède officiellement une poche graisseuse abdominale (fatty pad) sur le bas du ventre. Connu pour se détendre complètement ('going limp') dans les bras, c'est le chat d'intérieur par excellence. Toutefois, sa fourrure fournie exige un brossage régulier, et sa croissance lente demande une alimentation riche en protéines et un suivi de la cardiomyopathie hypertrophique (HCM).",
+        "whyTitle": "Communication du Ragamuffin : Relâchement dans les bras (Going Limp) et ronronnements",
+        "whyDesc": "Le Ragamuffin témoigne d'une confiance absolue en relâchant entièrement sa musculature lorsqu'on le porte, un comportement appelé **'Relâchement Total' (Going Limp)**. Il sollicite l'affection en émettant de doux **'Ronronnements et Petits Coups de Tête'**.",
+        "body_signals": [
+          {
+            "name": "Abandon musculaire dans les bras (Going Limp)",
+            "meaning": "Preuve de confiance totale et d'abandon des défenses, reflétant un confort émotionnel absolu.",
+            "response": "Soutenez bien son arrière-train pour qu'il se sente en sécurité tout en le caressant doucement."
+          },
+          {
+            "name": "Ronronnement doux et patounage (Purring & Kneading)",
+            "meaning": "Signe d'un bonheur intense et d'un besoin de complicité affectueuse avec son propriétaire.",
+            "response": "Répondez avec une voix douce et grattez-le délicatement sous le menton ou derrière les oreilles."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Brossage du pelage pelucheux et examen du ventre",
+            "text": "Brossez le sous-poil dense avec une brosse à picots pour éviter les nœuds et la formation de boules de poils. Contrôlez la poche graisseuse naturelle de son bas-ventre."
+          },
+          {
+            "name": "Après-midi : Jeux au sol pour préserver les articulations",
+            "text": "Durant sa longue période de croissance, privilégiez 15 à 20 minutes de jeu au sol avec un plumet plutôt que de grands sauts en hauteur."
+          },
+          {
+            "name": "Soir : Alimentation protéinée et surveillance cardiaque",
+            "text": "Offrez une pâtée riche en protéines et en eau adaptée à sa croissance. Observez l'absence de fatigue anormale ou de gêne respiratoire (prévention HCM)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Quelle est la différence entre le Ragdoll et le Ragamuffin ?",
+            "answer": "Le Ragdoll n'est accepté qu'avec les yeux bleus et le patron 'point'. Le Ragamuffin accepte toutes les couleurs d'yeux (vert, ambre, bleu) et toutes les couleurs/motifs de robe (solide, tabby, marten, etc.). Le Ragamuffin a aussi une tête plus ronde."
+          },
+          {
+            "question": "Le surplus de peau/graisse sous le ventre est-il un signe d'obésité ?",
+            "answer": "Non, la poche graisseuse abdominale (fatty pad) est un trait naturel et officiel du standard de la race Ragamuffin. Cependant, si vous ne sentez plus du tout ses côtes au toucher, consultez votre vétérinaire."
+          }
+        ]
+      },
+      "de": {
+        "title": "Ragamuffin Katze Fellpflege und 3-Schritte-Tagesroutine für das langsame Wachstum",
+        "description": "Pflege für die seidenweiche, sanftmütige Ragamuffin Katze. Erfahren Sie alles über das 4-5-jährige Wachstum und die 3-Schritte-Routine gegen Verfilzungen und für die Herzgesundheit.",
+        "authority": "CFA & TICA Rassestandards, International Society of Feline Medicine (ISFM)",
+        "profile": {
+          "breed": "Ragamuffin Katze (Ragamuffin Cat)",
+          "lifespan": "12 ~ 16 Jahre",
+          "sleep_pattern": "12 ~ 16 Stunden (Entspannter Wohnungs-Schlaf großer Katzenrassen)",
+          "temperament": "Sanftmütig, sehr menschenbezogen, verschmust, gelassen, geduldig, freundlich"
+        },
+        "intro": "Die in den 1990er Jahren aus der Ragdoll hervorgegangene Ragamuffin ist eine große, knochenstarke Katzenrasse, die für ihr dichtes, plüschiges Fell (ähnlich einem Kaninchenfell), ihre Vielfalt an Fellfarben und ihre ausdrucksstarken Augen berühmt ist. Sie benötigt 4 bis 5 Jahre, um ihre volle Körpergröße zu erreichen, und besitzt standardgemäß eine natürliche Fetttasche am Unterbauch (Fatty pad). Ragamuffins sind bekannt dafür, auf dem Arm wie eine Stoffpuppe völlig zu entspannen ('going limp'). Das plüschige Doppelkopffell erfordert regelmäßiges Bürsten, und die lange Entwicklungsphase verlangt hochwertige Proteine sowie ein Screening auf Hypertrophe Kardiomyopathie (HCM).",
+        "whyTitle": "Kommunikation der Ragamuffin: Muskelentspannung auf dem Arm und Schnurren",
+        "whyDesc": "Die Ragamuffin drückt tiefes Vertrauen aus, indem sie beim Hochheben ihre Muskeln komplett erschlaffen lässt – bekannt als **'Entspannen im Arm' (Going Limp)**. Wenn sie Zuwendung sucht, begrüßt sie ihren Halter mit sanftem Schnurren (**'Zufriedenes Schnurren'**) und Köpfchengeben.",
+        "body_signals": [
+          {
+            "name": "Erschlaffen der Muskeln auf dem Arm (Going Limp)",
+            "meaning": "Zeichen für absolutes Vertrauen und das vollständige Ablegen von Schutzreflexen; zeugt von emotionaler Sicherheit.",
+            "response": "Stützen Sie das Hinterteil beim Tragen gut ab und schenken Sie ihr sanfte Streicheleinheiten."
+          },
+          {
+            "name": "Sanftes Schnurren und Tretpformatation (Purring & Kneading)",
+            "meaning": "Ausdruck von großer Zufriedenheit und der Wunsch nach enger Bindung zum Besitzer.",
+            "response": "Antworten Sie mit ruhiger Stimme und kraulen Sie die Katze am Kinn oder hinter den Ohren."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Fellpflege des Plüschfells & Bauchfalten-Check",
+            "text": "Kämmen Sie das dichte Unterfell mit einer Stiftbürste durch, um Verfilzungen vorzubeugen. Überprüfen Sie das Fettpolster am Unterbauch auf Konsistenz."
+          },
+          {
+            "name": "Nachmittag: Gelenkschonendes Spiel am Boden",
+            "text": "Vermeiden Sie während der langen Wachstumsphase hohe Sprünge. Nutzen Sie Reizangeln für 15-20 Minuten bodennahes Spiel."
+          },
+          {
+            "name": "Abend: Proteinreiche Ernährung & Herzkreislauf-Beobachtung",
+            "text": "Füttern Sie proteinreiches Nassfutter, das den langen Wachstumszyklus unterstützt. Achten Sie auf Anzeichen von Atemnot oder Trägheit (HCM-Prophylaxe)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Was unterscheidet die Ragdoll von der Ragamuffin?",
+            "answer": "Ragdolls haben ausschließlich blaue Augen und Points (dunkle Abzeichen). Ragamuffins sind in allen Augenfarben (Grün, Bernstein, Blau) und Fellmustern (Solid, Tabby, Bicolor) anerkannt. Zudem ist der Kopf der Ragamuffin etwas rundlicher."
+          },
+          {
+            "question": "Ist die Gewebefalte am Unterbauch ein Zeichen von Übergewicht?",
+            "answer": "Nein, die Fettlasche am Unterbauch (Fatty pad) ist ein offizielles Merkmal des Ragamuffin-Rassestandards zum Schutz der Organe. Wenn die Rippen unter dem Fell jedoch gar nicht mehr tastbar sind, sollten Sie den Tierarzt konsultieren."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Cuidados com a pelagem do gato Ragamuffin e rotina diária de 3 passos para crescimento lento",
+        "description": "Cuidados para o dócil e tranquilo gato Ragamuffin. Descubra o seu processo de maturação de 4 a 5 anos e a rotina de 3 passos para evitar nós no pelo e manter a saúde cardíaca.",
+        "authority": "Padrões de Raça da CFA e TICA, Sociedade Internacional de Medicina Felina (ISFM)",
+        "profile": {
+          "breed": "Gato Ragamuffin (Ragamuffin Cat)",
+          "lifespan": "12 ~ 16 anos",
+          "sleep_pattern": "12 ~ 16 horas (sono tranquilo de raça grande em ambiente interno)",
+          "temperament": "Dócil, afetuoso, tranquilo, dócil de colo, paciente, tolerante"
+        },
+        "intro": "Derivado do Ragdoll na década de 1990, o Ragamuffin é uma raça de gato grande e de ossatura pesada, famosa pela pelagem densa e macia como a de um coelho, variedade de cores e olhos expressivos. Levando de 4 a 5 anos para atingir a maturidade física total, o Ragamuffin possui por padrão uma bolsa de gordura abdominal inferior (fatty pad). Conhecidos por relaxarem completamente os músculos quando segurados no colo ('going limp'), são companheiros extremamente afetuosos. No entanto, a pelagem dupla requer escovação frequente, e o seu crescimento longo exige nutrição rica em proteínas e monitoramento da miocardiopatia hipertrófica (HCM).",
+        "whyTitle": "Comunicação do Ragamuffin: Relaxamento muscular no colo (Going Limp) e ronronar",
+        "whyDesc": "O Ragamuffin demonstra confiança absoluta ao relaxar completamente o corpo quando é levantado, comportamento conhecido como **'Ficar Relaxado' (Going Limp)**. Ao buscar carinho, cumprimenta o tutor com **'Ronronares Suaves'** e fricções de cabeça.",
+        "body_signals": [
+          {
+            "name": "Relaxamento dos músculos no colo (Going Limp)",
+            "meaning": "Significa confiança plena e ausência total de defesas, refletindo um estado de completo conforto emocional.",
+            "response": "Sustente o quadril do gato com firmeza ao segurá-lo, continuando com carinhos suaves."
+          },
+          {
+            "name": "Ronronar suave e patinar (Purring & Kneading)",
+            "meaning": "Demonstra profunda felicidade e desejo de vínculo afetuoso com o tutor.",
+            "response": "Responda com voz doce e faça carinho embaixo do queixo ou atrás das orelhas."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Escovação da pelagem densa e checagem abdominal",
+            "text": "Penteie a pelagem interna com escova de pinos para evitar nós e bolas de pelo. Inspecione a textura da bolsa de gordura abdominal."
+          },
+          {
+            "name": "Tarde: Brincadeiras no chão para proteger as articulações",
+            "text": "Evite saltos altos durante a sua longa fase de crescimento. Promova 15 a 20 minutos de jogos no chão com varinhas."
+          },
+          {
+            "name": "Noite: Nutrição rica em proteínas e observação cardíaca",
+            "text": "Ofereça ração úmida rica em proteínas e água. Observe se há cansaço excessivo ou respiração acelerada (prevenção de HCM)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Qual a diferença entre o Ragdoll e o Ragamuffin?",
+            "answer": "O Ragdoll só aceita olhos azuis e padrão de pelagem 'point'. O Ragamuffin aceita todas as cores de olhos (verde, âmbar, azul) e qualquer cor ou padrão de pelagem (sólido, tabaco, bicolor, etc.). O Ragamuffin também possui a cabeça mais arredondada."
+          },
+          {
+            "question": "A bolsa de gordura na barriga é sinal de obesidade?",
+            "answer": "Não, a bolsa de gordura abdominal (fatty pad) é uma característica natural e reconhecida pelo padrão da raça Ragamuffin. No entanto, se não for possível sentir as costelas ao tocar, consulte um veterinário."
+          }
+        ]
+      },
+      "id": {
+        "title": "Perawatan Bulu Kucing Ragamuffin dan Rutinitas Harian 3 Langkah Pertumbuhan Lambat",
+        "description": "Perawatan untuk kucing Ragamuffin yang lembut dan tenang. Pelajari proses kedewasaannya yang lambat (4-5 tahun) serta rutinitas 3 langkah untuk mencegah bulu menggumpal dan menjaga kesehatan jantung.",
+        "authority": "Standar Ras CFA & TICA, International Society of Feline Medicine (ISFM)",
+        "profile": {
+          "breed": "Kucing Ragamuffin (Ragamuffin Cat)",
+          "lifespan": "12 ~ 16 tahun",
+          "sleep_pattern": "12 ~ 16 jam (tidur tenang di dalam rumah khas ras kucing besar)",
+          "temperament": "Penurut, sangat penyayang, tenang, suka dipangku, sabar, ramah"
+        },
+        "intro": "Diturunkan dari ras Ragdoll pada tahun 1990-an, Ragamuffin adalah ras kucing besar bertulang berat yang terkenal dengan bulunya yang tebal dan lembut seperti bulu kelinci, variasi warna yang beragam, serta matanya yang sangat ekspresif. Membutuhkan waktu 4 hingga 5 tahun untuk mencapai kedewasaan fisik penuh, Ragamuffin secara resmi memiliki kantong lemak di perut bawah (fatty pad) sebagai standar ras. Terkenal akan sifatnya yang lemas pasrah ('going limp') saat diangkat, mereka adalah kucing pangkuan yang ideal. Namun, bulu ganda tebalnya memerlukan penyisiran rutin, dan masa tumbuhnya yang panjang membutuhkan nutrisi tinggi protein serta pemeriksaan jantung rutin (HCM).",
+        "whyTitle": "Komunikasi Ragamuffin: Tubuh Lemas Pasrah (Going Limp) dan Dengkur Lembut",
+        "whyDesc": "Ragamuffin menunjukkan rasa percaya yang mendalam dengan merilekskan seluruh otot tubuhnya saat diangkat, sebuah perilaku yang dikenal sebagai **'Tubuh Lemas Pasrah' (Going Limp)**. Saat meminta perhatian, mereka menyapa pemiliknya dengan **'Dengkur Lembut' (Purring)** dan sundulan kepala.",
+        "body_signals": [
+          {
+            "name": "Melemaskan Otot Saat Diangkat (Going Limp)",
+            "meaning": "Menandakan kepercayaan mutlak dan pelepasan pertahanan diri, mencerminkan kenyamanan emosional yang tinggi.",
+            "response": "Pegang dan sanggah bagian tubuh bawahnya dengan stabil sambil mengelusnya dengan lembut."
+          },
+          {
+            "name": "Dengkur Lembut dan Gerakan Meredam (Purring & Kneading)",
+            "meaning": "Sinyal kebahagiaan luar biasa dan keinginan untuk mempererat ikatan kasih sayang dengan pemilik.",
+            "response": "Sambut dengan suara lembut dan elus area bawah dagu atau belakang telinganya."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Menyisir Bulu Tebal & Pemeriksaan Lipatan Perut",
+            "text": "Sisir bulu halus bagian dalam dengan sisir pin untuk mencegah gumpalan bulu (hairball). Periksa kondisi lipatan lemak di perut bawahnya."
+          },
+          {
+            "name": "Siang: Permainan Tingkat Lantai untuk Menjaga Sendi",
+            "text": "Selama masa pertumbuhannya yang panjang, hindari lompatan tinggi. Lakukan permainan pancingan bulu di atas lantai selama 15-20 menit."
+          },
+          {
+            "name": "Malam: Nutrisi Tinggi Protein & Pemantauan Kesehatan Jantung",
+            "text": "Berikan makanan basah tinggi protein yang sesuai untuk ras besar. Amati adanya gejala napas terengah-engah atau kelelahan (pencegahan HCM)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apa perbedaan utama antara Ragdoll dan Ragamuffin?",
+            "answer": "Ragdoll hanya diakui dengan mata biru dan pola warna 'point' (ujung gelap). Ragamuffin diakui dengan semua warna mata (hijau, amber, biru) dan semua pola/warna bulu (solid, tabby, bicolor). Bentuk kepala Ragamuffin juga sedikit lebih membulat."
+          },
+          {
+            "question": "Apakah kantong lemak di perut bawahnya menandakan obesitas?",
+            "answer": "Tidak, kantong lemak perut bawah (fatty pad) adalah ciri fisik alami dan diakui secara resmi dalam standar ras Ragamuffin. Namun jika tulang rusuknya sama sekali tidak teraba di balik bulu, berkonsultasilah dengan dokter hewan."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/ragamuffin_cat_care.webp"
+  }
 }

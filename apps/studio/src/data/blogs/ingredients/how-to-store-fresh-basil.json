@@ -1,406 +1,406 @@
 {
-    "how-to-store-fresh-basil": {
-        "ingId": "fresh-basil",
-        "pubDate": "2026-01-15",
-        "updatedDate": "2026-01-15",
-        "heroImage": "/images/blog/fresh_basil_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "생 바질 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 생 바질의 최적 보관 온도, 저온 장애 방지법 및 보관 기한을 확인하세요.",
-                "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS) & UC Davis Postharvest Center",
-                "intro": "싱싱한 생 바질을 사와서 냉장고 야채칸에 넣어두었다가 단 하루 만에 검게 무르고 변색되어 버린 적 있으시죠? 🌿\n\n바질은 열대 및 아열대 기후가 원산지인 허브로, 저온 환경에 극도로 취약한 생리적 특성을 가지고 있습니다. 일반 냉장고 온도(약 4℃) 같은 10℃ 이하의 저온에 노출되면 세포막이 파괴되는 '저온 장애(Chilling Injury)'를 입어 순식간에 검게 변색됩니다.\n\n이번 가이드에서는 미국 농무부(USDA)와 UC Davis 포스트하베스트 센터의 검증된 가이드라인을 바탕으로, 바질의 상큼한 향과 신선도를 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "10℃ 이하의 냉장고에 절대로 보관하지 마세요 ⚠️",
-                        "desc": "생 바질을 10℃ 이하의 저온에 노출시키면 세포 조직이 파괴되며 폴리페놀 옥시다아제(PPO) 효소가 활성화되어 잎이 빠르게 검은색으로 갈변합니다. 수 시간 내에 잎이 흐물거리고 고유의 핵심 향 성분(리날룰, 유제놀)이 쉽게 파괴됩니다."
-                    },
-                    {
-                        "title": "잎 표면에 물기가 남은 상태로 밀폐 보관하지 마세요 💧",
-                        "desc": "수분이 잎 표면에 고여 있으면 곰팡이와 세균이 급격히 번식하고 무름 현상이 촉진됩니다. 세척은 반드시 조리 직전에 하고, 보관 시에는 잎 표면에 물기가 없도록 건조한 상태를 유지해야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "줄기 끝을 자르고 꽃병처럼 실온 물꼬지 보관 — 실온 수경 보관 (7~14일) 🌿",
-                        "text": "바질은 꽃을 보관하듯이 실온(12~15℃)에서 물에 담가 보관해야 가장 오래 싱싱합니다. 💡 보관 팁: 줄기 하단 끝을 사선으로 살짝 자른 뒤 물이 담긴 유리병에 세워두고, 잎 위로 비닐봉지를 느슨하게 덮어주세요. 수분 증발을 막으면서 저온 장애 없이 1~2주간 신선함이 유지됩니다."
-                    },
-                    {
-                        "name": "직사광선과 열기를 피해 어둡고 서늘한 장소에 두기 — 환경 관리 ☀️",
-                        "text": "실온에 보관할 때 창가 근처의 강한 직사광선이나 가스레인지 주변의 열기에 노출되면 잎이 금방 시들고 황변합니다. 💡 보관 팁: 직사광선이 비치지 않는 주방의 서늘한 음지(12~15℃)에 두고 1~2일마다 병의 물을 새것으로 교체해 주세요."
-                    },
-                    {
-                        "name": "장기 보관 시 다진 바질을 올리브유와 함께 다성형 트레이에 냉동 — 오일큐브 냉동 보관 (90~180일) 🧊",
-                        "text": "1~2주 이상 장기 보관해야 한다면 잎을 수확하여 올리브유와 함께 냉동하는 것이 최고의 방법입니다. 💡 보관 팁: 깨끗이 건조한 바질 잎을 다진 후 얼음 트레이에 담고 올리브 오일을 채워 냉동하세요. 기름이 산소 접촉을 완전히 차단하여 갈변과 향 손실 없이 파스타나 스튜에 바로 사용할 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "냉장고에 넣었다가 검게 변한 바질, 먹어도 괜찮은가요?",
-                        "answer": "저온 장애로 검게 변한 바질은 독성이 생기는 것은 아니지만, 세포막이 파괴되면서 신선도와 향 성분이 손실되고 잎이 무른 상태입니다. 곰팡이나 이상 악취가 없다면 가열 요리(소스, 스튜)에 사용 가능하지만, 상큼한 풍미가 저하되었으므로 되도록 생으로 먹지 않는 것이 좋습니다."
-                    },
-                    {
-                        "question": "바질을 물에 씻어서 보관해야 하나요?",
-                        "answer": "아닙니다! 보관 전 바질을 물에 씻으면 잎 사이에 남은 수분으로 인해 세포가 빠르게 무르고 곰팡이가 생기기 쉽습니다. 보관 전에는 씻지 않고 흙만 가볍게 털어낸 뒤, 사용하기 직전에 흐르는 물에 씻어 물기를 제거하고 사용하세요."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Fresh Basil Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, chilling injury prevention, and shelf life for fresh basil based on official safety guidelines.",
-                "authority": "USDA & MFDS & UC Davis Postharvest Center",
-                "intro": "Have you ever brought home crisp fresh basil, put it in the refrigerator crisper drawer, and found it turned completely black and wilted the next day? 🌿\n\nBasil is a tropical and subtropical herb that is extremely sensitive to cold temperatures. When exposed to temperatures below 10°C (50°F)—such as a standard refrigerator at ~4°C—it suffers from 'chilling injury,' causing its cell membranes to collapse and the leaves to blacken rapidly.\n\nIn this guide, based on scientific guidelines from the USDA and the UC Davis Postharvest Technology Center, we share a 3-step storage method to maintain fresh basil's vibrant aroma and freshness. 🛡️",
-                "whyTitle": "Why Store Fresh Basil This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never store fresh basil in temperatures below 10°C (50°F) ⚠️",
-                        "desc": "Exposing fresh basil to temperatures below 10°C breaks down cellular tissue and activates polyphenol oxidase (PPO) enzymes, rapidly browning the leaves. Within hours, leaves become soft and lose essential aromatic compounds like linalool and eugenol."
-                    },
-                    {
-                        "title": "Do not store with excess moisture on the leaves 💧",
-                        "desc": "Standing moisture on leaf surfaces accelerates fungal and bacterial growth and leads to rapid rotting. Wash basil only immediately before cooking and ensure leaves are dry during storage."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Trim stems and store at room temperature like a bouquet — Room Temp Water Storage (7–14 Days) 🌿",
-                        "text": "Basil stays fresh longest when placed in water at room temperature (12–15°C / 54–59°F). 💡 Storage Tip: Trim the stem ends diagonally, place stems upright in a glass of water, and loosely cover the top with a plastic bag. This prevents moisture loss and chilling injury, keeping it fresh for 1 to 2 weeks."
-                    },
-                    {
-                        "name": "Keep away from direct sunlight and heat — Environment Control ☀️",
-                        "text": "Exposing basil to strong sunlight or heat near cooking appliances will cause leaves to wilt and yellow quickly. 💡 Storage Tip: Place the jar in a cool, shaded area (12–15°C) away from direct sunlight and change the water every 1 to 2 days."
-                    },
-                    {
-                        "name": "Freeze chopped basil with olive oil for long-term storage — Oil Cube Freezing (90–180 Days) 🧊",
-                        "text": "For long-term storage exceeding two weeks, freezing basil with olive oil is the best method. 💡 Storage Tip: Chop clean, completely dry basil leaves, place them into an ice cube tray, and submerge in olive oil. The oil creates a complete oxygen barrier, locking in flavor without browning for use in pastas or stews."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "My basil turned black in the fridge. Is it still safe to eat?",
-                        "answer": "Basil that turns black from chilling injury isn't toxic, but cell breakdown causes significant loss of flavor, aroma, and texture. Provided there is no mold or off odor, it can be used in cooked dishes like sauces or stews, though it won't have the bright flavor of fresh basil."
-                    },
-                    {
-                        "question": "Should I wash basil before storing it?",
-                        "answer": "No! Washing basil before storage leaves moisture trapped between the leaves, encouraging rapid wilting and mold growth. Store basil unwashed, brushing off any visible dirt, and wash under cool water right before use."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "生バジルを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づく生バジルの最適な保存温度、低温障害の防ぎ方、保存期間をご確認ください。",
-                "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS) & UC Davis Postharvest Center",
-                "intro": "新鮮な生バジルを買って冷蔵庫の野菜室に入れたら、たった1日で黒くしおれて傷んでしまった経験はありませんか？🌿\n\nバジルは熱帯・亜熱帯原産のハーブであり、低温環境に極めて弱い生理的特性を持っています。一般的な冷蔵庫（約4℃）のような10℃以下の環境に晒されると、細胞膜が破壊される「低温障害（Chilling Injury）」を起こし、一気に黒く変色してしまいます。\n\n本記事では、米国農務省（USDA）およびUC Davisポストハーベストセンターのガイドラインに基づき、バジルの爽やかな香りと鮮度を長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "10℃以下の冷蔵庫には絶対に保存しないでください ⚠️",
-                        "desc": "生バジルを10℃以下の低温に晒すと、細胞組織が破壊されポリフェノール酸化酵素（PPO）が活性化して葉が急速に黒く褐変します。数時間で葉が柔らかくなり、特有の香り成分（リナロール、ユーゲノール）が失われます。"
-                    },
-                    {
-                        "title": "葉の表面に水分が残ったまま密閉保存しないでください 💧",
-                        "desc": "葉の表面に水滴が残っているとカビや細菌が急増し、腐敗が促進されます。洗うのは必ず調理直前にし、保存時は葉に水気が残らないよう乾いた状態を維持してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "茎の切り口を整え、生け花のように常温で水挿し保存 — 常温水挿し保存 (7〜14日間) 🌿",
-                        "text": "バジルは花を飾るように常温（12〜15℃）で水に挿して保存するのが最も長持ちします。💡保存のコツ：茎の先端を斜めに少し切り、水の入った瓶に立てて、葉の上からビニール袋をふんわり被せてください。蒸散作用を防ぎつつ低温障害を起こさずに1〜2週間新鮮さを保てます。"
-                    },
-                    {
-                        "name": "直射日光や熱気を避けて暗く涼しい場所に置く — 環境管理 ☀️",
-                        "text": "常温で保存する際、窓際の強い直射日光やコンロ周辺の熱気に晒されると、葉がすぐにしおれて黄色く変色します。💡保存のコツ：直射日光の当たらないキッチン内の涼しい日陰（12〜15℃）に置き、1〜2日ごとに瓶の水を取り替えてください。"
-                    },
-                    {
-                        "name": "長期保存時は刻んだバジルをオリーブオイルと一緒に冷凍 — オイルキューブ冷凍保存 (90〜180日間) 🧊",
-                        "text": "1〜2週間以上の長期保存が必要な場合は、葉を摘んでオリーブオイルと共に冷凍するのが最適です。💡保存のコツ：綺麗に乾かしたバジルの葉をみじん切りにして製氷皿に入れ、オリーブオイルを注いで冷凍してください。オイルが酸素との接触を遮断し、変色や香り成分の損失なくパスタやスープに直接使えます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "冷蔵庫に入れて黒く変色したバジルは食べられますか？",
-                        "answer": "低温障害で黒くなったバジルに毒性はありませんが、細胞膜の破壊により鮮度や香り成分が失われ、食感が損なわれた状態です。カビや異常な悪臭がなければ加熱調理（ソースやスープ）に使用できますが、生のまま食べるのはおすすめしません。"
-                    },
-                    {
-                        "question": "バジルは洗ってから保存すべきですか？",
-                        "answer": "いいえ！保存前にバジルを洗うと、葉の間に残った水分で細胞が傷みやすくなり、カビの原因になります。保存前は洗わずに汚れを払う程度にし、使用する直前に流水で洗って水気を切ってから使用してください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持鲜罗勒新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解鲜罗勒的最佳储存温度、防止冷害的方法及保鲜时长。",
-                "authority": "美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & UC Davis Postharvest Center",
-                "intro": "您是否曾买回新鲜的罗勒，放入冰箱保鲜抽屉后，仅仅一天就发现它完全变黑腐烂了？🌿\n\n罗勒属于热带和亚热带香草，对低温环境极度敏感。当暴露于10℃以下的低温环境（如普通冰箱约4℃）时，会遭受“冷害（Chilling Injury）”，导致细胞膜破裂，叶片迅速变黑。\n\n本指南基于美国农务部(USDA)及加州大学戴维斯分校(UC Davis)采后技术中心的科学指南，为您介绍3步科学保存秘诀，长久锁定罗勒的清香与新鲜。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "切勿保存在10℃以下的冰箱中 ⚠️",
-                        "desc": "将鲜罗勒暴露于10℃以下的低温中会导致细胞组织破坏，激活多酚氧化酶（PPO），使叶片迅速褐变发黑。短短几小时内，叶片就会变软并失去特有的香气成分（如芳樟醇、丁香酚）。"
-                    },
-                    {
-                        "title": "切勿在叶片带水的状态下密封保存 💧",
-                        "desc": "如果叶片表面残留水滴，会导致霉菌和细菌迅速滋生，加速腐烂。务必在烹饪前才清洗，保存时需确保叶片完全干燥。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "剪短茎部如插花般常温水插保存 — 常温水插保存 (7~14天) 🌿",
-                        "text": "罗勒像鲜花一样在常温（12~15℃）下水插保存最持久。💡储存小贴士：斜切茎部末端，直立放入装水的玻璃瓶中，顶部松松地罩上塑料袋。这既能防止水分蒸发，又能避免冷害，保持1~2周新鲜。"
-                    },
-                    {
-                        "name": "避开阳光直射与热源，置于阴凉处 — 环境管理 ☀️",
-                        "text": "常温保存时，若暴露于窗边强光或灶台旁的高热，叶片会迅速萎蔫发黄。💡储存小贴士：置于避光的厨房阴凉处（12~15℃），每1~2天更换一次瓶中的清水。"
-                    },
-                    {
-                        "name": "长期保存可将切碎的罗勒与橄榄油一同冷冻 — 油块冷冻保存 (90~180天) 🧊",
-                        "text": "若需保存2周以上，将罗勒叶采下与橄榄油一同冷冻是最佳方法。💡储存小贴士：将彻底干燥的罗勒叶切碎放入冰格，倒入橄榄油封满后冷冻。油脂能彻底隔绝氧气，防止褐变与香气散失，可直接用于意面或炖菜。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "因放冰箱而变黑的罗勒还能吃吗？",
-                        "answer": "因冷害变黑的罗勒并无毒性，但细胞破裂导致其风味、香气和口感严重流失。若无霉变或异味，可用于加热烹饪（如做酱汁或炖菜），但不建议直接生食。"
-                    },
-                    {
-                        "question": "罗勒保存前需要清洗吗？",
-                        "answer": "不需要！保存前清洗罗勒会导致水分残留在叶片之间，引发迅速萎蔫和发霉。保存前切勿清洗，只需轻轻拂去泥土，在临用前用流水冲洗并擦干水分即可。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener la albahaca fresca: Guía científica de conservación",
-                "description": "Descubra la temperatura, la prevención de daños por frío y el tiempo de conservación óptimos para la albahaca fresca según las directrices oficiales.",
-                "authority": "USDA & MFDS & UC Davis Postharvest Center",
-                "intro": "¿Alguna vez compró albahaca fresca, la guardó en el refrigerador y al día siguiente descubrió que se había vuelto completamente negra y marchita? 🌿\n\nLa albahaca es una hierba tropical y subtropical extremadamente sensible a las bajas temperaturas. Al exponerse a temperaturas inferiores a 10 °C (como un refrigerador estándar a ~4 °C), sufre de 'daños por frío' (Chilling Injury), lo que destruye sus membranas celulares y ennegrece sus hojas rápidamente.\n\nEn esta guía se presenta un método de conservación en 3 pasos respaldado por el USDA y el Centro de Postcosecha de UC Davis para preservar su frescura y fragancia. 🛡️",
-                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Nunca guarde la albahaca fresca a menos de 10 °C ⚠️",
-                        "desc": "Exponer la albahaca fresca a temperaturas inferiores a 10 °C destruye sus tejidos celulares y activa la enzima polifenol oxidasa (PPO), oscureciendo rápidamente las hojas. En pocas horas pierde sus compuestos aromáticos esenciales como el linalool y el eugenol."
-                    },
-                    {
-                        "title": "No conserve las hojas con humedad residual 💧",
-                        "desc": "Las gotas de agua retenidas en las hojas aceleran la proliferación de bacterias y mohos, provocando la pudrición. Lave la albahaca únicamente justo antes de cocinarla y asegúrese de que esté seca al guardarla."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Corte los tallos y consérvela a temperatura ambiente como un florero — Conservación en agua (7–14 días) 🌿",
-                        "text": "La albahaca se mantiene fresca por más tiempo sumergida en agua a temperatura ambiente (12–15 °C). 💡 Consejo de almacenamiento: Corte los tallos en diagonal, colóquelos en un vaso con agua y cúbralos holgadamente con una bolsa de plástico. Esto evita la pérdida de humedad y el daño por frío, manteniéndola fresca durante 1 a 2 semanas."
-                    },
-                    {
-                        "name": "Mantenga alejada de la luz solar directa y el calor — Control ambiental ☀️",
-                        "text": "Exponer la albahaca a la luz solar intensa o al calor de la cocina hará que las hojas se marchiten y amarilleen rápidamente. 💡 Consejo de almacenamiento: Coloque el vaso en un área fresca y sombreada (12–15 °C) y cambie el agua cada 1 o 2 días."
-                    },
-                    {
-                        "name": "Congele la albahaca picada con aceite de oliva para larga duración — Cubos de aceite congelados (90–180 días) 🧊",
-                        "text": "Si necesita conservarla durante más de dos semanas, congelarla con aceite de oliva es la mejor opción. 💡 Consejo de almacenamiento: Pique las hojas secas y limpias, colóquelas en una cubetera y cúbralas con aceite de oliva antes de congelar. El aceite bloquea el oxígeno evitando la oxidación."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mi albahaca se puso negra en el refrigerador. ¿Aún se puede comer?",
-                        "answer": "La albahaca ennegrecida por daño por frío no es tóxica, pero ha perdido la mayor parte de su aroma y textura. Si no presenta moho ni mal olor, se puede cocinar en salsas o guisos, aunque no tendrá el sabor brillante de la albahaca fresca."
-                    },
-                    {
-                        "question": "¿Debo lavar la albahaca antes de guardarla?",
-                        "answer": "¡No! Lavar la albahaca antes de guardarla deja humedad atrapada entre las hojas, provocando que se pudra rápidamente. Guárdela sin lavar y lávela con agua fría justo antes de utilizarla."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver le basilic frais : Guide scientifique de conservation",
-                "description": "Découvrez la température, la prévention des dégâts dus au froid et la durée de conservation optimales pour le basilic frais selon les directives officielles.",
-                "authority": "USDA & MFDS & UC Davis Postharvest Center",
-                "intro": "Avez-vous déjà acheté du basilic frais, l'avez placé dans le bac à légumes du réfrigérateur et avez découvert le lendemain qu'il était devenu tout noir et flétri ? 🌿\n\nLe basilic est une herbe tropicale et subtropicale extrêmement sensible au froid. Lorsqu'il est exposé à des températures inférieures à 10 °C (comme dans un réfrigérateur standard à environ 4 °C), il subit des 'dégâts dus au froid' (Chilling Injury), détruisant ses membranes cellulaires et noircissant rapidement ses feuilles.\n\nDans ce guide basé sur les recommandations du USDA et du centre Postharvest de UC Davis, découvrez une méthode en 3 étapes pour préserver son arôme et sa fraîcheur. 🛡️",
-                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne conservez jamais le basilic frais à moins de 10 °C ⚠️",
-                        "desc": "Exposer le basilic frais à des températures inférieures à 10 °C détruit ses tissus cellulaires et active la polyphénol oxydase (PPO), entraînant un brunissement rapide des feuilles. En quelques heures, les arômes essentiels (linalol, eugénol) sont altérés."
-                    },
-                    {
-                        "title": "Ne conservez pas des feuilles humides 💧",
-                        "desc": "L'eau stagnante sur les feuilles favorise le développement rapide de moisissures et de bactéries, accélérant le pourrissement. Lavez le basilic uniquement juste avant de le cuisiner et veillez à ce qu'il soit bien sec lors du stockage."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Tailler les tiges et conserver à température ambiante comme un bouquet — Stockage dans l'eau (7–14 jours) 🌿",
-                        "text": "Le basilic se conserve le plus longtemps dans l'eau à température ambiante (12–15 °C). 💡 Astuce de conservation : Coupez les tiges en biseau, placez-les dans un verre d'eau et couvrez vaguement d'un sac en plastique. Cela évite la déshydratation et les dégâts dus au froid pendant 1 à 2 semaines."
-                    },
-                    {
-                        "name": "Éloigner de la lumière directe du soleil et des sources de chaleur — Contrôle de l'environnement ☀️",
-                        "text": "Exposer le basilic à la lumière directe ou à la chaleur de la cuisine fait flétrir et jaunir rapidement les feuilles. 💡 Astuce de conservation : Placez le verre dans un endroit frais et ombragé (12–15 °C) et changez l'eau tous les 1 à 2 jours."
-                    },
-                    {
-                        "name": "Congeler le basilic haché dans de l'huile d'olive pour une longue conservation — Glaçons d'huile (90–180 jours) 🧊",
-                        "text": "Pour une conservation de plus de deux semaines, la congélation avec de l'huile d'olive est la meilleure méthode. 💡 Astuce de conservation : Hachez les feuilles propres et bien sèches, mettez-les dans un bac à glaçons et recouvrez d'huile d'olive avant de congeler. L'huile bloque l'oxygène pour éviter le brunissement."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mon basilic a noirci au réfrigérateur. Est-il toujours consommable ?",
-                        "answer": "Le basilic noirci par le froid n'est pas toxique, mais la dégradation cellulaire lui fait perdre son parfum et sa texture. S'il n'y a pas de moisissure ni de mauvaise odeur, il peut être utilisé dans des sauces ou mijotés chauds."
-                    },
-                    {
-                        "question": "Faut-il laver le basilic avant de le conserver ?",
-                        "answer": "Non ! Laver le basilic avant le stockage emprisonne l'humidité entre les feuilles, favorisant le flétrissement et les moisissures. Conservez-le non lavé et rincez-le à l'eau fraîche juste avant de l'utiliser."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Frischen Basilikum richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, die Vermeidung von Kälteschäden und die Haltbarkeit für frischen Basilikum basierend auf offiziellen Richtlinien.",
-                "authority": "USDA & MFDS & UC Davis Postharvest Center",
-                "intro": "Haben Sie schon einmal frischen Basilikum gekauft, ihn ins Gemüsefach des Kühlschranks gelegt und am nächsten Tag festgestellt, dass er vollkommen schwarz und welk war? 🌿\n\nBasilikum ist ein tropisches Kräutergewächs, das extrem kälteempfindlich ist. Wenn er Temperaturen unter 10 °C ausgesetzt wird (wie im Kühlschrank bei ca. 4 °C), erleidet er 'Kälteschäden' (Chilling Injury), wodurch die Zellmembranen zerstört werden und die Blätter rasch schwarz werden.\n\nIn diesem Ratgeber erfahren Sie eine 3-Schritte-Methode basierend auf wissenschaftlichen Richtlinien der USDA und des UC Davis Postharvest Center, um Frische und Aroma zu bewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Lagern Sie frischen Basilikum niemals unter 10 °C ⚠️",
-                        "desc": "Wenn frischer Basilikum Temperaturen unter 10 °C ausgesetzt wird, wird das Zellgewebe zerstört und das Enzym Polyphenoloxidase (PPO) aktiviert, was die Blätter schnell braun werden lässt. Ätherische Öle wie Linalool und Eugenol gehen verloren."
-                    },
-                    {
-                        "title": "Nicht mit feuchten Blättern verschlossen lagern 💧",
-                        "desc": "Staunässe auf den Blättern beschleunigt das Wachstum von Schimmel und Bakterien und führt zum Faulen. Waschen Sie Basilikum erst unmittelbar vor der Zubereitung und halten Sie die Blätter trocken."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Stängel anschneiden und wie einen Blumenstrauß bei Raumtemperatur lagern — Wasserglas-Lagerung (7–14 Tage) 🌿",
-                        "text": "Basilikum hält bei Raumtemperatur (12–15 °C) im Wasserglas am längsten frisch. 💡 Lagerungstipp: Schneiden Sie die Stängelenden schräg an, stellen Sie sie in ein Glas Wasser und stülpen Sie eine Plastiktüte locker darüber. Das verhindert Austrocknung und Kälteschäden für 1 bis 2 Wochen."
-                    },
-                    {
-                        "name": "Vor direktem Sonnenlicht und Hitze schützen — Umgebungssteuerung ☀️",
-                        "text": "Direktes Sonnenlicht am Fenster oder Hitze am Herd lassen die Blätter schnell welken und vergilben. 💡 Lagerungstipp: Stellen Sie das Glas an einen kühlen, schattigen Ort (12–15 °C) und wechseln Sie alle 1 bis 2 Tage das Wasser."
-                    },
-                    {
-                        "name": "Gehackten Basilikum für Langzeitlagerung mit Olivenöl einfrieren — Öl-Würfel-Einfrieren (90–180 Tage) 🧊",
-                        "text": "Für eine Lagerung von mehr als zwei Wochen ist das Einfrieren mit Olivenöl die beste Methode. 💡 Lagerungstipp: Hacken Sie die sauberen, trockenen Blätter, füllen Sie sie in einen Eiswürfelbehälter und gießen Sie Olivenöl darüber. Das Öl blockiert den Sauerstoff und verhindert das Braunwerden."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mein Basilikum ist im Kühlschrank schwarz geworden. Kann man ihn noch essen?",
-                        "answer": "Durch Kälte schwarz gewordener Basilikum ist nicht giftig, hat aber viel von seinem Aroma und seiner Textur verloren. Solange kein Schimmel oder schlechter Geruch vorliegt, kann er in warmen Saucen oder Eintöpfen mitgekocht werden."
-                    },
-                    {
-                        "question": "Sollte man Basilikum vor der Lagerung waschen?",
-                        "answer": "Nein! Das Waschen vor der Lagerung schließt Feuchtigkeit zwischen den Blättern ein und führt zu schnellem Welken und Schimmelbildung. Lagern Sie Basilikum ungewaschen und spülen Sie ihn erst direkt vor der Verwendung ab."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar manjericão fresco: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, a prevenção de danos pelo frio e o tempo de conservação ideais para o manjericão fresco com base em diretrizes oficiais.",
-                "authority": "USDA & MFDS & UC Davis Postharvest Center",
-                "intro": "Você já comprou manjericão fresco, guardou na gaveta da geladeira e no dia seguinte descobriu que ele ficou completamente preto e murcho? 🌿\n\nO manjericão é uma erva de origem tropical e subtropical extremamente sensível ao frio. Quando exposto a temperaturas abaixo de 10 °C (como uma geladeira comum a ~4 °C), sofre 'danos pelo frio' (Chilling Injury), destruindo suas membranas celulares e escurecendo as folhas rapidamente.\n\nNeste guia baseado em diretrizes do USDA e do Centro de Pós-Colheita da UC Davis, apresentamos um método em 3 etapas para preservar seu aroma e frescor. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Compreender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Regras essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca guarde o manjericão fresco abaixo de 10 °C ⚠️",
-                        "desc": "Expor o manjericão a temperaturas abaixo de 10 °C destrói os tecidos celulares e ativa a enzima polifenol oxidase (PPO), escurecendo as folhas rapidamente. Em poucas horas, perde óleos essenciais como linalol e eugenol."
-                    },
-                    {
-                        "title": "Não guarde as folhas com umidade acumulada 💧",
-                        "desc": "A água acumulada na superfície das folhas acelera a proliferação de fungos e bactérias, levando à podridão. Lave o manjericão apenas antes de usar e mantenha as folhas secas durante o armazenamento."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Corte os talos e guarde em temperatura ambiente como um vaso de flores — Conservação em água (7–14 dias) 🌿",
-                        "text": "O manjericão dura mais tempo imerso em água em temperatura ambiente (12–15 °C). 💡 Dica de conservação: Corte as pontas dos talos em diagonal, coloque em um copo com água e cubra frouxamente com um saco plástico. Isso evita a desidratação e danos pelo frio por 1 a 2 semanas."
-                    },
-                    {
-                        "name": "Mantenha longe da luz solar direta e do calor — Controle ambiental ☀️",
-                        "text": "Expor o manjericão à luz solar forte ou ao calor do fogão fará com que as folhas murchem e amarelem rapidamente. 💡 Dica de conservação: Coloque o copo em um local fresco e sombreado (12–15 °C) e troque a água a cada 1 ou 2 dias."
-                    },
-                    {
-                        "name": "Congele o manjericão picado com azeite de oliva para longa duração — Cubos de azeite congelados (90–180 dias) 🧊",
-                        "text": "Para armazenar por mais de duas semanas, congelar com azeite de oliva é a melhor solução. 💡 Dica de conservação: Pique as folhas limpas e bem secas, coloque em uma fôrma de gelo e cubra com azeite. O azeite bloqueia o oxigênio, evitando o escurecimento para uso em molhos e massas."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Meu manjericão ficou preto na geladeira. Ainda posso comer?",
-                        "answer": "O manjericão escurecido pelo frio não é tóxico, mas perdeu grande parte do aroma e da textura. Se não houver mofo ou mau cheiro, pode ser usado em molhos quentes ou ensopados."
-                    },
-                    {
-                        "question": "Devo lavar o manjericão antes de guardar?",
-                        "answer": "Não! Lavar o manjericão antes do armazenamento retém umidade entre as folhas, provocando o apodrecimento rápido. Guarde sem lavar e lave em água corrente apenas no momento de usar."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Daun Kemangi / Basil Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, pencegahan kerusakan dingin, dan masa simpan terbaik untuk basil segar berdasarkan pedoman keselamatan resmi.",
-                "authority": "USDA & MFDS & UC Davis Postharvest Center",
-                "intro": "Pernahkah Anda membeli daun basil segar, menyimpannya di dalam kulkas, lalu menemukan daunnya berubah menjadi hitam dan layu keesokan harinya? 🌿\n\nBasil adalah tanaman herbal tropis yang sangat sensitif terhadap suhu dingin. Ketika terpapar suhu di bawah 10°C (seperti kulkas standar sekitar 4°C), basil mengalami 'kerusakan dingin' (Chilling Injury) yang merusak membran sel dan membuat daunnya menghitam dengan cepat.\n\nDalam panduan ini, kami membagikan metode penyimpanan 3 langkah berbasis ilmiah dari USDA dan UC Davis Postharvest Center untuk menjaga aroma segar dan kualitas basil Anda. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan pernah menyimpan basil segar di bawah suhu 10°C ⚠️",
-                        "desc": "Paparan suhu di bawah 10°C merusak jaringan sel dan mengaktifkan enzim polifenol oksidase (PPO), membuat daun cepat berubah menjadi cokelat/hitam dan kehilangan senyawa aromatik seperti linalool dan eugenol."
-                    },
-                    {
-                        "title": "Jangan menyimpan daun dalam keadaan basah dan tertutup rapat 💧",
-                        "desc": "Tetesan air yang tersisa di permukaan daun mempercepat pertumbuhan jamur dan bakteri yang menyebabkan pembusukan. Cuci basil hanya saat akan dimasak dan pastikan daun tetap kering saat disimpan."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Potong tangkai dan simpan pada suhu ruang seperti bunga — Simpan Air Suhu Ruang (7–14 Hari) 🌿",
-                        "text": "Basil bertahan paling lama jika direndam air pada suhu ruang (12–15°C). 💡 Tips Penyimpanan: Potong miring ujung tangkai, tegakkan di dalam gelas berisi air, lalu tutup bagian atasnya secara longgar dengan kantong plastik. Ini mencegah penguapan dan kerusakan dingin selama 1 hingga 2 minggu."
-                    },
-                    {
-                        "name": "Jauhkan dari sinar matahari langsung dan panas kompor — Kontrol Lingkungan ☀️",
-                        "text": "Paparan sinar matahari langsung atau panas di dekat kompor akan membuat daun cepat layu dan menguning. 💡 Tips Penyimpanan: Letakkan gelas di tempat yang sejuk dan teduh (12–15°C) serta ganti airnya setiap 1 hingga 2 hari."
-                    },
-                    {
-                        "name": "Bekukan basil cincang dengan minyak zaitun untuk jangka panjang — Pembekuan Kubus Minyak (90–180 Hari) 🧊",
-                        "text": "Jika ingin menyimpan lebih dari dua minggu, membekukannya bersama minyak zaitun adalah metode terbaik. 💡 Tips Penyimpanan: Cincang daun basil yang bersih dan kering, masukkan ke dalam cetakan es batu, lalu tuangkan minyak zaitun. Minyak akan menghalangi oksigen dan mencegah perubahan warna."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Basil saya berubah menjadi hitam di kulkas. Apakah masih aman dimakan?",
-                        "answer": "Basil yang menghitam akibat suhu dingin tidak beracun, tetapi telah kehilangan sebagian besar aroma dan teksturnya. Jika tidak ada jamur atau bau tidak sedap, basil masih dapat dimasak dalam saus atau sup panas."
-                    },
-                    {
-                        "question": "Apakah basil harus dicuci sebelum disimpan?",
-                        "answer": "Tidak! Mencuci basil sebelum disimpan akan menyisakan kelembapan di antara daun yang memicu pembusukan dan jamur. Simpan dalam kondisi kering tanpa dicuci, lalu cuci dengan air mengalir sesaat sebelum digunakan."
-                    }
-                ]
-            }
-        }
+  "how-to-store-fresh-basil": {
+    "ingId": "fresh-basil",
+    "pubDate": "2026-01-15",
+    "updatedDate": "2026-01-15",
+    "heroImage": "/images/blog/fresh_basil_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "생 바질 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 생 바질의 최적 보관 온도, 저온 장애 방지법 및 보관 기한을 확인하세요.",
+        "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS) & UC Davis Postharvest Center",
+        "intro": "싱싱한 생 바질을 사와서 냉장고 야채칸에 넣어두었다가 단 하루 만에 검게 무르고 변색되어 버린 적 있으시죠? 🌿\n\n바질은 열대 및 아열대 기후가 원산지인 허브로, 저온 환경에 극도로 취약한 생리적 특성을 가지고 있습니다. 일반 냉장고 온도(약 4℃) 같은 10℃ 이하의 저온에 노출되면 세포막이 파괴되는 '저온 장애(Chilling Injury)'를 입어 순식간에 검게 변색됩니다.\n\n이번 가이드에서는 미국 농무부(USDA)와 UC Davis 포스트하베스트 센터의 검증된 가이드라인을 바탕으로, 바질의 상큼한 향과 신선도를 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "10℃ 이하의 냉장고에 절대로 보관하지 마세요 ⚠️",
+            "desc": "생 바질을 10℃ 이하의 저온에 노출시키면 세포 조직이 파괴되며 폴리페놀 옥시다아제(PPO) 효소가 활성화되어 잎이 빠르게 검은색으로 갈변합니다. 수 시간 내에 잎이 흐물거리고 고유의 핵심 향 성분(리날룰, 유제놀)이 쉽게 파괴됩니다."
+          },
+          {
+            "title": "잎 표면에 물기가 남은 상태로 밀폐 보관하지 마세요 💧",
+            "desc": "수분이 잎 표면에 고여 있으면 곰팡이와 세균이 급격히 번식하고 무름 현상이 촉진됩니다. 세척은 반드시 조리 직전에 하고, 보관 시에는 잎 표면에 물기가 없도록 건조한 상태를 유지해야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "줄기 끝을 자르고 꽃병처럼 실온 물꼬지 보관 — 실온 수경 보관 (7~14일) 🌿",
+            "text": "바질은 꽃을 보관하듯이 실온(12~15℃)에서 물에 담가 보관해야 가장 오래 싱싱합니다. 💡 보관 팁: 줄기 하단 끝을 사선으로 살짝 자른 뒤 물이 담긴 유리병에 세워두고, 잎 위로 비닐봉지를 느슨하게 덮어주세요. 수분 증발을 막으면서 저온 장애 없이 1~2주간 신선함이 유지됩니다."
+          },
+          {
+            "name": "직사광선과 열기를 피해 어둡고 서늘한 장소에 두기 — 환경 관리 ☀️",
+            "text": "실온에 보관할 때 창가 근처의 강한 직사광선이나 가스레인지 주변의 열기에 노출되면 잎이 금방 시들고 황변합니다. 💡 보관 팁: 직사광선이 비치지 않는 주방의 서늘한 음지(12~15℃)에 두고 1~2일마다 병의 물을 새것으로 교체해 주세요."
+          },
+          {
+            "name": "장기 보관 시 다진 바질을 올리브유와 함께 다성형 트레이에 냉동 — 오일큐브 냉동 보관 (90~180일) 🧊",
+            "text": "1~2주 이상 장기 보관해야 한다면 잎을 수확하여 올리브유와 함께 냉동하는 것이 최고의 방법입니다. 💡 보관 팁: 깨끗이 건조한 바질 잎을 다진 후 얼음 트레이에 담고 올리브 오일을 채워 냉동하세요. 기름이 산소 접촉을 완전히 차단하여 갈변과 향 손실 없이 파스타나 스튜에 바로 사용할 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "냉장고에 넣었다가 검게 변한 바질, 먹어도 괜찮은가요?",
+            "answer": "저온 장애로 검게 변한 바질은 독성이 생기는 것은 아니지만, 세포막이 파괴되면서 신선도와 향 성분이 손실되고 잎이 무른 상태입니다. 곰팡이나 이상 악취가 없다면 가열 요리(소스, 스튜)에 사용 가능하지만, 상큼한 풍미가 저하되었으므로 되도록 생으로 먹지 않는 것이 좋습니다."
+          },
+          {
+            "question": "바질을 물에 씻어서 보관해야 하나요?",
+            "answer": "아닙니다! 보관 전 바질을 물에 씻으면 잎 사이에 남은 수분으로 인해 세포가 빠르게 무르고 곰팡이가 생기기 쉽습니다. 보관 전에는 씻지 않고 흙만 가볍게 털어낸 뒤, 사용하기 직전에 흐르는 물에 씻어 물기를 제거하고 사용하세요."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Fresh Basil Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, chilling injury prevention, and shelf life for fresh basil based on official safety guidelines.",
+        "authority": "USDA & MFDS & UC Davis Postharvest Center",
+        "intro": "Have you ever brought home crisp fresh basil, put it in the refrigerator crisper drawer, and found it turned completely black and wilted the next day? 🌿\n\nBasil is a tropical and subtropical herb that is extremely sensitive to cold temperatures. When exposed to temperatures below 10°C (50°F)—such as a standard refrigerator at ~4°C—it suffers from 'chilling injury,' causing its cell membranes to collapse and the leaves to blacken rapidly.\n\nIn this guide, based on scientific guidelines from the USDA and the UC Davis Postharvest Technology Center, we share a 3-step storage method to maintain fresh basil's vibrant aroma and freshness. 🛡️",
+        "whyTitle": "Why Store Fresh Basil This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never store fresh basil in temperatures below 10°C (50°F) ⚠️",
+            "desc": "Exposing fresh basil to temperatures below 10°C breaks down cellular tissue and activates polyphenol oxidase (PPO) enzymes, rapidly browning the leaves. Within hours, leaves become soft and lose essential aromatic compounds like linalool and eugenol."
+          },
+          {
+            "title": "Do not store with excess moisture on the leaves 💧",
+            "desc": "Standing moisture on leaf surfaces accelerates fungal and bacterial growth and leads to rapid rotting. Wash basil only immediately before cooking and ensure leaves are dry during storage."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Trim stems and store at room temperature like a bouquet — Room Temp Water Storage (7–14 Days) 🌿",
+            "text": "Basil stays fresh longest when placed in water at room temperature (12–15°C / 54–59°F). 💡 Storage Tip: Trim the stem ends diagonally, place stems upright in a glass of water, and loosely cover the top with a plastic bag. This prevents moisture loss and chilling injury, keeping it fresh for 1 to 2 weeks."
+          },
+          {
+            "name": "Keep away from direct sunlight and heat — Environment Control ☀️",
+            "text": "Exposing basil to strong sunlight or heat near cooking appliances will cause leaves to wilt and yellow quickly. 💡 Storage Tip: Place the jar in a cool, shaded area (12–15°C) away from direct sunlight and change the water every 1 to 2 days."
+          },
+          {
+            "name": "Freeze chopped basil with olive oil for long-term storage — Oil Cube Freezing (90–180 Days) 🧊",
+            "text": "For long-term storage exceeding two weeks, freezing basil with olive oil is the best method. 💡 Storage Tip: Chop clean, completely dry basil leaves, place them into an ice cube tray, and submerge in olive oil. The oil creates a complete oxygen barrier, locking in flavor without browning for use in pastas or stews."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "My basil turned black in the fridge. Is it still safe to eat?",
+            "answer": "Basil that turns black from chilling injury isn't toxic, but cell breakdown causes significant loss of flavor, aroma, and texture. Provided there is no mold or off odor, it can be used in cooked dishes like sauces or stews, though it won't have the bright flavor of fresh basil."
+          },
+          {
+            "question": "Should I wash basil before storing it?",
+            "answer": "No! Washing basil before storage leaves moisture trapped between the leaves, encouraging rapid wilting and mold growth. Store basil unwashed, brushing off any visible dirt, and wash under cool water right before use."
+          }
+        ]
+      },
+      "ja": {
+        "title": "生バジルを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づく生バジルの最適な保存温度、低温障害の防ぎ方、保存期間をご確認ください。",
+        "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS) & UC Davis Postharvest Center",
+        "intro": "新鮮な生バジルを買って冷蔵庫の野菜室に入れたら、たった1日で黒くしおれて傷んでしまった経験はありませんか？🌿\n\nバジルは熱帯・亜熱帯原産のハーブであり、低温環境に極めて弱い生理的特性を持っています。一般的な冷蔵庫（約4℃）のような10℃以下の環境に晒されると、細胞膜が破壊される「低温障害（Chilling Injury）」を起こし、一気に黒く変色してしまいます。\n\n本記事では、米国農務省（USDA）およびUC Davisポストハーベストセンターのガイドラインに基づき、バジルの爽やかな香りと鮮度を長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "10℃以下の冷蔵庫には絶対に保存しないでください ⚠️",
+            "desc": "生バジルを10℃以下の低温に晒すと、細胞組織が破壊されポリフェノール酸化酵素（PPO）が活性化して葉が急速に黒く褐変します。数時間で葉が柔らかくなり、特有の香り成分（リナロール、ユーゲノール）が失われます。"
+          },
+          {
+            "title": "葉の表面に水分が残ったまま密閉保存しないでください 💧",
+            "desc": "葉の表面に水滴が残っているとカビや細菌が急増し、腐敗が促進されます。洗うのは必ず調理直前にし、保存時は葉に水気が残らないよう乾いた状態を維持してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "茎の切り口を整え、生け花のように常温で水挿し保存 — 常温水挿し保存 (7〜14日間) 🌿",
+            "text": "バジルは花を飾るように常温（12〜15℃）で水に挿して保存するのが最も長持ちします。💡保存のコツ：茎の先端を斜めに少し切り、水の入った瓶に立てて、葉の上からビニール袋をふんわり被せてください。蒸散作用を防ぎつつ低温障害を起こさずに1〜2週間新鮮さを保てます。"
+          },
+          {
+            "name": "直射日光や熱気を避けて暗く涼しい場所に置く — 環境管理 ☀️",
+            "text": "常温で保存する際、窓際の強い直射日光やコンロ周辺の熱気に晒されると、葉がすぐにしおれて黄色く変色します。💡保存のコツ：直射日光の当たらないキッチン内の涼しい日陰（12〜15℃）に置き、1〜2日ごとに瓶の水を取り替えてください。"
+          },
+          {
+            "name": "長期保存時は刻んだバジルをオリーブオイルと一緒に冷凍 — オイルキューブ冷凍保存 (90〜180日間) 🧊",
+            "text": "1〜2週間以上の長期保存が必要な場合は、葉を摘んでオリーブオイルと共に冷凍するのが最適です。💡保存のコツ：綺麗に乾かしたバジルの葉をみじん切りにして製氷皿に入れ、オリーブオイルを注いで冷凍してください。オイルが酸素との接触を遮断し、変色や香り成分の損失なくパスタやスープに直接使えます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "冷蔵庫に入れて黒く変色したバジルは食べられますか？",
+            "answer": "低温障害で黒くなったバジルに毒性はありませんが、細胞膜の破壊により鮮度や香り成分が失われ、食感が損なわれた状態です。カビや異常な悪臭がなければ加熱調理（ソースやスープ）に使用できますが、生のまま食べるのはおすすめしません。"
+          },
+          {
+            "question": "バジルは洗ってから保存すべきですか？",
+            "answer": "いいえ！保存前にバジルを洗うと、葉の間に残った水分で細胞が傷みやすくなり、カビの原因になります。保存前は洗わずに汚れを払う程度にし、使用する直前に流水で洗って水気を切ってから使用してください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持鲜罗勒新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解鲜罗勒的最佳储存温度、防止冷害的方法及保鲜时长。",
+        "authority": "美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & UC Davis Postharvest Center",
+        "intro": "您是否曾买回新鲜的罗勒，放入冰箱保鲜抽屉后，仅仅一天就发现它完全变黑腐烂了？🌿\n\n罗勒属于热带和亚热带香草，对低温环境极度敏感。当暴露于10℃以下的低温环境（如普通冰箱约4℃）时，会遭受“冷害（Chilling Injury）”，导致细胞膜破裂，叶片迅速变黑。\n\n本指南基于美国农务部(USDA)及加州大学戴维斯分校(UC Davis)采后技术中心的科学指南，为您介绍3步科学保存秘诀，长久锁定罗勒的清香与新鲜。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "切勿保存在10℃以下的冰箱中 ⚠️",
+            "desc": "将鲜罗勒暴露于10℃以下的低温中会导致细胞组织破坏，激活多酚氧化酶（PPO），使叶片迅速褐变发黑。短短几小时内，叶片就会变软并失去特有的香气成分（如芳樟醇、丁香酚）。"
+          },
+          {
+            "title": "切勿在叶片带水的状态下密封保存 💧",
+            "desc": "如果叶片表面残留水滴，会导致霉菌和细菌迅速滋生，加速腐烂。务必在烹饪前才清洗，保存时需确保叶片完全干燥。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "剪短茎部如插花般常温水插保存 — 常温水插保存 (7~14天) 🌿",
+            "text": "罗勒像鲜花一样在常温（12~15℃）下水插保存最持久。💡储存小贴士：斜切茎部末端，直立放入装水的玻璃瓶中，顶部松松地罩上塑料袋。这既能防止水分蒸发，又能避免冷害，保持1~2周新鲜。"
+          },
+          {
+            "name": "避开阳光直射与热源，置于阴凉处 — 环境管理 ☀️",
+            "text": "常温保存时，若暴露于窗边强光或灶台旁的高热，叶片会迅速萎蔫发黄。💡储存小贴士：置于避光的厨房阴凉处（12~15℃），每1~2天更换一次瓶中的清水。"
+          },
+          {
+            "name": "长期保存可将切碎的罗勒与橄榄油一同冷冻 — 油块冷冻保存 (90~180天) 🧊",
+            "text": "若需保存2周以上，将罗勒叶采下与橄榄油一同冷冻是最佳方法。💡储存小贴士：将彻底干燥的罗勒叶切碎放入冰格，倒入橄榄油封满后冷冻。油脂能彻底隔绝氧气，防止褐变与香气散失，可直接用于意面或炖菜。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "因放冰箱而变黑的罗勒还能吃吗？",
+            "answer": "因冷害变黑的罗勒并无毒性，但细胞破裂导致其风味、香气和口感严重流失。若无霉变或异味，可用于加热烹饪（如做酱汁或炖菜），但不建议直接生食。"
+          },
+          {
+            "question": "罗勒保存前需要清洗吗？",
+            "answer": "不需要！保存前清洗罗勒会导致水分残留在叶片之间，引发迅速萎蔫和发霉。保存前切勿清洗，只需轻轻拂去泥土，在临用前用流水冲洗并擦干水分即可。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener la albahaca fresca: Guía científica de conservación",
+        "description": "Descubra la temperatura, la prevención de daños por frío y el tiempo de conservación óptimos para la albahaca fresca según las directrices oficiales.",
+        "authority": "USDA & MFDS & UC Davis Postharvest Center",
+        "intro": "¿Alguna vez compró albahaca fresca, la guardó en el refrigerador y al día siguiente descubrió que se había vuelto completamente negra y marchita? 🌿\n\nLa albahaca es una hierba tropical y subtropical extremadamente sensible a las bajas temperaturas. Al exponerse a temperaturas inferiores a 10 °C (como un refrigerador estándar a ~4 °C), sufre de 'daños por frío' (Chilling Injury), lo que destruye sus membranas celulares y ennegrece sus hojas rápidamente.\n\nEn esta guía se presenta un método de conservación en 3 pasos respaldado por el USDA y el Centro de Postcosecha de UC Davis para preservar su frescura y fragancia. 🛡️",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Nunca guarde la albahaca fresca a menos de 10 °C ⚠️",
+            "desc": "Exponer la albahaca fresca a temperaturas inferiores a 10 °C destruye sus tejidos celulares y activa la enzima polifenol oxidasa (PPO), oscureciendo rápidamente las hojas. En pocas horas pierde sus compuestos aromáticos esenciales como el linalool y el eugenol."
+          },
+          {
+            "title": "No conserve las hojas con humedad residual 💧",
+            "desc": "Las gotas de agua retenidas en las hojas aceleran la proliferación de bacterias y mohos, provocando la pudrición. Lave la albahaca únicamente justo antes de cocinarla y asegúrese de que esté seca al guardarla."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Corte los tallos y consérvela a temperatura ambiente como un florero — Conservación en agua (7–14 días) 🌿",
+            "text": "La albahaca se mantiene fresca por más tiempo sumergida en agua a temperatura ambiente (12–15 °C). 💡 Consejo de almacenamiento: Corte los tallos en diagonal, colóquelos en un vaso con agua y cúbralos holgadamente con una bolsa de plástico. Esto evita la pérdida de humedad y el daño por frío, manteniéndola fresca durante 1 a 2 semanas."
+          },
+          {
+            "name": "Mantenga alejada de la luz solar directa y el calor — Control ambiental ☀️",
+            "text": "Exponer la albahaca a la luz solar intensa o al calor de la cocina hará que las hojas se marchiten y amarilleen rápidamente. 💡 Consejo de almacenamiento: Coloque el vaso en un área fresca y sombreada (12–15 °C) y cambie el agua cada 1 o 2 días."
+          },
+          {
+            "name": "Congele la albahaca picada con aceite de oliva para larga duración — Cubos de aceite congelados (90–180 días) 🧊",
+            "text": "Si necesita conservarla durante más de dos semanas, congelarla con aceite de oliva es la mejor opción. 💡 Consejo de almacenamiento: Pique las hojas secas y limpias, colóquelas en una cubetera y cúbralas con aceite de oliva antes de congelar. El aceite bloquea el oxígeno evitando la oxidación."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mi albahaca se puso negra en el refrigerador. ¿Aún se puede comer?",
+            "answer": "La albahaca ennegrecida por daño por frío no es tóxica, pero ha perdido la mayor parte de su aroma y textura. Si no presenta moho ni mal olor, se puede cocinar en salsas o guisos, aunque no tendrá el sabor brillante de la albahaca fresca."
+          },
+          {
+            "question": "¿Debo lavar la albahaca antes de guardarla?",
+            "answer": "¡No! Lavar la albahaca antes de guardarla deja humedad atrapada entre las hojas, provocando que se pudra rápidamente. Guárdela sin lavar y lávela con agua fría justo antes de utilizarla."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver le basilic frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la prévention des dégâts dus au froid et la durée de conservation optimales pour le basilic frais selon les directives officielles.",
+        "authority": "USDA & MFDS & UC Davis Postharvest Center",
+        "intro": "Avez-vous déjà acheté du basilic frais, l'avez placé dans le bac à légumes du réfrigérateur et avez découvert le lendemain qu'il était devenu tout noir et flétri ? 🌿\n\nLe basilic est une herbe tropicale et subtropicale extrêmement sensible au froid. Lorsqu'il est exposé à des températures inférieures à 10 °C (comme dans un réfrigérateur standard à environ 4 °C), il subit des 'dégâts dus au froid' (Chilling Injury), détruisant ses membranes cellulaires et noircissant rapidement ses feuilles.\n\nDans ce guide basé sur les recommandations du USDA et du centre Postharvest de UC Davis, découvrez une méthode en 3 étapes pour préserver son arôme et sa fraîcheur. 🛡️",
+        "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne conservez jamais le basilic frais à moins de 10 °C ⚠️",
+            "desc": "Exposer le basilic frais à des températures inférieures à 10 °C détruit ses tissus cellulaires et active la polyphénol oxydase (PPO), entraînant un brunissement rapide des feuilles. En quelques heures, les arômes essentiels (linalol, eugénol) sont altérés."
+          },
+          {
+            "title": "Ne conservez pas des feuilles humides 💧",
+            "desc": "L'eau stagnante sur les feuilles favorise le développement rapide de moisissures et de bactéries, accélérant le pourrissement. Lavez le basilic uniquement juste avant de le cuisiner et veillez à ce qu'il soit bien sec lors du stockage."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Tailler les tiges et conserver à température ambiante comme un bouquet — Stockage dans l'eau (7–14 jours) 🌿",
+            "text": "Le basilic se conserve le plus longtemps dans l'eau à température ambiante (12–15 °C). 💡 Astuce de conservation : Coupez les tiges en biseau, placez-les dans un verre d'eau et couvrez vaguement d'un sac en plastique. Cela évite la déshydratation et les dégâts dus au froid pendant 1 à 2 semaines."
+          },
+          {
+            "name": "Éloigner de la lumière directe du soleil et des sources de chaleur — Contrôle de l'environnement ☀️",
+            "text": "Exposer le basilic à la lumière directe ou à la chaleur de la cuisine fait flétrir et jaunir rapidement les feuilles. 💡 Astuce de conservation : Placez le verre dans un endroit frais et ombragé (12–15 °C) et changez l'eau tous les 1 à 2 jours."
+          },
+          {
+            "name": "Congeler le basilic haché dans de l'huile d'olive pour une longue conservation — Glaçons d'huile (90–180 jours) 🧊",
+            "text": "Pour une conservation de plus de deux semaines, la congélation avec de l'huile d'olive est la meilleure méthode. 💡 Astuce de conservation : Hachez les feuilles propres et bien sèches, mettez-les dans un bac à glaçons et recouvrez d'huile d'olive avant de congeler. L'huile bloque l'oxygène pour éviter le brunissement."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mon basilic a noirci au réfrigérateur. Est-il toujours consommable ?",
+            "answer": "Le basilic noirci par le froid n'est pas toxique, mais la dégradation cellulaire lui fait perdre son parfum et sa texture. S'il n'y a pas de moisissure ni de mauvaise odeur, il peut être utilisé dans des sauces ou mijotés chauds."
+          },
+          {
+            "question": "Faut-il laver le basilic avant de le conserver ?",
+            "answer": "Non ! Laver le basilic avant le stockage emprisonne l'humidité entre les feuilles, favorisant le flétrissement et les moisissures. Conservez-le non lavé et rincez-le à l'eau fraîche juste avant de l'utiliser."
+          }
+        ]
+      },
+      "de": {
+        "title": "Frischen Basilikum richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, die Vermeidung von Kälteschäden und die Haltbarkeit für frischen Basilikum basierend auf offiziellen Richtlinien.",
+        "authority": "USDA & MFDS & UC Davis Postharvest Center",
+        "intro": "Haben Sie schon einmal frischen Basilikum gekauft, ihn ins Gemüsefach des Kühlschranks gelegt und am nächsten Tag festgestellt, dass er vollkommen schwarz und welk war? 🌿\n\nBasilikum ist ein tropisches Kräutergewächs, das extrem kälteempfindlich ist. Wenn er Temperaturen unter 10 °C ausgesetzt wird (wie im Kühlschrank bei ca. 4 °C), erleidet er 'Kälteschäden' (Chilling Injury), wodurch die Zellmembranen zerstört werden und die Blätter rasch schwarz werden.\n\nIn diesem Ratgeber erfahren Sie eine 3-Schritte-Methode basierend auf wissenschaftlichen Richtlinien der USDA und des UC Davis Postharvest Center, um Frische und Aroma zu bewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Lagern Sie frischen Basilikum niemals unter 10 °C ⚠️",
+            "desc": "Wenn frischer Basilikum Temperaturen unter 10 °C ausgesetzt wird, wird das Zellgewebe zerstört und das Enzym Polyphenoloxidase (PPO) aktiviert, was die Blätter schnell braun werden lässt. Ätherische Öle wie Linalool und Eugenol gehen verloren."
+          },
+          {
+            "title": "Nicht mit feuchten Blättern verschlossen lagern 💧",
+            "desc": "Staunässe auf den Blättern beschleunigt das Wachstum von Schimmel und Bakterien und führt zum Faulen. Waschen Sie Basilikum erst unmittelbar vor der Zubereitung und halten Sie die Blätter trocken."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Stängel anschneiden und wie einen Blumenstrauß bei Raumtemperatur lagern — Wasserglas-Lagerung (7–14 Tage) 🌿",
+            "text": "Basilikum hält bei Raumtemperatur (12–15 °C) im Wasserglas am längsten frisch. 💡 Lagerungstipp: Schneiden Sie die Stängelenden schräg an, stellen Sie sie in ein Glas Wasser und stülpen Sie eine Plastiktüte locker darüber. Das verhindert Austrocknung und Kälteschäden für 1 bis 2 Wochen."
+          },
+          {
+            "name": "Vor direktem Sonnenlicht und Hitze schützen — Umgebungssteuerung ☀️",
+            "text": "Direktes Sonnenlicht am Fenster oder Hitze am Herd lassen die Blätter schnell welken und vergilben. 💡 Lagerungstipp: Stellen Sie das Glas an einen kühlen, schattigen Ort (12–15 °C) und wechseln Sie alle 1 bis 2 Tage das Wasser."
+          },
+          {
+            "name": "Gehackten Basilikum für Langzeitlagerung mit Olivenöl einfrieren — Öl-Würfel-Einfrieren (90–180 Tage) 🧊",
+            "text": "Für eine Lagerung von mehr als zwei Wochen ist das Einfrieren mit Olivenöl die beste Methode. 💡 Lagerungstipp: Hacken Sie die sauberen, trockenen Blätter, füllen Sie sie in einen Eiswürfelbehälter und gießen Sie Olivenöl darüber. Das Öl blockiert den Sauerstoff und verhindert das Braunwerden."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mein Basilikum ist im Kühlschrank schwarz geworden. Kann man ihn noch essen?",
+            "answer": "Durch Kälte schwarz gewordener Basilikum ist nicht giftig, hat aber viel von seinem Aroma und seiner Textur verloren. Solange kein Schimmel oder schlechter Geruch vorliegt, kann er in warmen Saucen oder Eintöpfen mitgekocht werden."
+          },
+          {
+            "question": "Sollte man Basilikum vor der Lagerung waschen?",
+            "answer": "Nein! Das Waschen vor der Lagerung schließt Feuchtigkeit zwischen den Blättern ein und führt zu schnellem Welken und Schimmelbildung. Lagern Sie Basilikum ungewaschen und spülen Sie ihn erst direkt vor der Verwendung ab."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar manjericão fresco: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, a prevenção de danos pelo frio e o tempo de conservação ideais para o manjericão fresco com base em diretrizes oficiais.",
+        "authority": "USDA & MFDS & UC Davis Postharvest Center",
+        "intro": "Você já comprou manjericão fresco, guardou na gaveta da geladeira e no dia seguinte descobriu que ele ficou completamente preto e murcho? 🌿\n\nO manjericão é uma erva de origem tropical e subtropical extremamente sensível ao frio. Quando exposto a temperaturas abaixo de 10 °C (como uma geladeira comum a ~4 °C), sofre 'danos pelo frio' (Chilling Injury), destruindo suas membranas celulares e escurecendo as folhas rapidamente.\n\nNeste guia baseado em diretrizes do USDA e do Centro de Pós-Colheita da UC Davis, apresentamos um método em 3 etapas para preservar seu aroma e frescor. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Compreender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Regras essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca guarde o manjericão fresco abaixo de 10 °C ⚠️",
+            "desc": "Expor o manjericão a temperaturas abaixo de 10 °C destrói os tecidos celulares e ativa a enzima polifenol oxidase (PPO), escurecendo as folhas rapidamente. Em poucas horas, perde óleos essenciais como linalol e eugenol."
+          },
+          {
+            "title": "Não guarde as folhas com umidade acumulada 💧",
+            "desc": "A água acumulada na superfície das folhas acelera a proliferação de fungos e bactérias, levando à podridão. Lave o manjericão apenas antes de usar e mantenha as folhas secas durante o armazenamento."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Corte os talos e guarde em temperatura ambiente como um vaso de flores — Conservação em água (7–14 dias) 🌿",
+            "text": "O manjericão dura mais tempo imerso em água em temperatura ambiente (12–15 °C). 💡 Dica de conservação: Corte as pontas dos talos em diagonal, coloque em um copo com água e cubra frouxamente com um saco plástico. Isso evita a desidratação e danos pelo frio por 1 a 2 semanas."
+          },
+          {
+            "name": "Mantenha longe da luz solar direta e do calor — Controle ambiental ☀️",
+            "text": "Expor o manjericão à luz solar forte ou ao calor do fogão fará com que as folhas murchem e amarelem rapidamente. 💡 Dica de conservação: Coloque o copo em um local fresco e sombreado (12–15 °C) e troque a água a cada 1 ou 2 dias."
+          },
+          {
+            "name": "Congele o manjericão picado com azeite de oliva para longa duração — Cubos de azeite congelados (90–180 dias) 🧊",
+            "text": "Para armazenar por mais de duas semanas, congelar com azeite de oliva é a melhor solução. 💡 Dica de conservação: Pique as folhas limpas e bem secas, coloque em uma fôrma de gelo e cubra com azeite. O azeite bloqueia o oxigênio, evitando o escurecimento para uso em molhos e massas."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Meu manjericão ficou preto na geladeira. Ainda posso comer?",
+            "answer": "O manjericão escurecido pelo frio não é tóxico, mas perdeu grande parte do aroma e da textura. Se não houver mofo ou mau cheiro, pode ser usado em molhos quentes ou ensopados."
+          },
+          {
+            "question": "Devo lavar o manjericão antes de guardar?",
+            "answer": "Não! Lavar o manjericão antes do armazenamento retém umidade entre as folhas, provocando o apodrecimento rápido. Guarde sem lavar e lave em água corrente apenas no momento de usar."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Daun Kemangi / Basil Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, pencegahan kerusakan dingin, dan masa simpan terbaik untuk basil segar berdasarkan pedoman keselamatan resmi.",
+        "authority": "USDA & MFDS & UC Davis Postharvest Center",
+        "intro": "Pernahkah Anda membeli daun basil segar, menyimpannya di dalam kulkas, lalu menemukan daunnya berubah menjadi hitam dan layu keesokan harinya? 🌿\n\nBasil adalah tanaman herbal tropis yang sangat sensitif terhadap suhu dingin. Ketika terpapar suhu di bawah 10°C (seperti kulkas standar sekitar 4°C), basil mengalami 'kerusakan dingin' (Chilling Injury) yang merusak membran sel dan membuat daunnya menghitam dengan cepat.\n\nDalam panduan ini, kami membagikan metode penyimpanan 3 langkah berbasis ilmiah dari USDA dan UC Davis Postharvest Center untuk menjaga aroma segar dan kualitas basil Anda. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan pernah menyimpan basil segar di bawah suhu 10°C ⚠️",
+            "desc": "Paparan suhu di bawah 10°C merusak jaringan sel dan mengaktifkan enzim polifenol oksidase (PPO), membuat daun cepat berubah menjadi cokelat/hitam dan kehilangan senyawa aromatik seperti linalool dan eugenol."
+          },
+          {
+            "title": "Jangan menyimpan daun dalam keadaan basah dan tertutup rapat 💧",
+            "desc": "Tetesan air yang tersisa di permukaan daun mempercepat pertumbuhan jamur dan bakteri yang menyebabkan pembusukan. Cuci basil hanya saat akan dimasak dan pastikan daun tetap kering saat disimpan."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Potong tangkai dan simpan pada suhu ruang seperti bunga — Simpan Air Suhu Ruang (7–14 Hari) 🌿",
+            "text": "Basil bertahan paling lama jika direndam air pada suhu ruang (12–15°C). 💡 Tips Penyimpanan: Potong miring ujung tangkai, tegakkan di dalam gelas berisi air, lalu tutup bagian atasnya secara longgar dengan kantong plastik. Ini mencegah penguapan dan kerusakan dingin selama 1 hingga 2 minggu."
+          },
+          {
+            "name": "Jauhkan dari sinar matahari langsung dan panas kompor — Kontrol Lingkungan ☀️",
+            "text": "Paparan sinar matahari langsung atau panas di dekat kompor akan membuat daun cepat layu dan menguning. 💡 Tips Penyimpanan: Letakkan gelas di tempat yang sejuk dan teduh (12–15°C) serta ganti airnya setiap 1 hingga 2 hari."
+          },
+          {
+            "name": "Bekukan basil cincang dengan minyak zaitun untuk jangka panjang — Pembekuan Kubus Minyak (90–180 Hari) 🧊",
+            "text": "Jika ingin menyimpan lebih dari dua minggu, membekukannya bersama minyak zaitun adalah metode terbaik. 💡 Tips Penyimpanan: Cincang daun basil yang bersih dan kering, masukkan ke dalam cetakan es batu, lalu tuangkan minyak zaitun. Minyak akan menghalangi oksigen dan mencegah perubahan warna."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Basil saya berubah menjadi hitam di kulkas. Apakah masih aman dimakan?",
+            "answer": "Basil yang menghitam akibat suhu dingin tidak beracun, tetapi telah kehilangan sebagian besar aroma dan teksturnya. Jika tidak ada jamur atau bau tidak sedap, basil masih dapat dimasak dalam saus atau sup panas."
+          },
+          {
+            "question": "Apakah basil harus dicuci sebelum disimpan?",
+            "answer": "Tidak! Mencuci basil sebelum disimpan akan menyisakan kelembapan di antara daun yang memicu pembusukan dan jamur. Simpan dalam kondisi kering tanpa dicuci, lalu cuci dengan air mengalir sesaat sebelum digunakan."
+          }
+        ]
+      }
     }
+  }
 }

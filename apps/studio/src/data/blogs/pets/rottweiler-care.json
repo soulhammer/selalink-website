@@ -1,459 +1,459 @@
 {
-    "rottweiler-care": {
-        "pubDate": "2026-02-28",
-        "updatedDate": "2026-02-28",
-        "locales": {
-            "ko": {
-                "title": "로트와일러의 충성·경계 신호 해석과 위확장-꼬임(GDV) 및 고관절 이형성증(HD) 관리를 위한 3단계 데일리 케어",
-                "description": "용맹하고 충직한 초대형견 로트와일러(Rottweiler). 낮은 울림(Rottie Rumble) 신호 해석, GDV 위꼬임·고관절 관리 및 관절 보호를 위한 3단계 홈케어 루틴을 소개합니다.",
-                "authority": "미국 케넬 클럽 (AKC) 및 American Rottweiler Club (ARC) 케어 프로토콜",
-                "profile": {
-                    "breed": "로트와일러 (Rottweiler)",
-                    "lifespan": "9 ~ 10년",
-                    "sleep_pattern": "12 ~ 14시간 (고강도 수직·수평 운동 후 깊은 수면)",
-                    "temperament": "충직함, 용맹함, 영리함, 경계심 강함, 보호 본능"
-                },
-                "intro": "강인한 체구와 뛰어난 지능, 강렬한 충성심을 지닌 로트와일러(Rottweiler)는 전 세계에서 사랑받는 가드견이자 가족의 충직한 반려동물입니다. 로트와일러는 가족에게 깊은 애정을 표현하지만, 흉곽이 깊고 넓은 초대형견 구조상 식사 후 급격한 운동 시 생명을 위협하는 위확장-꼬임(GDV/위비틀림)이 발생하기 매우 쉽습니다. 또한 체중 부담으로 인해 유전적으로 고관절 이형성증(HD) 및 십자인대 손상에 취약하며, 조기 사회화와 복종 훈련이 이루어지지 않으면 리더십 혼란과 스트레스 행동을 보일 수 있습니다. 이번 가이드에서는 로트와일러의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
-                "whyTitle": "로트와일러의 바디 랭귀지: 로티 럼블(Rottie Rumble)과 고정 시선 경계(Hard Stare / Stiff Stance)",
-                "whyDesc": "로트와일러는 독특한 목소리와 신체 정지 상태로 애정과 경계 신호를 명확히 구별합니다. 보호자와 스킨십을 할 때 목 안쪽에서 으르렁거리는 듯 낮게 울리는 **'로티 럼블(Rottie Rumble)'**은 경계음이 아닌 기분 좋은 만족감과 애정의 표시입니다. 반면 몸 전체를 단단히 굳히고 목을 세운 채 대상을 고정 응시하는 **'고정 시선 경계(Hard Stare / Stiff Stance)'**는 침입자나 위협에 대한 즉각적 반응 직전의 강한 경고 신호입니다.",
-                "body_signals": [
-                    {
-                        "name": "스킨십 중 목 안쪽에서 으르렁거리듯 낮은 울림 소리를 냄 (Rottie Rumble)",
-                        "meaning": "공격적 으르렁거림이 아닌, 보호자의 스킨십에 극도의 안도감과 만족감을 표현하는 로트와일러 특유의 애정 행동입니다.",
-                        "response": "몸의 긴장이 풀려 있는지 확인한 후, 차분한 태도로 다정하게 쓰다듬어 주며 교감을 유지합니다."
-                    },
-                    {
-                        "name": "몸이 단단히 굳어진 채 대상을 뚫어지게 응시함 (Hard Stare / Stiff Stance)",
-                        "meaning": "영역 침범이나 잠재적 위협에 대응하는 경계 자세로, 방치할 경우 즉각적인 방어·공격 행동으로 이어질 수 있습니다.",
-                        "response": "리드줄을 짧게 통제하고 자극 요소를 시야에서 차단한 뒤, '앉아'나 '나 봐' 명령어 중심의 리더십 통제를 실시합니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 고단백 저지방 식사 급여 및 위꼬임(GDV) 예방을 위한 식후 휴식 통제",
-                        "text": "깊은 가슴 체형의 급성 위꼬임을 막기 위해 슬로우 식기를 사용하고, 식사 후 최소 1시간 동안은 과격한 운동과 뛰어놀기를 엄격히 금지합니다."
-                    },
-                    {
-                        "name": "낮: 관절 부담을 줄인 균형 잡힌 운동 및 조기 사회화 복종 훈련",
-                        "text": "고관절 이형성증(HD) 예방을 위해 단단한 시멘트 바닥보다는 잔디밭 위에서의 평지 산책과 웨이트 풀링, 복종 훈련을 병행합니다."
-                    },
-                    {
-                        "name": "저녁: 체중 관리 및 미끄럼 방지 실내 환경 점검(관절 보호)",
-                        "text": "관절과 심장에 가해지는 부담을 줄이기 위해 적정 체중을 유지하고, 실내 바닥 매트를 점검하여 관절 부상을 예방합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "로트와일러가 내는 '로티 럼블(Rottie Rumble)'은 위협적인 으르렁거림인가요?",
-                        "answer": "아닙니다! '로티 럼블(Rottie Rumble)'은 로트와일러 특유의 만족감 표시입니다. 고양이가 골골송(Purring)을 부르는 것처럼 보호자가 쓸어내려 줄 때 기분이 좋아 내는 소리입니다. 단, 입술이 말려 올라가거나 몸이 단단하게 굳어있고 눈자위가 드러나는(Whites of eyes) 상태의 진짜 경고성 으르렁거림과는 명확히 구분해야 합니다."
-                    },
-                    {
-                        "question": "위확장-꼬임(GDV)과 고관절 이형성증(HD)을 예방하려면 어떻게 해야 하나요?",
-                        "answer": "위확장-꼬임(GDV) 방지를 위해서는 식사를 2~3회 나누어 급여하고 식후 1시간 휴식이 필수입니다. 고관절 이형성증(HD) 예방을 위해서는 성장기 과도한 체중 증가를 막고, 고강도 점프나 미끄러운 바닥 노출을 피하며, 1세 이후 정기적인 엑스레이(X-ray) 검사를 받는 것이 중요합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Rottweiler Behavioral Signals and 3-Step Daily Routine for GDV Bloat Prevention and Hip Dysplasia (HD) Care",
-                "description": "Care guide for the powerful and loyal Rottweiler. Interpret the Rottie Rumble and Hard Stare, prevent fatal GDV bloat, manage hip dysplasia, and protect joints in 3 steps.",
-                "authority": "American Kennel Club (AKC) & American Rottweiler Club (ARC) Care Standards",
-                "profile": {
-                    "breed": "Rottweiler",
-                    "lifespan": "9 - 10 Years",
-                    "sleep_pattern": "12 - 14 Hours (Deep, restorative sleep after controlled exercise)",
-                    "temperament": "Loyal, Courageous, Highly Intelligent, Alert, Protective"
-                },
-                "intro": "Renowned for their muscular physique, high intelligence, and unyielding loyalty, the Rottweiler is a cherished guardian and family companion worldwide. While deeply affectionate with their families, their deep-chested build makes them extremely susceptible to life-threatening Gastric Dilatation-Volvulus (GDV/Bloat) if exercised right after meals. Additionally, their heavy frame places them at high risk for Hip Dysplasia (HD) and ligament injuries, requiring strict weight management, early socialization, and structured obedience training. In this guide, presents a 3-step daily routine to decode your Rottweiler's body language and safeguard their health.",
-                "whyTitle": "Rottweiler Body Language: The Rottie Rumble and the Hard Stare",
-                "whyDesc": "Rottweilers express affection and territorial vigilance through distinct vocalizations and body stillness. A low, vibrating guttural sound produced during affection **'The Rottie Rumble'** is not aggression, but a unique sign of deep contentment similar to a cat's purr. Conversely, standing completely rigid with a raised neck and an unblinking gaze **'The Hard Stare / Stiff Stance'** is an explicit alert signal indicating high arousal, threat assessment, and potential defense.",
-                "body_signals": [
-                    {
-                        "name": "Emitting a Low Guttural Vibrating Sound During Affection (Rottie Rumble)",
-                        "meaning": "A unique Rottweiler affection display expressing immense physical comfort, contentment, and trust toward their owner.",
-                        "response": "Confirm that their body remains loose and relaxed, responding calmly with gentle petting to maintain bonding."
-                    },
-                    {
-                        "name": "Standing Completely Rigid with Raised Neck and Unblinking Gaze (Hard Stare / Stiff Stance)",
-                        "meaning": "A high-alert territorial posture triggered by potential threats, signaling readiness to react defensively.",
-                        "response": "Shorten leash control immediately, block their line of sight to the trigger, and issue calm obedience commands like 'Sit' or 'Look at Me'."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: High-Protein Controlled Feeding & Strict Post-Meal Rest for GDV Prevention",
-                        "text": "Feed using a slow-feeder bowl to prevent air ingestion, enforcing a mandatory 1-hour calm rest period after eating with no vigorous activity."
-                    },
-                    {
-                        "name": "Afternoon: Joint-Friendly Balanced Exercise & Early Socialization Obedience Training",
-                        "text": "Protect joints from Hip Dysplasia (HD) by walking on soft turf rather than hard concrete, combining controlled exercise with structured obedience."
-                    },
-                    {
-                        "name": "Evening: Weight Management & Anti-Slip Indoor Floor Inspection (Joint Protection)",
-                        "text": "Maintain optimal lean weight to reduce stress on joints and heart, ensuring indoor floor mats are non-slip to prevent joint injuries."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Is the 'Rottie Rumble' a sign of aggressive growling?",
-                        "answer": "No! The 'Rottie Rumble' is a signature display of happiness and contentment, much like a cat purring when being petted by its trusted owner. However, it is vital to distinguish it from a true warning growl, which is accompanied by bared teeth, a rigid body posture, and visible whites of the eyes."
-                    },
-                    {
-                        "question": "How can I prevent Gastric Dilatation-Volvulus (GDV) and Hip Dysplasia (HD) in my Rottweiler?",
-                        "answer": "To prevent GDV (Bloat), split daily food into 2–3 smaller meals and mandate 1 hour of total rest post-meal. To manage Hip Dysplasia (HD), prevent rapid weight gain during growth, avoid high-impact jumping on hard surfaces, and conduct regular veterinary X-ray screenings starting after 1 year of age."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ロットワイラーの忠誠・警戒サイン解読と胃拡張捻転(GDV)・股関節形成不全(HD)管理のための3ステップデイリールーティン",
-                "description": "たくましく忠実な超大型犬ロットワイラー（Rottweiler）。ロッティランブル（低音鳴き）の解読、GDV胃捻転・股関節管理および関節保護のための3ステップホームケアを紹介します。",
-                "authority": "アメリカンケネルクラブ(AKC)およびAmerican Rottweiler Club(ARC)飼育基準",
-                "profile": {
-                    "breed": "ロットワイラー (Rottweiler)",
-                    "lifespan": "9 〜 10年",
-                    "sleep_pattern": "12 〜 14時間 (適度な運動後の質の高い深い睡眠)",
-                    "temperament": "忠実、勇敢、極めて知的、警戒心が強い、保護本能"
-                },
-                "intro": "強靭な体躯と優れた知性、強い忠誠心を持つロットワイラー（Rottweiler）は、世界中で愛されている警備犬であり家族の忠実な伴侶犬です。家族には深い愛情を示しますが、胸が深く広い体型のため、食後の激しい運動により致命的な胃拡張・捻転症候群（GDV）を起こしやすい犬種です。また体重の負担から遺伝的に股関節形成不全（HD）や靭帯損傷を起こしやすく、早期の社会化と服従訓練が不可欠です。本記事では、ロットワイラーのサインを正確に解読し健康を守る3ステップルーティンをお届けします。",
-                "whyTitle": "ロットワイラーのボディランゲージ：ロッティランブル(Rottie Rumble)と固直警戒視線(Hard Stare)",
-                "whyDesc": "ロットワイラーは独特の低音と体の硬直状態で愛情と警戒を明確に区別します。飼い主となで合いをしている時に喉の奥から唸るように低く響かせる**「ロッティランブル（Rottie Rumble）」**は、威嚇ではなくリラックスした最高度の満足感と愛情表現です。一方、全身を硬直させて首を上げ、対象を凝視する**「固直警戒視線（Hard Stare / Stiff Stance）」**は、侵入者や脅威に対する攻撃直前の警告サインです。",
-                "body_signals": [
-                    {
-                        "name": "スキンシップ中に喉の奥から低い唸り声のような音を出す (Rottie Rumble)",
-                        "meaning": "攻撃的な唸り声ではなく、飼い主の撫でに対して最高の安心感と満足感を示すロットワイラー固有の愛情表現です。",
-                        "response": "体がリラックスしているか確認し、落ち着いた態度で優しく撫で続けて安心感を与えましょう。"
-                    },
-                    {
-                        "name": "体を硬直させて首を上げ、対象をじっと見つめる (Hard Stare / Stiff Stance)",
-                        "meaning": "縄張り侵入や潜在的脅威に対応する警戒姿勢であり、放置すると防衛・攻撃行動へ移行する危険があります。",
-                        "response": "リードを短くコントロールし、視線を遮って「おすわり」や「アイコンタクト」で飼い主へ意識を集中させます。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：高タンパク食の給餌と胃捻転(GDV)予防のための食後安静管理",
-                        "text": "空気の呑み込みを防ぐため早食い防止食器を使用し、食後1時間は激しい運動や走り回りを厳禁として静かに休ませます。"
-                    },
-                    {
-                        "name": "昼：関節負担を軽減したバランス運動と早期社会化トレーニング",
-                        "text": "股関節形成不全（HD）予防のため、硬いコンクリートではなく芝生の上での散歩と服従訓練を組み合わせます。"
-                    },
-                    {
-                        "name": "夜：体重管理と滑り止め環境の整備（関節保護）",
-                        "text": "関節や心臓への負担を減らすため適正体重を維持し、室内の滑り止めマットを点検して怪我を防ぎます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "ロットワイラーの出す「ロッティランブル(Rottie Rumble)」は攻撃的な唸り声ですか？",
-                        "answer": "いいえ、違います！「ロッティランブル」はロットワイラー特有の幸福と満足のサインです。猫のゴロゴロ音（Purring）のように、大好きな飼い主に撫でられている時にリラックスして出す声です。ただし、歯をむき出したり、体が硬直して白目が見えている本物の威嚇音とは明確に区別する必要があります。"
-                    },
-                    {
-                        "question": "胃拡張捻転(GDV)と股関節形成不全(HD)を防ぐにはどうすればよいですか？",
-                        "answer": "胃捻転（GDV）防止にはフードを2〜3回に分けて与え、食後1時間の完全安静が必須です。股関節形成不全（HD）予防には成長期の過度な体重増加を防ぎ、滑りやすい床でのジャンプを避け、1歳以降に定期的なレントゲン検査を受けることが大切です。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "罗威纳犬行为信号解读与胃扭转(GDV)及髋关节发育不良(HD)管理的3步日常流程",
-                "description": "威猛忠诚的大型护卫犬罗威纳犬（Rottweiler）。解读罗威发声（Rottie Rumble）与凝视警戒信号，预防GDV胃扭转、管理髋关节及保护关节的3步骤家庭护理。",
-                "authority": "美国犬业俱乐部 (AKC) 与美国罗威纳犬俱乐部 (ARC) 护理标准",
-                "profile": {
-                    "breed": "罗威纳犬 (Rottweiler)",
-                    "lifespan": "9 ~ 10年",
-                    "sleep_pattern": "12 ~ 14小时 (适度运动后的深度高质量睡眠)",
-                    "temperament": "忠诚、勇敢、极度聪明、警惕性高、保护欲强"
-                },
-                "intro": "拥有强健体魄、极高智商与绝对忠诚度的罗威纳犬（Rottweiler）是全球备受推崇的护卫犬与家庭伴侣犬。尽管罗威纳犬对家庭成员极为温顺依恋，但其胸腔深广的体型结构使其在饭后剧烈运动时极易发生危及生命的胃扩张-扭转（GDV）。此外，由于体重大，基因上易患髋关节发育不良（HD）与韧带损伤，需要严格控重、早期社会化与服从性训练。本指南将带您准确解读罗威纳犬肢体语言，并通过3步骤日常护理维护其健康。",
-                "whyTitle": "罗威纳犬肢体语言：罗威咕噜声 (Rottie Rumble) 与凝视警戒 (Hard Stare)",
-                "whyDesc": "罗威纳犬通过独特的发声与身体僵直状态清晰区分爱意与警戒。在与主人互动抚摸时，喉咙深处发出低沉如低吼的**“罗威咕噜声 (Rottie Rumble)”**并非攻击，而是如同猫咪发噜噜声般极其舒适与满足的最高爱意表达。相反，全身僵硬、竖起脖子并紧盯目标**“凝视警戒 (Hard Stare / Stiff Stance)”**，则是应对威胁或领地侵犯前发出的明确警告信号。",
-                "body_signals": [
-                    {
-                        "name": "抚摸互动时喉咙深处发出低沉震动声 (Rottie Rumble)",
-                        "meaning": "表达对主人抚摸极度舒适、满足与信任的罗威纳犬专属爱意行为，绝非攻击性低吼。",
-                        "response": "确认其身体放松后，保持平静态度温柔抚摸，维持良好的情感交流。"
-                    },
-                    {
-                        "name": "身体硬直、竖起脖子并死死盯着目标 (Hard Stare / Stiff Stance)",
-                        "meaning": "应对领地侵犯或潜在威胁的警戒姿态，若不加以干预可能演变为防御攻击。",
-                        "response": "收短牵引绳，遮挡其视线，并立即使用“坐下”或“看我”指令实施领袖控制。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：投喂高蛋白主粮与预防胃扭转 (GDV) 饭后严格休息",
-                        "text": "使用慢食碗防止吞入过多空气，饭后1小时内严格禁止剧烈奔跑与打闹，保持安静休息。"
-                    },
-                    {
-                        "name": "中午：保护关节的平衡运动与早期社会化服从训练",
-                        "text": "为预防髋关节发育不良（HD），选择草地而非坚硬水泥路进行散步，并结合服从性训练。"
-                    },
-                    {
-                        "name": "晚上：体重管理与室内防滑环境检查（保护关节）",
-                        "text": "控制合理体型以减轻关节与心脏负担，检查室内防滑垫铺设情况以防滑倒受伤。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "罗威纳犬发出的“罗威咕噜声 (Rottie Rumble)”是攻击性低吼吗？",
-                        "answer": "绝对不是！“罗威咕噜声”是罗威纳犬表达幸福与满足的独特方式。就像猫咪开心时发出的咕噜声一样，是享受主人抚摸时的表现。但是，必须注意将其与翻唇露出牙齿、身体僵硬、露出眼白（Whites of eyes）的真正警告性低吼区分开来。"
-                    },
-                    {
-                        "question": "如何有效预防胃扭转（GDV）与髋关节发育不良（HD）？",
-                        "answer": "预防胃扭转（GDV）需分餐饲喂（每日2~3餐），并在饭后保持1小时完全休息。预防髋关节发育不良（HD）需避免生长期体重过快增长，杜绝在坚硬地面剧烈跳跃，并在1岁后定期进行 X 光骨骼检查。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Señales de conducta en el Rottweiler y rutina diaria de 3 pasos para la prevención de torsión gástrica (GDV) y displasia de cadera (HD)",
-                "description": "Guía de cuidado para el poderoso y leal Rottweiler. Interprete el 'Rottie Rumble' y la mirada fija de alerta, prevenga la torsión gástrica GDV y cuide sus articulaciones en 3 pasos.",
-                "authority": "American Kennel Club (AKC) y Normas del American Rottweiler Club (ARC)",
-                "profile": {
-                    "breed": "Rottweiler",
-                    "lifespan": "9 ~ 10 años",
-                    "sleep_pattern": "12 ~ 14 horas (Sueño profundo y reparador tras ejercicio moderado)",
-                    "temperament": "Leal, Valiente, Muy inteligente, Alerta, Protector"
-                },
-                "intro": "Reconocido por su físico musculoso, gran inteligencia e inquebrantable lealtad, el Rottweiler es un guardián y perro de familia muy admirado en todo el mundo. Aunque es sumamente cariñoso con los suyos, su tórax profundo lo hace muy propenso a la letal Torsión Gástrica (GDV) si realiza ejercicio tras comer. Además, debido a su peso, tiene un riesgo elevado de sufrir Displasia de Cadera (HD), requiriendo un estricto control de peso, socialización temprana y adiestramiento de obediencia. En esta guía, presenta una rutina de 3 pasos para descifrar su lenguaje corporal y proteger su salud.",
-                "whyTitle": "Lenguaje corporal del Rottweiler: El 'Rottie Rumble' y la mirada fija de alerta (Hard Stare)",
-                "whyDesc": "Los Rottweilers expresan afecto y alerta territorial mediante vocalizaciones únicas y postura corporal. Un sonido gutural bajo que emiten cuando reciben caricias **'Rottie Rumble'** no es agresión, sino una muestra característica de placer equivalente al ronroneo del gato. Por el contrario, mantenerse rígido con el cuello erguido y la mirada fija **'Mirada fija de alerta (Hard Stare / Stiff Stance)'** es una señal clara de alta alerta y posible reacción defensiva.",
-                "body_signals": [
-                    {
-                        "name": "Emitir un sonido gutural bajo y vibrante durante las caricias (Rottie Rumble)",
-                        "meaning": "Muestra de afecto única del Rottweiler que expresa absoluta comodidad, placer y confianza hacia su dueño.",
-                        "response": "Verifique que su cuerpo esté relajado y continúe acariciándolo de manera tranquila para reforzar el vínculo."
-                    },
-                    {
-                        "name": "Cuerpo totalmente rígido, cuello erguido y mirada fija (Hard Stare / Stiff Stance)",
-                        "meaning": "Postura de alerta máxima ante una posible amenaza o intrusión, indicando disposición inmediata a actuar.",
-                        "response": "Acorte la correa, bloquee la visión hacia el estímulo y emita órdenes de obediencia con calma como 'Sienta' o 'Mírame'."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Alimentación alta en proteína y reposo estricto tras comer para prevenir la torsión gástrica (GDV)",
-                        "text": "Utilice un comedero lento para evitar tragar aire y garantice 1 hora de descanso absoluto tras comer sin ejercicios."
-                    },
-                    {
-                        "name": "Tarde: Ejercicio moderado para cuidar articulaciones y adiestramiento de obediencia",
-                        "text": "Proteja sus caderas de la Displasia (HD) paseando sobre césped blando en lugar de concreto y combine con entrenamiento."
-                    },
-                    {
-                        "name": "Noche: Control de peso y revisión de suelo antideslizante en casa (Protección articular)",
-                        "text": "Mantenga un peso magro para no sobrecargar articulaciones ni corazón, y asegure alfombras antideslizantes en el hogar."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿El 'Rottie Rumble' del Rottweiler es un gruñido agresivo?",
-                        "answer": "¡No! El 'Rottie Rumble' es una señal de pura felicidad y placer, similar al ronroneo de un gato cuando su dueño lo acaricia. Sin embargo, es fundamental diferenciarlo de un gruñido de advertencia real, el cual se acompaña de dientes expuestos, cuerpo rígido y la parte blanca de los ojos visible (Whites of eyes)."
-                    },
-                    {
-                        "question": "¿Cómo puedo prevenir la Torsión Gástrica (GDV) y la Displasia de Cadera (HD)?",
-                        "answer": "Para prevenir la GDV (Torsión Gástrica), divida la comida en 2 o 3 raciones y exija 1 hora de reposo tras comer. Para la Displasia de Cadera (HD), evite el sobrepeso durante la etapa de crecimiento, elimine los saltos bruscos en suelos duros y realice revisiones radiológicas a partir del primer año de vida."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Signaux comportementaux du Rottweiler et routine quotidienne en 3 étapes pour la prévention de la torsion d'estomac (GDV) et de la dysplasie de la hanche (HD)",
-                "description": "Guide de soins pour le puissant et loyal Rottweiler. Décryptez le 'Rottie Rumble' et le regard fixe d'alerte, prévenez la torsion d'estomac GDV et protégez ses articulations en 3 étapes.",
-                "authority": "American Kennel Club (AKC) & Normes de l'American Rottweiler Club (ARC)",
-                "profile": {
-                    "breed": "Rottweiler",
-                    "lifespan": "9 ~ 10 ans",
-                    "sleep_pattern": "12 ~ 14 heures (Sommeil profond et réparateur après un exercice contrôlé)",
-                    "temperament": "Loyal, Courageux, Très intelligent, Attentif, Protecteur"
-                },
-                "intro": "Reconnu pour sa musculature impressionnante, sa grande intelligence et sa fidélité sans faille, le Rottweiler est un gardien et un compagnon familial admiré dans le monde entier. Très affectueux avec les siens, sa poitrine profonde le rend extrêmement vulnérable à la Torsion d'Estomac (GDV) en cas d'effort après les repas. Sa masse corporelle l'expose également à la Dysplasie de la Hanche (HD), exigeant un contrôle strict du poids, une socialisation précoce et une éducation structurée. Dans ce guide, vous présente une routine en 3 étapes pour décoder ses signaux et préserver sa santé.",
-                "whyTitle": "Langage corporel du Rottweiler : Le 'Rottie Rumble' et le regard fixe d'alerte (Hard Stare)",
-                "whyDesc": "Le Rottweiler exprime son affection et sa vigilance par des vocalises uniques et la posture. Un ronronnement guttural grave émis lors des caresses **« Rottie Rumble »** n'est pas de l'agressivité, mais une marque de bonheur équivalente au ronronnement du chat. En revanche, se figer totalement le cou tendu et fixer sa cible **« Regard fixe d'alerte (Hard Stare / Stiff Stance) »** est un signal clair de haute vigilance et d'intervention imminente.",
-                "body_signals": [
-                    {
-                        "name": "Émettre une vibration gutturale grave pendant les caresses (Rottie Rumble)",
-                        "meaning": "Signe d'affection exclusif au Rottweiler traduisant un bien-être physique absolu et une grande confiance envers son maître.",
-                        "response": "Vérifiez que son corps est bien détendu et continuez les caresses calmement pour renforcer votre complicité."
-                    },
-                    {
-                        "name": "Corps complètement immobile, cou redressé et regard fixe (Hard Stare / Stiff Stance)",
-                        "meaning": "Posture d'alerte maximale face à une menace ou une intrusion, indiquant une préparation à la défense.",
-                        "response": "Raccourcissez la laisse, coupez la ligne de vue vers le stimulus et donnez un ordre d'obéissance comme 'Assis' ou 'Regarde-moi'."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Repas équilibré & repos strict après manger pour éviter la torsion d'estomac (GDV)",
-                        "text": "Utilisez une gamelle anti-glouton pour limiter l'ingestion d'air et imposez 1 heure de calme absolu après le repas sans course."
-                    },
-                    {
-                        "name": "Après-midi : Exercice adapté aux articulations & travail d'obéissance",
-                        "text": "Ménagez ses hanches contre la Dysplasie (HD) en privilégiant les promenades sur l'herbe plutôt que le béton, combinées à l'éducation."
-                    },
-                    {
-                        "name": "Soir : Gestion du poids & aménagement d'un sol antidérapant (Protection articulaire)",
-                        "text": "Maintenez un poids de forme pour ne pas surcharger ses articulations et assurez-vous que les sols intérieurs ne sont pas glissants."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Le 'Rottie Rumble' du Rottweiler est-il un grognement agressif ?",
-                        "answer": "Non ! Le 'Rottie Rumble' est une manifestation de pur bonheur et de satisfaction, semblable au ronronnement du chat lorsqu'il est caressé par son maître. Toutefois, il faut savoir le distinguer d'un vrai grognement de mise en garde, qui s'accompagne de babines relevées, d'un corps tendu et du blanc des yeux visible (Whites of eyes)."
-                    },
-                    {
-                        "question": "Comment prévenir la Torsion d'Estomac (GDV) et la Dysplasie de la Hanche (HD) ?",
-                        "answer": "Pour prévenir la Torsion d'Estomac (GDV), fractionnez les repas en 2 ou 3 prises et observez 1 heure de repos strict après manger. Pour la Dysplasie de la Hanche (HD), évitez le surpoids pendant la croissance, bannissez les sauts répétés sur sol dur et réalisez un dépistage radiologique dès l'âge de 1 an."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Verhaltenssignale beim Rottweiler und 3-Schritte-Tagesroutine für Magendrehung-Prophylaxe (GDV) und Hüftdysplasie-Pflege (HD)",
-                "description": "Pflegeanleitung für den kraftvollen und treuen Rottweiler. Den 'Rottie Rumble' und Drohfixieren verstehen, tödliche Magendrehung GDV vermeiden und Gelenke in 3 Schritten schützen.",
-                "authority": "American Kennel Club (AKC) & Standards des American Rottweiler Club (ARC)",
-                "profile": {
-                    "breed": "Rottweiler",
-                    "lifespan": "9 ~ 10 Jahre",
-                    "sleep_pattern": "12 ~ 14 Stunden (Erholsamer Tiefschlaf nach kontrollierter Bewegung)",
-                    "temperament": "Treu, Mutig, Hochintelligent, Wachsam, Beschützerisch"
-                },
-                "intro": "Bekannt für seinen muskulösen Körperbau, seine hohe Intelligenz und seine unerschütterliche Treue ist der Rottweiler weltweit ein geschätzter Schutz- und Familienhund. So verschmust er mit seiner Familie ist, so anfällig ist er durch seinen tiefen Brustkorb für die lebensgefährliche Magendrehung (GDV) bei Bewegung nach dem Fressen. Sein hohes Gewicht belastet zudem die Gelenke (Hüftdysplasie / HD), weshalb eine strikte Gewichtskontrolle, frühe Sozialisierung und Gehorsamstraining unerlässlich sind. In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für die Gesundheit Ihres Rottweilers.",
-                "whyTitle": "Körpersprache des Rottweilers: Der 'Rottie Rumble' und das Drohfixieren (Hard Stare)",
-                "whyDesc": "Rottweiler drücken Zuneigung und Reviersicherheit durch einzigartige Laute und Körperhaltung aus. Ein tiefes, kehliger Laut beim Streicheln **'Rottie Rumble'** ist keine Aggression, sondern ihr typischer Ausdruck von Wohlbefinden – vergleichbar mit dem Schnurren einer Katze. Das starre Verharren mit erhobenem Hals und festem Blick **'Drohfixieren (Hard Stare / Stiff Stance)'** ist dagegen ein deutliches Warnsignal vor einer Abwehrreaktion.",
-                "body_signals": [
-                    {
-                        "name": "Tiefe gutturale Vibrationen beim Streicheln abgeben (Rottie Rumble)",
-                        "meaning": "Typische Zuneigungsbekundung des Rottweilers, die tiefes Wohlbefinden und Vertrauen gegenüber dem Halter ausdrückt.",
-                        "response": "Achten Sie darauf, dass der Körper entspannt ist, und streicheln Sie ruhig weiter, um die Bindung zu stärken."
-                    },
-                    {
-                        "name": "Erstarrte Körperhaltung mit erhobenem Hals und fixierendem Blick (Hard Stare / Stiff Stance)",
-                        "meaning": "Hohe Alertheit gegenüber Reizen oder Revierbedrohungen; signalisiert unmittelbare Bereitschaft zur Verteidigung.",
-                        "response": "Leine kurz nehmen, Sichtkontakt zum Reiz unterbrechen und die Aufmerksamkeit mit 'Sitz' oder 'Schau mich an' umlenken."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Proteinreiche Fütterung & Strikte Ruhe nach dem Fressen zur GDV-Prophylaxe",
-                        "text": "Nutzen Sie Anti-Schling-Näpfe gegen Luftschlucken und halten Sie nach dem Fressen eine 1-stündige strikte Ruhephase ohne Toben ein."
-                    },
-                    {
-                        "name": "Mittag: Gelenkschonende Bewegung & Frühe Gehorsamserziehung",
-                        "text": "Schonen Sie die Hüften (HD-Prophylaxe) durch Spaziergänge auf weichem Rasen statt hartem Beton und kombinieren Sie dies mit Training."
-                    },
-                    {
-                        "name": "Abend: Gewichtskontrolle & Rutschfeste Böden im Haus (Gelenkschutz)",
-                        "text": "Halten Sie das Idealgewicht zur Entlastung von Gelenken und Herz und sorgen Sie für rutschfeste Matten in der Wohnung."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Ist der 'Rottie Rumble' des Rottweilers ein aggressives Knurren?",
-                        "answer": "Nein! Der 'Rottie Rumble' ist ein Zeichen von tiefem Glück und Zufriedenheit, ähnlich wie das Schnurren einer Katze beim Streicheln. Es muss jedoch klar von einem echten Drohknurren unterschieden werden, das von hochgezogenen Lefzen, einem angespannten Körper und sichtbarem Augenweiß (Whites of eyes) begleitet wird."
-                    },
-                    {
-                        "question": "Wie beuge ich Magendrehung (GDV) und Hüftdysplasie (HD) wirksam vor?",
-                        "answer": "Zur Magendrehung-Prophylaxe (GDV) füttern Sie 2–3 kleinere Mahlzeiten täglich und halten 1 Stunde Ruhe ein. Zur Vorbeugung von Hüftdysplasie (HD) vermeiden Sie Übergewicht im Wachstum, verzichten auf Sprünge auf harten Böden und lassen ab dem 1. Lebensjahr Röntgenuntersuchungen durchführen."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Sinais comportamentais do Rottweiler e rotina diária de 3 passos para prevenção de torção gástrica (GDV) e displasia coxofemoral (HD)",
-                "description": "Guia de cuidados para o poderoso e leal Rottweiler. Interprete o 'Rottie Rumble' e o olhar fixo de alerta, previna a torção gástrica GDV e proteja as articulações em 3 passos.",
-                "authority": "American Kennel Club (AKC) & Padrões do American Rottweiler Club (ARC)",
-                "profile": {
-                    "breed": "Rottweiler",
-                    "lifespan": "9 ~ 10 anos",
-                    "sleep_pattern": "12 ~ 14 horas (Sono profundo e reparador após exercício controlado)",
-                    "temperament": "Leal, Corajoso, Muito inteligente, Alerta, Protetor"
-                },
-                "intro": "Reconhecido por seu porte musculoso, grande inteligência e lealdade inabalável, o Rottweiler é um cão de guarda e companheiro familiar admirado no mundo todo. Embora seja extremamente afetuoso com sua família, seu tórax profundo o torna altamente suscetível à letal Torção Gástrica (GDV) caso se exercite após comer. Além disso, seu peso elevado expõe as articulações à Displasia Coxofemoral (HD), exigindo controle de peso, socialização precoce e adestramento de obediência. Neste guia, apresenta uma rotina de 3 passos para interpretar seus sinais e proteger sua saúde.",
-                "whyTitle": "Linguagem corporal do Rottweiler: O 'Rottie Rumble' e o olhar fixo de alerta (Hard Stare)",
-                "whyDesc": "Os Rottweilers expressam afeto e alerta territorial através de vocalizações únicas e postura física. Um som gutural grave emitido durante o carinho **'Rottie Rumble'** não é agressão, mas uma demonstração característica de prazer equivalente ao ronronar dos gatos. Por outro lado, manter o corpo rígido, o pescoço erguido e o olhar fixo **'Olhar fixo de alerta (Hard Stare / Stiff Stance)'** é um sinal claro de alta vigilância e potencial reação defensiva.",
-                "body_signals": [
-                    {
-                        "name": "Emitir uma vibração gutural grave durante o carinho (Rottie Rumble)",
-                        "meaning": "Demonstração de afeto exclusiva do Rottweiler que expressa conforto físico absoluto, prazer e confiança no tutor.",
-                        "response": "Confirme se o corpo dele está relaxado e continue o carinho de forma calma para fortalecer o vínculo."
-                    },
-                    {
-                        "name": "Corpo totalmente rígido, pescoço erguido e olhar fixo (Hard Stare / Stiff Stance)",
-                        "meaning": "Postura de alerta máximo diante de uma ameaça ou invasão territorial, indicando prontidão para agir.",
-                        "response": "Encurte a guia, bloqueie a visão para o estímulo e emita comandos de obediência como 'Senta' ou 'Olha para mim'."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Alimentação rica em proteínas & repouso estrito pós-refeição contra torção gástrica (GDV)",
-                        "text": "Utilize comedouros lentos para evitar engolir ar e garanta 1 hora de descanso tranquilo sem corridas após comer."
-                    },
-                    {
-                        "name": "Tarde: Exercício moderado para proteger articulações & treino de obediência",
-                        "text": "Proteja a quadril contra a Displasia (HD) caminhando sobre grama macia em vez de concreto e combine com adestramento."
-                    },
-                    {
-                        "name": "Noite: Controle de peso & piso antiderrapante em casa (Proteção articular)",
-                        "text": "Mantenha o peso magro para não sobrecarregar articulações e coração, garantindo tapetes antiderrapantes na casa."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "O 'Rottie Rumble' do Rottweiler é um rosnado agressivo?",
-                        "answer": "Não! O 'Rottie Rumble' é um sinal de pura felicidade e prazer, muito semelhante ao ronronar de um gato ao receber carinho. Contudo, é fundamental diferenciá-lo de um rosnado de alerta real, que vem acompanhado de dentes amostra, corpo rígido e o branco dos olhos visível (Whites of eyes)."
-                    },
-                    {
-                        "question": "Como posso prevenir a Torção Gástrica (GDV) e a Displasia Coxofemoral (HD)?",
-                        "answer": "Para prevenir a Torção Gástrica (GDV), divida a comida em 2 ou 3 porções e garanta 1 hora de repouso após comer. Para prevenir a Displasia Coxofemoral (HD), evite o excesso de peso no crescimento, elimine saltos em pisos duros e faça exames radiológicos a partir do primeiro ano de vida."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Sinyal Perilaku Rottweiler dan Rutinitas Harian 3 Langkah Perawatan Pencegahan Torsi Lambung (GDV) serta Displasia Pinggul (HD)",
-                "description": "Panduan perawatan anjing gagah dan setia Rottweiler. Pahami 'Rottie Rumble' dan tatapan tajam siaga, cegah kembung fatal GDV, serta jaga kesehatan sendi dalam 3 langkah.",
-                "authority": "American Kennel Club (AKC) & Standar Perawatan American Rottweiler Club (ARC)",
-                "profile": {
-                    "breed": "Rottweiler",
-                    "lifespan": "9 ~ 10 tahun",
-                    "sleep_pattern": "12 ~ 14 jam (Tidur nyenyak berkualitas setelah aktivitas fisik terukur)",
-                    "temperament": "Setia, Pemberani, Sangat Cerdas, Waspada, Protektif"
-                },
-                "intro": "Dikenal karena ototnya yang kuat, kecerdasan tinggi, dan kesetiaannya yang luar biasa, Rottweiler adalah anjing penjaga dan pendamping keluarga yang sangat dihormati di seluruh dunia. Meskipun sangat penyayang terhadap keluarganya, rongga dada mereka yang dalam membuat mereka sangat rentan terhadap Gastric Dilatation-Volvulus (GDV/torsi lambung) jika berolahraga setelah makan. Bobot tubuhnya yang berat juga berisiko memicu Displasia Pinggul (HD), sehingga membutuhkan kontrol berat badan, sosialisasi dini, dan pelatihan kepatuhan. Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk merawat Rottweiler Anda.",
-                "whyTitle": "Bahasa Tubuh Rottweiler: 'Rottie Rumble' dan Tatapan Tajam Siaga (Hard Stare)",
-                "whyDesc": "Rottweiler menyampaikan kasih sayang dan kewaspadaan melalui suara unik dan postur tubuh. Suara dengkuran rendah dari dalam tenggorokan saat dielus **'Rottie Rumble'** bukanlah bentuk agresi, melainkan tanda kepuasan dan rasa sayang khas layaknya dengkuran kucing (purring). Sebaliknya, berdiri kaku dengan leher tegak dan menatap tajam tanpa berkedip **'Tatapan Tajam Siaga (Hard Stare / Stiff Stance)'** adalah sinyal kewaspadaan tinggi sebelum merespons ancaman.",
-                "body_signals": [
-                    {
-                        "name": "Mengeluarkan Suara Dengkuran Rendah Saat Dielus (Rottie Rumble)",
-                        "meaning": "Tanda kasih sayang khas Rottweiler yang menunjukkan rasa nyaman fisik, kepuasan, dan rasa percaya yang mendalam.",
-                        "response": "Pastikan tubuhnya tetap rileks dan lanjutkan elusan secara tenang untuk mempererat ikatan."
-                    },
-                    {
-                        "name": "Berdiri Kaku, Leher Tegak, dan Menatap Tajam Target (Hard Stare / Stiff Stance)",
-                        "meaning": "Postur siaga tinggi terhadap potensi ancaman atau gangguan wilayah, menandakan kesiapan untuk bertindak.",
-                        "response": "Pendekkan tali tuntun, halangi pandangannya dari pemicu, dan berikan perintah 'Duduk' atau 'Lihat Saya'."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Pakan Tinggi Protein & Istirahat Ketat Pasca-Makan untuk Mencegah GDV",
-                        "text": "Gunakan tempat makan slow-feeder untuk mencegah tertelannya udara, dan wajibkan istirahat tenang selama 1 jam tanpa lari-lari."
-                    },
-                    {
-                        "name": "Siang: Olahraga Aman untuk Sendi & Pelatihan Kepatuhan Dini",
-                        "text": "Lindungi pinggul dari Displasia (HD) dengan berjalan di atas rumput alih-alih semen keras, serta kombinasikan dengan latihan kepatuhan."
-                    },
-                    {
-                        "name": "Malam: Manajemen Berat Badan & Pemeriksaan Lantai Anti-Slip (Perlindungan Sendi)",
-                        "text": "Jaga berat badan ideal untuk mengurangi beban sendi dan jantung, serta pastikan lantai rumah dilapisi karpet anti-slip."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apakah suara 'Rottie Rumble' pada Rottweiler merupakan geraman agresif?",
-                        "answer": "Bukan! 'Rottie Rumble' adalah tanda kebahagiaan dan kepuasan khas Rottweiler, mirip dengan dengkuran kucing saat dielus oleh pemiliknya. Namun, sangat penting untuk membedakannya dari geraman peringatan sejati yang disertai bibir terangkat memperlihatkan gigi, tubuh kaku, dan bagian putih mata yang terlihat (Whites of eyes)."
-                    },
-                    {
-                        "question": "Bagaimana cara mencegah Torsi Lambung (GDV) dan Displasia Pinggul (HD)?",
-                        "answer": "Untuk mencegah GDV (kembung/torsi lambung), bagi makanan menjadi 2–3 porsi kecil sehari dan pastikan istirahat total 1 jam setelah makan. Untuk mencegah Displasia Pinggul (HD), hindari kenaikan berat badan berlebih saat masa pertumbuhan, hindari lompatan keras di lantai licin, dan lakukan pemeriksaan Rontgen berkala setelah berusia 1 tahun."
-                    }
-                ]
-            }
+  "rottweiler-care": {
+    "pubDate": "2026-02-28",
+    "updatedDate": "2026-02-28",
+    "locales": {
+      "ko": {
+        "title": "로트와일러의 충성·경계 신호 해석과 위확장-꼬임(GDV) 및 고관절 이형성증(HD) 관리를 위한 3단계 데일리 케어",
+        "description": "용맹하고 충직한 초대형견 로트와일러(Rottweiler). 낮은 울림(Rottie Rumble) 신호 해석, GDV 위꼬임·고관절 관리 및 관절 보호를 위한 3단계 홈케어 루틴을 소개합니다.",
+        "authority": "미국 케넬 클럽 (AKC) 및 American Rottweiler Club (ARC) 케어 프로토콜",
+        "profile": {
+          "breed": "로트와일러 (Rottweiler)",
+          "lifespan": "9 ~ 10년",
+          "sleep_pattern": "12 ~ 14시간 (고강도 수직·수평 운동 후 깊은 수면)",
+          "temperament": "충직함, 용맹함, 영리함, 경계심 강함, 보호 본능"
         },
-        "heroImage": "/images/blog/rottweiler_care.webp"
-    }
+        "intro": "강인한 체구와 뛰어난 지능, 강렬한 충성심을 지닌 로트와일러(Rottweiler)는 전 세계에서 사랑받는 가드견이자 가족의 충직한 반려동물입니다. 로트와일러는 가족에게 깊은 애정을 표현하지만, 흉곽이 깊고 넓은 초대형견 구조상 식사 후 급격한 운동 시 생명을 위협하는 위확장-꼬임(GDV/위비틀림)이 발생하기 매우 쉽습니다. 또한 체중 부담으로 인해 유전적으로 고관절 이형성증(HD) 및 십자인대 손상에 취약하며, 조기 사회화와 복종 훈련이 이루어지지 않으면 리더십 혼란과 스트레스 행동을 보일 수 있습니다. 이번 가이드에서는 로트와일러의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
+        "whyTitle": "로트와일러의 바디 랭귀지: 로티 럼블(Rottie Rumble)과 고정 시선 경계(Hard Stare / Stiff Stance)",
+        "whyDesc": "로트와일러는 독특한 목소리와 신체 정지 상태로 애정과 경계 신호를 명확히 구별합니다. 보호자와 스킨십을 할 때 목 안쪽에서 으르렁거리는 듯 낮게 울리는 **'로티 럼블(Rottie Rumble)'**은 경계음이 아닌 기분 좋은 만족감과 애정의 표시입니다. 반면 몸 전체를 단단히 굳히고 목을 세운 채 대상을 고정 응시하는 **'고정 시선 경계(Hard Stare / Stiff Stance)'**는 침입자나 위협에 대한 즉각적 반응 직전의 강한 경고 신호입니다.",
+        "body_signals": [
+          {
+            "name": "스킨십 중 목 안쪽에서 으르렁거리듯 낮은 울림 소리를 냄 (Rottie Rumble)",
+            "meaning": "공격적 으르렁거림이 아닌, 보호자의 스킨십에 극도의 안도감과 만족감을 표현하는 로트와일러 특유의 애정 행동입니다.",
+            "response": "몸의 긴장이 풀려 있는지 확인한 후, 차분한 태도로 다정하게 쓰다듬어 주며 교감을 유지합니다."
+          },
+          {
+            "name": "몸이 단단히 굳어진 채 대상을 뚫어지게 응시함 (Hard Stare / Stiff Stance)",
+            "meaning": "영역 침범이나 잠재적 위협에 대응하는 경계 자세로, 방치할 경우 즉각적인 방어·공격 행동으로 이어질 수 있습니다.",
+            "response": "리드줄을 짧게 통제하고 자극 요소를 시야에서 차단한 뒤, '앉아'나 '나 봐' 명령어 중심의 리더십 통제를 실시합니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 고단백 저지방 식사 급여 및 위꼬임(GDV) 예방을 위한 식후 휴식 통제",
+            "text": "깊은 가슴 체형의 급성 위꼬임을 막기 위해 슬로우 식기를 사용하고, 식사 후 최소 1시간 동안은 과격한 운동과 뛰어놀기를 엄격히 금지합니다."
+          },
+          {
+            "name": "낮: 관절 부담을 줄인 균형 잡힌 운동 및 조기 사회화 복종 훈련",
+            "text": "고관절 이형성증(HD) 예방을 위해 단단한 시멘트 바닥보다는 잔디밭 위에서의 평지 산책과 웨이트 풀링, 복종 훈련을 병행합니다."
+          },
+          {
+            "name": "저녁: 체중 관리 및 미끄럼 방지 실내 환경 점검(관절 보호)",
+            "text": "관절과 심장에 가해지는 부담을 줄이기 위해 적정 체중을 유지하고, 실내 바닥 매트를 점검하여 관절 부상을 예방합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "로트와일러가 내는 '로티 럼블(Rottie Rumble)'은 위협적인 으르렁거림인가요?",
+            "answer": "아닙니다! '로티 럼블(Rottie Rumble)'은 로트와일러 특유의 만족감 표시입니다. 고양이가 골골송(Purring)을 부르는 것처럼 보호자가 쓸어내려 줄 때 기분이 좋아 내는 소리입니다. 단, 입술이 말려 올라가거나 몸이 단단하게 굳어있고 눈자위가 드러나는(Whites of eyes) 상태의 진짜 경고성 으르렁거림과는 명확히 구분해야 합니다."
+          },
+          {
+            "question": "위확장-꼬임(GDV)과 고관절 이형성증(HD)을 예방하려면 어떻게 해야 하나요?",
+            "answer": "위확장-꼬임(GDV) 방지를 위해서는 식사를 2~3회 나누어 급여하고 식후 1시간 휴식이 필수입니다. 고관절 이형성증(HD) 예방을 위해서는 성장기 과도한 체중 증가를 막고, 고강도 점프나 미끄러운 바닥 노출을 피하며, 1세 이후 정기적인 엑스레이(X-ray) 검사를 받는 것이 중요합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Rottweiler Behavioral Signals and 3-Step Daily Routine for GDV Bloat Prevention and Hip Dysplasia (HD) Care",
+        "description": "Care guide for the powerful and loyal Rottweiler. Interpret the Rottie Rumble and Hard Stare, prevent fatal GDV bloat, manage hip dysplasia, and protect joints in 3 steps.",
+        "authority": "American Kennel Club (AKC) & American Rottweiler Club (ARC) Care Standards",
+        "profile": {
+          "breed": "Rottweiler",
+          "lifespan": "9 - 10 Years",
+          "sleep_pattern": "12 - 14 Hours (Deep, restorative sleep after controlled exercise)",
+          "temperament": "Loyal, Courageous, Highly Intelligent, Alert, Protective"
+        },
+        "intro": "Renowned for their muscular physique, high intelligence, and unyielding loyalty, the Rottweiler is a cherished guardian and family companion worldwide. While deeply affectionate with their families, their deep-chested build makes them extremely susceptible to life-threatening Gastric Dilatation-Volvulus (GDV/Bloat) if exercised right after meals. Additionally, their heavy frame places them at high risk for Hip Dysplasia (HD) and ligament injuries, requiring strict weight management, early socialization, and structured obedience training. In this guide, presents a 3-step daily routine to decode your Rottweiler's body language and safeguard their health.",
+        "whyTitle": "Rottweiler Body Language: The Rottie Rumble and the Hard Stare",
+        "whyDesc": "Rottweilers express affection and territorial vigilance through distinct vocalizations and body stillness. A low, vibrating guttural sound produced during affection **'The Rottie Rumble'** is not aggression, but a unique sign of deep contentment similar to a cat's purr. Conversely, standing completely rigid with a raised neck and an unblinking gaze **'The Hard Stare / Stiff Stance'** is an explicit alert signal indicating high arousal, threat assessment, and potential defense.",
+        "body_signals": [
+          {
+            "name": "Emitting a Low Guttural Vibrating Sound During Affection (Rottie Rumble)",
+            "meaning": "A unique Rottweiler affection display expressing immense physical comfort, contentment, and trust toward their owner.",
+            "response": "Confirm that their body remains loose and relaxed, responding calmly with gentle petting to maintain bonding."
+          },
+          {
+            "name": "Standing Completely Rigid with Raised Neck and Unblinking Gaze (Hard Stare / Stiff Stance)",
+            "meaning": "A high-alert territorial posture triggered by potential threats, signaling readiness to react defensively.",
+            "response": "Shorten leash control immediately, block their line of sight to the trigger, and issue calm obedience commands like 'Sit' or 'Look at Me'."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: High-Protein Controlled Feeding & Strict Post-Meal Rest for GDV Prevention",
+            "text": "Feed using a slow-feeder bowl to prevent air ingestion, enforcing a mandatory 1-hour calm rest period after eating with no vigorous activity."
+          },
+          {
+            "name": "Afternoon: Joint-Friendly Balanced Exercise & Early Socialization Obedience Training",
+            "text": "Protect joints from Hip Dysplasia (HD) by walking on soft turf rather than hard concrete, combining controlled exercise with structured obedience."
+          },
+          {
+            "name": "Evening: Weight Management & Anti-Slip Indoor Floor Inspection (Joint Protection)",
+            "text": "Maintain optimal lean weight to reduce stress on joints and heart, ensuring indoor floor mats are non-slip to prevent joint injuries."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Is the 'Rottie Rumble' a sign of aggressive growling?",
+            "answer": "No! The 'Rottie Rumble' is a signature display of happiness and contentment, much like a cat purring when being petted by its trusted owner. However, it is vital to distinguish it from a true warning growl, which is accompanied by bared teeth, a rigid body posture, and visible whites of the eyes."
+          },
+          {
+            "question": "How can I prevent Gastric Dilatation-Volvulus (GDV) and Hip Dysplasia (HD) in my Rottweiler?",
+            "answer": "To prevent GDV (Bloat), split daily food into 2–3 smaller meals and mandate 1 hour of total rest post-meal. To manage Hip Dysplasia (HD), prevent rapid weight gain during growth, avoid high-impact jumping on hard surfaces, and conduct regular veterinary X-ray screenings starting after 1 year of age."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ロットワイラーの忠誠・警戒サイン解読と胃拡張捻転(GDV)・股関節形成不全(HD)管理のための3ステップデイリールーティン",
+        "description": "たくましく忠実な超大型犬ロットワイラー（Rottweiler）。ロッティランブル（低音鳴き）の解読、GDV胃捻転・股関節管理および関節保護のための3ステップホームケアを紹介します。",
+        "authority": "アメリカンケネルクラブ(AKC)およびAmerican Rottweiler Club(ARC)飼育基準",
+        "profile": {
+          "breed": "ロットワイラー (Rottweiler)",
+          "lifespan": "9 〜 10年",
+          "sleep_pattern": "12 〜 14時間 (適度な運動後の質の高い深い睡眠)",
+          "temperament": "忠実、勇敢、極めて知的、警戒心が強い、保護本能"
+        },
+        "intro": "強靭な体躯と優れた知性、強い忠誠心を持つロットワイラー（Rottweiler）は、世界中で愛されている警備犬であり家族の忠実な伴侶犬です。家族には深い愛情を示しますが、胸が深く広い体型のため、食後の激しい運動により致命的な胃拡張・捻転症候群（GDV）を起こしやすい犬種です。また体重の負担から遺伝的に股関節形成不全（HD）や靭帯損傷を起こしやすく、早期の社会化と服従訓練が不可欠です。本記事では、ロットワイラーのサインを正確に解読し健康を守る3ステップルーティンをお届けします。",
+        "whyTitle": "ロットワイラーのボディランゲージ：ロッティランブル(Rottie Rumble)と固直警戒視線(Hard Stare)",
+        "whyDesc": "ロットワイラーは独特の低音と体の硬直状態で愛情と警戒を明確に区別します。飼い主となで合いをしている時に喉の奥から唸るように低く響かせる**「ロッティランブル（Rottie Rumble）」**は、威嚇ではなくリラックスした最高度の満足感と愛情表現です。一方、全身を硬直させて首を上げ、対象を凝視する**「固直警戒視線（Hard Stare / Stiff Stance）」**は、侵入者や脅威に対する攻撃直前の警告サインです。",
+        "body_signals": [
+          {
+            "name": "スキンシップ中に喉の奥から低い唸り声のような音を出す (Rottie Rumble)",
+            "meaning": "攻撃的な唸り声ではなく、飼い主の撫でに対して最高の安心感と満足感を示すロットワイラー固有の愛情表現です。",
+            "response": "体がリラックスしているか確認し、落ち着いた態度で優しく撫で続けて安心感を与えましょう。"
+          },
+          {
+            "name": "体を硬直させて首を上げ、対象をじっと見つめる (Hard Stare / Stiff Stance)",
+            "meaning": "縄張り侵入や潜在的脅威に対応する警戒姿勢であり、放置すると防衛・攻撃行動へ移行する危険があります。",
+            "response": "リードを短くコントロールし、視線を遮って「おすわり」や「アイコンタクト」で飼い主へ意識を集中させます。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：高タンパク食の給餌と胃捻転(GDV)予防のための食後安静管理",
+            "text": "空気の呑み込みを防ぐため早食い防止食器を使用し、食後1時間は激しい運動や走り回りを厳禁として静かに休ませます。"
+          },
+          {
+            "name": "昼：関節負担を軽減したバランス運動と早期社会化トレーニング",
+            "text": "股関節形成不全（HD）予防のため、硬いコンクリートではなく芝生の上での散歩と服従訓練を組み合わせます。"
+          },
+          {
+            "name": "夜：体重管理と滑り止め環境の整備（関節保護）",
+            "text": "関節や心臓への負担を減らすため適正体重を維持し、室内の滑り止めマットを点検して怪我を防ぎます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ロットワイラーの出す「ロッティランブル(Rottie Rumble)」は攻撃的な唸り声ですか？",
+            "answer": "いいえ、違います！「ロッティランブル」はロットワイラー特有の幸福と満足のサインです。猫のゴロゴロ音（Purring）のように、大好きな飼い主に撫でられている時にリラックスして出す声です。ただし、歯をむき出したり、体が硬直して白目が見えている本物の威嚇音とは明確に区別する必要があります。"
+          },
+          {
+            "question": "胃拡張捻転(GDV)と股関節形成不全(HD)を防ぐにはどうすればよいですか？",
+            "answer": "胃捻転（GDV）防止にはフードを2〜3回に分けて与え、食後1時間の完全安静が必須です。股関節形成不全（HD）予防には成長期の過度な体重増加を防ぎ、滑りやすい床でのジャンプを避け、1歳以降に定期的なレントゲン検査を受けることが大切です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "罗威纳犬行为信号解读与胃扭转(GDV)及髋关节发育不良(HD)管理的3步日常流程",
+        "description": "威猛忠诚的大型护卫犬罗威纳犬（Rottweiler）。解读罗威发声（Rottie Rumble）与凝视警戒信号，预防GDV胃扭转、管理髋关节及保护关节的3步骤家庭护理。",
+        "authority": "美国犬业俱乐部 (AKC) 与美国罗威纳犬俱乐部 (ARC) 护理标准",
+        "profile": {
+          "breed": "罗威纳犬 (Rottweiler)",
+          "lifespan": "9 ~ 10年",
+          "sleep_pattern": "12 ~ 14小时 (适度运动后的深度高质量睡眠)",
+          "temperament": "忠诚、勇敢、极度聪明、警惕性高、保护欲强"
+        },
+        "intro": "拥有强健体魄、极高智商与绝对忠诚度的罗威纳犬（Rottweiler）是全球备受推崇的护卫犬与家庭伴侣犬。尽管罗威纳犬对家庭成员极为温顺依恋，但其胸腔深广的体型结构使其在饭后剧烈运动时极易发生危及生命的胃扩张-扭转（GDV）。此外，由于体重大，基因上易患髋关节发育不良（HD）与韧带损伤，需要严格控重、早期社会化与服从性训练。本指南将带您准确解读罗威纳犬肢体语言，并通过3步骤日常护理维护其健康。",
+        "whyTitle": "罗威纳犬肢体语言：罗威咕噜声 (Rottie Rumble) 与凝视警戒 (Hard Stare)",
+        "whyDesc": "罗威纳犬通过独特的发声与身体僵直状态清晰区分爱意与警戒。在与主人互动抚摸时，喉咙深处发出低沉如低吼的**“罗威咕噜声 (Rottie Rumble)”**并非攻击，而是如同猫咪发噜噜声般极其舒适与满足的最高爱意表达。相反，全身僵硬、竖起脖子并紧盯目标**“凝视警戒 (Hard Stare / Stiff Stance)”**，则是应对威胁或领地侵犯前发出的明确警告信号。",
+        "body_signals": [
+          {
+            "name": "抚摸互动时喉咙深处发出低沉震动声 (Rottie Rumble)",
+            "meaning": "表达对主人抚摸极度舒适、满足与信任的罗威纳犬专属爱意行为，绝非攻击性低吼。",
+            "response": "确认其身体放松后，保持平静态度温柔抚摸，维持良好的情感交流。"
+          },
+          {
+            "name": "身体硬直、竖起脖子并死死盯着目标 (Hard Stare / Stiff Stance)",
+            "meaning": "应对领地侵犯或潜在威胁的警戒姿态，若不加以干预可能演变为防御攻击。",
+            "response": "收短牵引绳，遮挡其视线，并立即使用“坐下”或“看我”指令实施领袖控制。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：投喂高蛋白主粮与预防胃扭转 (GDV) 饭后严格休息",
+            "text": "使用慢食碗防止吞入过多空气，饭后1小时内严格禁止剧烈奔跑与打闹，保持安静休息。"
+          },
+          {
+            "name": "中午：保护关节的平衡运动与早期社会化服从训练",
+            "text": "为预防髋关节发育不良（HD），选择草地而非坚硬水泥路进行散步，并结合服从性训练。"
+          },
+          {
+            "name": "晚上：体重管理与室内防滑环境检查（保护关节）",
+            "text": "控制合理体型以减轻关节与心脏负担，检查室内防滑垫铺设情况以防滑倒受伤。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "罗威纳犬发出的“罗威咕噜声 (Rottie Rumble)”是攻击性低吼吗？",
+            "answer": "绝对不是！“罗威咕噜声”是罗威纳犬表达幸福与满足的独特方式。就像猫咪开心时发出的咕噜声一样，是享受主人抚摸时的表现。但是，必须注意将其与翻唇露出牙齿、身体僵硬、露出眼白（Whites of eyes）的真正警告性低吼区分开来。"
+          },
+          {
+            "question": "如何有效预防胃扭转（GDV）与髋关节发育不良（HD）？",
+            "answer": "预防胃扭转（GDV）需分餐饲喂（每日2~3餐），并在饭后保持1小时完全休息。预防髋关节发育不良（HD）需避免生长期体重过快增长，杜绝在坚硬地面剧烈跳跃，并在1岁后定期进行 X 光骨骼检查。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Señales de conducta en el Rottweiler y rutina diaria de 3 pasos para la prevención de torsión gástrica (GDV) y displasia de cadera (HD)",
+        "description": "Guía de cuidado para el poderoso y leal Rottweiler. Interprete el 'Rottie Rumble' y la mirada fija de alerta, prevenga la torsión gástrica GDV y cuide sus articulaciones en 3 pasos.",
+        "authority": "American Kennel Club (AKC) y Normas del American Rottweiler Club (ARC)",
+        "profile": {
+          "breed": "Rottweiler",
+          "lifespan": "9 ~ 10 años",
+          "sleep_pattern": "12 ~ 14 horas (Sueño profundo y reparador tras ejercicio moderado)",
+          "temperament": "Leal, Valiente, Muy inteligente, Alerta, Protector"
+        },
+        "intro": "Reconocido por su físico musculoso, gran inteligencia e inquebrantable lealtad, el Rottweiler es un guardián y perro de familia muy admirado en todo el mundo. Aunque es sumamente cariñoso con los suyos, su tórax profundo lo hace muy propenso a la letal Torsión Gástrica (GDV) si realiza ejercicio tras comer. Además, debido a su peso, tiene un riesgo elevado de sufrir Displasia de Cadera (HD), requiriendo un estricto control de peso, socialización temprana y adiestramiento de obediencia. En esta guía, presenta una rutina de 3 pasos para descifrar su lenguaje corporal y proteger su salud.",
+        "whyTitle": "Lenguaje corporal del Rottweiler: El 'Rottie Rumble' y la mirada fija de alerta (Hard Stare)",
+        "whyDesc": "Los Rottweilers expresan afecto y alerta territorial mediante vocalizaciones únicas y postura corporal. Un sonido gutural bajo que emiten cuando reciben caricias **'Rottie Rumble'** no es agresión, sino una muestra característica de placer equivalente al ronroneo del gato. Por el contrario, mantenerse rígido con el cuello erguido y la mirada fija **'Mirada fija de alerta (Hard Stare / Stiff Stance)'** es una señal clara de alta alerta y posible reacción defensiva.",
+        "body_signals": [
+          {
+            "name": "Emitir un sonido gutural bajo y vibrante durante las caricias (Rottie Rumble)",
+            "meaning": "Muestra de afecto única del Rottweiler que expresa absoluta comodidad, placer y confianza hacia su dueño.",
+            "response": "Verifique que su cuerpo esté relajado y continúe acariciándolo de manera tranquila para reforzar el vínculo."
+          },
+          {
+            "name": "Cuerpo totalmente rígido, cuello erguido y mirada fija (Hard Stare / Stiff Stance)",
+            "meaning": "Postura de alerta máxima ante una posible amenaza o intrusión, indicando disposición inmediata a actuar.",
+            "response": "Acorte la correa, bloquee la visión hacia el estímulo y emita órdenes de obediencia con calma como 'Sienta' o 'Mírame'."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Alimentación alta en proteína y reposo estricto tras comer para prevenir la torsión gástrica (GDV)",
+            "text": "Utilice un comedero lento para evitar tragar aire y garantice 1 hora de descanso absoluto tras comer sin ejercicios."
+          },
+          {
+            "name": "Tarde: Ejercicio moderado para cuidar articulaciones y adiestramiento de obediencia",
+            "text": "Proteja sus caderas de la Displasia (HD) paseando sobre césped blando en lugar de concreto y combine con entrenamiento."
+          },
+          {
+            "name": "Noche: Control de peso y revisión de suelo antideslizante en casa (Protección articular)",
+            "text": "Mantenga un peso magro para no sobrecargar articulaciones ni corazón, y asegure alfombras antideslizantes en el hogar."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿El 'Rottie Rumble' del Rottweiler es un gruñido agresivo?",
+            "answer": "¡No! El 'Rottie Rumble' es una señal de pura felicidad y placer, similar al ronroneo de un gato cuando su dueño lo acaricia. Sin embargo, es fundamental diferenciarlo de un gruñido de advertencia real, el cual se acompaña de dientes expuestos, cuerpo rígido y la parte blanca de los ojos visible (Whites of eyes)."
+          },
+          {
+            "question": "¿Cómo puedo prevenir la Torsión Gástrica (GDV) y la Displasia de Cadera (HD)?",
+            "answer": "Para prevenir la GDV (Torsión Gástrica), divida la comida en 2 o 3 raciones y exija 1 hora de reposo tras comer. Para la Displasia de Cadera (HD), evite el sobrepeso durante la etapa de crecimiento, elimine los saltos bruscos en suelos duros y realice revisiones radiológicas a partir del primer año de vida."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Signaux comportementaux du Rottweiler et routine quotidienne en 3 étapes pour la prévention de la torsion d'estomac (GDV) et de la dysplasie de la hanche (HD)",
+        "description": "Guide de soins pour le puissant et loyal Rottweiler. Décryptez le 'Rottie Rumble' et le regard fixe d'alerte, prévenez la torsion d'estomac GDV et protégez ses articulations en 3 étapes.",
+        "authority": "American Kennel Club (AKC) & Normes de l'American Rottweiler Club (ARC)",
+        "profile": {
+          "breed": "Rottweiler",
+          "lifespan": "9 ~ 10 ans",
+          "sleep_pattern": "12 ~ 14 heures (Sommeil profond et réparateur après un exercice contrôlé)",
+          "temperament": "Loyal, Courageux, Très intelligent, Attentif, Protecteur"
+        },
+        "intro": "Reconnu pour sa musculature impressionnante, sa grande intelligence et sa fidélité sans faille, le Rottweiler est un gardien et un compagnon familial admiré dans le monde entier. Très affectueux avec les siens, sa poitrine profonde le rend extrêmement vulnérable à la Torsion d'Estomac (GDV) en cas d'effort après les repas. Sa masse corporelle l'expose également à la Dysplasie de la Hanche (HD), exigeant un contrôle strict du poids, une socialisation précoce et une éducation structurée. Dans ce guide, vous présente une routine en 3 étapes pour décoder ses signaux et préserver sa santé.",
+        "whyTitle": "Langage corporel du Rottweiler : Le 'Rottie Rumble' et le regard fixe d'alerte (Hard Stare)",
+        "whyDesc": "Le Rottweiler exprime son affection et sa vigilance par des vocalises uniques et la posture. Un ronronnement guttural grave émis lors des caresses **« Rottie Rumble »** n'est pas de l'agressivité, mais une marque de bonheur équivalente au ronronnement du chat. En revanche, se figer totalement le cou tendu et fixer sa cible **« Regard fixe d'alerte (Hard Stare / Stiff Stance) »** est un signal clair de haute vigilance et d'intervention imminente.",
+        "body_signals": [
+          {
+            "name": "Émettre une vibration gutturale grave pendant les caresses (Rottie Rumble)",
+            "meaning": "Signe d'affection exclusif au Rottweiler traduisant un bien-être physique absolu et une grande confiance envers son maître.",
+            "response": "Vérifiez que son corps est bien détendu et continuez les caresses calmement pour renforcer votre complicité."
+          },
+          {
+            "name": "Corps complètement immobile, cou redressé et regard fixe (Hard Stare / Stiff Stance)",
+            "meaning": "Posture d'alerte maximale face à une menace ou une intrusion, indiquant une préparation à la défense.",
+            "response": "Raccourcissez la laisse, coupez la ligne de vue vers le stimulus et donnez un ordre d'obéissance comme 'Assis' ou 'Regarde-moi'."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Repas équilibré & repos strict après manger pour éviter la torsion d'estomac (GDV)",
+            "text": "Utilisez une gamelle anti-glouton pour limiter l'ingestion d'air et imposez 1 heure de calme absolu après le repas sans course."
+          },
+          {
+            "name": "Après-midi : Exercice adapté aux articulations & travail d'obéissance",
+            "text": "Ménagez ses hanches contre la Dysplasie (HD) en privilégiant les promenades sur l'herbe plutôt que le béton, combinées à l'éducation."
+          },
+          {
+            "name": "Soir : Gestion du poids & aménagement d'un sol antidérapant (Protection articulaire)",
+            "text": "Maintenez un poids de forme pour ne pas surcharger ses articulations et assurez-vous que les sols intérieurs ne sont pas glissants."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Le 'Rottie Rumble' du Rottweiler est-il un grognement agressif ?",
+            "answer": "Non ! Le 'Rottie Rumble' est une manifestation de pur bonheur et de satisfaction, semblable au ronronnement du chat lorsqu'il est caressé par son maître. Toutefois, il faut savoir le distinguer d'un vrai grognement de mise en garde, qui s'accompagne de babines relevées, d'un corps tendu et du blanc des yeux visible (Whites of eyes)."
+          },
+          {
+            "question": "Comment prévenir la Torsion d'Estomac (GDV) et la Dysplasie de la Hanche (HD) ?",
+            "answer": "Pour prévenir la Torsion d'Estomac (GDV), fractionnez les repas en 2 ou 3 prises et observez 1 heure de repos strict après manger. Pour la Dysplasie de la Hanche (HD), évitez le surpoids pendant la croissance, bannissez les sauts répétés sur sol dur et réalisez un dépistage radiologique dès l'âge de 1 an."
+          }
+        ]
+      },
+      "de": {
+        "title": "Verhaltenssignale beim Rottweiler und 3-Schritte-Tagesroutine für Magendrehung-Prophylaxe (GDV) und Hüftdysplasie-Pflege (HD)",
+        "description": "Pflegeanleitung für den kraftvollen und treuen Rottweiler. Den 'Rottie Rumble' und Drohfixieren verstehen, tödliche Magendrehung GDV vermeiden und Gelenke in 3 Schritten schützen.",
+        "authority": "American Kennel Club (AKC) & Standards des American Rottweiler Club (ARC)",
+        "profile": {
+          "breed": "Rottweiler",
+          "lifespan": "9 ~ 10 Jahre",
+          "sleep_pattern": "12 ~ 14 Stunden (Erholsamer Tiefschlaf nach kontrollierter Bewegung)",
+          "temperament": "Treu, Mutig, Hochintelligent, Wachsam, Beschützerisch"
+        },
+        "intro": "Bekannt für seinen muskulösen Körperbau, seine hohe Intelligenz und seine unerschütterliche Treue ist der Rottweiler weltweit ein geschätzter Schutz- und Familienhund. So verschmust er mit seiner Familie ist, so anfällig ist er durch seinen tiefen Brustkorb für die lebensgefährliche Magendrehung (GDV) bei Bewegung nach dem Fressen. Sein hohes Gewicht belastet zudem die Gelenke (Hüftdysplasie / HD), weshalb eine strikte Gewichtskontrolle, frühe Sozialisierung und Gehorsamstraining unerlässlich sind. In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für die Gesundheit Ihres Rottweilers.",
+        "whyTitle": "Körpersprache des Rottweilers: Der 'Rottie Rumble' und das Drohfixieren (Hard Stare)",
+        "whyDesc": "Rottweiler drücken Zuneigung und Reviersicherheit durch einzigartige Laute und Körperhaltung aus. Ein tiefes, kehliger Laut beim Streicheln **'Rottie Rumble'** ist keine Aggression, sondern ihr typischer Ausdruck von Wohlbefinden – vergleichbar mit dem Schnurren einer Katze. Das starre Verharren mit erhobenem Hals und festem Blick **'Drohfixieren (Hard Stare / Stiff Stance)'** ist dagegen ein deutliches Warnsignal vor einer Abwehrreaktion.",
+        "body_signals": [
+          {
+            "name": "Tiefe gutturale Vibrationen beim Streicheln abgeben (Rottie Rumble)",
+            "meaning": "Typische Zuneigungsbekundung des Rottweilers, die tiefes Wohlbefinden und Vertrauen gegenüber dem Halter ausdrückt.",
+            "response": "Achten Sie darauf, dass der Körper entspannt ist, und streicheln Sie ruhig weiter, um die Bindung zu stärken."
+          },
+          {
+            "name": "Erstarrte Körperhaltung mit erhobenem Hals und fixierendem Blick (Hard Stare / Stiff Stance)",
+            "meaning": "Hohe Alertheit gegenüber Reizen oder Revierbedrohungen; signalisiert unmittelbare Bereitschaft zur Verteidigung.",
+            "response": "Leine kurz nehmen, Sichtkontakt zum Reiz unterbrechen und die Aufmerksamkeit mit 'Sitz' oder 'Schau mich an' umlenken."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Proteinreiche Fütterung & Strikte Ruhe nach dem Fressen zur GDV-Prophylaxe",
+            "text": "Nutzen Sie Anti-Schling-Näpfe gegen Luftschlucken und halten Sie nach dem Fressen eine 1-stündige strikte Ruhephase ohne Toben ein."
+          },
+          {
+            "name": "Mittag: Gelenkschonende Bewegung & Frühe Gehorsamserziehung",
+            "text": "Schonen Sie die Hüften (HD-Prophylaxe) durch Spaziergänge auf weichem Rasen statt hartem Beton und kombinieren Sie dies mit Training."
+          },
+          {
+            "name": "Abend: Gewichtskontrolle & Rutschfeste Böden im Haus (Gelenkschutz)",
+            "text": "Halten Sie das Idealgewicht zur Entlastung von Gelenken und Herz und sorgen Sie für rutschfeste Matten in der Wohnung."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Ist der 'Rottie Rumble' des Rottweilers ein aggressives Knurren?",
+            "answer": "Nein! Der 'Rottie Rumble' ist ein Zeichen von tiefem Glück und Zufriedenheit, ähnlich wie das Schnurren einer Katze beim Streicheln. Es muss jedoch klar von einem echten Drohknurren unterschieden werden, das von hochgezogenen Lefzen, einem angespannten Körper und sichtbarem Augenweiß (Whites of eyes) begleitet wird."
+          },
+          {
+            "question": "Wie beuge ich Magendrehung (GDV) und Hüftdysplasie (HD) wirksam vor?",
+            "answer": "Zur Magendrehung-Prophylaxe (GDV) füttern Sie 2–3 kleinere Mahlzeiten täglich und halten 1 Stunde Ruhe ein. Zur Vorbeugung von Hüftdysplasie (HD) vermeiden Sie Übergewicht im Wachstum, verzichten auf Sprünge auf harten Böden und lassen ab dem 1. Lebensjahr Röntgenuntersuchungen durchführen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Sinais comportamentais do Rottweiler e rotina diária de 3 passos para prevenção de torção gástrica (GDV) e displasia coxofemoral (HD)",
+        "description": "Guia de cuidados para o poderoso e leal Rottweiler. Interprete o 'Rottie Rumble' e o olhar fixo de alerta, previna a torção gástrica GDV e proteja as articulações em 3 passos.",
+        "authority": "American Kennel Club (AKC) & Padrões do American Rottweiler Club (ARC)",
+        "profile": {
+          "breed": "Rottweiler",
+          "lifespan": "9 ~ 10 anos",
+          "sleep_pattern": "12 ~ 14 horas (Sono profundo e reparador após exercício controlado)",
+          "temperament": "Leal, Corajoso, Muito inteligente, Alerta, Protetor"
+        },
+        "intro": "Reconhecido por seu porte musculoso, grande inteligência e lealdade inabalável, o Rottweiler é um cão de guarda e companheiro familiar admirado no mundo todo. Embora seja extremamente afetuoso com sua família, seu tórax profundo o torna altamente suscetível à letal Torção Gástrica (GDV) caso se exercite após comer. Além disso, seu peso elevado expõe as articulações à Displasia Coxofemoral (HD), exigindo controle de peso, socialização precoce e adestramento de obediência. Neste guia, apresenta uma rotina de 3 passos para interpretar seus sinais e proteger sua saúde.",
+        "whyTitle": "Linguagem corporal do Rottweiler: O 'Rottie Rumble' e o olhar fixo de alerta (Hard Stare)",
+        "whyDesc": "Os Rottweilers expressam afeto e alerta territorial através de vocalizações únicas e postura física. Um som gutural grave emitido durante o carinho **'Rottie Rumble'** não é agressão, mas uma demonstração característica de prazer equivalente ao ronronar dos gatos. Por outro lado, manter o corpo rígido, o pescoço erguido e o olhar fixo **'Olhar fixo de alerta (Hard Stare / Stiff Stance)'** é um sinal claro de alta vigilância e potencial reação defensiva.",
+        "body_signals": [
+          {
+            "name": "Emitir uma vibração gutural grave durante o carinho (Rottie Rumble)",
+            "meaning": "Demonstração de afeto exclusiva do Rottweiler que expressa conforto físico absoluto, prazer e confiança no tutor.",
+            "response": "Confirme se o corpo dele está relaxado e continue o carinho de forma calma para fortalecer o vínculo."
+          },
+          {
+            "name": "Corpo totalmente rígido, pescoço erguido e olhar fixo (Hard Stare / Stiff Stance)",
+            "meaning": "Postura de alerta máximo diante de uma ameaça ou invasão territorial, indicando prontidão para agir.",
+            "response": "Encurte a guia, bloqueie a visão para o estímulo e emita comandos de obediência como 'Senta' ou 'Olha para mim'."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Alimentação rica em proteínas & repouso estrito pós-refeição contra torção gástrica (GDV)",
+            "text": "Utilize comedouros lentos para evitar engolir ar e garanta 1 hora de descanso tranquilo sem corridas após comer."
+          },
+          {
+            "name": "Tarde: Exercício moderado para proteger articulações & treino de obediência",
+            "text": "Proteja a quadril contra a Displasia (HD) caminhando sobre grama macia em vez de concreto e combine com adestramento."
+          },
+          {
+            "name": "Noite: Controle de peso & piso antiderrapante em casa (Proteção articular)",
+            "text": "Mantenha o peso magro para não sobrecarregar articulações e coração, garantindo tapetes antiderrapantes na casa."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "O 'Rottie Rumble' do Rottweiler é um rosnado agressivo?",
+            "answer": "Não! O 'Rottie Rumble' é um sinal de pura felicidade e prazer, muito semelhante ao ronronar de um gato ao receber carinho. Contudo, é fundamental diferenciá-lo de um rosnado de alerta real, que vem acompanhado de dentes amostra, corpo rígido e o branco dos olhos visível (Whites of eyes)."
+          },
+          {
+            "question": "Como posso prevenir a Torção Gástrica (GDV) e a Displasia Coxofemoral (HD)?",
+            "answer": "Para prevenir a Torção Gástrica (GDV), divida a comida em 2 ou 3 porções e garanta 1 hora de repouso após comer. Para prevenir a Displasia Coxofemoral (HD), evite o excesso de peso no crescimento, elimine saltos em pisos duros e faça exames radiológicos a partir do primeiro ano de vida."
+          }
+        ]
+      },
+      "id": {
+        "title": "Sinyal Perilaku Rottweiler dan Rutinitas Harian 3 Langkah Perawatan Pencegahan Torsi Lambung (GDV) serta Displasia Pinggul (HD)",
+        "description": "Panduan perawatan anjing gagah dan setia Rottweiler. Pahami 'Rottie Rumble' dan tatapan tajam siaga, cegah kembung fatal GDV, serta jaga kesehatan sendi dalam 3 langkah.",
+        "authority": "American Kennel Club (AKC) & Standar Perawatan American Rottweiler Club (ARC)",
+        "profile": {
+          "breed": "Rottweiler",
+          "lifespan": "9 ~ 10 tahun",
+          "sleep_pattern": "12 ~ 14 jam (Tidur nyenyak berkualitas setelah aktivitas fisik terukur)",
+          "temperament": "Setia, Pemberani, Sangat Cerdas, Waspada, Protektif"
+        },
+        "intro": "Dikenal karena ototnya yang kuat, kecerdasan tinggi, dan kesetiaannya yang luar biasa, Rottweiler adalah anjing penjaga dan pendamping keluarga yang sangat dihormati di seluruh dunia. Meskipun sangat penyayang terhadap keluarganya, rongga dada mereka yang dalam membuat mereka sangat rentan terhadap Gastric Dilatation-Volvulus (GDV/torsi lambung) jika berolahraga setelah makan. Bobot tubuhnya yang berat juga berisiko memicu Displasia Pinggul (HD), sehingga membutuhkan kontrol berat badan, sosialisasi dini, dan pelatihan kepatuhan. Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk merawat Rottweiler Anda.",
+        "whyTitle": "Bahasa Tubuh Rottweiler: 'Rottie Rumble' dan Tatapan Tajam Siaga (Hard Stare)",
+        "whyDesc": "Rottweiler menyampaikan kasih sayang dan kewaspadaan melalui suara unik dan postur tubuh. Suara dengkuran rendah dari dalam tenggorokan saat dielus **'Rottie Rumble'** bukanlah bentuk agresi, melainkan tanda kepuasan dan rasa sayang khas layaknya dengkuran kucing (purring). Sebaliknya, berdiri kaku dengan leher tegak dan menatap tajam tanpa berkedip **'Tatapan Tajam Siaga (Hard Stare / Stiff Stance)'** adalah sinyal kewaspadaan tinggi sebelum merespons ancaman.",
+        "body_signals": [
+          {
+            "name": "Mengeluarkan Suara Dengkuran Rendah Saat Dielus (Rottie Rumble)",
+            "meaning": "Tanda kasih sayang khas Rottweiler yang menunjukkan rasa nyaman fisik, kepuasan, dan rasa percaya yang mendalam.",
+            "response": "Pastikan tubuhnya tetap rileks dan lanjutkan elusan secara tenang untuk mempererat ikatan."
+          },
+          {
+            "name": "Berdiri Kaku, Leher Tegak, dan Menatap Tajam Target (Hard Stare / Stiff Stance)",
+            "meaning": "Postur siaga tinggi terhadap potensi ancaman atau gangguan wilayah, menandakan kesiapan untuk bertindak.",
+            "response": "Pendekkan tali tuntun, halangi pandangannya dari pemicu, dan berikan perintah 'Duduk' atau 'Lihat Saya'."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pakan Tinggi Protein & Istirahat Ketat Pasca-Makan untuk Mencegah GDV",
+            "text": "Gunakan tempat makan slow-feeder untuk mencegah tertelannya udara, dan wajibkan istirahat tenang selama 1 jam tanpa lari-lari."
+          },
+          {
+            "name": "Siang: Olahraga Aman untuk Sendi & Pelatihan Kepatuhan Dini",
+            "text": "Lindungi pinggul dari Displasia (HD) dengan berjalan di atas rumput alih-alih semen keras, serta kombinasikan dengan latihan kepatuhan."
+          },
+          {
+            "name": "Malam: Manajemen Berat Badan & Pemeriksaan Lantai Anti-Slip (Perlindungan Sendi)",
+            "text": "Jaga berat badan ideal untuk mengurangi beban sendi dan jantung, serta pastikan lantai rumah dilapisi karpet anti-slip."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah suara 'Rottie Rumble' pada Rottweiler merupakan geraman agresif?",
+            "answer": "Bukan! 'Rottie Rumble' adalah tanda kebahagiaan dan kepuasan khas Rottweiler, mirip dengan dengkuran kucing saat dielus oleh pemiliknya. Namun, sangat penting untuk membedakannya dari geraman peringatan sejati yang disertai bibir terangkat memperlihatkan gigi, tubuh kaku, dan bagian putih mata yang terlihat (Whites of eyes)."
+          },
+          {
+            "question": "Bagaimana cara mencegah Torsi Lambung (GDV) dan Displasia Pinggul (HD)?",
+            "answer": "Untuk mencegah GDV (kembung/torsi lambung), bagi makanan menjadi 2–3 porsi kecil sehari dan pastikan istirahat total 1 jam setelah makan. Untuk mencegah Displasia Pinggul (HD), hindari kenaikan berat badan berlebih saat masa pertumbuhan, hindari lompatan keras di lantai licin, dan lakukan pemeriksaan Rontgen berkala setelah berusia 1 tahun."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/rottweiler_care.webp"
+  }
 }

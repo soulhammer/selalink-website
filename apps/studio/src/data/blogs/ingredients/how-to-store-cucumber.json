@@ -1,406 +1,406 @@
 {
-    "how-to-store-cucumber": {
-        "ingId": "cucumber",
-        "pubDate": "2026-01-22",
-        "updatedDate": "2026-01-22",
-        "heroImage": "/images/blog/cucumber_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "오이 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 오이의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
-                "intro": "산뜻하고 아삭한 오이를 냉장고에 넣어두었다가 표면이 푹 파이고 투명하게 진득하게 녹아내려 버린 적 있으시죠? 🥒\n\n오이는 95% 이상이 수분으로 이루어진 냉해에 매우 취약한 박과 채소입니다. 7℃ 이하의 차가운 저온에 노출되면 세포벽이 파괴되는 '저온 냉해(Chilling Injury)'를 입어 표면에 수분 반점(물집)이 생기고 과육이 무르게 변합니다.\n\n이번 가이드에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 가이드를 바탕으로, 오이의 저온 냉해를 예방하고 2주 이상 아삭한 신선함을 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "7℃ 이하의 극저온 노출 및 에틸렌 과일과의 혼합 보관을 피하세요 ⚠️",
-                        "desc": "오이는 추위에 매우 약해 7℃ 이하의 너무 차가운 장소에 두면 저온 냉해로 표면 수분 함몰과 진물이 발생합니다. 또한 사과, 토마토 등 에틸렌 방출 과일과 함께 두면 순식간에 노랗게 변하고 무르므로 반드시 분리해야 합니다."
-                    },
-                    {
-                        "title": "세척 후 표면 물기를 완전히 제거하지 않고 보관하지 마세요 🥒",
-                        "desc": "오이 표면에 물기가 남은 상태로 밀봉 포장되면 곰팡이와 세균성 무름병균이 번식하기 가장 좋은 환경이 됩니다. 세척한 오이는 키친타월로 표면의 수분을 완벽히 닦아낸 뒤 건조하여 포장해야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "표면 세척 후 물기 완전히 건조하기 — 무름병 및 곰팡이 방지 🥒",
-                        "text": "오이는 수분 함량이 높아 표면에 수분이 고여 있으면 빠르게 무릅니다. 💡 보관 팁: 겉면의 흙이나 이물질을 물에 씻어낸 경우, 키친타월이나 마른 수건으로 표면의 물기를 빈틈없이 완벽하게 닦아내고 통풍이 잘되는 그늘에서 10분간 말려 수분을 제거해 주세요."
-                    },
-                    {
-                        "name": "키친타월로 한 개씩 개별 포장하기 — 냉해 완충 및 습도 조절 📰",
-                        "text": "냉장고의 직접적인 냉기는 오이 세포를 파괴하는 주요 원인입니다. 💡 보관 팁: 물기를 바짝 말린 오이를 키친타월이나 신문지로 한 개씩 꼼꼼히 감싸주세요. 종이가 단열재 역할을 하여 직접적인 냉기 접촉(냉해)을 막아주고, 오이가 배출하는 습기를 흡수하여 적정 습도를 유지해 줍니다."
-                    },
-                    {
-                        "name": "비닐팩에 담아 꼭지가 위로 오도록 야채칸에 세워 보관하기 — 직립 냉장 보관 (10~14일) ❄️",
-                        "text": "오이를 눕혀서 보관하면 중력 작용으로 과육 내부 섬유질이 손상되고 조직이 쉽게 약해집니다. 💡 보관 팁: 종이로 감싼 오이들을 구멍이 살짝 뚫린 비닐백이나 지퍼백에 가볍게 담아 냉장고 야채칸(8~10℃)에 보관하세요. 이때 꼭지 부분이 위를 향하도록 '세워서' 보관하는 것이 조직 연화를 막고 아삭함을 오래 지키는 핵심입니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "냉장고에 둔 오이 표면에 물집이 생기고 투명하게 녹아내리는 이유는 무엇인가요?",
-                        "answer": "7℃ 이하의 차가운 온도에 오이가 장시간 노출되어 발생하는 '저온 냉해(Chilling Injury)' 현상입니다. 냉기로 인해 세포막이 파괴되면서 내부 수분이 흘러나오고 표면이 투명하게 물러집니다. 키친타월로 감싸 직접적인 냉기를 차단하고 온도가 비교적 높은 냉장고 야채칸에 보관하면 냉해를 예방할 수 있습니다."
-                    },
-                    {
-                        "question": "오이를 오랫동안 아삭하게 먹으려면 냉동 보관해도 되나요?",
-                        "answer": "생오이를 그대로 냉동하면 해동 시 수분 세포가 파괴되어 물바다가 되고 아삭한 식감이 완전히 사라집니다. 장기 보관을 원한다면 오이를 얇게 슬라이스한 뒤 소금에 살짝 절여 수분을 꽉 짜낸 후 밀폐 용기에 담아 냉동(-18℃ 이하) 보관하세요. 해동 후 오이무침이나 비빔면 고명으로 유용하게 쓸 수 있습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Cucumbers Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for cucumbers based on official safety guidelines.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Have you ever put fresh, crisp cucumbers in the refrigerator only to find them sunken, pitted, transparent, and slimy a few days later? 🥒\n\nCucumbers consist of over 95% water and are extremely sensitive to cold temperatures. When exposed to temperatures below 7°C (45°F), they suffer from 'chilling injury', causing their cell walls to collapse, resulting in watery surface pits and rapid decay.\n\nIn this guide, shares a scientifically proven 3-step storage guide based on recommendations from the USDA and RDA to prevent chilling injury, preserve crispness, and extend cucumber freshness for over 2 weeks. 🛡️",
-                "whyTitle": "Why Store Cucumbers This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each produce item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Avoid extreme cold below 7°C and keep away from ethylene-emitting fruits ⚠️",
-                        "desc": "Cucumbers are cold-sensitive; keeping them in excessively cold areas causes surface pitting and slime from chilling injury. Additionally, storing them near ethylene producers like apples or tomatoes causes rapid yellowing and softening."
-                    },
-                    {
-                        "title": "Never store cucumbers wet after washing 🥒",
-                        "desc": "Sealing cucumbers with surface moisture creates an ideal breeding ground for mold and bacterial soft rot. Always pat washed cucumbers completely dry with paper towels before wrapping and storing."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Wash surface and dry water completely — Prevent Soft Rot & Mold 🥒",
-                        "text": "Cucumbers have high water content, so trapped external moisture accelerates surface spoilage. 💡 Storage Tip: If you rinse dirt off the skin, thoroughly wipe every drop of water off using paper towels or a dry cloth, then air-dry in a cool, shaded spot for 10 minutes."
-                    },
-                    {
-                        "name": "Wrap each cucumber individually in paper towels — Thermal Buffer & Moisture Balance 📰",
-                        "text": "Direct exposure to harsh refrigerator cold air destroys cucumber cell structures. 💡 Storage Tip: Wrap each dry cucumber tightly in paper towels or newspaper. The paper acts as thermal insulation against direct cold air while absorbing excess humidity to prevent condensation."
-                    },
-                    {
-                        "name": "Store upright in a plastic bag in the crisper drawer — Vertical Cold Storage (10–14 Days) ❄️",
-                        "text": "Laying cucumbers horizontally causes gravity to break down internal fiber tissue, softening the flesh. 💡 Storage Tip: Place paper-wrapped cucumbers into a perforated plastic bag and store them 'standing upright' with the stem end facing up in the refrigerator crisper drawer (8–10°C / 46–50°F) to retain firmness."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why do cucumbers develop watery pits and turn slimy in the fridge?",
-                        "answer": "This is caused by 'Chilling Injury', which occurs when cucumbers are exposed to temperatures below 7°C (45°F) for extended periods. Cold air ruptures their cell membranes, causing internal water to leak out and making the skin transparent and mushy. Wrapping them in paper towels and storing them in the warmer crisper drawer prevents this."
-                    },
-                    {
-                        "question": "Can I freeze cucumbers to keep them crisp for long-term storage?",
-                        "answer": "Freezing raw whole cucumbers ruptures their water-filled cell walls, turning them mushy and watery upon thawing. For long-term storage, slice cucumbers thinly, lightly salt them, squeeze out all excess liquid, and store them in an airtight freezer container (-18°C / 0°F). Thawed salted cucumber slices retain great bite for salads or cold dishes."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "きゅうりを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくきゅうりの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "みずみずしくシャキシャキしたきゅうりを冷蔵庫に入れておいたら、表面がくぼみ、透明にぬるぬる溶けて捨ててしまった経験はありませんか？🥒\n\nきゅうりは95%以上が水分で構成されており、寒さに非常に弱いウリ科の野菜です。7℃以下の冷気に晒されると、細胞壁が破壊される「低温障害（Chilling Injury）」を起こし、表面に水滴の凹みができて果肉が急速に傷んでしまいます。\n\n本記事では、農村振興庁（RDA）および米国農務省（USDA）のガイドラインに基づき、きゅうりの低温障害を防ぎ、2週間以上シャキシャキ感を保つ3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "7℃以下の極低温での保存やエチレン放出果物との混在を避けてください ⚠️",
-                        "desc": "きゅうりは寒さに弱いため、7℃以下の冷たすぎる場所に置くと低温障害で凹みや汁が出ます。また、リンゴやトマトなどエチレンを出す果物と一緒に置くと一気に黄色くなって柔らかくなるため、必ず分けて保存してください。"
-                    },
-                    {
-                        "title": "水洗いした後に水分を完全に拭き取らずに保存しないでください 🥒",
-                        "desc": "表面に水気が残ったまま密閉保存すると、カビや軟腐病菌が繁殖しやすくなります。洗ったきゅうりはペーパータオルで完全に水気を拭き取り、乾かしてから保存してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "表面を洗ったら水分を完全に乾かす — 腐敗とカビの防止 🥒",
-                        "text": "きゅうりは水分量が非常に高いため、表面に水分が溜まるとすぐに柔らかく傷んでしまいます。💡保存のコツ：表面の汚れを水で洗い流した場合は、ペーパータオルや乾いた布で水気を一滴残さず拭き取り、風通しの良い日陰で10分ほど乾かしてください。"
-                    },
-                    {
-                        "name": "キッチンペーパーで1本ずつ個別包装する — 冷気遮断と湿度調整 📰",
-                        "text": "冷蔵庫の直接の冷気は、きゅうりの細胞を破壊する最大の原因です。💡保存のコツ：しっかり乾かしたきゅうりをキッチンペーパーや新聞紙で1本ずつ丁寧に包んでください。紙が断熱材となり直接の冷気を防ぎ、放出される湿気を吸収して適度な湿度を保ちます。"
-                    },
-                    {
-                        "name": "ポリ袋に入れてヘタを上にして野菜室に立てて保存する — 直立冷蔵保存 (10〜14日) ❄️",
-                        "text": "きゅうりを横にして保存すると、重力によって内部の繊維組織が傷み、柔らかくなりやすくなります。💡保存のコツ：紙で包んだきゅうりを穴の開いたポリ袋やジッパーバッグにふんわり入れ、野菜室（8〜10℃）にヘタ側を上にして「立てて」保存してください。組織の軟化を防ぎ、シャキシャキ感が長持ちします。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "冷蔵庫に入れたきゅうりの表面にくぼみができ、透明に溶けてしまう理由は何ですか？",
-                        "answer": "7℃以下の冷たい温度に長期間晒されたことで起きる「低温障害（Chilling Injury）」です。冷気によって細胞膜が破壊され、内部の水分が滲み出て表面が透明に傷みます。キッチンペーパーで包んで冷気を遮断し、比較的高温の野菜室で保存することで低温障害を防ぐことができます。"
-                    },
-                    {
-                        "question": "きゅうりを長期保存するために冷凍保存してもいいですか？",
-                        "answer": "生きゅうりをそのまま冷凍すると解凍時に水分細胞が破裂し、水浸しになってシャキシャキ感が完全に失われます。長期保存したい場合は、薄切りにしたきゅうりを塩もみしてしっかりと水気を絞ってから密閉容器に入れ、冷凍（-18℃以下）保存してください。解凍後は和え物や酢の物、冷麺のトッピングに活用できます。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持黄瓜新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解黄瓜的最佳储存温度、方式和保鲜时长。",
-                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "您是否曾把新鲜清脆的黄瓜放进冰箱，结果几天后发现表皮凹陷、呈半透明状且粘 hands 变软？🥒\n\n黄瓜的含水量高达95%以上，是对低温极度敏感的葫芦科蔬菜。暴露在7℃以下的过冷环境中时，黄瓜会发生细胞壁破裂的“冷害（Chilling Injury）”，导致表皮出现水渍状凹陷并迅速腐烂。\n\n本指南基于韩国农村振兴厅(RDA)和美国农务部(USDA)的指南，为您带来3步科学保存秘诀，帮您防止黄瓜冻伤冷害，保持清脆口感达2周以上。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "避免在7℃以下的极低温保存，并远离释放乙烯的水果 ⚠️",
-                        "desc": "黄瓜极度怕冷，存放在7℃以下的过冷区域会导致冻伤冷害、表皮凹陷出水。此外，与苹果、番茄等释放乙烯的水果放在一起会加速黄瓜变黄变软，必须分开放置。"
-                    },
-                    {
-                        "title": "清洗后切勿带水直接封存 🥒",
-                        "desc": "带水密封包裹黄瓜会为其表面的霉菌和软腐病菌提供绝佳的滋生环境。清洗后的黄瓜必须用厨房纸巾彻底擦干水分，晾干后再进行包裹储存。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "清洗表面后彻底擦干水分 — 防止软腐病与霉菌 🥒",
-                        "text": "黄瓜本身含水量极高，表皮积水会加速烂软。💡储存小贴士：如果用水清洗掉了表皮泥沙，请务必用厨房纸巾或干布彻底拭干每一滴水，并放在阴凉通风处晾干10分钟。"
-                    },
-                    {
-                        "name": "用厨房纸巾单独包裹每一根 — 隔绝冷气与调节湿度 📰",
-                        "text": "冰箱直吹的冷气是破坏黄瓜细胞结构的主要元凶。💡储存小贴士：将晾干的黄瓜用厨房纸巾或报纸逐根紧密包裹。纸张既能作为隔热层防止直吹冷害，又能吸收排出的湿气，保持适宜湿度。"
-                    },
-                    {
-                        "name": "装入保鲜袋蒂部朝上竖直冷藏 — 竖立冷藏保存 (10~14天) ❄️",
-                        "text": "横放黄瓜会导致重力破坏其内部纤维组织，使果肉变软。💡储存小贴士：将包好纸的黄瓜装入打有微孔的保鲜袋中，黄瓜蒂部朝上“竖直”放入冰箱蔬菜保鲜抽屉（8~10℃）中，这是保持清脆不软化的核心秘诀。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "冰箱里的黄瓜表皮为什么会出现水渍凹陷并呈半透明变软？",
-                        "answer": "这是由于黄瓜长时间处于7℃以下的过冷环境中引发的“冷害（Chilling Injury）”。低温破坏了黄瓜的细胞膜，导致内部水分渗出，表皮变得半透明烂软。用厨房纸巾包裹隔绝冷气，并存放在温度稍高的蔬菜保鲜抽屉中即可预防冷害。"
-                    },
-                    {
-                        "question": "黄瓜可以冷冻长期保存以保持清脆吗？",
-                        "answer": "生黄瓜直接冷冻会导致细胞壁结冰破裂，解冻后会大量出水且彻底失去清脆口感。如需长期保存，可将黄瓜切薄片后用盐腌制，挤干水分后再装入密封盒放入冷冻室（-18℃以下）。解冻后可用于凉拌或作为面条小菜。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener los pepinos frescos: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para los pepinos según las directrices oficiales de seguridad.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "¿Alguna vez guardó pepinos frescos y crujientes en el refrigerador, solo para encontrarlos hundidos, picados, transparentes y pegajosos unos días después? 🥒\n\nEl pepino se compone de más del 95% de agua y es sumamente sensible al frío. Al exponerlo a temperaturas inferiores a 7 °C, sufre 'daño por frío (Chilling Injury)', lo que rompe sus paredes celulares y genera manchas acuosas en la piel y una rápida pudrición.\n\nEn esta guía se comparte una guía científica en 3 pasos basada en las recomendaciones del USDA y la RDA para prevenir el daño por frío, conservar la textura crujiente y prolongar la frescura de sus pepinos por más de 2 semanas. 🛡️",
-                "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Evite el frío extremo inferior a 7 °C y aísle de frutas que emitan etileno ⚠️",
-                        "desc": "Los pepinos son sensibles al frío; guardarlos en zonas muy heladas provoca picaduras y viscosidad por daño por frío. Además, conservarlos junto a emisores de etileno (como manzanas o tomates) provoca un rápido amarillamiento y ablandamiento."
-                    },
-                    {
-                        "title": "Nunca guarde los pepinos húmedos después de lavarlos 🥒",
-                        "desc": "Sellar pepinos con humedad superficial crea un entorno propicio para el moho y la podredumbre blanda bacteriana. Seque siempre los pepinos lavados por completo con toallas de papel antes de envolverlos."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Lave la superficie y seque el agua por completo — Evite la pudrición blanda y el moho 🥒",
-                        "text": "Los pepinos tienen un alto contenido de agua, por lo que la humedad atrapada acelera el deterioro exterior. 💡 Consejo de almacenamiento: Si enjuaga la tierra de la piel, seque cada gota con toallas de papel o un paño seco y déjelos airear a la sombra durante 10 minutos."
-                    },
-                    {
-                        "name": "Envuelva cada pepino de forma individual en toallas de papel — Aislamiento térmico 📰",
-                        "text": "La exposición directa al aire frío del refrigerador destruye la estructura celular del pepino. 💡 Consejo de almacenamiento: Envuelva bien cada pepino seco en toallas de papel o papel periódico. El papel actúa como aislante contra el frío directo y absorbe el exceso de humedad."
-                    },
-                    {
-                        "name": "Guarde erguidos en una bolsa plástica en el cajón de verduras — Almacenamiento vertical (10–14 días) ❄️",
-                        "text": "Acostar los pepinos hace que la gravedad rompa el tejido de fibra interno, ablandando la pulpa. 💡 Consejo de almacenamiento: Coloque los pepinos envueltos en una bolsa de plástico perforada y guárdelos de pie con el pedúnculo hacia arriba en el cajón de verduras (8-10 °C)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué los pepinos desarrollan manchas acuosas y se vuelven viscosos en el refrigerador?",
-                        "answer": "Esto se debe al 'Daño por frío (Chilling Injury)', que ocurre cuando los pepinos se exponen a temperaturas inferiores a 7 °C durante períodos prolongados. El aire helado rompe sus membranas celulares, haciendo que el agua interna se filtre y la piel se ponga blanda y transparente. Envolverlos en toallas de papel y guardarlos en el cajón de verduras lo previene."
-                    },
-                    {
-                        "question": "¿Puedo congelar pepinos para mantenerlos crujientes a largo plazo?",
-                        "answer": "Congelar pepinos crudos enteros rompe sus paredes celulares llenas de agua, dejándolos blandos y acuosos al descongelar. Para guardarlos a largo plazo, córtelos en rodajas finas, saléelos ligeramente, escurra todo el líquido y guárdelos en un recipiente hermético en el congelador (-18 °C). Las rodajas de pepino saladas descongeladas mantienen un buen toque para ensaladas."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver les concombres frais : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les concombres selon les directives officielles de sécurité.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Avez-vous déjà placé des concombres bien croquants au réfrigérateur pour les retrouver craquelés, mous, transparents et gluants quelques jours plus tard ? 🥒\n\nLe concombre est composé à plus de 95 % d'eau et se montre extrêmement sensible au froid. Lorsqu'il est exposé à des températures inférieures à 7 °C, il subit des 'dégâts dus au froid (Chilling Injury)', ce qui détruit ses parois cellulaires et crée des moisissures et une décomposition rapide.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et du RDA pour éviter les dégâts du froid, préserver le croquant et prolonger la fraîcheur de vos concombres pendant plus de 2 semaines. 🛡️",
-                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Évitez le froid extrême sous 7 °C et éloignez-les des fruits émettant de l'éthylène ⚠️",
-                        "desc": "Les concombres craignent le froid ; les placer dans des zones trop froides provoque des lésions cutanées et un ramollissement gluant. De plus, les conserver près d'émetteurs d'éthylène (pommes, tomates) accélère leur jaunissement."
-                    },
-                    {
-                        "title": "Ne stockez jamais les concombres mouillés après lavage 🥒",
-                        "desc": "Enfermer des concombres humides favorise le développement de moisissures et de pourriture bactérienne. Épongez toujours complètement les concombres lavés avec de l'essuie-tout avant de les emballer."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Laver et sécher la surface totalement — Éviter la pourriture et les moisissures 🥒",
-                        "text": "Le concombre est très riche en eau, l'humidité résiduelle accélère donc l'altération de sa peau. 💡 Astuce de conservation : Si vous rincez la terre, essuyez soigneusement chaque goutte avec de l'essuie-tout et laissez sécher 10 minutes à l'ombre."
-                    },
-                    {
-                        "name": "Envelopper chaque concombre individuellement dans de l'essuie-tout — Protection thermique 📰",
-                        "text": "L'exposition directe à l'air froid du réfrigérateur détruit la structure cellulaire du concombre. 💡 Astuce de conservation : Enveloppez chaque concombre sec dans de l'essuie-tout ou du journal. Le papier sert d'isolant thermique et régule l'humidité ambiante."
-                    },
-                    {
-                        "name": "Conserver verticalement dans un sachet plastique au bac à légumes — Stockage vertical (10–14 jours) ❄️",
-                        "text": "Coucher les concombres altère les fibres sous l'effet de la gravité, ce qui ramollit la chair. 💡 Astuce de conservation : Placez les concombres emballés dans un sac plastique perforé et stockez-les debout, tige vers le haut, dans le bac à légumes (8-10 °C)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi les concombres deviennent-ils mous et gluants au réfrigérateur ?",
-                        "answer": "Cela provient des 'Dégâts dus au froid (Chilling Injury)', qui surviennent lorsque les concombres sont exposés à moins de 7 °C pendant plusieurs jours. Le froid rompt leurs membranes cellulaires, l'eau interne s'échappe et la peau devient molle et transparente. L'emballage dans de l'essuie-tout au bac à légumes évite ce phénomène."
-                    },
-                    {
-                        "question": "Puis-je congeler les concombres pour les garder croquants plus longtemps ?",
-                        "answer": "Congeler un concombre cru entier fait éclater ses cellules d'eau, le rendant complètement mou au dégel. Pour une longue conservation, coupez le concombre en fines rondelles, salez-les légèrement, essorez tout le jus et placez-les en boîte hermétique au congélateur (-18 °C). Une fois décongelées, les rondelles gardent une texture agréable pour les salades."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Gurken richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Gurken basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Haben Sie schon einmal frische, knackige Gurken in den Kühlschrank gelegt, nur um festzustellen, dass sie nach wenigen Tagen wässrige Flecken bekamen, transparent wurden und schleimig verfielen? 🥒\n\nGurken bestehen zu über 95 % aus Wasser und reagieren extrem empfindlich auf Kälte. Bei Temperaturen unter 7 °C erleiden sie 'Kälteschäden (Chilling Injury)', wodurch die Zellwände kollabieren und die Gurke rasch verfällt.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Empfehlungen von USDA und RDA basiert, um Kälteschäden zu vermeiden, die Knackigkeit zu bewahren und Ihre Gurken über 2 Wochen lang frisch zu halten. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Kälte unter 7 °C vermeiden und von ethylenabgebenden Früchten fernhalten ⚠️",
-                        "desc": "Gurken sind kälteempfindlich; eine Lagerung an zu kalten Orten führt zu Kälteschäden und Verweichlichung. Die Nähe zu Ethylenquellen wie Äpfeln oder Tomaten lässt sie zudem rasch vergilben."
-                    },
-                    {
-                        "title": "Gurken nach dem Waschen niemals feucht einlagern 🥒",
-                        "desc": "Eingeschlossene Feuchtigkeit auf der Schale ist ein idealer Nährboden für Schimmel und Bakterien. Tupfen Sie gewaschene Gurken vor dem Einwickeln immer vollständig mit Küchenpapier trocken."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Oberfläche waschen und vollkommen abtrocknen — Fäulnis & Schimmel verhindern 🥒",
-                        "text": "Gurken haben einen hohen Wassergehalt, weshalb Feuchtigkeit auf der Schale das Verfaulen beschleunigt. 💡 Lagerungstipp: Wenn Sie Erde abwaschen, trocknen Sie jeden Tropfen mit Küchenpapier gründlich ab und lassen Sie die Gurken 10 Minuten im Schatten nachtrocknen."
-                    },
-                    {
-                        "name": "Jede Gurke einzeln in Küchenpapier einwickeln — Kälteschutz & Feuchtigkeitsbalance 📰",
-                        "text": "Direkte Kühlschrankkälte zerstört die Zellstruktur der Gurke. 💡 Lagerungstipp: Wickeln Sie jede trockene Gurke fest in Küchenpapier oder Zeitungspapier ein. Das Papier wirkt als Wärmedämmung gegen Kälte und nimmt Kondenswasser auf."
-                    },
-                    {
-                        "name": "Aufrecht in einem Beutel im Gemüsefach lagern — Aufrechte Kühllagerung (10–14 Tage) ❄️",
-                        "text": "Das flache Hinlegen von Gurken schädigt durch Schwerkrafteinwirkung das innere Fasergewebe und macht das Fleisch weich. 💡 Lagerungstipp: Geben Sie die gewickelten Gurken in einen gelochten Plastikbeutel und lagern Sie sie mit dem Stielende nach oben aufrecht im Gemüsefach (8–10 °C)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum bekommen Gurken im Kühlschrank wässrige Dellen und werden schleimig?",
-                        "answer": "Das liegt an 'Kälteschäden (Chilling Injury)', die entstehen, wenn Gurken längere Zeit Temperaturen unter 7 °C ausgesetzt sind. Kälte zerstört die Zellmembranen, sodass Wasser austritt und die Schale matschig wird. Das Einwickeln in Küchenpapier und die Lagerung im etwas wärmeren Gemüsefach verhindert dies."
-                    },
-                    {
-                        "question": "Kann man Gurken einfrieren, um sie lange knackig zu halten?",
-                        "answer": "Ganze rohe Gurken einzufrieren bringt ihre wassergefüllten Zellwände zum Platzen, wodurch sie nach dem Auftauen matschig werden. Für eine lange Haltbarkeit schneiden Sie Gurken in dünne Scheiben, salzen sie leicht, pressen das Wasser gut aus und frieren sie in Dosen bei -18 °C ein."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar pepinos frescos: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para pepinos com base em diretrizes oficiais de segurança.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Você já guardou pepinos frescos e crocantes na geladeira, apenas para encontrá-los murchos, com marcas afundadas, transparentes e gosmentos alguns dias depois? 🥒\n\nO pepino é composto por mais de 95% de água e é extremamente sensível ao frio. Quando exposto a temperaturas abaixo de 7 °C, sofre 'danos pelo frio (Chilling Injury)', fazendo com que suas paredes celulares colapsem, resultando em manchas aquosas na casca e rápida deterioração.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes do USDA e da RDA para prevenir danos pelo frio, preservar a crocância e estender a frescura dos seus pepinos por mais de 2 semanas. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Evite o frio extremo abaixo de 7 °C e isolamento de frutas que liberam etileno ⚠️",
-                        "desc": "Pepinos são sensíveis ao frio; mantê-los em áreas congelantes provoca manchas e viscosidade. Além disso, armazená-los perto de transmissores de etileno (como maçãs ou tomates) causa amarelamento rápido."
-                    },
-                    {
-                        "title": "Nunca guarde os pepinos úmidos após lavar 🥒",
-                        "desc": "Embalar pepinos com umidade na casca cria o ambiente perfeito para mofo e podridão bacteriana. Seque sempre os pepinos lavados com papel-toalha antes de guardar."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Lave a superfície e seque a água completamente — Evite a podridão e o mofo 🥒",
-                        "text": "O pepino tem alto teor de água, portanto a umidade presa acelera o apodrecimento da casca. 💡 Dica de conservação: Se lavar a terra da casca, seque cada gota com papel-toalha e deixe secar à sombra por 10 minutos."
-                    },
-                    {
-                        "name": "Embrulhe cada pepino individualmente em papel-toalha — Isolamento térmico 📰",
-                        "text": "A exposição direta ao ar frio da geladeira destrói a estrutura celular do pepino. 💡 Dica de conservação: Embrulhe bem cada pepino seco em papel-toalha ou jornal. O papel atua como isolante contra o frio e absorve o excesso de umidade."
-                    },
-                    {
-                        "name": "Guarde em pé em um saco plástico na gaveta de legumes — Armazenamento vertical (10–14 dias) ❄️",
-                        "text": "Deitar os pepinos faz a gravidade romper o tecido de fibra interno, amolecendo a polpa. 💡 Dica de conservação: Coloque os pepinos embrulhados em um saco plástico perfurado e guarde-os em pé com a ponta do caule para cima na gaveta de legumes (8-10 °C)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Por que os pepinos desenvolvem manchas aquosas e ficam gosmentos na geladeira?",
-                        "answer": "Isso ocorre devido aos 'Danos pelo frio (Chilling Injury)', quando os pepinos ficam expostos a temperaturas abaixo de 7 °C por longos períodos. O ar gelado rompe as membranas celulares, vazando água interna e deixando a casca transparente e murcha. Embrulhá-los em papel-toalha e guardá-los na gaveta de legumes previne o problema."
-                    },
-                    {
-                        "question": "Posso congelar pepinos para mantê-los crocantes por longo prazo?",
-                        "answer": "Congelar pepinos crus inteiros rompe suas paredes celulares cheias de água, deixando-os moles e aguados ao descongelar. Para guardar por longo prazo, corte em fatias finas, salgue levemente, esprema todo o líquido e guarde em um pote hermético no freezer (-18 °C). As fatias salgadas descongeladas mantêm ótima textura para saladas."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Timun agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk timun berdasarkan pedoman keselamatan resmi.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Pernahkah Anda menyimpan timun segar dan renyah di kulkas lalu mendapatinya berlubang, benyek, transparan, dan berlendir beberapa hari kemudian? 🥒\n\nTimun terdiri dari lebih dari 95% air dan sangat sensitif terhadap suhu dingin. Ketika terpapar suhu di bawah 7°C, timun mengalami 'kerusakan dingin (Chilling Injury)', yang menyebabkan dinding selnya rusak sehingga timbul bintik-bintik air dan pembusukan yang cepat.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan rekomendasi USDA dan RDA untuk mencegah kerusakan dingin, menjaga kerenyahan, dan memperpanjang kesegaran timun hingga lebih dari 2 minggu. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Hindari suhu dingin ekstrem di bawah 7°C dan jauhkan dari buah penghasil etilen ⚠️",
-                        "desc": "Timun sensitif terhadap dingin; menyimpannya di tempat yang terlalu dingin menyebabkan bintik air dan tekstur berlendir. Menyimpannya di dekat penghasil etilen seperti apel atau tomat juga menyebabkan timun cepat menguning dan lembek."
-                    },
-                    {
-                        "title": "Jangan pernah menyimpan timun dalam kondisi basah setelah dicuci 🥒",
-                        "desc": "Menyimpan timun dengan kelembapan di permukaan kulit menciptakan media berkembang biak sempurna bagi jamur dan pembusukan bakteri. Selalu lap timun yang sudah dicuci hingga benar-benar kering dengan tisu dapur sebelum disimpan."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Cuci permukaan dan keringkan air secara total — Cegah Pembusukan & Jamur 🥒",
-                        "text": "Timun memiliki kadar air yang tinggi, sehingga kelembapan luar yang terperangkap mempercepat pembusukan kulit. 💡 Tips Penyimpanan: Jika membilas tanah pada kulit timun, lap setiap tetes air hingga kering dengan tisu dapur lalu diangin-anginkan di tempat teduh selama 10 menit."
-                    },
-                    {
-                        "name": "Bungkus setiap timun secara individual dengan tisu dapur — Peredam Suhu & Kelembapan 📰",
-                        "text": "Paparan langsung udara dingin kulkas merusak struktur sel timun. 💡 Tips Penyimpanan: Bungkus setiap timun kering secara rapat dengan tisu dapur atau koran. Kertas bertindak sebagai isolator termal dari udara dingin langsung sekaligus menyerap kelembapan berlebih."
-                    },
-                    {
-                        "name": "Simpan secara tegak dalam kantong plastik di laci sayuran — Simpan Tegak (10–14 Hari) ❄️",
-                        "text": "Meletakkan timun secara miring/rebah membuat gravitasi merusak jaringan serat dalam, melunakkan daging buah. 💡 Tips Penyimpanan: Masukkan timun yang dibungkus kertas ke dalam kantong plastik berlubang dan simpan secara 'tegak' dengan bagian pangkai di atas di laci sayuran kulkas (8–10°C)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa timun di kulkas saya mengalami bintik-bintik air dan menjadi berlendir?",
-                        "answer": "Ini disebabkan oleh 'Kerusakan Dingin (Chilling Injury)', yang terjadi saat timun terpapar suhu di bawah 7°C dalam waktu lama. Udara dingin merusak membran sel, menyebabkan air di dalam merembes keluar dan membuat kulit menjadi transparan serta lembek. Membungkusnya dengan tisu dapur dan menyimpannya di laci sayuran kulkas yang lebih hangat akan mencegah masalah ini."
-                    },
-                    {
-                        "question": "Bisakah saya membekukan timun untuk menjaganya tetap renyah dalam jangka panjang?",
-                        "answer": "Membekukan timun mentah utuh akan merusak dinding sel yang penuh air, membuatnya sangat lembek dan berair saat dicairkan. Untuk penyimpanan jangka panjang, iris tipis timun, taburi sedikit garam, peras semua cairan berlebih, lalu simpan dalam wadah kedap udara di freezer (-18°C). Irisan timun asin yang dicairkan tetap renyah untuk salad."
-                    }
-                ]
-            }
-        }
+  "how-to-store-cucumber": {
+    "ingId": "cucumber",
+    "pubDate": "2026-01-22",
+    "updatedDate": "2026-01-22",
+    "heroImage": "/images/blog/cucumber_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "오이 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 오이의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+        "intro": "산뜻하고 아삭한 오이를 냉장고에 넣어두었다가 표면이 푹 파이고 투명하게 진득하게 녹아내려 버린 적 있으시죠? 🥒\n\n오이는 95% 이상이 수분으로 이루어진 냉해에 매우 취약한 박과 채소입니다. 7℃ 이하의 차가운 저온에 노출되면 세포벽이 파괴되는 '저온 냉해(Chilling Injury)'를 입어 표면에 수분 반점(물집)이 생기고 과육이 무르게 변합니다.\n\n이번 가이드에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 가이드를 바탕으로, 오이의 저온 냉해를 예방하고 2주 이상 아삭한 신선함을 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "7℃ 이하의 극저온 노출 및 에틸렌 과일과의 혼합 보관을 피하세요 ⚠️",
+            "desc": "오이는 추위에 매우 약해 7℃ 이하의 너무 차가운 장소에 두면 저온 냉해로 표면 수분 함몰과 진물이 발생합니다. 또한 사과, 토마토 등 에틸렌 방출 과일과 함께 두면 순식간에 노랗게 변하고 무르므로 반드시 분리해야 합니다."
+          },
+          {
+            "title": "세척 후 표면 물기를 완전히 제거하지 않고 보관하지 마세요 🥒",
+            "desc": "오이 표면에 물기가 남은 상태로 밀봉 포장되면 곰팡이와 세균성 무름병균이 번식하기 가장 좋은 환경이 됩니다. 세척한 오이는 키친타월로 표면의 수분을 완벽히 닦아낸 뒤 건조하여 포장해야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "표면 세척 후 물기 완전히 건조하기 — 무름병 및 곰팡이 방지 🥒",
+            "text": "오이는 수분 함량이 높아 표면에 수분이 고여 있으면 빠르게 무릅니다. 💡 보관 팁: 겉면의 흙이나 이물질을 물에 씻어낸 경우, 키친타월이나 마른 수건으로 표면의 물기를 빈틈없이 완벽하게 닦아내고 통풍이 잘되는 그늘에서 10분간 말려 수분을 제거해 주세요."
+          },
+          {
+            "name": "키친타월로 한 개씩 개별 포장하기 — 냉해 완충 및 습도 조절 📰",
+            "text": "냉장고의 직접적인 냉기는 오이 세포를 파괴하는 주요 원인입니다. 💡 보관 팁: 물기를 바짝 말린 오이를 키친타월이나 신문지로 한 개씩 꼼꼼히 감싸주세요. 종이가 단열재 역할을 하여 직접적인 냉기 접촉(냉해)을 막아주고, 오이가 배출하는 습기를 흡수하여 적정 습도를 유지해 줍니다."
+          },
+          {
+            "name": "비닐팩에 담아 꼭지가 위로 오도록 야채칸에 세워 보관하기 — 직립 냉장 보관 (10~14일) ❄️",
+            "text": "오이를 눕혀서 보관하면 중력 작용으로 과육 내부 섬유질이 손상되고 조직이 쉽게 약해집니다. 💡 보관 팁: 종이로 감싼 오이들을 구멍이 살짝 뚫린 비닐백이나 지퍼백에 가볍게 담아 냉장고 야채칸(8~10℃)에 보관하세요. 이때 꼭지 부분이 위를 향하도록 '세워서' 보관하는 것이 조직 연화를 막고 아삭함을 오래 지키는 핵심입니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "냉장고에 둔 오이 표면에 물집이 생기고 투명하게 녹아내리는 이유는 무엇인가요?",
+            "answer": "7℃ 이하의 차가운 온도에 오이가 장시간 노출되어 발생하는 '저온 냉해(Chilling Injury)' 현상입니다. 냉기로 인해 세포막이 파괴되면서 내부 수분이 흘러나오고 표면이 투명하게 물러집니다. 키친타월로 감싸 직접적인 냉기를 차단하고 온도가 비교적 높은 냉장고 야채칸에 보관하면 냉해를 예방할 수 있습니다."
+          },
+          {
+            "question": "오이를 오랫동안 아삭하게 먹으려면 냉동 보관해도 되나요?",
+            "answer": "생오이를 그대로 냉동하면 해동 시 수분 세포가 파괴되어 물바다가 되고 아삭한 식감이 완전히 사라집니다. 장기 보관을 원한다면 오이를 얇게 슬라이스한 뒤 소금에 살짝 절여 수분을 꽉 짜낸 후 밀폐 용기에 담아 냉동(-18℃ 이하) 보관하세요. 해동 후 오이무침이나 비빔면 고명으로 유용하게 쓸 수 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Cucumbers Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for cucumbers based on official safety guidelines.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Have you ever put fresh, crisp cucumbers in the refrigerator only to find them sunken, pitted, transparent, and slimy a few days later? 🥒\n\nCucumbers consist of over 95% water and are extremely sensitive to cold temperatures. When exposed to temperatures below 7°C (45°F), they suffer from 'chilling injury', causing their cell walls to collapse, resulting in watery surface pits and rapid decay.\n\nIn this guide, shares a scientifically proven 3-step storage guide based on recommendations from the USDA and RDA to prevent chilling injury, preserve crispness, and extend cucumber freshness for over 2 weeks. 🛡️",
+        "whyTitle": "Why Store Cucumbers This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each produce item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Avoid extreme cold below 7°C and keep away from ethylene-emitting fruits ⚠️",
+            "desc": "Cucumbers are cold-sensitive; keeping them in excessively cold areas causes surface pitting and slime from chilling injury. Additionally, storing them near ethylene producers like apples or tomatoes causes rapid yellowing and softening."
+          },
+          {
+            "title": "Never store cucumbers wet after washing 🥒",
+            "desc": "Sealing cucumbers with surface moisture creates an ideal breeding ground for mold and bacterial soft rot. Always pat washed cucumbers completely dry with paper towels before wrapping and storing."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Wash surface and dry water completely — Prevent Soft Rot & Mold 🥒",
+            "text": "Cucumbers have high water content, so trapped external moisture accelerates surface spoilage. 💡 Storage Tip: If you rinse dirt off the skin, thoroughly wipe every drop of water off using paper towels or a dry cloth, then air-dry in a cool, shaded spot for 10 minutes."
+          },
+          {
+            "name": "Wrap each cucumber individually in paper towels — Thermal Buffer & Moisture Balance 📰",
+            "text": "Direct exposure to harsh refrigerator cold air destroys cucumber cell structures. 💡 Storage Tip: Wrap each dry cucumber tightly in paper towels or newspaper. The paper acts as thermal insulation against direct cold air while absorbing excess humidity to prevent condensation."
+          },
+          {
+            "name": "Store upright in a plastic bag in the crisper drawer — Vertical Cold Storage (10–14 Days) ❄️",
+            "text": "Laying cucumbers horizontally causes gravity to break down internal fiber tissue, softening the flesh. 💡 Storage Tip: Place paper-wrapped cucumbers into a perforated plastic bag and store them 'standing upright' with the stem end facing up in the refrigerator crisper drawer (8–10°C / 46–50°F) to retain firmness."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why do cucumbers develop watery pits and turn slimy in the fridge?",
+            "answer": "This is caused by 'Chilling Injury', which occurs when cucumbers are exposed to temperatures below 7°C (45°F) for extended periods. Cold air ruptures their cell membranes, causing internal water to leak out and making the skin transparent and mushy. Wrapping them in paper towels and storing them in the warmer crisper drawer prevents this."
+          },
+          {
+            "question": "Can I freeze cucumbers to keep them crisp for long-term storage?",
+            "answer": "Freezing raw whole cucumbers ruptures their water-filled cell walls, turning them mushy and watery upon thawing. For long-term storage, slice cucumbers thinly, lightly salt them, squeeze out all excess liquid, and store them in an airtight freezer container (-18°C / 0°F). Thawed salted cucumber slices retain great bite for salads or cold dishes."
+          }
+        ]
+      },
+      "ja": {
+        "title": "きゅうりを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくきゅうりの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "みずみずしくシャキシャキしたきゅうりを冷蔵庫に入れておいたら、表面がくぼみ、透明にぬるぬる溶けて捨ててしまった経験はありませんか？🥒\n\nきゅうりは95%以上が水分で構成されており、寒さに非常に弱いウリ科の野菜です。7℃以下の冷気に晒されると、細胞壁が破壊される「低温障害（Chilling Injury）」を起こし、表面に水滴の凹みができて果肉が急速に傷んでしまいます。\n\n本記事では、農村振興庁（RDA）および米国農務省（USDA）のガイドラインに基づき、きゅうりの低温障害を防ぎ、2週間以上シャキシャキ感を保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "7℃以下の極低温での保存やエチレン放出果物との混在を避けてください ⚠️",
+            "desc": "きゅうりは寒さに弱いため、7℃以下の冷たすぎる場所に置くと低温障害で凹みや汁が出ます。また、リンゴやトマトなどエチレンを出す果物と一緒に置くと一気に黄色くなって柔らかくなるため、必ず分けて保存してください。"
+          },
+          {
+            "title": "水洗いした後に水分を完全に拭き取らずに保存しないでください 🥒",
+            "desc": "表面に水気が残ったまま密閉保存すると、カビや軟腐病菌が繁殖しやすくなります。洗ったきゅうりはペーパータオルで完全に水気を拭き取り、乾かしてから保存してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "表面を洗ったら水分を完全に乾かす — 腐敗とカビの防止 🥒",
+            "text": "きゅうりは水分量が非常に高いため、表面に水分が溜まるとすぐに柔らかく傷んでしまいます。💡保存のコツ：表面の汚れを水で洗い流した場合は、ペーパータオルや乾いた布で水気を一滴残さず拭き取り、風通しの良い日陰で10分ほど乾かしてください。"
+          },
+          {
+            "name": "キッチンペーパーで1本ずつ個別包装する — 冷気遮断と湿度調整 📰",
+            "text": "冷蔵庫の直接の冷気は、きゅうりの細胞を破壊する最大の原因です。💡保存のコツ：しっかり乾かしたきゅうりをキッチンペーパーや新聞紙で1本ずつ丁寧に包んでください。紙が断熱材となり直接の冷気を防ぎ、放出される湿気を吸収して適度な湿度を保ちます。"
+          },
+          {
+            "name": "ポリ袋に入れてヘタを上にして野菜室に立てて保存する — 直立冷蔵保存 (10〜14日) ❄️",
+            "text": "きゅうりを横にして保存すると、重力によって内部の繊維組織が傷み、柔らかくなりやすくなります。💡保存のコツ：紙で包んだきゅうりを穴の開いたポリ袋やジッパーバッグにふんわり入れ、野菜室（8〜10℃）にヘタ側を上にして「立てて」保存してください。組織の軟化を防ぎ、シャキシャキ感が長持ちします。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "冷蔵庫に入れたきゅうりの表面にくぼみができ、透明に溶けてしまう理由は何ですか？",
+            "answer": "7℃以下の冷たい温度に長期間晒されたことで起きる「低温障害（Chilling Injury）」です。冷気によって細胞膜が破壊され、内部の水分が滲み出て表面が透明に傷みます。キッチンペーパーで包んで冷気を遮断し、比較的高温の野菜室で保存することで低温障害を防ぐことができます。"
+          },
+          {
+            "question": "きゅうりを長期保存するために冷凍保存してもいいですか？",
+            "answer": "生きゅうりをそのまま冷凍すると解凍時に水分細胞が破裂し、水浸しになってシャキシャキ感が完全に失われます。長期保存したい場合は、薄切りにしたきゅうりを塩もみしてしっかりと水気を絞ってから密閉容器に入れ、冷凍（-18℃以下）保存してください。解凍後は和え物や酢の物、冷麺のトッピングに活用できます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持黄瓜新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解黄瓜的最佳储存温度、方式和保鲜时长。",
+        "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "您是否曾把新鲜清脆的黄瓜放进冰箱，结果几天后发现表皮凹陷、呈半透明状且粘 hands 变软？🥒\n\n黄瓜的含水量高达95%以上，是对低温极度敏感的葫芦科蔬菜。暴露在7℃以下的过冷环境中时，黄瓜会发生细胞壁破裂的“冷害（Chilling Injury）”，导致表皮出现水渍状凹陷并迅速腐烂。\n\n本指南基于韩国农村振兴厅(RDA)和美国农务部(USDA)的指南，为您带来3步科学保存秘诀，帮您防止黄瓜冻伤冷害，保持清脆口感达2周以上。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "避免在7℃以下的极低温保存，并远离释放乙烯的水果 ⚠️",
+            "desc": "黄瓜极度怕冷，存放在7℃以下的过冷区域会导致冻伤冷害、表皮凹陷出水。此外，与苹果、番茄等释放乙烯的水果放在一起会加速黄瓜变黄变软，必须分开放置。"
+          },
+          {
+            "title": "清洗后切勿带水直接封存 🥒",
+            "desc": "带水密封包裹黄瓜会为其表面的霉菌和软腐病菌提供绝佳的滋生环境。清洗后的黄瓜必须用厨房纸巾彻底擦干水分，晾干后再进行包裹储存。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "清洗表面后彻底擦干水分 — 防止软腐病与霉菌 🥒",
+            "text": "黄瓜本身含水量极高，表皮积水会加速烂软。💡储存小贴士：如果用水清洗掉了表皮泥沙，请务必用厨房纸巾或干布彻底拭干每一滴水，并放在阴凉通风处晾干10分钟。"
+          },
+          {
+            "name": "用厨房纸巾单独包裹每一根 — 隔绝冷气与调节湿度 📰",
+            "text": "冰箱直吹的冷气是破坏黄瓜细胞结构的主要元凶。💡储存小贴士：将晾干的黄瓜用厨房纸巾或报纸逐根紧密包裹。纸张既能作为隔热层防止直吹冷害，又能吸收排出的湿气，保持适宜湿度。"
+          },
+          {
+            "name": "装入保鲜袋蒂部朝上竖直冷藏 — 竖立冷藏保存 (10~14天) ❄️",
+            "text": "横放黄瓜会导致重力破坏其内部纤维组织，使果肉变软。💡储存小贴士：将包好纸的黄瓜装入打有微孔的保鲜袋中，黄瓜蒂部朝上“竖直”放入冰箱蔬菜保鲜抽屉（8~10℃）中，这是保持清脆不软化的核心秘诀。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "冰箱里的黄瓜表皮为什么会出现水渍凹陷并呈半透明变软？",
+            "answer": "这是由于黄瓜长时间处于7℃以下的过冷环境中引发的“冷害（Chilling Injury）”。低温破坏了黄瓜的细胞膜，导致内部水分渗出，表皮变得半透明烂软。用厨房纸巾包裹隔绝冷气，并存放在温度稍高的蔬菜保鲜抽屉中即可预防冷害。"
+          },
+          {
+            "question": "黄瓜可以冷冻长期保存以保持清脆吗？",
+            "answer": "生黄瓜直接冷冻会导致细胞壁结冰破裂，解冻后会大量出水且彻底失去清脆口感。如需长期保存，可将黄瓜切薄片后用盐腌制，挤干水分后再装入密封盒放入冷冻室（-18℃以下）。解冻后可用于凉拌或作为面条小菜。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener los pepinos frescos: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para los pepinos según las directrices oficiales de seguridad.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "¿Alguna vez guardó pepinos frescos y crujientes en el refrigerador, solo para encontrarlos hundidos, picados, transparentes y pegajosos unos días después? 🥒\n\nEl pepino se compone de más del 95% de agua y es sumamente sensible al frío. Al exponerlo a temperaturas inferiores a 7 °C, sufre 'daño por frío (Chilling Injury)', lo que rompe sus paredes celulares y genera manchas acuosas en la piel y una rápida pudrición.\n\nEn esta guía se comparte una guía científica en 3 pasos basada en las recomendaciones del USDA y la RDA para prevenir el daño por frío, conservar la textura crujiente y prolongar la frescura de sus pepinos por más de 2 semanas. 🛡️",
+        "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Evite el frío extremo inferior a 7 °C y aísle de frutas que emitan etileno ⚠️",
+            "desc": "Los pepinos son sensibles al frío; guardarlos en zonas muy heladas provoca picaduras y viscosidad por daño por frío. Además, conservarlos junto a emisores de etileno (como manzanas o tomates) provoca un rápido amarillamiento y ablandamiento."
+          },
+          {
+            "title": "Nunca guarde los pepinos húmedos después de lavarlos 🥒",
+            "desc": "Sellar pepinos con humedad superficial crea un entorno propicio para el moho y la podredumbre blanda bacteriana. Seque siempre los pepinos lavados por completo con toallas de papel antes de envolverlos."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Lave la superficie y seque el agua por completo — Evite la pudrición blanda y el moho 🥒",
+            "text": "Los pepinos tienen un alto contenido de agua, por lo que la humedad atrapada acelera el deterioro exterior. 💡 Consejo de almacenamiento: Si enjuaga la tierra de la piel, seque cada gota con toallas de papel o un paño seco y déjelos airear a la sombra durante 10 minutos."
+          },
+          {
+            "name": "Envuelva cada pepino de forma individual en toallas de papel — Aislamiento térmico 📰",
+            "text": "La exposición directa al aire frío del refrigerador destruye la estructura celular del pepino. 💡 Consejo de almacenamiento: Envuelva bien cada pepino seco en toallas de papel o papel periódico. El papel actúa como aislante contra el frío directo y absorbe el exceso de humedad."
+          },
+          {
+            "name": "Guarde erguidos en una bolsa plástica en el cajón de verduras — Almacenamiento vertical (10–14 días) ❄️",
+            "text": "Acostar los pepinos hace que la gravedad rompa el tejido de fibra interno, ablandando la pulpa. 💡 Consejo de almacenamiento: Coloque los pepinos envueltos en una bolsa de plástico perforada y guárdelos de pie con el pedúnculo hacia arriba en el cajón de verduras (8-10 °C)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué los pepinos desarrollan manchas acuosas y se vuelven viscosos en el refrigerador?",
+            "answer": "Esto se debe al 'Daño por frío (Chilling Injury)', que ocurre cuando los pepinos se exponen a temperaturas inferiores a 7 °C durante períodos prolongados. El aire helado rompe sus membranas celulares, haciendo que el agua interna se filtre y la piel se ponga blanda y transparente. Envolverlos en toallas de papel y guardarlos en el cajón de verduras lo previene."
+          },
+          {
+            "question": "¿Puedo congelar pepinos para mantenerlos crujientes a largo plazo?",
+            "answer": "Congelar pepinos crudos enteros rompe sus paredes celulares llenas de agua, dejándolos blandos y acuosos al descongelar. Para guardarlos a largo plazo, córtelos en rodajas finas, saléelos ligeramente, escurra todo el líquido y guárdelos en un recipiente hermético en el congelador (-18 °C). Las rodajas de pepino saladas descongeladas mantienen un buen toque para ensaladas."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver les concombres frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les concombres selon les directives officielles de sécurité.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Avez-vous déjà placé des concombres bien croquants au réfrigérateur pour les retrouver craquelés, mous, transparents et gluants quelques jours plus tard ? 🥒\n\nLe concombre est composé à plus de 95 % d'eau et se montre extrêmement sensible au froid. Lorsqu'il est exposé à des températures inférieures à 7 °C, il subit des 'dégâts dus au froid (Chilling Injury)', ce qui détruit ses parois cellulaires et crée des moisissures et une décomposition rapide.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et du RDA pour éviter les dégâts du froid, préserver le croquant et prolonger la fraîcheur de vos concombres pendant plus de 2 semaines. 🛡️",
+        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Évitez le froid extrême sous 7 °C et éloignez-les des fruits émettant de l'éthylène ⚠️",
+            "desc": "Les concombres craignent le froid ; les placer dans des zones trop froides provoque des lésions cutanées et un ramollissement gluant. De plus, les conserver près d'émetteurs d'éthylène (pommes, tomates) accélère leur jaunissement."
+          },
+          {
+            "title": "Ne stockez jamais les concombres mouillés après lavage 🥒",
+            "desc": "Enfermer des concombres humides favorise le développement de moisissures et de pourriture bactérienne. Épongez toujours complètement les concombres lavés avec de l'essuie-tout avant de les emballer."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Laver et sécher la surface totalement — Éviter la pourriture et les moisissures 🥒",
+            "text": "Le concombre est très riche en eau, l'humidité résiduelle accélère donc l'altération de sa peau. 💡 Astuce de conservation : Si vous rincez la terre, essuyez soigneusement chaque goutte avec de l'essuie-tout et laissez sécher 10 minutes à l'ombre."
+          },
+          {
+            "name": "Envelopper chaque concombre individuellement dans de l'essuie-tout — Protection thermique 📰",
+            "text": "L'exposition directe à l'air froid du réfrigérateur détruit la structure cellulaire du concombre. 💡 Astuce de conservation : Enveloppez chaque concombre sec dans de l'essuie-tout ou du journal. Le papier sert d'isolant thermique et régule l'humidité ambiante."
+          },
+          {
+            "name": "Conserver verticalement dans un sachet plastique au bac à légumes — Stockage vertical (10–14 jours) ❄️",
+            "text": "Coucher les concombres altère les fibres sous l'effet de la gravité, ce qui ramollit la chair. 💡 Astuce de conservation : Placez les concombres emballés dans un sac plastique perforé et stockez-les debout, tige vers le haut, dans le bac à légumes (8-10 °C)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi les concombres deviennent-ils mous et gluants au réfrigérateur ?",
+            "answer": "Cela provient des 'Dégâts dus au froid (Chilling Injury)', qui surviennent lorsque les concombres sont exposés à moins de 7 °C pendant plusieurs jours. Le froid rompt leurs membranes cellulaires, l'eau interne s'échappe et la peau devient molle et transparente. L'emballage dans de l'essuie-tout au bac à légumes évite ce phénomène."
+          },
+          {
+            "question": "Puis-je congeler les concombres pour les garder croquants plus longtemps ?",
+            "answer": "Congeler un concombre cru entier fait éclater ses cellules d'eau, le rendant complètement mou au dégel. Pour une longue conservation, coupez le concombre en fines rondelles, salez-les légèrement, essorez tout le jus et placez-les en boîte hermétique au congélateur (-18 °C). Une fois décongelées, les rondelles gardent une texture agréable pour les salades."
+          }
+        ]
+      },
+      "de": {
+        "title": "Gurken richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Gurken basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Haben Sie schon einmal frische, knackige Gurken in den Kühlschrank gelegt, nur um festzustellen, dass sie nach wenigen Tagen wässrige Flecken bekamen, transparent wurden und schleimig verfielen? 🥒\n\nGurken bestehen zu über 95 % aus Wasser und reagieren extrem empfindlich auf Kälte. Bei Temperaturen unter 7 °C erleiden sie 'Kälteschäden (Chilling Injury)', wodurch die Zellwände kollabieren und die Gurke rasch verfällt.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Empfehlungen von USDA und RDA basiert, um Kälteschäden zu vermeiden, die Knackigkeit zu bewahren und Ihre Gurken über 2 Wochen lang frisch zu halten. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Kälte unter 7 °C vermeiden und von ethylenabgebenden Früchten fernhalten ⚠️",
+            "desc": "Gurken sind kälteempfindlich; eine Lagerung an zu kalten Orten führt zu Kälteschäden und Verweichlichung. Die Nähe zu Ethylenquellen wie Äpfeln oder Tomaten lässt sie zudem rasch vergilben."
+          },
+          {
+            "title": "Gurken nach dem Waschen niemals feucht einlagern 🥒",
+            "desc": "Eingeschlossene Feuchtigkeit auf der Schale ist ein idealer Nährboden für Schimmel und Bakterien. Tupfen Sie gewaschene Gurken vor dem Einwickeln immer vollständig mit Küchenpapier trocken."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Oberfläche waschen und vollkommen abtrocknen — Fäulnis & Schimmel verhindern 🥒",
+            "text": "Gurken haben einen hohen Wassergehalt, weshalb Feuchtigkeit auf der Schale das Verfaulen beschleunigt. 💡 Lagerungstipp: Wenn Sie Erde abwaschen, trocknen Sie jeden Tropfen mit Küchenpapier gründlich ab und lassen Sie die Gurken 10 Minuten im Schatten nachtrocknen."
+          },
+          {
+            "name": "Jede Gurke einzeln in Küchenpapier einwickeln — Kälteschutz & Feuchtigkeitsbalance 📰",
+            "text": "Direkte Kühlschrankkälte zerstört die Zellstruktur der Gurke. 💡 Lagerungstipp: Wickeln Sie jede trockene Gurke fest in Küchenpapier oder Zeitungspapier ein. Das Papier wirkt als Wärmedämmung gegen Kälte und nimmt Kondenswasser auf."
+          },
+          {
+            "name": "Aufrecht in einem Beutel im Gemüsefach lagern — Aufrechte Kühllagerung (10–14 Tage) ❄️",
+            "text": "Das flache Hinlegen von Gurken schädigt durch Schwerkrafteinwirkung das innere Fasergewebe und macht das Fleisch weich. 💡 Lagerungstipp: Geben Sie die gewickelten Gurken in einen gelochten Plastikbeutel und lagern Sie sie mit dem Stielende nach oben aufrecht im Gemüsefach (8–10 °C)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum bekommen Gurken im Kühlschrank wässrige Dellen und werden schleimig?",
+            "answer": "Das liegt an 'Kälteschäden (Chilling Injury)', die entstehen, wenn Gurken längere Zeit Temperaturen unter 7 °C ausgesetzt sind. Kälte zerstört die Zellmembranen, sodass Wasser austritt und die Schale matschig wird. Das Einwickeln in Küchenpapier und die Lagerung im etwas wärmeren Gemüsefach verhindert dies."
+          },
+          {
+            "question": "Kann man Gurken einfrieren, um sie lange knackig zu halten?",
+            "answer": "Ganze rohe Gurken einzufrieren bringt ihre wassergefüllten Zellwände zum Platzen, wodurch sie nach dem Auftauen matschig werden. Für eine lange Haltbarkeit schneiden Sie Gurken in dünne Scheiben, salzen sie leicht, pressen das Wasser gut aus und frieren sie in Dosen bei -18 °C ein."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar pepinos frescos: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para pepinos com base em diretrizes oficiais de segurança.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Você já guardou pepinos frescos e crocantes na geladeira, apenas para encontrá-los murchos, com marcas afundadas, transparentes e gosmentos alguns dias depois? 🥒\n\nO pepino é composto por mais de 95% de água e é extremamente sensível ao frio. Quando exposto a temperaturas abaixo de 7 °C, sofre 'danos pelo frio (Chilling Injury)', fazendo com que suas paredes celulares colapsem, resultando em manchas aquosas na casca e rápida deterioração.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes do USDA e da RDA para prevenir danos pelo frio, preservar a crocância e estender a frescura dos seus pepinos por mais de 2 semanas. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Evite o frio extremo abaixo de 7 °C e isolamento de frutas que liberam etileno ⚠️",
+            "desc": "Pepinos são sensíveis ao frio; mantê-los em áreas congelantes provoca manchas e viscosidade. Além disso, armazená-los perto de transmissores de etileno (como maçãs ou tomates) causa amarelamento rápido."
+          },
+          {
+            "title": "Nunca guarde os pepinos úmidos após lavar 🥒",
+            "desc": "Embalar pepinos com umidade na casca cria o ambiente perfeito para mofo e podridão bacteriana. Seque sempre os pepinos lavados com papel-toalha antes de guardar."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Lave a superfície e seque a água completamente — Evite a podridão e o mofo 🥒",
+            "text": "O pepino tem alto teor de água, portanto a umidade presa acelera o apodrecimento da casca. 💡 Dica de conservação: Se lavar a terra da casca, seque cada gota com papel-toalha e deixe secar à sombra por 10 minutos."
+          },
+          {
+            "name": "Embrulhe cada pepino individualmente em papel-toalha — Isolamento térmico 📰",
+            "text": "A exposição direta ao ar frio da geladeira destrói a estrutura celular do pepino. 💡 Dica de conservação: Embrulhe bem cada pepino seco em papel-toalha ou jornal. O papel atua como isolante contra o frio e absorve o excesso de umidade."
+          },
+          {
+            "name": "Guarde em pé em um saco plástico na gaveta de legumes — Armazenamento vertical (10–14 dias) ❄️",
+            "text": "Deitar os pepinos faz a gravidade romper o tecido de fibra interno, amolecendo a polpa. 💡 Dica de conservação: Coloque os pepinos embrulhados em um saco plástico perfurado e guarde-os em pé com a ponta do caule para cima na gaveta de legumes (8-10 °C)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que os pepinos desenvolvem manchas aquosas e ficam gosmentos na geladeira?",
+            "answer": "Isso ocorre devido aos 'Danos pelo frio (Chilling Injury)', quando os pepinos ficam expostos a temperaturas abaixo de 7 °C por longos períodos. O ar gelado rompe as membranas celulares, vazando água interna e deixando a casca transparente e murcha. Embrulhá-los em papel-toalha e guardá-los na gaveta de legumes previne o problema."
+          },
+          {
+            "question": "Posso congelar pepinos para mantê-los crocantes por longo prazo?",
+            "answer": "Congelar pepinos crus inteiros rompe suas paredes celulares cheias de água, deixando-os moles e aguados ao descongelar. Para guardar por longo prazo, corte em fatias finas, salgue levemente, esprema todo o líquido e guarde em um pote hermético no freezer (-18 °C). As fatias salgadas descongeladas mantêm ótima textura para saladas."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Timun agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk timun berdasarkan pedoman keselamatan resmi.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Pernahkah Anda menyimpan timun segar dan renyah di kulkas lalu mendapatinya berlubang, benyek, transparan, dan berlendir beberapa hari kemudian? 🥒\n\nTimun terdiri dari lebih dari 95% air dan sangat sensitif terhadap suhu dingin. Ketika terpapar suhu di bawah 7°C, timun mengalami 'kerusakan dingin (Chilling Injury)', yang menyebabkan dinding selnya rusak sehingga timbul bintik-bintik air dan pembusukan yang cepat.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan rekomendasi USDA dan RDA untuk mencegah kerusakan dingin, menjaga kerenyahan, dan memperpanjang kesegaran timun hingga lebih dari 2 minggu. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Hindari suhu dingin ekstrem di bawah 7°C dan jauhkan dari buah penghasil etilen ⚠️",
+            "desc": "Timun sensitif terhadap dingin; menyimpannya di tempat yang terlalu dingin menyebabkan bintik air dan tekstur berlendir. Menyimpannya di dekat penghasil etilen seperti apel atau tomat juga menyebabkan timun cepat menguning dan lembek."
+          },
+          {
+            "title": "Jangan pernah menyimpan timun dalam kondisi basah setelah dicuci 🥒",
+            "desc": "Menyimpan timun dengan kelembapan di permukaan kulit menciptakan media berkembang biak sempurna bagi jamur dan pembusukan bakteri. Selalu lap timun yang sudah dicuci hingga benar-benar kering dengan tisu dapur sebelum disimpan."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Cuci permukaan dan keringkan air secara total — Cegah Pembusukan & Jamur 🥒",
+            "text": "Timun memiliki kadar air yang tinggi, sehingga kelembapan luar yang terperangkap mempercepat pembusukan kulit. 💡 Tips Penyimpanan: Jika membilas tanah pada kulit timun, lap setiap tetes air hingga kering dengan tisu dapur lalu diangin-anginkan di tempat teduh selama 10 menit."
+          },
+          {
+            "name": "Bungkus setiap timun secara individual dengan tisu dapur — Peredam Suhu & Kelembapan 📰",
+            "text": "Paparan langsung udara dingin kulkas merusak struktur sel timun. 💡 Tips Penyimpanan: Bungkus setiap timun kering secara rapat dengan tisu dapur atau koran. Kertas bertindak sebagai isolator termal dari udara dingin langsung sekaligus menyerap kelembapan berlebih."
+          },
+          {
+            "name": "Simpan secara tegak dalam kantong plastik di laci sayuran — Simpan Tegak (10–14 Hari) ❄️",
+            "text": "Meletakkan timun secara miring/rebah membuat gravitasi merusak jaringan serat dalam, melunakkan daging buah. 💡 Tips Penyimpanan: Masukkan timun yang dibungkus kertas ke dalam kantong plastik berlubang dan simpan secara 'tegak' dengan bagian pangkai di atas di laci sayuran kulkas (8–10°C)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa timun di kulkas saya mengalami bintik-bintik air dan menjadi berlendir?",
+            "answer": "Ini disebabkan oleh 'Kerusakan Dingin (Chilling Injury)', yang terjadi saat timun terpapar suhu di bawah 7°C dalam waktu lama. Udara dingin merusak membran sel, menyebabkan air di dalam merembes keluar dan membuat kulit menjadi transparan serta lembek. Membungkusnya dengan tisu dapur dan menyimpannya di laci sayuran kulkas yang lebih hangat akan mencegah masalah ini."
+          },
+          {
+            "question": "Bisakah saya membekukan timun untuk menjaganya tetap renyah dalam jangka panjang?",
+            "answer": "Membekukan timun mentah utuh akan merusak dinding sel yang penuh air, membuatnya sangat lembek dan berair saat dicairkan. Untuk penyimpanan jangka panjang, iris tipis timun, taburi sedikit garam, peras semua cairan berlebih, lalu simpan dalam wadah kedap udara di freezer (-18°C). Irisan timun asin yang dicairkan tetap renyah untuk salad."
+          }
+        ]
+      }
     }
+  }
 }

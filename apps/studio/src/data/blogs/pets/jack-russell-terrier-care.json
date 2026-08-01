@@ -1,459 +1,459 @@
 {
-    "jack-russell-terrier-care": {
-        "pubDate": "2026-05-20",
-        "updatedDate": "2026-05-20",
-        "locales": {
-            "ko": {
-                "title": "잭 러셀 테리어 무한 체력 케어법과 털 빠짐·지적 자극 3단계 일상 루틴",
-                "description": "영리하고 에너지가 넘치는 소형 작업견 잭 러셀 테리어. 넘치는 운동량 요구치를 충족하고, 이중모 털 빠짐 관리 및 슬개골 건강을 지키는 3단계 가이드라인을 제공합니다.",
-                "authority": "미국 켄넬 클럽(AKC) 품종 표준 및 영국 수의사협회(BVA) 반려견 건강 가이드라인",
-                "profile": {
-                    "breed": "잭 러셀 테리어 (Jack Russell Terrier)",
-                    "lifespan": "12 ~ 14년",
-                    "sleep_pattern": "12 ~ 14시간 (성견 기준 - 고강도 운동 후 깊은 수면)",
-                    "temperament": "에너제틱함, 극도로 영리함, 대담함, 호기심 많음, 충성스러움"
-                },
-                "intro": "잭 러셀 테리어는 영화와 미디어를 통해 전 세계적으로 큰 사랑을 받는 대표적인 소형 작업견입니다. 본래 여우 사냥을 위해 개량된 테리어 종 특유의 강인한 체력과 높은 지능을 지니고 있어, 적절한 운동과 지적 자극이 주어지지 않으면 스트레스 행동이나 문제 행동을 보이기 쉽습니다. 또한 빽빽한 이중모 구조로 인해 사계절 털 빠짐 관리가 필수적이며, 뛰어내리는 습성으로 인한 슬개골 및 관절 보호가 중요합니다. 이번 가이드에서는 잭 러셀 테리어의 본능적 언어 신호를 분석하고, 무한 체력 발산과 건강 관리를 위한 3단계 일상 루틴을 공개합니다.",
-                "whyTitle": "잭 러셀 테리어의 본능: 시선 집중과 놀이 요청 시그널",
-                "whyDesc": "잭 러셀 테리어는 작업견의 후예답게 강한 집중력과 또렷한 표현력을 보여줍니다. 목표물이나 보호자를 뚫어지게 바라보며 고개를 갸웃거리는 행위는 강한 호기심과 작업 집중 상태를 뜻합니다. 반면 앞다리를 낮추고 꼬리를 격렬하게 흔드는 '플레이 바우(Play Bow)' 동작은 쌓인 에너지를 발산하고 소통하고 싶어 하는 명확한 신호입니다.",
-                "body_signals": [
-                    {
-                        "name": "뚫어지게 주시하기 (Intense Staring & Focus)",
-                        "meaning": "소리나 움직임에 사냥 본능 및 작업 집중력이 발동한 상태로, 보호자의 다음 명령이나 신호를 기다리는 고도의 집중 신호입니다.",
-                        "response": "장난감 던지기나 간단한 복종 훈련 명령을 주어 집중된 에너지를 긍정적인 활동으로 전환해 줍니다."
-                    },
-                    {
-                        "name": "앞다리를 숙이고 꼬리치기 (Play Bow)",
-                        "meaning": "몸 전신을 활용해 놀이를 요청하는 신호로, 심리적 활력과 에너지가 최고조에 달했을 때 나오는 건강한 소통 표출입니다.",
-                        "response": "터그 놀이나 원반던지기 등 규칙이 있는 고강도 운동을 제공하여 욕구를 충족시켜 줍니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 고강도 유산소 운동 및 균형 잡힌 단백질 식사",
-                        "text": "최소 45분 이상의 공 던지기, 인터벌 러닝 등 고강도 야외 운동을 통해 밤새 축적된 에너지를 소모시키고, 근육 유지에 필요한 단백질 중심 식사를 제공합니다."
-                    },
-                    {
-                        "name": "낮: 노즈워크를 통한 지적 자극 및 이중모 브러싱",
-                        "text": "퍼즐 토이나 냄새 찾기 놀이로 높은 지능을 충족시켜 뇌 피로도를 높여주고, 슬리커 브러시를 사용해 죽은 털을 제거하여 털 빠짐을 예방합니다."
-                    },
-                    {
-                        "name": "밤: 슬개골·관절 건강 점검 및 일관된 이완 훈련",
-                        "text": "높은 곳에서 뛰어내리는 습성으로 자극받기 쉬운 무릎 관절(슬개골 탈구 여부)과 발바닥을 점검하고, 조용한 환경에서 차분하게 휴식하도록 도옵니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "아파트나 작은 주택에서도 잭 러셀 테리어를 키울 수 있나요?",
-                        "answer": "키울 수는 있지만 매일 1~2시간 이상의 고강도 야외 운동과 뇌를 쓰는 풍부화 활동이 필수적입니다. 운동량이 부족하면 짖음, 갉아먹기 등 욕구 불만 행동이 나타날 수 있으므로 활동량을 철저히 보장해야 합니다."
-                    },
-                    {
-                        "question": "단모(Smooth coat) 형태의 잭 러셀 테리어는 털이 적게 빠지나요?",
-                        "answer": "그렇지 않습니다. 잭 러셀 테리어는 털 길이에 상관없이(단모, 브로큰, 러프) 모질이 빽빽한 이중모를 가지고 있어 단모종 역시 짧고 뾰족한 죽은 털이 옷이나 카펫에 많이 박혀 빠집니다. 주 2~3회 이상의 정기적인 브러싱이 필수입니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Jack Russell Terrier Energy Management Guide and 3-Step Care Routine for Mental Enrichment & Shedding",
-                "description": "Essential care for the intelligent, highly energetic Jack Russell Terrier. Learn how to satisfy their extreme exercise needs, manage double-coat shedding, and maintain joint health.",
-                "authority": "American Kennel Club (AKC) Breed Standards and British Veterinary Association (BVA) Canine Health Guidelines",
-                "profile": {
-                    "breed": "Jack Russell Terrier",
-                    "lifespan": "12 - 14 Years",
-                    "sleep_pattern": "12 - 14 Hours (Adults - Deep Rest After Intense Activity)",
-                    "temperament": "Energetic, Highly Intelligent, Fearless, Curious, Loyal"
-                },
-                "intro": "The Jack Russell Terrier is one of the most beloved small working breeds worldwide, made famous through film and media. Originally bred for fox hunting, they possess extraordinary stamina and keen intelligence. Without adequate physical exercise and mental stimulation, they can easily develop stress-induced behavioral issues. Their dense double coat also requires consistent shedding management, while their energetic jumping tendencies necessitate proactive joint and patella care. In this guide, we analyze their instinctive body signals and reveal a 3-step homecare routine for stamina release and overall health.",
-                "whyTitle": "Jack Russell Terrier Instincts: Intense Focus and Play Invitation Signals",
-                "whyDesc": "As descendants of working terriers, Jack Russells display exceptional focus and expressive communication. Staring intently at a target or tilt-heading indicates high curiosity and working drive. Conversely, lowering their front quarters while wagging their tail rapidly—known as a 'Play Bow'—is a clear signal that they need to burn off excess energy through social play.",
-                "body_signals": [
-                    {
-                        "name": "Intense Staring & Focus",
-                        "meaning": "Triggered by prey drive or environmental sounds, showing high engagement as they await their handler's next command or action.",
-                        "response": "Channel this focused energy constructively by launching a ball or initiating a structured obedience command."
-                    },
-                    {
-                        "name": "Play Bow (Front Quarters Lowered)",
-                        "meaning": "A full-body invitation to play, signaling peak psychological vitality and a healthy desire for active engagement.",
-                        "response": "Engage them in structured, high-intensity activities like fetch, frisbee, or tug games to fulfill their behavioral drive."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: High-Intensity Aerobic Exercise & High-Protein Diet",
-                        "text": "Provide at least 45 minutes of vigorous outdoor activity such as fetch or interval running to burn stored energy, followed by a protein-rich meal for muscle recovery."
-                    },
-                    {
-                        "name": "Afternoon: Mental Stimulation Games & Double-Coat Brushing",
-                        "text": "Challenge their sharp brain with puzzle toys or scent-work games to promote mental fatigue, and brush their coat with a slicker brush to remove loose undercoat hair."
-                    },
-                    {
-                        "name": "Evening: Joint Check & Calm Decompression Training",
-                        "text": "Inspect their knees (checking for patellar stress) and paw pads after high-impact jumping, then transition them into a quiet environment to encourage calm resting habits."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Can a Jack Russell Terrier live happily in an apartment?",
-                        "answer": "Yes, but only if their daily physical and mental needs are fully met. They require 1 to 2 hours of high-intensity exercise and brain games daily; otherwise, frustration can lead to excessive barking, digging, or destructive chewing."
-                    },
-                    {
-                        "question": "Do smooth-coated Jack Russells shed less than rough-coated ones?",
-                        "answer": "No. Regardless of coat type (smooth, broken, or rough), Jack Russells possess a dense double coat. Smooth-coated varieties shed short, stiff hairs that easily embed in fabrics, making regular brushing 2–3 times a week essential."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ジャックラッセルテリアの運動量ケアと抜け毛・知育の3ステップ日常ルーティン",
-                "description": "知性的でエネルギッシュな小型作業犬、ジャックラッセルテリア。豊富な運動量を満たし、ダブルコートの抜け毛ケアと関節の健康を守る3ステップガイドを解説します。",
-                "authority": "アメリカンケネルクラブ（AKC）犬種標準および英国獣医師会（BVA）愛犬健康ガイドライン",
-                "profile": {
-                    "breed": "ジャックラッセルテリア (Jack Russell Terrier)",
-                    "lifespan": "12 〜 14年",
-                    "sleep_pattern": "12 〜 14時間 (成犬基準 - 激しい運動後の深い休息)",
-                    "temperament": "エネルギッシュ、非常に賢い、大胆、好奇心旺盛、忠実"
-                },
-                "intro": "ジャックラッセルテリアは、映画やメディアを通じて世界中で愛されている小型作業犬の代表格です。もともとキツネ狩りのために作出されたテリア種特有の強い体力と高い知能を備えており、十分な運動と知的刺激が与えられないとストレス行動を起こしやすくなります。また、密生したダブルコートを持つため年間を通じた抜け毛対策が不可欠であり、高く跳び跳ねる習性による膝蓋骨（パテラ）や関節の保護も重要です。本日は本記事では、本能的なボディーサインの読み解きと、豊富な体力を発散させ健康を維持する3ステップ日常ルーティンをご紹介します。",
-                "whyTitle": "ジャックラッセルテリアの本能：集中した視線と遊びの誘いシグナル",
-                "whyDesc": "作業犬の血を引くジャックラッセルテリアは、強い集中力と明確な感情表現を見せます。対象をじっと見つめて首をかしげる動作は、強い好奇心と作業への集中状態を表しています。一方、前足を低く下げて尻尾を激しく振る「プレイバウ（おじぎのポーズ）」は、溜まったエネルギーを発散しコミュニケーションを取りたがっている明確なサインです。",
-                "body_signals": [
-                    {
-                        "name": "じっと見つめる (Intense Staring & Focus)",
-                        "meaning": "音や動きに狩猟本能や作業への集中力が刺激された状態で、飼い主の次の指示や合図を待っている高度な集中サインです。",
-                        "response": "ボール投げや簡単な服従訓練の指示を与え、集中したエネルギーをポジティブな活動へと切り替えてあげます。"
-                    },
-                    {
-                        "name": "前足を下げて尻尾を振る (Play Bow)",
-                        "meaning": "全身を使って遊びを要求するサインで、精神的活力とエネルギーが最高潮に達している健康なコミュニケーションの表れです。",
-                        "response": "引っ張り合いっこやフリスビーなど、ルールのある高強度の運動を提供して欲求を満たしてあげます。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：高強度の有酸素運動とバランスの良い高タンパク食",
-                        "text": "最低45分以上のボール遊びやインターバルランニングなどの野外運動で夜間に溜まったエネルギーを発散させ、筋肉維持に必要なタンパク質中心の食事を与えます。"
-                    },
-                    {
-                        "name": "昼：ノーズワークによる知的刺激とダブルコートのブラッシング",
-                        "text": "知育トイや宝探しゲームで高い知能を満たして脳の疲れを促し、スリッカーブラシを使用してアンダーコートの不要な毛を取り除き抜け毛を予防します。"
-                    },
-                    {
-                        "name": "夜：関節・膝蓋骨のチェックと落ち着いたリラックス訓練",
-                        "text": "ジャンプによって負担がかかりやすい膝関節（膝蓋骨脱臼の有無）や足裏を点検し、静かな環境で落ち着いて休めるよう誘導します。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "マンションや狭い住宅でもジャックラッセルテリアを飼うことはできますか？",
-                        "answer": "飼育は可能ですが、毎日1〜2時間以上の高強度の屋外運動と頭を使う知育活動が必須です。運動不足になると無駄吠えや噛みつきなどの問題行動が発生しやすいため、活動量の確保を徹底する必要があります。"
-                    },
-                    {
-                        "question": "スムースコート（短毛）のジャックラッセルテリアは抜け毛が少ないですか？",
-                        "answer": "いいえ、少ナクありません。被毛タイプ（スムース、ブロークン、ラフ）に関わらず密集したダブルコートを持っているため、短毛種であっても短く鋭い死毛が服やカーペットに刺さるように抜けます。週2〜3回以上の定期的なブラッシングが必須です。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "杰克罗素梗精力管理指南与防掉毛·益智刺激3阶段日常护理流程",
-                "description": "针对聪慧且精力充沛的小型工作犬杰克罗素梗护理。学习如何满足其高强度的运动需求、管理双层毛发掉毛，并维护膝关节健康。",
-                "authority": "美国犬业俱乐部 (AKC) 犬种标准与英国兽医师协会 (BVA) 犬类健康指南",
-                "profile": {
-                    "breed": "杰克罗素梗 (Jack Russell Terrier)",
-                    "lifespan": "12 ~ 14年",
-                    "sleep_pattern": "12 ~ 14小时 (成年犬 - 高强度运动后的深度休息)",
-                    "temperament": "精力充沛、极度聪明、大胆、好奇心强、忠诚"
-                },
-                "intro": "杰克罗素梗是深受全球喜爱的代表性小型工作犬，广泛出现在各类影视作品中。作为最初为猎狐而繁殖的梗犬，它们拥有惊人的体能和极高的智商，如果缺乏足够的运动和智力刺激，极易产生压力过大或破坏性行为。此外，其密实的双层被毛需要常年进行梳理以防掉毛，而喜欢高高跳跃的习性也要求主人格外关注其膝关节（髌骨）健康。本指南将解析杰克罗素梗的本能语言信号，并分享释放无限体力与维护健康的3阶段日常护理流程。",
-                "whyTitle": "杰克罗素梗的本能：专注凝视与邀玩信号",
-                "whyDesc": "作为工作梗犬的后裔，杰克罗素梗展现出极强的专注力和清晰的表达能力。目不转睛地凝视目标并歪头，代表着强烈的猎奇心理与工作专注状态；而低前躯、高频摇尾的“邀玩姿态（Play Bow）”，则是它们释放积攒精力、渴望与主人互动的明确信号。",
-                "body_signals": [
-                    {
-                        "name": "目不转睛地凝视 (Intense Staring & Focus)",
-                        "meaning": "因声音或移动物体触发了捕猎本能与工作专注力，正处于高度集中状态，等待主人的下一个指令。",
-                        "response": "通过投掷玩具或下达简单的服从指令，将集中的精力转化为积极有益的活动。"
-                    },
-                    {
-                        "name": "前躯下伏摇尾 (Play Bow)",
-                        "meaning": "调用全身动作发出的游戏邀请，代表其心理活力与精力达到顶峰，属于健康的社交表达。",
-                        "response": "开展拔河游戏或飞盘接力等有规则的高强度运动，以满足其本能需求。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：高强度有氧运动与营养均衡的高蛋白饮食",
-                        "text": "进行至少45分钟以上的捡球、间歇跑步等户外高强度运动，消耗夜间积累的精力，并喂食富含优质蛋白质的食物以维持肌肉。"
-                    },
-                    {
-                        "name": "中午：嗅觉寻宝智力刺激与双层毛发梳理",
-                        "text": "使用益智玩具或嗅觉藏食游戏满足其高智商需求，提升大脑疲劳度；同时使用针梳清理浮毛，预防严重掉毛。"
-                    },
-                    {
-                        "name": "晚上：膝关节检查与平静放松训练",
-                        "text": "检查因跳跃易受冲击的膝关节（髌骨状态）与脚掌，并在安静的环境中引导其平静休息，养成良好的作息习惯。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "公寓或小户型房屋适合饲养杰克罗素梗吗？",
-                        "answer": "可以饲养，但前提是每天必须保证1-2小时以上的高强度户外运动和脑力消耗活动。若运动量不足，它们可能会通过吠叫、咬东西等行为来宣泄挫败感。"
-                    },
-                    {
-                        "question": "短毛（Smooth coat）杰克罗素梗的掉毛量会比较少吗？",
-                        "answer": "不会。无论被毛类型是短毛、碎毛还是粗毛，杰克罗素梗都拥有密实的双层被毛。短毛型的硬质短毛极易扎入衣服或地毯中，因此每周至少需要梳理2-3次。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Guía de gestión de energía del Jack Russell Terrier y rutina diaria de 3 pasos para muda y estimulación mental",
-                "description": "Cuidado esencial para el inteligente y enérgico Jack Russell Terrier. Aprenda a satisfacer sus altas necesidades de ejercicio, gestionar la muda de su doble capa y proteger sus articulaciones.",
-                "authority": "Estándares de Raza del American Kennel Club (AKC) y Guías de Salud Canina de la British Veterinary Association (BVA)",
-                "profile": {
-                    "breed": "Jack Russell Terrier",
-                    "lifespan": "12 ~ 14 años",
-                    "sleep_pattern": "12 ~ 14 horas (adultos: descanso profundo tras ejercicio intenso)",
-                    "temperament": "Enérgico, muy inteligente, intrépido, curioso, leal"
-                },
-                "intro": "El Jack Russell Terrier es uno de los perros de trabajo de tamaño pequeño más queridos del mundo, famoso por su presencia en el cine y la televisión. Criados originalmente para la caza del zorro, poseen una resistencia física extraordinaria y una gran inteligencia. Sin suficiente ejercicio y estimulación mental, pueden desarrollar problemas de conducta derivados del estrés. Su denso pelaje doble requiere una gestión constante de la muda, mientras que su hábito de saltar exige un cuidado preventivo de las articulaciones y las patelas. En esta guía, analizamos sus señales corporales e instintivas y compartimos una rutina de 3 pasos para el bienestar integral.",
-                "whyTitle": "Instintos del Jack Russell Terrier: Enfoque intenso y señales de juego",
-                "whyDesc": "Como descendientes de terriers de trabajo, muestran una gran capacidad de concentración y una comunicación expresiva. Mirar fijamente a un objetivo ladeando la cabeza indica alta curiosidad e instinto de trabajo. Por el contrario, bajar el tren delantero mientras agitan la cola con rapidez—postura conocida como 'Play Bow'—es una clara señal de que necesitan liberar energía a través del juego.",
-                "body_signals": [
-                    {
-                        "name": "Mirada fija y concentrada (Intense Staring)",
-                        "meaning": "Activación del instinto de caza o enfoque de trabajo ante un sonido o movimiento, esperando la orden del guía.",
-                        "response": "Canalice esa energía lanzando una pelota o iniciando ejercicios de obediencia básica."
-                    },
-                    {
-                        "name": "Inclinación de juego (Play Bow)",
-                        "meaning": "Invitación corporal completa al juego, que indica máxima vitalidad y un deseo saludable de interactuar.",
-                        "response": "Organice juegos estructurados y de alta intensidad como el disco o el estiramiento de cuerda para satisfacer su impulso."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Ejercicio aeróbico de alta intensidad y dieta rica en proteínas",
-                        "text": "Dedique al menos 45 minutos a carreras o lanzamientos de pelota para quemar la energía acumulada, seguido de una comida rica en proteínas."
-                    },
-                    {
-                        "name": "Tarde: Juegos de estimulación mental y cepillado de doble capa",
-                        "text": "Desafíe su inteligencia con juguetes rompecabezas o juegos de olfato, y cepille su manto con un cepillo carda para eliminar el pelo muerto."
-                    },
-                    {
-                        "name": "Noche: Revisión articular y entrenamiento de relajación",
-                        "text": "Inspeccione las rodillas (posible estrés en la rótula) y las almohadillas tras los saltos, facilitando un entorno tranquilo para el descanso."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Puede un Jack Russell Terrier vivir bien en un piso o apartamento?",
-                        "answer": "Sí, siempre que se satisfagan plenamente sus necesidades diarias de ejercicio y estimulación. Requieren entre 1 y 2 horas diarias de actividad física e intelectual; de lo contrario, la frustración puede provocar ladridos excesivos o conductas destructivas."
-                    },
-                    {
-                        "question": "¿Los Jack Russell de pelo corto (Smooth) sueltan menos pelo?",
-                        "answer": "No. Independientemente del tipo de pelo (corto, roto o duro), poseen un manto doble muy denso. Los pelos cortos y rígidos se incrustan fácilmente en la ropa y tapicerías, por lo que el cepillado 2 o 3 veces por semana es imprescindible."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Guide de gestion de l'énergie du Jack Russell Terrier et routine quotidienne en 3 étapes pour le pelage et l'enrichissement mental",
-                "description": "Soins essentiels pour le Jack Russell Terrier, chien de travail vif et intelligent. Découvrez comment satisfaire son besoin d'exercice intense, gérer la mue du double pelage et protéger ses articulations.",
-                "authority": "Normes de race de l'American Kennel Club (AKC) et directives de santé canine de la British Veterinary Association (BVA)",
-                "profile": {
-                    "breed": "Jack Russell Terrier",
-                    "lifespan": "12 ~ 14 ans",
-                    "sleep_pattern": "12 ~ 14 heures (adultes : repos profond après un effort intense)",
-                    "temperament": "Dynamique, très intelligent, intrépide, curieux, loyal"
-                },
-                "intro": "Le Jack Russell Terrier est l'un des petits chiens de travail les plus populaires au monde, popularisé par le cinéma et la télévision. Sélectionné à l'origine pour la chasse au renard, il possède une endurance exceptionnelle et une vive intelligence. Sans un exercice physique soutenu et des activités stimulantes, il peut rapidement développer du stress ou des comportements indésirables. De plus, son pelage double très dense nécessite un brossage régulier pour limiter la perte de poils, tandis que sa propension à sauter exige un suivi attentif des articulations. Dans ce guide, décrypte ses signaux instinctifs et vous propose une routine en 3 étapes pour canaliser son énergie et préserver sa santé.",
-                "whyTitle": "Instincts du Jack Russell Terrier : Regard fixe et signaux de jeu",
-                "whyDesc": "Digne héritier des terriers de travail, le Jack Russell fait preuve d'une concentration remarquable et d'une communication claire. Un regard fixe dirigé vers une cible en penchant la tête indique une grande curiosité et un état de concentration. En revanche, l'abaissement de l'avant-train accompagné de mouvements rapides de la queue ('Play Bow') traduit le besoin impérieux d'évacuer son surplus d'énergie par le jeu.",
-                "body_signals": [
-                    {
-                        "name": "Regard fixe et soutenu (Intense Staring)",
-                        "meaning": "Instinct de chasse ou de travail stimulé par un bruit ou un mouvement, le chien étant en attente du prochain ordre de son maître.",
-                        "response": "Redirigez cette concentration de manière positive en lui lançant une balle ou en effectuant des exercices d'obéissance."
-                    },
-                    {
-                        "name": "Posture d'invitation au jeu (Play Bow)",
-                        "meaning": "Signale une grande vitalité et le désir d'interagir par une posture corporelle dynamique et saine.",
-                        "response": "Proposez-lui une activité physique structurée et intense (frisbee, lancer de balle) pour satisfaire son besoin de dépense."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Exercice aérobique intense et repas riche en protéines",
-                        "text": "Consacrez au moins 45 minutes à des activités soutenues (course, lancer de balle) pour éliminer l'énergie accumulée, puis donnez-lui un repas protéiné."
-                    },
-                    {
-                        "name": "Après-midi : Jeux d'enrichissement mental et brossage du pelage",
-                        "text": "Proposez des jouets d'occupation ou des jeux de recherche olfactive pour fatiguer sainement son esprit, et utilisez une brosse slicker pour retirer le sous-poil mort."
-                    },
-                    {
-                        "name": "Soir : Examen des articulations et retour au calme",
-                        "text": "Vérifiez l'état de ses rotules et de ses coussinets sollicités par les sauts, puis favorisez une ambiance paisible pour l'inciter à se reposer."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Le Jack Russell Terrier peut-il vivre en appartement ?",
-                        "answer": "Oui, mais à condition de lui offrir chaque jour 1 à 2 heures d'exercice physique intense et de jeux de réflexion. En cas de manque d'activité, la frustration peut se traduire par des aboiements intempestifs ou du mâtinage destructeur."
-                    },
-                    {
-                        "question": "Un Jack Russell à poil lisse (Smooth) perd-il moins de poils ?",
-                        "answer": "Non. Quel que soit le type de poil (lisse, broken ou dur), il possède un double pelage dense. Les poils lisses, courts et drus, s'insèrent facilement dans les tissus. Un brossage 2 à 3 fois par semaine demeure donc indispensable."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Jack Russell Terrier Energiemanagement-Leitfaden und 3-Schritt-Tagesroutine für Fellpflege & geistige Auslastung",
-                "description": "Essenzielle Pflege für den intelligenten und hochenergetischen Jack Russell Terrier. Erfahren Sie, wie Sie seinen hohen Bewegungsdrang stillen, den Fellwechsel der Unterwolle pflegen und die Gelenkgesundheit schützen.",
-                "authority": "American Kennel Club (AKC) Rassestandards und Hundegesundheitsrichtlinien der British Veterinary Association (BVA)",
-                "profile": {
-                    "breed": "Jack Russell Terrier",
-                    "lifespan": "12 ~ 14 Jahre",
-                    "sleep_pattern": "12 ~ 14 Stunden (Erwachsene - tiefe Ruhephase nach Anstrengung)",
-                    "temperament": "Energetisch, hochintelligent, furchtlos, neugierig, loyal"
-                },
-                "intro": "Der Jack Russell Terrier zählt zu den weltweit bekanntesten und beliebtesten kleinen Gebrauchshunden. Ursprünglich für die Fuchsjagd gezüchtet, zeichnet er sich durch außerordentliche Ausdauer und eine schnelle Auffassungsgabe aus. Fehlt es an ausreichender körperlicher und geistiger Auslastung, neigt er schnell zu stressbedingten Verhaltensauffälligkeiten. Zudem erfordert sein dichtes doppeltes Fell eine regelmäßige Pflege während des Fellwechsels, während seine Sprungfreude eine vorausschauende Kontrolle der Kniegelenke (Patella) verlangt. In diesem Ratgeber die korrekte Deutung seiner Körpersprache sowie eine 3-Schritt-Routine für Wohlbefinden und Auslastung vor.",
-                "whyTitle": "Instinkte des Jack Russell Terriers: Fokussierter Blick und Spielaufforderung",
-                "whyDesc": "Als Nachkommen passionierter Jagdterrier zeigen sie eine hohe Konzentrationsfähigkeit und klare Ausdrücke. Das intensive Fixieren eines Objekts mit schief gelegtem Kopf signalisiert Neugier und Arbeitsbereitschaft. Das Absenken des Vorderkörpers bei gleichzeitigem schnellen Rutenwedeln ('Play Bow') ist hingegen ein eindeutiges Zeichen dafür, dass aufgestaute Energie im Spiel entladen werden möchte.",
-                "body_signals": [
-                    {
-                        "name": "Intensives Fixieren (Intense Staring)",
-                        "meaning": "Jagd- oder Arbeitsfokus wird durch ein Geräusch oder eine Bewegung aktiviert; der Hund wartet auf das nächste Signal des Halters.",
-                        "response": "Lenken Sie die Energie positiv um, indem Sie ein Spielzeug werfen oder eine Gehorsamsübung einbauen."
-                    },
-                    {
-                        "name": "Vorderkörper-Tiefstellung (Play Bow)",
-                        "meaning": "Eine körpersprachliche Spielaufforderung, die höchste mentale Vitalität und den Wunsch nach gemeinsamer Aktivität zeigt.",
-                        "response": "Bieten Sie ein strukturiertes, intensives Spiel wie Apportieren oder Frisbee an, um seinen Bewegungsdrang zu stillen."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Intensives Ausdauertraining & proteinreiche Nahrung",
-                        "text": "Planen Sie mindestens 45 Minuten für Ballspiele oder Joggen ein, um die Energie der Nacht abzubauen, und füttern Sie anschließend eine proteinreiche Mahlzeit."
-                    },
-                    {
-                        "name": "Nachmittag: Geistige Auslastung & Fellpflege der Unterwolle",
-                        "text": "Nutzen Sie Suchspiele oder Denkspielzeuge zur mentalen Ermüdung und bürsten Sie abgestorbene Unterwolle mit einer Zupfbürste aus."
-                    },
-                    {
-                        "name": "Abend: Gelenkkontrolle & ruhiges Entspannungstraining",
-                        "text": "Überprüfen Sie Kniegelenke und Pfotenballen nach Belsatungen durch Sprünge und schaffen Sie eine ruhige Atmosphäre für die Erholung."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Kann ein Jack Russell Terrier in einer Wohnung gehalten werden?",
-                        "answer": "Ja, sofern täglich 1 bis 2 Stunden für intensiven Auslauf und geistige Beschäftigung eingeplant werden. Bei Unterforderung neigen sie zu Unruhe, Bellen oder unerwünschtem Kauen."
-                    },
-                    {
-                        "question": "Haaren glatthaarige (Smooth) Jack Russell Terrier weniger?",
-                        "answer": "Nein. Unabhängig vom Felltyp (glatt, broken, rau) besitzen sie dichte Unterwolle. Kurze, feste Haare bohren sich oft hartnäckig in Textilien. Regelmäßiges Bürsten 2- bis 3-mal pro Woche ist daher unerlässlich."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Guia de gestão de energia do Jack Russell Terrier e rotina diária de 3 passos para muda de pelo e estímulo mental",
-                "description": "Cuidados essenciais para o inteligente e altamente enérgico Jack Russell Terrier. Saiba como satisfazer as suas elevadas necessidades de exercício, gerir a queda da dupla pelagem e proteger as articulações.",
-                "authority": "Padrões de Raça do American Kennel Club (AKC) e Diretrizes de Saúde Canina da British Veterinary Association (BVA)",
-                "profile": {
-                    "breed": "Jack Russell Terrier",
-                    "lifespan": "12 ~ 14 anos",
-                    "sleep_pattern": "12 ~ 14 horas (adultos: descanso profundo após atividade intensa)",
-                    "temperament": "Enérgico, altamente inteligente, destemido, curioso, leal"
-                },
-                "intro": "O Jack Russell Terrier é uma das raças de trabalho de porte pequeno mais populares do mundo. Criados originalmente para a caça à raposa, possuem uma resistência física notável e grande vivacidade mental. A ausência de estímulos adequados pode levar rapidamente a comportamentos indesejados derivados do stresse. A sua pelagem dupla e densa exige uma escovagem regular para controlar a queda de pelo, enquanto a sua inclinação para saltar requer cuidados preventivos com as articulações e patelas. Neste guia, analisamos os seus sinais instintivos e partilhamos uma rotina de 3 passos para libertar energia e manter a saúde diária.",
-                "whyTitle": "Instintos do Jack Russell Terrier: Foco intenso e sinais de convite ao jogo",
-                "whyDesc": "Como descendentes de terriers de trabalho, demonstram uma capacidade de concentração elevada e uma comunicação muito clara. Olhar fixamente para um objetivo inclinando a cabeça indica curiosidade e impulso de trabalho. Já a postura de abaixar o tronco anterior enquanto abanam a cauda vigorosamente ('Play Bow') é um sinal claro de que precisam de libertar energia acumulada.",
-                "body_signals": [
-                    {
-                        "name": "Olhar fixo e focado (Intense Staring)",
-                        "meaning": "Ativação do instinto de caça ou trabalho perante um som ou movimento, aguardando o comando do tutor.",
-                        "response": "Canalize esse foco de forma positiva lançando uma bola ou pedindo um comando de obediência simples."
-                    },
-                    {
-                        "name": "Postura de vénia de jogo (Play Bow)",
-                        "meaning": "Convite corporal direto para brincar, sinalizando pico de vitalidade e desejo saudável de interação.",
-                        "response": "Proporcione atividades estruturadas e de alta intensidade, como buscar a bola ou frisbee, para satisfazer essa necessidade."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Exercício aeróbico intenso e refeição rica em proteína",
-                        "text": "Realize pelo menos 45 minutos de corrida ou brincadeiras de busca para gastar a energia acumulada, oferecendo em seguida uma alimentação equilibrada."
-                    },
-                    {
-                        "name": "Tarde: Estímulo mental com jogos de faro e escovagem",
-                        "text": "Utilize brinquedos interativos ou jogos de busca pelo cheiro para cansar o cérebro, e passe uma escova slicker para remover o subpelo morto."
-                    },
-                    {
-                        "name": "Noite: Inspeção articular e treino de relaxamento",
-                        "text": "Verifique os joelhos e as almofadas plantares após os saltos do dia, criando um ambiente tranquilo para promover um descanso reparador."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Um Jack Russell Terrier pode viver num apartamento?",
-                        "answer": "Sim, desde que as suas necessidades diárias de exercício físico e mental sejam totalmente supridas. Requerem entre 1 a 2 horas por dia de atividade intensa; caso contrário, a frustração pode resultar em ladroes excessivos ou destruição de objetos."
-                    },
-                    {
-                        "question": "Os Jack Russell de pelo curto (Smooth) largam menos pelo?",
-                        "answer": "Não. Independentemente do tipo de pelo (curto, quebrado ou duro), possuem uma pelagem dupla densa. Os pelos curtos e rígidos caem e prendem-se facilmente em tecidos, tornando indispensável a escovagem 2 a 3 vezes por semana."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Panduan Manajemen Energi Jack Russell Terrier dan Rutinitas Harian 3 Langkah Perawatan Bulu & Stimulasi Mental",
-                "description": "Perawatan esensial untuk Jack Russell Terrier yang cerdas dan penuh energi. Pelajari cara memenuhi kebutuhan olahraga tinggi, mengelola kerontokan bulu ganda, dan menjaga kesehatan sendi.",
-                "authority": "Standar Ras American Kennel Club (AKC) dan Panduan Kesehatan Anjing British Veterinary Association (BVA)",
-                "profile": {
-                    "breed": "Jack Russell Terrier",
-                    "lifespan": "12 ~ 14 tahun",
-                    "sleep_pattern": "12 ~ 14 jam (anjing dewasa - istirahat nyenyak setelah aktivitas fisik)",
-                    "temperament": "Penuh energi, sangat cerdas, pemberani, serba ingin tahu, setia"
-                },
-                "intro": "Jack Russell Terrier adalah salah satu ras anjing pekerja berukuran kecil yang paling dicintai di dunia. Awalnya dibiakkan untuk berburu rubah, mereka memiliki stamina luar biasa dan kecerdasan yang tajam. Tanpa olahraga harian dan stimulasi mental yang cukup, mereka mudah mengalami stres yang memicu perilaku destruktif. Bulu ganda mereka yang lebat memerlukan perawatan teratur untuk mengendalikan kerontokan, sementara kebiasaan melompat tinggi membutuhkan perhatian pada kesehatan sendi dan tempurung lutut (patela). Dalam panduan ini, kami mengulas bahasa tubuh insting mereka dan membagikan 3 langkah rutinitas harian untuk merawat stamina serta kesehatan mereka secara menyeluruh.",
-                "whyTitle": "Insting Jack Russell Terrier: Fokus Tajam dan Sinyal Ajakan Bermain",
-                "whyDesc": "Sebagai keturunan anjing pekerja, Jack Russell menunjukkan tingkat fokus dan komunikasi yang sangat jelas. Menatap objek secara intens sambil memiringkan kepala menandakan rasa ingin tahu dan fokus kerja yang tinggi. Sebaliknya, menurunkan tubuh bagian depan sambil mengibaskan ekor dengan cepat ('Play Bow') adalah sinyal jelas bahwa mereka ingin menyalurkan energi melalui permainan.",
-                "body_signals": [
-                    {
-                        "name": "Menatap Intens & Fokus (Intense Staring)",
-                        "meaning": "Naluri berburu atau fokus kerja terpicu oleh suara atau gerakan, di mana anjing sedang menantikan perintah berikutnya dari pemilik.",
-                        "response": "Arahkan fokus tersebut secara positif dengan melempar bola atau memberikan perintah kepatuhan sederhana."
-                    },
-                    {
-                        "name": "Posturan Menunduk Bermain (Play Bow)",
-                        "meaning": "Isyarat tubuh penuh untuk mengajak bermain, menandakan vitalitas mental puncak dan keinginan untuk berinteraksi.",
-                        "response": "Sediakan permainan berintensitas tinggi yang terstruktur seperti lempar tangkap bola atau frisbee untuk memenuhi kebutuhan aktivitasnya."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Olahraga Aerobik Intensitas Tinggi & Makanan Tinggi Protein",
-                        "text": "Lakukan aktivitas luar ruangan minimal 45 menit seperti lempar bola atau lari untuk membakar energi yang menumpuk, lalu berikan makanan kaya protein."
-                    },
-                    {
-                        "name": "Siang: Stimulasi Otak Melalui Mainan Edukasi & Menyisir Bulu Ganda",
-                        "text": "Gunakan mainan puzzle atau permainan penciuman untuk melatih otak, serta sisir bulu dengan sisir slicker untuk mengangkat bulu halus yang rontok."
-                    },
-                    {
-                        "name": "Malam: Pemeriksaan Sendi & Latihan Relaksasi",
-                        "text": "Periksa kondisi lutut dan telapak kaki setelah beraktivitas seharian, lalu ciptakan suasana tenang agar anjing dapat beristirahat dengan nyaman."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apakah Jack Russell Terrier cocok dipelihara di apartemen?",
-                        "answer": "Bisa, asalkan kebutuhan olahraga fisik dan stimulasi mental harian mereka terpenuhi sepenuhnya. Mereka membutuhkan 1 hingga 2 jam aktivitas intensif setiap hari; jika kurang, rasa bosan dapat memicu gonggongan berlebihan atau perilaku menggigit barang."
-                    },
-                    {
-                        "question": "Apakah Jack Russell tipe bulu pendek (Smooth coat) rontoknya lebih sedikit?",
-                        "answer": "Tidak. Apa pun tipe bulunya (smooth, broken, atau rough), mereka memiliki lapisan bulu ganda yang lebat. Bulu pendek yang kaku justru mudah menancap pada pakaian atau karpet, sehingga menyisir bulu 2–3 kali seminggu tetap wajib dilakukan."
-                    }
-                ]
-            }
+  "jack-russell-terrier-care": {
+    "pubDate": "2026-05-20",
+    "updatedDate": "2026-05-20",
+    "locales": {
+      "ko": {
+        "title": "잭 러셀 테리어 무한 체력 케어법과 털 빠짐·지적 자극 3단계 일상 루틴",
+        "description": "영리하고 에너지가 넘치는 소형 작업견 잭 러셀 테리어. 넘치는 운동량 요구치를 충족하고, 이중모 털 빠짐 관리 및 슬개골 건강을 지키는 3단계 가이드라인을 제공합니다.",
+        "authority": "미국 켄넬 클럽(AKC) 품종 표준 및 영국 수의사협회(BVA) 반려견 건강 가이드라인",
+        "profile": {
+          "breed": "잭 러셀 테리어 (Jack Russell Terrier)",
+          "lifespan": "12 ~ 14년",
+          "sleep_pattern": "12 ~ 14시간 (성견 기준 - 고강도 운동 후 깊은 수면)",
+          "temperament": "에너제틱함, 극도로 영리함, 대담함, 호기심 많음, 충성스러움"
         },
-        "heroImage": "/images/blog/jack_russell_terrier_care.webp"
-    }
+        "intro": "잭 러셀 테리어는 영화와 미디어를 통해 전 세계적으로 큰 사랑을 받는 대표적인 소형 작업견입니다. 본래 여우 사냥을 위해 개량된 테리어 종 특유의 강인한 체력과 높은 지능을 지니고 있어, 적절한 운동과 지적 자극이 주어지지 않으면 스트레스 행동이나 문제 행동을 보이기 쉽습니다. 또한 빽빽한 이중모 구조로 인해 사계절 털 빠짐 관리가 필수적이며, 뛰어내리는 습성으로 인한 슬개골 및 관절 보호가 중요합니다. 이번 가이드에서는 잭 러셀 테리어의 본능적 언어 신호를 분석하고, 무한 체력 발산과 건강 관리를 위한 3단계 일상 루틴을 공개합니다.",
+        "whyTitle": "잭 러셀 테리어의 본능: 시선 집중과 놀이 요청 시그널",
+        "whyDesc": "잭 러셀 테리어는 작업견의 후예답게 강한 집중력과 또렷한 표현력을 보여줍니다. 목표물이나 보호자를 뚫어지게 바라보며 고개를 갸웃거리는 행위는 강한 호기심과 작업 집중 상태를 뜻합니다. 반면 앞다리를 낮추고 꼬리를 격렬하게 흔드는 '플레이 바우(Play Bow)' 동작은 쌓인 에너지를 발산하고 소통하고 싶어 하는 명확한 신호입니다.",
+        "body_signals": [
+          {
+            "name": "뚫어지게 주시하기 (Intense Staring & Focus)",
+            "meaning": "소리나 움직임에 사냥 본능 및 작업 집중력이 발동한 상태로, 보호자의 다음 명령이나 신호를 기다리는 고도의 집중 신호입니다.",
+            "response": "장난감 던지기나 간단한 복종 훈련 명령을 주어 집중된 에너지를 긍정적인 활동으로 전환해 줍니다."
+          },
+          {
+            "name": "앞다리를 숙이고 꼬리치기 (Play Bow)",
+            "meaning": "몸 전신을 활용해 놀이를 요청하는 신호로, 심리적 활력과 에너지가 최고조에 달했을 때 나오는 건강한 소통 표출입니다.",
+            "response": "터그 놀이나 원반던지기 등 규칙이 있는 고강도 운동을 제공하여 욕구를 충족시켜 줍니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 고강도 유산소 운동 및 균형 잡힌 단백질 식사",
+            "text": "최소 45분 이상의 공 던지기, 인터벌 러닝 등 고강도 야외 운동을 통해 밤새 축적된 에너지를 소모시키고, 근육 유지에 필요한 단백질 중심 식사를 제공합니다."
+          },
+          {
+            "name": "낮: 노즈워크를 통한 지적 자극 및 이중모 브러싱",
+            "text": "퍼즐 토이나 냄새 찾기 놀이로 높은 지능을 충족시켜 뇌 피로도를 높여주고, 슬리커 브러시를 사용해 죽은 털을 제거하여 털 빠짐을 예방합니다."
+          },
+          {
+            "name": "밤: 슬개골·관절 건강 점검 및 일관된 이완 훈련",
+            "text": "높은 곳에서 뛰어내리는 습성으로 자극받기 쉬운 무릎 관절(슬개골 탈구 여부)과 발바닥을 점검하고, 조용한 환경에서 차분하게 휴식하도록 도옵니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "아파트나 작은 주택에서도 잭 러셀 테리어를 키울 수 있나요?",
+            "answer": "키울 수는 있지만 매일 1~2시간 이상의 고강도 야외 운동과 뇌를 쓰는 풍부화 활동이 필수적입니다. 운동량이 부족하면 짖음, 갉아먹기 등 욕구 불만 행동이 나타날 수 있으므로 활동량을 철저히 보장해야 합니다."
+          },
+          {
+            "question": "단모(Smooth coat) 형태의 잭 러셀 테리어는 털이 적게 빠지나요?",
+            "answer": "그렇지 않습니다. 잭 러셀 테리어는 털 길이에 상관없이(단모, 브로큰, 러프) 모질이 빽빽한 이중모를 가지고 있어 단모종 역시 짧고 뾰족한 죽은 털이 옷이나 카펫에 많이 박혀 빠집니다. 주 2~3회 이상의 정기적인 브러싱이 필수입니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Jack Russell Terrier Energy Management Guide and 3-Step Care Routine for Mental Enrichment & Shedding",
+        "description": "Essential care for the intelligent, highly energetic Jack Russell Terrier. Learn how to satisfy their extreme exercise needs, manage double-coat shedding, and maintain joint health.",
+        "authority": "American Kennel Club (AKC) Breed Standards and British Veterinary Association (BVA) Canine Health Guidelines",
+        "profile": {
+          "breed": "Jack Russell Terrier",
+          "lifespan": "12 - 14 Years",
+          "sleep_pattern": "12 - 14 Hours (Adults - Deep Rest After Intense Activity)",
+          "temperament": "Energetic, Highly Intelligent, Fearless, Curious, Loyal"
+        },
+        "intro": "The Jack Russell Terrier is one of the most beloved small working breeds worldwide, made famous through film and media. Originally bred for fox hunting, they possess extraordinary stamina and keen intelligence. Without adequate physical exercise and mental stimulation, they can easily develop stress-induced behavioral issues. Their dense double coat also requires consistent shedding management, while their energetic jumping tendencies necessitate proactive joint and patella care. In this guide, we analyze their instinctive body signals and reveal a 3-step homecare routine for stamina release and overall health.",
+        "whyTitle": "Jack Russell Terrier Instincts: Intense Focus and Play Invitation Signals",
+        "whyDesc": "As descendants of working terriers, Jack Russells display exceptional focus and expressive communication. Staring intently at a target or tilt-heading indicates high curiosity and working drive. Conversely, lowering their front quarters while wagging their tail rapidly—known as a 'Play Bow'—is a clear signal that they need to burn off excess energy through social play.",
+        "body_signals": [
+          {
+            "name": "Intense Staring & Focus",
+            "meaning": "Triggered by prey drive or environmental sounds, showing high engagement as they await their handler's next command or action.",
+            "response": "Channel this focused energy constructively by launching a ball or initiating a structured obedience command."
+          },
+          {
+            "name": "Play Bow (Front Quarters Lowered)",
+            "meaning": "A full-body invitation to play, signaling peak psychological vitality and a healthy desire for active engagement.",
+            "response": "Engage them in structured, high-intensity activities like fetch, frisbee, or tug games to fulfill their behavioral drive."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: High-Intensity Aerobic Exercise & High-Protein Diet",
+            "text": "Provide at least 45 minutes of vigorous outdoor activity such as fetch or interval running to burn stored energy, followed by a protein-rich meal for muscle recovery."
+          },
+          {
+            "name": "Afternoon: Mental Stimulation Games & Double-Coat Brushing",
+            "text": "Challenge their sharp brain with puzzle toys or scent-work games to promote mental fatigue, and brush their coat with a slicker brush to remove loose undercoat hair."
+          },
+          {
+            "name": "Evening: Joint Check & Calm Decompression Training",
+            "text": "Inspect their knees (checking for patellar stress) and paw pads after high-impact jumping, then transition them into a quiet environment to encourage calm resting habits."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Can a Jack Russell Terrier live happily in an apartment?",
+            "answer": "Yes, but only if their daily physical and mental needs are fully met. They require 1 to 2 hours of high-intensity exercise and brain games daily; otherwise, frustration can lead to excessive barking, digging, or destructive chewing."
+          },
+          {
+            "question": "Do smooth-coated Jack Russells shed less than rough-coated ones?",
+            "answer": "No. Regardless of coat type (smooth, broken, or rough), Jack Russells possess a dense double coat. Smooth-coated varieties shed short, stiff hairs that easily embed in fabrics, making regular brushing 2–3 times a week essential."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ジャックラッセルテリアの運動量ケアと抜け毛・知育の3ステップ日常ルーティン",
+        "description": "知性的でエネルギッシュな小型作業犬、ジャックラッセルテリア。豊富な運動量を満たし、ダブルコートの抜け毛ケアと関節の健康を守る3ステップガイドを解説します。",
+        "authority": "アメリカンケネルクラブ（AKC）犬種標準および英国獣医師会（BVA）愛犬健康ガイドライン",
+        "profile": {
+          "breed": "ジャックラッセルテリア (Jack Russell Terrier)",
+          "lifespan": "12 〜 14年",
+          "sleep_pattern": "12 〜 14時間 (成犬基準 - 激しい運動後の深い休息)",
+          "temperament": "エネルギッシュ、非常に賢い、大胆、好奇心旺盛、忠実"
+        },
+        "intro": "ジャックラッセルテリアは、映画やメディアを通じて世界中で愛されている小型作業犬の代表格です。もともとキツネ狩りのために作出されたテリア種特有の強い体力と高い知能を備えており、十分な運動と知的刺激が与えられないとストレス行動を起こしやすくなります。また、密生したダブルコートを持つため年間を通じた抜け毛対策が不可欠であり、高く跳び跳ねる習性による膝蓋骨（パテラ）や関節の保護も重要です。本日は本記事では、本能的なボディーサインの読み解きと、豊富な体力を発散させ健康を維持する3ステップ日常ルーティンをご紹介します。",
+        "whyTitle": "ジャックラッセルテリアの本能：集中した視線と遊びの誘いシグナル",
+        "whyDesc": "作業犬の血を引くジャックラッセルテリアは、強い集中力と明確な感情表現を見せます。対象をじっと見つめて首をかしげる動作は、強い好奇心と作業への集中状態を表しています。一方、前足を低く下げて尻尾を激しく振る「プレイバウ（おじぎのポーズ）」は、溜まったエネルギーを発散しコミュニケーションを取りたがっている明確なサインです。",
+        "body_signals": [
+          {
+            "name": "じっと見つめる (Intense Staring & Focus)",
+            "meaning": "音や動きに狩猟本能や作業への集中力が刺激された状態で、飼い主の次の指示や合図を待っている高度な集中サインです。",
+            "response": "ボール投げや簡単な服従訓練の指示を与え、集中したエネルギーをポジティブな活動へと切り替えてあげます。"
+          },
+          {
+            "name": "前足を下げて尻尾を振る (Play Bow)",
+            "meaning": "全身を使って遊びを要求するサインで、精神的活力とエネルギーが最高潮に達している健康なコミュニケーションの表れです。",
+            "response": "引っ張り合いっこやフリスビーなど、ルールのある高強度の運動を提供して欲求を満たしてあげます。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：高強度の有酸素運動とバランスの良い高タンパク食",
+            "text": "最低45分以上のボール遊びやインターバルランニングなどの野外運動で夜間に溜まったエネルギーを発散させ、筋肉維持に必要なタンパク質中心の食事を与えます。"
+          },
+          {
+            "name": "昼：ノーズワークによる知的刺激とダブルコートのブラッシング",
+            "text": "知育トイや宝探しゲームで高い知能を満たして脳の疲れを促し、スリッカーブラシを使用してアンダーコートの不要な毛を取り除き抜け毛を予防します。"
+          },
+          {
+            "name": "夜：関節・膝蓋骨のチェックと落ち着いたリラックス訓練",
+            "text": "ジャンプによって負担がかかりやすい膝関節（膝蓋骨脱臼の有無）や足裏を点検し、静かな環境で落ち着いて休めるよう誘導します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "マンションや狭い住宅でもジャックラッセルテリアを飼うことはできますか？",
+            "answer": "飼育は可能ですが、毎日1〜2時間以上の高強度の屋外運動と頭を使う知育活動が必須です。運動不足になると無駄吠えや噛みつきなどの問題行動が発生しやすいため、活動量の確保を徹底する必要があります。"
+          },
+          {
+            "question": "スムースコート（短毛）のジャックラッセルテリアは抜け毛が少ないですか？",
+            "answer": "いいえ、少ナクありません。被毛タイプ（スムース、ブロークン、ラフ）に関わらず密集したダブルコートを持っているため、短毛種であっても短く鋭い死毛が服やカーペットに刺さるように抜けます。週2〜3回以上の定期的なブラッシングが必須です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "杰克罗素梗精力管理指南与防掉毛·益智刺激3阶段日常护理流程",
+        "description": "针对聪慧且精力充沛的小型工作犬杰克罗素梗护理。学习如何满足其高强度的运动需求、管理双层毛发掉毛，并维护膝关节健康。",
+        "authority": "美国犬业俱乐部 (AKC) 犬种标准与英国兽医师协会 (BVA) 犬类健康指南",
+        "profile": {
+          "breed": "杰克罗素梗 (Jack Russell Terrier)",
+          "lifespan": "12 ~ 14年",
+          "sleep_pattern": "12 ~ 14小时 (成年犬 - 高强度运动后的深度休息)",
+          "temperament": "精力充沛、极度聪明、大胆、好奇心强、忠诚"
+        },
+        "intro": "杰克罗素梗是深受全球喜爱的代表性小型工作犬，广泛出现在各类影视作品中。作为最初为猎狐而繁殖的梗犬，它们拥有惊人的体能和极高的智商，如果缺乏足够的运动和智力刺激，极易产生压力过大或破坏性行为。此外，其密实的双层被毛需要常年进行梳理以防掉毛，而喜欢高高跳跃的习性也要求主人格外关注其膝关节（髌骨）健康。本指南将解析杰克罗素梗的本能语言信号，并分享释放无限体力与维护健康的3阶段日常护理流程。",
+        "whyTitle": "杰克罗素梗的本能：专注凝视与邀玩信号",
+        "whyDesc": "作为工作梗犬的后裔，杰克罗素梗展现出极强的专注力和清晰的表达能力。目不转睛地凝视目标并歪头，代表着强烈的猎奇心理与工作专注状态；而低前躯、高频摇尾的“邀玩姿态（Play Bow）”，则是它们释放积攒精力、渴望与主人互动的明确信号。",
+        "body_signals": [
+          {
+            "name": "目不转睛地凝视 (Intense Staring & Focus)",
+            "meaning": "因声音或移动物体触发了捕猎本能与工作专注力，正处于高度集中状态，等待主人的下一个指令。",
+            "response": "通过投掷玩具或下达简单的服从指令，将集中的精力转化为积极有益的活动。"
+          },
+          {
+            "name": "前躯下伏摇尾 (Play Bow)",
+            "meaning": "调用全身动作发出的游戏邀请，代表其心理活力与精力达到顶峰，属于健康的社交表达。",
+            "response": "开展拔河游戏或飞盘接力等有规则的高强度运动，以满足其本能需求。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：高强度有氧运动与营养均衡的高蛋白饮食",
+            "text": "进行至少45分钟以上的捡球、间歇跑步等户外高强度运动，消耗夜间积累的精力，并喂食富含优质蛋白质的食物以维持肌肉。"
+          },
+          {
+            "name": "中午：嗅觉寻宝智力刺激与双层毛发梳理",
+            "text": "使用益智玩具或嗅觉藏食游戏满足其高智商需求，提升大脑疲劳度；同时使用针梳清理浮毛，预防严重掉毛。"
+          },
+          {
+            "name": "晚上：膝关节检查与平静放松训练",
+            "text": "检查因跳跃易受冲击的膝关节（髌骨状态）与脚掌，并在安静的环境中引导其平静休息，养成良好的作息习惯。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "公寓或小户型房屋适合饲养杰克罗素梗吗？",
+            "answer": "可以饲养，但前提是每天必须保证1-2小时以上的高强度户外运动和脑力消耗活动。若运动量不足，它们可能会通过吠叫、咬东西等行为来宣泄挫败感。"
+          },
+          {
+            "question": "短毛（Smooth coat）杰克罗素梗的掉毛量会比较少吗？",
+            "answer": "不会。无论被毛类型是短毛、碎毛还是粗毛，杰克罗素梗都拥有密实的双层被毛。短毛型的硬质短毛极易扎入衣服或地毯中，因此每周至少需要梳理2-3次。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Guía de gestión de energía del Jack Russell Terrier y rutina diaria de 3 pasos para muda y estimulación mental",
+        "description": "Cuidado esencial para el inteligente y enérgico Jack Russell Terrier. Aprenda a satisfacer sus altas necesidades de ejercicio, gestionar la muda de su doble capa y proteger sus articulaciones.",
+        "authority": "Estándares de Raza del American Kennel Club (AKC) y Guías de Salud Canina de la British Veterinary Association (BVA)",
+        "profile": {
+          "breed": "Jack Russell Terrier",
+          "lifespan": "12 ~ 14 años",
+          "sleep_pattern": "12 ~ 14 horas (adultos: descanso profundo tras ejercicio intenso)",
+          "temperament": "Enérgico, muy inteligente, intrépido, curioso, leal"
+        },
+        "intro": "El Jack Russell Terrier es uno de los perros de trabajo de tamaño pequeño más queridos del mundo, famoso por su presencia en el cine y la televisión. Criados originalmente para la caza del zorro, poseen una resistencia física extraordinaria y una gran inteligencia. Sin suficiente ejercicio y estimulación mental, pueden desarrollar problemas de conducta derivados del estrés. Su denso pelaje doble requiere una gestión constante de la muda, mientras que su hábito de saltar exige un cuidado preventivo de las articulaciones y las patelas. En esta guía, analizamos sus señales corporales e instintivas y compartimos una rutina de 3 pasos para el bienestar integral.",
+        "whyTitle": "Instintos del Jack Russell Terrier: Enfoque intenso y señales de juego",
+        "whyDesc": "Como descendientes de terriers de trabajo, muestran una gran capacidad de concentración y una comunicación expresiva. Mirar fijamente a un objetivo ladeando la cabeza indica alta curiosidad e instinto de trabajo. Por el contrario, bajar el tren delantero mientras agitan la cola con rapidez—postura conocida como 'Play Bow'—es una clara señal de que necesitan liberar energía a través del juego.",
+        "body_signals": [
+          {
+            "name": "Mirada fija y concentrada (Intense Staring)",
+            "meaning": "Activación del instinto de caza o enfoque de trabajo ante un sonido o movimiento, esperando la orden del guía.",
+            "response": "Canalice esa energía lanzando una pelota o iniciando ejercicios de obediencia básica."
+          },
+          {
+            "name": "Inclinación de juego (Play Bow)",
+            "meaning": "Invitación corporal completa al juego, que indica máxima vitalidad y un deseo saludable de interactuar.",
+            "response": "Organice juegos estructurados y de alta intensidad como el disco o el estiramiento de cuerda para satisfacer su impulso."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Ejercicio aeróbico de alta intensidad y dieta rica en proteínas",
+            "text": "Dedique al menos 45 minutos a carreras o lanzamientos de pelota para quemar la energía acumulada, seguido de una comida rica en proteínas."
+          },
+          {
+            "name": "Tarde: Juegos de estimulación mental y cepillado de doble capa",
+            "text": "Desafíe su inteligencia con juguetes rompecabezas o juegos de olfato, y cepille su manto con un cepillo carda para eliminar el pelo muerto."
+          },
+          {
+            "name": "Noche: Revisión articular y entrenamiento de relajación",
+            "text": "Inspeccione las rodillas (posible estrés en la rótula) y las almohadillas tras los saltos, facilitando un entorno tranquilo para el descanso."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Puede un Jack Russell Terrier vivir bien en un piso o apartamento?",
+            "answer": "Sí, siempre que se satisfagan plenamente sus necesidades diarias de ejercicio y estimulación. Requieren entre 1 y 2 horas diarias de actividad física e intelectual; de lo contrario, la frustración puede provocar ladridos excesivos o conductas destructivas."
+          },
+          {
+            "question": "¿Los Jack Russell de pelo corto (Smooth) sueltan menos pelo?",
+            "answer": "No. Independientemente del tipo de pelo (corto, roto o duro), poseen un manto doble muy denso. Los pelos cortos y rígidos se incrustan fácilmente en la ropa y tapicerías, por lo que el cepillado 2 o 3 veces por semana es imprescindible."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Guide de gestion de l'énergie du Jack Russell Terrier et routine quotidienne en 3 étapes pour le pelage et l'enrichissement mental",
+        "description": "Soins essentiels pour le Jack Russell Terrier, chien de travail vif et intelligent. Découvrez comment satisfaire son besoin d'exercice intense, gérer la mue du double pelage et protéger ses articulations.",
+        "authority": "Normes de race de l'American Kennel Club (AKC) et directives de santé canine de la British Veterinary Association (BVA)",
+        "profile": {
+          "breed": "Jack Russell Terrier",
+          "lifespan": "12 ~ 14 ans",
+          "sleep_pattern": "12 ~ 14 heures (adultes : repos profond après un effort intense)",
+          "temperament": "Dynamique, très intelligent, intrépide, curieux, loyal"
+        },
+        "intro": "Le Jack Russell Terrier est l'un des petits chiens de travail les plus populaires au monde, popularisé par le cinéma et la télévision. Sélectionné à l'origine pour la chasse au renard, il possède une endurance exceptionnelle et une vive intelligence. Sans un exercice physique soutenu et des activités stimulantes, il peut rapidement développer du stress ou des comportements indésirables. De plus, son pelage double très dense nécessite un brossage régulier pour limiter la perte de poils, tandis que sa propension à sauter exige un suivi attentif des articulations. Dans ce guide, décrypte ses signaux instinctifs et vous propose une routine en 3 étapes pour canaliser son énergie et préserver sa santé.",
+        "whyTitle": "Instincts du Jack Russell Terrier : Regard fixe et signaux de jeu",
+        "whyDesc": "Digne héritier des terriers de travail, le Jack Russell fait preuve d'une concentration remarquable et d'une communication claire. Un regard fixe dirigé vers une cible en penchant la tête indique une grande curiosité et un état de concentration. En revanche, l'abaissement de l'avant-train accompagné de mouvements rapides de la queue ('Play Bow') traduit le besoin impérieux d'évacuer son surplus d'énergie par le jeu.",
+        "body_signals": [
+          {
+            "name": "Regard fixe et soutenu (Intense Staring)",
+            "meaning": "Instinct de chasse ou de travail stimulé par un bruit ou un mouvement, le chien étant en attente du prochain ordre de son maître.",
+            "response": "Redirigez cette concentration de manière positive en lui lançant une balle ou en effectuant des exercices d'obéissance."
+          },
+          {
+            "name": "Posture d'invitation au jeu (Play Bow)",
+            "meaning": "Signale une grande vitalité et le désir d'interagir par une posture corporelle dynamique et saine.",
+            "response": "Proposez-lui une activité physique structurée et intense (frisbee, lancer de balle) pour satisfaire son besoin de dépense."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Exercice aérobique intense et repas riche en protéines",
+            "text": "Consacrez au moins 45 minutes à des activités soutenues (course, lancer de balle) pour éliminer l'énergie accumulée, puis donnez-lui un repas protéiné."
+          },
+          {
+            "name": "Après-midi : Jeux d'enrichissement mental et brossage du pelage",
+            "text": "Proposez des jouets d'occupation ou des jeux de recherche olfactive pour fatiguer sainement son esprit, et utilisez une brosse slicker pour retirer le sous-poil mort."
+          },
+          {
+            "name": "Soir : Examen des articulations et retour au calme",
+            "text": "Vérifiez l'état de ses rotules et de ses coussinets sollicités par les sauts, puis favorisez une ambiance paisible pour l'inciter à se reposer."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Le Jack Russell Terrier peut-il vivre en appartement ?",
+            "answer": "Oui, mais à condition de lui offrir chaque jour 1 à 2 heures d'exercice physique intense et de jeux de réflexion. En cas de manque d'activité, la frustration peut se traduire par des aboiements intempestifs ou du mâtinage destructeur."
+          },
+          {
+            "question": "Un Jack Russell à poil lisse (Smooth) perd-il moins de poils ?",
+            "answer": "Non. Quel que soit le type de poil (lisse, broken ou dur), il possède un double pelage dense. Les poils lisses, courts et drus, s'insèrent facilement dans les tissus. Un brossage 2 à 3 fois par semaine demeure donc indispensable."
+          }
+        ]
+      },
+      "de": {
+        "title": "Jack Russell Terrier Energiemanagement-Leitfaden und 3-Schritt-Tagesroutine für Fellpflege & geistige Auslastung",
+        "description": "Essenzielle Pflege für den intelligenten und hochenergetischen Jack Russell Terrier. Erfahren Sie, wie Sie seinen hohen Bewegungsdrang stillen, den Fellwechsel der Unterwolle pflegen und die Gelenkgesundheit schützen.",
+        "authority": "American Kennel Club (AKC) Rassestandards und Hundegesundheitsrichtlinien der British Veterinary Association (BVA)",
+        "profile": {
+          "breed": "Jack Russell Terrier",
+          "lifespan": "12 ~ 14 Jahre",
+          "sleep_pattern": "12 ~ 14 Stunden (Erwachsene - tiefe Ruhephase nach Anstrengung)",
+          "temperament": "Energetisch, hochintelligent, furchtlos, neugierig, loyal"
+        },
+        "intro": "Der Jack Russell Terrier zählt zu den weltweit bekanntesten und beliebtesten kleinen Gebrauchshunden. Ursprünglich für die Fuchsjagd gezüchtet, zeichnet er sich durch außerordentliche Ausdauer und eine schnelle Auffassungsgabe aus. Fehlt es an ausreichender körperlicher und geistiger Auslastung, neigt er schnell zu stressbedingten Verhaltensauffälligkeiten. Zudem erfordert sein dichtes doppeltes Fell eine regelmäßige Pflege während des Fellwechsels, während seine Sprungfreude eine vorausschauende Kontrolle der Kniegelenke (Patella) verlangt. In diesem Ratgeber die korrekte Deutung seiner Körpersprache sowie eine 3-Schritt-Routine für Wohlbefinden und Auslastung vor.",
+        "whyTitle": "Instinkte des Jack Russell Terriers: Fokussierter Blick und Spielaufforderung",
+        "whyDesc": "Als Nachkommen passionierter Jagdterrier zeigen sie eine hohe Konzentrationsfähigkeit und klare Ausdrücke. Das intensive Fixieren eines Objekts mit schief gelegtem Kopf signalisiert Neugier und Arbeitsbereitschaft. Das Absenken des Vorderkörpers bei gleichzeitigem schnellen Rutenwedeln ('Play Bow') ist hingegen ein eindeutiges Zeichen dafür, dass aufgestaute Energie im Spiel entladen werden möchte.",
+        "body_signals": [
+          {
+            "name": "Intensives Fixieren (Intense Staring)",
+            "meaning": "Jagd- oder Arbeitsfokus wird durch ein Geräusch oder eine Bewegung aktiviert; der Hund wartet auf das nächste Signal des Halters.",
+            "response": "Lenken Sie die Energie positiv um, indem Sie ein Spielzeug werfen oder eine Gehorsamsübung einbauen."
+          },
+          {
+            "name": "Vorderkörper-Tiefstellung (Play Bow)",
+            "meaning": "Eine körpersprachliche Spielaufforderung, die höchste mentale Vitalität und den Wunsch nach gemeinsamer Aktivität zeigt.",
+            "response": "Bieten Sie ein strukturiertes, intensives Spiel wie Apportieren oder Frisbee an, um seinen Bewegungsdrang zu stillen."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Intensives Ausdauertraining & proteinreiche Nahrung",
+            "text": "Planen Sie mindestens 45 Minuten für Ballspiele oder Joggen ein, um die Energie der Nacht abzubauen, und füttern Sie anschließend eine proteinreiche Mahlzeit."
+          },
+          {
+            "name": "Nachmittag: Geistige Auslastung & Fellpflege der Unterwolle",
+            "text": "Nutzen Sie Suchspiele oder Denkspielzeuge zur mentalen Ermüdung und bürsten Sie abgestorbene Unterwolle mit einer Zupfbürste aus."
+          },
+          {
+            "name": "Abend: Gelenkkontrolle & ruhiges Entspannungstraining",
+            "text": "Überprüfen Sie Kniegelenke und Pfotenballen nach Belsatungen durch Sprünge und schaffen Sie eine ruhige Atmosphäre für die Erholung."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Kann ein Jack Russell Terrier in einer Wohnung gehalten werden?",
+            "answer": "Ja, sofern täglich 1 bis 2 Stunden für intensiven Auslauf und geistige Beschäftigung eingeplant werden. Bei Unterforderung neigen sie zu Unruhe, Bellen oder unerwünschtem Kauen."
+          },
+          {
+            "question": "Haaren glatthaarige (Smooth) Jack Russell Terrier weniger?",
+            "answer": "Nein. Unabhängig vom Felltyp (glatt, broken, rau) besitzen sie dichte Unterwolle. Kurze, feste Haare bohren sich oft hartnäckig in Textilien. Regelmäßiges Bürsten 2- bis 3-mal pro Woche ist daher unerlässlich."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Guia de gestão de energia do Jack Russell Terrier e rotina diária de 3 passos para muda de pelo e estímulo mental",
+        "description": "Cuidados essenciais para o inteligente e altamente enérgico Jack Russell Terrier. Saiba como satisfazer as suas elevadas necessidades de exercício, gerir a queda da dupla pelagem e proteger as articulações.",
+        "authority": "Padrões de Raça do American Kennel Club (AKC) e Diretrizes de Saúde Canina da British Veterinary Association (BVA)",
+        "profile": {
+          "breed": "Jack Russell Terrier",
+          "lifespan": "12 ~ 14 anos",
+          "sleep_pattern": "12 ~ 14 horas (adultos: descanso profundo após atividade intensa)",
+          "temperament": "Enérgico, altamente inteligente, destemido, curioso, leal"
+        },
+        "intro": "O Jack Russell Terrier é uma das raças de trabalho de porte pequeno mais populares do mundo. Criados originalmente para a caça à raposa, possuem uma resistência física notável e grande vivacidade mental. A ausência de estímulos adequados pode levar rapidamente a comportamentos indesejados derivados do stresse. A sua pelagem dupla e densa exige uma escovagem regular para controlar a queda de pelo, enquanto a sua inclinação para saltar requer cuidados preventivos com as articulações e patelas. Neste guia, analisamos os seus sinais instintivos e partilhamos uma rotina de 3 passos para libertar energia e manter a saúde diária.",
+        "whyTitle": "Instintos do Jack Russell Terrier: Foco intenso e sinais de convite ao jogo",
+        "whyDesc": "Como descendentes de terriers de trabalho, demonstram uma capacidade de concentração elevada e uma comunicação muito clara. Olhar fixamente para um objetivo inclinando a cabeça indica curiosidade e impulso de trabalho. Já a postura de abaixar o tronco anterior enquanto abanam a cauda vigorosamente ('Play Bow') é um sinal claro de que precisam de libertar energia acumulada.",
+        "body_signals": [
+          {
+            "name": "Olhar fixo e focado (Intense Staring)",
+            "meaning": "Ativação do instinto de caça ou trabalho perante um som ou movimento, aguardando o comando do tutor.",
+            "response": "Canalize esse foco de forma positiva lançando uma bola ou pedindo um comando de obediência simples."
+          },
+          {
+            "name": "Postura de vénia de jogo (Play Bow)",
+            "meaning": "Convite corporal direto para brincar, sinalizando pico de vitalidade e desejo saudável de interação.",
+            "response": "Proporcione atividades estruturadas e de alta intensidade, como buscar a bola ou frisbee, para satisfazer essa necessidade."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Exercício aeróbico intenso e refeição rica em proteína",
+            "text": "Realize pelo menos 45 minutos de corrida ou brincadeiras de busca para gastar a energia acumulada, oferecendo em seguida uma alimentação equilibrada."
+          },
+          {
+            "name": "Tarde: Estímulo mental com jogos de faro e escovagem",
+            "text": "Utilize brinquedos interativos ou jogos de busca pelo cheiro para cansar o cérebro, e passe uma escova slicker para remover o subpelo morto."
+          },
+          {
+            "name": "Noite: Inspeção articular e treino de relaxamento",
+            "text": "Verifique os joelhos e as almofadas plantares após os saltos do dia, criando um ambiente tranquilo para promover um descanso reparador."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Um Jack Russell Terrier pode viver num apartamento?",
+            "answer": "Sim, desde que as suas necessidades diárias de exercício físico e mental sejam totalmente supridas. Requerem entre 1 a 2 horas por dia de atividade intensa; caso contrário, a frustração pode resultar em ladroes excessivos ou destruição de objetos."
+          },
+          {
+            "question": "Os Jack Russell de pelo curto (Smooth) largam menos pelo?",
+            "answer": "Não. Independentemente do tipo de pelo (curto, quebrado ou duro), possuem uma pelagem dupla densa. Os pelos curtos e rígidos caem e prendem-se facilmente em tecidos, tornando indispensável a escovagem 2 a 3 vezes por semana."
+          }
+        ]
+      },
+      "id": {
+        "title": "Panduan Manajemen Energi Jack Russell Terrier dan Rutinitas Harian 3 Langkah Perawatan Bulu & Stimulasi Mental",
+        "description": "Perawatan esensial untuk Jack Russell Terrier yang cerdas dan penuh energi. Pelajari cara memenuhi kebutuhan olahraga tinggi, mengelola kerontokan bulu ganda, dan menjaga kesehatan sendi.",
+        "authority": "Standar Ras American Kennel Club (AKC) dan Panduan Kesehatan Anjing British Veterinary Association (BVA)",
+        "profile": {
+          "breed": "Jack Russell Terrier",
+          "lifespan": "12 ~ 14 tahun",
+          "sleep_pattern": "12 ~ 14 jam (anjing dewasa - istirahat nyenyak setelah aktivitas fisik)",
+          "temperament": "Penuh energi, sangat cerdas, pemberani, serba ingin tahu, setia"
+        },
+        "intro": "Jack Russell Terrier adalah salah satu ras anjing pekerja berukuran kecil yang paling dicintai di dunia. Awalnya dibiakkan untuk berburu rubah, mereka memiliki stamina luar biasa dan kecerdasan yang tajam. Tanpa olahraga harian dan stimulasi mental yang cukup, mereka mudah mengalami stres yang memicu perilaku destruktif. Bulu ganda mereka yang lebat memerlukan perawatan teratur untuk mengendalikan kerontokan, sementara kebiasaan melompat tinggi membutuhkan perhatian pada kesehatan sendi dan tempurung lutut (patela). Dalam panduan ini, kami mengulas bahasa tubuh insting mereka dan membagikan 3 langkah rutinitas harian untuk merawat stamina serta kesehatan mereka secara menyeluruh.",
+        "whyTitle": "Insting Jack Russell Terrier: Fokus Tajam dan Sinyal Ajakan Bermain",
+        "whyDesc": "Sebagai keturunan anjing pekerja, Jack Russell menunjukkan tingkat fokus dan komunikasi yang sangat jelas. Menatap objek secara intens sambil memiringkan kepala menandakan rasa ingin tahu dan fokus kerja yang tinggi. Sebaliknya, menurunkan tubuh bagian depan sambil mengibaskan ekor dengan cepat ('Play Bow') adalah sinyal jelas bahwa mereka ingin menyalurkan energi melalui permainan.",
+        "body_signals": [
+          {
+            "name": "Menatap Intens & Fokus (Intense Staring)",
+            "meaning": "Naluri berburu atau fokus kerja terpicu oleh suara atau gerakan, di mana anjing sedang menantikan perintah berikutnya dari pemilik.",
+            "response": "Arahkan fokus tersebut secara positif dengan melempar bola atau memberikan perintah kepatuhan sederhana."
+          },
+          {
+            "name": "Posturan Menunduk Bermain (Play Bow)",
+            "meaning": "Isyarat tubuh penuh untuk mengajak bermain, menandakan vitalitas mental puncak dan keinginan untuk berinteraksi.",
+            "response": "Sediakan permainan berintensitas tinggi yang terstruktur seperti lempar tangkap bola atau frisbee untuk memenuhi kebutuhan aktivitasnya."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Olahraga Aerobik Intensitas Tinggi & Makanan Tinggi Protein",
+            "text": "Lakukan aktivitas luar ruangan minimal 45 menit seperti lempar bola atau lari untuk membakar energi yang menumpuk, lalu berikan makanan kaya protein."
+          },
+          {
+            "name": "Siang: Stimulasi Otak Melalui Mainan Edukasi & Menyisir Bulu Ganda",
+            "text": "Gunakan mainan puzzle atau permainan penciuman untuk melatih otak, serta sisir bulu dengan sisir slicker untuk mengangkat bulu halus yang rontok."
+          },
+          {
+            "name": "Malam: Pemeriksaan Sendi & Latihan Relaksasi",
+            "text": "Periksa kondisi lutut dan telapak kaki setelah beraktivitas seharian, lalu ciptakan suasana tenang agar anjing dapat beristirahat dengan nyaman."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah Jack Russell Terrier cocok dipelihara di apartemen?",
+            "answer": "Bisa, asalkan kebutuhan olahraga fisik dan stimulasi mental harian mereka terpenuhi sepenuhnya. Mereka membutuhkan 1 hingga 2 jam aktivitas intensif setiap hari; jika kurang, rasa bosan dapat memicu gonggongan berlebihan atau perilaku menggigit barang."
+          },
+          {
+            "question": "Apakah Jack Russell tipe bulu pendek (Smooth coat) rontoknya lebih sedikit?",
+            "answer": "Tidak. Apa pun tipe bulunya (smooth, broken, atau rough), mereka memiliki lapisan bulu ganda yang lebat. Bulu pendek yang kaku justru mudah menancap pada pakaian atau karpet, sehingga menyisir bulu 2–3 kali seminggu tetap wajib dilakukan."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/jack_russell_terrier_care.webp"
+  }
 }

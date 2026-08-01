@@ -1,406 +1,406 @@
 {
-    "how-to-store-orange": {
-        "ingId": "orange",
-        "pubDate": "2026-05-09",
-        "updatedDate": "2026-05-09",
-        "heroImage": "/images/blog/orange_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "오렌지 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 오렌지의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
-                "intro": "오렌지를 박스째 사 왔다가 며칠 지나지 않아 껍질이 말라 딱딱해지거나 푸른곰팡이가 피어 버린 경험 있으시죠? 🍊\n\n오렌지는 수분과 비타민 C가 풍부한 대표적인 감귤류 과일로, 수확 후에도 지속적으로 호흡하며 수분을 배출합니다. 상온에 오래 방치하면 과육의 수분이 빠져나가 무르고 맛이 없어지며, 습기가 차면 녹색·푸른곰팡이균이 급격히 번식해 주변 오렌지까지 빠르게 부패시킵니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 오렌지 신선도 극대화 3단계 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "보관하기 전에 물로 씻지 마세요 💧",
-                        "desc": "오렌지 껍질에 물기가 남아있으면 곰팡이 포자가 증식하기 매우 좋은 환경이 됩니다. 마른 천이나 키친타월로 표면의 흙과 먼지만 털어내어 보관하고, 세척은 먹기 직전에 하세요."
-                    },
-                    {
-                        "title": "곰팡이가 피거나 겉면이 무른 오렌지는 즉시 격리하세요 🍊",
-                        "desc": "오렌지에 생기는 푸른곰팡이는 포자를 통해 공기 중으로 빠르게 전파됩니다. 곰팡이가 피기 시작한 오렌지는 즉시 골라내어 폐기해야 주변의 멀쩡한 오렌지를 지킬 수 있습니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "키친타월이나 신문지로 한 알씩 감싸기 — 수분 보호 및 곰팡이 전이 방지 📦",
-                        "text": "오렌지끼리 서로 닿아 마찰이 생기거나 습기가 차면 부패가 빨리 진행됩니다. 💡 보관 팁: 씻지 않은 오렌지를 키친타월이나 신문지로 한 알씩 바짝 감싸주세요. 수분 증발을 막아 과육을 촉촉하게 유지하고, 곰팡이 포자의 전이를 완벽히 차단합니다."
-                    },
-                    {
-                        "name": "4 ~ 8℃ 저온(냉장고 야채칸) 보관하기 — 저온 보관 (3 ~ 4주) ❄️",
-                        "text": "오렌지가 가장 신선함을 오래 유지하는 온도는 4 ~ 8℃입니다. 💡 보관 팁: 종이로 감싼 오렌지를 구멍이 뚫린 비닐봉지나 밀폐 용기에 담아 냉장고 야채칸(신선실)에 보관하세요. 상온보다 호흡 작용이 둔화되어 3 ~ 4주 이상 아삭하고 상큼한 맛을 유지할 수 있습니다."
-                    },
-                    {
-                        "name": "장기 보관 시 껍질을 벗겨 냉동 보관하기 — 냉동 보관 (2 ~ 3개월) ❄️",
-                        "text": "오렌지를 껍질째 통째로 냉동하면 과육 세포가 파괴되어 해동 후 식감이 무러집니다. 💡 보관 팁: 껍질을 벗기고 흰 속껍질과 씨를 정리한 뒤 과육만 소분하여 지퍼백에 넣고 냉동실(-18℃ 이하)에 보관하세요. 스무디나 주스용으로 2 ~ 3개월간 유용하게 활용할 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "오렌지를 상온에 보관해도 괜찮나요?",
-                        "answer": "겨울철이나 서늘한 환경(10 ~ 15℃)에서는 통풍이 잘되는 그늘진 곳에 1 ~ 2주 정도 상온 보관이 가능합니다. 하지만 날씨가 따뜻해지거나 장기 보관을 원할 경우 수분 손실과 곰팡이 방지를 위해 키친타월로 감싸 냉장 보관(4 ~ 8℃)하는 것이 필수적입니다."
-                    },
-                    {
-                        "question": "오렌지 표면에 하얀 가루나 광택제가 묻어있는데 안전한가요?",
-                        "answer": "유통 과정에서 수분 증발을 막기 위해 칠하는 식용 천연 코팅제(식품첨가물)이거나 칼슘제일 가능성이 높습니다. 인체에 무해하지만 먹기 전 따뜻한 물에 베이킹소다나 식초를 풀어 깨끗이 씻어낸 후 섭취하는 것을 권장합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Oranges Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for oranges based on official safety guidelines.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Have you ever bought a box of oranges only to find their skins shreveeled and dry, or covered in blue-green mold after a few days? 🍊\n\nOranges are rich in moisture and vitamin C, but as citrus fruits, they continue to respire and release water even after harvesting. Leaving them at room temperature causes moisture loss that makes the flesh soft and tasteless, while trapped humidity rapidly breeds green and blue molds that infect neighboring fruit.\n\nIn this guide, introduces a scientifically proven 3-step orange storage guide recommended by agriculture and food safety experts to maximize freshness. 🛡️",
-                "whyTitle": "Why Store Oranges This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never wash oranges before storing 💧",
-                        "desc": "Moisture left on the orange peel creates an ideal environment for mold spores to thrive. Wipe off surface dirt or dust with a dry cloth or paper towel before storage, and wash oranges right before eating."
-                    },
-                    {
-                        "title": "Isolate moldy or soft oranges immediately 🍊",
-                        "desc": "Blue and green molds on citrus spread rapidly through airborne spores. As soon as you spot an orange starting to mold, separate and discard it immediately to protect the remaining fruit."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Wrap individually in paper towels or newspaper — Moisture Retention & Mold Barrier 📦",
-                        "text": "Direct contact between oranges causes friction and traps moisture, accelerating spoilage. 💡 Storage Tip: Wrap each unwashed orange tightly in a paper towel or newspaper. This traps moisture inside the fruit while preventing mold spores from spreading."
-                    },
-                    {
-                        "name": "Store in cold refrigeration at 4–8°C — Cold Storage (3–4 Weeks) ❄️",
-                        "text": "The optimal temperature to preserve orange freshness for a long time is 4–8°C (39–46°F). 💡 Storage Tip: Place wrapped oranges inside a perforated plastic bag or container in the refrigerator crisper drawer. This slows respiration, preserving juicy sweetness for 3 to 4 weeks."
-                    },
-                    {
-                        "name": "Peel and segment before freezing for long-term storage — Frozen Storage (2–3 Months) ❄️",
-                        "text": "Freezing whole unpeeled oranges breaks down cellular walls, turning the flesh mushy upon thawing. 💡 Storage Tip: Peel the orange, remove seeds and white pith, portion the segments into Ziploc bags, and freeze below -18°C for smoothies and juices (2–3 months)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Is it okay to store oranges at room temperature?",
-                        "answer": "During cool seasons (10–15°C / 50–59°F), oranges can be kept at room temperature in a well-ventilated, shaded area for 1 to 2 weeks. However, in warmer weather or for longer storage, wrapping them individually and refrigerating at 4–8°C is essential to prevent moisture loss and mold."
-                    },
-                    {
-                        "question": "Is the white powder or shiny coating on the orange peel safe?",
-                        "answer": "The shine comes from food-grade natural waxes applied during processing to prevent moisture evaporation, and white residue is often calcium spray. While harmless, rinse oranges thoroughly in warm water with baking soda or vinegar right before consuming."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "オレンジを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくオレンジの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "オレンジを箱で買ってきたものの、数日経つと皮が乾燥して硬くなったり、青カビが生えて捨ててしまった経験はありませんか？🍊\n\nオレンジは水分とビタミンCが豊富な代表的カンキツ類で、収穫後も呼吸を続けて水分を放出しています。常温に長く放置すると果肉の水分が抜けて味が落ち、湿気がこもると青カビ菌（ペニシリウム）が急増して周囲のオレンジまであっという間に傷ませてしまいます。\n\n本記事では、専門家が推奨するオレンジの鮮度とジューシーさを最大化する科学的で確実な3段階の保存のコツをご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合わせた正しい保存方法を実践することは 鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "保存する前に水で洗わないでください 💧",
-                        "desc": "皮に水気が残るとカビの胞子が繁殖する絶好の環境になります。保存前は乾いた布やキッチンペーパーで汚れを拭き取るにとどめ、洗うのは食べる直前にしてください。"
-                    },
-                    {
-                        "title": "カビが生えたり柔らかくなったオレンジはすぐに隔離してください 🍊",
-                        "desc": "柑橘類に発生する青カビは胞子を通じて空気中に急速に広がります。カビが発生し始めたオレンジを見つけたらすぐに破棄し、周囲の正常なオレンジを守りましょう。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "キッチンペーパーや新聞紙で1個ずつ包む — 水分保護とカビ予防 📦",
-                        "text": "オレンジ同士が直接触れ合うと摩擦や湿気で傷みやすくなります。💡保存のコツ：洗っていないオレンジを1個ずつキッチンペーパーや新聞紙でぴったり包みます。水分の蒸発を防ぎつつ、カビ胞子の移動を遮断できます。"
-                    },
-                    {
-                        "name": "4〜8℃の低温（野菜室）で保存する — 冷蔵保存 (3〜4週間) ❄️",
-                        "text": "オレンジの鮮度を最も長持ちさせる最適温度は4〜8℃です。💡保存のコツ：紙で包んだオレンジを穴あきポリ袋や容器に入れ、冷蔵庫の野菜室で保存してください。呼吸作用が抑えられ、3〜4週間ジューシーな美味しさを保てます。"
-                    },
-                    {
-                        "name": "長期保存は皮をむいて小分け冷凍する — 冷凍保存 (2〜3ヶ月間) ❄️",
-                        "text": "皮がついたまま丸ごと冷凍すると細胞壁が壊れて解凍後にスカスカになってしまいます。💡保存のコツ：皮をむいて薄皮や種を取り除き、果肉だけをジッパーバッグに入れて冷凍室（-18℃以下）で保存します。スムージーやジュース用として2〜3ヶ月間重宝します。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "オレンジは常温で保存しても大丈夫ですか？",
-                        "answer": "涼しい季節（10〜15℃）であれば、風通しの良い日陰で1〜2週間ほど常温保存可能です。ただし、暖かい時期や長期保存したい場合は、乾燥とカビを防ぐために1個ずつ包んで冷蔵保存（4〜8℃）することをおすすめします。"
-                    },
-                    {
-                        "question": "オレンジの表面についた白い粉やワックスは安全ですか？",
-                        "answer": "出荷時に乾燥を防ぐため塗られる食用天然ワックスや炭酸カルシウムである場合がほとんどです。人体には無害ですが、食べる直前にぬるま湯と重曹や酢を使って綺麗に洗い流してからお召し上がりください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持橙子新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解橙子的最佳储存温度、方式和保鲜时长。",
-                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "您是否曾整箱买回橙子，没过几天就发现果皮发干变硬，甚至长出青霉菌发霉变质？🍊\n\n橙子富含水分和维生素C，是代表性的柑橘类水果，采摘后依然会持续呼吸并蒸发水分。常温下长时间摆放会导致果肉失水变软、口感变差；而环境过于潮湿则会导致青霉菌剧烈滋生，迅速传染并腐蚀周边的橙子。\n\n本指南将为您介绍由农业及食品安全专家推荐的科学3步橙子保鲜秘诀，帮您最大程度锁定酸甜多汁。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "储存前切勿用水清洗 💧",
-                        "desc": "橙皮表面留有水汽会为霉菌孢子繁殖提供极佳环境。储存前用干布或厨房纸巾擦净表面泥灰即可，清洗请留到食用前进行。"
-                    },
-                    {
-                        "title": "请立即隔离发霉或变软的橙子 🍊",
-                        "desc": "柑橘类水果上的青霉菌会通过空气中的孢子迅速传播。一旦发现有橙子开始发霉，应立即拣出丢弃，以保护其余完好的橙子。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "用厨房纸巾或报纸单颗包裹 — 锁水防干与阻隔霉菌 📦",
-                        "text": "橙子相互接触会因摩擦和积聚湿气而加快腐烂。💡储存小贴士：将未清洗的干橙子用厨房纸巾或报纸单颗包裹严实，既能锁住水分保持果肉多汁，又能有效阻断霉菌孢子传染。"
-                    },
-                    {
-                        "name": "存放在4 ~ 8℃低温（冰箱蔬菜保鲜层） — 冷藏储存 (3 ~ 4周) ❄️",
-                        "text": "最能长久保持橙子新鲜度的温度为4 ~ 8℃。💡储存小贴士：将包好纸的橙子装入带孔保鲜袋或保鲜盒中，存入冰箱蔬菜保鲜抽屉。这能减缓呼吸作用，维持3 ~ 4周酸甜多汁的口感。"
-                    },
-                    {
-                        "name": "长期保存请剥皮分装后冷冻 — 冷冻储存 (2 ~ 3个月) ❄️",
-                        "text": "带皮整颗冷冻会破坏细胞结构，解冻后果肉会发柴变软。💡储存小贴士：剥除外皮、去除种子和白筋，将果肉分装入拉链袋，置于冷冻室（-18℃以下）。适用于制作果汁或果昔（2 ~ 3个月）。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "橙子可以常温保存吗？",
-                        "answer": "在凉爽的季节（10 ~ 15℃）下，置于通风良好的阴凉处可常温保存1 ~ 2周。但在天气较热或需要长期保存时，务必用纸包裹后放入4 ~ 8℃冷藏，以防水分流失和发霉。"
-                    },
-                    {
-                        "question": "橙子表面的白粉或光线涂层安全吗？",
-                        "answer": "光泽通常是采后为防水分蒸发而涂抹的食用级天然果蜡，白粉多为钙质保护剂。虽然对人体无害，但建议在食用前用温水加小苏打或白醋彻底清洗干净。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener las naranjas frescas: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para las naranjas según las directrices oficiales de seguridad.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "¿Alguna vez compró una caja de naranjas solo para descubrir a los pocos días que su piel se secaba y endurecía, o que se cubrían de moho verde o azul? 🍊\n\nLas naranjas son cítricos ricos en agua y vitamina C, pero continúan respirando e intercambiando humedad tras la cosecha. Dejarlas a temperatura ambiente hace que pierdan agua, volviendo la pulpa blanda e insípida, mientras que la humedad atrapada favorece la rápida aparición de mohos que infectan a las frutas vecinas.\n\nEn esta guía se presenta una guía de conservación de naranjas en 3 pasos respaldada por expertos para maximizar su frescura y jugosidad. 🛡️",
-                "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "No lave las naranjas antes de guardarlas 💧",
-                        "desc": "El agua en la cáscara crea el ambiente perfecto para la multiplicación de esporas de moho. Limpie el polvo superficial con un paño seco o papel de cocina antes de almacenar y lávelas justo antes de comer."
-                    },
-                    {
-                        "title": "Aísle las naranjas mohosas o blandas de inmediato 🍊",
-                        "desc": "El moho azul o verde de los cítricos se propaga rápido por el aire mediante esporas. Separe y deseche inmediatamente cualquier naranja infectada para proteger el resto."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Envuelva individualmente en papel de cocina o periódico — Retención de humedad y barrera contra el moho 📦",
-                        "text": "El contacto directo entre naranjas acumula humedad y acelera el deterioro. 💡 Consejo de almacenamiento: Envuelva cada naranja seca individualmente con papel de cocina o periódico. Esto conserva la jugosidad y frena la propagación de esporas."
-                    },
-                    {
-                        "name": "Conserve a baja temperatura (4-8 °C) en el cajón de verduras — Refrigeración (3-4 semanas) ❄️",
-                        "text": "La temperatura óptima para prolongar la frescura de la naranja es de 4 a 8 °C. 💡 Consejo de almacenamiento: Coloque las naranjas envueltas en papel dentro de una bolsa perforada o contenedor en el cajón de verduras del refrigerador para conservar su sabor de 3 a 4 semanas."
-                    },
-                    {
-                        "name": "Pele y separe en gajos para congelar a largo plazo — Conservación congelada (2-3 meses) ❄️",
-                        "text": "Congelar naranjas enteras con piel destruye sus paredes celulares, volviendo la pulpa blanda al descongelar. 💡 Consejo de almacenamiento: Pele la naranja, retire semillas y hollejos, y congele los gajos en bolsas Ziploc bajo -18 °C para batidos o jugos."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Es seguro conservar las naranjas a temperatura ambiente?",
-                        "answer": "En épocas frescas (10-15 °C), se pueden conservar a temperatura ambiente en un lugar sombreado y ventilado durante 1 a 2 semanas. Sin embargo, con clima cálido o para conservación prolongada, envolverlas e introducirlas en el refrigerador (4-8 °C) es imprescindible."
-                    },
-                    {
-                        "question": "¿Es seguro el polvo blanco o el brillo de la cáscara de naranja?",
-                        "answer": "El brillo proviene de ceras naturales de grado alimentario aplicadas para evitar la pérdida de humedad, y el polvo blanco suele ser tratamiento de calcio. Aunque son inocuos, se recomienda lavar bien la piel con agua tibia y bicarbonato antes de consumir."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver les oranges fraîches : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les oranges selon les directives officielles de sécurité.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Avez-vous déjà acheté une cagette d'oranges pour constater quelques jours plus tard que leur peau s'asséchait ou qu'elles se couvraient de moisissure bleue ou verte ? 🍊\n\nL'orange est un agrume riche en eau et en vitamine C, qui continue de respirer et d'émettre de l'humidité après la récolte. À température ambiante, elle perd son jus et sa fermeté, tandis que l'humidité stagnante favorise le développement rapide de moisissures qui contaminent les fruits voisins.\n\nDans ce guide, vous présente un guide scientifique de conservation des oranges en 3 étapes recommandé par des experts pour préserver leur fraîcheur et leur jus. 🛡️",
-                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne lavez jamais les oranges avant de les stocker 💧",
-                        "desc": "L'eau sur la peau crée un milieu idéal pour la prolifération des spores de moisissure. Essuyez simplement la poussière avec de l'essuie-tout sec avant stockage, et ne les lavez qu'au moment de la dégustation."
-                    },
-                    {
-                        "title": "Isolez immédiatement les oranges moisies ou ramollies 🍊",
-                        "desc": "La moisissure bleue ou verte des agrumes se propage rapidement dans l'air par les spores. Jetez immédiatement toute orange touchée pour protéger les autres."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Envelopper individuellement dans du papier absorbant ou du journal — Maintien de l'humidité & Barrière anti-moisissure 📦",
-                        "text": "Le contact direct entre les oranges accumule l'humidité et accélère le pourrissement. 💡 Astuce de conservation : Enveloppez chaque orange sèche dans du papier absorbant ou du journal. Cela préserve le jus du fruit tout en bloquant les spores."
-                    },
-                    {
-                        "name": "Conserver à basse température (4–8 °C) dans le bac à légumes — Réfrigération (3-4 semaines) ❄️",
-                        "text": "La température idéale pour préserver la fraîcheur des oranges est comprise entre 4 et 8 °C. 💡 Astuce de conservation : Placez les oranges emballées dans un sac perforé ou une boîte dans le bac à légumes du réfrigérateur pour conserver leur jus 3 à 4 semaines."
-                    },
-                    {
-                        "name": "Éplucher et séparer les quartiers avant de congeler — Stockage congelé (2-3 mois) ❄️",
-                        "text": "Congeler une orange entière avec sa peau brise ses membranes cellulaires, rendant la chair molle à la décongélation. 💡 Astuce de conservation : Épluchez l'orange, retirez les pépins, et congelez les quartiers en sac congélation sous -18 °C pour jus ou smoothies."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Peut-on conserver les oranges à température ambiante ?",
-                        "answer": "Par temps frais (10–15 °C), les oranges se conservent 1 à 2 semaines à température ambiante dans un endroit aéré et ombragé. Mais par temps chaud ou pour une longue conservation, l'emballage individuel au réfrigérateur (4–8 °C) est indispensable."
-                    },
-                    {
-                        "question": "La fine poudre blanche ou la brillance sur la peau de l'orange est-elle sans danger ?",
-                        "answer": "La brillance provient de cires naturelles alimentaires appliquées pour éviter le dessèchement, et la poudre blanche est souvent un spray calcique. Bien qu'inoffensifs, lavez soigneusement la peau avec de l'eau tiède et du bicarbonate avant consommation."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Orangen richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Orangen basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Haben Sie schon einmal eine Kiste Orangen gekauft, nur um nach wenigen Tagen festzustellen, dass die Schale austrocknete oder sich grüner/blauer Schimmel bildete? 🍊\n\nOrangen sind wasser- und vitamin-C-reiche Zitrusfrüchte, die auch nach der Ernte weiteratmen und Feuchtigkeit abgeben. Bei Raumtemperatur verliert das Fruchtfleisch rasch an Saftigkeit, während gestaute Feuchtigkeit die Schimmelbildung begünstigt und umliegende Früchte ansteckt.\n\nIn diesem Ratgeber erfahren Sie einen von Experten empfohlenen, wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Frische und den Saftgehalt Ihrer Orangen zu maximieren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Orangen vor der Lagerung niemals waschen 💧",
-                        "desc": "Restfeuchte auf der Schale bietet einen idealen Nährboden für Schimmelsporen. Wischen Sie Schmutz vor der Lagerung nur mit einem trockenen Tuch ab und waschen Sie Orangen erst direkt vor dem Verzehr."
-                    },
-                    {
-                        "title": "Schimmelige oder weiche Orangen sofort aussortieren 🍊",
-                        "desc": "Grün- und Blaupimmel bei Zitrusfrüchten breitet sich über Sporen in der Luft rasch aus. Sortieren Sie betroffene Orangen sofort aus, um die gesunden Früchte zu schützen."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Einzeln in Küchenpapier oder Zeitungspapier einwickeln — Feuchtigkeitsschutz & Schimmelbarriere 📦",
-                        "text": "Direkter Kontakt zwischen Orangen staut Feuchtigkeit und beschleunigt den Verderb. 💡 Lagerungstipp: Wickeln Sie jede trockene Orange einzeln fest in Küchenpapier oder Zeitungspapier ein. Das bewahrt die Saftigkeit und stoppt Schimmelsporen."
-                    },
-                    {
-                        "name": "Bei 4–8 °C im Gemüsefach kühlen — Kühllagerung (3–4 Wochen) ❄️",
-                        "text": "Die optimale Temperatur zur Frischehaltung von Orangen liegt bei 4–8 °C. 💡 Lagerungstipp: Geben Sie die eingewickelten Orangen in einen gelochten Beutel oder Behälter im Gemüsefach des Kühlschranks, um Saft und Geschmack 3 bis 4 Wochen zu bewahren."
-                    },
-                    {
-                        "name": "Schälen und in Segmente teilen vor dem Einfrieren — Gefrierlagerung (2–3 Monate) ❄️",
-                        "text": "Das Einfrieren ganzer Orangen zerstört die Zellwände und macht das Fleisch matschig. 💡 Lagerungstipp: Schälen Sie die Orange, entfernen Sie Kerne und weiße Hauthülle, und frieren Sie die Filets im Ziploc-Beutel unter -18 °C für Smoothies ein."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Kann man Orangen bei Raumtemperatur lagern?",
-                        "answer": "In kühlen Jahreszeiten (10–15 °C) lassen sich Orangen 1–2 Wochen an einem schattigen, belüfteten Ort bei Raumtemperatur aufbewahren. Bei wärmerem Wetter oder für längere Lagerung ist das kühle Einwickeln im Kühlschrank (4–8 °C) unerlässlich."
-                    },
-                    {
-                        "question": "Ist der weiße Belag oder Glanz auf der Orangenschale unbedenklich?",
-                        "answer": "Der Glanz stammt von essbarem Naturwachs gegen Austrocknung, der weiße Belag oft von Kalziumbehandlungen. Obwohl unbedenklich, sollten Sie die Schale vor dem Verzehr mit warmem Wasser und Natron gründlich abwaschen."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar laranjas frescas: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para as laranjas com base em diretrizes oficiais de segurança.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Você já comprou uma caixa de laranjas e percebeu que em poucos dias a casca ressecou ou surgiram bolores azuis ou verdes nas frutas? 🍊\n\nA laranja é um cítrico rico em água e vitamina C, continuando a respirar e a liberar umidade após a colheita. Em temperatura ambiente, a polpa perde suco e fica murcha, enquanto a umidade acumulada favorece o crescimento rápido de fungos que infectam as frutas ao redor.\n\nNeste guia, apresentamos um guia prático de conservação de laranjas em 3 etapas recomendado por especialistas para manter o frescor e a suculência das suas frutas. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca lave as laranjas antes de guardar 💧",
-                        "desc": "A umidade na casca cria o ambiente perfeito para a proliferação de esporos de mofo. Limpe a poeira com pano seco ou papel-toalha antes de guardar e lave-as apenas na hora de consumir."
-                    },
-                    {
-                        "title": "Isole laranjas mofadas ou macias imediatamente 🍊",
-                        "desc": "O mofo azul ou verde dos cítricos se espalha rapidamente pelo ar através de esporos. Descarte imediatamente qualquer laranja afetada para proteger as demais."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Embrulhar individualmente em papel-toalha ou jornal — Retenção de umidade e barreira contra mofo 📦",
-                        "text": "O contato direto entre laranjas acumula umidade e acelera a podridão. 💡 Dica de conservação: Embrulhe cada laranja seca individualmente em papel-toalha ou jornal. Isso mantém a suculência e impede a transmissão de esporos."
-                    },
-                    {
-                        "name": "Guardar em refrigeração de 4 a 8 °C na gaveta de legumes — Refrigeração (3 a 4 semanas) ❄️",
-                        "text": "A temperatura ideal para preservar a frescura das laranjas é de 4 a 8 °C. 💡 Dica de conservação: Coloque as laranjas embaladas em papel num saco perfurado ou pote na gaveta de legumes para manter o suco por 3 a 4 semanas."
-                    },
-                    {
-                        "name": "Descascar e separar em gomos para congelar a longo prazo — Congelamento (2 a 3 meses) ❄️",
-                        "text": "Congelar laranjas inteiras com casca destrói as paredes celulares, deixando a polpa mole ao descongelar. 💡 Dica de conservação: Descasque a laranja, retire sementes e bagaços, e congele os gomos em sacos Ziploc a menos de -18 °C para sucos ou sucos."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "É seguro guardar laranjas em temperatura ambiente?",
-                        "answer": "Em épocas frias (10-15 °C), as laranjas podem ficar em local ventilado e à sombra por 1 a 2 semanas. Porém, no calor ou para guardar por mais tempo, embrulhar e refrigerar (4-8 °C) é indispensável para evitar o ressecamento e o mofo."
-                    },
-                    {
-                        "question": "O pó branco ou o brilho na casca da laranja é seguro?",
-                        "answer": "O brilho vem de ceras naturais de grau alimentício usadas para evitar perda de umidade, e o pó branco costuma ser spray de cálcio. Embora inofensivos, lave bem a casca em água morna com bicarbonato antes de consumir."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Jeruk agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk jeruk berdasarkan pedoman keselamatan resmi.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Pernahkah Anda membeli satu kotak jeruk lalu mendapati kulitnya mengering keras atau ditumbuhi jamur biru-hijau setelah beberapa hari? 🍊\n\nJeruk adalah buah sitrus kaya air dan vitamin C yang terus bernapas serta mengeluarkan kelembapan setelah dipanen. Membiarkannya di suhu ruang menyebabkan kadar air menguap sehingga bulirnya lembek dan hambar, sedangkan kelembapan terperangkap memicu tumbuhnya jamur yang cepat menulari jeruk lainnya.\n\nDalam panduan ini, kami membagikan panduan penyimpanan jeruk 3 langkah berbasis ilmiah yang direkomondesikan oleh ahli keamanan pangan untuk menjaga kesegaran dan kandungan airnya. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan mencuci jeruk sebelum disimpan 💧",
-                        "desc": "Air yang tersisa pada kulit jeruk menjadi tempat ideal bagi spora jamur untuk berkembang biak. Lap kotoran atau debu dengan kain kering atau tisu dapur sebelum disimpan, dan cucilah tepat sebelum dimakan."
-                    },
-                    {
-                        "title": "Segera pisahkan jeruk yang berjamur atau lembek 🍊",
-                        "desc": "Jamur hijau dan biru pada buah sitrus menyebar dengan cepat melalui udara. Segera buang jeruk yang mulai berjamur untuk melindungi jeruk lainnya yang masih segar."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Bungkus satu per satu dengan tisu dapur atau koran — Perlindungan Kelembapan & Penghalang Jamur 📦",
-                        "text": "Kontak langsung antarjeruk menimbulkan gesekan dan menumpuk kelembapan yang mempercepat pembusukan. 💡 Tips Penyimpanan: Bungkus setiap jeruk kering secara rapat menggunakan tisu dapur atau koran untuk menjaga kesegaran dan menahan spora jamur."
-                    },
-                    {
-                        "name": "Simpan pada suhu dingin 4–8°C di laci sayur — Simpan Dingin (3–4 Minggu) ❄️",
-                        "text": "Suhu terbaik untuk menjaga kesegaran jeruk dalam jangka panjang adalah 4–8°C. 💡 Tips Penyimpanan: Masukkan jeruk terbungkus kertas ke dalam kantong plastik berlubang atau wadah di laci sayuran kulkas agar tetap manis berair selama 3 hingga 4 minggu."
-                    },
-                    {
-                        "name": "Kupas dan pisahkan bulir sebelum dibekukan untuk jangka panjang — Simpan Beku (2–3 Bulan) ❄️",
-                        "text": "Membekukan jeruk utuh bersama kulitnya merusak dinding sel sehingga bulirnya menjadi cair lembek saat dicairkan. 💡 Tips Penyimpanan: Kupas jeruk, buang biji dan serat putihnya, lalu bekukan bulir jeruk dalam kantong ziploc di bawah -18°C untuk jus atau smoothie."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apakah aman menyimpan jeruk pada suhu ruang?",
-                        "answer": "Pada musim dingin atau udara sejuk (10–15°C), jeruk dapat disimpan di tempat teduh dan berangin selama 1 hingga 2 minggu. Namun saat cuaca hangat atau untuk penyimpanan lama, membungkus dan menyimpannya di kulkas (4–8°C) sangat penting untuk mencegah kekeringan dan jamur."
-                    },
-                    {
-                        "question": "Apakah serbuk putih atau lapisan mengilap pada kulit jeruk aman?",
-                        "answer": "Lapisan mengilap berasal dari lilin alami aman (food-grade) untuk mencegah penguapan air, dan serbuk putih umumnya adalah kalsium. Meskipun aman, disarankan untuk mencuci bersih kulit jeruk dengan air hangat dan baking soda sebelum dikonsumsi."
-                    }
-                ]
-            }
-        }
+  "how-to-store-orange": {
+    "ingId": "orange",
+    "pubDate": "2026-05-09",
+    "updatedDate": "2026-05-09",
+    "heroImage": "/images/blog/orange_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "오렌지 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 오렌지의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+        "intro": "오렌지를 박스째 사 왔다가 며칠 지나지 않아 껍질이 말라 딱딱해지거나 푸른곰팡이가 피어 버린 경험 있으시죠? 🍊\n\n오렌지는 수분과 비타민 C가 풍부한 대표적인 감귤류 과일로, 수확 후에도 지속적으로 호흡하며 수분을 배출합니다. 상온에 오래 방치하면 과육의 수분이 빠져나가 무르고 맛이 없어지며, 습기가 차면 녹색·푸른곰팡이균이 급격히 번식해 주변 오렌지까지 빠르게 부패시킵니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 오렌지 신선도 극대화 3단계 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "보관하기 전에 물로 씻지 마세요 💧",
+            "desc": "오렌지 껍질에 물기가 남아있으면 곰팡이 포자가 증식하기 매우 좋은 환경이 됩니다. 마른 천이나 키친타월로 표면의 흙과 먼지만 털어내어 보관하고, 세척은 먹기 직전에 하세요."
+          },
+          {
+            "title": "곰팡이가 피거나 겉면이 무른 오렌지는 즉시 격리하세요 🍊",
+            "desc": "오렌지에 생기는 푸른곰팡이는 포자를 통해 공기 중으로 빠르게 전파됩니다. 곰팡이가 피기 시작한 오렌지는 즉시 골라내어 폐기해야 주변의 멀쩡한 오렌지를 지킬 수 있습니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "키친타월이나 신문지로 한 알씩 감싸기 — 수분 보호 및 곰팡이 전이 방지 📦",
+            "text": "오렌지끼리 서로 닿아 마찰이 생기거나 습기가 차면 부패가 빨리 진행됩니다. 💡 보관 팁: 씻지 않은 오렌지를 키친타월이나 신문지로 한 알씩 바짝 감싸주세요. 수분 증발을 막아 과육을 촉촉하게 유지하고, 곰팡이 포자의 전이를 완벽히 차단합니다."
+          },
+          {
+            "name": "4 ~ 8℃ 저온(냉장고 야채칸) 보관하기 — 저온 보관 (3 ~ 4주) ❄️",
+            "text": "오렌지가 가장 신선함을 오래 유지하는 온도는 4 ~ 8℃입니다. 💡 보관 팁: 종이로 감싼 오렌지를 구멍이 뚫린 비닐봉지나 밀폐 용기에 담아 냉장고 야채칸(신선실)에 보관하세요. 상온보다 호흡 작용이 둔화되어 3 ~ 4주 이상 아삭하고 상큼한 맛을 유지할 수 있습니다."
+          },
+          {
+            "name": "장기 보관 시 껍질을 벗겨 냉동 보관하기 — 냉동 보관 (2 ~ 3개월) ❄️",
+            "text": "오렌지를 껍질째 통째로 냉동하면 과육 세포가 파괴되어 해동 후 식감이 무러집니다. 💡 보관 팁: 껍질을 벗기고 흰 속껍질과 씨를 정리한 뒤 과육만 소분하여 지퍼백에 넣고 냉동실(-18℃ 이하)에 보관하세요. 스무디나 주스용으로 2 ~ 3개월간 유용하게 활용할 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "오렌지를 상온에 보관해도 괜찮나요?",
+            "answer": "겨울철이나 서늘한 환경(10 ~ 15℃)에서는 통풍이 잘되는 그늘진 곳에 1 ~ 2주 정도 상온 보관이 가능합니다. 하지만 날씨가 따뜻해지거나 장기 보관을 원할 경우 수분 손실과 곰팡이 방지를 위해 키친타월로 감싸 냉장 보관(4 ~ 8℃)하는 것이 필수적입니다."
+          },
+          {
+            "question": "오렌지 표면에 하얀 가루나 광택제가 묻어있는데 안전한가요?",
+            "answer": "유통 과정에서 수분 증발을 막기 위해 칠하는 식용 천연 코팅제(식품첨가물)이거나 칼슘제일 가능성이 높습니다. 인체에 무해하지만 먹기 전 따뜻한 물에 베이킹소다나 식초를 풀어 깨끗이 씻어낸 후 섭취하는 것을 권장합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Oranges Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for oranges based on official safety guidelines.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Have you ever bought a box of oranges only to find their skins shreveeled and dry, or covered in blue-green mold after a few days? 🍊\n\nOranges are rich in moisture and vitamin C, but as citrus fruits, they continue to respire and release water even after harvesting. Leaving them at room temperature causes moisture loss that makes the flesh soft and tasteless, while trapped humidity rapidly breeds green and blue molds that infect neighboring fruit.\n\nIn this guide, introduces a scientifically proven 3-step orange storage guide recommended by agriculture and food safety experts to maximize freshness. 🛡️",
+        "whyTitle": "Why Store Oranges This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never wash oranges before storing 💧",
+            "desc": "Moisture left on the orange peel creates an ideal environment for mold spores to thrive. Wipe off surface dirt or dust with a dry cloth or paper towel before storage, and wash oranges right before eating."
+          },
+          {
+            "title": "Isolate moldy or soft oranges immediately 🍊",
+            "desc": "Blue and green molds on citrus spread rapidly through airborne spores. As soon as you spot an orange starting to mold, separate and discard it immediately to protect the remaining fruit."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Wrap individually in paper towels or newspaper — Moisture Retention & Mold Barrier 📦",
+            "text": "Direct contact between oranges causes friction and traps moisture, accelerating spoilage. 💡 Storage Tip: Wrap each unwashed orange tightly in a paper towel or newspaper. This traps moisture inside the fruit while preventing mold spores from spreading."
+          },
+          {
+            "name": "Store in cold refrigeration at 4–8°C — Cold Storage (3–4 Weeks) ❄️",
+            "text": "The optimal temperature to preserve orange freshness for a long time is 4–8°C (39–46°F). 💡 Storage Tip: Place wrapped oranges inside a perforated plastic bag or container in the refrigerator crisper drawer. This slows respiration, preserving juicy sweetness for 3 to 4 weeks."
+          },
+          {
+            "name": "Peel and segment before freezing for long-term storage — Frozen Storage (2–3 Months) ❄️",
+            "text": "Freezing whole unpeeled oranges breaks down cellular walls, turning the flesh mushy upon thawing. 💡 Storage Tip: Peel the orange, remove seeds and white pith, portion the segments into Ziploc bags, and freeze below -18°C for smoothies and juices (2–3 months)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Is it okay to store oranges at room temperature?",
+            "answer": "During cool seasons (10–15°C / 50–59°F), oranges can be kept at room temperature in a well-ventilated, shaded area for 1 to 2 weeks. However, in warmer weather or for longer storage, wrapping them individually and refrigerating at 4–8°C is essential to prevent moisture loss and mold."
+          },
+          {
+            "question": "Is the white powder or shiny coating on the orange peel safe?",
+            "answer": "The shine comes from food-grade natural waxes applied during processing to prevent moisture evaporation, and white residue is often calcium spray. While harmless, rinse oranges thoroughly in warm water with baking soda or vinegar right before consuming."
+          }
+        ]
+      },
+      "ja": {
+        "title": "オレンジを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくオレンジの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "オレンジを箱で買ってきたものの、数日経つと皮が乾燥して硬くなったり、青カビが生えて捨ててしまった経験はありませんか？🍊\n\nオレンジは水分とビタミンCが豊富な代表的カンキツ類で、収穫後も呼吸を続けて水分を放出しています。常温に長く放置すると果肉の水分が抜けて味が落ち、湿気がこもると青カビ菌（ペニシリウム）が急増して周囲のオレンジまであっという間に傷ませてしまいます。\n\n本記事では、専門家が推奨するオレンジの鮮度とジューシーさを最大化する科学的で確実な3段階の保存のコツをご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合わせた正しい保存方法を実践することは 鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "保存する前に水で洗わないでください 💧",
+            "desc": "皮に水気が残るとカビの胞子が繁殖する絶好の環境になります。保存前は乾いた布やキッチンペーパーで汚れを拭き取るにとどめ、洗うのは食べる直前にしてください。"
+          },
+          {
+            "title": "カビが生えたり柔らかくなったオレンジはすぐに隔離してください 🍊",
+            "desc": "柑橘類に発生する青カビは胞子を通じて空気中に急速に広がります。カビが発生し始めたオレンジを見つけたらすぐに破棄し、周囲の正常なオレンジを守りましょう。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "キッチンペーパーや新聞紙で1個ずつ包む — 水分保護とカビ予防 📦",
+            "text": "オレンジ同士が直接触れ合うと摩擦や湿気で傷みやすくなります。💡保存のコツ：洗っていないオレンジを1個ずつキッチンペーパーや新聞紙でぴったり包みます。水分の蒸発を防ぎつつ、カビ胞子の移動を遮断できます。"
+          },
+          {
+            "name": "4〜8℃の低温（野菜室）で保存する — 冷蔵保存 (3〜4週間) ❄️",
+            "text": "オレンジの鮮度を最も長持ちさせる最適温度は4〜8℃です。💡保存のコツ：紙で包んだオレンジを穴あきポリ袋や容器に入れ、冷蔵庫の野菜室で保存してください。呼吸作用が抑えられ、3〜4週間ジューシーな美味しさを保てます。"
+          },
+          {
+            "name": "長期保存は皮をむいて小分け冷凍する — 冷凍保存 (2〜3ヶ月間) ❄️",
+            "text": "皮がついたまま丸ごと冷凍すると細胞壁が壊れて解凍後にスカスカになってしまいます。💡保存のコツ：皮をむいて薄皮や種を取り除き、果肉だけをジッパーバッグに入れて冷凍室（-18℃以下）で保存します。スムージーやジュース用として2〜3ヶ月間重宝します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "オレンジは常温で保存しても大丈夫ですか？",
+            "answer": "涼しい季節（10〜15℃）であれば、風通しの良い日陰で1〜2週間ほど常温保存可能です。ただし、暖かい時期や長期保存したい場合は、乾燥とカビを防ぐために1個ずつ包んで冷蔵保存（4〜8℃）することをおすすめします。"
+          },
+          {
+            "question": "オレンジの表面についた白い粉やワックスは安全ですか？",
+            "answer": "出荷時に乾燥を防ぐため塗られる食用天然ワックスや炭酸カルシウムである場合がほとんどです。人体には無害ですが、食べる直前にぬるま湯と重曹や酢を使って綺麗に洗い流してからお召し上がりください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持橙子新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解橙子的最佳储存温度、方式和保鲜时长。",
+        "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "您是否曾整箱买回橙子，没过几天就发现果皮发干变硬，甚至长出青霉菌发霉变质？🍊\n\n橙子富含水分和维生素C，是代表性的柑橘类水果，采摘后依然会持续呼吸并蒸发水分。常温下长时间摆放会导致果肉失水变软、口感变差；而环境过于潮湿则会导致青霉菌剧烈滋生，迅速传染并腐蚀周边的橙子。\n\n本指南将为您介绍由农业及食品安全专家推荐的科学3步橙子保鲜秘诀，帮您最大程度锁定酸甜多汁。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "储存前切勿用水清洗 💧",
+            "desc": "橙皮表面留有水汽会为霉菌孢子繁殖提供极佳环境。储存前用干布或厨房纸巾擦净表面泥灰即可，清洗请留到食用前进行。"
+          },
+          {
+            "title": "请立即隔离发霉或变软的橙子 🍊",
+            "desc": "柑橘类水果上的青霉菌会通过空气中的孢子迅速传播。一旦发现有橙子开始发霉，应立即拣出丢弃，以保护其余完好的橙子。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "用厨房纸巾或报纸单颗包裹 — 锁水防干与阻隔霉菌 📦",
+            "text": "橙子相互接触会因摩擦和积聚湿气而加快腐烂。💡储存小贴士：将未清洗的干橙子用厨房纸巾或报纸单颗包裹严实，既能锁住水分保持果肉多汁，又能有效阻断霉菌孢子传染。"
+          },
+          {
+            "name": "存放在4 ~ 8℃低温（冰箱蔬菜保鲜层） — 冷藏储存 (3 ~ 4周) ❄️",
+            "text": "最能长久保持橙子新鲜度的温度为4 ~ 8℃。💡储存小贴士：将包好纸的橙子装入带孔保鲜袋或保鲜盒中，存入冰箱蔬菜保鲜抽屉。这能减缓呼吸作用，维持3 ~ 4周酸甜多汁的口感。"
+          },
+          {
+            "name": "长期保存请剥皮分装后冷冻 — 冷冻储存 (2 ~ 3个月) ❄️",
+            "text": "带皮整颗冷冻会破坏细胞结构，解冻后果肉会发柴变软。💡储存小贴士：剥除外皮、去除种子和白筋，将果肉分装入拉链袋，置于冷冻室（-18℃以下）。适用于制作果汁或果昔（2 ~ 3个月）。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "橙子可以常温保存吗？",
+            "answer": "在凉爽的季节（10 ~ 15℃）下，置于通风良好的阴凉处可常温保存1 ~ 2周。但在天气较热或需要长期保存时，务必用纸包裹后放入4 ~ 8℃冷藏，以防水分流失和发霉。"
+          },
+          {
+            "question": "橙子表面的白粉或光线涂层安全吗？",
+            "answer": "光泽通常是采后为防水分蒸发而涂抹的食用级天然果蜡，白粉多为钙质保护剂。虽然对人体无害，但建议在食用前用温水加小苏打或白醋彻底清洗干净。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener las naranjas frescas: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para las naranjas según las directrices oficiales de seguridad.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "¿Alguna vez compró una caja de naranjas solo para descubrir a los pocos días que su piel se secaba y endurecía, o que se cubrían de moho verde o azul? 🍊\n\nLas naranjas son cítricos ricos en agua y vitamina C, pero continúan respirando e intercambiando humedad tras la cosecha. Dejarlas a temperatura ambiente hace que pierdan agua, volviendo la pulpa blanda e insípida, mientras que la humedad atrapada favorece la rápida aparición de mohos que infectan a las frutas vecinas.\n\nEn esta guía se presenta una guía de conservación de naranjas en 3 pasos respaldada por expertos para maximizar su frescura y jugosidad. 🛡️",
+        "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "No lave las naranjas antes de guardarlas 💧",
+            "desc": "El agua en la cáscara crea el ambiente perfecto para la multiplicación de esporas de moho. Limpie el polvo superficial con un paño seco o papel de cocina antes de almacenar y lávelas justo antes de comer."
+          },
+          {
+            "title": "Aísle las naranjas mohosas o blandas de inmediato 🍊",
+            "desc": "El moho azul o verde de los cítricos se propaga rápido por el aire mediante esporas. Separe y deseche inmediatamente cualquier naranja infectada para proteger el resto."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Envuelva individualmente en papel de cocina o periódico — Retención de humedad y barrera contra el moho 📦",
+            "text": "El contacto directo entre naranjas acumula humedad y acelera el deterioro. 💡 Consejo de almacenamiento: Envuelva cada naranja seca individualmente con papel de cocina o periódico. Esto conserva la jugosidad y frena la propagación de esporas."
+          },
+          {
+            "name": "Conserve a baja temperatura (4-8 °C) en el cajón de verduras — Refrigeración (3-4 semanas) ❄️",
+            "text": "La temperatura óptima para prolongar la frescura de la naranja es de 4 a 8 °C. 💡 Consejo de almacenamiento: Coloque las naranjas envueltas en papel dentro de una bolsa perforada o contenedor en el cajón de verduras del refrigerador para conservar su sabor de 3 a 4 semanas."
+          },
+          {
+            "name": "Pele y separe en gajos para congelar a largo plazo — Conservación congelada (2-3 meses) ❄️",
+            "text": "Congelar naranjas enteras con piel destruye sus paredes celulares, volviendo la pulpa blanda al descongelar. 💡 Consejo de almacenamiento: Pele la naranja, retire semillas y hollejos, y congele los gajos en bolsas Ziploc bajo -18 °C para batidos o jugos."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Es seguro conservar las naranjas a temperatura ambiente?",
+            "answer": "En épocas frescas (10-15 °C), se pueden conservar a temperatura ambiente en un lugar sombreado y ventilado durante 1 a 2 semanas. Sin embargo, con clima cálido o para conservación prolongada, envolverlas e introducirlas en el refrigerador (4-8 °C) es imprescindible."
+          },
+          {
+            "question": "¿Es seguro el polvo blanco o el brillo de la cáscara de naranja?",
+            "answer": "El brillo proviene de ceras naturales de grado alimentario aplicadas para evitar la pérdida de humedad, y el polvo blanco suele ser tratamiento de calcio. Aunque son inocuos, se recomienda lavar bien la piel con agua tibia y bicarbonato antes de consumir."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver les oranges fraîches : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les oranges selon les directives officielles de sécurité.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Avez-vous déjà acheté une cagette d'oranges pour constater quelques jours plus tard que leur peau s'asséchait ou qu'elles se couvraient de moisissure bleue ou verte ? 🍊\n\nL'orange est un agrume riche en eau et en vitamine C, qui continue de respirer et d'émettre de l'humidité après la récolte. À température ambiante, elle perd son jus et sa fermeté, tandis que l'humidité stagnante favorise le développement rapide de moisissures qui contaminent les fruits voisins.\n\nDans ce guide, vous présente un guide scientifique de conservation des oranges en 3 étapes recommandé par des experts pour préserver leur fraîcheur et leur jus. 🛡️",
+        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne lavez jamais les oranges avant de les stocker 💧",
+            "desc": "L'eau sur la peau crée un milieu idéal pour la prolifération des spores de moisissure. Essuyez simplement la poussière avec de l'essuie-tout sec avant stockage, et ne les lavez qu'au moment de la dégustation."
+          },
+          {
+            "title": "Isolez immédiatement les oranges moisies ou ramollies 🍊",
+            "desc": "La moisissure bleue ou verte des agrumes se propage rapidement dans l'air par les spores. Jetez immédiatement toute orange touchée pour protéger les autres."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Envelopper individuellement dans du papier absorbant ou du journal — Maintien de l'humidité & Barrière anti-moisissure 📦",
+            "text": "Le contact direct entre les oranges accumule l'humidité et accélère le pourrissement. 💡 Astuce de conservation : Enveloppez chaque orange sèche dans du papier absorbant ou du journal. Cela préserve le jus du fruit tout en bloquant les spores."
+          },
+          {
+            "name": "Conserver à basse température (4–8 °C) dans le bac à légumes — Réfrigération (3-4 semaines) ❄️",
+            "text": "La température idéale pour préserver la fraîcheur des oranges est comprise entre 4 et 8 °C. 💡 Astuce de conservation : Placez les oranges emballées dans un sac perforé ou une boîte dans le bac à légumes du réfrigérateur pour conserver leur jus 3 à 4 semaines."
+          },
+          {
+            "name": "Éplucher et séparer les quartiers avant de congeler — Stockage congelé (2-3 mois) ❄️",
+            "text": "Congeler une orange entière avec sa peau brise ses membranes cellulaires, rendant la chair molle à la décongélation. 💡 Astuce de conservation : Épluchez l'orange, retirez les pépins, et congelez les quartiers en sac congélation sous -18 °C pour jus ou smoothies."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Peut-on conserver les oranges à température ambiante ?",
+            "answer": "Par temps frais (10–15 °C), les oranges se conservent 1 à 2 semaines à température ambiante dans un endroit aéré et ombragé. Mais par temps chaud ou pour une longue conservation, l'emballage individuel au réfrigérateur (4–8 °C) est indispensable."
+          },
+          {
+            "question": "La fine poudre blanche ou la brillance sur la peau de l'orange est-elle sans danger ?",
+            "answer": "La brillance provient de cires naturelles alimentaires appliquées pour éviter le dessèchement, et la poudre blanche est souvent un spray calcique. Bien qu'inoffensifs, lavez soigneusement la peau avec de l'eau tiède et du bicarbonate avant consommation."
+          }
+        ]
+      },
+      "de": {
+        "title": "Orangen richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Orangen basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Haben Sie schon einmal eine Kiste Orangen gekauft, nur um nach wenigen Tagen festzustellen, dass die Schale austrocknete oder sich grüner/blauer Schimmel bildete? 🍊\n\nOrangen sind wasser- und vitamin-C-reiche Zitrusfrüchte, die auch nach der Ernte weiteratmen und Feuchtigkeit abgeben. Bei Raumtemperatur verliert das Fruchtfleisch rasch an Saftigkeit, während gestaute Feuchtigkeit die Schimmelbildung begünstigt und umliegende Früchte ansteckt.\n\nIn diesem Ratgeber erfahren Sie einen von Experten empfohlenen, wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Frische und den Saftgehalt Ihrer Orangen zu maximieren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Orangen vor der Lagerung niemals waschen 💧",
+            "desc": "Restfeuchte auf der Schale bietet einen idealen Nährboden für Schimmelsporen. Wischen Sie Schmutz vor der Lagerung nur mit einem trockenen Tuch ab und waschen Sie Orangen erst direkt vor dem Verzehr."
+          },
+          {
+            "title": "Schimmelige oder weiche Orangen sofort aussortieren 🍊",
+            "desc": "Grün- und Blaupimmel bei Zitrusfrüchten breitet sich über Sporen in der Luft rasch aus. Sortieren Sie betroffene Orangen sofort aus, um die gesunden Früchte zu schützen."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Einzeln in Küchenpapier oder Zeitungspapier einwickeln — Feuchtigkeitsschutz & Schimmelbarriere 📦",
+            "text": "Direkter Kontakt zwischen Orangen staut Feuchtigkeit und beschleunigt den Verderb. 💡 Lagerungstipp: Wickeln Sie jede trockene Orange einzeln fest in Küchenpapier oder Zeitungspapier ein. Das bewahrt die Saftigkeit und stoppt Schimmelsporen."
+          },
+          {
+            "name": "Bei 4–8 °C im Gemüsefach kühlen — Kühllagerung (3–4 Wochen) ❄️",
+            "text": "Die optimale Temperatur zur Frischehaltung von Orangen liegt bei 4–8 °C. 💡 Lagerungstipp: Geben Sie die eingewickelten Orangen in einen gelochten Beutel oder Behälter im Gemüsefach des Kühlschranks, um Saft und Geschmack 3 bis 4 Wochen zu bewahren."
+          },
+          {
+            "name": "Schälen und in Segmente teilen vor dem Einfrieren — Gefrierlagerung (2–3 Monate) ❄️",
+            "text": "Das Einfrieren ganzer Orangen zerstört die Zellwände und macht das Fleisch matschig. 💡 Lagerungstipp: Schälen Sie die Orange, entfernen Sie Kerne und weiße Hauthülle, und frieren Sie die Filets im Ziploc-Beutel unter -18 °C für Smoothies ein."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Kann man Orangen bei Raumtemperatur lagern?",
+            "answer": "In kühlen Jahreszeiten (10–15 °C) lassen sich Orangen 1–2 Wochen an einem schattigen, belüfteten Ort bei Raumtemperatur aufbewahren. Bei wärmerem Wetter oder für längere Lagerung ist das kühle Einwickeln im Kühlschrank (4–8 °C) unerlässlich."
+          },
+          {
+            "question": "Ist der weiße Belag oder Glanz auf der Orangenschale unbedenklich?",
+            "answer": "Der Glanz stammt von essbarem Naturwachs gegen Austrocknung, der weiße Belag oft von Kalziumbehandlungen. Obwohl unbedenklich, sollten Sie die Schale vor dem Verzehr mit warmem Wasser und Natron gründlich abwaschen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar laranjas frescas: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para as laranjas com base em diretrizes oficiais de segurança.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Você já comprou uma caixa de laranjas e percebeu que em poucos dias a casca ressecou ou surgiram bolores azuis ou verdes nas frutas? 🍊\n\nA laranja é um cítrico rico em água e vitamina C, continuando a respirar e a liberar umidade após a colheita. Em temperatura ambiente, a polpa perde suco e fica murcha, enquanto a umidade acumulada favorece o crescimento rápido de fungos que infectam as frutas ao redor.\n\nNeste guia, apresentamos um guia prático de conservação de laranjas em 3 etapas recomendado por especialistas para manter o frescor e a suculência das suas frutas. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca lave as laranjas antes de guardar 💧",
+            "desc": "A umidade na casca cria o ambiente perfeito para a proliferação de esporos de mofo. Limpe a poeira com pano seco ou papel-toalha antes de guardar e lave-as apenas na hora de consumir."
+          },
+          {
+            "title": "Isole laranjas mofadas ou macias imediatamente 🍊",
+            "desc": "O mofo azul ou verde dos cítricos se espalha rapidamente pelo ar através de esporos. Descarte imediatamente qualquer laranja afetada para proteger as demais."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Embrulhar individualmente em papel-toalha ou jornal — Retenção de umidade e barreira contra mofo 📦",
+            "text": "O contato direto entre laranjas acumula umidade e acelera a podridão. 💡 Dica de conservação: Embrulhe cada laranja seca individualmente em papel-toalha ou jornal. Isso mantém a suculência e impede a transmissão de esporos."
+          },
+          {
+            "name": "Guardar em refrigeração de 4 a 8 °C na gaveta de legumes — Refrigeração (3 a 4 semanas) ❄️",
+            "text": "A temperatura ideal para preservar a frescura das laranjas é de 4 a 8 °C. 💡 Dica de conservação: Coloque as laranjas embaladas em papel num saco perfurado ou pote na gaveta de legumes para manter o suco por 3 a 4 semanas."
+          },
+          {
+            "name": "Descascar e separar em gomos para congelar a longo prazo — Congelamento (2 a 3 meses) ❄️",
+            "text": "Congelar laranjas inteiras com casca destrói as paredes celulares, deixando a polpa mole ao descongelar. 💡 Dica de conservação: Descasque a laranja, retire sementes e bagaços, e congele os gomos em sacos Ziploc a menos de -18 °C para sucos ou sucos."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "É seguro guardar laranjas em temperatura ambiente?",
+            "answer": "Em épocas frias (10-15 °C), as laranjas podem ficar em local ventilado e à sombra por 1 a 2 semanas. Porém, no calor ou para guardar por mais tempo, embrulhar e refrigerar (4-8 °C) é indispensável para evitar o ressecamento e o mofo."
+          },
+          {
+            "question": "O pó branco ou o brilho na casca da laranja é seguro?",
+            "answer": "O brilho vem de ceras naturais de grau alimentício usadas para evitar perda de umidade, e o pó branco costuma ser spray de cálcio. Embora inofensivos, lave bem a casca em água morna com bicarbonato antes de consumir."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Jeruk agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk jeruk berdasarkan pedoman keselamatan resmi.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Pernahkah Anda membeli satu kotak jeruk lalu mendapati kulitnya mengering keras atau ditumbuhi jamur biru-hijau setelah beberapa hari? 🍊\n\nJeruk adalah buah sitrus kaya air dan vitamin C yang terus bernapas serta mengeluarkan kelembapan setelah dipanen. Membiarkannya di suhu ruang menyebabkan kadar air menguap sehingga bulirnya lembek dan hambar, sedangkan kelembapan terperangkap memicu tumbuhnya jamur yang cepat menulari jeruk lainnya.\n\nDalam panduan ini, kami membagikan panduan penyimpanan jeruk 3 langkah berbasis ilmiah yang direkomondesikan oleh ahli keamanan pangan untuk menjaga kesegaran dan kandungan airnya. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan mencuci jeruk sebelum disimpan 💧",
+            "desc": "Air yang tersisa pada kulit jeruk menjadi tempat ideal bagi spora jamur untuk berkembang biak. Lap kotoran atau debu dengan kain kering atau tisu dapur sebelum disimpan, dan cucilah tepat sebelum dimakan."
+          },
+          {
+            "title": "Segera pisahkan jeruk yang berjamur atau lembek 🍊",
+            "desc": "Jamur hijau dan biru pada buah sitrus menyebar dengan cepat melalui udara. Segera buang jeruk yang mulai berjamur untuk melindungi jeruk lainnya yang masih segar."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Bungkus satu per satu dengan tisu dapur atau koran — Perlindungan Kelembapan & Penghalang Jamur 📦",
+            "text": "Kontak langsung antarjeruk menimbulkan gesekan dan menumpuk kelembapan yang mempercepat pembusukan. 💡 Tips Penyimpanan: Bungkus setiap jeruk kering secara rapat menggunakan tisu dapur atau koran untuk menjaga kesegaran dan menahan spora jamur."
+          },
+          {
+            "name": "Simpan pada suhu dingin 4–8°C di laci sayur — Simpan Dingin (3–4 Minggu) ❄️",
+            "text": "Suhu terbaik untuk menjaga kesegaran jeruk dalam jangka panjang adalah 4–8°C. 💡 Tips Penyimpanan: Masukkan jeruk terbungkus kertas ke dalam kantong plastik berlubang atau wadah di laci sayuran kulkas agar tetap manis berair selama 3 hingga 4 minggu."
+          },
+          {
+            "name": "Kupas dan pisahkan bulir sebelum dibekukan untuk jangka panjang — Simpan Beku (2–3 Bulan) ❄️",
+            "text": "Membekukan jeruk utuh bersama kulitnya merusak dinding sel sehingga bulirnya menjadi cair lembek saat dicairkan. 💡 Tips Penyimpanan: Kupas jeruk, buang biji dan serat putihnya, lalu bekukan bulir jeruk dalam kantong ziploc di bawah -18°C untuk jus atau smoothie."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah aman menyimpan jeruk pada suhu ruang?",
+            "answer": "Pada musim dingin atau udara sejuk (10–15°C), jeruk dapat disimpan di tempat teduh dan berangin selama 1 hingga 2 minggu. Namun saat cuaca hangat atau untuk penyimpanan lama, membungkus dan menyimpannya di kulkas (4–8°C) sangat penting untuk mencegah kekeringan dan jamur."
+          },
+          {
+            "question": "Apakah serbuk putih atau lapisan mengilap pada kulit jeruk aman?",
+            "answer": "Lapisan mengilap berasal dari lilin alami aman (food-grade) untuk mencegah penguapan air, dan serbuk putih umumnya adalah kalsium. Meskipun aman, disarankan untuk mencuci bersih kulit jeruk dengan air hangat dan baking soda sebelum dikonsumsi."
+          }
+        ]
+      }
     }
+  }
 }

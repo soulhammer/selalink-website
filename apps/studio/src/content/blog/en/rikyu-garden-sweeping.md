@@ -61,7 +61,7 @@ This article analyzes the scientific connection between repetitive physical acti
       </div>
     </div>
     <div class="flex flex-col items-center justify-center gap-3 shrink-0 w-full lg:w-[340px] pt-4 lg:pt-0 border-t lg:border-t-0 border-slate-200/40 dark:border-slate-700/30">
-      <div class="flex items-center justify-center -space-x-3 py-1" title="역사 속 위인 멘토들과 함께하세요">
+      <div class="flex items-center justify-center -space-x-3 py-1" title="Join historical mentors and figures">
         <img src="/images/buildself/mentors/einstein.webp" alt="Einstein Mentor" class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-30 hover:scale-110 transition-transform m-0" />
         <img src="/images/buildself/mentors/kingsejong.webp" alt="King Sejong Mentor" class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-20 hover:scale-110 transition-transform m-0" />
         <img src="/images/buildself/mentors/nikola_tesla.webp" alt="Nikola Tesla Mentor" class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-10 hover:scale-110 transition-transform m-0" />

@@ -1,459 +1,459 @@
 {
-    "mini-rex-rabbit-care": {
-        "pubDate": "2026-04-28",
-        "updatedDate": "2026-04-28",
-        "locales": {
-            "ko": {
-                "title": "미니 렉스 토끼 비단 모질과 발바닥 궤양 예방: 위장 정체 방지와 발보호 3단계 데일리 루틴",
-                "description": "벨벳 같은 털을 가진 미니 렉스 토끼 케어법. 발바닥 궤양(족염) 예방, 무제한 티모시 건초 급여, 위장 정체 예방 3단계 루틴을 다룹니다.",
-                "authority": "미국토끼협회(ARBA) 품종 표준 및 에키조틱 토끼 수의학 임상 가이드라인",
-                "profile": {
-                    "breed": "미니 렉스 토끼 (Mini Rex Rabbit)",
-                    "lifespan": "7 ~ 10년",
-                    "sleep_pattern": "6 ~ 8시간 (박명성 수면 - 새벽과 해질녘에 주로 활동)",
-                    "temperament": "온순함, 조용함, 다정함, 영리함, 호기심 많음"
-                },
-                "intro": "비단처럼 부드러운 벨벳 털과 동그란 몸집을 가진 미니 렉스는 개량형 렉스 품종 중 대표적인 인기 토끼입니다. 특유의 짧고 밀집된 털 구조는 피부를 보호하는 가드 헤어(겉털)가 적어 발바닥 털이 얇기 때문에 딱딱한 바닥에서 발바닥 궤양(족염/Sore Hocks)에 매우 취약합니다. 또한 초식동물 특성상 위장 정체(GI Stasis)를 막기 위한 무제한 티모시 건초 급여가 필수적입니다. 이번 가이드에서는 미니 렉스 토끼의 건강 시그널을 분석하고 3단계 홈케어 루틴을 소개합니다.",
-                "whyTitle": "미니 렉스 토끼의 신체 시그널: 강한 이갈이(통증)와 발 구르기(경계/발바닥 통증)",
-                "whyDesc": "미니 렉스가 **'몸을 웅크린 채 오도독 소리를 내며 강하게 이를 가는 모습'**은 위장 통증이나 가스 차임, 위장 정체의 위급 신호입니다. 반면 **'뒷다리로 바닥을 쿵쿵 치는 행동(덤핑)'**은 위협을 느끼거나 발바닥 통증을 호소하는 신호입니다.",
-                "body_signals": [
-                    {
-                        "name": "강한 이갈이와 몸 웅크림 (Loud Tooth Grinding & Hunched Posture)",
-                        "meaning": "위장 정체나 극심한 장 통증으로 인해 몸을 구부리고 둔탁한 소리로 이를 가는 상태입니다.",
-                        "response": "즉시 배를 부드럽게 마사지하고, 먹이와 배변이 정지된 경우 조속히 토끼 전문 동물병원으로 이동하여 위장관 운동 촉진제 진료를 받습니다."
-                    },
-                    {
-                        "name": "체중 실어 뒤뚱거리기 및 발 구르기 (Weight Shifting & Thumping)",
-                        "meaning": "발바닥 털이 얇아 딱딱한 바닥 자극으로 족염(Sore Hocks)이 생겼거나 경계심을 느끼는 신호입니다.",
-                        "response": "뒷발바닥 염증 여부를 점검하고, 사육장 바닥에 두꺼운 극세사 매트나 메모리폼 방석을 깔아 체중 압력을 분산시킵니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 무제한 티모시 건초 공급 및 대변 상태 확인",
-                        "text": "위장관 운동을 유지하도록 신선한 티모시 건초를 건초대에 가득 채우고 대변(동글이 똥)의 크기와 수량을 체크합니다."
-                    },
-                    {
-                        "name": "낮: 발바닥 보호 매트 점검 및 바닥 오염 청소",
-                        "text": "발바닥 궤양을 예방하기 위해 극세사 매트나 푹신한 베딩 상태를 점검하고 습기 찬 곳을 청소합니다."
-                    },
-                    {
-                        "name": "저녁: 야채 소량 급여 & 영양 똥(식해분) 섭취 확인 및 부드러운 교감",
-                        "text": "비타민 보충을 위해 펠릿과 무농약 야채를 소량 급여하고, 밤 시간대 부드럽게 쓰다듬어 주며 스킨십을 진행합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "미니 렉스 토끼는 왜 발바닥 궤양(족염)에 특히 취약한가요?",
-                        "answer": "미니 렉스는 특유의 털 구조 때문에 발바닥을 보호하는 억센 겉털이 없습니다. 이로 인해 철망 케이지나 딱딱한 마룻바닥에 체중이 직접 가해지면 피부 상처와 족염이 쉽게 발생합니다. 푹신한 극세사 매트나 패널 배치가 필수입니다."
-                    },
-                    {
-                        "question": "토끼에게 위장 정체(GI Stasis)가 발생하는 이유는 무엇인가요?",
-                        "answer": "섬유질 부족, 스트레스, 영양 불균형 등으로 소화관 운동이 멈추는 치명적인 질환입니다. 토끼의 위장은 쉬지 않고 움직여야 하므로 고섬유질 티모시 건초를 무제한으로 급여해 장 운동을 유지시켜야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Mini Rex Rabbit Velvet Coat and Sore Hocks Care: A 3-Step Daily Routine for GI Stasis and Foot Protection",
-                "description": "Essential care for the velvet-coated Mini Rex rabbit. Learn how to prevent sore hocks (pododermatitis), manage GI stasis, and supply unlimited Timothy hay.",
-                "authority": "American Rabbit Breeders Association (ARBA) Breed Standard & Exotic Rabbit Clinical Guidelines",
-                "profile": {
-                    "breed": "Mini Rex Rabbit",
-                    "lifespan": "7 ~ 10 Years",
-                    "sleep_pattern": "6 ~ 8 Hours (Crepuscular - Active during dawn and dusk)",
-                    "temperament": "Gentle, Quiet, Affectionate, Intelligent, Curious"
-                },
-                "intro": "Boasting a plush velvet-like coat and a compact body, the Mini Rex is one of the most popular rabbit breeds. Due to their unique coat mutation, they lack stiff guard hairs on their footpads, making them highly vulnerable to sore hocks (pododermatitis) when housed on hard surfaces. Additionally, as strict herbivores, they require an unlimited supply of high-fiber Timothy hay to prevent fatal Gastrointestinal (GI) Stasis. In this guide, outlines a 3-step daily routine for foot protection and gut health.",
-                "whyTitle": "Mini Rex Physical Signals: Loud Tooth Grinding (Pain) and Foot Thumping",
-                "whyDesc": "If a Mini Rex **'grinds its teeth loudly while hunched over'**, it is exhibiting a critical warning sign of severe abdominal pain or GI stasis. On the other hand, **'thumping the hind legs on the floor'** indicates fear, alertness, or discomfort from sore hocks.",
-                "body_signals": [
-                    {
-                        "name": "Loud Tooth Grinding & Hunched Posture",
-                        "meaning": "Indicates intense pain or gas buildup caused by Gastrointestinal (GI) Stasis.",
-                        "response": "Gently massage the abdomen; if feeding and droppings have stopped, visit an exotic vet immediately for motility gut medications."
-                    },
-                    {
-                        "name": "Weight Shifting & Thumping (Foot Discomfort)",
-                        "meaning": "Thin footpad fur exposed to hard flooring causes pressure sores (pododermatitis) or signals heightened wariness.",
-                        "response": "Inspect hind footpads for redness or hair loss, and line the enclosure floor with thick fleece blankets or memory foam rugs."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Unlimited Timothy Hay Supply & Fecal Check",
-                        "text": "Fill the hay rack with fresh Timothy hay to keep gut motility active, and check fecal pellets for normal size and quantity."
-                    },
-                    {
-                        "name": "Afternoon: Padded Flooring Inspection & Sanitation",
-                        "text": "Inspect fleece rugs or padded mats for dampness to protect footpads from pododermatitis, cleaning any soiled spots."
-                    },
-                    {
-                        "name": "Evening: Pellets & Leafy Green Feeding with Gentle Bonding",
-                        "text": "Provide a small portion of high-fiber pellets and rabbit-safe fresh greens, followed by gentle petting during their active evening hours."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why are Mini Rex rabbits especially prone to sore hocks (pododermatitis)?",
-                        "answer": "Mini Rex rabbits lack thick protective guard hairs on the soles of their feet. Wire cage floors or hard hardwood press directly against their skin, easily causing painful pressure sores. Padded fleece rugs or memory foam mats are essential."
-                    },
-                    {
-                        "question": "What causes Gastrointestinal (GI) Stasis in rabbits?",
-                        "answer": "GI Stasis is a life-threatening condition where gut motility slows or stops due to low fiber diets, stress, or pain. Rabbits need continuous fiber from unlimited Timothy hay to keep their digestive tract moving smoothly."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ミニレックスのベルベット被毛＆ソアホックケア：胃腸停滞予防と足裏保護の3段階日常ルーティン",
-                "description": "ベルベットのような被毛を持つミニレックスの飼育ガイド。ソアホック（足裏皮膚炎）の予防、チモシーの無制限給与、胃腸停滞対策を解説します。",
-                "authority": "アメリカウサギ協会(ARBA) 品種標準およびエキゾチックウサギ臨床ガイドライン",
-                "profile": {
-                    "breed": "ミニレックス (Mini Rex Rabbit)",
-                    "lifespan": "7 〜 10年",
-                    "sleep_pattern": "6 〜 8時間 (薄明薄暮性 - 明け方と夕方に活発)",
-                    "temperament": "温厚、静か、人懐っこい、賢い、好奇心旺盛"
-                },
-                "intro": "ベルベットのような極上の手触りと丸い体が魅力的なミニレックス。独特の短く密生した被毛構造は、皮膚を守るガードヘア（上毛）が少ないため足裏の毛が薄く、フローリングなどの硬い床でソアホック（足裏皮膚炎）を起こしやすい特徴があります。また草食動物として胃腸停滞（GIステイシス）を防ぐため、チモシー牧草の無制限給与が不可欠です。今回は足裏保護と消化器ケアのための3段階ルーティンをご紹介します。",
-                "whyTitle": "ミニレックスのボディランゲージ：強い歯ぎしり（痛み）と足ダンダン（警戒・足裏痛）",
-                "whyDesc": "ミニレックスが**「体を丸めてゴリゴリと強く歯ぎしりをする」**場合、お腹の痛みや胃腸停滞の危険シグナルです。一方**「後ろ足で床を強く叩く（スタンピング/足ダンダン）」**行動は、警戒やソアホックによる足裏の痛みを訴えています。",
-                "body_signals": [
-                    {
-                        "name": "強い歯ぎしりと丸まり姿勢 (Loud Tooth Grinding)",
-                        "meaning": "胃腸停滞やガス腹による激しいお腹の痛みを感じて体を丸めている状態です。",
-                        "response": "お腹を優しくマッサージし、食欲や排糞が止まっている場合は直ちにウサギ専門の動物病院を受診してください。"
-                    },
-                    {
-                        "name": "体重移動と足ダンダン (Weight Shifting & Thumping)",
-                        "meaning": "足裏の毛が薄いため硬い床刺激でソアホックが生じているか、警戒しているサインです。",
-                        "response": "足裏の赤みや脱毛を確認し、ケージや床に厚手のフリースラグやクッションマットを敷いて圧力を 散（分散）させます。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：チモシー牧草の補充と糞のチェック",
-                        "text": "腸の動きを維持するため新鮮なチシー牧草をフィーダーに満たし、丸い健康糞の count や大きさを確認します。"
-                    },
-                    {
-                        "name": "昼：足裏保護マットの点検と清潔保持",
-                        "text": "ソアホック予防のためマットの湿気や汚れをチェックし、足裏に負担がかからないフリース環境を維持します。"
-                    },
-                    {
-                        "name": "夜：ペレット・野菜の給与と撫で撫でコミュニケーション",
-                        "text": "ペレットと少量の新鮮な野菜を与え、活動的になる夜間に優しく撫でてスキンシップをとります。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "ミニレックスはなぜソアホック（足裏皮膚炎）になりやすいのですか？",
-                        "answer": "ミニレックスは足裏を保護する硬い上毛（ガードヘア）を持たない毛質のためです。金網ケージやフローリングに体重が直接かかることで皮膚擦過傷が起きやすいため、厚手のフリースややわらかいマットの設置が必須です。"
-                    },
-                    {
-                        "question": "ウサギの胃腸停滞（GIステイシス）はなぜ起こるのですか？",
-                        "answer": "繊維不足やストレスにより腸の蠕動運動が 停止する致死的な病気です。ウサギの胃腸は常に動き続ける必要があるため、高繊維のチモシー牧草を常に食べられる環境にしてください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "迷你力克斯兔天鹅绒被毛与脚底溃疡护理：预防肠胃停滞与脚掌保护的日常3步护理流程",
-                "description": "针对拥有天鹅绒般毛发的迷你力克斯兔（Mini Rex）护理。介绍预防脚底皮肤炎（Sore Hocks）、无限量提摩西干草喂食及3步日常护理流程。",
-                "authority": "美国家兔繁殖者协会 (ARBA) 品种标准与异宠兔科临床护理指南",
-                "profile": {
-                    "breed": "迷你力克斯兔 / 迷你迷你兔 (Mini Rex Rabbit)",
-                    "lifespan": "7 ~ 10年",
-                    "sleep_pattern": "6 ~ 8小时 (晨昏性 - 清晨与黄昏最活跃)",
-                    "temperament": "温顺、安静、粘人、聪明、充满好奇"
-                },
-                "intro": "迷你力克斯兔（Mini Rex）拥有如天鹅绒般极其软绵触感的短毛和圆滚滚的体型，是非常受欢迎的宠物兔品种。由于其独特的毛发基因突变，缺少保护皮肤的刚性针毛（Guard Hairs），脚底毛发十分稀薄，在坚硬的地板或铁丝网笼舍中极易患上脚底溃疡/足底皮肤炎（Sore Hocks）。此外，作为严格的草食动物，无限量供应高纤维提摩西干草以预防肠胃停滞（GI Stasis）至关重要。本指南将为您解析其健康信号并提供3步日常护理流程。",
-                "whyTitle": "迷你力克斯兔的肢体语言：剧烈磨牙（疼痛）与后脚跺地（警惕/脚底疼痛）",
-                "whyDesc": "当迷你力克斯兔出现 **“身体蜷缩并发出咯吱咯吱的剧烈磨牙声”** 时，这是严重的肠胃腹痛或肠胃停滞的危险警示。而 **“后脚用力跺地（Thumping）”** 则代表感到威胁或脚底皮肤溃疡引发的疼痛。",
-                "body_signals": [
-                    {
-                        "name": "剧烈磨牙与蜷缩 posture (Loud Tooth Grinding)",
-                        "meaning": "因肠胃停滞或严重胀气腹痛，导致其弯曲身体并发出沉闷的磨牙声。",
-                        "response": "轻轻按摩其腹部，若出现禁食排便停止，应立即前往兔科专科医院接受肠胃动力药物治疗。"
-                    },
-                    {
-                        "name": "重心交替与后脚跺地 (Weight Shifting & Thumping)",
-                        "meaning": "脚底毛发薄弱受硬地刺激引发足底皮肤炎（Sore Hocks），或处于高度警惕状态。",
-                        "response": "检查后脚掌是否有发红脱毛，并在笼舍及活动区铺设厚摇粒绒垫或记忆棉地垫以分散压力。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：无限量提摩西干草补充与粪便检查",
-                        "text": "在草架填满新鲜提摩西干草以维持肠道蠕动，检查正圆黑豆便的数量与大小。"
-                    },
-                    {
-                        "name": "中午：脚底保护垫排查与卫生清理",
-                        "text": "检查摇粒绒垫或地毯是否潮湿，及时清理污渍以保护脚底免受足底炎感染。"
-                    },
-                    {
-                        "name": "晚上：适量兔粮蔬菜喂食与温和抚摸陪伴",
-                        "text": "喂食少量的提摩西高纤维兔粮与无农药新鲜绿叶蔬菜，在其夜间活跃期进行抚摸互动。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "迷你力克斯兔为什么极易患上脚底溃疡（足底皮肤炎）？",
-                        "answer": "迷你力克斯兔缺少保护脚掌的粗硬针毛。如果踩在铁丝网笼底或坚硬的地板上，体重压力会直接作用于脚底皮肤，导致发红破溃。必须使用厚实的摇粒绒垫或泡沫软垫。"
-                    },
-                    {
-                        "question": "兔子为什么会发生肠胃停滞（GI Stasis）？",
-                        "answer": "肠胃停滞是由于缺乏膳食纤维、压力或疼痛导致的消化道蠕动停止的致死性疾病。兔子的胃肠必须时刻运转，因此必须保证无限量高纤维提摩西干草的供应。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cuidado del pelaje de terciopelo y pododermatitis en el Conejo Mini Rex: Rutina diaria de 3 pasos para la estasis GI y protección plantar",
-                "description": "Guía de cuidado para el conejo Mini Rex. Aprenda a prevenir la pododermatitis (sore hocks), evitar la estasis gastrointestinal y suministrar heno Timothy ilimitado.",
-                "authority": "Estándar de la American Rabbit Breeders Association (ARBA) y Directrices Clínicas Veterinarias de Conejos",
-                "profile": {
-                    "breed": "Conejo Mini Rex (Mini Rex Rabbit)",
-                    "lifespan": "7 ~ 10 años",
-                    "sleep_pattern": "6 ~ 8 horas (crepuscular: mayor actividad al amanecer y anochecer)",
-                    "temperament": "Dócil, Tranquilo, Afectuoso, Inteligente, Curioso"
-                },
-                "intro": "Con su pelaje mullido de tacto aterciopelado y su cuerpo compacto, el Mini Rex es una de las razas de conejos más admiradas. Debido a la mutación única de su pelo, carecen de pelos de cobertura rígidos en las almohadillas plantares, lo que los hace extremadamente vulnerables a la pododermatitis (sore hocks) en suelos duros. Además, como herbívoros estrictos, requieren heno Timothy de fibra alta sin límite para prevenir la fatal estasis gastrointestinal (GI Stasis).  le presenta una rutina de 3 pasos para la salud plantar y digestiva.",
-                "whyTitle": "Señales corporales del Mini Rex: Chirrido fuerte de dientes (dolor) y pateo con las patas traseras",
-                "whyDesc": "Si un Mini Rex **'chirría sus dientes fuertemente mientras permanece encorvado'**, es una señal de advertencia crítica de dolor abdominal agudo o estasis GI. Por otro lado, **'dar patadas fuertes en el suelo con las patas traseras (thumping)'** indica miedo, alerta o molestias por pododermatitis.",
-                "body_signals": [
-                    {
-                        "name": "Chirrido fuerte de dientes y postura encorvada",
-                        "meaning": "Indica dolor agudo o acumulación de gases provocados por la estasis gastrointestinal (GI Stasis).",
-                        "response": "Realice un suave masaje abdominal; si ha dejado de comer y defecar, acuda de inmediato al veterinario especialista en exóticos."
-                    },
-                    {
-                        "name": "Cambio de peso plantar y pateo (Thumping)",
-                        "meaning": "Pelo plantar delgado expuesto a suelos duros que produce laceraciones (pododermatitis) o muestra gran inquietud.",
-                        "response": "Examine los talones traseros para detectar enrojecimientos y cubra el suelo con alfombras de lana polar o espuma."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Suministro ilimitado de heno Timothy y control de heces",
-                        "text": "Llene la henera con heno Timothy fresco para estimular la motilidad intestinal y compruebe el tamaño y cantidad de los conegranas (heces cecales y duras)."
-                    },
-                    {
-                        "name": "Tarde: Inspección y limpieza de las alfombras protectoras",
-                        "text": "Revise las alfombras polares para asegurarse de que estén secas y limpias, protegiendo sus almohadillas de la pododermatitis."
-                    },
-                    {
-                        "name": "Noche: Alimentación de pienso con verduras y caricias suaves",
-                        "text": "Ofrezca una porción pequeña de pienso alto en fibra y hojas verdes frescas, dedicando tiempo a acariciarlo suavemente durante su periodo activo."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué los conejos Mini Rex son tan propensos a la pododermatitis (sore hocks)?",
-                        "answer": "Los Mini Rex carecen de pelos primarios duros en la planta de sus patas. Las rejas metálicas o suelos de madera dura ejercen presión directa sobre la piel, causando dolorosas llagas. Las mantas polares o alfombras acolchadas son imprescindibles."
-                    },
-                    {
-                        "question": "¿Qué provoca la estasis gastrointestinal (GI Stasis) en los conejos?",
-                        "answer": "La estasis GI es un proceso potencialmente mortal donde el tránsito digestivo se frena por falta de fibra, estrés o dolor. Los conejos necesitan fibra continua del heno Timothy sin límite para mantener la motilidad digestiva activa."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Soins du Lapin Mini Rex (Pelage Velours et Pododermatite) : Routine quotidienne en 3 étapes pour la stase digestive et la protection des coussinets",
-                "description": "Guide de soin pour le lapin Mini Rex au pelage velouté. Apprenez à prévenir la pododermatite (sore hocks), éviter la stase gastro-intestinale et fournir du foin à volonté.",
-                "authority": "Standard de l'American Rabbit Breeders Association (ARBA) et Directives Cliniques Vétérinaires pour Lapins",
-                "profile": {
-                    "breed": "Lapin Mini Rex (Mini Rex Rabbit)",
-                    "lifespan": "7 ~ 10 ans",
-                    "sleep_pattern": "6 ~ 8 heures (crépusculaire : très actif à l'aube et au crépuscule)",
-                    "temperament": "Doux, Calme, Affectueux, Intelligent, Curieux"
-                },
-                "intro": "Doté d'une fourrure au toucher velours incroyable et d'un corps rond, le Mini Rex est un lapin de compagnie très populaire. En raison de sa mutation génétique, il ne possède pas de poils de couverture raides sur les pattes, ce qui rend ses coussinets très vulnérables à la pododermatite (sore hocks) sur sols durs. De plus, son transit d'herbivore exige du foin de fléole (Timothy) à volonté pour prévenir la stase gastro-intestinale. Ce guide vous propose une routine de soin en 3 étapes.",
-                "whyTitle": "Langage corporel du Mini Rex : Grincement de dents fort (douleur) et tapement de patte",
-                "whyDesc": "Si un Mini Rex **« grince fort des dents en restant prostré »**, c'est un signal d'alarme de forte douleur abdominale ou de stase digestive. En revanche, **« taper fort du pied arrière au sol (thumping) »** traduit de la peur, de l'agacement ou une douleur aux patte.",
-                "body_signals": [
-                    {
-                        "name": "Grincement de dents fort et prostration",
-                        "meaning": "Signe de douleur intense ou de ballonnements dus à une stase gastro-intestinale.",
-                        "response": "Massez doucement son ventre ; si le lapin ne mange ni ne crotte plus, consultez immédiatement un vétérinaire NAC."
-                    },
-                    {
-                        "name": "Changement d'appui et tapement de patte (Thumping)",
-                        "meaning": "Irritation des coussinets causée par des sols durs (pododermatite) ou réaction d'alerte.",
-                        "response": "Inspectez ses talons arrière pour détecter d'éventuelles rougeurs et recouvrez le sol de tapis molletonnés en polaire."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Distribution illimitée de foin Timothy et contrôle des crottes",
-                        "text": "Remplissez le râtelier de foin de fléole frais pour stimuler le transit et vérifiez que les crottes dorées sont bien rondes et nombreuses."
-                    },
-                    {
-                        "name": "Midi : Contrôle des tapis de sol et hygiène de la cage",
-                        "text": "Assurez-vous que les tapis en polaire sont bien secs et propres pour protéger ses coussinets de l'humidité."
-                    },
-                    {
-                        "name": "Soir : Distribution de granulés, verdure et caresses douces",
-                        "text": "Donnez une poignée de granulés riches en fibres et de la verdure fraîche rincée, puis profitez d'un moment de câlins apaisants."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi le lapin Mini Rex est-il si sujet à la pododermatite (sore hocks) ?",
-                        "answer": "Le pelage du Mini Rex est dépourvu de poil de jarre rigide sur le dessous des pattes. Le contact direct avec des grilles ou des sols durs provoque rapidement des lésions douloureuses. Des tapis épais en polaire ou en mousse sont indispensables."
-                    },
-                    {
-                        "question": "Quelles sont les causes de la stase gastro-intestinale chez le lapin ?",
-                        "answer": "C'est un arrêt mortel du transit provoqué par un manque de fibres, du stress ou de la douleur. Le lapin a besoin des fibres du foin Timothy distribué à volonté pour maintenir sa digestion en mouvement."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Mini-Rex-Kaninchen Samtfell- & Wunden-Sohlen-Pflege: Tägliche 3-Schritte-Routine für Magen-Darm-Gesundheit und Pfotenschutz",
-                "description": "Pflegeanleitung für das Mini-Rex-Kaninchen mit samtigem Fell. Erfahren Sie alles über die Prävention von Pododermatitis (Sore Hocks), Magen-Darm-Inaktivität und Timothy-Heu.",
-                "authority": "Standard der American Rabbit Breeders Association (ARBA) & Klinische Leitlinien der Kaninchenmedizin",
-                "profile": {
-                    "breed": "Mini-Rex-Kaninchen (Mini Rex Rabbit)",
-                    "lifespan": "7 ~ 10 Jahre",
-                    "sleep_pattern": "6 ~ 8 Stunden (Dämmerungsaktiv - aktiv in den Morgen- und Abendstunden)",
-                    "temperament": "Sanftmütig, Ruhig, Anhänglich, Intelligent, Neugierig"
-                },
-                "intro": "Mit seinem edlen, samtartigen Fell und seinem kompakten Körper ist das Mini-Rex-Kaninchen eine der beliebtesten Rassen. Durch die besondere Fellmutation fehlen ihm jedoch schützende Grannenhaare an den Pfotensohlen, wodurch es auf harten Böden extrem anfällig für Wunde Sohlen (Pododermatitis / Sore Hocks) ist. Zudem benötigt das Kaninchen als Pflanzenfresser unbegrenzt Timothy-Heu, um eine lebensgefährliche Magen-Darm-Inaktivität (GI Stasis) zu vermeiden. Dieser Ratgeber zeigt eine 3-Schritte-Routine vor.",
-                "whyTitle": "Körpersprache des Mini-Rex: Lautes Zähneknirschen (Schmerz) und Klopfen mit den Hinterläufen",
-                "whyDesc": "Zeigt ein Mini-Rex **'lautes Zähneknirschen in gekrümmter Haltung'**, ist dies ein schwerwiegendes Alarmzeichen für Magen-Darm-Schmerzen. **'Lautes Klopfen mit den Hinterläufen (Thumping)'** signalisiert dagegen Angst, Warnung oder Schmerzen durch Sohlengeschwüre.",
-                "body_signals": [
-                    {
-                        "name": "Lautes Zähneknirschen & gekrümmte Haltung",
-                        "meaning": "Zeichen für starke Schmerzen oder Blähungen durch eine Magen-Darm-Inaktivität (GI Stasis).",
-                        "response": "Massieren Sie sanft den Bauch; hat das Tier das Fressen eingestellt, suchen Sie sofort einen kaninchenkundigen Tierarzt auf."
-                    },
-                    {
-                        "name": "Gewichtsverlagerung & Klopfen (Pfotenschmerz)",
-                        "meaning": "Dünne Pfotensohlen entzünden sich auf harten Böden (Pododermatitis) oder das Tier zeigt extreme Unruhe.",
-                        "response": "Prüfen Sie die Hintersohlen auf Rötungen und legen Sie das Gehege mit dicken Fleece-Decken oder Schaumstoffmatten aus."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Unbegrenztes Timothy-Heu & Kot-Kontrolle",
-                        "text": "Füllen Sie die Heuraufe mit frischem Timothy-Heu, um die Darmmotorik aufrechtzuerhalten, und kontrollieren Sie die Kotkügelchen."
-                    },
-                    {
-                        "name": "Mittag: Inspektion der Pfotenschutz-Matten",
-                        "text": "Überprüfen Sie, ob Decken und Matten trocken sind, um die Pfotensohlen vor Feuchtigkeit und Druck zu schützen."
-                    },
-                    {
-                        "name": "Abend: Pellets, Frischfutter & Sanfte Zuwendung",
-                        "text": "Füttern Sie eine kleine Menge ballaststoffreiche Pellets und frisches Grünfutter und streicheln Sie das Tier während seiner aktiven Phase."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum neigt das Mini-Rex-Kaninchen zu wunden Sohlen (Pododermatitis)?",
-                        "answer": "Mini-Rex-Kaninchen besitzen keine festen Schutzgrannen an den Pfotensohlen. Harter Boden oder Gitterdrähte drücken direkt auf die Haut, was rasch zu schmerzhaften Geschwüren führt. Weiche Fleece-Teppiche sind daher Pflicht."
-                    },
-                    {
-                        "question": "Wie entsteht eine Magen-Darm-Inaktivität (GI Stasis)?",
-                        "answer": "Dies ist ein lebensbedrohlicher Zustand, bei dem die Darmbewegung durch Ballaststoffmangel, Stress oder Schmerz zum Erliegen kommt. Kaninchen brauchen ständig Rohfaser aus Timothy-Heu."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Cuidado da Pelagem aveludada e Pododermatite do Coelho Mini Rex: Rotina diária de 3 passos para estase GI e proteção plantar",
-                "description": "Guia de cuidados para o coelho Mini Rex de pelagem aveludada. Saiba como prevenir pododermatite (sore hocks), evitar estase gastrointestinal e fornecer feno Timothy ilimitado.",
-                "authority": "Padrão da American Rabbit Breeders Association (ARBA) e Diretrizes Clínicas Veterinárias de Coelhos",
-                "profile": {
-                    "breed": "Coelho Mini Rex (Mini Rex Rabbit)",
-                    "lifespan": "7 ~ 10 anos",
-                    "sleep_pattern": "6 ~ 8 horas (crepuscular - mais ativo ao amanhecer e anoitecer)",
-                    "temperament": "Dócil, Calmo, Afetuoso, Inteligente, Curioso"
-                },
-                "intro": "Com uma pelagem de toque aveludado e um corpo compacto, o Mini Rex é uma das raças de coelhos mais queridas. Devido à mutação do seu pelo, eles não possuem pelos duros de proteção na sola das patas, o que os torna muito vulneráveis à pododermatite (sore hocks) em superfícies rígidas. Além disso, como herbívoros, necessitam de feno Timothy rico em fibras à vontade para evitar a fatal estase gastrointestinal. O Este guia  uma rotina de 3 passos para a saúde plantar e digestiva.",
-                "whyTitle": "Sinais corporais do Mini Rex: RANGER forte de dentes (dor) e batida de patas no chão",
-                "whyDesc": "Se um Mini Rex **'ranger os dentes fortemente enquanto permanece encolhido'**, é um aviso crítico de dor abdominal intensa ou estase gastrointestinal. Por outro lado, **'bater forte com as patas traseiras no chão (thumping)'** indica medo, alerta ou desconforto causado por pododermatite.",
-                "body_signals": [
-                    {
-                        "name": "Ranger de dentes forte e postura encolhida",
-                        "meaning": "Indica dor aguda ou acúmulo de gases provocados por estase gastrointestinal (GI Stasis).",
-                        "response": "Faça uma massagem abdominal suave; se o animal parar de comer e defecar, leve-o imediatamente ao veterinário de exóticos."
-                    },
-                    {
-                        "name": "Mudança de peso plantar e batida de patas (Thumping)",
-                        "meaning": "Pelo plantar fino exposto a pisos duros causando feridas (pododermatite) ou estado de alerta extremo.",
-                        "response": "Examine os calcanhares para detectar vermelhidão e forre o piso com mantas de soft/fleece ou tapetes acolchoados."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Fornecimento ilimitado de feno Timothy e controle fecal",
-                        "text": "Encha o suporte com feno Timothy fresco para estimular os movimentos intestinais e confira o tamanho e quantidade das fezes."
-                    },
-                    {
-                        "name": "Tarde: Inspeção e higienização dos tapetes de proteção",
-                        "text": "Verifique se os tapetes acolchoados estão limpos e secos para proteger as patas da humidade e atrito."
-                    },
-                    {
-                        "name": "Noite: Ração de pellets com vegetais e carinho suave",
-                        "text": "Ofereça uma pequena porção de pellets ricos em fibra e folhas verdes frescas, aproveitando para fazer carinho durante o seu período ativo."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Por que os coelhos Mini Rex são tão propensos à pododermatite (sore hocks)?",
-                        "answer": "Os coelhos Mini Rex não possuem pelos primários duros para proteger a sola das patas. Pisos de arame ou madeira dura pressionam a pele diretamente, causando feridas dolorosas. O uso de mantas macias de soft/fleece é indispensável."
-                    },
-                    {
-                        "question": "O que causa a estase gastrointestinal (GI Stasis) nos coelhos?",
-                        "answer": "Trata-se de uma interrupção fatal do trânsito digestivo provocada por falta de fibra, estresse ou dor. Os coelhos precisam de fibra contínua vinda do feno Timothy ilimitado para manter o intestino funcionando."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Panduan Perawatan Kelinci Mini Rex: Perawatan Bulu Beludru & Sore Hocks melalui 3 Langkah Rutinitas Harian",
-                "description": "Perawatan esensial untuk kelinci Mini Rex berbulu beludru. Pelajari cara mencegah sore hocks (pododermatitis), mengelola stasis pencernaan (GI stasis), dan menyediakan rumput Timothy tanpa batas.",
-                "authority": "Standar Trah American Rabbit Breeders Association (ARBA) & Pedoman Klinis Dokter Hewan Kelinci Eksotis",
-                "profile": {
-                    "breed": "Kelinci Mini Rex (Mini Rex Rabbit)",
-                    "lifespan": "7 ~ 10 tahun",
-                    "sleep_pattern": "6 ~ 8 jam (krepuskular - paling aktif saat fajar dan senja)",
-                    "temperament": "Penurut, Tenang, Penyayang, Cerdas, Ingin Tahu"
-                },
-                "intro": "Memiliki bulu bertekstur beludru yang sangat lembut dan tubuh yang membulat, Mini Rex adalah salah satu jenis kelinci paling populer. Namun, akibat mutasi bulunya yang khas, telapak kaki mereka tidak memiliki lapisan bulu pelindung yang tebal, sehingga sangat rentan mengalami sore hocks (pododermatitis) jika berada di atas lantai yang keras. Selain itu, sebagai hewan herbivora, rumput Timothy hay wajib tersedia tanpa batas untuk mencegah stasis pencernaan (GI stasis). Dalam panduan ini, menyajikan 3 langkah rutinitas harian.",
-                "whyTitle": "Bahasa Tubuh Kelinci Mini Rex: Menggeretakkan Gigi Nyaring (Sakit) dan Menghentakkan Kaki",
-                "whyDesc": "Jika kelinci Mini Rex **'menggeretakkan giginya dengan nyaring sambil membungkuk'**, ini adalah sinyal bahaya adanya rasa sakit hebat pada perut atau stasis pencernaan. Sementara itu, **'menghentakkan kaki belakang ke lantai (thumping)'** menandakan rasa takut atau rasa sakit akibat sore hocks.",
-                "body_signals": [
-                    {
-                        "name": "Menggeretakkan Gigi Nyaring & Postur Membungkuk",
-                        "meaning": "Menandakan rasa sakit hebat atau kembung akibat stasis pencernaan (GI stasis).",
-                        "response": "Pijat lembut perutnya; jika kelinci berhenti makan dan buang air besar, segera bawa ke dokter hewan eksotis."
-                    },
-                    {
-                        "name": "Menggeser Tumpuan Kaki & Menghentakkan Kaki (Thumping)",
-                        "meaning": "Lapisan bulu telapak kaki yang tipis tertekan lantai keras hingga memicu sore hocks atau menandakan rasa waspada.",
-                        "response": "Periksa telapak kaki belakang dari kemerahan, dan lapisi lantai kandang dengan karpet fleece atau busa lembut."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Pemberian Rumput Timothy Hay Tanpa Batas & Cek Kotoran",
-                        "text": "Isi tempat pakan dengan rumput Timothy hay segar untuk menjaga pencernaan, dan periksa ukuran serta jumlah kotorannya."
-                    },
-                    {
-                        "name": "Siang: Pemeriksaan Karpet Pelindung Kaki & Kebersihan Kandang",
-                        "text": "Pastikan karpet fleece dalam keadaan kering dan bersih untuk melindungi telapak kakinya dari infeksi sore hocks."
-                    },
-                    {
-                        "name": "Malam: Pemberian Pelet & Sayuran Segar serta Elusan Lembut",
-                        "text": "Berikan sedikit pelet kaya serat dan sayuran hijau segar yang aman, lalu belus kelinci dengan lembut saat jam aktif malamnya."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa kelinci Mini Rex sangat rentan mengalami sore hocks (pododermatitis)?",
-                        "answer": "Mini Rex tidak memiliki bulu pelindung yang kasar pada bagian bawah telapak kakinya. Lantai kawat atau lantai kayu yang keras akan menekan kulit secara langsung hingga memicu luka. Penggunaan karpet fleece tebal sangat wajib."
-                    },
-                    {
-                        "question": "Apa yang menyebabkan timbulnya stasis pencernaan (GI stasis) pada kelinci?",
-                        "answer": "GI stasis adalah kondisi mematikan di mana pergerakan usus berhenti akibat kurang serat, stres, atau rasa sakit. Kelinci membutuhkan serat terus-menerus dari rumput Timothy hay tanpa batas agar organ pencernaannya berputar dengan lancar."
-                    }
-                ]
-            }
+  "mini-rex-rabbit-care": {
+    "pubDate": "2026-04-28",
+    "updatedDate": "2026-04-28",
+    "locales": {
+      "ko": {
+        "title": "미니 렉스 토끼 비단 모질과 발바닥 궤양 예방: 위장 정체 방지와 발보호 3단계 데일리 루틴",
+        "description": "벨벳 같은 털을 가진 미니 렉스 토끼 케어법. 발바닥 궤양(족염) 예방, 무제한 티모시 건초 급여, 위장 정체 예방 3단계 루틴을 다룹니다.",
+        "authority": "미국토끼협회(ARBA) 품종 표준 및 에키조틱 토끼 수의학 임상 가이드라인",
+        "profile": {
+          "breed": "미니 렉스 토끼 (Mini Rex Rabbit)",
+          "lifespan": "7 ~ 10년",
+          "sleep_pattern": "6 ~ 8시간 (박명성 수면 - 새벽과 해질녘에 주로 활동)",
+          "temperament": "온순함, 조용함, 다정함, 영리함, 호기심 많음"
         },
-        "heroImage": "/images/blog/mini_rex_rabbit_care.webp"
-    }
+        "intro": "비단처럼 부드러운 벨벳 털과 동그란 몸집을 가진 미니 렉스는 개량형 렉스 품종 중 대표적인 인기 토끼입니다. 특유의 짧고 밀집된 털 구조는 피부를 보호하는 가드 헤어(겉털)가 적어 발바닥 털이 얇기 때문에 딱딱한 바닥에서 발바닥 궤양(족염/Sore Hocks)에 매우 취약합니다. 또한 초식동물 특성상 위장 정체(GI Stasis)를 막기 위한 무제한 티모시 건초 급여가 필수적입니다. 이번 가이드에서는 미니 렉스 토끼의 건강 시그널을 분석하고 3단계 홈케어 루틴을 소개합니다.",
+        "whyTitle": "미니 렉스 토끼의 신체 시그널: 강한 이갈이(통증)와 발 구르기(경계/발바닥 통증)",
+        "whyDesc": "미니 렉스가 **'몸을 웅크린 채 오도독 소리를 내며 강하게 이를 가는 모습'**은 위장 통증이나 가스 차임, 위장 정체의 위급 신호입니다. 반면 **'뒷다리로 바닥을 쿵쿵 치는 행동(덤핑)'**은 위협을 느끼거나 발바닥 통증을 호소하는 신호입니다.",
+        "body_signals": [
+          {
+            "name": "강한 이갈이와 몸 웅크림 (Loud Tooth Grinding & Hunched Posture)",
+            "meaning": "위장 정체나 극심한 장 통증으로 인해 몸을 구부리고 둔탁한 소리로 이를 가는 상태입니다.",
+            "response": "즉시 배를 부드럽게 마사지하고, 먹이와 배변이 정지된 경우 조속히 토끼 전문 동물병원으로 이동하여 위장관 운동 촉진제 진료를 받습니다."
+          },
+          {
+            "name": "체중 실어 뒤뚱거리기 및 발 구르기 (Weight Shifting & Thumping)",
+            "meaning": "발바닥 털이 얇아 딱딱한 바닥 자극으로 족염(Sore Hocks)이 생겼거나 경계심을 느끼는 신호입니다.",
+            "response": "뒷발바닥 염증 여부를 점검하고, 사육장 바닥에 두꺼운 극세사 매트나 메모리폼 방석을 깔아 체중 압력을 분산시킵니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 무제한 티모시 건초 공급 및 대변 상태 확인",
+            "text": "위장관 운동을 유지하도록 신선한 티모시 건초를 건초대에 가득 채우고 대변(동글이 똥)의 크기와 수량을 체크합니다."
+          },
+          {
+            "name": "낮: 발바닥 보호 매트 점검 및 바닥 오염 청소",
+            "text": "발바닥 궤양을 예방하기 위해 극세사 매트나 푹신한 베딩 상태를 점검하고 습기 찬 곳을 청소합니다."
+          },
+          {
+            "name": "저녁: 야채 소량 급여 & 영양 똥(식해분) 섭취 확인 및 부드러운 교감",
+            "text": "비타민 보충을 위해 펠릿과 무농약 야채를 소량 급여하고, 밤 시간대 부드럽게 쓰다듬어 주며 스킨십을 진행합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "미니 렉스 토끼는 왜 발바닥 궤양(족염)에 특히 취약한가요?",
+            "answer": "미니 렉스는 특유의 털 구조 때문에 발바닥을 보호하는 억센 겉털이 없습니다. 이로 인해 철망 케이지나 딱딱한 마룻바닥에 체중이 직접 가해지면 피부 상처와 족염이 쉽게 발생합니다. 푹신한 극세사 매트나 패널 배치가 필수입니다."
+          },
+          {
+            "question": "토끼에게 위장 정체(GI Stasis)가 발생하는 이유는 무엇인가요?",
+            "answer": "섬유질 부족, 스트레스, 영양 불균형 등으로 소화관 운동이 멈추는 치명적인 질환입니다. 토끼의 위장은 쉬지 않고 움직여야 하므로 고섬유질 티모시 건초를 무제한으로 급여해 장 운동을 유지시켜야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Mini Rex Rabbit Velvet Coat and Sore Hocks Care: A 3-Step Daily Routine for GI Stasis and Foot Protection",
+        "description": "Essential care for the velvet-coated Mini Rex rabbit. Learn how to prevent sore hocks (pododermatitis), manage GI stasis, and supply unlimited Timothy hay.",
+        "authority": "American Rabbit Breeders Association (ARBA) Breed Standard & Exotic Rabbit Clinical Guidelines",
+        "profile": {
+          "breed": "Mini Rex Rabbit",
+          "lifespan": "7 ~ 10 Years",
+          "sleep_pattern": "6 ~ 8 Hours (Crepuscular - Active during dawn and dusk)",
+          "temperament": "Gentle, Quiet, Affectionate, Intelligent, Curious"
+        },
+        "intro": "Boasting a plush velvet-like coat and a compact body, the Mini Rex is one of the most popular rabbit breeds. Due to their unique coat mutation, they lack stiff guard hairs on their footpads, making them highly vulnerable to sore hocks (pododermatitis) when housed on hard surfaces. Additionally, as strict herbivores, they require an unlimited supply of high-fiber Timothy hay to prevent fatal Gastrointestinal (GI) Stasis. In this guide, outlines a 3-step daily routine for foot protection and gut health.",
+        "whyTitle": "Mini Rex Physical Signals: Loud Tooth Grinding (Pain) and Foot Thumping",
+        "whyDesc": "If a Mini Rex **'grinds its teeth loudly while hunched over'**, it is exhibiting a critical warning sign of severe abdominal pain or GI stasis. On the other hand, **'thumping the hind legs on the floor'** indicates fear, alertness, or discomfort from sore hocks.",
+        "body_signals": [
+          {
+            "name": "Loud Tooth Grinding & Hunched Posture",
+            "meaning": "Indicates intense pain or gas buildup caused by Gastrointestinal (GI) Stasis.",
+            "response": "Gently massage the abdomen; if feeding and droppings have stopped, visit an exotic vet immediately for motility gut medications."
+          },
+          {
+            "name": "Weight Shifting & Thumping (Foot Discomfort)",
+            "meaning": "Thin footpad fur exposed to hard flooring causes pressure sores (pododermatitis) or signals heightened wariness.",
+            "response": "Inspect hind footpads for redness or hair loss, and line the enclosure floor with thick fleece blankets or memory foam rugs."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Unlimited Timothy Hay Supply & Fecal Check",
+            "text": "Fill the hay rack with fresh Timothy hay to keep gut motility active, and check fecal pellets for normal size and quantity."
+          },
+          {
+            "name": "Afternoon: Padded Flooring Inspection & Sanitation",
+            "text": "Inspect fleece rugs or padded mats for dampness to protect footpads from pododermatitis, cleaning any soiled spots."
+          },
+          {
+            "name": "Evening: Pellets & Leafy Green Feeding with Gentle Bonding",
+            "text": "Provide a small portion of high-fiber pellets and rabbit-safe fresh greens, followed by gentle petting during their active evening hours."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why are Mini Rex rabbits especially prone to sore hocks (pododermatitis)?",
+            "answer": "Mini Rex rabbits lack thick protective guard hairs on the soles of their feet. Wire cage floors or hard hardwood press directly against their skin, easily causing painful pressure sores. Padded fleece rugs or memory foam mats are essential."
+          },
+          {
+            "question": "What causes Gastrointestinal (GI) Stasis in rabbits?",
+            "answer": "GI Stasis is a life-threatening condition where gut motility slows or stops due to low fiber diets, stress, or pain. Rabbits need continuous fiber from unlimited Timothy hay to keep their digestive tract moving smoothly."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ミニレックスのベルベット被毛＆ソアホックケア：胃腸停滞予防と足裏保護の3段階日常ルーティン",
+        "description": "ベルベットのような被毛を持つミニレックスの飼育ガイド。ソアホック（足裏皮膚炎）の予防、チモシーの無制限給与、胃腸停滞対策を解説します。",
+        "authority": "アメリカウサギ協会(ARBA) 品種標準およびエキゾチックウサギ臨床ガイドライン",
+        "profile": {
+          "breed": "ミニレックス (Mini Rex Rabbit)",
+          "lifespan": "7 〜 10年",
+          "sleep_pattern": "6 〜 8時間 (薄明薄暮性 - 明け方と夕方に活発)",
+          "temperament": "温厚、静か、人懐っこい、賢い、好奇心旺盛"
+        },
+        "intro": "ベルベットのような極上の手触りと丸い体が魅力的なミニレックス。独特の短く密生した被毛構造は、皮膚を守るガードヘア（上毛）が少ないため足裏の毛が薄く、フローリングなどの硬い床でソアホック（足裏皮膚炎）を起こしやすい特徴があります。また草食動物として胃腸停滞（GIステイシス）を防ぐため、チモシー牧草の無制限給与が不可欠です。今回は足裏保護と消化器ケアのための3段階ルーティンをご紹介します。",
+        "whyTitle": "ミニレックスのボディランゲージ：強い歯ぎしり（痛み）と足ダンダン（警戒・足裏痛）",
+        "whyDesc": "ミニレックスが**「体を丸めてゴリゴリと強く歯ぎしりをする」**場合、お腹の痛みや胃腸停滞の危険シグナルです。一方**「後ろ足で床を強く叩く（スタンピング/足ダンダン）」**行動は、警戒やソアホックによる足裏の痛みを訴えています。",
+        "body_signals": [
+          {
+            "name": "強い歯ぎしりと丸まり姿勢 (Loud Tooth Grinding)",
+            "meaning": "胃腸停滞やガス腹による激しいお腹の痛みを感じて体を丸めている状態です。",
+            "response": "お腹を優しくマッサージし、食欲や排糞が止まっている場合は直ちにウサギ専門の動物病院を受診してください。"
+          },
+          {
+            "name": "体重移動と足ダンダン (Weight Shifting & Thumping)",
+            "meaning": "足裏の毛が薄いため硬い床刺激でソアホックが生じているか、警戒しているサインです。",
+            "response": "足裏の赤みや脱毛を確認し、ケージや床に厚手のフリースラグやクッションマットを敷いて圧力を 散（分散）させます。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：チモシー牧草の補充と糞のチェック",
+            "text": "腸の動きを維持するため新鮮なチシー牧草をフィーダーに満たし、丸い健康糞の count や大きさを確認します。"
+          },
+          {
+            "name": "昼：足裏保護マットの点検と清潔保持",
+            "text": "ソアホック予防のためマットの湿気や汚れをチェックし、足裏に負担がかからないフリース環境を維持します。"
+          },
+          {
+            "name": "夜：ペレット・野菜の給与と撫で撫でコミュニケーション",
+            "text": "ペレットと少量の新鮮な野菜を与え、活動的になる夜間に優しく撫でてスキンシップをとります。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ミニレックスはなぜソアホック（足裏皮膚炎）になりやすいのですか？",
+            "answer": "ミニレックスは足裏を保護する硬い上毛（ガードヘア）を持たない毛質のためです。金網ケージやフローリングに体重が直接かかることで皮膚擦過傷が起きやすいため、厚手のフリースややわらかいマットの設置が必須です。"
+          },
+          {
+            "question": "ウサギの胃腸停滞（GIステイシス）はなぜ起こるのですか？",
+            "answer": "繊維不足やストレスにより腸の蠕動運動が 停止する致死的な病気です。ウサギの胃腸は常に動き続ける必要があるため、高繊維のチモシー牧草を常に食べられる環境にしてください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "迷你力克斯兔天鹅绒被毛与脚底溃疡护理：预防肠胃停滞与脚掌保护的日常3步护理流程",
+        "description": "针对拥有天鹅绒般毛发的迷你力克斯兔（Mini Rex）护理。介绍预防脚底皮肤炎（Sore Hocks）、无限量提摩西干草喂食及3步日常护理流程。",
+        "authority": "美国家兔繁殖者协会 (ARBA) 品种标准与异宠兔科临床护理指南",
+        "profile": {
+          "breed": "迷你力克斯兔 / 迷你迷你兔 (Mini Rex Rabbit)",
+          "lifespan": "7 ~ 10年",
+          "sleep_pattern": "6 ~ 8小时 (晨昏性 - 清晨与黄昏最活跃)",
+          "temperament": "温顺、安静、粘人、聪明、充满好奇"
+        },
+        "intro": "迷你力克斯兔（Mini Rex）拥有如天鹅绒般极其软绵触感的短毛和圆滚滚的体型，是非常受欢迎的宠物兔品种。由于其独特的毛发基因突变，缺少保护皮肤的刚性针毛（Guard Hairs），脚底毛发十分稀薄，在坚硬的地板或铁丝网笼舍中极易患上脚底溃疡/足底皮肤炎（Sore Hocks）。此外，作为严格的草食动物，无限量供应高纤维提摩西干草以预防肠胃停滞（GI Stasis）至关重要。本指南将为您解析其健康信号并提供3步日常护理流程。",
+        "whyTitle": "迷你力克斯兔的肢体语言：剧烈磨牙（疼痛）与后脚跺地（警惕/脚底疼痛）",
+        "whyDesc": "当迷你力克斯兔出现 **“身体蜷缩并发出咯吱咯吱的剧烈磨牙声”** 时，这是严重的肠胃腹痛或肠胃停滞的危险警示。而 **“后脚用力跺地（Thumping）”** 则代表感到威胁或脚底皮肤溃疡引发的疼痛。",
+        "body_signals": [
+          {
+            "name": "剧烈磨牙与蜷缩 posture (Loud Tooth Grinding)",
+            "meaning": "因肠胃停滞或严重胀气腹痛，导致其弯曲身体并发出沉闷的磨牙声。",
+            "response": "轻轻按摩其腹部，若出现禁食排便停止，应立即前往兔科专科医院接受肠胃动力药物治疗。"
+          },
+          {
+            "name": "重心交替与后脚跺地 (Weight Shifting & Thumping)",
+            "meaning": "脚底毛发薄弱受硬地刺激引发足底皮肤炎（Sore Hocks），或处于高度警惕状态。",
+            "response": "检查后脚掌是否有发红脱毛，并在笼舍及活动区铺设厚摇粒绒垫或记忆棉地垫以分散压力。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：无限量提摩西干草补充与粪便检查",
+            "text": "在草架填满新鲜提摩西干草以维持肠道蠕动，检查正圆黑豆便的数量与大小。"
+          },
+          {
+            "name": "中午：脚底保护垫排查与卫生清理",
+            "text": "检查摇粒绒垫或地毯是否潮湿，及时清理污渍以保护脚底免受足底炎感染。"
+          },
+          {
+            "name": "晚上：适量兔粮蔬菜喂食与温和抚摸陪伴",
+            "text": "喂食少量的提摩西高纤维兔粮与无农药新鲜绿叶蔬菜，在其夜间活跃期进行抚摸互动。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "迷你力克斯兔为什么极易患上脚底溃疡（足底皮肤炎）？",
+            "answer": "迷你力克斯兔缺少保护脚掌的粗硬针毛。如果踩在铁丝网笼底或坚硬的地板上，体重压力会直接作用于脚底皮肤，导致发红破溃。必须使用厚实的摇粒绒垫或泡沫软垫。"
+          },
+          {
+            "question": "兔子为什么会发生肠胃停滞（GI Stasis）？",
+            "answer": "肠胃停滞是由于缺乏膳食纤维、压力或疼痛导致的消化道蠕动停止的致死性疾病。兔子的胃肠必须时刻运转，因此必须保证无限量高纤维提摩西干草的供应。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cuidado del pelaje de terciopelo y pododermatitis en el Conejo Mini Rex: Rutina diaria de 3 pasos para la estasis GI y protección plantar",
+        "description": "Guía de cuidado para el conejo Mini Rex. Aprenda a prevenir la pododermatitis (sore hocks), evitar la estasis gastrointestinal y suministrar heno Timothy ilimitado.",
+        "authority": "Estándar de la American Rabbit Breeders Association (ARBA) y Directrices Clínicas Veterinarias de Conejos",
+        "profile": {
+          "breed": "Conejo Mini Rex (Mini Rex Rabbit)",
+          "lifespan": "7 ~ 10 años",
+          "sleep_pattern": "6 ~ 8 horas (crepuscular: mayor actividad al amanecer y anochecer)",
+          "temperament": "Dócil, Tranquilo, Afectuoso, Inteligente, Curioso"
+        },
+        "intro": "Con su pelaje mullido de tacto aterciopelado y su cuerpo compacto, el Mini Rex es una de las razas de conejos más admiradas. Debido a la mutación única de su pelo, carecen de pelos de cobertura rígidos en las almohadillas plantares, lo que los hace extremadamente vulnerables a la pododermatitis (sore hocks) en suelos duros. Además, como herbívoros estrictos, requieren heno Timothy de fibra alta sin límite para prevenir la fatal estasis gastrointestinal (GI Stasis).  le presenta una rutina de 3 pasos para la salud plantar y digestiva.",
+        "whyTitle": "Señales corporales del Mini Rex: Chirrido fuerte de dientes (dolor) y pateo con las patas traseras",
+        "whyDesc": "Si un Mini Rex **'chirría sus dientes fuertemente mientras permanece encorvado'**, es una señal de advertencia crítica de dolor abdominal agudo o estasis GI. Por otro lado, **'dar patadas fuertes en el suelo con las patas traseras (thumping)'** indica miedo, alerta o molestias por pododermatitis.",
+        "body_signals": [
+          {
+            "name": "Chirrido fuerte de dientes y postura encorvada",
+            "meaning": "Indica dolor agudo o acumulación de gases provocados por la estasis gastrointestinal (GI Stasis).",
+            "response": "Realice un suave masaje abdominal; si ha dejado de comer y defecar, acuda de inmediato al veterinario especialista en exóticos."
+          },
+          {
+            "name": "Cambio de peso plantar y pateo (Thumping)",
+            "meaning": "Pelo plantar delgado expuesto a suelos duros que produce laceraciones (pododermatitis) o muestra gran inquietud.",
+            "response": "Examine los talones traseros para detectar enrojecimientos y cubra el suelo con alfombras de lana polar o espuma."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Suministro ilimitado de heno Timothy y control de heces",
+            "text": "Llene la henera con heno Timothy fresco para estimular la motilidad intestinal y compruebe el tamaño y cantidad de los conegranas (heces cecales y duras)."
+          },
+          {
+            "name": "Tarde: Inspección y limpieza de las alfombras protectoras",
+            "text": "Revise las alfombras polares para asegurarse de que estén secas y limpias, protegiendo sus almohadillas de la pododermatitis."
+          },
+          {
+            "name": "Noche: Alimentación de pienso con verduras y caricias suaves",
+            "text": "Ofrezca una porción pequeña de pienso alto en fibra y hojas verdes frescas, dedicando tiempo a acariciarlo suavemente durante su periodo activo."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué los conejos Mini Rex son tan propensos a la pododermatitis (sore hocks)?",
+            "answer": "Los Mini Rex carecen de pelos primarios duros en la planta de sus patas. Las rejas metálicas o suelos de madera dura ejercen presión directa sobre la piel, causando dolorosas llagas. Las mantas polares o alfombras acolchadas son imprescindibles."
+          },
+          {
+            "question": "¿Qué provoca la estasis gastrointestinal (GI Stasis) en los conejos?",
+            "answer": "La estasis GI es un proceso potencialmente mortal donde el tránsito digestivo se frena por falta de fibra, estrés o dolor. Los conejos necesitan fibra continua del heno Timothy sin límite para mantener la motilidad digestiva activa."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Soins du Lapin Mini Rex (Pelage Velours et Pododermatite) : Routine quotidienne en 3 étapes pour la stase digestive et la protection des coussinets",
+        "description": "Guide de soin pour le lapin Mini Rex au pelage velouté. Apprenez à prévenir la pododermatite (sore hocks), éviter la stase gastro-intestinale et fournir du foin à volonté.",
+        "authority": "Standard de l'American Rabbit Breeders Association (ARBA) et Directives Cliniques Vétérinaires pour Lapins",
+        "profile": {
+          "breed": "Lapin Mini Rex (Mini Rex Rabbit)",
+          "lifespan": "7 ~ 10 ans",
+          "sleep_pattern": "6 ~ 8 heures (crépusculaire : très actif à l'aube et au crépuscule)",
+          "temperament": "Doux, Calme, Affectueux, Intelligent, Curieux"
+        },
+        "intro": "Doté d'une fourrure au toucher velours incroyable et d'un corps rond, le Mini Rex est un lapin de compagnie très populaire. En raison de sa mutation génétique, il ne possède pas de poils de couverture raides sur les pattes, ce qui rend ses coussinets très vulnérables à la pododermatite (sore hocks) sur sols durs. De plus, son transit d'herbivore exige du foin de fléole (Timothy) à volonté pour prévenir la stase gastro-intestinale. Ce guide vous propose une routine de soin en 3 étapes.",
+        "whyTitle": "Langage corporel du Mini Rex : Grincement de dents fort (douleur) et tapement de patte",
+        "whyDesc": "Si un Mini Rex **« grince fort des dents en restant prostré »**, c'est un signal d'alarme de forte douleur abdominale ou de stase digestive. En revanche, **« taper fort du pied arrière au sol (thumping) »** traduit de la peur, de l'agacement ou une douleur aux patte.",
+        "body_signals": [
+          {
+            "name": "Grincement de dents fort et prostration",
+            "meaning": "Signe de douleur intense ou de ballonnements dus à une stase gastro-intestinale.",
+            "response": "Massez doucement son ventre ; si le lapin ne mange ni ne crotte plus, consultez immédiatement un vétérinaire NAC."
+          },
+          {
+            "name": "Changement d'appui et tapement de patte (Thumping)",
+            "meaning": "Irritation des coussinets causée par des sols durs (pododermatite) ou réaction d'alerte.",
+            "response": "Inspectez ses talons arrière pour détecter d'éventuelles rougeurs et recouvrez le sol de tapis molletonnés en polaire."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Distribution illimitée de foin Timothy et contrôle des crottes",
+            "text": "Remplissez le râtelier de foin de fléole frais pour stimuler le transit et vérifiez que les crottes dorées sont bien rondes et nombreuses."
+          },
+          {
+            "name": "Midi : Contrôle des tapis de sol et hygiène de la cage",
+            "text": "Assurez-vous que les tapis en polaire sont bien secs et propres pour protéger ses coussinets de l'humidité."
+          },
+          {
+            "name": "Soir : Distribution de granulés, verdure et caresses douces",
+            "text": "Donnez une poignée de granulés riches en fibres et de la verdure fraîche rincée, puis profitez d'un moment de câlins apaisants."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi le lapin Mini Rex est-il si sujet à la pododermatite (sore hocks) ?",
+            "answer": "Le pelage du Mini Rex est dépourvu de poil de jarre rigide sur le dessous des pattes. Le contact direct avec des grilles ou des sols durs provoque rapidement des lésions douloureuses. Des tapis épais en polaire ou en mousse sont indispensables."
+          },
+          {
+            "question": "Quelles sont les causes de la stase gastro-intestinale chez le lapin ?",
+            "answer": "C'est un arrêt mortel du transit provoqué par un manque de fibres, du stress ou de la douleur. Le lapin a besoin des fibres du foin Timothy distribué à volonté pour maintenir sa digestion en mouvement."
+          }
+        ]
+      },
+      "de": {
+        "title": "Mini-Rex-Kaninchen Samtfell- & Wunden-Sohlen-Pflege: Tägliche 3-Schritte-Routine für Magen-Darm-Gesundheit und Pfotenschutz",
+        "description": "Pflegeanleitung für das Mini-Rex-Kaninchen mit samtigem Fell. Erfahren Sie alles über die Prävention von Pododermatitis (Sore Hocks), Magen-Darm-Inaktivität und Timothy-Heu.",
+        "authority": "Standard der American Rabbit Breeders Association (ARBA) & Klinische Leitlinien der Kaninchenmedizin",
+        "profile": {
+          "breed": "Mini-Rex-Kaninchen (Mini Rex Rabbit)",
+          "lifespan": "7 ~ 10 Jahre",
+          "sleep_pattern": "6 ~ 8 Stunden (Dämmerungsaktiv - aktiv in den Morgen- und Abendstunden)",
+          "temperament": "Sanftmütig, Ruhig, Anhänglich, Intelligent, Neugierig"
+        },
+        "intro": "Mit seinem edlen, samtartigen Fell und seinem kompakten Körper ist das Mini-Rex-Kaninchen eine der beliebtesten Rassen. Durch die besondere Fellmutation fehlen ihm jedoch schützende Grannenhaare an den Pfotensohlen, wodurch es auf harten Böden extrem anfällig für Wunde Sohlen (Pododermatitis / Sore Hocks) ist. Zudem benötigt das Kaninchen als Pflanzenfresser unbegrenzt Timothy-Heu, um eine lebensgefährliche Magen-Darm-Inaktivität (GI Stasis) zu vermeiden. Dieser Ratgeber zeigt eine 3-Schritte-Routine vor.",
+        "whyTitle": "Körpersprache des Mini-Rex: Lautes Zähneknirschen (Schmerz) und Klopfen mit den Hinterläufen",
+        "whyDesc": "Zeigt ein Mini-Rex **'lautes Zähneknirschen in gekrümmter Haltung'**, ist dies ein schwerwiegendes Alarmzeichen für Magen-Darm-Schmerzen. **'Lautes Klopfen mit den Hinterläufen (Thumping)'** signalisiert dagegen Angst, Warnung oder Schmerzen durch Sohlengeschwüre.",
+        "body_signals": [
+          {
+            "name": "Lautes Zähneknirschen & gekrümmte Haltung",
+            "meaning": "Zeichen für starke Schmerzen oder Blähungen durch eine Magen-Darm-Inaktivität (GI Stasis).",
+            "response": "Massieren Sie sanft den Bauch; hat das Tier das Fressen eingestellt, suchen Sie sofort einen kaninchenkundigen Tierarzt auf."
+          },
+          {
+            "name": "Gewichtsverlagerung & Klopfen (Pfotenschmerz)",
+            "meaning": "Dünne Pfotensohlen entzünden sich auf harten Böden (Pododermatitis) oder das Tier zeigt extreme Unruhe.",
+            "response": "Prüfen Sie die Hintersohlen auf Rötungen und legen Sie das Gehege mit dicken Fleece-Decken oder Schaumstoffmatten aus."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Unbegrenztes Timothy-Heu & Kot-Kontrolle",
+            "text": "Füllen Sie die Heuraufe mit frischem Timothy-Heu, um die Darmmotorik aufrechtzuerhalten, und kontrollieren Sie die Kotkügelchen."
+          },
+          {
+            "name": "Mittag: Inspektion der Pfotenschutz-Matten",
+            "text": "Überprüfen Sie, ob Decken und Matten trocken sind, um die Pfotensohlen vor Feuchtigkeit und Druck zu schützen."
+          },
+          {
+            "name": "Abend: Pellets, Frischfutter & Sanfte Zuwendung",
+            "text": "Füttern Sie eine kleine Menge ballaststoffreiche Pellets und frisches Grünfutter und streicheln Sie das Tier während seiner aktiven Phase."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum neigt das Mini-Rex-Kaninchen zu wunden Sohlen (Pododermatitis)?",
+            "answer": "Mini-Rex-Kaninchen besitzen keine festen Schutzgrannen an den Pfotensohlen. Harter Boden oder Gitterdrähte drücken direkt auf die Haut, was rasch zu schmerzhaften Geschwüren führt. Weiche Fleece-Teppiche sind daher Pflicht."
+          },
+          {
+            "question": "Wie entsteht eine Magen-Darm-Inaktivität (GI Stasis)?",
+            "answer": "Dies ist ein lebensbedrohlicher Zustand, bei dem die Darmbewegung durch Ballaststoffmangel, Stress oder Schmerz zum Erliegen kommt. Kaninchen brauchen ständig Rohfaser aus Timothy-Heu."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Cuidado da Pelagem aveludada e Pododermatite do Coelho Mini Rex: Rotina diária de 3 passos para estase GI e proteção plantar",
+        "description": "Guia de cuidados para o coelho Mini Rex de pelagem aveludada. Saiba como prevenir pododermatite (sore hocks), evitar estase gastrointestinal e fornecer feno Timothy ilimitado.",
+        "authority": "Padrão da American Rabbit Breeders Association (ARBA) e Diretrizes Clínicas Veterinárias de Coelhos",
+        "profile": {
+          "breed": "Coelho Mini Rex (Mini Rex Rabbit)",
+          "lifespan": "7 ~ 10 anos",
+          "sleep_pattern": "6 ~ 8 horas (crepuscular - mais ativo ao amanhecer e anoitecer)",
+          "temperament": "Dócil, Calmo, Afetuoso, Inteligente, Curioso"
+        },
+        "intro": "Com uma pelagem de toque aveludado e um corpo compacto, o Mini Rex é uma das raças de coelhos mais queridas. Devido à mutação do seu pelo, eles não possuem pelos duros de proteção na sola das patas, o que os torna muito vulneráveis à pododermatite (sore hocks) em superfícies rígidas. Além disso, como herbívoros, necessitam de feno Timothy rico em fibras à vontade para evitar a fatal estase gastrointestinal. O Este guia  uma rotina de 3 passos para a saúde plantar e digestiva.",
+        "whyTitle": "Sinais corporais do Mini Rex: RANGER forte de dentes (dor) e batida de patas no chão",
+        "whyDesc": "Se um Mini Rex **'ranger os dentes fortemente enquanto permanece encolhido'**, é um aviso crítico de dor abdominal intensa ou estase gastrointestinal. Por outro lado, **'bater forte com as patas traseiras no chão (thumping)'** indica medo, alerta ou desconforto causado por pododermatite.",
+        "body_signals": [
+          {
+            "name": "Ranger de dentes forte e postura encolhida",
+            "meaning": "Indica dor aguda ou acúmulo de gases provocados por estase gastrointestinal (GI Stasis).",
+            "response": "Faça uma massagem abdominal suave; se o animal parar de comer e defecar, leve-o imediatamente ao veterinário de exóticos."
+          },
+          {
+            "name": "Mudança de peso plantar e batida de patas (Thumping)",
+            "meaning": "Pelo plantar fino exposto a pisos duros causando feridas (pododermatite) ou estado de alerta extremo.",
+            "response": "Examine os calcanhares para detectar vermelhidão e forre o piso com mantas de soft/fleece ou tapetes acolchoados."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Fornecimento ilimitado de feno Timothy e controle fecal",
+            "text": "Encha o suporte com feno Timothy fresco para estimular os movimentos intestinais e confira o tamanho e quantidade das fezes."
+          },
+          {
+            "name": "Tarde: Inspeção e higienização dos tapetes de proteção",
+            "text": "Verifique se os tapetes acolchoados estão limpos e secos para proteger as patas da humidade e atrito."
+          },
+          {
+            "name": "Noite: Ração de pellets com vegetais e carinho suave",
+            "text": "Ofereça uma pequena porção de pellets ricos em fibra e folhas verdes frescas, aproveitando para fazer carinho durante o seu período ativo."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que os coelhos Mini Rex são tão propensos à pododermatite (sore hocks)?",
+            "answer": "Os coelhos Mini Rex não possuem pelos primários duros para proteger a sola das patas. Pisos de arame ou madeira dura pressionam a pele diretamente, causando feridas dolorosas. O uso de mantas macias de soft/fleece é indispensável."
+          },
+          {
+            "question": "O que causa a estase gastrointestinal (GI Stasis) nos coelhos?",
+            "answer": "Trata-se de uma interrupção fatal do trânsito digestivo provocada por falta de fibra, estresse ou dor. Os coelhos precisam de fibra contínua vinda do feno Timothy ilimitado para manter o intestino funcionando."
+          }
+        ]
+      },
+      "id": {
+        "title": "Panduan Perawatan Kelinci Mini Rex: Perawatan Bulu Beludru & Sore Hocks melalui 3 Langkah Rutinitas Harian",
+        "description": "Perawatan esensial untuk kelinci Mini Rex berbulu beludru. Pelajari cara mencegah sore hocks (pododermatitis), mengelola stasis pencernaan (GI stasis), dan menyediakan rumput Timothy tanpa batas.",
+        "authority": "Standar Trah American Rabbit Breeders Association (ARBA) & Pedoman Klinis Dokter Hewan Kelinci Eksotis",
+        "profile": {
+          "breed": "Kelinci Mini Rex (Mini Rex Rabbit)",
+          "lifespan": "7 ~ 10 tahun",
+          "sleep_pattern": "6 ~ 8 jam (krepuskular - paling aktif saat fajar dan senja)",
+          "temperament": "Penurut, Tenang, Penyayang, Cerdas, Ingin Tahu"
+        },
+        "intro": "Memiliki bulu bertekstur beludru yang sangat lembut dan tubuh yang membulat, Mini Rex adalah salah satu jenis kelinci paling populer. Namun, akibat mutasi bulunya yang khas, telapak kaki mereka tidak memiliki lapisan bulu pelindung yang tebal, sehingga sangat rentan mengalami sore hocks (pododermatitis) jika berada di atas lantai yang keras. Selain itu, sebagai hewan herbivora, rumput Timothy hay wajib tersedia tanpa batas untuk mencegah stasis pencernaan (GI stasis). Dalam panduan ini, menyajikan 3 langkah rutinitas harian.",
+        "whyTitle": "Bahasa Tubuh Kelinci Mini Rex: Menggeretakkan Gigi Nyaring (Sakit) dan Menghentakkan Kaki",
+        "whyDesc": "Jika kelinci Mini Rex **'menggeretakkan giginya dengan nyaring sambil membungkuk'**, ini adalah sinyal bahaya adanya rasa sakit hebat pada perut atau stasis pencernaan. Sementara itu, **'menghentakkan kaki belakang ke lantai (thumping)'** menandakan rasa takut atau rasa sakit akibat sore hocks.",
+        "body_signals": [
+          {
+            "name": "Menggeretakkan Gigi Nyaring & Postur Membungkuk",
+            "meaning": "Menandakan rasa sakit hebat atau kembung akibat stasis pencernaan (GI stasis).",
+            "response": "Pijat lembut perutnya; jika kelinci berhenti makan dan buang air besar, segera bawa ke dokter hewan eksotis."
+          },
+          {
+            "name": "Menggeser Tumpuan Kaki & Menghentakkan Kaki (Thumping)",
+            "meaning": "Lapisan bulu telapak kaki yang tipis tertekan lantai keras hingga memicu sore hocks atau menandakan rasa waspada.",
+            "response": "Periksa telapak kaki belakang dari kemerahan, dan lapisi lantai kandang dengan karpet fleece atau busa lembut."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pemberian Rumput Timothy Hay Tanpa Batas & Cek Kotoran",
+            "text": "Isi tempat pakan dengan rumput Timothy hay segar untuk menjaga pencernaan, dan periksa ukuran serta jumlah kotorannya."
+          },
+          {
+            "name": "Siang: Pemeriksaan Karpet Pelindung Kaki & Kebersihan Kandang",
+            "text": "Pastikan karpet fleece dalam keadaan kering dan bersih untuk melindungi telapak kakinya dari infeksi sore hocks."
+          },
+          {
+            "name": "Malam: Pemberian Pelet & Sayuran Segar serta Elusan Lembut",
+            "text": "Berikan sedikit pelet kaya serat dan sayuran hijau segar yang aman, lalu belus kelinci dengan lembut saat jam aktif malamnya."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa kelinci Mini Rex sangat rentan mengalami sore hocks (pododermatitis)?",
+            "answer": "Mini Rex tidak memiliki bulu pelindung yang kasar pada bagian bawah telapak kakinya. Lantai kawat atau lantai kayu yang keras akan menekan kulit secara langsung hingga memicu luka. Penggunaan karpet fleece tebal sangat wajib."
+          },
+          {
+            "question": "Apa yang menyebabkan timbulnya stasis pencernaan (GI stasis) pada kelinci?",
+            "answer": "GI stasis adalah kondisi mematikan di mana pergerakan usus berhenti akibat kurang serat, stres, atau rasa sakit. Kelinci membutuhkan serat terus-menerus dari rumput Timothy hay tanpa batas agar organ pencernaannya berputar dengan lancar."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/mini_rex_rabbit_care.webp"
+  }
 }

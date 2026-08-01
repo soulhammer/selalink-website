@@ -1,459 +1,459 @@
 {
-    "beagle-care": {
-        "pubDate": "2026-02-28",
-        "updatedDate": "2026-03-01",
-        "locales": {
-            "ko": {
-                "title": "비글의 폭발적 에너지 케어: 분리불안 완화와 귓병 예방 3단계 루틴",
-                "description": "사냥개 혈통으로 호기심과 운동량이 강한 비글. 넘치는 에너지를 충족시켜 분리불안을 극복하고 덮여있는 귀의 환기를 돕는 3단계 노즈워크 케어를 다룹니다.",
-                "authority": "AKC(미국케넬클럽) 비글 품종 표준 및 IAABC 노즈워크 행동 프로토콜",
-                "profile": {
-                    "breed": "비글 (Beagle)",
-                    "lifespan": "12 ~ 15년",
-                    "sleep_pattern": "10 ~ 12시간 (야외 활동 동조형)",
-                    "temperament": "온순함, 호기심 강함, 고집스러움, 다정함"
-                },
-                "intro": "귀엽고 처진 커다란 귀와 늘 쾌활하게 흔들리는 하얀 꼬리 팁이 매력적인 비글은 인간과 수세기 동안 함께 활동해 온 사냥개(하운드) 출신입니다. 뛰어난 친화력으로 누구와도 잘 지내지만, 타고난 호기심과 엄청난 후각 집착력을 가지고 있습니다. 이 에너지를 해소해 주지 못하면 하울링을 하거나 집안 가구를 파괴하는 등 분리불안 증상을 보이기 쉽습니다. 또한 축 늘어진 커다란 귀는 내부가 습해 곰팡이성 외이염에 취약합니다. 이번 가이드에서는 비글의 독특한 추적 행동 및 불안 신호를 진단하고, 후각 본능 해소와 귀 건강을 잡는 3단계 데일리 루틴을 알려드립니다.",
-                "whyTitle": "비글의 바디 랭귀지: 추적 본능과 하울링의 의미",
-                "whyDesc": "비글은 후각에 극도로 집중할 때 **'코를 땅에 대고 직진하기(Ground-Tracking)'** 행동을 보이며 주변 소리를 차단합니다. 이는 본능적인 자극 해소 단계입니다. 반면에 주인이 없을 때나 외로움을 느낄 때 나타내는 **'하울링(Howling)'**은 전형적인 분리불안과 스트레스의 표현입니다. 이 두 신호를 정확히 감지해 주는 것이 비글을 활기차고 차분한 상태로 관리하는 비결입니다.",
-                "body_signals": [
-                    {
-                        "name": "코 대고 직진하기 (Ground-Tracking)",
-                        "meaning": "주변 냄새 분자를 통해 세상을 탐색하고 사냥 에너지를 발산하고 있는 정상적 흥분 상태입니다.",
-                        "response": "산책 중 억지로 줄을 당겨 끊지 말고, 냄새를 맡고 충분히 탐색하도록 허용하고 지켜보세요."
-                    },
-                    {
-                        "name": "하울링 (Howling)",
-                        "meaning": "외로움, 지루함, 에너지가 해소되지 않아 생기는 불안과 주의 환기 표현입니다.",
-                        "response": "하울링을 할 때 혼내지 말고, 평소 실내 노즈워크 퍼즐이나 충분한 산책을 통해 에너지를 차단해 주세요."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 집안 실내 간식 숨기기 노즈워크 놀이",
-                        "text": "아침 식사 후 비글의 예민한 후각 지능을 채우기 위해 집안 곳곳이나 종이컵 안에 간식을 숨겨 두고 찾게 하여 인지 능력을 발산시킵니다."
-                    },
-                    {
-                        "name": "낮: 40분 이상의 충분한 야외 냄새 탐색 산책",
-                        "text": "에너지 방산을 위해 하루 최소 40분 이상 매일 야외 산책을 나가며, 냄새를 쫓는 행동을 강제로 제약하지 않고 자유롭게 추적하도록 돕습니다."
-                    },
-                    {
-                        "name": "저녁: 처진 귀 내부 환기 및 주 2회 귀 세정",
-                        "text": "귀가 늘어져 외이도가 밀폐되므로 저녁에는 귀를 가볍게 젖혀 공기를 통하게 해주고, 주 2회 전용 귀 세정제를 활용해 마사지 후 청결을 유지합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "비글의 하울링을 방지하려면 어떻게 해야 하나요?",
-                        "answer": "하울링은 주로 고립에 따른 불안감과 넘치는 활동 에너지의 불균형에서 발생합니다. 산책과 실내 노즈워크의 비율을 높여 강아지를 피로하게 하고 심리적 안정감을 제공하는 것이 근본적인 예방책입니다."
-                    },
-                    {
-                        "question": "비글의 덮인 귀는 왜 자주 외이염에 걸리나요?",
-                        "answer": "비글처럼 늘어진 귀는 이도를 공기로부터 차단하여 내부에 수분과 먼지가 머무르기 쉬운 다습한 환경을 만듭니다. 이는 외이도 내 효모균(말라세지아) 및 진드기 번식을 도와 가려움과 냄새를 유발하므로 주기적 환기와 세정이 필수입니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Beagle Energy & Anxiety Care: A 3-Step Routine for Separation Anxiety and Ear Health",
-                "description": "Beagles are highly curious scent hounds with immense energy. Learn a 3-step daily routine to satisfy their sniff drive, ease separation anxiety, and prevent ear infections.",
-                "authority": "Official AKC Breed Standard for Beagles & IAABC Nosework Behavior Protocols",
-                "profile": {
-                    "breed": "Beagle",
-                    "lifespan": "12 ~ 15 years",
-                    "sleep_pattern": "10 ~ 12 hours (synchronized with outdoor activity)",
-                    "temperament": "Friendly, Curious, Stubborn, Affectionate"
-                },
-                "intro": "Adored for their large floppy ears and happy white-tipped tail, Beagles are historic scent hounds that worked alongside humans for centuries. While famously friendly and adaptable, they possess an intense innate curiosity and a powerful drive to track scents. If this massive energy is not properly funneled, they easily develop separation anxiety, leading to vocal howling and destructive indoor habits. Furthermore, their long pendulous ears trap moisture and heat, creating a breeding ground for fungal ear infections (otitis externa). In this guide, decodes Beagle tracking and anxiety signals and presents a 3-step daily care routine.",
-                "whyTitle": "Beagle Body Language: Tracking Instinct and Meaning of Howling",
-                "whyDesc": "When hyper-focused on smells, Beagles exhibit **'ground-tracking'** (pressing their nose to the ground and marching forward), often tuning out external sounds as they release energy through scent. Conversely, **'howling'** when left alone or under-stimulated is a classic expression of separation anxiety and distress. Accurately recognizing these two signals is essential for keeping your Beagle balanced and calm.",
-                "body_signals": [
-                    {
-                        "name": "Ground-Tracking",
-                        "meaning": "A normal state of heightened stimulation where the dog explores their environment through smell and burns scent-hound energy.",
-                        "response": "Do not yank their leash; allow them time to safely sniff and explore the scent trail to satisfy their mental needs."
-                    },
-                    {
-                        "name": "Howling",
-                        "meaning": "An expression of anxiety, loneliness, boredom, or unspent energy seeking attention and relief.",
-                        "response": "Avoid scolding. Address the root cause by increasing physical exercise and providing indoor nosework puzzle toys."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Indoor Treat Hide-and-Seek Nosework Game",
-                        "text": "After breakfast, hide treats in paper cups or around the room to engage their sharp scenting intelligence and burn mental energy early in the day."
-                    },
-                    {
-                        "name": "Afternoon: 40+ Minute Active Outdoor Tracking Walk",
-                        "text": "Provide at least 40 minutes of outdoor walking daily. Let them sniff grass and trails freely without unnecessary restrictions to release physical energy."
-                    },
-                    {
-                        "name": "Evening: Ear Canal Aeration & Bi-weekly Ear Cleaning",
-                        "text": "Gently flip their floppy ears back in the evening to let air circulate through the ear canal, and clean twice a week with a pet ear cleanser to prevent yeast build-up."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "How can I prevent my Beagle from howling?",
-                        "answer": "Howling stems primarily from isolation anxiety and unvented energy. Combining daily sniff-walks with structured indoor nosework games mentally exhausts them, providing psychological comfort and curbing howling."
-                    },
-                    {
-                        "question": "Why are Beagles' floppy ears so prone to ear infections?",
-                        "answer": "Their heavy pendulous ears block airflow to the ear canal, creating a warm, humid environment where yeast, bacteria, and ear mites thrive. Regular ear aeration and cleaning are crucial preventative steps."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ビーグルの爆発的エネルギーケア：分離不安緩和と耳病予防の3段階ルーティン",
-                "description": "狩猟犬の血を引くビーグルは好奇心と運動量が非常に活発です。エネルギーを適切に消費して分離不安を克服し、垂れ耳の衛生を保つ3段階ケアを紹介します。",
-                "authority": "AKC（アメリカンケネルクラブ）ビーグル標準＆IAABCノーズワーク行動プロトコル",
-                "profile": {
-                    "breed": "ビーグル (Beagle)",
-                    "lifespan": "12 〜 15年",
-                    "sleep_pattern": "10 〜 12時間（屋外の活動と同調）",
-                    "temperament": "フレンドリー、好奇心旺盛、頑固、甘えん坊"
-                },
-                "intro": "大きな垂れ耳と常に陽気に揺れる白い尻尾の先が魅力のビーグルは、何世紀にもわたり人間と共に活躍してきた狩猟犬（ハウンド）出身です。誰にでも人懐っこい反面、生まれつきの強い好奇心と鋭い嗅覚執着を持っています。この豊富なエネルギーを解消できないと、遠吠えや家具の破壊といった分離不安の症状を起こしやすくなります。また、垂れた耳は内部が湿気やすく、カビ性の外耳炎に罹患しやすい特徴があります。本記事では、ビーグルの追跡行動と不安サインを解読し、後閣本能の充足と耳の健康を守る3段階ルーティンを紹介します。",
-                "whyTitle": "ビーグルのボディランゲージ：追跡本能と遠吠えの意味",
-                "whyDesc": "ビーグルは嗅覚に集中する際、**「地面に鼻を押し当てて直進する追跡行動（Tracking）」**を行い、周りの音を遮断します。これは本能的な刺激解消の過程です。一方、留守中や孤独を感じる時の**「遠吠え（Howling）」**は、典型的は分離不安と stress の表現です。この2つのシグナルを正しく見極めることが、ビーグルを穏やかに保つ秘訣です。",
-                "body_signals": [
-                    {
-                        "name": "鼻を付けて直進する追跡行動 (Ground-Tracking)",
-                        "meaning": "周囲のにおい分子を通じて世界を探索し、狩猟犬としてのエネルギーを発散している正常な興奮状態です。",
-                        "response": "散歩中に無理にリードを引っ張らず、においを十分に嗅ぎ探索させる時間を確保して見守ってください。"
-                    },
-                    {
-                        "name": "遠吠え (Howling)",
-                        "meaning": "孤独や退屈、エネルギーが発散されないことによる不安と、注意を引くための自己表現です。",
-                        "response": "遠吠えをした時に叱るのではなく、日常的なノーズワークやお散歩を通じて過剰な energy を解消してあげてください。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：室内のおやつ隠しノーズワーク遊び",
-                        "text": "朝食後、ビーグルの鋭い嗅覚を満たすために部屋のあちこちや紙コップの中におやつを隠して探させ、認知エネルギーを消費させます。"
-                    },
-                    {
-                        "name": "昼：40分以上の十分な屋外におい探索散歩",
-                        "text": "エネルギー発散のために毎日40分以上外へ連れ出し、においを追う行動を制限せずに自由に嗅がせてあげます。"
-                    },
-                    {
-                        "name": "夜：垂れ耳内部の換気と週2回の耳掃除",
-                        "text": "耳が垂れて外耳道が密閉されやすいため、夜は耳を軽くめくって風を通し、週2回専用の耳洗浄液を使って清潔を保ちます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "ビーグルの遠吠えを防ぐにはどうすればいいですか？",
-                        "answer": "遠吠えは主に孤立による不安と、未消化のエネルギーの不均衡から発生します。散歩とノーズワークの時間を増やして適度な疲労感と安心感を与えることが根本的な予防策です。"
-                    },
-                    {
-                        "question": "ビーグルの垂れ耳はなぜ外耳炎になりやすいのですか？",
-                        "answer": "垂れ耳は耳の穴を塞ぐため、内部に湿気や熱がこもりやすい多湿環境を作ります。これがマラセチア菌（カビ）や細菌の繁殖を促すため、定期的な換気と耳掃除が不可欠です。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "比格犬的精力与焦虑护理：缓解分离焦虑与预防耳病的日常3步惯例",
-                "description": "拥有猎犬血统、充满好奇心和运动量的比格犬。介绍一套满足其嗅觉需求以缓解分离焦虑，并保持垂耳卫生的日常3步护理惯例。",
-                "authority": "AKC (美国犬业俱乐部) 比格犬标准与 IAABC 嗅闻行为协议",
-                "profile": {
-                    "breed": "比格犬 (Beagle)",
-                    "lifespan": "12 ~ 15年",
-                    "sleep_pattern": "10 ~ 12小时（与户外活动同步）",
-                    "temperament": "友善、好奇心强、固执、温顺"
-                },
-                "intro": "比格犬拥有可爱耷拉的大耳朵和总是欢快摇摆的白尾尖，起源于与人类共同工作了几个世纪的嗅探猎犬。虽然它们极为友善且适应力强，但具有天生的好奇心和强烈的嗅觉执着。如果这股巨大的精力无法得到宣泄，很容易表现出持续嚎叫或破坏家具等分离焦虑症状。此外，耷拉的大耳朵内部潮湿且闷热，极易滋生霉菌引发外耳炎。今天，本指南将教您如何读懂比格犬特有的追踪行为及焦虑信号，并提供满足嗅觉本能和保护耳朵健康的3步日常护理惯例。",
-                "whyTitle": "比格犬的身体语言：追踪本能与嚎叫的含义",
-                "whyDesc": "比格犬在极度专注于嗅觉时，会表现出**“将鼻子贴在地上直行（Tracking）”**的行为，并会忽略周围的声音，这是其本能宣泄精力的阶段。相反，在独自留守或缺乏刺激时表现出的**“嚎叫（Howling）”**，则是典型的心里焦虑与压力的体现。准确捕捉这两大信号，是让比格犬保持活泼且情绪稳定的秘诀。",
-                "body_signals": [
-                    {
-                        "name": "贴地直行追踪 (Ground-Tracking)",
-                        "meaning": "通过周围的气味分子探索世界并释放猎犬精力的正常兴奋状态。",
-                        "response": "散步时切勿强力拉扯牵引绳打断它们，应给它们时间安全地嗅闻与探索气味路径。"
-                    },
-                    {
-                        "name": "嚎叫 (Howling)",
-                        "meaning": "因孤独、无聊、精力未能释放而产生的焦虑与寻求关注的表现。",
-                        "response": "嚎叫时请勿训斥，而应通过平时的室内嗅闻益智游戏或充足的户外散步来宣泄其过剩的精力。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早晨：室内零食藏匿嗅闻游戏",
-                        "text": "早餐后，为了满足比格犬敏锐的嗅觉智力，可将零食隐藏在纸杯中或房屋角落让其搜寻，提前消耗其认知精力。"
-                    },
-                    {
-                        "name": "中午：40分钟以上充足的户外嗅闻追踪散步",
-                        "text": "为了释放精力，每天至少进行40分钟以上的户外散步，并且不强行限制其嗅闻气味的行为，让其自由追踪。"
-                    },
-                    {
-                        "name": "晚上：垂耳内部通风与每周2次耳道清洁",
-                        "text": "由于耳朵下垂导致外耳道密闭，晚上应轻轻向后翻起耳朵进行通风，每周使用2次专用耳道清洁剂进行按摩清洁，保持卫生。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "如何防止比格犬嚎叫？",
-                        "answer": "嚎叫主要由于独处的焦虑以及过剩的精力无处消耗所致。增加散步和室内嗅闻游戏的频率，使其身体适度疲劳并获得心理安全感，是根本的预防方法。"
-                    },
-                    {
-                        "question": "为什么比格犬耷拉的耳朵容易得外耳炎？",
-                        "answer": "像比格犬这样耷拉的耳朵会阻断耳道与空气的流通，形成潮湿多汗的内部环境，极易滋生马拉色菌（真菌）和耳螨，引起瘙痒和异味。因此必须定期通风和清洁。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cuidado de la energía y ansiedad del Beagle: Rutina diaria de 3 pasos para la ansiedad por separación y salud de las orejas",
-                "description": "Los Beagle son sabuesos muy curiosos con una energía enorme. Conozca una rutina diaria de 3 pasos para saciar su olfato, reducir la ansiedad por separación y prevenir infecciones de oído.",
-                "authority": "Estándar oficial de la raza Beagle de la AKC y protocolos de comportamiento de rastreo de la IAABC",
-                "profile": {
-                    "breed": "Beagle",
-                    "lifespan": "12 ~ 15 años",
-                    "sleep_pattern": "10 ~ 12 horas (sincronizado con la actividad exterior)",
-                    "temperament": "Amigable, Curioso, Obstinado, Afectuoso"
-                },
-                "intro": "Adorados por sus grandes orejas caídas y su cola con la punta blanca que se mueve alegremente, los Beagle son sabuesos históricos que trabajaron junto al ser humano durante siglos. Aunque son famosos por ser amigables y adaptables, poseen una curiosidad innata y un fuerte impulso de rastreo. Si esta enorme energía no se canaliza bien, desarrollan fácilmente ansiedad por separación, recurriendo a aullidos e hiperactividad destructiva. Además, sus orejas largas retienen humedad y calor, predisponiéndolos a otitis micóticas. En esta guía, descifra las señales del Beagle y presenta una rutina diaria en 3 pasos.",
-                "whyTitle": "Lenguaje corporal del Beagle: Instinto de rastreo y significado del aullido",
-                "whyDesc": "Cuando se concentran en un olor, los Beagle pegan la nariz al suelo y avanza en línea recta (**'Ground-Tracking'**), desconectando de los sonidos externos mientras liberan energía. Por el contrario, el **'aullido'** cuando se quedan solos es una expresión clásica de ansiedad por separación y malestar. Reconocer ambas señales es clave para mantener al Beagle equilibrado.",
-                "body_signals": [
-                    {
-                        "name": "Rastreo pegado al suelo (Ground-Tracking)",
-                        "meaning": "Un estado normal de estimulación donde el perro explora su entorno a través del olfato y quema energía de sabueso.",
-                        "response": "No de un tirón de la correa; dele tiempo para olfatear con seguridad y explorar el rastro para satisfacer sus necesidades mentales."
-                    },
-                    {
-                        "name": "Aullido (Howling)",
-                        "meaning": "Expresión de ansiedad, soledad, aburrimiento o energía no gastada para llamar la atención y pedir alivio.",
-                        "response": "Evite regañarle. Aborde la causa raíz aumentando el ejercicio físico y proporcionando juegos de olfato en casa."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Juego de olfato y búsqueda de premios en casa",
-                        "text": "Tras el desayuno, esconda premios en vasos de papel o por las habitaciones para estimular su agudo olfato y quemar energía cognitiva desde temprano."
-                    },
-                    {
-                        "name": "Tarde: Paseo activo de rastreo al aire libre de más de 40 minutos",
-                        "text": "Asegure un paseo diario de al menos 40 minutos. Permítale olfatear la hierba y el entorno libremente sin restricciones innecesarias."
-                    },
-                    {
-                        "name": "Noche: Ventilación del canal auditivo y limpieza dos veces por semana",
-                        "text": "Por la noche, pliegue suavemente las orejas hacia atrás un momento para que circule el aire, y limpie dos veces por semana con un limpiador auricular veterinario."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Cómo puedo evitar que mi Beagle aúlle cuando se queda solo?",
-                        "answer": "El aullido se debe a la ansiedad por aislamiento y a la acumulación de energía. Combinar paseos de rastreo diarios con juegos de olfato en casa agota mentalmente al perro, proporcionándole calma y eliminando el aullido."
-                    },
-                    {
-                        "question": "¿Por qué las orejas caídas del Beagle son tan propensas a las infecciones?",
-                        "answer": "Sus orejas pesadas bloquen la entrada de aire al conducto auditivo, creando un ambiente cálido y húmedo donde proliferan levaduras (como Malassezia) y bacterias. La ventilación y limpieza periódicas son indispensables."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Soins du Beagle (Énergie & Anxiété) : Routine quotidienne en 3 étapes pour l'anxiété de séparation et la santé des oreilles",
-                "description": "Le Beagle est un chien de chasse curieux doté d'une énergie débordante. Apprenez une routine en 3 étapes pour combler son instinct de flair, réduire l'anxiété et prévenir les otites.",
-                "authority": "Standard officiel du Beagle de l'AKC et protocoles de comportement de pistage de l'IAABC",
-                "profile": {
-                    "breed": "Beagle",
-                    "lifespan": "12 ~ 15 ans",
-                    "sleep_pattern": "10 ~ 12 heures (synchronisé avec l'activité extérieure)",
-                    "temperament": "Amical, Curieux, Têtu, Affectueux"
-                },
-                "intro": "Adoré pour ses grandes oreilles tombantes et sa queue au bout blanc qui remue joyeusement, le Beagle est un chien de courant historique. Bien que très amical et adaptable, il possède une curiosité naturelle insatiable et un besoin impérieux de suivre des pistes olfactives. Si cette énergie n'est pas évacuée, il peut développer une anxiété de séparation manifestée par des hurlements et des comportements destructeurs. De plus, ses oreilles pendantes retiennent l'humidité, favorisant les otites fongiques. Dans ce guide, décrypte ses signaux et vous livre une routine de soin en 3 étapes.",
-                "whyTitle": "Langage corporel du Beagle : Instinct de pistage et signification des hurlements",
-                "whyDesc": "Lorsqu'il est absorbé par une odeur, le Beagle colle son nez au sol et avance en ligne droite (**'Ground-Tracking'**), ignorant les bruits extérieurs pour libérer son énergie. En revanche, le **'hurlement'** lorsqu'il est seul est l'expression d'un malaise dû à l'anxiété de séparation. Comprendre ces deux comportements est la clé d'un Beagle épanoui.",
-                "body_signals": [
-                    {
-                        "name": "Pistage le nez au sol (Ground-Tracking)",
-                        "meaning": "Un état d'excitation normal où le chien explore son environnement par l'odorat et dépense son énergie de chien de chasse.",
-                        "response": "Ne tirez pas sur la laisse ; laissez-lui le temps de flairer en toute sécurité pour répondre à ses besoins mentaux."
-                    },
-                    {
-                        "name": "Hurlement (Howling)",
-                        "meaning": "Expression d'anxiété, de solitude, d'ennui ou d'énergie non dépensée cherchant à attirer l'attention.",
-                        "response": "Ne le grondez pas. Traitez la cause sous-jacente en augmentant l'exercice physique et en lui proposant des jeux de fouille en intérieur."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Jeu de recherche de friandises en intérieur",
-                        "text": "Après le petit-déjeuner, cachez des friandises dans des gobelets en carton ou dans la pièce pour stimuler son odorat et canaliser son énergie mentale dès le matin."
-                    },
-                    {
-                        "name": "Après-midi : Promenade de pistage active de plus de 40 minutes",
-                        "text": "Assurez une promenade extérieure d'au moins 40 minutes par jour. Laissez-le flairer librement l'herbe et les pistes sans contrainte inutile."
-                    },
-                    {
-                        "name": "Soir : Aération du conduit auditif et nettoyage bihebdomadaire",
-                        "text": "Le soir, rabattez doucement ses oreilles vers l'arrière un moment pour faire circuler l'air, et nettoyez-les deux fois par semaine avec un nettoyant auriculaire adapté."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Comment empêcher mon Beagle de hurler en mon absence ?",
-                        "answer": "Les hurlements découlent de l'anxiété de solitude et d'un surplus d'énergie. Associer promenades quotidiennes axées sur le flair et jeux de recherche en intérieur le fatiguera intellectuellement, lui apportant sérénité et réduisant les hurlements."
-                    },
-                    {
-                        "question": "Pourquoi les oreilles tombantes du Beagle s'infectent-elles si facilement ?",
-                        "answer": "Leurs oreilles lourdes empêchent la circulation de l'air dans le conduit auditif, créant un milieu chaud et humide idéal pour la prolifération de levures (Malassezia) et de bactéries. Une aération et un nettoyage réguliers sont indispensables."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Beagle Energie- & Angstpflege: 3-Schritte-Tagesroutine bei Trennungsangst und für die Ohrengesundheit",
-                "description": "Beagles sind neugierige Laufhunde mit enormer Energie. Lernen Sie eine 3-Schritte-Tagesroutine kennen, um ihren Schnüffeltrieb zu stillen, Trennungsangst zu lindern und Ohrenentzündungen vorzubeugen.",
-                "authority": "Offizieller AKC-Rassestandard für Beagles & IAABC-Schnüffelverhaltensprotokolle",
-                "profile": {
-                    "breed": "Beagle",
-                    "lifespan": "12 ~ 15 Jahre",
-                    "sleep_pattern": "10 ~ 12 Stunden (synchronisiert mit der Außenaktivität)",
-                    "temperament": "Freundlich, Neugierig, Eigensinnig, Anhänglich"
-                },
-                "intro": "Beliebt für ihre großen Schlappohren und die fröhlich wackelnde weiße Rutenspitze, sind Beagles historische Meutehunde, die seit Jahrhunderten mit dem Menschen arbeiten. Obwohl sie sehr freundlich und anpassungsfähig sind, besitzen sie eine ausgeprägte Neugier und einen starken Trieb zur Fährtenarbeit. Wenn diese Energie nicht abgebaut wird, entwickeln sie leicht Trennungsangst, die sich in laustarkem Jaulen und Zerstörungswut äußert. Zudem begünstigen die Hängeohren ein feuchtwarmes Milieu für Hefepilz-Infektionen im Ohr. Heute erklärt  die Körpersprache des Beagles und stellt eine 3-Schritte-Routine vor.",
-                "whyTitle": "Körpersprache des Beagles: Schnüffeltrieb und die Bedeutung des Jaulens",
-                "whyDesc": "Wenn Beagles intensiv einem Geruch folgen, drücken sie die Nase auf den Boden und marschieren vorwärts (**'Ground-Tracking'**), wobei sie Umgebungsgeräusche ausblenden. Das **'Jaulen'** bei Einsamkeit oder Unterforderung ist hingegen ein klassischer Ausdruck von Trennungsangst und Unruhe. Das Erkennen dieser zwei Signale ist der Schlüssel zu einem ausgeglichenen Beagle.",
-                "body_signals": [
-                    {
-                        "name": "Fährtenverfolgung am Boden (Ground-Tracking)",
-                        "meaning": "Ein normaler Zustand erhöhter Stimulation, bei dem der Hund seine Umwelt über die Nase erkundet und Jagdhund-Energie abbaut.",
-                        "response": "Rucken Sie nicht an der Leine; geben Sie ihm Zeit, die Geruchsspur sicher zu erkunden, um sein geistiges Bedürfnis zu befriedigen."
-                    },
-                    {
-                        "name": "Jaulen (Howling)",
-                        "meaning": "Ein Ausdruck von Angst, Einsamkeit, Langeweile oder ungenutzter Energie, um Aufmerksamkeit und Erleichterung zu suchen.",
-                        "response": "Vermeiden Sie Bestrafung. Bekämpfen Sie die Ursache durch mehr körperliche Auslastung und Schnüffelspiele im Haus."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Leckerli-Suchspiel im Haus (Nosework)",
-                        "text": "Verstecken Sie nach dem Frühstück Futter in Pappbechern oder im Raum, um den scharfen Geruchssinn zu fordern und geistige Energie abzubauen."
-                    },
-                    {
-                        "name": "Nachmittag: 40+ Minuten aktiver Fährten-Spaziergang",
-                        "text": "Sorgen Sie für mindestens 40 Minuten Auslauf täglich. Lassen Sie ihn Gras und Wege frei beschnüffeln, um körperliche Energie freizusetzen."
-                    },
-                    {
-                        "name": "Abend: Belüftung des Gehörgangs & Ohrenreinigung zweimal pro Woche",
-                        "text": "Klappen Sie die Schlappohren abends kurz nach hinten, damit Luft in den Gehörgang gelangt, und reinigen Sie sie zweimal wöchentlich mit einem Ohrreiniger."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Wie kann ich verhindern, dass mein Beagle jault?",
-                        "answer": "Jaulen entsteht meist durch Isolationsangst und aufgestaute Energie. Die Kombination aus täglichen Schnüffel-Spaziergängen und Intelligenz-Suchspielen lastet den Hund geistig aus, schenkt ihm Sicherheit und reduziert das Jaulen."
-                    },
-                    {
-                        "question": "Warum sind die Schlappohren des Beagles so anfällig für Ohrenentzündungen?",
-                        "answer": "Die schweren Hängeohren verschließen den Gehörgang, sodass ein warmes, feuchtes Klima entsteht, in dem sich Hefepilze (Malassezien) und Bakterien schnell vermehren. Regelmäßige Belüftung und Pflege sind daher essenziell."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Cuidado da energia e ansiedade do Beagle: Rotina diária de 3 passos para ansiedade de separação e saúde das orelhas",
-                "description": "Os Beagles são cães de caça extremamente curiosos e enérgicos. Conheça uma rotina de 3 passos para satisfazer o olfato, aliviar a ansiedade de separação e prevenir infecções de ouvido.",
-                "authority": "Padrão oficial da raça Beagle do AKC e protocolos de comportamento de faro da IAABC",
-                "profile": {
-                    "breed": "Beagle",
-                    "lifespan": "12 ~ 15 anos",
-                    "sleep_pattern": "10 ~ 12 horas (sincronizado com a atividade externa)",
-                    "temperament": "Amigável, Curioso, Teimoso, Afetuoso"
-                },
-                "intro": "Adorados por suas grandes orelhas caídas e cauda com ponta branca que balança alegremente, os Beagles são cães de faro históricos que trabalharam com humanos por séculos. Embora muito amigáveis e adaptáveis, possuem uma curiosidade nata e um forte impulso para rastrear odores. Se essa energia não for gasta, desenvolvem facilmente ansiedade de separação, uivando e destruindo objetos. Além disso, suas orelhas longas retêm umidade e calor, favorecendo a otite fúngica. Neste guia, decifra os sinais do Beagle e apresenta uma rotina em 3 passos.",
-                "whyTitle": "Linguagem corporal do Beagle: Instinto de rastreamento e significado do uivo",
-                "whyDesc": "Quando concentrados em um cheiro, os Beagles encostam o focinho no chão e andam em linha reta (**'Ground-Tracking'**), ignorando barulhos ao redor enquanto gastam energia. Por outro lado, o **'uivo'** quando ficam sozinhos é uma expressão clássica de ansiedade de separação e estresse. Reconhecer ambos os sinais é fundamental para manter o cão equilibrado.",
-                "body_signals": [
-                    {
-                        "name": "Rastreamento com focinho no chão (Ground-Tracking)",
-                        "meaning": "Um estado normal de estimulação onde o cão explora o ambiente pelo olfato e gasta energia de cão de caça.",
-                        "response": "Não dê trancos na guia; dê tempo para ele farejar com segurança e explorar a trilha para satisfazer suas necessidades mentais."
-                    },
-                    {
-                        "name": "Uivo (Howling)",
-                        "meaning": "Expressão de ansiedade, solidão, tédio ou energia acumulada buscando atenção e alívio.",
-                        "response": "Evite brigar com o cão. Resolva a causa raiz aumentando os passeios e oferecendo brinquedos de faro em casa."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Jogo de caça aos petiscos dentro de casa",
-                        "text": "Após o café da manhã, esconda petiscos em copos de papel ou pela casa para exercitar a inteligência olfativa e gastar energia mental logo cedo."
-                    },
-                    {
-                        "name": "Tarde: Caminhada ativa de rastreamento de mais de 40 minutos",
-                        "text": "Ganta um passeio diário de pelo menos 40 minutos. Deixe-o farejar a grama e o ambiente livremente, sem restrições desnecessárias."
-                    },
-                    {
-                        "name": "Noite: Ventilação do conduto auditivo e limpeza duas vezes por semana",
-                        "text": "À noite, vire suavemente as orelhas para trás por um momento para circular ar no conduto, e limpe duas vezes por semana com limpador auricular veterinário."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Como posso evitar que o meu Beagle uive quando fica sozinho?",
-                        "answer": "O uivo resulta da ansiedade pelo isolamento e do excesso de energia. Combinar caminhadas focadas no faro com jogos de busca em casa cansa o cão mentalmente, proporcionando calma e eliminando os uivos."
-                    },
-                    {
-                        "question": "Por que as orelhas caídas do Beagle são tão propensas a infecções?",
-                        "answer": "Orelhas pesadas e pendulares bloqueiam a entrada de ar no conduto auditivo, criando um ambiente quente e úmido onde fungos (Malassezia) e bactérias se multiplicam. Ventilação e limpeza regulares são essenciais."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Perawatan Energi & Kecemasan Beagle: Rutinitas Harian 3 Langkah untuk Kecemasan Perpisahan dan Kesehatan Telinga",
-                "description": "Beagle adalah anjing melacak aroma yang sangat ingin tahu dengan energi besar. Pelajari rutinitas harian 3 langkah untuk memuaskan dorongan mengendus, meredakan kecemasan, dan mencegah infeksi telinga.",
-                "authority": "Standar Ras Resmi Beagle AKC & Protokol Perilaku Nosework IAABC",
-                "profile": {
-                    "breed": "Beagle",
-                    "lifespan": "12 ~ 15 tahun",
-                    "sleep_pattern": "10 ~ 12 jam (sinkron dengan aktivitas luar ruangan)",
-                    "temperament": "Ramah, Ingin Tahu, Keras Kepala, Penuh Kasih Sayang"
-                },
-                "intro": "Disukai karena telinga terkulainya yang lebar dan ekor berujung putih yang mengibas ceria, Beagle adalah anjing pelacak aroma historis yang telah bekerja bersama manusia selama berabad-abad. Meskipun sangat ramah dan mudah beradaptasi, mereka memiliki rasa ingin tahu yang kuat dan dorongan melacak aroma. Jika energi besar ini tidak disalurkan, mereka dapat mengalami kecemasan perpisahan yang memicu melolong dan perilaku merusak. Selain itu, telinga terkulainya menahan kelembapan, memicu otitis externa. Dalam panduan ini, mengulas sinyal Beagle dan menyajikan rutinitas 3 langkah.",
-                "whyTitle": "Bahasa Tubuh Beagle: Insting Melacak dan Makna Melolong",
-                "whyDesc": "Saat sangat fokus pada aroma, Beagle akan menempelkan hidung ke tanah dan berjalan lurus (**'Ground-Tracking'**), mengabaikan suara sekitar demi menyalurkan energi. Sebaliknya, **'melolong'** saat ditinggal sendiri adalah ekspresi klasik dari kecemasan perpisahan. Mengenali kedua sinyal ini adalah kunci menjaga Beagle tetap tenang.",
-                "body_signals": [
-                    {
-                        "name": "Melacak dengan Hidung di Tanah (Ground-Tracking)",
-                        "meaning": "Kondisi stimulasi normal di mana anjing menjelajahi lingkungan melalui penciuman dan membakar energi anjing pemburu.",
-                        "response": "Jangan menyentak tali penuntun; berikan waktu bagi mereka untuk mengendus jalur aroma secara aman demi memuaskan mentalnya."
-                    },
-                    {
-                        "name": "Melolong (Howling)",
-                        "meaning": "Ekspresi kecemasan, kesepian, kebosanan, atau energi tak tersalurkan yang mencari perhatian dan ketenangan.",
-                        "response": "Hindari memarahi anjing. Atasi penyebab utamanya dengan meningkatkan olahraga fisik dan menyediakan permainan puzzle penciuman di dalam rumah."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Permainan Petak Sumpet Camilan (Nosework) di Dalam Rumah",
-                        "text": "Setelah sarapan, sembunyikan camilan dalam gelas kertas atau sudut ruangan untuk mengasah kecerdasan penciuman dan membakar energi mental sejak pagi."
-                    },
-                    {
-                        "name": "Siang: Jalan-jalan Aktif Melacak Aroma Selama 40+ Menit",
-                        "text": "Berikan jalan-jalan outdoor minimal 40 menit setiap hari. Biarkan mereka mengendus rumput dan jalanan secara bebas tanpa batasan yang tidak perlu."
-                    },
-                    {
-                        "name": "Malam: Aerasi Saluran Telinga & Pembersihan Telinga Dua Kali Seminggu",
-                        "text": "Buka daun telinganya secara perlahan ke belakang di malam hari agar udara ber-sirkulasi, dan bersihkan dua kali seminggu dengan cairan pembersih telinga anjing."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Bagaimana cara mencegah Beagle saya melolong saat ditinggal sendiri?",
-                        "answer": "Melolong bersumber dari kecemasan terisolasi dan penumpukan energi. Menggabungkan jalan mengendus harian dengan permainan puzzle olfaktori di dalam rumah akan menguras mentalnya, memberikan ketenangan dan menghentikan melolong."
-                    },
-                    {
-                        "question": "Mengapa telinga terkulai Beagle sangat rentan terkena infeksi telinga?",
-                        "answer": "Telinga terkulainya yang berat menghalangi aliran udara ke saluran telinga, menciptakan lingkungan hangat dan lembap tempat jamur (Malassezia) dan bakteri berkembang biak. Aerasi dan pembersihan rutin sangat penting."
-                    }
-                ]
-            }
+  "beagle-care": {
+    "pubDate": "2026-02-28",
+    "updatedDate": "2026-03-01",
+    "locales": {
+      "ko": {
+        "title": "비글의 폭발적 에너지 케어: 분리불안 완화와 귓병 예방 3단계 루틴",
+        "description": "사냥개 혈통으로 호기심과 운동량이 강한 비글. 넘치는 에너지를 충족시켜 분리불안을 극복하고 덮여있는 귀의 환기를 돕는 3단계 노즈워크 케어를 다룹니다.",
+        "authority": "AKC(미국케넬클럽) 비글 품종 표준 및 IAABC 노즈워크 행동 프로토콜",
+        "profile": {
+          "breed": "비글 (Beagle)",
+          "lifespan": "12 ~ 15년",
+          "sleep_pattern": "10 ~ 12시간 (야외 활동 동조형)",
+          "temperament": "온순함, 호기심 강함, 고집스러움, 다정함"
         },
-        "heroImage": "/images/blog/beagle_care.webp"
-    }
+        "intro": "귀엽고 처진 커다란 귀와 늘 쾌활하게 흔들리는 하얀 꼬리 팁이 매력적인 비글은 인간과 수세기 동안 함께 활동해 온 사냥개(하운드) 출신입니다. 뛰어난 친화력으로 누구와도 잘 지내지만, 타고난 호기심과 엄청난 후각 집착력을 가지고 있습니다. 이 에너지를 해소해 주지 못하면 하울링을 하거나 집안 가구를 파괴하는 등 분리불안 증상을 보이기 쉽습니다. 또한 축 늘어진 커다란 귀는 내부가 습해 곰팡이성 외이염에 취약합니다. 이번 가이드에서는 비글의 독특한 추적 행동 및 불안 신호를 진단하고, 후각 본능 해소와 귀 건강을 잡는 3단계 데일리 루틴을 알려드립니다.",
+        "whyTitle": "비글의 바디 랭귀지: 추적 본능과 하울링의 의미",
+        "whyDesc": "비글은 후각에 극도로 집중할 때 **'코를 땅에 대고 직진하기(Ground-Tracking)'** 행동을 보이며 주변 소리를 차단합니다. 이는 본능적인 자극 해소 단계입니다. 반면에 주인이 없을 때나 외로움을 느낄 때 나타내는 **'하울링(Howling)'**은 전형적인 분리불안과 스트레스의 표현입니다. 이 두 신호를 정확히 감지해 주는 것이 비글을 활기차고 차분한 상태로 관리하는 비결입니다.",
+        "body_signals": [
+          {
+            "name": "코 대고 직진하기 (Ground-Tracking)",
+            "meaning": "주변 냄새 분자를 통해 세상을 탐색하고 사냥 에너지를 발산하고 있는 정상적 흥분 상태입니다.",
+            "response": "산책 중 억지로 줄을 당겨 끊지 말고, 냄새를 맡고 충분히 탐색하도록 허용하고 지켜보세요."
+          },
+          {
+            "name": "하울링 (Howling)",
+            "meaning": "외로움, 지루함, 에너지가 해소되지 않아 생기는 불안과 주의 환기 표현입니다.",
+            "response": "하울링을 할 때 혼내지 말고, 평소 실내 노즈워크 퍼즐이나 충분한 산책을 통해 에너지를 차단해 주세요."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 집안 실내 간식 숨기기 노즈워크 놀이",
+            "text": "아침 식사 후 비글의 예민한 후각 지능을 채우기 위해 집안 곳곳이나 종이컵 안에 간식을 숨겨 두고 찾게 하여 인지 능력을 발산시킵니다."
+          },
+          {
+            "name": "낮: 40분 이상의 충분한 야외 냄새 탐색 산책",
+            "text": "에너지 방산을 위해 하루 최소 40분 이상 매일 야외 산책을 나가며, 냄새를 쫓는 행동을 강제로 제약하지 않고 자유롭게 추적하도록 돕습니다."
+          },
+          {
+            "name": "저녁: 처진 귀 내부 환기 및 주 2회 귀 세정",
+            "text": "귀가 늘어져 외이도가 밀폐되므로 저녁에는 귀를 가볍게 젖혀 공기를 통하게 해주고, 주 2회 전용 귀 세정제를 활용해 마사지 후 청결을 유지합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "비글의 하울링을 방지하려면 어떻게 해야 하나요?",
+            "answer": "하울링은 주로 고립에 따른 불안감과 넘치는 활동 에너지의 불균형에서 발생합니다. 산책과 실내 노즈워크의 비율을 높여 강아지를 피로하게 하고 심리적 안정감을 제공하는 것이 근본적인 예방책입니다."
+          },
+          {
+            "question": "비글의 덮인 귀는 왜 자주 외이염에 걸리나요?",
+            "answer": "비글처럼 늘어진 귀는 이도를 공기로부터 차단하여 내부에 수분과 먼지가 머무르기 쉬운 다습한 환경을 만듭니다. 이는 외이도 내 효모균(말라세지아) 및 진드기 번식을 도와 가려움과 냄새를 유발하므로 주기적 환기와 세정이 필수입니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Beagle Energy & Anxiety Care: A 3-Step Routine for Separation Anxiety and Ear Health",
+        "description": "Beagles are highly curious scent hounds with immense energy. Learn a 3-step daily routine to satisfy their sniff drive, ease separation anxiety, and prevent ear infections.",
+        "authority": "Official AKC Breed Standard for Beagles & IAABC Nosework Behavior Protocols",
+        "profile": {
+          "breed": "Beagle",
+          "lifespan": "12 ~ 15 years",
+          "sleep_pattern": "10 ~ 12 hours (synchronized with outdoor activity)",
+          "temperament": "Friendly, Curious, Stubborn, Affectionate"
+        },
+        "intro": "Adored for their large floppy ears and happy white-tipped tail, Beagles are historic scent hounds that worked alongside humans for centuries. While famously friendly and adaptable, they possess an intense innate curiosity and a powerful drive to track scents. If this massive energy is not properly funneled, they easily develop separation anxiety, leading to vocal howling and destructive indoor habits. Furthermore, their long pendulous ears trap moisture and heat, creating a breeding ground for fungal ear infections (otitis externa). In this guide, decodes Beagle tracking and anxiety signals and presents a 3-step daily care routine.",
+        "whyTitle": "Beagle Body Language: Tracking Instinct and Meaning of Howling",
+        "whyDesc": "When hyper-focused on smells, Beagles exhibit **'ground-tracking'** (pressing their nose to the ground and marching forward), often tuning out external sounds as they release energy through scent. Conversely, **'howling'** when left alone or under-stimulated is a classic expression of separation anxiety and distress. Accurately recognizing these two signals is essential for keeping your Beagle balanced and calm.",
+        "body_signals": [
+          {
+            "name": "Ground-Tracking",
+            "meaning": "A normal state of heightened stimulation where the dog explores their environment through smell and burns scent-hound energy.",
+            "response": "Do not yank their leash; allow them time to safely sniff and explore the scent trail to satisfy their mental needs."
+          },
+          {
+            "name": "Howling",
+            "meaning": "An expression of anxiety, loneliness, boredom, or unspent energy seeking attention and relief.",
+            "response": "Avoid scolding. Address the root cause by increasing physical exercise and providing indoor nosework puzzle toys."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Indoor Treat Hide-and-Seek Nosework Game",
+            "text": "After breakfast, hide treats in paper cups or around the room to engage their sharp scenting intelligence and burn mental energy early in the day."
+          },
+          {
+            "name": "Afternoon: 40+ Minute Active Outdoor Tracking Walk",
+            "text": "Provide at least 40 minutes of outdoor walking daily. Let them sniff grass and trails freely without unnecessary restrictions to release physical energy."
+          },
+          {
+            "name": "Evening: Ear Canal Aeration & Bi-weekly Ear Cleaning",
+            "text": "Gently flip their floppy ears back in the evening to let air circulate through the ear canal, and clean twice a week with a pet ear cleanser to prevent yeast build-up."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "How can I prevent my Beagle from howling?",
+            "answer": "Howling stems primarily from isolation anxiety and unvented energy. Combining daily sniff-walks with structured indoor nosework games mentally exhausts them, providing psychological comfort and curbing howling."
+          },
+          {
+            "question": "Why are Beagles' floppy ears so prone to ear infections?",
+            "answer": "Their heavy pendulous ears block airflow to the ear canal, creating a warm, humid environment where yeast, bacteria, and ear mites thrive. Regular ear aeration and cleaning are crucial preventative steps."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ビーグルの爆発的エネルギーケア：分離不安緩和と耳病予防の3段階ルーティン",
+        "description": "狩猟犬の血を引くビーグルは好奇心と運動量が非常に活発です。エネルギーを適切に消費して分離不安を克服し、垂れ耳の衛生を保つ3段階ケアを紹介します。",
+        "authority": "AKC（アメリカンケネルクラブ）ビーグル標準＆IAABCノーズワーク行動プロトコル",
+        "profile": {
+          "breed": "ビーグル (Beagle)",
+          "lifespan": "12 〜 15年",
+          "sleep_pattern": "10 〜 12時間（屋外の活動と同調）",
+          "temperament": "フレンドリー、好奇心旺盛、頑固、甘えん坊"
+        },
+        "intro": "大きな垂れ耳と常に陽気に揺れる白い尻尾の先が魅力のビーグルは、何世紀にもわたり人間と共に活躍してきた狩猟犬（ハウンド）出身です。誰にでも人懐っこい反面、生まれつきの強い好奇心と鋭い嗅覚執着を持っています。この豊富なエネルギーを解消できないと、遠吠えや家具の破壊といった分離不安の症状を起こしやすくなります。また、垂れた耳は内部が湿気やすく、カビ性の外耳炎に罹患しやすい特徴があります。本記事では、ビーグルの追跡行動と不安サインを解読し、後閣本能の充足と耳の健康を守る3段階ルーティンを紹介します。",
+        "whyTitle": "ビーグルのボディランゲージ：追跡本能と遠吠えの意味",
+        "whyDesc": "ビーグルは嗅覚に集中する際、**「地面に鼻を押し当てて直進する追跡行動（Tracking）」**を行い、周りの音を遮断します。これは本能的な刺激解消の過程です。一方、留守中や孤独を感じる時の**「遠吠え（Howling）」**は、典型的は分離不安と stress の表現です。この2つのシグナルを正しく見極めることが、ビーグルを穏やかに保つ秘訣です。",
+        "body_signals": [
+          {
+            "name": "鼻を付けて直進する追跡行動 (Ground-Tracking)",
+            "meaning": "周囲のにおい分子を通じて世界を探索し、狩猟犬としてのエネルギーを発散している正常な興奮状態です。",
+            "response": "散歩中に無理にリードを引っ張らず、においを十分に嗅ぎ探索させる時間を確保して見守ってください。"
+          },
+          {
+            "name": "遠吠え (Howling)",
+            "meaning": "孤独や退屈、エネルギーが発散されないことによる不安と、注意を引くための自己表現です。",
+            "response": "遠吠えをした時に叱るのではなく、日常的なノーズワークやお散歩を通じて過剰な energy を解消してあげてください。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：室内のおやつ隠しノーズワーク遊び",
+            "text": "朝食後、ビーグルの鋭い嗅覚を満たすために部屋のあちこちや紙コップの中におやつを隠して探させ、認知エネルギーを消費させます。"
+          },
+          {
+            "name": "昼：40分以上の十分な屋外におい探索散歩",
+            "text": "エネルギー発散のために毎日40分以上外へ連れ出し、においを追う行動を制限せずに自由に嗅がせてあげます。"
+          },
+          {
+            "name": "夜：垂れ耳内部の換気と週2回の耳掃除",
+            "text": "耳が垂れて外耳道が密閉されやすいため、夜は耳を軽くめくって風を通し、週2回専用の耳洗浄液を使って清潔を保ちます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ビーグルの遠吠えを防ぐにはどうすればいいですか？",
+            "answer": "遠吠えは主に孤立による不安と、未消化のエネルギーの不均衡から発生します。散歩とノーズワークの時間を増やして適度な疲労感と安心感を与えることが根本的な予防策です。"
+          },
+          {
+            "question": "ビーグルの垂れ耳はなぜ外耳炎になりやすいのですか？",
+            "answer": "垂れ耳は耳の穴を塞ぐため、内部に湿気や熱がこもりやすい多湿環境を作ります。これがマラセチア菌（カビ）や細菌の繁殖を促すため、定期的な換気と耳掃除が不可欠です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "比格犬的精力与焦虑护理：缓解分离焦虑与预防耳病的日常3步惯例",
+        "description": "拥有猎犬血统、充满好奇心和运动量的比格犬。介绍一套满足其嗅觉需求以缓解分离焦虑，并保持垂耳卫生的日常3步护理惯例。",
+        "authority": "AKC (美国犬业俱乐部) 比格犬标准与 IAABC 嗅闻行为协议",
+        "profile": {
+          "breed": "比格犬 (Beagle)",
+          "lifespan": "12 ~ 15年",
+          "sleep_pattern": "10 ~ 12小时（与户外活动同步）",
+          "temperament": "友善、好奇心强、固执、温顺"
+        },
+        "intro": "比格犬拥有可爱耷拉的大耳朵和总是欢快摇摆的白尾尖，起源于与人类共同工作了几个世纪的嗅探猎犬。虽然它们极为友善且适应力强，但具有天生的好奇心和强烈的嗅觉执着。如果这股巨大的精力无法得到宣泄，很容易表现出持续嚎叫或破坏家具等分离焦虑症状。此外，耷拉的大耳朵内部潮湿且闷热，极易滋生霉菌引发外耳炎。今天，本指南将教您如何读懂比格犬特有的追踪行为及焦虑信号，并提供满足嗅觉本能和保护耳朵健康的3步日常护理惯例。",
+        "whyTitle": "比格犬的身体语言：追踪本能与嚎叫的含义",
+        "whyDesc": "比格犬在极度专注于嗅觉时，会表现出**“将鼻子贴在地上直行（Tracking）”**的行为，并会忽略周围的声音，这是其本能宣泄精力的阶段。相反，在独自留守或缺乏刺激时表现出的**“嚎叫（Howling）”**，则是典型的心里焦虑与压力的体现。准确捕捉这两大信号，是让比格犬保持活泼且情绪稳定的秘诀。",
+        "body_signals": [
+          {
+            "name": "贴地直行追踪 (Ground-Tracking)",
+            "meaning": "通过周围的气味分子探索世界并释放猎犬精力的正常兴奋状态。",
+            "response": "散步时切勿强力拉扯牵引绳打断它们，应给它们时间安全地嗅闻与探索气味路径。"
+          },
+          {
+            "name": "嚎叫 (Howling)",
+            "meaning": "因孤独、无聊、精力未能释放而产生的焦虑与寻求关注的表现。",
+            "response": "嚎叫时请勿训斥，而应通过平时的室内嗅闻益智游戏或充足的户外散步来宣泄其过剩的精力。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早晨：室内零食藏匿嗅闻游戏",
+            "text": "早餐后，为了满足比格犬敏锐的嗅觉智力，可将零食隐藏在纸杯中或房屋角落让其搜寻，提前消耗其认知精力。"
+          },
+          {
+            "name": "中午：40分钟以上充足的户外嗅闻追踪散步",
+            "text": "为了释放精力，每天至少进行40分钟以上的户外散步，并且不强行限制其嗅闻气味的行为，让其自由追踪。"
+          },
+          {
+            "name": "晚上：垂耳内部通风与每周2次耳道清洁",
+            "text": "由于耳朵下垂导致外耳道密闭，晚上应轻轻向后翻起耳朵进行通风，每周使用2次专用耳道清洁剂进行按摩清洁，保持卫生。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "如何防止比格犬嚎叫？",
+            "answer": "嚎叫主要由于独处的焦虑以及过剩的精力无处消耗所致。增加散步和室内嗅闻游戏的频率，使其身体适度疲劳并获得心理安全感，是根本的预防方法。"
+          },
+          {
+            "question": "为什么比格犬耷拉的耳朵容易得外耳炎？",
+            "answer": "像比格犬这样耷拉的耳朵会阻断耳道与空气的流通，形成潮湿多汗的内部环境，极易滋生马拉色菌（真菌）和耳螨，引起瘙痒和异味。因此必须定期通风和清洁。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cuidado de la energía y ansiedad del Beagle: Rutina diaria de 3 pasos para la ansiedad por separación y salud de las orejas",
+        "description": "Los Beagle son sabuesos muy curiosos con una energía enorme. Conozca una rutina diaria de 3 pasos para saciar su olfato, reducir la ansiedad por separación y prevenir infecciones de oído.",
+        "authority": "Estándar oficial de la raza Beagle de la AKC y protocolos de comportamiento de rastreo de la IAABC",
+        "profile": {
+          "breed": "Beagle",
+          "lifespan": "12 ~ 15 años",
+          "sleep_pattern": "10 ~ 12 horas (sincronizado con la actividad exterior)",
+          "temperament": "Amigable, Curioso, Obstinado, Afectuoso"
+        },
+        "intro": "Adorados por sus grandes orejas caídas y su cola con la punta blanca que se mueve alegremente, los Beagle son sabuesos históricos que trabajaron junto al ser humano durante siglos. Aunque son famosos por ser amigables y adaptables, poseen una curiosidad innata y un fuerte impulso de rastreo. Si esta enorme energía no se canaliza bien, desarrollan fácilmente ansiedad por separación, recurriendo a aullidos e hiperactividad destructiva. Además, sus orejas largas retienen humedad y calor, predisponiéndolos a otitis micóticas. En esta guía, descifra las señales del Beagle y presenta una rutina diaria en 3 pasos.",
+        "whyTitle": "Lenguaje corporal del Beagle: Instinto de rastreo y significado del aullido",
+        "whyDesc": "Cuando se concentran en un olor, los Beagle pegan la nariz al suelo y avanza en línea recta (**'Ground-Tracking'**), desconectando de los sonidos externos mientras liberan energía. Por el contrario, el **'aullido'** cuando se quedan solos es una expresión clásica de ansiedad por separación y malestar. Reconocer ambas señales es clave para mantener al Beagle equilibrado.",
+        "body_signals": [
+          {
+            "name": "Rastreo pegado al suelo (Ground-Tracking)",
+            "meaning": "Un estado normal de estimulación donde el perro explora su entorno a través del olfato y quema energía de sabueso.",
+            "response": "No de un tirón de la correa; dele tiempo para olfatear con seguridad y explorar el rastro para satisfacer sus necesidades mentales."
+          },
+          {
+            "name": "Aullido (Howling)",
+            "meaning": "Expresión de ansiedad, soledad, aburrimiento o energía no gastada para llamar la atención y pedir alivio.",
+            "response": "Evite regañarle. Aborde la causa raíz aumentando el ejercicio físico y proporcionando juegos de olfato en casa."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Juego de olfato y búsqueda de premios en casa",
+            "text": "Tras el desayuno, esconda premios en vasos de papel o por las habitaciones para estimular su agudo olfato y quemar energía cognitiva desde temprano."
+          },
+          {
+            "name": "Tarde: Paseo activo de rastreo al aire libre de más de 40 minutos",
+            "text": "Asegure un paseo diario de al menos 40 minutos. Permítale olfatear la hierba y el entorno libremente sin restricciones innecesarias."
+          },
+          {
+            "name": "Noche: Ventilación del canal auditivo y limpieza dos veces por semana",
+            "text": "Por la noche, pliegue suavemente las orejas hacia atrás un momento para que circule el aire, y limpie dos veces por semana con un limpiador auricular veterinario."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Cómo puedo evitar que mi Beagle aúlle cuando se queda solo?",
+            "answer": "El aullido se debe a la ansiedad por aislamiento y a la acumulación de energía. Combinar paseos de rastreo diarios con juegos de olfato en casa agota mentalmente al perro, proporcionándole calma y eliminando el aullido."
+          },
+          {
+            "question": "¿Por qué las orejas caídas del Beagle son tan propensas a las infecciones?",
+            "answer": "Sus orejas pesadas bloquen la entrada de aire al conducto auditivo, creando un ambiente cálido y húmedo donde proliferan levaduras (como Malassezia) y bacterias. La ventilación y limpieza periódicas son indispensables."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Soins du Beagle (Énergie & Anxiété) : Routine quotidienne en 3 étapes pour l'anxiété de séparation et la santé des oreilles",
+        "description": "Le Beagle est un chien de chasse curieux doté d'une énergie débordante. Apprenez une routine en 3 étapes pour combler son instinct de flair, réduire l'anxiété et prévenir les otites.",
+        "authority": "Standard officiel du Beagle de l'AKC et protocoles de comportement de pistage de l'IAABC",
+        "profile": {
+          "breed": "Beagle",
+          "lifespan": "12 ~ 15 ans",
+          "sleep_pattern": "10 ~ 12 heures (synchronisé avec l'activité extérieure)",
+          "temperament": "Amical, Curieux, Têtu, Affectueux"
+        },
+        "intro": "Adoré pour ses grandes oreilles tombantes et sa queue au bout blanc qui remue joyeusement, le Beagle est un chien de courant historique. Bien que très amical et adaptable, il possède une curiosité naturelle insatiable et un besoin impérieux de suivre des pistes olfactives. Si cette énergie n'est pas évacuée, il peut développer une anxiété de séparation manifestée par des hurlements et des comportements destructeurs. De plus, ses oreilles pendantes retiennent l'humidité, favorisant les otites fongiques. Dans ce guide, décrypte ses signaux et vous livre une routine de soin en 3 étapes.",
+        "whyTitle": "Langage corporel du Beagle : Instinct de pistage et signification des hurlements",
+        "whyDesc": "Lorsqu'il est absorbé par une odeur, le Beagle colle son nez au sol et avance en ligne droite (**'Ground-Tracking'**), ignorant les bruits extérieurs pour libérer son énergie. En revanche, le **'hurlement'** lorsqu'il est seul est l'expression d'un malaise dû à l'anxiété de séparation. Comprendre ces deux comportements est la clé d'un Beagle épanoui.",
+        "body_signals": [
+          {
+            "name": "Pistage le nez au sol (Ground-Tracking)",
+            "meaning": "Un état d'excitation normal où le chien explore son environnement par l'odorat et dépense son énergie de chien de chasse.",
+            "response": "Ne tirez pas sur la laisse ; laissez-lui le temps de flairer en toute sécurité pour répondre à ses besoins mentaux."
+          },
+          {
+            "name": "Hurlement (Howling)",
+            "meaning": "Expression d'anxiété, de solitude, d'ennui ou d'énergie non dépensée cherchant à attirer l'attention.",
+            "response": "Ne le grondez pas. Traitez la cause sous-jacente en augmentant l'exercice physique et en lui proposant des jeux de fouille en intérieur."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Jeu de recherche de friandises en intérieur",
+            "text": "Après le petit-déjeuner, cachez des friandises dans des gobelets en carton ou dans la pièce pour stimuler son odorat et canaliser son énergie mentale dès le matin."
+          },
+          {
+            "name": "Après-midi : Promenade de pistage active de plus de 40 minutes",
+            "text": "Assurez une promenade extérieure d'au moins 40 minutes par jour. Laissez-le flairer librement l'herbe et les pistes sans contrainte inutile."
+          },
+          {
+            "name": "Soir : Aération du conduit auditif et nettoyage bihebdomadaire",
+            "text": "Le soir, rabattez doucement ses oreilles vers l'arrière un moment pour faire circuler l'air, et nettoyez-les deux fois par semaine avec un nettoyant auriculaire adapté."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Comment empêcher mon Beagle de hurler en mon absence ?",
+            "answer": "Les hurlements découlent de l'anxiété de solitude et d'un surplus d'énergie. Associer promenades quotidiennes axées sur le flair et jeux de recherche en intérieur le fatiguera intellectuellement, lui apportant sérénité et réduisant les hurlements."
+          },
+          {
+            "question": "Pourquoi les oreilles tombantes du Beagle s'infectent-elles si facilement ?",
+            "answer": "Leurs oreilles lourdes empêchent la circulation de l'air dans le conduit auditif, créant un milieu chaud et humide idéal pour la prolifération de levures (Malassezia) et de bactéries. Une aération et un nettoyage réguliers sont indispensables."
+          }
+        ]
+      },
+      "de": {
+        "title": "Beagle Energie- & Angstpflege: 3-Schritte-Tagesroutine bei Trennungsangst und für die Ohrengesundheit",
+        "description": "Beagles sind neugierige Laufhunde mit enormer Energie. Lernen Sie eine 3-Schritte-Tagesroutine kennen, um ihren Schnüffeltrieb zu stillen, Trennungsangst zu lindern und Ohrenentzündungen vorzubeugen.",
+        "authority": "Offizieller AKC-Rassestandard für Beagles & IAABC-Schnüffelverhaltensprotokolle",
+        "profile": {
+          "breed": "Beagle",
+          "lifespan": "12 ~ 15 Jahre",
+          "sleep_pattern": "10 ~ 12 Stunden (synchronisiert mit der Außenaktivität)",
+          "temperament": "Freundlich, Neugierig, Eigensinnig, Anhänglich"
+        },
+        "intro": "Beliebt für ihre großen Schlappohren und die fröhlich wackelnde weiße Rutenspitze, sind Beagles historische Meutehunde, die seit Jahrhunderten mit dem Menschen arbeiten. Obwohl sie sehr freundlich und anpassungsfähig sind, besitzen sie eine ausgeprägte Neugier und einen starken Trieb zur Fährtenarbeit. Wenn diese Energie nicht abgebaut wird, entwickeln sie leicht Trennungsangst, die sich in laustarkem Jaulen und Zerstörungswut äußert. Zudem begünstigen die Hängeohren ein feuchtwarmes Milieu für Hefepilz-Infektionen im Ohr. Heute erklärt  die Körpersprache des Beagles und stellt eine 3-Schritte-Routine vor.",
+        "whyTitle": "Körpersprache des Beagles: Schnüffeltrieb und die Bedeutung des Jaulens",
+        "whyDesc": "Wenn Beagles intensiv einem Geruch folgen, drücken sie die Nase auf den Boden und marschieren vorwärts (**'Ground-Tracking'**), wobei sie Umgebungsgeräusche ausblenden. Das **'Jaulen'** bei Einsamkeit oder Unterforderung ist hingegen ein klassischer Ausdruck von Trennungsangst und Unruhe. Das Erkennen dieser zwei Signale ist der Schlüssel zu einem ausgeglichenen Beagle.",
+        "body_signals": [
+          {
+            "name": "Fährtenverfolgung am Boden (Ground-Tracking)",
+            "meaning": "Ein normaler Zustand erhöhter Stimulation, bei dem der Hund seine Umwelt über die Nase erkundet und Jagdhund-Energie abbaut.",
+            "response": "Rucken Sie nicht an der Leine; geben Sie ihm Zeit, die Geruchsspur sicher zu erkunden, um sein geistiges Bedürfnis zu befriedigen."
+          },
+          {
+            "name": "Jaulen (Howling)",
+            "meaning": "Ein Ausdruck von Angst, Einsamkeit, Langeweile oder ungenutzter Energie, um Aufmerksamkeit und Erleichterung zu suchen.",
+            "response": "Vermeiden Sie Bestrafung. Bekämpfen Sie die Ursache durch mehr körperliche Auslastung und Schnüffelspiele im Haus."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Leckerli-Suchspiel im Haus (Nosework)",
+            "text": "Verstecken Sie nach dem Frühstück Futter in Pappbechern oder im Raum, um den scharfen Geruchssinn zu fordern und geistige Energie abzubauen."
+          },
+          {
+            "name": "Nachmittag: 40+ Minuten aktiver Fährten-Spaziergang",
+            "text": "Sorgen Sie für mindestens 40 Minuten Auslauf täglich. Lassen Sie ihn Gras und Wege frei beschnüffeln, um körperliche Energie freizusetzen."
+          },
+          {
+            "name": "Abend: Belüftung des Gehörgangs & Ohrenreinigung zweimal pro Woche",
+            "text": "Klappen Sie die Schlappohren abends kurz nach hinten, damit Luft in den Gehörgang gelangt, und reinigen Sie sie zweimal wöchentlich mit einem Ohrreiniger."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Wie kann ich verhindern, dass mein Beagle jault?",
+            "answer": "Jaulen entsteht meist durch Isolationsangst und aufgestaute Energie. Die Kombination aus täglichen Schnüffel-Spaziergängen und Intelligenz-Suchspielen lastet den Hund geistig aus, schenkt ihm Sicherheit und reduziert das Jaulen."
+          },
+          {
+            "question": "Warum sind die Schlappohren des Beagles so anfällig für Ohrenentzündungen?",
+            "answer": "Die schweren Hängeohren verschließen den Gehörgang, sodass ein warmes, feuchtes Klima entsteht, in dem sich Hefepilze (Malassezien) und Bakterien schnell vermehren. Regelmäßige Belüftung und Pflege sind daher essenziell."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Cuidado da energia e ansiedade do Beagle: Rotina diária de 3 passos para ansiedade de separação e saúde das orelhas",
+        "description": "Os Beagles são cães de caça extremamente curiosos e enérgicos. Conheça uma rotina de 3 passos para satisfazer o olfato, aliviar a ansiedade de separação e prevenir infecções de ouvido.",
+        "authority": "Padrão oficial da raça Beagle do AKC e protocolos de comportamento de faro da IAABC",
+        "profile": {
+          "breed": "Beagle",
+          "lifespan": "12 ~ 15 anos",
+          "sleep_pattern": "10 ~ 12 horas (sincronizado com a atividade externa)",
+          "temperament": "Amigável, Curioso, Teimoso, Afetuoso"
+        },
+        "intro": "Adorados por suas grandes orelhas caídas e cauda com ponta branca que balança alegremente, os Beagles são cães de faro históricos que trabalharam com humanos por séculos. Embora muito amigáveis e adaptáveis, possuem uma curiosidade nata e um forte impulso para rastrear odores. Se essa energia não for gasta, desenvolvem facilmente ansiedade de separação, uivando e destruindo objetos. Além disso, suas orelhas longas retêm umidade e calor, favorecendo a otite fúngica. Neste guia, decifra os sinais do Beagle e apresenta uma rotina em 3 passos.",
+        "whyTitle": "Linguagem corporal do Beagle: Instinto de rastreamento e significado do uivo",
+        "whyDesc": "Quando concentrados em um cheiro, os Beagles encostam o focinho no chão e andam em linha reta (**'Ground-Tracking'**), ignorando barulhos ao redor enquanto gastam energia. Por outro lado, o **'uivo'** quando ficam sozinhos é uma expressão clássica de ansiedade de separação e estresse. Reconhecer ambos os sinais é fundamental para manter o cão equilibrado.",
+        "body_signals": [
+          {
+            "name": "Rastreamento com focinho no chão (Ground-Tracking)",
+            "meaning": "Um estado normal de estimulação onde o cão explora o ambiente pelo olfato e gasta energia de cão de caça.",
+            "response": "Não dê trancos na guia; dê tempo para ele farejar com segurança e explorar a trilha para satisfazer suas necessidades mentais."
+          },
+          {
+            "name": "Uivo (Howling)",
+            "meaning": "Expressão de ansiedade, solidão, tédio ou energia acumulada buscando atenção e alívio.",
+            "response": "Evite brigar com o cão. Resolva a causa raiz aumentando os passeios e oferecendo brinquedos de faro em casa."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Jogo de caça aos petiscos dentro de casa",
+            "text": "Após o café da manhã, esconda petiscos em copos de papel ou pela casa para exercitar a inteligência olfativa e gastar energia mental logo cedo."
+          },
+          {
+            "name": "Tarde: Caminhada ativa de rastreamento de mais de 40 minutos",
+            "text": "Ganta um passeio diário de pelo menos 40 minutos. Deixe-o farejar a grama e o ambiente livremente, sem restrições desnecessárias."
+          },
+          {
+            "name": "Noite: Ventilação do conduto auditivo e limpeza duas vezes por semana",
+            "text": "À noite, vire suavemente as orelhas para trás por um momento para circular ar no conduto, e limpe duas vezes por semana com limpador auricular veterinário."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Como posso evitar que o meu Beagle uive quando fica sozinho?",
+            "answer": "O uivo resulta da ansiedade pelo isolamento e do excesso de energia. Combinar caminhadas focadas no faro com jogos de busca em casa cansa o cão mentalmente, proporcionando calma e eliminando os uivos."
+          },
+          {
+            "question": "Por que as orelhas caídas do Beagle são tão propensas a infecções?",
+            "answer": "Orelhas pesadas e pendulares bloqueiam a entrada de ar no conduto auditivo, criando um ambiente quente e úmido onde fungos (Malassezia) e bactérias se multiplicam. Ventilação e limpeza regulares são essenciais."
+          }
+        ]
+      },
+      "id": {
+        "title": "Perawatan Energi & Kecemasan Beagle: Rutinitas Harian 3 Langkah untuk Kecemasan Perpisahan dan Kesehatan Telinga",
+        "description": "Beagle adalah anjing melacak aroma yang sangat ingin tahu dengan energi besar. Pelajari rutinitas harian 3 langkah untuk memuaskan dorongan mengendus, meredakan kecemasan, dan mencegah infeksi telinga.",
+        "authority": "Standar Ras Resmi Beagle AKC & Protokol Perilaku Nosework IAABC",
+        "profile": {
+          "breed": "Beagle",
+          "lifespan": "12 ~ 15 tahun",
+          "sleep_pattern": "10 ~ 12 jam (sinkron dengan aktivitas luar ruangan)",
+          "temperament": "Ramah, Ingin Tahu, Keras Kepala, Penuh Kasih Sayang"
+        },
+        "intro": "Disukai karena telinga terkulainya yang lebar dan ekor berujung putih yang mengibas ceria, Beagle adalah anjing pelacak aroma historis yang telah bekerja bersama manusia selama berabad-abad. Meskipun sangat ramah dan mudah beradaptasi, mereka memiliki rasa ingin tahu yang kuat dan dorongan melacak aroma. Jika energi besar ini tidak disalurkan, mereka dapat mengalami kecemasan perpisahan yang memicu melolong dan perilaku merusak. Selain itu, telinga terkulainya menahan kelembapan, memicu otitis externa. Dalam panduan ini, mengulas sinyal Beagle dan menyajikan rutinitas 3 langkah.",
+        "whyTitle": "Bahasa Tubuh Beagle: Insting Melacak dan Makna Melolong",
+        "whyDesc": "Saat sangat fokus pada aroma, Beagle akan menempelkan hidung ke tanah dan berjalan lurus (**'Ground-Tracking'**), mengabaikan suara sekitar demi menyalurkan energi. Sebaliknya, **'melolong'** saat ditinggal sendiri adalah ekspresi klasik dari kecemasan perpisahan. Mengenali kedua sinyal ini adalah kunci menjaga Beagle tetap tenang.",
+        "body_signals": [
+          {
+            "name": "Melacak dengan Hidung di Tanah (Ground-Tracking)",
+            "meaning": "Kondisi stimulasi normal di mana anjing menjelajahi lingkungan melalui penciuman dan membakar energi anjing pemburu.",
+            "response": "Jangan menyentak tali penuntun; berikan waktu bagi mereka untuk mengendus jalur aroma secara aman demi memuaskan mentalnya."
+          },
+          {
+            "name": "Melolong (Howling)",
+            "meaning": "Ekspresi kecemasan, kesepian, kebosanan, atau energi tak tersalurkan yang mencari perhatian dan ketenangan.",
+            "response": "Hindari memarahi anjing. Atasi penyebab utamanya dengan meningkatkan olahraga fisik dan menyediakan permainan puzzle penciuman di dalam rumah."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Permainan Petak Sumpet Camilan (Nosework) di Dalam Rumah",
+            "text": "Setelah sarapan, sembunyikan camilan dalam gelas kertas atau sudut ruangan untuk mengasah kecerdasan penciuman dan membakar energi mental sejak pagi."
+          },
+          {
+            "name": "Siang: Jalan-jalan Aktif Melacak Aroma Selama 40+ Menit",
+            "text": "Berikan jalan-jalan outdoor minimal 40 menit setiap hari. Biarkan mereka mengendus rumput dan jalanan secara bebas tanpa batasan yang tidak perlu."
+          },
+          {
+            "name": "Malam: Aerasi Saluran Telinga & Pembersihan Telinga Dua Kali Seminggu",
+            "text": "Buka daun telinganya secara perlahan ke belakang di malam hari agar udara ber-sirkulasi, dan bersihkan dua kali seminggu dengan cairan pembersih telinga anjing."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Bagaimana cara mencegah Beagle saya melolong saat ditinggal sendiri?",
+            "answer": "Melolong bersumber dari kecemasan terisolasi dan penumpukan energi. Menggabungkan jalan mengendus harian dengan permainan puzzle olfaktori di dalam rumah akan menguras mentalnya, memberikan ketenangan dan menghentikan melolong."
+          },
+          {
+            "question": "Mengapa telinga terkulai Beagle sangat rentan terkena infeksi telinga?",
+            "answer": "Telinga terkulainya yang berat menghalangi aliran udara ke saluran telinga, menciptakan lingkungan hangat dan lembap tempat jamur (Malassezia) dan bakteri berkembang biak. Aerasi dan pembersihan rutin sangat penting."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/beagle_care.webp"
+  }
 }

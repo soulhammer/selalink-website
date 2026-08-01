@@ -1,406 +1,406 @@
 {
-    "how-to-store-coconut-water": {
-        "ingId": "coconut-water",
-        "pubDate": "2026-06-09",
-        "updatedDate": "2026-06-09",
-        "heroImage": "/images/blog/coconut_water_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "코코넛 워터 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 코코넛 워터의 최적 보관 온도, 핑크색 변색 방지법 및 보관 기한을 확인하세요.",
-                "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS) & 미국 식품의약국(FDA)",
-                "intro": "운동 후나 일상에서 갈증 해소로 즐겨 마시는 코코넛 워터를 냉장고에 넣어두었다가 분홍색이나 갈색으로 변하거나 톡 쏘는 맛이 나서 당황하신 적 있으시죠? 🥥\n\n코코넛 워터는 폴리페놀 화합물과 천연 효소를 함유하고 있어 개봉 후 산소에 노출되는 즉시 폴리페놀 옥시다아제(PPO) 효소 작용으로 산화 변색이 일어납니다. 또한 공기 중 야생 효모와 세균이 침투하면 산패 및 자연 발효(탄산화)가 빠르게 진행됩니다.\n\n이번 가이드에서는 미국 농무부(USDA)와 FDA의 검증된 가이드라인을 바탕으로, 코코넛 워터의 깔끔한 맛과 영양을 신선하게 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "개봉 후 상온에 방치하거나 48시간을 넘겨 보관하지 마세요 ⚠️",
-                        "desc": "개봉된 코코넛 워터를 상온에 두면 수시간 내에 미생물이 급격히 증식합니다. 냉장 보관하더라도 개봉 후 24~48시간이 지나면 효모 발효로 시큼한 맛과 탄산 가스가 발생하며 산패되므로 빠른 소비가 필수적입니다."
-                    },
-                    {
-                        "title": "공기 접촉 면적이 넓은 상태로 개봉 보관하지 마세요 💧",
-                        "desc": "용기 내 산소가 많이 남아있을수록 PPO 효소에 의한 산화 반응이 촉진되어 음료가 분홍색(Pinkish)이나 갈색으로 변색됩니다. 입구가 좁은 용기에 가득 채워 밀폐 보관해야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "개봉 전 직사광선이 차단된 서늘한 상온 보관 — 상온 차광 보관 (12개월) 📦",
-                        "text": "개봉 전의 멸균 포장된 코코넛 워터는 상온에서 안정적으로 보존됩니다. 💡 보관 팁: 15~20℃의 직사광선이 비치지 않는 팬트리나 찬장에 보관하면 개봉 전 최대 1년(12개월) 동안 품질이 완전하게 유지됩니다."
-                    },
-                    {
-                        "name": "개봉 후 즉시 4℃ 이하 냉장 보관 및 공기 차단 — 저온 밀폐 보관 (24~48시간) ❄️",
-                        "text": "개봉하는 순간부터 산화와 미생물 증식이 시작됩니다. 💡 보관 팁: 마시고 남은 코코넛 워터는 공기 접촉면을 최소화할 수 있는 작은 유리병이나 밀폐 용기에 옮겨 담은 후 냉장고(0~4℃)에 보관하고 1~2일 내에 마시는 것이 가장 안전합니다."
-                    },
-                    {
-                        "name": "장기 보관 시 얼음 트레이에 담아 냉동 보관 — 얼음 큐브 냉동 보관 (60~90일) 🧊",
-                        "text": "음료로 다 마시지 못하고 남은 코코넛 워터는 얼려서 보관하는 것이 좋습니다. 💡 보관 팁: 아이스 트레이에 코코넛 워터를 부어 얼린 후, 얼음 큐브를 밀폐 지퍼백에 옮겨 냉동 보관하세요. 스무디나 건강 음료를 만들 때 바로 넣으면 변색 없이 풍미를 즐길 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "코코넛 워터가 핑크색(분홍색)으로 변했는데 마셔도 괜찮은가요?",
-                        "answer": "개봉 후 공기 중 산소와 접촉하여 폴리페놀 옥시다아제(PPO) 효소가 반응하면서 나타나는 자연스러운 산화 현상입니다. 핑크색으로 변했다고 해서 즉시 독성이 생기는 것은 아니지만, 산화가 시작되었고 발효/산패가 가속화되고 있다는 신호이므로 시큼한 냄새나 톡 쏘는 맛이 난다면 섭취를 중단해야 합니다."
-                    },
-                    {
-                        "question": "개봉한 코코넛 워터는 왜 24~48시간 이내에 마셔야 하나요?",
-                        "answer": "코코넛 워터는 당분과 미네랄이 풍부하고 산도가 낮아 미생물 및 공기 중 야생 효모가 증식하기에 매우 이상적인 환경입니다. 4℃ 이하로 냉장 보관하더라도 48시간이 지나면 변색, 발효(탄산 가스 생성), 산패가 급격히 진행되므로 2일 이내 소비가 권장됩니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Coconut Water Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, pink oxidation prevention, and shelf life for coconut water based on official safety guidelines.",
-                "authority": "USDA & MFDS & FDA",
-                "intro": "Have you ever refrigerated opened coconut water only to find it turned pinkish or brownish, or developed a fizzy, sour taste? 🥥\n\nCoconut water naturally contains polyphenol compounds and active enzymes. Once opened and exposed to atmospheric oxygen, polyphenol oxidase (PPO) enzymes trigger rapid oxidative discoloration. Furthermore, contamination by wild yeasts and bacteria quickly initiates spoilage and unwanted natural fermentation (carbonation).\n\nIn this guide, based on official guidelines from the USDA and FDA, we share a 3-step scientific storage method to preserve the clean taste and nutrients of coconut water. 🛡️",
-                "whyTitle": "Why Store Coconut Water This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Do not leave opened coconut water at room temperature or store beyond 48 hours ⚠️",
-                        "desc": "Leaving opened coconut water at room temperature causes rapid microbial multiplication within hours. Even under refrigeration, yeasts cause sour fermentation and carbonation after 24–48 hours, making prompt consumption essential."
-                    },
-                    {
-                        "title": "Do not store with excess headspace or air exposure 💧",
-                        "desc": "The more oxygen present in the container, the faster PPO enzymes oxidize polyphenols, turning the liquid pinkish or brown. Fill a small airtight container to the top to minimize air contact."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Store unopened packages in a cool, dark pantry — Room Temp Storage (12 Months) 📦",
-                        "text": "Unopened commercially processed coconut water is shelf-stable at room temperature. 💡 Storage Tip: Keep unopened containers in a cool, dark pantry (15–20°C / 59–68°F) away from direct sunlight to maintain quality for up to 12 months."
-                    },
-                    {
-                        "name": "Refrigerate below 4°C immediately after opening — Cold Airtight Storage (24–48 Hours) ❄️",
-                        "text": "Oxidation and microbial growth begin the moment the package is opened. 💡 Storage Tip: Transfer leftover coconut water into a small, airtight glass bottle to minimize air contact, refrigerate at 0–4°C (32–39°F), and consume within 1 to 2 days."
-                    },
-                    {
-                        "name": "Freeze leftover coconut water in ice cube trays for long-term storage — Ice Cube Freezing (60–90 Days) 🧊",
-                        "text": "Freezing is the best method if you cannot consume opened coconut water within two days. 💡 Storage Tip: Pour coconut water into ice cube trays, freeze, and transfer the cubes to an airtight freezer bag. Add directly to smoothies or beverages without loss of flavor."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "My opened coconut water turned pink. Is it still safe to drink?",
-                        "answer": "Pink discoloration is a natural oxidation reaction caused when polyphenol oxidase (PPO) enzymes react with oxygen. While the pink color itself is not toxic, it signals that oxidation and fermentation are underway. If it smells sour or tastes fizzy, it should be discarded."
-                    },
-                    {
-                        "question": "Why must opened coconut water be consumed within 24 to 48 hours?",
-                        "answer": "Coconut water is rich in sugars and minerals with low acidity, making it an ideal breeding ground for wild yeasts and bacteria once exposed to air. Even below 4°C, fermentation, carbonation, and flavor breakdown accelerate after 48 hours."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ココナッツウォーターを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくココナッツウォーターの最適な保存温度、ピンク色の酸化変色防止法、保存期間をご確認ください。",
-                "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS) & 米国食品医薬品局(FDA)",
-                "intro": "運動後や日常の水分補給として人気のココナッツウォーターを冷蔵庫に入れておいたら、ピンク色や褐色に変色したり、シュワシュワとした酸っぱい味がして驚いたことはありませんか？🥥\n\nココナッツウォーターにはポリフェノール化合物と天然酵素が含まれており、開封後に酸素と触れるとポリフェノールオキシダーゼ（PPO）酵素の働きで急速に酸化変色が起こります。また、空気中の野生酵母や細菌が侵入すると、酸敗や自然発酵（炭酸化）が速やかに進行します。\n\n本記事では、米国農務省（USDA）およびFDAのガイドラインに基づき、ココナッツウォーターのすっきりとした味わいと栄養を保つ3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "開封後、常温に放置したり48時間を超えて保存しないでください ⚠️",
-                        "desc": "開封したココナッツウォーターを常温に置くと、数時間で微生物が爆発的に増殖します。冷蔵保存しても24〜48時間を過ぎると酵母発酵により酸っぱい味や炭酸ガスが発生して劣化するため、早めの消費が必須です。"
-                    },
-                    {
-                        "title": "空気と触れる面積が大きい状態で保存しないでください 💧",
-                        "desc": "容器内に酸素が多く残っているほど、PPO酵素による酸化反応が促進され液体がピンク色や褐色に変色します。空気が入らないよう口の狭い容器に満たして密閉保存してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "開封前は直射日光を避けた涼しい常温で保存する — 常温遮光保存 (12ヶ月間) 📦",
-                        "text": "開封前のパック入りココナッツウォーターは常温で安定して保存できます。💡保存のコツ：15〜20℃の直射日光の当たらないパントリーや棚で保管すれば、開封前で最大1年間（12ヶ月）品質が保たれます。"
-                    },
-                    {
-                        "name": "開封後はすぐに4℃以下で冷蔵保存し空気を遮断する — 低温密閉保存 (24〜48時間) ❄️",
-                        "text": "開封した瞬間から酸化と微生物の増殖が始まります。💡保存のコツ：残ったココナッツウォーターは空気に触れる面積を減らせる小さなガラス瓶等に移し替え、冷蔵庫（0〜4℃）で保存して1〜2日以内に飲み切りましょう。"
-                    },
-                    {
-                        "name": "長期保存時は製氷皿に入れて冷凍保存する — アイスキューブ冷凍保存 (60〜90日間) 🧊",
-                        "text": "2日以内に飲みきれない分は凍らせて保存するのが最適です。💡保存のコツ：製氷皿に流し込んで凍らせた後、冷凍用密閉バッグに移して冷凍庫で保存してください。スムージー等に直接入れて使えます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "ココナッツウォーターがピンク色に変色しましたが飲んでも大丈夫ですか？",
-                        "answer": "開封後に酸素と触れることでポリフェノールオキシダーゼ（PPO）酵素が反応して起こる自然な酸化現象です。ピンク色に変色したこと自体で直ちに毒性が生じるわけではありませんが、酸化と発酵が進んでいるサインですので、酸っぱい臭いや炭酸感がある場合は飲用をお控えください。"
-                    },
-                    {
-                        "question": "開封後のココナッツウォーターはなぜ24〜48時間以内に飲まなければならないのですか？",
-                        "answer": "ココナッツウォーターは糖分とミネラルが豊富で酸度が低いため、空気中の野生酵母や細菌が繁殖するのに非常に適した環境です。4℃以下で冷蔵しても48時間を過ぎると変色、発酵（炭酸ガスの発生）、酸敗が急速に進むため、2日以内の消費が推奨されます。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持椰子水（Coconut Water）新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解椰子水的最佳储存温度、防粉红氧化法及保鲜时长。",
-                "authority": "美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & 美国食品药品监督管理局(FDA)",
-                "intro": "开封后的椰子水放入冰箱后，您是否遇到过它变成粉红色、褐色，或者产生刺舌酸味的情况？🥥\n\n椰子水含有丰富的多酚类化合物和天然酶。开封后一旦与空气中的氧气接触，多酚氧化酶（PPO）就会催化快速的氧化变色。此外，空气中的野生酵母和细菌侵入后，会导致迅速变质与自然发酵（产生气泡）。\n\n本指南基于美国农务部(USDA)及FDA的权威指南，为您介绍3步科学保存秘诀，长久锁定椰子水的清甜口感与营养。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "开封后切勿置于常温或保存超过48小时 ⚠️",
-                        "desc": "开封后的椰子水在常温下几小时内就会滋生大量微生物。即使冷藏，超过24~48小时也会因酵母发酵而产生酸味和气泡，导致变质，因此必须尽快饮用。"
-                    },
-                    {
-                        "title": "切勿在留有过多空气的容器中密封保存 💧",
-                        "desc": "容器内残留的氧气越多，PPO酶催化的氧化反应越剧烈，液体越易变成粉红色（Pinkish）或褐色。应尽量倒入小瓶装满密封，减少空气接触。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "未开封前存放在避光阴凉常温处 — 常温避光保存 (12个月) 📦",
-                        "text": "未开封的密封包装椰子水在常温下非常稳定。💡储存小贴士：存放在15~20℃无阳光直射的橱柜或食品柜中，开封前可完好保鲜长达12个月。"
-                    },
-                    {
-                        "name": "开封后立即置于4℃以下冷藏并隔绝空气 — 低温密封保存 (24~48小时) ❄️",
-                        "text": "从开封那一刻起，氧化与微生物滋生便已开始。💡储存小贴士：将未喝完的椰子水倒入可减少空气接触的小玻璃瓶中密封，置于冰箱冷藏（0~4℃），并在1~2天内喝完。"
-                    },
-                    {
-                        "name": "长期保存可倒入冰格冻成冰块 — 冰块冷冻保存 (60~90天) 🧊",
-                        "text": "如果2天内无法喝完，将椰子水冷冻是最佳方案。💡储存小贴士：倒入冰格冻成冰块后，装入密封保鲜袋冷冻保存。做饮品或沙冰时直接放入，口感与风味绝佳。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "椰子水变成了粉红色，还能喝吗？",
-                        "answer": "这是开封后与空气中的氧气接触、多酚氧化酶（PPO）发生反应导致的自然氧化现象。变为粉红色本身并不立即产生毒素，但表明氧化与发酵过程已经启动。如果散发发酸异味或有气泡刺舌感，应停止饮用。"
-                    },
-                    {
-                        "question": "开封后的椰子水为什么必须在24~48小时内喝完？",
-                        "answer": "椰子水富含糖分和矿物质且酸度较低，是空气中野生酵母和细菌繁殖的极佳温床。即使在4℃以下冷藏，超过48小时后变色、发酵（产生二氧化碳）及酸败也会急剧加速，因此建议在2天内饮用完毕。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener el agua de coco fresca: Guía científica de conservación",
-                "description": "Descubra la temperatura de almacenamiento, la prevención de oxidación rosada y la vida útil del agua de coco según directrices oficiales.",
-                "authority": "USDA & MFDS & FDA",
-                "intro": "¿Alguna vez guardó agua de coco abierta en el refrigerador y descubrió que se volvió rosada o marrón, o que desarrolló un sabor efervescente y agrio? 🥥\n\nEl agua de coco contiene de forma natural compuestos polifenólicos y enzimas activas. Una vez abierta y expuesta al oxígeno, la enzima polifenol oxidasa (PPO) desencadena una rápida decoloración por oxidación. Además, la contaminación por levaduras silvestres causa fermentación natural (gas) y deterioro.\n\nEn esta guía, basada en directrices oficiales del USDA y la FDA, compartimos un método en 3 pasos para preservar la frescura y los nutrientes del agua de coco. 🛡️",
-                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "No deje el agua de coco abierta a temperatura ambiente ni la guarde más de 48 horas ⚠️",
-                        "desc": "Dejar el agua de coco abierta a temperatura ambiente causa una rápida proliferación microbiana en pocas horas. Incluso refrigerada, tras 24–48 horas las levaduras provocan fermentación agria, siendo vital consumirla rápidamente."
-                    },
-                    {
-                        "title": "No la guarde con mucho aire atrapado en el recipiente 💧",
-                        "desc": "Cuanto más oxígeno haya en el recipiente, más rápido la enzima PPO oxida los polifenoles, volviendo el líquido rosado o marrón. Llene un recipiente hermético pequeño al máximo para minimizar el aire."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Guarde los envases sin abrir en una despensa fresca y oscura — Temperatura ambiente (12 meses) 📦",
-                        "text": "El agua de coco envasada sin abrir se mantiene estable a temperatura ambiente. 💡 Consejo de almacenamiento: Consérvela en un armario oscuro (15–20 °C) lejos de la luz solar para mantener su calidad hasta por 12 meses."
-                    },
-                    {
-                        "name": "Refrigere a menos de 4 °C inmediatamente tras abrir y selle — Almacenamiento hermético en frío (24–48 horas) ❄️",
-                        "text": "La oxidación y el crecimiento microbiano comienzan en cuanto se abre el envase. 💡 Consejo de almacenamiento: Trasvase el sobrante a una botella pequeña de vidrio para reducir el aire, refrigere (0–4 °C) y consuma en 1 a 2 días."
-                    },
-                    {
-                        "name": "Congele el agua de coco en cubiteras para almacenamiento prolongado — Cubitos helados (60–90 días) 🧊",
-                        "text": "Congelar es el mejor método si no puede consumirla en dos días. 💡 Consejo de almacenamiento: Vierta el agua de coco en una cubitera, congele y transfiera los cubos a una bolsa hermética. Añada directamente a batidos o bebidas."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mi agua de coco se volvió rosada. ¿Sigue siendo segura para beber?",
-                        "answer": "La decoloración rosada es una reacción de oxidación natural producida por la enzima polifenol oxidasa (PPO) en presencia de oxígeno. Aunque el color rosa no es tóxico, indica que la oxidación y fermentación están avanzando. Si huele agrio o sabe efervescente, debe desecharse."
-                    },
-                    {
-                        "question": "¿Por qué debe consumirse el agua de coco abierta en un plazo de 24 a 48 horas?",
-                        "answer": "El agua de coco es rica en azúcares y minerales con baja acidez, siendo un medio de cultivo ideal para levaduras silvestres y bacterias. Incluso a menos de 4 °C, pasadas las 48 horas la fermentación, efervescencia y alteración del sabor se aceleran."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver l'eau de coco fraîche : Guide scientifique de conservation",
-                "description": "Découvrez la température de stockage, la prévention de l'oxydation rose et la durée de conservation de l'eau de coco selon les directives officielles.",
-                "authority": "USDA & MFDS & FDA",
-                "intro": "Avez-vous déjà conservé de l'eau de coco ouverte au réfrigérateur pour constater qu'elle était devenue rosâtre ou brunâtre, ou qu'elle avait pris un goût piquant et acide ? 🥥\n\nL'eau de coco contient naturellement des composés polyphénoliques et des enzymes actives. Une fois ouverte et exposée à l'oxygène, la polyphénol oxydase (PPO) déclenche une décoloration par oxydation. De plus, la contamination par les levures sauvages entraîne une fermentation pétillante et une altération rapide.\n\nDans ce guide basé sur les recommandations du USDA et de la FDA, découvrez une méthode en 3 étapes pour préserver la saveur et les bienfaits de l'eau de coco. 🛡️",
-                "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne laissez pas l'eau de coco ouverte à température ambiante ni plus de 48 heures ⚠️",
-                        "desc": "Laisser l'eau de coco ouverte à température ambiante entraîne une multiplication microbienne rapide en quelques heures. Même au frais, les levures provoquent une fermentation acide après 24 à 48 heures."
-                    },
-                    {
-                        "title": "Évitez le stockage avec trop d'air dans le contenant 💧",
-                        "desc": "Plus il y a d'oxygène dans le récipient, plus la PPO oxyde rapidement les polyphénols, rendant le liquide rosé ou brun. Remplissez un petit contenant hermétique à bord pour éliminer l'air."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Conserver les emballages non ouverts dans un placard frais et sombre — Température ambiante (12 mois) 📦",
-                        "text": "L'eau de coco industrielle non ouverte se conserve très bien à température ambiante. 💡 Astuce de conservation : Gardez-la dans un placard sombre (15–20 °C) à l'abri du soleil pour maintenir sa qualité jusqu'à 12 mois."
-                    },
-                    {
-                        "name": "Réfrigérer sous 4 °C immédiatement après ouverture et sceller — Stockage étanche au frais (24–48 heures) ❄️",
-                        "text": "L'oxydation et les bactéries se développent dès l'ouverture. 💡 Astuce de conservation : Transvasez le reste dans une petite bouteille en verre pour réduire l'air, placez au réfrigérateur (0–4 °C) et consommez sous 1 à 2 jours."
-                    },
-                    {
-                        "name": "Congeler l'eau de coco dans un bac à glaçons pour une longue conservation — Glaçons d'eau de coco (60–90 jours) 🧊",
-                        "text": "La congélation est la meilleure option si vous ne la buvez pas en deux jours. 💡 Astuce de conservation : Versez l'eau de coco dans un bac à glaçons, congelez, puis transférez les cubes dans un sac hermétique. À ajouter directement dans vos smoothies."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mon eau de coco est devenue rose. Est-elle toujours propre à la consommation ?",
-                        "answer": "La couleur rose est une réaction d'oxydation naturelle due à la polyphénol oxydase (PPO) au contact de l'air. Bien que la couleur rose ne soit pas toxique en soi, elle indique que l'oxydation et la fermentation ont commencé. Si l'odeur est aigre ou le goût pétillant, jetez-la."
-                    },
-                    {
-                        "question": "Pourquoi l'eau de coco ouverte doit-elle être consommée dans les 24 à 48 heures ?",
-                        "answer": "L'eau de coco est riche en sucres et minéraux avec une faible acidité, ce qui constitue un milieu idéal pour la prolifération des levures et bactéries. Même sous 4 °C, la fermentation et la dégradation de la saveur s'accélèrent après 48 heures."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Kokoswasser richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, den Schutz vor rosa Oxydation und die Haltbarkeit für Kokoswasser basierend auf offiziellen Richtlinien.",
-                "authority": "USDA & MFDS & FDA",
-                "intro": "Haben Sie geöffnetes Kokoswasser im Kühlschrank gelagert und festgestellt, dass es sich rosa oder braun verfärbt hat oder sprudelig und sauer schmeckte? 🥥\n\nKokoswasser enthält von Natur aus Polyphenole und aktive Enzyme. Bei Kontakt mit Sauerstoff führt das Enzym Polyphenoloxidase (PPO) zu einer raschen verfärbenden Oxidation. Zudem sorgen wilde Hefen rasch für Gärung (Kohlensäure) und Verderb.\n\nIn diesem Ratgeber erfahren Sie eine 3-Schritte-Methode basierend auf wissenschaftlichen Richtlinien der USDA und FDA, um den frischen Geschmack des Kokoswassers zu bewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Lassen Sie geöffnetes Kokoswasser nie bei Raumtemperatur oder länger als 48 Stunden stehen ⚠️",
-                        "desc": "Bei Raumtemperatur vermehren sich Mikroorganismen im Kokoswasser binnen weniger Stunden. Auch im Kühlschrank setzt nach 24–48 Stunden eine saure Hefegärung ein, weshalb rascher Verzehr nötig ist."
-                    },
-                    {
-                        "title": "Nicht mit viel Luft im Behälter aufbewahren 💧",
-                        "desc": "Je mehr Sauerstoff im Gefäß verbleibt, desto schneller oxidieren Polyphenole durch PPO-Enzyme zu einer rosa oder braunen Farbe. Füllen Sie ein kleines luftdichtes Gefäß möglichst voll."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Ungeöffnete Packungen im kühlen, dunklen Schrank lagern — Raumtemperatur (12 Monate) 📦",
-                        "text": "Ungeöffnetes, kommerziell verpacktes Kokoswasser ist bei Raumtemperatur haltbar. 💡 Lagerungstipp: Im dunklen Schrank (15–20 °C) geschützt vor Sonne aufbewahren, um die Qualität bis zu 12 Monate zu sichern."
-                    },
-                    {
-                        "name": "Nach dem Öffnen sofort unter 4 °C kühlen und Luft verschließen — Kaltlagerung (24–48 Stunden) ❄️",
-                        "text": "Oxidation und Bakterienwachstum beginnen direkt beim Öffnen. 💡 Lagerungstipp: Restliches Kokoswasser in eine kleine Glasflasche füllen, um Luftkontakt zu minimieren, bei 0–4 °C kühlen und in 1–2 Tagen austrinken."
-                    },
-                    {
-                        "name": "Reste im Eiswürfelbehälter einfrieren für lange Haltbarkeit — Eiswürfel-Einfrieren (60–90 Tage) 🧊",
-                        "text": "Das Einfrieren ist ideal, wenn Sie das Kokoswasser nicht binnen zwei Tagen trinken können. 💡 Lagerungstipp: Kokoswasser in Eiswürfelformen frieren und die Würfel in Gefrierbeutel umfüllen. Direkt in Smoothies geben."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mein Kokoswasser hat sich rosa verfärbt. Kann ich es noch trinken?",
-                        "answer": "Die rosa Verfärbung ist eine natürliche Oxidationsreaktion durch das Enzym Polyphenoloxidase (PPO) bei Luftkontakt. Die rosa Farbe ist zwar nicht giftig, zeigt aber an, dass Oxidation und Hefegärung fortschreiten. Riecht es sauer oder schmeckt sprudelig, entsorgen Sie es."
-                    },
-                    {
-                        "question": "Warum muss geöffnetes Kokoswasser innerhalb von 24 bis 48 Stunden ausgetrunken werden?",
-                        "answer": "Kokoswasser ist reich an Zucker und Mineralien bei geringer Säure – ein idealer Nährboden für wilde Hefen und Bakterien. Selbst unter 4 °C beschleunigen sich Gärung, Kohlensäurebildung und Geschmacksverlust nach 48 Stunden drastisch."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar água de coco fresca: Guia científico de armazenamento",
-                "description": "Descubra a temperatura de armazenamento, a prevenção da oxidação rosada e o tempo de conservação da água de coco com base em diretrizes oficiais.",
-                "authority": "USDA & MFDS & FDA",
-                "intro": "Você já guardou água de coco aberta na geladeira e depois notou que ela ficou rosada ou castanha, ou com um sabor azedo e efervescente? 🥥\n\nA água de coco possui naturalmente compostos polifenólicos e enzimas ativas. Assim que aberta e exposta ao oxigênio, a enzima polifenol oxidase (PPO) provoca uma rápida descoloração por oxidação. Além disso, a contaminação por leveduras selvagens gera fermentação (gás) e degradação rápida.\n\nNeste guia baseado em diretrizes do USDA e da FDA, apresentamos um método em 3 etapas para preservar o sabor e os nutrientes da água de coco. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Regras essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Não deixe a água de coco aberta em temperatura ambiente nem guarde por mais de 48 horas ⚠️",
-                        "desc": "Deixar a água de coco aberta em temperatura ambiente causa rápida multiplicação microbiana em poucas horas. Mesmo na geladeira, após 24–48 horas as leveduras provocam fermentação azeda."
-                    },
-                    {
-                        "title": "Não guarde com muito ar retido no recipiente 💧",
-                        "desc": "Quanto mais oxigênio houver no recipiente, mais rápido a enzima PPO oxida os polifenóis, deixando o líquido rosado ou castanho. Encha um pote hermético pequeno até o topo."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Guarde embalagens fechadas num armário fresco e escuro — Temperatura ambiente (12 meses) 📦",
-                        "text": "A água de coco industrializada e fechada é estável em temperatura ambiente. 💡 Dica de conservação: Mantenha em armário escuro (15–20 °C) protegido do sol para preservar a qualidade por até 12 meses."
-                    },
-                    {
-                        "name": "Refrigere abaixo de 4 °C imediatamente após abrir e vede — Armazenamento refrigerado (24–48 horas) ❄️",
-                        "text": "A oxidação e os micróbios começam no instante em que a embalagem é aberta. 💡 Dica de conservação: Transfira o restante para uma garrafa pequena de vidro para diminuir o ar, refrigere (0–4 °C) e consuma em 1 a 2 dias."
-                    },
-                    {
-                        "name": "Congele a água de coco em fôrmas de gelo para guardar por mais tempo — Cubos congelados (60–90 dias) 🧊",
-                        "text": "Congelar é a melhor opção caso não consiga beber em dois dias. 💡 Dica de conservação: Despeje a água de coco na fôrma de gelo, congele e passe os cubos para um saco hermético no freezer. Use direto em sucos."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Minha água de coco ficou rosada. Ainda é seguro beber?",
-                        "answer": "A cor rosada é uma reação natural de oxidação causada pela enzima polifenol oxidase (PPO) em contato com o ar. Embora o tom rosa não seja tóxico, indica que a oxidação e a fermentação estão avançando. Se cheirar azedo ou parecer efervescente, descarte."
-                    },
-                    {
-                        "question": "Por que a água de coco aberta deve ser consumida em 24 a 48 horas?",
-                        "answer": "A água de coco é rica em açúcares e minerais com baixa acidez, o que a torna um meio ideal para leveduras e bactérias. Mesmo abaixo de 4 °C, a fermentação, gaseificação e perda de sabor aceleram após 48 horas."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Air Kelapa (Coconut Water) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu penyimpanan, pencegahan oksidasi warna merah muda, dan masa simpan air kelapa berdasarkan pedoman keselamatan resmi.",
-                "authority": "USDA & MFDS & FDA",
-                "intro": "Pernahkah Anda menyimpan air kelapa yang sudah dibuka di dalam kulkas lalu mendapati warnanya berubah menjadi merah muda/cokelat atau rasanya menjadi agak asam dan bersoda? 🥥\n\nAir kelapa secara alami mengandung senyawa polifenol dan enzim aktif. Setelah dibuka dan terpapar oksigen, enzim polifenol oksidase (PPO) memicu oksidasi cepat yang mengubah warna air kelapa. Selain itu, masuknya ragi liar dan bakteri dengan cepat memicu pembusukan dan fermentasi alami (karbonasi).\n\nDalam panduan ini, berdasarkan pedoman resmi dari USDA dan FDA, kami membagikan metode penyimpanan 3 langkah untuk menjaga kesegaran rasa dan nutrisi air kelapa. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan membiarkan air kelapa terbuka di suhu ruang atau menyimpannya lebih dari 48 jam ⚠️",
-                        "desc": "Air kelapa terbuka yang dibiarkan pada suhu ruang akan mengalami pembiakan mikroba cepat dalam hitungan jam. Bahkan di dalam kulkas, ragi akan memicu fermentasi asam dan soda setelah 24–48 jam, sehingga harus segera dihabiskan."
-                    },
-                    {
-                        "title": "Jangan menyimpan dengan sisa udara terlalu banyak di dalam wadah 💧",
-                        "desc": "Semakin banyak oksigen di dalam wadah, semakin cepat enzim PPO mengoksidasi polifenol hingga warna cairan berubah menjadi merah muda (pinkish) atau cokelat. Tuang ke wadah kedap udara kecil hingga penuh."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Simpan kemasan belum dibuka di lemari dapur sejuk dan gelap — Suhu Ruang (12 Bulan) 📦",
-                        "text": "Air kelapa kemasan yang belum dibuka sangat stabil pada suhu ruang. 💡 Tips Penyimpanan: Simpan di lemari dapur yang gelap (15–20°C) jauh dari sinar matahari untuk menjaga kualitasnya hingga 12 bulan."
-                    },
-                    {
-                        "name": "Segera simpan di kulkas di bawah suhu 4°C setelah dibuka dan tutup rapat — Simpan Dingin Kedap Udara (24–48 Jam) ❄️",
-                        "text": "Oksidasi dan pertumbuhan mikroba dimulai sejak kemasan dibuka. 💡 Tips Penyimpanan: Tuang sisa air kelapa ke botol kaca kecil untuk meminimalkan kontak udara, simpan di kulkas (0–4°C), dan habiskan dalam 1 hingga 2 hari."
-                    },
-                    {
-                        "name": "Bekukan sisa air kelapa dalam cetakan es batu untuk penyimpanan lama — Beku Cetakan Es (60–90 Hari) 🧊",
-                        "text": "Membekukannya adalah cara terbaik jika tidak bisa menghhabiskannya dalam dua hari. 💡 Tips Penyimpanan: Tuang air kelapa ke cetakan es, bekukan, lalu pindahkan kubus es ke kantong kedap udara. Langsung campurkan ke smoothie atau minuman."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Air kelapa saya berubah warna menjadi merah muda (pink). Apakah masih aman diminum?",
-                        "answer": "Perubahan warna menjadi merah muda adalah reaksi oksidasi alami akibat enzim polifenol oksidase (PPO) bereaksi dengan oksigen. Meskipun warna pink itu sendiri tidak beracun, ini adalah tanda bahwa oksidasi dan fermentasi sedang berlangsung. Jika berbau asam atau terasa bersoda, sebaiknya dibuang."
-                    },
-                    {
-                        "question": "Mengapa air kelapa yang sudah dibuka harus dihabiskan dalam 24 hingga 48 jam?",
-                        "answer": "Air kelapa kaya akan gula dan mineral dengan tingkat keasaman rendah, menjadikannya media yang sangat disukai ragi liar dan bakteri. Bahkan jika disimpan di bawah suhu 4°C, fermentasi, pembentukan gas soda, dan pembusukan rasa akan meningkat pesat setelah 48 jam."
-                    }
-                ]
-            }
-        }
+  "how-to-store-coconut-water": {
+    "ingId": "coconut-water",
+    "pubDate": "2026-06-09",
+    "updatedDate": "2026-06-09",
+    "heroImage": "/images/blog/coconut_water_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "코코넛 워터 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 코코넛 워터의 최적 보관 온도, 핑크색 변색 방지법 및 보관 기한을 확인하세요.",
+        "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS) & 미국 식품의약국(FDA)",
+        "intro": "운동 후나 일상에서 갈증 해소로 즐겨 마시는 코코넛 워터를 냉장고에 넣어두었다가 분홍색이나 갈색으로 변하거나 톡 쏘는 맛이 나서 당황하신 적 있으시죠? 🥥\n\n코코넛 워터는 폴리페놀 화합물과 천연 효소를 함유하고 있어 개봉 후 산소에 노출되는 즉시 폴리페놀 옥시다아제(PPO) 효소 작용으로 산화 변색이 일어납니다. 또한 공기 중 야생 효모와 세균이 침투하면 산패 및 자연 발효(탄산화)가 빠르게 진행됩니다.\n\n이번 가이드에서는 미국 농무부(USDA)와 FDA의 검증된 가이드라인을 바탕으로, 코코넛 워터의 깔끔한 맛과 영양을 신선하게 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "개봉 후 상온에 방치하거나 48시간을 넘겨 보관하지 마세요 ⚠️",
+            "desc": "개봉된 코코넛 워터를 상온에 두면 수시간 내에 미생물이 급격히 증식합니다. 냉장 보관하더라도 개봉 후 24~48시간이 지나면 효모 발효로 시큼한 맛과 탄산 가스가 발생하며 산패되므로 빠른 소비가 필수적입니다."
+          },
+          {
+            "title": "공기 접촉 면적이 넓은 상태로 개봉 보관하지 마세요 💧",
+            "desc": "용기 내 산소가 많이 남아있을수록 PPO 효소에 의한 산화 반응이 촉진되어 음료가 분홍색(Pinkish)이나 갈색으로 변색됩니다. 입구가 좁은 용기에 가득 채워 밀폐 보관해야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "개봉 전 직사광선이 차단된 서늘한 상온 보관 — 상온 차광 보관 (12개월) 📦",
+            "text": "개봉 전의 멸균 포장된 코코넛 워터는 상온에서 안정적으로 보존됩니다. 💡 보관 팁: 15~20℃의 직사광선이 비치지 않는 팬트리나 찬장에 보관하면 개봉 전 최대 1년(12개월) 동안 품질이 완전하게 유지됩니다."
+          },
+          {
+            "name": "개봉 후 즉시 4℃ 이하 냉장 보관 및 공기 차단 — 저온 밀폐 보관 (24~48시간) ❄️",
+            "text": "개봉하는 순간부터 산화와 미생물 증식이 시작됩니다. 💡 보관 팁: 마시고 남은 코코넛 워터는 공기 접촉면을 최소화할 수 있는 작은 유리병이나 밀폐 용기에 옮겨 담은 후 냉장고(0~4℃)에 보관하고 1~2일 내에 마시는 것이 가장 안전합니다."
+          },
+          {
+            "name": "장기 보관 시 얼음 트레이에 담아 냉동 보관 — 얼음 큐브 냉동 보관 (60~90일) 🧊",
+            "text": "음료로 다 마시지 못하고 남은 코코넛 워터는 얼려서 보관하는 것이 좋습니다. 💡 보관 팁: 아이스 트레이에 코코넛 워터를 부어 얼린 후, 얼음 큐브를 밀폐 지퍼백에 옮겨 냉동 보관하세요. 스무디나 건강 음료를 만들 때 바로 넣으면 변색 없이 풍미를 즐길 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "코코넛 워터가 핑크색(분홍색)으로 변했는데 마셔도 괜찮은가요?",
+            "answer": "개봉 후 공기 중 산소와 접촉하여 폴리페놀 옥시다아제(PPO) 효소가 반응하면서 나타나는 자연스러운 산화 현상입니다. 핑크색으로 변했다고 해서 즉시 독성이 생기는 것은 아니지만, 산화가 시작되었고 발효/산패가 가속화되고 있다는 신호이므로 시큼한 냄새나 톡 쏘는 맛이 난다면 섭취를 중단해야 합니다."
+          },
+          {
+            "question": "개봉한 코코넛 워터는 왜 24~48시간 이내에 마셔야 하나요?",
+            "answer": "코코넛 워터는 당분과 미네랄이 풍부하고 산도가 낮아 미생물 및 공기 중 야생 효모가 증식하기에 매우 이상적인 환경입니다. 4℃ 이하로 냉장 보관하더라도 48시간이 지나면 변색, 발효(탄산 가스 생성), 산패가 급격히 진행되므로 2일 이내 소비가 권장됩니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Coconut Water Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, pink oxidation prevention, and shelf life for coconut water based on official safety guidelines.",
+        "authority": "USDA & MFDS & FDA",
+        "intro": "Have you ever refrigerated opened coconut water only to find it turned pinkish or brownish, or developed a fizzy, sour taste? 🥥\n\nCoconut water naturally contains polyphenol compounds and active enzymes. Once opened and exposed to atmospheric oxygen, polyphenol oxidase (PPO) enzymes trigger rapid oxidative discoloration. Furthermore, contamination by wild yeasts and bacteria quickly initiates spoilage and unwanted natural fermentation (carbonation).\n\nIn this guide, based on official guidelines from the USDA and FDA, we share a 3-step scientific storage method to preserve the clean taste and nutrients of coconut water. 🛡️",
+        "whyTitle": "Why Store Coconut Water This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Do not leave opened coconut water at room temperature or store beyond 48 hours ⚠️",
+            "desc": "Leaving opened coconut water at room temperature causes rapid microbial multiplication within hours. Even under refrigeration, yeasts cause sour fermentation and carbonation after 24–48 hours, making prompt consumption essential."
+          },
+          {
+            "title": "Do not store with excess headspace or air exposure 💧",
+            "desc": "The more oxygen present in the container, the faster PPO enzymes oxidize polyphenols, turning the liquid pinkish or brown. Fill a small airtight container to the top to minimize air contact."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Store unopened packages in a cool, dark pantry — Room Temp Storage (12 Months) 📦",
+            "text": "Unopened commercially processed coconut water is shelf-stable at room temperature. 💡 Storage Tip: Keep unopened containers in a cool, dark pantry (15–20°C / 59–68°F) away from direct sunlight to maintain quality for up to 12 months."
+          },
+          {
+            "name": "Refrigerate below 4°C immediately after opening — Cold Airtight Storage (24–48 Hours) ❄️",
+            "text": "Oxidation and microbial growth begin the moment the package is opened. 💡 Storage Tip: Transfer leftover coconut water into a small, airtight glass bottle to minimize air contact, refrigerate at 0–4°C (32–39°F), and consume within 1 to 2 days."
+          },
+          {
+            "name": "Freeze leftover coconut water in ice cube trays for long-term storage — Ice Cube Freezing (60–90 Days) 🧊",
+            "text": "Freezing is the best method if you cannot consume opened coconut water within two days. 💡 Storage Tip: Pour coconut water into ice cube trays, freeze, and transfer the cubes to an airtight freezer bag. Add directly to smoothies or beverages without loss of flavor."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "My opened coconut water turned pink. Is it still safe to drink?",
+            "answer": "Pink discoloration is a natural oxidation reaction caused when polyphenol oxidase (PPO) enzymes react with oxygen. While the pink color itself is not toxic, it signals that oxidation and fermentation are underway. If it smells sour or tastes fizzy, it should be discarded."
+          },
+          {
+            "question": "Why must opened coconut water be consumed within 24 to 48 hours?",
+            "answer": "Coconut water is rich in sugars and minerals with low acidity, making it an ideal breeding ground for wild yeasts and bacteria once exposed to air. Even below 4°C, fermentation, carbonation, and flavor breakdown accelerate after 48 hours."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ココナッツウォーターを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくココナッツウォーターの最適な保存温度、ピンク色の酸化変色防止法、保存期間をご確認ください。",
+        "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS) & 米国食品医薬品局(FDA)",
+        "intro": "運動後や日常の水分補給として人気のココナッツウォーターを冷蔵庫に入れておいたら、ピンク色や褐色に変色したり、シュワシュワとした酸っぱい味がして驚いたことはありませんか？🥥\n\nココナッツウォーターにはポリフェノール化合物と天然酵素が含まれており、開封後に酸素と触れるとポリフェノールオキシダーゼ（PPO）酵素の働きで急速に酸化変色が起こります。また、空気中の野生酵母や細菌が侵入すると、酸敗や自然発酵（炭酸化）が速やかに進行します。\n\n本記事では、米国農務省（USDA）およびFDAのガイドラインに基づき、ココナッツウォーターのすっきりとした味わいと栄養を保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "開封後、常温に放置したり48時間を超えて保存しないでください ⚠️",
+            "desc": "開封したココナッツウォーターを常温に置くと、数時間で微生物が爆発的に増殖します。冷蔵保存しても24〜48時間を過ぎると酵母発酵により酸っぱい味や炭酸ガスが発生して劣化するため、早めの消費が必須です。"
+          },
+          {
+            "title": "空気と触れる面積が大きい状態で保存しないでください 💧",
+            "desc": "容器内に酸素が多く残っているほど、PPO酵素による酸化反応が促進され液体がピンク色や褐色に変色します。空気が入らないよう口の狭い容器に満たして密閉保存してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "開封前は直射日光を避けた涼しい常温で保存する — 常温遮光保存 (12ヶ月間) 📦",
+            "text": "開封前のパック入りココナッツウォーターは常温で安定して保存できます。💡保存のコツ：15〜20℃の直射日光の当たらないパントリーや棚で保管すれば、開封前で最大1年間（12ヶ月）品質が保たれます。"
+          },
+          {
+            "name": "開封後はすぐに4℃以下で冷蔵保存し空気を遮断する — 低温密閉保存 (24〜48時間) ❄️",
+            "text": "開封した瞬間から酸化と微生物の増殖が始まります。💡保存のコツ：残ったココナッツウォーターは空気に触れる面積を減らせる小さなガラス瓶等に移し替え、冷蔵庫（0〜4℃）で保存して1〜2日以内に飲み切りましょう。"
+          },
+          {
+            "name": "長期保存時は製氷皿に入れて冷凍保存する — アイスキューブ冷凍保存 (60〜90日間) 🧊",
+            "text": "2日以内に飲みきれない分は凍らせて保存するのが最適です。💡保存のコツ：製氷皿に流し込んで凍らせた後、冷凍用密閉バッグに移して冷凍庫で保存してください。スムージー等に直接入れて使えます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ココナッツウォーターがピンク色に変色しましたが飲んでも大丈夫ですか？",
+            "answer": "開封後に酸素と触れることでポリフェノールオキシダーゼ（PPO）酵素が反応して起こる自然な酸化現象です。ピンク色に変色したこと自体で直ちに毒性が生じるわけではありませんが、酸化と発酵が進んでいるサインですので、酸っぱい臭いや炭酸感がある場合は飲用をお控えください。"
+          },
+          {
+            "question": "開封後のココナッツウォーターはなぜ24〜48時間以内に飲まなければならないのですか？",
+            "answer": "ココナッツウォーターは糖分とミネラルが豊富で酸度が低いため、空気中の野生酵母や細菌が繁殖するのに非常に適した環境です。4℃以下で冷蔵しても48時間を過ぎると変色、発酵（炭酸ガスの発生）、酸敗が急速に進むため、2日以内の消費が推奨されます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持椰子水（Coconut Water）新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解椰子水的最佳储存温度、防粉红氧化法及保鲜时长。",
+        "authority": "美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & 美国食品药品监督管理局(FDA)",
+        "intro": "开封后的椰子水放入冰箱后，您是否遇到过它变成粉红色、褐色，或者产生刺舌酸味的情况？🥥\n\n椰子水含有丰富的多酚类化合物和天然酶。开封后一旦与空气中的氧气接触，多酚氧化酶（PPO）就会催化快速的氧化变色。此外，空气中的野生酵母和细菌侵入后，会导致迅速变质与自然发酵（产生气泡）。\n\n本指南基于美国农务部(USDA)及FDA的权威指南，为您介绍3步科学保存秘诀，长久锁定椰子水的清甜口感与营养。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "开封后切勿置于常温或保存超过48小时 ⚠️",
+            "desc": "开封后的椰子水在常温下几小时内就会滋生大量微生物。即使冷藏，超过24~48小时也会因酵母发酵而产生酸味和气泡，导致变质，因此必须尽快饮用。"
+          },
+          {
+            "title": "切勿在留有过多空气的容器中密封保存 💧",
+            "desc": "容器内残留的氧气越多，PPO酶催化的氧化反应越剧烈，液体越易变成粉红色（Pinkish）或褐色。应尽量倒入小瓶装满密封，减少空气接触。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "未开封前存放在避光阴凉常温处 — 常温避光保存 (12个月) 📦",
+            "text": "未开封的密封包装椰子水在常温下非常稳定。💡储存小贴士：存放在15~20℃无阳光直射的橱柜或食品柜中，开封前可完好保鲜长达12个月。"
+          },
+          {
+            "name": "开封后立即置于4℃以下冷藏并隔绝空气 — 低温密封保存 (24~48小时) ❄️",
+            "text": "从开封那一刻起，氧化与微生物滋生便已开始。💡储存小贴士：将未喝完的椰子水倒入可减少空气接触的小玻璃瓶中密封，置于冰箱冷藏（0~4℃），并在1~2天内喝完。"
+          },
+          {
+            "name": "长期保存可倒入冰格冻成冰块 — 冰块冷冻保存 (60~90天) 🧊",
+            "text": "如果2天内无法喝完，将椰子水冷冻是最佳方案。💡储存小贴士：倒入冰格冻成冰块后，装入密封保鲜袋冷冻保存。做饮品或沙冰时直接放入，口感与风味绝佳。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "椰子水变成了粉红色，还能喝吗？",
+            "answer": "这是开封后与空气中的氧气接触、多酚氧化酶（PPO）发生反应导致的自然氧化现象。变为粉红色本身并不立即产生毒素，但表明氧化与发酵过程已经启动。如果散发发酸异味或有气泡刺舌感，应停止饮用。"
+          },
+          {
+            "question": "开封后的椰子水为什么必须在24~48小时内喝完？",
+            "answer": "椰子水富含糖分和矿物质且酸度较低，是空气中野生酵母和细菌繁殖的极佳温床。即使在4℃以下冷藏，超过48小时后变色、发酵（产生二氧化碳）及酸败也会急剧加速，因此建议在2天内饮用完毕。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener el agua de coco fresca: Guía científica de conservación",
+        "description": "Descubra la temperatura de almacenamiento, la prevención de oxidación rosada y la vida útil del agua de coco según directrices oficiales.",
+        "authority": "USDA & MFDS & FDA",
+        "intro": "¿Alguna vez guardó agua de coco abierta en el refrigerador y descubrió que se volvió rosada o marrón, o que desarrolló un sabor efervescente y agrio? 🥥\n\nEl agua de coco contiene de forma natural compuestos polifenólicos y enzimas activas. Una vez abierta y expuesta al oxígeno, la enzima polifenol oxidasa (PPO) desencadena una rápida decoloración por oxidación. Además, la contaminación por levaduras silvestres causa fermentación natural (gas) y deterioro.\n\nEn esta guía, basada en directrices oficiales del USDA y la FDA, compartimos un método en 3 pasos para preservar la frescura y los nutrientes del agua de coco. 🛡️",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "No deje el agua de coco abierta a temperatura ambiente ni la guarde más de 48 horas ⚠️",
+            "desc": "Dejar el agua de coco abierta a temperatura ambiente causa una rápida proliferación microbiana en pocas horas. Incluso refrigerada, tras 24–48 horas las levaduras provocan fermentación agria, siendo vital consumirla rápidamente."
+          },
+          {
+            "title": "No la guarde con mucho aire atrapado en el recipiente 💧",
+            "desc": "Cuanto más oxígeno haya en el recipiente, más rápido la enzima PPO oxida los polifenoles, volviendo el líquido rosado o marrón. Llene un recipiente hermético pequeño al máximo para minimizar el aire."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Guarde los envases sin abrir en una despensa fresca y oscura — Temperatura ambiente (12 meses) 📦",
+            "text": "El agua de coco envasada sin abrir se mantiene estable a temperatura ambiente. 💡 Consejo de almacenamiento: Consérvela en un armario oscuro (15–20 °C) lejos de la luz solar para mantener su calidad hasta por 12 meses."
+          },
+          {
+            "name": "Refrigere a menos de 4 °C inmediatamente tras abrir y selle — Almacenamiento hermético en frío (24–48 horas) ❄️",
+            "text": "La oxidación y el crecimiento microbiano comienzan en cuanto se abre el envase. 💡 Consejo de almacenamiento: Trasvase el sobrante a una botella pequeña de vidrio para reducir el aire, refrigere (0–4 °C) y consuma en 1 a 2 días."
+          },
+          {
+            "name": "Congele el agua de coco en cubiteras para almacenamiento prolongado — Cubitos helados (60–90 días) 🧊",
+            "text": "Congelar es el mejor método si no puede consumirla en dos días. 💡 Consejo de almacenamiento: Vierta el agua de coco en una cubitera, congele y transfiera los cubos a una bolsa hermética. Añada directamente a batidos o bebidas."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mi agua de coco se volvió rosada. ¿Sigue siendo segura para beber?",
+            "answer": "La decoloración rosada es una reacción de oxidación natural producida por la enzima polifenol oxidasa (PPO) en presencia de oxígeno. Aunque el color rosa no es tóxico, indica que la oxidación y fermentación están avanzando. Si huele agrio o sabe efervescente, debe desecharse."
+          },
+          {
+            "question": "¿Por qué debe consumirse el agua de coco abierta en un plazo de 24 a 48 horas?",
+            "answer": "El agua de coco es rica en azúcares y minerales con baja acidez, siendo un medio de cultivo ideal para levaduras silvestres y bacterias. Incluso a menos de 4 °C, pasadas las 48 horas la fermentación, efervescencia y alteración del sabor se aceleran."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver l'eau de coco fraîche : Guide scientifique de conservation",
+        "description": "Découvrez la température de stockage, la prévention de l'oxydation rose et la durée de conservation de l'eau de coco selon les directives officielles.",
+        "authority": "USDA & MFDS & FDA",
+        "intro": "Avez-vous déjà conservé de l'eau de coco ouverte au réfrigérateur pour constater qu'elle était devenue rosâtre ou brunâtre, ou qu'elle avait pris un goût piquant et acide ? 🥥\n\nL'eau de coco contient naturellement des composés polyphénoliques et des enzymes actives. Une fois ouverte et exposée à l'oxygène, la polyphénol oxydase (PPO) déclenche une décoloration par oxydation. De plus, la contamination par les levures sauvages entraîne une fermentation pétillante et une altération rapide.\n\nDans ce guide basé sur les recommandations du USDA et de la FDA, découvrez une méthode en 3 étapes pour préserver la saveur et les bienfaits de l'eau de coco. 🛡️",
+        "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne laissez pas l'eau de coco ouverte à température ambiante ni plus de 48 heures ⚠️",
+            "desc": "Laisser l'eau de coco ouverte à température ambiante entraîne une multiplication microbienne rapide en quelques heures. Même au frais, les levures provoquent une fermentation acide après 24 à 48 heures."
+          },
+          {
+            "title": "Évitez le stockage avec trop d'air dans le contenant 💧",
+            "desc": "Plus il y a d'oxygène dans le récipient, plus la PPO oxyde rapidement les polyphénols, rendant le liquide rosé ou brun. Remplissez un petit contenant hermétique à bord pour éliminer l'air."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Conserver les emballages non ouverts dans un placard frais et sombre — Température ambiante (12 mois) 📦",
+            "text": "L'eau de coco industrielle non ouverte se conserve très bien à température ambiante. 💡 Astuce de conservation : Gardez-la dans un placard sombre (15–20 °C) à l'abri du soleil pour maintenir sa qualité jusqu'à 12 mois."
+          },
+          {
+            "name": "Réfrigérer sous 4 °C immédiatement après ouverture et sceller — Stockage étanche au frais (24–48 heures) ❄️",
+            "text": "L'oxydation et les bactéries se développent dès l'ouverture. 💡 Astuce de conservation : Transvasez le reste dans une petite bouteille en verre pour réduire l'air, placez au réfrigérateur (0–4 °C) et consommez sous 1 à 2 jours."
+          },
+          {
+            "name": "Congeler l'eau de coco dans un bac à glaçons pour une longue conservation — Glaçons d'eau de coco (60–90 jours) 🧊",
+            "text": "La congélation est la meilleure option si vous ne la buvez pas en deux jours. 💡 Astuce de conservation : Versez l'eau de coco dans un bac à glaçons, congelez, puis transférez les cubes dans un sac hermétique. À ajouter directement dans vos smoothies."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mon eau de coco est devenue rose. Est-elle toujours propre à la consommation ?",
+            "answer": "La couleur rose est une réaction d'oxydation naturelle due à la polyphénol oxydase (PPO) au contact de l'air. Bien que la couleur rose ne soit pas toxique en soi, elle indique que l'oxydation et la fermentation ont commencé. Si l'odeur est aigre ou le goût pétillant, jetez-la."
+          },
+          {
+            "question": "Pourquoi l'eau de coco ouverte doit-elle être consommée dans les 24 à 48 heures ?",
+            "answer": "L'eau de coco est riche en sucres et minéraux avec une faible acidité, ce qui constitue un milieu idéal pour la prolifération des levures et bactéries. Même sous 4 °C, la fermentation et la dégradation de la saveur s'accélèrent après 48 heures."
+          }
+        ]
+      },
+      "de": {
+        "title": "Kokoswasser richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, den Schutz vor rosa Oxydation und die Haltbarkeit für Kokoswasser basierend auf offiziellen Richtlinien.",
+        "authority": "USDA & MFDS & FDA",
+        "intro": "Haben Sie geöffnetes Kokoswasser im Kühlschrank gelagert und festgestellt, dass es sich rosa oder braun verfärbt hat oder sprudelig und sauer schmeckte? 🥥\n\nKokoswasser enthält von Natur aus Polyphenole und aktive Enzyme. Bei Kontakt mit Sauerstoff führt das Enzym Polyphenoloxidase (PPO) zu einer raschen verfärbenden Oxidation. Zudem sorgen wilde Hefen rasch für Gärung (Kohlensäure) und Verderb.\n\nIn diesem Ratgeber erfahren Sie eine 3-Schritte-Methode basierend auf wissenschaftlichen Richtlinien der USDA und FDA, um den frischen Geschmack des Kokoswassers zu bewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Lassen Sie geöffnetes Kokoswasser nie bei Raumtemperatur oder länger als 48 Stunden stehen ⚠️",
+            "desc": "Bei Raumtemperatur vermehren sich Mikroorganismen im Kokoswasser binnen weniger Stunden. Auch im Kühlschrank setzt nach 24–48 Stunden eine saure Hefegärung ein, weshalb rascher Verzehr nötig ist."
+          },
+          {
+            "title": "Nicht mit viel Luft im Behälter aufbewahren 💧",
+            "desc": "Je mehr Sauerstoff im Gefäß verbleibt, desto schneller oxidieren Polyphenole durch PPO-Enzyme zu einer rosa oder braunen Farbe. Füllen Sie ein kleines luftdichtes Gefäß möglichst voll."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Ungeöffnete Packungen im kühlen, dunklen Schrank lagern — Raumtemperatur (12 Monate) 📦",
+            "text": "Ungeöffnetes, kommerziell verpacktes Kokoswasser ist bei Raumtemperatur haltbar. 💡 Lagerungstipp: Im dunklen Schrank (15–20 °C) geschützt vor Sonne aufbewahren, um die Qualität bis zu 12 Monate zu sichern."
+          },
+          {
+            "name": "Nach dem Öffnen sofort unter 4 °C kühlen und Luft verschließen — Kaltlagerung (24–48 Stunden) ❄️",
+            "text": "Oxidation und Bakterienwachstum beginnen direkt beim Öffnen. 💡 Lagerungstipp: Restliches Kokoswasser in eine kleine Glasflasche füllen, um Luftkontakt zu minimieren, bei 0–4 °C kühlen und in 1–2 Tagen austrinken."
+          },
+          {
+            "name": "Reste im Eiswürfelbehälter einfrieren für lange Haltbarkeit — Eiswürfel-Einfrieren (60–90 Tage) 🧊",
+            "text": "Das Einfrieren ist ideal, wenn Sie das Kokoswasser nicht binnen zwei Tagen trinken können. 💡 Lagerungstipp: Kokoswasser in Eiswürfelformen frieren und die Würfel in Gefrierbeutel umfüllen. Direkt in Smoothies geben."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mein Kokoswasser hat sich rosa verfärbt. Kann ich es noch trinken?",
+            "answer": "Die rosa Verfärbung ist eine natürliche Oxidationsreaktion durch das Enzym Polyphenoloxidase (PPO) bei Luftkontakt. Die rosa Farbe ist zwar nicht giftig, zeigt aber an, dass Oxidation und Hefegärung fortschreiten. Riecht es sauer oder schmeckt sprudelig, entsorgen Sie es."
+          },
+          {
+            "question": "Warum muss geöffnetes Kokoswasser innerhalb von 24 bis 48 Stunden ausgetrunken werden?",
+            "answer": "Kokoswasser ist reich an Zucker und Mineralien bei geringer Säure – ein idealer Nährboden für wilde Hefen und Bakterien. Selbst unter 4 °C beschleunigen sich Gärung, Kohlensäurebildung und Geschmacksverlust nach 48 Stunden drastisch."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar água de coco fresca: Guia científico de armazenamento",
+        "description": "Descubra a temperatura de armazenamento, a prevenção da oxidação rosada e o tempo de conservação da água de coco com base em diretrizes oficiais.",
+        "authority": "USDA & MFDS & FDA",
+        "intro": "Você já guardou água de coco aberta na geladeira e depois notou que ela ficou rosada ou castanha, ou com um sabor azedo e efervescente? 🥥\n\nA água de coco possui naturalmente compostos polifenólicos e enzimas ativas. Assim que aberta e exposta ao oxigênio, a enzima polifenol oxidase (PPO) provoca uma rápida descoloração por oxidação. Além disso, a contaminação por leveduras selvagens gera fermentação (gás) e degradação rápida.\n\nNeste guia baseado em diretrizes do USDA e da FDA, apresentamos um método em 3 etapas para preservar o sabor e os nutrientes da água de coco. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Regras essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Não deixe a água de coco aberta em temperatura ambiente nem guarde por mais de 48 horas ⚠️",
+            "desc": "Deixar a água de coco aberta em temperatura ambiente causa rápida multiplicação microbiana em poucas horas. Mesmo na geladeira, após 24–48 horas as leveduras provocam fermentação azeda."
+          },
+          {
+            "title": "Não guarde com muito ar retido no recipiente 💧",
+            "desc": "Quanto mais oxigênio houver no recipiente, mais rápido a enzima PPO oxida os polifenóis, deixando o líquido rosado ou castanho. Encha um pote hermético pequeno até o topo."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Guarde embalagens fechadas num armário fresco e escuro — Temperatura ambiente (12 meses) 📦",
+            "text": "A água de coco industrializada e fechada é estável em temperatura ambiente. 💡 Dica de conservação: Mantenha em armário escuro (15–20 °C) protegido do sol para preservar a qualidade por até 12 meses."
+          },
+          {
+            "name": "Refrigere abaixo de 4 °C imediatamente após abrir e vede — Armazenamento refrigerado (24–48 horas) ❄️",
+            "text": "A oxidação e os micróbios começam no instante em que a embalagem é aberta. 💡 Dica de conservação: Transfira o restante para uma garrafa pequena de vidro para diminuir o ar, refrigere (0–4 °C) e consuma em 1 a 2 dias."
+          },
+          {
+            "name": "Congele a água de coco em fôrmas de gelo para guardar por mais tempo — Cubos congelados (60–90 dias) 🧊",
+            "text": "Congelar é a melhor opção caso não consiga beber em dois dias. 💡 Dica de conservação: Despeje a água de coco na fôrma de gelo, congele e passe os cubos para um saco hermético no freezer. Use direto em sucos."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Minha água de coco ficou rosada. Ainda é seguro beber?",
+            "answer": "A cor rosada é uma reação natural de oxidação causada pela enzima polifenol oxidase (PPO) em contato com o ar. Embora o tom rosa não seja tóxico, indica que a oxidação e a fermentação estão avançando. Se cheirar azedo ou parecer efervescente, descarte."
+          },
+          {
+            "question": "Por que a água de coco aberta deve ser consumida em 24 a 48 horas?",
+            "answer": "A água de coco é rica em açúcares e minerais com baixa acidez, o que a torna um meio ideal para leveduras e bactérias. Mesmo abaixo de 4 °C, a fermentação, gaseificação e perda de sabor aceleram após 48 horas."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Air Kelapa (Coconut Water) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu penyimpanan, pencegahan oksidasi warna merah muda, dan masa simpan air kelapa berdasarkan pedoman keselamatan resmi.",
+        "authority": "USDA & MFDS & FDA",
+        "intro": "Pernahkah Anda menyimpan air kelapa yang sudah dibuka di dalam kulkas lalu mendapati warnanya berubah menjadi merah muda/cokelat atau rasanya menjadi agak asam dan bersoda? 🥥\n\nAir kelapa secara alami mengandung senyawa polifenol dan enzim aktif. Setelah dibuka dan terpapar oksigen, enzim polifenol oksidase (PPO) memicu oksidasi cepat yang mengubah warna air kelapa. Selain itu, masuknya ragi liar dan bakteri dengan cepat memicu pembusukan dan fermentasi alami (karbonasi).\n\nDalam panduan ini, berdasarkan pedoman resmi dari USDA dan FDA, kami membagikan metode penyimpanan 3 langkah untuk menjaga kesegaran rasa dan nutrisi air kelapa. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan membiarkan air kelapa terbuka di suhu ruang atau menyimpannya lebih dari 48 jam ⚠️",
+            "desc": "Air kelapa terbuka yang dibiarkan pada suhu ruang akan mengalami pembiakan mikroba cepat dalam hitungan jam. Bahkan di dalam kulkas, ragi akan memicu fermentasi asam dan soda setelah 24–48 jam, sehingga harus segera dihabiskan."
+          },
+          {
+            "title": "Jangan menyimpan dengan sisa udara terlalu banyak di dalam wadah 💧",
+            "desc": "Semakin banyak oksigen di dalam wadah, semakin cepat enzim PPO mengoksidasi polifenol hingga warna cairan berubah menjadi merah muda (pinkish) atau cokelat. Tuang ke wadah kedap udara kecil hingga penuh."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Simpan kemasan belum dibuka di lemari dapur sejuk dan gelap — Suhu Ruang (12 Bulan) 📦",
+            "text": "Air kelapa kemasan yang belum dibuka sangat stabil pada suhu ruang. 💡 Tips Penyimpanan: Simpan di lemari dapur yang gelap (15–20°C) jauh dari sinar matahari untuk menjaga kualitasnya hingga 12 bulan."
+          },
+          {
+            "name": "Segera simpan di kulkas di bawah suhu 4°C setelah dibuka dan tutup rapat — Simpan Dingin Kedap Udara (24–48 Jam) ❄️",
+            "text": "Oksidasi dan pertumbuhan mikroba dimulai sejak kemasan dibuka. 💡 Tips Penyimpanan: Tuang sisa air kelapa ke botol kaca kecil untuk meminimalkan kontak udara, simpan di kulkas (0–4°C), dan habiskan dalam 1 hingga 2 hari."
+          },
+          {
+            "name": "Bekukan sisa air kelapa dalam cetakan es batu untuk penyimpanan lama — Beku Cetakan Es (60–90 Hari) 🧊",
+            "text": "Membekukannya adalah cara terbaik jika tidak bisa menghhabiskannya dalam dua hari. 💡 Tips Penyimpanan: Tuang air kelapa ke cetakan es, bekukan, lalu pindahkan kubus es ke kantong kedap udara. Langsung campurkan ke smoothie atau minuman."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Air kelapa saya berubah warna menjadi merah muda (pink). Apakah masih aman diminum?",
+            "answer": "Perubahan warna menjadi merah muda adalah reaksi oksidasi alami akibat enzim polifenol oksidase (PPO) bereaksi dengan oksigen. Meskipun warna pink itu sendiri tidak beracun, ini adalah tanda bahwa oksidasi dan fermentasi sedang berlangsung. Jika berbau asam atau terasa bersoda, sebaiknya dibuang."
+          },
+          {
+            "question": "Mengapa air kelapa yang sudah dibuka harus dihabiskan dalam 24 hingga 48 jam?",
+            "answer": "Air kelapa kaya akan gula dan mineral dengan tingkat keasaman rendah, menjadikannya media yang sangat disukai ragi liar dan bakteri. Bahkan jika disimpan di bawah suhu 4°C, fermentasi, pembentukan gas soda, dan pembusukan rasa akan meningkat pesat setelah 48 jam."
+          }
+        ]
+      }
     }
+  }
 }

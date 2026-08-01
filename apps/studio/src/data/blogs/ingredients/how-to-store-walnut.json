@@ -1,406 +1,406 @@
 {
-    "how-to-store-walnut": {
-        "ingId": "walnut",
-        "pubDate": "2026-01-12",
-        "updatedDate": "2026-01-12",
-        "heroImage": "/images/blog/walnut_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "호두 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 호두의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS) & CWC",
-                "intro": "고소한 호두를 집어 먹었다가 찌든 냄새와 강한 쓴맛 때문에 눈살을 찌푸린 적 있으시죠? 🥜\n\n호두는 견과류 중 식물성 오메가-3 지방산인 알파-리놀렌산(ALA) 함량이 가장 높은 건강한 식재료입니다(약 9~10%). 그러나 이 고함량 다중불포화지방산은 공기 중의 산소, 빛, 열에 노출되면 자율 산화(Autoxidation) 반응을 일으켜 헥사날(Hexanal) 같은 산패 유발 물질을 매우 빠르게 생성합니다.\n\n이번 가이드에서는 캘리포니아 호두 협회(CWC), 미국 농무부(USDA) 및 식품의약품안전처(MFDS)의 공인 가이드라인을 바탕으로, 호두의 영양과 바삭한 풍미를 손실 없이 길게 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "상온 방치는 지질 산화와 산패의 지름길입니다 ⚠️",
-                        "desc": "상온(20℃ 이상)의 공기와 빛에 호두를 방치하면 불포화지방산의 이중결합이 파괴되면서 지질 과산화물(Lipid hydroperoxides)이 급격히 증가합니다. 1~2개월 만에 찌든 페인트 냄새(산패취)와 아린 쓴맛이 생기므로 주의해야 합니다."
-                    },
-                    {
-                        "title": "습기와 주변 냄새를 완벽히 차단하세요 🛑",
-                        "desc": "지방 함량이 높은 호두는 주변의 강한 냄새(마늘, 양파 등)를 쉽게 흡수합니다. 또한 고온 다습한 환경에 노출되면 아스퍼질러스 곰팡이가 번식하여 1급 독성 물질인 아플라톡신(Aflatoxin)이 생성될 수 있으므로 항상 건조하고 밀폐된 상태를 유지해야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "6개월 이내 소비 시 밀폐 용기에 담아 냉장 보관하기 — 냉장 보관 (180일) ❄️",
-                        "text": "호두는 수확 후 상온보다 저온에서 지질 산화 속도가 획기적으로 줄어듭니다. 💡 보관 팁: 껍질을 깐 호두살은 지퍼백이나 밀폐 용기에 공기를 최대한 빼고 담아 냉장고(0~4℃) 야채칸이나 신선실에 보관하세요. 6개월 동안 고소한 풍미와 신선함이 유지됩니다."
-                    },
-                    {
-                        "name": "6개월 이상 장기 보관 시 밀폐 후 냉동 보관하기 — 냉동 보관 (365일 이상) 🧊",
-                        "text": "-18℃ 이하의 저온에서는 불포화지방산의 산화 반응이 사실상 거의 정지 상태에 도달합니다. 💡 보관 팁: 한 번에 먹을 만큼 소분하여 냉동용 밀폐 용기에 넣고 냉동 보관하세요. 별도의 해동 없이 요리나 베이킹에 바로 사용할 수 있으며 1년 이상 신선하게 보존됩니다."
-                    },
-                    {
-                        "name": "밀폐 용기 사용으로 산소 및 주변 냄새 흡수 차단하기 — 산소 차단 밀봉 🧴",
-                        "text": "포장재를 열어둔 채 보관하면 냉장고 안의 음식 냄새를 호두 지방층이 전부 흡수하게 됩니다. 💡 보관 팁: 유리 밀폐 용기나 불투명 밀폐 용기를 사용하여 빛과 공기(산소) 접촉을 차단해 주세요. 산소 흡수제(탈산소제)를 함께 넣으면 산화 방지 효과가 더욱 극대화됩니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "호두가 상온에서 유독 쉽게 산패되는 과학적 이유는 무엇인가요?",
-                        "answer": "호두는 다른 견과류에 비해 이중결합을 많이 가진 식물성 오메가-3 지방산(알파-리놀렌산, ALA) 함량이 매우 높기 때문입니다. 공기 중 산소, 빛, 20℃ 이상의 열에 노출되면 자율 산화 반응이 촉진되어 헥사날 등 산패 물질이 빠르게 생성됩니다."
-                    },
-                    {
-                        "question": "호두가 산패되었거나 변질되었는지는 어떻게 확인하나요?",
-                        "answer": "신선한 호두는 옅은 아이보리/갈색을 띠며 고소한 향이 납니다. 만약 찌든 페인트, 오래된 박스 상자 같은 냄새가 나거나, 씹었을 때 강한 쓴맛과 아린 맛이 느껴진다면 산패된 것입니다. 표면에 곰팡이가 보인다면 아플라톡신 위험이 있으므로 즉시 폐기해야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Walnuts Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for walnuts based on official safety guidelines.",
-                "authority": "USDA & MFDS & CWC",
-                "intro": "Have you ever bitten into a walnut only to be met with a harsh rancid odor and a bitter taste? 🥜\n\nWalnuts have the highest plant-based omega-3 fatty acid content (alpha-linolenic acid, ALA) among tree nuts (~9–10%). While exceptionally healthy, these polyunsaturated fats undergo rapid autoxidation when exposed to oxygen, light, and heat, producing volatile rancidity compounds like hexanal.\n\nIn this guide, based on official recommendations from the California Walnut Commission (CWC), USDA, and MFDS, we share a 3-step scientific storage method to preserve the flavor, crunch, and nutritional value of walnuts. 🛡️",
-                "whyTitle": "Why Store Walnuts This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Room temperature storage rapidly accelerates lipid oxidation ⚠️",
-                        "desc": "Leaving walnuts exposed to air and light at room temperature (above 20°C / 68°F) breaks the double bonds of unsaturated fats, sharply increasing lipid hydroperoxides. Within 1–2 months, they develop a sharp rancid paint smell and unpleasant bitterness."
-                    },
-                    {
-                        "title": "Block out moisture and surrounding odors completely 🛑",
-                        "desc": "High-fat walnuts readily absorb strong odors like garlic or onions from neighboring foods. Furthermore, exposure to high humidity promotes Aspergillus mold growth, leading to toxic aflatoxin contamination, so keep them dry and strictly airtight."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Store in an airtight container in the fridge for up to 6 months — Refrigerated Storage (180 Days) ❄️",
-                        "text": "Low temperatures significantly slow down the lipid oxidation rate of harvested walnuts. 💡 Storage Tip: Place shelled walnuts in an airtight glass container or zip-top bag with air squeezed out, and keep them in the fridge crisper drawer (0–4°C / 32–39°F). Freshness remains intact for 6 months."
-                    },
-                    {
-                        "name": "Freeze in airtight packaging for long-term storage — Frozen Storage (365+ Days) 🧊",
-                        "text": "At temperatures below -18°C (0°F), lipid oxidation virtually halts. 💡 Storage Tip: Portion walnuts into meal-sized amounts and store them in freezer-safe airtight containers. They can be used directly in cooking or baking without thawing and stay fresh for over a year."
-                    },
-                    {
-                        "name": "Use airtight containers to seal out oxygen and strong odors — Airtight Sealing 🧴",
-                        "text": "Storing walnuts in open packaging allows their fat layer to absorb refrigerator odors. 💡 Storage Tip: Store in airtight glass or opaque containers to block light and oxygen contact. Adding an oxygen absorber packet inside maximizes rancidity prevention."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why do walnuts go rancid faster than other nuts at room temperature?",
-                        "answer": "Walnuts contain exceptionally high levels of polyunsaturated omega-3 fatty acids (alpha-linolenic acid, ALA), which feature multiple double bonds. Exposure to oxygen, light, and ambient heat (20°C+) accelerates autoxidation, rapidly converting fats into hexanal and causing rancidity."
-                    },
-                    {
-                        "question": "How can I tell if walnuts have gone bad or rancid?",
-                        "answer": "Fresh walnuts are light ivory to amber in color with a mild, nutty aroma. If they smell like stale paint or old cardboard, or taste unpleasantly bitter and sharp, they are rancid. If any mold is visible, discard them immediately due to aflatoxin risks."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "くるみを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくくるみの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS) & CWC",
-                "intro": "香ばしいくるみを食べた際、古い油の匂いや強い苦味を感じて不快になった経験はありませんか？🥜\n\nくるみはナッツ類の中で植物性オメガ3脂肪酸（アルファリノレン酸、ALA）を最も多く含んでいます（約9〜10%）。この豊富な多価不飽和脂肪酸は健康に素晴らしい効果をもたらす反面、空気中の酸素、光、熱に触れると自動酸化（Autoxidation）を起こし、ヘキサナール（Hexanal）などの変質物質を急速に発生させます。\n\n本記事では、カリフォルニアくるみ協会（CWC）、米国農務省（USDA）、食品医薬品安全処（MFDS）の公式ガイドラインに基づき、くるみの風味と栄養を長期間維持する3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "常温放置は脂質酸化と酸化腐敗の近道です ⚠️",
-                        "desc": "常温（20℃以上）で空気や光に晒すと、不飽和脂肪酸の二重結合が破壊され脂質過酸化物が急増します。わずか1〜2ヶ月でペンキのような酸敗臭や強い苦味が生じるため注意が必要です。"
-                    },
-                    {
-                        "title": "湿気と周囲のにおいを完全に遮断してください 🛑",
-                        "desc": "脂質が多いくるみは、ニンニクやタマネギなど周囲の強い臭いを吸収しやすい性質があります。また高湿度に晒されるとアスペルギルスカビが繁殖し、アフラトキシン（Aflatoxin）が発生する恐れがあるため、常に乾燥した密閉状態を保ってください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "6ヶ月以内に消費する場合は密閉容器で冷蔵保存 — 冷蔵保存 (180日間) ❄️",
-                        "text": "くるみは低温環境下で脂質の酸化速度が劇的に低下します。💡保存のコツ：殻を剥いたむき身は、空気を抜いたジッパーバッグや密閉容器に入れ、冷蔵庫（0〜4℃）の野菜室等で保管してください。6ヶ月間香ばしさが保たれます。"
-                    },
-                    {
-                        "name": "6ヶ月以上の長期保存は密閉して冷凍保存 — 冷凍保存 (365日以上) 🧊",
-                        "text": "-18℃以下の低温では、不飽和脂肪酸の酸化反応がほぼ停止状態になります。💡保存のコツ：小分けにして冷凍用密閉容器に入れ、冷凍庫で保管します。解凍せずにそのまま料理やお菓子作りに使え、1年以上新鮮さを保てます。"
-                    },
-                    {
-                        "name": "密閉容器を使用して酸素と匂い移りを防ぐ — 酸素遮断密閉 🧴",
-                        "text": "袋を開けたまま保存すると、冷蔵庫内の食品の臭いを脂質層が吸収してしまいます。💡保存のコツ：ガラス製や不透明な密閉容器を使用し、光と空気（酸素）の接触をしっかり遮断してください。脱酸素剤を同封するとさらに効果的です。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "くるみが常温で特に酸化しやすい科学的な理由は何ですか？",
-                        "answer": "くるみは他のナッツ類に比べ、二重結合を多く持つオメガ3脂肪酸（アルファリノレン酸）の割合が非常に高いためです。空気、光、20℃以上の熱に晒されると自動酸化が促進され、ヘキサナールなどの変質物質が速やかに作られます。"
-                    },
-                    {
-                        "question": "くるみが酸化・変質しているかどうかはどう確認しますか？",
-                        "answer": "新鮮なくるみは薄いアイボリー〜茶色で香ばしい香りがします。古いペンキやダンボールのような臭いがしたり、食べた時に強い苦味を感じる場合は酸化しています。表面にカビが見られる場合はアフラトキシン中毒の危険があるため直ちに廃棄してください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持核桃新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解核桃的最佳储存温度、方式及保鲜时长。",
-                "authority": "加州核桃协会(CWC) & USDA & MFDS",
-                "intro": "您是否曾尝过带有浓烈油油脂酸败味和苦味的核桃？🥜\n\n核桃是坚果中植物性欧米伽-3脂肪酸（α-亚麻酸，ALA）含量最高的食物（约9~10%）。这种高含量的多不饱和脂肪酸虽然极其健康，但一旦暴露在空气中的氧气、光线和热量下，就会发生自动氧化（Autoxidation）反应，迅速生成己醛（Hexanal）等酸败物质。\n\n本指南基于加州核桃协会（CWC）、美国农务部（USDA）及韩国食品医药品安全处（MFDS）的权威指南，为您带来3步科学保存秘诀，帮您长久锁定核桃的营养与酥脆风味。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "常温随意摆放是油脂酸败的诱因 ⚠️",
-                        "desc": "将核桃暴露在常温（20℃以上）的空气和光线下，不饱和脂肪酸的双键会被破坏，导致脂质过氧化物急剧增加。短短1~2个月内就会产生刺鼻的油漆味（酸败味）和苦味。"
-                    },
-                    {
-                        "title": "严防潮气并完全隔绝周围异味 🛑",
-                        "desc": "高脂肪含量的核桃极易吸收周围大蒜、洋葱等强烈的异味。此外，暴露在高湿度环境中会导致黄曲霉菌滋生，产生强致癌物黄曲霉毒素（Aflatoxin），因此务必保持干燥与密封。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "6个月内食用完毕请放入密封盒冷藏 — 冷藏储存 (180天) ❄️",
-                        "text": "采收后的核桃在低温环境下，脂质氧化速度会显著降低。💡储存小贴士：将去壳核桃仁装入保鲜袋或密封玻璃盒中，尽量排出空气，存放在冰箱（0~4℃）保鲜抽屉中，可保持6个月的酥脆风味。"
-                    },
-                    {
-                        "name": "长期保存（6个月以上）请密封后冷冻 — 冷冻储存 (365天以上) 🧊",
-                        "text": "在-18℃以下的低温下，不饱和脂肪酸的氧化反应几乎处于停止状态。💡储存小贴士：按单次食用量分装入冷冻专用密封盒中冷冻。使用时无需解冻，可直接用于烹饪或烘焙，保鲜期长达1年以上。"
-                    },
-                    {
-                        "name": "使用密封容器隔绝氧气与串味 — 密封防氧化 🧴",
-                        "text": "如果敞开包装保存，核桃的脂肪层会吸收冰箱内的各种食物异味。💡储存小贴士：使用密封玻璃瓶或不透明密封盒，强效阻隔光线和空气（氧气）。盒内放入脱氧剂可最大化防止酸败。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "为什么核桃在常温下比其他坚果更容易变质酸败？",
-                        "answer": "因为核桃含有极高比例的欧米伽-3多不饱和脂肪酸（α-亚麻酸，ALA），其分子结构中含有较多的不饱和双键。暴露于氧气、光线和20℃以上的热量中会加速自动氧化，迅速产生己醛等酸败物质。"
-                    },
-                    {
-                        "question": "如何判断核桃是否已经酸败或变质？",
-                        "answer": "新鲜核桃呈现淡象牙色至琥珀色，带有淡淡的坚果清香。如果散发出陈旧油漆、旧纸箱味，或者咀嚼时有强烈的苦味和辣喉感，说明已经酸败。若表面出现霉菌，可能存在黄曲霉毒素风险，应立即丢弃。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener las nueces frescas: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para las nueces según las directrices oficiales de seguridad.",
-                "authority": "USDA & MFDS & CWC",
-                "intro": "¿Alguna vez ha comido una nuez y ha sentido un desagradable olor a rancio y un sabor amargo? 🥜\n\nLas nueces contienen la mayor cantidad de ácido alfa-linolénico (ALA, un ácido graso omega-3 vegetal) entre los frutos secos (aprox. 9–10%). Aunque estas grasas poliinsaturadas son increíblemente saludables, sufren una rápida autooxidación al exponerse al oxígeno, la luz y el calor, generando compuestos volátiles de rancia calidad como el hexanal.\n\nEn esta guía, basada en recomendaciones oficiales de la Comisión de Nueces de California (CWC), el USDA y el MFDS, compartimos un método científico en 3 pasos para preservar el sabor, la textura crocante y el valor nutricional de las nueces. 🛡️",
-                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Almacenar a temperatura ambiente acelera la oxidación lipídica ⚠️",
-                        "desc": "Dejar las nueces expuestas al aire y la luz a temperatura ambiente (superior a 20 °C) rompe los dobles enlaces de las grasas insaturadas, aumentando los hidroperóxidos lipídicos. En 1-2 meses desarrollan un fuerte olor a pintura rancia y sabor amargo."
-                    },
-                    {
-                        "title": "Aíslelas completamente de la humedad y olores fuertes 🛑",
-                        "desc": "Las nueces, al ser ricas en grasas, absorben fácilmente los olores fuertes de alimentos vecinos (como ajo o cebolla). La alta humedad también favorece el crecimiento de hongos Aspergillus y la formación de aflatoxinas tóxicas."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Guarde en un recipiente hermético en el refrigerador hasta 6 meses — Refrigeración (180 días) ❄️",
-                        "text": "Las bajas temperaturas ralentizan significativamente la tasa de oxidación de las nueces. 💡 Consejo de almacenamiento: Guarde las nueces peladas en un recipiente hermético de vidrio o bolsa con cierre eliminando el aire, en el cajón de verduras (0–4 °C). Conservarán su frescura durante 6 meses."
-                    },
-                    {
-                        "name": "Congele en envases herméticos para almacenamiento prolongado — Congelación (365+ días) 🧊",
-                        "text": "A temperaturas inferiores a -18 °C, la oxidación de lípidos se detiene virtualmente. 💡 Consejo de almacenamiento: Porcione las nueces en cantidades de uso individual y guárdelas en contenedores herméticos aptos para congelador. Se pueden usar directamente sin descongelar durante más de 1 año."
-                    },
-                    {
-                        "name": "Utilice recipientes herméticos para bloquear el oxígeno y olores externos — Sellado hermético 🧴",
-                        "text": "Dejar las nueces en bolsas abiertas permite que su grasa absorba los olores del refrigerador. 💡 Consejo de almacenamiento: Utilice recipientes herméticos opacos o de vidrio para bloquear la luz y el oxígeno. Añadir un absorbedor de oxígeno dentro del envase maximiza la protección."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué las nueces se enrancian más rápido que otros frutos secos a temperatura ambiente?",
-                        "answer": "Porque poseen un contenido excepcionalmente alto de ácidos grasos poliinsaturados omega-3 (ALA), que tienen múltiples dobles enlaces. La exposición al oxígeno, la luz y temperaturas superiores a 20 °C acelera la autooxidación y la formación de hexanal."
-                    },
-                    {
-                        "question": "¿Cómo puedo saber si las nueces se han enranciado o echado a perder?",
-                        "answer": "Las nueces frescas tienen un color marfil claro a ámbar y un aroma suave. Si huelen a pintura rancia o cartón viejo, o tienen un sabor fuertemente amargo, están rancias. Si observa moho visible, deséchelas inmediatamente por riesgo de aflatoxinas."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver les noix fraîches : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les noix selon les directives officielles de sécurité.",
-                "authority": "USDA & MFDS & CWC",
-                "intro": "Avez-vous déjà goûté une noix pour y trouver un désagréable goût amer et une odeur de rance ? 🥜\n\nLes noix détiennent la plus forte teneur en acide alpha-linolénique (ALA, un oméga-3 végétal) parmi tous les fruits à coque (~9–10 %). Bien que ces acides gras polyinsaturés soient excellents pour la santé, ils subissent une auto-oxydation rapide s'ils sont exposés à l'oxygène, la lumière et la chaleur, produisant des composés volatiles rances comme le hexanal.\n\nBasé sur les conseils officiels de la California Walnut Commission (CWC), du USDA et du MFDS, ce guide présente 3 étapes scientifiques pour préserver la saveur et la qualité nutritionnelle de vos noix. 🛡️",
-                "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Le stockage à température ambiante accélère l'oxydation des lipides ⚠️",
-                        "desc": "Laisser les noix à température ambiante (au-dessus de 20 °C) exposées à l'air et à la lumière brise les doubles liaisons des graisses insaturées. En 1 à 2 mois, elles développent une odeur de peinture rance et une forte amertume."
-                    },
-                    {
-                        "title": "Protégez-les totalement de l'humidité et des odeurs environnantes 🛑",
-                        "desc": "Riches en graisses, les noix absorbent facilement les odeurs fortes (ail, oignon). De plus, l'humidité favorise la moisissure Aspergillus et la formation d'aflatoxines toxiques."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Conserver au réfrigérateur dans un récipient hermétique jusqu'à 6 mois — Stockage réfrigéré (180 jours) ❄️",
-                        "text": "Le froid ralentit considérablement la vitesse d'oxydation des lipides des noix. 💡 Astuce de conservation : Placez les cerneaux de noix dans un bocal hermétique en verre ou un sac sous vide dans le bac à légumes (0–4 °C). Elles garderont leur fraîcheur pendant 6 mois."
-                    },
-                    {
-                        "name": "Congeler dans un emballage hermétique pour une conservation longue durée — Congélation (365+ jours) 🧊",
-                        "text": "À des températures inférieures à -18 °C, l'oxydation des lipides s'arrête pratiquement. 💡 Astuce de conservation : Portez les noix en portions individuelles dans des récipients hermétiques pour congélateur. Vous pouvez les utiliser directement en cuisine sans décongélation."
-                    },
-                    {
-                        "name": "Utiliser des récipients hermétiques pour bloquer l'oxygène et les odeurs — Scellage étanche 🧴",
-                        "text": "Laisser les noix dans un sachet ouvert permet à leur couche de graisse d'absorber les odeurs du frigo. 💡 Astuce de conservation : Privilégiez les récipients hermétiques opaques ou en verre. Un sachet absorbeur d'oxygène augmente encore la protection."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi les noix rancissent-elles plus vite que les autres fruits à coque à température ambiante ?",
-                        "answer": "Parce qu'elles contiennent une proportion très élevée d'acides gras polyinsaturés oméga-3 (ALA). Exposées à l'air, à la lumière et à plus de 20 °C, ces graisses s'oxydent rapidement pour former du hexanal responsables du rancissement."
-                    },
-                    {
-                        "question": "Comment savoir si des noix sont rances ou périmées ?",
-                        "answer": "Des noix fraîches sont de couleur ivoire à ambrée avec une odeur douce. Si elles sentent la peinture rance ou le carton moisi, ou si elles ont un goût très amer, elles sont rances. Jetez immédiatement toute noix présentant des traces de moisissure à cause des aflatoxines."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Walnüsse richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Walnüsse basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "USDA & MFDS & CWC",
-                "intro": "Haben Sie schon einmal in eine Walnuss gebissen und einen stechenden, ranzigen Geruch und bitteren Geschmack bemerkt? 🥜\n\nWalnüsse weisen unter allen Schalenfrüchten den höchsten Gehalt an pflanzlicher Omega-3-Fettsäure (Alpha-Linolensäure, ALA) auf (~9–10 %). Obwohl diese mehrfach ungesättigten Fettsäuren extrem gesund sind, unterliegen sie bei Kontakt mit Sauerstoff, Licht und Wärme einer schnellen Autoxidation, wodurch ranzige Verbindungen wie Hexanal entstehen.\n\nIn diesem Ratgeber stellen wir Ihnen auf Basis offizieller Empfehlungen der California Walnut Commission (CWC), der USDA und der MFDS eine wissenschaftliche 3-Schritte-Methode vor, um Geschmack und Nährstoffe zu bewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Lagerung bei Raumtemperatur beschleunigt die Fettoxidation ⚠️",
-                        "desc": "Wenn Walnüsse bei Raumtemperatur (über 20 °C) Luft und Licht ausgesetzt sind, brechen die Doppelbindungen der ungesättigten Fettsäuren auf. Bereits nach 1–2 Monaten entwickeln sie einen ranzigen Farb- bzw. Lackgeruch und unangenehmen bitteren Geschmack."
-                    },
-                    {
-                        "title": "Schützen Sie Walnüsse komplett vor Feuchtigkeit und Fremdgerüchen 🛑",
-                        "desc": "Fettreiche Walnüsse nehmen leicht starke Gerüche (z. B. Knoblauch, Zwiebeln) auf. Hohe Luftfeuchtigkeit begünstigt zudem das Wachstum von Aspergillus-Schimmelpilzen und die Bildung toxischer Aflatoxine."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Im Kühlschrank in einem luftdichten Behälter bis zu 6 Monate lagern — Kühllagerung (180 Tage) ❄️",
-                        "text": "Kühle Temperaturen verlangsamen die Lipidoxidation bei Walnüssen erheblich. 💡 Lagerungstipp: Geben Sie geschälte Walnusskerne in ein luftdichtes Glas oder einen gefriergeeigneten Beutel und lagern Sie sie im Gemüsefach (0–4 °C)."
-                    },
-                    {
-                        "name": "Für Langzeitlagerung luftdicht eingefrieren — Gefrierlagerung (365+ Tage) 🧊",
-                        "text": "Bei Temperaturen unter -18 °C kommt die Fettsäureoxidation praktisch zum Stillstand. 💡 Lagerungstipp: Portionsweise in gefriergeeigneten Dosen einfrieren. Sie können ohne Auftauen direkt zum Kochen oder Backen verwendet werden."
-                    },
-                    {
-                        "name": "Luftdichte Behälter nutzen, um Sauerstoff und Fremdgerüche fernzuhalten — Luftdichter Verschluss 🧴",
-                        "text": "Offene Verpackungen führen dazu, dass die Fettschicht der Walnüsse Kühlschrankgerüche aufnimmt. 💡 Lagerungstipp: Verwenden Sie dunkle oder gläserne luftdichte Behälter. Ein Sauerstoffabsorber im Behälter maximiert den Frischeschutz."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum werden Walnüsse bei Raumtemperatur schneller ranzig als andere Nüsse?",
-                        "answer": "Weil sie einen besonders hohen Anteil an mehrfach ungesättigten Omega-3-Fettsäuren (ALA) besitzen. Bei Einwirkung von Sauerstoff, Licht und Temperaturen über 20 °C setzt die Autoxidation ein und bildet rasch Hexanal."
-                    },
-                    {
-                        "question": "Woran erkenne ich, ob Walnüsse ranzig oder verdorben sind?",
-                        "answer": "Frische Walnüsse sind elfenbeinfarben bis bernsteinfarben und schmecken mild-nussig. Riechen sie nach alter Farbe oder Karton oder schmecken sie stark bitter, sind sie ranzig. Werfen Sie Walnüsse mit Schimmelspuren wegen Aflatoxingehr sofort weg."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar nozes frescas: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para nozes com base em diretrizes oficiais de segurança.",
-                "authority": "USDA & MFDS & CWC",
-                "intro": "Você já comeu uma noz e sentiu um gosto amargo e um odor forte de gordura râncida? 🥜\n\nAs nozes possuem o maior teor de ácido alfa-linolênico (ALA, um ômega-3 vegetal) entre as oleaginosas (~9–10%). Embora essas gorduras poli-insaturadas sejam extremamente saudáveis, sofrem rápida auto-oxidação quando expostas ao oxigênio, luz e calor, gerando compostos voláteis râncios como o hexanal.\n\nNeste guia, baseado em recomendações oficiais da Comissão de Nozes da Califórnia (CWC), do USDA e do MFDS, apresentamos um método científico em 3 etapas para preservar o sabor e a crocância das nozes. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "O armazenamento em temperatura ambiente acelera a oxidação lipídica ⚠️",
-                        "desc": "Deixar nozes expostas ao ar e à luz em temperatura ambiente (acima de 20 °C) quebra as ligações duplas das gorduras insaturadas. Em 1 a 2 meses elas desenvolvem cheiro râncio de tinta e sabor amargo."
-                    },
-                    {
-                        "title": "Proteja totalmente contra umidade e odores externos 🛑",
-                        "desc": "Ricas em gorduras, as nozes absorvem facilmente odores fortes de alimentos próximos (alho, cebola). A alta umidade também estimula fungos Aspergillus e contaminação por aflatoxinas."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Guarde em recipiente hermético na geladeira por até 6 meses — Refrigeração (180 dias) ❄️",
-                        "text": "Temperaturas baixas desaceleram significativamente a taxa de oxidação das nozes. 💡 Dica de conservação: Coloque as nozes descascadas em um pote de vidro hermético na gaveta de legumes (0–4 °C). O frescor dura 6 meses."
-                    },
-                    {
-                        "name": "Congele em embalagens herméticas para longa conservação — Congelamento (365+ dias) 🧊",
-                        "text": "A temperaturas abaixo de -18 °C, a oxidação dos lipídios praticamente é interrompida. 💡 Dica de conservação: Separe as nozes em porções e guarde-as em potes herméticos próprios para congelador. Podem ser usadas diretamente sem descongelar."
-                    },
-                    {
-                        "name": "Use potes herméticos para isolar o oxigênio e odores — Vedação hermética 🧴",
-                        "text": "Deixar nozes em sacos abertos faz com que sua gordura absorva odores da geladeira. 💡 Dica de conservação: Dê preferência a potes de vidro ou opacos herméticos para bloquear luz e oxigênio."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Por que as nozes ranceiam mais rápido que outras oleaginosas em temperatura ambiente?",
-                        "answer": "Porque possuem uma proporção muito alta de ácidos graxos poli-insaturados ômega-3 (ALA). A exposição ao ar, luz e calor acima de 20 °C acelera a auto-oxidação, formando rapidamente hexanal."
-                    },
-                    {
-                        "question": "Como saber se as nozes estão râncidas ou estragadas?",
-                        "answer": "Nozes frescas têm cor marfim claro a âmbar e cheiro suave. Se cheirarem a tinta velha ou papelão e tiverem gosto amargo, estão râncidas. Se houver mofo visível, descarte-as imediatamente pelo risco de aflatoxinas."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Kacang Walnut agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk kacang walnut berdasarkan pedoman keselamatan resmi.",
-                "authority": "USDA & MFDS & CWC",
-                "intro": "Pernahkah Anda memakan kacang walnut lalu merasakan bau tengik yang tajam dan rasa pahit? 🥜\n\nWalnut memiliki kandungan asam lemak omega-3 nabati (asam alfa-linolenat, ALA) tertinggi di antara jenis kacang-kacangan (~9–10%). Meskipun sangat sehat, lemak tak jenuh ganda ini mengalami autoksidasi cepat saat terpapar oksigen, cahaya, dan panas, menghasilkan senyawa tengik seperti heksanal.\n\nBerdasarkan panduan resmi California Walnut Commission (CWC), USDA, dan MFDS, panduan 3 langkah ini membagikan metode ilmiah untuk menjaga kerenyahan dan nutrisi walnut Anda. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Menyimpan pada suhu ruang mempercepat oksidasi lemak ⚠️",
-                        "desc": "Membiarkan walnut terpapar udara dan cahaya pada suhu ruangan (di atas 20°C) merusak ikatan ganda lemak tak jenuh. Dalam 1–2 bulan, walnut akan mengeluarkan bau cat tengik dan rasa pahit."
-                    },
-                    {
-                        "title": "Lindungi dari kelembapan dan bau menyengat 🛑",
-                        "desc": "Kandungan lemak walnut yang tinggi membuatnya mudah menyerap bau dari makanan sekitar (seperti bawang). Kelembapan tinggi juga dapat memicu jamur Aspergillus dan racun aflatoksin."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Simpan di wadah kedap udara dalam kulkas hingga 6 bulan — Simpan Dingin (180 Hari) ❄️",
-                        "text": "Suhu dingin memperlambat laju oksidasi lemak pada walnut secara signifikan. 💡 Tips Penyimpanan: Masukkan walnut kupas ke wadah kaca kedap udara di laci kulkas (0–4°C). Kesegarannya bertahan hingga 6 bulan."
-                    },
-                    {
-                        "name": "Bekukan dalam wadah kedap udara untuk penyimpanan jangka panjang — Simpan Beku (365+ Hari) 🧊",
-                        "text": "Pada suhu di bawah -18°C, oksidasi lemak praktis terhenti. 💡 Tips Penyimpanan: Bagi walnut dalam porsi sekali makan lalu simpan di wadah kedap udara khusus freezer. Dapat langsung digunakan tanpa perlu didefrost."
-                    },
-                    {
-                        "name": "Gunakan wadah kedap udara untuk menghalangi oksigen dan bau — Segel Kedap Udara 🧴",
-                        "text": "Membiarkan walnut di kemasan terbuka membuat lapisan lemaknya menyerap bau kulkas. 💡 Tips Penyimpanan: Gunakan wadah kaca atau wadah buram kedap udara untuk menghalangi cahaya dan oksigen."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa walnut lebih cepat tengik dibanding kacang lain pada suhu ruang?",
-                        "answer": "Walnut mengandung asam lemak tak jenuh ganda omega-3 (ALA) yang sangat tinggi. Paparan oksigen, cahaya, dan suhu di atas 20°C mempercepat reaksi autoksidasi yang membentuk senyawa heksanal penyabab bau tengik."
-                    },
-                    {
-                        "question": "Bagaimana cara mengetahui jika walnut sudah tengik atau rusak?",
-                        "answer": "Walnut segar berwarna gading terang hingga amber dengan aroma gurih lembut. Jika berbau seperti cat tua atau kardus basah serta terasa sangat pahit, walnut sudah tengik. Jika terlihat berjamur, segera buang karena risiko racun aflatoksin."
-                    }
-                ]
-            }
-        }
+  "how-to-store-walnut": {
+    "ingId": "walnut",
+    "pubDate": "2026-01-12",
+    "updatedDate": "2026-01-12",
+    "heroImage": "/images/blog/walnut_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "호두 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 호두의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS) & CWC",
+        "intro": "고소한 호두를 집어 먹었다가 찌든 냄새와 강한 쓴맛 때문에 눈살을 찌푸린 적 있으시죠? 🥜\n\n호두는 견과류 중 식물성 오메가-3 지방산인 알파-리놀렌산(ALA) 함량이 가장 높은 건강한 식재료입니다(약 9~10%). 그러나 이 고함량 다중불포화지방산은 공기 중의 산소, 빛, 열에 노출되면 자율 산화(Autoxidation) 반응을 일으켜 헥사날(Hexanal) 같은 산패 유발 물질을 매우 빠르게 생성합니다.\n\n이번 가이드에서는 캘리포니아 호두 협회(CWC), 미국 농무부(USDA) 및 식품의약품안전처(MFDS)의 공인 가이드라인을 바탕으로, 호두의 영양과 바삭한 풍미를 손실 없이 길게 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "상온 방치는 지질 산화와 산패의 지름길입니다 ⚠️",
+            "desc": "상온(20℃ 이상)의 공기와 빛에 호두를 방치하면 불포화지방산의 이중결합이 파괴되면서 지질 과산화물(Lipid hydroperoxides)이 급격히 증가합니다. 1~2개월 만에 찌든 페인트 냄새(산패취)와 아린 쓴맛이 생기므로 주의해야 합니다."
+          },
+          {
+            "title": "습기와 주변 냄새를 완벽히 차단하세요 🛑",
+            "desc": "지방 함량이 높은 호두는 주변의 강한 냄새(마늘, 양파 등)를 쉽게 흡수합니다. 또한 고온 다습한 환경에 노출되면 아스퍼질러스 곰팡이가 번식하여 1급 독성 물질인 아플라톡신(Aflatoxin)이 생성될 수 있으므로 항상 건조하고 밀폐된 상태를 유지해야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "6개월 이내 소비 시 밀폐 용기에 담아 냉장 보관하기 — 냉장 보관 (180일) ❄️",
+            "text": "호두는 수확 후 상온보다 저온에서 지질 산화 속도가 획기적으로 줄어듭니다. 💡 보관 팁: 껍질을 깐 호두살은 지퍼백이나 밀폐 용기에 공기를 최대한 빼고 담아 냉장고(0~4℃) 야채칸이나 신선실에 보관하세요. 6개월 동안 고소한 풍미와 신선함이 유지됩니다."
+          },
+          {
+            "name": "6개월 이상 장기 보관 시 밀폐 후 냉동 보관하기 — 냉동 보관 (365일 이상) 🧊",
+            "text": "-18℃ 이하의 저온에서는 불포화지방산의 산화 반응이 사실상 거의 정지 상태에 도달합니다. 💡 보관 팁: 한 번에 먹을 만큼 소분하여 냉동용 밀폐 용기에 넣고 냉동 보관하세요. 별도의 해동 없이 요리나 베이킹에 바로 사용할 수 있으며 1년 이상 신선하게 보존됩니다."
+          },
+          {
+            "name": "밀폐 용기 사용으로 산소 및 주변 냄새 흡수 차단하기 — 산소 차단 밀봉 🧴",
+            "text": "포장재를 열어둔 채 보관하면 냉장고 안의 음식 냄새를 호두 지방층이 전부 흡수하게 됩니다. 💡 보관 팁: 유리 밀폐 용기나 불투명 밀폐 용기를 사용하여 빛과 공기(산소) 접촉을 차단해 주세요. 산소 흡수제(탈산소제)를 함께 넣으면 산화 방지 효과가 더욱 극대화됩니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "호두가 상온에서 유독 쉽게 산패되는 과학적 이유는 무엇인가요?",
+            "answer": "호두는 다른 견과류에 비해 이중결합을 많이 가진 식물성 오메가-3 지방산(알파-리놀렌산, ALA) 함량이 매우 높기 때문입니다. 공기 중 산소, 빛, 20℃ 이상의 열에 노출되면 자율 산화 반응이 촉진되어 헥사날 등 산패 물질이 빠르게 생성됩니다."
+          },
+          {
+            "question": "호두가 산패되었거나 변질되었는지는 어떻게 확인하나요?",
+            "answer": "신선한 호두는 옅은 아이보리/갈색을 띠며 고소한 향이 납니다. 만약 찌든 페인트, 오래된 박스 상자 같은 냄새가 나거나, 씹었을 때 강한 쓴맛과 아린 맛이 느껴진다면 산패된 것입니다. 표면에 곰팡이가 보인다면 아플라톡신 위험이 있으므로 즉시 폐기해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Walnuts Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for walnuts based on official safety guidelines.",
+        "authority": "USDA & MFDS & CWC",
+        "intro": "Have you ever bitten into a walnut only to be met with a harsh rancid odor and a bitter taste? 🥜\n\nWalnuts have the highest plant-based omega-3 fatty acid content (alpha-linolenic acid, ALA) among tree nuts (~9–10%). While exceptionally healthy, these polyunsaturated fats undergo rapid autoxidation when exposed to oxygen, light, and heat, producing volatile rancidity compounds like hexanal.\n\nIn this guide, based on official recommendations from the California Walnut Commission (CWC), USDA, and MFDS, we share a 3-step scientific storage method to preserve the flavor, crunch, and nutritional value of walnuts. 🛡️",
+        "whyTitle": "Why Store Walnuts This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Room temperature storage rapidly accelerates lipid oxidation ⚠️",
+            "desc": "Leaving walnuts exposed to air and light at room temperature (above 20°C / 68°F) breaks the double bonds of unsaturated fats, sharply increasing lipid hydroperoxides. Within 1–2 months, they develop a sharp rancid paint smell and unpleasant bitterness."
+          },
+          {
+            "title": "Block out moisture and surrounding odors completely 🛑",
+            "desc": "High-fat walnuts readily absorb strong odors like garlic or onions from neighboring foods. Furthermore, exposure to high humidity promotes Aspergillus mold growth, leading to toxic aflatoxin contamination, so keep them dry and strictly airtight."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Store in an airtight container in the fridge for up to 6 months — Refrigerated Storage (180 Days) ❄️",
+            "text": "Low temperatures significantly slow down the lipid oxidation rate of harvested walnuts. 💡 Storage Tip: Place shelled walnuts in an airtight glass container or zip-top bag with air squeezed out, and keep them in the fridge crisper drawer (0–4°C / 32–39°F). Freshness remains intact for 6 months."
+          },
+          {
+            "name": "Freeze in airtight packaging for long-term storage — Frozen Storage (365+ Days) 🧊",
+            "text": "At temperatures below -18°C (0°F), lipid oxidation virtually halts. 💡 Storage Tip: Portion walnuts into meal-sized amounts and store them in freezer-safe airtight containers. They can be used directly in cooking or baking without thawing and stay fresh for over a year."
+          },
+          {
+            "name": "Use airtight containers to seal out oxygen and strong odors — Airtight Sealing 🧴",
+            "text": "Storing walnuts in open packaging allows their fat layer to absorb refrigerator odors. 💡 Storage Tip: Store in airtight glass or opaque containers to block light and oxygen contact. Adding an oxygen absorber packet inside maximizes rancidity prevention."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why do walnuts go rancid faster than other nuts at room temperature?",
+            "answer": "Walnuts contain exceptionally high levels of polyunsaturated omega-3 fatty acids (alpha-linolenic acid, ALA), which feature multiple double bonds. Exposure to oxygen, light, and ambient heat (20°C+) accelerates autoxidation, rapidly converting fats into hexanal and causing rancidity."
+          },
+          {
+            "question": "How can I tell if walnuts have gone bad or rancid?",
+            "answer": "Fresh walnuts are light ivory to amber in color with a mild, nutty aroma. If they smell like stale paint or old cardboard, or taste unpleasantly bitter and sharp, they are rancid. If any mold is visible, discard them immediately due to aflatoxin risks."
+          }
+        ]
+      },
+      "ja": {
+        "title": "くるみを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくくるみの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS) & CWC",
+        "intro": "香ばしいくるみを食べた際、古い油の匂いや強い苦味を感じて不快になった経験はありませんか？🥜\n\nくるみはナッツ類の中で植物性オメガ3脂肪酸（アルファリノレン酸、ALA）を最も多く含んでいます（約9〜10%）。この豊富な多価不飽和脂肪酸は健康に素晴らしい効果をもたらす反面、空気中の酸素、光、熱に触れると自動酸化（Autoxidation）を起こし、ヘキサナール（Hexanal）などの変質物質を急速に発生させます。\n\n本記事では、カリフォルニアくるみ協会（CWC）、米国農務省（USDA）、食品医薬品安全処（MFDS）の公式ガイドラインに基づき、くるみの風味と栄養を長期間維持する3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "常温放置は脂質酸化と酸化腐敗の近道です ⚠️",
+            "desc": "常温（20℃以上）で空気や光に晒すと、不飽和脂肪酸の二重結合が破壊され脂質過酸化物が急増します。わずか1〜2ヶ月でペンキのような酸敗臭や強い苦味が生じるため注意が必要です。"
+          },
+          {
+            "title": "湿気と周囲のにおいを完全に遮断してください 🛑",
+            "desc": "脂質が多いくるみは、ニンニクやタマネギなど周囲の強い臭いを吸収しやすい性質があります。また高湿度に晒されるとアスペルギルスカビが繁殖し、アフラトキシン（Aflatoxin）が発生する恐れがあるため、常に乾燥した密閉状態を保ってください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "6ヶ月以内に消費する場合は密閉容器で冷蔵保存 — 冷蔵保存 (180日間) ❄️",
+            "text": "くるみは低温環境下で脂質の酸化速度が劇的に低下します。💡保存のコツ：殻を剥いたむき身は、空気を抜いたジッパーバッグや密閉容器に入れ、冷蔵庫（0〜4℃）の野菜室等で保管してください。6ヶ月間香ばしさが保たれます。"
+          },
+          {
+            "name": "6ヶ月以上の長期保存は密閉して冷凍保存 — 冷凍保存 (365日以上) 🧊",
+            "text": "-18℃以下の低温では、不飽和脂肪酸の酸化反応がほぼ停止状態になります。💡保存のコツ：小分けにして冷凍用密閉容器に入れ、冷凍庫で保管します。解凍せずにそのまま料理やお菓子作りに使え、1年以上新鮮さを保てます。"
+          },
+          {
+            "name": "密閉容器を使用して酸素と匂い移りを防ぐ — 酸素遮断密閉 🧴",
+            "text": "袋を開けたまま保存すると、冷蔵庫内の食品の臭いを脂質層が吸収してしまいます。💡保存のコツ：ガラス製や不透明な密閉容器を使用し、光と空気（酸素）の接触をしっかり遮断してください。脱酸素剤を同封するとさらに効果的です。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "くるみが常温で特に酸化しやすい科学的な理由は何ですか？",
+            "answer": "くるみは他のナッツ類に比べ、二重結合を多く持つオメガ3脂肪酸（アルファリノレン酸）の割合が非常に高いためです。空気、光、20℃以上の熱に晒されると自動酸化が促進され、ヘキサナールなどの変質物質が速やかに作られます。"
+          },
+          {
+            "question": "くるみが酸化・変質しているかどうかはどう確認しますか？",
+            "answer": "新鮮なくるみは薄いアイボリー〜茶色で香ばしい香りがします。古いペンキやダンボールのような臭いがしたり、食べた時に強い苦味を感じる場合は酸化しています。表面にカビが見られる場合はアフラトキシン中毒の危険があるため直ちに廃棄してください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持核桃新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解核桃的最佳储存温度、方式及保鲜时长。",
+        "authority": "加州核桃协会(CWC) & USDA & MFDS",
+        "intro": "您是否曾尝过带有浓烈油油脂酸败味和苦味的核桃？🥜\n\n核桃是坚果中植物性欧米伽-3脂肪酸（α-亚麻酸，ALA）含量最高的食物（约9~10%）。这种高含量的多不饱和脂肪酸虽然极其健康，但一旦暴露在空气中的氧气、光线和热量下，就会发生自动氧化（Autoxidation）反应，迅速生成己醛（Hexanal）等酸败物质。\n\n本指南基于加州核桃协会（CWC）、美国农务部（USDA）及韩国食品医药品安全处（MFDS）的权威指南，为您带来3步科学保存秘诀，帮您长久锁定核桃的营养与酥脆风味。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "常温随意摆放是油脂酸败的诱因 ⚠️",
+            "desc": "将核桃暴露在常温（20℃以上）的空气和光线下，不饱和脂肪酸的双键会被破坏，导致脂质过氧化物急剧增加。短短1~2个月内就会产生刺鼻的油漆味（酸败味）和苦味。"
+          },
+          {
+            "title": "严防潮气并完全隔绝周围异味 🛑",
+            "desc": "高脂肪含量的核桃极易吸收周围大蒜、洋葱等强烈的异味。此外，暴露在高湿度环境中会导致黄曲霉菌滋生，产生强致癌物黄曲霉毒素（Aflatoxin），因此务必保持干燥与密封。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "6个月内食用完毕请放入密封盒冷藏 — 冷藏储存 (180天) ❄️",
+            "text": "采收后的核桃在低温环境下，脂质氧化速度会显著降低。💡储存小贴士：将去壳核桃仁装入保鲜袋或密封玻璃盒中，尽量排出空气，存放在冰箱（0~4℃）保鲜抽屉中，可保持6个月的酥脆风味。"
+          },
+          {
+            "name": "长期保存（6个月以上）请密封后冷冻 — 冷冻储存 (365天以上) 🧊",
+            "text": "在-18℃以下的低温下，不饱和脂肪酸的氧化反应几乎处于停止状态。💡储存小贴士：按单次食用量分装入冷冻专用密封盒中冷冻。使用时无需解冻，可直接用于烹饪或烘焙，保鲜期长达1年以上。"
+          },
+          {
+            "name": "使用密封容器隔绝氧气与串味 — 密封防氧化 🧴",
+            "text": "如果敞开包装保存，核桃的脂肪层会吸收冰箱内的各种食物异味。💡储存小贴士：使用密封玻璃瓶或不透明密封盒，强效阻隔光线和空气（氧气）。盒内放入脱氧剂可最大化防止酸败。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "为什么核桃在常温下比其他坚果更容易变质酸败？",
+            "answer": "因为核桃含有极高比例的欧米伽-3多不饱和脂肪酸（α-亚麻酸，ALA），其分子结构中含有较多的不饱和双键。暴露于氧气、光线和20℃以上的热量中会加速自动氧化，迅速产生己醛等酸败物质。"
+          },
+          {
+            "question": "如何判断核桃是否已经酸败或变质？",
+            "answer": "新鲜核桃呈现淡象牙色至琥珀色，带有淡淡的坚果清香。如果散发出陈旧油漆、旧纸箱味，或者咀嚼时有强烈的苦味和辣喉感，说明已经酸败。若表面出现霉菌，可能存在黄曲霉毒素风险，应立即丢弃。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener las nueces frescas: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para las nueces según las directrices oficiales de seguridad.",
+        "authority": "USDA & MFDS & CWC",
+        "intro": "¿Alguna vez ha comido una nuez y ha sentido un desagradable olor a rancio y un sabor amargo? 🥜\n\nLas nueces contienen la mayor cantidad de ácido alfa-linolénico (ALA, un ácido graso omega-3 vegetal) entre los frutos secos (aprox. 9–10%). Aunque estas grasas poliinsaturadas son increíblemente saludables, sufren una rápida autooxidación al exponerse al oxígeno, la luz y el calor, generando compuestos volátiles de rancia calidad como el hexanal.\n\nEn esta guía, basada en recomendaciones oficiales de la Comisión de Nueces de California (CWC), el USDA y el MFDS, compartimos un método científico en 3 pasos para preservar el sabor, la textura crocante y el valor nutricional de las nueces. 🛡️",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Almacenar a temperatura ambiente acelera la oxidación lipídica ⚠️",
+            "desc": "Dejar las nueces expuestas al aire y la luz a temperatura ambiente (superior a 20 °C) rompe los dobles enlaces de las grasas insaturadas, aumentando los hidroperóxidos lipídicos. En 1-2 meses desarrollan un fuerte olor a pintura rancia y sabor amargo."
+          },
+          {
+            "title": "Aíslelas completamente de la humedad y olores fuertes 🛑",
+            "desc": "Las nueces, al ser ricas en grasas, absorben fácilmente los olores fuertes de alimentos vecinos (como ajo o cebolla). La alta humedad también favorece el crecimiento de hongos Aspergillus y la formación de aflatoxinas tóxicas."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Guarde en un recipiente hermético en el refrigerador hasta 6 meses — Refrigeración (180 días) ❄️",
+            "text": "Las bajas temperaturas ralentizan significativamente la tasa de oxidación de las nueces. 💡 Consejo de almacenamiento: Guarde las nueces peladas en un recipiente hermético de vidrio o bolsa con cierre eliminando el aire, en el cajón de verduras (0–4 °C). Conservarán su frescura durante 6 meses."
+          },
+          {
+            "name": "Congele en envases herméticos para almacenamiento prolongado — Congelación (365+ días) 🧊",
+            "text": "A temperaturas inferiores a -18 °C, la oxidación de lípidos se detiene virtualmente. 💡 Consejo de almacenamiento: Porcione las nueces en cantidades de uso individual y guárdelas en contenedores herméticos aptos para congelador. Se pueden usar directamente sin descongelar durante más de 1 año."
+          },
+          {
+            "name": "Utilice recipientes herméticos para bloquear el oxígeno y olores externos — Sellado hermético 🧴",
+            "text": "Dejar las nueces en bolsas abiertas permite que su grasa absorba los olores del refrigerador. 💡 Consejo de almacenamiento: Utilice recipientes herméticos opacos o de vidrio para bloquear la luz y el oxígeno. Añadir un absorbedor de oxígeno dentro del envase maximiza la protección."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué las nueces se enrancian más rápido que otros frutos secos a temperatura ambiente?",
+            "answer": "Porque poseen un contenido excepcionalmente alto de ácidos grasos poliinsaturados omega-3 (ALA), que tienen múltiples dobles enlaces. La exposición al oxígeno, la luz y temperaturas superiores a 20 °C acelera la autooxidación y la formación de hexanal."
+          },
+          {
+            "question": "¿Cómo puedo saber si las nueces se han enranciado o echado a perder?",
+            "answer": "Las nueces frescas tienen un color marfil claro a ámbar y un aroma suave. Si huelen a pintura rancia o cartón viejo, o tienen un sabor fuertemente amargo, están rancias. Si observa moho visible, deséchelas inmediatamente por riesgo de aflatoxinas."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver les noix fraîches : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les noix selon les directives officielles de sécurité.",
+        "authority": "USDA & MFDS & CWC",
+        "intro": "Avez-vous déjà goûté une noix pour y trouver un désagréable goût amer et une odeur de rance ? 🥜\n\nLes noix détiennent la plus forte teneur en acide alpha-linolénique (ALA, un oméga-3 végétal) parmi tous les fruits à coque (~9–10 %). Bien que ces acides gras polyinsaturés soient excellents pour la santé, ils subissent une auto-oxydation rapide s'ils sont exposés à l'oxygène, la lumière et la chaleur, produisant des composés volatiles rances comme le hexanal.\n\nBasé sur les conseils officiels de la California Walnut Commission (CWC), du USDA et du MFDS, ce guide présente 3 étapes scientifiques pour préserver la saveur et la qualité nutritionnelle de vos noix. 🛡️",
+        "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Le stockage à température ambiante accélère l'oxydation des lipides ⚠️",
+            "desc": "Laisser les noix à température ambiante (au-dessus de 20 °C) exposées à l'air et à la lumière brise les doubles liaisons des graisses insaturées. En 1 à 2 mois, elles développent une odeur de peinture rance et une forte amertume."
+          },
+          {
+            "title": "Protégez-les totalement de l'humidité et des odeurs environnantes 🛑",
+            "desc": "Riches en graisses, les noix absorbent facilement les odeurs fortes (ail, oignon). De plus, l'humidité favorise la moisissure Aspergillus et la formation d'aflatoxines toxiques."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Conserver au réfrigérateur dans un récipient hermétique jusqu'à 6 mois — Stockage réfrigéré (180 jours) ❄️",
+            "text": "Le froid ralentit considérablement la vitesse d'oxydation des lipides des noix. 💡 Astuce de conservation : Placez les cerneaux de noix dans un bocal hermétique en verre ou un sac sous vide dans le bac à légumes (0–4 °C). Elles garderont leur fraîcheur pendant 6 mois."
+          },
+          {
+            "name": "Congeler dans un emballage hermétique pour une conservation longue durée — Congélation (365+ jours) 🧊",
+            "text": "À des températures inférieures à -18 °C, l'oxydation des lipides s'arrête pratiquement. 💡 Astuce de conservation : Portez les noix en portions individuelles dans des récipients hermétiques pour congélateur. Vous pouvez les utiliser directement en cuisine sans décongélation."
+          },
+          {
+            "name": "Utiliser des récipients hermétiques pour bloquer l'oxygène et les odeurs — Scellage étanche 🧴",
+            "text": "Laisser les noix dans un sachet ouvert permet à leur couche de graisse d'absorber les odeurs du frigo. 💡 Astuce de conservation : Privilégiez les récipients hermétiques opaques ou en verre. Un sachet absorbeur d'oxygène augmente encore la protection."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi les noix rancissent-elles plus vite que les autres fruits à coque à température ambiante ?",
+            "answer": "Parce qu'elles contiennent une proportion très élevée d'acides gras polyinsaturés oméga-3 (ALA). Exposées à l'air, à la lumière et à plus de 20 °C, ces graisses s'oxydent rapidement pour former du hexanal responsables du rancissement."
+          },
+          {
+            "question": "Comment savoir si des noix sont rances ou périmées ?",
+            "answer": "Des noix fraîches sont de couleur ivoire à ambrée avec une odeur douce. Si elles sentent la peinture rance ou le carton moisi, ou si elles ont un goût très amer, elles sont rances. Jetez immédiatement toute noix présentant des traces de moisissure à cause des aflatoxines."
+          }
+        ]
+      },
+      "de": {
+        "title": "Walnüsse richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Walnüsse basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "USDA & MFDS & CWC",
+        "intro": "Haben Sie schon einmal in eine Walnuss gebissen und einen stechenden, ranzigen Geruch und bitteren Geschmack bemerkt? 🥜\n\nWalnüsse weisen unter allen Schalenfrüchten den höchsten Gehalt an pflanzlicher Omega-3-Fettsäure (Alpha-Linolensäure, ALA) auf (~9–10 %). Obwohl diese mehrfach ungesättigten Fettsäuren extrem gesund sind, unterliegen sie bei Kontakt mit Sauerstoff, Licht und Wärme einer schnellen Autoxidation, wodurch ranzige Verbindungen wie Hexanal entstehen.\n\nIn diesem Ratgeber stellen wir Ihnen auf Basis offizieller Empfehlungen der California Walnut Commission (CWC), der USDA und der MFDS eine wissenschaftliche 3-Schritte-Methode vor, um Geschmack und Nährstoffe zu bewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Lagerung bei Raumtemperatur beschleunigt die Fettoxidation ⚠️",
+            "desc": "Wenn Walnüsse bei Raumtemperatur (über 20 °C) Luft und Licht ausgesetzt sind, brechen die Doppelbindungen der ungesättigten Fettsäuren auf. Bereits nach 1–2 Monaten entwickeln sie einen ranzigen Farb- bzw. Lackgeruch und unangenehmen bitteren Geschmack."
+          },
+          {
+            "title": "Schützen Sie Walnüsse komplett vor Feuchtigkeit und Fremdgerüchen 🛑",
+            "desc": "Fettreiche Walnüsse nehmen leicht starke Gerüche (z. B. Knoblauch, Zwiebeln) auf. Hohe Luftfeuchtigkeit begünstigt zudem das Wachstum von Aspergillus-Schimmelpilzen und die Bildung toxischer Aflatoxine."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Im Kühlschrank in einem luftdichten Behälter bis zu 6 Monate lagern — Kühllagerung (180 Tage) ❄️",
+            "text": "Kühle Temperaturen verlangsamen die Lipidoxidation bei Walnüssen erheblich. 💡 Lagerungstipp: Geben Sie geschälte Walnusskerne in ein luftdichtes Glas oder einen gefriergeeigneten Beutel und lagern Sie sie im Gemüsefach (0–4 °C)."
+          },
+          {
+            "name": "Für Langzeitlagerung luftdicht eingefrieren — Gefrierlagerung (365+ Tage) 🧊",
+            "text": "Bei Temperaturen unter -18 °C kommt die Fettsäureoxidation praktisch zum Stillstand. 💡 Lagerungstipp: Portionsweise in gefriergeeigneten Dosen einfrieren. Sie können ohne Auftauen direkt zum Kochen oder Backen verwendet werden."
+          },
+          {
+            "name": "Luftdichte Behälter nutzen, um Sauerstoff und Fremdgerüche fernzuhalten — Luftdichter Verschluss 🧴",
+            "text": "Offene Verpackungen führen dazu, dass die Fettschicht der Walnüsse Kühlschrankgerüche aufnimmt. 💡 Lagerungstipp: Verwenden Sie dunkle oder gläserne luftdichte Behälter. Ein Sauerstoffabsorber im Behälter maximiert den Frischeschutz."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum werden Walnüsse bei Raumtemperatur schneller ranzig als andere Nüsse?",
+            "answer": "Weil sie einen besonders hohen Anteil an mehrfach ungesättigten Omega-3-Fettsäuren (ALA) besitzen. Bei Einwirkung von Sauerstoff, Licht und Temperaturen über 20 °C setzt die Autoxidation ein und bildet rasch Hexanal."
+          },
+          {
+            "question": "Woran erkenne ich, ob Walnüsse ranzig oder verdorben sind?",
+            "answer": "Frische Walnüsse sind elfenbeinfarben bis bernsteinfarben und schmecken mild-nussig. Riechen sie nach alter Farbe oder Karton oder schmecken sie stark bitter, sind sie ranzig. Werfen Sie Walnüsse mit Schimmelspuren wegen Aflatoxingehr sofort weg."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar nozes frescas: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para nozes com base em diretrizes oficiais de segurança.",
+        "authority": "USDA & MFDS & CWC",
+        "intro": "Você já comeu uma noz e sentiu um gosto amargo e um odor forte de gordura râncida? 🥜\n\nAs nozes possuem o maior teor de ácido alfa-linolênico (ALA, um ômega-3 vegetal) entre as oleaginosas (~9–10%). Embora essas gorduras poli-insaturadas sejam extremamente saudáveis, sofrem rápida auto-oxidação quando expostas ao oxigênio, luz e calor, gerando compostos voláteis râncios como o hexanal.\n\nNeste guia, baseado em recomendações oficiais da Comissão de Nozes da Califórnia (CWC), do USDA e do MFDS, apresentamos um método científico em 3 etapas para preservar o sabor e a crocância das nozes. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "O armazenamento em temperatura ambiente acelera a oxidação lipídica ⚠️",
+            "desc": "Deixar nozes expostas ao ar e à luz em temperatura ambiente (acima de 20 °C) quebra as ligações duplas das gorduras insaturadas. Em 1 a 2 meses elas desenvolvem cheiro râncio de tinta e sabor amargo."
+          },
+          {
+            "title": "Proteja totalmente contra umidade e odores externos 🛑",
+            "desc": "Ricas em gorduras, as nozes absorvem facilmente odores fortes de alimentos próximos (alho, cebola). A alta umidade também estimula fungos Aspergillus e contaminação por aflatoxinas."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Guarde em recipiente hermético na geladeira por até 6 meses — Refrigeração (180 dias) ❄️",
+            "text": "Temperaturas baixas desaceleram significativamente a taxa de oxidação das nozes. 💡 Dica de conservação: Coloque as nozes descascadas em um pote de vidro hermético na gaveta de legumes (0–4 °C). O frescor dura 6 meses."
+          },
+          {
+            "name": "Congele em embalagens herméticas para longa conservação — Congelamento (365+ dias) 🧊",
+            "text": "A temperaturas abaixo de -18 °C, a oxidação dos lipídios praticamente é interrompida. 💡 Dica de conservação: Separe as nozes em porções e guarde-as em potes herméticos próprios para congelador. Podem ser usadas diretamente sem descongelar."
+          },
+          {
+            "name": "Use potes herméticos para isolar o oxigênio e odores — Vedação hermética 🧴",
+            "text": "Deixar nozes em sacos abertos faz com que sua gordura absorva odores da geladeira. 💡 Dica de conservação: Dê preferência a potes de vidro ou opacos herméticos para bloquear luz e oxigênio."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que as nozes ranceiam mais rápido que outras oleaginosas em temperatura ambiente?",
+            "answer": "Porque possuem uma proporção muito alta de ácidos graxos poli-insaturados ômega-3 (ALA). A exposição ao ar, luz e calor acima de 20 °C acelera a auto-oxidação, formando rapidamente hexanal."
+          },
+          {
+            "question": "Como saber se as nozes estão râncidas ou estragadas?",
+            "answer": "Nozes frescas têm cor marfim claro a âmbar e cheiro suave. Se cheirarem a tinta velha ou papelão e tiverem gosto amargo, estão râncidas. Se houver mofo visível, descarte-as imediatamente pelo risco de aflatoxinas."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Kacang Walnut agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk kacang walnut berdasarkan pedoman keselamatan resmi.",
+        "authority": "USDA & MFDS & CWC",
+        "intro": "Pernahkah Anda memakan kacang walnut lalu merasakan bau tengik yang tajam dan rasa pahit? 🥜\n\nWalnut memiliki kandungan asam lemak omega-3 nabati (asam alfa-linolenat, ALA) tertinggi di antara jenis kacang-kacangan (~9–10%). Meskipun sangat sehat, lemak tak jenuh ganda ini mengalami autoksidasi cepat saat terpapar oksigen, cahaya, dan panas, menghasilkan senyawa tengik seperti heksanal.\n\nBerdasarkan panduan resmi California Walnut Commission (CWC), USDA, dan MFDS, panduan 3 langkah ini membagikan metode ilmiah untuk menjaga kerenyahan dan nutrisi walnut Anda. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Menyimpan pada suhu ruang mempercepat oksidasi lemak ⚠️",
+            "desc": "Membiarkan walnut terpapar udara dan cahaya pada suhu ruangan (di atas 20°C) merusak ikatan ganda lemak tak jenuh. Dalam 1–2 bulan, walnut akan mengeluarkan bau cat tengik dan rasa pahit."
+          },
+          {
+            "title": "Lindungi dari kelembapan dan bau menyengat 🛑",
+            "desc": "Kandungan lemak walnut yang tinggi membuatnya mudah menyerap bau dari makanan sekitar (seperti bawang). Kelembapan tinggi juga dapat memicu jamur Aspergillus dan racun aflatoksin."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Simpan di wadah kedap udara dalam kulkas hingga 6 bulan — Simpan Dingin (180 Hari) ❄️",
+            "text": "Suhu dingin memperlambat laju oksidasi lemak pada walnut secara signifikan. 💡 Tips Penyimpanan: Masukkan walnut kupas ke wadah kaca kedap udara di laci kulkas (0–4°C). Kesegarannya bertahan hingga 6 bulan."
+          },
+          {
+            "name": "Bekukan dalam wadah kedap udara untuk penyimpanan jangka panjang — Simpan Beku (365+ Hari) 🧊",
+            "text": "Pada suhu di bawah -18°C, oksidasi lemak praktis terhenti. 💡 Tips Penyimpanan: Bagi walnut dalam porsi sekali makan lalu simpan di wadah kedap udara khusus freezer. Dapat langsung digunakan tanpa perlu didefrost."
+          },
+          {
+            "name": "Gunakan wadah kedap udara untuk menghalangi oksigen dan bau — Segel Kedap Udara 🧴",
+            "text": "Membiarkan walnut di kemasan terbuka membuat lapisan lemaknya menyerap bau kulkas. 💡 Tips Penyimpanan: Gunakan wadah kaca atau wadah buram kedap udara untuk menghalangi cahaya dan oksigen."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa walnut lebih cepat tengik dibanding kacang lain pada suhu ruang?",
+            "answer": "Walnut mengandung asam lemak tak jenuh ganda omega-3 (ALA) yang sangat tinggi. Paparan oksigen, cahaya, dan suhu di atas 20°C mempercepat reaksi autoksidasi yang membentuk senyawa heksanal penyabab bau tengik."
+          },
+          {
+            "question": "Bagaimana cara mengetahui jika walnut sudah tengik atau rusak?",
+            "answer": "Walnut segar berwarna gading terang hingga amber dengan aroma gurih lembut. Jika berbau seperti cat tua atau kardus basah serta terasa sangat pahit, walnut sudah tengik. Jika terlihat berjamur, segera buang karena risiko racun aflatoksin."
+          }
+        ]
+      }
     }
+  }
 }

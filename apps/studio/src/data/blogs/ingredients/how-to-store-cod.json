@@ -1,406 +1,406 @@
 {
-    "how-to-store-cod": {
-        "ingId": "cod",
-        "pubDate": "2026-02-05",
-        "updatedDate": "2026-02-05",
-        "heroImage": "/images/blog/cod_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "대구 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 대구의 최적 보관 온도, 비린내(TMA) 발생 원인 차단 및 단백질 변성 방지 가이드를 확인하세요.",
-                "authority": "국립수산과학원(NIFS) & 미국 해양대기청(NOAA) & 食品医薬品安全処(MFDS)",
-                "intro": "담백하고 부드러운 살점이 일품으로 피시앤칩스, 바칼라우, 대구탕 등 전 세계에서 가장 사랑받는 대표적인 흰살생선 대구! 하지만 신선하게 보관하지 못해 살이 수축해 부스러지거나 강한 비린내(어취)가 나서 버린 경험 다들 있으시죠? 🐟\n\n신선한 대구 어육에는 원래 냄새가 없는 **트리메틸아민 옥사이드(TMAO)**가 풍부하게 함유되어 있습니다. 하지만 포획 및 사후 시간이 지나면서 슈도모나스(Pseudomonas) 등 미생물의 효소 작용으로 인해 TMAO가 강한 어취를 유발하는 **트리메틸아민(TMA)**으로 환원됩니다. 또한 대구의 미오신 단백질은 다른 생선에 비해 냉동 시 구조가 쉽게 변성되어 결합조직이 파괴되고 식감이 푸석해지기 쉽습니다.\n\n이번 가이드에서는 수산 및 식품 안전 기관의 공인된 지침을 바탕으로, 대구의 비린내 발생을 근본적으로 억제하고 탱글한 식감을 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "어육 표면의 수분(드립)을 철저히 제거하세요 💧",
-                        "desc": "대구 표면에 흘러나온 수분(드립)은 미생물 번식의 온상이 되며, TMAO가 TMA로 환원되는 화학 반응을 가속화하여 강한 비린내를 유발합니다. 보관 전 키친타월이나 흡습지로 표면 수분을 꼼꼼히 닦아내야 합니다."
-                    },
-                    {
-                        "title": "공기 노출과 온도 변화를 최소화하세요 ⚠️",
-                        "desc": "지방 함량이 적은 대구는 산소와 접촉하면 단백질 변성이 빨리 일어나 살이 퍽퍽해지고, 미생물 증식이 촉진됩니다. 0~1°C의 극저온을 유지하면서 밀폐하여 공기 접촉을 완벽히 차단해야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "수분 제거 후 키친타월과 랩으로 밀착 포장하기 — 수분 흡습 및 공기 차단 📦",
-                        "text": "대구 어육 표면의 수분을 키친타월로 완벽히 닦아낸 뒤, 식품용 흡습 지나 키친타월로 감싸고 랩으로 빈틈없이 밀착 밀봉하세요. 💡 보관 팁: 어육에서 배어나오는 수분을 즉시 흡수하고 공기 접촉을 차단함으로써 TMAO의 환원 반응과 단백질 구조 파괴를 1차적으로 방지할 수 있습니다."
-                    },
-                    {
-                        "name": "0~1℃ 얼음 접촉 냉장 보관하기 — 극저온 신선 보관 (1~2일) ❄️",
-                        "text": "대구 어육의 부패 및 어취 발생을 막기 위한 최적 온도는 0~1℃의 극저온입니다. 💡 보관 팁: 랩으로 밀봉한 대구를 밀폐 용기에 담고, 밀폐 용기 아래위로 얼음팩을 대어 0~1℃ 환경을 만들어 냉장 보관하세요. 슈도모나스균 등 세균 증식이 정지되어 1~2일간 극상의 신선도를 유지할 수 있습니다."
-                    },
-                    {
-                        "name": "진공 포장 후 -18℃ 이하 급속 냉동 보관하기 — 단백질 변성 방지 냉동 (3개월) 🧊",
-                        "text": "대구를 오래 보관하려면 살집의 단백질 변성(단백질 동결 변성)을 최소화해야 합니다. 💡 보관 팁: 어육 표면 수분을 제거한 뒤 진공 포장기나 지퍼백의 공기를 완전히 빼서 밀봉하고 냉동실(-18℃ 이하)에서 급속 냉동하세요. 얼음 결정이 크게 생기는 것을 막아 3개월 이상 비린내 없이 탱글한 식감을 유지할 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "대구에서 나는 비린내를 효과적으로 제거하는 방법이 있나요?",
-                        "answer": "조리 전 대구를 쌀뜨물이나 우유에 10~15분간 담가두면 우유 단백질(카제인)과 쌀뜨물의 녹말 성분이 비린내 원인 물질인 트리메틸아민(TMA)을 흡착하여 깔끔하게 제거해 줍니다. 또한 레몬즙이나 식초를 살짝 바르면 약산성 성분이 TMA를 중화시켜 어취가 현저히 줄어듭니다."
-                    },
-                    {
-                        "question": "냉동했던 대구를 해동할 때 가장 좋은 방법은 무엇인가요?",
-                        "answer": "급격한 온도 변화로 인한 수분 유출(드립 현상)과 단백질 변성을 막기 위해, 드시기 12~24시간 전 냉장실(0~4℃)로 옮겨 천천히 완만 해동하는 것이 가장 좋습니다. 성급하게 따뜻한 물이나 전자레인지로 해동하면 살이 수축하고 푸석해지며 비린내가 심해집니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Cod Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for cod based on official safety guidelines to prevent TMA fishy odor and protein denaturation.",
-                "authority": "NIFS & NOAA & USDA & MFDS",
-                "intro": "Famous for its mild flavor and tender white flakes, cod is one of the world's most beloved fish, featured in Fish & Chips, Bacalhau, and savory stews! However, have you ever stored cod only to find it emitting a strong fishy odor or becoming mushy and falling apart? 🐟\n\nFresh cod flesh naturally contains odorless **trimethylamine oxide (TMAO)**. Over time after harvest, microbial enzymes (such as *Pseudomonas*) reduce TMAO into **trimethylamine (TMA)**, the primary chemical compound responsible for strong fishy off-odors. Additionally, cod's myosin proteins are particularly susceptible to rapid freeze denaturation, breaking connective tissues and making the texture dry and mealy if improperly frozen.\n\nIn this guide, we introduce a scientifically proven 3-step cod storage guide based on guidelines from leading marine and food safety authorities to suppress fishy odors and preserve its firm texture. 🛡️",
-                "whyTitle": "Why Store Cod This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Thoroughly wipe off surface moisture (drip) 💧",
-                        "desc": "Drip released on the cod's surface serves as a breeding ground for microorganisms and accelerates the reduction of TMAO to TMA, causing a strong fishy odor. Always wipe the flesh completely dry with absorbent paper towels before storing."
-                    },
-                    {
-                        "title": "Minimize oxygen exposure and temperature fluctuations ⚠️",
-                        "desc": "Lean cod flesh undergoes rapid protein denaturation when exposed to oxygen, leading to dry texture and microbial growth. Keep cod sealed tightly at 0–1°C to block air contact and temperature spikes."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Wipe moisture dry and wrap tightly — Absorb Moisture & Block Air 📦",
-                        "text": "Thoroughly wipe surface moisture off the cod fillet, wrap it in absorbent paper towels or food-grade paper, and seal tightly with plastic wrap. 💡 Storage Tip: Absorbing exuded moisture and blocking air contact prevents TMAO reduction and tissue breakdown."
-                    },
-                    {
-                        "name": "Store at 0–1°C surrounded by ice — Ultra-Cold Refrigeration (1–2 Days) ❄️",
-                        "text": "The optimal temperature to prevent cod spoilage and odor formation is 0–1°C (32–34°F). 💡 Storage Tip: Place wrapped cod in an airtight container with ice packs surrounding it in the fridge. This halts bacterial growth like *Pseudomonas*, maintaining peak freshness for 1 to 2 days."
-                    },
-                    {
-                        "name": "Vacuum-seal and flash freeze below -18°C — Freezer Storage (3 Months) 🧊",
-                        "text": "To preserve cod long-term, you must minimize myosin protein freeze denaturation. 💡 Storage Tip: Wipe surface dry, vacuum-seal (or remove all air from a freezer Ziploc bag), and flash freeze below -18°C (0°F). Preventing large ice crystal formation ensures firm texture without fishy smell for over 3 months."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "What is the best way to remove fishy odors from cod before cooking?",
-                        "answer": "Soaking cod in rice water or milk for 10–15 minutes allows milk proteins (casein) or starch particles to absorb trimethylamine (TMA). Additionally, lightly applying lemon juice or vinegar neutralizes TMA due to weak acidity, significantly reducing odors."
-                    },
-                    {
-                        "question": "What is the best way to thaw frozen cod?",
-                        "answer": "To prevent drip loss and protein denaturation caused by sudden temperature changes, transfer frozen cod to the refrigerator (0–4°C / 32–39°F) 12–24 hours before cooking for slow thawing. Thawing in warm water or a microwave causes muscle tissue shrinkage, mealiness, and strong fishy odors."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "タラを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくタラの最適な保存温度、トリメチルアミン（TMA）臭の遮断、タンパク質変性防止ガイドをご確認ください。",
-                "authority": "国立水産科学院(NIFS) & 米国海洋大気庁(NOAA) & 食品医薬品安全処(MFDS)",
-                "intro": "淡白で柔らかい身が特徴で、フィッシュアンドチップスやバカリャウ（塩鱈）、鍋料理など世界中で愛される白身魚のタラ（鱈）！ですが、保存方法が良くないとすぐに身が崩れたり、強い生臭さが発生して台無しになった経験はありませんか？🐟\n\nタラの魚肉には本来無臭の**トリメチルアミンオキサイド（TMAO）**が豊富に含まれています。しかし、死後時間が経過するとシュードモナス（Pseudomonas）などの微生物の酵素作用によってTMAOが還元され、強い魚臭の原因物質である**トリメチルアミン（TMA）**に変化します。また、タラのミオシンタンパク質は冷凍時に構造変性を起こしやすく、食感がパサつきやすい特徴があります。\n\n本記事では、水産・食品安全機関のガイドラインに基づき、生臭さの発生を根本から抑え、プリッとした食感を守る3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "魚肉表面の水分（ドリップ）を徹底的に拭き取ってください 💧",
-                        "desc": "タラの表面に出た水分（ドリップ）は雑菌繁殖の温床となり、TMAOがTMAに還元される反応を加速させて強い生臭さを発生させます。保存前にペーパータオル等で水分をしっかり拭き取ることが不可欠です。"
-                    },
-                    {
-                        "title": "空気への露出と温度変化を最小限に抑えてください ⚠️",
-                        "desc": "脂質が少ないタラは酸素に触れるとタンパク質変性が急速に進み、身がパサついて細菌が繁殖しやすくなります。0〜1℃の極低温を維持し、密閉して空気を完全に遮断してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "水分を拭き取りペーパーとラップで密着包装する — 水分吸収＆空気遮断 📦",
-                        "text": "タラの切り身の表面の水分を完全に拭き取った後、ペーパータオルで包み、ラップで隙間なく密着密閉します。💡保存のコツ：染み出る水分を吸収し空気との接触を遮断することで、TMAOの還元反応と組織の破壊を一次的に防ぐことができます。"
-                    },
-                    {
-                        "name": "0〜1℃の氷冷環境で冷蔵保存する — 極低温鮮度保存 (1〜2日間) ❄️",
-                        "text": "タラの腐敗と魚臭発生を防ぐ最適温度は0〜1℃の極低温です。💡保存のコツ：ラップで密閉したタラを密閉容器に入れ、保冷剤や氷で包み込むようにして0〜1℃を保ち冷蔵庫で保存します。シュードモナス菌などの繁殖が停止し、1〜2日間最高の鮮度を維持できます。"
-                    },
-                    {
-                        "name": "真空パック後-18℃以下で急速冷凍保存する — タンパク質変性防止 (3ヶ月) 🧊",
-                        "text": "タラを長期保存するには、ミオシンタンパク質の冷凍変性を最小限に抑える必要があります。💡保存のコツ：水分を拭き取った後、真空パック機やジッパー袋で空気を完全に抜いて密閉し、冷凍室（-18℃以下）で急速冷凍します。大きな氷結晶の発生を防ぎ、3ヶ月以上生臭さなく食感を保てます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "タラの生臭さを効果的に消す方法はありますか？",
-                        "answer": "調理前にタラを米のとぎ汁や牛乳に10〜15分ほど浸しておくと、牛乳のタンパク質（カゼイン）やとぎ汁のデンプン質がトリメチルアミン（TMA）を吸着して綺麗に取り除いてくれます。また、レモン汁や酢を軽くかけると弱酸性がTMAを中和し、臭いが大幅に軽減されます。"
-                    },
-                    {
-                        "question": "冷凍したタラを解凍する際、最も良い方法は何ですか？",
-                        "answer": "急激な温度変化によるドリップ（旨味成分の流出）やタンパク質の変性を防ぐため、調理の12〜24時間前に冷蔵室（0〜4℃）に移して低温でゆっくり解凍するのがベストです。ぬるま湯や電子レンジで急激に解凍すると、身が縮んでパサつき、生臭さが強くなります。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持鳕鱼新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解鳕鱼的最佳储存温度、抑制氧化三甲胺（TMAO）降解产生的鱼腥味及防止蛋白质变性的科学方法。",
-                "authority": "韩国国立水产科学院(NIFS) & 美国海洋大气局(NOAA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "鳕鱼作为炸鱼薯条（Fish & Chips）、腌鳕鱼（Bacalhau）及各类鲜鱼汤的主角，是全球消费量最大的白肉鱼之一！然而，您是否有过因储存不当导致鳕鱼肉质松散或散发强烈鱼腥味的经历？🐟\n\n新鲜鳕鱼肉中含有无味的**氧化三甲胺（TMAO）**。然而捕捞后随着时间推移，在假单胞菌（Pseudomonas）等微生物的酶促作用下，TMAO会被还原为具有强烈腥味的**三甲胺（TMA）**。此外，鳕鱼中的肌球蛋白（Myosin）在冷冻时结构极易发生变性，导致解冻后肉质破坏、口感发绵发柴。\n\n本指南基于权威水产与食品安全机构的指导方针，为您介绍3步科学鳕鱼保存秘诀，从根本上抑制腥味并锁住紧实口感。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "务必彻底擦干鱼肉表面的渗出液（血水/汁液） 💧",
-                        "desc": "鳕鱼表面渗出的水分是微生物滋生的温床，会加速TMAO还原为TMA的化学反应，产生强烈腥味。储存前必须用厨房纸巾将表面水分彻底吸干。"
-                    },
-                    {
-                        "title": "尽量减少空气接触与温度波动 ⚠️",
-                        "desc": "脂肪含量较低的鳕鱼在接触氧气时蛋白质变性极快，会导致肉质发柴并促进细菌繁殖。应保持在0~1℃极低温下密封保存，完全阻隔空气。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "擦干水分后用吸水纸和保鲜膜紧密包裹 — 锁水防氧化 📦",
-                        "text": "用厨房纸巾吸干鳕鱼切片表面的水分，用食品级吸水纸包好，再用保鲜膜无缝紧密包裹。💡储存小贴士：及时吸收渗液并阻隔空气，能从源头上阻止TMAO还原反应和蛋白质结构破坏。"
-                    },
-                    {
-                        "name": "0~4℃铺冰冷藏保存 — 极低温冰镇冷藏 (1~2天) ❄️",
-                        "text": "防止鳕鱼腐败和腥味产生的最佳温度是0~1℃极低温。💡储存小贴士：将裹好的鳕鱼放入密封盒，在盒子上下铺放冰袋，营造0~1℃的冰镇环境冷藏。这能抑制假单胞菌等细菌繁殖，维持1~2天极佳新鲜度。"
-                    },
-                    {
-                        "name": "抽真空后在-18℃以下急冻 — 防蛋白质变性冷冻 (3个月) 🧊",
-                        "text": "长期保存鳕鱼的关键在于减少肌球蛋白的冷冻变性。💡储存小贴士：吸干表面水分后抽真空密封，放入冷冻室（-18℃以下）急冻。防止大冰晶形成，可保存3个月以上且解冻后无腥味、肉质紧实。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "有什么有效去鳕鱼腥味的小窍门吗？",
-                        "answer": "烹饪前将鳕鱼浸泡在淘米水或牛奶中10~15分钟，牛奶中的酪蛋白和淘米水中的淀粉成分可以吸附腥味来源三甲胺（TMA）。此外，涂抹少许柠檬汁或食汁，弱酸性成分能中和TMA，显著降低鱼腥味。"
-                    },
-                    {
-                        "question": "冷冻鳕鱼的最佳解冻方式是什么？",
-                        "answer": "为防止温度骤变导致营养汁液流失和蛋白质变性，建议在烹饪前12~24小时移入冰箱冷藏室（0~4℃）缓慢解冻。切勿用热水或微波炉急剧解冻，否则会导致鱼肉收缩发柴、腥味加重。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener el bacalao fresco: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para el bacalao según las directrices oficiales para evitar el olor a pescado (TMA) y la desnaturalización de proteínas.",
-                "authority": "NIFS & NOAA & USDA & MFDS",
-                "intro": "Famoso por su sabor suave y jugosas lascas, el bacalao es uno de los pescados blancos más consumidos del mundo, protagonista del Fish & Chips, el bacalao salado y exquisitos guisos. Sin embargo, ¿alguna vez lo guardó solo para descubrir que emitía un fuerte olor a pescado o que se desmoronaba? 🐟\n\nLa carne de bacalao fresca contiene **óxido de trimetilamina (TMAO)**, un compuesto inodoro. Con el tiempo, la acción enzimática de microorganismos como *Pseudomonas* reduce el TMAO a **trimetilamina (TMA)**, la sustancia responsable del olor rancio a pescado. Además, las proteínas de miosina del bacalao son muy propensas a la desnaturalización por congelación, volviendo su textura harinosa si no se congela adecuadamente.\n\nEn esta guía se presenta una guía científica de conservación en 3 pasos respaldada por autoridades marítimas y de seguridad alimentaria para evitar olores y mantener una textura firme. 🛡️",
-                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-                "whyDesc": "Comprender las características únicas de cada ingrediente y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Retire minuciosamente la humedad superficial (drip) 💧",
-                        "desc": "El líquido liberado en la superficie del bacalao sirve como caldo de cultivo para microorganismos y acelera la reducción de TMAO a TMA, generando un fuerte olor a pescado. Séquelo bien con papel absorbente antes de guardar."
-                    },
-                    {
-                        "title": "Minimice la exposición al oxígeno y los cambios de temperatura ⚠️",
-                        "desc": "La carne magra de bacalao sufre una rápida desnaturalización de sus proteínas al contacto con el oxígeno, lo que ablanda el tejido y favorece las bacterias. Manténgalo sellado a 0–1 °C para bloquear el aire."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Seque la humedad y envuelva firmemente — Absorción & Bloqueo de Aire 📦",
-                        "text": "Seque completamente la humedad superficial del filete de bacalao, envuélvalo en papel absorbente y séllelo bien con film transparente. 💡 Consejo de almacenamiento: Absorber el líquido retenido y bloquear el aire evita la conversión de TMAO y el deterioro del tejido."
-                    },
-                    {
-                        "name": "Conserve a 0–1 °C rodeado de hielo — Refrigeración Ultrarrápida (1 a 2 días) ❄️",
-                        "text": "La temperatura óptima para evitar la descomposición y los malos olores del bacalao es de 0 a 1 °C. 💡 Consejo de almacenamiento: Coloque el bacalao envuelto en un recipiente hermético con compresas de hielo alrededor dentro del refrigerador. Esto frena el crecimiento bacteriano de *Pseudomonas* hasta por 2 días."
-                    },
-                    {
-                        "name": "Selle al vacío y congele por debajo de -18 °C — Congelación (3 meses) 🧊",
-                        "text": "Para conservar el bacalao a largo plazo, debe minimizar la desnaturalización de la miosina. 💡 Consejo de almacenamiento: Seque la superficie, selle al vacío en bolsas para congelador y congele a -18 °C. Evitar grandes cristales de hielo mantiene la carne firme sin mal olor por más de 3 meses."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Existe algún método eficaz para eliminar el olor a pescado del bacalao?",
-                        "answer": "Remojar el bacalao en agua de arroz o leche durante 10 a 15 minutos ayuda a que las proteínas de la leche (caseína) o el almidón absorban la trimetilamina (TMA). Además, aplicar un poco de jugo de limón o vinagre neutraliza la TMA reduciendo notablemente el olor."
-                    },
-                    {
-                        "question": "¿Cuál es la mejor manera de descongelar el bacalao congelado?",
-                        "answer": "Para evitar la pérdida de jugos y la desnaturalización de las proteínas por cambios bruscos de temperatura, pase el bacalao al refrigerador (0–4 °C) de 12 a 24 horas antes de cocinar. Descongelar en agua caliente o microondas destruye la textura y aumenta el olor rancio."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver la morue fraîche : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la morue (cabillaud) selon les directives officielles pour éviter l'odeur de poisson (TMA) et la dénaturation des protéines.",
-                "authority": "NIFS & NOAA & USDA & MFDS",
-                "intro": "Réputé pour sa chair tendre et feuilletée, le cabillaud (morue) est l'un des poissons blancs les plus consommés au monde, vedette du Fish & Chips, de la bacalhau et de délicieux bouillons ! Cependant, avez-vous déjà conservé du cabillaud pour constater qu'il dégageait une forte odeur de poisson ou qu'il s'effritait ? 🐟\n\nLa chair fraîche du cabillaud contient naturellement de l'**oxyde de triméthylamine (TMAO)**, un composé inodore. Après la pêche, sous l'action enzymatique de bactéries telles que *Pseudomonas*, le TMAO est réduit en **triméthylamine (TMA)**, responsable de la forte odeur de poisson. De plus, les protéines de myosine du cabillaud subissent rapidement une dénaturation à la congélation, rendant la chair sèche s'il est mal congelé.\n\nDans ce guide, nous vous présentons une méthode scientifique en 3 étapes basée sur les recommandations des organismes de sécurité alimentaire pour supprimer les odeurs et préserver une texture ferme. 🛡️",
-                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Épongez soigneusement l'humidité de surface (drip) 💧",
-                        "desc": "L'eau qui s'écoule du cabillaud favorise la multiplication bactérienne et accélère la réduction du TMAO en TMA, générant une odeur désagréable. Essuyez toujours le poisson avec du papier absorbant avant de le ranger."
-                    },
-                    {
-                        "title": "Limitez l'exposition à l'oxygène et aux variations de température ⚠️",
-                        "desc": "La chair maigre du cabillaud subit une dénaturation rapide de ses protéines au contact de l'air, devenant sèche. Conservez-le hermétiquement à 0–1 °C pour bloquer l'air."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Sécher et envelopper hermétiquement — Papier Absorbant & Film Étirable 📦",
-                        "text": "Épongez parfaitement l'humidité de surface du filet de cabillaud, enveloppez-le dans du papier absorbant, puis scellez-le hermétiquement avec du film plastique. 💡 Astuce de conservation : Éliminer l'eau de surface empêche la dégradation du TMAO et protège les tissus."
-                    },
-                    {
-                        "name": "Conserver à 0–1 °C entouré de glace — Réfrigération Ultra-Froide (1–2 jours) ❄️",
-                        "text": "La température idéale pour prévenir la dégradation du cabillaud est de 0 à 1 °C. 💡 Astuce de conservation : Placez le cabillaud emballé dans une boîte hermétique entourée de pains de glace au réfrigérateur. Cela bloque la croissance des bactéries *Pseudomonas*."
-                    },
-                    {
-                        "name": "Mettre sous vide et congeler sous -18 °C — Congélation (3 mois) 🧊",
-                        "text": "Pour conserver le cabillaud longtemps, il faut limiter la dénaturation de la myosine. 💡 Astuce de conservation : Épongez la surface, mettez sous vide (ou videz l'air d'un sachet congélation) et congelez rapidement sous -18 °C. Cela préserve la texture sans odeur pendant plus de 3 mois."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Existe-t-il une méthode efficace pour éliminer l'odeur de poisson du cabillaud ?",
-                        "answer": "Faire tremper le cabillaud dans du lait ou de l'eau de riz pendant 10 à 15 minutes permet aux protéines du lait (caséine) ou à l'amidon d'absorber la triméthylamine (TMA). De plus, un filet de jus de citron ou de vinaigre neutralise la TMA grâce à son acidité, réduisant fortement l'odeur."
-                    },
-                    {
-                        "question": "Quelle est la meilleure façon de décongeler du cabillaud ?",
-                        "answer": "Pour éviter la perte de jus et la dénaturation des protéines liées au choc thermique, déplacez le cabillaud au réfrigérateur (0–4 °C) 12 à 24 heures avant la cuisson. La décongélation à l'eau chaude ou au micro-ondes abîme la chair et accentue l'odeur de poisson."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Kabeljau richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Kabeljau (Dorsch) basierend auf offiziellen Sicherheitsrichtlinien zur Vermeidung von Fischgeruch (TMA) und Proteindenaturierung.",
-                "authority": "NIFS & NOAA & USDA & MFDS",
-                "intro": "Bekannt für sein zartes, weißes Fleisch ist der Kabeljau (Dorsch) einer der meistkonsumierten Speisefische der Welt – ob in Fish & Chips, Bacalhau oder deftigen Eintöpfen! Doch haben Sie Kabeljau schon einmal gelagert und festgestellt, dass er einen strengen Fischgeruch entwickelte oder zerfiel? 🐟\n\nKabeljaufleisch enthält von Natur aus geruchloses **Trimethylamin-N-oxid (TMAO)**. Nach dem Fang reduzieren mikrobielle Enzyme (wie *Pseudomonas*) das TMAO zu **Trimethylamin (TMA)**, das für den typischen Fischgeruch verantwortlich ist. Zudem neigen die Myosinproteine des Kabeljaus bei unsachgemäßem Einfrieren schnell zur Denaturierung, wodurch das Fleisch trocken und strohig wird.\n\nIn diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritte-Lagerungsratgeber vor, um Fischgeruch zu unterdrücken und die feste Textur zu bewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Oberflächenfeuchtigkeit (Austrittswasser) gründlich abtrocknen 💧",
-                        "desc": "Ausgetretene Flüssigkeit auf dem Kabeljau begünstigt Keime und beschleunigt die Umwandlung von TMAO zu TMA, was strengen Fischgeruch erzeugt. Tupfen Sie den Fisch vor dem Lagern mit Küchenpapier trocken."
-                    },
-                    {
-                        "title": "Sauerstoffkontakt und Temperaturschwankungen minimieren ⚠️",
-                        "desc": "Mageres Kabeljaufleisch erleidet bei Sauerstoffkontakt eine schnelle Proteindenaturierung, wodurch die Gewebestruktur leidet. Lagern Sie ihn luftdicht verschlossen bei 0–1 °C."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Abtrocknen und fest einwickeln — Feuchtigkeitsaufnahme & Luftschutz 📦",
-                        "text": "Tupfen Sie das Kabeljaufilet trocken, wickeln Sie es in Küchenpapier oder Absorbierpapier und verschließen Sie es lückenlos mit Frischhaltefolie. 💡 Lagerungstipp: Das Aufsaugen der Feuchtigkeit verhindert den TMAO-Abbau und schützt das Gewebe."
-                    },
-                    {
-                        "name": "Bei 0–1 °C mit Eis gekühlt lagern — Eiskalte Lagerung (1–2 Tage) ❄️",
-                        "text": "Die optimale Temperatur zur Verhinderung von Verderb und Fischgeruch liegt bei 0–1 °C. 💡 Lagerungstipp: Legen Sie den verpackten Kabeljau in eine Dose und legen Sie Kühlakkus im Kühlschrank darum. Dies stoppt das Wachstum von *Pseudomonas*-Bakterien."
-                    },
-                    {
-                        "name": "Vakuumieren und unter -18 °C schockfrieren — Tiefkühlen (3 Monate) 🧊",
-                        "text": "Für die Langzeitlagerung muss die Denaturierung der Myosinproteine minimiert werden. 💡 Lagerungstipp: Trocknen, vakuumieren (oder Luft aus dem Beutel streichen) und unter -18 °C einfrieren. Verhindert große Eiskristalle und hält das Fleisch über 3 Monate frisch."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Gibt es eine Methode, um Fischgeruch beim Kabeljau zu entfernen?",
-                        "answer": "Legen Sie den Kabeljau vor dem Kochen 10–15 Minuten in Reisoel-Wasser oder Milch ein. Die Milchproteine (Kasein) oder Stärke binden Trimethylamin (TMA). Etwas Zitronensaft oder Essig neutralisiert das alkalische TMA ebenfalls spürbar."
-                    },
-                    {
-                        "question": "Wie taut man gefrorenen Kabeljau am besten auf?",
-                        "answer": "Um Saftverlust und Proteinschäden durch Hitzeschock zu vermeiden, legen Sie den Kabeljau 12–24 Stunden vor der Zubereitung in den Kühlschrank (0–4 °C). Auftauen in warmem Wasser oder der Mikrowelle macht das Fleisch trocken und verstärkt den Geruch."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar bacalhau fresco: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para o bacalhau fresco com base em diretrizes oficiais para evitar odor a peixe (TMA) e desnaturação de proteínas.",
-                "authority": "NIFS & NOAA & USDA & MFDS",
-                "intro": "Famoso pela sua carne branca e tenra em lascas, o bacalhau fresco é um dos peixes mais consumidos no mundo, estrela do Fish & Chips, do bacalhau tradicional e de ensopados deliciosos! No entanto, você já guardou bacalhau e percebeu que ele desenvolveu um cheiro forte a peixe ou ficou murcho e esfarelado? 🐟\n\nA carne fresca de bacalhau contém **óxido de trimetilamina (TMAO)**, uma substância inodora. Com o tempo após a pesca, enzimas bacterianas (como *Pseudomonas*) reduzem o TMAO a **trimetilamina (TMA)**, responsável pelo forte cheiro a peixe. Além disso, as proteínas de miosina do bacalhau sofrem desnaturação rápida durante o congelamento inadequado, tornando a textura seca e quebradiça.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes marítimas e de segurança alimentar para evitar odores e manter a carne firme. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Compreender as características únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Regras essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Remova cuidadosamente a umidade superficial (drip) 💧",
-                        "desc": "O líquido liberado na superfície do bacalhau serve de alimento para bactérias e acelera a transformação de TMAO em TMA, causando forte cheiro a peixe. Seque bem com papel toalha antes de guardar."
-                    },
-                    {
-                        "title": "Minimize a exposição ao oxigênio e variações de temperatura ⚠️",
-                        "desc": "A carne magra de bacalhau sofre rápida desnaturação proteica ao contato com o ar, resultando em textura ressecada. Mantenha selado a 0–1 °C para bloquear o ar."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Seque a umidade e embrulhe bem — Papel Absorvente & Filme Plástico 📦",
-                        "text": "Seque completamente a umidade da superfície do filé, envolva em papel absorvente e sele bem com filme plástico. 💡 Dica de conservação: Absorver o líquido e bloquear o ar evita a conversão de TMAO e a degradação dos tecidos."
-                    },
-                    {
-                        "name": "Conserve a 0–1 °C rodeado de gelo — Refrigeração Ultra-Fria (1 a 2 dias) ❄️",
-                        "text": "A temperatura ideal para evitar a deterioração do bacalhau é de 0 a 1 °C. 💡 Dica de conservação: Coloque o peixe embalado em um pote hermético com bolsas de gelo ao redor na geladeira. Isso paralisa o crescimento de bactérias *Pseudomonas*."
-                    },
-                    {
-                        "name": "Sela a vácuo e congele abaixo de -18 °C — Congelamento (3 meses) 🧊",
-                        "text": "Para conservar o peixe por longo prazo, reduza a desnaturação da miosina. 💡 Dica de conservação: Seque a superfície, embale a vácuo e congele abaixo de -18 °C. Evitar grandes cristais de gelo mantém a textura firme por mais de 3 meses sem cheiro."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Existe alguma forma eficiente de eliminar o cheiro de peixe do bacalhau?",
-                        "answer": "Deixar o bacalhau de molho em leite ou água de arroz por 10 a 15 minutos faz com que as proteínas do leite (caseína) ou o amido absorvam a trimetilamina (TMA). Aplicar um pouco de suco de limão ou vinagre também neutraliza a TMA reduzindo o odor."
-                    },
-                    {
-                        "question": "Qual é a melhor maneira de descongelar o bacalhau?",
-                        "answer": "Para evitar a perda de sucos e a perda de textura por choque térmico, passe o peixe para a geladeira (0–4 °C) de 12 a 24 horas antes de cozinhar. Descongelar em água morna ou micro-ondas destrói a textura e aumenta o cheiro a peixe."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Ikan Kod agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk ikan kod berdasarkan pedoman keselamatan resmi untuk mencegah bau amis (TMA) dan denaturasi protein.",
-                "authority": "NIFS & NOAA & USDA & MFDS",
-                "intro": "Terkenal dengan daging putihnya yang lembut dan gurih, ikan kod adalah salah satu ikan paling populer di dunia, menjadi bahan utama Fish & Chips, Bacalhau, hingga sup ikan lezat! Namun, pernahkah Anda menyimpan ikan kod lalu mendapatinya berbau amis menyengat atau dagingnya hancur? 🐟\n\nDaging ikan kod segar secara alami mengandung **trimetilamina oksida (TMAO)** yang tidak berbau. Seiring waktu setelah ditangkap, enzim bakteri (seperti *Pseudomonas*) mereduksi TMAO menjadi **trimetilamina (TMA)**, senyawa utama penyebab bau amis tajam. Selain itu, protein miosin pada ikan kod sangat rentan terhadap denaturasi pembekuan jika tidak dibekukan dengan benar, membuat teksturnya menjadi kering dan hancur.\n\nDalam panduan ini, kami membagikan panduan penyimpanan ikan kod 3 langkah berbasis ilmiah berdasarkan pedoman otoritas kelautan dan keamanan pangan untuk mencegah bau amis dan menjaga tekstur daging tetap padat. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Bersihkan cairan permukaan (drip) hingga benar-benar kering 💧",
-                        "desc": "Cairan yang keluar dari permukaan ikan kod menjadi tempat berkembang biak mikroba dan mempercepat perubahan TMAO menjadi TMA penyebab bau amis. Selalu lap kering daging ikan dengan tisu dapur sebelum disimpan."
-                    },
-                    {
-                        "title": "Minimalkan paparan oksigen dan perubahan suhu ⚠️",
-                        "desc": "Daging ikan kod yang rendah lemak mengalami denaturasi protein dengan cepat saat terpapar oksigen, membuat tekstur keras dan memicu bakteri. Simpan secara kedap udara pada suhu 0–1°C."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Keringkan cairan lalu bungkus rapat — Absorbansi Kelembapan & Kedap Udara 📦",
-                        "text": "Lap hingga kering cairan di permukaan fillet ikan kod, bungkus dengan tisu dapur absorban, lalu lapisi dengan plastic wrap secara rapat tanpa celah. 💡 Tips Penyimpanan: Menyerap cairan dan menghalangi udara mencegah reaksi TMAO dan kerusakan jaringan."
-                    },
-                    {
-                        "name": "Simpan pada suhu 0–1°C dikelilingi es — Dingin Ekstrem (1–2 Hari) ❄️",
-                        "text": "Suhu terbaik untuk mencegah pembusukan dan bau amis pada ikan kod adalah 0–1°C. 💡 Tips Penyimpanan: Masukkan ikan kod yang sudah dibungkus ke dalam wadah kedap udara dengan ice pack di sekelilingnya di dalam kulkas. Ini menghentikan pertumbuhan bakteri *Pseudomonas*."
-                    },
-                    {
-                        "name": "Kemasa vakum lalu bekukan di bawah -18°C — Pembekuan Freezer (3 Bulan) 🧊",
-                        "text": "Untuk menyimpan jangka panjang, denaturasi protein miosin harus diminimalkan. 💡 Tips Penyimpanan: Lap kering, vakum kemasan (atau buang semua udara dari kantong Ziploc), dan bekukan di bawah -18°C. Mencegah kristal es besar menjaga tekstur tetap padat tanpa bau amis lebih dari 3 bulan."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apakah ada cara efektif untuk menghilangkan bau amis pada ikan kod sebelum dimasak?",
-                        "answer": "Merendam ikan kod dalam air cucian beras atau susu selama 10–15 menit membantu protein susu (kasein) atau pati menyerap trimetilamina (TMA). Selain itu, mengoleskan sedikit air perasan lemon atau cuka akan menetralkan sifat basa TMA sehingga bau amis berkurang drastis."
-                    },
-                    {
-                        "question": "Bagaimana cara terbaik mencairkan ikan kod yang dibekukan?",
-                        "answer": "Untuk mencegah keluarnya cairan nutrisi dan kerusakan tekstur akibat perubahan suhu mendadak, pindahkan ikan kod ke chiller kulkas (0–4°C) selama 12–24 jam sebelum dimasak. Mencairkan dalam air hangat atau microwave membuat daging menyusut kering dan bau amis makin tajam."
-                    }
-                ]
-            }
-        }
+  "how-to-store-cod": {
+    "ingId": "cod",
+    "pubDate": "2026-02-05",
+    "updatedDate": "2026-02-05",
+    "heroImage": "/images/blog/cod_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "대구 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 대구의 최적 보관 온도, 비린내(TMA) 발생 원인 차단 및 단백질 변성 방지 가이드를 확인하세요.",
+        "authority": "국립수산과학원(NIFS) & 미국 해양대기청(NOAA) & 식품의약품안전처(MFDS)",
+        "intro": "담백하고 부드러운 살점이 일품으로 피시앤칩스, 바칼라우, 대구탕 등 전 세계에서 가장 사랑받는 대표적인 흰살생선 대구! 하지만 신선하게 보관하지 못해 살이 수축해 부스러지거나 강한 비린내(어취)가 나서 버린 경험 다들 있으시죠? 🐟\n\n신선한 대구 어육에는 원래 냄새가 없는 **트리메틸아민 옥사이드(TMAO)**가 풍부하게 함유되어 있습니다. 하지만 포획 및 사후 시간이 지나면서 슈도모나스(Pseudomonas) 등 미생물의 효소 작용으로 인해 TMAO가 강한 어취를 유발하는 **트리메틸아민(TMA)**으로 환원됩니다. 또한 대구의 미오신 단백질은 다른 생선에 비해 냉동 시 구조가 쉽게 변성되어 결합조직이 파괴되고 식감이 푸석해지기 쉽습니다.\n\n이번 가이드에서는 수산 및 식품 안전 기관의 공인된 지침을 바탕으로, 대구의 비린내 발생을 근본적으로 억제하고 탱글한 식감을 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "어육 표면의 수분(드립)을 철저히 제거하세요 💧",
+            "desc": "대구 표면에 흘러나온 수분(드립)은 미생물 번식의 온상이 되며, TMAO가 TMA로 환원되는 화학 반응을 가속화하여 강한 비린내를 유발합니다. 보관 전 키친타월이나 흡습지로 표면 수분을 꼼꼼히 닦아내야 합니다."
+          },
+          {
+            "title": "공기 노출과 온도 변화를 최소화하세요 ⚠️",
+            "desc": "지방 함량이 적은 대구는 산소와 접촉하면 단백질 변성이 빨리 일어나 살이 퍽퍽해지고, 미생물 증식이 촉진됩니다. 0~1°C의 극저온을 유지하면서 밀폐하여 공기 접촉을 완벽히 차단해야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "수분 제거 후 키친타월과 랩으로 밀착 포장하기 — 수분 흡습 및 공기 차단 📦",
+            "text": "대구 어육 표면의 수분을 키친타월로 완벽히 닦아낸 뒤, 식품용 흡습 지나 키친타월로 감싸고 랩으로 빈틈없이 밀착 밀봉하세요. 💡 보관 팁: 어육에서 배어나오는 수분을 즉시 흡수하고 공기 접촉을 차단함으로써 TMAO의 환원 반응과 단백질 구조 파괴를 1차적으로 방지할 수 있습니다."
+          },
+          {
+            "name": "0~1℃ 얼음 접촉 냉장 보관하기 — 극저온 신선 보관 (1~2일) ❄️",
+            "text": "대구 어육의 부패 및 어취 발생을 막기 위한 최적 온도는 0~1℃의 극저온입니다. 💡 보관 팁: 랩으로 밀봉한 대구를 밀폐 용기에 담고, 밀폐 용기 아래위로 얼음팩을 대어 0~1℃ 환경을 만들어 냉장 보관하세요. 슈도모나스균 등 세균 증식이 정지되어 1~2일간 극상의 신선도를 유지할 수 있습니다."
+          },
+          {
+            "name": "진공 포장 후 -18℃ 이하 급속 냉동 보관하기 — 단백질 변성 방지 냉동 (3개월) 🧊",
+            "text": "대구를 오래 보관하려면 살집의 단백질 변성(단백질 동결 변성)을 최소화해야 합니다. 💡 보관 팁: 어육 표면 수분을 제거한 뒤 진공 포장기나 지퍼백의 공기를 완전히 빼서 밀봉하고 냉동실(-18℃ 이하)에서 급속 냉동하세요. 얼음 결정이 크게 생기는 것을 막아 3개월 이상 비린내 없이 탱글한 식감을 유지할 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "대구에서 나는 비린내를 효과적으로 제거하는 방법이 있나요?",
+            "answer": "조리 전 대구를 쌀뜨물이나 우유에 10~15분간 담가두면 우유 단백질(카제인)과 쌀뜨물의 녹말 성분이 비린내 원인 물질인 트리메틸아민(TMA)을 흡착하여 깔끔하게 제거해 줍니다. 또한 레몬즙이나 식초를 살짝 바르면 약산성 성분이 TMA를 중화시켜 어취가 현저히 줄어듭니다."
+          },
+          {
+            "question": "냉동했던 대구를 해동할 때 가장 좋은 방법은 무엇인가요?",
+            "answer": "급격한 온도 변화로 인한 수분 유출(드립 현상)과 단백질 변성을 막기 위해, 드시기 12~24시간 전 냉장실(0~4℃)로 옮겨 천천히 완만 해동하는 것이 가장 좋습니다. 성급하게 따뜻한 물이나 전자레인지로 해동하면 살이 수축하고 푸석해지며 비린내가 심해집니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Cod Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for cod based on official safety guidelines to prevent TMA fishy odor and protein denaturation.",
+        "authority": "NIFS & NOAA & USDA & MFDS",
+        "intro": "Famous for its mild flavor and tender white flakes, cod is one of the world's most beloved fish, featured in Fish & Chips, Bacalhau, and savory stews! However, have you ever stored cod only to find it emitting a strong fishy odor or becoming mushy and falling apart? 🐟\n\nFresh cod flesh naturally contains odorless **trimethylamine oxide (TMAO)**. Over time after harvest, microbial enzymes (such as *Pseudomonas*) reduce TMAO into **trimethylamine (TMA)**, the primary chemical compound responsible for strong fishy off-odors. Additionally, cod's myosin proteins are particularly susceptible to rapid freeze denaturation, breaking connective tissues and making the texture dry and mealy if improperly frozen.\n\nIn this guide, we introduce a scientifically proven 3-step cod storage guide based on guidelines from leading marine and food safety authorities to suppress fishy odors and preserve its firm texture. 🛡️",
+        "whyTitle": "Why Store Cod This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Thoroughly wipe off surface moisture (drip) 💧",
+            "desc": "Drip released on the cod's surface serves as a breeding ground for microorganisms and accelerates the reduction of TMAO to TMA, causing a strong fishy odor. Always wipe the flesh completely dry with absorbent paper towels before storing."
+          },
+          {
+            "title": "Minimize oxygen exposure and temperature fluctuations ⚠️",
+            "desc": "Lean cod flesh undergoes rapid protein denaturation when exposed to oxygen, leading to dry texture and microbial growth. Keep cod sealed tightly at 0–1°C to block air contact and temperature spikes."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Wipe moisture dry and wrap tightly — Absorb Moisture & Block Air 📦",
+            "text": "Thoroughly wipe surface moisture off the cod fillet, wrap it in absorbent paper towels or food-grade paper, and seal tightly with plastic wrap. 💡 Storage Tip: Absorbing exuded moisture and blocking air contact prevents TMAO reduction and tissue breakdown."
+          },
+          {
+            "name": "Store at 0–1°C surrounded by ice — Ultra-Cold Refrigeration (1–2 Days) ❄️",
+            "text": "The optimal temperature to prevent cod spoilage and odor formation is 0–1°C (32–34°F). 💡 Storage Tip: Place wrapped cod in an airtight container with ice packs surrounding it in the fridge. This halts bacterial growth like *Pseudomonas*, maintaining peak freshness for 1 to 2 days."
+          },
+          {
+            "name": "Vacuum-seal and flash freeze below -18°C — Freezer Storage (3 Months) 🧊",
+            "text": "To preserve cod long-term, you must minimize myosin protein freeze denaturation. 💡 Storage Tip: Wipe surface dry, vacuum-seal (or remove all air from a freezer Ziploc bag), and flash freeze below -18°C (0°F). Preventing large ice crystal formation ensures firm texture without fishy smell for over 3 months."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "What is the best way to remove fishy odors from cod before cooking?",
+            "answer": "Soaking cod in rice water or milk for 10–15 minutes allows milk proteins (casein) or starch particles to absorb trimethylamine (TMA). Additionally, lightly applying lemon juice or vinegar neutralizes TMA due to weak acidity, significantly reducing odors."
+          },
+          {
+            "question": "What is the best way to thaw frozen cod?",
+            "answer": "To prevent drip loss and protein denaturation caused by sudden temperature changes, transfer frozen cod to the refrigerator (0–4°C / 32–39°F) 12–24 hours before cooking for slow thawing. Thawing in warm water or a microwave causes muscle tissue shrinkage, mealiness, and strong fishy odors."
+          }
+        ]
+      },
+      "ja": {
+        "title": "タラを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくタラの最適な保存温度、トリメチルアミン（TMA）臭の遮断、タンパク質変性防止ガイドをご確認ください。",
+        "authority": "国立水産科学院(NIFS) & 米国海洋大気庁(NOAA) & 食品医薬品安全処(MFDS)",
+        "intro": "淡白で柔らかい身が特徴で、フィッシュアンドチップスやバカリャウ（塩鱈）、鍋料理など世界中で愛される白身魚のタラ（鱈）！ですが、保存方法が良くないとすぐに身が崩れたり、強い生臭さが発生して台無しになった経験はありませんか？🐟\n\nタラの魚肉には本来無臭の**トリメチルアミンオキサイド（TMAO）**が豊富に含まれています。しかし、死後時間が経過するとシュードモナス（Pseudomonas）などの微生物の酵素作用によってTMAOが還元され、強い魚臭の原因物質である**トリメチルアミン（TMA）**に変化します。また、タラのミオシンタンパク質は冷凍時に構造変性を起こしやすく、食感がパサつきやすい特徴があります。\n\n本記事では、水産・食品安全機関のガイドラインに基づき、生臭さの発生を根本から抑え、プリッとした食感を守る3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "魚肉表面の水分（ドリップ）を徹底的に拭き取ってください 💧",
+            "desc": "タラの表面に出た水分（ドリップ）は雑菌繁殖の温床となり、TMAOがTMAに還元される反応を加速させて強い生臭さを発生させます。保存前にペーパータオル等で水分をしっかり拭き取ることが不可欠です。"
+          },
+          {
+            "title": "空気への露出と温度変化を最小限に抑えてください ⚠️",
+            "desc": "脂質が少ないタラは酸素に触れるとタンパク質変性が急速に進み、身がパサついて細菌が繁殖しやすくなります。0〜1℃の極低温を維持し、密閉して空気を完全に遮断してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "水分を拭き取りペーパーとラップで密着包装する — 水分吸収＆空気遮断 📦",
+            "text": "タラの切り身の表面の水分を完全に拭き取った後、ペーパータオルで包み、ラップで隙間なく密着密閉します。💡保存のコツ：染み出る水分を吸収し空気との接触を遮断することで、TMAOの還元反応と組織の破壊を一次的に防ぐことができます。"
+          },
+          {
+            "name": "0〜1℃の氷冷環境で冷蔵保存する — 極低温鮮度保存 (1〜2日間) ❄️",
+            "text": "タラの腐敗と魚臭発生を防ぐ最適温度は0〜1℃の極低温です。💡保存のコツ：ラップで密閉したタラを密閉容器に入れ、保冷剤や氷で包み込むようにして0〜1℃を保ち冷蔵庫で保存します。シュードモナス菌などの繁殖が停止し、1〜2日間最高の鮮度を維持できます。"
+          },
+          {
+            "name": "真空パック後-18℃以下で急速冷凍保存する — タンパク質変性防止 (3ヶ月) 🧊",
+            "text": "タラを長期保存するには、ミオシンタンパク質の冷凍変性を最小限に抑える必要があります。💡保存のコツ：水分を拭き取った後、真空パック機やジッパー袋で空気を完全に抜いて密閉し、冷凍室（-18℃以下）で急速冷凍します。大きな氷結晶の発生を防ぎ、3ヶ月以上生臭さなく食感を保てます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "タラの生臭さを効果的に消す方法はありますか？",
+            "answer": "調理前にタラを米のとぎ汁や牛乳に10〜15分ほど浸しておくと、牛乳のタンパク質（カゼイン）やとぎ汁のデンプン質がトリメチルアミン（TMA）を吸着して綺麗に取り除いてくれます。また、レモン汁や酢を軽くかけると弱酸性がTMAを中和し、臭いが大幅に軽減されます。"
+          },
+          {
+            "question": "冷凍したタラを解凍する際、最も良い方法は何ですか？",
+            "answer": "急激な温度変化によるドリップ（旨味成分の流出）やタンパク質の変性を防ぐため、調理の12〜24時間前に冷蔵室（0〜4℃）に移して低温でゆっくり解凍するのがベストです。ぬるま湯や電子レンジで急激に解凍すると、身が縮んでパサつき、生臭さが強くなります。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持鳕鱼新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解鳕鱼的最佳储存温度、抑制氧化三甲胺（TMAO）降解产生的鱼腥味及防止蛋白质变性的科学方法。",
+        "authority": "韩国国立水产科学院(NIFS) & 美国海洋大气局(NOAA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "鳕鱼作为炸鱼薯条（Fish & Chips）、腌鳕鱼（Bacalhau）及各类鲜鱼汤的主角，是全球消费量最大的白肉鱼之一！然而，您是否有过因储存不当导致鳕鱼肉质松散或散发强烈鱼腥味的经历？🐟\n\n新鲜鳕鱼肉中含有无味的**氧化三甲胺（TMAO）**。然而捕捞后随着时间推移，在假单胞菌（Pseudomonas）等微生物的酶促作用下，TMAO会被还原为具有强烈腥味的**三甲胺（TMA）**。此外，鳕鱼中的肌球蛋白（Myosin）在冷冻时结构极易发生变性，导致解冻后肉质破坏、口感发绵发柴。\n\n本指南基于权威水产与食品安全机构的指导方针，为您介绍3步科学鳕鱼保存秘诀，从根本上抑制腥味并锁住紧实口感。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "务必彻底擦干鱼肉表面的渗出液（血水/汁液） 💧",
+            "desc": "鳕鱼表面渗出的水分是微生物滋生的温床，会加速TMAO还原为TMA的化学反应，产生强烈腥味。储存前必须用厨房纸巾将表面水分彻底吸干。"
+          },
+          {
+            "title": "尽量减少空气接触与温度波动 ⚠️",
+            "desc": "脂肪含量较低的鳕鱼在接触氧气时蛋白质变性极快，会导致肉质发柴并促进细菌繁殖。应保持在0~1℃极低温下密封保存，完全阻隔空气。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "擦干水分后用吸水纸和保鲜膜紧密包裹 — 锁水防氧化 📦",
+            "text": "用厨房纸巾吸干鳕鱼切片表面的水分，用食品级吸水纸包好，再用保鲜膜无缝紧密包裹。💡储存小贴士：及时吸收渗液并阻隔空气，能从源头上阻止TMAO还原反应和蛋白质结构破坏。"
+          },
+          {
+            "name": "0~4℃铺冰冷藏保存 — 极低温冰镇冷藏 (1~2天) ❄️",
+            "text": "防止鳕鱼腐败和腥味产生的最佳温度是0~1℃极低温。💡储存小贴士：将裹好的鳕鱼放入密封盒，在盒子上下铺放冰袋，营造0~1℃的冰镇环境冷藏。这能抑制假单胞菌等细菌繁殖，维持1~2天极佳新鲜度。"
+          },
+          {
+            "name": "抽真空后在-18℃以下急冻 — 防蛋白质变性冷冻 (3个月) 🧊",
+            "text": "长期保存鳕鱼的关键在于减少肌球蛋白的冷冻变性。💡储存小贴士：吸干表面水分后抽真空密封，放入冷冻室（-18℃以下）急冻。防止大冰晶形成，可保存3个月以上且解冻后无腥味、肉质紧实。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "有什么有效去鳕鱼腥味的小窍门吗？",
+            "answer": "烹饪前将鳕鱼浸泡在淘米水或牛奶中10~15分钟，牛奶中的酪蛋白和淘米水中的淀粉成分可以吸附腥味来源三甲胺（TMA）。此外，涂抹少许柠檬汁或食汁，弱酸性成分能中和TMA，显著降低鱼腥味。"
+          },
+          {
+            "question": "冷冻鳕鱼的最佳解冻方式是什么？",
+            "answer": "为防止温度骤变导致营养汁液流失和蛋白质变性，建议在烹饪前12~24小时移入冰箱冷藏室（0~4℃）缓慢解冻。切勿用热水或微波炉急剧解冻，否则会导致鱼肉收缩发柴、腥味加重。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener el bacalao fresco: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para el bacalao según las directrices oficiales para evitar el olor a pescado (TMA) y la desnaturalización de proteínas.",
+        "authority": "NIFS & NOAA & USDA & MFDS",
+        "intro": "Famoso por su sabor suave y jugosas lascas, el bacalao es uno de los pescados blancos más consumidos del mundo, protagonista del Fish & Chips, el bacalao salado y exquisitos guisos. Sin embargo, ¿alguna vez lo guardó solo para descubrir que emitía un fuerte olor a pescado o que se desmoronaba? 🐟\n\nLa carne de bacalao fresca contiene **óxido de trimetilamina (TMAO)**, un compuesto inodoro. Con el tiempo, la acción enzimática de microorganismos como *Pseudomonas* reduce el TMAO a **trimetilamina (TMA)**, la sustancia responsable del olor rancio a pescado. Además, las proteínas de miosina del bacalao son muy propensas a la desnaturalización por congelación, volviendo su textura harinosa si no se congela adecuadamente.\n\nEn esta guía se presenta una guía científica de conservación en 3 pasos respaldada por autoridades marítimas y de seguridad alimentaria para evitar olores y mantener una textura firme. 🛡️",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características únicas de cada ingrediente y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Retire minuciosamente la humedad superficial (drip) 💧",
+            "desc": "El líquido liberado en la superficie del bacalao sirve como caldo de cultivo para microorganismos y acelera la reducción de TMAO a TMA, generando un fuerte olor a pescado. Séquelo bien con papel absorbente antes de guardar."
+          },
+          {
+            "title": "Minimice la exposición al oxígeno y los cambios de temperatura ⚠️",
+            "desc": "La carne magra de bacalao sufre una rápida desnaturalización de sus proteínas al contacto con el oxígeno, lo que ablanda el tejido y favorece las bacterias. Manténgalo sellado a 0–1 °C para bloquear el aire."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Seque la humedad y envuelva firmemente — Absorción & Bloqueo de Aire 📦",
+            "text": "Seque completamente la humedad superficial del filete de bacalao, envuélvalo en papel absorbente y séllelo bien con film transparente. 💡 Consejo de almacenamiento: Absorber el líquido retenido y bloquear el aire evita la conversión de TMAO y el deterioro del tejido."
+          },
+          {
+            "name": "Conserve a 0–1 °C rodeado de hielo — Refrigeración Ultrarrápida (1 a 2 días) ❄️",
+            "text": "La temperatura óptima para evitar la descomposición y los malos olores del bacalao es de 0 a 1 °C. 💡 Consejo de almacenamiento: Coloque el bacalao envuelto en un recipiente hermético con compresas de hielo alrededor dentro del refrigerador. Esto frena el crecimiento bacteriano de *Pseudomonas* hasta por 2 días."
+          },
+          {
+            "name": "Selle al vacío y congele por debajo de -18 °C — Congelación (3 meses) 🧊",
+            "text": "Para conservar el bacalao a largo plazo, debe minimizar la desnaturalización de la miosina. 💡 Consejo de almacenamiento: Seque la superficie, selle al vacío en bolsas para congelador y congele a -18 °C. Evitar grandes cristales de hielo mantiene la carne firme sin mal olor por más de 3 meses."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Existe algún método eficaz para eliminar el olor a pescado del bacalao?",
+            "answer": "Remojar el bacalao en agua de arroz o leche durante 10 a 15 minutos ayuda a que las proteínas de la leche (caseína) o el almidón absorban la trimetilamina (TMA). Además, aplicar un poco de jugo de limón o vinagre neutraliza la TMA reduciendo notablemente el olor."
+          },
+          {
+            "question": "¿Cuál es la mejor manera de descongelar el bacalao congelado?",
+            "answer": "Para evitar la pérdida de jugos y la desnaturalización de las proteínas por cambios bruscos de temperatura, pase el bacalao al refrigerador (0–4 °C) de 12 a 24 horas antes de cocinar. Descongelar en agua caliente o microondas destruye la textura y aumenta el olor rancio."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver la morue fraîche : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la morue (cabillaud) selon les directives officielles pour éviter l'odeur de poisson (TMA) et la dénaturation des protéines.",
+        "authority": "NIFS & NOAA & USDA & MFDS",
+        "intro": "Réputé pour sa chair tendre et feuilletée, le cabillaud (morue) est l'un des poissons blancs les plus consommés au monde, vedette du Fish & Chips, de la bacalhau et de délicieux bouillons ! Cependant, avez-vous déjà conservé du cabillaud pour constater qu'il dégageait une forte odeur de poisson ou qu'il s'effritait ? 🐟\n\nLa chair fraîche du cabillaud contient naturellement de l'**oxyde de triméthylamine (TMAO)**, un composé inodore. Après la pêche, sous l'action enzymatique de bactéries telles que *Pseudomonas*, le TMAO est réduit en **triméthylamine (TMA)**, responsable de la forte odeur de poisson. De plus, les protéines de myosine du cabillaud subissent rapidement une dénaturation à la congélation, rendant la chair sèche s'il est mal congelé.\n\nDans ce guide, nous vous présentons une méthode scientifique en 3 étapes basée sur les recommandations des organismes de sécurité alimentaire pour supprimer les odeurs et préserver une texture ferme. 🛡️",
+        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Épongez soigneusement l'humidité de surface (drip) 💧",
+            "desc": "L'eau qui s'écoule du cabillaud favorise la multiplication bactérienne et accélère la réduction du TMAO en TMA, générant une odeur désagréable. Essuyez toujours le poisson avec du papier absorbant avant de le ranger."
+          },
+          {
+            "title": "Limitez l'exposition à l'oxygène et aux variations de température ⚠️",
+            "desc": "La chair maigre du cabillaud subit une dénaturation rapide de ses protéines au contact de l'air, devenant sèche. Conservez-le hermétiquement à 0–1 °C pour bloquer l'air."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Sécher et envelopper hermétiquement — Papier Absorbant & Film Étirable 📦",
+            "text": "Épongez parfaitement l'humidité de surface du filet de cabillaud, enveloppez-le dans du papier absorbant, puis scellez-le hermétiquement avec du film plastique. 💡 Astuce de conservation : Éliminer l'eau de surface empêche la dégradation du TMAO et protège les tissus."
+          },
+          {
+            "name": "Conserver à 0–1 °C entouré de glace — Réfrigération Ultra-Froide (1–2 jours) ❄️",
+            "text": "La température idéale pour prévenir la dégradation du cabillaud est de 0 à 1 °C. 💡 Astuce de conservation : Placez le cabillaud emballé dans une boîte hermétique entourée de pains de glace au réfrigérateur. Cela bloque la croissance des bactéries *Pseudomonas*."
+          },
+          {
+            "name": "Mettre sous vide et congeler sous -18 °C — Congélation (3 mois) 🧊",
+            "text": "Pour conserver le cabillaud longtemps, il faut limiter la dénaturation de la myosine. 💡 Astuce de conservation : Épongez la surface, mettez sous vide (ou videz l'air d'un sachet congélation) et congelez rapidement sous -18 °C. Cela préserve la texture sans odeur pendant plus de 3 mois."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Existe-t-il une méthode efficace pour éliminer l'odeur de poisson du cabillaud ?",
+            "answer": "Faire tremper le cabillaud dans du lait ou de l'eau de riz pendant 10 à 15 minutes permet aux protéines du lait (caséine) ou à l'amidon d'absorber la triméthylamine (TMA). De plus, un filet de jus de citron ou de vinaigre neutralise la TMA grâce à son acidité, réduisant fortement l'odeur."
+          },
+          {
+            "question": "Quelle est la meilleure façon de décongeler du cabillaud ?",
+            "answer": "Pour éviter la perte de jus et la dénaturation des protéines liées au choc thermique, déplacez le cabillaud au réfrigérateur (0–4 °C) 12 à 24 heures avant la cuisson. La décongélation à l'eau chaude ou au micro-ondes abîme la chair et accentue l'odeur de poisson."
+          }
+        ]
+      },
+      "de": {
+        "title": "Kabeljau richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Kabeljau (Dorsch) basierend auf offiziellen Sicherheitsrichtlinien zur Vermeidung von Fischgeruch (TMA) und Proteindenaturierung.",
+        "authority": "NIFS & NOAA & USDA & MFDS",
+        "intro": "Bekannt für sein zartes, weißes Fleisch ist der Kabeljau (Dorsch) einer der meistkonsumierten Speisefische der Welt – ob in Fish & Chips, Bacalhau oder deftigen Eintöpfen! Doch haben Sie Kabeljau schon einmal gelagert und festgestellt, dass er einen strengen Fischgeruch entwickelte oder zerfiel? 🐟\n\nKabeljaufleisch enthält von Natur aus geruchloses **Trimethylamin-N-oxid (TMAO)**. Nach dem Fang reduzieren mikrobielle Enzyme (wie *Pseudomonas*) das TMAO zu **Trimethylamin (TMA)**, das für den typischen Fischgeruch verantwortlich ist. Zudem neigen die Myosinproteine des Kabeljaus bei unsachgemäßem Einfrieren schnell zur Denaturierung, wodurch das Fleisch trocken und strohig wird.\n\nIn diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritte-Lagerungsratgeber vor, um Fischgeruch zu unterdrücken und die feste Textur zu bewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Oberflächenfeuchtigkeit (Austrittswasser) gründlich abtrocknen 💧",
+            "desc": "Ausgetretene Flüssigkeit auf dem Kabeljau begünstigt Keime und beschleunigt die Umwandlung von TMAO zu TMA, was strengen Fischgeruch erzeugt. Tupfen Sie den Fisch vor dem Lagern mit Küchenpapier trocken."
+          },
+          {
+            "title": "Sauerstoffkontakt und Temperaturschwankungen minimieren ⚠️",
+            "desc": "Mageres Kabeljaufleisch erleidet bei Sauerstoffkontakt eine schnelle Proteindenaturierung, wodurch die Gewebestruktur leidet. Lagern Sie ihn luftdicht verschlossen bei 0–1 °C."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Abtrocknen und fest einwickeln — Feuchtigkeitsaufnahme & Luftschutz 📦",
+            "text": "Tupfen Sie das Kabeljaufilet trocken, wickeln Sie es in Küchenpapier oder Absorbierpapier und verschließen Sie es lückenlos mit Frischhaltefolie. 💡 Lagerungstipp: Das Aufsaugen der Feuchtigkeit verhindert den TMAO-Abbau und schützt das Gewebe."
+          },
+          {
+            "name": "Bei 0–1 °C mit Eis gekühlt lagern — Eiskalte Lagerung (1–2 Tage) ❄️",
+            "text": "Die optimale Temperatur zur Verhinderung von Verderb und Fischgeruch liegt bei 0–1 °C. 💡 Lagerungstipp: Legen Sie den verpackten Kabeljau in eine Dose und legen Sie Kühlakkus im Kühlschrank darum. Dies stoppt das Wachstum von *Pseudomonas*-Bakterien."
+          },
+          {
+            "name": "Vakuumieren und unter -18 °C schockfrieren — Tiefkühlen (3 Monate) 🧊",
+            "text": "Für die Langzeitlagerung muss die Denaturierung der Myosinproteine minimiert werden. 💡 Lagerungstipp: Trocknen, vakuumieren (oder Luft aus dem Beutel streichen) und unter -18 °C einfrieren. Verhindert große Eiskristalle und hält das Fleisch über 3 Monate frisch."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Gibt es eine Methode, um Fischgeruch beim Kabeljau zu entfernen?",
+            "answer": "Legen Sie den Kabeljau vor dem Kochen 10–15 Minuten in Reisoel-Wasser oder Milch ein. Die Milchproteine (Kasein) oder Stärke binden Trimethylamin (TMA). Etwas Zitronensaft oder Essig neutralisiert das alkalische TMA ebenfalls spürbar."
+          },
+          {
+            "question": "Wie taut man gefrorenen Kabeljau am besten auf?",
+            "answer": "Um Saftverlust und Proteinschäden durch Hitzeschock zu vermeiden, legen Sie den Kabeljau 12–24 Stunden vor der Zubereitung in den Kühlschrank (0–4 °C). Auftauen in warmem Wasser oder der Mikrowelle macht das Fleisch trocken und verstärkt den Geruch."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar bacalhau fresco: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para o bacalhau fresco com base em diretrizes oficiais para evitar odor a peixe (TMA) e desnaturação de proteínas.",
+        "authority": "NIFS & NOAA & USDA & MFDS",
+        "intro": "Famoso pela sua carne branca e tenra em lascas, o bacalhau fresco é um dos peixes mais consumidos no mundo, estrela do Fish & Chips, do bacalhau tradicional e de ensopados deliciosos! No entanto, você já guardou bacalhau e percebeu que ele desenvolveu um cheiro forte a peixe ou ficou murcho e esfarelado? 🐟\n\nA carne fresca de bacalhau contém **óxido de trimetilamina (TMAO)**, uma substância inodora. Com o tempo após a pesca, enzimas bacterianas (como *Pseudomonas*) reduzem o TMAO a **trimetilamina (TMA)**, responsável pelo forte cheiro a peixe. Além disso, as proteínas de miosina do bacalhau sofrem desnaturação rápida durante o congelamento inadequado, tornando a textura seca e quebradiça.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes marítimas e de segurança alimentar para evitar odores e manter a carne firme. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Compreender as características únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Regras essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Remova cuidadosamente a umidade superficial (drip) 💧",
+            "desc": "O líquido liberado na superfície do bacalhau serve de alimento para bactérias e acelera a transformação de TMAO em TMA, causando forte cheiro a peixe. Seque bem com papel toalha antes de guardar."
+          },
+          {
+            "title": "Minimize a exposição ao oxigênio e variações de temperatura ⚠️",
+            "desc": "A carne magra de bacalhau sofre rápida desnaturação proteica ao contato com o ar, resultando em textura ressecada. Mantenha selado a 0–1 °C para bloquear o ar."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Seque a umidade e embrulhe bem — Papel Absorvente & Filme Plástico 📦",
+            "text": "Seque completamente a umidade da superfície do filé, envolva em papel absorvente e sele bem com filme plástico. 💡 Dica de conservação: Absorver o líquido e bloquear o ar evita a conversão de TMAO e a degradação dos tecidos."
+          },
+          {
+            "name": "Conserve a 0–1 °C rodeado de gelo — Refrigeração Ultra-Fria (1 a 2 dias) ❄️",
+            "text": "A temperatura ideal para evitar a deterioração do bacalhau é de 0 a 1 °C. 💡 Dica de conservação: Coloque o peixe embalado em um pote hermético com bolsas de gelo ao redor na geladeira. Isso paralisa o crescimento de bactérias *Pseudomonas*."
+          },
+          {
+            "name": "Sela a vácuo e congele abaixo de -18 °C — Congelamento (3 meses) 🧊",
+            "text": "Para conservar o peixe por longo prazo, reduza a desnaturação da miosina. 💡 Dica de conservação: Seque a superfície, embale a vácuo e congele abaixo de -18 °C. Evitar grandes cristais de gelo mantém a textura firme por mais de 3 meses sem cheiro."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Existe alguma forma eficiente de eliminar o cheiro de peixe do bacalhau?",
+            "answer": "Deixar o bacalhau de molho em leite ou água de arroz por 10 a 15 minutos faz com que as proteínas do leite (caseína) ou o amido absorvam a trimetilamina (TMA). Aplicar um pouco de suco de limão ou vinagre também neutraliza a TMA reduzindo o odor."
+          },
+          {
+            "question": "Qual é a melhor maneira de descongelar o bacalhau?",
+            "answer": "Para evitar a perda de sucos e a perda de textura por choque térmico, passe o peixe para a geladeira (0–4 °C) de 12 a 24 horas antes de cozinhar. Descongelar em água morna ou micro-ondas destrói a textura e aumenta o cheiro a peixe."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Ikan Kod agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk ikan kod berdasarkan pedoman keselamatan resmi untuk mencegah bau amis (TMA) dan denaturasi protein.",
+        "authority": "NIFS & NOAA & USDA & MFDS",
+        "intro": "Terkenal dengan daging putihnya yang lembut dan gurih, ikan kod adalah salah satu ikan paling populer di dunia, menjadi bahan utama Fish & Chips, Bacalhau, hingga sup ikan lezat! Namun, pernahkah Anda menyimpan ikan kod lalu mendapatinya berbau amis menyengat atau dagingnya hancur? 🐟\n\nDaging ikan kod segar secara alami mengandung **trimetilamina oksida (TMAO)** yang tidak berbau. Seiring waktu setelah ditangkap, enzim bakteri (seperti *Pseudomonas*) mereduksi TMAO menjadi **trimetilamina (TMA)**, senyawa utama penyebab bau amis tajam. Selain itu, protein miosin pada ikan kod sangat rentan terhadap denaturasi pembekuan jika tidak dibekukan dengan benar, membuat teksturnya menjadi kering dan hancur.\n\nDalam panduan ini, kami membagikan panduan penyimpanan ikan kod 3 langkah berbasis ilmiah berdasarkan pedoman otoritas kelautan dan keamanan pangan untuk mencegah bau amis dan menjaga tekstur daging tetap padat. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Bersihkan cairan permukaan (drip) hingga benar-benar kering 💧",
+            "desc": "Cairan yang keluar dari permukaan ikan kod menjadi tempat berkembang biak mikroba dan mempercepat perubahan TMAO menjadi TMA penyebab bau amis. Selalu lap kering daging ikan dengan tisu dapur sebelum disimpan."
+          },
+          {
+            "title": "Minimalkan paparan oksigen dan perubahan suhu ⚠️",
+            "desc": "Daging ikan kod yang rendah lemak mengalami denaturasi protein dengan cepat saat terpapar oksigen, membuat tekstur keras dan memicu bakteri. Simpan secara kedap udara pada suhu 0–1°C."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Keringkan cairan lalu bungkus rapat — Absorbansi Kelembapan & Kedap Udara 📦",
+            "text": "Lap hingga kering cairan di permukaan fillet ikan kod, bungkus dengan tisu dapur absorban, lalu lapisi dengan plastic wrap secara rapat tanpa celah. 💡 Tips Penyimpanan: Menyerap cairan dan menghalangi udara mencegah reaksi TMAO dan kerusakan jaringan."
+          },
+          {
+            "name": "Simpan pada suhu 0–1°C dikelilingi es — Dingin Ekstrem (1–2 Hari) ❄️",
+            "text": "Suhu terbaik untuk mencegah pembusukan dan bau amis pada ikan kod adalah 0–1°C. 💡 Tips Penyimpanan: Masukkan ikan kod yang sudah dibungkus ke dalam wadah kedap udara dengan ice pack di sekelilingnya di dalam kulkas. Ini menghentikan pertumbuhan bakteri *Pseudomonas*."
+          },
+          {
+            "name": "Kemasa vakum lalu bekukan di bawah -18°C — Pembekuan Freezer (3 Bulan) 🧊",
+            "text": "Untuk menyimpan jangka panjang, denaturasi protein miosin harus diminimalkan. 💡 Tips Penyimpanan: Lap kering, vakum kemasan (atau buang semua udara dari kantong Ziploc), dan bekukan di bawah -18°C. Mencegah kristal es besar menjaga tekstur tetap padat tanpa bau amis lebih dari 3 bulan."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah ada cara efektif untuk menghilangkan bau amis pada ikan kod sebelum dimasak?",
+            "answer": "Merendam ikan kod dalam air cucian beras atau susu selama 10–15 menit membantu protein susu (kasein) atau pati menyerap trimetilamina (TMA). Selain itu, mengoleskan sedikit air perasan lemon atau cuka akan menetralkan sifat basa TMA sehingga bau amis berkurang drastis."
+          },
+          {
+            "question": "Bagaimana cara terbaik mencairkan ikan kod yang dibekukan?",
+            "answer": "Untuk mencegah keluarnya cairan nutrisi dan kerusakan tekstur akibat perubahan suhu mendadak, pindahkan ikan kod ke chiller kulkas (0–4°C) selama 12–24 jam sebelum dimasak. Mencairkan dalam air hangat atau microwave membuat daging menyusut kering dan bau amis makin tajam."
+          }
+        ]
+      }
     }
+  }
 }

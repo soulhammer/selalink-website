@@ -1,459 +1,459 @@
 {
-    "zebra-finch-care": {
-        "pubDate": "2026-05-02",
-        "updatedDate": "2026-05-02",
-        "locales": {
-            "ko": {
-                "title": "금화조의 교감·질병 신호 해석과 알 묶임(Egg Binding) 및 테플론 독성 예방을 위한 3단계 데일리 케어",
-                "description": "경쾌한 울음소리와 얼룩말 무늬가 매력적인 소형 관상조류 금화조(Zebra Finch). 꼬리 흔들기 및 깃털 부풀리기 신호 해석, 알 묶임 예방, 수질 및 독성 가스 차단을 위한 3단계 홈케어 루틴을 소개합니다.",
-                "authority": "국제 핀치 협회 (FSA) 및 Association of Avian Veterinarians (AAV) 케어 프로토콜",
-                "profile": {
-                    "breed": "금화조 (Zebra Finch / Taeniopygia guttata)",
-                    "lifespan": "5 ~ 8년 (올바른 케어 시 최대 10년)",
-                    "sleep_pattern": "10 ~ 12시간 (완전한 암막 수면으로 스트레스 조절)",
-                    "temperament": "사교적임, 활발함, 무리 생활 본능, 경쾌한 소리, 예민함"
-                },
-                "intro": "오스트레일리아 대륙 원산의 금화조(Zebra Finch)는 가슴의 섬세한 얼룩말 무늬 패턴과 붉은 부리, 경쾌한 울음소리로 전 세계에서 사랑받는 대표적인 소형 핀치류 관상조류입니다. 금화조는 무리 생활을 하는 매우 사교적인 새로서 단독 사육 시 극심한 우울증과 면역 저하를 겪기 쉽습니다. 또한 앵무새나 핀치류 특유의 공기주머니(Air Sacs) 호흡 구조로 인해 주방의 테플론(PTFE) 가열 가스, 아로마 향수, 스프레이 등 공기 중 오염 물질에 매우 취약합니다. 특히 암컷의 경우 체내 칼슘 결핍이나 과도한 산란 자극 시 알이 걸려 나오지 못하는 치명적인 '알 묶임(Egg Binding/난산)'이 발생하기 쉬우며, 조류 특성상 아픈 것을 숨기다가 깃털을 부풀리는 상태에 이르러서야 이상을 드러냅니다. 이번 가이드에서는 금화조의 행동 신호를 정확히 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
-                "whyTitle": "금화조의 바디 랭귀지: 꼬리 흔들기·울음소리(Tail Wagging / Beeping)와 깃털 부풀리기(Feather Puffing / Fluffing)",
-                "whyDesc": "금화조는 꼬리의 움직임과 깃털의 확장 상태로 만족감과 중증 질병 신호를 명확히 구분합니다. 횃대 위에서 꼬리를 살랑살랑 좌우로 흔들며 짧고 경쾌한 소리를 내는 **'꼬리 흔들기·울음소리(Tail Wagging & Beeping)'**는 동료나 보호자를 향한 활기찬 교감 및 만족감의 표시입니다. 반면 몸의 깃털을 동그랗게 바짝 부풀리고 횃대에 웅크린 채 눈을 감고 있는 **'깃털 부풀리기(Feather Puffing / Fluffing)'**는 체온 저하, 저체온증, 만성 감염 또는 중증 질병을 숨기다 한계에 도달했다는 긴급 질병 위험 신호입니다.",
-                "body_signals": [
-                    {
-                        "name": "꼬리를 살랑살랑 좌우로 흔들며 경쾌한 울음소리를 냄 (Tail Wagging & Beeping)",
-                        "meaning": "동료 핀치나 보호자에 대한 반가움, 건강한 체력, 현재 환경에 대한 만족감을 나타내는 신호입니다.",
-                        "response": "다정한 목소리로 응답하고, 신선한 야채나 청결한 목욕물을 제공하여 기분을 북돋워 줍니다."
-                    },
-                    {
-                        "name": "온몸의 깃털을 바짝 부풀리고 횃대 위에서 눈을 자주 감음 (Feather Puffing / Fluffing)",
-                        "meaning": "체온 조절 마비, 저체온증, 알 묶임 초래, 또는 심각한 유기적 질환을 내포한 긴급 신호입니다.",
-                        "response": "즉시 사육장 온도를 28~30°C로 높여 온열 조치를 취하고, 조류 전문 수의사의 진료를 받아야 합니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 핀치 전용 혼합 모이·펠릿 급여, 갑오징어 뼈(갑오징어 뼈 칼슘) 점검 및 주방 독성 가스 차단",
-                        "text": "알 묶임 예방을 위해 칼슘 공급용 갑오징어 뼈(Cuttlebone)를 상시 배치하고, 테플론 가열 가스 노출을 차단합니다."
-                    },
-                    {
-                        "name": "낮: 얕은 미온수 목욕탕 제공, 동반 사육 동료와의 교감 및 수질 위생 관리",
-                        "text": "깃털 위생과 스트레스 해소를 위해 얕은 목욕 용기를 제공하고, 배설물로 오염된 물은 즉시 교체합니다."
-                    },
-                    {
-                        "name": "저녁: 케이지 바닥 배설물 청소, 등 만지기 자제(산란 자극 예방) 및 10~12시간 완전 암막 수면",
-                        "text": "위생적인 종이 깔개를 교체하고, 암컷의 과다 산란을 막기 위해 완전한 암막 커버를 씌워 숙면을 유도합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "금화조를 한 마리만 외롭게 키워도 되나요?",
-                        "answer": "절대 권장하지 않습니다! 금화조는 야생에서 수십 마리씩 무리를 이루어 살아가는 강한 사교성 동물입니다. 한 마리만 홀로 사육할 경우 심각한 외로움과 우울증, 스트레스로 인해 깃털을 자해하거나 면역력이 떨어져 조기 사망할 위험이 매우 높습니다. 반드시 동성 쌍이나 번식을 고려한 암수 쌍으로 2마리 이상 함께 사육해야 합니다."
-                    },
-                    {
-                        "question": "암컷 금화조의 치명적인 '알 묶임(Egg Binding)'은 어떻게 예방하나요?",
-                        "answer": "알 묶임은 체내 칼슘 부족, 과도한 일조 시간, 영양 불균형으로 인해 생성된 알이 산도로 나오지 못하고 막히는 병입니다. 상시 갑오징어 뼈나 굴껍질 가루를 제공하여 칼슘을 보충하고, 하루 10~12시간 이상의 완전 암막 수면으로 일조 시간을 제한하여 과도한 번식 호르몬 분비를 억제해야 합니다. 새가 바닥에 앉아 배를 부풀리고 힘을 준다면 즉시 병원에 가야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Zebra Finch Behavioral Signals and 3-Step Daily Routine for Egg Binding Prevention and Toxic Fume Protection",
-                "description": "Care guide for the cheerful Zebra Finch. Interpret tail wagging and feather puffing signals, prevent egg binding, avoid PTFE Teflon fumes, and manage nutrition in 3 steps.",
-                "authority": "Finch Society of America (FSA) & Association of Avian Veterinarians (AAV) Care Standards",
-                "profile": {
-                    "breed": "Zebra Finch (Taeniopygia guttata)",
-                    "lifespan": "5 - 8 Years (Up to 10 years with optimal care)",
-                    "sleep_pattern": "10 - 12 Hours (Uninterrupted blackout sleep for stress and hormone control)",
-                    "temperament": "Social, Active, Flock-Oriented, Cheerful Vocalizations, Sensitive"
-                },
-                "intro": "Native to the arid grasslands of Australia, the Zebra Finch (Taeniopygia guttata) is a world-renowned small songbird cherished for its distinctive barred chest, bright red beak, and cheerful beeping vocalizations. As obligate flock animals, Zebra Finches thrive on social interaction and suffer severe psychological distress if kept in isolation. However, their specialized air sac respiratory system makes them extremely vulnerable to airborne toxins such as PTFE (Teflon) cookware fumes, aerosols, and scented candles. Furthermore, female finches face high risks of fatal Egg Binding if calcium reserves are depleted or daylight hours are uncontrolled. In this guide, presents a 3-step daily care routine to decode your Zebra Finch's body language and safeguard its health.",
-                "whyTitle": "Zebra Finch Body Language: Tail Wagging (Beeping) and Feather Puffing (Fluffing)",
-                "whyDesc": "Zebra Finches communicate social happiness and critical illness through tail movements and feather posture. Gently flicking their tail side-to-side while producing crisp beeping sounds **'Tail Wagging & Beeping'** is an expression of social contentment and vitality. Conversely, sitting motionless on a perch with fluffed-up feathers and half-closed eyes **'Feather Puffing / Fluffing'** is a critical emergency signal indicating hypothermia, severe illness, or physical exhaustion.",
-                "body_signals": [
-                    {
-                        "name": "Flicking Tail Side-to-Side while Making Crisp 'Beeping' Sounds (Tail Wagging & Beeping)",
-                        "meaning": "An iconic finch social display indicating joy, good health, and active engagement with flock mates or owners.",
-                        "response": "Respond with gentle vocal praise, providing a shallow bath dish or fresh greens to enhance well-being."
-                    },
-                    {
-                        "name": "Puffing Out All Body Feathers into a Ball and Closing Eyes on Perch (Feather Puffing / Fluffing)",
-                        "meaning": "A critical distress signal masking advanced illness, severe hypothermia, or acute respiratory failure.",
-                        "response": "Immediately increase cage temperature to 28–30°C using safe heat sources and seek urgent avian veterinary care."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Premium Finch Seed/Pellet Mix, Cuttlebone Calcium Check & Kitchen Fume Protection",
-                        "text": "Provide high-quality seed mixes supplemented with pellets and constant cuttlebone access to prevent egg binding, keeping cages isolated from Teflon cookware."
-                    },
-                    {
-                        "name": "Afternoon: Shallow Bathing Water Provision, Social Flock Time & Hygiene Maintenance",
-                        "text": "Offer a shallow water dish for daily bathing to maintain feather health, promptly replacing soiled bathing water."
-                    },
-                    {
-                        "name": "Evening: Tray Liner Replacement, Nest-Trigger Control & 10–12 Hour Blackout Sleep",
-                        "text": "Clean cage paper, avoid artificial lighting past dusk, and cover the cage with a dark cloth for 10–12 hours of uninterrupted sleep to regulate hormones."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Can I keep a single Zebra Finch alone in a cage?",
-                        "answer": "It is strongly discouraged! Zebra Finches are highly social flock birds that naturally live in large colonies. A single finch kept alone suffers intense loneliness, chronic stress, and weakened immunity, often leading to feather plucking and premature death. Always keep them in same-sex pairs or compatible male-female pairs."
-                    },
-                    {
-                        "question": "How can I prevent life-threatening 'Egg Binding' in female Zebra Finches?",
-                        "answer": "Egg Binding occurs when a female cannot pass an egg due to calcium deficiency, excessive egg production, or cold drafts. Prevent this by providing constant cuttlebone or crushed oystershell for calcium, feeding fresh dark leafy greens (kale, spinach), and enforcing 10–12 hours of total darkness at night to inhibit chronic breeding hormones."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "キンカチョウ（錦花鳥）の行動サイン解読と卵詰まり(Egg Binding)・テフロン中毒予防のための3ステップデイリールーティン",
-                "description": "軽快な鳴き声とゼブラ模様が魅力の小型観賞鳥キンカチョウ（Zebra Finch）。尾振りや羽膨らましサインの解読、卵詰まり予防、テフロンガス遮断の3ステップホームケアを紹介します。",
-                "authority": "日本小鳥小動物協会 ＆ Association of Avian Veterinarians (AAV) 飼育基準",
-                "profile": {
-                    "breed": "キンカチョウ / 錦花鳥 (Zebra Finch / Taeniopygia guttata)",
-                    "lifespan": "5 〜 8年 (適切なケアで最大10年)",
-                    "sleep_pattern": "10 〜 12時間 (ストレス調節のための完全遮光睡眠)",
-                    "temperament": "社交的、活発、群れ行動本能、プープーと鳴く、繊細"
-                },
-                "intro": "オーストラリア原産のキンカチョウ（錦花鳥 / Zebra Finch）は、胸の美しいゼブラ模様と鮮やかな赤い嘴、プープーという愛らしい鳴き声で世界中から愛されている小型フィンチです。キンカチョウは群れで生活する非常に社交的な小鳥であり、1羽だけの単頭飼育は重度のストレスや鬱状態を引き起こします。また鳥類特有の気嚢（Air Sacs）構造を持つため、テフロン（PTFE）加工フライパンの加熱ガスやスプレー、芳香剤などの空気中有害物質に極めて敏感です。特にメスはカルシウム不足や過度な発情により卵が詰まる「卵詰まり（Egg Binding/難産）」を起こしやすく、体調不良を隠す習性があるため日頃の観察が不可欠です。本記事では、キンカチョウのサインを解読し健康を守る3ステップルーティンをお届けします。",
-                "whyTitle": "キンカチョウのボディランゲージ：尾振り・プープー鳴き(Tail Wagging)と羽膨らまし(Feather Puffing / Fluffing)",
-                "whyDesc": "キンカチョウは尾の動きと羽の状態で機げんと重篤な体調不良を明確に表現します。止まり木の上で尾を左右にフリフリと振りながら軽快に鳴く**「尾振り・プープー鳴き（Tail Wagging & Beeping）」**は、仲間や飼い主に対する親愛と健康な状態を示すサインです。一方、全身の羽をまん丸に膨らませて止まり木で目を閉じている**「羽膨らまし（Feather Puffing / Fluffing）」**は、体温低下、低体温症、急性感染症などの限界を示す緊急の病気サインです。",
-                "body_signals": [
-                    {
-                        "name": "尾を左右にフリフリと振りながら軽快な声で鳴く (Tail Wagging & Beeping)",
-                        "meaning": "同居鳥や飼い主への親愛、高い元気度、現在の環境への満足感を示すサインです。",
-                        "response": "優しく声をかけ、水浴び容器や新鮮な小松菜を提供してゴキゲンを保ちましょう。"
-                    },
-                    {
-                        "name": "全身の羽を丸く膨らませ、止まり木でじっと目を閉じる (Feather Puffing / Fluffing)",
-                        "meaning": "体温調節機能の低下、重度の低体温症、または隠しきれなくなった病気の危険シグナルです。",
-                        "response": "直ちにケージ温を28〜30℃に保温し、鳥類専門の動物病院を受診してください。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：フィンチ用シード・ペレット給餌、カトルボーン（ボレー粉）点検＆キッチン有毒ガスの遮断",
-                        "text": "卵詰まり予防のためカトルボーンやボレー粉を常備し、テフロンフライパン加熱ガスの吸入を徹底的に防ぎます。"
-                    },
-                    {
-                        "name": "昼：浅い水浴び容器の提供と水質衛生管理＆仲間とのコミュニケーション",
-                        "text": "羽の清潔とストレス発散のために浅い水浴び器を用意し、フンで汚れた水はすぐに交換します。"
-                    },
-                    {
-                        "name": "夜：ケージ底のフン清掃、背中撫で控え（発情抑制）と10〜12時間の完全遮光睡眠",
-                        "text": "敷紙を交換し、メスの過剰産卵を防ぐため暗幕カバーをかけて10〜12時間の十分な睡眠をとらせます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "キンカチョウを1羽だけで飼育しても大丈夫ですか？",
-                        "answer": "お勧めできません！キンカチョウは自然界で何十羽もの群れで暮らす社会性の高い鳥です。1羽だけで飼育すると激しい寂しさとストレスから毛引き症を起こしたり、免疫力が低下して早死にリスクが高まります。必ず同性同士、またはペア（ペア飼育）の2羽以上で飼育してください。"
-                    },
-                    {
-                        "question": "メスのキンカチョウの致死的な「卵詰まり（Egg Binding）」はどう予防すればよいですか？",
-                        "answer": "卵詰まりはカルシウム不足、日光不足、過度な発情によって卵が体内に詰まる病気です。ボレー粉やカトルボーンを常時設置してカルシウムを補給し、ビタミン豊かな青菜（小松菜）を与え、夜間は10〜12時間の完全遮光睡眠で日照時間を制限して発情ホルモンを抑えることが予防に繋がります。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "斑文鸟/斑胸草雀（金花鸟）行为信号解读与卡蛋 (Egg Binding) 及特氟龙毒气预防的 3 步日常流程",
-                "description": "拥有欢快鸣叫与斑马条纹的大热观赏鸟斑胸草雀（金花鸟/Zebra Finch）。解读摇尾与炸毛信号，预防卡蛋难产，隔离特氟龙毒气的 3 步骤家庭护理。",
-                "authority": "美国雀鸟协会 (FSA) 与美国鸟类兽医协会 (AAV) 护理标准",
-                "profile": {
-                    "breed": "斑胸草雀 / 金花鸟 (Zebra Finch / Taeniopygia guttata)",
-                    "lifespan": "5 ~ 8年 (科学喂养可达10年)",
-                    "sleep_pattern": "10 ~ 12小时 (完全遮光睡眠以调节压力与发情)",
-                    "temperament": "极喜群居、活泼、群居本能强、鸣叫欢快、敏感"
-                },
-                "intro": "原产于澳大利亚干燥草原的斑胸草雀（俗称“金花鸟”），凭其胸前精致的斑马条纹、鲜艳的红嘴以及小喇叭般“毕毕”欢快的鸣叫声而备受全球观赏鸟爱好者喜爱。金花鸟是严格的群居鸟类，单只独居极易产生严重的抑郁与免疫力下降。同时，它们特有的气囊（Air Sacs）呼吸系统对特氟龙（PTFE）不粘锅加热毒气、香精及喷雾极其敏感。特别是母鸟，在缺钙或过量发情时极易发生致命的“卡蛋/难产（Egg Binding）”，且作为被捕食者习惯隐瞒病情，出现炸毛时病情已十分严重。本指南将带您准确解读金花鸟肢体语言，并通过 3 步骤日常护理维护其健康。",
-                "whyTitle": "金花鸟肢体语言：欢快摇尾·鸣叫 (Tail Wagging & Beeping) 与蓬毛炸羽 (Feather Puffing / Fluffing)",
-                "whyDesc": "金花鸟通过尾部动作与羽毛蓬松状态清晰表达愉悦与重病危险。在栖木上轻柔左右摆动尾巴并发出清脆的“毕毕”声**“欢快摇尾·鸣叫 (Tail Wagging & Beeping)”**，是向同伴或主人表达欢愉与健康的信号。相反，将全身羽毛蓬松成球状、缩在栖木上闭眼发呆**“蓬毛炸羽 (Feather Puffing / Fluffing)”**，则是体温丧失、严重失温、感染或临界重病的紧急求救信号。",
-                "body_signals": [
-                    {
-                        "name": "左右轻摇尾巴并发出清脆的“毕毕”叫声 (Tail Wagging & Beeping)",
-                        "meaning": "表达见到同伴或主人的喜悦、精力充沛以及对当前环境感到非常舒适。",
-                        "response": "用温柔的声音回应，并提供浅水洗澡盆或新鲜青菜增进其福利。"
-                    },
-                    {
-                        "name": "全身羽毛高度蓬松如球，蹲在栖木上频繁闭眼 (Feather Puffing / Fluffing)",
-                        "meaning": "体温调节崩溃、重度失温、卡蛋或严重疾病爆发的极危信号。",
-                        "response": "立即使用保温灯将笼舍局部加温至 28°C~30°C，并紧急联系异宠鸟类医生。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：投喂草雀专用混合粮/滋养丸，墨鱼骨（补钙）检查与厨房毒气严格隔离",
-                        "text": "常备墨鱼骨以补充钙质预防卡蛋，并严禁在附近使用特氟龙涂层不粘锅加热。"
-                    },
-                    {
-                        "name": "中午：提供浅水洗澡盆与群居伙伴互动，维护水质卫生",
-                        "text": "提供浅水盘供其洗澡羽毛护理，被粪便污染的水需立即更换以防细菌滋生。"
-                    },
-                    {
-                        "name": "晚上：清理笼底废纸，严禁抚摸背部（防止发情）与保证 10~12 小时完全遮光睡眠",
-                        "text": "更换底纸，按时加盖遮光罩，保证 10~12 小时完全黑暗睡眠以抑制过量发情激素。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "可以只单独饲养一只金花鸟（斑胸草雀）吗？",
-                        "answer": "极不推荐！金花鸟在野外是成百上千只成群生活的强群居动物。单只饲养会导致其产生剧烈的孤独感与抑郁应激，常伴有拔羽症与免疫力衰退，极易早逝。必须成对（同性或异性）或群体饲养。"
-                    },
-                    {
-                        "question": "母金花鸟致命的“卡蛋/难产 (Egg Binding)”应该如何预防？",
-                        "answer": "卡蛋是由于体内严重缺钙、日照时间过长或频繁发情导致蛋体无法产出堵塞产道的急症。预防方法是笼内常年挂置墨鱼骨或保健砂补充钙质，投喂富含维生素的油菜/小松菜，并在夜间维持 10~12 小时完全遮光睡眠以缩短光照、抑制发情。若母鸟蹲在笼底拱背喘气，必须立即就医。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Señales de conducta en el Diamante Cebra (Zebra Finch) y rutina diaria de 3 pasos para la prevención de retención de huevos y toxicidad por teflón",
-                "description": "Guía de cuidado para el alegre Diamante Cebra (Zebra Finch). Interprete el movimiento de cola y el ahuecado de plumas, prevenga la retención de huevos, evite el teflón y cuide su nutrición en 3 pasos.",
-                "authority": "Finch Society of America (FSA) y Normas de la Association of Avian Veterinarians (AAV)",
-                "profile": {
-                    "breed": "Diamante Cebra / Mandarín (Zebra Finch / Taeniopygia guttata)",
-                    "lifespan": "5 ~ 8 años (Hasta 10 años con cuidados óptimos)",
-                    "sleep_pattern": "10 ~ 12 horas (Oscuridad total con funda opaca para control hormonal)",
-                    "temperament": "Social, Activo, Gregario, Canto alegre, Sensible"
-                },
-                "intro": "Originario de las sabanas áridas de Australia, el Diamante Cebra o Pinzón Mandarín (Taeniopygia guttata) es un ave de jaula muy popular por su pecho atigrado, pico rojo brillante y cantarín pitido. Al ser aves gregarias obligatorias, necesitan la compañía de sus congéneres. Sin embargo, su sistema respiratorio de sacos aéreos los hace vulnerables a toxinas volátiles como el teflón (PTFE). Además, las hembras corren el riesgo de sufrir retención de huevos (Egg Binding) mortal si carecen de calcio. En esta guía, presenta una rutina de 3 pasos para cuidar su salud.",
-                "whyTitle": "Lenguaje corporal del Diamante Cebra: Meneo de cola (Tail Wagging) y ahuecado de plumas (Feather Puffing / Fluffing)",
-                "whyDesc": "El Diamante Cebra comunica bienestar social y enfermedad crítica mediante el movimiento de la cola y la postura del plumaje. Mover la cola suavemente a los lados emitiendo pitos alegres **'Meneo de cola (Tail Wagging & Beeping)'** es una muestra de vitalidad y bienestar. En cambio, permanecer inmóvil como una bola de plumas con los ojos cerrados **'Ahuecado de plumas (Feather Puffing / Fluffing)'** es un síntoma de emergencia por hipotermia o enfermedad grave.",
-                "body_signals": [
-                    {
-                        "name": "Sacudir la cola lateralmente mientras emite pitidos claros (Tail Wagging & Beeping)",
-                        "meaning": "Muestra de bienestar social, buena salud y comunicación alegre con sus compañeros.",
-                        "response": "Habla suavemente y ofrécele un recipiente poco profundo para bañarse o verduras frescas."
-                    },
-                    {
-                        "name": "Ahuecar todas las plumas formando una bola y cerrar los ojos en la percha (Feather Puffing / Fluffing)",
-                        "meaning": "Señal crítica de socorro por enfermedad avanzada, hipotermia o fallo respiratorio.",
-                        "response": "Aumente la temperatura de la jaula a 28–30°C con calor seguro y acuda urgentemente al veterinario aviar."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Semillas y pienso extrusionado especial para pinzones, hueso de jibia y prevención de gases de teflón",
-                        "text": "Suministre mezcla de semillas con pienso y hueso de jibia (Cuttlebone) para el calcio, alejando la jaula de teflón caliente."
-                    },
-                    {
-                        "name": "Tarde: Baño de agua poco profundo, vida social en grupo e higiene del agua",
-                        "text": "Facilite un plato con agua limpia para el baño diario y cambie el agua si se ensucia con heces."
-                    },
-                    {
-                        "name": "Noche: Limpieza de bandeja, control de estímulos de cría y 10–12h de oscuridad total",
-                        "text": "Limpie el papel de la jaula, evite luz artificial nocturna y cubra con funda opaca de 10 a 12 horas para regular hormonas."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Puedo tener un solo Diamante Cebra solo en una jaula?",
-                        "answer": "¡No es aconsejable! Los Diamantes Cebra son aves gregarias que viven en grandes bandadas. Un ejemplar en soledad padece aislamiento, depresión crónica y bajada de defensas. Manténgalos siempre en parejas del mismo sexo o parejas reproductoras."
-                    },
-                    {
-                        "question": "¿Cómo evito la letal 'Retención de huevos (Egg Binding)' en las hembras?",
-                        "answer": "Ocurre cuando la hembra no puede expulsar un huevo por falta de calcio o exceso de puestas. Se previene ofreciendo hueso de jibia constante, verduras de hoja verde (espinaca, brócoli) y garantizando 10-12 horas de oscuridad total nocturna para limitar las hormonas reproductivas."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Signaux comportementaux du Diamant Mandarin (Zebra Finch) et routine quotidienne en 3 étapes pour la prévention de la rétention d'œuf et de la toxicité du téflon",
-                "description": "Guide de soins pour le joyeux Diamant Mandarin. Décryptez le frétillement de queue et l'ébouriffement des plumes, prévenez la rétention d'œuf, évitez le téflon et gérez son alimentation en 3 étapes.",
-                "authority": "Finch Society of America (FSA) & Normes de l'Association of Avian Veterinarians (AAV)",
-                "profile": {
-                    "breed": "Diamant Mandarin (Zebra Finch / Taeniopygia guttata)",
-                    "lifespan": "5 ~ 8 ans (Jusqu'à 10 ans avec des soins adaptés)",
-                    "sleep_pattern": "10 ~ 12 heures (Obscurité totale avec housse occultante pour la régulation du stress)",
-                    "temperament": "Social, Actif, Vivant en groupe, Chant joyeux, Sensible"
-                },
-                "intro": "Originaire des savanes d'Australie, le Diamant Mandarin (Taeniopygia guttata) est un petit oiseau très populaire grâce à sa poitrine zébrée, son bec rouge vif et ses pouets joyeux. Vivant en colonie, il a un besoin vital de vie sociale. Néanmoins, ses sacs aériens le rendent très vulnérable aux émanations de téflon (PTFE). De plus, les femelles risquent une rétention d'œuf (Egg Binding) mortelle en cas de carence en calcium. Dans ce guide, vous présente une routine en 3 étapes pour prendre soin de sa santé.",
-                "whyTitle": "Langage corporel du Diamant Mandarin : Frétillement de queue (Tail Wagging) et ébouriffement des plumes (Feather Puffing / Fluffing)",
-                "whyDesc": "Le Diamant Mandarin exprime le bien-être social et la maladie grave par ses mouvements de queue et sa posture. Agiter doucement la queue de gauche à droite en émettant des petits pouets **« Frétillement de queue (Tail Wagging & Beeping) »** témoigne de sa joie de vivre. En revanche, rester prostré comme une boule de plumes les yeux clos **« Ébouriffement des plumes (Feather Puffing / Fluffing) »** est un signal d'urgence indiquant une hypothermie ou une maladie grave.",
-                "body_signals": [
-                    {
-                        "name": "Agiter la queue de gauche à droite en poussant de petits 'pouets' (Tail Wagging & Beeping)",
-                        "meaning": "Signe d'épanouissement social, de bonne santé et d'interaction joyeuse avec ses congénères.",
-                        "response": "Parlez-lui doucement, mettez à sa disposition une baignoire peu profonde ou des légumes frais."
-                    },
-                    {
-                        "name": "Ébouriffer toutes ses plumes en boule et fermer les yeux sur son perchoir (Feather Puffing / Fluffing)",
-                        "meaning": "Signal de détresse critique masquant une maladie avancée, une hypothermie ou une défaillance respiratoire.",
-                        "response": "Montez immédiatement la température de la cage à 28–30°C avec une source de chaleur sûre et consultez d'urgence un vétérinaire."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Mélange de graines/granulés pour mandarins, os de seiche (calcium) & protection contre le téflon",
-                        "text": "Fournissez des graines de qualité avec de l'os de seiche pour éviter la rétention d'œuf, en l'éloignant des ustensiles en téflon."
-                    },
-                    {
-                        "name": "Après-midi : Baignoire d'eau peu profonde, vie sociale de groupe & hygiène de l'eau",
-                        "text": "Proposez de l'eau propre pour son bain quotidien et remplacez immédiatement l'eau souillée par les fientes."
-                    },
-                    {
-                        "name": "Soir : Nettoyage du fond de cage, contrôle du nid & 10–12h de sommeil sous housse occultante",
-                        "text": "Remplacez le papier de cage, évitez la lumière artificielle tardive et couvrez la cage d'un drap sombre pour réguler les hormones."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Puis-je garder un seul Diamant Mandarin seul dans une cage ?",
-                        "answer": "C'est fortement déconseillé ! Le Diamant Mandarin est un oiseau très social qui vit en grandes colonies à l'état sauvage. Un mandarin isolé souffre d'une solitude extrême, de stress chronique et de dépression, conduisant souvent au piquage et à une mort prématurée. Gardez-les toujours en couples de même sexe ou en couples reproducteurs."
-                    },
-                    {
-                        "question": "Comment prévenir la rétention d'œuf (Egg Binding) chez la femelle Diamant Mandarin ?",
-                        "answer": "La rétention d'œuf survient lorsqu'une femelle ne peut pas expulser son œuf par manque de calcium ou ponte répétée. On la prévient en offrant un accès permanent à de l'os de seiche, des légumes verts (épinards, brocolis) et en assurant 10 à 12 heures d'obscurité totale par nuit pour stopper les hormones de reproduction."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Verhaltenssignale des Zebrafinken und 3-Schritte-Tagesroutine für Legenot-Prophylaxe und Giftgas-Schutz",
-                "description": "Pflegeanleitung für den fröhlichen Zebrafinken. Schwanzwedeln und Aufplustern verstehen, Legenot vermeiden, PTFE-Teflon-Dämpfe verhindern und Ernährung in 3 Schritten managen.",
-                "authority": "Finch Society of America (FSA) & Standards der Association of Avian Veterinarians (AAV)",
-                "profile": {
-                    "breed": "Zebrafink (Taeniopygia guttata)",
-                    "lifespan": "5 ~ 8 Jahre (Bei optimaler Haltung bis zu 10 Jahre)",
-                    "sleep_pattern": "10 ~ 12 Stunden (Vollständige Abdunkelung zur Stress- und Hormonregulation)",
-                    "temperament": "Gesellig, Aktiv, Schwarmorientiert, Fröhliches Mucken, Empfindlich"
-                },
-                "intro": "Stammend aus den trockenen Graslandschaften Australiens ist der Zebrafink (Taeniopygia guttata) wegen seiner gestreiften Brust, seines roten Schnabels und seines fröhlichen Muckens ein weltbekannter Stubenvogel. Als strikte Schwarmtiere brauchen Zebrafinken den Kontakt zu Artgenossen. Allerdings macht sie ihr Atmungssystem mit Luftsäcken extrem anfällig für Luftgifte wie Teflon-Dämpfe (PTFE), Sprays und Duftkerzen. Weibliche Finken tragen zudem ein hohes Risiko für lebensgefährliche Legenot (Egg Binding) bei Calciummangel. In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für die Gesundheit Ihres Zebrafinken.",
-                "whyTitle": "Körpersprache des Zebrafinken: Schwanzwedeln (Mucken) und Aufplustern (Fluffing)",
-                "whyDesc": "Der Zebrafink drückt soziales Wohlbefinden und schwere Krankheit durch Schwanzbewegungen und Gefiederhaltung aus. Das sanfte Hin-und-Her-Wedeln mit dem Schwanz bei leisen Muck-Lauten **'Schwanzwedeln & Mucken'** ist Ausdruck von Lebensfreude und Gesundheit. Das regungslose Verharren als Gefiederkugel mit geschlossenen Augen **'Aufplustern (Feather Puffing / Fluffing)'** ist dagegen ein Notfallsymptom für Unterkühlung oder schwere Krankheiten.",
-                "body_signals": [
-                    {
-                        "name": "Schwanz seitlich bewegen und klares 'Mucken' ertönen lassen (Tail Wagging & Beeping)",
-                        "meaning": "Ausdruck von sozialer Zufriedenheit, Aktivität und Wohlbefinden im Schwarm oder mit dem Halter.",
-                        "response": "Antworten Sie ruhig und bieten Sie eine flache Badeschale oder frisches Grünfutter an."
-                    },
-                    {
-                        "name": "Alle Körperfedern zu einer Kugel aufplustern und auf der Stange die Augen schließen (Feather Puffing / Fluffing)",
-                        "meaning": "Alarmsignal für schweres Leiden, Unterkühlung oder beginnendes Organversagen.",
-                        "response": "Erhöhen Sie die Käfigtemperatur sofort auf 28–30 °C mit einer Wärmelampe und suchen Sie einen Vogelarzt auf."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Finken-Saatgut/Pellet-Mix, Sepiaschale prüfen & Schutz vor Teflon-Dämpfen",
-                        "text": "Füttern Sie hochwertige Saaten mit Pellets und stellen Sie Sepiaschalen für Calcium bereit; halten Sie die Vögel fern von erhitzten Teflonpfannen."
-                    },
-                    {
-                        "name": "Mittag: Badeschale anbieten, Schwarm-Sozialzeit & Wasserhygiene",
-                        "text": "Bieten Sie tägliches Baden in einer flachen Schale zur Gefiederpflege an und wechseln Sie verschmutztes Badewasser sofort aus."
-                    },
-                    {
-                        "name": "Abend: Bodeneinlage wechseln, Brutreize vermeiden & 10–12 Stunden Schlafabdunkelung",
-                        "text": "Wechseln Sie das Käfigpapier, meiden Sie spätes Kunstlicht und decken Sie den Käfig ab, um Brut-Hormone zu unterdrücken."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Kann ich einen einzelnen Zebrafinken alleine im Käfig halten?",
-                        "answer": "Davon wird dringend abgeraten! Zebrafinken sind hochgesellige Schwarmvögel, die in der Natur in großen Kolonien leben. Ein einzelner Fink leidet unter Einsamkeit, chronischem Stress und Immunschwäche, was zu Federrupfen und frühem Tod führt. Halten Sie sie immer mindestens paarweise."
-                    },
-                    {
-                        "question": "Wie verhindere ich die lebensgefährliche 'Legenot (Egg Binding)' bei Zebrafinken-Weibchen?",
-                        "answer": "Legenot entsteht, wenn das Weibchen ein Ei wegen Calciummangel oder Dauerlegen nicht auspressen kann. Beugen Sie vor, indem Sie dauerhaft Sepiaschale oder Muschelgrit anbieten, frisches Grünfutter reichen und nachts 10–12 Stunden Dunkelheit zur Hormonregulation einhalten."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Sinais comportamentais do Mandarim (Zebra Finch) e rotina diária de 3 passos para prevenção de retenção de ovos e proteção contra gases tóxicos",
-                "description": "Guia de cuidados para o alegre Mandarim (Zebra Finch). Interprete o abanar da cauda e o eriçar de penas, previna a retenção de ovos, evite o teflon e cuide da nutrição em 3 passos.",
-                "authority": "Finch Society of America (FSA) & Padrões da Association of Avian Veterinarians (AAV)",
-                "profile": {
-                    "breed": "Mandarim / Diamante-Mandarim (Zebra Finch / Taeniopygia guttata)",
-                    "lifespan": "5 ~ 8 anos (Até 10 anos com cuidados adequados)",
-                    "sleep_pattern": "10 ~ 12 horas (Escuridão total com capa blackout para controle hormonal)",
-                    "temperament": "Social, Ativo, Gregário, Canto alegre, Sensível"
-                },
-                "intro": "Originário dos campos áridos da Austrália, o Mandarim ou Diamante-Mandarim (Taeniopygia guttata) é um pássaro de gaiola amado no mundo todo por seu peito zebrado, bico vermelho vibrante e piados alegres. Por serem aves gregárias obrigatórias, precisam viver acompanhados. Contudo, seu sistema respiratório de sacos aéreos os torna extremamente sensíveis a toxinas voláteis como o teflon (PTFE). Além disso, as fêmeas têm alto risco de retenção de ovos (Egg Binding) caso faltar cálcio. Neste guia, apresenta uma rotina de 3 passos para cuidar da sua saúde.",
-                "whyTitle": "Linguagem corporal do Mandarim: Abanar da cauda (Tail Wagging) e eriçar de penas (Feather Puffing / Fluffing)",
-                "whyDesc": "O Mandarim comunica bem-estar social e doenças graves através de movimentos da cauda e postura da plumagem. Mover a cauda suavemente para os lados emitindo piados alegres **'Abanar da cauda (Tail Wagging & Beeping)'** é um sinal de vitalidade e felicidade. Por outro lado, ficar imóvel como uma bola de penas com os olhos fechados **'Eriçar de penas (Feather Puffing / Fluffing)'** é um sintoma de emergência por hipotermia ou doença grave.",
-                "body_signals": [
-                    {
-                        "name": "Sacudir a cauda lateralmente emitindo piados claros (Tail Wagging & Beeping)",
-                        "meaning": "Sinal de bem-estar social, boa saúde e interação alegre com seus companheiros.",
-                        "response": "Fale com tom suave e ofereça uma banheira rasa com água limpa ou folhas verdes."
-                    },
-                    {
-                        "name": "Eriçar todas as penas formando uma bola e fechar os olhos no poleiro (Feather Puffing / Fluffing)",
-                        "meaning": "Sinal crítico de socorro que esconde doença avançada, hipotermia ou falência respiratória.",
-                        "response": "Aumente a temperatura da gaiola para 28–30°C com calor seguro e consulte um veterinário de aves urgentemente."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Ração e sementes para mandarim, osso de siba (cálcio) & proteção contra teflon",
-                        "text": "Forneça mistura de sementes com ração extrusada e osso de siba para cálcio, mantendo a gaiola longe de panelas de teflon."
-                    },
-                    {
-                        "name": "Tarde: Banho de água rasa, interação social em grupo e higiene da água",
-                        "text": "Ofereça uma banheira com água limpa para o banho diário e troque a água se estiver suja com fezes."
-                    },
-                    {
-                        "name": "Noite: Limpeza da bandeja, controle de estresse reprodutivo e 10–12h de sono em blackout",
-                        "text": "Troque o papel da gaiola, evite luzes acesas à noite e cubra com capa escura por 10 a 12 horas para regular hormônios."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Posso criar um único Mandarim sozinho em uma gaiola?",
-                        "answer": "É totalmente desaconselhado! Os Mandarins são aves extremamente sociais que vivem em grandes bandos. Um exemplar sozinho sofre de solidão profunda, estresse crônico e queda na imunidade, levando ao arrancamento de penas e morte precoce. Crie-os sempre em pares do mesmo sexo ou casais."
-                    },
-                    {
-                        "question": "Como prevenir a perigosa 'Retenção de Ovos (Egg Binding)' nas fêmeas de Mandarim?",
-                        "answer": "Ocorre quando a fêmea não consegue expelir um ovo por falta de cálcio ou excesso de postura. Previne-se oferecendo osso de siba constante, vegetais folhosos verdes (couve, espinafre) e garantindo 10-12 horas de escuridão total à noite para inibir hormônios reprodutivos."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Sinyal Perilaku Burung Piwit Zebra (Zebra Finch) dan Rutinitas Harian 3 Langkah Perawatan Pencegahan Telur Tersangkut dan Racun Asap",
-                "description": "Panduan perawatan burung gembira Zebra Finch (Taeniopygia guttata). Pahami sinyal guncang ekor dan bulu mekar, cegah telur tersangkut, hindari racun teflon, serta jaga nutrisinya dalam 3 langkah.",
-                "authority": "Standar Perawatan Finch Society of America (FSA) & Association of Avian Veterinarians (AAV)",
-                "profile": {
-                    "breed": "Burung Zebra Finch / Piwit Zebra (Taeniopygia guttata)",
-                    "lifespan": "5 ~ 8 tahun (Hingga 10 tahun dengan perawatan optimal)",
-                    "sleep_pattern": "10 ~ 12 jam (Kegelapan total dengan penutup sangkar untuk kontrol stres dan hormon)",
-                    "temperament": "Sangat Sosial, Aktif, Suka Berkelompok, Suara Bersahut-sahutan Ceria, Sensitif"
-                },
-                "intro": "Berasal dari padang rumput kering di Australia, Zebra Finch (Taeniopygia guttata) adalah burung pengicau kecil yang sangat populer di seluruh dunia karena dada bergaris zebramya, paruh merah cerah, dan suaranya yang khas. Sebagai hewan sosial sejati, Zebra Finch hidup bahagia saat berkelompok dan akan menderita stres berat jika diisolasi. Namun, sistem pernapasan kantung udara membuat mereka rentan terhadap racun asap PTFE (Teflon), semprotan aerosol, dan lilin beraroma. Betina juga berisiko tinggi mengalami Telur Tersangkut (Egg Binding) jika kekurangan kalsium. Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk merawat kesehatan Zebra Finch Anda.",
-                "whyTitle": "Bahasa Tubuh Zebra Finch: Goyang Ekor (Suara Bunyi) dan Bulu Mekar (Feather Puffing)",
-                "whyDesc": "Zebra Finch menyampaikan rasa bahagia dan kondisi sakit parah melalui gerakan ekor dan bentuk bulu. Mengibaskan ekor secara halus ke kiri-kanan sambil mengeluarkan suara pito-pito yang jernih **'Goyang Ekor & Suara Bunyi'** adalah ungkapan vitalitas dan kebahagiaan sosial. Sebaliknya, duduk tidak bergerak seperti bola bulu dengan mata setengah terpejam **'Bulu Mekar (Feather Puffing / Fluffing)'** adalah sinyal darurat bahaya hipotermia atau sakit parah.",
-                "body_signals": [
-                    {
-                        "name": "Mengibaskan Ekor Kiri-Kanan Sambil Mengeluarkan Suara 'Pit-Pit' Jernih (Tail Wagging & Beeping)",
-                        "meaning": "Tanda kebahagiaan sosial, kesehatan yang baik, dan komunikasi ceria dengan kawanannya.",
-                        "response": "Sapa dengan suara lembut, dan sediakan wadah mandi air dangkal atau sayuran segar."
-                    },
-                    {
-                        "name": "Mengembangkan Seluruh Bulu Tubuh Menjadi Bulat dan Memejamkan Mata di Tangkringan (Feather Puffing / Fluffing)",
-                        "meaning": "Sinyal bahaya kritis yang menutupi penyakit berat, hipotermia, atau gagal napas.",
-                        "response": "Segera naikkan suhu sangkar menjadi 28–30°C dengan pemanas aman dan hubungi dokter hewan khusus burung."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Pakan Biji/Pelet Khusus Finch, Cek Tulang Cumi (Kalsium) & Perlindungan Asap Teflon Dapur",
-                        "text": "Berikan pakan biji berkualitas dengan pelet serta sediakan tulang cumi (cuttlebone) untuk kalsium, serta jauhkankan sangkar dari teflon."
-                    },
-                    {
-                        "name": "Siang: Penyediaan Wadah Mandi Dangkal, Waktu Bersosialisasi & Kebersihan Air",
-                        "text": "Sediakan wadah air dangkal untuk mandi bulu harian dan segera ganti air jika kotor terkena kotoran."
-                    },
-                    {
-                        "name": "Malam: Pembersihan Alas Sangkar, Kontrol Rangsangan Bertelur & Tidur Gelap Total 10–12 Jam",
-                        "text": "Ganti alas kertas sangkar, hindari lampu malam terang, dan tutup sangkar dengan kain gelap selama 10-12 jam untuk kontrol hormon."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Bolehkah saya memelihara satu ekor Zebra Finch saja di dalam sangkar?",
-                        "answer": "Sangat tidak disarankan! Zebra Finch adalah burung sosial yang hidup dalam kawanan besar di alam liar. Memelihara satu ekor saja akan membuatnya kesepian berat, stres kronis, dan penurunan imunitas yang memicu tindakan mencabut bulu sendiri hingga kematian dini. Selalu pelihara berpasangan sesama jenis atau pasangan jantan-betina."
-                    },
-                    {
-                        "question": "Bagaimana cara mencegah kondisi mematikan 'Telur Tersangkut (Egg Binding)' pada Zebra Finch betina?",
-                        "answer": "Telur Tersangkut terjadi saat betina tidak bisa mengeluarkan telur akibat kekurangan kalsium atau terlalu sering bertelur. Cegah dengan menyediakan tulang cumi (cuttlebone) secara terus-menerus, beri sayuran hijau tua segar (bayam, brokoli), dan berikan waktu tidur gelap total 10–12 jam di malam hari untuk menekan hormon reproduksi."
-                    }
-                ]
-            }
+  "zebra-finch-care": {
+    "pubDate": "2026-05-02",
+    "updatedDate": "2026-05-02",
+    "locales": {
+      "ko": {
+        "title": "금화조의 교감·질병 신호 해석과 알 묶임(Egg Binding) 및 테플론 독성 예방을 위한 3단계 데일리 케어",
+        "description": "경쾌한 울음소리와 얼룩말 무늬가 매력적인 소형 관상조류 금화조(Zebra Finch). 꼬리 흔들기 및 깃털 부풀리기 신호 해석, 알 묶임 예방, 수질 및 독성 가스 차단을 위한 3단계 홈케어 루틴을 소개합니다.",
+        "authority": "국제 핀치 협회 (FSA) 및 Association of Avian Veterinarians (AAV) 케어 프로토콜",
+        "profile": {
+          "breed": "금화조 (Zebra Finch / Taeniopygia guttata)",
+          "lifespan": "5 ~ 8년 (올바른 케어 시 최대 10년)",
+          "sleep_pattern": "10 ~ 12시간 (완전한 암막 수면으로 스트레스 조절)",
+          "temperament": "사교적임, 활발함, 무리 생활 본능, 경쾌한 소리, 예민함"
         },
-        "heroImage": "/images/blog/zebra_finch_care.webp"
-    }
+        "intro": "오스트레일리아 대륙 원산의 금화조(Zebra Finch)는 가슴의 섬세한 얼룩말 무늬 패턴과 붉은 부리, 경쾌한 울음소리로 전 세계에서 사랑받는 대표적인 소형 핀치류 관상조류입니다. 금화조는 무리 생활을 하는 매우 사교적인 새로서 단독 사육 시 극심한 우울증과 면역 저하를 겪기 쉽습니다. 또한 앵무새나 핀치류 특유의 공기주머니(Air Sacs) 호흡 구조로 인해 주방의 테플론(PTFE) 가열 가스, 아로마 향수, 스프레이 등 공기 중 오염 물질에 매우 취약합니다. 특히 암컷의 경우 체내 칼슘 결핍이나 과도한 산란 자극 시 알이 걸려 나오지 못하는 치명적인 '알 묶임(Egg Binding/난산)'이 발생하기 쉬우며, 조류 특성상 아픈 것을 숨기다가 깃털을 부풀리는 상태에 이르러서야 이상을 드러냅니다. 이번 가이드에서는 금화조의 행동 신호를 정확히 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
+        "whyTitle": "금화조의 바디 랭귀지: 꼬리 흔들기·울음소리(Tail Wagging / Beeping)와 깃털 부풀리기(Feather Puffing / Fluffing)",
+        "whyDesc": "금화조는 꼬리의 움직임과 깃털의 확장 상태로 만족감과 중증 질병 신호를 명확히 구분합니다. 횃대 위에서 꼬리를 살랑살랑 좌우로 흔들며 짧고 경쾌한 소리를 내는 **'꼬리 흔들기·울음소리(Tail Wagging & Beeping)'**는 동료나 보호자를 향한 활기찬 교감 및 만족감의 표시입니다. 반면 몸의 깃털을 동그랗게 바짝 부풀리고 횃대에 웅크린 채 눈을 감고 있는 **'깃털 부풀리기(Feather Puffing / Fluffing)'**는 체온 저하, 저체온증, 만성 감염 또는 중증 질병을 숨기다 한계에 도달했다는 긴급 질병 위험 신호입니다.",
+        "body_signals": [
+          {
+            "name": "꼬리를 살랑살랑 좌우로 흔들며 경쾌한 울음소리를 냄 (Tail Wagging & Beeping)",
+            "meaning": "동료 핀치나 보호자에 대한 반가움, 건강한 체력, 현재 환경에 대한 만족감을 나타내는 신호입니다.",
+            "response": "다정한 목소리로 응답하고, 신선한 야채나 청결한 목욕물을 제공하여 기분을 북돋워 줍니다."
+          },
+          {
+            "name": "온몸의 깃털을 바짝 부풀리고 횃대 위에서 눈을 자주 감음 (Feather Puffing / Fluffing)",
+            "meaning": "체온 조절 마비, 저체온증, 알 묶임 초래, 또는 심각한 유기적 질환을 내포한 긴급 신호입니다.",
+            "response": "즉시 사육장 온도를 28~30°C로 높여 온열 조치를 취하고, 조류 전문 수의사의 진료를 받아야 합니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 핀치 전용 혼합 모이·펠릿 급여, 갑오징어 뼈(갑오징어 뼈 칼슘) 점검 및 주방 독성 가스 차단",
+            "text": "알 묶임 예방을 위해 칼슘 공급용 갑오징어 뼈(Cuttlebone)를 상시 배치하고, 테플론 가열 가스 노출을 차단합니다."
+          },
+          {
+            "name": "낮: 얕은 미온수 목욕탕 제공, 동반 사육 동료와의 교감 및 수질 위생 관리",
+            "text": "깃털 위생과 스트레스 해소를 위해 얕은 목욕 용기를 제공하고, 배설물로 오염된 물은 즉시 교체합니다."
+          },
+          {
+            "name": "저녁: 케이지 바닥 배설물 청소, 등 만지기 자제(산란 자극 예방) 및 10~12시간 완전 암막 수면",
+            "text": "위생적인 종이 깔개를 교체하고, 암컷의 과다 산란을 막기 위해 완전한 암막 커버를 씌워 숙면을 유도합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "금화조를 한 마리만 외롭게 키워도 되나요?",
+            "answer": "절대 권장하지 않습니다! 금화조는 야생에서 수십 마리씩 무리를 이루어 살아가는 강한 사교성 동물입니다. 한 마리만 홀로 사육할 경우 심각한 외로움과 우울증, 스트레스로 인해 깃털을 자해하거나 면역력이 떨어져 조기 사망할 위험이 매우 높습니다. 반드시 동성 쌍이나 번식을 고려한 암수 쌍으로 2마리 이상 함께 사육해야 합니다."
+          },
+          {
+            "question": "암컷 금화조의 치명적인 '알 묶임(Egg Binding)'은 어떻게 예방하나요?",
+            "answer": "알 묶임은 체내 칼슘 부족, 과도한 일조 시간, 영양 불균형으로 인해 생성된 알이 산도로 나오지 못하고 막히는 병입니다. 상시 갑오징어 뼈나 굴껍질 가루를 제공하여 칼슘을 보충하고, 하루 10~12시간 이상의 완전 암막 수면으로 일조 시간을 제한하여 과도한 번식 호르몬 분비를 억제해야 합니다. 새가 바닥에 앉아 배를 부풀리고 힘을 준다면 즉시 병원에 가야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Zebra Finch Behavioral Signals and 3-Step Daily Routine for Egg Binding Prevention and Toxic Fume Protection",
+        "description": "Care guide for the cheerful Zebra Finch. Interpret tail wagging and feather puffing signals, prevent egg binding, avoid PTFE Teflon fumes, and manage nutrition in 3 steps.",
+        "authority": "Finch Society of America (FSA) & Association of Avian Veterinarians (AAV) Care Standards",
+        "profile": {
+          "breed": "Zebra Finch (Taeniopygia guttata)",
+          "lifespan": "5 - 8 Years (Up to 10 years with optimal care)",
+          "sleep_pattern": "10 - 12 Hours (Uninterrupted blackout sleep for stress and hormone control)",
+          "temperament": "Social, Active, Flock-Oriented, Cheerful Vocalizations, Sensitive"
+        },
+        "intro": "Native to the arid grasslands of Australia, the Zebra Finch (Taeniopygia guttata) is a world-renowned small songbird cherished for its distinctive barred chest, bright red beak, and cheerful beeping vocalizations. As obligate flock animals, Zebra Finches thrive on social interaction and suffer severe psychological distress if kept in isolation. However, their specialized air sac respiratory system makes them extremely vulnerable to airborne toxins such as PTFE (Teflon) cookware fumes, aerosols, and scented candles. Furthermore, female finches face high risks of fatal Egg Binding if calcium reserves are depleted or daylight hours are uncontrolled. In this guide, presents a 3-step daily care routine to decode your Zebra Finch's body language and safeguard its health.",
+        "whyTitle": "Zebra Finch Body Language: Tail Wagging (Beeping) and Feather Puffing (Fluffing)",
+        "whyDesc": "Zebra Finches communicate social happiness and critical illness through tail movements and feather posture. Gently flicking their tail side-to-side while producing crisp beeping sounds **'Tail Wagging & Beeping'** is an expression of social contentment and vitality. Conversely, sitting motionless on a perch with fluffed-up feathers and half-closed eyes **'Feather Puffing / Fluffing'** is a critical emergency signal indicating hypothermia, severe illness, or physical exhaustion.",
+        "body_signals": [
+          {
+            "name": "Flicking Tail Side-to-Side while Making Crisp 'Beeping' Sounds (Tail Wagging & Beeping)",
+            "meaning": "An iconic finch social display indicating joy, good health, and active engagement with flock mates or owners.",
+            "response": "Respond with gentle vocal praise, providing a shallow bath dish or fresh greens to enhance well-being."
+          },
+          {
+            "name": "Puffing Out All Body Feathers into a Ball and Closing Eyes on Perch (Feather Puffing / Fluffing)",
+            "meaning": "A critical distress signal masking advanced illness, severe hypothermia, or acute respiratory failure.",
+            "response": "Immediately increase cage temperature to 28–30°C using safe heat sources and seek urgent avian veterinary care."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Premium Finch Seed/Pellet Mix, Cuttlebone Calcium Check & Kitchen Fume Protection",
+            "text": "Provide high-quality seed mixes supplemented with pellets and constant cuttlebone access to prevent egg binding, keeping cages isolated from Teflon cookware."
+          },
+          {
+            "name": "Afternoon: Shallow Bathing Water Provision, Social Flock Time & Hygiene Maintenance",
+            "text": "Offer a shallow water dish for daily bathing to maintain feather health, promptly replacing soiled bathing water."
+          },
+          {
+            "name": "Evening: Tray Liner Replacement, Nest-Trigger Control & 10–12 Hour Blackout Sleep",
+            "text": "Clean cage paper, avoid artificial lighting past dusk, and cover the cage with a dark cloth for 10–12 hours of uninterrupted sleep to regulate hormones."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Can I keep a single Zebra Finch alone in a cage?",
+            "answer": "It is strongly discouraged! Zebra Finches are highly social flock birds that naturally live in large colonies. A single finch kept alone suffers intense loneliness, chronic stress, and weakened immunity, often leading to feather plucking and premature death. Always keep them in same-sex pairs or compatible male-female pairs."
+          },
+          {
+            "question": "How can I prevent life-threatening 'Egg Binding' in female Zebra Finches?",
+            "answer": "Egg Binding occurs when a female cannot pass an egg due to calcium deficiency, excessive egg production, or cold drafts. Prevent this by providing constant cuttlebone or crushed oystershell for calcium, feeding fresh dark leafy greens (kale, spinach), and enforcing 10–12 hours of total darkness at night to inhibit chronic breeding hormones."
+          }
+        ]
+      },
+      "ja": {
+        "title": "キンカチョウ（錦花鳥）の行動サイン解読と卵詰まり(Egg Binding)・テフロン中毒予防のための3ステップデイリールーティン",
+        "description": "軽快な鳴き声とゼブラ模様が魅力の小型観賞鳥キンカチョウ（Zebra Finch）。尾振りや羽膨らましサインの解読、卵詰まり予防、テフロンガス遮断の3ステップホームケアを紹介します。",
+        "authority": "日本小鳥小動物協会 ＆ Association of Avian Veterinarians (AAV) 飼育基準",
+        "profile": {
+          "breed": "キンカチョウ / 錦花鳥 (Zebra Finch / Taeniopygia guttata)",
+          "lifespan": "5 〜 8年 (適切なケアで最大10年)",
+          "sleep_pattern": "10 〜 12時間 (ストレス調節のための完全遮光睡眠)",
+          "temperament": "社交的、活発、群れ行動本能、プープーと鳴く、繊細"
+        },
+        "intro": "オーストラリア原産のキンカチョウ（錦花鳥 / Zebra Finch）は、胸の美しいゼブラ模様と鮮やかな赤い嘴、プープーという愛らしい鳴き声で世界中から愛されている小型フィンチです。キンカチョウは群れで生活する非常に社交的な小鳥であり、1羽だけの単頭飼育は重度のストレスや鬱状態を引き起こします。また鳥類特有の気嚢（Air Sacs）構造を持つため、テフロン（PTFE）加工フライパンの加熱ガスやスプレー、芳香剤などの空気中有害物質に極めて敏感です。特にメスはカルシウム不足や過度な発情により卵が詰まる「卵詰まり（Egg Binding/難産）」を起こしやすく、体調不良を隠す習性があるため日頃の観察が不可欠です。本記事では、キンカチョウのサインを解読し健康を守る3ステップルーティンをお届けします。",
+        "whyTitle": "キンカチョウのボディランゲージ：尾振り・プープー鳴き(Tail Wagging)と羽膨らまし(Feather Puffing / Fluffing)",
+        "whyDesc": "キンカチョウは尾の動きと羽の状態で機げんと重篤な体調不良を明確に表現します。止まり木の上で尾を左右にフリフリと振りながら軽快に鳴く**「尾振り・プープー鳴き（Tail Wagging & Beeping）」**は、仲間や飼い主に対する親愛と健康な状態を示すサインです。一方、全身の羽をまん丸に膨らませて止まり木で目を閉じている**「羽膨らまし（Feather Puffing / Fluffing）」**は、体温低下、低体温症、急性感染症などの限界を示す緊急の病気サインです。",
+        "body_signals": [
+          {
+            "name": "尾を左右にフリフリと振りながら軽快な声で鳴く (Tail Wagging & Beeping)",
+            "meaning": "同居鳥や飼い主への親愛、高い元気度、現在の環境への満足感を示すサインです。",
+            "response": "優しく声をかけ、水浴び容器や新鮮な小松菜を提供してゴキゲンを保ちましょう。"
+          },
+          {
+            "name": "全身の羽を丸く膨らませ、止まり木でじっと目を閉じる (Feather Puffing / Fluffing)",
+            "meaning": "体温調節機能の低下、重度の低体温症、または隠しきれなくなった病気の危険シグナルです。",
+            "response": "直ちにケージ温を28〜30℃に保温し、鳥類専門の動物病院を受診してください。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：フィンチ用シード・ペレット給餌、カトルボーン（ボレー粉）点検＆キッチン有毒ガスの遮断",
+            "text": "卵詰まり予防のためカトルボーンやボレー粉を常備し、テフロンフライパン加熱ガスの吸入を徹底的に防ぎます。"
+          },
+          {
+            "name": "昼：浅い水浴び容器の提供と水質衛生管理＆仲間とのコミュニケーション",
+            "text": "羽の清潔とストレス発散のために浅い水浴び器を用意し、フンで汚れた水はすぐに交換します。"
+          },
+          {
+            "name": "夜：ケージ底のフン清掃、背中撫で控え（発情抑制）と10〜12時間の完全遮光睡眠",
+            "text": "敷紙を交換し、メスの過剰産卵を防ぐため暗幕カバーをかけて10〜12時間の十分な睡眠をとらせます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "キンカチョウを1羽だけで飼育しても大丈夫ですか？",
+            "answer": "お勧めできません！キンカチョウは自然界で何十羽もの群れで暮らす社会性の高い鳥です。1羽だけで飼育すると激しい寂しさとストレスから毛引き症を起こしたり、免疫力が低下して早死にリスクが高まります。必ず同性同士、またはペア（ペア飼育）の2羽以上で飼育してください。"
+          },
+          {
+            "question": "メスのキンカチョウの致死的な「卵詰まり（Egg Binding）」はどう予防すればよいですか？",
+            "answer": "卵詰まりはカルシウム不足、日光不足、過度な発情によって卵が体内に詰まる病気です。ボレー粉やカトルボーンを常時設置してカルシウムを補給し、ビタミン豊かな青菜（小松菜）を与え、夜間は10〜12時間の完全遮光睡眠で日照時間を制限して発情ホルモンを抑えることが予防に繋がります。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "斑文鸟/斑胸草雀（金花鸟）行为信号解读与卡蛋 (Egg Binding) 及特氟龙毒气预防的 3 步日常流程",
+        "description": "拥有欢快鸣叫与斑马条纹的大热观赏鸟斑胸草雀（金花鸟/Zebra Finch）。解读摇尾与炸毛信号，预防卡蛋难产，隔离特氟龙毒气的 3 步骤家庭护理。",
+        "authority": "美国雀鸟协会 (FSA) 与美国鸟类兽医协会 (AAV) 护理标准",
+        "profile": {
+          "breed": "斑胸草雀 / 金花鸟 (Zebra Finch / Taeniopygia guttata)",
+          "lifespan": "5 ~ 8年 (科学喂养可达10年)",
+          "sleep_pattern": "10 ~ 12小时 (完全遮光睡眠以调节压力与发情)",
+          "temperament": "极喜群居、活泼、群居本能强、鸣叫欢快、敏感"
+        },
+        "intro": "原产于澳大利亚干燥草原的斑胸草雀（俗称“金花鸟”），凭其胸前精致的斑马条纹、鲜艳的红嘴以及小喇叭般“毕毕”欢快的鸣叫声而备受全球观赏鸟爱好者喜爱。金花鸟是严格的群居鸟类，单只独居极易产生严重的抑郁与免疫力下降。同时，它们特有的气囊（Air Sacs）呼吸系统对特氟龙（PTFE）不粘锅加热毒气、香精及喷雾极其敏感。特别是母鸟，在缺钙或过量发情时极易发生致命的“卡蛋/难产（Egg Binding）”，且作为被捕食者习惯隐瞒病情，出现炸毛时病情已十分严重。本指南将带您准确解读金花鸟肢体语言，并通过 3 步骤日常护理维护其健康。",
+        "whyTitle": "金花鸟肢体语言：欢快摇尾·鸣叫 (Tail Wagging & Beeping) 与蓬毛炸羽 (Feather Puffing / Fluffing)",
+        "whyDesc": "金花鸟通过尾部动作与羽毛蓬松状态清晰表达愉悦与重病危险。在栖木上轻柔左右摆动尾巴并发出清脆的“毕毕”声**“欢快摇尾·鸣叫 (Tail Wagging & Beeping)”**，是向同伴或主人表达欢愉与健康的信号。相反，将全身羽毛蓬松成球状、缩在栖木上闭眼发呆**“蓬毛炸羽 (Feather Puffing / Fluffing)”**，则是体温丧失、严重失温、感染或临界重病的紧急求救信号。",
+        "body_signals": [
+          {
+            "name": "左右轻摇尾巴并发出清脆的“毕毕”叫声 (Tail Wagging & Beeping)",
+            "meaning": "表达见到同伴或主人的喜悦、精力充沛以及对当前环境感到非常舒适。",
+            "response": "用温柔的声音回应，并提供浅水洗澡盆或新鲜青菜增进其福利。"
+          },
+          {
+            "name": "全身羽毛高度蓬松如球，蹲在栖木上频繁闭眼 (Feather Puffing / Fluffing)",
+            "meaning": "体温调节崩溃、重度失温、卡蛋或严重疾病爆发的极危信号。",
+            "response": "立即使用保温灯将笼舍局部加温至 28°C~30°C，并紧急联系异宠鸟类医生。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：投喂草雀专用混合粮/滋养丸，墨鱼骨（补钙）检查与厨房毒气严格隔离",
+            "text": "常备墨鱼骨以补充钙质预防卡蛋，并严禁在附近使用特氟龙涂层不粘锅加热。"
+          },
+          {
+            "name": "中午：提供浅水洗澡盆与群居伙伴互动，维护水质卫生",
+            "text": "提供浅水盘供其洗澡羽毛护理，被粪便污染的水需立即更换以防细菌滋生。"
+          },
+          {
+            "name": "晚上：清理笼底废纸，严禁抚摸背部（防止发情）与保证 10~12 小时完全遮光睡眠",
+            "text": "更换底纸，按时加盖遮光罩，保证 10~12 小时完全黑暗睡眠以抑制过量发情激素。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "可以只单独饲养一只金花鸟（斑胸草雀）吗？",
+            "answer": "极不推荐！金花鸟在野外是成百上千只成群生活的强群居动物。单只饲养会导致其产生剧烈的孤独感与抑郁应激，常伴有拔羽症与免疫力衰退，极易早逝。必须成对（同性或异性）或群体饲养。"
+          },
+          {
+            "question": "母金花鸟致命的“卡蛋/难产 (Egg Binding)”应该如何预防？",
+            "answer": "卡蛋是由于体内严重缺钙、日照时间过长或频繁发情导致蛋体无法产出堵塞产道的急症。预防方法是笼内常年挂置墨鱼骨或保健砂补充钙质，投喂富含维生素的油菜/小松菜，并在夜间维持 10~12 小时完全遮光睡眠以缩短光照、抑制发情。若母鸟蹲在笼底拱背喘气，必须立即就医。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Señales de conducta en el Diamante Cebra (Zebra Finch) y rutina diaria de 3 pasos para la prevención de retención de huevos y toxicidad por teflón",
+        "description": "Guía de cuidado para el alegre Diamante Cebra (Zebra Finch). Interprete el movimiento de cola y el ahuecado de plumas, prevenga la retención de huevos, evite el teflón y cuide su nutrición en 3 pasos.",
+        "authority": "Finch Society of America (FSA) y Normas de la Association of Avian Veterinarians (AAV)",
+        "profile": {
+          "breed": "Diamante Cebra / Mandarín (Zebra Finch / Taeniopygia guttata)",
+          "lifespan": "5 ~ 8 años (Hasta 10 años con cuidados óptimos)",
+          "sleep_pattern": "10 ~ 12 horas (Oscuridad total con funda opaca para control hormonal)",
+          "temperament": "Social, Activo, Gregario, Canto alegre, Sensible"
+        },
+        "intro": "Originario de las sabanas áridas de Australia, el Diamante Cebra o Pinzón Mandarín (Taeniopygia guttata) es un ave de jaula muy popular por su pecho atigrado, pico rojo brillante y cantarín pitido. Al ser aves gregarias obligatorias, necesitan la compañía de sus congéneres. Sin embargo, su sistema respiratorio de sacos aéreos los hace vulnerables a toxinas volátiles como el teflón (PTFE). Además, las hembras corren el riesgo de sufrir retención de huevos (Egg Binding) mortal si carecen de calcio. En esta guía, presenta una rutina de 3 pasos para cuidar su salud.",
+        "whyTitle": "Lenguaje corporal del Diamante Cebra: Meneo de cola (Tail Wagging) y ahuecado de plumas (Feather Puffing / Fluffing)",
+        "whyDesc": "El Diamante Cebra comunica bienestar social y enfermedad crítica mediante el movimiento de la cola y la postura del plumaje. Mover la cola suavemente a los lados emitiendo pitos alegres **'Meneo de cola (Tail Wagging & Beeping)'** es una muestra de vitalidad y bienestar. En cambio, permanecer inmóvil como una bola de plumas con los ojos cerrados **'Ahuecado de plumas (Feather Puffing / Fluffing)'** es un síntoma de emergencia por hipotermia o enfermedad grave.",
+        "body_signals": [
+          {
+            "name": "Sacudir la cola lateralmente mientras emite pitidos claros (Tail Wagging & Beeping)",
+            "meaning": "Muestra de bienestar social, buena salud y comunicación alegre con sus compañeros.",
+            "response": "Habla suavemente y ofrécele un recipiente poco profundo para bañarse o verduras frescas."
+          },
+          {
+            "name": "Ahuecar todas las plumas formando una bola y cerrar los ojos en la percha (Feather Puffing / Fluffing)",
+            "meaning": "Señal crítica de socorro por enfermedad avanzada, hipotermia o fallo respiratorio.",
+            "response": "Aumente la temperatura de la jaula a 28–30°C con calor seguro y acuda urgentemente al veterinario aviar."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Semillas y pienso extrusionado especial para pinzones, hueso de jibia y prevención de gases de teflón",
+            "text": "Suministre mezcla de semillas con pienso y hueso de jibia (Cuttlebone) para el calcio, alejando la jaula de teflón caliente."
+          },
+          {
+            "name": "Tarde: Baño de agua poco profundo, vida social en grupo e higiene del agua",
+            "text": "Facilite un plato con agua limpia para el baño diario y cambie el agua si se ensucia con heces."
+          },
+          {
+            "name": "Noche: Limpieza de bandeja, control de estímulos de cría y 10–12h de oscuridad total",
+            "text": "Limpie el papel de la jaula, evite luz artificial nocturna y cubra con funda opaca de 10 a 12 horas para regular hormonas."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Puedo tener un solo Diamante Cebra solo en una jaula?",
+            "answer": "¡No es aconsejable! Los Diamantes Cebra son aves gregarias que viven en grandes bandadas. Un ejemplar en soledad padece aislamiento, depresión crónica y bajada de defensas. Manténgalos siempre en parejas del mismo sexo o parejas reproductoras."
+          },
+          {
+            "question": "¿Cómo evito la letal 'Retención de huevos (Egg Binding)' en las hembras?",
+            "answer": "Ocurre cuando la hembra no puede expulsar un huevo por falta de calcio o exceso de puestas. Se previene ofreciendo hueso de jibia constante, verduras de hoja verde (espinaca, brócoli) y garantizando 10-12 horas de oscuridad total nocturna para limitar las hormonas reproductivas."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Signaux comportementaux du Diamant Mandarin (Zebra Finch) et routine quotidienne en 3 étapes pour la prévention de la rétention d'œuf et de la toxicité du téflon",
+        "description": "Guide de soins pour le joyeux Diamant Mandarin. Décryptez le frétillement de queue et l'ébouriffement des plumes, prévenez la rétention d'œuf, évitez le téflon et gérez son alimentation en 3 étapes.",
+        "authority": "Finch Society of America (FSA) & Normes de l'Association of Avian Veterinarians (AAV)",
+        "profile": {
+          "breed": "Diamant Mandarin (Zebra Finch / Taeniopygia guttata)",
+          "lifespan": "5 ~ 8 ans (Jusqu'à 10 ans avec des soins adaptés)",
+          "sleep_pattern": "10 ~ 12 heures (Obscurité totale avec housse occultante pour la régulation du stress)",
+          "temperament": "Social, Actif, Vivant en groupe, Chant joyeux, Sensible"
+        },
+        "intro": "Originaire des savanes d'Australie, le Diamant Mandarin (Taeniopygia guttata) est un petit oiseau très populaire grâce à sa poitrine zébrée, son bec rouge vif et ses pouets joyeux. Vivant en colonie, il a un besoin vital de vie sociale. Néanmoins, ses sacs aériens le rendent très vulnérable aux émanations de téflon (PTFE). De plus, les femelles risquent une rétention d'œuf (Egg Binding) mortelle en cas de carence en calcium. Dans ce guide, vous présente une routine en 3 étapes pour prendre soin de sa santé.",
+        "whyTitle": "Langage corporel du Diamant Mandarin : Frétillement de queue (Tail Wagging) et ébouriffement des plumes (Feather Puffing / Fluffing)",
+        "whyDesc": "Le Diamant Mandarin exprime le bien-être social et la maladie grave par ses mouvements de queue et sa posture. Agiter doucement la queue de gauche à droite en émettant des petits pouets **« Frétillement de queue (Tail Wagging & Beeping) »** témoigne de sa joie de vivre. En revanche, rester prostré comme une boule de plumes les yeux clos **« Ébouriffement des plumes (Feather Puffing / Fluffing) »** est un signal d'urgence indiquant une hypothermie ou une maladie grave.",
+        "body_signals": [
+          {
+            "name": "Agiter la queue de gauche à droite en poussant de petits 'pouets' (Tail Wagging & Beeping)",
+            "meaning": "Signe d'épanouissement social, de bonne santé et d'interaction joyeuse avec ses congénères.",
+            "response": "Parlez-lui doucement, mettez à sa disposition une baignoire peu profonde ou des légumes frais."
+          },
+          {
+            "name": "Ébouriffer toutes ses plumes en boule et fermer les yeux sur son perchoir (Feather Puffing / Fluffing)",
+            "meaning": "Signal de détresse critique masquant une maladie avancée, une hypothermie ou une défaillance respiratoire.",
+            "response": "Montez immédiatement la température de la cage à 28–30°C avec une source de chaleur sûre et consultez d'urgence un vétérinaire."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Mélange de graines/granulés pour mandarins, os de seiche (calcium) & protection contre le téflon",
+            "text": "Fournissez des graines de qualité avec de l'os de seiche pour éviter la rétention d'œuf, en l'éloignant des ustensiles en téflon."
+          },
+          {
+            "name": "Après-midi : Baignoire d'eau peu profonde, vie sociale de groupe & hygiène de l'eau",
+            "text": "Proposez de l'eau propre pour son bain quotidien et remplacez immédiatement l'eau souillée par les fientes."
+          },
+          {
+            "name": "Soir : Nettoyage du fond de cage, contrôle du nid & 10–12h de sommeil sous housse occultante",
+            "text": "Remplacez le papier de cage, évitez la lumière artificielle tardive et couvrez la cage d'un drap sombre pour réguler les hormones."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Puis-je garder un seul Diamant Mandarin seul dans une cage ?",
+            "answer": "C'est fortement déconseillé ! Le Diamant Mandarin est un oiseau très social qui vit en grandes colonies à l'état sauvage. Un mandarin isolé souffre d'une solitude extrême, de stress chronique et de dépression, conduisant souvent au piquage et à une mort prématurée. Gardez-les toujours en couples de même sexe ou en couples reproducteurs."
+          },
+          {
+            "question": "Comment prévenir la rétention d'œuf (Egg Binding) chez la femelle Diamant Mandarin ?",
+            "answer": "La rétention d'œuf survient lorsqu'une femelle ne peut pas expulser son œuf par manque de calcium ou ponte répétée. On la prévient en offrant un accès permanent à de l'os de seiche, des légumes verts (épinards, brocolis) et en assurant 10 à 12 heures d'obscurité totale par nuit pour stopper les hormones de reproduction."
+          }
+        ]
+      },
+      "de": {
+        "title": "Verhaltenssignale des Zebrafinken und 3-Schritte-Tagesroutine für Legenot-Prophylaxe und Giftgas-Schutz",
+        "description": "Pflegeanleitung für den fröhlichen Zebrafinken. Schwanzwedeln und Aufplustern verstehen, Legenot vermeiden, PTFE-Teflon-Dämpfe verhindern und Ernährung in 3 Schritten managen.",
+        "authority": "Finch Society of America (FSA) & Standards der Association of Avian Veterinarians (AAV)",
+        "profile": {
+          "breed": "Zebrafink (Taeniopygia guttata)",
+          "lifespan": "5 ~ 8 Jahre (Bei optimaler Haltung bis zu 10 Jahre)",
+          "sleep_pattern": "10 ~ 12 Stunden (Vollständige Abdunkelung zur Stress- und Hormonregulation)",
+          "temperament": "Gesellig, Aktiv, Schwarmorientiert, Fröhliches Mucken, Empfindlich"
+        },
+        "intro": "Stammend aus den trockenen Graslandschaften Australiens ist der Zebrafink (Taeniopygia guttata) wegen seiner gestreiften Brust, seines roten Schnabels und seines fröhlichen Muckens ein weltbekannter Stubenvogel. Als strikte Schwarmtiere brauchen Zebrafinken den Kontakt zu Artgenossen. Allerdings macht sie ihr Atmungssystem mit Luftsäcken extrem anfällig für Luftgifte wie Teflon-Dämpfe (PTFE), Sprays und Duftkerzen. Weibliche Finken tragen zudem ein hohes Risiko für lebensgefährliche Legenot (Egg Binding) bei Calciummangel. In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für die Gesundheit Ihres Zebrafinken.",
+        "whyTitle": "Körpersprache des Zebrafinken: Schwanzwedeln (Mucken) und Aufplustern (Fluffing)",
+        "whyDesc": "Der Zebrafink drückt soziales Wohlbefinden und schwere Krankheit durch Schwanzbewegungen und Gefiederhaltung aus. Das sanfte Hin-und-Her-Wedeln mit dem Schwanz bei leisen Muck-Lauten **'Schwanzwedeln & Mucken'** ist Ausdruck von Lebensfreude und Gesundheit. Das regungslose Verharren als Gefiederkugel mit geschlossenen Augen **'Aufplustern (Feather Puffing / Fluffing)'** ist dagegen ein Notfallsymptom für Unterkühlung oder schwere Krankheiten.",
+        "body_signals": [
+          {
+            "name": "Schwanz seitlich bewegen und klares 'Mucken' ertönen lassen (Tail Wagging & Beeping)",
+            "meaning": "Ausdruck von sozialer Zufriedenheit, Aktivität und Wohlbefinden im Schwarm oder mit dem Halter.",
+            "response": "Antworten Sie ruhig und bieten Sie eine flache Badeschale oder frisches Grünfutter an."
+          },
+          {
+            "name": "Alle Körperfedern zu einer Kugel aufplustern und auf der Stange die Augen schließen (Feather Puffing / Fluffing)",
+            "meaning": "Alarmsignal für schweres Leiden, Unterkühlung oder beginnendes Organversagen.",
+            "response": "Erhöhen Sie die Käfigtemperatur sofort auf 28–30 °C mit einer Wärmelampe und suchen Sie einen Vogelarzt auf."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Finken-Saatgut/Pellet-Mix, Sepiaschale prüfen & Schutz vor Teflon-Dämpfen",
+            "text": "Füttern Sie hochwertige Saaten mit Pellets und stellen Sie Sepiaschalen für Calcium bereit; halten Sie die Vögel fern von erhitzten Teflonpfannen."
+          },
+          {
+            "name": "Mittag: Badeschale anbieten, Schwarm-Sozialzeit & Wasserhygiene",
+            "text": "Bieten Sie tägliches Baden in einer flachen Schale zur Gefiederpflege an und wechseln Sie verschmutztes Badewasser sofort aus."
+          },
+          {
+            "name": "Abend: Bodeneinlage wechseln, Brutreize vermeiden & 10–12 Stunden Schlafabdunkelung",
+            "text": "Wechseln Sie das Käfigpapier, meiden Sie spätes Kunstlicht und decken Sie den Käfig ab, um Brut-Hormone zu unterdrücken."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Kann ich einen einzelnen Zebrafinken alleine im Käfig halten?",
+            "answer": "Davon wird dringend abgeraten! Zebrafinken sind hochgesellige Schwarmvögel, die in der Natur in großen Kolonien leben. Ein einzelner Fink leidet unter Einsamkeit, chronischem Stress und Immunschwäche, was zu Federrupfen und frühem Tod führt. Halten Sie sie immer mindestens paarweise."
+          },
+          {
+            "question": "Wie verhindere ich die lebensgefährliche 'Legenot (Egg Binding)' bei Zebrafinken-Weibchen?",
+            "answer": "Legenot entsteht, wenn das Weibchen ein Ei wegen Calciummangel oder Dauerlegen nicht auspressen kann. Beugen Sie vor, indem Sie dauerhaft Sepiaschale oder Muschelgrit anbieten, frisches Grünfutter reichen und nachts 10–12 Stunden Dunkelheit zur Hormonregulation einhalten."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Sinais comportamentais do Mandarim (Zebra Finch) e rotina diária de 3 passos para prevenção de retenção de ovos e proteção contra gases tóxicos",
+        "description": "Guia de cuidados para o alegre Mandarim (Zebra Finch). Interprete o abanar da cauda e o eriçar de penas, previna a retenção de ovos, evite o teflon e cuide da nutrição em 3 passos.",
+        "authority": "Finch Society of America (FSA) & Padrões da Association of Avian Veterinarians (AAV)",
+        "profile": {
+          "breed": "Mandarim / Diamante-Mandarim (Zebra Finch / Taeniopygia guttata)",
+          "lifespan": "5 ~ 8 anos (Até 10 anos com cuidados adequados)",
+          "sleep_pattern": "10 ~ 12 horas (Escuridão total com capa blackout para controle hormonal)",
+          "temperament": "Social, Ativo, Gregário, Canto alegre, Sensível"
+        },
+        "intro": "Originário dos campos áridos da Austrália, o Mandarim ou Diamante-Mandarim (Taeniopygia guttata) é um pássaro de gaiola amado no mundo todo por seu peito zebrado, bico vermelho vibrante e piados alegres. Por serem aves gregárias obrigatórias, precisam viver acompanhados. Contudo, seu sistema respiratório de sacos aéreos os torna extremamente sensíveis a toxinas voláteis como o teflon (PTFE). Além disso, as fêmeas têm alto risco de retenção de ovos (Egg Binding) caso faltar cálcio. Neste guia, apresenta uma rotina de 3 passos para cuidar da sua saúde.",
+        "whyTitle": "Linguagem corporal do Mandarim: Abanar da cauda (Tail Wagging) e eriçar de penas (Feather Puffing / Fluffing)",
+        "whyDesc": "O Mandarim comunica bem-estar social e doenças graves através de movimentos da cauda e postura da plumagem. Mover a cauda suavemente para os lados emitindo piados alegres **'Abanar da cauda (Tail Wagging & Beeping)'** é um sinal de vitalidade e felicidade. Por outro lado, ficar imóvel como uma bola de penas com os olhos fechados **'Eriçar de penas (Feather Puffing / Fluffing)'** é um sintoma de emergência por hipotermia ou doença grave.",
+        "body_signals": [
+          {
+            "name": "Sacudir a cauda lateralmente emitindo piados claros (Tail Wagging & Beeping)",
+            "meaning": "Sinal de bem-estar social, boa saúde e interação alegre com seus companheiros.",
+            "response": "Fale com tom suave e ofereça uma banheira rasa com água limpa ou folhas verdes."
+          },
+          {
+            "name": "Eriçar todas as penas formando uma bola e fechar os olhos no poleiro (Feather Puffing / Fluffing)",
+            "meaning": "Sinal crítico de socorro que esconde doença avançada, hipotermia ou falência respiratória.",
+            "response": "Aumente a temperatura da gaiola para 28–30°C com calor seguro e consulte um veterinário de aves urgentemente."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Ração e sementes para mandarim, osso de siba (cálcio) & proteção contra teflon",
+            "text": "Forneça mistura de sementes com ração extrusada e osso de siba para cálcio, mantendo a gaiola longe de panelas de teflon."
+          },
+          {
+            "name": "Tarde: Banho de água rasa, interação social em grupo e higiene da água",
+            "text": "Ofereça uma banheira com água limpa para o banho diário e troque a água se estiver suja com fezes."
+          },
+          {
+            "name": "Noite: Limpeza da bandeja, controle de estresse reprodutivo e 10–12h de sono em blackout",
+            "text": "Troque o papel da gaiola, evite luzes acesas à noite e cubra com capa escura por 10 a 12 horas para regular hormônios."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Posso criar um único Mandarim sozinho em uma gaiola?",
+            "answer": "É totalmente desaconselhado! Os Mandarins são aves extremamente sociais que vivem em grandes bandos. Um exemplar sozinho sofre de solidão profunda, estresse crônico e queda na imunidade, levando ao arrancamento de penas e morte precoce. Crie-os sempre em pares do mesmo sexo ou casais."
+          },
+          {
+            "question": "Como prevenir a perigosa 'Retenção de Ovos (Egg Binding)' nas fêmeas de Mandarim?",
+            "answer": "Ocorre quando a fêmea não consegue expelir um ovo por falta de cálcio ou excesso de postura. Previne-se oferecendo osso de siba constante, vegetais folhosos verdes (couve, espinafre) e garantindo 10-12 horas de escuridão total à noite para inibir hormônios reprodutivos."
+          }
+        ]
+      },
+      "id": {
+        "title": "Sinyal Perilaku Burung Piwit Zebra (Zebra Finch) dan Rutinitas Harian 3 Langkah Perawatan Pencegahan Telur Tersangkut dan Racun Asap",
+        "description": "Panduan perawatan burung gembira Zebra Finch (Taeniopygia guttata). Pahami sinyal guncang ekor dan bulu mekar, cegah telur tersangkut, hindari racun teflon, serta jaga nutrisinya dalam 3 langkah.",
+        "authority": "Standar Perawatan Finch Society of America (FSA) & Association of Avian Veterinarians (AAV)",
+        "profile": {
+          "breed": "Burung Zebra Finch / Piwit Zebra (Taeniopygia guttata)",
+          "lifespan": "5 ~ 8 tahun (Hingga 10 tahun dengan perawatan optimal)",
+          "sleep_pattern": "10 ~ 12 jam (Kegelapan total dengan penutup sangkar untuk kontrol stres dan hormon)",
+          "temperament": "Sangat Sosial, Aktif, Suka Berkelompok, Suara Bersahut-sahutan Ceria, Sensitif"
+        },
+        "intro": "Berasal dari padang rumput kering di Australia, Zebra Finch (Taeniopygia guttata) adalah burung pengicau kecil yang sangat populer di seluruh dunia karena dada bergaris zebramya, paruh merah cerah, dan suaranya yang khas. Sebagai hewan sosial sejati, Zebra Finch hidup bahagia saat berkelompok dan akan menderita stres berat jika diisolasi. Namun, sistem pernapasan kantung udara membuat mereka rentan terhadap racun asap PTFE (Teflon), semprotan aerosol, dan lilin beraroma. Betina juga berisiko tinggi mengalami Telur Tersangkut (Egg Binding) jika kekurangan kalsium. Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk merawat kesehatan Zebra Finch Anda.",
+        "whyTitle": "Bahasa Tubuh Zebra Finch: Goyang Ekor (Suara Bunyi) dan Bulu Mekar (Feather Puffing)",
+        "whyDesc": "Zebra Finch menyampaikan rasa bahagia dan kondisi sakit parah melalui gerakan ekor dan bentuk bulu. Mengibaskan ekor secara halus ke kiri-kanan sambil mengeluarkan suara pito-pito yang jernih **'Goyang Ekor & Suara Bunyi'** adalah ungkapan vitalitas dan kebahagiaan sosial. Sebaliknya, duduk tidak bergerak seperti bola bulu dengan mata setengah terpejam **'Bulu Mekar (Feather Puffing / Fluffing)'** adalah sinyal darurat bahaya hipotermia atau sakit parah.",
+        "body_signals": [
+          {
+            "name": "Mengibaskan Ekor Kiri-Kanan Sambil Mengeluarkan Suara 'Pit-Pit' Jernih (Tail Wagging & Beeping)",
+            "meaning": "Tanda kebahagiaan sosial, kesehatan yang baik, dan komunikasi ceria dengan kawanannya.",
+            "response": "Sapa dengan suara lembut, dan sediakan wadah mandi air dangkal atau sayuran segar."
+          },
+          {
+            "name": "Mengembangkan Seluruh Bulu Tubuh Menjadi Bulat dan Memejamkan Mata di Tangkringan (Feather Puffing / Fluffing)",
+            "meaning": "Sinyal bahaya kritis yang menutupi penyakit berat, hipotermia, atau gagal napas.",
+            "response": "Segera naikkan suhu sangkar menjadi 28–30°C dengan pemanas aman dan hubungi dokter hewan khusus burung."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pakan Biji/Pelet Khusus Finch, Cek Tulang Cumi (Kalsium) & Perlindungan Asap Teflon Dapur",
+            "text": "Berikan pakan biji berkualitas dengan pelet serta sediakan tulang cumi (cuttlebone) untuk kalsium, serta jauhkankan sangkar dari teflon."
+          },
+          {
+            "name": "Siang: Penyediaan Wadah Mandi Dangkal, Waktu Bersosialisasi & Kebersihan Air",
+            "text": "Sediakan wadah air dangkal untuk mandi bulu harian dan segera ganti air jika kotor terkena kotoran."
+          },
+          {
+            "name": "Malam: Pembersihan Alas Sangkar, Kontrol Rangsangan Bertelur & Tidur Gelap Total 10–12 Jam",
+            "text": "Ganti alas kertas sangkar, hindari lampu malam terang, dan tutup sangkar dengan kain gelap selama 10-12 jam untuk kontrol hormon."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Bolehkah saya memelihara satu ekor Zebra Finch saja di dalam sangkar?",
+            "answer": "Sangat tidak disarankan! Zebra Finch adalah burung sosial yang hidup dalam kawanan besar di alam liar. Memelihara satu ekor saja akan membuatnya kesepian berat, stres kronis, dan penurunan imunitas yang memicu tindakan mencabut bulu sendiri hingga kematian dini. Selalu pelihara berpasangan sesama jenis atau pasangan jantan-betina."
+          },
+          {
+            "question": "Bagaimana cara mencegah kondisi mematikan 'Telur Tersangkut (Egg Binding)' pada Zebra Finch betina?",
+            "answer": "Telur Tersangkut terjadi saat betina tidak bisa mengeluarkan telur akibat kekurangan kalsium atau terlalu sering bertelur. Cegah dengan menyediakan tulang cumi (cuttlebone) secara terus-menerus, beri sayuran hijau tua segar (bayam, brokoli), dan berikan waktu tidur gelap total 10–12 jam di malam hari untuk menekan hormon reproduksi."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/zebra_finch_care.webp"
+  }
 }

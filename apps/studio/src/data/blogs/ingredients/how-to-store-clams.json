@@ -1,406 +1,406 @@
 {
-    "how-to-store-clams": {
-        "ingId": "clams",
-        "pubDate": "2026-04-09",
-        "updatedDate": "2026-04-09",
-        "heroImage": "/images/blog/clams_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "조개류(바지락·홍합) 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 조개류의 최적 보관 온도, 해감 방식 및 보관 기한을 확인하세요.",
-                "authority": "해양수산부 & 식품의약품안전처(MFDS) & 미국 농무부(USDA)",
-                "intro": "시원한 국물 요리의 핵심인 바지락과 홍합, 사 오자마자 수돗물에 담가두었다가 조개가 전부 죽어 버려본 경험 있으시죠? 🦪\n\n조개류는 살아있는 상태로 유통되는 미생물 부패에 매우 취약한 신선 수산물입니다. 밀폐 용기에 가두거나 민물(수돗물)에 오래 담가두면 산소 부족과 체액 유출로 금방 사멸하며, 사멸한 조개는 상온에서 빠르게 독소를 배출합니다.\n\n이번 가이드에서는 수산 전문가들의 검증된 가이드라인을 바탕으로, 조개류를 안전하게 해감하고 아삭하고 시원한 감칠맛을 지키는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "살아있는 조개를 수돗물에 담그거나 밀폐하지 마세요 🚫",
-                        "desc": "수돗물(민물)에 살아있는 바지락이나 홍합을 넣으면 삼투압 현상으로 폐사하고, 밀폐 봉지에 담으면 산소가 차단되어 금방 부패합니다. 살아있는 조개는 숨을 쉴 수 있게 보관해야 합니다."
-                    },
-                    {
-                        "title": "입을 열고 안 닫히거나 껍데기가 깨진 조개는 폐기하세요 ⚠️",
-                        "desc": "손가락으로 톡톡 쳤을 때 입을 닫지 않거나 악취가 나는 조개는 이미 사멸하여 세균과 독소가 증식했을 가능성이 높으므로 즉시 골라내어 버려야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "소금물로 어두운 곳에서 해감하기 — 해감 & 불순물 배출 🌊",
-                        "text": "바지락 등은 바닷물 농도(약 3%, 물 1L당 소금 30g)의 소금물에 담그고 쇠숟가락을 넣은 뒤 검은 비닐을 덮어 어둡고 서늘한 곳(냉장실)에서 2~3시간 해감해 줍니다."
-                    },
-                    {
-                        "name": "젖은 천을 덮어 0~4℃ 저온 냉장 보관하기 — 냉장 보관 (1~2일) ❄️",
-                        "text": "해감 후 깨끗이 씻은 조개는 물기를 빼고 용기에 담은 뒤, 젖은 키친타월이나 면포를 덮어 통풍이 되게 하여 냉장고 신선실(0~4℃)에 보관합니다. 1~2일 이내에 조리해 드세요."
-                    },
-                    {
-                        "name": "소분하여 밀봉 후 냉동 보관하기 — 장기 보관 (3개월) 🧊",
-                        "text": "장기 보관 시에는 해감 후 깨끗이 세척하여 1회 분량씩 밀폐 지퍼백에 담아 냉동실(-18℃ 이하)에 보관합니다. 조리 시 해동하지 않고 끓는 국물에 바로 넣어야 껍데기가 잘 열립니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "냉동한 조개를 요리할 때 껍데기가 열리지 않는데 왜 그런가요?",
-                        "answer": "냉동된 조개를 찬물에서부터 넣고 천천히 끓이면 근육(관자)이 열을 받지 못해 입을 열지 않습니다. 반드시 육수가 팔팔 끓을 때 냉동 상태 그대로 넣어야 열충격으로 껍데기가 잘 열립니다."
-                    },
-                    {
-                        "question": "홍합의 족사(털)는 보관 전에 떼어내야 하나요?",
-                        "answer": "홍합 외부에 붙어있는 족사(실 같은 털)를 미리 떼어내면 홍합이 상처를 입어 금방 사멸합니다. 보관할 때는 그대로 두고, 조리 직전에 가위로 자르거나 아래쪽으로 당겨 제거하는 것이 좋습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Store Clams & Mussels: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, purging method, and shelf life for live shellfish based on official safety guidelines.",
-                "authority": "NOAA & USDA & MFDS",
-                "intro": "Have you ever brought home fresh clams or mussels for a flavorful soup, only to submerge them in tap water and find them dead hours later? 🦪\n\nLive shellfish are highly perishable marine organisms. Sealing them in airtight plastic bags or soaking them in fresh tap water starves them of oxygen or causes osmotic shock, killing them rapidly and triggering swift bacterial decay.\n\nIn this guide, introduces a scientifically proven 3-step storage guide recommended by seafood safety authorities to purge, chill, and preserve live shellfish safely. 🛡️",
-                "whyTitle": "Why Store Clams This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never soak live clams in tap water or seal them airtight 🚫",
-                        "desc": "Fresh tap water causes fatal osmotic shock to saltwater clams, and sealing them in airtight bags suffocates them. Live shellfish must be stored with access to air so they can breathe."
-                    },
-                    {
-                        "title": "Discard open shells that do not close when tapped ⚠️",
-                        "desc": "Clams or mussels with broken shells or those that remain wide open after tapping are already dead, posing a high risk of bacterial toxins. Discard them immediately."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Purge in saltwater in a dark environment — Sand Purging & Cleaning 🌊",
-                        "text": "Submerge clams in a 3% saltwater solution (approx. 30g salt per 1L water). Add a stainless steel spoon, cover with a dark plastic bag, and place in a cool spot (0–4°C) for 2–3 hours to purge sand."
-                    },
-                    {
-                        "name": "Cover with a damp towel and refrigerate at 0–4°C — Cold Storage (1–2 Days) ❄️",
-                        "text": "After purging, rinse with clean saltwater, drain thoroughly, place in an open bowl, and cover with a damp paper towel or cloth to keep them moist in the fridge for up to 1–2 days."
-                    },
-                    {
-                        "name": "Purge, drain, seal, and freeze — Long-Term Storage (3 Months) 🧊",
-                        "text": "For extended storage, purge and clean the shellfish, drain completely, and seal into freezer Ziploc bags below -18°C. Cook directly from frozen in boiling broth to ensure shells open properly."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why won't my frozen clams open during cooking?",
-                        "answer": "Placing frozen clams into cold water and heating them slowly prevents the adductor muscles from contracting sharply. Always drop frozen clams directly into boiling broth so the heat shock opens the shells instantly."
-                    },
-                    {
-                        "question": "Should I remove mussel beards before storing them?",
-                        "answer": "No. Pulling out the thread-like mussel beard tears the internal tissue, killing the mussel quickly. Leave the beard attached during storage and trim or pull it off right before cooking."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "二枚貝（アサリ・ムール貝）を新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づく二枚貝（あさり・ムール貝）の最適な保存温度、砂抜き方法、保存期間をご確認ください。",
-                "authority": "水産庁 & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "旨味たっぷりのスープを作ろうと買ってきた新鮮なアサリやムール貝を、水道水に浸しておいたら全滅してしまった経験はありませんか？🦪\n\n二枚貝は生きた状態で流通する非常に繊細な水産物です。密閉袋に閉じ込めたり真水（水道水）に長期間漬けると、酸素不足や浸透圧の差によって急速に死滅し、常温ではすぐに細菌や毒素が増殖します。\n\n本記事では、専門家が推奨する二枚貝の正しい砂抜きと鮮度を保つ3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "生きている貝を水道水に漬けたり密閉しないでください 🚫",
-                        "desc": "生の二枚貝を水道水（真水）に入れると浸透圧で弱って死んでしまい、密閉袋に入れると窒息して急速に傷みます。生きている貝は呼吸ができる状態で保存してください。"
-                    },
-                    {
-                        "title": "口が開いたまま閉じないものや殻が割れたものは破棄してください ⚠️",
-                        "desc": "指で軽く叩いても口を閉じない貝や悪臭がするものはすでに死滅しており、細菌が増殖している可能性が高いため、直ちに選別して捨ててください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "塩水に浸し暗所で砂抜きする — 砂抜き＆汚れ排出 🌊",
-                        "text": "海水に近い塩水（約3%：水1Lに対し塩30g）にアサリを浸し、金属のスプーンを入れて黒い袋をかぶせ、暗く涼しい場所（チルド室等）で2〜3時間砂抜きをします。"
-                    },
-                    {
-                        "name": "濡れ布巾をかぶせ0〜4℃で冷蔵保存する — 冷蔵保存 (1〜2日間) ❄️",
-                        "text": "砂抜き後に洗い、しっかり水気を切ったら容器に入れ、濡らしたキッチンペーパー等をかぶせて呼吸できる状態で冷蔵庫（0〜4℃）で1〜2日以内に調理します。"
-                    },
-                    {
-                        "name": "小分けして密封し冷凍保存する — 長期保存 (3ヶ月間) 🧊",
-                        "text": "長期保存する場合は、砂抜き・洗浄後に水気を完全に切り、1回分ずつ冷凍用ジッパーバッグに入れて冷凍室（-18℃以下）で保存します。調理時は解凍せず沸騰したスープに直接投入します。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "冷凍した貝を調理しても殻が開きません。なぜですか？",
-                        "answer": "冷凍貝を水からじっくり加熱すると、貝柱が熱ショックを受けず開かなくなります。必ずだし汁やスープが沸騰している状態のところに frozen のまま投入することで、熱ショックで殻がきれいに開きます。"
-                    },
-                    {
-                        "question": "ムール貝の足糸（ひげ）は保存前に取り除くべきですか？",
-                        "answer": "保存前にひげ（足糸）を引っ張って抜くと、足糸がつながっている身が傷ついて貝が死んでしまいます。保存時はそのままにしておき、調理直前にハサミで切るか抜いて処理してください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持贝类（蛤蜊·青口贝）新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解活贝类的最佳储存温度、吐沙方式和保鲜时长。",
-                "authority": "中国农业农村部 & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "您是否曾买回新鲜的蛤蜊或青口贝，随手泡在自来水里，结果几小时后贝类全部死亡？🦪\n\n贝类属于活体销售的易腐水产品。如果将其密封在塑料袋中或长期浸泡在淡水（自来水）中，会导致其因缺氧或渗透压剧变而迅速死亡，并在常温下快速滋生细菌与毒素。\n\n本指南基于水产专家指南，为您带来3步科学保存秘诀，教您安全吐沙并锁定贝类的鲜美口感。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "切勿将活贝类浸泡在自来水中或密封储存 🚫",
-                        "desc": "自来水（淡水）会因渗透压导致海水贝类迅速死亡，而密封袋会阻断氧气致其窒息。储存活贝类时必须保证其可以正常呼吸。"
-                    },
-                    {
-                        "title": "敲击后无法闭合或外壳破损的贝类请立即丢弃 ⚠️",
-                        "desc": "用手指轻轻敲击仍张口不闭合或散发异味的贝类表明其已经死亡，极易滋生毒素与细菌，必须立即挑出丢弃。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "在盐水中避光吐沙 — 吐沙与清除杂质 🌊",
-                        "text": "将蛤蜊浸泡在接近海水浓度的盐水（约3%浓度，1升水加30克盐）中，放入一把不锈钢勺子并盖上黑塑料袋，置于阴凉处（0~4℃）吐沙2~3小时。"
-                    },
-                    {
-                        "name": "盖上湿布置于0~4℃冷藏 — 冷藏储存 (1~2天) ❄️",
-                        "text": "吐沙后洗净并沥干水分，放入开口容器中，盖上一层湿厨房纸巾或湿布保持湿润通风，存入冰箱冷藏室（0~4℃），并在1~2天内食用完。"
-                    },
-                    {
-                        "name": "分装密封后冷冻保存 — 长期保存 (3个月) 🧊",
-                        "text": "如需长期保存，吐沙清洗并彻底沥干后，按单次用量装入冷冻拉链袋密封，存入-18℃以下冷冻室。烹饪时无需解冻，直接放入沸汤中即可张口。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "为什么冷冻后的蛤蜊下锅后张不开壳？",
-                        "answer": "冷冻蛤蜊若冷水下锅慢慢加热，贝壳肌无法受到强烈的热冲击而无法打开。请务必在汤汁大火滚开时直接下入冷冻蛤蜊，热冲击会让贝壳迅速张开。"
-                    },
-                    {
-                        "question": "青口贝（贻贝）的足丝（毛须）需要在储存前拔掉吗？",
-                        "answer": "不需要。提前拔掉青口贝外侧的足丝会撕裂其内部组织，导致其快速死亡。储存时请保留足丝，在下锅烹饪前用剪刀剪断或拔除即可。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo conservar almejas y mejillones frescos: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método de purgado y la duración de conservación óptimos para moluscos bivalvos según las directrices oficiales.",
-                "authority": "NOAA & USDA & MFDS",
-                "intro": "¿Alguna vez compró almejas o mejillones frescos para una sopa, los sumergió en agua del grifo y descubrió que estaban muertos horas después? 🦪\n\nLos moluscos bivalvos vivos son mariscos altamente perecederos. Sellarlos en bolsas herméticas o sumergirlos en agua dulce (del grifo) les provoca un choque osmótico mortal o asfixia, acelerando su descomposicion bacteriana.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por expertos para purgar la arena y conservar el marisco vivo de forma segura. 🛡️",
-                "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Nunca sumerja almejas vivas en agua del grifo ni las selle herméticamente 🚫",
-                        "desc": "El agua dulce provoca un choque osmótico mortal en moluscos marinos, y las bolsas herméticas los asfixian. El marisco vivo necesita aire para respirar durante el almacenamiento."
-                    },
-                    {
-                        "title": "Deseche las conchas abiertas que no se cierren al darles un toque ⚠️",
-                        "desc": "Las almejas o mejillones con conchas rotas o que permanecen abiertos tras golpear suavemente la concha ya han muerto, representando un peligro por proliferación de toxinas."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Purgue la arena en agua salada y en la oscuridad — Purgado de arena 🌊",
-                        "text": "Sumerja las almejas en una solución de agua salada al 3% (30 g de sal por litro de agua). Añada una cuchara metálica, cubra con una bolsa oscura y deje en un lugar fresco (0-4 °C) durante 2-3 horas."
-                    },
-                    {
-                        "name": "Cubra con un paño húmedo y refrigere a 0–4 °C — Refrigeración (1 a 2 días) ❄️",
-                        "text": "Tras el purgado, enjuague, escurra bien, coloque en un recipiente abierto y cubra con papel absorbente húmedo para mantener la ventilación en el refrigerador durante 1 o 2 días."
-                    },
-                    {
-                        "name": "Limpie, selle y congele — Conservación a largo plazo (3 meses) 🧊",
-                        "text": "Para una conservación prolongada, limpie, escurra por completo y selle en bolsas para congelar a menos de -18 °C. Cocine directamente congelado en caldo hirviendo para que las conchas se abran."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué las almejas congeladas no se abren al cocinarlas?",
-                        "answer": "Poner almejas congeladas en agua fría y calentarla poco a poco evita el choque térmico necesario para relajar el músculo aductor. Agréguelas siempre directamente al caldo hirviendo para que se abran al instante."
-                    },
-                    {
-                        "question": "¿Debo quitar el biso (barba) de los mejillones antes de guardarlos?",
-                        "answer": "No. Tirar del biso antes de guardarlos rasga el tejido interno del mejillón y lo mata rápidamente. Conserve los mejillones con el biso e inténtelo retirar justo antes de cocinar."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver les coquillages (clovisses & moules) : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode de dégorgement et la durée de conservation optimales pour les coquillages vivants selon les directives de sécurité.",
-                "authority": "NOAA & USDA & MFDS",
-                "intro": "Avez-vous déjà plongé des clovisses ou des moules fraîches dans de l'eau du robinet pour les nettoyer, pour constater qu'elles étaient toutes mortes quelques heures plus tard ? 🦪\n\nLes coquillages vivants sont des produits de la mer extrêmement périssables. Les enfermer dans un sac en plastique hermétique ou les immerger dans de l'eau douce provoque un choc osmotique ou une asphyxie mortelle, entraînant une rapide décomposition bactérienne.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts pour faire dégorger et conserver vos coquillages en toute sécurité. 🛡️",
-                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne plongez jamais des coquillages vivants dans l'eau du robinet ni sous vide 🚫",
-                        "desc": "L'eau douce cause un choc osmotique fatal aux coquillages marins, et les sachets hermétiques les étouffent. Les coquillages vivants doivent pouvoir respirer."
-                    },
-                    {
-                        "title": "Jetez les coquillages ouverts qui ne se referment pas au touché ⚠️",
-                        "desc": "Les coquillages cassés ou qui restent ouverts lorsqu'on tapote sur leur coquille sont déjà morts et représentent un risque toxique. Jetez-les immédiatement."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Dégorger dans l'eau salée à l'obscurité — Dégorgement du sable 🌊",
-                        "text": "Immergez les coquillages dans de l'eau salée à 3 % (30 g de sel par litre d'eau). Ajoutez une cuillère en inox, couvrez d'un plastique sombre et laissez dégager le sable au frais (0–4 °C) pendant 2 à 3 heures."
-                    },
-                    {
-                        "name": "Recouvrir d'un linge humide et réfrigérer à 0–2 °C — Stockage frais (1 à 2 jours) ❄️",
-                        "text": "Après dégorgement, rincez, égouttez, placez dans un plat ouvert et recouvrez d'un linge humide pour maintenir l'aération au réfrigérateur pendant 1 à 2 jours maximum."
-                    },
-                    {
-                        "name": "Nettoyer, égoutter et congeler — Stockage longue durée (3 mois) 🧊",
-                        "text": "Pour un stockage prolongé, nettoyez les coquillages, égouttez-les parfaitement, puis scellez-les dans un sac congélation à -18 °C. Cuisinez-les directement congelés dans un bouillon bouillant."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi mes coquillages congelés ne s'ouvrent-ils pas à la cuisson ?",
-                        "answer": "Placer des coquillages congelés dans de l'eau froide qui chauffe doucement ne provoque pas le choc thermique nécessaire à l'ouverture du muscle. Plongez-les impérativement directement dans un bouillon à gros bouillons."
-                    },
-                    {
-                        "question": "Faut-il ôter le byssus (la barbe) des moules avant de les stocker ?",
-                        "answer": "Non. Arracher le byssus déchire les tissus internes de la moule et la tue rapidement. Laissez le byssus pendant le stockage et ne le coupez ou tirez qu'au moment de la cuisson."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Muscheln (Miesmuscheln & Venusmuscheln) richtig aufbewahren: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Wässerungsmethode und Haltbarkeit für lebende Muscheln basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "NOAA & USDA & MFDS",
-                "intro": "Haben Sie schon einmal frische Muscheln gekauft, sie in Leitungswasser eingelegt und festgestellt, dass sie nach wenigen Stunden abgestorben waren? 🦪\n\nLebende Muscheln sind äußerst empfindliche Meeresfrüchte. Das Verschließen in luftdichten Plastikbeuteln oder das Einlegen in Leitungswasser (Süßwasser) führt zu einem tödlichen osmotischen Schock oder Ersticken, was das Fleisch blitzschnell verderben lässt.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um Muscheln sicher zu wässern und frisch zu halten. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Lebende Muscheln niemals in Leitungswasser legen oder luftdicht verschließen 🚫",
-                        "desc": "Süßwasser zerstört Meeresmuscheln durch osmotischen Schock, und luftdichte Beutel lassen sie ersticken. Lebende Muscheln müssen stets feucht und belüftet gelagert werden."
-                    },
-                    {
-                        "title": "Geöffnete Muscheln, die sich bei Klopfen nicht schließen, sofort entsorgen ⚠️",
-                        "desc": "Muscheln mit beschädigter Schale oder solche, die auf leichtes Anklopfen geöffnet bleiben, sind bereits abgestorben. Hier besteht hohe Gefahr durch Bakterientoxine."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "In Salzwasser im Dunkeln wässern — Sandentfernung & Reinigung 🌊",
-                        "text": "Muscheln in ca. 3 %iges Salzwasser (30 g Salz pro 1 l Wasser) legen. Einen Metalllöffel dazugeben, mit einer dunklen Tüte abdecken und an einem kühlen Ort (0–4 °C) 2–3 Stunden Sand ausspucken lassen."
-                    },
-                    {
-                        "name": "Mit feuchtem Tuch abdecken und bei 0–4 °C kühlen — Kühllagerung (1–2 Tage) ❄️",
-                        "text": "Nach dem Wässern abspülen, gründlich abtropfen lassen, in eine offene Schüssel geben und mit einem feuchten Tuch abgedeckt im Kühlschrank 1–2 Tage aufbewahren."
-                    },
-                    {
-                        "name": "Wässern, trocken tupfen, versiegeln und einfrieren — Gefrierlagerung (3 Monate) 🧊",
-                        "text": "Für die Langzeitlagerung Muscheln gründlich reinigen, trocknen und in Gefrierbeuteln bei unter -18 °C einfrieren. Gefroren direkt in kochende Brühe geben, damit sich die Schalen öffnen."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum öffnen sich meine gefrorenen Muscheln beim Kochen nicht?",
-                        "answer": "Gefrorene Muscheln dürfen nicht in kaltem Wasser langsam erwärmt werden, da der Muskel sonst nicht reagiert. Geben Sie gefrorene Muscheln immer direkt in sprudelnd kochende Flüssigkeit."
-                    },
-                    {
-                        "question": "Sollte man den Byssus (Bart) von Miesmuscheln vor der Lagerung entfernen?",
-                        "answer": "Nein. Das Ausreißen des Barts beschädigt das Gewebe im Inneren der Muschel und tötet sie schnell ab. Belassen Sie den Bart während der Lagerung und entfernen Sie ihn erst direkt vor dem Kochen."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar mariscos e mexilhões frescos: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método de purga e tempo de conservação ideais para moluscos bivalves com base em diretrizes oficiais de segurança.",
-                "authority": "NOAA & USDA & MFDS",
-                "intro": "Você já comprou amêijoas ou mexilhões frescos para fazer um ensopado, colocou-os na água da torneira e descobriu que todos morreram horas depois? 🦪\n\nOs moluscos bivalves vivos são frutos do mar extremamente perecíveis. Guardá-los em sacos plásticos herméticos ou mergulhá-los em água doce provoca choque osmótico ou asfixia fatal, acelerando a deterioração por bactérias.\n\nNeste guia, apresentamos um guia prático em 3 etapas recomendado por especialistas para purgar a areia e conservar seus mariscos com total segurança. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca mergulhe mariscos vivos em água da torneira nem os sele hermeticamente 🚫",
-                        "desc": "A água doce causa choque osmótico fatal em mariscos marinhos, e os sacos vedados os sufocam. Mariscos vivos precisam de ventilação para respirar."
-                    },
-                    {
-                        "title": "Descarte conchas abertas que não se fecham ao serem tocadas ⚠️",
-                        "desc": "Mariscos com conchas quebradas ou que permanecem abertos após um leve toque já estão mortos, apresentando alto risco de contaminação por toxinas bacterianas."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Purque a areia em água salgada e no escuro — Purga de areia 🌊",
-                        "text": "Mergulhe os mariscos em água salgada a 3% (30g de sal por litro de água). Adicione uma colher de metal, cubra com saco escuro e deixe em local fresco (0 a 4 °C) por 2 a 3 horas."
-                    },
-                    {
-                        "name": "Cubra com pano úmido e refrigere de 0 a 4 °C — Refrigeração (1 a 2 dias) ❄️",
-                        "text": "Após purgar, enxágue, escorra bem, coloque em uma tigela aberta e cubra com papel-toalha úmido para manter a ventilação na geladeira por 1 a 2 dias."
-                    },
-                    {
-                        "name": "Limpe, escorra, sele e congele — Longo prazo (3 meses) 🧊",
-                        "text": "Para conservar por mais tempo, limpe os mariscos, escorra completamente e embale em sacos para congelador a -18 °C. Cozinhe diretamente congelados em caldo fervente."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Por que meus mariscos congelados não abrem ao cozinhar?",
-                        "answer": "Colocar mariscos congelados em água fria e aquecer lentamente impede o choque térmico necessário para abrir a concha. Adicione os mariscos congelados diretamente no caldo fervendo."
-                    },
-                    {
-                        "question": "Devo remover a 'barba' (bisso) dos mexilhões antes de guardar?",
-                        "answer": "Não. Puxar o bisso antes de guardar rasga o tecido interno do mexilhão e o mata rapidamente. Mantenha a barba durante o armazenamento e remova-a apenas no momento de cozinhar."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Kerang & Kerang Hijau agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode pembersihan pasir, dan masa simpan terbaik untuk kerang hidup berdasarkan pedoman keselamatan resmi.",
-                "authority": "NOAA & USDA & MFDS",
-                "intro": "Pernahkah Anda membeli kerang segar untuk dimasak, merendamnya di dalam air keran, lalu mendapatinya mati beberapa jam kemudian? 🦪\n\nKerang hidup adalah hasil laut yang sangat mudah membusuk. Membungkusnya dalam kantong plastik kedap udara atau merendamnya di air tawar (air keran) akan menyebabkan syok osmotik atau mati lemas, yang memicu pembusukan bakteri dengan cepat.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli untuk membersihkan pasir dan menyimpan kerang hidup dengan aman. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan merendam kerang hidup di air keran atau menyegelnya rapat 🚫",
-                        "desc": "Air tawar memicu syok osmotik fatal pada kerang laut, dan kantong kedap udara akan membuatnya lemas. Kerang hidup harus disimpan dengan akses udara agar tetap bisa bernapas."
-                    },
-                    {
-                        "title": "Buang kerang yang cangkangnya terbuka dan tidak menutup saat diketuk ⚠️",
-                        "desc": "Kerang yang cangkangnya pecah atau tetap terbuka lebar saat diketuk perlahan berarti sudah mati dan berisiko tinggi mengandung toksin bakteri. Segera buang."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Bersihkan pasir dalam air garam di tempat gelap — Pembersihan Pasir & Kotoran 🌊",
-                        "text": "Rendam kerang dalam larutan air garam 3% (sekitar 30g garam per 1L air). Masukkan sendok logam, tutup dengan plastik gelap, lalu simpan di tempat sejuk (0–4°C) selama 2–3 jam."
-                    },
-                    {
-                        "name": "Tutup dengan kain basah dan simpan di suhu 0–4°C — Penyimpanan Dingin (1–2 Hari) ❄️",
-                        "text": "Setelah pasirnya keluar, bilas, tiriskan hingga kering, masukkan ke wadah terbuka, lalu tutup dengan tisu dapur basah agar tetap lembap di dalam kulkas selama 1–2 hari."
-                    },
-                    {
-                        "name": "Bersihkan, tiriskan, segel, lalu bekukan — Simpan Jangka Panjang (3 Bulan) 🧊",
-                        "text": "Untuk penyimpanan jangka panjang, bersihkan kerang, tiriskan hingga benar-benar kering, lalu segel dalam kantong Ziploc freezer di bawah suhu -18°C. Masak langsung kondisi beku ke dalam kuah mendidih."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa kerang beku saya tidak terbuka saat dimasak?",
-                        "answer": "Memasukkan kerang beku ke dalam air dingin lalu memanaskannya secara perlahan membuat otot kerang tidak bisa merespons. Selalu masukkan kerang beku langsung ke dalam kuah mendidih agar syok panas membuka cangkangnya seketika."
-                    },
-                    {
-                        "question": "Apakah serabut/janggut kerang hijau harus dibuang sebelum disimpan?",
-                        "answer": "Tidak. Mencabut serabut sebelum disimpan akan merobek jaringan dalam kerang dan membunuhnya dengan cepat. Biarkan serabut tetap menempel saat disimpan dan potong atau cabut tepat sebelum dimasak."
-                    }
-                ]
-            }
-        }
+  "how-to-store-clams": {
+    "ingId": "clams",
+    "pubDate": "2026-04-09",
+    "updatedDate": "2026-04-09",
+    "heroImage": "/images/blog/clams_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "조개류(바지락·홍합) 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 조개류의 최적 보관 온도, 해감 방식 및 보관 기한을 확인하세요.",
+        "authority": "해양수산부 & 식품의약품안전처(MFDS) & 미국 농무부(USDA)",
+        "intro": "시원한 국물 요리의 핵심인 바지락과 홍합, 사 오자마자 수돗물에 담가두었다가 조개가 전부 죽어 버려본 경험 있으시죠? 🦪\n\n조개류는 살아있는 상태로 유통되는 미생물 부패에 매우 취약한 신선 수산물입니다. 밀폐 용기에 가두거나 민물(수돗물)에 오래 담가두면 산소 부족과 체액 유출로 금방 사멸하며, 사멸한 조개는 상온에서 빠르게 독소를 배출합니다.\n\n이번 가이드에서는 수산 전문가들의 검증된 가이드라인을 바탕으로, 조개류를 안전하게 해감하고 아삭하고 시원한 감칠맛을 지키는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "살아있는 조개를 수돗물에 담그거나 밀폐하지 마세요 🚫",
+            "desc": "수돗물(민물)에 살아있는 바지락이나 홍합을 넣으면 삼투압 현상으로 폐사하고, 밀폐 봉지에 담으면 산소가 차단되어 금방 부패합니다. 살아있는 조개는 숨을 쉴 수 있게 보관해야 합니다."
+          },
+          {
+            "title": "입을 열고 안 닫히거나 껍데기가 깨진 조개는 폐기하세요 ⚠️",
+            "desc": "손가락으로 톡톡 쳤을 때 입을 닫지 않거나 악취가 나는 조개는 이미 사멸하여 세균과 독소가 증식했을 가능성이 높으므로 즉시 골라내어 버려야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "소금물로 어두운 곳에서 해감하기 — 해감 & 불순물 배출 🌊",
+            "text": "바지락 등은 바닷물 농도(약 3%, 물 1L당 소금 30g)의 소금물에 담그고 쇠숟가락을 넣은 뒤 검은 비닐을 덮어 어둡고 서늘한 곳(냉장실)에서 2~3시간 해감해 줍니다."
+          },
+          {
+            "name": "젖은 천을 덮어 0~4℃ 저온 냉장 보관하기 — 냉장 보관 (1~2일) ❄️",
+            "text": "해감 후 깨끗이 씻은 조개는 물기를 빼고 용기에 담은 뒤, 젖은 키친타월이나 면포를 덮어 통풍이 되게 하여 냉장고 신선실(0~4℃)에 보관합니다. 1~2일 이내에 조리해 드세요."
+          },
+          {
+            "name": "소분하여 밀봉 후 냉동 보관하기 — 장기 보관 (3개월) 🧊",
+            "text": "장기 보관 시에는 해감 후 깨끗이 세척하여 1회 분량씩 밀폐 지퍼백에 담아 냉동실(-18℃ 이하)에 보관합니다. 조리 시 해동하지 않고 끓는 국물에 바로 넣어야 껍데기가 잘 열립니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "냉동한 조개를 요리할 때 껍데기가 열리지 않는데 왜 그런가요?",
+            "answer": "냉동된 조개를 찬물에서부터 넣고 천천히 끓이면 근육(관자)이 열을 받지 못해 입을 열지 않습니다. 반드시 육수가 팔팔 끓을 때 냉동 상태 그대로 넣어야 열충격으로 껍데기가 잘 열립니다."
+          },
+          {
+            "question": "홍합의 족사(털)는 보관 전에 떼어내야 하나요?",
+            "answer": "홍합 외부에 붙어있는 족사(실 같은 털)를 미리 떼어내면 홍합이 상처를 입어 금방 사멸합니다. 보관할 때는 그대로 두고, 조리 직전에 가위로 자르거나 아래쪽으로 당겨 제거하는 것이 좋습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Store Clams & Mussels: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, purging method, and shelf life for live shellfish based on official safety guidelines.",
+        "authority": "NOAA & USDA & MFDS",
+        "intro": "Have you ever brought home fresh clams or mussels for a flavorful soup, only to submerge them in tap water and find them dead hours later? 🦪\n\nLive shellfish are highly perishable marine organisms. Sealing them in airtight plastic bags or soaking them in fresh tap water starves them of oxygen or causes osmotic shock, killing them rapidly and triggering swift bacterial decay.\n\nIn this guide, introduces a scientifically proven 3-step storage guide recommended by seafood safety authorities to purge, chill, and preserve live shellfish safely. 🛡️",
+        "whyTitle": "Why Store Clams This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never soak live clams in tap water or seal them airtight 🚫",
+            "desc": "Fresh tap water causes fatal osmotic shock to saltwater clams, and sealing them in airtight bags suffocates them. Live shellfish must be stored with access to air so they can breathe."
+          },
+          {
+            "title": "Discard open shells that do not close when tapped ⚠️",
+            "desc": "Clams or mussels with broken shells or those that remain wide open after tapping are already dead, posing a high risk of bacterial toxins. Discard them immediately."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Purge in saltwater in a dark environment — Sand Purging & Cleaning 🌊",
+            "text": "Submerge clams in a 3% saltwater solution (approx. 30g salt per 1L water). Add a stainless steel spoon, cover with a dark plastic bag, and place in a cool spot (0–4°C) for 2–3 hours to purge sand."
+          },
+          {
+            "name": "Cover with a damp towel and refrigerate at 0–4°C — Cold Storage (1–2 Days) ❄️",
+            "text": "After purging, rinse with clean saltwater, drain thoroughly, place in an open bowl, and cover with a damp paper towel or cloth to keep them moist in the fridge for up to 1–2 days."
+          },
+          {
+            "name": "Purge, drain, seal, and freeze — Long-Term Storage (3 Months) 🧊",
+            "text": "For extended storage, purge and clean the shellfish, drain completely, and seal into freezer Ziploc bags below -18°C. Cook directly from frozen in boiling broth to ensure shells open properly."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why won't my frozen clams open during cooking?",
+            "answer": "Placing frozen clams into cold water and heating them slowly prevents the adductor muscles from contracting sharply. Always drop frozen clams directly into boiling broth so the heat shock opens the shells instantly."
+          },
+          {
+            "question": "Should I remove mussel beards before storing them?",
+            "answer": "No. Pulling out the thread-like mussel beard tears the internal tissue, killing the mussel quickly. Leave the beard attached during storage and trim or pull it off right before cooking."
+          }
+        ]
+      },
+      "ja": {
+        "title": "二枚貝（アサリ・ムール貝）を新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づく二枚貝（あさり・ムール貝）の最適な保存温度、砂抜き方法、保存期間をご確認ください。",
+        "authority": "水産庁 & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "旨味たっぷりのスープを作ろうと買ってきた新鮮なアサリやムール貝を、水道水に浸しておいたら全滅してしまった経験はありませんか？🦪\n\n二枚貝は生きた状態で流通する非常に繊細な水産物です。密閉袋に閉じ込めたり真水（水道水）に長期間漬けると、酸素不足や浸透圧の差によって急速に死滅し、常温ではすぐに細菌や毒素が増殖します。\n\n本記事では、専門家が推奨する二枚貝の正しい砂抜きと鮮度を保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "生きている貝を水道水に漬けたり密閉しないでください 🚫",
+            "desc": "生の二枚貝を水道水（真水）に入れると浸透圧で弱って死んでしまい、密閉袋に入れると窒息して急速に傷みます。生きている貝は呼吸ができる状態で保存してください。"
+          },
+          {
+            "title": "口が開いたまま閉じないものや殻が割れたものは破棄してください ⚠️",
+            "desc": "指で軽く叩いても口を閉じない貝や悪臭がするものはすでに死滅しており、細菌が増殖している可能性が高いため、直ちに選別して捨ててください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "塩水に浸し暗所で砂抜きする — 砂抜き＆汚れ排出 🌊",
+            "text": "海水に近い塩水（約3%：水1Lに対し塩30g）にアサリを浸し、金属のスプーンを入れて黒い袋をかぶせ、暗く涼しい場所（チルド室等）で2〜3時間砂抜きをします。"
+          },
+          {
+            "name": "濡れ布巾をかぶせ0〜4℃で冷蔵保存する — 冷蔵保存 (1〜2日間) ❄️",
+            "text": "砂抜き後に洗い、しっかり水気を切ったら容器に入れ、濡らしたキッチンペーパー等をかぶせて呼吸できる状態で冷蔵庫（0〜4℃）で1〜2日以内に調理します。"
+          },
+          {
+            "name": "小分けして密封し冷凍保存する — 長期保存 (3ヶ月間) 🧊",
+            "text": "長期保存する場合は、砂抜き・洗浄後に水気を完全に切り、1回分ずつ冷凍用ジッパーバッグに入れて冷凍室（-18℃以下）で保存します。調理時は解凍せず沸騰したスープに直接投入します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "冷凍した貝を調理しても殻が開きません。なぜですか？",
+            "answer": "冷凍貝を水からじっくり加熱すると、貝柱が熱ショックを受けず開かなくなります。必ずだし汁やスープが沸騰している状態のところに frozen のまま投入することで、熱ショックで殻がきれいに開きます。"
+          },
+          {
+            "question": "ムール貝の足糸（ひげ）は保存前に取り除くべきですか？",
+            "answer": "保存前にひげ（足糸）を引っ張って抜くと、足糸がつながっている身が傷ついて貝が死んでしまいます。保存時はそのままにしておき、調理直前にハサミで切るか抜いて処理してください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持贝类（蛤蜊·青口贝）新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解活贝类的最佳储存温度、吐沙方式和保鲜时长。",
+        "authority": "中国农业农村部 & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "您是否曾买回新鲜的蛤蜊或青口贝，随手泡在自来水里，结果几小时后贝类全部死亡？🦪\n\n贝类属于活体销售的易腐水产品。如果将其密封在塑料袋中或长期浸泡在淡水（自来水）中，会导致其因缺氧或渗透压剧变而迅速死亡，并在常温下快速滋生细菌与毒素。\n\n本指南基于水产专家指南，为您带来3步科学保存秘诀，教您安全吐沙并锁定贝类的鲜美口感。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "切勿将活贝类浸泡在自来水中或密封储存 🚫",
+            "desc": "自来水（淡水）会因渗透压导致海水贝类迅速死亡，而密封袋会阻断氧气致其窒息。储存活贝类时必须保证其可以正常呼吸。"
+          },
+          {
+            "title": "敲击后无法闭合或外壳破损的贝类请立即丢弃 ⚠️",
+            "desc": "用手指轻轻敲击仍张口不闭合或散发异味的贝类表明其已经死亡，极易滋生毒素与细菌，必须立即挑出丢弃。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "在盐水中避光吐沙 — 吐沙与清除杂质 🌊",
+            "text": "将蛤蜊浸泡在接近海水浓度的盐水（约3%浓度，1升水加30克盐）中，放入一把不锈钢勺子并盖上黑塑料袋，置于阴凉处（0~4℃）吐沙2~3小时。"
+          },
+          {
+            "name": "盖上湿布置于0~4℃冷藏 — 冷藏储存 (1~2天) ❄️",
+            "text": "吐沙后洗净并沥干水分，放入开口容器中，盖上一层湿厨房纸巾或湿布保持湿润通风，存入冰箱冷藏室（0~4℃），并在1~2天内食用完。"
+          },
+          {
+            "name": "分装密封后冷冻保存 — 长期保存 (3个月) 🧊",
+            "text": "如需长期保存，吐沙清洗并彻底沥干后，按单次用量装入冷冻拉链袋密封，存入-18℃以下冷冻室。烹饪时无需解冻，直接放入沸汤中即可张口。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "为什么冷冻后的蛤蜊下锅后张不开壳？",
+            "answer": "冷冻蛤蜊若冷水下锅慢慢加热，贝壳肌无法受到强烈的热冲击而无法打开。请务必在汤汁大火滚开时直接下入冷冻蛤蜊，热冲击会让贝壳迅速张开。"
+          },
+          {
+            "question": "青口贝（贻贝）的足丝（毛须）需要在储存前拔掉吗？",
+            "answer": "不需要。提前拔掉青口贝外侧的足丝会撕裂其内部组织，导致其快速死亡。储存时请保留足丝，在下锅烹饪前用剪刀剪断或拔除即可。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo conservar almejas y mejillones frescos: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método de purgado y la duración de conservación óptimos para moluscos bivalvos según las directrices oficiales.",
+        "authority": "NOAA & USDA & MFDS",
+        "intro": "¿Alguna vez compró almejas o mejillones frescos para una sopa, los sumergió en agua del grifo y descubrió que estaban muertos horas después? 🦪\n\nLos moluscos bivalvos vivos son mariscos altamente perecederos. Sellarlos en bolsas herméticas o sumergirlos en agua dulce (del grifo) les provoca un choque osmótico mortal o asfixia, acelerando su descomposicion bacteriana.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por expertos para purgar la arena y conservar el marisco vivo de forma segura. 🛡️",
+        "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Nunca sumerja almejas vivas en agua del grifo ni las selle herméticamente 🚫",
+            "desc": "El agua dulce provoca un choque osmótico mortal en moluscos marinos, y las bolsas herméticas los asfixian. El marisco vivo necesita aire para respirar durante el almacenamiento."
+          },
+          {
+            "title": "Deseche las conchas abiertas que no se cierren al darles un toque ⚠️",
+            "desc": "Las almejas o mejillones con conchas rotas o que permanecen abiertos tras golpear suavemente la concha ya han muerto, representando un peligro por proliferación de toxinas."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Purgue la arena en agua salada y en la oscuridad — Purgado de arena 🌊",
+            "text": "Sumerja las almejas en una solución de agua salada al 3% (30 g de sal por litro de agua). Añada una cuchara metálica, cubra con una bolsa oscura y deje en un lugar fresco (0-4 °C) durante 2-3 horas."
+          },
+          {
+            "name": "Cubra con un paño húmedo y refrigere a 0–4 °C — Refrigeración (1 a 2 días) ❄️",
+            "text": "Tras el purgado, enjuague, escurra bien, coloque en un recipiente abierto y cubra con papel absorbente húmedo para mantener la ventilación en el refrigerador durante 1 o 2 días."
+          },
+          {
+            "name": "Limpie, selle y congele — Conservación a largo plazo (3 meses) 🧊",
+            "text": "Para una conservación prolongada, limpie, escurra por completo y selle en bolsas para congelar a menos de -18 °C. Cocine directamente congelado en caldo hirviendo para que las conchas se abran."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué las almejas congeladas no se abren al cocinarlas?",
+            "answer": "Poner almejas congeladas en agua fría y calentarla poco a poco evita el choque térmico necesario para relajar el músculo aductor. Agréguelas siempre directamente al caldo hirviendo para que se abran al instante."
+          },
+          {
+            "question": "¿Debo quitar el biso (barba) de los mejillones antes de guardarlos?",
+            "answer": "No. Tirar del biso antes de guardarlos rasga el tejido interno del mejillón y lo mata rápidamente. Conserve los mejillones con el biso e inténtelo retirar justo antes de cocinar."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver les coquillages (clovisses & moules) : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode de dégorgement et la durée de conservation optimales pour les coquillages vivants selon les directives de sécurité.",
+        "authority": "NOAA & USDA & MFDS",
+        "intro": "Avez-vous déjà plongé des clovisses ou des moules fraîches dans de l'eau du robinet pour les nettoyer, pour constater qu'elles étaient toutes mortes quelques heures plus tard ? 🦪\n\nLes coquillages vivants sont des produits de la mer extrêmement périssables. Les enfermer dans un sac en plastique hermétique ou les immerger dans de l'eau douce provoque un choc osmotique ou une asphyxie mortelle, entraînant une rapide décomposition bactérienne.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts pour faire dégorger et conserver vos coquillages en toute sécurité. 🛡️",
+        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne plongez jamais des coquillages vivants dans l'eau du robinet ni sous vide 🚫",
+            "desc": "L'eau douce cause un choc osmotique fatal aux coquillages marins, et les sachets hermétiques les étouffent. Les coquillages vivants doivent pouvoir respirer."
+          },
+          {
+            "title": "Jetez les coquillages ouverts qui ne se referment pas au touché ⚠️",
+            "desc": "Les coquillages cassés ou qui restent ouverts lorsqu'on tapote sur leur coquille sont déjà morts et représentent un risque toxique. Jetez-les immédiatement."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Dégorger dans l'eau salée à l'obscurité — Dégorgement du sable 🌊",
+            "text": "Immergez les coquillages dans de l'eau salée à 3 % (30 g de sel par litre d'eau). Ajoutez une cuillère en inox, couvrez d'un plastique sombre et laissez dégager le sable au frais (0–4 °C) pendant 2 à 3 heures."
+          },
+          {
+            "name": "Recouvrir d'un linge humide et réfrigérer à 0–2 °C — Stockage frais (1 à 2 jours) ❄️",
+            "text": "Après dégorgement, rincez, égouttez, placez dans un plat ouvert et recouvrez d'un linge humide pour maintenir l'aération au réfrigérateur pendant 1 à 2 jours maximum."
+          },
+          {
+            "name": "Nettoyer, égoutter et congeler — Stockage longue durée (3 mois) 🧊",
+            "text": "Pour un stockage prolongé, nettoyez les coquillages, égouttez-les parfaitement, puis scellez-les dans un sac congélation à -18 °C. Cuisinez-les directement congelés dans un bouillon bouillant."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi mes coquillages congelés ne s'ouvrent-ils pas à la cuisson ?",
+            "answer": "Placer des coquillages congelés dans de l'eau froide qui chauffe doucement ne provoque pas le choc thermique nécessaire à l'ouverture du muscle. Plongez-les impérativement directement dans un bouillon à gros bouillons."
+          },
+          {
+            "question": "Faut-il ôter le byssus (la barbe) des moules avant de les stocker ?",
+            "answer": "Non. Arracher le byssus déchire les tissus internes de la moule et la tue rapidement. Laissez le byssus pendant le stockage et ne le coupez ou tirez qu'au moment de la cuisson."
+          }
+        ]
+      },
+      "de": {
+        "title": "Muscheln (Miesmuscheln & Venusmuscheln) richtig aufbewahren: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Wässerungsmethode und Haltbarkeit für lebende Muscheln basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "NOAA & USDA & MFDS",
+        "intro": "Haben Sie schon einmal frische Muscheln gekauft, sie in Leitungswasser eingelegt und festgestellt, dass sie nach wenigen Stunden abgestorben waren? 🦪\n\nLebende Muscheln sind äußerst empfindliche Meeresfrüchte. Das Verschließen in luftdichten Plastikbeuteln oder das Einlegen in Leitungswasser (Süßwasser) führt zu einem tödlichen osmotischen Schock oder Ersticken, was das Fleisch blitzschnell verderben lässt.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um Muscheln sicher zu wässern und frisch zu halten. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Lebende Muscheln niemals in Leitungswasser legen oder luftdicht verschließen 🚫",
+            "desc": "Süßwasser zerstört Meeresmuscheln durch osmotischen Schock, und luftdichte Beutel lassen sie ersticken. Lebende Muscheln müssen stets feucht und belüftet gelagert werden."
+          },
+          {
+            "title": "Geöffnete Muscheln, die sich bei Klopfen nicht schließen, sofort entsorgen ⚠️",
+            "desc": "Muscheln mit beschädigter Schale oder solche, die auf leichtes Anklopfen geöffnet bleiben, sind bereits abgestorben. Hier besteht hohe Gefahr durch Bakterientoxine."
+          }
+        ],
+        "steps": [
+          {
+            "name": "In Salzwasser im Dunkeln wässern — Sandentfernung & Reinigung 🌊",
+            "text": "Muscheln in ca. 3 %iges Salzwasser (30 g Salz pro 1 l Wasser) legen. Einen Metalllöffel dazugeben, mit einer dunklen Tüte abdecken und an einem kühlen Ort (0–4 °C) 2–3 Stunden Sand ausspucken lassen."
+          },
+          {
+            "name": "Mit feuchtem Tuch abdecken und bei 0–4 °C kühlen — Kühllagerung (1–2 Tage) ❄️",
+            "text": "Nach dem Wässern abspülen, gründlich abtropfen lassen, in eine offene Schüssel geben und mit einem feuchten Tuch abgedeckt im Kühlschrank 1–2 Tage aufbewahren."
+          },
+          {
+            "name": "Wässern, trocken tupfen, versiegeln und einfrieren — Gefrierlagerung (3 Monate) 🧊",
+            "text": "Für die Langzeitlagerung Muscheln gründlich reinigen, trocknen und in Gefrierbeuteln bei unter -18 °C einfrieren. Gefroren direkt in kochende Brühe geben, damit sich die Schalen öffnen."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum öffnen sich meine gefrorenen Muscheln beim Kochen nicht?",
+            "answer": "Gefrorene Muscheln dürfen nicht in kaltem Wasser langsam erwärmt werden, da der Muskel sonst nicht reagiert. Geben Sie gefrorene Muscheln immer direkt in sprudelnd kochende Flüssigkeit."
+          },
+          {
+            "question": "Sollte man den Byssus (Bart) von Miesmuscheln vor der Lagerung entfernen?",
+            "answer": "Nein. Das Ausreißen des Barts beschädigt das Gewebe im Inneren der Muschel und tötet sie schnell ab. Belassen Sie den Bart während der Lagerung und entfernen Sie ihn erst direkt vor dem Kochen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar mariscos e mexilhões frescos: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método de purga e tempo de conservação ideais para moluscos bivalves com base em diretrizes oficiais de segurança.",
+        "authority": "NOAA & USDA & MFDS",
+        "intro": "Você já comprou amêijoas ou mexilhões frescos para fazer um ensopado, colocou-os na água da torneira e descobriu que todos morreram horas depois? 🦪\n\nOs moluscos bivalves vivos são frutos do mar extremamente perecíveis. Guardá-los em sacos plásticos herméticos ou mergulhá-los em água doce provoca choque osmótico ou asfixia fatal, acelerando a deterioração por bactérias.\n\nNeste guia, apresentamos um guia prático em 3 etapas recomendado por especialistas para purgar a areia e conservar seus mariscos com total segurança. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca mergulhe mariscos vivos em água da torneira nem os sele hermeticamente 🚫",
+            "desc": "A água doce causa choque osmótico fatal em mariscos marinhos, e os sacos vedados os sufocam. Mariscos vivos precisam de ventilação para respirar."
+          },
+          {
+            "title": "Descarte conchas abertas que não se fecham ao serem tocadas ⚠️",
+            "desc": "Mariscos com conchas quebradas ou que permanecem abertos após um leve toque já estão mortos, apresentando alto risco de contaminação por toxinas bacterianas."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Purque a areia em água salgada e no escuro — Purga de areia 🌊",
+            "text": "Mergulhe os mariscos em água salgada a 3% (30g de sal por litro de água). Adicione uma colher de metal, cubra com saco escuro e deixe em local fresco (0 a 4 °C) por 2 a 3 horas."
+          },
+          {
+            "name": "Cubra com pano úmido e refrigere de 0 a 4 °C — Refrigeração (1 a 2 dias) ❄️",
+            "text": "Após purgar, enxágue, escorra bem, coloque em uma tigela aberta e cubra com papel-toalha úmido para manter a ventilação na geladeira por 1 a 2 dias."
+          },
+          {
+            "name": "Limpe, escorra, sele e congele — Longo prazo (3 meses) 🧊",
+            "text": "Para conservar por mais tempo, limpe os mariscos, escorra completamente e embale em sacos para congelador a -18 °C. Cozinhe diretamente congelados em caldo fervente."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que meus mariscos congelados não abrem ao cozinhar?",
+            "answer": "Colocar mariscos congelados em água fria e aquecer lentamente impede o choque térmico necessário para abrir a concha. Adicione os mariscos congelados diretamente no caldo fervendo."
+          },
+          {
+            "question": "Devo remover a 'barba' (bisso) dos mexilhões antes de guardar?",
+            "answer": "Não. Puxar o bisso antes de guardar rasga o tecido interno do mexilhão e o mata rapidamente. Mantenha a barba durante o armazenamento e remova-a apenas no momento de cozinhar."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Kerang & Kerang Hijau agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode pembersihan pasir, dan masa simpan terbaik untuk kerang hidup berdasarkan pedoman keselamatan resmi.",
+        "authority": "NOAA & USDA & MFDS",
+        "intro": "Pernahkah Anda membeli kerang segar untuk dimasak, merendamnya di dalam air keran, lalu mendapatinya mati beberapa jam kemudian? 🦪\n\nKerang hidup adalah hasil laut yang sangat mudah membusuk. Membungkusnya dalam kantong plastik kedap udara atau merendamnya di air tawar (air keran) akan menyebabkan syok osmotik atau mati lemas, yang memicu pembusukan bakteri dengan cepat.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli untuk membersihkan pasir dan menyimpan kerang hidup dengan aman. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan merendam kerang hidup di air keran atau menyegelnya rapat 🚫",
+            "desc": "Air tawar memicu syok osmotik fatal pada kerang laut, dan kantong kedap udara akan membuatnya lemas. Kerang hidup harus disimpan dengan akses udara agar tetap bisa bernapas."
+          },
+          {
+            "title": "Buang kerang yang cangkangnya terbuka dan tidak menutup saat diketuk ⚠️",
+            "desc": "Kerang yang cangkangnya pecah atau tetap terbuka lebar saat diketuk perlahan berarti sudah mati dan berisiko tinggi mengandung toksin bakteri. Segera buang."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Bersihkan pasir dalam air garam di tempat gelap — Pembersihan Pasir & Kotoran 🌊",
+            "text": "Rendam kerang dalam larutan air garam 3% (sekitar 30g garam per 1L air). Masukkan sendok logam, tutup dengan plastik gelap, lalu simpan di tempat sejuk (0–4°C) selama 2–3 jam."
+          },
+          {
+            "name": "Tutup dengan kain basah dan simpan di suhu 0–4°C — Penyimpanan Dingin (1–2 Hari) ❄️",
+            "text": "Setelah pasirnya keluar, bilas, tiriskan hingga kering, masukkan ke wadah terbuka, lalu tutup dengan tisu dapur basah agar tetap lembap di dalam kulkas selama 1–2 hari."
+          },
+          {
+            "name": "Bersihkan, tiriskan, segel, lalu bekukan — Simpan Jangka Panjang (3 Bulan) 🧊",
+            "text": "Untuk penyimpanan jangka panjang, bersihkan kerang, tiriskan hingga benar-benar kering, lalu segel dalam kantong Ziploc freezer di bawah suhu -18°C. Masak langsung kondisi beku ke dalam kuah mendidih."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa kerang beku saya tidak terbuka saat dimasak?",
+            "answer": "Memasukkan kerang beku ke dalam air dingin lalu memanaskannya secara perlahan membuat otot kerang tidak bisa merespons. Selalu masukkan kerang beku langsung ke dalam kuah mendidih agar syok panas membuka cangkangnya seketika."
+          },
+          {
+            "question": "Apakah serabut/janggut kerang hijau harus dibuang sebelum disimpan?",
+            "answer": "Tidak. Mencabut serabut sebelum disimpan akan merobek jaringan dalam kerang dan membunuhnya dengan cepat. Biarkan serabut tetap menempel saat disimpan dan potong atau cabut tepat sebelum dimasak."
+          }
+        ]
+      }
     }
+  }
 }

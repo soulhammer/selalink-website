@@ -1,406 +1,406 @@
 {
-    "how-to-store-peach": {
-        "ingId": "peach",
-        "pubDate": "2026-06-08",
-        "updatedDate": "2026-06-08",
-        "heroImage": "/images/blog/peach_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "복숭아 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 복숭아의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
-                "intro": "달콤한 향과 풍부한 과즙이 매력적인 복숭아를 사 왔는데, 냉장고에 넣었다가 단맛이 싹 빠지고 과육이 푸석해져 버린 적 있으시죠? 🍑\n\n복숭아는 온도 변화와 충격에 매우 예민한 과일로, 너무 낮은 온도에 오래 방치하면 과육이 단단해지고 단맛이 사라지는 '저온 장애(Chilling Injury)'가 발생합니다. 올바르지 않은 보관법은 단맛 저하, 무름, 곰팡이 발생의 원인이 됩니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들의 권장 가이드라인을 바탕으로, 복숭아의 달콤함과 탱글한 과즙을 가장 완벽하게 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "냉장고 극저온(0~4℃)에 너무 오래 두지 마세요 ⚠️",
-                        "desc": "복숭아를 냉장고의 일반 선반이나 극저온에 오랫동안 보관하면 표면이 무르고 과육이 푸석해지는 '저온 장애'가 생겨 단맛과 향이 사라집니다. 후숙 후 8~10℃의 야채실에 보관하고 빠르게 드시는 것이 좋습니다."
-                    },
-                    {
-                        "title": "보관 전 물로 씻거나 상처 난 복숭아를 함께 두지 마세요 💧",
-                        "desc": "복숭아 표면에 물기가 닿으면 곰팡이가 피기 쉽고 껍질이 빠르게 무릅니다. 상처가 난 복숭아는 발견 즉시 따로 골라내어 먼저 먹고, 씻는 것은 먹기 직전에 해야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "서늘한 상온에서 후숙하기 — 단맛과 향 극대화 📦",
-                        "text": "딱딱하거나 덜 익은 복숭아는 바람이 잘 통하는 서늘한 상온(15~20℃)에 1~3일간 놓아두어 자연스럽게 후숙시켜 주세요. 💡 보관 팁: 박스째 둘 경우 복숭아가 서로 닿지 않도록 포장재를 활용하고, 상온에서 말랑해지고 향이 진해질 때까지 기다리는 것이 핵심입니다."
-                    },
-                    {
-                        "name": "신문지·키친타월로 싸서 8~10℃ 야채칸 보관하기 — 냉장 보관 (7일) ❄️",
-                        "text": "후숙이 완료된 복숭아는 냉장고 야채칸을 활용해 신선도를 연장합니다. 💡 보관 팁: 복숭아를 하나씩 신문지나 키친타월로 감싸 습기와 충격을 차단한 뒤 지퍼백에 넣어 야채실(8~10℃)에 보관하세요. 드시기 1시간 전에 상온에 꺼내두면 단맛이 다시 살아납니다."
-                    },
-                    {
-                        "name": "껍질을 벗겨 소분 냉동하거나 조림(병조림) 만들기 — 장기 보관 (90일) 🧊",
-                        "text": "복숭아가 많아 오래 보관해야 할 때는 냉동하거나 통조림 형태로 가공하는 것이 좋습니다. 💡 보관 팁: 껍질을 벗기고 씨를 제거한 과육을 먹기 좋은 크기로 잘라 밀폐 지퍼백에 담아 냉동실(-18℃ 이하)에 보관하거나, 설탕물과 함께 조려 병조림으로 만들면 3개월 이상 맛있게 즐길 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "냉장 보관했던 복숭아가 안 달고 무맛이 된 이유는 무엇인가요?",
-                        "answer": "낮은 온도에서는 복숭아의 미각 자극 성분이 둔화되고 당도가 잠시 감추어집니다. 냉장 보관했던 복숭아를 드시기 1~2시간 전에 미리 상온에 꺼내두면, 과육의 온도가 올라가면서 복숭아 특유의 향과 달콤한 단맛이 다시 살아납니다."
-                    },
-                    {
-                        "question": "백도, 황도, 천도복숭아의 보관법에 차이가 있나요?",
-                        "answer": "기본적인 보관 원칙(상온 후숙 후 야채실 보관)은 동일합니다. 다만, 천도복숭아나 딱딱이 복숭아는 과육이 단단하여 상온 보관 기간이 상대적으로 길고, 백도나 황도는 과육이 무르기 쉬우므로 후숙 상태를 자주 확인하여 말랑해지면 즉시 야채실로 옮기거나 빠르게 소비해야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Peaches Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for peaches based on official safety guidelines.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Have you ever bought juicy, sweet peaches and put them in the fridge, only to find them flavorless, dry, and mealy a few days later? 🍑\n\nPeaches are extremely sensitive to temperature changes and impact. Keeping them at temperatures that are too low for too long triggers 'chilling injury,' making the flesh dry, fibrous, and tasteless. Improper storage leads to lost sweetness, softening, and mold growth.\n\nIn this guide, introduces a scientifically proven 3-step storage guide based on expert guidelines to maintain the luscious sweetness and juiciness of your peaches perfectly. 🛡️",
-                "whyTitle": "Why Store Peaches This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Avoid storing peaches at ultra-low fridge temperatures (0–4°C) for long ⚠️",
-                        "desc": "Storing peaches on standard fridge shelves or at ultra-cold temperatures for prolonged periods causes chilling injury, turning the flesh dry and mealy while destroying sweetness and aroma. Keep them in the vegetable crisper drawer (8–10°C) after ripening and consume quickly."
-                    },
-                    {
-                        "title": "Never wash before storing & isolate bruised peaches 💧",
-                        "desc": "Water on peach skins invites mold and accelerates spoilage. Separate bruised or damaged peaches immediately to consume first, and wash peaches right before eating."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Ripen at cool room temperature — Maximize Sweetness & Aroma 📦",
-                        "text": "Allow firm or unripened peaches to sit at cool room temperature (15–20°C / 59–68°F) out of direct sunlight for 1–3 days to ripen naturally. 💡 Storage Tip: Ensure peaches do not touch each other. Wait until they yield slightly to gentle pressure and emit a sweet fragrance."
-                    },
-                    {
-                        "name": "Wrap in paper towels or newspaper & store in the crisper drawer — Cold Storage (7 Days) ❄️",
-                        "text": "Once fully ripe, transfer peaches to the refrigerator crisper drawer to extend shelf life. 💡 Storage Tip: Wrap each peach individually in paper towels or newspaper to cushion and absorb moisture, then place in a Ziploc bag in the crisper drawer (8–10°C / 46–50°F). Take them out 1 hour before eating to restore sweetness."
-                    },
-                    {
-                        "name": "Peel, slice & freeze or make peach preserves — Long-Term Storage (90 Days) 🧊",
-                        "text": "For long-term storage, freezing or preserving in syrup is best. 💡 Storage Tip: Peel, pit, and slice peaches, then freeze them in a single layer before transferring to an airtight Ziploc bag (-18°C or below), or cook them with sugar syrup to make preserves. Enjoy for over 3 months."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why do refrigerated peaches lose their sweetness?",
-                        "answer": "Low temperatures suppress flavor compounds and temporarily dull sweetness perception. Taking refrigerated peaches out to room temperature 1–2 hours before eating allows the flesh to warm up, restoring their natural aroma and rich sweetness."
-                    },
-                    {
-                        "question": "Are there differences in storing white, yellow, and nectarine peaches?",
-                        "answer": "The fundamental rules (ripen at room temperature, store in crisper drawer) apply to all types. However, nectarines and firm white peaches have firmer flesh and last longer at room temperature, while soft white and yellow peaches soften quickly and should be monitored closely before moving to cold storage."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "桃（モモ）を新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づく桃の最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "甘くてジューシーな桃を買ってきたのに、冷蔵庫に入れたら甘みが抜けて果肉がパサパサになってしまった経験はありませんか？🍑\n\n桃は温度変化や衝撃に非常に繊細な果物で、低すぎる温度に長く放置すると果肉がパサつき甘みが消える「低温障害（Chilling Injury）」が発生します。不適切な保存方法は甘みの低下、軟化、カビ発生の原因になります。\n\n本記事では、専門家のガイドラインに基づき、桃の甘みと果汁を最高な状態で保つ3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "冷蔵庫の極低温（0〜4℃）に長く放置しないでください ⚠️",
-                        "desc": "桃を冷蔵庫の一般棚や極低温で長期間保存すると、果肉がパサついて甘みや香りが失われる「低温障害」が発生します。追熟させた後、8〜10℃の野菜室で保存し早めにお召し上がりください。"
-                    },
-                    {
-                        "title": "保存する前に洗ったり傷ついた桃を一緒にしないでください 💧",
-                        "desc": "桃の表面に水気がつくとカビが生えやすくなり皮が傷みます。傷のある桃はすぐ選別して先にお召し上がりいただき、洗うのは食べる直前にしてください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "風通しの良い涼しい常温で追熟させる — 甘みと香りを最大化 📦",
-                        "text": "かたい桃や未熟な桃は直射日光を避け、風通しの良い涼しい常温（15〜20℃）に1〜3日置いて自然追熟させます。💡保存のコツ：桃同士が当たらないように離して置き、軽く触れて柔らかくなり甘い香りが立つまで待ちます。"
-                    },
-                    {
-                        "name": "新聞紙やキッチンペーパーで包み8〜10℃の野菜室で保存する — 冷蔵保存 (7日間) ❄️",
-                        "text": "追熟した桃は冷蔵庫の野菜室を活用して鮮度を維持します。💡保存のコツ：1個ずつ新聞紙やキッチンペーパーで包んで湿気と衝撃を防ぎ、ジッパーバッグに入れて野菜室（8〜10℃）で保存します。食べる1時間前に常温に出すと甘みが戻ります。"
-                    },
-                    {
-                        "name": "皮をむいて小分け冷凍するかシロップ煮（コンポート）にする — 冷凍保存 (90日間) 🧊",
-                        "text": "大量にある場合は冷凍かコンポートにするのが最適です。💡保存のコツ：皮と種を取り除いてカットした果肉をジッパーバッグに入れて冷凍室（-18℃以下）で保存するか、砂糖シロップで煮て瓶詰め（コンポート）にすれば3ヶ月以上美味しく楽しめます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "冷蔵保存していた桃が甘くなくなった理由は何ですか？",
-                        "answer": "低い温度では桃の甘み成分を感じにくくなります。食べる1〜2時間前に常温に出しておくと、果肉の温度が上がり桃本来の芳醇な香りと甘みが復活します。"
-                    },
-                    {
-                        "question": "白桃、黄桃、ネクタリン（油桃）で保存方法に違いはありますか？",
-                        "answer": "基本原則（常温追熟後に野菜室保存）は同じです。ただしネクタリンや硬い品種は日持ちしやすく、白桃や黄桃は果肉が柔らかくなりやすいため、追熟具合を細かくチェックして柔らかくなったらすぐに野菜室へ移動させてください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持桃子新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解桃子的最佳储存温度、方式和保鲜时长。",
-                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "您是否曾买回鲜甜多汁的桃子放进冰箱，几天后拿出来吃却发现毫无甜味且果肉发绵变软？🍑\n\n桃子是对温度变化和磕碰极度敏感的水果。如果长时间置于过低温度下，会引发“低温冷害（Chilling Injury）”，导致果肉干枯呈木栓状、失去甜味。不当的储存方式会导致甜味流失、变软腐烂与发霉。\n\n本指南基于专家权威指南，为您介绍3步科学保存秘诀，帮您完美锁定桃子的浓郁甜香与多汁口感。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "切勿长时间存放在冰箱极低温（0~4℃）环境中 ⚠️",
-                        "desc": "将桃子长时间保存在冰箱普通隔板或极低温下，会导致果肉发绵干枯、失去甜味与香气的“冷害”现象。催熟后请保存在8~10℃的蔬菜保鲜抽屉中并尽快食用。"
-                    },
-                    {
-                        "title": "储存前切勿用水清洗，受损桃子请立即隔离 💧",
-                        "desc": "桃子表皮沾水极易滋生霉菌并加速变质。发现磕碰或受损的桃子请立即挑出优先食用，清洗请留到食用前进行。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "置于阴凉常温下催熟 — 激发浓郁甜香 📦",
-                        "text": "较硬或未熟透的桃子请避开阳光直射，置于通风阴凉的常温（15~20℃）下放置1~3天进行自然催熟。💡储存小贴士：注意不要让桃子互相挤压，待手感微软且散发甜香时即催熟完成。"
-                    },
-                    {
-                        "name": "用报纸或厨房纸巾包裹后放入8~10℃蔬菜抽屉 — 冷藏储存 (7天) ❄️",
-                        "text": "催熟后的桃子可借助冰箱保鲜抽屉延长赏味期。💡储存小贴士：用纸巾或报纸将桃子逐个包裹以防潮防磕碰，装入拉链袋存入蔬菜保鲜抽屉（8~10℃）。食用前1小时取出置于常温，甜味会重新显现。"
-                    },
-                    {
-                        "name": "去皮切块分装冷冻或制成罐头 — 冷冻保存 (90天) 🧊",
-                        "text": "如桃子较多需长期保存，冷冻或制成罐头是最佳选择。💡储存小贴士：去皮去核切块后装入密封拉链袋冷冻（-18℃以下），或加入糖水煮制成黄桃/白桃罐头，可保存3个月以上。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "冷藏过的桃子为什么感觉不甜了？",
-                        "answer": "低温会抑制舌头对桃子甜味成分的感知。将冷藏的桃子在食用前1~2小时提前取出置于常温，随着果肉温度回升，桃子特有的浓郁甜香就会重新恢复。"
-                    },
-                    {
-                        "question": "白桃、黄桃和油桃的保存方法有区别吗？",
-                        "answer": "基本保存原则（常温催熟后冷藏保鲜抽屉）是一致的。油桃和硬肉桃果肉较硬，常温保质期相对较长；而软肉白桃和黄桃极易变软，需密切观察催熟状态，一旦变软应立即转入保鲜抽屉或尽快食用。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener los melocotones (duraznos) frescos: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para los melocotones según las directrices oficiales de seguridad.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "¿Alguna vez compró melocotones jugosos y dulces y los guardó en el refrigerador, solo para descubrir días después que estaban insípidos y harinosos? 🍑\n\nLos melocotones son frutas extremadamente sensibles a los cambios de temperatura y golpes. Conservarlos a temperaturas muy bajas por mucho tiempo desencadena el 'daño por frío' (chilling injury), lo que vuelve la pulpa seca, harinosa y sin sabor. Un almacenamiento inadecuado causa pérdida de dulzura, pudrición y moho.\n\nEn esta guía se presenta una guía en 3 pasos respaldada por expertos para conservar la dulzura y el jugo de sus melocotones a la perfección. 🛡️",
-                "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Evite refrigerar a temperaturas extremadamente bajas (0-4 °C) por mucho tiempo ⚠️",
-                        "desc": "Guardar melocotones en estantes fríos estándar causa daño por frío, dejando la pulpa harinosa y sin aroma. Tras madurarlos, guárdelos en el cajón de verduras (8-10 °C) y consúmalos pronto."
-                    },
-                    {
-                        "title": "No los lave antes de guardar e aísle los golpeados 💧",
-                        "desc": "El agua sobre la piel del melocotón favorece el moho. Separe de inmediato los melocotones dañados para consumirlos primero y lávelos justo antes de comer."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Madure a temperatura ambiente fresca — Maximice dulzura y aroma 📦",
-                        "text": "Deje los melocotones firmes a temperatura ambiente fresca (15-20 °C) protegidos del sol durante 1 a 3 días para que maduren de forma natural. 💡 Consejo de almacenamiento: Evite que se toquen entre sí. Espere hasta que cedan ligeramente al tacto."
-                    },
-                    {
-                        "name": "Envuelva en papel y guarde en el cajón de verduras (8-10 °C) — Almacenamiento refrigerado (7 días) ❄️",
-                        "text": "Una vez maduros, páselos al cajón de verduras del refrigerador. 💡 Consejo de almacenamiento: Envuelva cada melocotón en papel de cocina o periódico y colóquelos en una bolsa Ziploc en el cajón de verduras (8-10 °C). Sáquelos 1 hora antes de comer para recuperar su dulzura."
-                    },
-                    {
-                        "name": "Pele, trocee y congele o prepare en almíbar — Conservación (90 días) 🧊",
-                        "text": "Para un almacenamiento prolongado, congelar o hacer conserva es lo mejor. 💡 Consejo de almacenamiento: Pele, descorazone y trocee la pulpa, colóquela en una bolsa Ziploc y congele (-18 °C), o cocínela con almíbar de azúcar. Disfrútela por más de 3 meses."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué los melocotones refrigerados pierden su dulzura?",
-                        "answer": "Las bajas temperaturas adormecen temporalmente los compuestos de sabor. Sacar los melocotones del refrigerador 1 o 2 horas antes de comer permite que la pulpa tome temperatura, recuperando su aroma natural y dulzura."
-                    },
-                    {
-                        "question": "¿Hay diferencia al almacenar melocotones amarillos, blancos o nectarinas?",
-                        "answer": "Las reglas básicas (madurar a temperatura ambiente y guardar en el cajón de verduras) son las mismas. Las nectarinas y melocotones de pulpa dura duran más a temperatura ambiente, mientras que los melocotones blancos o amarillos blandos se suavizan rápido y deben vigilarse de cerca."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver les pêches fraîches : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les pêches selon les directives officielles de sécurité.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Avez-vous déjà acheté de belles pêches douces et juteuses pour constater après quelques jours au frigo qu'elles étaient devenues insipides et cotonneuses ? 🍑\n\nLa pêche est un fruit extrêmement sensible aux chocs et aux variations de température. Un stockage prolongé à température trop basse provoque la 'maladie du froid' (dégât du froid), rendant la chair sèche, méaline et sans goût. Un stockage inapproprié entraîne la perte de sucre, le ramollissement et le moisissement.\n\nDans ce guide, vous présente un guide scientifique en 3 étapes pour préserver parfaitement la douceur et le jus de vos pêches. 🛡️",
-                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Évitez le stockage prolongé aux températures très basses du frigo (0–4 °C) ⚠️",
-                        "desc": "Placer les pêches au réfrigérateur standard trop longtemps provoque des dégâts dus au froid : la chair devient cotonneuse et perd tout son sucre. Après mûrissage, conservez-les dans le bac à légumes (8–10 °C) et consommez-les rapidement."
-                    },
-                    {
-                        "title": "Ne lavez jamais les pêches avant de les stocker & isolez les fruits abîmés 💧",
-                        "desc": "L'eau sur la peau de la pêche favorise l'apparition de moisissures. Séparez immédiatement les pêches meurtries pour les consommer en priorité et ne lavez les autres qu'au moment de déguster."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Faire mûrir à température ambiante fraîche — Maximiser la douceur et l'arôme 📦",
-                        "text": "Laissez les pêches fermes mûrir naturellement à température ambiante fraîche (15–20 °C) à l'abri du soleil pendant 1 à 3 jours. 💡 Astuce de conservation : Évitez qu'elles ne se touchent et attendez qu'elles deviennent légèrement souples sous les doigts."
-                    },
-                    {
-                        "name": "Envelopper dans du papier et placer dans le bac à légumes (8–10 °C) — Stockage (7 jours) ❄️",
-                        "text": "Une fois mûres, placez les pêches dans le bac à légumes pour prolonger leur fraîcheur. 💡 Astuce de conservation : Enveloppez chaque pêche dans du papier essuie-tout ou du journal, placez-les dans un sac Ziploc au bac à légumes (8–10 °C). Sortez-les 1 heure avant de déguster pour raviver le sucre."
-                    },
-                    {
-                        "name": "Peler, couper et congeler ou préparer au sirop — Stockage longue durée (90 jours) 🧊",
-                        "text": "Pour une conservation de plusieurs mois, la congélation ou la mise en bocaux au sirop est idéale. 💡 Astuce de conservation : Pelez, dénoyautez et coupez la chair, mettez en sac congélation au congélateur (-18 °C) ou préparez un sirop au sucre. Se conserve plus de 3 mois."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi les pêches réfrigérées semblent-elles moins sucrées ?",
-                        "answer": "Le froid inhibe temporairement la perception des arômes et du sucre. En sortant les pêches du réfrigérateur 1 à 2 heures avant de les manger, la chair remonte en température, libérant à nouveau toute sa douceur et son parfum."
-                    },
-                    {
-                        "question": "Y a-t-il une différence de conservation entre pêches blanches, jaunes et brugnons/nectarines ?",
-                        "answer": "Les principes de base (mûrir à température ambiante puis placer au bac à légumes) sont identiques. Toutefois, les nectarines et pêches pavies ont une chair ferme qui se conserve plus longtemps à température ambiante, tandis que les pêches blanches ou jaunes mûres se ramollissent vite et doivent être surveillées."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Pfirsiche richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Pfirsiche basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Haben Sie schon einmal saftige, süße Pfirsiche gekauft und in den Kühlschrank gelegt, nur um nach einigen Tagen festzustellen, dass sie geschmacklos und mehlig wurden? 🍑\n\nPfirsiche reagieren extrem empfindlich auf Stöße und Temperaturschwankungen. Eine zu kalte Lagerung führt zu Kälteschäden (Chilling Injury), wodurch das Fruchtfleisch trocken, faserig und geschmacklos wird. Falsche Lagerung führt zu Süßverlust, Fäulnis und Schimmel.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die vollmundige Süße und Saftigkeit Ihrer Pfirsiche perfekt zu bewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Pfirsiche nicht lange bei sehr kalten Kühlschranktemperaturen (0–4 °C) lagern ⚠️",
-                        "desc": "Längere Lagerung bei sehr niedrigen Temperaturen verursacht Kälteschäden: Das Fleisch wird mehlig und verliert Süße und Aroma. Nach dem Nachreifen im Gemüsefach (8–10 °C) lagern und rasch verbrauchen."
-                    },
-                    {
-                        "title": "Vor der Lagerung niemals waschen & beschädigte Pfirsiche aussortieren 💧",
-                        "desc": "Feuchtigkeit auf der Pfirsichhaut fördert Schimmelbildung. Sortieren Sie Druckstellen aufweisende Pfirsiche sofort aus und waschen Sie die Früchte erst direkt vor dem Verzehr."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Bei kühler Raumtemperatur nachreifen lassen — Süße & Aroma maximieren 📦",
-                        "text": "Lassen Sie feste Pfirsiche bei kühler Raumtemperatur (15–20 °C) ohne direkte Sonneneinstrahlung 1–3 Tage nachreifen. 💡 Lagerungstipp: Achten Sie darauf, dass sich die Pfirsiche nicht berühren, bis sie auf leichten Druck nachgeben."
-                    },
-                    {
-                        "name": "In Papier wickeln und im Gemüsefach (8–10 °C) lagern — Kühllagerung (7 Tage) ❄️",
-                        "text": "Sobald sie reif sind, verlängert das Gemüsefach die Haltbarkeit. 💡 Lagerungstipp: Wickeln Sie jeden Pfirsich einzeln in Küchenpapier oder Zeitungspapier, geben Sie sie in einen Ziploc-Beutel im Gemüsefach (8–10 °C). 1 Stunde vor dem Essen herausnehmen, damit sich die Süße entfaltet."
-                    },
-                    {
-                        "name": "Schälen, schneiden & einfrieren oder einkochen — Langzeitlagerung (90 Tage) 🧊",
-                        "text": "Für die langfristige Lagerung eignet sich das Einfrieren oder Einkochen in Sirup. 💡 Lagerungstipp: Schälen, entsteinen und schneiden Sie das Fruchtfleisch, frieren Sie es im Ziploc-Beutel (-18 °C) ein oder kochen Sie es mit Zuckersirup ein. Über 3 Monate haltbar."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum verlieren gekühlte Pfirsiche ihre Süße?",
-                        "answer": "Kälte dämpft das Süßemempfinden und die Aromen vorübergehend. Wenn Sie Pfirsiche 1–2 Stunden vor dem Verzehr aus dem Kühlschrank nehmen, erwärmt sich das Fruchtfleisch und die natürliche Süße entfaltet sich wieder."
-                    },
-                    {
-                        "question": "Gibt es Unterschiede bei der Lagerung von Weiß-, Gelb- und Nektarinenpfirsichen?",
-                        "answer": "Die Grundregeln (bei Raumtemperatur nachreifen, dann ins Gemüsefach) gelten für alle Arten. Nektarinen und feste Pfirsiche halten bei Raumtemperatur etwas länger, während weiche weiße oder gelbe Pfirsiche schnell reifen und aufmerksam beobachtet werden sollten."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar pêssegos frescos: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para pêssegos com base em diretrizes oficiais de segurança.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Você já comprou pêssegos doces e suculentos e os guardou na geladeira, só para descobrir dias depois que ficaram farinhentos e sem gosto? 🍑\n\nOs pêssegos são frutas extremamente sensíveis ao impacto e às variações de temperatura. Guardá-los em temperaturas muito baixas por muito tempo causa 'dano por frio' (chilling injury), deixando a polpa seca, farinhenta e sem sabor. O armazenamento inadequado causa perda de doçura, amolecimento e mofo.\n\nNeste guia, apresentamos um guia em 3 etapas baseado em recomendações de especialistas para manter a doçura e a suculência dos seus pêssegos com perfeição. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Evite guardar pêssegos em temperaturas muito baixas da geladeira (0–4 °C) por muito tempo ⚠️",
-                        "desc": "Manter os pêssegos nas prateleiras frias da geladeira causa danos por frio, deixando a polpa farinhenta e sem aroma. Após amadurecerem, guarde na gaveta de legumes (8–10 °C) e consuma rápido."
-                    },
-                    {
-                        "title": "Não lave antes de guardar e isole os pêssegos machucados 💧",
-                        "desc": "Água na casca do pêssego favorece o mofo e acelera o apodrecimento. Separe imediatamente as frutas machucadas para consumir primeiro e lave apenas antes de comer."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Amadureça em temperatura ambiente fresca — Maximize a doçura e o aroma 📦",
-                        "text": "Deixe os pêssegos firmes em temperatura ambiente fresca (15–20 °C) longe da luz solar direta por 1 a 3 dias para amadurecerem naturalmente. 💡 Dica de conservação: Evite que se encostem e espere até ficarem macios ao toque."
-                    },
-                    {
-                        "name": "Envolva em papel e guarde na gaveta de legumes (8–10 °C) — Conservação (7 dias) ❄️",
-                        "text": "Quando estiverem maduros, a gaveta de legumes prolonga a conservação. 💡 Dica de conservação: Envolva cada pêssego em papel-toalha ou jornal e coloque num saco Ziploc na gaveta de legumes (8–10 °C). Retire 1 hora antes de comer para resgatar a doçura."
-                    },
-                    {
-                        "name": "Descasque, corte e congele ou faça em calda — Conservação de longo prazo (90 dias) 🧊",
-                        "text": "Para guardar por meses, congelar ou fazer em calda é o ideal. 💡 Dica de conservação: Descasque, retire o caroço e corte a polpa, congele num saco Ziploc (-18 °C) ou cozinhe com calda de açúcar. Dura mais de 3 meses."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Por que os pêssegos refrigerados parecem perder a doçura?",
-                        "answer": "As baixas temperaturas adormecem temporariamente a percepção de doçura e aroma. Ao tirar os pêssegos da geladeira 1 a 2 horas antes de comer, a polpa ganha temperatura e resgata todo o aroma e sabor natural."
-                    },
-                    {
-                        "question": "Existe diferença no armazenamento de pêssegos brancos, amarelos e nectarinas?",
-                        "answer": "As regras básicas (amadurecer em temperatura ambiente e guardar na gaveta de legumes) são as mesmas. Nectarinas e pêssegos de polpa firme duram mais em temperatura ambiente, enquanto pêssegos brancos ou amarelos macios amolecem rápido e devem ser vigiados de perto."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Persik (Peach) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk persik berdasarkan pedoman keselamatan resmi.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Pernahkah Anda membeli buah persik yang manis dan kaya air lalu menyimpannya di kulkas, hanya untuk mendapati daging buahnya menjadi hambar, kering, dan berserat beberapa hari kemudian? 🍑\n\nBuah persik sangat sensitif terhadap perubahan suhu dan benturan. Menyimpannya pada suhu yang terlalu dingin dalam waktu lama memicu 'kerusakan dingin' (chilling injury), membuat daging buah menjadi kering dan hilang rasa manisnya. Penyimpanan yang salah menyebabkan hilangnya rasa manis, kebusukan, dan jamur.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah untuk menjaga rasa manis dan kesegaran air buah persik Anda secara sempurna. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Hindari menyimpan persik pada suhu kulkas yang terlalu dingin (0–4°C) dalam waktu lama ⚠️",
-                        "desc": "Menyimpan persik di rak kulkas biasa atau suhu yang terlalu dingin memicu kerusakan dingin yang membuat daging buah berserat dan hilang rasa manisnya. Simpan di laci sayur (8–10°C) setelah matang dan segera konsumsi."
-                    },
-                    {
-                        "title": "Jangan mencuci sebelum disimpan & pisahkan persik yang memar 💧",
-                        "desc": "Air pada kulit persik memicu tumbuhnya jamur. Segera pisahkan persik yang memar untuk dikonsumsi terlebih dahulu, dan cucilah persik tepat sebelum dimakan."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Matangkan pada suhu ruang yang sejuk — Maksimalkan Rasa Manis & Aroma 📦",
-                        "text": "Biarkan persik yang masih keras matang secara alami pada suhu ruang yang sejuk (15–20°C) dan terhindar dari sinar matahari langsung selama 1–3 hari. 💡 Tips Penyimpanan: Pastikan buah persik tidak saling menempel hingga teksturnya terasa agak lembut saat ditekan pelan."
-                    },
-                    {
-                        "name": "Bungkus dengan kertas & simpan di laci sayur (8–10°C) — Simpan Dingin (7 Hari) ❄️",
-                        "text": "Setelah matang sempurna, simpan di laci sayur kulkas untuk memperpanjang masa simpan. 💡 Tips Penyimpanan: Bungkus setiap persik dengan tisu dapur atau kertas koran, masukkan ke kantong Ziploc di laci sayur (8–10°C). Keluarkan 1 jam sebelum dimakan agar rasa manisnya keluar kembali."
-                    },
-                    {
-                        "name": "Kupas, potong & bekukan atau buat manisan/setup — Simpan Beku (90 Hari) 🧊",
-                        "text": "Untuk menyimpan beberapa bulan, membekukan atau membuatnya menjadi setup sirup gula adalah cara terbaik. 💡 Tips Penyimpanan: Kupas kulit, buang biji, potong daging buahnya, lalu bekukan dalam kantong Ziploc (-18°C) atau masak dengan sirup gula. Awet hingga lebih dari 3 bulan."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa buah persik yang disimpan di kulkas terasa kurang manis?",
-                        "answer": "Suhu dingin menekan persepsi rasa manis dan aroma secara sementara. Mengeluarkan persik dari kulkas 1–2 jam sebelum dimakan akan menaikkan suhu daging buah dan mengembalikan aroma serta rasa manis alaminya."
-                    },
-                    {
-                        "question": "Apakah ada perbedaan cara menyimpan persik putih, kuning, dan nektarin?",
-                        "answer": "Prinsip dasarnya (pematangan suhu ruang lalu simpan di laci sayur) tetap sama. Nektarin dan persik keras memiliki daging buah yang lebih padat sehingga awet lebih lama di suhu ruang, sedangkan persik putih atau kuning yang lembut cepat mengempuk dan perlu dipantau secara berkala."
-                    }
-                ]
-            }
-        }
+  "how-to-store-peach": {
+    "ingId": "peach",
+    "pubDate": "2026-06-08",
+    "updatedDate": "2026-06-08",
+    "heroImage": "/images/blog/peach_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "복숭아 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 복숭아의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+        "intro": "달콤한 향과 풍부한 과즙이 매력적인 복숭아를 사 왔는데, 냉장고에 넣었다가 단맛이 싹 빠지고 과육이 푸석해져 버린 적 있으시죠? 🍑\n\n복숭아는 온도 변화와 충격에 매우 예민한 과일로, 너무 낮은 온도에 오래 방치하면 과육이 단단해지고 단맛이 사라지는 '저온 장애(Chilling Injury)'가 발생합니다. 올바르지 않은 보관법은 단맛 저하, 무름, 곰팡이 발생의 원인이 됩니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들의 권장 가이드라인을 바탕으로, 복숭아의 달콤함과 탱글한 과즙을 가장 완벽하게 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "냉장고 극저온(0~4℃)에 너무 오래 두지 마세요 ⚠️",
+            "desc": "복숭아를 냉장고의 일반 선반이나 극저온에 오랫동안 보관하면 표면이 무르고 과육이 푸석해지는 '저온 장애'가 생겨 단맛과 향이 사라집니다. 후숙 후 8~10℃의 야채실에 보관하고 빠르게 드시는 것이 좋습니다."
+          },
+          {
+            "title": "보관 전 물로 씻거나 상처 난 복숭아를 함께 두지 마세요 💧",
+            "desc": "복숭아 표면에 물기가 닿으면 곰팡이가 피기 쉽고 껍질이 빠르게 무릅니다. 상처가 난 복숭아는 발견 즉시 따로 골라내어 먼저 먹고, 씻는 것은 먹기 직전에 해야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "서늘한 상온에서 후숙하기 — 단맛과 향 극대화 📦",
+            "text": "딱딱하거나 덜 익은 복숭아는 바람이 잘 통하는 서늘한 상온(15~20℃)에 1~3일간 놓아두어 자연스럽게 후숙시켜 주세요. 💡 보관 팁: 박스째 둘 경우 복숭아가 서로 닿지 않도록 포장재를 활용하고, 상온에서 말랑해지고 향이 진해질 때까지 기다리는 것이 핵심입니다."
+          },
+          {
+            "name": "신문지·키친타월로 싸서 8~10℃ 야채칸 보관하기 — 냉장 보관 (7일) ❄️",
+            "text": "후숙이 완료된 복숭아는 냉장고 야채칸을 활용해 신선도를 연장합니다. 💡 보관 팁: 복숭아를 하나씩 신문지나 키친타월로 감싸 습기와 충격을 차단한 뒤 지퍼백에 넣어 야채실(8~10℃)에 보관하세요. 드시기 1시간 전에 상온에 꺼내두면 단맛이 다시 살아납니다."
+          },
+          {
+            "name": "껍질을 벗겨 소분 냉동하거나 조림(병조림) 만들기 — 장기 보관 (90일) 🧊",
+            "text": "복숭아가 많아 오래 보관해야 할 때는 냉동하거나 통조림 형태로 가공하는 것이 좋습니다. 💡 보관 팁: 껍질을 벗기고 씨를 제거한 과육을 먹기 좋은 크기로 잘라 밀폐 지퍼백에 담아 냉동실(-18℃ 이하)에 보관하거나, 설탕물과 함께 조려 병조림으로 만들면 3개월 이상 맛있게 즐길 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "냉장 보관했던 복숭아가 안 달고 무맛이 된 이유는 무엇인가요?",
+            "answer": "낮은 온도에서는 복숭아의 미각 자극 성분이 둔화되고 당도가 잠시 감추어집니다. 냉장 보관했던 복숭아를 드시기 1~2시간 전에 미리 상온에 꺼내두면, 과육의 온도가 올라가면서 복숭아 특유의 향과 달콤한 단맛이 다시 살아납니다."
+          },
+          {
+            "question": "백도, 황도, 천도복숭아의 보관법에 차이가 있나요?",
+            "answer": "기본적인 보관 원칙(상온 후숙 후 야채실 보관)은 동일합니다. 다만, 천도복숭아나 딱딱이 복숭아는 과육이 단단하여 상온 보관 기간이 상대적으로 길고, 백도나 황도는 과육이 무르기 쉬우므로 후숙 상태를 자주 확인하여 말랑해지면 즉시 야채실로 옮기거나 빠르게 소비해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Peaches Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for peaches based on official safety guidelines.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Have you ever bought juicy, sweet peaches and put them in the fridge, only to find them flavorless, dry, and mealy a few days later? 🍑\n\nPeaches are extremely sensitive to temperature changes and impact. Keeping them at temperatures that are too low for too long triggers 'chilling injury,' making the flesh dry, fibrous, and tasteless. Improper storage leads to lost sweetness, softening, and mold growth.\n\nIn this guide, introduces a scientifically proven 3-step storage guide based on expert guidelines to maintain the luscious sweetness and juiciness of your peaches perfectly. 🛡️",
+        "whyTitle": "Why Store Peaches This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Avoid storing peaches at ultra-low fridge temperatures (0–4°C) for long ⚠️",
+            "desc": "Storing peaches on standard fridge shelves or at ultra-cold temperatures for prolonged periods causes chilling injury, turning the flesh dry and mealy while destroying sweetness and aroma. Keep them in the vegetable crisper drawer (8–10°C) after ripening and consume quickly."
+          },
+          {
+            "title": "Never wash before storing & isolate bruised peaches 💧",
+            "desc": "Water on peach skins invites mold and accelerates spoilage. Separate bruised or damaged peaches immediately to consume first, and wash peaches right before eating."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Ripen at cool room temperature — Maximize Sweetness & Aroma 📦",
+            "text": "Allow firm or unripened peaches to sit at cool room temperature (15–20°C / 59–68°F) out of direct sunlight for 1–3 days to ripen naturally. 💡 Storage Tip: Ensure peaches do not touch each other. Wait until they yield slightly to gentle pressure and emit a sweet fragrance."
+          },
+          {
+            "name": "Wrap in paper towels or newspaper & store in the crisper drawer — Cold Storage (7 Days) ❄️",
+            "text": "Once fully ripe, transfer peaches to the refrigerator crisper drawer to extend shelf life. 💡 Storage Tip: Wrap each peach individually in paper towels or newspaper to cushion and absorb moisture, then place in a Ziploc bag in the crisper drawer (8–10°C / 46–50°F). Take them out 1 hour before eating to restore sweetness."
+          },
+          {
+            "name": "Peel, slice & freeze or make peach preserves — Long-Term Storage (90 Days) 🧊",
+            "text": "For long-term storage, freezing or preserving in syrup is best. 💡 Storage Tip: Peel, pit, and slice peaches, then freeze them in a single layer before transferring to an airtight Ziploc bag (-18°C or below), or cook them with sugar syrup to make preserves. Enjoy for over 3 months."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why do refrigerated peaches lose their sweetness?",
+            "answer": "Low temperatures suppress flavor compounds and temporarily dull sweetness perception. Taking refrigerated peaches out to room temperature 1–2 hours before eating allows the flesh to warm up, restoring their natural aroma and rich sweetness."
+          },
+          {
+            "question": "Are there differences in storing white, yellow, and nectarine peaches?",
+            "answer": "The fundamental rules (ripen at room temperature, store in crisper drawer) apply to all types. However, nectarines and firm white peaches have firmer flesh and last longer at room temperature, while soft white and yellow peaches soften quickly and should be monitored closely before moving to cold storage."
+          }
+        ]
+      },
+      "ja": {
+        "title": "桃（モモ）を新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づく桃の最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "甘くてジューシーな桃を買ってきたのに、冷蔵庫に入れたら甘みが抜けて果肉がパサパサになってしまった経験はありませんか？🍑\n\n桃は温度変化や衝撃に非常に繊細な果物で、低すぎる温度に長く放置すると果肉がパサつき甘みが消える「低温障害（Chilling Injury）」が発生します。不適切な保存方法は甘みの低下、軟化、カビ発生の原因になります。\n\n本記事では、専門家のガイドラインに基づき、桃の甘みと果汁を最高な状態で保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "冷蔵庫の極低温（0〜4℃）に長く放置しないでください ⚠️",
+            "desc": "桃を冷蔵庫の一般棚や極低温で長期間保存すると、果肉がパサついて甘みや香りが失われる「低温障害」が発生します。追熟させた後、8〜10℃の野菜室で保存し早めにお召し上がりください。"
+          },
+          {
+            "title": "保存する前に洗ったり傷ついた桃を一緒にしないでください 💧",
+            "desc": "桃の表面に水気がつくとカビが生えやすくなり皮が傷みます。傷のある桃はすぐ選別して先にお召し上がりいただき、洗うのは食べる直前にしてください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "風通しの良い涼しい常温で追熟させる — 甘みと香りを最大化 📦",
+            "text": "かたい桃や未熟な桃は直射日光を避け、風通しの良い涼しい常温（15〜20℃）に1〜3日置いて自然追熟させます。💡保存のコツ：桃同士が当たらないように離して置き、軽く触れて柔らかくなり甘い香りが立つまで待ちます。"
+          },
+          {
+            "name": "新聞紙やキッチンペーパーで包み8〜10℃の野菜室で保存する — 冷蔵保存 (7日間) ❄️",
+            "text": "追熟した桃は冷蔵庫の野菜室を活用して鮮度を維持します。💡保存のコツ：1個ずつ新聞紙やキッチンペーパーで包んで湿気と衝撃を防ぎ、ジッパーバッグに入れて野菜室（8〜10℃）で保存します。食べる1時間前に常温に出すと甘みが戻ります。"
+          },
+          {
+            "name": "皮をむいて小分け冷凍するかシロップ煮（コンポート）にする — 冷凍保存 (90日間) 🧊",
+            "text": "大量にある場合は冷凍かコンポートにするのが最適です。💡保存のコツ：皮と種を取り除いてカットした果肉をジッパーバッグに入れて冷凍室（-18℃以下）で保存するか、砂糖シロップで煮て瓶詰め（コンポート）にすれば3ヶ月以上美味しく楽しめます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "冷蔵保存していた桃が甘くなくなった理由は何ですか？",
+            "answer": "低い温度では桃の甘み成分を感じにくくなります。食べる1〜2時間前に常温に出しておくと、果肉の温度が上がり桃本来の芳醇な香りと甘みが復活します。"
+          },
+          {
+            "question": "白桃、黄桃、ネクタリン（油桃）で保存方法に違いはありますか？",
+            "answer": "基本原則（常温追熟後に野菜室保存）は同じです。ただしネクタリンや硬い品種は日持ちしやすく、白桃や黄桃は果肉が柔らかくなりやすいため、追熟具合を細かくチェックして柔らかくなったらすぐに野菜室へ移動させてください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持桃子新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解桃子的最佳储存温度、方式和保鲜时长。",
+        "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "您是否曾买回鲜甜多汁的桃子放进冰箱，几天后拿出来吃却发现毫无甜味且果肉发绵变软？🍑\n\n桃子是对温度变化和磕碰极度敏感的水果。如果长时间置于过低温度下，会引发“低温冷害（Chilling Injury）”，导致果肉干枯呈木栓状、失去甜味。不当的储存方式会导致甜味流失、变软腐烂与发霉。\n\n本指南基于专家权威指南，为您介绍3步科学保存秘诀，帮您完美锁定桃子的浓郁甜香与多汁口感。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "切勿长时间存放在冰箱极低温（0~4℃）环境中 ⚠️",
+            "desc": "将桃子长时间保存在冰箱普通隔板或极低温下，会导致果肉发绵干枯、失去甜味与香气的“冷害”现象。催熟后请保存在8~10℃的蔬菜保鲜抽屉中并尽快食用。"
+          },
+          {
+            "title": "储存前切勿用水清洗，受损桃子请立即隔离 💧",
+            "desc": "桃子表皮沾水极易滋生霉菌并加速变质。发现磕碰或受损的桃子请立即挑出优先食用，清洗请留到食用前进行。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "置于阴凉常温下催熟 — 激发浓郁甜香 📦",
+            "text": "较硬或未熟透的桃子请避开阳光直射，置于通风阴凉的常温（15~20℃）下放置1~3天进行自然催熟。💡储存小贴士：注意不要让桃子互相挤压，待手感微软且散发甜香时即催熟完成。"
+          },
+          {
+            "name": "用报纸或厨房纸巾包裹后放入8~10℃蔬菜抽屉 — 冷藏储存 (7天) ❄️",
+            "text": "催熟后的桃子可借助冰箱保鲜抽屉延长赏味期。💡储存小贴士：用纸巾或报纸将桃子逐个包裹以防潮防磕碰，装入拉链袋存入蔬菜保鲜抽屉（8~10℃）。食用前1小时取出置于常温，甜味会重新显现。"
+          },
+          {
+            "name": "去皮切块分装冷冻或制成罐头 — 冷冻保存 (90天) 🧊",
+            "text": "如桃子较多需长期保存，冷冻或制成罐头是最佳选择。💡储存小贴士：去皮去核切块后装入密封拉链袋冷冻（-18℃以下），或加入糖水煮制成黄桃/白桃罐头，可保存3个月以上。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "冷藏过的桃子为什么感觉不甜了？",
+            "answer": "低温会抑制舌头对桃子甜味成分的感知。将冷藏的桃子在食用前1~2小时提前取出置于常温，随着果肉温度回升，桃子特有的浓郁甜香就会重新恢复。"
+          },
+          {
+            "question": "白桃、黄桃和油桃的保存方法有区别吗？",
+            "answer": "基本保存原则（常温催熟后冷藏保鲜抽屉）是一致的。油桃和硬肉桃果肉较硬，常温保质期相对较长；而软肉白桃和黄桃极易变软，需密切观察催熟状态，一旦变软应立即转入保鲜抽屉或尽快食用。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener los melocotones (duraznos) frescos: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para los melocotones según las directrices oficiales de seguridad.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "¿Alguna vez compró melocotones jugosos y dulces y los guardó en el refrigerador, solo para descubrir días después que estaban insípidos y harinosos? 🍑\n\nLos melocotones son frutas extremadamente sensibles a los cambios de temperatura y golpes. Conservarlos a temperaturas muy bajas por mucho tiempo desencadena el 'daño por frío' (chilling injury), lo que vuelve la pulpa seca, harinosa y sin sabor. Un almacenamiento inadecuado causa pérdida de dulzura, pudrición y moho.\n\nEn esta guía se presenta una guía en 3 pasos respaldada por expertos para conservar la dulzura y el jugo de sus melocotones a la perfección. 🛡️",
+        "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Evite refrigerar a temperaturas extremadamente bajas (0-4 °C) por mucho tiempo ⚠️",
+            "desc": "Guardar melocotones en estantes fríos estándar causa daño por frío, dejando la pulpa harinosa y sin aroma. Tras madurarlos, guárdelos en el cajón de verduras (8-10 °C) y consúmalos pronto."
+          },
+          {
+            "title": "No los lave antes de guardar e aísle los golpeados 💧",
+            "desc": "El agua sobre la piel del melocotón favorece el moho. Separe de inmediato los melocotones dañados para consumirlos primero y lávelos justo antes de comer."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Madure a temperatura ambiente fresca — Maximice dulzura y aroma 📦",
+            "text": "Deje los melocotones firmes a temperatura ambiente fresca (15-20 °C) protegidos del sol durante 1 a 3 días para que maduren de forma natural. 💡 Consejo de almacenamiento: Evite que se toquen entre sí. Espere hasta que cedan ligeramente al tacto."
+          },
+          {
+            "name": "Envuelva en papel y guarde en el cajón de verduras (8-10 °C) — Almacenamiento refrigerado (7 días) ❄️",
+            "text": "Una vez maduros, páselos al cajón de verduras del refrigerador. 💡 Consejo de almacenamiento: Envuelva cada melocotón en papel de cocina o periódico y colóquelos en una bolsa Ziploc en el cajón de verduras (8-10 °C). Sáquelos 1 hora antes de comer para recuperar su dulzura."
+          },
+          {
+            "name": "Pele, trocee y congele o prepare en almíbar — Conservación (90 días) 🧊",
+            "text": "Para un almacenamiento prolongado, congelar o hacer conserva es lo mejor. 💡 Consejo de almacenamiento: Pele, descorazone y trocee la pulpa, colóquela en una bolsa Ziploc y congele (-18 °C), o cocínela con almíbar de azúcar. Disfrútela por más de 3 meses."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué los melocotones refrigerados pierden su dulzura?",
+            "answer": "Las bajas temperaturas adormecen temporalmente los compuestos de sabor. Sacar los melocotones del refrigerador 1 o 2 horas antes de comer permite que la pulpa tome temperatura, recuperando su aroma natural y dulzura."
+          },
+          {
+            "question": "¿Hay diferencia al almacenar melocotones amarillos, blancos o nectarinas?",
+            "answer": "Las reglas básicas (madurar a temperatura ambiente y guardar en el cajón de verduras) son las mismas. Las nectarinas y melocotones de pulpa dura duran más a temperatura ambiente, mientras que los melocotones blancos o amarillos blandos se suavizan rápido y deben vigilarse de cerca."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver les pêches fraîches : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les pêches selon les directives officielles de sécurité.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Avez-vous déjà acheté de belles pêches douces et juteuses pour constater après quelques jours au frigo qu'elles étaient devenues insipides et cotonneuses ? 🍑\n\nLa pêche est un fruit extrêmement sensible aux chocs et aux variations de température. Un stockage prolongé à température trop basse provoque la 'maladie du froid' (dégât du froid), rendant la chair sèche, méaline et sans goût. Un stockage inapproprié entraîne la perte de sucre, le ramollissement et le moisissement.\n\nDans ce guide, vous présente un guide scientifique en 3 étapes pour préserver parfaitement la douceur et le jus de vos pêches. 🛡️",
+        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Évitez le stockage prolongé aux températures très basses du frigo (0–4 °C) ⚠️",
+            "desc": "Placer les pêches au réfrigérateur standard trop longtemps provoque des dégâts dus au froid : la chair devient cotonneuse et perd tout son sucre. Après mûrissage, conservez-les dans le bac à légumes (8–10 °C) et consommez-les rapidement."
+          },
+          {
+            "title": "Ne lavez jamais les pêches avant de les stocker & isolez les fruits abîmés 💧",
+            "desc": "L'eau sur la peau de la pêche favorise l'apparition de moisissures. Séparez immédiatement les pêches meurtries pour les consommer en priorité et ne lavez les autres qu'au moment de déguster."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Faire mûrir à température ambiante fraîche — Maximiser la douceur et l'arôme 📦",
+            "text": "Laissez les pêches fermes mûrir naturellement à température ambiante fraîche (15–20 °C) à l'abri du soleil pendant 1 à 3 jours. 💡 Astuce de conservation : Évitez qu'elles ne se touchent et attendez qu'elles deviennent légèrement souples sous les doigts."
+          },
+          {
+            "name": "Envelopper dans du papier et placer dans le bac à légumes (8–10 °C) — Stockage (7 jours) ❄️",
+            "text": "Une fois mûres, placez les pêches dans le bac à légumes pour prolonger leur fraîcheur. 💡 Astuce de conservation : Enveloppez chaque pêche dans du papier essuie-tout ou du journal, placez-les dans un sac Ziploc au bac à légumes (8–10 °C). Sortez-les 1 heure avant de déguster pour raviver le sucre."
+          },
+          {
+            "name": "Peler, couper et congeler ou préparer au sirop — Stockage longue durée (90 jours) 🧊",
+            "text": "Pour une conservation de plusieurs mois, la congélation ou la mise en bocaux au sirop est idéale. 💡 Astuce de conservation : Pelez, dénoyautez et coupez la chair, mettez en sac congélation au congélateur (-18 °C) ou préparez un sirop au sucre. Se conserve plus de 3 mois."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi les pêches réfrigérées semblent-elles moins sucrées ?",
+            "answer": "Le froid inhibe temporairement la perception des arômes et du sucre. En sortant les pêches du réfrigérateur 1 à 2 heures avant de les manger, la chair remonte en température, libérant à nouveau toute sa douceur et son parfum."
+          },
+          {
+            "question": "Y a-t-il une différence de conservation entre pêches blanches, jaunes et brugnons/nectarines ?",
+            "answer": "Les principes de base (mûrir à température ambiante puis placer au bac à légumes) sont identiques. Toutefois, les nectarines et pêches pavies ont une chair ferme qui se conserve plus longtemps à température ambiante, tandis que les pêches blanches ou jaunes mûres se ramollissent vite et doivent être surveillées."
+          }
+        ]
+      },
+      "de": {
+        "title": "Pfirsiche richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Pfirsiche basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Haben Sie schon einmal saftige, süße Pfirsiche gekauft und in den Kühlschrank gelegt, nur um nach einigen Tagen festzustellen, dass sie geschmacklos und mehlig wurden? 🍑\n\nPfirsiche reagieren extrem empfindlich auf Stöße und Temperaturschwankungen. Eine zu kalte Lagerung führt zu Kälteschäden (Chilling Injury), wodurch das Fruchtfleisch trocken, faserig und geschmacklos wird. Falsche Lagerung führt zu Süßverlust, Fäulnis und Schimmel.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die vollmundige Süße und Saftigkeit Ihrer Pfirsiche perfekt zu bewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Pfirsiche nicht lange bei sehr kalten Kühlschranktemperaturen (0–4 °C) lagern ⚠️",
+            "desc": "Längere Lagerung bei sehr niedrigen Temperaturen verursacht Kälteschäden: Das Fleisch wird mehlig und verliert Süße und Aroma. Nach dem Nachreifen im Gemüsefach (8–10 °C) lagern und rasch verbrauchen."
+          },
+          {
+            "title": "Vor der Lagerung niemals waschen & beschädigte Pfirsiche aussortieren 💧",
+            "desc": "Feuchtigkeit auf der Pfirsichhaut fördert Schimmelbildung. Sortieren Sie Druckstellen aufweisende Pfirsiche sofort aus und waschen Sie die Früchte erst direkt vor dem Verzehr."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Bei kühler Raumtemperatur nachreifen lassen — Süße & Aroma maximieren 📦",
+            "text": "Lassen Sie feste Pfirsiche bei kühler Raumtemperatur (15–20 °C) ohne direkte Sonneneinstrahlung 1–3 Tage nachreifen. 💡 Lagerungstipp: Achten Sie darauf, dass sich die Pfirsiche nicht berühren, bis sie auf leichten Druck nachgeben."
+          },
+          {
+            "name": "In Papier wickeln und im Gemüsefach (8–10 °C) lagern — Kühllagerung (7 Tage) ❄️",
+            "text": "Sobald sie reif sind, verlängert das Gemüsefach die Haltbarkeit. 💡 Lagerungstipp: Wickeln Sie jeden Pfirsich einzeln in Küchenpapier oder Zeitungspapier, geben Sie sie in einen Ziploc-Beutel im Gemüsefach (8–10 °C). 1 Stunde vor dem Essen herausnehmen, damit sich die Süße entfaltet."
+          },
+          {
+            "name": "Schälen, schneiden & einfrieren oder einkochen — Langzeitlagerung (90 Tage) 🧊",
+            "text": "Für die langfristige Lagerung eignet sich das Einfrieren oder Einkochen in Sirup. 💡 Lagerungstipp: Schälen, entsteinen und schneiden Sie das Fruchtfleisch, frieren Sie es im Ziploc-Beutel (-18 °C) ein oder kochen Sie es mit Zuckersirup ein. Über 3 Monate haltbar."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum verlieren gekühlte Pfirsiche ihre Süße?",
+            "answer": "Kälte dämpft das Süßemempfinden und die Aromen vorübergehend. Wenn Sie Pfirsiche 1–2 Stunden vor dem Verzehr aus dem Kühlschrank nehmen, erwärmt sich das Fruchtfleisch und die natürliche Süße entfaltet sich wieder."
+          },
+          {
+            "question": "Gibt es Unterschiede bei der Lagerung von Weiß-, Gelb- und Nektarinenpfirsichen?",
+            "answer": "Die Grundregeln (bei Raumtemperatur nachreifen, dann ins Gemüsefach) gelten für alle Arten. Nektarinen und feste Pfirsiche halten bei Raumtemperatur etwas länger, während weiche weiße oder gelbe Pfirsiche schnell reifen und aufmerksam beobachtet werden sollten."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar pêssegos frescos: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para pêssegos com base em diretrizes oficiais de segurança.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Você já comprou pêssegos doces e suculentos e os guardou na geladeira, só para descobrir dias depois que ficaram farinhentos e sem gosto? 🍑\n\nOs pêssegos são frutas extremamente sensíveis ao impacto e às variações de temperatura. Guardá-los em temperaturas muito baixas por muito tempo causa 'dano por frio' (chilling injury), deixando a polpa seca, farinhenta e sem sabor. O armazenamento inadequado causa perda de doçura, amolecimento e mofo.\n\nNeste guia, apresentamos um guia em 3 etapas baseado em recomendações de especialistas para manter a doçura e a suculência dos seus pêssegos com perfeição. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Evite guardar pêssegos em temperaturas muito baixas da geladeira (0–4 °C) por muito tempo ⚠️",
+            "desc": "Manter os pêssegos nas prateleiras frias da geladeira causa danos por frio, deixando a polpa farinhenta e sem aroma. Após amadurecerem, guarde na gaveta de legumes (8–10 °C) e consuma rápido."
+          },
+          {
+            "title": "Não lave antes de guardar e isole os pêssegos machucados 💧",
+            "desc": "Água na casca do pêssego favorece o mofo e acelera o apodrecimento. Separe imediatamente as frutas machucadas para consumir primeiro e lave apenas antes de comer."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Amadureça em temperatura ambiente fresca — Maximize a doçura e o aroma 📦",
+            "text": "Deixe os pêssegos firmes em temperatura ambiente fresca (15–20 °C) longe da luz solar direta por 1 a 3 dias para amadurecerem naturalmente. 💡 Dica de conservação: Evite que se encostem e espere até ficarem macios ao toque."
+          },
+          {
+            "name": "Envolva em papel e guarde na gaveta de legumes (8–10 °C) — Conservação (7 dias) ❄️",
+            "text": "Quando estiverem maduros, a gaveta de legumes prolonga a conservação. 💡 Dica de conservação: Envolva cada pêssego em papel-toalha ou jornal e coloque num saco Ziploc na gaveta de legumes (8–10 °C). Retire 1 hora antes de comer para resgatar a doçura."
+          },
+          {
+            "name": "Descasque, corte e congele ou faça em calda — Conservação de longo prazo (90 dias) 🧊",
+            "text": "Para guardar por meses, congelar ou fazer em calda é o ideal. 💡 Dica de conservação: Descasque, retire o caroço e corte a polpa, congele num saco Ziploc (-18 °C) ou cozinhe com calda de açúcar. Dura mais de 3 meses."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que os pêssegos refrigerados parecem perder a doçura?",
+            "answer": "As baixas temperaturas adormecem temporariamente a percepção de doçura e aroma. Ao tirar os pêssegos da geladeira 1 a 2 horas antes de comer, a polpa ganha temperatura e resgata todo o aroma e sabor natural."
+          },
+          {
+            "question": "Existe diferença no armazenamento de pêssegos brancos, amarelos e nectarinas?",
+            "answer": "As regras básicas (amadurecer em temperatura ambiente e guardar na gaveta de legumes) são as mesmas. Nectarinas e pêssegos de polpa firme duram mais em temperatura ambiente, enquanto pêssegos brancos ou amarelos macios amolecem rápido e devem ser vigiados de perto."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Persik (Peach) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk persik berdasarkan pedoman keselamatan resmi.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Pernahkah Anda membeli buah persik yang manis dan kaya air lalu menyimpannya di kulkas, hanya untuk mendapati daging buahnya menjadi hambar, kering, dan berserat beberapa hari kemudian? 🍑\n\nBuah persik sangat sensitif terhadap perubahan suhu dan benturan. Menyimpannya pada suhu yang terlalu dingin dalam waktu lama memicu 'kerusakan dingin' (chilling injury), membuat daging buah menjadi kering dan hilang rasa manisnya. Penyimpanan yang salah menyebabkan hilangnya rasa manis, kebusukan, dan jamur.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah untuk menjaga rasa manis dan kesegaran air buah persik Anda secara sempurna. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Hindari menyimpan persik pada suhu kulkas yang terlalu dingin (0–4°C) dalam waktu lama ⚠️",
+            "desc": "Menyimpan persik di rak kulkas biasa atau suhu yang terlalu dingin memicu kerusakan dingin yang membuat daging buah berserat dan hilang rasa manisnya. Simpan di laci sayur (8–10°C) setelah matang dan segera konsumsi."
+          },
+          {
+            "title": "Jangan mencuci sebelum disimpan & pisahkan persik yang memar 💧",
+            "desc": "Air pada kulit persik memicu tumbuhnya jamur. Segera pisahkan persik yang memar untuk dikonsumsi terlebih dahulu, dan cucilah persik tepat sebelum dimakan."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Matangkan pada suhu ruang yang sejuk — Maksimalkan Rasa Manis & Aroma 📦",
+            "text": "Biarkan persik yang masih keras matang secara alami pada suhu ruang yang sejuk (15–20°C) dan terhindar dari sinar matahari langsung selama 1–3 hari. 💡 Tips Penyimpanan: Pastikan buah persik tidak saling menempel hingga teksturnya terasa agak lembut saat ditekan pelan."
+          },
+          {
+            "name": "Bungkus dengan kertas & simpan di laci sayur (8–10°C) — Simpan Dingin (7 Hari) ❄️",
+            "text": "Setelah matang sempurna, simpan di laci sayur kulkas untuk memperpanjang masa simpan. 💡 Tips Penyimpanan: Bungkus setiap persik dengan tisu dapur atau kertas koran, masukkan ke kantong Ziploc di laci sayur (8–10°C). Keluarkan 1 jam sebelum dimakan agar rasa manisnya keluar kembali."
+          },
+          {
+            "name": "Kupas, potong & bekukan atau buat manisan/setup — Simpan Beku (90 Hari) 🧊",
+            "text": "Untuk menyimpan beberapa bulan, membekukan atau membuatnya menjadi setup sirup gula adalah cara terbaik. 💡 Tips Penyimpanan: Kupas kulit, buang biji, potong daging buahnya, lalu bekukan dalam kantong Ziploc (-18°C) atau masak dengan sirup gula. Awet hingga lebih dari 3 bulan."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa buah persik yang disimpan di kulkas terasa kurang manis?",
+            "answer": "Suhu dingin menekan persepsi rasa manis dan aroma secara sementara. Mengeluarkan persik dari kulkas 1–2 jam sebelum dimakan akan menaikkan suhu daging buah dan mengembalikan aroma serta rasa manis alaminya."
+          },
+          {
+            "question": "Apakah ada perbedaan cara menyimpan persik putih, kuning, dan nektarin?",
+            "answer": "Prinsip dasarnya (pematangan suhu ruang lalu simpan di laci sayur) tetap sama. Nektarin dan persik keras memiliki daging buah yang lebih padat sehingga awet lebih lama di suhu ruang, sedangkan persik putih atau kuning yang lembut cepat mengempuk dan perlu dipantau secara berkala."
+          }
+        ]
+      }
     }
+  }
 }

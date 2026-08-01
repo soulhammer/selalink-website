@@ -1,406 +1,406 @@
 {
-    "how-to-store-spinach": {
-        "ingId": "spinach",
-        "pubDate": "2026-02-18",
-        "updatedDate": "2026-02-18",
-        "heroImage": "/images/blog/spinach_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "시금치 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 시금치의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "농촌진흥청(RDA) & 유럽식품안전청(EFSA) & 영국 식품기준청(FSA)",
-                "intro": "시금치를 사 와서 비닐봉지째 냉장고 야채칸에 누려 두었다가, 하루이틀 만에 잎이 누렇게 뜨고 짓물러 썩어 버린 경험 있으시죠? 🌿\n\n시금치는 엽채류 중에서도 잎이 매우 연하고 수분 함량이 높아 수확 후 호흡 작용과 수분 증발이 극도로 활발합니다. 특히 눕혀서 보관하면 위로 자라려는 '굴중성(Negative Geotropism)' 생리 특성 때문에 에너지를 급격히 소모하며 시들고, 에틸렌 가스에 노출되면 엽록소가 파괴되어 순식간에 황화됩니다.\n\n이번 가이드에서는 농촌진흥청(RDA)과 유럽식품안전청(EFSA)의 가이드를 바탕으로 시금치의 호흡 작용을 통제하고 7일 이상 아삭함과 비타민 C를 보존하는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "수분이 고여 있는 상태로 비닐 밀봉하지 마세요 💧",
-                        "desc": "물기가 남은 시금치를 비닐봉지나 밀폐용기에 넣으면 수분이 갇혀 세포벽이 무너지고 미끈거리는 투명 점액질과 함께 세균성 무름병이 발생합니다. 보관 전 반드시 마른 상태를 유지해야 합니다."
-                    },
-                    {
-                        "title": "누렇게 변하거나 상한 잎은 즉시 골라내어 제거하세요 🍂",
-                        "desc": "누렇게 변색되거나 짓눌린 잎은 부패균과 에틸렌 가스를 대량으로 분출하여 주변의 싱싱한 시금치까지 연쇄적으로 상하게 만듭니다. 보관 전 손상된 잎을 먼저 골라내어 정리하세요."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "씻지 않고 신문지나 키친타월로 감싸기 — 결로 및 습도 조절 📦",
-                        "text": "시금치는 잎 표면에 수분이 닿으면 부패가 급격히 진행됩니다. 💡 보관 팁: 흙이 묻은 채로 물을 묻히지 말고, 신문지나 키친타월로 시금치를 폭 감싸주세요. 종이가 내부 결로나 습기를 흡수하는 완충재 역할을 하여 잎이 짓무르는 것을 방지합니다."
-                    },
-                    {
-                        "name": "뿌리가 아래로 가도록 수직으로 세워 보관하기 — 냉장 보관 (7일) 🌿",
-                        "text": "시금치를 눕혀 두면 위로 일어서려는 생리 반응 때문에 저장된 당분과 비타민 C를 빠르게 소모합니다. 💡 보관 팁: 종이로 감싼 시금치를 페트병이나 깊은 밀폐 용기에 넣고 뿌리가 아래로 향하게 수직으로 세워 냉장고 야채칸(0~4℃)에 보관하세요. 중력 스트레스를 줄여 신선도가 오래 유지됩니다."
-                    },
-                    {
-                        "name": "사과 등 에틸렌 방출 과일들과 완벽히 격리하기 — 엽록소 파괴 차단 🛡️",
-                        "text": "시금치는 에틸렌 가스에 매우 민감한 대표적인 채소입니다. 💡 보관 팁: 사과, 배, 토마토 등 에틸렌을 대량 분출하는 과일과 같은 공간에 두면 잎의 엽록소가 해해되어 노랗게 변색되고 무릅니다. 반드시 칸을 분리하여 밀봉 보관하세요."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "시금치를 보관하기 전에 물로 씻으면 안 되는 이유는 무엇인가요?",
-                        "answer": "시금치 잎은 조직이 매우 연약하여 물에 닿으면 세포 표면에 수분이 정체되면서 기공이 막힙니다. 이 상태로 밀봉 보관하면 산소 결핍에 따른 세포 파괴와 세균성 부패가 일어나 이틀 만에 잎이 까맣게 짓물러 버립니다. 흙이 묻은 상태로 보관하고, 요리 직전에 흐르는 물에 씻어내는 것이 신선도를 가장 길게 유지하는 비결입니다."
-                    },
-                    {
-                        "question": "시금치를 데쳐서 장기 보관하는 올바른 냉동 방법은 무엇인가요?",
-                        "answer": "시금치를 끓는 물에 소금을 약간 넣고 30초간 짧게 데친(블랜칭) 후, 곧바로 차가운 얼음물에 헹궈 열기를 식힙니다. 손으로 물기를 80% 정도만 가볍게 짜낸 뒤(수분이 너무 없으면 냉동 중 건조해짐), 1회 사용할 분량씩 지퍼백에 담아 냉동(-18℃ 이하) 보관하면 최대 6개월간 국이나 무침용으로 유용하게 쓸 수 있습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Spinach Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for spinach based on official safety guidelines.",
-                "authority": "RDA & EFSA & FSA",
-                "intro": "Have you ever bought a fresh bunch of spinach and left it lying flat in a plastic bag inside the fridge, only to find the leaves slimy, yellowed, and rotted two days later? 🌿\n\nSpinach leaves are extremely delicate and have high respiration and transpiration rates after harvest. When laid flat horizontally, spinach undergoes 'negative geotropism'—expending stored sugars and Vitamin C in a struggle to bend upward against gravity. Furthermore, exposure to ethylene gas rapidly breaks down its chlorophyll, turning leaves yellow.\n\nIn this guide, shares a scientifically proven 3-step storage guide based on guidelines from the EFSA and RDA to control respiration, block ethylene, and keep your spinach crisp and green for over 7 days. 🛡️",
-                "whyTitle": "Why Store Spinach This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never seal spinach in plastic bags with trapped moisture 💧",
-                        "desc": "Enclosing wet spinach in airtight bags traps surface water, causing cell wall collapse, bacterial soft rot, and a slimy liquid within 24 to 48 hours. Ensure spinach is completely dry before wrapping."
-                    },
-                    {
-                        "title": "Sort out yellow or damaged leaves immediately 🍂",
-                        "desc": "Yellowing or crushed spinach leaves emit high levels of decay gases and rot pathogens, accelerating spoilage in surrounding healthy leaves. Always pick through and remove damaged leaves before storing."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Wrap dry, unwashed spinach in newspaper or paper towels — Moisture Control 📦",
-                        "text": "Spinach leaves decay rapidly upon direct contact with free water. 💡 Storage Tip: Keep the soil intact and wrap the dry spinach loosely in paper towels or newspaper. The paper acts as a moisture buffer, absorbing condensation and keeping the leaves dry."
-                    },
-                    {
-                        "name": "Store vertically upright with roots facing down — Cold Storage (7 Days) 🌿",
-                        "text": "Laying spinach flat causes it to expend energy bending upward against gravity, destroying nutrients. 💡 Storage Tip: Stand the paper-wrapped spinach vertically in a tall container or bottle with the roots facing down in the crisper drawer (0–4°C / 32–39°F). Matching its natural growth orientation preserves crispness."
-                    },
-                    {
-                        "name": "Isolate completely from ethylene-emitting fruits — Prevent Chlorophyll Breakdown 🛡️",
-                        "text": "Spinach is highly sensitive to external ethylene gas. 💡 Storage Tip: Storing spinach near apples, pears, or tomatoes causes rapid chlorophyll degradation, making the leaves turn yellow and mushy. Keep spinach in a separate, isolated compartment."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why shouldn't I wash fresh spinach before storing it in the refrigerator?",
-                        "answer": "Spinach leaves are extremely delicate. Trapping free water on unwashed or washed leaves clogs their stomata and breaks down epidermal cell walls. Under airtight conditions, this causes anaerobic decay and bacterial soft rot, turning leaves black and slimy within two days. Store unwashed with dry soil and wash right before cooking."
-                    },
-                    {
-                        "question": "What is the proper way to blanch and freeze spinach for long-term storage?",
-                        "answer": "Blanch raw spinach in boiling salted water for 30 seconds, then immediately plunge into ice water to stop cooking. Gently squeeze out 80% of the water (leave slight moisture to prevent freezer burn), portion into meal-sized bundles, and store in a Ziploc freezer bag below -18°C (-0.4°F) for up to 6 months."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ほうれん草を新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくほうれん草の最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "農村振興庁(RDA) & EFSA & FSA",
-                "intro": "ほうれん草を買ってきて袋のまま冷蔵庫の野菜室に横にして置いておいたら、1〜2日で葉が黄色く変色し、ぬるぬる溶けて腐ってしまった経験はありませんか？🌿\n\nほうれん草は葉が非常に柔らかく水分が多いため、収穫後の呼吸作用と蒸散が極めて活発な野菜です。特に横にして保存すると、上に向かって立ち上がろうとする「負の屈重性」の生理特性により、エネルギーやビタミンCを急激に消費してしおれます。\n\n本記事では、欧州食品安全機関（EFSA）および農村振興庁（RDA）のガイドラインに基づき、呼吸作用をコントロールし、1週間以上シャキシャキ感と栄養を守る3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "水分が溜まった状態でポリ袋等に密閉しないでください 💧",
-                        "desc": "水気が残ったほうれん草をポリ袋や密閉容器に入れると、こもった湿気によって細胞壁が壊れ、透明なぬめりや細菌性軟腐病が発生します。保存前は必ず乾いた状態を維持してください。"
-                    },
-                    {
-                        "title": "黄色く変色した葉や傷んだ葉はすぐに取り除いてください 🍂",
-                        "desc": "傷んだ葉や黄色くなった葉は腐敗菌とエチレンガスを大量に放出し、周囲の新鮮なほうれん草まで連鎖的に傷ませます。保存前に必ず選別して傷んだ葉は取り除きましょう。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "洗わずに新聞紙やキッチンペーパーで包む — 結露と湿気の調整 📦",
-                        "text": "ほうれん草は葉の表面に直接水分がつくと傷みが急速に進みます。💡保存のコツ：土がついたまま水気をつけず、新聞紙やキッチンペーパーでふんわり包んでください。紙が内部の結露や余分な湿気を吸収し、葉が溶けるのを防ぎます。"
-                    },
-                    {
-                        "name": "根を下にして立てて保存する — 冷蔵保存 (7日間) 🌿",
-                        "text": "ほうれん草を横にしておくと、起き上がろうとする生理反応によって蓄えられた糖分やビタミンCを激しく消費します。💡保存のコツ：紙で包んだほうれん草を深めの容器やスタンドに入れ、根を下にして直立させた状態で野菜室（0〜4℃）に保存してください。"
-                    },
-                    {
-                        "name": "リンゴなどエチレンガスを出す果物から完全に隔離する — 葉緑素の破壊防止 🛡️",
-                        "text": "ほうれん草はエチレンガスに対して非常に敏感な野菜です。💡保存のコツ：リンゴ、梨、トマトなどエチレンを多く出す果物と同じ段に入れると、葉緑素が分解されて黄色く変色し柔らかくなります。必ず段を分けて密閉保存してください。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "ほうれん草を保存する前に水洗いしてはいけない理由は何ですか？",
-                        "answer": "ほうれん草の葉は組織が非常に繊細で、水に触れると細胞表面に水気が留まって気孔が塞がれます。この状態で密閉保存すると、酸素不足による細胞破壊と細菌性腐敗が起き、わずか2日で黒くぬめって傷んでしまうためです。土がついたまま保存し、調理直前に洗い流すのが長持ちの基本です。"
-                    },
-                    {
-                        "question": "ほうれん草を下茹でして長期保存する正しい冷凍方法は何ですか？",
-                        "answer": "沸騰したお湯に少量の塩を入れ、ほうれん草を30秒間サッと下茹で（ブランチング）したら、すぐに冷水にとって冷まします。手で8割程度水気を絞り（絞りすぎると乾燥の原因になります）、1回分ずつジッパーバッグに入れて冷凍（-18℃以下）保存すれば、最大6ヶ月間お味噌汁や和え物用として美味しく使えます。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持菠菜新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解菠菜的最佳储存温度、方式和保鲜时长。",
-                "authority": "韩国农村振兴厅(RDA) & 欧洲食品安全局(EFSA) & 英国食品标准局(FSA)",
-                "intro": "您是否曾买回一把菠菜，连同塑料袋一起平放在冰箱蔬菜室里，结果一两天后叶子就发黄、软烂成一摊？🌿\n\n菠菜是叶菜类中叶片极薄且含水量高的代表，采收后的呼吸作用与蒸腾作用极其旺盛。特别是横放储存时，菠菜会因向上生长的“负向重力性（Negative Geotropism）”而急剧消耗体内的糖分与维生素C。如果接触到乙烯气体，叶绿素还会迅速分解发黄。\n\n本指南基于欧洲食品安全局(EFSA)和韩国农村振兴厅(RDA)的指南，为您带来3步科学保存秘诀，帮您精准控制呼吸作用、隔绝乙烯，保持菠菜清脆翠绿达7天以上。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "切勿在表面带水的情况下用塑料袋密封 💧",
-                        "desc": "将带有水汽的菠菜装入塑料袋或密封盒中，积聚的水分会导致细胞壁崩解，并在1~2天内分泌出黏稠液体并发生细菌性软腐病。储存前请务必保持干燥。"
-                    },
-                    {
-                        "title": "请立即挑出并清除发黄或破损的叶片 🍂",
-                        "desc": "发黄变质或被挤压破损的菠菜叶会释放大量腐败菌与乙烯气体，导致周围新鲜的菠菜连锁腐烂。储存前请务必仔细筛选剔除坏叶。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "带泥不洗，用报纸或厨房纸巾包裹 — 控制结露与湿度 📦",
-                        "text": "菠菜叶片表面一旦直接接触水分，腐烂速度就会急剧加快。💡储存小贴士：保持带泥干燥状态，用报纸或厨房纸巾将菠菜包裹起来。纸张能吸收内部结露与多余湿气，防止叶片烂软。"
-                    },
-                    {
-                        "name": "根部朝下竖直摆放冷藏 — 冷藏保存 (7天) 🌿",
-                        "text": "如果将菠菜平放，其向上挺直的生理反应会剧烈消耗储存的营养成分。💡储存小贴士：将包好的菠菜装入较高保鲜盒或直立容器中，根部朝下“竖直”存放在冰箱蔬菜保鲜抽屉（0~4℃）中，能显著延长保鲜期。"
-                    },
-                    {
-                        "name": "与苹果等释放乙烯的水果彻底隔离 — 防止叶绿素分解 🛡️",
-                        "text": "菠菜是对乙烯气体高度敏感的代表性蔬菜。💡储存小贴士：若与苹果、梨、番茄等释放大量乙烯的水果同放，菠菜叶片中的叶绿素会迅速破坏导致变黄烂软，请务必分层隔离保存。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "为什么菠菜在冷藏保存前绝对不能用水冲洗？",
-                        "answer": "菠菜叶片结构极其娇嫩，带水保存会导致表皮细胞积水并堵塞气孔。在密封冷藏环境下，缺氧会导致细胞坏死与细菌性软腐病爆发，短短两天内叶片就会黑烂发黏。带泥干燥保存，并在烹饪前才用流动水洗净，才是延长保鲜期的核心秘诀。"
-                    },
-                    {
-                        "question": "焯水后长期冷冻保存菠菜的正确方法是什么？",
-                        "answer": "将菠菜放入加有少许盐的沸水中烫漂30秒，捞出后立即浸入冰水冷却以止熟。用手轻轻挤干80%的水分（留少许水分防冻干），按单次用量分装入冷冻拉链袋，放入冷冻室（-18℃以下）可保存长达6个月，非常适合做汤或凉拌。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener las espinacas frescas: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para las espinacas según las directrices oficiales de seguridad.",
-                "authority": "RDA & EFSA & FSA",
-                "intro": "¿Alguna vez compró un manojo de espinacas frescas, lo dejó recostado en una bolsa de plástico dentro del refrigerador y descubrió que las hojas estaban viscosas, amarillas y podridas dos días después? 🌿\n\nLas hojas de espinaca son extremadamente delicadas y poseen elevadas tasas de respiración y transpiración tras la cosecha. Al guardarse acostadas horizontalmente, las espinacas sufren 'geotropismo negativo', consumiendo sus azúcares y vitamina C en un esfuerzo por doblarse hacia arriba contra la gravedad. Además, la exposición al gas etileno destruye su clorofila, volviéndolas amarillas.\n\nEn esta guía se comparte una guía científica en 3 pasos basada en pautas de la EFSA y la RDA para controlar la respiración, bloquear el etileno y mantener sus espinacas crujientes y verdes por más de 7 días. 🛡️",
-                "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Nunca selle espinacas en bolsas de plástico con humedad atrapada 💧",
-                        "desc": "Encharcar espinacas húmedas en bolsas herméticas atrapa agua en la superficie, provocando el colapso celular, pudrición blanda bacteriana y un líquido viscoso en 24 a 48 horas. Séquelas completamente antes de envolver."
-                    },
-                    {
-                        "title": "Separe y elimine de inmediato las hojas amarillas o dañadas 🍂",
-                        "desc": "Las hojas de espinaca amarillas o aplastadas emiten grandes cantidades de gases de descomposición y patógenos, acelerando el deterioro de las hojas sanas vecinas. Seleccione y retire las hojas dañadas antes de guardar."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Envuelva las espinacas secas sin lavar en periódico o toallas de papel — Control de humedad 📦",
-                        "text": "Las hojas de espinaca se descomponen rápidamente en contacto directo con agua libre. 💡 Consejo de almacenamiento: Deje la tierra y envuelva las espinacas secas suavemente en papel de cocina o periódico. El papel actúa como amortiguador, absorbiendo la condensación."
-                    },
-                    {
-                        "name": "Guarde en posición vertical con las raíces hacia abajo — Refrigeración (7 días) 🌿",
-                        "text": "Acostar las espinacas hace que gasten energía intentando erguirse contra la gravedad, destruyendo nutrientes. 💡 Consejo de almacenamiento: Coloque las espinacas envueltas en papel en posición vertical dentro de un recipiente alto en el cajón de verduras (0-4 °C)."
-                    },
-                    {
-                        "name": "Aísle por completo de frutas que emitan etileno — Prevenga la pérdida de clorofila 🛡️",
-                        "text": "La espinaca es sumamente sensible al gas etileno externo. 💡 Consejo de almacenamiento: Guardar espinacas cerca de manzanas, peras o tomates provoca la rápida degradación de la clorofila, volviendo las hojas amarillas y blandas. Manténgalas en compartimentos separados."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué no debo lavar las espinacas frescas antes de guardarlas en el refrigerador?",
-                        "answer": "Las hojas de espinaca son extremadamente frágiles. Dejar agua sobre las hojas obstruye sus estomas y rompe las paredes celulares epidérmicas. En condiciones herméticas, esto provoca descomposición anaeróbica y podredumbre bacteriana, volviendo las hojas negras y viscosas en dos días. Guárdelas sin lavar y lávelas justo antes de cocinar."
-                    },
-                    {
-                        "question": "¿Cuál es la forma correcta de escaldar y congelar espinacas para conservarlas a largo plazo?",
-                        "answer": "Escalde la espinaca cruda en agua hirviendo con sal durante 30 segundos, luego sumérjala de inmediato en agua helada para detener la cocción. Escurra suavemente el 80% del agua (deje una ligera humedad para evitar quemaduras por congelación), divida en porciones individuales y guárdelas en bolsas Ziploc para congelador (-18 °C) hasta por 6 meses."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver les épinards frais : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les épinards selon les directives officielles de sécurité.",
-                "authority": "RDA & EFSA & FSA",
-                "intro": "Avez-vous déjà acheté une botte d'épinards frais et l'avez-vous laissée couchée dans un sachet au réfrigérateur, pour retrouver des feuilles visqueuses, jaunies et pourries deux jours plus tard ? 🌿\n\nLes feuilles d'épinard sont très délicates et présentent des taux de respiration et de transpiration élevés après la récolte. Conservés à plat, les épinards subissent un 'géotropisme négatif', épuisant leurs sucres et leur vitamine C pour essayer de se dresser contre la gravité. De plus, l'exposition à l'éthylène détruit leur chlorophylle et les fait jaunir.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations de l'EFSA et de la RDA pour contrôler la respiration, bloquer l'éthylène et garder vos épinards croquants et bien verts pendant plus de 7 jours. 🛡️",
-                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne scellez jamais les épinards dans du plastique s'ils sont humides 💧",
-                        "desc": "Enfermer des épinards mouillés dans un sac étanche piège l'eau en surface, provoquant la rupture des parois cellulaires, une pourriture bactérienne et un liquide gluant en 24 à 48 heures. Séchez-les toujours complètement."
-                    },
-                    {
-                        "title": "Triez et jetez immédiatement les feuilles jaunies ou abîmées 🍂",
-                        "desc": "Les feuilles d'épinards jaunies ou écrasées émettent de fortes quantités de gaz de décomposition, ce qui fait pourrir rapidement les feuilles saines voisines. Triez toujours vos épinards avant stockage."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Envelopper les épinards secs non lavés dans du journal ou de l'essuie-tout — Contrôle de l'humidité 📦",
-                        "text": "Les feuilles d'épinards pourrissent très vite au contact de l'eau libre. 💡 Astuce de conservation : Gardez la terre d'origine et enveloppez les épinards secs sans serrer dans de l'essuie-tout ou du journal. Le papier absorbe la condensation et maintient les feuilles au sec."
-                    },
-                    {
-                        "name": "Stocker verticalement, racines vers le bas — Réfrigération (7 jours) 🌿",
-                        "text": "Coucher les épinards les pousse à dépenser de l'énergie pour se redresser contre la gravité, détruisant leurs nutriments. 💡 Astuce de conservation : Placez les épinards emballés debout dans une boîte haute, racines vers le bas, dans le bac à légumes (0-4 °C)."
-                    },
-                    {
-                        "name": "Éloigner totalement des fruits émetteurs d'éthylène — Prévenir la perte de chlorophylle 🛡️",
-                        "text": "L'épinard est très sensible au gaz éthylène ambiant. 💡 Astuce de conservation : Conserver des épinards près de pommes, poires ou tomates provoque la dégradation rapide de la chlorophylle, rendant les feuilles jaunes et molles. Conservez-les dans un compartiment séparé."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi ne faut-il pas laver les épinards frais avant de les mettre au réfrigérateur ?",
-                        "answer": "Les feuilles d'épinards sont très fragiles. Piéger de l'eau sur les feuilles stoppe leurs stomates et détruit les parois cellulaires. En milieu hermétique, cela provoque une pourriture anaérobie et bactérienne, rendant les feuilles noires et gluantes en deux jours. Conservez-les secs et lavez-les au moment de cuisiner."
-                    },
-                    {
-                        "question": "Comment blanchir et congeler correctement les épinards pour une longue conservation ?",
-                        "answer": "Plongez les épinards crus 30 secondes dans l'eau bouillante salée, puis refroidissez-les aussitôt dans l'eau glacée. Pressez délicatement pour enlever 80 % de l'eau (laissez una légère humidité pour éviter le dessèchement au congélateur), portionnez et placez en sac Ziploc à -18 °C jusqu'à 6 mois."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Spinat richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Spinat basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "RDA & EFSA & FSA",
-                "intro": "Haben Sie schon einmal frischen Spinat gekauft und flach in einer Plastiktüte im Kühlschrank gelagert, nur um zwei Tage später festzustellen, dass die Blätter schleimig, gelb und verfault waren? 🌿\n\nSpinatblätter sind extrem empfindlich und besitzen nach der Ernte hohe Atmungs- und Transpirationsraten. Wird Spinat flach gelagert, unterliegt er dem 'negativen Geotropismus'—er verbraucht eingelagerten Zucker und Vitamin C beim Versuch, sich gegen die Schwerkraft aufzurichten. Zudem baut Ethylen das Chlorophyll rasch ab.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien der EFSA und RDA basiert, um die Atmung zu steuern, Ethylen zu blockieren und Ihren Spinat über 7 Tage lang knackig und grün zu halten. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Spinat niemals feucht in Plastikbeuteln verschließen 💧",
-                        "desc": "Das Einpacken nasser Spinatblätter staut Wasser auf der Oberfläche, was zum Kollaps der Zellwände, bakterieller Weichfäule und schleimigen Flüssigkeiten innerhalb von 24 bis 48 Stunden führt. Vor dem Einwickeln gründlich trocknen."
-                    },
-                    {
-                        "title": "Gelbe oder beschädigte Blätter sofort aussortieren 🍂",
-                        "desc": "Gelbe oder gequetschte Spinatblätter geben hohe Mengen Fäulnisgase ab, was gesunde Nachbarblätter schnell ansteckt. Sortieren Sie beschädigte Blätter vor der Lagerung immer aus."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Trockenen, ungewaschenen Spinat in Zeitung oder Küchenpapier wickeln — Feuchtigkeitskontrolle 📦",
-                        "text": "Spinatblätter verfaulen bei direktem Kontakt mit freiem Wasser rasch. 💡 Lagerungstipp: Belassen Sie die Erde am Spinat und wickeln Sie ihn locker in Küchenpapier oder Zeitungspapier. Das Papier absorbiert Kondenswasser und hält die Blätter trocken."
-                    },
-                    {
-                        "name": "Aufrecht mit den Wurzeln nach unten lagern — Kühllagerung (7 Tage) 🌿",
-                        "text": "Flaches Liegen lässt Spinat Energie verbrauchen, um sich aufzurichten, was Nährstoffe zerstört. 💡 Lagerungstipp: Stellen Sie den gewickelten Spinat mit den Wurzeln nach unten aufrecht in ein hohes Gefäß im Gemüsefach (0–4 °C). Die natürliche Wuchsrichtung hält ihn knackig."
-                    },
-                    {
-                        "name": "Vollständig von ethylenabgebenden Früchten isolieren — Chlorophyllabbau verhindern 🛡️",
-                        "text": "Spinat reagiert extrem empfindlich auf Ethylengas aus der Umgebung. 💡 Lagerungstipp: Die Lagerung neben Äpfeln, Birnen oder Tomaten baut das Chlorophyll rasch ab und lässt die Blätter gelb und matschig werden. Immer getrennt aufbewahren."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum sollte man frischen Spinat vor der Lagerung im Kühlschrank nicht waschen?",
-                        "answer": "Spinatblätter sind sehr zart. Freies Wasser auf den Blättern verstopft die Spaltöffnungen und zerstört die Zellwände. Unter luftdichten Bedingungen führt dies zu anärobem Verfall und bakterieller Weichfäule, wodurch die Blätter binnen zwei Tagen schwarz und schleimig werden. Ungewaschen trocken lagern und erst kurz vor dem Kochen waschen."
-                    },
-                    {
-                        "question": "Wie blanchiert und friert man Spinat zur Langzeitlagerung richtig ein?",
-                        "answer": "Blanchieren Sie rohen Spinat 30 Sekunden in kochendem Salzwasser und schrecken Sie ihn sofort in Eiswasser ab. Drücken Sie 80 % des Wassers sanft aus (etwas Feuchtigkeit verhindert Gefrierbrand), portionieren Sie ihn und frieren Sie ihn im Ziploc-Beutel bei -18 °C bis zu 6 Monate ein."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar espinafre fresco: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para espinafre com base em diretrizes oficiais de segurança.",
-                "authority": "RDA & EFSA & FSA",
-                "intro": "Você já comprou um maço de espinafre fresco e o deixou deitado em um saco plástico na geladeira, apenas para encontrar as folhas viscosas, amareladas e podres dois dias depois? 🌿\n\nAs folhas de espinafre são extremamente delicadas e têm altas taxas de respiração e transpiração após a colheita. Quando guardado na horizontal, o espinafre sofre 'geotropismo negativo', gastando seus açúcares e vitamina C na tentativa de se curvar para cima contra a gravidade. Além disso, a exposição ao gás etileno destrói sua clorofila.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes da EFSA e da RDA para controlar a respiração, bloquear o etileno e manter seu espinafre crocante e verde por mais de 7 dias. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca sele o espinafre em sacos plásticos se estiver úmido 💧",
-                        "desc": "Embalar espinafre molhado em sacos herméticos prende a água na superfície, causando colapso das paredes celulares, podridão bacteriana e um líquido viscoso em 24 a 48 horas. Seque-o completamente antes de guardar."
-                    },
-                    {
-                        "title": "Separe e descarte folhas amareladas ou danificadas imediatamente 🍂",
-                        "desc": "Folhas de espinafre amareladas ou amassadas emitem altos níveis de gases de decomposição, acelerando o deterioramento das folhas saudáveis ao redor. Selecione e remova as folhas danificadas antes de guardar."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Embrulhe o espinafre seco e sem lavar em jornal ou papel-toalha — Controle de umidade 📦",
-                        "text": "As folhas de espinafre estragam rápido em contato direto com água livre. 💡 Dica de conservação: Mantenha a terra de origem e embrulhe o espinafre seco em papel-toalha ou jornal. O papel absorve a condensação e mantém as folhas secas."
-                    },
-                    {
-                        "name": "Guarde na vertical com as raízes para baixo — Refrigeração (7 dias) 🌿",
-                        "text": "Deitar o espinafre faz com que gaste energia tentando se erguer contra a gravidade, destruindo nutrientes. 💡 Dica de conservação: Coloque o espinafre embrulhado em pé em um pote alto com as raízes para baixo na gaveta de legumes (0-4 °C)."
-                    },
-                    {
-                        "name": "Isole completamente de frutas que liberam etileno — Previna a perda de clorofila 🛡️",
-                        "text": "O espinafre é altamente sensível ao gás etileno ambiente. 💡 Dica de conservação: Guardar espinafre perto de maçãs, peras ou tomates causa rápida degradação da clorofila, deixando as folhas amarelas e moles. Guarde em gaveta separada."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Por que não devo lavar o espinafre fresco antes de guardá-lo na geladeira?",
-                        "answer": "As folhas de espinafre são muito fragéis. Deixar água na superfície obstrui os estômatos e rompe as paredes celulares. Em ambiente hermético, isso gera decomposição anaeróbica e podridão bacteriana, deixando as folhas pretas e gosmentas em dois dias. Guarde sem lavar e lave apenas no momento do preparo."
-                    },
-                    {
-                        "question": "Qual é a forma correta de aferventar e congelar o espinafre para longa conservação?",
-                        "answer": "Afervente o espinafre cru em água fervente com sal por 30 segundos, depois mergulhe imediatamente em água com gelo. Esprema suavemente 80% da água (deixe uma leve umidade para evitar queimadura de gelo), divida em porções e guarde em saco Ziploc no freezer (-18 °C) por até 6 meses."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Bayam agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk bayam berdasarkan pedoman keselamatan resmi.",
-                "authority": "RDA & EFSA & FSA",
-                "intro": "Pernahkah Anda membeli seikat bayam segar lalu membiarkannya rebah di dalam kantong plastik di kulkas, hanya untuk mendapati daunnya menjadi berlendir, menguning, dan membusuk dua hari kemudian? 🌿\n\nDaun bayam sangat lembut dan memiliki laju respirasi serta transpirasi yang sangat tinggi setelah dipanen. Ketika diletakkan secara mendatar, bayam mengalami 'geotropisme negatif'—menghabiskan cadangan gula dan Vitamin C untuk membengkokkan batangnya ke atas melawan gravitasi. Selain itu, paparan gas etilen merusak klorofil dengan cepat.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman EFSA dan RDA untuk mengontrol respirasi, memblokir etilen, dan menjaga bayam Anda tetap renyah dan hijau selama lebih dari 7 hari. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan pernah menyegel bayam dalam kantong plastik jika masih basah 💧",
-                        "desc": "Menyimpan bayam basah dalam wadah kedap udara akan memerangkap air permukaan, menyebabkan rusaknya dinding sel, pembusukan bakteri, dan munculnya lendir dalam 24 hingga 48 jam. Pastikan bayam benar-benar kering sebelum dibungkus."
-                    },
-                    {
-                        "title": "Segera sortir dan buang daun yang menguning atau rusak 🍂",
-                        "desc": "Daun bayam yang menguning atau memar melepaskan gas pembusukan dalam jumlah tinggi, mempercepat pembusukan pada daun sehat di sekitarnya. Selalu sortir dan buang daun yang rusak sebelum disimpan."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Bungkus bayam kering tanpa dicuci dengan koran atau tisu dapur — Kontrol Kelembapan 📦",
-                        "text": "Daun bayam membusuk dengan cepat jika bersentuhan langsung dengan air. 💡 Tips Penyimpanan: Biarkan tanahnya tetap menempel dan bungkus bayam kering secara longgar dengan tisu dapur atau koran. Kertas menyerap kondensasi air dan menjaga daun tetap kering."
-                    },
-                    {
-                        "name": "Simpan secara tegak dengan bagian akar menghadap ke bawah — Simpan Dingin (7 Hari) 🌿",
-                        "text": "Meletakkan bayam secara miring/rebah membuatnya membuang energi untuk tumbuh ke atas melawan gravitasi, merusak nutrisinya. 💡 Tips Penyimpanan: Berdirikan bayam yang dibungkus kertas secara vertikal dalam wadah tinggi dengan akar di bawah di laci sayuran (0–4°C)."
-                    },
-                    {
-                        "name": "Pisahkan secara total dari buah penghasil etilen — Cegah Rusaknya Klorofil 🛡️",
-                        "text": "Bayam sangat sensitif terhadap gas etilen udara. 💡 Tips Penyimpanan: Menyimpan bayam di dekat apel, pir, atau tomat menyebabkan kerusakan klorofil yang cepat, membuat daun menguning dan lembek. Simpan di wadah terpisah."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa saya tidak boleh mencuci bayam segar sebelum menyimpannya di kulkas?",
-                        "answer": "Daun bayam sangat rapuh. Air yang terperangkap pada daun menyumbat stomata dan merusak dinding sel. Dalam kondisi kedap udara, hal ini menyebabkan pembusukan anaerobik dan bakteri, membuat daun menjadi hitam dan berlendir dalam dua hari. Simpan dalam kondisi kering dan cucilah tepat sebelum dimasak."
-                    },
-                    {
-                        "question": "Bagaimana cara merebus sebentar (blanching) dan membekukan bayam untuk penyimpanan jangka panjang?",
-                        "answer": "Rebus bayam mentah dalam air mendidih bergaram selama 30 detik, lalu segera masukkan ke dalam air es untuk menghentikan proses memasak. Peras lembut 80% airnya (biarkan sedikit lembap agar tidak kering saat dibekukan), bagi menjadi porsi sekali makan, lalu simpan dalam kantong Ziploc freezer (-18°C) hingga 6 bulan."
-                    }
-                ]
-            }
-        }
+  "how-to-store-spinach": {
+    "ingId": "spinach",
+    "pubDate": "2026-02-18",
+    "updatedDate": "2026-02-18",
+    "heroImage": "/images/blog/spinach_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "시금치 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 시금치의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "농촌진흥청(RDA) & 유럽식품안전청(EFSA) & 영국 식품기준청(FSA)",
+        "intro": "시금치를 사 와서 비닐봉지째 냉장고 야채칸에 누려 두었다가, 하루이틀 만에 잎이 누렇게 뜨고 짓물러 썩어 버린 경험 있으시죠? 🌿\n\n시금치는 엽채류 중에서도 잎이 매우 연하고 수분 함량이 높아 수확 후 호흡 작용과 수분 증발이 극도로 활발합니다. 특히 눕혀서 보관하면 위로 자라려는 '굴중성(Negative Geotropism)' 생리 특성 때문에 에너지를 급격히 소모하며 시들고, 에틸렌 가스에 노출되면 엽록소가 파괴되어 순식간에 황화됩니다.\n\n이번 가이드에서는 농촌진흥청(RDA)과 유럽식품안전청(EFSA)의 가이드를 바탕으로 시금치의 호흡 작용을 통제하고 7일 이상 아삭함과 비타민 C를 보존하는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "수분이 고여 있는 상태로 비닐 밀봉하지 마세요 💧",
+            "desc": "물기가 남은 시금치를 비닐봉지나 밀폐용기에 넣으면 수분이 갇혀 세포벽이 무너지고 미끈거리는 투명 점액질과 함께 세균성 무름병이 발생합니다. 보관 전 반드시 마른 상태를 유지해야 합니다."
+          },
+          {
+            "title": "누렇게 변하거나 상한 잎은 즉시 골라내어 제거하세요 🍂",
+            "desc": "누렇게 변색되거나 짓눌린 잎은 부패균과 에틸렌 가스를 대량으로 분출하여 주변의 싱싱한 시금치까지 연쇄적으로 상하게 만듭니다. 보관 전 손상된 잎을 먼저 골라내어 정리하세요."
+          }
+        ],
+        "steps": [
+          {
+            "name": "씻지 않고 신문지나 키친타월로 감싸기 — 결로 및 습도 조절 📦",
+            "text": "시금치는 잎 표면에 수분이 닿으면 부패가 급격히 진행됩니다. 💡 보관 팁: 흙이 묻은 채로 물을 묻히지 말고, 신문지나 키친타월로 시금치를 폭 감싸주세요. 종이가 내부 결로나 습기를 흡수하는 완충재 역할을 하여 잎이 짓무르는 것을 방지합니다."
+          },
+          {
+            "name": "뿌리가 아래로 가도록 수직으로 세워 보관하기 — 냉장 보관 (7일) 🌿",
+            "text": "시금치를 눕혀 두면 위로 일어서려는 생리 반응 때문에 저장된 당분과 비타민 C를 빠르게 소모합니다. 💡 보관 팁: 종이로 감싼 시금치를 페트병이나 깊은 밀폐 용기에 넣고 뿌리가 아래로 향하게 수직으로 세워 냉장고 야채칸(0~4℃)에 보관하세요. 중력 스트레스를 줄여 신선도가 오래 유지됩니다."
+          },
+          {
+            "name": "사과 등 에틸렌 방출 과일들과 완벽히 격리하기 — 엽록소 파괴 차단 🛡️",
+            "text": "시금치는 에틸렌 가스에 매우 민감한 대표적인 채소입니다. 💡 보관 팁: 사과, 배, 토마토 등 에틸렌을 대량 분출하는 과일과 같은 공간에 두면 잎의 엽록소가 해해되어 노랗게 변색되고 무릅니다. 반드시 칸을 분리하여 밀봉 보관하세요."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "시금치를 보관하기 전에 물로 씻으면 안 되는 이유는 무엇인가요?",
+            "answer": "시금치 잎은 조직이 매우 연약하여 물에 닿으면 세포 표면에 수분이 정체되면서 기공이 막힙니다. 이 상태로 밀봉 보관하면 산소 결핍에 따른 세포 파괴와 세균성 부패가 일어나 이틀 만에 잎이 까맣게 짓물러 버립니다. 흙이 묻은 상태로 보관하고, 요리 직전에 흐르는 물에 씻어내는 것이 신선도를 가장 길게 유지하는 비결입니다."
+          },
+          {
+            "question": "시금치를 데쳐서 장기 보관하는 올바른 냉동 방법은 무엇인가요?",
+            "answer": "시금치를 끓는 물에 소금을 약간 넣고 30초간 짧게 데친(블랜칭) 후, 곧바로 차가운 얼음물에 헹궈 열기를 식힙니다. 손으로 물기를 80% 정도만 가볍게 짜낸 뒤(수분이 너무 없으면 냉동 중 건조해짐), 1회 사용할 분량씩 지퍼백에 담아 냉동(-18℃ 이하) 보관하면 최대 6개월간 국이나 무침용으로 유용하게 쓸 수 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Spinach Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for spinach based on official safety guidelines.",
+        "authority": "RDA & EFSA & FSA",
+        "intro": "Have you ever bought a fresh bunch of spinach and left it lying flat in a plastic bag inside the fridge, only to find the leaves slimy, yellowed, and rotted two days later? 🌿\n\nSpinach leaves are extremely delicate and have high respiration and transpiration rates after harvest. When laid flat horizontally, spinach undergoes 'negative geotropism'—expending stored sugars and Vitamin C in a struggle to bend upward against gravity. Furthermore, exposure to ethylene gas rapidly breaks down its chlorophyll, turning leaves yellow.\n\nIn this guide, shares a scientifically proven 3-step storage guide based on guidelines from the EFSA and RDA to control respiration, block ethylene, and keep your spinach crisp and green for over 7 days. 🛡️",
+        "whyTitle": "Why Store Spinach This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never seal spinach in plastic bags with trapped moisture 💧",
+            "desc": "Enclosing wet spinach in airtight bags traps surface water, causing cell wall collapse, bacterial soft rot, and a slimy liquid within 24 to 48 hours. Ensure spinach is completely dry before wrapping."
+          },
+          {
+            "title": "Sort out yellow or damaged leaves immediately 🍂",
+            "desc": "Yellowing or crushed spinach leaves emit high levels of decay gases and rot pathogens, accelerating spoilage in surrounding healthy leaves. Always pick through and remove damaged leaves before storing."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Wrap dry, unwashed spinach in newspaper or paper towels — Moisture Control 📦",
+            "text": "Spinach leaves decay rapidly upon direct contact with free water. 💡 Storage Tip: Keep the soil intact and wrap the dry spinach loosely in paper towels or newspaper. The paper acts as a moisture buffer, absorbing condensation and keeping the leaves dry."
+          },
+          {
+            "name": "Store vertically upright with roots facing down — Cold Storage (7 Days) 🌿",
+            "text": "Laying spinach flat causes it to expend energy bending upward against gravity, destroying nutrients. 💡 Storage Tip: Stand the paper-wrapped spinach vertically in a tall container or bottle with the roots facing down in the crisper drawer (0–4°C / 32–39°F). Matching its natural growth orientation preserves crispness."
+          },
+          {
+            "name": "Isolate completely from ethylene-emitting fruits — Prevent Chlorophyll Breakdown 🛡️",
+            "text": "Spinach is highly sensitive to external ethylene gas. 💡 Storage Tip: Storing spinach near apples, pears, or tomatoes causes rapid chlorophyll degradation, making the leaves turn yellow and mushy. Keep spinach in a separate, isolated compartment."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why shouldn't I wash fresh spinach before storing it in the refrigerator?",
+            "answer": "Spinach leaves are extremely delicate. Trapping free water on unwashed or washed leaves clogs their stomata and breaks down epidermal cell walls. Under airtight conditions, this causes anaerobic decay and bacterial soft rot, turning leaves black and slimy within two days. Store unwashed with dry soil and wash right before cooking."
+          },
+          {
+            "question": "What is the proper way to blanch and freeze spinach for long-term storage?",
+            "answer": "Blanch raw spinach in boiling salted water for 30 seconds, then immediately plunge into ice water to stop cooking. Gently squeeze out 80% of the water (leave slight moisture to prevent freezer burn), portion into meal-sized bundles, and store in a Ziploc freezer bag below -18°C (-0.4°F) for up to 6 months."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ほうれん草を新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくほうれん草の最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "農村振興庁(RDA) & EFSA & FSA",
+        "intro": "ほうれん草を買ってきて袋のまま冷蔵庫の野菜室に横にして置いておいたら、1〜2日で葉が黄色く変色し、ぬるぬる溶けて腐ってしまった経験はありませんか？🌿\n\nほうれん草は葉が非常に柔らかく水分が多いため、収穫後の呼吸作用と蒸散が極めて活発な野菜です。特に横にして保存すると、上に向かって立ち上がろうとする「負の屈重性」の生理特性により、エネルギーやビタミンCを急激に消費してしおれます。\n\n本記事では、欧州食品安全機関（EFSA）および農村振興庁（RDA）のガイドラインに基づき、呼吸作用をコントロールし、1週間以上シャキシャキ感と栄養を守る3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "水分が溜まった状態でポリ袋等に密閉しないでください 💧",
+            "desc": "水気が残ったほうれん草をポリ袋や密閉容器に入れると、こもった湿気によって細胞壁が壊れ、透明なぬめりや細菌性軟腐病が発生します。保存前は必ず乾いた状態を維持してください。"
+          },
+          {
+            "title": "黄色く変色した葉や傷んだ葉はすぐに取り除いてください 🍂",
+            "desc": "傷んだ葉や黄色くなった葉は腐敗菌とエチレンガスを大量に放出し、周囲の新鮮なほうれん草まで連鎖的に傷ませます。保存前に必ず選別して傷んだ葉は取り除きましょう。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "洗わずに新聞紙やキッチンペーパーで包む — 結露と湿気の調整 📦",
+            "text": "ほうれん草は葉の表面に直接水分がつくと傷みが急速に進みます。💡保存のコツ：土がついたまま水気をつけず、新聞紙やキッチンペーパーでふんわり包んでください。紙が内部の結露や余分な湿気を吸収し、葉が溶けるのを防ぎます。"
+          },
+          {
+            "name": "根を下にして立てて保存する — 冷蔵保存 (7日間) 🌿",
+            "text": "ほうれん草を横にしておくと、起き上がろうとする生理反応によって蓄えられた糖分やビタミンCを激しく消費します。💡保存のコツ：紙で包んだほうれん草を深めの容器やスタンドに入れ、根を下にして直立させた状態で野菜室（0〜4℃）に保存してください。"
+          },
+          {
+            "name": "リンゴなどエチレンガスを出す果物から完全に隔離する — 葉緑素の破壊防止 🛡️",
+            "text": "ほうれん草はエチレンガスに対して非常に敏感な野菜です。💡保存のコツ：リンゴ、梨、トマトなどエチレンを多く出す果物と同じ段に入れると、葉緑素が分解されて黄色く変色し柔らかくなります。必ず段を分けて密閉保存してください。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ほうれん草を保存する前に水洗いしてはいけない理由は何ですか？",
+            "answer": "ほうれん草の葉は組織が非常に繊細で、水に触れると細胞表面に水気が留まって気孔が塞がれます。この状態で密閉保存すると、酸素不足による細胞破壊と細菌性腐敗が起き、わずか2日で黒くぬめって傷んでしまうためです。土がついたまま保存し、調理直前に洗い流すのが長持ちの基本です。"
+          },
+          {
+            "question": "ほうれん草を下茹でして長期保存する正しい冷凍方法は何ですか？",
+            "answer": "沸騰したお湯に少量の塩を入れ、ほうれん草を30秒間サッと下茹で（ブランチング）したら、すぐに冷水にとって冷まします。手で8割程度水気を絞り（絞りすぎると乾燥の原因になります）、1回分ずつジッパーバッグに入れて冷凍（-18℃以下）保存すれば、最大6ヶ月間お味噌汁や和え物用として美味しく使えます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持菠菜新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解菠菜的最佳储存温度、方式和保鲜时长。",
+        "authority": "韩国农村振兴厅(RDA) & 欧洲食品安全局(EFSA) & 英国食品标准局(FSA)",
+        "intro": "您是否曾买回一把菠菜，连同塑料袋一起平放在冰箱蔬菜室里，结果一两天后叶子就发黄、软烂成一摊？🌿\n\n菠菜是叶菜类中叶片极薄且含水量高的代表，采收后的呼吸作用与蒸腾作用极其旺盛。特别是横放储存时，菠菜会因向上生长的“负向重力性（Negative Geotropism）”而急剧消耗体内的糖分与维生素C。如果接触到乙烯气体，叶绿素还会迅速分解发黄。\n\n本指南基于欧洲食品安全局(EFSA)和韩国农村振兴厅(RDA)的指南，为您带来3步科学保存秘诀，帮您精准控制呼吸作用、隔绝乙烯，保持菠菜清脆翠绿达7天以上。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "切勿在表面带水的情况下用塑料袋密封 💧",
+            "desc": "将带有水汽的菠菜装入塑料袋或密封盒中，积聚的水分会导致细胞壁崩解，并在1~2天内分泌出黏稠液体并发生细菌性软腐病。储存前请务必保持干燥。"
+          },
+          {
+            "title": "请立即挑出并清除发黄或破损的叶片 🍂",
+            "desc": "发黄变质或被挤压破损的菠菜叶会释放大量腐败菌与乙烯气体，导致周围新鲜的菠菜连锁腐烂。储存前请务必仔细筛选剔除坏叶。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "带泥不洗，用报纸或厨房纸巾包裹 — 控制结露与湿度 📦",
+            "text": "菠菜叶片表面一旦直接接触水分，腐烂速度就会急剧加快。💡储存小贴士：保持带泥干燥状态，用报纸或厨房纸巾将菠菜包裹起来。纸张能吸收内部结露与多余湿气，防止叶片烂软。"
+          },
+          {
+            "name": "根部朝下竖直摆放冷藏 — 冷藏保存 (7天) 🌿",
+            "text": "如果将菠菜平放，其向上挺直的生理反应会剧烈消耗储存的营养成分。💡储存小贴士：将包好的菠菜装入较高保鲜盒或直立容器中，根部朝下“竖直”存放在冰箱蔬菜保鲜抽屉（0~4℃）中，能显著延长保鲜期。"
+          },
+          {
+            "name": "与苹果等释放乙烯的水果彻底隔离 — 防止叶绿素分解 🛡️",
+            "text": "菠菜是对乙烯气体高度敏感的代表性蔬菜。💡储存小贴士：若与苹果、梨、番茄等释放大量乙烯的水果同放，菠菜叶片中的叶绿素会迅速破坏导致变黄烂软，请务必分层隔离保存。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "为什么菠菜在冷藏保存前绝对不能用水冲洗？",
+            "answer": "菠菜叶片结构极其娇嫩，带水保存会导致表皮细胞积水并堵塞气孔。在密封冷藏环境下，缺氧会导致细胞坏死与细菌性软腐病爆发，短短两天内叶片就会黑烂发黏。带泥干燥保存，并在烹饪前才用流动水洗净，才是延长保鲜期的核心秘诀。"
+          },
+          {
+            "question": "焯水后长期冷冻保存菠菜的正确方法是什么？",
+            "answer": "将菠菜放入加有少许盐的沸水中烫漂30秒，捞出后立即浸入冰水冷却以止熟。用手轻轻挤干80%的水分（留少许水分防冻干），按单次用量分装入冷冻拉链袋，放入冷冻室（-18℃以下）可保存长达6个月，非常适合做汤或凉拌。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener las espinacas frescas: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para las espinacas según las directrices oficiales de seguridad.",
+        "authority": "RDA & EFSA & FSA",
+        "intro": "¿Alguna vez compró un manojo de espinacas frescas, lo dejó recostado en una bolsa de plástico dentro del refrigerador y descubrió que las hojas estaban viscosas, amarillas y podridas dos días después? 🌿\n\nLas hojas de espinaca son extremadamente delicadas y poseen elevadas tasas de respiración y transpiración tras la cosecha. Al guardarse acostadas horizontalmente, las espinacas sufren 'geotropismo negativo', consumiendo sus azúcares y vitamina C en un esfuerzo por doblarse hacia arriba contra la gravedad. Además, la exposición al gas etileno destruye su clorofila, volviéndolas amarillas.\n\nEn esta guía se comparte una guía científica en 3 pasos basada en pautas de la EFSA y la RDA para controlar la respiración, bloquear el etileno y mantener sus espinacas crujientes y verdes por más de 7 días. 🛡️",
+        "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Nunca selle espinacas en bolsas de plástico con humedad atrapada 💧",
+            "desc": "Encharcar espinacas húmedas en bolsas herméticas atrapa agua en la superficie, provocando el colapso celular, pudrición blanda bacteriana y un líquido viscoso en 24 a 48 horas. Séquelas completamente antes de envolver."
+          },
+          {
+            "title": "Separe y elimine de inmediato las hojas amarillas o dañadas 🍂",
+            "desc": "Las hojas de espinaca amarillas o aplastadas emiten grandes cantidades de gases de descomposición y patógenos, acelerando el deterioro de las hojas sanas vecinas. Seleccione y retire las hojas dañadas antes de guardar."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Envuelva las espinacas secas sin lavar en periódico o toallas de papel — Control de humedad 📦",
+            "text": "Las hojas de espinaca se descomponen rápidamente en contacto directo con agua libre. 💡 Consejo de almacenamiento: Deje la tierra y envuelva las espinacas secas suavemente en papel de cocina o periódico. El papel actúa como amortiguador, absorbiendo la condensación."
+          },
+          {
+            "name": "Guarde en posición vertical con las raíces hacia abajo — Refrigeración (7 días) 🌿",
+            "text": "Acostar las espinacas hace que gasten energía intentando erguirse contra la gravedad, destruyendo nutrientes. 💡 Consejo de almacenamiento: Coloque las espinacas envueltas en papel en posición vertical dentro de un recipiente alto en el cajón de verduras (0-4 °C)."
+          },
+          {
+            "name": "Aísle por completo de frutas que emitan etileno — Prevenga la pérdida de clorofila 🛡️",
+            "text": "La espinaca es sumamente sensible al gas etileno externo. 💡 Consejo de almacenamiento: Guardar espinacas cerca de manzanas, peras o tomates provoca la rápida degradación de la clorofila, volviendo las hojas amarillas y blandas. Manténgalas en compartimentos separados."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué no debo lavar las espinacas frescas antes de guardarlas en el refrigerador?",
+            "answer": "Las hojas de espinaca son extremadamente frágiles. Dejar agua sobre las hojas obstruye sus estomas y rompe las paredes celulares epidérmicas. En condiciones herméticas, esto provoca descomposición anaeróbica y podredumbre bacteriana, volviendo las hojas negras y viscosas en dos días. Guárdelas sin lavar y lávelas justo antes de cocinar."
+          },
+          {
+            "question": "¿Cuál es la forma correcta de escaldar y congelar espinacas para conservarlas a largo plazo?",
+            "answer": "Escalde la espinaca cruda en agua hirviendo con sal durante 30 segundos, luego sumérjala de inmediato en agua helada para detener la cocción. Escurra suavemente el 80% del agua (deje una ligera humedad para evitar quemaduras por congelación), divida en porciones individuales y guárdelas en bolsas Ziploc para congelador (-18 °C) hasta por 6 meses."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver les épinards frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les épinards selon les directives officielles de sécurité.",
+        "authority": "RDA & EFSA & FSA",
+        "intro": "Avez-vous déjà acheté une botte d'épinards frais et l'avez-vous laissée couchée dans un sachet au réfrigérateur, pour retrouver des feuilles visqueuses, jaunies et pourries deux jours plus tard ? 🌿\n\nLes feuilles d'épinard sont très délicates et présentent des taux de respiration et de transpiration élevés après la récolte. Conservés à plat, les épinards subissent un 'géotropisme négatif', épuisant leurs sucres et leur vitamine C pour essayer de se dresser contre la gravité. De plus, l'exposition à l'éthylène détruit leur chlorophylle et les fait jaunir.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations de l'EFSA et de la RDA pour contrôler la respiration, bloquer l'éthylène et garder vos épinards croquants et bien verts pendant plus de 7 jours. 🛡️",
+        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne scellez jamais les épinards dans du plastique s'ils sont humides 💧",
+            "desc": "Enfermer des épinards mouillés dans un sac étanche piège l'eau en surface, provoquant la rupture des parois cellulaires, une pourriture bactérienne et un liquide gluant en 24 à 48 heures. Séchez-les toujours complètement."
+          },
+          {
+            "title": "Triez et jetez immédiatement les feuilles jaunies ou abîmées 🍂",
+            "desc": "Les feuilles d'épinards jaunies ou écrasées émettent de fortes quantités de gaz de décomposition, ce qui fait pourrir rapidement les feuilles saines voisines. Triez toujours vos épinards avant stockage."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Envelopper les épinards secs non lavés dans du journal ou de l'essuie-tout — Contrôle de l'humidité 📦",
+            "text": "Les feuilles d'épinards pourrissent très vite au contact de l'eau libre. 💡 Astuce de conservation : Gardez la terre d'origine et enveloppez les épinards secs sans serrer dans de l'essuie-tout ou du journal. Le papier absorbe la condensation et maintient les feuilles au sec."
+          },
+          {
+            "name": "Stocker verticalement, racines vers le bas — Réfrigération (7 jours) 🌿",
+            "text": "Coucher les épinards les pousse à dépenser de l'énergie pour se redresser contre la gravité, détruisant leurs nutriments. 💡 Astuce de conservation : Placez les épinards emballés debout dans une boîte haute, racines vers le bas, dans le bac à légumes (0-4 °C)."
+          },
+          {
+            "name": "Éloigner totalement des fruits émetteurs d'éthylène — Prévenir la perte de chlorophylle 🛡️",
+            "text": "L'épinard est très sensible au gaz éthylène ambiant. 💡 Astuce de conservation : Conserver des épinards près de pommes, poires ou tomates provoque la dégradation rapide de la chlorophylle, rendant les feuilles jaunes et molles. Conservez-les dans un compartiment séparé."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi ne faut-il pas laver les épinards frais avant de les mettre au réfrigérateur ?",
+            "answer": "Les feuilles d'épinards sont très fragiles. Piéger de l'eau sur les feuilles stoppe leurs stomates et détruit les parois cellulaires. En milieu hermétique, cela provoque une pourriture anaérobie et bactérienne, rendant les feuilles noires et gluantes en deux jours. Conservez-les secs et lavez-les au moment de cuisiner."
+          },
+          {
+            "question": "Comment blanchir et congeler correctement les épinards pour une longue conservation ?",
+            "answer": "Plongez les épinards crus 30 secondes dans l'eau bouillante salée, puis refroidissez-les aussitôt dans l'eau glacée. Pressez délicatement pour enlever 80 % de l'eau (laissez una légère humidité pour éviter le dessèchement au congélateur), portionnez et placez en sac Ziploc à -18 °C jusqu'à 6 mois."
+          }
+        ]
+      },
+      "de": {
+        "title": "Spinat richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Spinat basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "RDA & EFSA & FSA",
+        "intro": "Haben Sie schon einmal frischen Spinat gekauft und flach in einer Plastiktüte im Kühlschrank gelagert, nur um zwei Tage später festzustellen, dass die Blätter schleimig, gelb und verfault waren? 🌿\n\nSpinatblätter sind extrem empfindlich und besitzen nach der Ernte hohe Atmungs- und Transpirationsraten. Wird Spinat flach gelagert, unterliegt er dem 'negativen Geotropismus'—er verbraucht eingelagerten Zucker und Vitamin C beim Versuch, sich gegen die Schwerkraft aufzurichten. Zudem baut Ethylen das Chlorophyll rasch ab.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien der EFSA und RDA basiert, um die Atmung zu steuern, Ethylen zu blockieren und Ihren Spinat über 7 Tage lang knackig und grün zu halten. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Spinat niemals feucht in Plastikbeuteln verschließen 💧",
+            "desc": "Das Einpacken nasser Spinatblätter staut Wasser auf der Oberfläche, was zum Kollaps der Zellwände, bakterieller Weichfäule und schleimigen Flüssigkeiten innerhalb von 24 bis 48 Stunden führt. Vor dem Einwickeln gründlich trocknen."
+          },
+          {
+            "title": "Gelbe oder beschädigte Blätter sofort aussortieren 🍂",
+            "desc": "Gelbe oder gequetschte Spinatblätter geben hohe Mengen Fäulnisgase ab, was gesunde Nachbarblätter schnell ansteckt. Sortieren Sie beschädigte Blätter vor der Lagerung immer aus."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Trockenen, ungewaschenen Spinat in Zeitung oder Küchenpapier wickeln — Feuchtigkeitskontrolle 📦",
+            "text": "Spinatblätter verfaulen bei direktem Kontakt mit freiem Wasser rasch. 💡 Lagerungstipp: Belassen Sie die Erde am Spinat und wickeln Sie ihn locker in Küchenpapier oder Zeitungspapier. Das Papier absorbiert Kondenswasser und hält die Blätter trocken."
+          },
+          {
+            "name": "Aufrecht mit den Wurzeln nach unten lagern — Kühllagerung (7 Tage) 🌿",
+            "text": "Flaches Liegen lässt Spinat Energie verbrauchen, um sich aufzurichten, was Nährstoffe zerstört. 💡 Lagerungstipp: Stellen Sie den gewickelten Spinat mit den Wurzeln nach unten aufrecht in ein hohes Gefäß im Gemüsefach (0–4 °C). Die natürliche Wuchsrichtung hält ihn knackig."
+          },
+          {
+            "name": "Vollständig von ethylenabgebenden Früchten isolieren — Chlorophyllabbau verhindern 🛡️",
+            "text": "Spinat reagiert extrem empfindlich auf Ethylengas aus der Umgebung. 💡 Lagerungstipp: Die Lagerung neben Äpfeln, Birnen oder Tomaten baut das Chlorophyll rasch ab und lässt die Blätter gelb und matschig werden. Immer getrennt aufbewahren."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum sollte man frischen Spinat vor der Lagerung im Kühlschrank nicht waschen?",
+            "answer": "Spinatblätter sind sehr zart. Freies Wasser auf den Blättern verstopft die Spaltöffnungen und zerstört die Zellwände. Unter luftdichten Bedingungen führt dies zu anärobem Verfall und bakterieller Weichfäule, wodurch die Blätter binnen zwei Tagen schwarz und schleimig werden. Ungewaschen trocken lagern und erst kurz vor dem Kochen waschen."
+          },
+          {
+            "question": "Wie blanchiert und friert man Spinat zur Langzeitlagerung richtig ein?",
+            "answer": "Blanchieren Sie rohen Spinat 30 Sekunden in kochendem Salzwasser und schrecken Sie ihn sofort in Eiswasser ab. Drücken Sie 80 % des Wassers sanft aus (etwas Feuchtigkeit verhindert Gefrierbrand), portionieren Sie ihn und frieren Sie ihn im Ziploc-Beutel bei -18 °C bis zu 6 Monate ein."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar espinafre fresco: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para espinafre com base em diretrizes oficiais de segurança.",
+        "authority": "RDA & EFSA & FSA",
+        "intro": "Você já comprou um maço de espinafre fresco e o deixou deitado em um saco plástico na geladeira, apenas para encontrar as folhas viscosas, amareladas e podres dois dias depois? 🌿\n\nAs folhas de espinafre são extremamente delicadas e têm altas taxas de respiração e transpiração após a colheita. Quando guardado na horizontal, o espinafre sofre 'geotropismo negativo', gastando seus açúcares e vitamina C na tentativa de se curvar para cima contra a gravidade. Além disso, a exposição ao gás etileno destrói sua clorofila.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes da EFSA e da RDA para controlar a respiração, bloquear o etileno e manter seu espinafre crocante e verde por mais de 7 dias. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca sele o espinafre em sacos plásticos se estiver úmido 💧",
+            "desc": "Embalar espinafre molhado em sacos herméticos prende a água na superfície, causando colapso das paredes celulares, podridão bacteriana e um líquido viscoso em 24 a 48 horas. Seque-o completamente antes de guardar."
+          },
+          {
+            "title": "Separe e descarte folhas amareladas ou danificadas imediatamente 🍂",
+            "desc": "Folhas de espinafre amareladas ou amassadas emitem altos níveis de gases de decomposição, acelerando o deterioramento das folhas saudáveis ao redor. Selecione e remova as folhas danificadas antes de guardar."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Embrulhe o espinafre seco e sem lavar em jornal ou papel-toalha — Controle de umidade 📦",
+            "text": "As folhas de espinafre estragam rápido em contato direto com água livre. 💡 Dica de conservação: Mantenha a terra de origem e embrulhe o espinafre seco em papel-toalha ou jornal. O papel absorve a condensação e mantém as folhas secas."
+          },
+          {
+            "name": "Guarde na vertical com as raízes para baixo — Refrigeração (7 dias) 🌿",
+            "text": "Deitar o espinafre faz com que gaste energia tentando se erguer contra a gravidade, destruindo nutrientes. 💡 Dica de conservação: Coloque o espinafre embrulhado em pé em um pote alto com as raízes para baixo na gaveta de legumes (0-4 °C)."
+          },
+          {
+            "name": "Isole completamente de frutas que liberam etileno — Previna a perda de clorofila 🛡️",
+            "text": "O espinafre é altamente sensível ao gás etileno ambiente. 💡 Dica de conservação: Guardar espinafre perto de maçãs, peras ou tomates causa rápida degradação da clorofila, deixando as folhas amarelas e moles. Guarde em gaveta separada."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que não devo lavar o espinafre fresco antes de guardá-lo na geladeira?",
+            "answer": "As folhas de espinafre são muito fragéis. Deixar água na superfície obstrui os estômatos e rompe as paredes celulares. Em ambiente hermético, isso gera decomposição anaeróbica e podridão bacteriana, deixando as folhas pretas e gosmentas em dois dias. Guarde sem lavar e lave apenas no momento do preparo."
+          },
+          {
+            "question": "Qual é a forma correta de aferventar e congelar o espinafre para longa conservação?",
+            "answer": "Afervente o espinafre cru em água fervente com sal por 30 segundos, depois mergulhe imediatamente em água com gelo. Esprema suavemente 80% da água (deixe uma leve umidade para evitar queimadura de gelo), divida em porções e guarde em saco Ziploc no freezer (-18 °C) por até 6 meses."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Bayam agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk bayam berdasarkan pedoman keselamatan resmi.",
+        "authority": "RDA & EFSA & FSA",
+        "intro": "Pernahkah Anda membeli seikat bayam segar lalu membiarkannya rebah di dalam kantong plastik di kulkas, hanya untuk mendapati daunnya menjadi berlendir, menguning, dan membusuk dua hari kemudian? 🌿\n\nDaun bayam sangat lembut dan memiliki laju respirasi serta transpirasi yang sangat tinggi setelah dipanen. Ketika diletakkan secara mendatar, bayam mengalami 'geotropisme negatif'—menghabiskan cadangan gula dan Vitamin C untuk membengkokkan batangnya ke atas melawan gravitasi. Selain itu, paparan gas etilen merusak klorofil dengan cepat.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman EFSA dan RDA untuk mengontrol respirasi, memblokir etilen, dan menjaga bayam Anda tetap renyah dan hijau selama lebih dari 7 hari. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan pernah menyegel bayam dalam kantong plastik jika masih basah 💧",
+            "desc": "Menyimpan bayam basah dalam wadah kedap udara akan memerangkap air permukaan, menyebabkan rusaknya dinding sel, pembusukan bakteri, dan munculnya lendir dalam 24 hingga 48 jam. Pastikan bayam benar-benar kering sebelum dibungkus."
+          },
+          {
+            "title": "Segera sortir dan buang daun yang menguning atau rusak 🍂",
+            "desc": "Daun bayam yang menguning atau memar melepaskan gas pembusukan dalam jumlah tinggi, mempercepat pembusukan pada daun sehat di sekitarnya. Selalu sortir dan buang daun yang rusak sebelum disimpan."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Bungkus bayam kering tanpa dicuci dengan koran atau tisu dapur — Kontrol Kelembapan 📦",
+            "text": "Daun bayam membusuk dengan cepat jika bersentuhan langsung dengan air. 💡 Tips Penyimpanan: Biarkan tanahnya tetap menempel dan bungkus bayam kering secara longgar dengan tisu dapur atau koran. Kertas menyerap kondensasi air dan menjaga daun tetap kering."
+          },
+          {
+            "name": "Simpan secara tegak dengan bagian akar menghadap ke bawah — Simpan Dingin (7 Hari) 🌿",
+            "text": "Meletakkan bayam secara miring/rebah membuatnya membuang energi untuk tumbuh ke atas melawan gravitasi, merusak nutrisinya. 💡 Tips Penyimpanan: Berdirikan bayam yang dibungkus kertas secara vertikal dalam wadah tinggi dengan akar di bawah di laci sayuran (0–4°C)."
+          },
+          {
+            "name": "Pisahkan secara total dari buah penghasil etilen — Cegah Rusaknya Klorofil 🛡️",
+            "text": "Bayam sangat sensitif terhadap gas etilen udara. 💡 Tips Penyimpanan: Menyimpan bayam di dekat apel, pir, atau tomat menyebabkan kerusakan klorofil yang cepat, membuat daun menguning dan lembek. Simpan di wadah terpisah."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa saya tidak boleh mencuci bayam segar sebelum menyimpannya di kulkas?",
+            "answer": "Daun bayam sangat rapuh. Air yang terperangkap pada daun menyumbat stomata dan merusak dinding sel. Dalam kondisi kedap udara, hal ini menyebabkan pembusukan anaerobik dan bakteri, membuat daun menjadi hitam dan berlendir dalam dua hari. Simpan dalam kondisi kering dan cucilah tepat sebelum dimasak."
+          },
+          {
+            "question": "Bagaimana cara merebus sebentar (blanching) dan membekukan bayam untuk penyimpanan jangka panjang?",
+            "answer": "Rebus bayam mentah dalam air mendidih bergaram selama 30 detik, lalu segera masukkan ke dalam air es untuk menghentikan proses memasak. Peras lembut 80% airnya (biarkan sedikit lembap agar tidak kering saat dibekukan), bagi menjadi porsi sekali makan, lalu simpan dalam kantong Ziploc freezer (-18°C) hingga 6 bulan."
+          }
+        ]
+      }
     }
+  }
 }

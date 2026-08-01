@@ -1,406 +1,406 @@
 {
-    "how-to-store-pumpkin": {
-        "ingId": "pumpkin",
-        "pubDate": "2026-06-08",
-        "updatedDate": "2026-06-08",
-        "heroImage": "/images/blog/pumpkin_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "단호박·호박 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 단호박 및 호박의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
-                "intro": "단단하고 단맛이 깊은 단호박이나 호박을 사 왔는데, 얼마 지나지 않아 꼭지부터 곰팡이가 피거나 자른 단면이 하얗게 마르고 물러 버려본 경험 다들 있으시죠? 🎃\n\n호박류는 껍질이 단단해 장기 보관이 가능한 대표적인 구황 작물이지만, 습도와 온도에 매우 민감합니다. 자르지 않은 통호박은 습기가 차면 꼭지부터 미생물이 침입해 쉽게 부패하며, 반대로 잘라낸 호박은 내부의 씨와 속을 제거하지 않고 보관하면 수분과 씨앗 부위에서 세균성 무름병이 급격히 일어납니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 호박의 달콤한 풍미와 밤 같은 식감을 최대 3개월 동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "통호박을 절대로 냉장고에 보관하지 마세요 ⚠️",
-                        "desc": "자르지 않은 통호박의 최적 보관 온도는 10~15℃입니다. 일반 냉장실(0~4℃)의 차가운 습기에 노출되면 냉해(Chilling injury)를 입어 과육이 상하고 꼭지 주변에 곰팡이가 피기 쉽습니다."
-                    },
-                    {
-                        "title": "손질 시 내부 씨와 무른 속을 완전히 파내세요 🥄",
-                        "desc": "자른 호박을 보관할 때 내부의 씨와 무른 섬유질(속)을 그대로 두면 수분이 고이고 효소 작용이 일어나 수일 내에 곰팡이가 번식하고 과육이 물러집니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "[통호박] 꼭지 건조 후 10~15℃ 서늘한 상온 보관하기 — 적정 상온 보관 (1~2개월) ☀️",
-                        "text": "통호박은 통풍이 잘되고 서늘한 그늘이 최고의 보관 장소입니다. 💡 보관 팁: 흙을 가볍게 털어낸 통호박을 신문지나 키친타월 위에 꼭지가 위로 향하게 두세요. 통풍이 잘되는 10~15℃ 찬장에 두면 후숙되어 당도가 더욱 높아집니다."
-                    },
-                    {
-                        "name": "[손질 호박] 씨와 속을 파낸 후 랩으로 감싸 냉장 보관하기 — 냉장 보관 (7~10일) 📦",
-                        "text": "호박을 자르는 순간부터 공기 노출로 인한 수분 손실과 산화가 시작됩니다. 💡 보관 팁: 숟가락으로 내부 씨와 무른 속을 깨끗이 긁어낸 뒤, 단면에 물기를 닦아내고 식품용 랩으로 공기 없이 꽁꽁 감싸 냉장고 야채칸(5~8℃)에 보관하세요."
-                    },
-                    {
-                        "name": "[장기 보관] 살짝 찌거나 썰어서 밀폐 후 냉동 보관하기 — 냉동 보관 (3개월 이상) ❄️",
-                        "text": "호박을 오래 두고 먹는 가장 완벽한 방법은 살짝 가열 후 얼리는 것입니다. 💡 보관 팁: 껍질을 깨끗이 씻어 전자레인지나 찜기에 살짝 익힌 뒤 한 입 크기로 썰어 완전히 식히고, 지퍼백에 소분하여 냉동실(-18℃ 이하)에 보관하세요."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "단호박 꼭지에 하얀 가루나 피막이 생겼는데 먹어도 되나요?",
-                        "answer": "꼭지 부위가 단단하게 마르면서 생기는 하얀 결정은 호박이 익어가며 수분이 날아가 당도가 올라가는 건조 현상일 수 있습니다. 다만 실처럼 피어나는 곰팡이거나 냄새가 시큼하다면 꼭지 주변 과육을 넓게 도려내거나 부패가 심할 경우 폐기해야 합니다."
-                    },
-                    {
-                        "question": "단호박 껍질을 쉽게 벗기거나 손질하는 꿀팁이 있나요?",
-                        "answer": "단호박은 매우 단단해 칼로 자르다 손을 다치기 쉽습니다. 깨끗이 씻은 단호박을 통째로 전자레인지에 넣고 2~3분간 돌려주면 겉면이 살짝 부드러워져 손쉽게 칼로 자르고 껍질을 벗길 수 있습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Pumpkin & Squash Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for pumpkin and squash based on official safety guidelines.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Have you ever bought a firm, sweet pumpkin or squash, only to find mold growing from the stem or the cut surfaces drying out and spoiling in the fridge? 🎃\n\nPumpkins and hard squashes have thick skins ideal for long-term storage, but they are highly sensitive to temperature and moisture. Whole pumpkins stored in humid or overly cold conditions develop stem rot, while cut pumpkins left with their seeds and pulpy centers deteriorate within days due to bacterial soft rot.\n\nIn this guide, introduces a scientifically proven 3-step storage guide recommended by agriculture and food safety experts to preserve sweet flavor and dense texture for up to 3 months. 🛡️",
-                "whyTitle": "Why Store Pumpkin This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never store whole, uncut pumpkins in the refrigerator ⚠️",
-                        "desc": "The optimal storage temperature for whole pumpkins is 10–15°C (50–59°F). Exposing them to cold, humid refrigerator air (0–4°C) causes chilling injury, leading to rapid decay and mold growth around the stem."
-                    },
-                    {
-                        "title": "Scoop out all seeds and fibrous pulp before storing cut pieces 🥄",
-                        "desc": "The moist inner cavity containing seeds and pulp is prone to rapid microbial growth. Leaving the seeds attached causes cut pumpkin pieces to turn soft, slimy, and moldy within a few days."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "[Whole] Store upright in a cool, dry place at 10–15°C — Optimal Pantry Storage (1–2 Months) ☀️",
-                        "text": "Whole pumpkins thrive in dark, well-ventilated room temperature environments. 💡 Storage Tip: Wipe off dry dirt and place the pumpkin stem-side up on newspaper or cardboard in a cool cabinet (10–15°C / 50–59°F). Curing at room temperature enhances sweetness."
-                    },
-                    {
-                        "name": "[Cut] Scoop seeds, wrap in plastic wrap, and refrigerate — Cold Storage (7–10 Days) 📦",
-                        "text": "Exposed flesh oxidizes and loses moisture rapidly upon cutting. 💡 Storage Tip: Thoroughly scrape out seeds and pulp with a spoon, pat the cut surface dry with paper towels, wrap tightly with plastic wrap without air pockets, and store in the crisper drawer (5–8°C)."
-                    },
-                    {
-                        "name": "[Long-Term] Steam/slice and freeze — Frozen Storage (3+ Months) ❄️",
-                        "text": "Pre-cooking before freezing preserves flavor and prevents waterlogging upon thawing. 💡 Storage Tip: Microwave or steam sliced pumpkin briefly until slightly tender, let cool completely, portion into Ziploc freezer bags, and store below -18°C (-0.4°F)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "My pumpkin stem turned white or powdery. Is it still safe to eat?",
-                        "answer": "A dry, powdery white film on a hardened stem is often a natural sign of curing and sugar concentration as moisture evaporates. However, if it looks like fuzzy mold or smells sour, cut away a generous portion around the stem or discard the pumpkin if soft rot has spread."
-                    },
-                    {
-                        "question": "Is there a trick to safely cutting hard pumpkins or kabocha squash?",
-                        "answer": "Hard squashes can be difficult and dangerous to slice raw. Microwaving a clean, whole pumpkin for 2–3 minutes softens the outer rind just enough, allowing a knife to slice through smoothly without slipping."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "カボチャを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくカボチャの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "固く甘みのあるカボチャ（ホクホクかぼちゃ等）を買ってきたのに、しばらくするとヘタからカビが生えたり、カットした断面が干からびて傷んでしまった経験はありませんか？🎃\n\nカボチャ類は皮が硬く長期保存に向いた食材ですが、湿度と温度に非常に敏感です。丸ごとのカボチャは湿気がこもるとヘタから雑菌が侵入して腐敗しやすく、カットしたカボチャは種やワタを残したまま保存すると、その水分から傷みが急激に進みます。\n\n本記事では、農学および食品安全の専門家が推奨する、カボチャのホクホク感と甘みを最大3ヶ月間キープする3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "丸ごとのカボチャを絶対に冷蔵庫で保存しないでください ⚠️",
-                        "desc": "丸ごと保存する際の最適温度は10〜15℃です。冷蔵室（0〜4℃）の冷気や湿気に晒されると低温障害を起こし、果肉が傷んでヘタ周辺にカビが発生しやすくなります。"
-                    },
-                    {
-                        "title": "カット保存時はスプーンで種とワタを完全にくり抜いてください 🥄",
-                        "desc": "カットしたカボチャの種やワタ（繊維質）は水分が多く傷みやすい部分です。残したまま保存すると数日でカビや傷みが発生する原因になります。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "[丸ごと] ヘタを乾燥させ10〜15℃の涼しい常温で保存する — 最適な常温保存 (1〜2ヶ月間) ☀️",
-                        "text": "丸ごとのカボチャは風通しの良い涼しい日陰が最高の保管場所です。💡保存のコツ：汚れを払い、ヘタを上にして新聞紙や敷物の上に置きます。10〜15℃の風通しの良い戸棚で保存すると「追熟」が進んで甘みが増します。"
-                    },
-                    {
-                        "name": "[カット時] 種とワタを取り除きラップで包んで冷蔵保存する — 冷蔵保存 (7〜10日間) 📦",
-                        "text": "カボチャを切った瞬間から空気に触れて乾燥と酸化が始まります。💡保存のコツ：スプーンで種とワタをきれいに取り除き、断面の水分を拭き取ってからラップで隙間なくぴったり包み、冷蔵庫の野菜室（5〜8℃）で保存します。"
-                    },
-                    {
-                        "name": "[長期保存] 軽く加熱（蒸す・レンジ）してカットし冷凍保存する — 長期保存 (3ヶ月以上) ❄️",
-                        "text": "長期間美味しさを保つ最も確実な方法は、軽く加熱してから冷凍することです。💡保存のコツ：レンジや蒸し器で軽く加熱して柔らかくしてから一口大に切り、冷ましてからジッパーバッグに入れて冷凍室（-18℃以下）で保存します。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "カボチャのヘタに白い粉や結晶のようなものがついていますが食べられますか？",
-                        "answer": "ヘタが乾燥して固まる際に糖分や水分が結晶化する現象であれば問題ありません。ただし、綿状のカビであったり酸っぱいニオイがする場合は、ヘタの周りの果肉を大きく削り落とすか、傷みが激しい場合は廃棄してください。"
-                    },
-                    {
-                        "question": "硬いカボチャを安全にカットする裏ワザはありますか？",
-                        "answer": "カボチャは硬いため生で包丁を入れると滑って危険です。よく洗ったカボチャを丸ごと電子レンジ（600W）で2〜3分加熱すると皮が適度に柔らかくなり、楽に包丁が入って安全にカットできます。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持南瓜/贝贝南瓜新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解南瓜及贝贝南瓜的最佳储存温度、方式和保鲜时长。",
-                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "您是否买回质地紧实、口感面甜的南瓜，放了没多久却发现蒂头发霉，或者切开后断面干枯软烂？🎃\n\n南瓜表皮坚硬，是极具代表性的耐储存食材，但它对温度和湿度非常敏感。整颗未切的南瓜若处于潮湿或过冷的环境中，蒂头极易入侵细菌发生腐烂；而切开后的南瓜如果保留内部的瓜瓤与瓜籽，积聚的水分会导致细菌性软腐病剧烈爆发。\n\n本指南将为您介绍由农业及食品安全专家推荐的3步科学南瓜保鲜秘诀，帮您锁定南瓜香甜软糯的粉面口感长达3个月。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "切勿将整颗未切的南瓜放入冰箱冷藏 ⚠️",
-                        "desc": "整颗南瓜的最佳适温为10~15℃。暴露于普通冷藏室（0~4℃）的高湿冷气中会引发冷害（Chilling injury），导致瓜肉受损并在瓜蒂周围滋生霉菌。"
-                    },
-                    {
-                        "title": "切开保存时务必用勺子彻底掏净内部瓜籽与瓜瓤 🥄",
-                        "desc": "切开南瓜保存时，若残留内部含水量极高的瓜籽与纤维瓜瓤，极易在数天内滋生霉菌并导致瓜肉软烂变质。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "[整颗] 保持瓜蒂干燥，置于10~15℃阴凉常温处 — 适温常温保存 (1~2个月) ☀️",
-                        "text": "通风良好且阴凉的常温环境是整南瓜的最佳避风港。💡储存小贴士：擦干表皮泥土，将南瓜蒂头朝上摆放在垫有报纸的干燥通风橱柜（10~15℃）中，糖化后口感更甜。"
-                    },
-                    {
-                        "name": "[切块] 掏净瓜瓤瓜籽后用保鲜膜紧密包裹冷藏 — 冷藏保存 (7~10天) 📦",
-                        "text": "南瓜切开后接触空气会迅速失水并氧化。💡储存小贴士：用勺子彻底刮净内部瓜籽和软瓤，用纸巾擦干切面，再用食品级保鲜膜无缝贴合裹紧，放入冰箱蔬菜抽屉（5~8℃）保存。"
-                    },
-                    {
-                        "name": "[长期保存] 蒸熟或切块后密封冷冻 — 冷冻保存 (3个月以上) ❄️",
-                        "text": "加热熟化后冷冻是长久保存南瓜风味的最佳方式。💡储存小贴士：洗净切块后用微波炉或蒸锅稍加加热至半熟，完全晾凉后装入密封拉链袋放入冷冻室（-18℃以下）保存。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "南瓜蒂头上长了白粉，还能吃吗？",
-                        "answer": "如果是瓜蒂变干风干过程中析出的白色糖分结晶，属于正常自然现象。但如果是毛茸茸的霉菌丝或伴有酸腐味，则需要大面积切除蒂头周边瓜肉；若内部已腐烂变软则须整体丢弃。"
-                    },
-                    {
-                        "question": "硬邦邦的南瓜有什么轻松去皮和切块的小窍门吗？",
-                        "answer": "生南瓜质地坚硬，直接用刀切容易滑刀伤手。将洗净的整颗南瓜放入微波炉高火加热2~3分钟，表皮微软后即可轻松用刀切开并去皮。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener la calabaza fresca: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la calabaza según las directrices oficiales de seguridad.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "¿Alguna vez compró una calabaza firme y dulce solo para descubrir que el tallo desarrolló moho o que las partes cortadas se secaban y echaban a perder en el refrigerador? 🎃\n\nLas calabazas tienen pieles gruesas ideales para el almacenamiento prolongado, pero son muy sensibles a la temperatura y la humedad. Las calabazas enteras almacenadas en ambientes fríos y húmedos sufren pudrición del tallo, mientras que la calabaza cortada se deteriora en pocos días si no se retiran las semillas y la pulpa interior.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria para conservar su sabor dulce y textura densa hasta por 3 meses. 🛡️",
-                "whyTitle": "¿Por qué almacenarla así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Nunca guarde calabazas enteras sin cortar en el refrigerador ⚠️",
-                        "desc": "La temperatura óptima para la calabaza entera es de 10 a 15 °C. Exponerla al aire frío y húmedo del refrigerador (0–4 °C) causa daño por frío (chilling injury), provocando deterioro rápido y moho en el tallo."
-                    },
-                    {
-                        "title": "Retire todas las semillas y pulpa con una cuchara antes de guardar pedazos cortados 🥄",
-                        "desc": "La cavidad interna húmeda que contiene semillas es propensa a la rápida proliferación de bacterias. Dejar las semillas provoca que los trozos cortados se vuelvan viscosos y mohosos en pocos días."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "[Entera] Guarde en un lugar fresco y seco a 10–15 °C — Almacenamiento óptimo en alacena (1 a 2 meses) ☀️",
-                        "text": "La calabaza entera se conserva mejor en ambientes oscuros y bien ventilados. 💡 Consejo de almacenamiento: Limpie el polvo y colóquela con el tallo hacia arriba sobre papel en un armario fresco (10–15 °C)."
-                    },
-                    {
-                        "name": "[Cortada] Retire las semillas, envuelva en film transparente y refrigere — Almacenamiento refrigerado (7 a 10 días) 📦",
-                        "text": "La pulpa expuesta se oxida y pierde humedad rápidamente al cortarse. 💡 Consejo de almacenamiento: Retire las semillas y pulpa con una cuchara, seque la superficie con papel de cocina, envuelva firmemente con film plástico y guarde en el cajón de verduras (5–8 °C)."
-                    },
-                    {
-                        "name": "[Largo plazo] Cocine al vapor/corte y congele — Almacenamiento congelado (3+ meses) ❄️",
-                        "text": "Precocinar antes de congelar preserva el sabor y evita que quede aguada al descongelar. 💡 Consejo de almacenamiento: Cocine al vapor o en microondas brevemente, deje enfriar completamente, porcione en bolsas Ziploc y congele a menos de -18 °C."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "El tallo de mi calabaza tiene una capa blanca. ¿Aún se puede comer?",
-                        "answer": "Una capa blanca seca y harinosa en un tallo duro suele ser una señal natural de secado y concentración de azúcar. Sin embargo, si es moho esponjoso o huele agrio, corte una porción amplia alrededor del tallo o deséchela si la pulpa blanda se ha extendido."
-                    },
-                    {
-                        "question": "¿Hay algún truco para cortar fácilmente una calabaza dura o kabocha?",
-                        "answer": "Las calabazas duras pueden ser difíciles de cortar crudas. Calentar la calabaza limpia entera en el microondas durante 2 o 3 minutos suavizará la cáscara lo suficiente para cortarla con seguridad."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver le potiron et la courge frais : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le potiron et la courge selon les directives officielles de sécurité.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Avez-vous déjà acheté une courge ou un potiron bien ferme pour constater que son pédoncule moisissait ou que ses tranches séchaient et pourrissaient au réfrigérateur ? 🎃\n\nLes courges et potirons possèdent une peau épaisse idéale pour une longue conservation, mais ils sont très sensibles à la température et à l'humidité. Les potirons entiers stockés dans un environnement froid et humide développent de la moisissure au niveau de la tige, tandis que les morceaux coupés laissés avec leurs graines s'altèrent en quelques jours.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts pour préserver la saveur douce et la texture dense de vos courges jusqu'à 3 mois. 🛡️",
-                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne conservez jamais un potiron entier non coupé au réfrigérateur ⚠️",
-                        "desc": "La température optimale de conservation d'un potiron entier est de 10 à 15 °C. L'exposer à l'air froid et humide du réfrigérateur (0–4 °C) provoque des dégâts dus au froid (chilling injury) et fait moisir la tige."
-                    },
-                    {
-                        "title": "Retirez toutes les graines et la pulpe fibreuse avant de stocker les morceaux 🥄",
-                        "desc": "La cavité interne humide contenant graines et fibres est un foyer de développement bactérien. Laisser les graines fait mûrir et moisir les morceaux coupés en quelques jours."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "[Entier] Conserver debout dans un endroit frais et sec (10–15 °C) — Stockage optimal en placard (1 à 2 mois) ☀️",
-                        "text": "Le potiron entier se conserve parfaitement dans un endroit sombre et bien ventilé. 💡 Astuce de conservation : Essuyez la terre et posez le potiron tige vers le haut sur du papier dans un placard frais (10–15 °C)."
-                    },
-                    {
-                        "name": "[Coupé] Vider les graines, envelopper dans du film plastique et réfrigérer — Stockage frais (7 à 10 jours) 📦",
-                        "text": "Une fois coupée, la chair s'oxyde et perd son eau rapidement à l'air. 💡 Astuce de conservation : Grattez soigneusement les graines avec une cuillère, épongez la surface, enveloppez fermement dans du film étirable et placez dans le bac à légumes (5–8 °C)."
-                    },
-                    {
-                        "name": "[Longue durée] Cuire à la vapeur/couper et congeler — Stockage congelé (3 mois et plus) ❄️",
-                        "text": "Précuire avant de congeler préserve la saveur et évite que la chair ne devienne spongieuse à la décongélation. 💡 Astuce de conservation : Faites cuire rapidement les morceaux à la vapeur ou au micro-ondes, laissez refroidir, répartissez dans des sacs Ziploc et congelez (-18 °C)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Le pédoncule de mon potiron est devenu blanc et poudreux. Est-il encore propre à la consommation ?",
-                        "answer": "Une pellicule blanche et sèche sur un pédoncule dur est souvent un signe naturel de séchage et de concentration des sucres. Cependant, s'il s'agit d'un moisissure duveteuse ou s'il dégage une odeur aigre, coupez largement autour de la tige ou jetez le potiron si le ramollissement a gagné la chair."
-                    },
-                    {
-                        "question": "Existe-t-il une astuce pour découper facilement un potiron très dur ?",
-                        "answer": "Les courges très dures sont difficiles et dangereuses à couper crues. Passer le potiron propre entier pendant 2 à 3 minutes au micro-ondes ramollit légèrement l'écorce, permettant à la lame de glisser en toute sécurité."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Kürbis richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Kürbis basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Haben Sie schon einmal einen festen, süßen Kürbis (z. B. Hokkaido) gekauft, nur um festzustellen, dass der Stiel schimmelte oder die Schnittflächen im Kühlschrank austrockneten? 🎃\n\nKürbisse besitzen eine dicke Schale, die ideal für die Langzeitlagerung ist, reagieren jedoch extrem sensibel auf Temperatur und Feuchtigkeit. Ganze Kürbisse, die zu kalt oder feucht gelagert werden, erleiden Stielfäule. Anschnitte verfaulen innerhalb weniger Tage, wenn Kerne und das feuchte Innenleben nicht entfernt werden.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um Geschmack und Textur Ihres Kürbisses bis zu 3 Monate zu bewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Ganze Kürbisse niemals im Kühlschrank lagern ⚠️",
-                        "desc": "Die optimale Lagertemperatur für ganze Kürbisse liegt bei 10–15 °C. Kühle Kühlschrankluft (0–4 °C) führt zu Kälteschäden (Chilling Injury), wodurch der Kürbis rasch verfault und am Stiel Schimmel ansetzt."
-                    },
-                    {
-                        "title": "Aushöhlen: Kerne und Fasern vor dem Lagern von Anschnitten komplett entfernen 🥄",
-                        "desc": "Das feuchte Innere mit den Samen ist ein Nährboden für Bakterien. Werden die Samen an den Kürbisstücken belassen, werden diese innerhalb weniger Tage schmierig und schimmelig."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "[Ganz] Aufrecht bei 10–15 °C kühl und trocken lagern — Optimale Vorratslagerung (1–2 Monate) ☀️",
-                        "text": "Ganze Kürbisse gedeihen am besten an dunklen, gut belüfteten Orten bei Raumtemperatur. 💡 Lagerungstipp: Kürbis trocken abreiben und mit dem Stiel nach oben auf Papier in einen kühlen Schrank (10–15 °C) stellen."
-                    },
-                    {
-                        "name": "[Angeschnitten] Kerne aushöhlen, in Folie wickeln und kühlen — Kühllagerung (7–10 Tage) 📦",
-                        "text": "Offenes Fruchtfleisch oxidiert an der Luft und verliert schnell Feuchtigkeit. 💡 Lagerungstipp: Kerne und Fasern gründlich mit einem Löffel herausschaben, Schnittfläche trocken tupfen, eng in Frischhaltefolie wickeln und im Gemüsefach (5–8 °C) aufbewahren."
-                    },
-                    {
-                        "name": "[Langzeit] Dämpfen/Schneiden und einfrieren — Gefrierlagerung (3+ Monate) ❄️",
-                        "text": "Das AnGaren vor dem Einfrieren bewahrt den Geschmack und verhindert Wässrigkeit nach dem Auftauen. 💡 Lagerungstipp: Kürbisstücke kurz dämpfen oder mikrowellen, abkühlen lassen, in Ziploc-Beutel füllen und bei unter -18 °C einfrieren."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Der Stiel meines Kürbisses hat einen weißen Belag. Ist er noch essbar?",
-                        "answer": "Ein trockener, mehliger weißer Belag auf einem harten Stiel ist oft ein natürliches Zeichen des Trocknungs- und Nachreifeprozesses. Ist es jedoch schimmeliger Flaum oder riecht es sauer, schneiden Sie den Bereich großzügig ab oder entsorgen Sie den Kürbis bei weichem Fruchtfleisch."
-                    },
-                    {
-                        "question": "Gibt es einen Trick, um harte Kürbisse leicht und sicher zu schneiden?",
-                        "answer": "Harte Kürbisse lassen sich roh nur schwer schneiden. Wenn Sie den sauberen, ganzen Kürbis 2–3 Minuten in die Mikrowelle geben, wird die Schale leicht weich und das Messer gleitet mühelos und sicher hindurch."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar abóbora fresca: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para a abóbora com base em diretrizes oficiais de segurança.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Você já comprou uma abóbora firme e adocicada e descobriu depois que o cabo mofou ou que as partes cortadas ressecaram e estragaram na geladeira? 🎃\n\nAs abóboras possuem casca espessa ideal para conservação prolongada, mas são muito sensíveis à temperatura e umidade. Abóboras inteiras guardadas no frio excessivo sofrem podridão do talo, enquanto pedaços cortados guardados com sementes e miolo estragam em poucos dias.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas recomendado por especialistas para manter o sabor adocicado e a textura da sua abóbora por até 3 meses. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca guarde abóboras inteiras e sem cortar na geladeira ⚠️",
-                        "desc": "A temperatura ideal para a abóbora inteira é de 10 a 15 °C. Expô-la ao ar frio e úmido da geladeira (0–4 °C) causa danos por frio (chilling injury), acelerando a podridão e mofo no talo."
-                    },
-                    {
-                        "title": "Retire todas as sementes e a polpa fibrosa antes de guardar pedaços cortados 🥄",
-                        "desc": "A cavidade interna úmida que contém sementes é propensa à proliferação de bactérias. Deixar as sementes faz com que os pedaços fiquem viscosos e mofados em poucos dias."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "[Inteira] Guarde em local fresco e seco a 10–15 °C — Armazenamento ideal no armário (1 a 2 meses) ☀️",
-                        "text": "A abóbora inteira conserva-se melhor em locais escuros e bem ventilados. 💡 Dica de conservação: Limpe o pó e coloque-a com o talo para cima sobre papel em um armário fresco (10–15 °C)."
-                    },
-                    {
-                        "name": "[Cortada] Retire as sementes, envolva em filme plástico e refrigere — Refrigeração (7 a 10 dias) 📦",
-                        "text": "A polpa exposta oxida e perde umidade rapidamente ao ser cortada. 💡 Dica de conservação: Retire as sementes e a polpa com uma colher, seque a superfície com papel-toalha, envolva firmemente em filme plástico e guarde na gaveta de legumes (5–8 °C)."
-                    },
-                    {
-                        "name": "[Longo prazo] Cozinhe no vapor/corte e congele — Conservação congelada (3+ meses) ❄️",
-                        "text": "Cozinhar levemente antes de congelar preserva o sabor e evita que fique empapada ao descongelar. 💡 Dica de conservação: Cozinhe no vapor ou micro-ondas brevemente, espere esfriar, divida em sacos Ziploc e congele a menos de -18 °C."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "O talo da minha abóbora ficou esbranquiçado. Ainda é seguro comer?",
-                        "answer": "Uma película branca e seca em um talo duro costuma ser um sinal natural de secagem e concentração de açúcares. Porém, se for um mofo macio ou cheirar azedo, corte uma parte generosa ao redor do talo ou descarte se a polpa estiver mole."
-                    },
-                    {
-                        "question": "Existe algum truque para cortar facilmente uma abóbora dura?",
-                        "answer": "Abóboras duras podem ser difíceis e perigosas de cortar cruas. Aquecer a abóbora inteira e limpa no micro-ondas por 2 a 3 minutos amolecerá a casca o suficiente para cortá-la com segurança."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Labu Kuning / Labu Parang agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk labu kuning berdasarkan pedoman keselamatan resmi.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Pernahkah Anda membeli labu kuning yang padat dan manis, lalu mendapati tangkainya berjamur atau bagian potongannya mengering dan membusuk di kulkas? 🎃\n\nLabu kuning memiliki kulit tebal yang ideal untuk penyimpanan jangka panjang, namun sangat sensitif terhadap suhu dan kelembapan. Labu utuh yang disimpan di tempat yang terlalu dingin atau lembap akan mengalami pembusukan tangkai, sedangkan labu potong yang disimpan bersama bijinya akan cepat membusuk karena bakteri.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli pertanian untuk menjaga rasa manis dan tekstur padat labu Anda hingga 3 bulan. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan pernah menyimpan labu utuh yang belum dipotong di dalam kulkas ⚠️",
-                        "desc": "Suhu penyimpanan optimal untuk labu utuh adalah 10–15°C. Memaparkannya pada udara kulkas yang dingin dan lembap (0–4°C) menyebabkan kerusakan akibat suhu dingin (chilling injury) dan memicu jamur pada tangkai."
-                    },
-                    {
-                        "title": "Keruk habis semua biji dan serabut bagian dalam sebelum menyimpan labu potong 🥄",
-                        "desc": "Rongga dalam yang lembap dan berisi biji adalah tempat favorit bagi pertumbuhan bakteri. Membiarkan biji menempel menyebabkan potongan labu menjadi berlendir dan berjamur dalam beberapa hari."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "[Utuh] Simpan berdiri di tempat sejuk dan kering pada suhu 10–15°C — Simpan Lemari Optimal (1–2 Bulan) ☀️",
-                        "text": "Labu utuh paling awet disimpan di lingkungan suhu ruang yang gelap dan berventilasi baik. 💡 Tips Penyimpanan: Bersihkan kotoran kering lalu letakkan labu dengan posisi tangkai di atas kertas di lemari sejuk (10–15°C)."
-                    },
-                    {
-                        "name": "[Potong] Keruk biji, bungkus rapat dengan plastik wrap, lalu simpan di kulkas — Simpan Dingin (7–10 Hari) 📦",
-                        "text": "Daging labu yang terbuka cepat teroksidasi dan kehilangan air setelah dipotong. 💡 Tips Penyimpanan: Bersihkan biji dan serabut dengan sendok, keringkan permukaan dengan tisu dapur, bungkus rapat dengan plastik wrap, lalu simpan di laci sayur kulkas (5–8°C)."
-                    },
-                    {
-                        "name": "[Jangka Panjang] Kukus/potong lalu bekukan — Simpan Beku (3+ Bulan) ❄️",
-                        "text": "Memasak sebentar sebelum dibekukan menjaga rasa dan mencegah labu menjadi berair saat dicairkan. 💡 Tips Penyimpanan: Kukus atau panaskan potongan labu dalam mikrowave sebentar, biarkan dingin sempurna, bagi ke dalam kantong Ziploc lalu simpan di freezer (-18°C)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Tangkai labu saya berubah menjadi putih berbubuk. Apakah masih aman dimakan?",
-                        "answer": "Lapisan putih kering berbubuk pada tangkai yang keras sering kali merupakan tanda alami pengeringan dan konsentrasi gula. Namun jika berupa serabut jamur atau berbau asam, potong bagian disekitar tangkai secara lebar atau buang labu jika dagingnya sudah lembek membusuk."
-                    },
-                    {
-                        "question": "Apakah ada trik untuk memotong labu kuning yang keras dengan mudah dan aman?",
-                        "answer": "Labu yang keras sangat sulit dan berbahaya jika dipotong mentah-mentah. Masukkan labu utuh yang sudah dicuci ke dalam mikrowave selama 2–3 menit untuk melunakkan kulit luarnya, sehingga pisau dapat memotongnya dengan mudah dan aman."
-                    }
-                ]
-            }
-        }
+  "how-to-store-pumpkin": {
+    "ingId": "pumpkin",
+    "pubDate": "2026-06-08",
+    "updatedDate": "2026-06-08",
+    "heroImage": "/images/blog/pumpkin_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "단호박·호박 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 단호박 및 호박의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+        "intro": "단단하고 단맛이 깊은 단호박이나 호박을 사 왔는데, 얼마 지나지 않아 꼭지부터 곰팡이가 피거나 자른 단면이 하얗게 마르고 물러 버려본 경험 다들 있으시죠? 🎃\n\n호박류는 껍질이 단단해 장기 보관이 가능한 대표적인 구황 작물이지만, 습도와 온도에 매우 민감합니다. 자르지 않은 통호박은 습기가 차면 꼭지부터 미생물이 침입해 쉽게 부패하며, 반대로 잘라낸 호박은 내부의 씨와 속을 제거하지 않고 보관하면 수분과 씨앗 부위에서 세균성 무름병이 급격히 일어납니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 호박의 달콤한 풍미와 밤 같은 식감을 최대 3개월 동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "통호박을 절대로 냉장고에 보관하지 마세요 ⚠️",
+            "desc": "자르지 않은 통호박의 최적 보관 온도는 10~15℃입니다. 일반 냉장실(0~4℃)의 차가운 습기에 노출되면 냉해(Chilling injury)를 입어 과육이 상하고 꼭지 주변에 곰팡이가 피기 쉽습니다."
+          },
+          {
+            "title": "손질 시 내부 씨와 무른 속을 완전히 파내세요 🥄",
+            "desc": "자른 호박을 보관할 때 내부의 씨와 무른 섬유질(속)을 그대로 두면 수분이 고이고 효소 작용이 일어나 수일 내에 곰팡이가 번식하고 과육이 물러집니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "[통호박] 꼭지 건조 후 10~15℃ 서늘한 상온 보관하기 — 적정 상온 보관 (1~2개월) ☀️",
+            "text": "통호박은 통풍이 잘되고 서늘한 그늘이 최고의 보관 장소입니다. 💡 보관 팁: 흙을 가볍게 털어낸 통호박을 신문지나 키친타월 위에 꼭지가 위로 향하게 두세요. 통풍이 잘되는 10~15℃ 찬장에 두면 후숙되어 당도가 더욱 높아집니다."
+          },
+          {
+            "name": "[손질 호박] 씨와 속을 파낸 후 랩으로 감싸 냉장 보관하기 — 냉장 보관 (7~10일) 📦",
+            "text": "호박을 자르는 순간부터 공기 노출로 인한 수분 손실과 산화가 시작됩니다. 💡 보관 팁: 숟가락으로 내부 씨와 무른 속을 깨끗이 긁어낸 뒤, 단면에 물기를 닦아내고 식품용 랩으로 공기 없이 꽁꽁 감싸 냉장고 야채칸(5~8℃)에 보관하세요."
+          },
+          {
+            "name": "[장기 보관] 살짝 찌거나 썰어서 밀폐 후 냉동 보관하기 — 냉동 보관 (3개월 이상) ❄️",
+            "text": "호박을 오래 두고 먹는 가장 완벽한 방법은 살짝 가열 후 얼리는 것입니다. 💡 보관 팁: 껍질을 깨끗이 씻어 전자레인지나 찜기에 살짝 익힌 뒤 한 입 크기로 썰어 완전히 식히고, 지퍼백에 소분하여 냉동실(-18℃ 이하)에 보관하세요."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "단호박 꼭지에 하얀 가루나 피막이 생겼는데 먹어도 되나요?",
+            "answer": "꼭지 부위가 단단하게 마르면서 생기는 하얀 결정은 호박이 익어가며 수분이 날아가 당도가 올라가는 건조 현상일 수 있습니다. 다만 실처럼 피어나는 곰팡이거나 냄새가 시큼하다면 꼭지 주변 과육을 넓게 도려내거나 부패가 심할 경우 폐기해야 합니다."
+          },
+          {
+            "question": "단호박 껍질을 쉽게 벗기거나 손질하는 꿀팁이 있나요?",
+            "answer": "단호박은 매우 단단해 칼로 자르다 손을 다치기 쉽습니다. 깨끗이 씻은 단호박을 통째로 전자레인지에 넣고 2~3분간 돌려주면 겉면이 살짝 부드러워져 손쉽게 칼로 자르고 껍질을 벗길 수 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Pumpkin & Squash Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for pumpkin and squash based on official safety guidelines.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Have you ever bought a firm, sweet pumpkin or squash, only to find mold growing from the stem or the cut surfaces drying out and spoiling in the fridge? 🎃\n\nPumpkins and hard squashes have thick skins ideal for long-term storage, but they are highly sensitive to temperature and moisture. Whole pumpkins stored in humid or overly cold conditions develop stem rot, while cut pumpkins left with their seeds and pulpy centers deteriorate within days due to bacterial soft rot.\n\nIn this guide, introduces a scientifically proven 3-step storage guide recommended by agriculture and food safety experts to preserve sweet flavor and dense texture for up to 3 months. 🛡️",
+        "whyTitle": "Why Store Pumpkin This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never store whole, uncut pumpkins in the refrigerator ⚠️",
+            "desc": "The optimal storage temperature for whole pumpkins is 10–15°C (50–59°F). Exposing them to cold, humid refrigerator air (0–4°C) causes chilling injury, leading to rapid decay and mold growth around the stem."
+          },
+          {
+            "title": "Scoop out all seeds and fibrous pulp before storing cut pieces 🥄",
+            "desc": "The moist inner cavity containing seeds and pulp is prone to rapid microbial growth. Leaving the seeds attached causes cut pumpkin pieces to turn soft, slimy, and moldy within a few days."
+          }
+        ],
+        "steps": [
+          {
+            "name": "[Whole] Store upright in a cool, dry place at 10–15°C — Optimal Pantry Storage (1–2 Months) ☀️",
+            "text": "Whole pumpkins thrive in dark, well-ventilated room temperature environments. 💡 Storage Tip: Wipe off dry dirt and place the pumpkin stem-side up on newspaper or cardboard in a cool cabinet (10–15°C / 50–59°F). Curing at room temperature enhances sweetness."
+          },
+          {
+            "name": "[Cut] Scoop seeds, wrap in plastic wrap, and refrigerate — Cold Storage (7–10 Days) 📦",
+            "text": "Exposed flesh oxidizes and loses moisture rapidly upon cutting. 💡 Storage Tip: Thoroughly scrape out seeds and pulp with a spoon, pat the cut surface dry with paper towels, wrap tightly with plastic wrap without air pockets, and store in the crisper drawer (5–8°C)."
+          },
+          {
+            "name": "[Long-Term] Steam/slice and freeze — Frozen Storage (3+ Months) ❄️",
+            "text": "Pre-cooking before freezing preserves flavor and prevents waterlogging upon thawing. 💡 Storage Tip: Microwave or steam sliced pumpkin briefly until slightly tender, let cool completely, portion into Ziploc freezer bags, and store below -18°C (-0.4°F)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "My pumpkin stem turned white or powdery. Is it still safe to eat?",
+            "answer": "A dry, powdery white film on a hardened stem is often a natural sign of curing and sugar concentration as moisture evaporates. However, if it looks like fuzzy mold or smells sour, cut away a generous portion around the stem or discard the pumpkin if soft rot has spread."
+          },
+          {
+            "question": "Is there a trick to safely cutting hard pumpkins or kabocha squash?",
+            "answer": "Hard squashes can be difficult and dangerous to slice raw. Microwaving a clean, whole pumpkin for 2–3 minutes softens the outer rind just enough, allowing a knife to slice through smoothly without slipping."
+          }
+        ]
+      },
+      "ja": {
+        "title": "カボチャを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくカボチャの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "固く甘みのあるカボチャ（ホクホクかぼちゃ等）を買ってきたのに、しばらくするとヘタからカビが生えたり、カットした断面が干からびて傷んでしまった経験はありませんか？🎃\n\nカボチャ類は皮が硬く長期保存に向いた食材ですが、湿度と温度に非常に敏感です。丸ごとのカボチャは湿気がこもるとヘタから雑菌が侵入して腐敗しやすく、カットしたカボチャは種やワタを残したまま保存すると、その水分から傷みが急激に進みます。\n\n本記事では、農学および食品安全の専門家が推奨する、カボチャのホクホク感と甘みを最大3ヶ月間キープする3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "丸ごとのカボチャを絶対に冷蔵庫で保存しないでください ⚠️",
+            "desc": "丸ごと保存する際の最適温度は10〜15℃です。冷蔵室（0〜4℃）の冷気や湿気に晒されると低温障害を起こし、果肉が傷んでヘタ周辺にカビが発生しやすくなります。"
+          },
+          {
+            "title": "カット保存時はスプーンで種とワタを完全にくり抜いてください 🥄",
+            "desc": "カットしたカボチャの種やワタ（繊維質）は水分が多く傷みやすい部分です。残したまま保存すると数日でカビや傷みが発生する原因になります。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "[丸ごと] ヘタを乾燥させ10〜15℃の涼しい常温で保存する — 最適な常温保存 (1〜2ヶ月間) ☀️",
+            "text": "丸ごとのカボチャは風通しの良い涼しい日陰が最高の保管場所です。💡保存のコツ：汚れを払い、ヘタを上にして新聞紙や敷物の上に置きます。10〜15℃の風通しの良い戸棚で保存すると「追熟」が進んで甘みが増します。"
+          },
+          {
+            "name": "[カット時] 種とワタを取り除きラップで包んで冷蔵保存する — 冷蔵保存 (7〜10日間) 📦",
+            "text": "カボチャを切った瞬間から空気に触れて乾燥と酸化が始まります。💡保存のコツ：スプーンで種とワタをきれいに取り除き、断面の水分を拭き取ってからラップで隙間なくぴったり包み、冷蔵庫の野菜室（5〜8℃）で保存します。"
+          },
+          {
+            "name": "[長期保存] 軽く加熱（蒸す・レンジ）してカットし冷凍保存する — 長期保存 (3ヶ月以上) ❄️",
+            "text": "長期間美味しさを保つ最も確実な方法は、軽く加熱してから冷凍することです。💡保存のコツ：レンジや蒸し器で軽く加熱して柔らかくしてから一口大に切り、冷ましてからジッパーバッグに入れて冷凍室（-18℃以下）で保存します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "カボチャのヘタに白い粉や結晶のようなものがついていますが食べられますか？",
+            "answer": "ヘタが乾燥して固まる際に糖分や水分が結晶化する現象であれば問題ありません。ただし、綿状のカビであったり酸っぱいニオイがする場合は、ヘタの周りの果肉を大きく削り落とすか、傷みが激しい場合は廃棄してください。"
+          },
+          {
+            "question": "硬いカボチャを安全にカットする裏ワザはありますか？",
+            "answer": "カボチャは硬いため生で包丁を入れると滑って危険です。よく洗ったカボチャを丸ごと電子レンジ（600W）で2〜3分加熱すると皮が適度に柔らかくなり、楽に包丁が入って安全にカットできます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持南瓜/贝贝南瓜新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解南瓜及贝贝南瓜的最佳储存温度、方式和保鲜时长。",
+        "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "您是否买回质地紧实、口感面甜的南瓜，放了没多久却发现蒂头发霉，或者切开后断面干枯软烂？🎃\n\n南瓜表皮坚硬，是极具代表性的耐储存食材，但它对温度和湿度非常敏感。整颗未切的南瓜若处于潮湿或过冷的环境中，蒂头极易入侵细菌发生腐烂；而切开后的南瓜如果保留内部的瓜瓤与瓜籽，积聚的水分会导致细菌性软腐病剧烈爆发。\n\n本指南将为您介绍由农业及食品安全专家推荐的3步科学南瓜保鲜秘诀，帮您锁定南瓜香甜软糯的粉面口感长达3个月。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "切勿将整颗未切的南瓜放入冰箱冷藏 ⚠️",
+            "desc": "整颗南瓜的最佳适温为10~15℃。暴露于普通冷藏室（0~4℃）的高湿冷气中会引发冷害（Chilling injury），导致瓜肉受损并在瓜蒂周围滋生霉菌。"
+          },
+          {
+            "title": "切开保存时务必用勺子彻底掏净内部瓜籽与瓜瓤 🥄",
+            "desc": "切开南瓜保存时，若残留内部含水量极高的瓜籽与纤维瓜瓤，极易在数天内滋生霉菌并导致瓜肉软烂变质。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "[整颗] 保持瓜蒂干燥，置于10~15℃阴凉常温处 — 适温常温保存 (1~2个月) ☀️",
+            "text": "通风良好且阴凉的常温环境是整南瓜的最佳避风港。💡储存小贴士：擦干表皮泥土，将南瓜蒂头朝上摆放在垫有报纸的干燥通风橱柜（10~15℃）中，糖化后口感更甜。"
+          },
+          {
+            "name": "[切块] 掏净瓜瓤瓜籽后用保鲜膜紧密包裹冷藏 — 冷藏保存 (7~10天) 📦",
+            "text": "南瓜切开后接触空气会迅速失水并氧化。💡储存小贴士：用勺子彻底刮净内部瓜籽和软瓤，用纸巾擦干切面，再用食品级保鲜膜无缝贴合裹紧，放入冰箱蔬菜抽屉（5~8℃）保存。"
+          },
+          {
+            "name": "[长期保存] 蒸熟或切块后密封冷冻 — 冷冻保存 (3个月以上) ❄️",
+            "text": "加热熟化后冷冻是长久保存南瓜风味的最佳方式。💡储存小贴士：洗净切块后用微波炉或蒸锅稍加加热至半熟，完全晾凉后装入密封拉链袋放入冷冻室（-18℃以下）保存。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "南瓜蒂头上长了白粉，还能吃吗？",
+            "answer": "如果是瓜蒂变干风干过程中析出的白色糖分结晶，属于正常自然现象。但如果是毛茸茸的霉菌丝或伴有酸腐味，则需要大面积切除蒂头周边瓜肉；若内部已腐烂变软则须整体丢弃。"
+          },
+          {
+            "question": "硬邦邦的南瓜有什么轻松去皮和切块的小窍门吗？",
+            "answer": "生南瓜质地坚硬，直接用刀切容易滑刀伤手。将洗净的整颗南瓜放入微波炉高火加热2~3分钟，表皮微软后即可轻松用刀切开并去皮。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener la calabaza fresca: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la calabaza según las directrices oficiales de seguridad.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "¿Alguna vez compró una calabaza firme y dulce solo para descubrir que el tallo desarrolló moho o que las partes cortadas se secaban y echaban a perder en el refrigerador? 🎃\n\nLas calabazas tienen pieles gruesas ideales para el almacenamiento prolongado, pero son muy sensibles a la temperatura y la humedad. Las calabazas enteras almacenadas en ambientes fríos y húmedos sufren pudrición del tallo, mientras que la calabaza cortada se deteriora en pocos días si no se retiran las semillas y la pulpa interior.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria para conservar su sabor dulce y textura densa hasta por 3 meses. 🛡️",
+        "whyTitle": "¿Por qué almacenarla así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Nunca guarde calabazas enteras sin cortar en el refrigerador ⚠️",
+            "desc": "La temperatura óptima para la calabaza entera es de 10 a 15 °C. Exponerla al aire frío y húmedo del refrigerador (0–4 °C) causa daño por frío (chilling injury), provocando deterioro rápido y moho en el tallo."
+          },
+          {
+            "title": "Retire todas las semillas y pulpa con una cuchara antes de guardar pedazos cortados 🥄",
+            "desc": "La cavidad interna húmeda que contiene semillas es propensa a la rápida proliferación de bacterias. Dejar las semillas provoca que los trozos cortados se vuelvan viscosos y mohosos en pocos días."
+          }
+        ],
+        "steps": [
+          {
+            "name": "[Entera] Guarde en un lugar fresco y seco a 10–15 °C — Almacenamiento óptimo en alacena (1 a 2 meses) ☀️",
+            "text": "La calabaza entera se conserva mejor en ambientes oscuros y bien ventilados. 💡 Consejo de almacenamiento: Limpie el polvo y colóquela con el tallo hacia arriba sobre papel en un armario fresco (10–15 °C)."
+          },
+          {
+            "name": "[Cortada] Retire las semillas, envuelva en film transparente y refrigere — Almacenamiento refrigerado (7 a 10 días) 📦",
+            "text": "La pulpa expuesta se oxida y pierde humedad rápidamente al cortarse. 💡 Consejo de almacenamiento: Retire las semillas y pulpa con una cuchara, seque la superficie con papel de cocina, envuelva firmemente con film plástico y guarde en el cajón de verduras (5–8 °C)."
+          },
+          {
+            "name": "[Largo plazo] Cocine al vapor/corte y congele — Almacenamiento congelado (3+ meses) ❄️",
+            "text": "Precocinar antes de congelar preserva el sabor y evita que quede aguada al descongelar. 💡 Consejo de almacenamiento: Cocine al vapor o en microondas brevemente, deje enfriar completamente, porcione en bolsas Ziploc y congele a menos de -18 °C."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "El tallo de mi calabaza tiene una capa blanca. ¿Aún se puede comer?",
+            "answer": "Una capa blanca seca y harinosa en un tallo duro suele ser una señal natural de secado y concentración de azúcar. Sin embargo, si es moho esponjoso o huele agrio, corte una porción amplia alrededor del tallo o deséchela si la pulpa blanda se ha extendido."
+          },
+          {
+            "question": "¿Hay algún truco para cortar fácilmente una calabaza dura o kabocha?",
+            "answer": "Las calabazas duras pueden ser difíciles de cortar crudas. Calentar la calabaza limpia entera en el microondas durante 2 o 3 minutos suavizará la cáscara lo suficiente para cortarla con seguridad."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver le potiron et la courge frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le potiron et la courge selon les directives officielles de sécurité.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Avez-vous déjà acheté une courge ou un potiron bien ferme pour constater que son pédoncule moisissait ou que ses tranches séchaient et pourrissaient au réfrigérateur ? 🎃\n\nLes courges et potirons possèdent une peau épaisse idéale pour une longue conservation, mais ils sont très sensibles à la température et à l'humidité. Les potirons entiers stockés dans un environnement froid et humide développent de la moisissure au niveau de la tige, tandis que les morceaux coupés laissés avec leurs graines s'altèrent en quelques jours.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts pour préserver la saveur douce et la texture dense de vos courges jusqu'à 3 mois. 🛡️",
+        "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne conservez jamais un potiron entier non coupé au réfrigérateur ⚠️",
+            "desc": "La température optimale de conservation d'un potiron entier est de 10 à 15 °C. L'exposer à l'air froid et humide du réfrigérateur (0–4 °C) provoque des dégâts dus au froid (chilling injury) et fait moisir la tige."
+          },
+          {
+            "title": "Retirez toutes les graines et la pulpe fibreuse avant de stocker les morceaux 🥄",
+            "desc": "La cavité interne humide contenant graines et fibres est un foyer de développement bactérien. Laisser les graines fait mûrir et moisir les morceaux coupés en quelques jours."
+          }
+        ],
+        "steps": [
+          {
+            "name": "[Entier] Conserver debout dans un endroit frais et sec (10–15 °C) — Stockage optimal en placard (1 à 2 mois) ☀️",
+            "text": "Le potiron entier se conserve parfaitement dans un endroit sombre et bien ventilé. 💡 Astuce de conservation : Essuyez la terre et posez le potiron tige vers le haut sur du papier dans un placard frais (10–15 °C)."
+          },
+          {
+            "name": "[Coupé] Vider les graines, envelopper dans du film plastique et réfrigérer — Stockage frais (7 à 10 jours) 📦",
+            "text": "Une fois coupée, la chair s'oxyde et perd son eau rapidement à l'air. 💡 Astuce de conservation : Grattez soigneusement les graines avec une cuillère, épongez la surface, enveloppez fermement dans du film étirable et placez dans le bac à légumes (5–8 °C)."
+          },
+          {
+            "name": "[Longue durée] Cuire à la vapeur/couper et congeler — Stockage congelé (3 mois et plus) ❄️",
+            "text": "Précuire avant de congeler préserve la saveur et évite que la chair ne devienne spongieuse à la décongélation. 💡 Astuce de conservation : Faites cuire rapidement les morceaux à la vapeur ou au micro-ondes, laissez refroidir, répartissez dans des sacs Ziploc et congelez (-18 °C)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Le pédoncule de mon potiron est devenu blanc et poudreux. Est-il encore propre à la consommation ?",
+            "answer": "Une pellicule blanche et sèche sur un pédoncule dur est souvent un signe naturel de séchage et de concentration des sucres. Cependant, s'il s'agit d'un moisissure duveteuse ou s'il dégage une odeur aigre, coupez largement autour de la tige ou jetez le potiron si le ramollissement a gagné la chair."
+          },
+          {
+            "question": "Existe-t-il une astuce pour découper facilement un potiron très dur ?",
+            "answer": "Les courges très dures sont difficiles et dangereuses à couper crues. Passer le potiron propre entier pendant 2 à 3 minutes au micro-ondes ramollit légèrement l'écorce, permettant à la lame de glisser en toute sécurité."
+          }
+        ]
+      },
+      "de": {
+        "title": "Kürbis richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Kürbis basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Haben Sie schon einmal einen festen, süßen Kürbis (z. B. Hokkaido) gekauft, nur um festzustellen, dass der Stiel schimmelte oder die Schnittflächen im Kühlschrank austrockneten? 🎃\n\nKürbisse besitzen eine dicke Schale, die ideal für die Langzeitlagerung ist, reagieren jedoch extrem sensibel auf Temperatur und Feuchtigkeit. Ganze Kürbisse, die zu kalt oder feucht gelagert werden, erleiden Stielfäule. Anschnitte verfaulen innerhalb weniger Tage, wenn Kerne und das feuchte Innenleben nicht entfernt werden.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um Geschmack und Textur Ihres Kürbisses bis zu 3 Monate zu bewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Ganze Kürbisse niemals im Kühlschrank lagern ⚠️",
+            "desc": "Die optimale Lagertemperatur für ganze Kürbisse liegt bei 10–15 °C. Kühle Kühlschrankluft (0–4 °C) führt zu Kälteschäden (Chilling Injury), wodurch der Kürbis rasch verfault und am Stiel Schimmel ansetzt."
+          },
+          {
+            "title": "Aushöhlen: Kerne und Fasern vor dem Lagern von Anschnitten komplett entfernen 🥄",
+            "desc": "Das feuchte Innere mit den Samen ist ein Nährboden für Bakterien. Werden die Samen an den Kürbisstücken belassen, werden diese innerhalb weniger Tage schmierig und schimmelig."
+          }
+        ],
+        "steps": [
+          {
+            "name": "[Ganz] Aufrecht bei 10–15 °C kühl und trocken lagern — Optimale Vorratslagerung (1–2 Monate) ☀️",
+            "text": "Ganze Kürbisse gedeihen am besten an dunklen, gut belüfteten Orten bei Raumtemperatur. 💡 Lagerungstipp: Kürbis trocken abreiben und mit dem Stiel nach oben auf Papier in einen kühlen Schrank (10–15 °C) stellen."
+          },
+          {
+            "name": "[Angeschnitten] Kerne aushöhlen, in Folie wickeln und kühlen — Kühllagerung (7–10 Tage) 📦",
+            "text": "Offenes Fruchtfleisch oxidiert an der Luft und verliert schnell Feuchtigkeit. 💡 Lagerungstipp: Kerne und Fasern gründlich mit einem Löffel herausschaben, Schnittfläche trocken tupfen, eng in Frischhaltefolie wickeln und im Gemüsefach (5–8 °C) aufbewahren."
+          },
+          {
+            "name": "[Langzeit] Dämpfen/Schneiden und einfrieren — Gefrierlagerung (3+ Monate) ❄️",
+            "text": "Das AnGaren vor dem Einfrieren bewahrt den Geschmack und verhindert Wässrigkeit nach dem Auftauen. 💡 Lagerungstipp: Kürbisstücke kurz dämpfen oder mikrowellen, abkühlen lassen, in Ziploc-Beutel füllen und bei unter -18 °C einfrieren."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Der Stiel meines Kürbisses hat einen weißen Belag. Ist er noch essbar?",
+            "answer": "Ein trockener, mehliger weißer Belag auf einem harten Stiel ist oft ein natürliches Zeichen des Trocknungs- und Nachreifeprozesses. Ist es jedoch schimmeliger Flaum oder riecht es sauer, schneiden Sie den Bereich großzügig ab oder entsorgen Sie den Kürbis bei weichem Fruchtfleisch."
+          },
+          {
+            "question": "Gibt es einen Trick, um harte Kürbisse leicht und sicher zu schneiden?",
+            "answer": "Harte Kürbisse lassen sich roh nur schwer schneiden. Wenn Sie den sauberen, ganzen Kürbis 2–3 Minuten in die Mikrowelle geben, wird die Schale leicht weich und das Messer gleitet mühelos und sicher hindurch."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar abóbora fresca: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para a abóbora com base em diretrizes oficiais de segurança.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Você já comprou uma abóbora firme e adocicada e descobriu depois que o cabo mofou ou que as partes cortadas ressecaram e estragaram na geladeira? 🎃\n\nAs abóboras possuem casca espessa ideal para conservação prolongada, mas são muito sensíveis à temperatura e umidade. Abóboras inteiras guardadas no frio excessivo sofrem podridão do talo, enquanto pedaços cortados guardados com sementes e miolo estragam em poucos dias.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas recomendado por especialistas para manter o sabor adocicado e a textura da sua abóbora por até 3 meses. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca guarde abóboras inteiras e sem cortar na geladeira ⚠️",
+            "desc": "A temperatura ideal para a abóbora inteira é de 10 a 15 °C. Expô-la ao ar frio e úmido da geladeira (0–4 °C) causa danos por frio (chilling injury), acelerando a podridão e mofo no talo."
+          },
+          {
+            "title": "Retire todas as sementes e a polpa fibrosa antes de guardar pedaços cortados 🥄",
+            "desc": "A cavidade interna úmida que contém sementes é propensa à proliferação de bactérias. Deixar as sementes faz com que os pedaços fiquem viscosos e mofados em poucos dias."
+          }
+        ],
+        "steps": [
+          {
+            "name": "[Inteira] Guarde em local fresco e seco a 10–15 °C — Armazenamento ideal no armário (1 a 2 meses) ☀️",
+            "text": "A abóbora inteira conserva-se melhor em locais escuros e bem ventilados. 💡 Dica de conservação: Limpe o pó e coloque-a com o talo para cima sobre papel em um armário fresco (10–15 °C)."
+          },
+          {
+            "name": "[Cortada] Retire as sementes, envolva em filme plástico e refrigere — Refrigeração (7 a 10 dias) 📦",
+            "text": "A polpa exposta oxida e perde umidade rapidamente ao ser cortada. 💡 Dica de conservação: Retire as sementes e a polpa com uma colher, seque a superfície com papel-toalha, envolva firmemente em filme plástico e guarde na gaveta de legumes (5–8 °C)."
+          },
+          {
+            "name": "[Longo prazo] Cozinhe no vapor/corte e congele — Conservação congelada (3+ meses) ❄️",
+            "text": "Cozinhar levemente antes de congelar preserva o sabor e evita que fique empapada ao descongelar. 💡 Dica de conservação: Cozinhe no vapor ou micro-ondas brevemente, espere esfriar, divida em sacos Ziploc e congele a menos de -18 °C."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "O talo da minha abóbora ficou esbranquiçado. Ainda é seguro comer?",
+            "answer": "Uma película branca e seca em um talo duro costuma ser um sinal natural de secagem e concentração de açúcares. Porém, se for um mofo macio ou cheirar azedo, corte uma parte generosa ao redor do talo ou descarte se a polpa estiver mole."
+          },
+          {
+            "question": "Existe algum truque para cortar facilmente uma abóbora dura?",
+            "answer": "Abóboras duras podem ser difíceis e perigosas de cortar cruas. Aquecer a abóbora inteira e limpa no micro-ondas por 2 a 3 minutos amolecerá a casca o suficiente para cortá-la com segurança."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Labu Kuning / Labu Parang agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk labu kuning berdasarkan pedoman keselamatan resmi.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Pernahkah Anda membeli labu kuning yang padat dan manis, lalu mendapati tangkainya berjamur atau bagian potongannya mengering dan membusuk di kulkas? 🎃\n\nLabu kuning memiliki kulit tebal yang ideal untuk penyimpanan jangka panjang, namun sangat sensitif terhadap suhu dan kelembapan. Labu utuh yang disimpan di tempat yang terlalu dingin atau lembap akan mengalami pembusukan tangkai, sedangkan labu potong yang disimpan bersama bijinya akan cepat membusuk karena bakteri.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli pertanian untuk menjaga rasa manis dan tekstur padat labu Anda hingga 3 bulan. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan pernah menyimpan labu utuh yang belum dipotong di dalam kulkas ⚠️",
+            "desc": "Suhu penyimpanan optimal untuk labu utuh adalah 10–15°C. Memaparkannya pada udara kulkas yang dingin dan lembap (0–4°C) menyebabkan kerusakan akibat suhu dingin (chilling injury) dan memicu jamur pada tangkai."
+          },
+          {
+            "title": "Keruk habis semua biji dan serabut bagian dalam sebelum menyimpan labu potong 🥄",
+            "desc": "Rongga dalam yang lembap dan berisi biji adalah tempat favorit bagi pertumbuhan bakteri. Membiarkan biji menempel menyebabkan potongan labu menjadi berlendir dan berjamur dalam beberapa hari."
+          }
+        ],
+        "steps": [
+          {
+            "name": "[Utuh] Simpan berdiri di tempat sejuk dan kering pada suhu 10–15°C — Simpan Lemari Optimal (1–2 Bulan) ☀️",
+            "text": "Labu utuh paling awet disimpan di lingkungan suhu ruang yang gelap dan berventilasi baik. 💡 Tips Penyimpanan: Bersihkan kotoran kering lalu letakkan labu dengan posisi tangkai di atas kertas di lemari sejuk (10–15°C)."
+          },
+          {
+            "name": "[Potong] Keruk biji, bungkus rapat dengan plastik wrap, lalu simpan di kulkas — Simpan Dingin (7–10 Hari) 📦",
+            "text": "Daging labu yang terbuka cepat teroksidasi dan kehilangan air setelah dipotong. 💡 Tips Penyimpanan: Bersihkan biji dan serabut dengan sendok, keringkan permukaan dengan tisu dapur, bungkus rapat dengan plastik wrap, lalu simpan di laci sayur kulkas (5–8°C)."
+          },
+          {
+            "name": "[Jangka Panjang] Kukus/potong lalu bekukan — Simpan Beku (3+ Bulan) ❄️",
+            "text": "Memasak sebentar sebelum dibekukan menjaga rasa dan mencegah labu menjadi berair saat dicairkan. 💡 Tips Penyimpanan: Kukus atau panaskan potongan labu dalam mikrowave sebentar, biarkan dingin sempurna, bagi ke dalam kantong Ziploc lalu simpan di freezer (-18°C)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Tangkai labu saya berubah menjadi putih berbubuk. Apakah masih aman dimakan?",
+            "answer": "Lapisan putih kering berbubuk pada tangkai yang keras sering kali merupakan tanda alami pengeringan dan konsentrasi gula. Namun jika berupa serabut jamur atau berbau asam, potong bagian disekitar tangkai secara lebar atau buang labu jika dagingnya sudah lembek membusuk."
+          },
+          {
+            "question": "Apakah ada trik untuk memotong labu kuning yang keras dengan mudah dan aman?",
+            "answer": "Labu yang keras sangat sulit dan berbahaya jika dipotong mentah-mentah. Masukkan labu utuh yang sudah dicuci ke dalam mikrowave selama 2–3 menit untuk melunakkan kulit luarnya, sehingga pisau dapat memotongnya dengan mudah dan aman."
+          }
+        ]
+      }
     }
+  }
 }

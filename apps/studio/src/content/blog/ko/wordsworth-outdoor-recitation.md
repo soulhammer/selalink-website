@@ -25,7 +25,7 @@ faqs:
 
 "시란 강력한 감정의 자연스러운 범람이며, 평온 속에서 회상된 감정으로부터 기원한다." 🚶‍♂️
 
-새뮤얼 테일러 콜리지와 함께 《서정가요집(Lyrical Ballads)》을 출간하여 영문학에 낭만주의 시대를 열었고, 영국桂冠詩人(Poet Laureate)에 오른 대시인 윌리엄 워즈워스(William Wordsworth, 1770–1850). <수선화(Daffodils)>, <무지개> 등 자연의 숨결을 담은 그의 영작들은 종이 위가 아닌 레이크 디스트릭트(Lake District)의 숲길과 산책로를 디디는 발소리 속에서 조율되었습니다.
+새뮤얼 테일러 콜리지와 함께 《서정가요집(Lyrical Ballads)》을 출간하여 영문학에 낭만주의 시대를 열었고, 영국계관시인(Poet Laureate)에 오른 대시인 윌리엄 워즈워스(William Wordsworth, 1770–1850). <수선화(Daffodils)>, <무지개> 등 자연의 숨결을 담은 그의 영작들은 종이 위가 아닌 레이크 디스트릭트(Lake District)의 숲길과 산책로를 디디는 발소리 속에서 조율되었습니다.
 
 워즈워스는 시를 쓸 때 서재 책상에 가만히 앉아 골몰하는 법이 거의 없었습니다. 그는 시상을 떠올리고 완성할 때 언제나 영국의 아름다운 국립공원 레이크 디스트릭트의 산길로 나가 수십 킬로미터를 걸었습니다. 걷는 동안 단순히 생각에 잠긴 것이 아니라, 떠오르는 시구들을 주변 숲과 산을 향해 큰 소리로 외치듯 읊조렸습니다. 일정한 템포로 걷는 발자국 소리는 시의 규칙적인 율격(Meter)이 되었고, 발걸음 리듬에 맞춰 가사와 운율을 정교하게 다듬었습니다. 그의 누이 도로시 워즈워스(Dorothy Wordsworth)는 오빠가 밖에서 걷는 발소리와 낭독 소리만 듣고도 시를 조율하고 있음을 알고 방해하지 않았다고 기록했습니다.
 
@@ -63,7 +63,7 @@ faqs:
       </div>
     </div>
     <div class="flex flex-col items-center justify-center gap-3 shrink-0 w-full lg:w-[340px] pt-4 lg:pt-0 border-t lg:border-t-0 border-slate-200/40 dark:border-slate-700/30">
-      <div class="flex items-center justify-center -space-x-3 py-1" title="역사 속 위인 멘토들과 함께하세요">
+      <div class="flex items-center justify-center -space-x-3 py-1" title="Join historical mentors and figures">
         <img src="/images/buildself/mentors/einstein.webp" alt="Einstein Mentor" class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-30 hover:scale-110 transition-transform m-0" />
         <img src="/images/buildself/mentors/kingsejong.webp" alt="King Sejong Mentor" class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-20 hover:scale-110 transition-transform m-0" />
         <img src="/images/buildself/mentors/nikola_tesla.webp" alt="Nikola Tesla Mentor" class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-10 hover:scale-110 transition-transform m-0" />

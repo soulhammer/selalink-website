@@ -1,406 +1,406 @@
 {
-    "how-to-store-miso": {
-        "ingId": "miso",
-        "pubDate": "2026-04-06",
-        "updatedDate": "2026-04-06",
-        "heroImage": "/images/blog/miso_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "미소·된장 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 된장·미소의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "식품의약품안전처(MFDS) & 미국 농무부(USDA) & NRIB",
-                "intro": "맛있는 된장이나 미소를 보관하다가 색이 시꺼멓게 변하거나 겉면이 바짝 마르고 가스가 부풀어 오르는 현상 경험해 보셨죠? 🍲\n\n발효가 완료된 미소와 된장 속에는 여전히 단백질 분해 효소(Protease)와 유리 아미노산이 활성화된 상태로 존재합니다. 상온에 방치하거나 공기(산소)에 노출되면 아미노산과 당이 반응하는 비효소적 마이야르 갈변 반응(Maillard Reaction)이 계속 진행되어 색이 검게 변하고 아린 맛이 생기며, 내열성 효모에 의해 CO₂ 가스가 발생하여 용기가 부풀어 오릅니다.\n\n이번 가이드에서는 식품의약품안전처(MFDS)와 미국 농무부(USDA)의 공인 가이드라인을 바탕으로, 마이야르 반응을 차단해 된장의 고운 빛깔과 깊은 풍미를 1년 이상 신선하게 유지하는 3단계 과학적 밀폐 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "상온 방치는 마이야르 갈변 반응과 과발효의 주원인입니다 ⚠️",
-                        "desc": "된장·미소를 상온(20℃ 이상)에 노출시키면 마이야르 반응 속도가 급격히 촉진되어 검붉거나 시꺼멓게 변색됩니다. 또한 잔존 효모와 세균에 의해 과발효가 일어나 신맛과 아린 맛이 나며 CO₂ 가스가 생성되어 용기가 부푸는 현상이 발생합니다."
-                    },
-                    {
-                        "title": "표면 공기 노출 및 이물질 수분 유입을 차단하세요 🛑",
-                        "desc": "산소와 접촉하면 표면 산화와 함께 겉면이 딱딱하게 마르고 표면 곰팡이(호기성 곰팡이)가 피기 쉽습니다. 또한 물기나 음식물 찌꺼기가 묻은 스푼을 사용하면 미생물 오염으로 부패가 일어납니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "표면에 식품용 랩을 밀착시켜 공기 차단하기 — 산소 차단 밀봉 (Air-barrier) 🧴",
-                        "text": "된장·미소를 용기에 담은 뒤 표면 전체에 식품용 랩을 빈틈없이 밀착(Air-barrier)시키세요. 💡 보관 팁: 공기와의 접촉면을 완전히 없애면 산소에 의한 갈변 반응과 표면 건조, 호기성 곰팡이 발생을 원천 차단할 수 있습니다."
-                    },
-                    {
-                        "name": "0~4℃ 저온에서 냉장 보관하기 — 저온 냉장 보관 (365일 이상) ❄️",
-                        "text": "마이야르 반응과 효소 활성은 온도가 낮을수록 극적으로 느려집니다. 💡 보관 팁: 0~4℃의 저온 냉장고나 김치냉장고에 보관하세요. 갈변 반응속도가 획기적으로 줄어들어 1년 이상 본래의 맛과 빛깔을 유지합니다."
-                    },
-                    {
-                        "name": "소량 소분 후 냉동 보관하기 — 장기 냉동 보관 (365일 이상) 🧊",
-                        "text": "된장과 미소는 염분과 유리 아미노산 농도가 높아 -18℃ 이하 냉동실에서도 꽁꽁 얼지 않고 부드러운 상태를 유지합니다. 💡 보관 팁: 소분 용기나 밀폐 용기에 담아 냉동 보관하면 해동 과정 없이 숟가락으로 바로 떠서 조리에 사용할 수 있으며 오랜 기간 신선합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "된장이나 미소 표면이 검게 변했는데 먹어도 괜찮나요?",
-                        "answer": "네, 드셔도 안전합니다! 이는 아미노산과 당이 반응하여 일어나는 마이야르 갈변 현상으로, 독성이 생기는 것은 아닙니다. 다만 색이 검어지면서 신맛과 씁쓸한 맛이 강해질 수 있으므로, 보관 시 랩을 밀착시키고 저온 냉장 보관하여 갈변을 차단하는 것이 좋습니다."
-                    },
-                    {
-                        "question": "된장 용기가 빵빵하게 부풀어 오르는 이유는 무엇인가요?",
-                        "answer": "된장 내에 잔존하는 내열성 효모와 미생물이 상온 및 산소 노출 시 남아있는 당분을 발효시키면서 이산화탄소(CO₂) 가스를 방출하기 때문입니다. 0~4℃ 저온에 보관하고 산소를 차단하면 가스 발생을 억제할 수 있습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Fermented Soybean Paste & Miso Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for miso and doenjang based on official safety guidelines.",
-                "authority": "MFDS & USDA & NRIB",
-                "intro": "Have you ever found your container of miso or fermented soybean paste turning dark black, drying out on top, or puffing up with gas? 🍲\n\nEven after fermentation is complete, active proteases (protein-decomposing enzymes) and free amino acids remain inside miso and doenjang. Exposure to room temperature and oxygen triggers continuous non-enzymatic Maillard browning, turning the paste dark, altering flavor, and releasing CO₂ gas through heat-resistant yeast fermentation.\n\nBased on official guidelines from the MFDS and USDA, this 3-step scientific airtight storage guide explains how to block Maillard browning and keep the vibrant color and deep flavor of miso fresh for over a year. 🛡️",
-                "whyTitle": "Why Store Miso This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Room temperature exposure causes Maillard browning and over-fermentation ⚠️",
-                        "desc": "Exposing miso to room temperature (above 20°C / 68°F) accelerates Maillard browning, turning the paste dark red or black. Residual yeasts also cause over-fermentation, producing sourness, harsh bitterness, and CO₂ gas that swells the container."
-                    },
-                    {
-                        "title": "Block air contact and prevent moisture/food contamination 🛑",
-                        "desc": "Oxygen contact causes surface oxidation, drying out the top layer and encouraging mold growth. Using wet or dirty utensils introduces micro-organisms that cause spoilage."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Press plastic wrap directly against the surface to block air — Air-barrier Sealing 🧴",
-                        "text": "Smooth out the paste in its container and press a layer of plastic wrap tightly onto the surface (Air-barrier). 💡 Storage Tip: Eliminating air contact stops oxygen-driven Maillard browning, surface crusting, and aerobic mold growth."
-                    },
-                    {
-                        "name": "Store in cold refrigeration at 0–4°C — Cold Refrigeration (365+ Days) ❄️",
-                        "text": "Maillard reactions and enzyme activities slow down dramatically at lower temperatures. 💡 Storage Tip: Keep in a fridge at 0–4°C (32–39°F). The browning rate is significantly reduced, preserving original flavor and color for over a year."
-                    },
-                    {
-                        "name": "Portion and freeze for long-term storage — Freezer Storage (365+ Days) 🧊",
-                        "text": "High salt and amino acid concentrations prevent miso from freezing solid even at -18°C (0°F), keeping it scoopable. 💡 Storage Tip: Freeze in airtight containers; you can scoop it out directly with a spoon without defrosting."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Is it safe to eat miso or soybean paste that has turned dark black on top?",
-                        "answer": "Yes, it is completely safe to eat. The color change is caused by the non-enzymatic Maillard browning reaction between amino acids and sugars, which is non-toxic. However, as it darkens, it may develop a sour or bitter edge. Pressing plastic wrap onto the surface and refrigerating prevents this."
-                    },
-                    {
-                        "question": "Why does my miso container puff up with gas?",
-                        "answer": "Residual heat-resistant yeasts inside the fermented paste feed on remaining sugars and produce carbon dioxide (CO₂) gas when exposed to warm temperatures and air. Keeping the paste at 0–4°C and sealed from oxygen stops gas production."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "味噌（ミソ・デンジャン）を新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づく味噌・韓国味噌の最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "食品医薬品安全処(MFDS) & USDA & NRIB",
-                "intro": "味噌や韓国味噌を保存していて、色が真っ黒に変色したり、表面がカピカピに乾いたり、容器がガスで膨らんだりした経験はありませんか？🍲\n\n発酵が完了した味噌の内部には、依然としてタンパク質分解酵素（プロテアーゼ）や遊離アミノ酸が活性化した状態で残っています。常温放置や酸素への暴露により、アミノ酸と糖が反応する非酵素的メイラード反応（Maillard Reaction）が進行して黒変・味の変質を引き起こし、耐熱性酵母によってCO₂ガスが発生します。\n\n本記事では、MFDSおよびUSDAの公式ガイドラインに基づき、メイラード反応を抑えて味噌の美しい色と深い風味を1年以上新鮮に保つ3段階の科学的密閉保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "常温放置はメイラード反応と過発酵の主な原因です ⚠️",
-                        "desc": "味噌を常温（20℃以上）に晒すとメイラード反応が急激に促進され黒っぽく変色します。また残存する酵母や細菌により過発酵が起き、酸味やエグみが生じてCO₂ガスで容器が膨張します。"
-                    },
-                    {
-                        "title": "表面の空気接触および水分・異物の混入を防いでください 🛑",
-                        "desc": "酸素と触れると表面が酸化して硬く乾燥し、好気性カビが生えやすくなります。また、水気や食べかすのついたスプーンを使用すると微生物汚染により腐敗の原因となります。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "表面にラップをぴったり貼って空気を遮断する — 酸素遮断密閉 (Air-barrier) 🧴",
-                        "text": "味噌を容器に詰めた後、表面全体にラップを隙間なく密着させて空気を遮断します。💡保存のコツ：空気との接触面を完全に無くすことで、酸素による黒変、表面乾燥、カビの発生を防止できます。"
-                    },
-                    {
-                        "name": "0〜4℃の低温で冷蔵保存する — 低温冷蔵保存 (365日以上) ❄️",
-                        "text": "メイラード反応や酵素活性は温度が低いほど劇的に遅くなります。💡保存のコツ：0〜4℃の冷蔵庫やチルド室で保存してください。褐変反応が大幅に抑えられ、1年以上元の味と美しい色合いを保てます。"
-                    },
-                    {
-                        "name": "小分けして冷凍保存する — 長期冷凍保存 (365日以上) 🧊",
-                        "text": "味噌は塩分とアミノ酸濃度が高いため、-18℃以下の冷凍庫に入れてもカチカチに凍らず柔らかい状態を維持します。💡保存のコツ：小分け容器に入れて冷凍保存すれば、解凍の手間なくそのままスプーンですくって調理に使えます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "味噌の表面が真っ黒に変色してしまいましたが食べても大丈夫ですか？",
-                        "answer": "はい、問題なく召し上がれます！これはアミノ酸と糖が反応して起こるメイラード反応によるもので、毒性はありません。ただし黒変が進むと酸味や苦味が強まる場合があるため、ラップを密着させ低温冷蔵して褐変を防ぐのが理想的です。"
-                    },
-                    {
-                        "question": "味噌の容器がパンパンに膨らむのはなぜですか？",
-                        "answer": "味噌の中に残っている耐熱性酵母などの微生物が、常温や酸素に触れることで残った糖分を発酵させ、炭酸ガス（CO₂）を発生させるためです。0〜4℃の低温で空気を遮断して保存するとガスの発生を抑えられます。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持味噌与大豆酱（Miso/Doenjang）新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解味噌及大豆发酵酱的最佳储存温度、方式及保鲜时长。",
-                "authority": "韩国食品医药品安全处(MFDS) & USDA & NRIB",
-                "intro": "在保存味噌或大豆酱时，您是否遇到过酱体变黑、表面干硬龟裂，或者容器被气体鼓胀的情况？🍲\n\n即使发酵完成，味噌与大豆酱内部依然保留着活性的蛋白酶（Protease）和游离氨基酸。暴露于常温和氧气中会持续引发非酶促美拉德反应（Maillard Reaction），导致酱体颜色变黑、风味劣化，并由耐热性酵母发酵产生CO₂气体导致容器膨胀。\n\n本指南基于MFDS与USDA的权威指南，为您介绍3步科学密封保存秘诀，有效阻断美拉德反应，长久锁定味噌的靓丽色泽与醇厚风味达1年以上。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "常温随意摆放是美拉德反应与过度发酵的主因 ⚠️",
-                        "desc": "将味噌暴露于常温（20℃以上）环境中会剧烈加速美拉德反应，使酱体变为黑红色或黑色。残余酵母还会引发过度发酵，产生酸苦味和膨胀气体。"
-                    },
-                    {
-                        "title": "严防表面接触空气及水分异物混入 🛑",
-                        "desc": "接触氧气会导致表面氧化结壳变硬，且极易滋生好氧性霉菌。使用沾有水气或食物残渣的勺子挖取会引发微生物污染和变质。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "表面紧贴保鲜膜隔绝空气 — 保鲜膜贴面密封 (Air-barrier) 🧴",
-                        "text": "将味噌装入容器抹平后，用食品级保鲜膜无缝紧贴覆盖于酱体表面。💡储存小贴士：彻底消除与空气的接触面，可从源头杜绝氧气引发的发黑、结皮及霉菌滋生。"
-                    },
-                    {
-                        "name": "置于0~4℃低温冷藏 — 低温冷藏保存 (365天以上) ❄️",
-                        "text": "温度越低，美拉德反应及酶活性减缓效果越显著。💡储存小贴士：存放在0~4℃的冰箱冷藏室或保鲜室中，可大幅降低变色速度，保持原有风味达1年以上。"
-                    },
-                    {
-                        "name": "分装后放入冷冻室 — 长期冷冻保存 (365天以上) 🧊",
-                        "text": "味噌含有高浓度的盐分和氨基酸，即使在-18℃冷冻室中也不会冻结成冰块，依然保持软绵可舀状态。💡储存小贴士：装入冷冻盒冷冻，无需解冻即可直接用勺子挖取下锅烹饪。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "味噌或大豆酱表面变黑了还能食用吗？",
-                        "answer": "可以安全食用！这是氨基酸与糖分发生美拉德反应引起的自然发黑现象，无毒无害。但变黑后酸味和苦味可能会加重，因此建议贴膜密封并低温冷藏以防止变色。"
-                    },
-                    {
-                        "question": "为什么味噌容器会鼓鼓地膨胀起来？",
-                        "answer": "这是因为酱体中残留的耐热性酵母在常温和接触氧气时，会继续发酵残留糖分并释放二氧化碳（CO₂）气体。保持0~4℃低温并密封隔绝氧气即可抑制气体产生。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener la pasta de soja fermentada y el miso frescos: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para el miso y la pasta de soja según las directrices oficiales de seguridad.",
-                "authority": "MFDS & USDA & NRIB",
-                "intro": "¿Alguna vez ha notado que su contenedor de miso o pasta de soja fermentada se volvía oscuro o negro, se secaba en la superficie o se hinchaba con gas? 🍲\n\nIncluso tras completar la fermentación, las proteasas activas y aminoácidos libres permanecen en el miso. La exposición a temperatura ambiente y oxígeno activa una reacción continua de oscurecimiento no enzimático de Maillard, volviendo la pasta negra, alterando su sabor y liberando gas CO₂ por levaduras resistentes al calor.\n\nBasado en directrices del MFDS y el USDA, esta guía paso a paso le enseña a bloquear la reacción de Maillard para mantener el color vibrante y el sabor profundo del miso frescos durante más de 1 año. 🛡️",
-                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "La temperatura ambiente causa oscurecimiento de Maillard y sobrefermentación ⚠️",
-                        "desc": "Exponer el miso a más de 20 °C acelera la reacción de Maillard, volviendo la pasta negra. Las levaduras residuales causan sobrefermentación, generando sabor agrio, amargor y gas CO₂ que hincha el bote."
-                    },
-                    {
-                        "title": "Evite el contacto con el aire y la humedad externa 🛑",
-                        "desc": "El contacto con oxígeno oxida la superficie, creándose una costra dura y mohos. El uso de cucharas húmedas o sucias introduce bacterias que provocan descomposición."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Presione film transparente directamente sobre la superficie — Sellado hermético (Air-barrier) 🧴",
-                        "text": "Coloque film plástico en contacto directo sobre la superficie del miso eliminando las burbujas de aire. 💡 Consejo de almacenamiento: Evitar el contacto con el oxígeno previene el oscurecimiento y la formación de moho."
-                    },
-                    {
-                        "name": "Guarde en refrigeración a 0–4 °C — Almacenamiento en frío (365+ días) ❄️",
-                        "text": "La reacción de Maillard y la actividad enzimática se reducen enormemente a bajas temperaturas. 💡 Consejo de almacenamiento: Consérvelo entre 0 y 4 °C para detener el oscurecimiento y preservar su sabor durante más de un año."
-                    },
-                    {
-                        "name": "Congele en porciones para conservación prolongada — Congelación (365+ días) 🧊",
-                        "text": "El alto contenido en sal y aminoácidos evita que el miso se congele de forma sólida a -18 °C. 💡 Consejo de almacenamiento: Guarde en contenedores aptos para congelador; se puede servir con cuchara directamente sin descongelar."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Es seguro comer miso o pasta de soja que se ha vuelto negra en la superficie?",
-                        "answer": "Sí, es completamente seguro. El cambio de color se debe a la reacción de Maillard entre aminoácidos y azúcares, la cual no es tóxica. Sin embargo, puede volverse más ácida o amarga. Cubrir la superficie con film y refrigerar evita este cambio."
-                    },
-                    {
-                        "question": "¿Por qué el envase de miso se hincha con gas?",
-                        "answer": "Se debe a que levaduras resistentes al calor continúan fermentando los azúcares residuales a temperatura ambiente, liberando dióxido de carbono (CO₂). Mantener el miso entre 0 y 4 °C y bien sellado evita la acumulación de gas."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver le miso et la pâte de soja fermentée frais : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le miso selon les directives officielles de sécurité.",
-                "authority": "MFDS & USDA & NRIB",
-                "intro": "Avez-vous déjà remarqué que votre pot de miso ou de pâte de soja fermentée devenait tout noir, séchait en surface ou gonflait sous l'effet du gaz ? 🍲\n\nMême après la fermentation, des protéases actives et des acides aminés libres restent présents. L'exposition à la température ambiante et à l'oxygène déclenche la réaction de Maillard non enzymatique, ce qui noircit la pâte, altère sa saveur et libère du gaz CO₂ à cause de levures thermorésistantes.\n\nBasé sur les conseils officiels du MFDS et du USDA, ce guide en 3 étapes explique comment bloquer la réaction de Maillard pour préserver la belle couleur et la saveur profonde du miso pendant plus d'un an. 🛡️",
-                "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "La température ambiante provoque la réaction de Maillard et une sur-fermentation ⚠️",
-                        "desc": "Exposer le miso à plus de 20 °C accélère la réaction de Maillard, noircissant la pâte. Les levures résiduelles provoquent une sur-fermentation avec de l'amertume et du gaz CO₂ qui fait gonfler le pot."
-                    },
-                    {
-                        "title": "Éviter le contact de l'air et l'intrusion d'humidité 🛑",
-                        "desc": "L'oxygène assèche la surface et favorise les moisissures aérobie. Utiliser des ustensiles humides ou sales introduit des micro-organismes altérant le produit."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Plaquer du film étirable directement sur la surface — Barrière anti-oxygène (Air-barrier) 🧴",
-                        "text": "Appliquez un film plastique directement au contact de la surface du miso. 💡 Astuce de conservation : Éliminer l'air stoppe le noircissement par oxydation et empêche le dessèchement de la pâte."
-                    },
-                    {
-                        "name": "Conserver au réfrigérateur entre 0 et 4 °C — Stockage au frais (365+ jours) ❄️",
-                        "text": "Les réactions de Maillard et l'activité enzymatique ralentissent au froid. 💡 Astuce de conservation : Gardez le pot au frais entre 0 et 4 °C pour stabiliser la couleur et conserver le goût d'origine plus d'un an."
-                    },
-                    {
-                        "name": "Congeler en portions pour un stockage longue durée — Congélation (365+ jours) 🧊",
-                        "text": "La forte teneur en sel empêche le miso de geler en bloc rigide à -18 °C. 💡 Astuce de conservation : Placez-le au congélateur ; vous pourrez prélever le miso directement à la cuillère sans décongélation."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Le miso qui a noirci en surface est-il encore consommable ?",
-                        "answer": "Oui, il est tout à fait consommable. Le noircissement est dû à la réaction de Maillard entre les acides aminés et les sucres, sans danger ni toxicité. Plaquer un film alimentaire sur la surface et conserver au frais permet d'éviter ce phénomène."
-                    },
-                    {
-                        "question": "Pourquoi le pot de miso gonfle-t-il sous l'effet du gaz ?",
-                        "answer": "Des levures thermorésistantes fermentent les sucres restants lorsqu'elles sont exposées à la chaleur et à l'air, dégageant du dioxyde de carbone (CO₂). Conserver le miso au frais (0–4 °C) sous scellé empêche la formation de gaz."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Miso und fermentierte Sojapaste richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Miso und Doenjang basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "MFDS & USDA & NRIB",
-                "intro": "Haben Sie schon einmal bemerkt, dass Ihre Miso- oder Sojapaste im Behälter schwarz wurde, an der Oberfläche austrocknete oder sich durch Gas aufblähte? 🍲\n\nSelbst nach der Fermentation bleiben aktive Proteasen und freie Aminosäuren in der Miso-Paste erhalten. Bei Raumtemperatur und Sauerstoffkontakt setzt eine kontinuierliche nicht-enzymatische Maillard-Bräunung ein, die die Paste dunkel färbt, den Geschmack verändert und durch hitzebeständige Hefen CO₂-Gas freisetzt.\n\nBasierend auf offiziellen Richtlinien der MFDS und USDA zeigt Ihnen dieser Ratgeber in 3 Schritten, wie Sie die Maillard-Reaktion stoppen und die frische Farbe sowie das tiefe Aroma von Miso über 1 Jahr bewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Raumtemperatur führt zu Maillard-Bräunung und Überfermentation ⚠️",
-                        "desc": "Die Lagerung über 20 °C beschleunigt die Maillard-Reaktion und verfärbt Miso dunkelrot bis schwarz. Verbleibende Hefen führen zudem zu Überfermentation, Säure, Bitternis und blähen die Verpackung durch CO₂ auf."
-                    },
-                    {
-                        "title": "Sauerstoffkontakt und Feuchtigkeitseintritt verhindern 🛑",
-                        "desc": "Luftkontakt trocknet die Oberfläche aus und fördert Schimmelbildung. Nasse oder verunreinigte Löffel bringen Mikroorganismen ein, die Verderb auslösen."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Frischhaltefolie direkt auf die Oberfläche drücken — Sauerstoffbarriere (Air-barrier) 🧴",
-                        "text": "Streichen Sie die Paste glatt und drücken Sie Frischhaltefolie direkt auf die Oberfläche. 💡 Lagerungstipp: Der Luftausschluss verhindert die Maillard-Bräunung, Oberflächenkrusten und Schimmelpilze."
-                    },
-                    {
-                        "name": "Bei 0–4 °C im Kühlschrank aufbewahren — Kühllagerung (365+ Tage) ❄️",
-                        "text": "Maillard-Reaktionen und Enzymaktivitäten verlangsamen sich bei Kälte drastisch. 💡 Lagerungstipp: Im Kühlschrank bei 0–4 °C lagern, um Farbe und Geschmack über ein Jahr unverändert zu erhalten."
-                    },
-                    {
-                        "name": "In Portionen einfrieren — Gefrierlagerung (365+ Tage) 🧊",
-                        "text": "Der hohe Salz- und Aminosäuregehalt verhindert, dass Miso bei -18 °C steinhart gefriert. 💡 Lagerungstipp: Im Tiefkühlfach lagern; die Paste bleibt geschmeidig und lässt sich direkt mit dem Löffel entnehmen."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Ist Miso noch essbar, wenn sich die Oberfläche schwarz verfärbt hat?",
-                        "answer": "Ja, es ist absolut unbedenklich. Die Verfärbung entsteht durch die ungiftige Maillard-Reaktion zwischen Aminosäuren und Zucker. Folie direkt auf die Oberfläche zu drücken und Miso zu kühlen, verhindert das Nachdunkeln."
-                    },
-                    {
-                        "question": "Warum bläht sich die Miso-Verpackung auf?",
-                        "answer": "Hitzebeständige Hefen fermentieren bei Wärme und Sauerstoffkontakt den Restzucker und setzen Kohlendioxid (CO₂) frei. Eine Lagerung bei 0–4 °C unter Luftabschluss stoppt die Gasbildung."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar missô e pasta de soja fermentada frescos: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para missô e doenjang com base em diretrizes oficiais de segurança.",
-                "authority": "MFDS & USDA & NRIB",
-                "intro": "Você já percebeu que seu pote de missô ou pasta de soja fermentada ficou escuro e preto, ressecou na superfície ou estufou com gás? 🍲\n\nMesmo após o fim da fermentação, proteases ativas e aminoácidos livres permanecem no missô. A exposição à temperatura ambiente e ao oxigênio ativa a reação de escurecimento não enzimático de Maillard, escurecendo a pasta, alterando o sabor e liberando gás CO₂ por leveduras resistentes ao calor.\n\nCom base em diretrizes do MFDS e do USDA, este guia em 3 etapas ensina como bloquear a reação de Maillard e manter a cor viva e o sabor profundo do missô frescos por mais de 1 ano. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Temperatura ambiente causa escurecimento de Maillard e superfermentação ⚠️",
-                        "desc": "Expor o missô a temperaturas acima de 20 °C acelera a reação de Maillard, escurecendo a pasta. Leveduras residuais provocam superfermentação, amargor e gás CO₂ que estufa o recipiente."
-                    },
-                    {
-                        "title": "Evite o contato com o ar e a entrada de umidade 🛑",
-                        "desc": "O oxigênio resseca a superfície e atrai bolores. Usar colheres molhadas ou sujas introduz micróbios que deterioram o produto."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Pressione filme plástico diretamente sobre a superfície — Barreiras contra oxigênio (Air-barrier) 🧴",
-                        "text": "Alise a pasta no pote e pressione filme plástico diretamente em contato com a superfície. 💡 Dica de conservação: Bloquear o ar evita o escurecimento por Maillard, o ressecamento e mofo."
-                    },
-                    {
-                        "name": "Guarde sob refrigeração de 0 a 4 °C — Armazenamento refrigerado (365+ dias) ❄️",
-                        "text": "A reação de Maillard e a atividade enzimática desaceleram no frio. 💡 Dica de conservação: Guarde na geladeira (0–4 °C) para desacelerar o escurecimento e preservar a qualidade por mais de um ano."
-                    },
-                    {
-                        "name": "Congele em porções para longa conservação — Congelamento (365+ dias) 🧊",
-                        "text": "O alto teor de sal impede que o missô congele totalmente rígido a -18 °C. 💡 Dica de conservação: Armazene no freezer; ele permanecerá cremoso e pronto para ser retirado na colher."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "É seguro consumir missô cuja superfície ficou preta?",
-                        "answer": "Sim, é totalmente seguro. A mudança de cor resulta da reação não tóxica de Maillard entre aminoácidos e açúcares. Pressionar filme plástico no topo e manter sob refrigeração evita o escurecimento."
-                    },
-                    {
-                        "question": "Por que a embalagem de missô fica estufada com gás?",
-                        "answer": "Leveduras resistentes ao calor fermentam os açúcares restantes sob calor e ar, liberando gás carbônico (CO₂). Manter o missô de 0 a 4 °C bem selado impede a produção do gás."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Miso & Tauco / Fermented Soybean Paste agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk miso dan tauco berdasarkan pedoman keselamatan resmi.",
-                "authority": "MFDS & USDA & NRIB",
-                "intro": "Pernahkah Anda mendapati wadah miso atau tauco (doenjang) Anda berubah warna menjadi hitam pekat, mengering di permukaan, atau mengembung karena gas? 🍲\n\nBahkan setelah fermentasi selesai, enzim protease aktif dan asam amino bebas tetap berada di dalam miso. Paparan suhu ruang dan oksigen memicu reaksi pencokelatan non-enzimatis Maillard yang terus berlanjut, membuat warna pasta menghitam, merusak rasa, dan menghasilkan gas CO₂ dari khamir tahan panas.\n\nBerdasarkan pedoman resmi MFDS dan USDA, panduan 3 langkah ini menjelaskan metode penyegelan kedap udara untuk menghambat reaksi Maillard dan menjaga warna serta cita rasa mendalam miso hingga lebih dari 1 tahun. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Paparan suhu ruang memicu pencokelatan Maillard dan fermentasi berlebih ⚠️",
-                        "desc": "Menyimpan miso di atas suhu 20°C mempercepat reaksi Maillard hingga warna beralih menjadi pekat. Sisa khamir memicu fermentasi berlebih yang menghasilkan rasa asam, pahit, dan gas CO₂ yang mengembungkan wadah."
-                    },
-                    {
-                        "title": "Cegah kontak dengan udara dan masuknya air / kotoran 🛑",
-                        "desc": "Kontak oksigen mengoksidasi permukaan hingga keras mengering dan mudah berjamur. Menggunakan sendok basah/kotor akan memasukkan mikroba penyabab pembusukan."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Rapatkan plastik wrap langsung ke permukaan pasta — Penyekat Udara (Air-barrier) 🧴",
-                        "text": "Ratakan miso di wadah lalu tempelkan plastik wrap hingga menempel erat di permukaan pasta. 💡 Tips Penyimpanan: Menghilangkan kontak udara mencegah reaksi pencokelatan, permukaan mengering, dan jamur aerobik."
-                    },
-                    {
-                        "name": "Simpan di dalam kulkas pada suhu 0–4°C — Simpan Dingin (365+ Hari) ❄️",
-                        "text": "Reaksi Maillard dan aktivitas enzim melambat drastis pada suhu dingin. 💡 Tips Penyimpanan: Simpan di kulkas (0–4°C) untuk menekan laju perubahan warna dan menjaga rasa aslinya lebih dari 1 tahun."
-                    },
-                    {
-                        "name": "Bekukan dalam porsi kecil untuk penyimpanan jangka panjang — Simpan Beku (365+ Hari) 🧊",
-                        "text": "Kadar garam dan asam amino yang tinggi mencegah miso membeku keras pada suhu -18°C. 💡 Tips Penyimpanan: Simpan di freezer; miso tetap lembut dan bisa disendok langsung tanpa perlu didefrost."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apakah miso atau tauco yang permukaannya menghitam masih aman dikonsumsi?",
-                        "answer": "Ya, sangat aman dikonsumsi! Perubahan warna tersebut merupakan reaksi pencokelatan Maillard antara asam amino dan gula yang tidak beracun. Menempelkan plastik wrap di permukaan dan menyimpannya di kulkas akan mencegah karamelisasi warna ini."
-                    },
-                    {
-                        "question": "Mengapa wadah miso bisa mengembung karena gas?",
-                        "answer": "Sisa khamir tahan panas di dalam miso akan memfermentasi gula tersisa saat terpapar udara dan hangat, lalu menghasilkan gas karbon dioksida (CO₂). Menyimpan miso pada suhu 0–4°C dan kedap udara akan menghentikan pembentukan gas."
-                    }
-                ]
-            }
-        }
+  "how-to-store-miso": {
+    "ingId": "miso",
+    "pubDate": "2026-04-06",
+    "updatedDate": "2026-04-06",
+    "heroImage": "/images/blog/miso_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "미소·된장 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 된장·미소의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "식품의약품안전처(MFDS) & 미국 농무부(USDA) & NRIB",
+        "intro": "맛있는 된장이나 미소를 보관하다가 색이 시꺼멓게 변하거나 겉면이 바짝 마르고 가스가 부풀어 오르는 현상 경험해 보셨죠? 🍲\n\n발효가 완료된 미소와 된장 속에는 여전히 단백질 분해 효소(Protease)와 유리 아미노산이 활성화된 상태로 존재합니다. 상온에 방치하거나 공기(산소)에 노출되면 아미노산과 당이 반응하는 비효소적 마이야르 갈변 반응(Maillard Reaction)이 계속 진행되어 색이 검게 변하고 아린 맛이 생기며, 내열성 효모에 의해 CO₂ 가스가 발생하여 용기가 부풀어 오릅니다.\n\n이번 가이드에서는 식품의약품안전처(MFDS)와 미국 농무부(USDA)의 공인 가이드라인을 바탕으로, 마이야르 반응을 차단해 된장의 고운 빛깔과 깊은 풍미를 1년 이상 신선하게 유지하는 3단계 과학적 밀폐 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "상온 방치는 마이야르 갈변 반응과 과발효의 주원인입니다 ⚠️",
+            "desc": "된장·미소를 상온(20℃ 이상)에 노출시키면 마이야르 반응 속도가 급격히 촉진되어 검붉거나 시꺼멓게 변색됩니다. 또한 잔존 효모와 세균에 의해 과발효가 일어나 신맛과 아린 맛이 나며 CO₂ 가스가 생성되어 용기가 부푸는 현상이 발생합니다."
+          },
+          {
+            "title": "표면 공기 노출 및 이물질 수분 유입을 차단하세요 🛑",
+            "desc": "산소와 접촉하면 표면 산화와 함께 겉면이 딱딱하게 마르고 표면 곰팡이(호기성 곰팡이)가 피기 쉽습니다. 또한 물기나 음식물 찌꺼기가 묻은 스푼을 사용하면 미생물 오염으로 부패가 일어납니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "표면에 식품용 랩을 밀착시켜 공기 차단하기 — 산소 차단 밀봉 (Air-barrier) 🧴",
+            "text": "된장·미소를 용기에 담은 뒤 표면 전체에 식품용 랩을 빈틈없이 밀착(Air-barrier)시키세요. 💡 보관 팁: 공기와의 접촉면을 완전히 없애면 산소에 의한 갈변 반응과 표면 건조, 호기성 곰팡이 발생을 원천 차단할 수 있습니다."
+          },
+          {
+            "name": "0~4℃ 저온에서 냉장 보관하기 — 저온 냉장 보관 (365일 이상) ❄️",
+            "text": "마이야르 반응과 효소 활성은 온도가 낮을수록 극적으로 느려집니다. 💡 보관 팁: 0~4℃의 저온 냉장고나 김치냉장고에 보관하세요. 갈변 반응속도가 획기적으로 줄어들어 1년 이상 본래의 맛과 빛깔을 유지합니다."
+          },
+          {
+            "name": "소량 소분 후 냉동 보관하기 — 장기 냉동 보관 (365일 이상) 🧊",
+            "text": "된장과 미소는 염분과 유리 아미노산 농도가 높아 -18℃ 이하 냉동실에서도 꽁꽁 얼지 않고 부드러운 상태를 유지합니다. 💡 보관 팁: 소분 용기나 밀폐 용기에 담아 냉동 보관하면 해동 과정 없이 숟가락으로 바로 떠서 조리에 사용할 수 있으며 오랜 기간 신선합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "된장이나 미소 표면이 검게 변했는데 먹어도 괜찮나요?",
+            "answer": "네, 드셔도 안전합니다! 이는 아미노산과 당이 반응하여 일어나는 마이야르 갈변 현상으로, 독성이 생기는 것은 아닙니다. 다만 색이 검어지면서 신맛과 씁쓸한 맛이 강해질 수 있으므로, 보관 시 랩을 밀착시키고 저온 냉장 보관하여 갈변을 차단하는 것이 좋습니다."
+          },
+          {
+            "question": "된장 용기가 빵빵하게 부풀어 오르는 이유는 무엇인가요?",
+            "answer": "된장 내에 잔존하는 내열성 효모와 미생물이 상온 및 산소 노출 시 남아있는 당분을 발효시키면서 이산화탄소(CO₂) 가스를 방출하기 때문입니다. 0~4℃ 저온에 보관하고 산소를 차단하면 가스 발생을 억제할 수 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Fermented Soybean Paste & Miso Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for miso and doenjang based on official safety guidelines.",
+        "authority": "MFDS & USDA & NRIB",
+        "intro": "Have you ever found your container of miso or fermented soybean paste turning dark black, drying out on top, or puffing up with gas? 🍲\n\nEven after fermentation is complete, active proteases (protein-decomposing enzymes) and free amino acids remain inside miso and doenjang. Exposure to room temperature and oxygen triggers continuous non-enzymatic Maillard browning, turning the paste dark, altering flavor, and releasing CO₂ gas through heat-resistant yeast fermentation.\n\nBased on official guidelines from the MFDS and USDA, this 3-step scientific airtight storage guide explains how to block Maillard browning and keep the vibrant color and deep flavor of miso fresh for over a year. 🛡️",
+        "whyTitle": "Why Store Miso This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Room temperature exposure causes Maillard browning and over-fermentation ⚠️",
+            "desc": "Exposing miso to room temperature (above 20°C / 68°F) accelerates Maillard browning, turning the paste dark red or black. Residual yeasts also cause over-fermentation, producing sourness, harsh bitterness, and CO₂ gas that swells the container."
+          },
+          {
+            "title": "Block air contact and prevent moisture/food contamination 🛑",
+            "desc": "Oxygen contact causes surface oxidation, drying out the top layer and encouraging mold growth. Using wet or dirty utensils introduces micro-organisms that cause spoilage."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Press plastic wrap directly against the surface to block air — Air-barrier Sealing 🧴",
+            "text": "Smooth out the paste in its container and press a layer of plastic wrap tightly onto the surface (Air-barrier). 💡 Storage Tip: Eliminating air contact stops oxygen-driven Maillard browning, surface crusting, and aerobic mold growth."
+          },
+          {
+            "name": "Store in cold refrigeration at 0–4°C — Cold Refrigeration (365+ Days) ❄️",
+            "text": "Maillard reactions and enzyme activities slow down dramatically at lower temperatures. 💡 Storage Tip: Keep in a fridge at 0–4°C (32–39°F). The browning rate is significantly reduced, preserving original flavor and color for over a year."
+          },
+          {
+            "name": "Portion and freeze for long-term storage — Freezer Storage (365+ Days) 🧊",
+            "text": "High salt and amino acid concentrations prevent miso from freezing solid even at -18°C (0°F), keeping it scoopable. 💡 Storage Tip: Freeze in airtight containers; you can scoop it out directly with a spoon without defrosting."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Is it safe to eat miso or soybean paste that has turned dark black on top?",
+            "answer": "Yes, it is completely safe to eat. The color change is caused by the non-enzymatic Maillard browning reaction between amino acids and sugars, which is non-toxic. However, as it darkens, it may develop a sour or bitter edge. Pressing plastic wrap onto the surface and refrigerating prevents this."
+          },
+          {
+            "question": "Why does my miso container puff up with gas?",
+            "answer": "Residual heat-resistant yeasts inside the fermented paste feed on remaining sugars and produce carbon dioxide (CO₂) gas when exposed to warm temperatures and air. Keeping the paste at 0–4°C and sealed from oxygen stops gas production."
+          }
+        ]
+      },
+      "ja": {
+        "title": "味噌（ミソ・デンジャン）を新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づく味噌・韓国味噌の最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "食品医薬品安全処(MFDS) & USDA & NRIB",
+        "intro": "味噌や韓国味噌を保存していて、色が真っ黒に変色したり、表面がカピカピに乾いたり、容器がガスで膨らんだりした経験はありませんか？🍲\n\n発酵が完了した味噌の内部には、依然としてタンパク質分解酵素（プロテアーゼ）や遊離アミノ酸が活性化した状態で残っています。常温放置や酸素への暴露により、アミノ酸と糖が反応する非酵素的メイラード反応（Maillard Reaction）が進行して黒変・味の変質を引き起こし、耐熱性酵母によってCO₂ガスが発生します。\n\n本記事では、MFDSおよびUSDAの公式ガイドラインに基づき、メイラード反応を抑えて味噌の美しい色と深い風味を1年以上新鮮に保つ3段階の科学的密閉保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "常温放置はメイラード反応と過発酵の主な原因です ⚠️",
+            "desc": "味噌を常温（20℃以上）に晒すとメイラード反応が急激に促進され黒っぽく変色します。また残存する酵母や細菌により過発酵が起き、酸味やエグみが生じてCO₂ガスで容器が膨張します。"
+          },
+          {
+            "title": "表面の空気接触および水分・異物の混入を防いでください 🛑",
+            "desc": "酸素と触れると表面が酸化して硬く乾燥し、好気性カビが生えやすくなります。また、水気や食べかすのついたスプーンを使用すると微生物汚染により腐敗の原因となります。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "表面にラップをぴったり貼って空気を遮断する — 酸素遮断密閉 (Air-barrier) 🧴",
+            "text": "味噌を容器に詰めた後、表面全体にラップを隙間なく密着させて空気を遮断します。💡保存のコツ：空気との接触面を完全に無くすことで、酸素による黒変、表面乾燥、カビの発生を防止できます。"
+          },
+          {
+            "name": "0〜4℃の低温で冷蔵保存する — 低温冷蔵保存 (365日以上) ❄️",
+            "text": "メイラード反応や酵素活性は温度が低いほど劇的に遅くなります。💡保存のコツ：0〜4℃の冷蔵庫やチルド室で保存してください。褐変反応が大幅に抑えられ、1年以上元の味と美しい色合いを保てます。"
+          },
+          {
+            "name": "小分けして冷凍保存する — 長期冷凍保存 (365日以上) 🧊",
+            "text": "味噌は塩分とアミノ酸濃度が高いため、-18℃以下の冷凍庫に入れてもカチカチに凍らず柔らかい状態を維持します。💡保存のコツ：小分け容器に入れて冷凍保存すれば、解凍の手間なくそのままスプーンですくって調理に使えます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "味噌の表面が真っ黒に変色してしまいましたが食べても大丈夫ですか？",
+            "answer": "はい、問題なく召し上がれます！これはアミノ酸と糖が反応して起こるメイラード反応によるもので、毒性はありません。ただし黒変が進むと酸味や苦味が強まる場合があるため、ラップを密着させ低温冷蔵して褐変を防ぐのが理想的です。"
+          },
+          {
+            "question": "味噌の容器がパンパンに膨らむのはなぜですか？",
+            "answer": "味噌の中に残っている耐熱性酵母などの微生物が、常温や酸素に触れることで残った糖分を発酵させ、炭酸ガス（CO₂）を発生させるためです。0〜4℃の低温で空気を遮断して保存するとガスの発生を抑えられます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持味噌与大豆酱（Miso/Doenjang）新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解味噌及大豆发酵酱的最佳储存温度、方式及保鲜时长。",
+        "authority": "韩国食品医药品安全处(MFDS) & USDA & NRIB",
+        "intro": "在保存味噌或大豆酱时，您是否遇到过酱体变黑、表面干硬龟裂，或者容器被气体鼓胀的情况？🍲\n\n即使发酵完成，味噌与大豆酱内部依然保留着活性的蛋白酶（Protease）和游离氨基酸。暴露于常温和氧气中会持续引发非酶促美拉德反应（Maillard Reaction），导致酱体颜色变黑、风味劣化，并由耐热性酵母发酵产生CO₂气体导致容器膨胀。\n\n本指南基于MFDS与USDA的权威指南，为您介绍3步科学密封保存秘诀，有效阻断美拉德反应，长久锁定味噌的靓丽色泽与醇厚风味达1年以上。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "常温随意摆放是美拉德反应与过度发酵的主因 ⚠️",
+            "desc": "将味噌暴露于常温（20℃以上）环境中会剧烈加速美拉德反应，使酱体变为黑红色或黑色。残余酵母还会引发过度发酵，产生酸苦味和膨胀气体。"
+          },
+          {
+            "title": "严防表面接触空气及水分异物混入 🛑",
+            "desc": "接触氧气会导致表面氧化结壳变硬，且极易滋生好氧性霉菌。使用沾有水气或食物残渣的勺子挖取会引发微生物污染和变质。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "表面紧贴保鲜膜隔绝空气 — 保鲜膜贴面密封 (Air-barrier) 🧴",
+            "text": "将味噌装入容器抹平后，用食品级保鲜膜无缝紧贴覆盖于酱体表面。💡储存小贴士：彻底消除与空气的接触面，可从源头杜绝氧气引发的发黑、结皮及霉菌滋生。"
+          },
+          {
+            "name": "置于0~4℃低温冷藏 — 低温冷藏保存 (365天以上) ❄️",
+            "text": "温度越低，美拉德反应及酶活性减缓效果越显著。💡储存小贴士：存放在0~4℃的冰箱冷藏室或保鲜室中，可大幅降低变色速度，保持原有风味达1年以上。"
+          },
+          {
+            "name": "分装后放入冷冻室 — 长期冷冻保存 (365天以上) 🧊",
+            "text": "味噌含有高浓度的盐分和氨基酸，即使在-18℃冷冻室中也不会冻结成冰块，依然保持软绵可舀状态。💡储存小贴士：装入冷冻盒冷冻，无需解冻即可直接用勺子挖取下锅烹饪。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "味噌或大豆酱表面变黑了还能食用吗？",
+            "answer": "可以安全食用！这是氨基酸与糖分发生美拉德反应引起的自然发黑现象，无毒无害。但变黑后酸味和苦味可能会加重，因此建议贴膜密封并低温冷藏以防止变色。"
+          },
+          {
+            "question": "为什么味噌容器会鼓鼓地膨胀起来？",
+            "answer": "这是因为酱体中残留的耐热性酵母在常温和接触氧气时，会继续发酵残留糖分并释放二氧化碳（CO₂）气体。保持0~4℃低温并密封隔绝氧气即可抑制气体产生。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener la pasta de soja fermentada y el miso frescos: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para el miso y la pasta de soja según las directrices oficiales de seguridad.",
+        "authority": "MFDS & USDA & NRIB",
+        "intro": "¿Alguna vez ha notado que su contenedor de miso o pasta de soja fermentada se volvía oscuro o negro, se secaba en la superficie o se hinchaba con gas? 🍲\n\nIncluso tras completar la fermentación, las proteasas activas y aminoácidos libres permanecen en el miso. La exposición a temperatura ambiente y oxígeno activa una reacción continua de oscurecimiento no enzimático de Maillard, volviendo la pasta negra, alterando su sabor y liberando gas CO₂ por levaduras resistentes al calor.\n\nBasado en directrices del MFDS y el USDA, esta guía paso a paso le enseña a bloquear la reacción de Maillard para mantener el color vibrante y el sabor profundo del miso frescos durante más de 1 año. 🛡️",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "La temperatura ambiente causa oscurecimiento de Maillard y sobrefermentación ⚠️",
+            "desc": "Exponer el miso a más de 20 °C acelera la reacción de Maillard, volviendo la pasta negra. Las levaduras residuales causan sobrefermentación, generando sabor agrio, amargor y gas CO₂ que hincha el bote."
+          },
+          {
+            "title": "Evite el contacto con el aire y la humedad externa 🛑",
+            "desc": "El contacto con oxígeno oxida la superficie, creándose una costra dura y mohos. El uso de cucharas húmedas o sucias introduce bacterias que provocan descomposición."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Presione film transparente directamente sobre la superficie — Sellado hermético (Air-barrier) 🧴",
+            "text": "Coloque film plástico en contacto directo sobre la superficie del miso eliminando las burbujas de aire. 💡 Consejo de almacenamiento: Evitar el contacto con el oxígeno previene el oscurecimiento y la formación de moho."
+          },
+          {
+            "name": "Guarde en refrigeración a 0–4 °C — Almacenamiento en frío (365+ días) ❄️",
+            "text": "La reacción de Maillard y la actividad enzimática se reducen enormemente a bajas temperaturas. 💡 Consejo de almacenamiento: Consérvelo entre 0 y 4 °C para detener el oscurecimiento y preservar su sabor durante más de un año."
+          },
+          {
+            "name": "Congele en porciones para conservación prolongada — Congelación (365+ días) 🧊",
+            "text": "El alto contenido en sal y aminoácidos evita que el miso se congele de forma sólida a -18 °C. 💡 Consejo de almacenamiento: Guarde en contenedores aptos para congelador; se puede servir con cuchara directamente sin descongelar."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Es seguro comer miso o pasta de soja que se ha vuelto negra en la superficie?",
+            "answer": "Sí, es completamente seguro. El cambio de color se debe a la reacción de Maillard entre aminoácidos y azúcares, la cual no es tóxica. Sin embargo, puede volverse más ácida o amarga. Cubrir la superficie con film y refrigerar evita este cambio."
+          },
+          {
+            "question": "¿Por qué el envase de miso se hincha con gas?",
+            "answer": "Se debe a que levaduras resistentes al calor continúan fermentando los azúcares residuales a temperatura ambiente, liberando dióxido de carbono (CO₂). Mantener el miso entre 0 y 4 °C y bien sellado evita la acumulación de gas."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver le miso et la pâte de soja fermentée frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le miso selon les directives officielles de sécurité.",
+        "authority": "MFDS & USDA & NRIB",
+        "intro": "Avez-vous déjà remarqué que votre pot de miso ou de pâte de soja fermentée devenait tout noir, séchait en surface ou gonflait sous l'effet du gaz ? 🍲\n\nMême après la fermentation, des protéases actives et des acides aminés libres restent présents. L'exposition à la température ambiante et à l'oxygène déclenche la réaction de Maillard non enzymatique, ce qui noircit la pâte, altère sa saveur et libère du gaz CO₂ à cause de levures thermorésistantes.\n\nBasé sur les conseils officiels du MFDS et du USDA, ce guide en 3 étapes explique comment bloquer la réaction de Maillard pour préserver la belle couleur et la saveur profonde du miso pendant plus d'un an. 🛡️",
+        "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "La température ambiante provoque la réaction de Maillard et une sur-fermentation ⚠️",
+            "desc": "Exposer le miso à plus de 20 °C accélère la réaction de Maillard, noircissant la pâte. Les levures résiduelles provoquent une sur-fermentation avec de l'amertume et du gaz CO₂ qui fait gonfler le pot."
+          },
+          {
+            "title": "Éviter le contact de l'air et l'intrusion d'humidité 🛑",
+            "desc": "L'oxygène assèche la surface et favorise les moisissures aérobie. Utiliser des ustensiles humides ou sales introduit des micro-organismes altérant le produit."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Plaquer du film étirable directement sur la surface — Barrière anti-oxygène (Air-barrier) 🧴",
+            "text": "Appliquez un film plastique directement au contact de la surface du miso. 💡 Astuce de conservation : Éliminer l'air stoppe le noircissement par oxydation et empêche le dessèchement de la pâte."
+          },
+          {
+            "name": "Conserver au réfrigérateur entre 0 et 4 °C — Stockage au frais (365+ jours) ❄️",
+            "text": "Les réactions de Maillard et l'activité enzymatique ralentissent au froid. 💡 Astuce de conservation : Gardez le pot au frais entre 0 et 4 °C pour stabiliser la couleur et conserver le goût d'origine plus d'un an."
+          },
+          {
+            "name": "Congeler en portions pour un stockage longue durée — Congélation (365+ jours) 🧊",
+            "text": "La forte teneur en sel empêche le miso de geler en bloc rigide à -18 °C. 💡 Astuce de conservation : Placez-le au congélateur ; vous pourrez prélever le miso directement à la cuillère sans décongélation."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Le miso qui a noirci en surface est-il encore consommable ?",
+            "answer": "Oui, il est tout à fait consommable. Le noircissement est dû à la réaction de Maillard entre les acides aminés et les sucres, sans danger ni toxicité. Plaquer un film alimentaire sur la surface et conserver au frais permet d'éviter ce phénomène."
+          },
+          {
+            "question": "Pourquoi le pot de miso gonfle-t-il sous l'effet du gaz ?",
+            "answer": "Des levures thermorésistantes fermentent les sucres restants lorsqu'elles sont exposées à la chaleur et à l'air, dégageant du dioxyde de carbone (CO₂). Conserver le miso au frais (0–4 °C) sous scellé empêche la formation de gaz."
+          }
+        ]
+      },
+      "de": {
+        "title": "Miso und fermentierte Sojapaste richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Miso und Doenjang basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "MFDS & USDA & NRIB",
+        "intro": "Haben Sie schon einmal bemerkt, dass Ihre Miso- oder Sojapaste im Behälter schwarz wurde, an der Oberfläche austrocknete oder sich durch Gas aufblähte? 🍲\n\nSelbst nach der Fermentation bleiben aktive Proteasen und freie Aminosäuren in der Miso-Paste erhalten. Bei Raumtemperatur und Sauerstoffkontakt setzt eine kontinuierliche nicht-enzymatische Maillard-Bräunung ein, die die Paste dunkel färbt, den Geschmack verändert und durch hitzebeständige Hefen CO₂-Gas freisetzt.\n\nBasierend auf offiziellen Richtlinien der MFDS und USDA zeigt Ihnen dieser Ratgeber in 3 Schritten, wie Sie die Maillard-Reaktion stoppen und die frische Farbe sowie das tiefe Aroma von Miso über 1 Jahr bewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Raumtemperatur führt zu Maillard-Bräunung und Überfermentation ⚠️",
+            "desc": "Die Lagerung über 20 °C beschleunigt die Maillard-Reaktion und verfärbt Miso dunkelrot bis schwarz. Verbleibende Hefen führen zudem zu Überfermentation, Säure, Bitternis und blähen die Verpackung durch CO₂ auf."
+          },
+          {
+            "title": "Sauerstoffkontakt und Feuchtigkeitseintritt verhindern 🛑",
+            "desc": "Luftkontakt trocknet die Oberfläche aus und fördert Schimmelbildung. Nasse oder verunreinigte Löffel bringen Mikroorganismen ein, die Verderb auslösen."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Frischhaltefolie direkt auf die Oberfläche drücken — Sauerstoffbarriere (Air-barrier) 🧴",
+            "text": "Streichen Sie die Paste glatt und drücken Sie Frischhaltefolie direkt auf die Oberfläche. 💡 Lagerungstipp: Der Luftausschluss verhindert die Maillard-Bräunung, Oberflächenkrusten und Schimmelpilze."
+          },
+          {
+            "name": "Bei 0–4 °C im Kühlschrank aufbewahren — Kühllagerung (365+ Tage) ❄️",
+            "text": "Maillard-Reaktionen und Enzymaktivitäten verlangsamen sich bei Kälte drastisch. 💡 Lagerungstipp: Im Kühlschrank bei 0–4 °C lagern, um Farbe und Geschmack über ein Jahr unverändert zu erhalten."
+          },
+          {
+            "name": "In Portionen einfrieren — Gefrierlagerung (365+ Tage) 🧊",
+            "text": "Der hohe Salz- und Aminosäuregehalt verhindert, dass Miso bei -18 °C steinhart gefriert. 💡 Lagerungstipp: Im Tiefkühlfach lagern; die Paste bleibt geschmeidig und lässt sich direkt mit dem Löffel entnehmen."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Ist Miso noch essbar, wenn sich die Oberfläche schwarz verfärbt hat?",
+            "answer": "Ja, es ist absolut unbedenklich. Die Verfärbung entsteht durch die ungiftige Maillard-Reaktion zwischen Aminosäuren und Zucker. Folie direkt auf die Oberfläche zu drücken und Miso zu kühlen, verhindert das Nachdunkeln."
+          },
+          {
+            "question": "Warum bläht sich die Miso-Verpackung auf?",
+            "answer": "Hitzebeständige Hefen fermentieren bei Wärme und Sauerstoffkontakt den Restzucker und setzen Kohlendioxid (CO₂) frei. Eine Lagerung bei 0–4 °C unter Luftabschluss stoppt die Gasbildung."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar missô e pasta de soja fermentada frescos: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para missô e doenjang com base em diretrizes oficiais de segurança.",
+        "authority": "MFDS & USDA & NRIB",
+        "intro": "Você já percebeu que seu pote de missô ou pasta de soja fermentada ficou escuro e preto, ressecou na superfície ou estufou com gás? 🍲\n\nMesmo após o fim da fermentação, proteases ativas e aminoácidos livres permanecem no missô. A exposição à temperatura ambiente e ao oxigênio ativa a reação de escurecimento não enzimático de Maillard, escurecendo a pasta, alterando o sabor e liberando gás CO₂ por leveduras resistentes ao calor.\n\nCom base em diretrizes do MFDS e do USDA, este guia em 3 etapas ensina como bloquear a reação de Maillard e manter a cor viva e o sabor profundo do missô frescos por mais de 1 ano. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Temperatura ambiente causa escurecimento de Maillard e superfermentação ⚠️",
+            "desc": "Expor o missô a temperaturas acima de 20 °C acelera a reação de Maillard, escurecendo a pasta. Leveduras residuais provocam superfermentação, amargor e gás CO₂ que estufa o recipiente."
+          },
+          {
+            "title": "Evite o contato com o ar e a entrada de umidade 🛑",
+            "desc": "O oxigênio resseca a superfície e atrai bolores. Usar colheres molhadas ou sujas introduz micróbios que deterioram o produto."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Pressione filme plástico diretamente sobre a superfície — Barreiras contra oxigênio (Air-barrier) 🧴",
+            "text": "Alise a pasta no pote e pressione filme plástico diretamente em contato com a superfície. 💡 Dica de conservação: Bloquear o ar evita o escurecimento por Maillard, o ressecamento e mofo."
+          },
+          {
+            "name": "Guarde sob refrigeração de 0 a 4 °C — Armazenamento refrigerado (365+ dias) ❄️",
+            "text": "A reação de Maillard e a atividade enzimática desaceleram no frio. 💡 Dica de conservação: Guarde na geladeira (0–4 °C) para desacelerar o escurecimento e preservar a qualidade por mais de um ano."
+          },
+          {
+            "name": "Congele em porções para longa conservação — Congelamento (365+ dias) 🧊",
+            "text": "O alto teor de sal impede que o missô congele totalmente rígido a -18 °C. 💡 Dica de conservação: Armazene no freezer; ele permanecerá cremoso e pronto para ser retirado na colher."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "É seguro consumir missô cuja superfície ficou preta?",
+            "answer": "Sim, é totalmente seguro. A mudança de cor resulta da reação não tóxica de Maillard entre aminoácidos e açúcares. Pressionar filme plástico no topo e manter sob refrigeração evita o escurecimento."
+          },
+          {
+            "question": "Por que a embalagem de missô fica estufada com gás?",
+            "answer": "Leveduras resistentes ao calor fermentam os açúcares restantes sob calor e ar, liberando gás carbônico (CO₂). Manter o missô de 0 a 4 °C bem selado impede a produção do gás."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Miso & Tauco / Fermented Soybean Paste agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk miso dan tauco berdasarkan pedoman keselamatan resmi.",
+        "authority": "MFDS & USDA & NRIB",
+        "intro": "Pernahkah Anda mendapati wadah miso atau tauco (doenjang) Anda berubah warna menjadi hitam pekat, mengering di permukaan, atau mengembung karena gas? 🍲\n\nBahkan setelah fermentasi selesai, enzim protease aktif dan asam amino bebas tetap berada di dalam miso. Paparan suhu ruang dan oksigen memicu reaksi pencokelatan non-enzimatis Maillard yang terus berlanjut, membuat warna pasta menghitam, merusak rasa, dan menghasilkan gas CO₂ dari khamir tahan panas.\n\nBerdasarkan pedoman resmi MFDS dan USDA, panduan 3 langkah ini menjelaskan metode penyegelan kedap udara untuk menghambat reaksi Maillard dan menjaga warna serta cita rasa mendalam miso hingga lebih dari 1 tahun. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Paparan suhu ruang memicu pencokelatan Maillard dan fermentasi berlebih ⚠️",
+            "desc": "Menyimpan miso di atas suhu 20°C mempercepat reaksi Maillard hingga warna beralih menjadi pekat. Sisa khamir memicu fermentasi berlebih yang menghasilkan rasa asam, pahit, dan gas CO₂ yang mengembungkan wadah."
+          },
+          {
+            "title": "Cegah kontak dengan udara dan masuknya air / kotoran 🛑",
+            "desc": "Kontak oksigen mengoksidasi permukaan hingga keras mengering dan mudah berjamur. Menggunakan sendok basah/kotor akan memasukkan mikroba penyabab pembusukan."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Rapatkan plastik wrap langsung ke permukaan pasta — Penyekat Udara (Air-barrier) 🧴",
+            "text": "Ratakan miso di wadah lalu tempelkan plastik wrap hingga menempel erat di permukaan pasta. 💡 Tips Penyimpanan: Menghilangkan kontak udara mencegah reaksi pencokelatan, permukaan mengering, dan jamur aerobik."
+          },
+          {
+            "name": "Simpan di dalam kulkas pada suhu 0–4°C — Simpan Dingin (365+ Hari) ❄️",
+            "text": "Reaksi Maillard dan aktivitas enzim melambat drastis pada suhu dingin. 💡 Tips Penyimpanan: Simpan di kulkas (0–4°C) untuk menekan laju perubahan warna dan menjaga rasa aslinya lebih dari 1 tahun."
+          },
+          {
+            "name": "Bekukan dalam porsi kecil untuk penyimpanan jangka panjang — Simpan Beku (365+ Hari) 🧊",
+            "text": "Kadar garam dan asam amino yang tinggi mencegah miso membeku keras pada suhu -18°C. 💡 Tips Penyimpanan: Simpan di freezer; miso tetap lembut dan bisa disendok langsung tanpa perlu didefrost."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah miso atau tauco yang permukaannya menghitam masih aman dikonsumsi?",
+            "answer": "Ya, sangat aman dikonsumsi! Perubahan warna tersebut merupakan reaksi pencokelatan Maillard antara asam amino dan gula yang tidak beracun. Menempelkan plastik wrap di permukaan dan menyimpannya di kulkas akan mencegah karamelisasi warna ini."
+          },
+          {
+            "question": "Mengapa wadah miso bisa mengembung karena gas?",
+            "answer": "Sisa khamir tahan panas di dalam miso akan memfermentasi gula tersisa saat terpapar udara dan hangat, lalu menghasilkan gas karbon dioksida (CO₂). Menyimpan miso pada suhu 0–4°C dan kedap udara akan menghentikan pembentukan gas."
+          }
+        ]
+      }
     }
+  }
 }

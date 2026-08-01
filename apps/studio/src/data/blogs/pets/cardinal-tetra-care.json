@@ -1,459 +1,459 @@
 {
-    "cardinal-tetra-care": {
-        "pubDate": "2026-02-24",
-        "updatedDate": "2026-02-24",
-        "locales": {
-            "ko": {
-                "title": "카디널 테트라 약산성 수질 케어와 네온병 예방: 군영 유지와 색상 관리를 위한 3단계 데일리 루틴",
-                "description": "선명한 붉은색과 푸른색 줄무늬를 자랑하는 카디널 테트라 케어법. 약산성 수질 유지, 야간 색상 탈색 이해, 네온병(NTD) 및 수질 쇼크 예방 3단계 루틴을 다룹니다.",
-                "authority": "세계관상어협회(OATA) 담수어 케어 가이드라인 및 열대어 관상어류 임상 표준",
-                "profile": {
-                    "breed": "카디널 테트라 (Cardinal Tetra / Paracheirodon axelrodi)",
-                    "lifespan": "3 ~ 5년",
-                    "sleep_pattern": "야간 수면 (조명이 꺼지면 붉은빛이 옅어지며 바닥 근처에서 휴식)",
-                    "temperament": "매우 평화로움, 군영성(무리 지어 수영), 온순함, 활발함"
-                },
-                "intro": "몸 전체를 뒤덮는 화려한 푸른색 네온 줄무늬와 아랫배 전체의 선명한 붉은 빛깔을 가진 카디널 테트라는 열대어 어항의 대표적인 군영어종입니다. 비슷하게 생긴 네온 테트라와 달리 배 전체가 붉은색으로 물들어 더욱 화려하지만, 약산성(pH 5.5~6.8)의 깨끗한 수질을 선호하며 수온·수질 변화(pH 쇼크)와 질산염 수치에 더욱 민감합니다. 또한 무리를 지어야 안도감을 느끼며, 네온병(NTD)이나 수질 악화 시 색상이 하얗게 변할 수 있습니다. 이번 가이드에서는 카디널 테트라의 신체·수질 시그널을 분석하고 3단계 데일리 홈케어 루틴을 소개합니다.",
-                "whyTitle": "카디널 테트라의 신체 시그널: 야간 및 스트레스 시 체색 탈색(하얗게 바램)과 무리 이탈 수영",
-                "whyDesc": "조명이 꺼진 밤이나 기상 직후 카디널 테트라의 **'붉은색 네온 줄무늬가 하얗게 바래는 현상'**은 수면 시 에너지를 아끼기 위한 자연스러운 생리 현상입니다. 그러나 낮 동안에도 **'색상이 완전히 하얗게 바래며 무리에서 이탈해 따로 헤엄치는 행동'**은 수질 쇼크, 여과력 부족, 또는 치명적인 네온병(NTD)의 경고 신호입니다.",
-                "body_signals": [
-                    {
-                        "name": "낮 동안의 심한 체색 탈색 및 무리 이탈 (Color Fading & Isolation)",
-                        "meaning": "pH 쇼크, 질산염 수치 폭발, 수온 급변 또는 감염성 네온병(NTD)으로 인한 중증 스트레스 상태입니다.",
-                        "response": "즉시 pH와 질산염/아질산 수치를 측정하고, 수질 악화 시 천천히 환수(온도 및 pH 적응)를 진행하며 병든 개체는 격리합니다."
-                    },
-                    {
-                        "name": "떼 지어 다니지 못하고 어항 구석에 숨음 (Scatter & Hiding)",
-                        "meaning": "개체 수가 너무 적거나(6마리 미만) 합사어의 공격으로 극심한 불안감과 공포를 느끼는 상태입니다.",
-                        "response": "카디널 테트라는 최소 8~10마리 이상 무리를 맞춰주고, 공격적인 대형 어종과의 합사를 피하며 은신용 수초를 풍성히 배치합니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 조명 점등 후 색상 회복 관찰 & 수온 점검",
-                        "text": "조명이 켜진 후 붉은색 네온 체색이 원래대로 선명하게 돌아오는지 관찰하고, 적정 수온(24~28℃)이 유지되는지 점검합니다."
-                    },
-                    {
-                        "name": "낮: 군영 상태 관찰 & 수초·개체 건강 점검",
-                        "text": "개체들이 무리를 지어 평화롭게 수영하는지 관찰하고, 몸에 하얀 궤양이나 척추 휘어짐(네온병 증상)이 없는지 점검합니다."
-                    },
-                    {
-                        "name": "저녁: 소입자 침강성 사료 급여 & 수질(pH) 측정",
-                        "text": "입 크기에 맞는 소입자 침강성 펠릿이나 플레이크 사료를 2~3분 내에 먹을 만큼 급여하고, 주 1회 pH(5.5~6.8)와 질산염을 측정합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "카디널 테트라와 네온 테트라는 어떻게 구별하나요?",
-                        "answer": "아랫배의 붉은색 영역으로 구분합니다. 네온 테트라는 배 중간부터 꼬리까지만 붉은색인 반면, 카디널 테트라는 머리 아래부터 꼬리 끝까지 배 전체가 진한 붉은색입니다. 또한 카디널 테트라가 수질에 더 민감하고 성장 시 몸집이 약간 더 큽니다."
-                    },
-                    {
-                        "question": "네온병(Neon Tetra Disease)이란 무엇이며 치료가 가능한가요?",
-                        "answer": "미포자충(Pleistophora hyphessobryconis) 감염으로 몸의 네온 줄무늬가 하얗게 변하고 척추가 휘며 사망하는 치명적인 감염 질환입니다. 현재 확실한 치료약이 없으므로 감염된 개체는 발견 즉시 전염 방지를 위해 격리하고, 평소 청결한 수질을 유지해 예방해야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Cardinal Tetra Soft Water Care and Neon Tetra Disease Prevention: A 3-Step Daily Routine for Schooling and Color Maintenance",
-                "description": "Essential care guide for the vibrant Cardinal Tetra. Learn about maintaining soft acidic water, understanding nighttime fading, and preventing Neon Tetra Disease (NTD) through a 3-step routine.",
-                "authority": "Ornamental Aquatic Trade Association (OATA) Guidelines & Tropical Freshwater Fish Clinical Standards",
-                "profile": {
-                    "breed": "Cardinal Tetra (Paracheirodon axelrodi)",
-                    "lifespan": "3 ~ 5 Years",
-                    "sleep_pattern": "Nighttime Rest (Colors fade at night while resting near the substrate)",
-                    "temperament": "Highly Peaceful, Schooling (Gregarious swimmer), Gentle, Active"
-                },
-                "intro": "Renowned for its vivid neon blue stripe and full-length brilliant red belly, the Cardinal Tetra (Paracheirodon axelrodi) is a quintessential freshwater schooling fish. Unlike the similar Neon Tetra, whose red stripe covers only the rear half, the Cardinal Tetra's belly is completely saturated red. However, they are more sensitive to water parameters, requiring soft, slightly acidic water (pH 5.5–6.8) and low nitrates. They also depend on schooling in groups to feel secure and can lose color under severe stress or disease. In this guide, breaks down Cardinal Tetra signals and outlines a 3-step daily homecare routine.",
-                "whyTitle": "Cardinal Tetra Physical Signals: Daytime Color Fading and Isolation from the School",
-                "whyDesc": "While a **'dull white loss of red coloration at night or right after turning on aquarium lights'** is a normal physiological state to conserve energy during sleep, **'severe color loss during daytime accompanied by leaving the school'** is an emergency indicator of pH shock, nitrate spikes, or contagious Neon Tetra Disease (NTD).",
-                "body_signals": [
-                    {
-                        "name": "Daytime Color Fading & Isolation",
-                        "meaning": "Severe stress caused by pH shock, nitrate explosion, sudden temperature drops, or infectious Neon Tetra Disease (NTD).",
-                        "response": "Test pH and nitrate levels immediately. Perform a gradual drip water change if water quality has degraded, and isolate visibly sick fish."
-                    },
-                    {
-                        "name": "Scattering & Corner Hiding",
-                        "meaning": "Extreme anxiety triggered by small group sizes (fewer than 6 fish) or intimidation from aggressive tank mates.",
-                        "response": "Keep Cardinal Tetras in groups of at least 8–10 individuals, avoid housing with aggressive species, and provide dense live plants."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Post-Lighting Color Recovery & Water Temp Inspection",
-                        "text": "Verify that the vivid red and neon blue hues return shortly after turning on lights, and check that water temperature remains steady (24–28°C / 75–82°F)."
-                    },
-                    {
-                        "name": "Afternoon: Schooling Behavior Observation & Plant/Filter Check",
-                        "text": "Observe if fish are swimming together peacefully and inspect individuals for white patches or spinal curvature associated with NTD."
-                    },
-                    {
-                        "name": "Evening: Micro-Pellet Feeding & pH Parameter Testing",
-                        "text": "Feed small sinking micro-pellets or crushed flakes that can be consumed within 2–3 minutes, and test pH (5.5–6.8) and nitrates weekly."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "How can I tell a Cardinal Tetra apart from a Neon Tetra?",
-                        "answer": "Look at the red stripe on the belly. On Neon Tetras, the red coloration extends only from the mid-body to the tail. On Cardinal Tetras, the deep red stripe runs along the entire length of the lower body, from head to tail. Cardinals also tend to grow slightly larger and are more sensitive to water parameters."
-                    },
-                    {
-                        "question": "What is Neon Tetra Disease (NTD) and can it be cured?",
-                        "answer": "NTD is a parasitic infection caused by Pleistophora hyphessobryconis that bleaches the fish's neon stripe, causes spinal deformity, and leads to mortality. There is no known cure, so infected fish must be isolated immediately to prevent transmission, and water quality must be kept pristine."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "カージナルテトラの弱酸性水質＆ネオン病ケア：群泳と美麗な発色を保つ3ステップ日常ルーティン",
-                "description": "鮮やかなネオンブルーと赤色のラインを持つカージナルテトラの飼育ガイド。弱酸性の水質維持、夜間の退色現象、ネオン病（NTD）予防の3ステップを解説します。",
-                "authority": "日本観賞魚振興事業協同組合(JOFA)および熱帯魚臨床飼育標準",
-                "profile": {
-                    "breed": "カージナルテトラ (Cardinal Tetra / Paracheirodon axelrodi)",
-                    "lifespan": "3 〜 5年",
-                    "sleep_pattern": "夜間睡眠 (消灯時は赤みが薄くなり底付近で休息)",
-                    "temperament": "極めて平和、群泳性(集団で泳ぐ)、温和、活発"
-                },
-                "intro": "体の上面を走る鮮やかなネオンブルーのラインと、お腹全体を染める深紅のラインが魅力的なカージナルテトラ。似た姿のネオンテトラとは異なり、お腹全体が赤く染まるためより華やかな存在感を持ちますが、弱酸性（pH 5.5〜6.8）の清潔な水質を好み、pHショックや水温変化、硝酸塩の蓄積に極めて敏感です。また群れで泳ぐことで安心感を得るため、数が少なかったり病気になると白く退色します。今回はカージナルテトラのシグナルと3ステップ日常ルーティンをご紹介します。",
-                "whyTitle": "カージナルテトラのボディランゲージ：日中の体色退色（白っぽくなる）と群れからの離脱",
-                "whyDesc": "消灯時や点灯直後に**「赤色や青色のネオン模様が白く褪せる」**のは、睡眠時にエネルギーを節約する正常な生理現象です。しかし日中も**「色が完全に白く抜け、群れから離れて1匹で漂う」**のは、pHショックや硝酸塩スパイク、致死性のネオン病（NTD）の危険サインです。",
-                "body_signals": [
-                    {
-                        "name": "日中の著しい体色退色と隔離泳ぎ (Color Fading & Isolation)",
-                        "meaning": "pHショック、硝酸塩の急増、水温の急変、または感染性ネオン病（NTD）による重度ストレス状態です。",
-                        "response": "すぐにpHや硝酸塩濃度を測定し、水質が悪化している場合はゆっくり点滴法で水換えを行い、病気の個体は隔離します。"
-                    },
-                    {
-                        "name": "群れを作れず物陰に隠れる (Scatter & Hiding)",
-                        "meaning": "飼育数が少ない（6匹未満）ことや、混泳魚からの攻撃により極度の不安と恐怖を感じている状態です。",
-                        "response": "少なくとも8〜10匹以上の群れで飼育し、攻撃的な大型魚との混泳を避け、水草を豊富に配置します。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：点灯後の発色確認と水温チェック",
-                        "text": "ライトをつけてから鮮やかな赤と青の発色が戻るか観察し、適正水温（24〜28℃）が維持されているか点検します。"
-                    },
-                    {
-                        "name": "昼：群泳状態の観察と水草・個体の健康チェック",
-                        "text": "仲間とまとまって平和に泳いでいるか観察し、体に白い潰瘍や背骨の曲がり（ネオン病症状）がないか点検します。"
-                    },
-                    {
-                        "name": "夜：小型熱帯魚用フードの給与とpH測定",
-                        "text": "口のサイズに合った微粒子の沈下性ペレットやフレークを2〜3分で食べきれる量与え、週1回pH（5.5〜6.8）を測定します。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "カージナルテトラとネオンテトラの違いは何ですか？",
-                        "answer": "お腹の赤色の範囲で見分けます。ネオンテトラはお腹の中央から尾びれまでが赤いのに対し、カージナルテトラは頭の下から尾の先までお腹全体が真赤に染まります。またカージナルテトラの方が水質にややデリケートで体長も少し大きくなります。"
-                    },
-                    {
-                        "question": "ネオン病（Neon Tetra Disease）とはどのような病気ですか？",
-                        "answer": "微胞子虫（Pleistophora hyphessobryconis）の寄生によりラインが白く褪せ、脊柱が曲がって死亡する致死性の病気です。確立された治療薬がないため、発症個体はただちに隔離して二次感染を防ぎ、日頃の水質管理を徹底することが重要です。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "红莲灯鱼水质护理与霓虹灯病预防：促进群游与色彩维护的日常3步护理流程",
-                "description": "针对拥有绚丽红蓝双色条纹的红莲灯鱼（Cardinal Tetra）护理。介绍弱酸性水质维持、夜间退色现象解读及霓虹灯病（NTD）预防的3步日常护理流程。",
-                "authority": "观赏水族贸易协会 (OATA) 与热带淡水鱼临床护理标准",
-                "profile": {
-                    "breed": "红莲灯鱼 / 宝莲灯鱼 (Cardinal Tetra / Paracheirodon axelrodi)",
-                    "lifespan": "3 ~ 5年",
-                    "sleep_pattern": "夜间睡眠 (熄灯后红蓝色彩变淡，在缸底附近休息)",
-                    "temperament": "极其温和、群游性强、温顺、活泼"
-                },
-                "intro": "红莲灯鱼（又称宝莲灯鱼）拥有贯穿全身的霓虹蓝色荧光条纹与通体鲜红的腹部，是热带水草缸中最具代表性的群游观赏鱼。与日光灯鱼（日光霓虹灯）不同，红莲灯鱼的红色覆盖整个腹部，色彩更加浓郁艳丽。然而它们对水质要求较高，偏好弱酸性（pH 5.5–6.8）软水，对 pH 休克、水温剧变及硝酸盐堆积极度敏感。此外，它们需要成群游动以获得安全感。本指南为您解析红莲灯鱼的健康信号并提供3步日常护理流程。",
-                "whyTitle": "红莲灯鱼的肢体语言：白天体色褪色（变白）与离群独游",
-                "whyDesc": "在夜晚熄灯或刚开灯时，红莲灯鱼 **“红色条纹暂时变浅发白”** 是睡眠时节省体能的正常生理现象。但在白天气光下 **“体色严重褪色发白并脱离群体独游”**，则是 pH 休克、硝酸盐过高或感染致死性霓虹灯病（NTD）的危险信号。",
-                "body_signals": [
-                    {
-                        "name": "白天严重褪色与离群独游 (Color Fading & Isolation)",
-                        "meaning": "因 pH 休克、硝酸盐爆发、水温剧变或传染性霓虹灯病（NTD）引发的极度应激状态。",
-                        "response": "立即检测 pH 值和硝酸盐，若水质恶化应采取滴流法缓慢换水，并将病鱼隔离。"
-                    },
-                    {
-                        "name": "无法成群且躲藏在缸角 (Scatter & Hiding)",
-                        "meaning": "养殖数量过少（少于 6 尾）或受到混养大型鱼类打压引发的极度恐惧。",
-                        "response": "确保红莲灯鱼保持 8–10 尾以上的群游规模，避免与具有攻击性的鱼类混养，并种植密集水草。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：开灯后体色恢复观察与水温检测",
-                        "text": "观察开灯后鲜艳的红蓝体色是否迅速恢复，并排查水温是否稳定在 24–28°C 范围内。"
-                    },
-                    {
-                        "name": "中午：群游状态观察与身体健康排查",
-                        "text": "观察鱼群是否紧密和平地群游，排查个体是否存在白斑溃烂或脊柱弯曲（霓虹灯病症状）。"
-                    },
-                    {
-                        "name": "晚上：微颗粒沉底饲料喂食与 pH 测试",
-                        "text": "喂食可在 2–3 分钟内吃完的小颗粒或碎片饲料，并每周定期测试 pH (5.5–6.8) 及硝酸盐。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "如何区分红莲灯鱼（宝莲灯）与日光灯鱼（霓虹灯）？",
-                        "answer": "看腹部红色的范围。日光灯鱼的红色仅从身体中部延伸至尾部，而红莲灯鱼的鲜红色贯穿整个下腹部（从头部下方一直到尾柄）。此外红莲灯鱼体型略大，对水质更为敏感。"
-                    },
-                    {
-                        "question": "什么是霓虹灯病（Neon Tetra Disease）？可以治愈吗？",
-                        "answer": "霓虹灯病是由微孢子虫（Pleistophora hyphessobryconis）寄生引起的致死性疾病，病鱼体色褪白、脊柱变形并死亡。目前尚无有效药物，发现病鱼须立即隔离以防传染，日常应维持优良水质以作预防。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cuidado de agua blanda del Tetra Cardenal y prevención de la Enfermedad del Neón: Rutina diaria de 3 pasos para el cardumen y el color",
-                "description": "Guía de cuidado para el vibrante Tetra Cardenal (Paracheirodon axelrodi). Aprenda sobre agua blanda ácida, decoloración nocturna y prevención de la enfermedad del neón (NTD).",
-                "authority": "Directrices de la Ornamental Aquatic Trade Association (OATA) y Estándares Clínicos de Peces Tropicales",
-                "profile": {
-                    "breed": "Tetra Cardenal (Paracheirodon axelrodi)",
-                    "lifespan": "3 ~ 5 años",
-                    "sleep_pattern": "Descanso nocturno (los colores se atenúan de noche mientras descansan en el fondo)",
-                    "temperament": "Muy Pacífica, Gregaria / De cardumen, Dócil, Activa"
-                },
-                "intro": "Famoso por su franja azul neón y su vientre rojo intenso de punta a punta, el Tetra Cardenal (Paracheirodon axelrodi) es el pez de cardumen por excelencia para acuarios plantados. A diferencia del Tetra Neón común, cuya mancha roja solo cubre la mitad posterior, el Cardenal muestra un rojo vivo en todo el vientre. Sin embargo, requiere un agua blanda y ligeramente ácida (pH 5,5–6,8) y es muy sensible al shock de pH, cambios de temperatura y nitratos elevados.  le presenta una rutina diaria de 3 pasos para protegerlos.",
-                "whyTitle": "Señales corporales del Tetra Cardenal: Decoloración diurna (palidez) y aislamiento del cardumen",
-                "whyDesc": "Mientras que **'la pérdida temporal del color rojo durante la noche o al encender la luz'** es una respuesta fisiológica normal para conservar energía, **'una palidez severa durante el día acompañada de aislamiento'** es una alerta crítica de shock de pH, exceso de nitratos o la grave Enfermedad del Neón (NTD).",
-                "body_signals": [
-                    {
-                        "name": "Decoloración severa diurna y aislamiento (Color Fading & Isolation)",
-                        "meaning": "Estrés grave provocado por shock de pH, repunte de nitratos, caída brusca de temperatura o la contagiosa Enfermedad del Neón (NTD).",
-                        "response": "Mida el pH y nitratos inmediatamente. Si el agua está alterada, haga un cambio de agua lento por goteo e aísle los peces enfermos."
-                    },
-                    {
-                        "name": "Dispersión e incapacidad de formar cardumen (Scatter & Hiding)",
-                        "meaning": "Ansiedad extrema causada por un grupo demasiado pequeño (menos de 6 individuos) o intimidación por peces agresivos.",
-                        "response": "Mantenga al Tetra Cardenal en grupos de al menos 8 a 10 ejemplares, evite compañeros carnívoros y proporcione abundantes plantas vivas."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Verificación del color tras el encendido y control de temperatura",
-                        "text": "Compruebe que los vívidos tonos azul y rojo regresen rápidamente tras encender la luz y asegúrese de que la temperatura esté entre 24 y 28 °C."
-                    },
-                    {
-                        "name": "Tarde: Observación del cardumen y revisión de salud",
-                        "text": "Observe si nadan agrupados en armonía e inspeccione si hay manchas blancas o deformaciones espinales asociadas a la enfermedad del neón."
-                    },
-                    {
-                        "name": "Noche: Alimentación de microgránulos y medición del pH",
-                        "text": "Suministre microgránulos de hundimiento lento que puedan consumir en 2 o 3 minutos y controle el pH (5,5–6,8) semanalmente."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Cómo se diferencia un Tetra Cardenal de un Tetra Neón?",
-                        "answer": "Mire la franja roja del vientre. En el Tetra Neón, el rojo llega solo desde la mitad del cuerpo hasta la cola. En el Tetra Cardenal, la franja roja brillante recorre todo el vientre desde la cabeza hasta la cola. El Cardenal también es un poco más grande y sensible a los parámetros del agua."
-                    },
-                    {
-                        "question": "¿Qué es la Enfermedad del Neón (NTD) y tiene cura?",
-                        "answer": "Es una infección parasitaria (Pleistophora hyphessobryconis) que decolora las franjas, deforma la columna y causa la muerte. No tiene cura conocida, por lo que se debe aislar al pez afectado inmediatamente y mantener una excelente calidad del agua."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Soins de l'Eau Douce du Tétra Cardinal et Prévention de la Maladie du Néon : Routine quotidienne en 3 étapes pour le banc et la couleur",
-                "description": "Guide de soin essentiel pour le magnifique Tétra Cardinal (Paracheirodon axelrodi). Apprenez à maintenir une eau acide et douce, comprendre la décoloration nocturne et éviter la maladie du néon.",
-                "authority": "Directives de l'Ornamental Aquatic Trade Association (OATA) et Normes Cliniques des Poissons Tropicaux",
-                "profile": {
-                    "breed": "Tétra Cardinal (Paracheirodon axelrodi)",
-                    "lifespan": "3 ~ 5 ans",
-                    "sleep_pattern": "Repos nocturne (les couleurs ternissent la nuit près du substrat)",
-                    "temperament": "Très Paisible, Grégaire / Poisson de banc, Doux, Actif"
-                },
-                "intro": "Célèbre pour sa bande bleu néon étincelante et son ventre rouge vif de la tête à la queue, le Tétra Cardinal (Paracheirodon axelrodi) est l'un des poissons de banc les plus prisés en aquariophilie. Contrairement au Tétra Néon dont le rouge s'arrête à mi-corps, le Cardinal arbore un rouge éclatant sur tout le ventre. Cependant, il exige une eau douce et légèrement acide (pH 5,5–6,8) et s'avère très sensible aux chocs de pH et aux nitrates. Ce guide vous propose une routine en 3 étapes pour préserver sa beauté et sa santé.",
-                "whyTitle": "Langage corporel du Tétra Cardinal : Décoloration diurne (pâleur) et isolement du banc",
-                "whyDesc": "Si **« la perte de couleur rouge pendant la nuit »** est un état physiologique normal pour économiser l'énergie pendant le sommeil, **« une pâleur sévère en journée accompagnée d'un isolement »** constitue un signal d'urgence de choc de pH, de pic de nitrates ou de maladie du néon (NTD).",
-                "body_signals": [
-                    {
-                        "name": "Décoloration diurne sévère et isolement (Color Fading & Isolation)",
-                        "meaning": "Stress intense causé par un choc de pH, un pic de nitrates, un choc thermique ou la maladie du néon (Pleistophora).",
-                        "response": "Testez immédiatement le pH et les nitrates, effectuez un changement d'eau très lent au goutte-à-goutte et isolez le poisson malade."
-                    },
-                    {
-                        "name": "Dispersion et impossibilité de former un banc (Scatter & Hiding)",
-                        "meaning": "Anxiété extrême causée par un groupe trop restreint (moins de 6 poissons) ou par la présence d'espèces agressives.",
-                        "response": "Maintenez les Tétras Cardinals par groupes d'au moins 8 à 10 individus, évitez les poissons prédateurs et plantez densement l'aquarium."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Vérification des couleurs après l'éclairage et contrôle de la température",
-                        "text": "Assurez-vous que les teintes rouge et bleu néon reviennent rapidement après l'allumage de la rampe et vérifiez la stabilité de la température (24–28 °C)."
-                    },
-                    {
-                        "name": "Midi : Observation du banc et bilan de santé individuel",
-                        "text": "Observez si le groupe nage de manière harmonieuse et contrôlez l'absence de décoloration blanchâtre ou de déformation de la colonne."
-                    },
-                    {
-                        "name": "Soir : Distribution de micro-granulés et test du pH",
-                        "text": "Distribuez des micro-granulés coulant lentement consommables en 2 à 3 minutes et contrôlez le pH (5,5–6,8) chaque semaine."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Comment distinguer le Tétra Cardinal du Tétra Néon ?",
-                        "answer": "Regardez la bande rouge du ventre. Chez le Tétra Néon, le rouge ne va que du milieu du corps jusqu'à la queue. Chez le Tétra Cardinal, la bande rouge traverse tout le bas du corps, de la tête jusqu'à la queue. Le Cardinal est aussi un peu plus grand et exigeant sur la qualité de l'eau."
-                    },
-                    {
-                        "question": "Qu'est-ce que la maladie du néon (NTD) et peut-on la soigner ?",
-                        "answer": "C'est une infection parasitaire due à Pleistophora hyphessobryconis qui décolore les lignes lumineuses, déforme la colonne vertébrale et entraîne la mort. Il n'existe aucun traitement efficace ; le poisson atteint doit être isolé immédiatement et la qualité de l'eau maintenue irréprochable."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Kardinaltetra Weichwasser-Pflege & Neonkrankheit-Prävention: Tägliche 3-Schritte-Routine für Schwarmverhalten und Farbenpracht",
-                "description": "Pflegeanleitung für den leuchtenden Kardinaltetra (Paracheirodon axelrodi). Erfahren Sie alles über weiches saures Wasser, nächtliches Verblassen und Neonkrankheit-Prävention.",
-                "authority": "Richtlinien der Ornamental Aquatic Trade Association (OATA) & Klinische Standards für Tropenfische",
-                "profile": {
-                    "breed": "Kardinaltetra / Roter Neon (Paracheirodon axelrodi)",
-                    "lifespan": "3 ~ 5 Jahre",
-                    "sleep_pattern": "Nachtruhe (Farben verblassen nachts während des Ruhens am Boden)",
-                    "temperament": "Sehr friedlich, Schwarmfisch, Sanftmütig, Aktiv"
-                },
-                "intro": "Der Kardinaltetra (Paracheirodon axelrodi), auch bekannt als Roter Neon, besticht durch seinen leuchtend blauen Neonstreifen und den durchgehend tiefroten Bauch. Im Gegensatz zum gewöhnlichen Neonsalmler erstreckt sich die rote Färbung beim Kardinaltetra über die gesamte untere Körperhälfte. Er bevorzugt weiches, leicht saures Wasser (pH 5,5–6,8) und reagiert sehr empfindlich auf pH-Wert-Schwankungen und Nitratansammlungen. Als Schwarmfisch benötigt er die Gruppe zur Entspannung. Dieser Ratgeber zeigt eine 3-Schritte-Routine vor.",
-                "whyTitle": "Körpersprache des Kardinaltetras: Verblassen der Farbe am Tag und Abspalten vom Schwarm",
-                "whyDesc": "Während ein **'vorübergehendes Verblassen der roten Farbe in der Nacht'** ein normaler Ruhezustand ist, stellt **'ein starkes Abblassen der Farben am Tag zusammen mit dem Absondern vom Schwarm'** ein Alarmsignal für pH-Schock, Nitratspitzen oder die Neonkrankheit (NTD) dar.",
-                "body_signals": [
-                    {
-                        "name": "Starkes Verblassen am Tag & Absondern vom Schwarm (Color Fading & Isolation)",
-                        "meaning": "Schwerer Stress durch pH-Schock, Nitratanstieg, Temperaturschock oder Ansteckung mit der Neonkrankheit.",
-                        "response": "Testen Sie sofort pH-Wert und Nitrat. Führen Sie bei Bedarf einen langsamen Wasserwechsel durch und isolieren Sie erkrankte Fische."
-                    },
-                    {
-                        "name": "Inaktivität & Verstecken in den Ecken (Scatter & Hiding)",
-                        "meaning": "Extreme Unruhe oder Angst durch eine zu kleine Gruppe (unter 6 Tieren) oder Bedrohung durch aggressive Beifische.",
-                        "response": "Halten Sie Kardinaltetras in Gruppen von mindestens 8–10 Tieren, vermeiden Sie aggressive Fische und bieten Sie dichte Bepflanzung."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Farbrückkehr nach dem Einschalten & Temperaturkontrolle",
-                        "text": "Prüfen Sie nach dem Einschalten des Lichts, ob die leuchtenden Farben zurückkehren, und kontrollieren Sie die Wassertemperatur (24–28 °C)."
-                    },
-                    {
-                        "name": "Mittag: Schwarmverhalten beobachten & Gesundheitscheck",
-                        "text": "Beobachten Sie, ob der Schwarm friedlich zusammen schwimmt, und achten Sie auf weiße Flecken oder Wirbelsäulenverkrümmungen."
-                    },
-                    {
-                        "name": "Abend: Fütterung von Mikropellets & pH-Wert-Test",
-                        "text": "Füttern Sie langsam absinkende Mikropellets, die innerhalb von 2–3 Minuten gefressen werden, und messen Sie wöchentlich den pH-Wert (5,5–6,8)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Wie unterscheidet man einen Kardinaltetra von einem Neonsalmler?",
-                        "answer": "Achten Sie auf die rote Bauchfärbung. Beim Neonsalmler verläuft der rote Streifen nur von der Körpermitte bis zur Schwanzflosse. Beim Kardinaltetra zieht sich das tiefe Rot über den gesamten Bauch von Kopf bis Schwanz. Der Kardinaltetra wird zudem etwas größer und reagiert empfindlicher auf Wasserwerte."
-                    },
-                    {
-                        "question": "Was ist die Neonkrankheit (NTD) und ist sie heilbar?",
-                        "answer": "Eine durch Mikrosporidien (Pleistophora hyphessobryconis) verursachte parasitäre Infektion, die die Leuchtstreifen verblassen lässt und tödlich verläuft. Eine Heilung ist nicht bekannt; kranke Fische müssen sofort isoliert werden."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Cuidado de Água Ácida do Tetra Cardinal e Prevenção da Doença do Neon: Rotina diária de 3 passos para o cardume e manutenção da cor",
-                "description": "Guia de cuidados para o brilhante Tetra Cardinal (Paracheirodon axelrodi). Aprenda sobre água ácida e mole, desbotamento noturno e prevenção da doença do neon (NTD).",
-                "authority": "Diretrizes da Ornamental Aquatic Trade Association (OATA) e Padrões Clínicos de Peixes Tropicais",
-                "profile": {
-                    "breed": "Tetra Cardinal (Paracheirodon axelrodi)",
-                    "lifespan": "3 ~ 5 anos",
-                    "sleep_pattern": "Descanso noturno (as cores desbotam à noite enquanto descansam no fundo)",
-                    "temperament": "Muito Pacífico, Gregário / Peixe de cardume, Dócil, Ativo"
-                },
-                "intro": "Famoso por sua listra azul neon e seu ventre vermelho vibrante de ponta a ponta, o Tetra Cardinal (Paracheirodon axelrodi) é um dos peixes de cardume mais emblemáticos do aquarismo. Ao contrário do Tetra Neon comum, cuja cor vermelha cobre apenas a metade posterior, o Cardinal exibe vermelho intenso em toda a extensão inferior. No entanto, necessita de água mole e levemente ácida (pH 5.5–6.8) e é muito sensível ao choque de pH e nitratos elevados. O Este guia  uma rotina de 3 passos para a sua saúde.",
-                "whyTitle": "Sinais corporais do Tetra Cardinal: Desbotamento diurno da cor e isolamento do cardume",
-                "whyDesc": "Embora a **'perda temporária da cor vermelha durante a noite'** seja um estado fisiológico normal para economizar energia, a **'palidez severa durante o dia acompanhada de isolamento'** é um alerta crítico de choque de pH, acúmulo de nitratos ou a grave Doença do Neon (NTD).",
-                "body_signals": [
-                    {
-                        "name": "Desbotamento severo diurno e isolamento (Color Fading & Isolation)",
-                        "meaning": "Estresse grave provocado por choque de pH, pico de nitratos, variação de temperatura ou contágio da Doença do Neon.",
-                        "response": "Meça o pH e os nitratos imediatamente. Se a água estiver alterada, faça uma troca lenta por gotejamento e isole os peixes doentes."
-                    },
-                    {
-                        "name": "Dispersão e incapacidade de formar cardume (Scatter & Hiding)",
-                        "meaning": "Ansiedade extrema provocada por um grupo pequeno (menos de 6 indivíduos) ou intimidação por peixes agressivos.",
-                        "response": "Mantenha o Tetra Cardinal em grupos de pelo menos 8 a 10 exemplares, evite peixes predadores e forneça plantas naturais densas."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Verificação da cor após iluminação e controle de temperatura",
-                        "text": "Confirme se as cores azul e vermelha retornam rapidamente após acender as luzes e verifique se a temperatura está entre 24 e 28 °C."
-                    },
-                    {
-                        "name": "Tarde: Observação do cardume e checagem de saúde",
-                        "text": "Observe se nadam agrupados em harmonia e inspecione se há manchas esbranquiçadas ou deformações na coluna."
-                    },
-                    {
-                        "name": "Noite: Alimentação com micropeletes e medição do pH",
-                        "text": "Forneça micropeletes de afundamento lento consumíveis em 2 a 3 minutos e meça o pH (5.5–6.8) semanalmente."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Como diferenciar o Tetra Cardinal do Tetra Neon?",
-                        "answer": "Observe a faixa vermelha no ventre. No Tetra Neon, a cor vermelha vai apenas do meio do corpo até a cauda. No Tetra Cardinal, a faixa vermelha percorre todo o ventre, da cabeça até a cauda. O Cardinal também é um pouco maior e mais sensível aos parâmetros da água."
-                    },
-                    {
-                        "question": "O que é a Doença do Neon (NTD) e tem cura?",
-                        "answer": "É uma infecção parasitária (Pleistophora hyphessobryconis) que desbota as faixas brilhantes, deforma a coluna e leva à morte. Não há cura conhecida; o peixe afetado deve ser isolado imediatamente e a qualidade da água mantida impecável."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Panduan Perawatan Air Asam Khas Cardinal Tetra dan Pencegahan Penyakit Neon: 3 Langkah Rutinitas Harian Schooling dan Warna",
-                "description": "Panduan perawatan esensial untuk ikan Cardinal Tetra (Paracheirodon axelrodi). Pelajari perawatan air asam lunak, pemahaman warna pudar malam hari, dan pencegahan Penyakit Neon (NTD).",
-                "authority": "Pedoman Ornamental Aquatic Trade Association (OATA) & Standar Klinis Ikan Hias Tropis",
-                "profile": {
-                    "breed": "Cardinal Tetra (Paracheirodon axelrodi)",
-                    "lifespan": "3 ~ 5 tahun",
-                    "sleep_pattern": "Istirahat Malam Hari (Warna memudar di malam hari saat beristirahat di dekat dasar)",
-                    "temperament": "Sangat Damai, Suka Berkelompok (Schooling), Lembut, Aktif"
-                },
-                "intro": "Terkenal dengan garis biru neon yang menyala dan warna merah cerah penuh di seluruh perutnya, Cardinal Tetra (Paracheirodon axelrodi) adalah ikan hias bergerombol (schooling) terbaik untuk akuarium aquascape. Berbeda dengan Neon Tetra biasa yang garis merahnya hanya menutupi setengah bagian belakang tubuh, Cardinal Tetra memiliki warna merah penuh dari kepala hingga ekor. Namun, mereka lebih sensitif terhadap kondisi air, membutuhkan air lunak bersuasana asam (pH 5.5–6.8) serta kadar nitrat yang rendah.  menyajikan 3 langkah rutinitas harian untuk merawat kesehatan Cardinal Tetra.",
-                "whyTitle": "Bahasa Tubuh Cardinal Tetra: Warna Pudar Saat Siang Hari dan Menyendiri dari Kelompok",
-                "whyDesc": "Jika **'warna merah memudar menjadi pucat saat malam hari atau sesaat setelah lampu dinyalakan'**, ini adalah kondisi fisiologis alami untuk menghemat energi saat tidur. Namun, jika **'warna tubuh memucat parah pada siang hari disertai kebiasaan menyendiri'**, ini adalah sinyal darurat syok pH, lonjakan nitrat, atau Penyakit Neon (NTD).",
-                "body_signals": [
-                    {
-                        "name": "Warna Tubuh Memucat Parah Siang Hari & Menyendiri (Color Fading & Isolation)",
-                        "meaning": "Stres berat akibat syok pH, lonjakan nitrat, perubahan suhu mendadak, atau infeksi Penyakit Neon (NTD).",
-                        "response": "Segera tes pH dan kadar nitrat. Lakukan pergantian air secara perlahan jika kualitas air memburuk dan pisahkan ikan yang sakit."
-                    },
-                    {
-                        "name": "Memencar & Sering Bersembunyi di Sudut (Scatter & Hiding)",
-                        "meaning": "Rasa cemas berlebih akibat jumlah kelompok yang terlalu sedikit (kurang dari 6 ekor) atau intimidasi dari ikan lain yang agresif.",
-                        "response": "Sediakan kelompok minimal 8–10 ekor Cardinal Tetra, hindari menggabungkan dengan ikan predator, dan tanam tumbuhan air yang rimbun."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Pengamatan Pemulihan Warna Setelah Lampu Menyala & Cek Suhu",
-                        "text": "Pastikan warna merah dan biru neon yang menyala kembali cerah setelah lampu dinyalakan, serta periksa suhu air (24–28 °C)."
-                    },
-                    {
-                        "name": "Siang: Pengamatan Perilaku Berkelompok & Cek Kesehatan Tubuh",
-                        "text": "Amati apakah kelompok ikan berenang bersama dengan damai dan periksa apakah ada bercak putih atau kelainan tulang belakang."
-                    },
-                    {
-                        "name": "Malam: Pemberian Pelet Mikro & Pengujian Parameter pH",
-                        "text": "Berikan pelet mikro tenggelam lambat yang dapat dihabiskan dalam 2–3 menit dan tes parameter pH (5.5–6.8) secara berkala."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Bagaimana cara membedakan Cardinal Tetra dengan Neon Tetra?",
-                        "answer": "Perhatikan garis warna merah di bagian perutnya. Pada Neon Tetra, warna merah hanya membentang dari tengah tubuh hingga ekor. Pada Cardinal Tetra, warna merah terang membentang penuh di seluruh perut dari bagian kepala hingga ekor. Cardinal Tetra juga berukuran sedikit lebih besar dan lebih sensitif terhadap air."
-                    },
-                    {
-                        "question": "Apa itu Penyakit Neon (Neon Tetra Disease/NTD) dan apakah bisa disembuhkan?",
-                        "answer": "NTD adalah infeksi parasit (Pleistophora hyphessobryconis) yang menyebabkan garis neon memudar, tulang belakang bengkok, dan kematian. Belum ada obat yang dapat menyembuhkan penyakit ini, sehingga ikan yang terinfeksi harus segera dipisahkan dan kualitas air wajib dijaga dengan baik."
-                    }
-                ]
-            }
+  "cardinal-tetra-care": {
+    "pubDate": "2026-02-24",
+    "updatedDate": "2026-02-24",
+    "locales": {
+      "ko": {
+        "title": "카디널 테트라 약산성 수질 케어와 네온병 예방: 군영 유지와 색상 관리를 위한 3단계 데일리 루틴",
+        "description": "선명한 붉은색과 푸른색 줄무늬를 자랑하는 카디널 테트라 케어법. 약산성 수질 유지, 야간 색상 탈색 이해, 네온병(NTD) 및 수질 쇼크 예방 3단계 루틴을 다룹니다.",
+        "authority": "세계관상어협회(OATA) 담수어 케어 가이드라인 및 열대어 관상어류 임상 표준",
+        "profile": {
+          "breed": "카디널 테트라 (Cardinal Tetra / Paracheirodon axelrodi)",
+          "lifespan": "3 ~ 5년",
+          "sleep_pattern": "야간 수면 (조명이 꺼지면 붉은빛이 옅어지며 바닥 근처에서 휴식)",
+          "temperament": "매우 평화로움, 군영성(무리 지어 수영), 온순함, 활발함"
         },
-        "heroImage": "/images/blog/cardinal_tetra_care.webp"
-    }
+        "intro": "몸 전체를 뒤덮는 화려한 푸른색 네온 줄무늬와 아랫배 전체의 선명한 붉은 빛깔을 가진 카디널 테트라는 열대어 어항의 대표적인 군영어종입니다. 비슷하게 생긴 네온 테트라와 달리 배 전체가 붉은색으로 물들어 더욱 화려하지만, 약산성(pH 5.5~6.8)의 깨끗한 수질을 선호하며 수온·수질 변화(pH 쇼크)와 질산염 수치에 더욱 민감합니다. 또한 무리를 지어야 안도감을 느끼며, 네온병(NTD)이나 수질 악화 시 색상이 하얗게 변할 수 있습니다. 이번 가이드에서는 카디널 테트라의 신체·수질 시그널을 분석하고 3단계 데일리 홈케어 루틴을 소개합니다.",
+        "whyTitle": "카디널 테트라의 신체 시그널: 야간 및 스트레스 시 체색 탈색(하얗게 바램)과 무리 이탈 수영",
+        "whyDesc": "조명이 꺼진 밤이나 기상 직후 카디널 테트라의 **'붉은색 네온 줄무늬가 하얗게 바래는 현상'**은 수면 시 에너지를 아끼기 위한 자연스러운 생리 현상입니다. 그러나 낮 동안에도 **'색상이 완전히 하얗게 바래며 무리에서 이탈해 따로 헤엄치는 행동'**은 수질 쇼크, 여과력 부족, 또는 치명적인 네온병(NTD)의 경고 신호입니다.",
+        "body_signals": [
+          {
+            "name": "낮 동안의 심한 체색 탈색 및 무리 이탈 (Color Fading & Isolation)",
+            "meaning": "pH 쇼크, 질산염 수치 폭발, 수온 급변 또는 감염성 네온병(NTD)으로 인한 중증 스트레스 상태입니다.",
+            "response": "즉시 pH와 질산염/아질산 수치를 측정하고, 수질 악화 시 천천히 환수(온도 및 pH 적응)를 진행하며 병든 개체는 격리합니다."
+          },
+          {
+            "name": "떼 지어 다니지 못하고 어항 구석에 숨음 (Scatter & Hiding)",
+            "meaning": "개체 수가 너무 적거나(6마리 미만) 합사어의 공격으로 극심한 불안감과 공포를 느끼는 상태입니다.",
+            "response": "카디널 테트라는 최소 8~10마리 이상 무리를 맞춰주고, 공격적인 대형 어종과의 합사를 피하며 은신용 수초를 풍성히 배치합니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 조명 점등 후 색상 회복 관찰 & 수온 점검",
+            "text": "조명이 켜진 후 붉은색 네온 체색이 원래대로 선명하게 돌아오는지 관찰하고, 적정 수온(24~28℃)이 유지되는지 점검합니다."
+          },
+          {
+            "name": "낮: 군영 상태 관찰 & 수초·개체 건강 점검",
+            "text": "개체들이 무리를 지어 평화롭게 수영하는지 관찰하고, 몸에 하얀 궤양이나 척추 휘어짐(네온병 증상)이 없는지 점검합니다."
+          },
+          {
+            "name": "저녁: 소입자 침강성 사료 급여 & 수질(pH) 측정",
+            "text": "입 크기에 맞는 소입자 침강성 펠릿이나 플레이크 사료를 2~3분 내에 먹을 만큼 급여하고, 주 1회 pH(5.5~6.8)와 질산염을 측정합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "카디널 테트라와 네온 테트라는 어떻게 구별하나요?",
+            "answer": "아랫배의 붉은색 영역으로 구분합니다. 네온 테트라는 배 중간부터 꼬리까지만 붉은색인 반면, 카디널 테트라는 머리 아래부터 꼬리 끝까지 배 전체가 진한 붉은색입니다. 또한 카디널 테트라가 수질에 더 민감하고 성장 시 몸집이 약간 더 큽니다."
+          },
+          {
+            "question": "네온병(Neon Tetra Disease)이란 무엇이며 치료가 가능한가요?",
+            "answer": "미포자충(Pleistophora hyphessobryconis) 감염으로 몸의 네온 줄무늬가 하얗게 변하고 척추가 휘며 사망하는 치명적인 감염 질환입니다. 현재 확실한 치료약이 없으므로 감염된 개체는 발견 즉시 전염 방지를 위해 격리하고, 평소 청결한 수질을 유지해 예방해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Cardinal Tetra Soft Water Care and Neon Tetra Disease Prevention: A 3-Step Daily Routine for Schooling and Color Maintenance",
+        "description": "Essential care guide for the vibrant Cardinal Tetra. Learn about maintaining soft acidic water, understanding nighttime fading, and preventing Neon Tetra Disease (NTD) through a 3-step routine.",
+        "authority": "Ornamental Aquatic Trade Association (OATA) Guidelines & Tropical Freshwater Fish Clinical Standards",
+        "profile": {
+          "breed": "Cardinal Tetra (Paracheirodon axelrodi)",
+          "lifespan": "3 ~ 5 Years",
+          "sleep_pattern": "Nighttime Rest (Colors fade at night while resting near the substrate)",
+          "temperament": "Highly Peaceful, Schooling (Gregarious swimmer), Gentle, Active"
+        },
+        "intro": "Renowned for its vivid neon blue stripe and full-length brilliant red belly, the Cardinal Tetra (Paracheirodon axelrodi) is a quintessential freshwater schooling fish. Unlike the similar Neon Tetra, whose red stripe covers only the rear half, the Cardinal Tetra's belly is completely saturated red. However, they are more sensitive to water parameters, requiring soft, slightly acidic water (pH 5.5–6.8) and low nitrates. They also depend on schooling in groups to feel secure and can lose color under severe stress or disease. In this guide, breaks down Cardinal Tetra signals and outlines a 3-step daily homecare routine.",
+        "whyTitle": "Cardinal Tetra Physical Signals: Daytime Color Fading and Isolation from the School",
+        "whyDesc": "While a **'dull white loss of red coloration at night or right after turning on aquarium lights'** is a normal physiological state to conserve energy during sleep, **'severe color loss during daytime accompanied by leaving the school'** is an emergency indicator of pH shock, nitrate spikes, or contagious Neon Tetra Disease (NTD).",
+        "body_signals": [
+          {
+            "name": "Daytime Color Fading & Isolation",
+            "meaning": "Severe stress caused by pH shock, nitrate explosion, sudden temperature drops, or infectious Neon Tetra Disease (NTD).",
+            "response": "Test pH and nitrate levels immediately. Perform a gradual drip water change if water quality has degraded, and isolate visibly sick fish."
+          },
+          {
+            "name": "Scattering & Corner Hiding",
+            "meaning": "Extreme anxiety triggered by small group sizes (fewer than 6 fish) or intimidation from aggressive tank mates.",
+            "response": "Keep Cardinal Tetras in groups of at least 8–10 individuals, avoid housing with aggressive species, and provide dense live plants."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Post-Lighting Color Recovery & Water Temp Inspection",
+            "text": "Verify that the vivid red and neon blue hues return shortly after turning on lights, and check that water temperature remains steady (24–28°C / 75–82°F)."
+          },
+          {
+            "name": "Afternoon: Schooling Behavior Observation & Plant/Filter Check",
+            "text": "Observe if fish are swimming together peacefully and inspect individuals for white patches or spinal curvature associated with NTD."
+          },
+          {
+            "name": "Evening: Micro-Pellet Feeding & pH Parameter Testing",
+            "text": "Feed small sinking micro-pellets or crushed flakes that can be consumed within 2–3 minutes, and test pH (5.5–6.8) and nitrates weekly."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "How can I tell a Cardinal Tetra apart from a Neon Tetra?",
+            "answer": "Look at the red stripe on the belly. On Neon Tetras, the red coloration extends only from the mid-body to the tail. On Cardinal Tetras, the deep red stripe runs along the entire length of the lower body, from head to tail. Cardinals also tend to grow slightly larger and are more sensitive to water parameters."
+          },
+          {
+            "question": "What is Neon Tetra Disease (NTD) and can it be cured?",
+            "answer": "NTD is a parasitic infection caused by Pleistophora hyphessobryconis that bleaches the fish's neon stripe, causes spinal deformity, and leads to mortality. There is no known cure, so infected fish must be isolated immediately to prevent transmission, and water quality must be kept pristine."
+          }
+        ]
+      },
+      "ja": {
+        "title": "カージナルテトラの弱酸性水質＆ネオン病ケア：群泳と美麗な発色を保つ3ステップ日常ルーティン",
+        "description": "鮮やかなネオンブルーと赤色のラインを持つカージナルテトラの飼育ガイド。弱酸性の水質維持、夜間の退色現象、ネオン病（NTD）予防の3ステップを解説します。",
+        "authority": "日本観賞魚振興事業協同組合(JOFA)および熱帯魚臨床飼育標準",
+        "profile": {
+          "breed": "カージナルテトラ (Cardinal Tetra / Paracheirodon axelrodi)",
+          "lifespan": "3 〜 5年",
+          "sleep_pattern": "夜間睡眠 (消灯時は赤みが薄くなり底付近で休息)",
+          "temperament": "極めて平和、群泳性(集団で泳ぐ)、温和、活発"
+        },
+        "intro": "体の上面を走る鮮やかなネオンブルーのラインと、お腹全体を染める深紅のラインが魅力的なカージナルテトラ。似た姿のネオンテトラとは異なり、お腹全体が赤く染まるためより華やかな存在感を持ちますが、弱酸性（pH 5.5〜6.8）の清潔な水質を好み、pHショックや水温変化、硝酸塩の蓄積に極めて敏感です。また群れで泳ぐことで安心感を得るため、数が少なかったり病気になると白く退色します。今回はカージナルテトラのシグナルと3ステップ日常ルーティンをご紹介します。",
+        "whyTitle": "カージナルテトラのボディランゲージ：日中の体色退色（白っぽくなる）と群れからの離脱",
+        "whyDesc": "消灯時や点灯直後に**「赤色や青色のネオン模様が白く褪せる」**のは、睡眠時にエネルギーを節約する正常な生理現象です。しかし日中も**「色が完全に白く抜け、群れから離れて1匹で漂う」**のは、pHショックや硝酸塩スパイク、致死性のネオン病（NTD）の危険サインです。",
+        "body_signals": [
+          {
+            "name": "日中の著しい体色退色と隔離泳ぎ (Color Fading & Isolation)",
+            "meaning": "pHショック、硝酸塩の急増、水温の急変、または感染性ネオン病（NTD）による重度ストレス状態です。",
+            "response": "すぐにpHや硝酸塩濃度を測定し、水質が悪化している場合はゆっくり点滴法で水換えを行い、病気の個体は隔離します。"
+          },
+          {
+            "name": "群れを作れず物陰に隠れる (Scatter & Hiding)",
+            "meaning": "飼育数が少ない（6匹未満）ことや、混泳魚からの攻撃により極度の不安と恐怖を感じている状態です。",
+            "response": "少なくとも8〜10匹以上の群れで飼育し、攻撃的な大型魚との混泳を避け、水草を豊富に配置します。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：点灯後の発色確認と水温チェック",
+            "text": "ライトをつけてから鮮やかな赤と青の発色が戻るか観察し、適正水温（24〜28℃）が維持されているか点検します。"
+          },
+          {
+            "name": "昼：群泳状態の観察と水草・個体の健康チェック",
+            "text": "仲間とまとまって平和に泳いでいるか観察し、体に白い潰瘍や背骨の曲がり（ネオン病症状）がないか点検します。"
+          },
+          {
+            "name": "夜：小型熱帯魚用フードの給与とpH測定",
+            "text": "口のサイズに合った微粒子の沈下性ペレットやフレークを2〜3分で食べきれる量与え、週1回pH（5.5〜6.8）を測定します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "カージナルテトラとネオンテトラの違いは何ですか？",
+            "answer": "お腹の赤色の範囲で見分けます。ネオンテトラはお腹の中央から尾びれまでが赤いのに対し、カージナルテトラは頭の下から尾の先までお腹全体が真赤に染まります。またカージナルテトラの方が水質にややデリケートで体長も少し大きくなります。"
+          },
+          {
+            "question": "ネオン病（Neon Tetra Disease）とはどのような病気ですか？",
+            "answer": "微胞子虫（Pleistophora hyphessobryconis）の寄生によりラインが白く褪せ、脊柱が曲がって死亡する致死性の病気です。確立された治療薬がないため、発症個体はただちに隔離して二次感染を防ぎ、日頃の水質管理を徹底することが重要です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "红莲灯鱼水质护理与霓虹灯病预防：促进群游与色彩维护的日常3步护理流程",
+        "description": "针对拥有绚丽红蓝双色条纹的红莲灯鱼（Cardinal Tetra）护理。介绍弱酸性水质维持、夜间退色现象解读及霓虹灯病（NTD）预防的3步日常护理流程。",
+        "authority": "观赏水族贸易协会 (OATA) 与热带淡水鱼临床护理标准",
+        "profile": {
+          "breed": "红莲灯鱼 / 宝莲灯鱼 (Cardinal Tetra / Paracheirodon axelrodi)",
+          "lifespan": "3 ~ 5年",
+          "sleep_pattern": "夜间睡眠 (熄灯后红蓝色彩变淡，在缸底附近休息)",
+          "temperament": "极其温和、群游性强、温顺、活泼"
+        },
+        "intro": "红莲灯鱼（又称宝莲灯鱼）拥有贯穿全身的霓虹蓝色荧光条纹与通体鲜红的腹部，是热带水草缸中最具代表性的群游观赏鱼。与日光灯鱼（日光霓虹灯）不同，红莲灯鱼的红色覆盖整个腹部，色彩更加浓郁艳丽。然而它们对水质要求较高，偏好弱酸性（pH 5.5–6.8）软水，对 pH 休克、水温剧变及硝酸盐堆积极度敏感。此外，它们需要成群游动以获得安全感。本指南为您解析红莲灯鱼的健康信号并提供3步日常护理流程。",
+        "whyTitle": "红莲灯鱼的肢体语言：白天体色褪色（变白）与离群独游",
+        "whyDesc": "在夜晚熄灯或刚开灯时，红莲灯鱼 **“红色条纹暂时变浅发白”** 是睡眠时节省体能的正常生理现象。但在白天气光下 **“体色严重褪色发白并脱离群体独游”**，则是 pH 休克、硝酸盐过高或感染致死性霓虹灯病（NTD）的危险信号。",
+        "body_signals": [
+          {
+            "name": "白天严重褪色与离群独游 (Color Fading & Isolation)",
+            "meaning": "因 pH 休克、硝酸盐爆发、水温剧变或传染性霓虹灯病（NTD）引发的极度应激状态。",
+            "response": "立即检测 pH 值和硝酸盐，若水质恶化应采取滴流法缓慢换水，并将病鱼隔离。"
+          },
+          {
+            "name": "无法成群且躲藏在缸角 (Scatter & Hiding)",
+            "meaning": "养殖数量过少（少于 6 尾）或受到混养大型鱼类打压引发的极度恐惧。",
+            "response": "确保红莲灯鱼保持 8–10 尾以上的群游规模，避免与具有攻击性的鱼类混养，并种植密集水草。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：开灯后体色恢复观察与水温检测",
+            "text": "观察开灯后鲜艳的红蓝体色是否迅速恢复，并排查水温是否稳定在 24–28°C 范围内。"
+          },
+          {
+            "name": "中午：群游状态观察与身体健康排查",
+            "text": "观察鱼群是否紧密和平地群游，排查个体是否存在白斑溃烂或脊柱弯曲（霓虹灯病症状）。"
+          },
+          {
+            "name": "晚上：微颗粒沉底饲料喂食与 pH 测试",
+            "text": "喂食可在 2–3 分钟内吃完的小颗粒或碎片饲料，并每周定期测试 pH (5.5–6.8) 及硝酸盐。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "如何区分红莲灯鱼（宝莲灯）与日光灯鱼（霓虹灯）？",
+            "answer": "看腹部红色的范围。日光灯鱼的红色仅从身体中部延伸至尾部，而红莲灯鱼的鲜红色贯穿整个下腹部（从头部下方一直到尾柄）。此外红莲灯鱼体型略大，对水质更为敏感。"
+          },
+          {
+            "question": "什么是霓虹灯病（Neon Tetra Disease）？可以治愈吗？",
+            "answer": "霓虹灯病是由微孢子虫（Pleistophora hyphessobryconis）寄生引起的致死性疾病，病鱼体色褪白、脊柱变形并死亡。目前尚无有效药物，发现病鱼须立即隔离以防传染，日常应维持优良水质以作预防。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cuidado de agua blanda del Tetra Cardenal y prevención de la Enfermedad del Neón: Rutina diaria de 3 pasos para el cardumen y el color",
+        "description": "Guía de cuidado para el vibrante Tetra Cardenal (Paracheirodon axelrodi). Aprenda sobre agua blanda ácida, decoloración nocturna y prevención de la enfermedad del neón (NTD).",
+        "authority": "Directrices de la Ornamental Aquatic Trade Association (OATA) y Estándares Clínicos de Peces Tropicales",
+        "profile": {
+          "breed": "Tetra Cardenal (Paracheirodon axelrodi)",
+          "lifespan": "3 ~ 5 años",
+          "sleep_pattern": "Descanso nocturno (los colores se atenúan de noche mientras descansan en el fondo)",
+          "temperament": "Muy Pacífica, Gregaria / De cardumen, Dócil, Activa"
+        },
+        "intro": "Famoso por su franja azul neón y su vientre rojo intenso de punta a punta, el Tetra Cardenal (Paracheirodon axelrodi) es el pez de cardumen por excelencia para acuarios plantados. A diferencia del Tetra Neón común, cuya mancha roja solo cubre la mitad posterior, el Cardenal muestra un rojo vivo en todo el vientre. Sin embargo, requiere un agua blanda y ligeramente ácida (pH 5,5–6,8) y es muy sensible al shock de pH, cambios de temperatura y nitratos elevados.  le presenta una rutina diaria de 3 pasos para protegerlos.",
+        "whyTitle": "Señales corporales del Tetra Cardenal: Decoloración diurna (palidez) y aislamiento del cardumen",
+        "whyDesc": "Mientras que **'la pérdida temporal del color rojo durante la noche o al encender la luz'** es una respuesta fisiológica normal para conservar energía, **'una palidez severa durante el día acompañada de aislamiento'** es una alerta crítica de shock de pH, exceso de nitratos o la grave Enfermedad del Neón (NTD).",
+        "body_signals": [
+          {
+            "name": "Decoloración severa diurna y aislamiento (Color Fading & Isolation)",
+            "meaning": "Estrés grave provocado por shock de pH, repunte de nitratos, caída brusca de temperatura o la contagiosa Enfermedad del Neón (NTD).",
+            "response": "Mida el pH y nitratos inmediatamente. Si el agua está alterada, haga un cambio de agua lento por goteo e aísle los peces enfermos."
+          },
+          {
+            "name": "Dispersión e incapacidad de formar cardumen (Scatter & Hiding)",
+            "meaning": "Ansiedad extrema causada por un grupo demasiado pequeño (menos de 6 individuos) o intimidación por peces agresivos.",
+            "response": "Mantenga al Tetra Cardenal en grupos de al menos 8 a 10 ejemplares, evite compañeros carnívoros y proporcione abundantes plantas vivas."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Verificación del color tras el encendido y control de temperatura",
+            "text": "Compruebe que los vívidos tonos azul y rojo regresen rápidamente tras encender la luz y asegúrese de que la temperatura esté entre 24 y 28 °C."
+          },
+          {
+            "name": "Tarde: Observación del cardumen y revisión de salud",
+            "text": "Observe si nadan agrupados en armonía e inspeccione si hay manchas blancas o deformaciones espinales asociadas a la enfermedad del neón."
+          },
+          {
+            "name": "Noche: Alimentación de microgránulos y medición del pH",
+            "text": "Suministre microgránulos de hundimiento lento que puedan consumir en 2 o 3 minutos y controle el pH (5,5–6,8) semanalmente."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Cómo se diferencia un Tetra Cardenal de un Tetra Neón?",
+            "answer": "Mire la franja roja del vientre. En el Tetra Neón, el rojo llega solo desde la mitad del cuerpo hasta la cola. En el Tetra Cardenal, la franja roja brillante recorre todo el vientre desde la cabeza hasta la cola. El Cardenal también es un poco más grande y sensible a los parámetros del agua."
+          },
+          {
+            "question": "¿Qué es la Enfermedad del Neón (NTD) y tiene cura?",
+            "answer": "Es una infección parasitaria (Pleistophora hyphessobryconis) que decolora las franjas, deforma la columna y causa la muerte. No tiene cura conocida, por lo que se debe aislar al pez afectado inmediatamente y mantener una excelente calidad del agua."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Soins de l'Eau Douce du Tétra Cardinal et Prévention de la Maladie du Néon : Routine quotidienne en 3 étapes pour le banc et la couleur",
+        "description": "Guide de soin essentiel pour le magnifique Tétra Cardinal (Paracheirodon axelrodi). Apprenez à maintenir une eau acide et douce, comprendre la décoloration nocturne et éviter la maladie du néon.",
+        "authority": "Directives de l'Ornamental Aquatic Trade Association (OATA) et Normes Cliniques des Poissons Tropicaux",
+        "profile": {
+          "breed": "Tétra Cardinal (Paracheirodon axelrodi)",
+          "lifespan": "3 ~ 5 ans",
+          "sleep_pattern": "Repos nocturne (les couleurs ternissent la nuit près du substrat)",
+          "temperament": "Très Paisible, Grégaire / Poisson de banc, Doux, Actif"
+        },
+        "intro": "Célèbre pour sa bande bleu néon étincelante et son ventre rouge vif de la tête à la queue, le Tétra Cardinal (Paracheirodon axelrodi) est l'un des poissons de banc les plus prisés en aquariophilie. Contrairement au Tétra Néon dont le rouge s'arrête à mi-corps, le Cardinal arbore un rouge éclatant sur tout le ventre. Cependant, il exige une eau douce et légèrement acide (pH 5,5–6,8) et s'avère très sensible aux chocs de pH et aux nitrates. Ce guide vous propose une routine en 3 étapes pour préserver sa beauté et sa santé.",
+        "whyTitle": "Langage corporel du Tétra Cardinal : Décoloration diurne (pâleur) et isolement du banc",
+        "whyDesc": "Si **« la perte de couleur rouge pendant la nuit »** est un état physiologique normal pour économiser l'énergie pendant le sommeil, **« une pâleur sévère en journée accompagnée d'un isolement »** constitue un signal d'urgence de choc de pH, de pic de nitrates ou de maladie du néon (NTD).",
+        "body_signals": [
+          {
+            "name": "Décoloration diurne sévère et isolement (Color Fading & Isolation)",
+            "meaning": "Stress intense causé par un choc de pH, un pic de nitrates, un choc thermique ou la maladie du néon (Pleistophora).",
+            "response": "Testez immédiatement le pH et les nitrates, effectuez un changement d'eau très lent au goutte-à-goutte et isolez le poisson malade."
+          },
+          {
+            "name": "Dispersion et impossibilité de former un banc (Scatter & Hiding)",
+            "meaning": "Anxiété extrême causée par un groupe trop restreint (moins de 6 poissons) ou par la présence d'espèces agressives.",
+            "response": "Maintenez les Tétras Cardinals par groupes d'au moins 8 à 10 individus, évitez les poissons prédateurs et plantez densement l'aquarium."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Vérification des couleurs après l'éclairage et contrôle de la température",
+            "text": "Assurez-vous que les teintes rouge et bleu néon reviennent rapidement après l'allumage de la rampe et vérifiez la stabilité de la température (24–28 °C)."
+          },
+          {
+            "name": "Midi : Observation du banc et bilan de santé individuel",
+            "text": "Observez si le groupe nage de manière harmonieuse et contrôlez l'absence de décoloration blanchâtre ou de déformation de la colonne."
+          },
+          {
+            "name": "Soir : Distribution de micro-granulés et test du pH",
+            "text": "Distribuez des micro-granulés coulant lentement consommables en 2 à 3 minutes et contrôlez le pH (5,5–6,8) chaque semaine."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Comment distinguer le Tétra Cardinal du Tétra Néon ?",
+            "answer": "Regardez la bande rouge du ventre. Chez le Tétra Néon, le rouge ne va que du milieu du corps jusqu'à la queue. Chez le Tétra Cardinal, la bande rouge traverse tout le bas du corps, de la tête jusqu'à la queue. Le Cardinal est aussi un peu plus grand et exigeant sur la qualité de l'eau."
+          },
+          {
+            "question": "Qu'est-ce que la maladie du néon (NTD) et peut-on la soigner ?",
+            "answer": "C'est une infection parasitaire due à Pleistophora hyphessobryconis qui décolore les lignes lumineuses, déforme la colonne vertébrale et entraîne la mort. Il n'existe aucun traitement efficace ; le poisson atteint doit être isolé immédiatement et la qualité de l'eau maintenue irréprochable."
+          }
+        ]
+      },
+      "de": {
+        "title": "Kardinaltetra Weichwasser-Pflege & Neonkrankheit-Prävention: Tägliche 3-Schritte-Routine für Schwarmverhalten und Farbenpracht",
+        "description": "Pflegeanleitung für den leuchtenden Kardinaltetra (Paracheirodon axelrodi). Erfahren Sie alles über weiches saures Wasser, nächtliches Verblassen und Neonkrankheit-Prävention.",
+        "authority": "Richtlinien der Ornamental Aquatic Trade Association (OATA) & Klinische Standards für Tropenfische",
+        "profile": {
+          "breed": "Kardinaltetra / Roter Neon (Paracheirodon axelrodi)",
+          "lifespan": "3 ~ 5 Jahre",
+          "sleep_pattern": "Nachtruhe (Farben verblassen nachts während des Ruhens am Boden)",
+          "temperament": "Sehr friedlich, Schwarmfisch, Sanftmütig, Aktiv"
+        },
+        "intro": "Der Kardinaltetra (Paracheirodon axelrodi), auch bekannt als Roter Neon, besticht durch seinen leuchtend blauen Neonstreifen und den durchgehend tiefroten Bauch. Im Gegensatz zum gewöhnlichen Neonsalmler erstreckt sich die rote Färbung beim Kardinaltetra über die gesamte untere Körperhälfte. Er bevorzugt weiches, leicht saures Wasser (pH 5,5–6,8) und reagiert sehr empfindlich auf pH-Wert-Schwankungen und Nitratansammlungen. Als Schwarmfisch benötigt er die Gruppe zur Entspannung. Dieser Ratgeber zeigt eine 3-Schritte-Routine vor.",
+        "whyTitle": "Körpersprache des Kardinaltetras: Verblassen der Farbe am Tag und Abspalten vom Schwarm",
+        "whyDesc": "Während ein **'vorübergehendes Verblassen der roten Farbe in der Nacht'** ein normaler Ruhezustand ist, stellt **'ein starkes Abblassen der Farben am Tag zusammen mit dem Absondern vom Schwarm'** ein Alarmsignal für pH-Schock, Nitratspitzen oder die Neonkrankheit (NTD) dar.",
+        "body_signals": [
+          {
+            "name": "Starkes Verblassen am Tag & Absondern vom Schwarm (Color Fading & Isolation)",
+            "meaning": "Schwerer Stress durch pH-Schock, Nitratanstieg, Temperaturschock oder Ansteckung mit der Neonkrankheit.",
+            "response": "Testen Sie sofort pH-Wert und Nitrat. Führen Sie bei Bedarf einen langsamen Wasserwechsel durch und isolieren Sie erkrankte Fische."
+          },
+          {
+            "name": "Inaktivität & Verstecken in den Ecken (Scatter & Hiding)",
+            "meaning": "Extreme Unruhe oder Angst durch eine zu kleine Gruppe (unter 6 Tieren) oder Bedrohung durch aggressive Beifische.",
+            "response": "Halten Sie Kardinaltetras in Gruppen von mindestens 8–10 Tieren, vermeiden Sie aggressive Fische und bieten Sie dichte Bepflanzung."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Farbrückkehr nach dem Einschalten & Temperaturkontrolle",
+            "text": "Prüfen Sie nach dem Einschalten des Lichts, ob die leuchtenden Farben zurückkehren, und kontrollieren Sie die Wassertemperatur (24–28 °C)."
+          },
+          {
+            "name": "Mittag: Schwarmverhalten beobachten & Gesundheitscheck",
+            "text": "Beobachten Sie, ob der Schwarm friedlich zusammen schwimmt, und achten Sie auf weiße Flecken oder Wirbelsäulenverkrümmungen."
+          },
+          {
+            "name": "Abend: Fütterung von Mikropellets & pH-Wert-Test",
+            "text": "Füttern Sie langsam absinkende Mikropellets, die innerhalb von 2–3 Minuten gefressen werden, und messen Sie wöchentlich den pH-Wert (5,5–6,8)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Wie unterscheidet man einen Kardinaltetra von einem Neonsalmler?",
+            "answer": "Achten Sie auf die rote Bauchfärbung. Beim Neonsalmler verläuft der rote Streifen nur von der Körpermitte bis zur Schwanzflosse. Beim Kardinaltetra zieht sich das tiefe Rot über den gesamten Bauch von Kopf bis Schwanz. Der Kardinaltetra wird zudem etwas größer und reagiert empfindlicher auf Wasserwerte."
+          },
+          {
+            "question": "Was ist die Neonkrankheit (NTD) und ist sie heilbar?",
+            "answer": "Eine durch Mikrosporidien (Pleistophora hyphessobryconis) verursachte parasitäre Infektion, die die Leuchtstreifen verblassen lässt und tödlich verläuft. Eine Heilung ist nicht bekannt; kranke Fische müssen sofort isoliert werden."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Cuidado de Água Ácida do Tetra Cardinal e Prevenção da Doença do Neon: Rotina diária de 3 passos para o cardume e manutenção da cor",
+        "description": "Guia de cuidados para o brilhante Tetra Cardinal (Paracheirodon axelrodi). Aprenda sobre água ácida e mole, desbotamento noturno e prevenção da doença do neon (NTD).",
+        "authority": "Diretrizes da Ornamental Aquatic Trade Association (OATA) e Padrões Clínicos de Peixes Tropicais",
+        "profile": {
+          "breed": "Tetra Cardinal (Paracheirodon axelrodi)",
+          "lifespan": "3 ~ 5 anos",
+          "sleep_pattern": "Descanso noturno (as cores desbotam à noite enquanto descansam no fundo)",
+          "temperament": "Muito Pacífico, Gregário / Peixe de cardume, Dócil, Ativo"
+        },
+        "intro": "Famoso por sua listra azul neon e seu ventre vermelho vibrante de ponta a ponta, o Tetra Cardinal (Paracheirodon axelrodi) é um dos peixes de cardume mais emblemáticos do aquarismo. Ao contrário do Tetra Neon comum, cuja cor vermelha cobre apenas a metade posterior, o Cardinal exibe vermelho intenso em toda a extensão inferior. No entanto, necessita de água mole e levemente ácida (pH 5.5–6.8) e é muito sensível ao choque de pH e nitratos elevados. O Este guia  uma rotina de 3 passos para a sua saúde.",
+        "whyTitle": "Sinais corporais do Tetra Cardinal: Desbotamento diurno da cor e isolamento do cardume",
+        "whyDesc": "Embora a **'perda temporária da cor vermelha durante a noite'** seja um estado fisiológico normal para economizar energia, a **'palidez severa durante o dia acompanhada de isolamento'** é um alerta crítico de choque de pH, acúmulo de nitratos ou a grave Doença do Neon (NTD).",
+        "body_signals": [
+          {
+            "name": "Desbotamento severo diurno e isolamento (Color Fading & Isolation)",
+            "meaning": "Estresse grave provocado por choque de pH, pico de nitratos, variação de temperatura ou contágio da Doença do Neon.",
+            "response": "Meça o pH e os nitratos imediatamente. Se a água estiver alterada, faça uma troca lenta por gotejamento e isole os peixes doentes."
+          },
+          {
+            "name": "Dispersão e incapacidade de formar cardume (Scatter & Hiding)",
+            "meaning": "Ansiedade extrema provocada por um grupo pequeno (menos de 6 indivíduos) ou intimidação por peixes agressivos.",
+            "response": "Mantenha o Tetra Cardinal em grupos de pelo menos 8 a 10 exemplares, evite peixes predadores e forneça plantas naturais densas."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Verificação da cor após iluminação e controle de temperatura",
+            "text": "Confirme se as cores azul e vermelha retornam rapidamente após acender as luzes e verifique se a temperatura está entre 24 e 28 °C."
+          },
+          {
+            "name": "Tarde: Observação do cardume e checagem de saúde",
+            "text": "Observe se nadam agrupados em harmonia e inspecione se há manchas esbranquiçadas ou deformações na coluna."
+          },
+          {
+            "name": "Noite: Alimentação com micropeletes e medição do pH",
+            "text": "Forneça micropeletes de afundamento lento consumíveis em 2 a 3 minutos e meça o pH (5.5–6.8) semanalmente."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Como diferenciar o Tetra Cardinal do Tetra Neon?",
+            "answer": "Observe a faixa vermelha no ventre. No Tetra Neon, a cor vermelha vai apenas do meio do corpo até a cauda. No Tetra Cardinal, a faixa vermelha percorre todo o ventre, da cabeça até a cauda. O Cardinal também é um pouco maior e mais sensível aos parâmetros da água."
+          },
+          {
+            "question": "O que é a Doença do Neon (NTD) e tem cura?",
+            "answer": "É uma infecção parasitária (Pleistophora hyphessobryconis) que desbota as faixas brilhantes, deforma a coluna e leva à morte. Não há cura conhecida; o peixe afetado deve ser isolado imediatamente e a qualidade da água mantida impecável."
+          }
+        ]
+      },
+      "id": {
+        "title": "Panduan Perawatan Air Asam Khas Cardinal Tetra dan Pencegahan Penyakit Neon: 3 Langkah Rutinitas Harian Schooling dan Warna",
+        "description": "Panduan perawatan esensial untuk ikan Cardinal Tetra (Paracheirodon axelrodi). Pelajari perawatan air asam lunak, pemahaman warna pudar malam hari, dan pencegahan Penyakit Neon (NTD).",
+        "authority": "Pedoman Ornamental Aquatic Trade Association (OATA) & Standar Klinis Ikan Hias Tropis",
+        "profile": {
+          "breed": "Cardinal Tetra (Paracheirodon axelrodi)",
+          "lifespan": "3 ~ 5 tahun",
+          "sleep_pattern": "Istirahat Malam Hari (Warna memudar di malam hari saat beristirahat di dekat dasar)",
+          "temperament": "Sangat Damai, Suka Berkelompok (Schooling), Lembut, Aktif"
+        },
+        "intro": "Terkenal dengan garis biru neon yang menyala dan warna merah cerah penuh di seluruh perutnya, Cardinal Tetra (Paracheirodon axelrodi) adalah ikan hias bergerombol (schooling) terbaik untuk akuarium aquascape. Berbeda dengan Neon Tetra biasa yang garis merahnya hanya menutupi setengah bagian belakang tubuh, Cardinal Tetra memiliki warna merah penuh dari kepala hingga ekor. Namun, mereka lebih sensitif terhadap kondisi air, membutuhkan air lunak bersuasana asam (pH 5.5–6.8) serta kadar nitrat yang rendah.  menyajikan 3 langkah rutinitas harian untuk merawat kesehatan Cardinal Tetra.",
+        "whyTitle": "Bahasa Tubuh Cardinal Tetra: Warna Pudar Saat Siang Hari dan Menyendiri dari Kelompok",
+        "whyDesc": "Jika **'warna merah memudar menjadi pucat saat malam hari atau sesaat setelah lampu dinyalakan'**, ini adalah kondisi fisiologis alami untuk menghemat energi saat tidur. Namun, jika **'warna tubuh memucat parah pada siang hari disertai kebiasaan menyendiri'**, ini adalah sinyal darurat syok pH, lonjakan nitrat, atau Penyakit Neon (NTD).",
+        "body_signals": [
+          {
+            "name": "Warna Tubuh Memucat Parah Siang Hari & Menyendiri (Color Fading & Isolation)",
+            "meaning": "Stres berat akibat syok pH, lonjakan nitrat, perubahan suhu mendadak, atau infeksi Penyakit Neon (NTD).",
+            "response": "Segera tes pH dan kadar nitrat. Lakukan pergantian air secara perlahan jika kualitas air memburuk dan pisahkan ikan yang sakit."
+          },
+          {
+            "name": "Memencar & Sering Bersembunyi di Sudut (Scatter & Hiding)",
+            "meaning": "Rasa cemas berlebih akibat jumlah kelompok yang terlalu sedikit (kurang dari 6 ekor) atau intimidasi dari ikan lain yang agresif.",
+            "response": "Sediakan kelompok minimal 8–10 ekor Cardinal Tetra, hindari menggabungkan dengan ikan predator, dan tanam tumbuhan air yang rimbun."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pengamatan Pemulihan Warna Setelah Lampu Menyala & Cek Suhu",
+            "text": "Pastikan warna merah dan biru neon yang menyala kembali cerah setelah lampu dinyalakan, serta periksa suhu air (24–28 °C)."
+          },
+          {
+            "name": "Siang: Pengamatan Perilaku Berkelompok & Cek Kesehatan Tubuh",
+            "text": "Amati apakah kelompok ikan berenang bersama dengan damai dan periksa apakah ada bercak putih atau kelainan tulang belakang."
+          },
+          {
+            "name": "Malam: Pemberian Pelet Mikro & Pengujian Parameter pH",
+            "text": "Berikan pelet mikro tenggelam lambat yang dapat dihabiskan dalam 2–3 menit dan tes parameter pH (5.5–6.8) secara berkala."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Bagaimana cara membedakan Cardinal Tetra dengan Neon Tetra?",
+            "answer": "Perhatikan garis warna merah di bagian perutnya. Pada Neon Tetra, warna merah hanya membentang dari tengah tubuh hingga ekor. Pada Cardinal Tetra, warna merah terang membentang penuh di seluruh perut dari bagian kepala hingga ekor. Cardinal Tetra juga berukuran sedikit lebih besar dan lebih sensitif terhadap air."
+          },
+          {
+            "question": "Apa itu Penyakit Neon (Neon Tetra Disease/NTD) dan apakah bisa disembuhkan?",
+            "answer": "NTD adalah infeksi parasit (Pleistophora hyphessobryconis) yang menyebabkan garis neon memudar, tulang belakang bengkok, dan kematian. Belum ada obat yang dapat menyembuhkan penyakit ini, sehingga ikan yang terinfeksi harus segera dipisahkan dan kualitas air wajib dijaga dengan baik."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/cardinal_tetra_care.webp"
+  }
 }

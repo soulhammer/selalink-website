@@ -1,459 +1,459 @@
 {
-    "degu-care": {
-        "pubDate": "2026-07-20",
-        "updatedDate": "2026-07-20",
-        "locales": {
-            "ko": {
-                "title": "데구의 꼬리 흔들기·경고음 신호 해석과 당뇨·치아 부정교합 예방을 위한 3단계 데일리 케어",
-                "description": "귀여운 안데스 소동물 데구(Degu). 꼬리 흔들기와 경고 울음 신호 해석, 엄격한 당분 제한을 통한 당뇨 예방, 이갈이·화산재 모래목욕 관리를 위한 3단계 홈케어 루틴을 소개합니다.",
-                "authority": "영국 동물학대방지협회 (RSPCA) 및 국제 소동물 수의학회 (WSAVA) 데구 케어 프로토콜",
-                "profile": {
-                    "breed": "데구 (Degu / Octodon degus)",
-                    "lifespan": "5 ~ 8년 (올바른 케어 시 최대 10년)",
-                    "sleep_pattern": "10 ~ 12시간 (주행성/박명성, 낮 동안 활발히 활동하고 야간 수면)",
-                    "temperament": "매우 사회적임, 호기심 많음, 활발함, 영리함, 경계심"
-                },
-                "intro": "칠레 안데스 산맥이 원산지인 데구(Degu)는 친칠라, 기니피그와 가까운 친척으로, 높은 지능과 풍부한 울음소리로 '소리 내어 대화하는 소동물'이라 불립니다. 데구는 당을 인슐린으로 분해하는 능력이 거의 없어 과일이나 단 간식을 섭취할 경우 순식간에 '당뇨병(Diabetes)'과 당뇨성 백내장에 걸리는 유전적 특성을 지니고 있습니다. 또한 평생 자라는 치아 관리 부족 시 '부정교합'이 생기기 쉬우며, 포식자에게 잡혔을 때 꼬리 가죽이 벗겨지는 '디글로빙(Degloving)' 위험이 있어 절대로 꼬리를 잡아서는 안 됩니다. 이번 가이드에서는 데구의 행동 신호를 올바르게 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
-                "whyTitle": "데구의 바디 랭귀지: 꼬리 흔들기·기쁨의 울음(Tail Wagging / Chirping)과 몸 굳힘·경고음(Freezing / Alarm Whistle)",
-                "whyDesc": "데구는 다양한 울음소리와 꼬리 움직임으로 감정과 스트레스를 명확하게 표현합니다. 동료나 보호자를 향해 꼬리를 좌우로 흔들며 새소리 같은 높은 울음소리를 내는 **'꼬리 흔들기 및 기쁨의 울음(Tail Wagging / Chirping)'**은 강한 유대감과 반가움을 나타내는 친화 신호입니다. 반면 제자리에 얼어붙은 채 날카롭고 고음의 경고음을 연속으로 내지르는 **'몸 굳힘 및 경고음(Freezing / Alarm Whistle)'**은 갑작스러운 소음, 상공의 그림자, 극심한 공포나 영역 침범에 대한 긴급 경고 신호입니다.",
-                "body_signals": [
-                    {
-                        "name": "꼬리를 좌우로 흔들며 청아한 새소리 같은 울음소리를 냄 (Tail Wagging / Chirping)",
-                        "meaning": "동료나 보호자에 대한 높은 신뢰, 반가움, 유대감 형성 및 기분 좋은 상태를 나타내는 긍정적 신호입니다.",
-                        "response": "다정하게 이름을 불러주며 무설탕 이갈이 수제 간식이나 티모시 건초를 제공해 교감을 강화합니다."
-                    },
-                    {
-                        "name": "몸을 딱딱하게 굳힌 채 고음의 날카로운 경고음을 내지름 (Freezing / Alarm Whistle)",
-                        "meaning": "상공의 그림자, 갑작스러운 진동, 외부 소음으로 인한 극심한 공포와 위험 경고 신호입니다.",
-                        "response": "시야를 가리는 자극 요인을 치우고 케이지를 어둡게 가려 안정을 취하게 하며, 놀라서 꼬리를 잡지 않도록 주의합니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 무제한 티모시 건초·무설탕 전용 펠릿 급여 및 주황색 치아 상태 점검",
-                        "text": "당뇨 예방을 위해 과일과 당분이 완전히 배제된 티모시 건초와 전용 펠릿을 제공하며, 건강한 주황색 이갈이 치아 상태를 확인합니다."
-                    },
-                    {
-                        "name": "낮: 대형 챗바퀴·이갈이 목재 점검 및 사회적 교감 환경 유지",
-                        "text": "운동 부족과 스트레스 방지를 위해 대형 무소음 챗바퀴(30cm 이상)와 천연 이갈이 나무를 제공하고, 외로움을 타지 않도록 동료와 지낼 수 있게 돕습니다."
-                    },
-                    {
-                        "name": "저녁: 전용 화산재 모래목욕탕 제공 및 꼬리 건강 모니터링",
-                        "text": "피지 제거와 위생을 위해 물목욕 대신 미세 화산재 모래목욕탕을 제공하고, 꼬리 피모와 상처 여부를 점검합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "데구에게 과일이나 말린 채소를 간식으로 줘도 되나요?",
-                        "answer": "절대 주면 안 됩니다! 데구는 당을 분해하는 인슐린 시스템이 매우 취약하여 아주 적은 양의 과일, 당근, 옥수수, 단 간식으로도 치명적인 당뇨병과 백내장을 유발합니다. 간식으로는 당분이 전혀 없는 건조 산야초, 뿌리류, 티모시 이갈이 링만 급여해야 합니다."
-                    },
-                    {
-                        "question": "데구의 꼬리를 실수로 잡았는데 피가 나고 가죽이 벗겨졌어요. 어떻게 하나요?",
-                        "answer": "데구는 포식자에게 잡혔을 때 꼬리 가죽이 벗겨지며 탈출하는 '디글로빙(Degloving)' 생체 방어 기전을 가지고 있습니다. 벗겨진 꼬리 가죽은 다시 재생되지 않고 괴사하여 수의사의 절단 수술이 필요하므로 절대로 꼬리를 잡으면 안 됩니다. 즉시 소동물 전문 병원에 내원하여 치료받아야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Degu Behavioral Signals and 3-Step Daily Routine for Diabetes and Dental Malocclusion Prevention",
-                "description": "Care guide for the intelligent Chilean Degu. Interpret tail wagging, chirping, and alarm whistles, enforce strict sugar restrictions to prevent diabetes, and manage dental health in 3 steps.",
-                "authority": "Royal Society for the Prevention of Cruelty to Animals (RSPCA) & World Small Animal Veterinary Association (WSAVA) Degu Care Standards",
-                "profile": {
-                    "breed": "Degu (Octodon degus)",
-                    "lifespan": "5 - 8 Years (Up to 10 years with optimal care)",
-                    "sleep_pattern": "10 - 12 Hours (Diurnal/Crepuscular, active during the day, sleeps at night)",
-                    "temperament": "Highly Social, Curious, Active, Intelligent, Alert"
-                },
-                "intro": "Native to the Chilean Andes, Degus (Octodon degus) are close relatives of chinchillas and guinea pigs, celebrated for their high intelligence and vast vocal repertoire. Genetically, degus lack the metabolic capacity to process free sugars, making them extremely prone to Diabetes Mellitus and diabetic cataracts if fed fruits or sweet treats. Furthermore, their continuously growing incisors require constant grinding to prevent dental malocclusion, and their tails feature a 'degloving' defense mechanism that strips skin off if grabbed. In this guide, presents a 3-step daily care routine to read your Degu's signals and protect its health.",
-                "whyTitle": "Degu Body Language: Tail Wagging / Chirping and Freezing / Alarm Whistling",
-                "whyDesc": "Degus communicate emotional states and stress through tail movements and distinct vocalizations. Wagging the tail side-to-side while emitting high-pitched bird-like vocalizations **'Tail Wagging / Chirping'** is an affectionate signal demonstrating trust, joy, and social bonding. Conversely, freezing motionless while sounding a sharp, piercing whistle **'Freezing / Alarm Whistle'** is an urgent warning triggered by sudden noises, overhead shadows, or extreme fear.",
-                "body_signals": [
-                    {
-                        "name": "Wagging Tail Side-to-Side with Bird-Like Chirping (Tail Wagging / Chirping)",
-                        "meaning": "A positive social signal indicating deep trust, joy, affection, and emotional bonding toward cagemates or owners.",
-                        "response": "Speak gently and offer sugar-free timothy hay chews or herbal treats to reinforce bonding."
-                    },
-                    {
-                        "name": "Freezing Motionless while Emitting High-Pitched Whistles (Freezing / Alarm Whistle)",
-                        "meaning": "An alarm response triggered by perceived danger, overhead shadows, loud noises, or territorial threats.",
-                        "response": "Remove stress triggers, dim cage lighting to restore calm, and never grab or startle them by the tail."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Unlimited Timothy Hay, Sugar-Free Pellets & Orange Tooth Check",
-                        "text": "Provide free-choice timothy hay and sugar-free degu pellets, inspecting incisors to confirm a healthy orange/yellow enamel color."
-                    },
-                    {
-                        "name": "Afternoon: Large Exercise Wheel, Wooden Chews & Social Interaction Check",
-                        "text": "Maintain a large solid-surface wheel (30cm+ / 12in+) and natural wooden chews to prevent boredom, keeping them housed with cagemates."
-                    },
-                    {
-                        "name": "Evening: Volcanic Ash Dust Bath Provision & Tail Health Monitoring",
-                        "text": "Offer a dedicated volcanic ash dust bath to strip coat oils instead of water baths, inspecting the tail sheath and coat condition."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Can I feed my degu small pieces of fruit, carrots, or dried vegetables as treats?",
-                        "answer": "Never feed fruits or sweet vegetables to a degu! Degus have an extremely fragile insulin response; even tiny amounts of fruit, carrots, corn, or commercial sweet treats trigger fatal Diabetes Mellitus and irreversible cataracts. Treat them strictly with sugar-free dried herbs, roots, or timothy chews."
-                    },
-                    {
-                        "question": "I accidentally pulled my degu's tail and the skin stripped off. What should I do?",
-                        "answer": "This is a natural antipredator defense mechanism called 'Degloving'. The stripped tail sheath cannot regenerate and will necrose, requiring prompt surgical amputation by an exotic veterinarian. Never grab a degu by its tail; seek immediate veterinary medical care."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "デグーの尾振り・鳴き声サイン解読と糖尿病・不正咬合予防のための3ステップデイリールーティン",
-                "description": "知能が高く愛らしいアンデスの小動物デグー（Degu）。尾振りと警戒鳴き声の解読、厳格な糖質制限による糖尿病予防、歯の伸びすぎケアと火山灰砂浴びのための3ステップホームケアを紹介します。",
-                "authority": "英国王立動物虐待防止協会 (RSPCA) および 世界小動物獣医師会 (WSAVA) デグー飼育基準",
-                "profile": {
-                    "breed": "デグー (Degu / Octodon degus)",
-                    "lifespan": "5 〜 8年 (適切なケアで最大10年)",
-                    "sleep_pattern": "10 〜 12時間 (昼行性/薄明薄暮性、昼間に活発に活動し夜間睡眠)",
-                    "temperament": "非常に社交的、好奇心旺盛、活発、賢い、警戒心が強い"
-                },
-                "intro": "チリのアンデス山脈原産のデグー（Degu）は、チンチラやギニアピッグ（モルモット）の近縁種で、高い知能と豊かな鳴き声から「歌う小動物」として世界中で愛されています。デグーは糖分を代謝する能力が遺伝的に低く、果物や甘いおやつを摂取すると短期間で「糖尿病（Diabetes）」や糖尿病性白内障を発症します。また、生涯伸び続ける歯のケア不足は「不正咬合」を引き起こし、天敵に捕まった際に尾の皮膚が剥がれ落ちる「ディグロービング（Degloving）」という防衛本能を持つため、絶対に尾を掴んではいけません。本記事では、デグーのサインを正確に読み解き、健康を守る3ステップルーティンをお届けします。",
-                "whyTitle": "デグーのボディランゲージ：尾振り・喜びの鳴き声(Tail Wagging / Chirping)とフリーズ・警戒音(Freezing / Alarm Whistle)",
-                "whyDesc": "デグーは多彩な鳴き声と尾の動きで感情やストレスを明確に表現します。仲間や飼い主に向かって尾を左右に振りながら鳥のような高い声で鳴く**「尾振り・喜びの鳴き声（Tail Wagging / Chirping）」**は、強い信頼と親愛を示すサインです。一方、その場で体を硬直させたまま甲高い警戒音を連続で発する**「フリーズ・警戒音（Freezing / Alarm Whistle）」**は、突然の騒音、上空の影、極度の恐怖や縄張り侵入に対する緊急警告サインです。",
-                "body_signals": [
-                    {
-                        "name": "尾を左右に振り小鳥のような美しい声で鳴く (Tail Wagging / Chirping)",
-                        "meaning": "飼い主や仲間への深い信頼、喜び、親和性を示すポジティブなコミュニケーションサインです。",
-                        "response": "優しく声をかけ、無糖のチモシー系おやつやハーブを与えてスキンシップを深めましょう。"
-                    },
-                    {
-                        "name": "体を硬直（フリーズ）させ甲高い警戒音を発する (Freezing / Alarm Whistle)",
-                        "meaning": "上空の影、大きな音、周囲の異変による強い恐怖や危険の察知を示す警戒サインです。",
-                        "response": "不安の要因を取り除きケージを暗く覆って落ち着かせ、驚いて尾を掴まないよう注意してください。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：主食チモシーの無制限給与・無糖ペレット与え＆オレンジ色の歯のチェック",
-                        "text": "糖尿病予防のため糖質が完全に排除されたチモシーとかじり木・専用ペレットを与え、健康なオレンジ色の前歯を確認します。"
-                    },
-                    {
-                        "name": "昼：大型回し車・かじり木の点検と多頭飼育環境のケア",
-                        "text": "運動不足とストレス防止のため大きな静音回し車（30cm以上）を用意し、寂しさを感じないよう多頭飼育や十分なコミュニケーションを図ります。"
-                    },
-                    {
-                        "name": "夜：専用火山灰砂浴び容器の提供と尾の健康モニタリング",
-                        "text": "皮脂汚れ除去のため水浴びではなく細かい火山灰の砂浴び場を用意し、尾の皮膚や毛並みに異常がないか観察します。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "デグーに果物やドライ野菜をおやつとして与えてもいいですか？",
-                        "answer": "絶対に与えてはいけません！デグーはインスリンの代謝機能が極めて弱く、ほんの少しの果物、人参、トウモロコシ、市販の甘いおやつの摂取で致命的な糖尿病や白内障を引き起こします。おやつには無糖の乾燥ハーブ、野草、チモシーリングのみを与えてください。"
-                    },
-                    {
-                        "question": "デグーの尾をうっかり掴んでしまい、皮が剥がれて血が出ました。どうすればいいですか？",
-                        "answer": "デグーには捕食者に捕まった際、尾の皮膚が脱げ落ちて逃げる「ディグロービング（Degloving）」という防衛本能があります。剥がれた皮は再生せず壊死するため、エキゾチックアニマル専門医による切断手術が必要です。絶対に尾を掴まず、至急病院で適切な治療を受けてください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "智利八齿鼠（Degu）摇尾与警报信号解读及糖尿病与牙齿咬合不正预防的3步日常流程",
-                "description": "高智商智利小宠智利八齿鼠（Degu）。解读摇尾与鸣叫警报信号，通过严格控糖预防糖尿病，管理磨牙与火山灰沙浴的3步骤家庭护理。",
-                "authority": "英国皇家防止虐待动物协会 (RSPCA) 与 世界小动物兽医师协会 (WSAVA) 护理标准",
-                "profile": {
-                    "breed": "智利八齿鼠 / 德古鼠 (Degu / Octodon degus)",
-                    "lifespan": "5 ~ 8年 (科学饲养可达10年)",
-                    "sleep_pattern": "10 ~ 12小时 (昼行性/薄暮性，白天活跃，夜间睡眠)",
-                    "temperament": "高度群居、好奇心强、活泼、聪明、警惕"
-                },
-                "intro": "原产于智利安第斯山脉的智利八齿鼠（Degu）是龙猫和天竺鼠的近亲，因其高智商与极其丰富的叫声语言而被誉为“会说话的观赏小宠”。智利八齿鼠在遗传上缺乏代谢游离糖分的能力，摄入水果或甜食极易诱发致命的“糖尿病 (Diabetes)”及糖尿病性白内障。此外，其终生生长的门齿若缺乏磨木极易导致“咬合不正”，且尾部具有被抓拉即脱皮断裂的“脱套伤 (Degloving)”自卫机制，绝对不可抓拽尾巴。本指南将带您准确解读智利八齿鼠的行为信号，并通过3步骤日常护理维护其健康。",
-                "whyTitle": "智利八齿鼠肢体语言：摇尾与欢快鸣叫 (Tail Wagging / Chirping) 及冻结与高亢警报哨音 (Freezing / Alarm Whistle)",
-                "whyDesc": "智利八齿鼠通过尾部动作与丰富的叫声清晰表达情感与压力。面向同伴或主人左右摇晃尾巴并发出如鸟鸣般清脆的叫声**“摇尾与欢快鸣叫 (Tail Wagging / Chirping)”**，是表达高度信任、欢愉与亲密的社交信号。相反，身体僵硬冻结在原地并发出尖锐高亢的哨音**“冻结与高亢警报哨音 (Freezing / Alarm Whistle)”**，则是受到突发噪音、上方阴影或极度恐慌时的紧急警告信号。",
-                "body_signals": [
-                    {
-                        "name": "左右摇晃尾巴并发出如鸟鸣般清脆叫声 (Tail Wagging / Chirping)",
-                        "meaning": "对主人或同伴表达高度信任、欢喜与建立深厚感情的积极交流信号。",
-                        "response": "温和地呼唤其名字，投喂无糖提摩西草圈或干草包以加深情感互动。"
-                    },
-                    {
-                        "name": "身体僵硬冻结并发出高亢尖锐的哨音 (Freezing / Alarm Whistle)",
-                        "meaning": "感受到上方阴影、剧烈震动或突发噪音引发的极度恐慌与危险警告。",
-                        "response": "撤离惊吓源并遮挡笼舍使其恢复平静，切勿因惊慌强行抓握其尾巴。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：无限量提摩西草与无糖主粮投喂及橙黄色牙齿检查",
-                        "text": "提供无糖提摩西草与无糖专类颗粒，检查其门齿是否保持健康的橙黄色。"
-                    },
-                    {
-                        "name": "中午：大号跑轮与磨牙木检查及保持同伴社交",
-                        "text": "配备大号静音跑轮（30cm以上）与天然磨牙木以防无聊，并确保其与同伴合笼饲养以防孤独。"
-                    },
-                    {
-                        "name": "晚上：提供火山灰沙浴与尾部健康监控",
-                        "text": "提供专用火山灰浴沙供其清除毛发油脂而非水洗，并检查尾部毛发与皮肤状况。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "可以给智利八齿鼠喂食水果、干蔬菜或甜零食吗？",
-                        "answer": "绝对不能喂食！智利八齿鼠的胰岛素调节系统极度脆弱，极少量的水果、胡萝卜、玉米或含糖零食都会引发致命的糖尿病与不可逆的白内障。零食仅能选择无糖烘干野草、树根或提摩西磨牙圈。"
-                    },
-                    {
-                        "question": "不小心拉拽了智利八齿鼠的尾巴导致皮肤脱落流血，该怎么办？",
-                        "answer": "这是八齿鼠在野外逃避捕食者时的生物防御机制“尾部脱套伤 (Degloving)”。脱落的尾皮无法再生并会坏死，需要异宠兽医进行截尾手术。绝对不能抓拽其尾巴，应立即送往专业异宠医院救治。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Señales de conducta en el Degu y rutina diaria de 3 pasos para la prevención de diabetes y maloclusión dental",
-                "description": "Guía de cuidado para el inteligente Degu chileno. Interprete el movimiento de cola y los silbidos de alarma, aplique una estricta restricción de azúcares y cuide su salud dental en 3 pasos.",
-                "authority": "Real Sociedad para la Prevención de la Crueldad contra los Animales (RSPCA) y Normas de la WSAVA",
-                "profile": {
-                    "breed": "Degu (Octodon degus)",
-                    "lifespan": "5 ~ 8 años (Hasta 10 años con cuidados óptimos)",
-                    "sleep_pattern": "10 ~ 12 horas (Diurno/Crepuscular, activo de día, duerme de noche)",
-                    "temperament": "Muy social, Curioso, Activo, Inteligente, Alerta"
-                },
-                "intro": "Originario de los Andes chilenos, el Degu (Octodon degus) es pariente cercano de las chinchillas y cobayas, famoso por su gran inteligencia y amplio repertorio vocal. Los degús carecen de la capacidad metabólica para procesar azúcares libres, lo que los hace extremadamente propensos a la diabetes mellitus y cataratas si consumen frutas o golosinas dulces. Además, sus dientes de crecimiento continuo requieren desgaste constante para evitar maloclusiones, y su cola posee un mecanismo de autodefensa 'degloving' que desprende la piel si se sujetan por ella. En esta guía, presenta una rutina de 3 pasos para cuidar su salud.",
-                "whyTitle": "Lenguaje corporal del Degu: Movimiento de cola / gorjeos y congelamiento / silbido de alarma",
-                "whyDesc": "Los degús comunican sus emociones y estrés mediante el movimiento de la cola y vocalizaciones claras. Mover la cola de lado a lado mientras emiten un gorjeo agudo similar al de un pájaro **'Movimiento de cola / Gorjeo (Tail Wagging / Chirping)'** es una señal de afecto y profunda confianza. En cambio, quedarse congelado e emitir un silbido agudo e intenso **'Congelamiento / Silbido de alarma (Freezing / Alarm Whistle)'** es una alerta de emergencia provocada por ruidos bruscos o sombras sobre ellos.",
-                "body_signals": [
-                    {
-                        "name": "Mover la cola de lado a lado emitiendo gorjeos agudos (Tail Wagging / Chirping)",
-                        "meaning": "Señal social positiva de gran confianza, alegría y vínculo afectivo hacia compañeros o el dueño.",
-                        "response": "Háblele con suavidad y ofrézcale aros de heno timothy sin azúcar para reforzar el vínculo."
-                    },
-                    {
-                        "name": "Quedarse inmóvil (congelado) emitiendo silbidos agudos (Freezing / Alarm Whistle)",
-                        "meaning": "Respuesta de alarma provocada por sombras sobre la jaula, ruidos fuertes o amenaza territorial.",
-                        "response": "Retire el estímulo de estrés, atenúe la luz de la jaula y jamás intente agarrarlo por la cola."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Heno Timothy ilimitado, pienso sin azúcar y revisión de dientes anaranjados",
-                        "text": "Suministre heno timothy a libre disposición y pienso específico sin azúcar, revisando que sus incisivos mantengan un color anaranjado saludable."
-                    },
-                    {
-                        "name": "Tarde: Rueda amplia de ejercicio, maderas para roer y convivencia social",
-                        "text": "Disponga de una rueda amplia sin barrotes (30 cm+) y maderas naturales para desgastar dientes, manteniéndolo en compañía de otros degús."
-                    },
-                    {
-                        "name": "Noche: Baño de arena de ceniza volcánica y revisión de la cola",
-                        "text": "Proporcione arena específica de ceniza volcánica para limpiar la grasa de su pelo en lugar de agua, e inspeccione el estado de su cola."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Puedo dar a mi degú trozos de fruta, zanahoria o verduras secas como premio?",
-                        "answer": "¡Jamás le dé frutas ni verduras dulces! El sistema insulínico del degú es extremadamente frágil; mínimas cantidades de fruta, zanahoria, maíz o golosinas comerciales causan diabetes letal y cataratas irreversibles. Premie únicamente con hierbas secas sin azúcar o aros de heno timothy."
-                    },
-                    {
-                        "question": "Agarré a mi degú por la cola sin querer y se le desprendió la piel. ¿Qué hago?",
-                        "answer": "Es un mecanismo defensivo antipredador llamado 'Desprendimiento de piel (Degloving)'. La piel desprendida no se regenera y la zona sufrirá necrosis, requiriendo la amputación quirúrgica por un veterinario de exóticos. Jamás lo sujete por la cola y acuda de inmediato a urgencias veterinarias."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Signaux comportementaux du Dègue du Chili (Octodon) et routine quotidienne en 3 étapes pour la prévention du diabète et de la malocclusion dentaire",
-                "description": "Guide de soins pour l'intelligent Dègue du Chili (Octodon). Décryptez le frétillement de queue, les gazouillements et le sifflement d'alarme, bannissez le sucre et préservez sa santé dentaire en 3 étapes.",
-                "authority": "Société Royale pour la Prévention de la Cruauté envers les Animaux (RSPCA) & Normes de la WSAVA",
-                "profile": {
-                    "breed": "Dègue du Chili / Octodon (Degu / Octodon degus)",
-                    "lifespan": "5 ~ 8 ans (Jusqu'à 10 ans avec des soins adaptés)",
-                    "sleep_pattern": "10 ~ 12 heures (Diurne/Crépusculaire, actif le jour, dort la nuit)",
-                    "temperament": "Très social, Curieux, Actif, Intelligent, Attentif"
-                },
-                "intro": "Originaire des Andes chiliennes, le Dègue du Chili (Octodon degus) est un proche parent du chinchilla et du cobaye, célèbre pour son intelligence et son langage vocal développé. Génétiquement, l'octodon est incapable de métaboliser les sucres rapides, ce qui le rend extrêmement vulnérable au diabète sucré et aux cataractes s'il consomme des fruits ou des friandises sucrées. De plus, ses dents à pousse continue nécessitent une usure constante, et sa queue présente un mécanisme de défense par 'dépouillement (degloving)' en cas de saisie. Dans ce guide, vous présente une routine en 3 étapes.",
-                "whyTitle": "Langage corporel de l'Octodon : Frétillement de queue / gazouillement et immobilisation / sifflement d'alarme",
-                "whyDesc": "Les octodons expriment leurs émotions et leur stress par des mouvements de queue et des vocalises distinctes. Agiter la queue de gauche à droite tout en émettant un gazouillement aigu **« Frétillement de queue / Gazouillement (Tail Wagging / Chirping) »** est un signal d'affection et de grande confiance. À l'inverse, s'immobiliser net en poussant un sifflement strident **« Immobilisation / Sifflement d'alarme (Freezing / Alarm Whistle) »** constitue une alerte face à un bruit soudain ou une menace.",
-                "body_signals": [
-                    {
-                        "name": "Frétiller de la queue en émettant de petits gazouillements aigus (Tail Wagging / Chirping)",
-                        "meaning": "Signal social très positif traduisant la joie, la confiance et le lien d'attachement envers ses congénères ou son maître.",
-                        "response": "Parlez-lui doucement et offrez-lui un anneau de foin de fléole (timothy) sans sucre pour renforcer la complicité."
-                    },
-                    {
-                        "name": "S'immobiliser totalement en poussant un sifflement strident (Freezing / Alarm Whistle)",
-                        "meaning": "Réponse d'alarme déclenchée par une ombre, un bruit violent ou une peur panique.",
-                        "response": "Éloignez la source de stress, tamisez la lumière de la cage et ne tentez jamais de le saisir par la queue."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Foin de fléole (Timothy) à volonté, granulés sans sucre & contrôle des dents orange",
-                        "text": "Fournissez du foin de fléole à volonté et des granulés spécifiques sans sucre, en vérifiant que les incisives arborent une belle couleur orange saine."
-                    },
-                    {
-                        "name": "Après-midi : Grande roue d'exercice, bois à ronger & vie sociale",
-                        "text": "Mettez à disposition une grande roue pleine (30 cm+) et du bois naturel pour l'usure dentaire, en le maintenant impérativement avec des congénères."
-                    },
-                    {
-                        "name": "Soir : Bain de sable de cendre volcanique & vérification de la queue",
-                        "text": "Mettez un bac de terre à bain (cendre volcanique) pour dégraisser son pelage à la place d'un bain d'eau, et inspectez sa queue."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Puis-je donner des morceaux de fruits ou de carottes séchées à mon octodon ?",
-                        "answer": "Non, c'est totalement proscrit ! Le système insulinaire de l'octodon est très fragile. La moindre quantité de fruits, carottes, maïs ou friandises sucrées provoque un diabète foudroyant et des cataractes irréversibles. Donnez uniquement des herbes séchées sans sucre ou des racines adaptées."
-                    },
-                    {
-                        "question": "J'ai attrapé mon octodon par la queue et la peau s'est arrachée. Que faire ?",
-                        "answer": "Il s'agit d'un mécanisme de défense antiprédateur appelé 'Dépouillement (Degloving)'. La peau arrachée ne repoussera jamais et la queue va nécroser, nécessitant une amputation chirurgicale par un vétérinaire NAC. Ne saisissez jamais un octodon par la queue et consultez en urgence."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Verhaltenssignale beim Degu und 3-Schritte-Tagesroutine zur Vorbeugung von Diabetes und Zahnfehlstellungen",
-                "description": "Pflegeanleitung für den intelligenten chilenischen Degu. Schwanzwedeln, Zwitschern und Warnpfiffe verstehen, strikte Zuckerfreiheit einhalten und Zahngesundheit in 3 Schritten sichern.",
-                "authority": "Royal Society for the Prevention of Cruelty to Animals (RSPCA) & Standards der WSAVA",
-                "profile": {
-                    "breed": "Degu (Octodon degus)",
-                    "lifespan": "5 ~ 8 Jahre (Bei optimaler Pflege bis zu 10 Jahre)",
-                    "sleep_pattern": "10 ~ 12 Stunden (Tag-/Dämmerungsaktiv, tagsüber aktiv, schläft nachts)",
-                    "temperament": "Sehr gesellig, Neugierig, Aktiv, Intelligent, Wachsam"
-                },
-                "intro": "Der aus den chilenischen Anden stammende Degu (Octodon degus) ist eng mit Chinchillas und Meerschweinchen verwandt und für seine hohe Intelligenz und Lautvielfalt bekannt. Genetisch bedingt können Degus keinen freien Zucker verstoffwechseln, weshalb die Fütterung von Obst oder süßen Leckerlis schnell zu Diabetes Mellitus und Grauem Star führt. Zudem benötigen ihre lebenslang wachsenden Zähne ständigen Abrieb zur Vorbeugung von Zahnfehlstellungen, und ihr Schwanz besitzt einen 'Degloving'-Schutzmechanismus, bei dem die Haut reißt, wenn er festgehalten wird. In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für die Gesundheit Ihres Degus.",
-                "whyTitle": "Körpersprache des Degus: Schwanzwedeln / Zwitschern und Erstarren / Warnpfiff",
-                "whyDesc": "Degus drücken Gefühle und Stress über Schwanzbewegungen und Lautäußerungen aus. Das Hin- und Herwedeln mit dem Schwanz bei vogelartigem Zwitschern **'Schwanzwedeln / Zwitschern (Tail Wagging / Chirping)'** ist ein Signal von Zuneigung und großem Vertrauen. Das reglose Erstarren mit einem schrillen Pfiff **'Erstarren / Warnpfiff (Freezing / Alarm Whistle)'** ist dagegen ein Notfallsignal bei plötzlichen Geräuschen oder Schatten von oben.",
-                "body_signals": [
-                    {
-                        "name": "Wedeln mit dem Schwanz bei zwitschernden Lauten (Tail Wagging / Chirping)",
-                        "meaning": "Positives soziales Signal, das großes Vertrauen, Freude und Bindung zum Halter oder zu Artgenossen ausdrückt.",
-                        "response": "Sprechen Sie sanft mit dem Tier und reichen Sie zuckerfreie Timothy-Heuringe zur Festigung der Bindung."
-                    },
-                    {
-                        "name": "Regloses Erstarren (Freezing) mit schrillem Warnpfiff (Freezing / Alarm Whistle)",
-                        "meaning": "Alarmreaktion bei Gefahr, Schatten von oben, lauten Geräuschen oder Revierbedrohungen.",
-                        "response": "Beseitigen Sie den Stressfaktor, dunkeln Sie das Gehege ab und fassen Sie das Tier niemals am Schwanz an."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Unbegrenzt Timothy-Heu, zuckerfreies Pelletfutter & Zähne-Check (orange)",
-                        "text": "Bieten Sie stets frisches Timothy-Heu und zuckerfreies Degu-Pelletfutter an und prüfen Sie, ob die Schneidezähne gesund orange gefärbt sind."
-                    },
-                    {
-                        "name": "Mittag: Großes Laufrad, Knabberholz & Sozialkontakt sicherstellen",
-                        "text": "Stellen Sie ein großes durchgehendes Laufrad (mind. 30 cm) und Knabberhölzer bereit und halten Sie Degus immer mindestens paarweise."
-                    },
-                    {
-                        "name": "Abend: Vulkanasche-Sandbad anbieten & Schwanzkontrolle",
-                        "text": "Bieten Sie ein spezielles Badesand-Becken aus Vulkanasche zur Fellentfettung an und kontrollieren Sie den Zustand des Schwanzes."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Darf ich meinem Degu kleine Obststücke, Karotten oder Trockengemüse geben?",
-                        "answer": "Niemals Obst oder süßes Gemüse füttern! Das Insulinsystem des Degus ist extrem anfällig. Selbst minimale Mengen Obst, Karotten, Mais oder süße Leckerlis führen zu tödlichem Diabetes und Erblindung durch Grauen Star. Füttern Sie ausschließlich zuckerfreie Trockenkräuter, Wurzeln oder Timothy-Ringe."
-                    },
-                    {
-                        "question": "Ich habe meinen Degu aus Versehen am Schwanz gegriffen und die Haut ist abgerissen. Was tun?",
-                        "answer": "Das ist ein Schutzreflex gegen Fressfeinde namens 'Degloving'. Die abgerissene Schwanzhaut regeneriert nicht mehr und stirbt ab, weshalb eine chirurgische Amputation durch einen reptilien-/kleinsäugerkundigen Tierarzt nötig ist. Fassen Sie den Degu niemals am Schwanz und suchen Sie sofort eine Tierklinik auf."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Sinais comportamentais do Degu e rotina diária de 3 passos para prevenção de diabetes e má oclusão dentária",
-                "description": "Guia de cuidados para o inteligente Degu chileno. Entenda o abanar de cauda, gorreios e apitos de alarme, aplique restrição rigorosa de açúcar e cuide da saúde dentária em 3 passos.",
-                "authority": "Sociedade Real para a Prevenção da Crueldade contra os Animais (RSPCA) & Padrões da WSAVA",
-                "profile": {
-                    "breed": "Degu (Octodon degus)",
-                    "lifespan": "5 ~ 8 anos (Até 10 anos com cuidados adequados)",
-                    "sleep_pattern": "10 ~ 12 horas (Diurno/Crepuscular, ativo de dia, dorme à noite)",
-                    "temperament": "Muito social, Curioso, Ativo, Inteligente, Alerta"
-                },
-                "intro": "Originário dos Andes chilenos, o Degu (Octodon degus) é um parente próximo da chinchila e do porquinho-da-índia, famoso por sua inteligência e ampla vocalização. Os degus não possuem capacidade metabólica para processar açúcares simples, tornando-se extremamente propensos à diabetes e catarata se consumirem frutas ou petiscos doces. Além disso, seus dentes de crescimento contínuo exigem desgaste constante para evitar má oclusão, e sua cauda possui um mecanismo de defesa 'degloving' que solta a pele se for puxada. Neste guia, apresenta uma rotina de 3 passos para cuidar da saúde do seu pet.",
-                "whyTitle": "Linguagem corporal do Degu: Abanar de cauda / gorreios e congelamento / apito de alarme",
-                "whyDesc": "Os degus comunicam emoções e estresse através de movimentos de cauda e vocalizações claras. Abanar a cauda de um lado para o outro emitindo sons agudos semelhantes a pássaros **'Abanar de cauda / Gorreios (Tail Wagging / Chirping)'** é um sinal de afeto e profunda confiança. Já ficar paralisado emitindo um apito agudo **'Congelamento / Apito de alarme (Freezing / Alarm Whistle)'** é um alerta de emergência provocado por barulhos repentinos ou sombras.",
-                "body_signals": [
-                    {
-                        "name": "Abanar a cauda de um lado para o outro emitindo gorreios agudos (Tail Wagging / Chirping)",
-                        "meaning": "Sinal social positivo de confiança, alegria e vínculo afetivo com os companheiros ou tutor.",
-                        "response": "Fale com voz suave e ofereça anéis de feno timothy sem açúcar para fortalecer o vínculo."
-                    },
-                    {
-                        "name": "Paralisar o corpo (congelar) emitindo apitos agudos (Freezing / Alarm Whistle)",
-                        "meaning": "Resposta de alarme disparada por sombras sobre a gaiola, barulhos altos ou ameaça territorial.",
-                        "response": "Remova o fator de estresse, diminua a iluminação da gaiola e nunca tente segurá-lo pela cauda."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Feno Timothy ilimitado, ração sem açúcar & checagem dos dentes anaranjados",
-                        "text": "Forneça feno timothy à vontade e ração específica sem açúcar, conferindo se os incisivos mantêm a cor anaranjada saudável."
-                    },
-                    {
-                        "name": "Tarde: Rodinha espaçosa, madeiras para roer & convívio social",
-                        "text": "Disponibilize uma roda grande e fechada (30 cm+) e madeiras naturais para desgaste dentário, mantendo-o sempre acompanhado de outros degus."
-                    },
-                    {
-                        "name": "Noite: Banho de areia de cinza vulcânica e inspeção da cauda",
-                        "text": "Ofereça areia específica de cinza vulcânica para limpar a gordura do pelo em vez de banho de água, e inspecione a cauda."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Posso dar pedaços de fruta, cenoura ou vegetais secos como petisco ao meu degu?",
-                        "answer": "Nunca dê frutas nem vegetais doces! O sistema de insulina do degu é extremamente frágil; mínimas quantidades de frutas, cenouras, milho ou petiscos doces provocam diabetes fatal e catarata irreversível. Ofereça apenas ervas secas sem açúcar ou anéis de feno timothy."
-                    },
-                    {
-                        "question": "Segurei meu degu pela cauda sem querer e a pele arrancou. O que fazer?",
-                        "answer": "Trata-se de um mecanismo de defesa contra predadores chamado 'Descolamento da pele (Degloving)'. A pele arrancada não se regenera e haverá necrose, exigindo amputação cirúrgica por um veterinário de exóticos. Nunca segure o degu pela cauda e procure atendimento veterinário urgente."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Sinyal Perilaku Degu dan Rutinitas Harian 3 Langkah Perawatan Pencegahan Diabetes serta Maloklusi Gigi",
-                "description": "Panduan perawatan Degu asal Cile yang cerdas. Pahami kibasan ekor, cicitan, dan siulan alarm, terapkan pembatasan gula secara ketat, serta jaga kesehatan gigi dalam 3 langkah.",
-                "authority": "Royal Society for the Prevention of Cruelty to Animals (RSPCA) & Standar Perawatan WSAVA",
-                "profile": {
-                    "breed": "Degu (Octodon degus)",
-                    "lifespan": "5 - 8 tahun (Hingga 10 tahun dengan perawatan optimal)",
-                    "sleep_pattern": "10 - 12 jam (Diurnal/Krepuskular, aktif siang hari, tidur malam hari)",
-                    "temperament": "Sangat sosial, Ingin tahu, Aktif, Cerdas, Waspada"
-                },
-                "intro": "Berasal dari Pegunungan Andes di Cile, Degu (Octodon degus) adalah kerabat dekat chinchilla dan marmut yang terkenal akan kecerdasannya serta variasi suara yang kaya. Secara genetik, degu tidak memiliki kemampuan metabolisme untuk mengolah gula bebas, sehingga sangat rentan terkena Diabetes Mellitus dan katarak jika diberi buah atau camilan manis. Selain itu, gigi seri mereka yang terus tumbuh memerlukan pengasahan konstan untuk mencegah maloklusi, dan ekor mereka memiliki mekanisme pertahanan 'degloving' yang akan terlepas kulitnya jika ditarik. Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk merawat kesehatan Degu Anda.",
-                "whyTitle": "Bahasa Tubuh Degu: Mengibaskan Ekor / Cicitan dan Tubuh Kaku / Siulan Alarm",
-                "whyDesc": "Degu menyampaikan emosi dan tingkat stres melalui gerakan ekor dan suara yang khas. Mengibaskan ekor ke kiri dan kanan sambil mengeluarkan suara cicitan nyaring seperti burung **'Mengibaskan Ekor / Cicitan (Tail Wagging / Chirping)'** adalah sinyal kasih sayang dan rasa percaya yang mendalam. Sebaliknya, tubuh mendadak kaku sambil mengeluarkan siulan melengking **'Tubuh Kaku / Siulan Alarm (Freezing / Alarm Whistle)'** adalah peringatan darurat akibat suara mendadak atau bayangan di atas kandang.",
-                "body_signals": [
-                    {
-                        "name": "Mengibaskan ekor ke kiri-kanan sambil mencicit nyaring (Tail Wagging / Chirping)",
-                        "meaning": "Sinyal sosial positif yang menunjukkan rasa percaya tinggi, kegembiraan, dan ikatan emosional kepada pemilik atau sesama degu.",
-                        "response": "Bicaralah secara lembut dan beri camilan rumput timothy tanpa gula untuk mempererat ikatan."
-                    },
-                    {
-                        "name": "Tubuh kaku membeku sambil mengeluarkan siulan melengking (Freezing / Alarm Whistle)",
-                        "meaning": "Respon alarm akibat ancaman bahaya, bayangan di atas kandang, suara keras, atau gangguan wilayah.",
-                        "response": "Singkirkan pemicu stres, redupkan pencahayaan kandang, dan jangan pernah sekali-kali memegang ekornya."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Rumput Timothy Bebas Akses, Pelet Bebas Gula & Pemeriksaan Gigi Oranye",
-                        "text": "Sediakan rumput timothy secara tidak terbatas dan pelet khusus degu bebas gula, serta periksa gigi seri untuk memastikan warna enamel oranye yang sehat."
-                    },
-                    {
-                        "name": "Siang: Roda Putar Besar, Kayu Gigitan & Interaksi Sosial",
-                        "text": "Sediakan roda putar permukaan utuh berukuran besar (minimal 30cm) dan kayu gigitan alami, serta pelihara degu secara berpasangan/kelompok."
-                    },
-                    {
-                        "name": "Malam: Penyediaan Mandi Pasir Abu Vulkanik & Pemantauan Kesehatan Ekor",
-                        "text": "Sediakan wadah mandi pasir abu vulkanik khusus untuk membersihkan minyak bulu sebagai pengganti mandi air, serta periksa kondisi ekornya."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Bolehkah saya memberi degu potongan buah, wortel, atau sayuran kering sebagai camilan?",
-                        "answer": "Sangat dilarang memberi buah atau sayuran manis! Sistem insulin degu sangat rentan; sedikit saja buah, wortel, jagung, atau camilan manis dapat memicu Diabetes Mellitus yang mematikan dan katarak permanen. Berikan camilan rumput kering bebas gula, akar-akaran, atau cincin timothy saja."
-                    },
-                    {
-                        "question": "Saya tidak sengaja menarik ekor degu saya hingga kulitnya terlepas dan berdarah. Apa yang harus dilakukan?",
-                        "answer": "Ini adalah mekanisme pertahanan alami dari predator yang disebut 'Degloving'. Kulit ekor yang terlepas tidak dapat tumbuh kembali dan akan membusuk (nekrosis), sehingga memerlukan tindakan operasi amputasi oleh dokter hewan eksotis. Jangan pernah memegang degu pada ekornya dan segera bawa ke klinik hewan."
-                    }
-                ]
-            }
+  "degu-care": {
+    "pubDate": "2026-07-20",
+    "updatedDate": "2026-07-20",
+    "locales": {
+      "ko": {
+        "title": "데구의 꼬리 흔들기·경고음 신호 해석과 당뇨·치아 부정교합 예방을 위한 3단계 데일리 케어",
+        "description": "귀여운 안데스 소동물 데구(Degu). 꼬리 흔들기와 경고 울음 신호 해석, 엄격한 당분 제한을 통한 당뇨 예방, 이갈이·화산재 모래목욕 관리를 위한 3단계 홈케어 루틴을 소개합니다.",
+        "authority": "영국 동물학대방지협회 (RSPCA) 및 국제 소동물 수의학회 (WSAVA) 데구 케어 프로토콜",
+        "profile": {
+          "breed": "데구 (Degu / Octodon degus)",
+          "lifespan": "5 ~ 8년 (올바른 케어 시 최대 10년)",
+          "sleep_pattern": "10 ~ 12시간 (주행성/박명성, 낮 동안 활발히 활동하고 야간 수면)",
+          "temperament": "매우 사회적임, 호기심 많음, 활발함, 영리함, 경계심"
         },
-        "heroImage": "/images/blog/degu_care.webp"
-    }
+        "intro": "칠레 안데스 산맥이 원산지인 데구(Degu)는 친칠라, 기니피그와 가까운 친척으로, 높은 지능과 풍부한 울음소리로 '소리 내어 대화하는 소동물'이라 불립니다. 데구는 당을 인슐린으로 분해하는 능력이 거의 없어 과일이나 단 간식을 섭취할 경우 순식간에 '당뇨병(Diabetes)'과 당뇨성 백내장에 걸리는 유전적 특성을 지니고 있습니다. 또한 평생 자라는 치아 관리 부족 시 '부정교합'이 생기기 쉬우며, 포식자에게 잡혔을 때 꼬리 가죽이 벗겨지는 '디글로빙(Degloving)' 위험이 있어 절대로 꼬리를 잡아서는 안 됩니다. 이번 가이드에서는 데구의 행동 신호를 올바르게 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
+        "whyTitle": "데구의 바디 랭귀지: 꼬리 흔들기·기쁨의 울음(Tail Wagging / Chirping)과 몸 굳힘·경고음(Freezing / Alarm Whistle)",
+        "whyDesc": "데구는 다양한 울음소리와 꼬리 움직임으로 감정과 스트레스를 명확하게 표현합니다. 동료나 보호자를 향해 꼬리를 좌우로 흔들며 새소리 같은 높은 울음소리를 내는 **'꼬리 흔들기 및 기쁨의 울음(Tail Wagging / Chirping)'**은 강한 유대감과 반가움을 나타내는 친화 신호입니다. 반면 제자리에 얼어붙은 채 날카롭고 고음의 경고음을 연속으로 내지르는 **'몸 굳힘 및 경고음(Freezing / Alarm Whistle)'**은 갑작스러운 소음, 상공의 그림자, 극심한 공포나 영역 침범에 대한 긴급 경고 신호입니다.",
+        "body_signals": [
+          {
+            "name": "꼬리를 좌우로 흔들며 청아한 새소리 같은 울음소리를 냄 (Tail Wagging / Chirping)",
+            "meaning": "동료나 보호자에 대한 높은 신뢰, 반가움, 유대감 형성 및 기분 좋은 상태를 나타내는 긍정적 신호입니다.",
+            "response": "다정하게 이름을 불러주며 무설탕 이갈이 수제 간식이나 티모시 건초를 제공해 교감을 강화합니다."
+          },
+          {
+            "name": "몸을 딱딱하게 굳힌 채 고음의 날카로운 경고음을 내지름 (Freezing / Alarm Whistle)",
+            "meaning": "상공의 그림자, 갑작스러운 진동, 외부 소음으로 인한 극심한 공포와 위험 경고 신호입니다.",
+            "response": "시야를 가리는 자극 요인을 치우고 케이지를 어둡게 가려 안정을 취하게 하며, 놀라서 꼬리를 잡지 않도록 주의합니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 무제한 티모시 건초·무설탕 전용 펠릿 급여 및 주황색 치아 상태 점검",
+            "text": "당뇨 예방을 위해 과일과 당분이 완전히 배제된 티모시 건초와 전용 펠릿을 제공하며, 건강한 주황색 이갈이 치아 상태를 확인합니다."
+          },
+          {
+            "name": "낮: 대형 챗바퀴·이갈이 목재 점검 및 사회적 교감 환경 유지",
+            "text": "운동 부족과 스트레스 방지를 위해 대형 무소음 챗바퀴(30cm 이상)와 천연 이갈이 나무를 제공하고, 외로움을 타지 않도록 동료와 지낼 수 있게 돕습니다."
+          },
+          {
+            "name": "저녁: 전용 화산재 모래목욕탕 제공 및 꼬리 건강 모니터링",
+            "text": "피지 제거와 위생을 위해 물목욕 대신 미세 화산재 모래목욕탕을 제공하고, 꼬리 피모와 상처 여부를 점검합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "데구에게 과일이나 말린 채소를 간식으로 줘도 되나요?",
+            "answer": "절대 주면 안 됩니다! 데구는 당을 분해하는 인슐린 시스템이 매우 취약하여 아주 적은 양의 과일, 당근, 옥수수, 단 간식으로도 치명적인 당뇨병과 백내장을 유발합니다. 간식으로는 당분이 전혀 없는 건조 산야초, 뿌리류, 티모시 이갈이 링만 급여해야 합니다."
+          },
+          {
+            "question": "데구의 꼬리를 실수로 잡았는데 피가 나고 가죽이 벗겨졌어요. 어떻게 하나요?",
+            "answer": "데구는 포식자에게 잡혔을 때 꼬리 가죽이 벗겨지며 탈출하는 '디글로빙(Degloving)' 생체 방어 기전을 가지고 있습니다. 벗겨진 꼬리 가죽은 다시 재생되지 않고 괴사하여 수의사의 절단 수술이 필요하므로 절대로 꼬리를 잡으면 안 됩니다. 즉시 소동물 전문 병원에 내원하여 치료받아야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Degu Behavioral Signals and 3-Step Daily Routine for Diabetes and Dental Malocclusion Prevention",
+        "description": "Care guide for the intelligent Chilean Degu. Interpret tail wagging, chirping, and alarm whistles, enforce strict sugar restrictions to prevent diabetes, and manage dental health in 3 steps.",
+        "authority": "Royal Society for the Prevention of Cruelty to Animals (RSPCA) & World Small Animal Veterinary Association (WSAVA) Degu Care Standards",
+        "profile": {
+          "breed": "Degu (Octodon degus)",
+          "lifespan": "5 - 8 Years (Up to 10 years with optimal care)",
+          "sleep_pattern": "10 - 12 Hours (Diurnal/Crepuscular, active during the day, sleeps at night)",
+          "temperament": "Highly Social, Curious, Active, Intelligent, Alert"
+        },
+        "intro": "Native to the Chilean Andes, Degus (Octodon degus) are close relatives of chinchillas and guinea pigs, celebrated for their high intelligence and vast vocal repertoire. Genetically, degus lack the metabolic capacity to process free sugars, making them extremely prone to Diabetes Mellitus and diabetic cataracts if fed fruits or sweet treats. Furthermore, their continuously growing incisors require constant grinding to prevent dental malocclusion, and their tails feature a 'degloving' defense mechanism that strips skin off if grabbed. In this guide, presents a 3-step daily care routine to read your Degu's signals and protect its health.",
+        "whyTitle": "Degu Body Language: Tail Wagging / Chirping and Freezing / Alarm Whistling",
+        "whyDesc": "Degus communicate emotional states and stress through tail movements and distinct vocalizations. Wagging the tail side-to-side while emitting high-pitched bird-like vocalizations **'Tail Wagging / Chirping'** is an affectionate signal demonstrating trust, joy, and social bonding. Conversely, freezing motionless while sounding a sharp, piercing whistle **'Freezing / Alarm Whistle'** is an urgent warning triggered by sudden noises, overhead shadows, or extreme fear.",
+        "body_signals": [
+          {
+            "name": "Wagging Tail Side-to-Side with Bird-Like Chirping (Tail Wagging / Chirping)",
+            "meaning": "A positive social signal indicating deep trust, joy, affection, and emotional bonding toward cagemates or owners.",
+            "response": "Speak gently and offer sugar-free timothy hay chews or herbal treats to reinforce bonding."
+          },
+          {
+            "name": "Freezing Motionless while Emitting High-Pitched Whistles (Freezing / Alarm Whistle)",
+            "meaning": "An alarm response triggered by perceived danger, overhead shadows, loud noises, or territorial threats.",
+            "response": "Remove stress triggers, dim cage lighting to restore calm, and never grab or startle them by the tail."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Unlimited Timothy Hay, Sugar-Free Pellets & Orange Tooth Check",
+            "text": "Provide free-choice timothy hay and sugar-free degu pellets, inspecting incisors to confirm a healthy orange/yellow enamel color."
+          },
+          {
+            "name": "Afternoon: Large Exercise Wheel, Wooden Chews & Social Interaction Check",
+            "text": "Maintain a large solid-surface wheel (30cm+ / 12in+) and natural wooden chews to prevent boredom, keeping them housed with cagemates."
+          },
+          {
+            "name": "Evening: Volcanic Ash Dust Bath Provision & Tail Health Monitoring",
+            "text": "Offer a dedicated volcanic ash dust bath to strip coat oils instead of water baths, inspecting the tail sheath and coat condition."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Can I feed my degu small pieces of fruit, carrots, or dried vegetables as treats?",
+            "answer": "Never feed fruits or sweet vegetables to a degu! Degus have an extremely fragile insulin response; even tiny amounts of fruit, carrots, corn, or commercial sweet treats trigger fatal Diabetes Mellitus and irreversible cataracts. Treat them strictly with sugar-free dried herbs, roots, or timothy chews."
+          },
+          {
+            "question": "I accidentally pulled my degu's tail and the skin stripped off. What should I do?",
+            "answer": "This is a natural antipredator defense mechanism called 'Degloving'. The stripped tail sheath cannot regenerate and will necrose, requiring prompt surgical amputation by an exotic veterinarian. Never grab a degu by its tail; seek immediate veterinary medical care."
+          }
+        ]
+      },
+      "ja": {
+        "title": "デグーの尾振り・鳴き声サイン解読と糖尿病・不正咬合予防のための3ステップデイリールーティン",
+        "description": "知能が高く愛らしいアンデスの小動物デグー（Degu）。尾振りと警戒鳴き声の解読、厳格な糖質制限による糖尿病予防、歯の伸びすぎケアと火山灰砂浴びのための3ステップホームケアを紹介します。",
+        "authority": "英国王立動物虐待防止協会 (RSPCA) および 世界小動物獣医師会 (WSAVA) デグー飼育基準",
+        "profile": {
+          "breed": "デグー (Degu / Octodon degus)",
+          "lifespan": "5 〜 8年 (適切なケアで最大10年)",
+          "sleep_pattern": "10 〜 12時間 (昼行性/薄明薄暮性、昼間に活発に活動し夜間睡眠)",
+          "temperament": "非常に社交的、好奇心旺盛、活発、賢い、警戒心が強い"
+        },
+        "intro": "チリのアンデス山脈原産のデグー（Degu）は、チンチラやギニアピッグ（モルモット）の近縁種で、高い知能と豊かな鳴き声から「歌う小動物」として世界中で愛されています。デグーは糖分を代謝する能力が遺伝的に低く、果物や甘いおやつを摂取すると短期間で「糖尿病（Diabetes）」や糖尿病性白内障を発症します。また、生涯伸び続ける歯のケア不足は「不正咬合」を引き起こし、天敵に捕まった際に尾の皮膚が剥がれ落ちる「ディグロービング（Degloving）」という防衛本能を持つため、絶対に尾を掴んではいけません。本記事では、デグーのサインを正確に読み解き、健康を守る3ステップルーティンをお届けします。",
+        "whyTitle": "デグーのボディランゲージ：尾振り・喜びの鳴き声(Tail Wagging / Chirping)とフリーズ・警戒音(Freezing / Alarm Whistle)",
+        "whyDesc": "デグーは多彩な鳴き声と尾の動きで感情やストレスを明確に表現します。仲間や飼い主に向かって尾を左右に振りながら鳥のような高い声で鳴く**「尾振り・喜びの鳴き声（Tail Wagging / Chirping）」**は、強い信頼と親愛を示すサインです。一方、その場で体を硬直させたまま甲高い警戒音を連続で発する**「フリーズ・警戒音（Freezing / Alarm Whistle）」**は、突然の騒音、上空の影、極度の恐怖や縄張り侵入に対する緊急警告サインです。",
+        "body_signals": [
+          {
+            "name": "尾を左右に振り小鳥のような美しい声で鳴く (Tail Wagging / Chirping)",
+            "meaning": "飼い主や仲間への深い信頼、喜び、親和性を示すポジティブなコミュニケーションサインです。",
+            "response": "優しく声をかけ、無糖のチモシー系おやつやハーブを与えてスキンシップを深めましょう。"
+          },
+          {
+            "name": "体を硬直（フリーズ）させ甲高い警戒音を発する (Freezing / Alarm Whistle)",
+            "meaning": "上空の影、大きな音、周囲の異変による強い恐怖や危険の察知を示す警戒サインです。",
+            "response": "不安の要因を取り除きケージを暗く覆って落ち着かせ、驚いて尾を掴まないよう注意してください。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：主食チモシーの無制限給与・無糖ペレット与え＆オレンジ色の歯のチェック",
+            "text": "糖尿病予防のため糖質が完全に排除されたチモシーとかじり木・専用ペレットを与え、健康なオレンジ色の前歯を確認します。"
+          },
+          {
+            "name": "昼：大型回し車・かじり木の点検と多頭飼育環境のケア",
+            "text": "運動不足とストレス防止のため大きな静音回し車（30cm以上）を用意し、寂しさを感じないよう多頭飼育や十分なコミュニケーションを図ります。"
+          },
+          {
+            "name": "夜：専用火山灰砂浴び容器の提供と尾の健康モニタリング",
+            "text": "皮脂汚れ除去のため水浴びではなく細かい火山灰の砂浴び場を用意し、尾の皮膚や毛並みに異常がないか観察します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "デグーに果物やドライ野菜をおやつとして与えてもいいですか？",
+            "answer": "絶対に与えてはいけません！デグーはインスリンの代謝機能が極めて弱く、ほんの少しの果物、人参、トウモロコシ、市販の甘いおやつの摂取で致命的な糖尿病や白内障を引き起こします。おやつには無糖の乾燥ハーブ、野草、チモシーリングのみを与えてください。"
+          },
+          {
+            "question": "デグーの尾をうっかり掴んでしまい、皮が剥がれて血が出ました。どうすればいいですか？",
+            "answer": "デグーには捕食者に捕まった際、尾の皮膚が脱げ落ちて逃げる「ディグロービング（Degloving）」という防衛本能があります。剥がれた皮は再生せず壊死するため、エキゾチックアニマル専門医による切断手術が必要です。絶対に尾を掴まず、至急病院で適切な治療を受けてください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "智利八齿鼠（Degu）摇尾与警报信号解读及糖尿病与牙齿咬合不正预防的3步日常流程",
+        "description": "高智商智利小宠智利八齿鼠（Degu）。解读摇尾与鸣叫警报信号，通过严格控糖预防糖尿病，管理磨牙与火山灰沙浴的3步骤家庭护理。",
+        "authority": "英国皇家防止虐待动物协会 (RSPCA) 与 世界小动物兽医师协会 (WSAVA) 护理标准",
+        "profile": {
+          "breed": "智利八齿鼠 / 德古鼠 (Degu / Octodon degus)",
+          "lifespan": "5 ~ 8年 (科学饲养可达10年)",
+          "sleep_pattern": "10 ~ 12小时 (昼行性/薄暮性，白天活跃，夜间睡眠)",
+          "temperament": "高度群居、好奇心强、活泼、聪明、警惕"
+        },
+        "intro": "原产于智利安第斯山脉的智利八齿鼠（Degu）是龙猫和天竺鼠的近亲，因其高智商与极其丰富的叫声语言而被誉为“会说话的观赏小宠”。智利八齿鼠在遗传上缺乏代谢游离糖分的能力，摄入水果或甜食极易诱发致命的“糖尿病 (Diabetes)”及糖尿病性白内障。此外，其终生生长的门齿若缺乏磨木极易导致“咬合不正”，且尾部具有被抓拉即脱皮断裂的“脱套伤 (Degloving)”自卫机制，绝对不可抓拽尾巴。本指南将带您准确解读智利八齿鼠的行为信号，并通过3步骤日常护理维护其健康。",
+        "whyTitle": "智利八齿鼠肢体语言：摇尾与欢快鸣叫 (Tail Wagging / Chirping) 及冻结与高亢警报哨音 (Freezing / Alarm Whistle)",
+        "whyDesc": "智利八齿鼠通过尾部动作与丰富的叫声清晰表达情感与压力。面向同伴或主人左右摇晃尾巴并发出如鸟鸣般清脆的叫声**“摇尾与欢快鸣叫 (Tail Wagging / Chirping)”**，是表达高度信任、欢愉与亲密的社交信号。相反，身体僵硬冻结在原地并发出尖锐高亢的哨音**“冻结与高亢警报哨音 (Freezing / Alarm Whistle)”**，则是受到突发噪音、上方阴影或极度恐慌时的紧急警告信号。",
+        "body_signals": [
+          {
+            "name": "左右摇晃尾巴并发出如鸟鸣般清脆叫声 (Tail Wagging / Chirping)",
+            "meaning": "对主人或同伴表达高度信任、欢喜与建立深厚感情的积极交流信号。",
+            "response": "温和地呼唤其名字，投喂无糖提摩西草圈或干草包以加深情感互动。"
+          },
+          {
+            "name": "身体僵硬冻结并发出高亢尖锐的哨音 (Freezing / Alarm Whistle)",
+            "meaning": "感受到上方阴影、剧烈震动或突发噪音引发的极度恐慌与危险警告。",
+            "response": "撤离惊吓源并遮挡笼舍使其恢复平静，切勿因惊慌强行抓握其尾巴。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：无限量提摩西草与无糖主粮投喂及橙黄色牙齿检查",
+            "text": "提供无糖提摩西草与无糖专类颗粒，检查其门齿是否保持健康的橙黄色。"
+          },
+          {
+            "name": "中午：大号跑轮与磨牙木检查及保持同伴社交",
+            "text": "配备大号静音跑轮（30cm以上）与天然磨牙木以防无聊，并确保其与同伴合笼饲养以防孤独。"
+          },
+          {
+            "name": "晚上：提供火山灰沙浴与尾部健康监控",
+            "text": "提供专用火山灰浴沙供其清除毛发油脂而非水洗，并检查尾部毛发与皮肤状况。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "可以给智利八齿鼠喂食水果、干蔬菜或甜零食吗？",
+            "answer": "绝对不能喂食！智利八齿鼠的胰岛素调节系统极度脆弱，极少量的水果、胡萝卜、玉米或含糖零食都会引发致命的糖尿病与不可逆的白内障。零食仅能选择无糖烘干野草、树根或提摩西磨牙圈。"
+          },
+          {
+            "question": "不小心拉拽了智利八齿鼠的尾巴导致皮肤脱落流血，该怎么办？",
+            "answer": "这是八齿鼠在野外逃避捕食者时的生物防御机制“尾部脱套伤 (Degloving)”。脱落的尾皮无法再生并会坏死，需要异宠兽医进行截尾手术。绝对不能抓拽其尾巴，应立即送往专业异宠医院救治。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Señales de conducta en el Degu y rutina diaria de 3 pasos para la prevención de diabetes y maloclusión dental",
+        "description": "Guía de cuidado para el inteligente Degu chileno. Interprete el movimiento de cola y los silbidos de alarma, aplique una estricta restricción de azúcares y cuide su salud dental en 3 pasos.",
+        "authority": "Real Sociedad para la Prevención de la Crueldad contra los Animales (RSPCA) y Normas de la WSAVA",
+        "profile": {
+          "breed": "Degu (Octodon degus)",
+          "lifespan": "5 ~ 8 años (Hasta 10 años con cuidados óptimos)",
+          "sleep_pattern": "10 ~ 12 horas (Diurno/Crepuscular, activo de día, duerme de noche)",
+          "temperament": "Muy social, Curioso, Activo, Inteligente, Alerta"
+        },
+        "intro": "Originario de los Andes chilenos, el Degu (Octodon degus) es pariente cercano de las chinchillas y cobayas, famoso por su gran inteligencia y amplio repertorio vocal. Los degús carecen de la capacidad metabólica para procesar azúcares libres, lo que los hace extremadamente propensos a la diabetes mellitus y cataratas si consumen frutas o golosinas dulces. Además, sus dientes de crecimiento continuo requieren desgaste constante para evitar maloclusiones, y su cola posee un mecanismo de autodefensa 'degloving' que desprende la piel si se sujetan por ella. En esta guía, presenta una rutina de 3 pasos para cuidar su salud.",
+        "whyTitle": "Lenguaje corporal del Degu: Movimiento de cola / gorjeos y congelamiento / silbido de alarma",
+        "whyDesc": "Los degús comunican sus emociones y estrés mediante el movimiento de la cola y vocalizaciones claras. Mover la cola de lado a lado mientras emiten un gorjeo agudo similar al de un pájaro **'Movimiento de cola / Gorjeo (Tail Wagging / Chirping)'** es una señal de afecto y profunda confianza. En cambio, quedarse congelado e emitir un silbido agudo e intenso **'Congelamiento / Silbido de alarma (Freezing / Alarm Whistle)'** es una alerta de emergencia provocada por ruidos bruscos o sombras sobre ellos.",
+        "body_signals": [
+          {
+            "name": "Mover la cola de lado a lado emitiendo gorjeos agudos (Tail Wagging / Chirping)",
+            "meaning": "Señal social positiva de gran confianza, alegría y vínculo afectivo hacia compañeros o el dueño.",
+            "response": "Háblele con suavidad y ofrézcale aros de heno timothy sin azúcar para reforzar el vínculo."
+          },
+          {
+            "name": "Quedarse inmóvil (congelado) emitiendo silbidos agudos (Freezing / Alarm Whistle)",
+            "meaning": "Respuesta de alarma provocada por sombras sobre la jaula, ruidos fuertes o amenaza territorial.",
+            "response": "Retire el estímulo de estrés, atenúe la luz de la jaula y jamás intente agarrarlo por la cola."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Heno Timothy ilimitado, pienso sin azúcar y revisión de dientes anaranjados",
+            "text": "Suministre heno timothy a libre disposición y pienso específico sin azúcar, revisando que sus incisivos mantengan un color anaranjado saludable."
+          },
+          {
+            "name": "Tarde: Rueda amplia de ejercicio, maderas para roer y convivencia social",
+            "text": "Disponga de una rueda amplia sin barrotes (30 cm+) y maderas naturales para desgastar dientes, manteniéndolo en compañía de otros degús."
+          },
+          {
+            "name": "Noche: Baño de arena de ceniza volcánica y revisión de la cola",
+            "text": "Proporcione arena específica de ceniza volcánica para limpiar la grasa de su pelo en lugar de agua, e inspeccione el estado de su cola."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Puedo dar a mi degú trozos de fruta, zanahoria o verduras secas como premio?",
+            "answer": "¡Jamás le dé frutas ni verduras dulces! El sistema insulínico del degú es extremadamente frágil; mínimas cantidades de fruta, zanahoria, maíz o golosinas comerciales causan diabetes letal y cataratas irreversibles. Premie únicamente con hierbas secas sin azúcar o aros de heno timothy."
+          },
+          {
+            "question": "Agarré a mi degú por la cola sin querer y se le desprendió la piel. ¿Qué hago?",
+            "answer": "Es un mecanismo defensivo antipredador llamado 'Desprendimiento de piel (Degloving)'. La piel desprendida no se regenera y la zona sufrirá necrosis, requiriendo la amputación quirúrgica por un veterinario de exóticos. Jamás lo sujete por la cola y acuda de inmediato a urgencias veterinarias."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Signaux comportementaux du Dègue du Chili (Octodon) et routine quotidienne en 3 étapes pour la prévention du diabète et de la malocclusion dentaire",
+        "description": "Guide de soins pour l'intelligent Dègue du Chili (Octodon). Décryptez le frétillement de queue, les gazouillements et le sifflement d'alarme, bannissez le sucre et préservez sa santé dentaire en 3 étapes.",
+        "authority": "Société Royale pour la Prévention de la Cruauté envers les Animaux (RSPCA) & Normes de la WSAVA",
+        "profile": {
+          "breed": "Dègue du Chili / Octodon (Degu / Octodon degus)",
+          "lifespan": "5 ~ 8 ans (Jusqu'à 10 ans avec des soins adaptés)",
+          "sleep_pattern": "10 ~ 12 heures (Diurne/Crépusculaire, actif le jour, dort la nuit)",
+          "temperament": "Très social, Curieux, Actif, Intelligent, Attentif"
+        },
+        "intro": "Originaire des Andes chiliennes, le Dègue du Chili (Octodon degus) est un proche parent du chinchilla et du cobaye, célèbre pour son intelligence et son langage vocal développé. Génétiquement, l'octodon est incapable de métaboliser les sucres rapides, ce qui le rend extrêmement vulnérable au diabète sucré et aux cataractes s'il consomme des fruits ou des friandises sucrées. De plus, ses dents à pousse continue nécessitent une usure constante, et sa queue présente un mécanisme de défense par 'dépouillement (degloving)' en cas de saisie. Dans ce guide, vous présente une routine en 3 étapes.",
+        "whyTitle": "Langage corporel de l'Octodon : Frétillement de queue / gazouillement et immobilisation / sifflement d'alarme",
+        "whyDesc": "Les octodons expriment leurs émotions et leur stress par des mouvements de queue et des vocalises distinctes. Agiter la queue de gauche à droite tout en émettant un gazouillement aigu **« Frétillement de queue / Gazouillement (Tail Wagging / Chirping) »** est un signal d'affection et de grande confiance. À l'inverse, s'immobiliser net en poussant un sifflement strident **« Immobilisation / Sifflement d'alarme (Freezing / Alarm Whistle) »** constitue une alerte face à un bruit soudain ou une menace.",
+        "body_signals": [
+          {
+            "name": "Frétiller de la queue en émettant de petits gazouillements aigus (Tail Wagging / Chirping)",
+            "meaning": "Signal social très positif traduisant la joie, la confiance et le lien d'attachement envers ses congénères ou son maître.",
+            "response": "Parlez-lui doucement et offrez-lui un anneau de foin de fléole (timothy) sans sucre pour renforcer la complicité."
+          },
+          {
+            "name": "S'immobiliser totalement en poussant un sifflement strident (Freezing / Alarm Whistle)",
+            "meaning": "Réponse d'alarme déclenchée par une ombre, un bruit violent ou une peur panique.",
+            "response": "Éloignez la source de stress, tamisez la lumière de la cage et ne tentez jamais de le saisir par la queue."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Foin de fléole (Timothy) à volonté, granulés sans sucre & contrôle des dents orange",
+            "text": "Fournissez du foin de fléole à volonté et des granulés spécifiques sans sucre, en vérifiant que les incisives arborent une belle couleur orange saine."
+          },
+          {
+            "name": "Après-midi : Grande roue d'exercice, bois à ronger & vie sociale",
+            "text": "Mettez à disposition une grande roue pleine (30 cm+) et du bois naturel pour l'usure dentaire, en le maintenant impérativement avec des congénères."
+          },
+          {
+            "name": "Soir : Bain de sable de cendre volcanique & vérification de la queue",
+            "text": "Mettez un bac de terre à bain (cendre volcanique) pour dégraisser son pelage à la place d'un bain d'eau, et inspectez sa queue."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Puis-je donner des morceaux de fruits ou de carottes séchées à mon octodon ?",
+            "answer": "Non, c'est totalement proscrit ! Le système insulinaire de l'octodon est très fragile. La moindre quantité de fruits, carottes, maïs ou friandises sucrées provoque un diabète foudroyant et des cataractes irréversibles. Donnez uniquement des herbes séchées sans sucre ou des racines adaptées."
+          },
+          {
+            "question": "J'ai attrapé mon octodon par la queue et la peau s'est arrachée. Que faire ?",
+            "answer": "Il s'agit d'un mécanisme de défense antiprédateur appelé 'Dépouillement (Degloving)'. La peau arrachée ne repoussera jamais et la queue va nécroser, nécessitant une amputation chirurgicale par un vétérinaire NAC. Ne saisissez jamais un octodon par la queue et consultez en urgence."
+          }
+        ]
+      },
+      "de": {
+        "title": "Verhaltenssignale beim Degu und 3-Schritte-Tagesroutine zur Vorbeugung von Diabetes und Zahnfehlstellungen",
+        "description": "Pflegeanleitung für den intelligenten chilenischen Degu. Schwanzwedeln, Zwitschern und Warnpfiffe verstehen, strikte Zuckerfreiheit einhalten und Zahngesundheit in 3 Schritten sichern.",
+        "authority": "Royal Society for the Prevention of Cruelty to Animals (RSPCA) & Standards der WSAVA",
+        "profile": {
+          "breed": "Degu (Octodon degus)",
+          "lifespan": "5 ~ 8 Jahre (Bei optimaler Pflege bis zu 10 Jahre)",
+          "sleep_pattern": "10 ~ 12 Stunden (Tag-/Dämmerungsaktiv, tagsüber aktiv, schläft nachts)",
+          "temperament": "Sehr gesellig, Neugierig, Aktiv, Intelligent, Wachsam"
+        },
+        "intro": "Der aus den chilenischen Anden stammende Degu (Octodon degus) ist eng mit Chinchillas und Meerschweinchen verwandt und für seine hohe Intelligenz und Lautvielfalt bekannt. Genetisch bedingt können Degus keinen freien Zucker verstoffwechseln, weshalb die Fütterung von Obst oder süßen Leckerlis schnell zu Diabetes Mellitus und Grauem Star führt. Zudem benötigen ihre lebenslang wachsenden Zähne ständigen Abrieb zur Vorbeugung von Zahnfehlstellungen, und ihr Schwanz besitzt einen 'Degloving'-Schutzmechanismus, bei dem die Haut reißt, wenn er festgehalten wird. In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für die Gesundheit Ihres Degus.",
+        "whyTitle": "Körpersprache des Degus: Schwanzwedeln / Zwitschern und Erstarren / Warnpfiff",
+        "whyDesc": "Degus drücken Gefühle und Stress über Schwanzbewegungen und Lautäußerungen aus. Das Hin- und Herwedeln mit dem Schwanz bei vogelartigem Zwitschern **'Schwanzwedeln / Zwitschern (Tail Wagging / Chirping)'** ist ein Signal von Zuneigung und großem Vertrauen. Das reglose Erstarren mit einem schrillen Pfiff **'Erstarren / Warnpfiff (Freezing / Alarm Whistle)'** ist dagegen ein Notfallsignal bei plötzlichen Geräuschen oder Schatten von oben.",
+        "body_signals": [
+          {
+            "name": "Wedeln mit dem Schwanz bei zwitschernden Lauten (Tail Wagging / Chirping)",
+            "meaning": "Positives soziales Signal, das großes Vertrauen, Freude und Bindung zum Halter oder zu Artgenossen ausdrückt.",
+            "response": "Sprechen Sie sanft mit dem Tier und reichen Sie zuckerfreie Timothy-Heuringe zur Festigung der Bindung."
+          },
+          {
+            "name": "Regloses Erstarren (Freezing) mit schrillem Warnpfiff (Freezing / Alarm Whistle)",
+            "meaning": "Alarmreaktion bei Gefahr, Schatten von oben, lauten Geräuschen oder Revierbedrohungen.",
+            "response": "Beseitigen Sie den Stressfaktor, dunkeln Sie das Gehege ab und fassen Sie das Tier niemals am Schwanz an."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Unbegrenzt Timothy-Heu, zuckerfreies Pelletfutter & Zähne-Check (orange)",
+            "text": "Bieten Sie stets frisches Timothy-Heu und zuckerfreies Degu-Pelletfutter an und prüfen Sie, ob die Schneidezähne gesund orange gefärbt sind."
+          },
+          {
+            "name": "Mittag: Großes Laufrad, Knabberholz & Sozialkontakt sicherstellen",
+            "text": "Stellen Sie ein großes durchgehendes Laufrad (mind. 30 cm) und Knabberhölzer bereit und halten Sie Degus immer mindestens paarweise."
+          },
+          {
+            "name": "Abend: Vulkanasche-Sandbad anbieten & Schwanzkontrolle",
+            "text": "Bieten Sie ein spezielles Badesand-Becken aus Vulkanasche zur Fellentfettung an und kontrollieren Sie den Zustand des Schwanzes."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Darf ich meinem Degu kleine Obststücke, Karotten oder Trockengemüse geben?",
+            "answer": "Niemals Obst oder süßes Gemüse füttern! Das Insulinsystem des Degus ist extrem anfällig. Selbst minimale Mengen Obst, Karotten, Mais oder süße Leckerlis führen zu tödlichem Diabetes und Erblindung durch Grauen Star. Füttern Sie ausschließlich zuckerfreie Trockenkräuter, Wurzeln oder Timothy-Ringe."
+          },
+          {
+            "question": "Ich habe meinen Degu aus Versehen am Schwanz gegriffen und die Haut ist abgerissen. Was tun?",
+            "answer": "Das ist ein Schutzreflex gegen Fressfeinde namens 'Degloving'. Die abgerissene Schwanzhaut regeneriert nicht mehr und stirbt ab, weshalb eine chirurgische Amputation durch einen reptilien-/kleinsäugerkundigen Tierarzt nötig ist. Fassen Sie den Degu niemals am Schwanz und suchen Sie sofort eine Tierklinik auf."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Sinais comportamentais do Degu e rotina diária de 3 passos para prevenção de diabetes e má oclusão dentária",
+        "description": "Guia de cuidados para o inteligente Degu chileno. Entenda o abanar de cauda, gorreios e apitos de alarme, aplique restrição rigorosa de açúcar e cuide da saúde dentária em 3 passos.",
+        "authority": "Sociedade Real para a Prevenção da Crueldade contra os Animais (RSPCA) & Padrões da WSAVA",
+        "profile": {
+          "breed": "Degu (Octodon degus)",
+          "lifespan": "5 ~ 8 anos (Até 10 anos com cuidados adequados)",
+          "sleep_pattern": "10 ~ 12 horas (Diurno/Crepuscular, ativo de dia, dorme à noite)",
+          "temperament": "Muito social, Curioso, Ativo, Inteligente, Alerta"
+        },
+        "intro": "Originário dos Andes chilenos, o Degu (Octodon degus) é um parente próximo da chinchila e do porquinho-da-índia, famoso por sua inteligência e ampla vocalização. Os degus não possuem capacidade metabólica para processar açúcares simples, tornando-se extremamente propensos à diabetes e catarata se consumirem frutas ou petiscos doces. Além disso, seus dentes de crescimento contínuo exigem desgaste constante para evitar má oclusão, e sua cauda possui um mecanismo de defesa 'degloving' que solta a pele se for puxada. Neste guia, apresenta uma rotina de 3 passos para cuidar da saúde do seu pet.",
+        "whyTitle": "Linguagem corporal do Degu: Abanar de cauda / gorreios e congelamento / apito de alarme",
+        "whyDesc": "Os degus comunicam emoções e estresse através de movimentos de cauda e vocalizações claras. Abanar a cauda de um lado para o outro emitindo sons agudos semelhantes a pássaros **'Abanar de cauda / Gorreios (Tail Wagging / Chirping)'** é um sinal de afeto e profunda confiança. Já ficar paralisado emitindo um apito agudo **'Congelamento / Apito de alarme (Freezing / Alarm Whistle)'** é um alerta de emergência provocado por barulhos repentinos ou sombras.",
+        "body_signals": [
+          {
+            "name": "Abanar a cauda de um lado para o outro emitindo gorreios agudos (Tail Wagging / Chirping)",
+            "meaning": "Sinal social positivo de confiança, alegria e vínculo afetivo com os companheiros ou tutor.",
+            "response": "Fale com voz suave e ofereça anéis de feno timothy sem açúcar para fortalecer o vínculo."
+          },
+          {
+            "name": "Paralisar o corpo (congelar) emitindo apitos agudos (Freezing / Alarm Whistle)",
+            "meaning": "Resposta de alarme disparada por sombras sobre a gaiola, barulhos altos ou ameaça territorial.",
+            "response": "Remova o fator de estresse, diminua a iluminação da gaiola e nunca tente segurá-lo pela cauda."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Feno Timothy ilimitado, ração sem açúcar & checagem dos dentes anaranjados",
+            "text": "Forneça feno timothy à vontade e ração específica sem açúcar, conferindo se os incisivos mantêm a cor anaranjada saudável."
+          },
+          {
+            "name": "Tarde: Rodinha espaçosa, madeiras para roer & convívio social",
+            "text": "Disponibilize uma roda grande e fechada (30 cm+) e madeiras naturais para desgaste dentário, mantendo-o sempre acompanhado de outros degus."
+          },
+          {
+            "name": "Noite: Banho de areia de cinza vulcânica e inspeção da cauda",
+            "text": "Ofereça areia específica de cinza vulcânica para limpar a gordura do pelo em vez de banho de água, e inspecione a cauda."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Posso dar pedaços de fruta, cenoura ou vegetais secos como petisco ao meu degu?",
+            "answer": "Nunca dê frutas nem vegetais doces! O sistema de insulina do degu é extremamente frágil; mínimas quantidades de frutas, cenouras, milho ou petiscos doces provocam diabetes fatal e catarata irreversível. Ofereça apenas ervas secas sem açúcar ou anéis de feno timothy."
+          },
+          {
+            "question": "Segurei meu degu pela cauda sem querer e a pele arrancou. O que fazer?",
+            "answer": "Trata-se de um mecanismo de defesa contra predadores chamado 'Descolamento da pele (Degloving)'. A pele arrancada não se regenera e haverá necrose, exigindo amputação cirúrgica por um veterinário de exóticos. Nunca segure o degu pela cauda e procure atendimento veterinário urgente."
+          }
+        ]
+      },
+      "id": {
+        "title": "Sinyal Perilaku Degu dan Rutinitas Harian 3 Langkah Perawatan Pencegahan Diabetes serta Maloklusi Gigi",
+        "description": "Panduan perawatan Degu asal Cile yang cerdas. Pahami kibasan ekor, cicitan, dan siulan alarm, terapkan pembatasan gula secara ketat, serta jaga kesehatan gigi dalam 3 langkah.",
+        "authority": "Royal Society for the Prevention of Cruelty to Animals (RSPCA) & Standar Perawatan WSAVA",
+        "profile": {
+          "breed": "Degu (Octodon degus)",
+          "lifespan": "5 - 8 tahun (Hingga 10 tahun dengan perawatan optimal)",
+          "sleep_pattern": "10 - 12 jam (Diurnal/Krepuskular, aktif siang hari, tidur malam hari)",
+          "temperament": "Sangat sosial, Ingin tahu, Aktif, Cerdas, Waspada"
+        },
+        "intro": "Berasal dari Pegunungan Andes di Cile, Degu (Octodon degus) adalah kerabat dekat chinchilla dan marmut yang terkenal akan kecerdasannya serta variasi suara yang kaya. Secara genetik, degu tidak memiliki kemampuan metabolisme untuk mengolah gula bebas, sehingga sangat rentan terkena Diabetes Mellitus dan katarak jika diberi buah atau camilan manis. Selain itu, gigi seri mereka yang terus tumbuh memerlukan pengasahan konstan untuk mencegah maloklusi, dan ekor mereka memiliki mekanisme pertahanan 'degloving' yang akan terlepas kulitnya jika ditarik. Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk merawat kesehatan Degu Anda.",
+        "whyTitle": "Bahasa Tubuh Degu: Mengibaskan Ekor / Cicitan dan Tubuh Kaku / Siulan Alarm",
+        "whyDesc": "Degu menyampaikan emosi dan tingkat stres melalui gerakan ekor dan suara yang khas. Mengibaskan ekor ke kiri dan kanan sambil mengeluarkan suara cicitan nyaring seperti burung **'Mengibaskan Ekor / Cicitan (Tail Wagging / Chirping)'** adalah sinyal kasih sayang dan rasa percaya yang mendalam. Sebaliknya, tubuh mendadak kaku sambil mengeluarkan siulan melengking **'Tubuh Kaku / Siulan Alarm (Freezing / Alarm Whistle)'** adalah peringatan darurat akibat suara mendadak atau bayangan di atas kandang.",
+        "body_signals": [
+          {
+            "name": "Mengibaskan ekor ke kiri-kanan sambil mencicit nyaring (Tail Wagging / Chirping)",
+            "meaning": "Sinyal sosial positif yang menunjukkan rasa percaya tinggi, kegembiraan, dan ikatan emosional kepada pemilik atau sesama degu.",
+            "response": "Bicaralah secara lembut dan beri camilan rumput timothy tanpa gula untuk mempererat ikatan."
+          },
+          {
+            "name": "Tubuh kaku membeku sambil mengeluarkan siulan melengking (Freezing / Alarm Whistle)",
+            "meaning": "Respon alarm akibat ancaman bahaya, bayangan di atas kandang, suara keras, atau gangguan wilayah.",
+            "response": "Singkirkan pemicu stres, redupkan pencahayaan kandang, dan jangan pernah sekali-kali memegang ekornya."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Rumput Timothy Bebas Akses, Pelet Bebas Gula & Pemeriksaan Gigi Oranye",
+            "text": "Sediakan rumput timothy secara tidak terbatas dan pelet khusus degu bebas gula, serta periksa gigi seri untuk memastikan warna enamel oranye yang sehat."
+          },
+          {
+            "name": "Siang: Roda Putar Besar, Kayu Gigitan & Interaksi Sosial",
+            "text": "Sediakan roda putar permukaan utuh berukuran besar (minimal 30cm) dan kayu gigitan alami, serta pelihara degu secara berpasangan/kelompok."
+          },
+          {
+            "name": "Malam: Penyediaan Mandi Pasir Abu Vulkanik & Pemantauan Kesehatan Ekor",
+            "text": "Sediakan wadah mandi pasir abu vulkanik khusus untuk membersihkan minyak bulu sebagai pengganti mandi air, serta periksa kondisi ekornya."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Bolehkah saya memberi degu potongan buah, wortel, atau sayuran kering sebagai camilan?",
+            "answer": "Sangat dilarang memberi buah atau sayuran manis! Sistem insulin degu sangat rentan; sedikit saja buah, wortel, jagung, atau camilan manis dapat memicu Diabetes Mellitus yang mematikan dan katarak permanen. Berikan camilan rumput kering bebas gula, akar-akaran, atau cincin timothy saja."
+          },
+          {
+            "question": "Saya tidak sengaja menarik ekor degu saya hingga kulitnya terlepas dan berdarah. Apa yang harus dilakukan?",
+            "answer": "Ini adalah mekanisme pertahanan alami dari predator yang disebut 'Degloving'. Kulit ekor yang terlepas tidak dapat tumbuh kembali dan akan membusuk (nekrosis), sehingga memerlukan tindakan operasi amputasi oleh dokter hewan eksotis. Jangan pernah memegang degu pada ekornya dan segera bawa ke klinik hewan."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/degu_care.webp"
+  }
 }

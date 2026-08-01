@@ -1,459 +1,459 @@
 {
-    "guppy-care": {
-        "pubDate": "2026-06-01",
-        "updatedDate": "2026-06-01",
-        "locales": {
-            "ko": {
-                "title": "구피의 수질 스트레스 신호와 지느러미 관리를 위한 3단계 데일리 케어",
-                "description": "화려한 알록달록 열대어 구피(Guppy). 지느러미 접힘과 수면 뻐끔거림 신호 해석, 적정 수온(24°C~26°C)과 암모니아 관리를 위한 3단계 홈케어 루틴을 소개합니다.",
-                "authority": "International Fancy Guppy Association (IFGA) 및 관상어 수의학 케어 프로토콜",
-                "profile": {
-                    "breed": "구피 (Guppy)",
-                    "lifespan": "1.5 ~ 3년",
-                    "sleep_pattern": "7 ~ 8시간 (조명 차단 후 수풀/바닥 정지 휴식)",
-                    "temperament": "온순함, 활발함, 높은 번식력, 사교적"
-                },
-                "intro": "화려한 지느러미와 강한 생명력으로 '열대어의 입문이자 완성'이라 불리는 구피(Guppy)는 전 세계에서 가장 사랑받는 난태생 송살목 관상어입니다. 하지만 구피는 여과력이 부족하거나 수질 변화(암모니아, 아질산 스파이크)에 노출될 경우 지느러미가 녹아내리는 지느러미 부식병(Fin Rot)이나 바늘지느러미병에 쉽게 걸립니다. 또한 알을 낳지 않고 새끼를 바로 낳는 난태생 특성 때문에 치어 보호와 임신 관리가 필수적입니다. 이번 가이드에서는 구피의 신체 신호를 정확히 읽어내고 깨끗한 수질 환경을 유지하는 3단계 데일리 케어 루틴을 전해드립니다.",
-                "whyTitle": "구피의 바디 랭귀지: 지느러미 접힘과 수면 뻐끔거림 (Surface Gasping)",
-                "whyDesc": "구피는 지느러미의 모양과 헤엄치는 위치로 수질 상태와 건강 신호를 나타냅니다. 꼬리와 등지느러미를 바짝 접고 수조 구석이나 바닥에 가만히 서 있는 **'지느러미 접힘(Clamped Fins)'** 현상은 수질 악화나 급격한 수온 변화로 인한 극심한 스트레스 신호입니다. 반면 수면 가까이 올라와 입을 연속적으로 뻐끔거리는 **'수면 호흡(Surface Gasping)'**은 수중 용존 산소 부족이나 암모니아 중독으로 인한 아가미 손상 경고입니다.",
-                "body_signals": [
-                    {
-                        "name": "지느러미를 바짝 접고 구석에 정지해 있음 (Clamped Fins)",
-                        "meaning": "암모니아/아질산 지수 상승, pH 쇼크, 또는 수온 변화로 인한 유해 환경 스트레스 경고입니다.",
-                        "response": "즉시 수질 검사키트로 암모니아 수치를 확인하고 20~30% 부분 환수(온도 및 염소 제거 필히 맞춤)를 실시합니다."
-                    },
-                    {
-                        "name": "수면 위로 올라와 연속해서 입을 뻐끔거림 (Surface Gasping)",
-                        "meaning": "수조 내 용존 산소 부족, 여과기 먹통, 또는 암모니아 중독으로 인한 아가미 기능 저하 신호입니다.",
-                        "response": "에어 디퓨저(기포기)를 가동해 산소를 공급하고 여과기 출수량과 수온(24°C~26°C)을 점검합니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 수온(24°C~26°C) 점검 및 소량 분할 급여",
-                        "text": "수온계 변화를 체크하고 2~3분 내에 다 먹을 수 있는 양의 전용 사료를 급여하여 사료 부패를 방지합니다."
-                    },
-                    {
-                        "name": "낮: 바닥재 잔여물 사이펀 청소 및 수조 벽면 모니터링",
-                        "text": "바닥에 쌓인 사료 찌꺼기와 배설물을 사이펀으로 픽업하여 여과조의 암모니아 부하를 줄여줍니다."
-                    },
-                    {
-                        "name": "저녁: 지느러미 녹음/곰팡이 상태 점검 및 주기적 환수",
-                        "text": "지느러미 끝이 하얗게 변하거나 갈라지는지 관찰하고, 필요 시 염소가 제거되고 온도가 맞추어진 물로 10~20% 부분 환수를 진행합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "구피 지느러미 끝이 하얗게 녹거나 갈라지는데 왜 그런가요?",
-                        "answer": "수질 오염이나 세균(Columnaris) 감염으로 인한 '지느러미 부식병(Fin Rot)'입니다. 수질 악화가 주원인이므로 소금욕(0.3~0.5% 농도)이나 약품 치료와 함께 부분 환수를 자주 진행해야 합니다."
-                    },
-                    {
-                        "question": "암컷 구피가 임신해서 출산할 때가 되었는지 어떻게 알 수 있나요?",
-                        "answer": "배 모양이 둥근 모양에서 ㄴ자(네모난 모양)로 변하고, 항문 근처 산란관 부위가 검고 툭 튀어나옵니다. 또한 구석에 머물거나 수조 벽을 위아래로 탔다 내리는 행동을 보이면 부하통으로 옮겨주어야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Guppy Water Quality Stress Signals and 3-Step Daily Routine for Fin Care",
-                "description": "Care guide for the vibrant freshwater Guppy. Understand clamped fins and surface gasping signals, maintain optimal water temperature (24°C–26°C), and manage ammonia with a 3-step routine.",
-                "authority": "International Fancy Guppy Association (IFGA) & Freshwater Aquarium Veterinary Care Protocols",
-                "profile": {
-                    "breed": "Guppy",
-                    "lifespan": "1.5 - 3 Years",
-                    "sleep_pattern": "7 - 8 Hours (Rests still near plants/bottom after lights off)",
-                    "temperament": "Docile, Active, Highly Prolific, Social"
-                },
-                "intro": "Renowned as both the beginner's favorite and the expert's treasure, the Guppy (Poecilia reticulata) is a widely loved livebearer freshwater fish. However, guppies are sensitive to poor filtration, ammonia spikes, and pH shock, which easily trigger Fin Rot or Clamped Fin disease. As livebearers that give birth to free-swimming fry rather than laying eggs, fry protection and pregnancy care are also essential. In this guide, presents a 3-step daily care routine to read your guppy's physical signals and maintain pristine water parameters.",
-                "whyTitle": "Guppy Body Language: Clamped Fins and Surface Gasping",
-                "whyDesc": "Guppies communicate health and water quality through fin posture and swimming position. **'Clamped Fins'**—holding the tail and dorsal fin tightly against the body while staying still—signals severe stress from ammonia accumulation or thermal shock. Conversely, **'Surface Gasping'**—repeatedly mouthing at the water surface—is an urgent warning of low dissolved oxygen or gill damage from ammonia poisoning.",
-                "body_signals": [
-                    {
-                        "name": "Clamped Fins & Staying Still in Corners (Clamped Fins)",
-                        "meaning": "An environmental stress warning caused by rising ammonia/nitrite levels, pH shock, or temperature fluctuations.",
-                        "response": "Immediately test water parameters for ammonia and perform a 20-30% partial water change with temperature-matched, dechlorinated water."
-                    },
-                    {
-                        "name": "Repeated Mouthing at Water Surface (Surface Gasping)",
-                        "meaning": "A signal of low dissolved oxygen levels, filter failure, or impaired gill function due to ammonia toxicity.",
-                        "response": "Turn on an air diffuser/bubbler to boost oxygen, check filter flow, and verify water temperature (24°C–26°C)."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Water Temperature Check (24°C–26°C) & Small Portion Feeding",
-                        "text": "Check the thermometer and feed specialized guppy food in small amounts that can be consumed within 2–3 minutes to prevent food decay."
-                    },
-                    {
-                        "name": "Afternoon: Substrate Waste Siphoning & Tank Wall Monitoring",
-                        "text": "Siphon out uneaten food and waste from the substrate to reduce ammonia load on the filtration system."
-                    },
-                    {
-                        "name": "Evening: Fin Health Inspection (Fin Rot Check) & Partial Water Change",
-                        "text": "Inspect fins for white edges, fraying, or fungal spots, and perform a 10–20% partial water change with pre-conditioned water if necessary."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why are my guppy's fins fraying, splitting, or turning white at the edges?",
-                        "answer": "This indicates Fin Rot, caused by poor water quality or bacterial infection (Columnaris). Since elevated ammonia/nitrite is the primary cause, perform frequent partial water changes and consider mild salt baths (0.3–0.5% concentration) or antibacterial treatments."
-                    },
-                    {
-                        "question": "How can I tell if a female guppy is about to give birth?",
-                        "answer": "Her belly will flatten into a 'square' or L-shape, and the gravid spot near her anal fin will darken significantly. If she hides in corners or paces up and down the tank walls, move her to a breeding box to protect the fry."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "グッピーの水質ストレスサインとヒレの健康を守る3ステップデイリールーティン",
-                "description": "鮮やかな熱帯魚グッピー。ヒレ閉じや水面でのパクパク動作の解読、適正水温(24°C〜26°C)とアンモニア管理のための3ステップホームケアを紹介します。",
-                "authority": "国際ファンシーグッピー協会(IFGA)および観賞魚獣医ケアプロトコル",
-                "profile": {
-                    "breed": "グッピー (Guppy)",
-                    "lifespan": "1.5 〜 3年",
-                    "sleep_pattern": "7 〜 8時間 (消灯後、水草や底面で静止休息)",
-                    "temperament": "温厚、活発、高い繁殖力、社交的"
-                },
-                "intro": "鮮やかなヒレと強い生命力で「熱帯魚の入門であり到達点」と呼ばれるグッピー（Guppy）は、世界中で最も愛されている卵胎生メダカ科の観賞魚です。しかし、濾過不足や水質変化（アンモニア・亜硝酸の急昇）に晒されると、ヒレが溶ける尾腐れ病（Fin Rot）や針病にかかりやすいです。また、卵ではなく稚魚を直接産む卵胎生のため、稚魚の保護や妊娠管理が不可欠です。本記事では、グッピーのサインを正確に読み解き、綺麗な水質環境を維持する3ステップルーティンをお届けします。",
-                "whyTitle": "グッピーのボディランゲージ：ヒレ閉じと水面でのパクパク動作 (Surface Gasping)",
-                "whyDesc": "グッピーはヒレの形と泳ぐ位置で水質状態や健康状態を表します。尾ヒレや背ヒレを小さく折りたたんで水槽の隅や底で静止する**「ヒレ閉じ (Clamped Fins)」**は、水質悪化や急激な水温変化による極度のストレスサインです。一方、水面近くに浮上して口を連続でパクパクさせる**「水面呼吸 (Surface Gasping)」**は、水中酸素不足やアンモニア中毒によるエラ障害の警告です。",
-                "body_signals": [
-                    {
-                        "name": "ヒレをたたんで隅で静止している (Clamped Fins)",
-                        "meaning": "アンモニア・亜硝酸濃度の上昇、pHショック、または水温変化による環境ストレスの警告です。",
-                        "response": "すぐに水質検査キットでアンモニア値を確認し、カルキ抜きと温度合わせを行った水で20〜30%の部分換水を実施します。"
-                    },
-                    {
-                        "name": "水面で連続して口をパクパクさせる (Surface Gasping)",
-                        "meaning": "水中の溶存酸素不足、フィルターの作動不良、またはアンモニア中毒によるエラ機能低下のサインです。",
-                        "response": "エアレーション（気泡器）を稼働させて酸素を供給し、フィルターの吐出量と水温（24°C〜26°C）を確認します。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：水温（24°C〜26°C）の点検と少量の分割給餌",
-                        "text": "水温計を確認し、2〜3分で食べきれる量の専用フードを与えてフードの腐敗を防ぎます。"
-                    },
-                    {
-                        "name": "昼：底砂の残餌・排泄物のサイフォン掃除と水槽の観察",
-                        "text": "底に溜まった残餌やフンをサイフォンで取り除き、フィルターのアンモニア負荷を軽減します。"
-                    },
-                    {
-                        "name": "夜：ヒレの傷み・カビの点検と定期的な換水",
-                        "text": "ヒレの先端が白く変色したり裂けていないか観察し、必要に応じてカルキ抜き・温度合わせをした水で10〜20%の部分換水を行います。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "グッピーのヒレの先端が白く溶けたり裂けたりするのはなぜですか？",
-                        "answer": "水質汚染や細菌（Columnaris）感染による「尾腐れ病（Fin Rot）」です。水質悪化が主な原因のため、塩浴（0.3〜0.5%濃度）や薬浴を行うとともに、頻繁な部分換水で水質を改善してください。"
-                    },
-                    {
-                        "question": "メスのグッピーが妊娠して出産間近かどうかはどうすれば分かりますか？",
-                        "answer": "お腹の形が丸型から「L字型（四角い形）」に変化し、お尻付近の妊娠斑（Gravid spot）が黒く突起してきます。また、隅に留まったり水槽のガラス面を上下に往復する行動を見せたら産卵箱（隔離箱）へ移動させてください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "孔雀鱼水质应激信号解读与鳍部护理的3步日常流程",
-                "description": "绚丽热带鱼孔雀鱼（Guppy）护理指南。解读夹鳍与水面浮头呼吸信号，维持适宜水温（24°C~26°C）及氨氮管理的3步骤家庭护理。",
-                "authority": "国际花色孔雀鱼协会 (IFGA) 与观赏鱼兽医护理标准",
-                "profile": {
-                    "breed": "孔雀鱼 (Guppy)",
-                    "lifespan": "1.5 ~ 3年",
-                    "sleep_pattern": "7 ~ 8小时 (关灯后在水草或缸底静止休息)",
-                    "temperament": "温和、活泼、繁殖力强、喜群居"
-                },
-                "intro": "孔雀鱼（Guppy）因其绚丽的尾鳍和顽强的生命力，被誉为“热带鱼的入门与终点”。然而，若过滤系统不足或遭遇水质剧烈波动（氨氮、亚硝酸盐飙升），孔雀鱼极易患上烂鳍病（Fin Rot）或针尾病。此外，作为直接产下小鱼的卵胎生鱼类，幼鱼保护与母鱼孕期护理至关重要。本指南将带您准确解读孔雀鱼的身体语言，并介绍维持清澈水质环境的3步骤日常护理流程。",
-                "whyTitle": "孔雀鱼的肢体语言：夹鳍与水面浮头 (Surface Gasping)",
-                "whyDesc": "孔雀鱼通过鳍部形态和游动位置反映水质与健康状况。将尾鳍和背鳍紧紧夹缩并在水缸角落或底部静止**“夹鳍 (Clamped Fins)”**，是氨氮积聚或水温剧变引发的极度应激信号。相反，浮至水面频繁张嘴急促呼吸**“水面浮头 (Surface Gasping)”**，则是水中溶氧量不足或氨氮中毒导致鳃部受损的紧急警告。",
-                "body_signals": [
-                    {
-                        "name": "紧夹鳍条并在角落静止 (Clamped Fins)",
-                        "meaning": "氨氮/亚硝酸盐指标升高、pH值冲击或水温剧烈波动引发的环境应激警告。",
-                        "response": "立即使用水质测试盒检测氨氮数值，并使用经过困水除氯且温差一致的水进行20%~30%的部分换水。"
-                    },
-                    {
-                        "name": "浮至水面连续张嘴急促呼吸 (Surface Gasping)",
-                        "meaning": "缸内溶氧量不足、过滤器故障或氨氮中毒导致的鳃功能受损信号。",
-                        "response": "开启气泵打氧增加溶氧量，检查过滤器出水量并确认水温（24°C~26°C）。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：水温（24°C~26°C）检测与少量分次喂食",
-                        "text": "检查水温计，投喂可在2~3分钟内吃完的专用饲料，防止残饵腐败破坏水质。"
-                    },
-                    {
-                        "name": "中午：底砂残饵排泄物吸管清理与水缸观察",
-                        "text": "用抽水吸管吸出沉在底砂的残饵和排泄物，减轻过滤系统的氨氮负荷。"
-                    },
-                    {
-                        "name": "晚上：鳍部烂腐状态检查与定期换水",
-                        "text": "观察尾鳍边缘是否发白、破损或感染水霉，必要时使用困好的水进行10%~20%的部分换水。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "孔雀鱼的尾鳍边缘发白、烂腐或破裂是什么原因？",
-                        "answer": "这是由于水质污染或细菌（柱状病）感染引发的“烂鳍病 (Fin Rot)”。主要原因为水质恶化，需进行盐浴（0.3%~0.5%浓度）或药物治疗，并增加换水频率以改善水质。"
-                    },
-                    {
-                        "question": "如何判断母孔雀鱼是否即将生产？",
-                        "answer": "母鱼的腹部会由圆润变为“方形（呈现L型）”，胎斑（靠近臀鳍处）显著变黑并凸出。若出现躲在角落或贴着缸壁上下频繁游动的行为，应及时隔离至繁殖盒中。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Señales de estrés por calidad del agua en el Guppy y rutina diaria de 3 pasos para el cuidado de aletas",
-                "description": "Guía de cuidado para el vistoso pez Guppy. Interprete el repliegue de aletas y el boqueo en la superficie, mantenga la temperatura ideal (24°C-26°C) y gestione el amoníaco en 3 pasos.",
-                "authority": "Asociación Internacional del Guppy de Fantasía (IFGA) y Protocolos de Cuidado Veterinario de Peces de Agua Dulce",
-                "profile": {
-                    "breed": "Guppy",
-                    "lifespan": "1.5 ~ 3 años",
-                    "sleep_pattern": "7 ~ 8 horas (Reposa inmóvil entre plantas o en el fondo tras apagar la luz)",
-                    "temperament": "Dócil, Activo, Muy prolífico, Social"
-                },
-                "intro": "Reconocido mundialmente como el pez ideal tanto para principiantes como para expertos, el Guppy (Poecilia reticulata) es un ovovivíparo de agua dulce muy querido. Sin embargo, los guppys son sensibles a la falta de filtración, picos de amoníaco y shocks de pH, lo que causa fácilmente la podredumbre de aletas (Fin Rot) o aletas sujetas (Clamped Fins). Además, al dar a luz a alevines vivos en lugar de poner huevos, la protección de las crías y el cuidado del embarazo son fundamentales. En esta guía, presenta una rutina de 3 pasos para interpretar sus señales y mantener el agua limpia.",
-                "whyTitle": "Lenguaje corporal del Guppy: Aletas replegadas y boqueo en la superficie (Surface Gasping)",
-                "whyDesc": "Los guppys comunican su estado de salud y la calidad del agua mediante la postura de sus aletas y su posición de nado. **'Aletas replegadas (Clamped Fins)'**—mantener la cola y la aleta dorsal pegadas al cuerpo mientras permanecen inmóviles—indica un estrés severo por acumulación de amoníaco o shock térmico. En cambio, el **'Boqueo en la superficie (Surface Gasping)'** es una advertencia urgente de falta de oxígeno disuelto o daño branquial por intoxicación de amoníaco.",
-                "body_signals": [
-                    {
-                        "name": "Aletas pegadas al cuerpo e inmovilidad en esquinas (Clamped Fins)",
-                        "meaning": "Advertencia de estrés ambiental causada por picos de amoníaco/nitritos, shock de pH o cambios de temperatura.",
-                        "response": "Mida de inmediato los niveles de amoníaco y realice un cambio parcial de agua del 20-30% con agua desclorada a la misma temperatura."
-                    },
-                    {
-                        "name": "Boqueo continuo en la superficie del agua (Surface Gasping)",
-                        "meaning": "Señal de falta de oxígeno disuelto, fallo en el filtro o deterioro de la función branquial por toxicidad de amoníaco.",
-                        "response": "Encienda un aireador (bomba de aire) para aumentar el oxígeno, revise el flujo del filtro y verifique la temperatura (24°C–26°C)."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Control de temperatura (24°C–26°C) y alimentación moderada",
-                        "text": "Verifique el termómetro y alimente con comida específica para guppy en pequeñas cantidades consumibles en 2-3 minutos."
-                    },
-                    {
-                        "name": "Tarde: Sifonado de desperdicios del sustrato y monitoreo del acuario",
-                        "text": "Sifone los restos de alimento y desechos del fondo para reducir la carga de amoníaco en el sistema de filtración."
-                    },
-                    {
-                        "name": "Noche: Inspección de aletas (podredumbre/hongos) y cambio parcial de agua",
-                        "text": "Observe si las aletas muestran bordes blancos o deshilachados, y realice un cambio parcial de agua del 10-20% con agua acondicionada si es necesario."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué las aletas de mi guppy se deshilachan, se rompen o se vuelven blancas en los bordes?",
-                        "answer": "Esto indica podredumbre de aletas (Fin Rot), causada por mala calidad del agua o infección bacteriana (Columnaris). Como la causa principal es la acumulación de desechos, realice cambios de agua frecuentes y considere baños de sal suaves (concentración 0.3-0.5%) o tratamientos antibacterianos."
-                    },
-                    {
-                        "question": "¿Cómo saber si una hembra guppy está a punto de parir?",
-                        "answer": "Su vientre tomará una forma 'cuadrada' en L y la mancha de gravidez cerca de la aleta anal se oscurecerá y sobresaldrá. Si se esconde en esquinas o nada de arriba abajo por los cristales, trasládela a una paridera para proteger a los alevines."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Signaux de stress liés à l'eau chez le Guppy et routine quotidienne en 3 étapes pour le soin des nageoires",
-                "description": "Guide de soins pour le guppy coloré. Décryptez le pincement des nageoires et la respiration en surface, maintenez une température idéale (24°C–26°C) et gérez l'ammoniaque en 3 étapes.",
-                "authority": "International Fancy Guppy Association (IFGA) & Normes Vétérinaires pour Poissons d'Eau Douce",
-                "profile": {
-                    "breed": "Guppy",
-                    "lifespan": "1,5 ~ 3 ans",
-                    "sleep_pattern": "7 ~ 8 heures (Reste immobile dans les plantes ou le fond après extinction des feux)",
-                    "temperament": "Paisible, Actif, Très prolifique, Social"
-                },
-                "intro": "Célèbre à la fois auprès des débutants et des aquariophiles confirmés, le Guppy (Poecilia reticulata) est un poisson ovovivipare très apprécié. Cependant, les guppys sont sensibles aux carences de filtration, aux pics d'ammoniaque et aux chocs de pH, provoquant la pourriture des nageoires (Fin Rot) ou les nageoires collées (Clamped Fins). Étant ovovivipares, la protection des alevins et la gestion de la gestation sont également essentielles. Dans ce guide, vous présente une routine en 3 étapes pour interpréter leurs signaux et maintenir une eau saine.",
-                "whyTitle": "Langage corporel du Guppy : Nageoires collées et respiration en surface (Surface Gasping)",
-                "whyDesc": "Les guppys expriment leur état de santé et la qualité de l'eau par la posture de leurs nageoires et leur position de nage. Garder les nageoires serrées contre le corps en restant immobile **« Nageoires collées (Clamped Fins) »** signale un stress intense lié à l'ammoniaque ou à un choc thermique. À l'inverse, **« La respiration en surface (Surface Gasping) »** est une alerte urgente indiquant un manque d'oxygène dissous ou une atteinte branchiale liée à l'ammoniaque.",
-                "body_signals": [
-                    {
-                        "name": "Nageoires collées au corps et immobilité dans les coins (Clamped Fins)",
-                        "meaning": "Avertissement de stress environnemental dû à une hausse d'ammoniaque/nitrites, un choc de pH ou une variation de température.",
-                        "response": "Testez immédiatement le taux d'ammoniaque et effectuez un changement d'eau partiel de 20 à 30 % avec une eau déchlorée à la même température."
-                    },
-                    {
-                        "name": "Respiration rapide en surface (Surface Gasping)",
-                        "meaning": "Signal de manque d'oxygène dissous, de panne du filtre ou de dysfonctionnement branchial dû à l'ammoniaque.",
-                        "response": "Activez un bulleur pour augmenter l'oxygène, vérifiez le débit du filtre et contrôlez la température de l'eau (24°C–26°C)."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Contrôle de la température (24°C–26°C) et distribution modérée de nourriture",
-                        "text": "Vérifiez le thermomètre et donnez une nourriture adaptée en quantité consommable en 2 à 3 minutes pour éviter la pollution."
-                    },
-                    {
-                        "name": "Après-midi : Siphonage des déchets du sol et observation du bac",
-                        "text": "Aspirez les restes de nourriture et les déjections du substrat à l'aide d'un siphon pour réduire la charge d'ammoniaque."
-                    },
-                    {
-                        "name": "Soir : Inspection des nageoires (Pourriture/champignons) et changement d'eau partiel",
-                        "text": "Observez si les nageoires présentent des bords blancs ou effilochés, et réalisez un changement d'eau partiel de 10 à 20 % si nécessaire."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi les nageoires de mon guppy s'effilochent-elles ou deviennent-elles blanches aux extrémités ?",
-                        "answer": "Cela indique une pourriture des nageoires (Fin Rot), causée par une mauvaise qualité d'eau ou une infection bactérienne (Columnaris). La pollution de l'eau étant la cause principale, faites des changements d'eau fréquents et envisagez un bain de sel doux (0,3 à 0,5 %) ou un traitement antibactérien."
-                    },
-                    {
-                        "question": "Comment savoir si une femelle guppy est sur le point d'accoucher ?",
-                        "answer": "Son ventre prend une forme carrée (en L) et la tâche de gestation près de la nageoire anale devient très sombre et saillante. Si elle s'isole ou nage de bas en haut le long des vitres, isolez-la dans un pondeoir pour protéger les alevins."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Wasserstress-Signale beim Guppy und 3-Schritte-Tagesroutine zur Flossenpflege",
-                "description": "Pflegeanleitung für den farbenfrohen Guppy. Klemmen der Flossen und Japsen an der Oberfläche verstehen, Wassertemperatur (24°C–26°C) halten und Ammoniak steuern.",
-                "authority": "International Fancy Guppy Association (IFGA) & Tiermedizinische Standards für Süßwasseraquaristik",
-                "profile": {
-                    "breed": "Guppy",
-                    "lifespan": "1,5 ~ 3 Jahre",
-                    "sleep_pattern": "7 ~ 8 Stunden (Ruht nach dem Ausschalten des Lichts reglos in Pflanzen oder am Boden)",
-                    "temperament": "Friedlich, Lebhaft, Sehr vermehrungsfreudig, Gesellig"
-                },
-                "intro": "Der Guppy (Poecilia reticulata) gilt sowohl als Einsteigerfisch als auch als Juwel für erfahrene Aquarianer. Die lebendgebärenden Zahnkarpfen reagieren jedoch empfindlich auf mangelnde Filterung, Ammoniakspitzen und pH-Wert-Schocks, was zu Flossenfäule (Fin Rot) oder Flossenklemmen (Clamped Fins) führen kann. Da Guppys lebende Junge gebären, sind auch der Schutz der Jungfische und die Trächtigkeitspflege essenziell. In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine zur Interpretation der Körpersprache und zur Aufrechterhaltung sauberer Wasserwerte.",
-                "whyTitle": "Körpersprache des Guppys: Flossenklemmen und Japsen an der Oberfläche (Surface Gasping)",
-                "whyDesc": "Guppys drücken ihren Gesundheitszustand und die Wasserqualität durch Flossenhaltung und Schwimmposition aus. Eng an den Körper angelegte Flossen bei Reglosigkeit **'Flossenklemmen (Clamped Fins)'** signalisieren extremen Stress durch Ammoniakanreicherung oder Temperaturschocks. **'Japsen an der Oberfläche (Surface Gasping)'** ist dagegen eine dringende Warnung vor Sauerstoffmangel oder Kiemenschäden durch Ammoniakvergiftung.",
-                "body_signals": [
-                    {
-                        "name": "Anliegende Flossen und Verharren in Ecken (Clamped Fins)",
-                        "meaning": "Warnung vor Umweltstress durch erhöhte Ammoniak-/Nitritwerte, pH-Schock oder Temperaturschwankungen.",
-                        "response": "Messen Sie sofort die Ammoniakwerte und führen Sie einen 20–30%igen Teilwasserwechsel mit temperiertem, entchlortem Wasser durch."
-                    },
-                    {
-                        "name": "Schnelles Nach-Luft-Schnappen an der Oberfläche (Surface Gasping)",
-                        "meaning": "Anzeichen von Sauerstoffmangel im Wasser, Filterausfall oder geschädigter Kiemenfunktion durch Ammoniak.",
-                        "response": "Schalten Sie einen Durchlüfter ein, überprüfen Sie den Filterdurchfluss und kontrollieren Sie die Wassertemperatur (24°C–26°C)."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Temperaturkontrolle (24°C–26°C) & Sparsame Fütterung",
-                        "text": "Prüfen Sie das Thermometer und füttern Sie spezielles Guppyfutter in kleinen Mengen, die innerhalb von 2–3 Minuten gefressen werden."
-                    },
-                    {
-                        "name": "Mittag: Mulm Absaugen vom Bodengrund & Beckenbeobachtung",
-                        "text": "Saugen Sie Futterreste und Kot mit einem Mulmsauger ab, um die Belastung des Filters mit Ammoniak zu reduzieren."
-                    },
-                    {
-                        "name": "Abend: Flosseninspektion (Flossenfäule/Pilz) & Teilwasserwechsel",
-                        "text": "Achten Sie auf weiße Ränder oder eingerissene Flossen und führen Sie bei Bedarf einen 10–20%igen Teilwasserwechsel mit aufbereitetem Wasser durch."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum fransen die Flossen meines Guppys ein, reißen ein oder werden an den Rändern weiß?",
-                        "answer": "Das deutet auf Flossenfäule (Fin Rot) hin, verursacht durch schlechte Wasserwerte oder bakterielle Infektionen (Columnaris). Da Wasserbelastung die Hauptursache ist, führen Sie häufige Teilwasserwechsel durch und nutzen Sie milde Salzbäder (0,3–0,5 % Konzentration) oder Bakterienheilmittel."
-                    },
-                    {
-                        "question": "Woran erkenne ich, dass ein Guppy-Weibchen kurz vor dem Werfen steht?",
-                        "answer": "Der Bauch verformt sich 'eckig' (L-Form) und der Trächtigkeitsfleck nahe der Afterflosse wird sehr dunkel und tritt hervor. Verharrt sie in Ecken oder schwimmt an den Scheiben auf und ab, sollte sie in einen Laichkasten umgesetzt werden."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Sinais de estresse pela qualidade da água no Guppy e rotina diária de 3 passos para o cuidado das nadadeiras",
-                "description": "Guia de cuidados para o colorido peixe Guppy. Entenda as nadadeiras encolhidas e a arfagem na superfície, mantenha a temperatura ideal (24°C–26°C) e controle a amônia em 3 passos.",
-                "authority": "Associação Internacional do Guppy de Fantasia (IFGA) e Protocolos Veterinários de Aquarismo de Água Doce",
-                "profile": {
-                    "breed": "Guppy",
-                    "lifespan": "1,5 ~ 3 anos",
-                    "sleep_pattern": "7 ~ 8 horas (Resta imóvel entre plantas ou no fundo após apagar a luz)",
-                    "temperament": "Dócil, Ativo, Muito prolífico, Social"
-                },
-                "intro": "Reconhecido mundialmente como o peixe ideal para iniciantes e aquaristas experientes, o Guppy (Poecilia reticulata) é um ovovivíparo de água doce muito querido. No entanto, os guppies são sensíveis à filtragem inadequada, picos de amônia e choques de pH, o que causa facilmente a podridão das nadadeiras (Fin Rot) ou nadadeiras encolhidas (Clamped Fins). Além disso, por darem à luz alevinos vivos em vez de botarem ovos, a proteção dos filhotes e o manejo da gestação são essenciais. Neste guia, apresenta uma rotina de 3 passos para interpretar seus sinais e manter a água limpa.",
-                "whyTitle": "Linguagem corporal do Guppy: Nadadeiras encolhidas e arfagem na superfície (Surface Gasping)",
-                "whyDesc": "Os guppies comunicam sua saúde e a qualidade da água através da postura das nadadeiras e posição de nado. **'Nadadeiras encolhidas (Clamped Fins)'**—manter a cauda e nadadeira dorsal coladas ao corpo enquanto permanecem imóveis—sinaliza estresse severo por acúmulo de amônia ou choque térmico. Por outro lado, a **'Arfagem na superfície (Surface Gasping)'** é um aviso urgente de falta de oxigênio dissolvido ou dano branquial por intoxicação de amônia.",
-                "body_signals": [
-                    {
-                        "name": "Nadadeiras coladas ao corpo e imobilidade nos cantos (Clamped Fins)",
-                        "meaning": "Aviso de estresse ambiental causado por picos de amônia/nitrito, choque de pH ou variações de temperatura.",
-                        "response": "Meça imediatamente os níveis de amônia e faça uma troca parcial de água de 20-30% com água desclorada na mesma temperatura."
-                    },
-                    {
-                        "name": "Arfagem contínua na superfície da água (Surface Gasping)",
-                        "meaning": "Sinal de falta de oxigênio dissolvido, falha no filtro ou comprometimento branquial por toxicidade de amônia.",
-                        "response": "Ligue um compressor de ar para aumentar o oxigênio, verifique o fluxo do filtro e controle a temperatura (24°C–26°C)."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Controle de temperatura (24°C–26°C) e alimentação moderada",
-                        "text": "Verifique o termômetro e alimente com ração específica para guppy em pequenas quantidades consumíveis em 2-3 minutos."
-                    },
-                    {
-                        "name": "Tarde: Sifonagem de resíduos do substrato e monitoramento do aquário",
-                        "text": "Sifone restos de ração e dejetos do fundo para reduzir a carga de amônia no sistema de filtragem."
-                    },
-                    {
-                        "name": "Noite: Inspeção das nadadeiras (podridão/fungos) e troca parcial de água",
-                        "text": "Observe se as nadadeiras apresentam bordas brancas ou desfiadas e faça uma troca parcial de água de 10-20% com água condicionada se necessário."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Por que as nadadeiras do meu guppy estão desfiando, rasgando ou ficando brancas nas pontas?",
-                        "answer": "Isso indica podridão das nadadeiras (Fin Rot), causada por má qualidade da água ou infecção bacteriana (Columnaris). Como a causa principal é o acúmulo de sujeira, faça trocas de água frequentes e considere banhos de sal suaves (concentração de 0,3-0,5%) ou antibacterianos."
-                    },
-                    {
-                        "question": "Como saber se uma fêmea de guppy está prestes a dar à luz?",
-                        "answer": "O ventre ficará com formato 'quadrado' em L e a mancha de gravidez perto da nadadeira anal ficará muito escura e saliente. Se ela se isolar em cantos ou nadar para cima e para baixo nos vidros, transfira-a para uma maternidade."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Sinyal Stres Kualitas Air pada Guppy dan Rutinitas Harian 3 Langkah Perawatan Sirip",
-                "description": "Panduan perawatan ikan Guppy yang berwarna-warni. Pahami sirip menguncup dan napas menggep-menggep di permukaan, jaga suhu air ideal (24°C–26°C), serta kelola amonia dalam 3 langkah.",
-                "authority": "International Fancy Guppy Association (IFGA) & Standar Perawatan Medis Akuarium Air Tawar",
-                "profile": {
-                    "breed": "Guppy",
-                    "lifespan": "1.5 ~ 3 tahun",
-                    "sleep_pattern": "7 ~ 8 jam (Istirahat diam di antara tanaman/dasar setelah lampu dimatikan)",
-                    "temperament": "Jinak, Aktif, Sangat prolifik, Sosial"
-                },
-                "intro": "Diakui secara global sebagai ikan favorit bagi pemula maupun penghobi berpengalaman, Guppy (Poecilia reticulata) adalah ikan air tawar livebearer (melahirkan) yang sangat dicintai. Namun, guppy sangat sensitif terhadap filtrasi yang buruk, lonjakan amonia, dan syok pH, yang dapat memicu pembusukan sirip (Fin Rot) atau sirip menguncup (Clamped Fins). Karena melahirkan burayak hidup, perlindungan anak ikan dan perawatan kehamilan sangat penting. Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk memahami sinyal tubuh mereka dan menjaga air tetap bersih.",
-                "whyTitle": "Bahasa Tubuh Guppy: Sirip Menguncup dan Napas di Permukaan (Surface Gasping)",
-                "whyDesc": "Guppy menyampaikan kondisi kesehatan dan kualitas air melalui postur sirip dan posisi berenang. **'Sirip Menguncup (Clamped Fins)'**—menempelkan ekor dan sirip punggung ke tubuh sambil berdiam diri—menandakan stres berat akibat penumpukan amonia atau syok suhu. Sebaliknya, **'Napas di Permukaan (Surface Gasping)'** adalah peringatan darurat akan kurangnya oksigen terlarut atau kerusakan insang akibat keracunan amonia.",
-                "body_signals": [
-                    {
-                        "name": "Sirip menempel pada tubuh dan berdiam di sudut (Clamped Fins)",
-                        "meaning": "Peringatan stres lingkungan akibat lonjakan amonia/nitrit, syok pH, atau perubahan suhu.",
-                        "response": "Segera ukur kadar amonia dan lakukan penggantian air sebagian 20–30% dengan air yang sudah diendapkan dan disesuaikan suhunya."
-                    },
-                    {
-                        "name": "Mengambil napas terus-menerus di permukaan air (Surface Gasping)",
-                        "meaning": "Sinyal kekurangan oksigen terlarut, filter macet, atau gangguan fungsi insang akibat toksisitas amonia.",
-                        "response": "Nyalakan pompa udara (aerator) untuk menambah oksigen, periksa arus filter, dan pastikan suhu air (24°C–26°C)."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Pemantauan Suhu Air (24°C–26°C) & Pemberian Pakan Secukupnya",
-                        "text": "Periksa termometer dan beri pakan khusus guppy dalam jumlah sedikit yang habis dalam 2–3 menit untuk mencegah pembusukan pakan."
-                    },
-                    {
-                        "name": "Siang: Penyiphonan Kotoran Dasar & Pemantauan Akuarium",
-                        "text": "Siphon sisa pakan dan kotoran dari dasar akuarium untuk mengurangi beban amonia pada sistem filtrasi."
-                    },
-                    {
-                        "name": "Malam: Pemeriksaan Kesehatan Sirip (Pembusukan/Jamur) & Penggantian Air Sebagian",
-                        "text": "Amati apakah ujung sirip memutih atau robek, dan lakukan penggantian air sebagian 10–20% dengan air yang sudah terkondisikan jika diperlukan."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa sirip guppy saya rontok, robek, atau memutih di bagian ujungnya?",
-                        "answer": "Ini menandakan pembusukan sirip (Fin Rot), yang disebabkan oleh kualitas air yang buruk atau infeksi bakteri (Columnaris). Karena penyebab utamanya adalah penumpukan kotoran, lakukan penggantian air secara berkala dan pertimbangkan mandi garam ringan (konsentrasi 0,3–0,5%) atau pengobatan antibakteri."
-                    },
-                    {
-                        "question": "Bagaimana cara mengetahui jika guppy betina akan segera melahirkan?",
-                        "answer": "Perutnya akan berbentuk agak 'kotak' (berbentuk L) dan bercak kehamilan (gravid spot) dekat sirip anal akan sangat gelap dan menonjol. Jika ia bersembunyi di sudut atau berenang naik-turun di kaca, segera pindahkan ke tempat pemijahan (breeding box) untuk melindungi burayak."
-                    }
-                ]
-            }
+  "guppy-care": {
+    "pubDate": "2026-06-01",
+    "updatedDate": "2026-06-01",
+    "locales": {
+      "ko": {
+        "title": "구피의 수질 스트레스 신호와 지느러미 관리를 위한 3단계 데일리 케어",
+        "description": "화려한 알록달록 열대어 구피(Guppy). 지느러미 접힘과 수면 뻐끔거림 신호 해석, 적정 수온(24°C~26°C)과 암모니아 관리를 위한 3단계 홈케어 루틴을 소개합니다.",
+        "authority": "International Fancy Guppy Association (IFGA) 및 관상어 수의학 케어 프로토콜",
+        "profile": {
+          "breed": "구피 (Guppy)",
+          "lifespan": "1.5 ~ 3년",
+          "sleep_pattern": "7 ~ 8시간 (조명 차단 후 수풀/바닥 정지 휴식)",
+          "temperament": "온순함, 활발함, 높은 번식력, 사교적"
         },
-        "heroImage": "/images/blog/guppy_care.webp"
-    }
+        "intro": "화려한 지느러미와 강한 생명력으로 '열대어의 입문이자 완성'이라 불리는 구피(Guppy)는 전 세계에서 가장 사랑받는 난태생 송살목 관상어입니다. 하지만 구피는 여과력이 부족하거나 수질 변화(암모니아, 아질산 스파이크)에 노출될 경우 지느러미가 녹아내리는 지느러미 부식병(Fin Rot)이나 바늘지느러미병에 쉽게 걸립니다. 또한 알을 낳지 않고 새끼를 바로 낳는 난태생 특성 때문에 치어 보호와 임신 관리가 필수적입니다. 이번 가이드에서는 구피의 신체 신호를 정확히 읽어내고 깨끗한 수질 환경을 유지하는 3단계 데일리 케어 루틴을 전해드립니다.",
+        "whyTitle": "구피의 바디 랭귀지: 지느러미 접힘과 수면 뻐끔거림 (Surface Gasping)",
+        "whyDesc": "구피는 지느러미의 모양과 헤엄치는 위치로 수질 상태와 건강 신호를 나타냅니다. 꼬리와 등지느러미를 바짝 접고 수조 구석이나 바닥에 가만히 서 있는 **'지느러미 접힘(Clamped Fins)'** 현상은 수질 악화나 급격한 수온 변화로 인한 극심한 스트레스 신호입니다. 반면 수면 가까이 올라와 입을 연속적으로 뻐끔거리는 **'수면 호흡(Surface Gasping)'**은 수중 용존 산소 부족이나 암모니아 중독으로 인한 아가미 손상 경고입니다.",
+        "body_signals": [
+          {
+            "name": "지느러미를 바짝 접고 구석에 정지해 있음 (Clamped Fins)",
+            "meaning": "암모니아/아질산 지수 상승, pH 쇼크, 또는 수온 변화로 인한 유해 환경 스트레스 경고입니다.",
+            "response": "즉시 수질 검사키트로 암모니아 수치를 확인하고 20~30% 부분 환수(온도 및 염소 제거 필히 맞춤)를 실시합니다."
+          },
+          {
+            "name": "수면 위로 올라와 연속해서 입을 뻐끔거림 (Surface Gasping)",
+            "meaning": "수조 내 용존 산소 부족, 여과기 먹통, 또는 암모니아 중독으로 인한 아가미 기능 저하 신호입니다.",
+            "response": "에어 디퓨저(기포기)를 가동해 산소를 공급하고 여과기 출수량과 수온(24°C~26°C)을 점검합니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 수온(24°C~26°C) 점검 및 소량 분할 급여",
+            "text": "수온계 변화를 체크하고 2~3분 내에 다 먹을 수 있는 양의 전용 사료를 급여하여 사료 부패를 방지합니다."
+          },
+          {
+            "name": "낮: 바닥재 잔여물 사이펀 청소 및 수조 벽면 모니터링",
+            "text": "바닥에 쌓인 사료 찌꺼기와 배설물을 사이펀으로 픽업하여 여과조의 암모니아 부하를 줄여줍니다."
+          },
+          {
+            "name": "저녁: 지느러미 녹음/곰팡이 상태 점검 및 주기적 환수",
+            "text": "지느러미 끝이 하얗게 변하거나 갈라지는지 관찰하고, 필요 시 염소가 제거되고 온도가 맞추어진 물로 10~20% 부분 환수를 진행합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "구피 지느러미 끝이 하얗게 녹거나 갈라지는데 왜 그런가요?",
+            "answer": "수질 오염이나 세균(Columnaris) 감염으로 인한 '지느러미 부식병(Fin Rot)'입니다. 수질 악화가 주원인이므로 소금욕(0.3~0.5% 농도)이나 약품 치료와 함께 부분 환수를 자주 진행해야 합니다."
+          },
+          {
+            "question": "암컷 구피가 임신해서 출산할 때가 되었는지 어떻게 알 수 있나요?",
+            "answer": "배 모양이 둥근 모양에서 ㄴ자(네모난 모양)로 변하고, 항문 근처 산란관 부위가 검고 툭 튀어나옵니다. 또한 구석에 머물거나 수조 벽을 위아래로 탔다 내리는 행동을 보이면 부하통으로 옮겨주어야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Guppy Water Quality Stress Signals and 3-Step Daily Routine for Fin Care",
+        "description": "Care guide for the vibrant freshwater Guppy. Understand clamped fins and surface gasping signals, maintain optimal water temperature (24°C–26°C), and manage ammonia with a 3-step routine.",
+        "authority": "International Fancy Guppy Association (IFGA) & Freshwater Aquarium Veterinary Care Protocols",
+        "profile": {
+          "breed": "Guppy",
+          "lifespan": "1.5 - 3 Years",
+          "sleep_pattern": "7 - 8 Hours (Rests still near plants/bottom after lights off)",
+          "temperament": "Docile, Active, Highly Prolific, Social"
+        },
+        "intro": "Renowned as both the beginner's favorite and the expert's treasure, the Guppy (Poecilia reticulata) is a widely loved livebearer freshwater fish. However, guppies are sensitive to poor filtration, ammonia spikes, and pH shock, which easily trigger Fin Rot or Clamped Fin disease. As livebearers that give birth to free-swimming fry rather than laying eggs, fry protection and pregnancy care are also essential. In this guide, presents a 3-step daily care routine to read your guppy's physical signals and maintain pristine water parameters.",
+        "whyTitle": "Guppy Body Language: Clamped Fins and Surface Gasping",
+        "whyDesc": "Guppies communicate health and water quality through fin posture and swimming position. **'Clamped Fins'**—holding the tail and dorsal fin tightly against the body while staying still—signals severe stress from ammonia accumulation or thermal shock. Conversely, **'Surface Gasping'**—repeatedly mouthing at the water surface—is an urgent warning of low dissolved oxygen or gill damage from ammonia poisoning.",
+        "body_signals": [
+          {
+            "name": "Clamped Fins & Staying Still in Corners (Clamped Fins)",
+            "meaning": "An environmental stress warning caused by rising ammonia/nitrite levels, pH shock, or temperature fluctuations.",
+            "response": "Immediately test water parameters for ammonia and perform a 20-30% partial water change with temperature-matched, dechlorinated water."
+          },
+          {
+            "name": "Repeated Mouthing at Water Surface (Surface Gasping)",
+            "meaning": "A signal of low dissolved oxygen levels, filter failure, or impaired gill function due to ammonia toxicity.",
+            "response": "Turn on an air diffuser/bubbler to boost oxygen, check filter flow, and verify water temperature (24°C–26°C)."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Water Temperature Check (24°C–26°C) & Small Portion Feeding",
+            "text": "Check the thermometer and feed specialized guppy food in small amounts that can be consumed within 2–3 minutes to prevent food decay."
+          },
+          {
+            "name": "Afternoon: Substrate Waste Siphoning & Tank Wall Monitoring",
+            "text": "Siphon out uneaten food and waste from the substrate to reduce ammonia load on the filtration system."
+          },
+          {
+            "name": "Evening: Fin Health Inspection (Fin Rot Check) & Partial Water Change",
+            "text": "Inspect fins for white edges, fraying, or fungal spots, and perform a 10–20% partial water change with pre-conditioned water if necessary."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why are my guppy's fins fraying, splitting, or turning white at the edges?",
+            "answer": "This indicates Fin Rot, caused by poor water quality or bacterial infection (Columnaris). Since elevated ammonia/nitrite is the primary cause, perform frequent partial water changes and consider mild salt baths (0.3–0.5% concentration) or antibacterial treatments."
+          },
+          {
+            "question": "How can I tell if a female guppy is about to give birth?",
+            "answer": "Her belly will flatten into a 'square' or L-shape, and the gravid spot near her anal fin will darken significantly. If she hides in corners or paces up and down the tank walls, move her to a breeding box to protect the fry."
+          }
+        ]
+      },
+      "ja": {
+        "title": "グッピーの水質ストレスサインとヒレの健康を守る3ステップデイリールーティン",
+        "description": "鮮やかな熱帯魚グッピー。ヒレ閉じや水面でのパクパク動作の解読、適正水温(24°C〜26°C)とアンモニア管理のための3ステップホームケアを紹介します。",
+        "authority": "国際ファンシーグッピー協会(IFGA)および観賞魚獣医ケアプロトコル",
+        "profile": {
+          "breed": "グッピー (Guppy)",
+          "lifespan": "1.5 〜 3年",
+          "sleep_pattern": "7 〜 8時間 (消灯後、水草や底面で静止休息)",
+          "temperament": "温厚、活発、高い繁殖力、社交的"
+        },
+        "intro": "鮮やかなヒレと強い生命力で「熱帯魚の入門であり到達点」と呼ばれるグッピー（Guppy）は、世界中で最も愛されている卵胎生メダカ科の観賞魚です。しかし、濾過不足や水質変化（アンモニア・亜硝酸の急昇）に晒されると、ヒレが溶ける尾腐れ病（Fin Rot）や針病にかかりやすいです。また、卵ではなく稚魚を直接産む卵胎生のため、稚魚の保護や妊娠管理が不可欠です。本記事では、グッピーのサインを正確に読み解き、綺麗な水質環境を維持する3ステップルーティンをお届けします。",
+        "whyTitle": "グッピーのボディランゲージ：ヒレ閉じと水面でのパクパク動作 (Surface Gasping)",
+        "whyDesc": "グッピーはヒレの形と泳ぐ位置で水質状態や健康状態を表します。尾ヒレや背ヒレを小さく折りたたんで水槽の隅や底で静止する**「ヒレ閉じ (Clamped Fins)」**は、水質悪化や急激な水温変化による極度のストレスサインです。一方、水面近くに浮上して口を連続でパクパクさせる**「水面呼吸 (Surface Gasping)」**は、水中酸素不足やアンモニア中毒によるエラ障害の警告です。",
+        "body_signals": [
+          {
+            "name": "ヒレをたたんで隅で静止している (Clamped Fins)",
+            "meaning": "アンモニア・亜硝酸濃度の上昇、pHショック、または水温変化による環境ストレスの警告です。",
+            "response": "すぐに水質検査キットでアンモニア値を確認し、カルキ抜きと温度合わせを行った水で20〜30%の部分換水を実施します。"
+          },
+          {
+            "name": "水面で連続して口をパクパクさせる (Surface Gasping)",
+            "meaning": "水中の溶存酸素不足、フィルターの作動不良、またはアンモニア中毒によるエラ機能低下のサインです。",
+            "response": "エアレーション（気泡器）を稼働させて酸素を供給し、フィルターの吐出量と水温（24°C〜26°C）を確認します。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：水温（24°C〜26°C）の点検と少量の分割給餌",
+            "text": "水温計を確認し、2〜3分で食べきれる量の専用フードを与えてフードの腐敗を防ぎます。"
+          },
+          {
+            "name": "昼：底砂の残餌・排泄物のサイフォン掃除と水槽の観察",
+            "text": "底に溜まった残餌やフンをサイフォンで取り除き、フィルターのアンモニア負荷を軽減します。"
+          },
+          {
+            "name": "夜：ヒレの傷み・カビの点検と定期的な換水",
+            "text": "ヒレの先端が白く変色したり裂けていないか観察し、必要に応じてカルキ抜き・温度合わせをした水で10〜20%の部分換水を行います。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "グッピーのヒレの先端が白く溶けたり裂けたりするのはなぜですか？",
+            "answer": "水質汚染や細菌（Columnaris）感染による「尾腐れ病（Fin Rot）」です。水質悪化が主な原因のため、塩浴（0.3〜0.5%濃度）や薬浴を行うとともに、頻繁な部分換水で水質を改善してください。"
+          },
+          {
+            "question": "メスのグッピーが妊娠して出産間近かどうかはどうすれば分かりますか？",
+            "answer": "お腹の形が丸型から「L字型（四角い形）」に変化し、お尻付近の妊娠斑（Gravid spot）が黒く突起してきます。また、隅に留まったり水槽のガラス面を上下に往復する行動を見せたら産卵箱（隔離箱）へ移動させてください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "孔雀鱼水质应激信号解读与鳍部护理的3步日常流程",
+        "description": "绚丽热带鱼孔雀鱼（Guppy）护理指南。解读夹鳍与水面浮头呼吸信号，维持适宜水温（24°C~26°C）及氨氮管理的3步骤家庭护理。",
+        "authority": "国际花色孔雀鱼协会 (IFGA) 与观赏鱼兽医护理标准",
+        "profile": {
+          "breed": "孔雀鱼 (Guppy)",
+          "lifespan": "1.5 ~ 3年",
+          "sleep_pattern": "7 ~ 8小时 (关灯后在水草或缸底静止休息)",
+          "temperament": "温和、活泼、繁殖力强、喜群居"
+        },
+        "intro": "孔雀鱼（Guppy）因其绚丽的尾鳍和顽强的生命力，被誉为“热带鱼的入门与终点”。然而，若过滤系统不足或遭遇水质剧烈波动（氨氮、亚硝酸盐飙升），孔雀鱼极易患上烂鳍病（Fin Rot）或针尾病。此外，作为直接产下小鱼的卵胎生鱼类，幼鱼保护与母鱼孕期护理至关重要。本指南将带您准确解读孔雀鱼的身体语言，并介绍维持清澈水质环境的3步骤日常护理流程。",
+        "whyTitle": "孔雀鱼的肢体语言：夹鳍与水面浮头 (Surface Gasping)",
+        "whyDesc": "孔雀鱼通过鳍部形态和游动位置反映水质与健康状况。将尾鳍和背鳍紧紧夹缩并在水缸角落或底部静止**“夹鳍 (Clamped Fins)”**，是氨氮积聚或水温剧变引发的极度应激信号。相反，浮至水面频繁张嘴急促呼吸**“水面浮头 (Surface Gasping)”**，则是水中溶氧量不足或氨氮中毒导致鳃部受损的紧急警告。",
+        "body_signals": [
+          {
+            "name": "紧夹鳍条并在角落静止 (Clamped Fins)",
+            "meaning": "氨氮/亚硝酸盐指标升高、pH值冲击或水温剧烈波动引发的环境应激警告。",
+            "response": "立即使用水质测试盒检测氨氮数值，并使用经过困水除氯且温差一致的水进行20%~30%的部分换水。"
+          },
+          {
+            "name": "浮至水面连续张嘴急促呼吸 (Surface Gasping)",
+            "meaning": "缸内溶氧量不足、过滤器故障或氨氮中毒导致的鳃功能受损信号。",
+            "response": "开启气泵打氧增加溶氧量，检查过滤器出水量并确认水温（24°C~26°C）。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：水温（24°C~26°C）检测与少量分次喂食",
+            "text": "检查水温计，投喂可在2~3分钟内吃完的专用饲料，防止残饵腐败破坏水质。"
+          },
+          {
+            "name": "中午：底砂残饵排泄物吸管清理与水缸观察",
+            "text": "用抽水吸管吸出沉在底砂的残饵和排泄物，减轻过滤系统的氨氮负荷。"
+          },
+          {
+            "name": "晚上：鳍部烂腐状态检查与定期换水",
+            "text": "观察尾鳍边缘是否发白、破损或感染水霉，必要时使用困好的水进行10%~20%的部分换水。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "孔雀鱼的尾鳍边缘发白、烂腐或破裂是什么原因？",
+            "answer": "这是由于水质污染或细菌（柱状病）感染引发的“烂鳍病 (Fin Rot)”。主要原因为水质恶化，需进行盐浴（0.3%~0.5%浓度）或药物治疗，并增加换水频率以改善水质。"
+          },
+          {
+            "question": "如何判断母孔雀鱼是否即将生产？",
+            "answer": "母鱼的腹部会由圆润变为“方形（呈现L型）”，胎斑（靠近臀鳍处）显著变黑并凸出。若出现躲在角落或贴着缸壁上下频繁游动的行为，应及时隔离至繁殖盒中。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Señales de estrés por calidad del agua en el Guppy y rutina diaria de 3 pasos para el cuidado de aletas",
+        "description": "Guía de cuidado para el vistoso pez Guppy. Interprete el repliegue de aletas y el boqueo en la superficie, mantenga la temperatura ideal (24°C-26°C) y gestione el amoníaco en 3 pasos.",
+        "authority": "Asociación Internacional del Guppy de Fantasía (IFGA) y Protocolos de Cuidado Veterinario de Peces de Agua Dulce",
+        "profile": {
+          "breed": "Guppy",
+          "lifespan": "1.5 ~ 3 años",
+          "sleep_pattern": "7 ~ 8 horas (Reposa inmóvil entre plantas o en el fondo tras apagar la luz)",
+          "temperament": "Dócil, Activo, Muy prolífico, Social"
+        },
+        "intro": "Reconocido mundialmente como el pez ideal tanto para principiantes como para expertos, el Guppy (Poecilia reticulata) es un ovovivíparo de agua dulce muy querido. Sin embargo, los guppys son sensibles a la falta de filtración, picos de amoníaco y shocks de pH, lo que causa fácilmente la podredumbre de aletas (Fin Rot) o aletas sujetas (Clamped Fins). Además, al dar a luz a alevines vivos en lugar de poner huevos, la protección de las crías y el cuidado del embarazo son fundamentales. En esta guía, presenta una rutina de 3 pasos para interpretar sus señales y mantener el agua limpia.",
+        "whyTitle": "Lenguaje corporal del Guppy: Aletas replegadas y boqueo en la superficie (Surface Gasping)",
+        "whyDesc": "Los guppys comunican su estado de salud y la calidad del agua mediante la postura de sus aletas y su posición de nado. **'Aletas replegadas (Clamped Fins)'**—mantener la cola y la aleta dorsal pegadas al cuerpo mientras permanecen inmóviles—indica un estrés severo por acumulación de amoníaco o shock térmico. En cambio, el **'Boqueo en la superficie (Surface Gasping)'** es una advertencia urgente de falta de oxígeno disuelto o daño branquial por intoxicación de amoníaco.",
+        "body_signals": [
+          {
+            "name": "Aletas pegadas al cuerpo e inmovilidad en esquinas (Clamped Fins)",
+            "meaning": "Advertencia de estrés ambiental causada por picos de amoníaco/nitritos, shock de pH o cambios de temperatura.",
+            "response": "Mida de inmediato los niveles de amoníaco y realice un cambio parcial de agua del 20-30% con agua desclorada a la misma temperatura."
+          },
+          {
+            "name": "Boqueo continuo en la superficie del agua (Surface Gasping)",
+            "meaning": "Señal de falta de oxígeno disuelto, fallo en el filtro o deterioro de la función branquial por toxicidad de amoníaco.",
+            "response": "Encienda un aireador (bomba de aire) para aumentar el oxígeno, revise el flujo del filtro y verifique la temperatura (24°C–26°C)."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Control de temperatura (24°C–26°C) y alimentación moderada",
+            "text": "Verifique el termómetro y alimente con comida específica para guppy en pequeñas cantidades consumibles en 2-3 minutos."
+          },
+          {
+            "name": "Tarde: Sifonado de desperdicios del sustrato y monitoreo del acuario",
+            "text": "Sifone los restos de alimento y desechos del fondo para reducir la carga de amoníaco en el sistema de filtración."
+          },
+          {
+            "name": "Noche: Inspección de aletas (podredumbre/hongos) y cambio parcial de agua",
+            "text": "Observe si las aletas muestran bordes blancos o deshilachados, y realice un cambio parcial de agua del 10-20% con agua acondicionada si es necesario."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué las aletas de mi guppy se deshilachan, se rompen o se vuelven blancas en los bordes?",
+            "answer": "Esto indica podredumbre de aletas (Fin Rot), causada por mala calidad del agua o infección bacteriana (Columnaris). Como la causa principal es la acumulación de desechos, realice cambios de agua frecuentes y considere baños de sal suaves (concentración 0.3-0.5%) o tratamientos antibacterianos."
+          },
+          {
+            "question": "¿Cómo saber si una hembra guppy está a punto de parir?",
+            "answer": "Su vientre tomará una forma 'cuadrada' en L y la mancha de gravidez cerca de la aleta anal se oscurecerá y sobresaldrá. Si se esconde en esquinas o nada de arriba abajo por los cristales, trasládela a una paridera para proteger a los alevines."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Signaux de stress liés à l'eau chez le Guppy et routine quotidienne en 3 étapes pour le soin des nageoires",
+        "description": "Guide de soins pour le guppy coloré. Décryptez le pincement des nageoires et la respiration en surface, maintenez une température idéale (24°C–26°C) et gérez l'ammoniaque en 3 étapes.",
+        "authority": "International Fancy Guppy Association (IFGA) & Normes Vétérinaires pour Poissons d'Eau Douce",
+        "profile": {
+          "breed": "Guppy",
+          "lifespan": "1,5 ~ 3 ans",
+          "sleep_pattern": "7 ~ 8 heures (Reste immobile dans les plantes ou le fond après extinction des feux)",
+          "temperament": "Paisible, Actif, Très prolifique, Social"
+        },
+        "intro": "Célèbre à la fois auprès des débutants et des aquariophiles confirmés, le Guppy (Poecilia reticulata) est un poisson ovovivipare très apprécié. Cependant, les guppys sont sensibles aux carences de filtration, aux pics d'ammoniaque et aux chocs de pH, provoquant la pourriture des nageoires (Fin Rot) ou les nageoires collées (Clamped Fins). Étant ovovivipares, la protection des alevins et la gestion de la gestation sont également essentielles. Dans ce guide, vous présente une routine en 3 étapes pour interpréter leurs signaux et maintenir une eau saine.",
+        "whyTitle": "Langage corporel du Guppy : Nageoires collées et respiration en surface (Surface Gasping)",
+        "whyDesc": "Les guppys expriment leur état de santé et la qualité de l'eau par la posture de leurs nageoires et leur position de nage. Garder les nageoires serrées contre le corps en restant immobile **« Nageoires collées (Clamped Fins) »** signale un stress intense lié à l'ammoniaque ou à un choc thermique. À l'inverse, **« La respiration en surface (Surface Gasping) »** est une alerte urgente indiquant un manque d'oxygène dissous ou une atteinte branchiale liée à l'ammoniaque.",
+        "body_signals": [
+          {
+            "name": "Nageoires collées au corps et immobilité dans les coins (Clamped Fins)",
+            "meaning": "Avertissement de stress environnemental dû à une hausse d'ammoniaque/nitrites, un choc de pH ou une variation de température.",
+            "response": "Testez immédiatement le taux d'ammoniaque et effectuez un changement d'eau partiel de 20 à 30 % avec une eau déchlorée à la même température."
+          },
+          {
+            "name": "Respiration rapide en surface (Surface Gasping)",
+            "meaning": "Signal de manque d'oxygène dissous, de panne du filtre ou de dysfonctionnement branchial dû à l'ammoniaque.",
+            "response": "Activez un bulleur pour augmenter l'oxygène, vérifiez le débit du filtre et contrôlez la température de l'eau (24°C–26°C)."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Contrôle de la température (24°C–26°C) et distribution modérée de nourriture",
+            "text": "Vérifiez le thermomètre et donnez une nourriture adaptée en quantité consommable en 2 à 3 minutes pour éviter la pollution."
+          },
+          {
+            "name": "Après-midi : Siphonage des déchets du sol et observation du bac",
+            "text": "Aspirez les restes de nourriture et les déjections du substrat à l'aide d'un siphon pour réduire la charge d'ammoniaque."
+          },
+          {
+            "name": "Soir : Inspection des nageoires (Pourriture/champignons) et changement d'eau partiel",
+            "text": "Observez si les nageoires présentent des bords blancs ou effilochés, et réalisez un changement d'eau partiel de 10 à 20 % si nécessaire."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi les nageoires de mon guppy s'effilochent-elles ou deviennent-elles blanches aux extrémités ?",
+            "answer": "Cela indique une pourriture des nageoires (Fin Rot), causée par une mauvaise qualité d'eau ou une infection bactérienne (Columnaris). La pollution de l'eau étant la cause principale, faites des changements d'eau fréquents et envisagez un bain de sel doux (0,3 à 0,5 %) ou un traitement antibactérien."
+          },
+          {
+            "question": "Comment savoir si une femelle guppy est sur le point d'accoucher ?",
+            "answer": "Son ventre prend une forme carrée (en L) et la tâche de gestation près de la nageoire anale devient très sombre et saillante. Si elle s'isole ou nage de bas en haut le long des vitres, isolez-la dans un pondeoir pour protéger les alevins."
+          }
+        ]
+      },
+      "de": {
+        "title": "Wasserstress-Signale beim Guppy und 3-Schritte-Tagesroutine zur Flossenpflege",
+        "description": "Pflegeanleitung für den farbenfrohen Guppy. Klemmen der Flossen und Japsen an der Oberfläche verstehen, Wassertemperatur (24°C–26°C) halten und Ammoniak steuern.",
+        "authority": "International Fancy Guppy Association (IFGA) & Tiermedizinische Standards für Süßwasseraquaristik",
+        "profile": {
+          "breed": "Guppy",
+          "lifespan": "1,5 ~ 3 Jahre",
+          "sleep_pattern": "7 ~ 8 Stunden (Ruht nach dem Ausschalten des Lichts reglos in Pflanzen oder am Boden)",
+          "temperament": "Friedlich, Lebhaft, Sehr vermehrungsfreudig, Gesellig"
+        },
+        "intro": "Der Guppy (Poecilia reticulata) gilt sowohl als Einsteigerfisch als auch als Juwel für erfahrene Aquarianer. Die lebendgebärenden Zahnkarpfen reagieren jedoch empfindlich auf mangelnde Filterung, Ammoniakspitzen und pH-Wert-Schocks, was zu Flossenfäule (Fin Rot) oder Flossenklemmen (Clamped Fins) führen kann. Da Guppys lebende Junge gebären, sind auch der Schutz der Jungfische und die Trächtigkeitspflege essenziell. In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine zur Interpretation der Körpersprache und zur Aufrechterhaltung sauberer Wasserwerte.",
+        "whyTitle": "Körpersprache des Guppys: Flossenklemmen und Japsen an der Oberfläche (Surface Gasping)",
+        "whyDesc": "Guppys drücken ihren Gesundheitszustand und die Wasserqualität durch Flossenhaltung und Schwimmposition aus. Eng an den Körper angelegte Flossen bei Reglosigkeit **'Flossenklemmen (Clamped Fins)'** signalisieren extremen Stress durch Ammoniakanreicherung oder Temperaturschocks. **'Japsen an der Oberfläche (Surface Gasping)'** ist dagegen eine dringende Warnung vor Sauerstoffmangel oder Kiemenschäden durch Ammoniakvergiftung.",
+        "body_signals": [
+          {
+            "name": "Anliegende Flossen und Verharren in Ecken (Clamped Fins)",
+            "meaning": "Warnung vor Umweltstress durch erhöhte Ammoniak-/Nitritwerte, pH-Schock oder Temperaturschwankungen.",
+            "response": "Messen Sie sofort die Ammoniakwerte und führen Sie einen 20–30%igen Teilwasserwechsel mit temperiertem, entchlortem Wasser durch."
+          },
+          {
+            "name": "Schnelles Nach-Luft-Schnappen an der Oberfläche (Surface Gasping)",
+            "meaning": "Anzeichen von Sauerstoffmangel im Wasser, Filterausfall oder geschädigter Kiemenfunktion durch Ammoniak.",
+            "response": "Schalten Sie einen Durchlüfter ein, überprüfen Sie den Filterdurchfluss und kontrollieren Sie die Wassertemperatur (24°C–26°C)."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Temperaturkontrolle (24°C–26°C) & Sparsame Fütterung",
+            "text": "Prüfen Sie das Thermometer und füttern Sie spezielles Guppyfutter in kleinen Mengen, die innerhalb von 2–3 Minuten gefressen werden."
+          },
+          {
+            "name": "Mittag: Mulm Absaugen vom Bodengrund & Beckenbeobachtung",
+            "text": "Saugen Sie Futterreste und Kot mit einem Mulmsauger ab, um die Belastung des Filters mit Ammoniak zu reduzieren."
+          },
+          {
+            "name": "Abend: Flosseninspektion (Flossenfäule/Pilz) & Teilwasserwechsel",
+            "text": "Achten Sie auf weiße Ränder oder eingerissene Flossen und führen Sie bei Bedarf einen 10–20%igen Teilwasserwechsel mit aufbereitetem Wasser durch."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum fransen die Flossen meines Guppys ein, reißen ein oder werden an den Rändern weiß?",
+            "answer": "Das deutet auf Flossenfäule (Fin Rot) hin, verursacht durch schlechte Wasserwerte oder bakterielle Infektionen (Columnaris). Da Wasserbelastung die Hauptursache ist, führen Sie häufige Teilwasserwechsel durch und nutzen Sie milde Salzbäder (0,3–0,5 % Konzentration) oder Bakterienheilmittel."
+          },
+          {
+            "question": "Woran erkenne ich, dass ein Guppy-Weibchen kurz vor dem Werfen steht?",
+            "answer": "Der Bauch verformt sich 'eckig' (L-Form) und der Trächtigkeitsfleck nahe der Afterflosse wird sehr dunkel und tritt hervor. Verharrt sie in Ecken oder schwimmt an den Scheiben auf und ab, sollte sie in einen Laichkasten umgesetzt werden."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Sinais de estresse pela qualidade da água no Guppy e rotina diária de 3 passos para o cuidado das nadadeiras",
+        "description": "Guia de cuidados para o colorido peixe Guppy. Entenda as nadadeiras encolhidas e a arfagem na superfície, mantenha a temperatura ideal (24°C–26°C) e controle a amônia em 3 passos.",
+        "authority": "Associação Internacional do Guppy de Fantasia (IFGA) e Protocolos Veterinários de Aquarismo de Água Doce",
+        "profile": {
+          "breed": "Guppy",
+          "lifespan": "1,5 ~ 3 anos",
+          "sleep_pattern": "7 ~ 8 horas (Resta imóvel entre plantas ou no fundo após apagar a luz)",
+          "temperament": "Dócil, Ativo, Muito prolífico, Social"
+        },
+        "intro": "Reconhecido mundialmente como o peixe ideal para iniciantes e aquaristas experientes, o Guppy (Poecilia reticulata) é um ovovivíparo de água doce muito querido. No entanto, os guppies são sensíveis à filtragem inadequada, picos de amônia e choques de pH, o que causa facilmente a podridão das nadadeiras (Fin Rot) ou nadadeiras encolhidas (Clamped Fins). Além disso, por darem à luz alevinos vivos em vez de botarem ovos, a proteção dos filhotes e o manejo da gestação são essenciais. Neste guia, apresenta uma rotina de 3 passos para interpretar seus sinais e manter a água limpa.",
+        "whyTitle": "Linguagem corporal do Guppy: Nadadeiras encolhidas e arfagem na superfície (Surface Gasping)",
+        "whyDesc": "Os guppies comunicam sua saúde e a qualidade da água através da postura das nadadeiras e posição de nado. **'Nadadeiras encolhidas (Clamped Fins)'**—manter a cauda e nadadeira dorsal coladas ao corpo enquanto permanecem imóveis—sinaliza estresse severo por acúmulo de amônia ou choque térmico. Por outro lado, a **'Arfagem na superfície (Surface Gasping)'** é um aviso urgente de falta de oxigênio dissolvido ou dano branquial por intoxicação de amônia.",
+        "body_signals": [
+          {
+            "name": "Nadadeiras coladas ao corpo e imobilidade nos cantos (Clamped Fins)",
+            "meaning": "Aviso de estresse ambiental causado por picos de amônia/nitrito, choque de pH ou variações de temperatura.",
+            "response": "Meça imediatamente os níveis de amônia e faça uma troca parcial de água de 20-30% com água desclorada na mesma temperatura."
+          },
+          {
+            "name": "Arfagem contínua na superfície da água (Surface Gasping)",
+            "meaning": "Sinal de falta de oxigênio dissolvido, falha no filtro ou comprometimento branquial por toxicidade de amônia.",
+            "response": "Ligue um compressor de ar para aumentar o oxigênio, verifique o fluxo do filtro e controle a temperatura (24°C–26°C)."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Controle de temperatura (24°C–26°C) e alimentação moderada",
+            "text": "Verifique o termômetro e alimente com ração específica para guppy em pequenas quantidades consumíveis em 2-3 minutos."
+          },
+          {
+            "name": "Tarde: Sifonagem de resíduos do substrato e monitoramento do aquário",
+            "text": "Sifone restos de ração e dejetos do fundo para reduzir a carga de amônia no sistema de filtragem."
+          },
+          {
+            "name": "Noite: Inspeção das nadadeiras (podridão/fungos) e troca parcial de água",
+            "text": "Observe se as nadadeiras apresentam bordas brancas ou desfiadas e faça uma troca parcial de água de 10-20% com água condicionada se necessário."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que as nadadeiras do meu guppy estão desfiando, rasgando ou ficando brancas nas pontas?",
+            "answer": "Isso indica podridão das nadadeiras (Fin Rot), causada por má qualidade da água ou infecção bacteriana (Columnaris). Como a causa principal é o acúmulo de sujeira, faça trocas de água frequentes e considere banhos de sal suaves (concentração de 0,3-0,5%) ou antibacterianos."
+          },
+          {
+            "question": "Como saber se uma fêmea de guppy está prestes a dar à luz?",
+            "answer": "O ventre ficará com formato 'quadrado' em L e a mancha de gravidez perto da nadadeira anal ficará muito escura e saliente. Se ela se isolar em cantos ou nadar para cima e para baixo nos vidros, transfira-a para uma maternidade."
+          }
+        ]
+      },
+      "id": {
+        "title": "Sinyal Stres Kualitas Air pada Guppy dan Rutinitas Harian 3 Langkah Perawatan Sirip",
+        "description": "Panduan perawatan ikan Guppy yang berwarna-warni. Pahami sirip menguncup dan napas menggep-menggep di permukaan, jaga suhu air ideal (24°C–26°C), serta kelola amonia dalam 3 langkah.",
+        "authority": "International Fancy Guppy Association (IFGA) & Standar Perawatan Medis Akuarium Air Tawar",
+        "profile": {
+          "breed": "Guppy",
+          "lifespan": "1.5 ~ 3 tahun",
+          "sleep_pattern": "7 ~ 8 jam (Istirahat diam di antara tanaman/dasar setelah lampu dimatikan)",
+          "temperament": "Jinak, Aktif, Sangat prolifik, Sosial"
+        },
+        "intro": "Diakui secara global sebagai ikan favorit bagi pemula maupun penghobi berpengalaman, Guppy (Poecilia reticulata) adalah ikan air tawar livebearer (melahirkan) yang sangat dicintai. Namun, guppy sangat sensitif terhadap filtrasi yang buruk, lonjakan amonia, dan syok pH, yang dapat memicu pembusukan sirip (Fin Rot) atau sirip menguncup (Clamped Fins). Karena melahirkan burayak hidup, perlindungan anak ikan dan perawatan kehamilan sangat penting. Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk memahami sinyal tubuh mereka dan menjaga air tetap bersih.",
+        "whyTitle": "Bahasa Tubuh Guppy: Sirip Menguncup dan Napas di Permukaan (Surface Gasping)",
+        "whyDesc": "Guppy menyampaikan kondisi kesehatan dan kualitas air melalui postur sirip dan posisi berenang. **'Sirip Menguncup (Clamped Fins)'**—menempelkan ekor dan sirip punggung ke tubuh sambil berdiam diri—menandakan stres berat akibat penumpukan amonia atau syok suhu. Sebaliknya, **'Napas di Permukaan (Surface Gasping)'** adalah peringatan darurat akan kurangnya oksigen terlarut atau kerusakan insang akibat keracunan amonia.",
+        "body_signals": [
+          {
+            "name": "Sirip menempel pada tubuh dan berdiam di sudut (Clamped Fins)",
+            "meaning": "Peringatan stres lingkungan akibat lonjakan amonia/nitrit, syok pH, atau perubahan suhu.",
+            "response": "Segera ukur kadar amonia dan lakukan penggantian air sebagian 20–30% dengan air yang sudah diendapkan dan disesuaikan suhunya."
+          },
+          {
+            "name": "Mengambil napas terus-menerus di permukaan air (Surface Gasping)",
+            "meaning": "Sinyal kekurangan oksigen terlarut, filter macet, atau gangguan fungsi insang akibat toksisitas amonia.",
+            "response": "Nyalakan pompa udara (aerator) untuk menambah oksigen, periksa arus filter, dan pastikan suhu air (24°C–26°C)."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pemantauan Suhu Air (24°C–26°C) & Pemberian Pakan Secukupnya",
+            "text": "Periksa termometer dan beri pakan khusus guppy dalam jumlah sedikit yang habis dalam 2–3 menit untuk mencegah pembusukan pakan."
+          },
+          {
+            "name": "Siang: Penyiphonan Kotoran Dasar & Pemantauan Akuarium",
+            "text": "Siphon sisa pakan dan kotoran dari dasar akuarium untuk mengurangi beban amonia pada sistem filtrasi."
+          },
+          {
+            "name": "Malam: Pemeriksaan Kesehatan Sirip (Pembusukan/Jamur) & Penggantian Air Sebagian",
+            "text": "Amati apakah ujung sirip memutih atau robek, dan lakukan penggantian air sebagian 10–20% dengan air yang sudah terkondisikan jika diperlukan."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa sirip guppy saya rontok, robek, atau memutih di bagian ujungnya?",
+            "answer": "Ini menandakan pembusukan sirip (Fin Rot), yang disebabkan oleh kualitas air yang buruk atau infeksi bakteri (Columnaris). Karena penyebab utamanya adalah penumpukan kotoran, lakukan penggantian air secara berkala dan pertimbangkan mandi garam ringan (konsentrasi 0,3–0,5%) atau pengobatan antibakteri."
+          },
+          {
+            "question": "Bagaimana cara mengetahui jika guppy betina akan segera melahirkan?",
+            "answer": "Perutnya akan berbentuk agak 'kotak' (berbentuk L) dan bercak kehamilan (gravid spot) dekat sirip anal akan sangat gelap dan menonjol. Jika ia bersembunyi di sudut atau berenang naik-turun di kaca, segera pindahkan ke tempat pemijahan (breeding box) untuk melindungi burayak."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/guppy_care.webp"
+  }
 }

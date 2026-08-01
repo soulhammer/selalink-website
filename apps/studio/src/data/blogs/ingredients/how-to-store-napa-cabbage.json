@@ -1,406 +1,406 @@
 {
-    "how-to-store-napa-cabbage": {
-        "ingId": "napa-cabbage",
-        "pubDate": "2026-07-02",
-        "updatedDate": "2026-07-02",
-        "heroImage": "/images/blog/napa_cabbage_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "배추 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 배추의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
-                "intro": "김장의 핵심 재료이자 시원하고 달콤한 맛이 일품인 배추, 한 포기 사 왔는데 수분이 날아가 잎이 시들거나 줄기가 무러 버려본 경험 있으시죠? 🥬\n\n배추는 수분 함량이 95%에 달해 온도와 습도 조절이 신선도를 결정짓는 핵심 요소입니다. 특히 절단면이나 줄기 부분에 수분이 차면 세균과 곰팡이가 번식하기 쉽고, 눕혀 보관하면 자체 무게에 눌려 무르기 쉽습니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들의 검증된 가이드라인을 바탕으로, 배추를 끝까지 아삭하고 신선하게 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "보관하기 전에 물로 씻거나 심지를 적시지 마세요 💧",
-                        "desc": "배추를 보관 전에 세척하면 잎 사이에 물기가 갇혀 곰팡이와 세균이 쉽게 번식합니다. 겉면의 흙이나 이물질만 가볍게 털어내고, 씻는 것은 조리 직전에 하세요."
-                    },
-                    {
-                        "title": "잘린 배추는 심지 부분을 먼저 제거해 주세요 🔪",
-                        "desc": "반으로 자른 배추를 보관할 때는 밑동(심지)을 칼로 오려내야 배추가 계속 성장하면서 수분과 영양분을 소모하는 것을 막고 무름 현상을 방지할 수 있습니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "겉잎 정리 후 신문지나 키친타월로 감싸기 — 수분 조절 & 찌그러짐 방지 📰",
-                        "text": "지저분하거나 무른 겉잎은 떼어내고, 마른 신문지나 키친타월로 배추를 전체적으로 감싸 수분 증발과 습기 차는 것을 동시에 막아줍니다. 💡 보관 팁: 떼어낸 겉잎은 버리지 않고 배추를 감싸는 천연 보호막으로 활용하면 배추속 수분을 훨씬 오래 지킬 수 있습니다."
-                    },
-                    {
-                        "name": "밑동(뿌리)이 아래로 가도록 세워서 0~4℃ 저온 보관하기 — 저온 냉장 보관 (2~4주) ❄️",
-                        "text": "배추는 자라던 환경 그대로 밑동이 아래를 향하게 세워 보관해야 자체 무게에 눌리지 않고 신선함이 장기간 유지됩니다. 💡 보관 팁: 신문지로 감싼 배추를 밑동이 아래로 가도록 냉장고 야채칸이나 김치냉장고(0~4℃)에 세워서 보관하세요."
-                    },
-                    {
-                        "name": "데쳐서 물기를 꼭 짠 후 소분하여 냉동 보관하기 — 장기 보관 (2~3개월) 🧊",
-                        "text": "오랫동안 보관해야 한다면 데쳐서 냉동 보관하는 것이 좋습니다. 💡 보관 팁: 배추를 끓는 물에 살짝 데친(블랜칭) 뒤 찬물에 식혀 물기를 꼭 짜고, 1회 요리 분량씩 밀폐 지퍼백에 담아 냉동실(-18℃ 이하)에 보관하세요. 국이나 찌개용으로 활용하기 좋습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "배추 줄기에 검은 점이 생겼는데 먹어도 되나요?",
-                        "answer": "배추 줄기에 나타나는 검은 점은 '깨씨무늬(Gomasho)' 현상으로, 질소 자양분의 과다 또는 부족 등으로 발생하는 생리 장애입니다. 세균이나 곰팡이가 아니며 인체에 무해하므로 안심하고 드셔도 됩니다."
-                    },
-                    {
-                        "question": "사용하고 남은 조각 배추는 어떻게 보관해야 하나요?",
-                        "answer": "자르고 남은 배추는 자른 단면에서 수분이 급격히 빠져나가므로, 심지 부분을 칼로 오려낸 뒤 단면에 마른 키친타월을 대고 식품용 랩으로 빈틈없이 감싸 냉장 보관해야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Napa Cabbage Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for Napa cabbage based on official safety guidelines.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Have you ever bought a head of crisp, sweet Napa cabbage, only to find the leaves wilted, soggy, or rotting from the inside a few days later? 🥬\n\nNapa cabbage consists of nearly 95% water, making temperature and humidity control the most critical factors in maintaining its freshness. Moisture trapped between leaves or storing it flat leads to crushing and rapid bacterial spoilage.\n\nIn this guide, introduces a scientifically proven 3-step Napa cabbage storage guide recommended by agriculture and food safety experts to maximize crispness and flavor. 🛡️",
-                "whyTitle": "Why Store Napa Cabbage This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never wash Napa cabbage before storing 💧",
-                        "desc": "Washing Napa cabbage prior to storage traps water between the densely packed leaves, creating an ideal environment for mold and bacteria to thrive. Wipe off dirt with a dry towel and wash immediately before cooking."
-                    },
-                    {
-                        "title": "Remove the core when storing cut cabbage 🔪",
-                        "desc": "When storing halved or quartered Napa cabbage, cut out the dense bottom core. This stops the plant from continuing to grow and consume its internal moisture and nutrients, preventing premature rot."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Trim outer leaves and wrap in paper towels or newspaper — Moisture Control 📰",
-                        "text": "Remove wilted outer leaves and wrap the head dry in newspaper or paper towels to prevent moisture loss while absorbing excess humidity. 💡 Storage Tip: Wrapping the head with its firm outer leaves serves as a natural barrier to retain inner sweetness and water."
-                    },
-                    {
-                        "name": "Store upright with the stem down at 0–4°C — Cold Storage (2–4 Weeks) ❄️",
-                        "text": "Napa cabbage stays fresh much longer when stored upright in its natural growing orientation. 💡 Storage Tip: Place the paper-wrapped cabbage stem-side down in your refrigerator crisper drawer or kimchi fridge (0–4°C)."
-                    },
-                    {
-                        "name": "Blanch, squeeze dry, and freeze — Long-Term Storage (2–3 Months) 🧊",
-                        "text": "For extended preservation beyond a month, blanching and freezing is ideal. 💡 Storage Tip: Blanch cabbage leaves in boiling water for 1–2 minutes, shock in ice water, squeeze out excess water, and freeze in Ziploc bags below -18°C for soups and stews."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "There are small black spots on the cabbage white ribs. Is it safe to eat?",
-                        "answer": "Yes! These small black spots are called 'pepper spots' (Gomasho), caused by a harmless physiological response to nutrient shifts during growth. They are not mold or bacteria and are completely safe to consume."
-                    },
-                    {
-                        "question": "How should I store leftover cut Napa cabbage?",
-                        "answer": "Cut cabbage loses moisture rapidly from its exposed surfaces. Cut out the stem core, place a dry paper towel over the cut face, and wrap tightly with food-grade plastic wrap before refrigerating."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "白菜（ナッパキャベツ）を新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づく白菜の最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "お鍋やキムチ作りに欠かせない甘くて瑞々しい白菜、丸ごと1株買ってきたものの、水分が抜けて葉がしなびたり軸が腐って捨ててしまった経験はありませんか？🥬\n\n白菜は成分の約95%が水分で占められており、温度と湿度のコントロールが鮮度を大きく左右する繊細な野菜です。特に葉の間に水分が溜まったり横にして保存すると、重みで潰れて急速に腐敗が進みます。\n\n本記事では、専門家が推奨する白菜のシャキシャキ感と甘みを長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "保存する前に絶対に水で洗わないでください 💧",
-                        "desc": "白菜を洗ってから保存すると、重なり合った葉の間に水気が溜まり、カビや雑菌が繁殖する絶好の環境になります。汚れは乾いた布で軽く拭き取り、洗うのは調理の直前にしてください。"
-                    },
-                    {
-                        "title": "カットした白菜は芯の部分をくり抜いてください 🔪",
-                        "desc": "半分や1/4にカットした白菜を保存する際は、包丁で芯（成長点）を取り除いてください。白菜が水分や栄養分を消費して成長するのを防ぎ、腐敗を防止できます。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "外葉を整理し新聞紙やキッチンペーパーで包む — 水分調節＆乾燥防止 📰",
-                        "text": "傷んだ外葉を取り除き、乾いた新聞紙やキッチンペーパーで白菜全体を包んで水分の蒸発と蒸れを防ぎます。💡保存のコツ：外葉（緑色の固い葉）は捨てずに白菜を包む天然の保護膜として使うと、内部の水分をより長く保てます。"
-                    },
-                    {
-                        "name": "芯（軸）を下にして立てて0〜4℃で保存する — 冷蔵保存 (2〜4週間) ❄️",
-                        "text": "白菜は育った環境と同じように芯を下にして立てて保存することで、自重による潰れを防ぎ鮮度が長持ちします。💡保存のコツ：新聞紙で包んだ白菜を芯を下にして冷蔵庫の野菜室（0〜4℃）に立てて保存します。"
-                    },
-                    {
-                        "name": "サッと茹でて水気を絞り冷凍保存する — 長期保存 (2〜3ヶ月間) 🧊",
-                        "text": "長期間保存したい場合は茹でて冷凍するのが最適です。💡保存のコツ：沸騰したお湯でサッと茹で（ブリーチング）、冷水にとって水気をしっかり絞ってから、1回分ずつジッパーバッグに入れて冷凍室（-18℃以下）で保存します。お味噌汁や鍋物に便利です。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "白菜の白い軸に黒い点々がありますが、食べられますか？",
-                        "answer": "軸にある黒い点々は「ゴマ症」と呼ばれる生理障害によるもので、栽培時の栄養バランスなどが原因で発生します。カビや病気ではなく、体に害はありませんので安心してお召し上がりください。"
-                    },
-                    {
-                        "question": "使いかけのカット白菜はどのように保存すれば良いですか？",
-                        "answer": "カット白菜は切り口から水分が急速に抜けるため、芯の部分を包丁でくり抜き、切り口に乾いたキッチンペーパーを当ててから食品用ラップで隙間なく包んで冷蔵保存してください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持大白菜新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解大白菜的最佳储存温度、方式和保质时长。",
-                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "买回整颗甘甜爽脆的大白菜，却发现还没吃完叶子就发黄萎蔫甚至内部烂掉？🥬\n\n大白菜含水量高达95%，温度与湿度的控制是决定其新鲜度的关键因素。若叶片间积水或横放储存，极易因受压和受潮导致细菌快速滋生腐烂。\n\n本指南基于权威专家指南，为您带来3步科学保存秘诀，帮您长久锁定大白菜的爽脆与鲜甜。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "储存前切勿用水清洗 💧",
-                        "desc": "带水储存会导致水汽积聚在大白菜密集的叶片缝隙中，为霉菌和细菌滋生提供温床。泥土用干布擦拭即可，清洗请留至烹饪前进行。"
-                    },
-                    {
-                        "title": "切开的大白菜请先挖除菜心（根部） 🔪",
-                        "desc": "保存切开的大白菜时，用刀将底部的菜心挖掉，可防止白菜继续生长消耗自身水分与营养，从而有效防止变质烂心。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "清理外叶并用报纸或厨房纸巾包裹 — 湿度调节与防干 📰",
-                        "text": "剥离枯黄受损的外叶，用干燥的报纸或厨房纸巾包裹整颗白菜，防止水分蒸发并吸收多余湿气。💡储存小贴士：外层坚韧的绿色大叶可充当天然保护膜，保留内部水分与甜度。"
-                    },
-                    {
-                        "name": "根部朝下竖立置于0~4℃冷藏 — 冷藏储存 (2~4周) ❄️",
-                        "text": "顺应大白菜自然生长的生长方向竖立储存，可避免自重压伤，延长保鲜期。💡储存小贴士：将裹好报纸的大白菜根部朝下，竖立放入冰箱0~4℃保鲜抽屉。"
-                    },
-                    {
-                        "name": "焯水挤干后分装冷冻 — 长期保存 (2~3个月) 🧊",
-                        "text": "若需保存1个月以上，建议焯水后冷冻。💡储存小贴士：将白菜叶放入沸水中焯水1~2分钟，捞出过冰水并彻底挤干水分，装入拉链袋存入-18℃以下冷冻室，适用于煮汤或炖菜。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "大白菜帮上有许多小黑点，还可以食用吗？",
-                        "answer": "完全可以！大白菜帮上的小黑点被称为“芝麻病”（Gomasho），是白菜在生长过程中因氮肥吸收等原因引起的生理现象，非病菌或霉菌，对人体无害。"
-                    },
-                    {
-                        "question": "吃剩下的切开白菜应该如何保存？",
-                        "answer": "切开的白菜切面极易失水。请先用刀将根部的菜心切除，在切面上贴上一块干燥厨房纸巾，再用保鲜膜紧密包裹后冷藏保存。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener la col china (col napa) fresca: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la col china según las directrices oficiales de seguridad.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "¿Alguna vez compró una col china (napa) crujiente y dulce, solo para descubrir que las hojas se marchitaban o se pudrían por dentro a los pocos días? 🥬\n\nLa col china contiene casi un 95% de agua, por lo que el control de la temperatura y la humedad es fundamental para mantener su frescura. El agua atrapada entre sus hojas apretadas o el almacenamiento horizontal favorecen el aplastamiento y el deterioro bacteriano.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por expertos para maximizar la frescura de su col china. 🛡️",
-                "whyTitle": "¿Por qué almacenarla así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Nunca lave la col china antes de guardarla 💧",
-                        "desc": "Lavar la col antes de almacenarla atrapa humedad entre sus densas hojas, creando un ambiente propicio para bacterias y mohos. Limpie el polvo con un paño seco y lávela justo antes de cocinar."
-                    },
-                    {
-                        "title": "Retire el centro o tallo al cortar la col 🔪",
-                        "desc": "Al conservar mitades o trozos de col china, retire con un cuchillo el tallo central inferior. Esto evita que la planta siga consumiendo sus nutrientes y agua interna, previniendo la pudrición."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Retire las hojas marchitas y envuelva en papel — Control de humedad 📰",
-                        "text": "Elimine las hojas exteriores dañadas y envuelva la col seca en papel periódico o absorbente. 💡 Consejo de almacenamiento: Conservar las hojas exteriores firmes sirve como barrera natural para retener la dulzura e hidratación interior."
-                    },
-                    {
-                        "name": "Almacene en posición vertical con el tallo hacia abajo a 0–4 °C — Refrigeración (2 a 4 semanas) ❄️",
-                        "text": "La col china se conserva fresca mucho más tiempo si se almacena verticalmente en su posición natural de crecimiento. 💡 Consejo de almacenamiento: Coloque la col envuelta con el tallo hacia abajo en el cajón de verduras a 0–4 °C."
-                    },
-                    {
-                        "name": "Blanquee, escurra y congele — Almacenamiento a largo plazo (2 a 3 meses) 🧊",
-                        "text": "Para una conservación prolongada, el blanqueado y congelado es la mejor opción. 💡 Consejo de almacenamiento: Hierva las hojas de 1 a 2 minutos, enfríe en agua helada, escurra bien y congele en bolsas Ziploc a menos de -18 °C."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Hay pequeñas manchas negras en la parte blanca de la col. ¿Es seguro comerla?",
-                        "answer": "¡Sí! Esas diminutas manchas negras son una respuesta fisiológica inofensiva llamada 'manchas de pimienta' (Gomasho), causada por fluctuaciones de nutrientes durante el cultivo. No es moho ni bacterias."
-                    },
-                    {
-                        "question": "¿Cómo debo guardar un trozo de col china sobrante?",
-                        "answer": "La col cortada pierde humedad rápidamente. Retire el tallo del centro, coloque una toalla de papel seca sobre la superficie cortada y envuelva firmemente con film plástico antes de refrigerar."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver le chou chinois (chou napa) frais : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le chou chinois selon les directives officielles de sécurité.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Avez-vous déjà acheté un chou chinois bien croquant et doux, pour constater quelques jours plus tard que ses feuilles flétrissaient ou pourrissaient de l'intérieur ? 🥬\n\nLe chou chinois est composé à près de 95 % d'eau, ce qui fait du contrôle de la température et de l'humidité le facteur clé de sa fraîcheur. L'eau emprisonnée entre ses feuilles serrées ou un stockage à plat favorise l'écrasement et la détérioration bactérienne.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts pour préserver le croquant et les saveurs de votre chou chinois. 🛡️",
-                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne lavez jamais le chou chinois avant de le stocker 💧",
-                        "desc": "Laver le chou avant le stockage emprisonne l'humidité entre ses feuilles denses, créant un milieu idéal pour le développement des bactéries. Essuyez la terre avec un chiffon sec et ne lavez qu'au moment de cuisiner."
-                    },
-                    {
-                        "title": "Retirez le cœur du trognon lorsque le chou est coupé 🔪",
-                        "desc": "Pour conserver un demi-chou chinois, coupez le trognon central à la base. Cela empêche le légume de continuer à pousser en épuisant son eau et ses nutriments, ce qui évite le pourrissement prématuré."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Retirer les feuilles abîmées et envelopper dans du papier — Contrôle de l'humidité 📰",
-                        "text": "Enlevez les feuilles extérieures flétries et enveloppez le chou sec dans du papier journal ou du papier absorbant. 💡 Astuce de conservation : Conserver les grandes feuilles extérieures fermes forme un bouclier naturel préservant l'humidité interne."
-                    },
-                    {
-                        "name": "Conserver à la verticale, trognon vers le bas, entre 0 et 4 °C — Stockage frais (2 à 4 semaines) ❄️",
-                        "text": "Le chou chinois se conserve beaucoup plus longtemps s'il est stocké debout, dans son sens naturel de pousse. 💡 Astuce de conservation : Placez le chou emballé, trognon vers le bas, dans le bac à légumes de votre réfrigérateur (0–4 °C)."
-                    },
-                    {
-                        "name": "Blanchir, presser et congeler — Stockage longue durée (2 à 3 mois) 🧊",
-                        "text": "Pour une conservation de plus d'un mois, le blanchiment suivi de la congélation est idéal. 💡 Astuce de conservation : Plongez les feuilles 1 à 2 minutes dans l'eau bouillante, refroidissez dans de l'eau glacée, essorez bien et congelez en sachet Ziploc à -18 °C."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "De petites taches noires sont visibles sur la partie blanche du chou. Est-il consommable ?",
-                        "answer": "Oui ! Ces petites taches noires sont dues à une réaction physiologique inoffensive appelée « maladie des points noirs » (Gomasho). Il ne s'agit ni de moisissure ni de bactéries, le chou est parfaitement propre à la consommation."
-                    },
-                    {
-                        "question": "Comment conserver la partie restante d'un chou chinois entamé ?",
-                        "answer": "Le chou coupé perd rapidement son eau. Évidez le trognon à la base, appliquez du papier absorbant sec sur la tranche coupée et enveloppez hermétiquement dans du film étirable avant de réfrigérer."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Chinakohl richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Chinakohl basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Haben Sie schon einmal einen knackigen, süßlichen Chinakohl gekauft, nur um festzustellen, dass die Blätter nach wenigen Tagen welk wurden oder von innen heraus faulten? 🥬\n\nChinakohl besteht zu fast 95 % aus Wasser. Die Regulierung von Temperatur und Feuchtigkeit ist daher entscheidend für seine Frische. Eingeschlossenes Wasser zwischen den engen Blättern oder flaches Lagern führen zu Druckstellen und schnellem Verderb.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Knackigkeit und den frischen Geschmack Ihres Chinakohls zu bewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Chinakohl vor der Lagerung niemals waschen 💧",
-                        "desc": "Das Waschen vor der Lagerung schließt Feuchtigkeit zwischen den dichten Blättern ein und schafft ein ideales Umfeld für Bakterien. Wischen Sie Schmutz mit einem trockenen Tuch ab und waschen Sie den Kohl erst direkt vor der Zubereitung."
-                    },
-                    {
-                        "title": "Bei angeschnittenem Kohl den Strunk entfernen 🔪",
-                        "desc": "Wenn Sie halbierten Chinakohl lagern, schneiden Sie den inneren Strunk am Boden heraus. Dies verhindert, dass der Kohl weiterwächst und seine eigenen Nährstoffe und Feuchtigkeit verbraucht, was Fäulnis stoppt."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Äußere Blätter entfernen und in Papier einwickeln — Feuchtigkeitsregulierung 📰",
-                        "text": "Welke Blätter entfernen und den trockenen Kohl komplett in Zeitungspapier oder Küchenpapier einwickeln. 💡 Lagerungstipp: Die festen äußeren Blätter dienen als natürlicher Schutzschild, um die innere Feuchtigkeit zu bewahren."
-                    },
-                    {
-                        "name": "Aufrecht mit dem Strunk nach unten bei 0–4 °C lagern — Kühllagerung (2–4 Wochen) ❄️",
-                        "text": "Chinakohl bleibt am längsten frisch, wenn er aufrecht in seiner natürlichen Wuchsrichtung gelagert wird. 💡 Lagerungstipp: Stellen Sie den eingewickelten Kohl mit dem Strunk nach unten ins Gemüsefach des Kühlschranks (0–4 °C)."
-                    },
-                    {
-                        "name": "Blanchieren, ausdrücken und einfrieren — Gefrierlagerung (2–3 Monate) 🧊",
-                        "text": "Für eine Lagerung von über einem Monat ist Blanchieren und Einfrieren ideal. 💡 Lagerungstipp: Blätter 1–2 Minuten in kochendem Wasser blanchieren, in Eiswasser abschrecken, gut ausdrücken und im Ziploc-Beutel bei unter -18 °C einfrieren."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Auf den weißen Rippen des Kohls sind kleine schwarze Punkte. Kann man ihn noch essen?",
-                        "answer": "Ja! Diese kleinen schwarzen Punkte nennt man 'Schwarzfleckigkeit' (Gomasho). Es handelt sich um eine völlig harmlose physiologische Reaktion der Pflanze auf Nährstoffschwankungen. Es ist kein Schimmel und völlig unbedenklich."
-                    },
-                    {
-                        "question": "Wie bewahrt man einen angebrochenen Chinakohl am besten auf?",
-                        "answer": "Angeschnittener Kohl verliert an den Schnittflächen schnell Feuchtigkeit. Schneiden Sie den Strunk heraus, legen Sie ein trockenes Küchenpapier auf die Schnittfläche und wickeln Sie den Kohl fest in Frischhaltefolie ein."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar acelga (couve-chinesa) fresca: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para a acelga com base em diretrizes oficiais de segurança.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Você já comprou uma acelga (couve-chinesa) crocante e adocicada e percebeu que em poucos dias as folhas murchavam ou apodreciam por dentro? 🥬\n\nA acelga é composta por quase 95% de água, tornando o controle de temperatura e umidade o fator mais crítico para manter seu frescor. A água presa entre suas folhas compactas ou o armazenamento deitado facilitam o esmagamento e a deterioração por bactérias.\n\nNeste guia, apresentamos um guia em 3 etapas baseado em diretrizes de especialistas para manter sua acelga crocante e fresca por mais tempo. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca lave a acelga antes de guardar 💧",
-                        "desc": "Lavar a acelga antes do armazenamento retém umidade entre suas folhas densas, criando um ambiente ideal para bactérias e fungos. Limpe a sujeira apenas com um pano seco e lave imediatamente antes de cozinhar."
-                    },
-                    {
-                        "title": "Remova o miolo do talo ao cortar a acelga 🔪",
-                        "desc": "Ao conservar metades de acelga, corte a base do talo central com uma faca. Isso impede que a planta continue crescendo e consumindo sua própria água e nutrientes, evitando a deterioração rápida."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Retire folhas murchas e envolva em papel — Controle de umidade 📰",
-                        "text": "Remova as folhas externas danificadas e envolva a acelga seca em jornal ou papel-toalha. 💡 Dica de conservação: Manter as folhas externas mais firmes funciona como um escudo natural para reter a umidade interna."
-                    },
-                    {
-                        "name": "Guarde na vertical com a raiz para baixo de 0 a 4 °C — Refrigeração (2 a 4 semanas) ❄️",
-                        "text": "A acelga dura muito mais tempo se for armazenada em pé, na sua posição natural de cultivo. 💡 Dica de conservação: Coloque a acelga embalada com a base para baixo na gaveta de legumes da geladeira (0 a 4 °C)."
-                    },
-                    {
-                        "name": "Afervente, esprema e congele — Longo prazo (2 a 3 meses) 🧊",
-                        "text": "Para conservar por mais de um mês, o ideal é aferventar (blanching) e congelar. 💡 Dica de conservação: Ferva as folhas por 1 a 2 minutos, resfrie em água gelada, esprema bem e congele em sacos Ziploc a -18 °C."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Há pontinhos pretos na parte branca da acelga. É seguro comer?",
-                        "answer": "Sim! Esses pequenos pontos pretos são uma reação fisiológica inofensiva chamada 'Gomasho' (mancha de pimenta), causada por variações de nutrientes no cultivo. Não é mofo e pode ser consumida com segurança."
-                    },
-                    {
-                        "question": "Como devo guardar um pedaço de acelga que sobrou?",
-                        "answer": "A acelga cortada perde umidade rapidamente. Retire a base do talo central, coloque um papel-toalha seco sobre o corte e envolva firmemente com filme plástico antes de refrigerar."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Sawi Putih (Napa Cabbage) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk sawi putih berdasarkan pedoman keselamatan resmi.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Pernahkah Anda membeli sawi putih yang segar dan manis, lalu mendapati daunnya layu, lembek, atau membusuk dari bagian dalam beberapa hari kemudian? 🥬\n\nSawi putih terdiri dari hampir 95% air, membuat kontrol suhu dan kelembapan menjadi faktor paling krusial dalam menjaga kesegarannya. Air yang terperangkap di antara daun yang rapat atau penyimpanan secara horisontal akan menyebabkan kerusakan dan pembusukan bakteri yang cepat.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomensionalkan oleh ahli untuk menjaga kerenyahan sawi putih Anda. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan sekali-kali mencuci sawi putih sebelum disimpan 💧",
-                        "desc": "Mencuci sawi putih sebelum disimpan akan mengunci air di antara daunnya yang rapat, menciptakan lingkungan ideal bagi bakteri dan jamur untuk berkembang. Lap kotoran dengan kain kering dan cucilah tepat sebelum dimasak."
-                    },
-                    {
-                        "title": "Buang bagian bonggol saat menyimpan sawi putih yang terpotong 🔪",
-                        "desc": "Saat menyimpan sawi putih yang sudah terpotong, potong bagian bonggol bawahnya. Ini mencegah tanaman terus tumbuh dan menguras kadar air serta nutrisinya, sehingga mencegah pembusukan dini."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Buang daun yang layu lalu bungkus dengan kertas — Kontrol Kelembapan 📰",
-                        "text": "Buang daun bagian luar yang rusak lalu bungkus sawi putih yang kering dengan kertas koran atau tisu dapur. 💡 Tips Penyimpanan: Membiarkan daun luar yang kokoh berfungsi sebagai pelindung alami untuk menjaga kelembapan bagian dalam."
-                    },
-                    {
-                        "name": "Simpan berdiri dengan bonggol di bawah pada suhu 0–4°C — Penyimpanan Dingin (2–4 Minggu) ❄️",
-                        "text": "Sawi putih bertahan segar lebih lama jika disimpan dalam posisi berdiri sesuai arah tumbuh Alaminya. 💡 Tips Penyimpanan: Letakkan sawi putih yang terbungkus dengan posisi bonggol di bawah di laci kulkas (0–4°C)."
-                    },
-                    {
-                        "name": "Rebus sebentar, peras, lalu bekukan — Simpan Jangka Panjang (2–3 Bulan) 🧊",
-                        "text": "Untuk penyimpanan lebih dari sebulan, merebus sebentar (blanching) lalu membekukannya adalah cara terbaik. 💡 Tips Penyimpanan: Rebus daun selama 1–2 menit, bilas air es, peras airnya, lalu bekukan dalam kantong Ziploc di bawah suhu -18°C."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Ada bintik-bintik hitam kecil pada bagian batang putih sawi. Apakah aman dimakan?",
-                        "answer": "Ya! Bintik hitam kecil tersebut dikenal sebagai 'Gomasho' (pepper spots), reaksi fisiologis tidak berbahaya akibat perubahan nutrisi saat masa tanam. Ini bukan jamur atau bakteri dan sangat aman dikonsumsi."
-                    },
-                    {
-                        "question": "Bagaimana cara menyimpan sisa sawi putih yang sudah terpotong?",
-                        "answer": "Sawi putih yang terpotong akan kehilangan kelembapan dengan cepat dari permukaan irisannya. Potong bonggol tengahnya, tempelkan tisu dapur kering pada permukaan irisan, lalu bungkus rapat dengan plastik wrap sebelum disimpan di kulkas."
-                    }
-                ]
-            }
-        }
+  "how-to-store-napa-cabbage": {
+    "ingId": "napa-cabbage",
+    "pubDate": "2026-07-02",
+    "updatedDate": "2026-07-02",
+    "heroImage": "/images/blog/napa_cabbage_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "배추 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 배추의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+        "intro": "김장의 핵심 재료이자 시원하고 달콤한 맛이 일품인 배추, 한 포기 사 왔는데 수분이 날아가 잎이 시들거나 줄기가 무러 버려본 경험 있으시죠? 🥬\n\n배추는 수분 함량이 95%에 달해 온도와 습도 조절이 신선도를 결정짓는 핵심 요소입니다. 특히 절단면이나 줄기 부분에 수분이 차면 세균과 곰팡이가 번식하기 쉽고, 눕혀 보관하면 자체 무게에 눌려 무르기 쉽습니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들의 검증된 가이드라인을 바탕으로, 배추를 끝까지 아삭하고 신선하게 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "보관하기 전에 물로 씻거나 심지를 적시지 마세요 💧",
+            "desc": "배추를 보관 전에 세척하면 잎 사이에 물기가 갇혀 곰팡이와 세균이 쉽게 번식합니다. 겉면의 흙이나 이물질만 가볍게 털어내고, 씻는 것은 조리 직전에 하세요."
+          },
+          {
+            "title": "잘린 배추는 심지 부분을 먼저 제거해 주세요 🔪",
+            "desc": "반으로 자른 배추를 보관할 때는 밑동(심지)을 칼로 오려내야 배추가 계속 성장하면서 수분과 영양분을 소모하는 것을 막고 무름 현상을 방지할 수 있습니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "겉잎 정리 후 신문지나 키친타월로 감싸기 — 수분 조절 & 찌그러짐 방지 📰",
+            "text": "지저분하거나 무른 겉잎은 떼어내고, 마른 신문지나 키친타월로 배추를 전체적으로 감싸 수분 증발과 습기 차는 것을 동시에 막아줍니다. 💡 보관 팁: 떼어낸 겉잎은 버리지 않고 배추를 감싸는 천연 보호막으로 활용하면 배추속 수분을 훨씬 오래 지킬 수 있습니다."
+          },
+          {
+            "name": "밑동(뿌리)이 아래로 가도록 세워서 0~4℃ 저온 보관하기 — 저온 냉장 보관 (2~4주) ❄️",
+            "text": "배추는 자라던 환경 그대로 밑동이 아래를 향하게 세워 보관해야 자체 무게에 눌리지 않고 신선함이 장기간 유지됩니다. 💡 보관 팁: 신문지로 감싼 배추를 밑동이 아래로 가도록 냉장고 야채칸이나 김치냉장고(0~4℃)에 세워서 보관하세요."
+          },
+          {
+            "name": "데쳐서 물기를 꼭 짠 후 소분하여 냉동 보관하기 — 장기 보관 (2~3개월) 🧊",
+            "text": "오랫동안 보관해야 한다면 데쳐서 냉동 보관하는 것이 좋습니다. 💡 보관 팁: 배추를 끓는 물에 살짝 데친(블랜칭) 뒤 찬물에 식혀 물기를 꼭 짜고, 1회 요리 분량씩 밀폐 지퍼백에 담아 냉동실(-18℃ 이하)에 보관하세요. 국이나 찌개용으로 활용하기 좋습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "배추 줄기에 검은 점이 생겼는데 먹어도 되나요?",
+            "answer": "배추 줄기에 나타나는 검은 점은 '깨씨무늬(Gomasho)' 현상으로, 질소 자양분의 과다 또는 부족 등으로 발생하는 생리 장애입니다. 세균이나 곰팡이가 아니며 인체에 무해하므로 안심하고 드셔도 됩니다."
+          },
+          {
+            "question": "사용하고 남은 조각 배추는 어떻게 보관해야 하나요?",
+            "answer": "자르고 남은 배추는 자른 단면에서 수분이 급격히 빠져나가므로, 심지 부분을 칼로 오려낸 뒤 단면에 마른 키친타월을 대고 식품용 랩으로 빈틈없이 감싸 냉장 보관해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Napa Cabbage Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for Napa cabbage based on official safety guidelines.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Have you ever bought a head of crisp, sweet Napa cabbage, only to find the leaves wilted, soggy, or rotting from the inside a few days later? 🥬\n\nNapa cabbage consists of nearly 95% water, making temperature and humidity control the most critical factors in maintaining its freshness. Moisture trapped between leaves or storing it flat leads to crushing and rapid bacterial spoilage.\n\nIn this guide, introduces a scientifically proven 3-step Napa cabbage storage guide recommended by agriculture and food safety experts to maximize crispness and flavor. 🛡️",
+        "whyTitle": "Why Store Napa Cabbage This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never wash Napa cabbage before storing 💧",
+            "desc": "Washing Napa cabbage prior to storage traps water between the densely packed leaves, creating an ideal environment for mold and bacteria to thrive. Wipe off dirt with a dry towel and wash immediately before cooking."
+          },
+          {
+            "title": "Remove the core when storing cut cabbage 🔪",
+            "desc": "When storing halved or quartered Napa cabbage, cut out the dense bottom core. This stops the plant from continuing to grow and consume its internal moisture and nutrients, preventing premature rot."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Trim outer leaves and wrap in paper towels or newspaper — Moisture Control 📰",
+            "text": "Remove wilted outer leaves and wrap the head dry in newspaper or paper towels to prevent moisture loss while absorbing excess humidity. 💡 Storage Tip: Wrapping the head with its firm outer leaves serves as a natural barrier to retain inner sweetness and water."
+          },
+          {
+            "name": "Store upright with the stem down at 0–4°C — Cold Storage (2–4 Weeks) ❄️",
+            "text": "Napa cabbage stays fresh much longer when stored upright in its natural growing orientation. 💡 Storage Tip: Place the paper-wrapped cabbage stem-side down in your refrigerator crisper drawer or kimchi fridge (0–4°C)."
+          },
+          {
+            "name": "Blanch, squeeze dry, and freeze — Long-Term Storage (2–3 Months) 🧊",
+            "text": "For extended preservation beyond a month, blanching and freezing is ideal. 💡 Storage Tip: Blanch cabbage leaves in boiling water for 1–2 minutes, shock in ice water, squeeze out excess water, and freeze in Ziploc bags below -18°C for soups and stews."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "There are small black spots on the cabbage white ribs. Is it safe to eat?",
+            "answer": "Yes! These small black spots are called 'pepper spots' (Gomasho), caused by a harmless physiological response to nutrient shifts during growth. They are not mold or bacteria and are completely safe to consume."
+          },
+          {
+            "question": "How should I store leftover cut Napa cabbage?",
+            "answer": "Cut cabbage loses moisture rapidly from its exposed surfaces. Cut out the stem core, place a dry paper towel over the cut face, and wrap tightly with food-grade plastic wrap before refrigerating."
+          }
+        ]
+      },
+      "ja": {
+        "title": "白菜（ナッパキャベツ）を新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づく白菜の最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "お鍋やキムチ作りに欠かせない甘くて瑞々しい白菜、丸ごと1株買ってきたものの、水分が抜けて葉がしなびたり軸が腐って捨ててしまった経験はありませんか？🥬\n\n白菜は成分の約95%が水分で占められており、温度と湿度のコントロールが鮮度を大きく左右する繊細な野菜です。特に葉の間に水分が溜まったり横にして保存すると、重みで潰れて急速に腐敗が進みます。\n\n本記事では、専門家が推奨する白菜のシャキシャキ感と甘みを長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "保存する前に絶対に水で洗わないでください 💧",
+            "desc": "白菜を洗ってから保存すると、重なり合った葉の間に水気が溜まり、カビや雑菌が繁殖する絶好の環境になります。汚れは乾いた布で軽く拭き取り、洗うのは調理の直前にしてください。"
+          },
+          {
+            "title": "カットした白菜は芯の部分をくり抜いてください 🔪",
+            "desc": "半分や1/4にカットした白菜を保存する際は、包丁で芯（成長点）を取り除いてください。白菜が水分や栄養分を消費して成長するのを防ぎ、腐敗を防止できます。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "外葉を整理し新聞紙やキッチンペーパーで包む — 水分調節＆乾燥防止 📰",
+            "text": "傷んだ外葉を取り除き、乾いた新聞紙やキッチンペーパーで白菜全体を包んで水分の蒸発と蒸れを防ぎます。💡保存のコツ：外葉（緑色の固い葉）は捨てずに白菜を包む天然の保護膜として使うと、内部の水分をより長く保てます。"
+          },
+          {
+            "name": "芯（軸）を下にして立てて0〜4℃で保存する — 冷蔵保存 (2〜4週間) ❄️",
+            "text": "白菜は育った環境と同じように芯を下にして立てて保存することで、自重による潰れを防ぎ鮮度が長持ちします。💡保存のコツ：新聞紙で包んだ白菜を芯を下にして冷蔵庫の野菜室（0〜4℃）に立てて保存します。"
+          },
+          {
+            "name": "サッと茹でて水気を絞り冷凍保存する — 長期保存 (2〜3ヶ月間) 🧊",
+            "text": "長期間保存したい場合は茹でて冷凍するのが最適です。💡保存のコツ：沸騰したお湯でサッと茹で（ブリーチング）、冷水にとって水気をしっかり絞ってから、1回分ずつジッパーバッグに入れて冷凍室（-18℃以下）で保存します。お味噌汁や鍋物に便利です。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "白菜の白い軸に黒い点々がありますが、食べられますか？",
+            "answer": "軸にある黒い点々は「ゴマ症」と呼ばれる生理障害によるもので、栽培時の栄養バランスなどが原因で発生します。カビや病気ではなく、体に害はありませんので安心してお召し上がりください。"
+          },
+          {
+            "question": "使いかけのカット白菜はどのように保存すれば良いですか？",
+            "answer": "カット白菜は切り口から水分が急速に抜けるため、芯の部分を包丁でくり抜き、切り口に乾いたキッチンペーパーを当ててから食品用ラップで隙間なく包んで冷蔵保存してください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持大白菜新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解大白菜的最佳储存温度、方式和保质时长。",
+        "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "买回整颗甘甜爽脆的大白菜，却发现还没吃完叶子就发黄萎蔫甚至内部烂掉？🥬\n\n大白菜含水量高达95%，温度与湿度的控制是决定其新鲜度的关键因素。若叶片间积水或横放储存，极易因受压和受潮导致细菌快速滋生腐烂。\n\n本指南基于权威专家指南，为您带来3步科学保存秘诀，帮您长久锁定大白菜的爽脆与鲜甜。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "储存前切勿用水清洗 💧",
+            "desc": "带水储存会导致水汽积聚在大白菜密集的叶片缝隙中，为霉菌和细菌滋生提供温床。泥土用干布擦拭即可，清洗请留至烹饪前进行。"
+          },
+          {
+            "title": "切开的大白菜请先挖除菜心（根部） 🔪",
+            "desc": "保存切开的大白菜时，用刀将底部的菜心挖掉，可防止白菜继续生长消耗自身水分与营养，从而有效防止变质烂心。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "清理外叶并用报纸或厨房纸巾包裹 — 湿度调节与防干 📰",
+            "text": "剥离枯黄受损的外叶，用干燥的报纸或厨房纸巾包裹整颗白菜，防止水分蒸发并吸收多余湿气。💡储存小贴士：外层坚韧的绿色大叶可充当天然保护膜，保留内部水分与甜度。"
+          },
+          {
+            "name": "根部朝下竖立置于0~4℃冷藏 — 冷藏储存 (2~4周) ❄️",
+            "text": "顺应大白菜自然生长的生长方向竖立储存，可避免自重压伤，延长保鲜期。💡储存小贴士：将裹好报纸的大白菜根部朝下，竖立放入冰箱0~4℃保鲜抽屉。"
+          },
+          {
+            "name": "焯水挤干后分装冷冻 — 长期保存 (2~3个月) 🧊",
+            "text": "若需保存1个月以上，建议焯水后冷冻。💡储存小贴士：将白菜叶放入沸水中焯水1~2分钟，捞出过冰水并彻底挤干水分，装入拉链袋存入-18℃以下冷冻室，适用于煮汤或炖菜。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "大白菜帮上有许多小黑点，还可以食用吗？",
+            "answer": "完全可以！大白菜帮上的小黑点被称为“芝麻病”（Gomasho），是白菜在生长过程中因氮肥吸收等原因引起的生理现象，非病菌或霉菌，对人体无害。"
+          },
+          {
+            "question": "吃剩下的切开白菜应该如何保存？",
+            "answer": "切开的白菜切面极易失水。请先用刀将根部的菜心切除，在切面上贴上一块干燥厨房纸巾，再用保鲜膜紧密包裹后冷藏保存。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener la col china (col napa) fresca: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la col china según las directrices oficiales de seguridad.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "¿Alguna vez compró una col china (napa) crujiente y dulce, solo para descubrir que las hojas se marchitaban o se pudrían por dentro a los pocos días? 🥬\n\nLa col china contiene casi un 95% de agua, por lo que el control de la temperatura y la humedad es fundamental para mantener su frescura. El agua atrapada entre sus hojas apretadas o el almacenamiento horizontal favorecen el aplastamiento y el deterioro bacteriano.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por expertos para maximizar la frescura de su col china. 🛡️",
+        "whyTitle": "¿Por qué almacenarla así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Nunca lave la col china antes de guardarla 💧",
+            "desc": "Lavar la col antes de almacenarla atrapa humedad entre sus densas hojas, creando un ambiente propicio para bacterias y mohos. Limpie el polvo con un paño seco y lávela justo antes de cocinar."
+          },
+          {
+            "title": "Retire el centro o tallo al cortar la col 🔪",
+            "desc": "Al conservar mitades o trozos de col china, retire con un cuchillo el tallo central inferior. Esto evita que la planta siga consumiendo sus nutrientes y agua interna, previniendo la pudrición."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Retire las hojas marchitas y envuelva en papel — Control de humedad 📰",
+            "text": "Elimine las hojas exteriores dañadas y envuelva la col seca en papel periódico o absorbente. 💡 Consejo de almacenamiento: Conservar las hojas exteriores firmes sirve como barrera natural para retener la dulzura e hidratación interior."
+          },
+          {
+            "name": "Almacene en posición vertical con el tallo hacia abajo a 0–4 °C — Refrigeración (2 a 4 semanas) ❄️",
+            "text": "La col china se conserva fresca mucho más tiempo si se almacena verticalmente en su posición natural de crecimiento. 💡 Consejo de almacenamiento: Coloque la col envuelta con el tallo hacia abajo en el cajón de verduras a 0–4 °C."
+          },
+          {
+            "name": "Blanquee, escurra y congele — Almacenamiento a largo plazo (2 a 3 meses) 🧊",
+            "text": "Para una conservación prolongada, el blanqueado y congelado es la mejor opción. 💡 Consejo de almacenamiento: Hierva las hojas de 1 a 2 minutos, enfríe en agua helada, escurra bien y congele en bolsas Ziploc a menos de -18 °C."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Hay pequeñas manchas negras en la parte blanca de la col. ¿Es seguro comerla?",
+            "answer": "¡Sí! Esas diminutas manchas negras son una respuesta fisiológica inofensiva llamada 'manchas de pimienta' (Gomasho), causada por fluctuaciones de nutrientes durante el cultivo. No es moho ni bacterias."
+          },
+          {
+            "question": "¿Cómo debo guardar un trozo de col china sobrante?",
+            "answer": "La col cortada pierde humedad rápidamente. Retire el tallo del centro, coloque una toalla de papel seca sobre la superficie cortada y envuelva firmemente con film plástico antes de refrigerar."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver le chou chinois (chou napa) frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le chou chinois selon les directives officielles de sécurité.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Avez-vous déjà acheté un chou chinois bien croquant et doux, pour constater quelques jours plus tard que ses feuilles flétrissaient ou pourrissaient de l'intérieur ? 🥬\n\nLe chou chinois est composé à près de 95 % d'eau, ce qui fait du contrôle de la température et de l'humidité le facteur clé de sa fraîcheur. L'eau emprisonnée entre ses feuilles serrées ou un stockage à plat favorise l'écrasement et la détérioration bactérienne.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts pour préserver le croquant et les saveurs de votre chou chinois. 🛡️",
+        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne lavez jamais le chou chinois avant de le stocker 💧",
+            "desc": "Laver le chou avant le stockage emprisonne l'humidité entre ses feuilles denses, créant un milieu idéal pour le développement des bactéries. Essuyez la terre avec un chiffon sec et ne lavez qu'au moment de cuisiner."
+          },
+          {
+            "title": "Retirez le cœur du trognon lorsque le chou est coupé 🔪",
+            "desc": "Pour conserver un demi-chou chinois, coupez le trognon central à la base. Cela empêche le légume de continuer à pousser en épuisant son eau et ses nutriments, ce qui évite le pourrissement prématuré."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Retirer les feuilles abîmées et envelopper dans du papier — Contrôle de l'humidité 📰",
+            "text": "Enlevez les feuilles extérieures flétries et enveloppez le chou sec dans du papier journal ou du papier absorbant. 💡 Astuce de conservation : Conserver les grandes feuilles extérieures fermes forme un bouclier naturel préservant l'humidité interne."
+          },
+          {
+            "name": "Conserver à la verticale, trognon vers le bas, entre 0 et 4 °C — Stockage frais (2 à 4 semaines) ❄️",
+            "text": "Le chou chinois se conserve beaucoup plus longtemps s'il est stocké debout, dans son sens naturel de pousse. 💡 Astuce de conservation : Placez le chou emballé, trognon vers le bas, dans le bac à légumes de votre réfrigérateur (0–4 °C)."
+          },
+          {
+            "name": "Blanchir, presser et congeler — Stockage longue durée (2 à 3 mois) 🧊",
+            "text": "Pour une conservation de plus d'un mois, le blanchiment suivi de la congélation est idéal. 💡 Astuce de conservation : Plongez les feuilles 1 à 2 minutes dans l'eau bouillante, refroidissez dans de l'eau glacée, essorez bien et congelez en sachet Ziploc à -18 °C."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "De petites taches noires sont visibles sur la partie blanche du chou. Est-il consommable ?",
+            "answer": "Oui ! Ces petites taches noires sont dues à une réaction physiologique inoffensive appelée « maladie des points noirs » (Gomasho). Il ne s'agit ni de moisissure ni de bactéries, le chou est parfaitement propre à la consommation."
+          },
+          {
+            "question": "Comment conserver la partie restante d'un chou chinois entamé ?",
+            "answer": "Le chou coupé perd rapidement son eau. Évidez le trognon à la base, appliquez du papier absorbant sec sur la tranche coupée et enveloppez hermétiquement dans du film étirable avant de réfrigérer."
+          }
+        ]
+      },
+      "de": {
+        "title": "Chinakohl richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Chinakohl basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Haben Sie schon einmal einen knackigen, süßlichen Chinakohl gekauft, nur um festzustellen, dass die Blätter nach wenigen Tagen welk wurden oder von innen heraus faulten? 🥬\n\nChinakohl besteht zu fast 95 % aus Wasser. Die Regulierung von Temperatur und Feuchtigkeit ist daher entscheidend für seine Frische. Eingeschlossenes Wasser zwischen den engen Blättern oder flaches Lagern führen zu Druckstellen und schnellem Verderb.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Knackigkeit und den frischen Geschmack Ihres Chinakohls zu bewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Chinakohl vor der Lagerung niemals waschen 💧",
+            "desc": "Das Waschen vor der Lagerung schließt Feuchtigkeit zwischen den dichten Blättern ein und schafft ein ideales Umfeld für Bakterien. Wischen Sie Schmutz mit einem trockenen Tuch ab und waschen Sie den Kohl erst direkt vor der Zubereitung."
+          },
+          {
+            "title": "Bei angeschnittenem Kohl den Strunk entfernen 🔪",
+            "desc": "Wenn Sie halbierten Chinakohl lagern, schneiden Sie den inneren Strunk am Boden heraus. Dies verhindert, dass der Kohl weiterwächst und seine eigenen Nährstoffe und Feuchtigkeit verbraucht, was Fäulnis stoppt."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Äußere Blätter entfernen und in Papier einwickeln — Feuchtigkeitsregulierung 📰",
+            "text": "Welke Blätter entfernen und den trockenen Kohl komplett in Zeitungspapier oder Küchenpapier einwickeln. 💡 Lagerungstipp: Die festen äußeren Blätter dienen als natürlicher Schutzschild, um die innere Feuchtigkeit zu bewahren."
+          },
+          {
+            "name": "Aufrecht mit dem Strunk nach unten bei 0–4 °C lagern — Kühllagerung (2–4 Wochen) ❄️",
+            "text": "Chinakohl bleibt am längsten frisch, wenn er aufrecht in seiner natürlichen Wuchsrichtung gelagert wird. 💡 Lagerungstipp: Stellen Sie den eingewickelten Kohl mit dem Strunk nach unten ins Gemüsefach des Kühlschranks (0–4 °C)."
+          },
+          {
+            "name": "Blanchieren, ausdrücken und einfrieren — Gefrierlagerung (2–3 Monate) 🧊",
+            "text": "Für eine Lagerung von über einem Monat ist Blanchieren und Einfrieren ideal. 💡 Lagerungstipp: Blätter 1–2 Minuten in kochendem Wasser blanchieren, in Eiswasser abschrecken, gut ausdrücken und im Ziploc-Beutel bei unter -18 °C einfrieren."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Auf den weißen Rippen des Kohls sind kleine schwarze Punkte. Kann man ihn noch essen?",
+            "answer": "Ja! Diese kleinen schwarzen Punkte nennt man 'Schwarzfleckigkeit' (Gomasho). Es handelt sich um eine völlig harmlose physiologische Reaktion der Pflanze auf Nährstoffschwankungen. Es ist kein Schimmel und völlig unbedenklich."
+          },
+          {
+            "question": "Wie bewahrt man einen angebrochenen Chinakohl am besten auf?",
+            "answer": "Angeschnittener Kohl verliert an den Schnittflächen schnell Feuchtigkeit. Schneiden Sie den Strunk heraus, legen Sie ein trockenes Küchenpapier auf die Schnittfläche und wickeln Sie den Kohl fest in Frischhaltefolie ein."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar acelga (couve-chinesa) fresca: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para a acelga com base em diretrizes oficiais de segurança.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Você já comprou uma acelga (couve-chinesa) crocante e adocicada e percebeu que em poucos dias as folhas murchavam ou apodreciam por dentro? 🥬\n\nA acelga é composta por quase 95% de água, tornando o controle de temperatura e umidade o fator mais crítico para manter seu frescor. A água presa entre suas folhas compactas ou o armazenamento deitado facilitam o esmagamento e a deterioração por bactérias.\n\nNeste guia, apresentamos um guia em 3 etapas baseado em diretrizes de especialistas para manter sua acelga crocante e fresca por mais tempo. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca lave a acelga antes de guardar 💧",
+            "desc": "Lavar a acelga antes do armazenamento retém umidade entre suas folhas densas, criando um ambiente ideal para bactérias e fungos. Limpe a sujeira apenas com um pano seco e lave imediatamente antes de cozinhar."
+          },
+          {
+            "title": "Remova o miolo do talo ao cortar a acelga 🔪",
+            "desc": "Ao conservar metades de acelga, corte a base do talo central com uma faca. Isso impede que a planta continue crescendo e consumindo sua própria água e nutrientes, evitando a deterioração rápida."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Retire folhas murchas e envolva em papel — Controle de umidade 📰",
+            "text": "Remova as folhas externas danificadas e envolva a acelga seca em jornal ou papel-toalha. 💡 Dica de conservação: Manter as folhas externas mais firmes funciona como um escudo natural para reter a umidade interna."
+          },
+          {
+            "name": "Guarde na vertical com a raiz para baixo de 0 a 4 °C — Refrigeração (2 a 4 semanas) ❄️",
+            "text": "A acelga dura muito mais tempo se for armazenada em pé, na sua posição natural de cultivo. 💡 Dica de conservação: Coloque a acelga embalada com a base para baixo na gaveta de legumes da geladeira (0 a 4 °C)."
+          },
+          {
+            "name": "Afervente, esprema e congele — Longo prazo (2 a 3 meses) 🧊",
+            "text": "Para conservar por mais de um mês, o ideal é aferventar (blanching) e congelar. 💡 Dica de conservação: Ferva as folhas por 1 a 2 minutos, resfrie em água gelada, esprema bem e congele em sacos Ziploc a -18 °C."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Há pontinhos pretos na parte branca da acelga. É seguro comer?",
+            "answer": "Sim! Esses pequenos pontos pretos são uma reação fisiológica inofensiva chamada 'Gomasho' (mancha de pimenta), causada por variações de nutrientes no cultivo. Não é mofo e pode ser consumida com segurança."
+          },
+          {
+            "question": "Como devo guardar um pedaço de acelga que sobrou?",
+            "answer": "A acelga cortada perde umidade rapidamente. Retire a base do talo central, coloque um papel-toalha seco sobre o corte e envolva firmemente com filme plástico antes de refrigerar."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Sawi Putih (Napa Cabbage) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk sawi putih berdasarkan pedoman keselamatan resmi.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Pernahkah Anda membeli sawi putih yang segar dan manis, lalu mendapati daunnya layu, lembek, atau membusuk dari bagian dalam beberapa hari kemudian? 🥬\n\nSawi putih terdiri dari hampir 95% air, membuat kontrol suhu dan kelembapan menjadi faktor paling krusial dalam menjaga kesegarannya. Air yang terperangkap di antara daun yang rapat atau penyimpanan secara horisontal akan menyebabkan kerusakan dan pembusukan bakteri yang cepat.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomensionalkan oleh ahli untuk menjaga kerenyahan sawi putih Anda. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan sekali-kali mencuci sawi putih sebelum disimpan 💧",
+            "desc": "Mencuci sawi putih sebelum disimpan akan mengunci air di antara daunnya yang rapat, menciptakan lingkungan ideal bagi bakteri dan jamur untuk berkembang. Lap kotoran dengan kain kering dan cucilah tepat sebelum dimasak."
+          },
+          {
+            "title": "Buang bagian bonggol saat menyimpan sawi putih yang terpotong 🔪",
+            "desc": "Saat menyimpan sawi putih yang sudah terpotong, potong bagian bonggol bawahnya. Ini mencegah tanaman terus tumbuh dan menguras kadar air serta nutrisinya, sehingga mencegah pembusukan dini."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Buang daun yang layu lalu bungkus dengan kertas — Kontrol Kelembapan 📰",
+            "text": "Buang daun bagian luar yang rusak lalu bungkus sawi putih yang kering dengan kertas koran atau tisu dapur. 💡 Tips Penyimpanan: Membiarkan daun luar yang kokoh berfungsi sebagai pelindung alami untuk menjaga kelembapan bagian dalam."
+          },
+          {
+            "name": "Simpan berdiri dengan bonggol di bawah pada suhu 0–4°C — Penyimpanan Dingin (2–4 Minggu) ❄️",
+            "text": "Sawi putih bertahan segar lebih lama jika disimpan dalam posisi berdiri sesuai arah tumbuh Alaminya. 💡 Tips Penyimpanan: Letakkan sawi putih yang terbungkus dengan posisi bonggol di bawah di laci kulkas (0–4°C)."
+          },
+          {
+            "name": "Rebus sebentar, peras, lalu bekukan — Simpan Jangka Panjang (2–3 Bulan) 🧊",
+            "text": "Untuk penyimpanan lebih dari sebulan, merebus sebentar (blanching) lalu membekukannya adalah cara terbaik. 💡 Tips Penyimpanan: Rebus daun selama 1–2 menit, bilas air es, peras airnya, lalu bekukan dalam kantong Ziploc di bawah suhu -18°C."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Ada bintik-bintik hitam kecil pada bagian batang putih sawi. Apakah aman dimakan?",
+            "answer": "Ya! Bintik hitam kecil tersebut dikenal sebagai 'Gomasho' (pepper spots), reaksi fisiologis tidak berbahaya akibat perubahan nutrisi saat masa tanam. Ini bukan jamur atau bakteri dan sangat aman dikonsumsi."
+          },
+          {
+            "question": "Bagaimana cara menyimpan sisa sawi putih yang sudah terpotong?",
+            "answer": "Sawi putih yang terpotong akan kehilangan kelembapan dengan cepat dari permukaan irisannya. Potong bonggol tengahnya, tempelkan tisu dapur kering pada permukaan irisan, lalu bungkus rapat dengan plastik wrap sebelum disimpan di kulkas."
+          }
+        ]
+      }
     }
+  }
 }

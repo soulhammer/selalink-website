@@ -1,406 +1,406 @@
 {
-    "how-to-store-cinnamon": {
-        "ingId": "cinnamon",
-        "pubDate": "2026-07-20",
-        "updatedDate": "2026-07-20",
-        "heroImage": "/images/blog/cinnamon_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "계피(시나몬) 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 식품 안전 가이드라인(USDA·FDA)에 따른 계피 및 계피 가루의 정유(시남알데하이드) 휘발 방지법, 흡습 곰팡이독소 예방 및 보관 기간을 확인하세요.",
-                "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
-                "intro": "특유의 알싸한 향과 달콤한 풍미로 디저트, 음료, 카레 등에 폭넓게 쓰이는 대표적인 향신료 계피(시나몬)! 🌿🪵\n\n계피는 유익한 항산화 물질과 독특한 풍미를 선사하는 천연 향신료입니다. 하지만 계피의 핵심 향미 및 항균 성분인 '시남알데하이드(Cinnamaldehyde)'는 휘발성 정유 성분으로, 공기와 열에 노출되면 유효 성분이 급격히 날아가 향을 잃어버립니다. 특히 계피 가루는 입자가 고와 표면적이 넓기 때문에 공기 중의 수분을 빠르게 흡수하여 곰팡이가 피거나 곰팡이독소가 생성되기 매우 쉽습니다.\n\n이번 가이드에서는 미국 USDA, FDA 및 식품의약품안전처의 검증된 가이드라인을 바탕으로, 시남알데하이드 정유 성분을 지키고 곰팡이독소 위험을 완벽히 차단하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "계피 속 핵심 정유 성분인 시남알데하이드의 휘발 특성과 계피 가루의 수분 흡습에 따른 곰팡이독소 생성 메커니즘을 이해하고, 차광·밀폐 환경을 제공하는 것이 핵심입니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "계피 가루를 공기 중에 노출시키거나 습한 곳에 두지 마세요 ⚠️",
-                        "desc": "계피 가루는 표면적이 넓어 공기 중 수분을 빠르게 흡습합니다. 습도가 높아지면 아스페르길루스 등의 곰팡이가 번식하여 열로도 파괴되지 않는 곰팡이독소(아플라톡신 등)를 생성하므로 반드시 수분을 차단해야 합니다."
-                    },
-                    {
-                        "title": "계피를 가스레인지 옆이나 햇빛이 드는 곳에 보관하지 마세요 ☀️",
-                        "desc": "계피의 핵심 유효 성분인 시남알데하이드(Cinnamaldehyde)는 고온과 자외선에 매우 취약한 휘발성 정유입니다. 가스레인지 주변의 열기나 햇빛에 노출되면 향미가 급격히 소실되고 약리 작용이 저하됩니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "빛과 공기를 차단하는 차광 밀폐 용기(유리/금속/PP)에 담기 — 정유 휘발 및 흡습 차단 🫙",
-                        "text": "계피 스틱이나 계피 가루를 개봉한 즉시 차광 유리병, 불투명 밀폐 용기, 또는 차광 지퍼백에 옮겨 담으세요. 💡 보관 팁: 공기와의 접촉을 완벽히 차단하면 시남알데하이드 정유 성분의 휘발을 막고 공기 중 습기 흡수를 차단할 수 있습니다."
-                    },
-                    {
-                        "name": "직사광선이 없는 서늘한 암소(15 - 20℃)에 보관하기 — 상온 건소 보관 (스틱 2 - 3년 / 가루 1 - 2년) 🚪",
-                        "text": "밀폐한 차광 용기를 주방 하부장이나 팬트리 같은 서늘하고 어두운 곳에 보관하세요. 💡 보관 팁: 15 - 20℃ 이하의 일정한 온도와 건조한 환경을 유지하면 계피 스틱은 2 - 3년, 계피 가루는 1 - 2년 동안 알싸하고 달콤한 향을 그대로 보존할 수 있습니다."
-                    },
-                    {
-                        "name": "대량의 계피 가루는 소분하여 냉동 보관하기 — 장기 냉동 보관 (2년 이상) 🧊",
-                        "text": "대용량 계피 가루는 1 - 2달 사용할 양만 상온 밀폐 용기에 두고, 나머지는 소분하여 지퍼백에 담아 냉동실(-18℃ 이하)에 두세요. 💡 보관 팁: 극저온 환경에서는 정유 성분의 휘발이 거의 멈추고 습도에 의한 곰팡이독소 발생 위험을 완전히 배제할 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "계피 가루가 눅눅해지거나 덩어리졌는데 사용해도 되나요?",
-                        "answer": "덩어리진 계피 가루는 공기 중의 수분을 흡습했다는 신호입니다. 단순히 굳은 것이라면 가볍게 두드려 깨뜨린 후 즉시 사용 가능하지만, 만약 퀴퀴한 곰팡이 냄새가 나거나 색이 어둡게 변했다면 곰팡이독소 오염 위험이 있으므로 즉시 폐기하셔야 합니다."
-                    },
-                    {
-                        "question": "계피 스틱과 계피 가루 중 어느 것이 더 오래 보관되나요?",
-                        "answer": "계피 스틱이 훨씬 오래 보관됩니다! 계피 스틱은 표면적이 작아 정유 성분의 휘발 속도가 훨씬 느리며, 수분 흡습 위험도 적습니다. 계피 스틱은 밀폐 보관 시 2 - 3년 이상 향을 유지하므로, 필요할 때마다 그라인더로 갈아 가루로 만드는 것이 가장 향긋하게 즐기는 방법입니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Cinnamon Fresh: Scientific Storage Guide",
-                "description": "Check optimal storage methods to prevent essential oil (cinnamaldehyde) volatility, moisture-induced mycotoxins, and shelf life for cinnamon sticks and powder based on USDA & FDA guidelines.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Cinnamon is a beloved, warming spice widely used in desserts, beverages, curries, and savory dishes! 🌿🪵\n\nCinnamon owes its iconic warm flavor, aroma, and antibacterial properties to 'cinnamaldehyde,' a volatile essential oil. However, exposure to air and heat causes cinnamaldehyde to evaporate rapidly, leading to loss of flavor. Furthermore, ground cinnamon powder has a large surface area that quickly absorbs atmospheric moisture, creating a high risk of mold growth and heat-stable mycotoxin production.\n\nIn this guide, based on scientifically verified guidelines from the USDA, FDA, and MFDS, we present a 3-step optimal storage strategy to protect cinnamaldehyde essential oils and eliminate mycotoxin risks. 🛡️",
-                "whyTitle": "Why Store Cinnamon This Way? Scientific Facts",
-                "whyDesc": "Understanding the volatile nature of cinnamaldehyde essential oils and preventing moisture absorption in powdered cinnamon to block mycotoxin formation is key to long-term preservation.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never leave ground cinnamon exposed to air or humid environments ⚠️",
-                        "desc": "Ground cinnamon has a large surface area that rapidly absorbs ambient humidity. Increased moisture allows Aspergillus molds to proliferate and generate toxic, heat-stable mycotoxins (such as aflatoxins); moisture control is mandatory."
-                    },
-                    {
-                        "title": "Do not store cinnamon near stoves or in direct sunlight ☀️",
-                        "desc": "Cinnamaldehyde, cinnamon's primary active compound, is a volatile essential oil highly sensitive to heat and UV light. Exposure to stovetop heat or sunlight rapidly degrades flavor, aroma, and health benefits."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Store in lightproof, airtight containers (glass/metal/PP) — Prevent Volatility & Moisture 🫙",
-                        "text": "Immediately transfer cinnamon sticks or powder into opaque glass jars, metal tins, or lightproof airtight pouches. 💡 Storage Tip: Complete sealing prevents cinnamaldehyde evaporation and blocks moisture absorption from the surrounding air."
-                    },
-                    {
-                        "name": "Keep in a cool, dark place (15–20°C) — Dry Pantry Storage (Sticks 2–3 Years / Powder 1–2 Years) 🚪",
-                        "text": "Store airtight containers in a cool, dark kitchen cabinet or pantry away from sunlight. 💡 Storage Tip: Maintaining a stable, dry environment at 15–20°C (59–68°F) preserves aromatic warmth for 2–3 years for sticks and 1–2 years for powder."
-                    },
-                    {
-                        "name": "Freeze large quantities of ground cinnamon — Long-Term Freezing (2+ Years) 🧊",
-                        "text": "For bulk ground cinnamon, keep a 1-to-2-month supply in a pantry container and freeze the rest in portions in Ziploc freezer bags (-18°C / 0°F or lower). 💡 Storage Tip: Sub-zero temperatures virtually stop essential oil evaporation and eliminate mold/mycotoxin risks."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "My ground cinnamon became clumpy or damp. Is it safe to use?",
-                        "answer": "Clumpy cinnamon powder indicates moisture absorption from the air. If the clumps break apart easily and it smells normal, it can still be used. However, if it smells musty or has darkened in color, discard it immediately due to potential mycotoxin contamination."
-                    },
-                    {
-                        "question": "Which lasts longer: cinnamon sticks or ground cinnamon?",
-                        "answer": "Cinnamon sticks last significantly longer! Sticks have a much smaller surface area, slowing down essential oil evaporation and reducing moisture absorption risks. Sticks retain flavor for 2–3+ years when sealed airtight; grinding them fresh yields the best flavor."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "シナモン（Cinnamon）を新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的食品安全ガイドライン（USDA・FDA）に基づくシナモンスティックおよびシナモンパウダーの精油（シンナムアルデヒド）揮発防止法、吸湿カビ毒予防および保存期間をご確認ください。",
-                "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
-                "intro": "独特の爽やかな香りと甘い風味が魅力のスパイス、シナモン（桂皮）！ 🌿🪵\n\nシナモンの豊かな香りと抗菌作用の決め手は、主成分である「シンナムアルデヒド（Cinnamaldehyde）」という揮発性の精油成分です。しかし、空気や熱に晒されるとこの有効成分は急激に揮発し、風味が失われてしまいます。特にシナモンパウダー（粉末）は表面積が広く空気中の湿気を吸湿しやすいため、カビが発生してカビ毒（アフラトキシン等）が作られる危険性が高まります。\n\n本記事では、米国USDA、FDAおよび食品医薬品安全処の検証済みガイドラインに基づき、精油成分を守りカビ毒のリスクを遮断する3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "シナモンに含まれるシンナムアルデヒド精油の揮発特性と、パウダーの吸湿に伴うカビ毒発生メカニズムを理解し、遮光・密閉環境を維持することが保存の核心です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "シナモンパウダーを空気中に露出させたり湿気のある場所に置かないでください ⚠️",
-                        "desc": "シナモンパウダーは表面積が広く空気中の湿気を素早く吸湿します。湿度が高くなるとアスペルギルスなどのカビが繁殖し、加熱しても分解されないカビ毒（アフラトキシン等）が発生するため、確実に湿気を遮断してください。"
-                    },
-                    {
-                        "title": "シナモンをコンロの脇や日光が当たる場所に保管しないでください ☀️",
-                        "desc": "シナモンの主要有効成分であるシンナムアルデヒド（Cinnamaldehyde）は、高温や紫外線に非常に弱い揮発性精油です。コンロの熱や直射日光に晒されると風味が急速に損なわれ薬理効果が低下します。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "光と空気を遮断する遮光密閉容器（ガラス/金属/PP）に入れる — 精油の揮発＆吸湿遮断 🫙",
-                        "text": "シナモンスティックやパウダーを開封したらすぐに遮光ガラス瓶、不透明密閉容器、または遮光ジッパーバッグに移し替えてください。💡保存のコツ：空気との接触を完全に遮断することで、シンナムアルデヒド精油の揮発を防ぎ湿気の吸湿をブロックできます。"
-                    },
-                    {
-                        "name": "直射日光の当たらない涼しい暗所（15〜20℃）で保存する — 常温乾燥保存 (スティック2〜3年 / パウダー1〜2年) 🚪",
-                        "text": "密閉した遮光容器を戸棚やパントリーなどの涼しく暗い場所に保管してください。💡保存のコツ：15〜20℃以下の一定温度と乾燥環境を維持すれば、スティックは2〜3年、パウダーは1〜2年間豊かな香りを保てます。"
-                    },
-                    {
-                        "name": "大量のシナモンパウダーは小分けして冷凍保存する — 長期冷凍保存 (2年以上) 🧊",
-                        "text": "大容量のパウダーは1〜2ヶ月分だけ常温容器に残し、残りは小分けしてチャック付き袋に入れ冷凍室（-18℃以下）で保管してください。💡保存のコツ：極低温環境では精油の揮発がほぼ停止し、湿気によるカビ毒の発生リスクを完全になくすことができます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "シナモンパウダーが湿気て固まりができていますが使っても大丈夫ですか？",
-                        "answer": "固まったシナモンパウダーは空気中の湿気を吸湿したサインです。単に固まっているだけなら軽くほぐしてすぐ使用できますが、カビ臭い臭いがする場合や色が濃く変色している場合はカビ毒汚染のリスクがあるため、すぐに破棄してください。"
-                    },
-                    {
-                        "question": "シナモンスティックとシナモンパウダーのどちらが長く保存できますか？",
-                        "answer": "シナモンスティックの方がはるかに長く保存できます！スティックは表面積が小さいため精油成分の揮発速度が遅く、吸湿のリスクも少ないです。スティックは密閉保存で2〜3年以上香りを保つため、使用する度にミルやグレーターで削って使うのが最も芳醇に楽しむ方法です。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持肉桂/肉桂粉（Cinnamon）新鲜：科学储存指南",
-                "description": "根据USDA及FDA官方食品安全指南，了解肉桂及肉桂粉防止精油（肉桂醛）挥发、防止吸湿滋生霉菌毒素的方法及保质期。",
-                "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "肉桂（Cinnamon）带有独特的辛香与甜美风味，是甜品、饮料、咖喱和各种烘焙中的明星香料！ 🌿🪵\n\n肉桂的核心风味与抗菌功效源于其挥发性精油成分——“肉桂醛（Cinnamaldehyde）”。然而，肉桂醛极易受空气与高温影响而迅速挥发，导致香味流失。尤其是肉桂粉，因颗粒细小、表面积大，极易吸收空气中的水分，从而滋生霉菌并产生耐高温的霉菌毒素（黄曲霉毒素等）。\n\n本指南基于美国USDA、FDA及韩国MFDS验证的科学指南，为您带来3步科学储存秘诀，保护肉桂精油成分并彻底杜绝霉菌毒素风险。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解肉桂中的肉桂醛精油易挥发的特性，以及肉桂粉吸湿后滋生霉菌毒素的机制，保持避光与密封环境是长期保存的关键所在。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "切勿将肉桂粉暴露于空气中或存放在潮湿处 ⚠️",
-                        "desc": "肉桂粉表面积大，会快速吸收空气中的湿气。湿度升高会导致曲霉菌等霉菌滋生，产生即使高温加热也无法破坏的霉菌毒素（黄曲霉毒素等），因此必须严格隔绝水分。"
-                    },
-                    {
-                        "title": "切勿将肉桂存放在灶台旁或阳光直射处 ☀️",
-                        "desc": "肉桂中的核心有效成分肉桂醛（Cinnamaldehyde）是对高温和紫外线极度敏感的挥发性精油。暴露于灶台余热或阳光下会导致香味急剧流失，营养功效大幅降低。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "装入避光密封容器（玻璃/金属/PP） — 阻断精油挥发与吸湿 🫙",
-                        "text": "开封肉桂卷或肉桂粉后，请立即倒入棕色玻璃瓶、不透明金属罐或避光密封袋中。💡储存小贴士：彻底隔绝空气接触可防止肉桂醛精油挥发，并阻断对环境中水分的吸收。"
-                    },
-                    {
-                        "name": "存放在无阳光直射的阴凉暗处（15 - 20℃） — 常温干燥保存（肉桂卷2 - 3年 / 肉桂粉1 - 2年） 🚪",
-                        "text": "将密封避光罐存放在阴凉干燥的橱柜或食品柜中。💡储存小贴士：保持15 - 20℃以下的恒温干燥环境，肉桂卷可保存2 - 3年，肉桂粉可保存1 - 2年且风味不减。"
-                    },
-                    {
-                        "name": "大批量肉桂粉请分装冷冻 — 长期冷冻保存（2年以上） 🧊",
-                        "text": "若大批量购买肉桂粉，只需在常温罐中留出1 - 2个月的用量，其余分装入拉链袋冷冻（-18℃以下）。💡储存小贴士：极低温环境可使精油挥发几乎停滞，并能彻底杜绝因湿度引发的霉菌毒素风险。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "肉桂粉受潮结块了，还能继续使用吗？",
-                        "answer": "结块的肉桂粉说明已吸收了空气中的水分。如果只是单纯变硬，轻轻敲碎后可立即使用；但如果散发出霉味或颜色变深，则存在霉菌毒素污染风险，必须立即丢弃。"
-                    },
-                    {
-                        "question": "肉桂卷（棒）和肉桂粉哪个保质期更长？",
-                        "answer": "肉桂卷（棒）的保存时间要长得多！肉桂卷的表面积小，精油挥发速度极慢，且吸湿风险小。肉桂卷密封保存可维持2 - 3年以上的浓郁香味，需要时用研磨器现磨成粉是品尝最纯正风味的绝佳方法。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener fresca la canela: Guía científica de conservación",
-                "description": "Descubra los métodos óptimos para prevenir la volatilidad del aceite esencial (cinnamaldehído), la absorción de humedad y micotoxinas, y la vida útil según la USDA y la FDA.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "¡La canela (cinnamon) es una especia aromática y cálida sumamente popular para postres, bebidas, curris y platos salados! 🌿🪵\n\nLa canela debe su característico sabor cálido, su aroma y sus propiedades antibacterianas al 'cinnamaldehído', un aceite esencial volátil. Sin embargo, la exposición al aire y al calor hace que el cinnamaldehído se evapore rápidamente, perdiendo sabor y aroma. Además, la canela molida en polvo tiene una amplia superficie que absorbe la humedad ambiental, creando un alto riesgo de moho y producción de micotoxinas termoestables.\n\nEn esta guía, basada en pautas científicas de la USDA, la FDA y la MFDS, presentamos una estrategia en 3 pasos para proteger los aceites esenciales de cinnamaldehído y eliminar los riesgos de micotoxinas. 🛡️",
-                "whyTitle": "¿Por qué almacenarla así? Datos científicos",
-                "whyDesc": "Comprender la naturaleza volátil del cinnamaldehído y evitar la absorción de humedad en la canela en polvo para bloquear las micotoxinas es la clave de la conservación.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Nunca deje la canela molida expuesta al aire o en ambientes húmedos ⚠️",
-                        "desc": "La canela en polvo absorbe la humedad ambiente con rapidez. La humedad alta permite que hongos como Aspergillus proliferen y generen micotoxinas tóxicas y resistentes al calor (como aflatoxinas); el control de la humedad es obligatorio."
-                    },
-                    {
-                        "title": "No guarde la canela cerca de estufas ni bajo la luz solar directa ☀️",
-                        "desc": "El cinnamaldehído es un aceite esencial volátil muy sensible al calor y a la radiación UV. La exposición al calor de la cocina o al sol degrada rápidamente su sabor, su aroma y sus beneficios terapéuticos."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Guarde en recipientes herméticos e impermeables a la luz (vidrio/metal/PP) — Prevenir volatilidad y humedad 🫙",
-                        "text": "Trasvase inmediatamente las ramas o el polvo de canela a frascos opacos, latas de metal o bolsas herméticas oscuras. 💡 Consejo de almacenamiento: El sellado completo evita la evaporación del cinnamaldehído y bloquea la humedad ambiental."
-                    },
-                    {
-                        "name": "Conserve en un lugar fresco y oscuro (15–20 °C) — Almacenamiento en despensa seca (Ramas 2–3 años / Polvo 1–2 años) 🚪",
-                        "text": "Guarde los recipientes en un armario de cocina o despensa fresca alejada del sol. 💡 Consejo de almacenamiento: Mantener un ambiente seco a 15–20 °C conserva el aroma de 2 a 3 años en ramas y de 1 a 2 años en polvo."
-                    },
-                    {
-                        "name": "Congele grandes cantidades de canela molida — Congelación prolongada (2+ años) 🧊",
-                        "text": "Para grandes cantidades de canela molida, mantenga la cantidad para 1–2 meses en la despensa y congele el resto en bolsas Ziploc (-18 °C). 💡 Consejo de almacenamiento: Las temperaturas bajo cero detienen la evaporación de aceites y eliminan riesgos de micotoxinas."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mi canela molida se apelmazó o humedeció. ¿Es seguro usarla?",
-                        "answer": "La canela en polvo apelmazada indica que ha absorbido humedad. Si los grumos se rompen fácilmente y huele bien, puede usarla. Sin embargo, si huele a humedad o se ha oscurecido, deséchela de inmediato por riesgo de micotoxinas."
-                    },
-                    {
-                        "question": "¿Qué dura más: las ramas de canela o la canela molida?",
-                        "answer": "¡Las ramas de canela duran mucho más! Tienen menor superficie expuesta, lo que frena la evaporación de aceites esenciales y reduce la absorción de humedad. Las ramas duran de 2 a 3 años o más si se sellan herméticamente; molerlas al momento ofrece el mejor aroma."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver la cannelle fraîche : Guide scientifique de stockage",
-                "description": "Découvrez les méthodes optimales pour éviter la volatilisation de l'huile essentielle (cinnamaldéhyde), l'absorption d'humidité et les mycotoxines selon l'USDA et la FDA.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "La cannelle (cinnamon) est une épice réconfortante et aromatique très prisée pour les desserts, boissons, currys et plats mijotés ! 🌿🪵\n\nLa cannelle doit sa saveur chaude et ses propriétés antibactériennes au « cinnamaldéhyde », une huile essentielle volatile. Cependant, l'exposition à l'air et à la chaleur entraîne l'évaporation rapide du cinnamaldéhyde et la perte d'arôme. De plus, la cannelle moulue présente une grande surface qui absorbe l'humidité ambiante, favorisant l'apparition de moisissures et de mycotoxines thermostables.\n\nDans ce guide, basé sur des données scientifiques validées par l'USDA, la FDA et le MFDS, nous vous présentons une méthode en 3 étapes pour protéger l'huile essentielle de cinnamaldéhyde et éliminer les mycotoxines. 🛡️",
-                "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre la nature volatile du cinnamaldéhyde et éviter l'absorption d'humidité par la cannelle moulue pour stopper la production de mycotoxines est la clé d'un stockage réussi.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne laissez jamais la cannelle moulue à l'air libre ou en milieu humide ⚠️",
-                        "desc": "La cannelle en poudre absorbe rapidement l'humidité de l'air. L'humidité permet aux moisissures (Aspergillus) de proliférer et de sécréter des mycotoxines toxiques et résistantes à la chaleur ; le contrôle de l'humidité est obligatoire."
-                    },
-                    {
-                        "title": "Ne stockez pas la cannelle près des plaques de cuisson ou au soleil ☀️",
-                        "desc": "Le cinnamaldéhyde est une huile essentielle très sensible à la chaleur et aux UV. L'exposition à la chaleur des fourneaux ou au soleil altère rapidement le parfum, le goût et les bienfaits de l'épice."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Placer dans un récipient étanche et opaque (verre/métal/PP) — Éviter la volatilisation et l'humidité 🫙",
-                        "text": "Transférez immédiatement les bâtons ou la poudre de cannelle dans un bocal opaque, une boîte métallique ou un sachet étanche à la lumière. 💡 Astuce de conservation : Une fermeture hermétique stoppe la volatilisation du cinnamaldéhyde et l'absorption d'eau."
-                    },
-                    {
-                        "name": "Garder dans un endroit frais et sombre (15–20 °C) — Placard sec (Bâtons 2–3 ans / Poudre 1–2 ans) 🚪",
-                        "text": "Conservez les récipients étanches dans un placard de cuisine à l'abri du soleil. 💡 Astuce de conservation : Conserver un environnement sec à 15–20 °C préserve le parfum de 2 à 3 ans pour les bâtons et de 1 à 2 ans pour la poudre."
-                    },
-                    {
-                        "name": "Congeler la cannelle moulue en grande quantité — Congélation longue durée (2+ ans) 🧊",
-                        "text": "Pour de grandes quantités de cannelle moulue, gardez une réserve de 1 à 2 mois dans le placard et congelez le reste par portions dans des sachets Ziploc (-18 °C). 💡 Astuce de conservation : Les températures négatives stoppen la volatilisation de l'huile essentielle et écartent les mycotoxines."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Ma cannelle moulue s'est agglomérée ou est devenue humide. Est-elle consommable ?",
-                        "answer": "Une cannelle en poudre qui s'agglomère a absorbé de l'humidité. Si les grumeaux se brisent facilement et que l'odeur est normale, elle peut être utilisée. En revanche, si une odeur de renfermé se dégage ou si la couleur a noirci, jetez-la immédiatement en raison des risques de mycotoxines."
-                    },
-                    {
-                        "question": "Qui se conserve le plus longtemps : les bâtons de cannelle ou la cannelle moulue ?",
-                        "answer": "Les bâtons de cannelle se conservent beaucoup plus longtemps ! Ils présentent une surface réduite, ce qui ralentit la volatilisation de l'huile essentielle et réduit les risques d'humidité. Les bâtons gardent leur parfum pendant 2 à 3 ans ou plus ; les moudre au besoin offre la meilleure saveur."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Zimt richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimalen Lagerungsmethoden zur Vermeidung der Verflüchtigung ätherischer Öle (Cinnamaldehyd), Feuchtigkeitsaufnahme und Mykotoxinen nach USDA & FDA.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Zimt (Cinnamon) ist ein beliebtes, wärmendes Gewürz für Desserts, Getränke, Currys und herzhafte Gerichte! 🌿🪵\n\nZimt verdankt seinen aromatischen Geschmack und seine antibakteriellen Eigenschaften dem ätherischen Öl „Cinnamaldehyd“. Luft- und Hitzeeinfluss führen jedoch dazu, dass Cinnamaldehyd rasch verflüchtigt und das Aroma nachlässt. Zudem besitzt gemahlener Zimt eine große Oberfläche, die Luftfeuchtigkeit schnell aufnimmt, was Schimmelbildung und hitzebeständige Mykotoxine begünstigt.\n\nIn diesem Ratgeber stellen wir Ihnen auf Basis wissenschaftlicher Richtlinien von USDA, FDA und MFDS eine 3-Schritte-Methode vor, um das ätherische Cinnamaldehyd-Öl zu schützen und Mykotoxinrisiken auszuschließen. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der flüchtigen Natur des ätherischen Cinnamaldehyd-Öls und das Verhindern von Feuchtigkeitsaufnahme bei gemahlenem Zimt zur Stoppung von Mykotoxinen ist der Schlüssel zur Haltbarkeit.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Gemahlenen Zimt niemals ungeschützt oder in feuchter Umgebung lagern ⚠️",
-                        "desc": "Zimtpulver nimmt Feuchtigkeit rasch auf. Erhöhte Feuchtigkeit ermöglicht Aspergillus-Schimmelpilzen das Wachstum und die Bildung giftiger, hitzebeständiger Mykotoxine (Aflatoxine); Feuchtigkeitsschutz ist Pflicht."
-                    },
-                    {
-                        "title": "Zimt nicht nahe Herden oder in direktem Sonnenlicht aufbewahren ☀️",
-                        "desc": "Cinnamaldehyd ist ein ätherisches Öl, das empfindlich auf Hitze und UV-Licht reagiert. Herdwärme oder Sonne bauen Geschmack, Aroma und gesundheitliche Vorteile rasch ab."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "In lichtundurchlässige, luftdichte Behälter (Glas/Metall/PP) füllen — Verflüchtigung & Feuchtigkeit stoppen 🫙",
-                        "text": "Füllen Sie Zimtstangen oder Zimtpulver sofort in Braungläser, Metalldosen oder opaque Zip-Beutel um. 💡 Lagerungstipp: Dichtes Verschließen verhindert das Verflüchtigen von Cinnamaldehyd und blockiert Feuchtigkeit."
-                    },
-                    {
-                        "name": "An einem kühlen, dunklen Ort (15–20 °C) aufbewahren — Vorratskammer (Stangen 2–3 Jahre / Pulver 1–2 Jahre) 🚪",
-                        "text": "Bewahren Sie die Behälter in einem kühlen Küchenschrank ohne Sonne auf. 💡 Lagerungstipp: Eine trockene Umgebung bei 15–20 °C erhält das würzige Aroma bei Stangen für 2–3 Jahre und bei Pulver für 1–2 Jahre."
-                    },
-                    {
-                        "name": "Große Mengen Zimtpulver einfrieren — Langzeit-Gefrierlagerung (2+ Jahre) 🧊",
-                        "text": "Lassen Sie bei Großpackungen nur den Bedarf für 1–2 Monate im Schrank und frieren Sie den Rest in Beuteln ein (-18 °C). 💡 Lagerungstipp: Minustemperaturen stoppen die Ölverflüchtigung nahezu vollständig und schließen Mykotoxinrisiken aus."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mein gemahlener Zimt ist klumpig oder feucht geworden. Kann ich ihn noch verwenden?",
-                        "answer": "Klumpiges Zimtpulver zeigt, dass es Feuchtigkeit aufgenommen hat. Lassen sich die Klumpen leicht zerdrücken und riecht er normal, kann er verwendet werden. Riecht er muffig oder ist dunkel geworden, wegen Mykotoxingeit sofort entsorgen."
-                    },
-                    {
-                        "question": "Was hält länger: Zimtstangen oder gemahlener Zimt?",
-                        "answer": "Zimtstangen halten deutlich länger! Stangen haben eine viel kleinere Oberfläche, was die Verflüchtigung verlangsamt und das Feuchtigkeitsrisiko senkt. Stangen halten luftdicht 2–3+ Jahre; frisches Reiben liefert das beste Aroma."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar a canela fresca: Guia científico de armazenamento",
-                "description": "Descubra os métodos ideais de conservação para prevenir a volatilização do óleo essencial (cinnamaldeído), absorção de umidade e micotoxinas segundo a USDA e FDA.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "A canela (cinnamon) é uma especiaria aromática e marcante usada em sobremesas, bebidas, curries e pratos salgados! 🌿🪵\n\nA canela deve seu sabor aquecido e suas propriedades antibacterianas ao 'cinnamaldeído', um óleo essencial volátil. No entanto, a exposição ao ar e ao calor faz com que o cinnamaldeído se evapore rapidamente, perdendo o aroma. Além disso, a canela em pó tem uma grande área de superfície que absorve rapidamente a umidade do ar, criando alto risco de mofo e produção de micotoxinas resistentes ao calor.\n\nNeste guia, baseado em diretrizes científicas da USDA, FDA e MFDS, apresentamos um método em 3 etapas para proteger os óleos essenciais de cinnamaldeído e eliminar os riscos de micotoxinas. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Compreender a natureza volátil do cinnamaldeído e evitar a absorção de umidade na canela em pó para bloquear as micotoxinas é a chave do armazenamento.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca deixe a canela em pó exposta ao ar ou em ambientes úmidos ⚠️",
-                        "desc": "A canela em pó absorve a umidade do ar rapidamente. A umidade alta permite que fungos como Aspergillus proliferem e produzam micotoxinas tóxicas e resistentes ao calor; o controle de umidade é obrigatório."
-                    },
-                    {
-                        "title": "Não guarde a canela perto do fogão ou sob luz solar direta ☀️",
-                        "desc": "O cinnamaldeído é um óleo essencial volátil muito sensível ao calor e aos raios UV. A exposição ao calor do fogão ou ao sol degrada rapidamente o sabor, aroma e propriedades da especiaria."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Guarde em recipientes herméticos e opacos (vidro/metal/PP) — Prevenir volatilidade e umidade 🫙",
-                        "text": "Transfira imediatamente as canelas em pau ou em pó para potes de vidro opaco, latas de metal ou sacos herméticos escuros. 💡 Dica de conservação: A vedação completa evita a evaporação do cinnamaldeído e bloqueia a umidade do ar."
-                    },
-                    {
-                        "name": "Conserve em local fresco e escuro (15–20 °C) — Armazenamento em despensa seca (Pau 2–3 anos / Pó 1–2 anos) 🚪",
-                        "text": "Guarde os recipientes em um armário de cozinha fresco longe do sol. 💡 Dica de conservação: Manter um ambiente seco de 15 a 20 °C preserva o aroma por 2 a 3 anos em pau e 1 a 2 anos em pó."
-                    },
-                    {
-                        "name": "Congele grandes quantidades de canela em pó — Congelamento (2+ anos) 🧊",
-                        "text": "Para grandes quantidades de canela em pó, mantenha o necessário para 1–2 meses na despensa e congele o restante em sacos Ziploc (-18 °C). 💡 Dica de conservação: Temperaturas negativas congelam a evaporação de óleos essenciais e eliminam riscos de micotoxinas."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Minha canela em pó ficou empelotada ou úmida. É seguro usar?",
-                        "answer": "A canela em pó empelotada indica que absorveu umidade do ar. Se os grumos se desmancharem facilmente e o cheiro estiver normal, pode ser usada. Porém, se cheirar a mofo ou escurecer, descarte imediatamente devido ao risco de micotoxinas."
-                    },
-                    {
-                        "question": "Qual dura mais: canela em pau ou canela em pó?",
-                        "answer": "A canela em pau dura muito mais! A canela em pau tem uma área exposta menor, retardando a evaporação de óleos essenciais e reduzindo o risco de umidade. A canela em pau mantém o aroma por 2 a 3 anos ou mais; ralar na hora garante o melhor sabor."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Kayu Manis (Cinnamon) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui metode penyimpanan optimal untuk mencegah penguapan minyak atsiri (sinnamaldehida), pencegahan mikotoksin akibat kelembapan, serta masa simpan berdasarkan panduan resmi USDA & FDA.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Kayu manis (cinnamon) adalah rempah-rempah beraroma hangat nan harum yang sangat populer untuk hidangan penutup, minuman, kari, dan masakan gurih! 🌿🪵\n\nKayu manis memiliki rasa hangat dan sifat antibakteri berkat kandungan senyawa 'sinnamaldehida' (cinnamaldehyde), sejenis minyak atsiri yang mudah menguap. Namun, paparan udara dan panas membuat sinnamaldehida menguap dengan cepat, menyebabkan hilangnya aroma dan rasa. Selain itu, bubuk kayu manis memiliki luas permukaan besar yang menyerap kelembapan udara dengan cepat, memicu timbulnya jamur dan mikotoksin tahan panas.\n\nDalam panduan ini, berdasarkan fakta ilmiah yang diverifikasi oleh USDA, FDA, dan MFDS, kami membagikan strategi penyimpanan 3 langkah untuk melindungi minyak atsiri sinnamaldehida dan memblokir risiko mikotoksin. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami sifat minyak atsiri sinnamaldehida yang mudah menguap serta mencegah penyerapan kelembapan pada bubuk kayu manis untuk menghentikan racun jamur adalah kunci penyimpanan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan pernah membiarkan bubuk kayu manis terpapar udara atau di tempat lembap ⚠️",
-                        "desc": "Bubuk kayu manis menyerap kelembapan udara dengan cepat. Kelembapan tinggi memicu jamur Aspergillus berkembang dan menghasilkan mikotoksin berbahaya dan tahan panas (seperti aflatoksin); kontrol kelembapan sangat wajib."
-                    },
-                    {
-                        "title": "Jangan menyimpan kayu manis di dekat kompor atau terkena sinar matahari langsung ☀️",
-                        "desc": "Sinnamaldehida adalah minyak atsiri yang sangat sensitif terhadap panas dan sinar UV. Paparan panas kompor atau sinar matahari membuat aroma dan khasiat kayu manis hilang dengan cepat."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Simpan dalam wadah kedap udara tahan cahaya (kaca/logam/PP) — Cegah Penguapan & Kelembapan 🫙",
-                        "text": "Segera pindahkan kayu manis batang atau bubuk ke dalam toples kaca gelap, kaleng logam, atau kantong kedap udara buram. 💡 Tips Penyimpanan: Penyegelan rapat menghentikan penguapan sinnamaldehida dan memblokir kelembapan udara."
-                    },
-                    {
-                        "name": "Simpan di tempat sejuk dan gelap (15–20°C) — Simpan Lemari Dapur Kering (Batang 2–3 Tahun / Bubuk 1–2 Tahun) 🚪",
-                        "text": "Simpan wadah kedap udara di lemari dapur sejuk terhindar dari sinar matahari. 💡 Tips Penyimpanan: Menjaga lingkungan kering pada suhu 15–20°C mempertahankan aroma hangat selama 2 hingga 3 tahun untuk batang dan 1 hingga 2 tahun untuk bubuk."
-                    },
-                    {
-                        "name": "Bekukan bubuk kayu manis dalam jumlah besar — Simpan Freezer Jangka Panjang (2+ Tahun) 🧊",
-                        "text": "Untuk bubuk kayu manis jumlah besar, simpan porsi 1–2 bulan di lemari dapur dan bekukan sisanya dalam kantong Ziploc (-18°C). 💡 Tips Penyimpanan: Suhu di bawah nol menghentikan penguapan minyak atsiri dan memblokir risiko mikotoksin."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Bubuk kayu manis saya menggumpal atau agak lembap. Apakah masih aman digunakan?",
-                        "answer": "Bubuk kayu manis yang menggumpal menandakan adanya penyerapan kelembapan udara. Jika gumpalan mudah dihancurkan dan aromanya normal, bubuk masih dapat digunakan. Namun jika berbau apek atau warnanya menggelap, segera buang karena berisiko terkontaminasi mikotoksin."
-                    },
-                    {
-                        "question": "Mana yang bertahan lebih lama: kayu manis batang atau bubuk kayu manis?",
-                        "answer": "Kayu manis batang bertahan jauh lebih lama! Batang kayu manis memiliki luas permukaan lebih kecil sehingga penguapan minyak atsiri lebih lambat dan risiko penyerapan kelembapan lebih rendah. Kayu manis batang bertahan 2–3 tahun lebih saat disegel rapat; memarutnya saat akan digunakan memberikan aroma terbaik."
-                    }
-                ]
-            }
-        }
+  "how-to-store-cinnamon": {
+    "ingId": "cinnamon",
+    "pubDate": "2026-07-20",
+    "updatedDate": "2026-07-20",
+    "heroImage": "/images/blog/cinnamon_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "계피(시나몬) 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 식품 안전 가이드라인(USDA·FDA)에 따른 계피 및 계피 가루의 정유(시남알데하이드) 휘발 방지법, 흡습 곰팡이독소 예방 및 보관 기간을 확인하세요.",
+        "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
+        "intro": "특유의 알싸한 향과 달콤한 풍미로 디저트, 음료, 카레 등에 폭넓게 쓰이는 대표적인 향신료 계피(시나몬)! 🌿🪵\n\n계피는 유익한 항산화 물질과 독특한 풍미를 선사하는 천연 향신료입니다. 하지만 계피의 핵심 향미 및 항균 성분인 '시남알데하이드(Cinnamaldehyde)'는 휘발성 정유 성분으로, 공기와 열에 노출되면 유효 성분이 급격히 날아가 향을 잃어버립니다. 특히 계피 가루는 입자가 고와 표면적이 넓기 때문에 공기 중의 수분을 빠르게 흡수하여 곰팡이가 피거나 곰팡이독소가 생성되기 매우 쉽습니다.\n\n이번 가이드에서는 미국 USDA, FDA 및 식품의약품안전처의 검증된 가이드라인을 바탕으로, 시남알데하이드 정유 성분을 지키고 곰팡이독소 위험을 완벽히 차단하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "계피 속 핵심 정유 성분인 시남알데하이드의 휘발 특성과 계피 가루의 수분 흡습에 따른 곰팡이독소 생성 메커니즘을 이해하고, 차광·밀폐 환경을 제공하는 것이 핵심입니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "계피 가루를 공기 중에 노출시키거나 습한 곳에 두지 마세요 ⚠️",
+            "desc": "계피 가루는 표면적이 넓어 공기 중 수분을 빠르게 흡습합니다. 습도가 높아지면 아스페르길루스 등의 곰팡이가 번식하여 열로도 파괴되지 않는 곰팡이독소(아플라톡신 등)를 생성하므로 반드시 수분을 차단해야 합니다."
+          },
+          {
+            "title": "계피를 가스레인지 옆이나 햇빛이 드는 곳에 보관하지 마세요 ☀️",
+            "desc": "계피의 핵심 유효 성분인 시남알데하이드(Cinnamaldehyde)는 고온과 자외선에 매우 취약한 휘발성 정유입니다. 가스레인지 주변의 열기나 햇빛에 노출되면 향미가 급격히 소실되고 약리 작용이 저하됩니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "빛과 공기를 차단하는 차광 밀폐 용기(유리/금속/PP)에 담기 — 정유 휘발 및 흡습 차단 🫙",
+            "text": "계피 스틱이나 계피 가루를 개봉한 즉시 차광 유리병, 불투명 밀폐 용기, 또는 차광 지퍼백에 옮겨 담으세요. 💡 보관 팁: 공기와의 접촉을 완벽히 차단하면 시남알데하이드 정유 성분의 휘발을 막고 공기 중 습기 흡수를 차단할 수 있습니다."
+          },
+          {
+            "name": "직사광선이 없는 서늘한 암소(15 - 20℃)에 보관하기 — 상온 건소 보관 (스틱 2 - 3년 / 가루 1 - 2년) 🚪",
+            "text": "밀폐한 차광 용기를 주방 하부장이나 팬트리 같은 서늘하고 어두운 곳에 보관하세요. 💡 보관 팁: 15 - 20℃ 이하의 일정한 온도와 건조한 환경을 유지하면 계피 스틱은 2 - 3년, 계피 가루는 1 - 2년 동안 알싸하고 달콤한 향을 그대로 보존할 수 있습니다."
+          },
+          {
+            "name": "대량의 계피 가루는 소분하여 냉동 보관하기 — 장기 냉동 보관 (2년 이상) 🧊",
+            "text": "대용량 계피 가루는 1 - 2달 사용할 양만 상온 밀폐 용기에 두고, 나머지는 소분하여 지퍼백에 담아 냉동실(-18℃ 이하)에 두세요. 💡 보관 팁: 극저온 환경에서는 정유 성분의 휘발이 거의 멈추고 습도에 의한 곰팡이독소 발생 위험을 완전히 배제할 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "계피 가루가 눅눅해지거나 덩어리졌는데 사용해도 되나요?",
+            "answer": "덩어리진 계피 가루는 공기 중의 수분을 흡습했다는 신호입니다. 단순히 굳은 것이라면 가볍게 두드려 깨뜨린 후 즉시 사용 가능하지만, 만약 퀴퀴한 곰팡이 냄새가 나거나 색이 어둡게 변했다면 곰팡이독소 오염 위험이 있으므로 즉시 폐기하셔야 합니다."
+          },
+          {
+            "question": "계피 스틱과 계피 가루 중 어느 것이 더 오래 보관되나요?",
+            "answer": "계피 스틱이 훨씬 오래 보관됩니다! 계피 스틱은 표면적이 작아 정유 성분의 휘발 속도가 훨씬 느리며, 수분 흡습 위험도 적습니다. 계피 스틱은 밀폐 보관 시 2 - 3년 이상 향을 유지하므로, 필요할 때마다 그라인더로 갈아 가루로 만드는 것이 가장 향긋하게 즐기는 방법입니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Cinnamon Fresh: Scientific Storage Guide",
+        "description": "Check optimal storage methods to prevent essential oil (cinnamaldehyde) volatility, moisture-induced mycotoxins, and shelf life for cinnamon sticks and powder based on USDA & FDA guidelines.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Cinnamon is a beloved, warming spice widely used in desserts, beverages, curries, and savory dishes! 🌿🪵\n\nCinnamon owes its iconic warm flavor, aroma, and antibacterial properties to 'cinnamaldehyde,' a volatile essential oil. However, exposure to air and heat causes cinnamaldehyde to evaporate rapidly, leading to loss of flavor. Furthermore, ground cinnamon powder has a large surface area that quickly absorbs atmospheric moisture, creating a high risk of mold growth and heat-stable mycotoxin production.\n\nIn this guide, based on scientifically verified guidelines from the USDA, FDA, and MFDS, we present a 3-step optimal storage strategy to protect cinnamaldehyde essential oils and eliminate mycotoxin risks. 🛡️",
+        "whyTitle": "Why Store Cinnamon This Way? Scientific Facts",
+        "whyDesc": "Understanding the volatile nature of cinnamaldehyde essential oils and preventing moisture absorption in powdered cinnamon to block mycotoxin formation is key to long-term preservation.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never leave ground cinnamon exposed to air or humid environments ⚠️",
+            "desc": "Ground cinnamon has a large surface area that rapidly absorbs ambient humidity. Increased moisture allows Aspergillus molds to proliferate and generate toxic, heat-stable mycotoxins (such as aflatoxins); moisture control is mandatory."
+          },
+          {
+            "title": "Do not store cinnamon near stoves or in direct sunlight ☀️",
+            "desc": "Cinnamaldehyde, cinnamon's primary active compound, is a volatile essential oil highly sensitive to heat and UV light. Exposure to stovetop heat or sunlight rapidly degrades flavor, aroma, and health benefits."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Store in lightproof, airtight containers (glass/metal/PP) — Prevent Volatility & Moisture 🫙",
+            "text": "Immediately transfer cinnamon sticks or powder into opaque glass jars, metal tins, or lightproof airtight pouches. 💡 Storage Tip: Complete sealing prevents cinnamaldehyde evaporation and blocks moisture absorption from the surrounding air."
+          },
+          {
+            "name": "Keep in a cool, dark place (15–20°C) — Dry Pantry Storage (Sticks 2–3 Years / Powder 1–2 Years) 🚪",
+            "text": "Store airtight containers in a cool, dark kitchen cabinet or pantry away from sunlight. 💡 Storage Tip: Maintaining a stable, dry environment at 15–20°C (59–68°F) preserves aromatic warmth for 2–3 years for sticks and 1–2 years for powder."
+          },
+          {
+            "name": "Freeze large quantities of ground cinnamon — Long-Term Freezing (2+ Years) 🧊",
+            "text": "For bulk ground cinnamon, keep a 1-to-2-month supply in a pantry container and freeze the rest in portions in Ziploc freezer bags (-18°C / 0°F or lower). 💡 Storage Tip: Sub-zero temperatures virtually stop essential oil evaporation and eliminate mold/mycotoxin risks."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "My ground cinnamon became clumpy or damp. Is it safe to use?",
+            "answer": "Clumpy cinnamon powder indicates moisture absorption from the air. If the clumps break apart easily and it smells normal, it can still be used. However, if it smells musty or has darkened in color, discard it immediately due to potential mycotoxin contamination."
+          },
+          {
+            "question": "Which lasts longer: cinnamon sticks or ground cinnamon?",
+            "answer": "Cinnamon sticks last significantly longer! Sticks have a much smaller surface area, slowing down essential oil evaporation and reducing moisture absorption risks. Sticks retain flavor for 2–3+ years when sealed airtight; grinding them fresh yields the best flavor."
+          }
+        ]
+      },
+      "ja": {
+        "title": "シナモン（Cinnamon）を新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的食品安全ガイドライン（USDA・FDA）に基づくシナモンスティックおよびシナモンパウダーの精油（シンナムアルデヒド）揮発防止法、吸湿カビ毒予防および保存期間をご確認ください。",
+        "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
+        "intro": "独特の爽やかな香りと甘い風味が魅力のスパイス、シナモン（桂皮）！ 🌿🪵\n\nシナモンの豊かな香りと抗菌作用の決め手は、主成分である「シンナムアルデヒド（Cinnamaldehyde）」という揮発性の精油成分です。しかし、空気や熱に晒されるとこの有効成分は急激に揮発し、風味が失われてしまいます。特にシナモンパウダー（粉末）は表面積が広く空気中の湿気を吸湿しやすいため、カビが発生してカビ毒（アフラトキシン等）が作られる危険性が高まります。\n\n本記事では、米国USDA、FDAおよび食品医薬品安全処の検証済みガイドラインに基づき、精油成分を守りカビ毒のリスクを遮断する3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "シナモンに含まれるシンナムアルデヒド精油の揮発特性と、パウダーの吸湿に伴うカビ毒発生メカニズムを理解し、遮光・密閉環境を維持することが保存の核心です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "シナモンパウダーを空気中に露出させたり湿気のある場所に置かないでください ⚠️",
+            "desc": "シナモンパウダーは表面積が広く空気中の湿気を素早く吸湿します。湿度が高くなるとアスペルギルスなどのカビが繁殖し、加熱しても分解されないカビ毒（アフラトキシン等）が発生するため、確実に湿気を遮断してください。"
+          },
+          {
+            "title": "シナモンをコンロの脇や日光が当たる場所に保管しないでください ☀️",
+            "desc": "シナモンの主要有効成分であるシンナムアルデヒド（Cinnamaldehyde）は、高温や紫外線に非常に弱い揮発性精油です。コンロの熱や直射日光に晒されると風味が急速に損なわれ薬理効果が低下します。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "光と空気を遮断する遮光密閉容器（ガラス/金属/PP）に入れる — 精油の揮発＆吸湿遮断 🫙",
+            "text": "シナモンスティックやパウダーを開封したらすぐに遮光ガラス瓶、不透明密閉容器、または遮光ジッパーバッグに移し替えてください。💡保存のコツ：空気との接触を完全に遮断することで、シンナムアルデヒド精油の揮発を防ぎ湿気の吸湿をブロックできます。"
+          },
+          {
+            "name": "直射日光の当たらない涼しい暗所（15〜20℃）で保存する — 常温乾燥保存 (スティック2〜3年 / パウダー1〜2年) 🚪",
+            "text": "密閉した遮光容器を戸棚やパントリーなどの涼しく暗い場所に保管してください。💡保存のコツ：15〜20℃以下の一定温度と乾燥環境を維持すれば、スティックは2〜3年、パウダーは1〜2年間豊かな香りを保てます。"
+          },
+          {
+            "name": "大量のシナモンパウダーは小分けして冷凍保存する — 長期冷凍保存 (2年以上) 🧊",
+            "text": "大容量のパウダーは1〜2ヶ月分だけ常温容器に残し、残りは小分けしてチャック付き袋に入れ冷凍室（-18℃以下）で保管してください。💡保存のコツ：極低温環境では精油の揮発がほぼ停止し、湿気によるカビ毒の発生リスクを完全になくすことができます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "シナモンパウダーが湿気て固まりができていますが使っても大丈夫ですか？",
+            "answer": "固まったシナモンパウダーは空気中の湿気を吸湿したサインです。単に固まっているだけなら軽くほぐしてすぐ使用できますが、カビ臭い臭いがする場合や色が濃く変色している場合はカビ毒汚染のリスクがあるため、すぐに破棄してください。"
+          },
+          {
+            "question": "シナモンスティックとシナモンパウダーのどちらが長く保存できますか？",
+            "answer": "シナモンスティックの方がはるかに長く保存できます！スティックは表面積が小さいため精油成分の揮発速度が遅く、吸湿のリスクも少ないです。スティックは密閉保存で2〜3年以上香りを保つため、使用する度にミルやグレーターで削って使うのが最も芳醇に楽しむ方法です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持肉桂/肉桂粉（Cinnamon）新鲜：科学储存指南",
+        "description": "根据USDA及FDA官方食品安全指南，了解肉桂及肉桂粉防止精油（肉桂醛）挥发、防止吸湿滋生霉菌毒素的方法及保质期。",
+        "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "肉桂（Cinnamon）带有独特的辛香与甜美风味，是甜品、饮料、咖喱和各种烘焙中的明星香料！ 🌿🪵\n\n肉桂的核心风味与抗菌功效源于其挥发性精油成分——“肉桂醛（Cinnamaldehyde）”。然而，肉桂醛极易受空气与高温影响而迅速挥发，导致香味流失。尤其是肉桂粉，因颗粒细小、表面积大，极易吸收空气中的水分，从而滋生霉菌并产生耐高温的霉菌毒素（黄曲霉毒素等）。\n\n本指南基于美国USDA、FDA及韩国MFDS验证的科学指南，为您带来3步科学储存秘诀，保护肉桂精油成分并彻底杜绝霉菌毒素风险。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解肉桂中的肉桂醛精油易挥发的特性，以及肉桂粉吸湿后滋生霉菌毒素的机制，保持避光与密封环境是长期保存的关键所在。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "切勿将肉桂粉暴露于空气中或存放在潮湿处 ⚠️",
+            "desc": "肉桂粉表面积大，会快速吸收空气中的湿气。湿度升高会导致曲霉菌等霉菌滋生，产生即使高温加热也无法破坏的霉菌毒素（黄曲霉毒素等），因此必须严格隔绝水分。"
+          },
+          {
+            "title": "切勿将肉桂存放在灶台旁或阳光直射处 ☀️",
+            "desc": "肉桂中的核心有效成分肉桂醛（Cinnamaldehyde）是对高温和紫外线极度敏感的挥发性精油。暴露于灶台余热或阳光下会导致香味急剧流失，营养功效大幅降低。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "装入避光密封容器（玻璃/金属/PP） — 阻断精油挥发与吸湿 🫙",
+            "text": "开封肉桂卷或肉桂粉后，请立即倒入棕色玻璃瓶、不透明金属罐或避光密封袋中。💡储存小贴士：彻底隔绝空气接触可防止肉桂醛精油挥发，并阻断对环境中水分的吸收。"
+          },
+          {
+            "name": "存放在无阳光直射的阴凉暗处（15 - 20℃） — 常温干燥保存（肉桂卷2 - 3年 / 肉桂粉1 - 2年） 🚪",
+            "text": "将密封避光罐存放在阴凉干燥的橱柜或食品柜中。💡储存小贴士：保持15 - 20℃以下的恒温干燥环境，肉桂卷可保存2 - 3年，肉桂粉可保存1 - 2年且风味不减。"
+          },
+          {
+            "name": "大批量肉桂粉请分装冷冻 — 长期冷冻保存（2年以上） 🧊",
+            "text": "若大批量购买肉桂粉，只需在常温罐中留出1 - 2个月的用量，其余分装入拉链袋冷冻（-18℃以下）。💡储存小贴士：极低温环境可使精油挥发几乎停滞，并能彻底杜绝因湿度引发的霉菌毒素风险。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "肉桂粉受潮结块了，还能继续使用吗？",
+            "answer": "结块的肉桂粉说明已吸收了空气中的水分。如果只是单纯变硬，轻轻敲碎后可立即使用；但如果散发出霉味或颜色变深，则存在霉菌毒素污染风险，必须立即丢弃。"
+          },
+          {
+            "question": "肉桂卷（棒）和肉桂粉哪个保质期更长？",
+            "answer": "肉桂卷（棒）的保存时间要长得多！肉桂卷的表面积小，精油挥发速度极慢，且吸湿风险小。肉桂卷密封保存可维持2 - 3年以上的浓郁香味，需要时用研磨器现磨成粉是品尝最纯正风味的绝佳方法。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener fresca la canela: Guía científica de conservación",
+        "description": "Descubra los métodos óptimos para prevenir la volatilidad del aceite esencial (cinnamaldehído), la absorción de humedad y micotoxinas, y la vida útil según la USDA y la FDA.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "¡La canela (cinnamon) es una especia aromática y cálida sumamente popular para postres, bebidas, curris y platos salados! 🌿🪵\n\nLa canela debe su característico sabor cálido, su aroma y sus propiedades antibacterianas al 'cinnamaldehído', un aceite esencial volátil. Sin embargo, la exposición al aire y al calor hace que el cinnamaldehído se evapore rápidamente, perdiendo sabor y aroma. Además, la canela molida en polvo tiene una amplia superficie que absorbe la humedad ambiental, creando un alto riesgo de moho y producción de micotoxinas termoestables.\n\nEn esta guía, basada en pautas científicas de la USDA, la FDA y la MFDS, presentamos una estrategia en 3 pasos para proteger los aceites esenciales de cinnamaldehído y eliminar los riesgos de micotoxinas. 🛡️",
+        "whyTitle": "¿Por qué almacenarla así? Datos científicos",
+        "whyDesc": "Comprender la naturaleza volátil del cinnamaldehído y evitar la absorción de humedad en la canela en polvo para bloquear las micotoxinas es la clave de la conservación.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Nunca deje la canela molida expuesta al aire o en ambientes húmedos ⚠️",
+            "desc": "La canela en polvo absorbe la humedad ambiente con rapidez. La humedad alta permite que hongos como Aspergillus proliferen y generen micotoxinas tóxicas y resistentes al calor (como aflatoxinas); el control de la humedad es obligatorio."
+          },
+          {
+            "title": "No guarde la canela cerca de estufas ni bajo la luz solar directa ☀️",
+            "desc": "El cinnamaldehído es un aceite esencial volátil muy sensible al calor y a la radiación UV. La exposición al calor de la cocina o al sol degrada rápidamente su sabor, su aroma y sus beneficios terapéuticos."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Guarde en recipientes herméticos e impermeables a la luz (vidrio/metal/PP) — Prevenir volatilidad y humedad 🫙",
+            "text": "Trasvase inmediatamente las ramas o el polvo de canela a frascos opacos, latas de metal o bolsas herméticas oscuras. 💡 Consejo de almacenamiento: El sellado completo evita la evaporación del cinnamaldehído y bloquea la humedad ambiental."
+          },
+          {
+            "name": "Conserve en un lugar fresco y oscuro (15–20 °C) — Almacenamiento en despensa seca (Ramas 2–3 años / Polvo 1–2 años) 🚪",
+            "text": "Guarde los recipientes en un armario de cocina o despensa fresca alejada del sol. 💡 Consejo de almacenamiento: Mantener un ambiente seco a 15–20 °C conserva el aroma de 2 a 3 años en ramas y de 1 a 2 años en polvo."
+          },
+          {
+            "name": "Congele grandes cantidades de canela molida — Congelación prolongada (2+ años) 🧊",
+            "text": "Para grandes cantidades de canela molida, mantenga la cantidad para 1–2 meses en la despensa y congele el resto en bolsas Ziploc (-18 °C). 💡 Consejo de almacenamiento: Las temperaturas bajo cero detienen la evaporación de aceites y eliminan riesgos de micotoxinas."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mi canela molida se apelmazó o humedeció. ¿Es seguro usarla?",
+            "answer": "La canela en polvo apelmazada indica que ha absorbido humedad. Si los grumos se rompen fácilmente y huele bien, puede usarla. Sin embargo, si huele a humedad o se ha oscurecido, deséchela de inmediato por riesgo de micotoxinas."
+          },
+          {
+            "question": "¿Qué dura más: las ramas de canela o la canela molida?",
+            "answer": "¡Las ramas de canela duran mucho más! Tienen menor superficie expuesta, lo que frena la evaporación de aceites esenciales y reduce la absorción de humedad. Las ramas duran de 2 a 3 años o más si se sellan herméticamente; molerlas al momento ofrece el mejor aroma."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver la cannelle fraîche : Guide scientifique de stockage",
+        "description": "Découvrez les méthodes optimales pour éviter la volatilisation de l'huile essentielle (cinnamaldéhyde), l'absorption d'humidité et les mycotoxines selon l'USDA et la FDA.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "La cannelle (cinnamon) est une épice réconfortante et aromatique très prisée pour les desserts, boissons, currys et plats mijotés ! 🌿🪵\n\nLa cannelle doit sa saveur chaude et ses propriétés antibactériennes au « cinnamaldéhyde », une huile essentielle volatile. Cependant, l'exposition à l'air et à la chaleur entraîne l'évaporation rapide du cinnamaldéhyde et la perte d'arôme. De plus, la cannelle moulue présente une grande surface qui absorbe l'humidité ambiante, favorisant l'apparition de moisissures et de mycotoxines thermostables.\n\nDans ce guide, basé sur des données scientifiques validées par l'USDA, la FDA et le MFDS, nous vous présentons une méthode en 3 étapes pour protéger l'huile essentielle de cinnamaldéhyde et éliminer les mycotoxines. 🛡️",
+        "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre la nature volatile du cinnamaldéhyde et éviter l'absorption d'humidité par la cannelle moulue pour stopper la production de mycotoxines est la clé d'un stockage réussi.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne laissez jamais la cannelle moulue à l'air libre ou en milieu humide ⚠️",
+            "desc": "La cannelle en poudre absorbe rapidement l'humidité de l'air. L'humidité permet aux moisissures (Aspergillus) de proliférer et de sécréter des mycotoxines toxiques et résistantes à la chaleur ; le contrôle de l'humidité est obligatoire."
+          },
+          {
+            "title": "Ne stockez pas la cannelle près des plaques de cuisson ou au soleil ☀️",
+            "desc": "Le cinnamaldéhyde est une huile essentielle très sensible à la chaleur et aux UV. L'exposition à la chaleur des fourneaux ou au soleil altère rapidement le parfum, le goût et les bienfaits de l'épice."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Placer dans un récipient étanche et opaque (verre/métal/PP) — Éviter la volatilisation et l'humidité 🫙",
+            "text": "Transférez immédiatement les bâtons ou la poudre de cannelle dans un bocal opaque, une boîte métallique ou un sachet étanche à la lumière. 💡 Astuce de conservation : Une fermeture hermétique stoppe la volatilisation du cinnamaldéhyde et l'absorption d'eau."
+          },
+          {
+            "name": "Garder dans un endroit frais et sombre (15–20 °C) — Placard sec (Bâtons 2–3 ans / Poudre 1–2 ans) 🚪",
+            "text": "Conservez les récipients étanches dans un placard de cuisine à l'abri du soleil. 💡 Astuce de conservation : Conserver un environnement sec à 15–20 °C préserve le parfum de 2 à 3 ans pour les bâtons et de 1 à 2 ans pour la poudre."
+          },
+          {
+            "name": "Congeler la cannelle moulue en grande quantité — Congélation longue durée (2+ ans) 🧊",
+            "text": "Pour de grandes quantités de cannelle moulue, gardez une réserve de 1 à 2 mois dans le placard et congelez le reste par portions dans des sachets Ziploc (-18 °C). 💡 Astuce de conservation : Les températures négatives stoppen la volatilisation de l'huile essentielle et écartent les mycotoxines."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Ma cannelle moulue s'est agglomérée ou est devenue humide. Est-elle consommable ?",
+            "answer": "Une cannelle en poudre qui s'agglomère a absorbé de l'humidité. Si les grumeaux se brisent facilement et que l'odeur est normale, elle peut être utilisée. En revanche, si une odeur de renfermé se dégage ou si la couleur a noirci, jetez-la immédiatement en raison des risques de mycotoxines."
+          },
+          {
+            "question": "Qui se conserve le plus longtemps : les bâtons de cannelle ou la cannelle moulue ?",
+            "answer": "Les bâtons de cannelle se conservent beaucoup plus longtemps ! Ils présentent une surface réduite, ce qui ralentit la volatilisation de l'huile essentielle et réduit les risques d'humidité. Les bâtons gardent leur parfum pendant 2 à 3 ans ou plus ; les moudre au besoin offre la meilleure saveur."
+          }
+        ]
+      },
+      "de": {
+        "title": "Zimt richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimalen Lagerungsmethoden zur Vermeidung der Verflüchtigung ätherischer Öle (Cinnamaldehyd), Feuchtigkeitsaufnahme und Mykotoxinen nach USDA & FDA.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Zimt (Cinnamon) ist ein beliebtes, wärmendes Gewürz für Desserts, Getränke, Currys und herzhafte Gerichte! 🌿🪵\n\nZimt verdankt seinen aromatischen Geschmack und seine antibakteriellen Eigenschaften dem ätherischen Öl „Cinnamaldehyd“. Luft- und Hitzeeinfluss führen jedoch dazu, dass Cinnamaldehyd rasch verflüchtigt und das Aroma nachlässt. Zudem besitzt gemahlener Zimt eine große Oberfläche, die Luftfeuchtigkeit schnell aufnimmt, was Schimmelbildung und hitzebeständige Mykotoxine begünstigt.\n\nIn diesem Ratgeber stellen wir Ihnen auf Basis wissenschaftlicher Richtlinien von USDA, FDA und MFDS eine 3-Schritte-Methode vor, um das ätherische Cinnamaldehyd-Öl zu schützen und Mykotoxinrisiken auszuschließen. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der flüchtigen Natur des ätherischen Cinnamaldehyd-Öls und das Verhindern von Feuchtigkeitsaufnahme bei gemahlenem Zimt zur Stoppung von Mykotoxinen ist der Schlüssel zur Haltbarkeit.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Gemahlenen Zimt niemals ungeschützt oder in feuchter Umgebung lagern ⚠️",
+            "desc": "Zimtpulver nimmt Feuchtigkeit rasch auf. Erhöhte Feuchtigkeit ermöglicht Aspergillus-Schimmelpilzen das Wachstum und die Bildung giftiger, hitzebeständiger Mykotoxine (Aflatoxine); Feuchtigkeitsschutz ist Pflicht."
+          },
+          {
+            "title": "Zimt nicht nahe Herden oder in direktem Sonnenlicht aufbewahren ☀️",
+            "desc": "Cinnamaldehyd ist ein ätherisches Öl, das empfindlich auf Hitze und UV-Licht reagiert. Herdwärme oder Sonne bauen Geschmack, Aroma und gesundheitliche Vorteile rasch ab."
+          }
+        ],
+        "steps": [
+          {
+            "name": "In lichtundurchlässige, luftdichte Behälter (Glas/Metall/PP) füllen — Verflüchtigung & Feuchtigkeit stoppen 🫙",
+            "text": "Füllen Sie Zimtstangen oder Zimtpulver sofort in Braungläser, Metalldosen oder opaque Zip-Beutel um. 💡 Lagerungstipp: Dichtes Verschließen verhindert das Verflüchtigen von Cinnamaldehyd und blockiert Feuchtigkeit."
+          },
+          {
+            "name": "An einem kühlen, dunklen Ort (15–20 °C) aufbewahren — Vorratskammer (Stangen 2–3 Jahre / Pulver 1–2 Jahre) 🚪",
+            "text": "Bewahren Sie die Behälter in einem kühlen Küchenschrank ohne Sonne auf. 💡 Lagerungstipp: Eine trockene Umgebung bei 15–20 °C erhält das würzige Aroma bei Stangen für 2–3 Jahre und bei Pulver für 1–2 Jahre."
+          },
+          {
+            "name": "Große Mengen Zimtpulver einfrieren — Langzeit-Gefrierlagerung (2+ Jahre) 🧊",
+            "text": "Lassen Sie bei Großpackungen nur den Bedarf für 1–2 Monate im Schrank und frieren Sie den Rest in Beuteln ein (-18 °C). 💡 Lagerungstipp: Minustemperaturen stoppen die Ölverflüchtigung nahezu vollständig und schließen Mykotoxinrisiken aus."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mein gemahlener Zimt ist klumpig oder feucht geworden. Kann ich ihn noch verwenden?",
+            "answer": "Klumpiges Zimtpulver zeigt, dass es Feuchtigkeit aufgenommen hat. Lassen sich die Klumpen leicht zerdrücken und riecht er normal, kann er verwendet werden. Riecht er muffig oder ist dunkel geworden, wegen Mykotoxingeit sofort entsorgen."
+          },
+          {
+            "question": "Was hält länger: Zimtstangen oder gemahlener Zimt?",
+            "answer": "Zimtstangen halten deutlich länger! Stangen haben eine viel kleinere Oberfläche, was die Verflüchtigung verlangsamt und das Feuchtigkeitsrisiko senkt. Stangen halten luftdicht 2–3+ Jahre; frisches Reiben liefert das beste Aroma."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar a canela fresca: Guia científico de armazenamento",
+        "description": "Descubra os métodos ideais de conservação para prevenir a volatilização do óleo essencial (cinnamaldeído), absorção de umidade e micotoxinas segundo a USDA e FDA.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "A canela (cinnamon) é uma especiaria aromática e marcante usada em sobremesas, bebidas, curries e pratos salgados! 🌿🪵\n\nA canela deve seu sabor aquecido e suas propriedades antibacterianas ao 'cinnamaldeído', um óleo essencial volátil. No entanto, a exposição ao ar e ao calor faz com que o cinnamaldeído se evapore rapidamente, perdendo o aroma. Além disso, a canela em pó tem uma grande área de superfície que absorve rapidamente a umidade do ar, criando alto risco de mofo e produção de micotoxinas resistentes ao calor.\n\nNeste guia, baseado em diretrizes científicas da USDA, FDA e MFDS, apresentamos um método em 3 etapas para proteger os óleos essenciais de cinnamaldeído e eliminar os riscos de micotoxinas. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Compreender a natureza volátil do cinnamaldeído e evitar a absorção de umidade na canela em pó para bloquear as micotoxinas é a chave do armazenamento.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca deixe a canela em pó exposta ao ar ou em ambientes úmidos ⚠️",
+            "desc": "A canela em pó absorve a umidade do ar rapidamente. A umidade alta permite que fungos como Aspergillus proliferem e produzam micotoxinas tóxicas e resistentes ao calor; o controle de umidade é obrigatório."
+          },
+          {
+            "title": "Não guarde a canela perto do fogão ou sob luz solar direta ☀️",
+            "desc": "O cinnamaldeído é um óleo essencial volátil muito sensível ao calor e aos raios UV. A exposição ao calor do fogão ou ao sol degrada rapidamente o sabor, aroma e propriedades da especiaria."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Guarde em recipientes herméticos e opacos (vidro/metal/PP) — Prevenir volatilidade e umidade 🫙",
+            "text": "Transfira imediatamente as canelas em pau ou em pó para potes de vidro opaco, latas de metal ou sacos herméticos escuros. 💡 Dica de conservação: A vedação completa evita a evaporação do cinnamaldeído e bloqueia a umidade do ar."
+          },
+          {
+            "name": "Conserve em local fresco e escuro (15–20 °C) — Armazenamento em despensa seca (Pau 2–3 anos / Pó 1–2 anos) 🚪",
+            "text": "Guarde os recipientes em um armário de cozinha fresco longe do sol. 💡 Dica de conservação: Manter um ambiente seco de 15 a 20 °C preserva o aroma por 2 a 3 anos em pau e 1 a 2 anos em pó."
+          },
+          {
+            "name": "Congele grandes quantidades de canela em pó — Congelamento (2+ anos) 🧊",
+            "text": "Para grandes quantidades de canela em pó, mantenha o necessário para 1–2 meses na despensa e congele o restante em sacos Ziploc (-18 °C). 💡 Dica de conservação: Temperaturas negativas congelam a evaporação de óleos essenciais e eliminam riscos de micotoxinas."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Minha canela em pó ficou empelotada ou úmida. É seguro usar?",
+            "answer": "A canela em pó empelotada indica que absorveu umidade do ar. Se os grumos se desmancharem facilmente e o cheiro estiver normal, pode ser usada. Porém, se cheirar a mofo ou escurecer, descarte imediatamente devido ao risco de micotoxinas."
+          },
+          {
+            "question": "Qual dura mais: canela em pau ou canela em pó?",
+            "answer": "A canela em pau dura muito mais! A canela em pau tem uma área exposta menor, retardando a evaporação de óleos essenciais e reduzindo o risco de umidade. A canela em pau mantém o aroma por 2 a 3 anos ou mais; ralar na hora garante o melhor sabor."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Kayu Manis (Cinnamon) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui metode penyimpanan optimal untuk mencegah penguapan minyak atsiri (sinnamaldehida), pencegahan mikotoksin akibat kelembapan, serta masa simpan berdasarkan panduan resmi USDA & FDA.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Kayu manis (cinnamon) adalah rempah-rempah beraroma hangat nan harum yang sangat populer untuk hidangan penutup, minuman, kari, dan masakan gurih! 🌿🪵\n\nKayu manis memiliki rasa hangat dan sifat antibakteri berkat kandungan senyawa 'sinnamaldehida' (cinnamaldehyde), sejenis minyak atsiri yang mudah menguap. Namun, paparan udara dan panas membuat sinnamaldehida menguap dengan cepat, menyebabkan hilangnya aroma dan rasa. Selain itu, bubuk kayu manis memiliki luas permukaan besar yang menyerap kelembapan udara dengan cepat, memicu timbulnya jamur dan mikotoksin tahan panas.\n\nDalam panduan ini, berdasarkan fakta ilmiah yang diverifikasi oleh USDA, FDA, dan MFDS, kami membagikan strategi penyimpanan 3 langkah untuk melindungi minyak atsiri sinnamaldehida dan memblokir risiko mikotoksin. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami sifat minyak atsiri sinnamaldehida yang mudah menguap serta mencegah penyerapan kelembapan pada bubuk kayu manis untuk menghentikan racun jamur adalah kunci penyimpanan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan pernah membiarkan bubuk kayu manis terpapar udara atau di tempat lembap ⚠️",
+            "desc": "Bubuk kayu manis menyerap kelembapan udara dengan cepat. Kelembapan tinggi memicu jamur Aspergillus berkembang dan menghasilkan mikotoksin berbahaya dan tahan panas (seperti aflatoksin); kontrol kelembapan sangat wajib."
+          },
+          {
+            "title": "Jangan menyimpan kayu manis di dekat kompor atau terkena sinar matahari langsung ☀️",
+            "desc": "Sinnamaldehida adalah minyak atsiri yang sangat sensitif terhadap panas dan sinar UV. Paparan panas kompor atau sinar matahari membuat aroma dan khasiat kayu manis hilang dengan cepat."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Simpan dalam wadah kedap udara tahan cahaya (kaca/logam/PP) — Cegah Penguapan & Kelembapan 🫙",
+            "text": "Segera pindahkan kayu manis batang atau bubuk ke dalam toples kaca gelap, kaleng logam, atau kantong kedap udara buram. 💡 Tips Penyimpanan: Penyegelan rapat menghentikan penguapan sinnamaldehida dan memblokir kelembapan udara."
+          },
+          {
+            "name": "Simpan di tempat sejuk dan gelap (15–20°C) — Simpan Lemari Dapur Kering (Batang 2–3 Tahun / Bubuk 1–2 Tahun) 🚪",
+            "text": "Simpan wadah kedap udara di lemari dapur sejuk terhindar dari sinar matahari. 💡 Tips Penyimpanan: Menjaga lingkungan kering pada suhu 15–20°C mempertahankan aroma hangat selama 2 hingga 3 tahun untuk batang dan 1 hingga 2 tahun untuk bubuk."
+          },
+          {
+            "name": "Bekukan bubuk kayu manis dalam jumlah besar — Simpan Freezer Jangka Panjang (2+ Tahun) 🧊",
+            "text": "Untuk bubuk kayu manis jumlah besar, simpan porsi 1–2 bulan di lemari dapur dan bekukan sisanya dalam kantong Ziploc (-18°C). 💡 Tips Penyimpanan: Suhu di bawah nol menghentikan penguapan minyak atsiri dan memblokir risiko mikotoksin."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Bubuk kayu manis saya menggumpal atau agak lembap. Apakah masih aman digunakan?",
+            "answer": "Bubuk kayu manis yang menggumpal menandakan adanya penyerapan kelembapan udara. Jika gumpalan mudah dihancurkan dan aromanya normal, bubuk masih dapat digunakan. Namun jika berbau apek atau warnanya menggelap, segera buang karena berisiko terkontaminasi mikotoksin."
+          },
+          {
+            "question": "Mana yang bertahan lebih lama: kayu manis batang atau bubuk kayu manis?",
+            "answer": "Kayu manis batang bertahan jauh lebih lama! Batang kayu manis memiliki luas permukaan lebih kecil sehingga penguapan minyak atsiri lebih lambat dan risiko penyerapan kelembapan lebih rendah. Kayu manis batang bertahan 2–3 tahun lebih saat disegel rapat; memarutnya saat akan digunakan memberikan aroma terbaik."
+          }
+        ]
+      }
     }
+  }
 }

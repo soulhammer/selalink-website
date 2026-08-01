@@ -1,315 +1,315 @@
 {
-    "heo-jun-herbal-categorization": {
-        "pubDate": "2026-02-08",
-        "updatedDate": "2026-02-08",
-        "heroImage": "/images/blog/heo_jun_herbal_categorization.webp",
-        "locales": {
-            "ko": {
-                "title": "지식의 대중화: 허준의 의학 데이터 대조 분류 습관과 이중 코딩",
-                "description": "《동의보감》의 저자 허준이 수천 가지 의서와 약재 효능을 한문과 한글로 대조 분류하여 유네스코 세계기록유산을 탄생시킨 '데이터 교차 분류' 습관의 인지적 원리와 3단계 가이드를 소개합니다.",
-                "authority": "Heo Jun, *Dongui Bogam* (1613) & *Dual Coding Theory (Allan Paivio)* & *Information Architecture Research*",
-                "intro": "\"아무리 고귀한 의학 지식이라도 백성이 알지 못하고 쓰지 못한다면 죽은 학문에 불과하다.\" 🌿\n\n조선 최고의 어의이자 불후의 의학 백과사전 『동의보감(東醫寶鑑)』을 집필한 허준(Heo Jun, 1539–1615). 임진왜란의 참화와 전염병 속에서 정형화된 서적조차 부족했던 시절, 그는 어떻게 500여 권의 난해한 한문 의서와 수천 가지 민간 처방을 누구나 쉽게 찾을 수 있는 완벽한 지식 체계로 재구성해냈을까요?\n\n허준에게는 수많은 의서의 약재 효능과 처방법을 정밀하게 교차 분류하는 '대조 데이터 분류 습관(Herbal Medicine Categorization)'이 있었습니다. 그는 어려운 한문 약재명 옆에 백성들이 일상에서 부르는 한글 이름인 '향명(鄕名)'을 함께 적고, 채취 시기와 효능, 조제법을 속성별로 일목요연하게 대조 분류했습니다. 난해한 학술 언어를 대중의 삶 속 언어로 일대일 교차 번역해낸 이 정교한 데이터 구조화 습관 덕분에, 『동의보감』은 단순한 의서를 넘어 유네스코 세계기록유산에 등재된 인류 최고의 의학 데이터베이스로 탄생할 수 있었습니다.\n\n오늘 포스트에서는 허준이 실천했던 데이터 대조 분류 습관의 인지과학적 작동 원리와 현대인들이 복잡한 전문 지식을 자신의 것으로 체화하고 타인에게 명확히 전달하기 위한 3단계 실행 가이드를 알아봅니다.",
-                "whyTitle": "학술 언어와 경험 언어를 결합하는 '이중 코딩(Dual Coding)'과 정보 아키텍처",
-                "whyDesc": "어려운 전문 용어나 추상적 개념만을 뇌에 입력하면 정보의 접근성과 회상 속도가 떨어집니다. 허준처럼 전문적 언어(한문)와 친숙한 일상 언어(한글 향명)를 대조 분류하는 행위는 인지심리학의 <strong>'이중 코딩 이론(Dual Coding Theory)'</strong>을 작동시킵니다. 전문 지식을 직관적 언어와 일대일로 연결할 때 뇌의 <strong>작업 기억(Working Memory)</strong> 부하가 획기적으로 줄어들며, 정보의 검색(Retrieval) 속도와 인지적 체화 수준이 극대화됩니다.",
-                "cautionTitle": "단순 수집에 그치지 않고 일대일 대조 속성(Property)을 명확히 정의하는 수칙",
-                "cautionDesc": "대조 데이터 분류 루틴을 진행할 때 가장 주의해야 할 점은 단순한 정보의 복사나 나열에 그치지 않는 것입니다. 전문 용어 옆에 자신이 쉽게 이해할 수 있는 '나만의 직관적 언어'를 일대일로 대조 배치하고, 쓰임새·핵심 특징·적용 맥락 등의 속성(Property)을 명확히 구획하여 작성해야 뇌 속 지식 아키텍처가 구축됩니다.",
-                "steps": [
-                    {
-                        "title": "전문 지식 원천 및 직관적 대조 언어 매핑 체계 구축",
-                        "desc": "자신이 습득하려는 전문 분야(기술 용어, 법률, 비즈니스 수치 등)의 데이터 원천을 정하고, 이를 1:1로 번역할 자신만의 쉬운 언어나 매개변수 칸을 마련합니다."
-                    },
-                    {
-                        "title": "속성별(카테고리·효능·맥락) 정밀 대조 정리",
-                        "desc": "복잡한 정보를 한 눈에 파악할 수 있도록 전문 개념, 직관적 해설, 적용 맥락,주의사항의 4가지 속성으로 나누어 정밀하게 대조 분류합니다."
-                    },
-                    {
-                        "title": "주간 데이터 색인화 및 즉각적 지식 검색 테스트",
-                        "desc": "주 1회 정리된 데이터베이스를 복기하며 특정 상황 발생 시 필요한 지식을 3초 이내에 찾아 적용할 수 있는지 검색(Retrieval) 테스트를 진행합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "의학이나 데이터 분야가 아닌 일반 사무직이나 학생에게도 이 분류 습관이 필요한가요?",
-                        "answer": "네, 매우 필수적입니다. 복잡한 업무 매뉴얼, 전문 학술 개념, 고객 피드백 등을 자신만의 직관적 언어로 대조 정리해두면 업무 처리 속도가 비약적으로 향상되고 타인과의 소통 능력이 대폭 강화됩니다."
-                    },
-                    {
-                        "question": "매번 전문 용어를 쉬운 언어로 대조 정리하는 것이 번거롭지 않나요?",
-                        "answer": "초기 정리에는 시간이 소요되지만, 한 번 구축된 대조 데이터베이스는 향후 반복적인 학습 시간을 80% 이상 단축해 줍니다. 지식의 재가공 단계를 거칠 때 비로소 '진짜 자신의 지식'이 됩니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Democratizing Knowledge: Heo Jun's Medical Data Categorization and Dual Coding",
-                "description": "Discover how Heo Jun, author of 'Dongui Bogam', created a UNESCO World Record dataset by cross-categorizing complex medical texts into classical Chinese and everyday Hangul. Learn a 3-step guide to Dual Coding and Information Architecture.",
-                "authority": "Heo Jun, *Dongui Bogam* (1613) & *Dual Coding Theory (Allan Paivio)* & *Information Architecture Research*",
-                "intro": "\"No matter how noble medical knowledge is, if the common people cannot understand or use it, it is merely dead scholarship.\" 🌿\n\nHeo Jun (1539–1615), the legendary royal physician of the Joseon Dynasty and author of the immortal medical encyclopedia 'Dongui Bogam'. Amidst the devastation of war and rampant epidemics, without modern database tools, how did he synthesize over 500 complex classical medical texts into a perfectly structured, accessible knowledge system?\n\nHeo Jun practiced a relentless habit of 'Herbal Medicine Categorization'. Alongside classical Chinese names of over 1,400 medicinal herbs, he meticulously cross-referenced their vernacular Hangul names ('Hyangmyeong'), harvest seasons, efficacies, and preparation methods. By translating obscure academic jargon into the living language of the people, he created 'Dongui Bogam'—not just a medical manual, but a UNESCO Memory of the World masterpiece that stands as one of humanity's finest historical databases.\n\nIn today's post, we examine the cognitive principles behind Heo Jun's data categorization habit and explore a 3-step practical guide for modern individuals to master complex professional knowledge and communicate it with crystal clarity.",
-                "whyTitle": "'Dual Coding' and Information Architecture: Bridging Academic Jargon and Experiential Language",
-                "whyDesc": "Inputting only obscure jargon or abstract concepts into the brain impairs accessibility and recall speed. Cross-referencing professional terminology with familiar, everyday language activates Allan Paivio's <strong>'Dual Coding Theory'</strong>. Mapping academic knowledge to intuitive terms reduces <strong>Working Memory</strong> load and dramatically accelerates information retrieval and cognitive internalization.",
-                "cautionTitle": "Rule: Map One-to-One Intuitive Properties Beyond Mere Data Collection",
-                "cautionDesc": "The crucial rule in data categorization is avoiding passive copying. You must map professional terms one-to-one with your own intuitive language and clearly define properties such as practical use, key features, and application context to build a lasting cognitive architecture in your brain.",
-                "steps": [
-                    {
-                        "title": "Establish a Dual-Coding Mapping Template",
-                        "desc": "Identify complex data sources in your field (tech jargon, legal codes, business metrics) and create dedicated columns to translate them one-to-one into simple, intuitive terms."
-                    },
-                    {
-                        "title": "Cross-Categorize by Core Properties",
-                        "desc": "Organize data systematically into 4 distinct properties: Technical Concept, Plain-Language Explanation, Application Context, and Key Cautions."
-                    },
-                    {
-                        "title": "Weekly Indexing and Instant Retrieval Testing",
-                        "desc": "Review your database weekly and conduct rapid retrieval tests to ensure you can locate and apply any specific piece of knowledge within 3 seconds."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Is this data categorization habit useful for non-medical professionals or students?",
-                        "answer": "Yes, absolutely. Cross-referencing complex manuals, academic concepts, or customer feedback into intuitive personal language drastically increases work speed and enhances your ability to explain complex ideas clearly to others."
-                    },
-                    {
-                        "question": "Doesn't translating professional terms into plain language take too much time?",
-                        "answer": "While initial setup requires deliberate effort, a well-structured dual-coded database cuts future re-learning time by over 80%. Transforming jargon into your own words is the exact process that turns information into genuine expertise."
-                    }
-                ]
-            },
-            "zh": {
-                "title": "普及知识的力量：许浚的大夫数据对译分类习惯与双重编码",
-                "description": "探索《东医宝鉴》作者许浚如何通过将数千种汉文医书与韩文药名进行交叉分类，成就联合国教科文组织世界记忆遗产的“数据对译分类”习惯。掌握双重编码与信息架构的3步骤指南。",
-                "authority": "许浚《东医宝鉴》（1613年）、双重编码理论（Allan Paivio）及信息架构研究",
-                "intro": "\"再高深的医学知识，若百姓无法理解与应用，也不过是毫无生气的死字。\" 🌿\n\n作为朝鲜王朝顶尖御医及流芳百世的医学百科全书《东医宝鉴》的作者，许浚（Heo Jun，1539–1615）在战乱与疫情肆虐的年代，究竟如何将500余部晦涩的汉文医书与庞杂的民间处方，重构为所有人皆可快速查阅的完美知识体系？\n\n许浚拥有极其严谨的“草药处方数据分类习惯（Herbal Medicine Categorization）”。他在1400余种中药材的汉文名称旁，精准附上百姓日常使用的韩文俗名“乡名”，并按采集季节、功效及炮制方法进行了清晰的对译分类。正是这种将高深学术语言转化为大众生活语言的结构化整理习惯，使《东医宝鉴》超越了普通医书，成为入选联合国教科文组织世界记忆遗产的人类顶级医学数据库。\n\n在今天的文章中，我们将深入解析许浚数据对译分类习惯背后的认知科学原理，并分享现代人内化复杂专业知识并进行清晰传达的3步骤行动指南。",
-                "whyTitle": "连接学术语言与经验语言的“双重编码（Dual Coding）”与信息架构",
-                "whyDesc": "向大脑仅输入晦涩术语或抽象概念会严重降低信息的调取速度。像许浚那样将专业术语与熟悉的日常语言进行对译分类，能够激活认知心理学中的<strong>“双重编码理论（Dual Coding Theory）”</strong>。将学术知识映射至直觉化语言，可显著减轻大脑<strong>工作记忆（Working Memory）</strong>的负荷，大幅提升信息检索（Retrieval）速度与认知内化深度。",
-                "cautionTitle": "准则：拒绝机械收集，明确建立一对一直觉属性（Property）",
-                "cautionDesc": "实践数据对译分类习惯时，最忌讳的是停留在简单的资料复制上。须在专业术语旁一对一附上自己易于理解的“直觉化语言”，并清晰界定适用场景、核心特征、注意事项等属性，方能在脑海中构建持久的知识架构。",
-                "steps": [
-                    {
-                        "title": "搭设双重编码映射模板",
-                        "desc": "确定自身领域的复杂数据源（技术术语、法律条文、商业指标），设立专属栏目将其一对一翻译为简单直观的个人语言。"
-                    },
-                    {
-                        "title": "按核心属性进行交叉分类",
-                        "desc": "将信息细化归类为4个属性维度：专业概念、通俗解释、应用场景及注意事项。"
-                    },
-                    {
-                        "title": "每周归档与即时检索测试",
-                        "desc": "每周复盘整理好的数据库，进行快速检索测试，确保在遇到特定问题时能在3秒内精准定位并应用知识。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "非医学或非数据领域的日常职场人或学生也需要这种分类习惯吗？",
-                        "answer": "是的，非常需要。将复杂的业务手册、专业学术概念或客户反馈对译整理为自己的直觉语言，能大幅提升工作效率，并显著增强跨部门沟通与表达能力。"
-                    },
-                    {
-                        "question": "每次都将专业术语整理为通俗语言，难道不会太耗费时间吗？",
-                        "answer": "虽然初期整理需要投入精力，但搭建好的双重编码数据库能将未来的重复学习时间缩短80%以上。将术语重构为自己的语言，正是将信息转化为真正个人专长的核心过程。"
-                    }
-                ]
-            },
-            "ja": {
-                "title": "知識の民衆化：許浚の医学データ対照分類習慣と二重符号化",
-                "description": "『東医宝鑑』の著者・許浚（ホ・ジュン）が難解な漢文医書とハングル（ハングル）薬名を対照分類し、ユネスコ世界記録遺産を生み出した「データ交差分類」習慣の認知的原理と3ステップガイドをご紹介します。",
-                "authority": "許浚『東医宝鑑』（1613年）、二重符号化理論（Allan Paivio）および情報アーキテクチャ研究",
-                "intro": "\"どんなに高貴な医学知識であっても、民が理解できず使えなければ死んだ学問に過ぎない。\" 🌿\n\n朝鮮最高の御医（王の主治医）であり、不朽の医学百科事典『東医宝鑑』を執筆した許浚（ホ・ジュン, 1539–1615）。戦乱と感染症の惨禍の中で、現代のデータベースすら存在しなかった時代、彼はいかにして500冊を超える難解な漢文医書と数千の民間処方を、誰もが簡単に検索できる完璧な知識体系へと再構築したのでしょうか？\n\n許浚には、数多くの医書の薬効と処方策を精密に交差分類する「草薬・民間処方データ整理習慣（Herbal Medicine Categorization）」がありました。彼は難解な漢文の薬名の隣に民衆が日常で呼ぶハングル名「郷名（ヒャンミョン）」を併記し、採取時期、薬効、調製法を属性別に一目瞭然に対照分類しました。専門的な学術言語を民衆の生きる言語へと1対1で翻訳・構造化したこの習慣のおかげで、『東医宝鑑』は単なる医書を超え、ユネスコ世界記録遺産に登録された人類最高の医学データベースとして誕生できたのです。\n\n本日の記事では、許浚が実践したデータ対照分類習慣の認知科学的作動原理と、現代人が複雑な専門知識を自分のものとして体化し、他者に明確に伝えるための3ステップ実践ガイドを解説します。",
-                "whyTitle": "学術言語と経験言語を結合する「二重符号化（Dual Coding）」と情報アーキテクチャ",
-                "whyDesc": "難解な専門用語や抽象的な概念のみを脳に入力すると、情報の検索速度やアクセシビリティが低下します。許浚のように専門言語（漢文）と親しみやすい日常言語（ハングル郷名）を対照分類する行為は、認知心理学の<strong>「二重符号化理論（Dual Coding Theory）」</strong>を作動させます。専門知識を直感的な言語と1対1でマッピングすることで、脳の<strong>作業記憶（Working Memory）</strong>の負荷が劇的に軽減され、情報の検索（Retrieval）速度と認知の体化レベルが最大化されます。",
-                "cautionTitle": "注意事項：単なる収集にとどまらず、1対1の直感的属性（Property）を明確に定義するルール",
-                "cautionDesc": "対照データ分類を行う際に最も注意すべき点は、単なる情報のコピペや羅列で終わらせないことです。専門用語の隣に自分が理解しやすい「自分だけの直感的言語」を1対1で配置し、用途・核心的特徴・適用文脈などの属性（Property）を明確に区画して整理することで、初めて脳内に持続的な知識アーキテクチャが構築されます。",
-                "steps": [
-                    {
-                        "title": "二重符号化マッピングテンプレートの構築",
-                        "desc": "習得したい専門分野（技術用語、法律、ビジネス指標など）のデータソースを定め、それを1:1で翻訳する自分の平易な言語欄を用意します。"
-                    },
-                    {
-                        "title": "属性別（概念・解説・文脈・注意点）の精密対照整理",
-                        "desc": "情報を一目で把握できるよう、専門概念、直感的解説、適用文脈、注意事項の4つの属性に分けて精密に対照分類します。"
-                    },
-                    {
-                        "title": "週間データインデックス化と即時検索テスト",
-                        "desc": "週1回整理されたデータベースを復習し、特定状況で必要な知識を3秒以内に検索して適用できるかテストを実施します。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "医学やデータ分野ではない一般的なオフィスワーカーや学生にもこの分類習慣は必要ですか？",
-                        "answer": "はい、非常に必須です。複雑な業務マニュアル、専門概念、顧客フィードバックなどを自分だけの直感的言語に対照整理しておくことで、処理速度が飛躍的に向上し、他者への説明能力も大幅に強化されます。"
-                    },
-                    {
-                        "question": "毎回専門用語を平易な言語に対照整理するのは手間がかかりませんか？",
-                        "answer": "初期整理には時間を要しますが、一度構築された二重符号化データベースは将来の再学習時間を80%以上短縮します。専門用語を自身の言語に再加工するプロセスこそが、情報を本物の専門性に変える核心です。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Democratizar el Conocimiento: La Clasificación de Datos Médicos de Heo Jun y Codicación Doble",
-                "description": "Descubra cómo Heo Jun, autor del 'Dongui Bogam', creó un conjunto de datos Patrimonio de la Humanidad clasificando textos médicos clásicos en chino y coreano vernáculo. Aprenda una guía de 3 pasos para la Codificación Doble.",
-                "authority": "Heo Jun, *Dongui Bogam* (1613) y Teoría de la Codificación Doble (Allan Paivio) e Investigación en Arquitectura de la Información",
-                "intro": "\"Por muy noble que sea el conocimiento médico, si el pueblo común no puede entenderlo ni usarlo, es mera erudición muerta.\" 🌿\n\nHeo Jun (1539–1615), el legendario médico real de la dinastía Joseon y autor de la enciclopedia médica 'Dongui Bogam'. En medio de devastaciones bélicas y epidemias, sin herramientas de bases de datos modernas, ¿cómo sintetizó más de 500 complejos textos médicos clásicos en un sistema de conocimiento perfectamente estructurado y accesible?\n\nHeo Jun practicó un hábito constante de 'Clasificación de Medicina Herbal (Herbal Medicine Categorization)'. Junto a los nombres clásicos en chino de más de 1.400 hierbas medicinales, anotó meticulosamente sus nombres en coreano vernáculo ('Hyangmyeong'), temporadas de cosecha, eficacias y métodos de preparación. Al traducir la jerga académica al lenguaje vivo del pueblo, creó el 'Dongui Bogam', un Patrimonio de la Humanidad registrado por la UNESCO.",
-                "whyTitle": "'Codificación Doble' y Arquitectura de la Información: Conectando la Jerga Académica y el Lenguaje Experiencial",
-                "whyDesc": "Introducir solo jerga abstracta en el cerebro perjudica la velocidad de acceso y recuerdo. Clasificar términos profesionales junto a un lenguaje cotidiano activa la <strong>'Teoría de la Codificación Doble (Dual Coding Theory)'</strong> de Allan Paivio. Vincular el conocimiento académico con términos intuitivos reduce la carga de la <strong>Memoria de Trabajo (Working Memory)</strong> e incrementa drásticamente la velocidad de recuperación de datos.",
-                "cautionTitle": "Regla: Mapee Propiedades Intuitivas Uno a Uno Más Allá de la Mera Recopilación",
-                "cautionDesc": "La regla de oro en la clasificación de datos es evitar el copiado pasivo. Debe vincular los términos profesionales uno a uno con su propio lenguaje intuitivo y definir claramente sus aplicaciones clave para estructurar una arquitectura cognitiva duradera.",
-                "steps": [
-                    {
-                        "title": "Establecer una Plantilla de Mapeo de Codificación Doble",
-                        "desc": "Identifique fuentes de datos complejas en su campo y cree columnas dedicadas para traducirlas uno a uno a términos sencillos e intuitivos."
-                    },
-                    {
-                        "title": "Clasificar Cruzadamente por Propiedades Clave",
-                        "desc": "Organice la información sistemáticamente en 4 propiedades: Concepto Técnico, Explicación Sencilla, Contexto de Aplicación y Precauciones Clave."
-                    },
-                    {
-                        "title": "Indexación Semanal y Pruebas de Recuperación Inmediata",
-                        "desc": "Revise su base de datos semanalmente y realice pruebas rápidas para asegurarle de encontrar y aplicar cualquier dato en menos de 3 segundos."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Es útil este hábito de clasificación de datos para estudiantes o profesionales fuera del ámbito médico?",
-                        "answer": "Sí, totalmente. Traducir manuales complejos o conceptos académicos a su propio lenguaje intuitivo aumenta enormemente su velocidad de trabajo y mejora su capacidad de comunicación."
-                    },
-                    {
-                        "question": "¿Traducir términos profesionales a un lenguaje sencillo no requiere demasiado tiempo?",
-                        "answer": "Aparece laborioso al principio, pero una base de datos de codificación doble reduce el tiempo de re-aprendizaje futuro en más del 80%. Transformar la jerga en sus propias palabras es lo que convierte la información en verdadera experiencia."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Démocratiser le savoir : La catégorisation des données médicales d'Heo Jun et le double codage",
-                "description": "Découvrez comment Heo Jun, auteur du 'Dongui Bogam', a créé une base de données classée au patrimoine de l'UNESCO en croisant les textes classiques chinois avec le coréen populaire. Suivez ce guide en 3 étapes de double codage.",
-                "authority": "Heo Jun, *Dongui Bogam* (1613) & Théorie du double codage (Allan Paivio) & Recherche en architecture de l'information",
-                "intro": "« Peu importe la noblesse du savoir médical, si le peuple ne peut le comprendre ni l'utiliser, ce n'est qu'une érudition morte. » 🌿\n\nHeo Jun (1539–1615), le légendaire médecin royal de la dynastie Joseon et auteur de l'encyclopédie médicale 'Dongui Bogam'. Confronté aux guerres et épidémies, sans outils informatiques modernes, comment a-t-il pu synthétiser plus de 500 ouvrages classiques en un système de connaissances accessible à tous ?\n\nHeo Jun appliquait une routine rigoureuse de 'Catégorisation des données médicales (Herbal Medicine Categorization)'. À côté des noms classiques en chinois de plus de 1 400 plantes, il notait méticuleusement leurs noms populaires en coréen ('Hyangmyeong'), périodes de récolte, propriétés et méthodes de préparation. En traduisant le jargon savant dans la langue du peuple, il a créé un chef-d'œuvre inscrit au Registre Mémoire du monde de l'UNESCO.",
-                "whyTitle": "Le « double codage » et l'architecture de l'information : Relier jargon savant et langue du quotidien",
-                "whyDesc": "Restreindre l'apprentissage à un jargon abstrait ralentit la vitesse d'accès et de rappel. Associer la terminologie professionnelle à un langage familier déclenche la <strong>« Théorie du double codage (Dual Coding Theory) »</strong> d'Allan Paivio. Cette correspondance réduit la charge de la <strong>mémoire de travail (Working Memory)</strong> et accélère considérablement le rappel des informations.",
-                "cautionTitle": "Règle : Associer des propriétés intuitives une à une sans se limiter à la collecte",
-                "cautionDesc": "La règle d'or est d'éviter le simple copier-coller. Vous devez associer chaque terme professionnel à votre propre langage intuitif et définir clairement ses contextes d'application pour bâtir une architecture cognitive solide.",
-                "steps": [
-                    {
-                        "title": "Établir un modèle de correspondance en double codage",
-                        "desc": "Identifiez les sources complexes de votre secteur et créez des colonnes pour les traduire une à une en termes simples et intuitifs."
-                    },
-                    {
-                        "title": "Catégoriser par propriétés fondamentales",
-                        "desc": "Organisez les données selon 4 propriétés : Concept technique, Explication simple, Contexte d'application et Précautions."
-                    },
-                    {
-                        "title": "Indexation hebdomadaire et tests de rappel rapide",
-                        "desc": "Révisez votre base de données chaque semaine et testez votre capacité à retrouver n'importe quel savoir en moins de 3 secondes."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Cette méthode est-elle utile pour des profils non médicaux ou des étudiants ?",
-                        "answer": "Oui, absolument. Reformuler des manuels complexes ou des concepts académiques dans votre propre langage décuple votre vitesse de travail et clarifie votre communication."
-                    },
-                    {
-                        "question": "Traduire des termes professionnels n'est-il pas trop chronophage ?",
-                        "answer": "L'effort initial est réel, mais une base de données en double codage réduit de plus de 80 % le temps d'apprentissage futur. C'est en reformulant le jargon que l'information devient une vraie compétence."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Wissen demokratisieren: Heo Juns medizinische Datenkategorisierung und Doppelcodierung",
-                "description": "Erfahren Sie, wie Heo Jun, Autor des 'Dongui Bogam', ein UNESCO-Weltdokumentenerbe erschuf, indem er chinesische Medizintexte mit koreanischen Trivialnamen abglich. Entdecken Sie eine 3-Schritte-Anleitung zur Doppelcodierung.",
-                "authority": "Heo Jun, *Dongui Bogam* (1613) & Doppelcodierungstheorie (Allan Paivio) & Forschung zur Informationsarchitektur",
-                "intro": "\"Egal wie edel medizinisches Wissen ist: Wenn das einfache Volk es nicht versteht oder nutzen kann, ist es nur tote Gelehrsamkeit.\" 🌿\n\nHeo Jun (1539–1615), der legendäre Königliche Leibarzt der Joseon-Dynastie und Autor der Enzyklopädie 'Dongui Bogam'. Wie schaffte er es in Zeiten von Krieg und Seuchen ohne moderne Datenbanken, über 500 komplexe klassische Fachtexte in ein perfekt strukturiertes Wissenssystem zu überführen?\n\nHeo Jun nutzte die Routine der 'Medizinischen Datenkategorisierung (Herbal Medicine Categorization)'. Neben den klassischen chinesischen Namen von über 1.400 Heilkräutern vermerkte er akribisch deren koreanische Trivialnamen ('Hyangmyeong'), Erntezeiten, Wirkungen und Zubereitungsmethoden. Durch das Übersetzen von Fachjargon in die Alltagssprache schuf er ein Meisterwerk des UNESCO-Weltdokumentenerbes.",
-                "whyTitle": "'Doppelcodierung' und Informationsarchitektur: Fachjargon mit Alltagssprache verknüpfen",
-                "whyDesc": "Nur Fachbegriffe im Gehirn zu speichern, verlangsamt die Abrufgeschwindigkeit. Das Gegenüberstellen von Fachterminologie und Alltagssprache aktiviert Allan Paivios <strong>'Doppelcodierungstheorie (Dual Coding Theory)'</strong>. Das Verknüpfen akademischen Wissens mit intuitiven Begriffen entlastet das <strong>Arbeitsgedächtnis (Working Memory)</strong> und beschleunigt den Informationsabruf drastisch.",
-                "cautionTitle": "Regel: Intuitives Eins-zu-eins-Mapping statt bloßem Datensammeln",
-                "cautionDesc": "Vermeiden Sie passives Kopieren. Sie müssen Fachbegriffe eins zu eins mit Ihrer eigenen Sprache verknüpfen und Eigenschaften wie Anwendung, Merkmale und Kontext klar definieren, um eine nachhaltige kognitive Architektur aufzubauen.",
-                "steps": [
-                    {
-                        "title": "Eine Vorlage zur Doppelcodierung erstellen",
-                        "desc": "Bestimmen Sie komplexe Datenquellen Ihres Fachgebiets und erstellen Sie Spalten, um diese eins zu eins in einfache Sprache zu übersetzen."
-                    },
-                    {
-                        "title": "Nach Kerneigenschaften strukturiert kategorisieren",
-                        "desc": "Gliedern Sie Informationen in 4 Eigenschaften: Fachbegriff, einfache Erklärung, Anwendungskontext und Vorsichtsmaßnahmen."
-                    },
-                    {
-                        "title": "Wöchentliche Indexierung und Schnellabruf-Tests",
-                        "desc": "Überprüfen Sie Ihre Datenbank wöchentlich und testen Sie, ob Sie gezielte Informationen in unter 3 Sekunden finden können."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Ist diese Kategorisierungsmethode auch für Nicht-Mediziner oder Studenten nützlich?",
-                        "answer": "Ja, absolut. Das Gegenüberstellen komplexer Anleitungen oder Fachbegriffe in eigener Sprache steigert die Arbeitsgeschwindigkeit und verbessert die Kommunikationsfähigkeit enorm."
-                    },
-                    {
-                        "question": "Ist das Übersetzen von Fachbegriffen nicht zu zeitaufwendig?",
-                        "answer": "Der Ersteinwand erfordert Mühe, aber eine doppelcodierte Datenbank reduziert künftige Lernzeiten um über 80 %. Erst das Übersetzen von Jargon macht Informationen zu echtem Fachwissen."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Democratizando o Conhecimento: A Classificação de Dados Médicos de Heo Jun e a Dupla Codificação",
-                "description": "Descubra como Heo Jun, autor do 'Dongui Bogam', criou um banco de dados Patrimônio da Humanidade da UNESCO ao cruzar textos médicos clássicos com o coreano vernáculo. Aprenda um guia de 3 passos para a Dupla Codificação.",
-                "authority": "Heo Jun, *Dongui Bogam* (1613) e Teoria da Dupla Codificação (Allan Paivio) e Pesquisa em Arquitetura da Informação",
-                "intro": "\"Não importa quão nobre seja o conhecimento médico, se o povo comum não puder compreendê-lo nem usá-lo, será mera sabedoria morta.\" 🌿\n\nHeo Jun (1539–1615), o lendário médico real da dinastia Joseon e autor da enciclopédia médica 'Dongui Bogam'. Em meio a guerras e epidemias, sem ferramentas de banco de dados modernas, como ele sintetizou mais de 500 textos clássicos em um sistema de conhecimento perfeitamente acessível?\n\nHeo Jun praticava o hábito de 'Classificação de Medicina Herbal (Herbal Medicine Categorization)'. Ao lado dos nomes clássicos em chinês de mais de 1.400 ervas, anotava meticulosamente seus nomes vernáculos em coreano ('Hyangmyeong'), épocas de colheita, eficácias e métodos de preparo. Ao traduzir o jargão acadêmico para a língua viva do povo, criou o 'Dongui Bogam', um Patrimônio da Humanidade registrado pela UNESCO.",
-                "whyTitle": "'Dupla Codificação' e Arquitetura da Informação: Conectando o Jargão e a Linguagem Prática",
-                "whyDesc": "Armazenar apenas jargões abstratos prejudica a velocidade de acesso à memória. Classificar termos profissionais ao lado de uma linguagem cotidiana ativa a <strong>'Teoria da Dupla Codificação (Dual Coding Theory)'</strong> de Allan Paivio. Mapear o conhecimento acadêmico para termos intuitivos reduz a carga da <strong>Memória de Trabalho (Working Memory)</strong> e acelera a recuperação de dados.",
-                "cautionTitle": "Regra: Mapeie Propriedades Intuitivas Um a Um Além do Mero Acúmulo",
-                "cautionDesc": "A regra de ouro na classificação de dados é evitar a cópia passiva. Você deve vincular termos profissionais um a um com sua própria linguagem intuitiva e definir aplicações claras para estruturar uma arquitetura cognitiva duradoura.",
-                "steps": [
-                    {
-                        "title": "Estabelecer um Modelo de Mapeamento em Dupla Codificação",
-                        "desc": "Identifique fontes de dados complexas em sua área e crie colunas dedicadas para traduzi-las um a um em termos simples e intuitivos."
-                    },
-                    {
-                        "title": "Classificar Cruzadamente por Propriedades Principais",
-                        "desc": "Organize as informações em 4 propriedades: Conceito Técnico, Explicação Simples, Contexto de Aplicação e Precauções."
-                    },
-                    {
-                        "title": "Indexação Semanal e Testes de Recuperação Rápida",
-                        "desc": "Revise seu banco de dados semanalmente e faça testes para garantir que consegue localizar e aplicar qualquer informação em menos de 3 segundos."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Este hábito de classificação é útil para estudantes ou profissionais de fora da área médica?",
-                        "answer": "Sim, com certeza. Mapear manuais complexos ou conceitos acadêmicos para sua própria linguagem intuitiva aumenta muito a velocidade de trabalho e melhora sua capacidade de comunicação."
-                    },
-                    {
-                        "question": "Traduzir termos profissionais para uma linguagem simples não exige tempo demais?",
-                        "answer": "O esforço inicial existe, mas um banco de dados em dupla codificação reduz o tempo de reaprendizado futuro em mais de 80%. Transformar jargões em suas próprias palavras é o que converte informação em expertise."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Demokratisasi Pengetahuan: Kategorisasi Data Medis Heo Jun dan Pengkodean Ganda",
-                "description": "Pelajari bagaimana Heo Jun, penulis 'Dongui Bogam', menciptakan kumpulan data Warisan Ingatan Dunia UNESCO dengan mengelompokkan teks medis klasik ke dalam bahasa Korea sehari-hari. Temukan panduan 3 langkahnya.",
-                "authority": "Heo Jun, *Dongui Bogam* (1613) & Teori Pengkodean Ganda (Allan Paivio) & Penelitian Arsitektur Informasi",
-                "intro": "\"Seberapa pun agungnya pengetahuan medis, jika rakyat biasa tidak dapat memahami atau menggunakannya, itu hanyalah ilmu yang mati.\" 🌿\n\nHeo Jun (1539–1615), dokter kerajaan legendaris Dinasti Joseon dan penulis ensiklopedia medis 'Dongui Bogam'. Di tengah kecamuk perang dan wabah, tanpa alat basis data modern, bagaimana ia menyintesis lebih dari 500 teks medis klasik menjadi sistem pengetahuan yang terstruktur sempurna dan mudah diakses?\n\nHeo Jun menjalankan kebiasaan 'Kategorisasi Data Obat Herbal (Herbal Medicine Categorization)'. Di samping nama-nama klasik bahasa Mandarin untuk lebih dari 1.400 ramuan, ia mencatat nama-nama bahasa Korea sehari-hari ('Hyangmyeong'), musim panen, khasiat, dan metode peracikannya. Dengan menerjemahkan istilah akademik ke dalam bahasa rakyat, ia menciptakan 'Dongui Bogam', mahakarya yang diakui sebagai Warisan Ingatan Dunia UNESCO.",
-                "whyTitle": "'Pengkodean Ganda (Dual Coding)' dan Arsitektur Informasi: Menjembatani Istilah Ilmiah dan Bahasa Sehari-hari",
-                "whyDesc": "Hanya memasukkan istilah rumit ke dalam otak akan memperlambat kecepatan mengingat. Memetakan istilah profesional dengan bahasa sehari-hari mengaktifkan <strong>'Teori Pengkodean Ganda (Dual Coding Theory)'</strong> dari Allan Paivio. Menghubungkan pengetahuan akademik dengan istilah intuitif mengurangi beban <strong>Working Memory</strong> dan mempercepat penarikan informasi secara drastis.",
-                "cautionTitle": "Aturan: Petakan Properti Intuitif Satu per Satu di Luar Sekadar Mengumpulkan Data",
-                "cautionDesc": "Aturan utama dalam kategorisasi data adalah menghindari penyalinan pasif. Anda harus memetakan istilah profesional satu per satu ke dalam bahasa intuitif Anda sendiri dan mendefinisikan konteks penerapannya secara jelas.",
-                "steps": [
-                    {
-                        "title": "Buat Templat Pemetaan Pengkodean Ganda",
-                        "desc": "Identifikasi sumber data rumit di bidang Anda dan buat kolom khusus untuk menerjemahkannya satu per satu ke dalam istilah yang sederhana."
-                    },
-                    {
-                        "title": "Kategorikan Berdasarkan Properti Utama",
-                        "desc": "Organisasikan informasi ke dalam 4 properti: Konsep Teknis, Penjelasan Sederhana, Konteks Penerapan, dan Peringatan Utama."
-                    },
-                    {
-                        "title": "Indeksasi Mingguan dan Uji Penarikan Cepat",
-                        "desc": "Tinjau basis data Anda setiap minggu dan lakukan pengujian cepat untuk memastikan Anda dapat menemukan informasi dalam waktu kurang dari 3 detik."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apakah kebiasaan kategorisasi ini berguna bagi non-medis atau pelajar?",
-                        "answer": "Ya, sangat berguna. Memetakan panduan rumit atau konsep akademis ke dalam bahasa intuitif Anda sendiri meningkatkan kecepatan kerja dan memperjelas cara Anda berkomunikasi."
-                    },
-                    {
-                        "question": "Apakah menerjemahkan istilah profesional ke bahasa sederhana tidak menyita banyak waktu?",
-                        "answer": "Proses awal memang membutuhkan usaha, tetapi basis data pengkodean ganda menghemat waktu belajar kembali di masa depan hingga lebih dari 80%. Mengubah istilah rumit menjadi bahasa Anda sendiri adalah cara mengubah informasi menjadi keahlian nyata."
-                    }
-                ]
-            }
-        }
+  "heo-jun-herbal-categorization": {
+    "pubDate": "2026-02-08",
+    "updatedDate": "2026-02-08",
+    "heroImage": "/images/blog/heo_jun_herbal_categorization.webp",
+    "locales": {
+      "ko": {
+        "title": "지식의 대중화: 허준의 의학 데이터 대조 분류 습관과 이중 코딩",
+        "description": "《동의보감》의 저자 허준이 수천 가지 의서와 약재 효능을 한문과 한글로 대조 분류하여 유네스코 세계기록유산을 탄생시킨 '데이터 교차 분류' 습관의 인지적 원리와 3단계 가이드를 소개합니다.",
+        "authority": "Heo Jun, *Dongui Bogam* (1613) & *Dual Coding Theory (Allan Paivio)* & *Information Architecture Research*",
+        "intro": "\"아무리 고귀한 의학 지식이라도 백성이 알지 못하고 쓰지 못한다면 죽은 학문에 불과하다.\" 🌿\n\n조선 최고의 어의이자 불후의 의학 백과사전 『동의보감(東醫寶鑑)』을 집필한 허준(Heo Jun, 1539–1615). 임진왜란의 참화와 전염병 속에서 정형화된 서적조차 부족했던 시절, 그는 어떻게 500여 권의 난해한 한문 의서와 수천 가지 민간 처방을 누구나 쉽게 찾을 수 있는 완벽한 지식 체계로 재구성해냈을까요?\n\n허준에게는 수많은 의서의 약재 효능과 처방법을 정밀하게 교차 분류하는 '대조 데이터 분류 습관(Herbal Medicine Categorization)'이 있었습니다. 그는 어려운 한문 약재명 옆에 백성들이 일상에서 부르는 한글 이름인 '향명(鄕名)'을 함께 적고, 채취 시기와 효능, 조제법을 속성별로 일목요연하게 대조 분류했습니다. 난해한 학술 언어를 대중의 삶 속 언어로 일대일 교차 번역해낸 이 정교한 데이터 구조화 습관 덕분에, 『동의보감』은 단순한 의서를 넘어 유네스코 세계기록유산에 등재된 인류 최고의 의학 데이터베이스로 탄생할 수 있었습니다.\n\n오늘 포스트에서는 허준이 실천했던 데이터 대조 분류 습관의 인지과학적 작동 원리와 현대인들이 복잡한 전문 지식을 자신의 것으로 체화하고 타인에게 명확히 전달하기 위한 3단계 실행 가이드를 알아봅니다.",
+        "whyTitle": "학술 언어와 경험 언어를 결합하는 '이중 코딩(Dual Coding)'과 정보 아키텍처",
+        "whyDesc": "어려운 전문 용어나 추상적 개념만을 뇌에 입력하면 정보의 접근성과 회상 속도가 떨어집니다. 허준처럼 전문적 언어(한문)와 친숙한 일상 언어(한글 향명)를 대조 분류하는 행위는 인지심리학의 <strong>'이중 코딩 이론(Dual Coding Theory)'</strong>을 작동시킵니다. 전문 지식을 직관적 언어와 일대일로 연결할 때 뇌의 <strong>작업 기억(Working Memory)</strong> 부하가 획기적으로 줄어들며, 정보의 검색(Retrieval) 속도와 인지적 체화 수준이 극대화됩니다.",
+        "cautionTitle": "단순 수집에 그치지 않고 일대일 대조 속성(Property)을 명확히 정의하는 수칙",
+        "cautionDesc": "대조 데이터 분류 루틴을 진행할 때 가장 주의해야 할 점은 단순한 정보의 복사나 나열에 그치지 않는 것입니다. 전문 용어 옆에 자신이 쉽게 이해할 수 있는 '나만의 직관적 언어'를 일대일로 대조 배치하고, 쓰임새·핵심 특징·적용 맥락 등의 속성(Property)을 명확히 구획하여 작성해야 뇌 속 지식 아키텍처가 구축됩니다.",
+        "steps": [
+          {
+            "title": "전문 지식 원천 및 직관적 대조 언어 매핑 체계 구축",
+            "desc": "자신이 습득하려는 전문 분야(기술 용어, 법률, 비즈니스 수치 등)의 데이터 원천을 정하고, 이를 1:1로 번역할 자신만의 쉬운 언어나 매개변수 칸을 마련합니다."
+          },
+          {
+            "title": "속성별(카테고리·효능·맥락) 정밀 대조 정리",
+            "desc": "복잡한 정보를 한 눈에 파악할 수 있도록 전문 개념, 직관적 해설, 적용 맥락,주의사항의 4가지 속성으로 나누어 정밀하게 대조 분류합니다."
+          },
+          {
+            "title": "주간 데이터 색인화 및 즉각적 지식 검색 테스트",
+            "desc": "주 1회 정리된 데이터베이스를 복기하며 특정 상황 발생 시 필요한 지식을 3초 이내에 찾아 적용할 수 있는지 검색(Retrieval) 테스트를 진행합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "의학이나 데이터 분야가 아닌 일반 사무직이나 학생에게도 이 분류 습관이 필요한가요?",
+            "answer": "네, 매우 필수적입니다. 복잡한 업무 매뉴얼, 전문 학술 개념, 고객 피드백 등을 자신만의 직관적 언어로 대조 정리해두면 업무 처리 속도가 비약적으로 향상되고 타인과의 소통 능력이 대폭 강화됩니다."
+          },
+          {
+            "question": "매번 전문 용어를 쉬운 언어로 대조 정리하는 것이 번거롭지 않나요?",
+            "answer": "초기 정리에는 시간이 소요되지만, 한 번 구축된 대조 데이터베이스는 향후 반복적인 학습 시간을 80% 이상 단축해 줍니다. 지식의 재가공 단계를 거칠 때 비로소 '진짜 자신의 지식'이 됩니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Democratizing Knowledge: Heo Jun's Medical Data Categorization and Dual Coding",
+        "description": "Discover how Heo Jun, author of 'Dongui Bogam', created a UNESCO World Record dataset by cross-categorizing complex medical texts into classical Chinese and everyday Hangul. Learn a 3-step guide to Dual Coding and Information Architecture.",
+        "authority": "Heo Jun, *Dongui Bogam* (1613) & *Dual Coding Theory (Allan Paivio)* & *Information Architecture Research*",
+        "intro": "\"No matter how noble medical knowledge is, if the common people cannot understand or use it, it is merely dead scholarship.\" 🌿\n\nHeo Jun (1539–1615), the legendary royal physician of the Joseon Dynasty and author of the immortal medical encyclopedia 'Dongui Bogam'. Amidst the devastation of war and rampant epidemics, without modern database tools, how did he synthesize over 500 complex classical medical texts into a perfectly structured, accessible knowledge system?\n\nHeo Jun practiced a relentless habit of 'Herbal Medicine Categorization'. Alongside classical Chinese names of over 1,400 medicinal herbs, he meticulously cross-referenced their vernacular Hangul names ('Hyangmyeong'), harvest seasons, efficacies, and preparation methods. By translating obscure academic jargon into the living language of the people, he created 'Dongui Bogam'—not just a medical manual, but a UNESCO Memory of the World masterpiece that stands as one of humanity's finest historical databases.\n\nIn today's post, we examine the cognitive principles behind Heo Jun's data categorization habit and explore a 3-step practical guide for modern individuals to master complex professional knowledge and communicate it with crystal clarity.",
+        "whyTitle": "'Dual Coding' and Information Architecture: Bridging Academic Jargon and Experiential Language",
+        "whyDesc": "Inputting only obscure jargon or abstract concepts into the brain impairs accessibility and recall speed. Cross-referencing professional terminology with familiar, everyday language activates Allan Paivio's <strong>'Dual Coding Theory'</strong>. Mapping academic knowledge to intuitive terms reduces <strong>Working Memory</strong> load and dramatically accelerates information retrieval and cognitive internalization.",
+        "cautionTitle": "Rule: Map One-to-One Intuitive Properties Beyond Mere Data Collection",
+        "cautionDesc": "The crucial rule in data categorization is avoiding passive copying. You must map professional terms one-to-one with your own intuitive language and clearly define properties such as practical use, key features, and application context to build a lasting cognitive architecture in your brain.",
+        "steps": [
+          {
+            "title": "Establish a Dual-Coding Mapping Template",
+            "desc": "Identify complex data sources in your field (tech jargon, legal codes, business metrics) and create dedicated columns to translate them one-to-one into simple, intuitive terms."
+          },
+          {
+            "title": "Cross-Categorize by Core Properties",
+            "desc": "Organize data systematically into 4 distinct properties: Technical Concept, Plain-Language Explanation, Application Context, and Key Cautions."
+          },
+          {
+            "title": "Weekly Indexing and Instant Retrieval Testing",
+            "desc": "Review your database weekly and conduct rapid retrieval tests to ensure you can locate and apply any specific piece of knowledge within 3 seconds."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Is this data categorization habit useful for non-medical professionals or students?",
+            "answer": "Yes, absolutely. Cross-referencing complex manuals, academic concepts, or customer feedback into intuitive personal language drastically increases work speed and enhances your ability to explain complex ideas clearly to others."
+          },
+          {
+            "question": "Doesn't translating professional terms into plain language take too much time?",
+            "answer": "While initial setup requires deliberate effort, a well-structured dual-coded database cuts future re-learning time by over 80%. Transforming jargon into your own words is the exact process that turns information into genuine expertise."
+          }
+        ]
+      },
+      "zh": {
+        "title": "普及知识的力量：许浚的大夫数据对译分类习惯与双重编码",
+        "description": "探索《东医宝鉴》作者许浚如何通过将数千种汉文医书与韩文药名进行交叉分类，成就联合国教科文组织世界记忆遗产的“数据对译分类”习惯。掌握双重编码与信息架构的3步骤指南。",
+        "authority": "许浚《东医宝鉴》（1613年）、双重编码理论（Allan Paivio）及信息架构研究",
+        "intro": "\"再高深的医学知识，若百姓无法理解与应用，也不过是毫无生气的死字。\" 🌿\n\n作为朝鲜王朝顶尖御医及流芳百世的医学百科全书《东医宝鉴》的作者，许浚（Heo Jun，1539–1615）在战乱与疫情肆虐的年代，究竟如何将500余部晦涩的汉文医书与庞杂的民间处方，重构为所有人皆可快速查阅的完美知识体系？\n\n许浚拥有极其严谨的“草药处方数据分类习惯（Herbal Medicine Categorization）”。他在1400余种中药材的汉文名称旁，精准附上百姓日常使用的韩文俗名“乡名”，并按采集季节、功效及炮制方法进行了清晰的对译分类。正是这种将高深学术语言转化为大众生活语言的结构化整理习惯，使《东医宝鉴》超越了普通医书，成为入选联合国教科文组织世界记忆遗产的人类顶级医学数据库。\n\n在今天的文章中，我们将深入解析许浚数据对译分类习惯背后的认知科学原理，并分享现代人内化复杂专业知识并进行清晰传达的3步骤行动指南。",
+        "whyTitle": "连接学术语言与经验语言的“双重编码（Dual Coding）”与信息架构",
+        "whyDesc": "向大脑仅输入晦涩术语或抽象概念会严重降低信息的调取速度。像许浚那样将专业术语与熟悉的日常语言进行对译分类，能够激活认知心理学中的<strong>“双重编码理论（Dual Coding Theory）”</strong>。将学术知识映射至直觉化语言，可显著减轻大脑<strong>工作记忆（Working Memory）</strong>的负荷，大幅提升信息检索（Retrieval）速度与认知内化深度。",
+        "cautionTitle": "准则：拒绝机械收集，明确建立一对一直觉属性（Property）",
+        "cautionDesc": "实践数据对译分类习惯时，最忌讳的是停留在简单的资料复制上。须在专业术语旁一对一附上自己易于理解的“直觉化语言”，并清晰界定适用场景、核心特征、注意事项等属性，方能在脑海中构建持久的知识架构。",
+        "steps": [
+          {
+            "title": "搭设双重编码映射模板",
+            "desc": "确定自身领域的复杂数据源（技术术语、法律条文、商业指标），设立专属栏目将其一对一翻译为简单直观的个人语言。"
+          },
+          {
+            "title": "按核心属性进行交叉分类",
+            "desc": "将信息细化归类为4个属性维度：专业概念、通俗解释、应用场景及注意事项。"
+          },
+          {
+            "title": "每周归档与即时检索测试",
+            "desc": "每周复盘整理好的数据库，进行快速检索测试，确保在遇到特定问题时能在3秒内精准定位并应用知识。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "非医学或非数据领域的日常职场人或学生也需要这种分类习惯吗？",
+            "answer": "是的，非常需要。将复杂的业务手册、专业学术概念或客户反馈对译整理为自己的直觉语言，能大幅提升工作效率，并显著增强跨部门沟通与表达能力。"
+          },
+          {
+            "question": "每次都将专业术语整理为通俗语言，难道不会太耗费时间吗？",
+            "answer": "虽然初期整理需要投入精力，但搭建好的双重编码数据库能将未来的重复学习时间缩短80%以上。将术语重构为自己的语言，正是将信息转化为真正个人专长的核心过程。"
+          }
+        ]
+      },
+      "ja": {
+        "title": "知識の民衆化：許浚の医学データ対照分類習慣と二重符号化",
+        "description": "『東医宝鑑』の著者・許浚（ホ・ジュン）が難解な漢文医書とハングル（ハングル）薬名を対照分類し、ユネスコ世界記録遺産を生み出した「データ交差分類」習慣の認知的原理と3ステップガイドをご紹介します。",
+        "authority": "許浚『東医宝鑑』（1613年）、二重符号化理論（Allan Paivio）および情報アーキテクチャ研究",
+        "intro": "\"どんなに高貴な医学知識であっても、民が理解できず使えなければ死んだ学問に過ぎない。\" 🌿\n\n朝鮮最高の御医（王の主治医）であり、不朽の医学百科事典『東医宝鑑』を執筆した許浚（ホ・ジュン, 1539–1615）。戦乱と感染症の惨禍の中で、現代のデータベースすら存在しなかった時代、彼はいかにして500冊を超える難解な漢文医書と数千の民間処方を、誰もが簡単に検索できる完璧な知識体系へと再構築したのでしょうか？\n\n許浚には、数多くの医書の薬効と処方策を精密に交差分類する「草薬・民間処方データ整理習慣（Herbal Medicine Categorization）」がありました。彼は難解な漢文の薬名の隣に民衆が日常で呼ぶハングル名「郷名（ヒャンミョン）」を併記し、採取時期、薬効、調製法を属性別に一目瞭然に対照分類しました。専門的な学術言語を民衆の生きる言語へと1対1で翻訳・構造化したこの習慣のおかげで、『東医宝鑑』は単なる医書を超え、ユネスコ世界記録遺産に登録された人類最高の医学データベースとして誕生できたのです。\n\n本日の記事では、許浚が実践したデータ対照分類習慣の認知科学的作動原理と、現代人が複雑な専門知識を自分のものとして体化し、他者に明確に伝えるための3ステップ実践ガイドを解説します。",
+        "whyTitle": "学術言語と経験言語を結合する「二重符号化（Dual Coding）」と情報アーキテクチャ",
+        "whyDesc": "難解な専門用語や抽象的な概念のみを脳に入力すると、情報の検索速度やアクセシビリティが低下します。許浚のように専門言語（漢文）と親しみやすい日常言語（ハングル郷名）を対照分類する行為は、認知心理学の<strong>「二重符号化理論（Dual Coding Theory）」</strong>を作動させます。専門知識を直感的な言語と1対1でマッピングすることで、脳の<strong>作業記憶（Working Memory）</strong>の負荷が劇的に軽減され、情報の検索（Retrieval）速度と認知の体化レベルが最大化されます。",
+        "cautionTitle": "注意事項：単なる収集にとどまらず、1対1の直感的属性（Property）を明確に定義するルール",
+        "cautionDesc": "対照データ分類を行う際に最も注意すべき点は、単なる情報のコピペや羅列で終わらせないことです。専門用語の隣に自分が理解しやすい「自分だけの直感的言語」を1対1で配置し、用途・核心的特徴・適用文脈などの属性（Property）を明確に区画して整理することで、初めて脳内に持続的な知識アーキテクチャが構築されます。",
+        "steps": [
+          {
+            "title": "二重符号化マッピングテンプレートの構築",
+            "desc": "習得したい専門分野（技術用語、法律、ビジネス指標など）のデータソースを定め、それを1:1で翻訳する自分の平易な言語欄を用意します。"
+          },
+          {
+            "title": "属性別（概念・解説・文脈・注意点）の精密対照整理",
+            "desc": "情報を一目で把握できるよう、専門概念、直感的解説、適用文脈、注意事項の4つの属性に分けて精密に対照分類します。"
+          },
+          {
+            "title": "週間データインデックス化と即時検索テスト",
+            "desc": "週1回整理されたデータベースを復習し、特定状況で必要な知識を3秒以内に検索して適用できるかテストを実施します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "医学やデータ分野ではない一般的なオフィスワーカーや学生にもこの分類習慣は必要ですか？",
+            "answer": "はい、非常に必須です。複雑な業務マニュアル、専門概念、顧客フィードバックなどを自分だけの直感的言語に対照整理しておくことで、処理速度が飛躍的に向上し、他者への説明能力も大幅に強化されます。"
+          },
+          {
+            "question": "毎回専門用語を平易な言語に対照整理するのは手間がかかりませんか？",
+            "answer": "初期整理には時間を要しますが、一度構築された二重符号化データベースは将来の再学習時間を80%以上短縮します。専門用語を自身の言語に再加工するプロセスこそが、情報を本物の専門性に変える核心です。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Democratizar el Conocimiento: La Clasificación de Datos Médicos de Heo Jun y Codicación Doble",
+        "description": "Descubra cómo Heo Jun, autor del 'Dongui Bogam', creó un conjunto de datos Patrimonio de la Humanidad clasificando textos médicos clásicos en chino y coreano vernáculo. Aprenda una guía de 3 pasos para la Codificación Doble.",
+        "authority": "Heo Jun, *Dongui Bogam* (1613) y Teoría de la Codificación Doble (Allan Paivio) e Investigación en Arquitectura de la Información",
+        "intro": "\"Por muy noble que sea el conocimiento médico, si el pueblo común no puede entenderlo ni usarlo, es mera erudición muerta.\" 🌿\n\nHeo Jun (1539–1615), el legendario médico real de la dinastía Joseon y autor de la enciclopedia médica 'Dongui Bogam'. En medio de devastaciones bélicas y epidemias, sin herramientas de bases de datos modernas, ¿cómo sintetizó más de 500 complejos textos médicos clásicos en un sistema de conocimiento perfectamente estructurado y accesible?\n\nHeo Jun practicó un hábito constante de 'Clasificación de Medicina Herbal (Herbal Medicine Categorization)'. Junto a los nombres clásicos en chino de más de 1.400 hierbas medicinales, anotó meticulosamente sus nombres en coreano vernáculo ('Hyangmyeong'), temporadas de cosecha, eficacias y métodos de preparación. Al traducir la jerga académica al lenguaje vivo del pueblo, creó el 'Dongui Bogam', un Patrimonio de la Humanidad registrado por la UNESCO.",
+        "whyTitle": "'Codificación Doble' y Arquitectura de la Información: Conectando la Jerga Académica y el Lenguaje Experiencial",
+        "whyDesc": "Introducir solo jerga abstracta en el cerebro perjudica la velocidad de acceso y recuerdo. Clasificar términos profesionales junto a un lenguaje cotidiano activa la <strong>'Teoría de la Codificación Doble (Dual Coding Theory)'</strong> de Allan Paivio. Vincular el conocimiento académico con términos intuitivos reduce la carga de la <strong>Memoria de Trabajo (Working Memory)</strong> e incrementa drásticamente la velocidad de recuperación de datos.",
+        "cautionTitle": "Regla: Mapee Propiedades Intuitivas Uno a Uno Más Allá de la Mera Recopilación",
+        "cautionDesc": "La regla de oro en la clasificación de datos es evitar el copiado pasivo. Debe vincular los términos profesionales uno a uno con su propio lenguaje intuitivo y definir claramente sus aplicaciones clave para estructurar una arquitectura cognitiva duradera.",
+        "steps": [
+          {
+            "title": "Establecer una Plantilla de Mapeo de Codificación Doble",
+            "desc": "Identifique fuentes de datos complejas en su campo y cree columnas dedicadas para traducirlas uno a uno a términos sencillos e intuitivos."
+          },
+          {
+            "title": "Clasificar Cruzadamente por Propiedades Clave",
+            "desc": "Organice la información sistemáticamente en 4 propiedades: Concepto Técnico, Explicación Sencilla, Contexto de Aplicación y Precauciones Clave."
+          },
+          {
+            "title": "Indexación Semanal y Pruebas de Recuperación Inmediata",
+            "desc": "Revise su base de datos semanalmente y realice pruebas rápidas para asegurarle de encontrar y aplicar cualquier dato en menos de 3 segundos."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Es útil este hábito de clasificación de datos para estudiantes o profesionales fuera del ámbito médico?",
+            "answer": "Sí, totalmente. Traducir manuales complejos o conceptos académicos a su propio lenguaje intuitivo aumenta enormemente su velocidad de trabajo y mejora su capacidad de comunicación."
+          },
+          {
+            "question": "¿Traducir términos profesionales a un lenguaje sencillo no requiere demasiado tiempo?",
+            "answer": "Aparece laborioso al principio, pero una base de datos de codificación doble reduce el tiempo de re-aprendizaje futuro en más del 80%. Transformar la jerga en sus propias palabras es lo que convierte la información en verdadera experiencia."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Démocratiser le savoir : La catégorisation des données médicales d'Heo Jun et le double codage",
+        "description": "Découvrez comment Heo Jun, auteur du 'Dongui Bogam', a créé une base de données classée au patrimoine de l'UNESCO en croisant les textes classiques chinois avec le coréen populaire. Suivez ce guide en 3 étapes de double codage.",
+        "authority": "Heo Jun, *Dongui Bogam* (1613) & Théorie du double codage (Allan Paivio) & Recherche en architecture de l'information",
+        "intro": "« Peu importe la noblesse du savoir médical, si le peuple ne peut le comprendre ni l'utiliser, ce n'est qu'une érudition morte. » 🌿\n\nHeo Jun (1539–1615), le légendaire médecin royal de la dynastie Joseon et auteur de l'encyclopédie médicale 'Dongui Bogam'. Confronté aux guerres et épidémies, sans outils informatiques modernes, comment a-t-il pu synthétiser plus de 500 ouvrages classiques en un système de connaissances accessible à tous ?\n\nHeo Jun appliquait une routine rigoureuse de 'Catégorisation des données médicales (Herbal Medicine Categorization)'. À côté des noms classiques en chinois de plus de 1 400 plantes, il notait méticuleusement leurs noms populaires en coréen ('Hyangmyeong'), périodes de récolte, propriétés et méthodes de préparation. En traduisant le jargon savant dans la langue du peuple, il a créé un chef-d'œuvre inscrit au Registre Mémoire du monde de l'UNESCO.",
+        "whyTitle": "Le « double codage » et l'architecture de l'information : Relier jargon savant et langue du quotidien",
+        "whyDesc": "Restreindre l'apprentissage à un jargon abstrait ralentit la vitesse d'accès et de rappel. Associer la terminologie professionnelle à un langage familier déclenche la <strong>« Théorie du double codage (Dual Coding Theory) »</strong> d'Allan Paivio. Cette correspondance réduit la charge de la <strong>mémoire de travail (Working Memory)</strong> et accélère considérablement le rappel des informations.",
+        "cautionTitle": "Règle : Associer des propriétés intuitives une à une sans se limiter à la collecte",
+        "cautionDesc": "La règle d'or est d'éviter le simple copier-coller. Vous devez associer chaque terme professionnel à votre propre langage intuitif et définir clairement ses contextes d'application pour bâtir une architecture cognitive solide.",
+        "steps": [
+          {
+            "title": "Établir un modèle de correspondance en double codage",
+            "desc": "Identifiez les sources complexes de votre secteur et créez des colonnes pour les traduire une à une en termes simples et intuitifs."
+          },
+          {
+            "title": "Catégoriser par propriétés fondamentales",
+            "desc": "Organisez les données selon 4 propriétés : Concept technique, Explication simple, Contexte d'application et Précautions."
+          },
+          {
+            "title": "Indexation hebdomadaire et tests de rappel rapide",
+            "desc": "Révisez votre base de données chaque semaine et testez votre capacité à retrouver n'importe quel savoir en moins de 3 secondes."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Cette méthode est-elle utile pour des profils non médicaux ou des étudiants ?",
+            "answer": "Oui, absolument. Reformuler des manuels complexes ou des concepts académiques dans votre propre langage décuple votre vitesse de travail et clarifie votre communication."
+          },
+          {
+            "question": "Traduire des termes professionnels n'est-il pas trop chronophage ?",
+            "answer": "L'effort initial est réel, mais une base de données en double codage réduit de plus de 80 % le temps d'apprentissage futur. C'est en reformulant le jargon que l'information devient une vraie compétence."
+          }
+        ]
+      },
+      "de": {
+        "title": "Wissen demokratisieren: Heo Juns medizinische Datenkategorisierung und Doppelcodierung",
+        "description": "Erfahren Sie, wie Heo Jun, Autor des 'Dongui Bogam', ein UNESCO-Weltdokumentenerbe erschuf, indem er chinesische Medizintexte mit koreanischen Trivialnamen abglich. Entdecken Sie eine 3-Schritte-Anleitung zur Doppelcodierung.",
+        "authority": "Heo Jun, *Dongui Bogam* (1613) & Doppelcodierungstheorie (Allan Paivio) & Forschung zur Informationsarchitektur",
+        "intro": "\"Egal wie edel medizinisches Wissen ist: Wenn das einfache Volk es nicht versteht oder nutzen kann, ist es nur tote Gelehrsamkeit.\" 🌿\n\nHeo Jun (1539–1615), der legendäre Königliche Leibarzt der Joseon-Dynastie und Autor der Enzyklopädie 'Dongui Bogam'. Wie schaffte er es in Zeiten von Krieg und Seuchen ohne moderne Datenbanken, über 500 komplexe klassische Fachtexte in ein perfekt strukturiertes Wissenssystem zu überführen?\n\nHeo Jun nutzte die Routine der 'Medizinischen Datenkategorisierung (Herbal Medicine Categorization)'. Neben den klassischen chinesischen Namen von über 1.400 Heilkräutern vermerkte er akribisch deren koreanische Trivialnamen ('Hyangmyeong'), Erntezeiten, Wirkungen und Zubereitungsmethoden. Durch das Übersetzen von Fachjargon in die Alltagssprache schuf er ein Meisterwerk des UNESCO-Weltdokumentenerbes.",
+        "whyTitle": "'Doppelcodierung' und Informationsarchitektur: Fachjargon mit Alltagssprache verknüpfen",
+        "whyDesc": "Nur Fachbegriffe im Gehirn zu speichern, verlangsamt die Abrufgeschwindigkeit. Das Gegenüberstellen von Fachterminologie und Alltagssprache aktiviert Allan Paivios <strong>'Doppelcodierungstheorie (Dual Coding Theory)'</strong>. Das Verknüpfen akademischen Wissens mit intuitiven Begriffen entlastet das <strong>Arbeitsgedächtnis (Working Memory)</strong> und beschleunigt den Informationsabruf drastisch.",
+        "cautionTitle": "Regel: Intuitives Eins-zu-eins-Mapping statt bloßem Datensammeln",
+        "cautionDesc": "Vermeiden Sie passives Kopieren. Sie müssen Fachbegriffe eins zu eins mit Ihrer eigenen Sprache verknüpfen und Eigenschaften wie Anwendung, Merkmale und Kontext klar definieren, um eine nachhaltige kognitive Architektur aufzubauen.",
+        "steps": [
+          {
+            "title": "Eine Vorlage zur Doppelcodierung erstellen",
+            "desc": "Bestimmen Sie komplexe Datenquellen Ihres Fachgebiets und erstellen Sie Spalten, um diese eins zu eins in einfache Sprache zu übersetzen."
+          },
+          {
+            "title": "Nach Kerneigenschaften strukturiert kategorisieren",
+            "desc": "Gliedern Sie Informationen in 4 Eigenschaften: Fachbegriff, einfache Erklärung, Anwendungskontext und Vorsichtsmaßnahmen."
+          },
+          {
+            "title": "Wöchentliche Indexierung und Schnellabruf-Tests",
+            "desc": "Überprüfen Sie Ihre Datenbank wöchentlich und testen Sie, ob Sie gezielte Informationen in unter 3 Sekunden finden können."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Ist diese Kategorisierungsmethode auch für Nicht-Mediziner oder Studenten nützlich?",
+            "answer": "Ja, absolut. Das Gegenüberstellen komplexer Anleitungen oder Fachbegriffe in eigener Sprache steigert die Arbeitsgeschwindigkeit und verbessert die Kommunikationsfähigkeit enorm."
+          },
+          {
+            "question": "Ist das Übersetzen von Fachbegriffen nicht zu zeitaufwendig?",
+            "answer": "Der Ersteinwand erfordert Mühe, aber eine doppelcodierte Datenbank reduziert künftige Lernzeiten um über 80 %. Erst das Übersetzen von Jargon macht Informationen zu echtem Fachwissen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Democratizando o Conhecimento: A Classificação de Dados Médicos de Heo Jun e a Dupla Codificação",
+        "description": "Descubra como Heo Jun, autor do 'Dongui Bogam', criou um banco de dados Patrimônio da Humanidade da UNESCO ao cruzar textos médicos clássicos com o coreano vernáculo. Aprenda um guia de 3 passos para a Dupla Codificação.",
+        "authority": "Heo Jun, *Dongui Bogam* (1613) e Teoria da Dupla Codificação (Allan Paivio) e Pesquisa em Arquitetura da Informação",
+        "intro": "\"Não importa quão nobre seja o conhecimento médico, se o povo comum não puder compreendê-lo nem usá-lo, será mera sabedoria morta.\" 🌿\n\nHeo Jun (1539–1615), o lendário médico real da dinastia Joseon e autor da enciclopédia médica 'Dongui Bogam'. Em meio a guerras e epidemias, sem ferramentas de banco de dados modernas, como ele sintetizou mais de 500 textos clássicos em um sistema de conhecimento perfeitamente acessível?\n\nHeo Jun praticava o hábito de 'Classificação de Medicina Herbal (Herbal Medicine Categorization)'. Ao lado dos nomes clássicos em chinês de mais de 1.400 ervas, anotava meticulosamente seus nomes vernáculos em coreano ('Hyangmyeong'), épocas de colheita, eficácias e métodos de preparo. Ao traduzir o jargão acadêmico para a língua viva do povo, criou o 'Dongui Bogam', um Patrimônio da Humanidade registrado pela UNESCO.",
+        "whyTitle": "'Dupla Codificação' e Arquitetura da Informação: Conectando o Jargão e a Linguagem Prática",
+        "whyDesc": "Armazenar apenas jargões abstratos prejudica a velocidade de acesso à memória. Classificar termos profissionais ao lado de uma linguagem cotidiana ativa a <strong>'Teoria da Dupla Codificação (Dual Coding Theory)'</strong> de Allan Paivio. Mapear o conhecimento acadêmico para termos intuitivos reduz a carga da <strong>Memória de Trabalho (Working Memory)</strong> e acelera a recuperação de dados.",
+        "cautionTitle": "Regra: Mapeie Propriedades Intuitivas Um a Um Além do Mero Acúmulo",
+        "cautionDesc": "A regra de ouro na classificação de dados é evitar a cópia passiva. Você deve vincular termos profissionais um a um com sua própria linguagem intuitiva e definir aplicações claras para estruturar uma arquitetura cognitiva duradoura.",
+        "steps": [
+          {
+            "title": "Estabelecer um Modelo de Mapeamento em Dupla Codificação",
+            "desc": "Identifique fontes de dados complexas em sua área e crie colunas dedicadas para traduzi-las um a um em termos simples e intuitivos."
+          },
+          {
+            "title": "Classificar Cruzadamente por Propriedades Principais",
+            "desc": "Organize as informações em 4 propriedades: Conceito Técnico, Explicação Simples, Contexto de Aplicação e Precauções."
+          },
+          {
+            "title": "Indexação Semanal e Testes de Recuperação Rápida",
+            "desc": "Revise seu banco de dados semanalmente e faça testes para garantir que consegue localizar e aplicar qualquer informação em menos de 3 segundos."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Este hábito de classificação é útil para estudantes ou profissionais de fora da área médica?",
+            "answer": "Sim, com certeza. Mapear manuais complexos ou conceitos acadêmicos para sua própria linguagem intuitiva aumenta muito a velocidade de trabalho e melhora sua capacidade de comunicação."
+          },
+          {
+            "question": "Traduzir termos profissionais para uma linguagem simples não exige tempo demais?",
+            "answer": "O esforço inicial existe, mas um banco de dados em dupla codificação reduz o tempo de reaprendizado futuro em mais de 80%. Transformar jargões em suas próprias palavras é o que converte informação em expertise."
+          }
+        ]
+      },
+      "id": {
+        "title": "Demokratisasi Pengetahuan: Kategorisasi Data Medis Heo Jun dan Pengkodean Ganda",
+        "description": "Pelajari bagaimana Heo Jun, penulis 'Dongui Bogam', menciptakan kumpulan data Warisan Ingatan Dunia UNESCO dengan mengelompokkan teks medis klasik ke dalam bahasa Korea sehari-hari. Temukan panduan 3 langkahnya.",
+        "authority": "Heo Jun, *Dongui Bogam* (1613) & Teori Pengkodean Ganda (Allan Paivio) & Penelitian Arsitektur Informasi",
+        "intro": "\"Seberapa pun agungnya pengetahuan medis, jika rakyat biasa tidak dapat memahami atau menggunakannya, itu hanyalah ilmu yang mati.\" 🌿\n\nHeo Jun (1539–1615), dokter kerajaan legendaris Dinasti Joseon dan penulis ensiklopedia medis 'Dongui Bogam'. Di tengah kecamuk perang dan wabah, tanpa alat basis data modern, bagaimana ia menyintesis lebih dari 500 teks medis klasik menjadi sistem pengetahuan yang terstruktur sempurna dan mudah diakses?\n\nHeo Jun menjalankan kebiasaan 'Kategorisasi Data Obat Herbal (Herbal Medicine Categorization)'. Di samping nama-nama klasik bahasa Mandarin untuk lebih dari 1.400 ramuan, ia mencatat nama-nama bahasa Korea sehari-hari ('Hyangmyeong'), musim panen, khasiat, dan metode peracikannya. Dengan menerjemahkan istilah akademik ke dalam bahasa rakyat, ia menciptakan 'Dongui Bogam', mahakarya yang diakui sebagai Warisan Ingatan Dunia UNESCO.",
+        "whyTitle": "'Pengkodean Ganda (Dual Coding)' dan Arsitektur Informasi: Menjembatani Istilah Ilmiah dan Bahasa Sehari-hari",
+        "whyDesc": "Hanya memasukkan istilah rumit ke dalam otak akan memperlambat kecepatan mengingat. Memetakan istilah profesional dengan bahasa sehari-hari mengaktifkan <strong>'Teori Pengkodean Ganda (Dual Coding Theory)'</strong> dari Allan Paivio. Menghubungkan pengetahuan akademik dengan istilah intuitif mengurangi beban <strong>Working Memory</strong> dan mempercepat penarikan informasi secara drastis.",
+        "cautionTitle": "Aturan: Petakan Properti Intuitif Satu per Satu di Luar Sekadar Mengumpulkan Data",
+        "cautionDesc": "Aturan utama dalam kategorisasi data adalah menghindari penyalinan pasif. Anda harus memetakan istilah profesional satu per satu ke dalam bahasa intuitif Anda sendiri dan mendefinisikan konteks penerapannya secara jelas.",
+        "steps": [
+          {
+            "title": "Buat Templat Pemetaan Pengkodean Ganda",
+            "desc": "Identifikasi sumber data rumit di bidang Anda dan buat kolom khusus untuk menerjemahkannya satu per satu ke dalam istilah yang sederhana."
+          },
+          {
+            "title": "Kategorikan Berdasarkan Properti Utama",
+            "desc": "Organisasikan informasi ke dalam 4 properti: Konsep Teknis, Penjelasan Sederhana, Konteks Penerapan, dan Peringatan Utama."
+          },
+          {
+            "title": "Indeksasi Mingguan dan Uji Penarikan Cepat",
+            "desc": "Tinjau basis data Anda setiap minggu dan lakukan pengujian cepat untuk memastikan Anda dapat menemukan informasi dalam waktu kurang dari 3 detik."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah kebiasaan kategorisasi ini berguna bagi non-medis atau pelajar?",
+            "answer": "Ya, sangat berguna. Memetakan panduan rumit atau konsep akademis ke dalam bahasa intuitif Anda sendiri meningkatkan kecepatan kerja dan memperjelas cara Anda berkomunikasi."
+          },
+          {
+            "question": "Apakah menerjemahkan istilah profesional ke bahasa sederhana tidak menyita banyak waktu?",
+            "answer": "Proses awal memang membutuhkan usaha, tetapi basis data pengkodean ganda menghemat waktu belajar kembali di masa depan hingga lebih dari 80%. Mengubah istilah rumit menjadi bahasa Anda sendiri adalah cara mengubah informasi menjadi keahlian nyata."
+          }
+        ]
+      }
     }
+  }
 }

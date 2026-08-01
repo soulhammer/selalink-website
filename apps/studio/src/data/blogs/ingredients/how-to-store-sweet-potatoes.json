@@ -1,406 +1,406 @@
 {
-    "how-to-store-sweet-potato": {
-        "ingId": "sweet-potato",
-        "pubDate": "2026-03-12",
-        "updatedDate": "2026-03-12",
-        "heroImage": "/images/blog/sweet_potato_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "고구마 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 고구마의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
-                "intro": "고구마를 박스째 사 와서 냉장고나 서늘한 베란다에 두었다가 검게 변하고 무르는 경험 있으시죠? 🍠\n\n고구마는 아열대성 아열대 작물로, 추위와 습기에 매우 취약한 특성을 가지고 있습니다. 특히 10℃ 이하의 낮은 온도가 유지되는 냉장고나 겨울철 베란다에 보관하면 고구마 세포 조직이 파괴되는 '냉해(Chilling Injury)'를 입어 신속하게 부패하고 쓴맛이 나게 됩니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 고구마 신선도 극대화 3단계 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "절대로 생고구마를 냉장 보관하지 마세요 ⚠️",
-                        "desc": "고구마는 10℃ 이하의 저온에 노출되면 냉해를 입어 세포막이 파괴됩니다. 냉해를 입은 고구마는 표면이 검게 변색되고 악취가 나며 검은곰팡이 등의 균에 노출되어 빠르게 부패합니다. 생고구마는 반드시 12 ~ 15℃의 상온에 보관해야 합니다."
-                    },
-                    {
-                        "title": "구매 즉시 상자를 열어 습기를 완전히 말려주세요 🚫",
-                        "desc": "수확 후 또는 유통 과정에서 고구마에 차오른 수분과 땀을 방치하면 곰팡이가 피기 매우 쉽습니다. 구매 후 즉시 고구마를 넓게 펼쳐 신문지 위에서 하루 정도 바짝 말린 뒤 보관해야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "구매 직후 신문지에 펼쳐 습기 말리기 — 수분 제거 및 건조 📦",
-                        "text": "고구마 표면의 습기는 곰팡이 발생과 부패의 주원인입니다. 💡 보관 팁: 박스를 개봉하여 서늘하고 바람이 잘 통하는 곳에 신문지를 깔고 고구마를 서로 겹치지 않게 펼쳐 하루 정도 습기를 완전히 말려주세요."
-                    },
-                    {
-                        "name": "신문지로 개별 포장 후 구멍 뚫린 상자에 담기 — 통풍 보관 (1 ~ 2개월) 📦",
-                        "text": "고구마는 호흡 작용을 하면서 수분과 이산화탄소를 배출하므로 통풍이 핵심입니다. 💡 보관 팁: 말린 고구마를 신문지나 종이로 한 개씩 감싼 뒤, 구멍을 뚫은 종이 상자에 차곡차곡 담아주세요. 신문지가 습기를 흡수하고 고구마끼리의 마찰 상처를 막아줍니다."
-                    },
-                    {
-                        "name": "12 ~ 15℃ 서늘한 상온에 보관하기 (익힌 고구마는 냉동 보관) — 최적 환경 관리 ❄️",
-                        "text": "생고구마는 12 ~ 15℃의 그늘지고 바람 통하는 상온(거실 내부 등)에 보관해야 장기 보관이 가능합니다. 💡 보관 팁: 만약 장기 보관을 원한다면 고구마를 찌거나 구운 뒤 완벽히 식혀서 밀폐 용기에 담아 냉동실(-18℃ 이하)에 보관하세요. 최대 6개월 이상 신선하게 즐길 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "고구마에 싹이 났는데 먹어도 안전한가요?",
-                        "answer": "감자와 달리 고구마의 싹에는 독성 물질(솔라닌)이 없습니다. 따라서 싹을 칼로 도려내고 섭취해도 안전합니다. 다만 싹이 자라면 고구마 내부의 영양분과 수분이 빠져나가 식감이 푸석해지고 단맛이 줄어들 수 있으니 가급적 빨리 드시는 것이 좋습니다."
-                    },
-                    {
-                        "question": "고구마의 단맛을 극대화하는 후숙 비법이 있나요?",
-                        "answer": "고구마는 수확 후 12 ~ 15℃ 상온에서 1 ~ 2주간 후숙 과정을 거치면 베타아밀라아제(Beta-amylase) 효소가 활성화되어 녹말이 당분(맥아당)으로 전환되어 훨씬 달콤해집니다. 또한 찌거나 구울 때 60 ~ 70℃ 온도를 오래 유지해 은근하게 익히면 단맛이 최대치로 올라갑니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Sweet Potatoes Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for sweet potatoes based on official safety guidelines.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Have you ever stored a box of sweet potatoes in the refrigerator or a cold balcony, only to find them discolored, mushy, and rotting? 🍠\n\nSweet potatoes are tropical/subtropical root crops highly sensitive to cold temperatures and excess moisture. When stored below 10°C—such as in a refrigerator or an unheated winter balcony—they suffer from 'chilling injury,' which breaks down cellular tissue, resulting in decay, internal darkening, and a bitter taste.\n\nIn this guide, introduces a scientifically proven 3-step sweet potato storage guide recommended by agriculture and food safety experts to maximize freshness. 🛡️",
-                "whyTitle": "Why Store Sweet Potatoes This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never store raw sweet potatoes in the refrigerator ⚠️",
-                        "desc": "Exposing raw sweet potatoes to temperatures below 10°C causes chilling injury that destroys cellular walls. Chilled sweet potatoes develop dark spots, foul odors, and rot rapidly due to fungal growth. Keep raw sweet potatoes at room temperature (12–15°C)."
-                    },
-                    {
-                        "title": "Open the box immediately upon purchase to dry excess moisture 🚫",
-                        "desc": "Moisture trapped inside boxes during harvesting or shipping creates an ideal environment for mold. Immediately open the package and spread the sweet potatoes out on newspaper for about 24 hours to air-dry completely before storage."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Spread on newspaper immediately after purchase to air-dry — Moisture Removal 📦",
-                        "text": "Surface moisture is the leading cause of mold and decay. 💡 Storage Tip: Unpack sweet potatoes and lay them flat on newspaper in a cool, well-ventilated area without overlapping for a day to dry off all surface dampness."
-                    },
-                    {
-                        "name": "Wrap individually in newspaper and place in a ventilated cardboard box — Ambient Storage (1–2 Months) 📦",
-                        "text": "Sweet potatoes continue to respire, emitting moisture and carbon dioxide, making ventilation vital. 💡 Storage Tip: Wrap each dried sweet potato individually in newspaper and layer them into a perforated cardboard box. Newspaper absorbs humidity and prevents bruising."
-                    },
-                    {
-                        "name": "Store at a cool room temperature of 12–15°C (Freeze cooked only) — Optimal Environment Control ❄️",
-                        "text": "Raw sweet potatoes store best in a shaded, ventilated room at 12–15°C (e.g., indoors). 💡 Storage Tip: For long-term storage, steam or bake sweet potatoes, let them cool completely, seal in airtight containers, and freeze below -18°C. They remain delicious for up to 6 months."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Is it safe to eat sweet potatoes that have sprouted?",
-                        "answer": "Unlike white potatoes, sprouted sweet potatoes do not contain toxic solanine. It is completely safe to consume them after cutting off the sprouts. However, sprouting drains moisture and nutrients, reducing sweetness and causing a stringy texture, so consume them promptly."
-                    },
-                    {
-                        "question": "Is there a tip to maximize the sweetness of sweet potatoes?",
-                        "answer": "Curing sweet potatoes at room temperature (12–15°C) for 1–2 weeks activates beta-amylase enzymes, converting starches into sweet maltose. Additionally, cooking them slowly at 60–70°C (140–158°F) gives enzymes time to maximize sweetness."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "さつまいもを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくさつまいもの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "さつまいもを箱で買って冷蔵庫や寒いベランダに置いておいたら、黒く変色して傷んでしまった経験はありませんか？🍠\n\nさつまいもは熱帯・亜熱帯原産の作物で、寒さと湿気に非常に弱い特徴を持っています。特に10℃以下の低温環境（冷蔵庫や冬場のベランダなど）にさらされると、細胞組織が破壊される「低温障害（Chilling Injury）」を起こし、急速に腐敗して苦味が発生します。\n\n本記事では、農学および食品安全の専門家が推奨する、さつまいもの鮮度と甘みを最大化する科学的で確実な3段階の保存のコツをご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "生のさつまいもを絶対に冷蔵保存しないでください ⚠️",
-                        "desc": "さつまいもは10℃ low以下の低温に晒されると低温障害を起こし、細胞膜が破壊されます。低温障害を受けたさつまいもは黒く変色し、異臭を放ちながらカビが繁殖して急速に腐敗します。生のさつまいもは strictly 12〜15℃の常温で保存してください。"
-                    },
-                    {
-                        "title": "購入後すぐに箱を開けて湿気をしっかり乾燥させてください 🚫",
-                        "desc": "収穫時や輸送中にさつまいもに溜まった水分や汗を放置すると、非常にカビが生えやすくなります。購入後はすぐに箱から出し、新聞紙の上に広げて1日ほどしっかり乾燥させてから保存してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "購入後すぐに新聞紙に広げて乾燥させる — 水分除去と乾燥 📦",
-                        "text": "さつまいも表面の湿気はカビや腐敗の最大の原因です。💡保存のコツ：箱を開けて風通しの良い涼しい場所に新聞紙を敷き、さつまいも同士が重ならないよう広げて1日程度表面の湿気を完全に乾かしてください。"
-                    },
-                    {
-                        "name": "新聞紙で個別包装し穴を開けたダンボール箱に入れる — 通気性保存 (1〜2ヶ月間) 📦",
-                        "text": "さつまいもは呼吸作用により水分と二酸化炭素を排出するため、通気性が非常に重要です。💡保存のコツ：乾いたさつまいもを1本ずつ新聞紙で包み、空気穴を開けたダンボール箱に重ねて入れます。新聞紙が湿気を吸収し傷付きを防ぎます。"
-                    },
-                    {
-                        "name": "12〜15℃の涼しい常温で保存する（加熱後は冷凍保存） — 最適環境管理 ❄️",
-                        "text": "生のさつまいもは12〜15℃の風通しの良い日陰（室内のリビングなど）に置くのがベストです。💡保存のコツ：長期保存したい場合は、蒸すか焼いた後にしっかり冷まし、密閉容器に入れて冷凍室（-18℃以下）で保存してください。6ヶ月以上美味しく召し上がれます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "さつまいもから芽が出てしまいましたが、食べても安全ですか？",
-                        "answer": "じゃがいもと異なり、さつまいもの芽には毒性のあるソラニンなどは含まれていません。芽をナイフで取り除けば安全に食べられます。ただし、芽が伸びると栄養や水分が奪われてパサつき甘みが減るため、早めにお召し上がりください。"
-                    },
-                    {
-                        "question": "さつまいもの甘みを最大限引き出す熟成のコツはありますか？",
-                        "answer": "さつまいもは収穫後、12〜15℃の常温で1〜2週間ほど追熟させると、β-アミラーゼ酵素が活発になりデンプンが麦芽糖（甘み）へ変化して甘みが増します。また、調理時に60〜70℃の温度帯でじっくり加熱すると甘みが極限まで高まります。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持红薯新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解红薯的最佳储存温度、方式和保鲜时长。",
-                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "您是否曾整箱买回红薯放入冰箱或寒冷的阳台，结果却发现红薯变黑、发软甚至腐烂？🍠\n\n红薯属于热带及亚热带作物，对寒冷和潮湿极为敏感。如果将其存放在10℃以下的低温环境中（如冰箱或冬季未供暖的阳台），红薯会遭受“冷害（Chilling Injury）”，细胞组织遭到破坏，导致迅速腐烂、变黑并产生苦味。\n\n本指南将为您介绍由农业及食品安全专家推荐的科学3步红薯保鲜秘诀，帮您最大程度锁定新鲜与甜度。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "切勿将生红薯冷藏保存 ⚠️",
-                        "desc": "生红薯暴露于10℃以下的低温会遭受冷害，破坏细胞结构。受冷害的红薯表面会出现黑斑、散发异味，并极易滋生霉菌而迅速腐烂。生红薯务必存放在12 ~ 15℃的常温环境中。"
-                    },
-                    {
-                        "title": "购买后请立即开箱晾干水分 🚫",
-                        "desc": "采收或运输过程中积聚在红薯表面的湿气极易引发发霉。购买后应立即打开包装，将红薯摊开在报纸上晾干约24小时，待表面彻底干燥后再进行储存。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "购买后立即摊在报纸上晾干 — 彻底排湿 📦",
-                        "text": "红薯表面的湿气是导致发霉和腐烂的主要原因。💡储存小贴士：拆开包装，在阴凉通风处铺上报纸，将红薯单层平铺晾干一天，彻底清除表面潮气。"
-                    },
-                    {
-                        "name": "用报纸逐个包裹后放入带孔纸箱 — 通风常温储存 (1 ~ 2个月) 📦",
-                        "text": "红薯在储存期间仍会进行呼吸作用释放水分和二氧化碳，因此良好的通风至关重要。💡储存小贴士：用报纸将晾干的红薯逐个包好，装入打有通气孔的纸箱中。报纸可吸收湿气并防止表皮磕伤。"
-                    },
-                    {
-                        "name": "存放在12 ~ 15℃阴凉常温处（熟红薯可冷冻） — 最佳环境管理 ❄️",
-                        "text": "生红薯最适合存放在12 ~ 15℃阴凉通风的常温室内（如客厅避光处）。💡储存小贴士：如需长期保存，可将红薯蒸熟或烤熟，彻底晾凉后放入密封盒，置于冷冻室（-18℃以下）保存，可保鲜6个月以上。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "红薯发芽了还能吃吗？",
-                        "answer": "与土豆不同，红薯发芽不会产生毒素（如龙葵素）。将芽眼切除后即可安全食用。不过发芽会消耗红薯内部的水分和营养，导致口感变柴、甜度下降，因此建议尽早食用。"
-                    },
-                    {
-                        "question": "有什么方法能让红薯口感更甜？",
-                        "answer": "红薯采收后在12 ~ 15℃常温下糖化（后熟）1 ~ 2周，可激活内部的β-淀粉酶，将淀粉转化为麦芽糖，甜度会大幅提升。此外，烹饪时在60 ~ 70℃的温度下慢蒸或慢烤，能最大程度释放甜味。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener Batatas (Camotes) frescas: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para las batatas según las directrices oficiales de seguridad.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "¿Alguna vez guardó una caja de batatas (camotes) en el refrigerador o en un balcón frío solo para descubrir que se oscurecían, se ponían blandas y se pudrían? 🍠\n\nLa batata es un cultivo de raíz de origen tropical/subtropical sensible al frío y a la humedad. Al almacenarse por debajo de los 10 °C (como en el refrigerador o en un balcón helado en invierno), sufre daño por frío ('chilling injury'), lo que destruye sus tejidos celulares, provocando pudrición rápida, oscurecimiento y sabor amargo.\n\nEn esta guía se presenta una guía de conservación de batatas en 3 pasos respaldada por expertos para maximizar su frescura y dulzura. 🛡️",
-                "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Nunca guarde batatas crudas en el refrigerador ⚠️",
-                        "desc": "Exponer las batatas crudas a temperaturas inferiores a 10 °C causa daño por frío destruyendo la pared celular. Las batatas dañadas desarrollan manchas oscuras, mal olor y mohos. Consérvelas siempre a temperatura ambiente (12-15 °C)."
-                    },
-                    {
-                        "title": "Abra la caja de inmediato para secar la humedad acumulada 🚫",
-                        "desc": "La humedad atrapada en las cajas durante la cosecha o el transporte es el entorno perfecto para los hongos. Abra el empaque de inmediato y extienda las batatas sobre papel periódico durante 24 horas antes de guardarlas."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Extienda sobre papel periódico al comprar para secar — Eliminación de humedad 📦",
-                        "text": "La humedad en la superficie es la causa principal del moho. 💡 Consejo de almacenamiento: Saque las batatas de la caja y extiéndalas sobre papel periódico en un lugar fresco y ventilado durante un día sin que se encimen para secar la humedad."
-                    },
-                    {
-                        "name": "Envuelva individualmente en papel periódico y coloque en una caja perforada — Almacenamiento a temperatura ambiente (1-2 meses) 📦",
-                        "text": "Las batatas continúan respirando liberando humedad y dióxido de carbono, por lo que la ventilación es vital. 💡 Consejo de almacenamiento: Envuelva cada batata seca en papel periódico y colóquelas en una caja de cartón con orificios."
-                    },
-                    {
-                        "name": "Conserve a temperatura ambiente fresca (12-15 °C) (Congele solo si están cocidas) — Control ambiental ❄️",
-                        "text": "Las batatas crudas se conservan mejor en un lugar oscuro y ventilado entre 12 y 15 °C. 💡 Consejo de almacenamiento: Para guardar a largo plazo, cocínelas al vapor o asadas, déjelas enfriar por completo y congele bajo -18 °C. Se mantendrán sabrosas hasta por 6 meses."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Es seguro comer batatas que han brotado?",
-                        "answer": "A diferencia de las papas blancas, los brotes de batata no contienen solanina tóxica. Es totalmente seguro comerlas retirando los brotes con un cuchillo. Sin embargo, los brotes consumen agua y nutrientes reduciendo la dulzura, por lo que conviene consumirlas pronto."
-                    },
-                    {
-                        "question": "¿Hay algún truco para maximizar la dulzura de las batatas?",
-                        "answer": "Curar las batatas a temperatura ambiente (12-15 °C) durante 1 o 2 semanas activa la enzima beta-amilasa, convirtiendo el almidón en maltosa dulce. Además, cocinarlas lentamente entre 60 y 70 °C permite que las enzimas maximicen la dulzura."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver les patates douces fraîches : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les patates douces selon les directives officielles de sécurité.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Avez-vous déjà conservé un carton de patates douces au réfrigérateur ou sur un balcon froid pour constater qu'elles devenaient noires, molles et pourries ? 🍠\n\nLa patate douce est un légume racine d'origine tropicale/subtropicale très sensible au froid et à l'humidité. Stockée en dessous de 10 °C (comme au réfrigérateur ou sur un balcon en hiver), elle subit des 'blessures de froid' (Chilling Injury) qui détruisent ses tissus cellulaires, provoquant un pourrissement rapide et un goût amer.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts pour préserver la fraîcheur et la douceur des patates douces. 🛡️",
-                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne conservez jamais les patates douces crues au réfrigérateur ⚠️",
-                        "desc": "L'exposition des patates douces crues à moins de 10 °C provoque des lésions dues au froid qui détruisent la structure cellulaire. Les tubercules développent des taches noires, des odeurs désagréables et moisissent vite. Conservez-les toujours à température ambiante (12–15 °C)."
-                    },
-                    {
-                        "title": "Ouvrez le carton dès l'achat pour faire sécher l'humidité 🚫",
-                        "desc": "L'humidité accumulée dans les cartons lors de la récolte ou du transport favorise l'apparition de moisissures. Sortez immédiatement les patates douces et étalez-les sur du papier journal pendant 24 heures pour les sécher complètement avant stockage."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Étaler sur du papier journal dès l'achat pour faire sécher — Élimination de l'humidité 📦",
-                        "text": "L'humidité de surface est la cause principale de moisissure. 💡 Astuce de conservation : Sortez les patates douces du carton et étalez-les sans qu'elles se touchent sur du papier journal dans un endroit frais et aéré pendant une journée."
-                    },
-                    {
-                        "name": "Envelopper individuellement dans du papier journal et placer dans un carton perforé — Stockage ambiant (1-2 mois) 📦",
-                        "text": "La patate douce continue de respirer en dégageant de l'humidité et du CO2, d'où l'importance de la ventilation. 💡 Astuce de conservation : Enveloppez chaque patate douce sèche dans du papier journal et rangez-les dans un carton percé de trous d'aération."
-                    },
-                    {
-                        "name": "Conserver à température ambiante fraîche (12–15 °C) (Congeler uniquement cuites) — Contrôle de l'environnement ❄️",
-                        "text": "Les patates douces crues se conservent idéalement à l'ombre et à l'abri dans une pièce aérée (12–15 °C). 💡 Astuce de conservation : Pour une longue conservation, faites-les cuire à la vapeur ou au four, laissez refroidir puis congelez à -18 °C en boîte hermétique pendant 6 mois."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Est-il dangereux de consommer des patates douces qui ont germé ?",
-                        "answer": "Contrairement aux pommes de terre, les germes de patate douce ne contiennent pas de solanine toxique. Il suffit de couper les germes avec un couteau pour pouvoir les consommer en toute sécurité. Cependant, la germination épuise l'eau et les sucres, réduisant la saveur."
-                    },
-                    {
-                        "question": "Existe-t-il une astuce pour rendre les patates douces plus sucrées ?",
-                        "answer": "Conserver les patates douces à température ambiante (12–15 °C) pendant 1 à 2 semaines active la bêta-amylase, une enzyme qui transforme l'amidon en maltose très sucré. Une cuisson lente entre 60 et 70 °C permet également d'optimiser leur douceur."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Süßkartoffeln richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Süßkartoffeln basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Haben Sie schon einmal eine Kiste Süßkartoffeln im Kühlschrank oder auf einem kalten Balkon gelagert, nur um festzustellen, dass sie weich, dunkel und faul wurden? 🍠\n\nSüßkartoffeln stammen aus tropischen/subtropischen Regionen und reagieren extrem empfindlich auf Kälte und Feuchtigkeit. Bei Lagerung unter 10 °C (z. B. im Kühlschrank oder auf dem ungeheizten Balkon) erleiden sie einen Kälteschaden ('Chilling Injury'). Dabei zerstört Kälte die Zellstruktur, was zu Fäulnis, dunklen Flecken und bitterem Geschmack führt.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Frische und Süße Ihrer Süßkartoffeln zu maximieren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Rohe Süßkartoffeln niemals im Kühlschrank lagern ⚠️",
-                        "desc": "Temperaturen unter 10 °C führen bei rohen Süßkartoffeln zu Kälteschäden, die das Zellgewebe zerstören. Betroffene Knollen bilden dunkle Stellen, riechen unangenehm und schimmeln rasch. Rohe Süßkartoffeln stets bei Raumtemperatur (12–15 °C) lagern."
-                    },
-                    {
-                        "title": "Kiste nach dem Kauf sofort öffnen und Feuchtigkeit trocknen 🚫",
-                        "desc": "Feuchtigkeit, die sich beim Transport in den Kartons staut, begünstigt Schimmelbildung. Öffnen Sie die Verpackung nach dem Kauf sofort und breiten Sie die Knollen etwa 24 Stunden lang auf Zeitungspapier zum Trocknen aus."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Nach dem Kauf sofort auf Zeitungspapier ausbreiten — Feuchtigkeitsentzug 📦",
-                        "text": "Oberflächenfeuchtigkeit ist die Hauptursache für Schimmel und Fäulnis. 💡 Lagerungstipp: Nehmen Sie die Süßkartoffeln aus dem Karton und legen Sie sie an einem kühlen, belüfteten Ort nebeneinander auf Zeitungspapier, um sie einen Tag lang komplett zu trocknen."
-                    },
-                    {
-                        "name": "Einzeln in Zeitungspapier wickeln und in gelochten Karton legen — Raumtemperaturlagerung (1–2 Monate) 📦",
-                        "text": "Süßkartoffeln atmen auch nach der Ernte weiter und geben Feuchtigkeit und CO2 ab, weshalb Belüftung wichtig ist. 💡 Lagerungstipp: Wickeln Sie jede getrocknete Süßkartoffel einzeln in Zeitungspapier und schichten Sie sie in einen belüfteten Karton."
-                    },
-                    {
-                        "name": "Bei kühlen 12–15 °C Raumtemperatur lagern (Nur gekocht einfrieren) — Umgebungskontrolle ❄️",
-                        "text": "Rohe Süßkartoffeln lagern am besten schattig und gut belüftet im Haus bei 12–15 °C. 💡 Lagerungstipp: Für die Langzeitlagerung dämpfen oder backen Sie die Knollen, lassen sie abkühlen und frieren sie Luftdicht bei unter -18 °C für bis zu 6 Monate ein."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Kann man Süßkartoffeln noch essen, wenn sie gekeimt haben?",
-                        "answer": "Anders als bei normalen Kartoffeln enthalten die Keime von Süßkartoffeln kein giftiges Solanin. Sie können die Keime einfach wegschneiden und die Knolle bedenkenlos verzehren. Da das Keimen jedoch Nährstoffe entzieht, sollten sie bald verbraucht werden."
-                    },
-                    {
-                        "question": "Gibt es einen Tipp, um die Süße von Süßkartoffeln zu steigern?",
-                        "answer": "Durch eine Nachreifung bei 12–15 °C Raumtemperatur für 1–2 Wochen wird das Enzym Beta-Amylase aktiviert, das Stärke in süße Maltose umwandelt. Auch ein langsames Garen bei 60–70 °C holt die maximale Süße heraus."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar batata-doce fresca: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para a batata-doce com base em diretrizes oficiais de segurança.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Você já guardou uma caixa de batatas-doces na geladeira ou em uma varanda fria e depois percebeu que elas escureceram, amoleceram e estragaram? 🍠\n\nA batata-doce é uma raiz de origem tropical/subtropical muito sensível ao frio e à umidade. Quando armazenada abaixo de 10 °C (como na geladeira ou em varandas no inverno), sofre danos por frio ('chilling injury'), destruindo os tecidos celulares e causando deterioração rápida, manchas escuras e gosto amargo.\n\nNeste guia, apresentamos um guia prático de conservação de batata-doce em 3 etapas recomendado por especialistas para manter a frescura e a doçura pelo maior tempo possível. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Compreender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca guarde batatas-doces cruas na geladeira ⚠️",
-                        "desc": "Expor batatas-doces cruas a temperaturas abaixo de 10 °C causa danos por frio que destroem a estrutura celular. Batatas afetadas ganham manchas escuras, mau cheiro e mofam rapidamente. Guarde-as sempre em temperatura ambiente (12-15 °C)."
-                    },
-                    {
-                        "title": "Abra a caixa imediatamente para secar a umidade 🚫",
-                        "desc": "A umidade acumulada nas caixas durante a colheita ou transporte cria um ambiente ideal para fungos. Abra a embalagem logo após a compra e espalhe as batatas sobre jornal por cerca de 24 horas para secar bem."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Espalhar sobre jornal logo após a compra para secar — Remoção de umidade 📦",
-                        "text": "A umidade na superfície é a principal causa de mofo e podridão. 💡 Dica de conservação: Retire as batatas da caixa e espalhe-as sobre jornal em local fresco e arejado por um dia sem sobrepô-las para secar a umidade."
-                    },
-                    {
-                        "name": "Embrulhar individualmente em jornal e colocar em caixa perfurada — Armazenamento ambiente (1 a 2 meses) 📦",
-                        "text": "A batata-doce continua respirando e liberando umidade e CO2, tornando a ventilação essencial. 💡 Dica de conservação: Embrulhe cada batata seca em papel jornal e coloque-as em uma caixa de papelão com furos de ventilação."
-                    },
-                    {
-                        "name": "Conservar em temperatura ambiente fresca (12-15 °C) (Congele apenas se cozida) — Controle ambiental ❄️",
-                        "text": "Batatas-doces cruas conservam-se melhor em local escuro e ventilado entre 12 e 15 °C. 💡 Dica de conservação: Para guardar por longo prazo, cozinhe no vapor ou asse, espere esfriar totalmente e congele abaixo de -18 °C em pote hermético por até 6 meses."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "É seguro comer batatas-doces que brotaram?",
-                        "answer": "Diferente das batatas inglesas, os brotos da batata-doce não contêm solanina tóxica. É perfeitamente seguro consumi-las cortando os brotos. Porém, os brotos consomem nutrientes e umidade reduzindo a doçura, então consuma-as logo."
-                    },
-                    {
-                        "question": "Existe algum truque para aumentar a doçura da batata-doce?",
-                        "answer": "Deixar as batatas-doces curando em temperatura ambiente (12-15 °C) por 1 a 2 semanas ativa a enzima beta-amilase, convertendo o amido em maltose doce. Além disso, cozinhá-las lentamente entre 60 e 70 °C maximiza o sabor adocicado."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Ubi Jalar agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk ubi jalar berdasarkan pedoman keselamatan resmi.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Pernahkah Anda menyimpan satu kotak ubi jalar di kulkas atau area berudara dingin lalu mendapati bagian dalamnya menghitam, lembek, dan membusuk? 🍠\n\nUbi jalar adalah tanaman umbi tropis/subtropis yang sangat sensitif terhadap suhu dingin dan kelembapan tinggi. Jika disimpan di bawah suhu 10°C (seperti di dalam kulkas), ubi jalar akan mengalami 'chilling injury' (kerusakan akibat dingin) yang merusak jaringan sel, memicu pembusukan cepat, perubahan warna, dan rasa pahit.\n\nDalam panduan ini, kami membagikan panduan penyimpanan ubi jalar 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan untuk menjaga kesegaran dan rasa manisnya. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan pernah menyimpan ubi jalar mentah di dalam kulkas ⚠️",
-                        "desc": "Paparan suhu di bawah 10°C pada ubi jalar mentah menyebabkan kerusakan akibat dingin (chilling injury) yang merusak dinding sel. Ubi yang rusak akan menghitam, berbau tidak sedap, dan cepat membusuk karena jamur. Simpan selalu pada suhu ruang (12–15°C)."
-                    },
-                    {
-                        "title": "Buka kemasan segera setelah dibeli untuk mengeringkan kelembapan 🚫",
-                        "desc": "Kelembapan yang terperangkap dalam kotak saat panen atau pengiriman menjadi tempat ideal bagi jamur untuk tumbuh. Segera buka kemasan dan tebarkan ubi jalar di atas kertas koran selama 24 jam sebelum disimpan."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Tebarkan di atas kertas koran segera setelah dibeli — Pengeringan Kelembapan 📦",
-                        "text": "Kelembapan pada permukaan ubi adalah penyebab utama tumbuhnya jamur. 💡 Tips Penyimpanan: Keluarkan ubi dari kotak dan tebarkan di atas kertas koran di tempat yang sejuk dan berangin tanpa bertumpuk selama sehari hingga benar-benar kering."
-                    },
-                    {
-                        "name": "Bungkus satu per satu dengan koran lalu masukkan ke kardus berlubang — Simpan Suhu Ruang (1–2 Bulan) 📦",
-                        "text": "Ubi jalar terus bernapas dengan mengeluarkan uap air dan karbon dioksida, sehingga ventilasi sangat penting. 💡 Tips Penyimpanan: Bungkus setiap ubi yang sudah kering dengan kertas koran dan susun rapi dalam kardus yang diberi lubang udara."
-                    },
-                    {
-                        "name": "Simpan pada suhu ruang sejuk 12–15°C (Bekukan hanya jika sudah matang) — Kontrol Lingkungan ❄️",
-                        "text": "Ubi jalar mentah paling baik disimpan di tempat teduh berangin pada suhu 12–15°C (seperti area dalam rumah). 💡 Tips Penyimpanan: Untuk penyimpanan jangka panjang, kukus atau panggang ubi jalar, dinginkan sepenuhnya, lalu bekukan dalam wadah kedap udara (-18°C) hingga 6 bulan."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apakah ubi jalar yang sudah bertunas aman untuk dimakan?",
-                        "answer": "Berbeda dengan kentang biasa, tunas ubi jalar tidak mengandung racun solanin. Ubi jalar bertunas sepenuhnya aman dikonsumsi setelah bagian tunas dibuang dengan pisau. Namun, bertunas menyerap kadar air dan nutrisi sehingga manisnya berkurang, jadi sebaiknya segera dimasak."
-                    },
-                    {
-                        "question": "Apakah ada tips untuk memaksimalkan rasa manis pada ubi jalar?",
-                        "answer": "Pemeraman ubi jalar pada suhu ruang (12–15°C) selama 1–2 minggu akan mengaktifkan enzim beta-amilase yang mengubah pati menjadi gula maltosa yang manis. Selain itu, memasak ubi secara perlahan pada suhu 60–70°C akan memaksimalkan pembentukan rasa manis alami."
-                    }
-                ]
-            }
-        }
+  "how-to-store-sweet-potato": {
+    "ingId": "sweet-potato",
+    "pubDate": "2026-03-12",
+    "updatedDate": "2026-03-12",
+    "heroImage": "/images/blog/sweet_potato_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "고구마 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 고구마의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+        "intro": "고구마를 박스째 사 와서 냉장고나 서늘한 베란다에 두었다가 검게 변하고 무르는 경험 있으시죠? 🍠\n\n고구마는 아열대성 아열대 작물로, 추위와 습기에 매우 취약한 특성을 가지고 있습니다. 특히 10℃ 이하의 낮은 온도가 유지되는 냉장고나 겨울철 베란다에 보관하면 고구마 세포 조직이 파괴되는 '냉해(Chilling Injury)'를 입어 신속하게 부패하고 쓴맛이 나게 됩니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 과학적이고 확실한 고구마 신선도 극대화 3단계 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "절대로 생고구마를 냉장 보관하지 마세요 ⚠️",
+            "desc": "고구마는 10℃ 이하의 저온에 노출되면 냉해를 입어 세포막이 파괴됩니다. 냉해를 입은 고구마는 표면이 검게 변색되고 악취가 나며 검은곰팡이 등의 균에 노출되어 빠르게 부패합니다. 생고구마는 반드시 12 ~ 15℃의 상온에 보관해야 합니다."
+          },
+          {
+            "title": "구매 즉시 상자를 열어 습기를 완전히 말려주세요 🚫",
+            "desc": "수확 후 또는 유통 과정에서 고구마에 차오른 수분과 땀을 방치하면 곰팡이가 피기 매우 쉽습니다. 구매 후 즉시 고구마를 넓게 펼쳐 신문지 위에서 하루 정도 바짝 말린 뒤 보관해야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "구매 직후 신문지에 펼쳐 습기 말리기 — 수분 제거 및 건조 📦",
+            "text": "고구마 표면의 습기는 곰팡이 발생과 부패의 주원인입니다. 💡 보관 팁: 박스를 개봉하여 서늘하고 바람이 잘 통하는 곳에 신문지를 깔고 고구마를 서로 겹치지 않게 펼쳐 하루 정도 습기를 완전히 말려주세요."
+          },
+          {
+            "name": "신문지로 개별 포장 후 구멍 뚫린 상자에 담기 — 통풍 보관 (1 ~ 2개월) 📦",
+            "text": "고구마는 호흡 작용을 하면서 수분과 이산화탄소를 배출하므로 통풍이 핵심입니다. 💡 보관 팁: 말린 고구마를 신문지나 종이로 한 개씩 감싼 뒤, 구멍을 뚫은 종이 상자에 차곡차곡 담아주세요. 신문지가 습기를 흡수하고 고구마끼리의 마찰 상처를 막아줍니다."
+          },
+          {
+            "name": "12 ~ 15℃ 서늘한 상온에 보관하기 (익힌 고구마는 냉동 보관) — 최적 환경 관리 ❄️",
+            "text": "생고구마는 12 ~ 15℃의 그늘지고 바람 통하는 상온(거실 내부 등)에 보관해야 장기 보관이 가능합니다. 💡 보관 팁: 만약 장기 보관을 원한다면 고구마를 찌거나 구운 뒤 완벽히 식혀서 밀폐 용기에 담아 냉동실(-18℃ 이하)에 보관하세요. 최대 6개월 이상 신선하게 즐길 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "고구마에 싹이 났는데 먹어도 안전한가요?",
+            "answer": "감자와 달리 고구마의 싹에는 독성 물질(솔라닌)이 없습니다. 따라서 싹을 칼로 도려내고 섭취해도 안전합니다. 다만 싹이 자라면 고구마 내부의 영양분과 수분이 빠져나가 식감이 푸석해지고 단맛이 줄어들 수 있으니 가급적 빨리 드시는 것이 좋습니다."
+          },
+          {
+            "question": "고구마의 단맛을 극대화하는 후숙 비법이 있나요?",
+            "answer": "고구마는 수확 후 12 ~ 15℃ 상온에서 1 ~ 2주간 후숙 과정을 거치면 베타아밀라아제(Beta-amylase) 효소가 활성화되어 녹말이 당분(맥아당)으로 전환되어 훨씬 달콤해집니다. 또한 찌거나 구울 때 60 ~ 70℃ 온도를 오래 유지해 은근하게 익히면 단맛이 최대치로 올라갑니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Sweet Potatoes Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for sweet potatoes based on official safety guidelines.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Have you ever stored a box of sweet potatoes in the refrigerator or a cold balcony, only to find them discolored, mushy, and rotting? 🍠\n\nSweet potatoes are tropical/subtropical root crops highly sensitive to cold temperatures and excess moisture. When stored below 10°C—such as in a refrigerator or an unheated winter balcony—they suffer from 'chilling injury,' which breaks down cellular tissue, resulting in decay, internal darkening, and a bitter taste.\n\nIn this guide, introduces a scientifically proven 3-step sweet potato storage guide recommended by agriculture and food safety experts to maximize freshness. 🛡️",
+        "whyTitle": "Why Store Sweet Potatoes This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never store raw sweet potatoes in the refrigerator ⚠️",
+            "desc": "Exposing raw sweet potatoes to temperatures below 10°C causes chilling injury that destroys cellular walls. Chilled sweet potatoes develop dark spots, foul odors, and rot rapidly due to fungal growth. Keep raw sweet potatoes at room temperature (12–15°C)."
+          },
+          {
+            "title": "Open the box immediately upon purchase to dry excess moisture 🚫",
+            "desc": "Moisture trapped inside boxes during harvesting or shipping creates an ideal environment for mold. Immediately open the package and spread the sweet potatoes out on newspaper for about 24 hours to air-dry completely before storage."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Spread on newspaper immediately after purchase to air-dry — Moisture Removal 📦",
+            "text": "Surface moisture is the leading cause of mold and decay. 💡 Storage Tip: Unpack sweet potatoes and lay them flat on newspaper in a cool, well-ventilated area without overlapping for a day to dry off all surface dampness."
+          },
+          {
+            "name": "Wrap individually in newspaper and place in a ventilated cardboard box — Ambient Storage (1–2 Months) 📦",
+            "text": "Sweet potatoes continue to respire, emitting moisture and carbon dioxide, making ventilation vital. 💡 Storage Tip: Wrap each dried sweet potato individually in newspaper and layer them into a perforated cardboard box. Newspaper absorbs humidity and prevents bruising."
+          },
+          {
+            "name": "Store at a cool room temperature of 12–15°C (Freeze cooked only) — Optimal Environment Control ❄️",
+            "text": "Raw sweet potatoes store best in a shaded, ventilated room at 12–15°C (e.g., indoors). 💡 Storage Tip: For long-term storage, steam or bake sweet potatoes, let them cool completely, seal in airtight containers, and freeze below -18°C. They remain delicious for up to 6 months."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Is it safe to eat sweet potatoes that have sprouted?",
+            "answer": "Unlike white potatoes, sprouted sweet potatoes do not contain toxic solanine. It is completely safe to consume them after cutting off the sprouts. However, sprouting drains moisture and nutrients, reducing sweetness and causing a stringy texture, so consume them promptly."
+          },
+          {
+            "question": "Is there a tip to maximize the sweetness of sweet potatoes?",
+            "answer": "Curing sweet potatoes at room temperature (12–15°C) for 1–2 weeks activates beta-amylase enzymes, converting starches into sweet maltose. Additionally, cooking them slowly at 60–70°C (140–158°F) gives enzymes time to maximize sweetness."
+          }
+        ]
+      },
+      "ja": {
+        "title": "さつまいもを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくさつまいもの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "さつまいもを箱で買って冷蔵庫や寒いベランダに置いておいたら、黒く変色して傷んでしまった経験はありませんか？🍠\n\nさつまいもは熱帯・亜熱帯原産の作物で、寒さと湿気に非常に弱い特徴を持っています。特に10℃以下の低温環境（冷蔵庫や冬場のベランダなど）にさらされると、細胞組織が破壊される「低温障害（Chilling Injury）」を起こし、急速に腐敗して苦味が発生します。\n\n本記事では、農学および食品安全の専門家が推奨する、さつまいもの鮮度と甘みを最大化する科学的で確実な3段階の保存のコツをご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "生のさつまいもを絶対に冷蔵保存しないでください ⚠️",
+            "desc": "さつまいもは10℃ low以下の低温に晒されると低温障害を起こし、細胞膜が破壊されます。低温障害を受けたさつまいもは黒く変色し、異臭を放ちながらカビが繁殖して急速に腐敗します。生のさつまいもは strictly 12〜15℃の常温で保存してください。"
+          },
+          {
+            "title": "購入後すぐに箱を開けて湿気をしっかり乾燥させてください 🚫",
+            "desc": "収穫時や輸送中にさつまいもに溜まった水分や汗を放置すると、非常にカビが生えやすくなります。購入後はすぐに箱から出し、新聞紙の上に広げて1日ほどしっかり乾燥させてから保存してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "購入後すぐに新聞紙に広げて乾燥させる — 水分除去と乾燥 📦",
+            "text": "さつまいも表面の湿気はカビや腐敗の最大の原因です。💡保存のコツ：箱を開けて風通しの良い涼しい場所に新聞紙を敷き、さつまいも同士が重ならないよう広げて1日程度表面の湿気を完全に乾かしてください。"
+          },
+          {
+            "name": "新聞紙で個別包装し穴を開けたダンボール箱に入れる — 通気性保存 (1〜2ヶ月間) 📦",
+            "text": "さつまいもは呼吸作用により水分と二酸化炭素を排出するため、通気性が非常に重要です。💡保存のコツ：乾いたさつまいもを1本ずつ新聞紙で包み、空気穴を開けたダンボール箱に重ねて入れます。新聞紙が湿気を吸収し傷付きを防ぎます。"
+          },
+          {
+            "name": "12〜15℃の涼しい常温で保存する（加熱後は冷凍保存） — 最適環境管理 ❄️",
+            "text": "生のさつまいもは12〜15℃の風通しの良い日陰（室内のリビングなど）に置くのがベストです。💡保存のコツ：長期保存したい場合は、蒸すか焼いた後にしっかり冷まし、密閉容器に入れて冷凍室（-18℃以下）で保存してください。6ヶ月以上美味しく召し上がれます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "さつまいもから芽が出てしまいましたが、食べても安全ですか？",
+            "answer": "じゃがいもと異なり、さつまいもの芽には毒性のあるソラニンなどは含まれていません。芽をナイフで取り除けば安全に食べられます。ただし、芽が伸びると栄養や水分が奪われてパサつき甘みが減るため、早めにお召し上がりください。"
+          },
+          {
+            "question": "さつまいもの甘みを最大限引き出す熟成のコツはありますか？",
+            "answer": "さつまいもは収穫後、12〜15℃の常温で1〜2週間ほど追熟させると、β-アミラーゼ酵素が活発になりデンプンが麦芽糖（甘み）へ変化して甘みが増します。また、調理時に60〜70℃の温度帯でじっくり加熱すると甘みが極限まで高まります。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持红薯新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解红薯的最佳储存温度、方式和保鲜时长。",
+        "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "您是否曾整箱买回红薯放入冰箱或寒冷的阳台，结果却发现红薯变黑、发软甚至腐烂？🍠\n\n红薯属于热带及亚热带作物，对寒冷和潮湿极为敏感。如果将其存放在10℃以下的低温环境中（如冰箱或冬季未供暖的阳台），红薯会遭受“冷害（Chilling Injury）”，细胞组织遭到破坏，导致迅速腐烂、变黑并产生苦味。\n\n本指南将为您介绍由农业及食品安全专家推荐的科学3步红薯保鲜秘诀，帮您最大程度锁定新鲜与甜度。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "切勿将生红薯冷藏保存 ⚠️",
+            "desc": "生红薯暴露于10℃以下的低温会遭受冷害，破坏细胞结构。受冷害的红薯表面会出现黑斑、散发异味，并极易滋生霉菌而迅速腐烂。生红薯务必存放在12 ~ 15℃的常温环境中。"
+          },
+          {
+            "title": "购买后请立即开箱晾干水分 🚫",
+            "desc": "采收或运输过程中积聚在红薯表面的湿气极易引发发霉。购买后应立即打开包装，将红薯摊开在报纸上晾干约24小时，待表面彻底干燥后再进行储存。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "购买后立即摊在报纸上晾干 — 彻底排湿 📦",
+            "text": "红薯表面的湿气是导致发霉和腐烂的主要原因。💡储存小贴士：拆开包装，在阴凉通风处铺上报纸，将红薯单层平铺晾干一天，彻底清除表面潮气。"
+          },
+          {
+            "name": "用报纸逐个包裹后放入带孔纸箱 — 通风常温储存 (1 ~ 2个月) 📦",
+            "text": "红薯在储存期间仍会进行呼吸作用释放水分和二氧化碳，因此良好的通风至关重要。💡储存小贴士：用报纸将晾干的红薯逐个包好，装入打有通气孔的纸箱中。报纸可吸收湿气并防止表皮磕伤。"
+          },
+          {
+            "name": "存放在12 ~ 15℃阴凉常温处（熟红薯可冷冻） — 最佳环境管理 ❄️",
+            "text": "生红薯最适合存放在12 ~ 15℃阴凉通风的常温室内（如客厅避光处）。💡储存小贴士：如需长期保存，可将红薯蒸熟或烤熟，彻底晾凉后放入密封盒，置于冷冻室（-18℃以下）保存，可保鲜6个月以上。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "红薯发芽了还能吃吗？",
+            "answer": "与土豆不同，红薯发芽不会产生毒素（如龙葵素）。将芽眼切除后即可安全食用。不过发芽会消耗红薯内部的水分和营养，导致口感变柴、甜度下降，因此建议尽早食用。"
+          },
+          {
+            "question": "有什么方法能让红薯口感更甜？",
+            "answer": "红薯采收后在12 ~ 15℃常温下糖化（后熟）1 ~ 2周，可激活内部的β-淀粉酶，将淀粉转化为麦芽糖，甜度会大幅提升。此外，烹饪时在60 ~ 70℃的温度下慢蒸或慢烤，能最大程度释放甜味。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener Batatas (Camotes) frescas: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para las batatas según las directrices oficiales de seguridad.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "¿Alguna vez guardó una caja de batatas (camotes) en el refrigerador o en un balcón frío solo para descubrir que se oscurecían, se ponían blandas y se pudrían? 🍠\n\nLa batata es un cultivo de raíz de origen tropical/subtropical sensible al frío y a la humedad. Al almacenarse por debajo de los 10 °C (como en el refrigerador o en un balcón helado en invierno), sufre daño por frío ('chilling injury'), lo que destruye sus tejidos celulares, provocando pudrición rápida, oscurecimiento y sabor amargo.\n\nEn esta guía se presenta una guía de conservación de batatas en 3 pasos respaldada por expertos para maximizar su frescura y dulzura. 🛡️",
+        "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Nunca guarde batatas crudas en el refrigerador ⚠️",
+            "desc": "Exponer las batatas crudas a temperaturas inferiores a 10 °C causa daño por frío destruyendo la pared celular. Las batatas dañadas desarrollan manchas oscuras, mal olor y mohos. Consérvelas siempre a temperatura ambiente (12-15 °C)."
+          },
+          {
+            "title": "Abra la caja de inmediato para secar la humedad acumulada 🚫",
+            "desc": "La humedad atrapada en las cajas durante la cosecha o el transporte es el entorno perfecto para los hongos. Abra el empaque de inmediato y extienda las batatas sobre papel periódico durante 24 horas antes de guardarlas."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Extienda sobre papel periódico al comprar para secar — Eliminación de humedad 📦",
+            "text": "La humedad en la superficie es la causa principal del moho. 💡 Consejo de almacenamiento: Saque las batatas de la caja y extiéndalas sobre papel periódico en un lugar fresco y ventilado durante un día sin que se encimen para secar la humedad."
+          },
+          {
+            "name": "Envuelva individualmente en papel periódico y coloque en una caja perforada — Almacenamiento a temperatura ambiente (1-2 meses) 📦",
+            "text": "Las batatas continúan respirando liberando humedad y dióxido de carbono, por lo que la ventilación es vital. 💡 Consejo de almacenamiento: Envuelva cada batata seca en papel periódico y colóquelas en una caja de cartón con orificios."
+          },
+          {
+            "name": "Conserve a temperatura ambiente fresca (12-15 °C) (Congele solo si están cocidas) — Control ambiental ❄️",
+            "text": "Las batatas crudas se conservan mejor en un lugar oscuro y ventilado entre 12 y 15 °C. 💡 Consejo de almacenamiento: Para guardar a largo plazo, cocínelas al vapor o asadas, déjelas enfriar por completo y congele bajo -18 °C. Se mantendrán sabrosas hasta por 6 meses."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Es seguro comer batatas que han brotado?",
+            "answer": "A diferencia de las papas blancas, los brotes de batata no contienen solanina tóxica. Es totalmente seguro comerlas retirando los brotes con un cuchillo. Sin embargo, los brotes consumen agua y nutrientes reduciendo la dulzura, por lo que conviene consumirlas pronto."
+          },
+          {
+            "question": "¿Hay algún truco para maximizar la dulzura de las batatas?",
+            "answer": "Curar las batatas a temperatura ambiente (12-15 °C) durante 1 o 2 semanas activa la enzima beta-amilasa, convirtiendo el almidón en maltosa dulce. Además, cocinarlas lentamente entre 60 y 70 °C permite que las enzimas maximicen la dulzura."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver les patates douces fraîches : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les patates douces selon les directives officielles de sécurité.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Avez-vous déjà conservé un carton de patates douces au réfrigérateur ou sur un balcon froid pour constater qu'elles devenaient noires, molles et pourries ? 🍠\n\nLa patate douce est un légume racine d'origine tropicale/subtropicale très sensible au froid et à l'humidité. Stockée en dessous de 10 °C (comme au réfrigérateur ou sur un balcon en hiver), elle subit des 'blessures de froid' (Chilling Injury) qui détruisent ses tissus cellulaires, provoquant un pourrissement rapide et un goût amer.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts pour préserver la fraîcheur et la douceur des patates douces. 🛡️",
+        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne conservez jamais les patates douces crues au réfrigérateur ⚠️",
+            "desc": "L'exposition des patates douces crues à moins de 10 °C provoque des lésions dues au froid qui détruisent la structure cellulaire. Les tubercules développent des taches noires, des odeurs désagréables et moisissent vite. Conservez-les toujours à température ambiante (12–15 °C)."
+          },
+          {
+            "title": "Ouvrez le carton dès l'achat pour faire sécher l'humidité 🚫",
+            "desc": "L'humidité accumulée dans les cartons lors de la récolte ou du transport favorise l'apparition de moisissures. Sortez immédiatement les patates douces et étalez-les sur du papier journal pendant 24 heures pour les sécher complètement avant stockage."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Étaler sur du papier journal dès l'achat pour faire sécher — Élimination de l'humidité 📦",
+            "text": "L'humidité de surface est la cause principale de moisissure. 💡 Astuce de conservation : Sortez les patates douces du carton et étalez-les sans qu'elles se touchent sur du papier journal dans un endroit frais et aéré pendant une journée."
+          },
+          {
+            "name": "Envelopper individuellement dans du papier journal et placer dans un carton perforé — Stockage ambiant (1-2 mois) 📦",
+            "text": "La patate douce continue de respirer en dégageant de l'humidité et du CO2, d'où l'importance de la ventilation. 💡 Astuce de conservation : Enveloppez chaque patate douce sèche dans du papier journal et rangez-les dans un carton percé de trous d'aération."
+          },
+          {
+            "name": "Conserver à température ambiante fraîche (12–15 °C) (Congeler uniquement cuites) — Contrôle de l'environnement ❄️",
+            "text": "Les patates douces crues se conservent idéalement à l'ombre et à l'abri dans une pièce aérée (12–15 °C). 💡 Astuce de conservation : Pour une longue conservation, faites-les cuire à la vapeur ou au four, laissez refroidir puis congelez à -18 °C en boîte hermétique pendant 6 mois."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Est-il dangereux de consommer des patates douces qui ont germé ?",
+            "answer": "Contrairement aux pommes de terre, les germes de patate douce ne contiennent pas de solanine toxique. Il suffit de couper les germes avec un couteau pour pouvoir les consommer en toute sécurité. Cependant, la germination épuise l'eau et les sucres, réduisant la saveur."
+          },
+          {
+            "question": "Existe-t-il une astuce pour rendre les patates douces plus sucrées ?",
+            "answer": "Conserver les patates douces à température ambiante (12–15 °C) pendant 1 à 2 semaines active la bêta-amylase, une enzyme qui transforme l'amidon en maltose très sucré. Une cuisson lente entre 60 et 70 °C permet également d'optimiser leur douceur."
+          }
+        ]
+      },
+      "de": {
+        "title": "Süßkartoffeln richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Süßkartoffeln basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Haben Sie schon einmal eine Kiste Süßkartoffeln im Kühlschrank oder auf einem kalten Balkon gelagert, nur um festzustellen, dass sie weich, dunkel und faul wurden? 🍠\n\nSüßkartoffeln stammen aus tropischen/subtropischen Regionen und reagieren extrem empfindlich auf Kälte und Feuchtigkeit. Bei Lagerung unter 10 °C (z. B. im Kühlschrank oder auf dem ungeheizten Balkon) erleiden sie einen Kälteschaden ('Chilling Injury'). Dabei zerstört Kälte die Zellstruktur, was zu Fäulnis, dunklen Flecken und bitterem Geschmack führt.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Frische und Süße Ihrer Süßkartoffeln zu maximieren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Rohe Süßkartoffeln niemals im Kühlschrank lagern ⚠️",
+            "desc": "Temperaturen unter 10 °C führen bei rohen Süßkartoffeln zu Kälteschäden, die das Zellgewebe zerstören. Betroffene Knollen bilden dunkle Stellen, riechen unangenehm und schimmeln rasch. Rohe Süßkartoffeln stets bei Raumtemperatur (12–15 °C) lagern."
+          },
+          {
+            "title": "Kiste nach dem Kauf sofort öffnen und Feuchtigkeit trocknen 🚫",
+            "desc": "Feuchtigkeit, die sich beim Transport in den Kartons staut, begünstigt Schimmelbildung. Öffnen Sie die Verpackung nach dem Kauf sofort und breiten Sie die Knollen etwa 24 Stunden lang auf Zeitungspapier zum Trocknen aus."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Nach dem Kauf sofort auf Zeitungspapier ausbreiten — Feuchtigkeitsentzug 📦",
+            "text": "Oberflächenfeuchtigkeit ist die Hauptursache für Schimmel und Fäulnis. 💡 Lagerungstipp: Nehmen Sie die Süßkartoffeln aus dem Karton und legen Sie sie an einem kühlen, belüfteten Ort nebeneinander auf Zeitungspapier, um sie einen Tag lang komplett zu trocknen."
+          },
+          {
+            "name": "Einzeln in Zeitungspapier wickeln und in gelochten Karton legen — Raumtemperaturlagerung (1–2 Monate) 📦",
+            "text": "Süßkartoffeln atmen auch nach der Ernte weiter und geben Feuchtigkeit und CO2 ab, weshalb Belüftung wichtig ist. 💡 Lagerungstipp: Wickeln Sie jede getrocknete Süßkartoffel einzeln in Zeitungspapier und schichten Sie sie in einen belüfteten Karton."
+          },
+          {
+            "name": "Bei kühlen 12–15 °C Raumtemperatur lagern (Nur gekocht einfrieren) — Umgebungskontrolle ❄️",
+            "text": "Rohe Süßkartoffeln lagern am besten schattig und gut belüftet im Haus bei 12–15 °C. 💡 Lagerungstipp: Für die Langzeitlagerung dämpfen oder backen Sie die Knollen, lassen sie abkühlen und frieren sie Luftdicht bei unter -18 °C für bis zu 6 Monate ein."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Kann man Süßkartoffeln noch essen, wenn sie gekeimt haben?",
+            "answer": "Anders als bei normalen Kartoffeln enthalten die Keime von Süßkartoffeln kein giftiges Solanin. Sie können die Keime einfach wegschneiden und die Knolle bedenkenlos verzehren. Da das Keimen jedoch Nährstoffe entzieht, sollten sie bald verbraucht werden."
+          },
+          {
+            "question": "Gibt es einen Tipp, um die Süße von Süßkartoffeln zu steigern?",
+            "answer": "Durch eine Nachreifung bei 12–15 °C Raumtemperatur für 1–2 Wochen wird das Enzym Beta-Amylase aktiviert, das Stärke in süße Maltose umwandelt. Auch ein langsames Garen bei 60–70 °C holt die maximale Süße heraus."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar batata-doce fresca: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para a batata-doce com base em diretrizes oficiais de segurança.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Você já guardou uma caixa de batatas-doces na geladeira ou em uma varanda fria e depois percebeu que elas escureceram, amoleceram e estragaram? 🍠\n\nA batata-doce é uma raiz de origem tropical/subtropical muito sensível ao frio e à umidade. Quando armazenada abaixo de 10 °C (como na geladeira ou em varandas no inverno), sofre danos por frio ('chilling injury'), destruindo os tecidos celulares e causando deterioração rápida, manchas escuras e gosto amargo.\n\nNeste guia, apresentamos um guia prático de conservação de batata-doce em 3 etapas recomendado por especialistas para manter a frescura e a doçura pelo maior tempo possível. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Compreender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca guarde batatas-doces cruas na geladeira ⚠️",
+            "desc": "Expor batatas-doces cruas a temperaturas abaixo de 10 °C causa danos por frio que destroem a estrutura celular. Batatas afetadas ganham manchas escuras, mau cheiro e mofam rapidamente. Guarde-as sempre em temperatura ambiente (12-15 °C)."
+          },
+          {
+            "title": "Abra a caixa imediatamente para secar a umidade 🚫",
+            "desc": "A umidade acumulada nas caixas durante a colheita ou transporte cria um ambiente ideal para fungos. Abra a embalagem logo após a compra e espalhe as batatas sobre jornal por cerca de 24 horas para secar bem."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Espalhar sobre jornal logo após a compra para secar — Remoção de umidade 📦",
+            "text": "A umidade na superfície é a principal causa de mofo e podridão. 💡 Dica de conservação: Retire as batatas da caixa e espalhe-as sobre jornal em local fresco e arejado por um dia sem sobrepô-las para secar a umidade."
+          },
+          {
+            "name": "Embrulhar individualmente em jornal e colocar em caixa perfurada — Armazenamento ambiente (1 a 2 meses) 📦",
+            "text": "A batata-doce continua respirando e liberando umidade e CO2, tornando a ventilação essencial. 💡 Dica de conservação: Embrulhe cada batata seca em papel jornal e coloque-as em uma caixa de papelão com furos de ventilação."
+          },
+          {
+            "name": "Conservar em temperatura ambiente fresca (12-15 °C) (Congele apenas se cozida) — Controle ambiental ❄️",
+            "text": "Batatas-doces cruas conservam-se melhor em local escuro e ventilado entre 12 e 15 °C. 💡 Dica de conservação: Para guardar por longo prazo, cozinhe no vapor ou asse, espere esfriar totalmente e congele abaixo de -18 °C em pote hermético por até 6 meses."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "É seguro comer batatas-doces que brotaram?",
+            "answer": "Diferente das batatas inglesas, os brotos da batata-doce não contêm solanina tóxica. É perfeitamente seguro consumi-las cortando os brotos. Porém, os brotos consomem nutrientes e umidade reduzindo a doçura, então consuma-as logo."
+          },
+          {
+            "question": "Existe algum truque para aumentar a doçura da batata-doce?",
+            "answer": "Deixar as batatas-doces curando em temperatura ambiente (12-15 °C) por 1 a 2 semanas ativa a enzima beta-amilase, convertendo o amido em maltose doce. Além disso, cozinhá-las lentamente entre 60 e 70 °C maximiza o sabor adocicado."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Ubi Jalar agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk ubi jalar berdasarkan pedoman keselamatan resmi.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Pernahkah Anda menyimpan satu kotak ubi jalar di kulkas atau area berudara dingin lalu mendapati bagian dalamnya menghitam, lembek, dan membusuk? 🍠\n\nUbi jalar adalah tanaman umbi tropis/subtropis yang sangat sensitif terhadap suhu dingin dan kelembapan tinggi. Jika disimpan di bawah suhu 10°C (seperti di dalam kulkas), ubi jalar akan mengalami 'chilling injury' (kerusakan akibat dingin) yang merusak jaringan sel, memicu pembusukan cepat, perubahan warna, dan rasa pahit.\n\nDalam panduan ini, kami membagikan panduan penyimpanan ubi jalar 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan untuk menjaga kesegaran dan rasa manisnya. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan pernah menyimpan ubi jalar mentah di dalam kulkas ⚠️",
+            "desc": "Paparan suhu di bawah 10°C pada ubi jalar mentah menyebabkan kerusakan akibat dingin (chilling injury) yang merusak dinding sel. Ubi yang rusak akan menghitam, berbau tidak sedap, dan cepat membusuk karena jamur. Simpan selalu pada suhu ruang (12–15°C)."
+          },
+          {
+            "title": "Buka kemasan segera setelah dibeli untuk mengeringkan kelembapan 🚫",
+            "desc": "Kelembapan yang terperangkap dalam kotak saat panen atau pengiriman menjadi tempat ideal bagi jamur untuk tumbuh. Segera buka kemasan dan tebarkan ubi jalar di atas kertas koran selama 24 jam sebelum disimpan."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Tebarkan di atas kertas koran segera setelah dibeli — Pengeringan Kelembapan 📦",
+            "text": "Kelembapan pada permukaan ubi adalah penyebab utama tumbuhnya jamur. 💡 Tips Penyimpanan: Keluarkan ubi dari kotak dan tebarkan di atas kertas koran di tempat yang sejuk dan berangin tanpa bertumpuk selama sehari hingga benar-benar kering."
+          },
+          {
+            "name": "Bungkus satu per satu dengan koran lalu masukkan ke kardus berlubang — Simpan Suhu Ruang (1–2 Bulan) 📦",
+            "text": "Ubi jalar terus bernapas dengan mengeluarkan uap air dan karbon dioksida, sehingga ventilasi sangat penting. 💡 Tips Penyimpanan: Bungkus setiap ubi yang sudah kering dengan kertas koran dan susun rapi dalam kardus yang diberi lubang udara."
+          },
+          {
+            "name": "Simpan pada suhu ruang sejuk 12–15°C (Bekukan hanya jika sudah matang) — Kontrol Lingkungan ❄️",
+            "text": "Ubi jalar mentah paling baik disimpan di tempat teduh berangin pada suhu 12–15°C (seperti area dalam rumah). 💡 Tips Penyimpanan: Untuk penyimpanan jangka panjang, kukus atau panggang ubi jalar, dinginkan sepenuhnya, lalu bekukan dalam wadah kedap udara (-18°C) hingga 6 bulan."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah ubi jalar yang sudah bertunas aman untuk dimakan?",
+            "answer": "Berbeda dengan kentang biasa, tunas ubi jalar tidak mengandung racun solanin. Ubi jalar bertunas sepenuhnya aman dikonsumsi setelah bagian tunas dibuang dengan pisau. Namun, bertunas menyerap kadar air dan nutrisi sehingga manisnya berkurang, jadi sebaiknya segera dimasak."
+          },
+          {
+            "question": "Apakah ada tips untuk memaksimalkan rasa manis pada ubi jalar?",
+            "answer": "Pemeraman ubi jalar pada suhu ruang (12–15°C) selama 1–2 minggu akan mengaktifkan enzim beta-amilase yang mengubah pati menjadi gula maltosa yang manis. Selain itu, memasak ubi secara perlahan pada suhu 60–70°C akan memaksimalkan pembentukan rasa manis alami."
+          }
+        ]
+      }
     }
+  }
 }

@@ -1,459 +1,459 @@
 {
-    "platy-fish-care": {
-        "pubDate": "2026-07-05",
-        "updatedDate": "2026-07-05",
-        "locales": {
-            "ko": {
-                "title": "미키마우스 플래티의 지느러미 접기·몸 비비기 신호 해석과 백점병·치어 포식 예방을 위한 3단계 데일리 케어",
-                "description": "꼬리지느러미의 미키마우스 무늬가 귀여운 난태생 관상어 미키마우스 플래티(Mickey Mouse Platy). 지느러미 접기와 몸 비비기 신호 해석, 백점병 예방, 출산 징후 관찰 및 치어 보존을 위한 3단계 홈케어 루틴을 소개합니다.",
-                "authority": "국제 관상어 협회 (OFI) 및 미국 난태생어 협회 (ALA) 사육 프로토콜",
-                "profile": {
-                    "breed": "미키마우스 플래티 (Mickey Mouse Platy / Xiphophorus maculatus)",
-                    "lifespan": "2 ~ 3년 (올바른 케어 시 최대 4년)",
-                    "sleep_pattern": "8 ~ 10시간 (주행성, 야간 수조 바닥이나 수초 사이에서 휴식)",
-                    "temperament": "온순함, 활발함, 평화로움, 번식력 강함, 사회적임"
-                },
-                "intro": "꼬리지느러미 시작 부분에 검은 미키마우스 얼굴 모양 무늬가 선명하게 들어간 미키마우스 플래티(Mickey Mouse Platy)는 화려한 색상과 뛰어난 적응력으로 전 세계 초보자부터 전문가까지 두루 사랑받는 대표적인 난태생 송살목 관상어입니다. 플래티는 체내에서 알을 부화시켜 새끼를 낳는 난태생 특성상 번식력이 매우 뛰어나지만, 수온이 22°C 이하로 급격히 떨어지거나 수질이 악화되면 몸에 흰 점이 생기는 '백점병(Ich)'과 지느러미를 접는 증상에 취약합니다. 또한 출산 직후 성어들이 치어를 먹어치우는 '치어 포식(Fry Cannibalism)' 현상이 발생하기 쉽고, 수질 쇼크로 인한 유산이나 외부 기생충 감염이 일어날 수 있습니다. 이번 가이드에서는 미키마우스 플래티의 행동 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
-                "whyTitle": "미키마우스 플래티의 바디 랭귀지: 지느러미 접기·몸 비비기(Fin Clamping / Flashing)와 수초 구석 숨기(Maternity Hiding)",
-                "whyDesc": "미키마우스 플래티는 지느러미의 모양과 헤엄치는 행동으로 수질 오염, 기생충 감염, 출산 임박 상태를 명확히 표현합니다. 등지느러미와 꼬리지느러미를 몸에 바짝 붙이고 헤엄치는 **'지느러미 접기(Fin Clamping)'**와 바닥재나 구조물에 몸을 쓸어내리듯 비비는 **'몸 비비기(Flashing)'**는 수질 악화(아질산/암모니아 상승)나 백점병·외부 기생충 감염 신호입니다. 반면 암컷의 배가 'ㄴ'자로 네모나지며 수조 구석이나 수초 사이에 숨어 수직으로 위아래로 움직이는 행동은 **'출산 임박 신호(Maternity Hiding)'**입니다.",
-                "body_signals": [
-                    {
-                        "name": "지느러미를 몸에 바짝 붙이고 바닥재에 몸을 비빔 (Fin Clamping / Flashing)",
-                        "meaning": "수질 악화(아질산/암모니아 상승), 수온 급변 쇼크, 또는 백점병/외부 기생충 감염 초기 신호입니다.",
-                        "response": "즉시 수질과 수온(22~26°C)을 측정하고, 20~30% 환수 실시 및 필요시 백점병 약범/소금욕을 진행합니다."
-                    },
-                    {
-                        "name": "암컷 배가 네모나지고 수초 구석에 숨어 위아래로 헤엄침 (Maternity Hiding)",
-                        "meaning": "체내 부화가 완료되어 치어를 출산하기 직전의 임신 암컷이 보이는 전형적인 출산 행동입니다.",
-                        "response": "치어 포식을 막기 위해 암컷을 출산용 부채통(격리항)으로 이동시키거나 자바모스/붕어모 등 치어 은신용 수초를 풍성하게 제공합니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 수온(22°C~26°C) 및 약알칼리성 수질(pH 7.0~8.2) 점검과 적량 급여",
-                        "text": "수중 히터 및 수온을 점검하고, 면역력 유지를 위해 2~3분 내에 소비할 수 있는 소량의 프리미엄 플레이크나 소형 펠릿을 급여합니다."
-                    },
-                    {
-                        "name": "낮: 수조 수초 밀생 상태 확인 및 암컷 임신 상태 관찰",
-                        "text": "치어 은신처가 될 수초(자바모스, 마이크로소리움 등) 상태를 점검하고, 암컷의 배 모양과 산란관 부풀어 오름을 관찰합니다."
-                    },
-                    {
-                        "name": "저녁: 잔여 사료·배설물 사이펀 청소 및 8~10시간 소등 유지",
-                        "text": "수질 오염 방지를 위해 바닥재의 배설물과 잔여 먹이를 사이펀으로 제거하고, 야간에는 조명을 꺼서 피로를 방지합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "플래티 몸에 소금가루 같은 흰 점이 생기고 몸을 비비는데 백점병인가요?",
-                        "answer": "네, 대표적인 기생충성 질환인 '백점병(Ich)'입니다. 환수 시 급격한 수온 변화나 22°C 이하의 저온 환경에서 주로 발생합니다. 치료를 위해 수온을 천천히 27~28°C로 올리고, 백점병 전용 치료제 투여 또는 0.3~0.5% 농도의 천일염 소금욕을 병행하며 환수를 진행해야 합니다."
-                    },
-                    {
-                        "question": "플래티 암컷이 출산할 때 새끼(치어)가 성어들에게 먹히지 않게 하려면 어떻게 하나요?",
-                        "answer": "플래티는 자신의 새끼를 먹는 '치어 포식(Fry Cannibalism)' 습성이 있습니다. 암컷의 배가 'ㄴ'자 모양으로 네모나지고 산란관이 돌출되면 출산 직전이므로, 미리 부채통(격리통)에 옮겨주어야 합니다. 사육수조에서 자연 출산을 시킬 경우 치어들이 숨을 수 있도록 자바모스, 붕어모, 나자스모스 같은 수초를 풍성하게 식재해야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Mickey Mouse Platy Behavioral Signals and 3-Step Daily Routine for Ich and Fry Cannibalism Prevention",
-                "description": "Care guide for the adorable livebearer Mickey Mouse Platy. Interpret fin clamping, flashing, and pre-parturition hiding, manage alkaline water parameters, and protect fry in 3 steps.",
-                "authority": "Ornamental Fish International (OFI) & American Livebearer Association (ALA) Care Standards",
-                "profile": {
-                    "breed": "Mickey Mouse Platy (Xiphophorus maculatus)",
-                    "lifespan": "2 - 3 Years (Up to 4 years with optimal care)",
-                    "sleep_pattern": "8 - 10 Hours (Diurnal, rests near substrate or aquatic plants at night)",
-                    "temperament": "Peaceful, Active, Highly Prolific, Social, Gentle"
-                },
-                "intro": "Instantly recognizable by the black silhouette resembling a Mickey Mouse face at the base of their caudal fin, Mickey Mouse Platies (Xiphophorus maculatus) are among the most popular tropical livebearers worldwide. As livebearers that give birth to free-swimming fry rather than laying eggs, they breed easily; however, sudden temperature drops below 22°C (72°F) or deteriorating water quality make them vulnerable to 'Ich' (White Spot Disease) and fin clamping. Furthermore, adult platies exhibit 'Fry Cannibalism', frequently preying on newborn fry if hiding spaces are absent. In this guide, presents a 3-step daily care routine to read your Platy's signals and protect its health.",
-                "whyTitle": "Mickey Mouse Platy Body Language: Fin Clamping / Flashing and Pre-Parturition Hiding",
-                "whyDesc": "Mickey Mouse Platies express water quality stress, parasitic infections, and impending labor through fin postures and swimming behavior. Swimming with dorsal and caudal fins held tightly against the body **'Fin Clamping'** alongside scraping against substrate or decor **'Flashing'** signals water degradation (ammonia/nitrite spikes) or external parasite infections like Ich. Conversely, a pregnant female developing a boxy, squarish abdomen and hiding vertically among dense plants **'Pre-Parturition Hiding (Maternity Hiding)'** indicates she is about to give birth.",
-                "body_signals": [
-                    {
-                        "name": "Clamping Fins Tightly & Scraping Against Substrate (Fin Clamping / Flashing)",
-                        "meaning": "An early warning signal of poor water quality (ammonia/nitrite spikes), thermal shock, or external parasite/Ich infestation.",
-                        "response": "Immediately test water parameters and temperature (keep at 22°C–26°C / 72°F–79°F), perform a 20–30% water change, and administer Ich medication or aquarium salt treatment if white spots appear."
-                    },
-                    {
-                        "name": "Developing a Squarish Belly & Hiding Vertically in Plant Corners (Maternity Hiding)",
-                        "meaning": "A classic pre-parturition behavior shown by pregnant females about to drop live fry.",
-                        "response": "Transfer the pregnant female to a breeding box (isolation breeder) or provide dense hiding mosses (Java moss, Guppy grass) to prevent adult fry cannibalism."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Water Temp (22°C–26°C) & pH (7.0–8.2) Check & Feeding",
-                        "text": "Verify heater operation and water parameters, feeding a small pinch of premium tropical flakes or mini pellets that can be consumed within 2–3 minutes."
-                    },
-                    {
-                        "name": "Afternoon: Plant Cover Inspection & Gravid Female Observation",
-                        "text": "Ensure aquatic plant cover (Java moss, Micro-sorium) is dense for fry protection, observing female abdomen shape and gravid spot expansion."
-                    },
-                    {
-                        "name": "Evening: Siphon Waste/Uneaten Food & Maintain 8–10 Hour Sleep Cycle",
-                        "text": "Siphon out feces and leftover food from substrate to maintain pristine water quality, turning off lights at night to ensure adequate rest."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "My Platy has tiny white salt-like spots and is flashing against rocks. Is it Ich?",
-                        "answer": "Yes, this is 'Ich' (White Spot Disease), a common parasitic infection triggered by sudden temperature fluctuations or cold water below 22°C (72°F). To treat it, slowly raise water temperature to 27°C–28°C (80°F–82°F), perform partial water changes, and administer Ich medication or maintain a 0.3%–0.5% aquarium salt bath."
-                    },
-                    {
-                        "question": "How can I prevent adult Platies from eating their newborn fry during birth?",
-                        "answer": "Platies naturally exhibit 'Fry Cannibalism'. When a female's abdomen becomes squarish ('L'-shaped) and her gravid spot darkens, move her to a separate breeding trap before birth. If letting her give birth in the main tank, plant dense floating mosses like Java moss or Guppy grass to provide crucial refuges for newborn fry."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ミッキーマウスプラティのヒレ閉じ・体を擦り付ける行動の解読と白点病・稚魚捕食予防のための3ステップデイリールーティン",
-                "description": "尾ヒレのミッキーマウス模様が愛らしい卵胎生観賞魚ミッキーマウスプラティ（Mickey Mouse Platy）。ヒレ閉じや体を擦り付ける行動の解読、白点病予防、出産サインの観察および稚魚保護のための3ステップホームケアを紹介します。",
-                "authority": "国際観賞魚協会 (OFI) および アメリカ卵胎生メダカ協会 (ALA) 飼育基準",
-                "profile": {
-                    "breed": "ミッキーマウスプラティ (Mickey Mouse Platy / Xiphophorus maculatus)",
-                    "lifespan": "2 〜 3年 (適切なケアで最大4年)",
-                    "sleep_pattern": "8 〜 10時間 (昼行性、夜間は水槽底や水草の陰で休む)",
-                    "temperament": "温和、活発、繁殖力が強い、平和的、社交的"
-                },
-                "intro": "尾ヒレの付け根に黒いミッキーマウスの顔の形をした模様が入るミッキーマウスプラティ（Xiphophorus maculatus）は、鮮やかな体色と優れた環境適応力で世界中で愛されている代表的な卵胎生メダカ科の熱帯魚です。お腹の中で卵を孵化させて稚魚を産む卵胎生特有の強い繁殖力を持ちますが、水温が22°C以下に急降下したり水質が悪化すると、体に白い点がつく「白点病（Ich）」やヒレをたたむ症状にかかりやすくなります。また、出産直後に親魚が稚魚を食べてしまう「稚魚捕食（Fry Cannibalism）」が起きやすく、水質ショックによる早産や寄生虫感染にも注意が必要です。本記事では、ミッキーマウスプラティのサインを正確に読み解き、健康を守る3ステップルーティンをお届けします。",
-                "whyTitle": "ミッキーマウスプラティのボディランゲージ：ヒレ閉じ・体を擦り付ける行動(Fin Clamping / Flashing)と水草陰への隠れ(Maternity Hiding)",
-                "whyDesc": "ミッキーマウスプラティはヒレの形と泳ぎ方で水質汚染、寄生虫感染、出産直前の状態を明確に表現します。背ヒレや尾ヒレを体にぴったりと畳んで泳ぐ**「ヒレ閉じ（Fin Clamping）」**や底砂・レイアウトに体を擦り付ける**「体を擦り付ける行動（Flashing）」**は、水質悪化（アンモニア/亜硝酸の上昇）や白点病・寄生虫感染のサインです。一方、メスのお腹が四角く張って水草の陰や隅に隠れ、上下に垂直運動する行動は**「出産直前サイン（Maternity Hiding）」**です。",
-                "body_signals": [
-                    {
-                        "name": "ヒレを体にぴったり伏せ、底砂に体を擦り付ける (Fin Clamping / Flashing)",
-                        "meaning": "水質悪化（アンモニア/亜硝酸の上昇）、水温急変ショック、または白点病・外部寄生虫感染の初期サインです。",
-                        "response": "すぐに水質と水温（22〜26°C）を確認し、20〜30%の水換えを行い、白点が見られる場合は薬浴や塩浴を実施してください。"
-                    },
-                    {
-                        "name": "メスのお腹が四角くなり、水草の陰に隠れて上下に泳ぐ (Maternity Hiding)",
-                        "meaning": "体内での孵化が完了し、稚魚を出産する直前の妊娠メスに見られる典型的な出産行動です。",
-                        "response": "親魚による稚魚捕食を防ぐため、メスを産卵箱（隔離ケース）へ移動させるか、ウィローモスの密集エリアを用意してください。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：水温（22°C〜26°C）と弱アルカリ性水質（pH 7.0〜8.2）の点検＆適量給餌",
-                        "text": "ヒーターと水温を確認し、2〜3分で食べきれる少量の高品質フレークや小型ペレットを与えます。"
-                    },
-                    {
-                        "name": "昼：水草の密集状態確認とメスの妊娠状態の観察",
-                        "text": "稚魚の隠れ家となる水草（ウィローモスやマクロソリウム等）の状態を点検し、メスのお腹の膨らみと産卵管の突出を観察します。"
-                    },
-                    {
-                        "name": "夜：残餌・フンのプロホース清掃と8〜10時間の消灯維持",
-                        "text": "水質悪化を防ぐため底砂のフンや残餌をホースで吸い出し、夜間は照明を消して休息させます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "プラティの体に塩を振ったような白い点がつき、体を擦り付けていますが白点病ですか？",
-                        "answer": "はい、代表的な寄生虫性疾患である「白点病（Ich）」です。水換え時の急激な水温変化や22°C以下の低水温で発生しやすくなります。治療には水温をゆっくり27〜28°Cまで上げ、白点病専用薬の投与や0.3〜0.5%濃度の塩浴を行いながら水換えを進めてください。"
-                    },
-                    {
-                        "question": "プラティが出産する際、生まれた稚魚が親魚に食べられないようにするにはどうすればいいですか？",
-                        "answer": "プラティには自分の稚魚を食べてしまう「稚魚捕食（Fry Cannibalism）」の習性があります。メスのお腹が四角く（L字型に）張り、目立ってきたら出産直前ですので産卵箱へ移動させてください。本水槽で自然出産させる場合は、稚魚が隠れられるようウィローモスやマツモなどの水草を密生させることが不可欠です。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "米老鼠月光鱼（Mickey Mouse Platy）缩鳍与蹭缸信号解读及白点病与幼鱼被吞食预防的3步日常流程",
-                "description": "尾鳍带有可爱米老鼠图案的卵胎生观赏鱼米老鼠月光鱼（Mickey Mouse Platy）。解读缩鳍与蹭缸行为信号，管理弱碱性水质，观察临产征兆及保护幼鱼的3步骤家庭护理。",
-                "authority": "国际观赏鱼协会 (OFI) 与 美国卵胎生鱼类协会 (ALA) 饲育标准",
-                "profile": {
-                    "breed": "米老鼠月光鱼 (Mickey Mouse Platy / Xiphophorus maculatus)",
-                    "lifespan": "2 ~ 3年 (科学饲养可达4年)",
-                    "sleep_pattern": "8 ~ 10小时 (昼行性，夜间在缸底或水草丛中休息)",
-                    "temperament": "温和、活泼、繁殖力强、和平、喜群居"
-                },
-                "intro": "因尾鳍基部带有清晰的黑色米老鼠图案而得名的米老鼠月光鱼（Xiphophorus maculatus），凭其艳丽的体色与极强的适应力，是深受全球水族爱好者喜爱的经典花频剑尾鱼/月光鱼。作为直接产出幼鱼的卵胎生鱼类，其繁殖能力极强；但若水温急剧降至 22°C 以下或水质恶化，极易患上身上出现白斑的“白点病 (Ich)”并伴随缩鳍现象。此外，刚出生的小鱼极易发生被成鱼吞食的“亲鱼吞食幼鱼 (Fry Cannibalism)”现象，水质应激还可能导致早产。本指南将带您准确解读米老鼠月光鱼的行为信号，并通过3步骤日常护理维护其健康。",
-                "whyTitle": "米老鼠月光鱼肢体语言：缩鳍与蹭缸 (Fin Clamping / Flashing) 及临产躲藏 (Maternity Hiding)",
-                "whyDesc": "米老鼠月光鱼通过鳍条姿态与游动行为清晰表达水质压力、寄生虫感染与临产状态。将背鳍与尾鳍紧贴身体游动**“缩鳍 (Fin Clamping)”**以及在底砂或造景上快速摩擦身体**“蹭缸 (Flashing)”**，是水质恶化（氨氮/亚硝酸盐飙升）或感染白点病/外部寄生虫的警告信号。相反，孕鱼腹部变方呈直角“L”形，并躲在水草角落上下垂直游动，则是**“临产躲藏信号 (Maternity Hiding)”**。",
-                "body_signals": [
-                    {
-                        "name": "鳍条紧贴身体并在底砂上摩擦身体 (Fin Clamping / Flashing)",
-                        "meaning": "水质恶化（氨氮/亚硝酸盐超标）、水温骤降应激或白点病/外部寄生虫感染初期的信号。",
-                        "response": "立即检测水质与水温（保持在 22°C~26°C），换水 20%~30%，若有白点需及时进行药浴或盐浴。"
-                    },
-                    {
-                        "name": "孕鱼肚子变方并躲在水草角落上下游动 (Maternity Hiding)",
-                        "meaning": "体内胚胎发育成熟、即将在数小时内产出小鱼的典型临产行为。",
-                        "response": "为防止幼鱼被成鱼吞食，应及时将孕鱼捞入隔离孵化盒，或在缸内密植莫丝等水草供幼鱼躲避。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：水温（22°C~26°C）与弱碱性水质（pH 7.0~8.2）检查及适量喂食",
-                        "text": "检查加热棒与水温，投喂可在 2~3 分钟内吃完的少量的优质薄片或微粒饲料，以维持其免疫力。"
-                    },
-                    {
-                        "name": "中午：水草密植状态检查与母鱼怀孕状态观察",
-                        "text": "检查作为幼鱼避难所的水草（爪哇莫丝、铁皇冠等）生长状况，观察孕鱼腹部膨胀度与胎斑变化。"
-                    },
-                    {
-                        "name": "晚上：清理残渣粪便与保持 8~10 小时关灯休息",
-                        "text": "用抽水管清理底砂中的排泄物与残粮以防水质恶化，夜间关闭照明以保证充足休息。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "月光鱼身上长满像盐粒一样的白点并且频繁蹭缸，是白点病吗？",
-                        "answer": "是的，这是由小瓜虫引起的典型寄生虫病“白点病 (Ich)”。常见于换水时温差过大或水温低于 22°C 的环境。治疗时应缓慢将水温提升至 27°C~28°C，配合使用白点病专用水质调理剂或 0.3%~0.5% 浓度的观赏鱼盐浴，同时适量换水。"
-                    },
-                    {
-                        "question": "母月光鱼生小鱼时，怎样才能防止小鱼被大鱼吃掉？",
-                        "answer": "月光鱼有食仔的天性“亲鱼吞食幼鱼 (Fry Cannibalism)”。当母鱼肚子变方（呈直角“L”形）且胎斑加深时，说明即将在数小时内生产，应提前移入隔离繁殖盒中。若选择大缸自然生产，必须在缸内大量种植爪哇莫丝、水榕或金鱼藻等密植水草，给刚出生的幼鱼提供充足的躲避空间。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Señales de conducta en el Pez Platy Mickey Mouse y rutina diaria de 3 pasos para la prevención del Ich y el canibalismo de alevines",
-                "description": "Guía de cuidado para el vivíparo Pez Platy Mickey Mouse (Xiphophorus maculatus). Interprete las aletas plegadas, el frotamiento y el aislamiento preparto, controle el agua alcalina y proteja a los alevines en 3 pasos.",
-                "authority": "Asociación de Peces Ornamentales Internacional (OFI) y Normas de la American Livebearer Association (ALA)",
-                "profile": {
-                    "breed": "Pez Platy Mickey Mouse (Xiphophorus maculatus)",
-                    "lifespan": "2 ~ 3 años (Hasta 4 años con cuidados óptimos)",
-                    "sleep_pattern": "8 ~ 10 horas (Diurno, descansa cerca del sustrato o plantas de noche)",
-                    "temperament": "Pacífico, Activo, Muy prolífico, Social, Dócil"
-                },
-                "intro": "Inconfundible por la silueta negra en la base de la aleta caudal que se asemeja a la cabeza de Mickey Mouse, el Platy Mickey Mouse (Xiphophorus maculatus) es uno de los vivíparos más populares en la acuariofilia mundial. Al ser un pez ovovivíparo que da a luz a alevines totalmente formados, se reproduce con gran facilidad; sin embargo, caídas de temperatura por debajo de 22°C o el deterioro del agua lo hacen vulnerable a la 'Enfermedad del Punto Blanco (Ich)' y a plegar las aletas. Además, los adultos practican el 'Canibalismo de Alevines' si no existen suficientes escondites. En esta guía, presenta una rutina de 3 pasos para cuidar su salud.",
-                "whyTitle": "Lenguaje corporal del Platy Mickey Mouse: Aletas plegadas / frotamiento (Fin Clamping / Flashing) y aislamiento preparto (Maternity Hiding)",
-                "whyDesc": "Los Platys comunican el estrés de la calidad del agua, las infecciones parasitarias y el parto inminente a través de la postura de sus aletas y su natación. Nadar con la aleta dorsal y caudal pegadas al cuerpo **'Aletas plegadas (Fin Clamping)'** junto con rascarse contra el sustrato **'Frotamiento (Flashing)'** indica un aumento de amoníaco/nitritos o infecciones parasitarias como el Ich. Por el contrario, cuando una hembra preñada desarrolla un abdomen cuadrado y se esconde verticalmente entre las plantas **'Aislamiento preparto (Maternity Hiding)'**, indica que el parto es inminente.",
-                "body_signals": [
-                    {
-                        "name": "Plegar las aletas contra el cuerpo y frotarse contra el sustrato (Fin Clamping / Flashing)",
-                        "meaning": "Señal de alerta temprana de mala calidad del agua (picos de amoníaco/nitritos), choque térmico o infección por parásitos/Ich.",
-                        "response": "Mida de inmediato los parámetros del agua y mantenga la temperatura en 22°C–26°C, realice un cambio de agua del 20–30% y aplique medicamento para el Ich o baño de sal si observa puntos blancos."
-                    },
-                    {
-                        "name": "Abdomen abultado en forma cuadrada y aislamiento entre plantas (Maternity Hiding)",
-                        "meaning": "Conducta típica preparto de una hembra gestante a punto de parir alevines vivos.",
-                        "response": "Traslade a la hembra a una paridera o proporcione musgos densos (musgo de Java) en el acuario para evitar que los adultos se coman a las crías."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Control de temperatura (22°C–26°C) y pH alcalino (7.0–8.2) y alimentación",
-                        "text": "Verifique el calentador y los parámetros del agua, ofreciendo escamas o minipellets de calidad que consuman en 2–3 minutos."
-                    },
-                    {
-                        "name": "Tarde: Inspección de plantas y observación de hembras gestantes",
-                        "text": "Asegúrese de que el musgo de Java o las plantas flotantes sean densos para proteger a los alevines y observe la mancha de gravidez de las hembras."
-                    },
-                    {
-                        "name": "Noche: Sifonado del sustrato y mantenimiento del ciclo de luz de 8–10 horas",
-                        "text": "Retire restos de comida y heces con un sifón para evitar el amoníaco y apague la luz durante la noche para su descanso."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mi Platy tiene diminutos puntos blancos como sal y se frota contra las rocas. ¿Es Ich?",
-                        "answer": "Sí, es la 'Enfermedad del Punto Blanco (Ich)', un parásito común provocado por bajas de temperatura por debajo de 22°C o cambios bruscos al cambiar el agua. Para tratarlo, suba lentamente la temperatura a 27°C–28°C, realice cambios parciales de agua y aplique un tratamiento contra el Ich o un baño de sal marina al 0.3%–0.5%."
-                    },
-                    {
-                        "question": "¿Cómo puedo evitar que los Platys adultos se coman a los alevines recién nacidos?",
-                        "answer": "Los Platys practican de forma natural el 'Canibalismo de Alevines'. Cuando el vientre de la hembra se vuelva cuadrado (en forma de 'L') y la mancha anal se oscurezca, trasládela a una paridera. Si paren en el acuario comunitario, introduzca abundante musgo de Java o plantas flotantes donde los alevines puedan refugiarse."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Signaux comportementaux du Platy Mickey Mouse et routine quotidienne en 3 étapes pour la prévention de l'Ichtyophthiriose et du cannibalisme des alevins",
-                "description": "Guide de soins pour l'adorable vivipare Platy Mickey Mouse (Xiphophorus maculatus). Décryptez les nageoires serrées, le frottement et l'isolement pré-mise bas, gérez l'eau alcaline et préservez les alevins en 3 étapes.",
-                "authority": "Ornamental Fish International (OFI) & Normes de l'American Livebearer Association (ALA)",
-                "profile": {
-                    "breed": "Platy Mickey Mouse (Xiphophorus maculatus)",
-                    "lifespan": "2 - 3 ans (Jusqu'à 4 ans avec des soins adaptés)",
-                    "sleep_pattern": "8 - 10 heures (Diurne, repose près du substrat ou des plantes la nuit)",
-                    "temperament": "Paisible, Actif, Très prolifique, Sociable, Doux"
-                },
-                "intro": "Inconfondable grâce à la tache noire en forme de tête de Mickey Mouse à la base de sa nageoire caudale, le Platy Mickey Mouse (Xiphophorus maculatus) est un poisson vivipare extrêmement populaire. Donnant naissance à des alevins nageant librement, il se reproduit très facilement. Cependant, une chute de température sous 22°C ou une détérioration de l'eau le rend sujet à la 'Maladie des Points Blancs (Ich)' et au serrage des nageoires. De plus, les adultes pratiquent le 'Cannibalisme des Alevins' en l'absence de cachettes. Dans ce guide, vous présente une routine en 3 étapes pour préserver sa santé.",
-                "whyTitle": "Langage corporel du Platy Mickey Mouse : Nageoires serrées / frottement (Fin Clamping / Flashing) et isolement pré-mise bas (Maternity Hiding)",
-                "whyDesc": "Les Platys expriment le stress de l'eau, les parasitoses et l'accouchement imminant par la posture de leurs nageoires et leur nage. Nager avec les nageoires plaquées contre le corps **« Nageoires serrées (Fin Clamping) »** tout en se frottant contre le décor **« Frottement (Flashing) »** indique une hausse d'ammoniac/nitrites ou une attaque de points blancs. En revanche, lorsqu'une femelle pleine prend un ventre carré et se cache verticalement dans les plantes **« Isolement pré-mise bas (Maternity Hiding) »**, la naissance des alevins est imminente.",
-                "body_signals": [
-                    {
-                        "name": "Nageoires totalement collées au corps & frottement sur le sol (Fin Clamping / Flashing)",
-                        "meaning": "Alerte précoce d'une eau polluée (pics d'ammoniac/nitrites), d'un choc thermique ou d'une infection par la maladie des points blancs.",
-                        "response": "Testez immédiatement la qualité de l'eau, stabilisez la température entre 22°C et 26°C, faites un changement d'eau de 20–30 % et appliquez un traitement anti-Ich si nécessaire."
-                    },
-                    {
-                        "name": "Ventre devenant carré & isolement vertical dans les plantes (Maternity Hiding)",
-                        "meaning": "Comportement pré-mise bas typique d'une femelle prête à expulser des alevins vivants.",
-                        "response": "Isolez la femelle dans un pondoir ou fournissez de la mousse de Java très dense pour éviter que les adultes ne dévorent les nouveau-nés."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Contrôle de la température (22°C–26°C) et du pH alcalin (7.0–8.2) & nourriture",
-                        "text": "Vérifiez le chauffage et les paramètres d'eau, puis distribuez des paillettes ou granulés fins consommés en 2 à 3 minutes."
-                    },
-                    {
-                        "name": "Après-midi : Inspection des plantes & observation des femelles gestantes",
-                        "text": "Veillez à ce que la mousse de Java soit bien dense pour abriter les petits et contrôlez la tache de gestation des femelles."
-                    },
-                    {
-                        "name": "Soir : Siphonage du fond & maintien d'un cycle de sommeil de 8–10 heures",
-                        "text": "Aspirez les restes de nourriture et les déjections sur le sol pour maintenir l'eau propre, et éteignez la lumière pour la nuit."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mon Platy est couvert de petits grains blancs comme du sel et se frotte aux pierres. Est-ce l'Ich ?",
-                        "answer": "Oui, c'est la 'Maladie des Points Blancs (Ich)', causée par un parasite lié à un coup de froid sous 22°C ou des variations de température lors des changements d'eau. Pour soigner cela, montez progressivement la température à 27°C–28°C, faites des changements d'eau et utilisez un traitement anti-points blancs ou un bain de sel d'aquarium (0,3 à 0,5 %)."
-                    },
-                    {
-                        "question": "Comment empêcher les Platys adultes de manger leurs alevins à la naissance ?",
-                        "answer": "Les Platys pratiquent naturellement le 'Cannibalisme des Alevins'. Quand le ventre de la femelle devient bien carré (en forme de 'L') et que sa tache génitale s'assombrit, placez-la dans un pondoir. Si elle met bas dans l'aquarium communautaire, installez une grande quantité de mousse de Java pour que les petits s'y réfugient."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Verhaltenssignale beim Micky-Maus-Platy und 3-Schritte-Tagesroutine zur Vorbeugung von Pünktchenkrankheit und Alevinen-Kannibalismus",
-                "description": "Pflegeanleitung für den lebendgebärenden Micky-Maus-Platy (Xiphophorus maculatus). Klemmen der Flossen, Scheuern und Verstecken vor dem Werfen verstehen, alkalisches Wasser managen und Jungfische in 3 Schritten schützen.",
-                "authority": "Ornamental Fish International (OFI) & Standards der American Livebearer Association (ALA)",
-                "profile": {
-                    "breed": "Micky-Maus-Platy (Xiphophorus maculatus)",
-                    "lifespan": "2 - 3 Jahre (Bei optimaler Pflege bis zu 4 Jahre)",
-                    "sleep_pattern": "8 - 10 Stunden (Tagaktiv, ruht nachts am Boden oder bei Pflanzen)",
-                    "temperament": "Friedlich, Aktiv, Sehr vermehrungsfreudig, Gesellig, Sanft"
-                },
-                "intro": "Unverwechselbar durch die schwarze Micky-Maus-Musterung an der Schwanzflossenbasis gehört der Micky-Maus-Platy (Xiphophorus maculatus) zu den beliebtesten lebendgebärenden Zahnkarpfen im Aquarium. Als Lebendgebärender bringt er fertige Jungfische zur Welt und vermehrt sich leicht; jedoch machen ihn Temperaturschwankungen unter 22 °C oder schlechte Wasserwerte anfällig für die 'Pünktchenkrankheit (Ich)' und Klemmen der Flossen. Zudem neigen ausgewachsene Platys zu 'Alevinen-Kannibalismus' an den eigenen Jungfischen. In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für die Gesundheit Ihres Platys.",
-                "whyTitle": "Körpersprache des Micky-Maus-Platys: Flossenklemmen / Scheuern (Fin Clamping / Flashing) und Verstecken vor dem Werfen (Maternity Hiding)",
-                "whyDesc": "Platys drücken Wasserbelastungen, Parasitenbefall und eine bevorstehende Geburt über ihre Flossenhaltung und ihr Schwimmverhalten aus. Das enge Anlegen der Rücken- und Schwanzflosse **'Klemmen der Flossen (Fin Clamping)'** zusammen mit dem Reiben an Steinen **'Scheuern (Flashing)'** signalisiert Ammoniak-/Nitritanstiege oder Ichthyophthiriose. Ein kastenartiger, eckiger Bauch bei trächtigen Weibchen mit senkrechtem Verstecken im Dichtgebüsch **'Verstecken vor dem Werfen (Maternity Hiding)'** kündigt dagegen das Werfen der Jungfische an.",
-                "body_signals": [
-                    {
-                        "name": "Enges Anlegen der Flossen & Scheuern am Bodengrund (Fin Clamping / Flashing)",
-                        "meaning": "Frühes Warnsignal für Wasserverschmutzung (Ammoniak/Nitrit), Temperaturschock oder Parasitenbefall (Pünktchenkrankheit).",
-                        "response": "Prüfen Sie sofort Wasserwerte und Temperatur (22 °C–26 °C), führen Sie einen 20–30%igen Wasserwechsel durch und behandeln Sie bei weißen Punkten mit Ich-Medikamenten oder Salz."
-                    },
-                    {
-                        "name": "Eckiger Bauch & senkrechtes Verstecken in Pflanzen (Maternity Hiding)",
-                        "meaning": "Typisches Verhalten eines trächtigen Weibchens unmittelbar vor dem Gebären lebender Jungfische.",
-                        "response": "Setzen Sie das Weibchen in einen Laichkasten oder bieten Sie dichtes Javamoos an, um den Fressdruck durch ausgewachsene Fische zu verhindern."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Wassertemperatur (22 °C–26 °C) & pH-Wert (7.0–8.2) prüfen und füttern",
-                        "text": "Prüfen Sie den Heizer und die Wasserwerte und füttern Sie eine kleine Prise Flockenfutter oder Feingranulat, die in 2–3 Minuten gefressen wird."
-                    },
-                    {
-                        "name": "Mittag: Pflanzenverstecke kontrollieren & trächtige Weibchen beobachten",
-                        "text": "Sorgen Sie für dichte Bepflanzung (Javamoos) als Schutzraum für Jungfische und beobachten Sie den Trächtigkeitsfleck der Weibchen."
-                    },
-                    {
-                        "name": "Abend: Kot/Futterreste absaugen & 8–10 Stunden Nachtruhe einhalten",
-                        "text": "Saugen Sie Futterreste und Kot vom Boden ab, um Wasserbelastungen zu vermeiden, und schalten Sie nachts das Licht zur Ruhe aus."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mein Platy hat weiße Punkte wie Salzbohnen und scheuert sich. Ist das die Pünktchenkrankheit?",
-                        "answer": "Ja, das ist die 'Pünktchenkrankheit (Ich)', hervorgerufen durch Parasiten bei Temperaturschwankungen oder Kälte unter 22 °C. Erhöhen Sie die Temperatur langsam auf 27 °C–28 °C, führen Sie Teilwasserwechsel durch und behandeln Sie mit einem Ich-Präparat oder einem 0,3–0,5%igen Salzbad."
-                    },
-                    {
-                        "question": "Wie verhindere ich, dass große Platys die neugeborenen Babyfische auffressen?",
-                        "answer": "Platys neigen von Natur aus zu 'Alevinen-Kannibalismus'. Wenn der Bauch des Weibchens eckig (L-förmig) wird und der Trächtigkeitsfleck dunkel ist, setzen Sie sie in einen Ablaichkasten. Bei einer Geburt im Hauptbecken schaffen Sie dichte Javamoos-Polster als Versteck für die Babys."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Sinais comportamentais do Peixe Platy Mickey Mouse e rotina diária de 3 passos para prevenção de Íctio e canibalismo de alevinos",
-                "description": "Guia de cuidados para o adorável vivíparo Platy Mickey Mouse (Xiphophorus maculatus). Entenda as barbatanas encolhidas, o roçar no substrato e o esconderijo pré-parto, controle a água alcalina e proteja alevinos em 3 passos.",
-                "authority": "Associação Internacional de Peixes Ornamentais (OFI) & Padrões da American Livebearer Association (ALA)",
-                "profile": {
-                    "breed": "Peixe Platy Mickey Mouse (Xiphophorus maculatus)",
-                    "lifespan": "2 - 3 anos (Até 4 anos com cuidados adequados)",
-                    "sleep_pattern": "8 - 10 horas (Diurno, descansa perto do substrato ou plantas à noite)",
-                    "temperament": "Pacífico, Ativo, Muito prolífico, Social, Dócil"
-                },
-                "intro": "Inconfundível pela mancha preta em formato do rosto do Mickey Mouse na base da nadadeira caudal, o Platy Mickey Mouse (Xiphophorus maculatus) é um dos peixes vivíparos mais queridos da aquariofilia. Por darem à luz alevinos já formados, eles se reproduzem facilmente; no entanto, quedas de temperatura abaixo de 22°C ou piora na água os tornam suscetíveis ao 'Íctio' (Doença dos Pontos Brancos) e ao encolhimento de nadadeiras. Além disso, os adultos praticam o 'Canibalismo de Alevinos' na ausência de esconderijos. Neste guia, apresenta uma rotina de 3 passos para cuidar da saúde do seu pet.",
-                "whyTitle": "Linguagem corporal do Platy Mickey Mouse: Barbatanas encolhidas / roçar no substrato (Fin Clamping / Flashing) e esconderijo pré-parto (Maternity Hiding)",
-                "whyDesc": "Os Platys comunicam estresse na água, parasitas e parto iminente pela postura das nadadeiras e pelo nado. Nadar com as nadadeiras coladas ao corpo **'Barbatanas encolhidas (Fin Clamping)'** juntamente com raspar-se no substrato **'Roçar no substrato (Flashing)'** indica acúmulo de amônia/nitrito ou infecções por Íctio. Por outro lado, quando a fêmea grávida fica com a barriga quadrada e se esconde verticalmente nas plantas **'Esconderijo pré-parto (Maternity Hiding)'**, indica nascimento iminente.",
-                "body_signals": [
-                    {
-                        "name": "Encolher as barbatanas contra o corpo e roçar no substrato (Fin Clamping / Flashing)",
-                        "meaning": "Sinal de alerta de água poluída (amônia/nitrito altos), choque térmico ou infecção por Íctio e parasitas externos.",
-                        "response": "Teste imediatamente a água e mantenha a temperatura em 22°C–26°C, faça uma troca parcial de água de 20 a 30% e aplique medicação para Íctio ou banho de sal se notar pontos brancos."
-                    },
-                    {
-                        "name": "Barriga em formato quadrado e isolamento entre as plantas (Maternity Hiding)",
-                        "meaning": "Comportamento típico pré-parto de fêmea grávida prestes a dar à luz alevinos vivos.",
-                        "response": "Mova a fêmea para uma criadeira ou coloque bastante musgo de Java no aquário para evitar que os adultos comam os filhotes."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Checagem da temperatura (22°C–26°C) e pH alcalino (7.0–8.2) e alimentação",
-                        "text": "Verifique o aquecedor e a água, alimentando com flocos ou minigranulados de qualidade consumidos em 2 a 3 minutos."
-                    },
-                    {
-                        "name": "Tarde: Inspeção de plantas e observação de fêmeas grávidas",
-                        "text": "Garanta que o musgo de Java seja denso para proteger os alevinos e observe a mancha de gravidez das fêmeas."
-                    },
-                    {
-                        "name": "Noite: Sifonagem do substrato e manutenção do ciclo de iluminação de 8–10 horas",
-                        "text": "Sifone restos de comida e sujeira do fundo para evitar amônia e apague a luz à noite para garantir o descanso."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Meu Platy está cheio de pontinhos brancos como sal e se roçando nas pedras. É Íctio?",
-                        "answer": "Sim, é a 'Doença dos Pontos Brancos (Íctio)', um parasita comum causado por frio abaixo de 22°C ou trocas bruscas de água. Para tratar, suba gradualmente a temperatura para 27°C–28°C, faça trocas parciais de água e use medicação específica ou banho de sal grosso para aquário (0,3% a 0,5%)."
-                    },
-                    {
-                        "question": "Como evitar que os Platys adultos comam os alevinos recém-nascidos?",
-                        "answer": "Os Platys têm a tendência natural do 'Canibalismo de Alevinos'. Quando a barriga da fêmea ficar quadrada (em formato de 'L') e a mancha anal escura, coloque-a numa criadeira. Caso nasçam no aquário principal, mantenha densos tufos de musgo de Java para os filhotes se esconderem."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Sinyal Perilaku Ikan Platy Mickey Mouse dan Rutinitas Harian 3 Langkah Perawatan Pencegahan Ich serta Kanibalisme Buraya",
-                "description": "Panduan perawatan Ikan Platy Mickey Mouse (Xiphophorus maculatus) yang menggemaskan. Pahami sirip menguncup, perilaku menggesekkan tubuh, serta sembunyi menjelang melahirkan, kelola air alkali, dan lindungi buraya dalam 3 langkah.",
-                "authority": "Ornamental Fish International (OFI) & Standar Perawatan American Livebearer Association (ALA)",
-                "profile": {
-                    "breed": "Ikan Platy Mickey Mouse (Xiphophorus maculatus)",
-                    "lifespan": "2 - 3 tahun (Hingga 4 tahun dengan perawatan optimal)",
-                    "sleep_pattern": "8 - 10 jam (Diurnal, beristirahat di dasar akuarium atau dekat tanaman pada malam hari)",
-                    "temperament": "Damai, Aktif, Sangat prolifik, Sosial, Lembut"
-                },
-                "intro": "Mudah dikenali dari corak hitam menyerupai wajah Mickey Mouse di pangkal sirip ekornya, Ikan Platy Mickey Mouse (Xiphophorus maculatus) adalah salah satu ikan hias air tawar beranak (livebearer) paling populer di dunia. Sebagai ikan beranak yang melahirkan buraya hidup, mereka sangat mudah berkembang biak; namun penurunan suhu mendadak di bawah 22°C atau kualitas air yang buruk membuat mereka rentan terhadap 'Penyakit Bintik Putih (Ich)' dan sirip menguncup. Selain itu, ikan dewasa kerap melakukan 'Kanibalisme Buraya' jika tidak ada tempat bersembunyi. Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk merawat kesehatan ikan Platy Anda.",
-                "whyTitle": "Bahasa Tubuh Ikan Platy Mickey Mouse: Sirip Menguncup / Menggesekkan Tubuh (Fin Clamping / Flashing) dan Sembunyi Menjelang Melahirkan (Maternity Hiding)",
-                "whyDesc": "Ikan Platy menyampaikan stres kualitas air, infeksi parasit, dan proses melahirkan melalui posisi sirip dan cara berenang. Berenang dengan sirip punggung dan ekor merapat ke tubuh **'Sirip Menguncup (Fin Clamping)'** serta menggesekkan tubuh ke batu/substrat **'Menggesekkan Tubuh (Flashing)'** menandakan lonjakan amonia/nitrit atau infeksi parasit Ich. Sebaliknya, perut betina yang membesar berbentuk kotak dan bersembunyi secara vertikal di sela tanaman **'Sembunyi Menjelang Melahirkan (Maternity Hiding)'** menandakan buraya akan segera lahir.",
-                "body_signals": [
-                    {
-                        "name": "Menguncupkan sirip ke tubuh & menggesekkan badan ke substrat (Fin Clamping / Flashing)",
-                        "meaning": "Tanda peringatan dini kualitas air buruk (lonjakan amonia/nitrit), syok suhu, atau infeksi parasit/bintik putih (Ich).",
-                        "response": "Segera tes parameter air dan jaga suhu di 22°C–26°C, lakukan penggantian air 20–30%, serta beri obat Ich atau garam ikan jika muncul bintik putih."
-                    },
-                    {
-                        "name": "Perut membesar berbentuk kotak & bersembunyi vertikal di tanaman (Maternity Hiding)",
-                        "meaning": "Perilaku khas menjelang melahirkan dari induk betina yang siap mengeluarkan buraya hidup.",
-                        "response": "Pindahkan induk ke jaring pemijahan (brine box) atau sediakan tanaman rapat (Java moss) agar buraya tidak dimangsa ikan dewasa."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Pemeriksaan Suhu Air (22°C–26°C) & pH Alkali (7.0–8.2) serta Pemberian Pakan",
-                        "text": "Periksa heater dan parameter air, lalu beri pakan pelet mikro atau pelet serpih berkualitas yang habis dalam 2–3 menit."
-                    },
-                    {
-                        "name": "Siang: Pemeriksaan Rimbunan Tanaman & Pengamatan Induk Bunting",
-                        "text": "Pastikan rimbunan tanaman (Java moss) cukup tebal untuk perlindungan buraya dan amati bercak kehamilan pada induk betina."
-                    },
-                    {
-                        "name": "Malam: Penyiphonan Kotoran Substrat & Pengaturan Sirkulasi Gelap 8–10 Jam",
-                        "text": "Sedot sisa pakan dan kotoran dari dasar agar amonia tidak naik, lalu matikan lampu pada malam hari untuk istirahat ikan."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa ikan Platy saya bentol-bentol bintik putih seperti garam dan menggesekkan badan? Apakah itu penyakit Ich?",
-                        "answer": "Ya, itu adalah 'Penyakit Bintik Putih (Ich)', infeksi parasit yang dipicu oleh suhu air dingin di bawah 22°C atau perubahan suhu drastis saat ganti air. Untuk mengobatinya, naikkan suhu air secara perlahan ke 27°C–28°C, lakukan ganti air berkala, dan berikan obat khusus Ich atau larutan garam ikan konsentrasi 0.3%–0.5%."
-                    },
-                    {
-                        "question": "Bagaimana cara mencegah ikan Platy dewasa memakan anak-anaknya yang baru lahir?",
-                        "answer": "Ikan Platy memiliki sifat alami 'Kanibalisme Buraya'. Saat perut induk betina berbentuk kotak (seperti huruf 'L') dan bercak kehamilannya gelap, segera pisahkan ke kotak pemijahan. Jika melahirkan di akuarium utama, sediakan tanaman air yang sangat rimbun seperti Java moss atau Guppy grass sebagai tempat bersembunyi buraya."
-                    }
-                ]
-            }
+  "platy-fish-care": {
+    "pubDate": "2026-07-05",
+    "updatedDate": "2026-07-05",
+    "locales": {
+      "ko": {
+        "title": "미키마우스 플래티의 지느러미 접기·몸 비비기 신호 해석과 백점병·치어 포식 예방을 위한 3단계 데일리 케어",
+        "description": "꼬리지느러미의 미키마우스 무늬가 귀여운 난태생 관상어 미키마우스 플래티(Mickey Mouse Platy). 지느러미 접기와 몸 비비기 신호 해석, 백점병 예방, 출산 징후 관찰 및 치어 보존을 위한 3단계 홈케어 루틴을 소개합니다.",
+        "authority": "국제 관상어 협회 (OFI) 및 미국 난태생어 협회 (ALA) 사육 프로토콜",
+        "profile": {
+          "breed": "미키마우스 플래티 (Mickey Mouse Platy / Xiphophorus maculatus)",
+          "lifespan": "2 ~ 3년 (올바른 케어 시 최대 4년)",
+          "sleep_pattern": "8 ~ 10시간 (주행성, 야간 수조 바닥이나 수초 사이에서 휴식)",
+          "temperament": "온순함, 활발함, 평화로움, 번식력 강함, 사회적임"
         },
-        "heroImage": "/images/blog/platy_fish_care.webp"
-    }
+        "intro": "꼬리지느러미 시작 부분에 검은 미키마우스 얼굴 모양 무늬가 선명하게 들어간 미키마우스 플래티(Mickey Mouse Platy)는 화려한 색상과 뛰어난 적응력으로 전 세계 초보자부터 전문가까지 두루 사랑받는 대표적인 난태생 송살목 관상어입니다. 플래티는 체내에서 알을 부화시켜 새끼를 낳는 난태생 특성상 번식력이 매우 뛰어나지만, 수온이 22°C 이하로 급격히 떨어지거나 수질이 악화되면 몸에 흰 점이 생기는 '백점병(Ich)'과 지느러미를 접는 증상에 취약합니다. 또한 출산 직후 성어들이 치어를 먹어치우는 '치어 포식(Fry Cannibalism)' 현상이 발생하기 쉽고, 수질 쇼크로 인한 유산이나 외부 기생충 감염이 일어날 수 있습니다. 이번 가이드에서는 미키마우스 플래티의 행동 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
+        "whyTitle": "미키마우스 플래티의 바디 랭귀지: 지느러미 접기·몸 비비기(Fin Clamping / Flashing)와 수초 구석 숨기(Maternity Hiding)",
+        "whyDesc": "미키마우스 플래티는 지느러미의 모양과 헤엄치는 행동으로 수질 오염, 기생충 감염, 출산 임박 상태를 명확히 표현합니다. 등지느러미와 꼬리지느러미를 몸에 바짝 붙이고 헤엄치는 **'지느러미 접기(Fin Clamping)'**와 바닥재나 구조물에 몸을 쓸어내리듯 비비는 **'몸 비비기(Flashing)'**는 수질 악화(아질산/암모니아 상승)나 백점병·외부 기생충 감염 신호입니다. 반면 암컷의 배가 'ㄴ'자로 네모나지며 수조 구석이나 수초 사이에 숨어 수직으로 위아래로 움직이는 행동은 **'출산 임박 신호(Maternity Hiding)'**입니다.",
+        "body_signals": [
+          {
+            "name": "지느러미를 몸에 바짝 붙이고 바닥재에 몸을 비빔 (Fin Clamping / Flashing)",
+            "meaning": "수질 악화(아질산/암모니아 상승), 수온 급변 쇼크, 또는 백점병/외부 기생충 감염 초기 신호입니다.",
+            "response": "즉시 수질과 수온(22~26°C)을 측정하고, 20~30% 환수 실시 및 필요시 백점병 약범/소금욕을 진행합니다."
+          },
+          {
+            "name": "암컷 배가 네모나지고 수초 구석에 숨어 위아래로 헤엄침 (Maternity Hiding)",
+            "meaning": "체내 부화가 완료되어 치어를 출산하기 직전의 임신 암컷이 보이는 전형적인 출산 행동입니다.",
+            "response": "치어 포식을 막기 위해 암컷을 출산용 부채통(격리항)으로 이동시키거나 자바모스/붕어모 등 치어 은신용 수초를 풍성하게 제공합니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 수온(22°C~26°C) 및 약알칼리성 수질(pH 7.0~8.2) 점검과 적량 급여",
+            "text": "수중 히터 및 수온을 점검하고, 면역력 유지를 위해 2~3분 내에 소비할 수 있는 소량의 프리미엄 플레이크나 소형 펠릿을 급여합니다."
+          },
+          {
+            "name": "낮: 수조 수초 밀생 상태 확인 및 암컷 임신 상태 관찰",
+            "text": "치어 은신처가 될 수초(자바모스, 마이크로소리움 등) 상태를 점검하고, 암컷의 배 모양과 산란관 부풀어 오름을 관찰합니다."
+          },
+          {
+            "name": "저녁: 잔여 사료·배설물 사이펀 청소 및 8~10시간 소등 유지",
+            "text": "수질 오염 방지를 위해 바닥재의 배설물과 잔여 먹이를 사이펀으로 제거하고, 야간에는 조명을 꺼서 피로를 방지합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "플래티 몸에 소금가루 같은 흰 점이 생기고 몸을 비비는데 백점병인가요?",
+            "answer": "네, 대표적인 기생충성 질환인 '백점병(Ich)'입니다. 환수 시 급격한 수온 변화나 22°C 이하의 저온 환경에서 주로 발생합니다. 치료를 위해 수온을 천천히 27~28°C로 올리고, 백점병 전용 치료제 투여 또는 0.3~0.5% 농도의 천일염 소금욕을 병행하며 환수를 진행해야 합니다."
+          },
+          {
+            "question": "플래티 암컷이 출산할 때 새끼(치어)가 성어들에게 먹히지 않게 하려면 어떻게 하나요?",
+            "answer": "플래티는 자신의 새끼를 먹는 '치어 포식(Fry Cannibalism)' 습성이 있습니다. 암컷의 배가 'ㄴ'자 모양으로 네모나지고 산란관이 돌출되면 출산 직전이므로, 미리 부채통(격리통)에 옮겨주어야 합니다. 사육수조에서 자연 출산을 시킬 경우 치어들이 숨을 수 있도록 자바모스, 붕어모, 나자스모스 같은 수초를 풍성하게 식재해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Mickey Mouse Platy Behavioral Signals and 3-Step Daily Routine for Ich and Fry Cannibalism Prevention",
+        "description": "Care guide for the adorable livebearer Mickey Mouse Platy. Interpret fin clamping, flashing, and pre-parturition hiding, manage alkaline water parameters, and protect fry in 3 steps.",
+        "authority": "Ornamental Fish International (OFI) & American Livebearer Association (ALA) Care Standards",
+        "profile": {
+          "breed": "Mickey Mouse Platy (Xiphophorus maculatus)",
+          "lifespan": "2 - 3 Years (Up to 4 years with optimal care)",
+          "sleep_pattern": "8 - 10 Hours (Diurnal, rests near substrate or aquatic plants at night)",
+          "temperament": "Peaceful, Active, Highly Prolific, Social, Gentle"
+        },
+        "intro": "Instantly recognizable by the black silhouette resembling a Mickey Mouse face at the base of their caudal fin, Mickey Mouse Platies (Xiphophorus maculatus) are among the most popular tropical livebearers worldwide. As livebearers that give birth to free-swimming fry rather than laying eggs, they breed easily; however, sudden temperature drops below 22°C (72°F) or deteriorating water quality make them vulnerable to 'Ich' (White Spot Disease) and fin clamping. Furthermore, adult platies exhibit 'Fry Cannibalism', frequently preying on newborn fry if hiding spaces are absent. In this guide, presents a 3-step daily care routine to read your Platy's signals and protect its health.",
+        "whyTitle": "Mickey Mouse Platy Body Language: Fin Clamping / Flashing and Pre-Parturition Hiding",
+        "whyDesc": "Mickey Mouse Platies express water quality stress, parasitic infections, and impending labor through fin postures and swimming behavior. Swimming with dorsal and caudal fins held tightly against the body **'Fin Clamping'** alongside scraping against substrate or decor **'Flashing'** signals water degradation (ammonia/nitrite spikes) or external parasite infections like Ich. Conversely, a pregnant female developing a boxy, squarish abdomen and hiding vertically among dense plants **'Pre-Parturition Hiding (Maternity Hiding)'** indicates she is about to give birth.",
+        "body_signals": [
+          {
+            "name": "Clamping Fins Tightly & Scraping Against Substrate (Fin Clamping / Flashing)",
+            "meaning": "An early warning signal of poor water quality (ammonia/nitrite spikes), thermal shock, or external parasite/Ich infestation.",
+            "response": "Immediately test water parameters and temperature (keep at 22°C–26°C / 72°F–79°F), perform a 20–30% water change, and administer Ich medication or aquarium salt treatment if white spots appear."
+          },
+          {
+            "name": "Developing a Squarish Belly & Hiding Vertically in Plant Corners (Maternity Hiding)",
+            "meaning": "A classic pre-parturition behavior shown by pregnant females about to drop live fry.",
+            "response": "Transfer the pregnant female to a breeding box (isolation breeder) or provide dense hiding mosses (Java moss, Guppy grass) to prevent adult fry cannibalism."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Water Temp (22°C–26°C) & pH (7.0–8.2) Check & Feeding",
+            "text": "Verify heater operation and water parameters, feeding a small pinch of premium tropical flakes or mini pellets that can be consumed within 2–3 minutes."
+          },
+          {
+            "name": "Afternoon: Plant Cover Inspection & Gravid Female Observation",
+            "text": "Ensure aquatic plant cover (Java moss, Micro-sorium) is dense for fry protection, observing female abdomen shape and gravid spot expansion."
+          },
+          {
+            "name": "Evening: Siphon Waste/Uneaten Food & Maintain 8–10 Hour Sleep Cycle",
+            "text": "Siphon out feces and leftover food from substrate to maintain pristine water quality, turning off lights at night to ensure adequate rest."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "My Platy has tiny white salt-like spots and is flashing against rocks. Is it Ich?",
+            "answer": "Yes, this is 'Ich' (White Spot Disease), a common parasitic infection triggered by sudden temperature fluctuations or cold water below 22°C (72°F). To treat it, slowly raise water temperature to 27°C–28°C (80°F–82°F), perform partial water changes, and administer Ich medication or maintain a 0.3%–0.5% aquarium salt bath."
+          },
+          {
+            "question": "How can I prevent adult Platies from eating their newborn fry during birth?",
+            "answer": "Platies naturally exhibit 'Fry Cannibalism'. When a female's abdomen becomes squarish ('L'-shaped) and her gravid spot darkens, move her to a separate breeding trap before birth. If letting her give birth in the main tank, plant dense floating mosses like Java moss or Guppy grass to provide crucial refuges for newborn fry."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ミッキーマウスプラティのヒレ閉じ・体を擦り付ける行動の解読と白点病・稚魚捕食予防のための3ステップデイリールーティン",
+        "description": "尾ヒレのミッキーマウス模様が愛らしい卵胎生観賞魚ミッキーマウスプラティ（Mickey Mouse Platy）。ヒレ閉じや体を擦り付ける行動の解読、白点病予防、出産サインの観察および稚魚保護のための3ステップホームケアを紹介します。",
+        "authority": "国際観賞魚協会 (OFI) および アメリカ卵胎生メダカ協会 (ALA) 飼育基準",
+        "profile": {
+          "breed": "ミッキーマウスプラティ (Mickey Mouse Platy / Xiphophorus maculatus)",
+          "lifespan": "2 〜 3年 (適切なケアで最大4年)",
+          "sleep_pattern": "8 〜 10時間 (昼行性、夜間は水槽底や水草の陰で休む)",
+          "temperament": "温和、活発、繁殖力が強い、平和的、社交的"
+        },
+        "intro": "尾ヒレの付け根に黒いミッキーマウスの顔の形をした模様が入るミッキーマウスプラティ（Xiphophorus maculatus）は、鮮やかな体色と優れた環境適応力で世界中で愛されている代表的な卵胎生メダカ科の熱帯魚です。お腹の中で卵を孵化させて稚魚を産む卵胎生特有の強い繁殖力を持ちますが、水温が22°C以下に急降下したり水質が悪化すると、体に白い点がつく「白点病（Ich）」やヒレをたたむ症状にかかりやすくなります。また、出産直後に親魚が稚魚を食べてしまう「稚魚捕食（Fry Cannibalism）」が起きやすく、水質ショックによる早産や寄生虫感染にも注意が必要です。本記事では、ミッキーマウスプラティのサインを正確に読み解き、健康を守る3ステップルーティンをお届けします。",
+        "whyTitle": "ミッキーマウスプラティのボディランゲージ：ヒレ閉じ・体を擦り付ける行動(Fin Clamping / Flashing)と水草陰への隠れ(Maternity Hiding)",
+        "whyDesc": "ミッキーマウスプラティはヒレの形と泳ぎ方で水質汚染、寄生虫感染、出産直前の状態を明確に表現します。背ヒレや尾ヒレを体にぴったりと畳んで泳ぐ**「ヒレ閉じ（Fin Clamping）」**や底砂・レイアウトに体を擦り付ける**「体を擦り付ける行動（Flashing）」**は、水質悪化（アンモニア/亜硝酸の上昇）や白点病・寄生虫感染のサインです。一方、メスのお腹が四角く張って水草の陰や隅に隠れ、上下に垂直運動する行動は**「出産直前サイン（Maternity Hiding）」**です。",
+        "body_signals": [
+          {
+            "name": "ヒレを体にぴったり伏せ、底砂に体を擦り付ける (Fin Clamping / Flashing)",
+            "meaning": "水質悪化（アンモニア/亜硝酸の上昇）、水温急変ショック、または白点病・外部寄生虫感染の初期サインです。",
+            "response": "すぐに水質と水温（22〜26°C）を確認し、20〜30%の水換えを行い、白点が見られる場合は薬浴や塩浴を実施してください。"
+          },
+          {
+            "name": "メスのお腹が四角くなり、水草の陰に隠れて上下に泳ぐ (Maternity Hiding)",
+            "meaning": "体内での孵化が完了し、稚魚を出産する直前の妊娠メスに見られる典型的な出産行動です。",
+            "response": "親魚による稚魚捕食を防ぐため、メスを産卵箱（隔離ケース）へ移動させるか、ウィローモスの密集エリアを用意してください。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：水温（22°C〜26°C）と弱アルカリ性水質（pH 7.0〜8.2）の点検＆適量給餌",
+            "text": "ヒーターと水温を確認し、2〜3分で食べきれる少量の高品質フレークや小型ペレットを与えます。"
+          },
+          {
+            "name": "昼：水草の密集状態確認とメスの妊娠状態の観察",
+            "text": "稚魚の隠れ家となる水草（ウィローモスやマクロソリウム等）の状態を点検し、メスのお腹の膨らみと産卵管の突出を観察します。"
+          },
+          {
+            "name": "夜：残餌・フンのプロホース清掃と8〜10時間の消灯維持",
+            "text": "水質悪化を防ぐため底砂のフンや残餌をホースで吸い出し、夜間は照明を消して休息させます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "プラティの体に塩を振ったような白い点がつき、体を擦り付けていますが白点病ですか？",
+            "answer": "はい、代表的な寄生虫性疾患である「白点病（Ich）」です。水換え時の急激な水温変化や22°C以下の低水温で発生しやすくなります。治療には水温をゆっくり27〜28°Cまで上げ、白点病専用薬の投与や0.3〜0.5%濃度の塩浴を行いながら水換えを進めてください。"
+          },
+          {
+            "question": "プラティが出産する際、生まれた稚魚が親魚に食べられないようにするにはどうすればいいですか？",
+            "answer": "プラティには自分の稚魚を食べてしまう「稚魚捕食（Fry Cannibalism）」の習性があります。メスのお腹が四角く（L字型に）張り、目立ってきたら出産直前ですので産卵箱へ移動させてください。本水槽で自然出産させる場合は、稚魚が隠れられるようウィローモスやマツモなどの水草を密生させることが不可欠です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "米老鼠月光鱼（Mickey Mouse Platy）缩鳍与蹭缸信号解读及白点病与幼鱼被吞食预防的3步日常流程",
+        "description": "尾鳍带有可爱米老鼠图案的卵胎生观赏鱼米老鼠月光鱼（Mickey Mouse Platy）。解读缩鳍与蹭缸行为信号，管理弱碱性水质，观察临产征兆及保护幼鱼的3步骤家庭护理。",
+        "authority": "国际观赏鱼协会 (OFI) 与 美国卵胎生鱼类协会 (ALA) 饲育标准",
+        "profile": {
+          "breed": "米老鼠月光鱼 (Mickey Mouse Platy / Xiphophorus maculatus)",
+          "lifespan": "2 ~ 3年 (科学饲养可达4年)",
+          "sleep_pattern": "8 ~ 10小时 (昼行性，夜间在缸底或水草丛中休息)",
+          "temperament": "温和、活泼、繁殖力强、和平、喜群居"
+        },
+        "intro": "因尾鳍基部带有清晰的黑色米老鼠图案而得名的米老鼠月光鱼（Xiphophorus maculatus），凭其艳丽的体色与极强的适应力，是深受全球水族爱好者喜爱的经典花频剑尾鱼/月光鱼。作为直接产出幼鱼的卵胎生鱼类，其繁殖能力极强；但若水温急剧降至 22°C 以下或水质恶化，极易患上身上出现白斑的“白点病 (Ich)”并伴随缩鳍现象。此外，刚出生的小鱼极易发生被成鱼吞食的“亲鱼吞食幼鱼 (Fry Cannibalism)”现象，水质应激还可能导致早产。本指南将带您准确解读米老鼠月光鱼的行为信号，并通过3步骤日常护理维护其健康。",
+        "whyTitle": "米老鼠月光鱼肢体语言：缩鳍与蹭缸 (Fin Clamping / Flashing) 及临产躲藏 (Maternity Hiding)",
+        "whyDesc": "米老鼠月光鱼通过鳍条姿态与游动行为清晰表达水质压力、寄生虫感染与临产状态。将背鳍与尾鳍紧贴身体游动**“缩鳍 (Fin Clamping)”**以及在底砂或造景上快速摩擦身体**“蹭缸 (Flashing)”**，是水质恶化（氨氮/亚硝酸盐飙升）或感染白点病/外部寄生虫的警告信号。相反，孕鱼腹部变方呈直角“L”形，并躲在水草角落上下垂直游动，则是**“临产躲藏信号 (Maternity Hiding)”**。",
+        "body_signals": [
+          {
+            "name": "鳍条紧贴身体并在底砂上摩擦身体 (Fin Clamping / Flashing)",
+            "meaning": "水质恶化（氨氮/亚硝酸盐超标）、水温骤降应激或白点病/外部寄生虫感染初期的信号。",
+            "response": "立即检测水质与水温（保持在 22°C~26°C），换水 20%~30%，若有白点需及时进行药浴或盐浴。"
+          },
+          {
+            "name": "孕鱼肚子变方并躲在水草角落上下游动 (Maternity Hiding)",
+            "meaning": "体内胚胎发育成熟、即将在数小时内产出小鱼的典型临产行为。",
+            "response": "为防止幼鱼被成鱼吞食，应及时将孕鱼捞入隔离孵化盒，或在缸内密植莫丝等水草供幼鱼躲避。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：水温（22°C~26°C）与弱碱性水质（pH 7.0~8.2）检查及适量喂食",
+            "text": "检查加热棒与水温，投喂可在 2~3 分钟内吃完的少量的优质薄片或微粒饲料，以维持其免疫力。"
+          },
+          {
+            "name": "中午：水草密植状态检查与母鱼怀孕状态观察",
+            "text": "检查作为幼鱼避难所的水草（爪哇莫丝、铁皇冠等）生长状况，观察孕鱼腹部膨胀度与胎斑变化。"
+          },
+          {
+            "name": "晚上：清理残渣粪便与保持 8~10 小时关灯休息",
+            "text": "用抽水管清理底砂中的排泄物与残粮以防水质恶化，夜间关闭照明以保证充足休息。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "月光鱼身上长满像盐粒一样的白点并且频繁蹭缸，是白点病吗？",
+            "answer": "是的，这是由小瓜虫引起的典型寄生虫病“白点病 (Ich)”。常见于换水时温差过大或水温低于 22°C 的环境。治疗时应缓慢将水温提升至 27°C~28°C，配合使用白点病专用水质调理剂或 0.3%~0.5% 浓度的观赏鱼盐浴，同时适量换水。"
+          },
+          {
+            "question": "母月光鱼生小鱼时，怎样才能防止小鱼被大鱼吃掉？",
+            "answer": "月光鱼有食仔的天性“亲鱼吞食幼鱼 (Fry Cannibalism)”。当母鱼肚子变方（呈直角“L”形）且胎斑加深时，说明即将在数小时内生产，应提前移入隔离繁殖盒中。若选择大缸自然生产，必须在缸内大量种植爪哇莫丝、水榕或金鱼藻等密植水草，给刚出生的幼鱼提供充足的躲避空间。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Señales de conducta en el Pez Platy Mickey Mouse y rutina diaria de 3 pasos para la prevención del Ich y el canibalismo de alevines",
+        "description": "Guía de cuidado para el vivíparo Pez Platy Mickey Mouse (Xiphophorus maculatus). Interprete las aletas plegadas, el frotamiento y el aislamiento preparto, controle el agua alcalina y proteja a los alevines en 3 pasos.",
+        "authority": "Asociación de Peces Ornamentales Internacional (OFI) y Normas de la American Livebearer Association (ALA)",
+        "profile": {
+          "breed": "Pez Platy Mickey Mouse (Xiphophorus maculatus)",
+          "lifespan": "2 ~ 3 años (Hasta 4 años con cuidados óptimos)",
+          "sleep_pattern": "8 ~ 10 horas (Diurno, descansa cerca del sustrato o plantas de noche)",
+          "temperament": "Pacífico, Activo, Muy prolífico, Social, Dócil"
+        },
+        "intro": "Inconfundible por la silueta negra en la base de la aleta caudal que se asemeja a la cabeza de Mickey Mouse, el Platy Mickey Mouse (Xiphophorus maculatus) es uno de los vivíparos más populares en la acuariofilia mundial. Al ser un pez ovovivíparo que da a luz a alevines totalmente formados, se reproduce con gran facilidad; sin embargo, caídas de temperatura por debajo de 22°C o el deterioro del agua lo hacen vulnerable a la 'Enfermedad del Punto Blanco (Ich)' y a plegar las aletas. Además, los adultos practican el 'Canibalismo de Alevines' si no existen suficientes escondites. En esta guía, presenta una rutina de 3 pasos para cuidar su salud.",
+        "whyTitle": "Lenguaje corporal del Platy Mickey Mouse: Aletas plegadas / frotamiento (Fin Clamping / Flashing) y aislamiento preparto (Maternity Hiding)",
+        "whyDesc": "Los Platys comunican el estrés de la calidad del agua, las infecciones parasitarias y el parto inminente a través de la postura de sus aletas y su natación. Nadar con la aleta dorsal y caudal pegadas al cuerpo **'Aletas plegadas (Fin Clamping)'** junto con rascarse contra el sustrato **'Frotamiento (Flashing)'** indica un aumento de amoníaco/nitritos o infecciones parasitarias como el Ich. Por el contrario, cuando una hembra preñada desarrolla un abdomen cuadrado y se esconde verticalmente entre las plantas **'Aislamiento preparto (Maternity Hiding)'**, indica que el parto es inminente.",
+        "body_signals": [
+          {
+            "name": "Plegar las aletas contra el cuerpo y frotarse contra el sustrato (Fin Clamping / Flashing)",
+            "meaning": "Señal de alerta temprana de mala calidad del agua (picos de amoníaco/nitritos), choque térmico o infección por parásitos/Ich.",
+            "response": "Mida de inmediato los parámetros del agua y mantenga la temperatura en 22°C–26°C, realice un cambio de agua del 20–30% y aplique medicamento para el Ich o baño de sal si observa puntos blancos."
+          },
+          {
+            "name": "Abdomen abultado en forma cuadrada y aislamiento entre plantas (Maternity Hiding)",
+            "meaning": "Conducta típica preparto de una hembra gestante a punto de parir alevines vivos.",
+            "response": "Traslade a la hembra a una paridera o proporcione musgos densos (musgo de Java) en el acuario para evitar que los adultos se coman a las crías."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Control de temperatura (22°C–26°C) y pH alcalino (7.0–8.2) y alimentación",
+            "text": "Verifique el calentador y los parámetros del agua, ofreciendo escamas o minipellets de calidad que consuman en 2–3 minutos."
+          },
+          {
+            "name": "Tarde: Inspección de plantas y observación de hembras gestantes",
+            "text": "Asegúrese de que el musgo de Java o las plantas flotantes sean densos para proteger a los alevines y observe la mancha de gravidez de las hembras."
+          },
+          {
+            "name": "Noche: Sifonado del sustrato y mantenimiento del ciclo de luz de 8–10 horas",
+            "text": "Retire restos de comida y heces con un sifón para evitar el amoníaco y apague la luz durante la noche para su descanso."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mi Platy tiene diminutos puntos blancos como sal y se frota contra las rocas. ¿Es Ich?",
+            "answer": "Sí, es la 'Enfermedad del Punto Blanco (Ich)', un parásito común provocado por bajas de temperatura por debajo de 22°C o cambios bruscos al cambiar el agua. Para tratarlo, suba lentamente la temperatura a 27°C–28°C, realice cambios parciales de agua y aplique un tratamiento contra el Ich o un baño de sal marina al 0.3%–0.5%."
+          },
+          {
+            "question": "¿Cómo puedo evitar que los Platys adultos se coman a los alevines recién nacidos?",
+            "answer": "Los Platys practican de forma natural el 'Canibalismo de Alevines'. Cuando el vientre de la hembra se vuelva cuadrado (en forma de 'L') y la mancha anal se oscurezca, trasládela a una paridera. Si paren en el acuario comunitario, introduzca abundante musgo de Java o plantas flotantes donde los alevines puedan refugiarse."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Signaux comportementaux du Platy Mickey Mouse et routine quotidienne en 3 étapes pour la prévention de l'Ichtyophthiriose et du cannibalisme des alevins",
+        "description": "Guide de soins pour l'adorable vivipare Platy Mickey Mouse (Xiphophorus maculatus). Décryptez les nageoires serrées, le frottement et l'isolement pré-mise bas, gérez l'eau alcaline et préservez les alevins en 3 étapes.",
+        "authority": "Ornamental Fish International (OFI) & Normes de l'American Livebearer Association (ALA)",
+        "profile": {
+          "breed": "Platy Mickey Mouse (Xiphophorus maculatus)",
+          "lifespan": "2 - 3 ans (Jusqu'à 4 ans avec des soins adaptés)",
+          "sleep_pattern": "8 - 10 heures (Diurne, repose près du substrat ou des plantes la nuit)",
+          "temperament": "Paisible, Actif, Très prolifique, Sociable, Doux"
+        },
+        "intro": "Inconfondable grâce à la tache noire en forme de tête de Mickey Mouse à la base de sa nageoire caudale, le Platy Mickey Mouse (Xiphophorus maculatus) est un poisson vivipare extrêmement populaire. Donnant naissance à des alevins nageant librement, il se reproduit très facilement. Cependant, une chute de température sous 22°C ou une détérioration de l'eau le rend sujet à la 'Maladie des Points Blancs (Ich)' et au serrage des nageoires. De plus, les adultes pratiquent le 'Cannibalisme des Alevins' en l'absence de cachettes. Dans ce guide, vous présente une routine en 3 étapes pour préserver sa santé.",
+        "whyTitle": "Langage corporel du Platy Mickey Mouse : Nageoires serrées / frottement (Fin Clamping / Flashing) et isolement pré-mise bas (Maternity Hiding)",
+        "whyDesc": "Les Platys expriment le stress de l'eau, les parasitoses et l'accouchement imminant par la posture de leurs nageoires et leur nage. Nager avec les nageoires plaquées contre le corps **« Nageoires serrées (Fin Clamping) »** tout en se frottant contre le décor **« Frottement (Flashing) »** indique une hausse d'ammoniac/nitrites ou une attaque de points blancs. En revanche, lorsqu'une femelle pleine prend un ventre carré et se cache verticalement dans les plantes **« Isolement pré-mise bas (Maternity Hiding) »**, la naissance des alevins est imminente.",
+        "body_signals": [
+          {
+            "name": "Nageoires totalement collées au corps & frottement sur le sol (Fin Clamping / Flashing)",
+            "meaning": "Alerte précoce d'une eau polluée (pics d'ammoniac/nitrites), d'un choc thermique ou d'une infection par la maladie des points blancs.",
+            "response": "Testez immédiatement la qualité de l'eau, stabilisez la température entre 22°C et 26°C, faites un changement d'eau de 20–30 % et appliquez un traitement anti-Ich si nécessaire."
+          },
+          {
+            "name": "Ventre devenant carré & isolement vertical dans les plantes (Maternity Hiding)",
+            "meaning": "Comportement pré-mise bas typique d'une femelle prête à expulser des alevins vivants.",
+            "response": "Isolez la femelle dans un pondoir ou fournissez de la mousse de Java très dense pour éviter que les adultes ne dévorent les nouveau-nés."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Contrôle de la température (22°C–26°C) et du pH alcalin (7.0–8.2) & nourriture",
+            "text": "Vérifiez le chauffage et les paramètres d'eau, puis distribuez des paillettes ou granulés fins consommés en 2 à 3 minutes."
+          },
+          {
+            "name": "Après-midi : Inspection des plantes & observation des femelles gestantes",
+            "text": "Veillez à ce que la mousse de Java soit bien dense pour abriter les petits et contrôlez la tache de gestation des femelles."
+          },
+          {
+            "name": "Soir : Siphonage du fond & maintien d'un cycle de sommeil de 8–10 heures",
+            "text": "Aspirez les restes de nourriture et les déjections sur le sol pour maintenir l'eau propre, et éteignez la lumière pour la nuit."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mon Platy est couvert de petits grains blancs comme du sel et se frotte aux pierres. Est-ce l'Ich ?",
+            "answer": "Oui, c'est la 'Maladie des Points Blancs (Ich)', causée par un parasite lié à un coup de froid sous 22°C ou des variations de température lors des changements d'eau. Pour soigner cela, montez progressivement la température à 27°C–28°C, faites des changements d'eau et utilisez un traitement anti-points blancs ou un bain de sel d'aquarium (0,3 à 0,5 %)."
+          },
+          {
+            "question": "Comment empêcher les Platys adultes de manger leurs alevins à la naissance ?",
+            "answer": "Les Platys pratiquent naturellement le 'Cannibalisme des Alevins'. Quand le ventre de la femelle devient bien carré (en forme de 'L') et que sa tache génitale s'assombrit, placez-la dans un pondoir. Si elle met bas dans l'aquarium communautaire, installez une grande quantité de mousse de Java pour que les petits s'y réfugient."
+          }
+        ]
+      },
+      "de": {
+        "title": "Verhaltenssignale beim Micky-Maus-Platy und 3-Schritte-Tagesroutine zur Vorbeugung von Pünktchenkrankheit und Alevinen-Kannibalismus",
+        "description": "Pflegeanleitung für den lebendgebärenden Micky-Maus-Platy (Xiphophorus maculatus). Klemmen der Flossen, Scheuern und Verstecken vor dem Werfen verstehen, alkalisches Wasser managen und Jungfische in 3 Schritten schützen.",
+        "authority": "Ornamental Fish International (OFI) & Standards der American Livebearer Association (ALA)",
+        "profile": {
+          "breed": "Micky-Maus-Platy (Xiphophorus maculatus)",
+          "lifespan": "2 - 3 Jahre (Bei optimaler Pflege bis zu 4 Jahre)",
+          "sleep_pattern": "8 - 10 Stunden (Tagaktiv, ruht nachts am Boden oder bei Pflanzen)",
+          "temperament": "Friedlich, Aktiv, Sehr vermehrungsfreudig, Gesellig, Sanft"
+        },
+        "intro": "Unverwechselbar durch die schwarze Micky-Maus-Musterung an der Schwanzflossenbasis gehört der Micky-Maus-Platy (Xiphophorus maculatus) zu den beliebtesten lebendgebärenden Zahnkarpfen im Aquarium. Als Lebendgebärender bringt er fertige Jungfische zur Welt und vermehrt sich leicht; jedoch machen ihn Temperaturschwankungen unter 22 °C oder schlechte Wasserwerte anfällig für die 'Pünktchenkrankheit (Ich)' und Klemmen der Flossen. Zudem neigen ausgewachsene Platys zu 'Alevinen-Kannibalismus' an den eigenen Jungfischen. In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für die Gesundheit Ihres Platys.",
+        "whyTitle": "Körpersprache des Micky-Maus-Platys: Flossenklemmen / Scheuern (Fin Clamping / Flashing) und Verstecken vor dem Werfen (Maternity Hiding)",
+        "whyDesc": "Platys drücken Wasserbelastungen, Parasitenbefall und eine bevorstehende Geburt über ihre Flossenhaltung und ihr Schwimmverhalten aus. Das enge Anlegen der Rücken- und Schwanzflosse **'Klemmen der Flossen (Fin Clamping)'** zusammen mit dem Reiben an Steinen **'Scheuern (Flashing)'** signalisiert Ammoniak-/Nitritanstiege oder Ichthyophthiriose. Ein kastenartiger, eckiger Bauch bei trächtigen Weibchen mit senkrechtem Verstecken im Dichtgebüsch **'Verstecken vor dem Werfen (Maternity Hiding)'** kündigt dagegen das Werfen der Jungfische an.",
+        "body_signals": [
+          {
+            "name": "Enges Anlegen der Flossen & Scheuern am Bodengrund (Fin Clamping / Flashing)",
+            "meaning": "Frühes Warnsignal für Wasserverschmutzung (Ammoniak/Nitrit), Temperaturschock oder Parasitenbefall (Pünktchenkrankheit).",
+            "response": "Prüfen Sie sofort Wasserwerte und Temperatur (22 °C–26 °C), führen Sie einen 20–30%igen Wasserwechsel durch und behandeln Sie bei weißen Punkten mit Ich-Medikamenten oder Salz."
+          },
+          {
+            "name": "Eckiger Bauch & senkrechtes Verstecken in Pflanzen (Maternity Hiding)",
+            "meaning": "Typisches Verhalten eines trächtigen Weibchens unmittelbar vor dem Gebären lebender Jungfische.",
+            "response": "Setzen Sie das Weibchen in einen Laichkasten oder bieten Sie dichtes Javamoos an, um den Fressdruck durch ausgewachsene Fische zu verhindern."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Wassertemperatur (22 °C–26 °C) & pH-Wert (7.0–8.2) prüfen und füttern",
+            "text": "Prüfen Sie den Heizer und die Wasserwerte und füttern Sie eine kleine Prise Flockenfutter oder Feingranulat, die in 2–3 Minuten gefressen wird."
+          },
+          {
+            "name": "Mittag: Pflanzenverstecke kontrollieren & trächtige Weibchen beobachten",
+            "text": "Sorgen Sie für dichte Bepflanzung (Javamoos) als Schutzraum für Jungfische und beobachten Sie den Trächtigkeitsfleck der Weibchen."
+          },
+          {
+            "name": "Abend: Kot/Futterreste absaugen & 8–10 Stunden Nachtruhe einhalten",
+            "text": "Saugen Sie Futterreste und Kot vom Boden ab, um Wasserbelastungen zu vermeiden, und schalten Sie nachts das Licht zur Ruhe aus."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mein Platy hat weiße Punkte wie Salzbohnen und scheuert sich. Ist das die Pünktchenkrankheit?",
+            "answer": "Ja, das ist die 'Pünktchenkrankheit (Ich)', hervorgerufen durch Parasiten bei Temperaturschwankungen oder Kälte unter 22 °C. Erhöhen Sie die Temperatur langsam auf 27 °C–28 °C, führen Sie Teilwasserwechsel durch und behandeln Sie mit einem Ich-Präparat oder einem 0,3–0,5%igen Salzbad."
+          },
+          {
+            "question": "Wie verhindere ich, dass große Platys die neugeborenen Babyfische auffressen?",
+            "answer": "Platys neigen von Natur aus zu 'Alevinen-Kannibalismus'. Wenn der Bauch des Weibchens eckig (L-förmig) wird und der Trächtigkeitsfleck dunkel ist, setzen Sie sie in einen Ablaichkasten. Bei einer Geburt im Hauptbecken schaffen Sie dichte Javamoos-Polster als Versteck für die Babys."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Sinais comportamentais do Peixe Platy Mickey Mouse e rotina diária de 3 passos para prevenção de Íctio e canibalismo de alevinos",
+        "description": "Guia de cuidados para o adorável vivíparo Platy Mickey Mouse (Xiphophorus maculatus). Entenda as barbatanas encolhidas, o roçar no substrato e o esconderijo pré-parto, controle a água alcalina e proteja alevinos em 3 passos.",
+        "authority": "Associação Internacional de Peixes Ornamentais (OFI) & Padrões da American Livebearer Association (ALA)",
+        "profile": {
+          "breed": "Peixe Platy Mickey Mouse (Xiphophorus maculatus)",
+          "lifespan": "2 - 3 anos (Até 4 anos com cuidados adequados)",
+          "sleep_pattern": "8 - 10 horas (Diurno, descansa perto do substrato ou plantas à noite)",
+          "temperament": "Pacífico, Ativo, Muito prolífico, Social, Dócil"
+        },
+        "intro": "Inconfundível pela mancha preta em formato do rosto do Mickey Mouse na base da nadadeira caudal, o Platy Mickey Mouse (Xiphophorus maculatus) é um dos peixes vivíparos mais queridos da aquariofilia. Por darem à luz alevinos já formados, eles se reproduzem facilmente; no entanto, quedas de temperatura abaixo de 22°C ou piora na água os tornam suscetíveis ao 'Íctio' (Doença dos Pontos Brancos) e ao encolhimento de nadadeiras. Além disso, os adultos praticam o 'Canibalismo de Alevinos' na ausência de esconderijos. Neste guia, apresenta uma rotina de 3 passos para cuidar da saúde do seu pet.",
+        "whyTitle": "Linguagem corporal do Platy Mickey Mouse: Barbatanas encolhidas / roçar no substrato (Fin Clamping / Flashing) e esconderijo pré-parto (Maternity Hiding)",
+        "whyDesc": "Os Platys comunicam estresse na água, parasitas e parto iminente pela postura das nadadeiras e pelo nado. Nadar com as nadadeiras coladas ao corpo **'Barbatanas encolhidas (Fin Clamping)'** juntamente com raspar-se no substrato **'Roçar no substrato (Flashing)'** indica acúmulo de amônia/nitrito ou infecções por Íctio. Por outro lado, quando a fêmea grávida fica com a barriga quadrada e se esconde verticalmente nas plantas **'Esconderijo pré-parto (Maternity Hiding)'**, indica nascimento iminente.",
+        "body_signals": [
+          {
+            "name": "Encolher as barbatanas contra o corpo e roçar no substrato (Fin Clamping / Flashing)",
+            "meaning": "Sinal de alerta de água poluída (amônia/nitrito altos), choque térmico ou infecção por Íctio e parasitas externos.",
+            "response": "Teste imediatamente a água e mantenha a temperatura em 22°C–26°C, faça uma troca parcial de água de 20 a 30% e aplique medicação para Íctio ou banho de sal se notar pontos brancos."
+          },
+          {
+            "name": "Barriga em formato quadrado e isolamento entre as plantas (Maternity Hiding)",
+            "meaning": "Comportamento típico pré-parto de fêmea grávida prestes a dar à luz alevinos vivos.",
+            "response": "Mova a fêmea para uma criadeira ou coloque bastante musgo de Java no aquário para evitar que os adultos comam os filhotes."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Checagem da temperatura (22°C–26°C) e pH alcalino (7.0–8.2) e alimentação",
+            "text": "Verifique o aquecedor e a água, alimentando com flocos ou minigranulados de qualidade consumidos em 2 a 3 minutos."
+          },
+          {
+            "name": "Tarde: Inspeção de plantas e observação de fêmeas grávidas",
+            "text": "Garanta que o musgo de Java seja denso para proteger os alevinos e observe a mancha de gravidez das fêmeas."
+          },
+          {
+            "name": "Noite: Sifonagem do substrato e manutenção do ciclo de iluminação de 8–10 horas",
+            "text": "Sifone restos de comida e sujeira do fundo para evitar amônia e apague a luz à noite para garantir o descanso."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Meu Platy está cheio de pontinhos brancos como sal e se roçando nas pedras. É Íctio?",
+            "answer": "Sim, é a 'Doença dos Pontos Brancos (Íctio)', um parasita comum causado por frio abaixo de 22°C ou trocas bruscas de água. Para tratar, suba gradualmente a temperatura para 27°C–28°C, faça trocas parciais de água e use medicação específica ou banho de sal grosso para aquário (0,3% a 0,5%)."
+          },
+          {
+            "question": "Como evitar que os Platys adultos comam os alevinos recém-nascidos?",
+            "answer": "Os Platys têm a tendência natural do 'Canibalismo de Alevinos'. Quando a barriga da fêmea ficar quadrada (em formato de 'L') e a mancha anal escura, coloque-a numa criadeira. Caso nasçam no aquário principal, mantenha densos tufos de musgo de Java para os filhotes se esconderem."
+          }
+        ]
+      },
+      "id": {
+        "title": "Sinyal Perilaku Ikan Platy Mickey Mouse dan Rutinitas Harian 3 Langkah Perawatan Pencegahan Ich serta Kanibalisme Buraya",
+        "description": "Panduan perawatan Ikan Platy Mickey Mouse (Xiphophorus maculatus) yang menggemaskan. Pahami sirip menguncup, perilaku menggesekkan tubuh, serta sembunyi menjelang melahirkan, kelola air alkali, dan lindungi buraya dalam 3 langkah.",
+        "authority": "Ornamental Fish International (OFI) & Standar Perawatan American Livebearer Association (ALA)",
+        "profile": {
+          "breed": "Ikan Platy Mickey Mouse (Xiphophorus maculatus)",
+          "lifespan": "2 - 3 tahun (Hingga 4 tahun dengan perawatan optimal)",
+          "sleep_pattern": "8 - 10 jam (Diurnal, beristirahat di dasar akuarium atau dekat tanaman pada malam hari)",
+          "temperament": "Damai, Aktif, Sangat prolifik, Sosial, Lembut"
+        },
+        "intro": "Mudah dikenali dari corak hitam menyerupai wajah Mickey Mouse di pangkal sirip ekornya, Ikan Platy Mickey Mouse (Xiphophorus maculatus) adalah salah satu ikan hias air tawar beranak (livebearer) paling populer di dunia. Sebagai ikan beranak yang melahirkan buraya hidup, mereka sangat mudah berkembang biak; namun penurunan suhu mendadak di bawah 22°C atau kualitas air yang buruk membuat mereka rentan terhadap 'Penyakit Bintik Putih (Ich)' dan sirip menguncup. Selain itu, ikan dewasa kerap melakukan 'Kanibalisme Buraya' jika tidak ada tempat bersembunyi. Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk merawat kesehatan ikan Platy Anda.",
+        "whyTitle": "Bahasa Tubuh Ikan Platy Mickey Mouse: Sirip Menguncup / Menggesekkan Tubuh (Fin Clamping / Flashing) dan Sembunyi Menjelang Melahirkan (Maternity Hiding)",
+        "whyDesc": "Ikan Platy menyampaikan stres kualitas air, infeksi parasit, dan proses melahirkan melalui posisi sirip dan cara berenang. Berenang dengan sirip punggung dan ekor merapat ke tubuh **'Sirip Menguncup (Fin Clamping)'** serta menggesekkan tubuh ke batu/substrat **'Menggesekkan Tubuh (Flashing)'** menandakan lonjakan amonia/nitrit atau infeksi parasit Ich. Sebaliknya, perut betina yang membesar berbentuk kotak dan bersembunyi secara vertikal di sela tanaman **'Sembunyi Menjelang Melahirkan (Maternity Hiding)'** menandakan buraya akan segera lahir.",
+        "body_signals": [
+          {
+            "name": "Menguncupkan sirip ke tubuh & menggesekkan badan ke substrat (Fin Clamping / Flashing)",
+            "meaning": "Tanda peringatan dini kualitas air buruk (lonjakan amonia/nitrit), syok suhu, atau infeksi parasit/bintik putih (Ich).",
+            "response": "Segera tes parameter air dan jaga suhu di 22°C–26°C, lakukan penggantian air 20–30%, serta beri obat Ich atau garam ikan jika muncul bintik putih."
+          },
+          {
+            "name": "Perut membesar berbentuk kotak & bersembunyi vertikal di tanaman (Maternity Hiding)",
+            "meaning": "Perilaku khas menjelang melahirkan dari induk betina yang siap mengeluarkan buraya hidup.",
+            "response": "Pindahkan induk ke jaring pemijahan (brine box) atau sediakan tanaman rapat (Java moss) agar buraya tidak dimangsa ikan dewasa."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pemeriksaan Suhu Air (22°C–26°C) & pH Alkali (7.0–8.2) serta Pemberian Pakan",
+            "text": "Periksa heater dan parameter air, lalu beri pakan pelet mikro atau pelet serpih berkualitas yang habis dalam 2–3 menit."
+          },
+          {
+            "name": "Siang: Pemeriksaan Rimbunan Tanaman & Pengamatan Induk Bunting",
+            "text": "Pastikan rimbunan tanaman (Java moss) cukup tebal untuk perlindungan buraya dan amati bercak kehamilan pada induk betina."
+          },
+          {
+            "name": "Malam: Penyiphonan Kotoran Substrat & Pengaturan Sirkulasi Gelap 8–10 Jam",
+            "text": "Sedot sisa pakan dan kotoran dari dasar agar amonia tidak naik, lalu matikan lampu pada malam hari untuk istirahat ikan."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa ikan Platy saya bentol-bentol bintik putih seperti garam dan menggesekkan badan? Apakah itu penyakit Ich?",
+            "answer": "Ya, itu adalah 'Penyakit Bintik Putih (Ich)', infeksi parasit yang dipicu oleh suhu air dingin di bawah 22°C atau perubahan suhu drastis saat ganti air. Untuk mengobatinya, naikkan suhu air secara perlahan ke 27°C–28°C, lakukan ganti air berkala, dan berikan obat khusus Ich atau larutan garam ikan konsentrasi 0.3%–0.5%."
+          },
+          {
+            "question": "Bagaimana cara mencegah ikan Platy dewasa memakan anak-anaknya yang baru lahir?",
+            "answer": "Ikan Platy memiliki sifat alami 'Kanibalisme Buraya'. Saat perut induk betina berbentuk kotak (seperti huruf 'L') dan bercak kehamilannya gelap, segera pisahkan ke kotak pemijahan. Jika melahirkan di akuarium utama, sediakan tanaman air yang sangat rimbun seperti Java moss atau Guppy grass sebagai tempat bersembunyi buraya."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/platy_fish_care.webp"
+  }
 }

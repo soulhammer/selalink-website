@@ -1,406 +1,406 @@
 {
-    "how-to-store-green-onions": {
-        "ingId": "green-onion",
-        "pubDate": "2026-01-07",
-        "updatedDate": "2026-01-07",
-        "heroImage": "/images/blog/green_onion_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "대파 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 대파의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)",
-                "intro": "대파 한 단을 사 와서 냉장고 야채칸에 넣어두었다가, 며칠 만에 잎 부분이 진득하게 물러지고 썩어 버려본 경험 있으시죠? 🌿\n\n대파는 한국 요리의 필수 기본 채소이자 만능 식재료이지만, 수분 함량이 높고 수확 후에도 위를 향해 자라려는 '굴중성(Negative Geotropism)' 생리 특성이 있습니다. 누워서 보관하면 대파가 스스로 일어서려고 에너지를 소모하며 빠르게 시들고 황화됩니다.\n\n이번 가이드에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 가이드를 바탕으로 대파의 수분을 완벽히 제어하고, 에너지를 보존하여 1개월 이상 아삭함을 유지하는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "수분이 고여 있는 상태로 절대 밀봉하지 마세요 💧",
-                        "desc": "씻은 대파에 물기가 맺힌 채로 밀폐 용기에 넣으면 고인 습기로 인해 세균성 무름병이 발생하고, 끈적이는 투명 점액질(뮤신)이 분출되면서 하루 만에 부패가 진행됩니다. 물기를 완벽히 건조한 뒤 보관해야 합니다."
-                    },
-                    {
-                        "title": "초록 잎과 흰 줄기를 분리하여 보관하세요 🧅",
-                        "desc": "대파의 초록 잎 부분은 흰 줄기(대)보다 수분 함량이 높고 기공이 많아 부패 속도가 훨씬 빠릅니다. 두 부위를 칼로 잘라 분리한 뒤 각각 포장해 보관해야 줄기까지 함께 물러지는 연쇄 부패를 막을 수 있습니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "씻지 않은 통대파는 신문지에 싸서 세워 보관하기 — 실온 보관 (5일) 🌿",
-                        "text": "흙이 묻은 씻지 않은 대파는 물기를 묻히지 않은 상태로 신문지나 한지에 넓게 감싸줍니다. 💡 보관 팁: 뿌리가 아래로 향하도록 서늘하고 바람이 통하는 그늘(10~15℃)에 '수직으로 세워서' 보관하세요. 자연 생장 환경과 동일한 직립 상태를 유지해주면 중력 스트레스로 인한 에너지 소비와 황화(시듦) 현상을 최소화할 수 있습니다."
-                    },
-                    {
-                        "name": "세척 대파는 물기 완전 제거 후 용기에 세워 보관하기 — 냉장 보관 (14~21일) 📦",
-                        "text": "세척한 대파는 키친타월이나 야채 탈수기를 이용해 표면의 수분을 100% 완벽하게 닦아내야 합니다. 💡 보관 팁: 초록 잎과 흰 줄기를 반으로 잘라 분리한 뒤, 세로로 긴 밀폐 용기 바닥에 키친타월을 깔고 뿌리 방향이 아래로 가도록 수직으로 세워 냉장고 야채칸(0~4℃)에 보관하세요. 키친타월이 결로를 흡수하여 최대 3주까지 아삭함이 유지됩니다."
-                    },
-                    {
-                        "name": "송송 썰어 표면 건조 후 밀봉하여 냉동하기 — 냉동 보관 (180일) ❄️",
-                        "text": "2주 이내에 다 소비하기 어려운 대파는 미리 용도에 맞게 썰어서 냉동 보관하는 것이 좋습니다. 💡 보관 팁: 대파를 썬 직후 곧바로 얼리면 세포벽이 파괴되어 끈적한 진액이 흘러나옵니다. 썬 대파를 넓은 쟁반에 펼쳐 실온에서 10~15분간 표면 수분을 가볍게 날려버린 후 지퍼백에 담아 냉동(-18℃ 이하)하세요. 요리할 때 해동하지 않고 얼어있는 상태 그대로 넣어야 뭉개지지 않고 깔끔합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "대파를 뿌리째 신문지에 감싸 세워 보관해야 하는 과학적 이유는 무엇인가요?",
-                        "answer": "식물은 수확 후에도 위를 향해 자라려는 '굴중성(Negative Geotropism)' 생리 본능을 유지합니다. 대파를 누려서 보관하면 줄기를 위로 굽히기 위해 호흡 작용과 에너지(당분) 소비가 급증하면서 잎이 빠르게 시들고 노랗게 변합니다. 뿌리를 아래로 향하게 세워 보관하면 중력 스트레스가 줄어들어 신선함이 훨씬 오래 유지됩니다."
-                    },
-                    {
-                        "question": "썬 대파를 냉동 보관할 때 끈적이는 진액이 나오고 뭉치는 현상을 막는 방법은?",
-                        "answer": "대파를 썰면 자른 단면에서 점성 다당류인 '뮤신(Mucin)'과 수분이 배출됩니다. 썬 대파를 그대로 지퍼백에 넣어 얼리면 세포막 결빙으로 진액이 흘러나와 서로 단단하게 뭉쳐버립니다. 썬 후 쟁반에 펼쳐 채반이나 실온에서 10~15분간 표면 수분을 약간 말린 뒤 냉동실(-18℃ 이하)에 넣으면 서로 붙지 않고 필요할 때마다 한 손가락씩 쉽게 털어 넣을 수 있습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Green Onions Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for green onions based on official safety guidelines.",
-                "authority": "RDA & MFDS & USDA",
-                "intro": "Have you ever bought a large bunch of green onions and left them in the fridge, only to find the leaves slimy, wilted, and decaying a few days later? 🌿\n\nGreen onions are a versatile staple vegetable, but their high moisture content and post-harvest physiological trait—negative geotropism (growing upward against gravity)—make them spoil quickly if improperly stored. Storing them horizontally causes them to expend energy trying to bend upward, accelerating wilting and yellowing.\n\nIn this guide, shares a scientifically proven 3-step storage guide based on guidelines from the USDA and RDA to control moisture, prevent energy depletion, and keep your green onions crisp and fresh for over a month. 🛡️",
-                "whyTitle": "Why Store Green Onions This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never seal green onions with surface moisture trapped 💧",
-                        "desc": "Sealing washed green onions while wet traps moisture, causing bacterial soft rot and producing sticky, slimy mucin within a single day. Always dry them completely before wrapping or storing."
-                    },
-                    {
-                        "title": "Separate green leaves and white stems for storage 🧅",
-                        "desc": "The hollow green leafy parts contain higher moisture levels and more stomata than the white stalks, causing them to decay much faster. Cutting and storing these two parts in separate containers prevents cross-decay and extends overall shelf life."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Wrap dry, unwashed green onions in newspaper and store upright — Room Temp Storage (5 Days) 🌿",
-                        "text": "Wrap dry, unwashed green onions loosely in newspaper or parchment paper. 💡 Storage Tip: Stand them vertically in a cool, well-ventilated, shaded area (10–15°C / 50–59°F) with the roots pointing down. Maintaining a vertical position matching their natural growth direction minimizes gravity stress and delays wilting."
-                    },
-                    {
-                        "name": "Dry washed green onions completely and store upright with paper towels — Cold Storage (14–21 Days) 📦",
-                        "text": "Washed green onions must have 100% of their surface moisture removed using paper towels or a salad spinner. 💡 Storage Tip: Cut the green onions in half to separate green leaves and white stems. Line the bottom of a tall airtight container with paper towels and place the green onions vertically, roots facing down, in the crisper drawer (0–4°C). The paper towel absorbs condensation, keeping them crisp for up to 3 weeks."
-                    },
-                    {
-                        "name": "Chop, air-dry surface moisture, and freeze sealed — Frozen Storage (180 Days) ❄️",
-                        "text": "If you cannot consume them within 2 weeks, chop and freeze them for long-term storage. 💡 Storage Tip: Freezing chopped green onions immediately ruptures cell walls, releasing sticky mucin. Spread chopped green onions on a tray at room temperature for 10–15 minutes to air-dry surface moisture before sealing in a Ziploc freezer bag (-18°C or below). Add them directly to dishes while frozen without thawing to prevent mushiness."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "What is the scientific reason for wrapping green onions in newspaper and storing them upright?",
-                        "answer": "Vegetables retain their physiological growth instinct even after harvest—a response known as negative geotropism. When green onions are laid flat, their respiration rate spikes and sugar consumption jumps as they expend energy trying to bend their stalks upward, causing rapid yellowing and wilting. Storing them vertically with root ends down reduces gravitropic stress and preserves energy."
-                    },
-                    {
-                        "question": "How can I prevent sticky slime and clumping when freezing chopped green onions?",
-                        "answer": "When green onions are sliced, their damaged cell walls release a viscous polysaccharide called mucin along with moisture. Freezing them immediately causes ice crystals to bind this liquid, forming a solid, slimy clump. Spreading chopped green onions on a tray to air-dry surface moisture for 10–15 minutes before freezing keeps the pieces loose, allowing you to easily pour out the exact amount needed."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ネギを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくネギの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "農村振興庁(RDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)",
-                "intro": "大ネギ（長ネギ）を1束買ってきて冷蔵庫の野菜室にそのまま入れておいたら、数日で葉がヌルヌルに溶けて半分以上捨ててしまった経験はありませんか？🌿\n\nネギは料理に欠かせない万能野菜ですが、水分が多く、収穫後も上に向かって伸びようとする「負の屈重性（背重性）」という生理特性を持っています。横にして保存すると、立ち上がろうとしてエネルギーを消耗し、急速にしおれて黄色く変色してしまいます。\n\n本記事では、農村振興庁（RDA）および米国農務省（USDA）のガイドラインに基づき、水分を完璧にコントロールし、1ヶ月以上シャキシャキした鮮度を保つ3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "水気が残ったまま絶対に密閉しないでください 💧",
-                        "desc": "洗ったネギに水気が残ったまま密閉容器に入れると、こもった湿気により軟腐病が発生し、粘り気のある透明なミューシン（粘液）が分泌されて1日で傷み始めます。完全に乾かしてから保存してください。"
-                    },
-                    {
-                        "title": "緑の葉の部分と白い茎の部分を分けて保存してください 🧅",
-                        "desc": "ネギの緑色の葉は、白い茎に比べて水分が多く気孔も多いため、傷むスピードが非常に早いです。2つの部位を切り分けて別々の容器で保存することで、相互の腐敗を防ぎ全体の保存期間を延ばせます。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "洗わずに新聞紙で包み立てて保存する — 常温保存 (5日間) 🌿",
-                        "text": "土がついたまま洗っていないネギは、水気をつけずに新聞紙や紙で包みます。💡保存のコツ：根を下にして、風通しの良い涼しい日陰（10〜15℃）に「立てて」保存してください。生育環境と同じく直立状態で保存することで、重力ストレスによるエネルギー消費と黄変（老化）を最小限に抑えられます。"
-                    },
-                    {
-                        "name": "洗ったネギは水分を完全に拭き取り、ペーパーを敷いた容器に立てて保存する — 冷蔵保存 (14〜21日間) 📦",
-                        "text": "洗ったネギはペーパータオルや野菜脱水機を使い、表面の水分を100%完全に拭き取る必要があります。💡保存のコツ：緑の葉と白い茎を半分の長さに切り分け、背の高い密閉容器の底にペーパータオルを敷いて根側を下にして立てて冷蔵庫の野菜室（0〜4℃）で保存します。ペーパーが結露を吸収し、最大3週間シャキシャキ感が持続します。"
-                    },
-                    {
-                        "name": "小口切りにして表面を乾かしてから密閉冷凍する — 冷凍保存 (180日間) ❄️",
-                        "text": "2週間以内に使い切れないネギは、あらかじめ切って冷凍保存するのが効率的です。💡保存のコツ：切ってすぐに冷凍すると細胞壁が破壊され、ネバネバした粘液が出て固まってしまいます。カットしたネギをバットに広げ、常温で10〜15分ほど表面の水分を軽く乾かしてからジッパーバッグに入れて冷凍（-18℃以下）してください。調理時は解凍せず凍ったまま鍋に入れるとつぶれません。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "長ネギを根を下にして新聞紙で包み、立てて保存する科学的な理由は何ですか？",
-                        "answer": "植物は収穫後も上に向かって成長しようとする「負の屈重性（Negative Geotropism）」という生理本能を持っています。ネギを横にして保存すると、曲がって立ち上がろうとして呼吸作用とエネルギー（糖分）消費が急増し、葉が急速にしおれて黄色くなります。根を下にして立てて保存すると重力ストレスが軽減され、鮮度が非常に長く保たれます。"
-                    },
-                    {
-                        "question": "刻みネギを冷凍保存する際、ネバネバした粘液が出て固まるのを防ぐには？",
-                        "answer": "ネギを切ると断面から粘性多糖類である「ミューシン（Mucin）」と水分が滲み出ます。切ってすぐに冷凍袋に入れると、凍結時の氷の結晶によって粘液が出続け、ネギ同士がカチカチに固まってしまいます。切った後にバットなどに広げて10〜15分ほど表面の水分を乾かしてから冷凍庫（-18℃以下）に入れると、固まらずパラパラになり、必要な分だけ簡単に取り出せます。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持大葱新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解大葱的最佳储存温度、方式和保鲜时长。",
-                "authority": "韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)",
-                "intro": "您是否曾买了一整捆大葱直接塞进冰箱蔬菜室，结果几天后叶子变得黏糊糊腐烂，不得不扔掉大半？🌿\n\n大葱是厨房不可或缺的万能蔬菜，但含水量高，且在采收后具有向上生长的“负向重力性（Negative Geotropism）”。如果横放储存，大葱会消耗大量能量试图弯曲挺直，从而加速干瘪与发黄。\n\n本指南基于韩国农村振兴厅(RDA)和美国农务部(USDA)的指南，为您带来3步科学保存秘诀，帮您控干水分、减少能量消耗，让大葱保持清脆新鲜达1个月以上。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "切勿在带有表面水分的情况下密封储存 💧",
-                        "desc": "带水密封大葱会导致积聚的湿气引发细菌性软腐病，并在一天内分泌出黏稠的透明黏液（粘液素）导致腐烂。储存前务必彻底擦干表面水分。"
-                    },
-                    {
-                        "title": "请将葱绿与葱白分开储存 🧅",
-                        "desc": "大葱的葱绿（叶片）部分比葱白（茎部）含水量更高且气孔更多，腐烂速度要快得多。用刀将两部分切开分装在不同保鲜盒中，可防止交叉腐烂并延长整体保质期。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "带泥不洗用报纸包裹竖立常温保存 — 常温保存 (5天) 🌿",
-                        "text": "带泥未清洗的大葱切勿沾水，用报纸或草纸宽松包裹。💡储存小贴士：将根部朝下，竖直存放在阴凉通风的常温（10~15℃）阴影处。维持与其生长姿态一致的直立状态，能最大程度减少重力应激造成的能量消耗与发黄。"
-                    },
-                    {
-                        "name": "洗净的大葱彻底擦干，在保鲜盒中竖立冷藏 — 冷藏保存 (14~21天) 📦",
-                        "text": "洗净的大葱必须用厨房纸巾或蔬菜脱水机彻底擦干100%的表皮水分。💡储存小贴士：将葱绿和葱白切开，在较高密封盒底部铺上厨房纸巾，将大葱根部朝下竖立摆放于冰箱蔬菜保鲜抽屉（0~4℃）中。纸巾吸收结露，可保鲜长达3周。"
-                    },
-                    {
-                        "name": "切成葱花并微干表面水分后密封冷冻 — 冷冻保存 (180天) ❄️",
-                        "text": "若2周内无法用完，建议提前切成葱花冷冻保存。💡储存小贴士：切完大葱后立即冷冻会破坏细胞壁，释放出黏稠液体并结块。将切好的葱花平铺在托盘上，在室温下晾干表面水分10~15分钟，再装入拉链袋冷冻（-18℃以下）。烹饪时无须解冻，直接下锅即可保持清爽。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "为什么大葱要连根用报纸包好竖着摆放？",
-                        "answer": "大葱在采收后依然保留着向上生长的“负向重力性（Negative Geotropism）”生理本能。如果横放储存，大葱为了将茎部向上弯曲会急剧增加呼吸作用并消耗糖分，导致叶片迅速干瘪发黄。根部朝下竖立摆放能减少重力应激，大幅延长保质期。"
-                    },
-                    {
-                        "question": "冷冻切好的葱花时，如何防止出现黏液和结成大硬块？",
-                        "answer": "大葱切开时，破坏的细胞壁会渗出黏性多糖“粘液素（Mucin）”和水分。如果切完直接装袋冷冻，冰晶会使黏液凝固，导致葱花紧紧粘连成块。切好后平铺在托盘上晾干表面水分10~15分钟再放入冷冻室（-18℃以下），葱花即可保持粒粒分明，随用随取。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener el cebollín fresco: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el cebollín según las directrices oficiales de seguridad.",
-                "authority": "RDA & MFDS & USDA",
-                "intro": "¿Alguna vez compró un manojo de cebollines, los dejó en el cajón de verduras y tuvo que tirar más de la mitad porque las hojas se pusieron viscosas y babosas a los pocos días? 🌿\n\nEl cebollín es un ingrediente versátil, pero su alto contenido de agua y su rasgo fisiológico poscosecha —el geotropismo negativo (crecer hacia arriba contra la gravedad)— hacen que se deteriore rápido. Almacenarlo de forma horizontal hace que gaste energía intentando erguirse, acelerando su marchitamiento.\n\nEn esta guía se comparte una guía científica en 3 pasos basada en las pautas del USDA y la RDA para controlar la humedad, evitar el agotamiento de energía y mantener sus cebollines crujientes y frescos por más de un mes. 🛡️",
-                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Nunca selle cebollines con humedad atrapada en la superficie 💧",
-                        "desc": "Guardar cebollines lavados aún húmedos atrapa el agua, provocando pudrición blanda bacteriana y una sustancia babosa (mucina) en solo un día. Séquelos por completo antes de envolverlos."
-                    },
-                    {
-                        "title": "Separe las hojas verdes de los tallos blancos para el almacenamiento 🧅",
-                        "desc": "Las hojas verdes contienen más agua y estomas que los tallos blancos, lo que hace que se pudran mucho más rápido. Cortar y guardar estas dos partes en contenedores separados evita la descomposición cruzada."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Envuelva sin lavar en periódico y guarde de pie — Temp. Ambiente (5 días) 🌿",
-                        "text": "Envuelva los cebollines secos y no lavados en papel periódico o papel vegetal. 💡 Consejo de almacenamiento: Colóquelos de pie con las raíces hacia abajo en un lugar fresco, ventilado y en sombra (10-15 °C). Mantenerlos en posición vertical imita su crecimiento natural y retrasa el deterioro."
-                    },
-                    {
-                        "name": "Seque cebollines lavados y guarde de pie con toallas de papel — Refrigeración (14–21 días) 📦",
-                        "text": "Los cebollines lavados deben secarse al 100 % con toallas de papel o un centrifugador. 💡 Consejo de almacenamiento: Córtelos a la mitad para separar hojas verdes y tallos blancos. Coloque toallas de papel al fondo de un recipiente alto y guárdelos de pie en el cajón de verduras (0-4 °C). El papel absorbe la humedad, manteniéndolos crujientes hasta por 3 semanas."
-                    },
-                    {
-                        "name": "Pique, seque la humedad superficial al aire y congele — Congelación (180 días) ❄️",
-                        "text": "Si no los usará en 2 semanas, píquelos y congele. 💡 Consejo de almacenamiento: Congelar el cebollín picado inmediatamente rompe las paredes celulares liberando mucina viscosa. Extienda el cebollín picado en una bandeja durante 10-15 minutos a temperatura ambiente para secar la superficie antes de congelar en bolsa Ziploc (-18 °C). Agréguelos directamente a sus platillos sin descongelar."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Cuál es la explicación científica de envolver los cebollines en periódico y guardarlos verticalmente?",
-                        "answer": "Los vegetales conservan su instinto de crecimiento poscosecha (geotropismo negativo). Cuando los cebollines se guardan acostados, su tasa de respiración y consumo de azúcar se disparan para intentar doblar sus tallos hacia arriba, amarilleando rápido. Almacenarlos erguidos con las raíces hacia abajo reduce el estrés por gravedad y conserva su energía."
-                    },
-                    {
-                        "question": "¿Cómo puedo evitar que el cebollín picado se vuelva viscoso y se pegue al congelarlo?",
-                        "answer": "Al cortar el cebollín, las paredes celulares dañadas liberan un polisacárido viscoso llamado mucina junto con agua. Si se congelan de inmediato, los cristales de hielo unen este líquido creando un bloque baboso. Dejar secar el cebollín picado en una bandeja durante 10-15 minutos antes de congelarlo a -18 °C mantiene los trozos sueltos y fáciles de usar."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver l'oignon vert frais : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour l'oignon vert selon les directives officielles de sécurité.",
-                "authority": "RDA & MFDS & USDA",
-                "intro": "Avez-vous déjà acheté une grande botte d'oignons verts pour la laisser dans le bac à légumes et en jeter la moitié devenue visqueuse et flétrie quelques jours plus tard ? 🌿\n\nL'oignon vert est un condiment indispensable, mais sa forte teneur en eau et sa propriété physiologique après récolte — le géotropisme négatif (pousser vers le haut contre la gravité) — accélèrent son altération. Le conserver à plat l'épuise car il dépense de l'énergie pour se redresser.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et du RDA pour contrôler l'humidité, préserver l'énergie de la plante et garder vos oignons verts croquants et frais pendant plus d'un mois. 🛡️",
-                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne scellez jamais d'oignons verts avec de l'humidité résiduelle 💧",
-                        "desc": "Enfermer des oignons verts lavés encore mouillés piège l'eau, provoquant une pourriture bactérienne molle et du mucilage visqueux en 24 heures. Séchez-les toujours complètement avant stockage."
-                    },
-                    {
-                        "title": "Séparez les tiges blanches des feuilles vertes pour le stockage 🧅",
-                        "desc": "Les feuilles vertes creuses contiennent plus d'eau et de stomates que les tiges blanches, ce qui les fait pourrir beaucoup plus vite. Découper et séparer ces deux parties évite la contamination croisée de la pourriture."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Envelopper non lavé dans du journal et stocker debout — Temp. Ambiante (5 jours) 🌿",
-                        "text": "Enveloppez les oignons verts secs non lavés dans du papier journal ou du papier cuisson. 💡 Astuce de conservation : Placez-les debout, racines vers le bas, dans un endroit frais, aéré et à l'ombre (10-15 °C). Conserver les oignons verts verticalement imite leur croissance naturelle et retarde le flétrissement."
-                    },
-                    {
-                        "name": "Sécher les oignons lavés et stocker debout avec de l'essuie-tout — Réfrigération (14–21 jours) 📦",
-                        "text": "Les oignons verts lavés doivent être séchés à 100 % avec de l'essuie-tout ou une essoreuse. 💡 Astuce de conservation : Coupez-les en deux pour séparer le vert du blanc. Tapissez le fond d'une boîte haute de papier absorbant et placez-les debout, racines vers le bas, dans le bac à légumes (0-4 °C) jusqu'à 3 semaines."
-                    },
-                    {
-                        "name": "Émincer, sécher l'humidité en surface et congeler — Stockage Congelé (180 jours) ❄️",
-                        "text": "Si vous ne pouvez pas les consommer sous 2 semaines, émincez-les et congelez-les. 💡 Astuce de conservation : Congeler aussitôt l'oignon vert haché brise les cellules et libère un mucilage collant. Étalez les morceaux sur un plateau 10-15 min à température ambiante pour sécher la surface avant de les mettre en sac Ziploc (-18 °C). Ajoutez-les directement congelés dans vos plats."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Quelle est la raison scientifique d'envelopper les oignons verts dans du journal et de les stocker debout ?",
-                        "answer": "Les légumes conservent leur instinct de croissance végétale après récolte (géotropisme négatif). Lorsqu'ils sont posés à plat, leur respiration et leur consommation de sucres montent en flèche pour tenter de redresser la tige, ce qui les fait jaunir et flétrir vite. Les stocker verticalement réduit ce stress et préserve leur fraîcheur."
-                    },
-                    {
-                        "question": "Comment éviter que l'oignon vert haché ne devienne visqueux et ne colle en bloc au congélateur ?",
-                        "answer": "Lors de la découpe, les cellules libèrent un polysaccharide visqueux appelé mucine ainsi que de l'eau. Une congélation immédiate piège ce liquide sous forme de glace, amalgamant le tout en un bloc collant. Laisser sécher l'oignon vert émincé sur une plaque 10 à 15 min avant de le congeler à -18 °C garde les morceaux détachés et faciles à doser."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Frühlingszwiebeln richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Frühlingszwiebeln basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "RDA & MFDS & USDA",
-                "intro": "Haben Sie schon einmal einen Bund Frühlingszwiebeln gekauft und im Gemüsefach gelagert, nur um festzustellen, dass die Blätter nach wenigen Tagen matschig und schleimig wurden? 🌿\n\nFrühlingszwiebeln sind ein beliebtes Küchengemüse, aber ihr hoher Wassergehalt und ihr negatives Geotropismus-Verhalten (das Bestreben, nach der Ernte senkrecht nach oben zu wachsen) lassen sie schnell verderben. Werden sie flach gelagert, verbrauchen sie Energie, um sich aufzurichten, was das Welken beschleunigt.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von USDA und RDA basiert, um Feuchtigkeit zu regulieren, Kraftverlust zu vermeiden und Ihre Frühlingszwiebeln über einen Monat lang knackig zu halten. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Frühlingszwiebeln niemals feucht luftdicht verschließen 💧",
-                        "desc": "Das Verlegen feuchter gewaschener Frühlingszwiebeln schließt Feuchtigkeit ein, was innerhalb eines Tages zu bakterieller Weichfäule und schleimigem Mucin führt. Vor dem Einpacken immer gründlich trocknen."
-                    },
-                    {
-                        "title": "Grüne Blätter und weiße Stängel getrennt lagern 🧅",
-                        "desc": "Die hohlen grünen Blätter enthalten mehr Feuchtigkeit als die weißen Stängel und verfaulen daher viel schneller. Schneiden und trennen Sie beide Teile, um gegenseitigen Verderb zu verhindern."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Ungewaschen in Zeitungspapier wickeln und aufrecht lagern — Raumtemperatur (5 Tage) 🌿",
-                        "text": "Wickeln Sie trockene, ungewaschene Frühlingszwiebeln locker in Zeitungspapier oder Einschlagpapier. 💡 Lagerungstipp: Stellen Sie sie mit den Wurzeln nach unten an einem kühlen, schattigen Ort (10–15 °C) aufrecht hin. Die aufrechte Lagerung entspricht der natürlichen Wuchsrichtung und zögert das Welken hinaus."
-                    },
-                    {
-                        "name": "Gewaschene Zwiebeln trocknen und mit Küchenpapier aufrecht kühlen — Kühllagerung (14–21 Tage) 📦",
-                        "text": "Gewaschene Frühlingszwiebeln müssen mit Küchenpapier vollkommen abgetrocknet werden. 💡 Lagerungstipp: Schneiden Sie grüne Blätter und weiße Stängel auseinander. Legen Sie Küchenpapier auf den Boden einer hohen Dose und lagern Sie die Zwiebeln mit den Wurzeln nach unten aufrecht im Gemüsefach (0–4 °C)."
-                    },
-                    {
-                        "name": "Hacken, Oberflächenfeuchtigkeit antrocknen lassen und einfrieren — Gefrierlagerung (180 Tage) ❄️",
-                        "text": "Wenn Sie sie nicht innerhalb von 2 Wochen verbrauchen, hacken Sie sie vorab für das Gefrierfach. 💡 Lagerungstipp: Sofortiges Einfrieren gehackter Zwiebeln zerstört Zellwände und setzt Schleimstoffe frei. Lassen Sie gehackte Zwiebeln 10–15 Minuten bei Raumtemperatur antrocknen, bevor Sie sie in Gefrierbeuteln (-18 °C) einfrieren. Gefroren direkt verwenden."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Was ist der wissenschaftliche Grund dafür, Frühlingszwiebeln in Zeitungspapier aufrecht zu lagern?",
-                        "answer": "Gemüse behält nach der Ernte seinen Wachstumsinstinkt (negativer Geotropismus). Werden Frühlingszwiebeln flach hingelegt, steigen Atmung und Zuckerverbrauch drastisch an, da die Pflanze versucht, sich aufzurichten. Das führt zu raschem Vergilben. Die aufrechte Lagerung schont die Nährstoffreserven und hält das Gemüse knackig."
-                    },
-                    {
-                        "question": "Wie kann man das Zusammenkleben und Schleimigwerden beim Einfrieren verhindern?",
-                        "answer": "Beim Schneiden tritt aus den zerstörten Zellwänden ein pflanzlicher Schleimstoff (Mucin) aus. Wird das Gemüse sofort eingefroren, bildet das Wasser Eiskristalle, die den Schleim zu einem festen Klumpen verbinden. Wenn Sie die gehackten Zwiebeln 10–15 Minuten auf einem Brett antrocknen lassen, bevor Sie sie bei -18 °C einfrieren, bleiben die Stückchen rieselfähig."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar cebolinha fresca: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para cebolinha com base em diretrizes oficiais de segurança.",
-                "authority": "RDA & MFDS & USDA",
-                "intro": "Você já comprou um maço grande de cebolinha, deixou na gaveta de legumes e teve que jogar metade fora porque as folhas ficaram viscosas e murchas em poucos dias? 🌿\n\nA cebolinha é um tempero essencial, mas seu alto teor de água e sua característica fisiológica pós-colheita — o geotropismo negativo (crescer para cima contra a gravidade) — aceleram sua deterioração. Armazená-la na horizontal faz com que gaste energia tentando se erguer.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes do USDA e da RDA para controlar a umidade, evitar o desgaste de energia e manter sua cebolinha crocante e fresca por mais de um mês. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca sele a cebolinha com umidade presa na superfície 💧",
-                        "desc": "Guardar a cebolinha lavada ainda molhada prende a água, causando podridão bacteriana e uma substância viscosa (mucina) em apenas um dia. Seque-a completamente antes de embalar."
-                    },
-                    {
-                        "title": "Separe as folhas verdes dos talos brancos para armazenar 🧅",
-                        "desc": "As folhas verdes contêm mais água do que os talos brancos, o que faz com que estraguem muito mais rápido. Cortar e guardar essas partes em potes separados evita a contaminação cruzada da deterioração."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Embrulhe sem lavar em jornal e guarde de pé — Temp. Ambiente (5 dias) 🌿",
-                        "text": "Embrulhe a cebolinha seca e sem lavar em papel jornal ou papel manteiga. 💡 Dica de conservação: Coloque-a de pé com as raízes para baixo em um local fresco, ventilado e à sombra (10-15 °C). Manter a posição vertical imita o crescimento natural e atrasa o murchamento."
-                    },
-                    {
-                        "name": "Seque a cebolinha lavada e guarde de pé com papel-toalha — Refrigeração (14–21 dias) 📦",
-                        "text": "A cebolinha lavada deve ser seca 100% com papel-toalha ou um centrifugador. 💡 Dica de conservação: Corte ao meio separando folhas e talos. Coloque papel-toalha no fundo de um pote alto e guarde de pé na gaveta de legumes (0-4 °C). O papel absorve a umidade, mantendo-a crocante por até 3 semanas."
-                    },
-                    {
-                        "name": "Pique, seque a umidade da superfície e congele — Congelamento (180 dias) ❄️",
-                        "text": "Se não for usar em 2 semanas, pique e congele. 💡 Dica de conservação: Congelar a cebolinha picada imediatamente rompe as paredes celulares liberando mucina colante. Espalhe a cebolinha picada em uma bandeja por 10-15 minutos para secar a superfície antes de guardar em saco Ziploc (-18 °C). Adicione direto às receitas sem descongelar."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Qual é a explicação científica para embrulhar a cebolinha em jornal e guardá-la de pé?",
-                        "answer": "Os vegetais mantêm o instinto de crescimento após a colheita (geotropismo negativo). Quando a cebolinha é guardada deitada, a taxa de respiração e o consumo de açúcares aumentam muito para tentar curvar os talos para cima, amarelando rapidamente. Armazenar na vertical com as raízes para baixo reduz o estresse da gravidade e preserva sua energia."
-                    },
-                    {
-                        "question": "Como posso evitar que a cebolinha picada fique viscosa e empelotada ao congelar?",
-                        "answer": "Ao cortar a cebolinha, as paredes celulares danificadas liberam um polissacarídeo viscoso chamado mucina junto com água. Se congelada imediatamente, os cristais de gelo unem esse líquido criando um bloco colado. Deixar a cebolinha picada secar em uma bandeja por 10-15 minutos antes de congelar a -18 °C mantém os pedaços soltos e fáceis de usar."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Daun Bawang agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk daun bawang berdasarkan pedoman keselamatan resmi.",
-                "authority": "RDA & MFDS & USDA",
-                "intro": "Pernahkah Anda membeli seikat besar daun bawang lalu menyimpannya di laci sayuran kulkas, hanya untuk mendapati daunnya menjadi berlendir dan busuk beberapa hari kemudian? 🌿\n\nDaun bawang adalah bumbu dapur yang sangat populer, tetapi kadar airnya yang tinggi serta sifat fisiologisnya setelah dipanen—yaitu geotropisme negatif (tumbuh ke atas melawan gravitasi)—membuatnya cepat layu. Menyimpannya secara mendatar membuat daun bawang menghabiskan energi untuk menekuk ke atas, mempercepat pembusukan.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman USDA dan RDA untuk mengontrol kelembapan, mencegah pemborosan energi, dan menjaga daun bawang Anda tetap renyah dan segar selama lebih dari sebulan. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan pernah menyegel daun bawang dalam kondisi basah 💧",
-                        "desc": "Menyimpan daun bawang yang belum dikeringkan akan memicu pembusukan bakteri dan menghasilkan lendir lengket (musin) dalam sehari. Selalu keringkan hingga benar-benar bebas air sebelum disimpan."
-                    },
-                    {
-                        "title": "Pisahkan bagian daun hijau dan batang putih saat disimpan 🧅",
-                        "desc": "Bagian daun hijau yang berongga memiliki kadar air lebih tinggi dibanding batang putih sehingga jauh lebih cepat membusuk. Memotong dan memisahkan kedua bagian ini mencegah pembusukan silang dan memperpanjang masa simpan."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Bungkus kering tanpa dicuci dengan koran lalu simpan tegak — Suhu Ruang (5 Hari) 🌿",
-                        "text": "Bungkus daun bawang kering yang belum dicuci secara longgar dengan kertas koran atau kertas roti. 💡 Tips Penyimpanan: Simpan dalam posisi tegak dengan akar di bawah di tempat yang sejuk, berventilasi baik, dan teduh (10–15°C). Menyimpan secara vertikal meniru posisi tumbuh alaminya sehingga menahan stres gravitasi."
-                    },
-                    {
-                        "name": "Keringkan daun bawang washed hingga tuntas lalu simpan tegak dengan tisu dapur — Simpan Dingin (14–21 Hari) 📦",
-                        "text": "Daun bawang yang dicuci harus dikeringkan 100% menggunakan tisu dapur atau pemutar sayuran. 💡 Tips Penyimpanan: Potong dua untuk memisahkan daun dan batang. Alasi bagian bawah wadah tinggi dengan tisu dapur dan simpan daun bawang secara berdiri, akar di bawah, di laci sayuran (0–4°C) hingga 3 minggu."
-                    },
-                    {
-                        "name": "Iris, keringkan kelembapan permukaan, lalu bekukan — Simpan Beku (180 Hari) ❄️",
-                        "text": "Jika tidak habis dalam 2 minggu, iris dan bekukan untuk jangka panjang. 💡 Tips Penyimpanan: Membekukan irisan daun bawang secara langsung merusak dinding sel dan mengeluarkan musin lengket. Angin-anginkan irisan daun bawang di atas nampan selama 10–15 menit untuk mengeringkan air permukaan sebelum disimpan di kantong Ziploc freezer (-18°C). Masukkan langsung dalam keadaan beku saat memasak."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apa alasan ilmiah membungkus daun bawang dengan koran dan menyimpannya secara tegak?",
-                        "answer": "Sayuran tetap mempertahankan naluri tumbuhnya setelah dipanen (geotropisme negatif). Ketika daun bawang diletakkan mendatar, laju respirasi dan konsumsi gula melonjak karena tanaman berusaha menekuk batangnya ke atas, menyebabkannya cepat menguning dan layu. Menyimpannya secara vertikal dengan akar di bawah mengurangi stres gravitasi dan menghemat energinya."
-                    },
-                    {
-                        "question": "Bagaimana cara mencegah irisan daun bawang menjadi berlendir dan menggumpal saat dibekukan?",
-                        "answer": "Saat daun bawang diiris, dinding sel yang rusak melepaskan polisakarida kental bernama musin beserta air. Jika langsung dibekukan, kristal es akan mengikat cairan ini menjadi gumpalan beku yang berlendir. Mengangin-anginkan irisan daun bawang di nampan selama 10–15 menit sebelum dibekukan pada suhu -18°C menjaga irisan tetap terpisah dan mudah diambil sesuai kebutuhan."
-                    }
-                ]
-            }
-        }
+  "how-to-store-green-onions": {
+    "ingId": "green-onion",
+    "pubDate": "2026-01-07",
+    "updatedDate": "2026-01-07",
+    "heroImage": "/images/blog/green_onion_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "대파 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 대파의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "농촌진흥청(RDA) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)",
+        "intro": "대파 한 단을 사 와서 냉장고 야채칸에 넣어두었다가, 며칠 만에 잎 부분이 진득하게 물러지고 썩어 버려본 경험 있으시죠? 🌿\n\n대파는 한국 요리의 필수 기본 채소이자 만능 식재료이지만, 수분 함량이 높고 수확 후에도 위를 향해 자라려는 '굴중성(Negative Geotropism)' 생리 특성이 있습니다. 누워서 보관하면 대파가 스스로 일어서려고 에너지를 소모하며 빠르게 시들고 황화됩니다.\n\n이번 가이드에서는 농촌진흥청(RDA)과 미국 농무부(USDA)의 가이드를 바탕으로 대파의 수분을 완벽히 제어하고, 에너지를 보존하여 1개월 이상 아삭함을 유지하는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "수분이 고여 있는 상태로 절대 밀봉하지 마세요 💧",
+            "desc": "씻은 대파에 물기가 맺힌 채로 밀폐 용기에 넣으면 고인 습기로 인해 세균성 무름병이 발생하고, 끈적이는 투명 점액질(뮤신)이 분출되면서 하루 만에 부패가 진행됩니다. 물기를 완벽히 건조한 뒤 보관해야 합니다."
+          },
+          {
+            "title": "초록 잎과 흰 줄기를 분리하여 보관하세요 🧅",
+            "desc": "대파의 초록 잎 부분은 흰 줄기(대)보다 수분 함량이 높고 기공이 많아 부패 속도가 훨씬 빠릅니다. 두 부위를 칼로 잘라 분리한 뒤 각각 포장해 보관해야 줄기까지 함께 물러지는 연쇄 부패를 막을 수 있습니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "씻지 않은 통대파는 신문지에 싸서 세워 보관하기 — 실온 보관 (5일) 🌿",
+            "text": "흙이 묻은 씻지 않은 대파는 물기를 묻히지 않은 상태로 신문지나 한지에 넓게 감싸줍니다. 💡 보관 팁: 뿌리가 아래로 향하도록 서늘하고 바람이 통하는 그늘(10~15℃)에 '수직으로 세워서' 보관하세요. 자연 생장 환경과 동일한 직립 상태를 유지해주면 중력 스트레스로 인한 에너지 소비와 황화(시듦) 현상을 최소화할 수 있습니다."
+          },
+          {
+            "name": "세척 대파는 물기 완전 제거 후 용기에 세워 보관하기 — 냉장 보관 (14~21일) 📦",
+            "text": "세척한 대파는 키친타월이나 야채 탈수기를 이용해 표면의 수분을 100% 완벽하게 닦아내야 합니다. 💡 보관 팁: 초록 잎과 흰 줄기를 반으로 잘라 분리한 뒤, 세로로 긴 밀폐 용기 바닥에 키친타월을 깔고 뿌리 방향이 아래로 가도록 수직으로 세워 냉장고 야채칸(0~4℃)에 보관하세요. 키친타월이 결로를 흡수하여 최대 3주까지 아삭함이 유지됩니다."
+          },
+          {
+            "name": "송송 썰어 표면 건조 후 밀봉하여 냉동하기 — 냉동 보관 (180일) ❄️",
+            "text": "2주 이내에 다 소비하기 어려운 대파는 미리 용도에 맞게 썰어서 냉동 보관하는 것이 좋습니다. 💡 보관 팁: 대파를 썬 직후 곧바로 얼리면 세포벽이 파괴되어 끈적한 진액이 흘러나옵니다. 썬 대파를 넓은 쟁반에 펼쳐 실온에서 10~15분간 표면 수분을 가볍게 날려버린 후 지퍼백에 담아 냉동(-18℃ 이하)하세요. 요리할 때 해동하지 않고 얼어있는 상태 그대로 넣어야 뭉개지지 않고 깔끔합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "대파를 뿌리째 신문지에 감싸 세워 보관해야 하는 과학적 이유는 무엇인가요?",
+            "answer": "식물은 수확 후에도 위를 향해 자라려는 '굴중성(Negative Geotropism)' 생리 본능을 유지합니다. 대파를 누려서 보관하면 줄기를 위로 굽히기 위해 호흡 작용과 에너지(당분) 소비가 급증하면서 잎이 빠르게 시들고 노랗게 변합니다. 뿌리를 아래로 향하게 세워 보관하면 중력 스트레스가 줄어들어 신선함이 훨씬 오래 유지됩니다."
+          },
+          {
+            "question": "썬 대파를 냉동 보관할 때 끈적이는 진액이 나오고 뭉치는 현상을 막는 방법은?",
+            "answer": "대파를 썰면 자른 단면에서 점성 다당류인 '뮤신(Mucin)'과 수분이 배출됩니다. 썬 대파를 그대로 지퍼백에 넣어 얼리면 세포막 결빙으로 진액이 흘러나와 서로 단단하게 뭉쳐버립니다. 썬 후 쟁반에 펼쳐 채반이나 실온에서 10~15분간 표면 수분을 약간 말린 뒤 냉동실(-18℃ 이하)에 넣으면 서로 붙지 않고 필요할 때마다 한 손가락씩 쉽게 털어 넣을 수 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Green Onions Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for green onions based on official safety guidelines.",
+        "authority": "RDA & MFDS & USDA",
+        "intro": "Have you ever bought a large bunch of green onions and left them in the fridge, only to find the leaves slimy, wilted, and decaying a few days later? 🌿\n\nGreen onions are a versatile staple vegetable, but their high moisture content and post-harvest physiological trait—negative geotropism (growing upward against gravity)—make them spoil quickly if improperly stored. Storing them horizontally causes them to expend energy trying to bend upward, accelerating wilting and yellowing.\n\nIn this guide, shares a scientifically proven 3-step storage guide based on guidelines from the USDA and RDA to control moisture, prevent energy depletion, and keep your green onions crisp and fresh for over a month. 🛡️",
+        "whyTitle": "Why Store Green Onions This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never seal green onions with surface moisture trapped 💧",
+            "desc": "Sealing washed green onions while wet traps moisture, causing bacterial soft rot and producing sticky, slimy mucin within a single day. Always dry them completely before wrapping or storing."
+          },
+          {
+            "title": "Separate green leaves and white stems for storage 🧅",
+            "desc": "The hollow green leafy parts contain higher moisture levels and more stomata than the white stalks, causing them to decay much faster. Cutting and storing these two parts in separate containers prevents cross-decay and extends overall shelf life."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Wrap dry, unwashed green onions in newspaper and store upright — Room Temp Storage (5 Days) 🌿",
+            "text": "Wrap dry, unwashed green onions loosely in newspaper or parchment paper. 💡 Storage Tip: Stand them vertically in a cool, well-ventilated, shaded area (10–15°C / 50–59°F) with the roots pointing down. Maintaining a vertical position matching their natural growth direction minimizes gravity stress and delays wilting."
+          },
+          {
+            "name": "Dry washed green onions completely and store upright with paper towels — Cold Storage (14–21 Days) 📦",
+            "text": "Washed green onions must have 100% of their surface moisture removed using paper towels or a salad spinner. 💡 Storage Tip: Cut the green onions in half to separate green leaves and white stems. Line the bottom of a tall airtight container with paper towels and place the green onions vertically, roots facing down, in the crisper drawer (0–4°C). The paper towel absorbs condensation, keeping them crisp for up to 3 weeks."
+          },
+          {
+            "name": "Chop, air-dry surface moisture, and freeze sealed — Frozen Storage (180 Days) ❄️",
+            "text": "If you cannot consume them within 2 weeks, chop and freeze them for long-term storage. 💡 Storage Tip: Freezing chopped green onions immediately ruptures cell walls, releasing sticky mucin. Spread chopped green onions on a tray at room temperature for 10–15 minutes to air-dry surface moisture before sealing in a Ziploc freezer bag (-18°C or below). Add them directly to dishes while frozen without thawing to prevent mushiness."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "What is the scientific reason for wrapping green onions in newspaper and storing them upright?",
+            "answer": "Vegetables retain their physiological growth instinct even after harvest—a response known as negative geotropism. When green onions are laid flat, their respiration rate spikes and sugar consumption jumps as they expend energy trying to bend their stalks upward, causing rapid yellowing and wilting. Storing them vertically with root ends down reduces gravitropic stress and preserves energy."
+          },
+          {
+            "question": "How can I prevent sticky slime and clumping when freezing chopped green onions?",
+            "answer": "When green onions are sliced, their damaged cell walls release a viscous polysaccharide called mucin along with moisture. Freezing them immediately causes ice crystals to bind this liquid, forming a solid, slimy clump. Spreading chopped green onions on a tray to air-dry surface moisture for 10–15 minutes before freezing keeps the pieces loose, allowing you to easily pour out the exact amount needed."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ネギを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくネギの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "農村振興庁(RDA) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)",
+        "intro": "大ネギ（長ネギ）を1束買ってきて冷蔵庫の野菜室にそのまま入れておいたら、数日で葉がヌルヌルに溶けて半分以上捨ててしまった経験はありませんか？🌿\n\nネギは料理に欠かせない万能野菜ですが、水分が多く、収穫後も上に向かって伸びようとする「負の屈重性（背重性）」という生理特性を持っています。横にして保存すると、立ち上がろうとしてエネルギーを消耗し、急速にしおれて黄色く変色してしまいます。\n\n本記事では、農村振興庁（RDA）および米国農務省（USDA）のガイドラインに基づき、水分を完璧にコントロールし、1ヶ月以上シャキシャキした鮮度を保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "水気が残ったまま絶対に密閉しないでください 💧",
+            "desc": "洗ったネギに水気が残ったまま密閉容器に入れると、こもった湿気により軟腐病が発生し、粘り気のある透明なミューシン（粘液）が分泌されて1日で傷み始めます。完全に乾かしてから保存してください。"
+          },
+          {
+            "title": "緑の葉の部分と白い茎の部分を分けて保存してください 🧅",
+            "desc": "ネギの緑色の葉は、白い茎に比べて水分が多く気孔も多いため、傷むスピードが非常に早いです。2つの部位を切り分けて別々の容器で保存することで、相互の腐敗を防ぎ全体の保存期間を延ばせます。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "洗わずに新聞紙で包み立てて保存する — 常温保存 (5日間) 🌿",
+            "text": "土がついたまま洗っていないネギは、水気をつけずに新聞紙や紙で包みます。💡保存のコツ：根を下にして、風通しの良い涼しい日陰（10〜15℃）に「立てて」保存してください。生育環境と同じく直立状態で保存することで、重力ストレスによるエネルギー消費と黄変（老化）を最小限に抑えられます。"
+          },
+          {
+            "name": "洗ったネギは水分を完全に拭き取り、ペーパーを敷いた容器に立てて保存する — 冷蔵保存 (14〜21日間) 📦",
+            "text": "洗ったネギはペーパータオルや野菜脱水機を使い、表面の水分を100%完全に拭き取る必要があります。💡保存のコツ：緑の葉と白い茎を半分の長さに切り分け、背の高い密閉容器の底にペーパータオルを敷いて根側を下にして立てて冷蔵庫の野菜室（0〜4℃）で保存します。ペーパーが結露を吸収し、最大3週間シャキシャキ感が持続します。"
+          },
+          {
+            "name": "小口切りにして表面を乾かしてから密閉冷凍する — 冷凍保存 (180日間) ❄️",
+            "text": "2週間以内に使い切れないネギは、あらかじめ切って冷凍保存するのが効率的です。💡保存のコツ：切ってすぐに冷凍すると細胞壁が破壊され、ネバネバした粘液が出て固まってしまいます。カットしたネギをバットに広げ、常温で10〜15分ほど表面の水分を軽く乾かしてからジッパーバッグに入れて冷凍（-18℃以下）してください。調理時は解凍せず凍ったまま鍋に入れるとつぶれません。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "長ネギを根を下にして新聞紙で包み、立てて保存する科学的な理由は何ですか？",
+            "answer": "植物は収穫後も上に向かって成長しようとする「負の屈重性（Negative Geotropism）」という生理本能を持っています。ネギを横にして保存すると、曲がって立ち上がろうとして呼吸作用とエネルギー（糖分）消費が急増し、葉が急速にしおれて黄色くなります。根を下にして立てて保存すると重力ストレスが軽減され、鮮度が非常に長く保たれます。"
+          },
+          {
+            "question": "刻みネギを冷凍保存する際、ネバネバした粘液が出て固まるのを防ぐには？",
+            "answer": "ネギを切ると断面から粘性多糖類である「ミューシン（Mucin）」と水分が滲み出ます。切ってすぐに冷凍袋に入れると、凍結時の氷の結晶によって粘液が出続け、ネギ同士がカチカチに固まってしまいます。切った後にバットなどに広げて10〜15分ほど表面の水分を乾かしてから冷凍庫（-18℃以下）に入れると、固まらずパラパラになり、必要な分だけ簡単に取り出せます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持大葱新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解大葱的最佳储存温度、方式和保鲜时长。",
+        "authority": "韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)",
+        "intro": "您是否曾买了一整捆大葱直接塞进冰箱蔬菜室，结果几天后叶子变得黏糊糊腐烂，不得不扔掉大半？🌿\n\n大葱是厨房不可或缺的万能蔬菜，但含水量高，且在采收后具有向上生长的“负向重力性（Negative Geotropism）”。如果横放储存，大葱会消耗大量能量试图弯曲挺直，从而加速干瘪与发黄。\n\n本指南基于韩国农村振兴厅(RDA)和美国农务部(USDA)的指南，为您带来3步科学保存秘诀，帮您控干水分、减少能量消耗，让大葱保持清脆新鲜达1个月以上。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "切勿在带有表面水分的情况下密封储存 💧",
+            "desc": "带水密封大葱会导致积聚的湿气引发细菌性软腐病，并在一天内分泌出黏稠的透明黏液（粘液素）导致腐烂。储存前务必彻底擦干表面水分。"
+          },
+          {
+            "title": "请将葱绿与葱白分开储存 🧅",
+            "desc": "大葱的葱绿（叶片）部分比葱白（茎部）含水量更高且气孔更多，腐烂速度要快得多。用刀将两部分切开分装在不同保鲜盒中，可防止交叉腐烂并延长整体保质期。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "带泥不洗用报纸包裹竖立常温保存 — 常温保存 (5天) 🌿",
+            "text": "带泥未清洗的大葱切勿沾水，用报纸或草纸宽松包裹。💡储存小贴士：将根部朝下，竖直存放在阴凉通风的常温（10~15℃）阴影处。维持与其生长姿态一致的直立状态，能最大程度减少重力应激造成的能量消耗与发黄。"
+          },
+          {
+            "name": "洗净的大葱彻底擦干，在保鲜盒中竖立冷藏 — 冷藏保存 (14~21天) 📦",
+            "text": "洗净的大葱必须用厨房纸巾或蔬菜脱水机彻底擦干100%的表皮水分。💡储存小贴士：将葱绿和葱白切开，在较高密封盒底部铺上厨房纸巾，将大葱根部朝下竖立摆放于冰箱蔬菜保鲜抽屉（0~4℃）中。纸巾吸收结露，可保鲜长达3周。"
+          },
+          {
+            "name": "切成葱花并微干表面水分后密封冷冻 — 冷冻保存 (180天) ❄️",
+            "text": "若2周内无法用完，建议提前切成葱花冷冻保存。💡储存小贴士：切完大葱后立即冷冻会破坏细胞壁，释放出黏稠液体并结块。将切好的葱花平铺在托盘上，在室温下晾干表面水分10~15分钟，再装入拉链袋冷冻（-18℃以下）。烹饪时无须解冻，直接下锅即可保持清爽。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "为什么大葱要连根用报纸包好竖着摆放？",
+            "answer": "大葱在采收后依然保留着向上生长的“负向重力性（Negative Geotropism）”生理本能。如果横放储存，大葱为了将茎部向上弯曲会急剧增加呼吸作用并消耗糖分，导致叶片迅速干瘪发黄。根部朝下竖立摆放能减少重力应激，大幅延长保质期。"
+          },
+          {
+            "question": "冷冻切好的葱花时，如何防止出现黏液和结成大硬块？",
+            "answer": "大葱切开时，破坏的细胞壁会渗出黏性多糖“粘液素（Mucin）”和水分。如果切完直接装袋冷冻，冰晶会使黏液凝固，导致葱花紧紧粘连成块。切好后平铺在托盘上晾干表面水分10~15分钟再放入冷冻室（-18℃以下），葱花即可保持粒粒分明，随用随取。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener el cebollín fresco: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el cebollín según las directrices oficiales de seguridad.",
+        "authority": "RDA & MFDS & USDA",
+        "intro": "¿Alguna vez compró un manojo de cebollines, los dejó en el cajón de verduras y tuvo que tirar más de la mitad porque las hojas se pusieron viscosas y babosas a los pocos días? 🌿\n\nEl cebollín es un ingrediente versátil, pero su alto contenido de agua y su rasgo fisiológico poscosecha —el geotropismo negativo (crecer hacia arriba contra la gravedad)— hacen que se deteriore rápido. Almacenarlo de forma horizontal hace que gaste energía intentando erguirse, acelerando su marchitamiento.\n\nEn esta guía se comparte una guía científica en 3 pasos basada en las pautas del USDA y la RDA para controlar la humedad, evitar el agotamiento de energía y mantener sus cebollines crujientes y frescos por más de un mes. 🛡️",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Nunca selle cebollines con humedad atrapada en la superficie 💧",
+            "desc": "Guardar cebollines lavados aún húmedos atrapa el agua, provocando pudrición blanda bacteriana y una sustancia babosa (mucina) en solo un día. Séquelos por completo antes de envolverlos."
+          },
+          {
+            "title": "Separe las hojas verdes de los tallos blancos para el almacenamiento 🧅",
+            "desc": "Las hojas verdes contienen más agua y estomas que los tallos blancos, lo que hace que se pudran mucho más rápido. Cortar y guardar estas dos partes en contenedores separados evita la descomposición cruzada."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Envuelva sin lavar en periódico y guarde de pie — Temp. Ambiente (5 días) 🌿",
+            "text": "Envuelva los cebollines secos y no lavados en papel periódico o papel vegetal. 💡 Consejo de almacenamiento: Colóquelos de pie con las raíces hacia abajo en un lugar fresco, ventilado y en sombra (10-15 °C). Mantenerlos en posición vertical imita su crecimiento natural y retrasa el deterioro."
+          },
+          {
+            "name": "Seque cebollines lavados y guarde de pie con toallas de papel — Refrigeración (14–21 días) 📦",
+            "text": "Los cebollines lavados deben secarse al 100 % con toallas de papel o un centrifugador. 💡 Consejo de almacenamiento: Córtelos a la mitad para separar hojas verdes y tallos blancos. Coloque toallas de papel al fondo de un recipiente alto y guárdelos de pie en el cajón de verduras (0-4 °C). El papel absorbe la humedad, manteniéndolos crujientes hasta por 3 semanas."
+          },
+          {
+            "name": "Pique, seque la humedad superficial al aire y congele — Congelación (180 días) ❄️",
+            "text": "Si no los usará en 2 semanas, píquelos y congele. 💡 Consejo de almacenamiento: Congelar el cebollín picado inmediatamente rompe las paredes celulares liberando mucina viscosa. Extienda el cebollín picado en una bandeja durante 10-15 minutos a temperatura ambiente para secar la superficie antes de congelar en bolsa Ziploc (-18 °C). Agréguelos directamente a sus platillos sin descongelar."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Cuál es la explicación científica de envolver los cebollines en periódico y guardarlos verticalmente?",
+            "answer": "Los vegetales conservan su instinto de crecimiento poscosecha (geotropismo negativo). Cuando los cebollines se guardan acostados, su tasa de respiración y consumo de azúcar se disparan para intentar doblar sus tallos hacia arriba, amarilleando rápido. Almacenarlos erguidos con las raíces hacia abajo reduce el estrés por gravedad y conserva su energía."
+          },
+          {
+            "question": "¿Cómo puedo evitar que el cebollín picado se vuelva viscoso y se pegue al congelarlo?",
+            "answer": "Al cortar el cebollín, las paredes celulares dañadas liberan un polisacárido viscoso llamado mucina junto con agua. Si se congelan de inmediato, los cristales de hielo unen este líquido creando un bloque baboso. Dejar secar el cebollín picado en una bandeja durante 10-15 minutos antes de congelarlo a -18 °C mantiene los trozos sueltos y fáciles de usar."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver l'oignon vert frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour l'oignon vert selon les directives officielles de sécurité.",
+        "authority": "RDA & MFDS & USDA",
+        "intro": "Avez-vous déjà acheté une grande botte d'oignons verts pour la laisser dans le bac à légumes et en jeter la moitié devenue visqueuse et flétrie quelques jours plus tard ? 🌿\n\nL'oignon vert est un condiment indispensable, mais sa forte teneur en eau et sa propriété physiologique après récolte — le géotropisme négatif (pousser vers le haut contre la gravité) — accélèrent son altération. Le conserver à plat l'épuise car il dépense de l'énergie pour se redresser.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et du RDA pour contrôler l'humidité, préserver l'énergie de la plante et garder vos oignons verts croquants et frais pendant plus d'un mois. 🛡️",
+        "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne scellez jamais d'oignons verts avec de l'humidité résiduelle 💧",
+            "desc": "Enfermer des oignons verts lavés encore mouillés piège l'eau, provoquant une pourriture bactérienne molle et du mucilage visqueux en 24 heures. Séchez-les toujours complètement avant stockage."
+          },
+          {
+            "title": "Séparez les tiges blanches des feuilles vertes pour le stockage 🧅",
+            "desc": "Les feuilles vertes creuses contiennent plus d'eau et de stomates que les tiges blanches, ce qui les fait pourrir beaucoup plus vite. Découper et séparer ces deux parties évite la contamination croisée de la pourriture."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Envelopper non lavé dans du journal et stocker debout — Temp. Ambiante (5 jours) 🌿",
+            "text": "Enveloppez les oignons verts secs non lavés dans du papier journal ou du papier cuisson. 💡 Astuce de conservation : Placez-les debout, racines vers le bas, dans un endroit frais, aéré et à l'ombre (10-15 °C). Conserver les oignons verts verticalement imite leur croissance naturelle et retarde le flétrissement."
+          },
+          {
+            "name": "Sécher les oignons lavés et stocker debout avec de l'essuie-tout — Réfrigération (14–21 jours) 📦",
+            "text": "Les oignons verts lavés doivent être séchés à 100 % avec de l'essuie-tout ou une essoreuse. 💡 Astuce de conservation : Coupez-les en deux pour séparer le vert du blanc. Tapissez le fond d'une boîte haute de papier absorbant et placez-les debout, racines vers le bas, dans le bac à légumes (0-4 °C) jusqu'à 3 semaines."
+          },
+          {
+            "name": "Émincer, sécher l'humidité en surface et congeler — Stockage Congelé (180 jours) ❄️",
+            "text": "Si vous ne pouvez pas les consommer sous 2 semaines, émincez-les et congelez-les. 💡 Astuce de conservation : Congeler aussitôt l'oignon vert haché brise les cellules et libère un mucilage collant. Étalez les morceaux sur un plateau 10-15 min à température ambiante pour sécher la surface avant de les mettre en sac Ziploc (-18 °C). Ajoutez-les directement congelés dans vos plats."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Quelle est la raison scientifique d'envelopper les oignons verts dans du journal et de les stocker debout ?",
+            "answer": "Les légumes conservent leur instinct de croissance végétale après récolte (géotropisme négatif). Lorsqu'ils sont posés à plat, leur respiration et leur consommation de sucres montent en flèche pour tenter de redresser la tige, ce qui les fait jaunir et flétrir vite. Les stocker verticalement réduit ce stress et préserve leur fraîcheur."
+          },
+          {
+            "question": "Comment éviter que l'oignon vert haché ne devienne visqueux et ne colle en bloc au congélateur ?",
+            "answer": "Lors de la découpe, les cellules libèrent un polysaccharide visqueux appelé mucine ainsi que de l'eau. Une congélation immédiate piège ce liquide sous forme de glace, amalgamant le tout en un bloc collant. Laisser sécher l'oignon vert émincé sur une plaque 10 à 15 min avant de le congeler à -18 °C garde les morceaux détachés et faciles à doser."
+          }
+        ]
+      },
+      "de": {
+        "title": "Frühlingszwiebeln richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Frühlingszwiebeln basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "RDA & MFDS & USDA",
+        "intro": "Haben Sie schon einmal einen Bund Frühlingszwiebeln gekauft und im Gemüsefach gelagert, nur um festzustellen, dass die Blätter nach wenigen Tagen matschig und schleimig wurden? 🌿\n\nFrühlingszwiebeln sind ein beliebtes Küchengemüse, aber ihr hoher Wassergehalt und ihr negatives Geotropismus-Verhalten (das Bestreben, nach der Ernte senkrecht nach oben zu wachsen) lassen sie schnell verderben. Werden sie flach gelagert, verbrauchen sie Energie, um sich aufzurichten, was das Welken beschleunigt.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von USDA und RDA basiert, um Feuchtigkeit zu regulieren, Kraftverlust zu vermeiden und Ihre Frühlingszwiebeln über einen Monat lang knackig zu halten. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Frühlingszwiebeln niemals feucht luftdicht verschließen 💧",
+            "desc": "Das Verlegen feuchter gewaschener Frühlingszwiebeln schließt Feuchtigkeit ein, was innerhalb eines Tages zu bakterieller Weichfäule und schleimigem Mucin führt. Vor dem Einpacken immer gründlich trocknen."
+          },
+          {
+            "title": "Grüne Blätter und weiße Stängel getrennt lagern 🧅",
+            "desc": "Die hohlen grünen Blätter enthalten mehr Feuchtigkeit als die weißen Stängel und verfaulen daher viel schneller. Schneiden und trennen Sie beide Teile, um gegenseitigen Verderb zu verhindern."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Ungewaschen in Zeitungspapier wickeln und aufrecht lagern — Raumtemperatur (5 Tage) 🌿",
+            "text": "Wickeln Sie trockene, ungewaschene Frühlingszwiebeln locker in Zeitungspapier oder Einschlagpapier. 💡 Lagerungstipp: Stellen Sie sie mit den Wurzeln nach unten an einem kühlen, schattigen Ort (10–15 °C) aufrecht hin. Die aufrechte Lagerung entspricht der natürlichen Wuchsrichtung und zögert das Welken hinaus."
+          },
+          {
+            "name": "Gewaschene Zwiebeln trocknen und mit Küchenpapier aufrecht kühlen — Kühllagerung (14–21 Tage) 📦",
+            "text": "Gewaschene Frühlingszwiebeln müssen mit Küchenpapier vollkommen abgetrocknet werden. 💡 Lagerungstipp: Schneiden Sie grüne Blätter und weiße Stängel auseinander. Legen Sie Küchenpapier auf den Boden einer hohen Dose und lagern Sie die Zwiebeln mit den Wurzeln nach unten aufrecht im Gemüsefach (0–4 °C)."
+          },
+          {
+            "name": "Hacken, Oberflächenfeuchtigkeit antrocknen lassen und einfrieren — Gefrierlagerung (180 Tage) ❄️",
+            "text": "Wenn Sie sie nicht innerhalb von 2 Wochen verbrauchen, hacken Sie sie vorab für das Gefrierfach. 💡 Lagerungstipp: Sofortiges Einfrieren gehackter Zwiebeln zerstört Zellwände und setzt Schleimstoffe frei. Lassen Sie gehackte Zwiebeln 10–15 Minuten bei Raumtemperatur antrocknen, bevor Sie sie in Gefrierbeuteln (-18 °C) einfrieren. Gefroren direkt verwenden."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Was ist der wissenschaftliche Grund dafür, Frühlingszwiebeln in Zeitungspapier aufrecht zu lagern?",
+            "answer": "Gemüse behält nach der Ernte seinen Wachstumsinstinkt (negativer Geotropismus). Werden Frühlingszwiebeln flach hingelegt, steigen Atmung und Zuckerverbrauch drastisch an, da die Pflanze versucht, sich aufzurichten. Das führt zu raschem Vergilben. Die aufrechte Lagerung schont die Nährstoffreserven und hält das Gemüse knackig."
+          },
+          {
+            "question": "Wie kann man das Zusammenkleben und Schleimigwerden beim Einfrieren verhindern?",
+            "answer": "Beim Schneiden tritt aus den zerstörten Zellwänden ein pflanzlicher Schleimstoff (Mucin) aus. Wird das Gemüse sofort eingefroren, bildet das Wasser Eiskristalle, die den Schleim zu einem festen Klumpen verbinden. Wenn Sie die gehackten Zwiebeln 10–15 Minuten auf einem Brett antrocknen lassen, bevor Sie sie bei -18 °C einfrieren, bleiben die Stückchen rieselfähig."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar cebolinha fresca: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para cebolinha com base em diretrizes oficiais de segurança.",
+        "authority": "RDA & MFDS & USDA",
+        "intro": "Você já comprou um maço grande de cebolinha, deixou na gaveta de legumes e teve que jogar metade fora porque as folhas ficaram viscosas e murchas em poucos dias? 🌿\n\nA cebolinha é um tempero essencial, mas seu alto teor de água e sua característica fisiológica pós-colheita — o geotropismo negativo (crescer para cima contra a gravidade) — aceleram sua deterioração. Armazená-la na horizontal faz com que gaste energia tentando se erguer.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes do USDA e da RDA para controlar a umidade, evitar o desgaste de energia e manter sua cebolinha crocante e fresca por mais de um mês. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca sele a cebolinha com umidade presa na superfície 💧",
+            "desc": "Guardar a cebolinha lavada ainda molhada prende a água, causando podridão bacteriana e uma substância viscosa (mucina) em apenas um dia. Seque-a completamente antes de embalar."
+          },
+          {
+            "title": "Separe as folhas verdes dos talos brancos para armazenar 🧅",
+            "desc": "As folhas verdes contêm mais água do que os talos brancos, o que faz com que estraguem muito mais rápido. Cortar e guardar essas partes em potes separados evita a contaminação cruzada da deterioração."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Embrulhe sem lavar em jornal e guarde de pé — Temp. Ambiente (5 dias) 🌿",
+            "text": "Embrulhe a cebolinha seca e sem lavar em papel jornal ou papel manteiga. 💡 Dica de conservação: Coloque-a de pé com as raízes para baixo em um local fresco, ventilado e à sombra (10-15 °C). Manter a posição vertical imita o crescimento natural e atrasa o murchamento."
+          },
+          {
+            "name": "Seque a cebolinha lavada e guarde de pé com papel-toalha — Refrigeração (14–21 dias) 📦",
+            "text": "A cebolinha lavada deve ser seca 100% com papel-toalha ou um centrifugador. 💡 Dica de conservação: Corte ao meio separando folhas e talos. Coloque papel-toalha no fundo de um pote alto e guarde de pé na gaveta de legumes (0-4 °C). O papel absorve a umidade, mantendo-a crocante por até 3 semanas."
+          },
+          {
+            "name": "Pique, seque a umidade da superfície e congele — Congelamento (180 dias) ❄️",
+            "text": "Se não for usar em 2 semanas, pique e congele. 💡 Dica de conservação: Congelar a cebolinha picada imediatamente rompe as paredes celulares liberando mucina colante. Espalhe a cebolinha picada em uma bandeja por 10-15 minutos para secar a superfície antes de guardar em saco Ziploc (-18 °C). Adicione direto às receitas sem descongelar."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Qual é a explicação científica para embrulhar a cebolinha em jornal e guardá-la de pé?",
+            "answer": "Os vegetais mantêm o instinto de crescimento após a colheita (geotropismo negativo). Quando a cebolinha é guardada deitada, a taxa de respiração e o consumo de açúcares aumentam muito para tentar curvar os talos para cima, amarelando rapidamente. Armazenar na vertical com as raízes para baixo reduz o estresse da gravidade e preserva sua energia."
+          },
+          {
+            "question": "Como posso evitar que a cebolinha picada fique viscosa e empelotada ao congelar?",
+            "answer": "Ao cortar a cebolinha, as paredes celulares danificadas liberam um polissacarídeo viscoso chamado mucina junto com água. Se congelada imediatamente, os cristais de gelo unem esse líquido criando um bloco colado. Deixar a cebolinha picada secar em uma bandeja por 10-15 minutos antes de congelar a -18 °C mantém os pedaços soltos e fáceis de usar."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Daun Bawang agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk daun bawang berdasarkan pedoman keselamatan resmi.",
+        "authority": "RDA & MFDS & USDA",
+        "intro": "Pernahkah Anda membeli seikat besar daun bawang lalu menyimpannya di laci sayuran kulkas, hanya untuk mendapati daunnya menjadi berlendir dan busuk beberapa hari kemudian? 🌿\n\nDaun bawang adalah bumbu dapur yang sangat populer, tetapi kadar airnya yang tinggi serta sifat fisiologisnya setelah dipanen—yaitu geotropisme negatif (tumbuh ke atas melawan gravitasi)—membuatnya cepat layu. Menyimpannya secara mendatar membuat daun bawang menghabiskan energi untuk menekuk ke atas, mempercepat pembusukan.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman USDA dan RDA untuk mengontrol kelembapan, mencegah pemborosan energi, dan menjaga daun bawang Anda tetap renyah dan segar selama lebih dari sebulan. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan pernah menyegel daun bawang dalam kondisi basah 💧",
+            "desc": "Menyimpan daun bawang yang belum dikeringkan akan memicu pembusukan bakteri dan menghasilkan lendir lengket (musin) dalam sehari. Selalu keringkan hingga benar-benar bebas air sebelum disimpan."
+          },
+          {
+            "title": "Pisahkan bagian daun hijau dan batang putih saat disimpan 🧅",
+            "desc": "Bagian daun hijau yang berongga memiliki kadar air lebih tinggi dibanding batang putih sehingga jauh lebih cepat membusuk. Memotong dan memisahkan kedua bagian ini mencegah pembusukan silang dan memperpanjang masa simpan."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Bungkus kering tanpa dicuci dengan koran lalu simpan tegak — Suhu Ruang (5 Hari) 🌿",
+            "text": "Bungkus daun bawang kering yang belum dicuci secara longgar dengan kertas koran atau kertas roti. 💡 Tips Penyimpanan: Simpan dalam posisi tegak dengan akar di bawah di tempat yang sejuk, berventilasi baik, dan teduh (10–15°C). Menyimpan secara vertikal meniru posisi tumbuh alaminya sehingga menahan stres gravitasi."
+          },
+          {
+            "name": "Keringkan daun bawang washed hingga tuntas lalu simpan tegak dengan tisu dapur — Simpan Dingin (14–21 Hari) 📦",
+            "text": "Daun bawang yang dicuci harus dikeringkan 100% menggunakan tisu dapur atau pemutar sayuran. 💡 Tips Penyimpanan: Potong dua untuk memisahkan daun dan batang. Alasi bagian bawah wadah tinggi dengan tisu dapur dan simpan daun bawang secara berdiri, akar di bawah, di laci sayuran (0–4°C) hingga 3 minggu."
+          },
+          {
+            "name": "Iris, keringkan kelembapan permukaan, lalu bekukan — Simpan Beku (180 Hari) ❄️",
+            "text": "Jika tidak habis dalam 2 minggu, iris dan bekukan untuk jangka panjang. 💡 Tips Penyimpanan: Membekukan irisan daun bawang secara langsung merusak dinding sel dan mengeluarkan musin lengket. Angin-anginkan irisan daun bawang di atas nampan selama 10–15 menit untuk mengeringkan air permukaan sebelum disimpan di kantong Ziploc freezer (-18°C). Masukkan langsung dalam keadaan beku saat memasak."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apa alasan ilmiah membungkus daun bawang dengan koran dan menyimpannya secara tegak?",
+            "answer": "Sayuran tetap mempertahankan naluri tumbuhnya setelah dipanen (geotropisme negatif). Ketika daun bawang diletakkan mendatar, laju respirasi dan konsumsi gula melonjak karena tanaman berusaha menekuk batangnya ke atas, menyebabkannya cepat menguning dan layu. Menyimpannya secara vertikal dengan akar di bawah mengurangi stres gravitasi dan menghemat energinya."
+          },
+          {
+            "question": "Bagaimana cara mencegah irisan daun bawang menjadi berlendir dan menggumpal saat dibekukan?",
+            "answer": "Saat daun bawang diiris, dinding sel yang rusak melepaskan polisakarida kental bernama musin beserta air. Jika langsung dibekukan, kristal es akan mengikat cairan ini menjadi gumpalan beku yang berlendir. Mengangin-anginkan irisan daun bawang di nampan selama 10–15 menit sebelum dibekukan pada suhu -18°C menjaga irisan tetap terpisah dan mudah diambil sesuai kebutuhan."
+          }
+        ]
+      }
     }
+  }
 }

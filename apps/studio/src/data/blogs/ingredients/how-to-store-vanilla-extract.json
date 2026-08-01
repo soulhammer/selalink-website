@@ -1,406 +1,406 @@
 {
-    "how-to-store-vanilla-extract": {
-        "ingId": "vanilla-extract",
-        "pubDate": "2026-06-10",
-        "updatedDate": "2026-06-10",
-        "heroImage": "/images/blog/vanilla_extract_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "바닐라 익스트랙 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 바닐라 익스트랙의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)",
-                "intro": "베이킹의 풍미를 높여주는 순수 바닐라 익스트랙, 오랫동안 보관하려고 냉장고에 넣었다가 탁하게 변하거나 향이 약해져 당황한 적 있으시죠? 🍨\n\n순수 바닐라 익스트랙은 바닐라 빈을 최소 35% 이상의 알코올에 추출하여 만든 천연 에센스로, 높은 알코올 함량 자체가 완벽한 천연 보존제 역할을 합니다. 하지만 냉장 보관 시 온도가 낮아지면서 응결 현상이 발생하고 주요 향미 성분인 바닐린(Vanillin)이 결정화되어 풍미가 파괴될 수 있습니다.\n\n이번 가이드에서는 FDA 및 식약처의 과학적 가이드라인에 기반하여, 바닐라 익스트랙의 풍미를 손상 없이 영구적으로 유지하는 3단계 보관 비법을 전해드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "알코올 추출 유기 화합물의 화학적 특성과 온도 변화에 따른 유향 성분의 침전 원리를 이해하고 올바른 보관법을 적용하는 것은 베이킹의 품질을 지키는 핵심입니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "절대로 냉장고나 냉동실에 보관하지 마세요 🚫",
-                        "desc": "바닐라 익스트랙을 냉장 보관하면 저온으로 인해 병 내부 습기 응결이 일어나고 바닐린 성분이 결정화되어 결빙·결정 침전물이 형성됩니다. 이 과정에서 바닐라 특유의 섬세한 아로마가 손실되므로 반드시 상온 보관해야 합니다."
-                    },
-                    {
-                        "title": "직사광선과 가열 기구 주변을 피하세요 ☀️",
-                        "desc": "빛(자외선)과 가스레인지 주변의 강한 열기는 알코올의 증발을 촉진하고 바닐린 화합물의 열분해를 일으켜 향을 변질시킵니다. 어둡고 서늘한 찬장에 보관해야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "직사광선이 닿지 않는 서늘하고 어두운 팬트리에 보관하기 — 상온 보관 (반영구적) 🏺",
-                        "text": "미개봉 및 개봉된 순수 바닐라 익스트랙은 알코올 성분 덕분에 상온에서 거의 반영구적으로 보관할 수 있습니다. 💡 보관 팁: 직사광선과 열기가 없는 15~24℃의 서늘하고 어두운 팬트리나 찬장에 보관하세요. 수년이 지나도 깊고 풍부한 바닐라 향을 그대로 유지합니다."
-                    },
-                    {
-                        "name": "차광용 유리병에 담아 뚜껑을 완벽히 밀봉하기 — 알코올 증발 차단 🫙",
-                        "text": "알코올 성분은 공기에 노출되면 쉽게 증발하여 시럽의 농도와 향의 밸런스가 깨집니다. 💡 보관 팁: 갈색이나 어두운 색상의 차광 유리병에 보관하고, 사용 후에는 즉시 뚜껑을 꼭 닫아 공기 접촉과 알코올 증발을 차단하세요."
-                    },
-                    {
-                        "name": "침전물 발생 시 상온에서 가볍게 흔들어 사용하기 — 결정화 관리 🧪",
-                        "text": "오래 보관하거나 기온이 낮아지면 바닥에 바닐라 빈 미세 입자나 투명한 바닐린 결정이 가라앉을 수 있습니다. 💡 보관 팁: 이는 상하거나 변질된 것이 아니므로 따뜻한 상온에 두었다가 사용 전 용기를 가볍게 흔들어주면 향미 성분이 다시 균일하게 섞입니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "순수 바닐라 익스트랙에도 유통기한이 있나요? 상하지 않나요?",
-                        "answer": "알코올 함량이 35% 이상인 100% 순수 바닐라 익스트랙은 밀봉하여 서늘하고 어두운 상온에 둘 경우 유통기한이 없으며 상하지 않습니다. 오히려 시간이 지날수록 숙성되어 풍미가 더 깊어집니다. 단, 알코올이 없거나 인공 바닐린으로 만든 메이플/바닐라 향 제품은 2~4년의 유통기한이 존재합니다."
-                    },
-                    {
-                        "question": "바닐라 익스트랙 바닥에 침전물이 생겼는데 버려야 하나요?",
-                        "answer": "버리지 않으셔도 됩니다. 침전물은 바닐라 빈 씨앗의 미세 가루이거나 주향미 성분인 바닐린(Vanillin)이 저온에서 결정화되어 침전된 것입니다. 상하거나 곰팡이가 핀 것이 아니므로 용기를 흔들어 사용하시면 됩니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Vanilla Extract Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for vanilla extract based on official safety guidelines.",
-                "authority": "FDA & USDA & MFDS & RDA",
-                "intro": "Have you ever chilled pure vanilla extract in the fridge to preserve it, only to find it cloudy or weakened in aroma? 🍨\n\nPure vanilla extract is made by macerating vanilla beans in an alcohol-water solution containing at least 35% alcohol, which acts as a powerful natural preservative. Storing vanilla extract in the refrigerator causes condensation inside the bottle and crystallizes the primary flavor compound, vanillin, ruining its delicate aroma.\n\nIn this guide, shares a scientifically proven 3-step vanilla extract storage guide based on guidelines from the FDA and USDA to preserve its rich flavor indefinitely without damage. 🛡️",
-                "whyTitle": "Why Store Vanilla Extract This Way? Scientific Facts",
-                "whyDesc": "Understanding the chemical properties of alcohol-extracted organic compounds and temperature-sensitive flavor precipitation is key to preserving baking quality.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never refrigerate or freeze pure vanilla extract 🚫",
-                        "desc": "Refrigerating vanilla extract triggers moisture condensation inside the bottle and causes vanillin to crystallize and precipitate. This process degrades the delicate natural vanilla aroma, so room temperature storage is mandatory."
-                    },
-                    {
-                        "title": "Keep away from direct sunlight and heat sources ☀️",
-                        "desc": "UV light and stove heat accelerate alcohol evaporation and thermally degrade aromatic vanillin compounds, spoiling its flavor profile. Store in a dark, cool cupboard."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Store in a cool, dark pantry away from sunlight — Ambient Storage (Indefinite) 🏺",
-                        "text": "Thanks to its high alcohol content, pure vanilla extract can be stored almost indefinitely at room temperature. 💡 Storage Tip: Keep it in a cool, dark pantry or cabinet away from heat and sunlight at 15–24°C (60–75°F). It preserves its deep vanilla profile for years."
-                    },
-                    {
-                        "name": "Keep tightly sealed in amber glass bottles — Prevent Alcohol Evaporation 🫙",
-                        "text": "Alcohol evaporates quickly when exposed to air, altering the flavor balance and liquid concentration. 💡 Storage Tip: Store in dark or amber glass bottles and cap tightly immediately after use to block air exposure and prevent evaporation."
-                    },
-                    {
-                        "name": "Shake gently if sediment forms — Sediment Management 🧪",
-                        "text": "Over time or in cooler room temps, tiny vanilla bean specks or clear vanillin crystals may settle at the bottom. 💡 Storage Tip: This is not spoilage. Simply allow it to warm to room temperature and shake gently before use to redistribute the aromatic compounds."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Does pure vanilla extract expire or go bad?",
-                        "answer": "Pure 100% vanilla extract containing at least 35% alcohol does not expire or spoil when kept tightly sealed in a cool, dark pantry. In fact, its flavor matures and deepens over time. However, imitation vanilla or alcohol-free vanilla flavorings do have a limited shelf life of about 2–4 years."
-                    },
-                    {
-                        "question": "There is sediment at the bottom of my vanilla extract bottle. Is it spoiled?",
-                        "answer": "No, it is not spoiled! The sediment consists of natural fine vanilla bean specks or crystallized vanillin compounds precipitated by cooler temperatures. Shake the bottle gently before use to reincorporate the flavor."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "バニラエキストラクトを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくバニラエキストラクトの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)",
-                "intro": "お菓子の風味付けに欠かせない純バニラエキストラクト（バニラ抽出液）。長持ちさせようと冷蔵庫に入れたら、液が白く濁ったり香りが弱くなってしまった経験はありませんか？ 🍨\n\n純バニラエキストラクトは、バニラビーンズをアルコール度数35%以上の液体で抽出した天然エッセンスで、高いアルコール分自体が強力な天然保存料として働きます。しかし冷蔵保存すると低温により瓶内に結露が発生し、主成分であるバニリン（Vanillin）が結晶化して繊細な香りが損なわれてしまいます。\n\n本記事では、FDAや食薬処の科学的ガイドラインに基づき、バニラエキストラクトの風味を損なわずに半永久的に保つ3段階の保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "アルコール抽出された有機化合物の化学的特性と温度変化による香気成分の沈殿原理を理解し、正しい保存方法を実践することは製菓の品質を守る鍵となります。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "絶対に冷蔵庫や冷凍庫に入れないでください 🚫",
-                        "desc": "バニラエキストラクトを冷蔵保存すると、低温によって瓶内に結露が発生し、バニリン成分が結晶化して沈殿します。この過程でバニラ特有のアロマが損なわれるため、必ず常温で保存してください。"
-                    },
-                    {
-                        "title": "直射日光や加熱器具の周辺を避けてください ☀️",
-                        "desc": "日光（紫外線）やコンロ周辺の熱はアルコールの蒸発を促し、バニリン化合物を熱分解させて香りを劣化させます。暗く涼しい棚の中に保管してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "直射日光の当たらない涼しく暗いパントリーに保管する — 常温保存 (半永久的) 🏺",
-                        "text": "未開封および開封済みの純バニラエキストラクトは、アルコール分のおかげで常温でほぼ半永久的に保存できます。💡保存のコツ：直射日光や熱気のない15〜24℃の涼しいパントリーや戸棚で保存してください。数年経っても濃密なバニラの香りを維持できます。"
-                    },
-                    {
-                        "name": "遮光ガラス瓶に入れフタを完全に密閉する — アルコールの蒸発防止 🫙",
-                        "text": "アルコール分は空気に触れると蒸発しやすく、エッセンスの濃度や香りのバランスが崩れます。💡保存のコツ：茶色などの遮光ガラス瓶に入れ、使用後はすぐにフタを固く閉めて空気接触と蒸発を防いでください。"
-                    },
-                    {
-                        "name": "沈殿物ができた場合は常温で軽く振って使用する — 結晶の管理 🧪",
-                        "text": "長期保存や気温の低下により、底にバニラビーンズの微粒子や透明なバニリン結晶が沈殿することがあります。💡保存のコツ：これは傷みや変質ではありませんので、暖かい常温に戻し、使用前に軽く振ることで香気成分が再び均一に混ざり合います。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "純バニラエキストラクトに賞味期限はありますか？傷むことはないですか？",
-                        "answer": "アルコール度数が35%以上の100%純バニラエキストラクトは、密閉して涼しく暗い常温で保存すれば賞味期限がなく、傷むこともありません。むしろ時間の経過とともに熟成され風味が深まります。ただし、アルコール不使用や合成バニリンで作られた製品には2〜4年の賞味期限が存在します。"
-                    },
-                    {
-                        "question": "バニラエキストラクトの底に沈殿物ができましたが、捨てた方がいいですか？",
-                        "answer": "捨てる必要はありません。沈殿物はバニラビーンズの微粉末か、主香気成分であるバニリン（Vanillin）が低温で結晶化したものです。腐敗やカビではありませんので、瓶を振ってそのままご使用ください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持香草精（Vanilla Extract）新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解纯香草精的最佳储存温度、方式和保质时长。",
-                "authority": "美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA)",
-                "intro": "烘焙提香必备的纯香草精，为了延长保存期而放入冰箱，结果液体变浑浊或香气变淡，您遇到过这种情况吗？ 🍨\n\n纯香草精是将香草豆荚浸泡在酒精度至少35%以上的醇水溶液中萃取而成的天然精华，高浓度酒精本身就是极佳的天然防腐剂。然而，冷藏会导致瓶内产生冷凝水，并使核心香气成分香草醛（Vanillin）结晶析出，从而破坏其精致的香气。\n\n本指南将基于 FDA 和 MFDS 的科学指南，为您介绍无损保全香草精浓郁风味、实现永久保存的 3 步储存秘诀。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解醇萃有机化合物的理化特性与温度敏感性香气析出原理，并采用正确的储存方法，对于保持烘焙品质至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "切勿将纯香草精冷藏或冷冻 🚫",
-                        "desc": "冷藏香草精会导致瓶内因低温产生冷凝水，并促使香草醛结晶析出。这一过程会破坏香料特有的天然优雅香气，因此必须常温储存。"
-                    },
-                    {
-                        "title": "避开阳光直射与灶台热源 ☀️",
-                        "desc": "阳光（紫外线）与灶台高温会加速酒精挥发，并导致香草醛等芳香化合物发生热分解，破坏风味。请存放在阴凉黑暗的橱柜中。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "避光置于阴凉干燥的储藏柜 — 常温保存 (半永久) 🏺",
-                        "text": "无论开封与否，得益于高酒精含量，纯香草精在常温下几乎可以半永久保存。💡储存小贴士：存放在无阳光直射和热源、温度为15~24℃的阴凉橱柜中，数年后依然能保持浓郁醇厚的香草香气。"
-                    },
-                    {
-                        "name": "装入避光玻璃瓶并彻底密封 — 阻断酒精挥发 🫙",
-                        "text": "酒精接触空气极易挥发，改变香草精的浓度与香气平衡。💡储存小贴士：使用棕色或深色避光玻璃瓶盛装，用后立即盖紧瓶盖，隔绝空气并防止酒精挥发。"
-                    },
-                    {
-                        "name": "若有沉淀，使用前常温轻摇 — 沉淀物管理 🧪",
-                        "text": "长期存放或环境温度较低时，瓶底可能沉淀香草豆籽微粒或透明的香草醛结晶。💡储存小贴士：这并非变质，将其置于常温下，使用前轻轻摇匀，芳香成分即可重新均匀融合。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "纯香草精有保质期吗？会变质坏掉吗？",
-                        "answer": "酒精度在35%以上的100%纯香草精，只要密封存放在阴凉避光的常温环境中，就没有保质期限制，也不会腐败变质。相反，随时间推移其风味会进一步陈化越发醇厚。但无酒精或人工合成香草精产品则有2~4年的保质期。"
-                    },
-                    {
-                        "question": "香草精瓶底出现了沉淀物，需要倒掉吗？",
-                        "answer": "完全不需要倒掉。沉淀物是香草豆籽微粉，或是主要香气成分香草醛（Vanillin）在低温下结晶析出的产物。这既不是变质也不是发霉，使用前轻摇瓶身即可。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener el extracto de vainilla fresco: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el extracto de vainilla según las directrices oficiales de seguridad.",
-                "authority": "FDA & USDA & MFDS & RDA",
-                "intro": "¿Alguna vez guardó extracto puro de vainilla en el refrigerador para preservarlo, solo para descubrir que se volvía turbio o perdía su aroma? 🍨\n\nEl extracto puro de vainilla se elabora macerando vainas de vainilla en una solución con al menos 35% de alcohol, el cual actúa como un potente conservante natural. Sin embargo, refrigerar el extracto provoca condensación dentro de la botella y cristaliza la vanilina (su compuesto aromático principal), arruinando su delicado perfume.\n\nEn esta guía se presenta una guía de conservación de extracto de vainilla en 3 pasos respaldada por la FDA y el USDA para conservar su rico sabor de forma indefinida y segura. 🛡️",
-                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-                "whyDesc": "Comprender la química de los extractos alcohólicos orgánicos y la precipitación de compuestos aromáticos por temperatura es fundamental para proteger la calidad en la repostería.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Nunca refrigere ni congele el extracto puro de vainilla 🚫",
-                        "desc": "Refrigerar el extracto genera humedad por condensación dentro del frasco y provoca la cristalización de la vanilina. Esto degrada el delicado aroma natural, por lo que el almacenamiento a temperatura ambiente es obligatorio."
-                    },
-                    {
-                        "title": "Manténgalo alejado de la luz solar directa y del calor ☀️",
-                        "desc": "La luz UV y el calor de la estufa aceleran la evaporación del alcohol y degradan térmicamente los compuestos aromáticos de la vanilina. Guárdelo en una alacena oscura y fresca."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Guarde en una despensa fresca y oscura — Almacenamiento a temperatura ambiente (Indefinido) 🏺",
-                        "text": "Gracias a su alto contenido de alcohol, el extracto puro de vainilla puede conservarse de forma casi indefinida a temperatura ambiente. 💡 Consejo de almacenamiento: Mantenlo en una despensa oscura a 15–24 °C lejos del calor. Mantiene su aroma profundo durante años."
-                    },
-                    {
-                        "name": "Conserve sellado en botellas de vidrio ámbar — Evite la evaporación del alcohol 🫙",
-                        "text": "El alcohol se evapora rápido al contacto con el aire, alterando la concentración y el equilibrio del sabor. 💡 Consejo de almacenamiento: Use botellas de vidrio oscuro o ámbar y cierre bien la tapa inmediatamente tras su uso."
-                    },
-                    {
-                        "name": "Agite suavemente si se forman sedimentos — Gestión de sedimentos 🧪",
-                        "text": "Con el tiempo o en temperaturas ambiente frías, pueden asentarse diminutas partículas de vainilla o cristales transparentes de vanilina en el fondo. 💡 Consejo de almacenamiento: Esto no es descomposición. Simplemente deje que alcance la temperatura ambiente y agite suavemente antes de usar."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿El extracto puro de vainilla caduca o se echa a perder?",
-                        "answer": "El extracto puro 100% de vainilla con al menos 35% de alcohol no caduca ni se echa a perder si se mantiene bien sellado en una despensa fresca y oscura. De hecho, su sabor madura y se profundiza con los años. Sin embargo, los saborizantes artificiales o sin alcohol tienen una vida útil de 2 a 4 años."
-                    },
-                    {
-                        "question": "Hay sedimento en el fondo de mi botella de vainilla. ¿Se echó a perder?",
-                        "answer": "¡No, no se ha echado a perder! El sedimento consiste en finas motas de vainas de vainilla o cristales de vanilina precipitado por el frío. Agite suavemente la botella antes de usar para disolver de nuevo los aromas."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver l'extrait de vanille frais : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour l'extrait de vanille selon les directives officielles de sécurité.",
-                "authority": "FDA & USDA & MFDS & RDA",
-                "intro": "Avez-vous déjà placé de l'extrait pur de vanille au réfrigérateur pour le conserver, pour constater qu'il devenait opaque ou que son parfum s'atténuait ? 🍨\n\nL'extrait pur de vanille est obtenu par macération de gousses de vanille dans une solution alcoolique à au moins 35% d'alcool, qui agit comme un puissant conservateur naturel. Cependant, la réfrigération provoque de la condensation dans la bouteille et fait cristalliser la vanilline, détruisant son délicat arôme.\n\nDans ce guide, vous présente un guide scientifique de conservation de l'extrait de vanille en 3 étapes basé sur les recommandations de la FDA et de l'USDA pour préserver sa saveur indéfiniment. 🛡️",
-                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre la chimie des extraits organiques alcoolisés et la précipitation des composés aromatiques sous l'effet de la température est essentiel en pâtisserie.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne réfrigérez et ne congelez jamais l'extrait pur de vanille 🚫",
-                        "desc": "Réfrigérer l'extrait de vanille crée de la condensation à l'intérieur du flacon et fait cristalliser la vanilline. Ce processus dégrade le délicat arôme naturel, le stockage à température ambiante est donc obligatoire."
-                    },
-                    {
-                        "title": "Conservez à l'abri de la lumière directe et de la chaleur ☀️",
-                        "desc": "Les UV et la chaleur des plaques de cuisson accélèrent l'évaporation de l'alcool et altèrent les molécules aromatiques. Conservez-le dans un placard sombre et frais."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Conserver dans un placard frais et sombre — Stockage à température ambiante (Indéfini) 🏺",
-                        "text": "Grâce à sa forte teneur en alcool, l'extrait pur de vanille se conserve presque indéfiniment à température ambiante. 💡 Astuce de conservation : Gardez-le dans un placard sombre entre 15 et 24 °C à l'écart de la chaleur. Il conserve toute sa richesse aromatique pendant des années."
-                    },
-                    {
-                        "name": "Garder bien fermé dans un flacon en verre ambré — Éviter l'évaporation de l'alcool 🫙",
-                        "text": "L'alcool s'évapore rapidement à l'air libre, modifiant l'équilibre aromatique et la concentration. 💡 Astuce de conservation : Utilisez des bouteilles en verre foncé ou ambré et refermez hermétiquement le bouchon après chaque usage."
-                    },
-                    {
-                        "name": "Agiter doucement en cas de dépôt — Gestion des sédiments 🧪",
-                        "text": "Avec le temps ou par temps frais, de fines particules de gousse ou des cristaux de vanilline peuvent se déposer au fond. 💡 Astuce de conservation : Ce n'est pas une altération. Laissez revenir à température ambiante et agitez doucement avant emploi."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "L'extrait pur de vanille a-t-il une date de péremption ?",
-                        "answer": "L'extrait 100% pur de vanille contenant au moins 35% d'alcool ne périme jamais et ne pourrit pas lorsqu'il est conservé hermétiquement dans un placard frais et sombre. Au contraire, ses arômes se bonifient avec le temps. Les arômes artificiels sans alcool ont en revanche une durée de vie de 2 à 4 ans."
-                    },
-                    {
-                        "question": "Il y a un dépôt au fond de mon flacon de vanille. Est-il périmé ?",
-                        "answer": "Non, absolument pas ! Le dépôt est constitué de micro-grains de gousse de vanille ou de cristaux de vanilline précipités par le froid. Agitez doucement le flacon avant usage pour réincorporer les arômes."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Vanilleextrakt richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Vanilleextrakt basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "FDA & USDA & MFDS & RDA",
-                "intro": "Haben Sie echten Vanilleextrakt schon einmal im Kühlschrank gelagert, nur um festzustellen, dass er trüb wurde oder sein Aroma verlor? 🍨\n\nEchter Vanilleextrakt wird durch Mazerieren von Vanilleschoten in einer Alkohol-Wasser-Lösung mit mindestens 35% Alkohol hergestellt, was als hervorragendes natürliches Konservierungsmittel dient. Das Kühlen im Kühlschrank führt jedoch zu Kondenswasser in der Flasche und lässt die Hauptaromakomponente Vanillin auskristallisieren.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von FDA und USDA basiert, um das volle Vanillearoma dauerhaft zu bewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der Chemie alkoholisch extrahierter organischer Verbindungen und der temperaturbedingten Aromaausfällung ist entscheidend für hohe Backqualität.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Echten Vanilleextrakt niemals kühlen oder einfrieren 🚫",
-                        "desc": "Die Kühlung von Vanilleextrakt verursacht Kondensfeuchtigkeit in der Flasche und lässt Vanillin auskristallisieren. Dies zerstört das feine Aroma, weshalb Lagerung bei Raumtemperatur Pflicht ist."
-                    },
-                    {
-                        "title": "Vor direktem Sonnenlicht und Hitzequellen schützen ☀️",
-                        "desc": "UV-Licht und Herdwärme beschleunigen die Verdunstung des Alkohols und zersetzen die aromatischen Vanillinverbindungen. Lagern Sie ihn in einem dunklen, kühlen Schrank."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Im kühlen, dunklen Vorratsschrank lagern — Raumtemperaturlagerung (Unbegrenzt) 🏺",
-                        "text": "Dank des hohen Alkoholgehalts ist echter Vanilleextrakt bei Raumtemperatur nahezu unbegrenzt haltbar. 💡 Lagerungstipp: Lagern Sie ihn an einem kühlen, dunklen Ort (15–24 °C) ohne direkte Sonneneinstrahlung. Er behält sein tiefes Aroma über Jahre."
-                    },
-                    {
-                        "name": "In Braunglasflaschen dicht verschlossen halten — Alkoholverdunstung stoppen 🫙",
-                        "text": "Alkohol verdunstet an der Luft schnell, was die Konzentration und das Geschmacksgleichgewicht verändert. 💡 Lagerungstipp: Verwenden Sie dunkle Braunglasflaschen und verschließen Sie den Deckel nach Gebrauch sofort fest."
-                    },
-                    {
-                        "name": "Bei Sedimentbildung sanft schütteln — Sedimentmanagement 🧪",
-                        "text": "Mit der Zeit oder bei kühleren Temperaturen können sich feine Vanillepartikel oder Auskristallisationen am Boden absetzen. 💡 Lagerungstipp: Das ist kein Verderb. Lassen Sie ihn auf Raumtemperatur erwärmen und schütteln Sie ihn vor Gebrauch leicht."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Kann echter Vanilleextrakt schlecht werden oder ablaufen?",
-                        "answer": "Echter 100%iger Vanilleextrakt mit mindestens 35% Alkohol läuft nicht ab und verdirbt nicht, wenn er dicht verschlossen im kühlen, dunklen Schrank steht. Mit der Zeit reift sein Aroma sogar nach. Künstliches Vanillearoma ohne Alkohol hat dagegen eine Haltbarkeit von ca. 2–4 Jahren."
-                    },
-                    {
-                        "question": "Am Flaschenboden hat sich ein Satz gebildet. Ist der Extrakt schlecht?",
-                        "answer": "Nein, keineswegs! Der Satz besteht aus feinen Partikeln der Vanilleschote oder auskristallisiertem Vanillin. Schütteln Sie die Flasche vor der Verwendung einfach sanft durch."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar extrato de baunilha fresco: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para o extrato de baunilha com base em diretrizes oficiais de segurança.",
-                "authority": "FDA & USDA & MFDS & RDA",
-                "intro": "Você já guardou extrato puro de baunilha na geladeira para conservá-lo, apenas para perceber que ele ficou turvo ou perdeu o aroma? 🍨\n\nO extrato puro de baunilha é feito macerando favas de baunilha em uma solução com pelo menos 35% de álcool, que atua como um poderoso conservante natural. Refrigerar o extrato provoca condensação dentro da garrafa e faz com que a vanilina (principal composto aromático) cristalize, estragando seu perfume delicado.\n\nNeste guia, apresentamos um guia de conservação do extrato de baunilha em 3 etapas baseado em diretrizes da FDA e do USDA para preservar seu sabor de forma indefinida e segura. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender a química dos extratos alcoólicos orgânicos e a precipitação de compostos aromáticos sensíveis à temperatura é essencial para manter a qualidade na confeitaria.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca refrigere ou congele o extrato puro de baunilha 🚫",
-                        "desc": "Refrigerar o extrato gera umidade por condensação na garrafa e provoca a cristalização da vanilina. Isso degrada o delicado aroma natural, tornando o armazenamento à temperatura ambiente obrigatório."
-                    },
-                    {
-                        "title": "Mantenha longe da luz solar direta e do calor ☀️",
-                        "desc": "A luz UV e o calor do fogão aceleram a evaporação do álcool e decompõem os compostos aromáticos da vanilina. Guarde em um armário escuro e fresco."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Guarde em um armário fresco e escuro — Temperatura ambiente (Indefinido) 🏺",
-                        "text": "Graças ao alto teor alcoólico, o extrato puro de baunilha pode ser conservado quase indefinidamente à temperatura ambiente. 💡 Dica de conservação: Mantenha-o em uma despensa fresca e escura (15–24 °C) longe do calor. Mantém seu aroma profundo por anos."
-                    },
-                    {
-                        "name": "Mantenha bem fechado em garrafas de vidro âmbar — Evite evaporação do álcool 🫙",
-                        "text": "O álcool evapora rapidamente em contato com o ar, alterando a concentração e o equilíbrio do sabor. 💡 Dica de conservação: Use garrafas de vidro escuro ou âmbar e feche bem a tampa imediatamente após o uso."
-                    },
-                    {
-                        "name": "Agite suavemente se formar sedimento — Gestão de sedimentos 🧪",
-                        "text": "Com o tempo ou em temperaturas mais frias, pequenas partículas de baunilha ou cristais transparentes de vanilina podem se depositar no fundo. 💡 Dica de conservação: Não é deterioração. Deixe atingir a temperatura ambiente e agite suavemente antes de usar."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "O extrato puro de baunilha tem data de validade ou estraga?",
-                        "answer": "O extrato 100% puro de baunilha com pelo menos 35% de álcool não expira nem estraga se mantido bem fechado em local fresco e escuro. Com o tempo, seu sabor até se aprofunda. No entanto, essências artificiais de baunilha sem álcool têm validade de 2 a 4 anos."
-                    },
-                    {
-                        "question": "Há um sedimento no fundo da garrafa de extrato de baunilha. Estragou?",
-                        "answer": "Não estragou! O sedimento é composto por finas sementes da fava de baunilha ou cristais de vanilina precipitados pelo frio. Agite suavemente a garrafa antes de usar para incorporar os aromas novamente."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Ekstrak Vanila (Vanilla Extract) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk ekstrak vanila berdasarkan pedoman keselamatan resmi.",
-                "authority": "FDA & USDA & MFDS & RDA",
-                "intro": "Pernahkah Anda menyimpan ekstrak vanila murni di dalam kulkas agar awet, tetapi mendapati warnanya menjadi keruh atau aromanya berkurang? 🍨\n\nEkstrak vanila murni dibuat dengan memaserasi polong vanila dalam larutan alkohol dengan kadar minimal 35%, yang berfungsi sebagai pengawet alami yang sangat kuat. Namun, menyimpan ekstrak vanila di kulkas memicu kondensasi di dalam botol dan mengkristalkan senyawa aroma utamanya (vanilin), sehingga merusak aroma khasnya.\n\nDalam panduan ini, kami membagikan panduan penyimpanan ekstrak vanila 3 langkah berbasis ilmiah berdasarkan pedoman FDA dan USDA untuk menjaga aromanya tetap kaya secara permanen. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami sifat kimia ekstrak organik beralkohol dan pengendapan senyawa aroma akibat perubahan suhu sangat penting untuk menjaga kualitas kue dan roti.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan pernah menyimpan ekstrak vanila murni di kulkas atau freezer 🚫",
-                        "desc": "Menyimpan ekstrak vanila di kulkas memicu kondensasi air di dalam botol dan menyebabkan senyawa vanilin mengkristal. Proses ini merusak aroma vanila yang lembut, sehingga wajib disimpan di suhu ruang."
-                    },
-                    {
-                        "title": "Jauhkan dari sinar matahari langsung dan sumber panas ☀️",
-                        "desc": "Sinar UV dan hawa panas kompor mempercepat penguapan alkohol serta merusak senyawa vanilin aromatik. Simpan di dalam lemari dapur yang gelap dan sejuk."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Simpan di lemari dapur yang sejuk dan gelap — Simpan Suhu Ruang (Tak Terbatas) 🏺",
-                        "text": "Berkat kandungan alkoholnya yang tinggi, ekstrak vanila murni dapat disimpan hampir tanpa batas waktu di suhu ruang. 💡 Tips Penyimpanan: Simpan di lemari dapur yang sejuk dan gelap (15–24°C) jauh dari panas dan sinar matahari. Aromanya akan tetap kaya selama bertahun-tahun."
-                    },
-                    {
-                        "name": "Tutup rapat di dalam botol kaca gelap/amber — Cegah Penguapan Alkohol 🫙",
-                        "text": "Alkohol mudah menguap jika terpapar udara, mengubah konsentrasi dan keseimbangan rasa. 💡 Tips Penyimpanan: Gunakan botol kaca gelap atau amber dan segera tutup rapat setelah digunakan untuk mencegah kontak udara."
-                    },
-                    {
-                        "name": "Kocok perlahan jika terbentuk endapan — Kelola Endapan 🧪",
-                        "text": "Seiring waktu atau pada suhu ruang yang lebih dingin, butiran halus vanila atau kristal vanilin transparan dapat mengendap di dasar botol. 💡 Tips Penyimpanan: Ini bukan tanda pembusukan. Biarkan mencapai suhu ruang dan kocok perlahan sebelum digunakan."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apakah ekstrak vanila murni memiliki tanggal kedaluwarsa atau bisa basi?",
-                        "answer": "Ekstrak 100% vanila murni dengan kadar alkohol minimal 35% tidak memiliki tanggal kedaluwarsa dan tidak akan basi jika ditutup rapat di tempat sejuk dan gelap. Aromanya justru semakin matang dan kaya seiring waktu. Namun, perisa vanila buatan tanpa alkohol memiliki masa simpan terbatas sekitar 2–4 tahun."
-                    },
-                    {
-                        "question": "Ada endapan di dasar botol ekstrak vanila saya. Apakah sudah basi?",
-                        "answer": "Sama sekali tidak basi! Endapan tersebut adalah serbuk halus biji vanila atau kristal vanilin yang mengendap akibat suhu dingin. Cukup kocok botol perlahan sebelum digunakan untuk menyatukan kembali aromanya."
-                    }
-                ]
-            }
-        }
+  "how-to-store-vanilla-extract": {
+    "ingId": "vanilla-extract",
+    "pubDate": "2026-06-10",
+    "updatedDate": "2026-06-10",
+    "heroImage": "/images/blog/vanilla_extract_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "바닐라 익스트랙 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 바닐라 익스트랙의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "미국 식품의약국(FDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS) & 농촌진흥청(RDA)",
+        "intro": "베이킹의 풍미를 높여주는 순수 바닐라 익스트랙, 오랫동안 보관하려고 냉장고에 넣었다가 탁하게 변하거나 향이 약해져 당황한 적 있으시죠? 🍨\n\n순수 바닐라 익스트랙은 바닐라 빈을 최소 35% 이상의 알코올에 추출하여 만든 천연 에센스로, 높은 알코올 함량 자체가 완벽한 천연 보존제 역할을 합니다. 하지만 냉장 보관 시 온도가 낮아지면서 응결 현상이 발생하고 주요 향미 성분인 바닐린(Vanillin)이 결정화되어 풍미가 파괴될 수 있습니다.\n\n이번 가이드에서는 FDA 및 식약처의 과학적 가이드라인에 기반하여, 바닐라 익스트랙의 풍미를 손상 없이 영구적으로 유지하는 3단계 보관 비법을 전해드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "알코올 추출 유기 화합물의 화학적 특성과 온도 변화에 따른 유향 성분의 침전 원리를 이해하고 올바른 보관법을 적용하는 것은 베이킹의 품질을 지키는 핵심입니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "절대로 냉장고나 냉동실에 보관하지 마세요 🚫",
+            "desc": "바닐라 익스트랙을 냉장 보관하면 저온으로 인해 병 내부 습기 응결이 일어나고 바닐린 성분이 결정화되어 결빙·결정 침전물이 형성됩니다. 이 과정에서 바닐라 특유의 섬세한 아로마가 손실되므로 반드시 상온 보관해야 합니다."
+          },
+          {
+            "title": "직사광선과 가열 기구 주변을 피하세요 ☀️",
+            "desc": "빛(자외선)과 가스레인지 주변의 강한 열기는 알코올의 증발을 촉진하고 바닐린 화합물의 열분해를 일으켜 향을 변질시킵니다. 어둡고 서늘한 찬장에 보관해야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "직사광선이 닿지 않는 서늘하고 어두운 팬트리에 보관하기 — 상온 보관 (반영구적) 🏺",
+            "text": "미개봉 및 개봉된 순수 바닐라 익스트랙은 알코올 성분 덕분에 상온에서 거의 반영구적으로 보관할 수 있습니다. 💡 보관 팁: 직사광선과 열기가 없는 15~24℃의 서늘하고 어두운 팬트리나 찬장에 보관하세요. 수년이 지나도 깊고 풍부한 바닐라 향을 그대로 유지합니다."
+          },
+          {
+            "name": "차광용 유리병에 담아 뚜껑을 완벽히 밀봉하기 — 알코올 증발 차단 🫙",
+            "text": "알코올 성분은 공기에 노출되면 쉽게 증발하여 시럽의 농도와 향의 밸런스가 깨집니다. 💡 보관 팁: 갈색이나 어두운 색상의 차광 유리병에 보관하고, 사용 후에는 즉시 뚜껑을 꼭 닫아 공기 접촉과 알코올 증발을 차단하세요."
+          },
+          {
+            "name": "침전물 발생 시 상온에서 가볍게 흔들어 사용하기 — 결정화 관리 🧪",
+            "text": "오래 보관하거나 기온이 낮아지면 바닥에 바닐라 빈 미세 입자나 투명한 바닐린 결정이 가라앉을 수 있습니다. 💡 보관 팁: 이는 상하거나 변질된 것이 아니므로 따뜻한 상온에 두었다가 사용 전 용기를 가볍게 흔들어주면 향미 성분이 다시 균일하게 섞입니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "순수 바닐라 익스트랙에도 유통기한이 있나요? 상하지 않나요?",
+            "answer": "알코올 함량이 35% 이상인 100% 순수 바닐라 익스트랙은 밀봉하여 서늘하고 어두운 상온에 둘 경우 유통기한이 없으며 상하지 않습니다. 오히려 시간이 지날수록 숙성되어 풍미가 더 깊어집니다. 단, 알코올이 없거나 인공 바닐린으로 만든 메이플/바닐라 향 제품은 2~4년의 유통기한이 존재합니다."
+          },
+          {
+            "question": "바닐라 익스트랙 바닥에 침전물이 생겼는데 버려야 하나요?",
+            "answer": "버리지 않으셔도 됩니다. 침전물은 바닐라 빈 씨앗의 미세 가루이거나 주향미 성분인 바닐린(Vanillin)이 저온에서 결정화되어 침전된 것입니다. 상하거나 곰팡이가 핀 것이 아니므로 용기를 흔들어 사용하시면 됩니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Vanilla Extract Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for vanilla extract based on official safety guidelines.",
+        "authority": "FDA & USDA & MFDS & RDA",
+        "intro": "Have you ever chilled pure vanilla extract in the fridge to preserve it, only to find it cloudy or weakened in aroma? 🍨\n\nPure vanilla extract is made by macerating vanilla beans in an alcohol-water solution containing at least 35% alcohol, which acts as a powerful natural preservative. Storing vanilla extract in the refrigerator causes condensation inside the bottle and crystallizes the primary flavor compound, vanillin, ruining its delicate aroma.\n\nIn this guide, shares a scientifically proven 3-step vanilla extract storage guide based on guidelines from the FDA and USDA to preserve its rich flavor indefinitely without damage. 🛡️",
+        "whyTitle": "Why Store Vanilla Extract This Way? Scientific Facts",
+        "whyDesc": "Understanding the chemical properties of alcohol-extracted organic compounds and temperature-sensitive flavor precipitation is key to preserving baking quality.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never refrigerate or freeze pure vanilla extract 🚫",
+            "desc": "Refrigerating vanilla extract triggers moisture condensation inside the bottle and causes vanillin to crystallize and precipitate. This process degrades the delicate natural vanilla aroma, so room temperature storage is mandatory."
+          },
+          {
+            "title": "Keep away from direct sunlight and heat sources ☀️",
+            "desc": "UV light and stove heat accelerate alcohol evaporation and thermally degrade aromatic vanillin compounds, spoiling its flavor profile. Store in a dark, cool cupboard."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Store in a cool, dark pantry away from sunlight — Ambient Storage (Indefinite) 🏺",
+            "text": "Thanks to its high alcohol content, pure vanilla extract can be stored almost indefinitely at room temperature. 💡 Storage Tip: Keep it in a cool, dark pantry or cabinet away from heat and sunlight at 15–24°C (60–75°F). It preserves its deep vanilla profile for years."
+          },
+          {
+            "name": "Keep tightly sealed in amber glass bottles — Prevent Alcohol Evaporation 🫙",
+            "text": "Alcohol evaporates quickly when exposed to air, altering the flavor balance and liquid concentration. 💡 Storage Tip: Store in dark or amber glass bottles and cap tightly immediately after use to block air exposure and prevent evaporation."
+          },
+          {
+            "name": "Shake gently if sediment forms — Sediment Management 🧪",
+            "text": "Over time or in cooler room temps, tiny vanilla bean specks or clear vanillin crystals may settle at the bottom. 💡 Storage Tip: This is not spoilage. Simply allow it to warm to room temperature and shake gently before use to redistribute the aromatic compounds."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Does pure vanilla extract expire or go bad?",
+            "answer": "Pure 100% vanilla extract containing at least 35% alcohol does not expire or spoil when kept tightly sealed in a cool, dark pantry. In fact, its flavor matures and deepens over time. However, imitation vanilla or alcohol-free vanilla flavorings do have a limited shelf life of about 2–4 years."
+          },
+          {
+            "question": "There is sediment at the bottom of my vanilla extract bottle. Is it spoiled?",
+            "answer": "No, it is not spoiled! The sediment consists of natural fine vanilla bean specks or crystallized vanillin compounds precipitated by cooler temperatures. Shake the bottle gently before use to reincorporate the flavor."
+          }
+        ]
+      },
+      "ja": {
+        "title": "バニラエキストラクトを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくバニラエキストラクトの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "米国食品医薬品局(FDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS) & 農村振興庁(RDA)",
+        "intro": "お菓子の風味付けに欠かせない純バニラエキストラクト（バニラ抽出液）。長持ちさせようと冷蔵庫に入れたら、液が白く濁ったり香りが弱くなってしまった経験はありませんか？ 🍨\n\n純バニラエキストラクトは、バニラビーンズをアルコール度数35%以上の液体で抽出した天然エッセンスで、高いアルコール分自体が強力な天然保存料として働きます。しかし冷蔵保存すると低温により瓶内に結露が発生し、主成分であるバニリン（Vanillin）が結晶化して繊細な香りが損なわれてしまいます。\n\n本記事では、FDAや食薬処の科学的ガイドラインに基づき、バニラエキストラクトの風味を損なわずに半永久的に保つ3段階の保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "アルコール抽出された有機化合物の化学的特性と温度変化による香気成分の沈殿原理を理解し、正しい保存方法を実践することは製菓の品質を守る鍵となります。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "絶対に冷蔵庫や冷凍庫に入れないでください 🚫",
+            "desc": "バニラエキストラクトを冷蔵保存すると、低温によって瓶内に結露が発生し、バニリン成分が結晶化して沈殿します。この過程でバニラ特有のアロマが損なわれるため、必ず常温で保存してください。"
+          },
+          {
+            "title": "直射日光や加熱器具の周辺を避けてください ☀️",
+            "desc": "日光（紫外線）やコンロ周辺の熱はアルコールの蒸発を促し、バニリン化合物を熱分解させて香りを劣化させます。暗く涼しい棚の中に保管してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "直射日光の当たらない涼しく暗いパントリーに保管する — 常温保存 (半永久的) 🏺",
+            "text": "未開封および開封済みの純バニラエキストラクトは、アルコール分のおかげで常温でほぼ半永久的に保存できます。💡保存のコツ：直射日光や熱気のない15〜24℃の涼しいパントリーや戸棚で保存してください。数年経っても濃密なバニラの香りを維持できます。"
+          },
+          {
+            "name": "遮光ガラス瓶に入れフタを完全に密閉する — アルコールの蒸発防止 🫙",
+            "text": "アルコール分は空気に触れると蒸発しやすく、エッセンスの濃度や香りのバランスが崩れます。💡保存のコツ：茶色などの遮光ガラス瓶に入れ、使用後はすぐにフタを固く閉めて空気接触と蒸発を防いでください。"
+          },
+          {
+            "name": "沈殿物ができた場合は常温で軽く振って使用する — 結晶の管理 🧪",
+            "text": "長期保存や気温の低下により、底にバニラビーンズの微粒子や透明なバニリン結晶が沈殿することがあります。💡保存のコツ：これは傷みや変質ではありませんので、暖かい常温に戻し、使用前に軽く振ることで香気成分が再び均一に混ざり合います。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "純バニラエキストラクトに賞味期限はありますか？傷むことはないですか？",
+            "answer": "アルコール度数が35%以上の100%純バニラエキストラクトは、密閉して涼しく暗い常温で保存すれば賞味期限がなく、傷むこともありません。むしろ時間の経過とともに熟成され風味が深まります。ただし、アルコール不使用や合成バニリンで作られた製品には2〜4年の賞味期限が存在します。"
+          },
+          {
+            "question": "バニラエキストラクトの底に沈殿物ができましたが、捨てた方がいいですか？",
+            "answer": "捨てる必要はありません。沈殿物はバニラビーンズの微粉末か、主香気成分であるバニリン（Vanillin）が低温で結晶化したものです。腐敗やカビではありませんので、瓶を振ってそのままご使用ください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持香草精（Vanilla Extract）新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解纯香草精的最佳储存温度、方式和保质时长。",
+        "authority": "美国食品药品监督管理局(FDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & 韩国农村振兴厅(RDA)",
+        "intro": "烘焙提香必备的纯香草精，为了延长保存期而放入冰箱，结果液体变浑浊或香气变淡，您遇到过这种情况吗？ 🍨\n\n纯香草精是将香草豆荚浸泡在酒精度至少35%以上的醇水溶液中萃取而成的天然精华，高浓度酒精本身就是极佳的天然防腐剂。然而，冷藏会导致瓶内产生冷凝水，并使核心香气成分香草醛（Vanillin）结晶析出，从而破坏其精致的香气。\n\n本指南将基于 FDA 和 MFDS 的科学指南，为您介绍无损保全香草精浓郁风味、实现永久保存的 3 步储存秘诀。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解醇萃有机化合物的理化特性与温度敏感性香气析出原理，并采用正确的储存方法，对于保持烘焙品质至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "切勿将纯香草精冷藏或冷冻 🚫",
+            "desc": "冷藏香草精会导致瓶内因低温产生冷凝水，并促使香草醛结晶析出。这一过程会破坏香料特有的天然优雅香气，因此必须常温储存。"
+          },
+          {
+            "title": "避开阳光直射与灶台热源 ☀️",
+            "desc": "阳光（紫外线）与灶台高温会加速酒精挥发，并导致香草醛等芳香化合物发生热分解，破坏风味。请存放在阴凉黑暗的橱柜中。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "避光置于阴凉干燥的储藏柜 — 常温保存 (半永久) 🏺",
+            "text": "无论开封与否，得益于高酒精含量，纯香草精在常温下几乎可以半永久保存。💡储存小贴士：存放在无阳光直射和热源、温度为15~24℃的阴凉橱柜中，数年后依然能保持浓郁醇厚的香草香气。"
+          },
+          {
+            "name": "装入避光玻璃瓶并彻底密封 — 阻断酒精挥发 🫙",
+            "text": "酒精接触空气极易挥发，改变香草精的浓度与香气平衡。💡储存小贴士：使用棕色或深色避光玻璃瓶盛装，用后立即盖紧瓶盖，隔绝空气并防止酒精挥发。"
+          },
+          {
+            "name": "若有沉淀，使用前常温轻摇 — 沉淀物管理 🧪",
+            "text": "长期存放或环境温度较低时，瓶底可能沉淀香草豆籽微粒或透明的香草醛结晶。💡储存小贴士：这并非变质，将其置于常温下，使用前轻轻摇匀，芳香成分即可重新均匀融合。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "纯香草精有保质期吗？会变质坏掉吗？",
+            "answer": "酒精度在35%以上的100%纯香草精，只要密封存放在阴凉避光的常温环境中，就没有保质期限制，也不会腐败变质。相反，随时间推移其风味会进一步陈化越发醇厚。但无酒精或人工合成香草精产品则有2~4年的保质期。"
+          },
+          {
+            "question": "香草精瓶底出现了沉淀物，需要倒掉吗？",
+            "answer": "完全不需要倒掉。沉淀物是香草豆籽微粉，或是主要香气成分香草醛（Vanillin）在低温下结晶析出的产物。这既不是变质也不是发霉，使用前轻摇瓶身即可。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener el extracto de vainilla fresco: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el extracto de vainilla según las directrices oficiales de seguridad.",
+        "authority": "FDA & USDA & MFDS & RDA",
+        "intro": "¿Alguna vez guardó extracto puro de vainilla en el refrigerador para preservarlo, solo para descubrir que se volvía turbio o perdía su aroma? 🍨\n\nEl extracto puro de vainilla se elabora macerando vainas de vainilla en una solución con al menos 35% de alcohol, el cual actúa como un potente conservante natural. Sin embargo, refrigerar el extracto provoca condensación dentro de la botella y cristaliza la vanilina (su compuesto aromático principal), arruinando su delicado perfume.\n\nEn esta guía se presenta una guía de conservación de extracto de vainilla en 3 pasos respaldada por la FDA y el USDA para conservar su rico sabor de forma indefinida y segura. 🛡️",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender la química de los extractos alcohólicos orgánicos y la precipitación de compuestos aromáticos por temperatura es fundamental para proteger la calidad en la repostería.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Nunca refrigere ni congele el extracto puro de vainilla 🚫",
+            "desc": "Refrigerar el extracto genera humedad por condensación dentro del frasco y provoca la cristalización de la vanilina. Esto degrada el delicado aroma natural, por lo que el almacenamiento a temperatura ambiente es obligatorio."
+          },
+          {
+            "title": "Manténgalo alejado de la luz solar directa y del calor ☀️",
+            "desc": "La luz UV y el calor de la estufa aceleran la evaporación del alcohol y degradan térmicamente los compuestos aromáticos de la vanilina. Guárdelo en una alacena oscura y fresca."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Guarde en una despensa fresca y oscura — Almacenamiento a temperatura ambiente (Indefinido) 🏺",
+            "text": "Gracias a su alto contenido de alcohol, el extracto puro de vainilla puede conservarse de forma casi indefinida a temperatura ambiente. 💡 Consejo de almacenamiento: Mantenlo en una despensa oscura a 15–24 °C lejos del calor. Mantiene su aroma profundo durante años."
+          },
+          {
+            "name": "Conserve sellado en botellas de vidrio ámbar — Evite la evaporación del alcohol 🫙",
+            "text": "El alcohol se evapora rápido al contacto con el aire, alterando la concentración y el equilibrio del sabor. 💡 Consejo de almacenamiento: Use botellas de vidrio oscuro o ámbar y cierre bien la tapa inmediatamente tras su uso."
+          },
+          {
+            "name": "Agite suavemente si se forman sedimentos — Gestión de sedimentos 🧪",
+            "text": "Con el tiempo o en temperaturas ambiente frías, pueden asentarse diminutas partículas de vainilla o cristales transparentes de vanilina en el fondo. 💡 Consejo de almacenamiento: Esto no es descomposición. Simplemente deje que alcance la temperatura ambiente y agite suavemente antes de usar."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿El extracto puro de vainilla caduca o se echa a perder?",
+            "answer": "El extracto puro 100% de vainilla con al menos 35% de alcohol no caduca ni se echa a perder si se mantiene bien sellado en una despensa fresca y oscura. De hecho, su sabor madura y se profundiza con los años. Sin embargo, los saborizantes artificiales o sin alcohol tienen una vida útil de 2 a 4 años."
+          },
+          {
+            "question": "Hay sedimento en el fondo de mi botella de vainilla. ¿Se echó a perder?",
+            "answer": "¡No, no se ha echado a perder! El sedimento consiste en finas motas de vainas de vainilla o cristales de vanilina precipitado por el frío. Agite suavemente la botella antes de usar para disolver de nuevo los aromas."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver l'extrait de vanille frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour l'extrait de vanille selon les directives officielles de sécurité.",
+        "authority": "FDA & USDA & MFDS & RDA",
+        "intro": "Avez-vous déjà placé de l'extrait pur de vanille au réfrigérateur pour le conserver, pour constater qu'il devenait opaque ou que son parfum s'atténuait ? 🍨\n\nL'extrait pur de vanille est obtenu par macération de gousses de vanille dans une solution alcoolique à au moins 35% d'alcool, qui agit comme un puissant conservateur naturel. Cependant, la réfrigération provoque de la condensation dans la bouteille et fait cristalliser la vanilline, détruisant son délicat arôme.\n\nDans ce guide, vous présente un guide scientifique de conservation de l'extrait de vanille en 3 étapes basé sur les recommandations de la FDA et de l'USDA pour préserver sa saveur indéfiniment. 🛡️",
+        "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre la chimie des extraits organiques alcoolisés et la précipitation des composés aromatiques sous l'effet de la température est essentiel en pâtisserie.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne réfrigérez et ne congelez jamais l'extrait pur de vanille 🚫",
+            "desc": "Réfrigérer l'extrait de vanille crée de la condensation à l'intérieur du flacon et fait cristalliser la vanilline. Ce processus dégrade le délicat arôme naturel, le stockage à température ambiante est donc obligatoire."
+          },
+          {
+            "title": "Conservez à l'abri de la lumière directe et de la chaleur ☀️",
+            "desc": "Les UV et la chaleur des plaques de cuisson accélèrent l'évaporation de l'alcool et altèrent les molécules aromatiques. Conservez-le dans un placard sombre et frais."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Conserver dans un placard frais et sombre — Stockage à température ambiante (Indéfini) 🏺",
+            "text": "Grâce à sa forte teneur en alcool, l'extrait pur de vanille se conserve presque indéfiniment à température ambiante. 💡 Astuce de conservation : Gardez-le dans un placard sombre entre 15 et 24 °C à l'écart de la chaleur. Il conserve toute sa richesse aromatique pendant des années."
+          },
+          {
+            "name": "Garder bien fermé dans un flacon en verre ambré — Éviter l'évaporation de l'alcool 🫙",
+            "text": "L'alcool s'évapore rapidement à l'air libre, modifiant l'équilibre aromatique et la concentration. 💡 Astuce de conservation : Utilisez des bouteilles en verre foncé ou ambré et refermez hermétiquement le bouchon après chaque usage."
+          },
+          {
+            "name": "Agiter doucement en cas de dépôt — Gestion des sédiments 🧪",
+            "text": "Avec le temps ou par temps frais, de fines particules de gousse ou des cristaux de vanilline peuvent se déposer au fond. 💡 Astuce de conservation : Ce n'est pas une altération. Laissez revenir à température ambiante et agitez doucement avant emploi."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "L'extrait pur de vanille a-t-il une date de péremption ?",
+            "answer": "L'extrait 100% pur de vanille contenant au moins 35% d'alcool ne périme jamais et ne pourrit pas lorsqu'il est conservé hermétiquement dans un placard frais et sombre. Au contraire, ses arômes se bonifient avec le temps. Les arômes artificiels sans alcool ont en revanche une durée de vie de 2 à 4 ans."
+          },
+          {
+            "question": "Il y a un dépôt au fond de mon flacon de vanille. Est-il périmé ?",
+            "answer": "Non, absolument pas ! Le dépôt est constitué de micro-grains de gousse de vanille ou de cristaux de vanilline précipités par le froid. Agitez doucement le flacon avant usage pour réincorporer les arômes."
+          }
+        ]
+      },
+      "de": {
+        "title": "Vanilleextrakt richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Vanilleextrakt basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "FDA & USDA & MFDS & RDA",
+        "intro": "Haben Sie echten Vanilleextrakt schon einmal im Kühlschrank gelagert, nur um festzustellen, dass er trüb wurde oder sein Aroma verlor? 🍨\n\nEchter Vanilleextrakt wird durch Mazerieren von Vanilleschoten in einer Alkohol-Wasser-Lösung mit mindestens 35% Alkohol hergestellt, was als hervorragendes natürliches Konservierungsmittel dient. Das Kühlen im Kühlschrank führt jedoch zu Kondenswasser in der Flasche und lässt die Hauptaromakomponente Vanillin auskristallisieren.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von FDA und USDA basiert, um das volle Vanillearoma dauerhaft zu bewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der Chemie alkoholisch extrahierter organischer Verbindungen und der temperaturbedingten Aromaausfällung ist entscheidend für hohe Backqualität.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Echten Vanilleextrakt niemals kühlen oder einfrieren 🚫",
+            "desc": "Die Kühlung von Vanilleextrakt verursacht Kondensfeuchtigkeit in der Flasche und lässt Vanillin auskristallisieren. Dies zerstört das feine Aroma, weshalb Lagerung bei Raumtemperatur Pflicht ist."
+          },
+          {
+            "title": "Vor direktem Sonnenlicht und Hitzequellen schützen ☀️",
+            "desc": "UV-Licht und Herdwärme beschleunigen die Verdunstung des Alkohols und zersetzen die aromatischen Vanillinverbindungen. Lagern Sie ihn in einem dunklen, kühlen Schrank."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Im kühlen, dunklen Vorratsschrank lagern — Raumtemperaturlagerung (Unbegrenzt) 🏺",
+            "text": "Dank des hohen Alkoholgehalts ist echter Vanilleextrakt bei Raumtemperatur nahezu unbegrenzt haltbar. 💡 Lagerungstipp: Lagern Sie ihn an einem kühlen, dunklen Ort (15–24 °C) ohne direkte Sonneneinstrahlung. Er behält sein tiefes Aroma über Jahre."
+          },
+          {
+            "name": "In Braunglasflaschen dicht verschlossen halten — Alkoholverdunstung stoppen 🫙",
+            "text": "Alkohol verdunstet an der Luft schnell, was die Konzentration und das Geschmacksgleichgewicht verändert. 💡 Lagerungstipp: Verwenden Sie dunkle Braunglasflaschen und verschließen Sie den Deckel nach Gebrauch sofort fest."
+          },
+          {
+            "name": "Bei Sedimentbildung sanft schütteln — Sedimentmanagement 🧪",
+            "text": "Mit der Zeit oder bei kühleren Temperaturen können sich feine Vanillepartikel oder Auskristallisationen am Boden absetzen. 💡 Lagerungstipp: Das ist kein Verderb. Lassen Sie ihn auf Raumtemperatur erwärmen und schütteln Sie ihn vor Gebrauch leicht."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Kann echter Vanilleextrakt schlecht werden oder ablaufen?",
+            "answer": "Echter 100%iger Vanilleextrakt mit mindestens 35% Alkohol läuft nicht ab und verdirbt nicht, wenn er dicht verschlossen im kühlen, dunklen Schrank steht. Mit der Zeit reift sein Aroma sogar nach. Künstliches Vanillearoma ohne Alkohol hat dagegen eine Haltbarkeit von ca. 2–4 Jahren."
+          },
+          {
+            "question": "Am Flaschenboden hat sich ein Satz gebildet. Ist der Extrakt schlecht?",
+            "answer": "Nein, keineswegs! Der Satz besteht aus feinen Partikeln der Vanilleschote oder auskristallisiertem Vanillin. Schütteln Sie die Flasche vor der Verwendung einfach sanft durch."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar extrato de baunilha fresco: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para o extrato de baunilha com base em diretrizes oficiais de segurança.",
+        "authority": "FDA & USDA & MFDS & RDA",
+        "intro": "Você já guardou extrato puro de baunilha na geladeira para conservá-lo, apenas para perceber que ele ficou turvo ou perdeu o aroma? 🍨\n\nO extrato puro de baunilha é feito macerando favas de baunilha em uma solução com pelo menos 35% de álcool, que atua como um poderoso conservante natural. Refrigerar o extrato provoca condensação dentro da garrafa e faz com que a vanilina (principal composto aromático) cristalize, estragando seu perfume delicado.\n\nNeste guia, apresentamos um guia de conservação do extrato de baunilha em 3 etapas baseado em diretrizes da FDA e do USDA para preservar seu sabor de forma indefinida e segura. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender a química dos extratos alcoólicos orgânicos e a precipitação de compostos aromáticos sensíveis à temperatura é essencial para manter a qualidade na confeitaria.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca refrigere ou congele o extrato puro de baunilha 🚫",
+            "desc": "Refrigerar o extrato gera umidade por condensação na garrafa e provoca a cristalização da vanilina. Isso degrada o delicado aroma natural, tornando o armazenamento à temperatura ambiente obrigatório."
+          },
+          {
+            "title": "Mantenha longe da luz solar direta e do calor ☀️",
+            "desc": "A luz UV e o calor do fogão aceleram a evaporação do álcool e decompõem os compostos aromáticos da vanilina. Guarde em um armário escuro e fresco."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Guarde em um armário fresco e escuro — Temperatura ambiente (Indefinido) 🏺",
+            "text": "Graças ao alto teor alcoólico, o extrato puro de baunilha pode ser conservado quase indefinidamente à temperatura ambiente. 💡 Dica de conservação: Mantenha-o em uma despensa fresca e escura (15–24 °C) longe do calor. Mantém seu aroma profundo por anos."
+          },
+          {
+            "name": "Mantenha bem fechado em garrafas de vidro âmbar — Evite evaporação do álcool 🫙",
+            "text": "O álcool evapora rapidamente em contato com o ar, alterando a concentração e o equilíbrio do sabor. 💡 Dica de conservação: Use garrafas de vidro escuro ou âmbar e feche bem a tampa imediatamente após o uso."
+          },
+          {
+            "name": "Agite suavemente se formar sedimento — Gestão de sedimentos 🧪",
+            "text": "Com o tempo ou em temperaturas mais frias, pequenas partículas de baunilha ou cristais transparentes de vanilina podem se depositar no fundo. 💡 Dica de conservação: Não é deterioração. Deixe atingir a temperatura ambiente e agite suavemente antes de usar."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "O extrato puro de baunilha tem data de validade ou estraga?",
+            "answer": "O extrato 100% puro de baunilha com pelo menos 35% de álcool não expira nem estraga se mantido bem fechado em local fresco e escuro. Com o tempo, seu sabor até se aprofunda. No entanto, essências artificiais de baunilha sem álcool têm validade de 2 a 4 anos."
+          },
+          {
+            "question": "Há um sedimento no fundo da garrafa de extrato de baunilha. Estragou?",
+            "answer": "Não estragou! O sedimento é composto por finas sementes da fava de baunilha ou cristais de vanilina precipitados pelo frio. Agite suavemente a garrafa antes de usar para incorporar os aromas novamente."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Ekstrak Vanila (Vanilla Extract) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk ekstrak vanila berdasarkan pedoman keselamatan resmi.",
+        "authority": "FDA & USDA & MFDS & RDA",
+        "intro": "Pernahkah Anda menyimpan ekstrak vanila murni di dalam kulkas agar awet, tetapi mendapati warnanya menjadi keruh atau aromanya berkurang? 🍨\n\nEkstrak vanila murni dibuat dengan memaserasi polong vanila dalam larutan alkohol dengan kadar minimal 35%, yang berfungsi sebagai pengawet alami yang sangat kuat. Namun, menyimpan ekstrak vanila di kulkas memicu kondensasi di dalam botol dan mengkristalkan senyawa aroma utamanya (vanilin), sehingga merusak aroma khasnya.\n\nDalam panduan ini, kami membagikan panduan penyimpanan ekstrak vanila 3 langkah berbasis ilmiah berdasarkan pedoman FDA dan USDA untuk menjaga aromanya tetap kaya secara permanen. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami sifat kimia ekstrak organik beralkohol dan pengendapan senyawa aroma akibat perubahan suhu sangat penting untuk menjaga kualitas kue dan roti.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan pernah menyimpan ekstrak vanila murni di kulkas atau freezer 🚫",
+            "desc": "Menyimpan ekstrak vanila di kulkas memicu kondensasi air di dalam botol dan menyebabkan senyawa vanilin mengkristal. Proses ini merusak aroma vanila yang lembut, sehingga wajib disimpan di suhu ruang."
+          },
+          {
+            "title": "Jauhkan dari sinar matahari langsung dan sumber panas ☀️",
+            "desc": "Sinar UV dan hawa panas kompor mempercepat penguapan alkohol serta merusak senyawa vanilin aromatik. Simpan di dalam lemari dapur yang gelap dan sejuk."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Simpan di lemari dapur yang sejuk dan gelap — Simpan Suhu Ruang (Tak Terbatas) 🏺",
+            "text": "Berkat kandungan alkoholnya yang tinggi, ekstrak vanila murni dapat disimpan hampir tanpa batas waktu di suhu ruang. 💡 Tips Penyimpanan: Simpan di lemari dapur yang sejuk dan gelap (15–24°C) jauh dari panas dan sinar matahari. Aromanya akan tetap kaya selama bertahun-tahun."
+          },
+          {
+            "name": "Tutup rapat di dalam botol kaca gelap/amber — Cegah Penguapan Alkohol 🫙",
+            "text": "Alkohol mudah menguap jika terpapar udara, mengubah konsentrasi dan keseimbangan rasa. 💡 Tips Penyimpanan: Gunakan botol kaca gelap atau amber dan segera tutup rapat setelah digunakan untuk mencegah kontak udara."
+          },
+          {
+            "name": "Kocok perlahan jika terbentuk endapan — Kelola Endapan 🧪",
+            "text": "Seiring waktu atau pada suhu ruang yang lebih dingin, butiran halus vanila atau kristal vanilin transparan dapat mengendap di dasar botol. 💡 Tips Penyimpanan: Ini bukan tanda pembusukan. Biarkan mencapai suhu ruang dan kocok perlahan sebelum digunakan."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah ekstrak vanila murni memiliki tanggal kedaluwarsa atau bisa basi?",
+            "answer": "Ekstrak 100% vanila murni dengan kadar alkohol minimal 35% tidak memiliki tanggal kedaluwarsa dan tidak akan basi jika ditutup rapat di tempat sejuk dan gelap. Aromanya justru semakin matang dan kaya seiring waktu. Namun, perisa vanila buatan tanpa alkohol memiliki masa simpan terbatas sekitar 2–4 tahun."
+          },
+          {
+            "question": "Ada endapan di dasar botol ekstrak vanila saya. Apakah sudah basi?",
+            "answer": "Sama sekali tidak basi! Endapan tersebut adalah serbuk halus biji vanila atau kristal vanilin yang mengendap akibat suhu dingin. Cukup kocok botol perlahan sebelum digunakan untuk menyatukan kembali aromanya."
+          }
+        ]
+      }
     }
+  }
 }

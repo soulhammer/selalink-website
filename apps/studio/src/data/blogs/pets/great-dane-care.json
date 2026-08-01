@@ -1,459 +1,459 @@
 {
-    "great-dane-care": {
-        "pubDate": "2026-04-08",
-        "updatedDate": "2026-04-08",
-        "locales": {
-            "ko": {
-                "title": "그레이트 데인 위염전(GDV) 예방 식사법과 관절 보호·온순한 성품 길러주는 3단계 일상 루틴",
-                "description": "'온순한 거인' 초대형견 그레이트 데인의 핵심 케어법. 치명적인 위염전(위비틀림) 예방 식사 수칙과 급성장기 관절 보호, 온화한 성품 유지를 위한 3단계 가이드라인을 제공합니다.",
-                "authority": "미국 그레이트 데인 클럽(GDCA) 케어 가이드라인 및 미국 켄넬 클럽(AKC) 수의학 임상 표준",
-                "profile": {
-                    "breed": "그레이트 데인 (Great Dane)",
-                    "lifespan": "7 ~ 10년",
-                    "sleep_pattern": "12 ~ 14시간 (초대형견 - 신체 부하를 줄이기 위한 깊은 수면)",
-                    "temperament": "온순함, 우아함, 충성스러움, 친근함, 인내심 있음"
-                },
-                "intro": "그레이트 데인은 거대한 체구와 달리 성품이 매우 온화하여 '온순한 거인(Gentle Giant)'이라는 별명으로 전 세계 대형견 애호가들의 사랑을 받는 초대형견입니다. 그러나 초대형 체격 특성상 신체 급성장기에 관절 부하가 심하며, 생명을 위협하는 응급 질환인 위염전(GDV, 위비틀림) 발병률이 높아 과학적이고 정교한 관리 수칙이 필수적입니다. 또한 체구가 큰 만큼 어릴 때부터 일관되고 온화한 사회화 교육이 이뤄져야 타인 및 타 동물과 안전하게 공존할 수 있습니다. 이번 가이드에서는 그레이트 데인의 고유한 애정 표현 시그널을 분석하고, 위염전 예방과 관절 건강, 온화한 성품 유지를 위한 3단계 일상 루틴을 공개합니다.",
-                "whyTitle": "그레이트 데인의 본능: 몸 기대기(Dane Lean)와 다정한 스킨십 시그널",
-                "whyDesc": "그레이트 데인은 거대한 몸집을 보호자의 다리나 몸에 지그시 기대는 **'그레이트 데인 리닝(Great Dane Lean)'**이라는 독특한 애정 표현을 합니다. 이는 단순한 체중 쏠림이 아니라 강한 유대감과 심리적 안정을 갈구하는 고유의 언어입니다. 또한 보호자의 손이나 몸을 주둥이로 살포시 밀어내는 동작은 교감과 다정한 관심을 요청하는 평화로운 신호입니다.",
-                "body_signals": [
-                    {
-                        "name": "몸 지그시 기대기 (Great Dane Lean)",
-                        "meaning": "보호자의 다리나 몸에 체중을 살짝 얹어 기대는 행위로, 강력한 애정과 신뢰를 바탕으로 보호자의 체온을 느끼며 안도감을 찾으려는 친밀함의 표시입니다.",
-                        "response": "갑자기 밀쳐내지 말고 차분하게 몸을 맞춰주며 다정하게 쓸어내려 주어 심리적 안정감을 느끼게 해줍니다."
-                    },
-                    {
-                        "name": "주둥이로 살포시 밀기 (Gentle Nudging)",
-                        "meaning": "보호자의 손이나 무릎을 주둥이로 살짝 밀어 올리는 행동으로, 부드러운 스킨십과 관심을 요청하는 겸손하고 온순한 교감 신호입니다.",
-                        "response": "차분한 목소리로 응답하며 부드럽게 다듬어주어 온화한 성품을 긍정적으로 강화해 줍니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 위염전(GDV) 예방 식사 수칙 및 가벼운 평지 산책",
-                        "text": "식사 직전·직후 고강도 운동을 엄격히 금지하고, 천천히 먹는 슬로우 식기를 활용해 식사 후 최소 1시간은 정적인 휴식을 취하게 한 뒤 가벼운 평지 산책을 진행합니다."
-                    },
-                    {
-                        "name": "낮: 관절 부담을 줄이는 낮잠 및 체중·피부 점검",
-                        "text": "체중 집중으로 인한 관절 염증과 혹(팔꿈치 굳은살)을 방지하기 위해 정형외과용 고밀도 쿠션을 제공하고, 적정 체중 유지 상태를 점검합니다."
-                    },
-                    {
-                        "name": "밤: 온화한 사회화 긍정 강화 및 정서적 안정 교감",
-                        "text": "거대한 체구에 맞춘 차분한 복종 훈련과 긍정 강화 교육을 복습하고, 몸 기대기 스킨십을 통해 편안한 수면 환경을 조성합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "그레이트 데인에게 치명적인 위염전(GDV, 위비틀림)은 어떻게 예방해야 하나요?",
-                        "answer": "식사를 너무 빠르게 흡입하지 않도록 슬로우 식기를 사용하고, 하루 2~3회 분할 급식을 권장합니다. 특히 식사 전후 1시간 동안은 격렬한 뛰기나 운동을 절대 금지하고, 급식 후 차분히 엎드려 쉬게 하는 것이 가장 핵심적인 예방 수칙입니다."
-                    },
-                    {
-                        "question": "아파트나 실내 공간에서도 그레이트 데인을 안전하게 키울 수 있나요?",
-                        "answer": "성견 그레이트 데인은 실내에서 매우 조용하고 활동량이 적어 '소파 위의 거인'이라 불릴 만큼 실내 적응력이 뛰어납니다. 다만 몸을 자유롭게 펼칠 수 있는 충분한 공간과 고밀도 관절 매트가 필수적이며, 매일 규칙적인 산책을 통해 욕구를 해소해 주어야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Great Dane GDV Prevention Feeding Guide and 3-Step Care Routine for Joint Protection & Gentle Temperament",
-                "description": "Essential care for the 'Gentle Giant' Great Dane. Learn strict feeding guidelines to prevent fatal Bloat (GDV), protect joint health during rapid growth, and foster a calm temperament.",
-                "authority": "Great Dane Club of America (GDCA) Care Guidelines and American Kennel Club (AKC) Veterinary Clinical Standards",
-                "profile": {
-                    "breed": "Great Dane",
-                    "lifespan": "7 - 10 Years",
-                    "sleep_pattern": "12 - 14 Hours (Giant Breed - Deep Rest to Reduce Physical Stress)",
-                    "temperament": "Gentle, Elegant, Devoted, Friendly, Patient"
-                },
-                "intro": "Despite their imposing size, Great Danes are celebrated globally as 'Gentle Giants' due to their remarkably mild and loving nature. However, as a giant breed, they experience rapid skeletal growth that places heavy stress on their joints, and they face a dangerously high risk of Gastric Dilatation-Volvulus (GDV or Bloat), a life-threatening emergency. Precise, evidence-based care standards are therefore vital. Furthermore, given their physical strength, gentle and consistent socialization from puppyhood is imperative for safe coexistence with people and other animals. In this guide, we analyze the Great Dane's unique bonding signals and outline a 3-step routine for GDV prevention, joint integrity, and balanced temperament.",
-                "whyTitle": "Great Dane Instincts: The 'Dane Lean' and Gentle Contact Signals",
-                "whyDesc": "Great Danes exhibit a unique affection signal known as the **'Great Dane Lean'**, where they gently rest their massive body weight against their owner's legs or torso. This is not laziness, but a profound expression of trust and a search for emotional security. Similarly, gently pushing their snout against their owner's hands is a peaceful request for connection and affection.",
-                "body_signals": [
-                    {
-                        "name": "The Great Dane Lean",
-                        "meaning": "Leaning their body weight against their owner's legs, expressing deep trust, affection, and a desire for physical closeness and security.",
-                        "response": "Avoid pushing them away abruptly; adjust your stance calmly and offer gentle strokes to reinforce emotional security."
-                    },
-                    {
-                        "name": "Gentle Nudging",
-                        "meaning": "Lightly pushing their snout against your hand or knee, serving as a polite and gentle request for affection and interaction.",
-                        "response": "Acknowledge them with a calm voice and soft petting to positively reinforce their gentle and polite behavior."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: GDV Prevention Feeding & Gentle Flat-Surface Walk",
-                        "text": "Strictly avoid high-intensity exercise 1 hour before and after meals. Use a slow-feeder bowl and ensure at least 1 hour of quiet rest post-meal before a gentle walk on flat ground."
-                    },
-                    {
-                        "name": "Afternoon: Joint-Relief Rest & Weight/Skin Inspection",
-                        "text": "Provide high-density orthopedic bedding to prevent joint inflammation and pressure sores (elbow calluses) caused by heavy body weight, and monitor ideal body condition."
-                    },
-                    {
-                        "name": "Evening: Positive Reinforcement Socialization & Calm Bonding",
-                        "text": "Review calm obedience exercises suited for giant breeds, and engage in quiet leaning affection to create a soothing environment for sleep."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "How can Gastric Dilatation-Volvulus (GDV / Bloat) be prevented in Great Danes?",
-                        "answer": "Prevent rapid bolting of food by using slow-feeder bowls and dividing daily rations into 2–3 smaller meals. Crucially, strictly enforce quiet rest for at least 1 hour before and after feeding—avoiding all vigorous running or play."
-                    },
-                    {
-                        "question": "Can a Great Dane live comfortably in an apartment or indoor space?",
-                        "answer": "Yes. Adult Great Danes are surprisingly low-energy indoors and are often called 'couch potatoes.' However, they require orthopedic beds, sufficient room to stretch fully, and daily moderate outdoor walks to meet their physical needs."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "グレート・デーンの胃捻転（GDV）予防食と関節保護・穏やかな性格を育む3ステップ日常ルーティン",
-                "description": "「優しい巨人」超大型犬グレート・デーンの必須ケア法。命に関わる胃捻転（GDV）の予防食事ルール、急成長期の関節保護、穏やかな性格を維持する3ステップガイドを解説します。",
-                "authority": "全米グレート・デーン・クラブ（GDCA）ケアガイドラインおよびアメリカンケネルクラブ（AKC）獣医臨床基準",
-                "profile": {
-                    "breed": "グレート・デーン (Great Dane)",
-                    "lifespan": "7 〜 10年",
-                    "sleep_pattern": "12 〜 14時間 (超大型犬 - 身体への負担を減らす深い睡眠)",
-                    "temperament": "穏やか、優雅、忠実、フレンドリー、忍耐強い"
-                },
-                "intro": "グレート・デーンはその巨大な体躯とは裏腹に極めて穏やかな性格をしており、「優しい巨人（Gentle Giant）」の愛称で世界中の大型犬ファンから愛されています。しかし超大型犬という骨格上、成長期の関節負荷が大きく、命を脅かす緊急疾患である「胃拡大・胃捻転症候群（GDV）」の発症率が高いため、 scientific かつ緻密な管理基準が不可欠です。また体が大きい分、幼少期からの優しく一貫した社会化訓練が周囲と safe に共生するための鍵となります。本日は本記事では、グレート・デーン独自の愛情表現シグナルを分析し、胃捻転予防・関節の健康・穏やかな性格維持のための3ステップ日常ルーティンを公開します。",
-                "whyTitle": "グレート・デーンの本能：体に寄りかかる動作（Dane Lean）と優しいコミュニケーション",
-                "whyDesc": "グレート・デーンは、その大きな体を飼い主の足や体にそっと預ける**「グレート・デーン・リーン（Great Dane Lean）」**という独特の愛情表現を行います。これは単に体重をかけているのではなく、強い信頼と安心感を求めている固有の言語です。また、手や膝を鼻先で優しく押し上げる動作は、スキンシップを求める穏やかな合図です。",
-                "body_signals": [
-                    {
-                        "name": "体にそっと寄りかかる (Great Dane Lean)",
-                        "meaning": "飼い主の足や体に体重を預ける行動で、深い愛情と信頼に基づき、飼い主の体温を感じて安心を得ようとする親密さの表示です。",
-                        "response": "急に突き放さず、静かに体を支えて優しく撫でてあげることで心理的安定感を与えます。"
-                    },
-                    {
-                        "name": "鼻先で優しく押す (Gentle Nudging)",
-                        "meaning": "飼い主の手や膝を鼻先で軽く押し上げる行動で、優しく撫でてほしい、関心を示してほしいという控えめなアピールです。",
-                        "response": "落ち着いた声で応え、優しく撫でてあげることで、その穏やかな性格をポジティブに強化します。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：胃捻転（GDV）予防の食事管理と平地での軽い散歩",
-                        "text": "食前食後の激しい運動を厳禁とし、早食い防止食器を使用します。食後は最低1時間静かに休ませてから、平地での軽い散歩を行います。"
-                    },
-                    {
-                        "name": "昼：関節への負担を減らす昼寝と体重・皮膚チェック",
-                        "text": "体重による関節炎や肘のタコを予防するため高密度の整形外科用クッションを提供し、適正体重が維持されているか確認します。"
-                    },
-                    {
-                        "name": "夜：穏やかな社会化のポジティブ強化と安心感のあるスキンシップ",
-                        "text": "巨体に適した落ち着いた服従訓練を復習し、体に寄りかかるスキンシップを通じてリラックスした睡眠環境を整えます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "グレート・デーンの命に関わる胃捻転（GDV）はどのように予防すべきですか？",
-                        "answer": "一気にご飯を飲み込まないようスローフード食器を使い、1日2〜3回に分けて給餌します。特に食前食後の1時間は走ったり遊んだりすることを厳禁とし、食後は落ち着いて伏せらせて休ませることが最も重要な予防策です。"
-                    },
-                    {
-                        "question": "マンションなどの室内でもグレート・デーンを安全に飼うことができますか？",
-                        "answer": "成犬のグレート・デーンは室内では非常に静かで活動量が少なく、「ソファーの上の巨人」と呼ばれるほど室内適応が高いです。ただし、体を自由に伸ばせる十分なスペースと高密度の関節マットが必須であり、毎日の規則的な散歩で運動欲求を満たす必要があります。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "大丹犬胃扭转(GDV)预防喂养指南与关节保护·温和性格培养3阶段日常护理流程",
-                "description": "“温柔的巨人”超大型犬大丹犬的核心护理指南。提供预防致命性胃扭转(GDV)的饮食守则、猛长期关节保护以及维持温和性格的3阶段护理流程。",
-                "authority": "美国大丹犬协会 (GDCA) 护理指南与美国犬业俱乐部 (AKC) 兽医临床标准",
-                "profile": {
-                    "breed": "大丹犬 (Great Dane)",
-                    "lifespan": "7 ~ 10年",
-                    "sleep_pattern": "12 ~ 14小时 (超大型犬 - 减少身体负荷的深度睡眠)",
-                    "temperament": "温和、优雅、忠诚、友善、有耐心"
-                },
-                "intro": "大丹犬虽然体型庞大，但性格却极其温顺，因而获得了“温柔的巨人（Gentle Giant）”的美誉，深受全球大型犬爱好者的喜爱。然而作为超大型犬，其骨骼在急速成长阶段承受着极大的关节压力，且急性致命疾病——胃扩张-胃扭转症候群（GDV）的发病率极高，因此必须遵循科学严谨的护理标准。同时，鉴于其强大的体格，从小开展温和且一致的社会化训练是与人和其它动物安全共处的前提。本指南将解析大丹犬独特的表达爱意的信号，并公开预防GDV、保护关节及维持温和性格的3阶段日常护理流程。",
-                "whyTitle": "大丹犬的本能：倚靠身体(Dane Lean)与温和的抚摸信号",
-                "whyDesc": "大丹犬拥有独特的表达爱意的方式——**“大丹犬倚靠（Great Dane Lean）”**，即将其庞大的身体轻轻倚靠在主人的腿部或身体上。这并非偷懒，而是基于高度信任与寻求心理安全感的高级肢体语言。此外，用吻部轻轻拱主人的手，也是表达和平、索求关爱的信号。",
-                "body_signals": [
-                    {
-                        "name": "身体轻轻倚靠 (Great Dane Lean)",
-                        "meaning": "将体重轻倚在主人腿上，建立在极高的信任与依恋之上，试图通过感受主人的体温来获得心理上的安宁。",
-                        "response": "切勿突然推开，保持身体稳定并温柔地抚摸它们，为其提供充分的安全感。"
-                    },
-                    {
-                        "name": "用嘴轻拱 (Gentle Nudging)",
-                        "meaning": "用吻部轻轻抬起主人的手或膝盖，属于一种礼貌、温和地索取抚摸与关注的交流信号。",
-                        "response": "用温和的声音回应并轻轻梳理其毛发，正面强化其温顺有礼的行为。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：胃扭转(GDV)预防喂养守则与平地慢走",
-                        "text": "进食前后1小时内严禁剧烈运动。使用慢食碗喂食，饭后确保其静卧休息至少1小时，随后进行平地散步。"
-                    },
-                    {
-                        "name": "中午：减轻关节负担的午休与体重·皮肤检查",
-                        "text": "使用高密度矫形狗垫，防止因体重压迫导致的关节炎与肘部老茧，同时监测体脂，维持理想体重。"
-                    },
-                    {
-                        "name": "晚上：温和社会化正面强化与情感陪伴",
-                        "text": "复习适合大型犬的平静服从性训练，通过身体倚靠等肢体互动建立安全感，营造舒适的睡眠环境。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "如何预防大丹犬致命的胃扭转(GDV)？",
-                        "answer": "使用慢食碗防止狼吞虎咽，建议每日少食多餐（分2-3次喂食）。最核心的规则是：进食前后1小时内绝对禁止奔跑或剧烈运动，饭后必须让其保持安静卧休息。"
-                    },
-                    {
-                        "question": "公寓或室内空间可以安全饲养大丹犬吗？",
-                        "answer": "成年大丹犬在室内非常安静且活动量低，有着“沙发上的巨人”之称，室内适应力极佳。但前提是必须为其提供能完全舒展身体的足够空间和高密度护关节垫，并保证每日规律的户外散步。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Guía de alimentación para prevenir la torsión gástrica (GDV) en el Gran Danés y rutina de 3 pasos para la protección articular",
-                "description": "Cuidados esenciales para el Gran Danés, el 'Gigante Gentil'. Conozca las pautas estrictas para prevenir la mortal torsión de estómago (GDV), proteger sus articulaciones y mantener un carácter dócil.",
-                "authority": "Directrices de Cuidado del Great Dane Club of America (GDCA) y Estándares Clínicos Veterinarios del American Kennel Club (AKC)",
-                "profile": {
-                    "breed": "Gran Danés (Great Dane)",
-                    "lifespan": "7 ~ 10 años",
-                    "sleep_pattern": "12 ~ 14 horas (raza gigante: descanso profundo para reducir el estrés corporal)",
-                    "temperament": "Gentil, elegante, devoto, amigable, paciente"
-                },
-                "intro": "A pesar de su imponente tamaño, el Gran Danés es conocido mundialmente como el 'Gigante Gentil' debido a su carácter extremadamente dulce y afectuoso. Sin embargo, su rápido crecimiento óseo genera una gran presión sobre las articulaciones, y enfrenta un riesgo severo de Torsión y Dilatación Gástrica (GDV), una urgencia veterinaria mortal. Por ello, es vital seguir estándares de cuidado precisos y científicos. Además, dada su fuerza física, una socialización temprana y constante es imprescindible para una convivencia segura. En esta guía, analizamos sus señales de afecto y presentamos una rutina de 3 pasos para prevenir la GDV y cuidar su salud articular.",
-                "whyTitle": "Instintos del Gran Danés: El 'Dane Lean' y las señales de contacto suave",
-                "whyDesc": "Los Grandes Daneses muestran una forma única de afecto conocida como el **'Great Dane Lean'**, que consiste en apoyar suavemente el peso de su cuerpo contra las piernas de su dueño. No se trata de pereza, sino de un profundo gesto de confianza y búsqueda de seguridad emocional. Del mismo modo, empujar suavemente con el hocico es una petición pacífica de contacto y cariño.",
-                "body_signals": [
-                    {
-                        "name": "Apoyar el cuerpo (Great Dane Lean)",
-                        "meaning": "Recostarse contra las piernas del dueño para sentir su calor corporal, demostrando un profundo afecto, confianza y búsqueda de tranquilidad.",
-                        "response": "Evite apartarlo bruscamente; mantenga la postura con calma y acarícielo suavemente para aportarle seguridad emocional."
-                    },
-                    {
-                        "name": "Empujón suave con el hocico (Gentle Nudging)",
-                        "meaning": "Levantar ligeramente la mano o la rodilla del dueño con su trufa, lo que representa una solicitud educada y dócil de caricias.",
-                        "response": "Responda con voz pausada y caricias suaves para reforzar de manera positiva su comportamiento respetuoso."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Alimentación anti-GDV y paseo suave por terreno plano",
-                        "text": "Prohíba el ejercicio intenso 1 hora antes y después de comer. Utilice comederos de alimentación lenta y asegure 1 hora de reposo tras la comida antes del paseo."
-                    },
-                    {
-                        "name": "Tarde: Descanso para aliviar articulaciones y control de peso/piel",
-                        "text": "Proporcione camas ortopédicas de alta densidad para evitar bursitis o durezas en los codos por el peso corporal, y supervise su peso ideal."
-                    },
-                    {
-                        "name": "Noche: Refuerzo positivo de socialización y descanso tranquilo",
-                        "text": "Repase ejercicios de obediencia calmada adecuados para razas gigantes y comparta momentos de afecto pausado para favorecer un sueño reparador."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Cómo se puede prevenir la mortal Torsión Gástrica (GDV) en el Gran Danés?",
-                        "answer": "Utilice comederos de ralentización para evitar que engulla la comida y divida la ración diaria en 2 o 3 tomas. La regla más crítica es mantener al perro en reposo absoluto durante al menos 1 hora antes y después de cada comida, evitando carreras y juegos."
-                    },
-                    {
-                        "question": "¿Puede un Gran Danés vivir en un piso o apartamento?",
-                        "answer": "Sí. Los Grandes Daneses adultos son sorprendentemente tranquilos en interiores y a menudo se les considera 'perros de sofá'. Sin embargo, requieren camas ortopédicas amplias, espacio para estirarse por completo y paseos diarios regulares."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Guide d'alimentation anti-retournement d'estomac (GDV) du Grand Danois et routine en 3 étapes pour la protection articulaire",
-                "description": "Soins essentiels pour le 'Gentil Géant', le Grand Danois. Découvrez les règles nutritionnelles strictes pour prévenir la dilatation-torsion de l'estomac (GDV) et protéger ses articulations.",
-                "authority": "Directives de soin du Great Dane Club of America (GDCA) et normes vétérinaires de l'American Kennel Club (AKC)",
-                "profile": {
-                    "breed": "Grand Danois (Great Dane)",
-                    "lifespan": "7 ~ 10 ans",
-                    "sleep_pattern": "12 ~ 14 heures (race géante : repos profond pour réduire le stress corporel)",
-                    "temperament": "Doux, élégant, dévoué, amical, patient"
-                },
-                "intro": "Malgré sa stature impressionnante, le Grand Danois est surnommé le 'Gentil Géant' à travers le monde en raison de sa nature affectueuse et paisible. Cependant, en tant que chien géant, sa croissance osseuse rapide impose une forte pression sur ses articulations, et il présente un risque très élevé de Dilatation-Torsion de l'Estomac (GDV), une urgence vétérinaire vitale. Des normes de soin scientifiques et rigoureuses sont donc indispensables. De plus, une socialisation précoce et bienveillante est requise pour garantir une cohabitation harmonieuse. Dans ce guide, décrypte ses signaux d'affection et vous présente une routine en 3 étapes pour prévenir la GDV et préserver sa santé articulaire.",
-                "whyTitle": "Instincts du Grand Danois : L'adossement (Dane Lean) et les contacts doux",
-                "whyDesc": "Le Grand Danois exprime son affection par un comportement unique appelé le **'Great Dane Lean'**, qui consiste à appuyer doucement tout son poids contre les jambes de son maître. Ce n'est pas de la paresse, mais un témoignage de confiance et une recherche de réconfort. De même, pousser délicatement la main de son maître avec son museau est une demande paisible d'attention.",
-                "body_signals": [
-                    {
-                        "name": "S'adosser contre son maître (Great Dane Lean)",
-                        "meaning": "Appuyer son poids contre les jambes du maître pour chercher sa chaleur et son réconfort, manifestant un attachement et une confiance profonds.",
-                        "response": "Ne le repoussez pas brusquement ; gardez un équilibre stable et caressez-le doucement pour lui transmettre de la sérénité."
-                    },
-                    {
-                        "name": "Coup de museau délicat (Gentle Nudging)",
-                        "meaning": "Pousser légèrement la main ou le genou du maître avec la truffe pour solliciter des caresses de manière polie et réservée.",
-                        "response": "Répondez d'une voix calme et par de douces caresses afin de renforcer positivement son tempérament paisible."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Alimentation anti-GDV et promenade calme sur terrain plat",
-                        "text": "Interdisez tout exercice physique 1 heure avant et après le repas. Utilisez une gamelle anti-glouton et observez 1 heure de repos absolu après manger avant la promenade."
-                    },
-                    {
-                        "name": "Après-midi : Repos articulaire et contrôle du poids et de la peau",
-                        "text": "Mettez à sa disposition un matelas orthopédique haute densité pour éviter les durillons et l'inflammation des coudes dus au poids, et surveillez son poids de forme."
-                    },
-                    {
-                        "name": "Soir : Éducation positive douce et moments de complicité",
-                        "text": "Révisez des exercices d'obéissance calmes adaptés aux chiens géants et partagez un moment de contact paisible pour favoriser un sommeil réparateur."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Comment prévenir la Dilatation-Torsion de l'Estomac (GDV) chez le Grand Danois ?",
-                        "answer": "Utilisez une gamelle anti-glouton pour ralentir la prise alimentaire et fractionnez la ration quotidienne en 2 à 3 repas. La règle essentielle est d'imposer un repos complet au moins 1 heure avant et après chaque repas, en proscrivant les courses et sauts."
-                    },
-                    {
-                        "question": "Le Grand Danois peut-il vivre en appartement ?",
-                        "answer": "Oui. À l'âge adulte, le Grand Danois est très calme en intérieur et apprécie les longues siestes. Il nécessite toutefois un panier orthopédique de grande taille, un espace suffisant pour s'étendre et des promenades quotidiennes régulières."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Deutsche Dogge Magendrehung (GDV) Präventions-Leitfaden und 3-Schritt-Tagesroutine für Gelenkschutz & sanftes Wesen",
-                "description": "Essenzielle Pflege für den 'Sanftmütigen Riesen', die Deutsche Dogge. Fütterungsregeln zur Vorbeugung der lebensgefährlichen Magendrehung (GDV) und Tipps für gesunde Gelenke.",
-                "authority": "Care-Richtlinien des Great Dane Club of America (GDCA) und klinische Standards des American Kennel Club (AKC)",
-                "profile": {
-                    "breed": "Deutsche Dogge (Great Dane)",
-                    "lifespan": "7 ~ 10 Jahre",
-                    "sleep_pattern": "12 ~ 14 Stunden (Riesenrasse - tiefe Ruhephasen zur Entlastung)",
-                    "temperament": "Sanftmütig, elegant, treu, freundlich, geduldig"
-                },
-                "intro": "Trotz ihrer imposanten Größe ist die Deutsche Dogge als 'sanftmütiger Riese' weltweit für ihr liebevolles und ruhiges Gemüt bekannt. Als Riesenrasse wächst sie jedoch extrem schnell, was eine enorme Belastung für die Gelenke bedeutet. Zudem hat sie ein hohes Risiko für die lebensbedrohliche Magendrehung (GDV), weshalb wissenschaftlich fundierte Pflegestandards unerlässlich sind. Wegen ihrer Körperkraft ist zudem eine konsequente, liebevolle Sozialisierung von klein auf wichtig. Heute analysiert  die einzigartigen Körpersignale der Deutschen Dogge und zeigt eine 3-Schritt-Routine für GDV-Prävention und Gelenkgesundheit.",
-                "whyTitle": "Instinkte der Deutschen Dogge: Das Anlehnen ('Dane Lean') und sanfte Kontaktsignale",
-                "whyDesc": "Deutsche Doggen zeigen eine ganz besondere Form der Zuneigung, das sogenannte **'Great Dane Lean'**: Sie lehnen ihr gesamtes Körpergewicht sanft an die Beine ihres Halters. Dies ist kein Zeichen von Faulheit, sondern ein tiefes Vertrauenssignal. Auch das sanfte Anstupsen mit der Schnauze ist eine friedliche Bitte um Aufmerksamkeit.",
-                "body_signals": [
-                    {
-                        "name": "Sanftes Anlehnen (Great Dane Lean)",
-                        "meaning": "Anlehnen des Körpergewichts an die Beine des Halters, um Körperwärme zu spüren und Sicherheit sowie tiefe Zuneigung auszudrücken.",
-                        "response": "Drücken Sie den Hund nicht abrupt weg; bewahren Sie einen stabilen Stand und streicheln Sie ihn ruhig für emotionale Sicherheit."
-                    },
-                    {
-                        "name": "Sanftes Anstupsen mit der Schnauze (Gentle Nudging)",
-                        "meaning": "Leichtes Hochdrücken der Hand oder des Knies mit der Schnauze als höfliche Bitte um Zuwendung und Streicheleinheiten.",
-                        "response": "Antworten Sie mit ruhiger Stimme und sanftem Streicheln, um dieses freundliche Verhalten positiv zu verstärken."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: GDV-Präventionsfütterung & ruhiger Spaziergang auf ebenem Boden",
-                        "text": "Vermeiden Sie 1 Stunde vor und nach dem Füttern jegliche Anstrengung. Nutzen Sie Anti-Schling-Näpfe und halten Sie eine einstündige Ruhephase vor dem Spaziergang ein."
-                    },
-                    {
-                        "name": "Nachmittag: Gelenkschonende Ruhephase & Gewichtskontrolle",
-                        "text": "Bieten Sie orthopädische Hundebetten an, um Liegeschwielen und Gelenkentzündungen vorzubeugen, und achten Sie auf das Idealgewicht."
-                    },
-                    {
-                        "name": "Abend: Sanfte Sozialisierung & ruhiges Entspannungstraining",
-                        "text": "Wiederholen Sie ruhige Gehorsamsübungen und genießen Sie entspannte Anlehn-Momente, um eine förderliche Schlafumgebung zu schaffen."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Wie kann einer lebensgefährlichen Magendrehung (GDV) bei der Deutschen Dogge vorgebeugt werden?",
-                        "answer": "Verwenden Sie Anti-Schling-Näpfe und teilen Sie die Tagesration auf 2 bis 3 Mahlzeiten auf. Die wichtigste Regel lautet: Mindestens 1 Stunde vor und nach dem Fressen absolute Ruhe einhalten – kein Toben oder Rennen."
-                    },
-                    {
-                        "question": "Kann eine Deutsche Dogge in einer Wohnung gehalten werden?",
-                        "answer": "Ja. Ausgewachsene Deutsche Doggen sind im Haus sehr ruhig und werden oft als 'Couch-Potatoes' bezeichnet. Sie benötigen jedoch ein großes orthopädisches Bett, ausreichend Platz zum Ausstrecken und tägliche Spaziergänge."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Guia de alimentação para prevenção de torção gástrica (GDV) no Dogue Alemão e rotina de 3 passos para proteção articular",
-                "description": "Cuidados essenciais para o 'Gigante Gentil', o Dogue Alemão. Aprenda regras de alimentação para evitar a torção gástrica (GDV) e estratégias para proteger as articulações.",
-                "authority": "Diretrizes de Cuidado do Great Dane Club of America (GDCA) e Padrões Clínicos Veterinários do American Kennel Club (AKC)",
-                "profile": {
-                    "breed": "Dogue Alemão (Great Dane)",
-                    "lifespan": "7 ~ 10 anos",
-                    "sleep_pattern": "12 ~ 14 horas (raça gigante: descanso profundo para aliviar o corpo)",
-                    "temperament": "Gentil, elegante, devotado, amigável, paciente"
-                },
-                "intro": "Apesar do seu porte impressionante, o Dogue Alemão é conhecido mundialmente como o 'Gigante Gentil' devido ao seu temperamento afetuoso e calmo. Como raça gigante, o seu crescimento rápido coloca grande pressão sobre as articulações, além de ter uma elevada predisposição para a Torção e Dilatação Gástrica (GDV), uma emergência médica fatal. Seguir padrões de cuidado científicos é crucial. Adicionalmente, uma socialização precoce e positiva é fundamental para uma convivência segura. Neste guia, analisamos os seus sinais de afeto e revelamos uma rotina de 3 passos para prevenção de GDV e saúde articular.",
-                "whyTitle": "Instintos do Dogue Alemão: O ato de encostar o corpo (Dane Lean) e contactos suaves",
-                "whyDesc": "Os Dogues Alemães possuem uma forma única de demonstrar afeto conhecida como **'Great Dane Lean'**, que consiste em encostar suavemente o peso do seu corpo contra as pernas do tutor. Isso não é preguiça, mas uma profunda demonstração de confiança e busca por segurança. Da mesma forma, empurrar suavemente com o focinho é um pedido calmo de atenção.",
-                "body_signals": [
-                    {
-                        "name": "Encostar o corpo (Great Dane Lean)",
-                        "meaning": "Apoiar o peso do corpo contra o tutor para sentir o seu calor, expressando forte apego, confiança e busca por tranquilidade.",
-                        "response": "Não o empurre bruscamente; mantenha uma postura estável e faça festas suaves para lhe dar segurança emocional."
-                    },
-                    {
-                        "name": "Toque suave com o focinho (Gentle Nudging)",
-                        "meaning": "Empurrar levemente a mão ou joelho do tutor com o focinho, funcionando como um pedido educado de carinho.",
-                        "response": "Responda com voz calma e carinho suave para reforçar positivamente o seu comportamento dócil."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Alimentação anti-GDV e passeio calmo em terreno plano",
-                        "text": "Proíba exercícios intensos 1 hora antes e depois de comer. Utilize tigelas de alimentação lenta e garanta 1 hora de repouso pós-refeição antes do passeio."
-                    },
-                    {
-                        "name": "Tarde: Repouso para alívio articular e controlo de peso e pele",
-                        "text": "Disponibilize camas ortopédicas de alta densidade para evitar bursites nos cotovelos causadas pelo peso, e monitorize o peso ideal."
-                    },
-                    {
-                        "name": "Noite: Socialização com reforço positivo e descanso tranquilo",
-                        "text": "Revise exercícios de obediência calma adaptados a cães gigantes e desfrute de momentos de afeto suave para promover um sono reparador."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Como prevenir a fatal Torção Gástrica (GDV) no Dogue Alemão?",
-                        "answer": "Utilize recipientes de alimentação lenta para evitar que o cão coma rápido demais e divida a ração diária em 2 a 3 refeições. A regra de ouro é manter o cão em repouso absoluto pelo menos 1 hora antes e depois de comer."
-                    },
-                    {
-                        "question": "O Dogue Alemão pode viver num apartamento?",
-                        "answer": "Sim. Os Dogues Alemães adultos são extremamente calmos dentro de casa e gostam de descansar. Contudo, necessitam de uma cama ortopédica grande, espaço para se esticarem e passeios diários regulares."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Panduan Makanan Pencegahan Volvulus Dilatasi Lambung (GDV) Great Dane dan Rutinitas 3 Langkah Perawatan Sendi",
-                "description": "Perawatan esensial untuk 'Gentle Giant' Great Dane. Pelajari panduan makan ketat untuk mencegah penyakit mematikan GDV (lambung terbalik) dan menjaga kesehatan sendi.",
-                "authority": "Panduan Perawatan Great Dane Club of America (GDCA) dan Standar Klinis Dokter Hewan American Kennel Club (AKC)",
-                "profile": {
-                    "breed": "Great Dane",
-                    "lifespan": "7 ~ 10 tahun",
-                    "sleep_pattern": "12 ~ 14 jam (ras raksasa - istirahat dalam untuk mengurangi beban tubuh)",
-                    "temperament": "Lembut, anggun, setia, ramah, sabar"
-                },
-                "intro": "Meskipun memiliki ukuran tubuh yang sangat besar, Great Dane dikenal di seluruh dunia sebagai 'Gentle Giant' (Raksasa Lembut) karena sifatnya yang sangat tenang dan penyayang. Namun sebagai ras raksasa, pertumbuhannya yang cepat memberikan tekanan besar pada sendi, dan mereka berisiko tinggi terkena penyakit gawat darurat Volvulus Dilatasi Lambung (GDV/lambung terbalik). Oleh karena itu, panduan perawatan yang ilmiah sangat penting. Selain itu, sosialisasi yang lembut sejak dini wajib dilakukan untuk menjaga keamanan. Dalam panduan ini, kami menganalisis sinyal kasih sayang khas Great Dane dan membagikan 3 langkah rutinitas harian untuk pencegahan GDV dan kesehatan sendi.",
-                "whyTitle": "Insting Great Dane: Perilaku Menyandarkan Tubuh (Dane Lean) dan Kontak Lembut",
-                "whyDesc": "Great Dane memiliki cara unik dalam menunjukkan kasih sayang yang dikenal sebagai **'Great Dane Lean'**, yaitu menyandarkan bobot tubuhnya yang besar ke kaki pemiliknya. Ini bukan kemalasan, melainkan tanda kepercayaan yang dalam dan pencarian rasa aman. Selain itu, mendorong tangan pemiliknya secara perlahan dengan moncong adalah permintaan kasih sayang yang lembut.",
-                "body_signals": [
-                    {
-                        "name": "Menyandarkan Tubuh (Great Dane Lean)",
-                        "meaning": "Menyandarkan berat badan ke kaki pemilik untuk merasakan kehangatan tubuh, menunjukkan rasa percaya, kasih sayang, dan pencarian rasa aman.",
-                        "response": "Jangan mendorongnya secara mendadak; pertahankan posisi berdiri yang stabil dan elus dengan lembut untuk memberikan ketenangan emosional."
-                    },
-                    {
-                        "name": "Dorongan Moncong Lembut (Gentle Nudging)",
-                        "meaning": "Mendorong tangan atau lutut pemilik secara perlahan dengan moncongnya sebagai isyarat sopan untuk meminta elusan.",
-                        "response": "Jawab dengan suara tenang dan berikan elusan lembut untuk memperkuat sifat santunnya secara positif."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Aturan Makan Anti-GDV & Jalan Santai di Area Datar",
-                        "text": "Dilarang keras melakukan olahraga berat 1 jam sebelum dan sesudah makan. Gunakan mangkuk slow-feeder dan pastikan anjing beristirahat tenang minimal 1 jam sebelum jalan-jalan."
-                    },
-                    {
-                        "name": "Siang: Istirahat Pereda Sendi & Pemeriksaan Kulit/Berat Badan",
-                        "text": "Sediakan kasur ortopedi berkerapatan tinggi untuk mencegah kapalan dan peradangan sendi akibat tekanan berat badan, serta pantau berat badan ideal."
-                    },
-                    {
-                        "name": "Malam: Sosialisasi Penguatan Positif & Bonding Tenang",
-                        "text": "Tinjau latihan kepatuhan tenang yang cocok untuk ras raksasa, dan nikmati momen menyandar yang santai untuk menciptakan suasana tidur yang nyaman."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Bagaimana cara mencegah penyakit mematikan Volvulus Dilatasi Lambung (GDV) pada Great Dane?",
-                        "answer": "Gunakan mangkuk pelambat makan untuk mencegah anjing makan terlalu cepat dan bagi porsi harian menjadi 2–3 kali makan. Aturan yang paling krusial adalah memastikan anjing beristirahat tenang minimal 1 jam sebelum dan sesudah makan, tanpa berlari atau melompat."
-                    },
-                    {
-                        "question": "Apakah Great Dane bisa dipelihara dengan aman di dalam rumah atau apartemen?",
-                        "answer": "Bisa. Great Dane dewasa sangat tenang di dalam ruangan dan sering disebut 'anjing sofa'. Namun, mereka membutuhkan tempat tidur ortopedi yang besar, ruang yang cukup untuk meluruskan tubuh, dan jalan-jalan harian yang teratur."
-                    }
-                ]
-            }
+  "great-dane-care": {
+    "pubDate": "2026-04-08",
+    "updatedDate": "2026-04-08",
+    "locales": {
+      "ko": {
+        "title": "그레이트 데인 위염전(GDV) 예방 식사법과 관절 보호·온순한 성품 길러주는 3단계 일상 루틴",
+        "description": "'온순한 거인' 초대형견 그레이트 데인의 핵심 케어법. 치명적인 위염전(위비틀림) 예방 식사 수칙과 급성장기 관절 보호, 온화한 성품 유지를 위한 3단계 가이드라인을 제공합니다.",
+        "authority": "미국 그레이트 데인 클럽(GDCA) 케어 가이드라인 및 미국 켄넬 클럽(AKC) 수의학 임상 표준",
+        "profile": {
+          "breed": "그레이트 데인 (Great Dane)",
+          "lifespan": "7 ~ 10년",
+          "sleep_pattern": "12 ~ 14시간 (초대형견 - 신체 부하를 줄이기 위한 깊은 수면)",
+          "temperament": "온순함, 우아함, 충성스러움, 친근함, 인내심 있음"
         },
-        "heroImage": "/images/blog/great_dane_care.webp"
-    }
+        "intro": "그레이트 데인은 거대한 체구와 달리 성품이 매우 온화하여 '온순한 거인(Gentle Giant)'이라는 별명으로 전 세계 대형견 애호가들의 사랑을 받는 초대형견입니다. 그러나 초대형 체격 특성상 신체 급성장기에 관절 부하가 심하며, 생명을 위협하는 응급 질환인 위염전(GDV, 위비틀림) 발병률이 높아 과학적이고 정교한 관리 수칙이 필수적입니다. 또한 체구가 큰 만큼 어릴 때부터 일관되고 온화한 사회화 교육이 이뤄져야 타인 및 타 동물과 안전하게 공존할 수 있습니다. 이번 가이드에서는 그레이트 데인의 고유한 애정 표현 시그널을 분석하고, 위염전 예방과 관절 건강, 온화한 성품 유지를 위한 3단계 일상 루틴을 공개합니다.",
+        "whyTitle": "그레이트 데인의 본능: 몸 기대기(Dane Lean)와 다정한 스킨십 시그널",
+        "whyDesc": "그레이트 데인은 거대한 몸집을 보호자의 다리나 몸에 지그시 기대는 **'그레이트 데인 리닝(Great Dane Lean)'**이라는 독특한 애정 표현을 합니다. 이는 단순한 체중 쏠림이 아니라 강한 유대감과 심리적 안정을 갈구하는 고유의 언어입니다. 또한 보호자의 손이나 몸을 주둥이로 살포시 밀어내는 동작은 교감과 다정한 관심을 요청하는 평화로운 신호입니다.",
+        "body_signals": [
+          {
+            "name": "몸 지그시 기대기 (Great Dane Lean)",
+            "meaning": "보호자의 다리나 몸에 체중을 살짝 얹어 기대는 행위로, 강력한 애정과 신뢰를 바탕으로 보호자의 체온을 느끼며 안도감을 찾으려는 친밀함의 표시입니다.",
+            "response": "갑자기 밀쳐내지 말고 차분하게 몸을 맞춰주며 다정하게 쓸어내려 주어 심리적 안정감을 느끼게 해줍니다."
+          },
+          {
+            "name": "주둥이로 살포시 밀기 (Gentle Nudging)",
+            "meaning": "보호자의 손이나 무릎을 주둥이로 살짝 밀어 올리는 행동으로, 부드러운 스킨십과 관심을 요청하는 겸손하고 온순한 교감 신호입니다.",
+            "response": "차분한 목소리로 응답하며 부드럽게 다듬어주어 온화한 성품을 긍정적으로 강화해 줍니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 위염전(GDV) 예방 식사 수칙 및 가벼운 평지 산책",
+            "text": "식사 직전·직후 고강도 운동을 엄격히 금지하고, 천천히 먹는 슬로우 식기를 활용해 식사 후 최소 1시간은 정적인 휴식을 취하게 한 뒤 가벼운 평지 산책을 진행합니다."
+          },
+          {
+            "name": "낮: 관절 부담을 줄이는 낮잠 및 체중·피부 점검",
+            "text": "체중 집중으로 인한 관절 염증과 혹(팔꿈치 굳은살)을 방지하기 위해 정형외과용 고밀도 쿠션을 제공하고, 적정 체중 유지 상태를 점검합니다."
+          },
+          {
+            "name": "밤: 온화한 사회화 긍정 강화 및 정서적 안정 교감",
+            "text": "거대한 체구에 맞춘 차분한 복종 훈련과 긍정 강화 교육을 복습하고, 몸 기대기 스킨십을 통해 편안한 수면 환경을 조성합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "그레이트 데인에게 치명적인 위염전(GDV, 위비틀림)은 어떻게 예방해야 하나요?",
+            "answer": "식사를 너무 빠르게 흡입하지 않도록 슬로우 식기를 사용하고, 하루 2~3회 분할 급식을 권장합니다. 특히 식사 전후 1시간 동안은 격렬한 뛰기나 운동을 절대 금지하고, 급식 후 차분히 엎드려 쉬게 하는 것이 가장 핵심적인 예방 수칙입니다."
+          },
+          {
+            "question": "아파트나 실내 공간에서도 그레이트 데인을 안전하게 키울 수 있나요?",
+            "answer": "성견 그레이트 데인은 실내에서 매우 조용하고 활동량이 적어 '소파 위의 거인'이라 불릴 만큼 실내 적응력이 뛰어납니다. 다만 몸을 자유롭게 펼칠 수 있는 충분한 공간과 고밀도 관절 매트가 필수적이며, 매일 규칙적인 산책을 통해 욕구를 해소해 주어야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Great Dane GDV Prevention Feeding Guide and 3-Step Care Routine for Joint Protection & Gentle Temperament",
+        "description": "Essential care for the 'Gentle Giant' Great Dane. Learn strict feeding guidelines to prevent fatal Bloat (GDV), protect joint health during rapid growth, and foster a calm temperament.",
+        "authority": "Great Dane Club of America (GDCA) Care Guidelines and American Kennel Club (AKC) Veterinary Clinical Standards",
+        "profile": {
+          "breed": "Great Dane",
+          "lifespan": "7 - 10 Years",
+          "sleep_pattern": "12 - 14 Hours (Giant Breed - Deep Rest to Reduce Physical Stress)",
+          "temperament": "Gentle, Elegant, Devoted, Friendly, Patient"
+        },
+        "intro": "Despite their imposing size, Great Danes are celebrated globally as 'Gentle Giants' due to their remarkably mild and loving nature. However, as a giant breed, they experience rapid skeletal growth that places heavy stress on their joints, and they face a dangerously high risk of Gastric Dilatation-Volvulus (GDV or Bloat), a life-threatening emergency. Precise, evidence-based care standards are therefore vital. Furthermore, given their physical strength, gentle and consistent socialization from puppyhood is imperative for safe coexistence with people and other animals. In this guide, we analyze the Great Dane's unique bonding signals and outline a 3-step routine for GDV prevention, joint integrity, and balanced temperament.",
+        "whyTitle": "Great Dane Instincts: The 'Dane Lean' and Gentle Contact Signals",
+        "whyDesc": "Great Danes exhibit a unique affection signal known as the **'Great Dane Lean'**, where they gently rest their massive body weight against their owner's legs or torso. This is not laziness, but a profound expression of trust and a search for emotional security. Similarly, gently pushing their snout against their owner's hands is a peaceful request for connection and affection.",
+        "body_signals": [
+          {
+            "name": "The Great Dane Lean",
+            "meaning": "Leaning their body weight against their owner's legs, expressing deep trust, affection, and a desire for physical closeness and security.",
+            "response": "Avoid pushing them away abruptly; adjust your stance calmly and offer gentle strokes to reinforce emotional security."
+          },
+          {
+            "name": "Gentle Nudging",
+            "meaning": "Lightly pushing their snout against your hand or knee, serving as a polite and gentle request for affection and interaction.",
+            "response": "Acknowledge them with a calm voice and soft petting to positively reinforce their gentle and polite behavior."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: GDV Prevention Feeding & Gentle Flat-Surface Walk",
+            "text": "Strictly avoid high-intensity exercise 1 hour before and after meals. Use a slow-feeder bowl and ensure at least 1 hour of quiet rest post-meal before a gentle walk on flat ground."
+          },
+          {
+            "name": "Afternoon: Joint-Relief Rest & Weight/Skin Inspection",
+            "text": "Provide high-density orthopedic bedding to prevent joint inflammation and pressure sores (elbow calluses) caused by heavy body weight, and monitor ideal body condition."
+          },
+          {
+            "name": "Evening: Positive Reinforcement Socialization & Calm Bonding",
+            "text": "Review calm obedience exercises suited for giant breeds, and engage in quiet leaning affection to create a soothing environment for sleep."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "How can Gastric Dilatation-Volvulus (GDV / Bloat) be prevented in Great Danes?",
+            "answer": "Prevent rapid bolting of food by using slow-feeder bowls and dividing daily rations into 2–3 smaller meals. Crucially, strictly enforce quiet rest for at least 1 hour before and after feeding—avoiding all vigorous running or play."
+          },
+          {
+            "question": "Can a Great Dane live comfortably in an apartment or indoor space?",
+            "answer": "Yes. Adult Great Danes are surprisingly low-energy indoors and are often called 'couch potatoes.' However, they require orthopedic beds, sufficient room to stretch fully, and daily moderate outdoor walks to meet their physical needs."
+          }
+        ]
+      },
+      "ja": {
+        "title": "グレート・デーンの胃捻転（GDV）予防食と関節保護・穏やかな性格を育む3ステップ日常ルーティン",
+        "description": "「優しい巨人」超大型犬グレート・デーンの必須ケア法。命に関わる胃捻転（GDV）の予防食事ルール、急成長期の関節保護、穏やかな性格を維持する3ステップガイドを解説します。",
+        "authority": "全米グレート・デーン・クラブ（GDCA）ケアガイドラインおよびアメリカンケネルクラブ（AKC）獣医臨床基準",
+        "profile": {
+          "breed": "グレート・デーン (Great Dane)",
+          "lifespan": "7 〜 10年",
+          "sleep_pattern": "12 〜 14時間 (超大型犬 - 身体への負担を減らす深い睡眠)",
+          "temperament": "穏やか、優雅、忠実、フレンドリー、忍耐強い"
+        },
+        "intro": "グレート・デーンはその巨大な体躯とは裏腹に極めて穏やかな性格をしており、「優しい巨人（Gentle Giant）」の愛称で世界中の大型犬ファンから愛されています。しかし超大型犬という骨格上、成長期の関節負荷が大きく、命を脅かす緊急疾患である「胃拡大・胃捻転症候群（GDV）」の発症率が高いため、 scientific かつ緻密な管理基準が不可欠です。また体が大きい分、幼少期からの優しく一貫した社会化訓練が周囲と safe に共生するための鍵となります。本日は本記事では、グレート・デーン独自の愛情表現シグナルを分析し、胃捻転予防・関節の健康・穏やかな性格維持のための3ステップ日常ルーティンを公開します。",
+        "whyTitle": "グレート・デーンの本能：体に寄りかかる動作（Dane Lean）と優しいコミュニケーション",
+        "whyDesc": "グレート・デーンは、その大きな体を飼い主の足や体にそっと預ける**「グレート・デーン・リーン（Great Dane Lean）」**という独特の愛情表現を行います。これは単に体重をかけているのではなく、強い信頼と安心感を求めている固有の言語です。また、手や膝を鼻先で優しく押し上げる動作は、スキンシップを求める穏やかな合図です。",
+        "body_signals": [
+          {
+            "name": "体にそっと寄りかかる (Great Dane Lean)",
+            "meaning": "飼い主の足や体に体重を預ける行動で、深い愛情と信頼に基づき、飼い主の体温を感じて安心を得ようとする親密さの表示です。",
+            "response": "急に突き放さず、静かに体を支えて優しく撫でてあげることで心理的安定感を与えます。"
+          },
+          {
+            "name": "鼻先で優しく押す (Gentle Nudging)",
+            "meaning": "飼い主の手や膝を鼻先で軽く押し上げる行動で、優しく撫でてほしい、関心を示してほしいという控えめなアピールです。",
+            "response": "落ち着いた声で応え、優しく撫でてあげることで、その穏やかな性格をポジティブに強化します。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：胃捻転（GDV）予防の食事管理と平地での軽い散歩",
+            "text": "食前食後の激しい運動を厳禁とし、早食い防止食器を使用します。食後は最低1時間静かに休ませてから、平地での軽い散歩を行います。"
+          },
+          {
+            "name": "昼：関節への負担を減らす昼寝と体重・皮膚チェック",
+            "text": "体重による関節炎や肘のタコを予防するため高密度の整形外科用クッションを提供し、適正体重が維持されているか確認します。"
+          },
+          {
+            "name": "夜：穏やかな社会化のポジティブ強化と安心感のあるスキンシップ",
+            "text": "巨体に適した落ち着いた服従訓練を復習し、体に寄りかかるスキンシップを通じてリラックスした睡眠環境を整えます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "グレート・デーンの命に関わる胃捻転（GDV）はどのように予防すべきですか？",
+            "answer": "一気にご飯を飲み込まないようスローフード食器を使い、1日2〜3回に分けて給餌します。特に食前食後の1時間は走ったり遊んだりすることを厳禁とし、食後は落ち着いて伏せらせて休ませることが最も重要な予防策です。"
+          },
+          {
+            "question": "マンションなどの室内でもグレート・デーンを安全に飼うことができますか？",
+            "answer": "成犬のグレート・デーンは室内では非常に静かで活動量が少なく、「ソファーの上の巨人」と呼ばれるほど室内適応が高いです。ただし、体を自由に伸ばせる十分なスペースと高密度の関節マットが必須であり、毎日の規則的な散歩で運動欲求を満たす必要があります。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "大丹犬胃扭转(GDV)预防喂养指南与关节保护·温和性格培养3阶段日常护理流程",
+        "description": "“温柔的巨人”超大型犬大丹犬的核心护理指南。提供预防致命性胃扭转(GDV)的饮食守则、猛长期关节保护以及维持温和性格的3阶段护理流程。",
+        "authority": "美国大丹犬协会 (GDCA) 护理指南与美国犬业俱乐部 (AKC) 兽医临床标准",
+        "profile": {
+          "breed": "大丹犬 (Great Dane)",
+          "lifespan": "7 ~ 10年",
+          "sleep_pattern": "12 ~ 14小时 (超大型犬 - 减少身体负荷的深度睡眠)",
+          "temperament": "温和、优雅、忠诚、友善、有耐心"
+        },
+        "intro": "大丹犬虽然体型庞大，但性格却极其温顺，因而获得了“温柔的巨人（Gentle Giant）”的美誉，深受全球大型犬爱好者的喜爱。然而作为超大型犬，其骨骼在急速成长阶段承受着极大的关节压力，且急性致命疾病——胃扩张-胃扭转症候群（GDV）的发病率极高，因此必须遵循科学严谨的护理标准。同时，鉴于其强大的体格，从小开展温和且一致的社会化训练是与人和其它动物安全共处的前提。本指南将解析大丹犬独特的表达爱意的信号，并公开预防GDV、保护关节及维持温和性格的3阶段日常护理流程。",
+        "whyTitle": "大丹犬的本能：倚靠身体(Dane Lean)与温和的抚摸信号",
+        "whyDesc": "大丹犬拥有独特的表达爱意的方式——**“大丹犬倚靠（Great Dane Lean）”**，即将其庞大的身体轻轻倚靠在主人的腿部或身体上。这并非偷懒，而是基于高度信任与寻求心理安全感的高级肢体语言。此外，用吻部轻轻拱主人的手，也是表达和平、索求关爱的信号。",
+        "body_signals": [
+          {
+            "name": "身体轻轻倚靠 (Great Dane Lean)",
+            "meaning": "将体重轻倚在主人腿上，建立在极高的信任与依恋之上，试图通过感受主人的体温来获得心理上的安宁。",
+            "response": "切勿突然推开，保持身体稳定并温柔地抚摸它们，为其提供充分的安全感。"
+          },
+          {
+            "name": "用嘴轻拱 (Gentle Nudging)",
+            "meaning": "用吻部轻轻抬起主人的手或膝盖，属于一种礼貌、温和地索取抚摸与关注的交流信号。",
+            "response": "用温和的声音回应并轻轻梳理其毛发，正面强化其温顺有礼的行为。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：胃扭转(GDV)预防喂养守则与平地慢走",
+            "text": "进食前后1小时内严禁剧烈运动。使用慢食碗喂食，饭后确保其静卧休息至少1小时，随后进行平地散步。"
+          },
+          {
+            "name": "中午：减轻关节负担的午休与体重·皮肤检查",
+            "text": "使用高密度矫形狗垫，防止因体重压迫导致的关节炎与肘部老茧，同时监测体脂，维持理想体重。"
+          },
+          {
+            "name": "晚上：温和社会化正面强化与情感陪伴",
+            "text": "复习适合大型犬的平静服从性训练，通过身体倚靠等肢体互动建立安全感，营造舒适的睡眠环境。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "如何预防大丹犬致命的胃扭转(GDV)？",
+            "answer": "使用慢食碗防止狼吞虎咽，建议每日少食多餐（分2-3次喂食）。最核心的规则是：进食前后1小时内绝对禁止奔跑或剧烈运动，饭后必须让其保持安静卧休息。"
+          },
+          {
+            "question": "公寓或室内空间可以安全饲养大丹犬吗？",
+            "answer": "成年大丹犬在室内非常安静且活动量低，有着“沙发上的巨人”之称，室内适应力极佳。但前提是必须为其提供能完全舒展身体的足够空间和高密度护关节垫，并保证每日规律的户外散步。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Guía de alimentación para prevenir la torsión gástrica (GDV) en el Gran Danés y rutina de 3 pasos para la protección articular",
+        "description": "Cuidados esenciales para el Gran Danés, el 'Gigante Gentil'. Conozca las pautas estrictas para prevenir la mortal torsión de estómago (GDV), proteger sus articulaciones y mantener un carácter dócil.",
+        "authority": "Directrices de Cuidado del Great Dane Club of America (GDCA) y Estándares Clínicos Veterinarios del American Kennel Club (AKC)",
+        "profile": {
+          "breed": "Gran Danés (Great Dane)",
+          "lifespan": "7 ~ 10 años",
+          "sleep_pattern": "12 ~ 14 horas (raza gigante: descanso profundo para reducir el estrés corporal)",
+          "temperament": "Gentil, elegante, devoto, amigable, paciente"
+        },
+        "intro": "A pesar de su imponente tamaño, el Gran Danés es conocido mundialmente como el 'Gigante Gentil' debido a su carácter extremadamente dulce y afectuoso. Sin embargo, su rápido crecimiento óseo genera una gran presión sobre las articulaciones, y enfrenta un riesgo severo de Torsión y Dilatación Gástrica (GDV), una urgencia veterinaria mortal. Por ello, es vital seguir estándares de cuidado precisos y científicos. Además, dada su fuerza física, una socialización temprana y constante es imprescindible para una convivencia segura. En esta guía, analizamos sus señales de afecto y presentamos una rutina de 3 pasos para prevenir la GDV y cuidar su salud articular.",
+        "whyTitle": "Instintos del Gran Danés: El 'Dane Lean' y las señales de contacto suave",
+        "whyDesc": "Los Grandes Daneses muestran una forma única de afecto conocida como el **'Great Dane Lean'**, que consiste en apoyar suavemente el peso de su cuerpo contra las piernas de su dueño. No se trata de pereza, sino de un profundo gesto de confianza y búsqueda de seguridad emocional. Del mismo modo, empujar suavemente con el hocico es una petición pacífica de contacto y cariño.",
+        "body_signals": [
+          {
+            "name": "Apoyar el cuerpo (Great Dane Lean)",
+            "meaning": "Recostarse contra las piernas del dueño para sentir su calor corporal, demostrando un profundo afecto, confianza y búsqueda de tranquilidad.",
+            "response": "Evite apartarlo bruscamente; mantenga la postura con calma y acarícielo suavemente para aportarle seguridad emocional."
+          },
+          {
+            "name": "Empujón suave con el hocico (Gentle Nudging)",
+            "meaning": "Levantar ligeramente la mano o la rodilla del dueño con su trufa, lo que representa una solicitud educada y dócil de caricias.",
+            "response": "Responda con voz pausada y caricias suaves para reforzar de manera positiva su comportamiento respetuoso."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Alimentación anti-GDV y paseo suave por terreno plano",
+            "text": "Prohíba el ejercicio intenso 1 hora antes y después de comer. Utilice comederos de alimentación lenta y asegure 1 hora de reposo tras la comida antes del paseo."
+          },
+          {
+            "name": "Tarde: Descanso para aliviar articulaciones y control de peso/piel",
+            "text": "Proporcione camas ortopédicas de alta densidad para evitar bursitis o durezas en los codos por el peso corporal, y supervise su peso ideal."
+          },
+          {
+            "name": "Noche: Refuerzo positivo de socialización y descanso tranquilo",
+            "text": "Repase ejercicios de obediencia calmada adecuados para razas gigantes y comparta momentos de afecto pausado para favorecer un sueño reparador."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Cómo se puede prevenir la mortal Torsión Gástrica (GDV) en el Gran Danés?",
+            "answer": "Utilice comederos de ralentización para evitar que engulla la comida y divida la ración diaria en 2 o 3 tomas. La regla más crítica es mantener al perro en reposo absoluto durante al menos 1 hora antes y después de cada comida, evitando carreras y juegos."
+          },
+          {
+            "question": "¿Puede un Gran Danés vivir en un piso o apartamento?",
+            "answer": "Sí. Los Grandes Daneses adultos son sorprendentemente tranquilos en interiores y a menudo se les considera 'perros de sofá'. Sin embargo, requieren camas ortopédicas amplias, espacio para estirarse por completo y paseos diarios regulares."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Guide d'alimentation anti-retournement d'estomac (GDV) du Grand Danois et routine en 3 étapes pour la protection articulaire",
+        "description": "Soins essentiels pour le 'Gentil Géant', le Grand Danois. Découvrez les règles nutritionnelles strictes pour prévenir la dilatation-torsion de l'estomac (GDV) et protéger ses articulations.",
+        "authority": "Directives de soin du Great Dane Club of America (GDCA) et normes vétérinaires de l'American Kennel Club (AKC)",
+        "profile": {
+          "breed": "Grand Danois (Great Dane)",
+          "lifespan": "7 ~ 10 ans",
+          "sleep_pattern": "12 ~ 14 heures (race géante : repos profond pour réduire le stress corporel)",
+          "temperament": "Doux, élégant, dévoué, amical, patient"
+        },
+        "intro": "Malgré sa stature impressionnante, le Grand Danois est surnommé le 'Gentil Géant' à travers le monde en raison de sa nature affectueuse et paisible. Cependant, en tant que chien géant, sa croissance osseuse rapide impose une forte pression sur ses articulations, et il présente un risque très élevé de Dilatation-Torsion de l'Estomac (GDV), une urgence vétérinaire vitale. Des normes de soin scientifiques et rigoureuses sont donc indispensables. De plus, une socialisation précoce et bienveillante est requise pour garantir une cohabitation harmonieuse. Dans ce guide, décrypte ses signaux d'affection et vous présente une routine en 3 étapes pour prévenir la GDV et préserver sa santé articulaire.",
+        "whyTitle": "Instincts du Grand Danois : L'adossement (Dane Lean) et les contacts doux",
+        "whyDesc": "Le Grand Danois exprime son affection par un comportement unique appelé le **'Great Dane Lean'**, qui consiste à appuyer doucement tout son poids contre les jambes de son maître. Ce n'est pas de la paresse, mais un témoignage de confiance et une recherche de réconfort. De même, pousser délicatement la main de son maître avec son museau est une demande paisible d'attention.",
+        "body_signals": [
+          {
+            "name": "S'adosser contre son maître (Great Dane Lean)",
+            "meaning": "Appuyer son poids contre les jambes du maître pour chercher sa chaleur et son réconfort, manifestant un attachement et une confiance profonds.",
+            "response": "Ne le repoussez pas brusquement ; gardez un équilibre stable et caressez-le doucement pour lui transmettre de la sérénité."
+          },
+          {
+            "name": "Coup de museau délicat (Gentle Nudging)",
+            "meaning": "Pousser légèrement la main ou le genou du maître avec la truffe pour solliciter des caresses de manière polie et réservée.",
+            "response": "Répondez d'une voix calme et par de douces caresses afin de renforcer positivement son tempérament paisible."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Alimentation anti-GDV et promenade calme sur terrain plat",
+            "text": "Interdisez tout exercice physique 1 heure avant et après le repas. Utilisez une gamelle anti-glouton et observez 1 heure de repos absolu après manger avant la promenade."
+          },
+          {
+            "name": "Après-midi : Repos articulaire et contrôle du poids et de la peau",
+            "text": "Mettez à sa disposition un matelas orthopédique haute densité pour éviter les durillons et l'inflammation des coudes dus au poids, et surveillez son poids de forme."
+          },
+          {
+            "name": "Soir : Éducation positive douce et moments de complicité",
+            "text": "Révisez des exercices d'obéissance calmes adaptés aux chiens géants et partagez un moment de contact paisible pour favoriser un sommeil réparateur."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Comment prévenir la Dilatation-Torsion de l'Estomac (GDV) chez le Grand Danois ?",
+            "answer": "Utilisez une gamelle anti-glouton pour ralentir la prise alimentaire et fractionnez la ration quotidienne en 2 à 3 repas. La règle essentielle est d'imposer un repos complet au moins 1 heure avant et après chaque repas, en proscrivant les courses et sauts."
+          },
+          {
+            "question": "Le Grand Danois peut-il vivre en appartement ?",
+            "answer": "Oui. À l'âge adulte, le Grand Danois est très calme en intérieur et apprécie les longues siestes. Il nécessite toutefois un panier orthopédique de grande taille, un espace suffisant pour s'étendre et des promenades quotidiennes régulières."
+          }
+        ]
+      },
+      "de": {
+        "title": "Deutsche Dogge Magendrehung (GDV) Präventions-Leitfaden und 3-Schritt-Tagesroutine für Gelenkschutz & sanftes Wesen",
+        "description": "Essenzielle Pflege für den 'Sanftmütigen Riesen', die Deutsche Dogge. Fütterungsregeln zur Vorbeugung der lebensgefährlichen Magendrehung (GDV) und Tipps für gesunde Gelenke.",
+        "authority": "Care-Richtlinien des Great Dane Club of America (GDCA) und klinische Standards des American Kennel Club (AKC)",
+        "profile": {
+          "breed": "Deutsche Dogge (Great Dane)",
+          "lifespan": "7 ~ 10 Jahre",
+          "sleep_pattern": "12 ~ 14 Stunden (Riesenrasse - tiefe Ruhephasen zur Entlastung)",
+          "temperament": "Sanftmütig, elegant, treu, freundlich, geduldig"
+        },
+        "intro": "Trotz ihrer imposanten Größe ist die Deutsche Dogge als 'sanftmütiger Riese' weltweit für ihr liebevolles und ruhiges Gemüt bekannt. Als Riesenrasse wächst sie jedoch extrem schnell, was eine enorme Belastung für die Gelenke bedeutet. Zudem hat sie ein hohes Risiko für die lebensbedrohliche Magendrehung (GDV), weshalb wissenschaftlich fundierte Pflegestandards unerlässlich sind. Wegen ihrer Körperkraft ist zudem eine konsequente, liebevolle Sozialisierung von klein auf wichtig. Heute analysiert  die einzigartigen Körpersignale der Deutschen Dogge und zeigt eine 3-Schritt-Routine für GDV-Prävention und Gelenkgesundheit.",
+        "whyTitle": "Instinkte der Deutschen Dogge: Das Anlehnen ('Dane Lean') und sanfte Kontaktsignale",
+        "whyDesc": "Deutsche Doggen zeigen eine ganz besondere Form der Zuneigung, das sogenannte **'Great Dane Lean'**: Sie lehnen ihr gesamtes Körpergewicht sanft an die Beine ihres Halters. Dies ist kein Zeichen von Faulheit, sondern ein tiefes Vertrauenssignal. Auch das sanfte Anstupsen mit der Schnauze ist eine friedliche Bitte um Aufmerksamkeit.",
+        "body_signals": [
+          {
+            "name": "Sanftes Anlehnen (Great Dane Lean)",
+            "meaning": "Anlehnen des Körpergewichts an die Beine des Halters, um Körperwärme zu spüren und Sicherheit sowie tiefe Zuneigung auszudrücken.",
+            "response": "Drücken Sie den Hund nicht abrupt weg; bewahren Sie einen stabilen Stand und streicheln Sie ihn ruhig für emotionale Sicherheit."
+          },
+          {
+            "name": "Sanftes Anstupsen mit der Schnauze (Gentle Nudging)",
+            "meaning": "Leichtes Hochdrücken der Hand oder des Knies mit der Schnauze als höfliche Bitte um Zuwendung und Streicheleinheiten.",
+            "response": "Antworten Sie mit ruhiger Stimme und sanftem Streicheln, um dieses freundliche Verhalten positiv zu verstärken."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: GDV-Präventionsfütterung & ruhiger Spaziergang auf ebenem Boden",
+            "text": "Vermeiden Sie 1 Stunde vor und nach dem Füttern jegliche Anstrengung. Nutzen Sie Anti-Schling-Näpfe und halten Sie eine einstündige Ruhephase vor dem Spaziergang ein."
+          },
+          {
+            "name": "Nachmittag: Gelenkschonende Ruhephase & Gewichtskontrolle",
+            "text": "Bieten Sie orthopädische Hundebetten an, um Liegeschwielen und Gelenkentzündungen vorzubeugen, und achten Sie auf das Idealgewicht."
+          },
+          {
+            "name": "Abend: Sanfte Sozialisierung & ruhiges Entspannungstraining",
+            "text": "Wiederholen Sie ruhige Gehorsamsübungen und genießen Sie entspannte Anlehn-Momente, um eine förderliche Schlafumgebung zu schaffen."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Wie kann einer lebensgefährlichen Magendrehung (GDV) bei der Deutschen Dogge vorgebeugt werden?",
+            "answer": "Verwenden Sie Anti-Schling-Näpfe und teilen Sie die Tagesration auf 2 bis 3 Mahlzeiten auf. Die wichtigste Regel lautet: Mindestens 1 Stunde vor und nach dem Fressen absolute Ruhe einhalten – kein Toben oder Rennen."
+          },
+          {
+            "question": "Kann eine Deutsche Dogge in einer Wohnung gehalten werden?",
+            "answer": "Ja. Ausgewachsene Deutsche Doggen sind im Haus sehr ruhig und werden oft als 'Couch-Potatoes' bezeichnet. Sie benötigen jedoch ein großes orthopädisches Bett, ausreichend Platz zum Ausstrecken und tägliche Spaziergänge."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Guia de alimentação para prevenção de torção gástrica (GDV) no Dogue Alemão e rotina de 3 passos para proteção articular",
+        "description": "Cuidados essenciais para o 'Gigante Gentil', o Dogue Alemão. Aprenda regras de alimentação para evitar a torção gástrica (GDV) e estratégias para proteger as articulações.",
+        "authority": "Diretrizes de Cuidado do Great Dane Club of America (GDCA) e Padrões Clínicos Veterinários do American Kennel Club (AKC)",
+        "profile": {
+          "breed": "Dogue Alemão (Great Dane)",
+          "lifespan": "7 ~ 10 anos",
+          "sleep_pattern": "12 ~ 14 horas (raça gigante: descanso profundo para aliviar o corpo)",
+          "temperament": "Gentil, elegante, devotado, amigável, paciente"
+        },
+        "intro": "Apesar do seu porte impressionante, o Dogue Alemão é conhecido mundialmente como o 'Gigante Gentil' devido ao seu temperamento afetuoso e calmo. Como raça gigante, o seu crescimento rápido coloca grande pressão sobre as articulações, além de ter uma elevada predisposição para a Torção e Dilatação Gástrica (GDV), uma emergência médica fatal. Seguir padrões de cuidado científicos é crucial. Adicionalmente, uma socialização precoce e positiva é fundamental para uma convivência segura. Neste guia, analisamos os seus sinais de afeto e revelamos uma rotina de 3 passos para prevenção de GDV e saúde articular.",
+        "whyTitle": "Instintos do Dogue Alemão: O ato de encostar o corpo (Dane Lean) e contactos suaves",
+        "whyDesc": "Os Dogues Alemães possuem uma forma única de demonstrar afeto conhecida como **'Great Dane Lean'**, que consiste em encostar suavemente o peso do seu corpo contra as pernas do tutor. Isso não é preguiça, mas uma profunda demonstração de confiança e busca por segurança. Da mesma forma, empurrar suavemente com o focinho é um pedido calmo de atenção.",
+        "body_signals": [
+          {
+            "name": "Encostar o corpo (Great Dane Lean)",
+            "meaning": "Apoiar o peso do corpo contra o tutor para sentir o seu calor, expressando forte apego, confiança e busca por tranquilidade.",
+            "response": "Não o empurre bruscamente; mantenha uma postura estável e faça festas suaves para lhe dar segurança emocional."
+          },
+          {
+            "name": "Toque suave com o focinho (Gentle Nudging)",
+            "meaning": "Empurrar levemente a mão ou joelho do tutor com o focinho, funcionando como um pedido educado de carinho.",
+            "response": "Responda com voz calma e carinho suave para reforçar positivamente o seu comportamento dócil."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Alimentação anti-GDV e passeio calmo em terreno plano",
+            "text": "Proíba exercícios intensos 1 hora antes e depois de comer. Utilize tigelas de alimentação lenta e garanta 1 hora de repouso pós-refeição antes do passeio."
+          },
+          {
+            "name": "Tarde: Repouso para alívio articular e controlo de peso e pele",
+            "text": "Disponibilize camas ortopédicas de alta densidade para evitar bursites nos cotovelos causadas pelo peso, e monitorize o peso ideal."
+          },
+          {
+            "name": "Noite: Socialização com reforço positivo e descanso tranquilo",
+            "text": "Revise exercícios de obediência calma adaptados a cães gigantes e desfrute de momentos de afeto suave para promover um sono reparador."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Como prevenir a fatal Torção Gástrica (GDV) no Dogue Alemão?",
+            "answer": "Utilize recipientes de alimentação lenta para evitar que o cão coma rápido demais e divida a ração diária em 2 a 3 refeições. A regra de ouro é manter o cão em repouso absoluto pelo menos 1 hora antes e depois de comer."
+          },
+          {
+            "question": "O Dogue Alemão pode viver num apartamento?",
+            "answer": "Sim. Os Dogues Alemães adultos são extremamente calmos dentro de casa e gostam de descansar. Contudo, necessitam de uma cama ortopédica grande, espaço para se esticarem e passeios diários regulares."
+          }
+        ]
+      },
+      "id": {
+        "title": "Panduan Makanan Pencegahan Volvulus Dilatasi Lambung (GDV) Great Dane dan Rutinitas 3 Langkah Perawatan Sendi",
+        "description": "Perawatan esensial untuk 'Gentle Giant' Great Dane. Pelajari panduan makan ketat untuk mencegah penyakit mematikan GDV (lambung terbalik) dan menjaga kesehatan sendi.",
+        "authority": "Panduan Perawatan Great Dane Club of America (GDCA) dan Standar Klinis Dokter Hewan American Kennel Club (AKC)",
+        "profile": {
+          "breed": "Great Dane",
+          "lifespan": "7 ~ 10 tahun",
+          "sleep_pattern": "12 ~ 14 jam (ras raksasa - istirahat dalam untuk mengurangi beban tubuh)",
+          "temperament": "Lembut, anggun, setia, ramah, sabar"
+        },
+        "intro": "Meskipun memiliki ukuran tubuh yang sangat besar, Great Dane dikenal di seluruh dunia sebagai 'Gentle Giant' (Raksasa Lembut) karena sifatnya yang sangat tenang dan penyayang. Namun sebagai ras raksasa, pertumbuhannya yang cepat memberikan tekanan besar pada sendi, dan mereka berisiko tinggi terkena penyakit gawat darurat Volvulus Dilatasi Lambung (GDV/lambung terbalik). Oleh karena itu, panduan perawatan yang ilmiah sangat penting. Selain itu, sosialisasi yang lembut sejak dini wajib dilakukan untuk menjaga keamanan. Dalam panduan ini, kami menganalisis sinyal kasih sayang khas Great Dane dan membagikan 3 langkah rutinitas harian untuk pencegahan GDV dan kesehatan sendi.",
+        "whyTitle": "Insting Great Dane: Perilaku Menyandarkan Tubuh (Dane Lean) dan Kontak Lembut",
+        "whyDesc": "Great Dane memiliki cara unik dalam menunjukkan kasih sayang yang dikenal sebagai **'Great Dane Lean'**, yaitu menyandarkan bobot tubuhnya yang besar ke kaki pemiliknya. Ini bukan kemalasan, melainkan tanda kepercayaan yang dalam dan pencarian rasa aman. Selain itu, mendorong tangan pemiliknya secara perlahan dengan moncong adalah permintaan kasih sayang yang lembut.",
+        "body_signals": [
+          {
+            "name": "Menyandarkan Tubuh (Great Dane Lean)",
+            "meaning": "Menyandarkan berat badan ke kaki pemilik untuk merasakan kehangatan tubuh, menunjukkan rasa percaya, kasih sayang, dan pencarian rasa aman.",
+            "response": "Jangan mendorongnya secara mendadak; pertahankan posisi berdiri yang stabil dan elus dengan lembut untuk memberikan ketenangan emosional."
+          },
+          {
+            "name": "Dorongan Moncong Lembut (Gentle Nudging)",
+            "meaning": "Mendorong tangan atau lutut pemilik secara perlahan dengan moncongnya sebagai isyarat sopan untuk meminta elusan.",
+            "response": "Jawab dengan suara tenang dan berikan elusan lembut untuk memperkuat sifat santunnya secara positif."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Aturan Makan Anti-GDV & Jalan Santai di Area Datar",
+            "text": "Dilarang keras melakukan olahraga berat 1 jam sebelum dan sesudah makan. Gunakan mangkuk slow-feeder dan pastikan anjing beristirahat tenang minimal 1 jam sebelum jalan-jalan."
+          },
+          {
+            "name": "Siang: Istirahat Pereda Sendi & Pemeriksaan Kulit/Berat Badan",
+            "text": "Sediakan kasur ortopedi berkerapatan tinggi untuk mencegah kapalan dan peradangan sendi akibat tekanan berat badan, serta pantau berat badan ideal."
+          },
+          {
+            "name": "Malam: Sosialisasi Penguatan Positif & Bonding Tenang",
+            "text": "Tinjau latihan kepatuhan tenang yang cocok untuk ras raksasa, dan nikmati momen menyandar yang santai untuk menciptakan suasana tidur yang nyaman."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Bagaimana cara mencegah penyakit mematikan Volvulus Dilatasi Lambung (GDV) pada Great Dane?",
+            "answer": "Gunakan mangkuk pelambat makan untuk mencegah anjing makan terlalu cepat dan bagi porsi harian menjadi 2–3 kali makan. Aturan yang paling krusial adalah memastikan anjing beristirahat tenang minimal 1 jam sebelum dan sesudah makan, tanpa berlari atau melompat."
+          },
+          {
+            "question": "Apakah Great Dane bisa dipelihara dengan aman di dalam rumah atau apartemen?",
+            "answer": "Bisa. Great Dane dewasa sangat tenang di dalam ruangan dan sering disebut 'anjing sofa'. Namun, mereka membutuhkan tempat tidur ortopedi yang besar, ruang yang cukup untuk meluruskan tubuh, dan jalan-jalan harian yang teratur."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/great_dane_care.webp"
+  }
 }

@@ -1,406 +1,406 @@
 {
-    "how-to-store-basil-pesto": {
-        "ingId": "basil_pesto",
-        "pubDate": "2026-02-23",
-        "updatedDate": "2026-02-23",
-        "heroImage": "/images/blog/basil_pesto_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "바질 페스토 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 식품 안전 가이드라인(USDA·FDA)에 따른 바질 페스토의 엽록소 갈변 방지법, 올리브유 오일 필름 밀봉법 및 보관 기간을 확인하세요.",
-                "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
-                "intro": "향긋한 바질과 고소한 잣, 올리브유가 어우러져 파스타나 샌드위치에 최고의 풍미를 더해주는 바질 페스토(Basil Pesto)! 🌿🧀\n\n바질 페스토는 바질의 선명한 초록빛과 신선한 향이 생명입니다. 하지만 개봉 후 용기에 그대로 두면 순식간에 거무튀튀하게 갈색으로 변하거나, 올리브유와 마늘, 허브의 조합으로 인해 혐기성 식중독균인 보툴리누스균(Clostridium botulinum)이 번식하기 쉬운 환경이 조성됩니다.\n\n이번 가이드에서는 미국 USDA 및 FDA, 식품의약품안전처의 검증된 가이드라인을 바탕으로, 엽록소 파괴(갈변)를 막고 보툴리누스균 위험을 완벽히 차단하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "바질 엽록소가 산소에 노출되어 페오피틴으로 전환되는 화학적 갈변 원리와 기름 속 혐기성 미생물 증식 억제 메커니즘을 이해하는 것이 신선도와 식품 안전의 핵심입니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "개봉 후 또는 수제 바질 페스토를 상온에 두지 마세요 ⚠️",
-                        "desc": "올리브유에 생허브(바질), 마늘, 잣을 담근 상태는 산소가 없는 혐기성 조건이 되어 치명적인 독소를 생성하는 보툴리누스균(Clostridium botulinum)이 증식할 위험이 높습니다. 반드시 4℃ 이하로 즉시 냉장 보관하세요."
-                    },
-                    {
-                        "title": "공기와 빛에 그대로 노출시키지 마세요 🌿",
-                        "desc": "바질의 초록색을 띠는 엽록소(Chlorophyll)는 산소 및 빛과 반응하면 갈색의 페오피틴(Pheophytin)으로 전환되어 빠르게 갈변하고 풍미가 저하됩니다. 사용 후에는 항상 밀폐 상태를 유지해야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "표면에 엑스트라 버진 올리브유를 덮어 밀봉하기 — 오일 필름(Oil Film) 산소 차단 🫒",
-                        "text": "페스토를 용기에 담은 뒤 스푼으로 표면을 평평하게 정돈하고, 엑스트라 버진 올리브유를 2 - 3mm 두께로 부어 표면을 덮어주세요. 이 오일막이 산소 접촉을 원천 차단하여 엽록소가 페오피틴으로 변하는 갈변 현상을 막아줍니다."
-                    },
-                    {
-                        "name": "0 - 4℃ 이하에서 필수 저온 냉장 보관하기 — 보툴리누스균 억제 냉장 (7 - 14일) ❄️",
-                        "text": "올리브유막을 덮은 페스토는 밀폐 용기에 담아 0 - 4℃ 냉장고에 보관하세요. 보툴리누스균 포자의 독소 생성을 억제하기 위한 필수 조건입니다. 개봉 제품 및 수제 페스토는 냉장 상태에서 7 - 14일 이내에 소비해야 합니다."
-                    },
-                    {
-                        "name": "장기 보관 시 얼음 트레이에 소분하여 냉동하기 — 냉동 보관 (3 - 6개월) 🧊",
-                        "text": "페스토 양이 많다면 얼음 트레이에 1회용 분량씩 담아 1차 냉동한 뒤, 단단해지면 지퍼백에 옮겨 냉동실(-18℃ 이하)에 보관하세요. 필요할 때마다 한 조각씩 꺼내 쓸 수 있으며 선명한 초록빛과 향을 3 - 6개월간 유지할 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "바질 페스토 표면이 갈색으로 변했는데 먹어도 되나요?",
-                        "answer": "엽록소가 산소와 빛에 노출되어 페오피틴으로 변한 단순 산화(갈변) 현상이라면 먹어도 유해하지 않습니다. 갈색으로 변한 윗부분을 살짝 걷어내고 사용하시면 됩니다. 단, 산패된 퀴퀴한 냄새나 곰팡이, 가스 부풀어 오름이 있다면 변질된 것이므로 폐기하셔야 합니다."
-                    },
-                    {
-                        "question": "수제 바질 페스토는 냉장고에서 얼마나 오랫동안 보관할 수 있나요?",
-                        "answer": "가열 멸균 처리를 거치지 않은 수제 바질 페스토는 올리브유막을 형성했더라도 냉장(4℃ 이하) 보관 시 7 - 10일 이내에 모두 소비하는 것이 보툴리누스균 식중독 예방을 위해 가장 안전합니다. 더 오래 두고 드시려면 즉시 냉동 보관하세요."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Basil Pesto Fresh: Scientific Storage Guide",
-                "description": "Check optimal storage methods to prevent chlorophyll oxidation, oil film sealing techniques, and shelf life for basil pesto based on official USDA & FDA safety guidelines.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Basil pesto brings a rich, fragrant flavor of fresh basil, pine nuts, garlic, and parmesan cheese to pasta and sandwiches! 🌿🧀\n\nThe vibrant green color and fresh aroma are the heart of basil pesto. However, once exposed to air, the chlorophyll in basil oxidizes rapidly into a dull brown color, and the oil-submerged herbs and garlic create an anaerobic environment where Clostridium botulinum bacteria can thrive if improperly stored.\n\nIn this guide, based on scientifically verified guidelines from the USDA, FDA, and MFDS, we present a 3-step optimal storage strategy to prevent chlorophyll breakdown (browning) and eliminate botulism risks. 🛡️",
-                "whyTitle": "Why Store Basil Pesto This Way? Scientific Facts",
-                "whyDesc": "Understanding the chemical mechanism of chlorophyll converting to brown pheophytin upon oxygen exposure and controlling anaerobic microbial growth in oil is key to preserving freshness and food safety.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never leave opened or homemade basil pesto at room temperature ⚠️",
-                        "desc": "Submerging fresh herbs, garlic, and nuts in olive oil creates an anaerobic (oxygen-free) environment that encourages the growth of Clostridium botulinum, a bacterium producing deadly neurotoxins. Always refrigerate immediately at or below 4°C."
-                    },
-                    {
-                        "title": "Do not leave exposed to air and light 🌿",
-                        "desc": "The green pigment in basil, chlorophyll, reacts with oxygen and light to convert into brown pheophytin, causing rapid browning and loss of fresh flavor. Always seal tightly after use."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Pour a layer of extra virgin olive oil over the surface — Oil Film Oxygen Barrier 🫒",
-                        "text": "Transfer pesto into a container, smooth the top surface flat with a spoon, and pour a 2–3 mm layer of extra virgin olive oil over it. This oil film completely blocks oxygen contact, preventing chlorophyll from oxidizing into brown pheophytin."
-                    },
-                    {
-                        "name": "Refrigerate strictly at or below 0–4°C — Botulism Prevention Cold Storage (7–14 Days) ❄️",
-                        "text": "Store the oil-sealed pesto in an airtight container deep inside the refrigerator at 0–4°C (32–39°F). Low temperature is mandatory to inhibit Clostridium botulinum toxin production. Consume opened store-bought or homemade pesto within 7 to 14 days."
-                    },
-                    {
-                        "name": "Portion into ice cube trays and freeze for long-term storage — Freezer Storage (3–6 Months) 🧊",
-                        "text": "If you have excess pesto, spoon single-use portions into ice cube trays and freeze. Once solid, transfer the pesto cubes into a Ziploc freezer bag at -18°C (0°F) or below. You can pop out single servings whenever needed while keeping color and aroma for 3 to 6 months."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "The top layer of my basil pesto turned brown. Is it still safe to eat?",
-                        "answer": "Yes, if it is simple oxidation where chlorophyll converted to pheophytin due to air exposure, it is safe to consume. You can simply scrape off the top brown layer and use the green pesto underneath. However, if it has a rancid sour odor, mold growth, or container bloating, discard it immediately."
-                    },
-                    {
-                        "question": "How long can homemade basil pesto be safely stored in the refrigerator?",
-                        "answer": "Because homemade pesto is unpasteurized, even with an olive oil seal, it should be consumed within 7 to 10 days under refrigeration (at or below 4°C) to ensure safety against Clostridium botulinum. For longer storage, freeze it immediately."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "バジルペースト（Basil Pesto）を新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的食品安全ガイドライン（USDA・FDA）に基づくバジルペーストの葉緑素褐変防止法、オリーブオイル膜密封法および保存期間をご確認ください。",
-                "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
-                "intro": "爽やかなバジル、香ばしい松の実、オリーブオイルが織りなす豊潤な風味が魅力のバジルペースト（バジルジェノベーゼ）！🌿🧀\n\nバジルペーストは鮮やかな緑色と新鮮な香りが命です。しかし、開封後に容器のまま放置するとあっという間に暗い褐色に変色したり、オリーブオイルとニンニク・ハーブの組み合わせによって厭気性食中毒菌であるボツリヌス菌（Clostridium botulinum）が繁殖しやすい環境が作られてしまいます。\n\n本記事では、米国USDA、FDAおよび食品医薬品安全処の検証済みガイドラインに基づき、葉緑素の破壊（褐変）を防ぎボツリヌス菌のリスクを徹底遮断する3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "バジルの葉緑素が酸素に触れてフェオフィチンへ変換される化学的褐変原理と、オイル内の厭気性微生物の増殖抑制メカニズムを理解することが鮮度と食品安全の核心です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "開封後や手作りのバジルペーストを常温放置しないでください ⚠️",
-                        "desc": "オリーブオイルに生ハーブ（バジル）やニンニク、松の実を漬けた状態は酸素のない厭気的条件となり、致死性の高い毒素を作るボツリヌス菌（Clostridium botulinum）が増殖する危険が高まります。必ず4℃以下で速やかに冷蔵保存してください。"
-                    },
-                    {
-                        "title": "空気や光にそのまま露出させないでください 🌿",
-                        "desc": "バジルの緑色色素である葉緑素（クロロフィル）は酸素や光と反応すると褐色のフェオフィチン（Pheophytin）に変換され、急速に褐変して風味が低下します。使用後は常に密閉してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "表面にエキストラバージンオリーブオイルを注いで密封する — オイルフィルム酸素遮断 🫒",
-                        "text": "ペーストを容器に入れ、スプーンで表面を平らに整えた後、エキストラバージンオリーブオイルを2〜3mmの厚さで注いで表面を覆います。このオイル膜が酸素との接触を遮断し、クロロフィルがフェオフィチンへ変色する褐変を防ぎます。"
-                    },
-                    {
-                        "name": "0〜4℃以下の低温で確実に冷蔵保存する — ボツリヌス菌抑制冷蔵 (7〜14日間) ❄️",
-                        "text": "オイル膜で覆ったペーストは密閉容器に入れ、0〜4℃の冷蔵庫で保管してください。ボツリヌス菌の毒素生成を抑制するための必須条件です。市販の開封品および手作りペーストは冷蔵状態で7〜14日以内に使い切ってください。"
-                    },
-                    {
-                        "name": "長期保存時は製氷トレイに小分けして冷凍する — 冷凍保存 (3〜6ヶ月間) 🧊",
-                        "text": "量が多い場合は製氷トレイに1回分ずつ分け入れて凍らせ、固まったらチャック付き保存袋に移して冷凍室（-18℃以下）で保管します。必要な分だけ取り出して使え、鮮やかな緑色と香りを3〜6ヶ月間維持できます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "バジルペーストの表面が褐色に変色しましたが、食べられますか？",
-                        "answer": "葉緑素が空気や光に触れてフェオフィチンに変色した単純な酸化（褐変）であれば、召し上がっても人体に害はありません。変色した表面を軽く取り除いてご使用ください。ただし、酸化した油臭さやカビ、ガスの発生による容器の膨張がある場合は変質していますので廃棄してください。"
-                    },
-                    {
-                        "question": "手作りのバジルペーストは冷蔵庫でどのくらい保存できますか？",
-                        "answer": "加熱殺菌処理をしていない手作りバジルペーストは、オイル膜を作っていても冷蔵（4℃以下）保存で7〜10日以内に使い切るのがボツリヌス菌食中毒予防において最も安全です。長く保存したい場合はすぐに小分けして冷凍してください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持罗勒酱（Basil Pesto）新鲜：科学储存指南",
-                "description": "根据USDA及FDA官方食品安全指南，了解罗勒酱防止叶绿素氧化变褐的方法、橄榄油油膜密封法及保质期。",
-                "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "罗勒酱（Basil Pesto）由新鲜罗勒、松子、大蒜、帕玛森芝士与橄榄油调制而成，为意面和面包带来浓郁芳香！🌿🧀\n\n鲜艳的绿色和清香是罗勒酱的灵魂。然而，开封后若直接暴露在空气中，罗勒中的叶绿素会迅速氧化变成暗褐色；且浸泡在橄榄油中的生草本与大蒜会形成无氧环境，若储存不当极易滋生肉毒杆菌（Clostridium botulinum）。\n\n本指南基于美国USDA、FDA及韩国MFDS验证的科学指南，为您带来3步科学储存秘诀，防止叶绿素破坏（变褐）并彻底杜绝肉毒杆菌风险。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解罗勒叶绿素在氧气作用下转化为脱镁叶绿素（Pheophytin）的化学变褐原理，以及抑制油中厌氧微生物滋生的机制，是保持新鲜度与食品安全的关键所在。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "开封后或自制罗勒酱切勿置于常温 ⚠️",
-                        "desc": "橄榄油浸泡生草本（罗勒）、大蒜和坚果的环境属于无氧（厌氧）环境，极易滋生能产生剧毒的肉毒杆菌（Clostridium botulinum）。必须立即存入4℃以下的冰箱冷藏。"
-                    },
-                    {
-                        "title": "切勿暴露于空气与光照中 🌿",
-                        "desc": "罗勒中的绿色色素叶绿素（Chlorophyll）与氧气及光线反应后，会转化为暗褐色的脱镁叶绿素（Pheophytin），导致迅速变褐并失去新鲜风味。使用后须始终密封。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "表面倒入特级初榨橄榄油密封 — 油膜（Oil Film）隔绝氧气 🫒",
-                        "text": "将罗勒酱装入容器，用勺子将表面抹平，再倒入一层2 - 3毫米厚的特级初榨橄榄油覆盖表面。这层油膜可彻底阻隔氧气接触，防止叶绿素氧化变褐。"
-                    },
-                    {
-                        "name": "严格置于0 - 4℃低温冷藏 — 抑制肉毒杆菌冷藏保存（7 - 14天） ❄️",
-                        "text": "淋上油膜的罗勒酱须装入密封盒，置于0 - 4℃冰箱内部冷藏。低温是抑制肉毒杆菌毒素生成的必要条件。开封的市售品及自制罗勒酱建议在7 - 14天内食用完毕。"
-                    },
-                    {
-                        "name": "长期储存时分装入冰格冷冻 — 冷冻保存（3 - 6个月） 🧊",
-                        "text": "若罗勒酱份量较多，可用勺子分装入冰格中冷冻变硬，再装入密封拉链袋放入冷冻室（-18℃以下）。需要时取出一两块即可使用，可保持鲜艳绿色与香气3 - 6个月。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "罗勒酱表面变褐色了，还能吃吗？",
-                        "answer": "如果是叶绿素接触空气转化为脱镁叶绿素的单纯氧化（变褐）现象，食用对健康无害。只需撇去表面的褐色部分即可正常使用。但如果散发出油脂哈喇味、长霉或容器鼓包，则说明已变质，请立即丢弃。"
-                    },
-                    {
-                        "question": "自制罗勒酱在冰箱里可以保存多久？",
-                        "answer": "由于自制罗勒酱未经过加热灭菌，即使淋了橄榄油膜，在冷藏（4℃以下）状态下也建议在7 - 10天内吃完，以确保预防肉毒杆菌食物中毒。如需长期保存，请立即分装冷冻。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener fresco el pesto de albahaca: Guía científica de conservación",
-                "description": "Descubra los métodos óptimos de almacenamiento para prevenir la oxidación de la clorofila, el sellado con película de aceite y el tiempo de conservación según la USDA y la FDA.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "¡El pesto de albahaca (basil pesto) aporta un sabor fresco, aromático y rico a pastas y sándwiches gracias a la albahaca, los piñones, el ajo y el queso parmesano! 🌿🧀\n\nEl color verde brillante y el aroma fresco son la esencia del pesto de albahaca. Sin embargo, al exponerse al aire, la clorofila de la albahaca se oxida rápidamente tornándose café oscuro, mientras que las hierbas sumergidas en aceite crean un entorno anaeróbico propenso a la bacteria Clostridium botulinum si no se conserva adecuadamente.\n\nEn esta guía, basada en pautas científicas de la USDA, la FDA y la MFDS, presentamos una estrategia en 3 pasos para evitar la degradación de la clorofila (pardeamiento) y eliminar los riesgos de botulismo. 🛡️",
-                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-                "whyDesc": "Comprender el mecanismo químico por el cual la clorofila se convierte en feofitina marrón al contacto con el oxígeno, así como controlar el desarrollo microbiano anaeróbico en el aceite, es clave para la frescura y la seguridad alimentaria.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Nunca deje el pesto de albahaca abierto o casero a temperatura ambiente ⚠️",
-                        "desc": "Sumergir hierbas frescas, ajo y frutos secos en aceite de oliva crea un entorno anaeróbico (sin oxígeno) que favorece el desarrollo de Clostridium botulinum, una bacteria que produce neurotoxinas mortales. Refrigere de inmediato a 4 °C o menos."
-                    },
-                    {
-                        "title": "No deje el pesto expuesto al aire y a la luz 🌿",
-                        "desc": "La clorofila, el pigmento verde de la albahaca, reacciona con el oxígeno y la luz transformándose en feofitina parda, lo que causa un pardeamiento rápido y pérdida de sabor. Selle siempre herméticamente."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Vierta una capa de aceite de oliva virgen extra sobre la superficie — Sellado de aceite (Oil Film) 🫒",
-                        "text": "Pase el pesto a un recipiente, alise la superficie con una cuchara y vierta una capa de 2–3 mm de aceite de oliva virgen extra. Esta película de aceite bloquea completamente el oxígeno, evitando que la clorofila se oxide a feofitina parda."
-                    },
-                    {
-                        "name": "Refrigere estrictamente a 0–4 °C — Prevención de botulismo en frío (7–14 días) ❄️",
-                        "text": "Guarde el pesto sellado con aceite en un recipiente hermético en la parte profunda del refrigerador a 0–4 °C. La baja temperatura es obligatoria para inhibir la producción de toxina por Clostridium botulinum. Consuma el pesto comercial abierto o casero en un plazo de 7 a 14 días."
-                    },
-                    {
-                        "name": "Dosifique en cubiteras de hielo para congelar a largo plazo — Congelación (3–6 meses) 🧊",
-                        "text": "Si tiene exceso de pesto, vierta porciones individuales en cubiteras de hielo y congele. Una vez sólidas, pase las cubetas de pesto a una bolsa Ziploc a -18 °C o menos. Podrá sacar porciones según las necesite manteniendo el color y aroma de 3 a 6 meses."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "La capa superior de mi pesto se ha puesto marrón. ¿Es seguro comerlo?",
-                        "answer": "Sí, si se trata de una simple oxidación en la que la clorofila cambió a feofitina por el contacto con el aire, es seguro consumirlo. Simplemente retire la capa superior marrón y use el pesto verde de abajo. Sin embargo, si presenta olor rancio o agrio, moho o envase hinchado, deséchelo de inmediato."
-                    },
-                    {
-                        "question": "¿Cuánto tiempo se puede conservar el pesto casero en el refrigerador?",
-                        "answer": "Debido a que el pesto casero no está pasteurizado, incluso con la capa de aceite de oliva, debe consumirse en un plazo de 7 a 10 días bajo refrigeración (a 4 °C o menos) para garantizar la seguridad frente a Clostridium botulinum. Para conservarlo más tiempo, congele de inmediato."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver le pesto de basilic frais : Guide scientifique de stockage",
-                "description": "Découvrez les méthodes optimales pour éviter l'oxydation de la chlorophylle, le scellage par film d'huile et la durée de conservation du pesto de basilic selon l'USDA et la FDA.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Le pesto de basilic (basil pesto) apporte une saveur riche et parfumée de basilic frais, pignons de pin, ail et parmesan à vos pâtes et sandwichs ! 🌿🧀\n\nSa couleur verte éclatante et son arôme frais sont le cœur du pesto. Cependant, une fois exposé à l'air, la chlorophylle du basilic s'oxyde rapidement en une couleur brune terne, tandis que les herbes baignant dans l'huile créent un milieu anaérobie propice à Clostridium botulinum si le pesto est mal conservé.\n\nDans ce guide, basé sur des données scientifiques validées par l'USDA, la FDA et le MFDS, nous vous présentons une méthode en 3 étapes pour éviter la dégradation de la chlorophylle (brunissement) et éliminer les risques de botulisme. 🛡️",
-                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre le mécanisme chimique de conversion de la chlorophylle en phéophytine brune sous l'effet de l'oxygène et contrôler la prolifération microbienne anaérobie dans l'huile est la clé de la fraîcheur et de la sécurité alimentaire.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne laissez jamais du pesto de basilic ouvert ou fait maison à température ambiante ⚠️",
-                        "desc": "Immerger des herbes fraîches, de l'ail et des pignons dans l'huile d'olive crée un milieu anaérobie (sans oxygène) très favorable à la multiplication de Clostridium botulinum, une bactérie produisant des neurotoxines mortelles. Réfrigérez immédiatement à 4 °C ou moins."
-                    },
-                    {
-                        "title": "Ne laissez pas le pesto exposé à l'air et à la lumière 🌿",
-                        "desc": "La chlorophylle, le pigment vert du basilic, réagit avec l'oxygène et la lumière pour se transformer en phéophytine brune, provoquant un brunissement rapide et une perte d'arôme. Refermez toujours hermétiquement."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Verser une couche d'huile d'olive extra vierge à la surface — Film d'huile isolant du dioxygène 🫒",
-                        "text": "Verser le pesto dans un récipient, lissez la surface avec une cuillère, puis verser 2 à 3 mm d'huile d'olive extra vierge. Ce film d'huile bloque totalement le contact avec l'oxygène, empêchant la chlorophylle de s'oxyder en phéophytine brune."
-                    },
-                    {
-                        "name": "Réfrigérer strictement entre 0 et 4 °C — Prévention du botulisme au frais (7–14 jours) ❄️",
-                        "text": "Conservez le pesto recouvert d'huile dans un récipient hermétique au cœur du réfrigérateur entre 0 et 4 °C. La basse température est obligatoire pour empêcher la production de toxines par Clostridium botulinum. Consommez le pesto ouvert ou maison sous 7 à 14 jours."
-                    },
-                    {
-                        "name": "Portionner dans un bac à glaçons pour la congélation — Congélation (3–6 mois) 🧊",
-                        "text": "En cas de surplus, répartissez des portions individuelles dans un bac à glaçons et congelez. Une fois solides, transférez les cubes de pesto dans un sachet Ziploc à -18 °C ou moins. Vous pourrez prélever des portions au besoin tout en préservant couleur et arôme pendant 3 à 6 mois."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "La couche supérieure de mon pesto est devenue brune. Est-il encore consommable ?",
-                        "answer": "Oui, s'il s'agit d'une simple oxydation de la chlorophylle en phéophytine au contact de l'air, il reste propre à la consommation. Il suffit de gratter la couche brune du dessus et d'utiliser le pesto vert en dessous. En revanche, en cas d'odeur rance, de moisissure ou de contenant gonflé, jetez-le immédiatement."
-                    },
-                    {
-                        "question": "Combien de temps le pesto de basilic maison se conserve-t-il au réfrigérateur ?",
-                        "answer": "Le pesto maison n'étant pas pasteurisé, même recouverte d'un film d'huile, la préparation doit être consommée dans les 7 à 10 jours au réfrigérateur (à 4 °C ou moins) pour écarter tout risque lié à Clostridium botulinum. Pour une conservation plus longue, congelez-le immédiatement."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Basilikum-Pesto richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimalen Lagerungsmethoden zur Vermeidung von Chlorophyll-Oxidation, Ölfilm-Versiegelung und die Haltbarkeit von Basilikum-Pesto nach USDA & FDA.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Basilikum-Pesto (Basil Pesto) Verleiht Nudeln und Sandwiches mit frischem Basilikum, Pinienkernen, Knoblauch und Parmesan ein herrliches Aroma! 🌿🧀\n\nDie leuchtend grüne Farbe und das frische Aroma machen das Pesto aus. Sobald es jedoch Luft ausgesetzt ist, oxidiert das Chlorophyll im Basilikum schnell zu einer braunen Farbe. Zudem schaffen in Öl eingelegte Kräuter und Knoblauch ein anaerobes Milieu, in dem sich bei falscher Lagerung Clostridium botulinum-Bakterien vermehren können.\n\nIn diesem Ratgeber stellen wir Ihnen auf Basis wissenschaftlicher Richtlinien von USDA, FDA und MFDS eine 3-Schritte-Methode vor, um Chlorophyllabbau (Braunwerden) zu verhindern und Botulismus-Risiken auszuschließen. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis des chemischen Mechanismus, durch den Chlorophyll bei Sauerstoffkontakt in braunes Pheophytin umgewandelt wird, sowie die Kontrolle des anaeroben Bakterienwachstums im Öl ist der Schlüssel zu Frische und Lebensmittelsicherheit.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Geöffnetes oder selbstgemachtes Pesto niemals bei Raumtemperatur stehen lassen ⚠️",
-                        "desc": "Das Einlegen von frischen Kräutern, Knoblauch und Nüssen in Olivenöl schafft ein anaerobes (sauerstofffreies) Milieu. Dies begünstigt das Wachstum von Clostridium botulinum, einem Bakterium, das tödliche Neurotoxine bildet. Sofort bei 4 °C oder kälter kühlen."
-                    },
-                    {
-                        "title": "Pesto nicht ungeschützt Luft und Licht aussetzen 🌿",
-                        "desc": "Der grüne Farbstoff Chlorophyll im Basilikum reagiert mit Sauerstoff und Licht zu braunem Pheophytin. Dies führt zu rascher Braunfärbung und Aromaverlust. Nach Gebrauch stets luftdicht verschließen."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Die Oberfläche mit einer Schicht Olivenöl nativ extra bedecken — Ölfilm als Sauerstoffbarriere 🫒",
-                        "text": "Füllen Sie das Pesto in ein Gefäß, streichen Sie die Oberfläche mit einem Löffel glatt und gießen Sie eine 2–3 mm dicke Schicht Olivenöl nativ extra darüber. Dieser Ölfilm blockiert den Sauerstoffkontakt vollständig und verhindert das Braunwerden."
-                    },
-                    {
-                        "name": "Strikte Kühlung bei 0–4 °C — Botulismus-Prävention im Kühlschrank (7–14 Tage) ❄️",
-                        "text": "Bewahren Sie das mit Öl versiegelte Pesto in einem luftdichten Behälter im Kühlschrank bei 0–4 °C auf. Die kühle Temperatur ist zwingend erforderlich, um die Toxinbildung durch Clostridium botulinum zu hemmen. Geöffnetes gekauftes oder selbstgemachtes Pesto innerhalb von 7 bis 14 Tagen verbrauchen."
-                    },
-                    {
-                        "name": "Für die Langzeitlagerung in Eiswürfelformen einfrieren — Gefrierlagerung (3–6 Monate) 🧊",
-                        "text": "Geben Sie überschüssiges Pesto portionsweise in Eiswürfelformen und frieren Sie es ein. Nach dem Durchfrieren die Pestowürfel in einen Ziploc-Gefrierbeutel bei -18 °C oder kälter umfüllen. So können Sie je nach Bedarf einzelne Würfel entnehmen, während Farbe und Aroma 3 bis 6 Monate erhalten bleiben."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Die obere Schicht meines Pestos ist braun geworden. Kann ich es noch essen?",
-                        "answer": "Ja, wenn es sich um eine einfache Oxidation handelt, bei der Chlorophyll durch Luftkontakt zu Pheophytin wurde, ist es unbedenklich. Schaben Sie einfach die braune Schicht ab und verwenden Sie das grüne Pesto darunter. Wenn es jedoch ranzig oder sauer riecht, Schimmel zeigt oder die Verpackung gebläht ist, sofort entsorgen."
-                    },
-                    {
-                        "question": "Wie lange ist selbstgemachtes Basilikum-Pesto im Kühlschrank haltbar?",
-                        "answer": "Da selbstgemachtes Pesto nicht unpasteurisiert ist, sollte es selbst mit Olivenölabdeckung innerhalb von 7 bis 10 Tagen bei Kühlung (bei oder unter 4 °C) verbraucht werden, um Botulismus sicher vorzubeugen. Für längere Aufbewahrung sofort einfrieren."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar o pesto de manjericão fresco: Guia científico de armazenamento",
-                "description": "Descubra os métodos ideais de conservação para prevenir a oxidação da clorofila, o selamento com filme de azeite e a validade do pesto de manjericão com base na USDA e FDA.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "O pesto de manjericão (basil pesto) traz um sabor rico e aromático de manjericão fresco, pinolis, alho e queijo parmesão para massas e sanduíches! 🌿🧀\n\nA cor verde vibrante e o aroma fresco são a alma do pesto. No entanto, quando exposto ao ar, a clorofila do manjericão oxida rapidamente tornando-se castanha, enquanto ervas e alho imersos em azeite criam um ambiente anaeróbico propício à bactéria Clostridium botulinum se armazenados incorretamente.\n\nNeste guia, baseado em diretrizes científicas da USDA, FDA e MFDS, apresentamos um método em 3 etapas para evitar a degradação da clorofila (escurecimento) e eliminar os riscos de botulismo. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender o mecanismo químico de conversão da clorofila em feofitina castanha pelo contato com o oxigênio e controlar a proliferação microbiana anaeróbica no azeite é a chave para a frescura e a segurança alimentar.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca deixe o pesto de manjericão aberto ou caseiro em temperatura ambiente ⚠️",
-                        "desc": "Mergulhar ervas frescas, alho e frutos secos em azeite cria um ambiente anaeróbico (sem oxigênio) propenso ao crescimento de Clostridium botulinum, uma bactéria que produz neurotoxinas mortais. Refrigere imediatamente a 4 °C ou menos."
-                    },
-                    {
-                        "title": "Não deixe o pesto exposto ao ar e à luz 🌿",
-                        "desc": "A clorofila, o pigmento verde do manjericão, reage com o oxigênio e a luz transformando-se em feofitina castanha, causando escurecimento rápido e perda de aroma. Sele sempre hermeticamente."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Despeje uma camada de azeite de oliva extra virgem sobre a superfície — Filme de Azeite Isolante 🫒",
-                        "text": "Transfira o pesto para um recipiente, alise a superfície com uma colher e despeje uma camada de 2 a 3 mm de azeite de oliva extra virgem. Este filme de azeite bloqueia totalmente o contato com o oxigênio, impedindo a oxidação da clorofila em feofitina."
-                    },
-                    {
-                        "name": "Refrigere estritamente a 0–4 °C — Prevenção de botulismo em refrigeração (7–14 dias) ❄️",
-                        "text": "Guarde o pesto selado com azeite em recipiente hermético na parte interna da geladeira a 0–4 °C. A temperatura fria é obrigatória para inibir a produção de toxina por Clostridium botulinum. Consuma pesto comercial aberto ou caseiro em 7 a 14 dias."
-                    },
-                    {
-                        "name": "Porcione em formas de gelo para congelar a longo prazo — Congelamento (3–6 meses) 🧊",
-                        "text": "Se tiver excesso de pesto, distribua porções individuais em formas de gelo e congele. Depois de sólidos, passe os cubos de pesto para um saco Ziploc a -18 °C ou menos. Você poderá retirar porções conforme necessário mantendo a cor e aroma de 3 a 6 meses."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "A camada superior do meu pesto ficou castanha. Ainda é seguro comer?",
-                        "answer": "Sim, se for uma simples oxidação em que a clorofila mudou para feofitina por contato com o ar, é seguro consumir. Basta raspar a camada castanha superior e usar o pesto verde por baixo. Porém, se houver cheiro rançoso, mofo ou embalagem estufada, descarte imediatamente."
-                    },
-                    {
-                        "question": "Por quanto tempo o pesto caseiro pode ser guardado na geladeira?",
-                        "answer": "Como o pesto caseiro não é pasteurizado, mesmo com a camada de azeite, deve ser consumido em 7 a 10 dias sob refrigeração (a 4 °C ou menos) para garantir a segurança contra o Clostridium botulinum. Para armazenar por mais tempo, congele imediatamente."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Pesto Kemangi (Basil Pesto) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui metode penyimpanan optimal untuk mencegah oksidasi klorofil, penyegelan lapisan minyak zaitun, dan masa simpan pesto kemangi berdasarkan panduan USDA & FDA.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Pesto kemangi (Basil Pesto) menghadirkan cita rasa kaya nan harum dari daun kemangi (basil) segar, kacang pinus, bawang putih, dan keju parmesan untuk pasta dan roti Anda! 🌿🧀\n\nWarna hijau cerah dan aroma segar adalah keunggulan utama pesto kemangi. Namun, begitu terpapar udara, klorofil pada kemangi akan teroksidasi dengan cepat menjadi warna cokelat kusam, sementara herba dan bawang putih yang terendam minyak menciptakan lingkungan anaerobik yang memicu bakteri Clostridium botulinum jika tidak disimpan dengan benar.\n\nDalam panduan ini, berdasarkan fakta ilmiah yang diverifikasi oleh USDA, FDA, dan MFDS, kami membagikan strategi penyimpanan 3 langkah untuk mencegah kerusakan klorofil (perubahan warna cokelat) dan memblokir risiko botulisme. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami mekanisme kimia perubahan klorofil menjadi feofitin cokelat akibat paparan oksigen serta mengendalikan pertumbuhan mikroba anaerobik dalam minyak adalah kunci utama menjaga kesegaran dan keamanan pangan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan pernah membiarkan pesto kemangi yang sudah dibuka atau buatan sendiri di suhu ruang ⚠️",
-                        "desc": "Merendam herba segar, bawang putih, dan kacang-kacangan dalam minyak zaitun menciptakan lingkungan anaerobik (tanpa oksigen) yang sangat disukai bakteri Clostridium botulinum penhasil racun berbahaya. Segera simpan di kulkas pada suhu 4°C atau lebih rendah."
-                    },
-                    {
-                        "title": "Jangan biarkan pesto terpapar udara dan cahaya 🌿",
-                        "desc": "Klorofil, pigmen hijau pada kemangi, bereaksi dengan oksigen dan cahaya menjadi feofitin cokelat, menyebabkan perubahan warna menjadi cokelat dengan cepat dan kehilangan aroma segar. Selalu tutup rapat setelah digunakan."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Tuangkan lapisan minyak zaitun extra virgin di atas permukaan — Lapisan Minyak Pelindung Oksigen 🫒",
-                        "text": "Pindahkan pesto ke dalam wadah, ratakan permukaannya dengan sendok, lalu tuangkan minyak zaitun extra virgin setebal 2–3 mm di atasnya. Lapisan minyak ini memblokir kontak oksigen secara total, mencegah klorofil teroksidasi menjadi feofitin cokelat."
-                    },
-                    {
-                        "name": "Simpan di kulkas secara ketat pada suhu 0–4°C — Pencegahan Botulisme Simpan Dingin (7–14 Hari) ❄️",
-                        "text": "Simpan pesto yang sudah disegel minyak dalam wadah kedap udara di bagian dalam kulkas pada suhu 0–4°C. Suhu dingin wajib diterapkan untuk menekan produksi racun oleh Clostridium botulinum. Habiskan pesto kemasan yang sudah dibuka atau buatan sendiri dalam 7 hingga 14 hari."
-                    },
-                    {
-                        "name": "Bagi ke dalam cetakan es batu untuk dibekukan jangka panjang — Simpan Freezer (3–6 Bulan) 🧊",
-                        "text": "Jika terdapat sisa pesto berlebih, tuangkan porsi sekali pakai ke dalam cetakan es batu dan bekukan. Setelah mengeras, pindahkan kubus pesto ke dalam kantong Ziploc freezer pada suhu -18°C atau lebih rendah. Anda dapat mengambil seperlunya saat dibutuhkan sambil menjaga warna dan aromanya selama 3 hingga 6 bulan."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Lapisan atas pesto kemangi saya berubah menjadi cokelat. Apakah masih aman dimakan?",
-                        "answer": "Ya, jika itu hanya oksidasi biasa di mana klorofil berubah menjadi feofitin akibat paparan udara, pesto tersebut masih aman dikonsumsi. Anda cukup mengerok lapisan cokelat di bagian atas dan menggunakan pesto hijau di bawahnya. Namun jika berbau tengik, berjamur, atau kemasannya menggembung, segera buang."
-                    },
-                    {
-                        "question": "Berapa lama pesto kemangi buatan sendiri dapat disimpan di dalam kulkas?",
-                        "answer": "Karena pesto buatan sendiri tidak melalui proses pasteurisasi, meskipun disiram lapisan minyak zaitun, pesto sebaiknya dihabiskan dalam 7 hingga 10 hari penyimpanan dingin (pada atau di bawah 4°C) untuk memastikan keamanan dari Clostridium botulinum. Untuk penyimpanan lebih lama, segera bekukan."
-                    }
-                ]
-            }
-        }
+  "how-to-store-basil-pesto": {
+    "ingId": "basil_pesto",
+    "pubDate": "2026-02-23",
+    "updatedDate": "2026-02-23",
+    "heroImage": "/images/blog/basil_pesto_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "바질 페스토 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 식품 안전 가이드라인(USDA·FDA)에 따른 바질 페스토의 엽록소 갈변 방지법, 올리브유 오일 필름 밀봉법 및 보관 기간을 확인하세요.",
+        "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
+        "intro": "향긋한 바질과 고소한 잣, 올리브유가 어우러져 파스타나 샌드위치에 최고의 풍미를 더해주는 바질 페스토(Basil Pesto)! 🌿🧀\n\n바질 페스토는 바질의 선명한 초록빛과 신선한 향이 생명입니다. 하지만 개봉 후 용기에 그대로 두면 순식간에 거무튀튀하게 갈색으로 변하거나, 올리브유와 마늘, 허브의 조합으로 인해 혐기성 식중독균인 보툴리누스균(Clostridium botulinum)이 번식하기 쉬운 환경이 조성됩니다.\n\n이번 가이드에서는 미국 USDA 및 FDA, 식품의약품안전처의 검증된 가이드라인을 바탕으로, 엽록소 파괴(갈변)를 막고 보툴리누스균 위험을 완벽히 차단하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "바질 엽록소가 산소에 노출되어 페오피틴으로 전환되는 화학적 갈변 원리와 기름 속 혐기성 미생물 증식 억제 메커니즘을 이해하는 것이 신선도와 식품 안전의 핵심입니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "개봉 후 또는 수제 바질 페스토를 상온에 두지 마세요 ⚠️",
+            "desc": "올리브유에 생허브(바질), 마늘, 잣을 담근 상태는 산소가 없는 혐기성 조건이 되어 치명적인 독소를 생성하는 보툴리누스균(Clostridium botulinum)이 증식할 위험이 높습니다. 반드시 4℃ 이하로 즉시 냉장 보관하세요."
+          },
+          {
+            "title": "공기와 빛에 그대로 노출시키지 마세요 🌿",
+            "desc": "바질의 초록색을 띠는 엽록소(Chlorophyll)는 산소 및 빛과 반응하면 갈색의 페오피틴(Pheophytin)으로 전환되어 빠르게 갈변하고 풍미가 저하됩니다. 사용 후에는 항상 밀폐 상태를 유지해야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "표면에 엑스트라 버진 올리브유를 덮어 밀봉하기 — 오일 필름(Oil Film) 산소 차단 🫒",
+            "text": "페스토를 용기에 담은 뒤 스푼으로 표면을 평평하게 정돈하고, 엑스트라 버진 올리브유를 2 - 3mm 두께로 부어 표면을 덮어주세요. 이 오일막이 산소 접촉을 원천 차단하여 엽록소가 페오피틴으로 변하는 갈변 현상을 막아줍니다."
+          },
+          {
+            "name": "0 - 4℃ 이하에서 필수 저온 냉장 보관하기 — 보툴리누스균 억제 냉장 (7 - 14일) ❄️",
+            "text": "올리브유막을 덮은 페스토는 밀폐 용기에 담아 0 - 4℃ 냉장고에 보관하세요. 보툴리누스균 포자의 독소 생성을 억제하기 위한 필수 조건입니다. 개봉 제품 및 수제 페스토는 냉장 상태에서 7 - 14일 이내에 소비해야 합니다."
+          },
+          {
+            "name": "장기 보관 시 얼음 트레이에 소분하여 냉동하기 — 냉동 보관 (3 - 6개월) 🧊",
+            "text": "페스토 양이 많다면 얼음 트레이에 1회용 분량씩 담아 1차 냉동한 뒤, 단단해지면 지퍼백에 옮겨 냉동실(-18℃ 이하)에 보관하세요. 필요할 때마다 한 조각씩 꺼내 쓸 수 있으며 선명한 초록빛과 향을 3 - 6개월간 유지할 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "바질 페스토 표면이 갈색으로 변했는데 먹어도 되나요?",
+            "answer": "엽록소가 산소와 빛에 노출되어 페오피틴으로 변한 단순 산화(갈변) 현상이라면 먹어도 유해하지 않습니다. 갈색으로 변한 윗부분을 살짝 걷어내고 사용하시면 됩니다. 단, 산패된 퀴퀴한 냄새나 곰팡이, 가스 부풀어 오름이 있다면 변질된 것이므로 폐기하셔야 합니다."
+          },
+          {
+            "question": "수제 바질 페스토는 냉장고에서 얼마나 오랫동안 보관할 수 있나요?",
+            "answer": "가열 멸균 처리를 거치지 않은 수제 바질 페스토는 올리브유막을 형성했더라도 냉장(4℃ 이하) 보관 시 7 - 10일 이내에 모두 소비하는 것이 보툴리누스균 식중독 예방을 위해 가장 안전합니다. 더 오래 두고 드시려면 즉시 냉동 보관하세요."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Basil Pesto Fresh: Scientific Storage Guide",
+        "description": "Check optimal storage methods to prevent chlorophyll oxidation, oil film sealing techniques, and shelf life for basil pesto based on official USDA & FDA safety guidelines.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Basil pesto brings a rich, fragrant flavor of fresh basil, pine nuts, garlic, and parmesan cheese to pasta and sandwiches! 🌿🧀\n\nThe vibrant green color and fresh aroma are the heart of basil pesto. However, once exposed to air, the chlorophyll in basil oxidizes rapidly into a dull brown color, and the oil-submerged herbs and garlic create an anaerobic environment where Clostridium botulinum bacteria can thrive if improperly stored.\n\nIn this guide, based on scientifically verified guidelines from the USDA, FDA, and MFDS, we present a 3-step optimal storage strategy to prevent chlorophyll breakdown (browning) and eliminate botulism risks. 🛡️",
+        "whyTitle": "Why Store Basil Pesto This Way? Scientific Facts",
+        "whyDesc": "Understanding the chemical mechanism of chlorophyll converting to brown pheophytin upon oxygen exposure and controlling anaerobic microbial growth in oil is key to preserving freshness and food safety.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never leave opened or homemade basil pesto at room temperature ⚠️",
+            "desc": "Submerging fresh herbs, garlic, and nuts in olive oil creates an anaerobic (oxygen-free) environment that encourages the growth of Clostridium botulinum, a bacterium producing deadly neurotoxins. Always refrigerate immediately at or below 4°C."
+          },
+          {
+            "title": "Do not leave exposed to air and light 🌿",
+            "desc": "The green pigment in basil, chlorophyll, reacts with oxygen and light to convert into brown pheophytin, causing rapid browning and loss of fresh flavor. Always seal tightly after use."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Pour a layer of extra virgin olive oil over the surface — Oil Film Oxygen Barrier 🫒",
+            "text": "Transfer pesto into a container, smooth the top surface flat with a spoon, and pour a 2–3 mm layer of extra virgin olive oil over it. This oil film completely blocks oxygen contact, preventing chlorophyll from oxidizing into brown pheophytin."
+          },
+          {
+            "name": "Refrigerate strictly at or below 0–4°C — Botulism Prevention Cold Storage (7–14 Days) ❄️",
+            "text": "Store the oil-sealed pesto in an airtight container deep inside the refrigerator at 0–4°C (32–39°F). Low temperature is mandatory to inhibit Clostridium botulinum toxin production. Consume opened store-bought or homemade pesto within 7 to 14 days."
+          },
+          {
+            "name": "Portion into ice cube trays and freeze for long-term storage — Freezer Storage (3–6 Months) 🧊",
+            "text": "If you have excess pesto, spoon single-use portions into ice cube trays and freeze. Once solid, transfer the pesto cubes into a Ziploc freezer bag at -18°C (0°F) or below. You can pop out single servings whenever needed while keeping color and aroma for 3 to 6 months."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "The top layer of my basil pesto turned brown. Is it still safe to eat?",
+            "answer": "Yes, if it is simple oxidation where chlorophyll converted to pheophytin due to air exposure, it is safe to consume. You can simply scrape off the top brown layer and use the green pesto underneath. However, if it has a rancid sour odor, mold growth, or container bloating, discard it immediately."
+          },
+          {
+            "question": "How long can homemade basil pesto be safely stored in the refrigerator?",
+            "answer": "Because homemade pesto is unpasteurized, even with an olive oil seal, it should be consumed within 7 to 10 days under refrigeration (at or below 4°C) to ensure safety against Clostridium botulinum. For longer storage, freeze it immediately."
+          }
+        ]
+      },
+      "ja": {
+        "title": "バジルペースト（Basil Pesto）を新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的食品安全ガイドライン（USDA・FDA）に基づくバジルペーストの葉緑素褐変防止法、オリーブオイル膜密封法および保存期間をご確認ください。",
+        "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
+        "intro": "爽やかなバジル、香ばしい松の実、オリーブオイルが織りなす豊潤な風味が魅力のバジルペースト（バジルジェノベーゼ）！🌿🧀\n\nバジルペーストは鮮やかな緑色と新鮮な香りが命です。しかし、開封後に容器のまま放置するとあっという間に暗い褐色に変色したり、オリーブオイルとニンニク・ハーブの組み合わせによって厭気性食中毒菌であるボツリヌス菌（Clostridium botulinum）が繁殖しやすい環境が作られてしまいます。\n\n本記事では、米国USDA、FDAおよび食品医薬品安全処の検証済みガイドラインに基づき、葉緑素の破壊（褐変）を防ぎボツリヌス菌のリスクを徹底遮断する3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "バジルの葉緑素が酸素に触れてフェオフィチンへ変換される化学的褐変原理と、オイル内の厭気性微生物の増殖抑制メカニズムを理解することが鮮度と食品安全の核心です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "開封後や手作りのバジルペーストを常温放置しないでください ⚠️",
+            "desc": "オリーブオイルに生ハーブ（バジル）やニンニク、松の実を漬けた状態は酸素のない厭気的条件となり、致死性の高い毒素を作るボツリヌス菌（Clostridium botulinum）が増殖する危険が高まります。必ず4℃以下で速やかに冷蔵保存してください。"
+          },
+          {
+            "title": "空気や光にそのまま露出させないでください 🌿",
+            "desc": "バジルの緑色色素である葉緑素（クロロフィル）は酸素や光と反応すると褐色のフェオフィチン（Pheophytin）に変換され、急速に褐変して風味が低下します。使用後は常に密閉してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "表面にエキストラバージンオリーブオイルを注いで密封する — オイルフィルム酸素遮断 🫒",
+            "text": "ペーストを容器に入れ、スプーンで表面を平らに整えた後、エキストラバージンオリーブオイルを2〜3mmの厚さで注いで表面を覆います。このオイル膜が酸素との接触を遮断し、クロロフィルがフェオフィチンへ変色する褐変を防ぎます。"
+          },
+          {
+            "name": "0〜4℃以下の低温で確実に冷蔵保存する — ボツリヌス菌抑制冷蔵 (7〜14日間) ❄️",
+            "text": "オイル膜で覆ったペーストは密閉容器に入れ、0〜4℃の冷蔵庫で保管してください。ボツリヌス菌の毒素生成を抑制するための必須条件です。市販の開封品および手作りペーストは冷蔵状態で7〜14日以内に使い切ってください。"
+          },
+          {
+            "name": "長期保存時は製氷トレイに小分けして冷凍する — 冷凍保存 (3〜6ヶ月間) 🧊",
+            "text": "量が多い場合は製氷トレイに1回分ずつ分け入れて凍らせ、固まったらチャック付き保存袋に移して冷凍室（-18℃以下）で保管します。必要な分だけ取り出して使え、鮮やかな緑色と香りを3〜6ヶ月間維持できます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "バジルペーストの表面が褐色に変色しましたが、食べられますか？",
+            "answer": "葉緑素が空気や光に触れてフェオフィチンに変色した単純な酸化（褐変）であれば、召し上がっても人体に害はありません。変色した表面を軽く取り除いてご使用ください。ただし、酸化した油臭さやカビ、ガスの発生による容器の膨張がある場合は変質していますので廃棄してください。"
+          },
+          {
+            "question": "手作りのバジルペーストは冷蔵庫でどのくらい保存できますか？",
+            "answer": "加熱殺菌処理をしていない手作りバジルペーストは、オイル膜を作っていても冷蔵（4℃以下）保存で7〜10日以内に使い切るのがボツリヌス菌食中毒予防において最も安全です。長く保存したい場合はすぐに小分けして冷凍してください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持罗勒酱（Basil Pesto）新鲜：科学储存指南",
+        "description": "根据USDA及FDA官方食品安全指南，了解罗勒酱防止叶绿素氧化变褐的方法、橄榄油油膜密封法及保质期。",
+        "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "罗勒酱（Basil Pesto）由新鲜罗勒、松子、大蒜、帕玛森芝士与橄榄油调制而成，为意面和面包带来浓郁芳香！🌿🧀\n\n鲜艳的绿色和清香是罗勒酱的灵魂。然而，开封后若直接暴露在空气中，罗勒中的叶绿素会迅速氧化变成暗褐色；且浸泡在橄榄油中的生草本与大蒜会形成无氧环境，若储存不当极易滋生肉毒杆菌（Clostridium botulinum）。\n\n本指南基于美国USDA、FDA及韩国MFDS验证的科学指南，为您带来3步科学储存秘诀，防止叶绿素破坏（变褐）并彻底杜绝肉毒杆菌风险。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解罗勒叶绿素在氧气作用下转化为脱镁叶绿素（Pheophytin）的化学变褐原理，以及抑制油中厌氧微生物滋生的机制，是保持新鲜度与食品安全的关键所在。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "开封后或自制罗勒酱切勿置于常温 ⚠️",
+            "desc": "橄榄油浸泡生草本（罗勒）、大蒜和坚果的环境属于无氧（厌氧）环境，极易滋生能产生剧毒的肉毒杆菌（Clostridium botulinum）。必须立即存入4℃以下的冰箱冷藏。"
+          },
+          {
+            "title": "切勿暴露于空气与光照中 🌿",
+            "desc": "罗勒中的绿色色素叶绿素（Chlorophyll）与氧气及光线反应后，会转化为暗褐色的脱镁叶绿素（Pheophytin），导致迅速变褐并失去新鲜风味。使用后须始终密封。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "表面倒入特级初榨橄榄油密封 — 油膜（Oil Film）隔绝氧气 🫒",
+            "text": "将罗勒酱装入容器，用勺子将表面抹平，再倒入一层2 - 3毫米厚的特级初榨橄榄油覆盖表面。这层油膜可彻底阻隔氧气接触，防止叶绿素氧化变褐。"
+          },
+          {
+            "name": "严格置于0 - 4℃低温冷藏 — 抑制肉毒杆菌冷藏保存（7 - 14天） ❄️",
+            "text": "淋上油膜的罗勒酱须装入密封盒，置于0 - 4℃冰箱内部冷藏。低温是抑制肉毒杆菌毒素生成的必要条件。开封的市售品及自制罗勒酱建议在7 - 14天内食用完毕。"
+          },
+          {
+            "name": "长期储存时分装入冰格冷冻 — 冷冻保存（3 - 6个月） 🧊",
+            "text": "若罗勒酱份量较多，可用勺子分装入冰格中冷冻变硬，再装入密封拉链袋放入冷冻室（-18℃以下）。需要时取出一两块即可使用，可保持鲜艳绿色与香气3 - 6个月。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "罗勒酱表面变褐色了，还能吃吗？",
+            "answer": "如果是叶绿素接触空气转化为脱镁叶绿素的单纯氧化（变褐）现象，食用对健康无害。只需撇去表面的褐色部分即可正常使用。但如果散发出油脂哈喇味、长霉或容器鼓包，则说明已变质，请立即丢弃。"
+          },
+          {
+            "question": "自制罗勒酱在冰箱里可以保存多久？",
+            "answer": "由于自制罗勒酱未经过加热灭菌，即使淋了橄榄油膜，在冷藏（4℃以下）状态下也建议在7 - 10天内吃完，以确保预防肉毒杆菌食物中毒。如需长期保存，请立即分装冷冻。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener fresco el pesto de albahaca: Guía científica de conservación",
+        "description": "Descubra los métodos óptimos de almacenamiento para prevenir la oxidación de la clorofila, el sellado con película de aceite y el tiempo de conservación según la USDA y la FDA.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "¡El pesto de albahaca (basil pesto) aporta un sabor fresco, aromático y rico a pastas y sándwiches gracias a la albahaca, los piñones, el ajo y el queso parmesano! 🌿🧀\n\nEl color verde brillante y el aroma fresco son la esencia del pesto de albahaca. Sin embargo, al exponerse al aire, la clorofila de la albahaca se oxida rápidamente tornándose café oscuro, mientras que las hierbas sumergidas en aceite crean un entorno anaeróbico propenso a la bacteria Clostridium botulinum si no se conserva adecuadamente.\n\nEn esta guía, basada en pautas científicas de la USDA, la FDA y la MFDS, presentamos una estrategia en 3 pasos para evitar la degradación de la clorofila (pardeamiento) y eliminar los riesgos de botulismo. 🛡️",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender el mecanismo químico por el cual la clorofila se convierte en feofitina marrón al contacto con el oxígeno, así como controlar el desarrollo microbiano anaeróbico en el aceite, es clave para la frescura y la seguridad alimentaria.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Nunca deje el pesto de albahaca abierto o casero a temperatura ambiente ⚠️",
+            "desc": "Sumergir hierbas frescas, ajo y frutos secos en aceite de oliva crea un entorno anaeróbico (sin oxígeno) que favorece el desarrollo de Clostridium botulinum, una bacteria que produce neurotoxinas mortales. Refrigere de inmediato a 4 °C o menos."
+          },
+          {
+            "title": "No deje el pesto expuesto al aire y a la luz 🌿",
+            "desc": "La clorofila, el pigmento verde de la albahaca, reacciona con el oxígeno y la luz transformándose en feofitina parda, lo que causa un pardeamiento rápido y pérdida de sabor. Selle siempre herméticamente."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Vierta una capa de aceite de oliva virgen extra sobre la superficie — Sellado de aceite (Oil Film) 🫒",
+            "text": "Pase el pesto a un recipiente, alise la superficie con una cuchara y vierta una capa de 2–3 mm de aceite de oliva virgen extra. Esta película de aceite bloquea completamente el oxígeno, evitando que la clorofila se oxide a feofitina parda."
+          },
+          {
+            "name": "Refrigere estrictamente a 0–4 °C — Prevención de botulismo en frío (7–14 días) ❄️",
+            "text": "Guarde el pesto sellado con aceite en un recipiente hermético en la parte profunda del refrigerador a 0–4 °C. La baja temperatura es obligatoria para inhibir la producción de toxina por Clostridium botulinum. Consuma el pesto comercial abierto o casero en un plazo de 7 a 14 días."
+          },
+          {
+            "name": "Dosifique en cubiteras de hielo para congelar a largo plazo — Congelación (3–6 meses) 🧊",
+            "text": "Si tiene exceso de pesto, vierta porciones individuales en cubiteras de hielo y congele. Una vez sólidas, pase las cubetas de pesto a una bolsa Ziploc a -18 °C o menos. Podrá sacar porciones según las necesite manteniendo el color y aroma de 3 a 6 meses."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "La capa superior de mi pesto se ha puesto marrón. ¿Es seguro comerlo?",
+            "answer": "Sí, si se trata de una simple oxidación en la que la clorofila cambió a feofitina por el contacto con el aire, es seguro consumirlo. Simplemente retire la capa superior marrón y use el pesto verde de abajo. Sin embargo, si presenta olor rancio o agrio, moho o envase hinchado, deséchelo de inmediato."
+          },
+          {
+            "question": "¿Cuánto tiempo se puede conservar el pesto casero en el refrigerador?",
+            "answer": "Debido a que el pesto casero no está pasteurizado, incluso con la capa de aceite de oliva, debe consumirse en un plazo de 7 a 10 días bajo refrigeración (a 4 °C o menos) para garantizar la seguridad frente a Clostridium botulinum. Para conservarlo más tiempo, congele de inmediato."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver le pesto de basilic frais : Guide scientifique de stockage",
+        "description": "Découvrez les méthodes optimales pour éviter l'oxydation de la chlorophylle, le scellage par film d'huile et la durée de conservation du pesto de basilic selon l'USDA et la FDA.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Le pesto de basilic (basil pesto) apporte une saveur riche et parfumée de basilic frais, pignons de pin, ail et parmesan à vos pâtes et sandwichs ! 🌿🧀\n\nSa couleur verte éclatante et son arôme frais sont le cœur du pesto. Cependant, une fois exposé à l'air, la chlorophylle du basilic s'oxyde rapidement en une couleur brune terne, tandis que les herbes baignant dans l'huile créent un milieu anaérobie propice à Clostridium botulinum si le pesto est mal conservé.\n\nDans ce guide, basé sur des données scientifiques validées par l'USDA, la FDA et le MFDS, nous vous présentons une méthode en 3 étapes pour éviter la dégradation de la chlorophylle (brunissement) et éliminer les risques de botulisme. 🛡️",
+        "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre le mécanisme chimique de conversion de la chlorophylle en phéophytine brune sous l'effet de l'oxygène et contrôler la prolifération microbienne anaérobie dans l'huile est la clé de la fraîcheur et de la sécurité alimentaire.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne laissez jamais du pesto de basilic ouvert ou fait maison à température ambiante ⚠️",
+            "desc": "Immerger des herbes fraîches, de l'ail et des pignons dans l'huile d'olive crée un milieu anaérobie (sans oxygène) très favorable à la multiplication de Clostridium botulinum, une bactérie produisant des neurotoxines mortelles. Réfrigérez immédiatement à 4 °C ou moins."
+          },
+          {
+            "title": "Ne laissez pas le pesto exposé à l'air et à la lumière 🌿",
+            "desc": "La chlorophylle, le pigment vert du basilic, réagit avec l'oxygène et la lumière pour se transformer en phéophytine brune, provoquant un brunissement rapide et une perte d'arôme. Refermez toujours hermétiquement."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Verser une couche d'huile d'olive extra vierge à la surface — Film d'huile isolant du dioxygène 🫒",
+            "text": "Verser le pesto dans un récipient, lissez la surface avec une cuillère, puis verser 2 à 3 mm d'huile d'olive extra vierge. Ce film d'huile bloque totalement le contact avec l'oxygène, empêchant la chlorophylle de s'oxyder en phéophytine brune."
+          },
+          {
+            "name": "Réfrigérer strictement entre 0 et 4 °C — Prévention du botulisme au frais (7–14 jours) ❄️",
+            "text": "Conservez le pesto recouvert d'huile dans un récipient hermétique au cœur du réfrigérateur entre 0 et 4 °C. La basse température est obligatoire pour empêcher la production de toxines par Clostridium botulinum. Consommez le pesto ouvert ou maison sous 7 à 14 jours."
+          },
+          {
+            "name": "Portionner dans un bac à glaçons pour la congélation — Congélation (3–6 mois) 🧊",
+            "text": "En cas de surplus, répartissez des portions individuelles dans un bac à glaçons et congelez. Une fois solides, transférez les cubes de pesto dans un sachet Ziploc à -18 °C ou moins. Vous pourrez prélever des portions au besoin tout en préservant couleur et arôme pendant 3 à 6 mois."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "La couche supérieure de mon pesto est devenue brune. Est-il encore consommable ?",
+            "answer": "Oui, s'il s'agit d'une simple oxydation de la chlorophylle en phéophytine au contact de l'air, il reste propre à la consommation. Il suffit de gratter la couche brune du dessus et d'utiliser le pesto vert en dessous. En revanche, en cas d'odeur rance, de moisissure ou de contenant gonflé, jetez-le immédiatement."
+          },
+          {
+            "question": "Combien de temps le pesto de basilic maison se conserve-t-il au réfrigérateur ?",
+            "answer": "Le pesto maison n'étant pas pasteurisé, même recouverte d'un film d'huile, la préparation doit être consommée dans les 7 à 10 jours au réfrigérateur (à 4 °C ou moins) pour écarter tout risque lié à Clostridium botulinum. Pour une conservation plus longue, congelez-le immédiatement."
+          }
+        ]
+      },
+      "de": {
+        "title": "Basilikum-Pesto richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimalen Lagerungsmethoden zur Vermeidung von Chlorophyll-Oxidation, Ölfilm-Versiegelung und die Haltbarkeit von Basilikum-Pesto nach USDA & FDA.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Basilikum-Pesto (Basil Pesto) Verleiht Nudeln und Sandwiches mit frischem Basilikum, Pinienkernen, Knoblauch und Parmesan ein herrliches Aroma! 🌿🧀\n\nDie leuchtend grüne Farbe und das frische Aroma machen das Pesto aus. Sobald es jedoch Luft ausgesetzt ist, oxidiert das Chlorophyll im Basilikum schnell zu einer braunen Farbe. Zudem schaffen in Öl eingelegte Kräuter und Knoblauch ein anaerobes Milieu, in dem sich bei falscher Lagerung Clostridium botulinum-Bakterien vermehren können.\n\nIn diesem Ratgeber stellen wir Ihnen auf Basis wissenschaftlicher Richtlinien von USDA, FDA und MFDS eine 3-Schritte-Methode vor, um Chlorophyllabbau (Braunwerden) zu verhindern und Botulismus-Risiken auszuschließen. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis des chemischen Mechanismus, durch den Chlorophyll bei Sauerstoffkontakt in braunes Pheophytin umgewandelt wird, sowie die Kontrolle des anaeroben Bakterienwachstums im Öl ist der Schlüssel zu Frische und Lebensmittelsicherheit.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Geöffnetes oder selbstgemachtes Pesto niemals bei Raumtemperatur stehen lassen ⚠️",
+            "desc": "Das Einlegen von frischen Kräutern, Knoblauch und Nüssen in Olivenöl schafft ein anaerobes (sauerstofffreies) Milieu. Dies begünstigt das Wachstum von Clostridium botulinum, einem Bakterium, das tödliche Neurotoxine bildet. Sofort bei 4 °C oder kälter kühlen."
+          },
+          {
+            "title": "Pesto nicht ungeschützt Luft und Licht aussetzen 🌿",
+            "desc": "Der grüne Farbstoff Chlorophyll im Basilikum reagiert mit Sauerstoff und Licht zu braunem Pheophytin. Dies führt zu rascher Braunfärbung und Aromaverlust. Nach Gebrauch stets luftdicht verschließen."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Die Oberfläche mit einer Schicht Olivenöl nativ extra bedecken — Ölfilm als Sauerstoffbarriere 🫒",
+            "text": "Füllen Sie das Pesto in ein Gefäß, streichen Sie die Oberfläche mit einem Löffel glatt und gießen Sie eine 2–3 mm dicke Schicht Olivenöl nativ extra darüber. Dieser Ölfilm blockiert den Sauerstoffkontakt vollständig und verhindert das Braunwerden."
+          },
+          {
+            "name": "Strikte Kühlung bei 0–4 °C — Botulismus-Prävention im Kühlschrank (7–14 Tage) ❄️",
+            "text": "Bewahren Sie das mit Öl versiegelte Pesto in einem luftdichten Behälter im Kühlschrank bei 0–4 °C auf. Die kühle Temperatur ist zwingend erforderlich, um die Toxinbildung durch Clostridium botulinum zu hemmen. Geöffnetes gekauftes oder selbstgemachtes Pesto innerhalb von 7 bis 14 Tagen verbrauchen."
+          },
+          {
+            "name": "Für die Langzeitlagerung in Eiswürfelformen einfrieren — Gefrierlagerung (3–6 Monate) 🧊",
+            "text": "Geben Sie überschüssiges Pesto portionsweise in Eiswürfelformen und frieren Sie es ein. Nach dem Durchfrieren die Pestowürfel in einen Ziploc-Gefrierbeutel bei -18 °C oder kälter umfüllen. So können Sie je nach Bedarf einzelne Würfel entnehmen, während Farbe und Aroma 3 bis 6 Monate erhalten bleiben."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Die obere Schicht meines Pestos ist braun geworden. Kann ich es noch essen?",
+            "answer": "Ja, wenn es sich um eine einfache Oxidation handelt, bei der Chlorophyll durch Luftkontakt zu Pheophytin wurde, ist es unbedenklich. Schaben Sie einfach die braune Schicht ab und verwenden Sie das grüne Pesto darunter. Wenn es jedoch ranzig oder sauer riecht, Schimmel zeigt oder die Verpackung gebläht ist, sofort entsorgen."
+          },
+          {
+            "question": "Wie lange ist selbstgemachtes Basilikum-Pesto im Kühlschrank haltbar?",
+            "answer": "Da selbstgemachtes Pesto nicht unpasteurisiert ist, sollte es selbst mit Olivenölabdeckung innerhalb von 7 bis 10 Tagen bei Kühlung (bei oder unter 4 °C) verbraucht werden, um Botulismus sicher vorzubeugen. Für längere Aufbewahrung sofort einfrieren."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar o pesto de manjericão fresco: Guia científico de armazenamento",
+        "description": "Descubra os métodos ideais de conservação para prevenir a oxidação da clorofila, o selamento com filme de azeite e a validade do pesto de manjericão com base na USDA e FDA.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "O pesto de manjericão (basil pesto) traz um sabor rico e aromático de manjericão fresco, pinolis, alho e queijo parmesão para massas e sanduíches! 🌿🧀\n\nA cor verde vibrante e o aroma fresco são a alma do pesto. No entanto, quando exposto ao ar, a clorofila do manjericão oxida rapidamente tornando-se castanha, enquanto ervas e alho imersos em azeite criam um ambiente anaeróbico propício à bactéria Clostridium botulinum se armazenados incorretamente.\n\nNeste guia, baseado em diretrizes científicas da USDA, FDA e MFDS, apresentamos um método em 3 etapas para evitar a degradação da clorofila (escurecimento) e eliminar os riscos de botulismo. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender o mecanismo químico de conversão da clorofila em feofitina castanha pelo contato com o oxigênio e controlar a proliferação microbiana anaeróbica no azeite é a chave para a frescura e a segurança alimentar.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca deixe o pesto de manjericão aberto ou caseiro em temperatura ambiente ⚠️",
+            "desc": "Mergulhar ervas frescas, alho e frutos secos em azeite cria um ambiente anaeróbico (sem oxigênio) propenso ao crescimento de Clostridium botulinum, uma bactéria que produz neurotoxinas mortais. Refrigere imediatamente a 4 °C ou menos."
+          },
+          {
+            "title": "Não deixe o pesto exposto ao ar e à luz 🌿",
+            "desc": "A clorofila, o pigmento verde do manjericão, reage com o oxigênio e a luz transformando-se em feofitina castanha, causando escurecimento rápido e perda de aroma. Sele sempre hermeticamente."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Despeje uma camada de azeite de oliva extra virgem sobre a superfície — Filme de Azeite Isolante 🫒",
+            "text": "Transfira o pesto para um recipiente, alise a superfície com uma colher e despeje uma camada de 2 a 3 mm de azeite de oliva extra virgem. Este filme de azeite bloqueia totalmente o contato com o oxigênio, impedindo a oxidação da clorofila em feofitina."
+          },
+          {
+            "name": "Refrigere estritamente a 0–4 °C — Prevenção de botulismo em refrigeração (7–14 dias) ❄️",
+            "text": "Guarde o pesto selado com azeite em recipiente hermético na parte interna da geladeira a 0–4 °C. A temperatura fria é obrigatória para inibir a produção de toxina por Clostridium botulinum. Consuma pesto comercial aberto ou caseiro em 7 a 14 dias."
+          },
+          {
+            "name": "Porcione em formas de gelo para congelar a longo prazo — Congelamento (3–6 meses) 🧊",
+            "text": "Se tiver excesso de pesto, distribua porções individuais em formas de gelo e congele. Depois de sólidos, passe os cubos de pesto para um saco Ziploc a -18 °C ou menos. Você poderá retirar porções conforme necessário mantendo a cor e aroma de 3 a 6 meses."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "A camada superior do meu pesto ficou castanha. Ainda é seguro comer?",
+            "answer": "Sim, se for uma simples oxidação em que a clorofila mudou para feofitina por contato com o ar, é seguro consumir. Basta raspar a camada castanha superior e usar o pesto verde por baixo. Porém, se houver cheiro rançoso, mofo ou embalagem estufada, descarte imediatamente."
+          },
+          {
+            "question": "Por quanto tempo o pesto caseiro pode ser guardado na geladeira?",
+            "answer": "Como o pesto caseiro não é pasteurizado, mesmo com a camada de azeite, deve ser consumido em 7 a 10 dias sob refrigeração (a 4 °C ou menos) para garantir a segurança contra o Clostridium botulinum. Para armazenar por mais tempo, congele imediatamente."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Pesto Kemangi (Basil Pesto) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui metode penyimpanan optimal untuk mencegah oksidasi klorofil, penyegelan lapisan minyak zaitun, dan masa simpan pesto kemangi berdasarkan panduan USDA & FDA.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Pesto kemangi (Basil Pesto) menghadirkan cita rasa kaya nan harum dari daun kemangi (basil) segar, kacang pinus, bawang putih, dan keju parmesan untuk pasta dan roti Anda! 🌿🧀\n\nWarna hijau cerah dan aroma segar adalah keunggulan utama pesto kemangi. Namun, begitu terpapar udara, klorofil pada kemangi akan teroksidasi dengan cepat menjadi warna cokelat kusam, sementara herba dan bawang putih yang terendam minyak menciptakan lingkungan anaerobik yang memicu bakteri Clostridium botulinum jika tidak disimpan dengan benar.\n\nDalam panduan ini, berdasarkan fakta ilmiah yang diverifikasi oleh USDA, FDA, dan MFDS, kami membagikan strategi penyimpanan 3 langkah untuk mencegah kerusakan klorofil (perubahan warna cokelat) dan memblokir risiko botulisme. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami mekanisme kimia perubahan klorofil menjadi feofitin cokelat akibat paparan oksigen serta mengendalikan pertumbuhan mikroba anaerobik dalam minyak adalah kunci utama menjaga kesegaran dan keamanan pangan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan pernah membiarkan pesto kemangi yang sudah dibuka atau buatan sendiri di suhu ruang ⚠️",
+            "desc": "Merendam herba segar, bawang putih, dan kacang-kacangan dalam minyak zaitun menciptakan lingkungan anaerobik (tanpa oksigen) yang sangat disukai bakteri Clostridium botulinum penhasil racun berbahaya. Segera simpan di kulkas pada suhu 4°C atau lebih rendah."
+          },
+          {
+            "title": "Jangan biarkan pesto terpapar udara dan cahaya 🌿",
+            "desc": "Klorofil, pigmen hijau pada kemangi, bereaksi dengan oksigen dan cahaya menjadi feofitin cokelat, menyebabkan perubahan warna menjadi cokelat dengan cepat dan kehilangan aroma segar. Selalu tutup rapat setelah digunakan."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Tuangkan lapisan minyak zaitun extra virgin di atas permukaan — Lapisan Minyak Pelindung Oksigen 🫒",
+            "text": "Pindahkan pesto ke dalam wadah, ratakan permukaannya dengan sendok, lalu tuangkan minyak zaitun extra virgin setebal 2–3 mm di atasnya. Lapisan minyak ini memblokir kontak oksigen secara total, mencegah klorofil teroksidasi menjadi feofitin cokelat."
+          },
+          {
+            "name": "Simpan di kulkas secara ketat pada suhu 0–4°C — Pencegahan Botulisme Simpan Dingin (7–14 Hari) ❄️",
+            "text": "Simpan pesto yang sudah disegel minyak dalam wadah kedap udara di bagian dalam kulkas pada suhu 0–4°C. Suhu dingin wajib diterapkan untuk menekan produksi racun oleh Clostridium botulinum. Habiskan pesto kemasan yang sudah dibuka atau buatan sendiri dalam 7 hingga 14 hari."
+          },
+          {
+            "name": "Bagi ke dalam cetakan es batu untuk dibekukan jangka panjang — Simpan Freezer (3–6 Bulan) 🧊",
+            "text": "Jika terdapat sisa pesto berlebih, tuangkan porsi sekali pakai ke dalam cetakan es batu dan bekukan. Setelah mengeras, pindahkan kubus pesto ke dalam kantong Ziploc freezer pada suhu -18°C atau lebih rendah. Anda dapat mengambil seperlunya saat dibutuhkan sambil menjaga warna dan aromanya selama 3 hingga 6 bulan."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Lapisan atas pesto kemangi saya berubah menjadi cokelat. Apakah masih aman dimakan?",
+            "answer": "Ya, jika itu hanya oksidasi biasa di mana klorofil berubah menjadi feofitin akibat paparan udara, pesto tersebut masih aman dikonsumsi. Anda cukup mengerok lapisan cokelat di bagian atas dan menggunakan pesto hijau di bawahnya. Namun jika berbau tengik, berjamur, atau kemasannya menggembung, segera buang."
+          },
+          {
+            "question": "Berapa lama pesto kemangi buatan sendiri dapat disimpan di dalam kulkas?",
+            "answer": "Karena pesto buatan sendiri tidak melalui proses pasteurisasi, meskipun disiram lapisan minyak zaitun, pesto sebaiknya dihabiskan dalam 7 hingga 10 hari penyimpanan dingin (pada atau di bawah 4°C) untuk memastikan keamanan dari Clostridium botulinum. Untuk penyimpanan lebih lama, segera bekukan."
+          }
+        ]
+      }
     }
+  }
 }

@@ -1,406 +1,406 @@
 {
-    "how-to-store-dried-seaweed": {
-        "ingId": "dried-seaweed",
-        "pubDate": "2026-04-06",
-        "updatedDate": "2026-04-06",
-        "heroImage": "/images/blog/dried_seaweed_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "조미김·건김 신선하고 바삭하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 조미김과 건김의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "국립수산과학원(NIFS) & 식품의약품안전처(MFDS) & 농림수산성(MAFF)",
-                "intro": "바삭하고 고소한 김 한 봉지를 개봉했다가 얼마 지나지 않아 눅눅해지고 눅눅한 기름 냄새(산패취)가 나 버린 경험 다들 있으시죠? 🍙\n\n김은 수분 흡수력이 매우 뛰어난 다공성 구조를 지니고 있어 공기 중의 습기를 스펀지처럼 빨아들입니다. 특히 기름과 소금이 첨가된 조미김의 경우, 습기와 공기(산소), 빛에 노출되면 기름의 지질 산패가 가속화되어 맛이 변하고 눅눅해지기 쉽습니다.\n\n이번 가이드에서는 국립수산과학원과 식품의약품안전처의 안전 가이드라인을 바탕으로, 조미김과 건김의 바삭한 식감과 고소한 풍미를 오랫동안 극대화하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "상온의 습기찬 장소나 빛이 드는 곳에 방치하지 마세요 ⚠️",
-                        "desc": "높은 습도는 김을 눅눅하게 만들고, 햇빛(자외선)은 김의 클로로필(엽록소) 색소를 파괴하여 보라색으로 변색시킵니다. 특히 조미김은 빛과 공기에 의해 기름이 급격히 산패하여 해로운 물질이 생성될 수 있으므로 주의해야 합니다."
-                    },
-                    {
-                        "title": "냉동 보관 후 꺼낼 때는 결로 현상(이슬 맺힘)을 주의하세요 💧",
-                        "desc": "냉동실에서 차가워진 김을 꺼내자마자 밀봉을 풀면, 실온과의 온도 차이로 인해 김 용기 내부에 순식간에 수증기가 맺혀 김이 눅눅해집니다. 꺼낸 후 밀봉 상태로 실온에서 5~10분간 온도를 적응시킨 뒤 개봉하세요."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "밀폐 용기에 제습제(실리카겔)와 함께 담기 — 습기 차단 📦",
-                        "text": "개봉한 김을 그대로 상온에 두면 불과 수 시간 만에 수분을 흡수하여 눅눅해집니다. 💡 보관 팁: 먹고 남은 조미김이나 건김은 밀폐 지퍼백이나 밀폐 용기에 담고, 동봉된 실리카겔(제습제)이나 키친타월을 함께 넣어 수분 유입을 완벽히 차단하세요."
-                    },
-                    {
-                        "name": "지퍼백에 담아 냉동실(-18℃ 이하) 보관하기 — 냉동 보관 (180~360일) ❄️",
-                        "text": "장기 보관을 원할 때 가장 최선의 방법은 냉동 보관입니다. 극저온 환경은 수분 활성도를 억제하고 기름의 산패 진행을 멈춰줍니다. 💡 보관 팁: 공기를 최대한 빼낸 후 지퍼백으로 이중 밀봉하여 냉동실에 보관하면 6개월에서 1년 동안 처음과 같은 바삭함과 풍미를 유지할 수 있습니다."
-                    },
-                    {
-                        "name": "눅눅해진 김은 전자레인지나 팬에 살짝 구워 복원하기 — 바삭함 재활원 ⚡",
-                        "text": "실수로 수분을 흡수해 눅눅해진 김도 수분을 날려주면 다시 바삭해집니다. 💡 보관 팁: 눅눅해진 김을 접시에 담아 전자레인지에 15~20초간 돌리거나, 기름을 두르지 않은 팬에 약불로 살짝 구워주면 잔여 수분이 증발하여 바삭한 식감이 되살아납니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "김이 보라색(붉은색)으로 변했는데 먹어도 되나요?",
-                        "answer": "김이 보라색이나 붉은색으로 변색된 것은 직사광선(자외선)과 습기에 노출되어 녹색 엽록소(클로로필)가 파괴되고 붉은 색소인 피코에리트린이 드러난 현상입니다. 섭취 자체가 인체에 유해하지는 않지만, 이미 영양소와 풍미가 크게 손실되고 조미김의 경우 기름 산패가 진행되었을 가능성이 높으므로 폐기하는 것이 좋습니다."
-                    },
-                    {
-                        "question": "조미김과 건김(생김)의 보관법에 차이가 있나요?",
-                        "answer": "기본적으로 두 김 모두 습기와 공기를 차단하여 냉동 보관하는 것이 가장 좋습니다. 다만 조미김은 기름을 함유하고 있어 산패 위험이 크므로 개봉 후 빠르게 소비하거나 반드시 냉동 보관해야 하며, 기름이 없는 건김은 키친타월과 함께 밀폐하여 서늘한 곳에 두는 것만으로도 비교적 오래 보관할 수 있습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Dried Seaweed & Nori Crispy and Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for dried seaweed (nori) and seasoned seaweed based on official safety guidelines.",
-                "authority": "NIFS & MFDS & MAFF",
-                "intro": "Have you ever opened a fresh pack of crispy seaweed, only to find it soggy and smelling of stale oil (rancidity) a short time later? 🍙\n\nDried seaweed has a highly porous structure with extreme moisture-absorbing capacity, soaking up humidity from the air like a sponge. For seasoned seaweed containing oil and salt, exposure to moisture, oxygen, and light rapidly accelerates lipid oxidation, spoiling its flavor and ruining its crunch.\n\nIn this guide, introduces a scientifically proven 3-step storage guide based on guidelines from the National Institute of Fisheries Science (NIFS), MFDS, and MAFF to keep your dried and seasoned seaweed perfectly crispy and flavorful. 🛡️",
-                "whyTitle": "Why Store Dried Seaweed This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never leave seaweed in humid or sunlit areas at room temperature ⚠️",
-                        "desc": "High humidity makes seaweed soft and soggy, while sunlight (UV rays) breaks down green chlorophyll pigments, turning the sheets purple/reddish. For seasoned seaweed, light and air rapidly oxidize oil, creating harmful rancid compounds."
-                    },
-                    {
-                        "title": "Watch out for condensation when taking seaweed out of the freezer 💧",
-                        "desc": "If cold seaweed removed from the freezer is unsealed immediately, temperature differences cause instant moisture condensation inside the package, making the sheets soggy. Allow sealed seaweed to adapt to room temperature for 5–10 minutes before opening."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Store in an airtight container with a desiccant (silica gel) — Moisture Barrier 📦",
-                        "text": "Leaving opened seaweed at room temperature causes it to absorb humidity and lose its crunch within hours. 💡 Storage Tip: Place leftover seasoned or unseasoned seaweed in an airtight Ziploc bag or container along with a desiccant packet (silica gel) or paper towel to seal out moisture."
-                    },
-                    {
-                        "name": "Double-seal and freeze below -18°C — Cold Freezer Storage (180–360 Days) ❄️",
-                        "text": "Freezing is the absolute best method for long-term storage. Sub-zero temperatures halt lipid oxidation and suppress moisture activity. 💡 Storage Tip: Squeeze out excess air, double-seal in a Ziploc bag, and freeze below -18°C (0°F). This preserves its original crispness and rich flavor for 6 months to 1 year."
-                    },
-                    {
-                        "name": "Restore soggy seaweed by microwave or light roasting — Recrisp Hack ⚡",
-                        "text": "Seaweed that has accidentally absorbed moisture can regain its crunch once the water is evaporated. 💡 Storage Tip: Place soggy sheets on a plate and microwave for 15–20 seconds, or lightly toast in an unoiled pan over low heat to evaporate residual moisture and revive crispness."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "My seaweed turned reddish-purple. Is it still safe to eat?",
-                        "answer": "Purple or reddish discoloration occurs when sunlight and humidity destroy green chlorophyll, exposing red phycoerythrin pigments. While not toxic, it signifies significant loss of nutrients and flavor, and for seasoned seaweed, oil rancidity has likely occurred. Discarding it is recommended."
-                    },
-                    {
-                        "question": "Is there a difference in storing seasoned vs. unseasoned dried seaweed (nori)?",
-                        "answer": "Both types keep best when frozen away from moisture and air. However, seasoned seaweed contains oil and carries a high risk of rancidity, so it should be consumed quickly or kept frozen. Plain unseasoned nori can last relatively long at room temperature if sealed tightly in a cool, dark place with paper towels or silica gel."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "味付け海苔・焼き海苔をパリパリに保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づく味付け海苔・乾燥海苔（ノリ）の最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "国立水産科学院(NIFS) & 食品医薬品安全処(MFDS) & 農林水産省(MAFF)",
-                "intro": "パリッと香ばしい海苔の袋を開けたものの、少し経つと湿気てしまったり油くさい匂い（酸敗臭）がして捨ててしまった経験はありませんか？🍙\n\n海苔は極めて高い吸湿性を持つ多孔質構造をしており、空気中の水分をスポンジのように吸収します。特に油と塩が使われた味付け海苔は、湿気や空気（酸素）、光に晒されると油の酸化（脂質酸敗）が急速に進み、食感や風味が著しく損なわれます。\n\n本記事では、水産研究機関および農林水産省のガイドラインに基づき、海苔のパリッとした食感と香ばしさを長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "湿気の多い場所や直射日光が当たる場所に放置しないでください ⚠️",
-                        "desc": "高い湿気は海苔を湿気らせ、日光（紫外線）は緑色の葉緑素（クロロフィル）を破壊して紫色や赤っぽく変色させます。特に味付け海苔は光と空気によって油が急速に酸化し、不快な臭いや品質低下の原因となります。"
-                    },
-                    {
-                        "title": "冷凍庫から取り出す際の「結露現象」に注意してください 💧",
-                        "desc": "冷凍庫で冷やされた海苔を取り出してすぐに開封すると、室温との温度差により袋の内部に一瞬で水滴（結露）がつき、海苔が湿気てしまいます。未開封のまま室温で5〜10分置き、温度が戻ってから開封してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "乾燥剤（シリカゲル）と共に密閉容器に入れる — 湿気遮断 📦",
-                        "text": "開封した海苔をそのまま常温に放置すると、わずか数時間で湿気を吸ってパリパリ感が失われます。💡保存のコツ：残った海苔はチャック付き密閉袋や密閉容器に移し、乾燥剤（シリカゲル）やキッチンペーパーを一緒に入れて湿気の侵入をブロックしましょう。"
-                    },
-                    {
-                        "name": "ジッパーバッグで二重密閉し冷凍室（-18℃以下）で保存する — 冷凍保存 (180〜360日間) ❄️",
-                        "text": "長期保存において最も効果的な方法は freezer 保存です。極低温環境は水分の活性を抑え、油の酸化をストップさせます。💡保存のコツ：空気をしっかり抜いてジッパーバッグで密閉し、冷凍室（-18℃以下）に入れれば6ヶ月〜1年間パリッとした食感と風味が保たれます。"
-                    },
-                    {
-                        "name": "湿気た海苔は電子レンジやフライパンで軽く加熱して復元する — 食感復活 ⚡",
-                        "text": "うっかり湿気てしまった海苔も、水分を飛ばしてあげることでパリパリ感が復活します。💡保存のコツ：湿気た海苔をお皿にのせて電子レンジで15〜20秒加熱するか、油を引かないフライパンで弱火で軽く炙ると残留水分が蒸発して食感が戻ります。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "海苔が紫色（赤っぽい色）に変色してしまいましたが、食べられますか？",
-                        "answer": "海苔が紫や赤色に変色するのは、直射日光や湿気によって緑色のクロロフィルが壊れ、赤色のフィコエリスリン色素が現れた現象です。食べること自体が人体に有害というわけではありませんが、すでに栄養や風味が著しく損なわれており、味付け海苔の場合は油が酸化しているため破棄をおすすめします。"
-                    },
-                    {
-                        "question": "味付け海苔と焼き海苔（生海苔）で保存方法に違いはありますか？",
-                        "answer": "基本的にはどちらも湿気と空気 を遮断して冷凍保存するのが最適です。ただし、味付け海苔は油を含んでいるため酸化リスクが高く、開封後は早めに使い切るか冷凍する必要があります。油のない焼き海苔は、乾燥剤と共に密閉して涼しい暗所に置くことでも比較的長く保存できます。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持调味海苔·干紫菜酥脆新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解调味海苔与干紫菜（Nori）的最佳储存温度、方式及保鲜时长。",
-                "authority": "韩国国立水产科学院(NIFS) & 韩国食品医药品安全处(MFDS) & 日本农林水产省(MAFF)",
-                "intro": "您是否曾打开一包香脆的海苔，没过多久就发现它吸潮变软，甚至散发出陈油味（油脂酸败）？🍙\n\n海苔（紫菜）具有极强吸湿性的多孔结构，会像海绵一样迅速吸收空气中的水分。特别是添加了油脂和盐分的调味海苔，一旦暴露于潮湿、空气（氧气）和光线中，油脂氧化会急剧加速，导致口感变软、风味丧失。\n\n本指南基于水产研究机构及农林水产部门的权威指南，为您带来3步科学保存秘诀，帮您长久保持调味海苔与干紫菜香脆的口感与浓郁的风味。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "切勿放置于常温潮湿或阳光直射处 ⚠️",
-                        "desc": "高湿度会导致海苔吸潮变软，而阳光（紫外线）会破坏绿色叶绿素，使其变紫变红。对于调味海苔，光线与空气会使油脂迅速氧化产生有害的酸败物质。"
-                    },
-                    {
-                        "title": "从冷冻室取出时请谨防“结露现象”（凝结水珠） 💧",
-                        "desc": "从冷冻室取出的冰冷海苔若立即打开，温差会导致包装袋内部瞬间凝结水珠，使海苔迅速吸潮变软。请在未开封状态下于室温静置5~10分钟，待温度恢复后再打开。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "放入密封盒并加入干燥剂（硅胶） — 隔绝湿气 📦",
-                        "text": "开封后的海苔直接置于常温下，短短数小时内就会吸潮变软。💡储存小贴士：将没吃完的海苔放入密封拉链袋或密封盒中，并放入同封的硅胶干燥剂或厨房纸巾，彻底隔绝水分侵入。"
-                    },
-                    {
-                        "name": "装入密封袋放入冷冻室（-18℃以下）保存 — 冷冻保存 (180~360天) ❄️",
-                        "text": "长期保存的最佳方法是冷冻。极低温环境能抑制水分活性并停止油脂氧化进程。💡储存小贴士：挤出袋内空气后双层密封，存放在冷冻室（-18℃以下），可维持6个月至1年刚买时般的酥脆与香气。"
-                    },
-                    {
-                        "name": "受潮变软的海苔可用微波炉或平底锅加热复原 — 恢复酥脆 ⚡",
-                        "text": "不小心受潮变软的海苔，只要祛除水分就能重获酥脆口感。💡储存小贴士：将受潮的海苔放在盘中，微波炉加热15~20秒；或置于无油平底锅上用小火微烘，余水蒸发后即可恢复香脆。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "海苔变成了紫色（偏红色），还能吃吗？",
-                        "answer": "海苔变成紫色或红色，是因为受到阳光和潮湿影响，绿色叶绿素被破坏，露出了红色的藻红素。虽然食用本身对人体无害，但其营养与风味已严重流失，调味海苔的油脂很可能已酸败，建议丢弃。"
-                    },
-                    {
-                        "question": "调味海苔与普通干紫菜（烤海苔）的保存方法有区别吗？",
-                        "answer": "基本上两者都最适合隔绝湿气与空气后冷冻保存。但调味海苔含有油脂，氧化风险高，开封后应尽快食用或务必冷藏冷冻；无油的普通干紫菜只要与干燥剂一起密封存放在阴凉处，也能保存较长时间。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener alga nori y sazonada crujiente y fresca: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para el alga seca (nori) y sazonada según las directrices oficiales de seguridad.",
-                "authority": "NIFS & MFDS & MAFF",
-                "intro": "¿Alguna vez abrió un paquete de alga nori crujiente y al poco tiempo descubrió que se había vuelto blanda y con olor a aceite rancio? 🍙\n\nEl alga seca tiene una estructura porosísima con una alta capacidad para absorber humedad del aire como una esponja. En el caso del alga sazonada con aceite y sal, la humedad, el oxígeno y la luz aceleran la oxidación lipídica, destruyendo su textura crujiente y su sabor.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por el Instituto de Ciencias Pesqueras y ministerios de seguridad alimentaria para mantener sus algas perfectamente crujientes y sabrosas. 🛡️",
-                "whyTitle": "¿Por qué almacenarla así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Nunca deje las algas en zonas húmedas o expuestas a la luz solar ⚠️",
-                        "desc": "La humedad ablanda las algas y la luz solar (UV) destruye la clorofila verde, volviéndolas moradas o rojizas. En las algas sazonadas, el aire y la luz enrancian rápidamente el aceite, generando compuestos nocivos."
-                    },
-                    {
-                        "title": "Tenga cuidado con la condensación al sacar las algas del congelador 💧",
-                        "desc": "Si abre la bolsa helada nada más sacarla del congelador, la diferencia de temperatura creará gotas de agua dentro del envase, humedeciendo el alga. Deje reposar la bolsa cerrada a temperatura ambiente de 5 a 10 minutos antes de abrir."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Guarde en un recipiente hermético con un desecante (gel de sílice) — Barrera antihumedad 📦",
-                        "text": "Dejar el alga abierta a temperatura ambiente hace que absorba humedad en pocas horas. 💡 Consejo de almacenamiento: Coloque el alga sazonada o nori en una bolsa Ziploc o recipiente hermético junto con una bolsita de gel de sílice o papel de cocina para aislar la humedad."
-                    },
-                    {
-                        "name": "Selle en doble bolsa y congele por debajo de -18 °C — Conservación en congelador (180–360 días) ❄️",
-                        "text": "Congelar es el mejor método a largo plazo. Las temperaturas bajo cero frenan la oxidación del aceite y la humedad. 💡 Consejo de almacenamiento: Saque el aire, selle en bolsa Ziploc y congele por debajo de -18 °C. Conservará su textura crujiente de 6 meses a 1 año."
-                    },
-                    {
-                        "name": "Recupere el alga blanda en el microondas o tostándola ligeramente — Truco crujiente ⚡",
-                        "text": "El alga que ha absorbido humedad puede volver a quedar crujiente evaporando el agua. 💡 Consejo de almacenamiento: Caliente las láminas en un plato en el microondas durante 15–20 segundos o tuéstelas a fuego lento en una sartén sin aceite."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mi alga se ha vuelto morada o rojiza. ¿Sigue siendo segura para comer?",
-                        "answer": "La decoloración morada ocurre cuando la luz y la humedad destruyen la clorofila verde y exponen la ficoeritrina roja. Aunque no es tóxica, indica una gran pérdida de nutrientes y sabor, y el aceite probablemente esté rancio. Se recomienda desecharla."
-                    },
-                    {
-                        "question": "¿Hay diferencia entre almacenar alga nori natural y alga sazonada?",
-                        "answer": "Ambas se conservan mejor congeladas. Sin embargo, el alga sazonada contiene aceite y se enrancia fácilmente, por lo que debe consumirse rápido o congelarse. El alga nori sin sazonar dura bastante a temperatura ambiente si se guarda bien hermética con desecante en un lugar fresco."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver l'algue séchée (Nori) croustillante et fraîche : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour l'algue séchée (nori) et l'algue assaisonnée selon les directives officielles de sécurité.",
-                "authority": "NIFS & MFDS & MAFF",
-                "intro": "Avez-vous déjà ouvert un sachet d'algues croustillantes pour constater peu après qu'elles étaient devenues molles et dégageaient une odeur d'huile rance ? 🍙\n\nL'algue séchée possède une structure poreuse très absorbante qui capte l'humidité de l'air comme une éponge. Pour l'algue assaisonnée (avec huile et sel), l'exposition à l'humidité, à l'oxygène et à la lumière accélère l'oxydation des lipides, gâchant son croquant et sa saveur.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations des instituts des pèches et de la sécurité alimentaire pour préserver la fraîcheur et le croquant de vos algues. 🛡️",
-                "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne laissez jamais les algues dans un endroit humide ou exposé au soleil ⚠️",
-                        "desc": "L'humidité ramollit l'algue et les rayons UV détruisent la chlorophylle verte, la faisant virer au violet/rouge. Pour l'algue assaisonnée, la lumière et l'air roussissent rapidement l'huile en créant des composés rances."
-                    },
-                    {
-                        "title": "Attention à la condensation en sortant les algues du congélateur 💧",
-                        "desc": "Si vous ouvrez le sachet glacé dès sa sortie du congélateur, le choc thermique provoquera une condensation immédiate d'eau à l'intérieur, ramollissant l'algue. Laissez le sachet fermé se réchauffer 5 à 10 minutes à température ambiante."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Placer dans une boîte hermétique avec un sachet dessiccant (silica gel) — Barrière antihumidité 📦",
-                        "text": "Laisser des algues ouvertes à température ambiante leur fait absorber l'humidité en quelques heures. 💡 Astuce de conservation : Mettez les algues dans un sachet Ziploc ou une boîte hermétique avec un sachet de gel de silice ou du papier absorbant."
-                    },
-                    {
-                        "name": "Double-sceller et congeler sous -18 °C — Stockage au congélateur (180–360 jours) ❄️",
-                        "text": "La congélation est la meilleure méthode pour un stockage prolongé. Les températures négatives stoppen l'oxydation de l'huile et neutralisent l'humidité. 💡 Astuce de conservation : Videz l'air, scellez dans un sachet Ziploc et congelez sous -18 °C pour garder le croquant 6 mois à 1 an."
-                    },
-                    {
-                        "name": "Recuire les algues ramollies au micro-ondes ou à la poêle — Astuce croustillante ⚡",
-                        "text": "Une algue qui a pris l'humidité peut retrouver son croquant si l'on évapore l'eau. 💡 Astuce de conservation : Passez les feuilles 15 à 20 secondes au micro-ondes ou poêlez-les brièvement à feu doux sans matière grasse."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mon algue est devenue violette/rougeâtre. Est-elle encore consommable ?",
-                        "answer": "La coloration violette apparaît lorsque la lumière et l'humidité détruisent la chlorophylle verte et révèlent la phycoérythrine rouge. Bien que non toxique, l'algue a perdu ses nutriments et ses arômes, et l'huile des algues assaisonnées est probablement rance. Il vaut mieux la jeter."
-                    },
-                    {
-                        "question": "Y a-t-il une différence de conservation entre le nori naturel et l'algue assaisonnée ?",
-                        "answer": "Les deux se conservent idéalement au congélateur. Cependant, l'algue assaisonnée contient de l'huile sujette au rancissement et doit être consommée rapidement ou congelée. Le nori naturel sans huile se conserve assez longtemps à température ambiante s'il est bien scellé avec un dessiccant au frais."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Getrocknete Algen & Nori knusprig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für getrocknete Algen (Nori) und gewürzte Algen basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "NIFS & MFDS & MAFF",
-                "intro": "Haben Sie schon einmal eine Packung knuspriger Nori-Algen geöffnet und festgestellt, dass sie nach kurzer Zeit zäh wurden und nach ranzigem Öl rochen? 🍙\n\nGetrocknete Algen besitzen eine extrem poröse Struktur mit hoher Saugkraft und ziehen Feuchtigkeit aus der Luft wie ein Schwamm an. Bei gewürzten Algen mit Öl und Salz beschleunigen Feuchtigkeit, Sauerstoff und Licht die Fettoxidation dramatisch, was Knusprigkeit und Geschmack ruiniert.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um Ihre Nori-Algen dauerhaft knusprig und aromatisch zu halten. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Algen niemals an feuchten oder sonnigen Orten lagern ⚠️",
-                        "desc": "Hohe Luftfeuchtigkeit macht Algen zäh und weich, während Sonnenlicht (UV-Strahlung) das grüne Chlorophyll zerstört und die Blätter violett/rötlich verfärbt. Bei gewürzten Algen führt Licht zu raschem Ranzigwerden des Öls."
-                    },
-                    {
-                        "title": "Vorsicht vor Kondenswasser beim Entnehmen aus dem Gefrierfach 💧",
-                        "desc": "Wird die kalte Algenpackung direkt nach dem Entnehmen aus dem Tiefkühlfach geöffnet, bildet sich durch den Temperaturunterschied sofort Kondenswasser im Inneren. Lassen Sie die verschlossene Packung 5–10 Minuten bei Raumtemperatur akklimatisieren."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "In luftdichter Dose mit Trockenmittel (Silica-Gel) aufbewahren — Feuchtigkeitsschutz 📦",
-                        "text": "Werden geöffnete Algen bei Raumtemperatur gelagert, nehmen sie binnen Stunden Feuchtigkeit auf. 💡 Lagerungstipp: Geben Sie verbliebene Algen in einen Ziploc-Beutel oder eine luftdichte Dose zusammen mit einem Päckchen Silica-Gel oder Küchenpapier."
-                    },
-                    {
-                        "name": "Doppelt versiegelt unter -18 °C einfrieren — Gefrierlagerung (180–360 Tage) ❄️",
-                        "text": "Einfrieren ist die beste Methode zur Langzeitlagerung. Minustemperaturen stoppen die Öloxidation und stoppen Feuchtigkeitsaktivität. 💡 Lagerungstipp: Drücken Sie die Luft heraus, versiegeln Sie die Algen im Ziploc-Beutel und frieren Sie sie ein. So bleiben sie 6 Monate bis 1 Jahr knusprig."
-                    },
-                    {
-                        "name": "Weich gewordene Algen in Mikrowelle oder Pfanne auffrischen — Knusper-Trick ⚡",
-                        "text": "Feucht gewordene Algen werden wieder knusprig, wenn die Restfeuchte verdampft wird. 💡 Lagerungstipp: Erwärmen Sie die Algenblätter für 15–20 Sekunden in der Mikrowelle oder rösten Sie sie kurz ohne Öl bei schwacher Hitze in der Pfanne."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Meine Algen haben sich violett/rötlich verfärbt. Kann ich sie noch essen?",
-                        "answer": "Die Verfärbung entsteht, wenn Licht und Feuchtigkeit das grüne Chlorophyll abbauen und rote Farbstoffe sichtbar werden. Die Algen sind zwar nicht giftig, haben aber Geschmack und Nährstoffe verloren, und bei gewürzten Algen ist das Öl meist ranzig. Es wird empfohlen, sie zu entsorgen."
-                    },
-                    {
-                        "question": "Gibt es Unterschiede bei der Lagerung von gewürzten und ungewürzten Nori-Algen?",
-                        "answer": "Beide Arten lagern am besten tiefgekühlt. Gewürzte Algen enthalten jedoch Öl und werden schnell ranzig, weshalb sie rasch verbraucht oder eingefroren werden sollten. Ungewürzte Nori-Algen halten sich mit Trockenmittel in einer dicht verschlossenen Dose auch bei kühler Raumtemperatur recht lange."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar alga marinha seca e temperada crocante e fresca: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para alga seca (nori) e temperada com base em diretrizes oficiais de segurança.",
-                "authority": "NIFS & MFDS & MAFF",
-                "intro": "Você já abriu um pacote de alga crocante e pouco tempo depois percebeu que ela ficou murcha e com cheiro de óleo râncio? 🍙\n\nA alga seca possui uma estrutura altamente porosa com grande capacidade de absorver a umidade do ar como uma esponja. No caso da alga temperada com óleo e sal, a exposição à umidade, oxigênio e luz acelera a oxidação dos lipídios, estragando sua crocância e sabor.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes de órgãos de pesquisa pesqueira e segurança alimentar para manter suas algas perfeitamente crocantes e saborosas. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca deixe as algas em locais úmidos ou expostos à luz solar ⚠️",
-                        "desc": "A alta umidade deixa a alga murcha e a luz solar (UV) destrói a clorofila verde, tornando as folhas roxas ou avermelhadas. Na alga temperada, luz e ar rancificam rapidamente o óleo."
-                    },
-                    {
-                        "title": "Cuidado com a condensação ao retirar as algas do freezer 💧",
-                        "desc": "Se você abrir o pacote gelado logo ao retirar do freezer, a diferença de temperatura criará gotas de água dentro da embalagem, murchando a alga. Deixe o pacote fechado atingir a temperatura ambiente por 5 a 10 minutos antes de abrir."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Guarde em pote hermético com sílica gel (dessecante) — Barreira contra umidade 📦",
-                        "text": "Deixar a alga aberta em temperatura ambiente faz com que ela absorva umidade em poucas horas. 💡 Dica de conservação: Coloque a alga temperada ou seca em um saco Ziploc ou pote hermético junto com um sachê de sílica gel ou papel toalha."
-                    },
-                    {
-                        "name": "Sela em saco duplo e congele abaixo de -18 °C — Congelamento (180–360 dias) ❄️",
-                        "text": "Congelar é o melhor método para longa conservação. As temperaturas abaixo de zero paralisam a oxidação do óleo e neutralizam a umidade. 💡 Dica de conservação: Retire o ar, sele em saco Ziploc e congele abaixo de -18 °C para manter a crocância de 6 meses a 1 ano."
-                    },
-                    {
-                        "name": "Recupere a alga murcha no micro-ondas ou grelhando levemente — Truque de crocância ⚡",
-                        "text": "A alga que absorveu umidade pode voltar a ficar crocante evaporando a água. 💡 Dica de conservação: Aqueça as folhas em um prato no micro-ondas por 15–20 segundos ou doure levemente em frigideira sem óleo em fogo baixo."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Minha alga ficou roxa ou avermelhada. Ainda posso comer?",
-                        "answer": "A coloração roxa ocorre quando a luz e a umidade destroem a clorofila verde e expõem o pigmento vermelho ficoeritrina. Embora não seja tóxica, indica perda grave de nutrientes e sabor, e o óleo da alga temperada provavelmente ranceou. Recomenda-se descartar."
-                    },
-                    {
-                        "question": "Existe diferença entre guardar alga nori natural e alga temperada?",
-                        "answer": "Ambas se conservam melhor congeladas. No entanto, a alga temperada contém óleo e rancifica facilmente, devendo ser consumida rápido ou mantida no freezer. O nori natural sem óleo dura bastante em temperatura ambiente se bem vedado com dessecante em local fresco."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Rumput Laut Kering & Nori agar Tetap Renyah: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk rumput laut kering (nori) dan rumput laut panggang berbumbu berdasarkan pedoman keselamatan resmi.",
-                "authority": "NIFS & MFDS & MAFF",
-                "intro": "Pernahkah Anda membuka kemasan rumput laut panggang yang renyah, lalu tak lama kemudian mendapatinya menjadi melempem dan berbau minyak tengik? 🍙\n\nRumput laut kering memiliki struktur sangat berpori dengan daya serap kelembapan yang sangat tinggi, menyerap kelembapan udara seperti spons. Untuk rumput laut berbumbu yang mengandung minyak dan garam, paparan kelembapan, oksigen, dan cahaya mempercepat oksidasi minyak, merusak rasa dan kerenyahannya.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman lembaga riset perikanan dan keselamatan pangan untuk menjaga rumput laut Anda tetap renyah dan gurih. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan pernah meninggalkan rumput laut di tempat lembap atau terkena sinar matahari ⚠️",
-                        "desc": "Kelembapan tinggi membuat rumput laut melempem, sementara sinar matahari (UV) merusak klorofil hijau sehingga warnanya berubah menjadi ungu/kemerahan. Pada rumput laut berbumbu, cahaya dan udara membuat minyak cepat tengik."
-                    },
-                    {
-                        "title": "Waspadai kondensasi saat mengeluarkan rumput laut dari freezer 💧",
-                        "desc": "Jika kemasan dingin yang baru dikeluarkan dari freezer langsung dibuka, perbedaan suhu akan menyebabkan embun air terbentuk di dalam kemasan dan membuat rumput laut melempem. Biarkan kemasan tertutup menyesuaikan suhu ruang selama 5–10 menit sebelum dibuka."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Simpan dalam wadah kedap udara bersama desikan (silica gel) — Pelindung Kelembapan 📦",
-                        "text": "Meninggalkan rumput laut yang sudah dibuka pada suhu ruang membuatnya menyerap kelembapan dalam hitungan jam. 💡 Tips Penyimpanan: Masukkan sisa rumput laut ke dalam kantong Ziploc kedap udara atau wadah rapat bersama kantong silica gel atau tisu dapur."
-                    },
-                    {
-                        "name": "Segel ganda dan bekukan di bawah suhu -18°C — Simpan Freezer (180–360 Hari) ❄️",
-                        "text": "Membekukannya adalah metode terbaik untuk penyimpanan jangka panjang. Suhu di bawah nol menghentikan oksidasi minyak dan menekan aktivitas kelembapan. 💡 Tips Penyimpanan: Buang udara di dalam kantong, segel ganda dengan Ziploc, lalu simpan di freezer (-18°C) untuk menjaga kerenyahannya selama 6 bulan hingga 1 tahun."
-                    },
-                    {
-                        "name": "Pulihkan rumput laut yang melempem dengan microwave atau panggang sebentar — Trik Renyah Kembali ⚡",
-                        "text": "Rumput laut yang terlanjur melempem dapat kembali renyah jika kadar airnya diuapkan. 💡 Tips Penyimpanan: Tata lembaran rumput laut di atas piring lalu panaskan di microwave selama 15–20 detik, atau panggang sebentar di atas wajan tanpa minyak dengan api kecil."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Rumput laut saya berubah warna menjadi keunguan/kemerahan. Apakah masih aman dimakan?",
-                        "answer": "Perubahan warna menjadi ungu/kemerahan terjadi ketika sinar matahari dan kelembapan merusak klorofil hijau sehingga pigmen fikoeritrin merah terlihat. Meskipun tidak beracun, nutrisi dan aromanya sudah hilang, dan minyak pada rumput laut berbumbu kemungkinan besar sudah tengik. Disarankan untuk membuangnya."
-                    },
-                    {
-                        "question": "Apakah ada perbedaan cara menyimpan nori tawar dan rumput laut berbumbu?",
-                        "answer": "Kedua jenis rumput laut paling baik disimpan di freezer. Namun, rumput laut berbumbu mengandung minyak yang mudah tengik sehingga harus cepat dihabiskan atau dibekukan. Nori tawar tanpa minyak dapat bertahan cukup lama pada suhu ruang sejuk jika disimpan dalam wadah kedap udara bersama desikan."
-                    }
-                ]
-            }
-        }
+  "how-to-store-dried-seaweed": {
+    "ingId": "dried-seaweed",
+    "pubDate": "2026-04-06",
+    "updatedDate": "2026-04-06",
+    "heroImage": "/images/blog/dried_seaweed_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "조미김·건김 신선하고 바삭하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 조미김과 건김의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "국립수산과학원(NIFS) & 식품의약품안전처(MFDS) & 농림수산성(MAFF)",
+        "intro": "바삭하고 고소한 김 한 봉지를 개봉했다가 얼마 지나지 않아 눅눅해지고 눅눅한 기름 냄새(산패취)가 나 버린 경험 다들 있으시죠? 🍙\n\n김은 수분 흡수력이 매우 뛰어난 다공성 구조를 지니고 있어 공기 중의 습기를 스펀지처럼 빨아들입니다. 특히 기름과 소금이 첨가된 조미김의 경우, 습기와 공기(산소), 빛에 노출되면 기름의 지질 산패가 가속화되어 맛이 변하고 눅눅해지기 쉽습니다.\n\n이번 가이드에서는 국립수산과학원과 식품의약품안전처의 안전 가이드라인을 바탕으로, 조미김과 건김의 바삭한 식감과 고소한 풍미를 오랫동안 극대화하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "상온의 습기찬 장소나 빛이 드는 곳에 방치하지 마세요 ⚠️",
+            "desc": "높은 습도는 김을 눅눅하게 만들고, 햇빛(자외선)은 김의 클로로필(엽록소) 색소를 파괴하여 보라색으로 변색시킵니다. 특히 조미김은 빛과 공기에 의해 기름이 급격히 산패하여 해로운 물질이 생성될 수 있으므로 주의해야 합니다."
+          },
+          {
+            "title": "냉동 보관 후 꺼낼 때는 결로 현상(이슬 맺힘)을 주의하세요 💧",
+            "desc": "냉동실에서 차가워진 김을 꺼내자마자 밀봉을 풀면, 실온과의 온도 차이로 인해 김 용기 내부에 순식간에 수증기가 맺혀 김이 눅눅해집니다. 꺼낸 후 밀봉 상태로 실온에서 5~10분간 온도를 적응시킨 뒤 개봉하세요."
+          }
+        ],
+        "steps": [
+          {
+            "name": "밀폐 용기에 제습제(실리카겔)와 함께 담기 — 습기 차단 📦",
+            "text": "개봉한 김을 그대로 상온에 두면 불과 수 시간 만에 수분을 흡수하여 눅눅해집니다. 💡 보관 팁: 먹고 남은 조미김이나 건김은 밀폐 지퍼백이나 밀폐 용기에 담고, 동봉된 실리카겔(제습제)이나 키친타월을 함께 넣어 수분 유입을 완벽히 차단하세요."
+          },
+          {
+            "name": "지퍼백에 담아 냉동실(-18℃ 이하) 보관하기 — 냉동 보관 (180~360일) ❄️",
+            "text": "장기 보관을 원할 때 가장 최선의 방법은 냉동 보관입니다. 극저온 환경은 수분 활성도를 억제하고 기름의 산패 진행을 멈춰줍니다. 💡 보관 팁: 공기를 최대한 빼낸 후 지퍼백으로 이중 밀봉하여 냉동실에 보관하면 6개월에서 1년 동안 처음과 같은 바삭함과 풍미를 유지할 수 있습니다."
+          },
+          {
+            "name": "눅눅해진 김은 전자레인지나 팬에 살짝 구워 복원하기 — 바삭함 재활원 ⚡",
+            "text": "실수로 수분을 흡수해 눅눅해진 김도 수분을 날려주면 다시 바삭해집니다. 💡 보관 팁: 눅눅해진 김을 접시에 담아 전자레인지에 15~20초간 돌리거나, 기름을 두르지 않은 팬에 약불로 살짝 구워주면 잔여 수분이 증발하여 바삭한 식감이 되살아납니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "김이 보라색(붉은색)으로 변했는데 먹어도 되나요?",
+            "answer": "김이 보라색이나 붉은색으로 변색된 것은 직사광선(자외선)과 습기에 노출되어 녹색 엽록소(클로로필)가 파괴되고 붉은 색소인 피코에리트린이 드러난 현상입니다. 섭취 자체가 인체에 유해하지는 않지만, 이미 영양소와 풍미가 크게 손실되고 조미김의 경우 기름 산패가 진행되었을 가능성이 높으므로 폐기하는 것이 좋습니다."
+          },
+          {
+            "question": "조미김과 건김(생김)의 보관법에 차이가 있나요?",
+            "answer": "기본적으로 두 김 모두 습기와 공기를 차단하여 냉동 보관하는 것이 가장 좋습니다. 다만 조미김은 기름을 함유하고 있어 산패 위험이 크므로 개봉 후 빠르게 소비하거나 반드시 냉동 보관해야 하며, 기름이 없는 건김은 키친타월과 함께 밀폐하여 서늘한 곳에 두는 것만으로도 비교적 오래 보관할 수 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Dried Seaweed & Nori Crispy and Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for dried seaweed (nori) and seasoned seaweed based on official safety guidelines.",
+        "authority": "NIFS & MFDS & MAFF",
+        "intro": "Have you ever opened a fresh pack of crispy seaweed, only to find it soggy and smelling of stale oil (rancidity) a short time later? 🍙\n\nDried seaweed has a highly porous structure with extreme moisture-absorbing capacity, soaking up humidity from the air like a sponge. For seasoned seaweed containing oil and salt, exposure to moisture, oxygen, and light rapidly accelerates lipid oxidation, spoiling its flavor and ruining its crunch.\n\nIn this guide, introduces a scientifically proven 3-step storage guide based on guidelines from the National Institute of Fisheries Science (NIFS), MFDS, and MAFF to keep your dried and seasoned seaweed perfectly crispy and flavorful. 🛡️",
+        "whyTitle": "Why Store Dried Seaweed This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never leave seaweed in humid or sunlit areas at room temperature ⚠️",
+            "desc": "High humidity makes seaweed soft and soggy, while sunlight (UV rays) breaks down green chlorophyll pigments, turning the sheets purple/reddish. For seasoned seaweed, light and air rapidly oxidize oil, creating harmful rancid compounds."
+          },
+          {
+            "title": "Watch out for condensation when taking seaweed out of the freezer 💧",
+            "desc": "If cold seaweed removed from the freezer is unsealed immediately, temperature differences cause instant moisture condensation inside the package, making the sheets soggy. Allow sealed seaweed to adapt to room temperature for 5–10 minutes before opening."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Store in an airtight container with a desiccant (silica gel) — Moisture Barrier 📦",
+            "text": "Leaving opened seaweed at room temperature causes it to absorb humidity and lose its crunch within hours. 💡 Storage Tip: Place leftover seasoned or unseasoned seaweed in an airtight Ziploc bag or container along with a desiccant packet (silica gel) or paper towel to seal out moisture."
+          },
+          {
+            "name": "Double-seal and freeze below -18°C — Cold Freezer Storage (180–360 Days) ❄️",
+            "text": "Freezing is the absolute best method for long-term storage. Sub-zero temperatures halt lipid oxidation and suppress moisture activity. 💡 Storage Tip: Squeeze out excess air, double-seal in a Ziploc bag, and freeze below -18°C (0°F). This preserves its original crispness and rich flavor for 6 months to 1 year."
+          },
+          {
+            "name": "Restore soggy seaweed by microwave or light roasting — Recrisp Hack ⚡",
+            "text": "Seaweed that has accidentally absorbed moisture can regain its crunch once the water is evaporated. 💡 Storage Tip: Place soggy sheets on a plate and microwave for 15–20 seconds, or lightly toast in an unoiled pan over low heat to evaporate residual moisture and revive crispness."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "My seaweed turned reddish-purple. Is it still safe to eat?",
+            "answer": "Purple or reddish discoloration occurs when sunlight and humidity destroy green chlorophyll, exposing red phycoerythrin pigments. While not toxic, it signifies significant loss of nutrients and flavor, and for seasoned seaweed, oil rancidity has likely occurred. Discarding it is recommended."
+          },
+          {
+            "question": "Is there a difference in storing seasoned vs. unseasoned dried seaweed (nori)?",
+            "answer": "Both types keep best when frozen away from moisture and air. However, seasoned seaweed contains oil and carries a high risk of rancidity, so it should be consumed quickly or kept frozen. Plain unseasoned nori can last relatively long at room temperature if sealed tightly in a cool, dark place with paper towels or silica gel."
+          }
+        ]
+      },
+      "ja": {
+        "title": "味付け海苔・焼き海苔をパリパリに保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づく味付け海苔・乾燥海苔（ノリ）の最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "国立水産科学院(NIFS) & 食品医薬品安全処(MFDS) & 農林水産省(MAFF)",
+        "intro": "パリッと香ばしい海苔の袋を開けたものの、少し経つと湿気てしまったり油くさい匂い（酸敗臭）がして捨ててしまった経験はありませんか？🍙\n\n海苔は極めて高い吸湿性を持つ多孔質構造をしており、空気中の水分をスポンジのように吸収します。特に油と塩が使われた味付け海苔は、湿気や空気（酸素）、光に晒されると油の酸化（脂質酸敗）が急速に進み、食感や風味が著しく損なわれます。\n\n本記事では、水産研究機関および農林水産省のガイドラインに基づき、海苔のパリッとした食感と香ばしさを長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "湿気の多い場所や直射日光が当たる場所に放置しないでください ⚠️",
+            "desc": "高い湿気は海苔を湿気らせ、日光（紫外線）は緑色の葉緑素（クロロフィル）を破壊して紫色や赤っぽく変色させます。特に味付け海苔は光と空気によって油が急速に酸化し、不快な臭いや品質低下の原因となります。"
+          },
+          {
+            "title": "冷凍庫から取り出す際の「結露現象」に注意してください 💧",
+            "desc": "冷凍庫で冷やされた海苔を取り出してすぐに開封すると、室温との温度差により袋の内部に一瞬で水滴（結露）がつき、海苔が湿気てしまいます。未開封のまま室温で5〜10分置き、温度が戻ってから開封してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "乾燥剤（シリカゲル）と共に密閉容器に入れる — 湿気遮断 📦",
+            "text": "開封した海苔をそのまま常温に放置すると、わずか数時間で湿気を吸ってパリパリ感が失われます。💡保存のコツ：残った海苔はチャック付き密閉袋や密閉容器に移し、乾燥剤（シリカゲル）やキッチンペーパーを一緒に入れて湿気の侵入をブロックしましょう。"
+          },
+          {
+            "name": "ジッパーバッグで二重密閉し冷凍室（-18℃以下）で保存する — 冷凍保存 (180〜360日間) ❄️",
+            "text": "長期保存において最も効果的な方法は freezer 保存です。極低温環境は水分の活性を抑え、油の酸化をストップさせます。💡保存のコツ：空気をしっかり抜いてジッパーバッグで密閉し、冷凍室（-18℃以下）に入れれば6ヶ月〜1年間パリッとした食感と風味が保たれます。"
+          },
+          {
+            "name": "湿気た海苔は電子レンジやフライパンで軽く加熱して復元する — 食感復活 ⚡",
+            "text": "うっかり湿気てしまった海苔も、水分を飛ばしてあげることでパリパリ感が復活します。💡保存のコツ：湿気た海苔をお皿にのせて電子レンジで15〜20秒加熱するか、油を引かないフライパンで弱火で軽く炙ると残留水分が蒸発して食感が戻ります。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "海苔が紫色（赤っぽい色）に変色してしまいましたが、食べられますか？",
+            "answer": "海苔が紫や赤色に変色するのは、直射日光や湿気によって緑色のクロロフィルが壊れ、赤色のフィコエリスリン色素が現れた現象です。食べること自体が人体に有害というわけではありませんが、すでに栄養や風味が著しく損なわれており、味付け海苔の場合は油が酸化しているため破棄をおすすめします。"
+          },
+          {
+            "question": "味付け海苔と焼き海苔（生海苔）で保存方法に違いはありますか？",
+            "answer": "基本的にはどちらも湿気と空気 を遮断して冷凍保存するのが最適です。ただし、味付け海苔は油を含んでいるため酸化リスクが高く、開封後は早めに使い切るか冷凍する必要があります。油のない焼き海苔は、乾燥剤と共に密閉して涼しい暗所に置くことでも比較的長く保存できます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持调味海苔·干紫菜酥脆新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解调味海苔与干紫菜（Nori）的最佳储存温度、方式及保鲜时长。",
+        "authority": "韩国国立水产科学院(NIFS) & 韩国食品医药品安全处(MFDS) & 日本农林水产省(MAFF)",
+        "intro": "您是否曾打开一包香脆的海苔，没过多久就发现它吸潮变软，甚至散发出陈油味（油脂酸败）？🍙\n\n海苔（紫菜）具有极强吸湿性的多孔结构，会像海绵一样迅速吸收空气中的水分。特别是添加了油脂和盐分的调味海苔，一旦暴露于潮湿、空气（氧气）和光线中，油脂氧化会急剧加速，导致口感变软、风味丧失。\n\n本指南基于水产研究机构及农林水产部门的权威指南，为您带来3步科学保存秘诀，帮您长久保持调味海苔与干紫菜香脆的口感与浓郁的风味。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "切勿放置于常温潮湿或阳光直射处 ⚠️",
+            "desc": "高湿度会导致海苔吸潮变软，而阳光（紫外线）会破坏绿色叶绿素，使其变紫变红。对于调味海苔，光线与空气会使油脂迅速氧化产生有害的酸败物质。"
+          },
+          {
+            "title": "从冷冻室取出时请谨防“结露现象”（凝结水珠） 💧",
+            "desc": "从冷冻室取出的冰冷海苔若立即打开，温差会导致包装袋内部瞬间凝结水珠，使海苔迅速吸潮变软。请在未开封状态下于室温静置5~10分钟，待温度恢复后再打开。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "放入密封盒并加入干燥剂（硅胶） — 隔绝湿气 📦",
+            "text": "开封后的海苔直接置于常温下，短短数小时内就会吸潮变软。💡储存小贴士：将没吃完的海苔放入密封拉链袋或密封盒中，并放入同封的硅胶干燥剂或厨房纸巾，彻底隔绝水分侵入。"
+          },
+          {
+            "name": "装入密封袋放入冷冻室（-18℃以下）保存 — 冷冻保存 (180~360天) ❄️",
+            "text": "长期保存的最佳方法是冷冻。极低温环境能抑制水分活性并停止油脂氧化进程。💡储存小贴士：挤出袋内空气后双层密封，存放在冷冻室（-18℃以下），可维持6个月至1年刚买时般的酥脆与香气。"
+          },
+          {
+            "name": "受潮变软的海苔可用微波炉或平底锅加热复原 — 恢复酥脆 ⚡",
+            "text": "不小心受潮变软的海苔，只要祛除水分就能重获酥脆口感。💡储存小贴士：将受潮的海苔放在盘中，微波炉加热15~20秒；或置于无油平底锅上用小火微烘，余水蒸发后即可恢复香脆。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "海苔变成了紫色（偏红色），还能吃吗？",
+            "answer": "海苔变成紫色或红色，是因为受到阳光和潮湿影响，绿色叶绿素被破坏，露出了红色的藻红素。虽然食用本身对人体无害，但其营养与风味已严重流失，调味海苔的油脂很可能已酸败，建议丢弃。"
+          },
+          {
+            "question": "调味海苔与普通干紫菜（烤海苔）的保存方法有区别吗？",
+            "answer": "基本上两者都最适合隔绝湿气与空气后冷冻保存。但调味海苔含有油脂，氧化风险高，开封后应尽快食用或务必冷藏冷冻；无油的普通干紫菜只要与干燥剂一起密封存放在阴凉处，也能保存较长时间。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener alga nori y sazonada crujiente y fresca: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para el alga seca (nori) y sazonada según las directrices oficiales de seguridad.",
+        "authority": "NIFS & MFDS & MAFF",
+        "intro": "¿Alguna vez abrió un paquete de alga nori crujiente y al poco tiempo descubrió que se había vuelto blanda y con olor a aceite rancio? 🍙\n\nEl alga seca tiene una estructura porosísima con una alta capacidad para absorber humedad del aire como una esponja. En el caso del alga sazonada con aceite y sal, la humedad, el oxígeno y la luz aceleran la oxidación lipídica, destruyendo su textura crujiente y su sabor.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por el Instituto de Ciencias Pesqueras y ministerios de seguridad alimentaria para mantener sus algas perfectamente crujientes y sabrosas. 🛡️",
+        "whyTitle": "¿Por qué almacenarla así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Nunca deje las algas en zonas húmedas o expuestas a la luz solar ⚠️",
+            "desc": "La humedad ablanda las algas y la luz solar (UV) destruye la clorofila verde, volviéndolas moradas o rojizas. En las algas sazonadas, el aire y la luz enrancian rápidamente el aceite, generando compuestos nocivos."
+          },
+          {
+            "title": "Tenga cuidado con la condensación al sacar las algas del congelador 💧",
+            "desc": "Si abre la bolsa helada nada más sacarla del congelador, la diferencia de temperatura creará gotas de agua dentro del envase, humedeciendo el alga. Deje reposar la bolsa cerrada a temperatura ambiente de 5 a 10 minutos antes de abrir."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Guarde en un recipiente hermético con un desecante (gel de sílice) — Barrera antihumedad 📦",
+            "text": "Dejar el alga abierta a temperatura ambiente hace que absorba humedad en pocas horas. 💡 Consejo de almacenamiento: Coloque el alga sazonada o nori en una bolsa Ziploc o recipiente hermético junto con una bolsita de gel de sílice o papel de cocina para aislar la humedad."
+          },
+          {
+            "name": "Selle en doble bolsa y congele por debajo de -18 °C — Conservación en congelador (180–360 días) ❄️",
+            "text": "Congelar es el mejor método a largo plazo. Las temperaturas bajo cero frenan la oxidación del aceite y la humedad. 💡 Consejo de almacenamiento: Saque el aire, selle en bolsa Ziploc y congele por debajo de -18 °C. Conservará su textura crujiente de 6 meses a 1 año."
+          },
+          {
+            "name": "Recupere el alga blanda en el microondas o tostándola ligeramente — Truco crujiente ⚡",
+            "text": "El alga que ha absorbido humedad puede volver a quedar crujiente evaporando el agua. 💡 Consejo de almacenamiento: Caliente las láminas en un plato en el microondas durante 15–20 segundos o tuéstelas a fuego lento en una sartén sin aceite."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mi alga se ha vuelto morada o rojiza. ¿Sigue siendo segura para comer?",
+            "answer": "La decoloración morada ocurre cuando la luz y la humedad destruyen la clorofila verde y exponen la ficoeritrina roja. Aunque no es tóxica, indica una gran pérdida de nutrientes y sabor, y el aceite probablemente esté rancio. Se recomienda desecharla."
+          },
+          {
+            "question": "¿Hay diferencia entre almacenar alga nori natural y alga sazonada?",
+            "answer": "Ambas se conservan mejor congeladas. Sin embargo, el alga sazonada contiene aceite y se enrancia fácilmente, por lo que debe consumirse rápido o congelarse. El alga nori sin sazonar dura bastante a temperatura ambiente si se guarda bien hermética con desecante en un lugar fresco."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver l'algue séchée (Nori) croustillante et fraîche : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour l'algue séchée (nori) et l'algue assaisonnée selon les directives officielles de sécurité.",
+        "authority": "NIFS & MFDS & MAFF",
+        "intro": "Avez-vous déjà ouvert un sachet d'algues croustillantes pour constater peu après qu'elles étaient devenues molles et dégageaient une odeur d'huile rance ? 🍙\n\nL'algue séchée possède une structure poreuse très absorbante qui capte l'humidité de l'air comme une éponge. Pour l'algue assaisonnée (avec huile et sel), l'exposition à l'humidité, à l'oxygène et à la lumière accélère l'oxydation des lipides, gâchant son croquant et sa saveur.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations des instituts des pèches et de la sécurité alimentaire pour préserver la fraîcheur et le croquant de vos algues. 🛡️",
+        "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne laissez jamais les algues dans un endroit humide ou exposé au soleil ⚠️",
+            "desc": "L'humidité ramollit l'algue et les rayons UV détruisent la chlorophylle verte, la faisant virer au violet/rouge. Pour l'algue assaisonnée, la lumière et l'air roussissent rapidement l'huile en créant des composés rances."
+          },
+          {
+            "title": "Attention à la condensation en sortant les algues du congélateur 💧",
+            "desc": "Si vous ouvrez le sachet glacé dès sa sortie du congélateur, le choc thermique provoquera une condensation immédiate d'eau à l'intérieur, ramollissant l'algue. Laissez le sachet fermé se réchauffer 5 à 10 minutes à température ambiante."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Placer dans une boîte hermétique avec un sachet dessiccant (silica gel) — Barrière antihumidité 📦",
+            "text": "Laisser des algues ouvertes à température ambiante leur fait absorber l'humidité en quelques heures. 💡 Astuce de conservation : Mettez les algues dans un sachet Ziploc ou une boîte hermétique avec un sachet de gel de silice ou du papier absorbant."
+          },
+          {
+            "name": "Double-sceller et congeler sous -18 °C — Stockage au congélateur (180–360 jours) ❄️",
+            "text": "La congélation est la meilleure méthode pour un stockage prolongé. Les températures négatives stoppen l'oxydation de l'huile et neutralisent l'humidité. 💡 Astuce de conservation : Videz l'air, scellez dans un sachet Ziploc et congelez sous -18 °C pour garder le croquant 6 mois à 1 an."
+          },
+          {
+            "name": "Recuire les algues ramollies au micro-ondes ou à la poêle — Astuce croustillante ⚡",
+            "text": "Une algue qui a pris l'humidité peut retrouver son croquant si l'on évapore l'eau. 💡 Astuce de conservation : Passez les feuilles 15 à 20 secondes au micro-ondes ou poêlez-les brièvement à feu doux sans matière grasse."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mon algue est devenue violette/rougeâtre. Est-elle encore consommable ?",
+            "answer": "La coloration violette apparaît lorsque la lumière et l'humidité détruisent la chlorophylle verte et révèlent la phycoérythrine rouge. Bien que non toxique, l'algue a perdu ses nutriments et ses arômes, et l'huile des algues assaisonnées est probablement rance. Il vaut mieux la jeter."
+          },
+          {
+            "question": "Y a-t-il une différence de conservation entre le nori naturel et l'algue assaisonnée ?",
+            "answer": "Les deux se conservent idéalement au congélateur. Cependant, l'algue assaisonnée contient de l'huile sujette au rancissement et doit être consommée rapidement ou congelée. Le nori naturel sans huile se conserve assez longtemps à température ambiante s'il est bien scellé avec un dessiccant au frais."
+          }
+        ]
+      },
+      "de": {
+        "title": "Getrocknete Algen & Nori knusprig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für getrocknete Algen (Nori) und gewürzte Algen basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "NIFS & MFDS & MAFF",
+        "intro": "Haben Sie schon einmal eine Packung knuspriger Nori-Algen geöffnet und festgestellt, dass sie nach kurzer Zeit zäh wurden und nach ranzigem Öl rochen? 🍙\n\nGetrocknete Algen besitzen eine extrem poröse Struktur mit hoher Saugkraft und ziehen Feuchtigkeit aus der Luft wie ein Schwamm an. Bei gewürzten Algen mit Öl und Salz beschleunigen Feuchtigkeit, Sauerstoff und Licht die Fettoxidation dramatisch, was Knusprigkeit und Geschmack ruiniert.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um Ihre Nori-Algen dauerhaft knusprig und aromatisch zu halten. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Algen niemals an feuchten oder sonnigen Orten lagern ⚠️",
+            "desc": "Hohe Luftfeuchtigkeit macht Algen zäh und weich, während Sonnenlicht (UV-Strahlung) das grüne Chlorophyll zerstört und die Blätter violett/rötlich verfärbt. Bei gewürzten Algen führt Licht zu raschem Ranzigwerden des Öls."
+          },
+          {
+            "title": "Vorsicht vor Kondenswasser beim Entnehmen aus dem Gefrierfach 💧",
+            "desc": "Wird die kalte Algenpackung direkt nach dem Entnehmen aus dem Tiefkühlfach geöffnet, bildet sich durch den Temperaturunterschied sofort Kondenswasser im Inneren. Lassen Sie die verschlossene Packung 5–10 Minuten bei Raumtemperatur akklimatisieren."
+          }
+        ],
+        "steps": [
+          {
+            "name": "In luftdichter Dose mit Trockenmittel (Silica-Gel) aufbewahren — Feuchtigkeitsschutz 📦",
+            "text": "Werden geöffnete Algen bei Raumtemperatur gelagert, nehmen sie binnen Stunden Feuchtigkeit auf. 💡 Lagerungstipp: Geben Sie verbliebene Algen in einen Ziploc-Beutel oder eine luftdichte Dose zusammen mit einem Päckchen Silica-Gel oder Küchenpapier."
+          },
+          {
+            "name": "Doppelt versiegelt unter -18 °C einfrieren — Gefrierlagerung (180–360 Tage) ❄️",
+            "text": "Einfrieren ist die beste Methode zur Langzeitlagerung. Minustemperaturen stoppen die Öloxidation und stoppen Feuchtigkeitsaktivität. 💡 Lagerungstipp: Drücken Sie die Luft heraus, versiegeln Sie die Algen im Ziploc-Beutel und frieren Sie sie ein. So bleiben sie 6 Monate bis 1 Jahr knusprig."
+          },
+          {
+            "name": "Weich gewordene Algen in Mikrowelle oder Pfanne auffrischen — Knusper-Trick ⚡",
+            "text": "Feucht gewordene Algen werden wieder knusprig, wenn die Restfeuchte verdampft wird. 💡 Lagerungstipp: Erwärmen Sie die Algenblätter für 15–20 Sekunden in der Mikrowelle oder rösten Sie sie kurz ohne Öl bei schwacher Hitze in der Pfanne."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Meine Algen haben sich violett/rötlich verfärbt. Kann ich sie noch essen?",
+            "answer": "Die Verfärbung entsteht, wenn Licht und Feuchtigkeit das grüne Chlorophyll abbauen und rote Farbstoffe sichtbar werden. Die Algen sind zwar nicht giftig, haben aber Geschmack und Nährstoffe verloren, und bei gewürzten Algen ist das Öl meist ranzig. Es wird empfohlen, sie zu entsorgen."
+          },
+          {
+            "question": "Gibt es Unterschiede bei der Lagerung von gewürzten und ungewürzten Nori-Algen?",
+            "answer": "Beide Arten lagern am besten tiefgekühlt. Gewürzte Algen enthalten jedoch Öl und werden schnell ranzig, weshalb sie rasch verbraucht oder eingefroren werden sollten. Ungewürzte Nori-Algen halten sich mit Trockenmittel in einer dicht verschlossenen Dose auch bei kühler Raumtemperatur recht lange."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar alga marinha seca e temperada crocante e fresca: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para alga seca (nori) e temperada com base em diretrizes oficiais de segurança.",
+        "authority": "NIFS & MFDS & MAFF",
+        "intro": "Você já abriu um pacote de alga crocante e pouco tempo depois percebeu que ela ficou murcha e com cheiro de óleo râncio? 🍙\n\nA alga seca possui uma estrutura altamente porosa com grande capacidade de absorver a umidade do ar como uma esponja. No caso da alga temperada com óleo e sal, a exposição à umidade, oxigênio e luz acelera a oxidação dos lipídios, estragando sua crocância e sabor.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes de órgãos de pesquisa pesqueira e segurança alimentar para manter suas algas perfeitamente crocantes e saborosas. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca deixe as algas em locais úmidos ou expostos à luz solar ⚠️",
+            "desc": "A alta umidade deixa a alga murcha e a luz solar (UV) destrói a clorofila verde, tornando as folhas roxas ou avermelhadas. Na alga temperada, luz e ar rancificam rapidamente o óleo."
+          },
+          {
+            "title": "Cuidado com a condensação ao retirar as algas do freezer 💧",
+            "desc": "Se você abrir o pacote gelado logo ao retirar do freezer, a diferença de temperatura criará gotas de água dentro da embalagem, murchando a alga. Deixe o pacote fechado atingir a temperatura ambiente por 5 a 10 minutos antes de abrir."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Guarde em pote hermético com sílica gel (dessecante) — Barreira contra umidade 📦",
+            "text": "Deixar a alga aberta em temperatura ambiente faz com que ela absorva umidade em poucas horas. 💡 Dica de conservação: Coloque a alga temperada ou seca em um saco Ziploc ou pote hermético junto com um sachê de sílica gel ou papel toalha."
+          },
+          {
+            "name": "Sela em saco duplo e congele abaixo de -18 °C — Congelamento (180–360 dias) ❄️",
+            "text": "Congelar é o melhor método para longa conservação. As temperaturas abaixo de zero paralisam a oxidação do óleo e neutralizam a umidade. 💡 Dica de conservação: Retire o ar, sele em saco Ziploc e congele abaixo de -18 °C para manter a crocância de 6 meses a 1 ano."
+          },
+          {
+            "name": "Recupere a alga murcha no micro-ondas ou grelhando levemente — Truque de crocância ⚡",
+            "text": "A alga que absorveu umidade pode voltar a ficar crocante evaporando a água. 💡 Dica de conservação: Aqueça as folhas em um prato no micro-ondas por 15–20 segundos ou doure levemente em frigideira sem óleo em fogo baixo."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Minha alga ficou roxa ou avermelhada. Ainda posso comer?",
+            "answer": "A coloração roxa ocorre quando a luz e a umidade destroem a clorofila verde e expõem o pigmento vermelho ficoeritrina. Embora não seja tóxica, indica perda grave de nutrientes e sabor, e o óleo da alga temperada provavelmente ranceou. Recomenda-se descartar."
+          },
+          {
+            "question": "Existe diferença entre guardar alga nori natural e alga temperada?",
+            "answer": "Ambas se conservam melhor congeladas. No entanto, a alga temperada contém óleo e rancifica facilmente, devendo ser consumida rápido ou mantida no freezer. O nori natural sem óleo dura bastante em temperatura ambiente se bem vedado com dessecante em local fresco."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Rumput Laut Kering & Nori agar Tetap Renyah: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk rumput laut kering (nori) dan rumput laut panggang berbumbu berdasarkan pedoman keselamatan resmi.",
+        "authority": "NIFS & MFDS & MAFF",
+        "intro": "Pernahkah Anda membuka kemasan rumput laut panggang yang renyah, lalu tak lama kemudian mendapatinya menjadi melempem dan berbau minyak tengik? 🍙\n\nRumput laut kering memiliki struktur sangat berpori dengan daya serap kelembapan yang sangat tinggi, menyerap kelembapan udara seperti spons. Untuk rumput laut berbumbu yang mengandung minyak dan garam, paparan kelembapan, oksigen, dan cahaya mempercepat oksidasi minyak, merusak rasa dan kerenyahannya.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman lembaga riset perikanan dan keselamatan pangan untuk menjaga rumput laut Anda tetap renyah dan gurih. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan pernah meninggalkan rumput laut di tempat lembap atau terkena sinar matahari ⚠️",
+            "desc": "Kelembapan tinggi membuat rumput laut melempem, sementara sinar matahari (UV) merusak klorofil hijau sehingga warnanya berubah menjadi ungu/kemerahan. Pada rumput laut berbumbu, cahaya dan udara membuat minyak cepat tengik."
+          },
+          {
+            "title": "Waspadai kondensasi saat mengeluarkan rumput laut dari freezer 💧",
+            "desc": "Jika kemasan dingin yang baru dikeluarkan dari freezer langsung dibuka, perbedaan suhu akan menyebabkan embun air terbentuk di dalam kemasan dan membuat rumput laut melempem. Biarkan kemasan tertutup menyesuaikan suhu ruang selama 5–10 menit sebelum dibuka."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Simpan dalam wadah kedap udara bersama desikan (silica gel) — Pelindung Kelembapan 📦",
+            "text": "Meninggalkan rumput laut yang sudah dibuka pada suhu ruang membuatnya menyerap kelembapan dalam hitungan jam. 💡 Tips Penyimpanan: Masukkan sisa rumput laut ke dalam kantong Ziploc kedap udara atau wadah rapat bersama kantong silica gel atau tisu dapur."
+          },
+          {
+            "name": "Segel ganda dan bekukan di bawah suhu -18°C — Simpan Freezer (180–360 Hari) ❄️",
+            "text": "Membekukannya adalah metode terbaik untuk penyimpanan jangka panjang. Suhu di bawah nol menghentikan oksidasi minyak dan menekan aktivitas kelembapan. 💡 Tips Penyimpanan: Buang udara di dalam kantong, segel ganda dengan Ziploc, lalu simpan di freezer (-18°C) untuk menjaga kerenyahannya selama 6 bulan hingga 1 tahun."
+          },
+          {
+            "name": "Pulihkan rumput laut yang melempem dengan microwave atau panggang sebentar — Trik Renyah Kembali ⚡",
+            "text": "Rumput laut yang terlanjur melempem dapat kembali renyah jika kadar airnya diuapkan. 💡 Tips Penyimpanan: Tata lembaran rumput laut di atas piring lalu panaskan di microwave selama 15–20 detik, atau panggang sebentar di atas wajan tanpa minyak dengan api kecil."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Rumput laut saya berubah warna menjadi keunguan/kemerahan. Apakah masih aman dimakan?",
+            "answer": "Perubahan warna menjadi ungu/kemerahan terjadi ketika sinar matahari dan kelembapan merusak klorofil hijau sehingga pigmen fikoeritrin merah terlihat. Meskipun tidak beracun, nutrisi dan aromanya sudah hilang, dan minyak pada rumput laut berbumbu kemungkinan besar sudah tengik. Disarankan untuk membuangnya."
+          },
+          {
+            "question": "Apakah ada perbedaan cara menyimpan nori tawar dan rumput laut berbumbu?",
+            "answer": "Kedua jenis rumput laut paling baik disimpan di freezer. Namun, rumput laut berbumbu mengandung minyak yang mudah tengik sehingga harus cepat dihabiskan atau dibekukan. Nori tawar tanpa minyak dapat bertahan cukup lama pada suhu ruang sejuk jika disimpan dalam wadah kedap udara bersama desikan."
+          }
+        ]
+      }
     }
+  }
 }

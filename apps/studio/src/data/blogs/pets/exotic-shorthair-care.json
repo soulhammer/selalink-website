@@ -1,459 +1,459 @@
 {
-    "exotic-shorthair-care": {
-        "pubDate": "2026-03-22",
-        "updatedDate": "2026-03-22",
-        "locales": {
-            "ko": {
-                "title": "엑조틱 숏헤어의 애정 신호 해석과 단두종 호흡기 증후군(BAS) 및 다낭성 신장질환(PKDef) 관리를 위한 3단계 데일리 케어",
-                "description": "눌린 얼굴과 순한 성격이 매력적인 엑조틱 숏헤어(Exotic Shorthair). 안면 마찰(Bunting) 및 골골송 신호 해석, 눈물샘·호흡기 케어 및 PKDef 예방을 위한 3단계 홈케어 루틴을 소개합니다.",
-                "authority": "CFA (고양이애호가협회) 및 TICA (국제고양이협회) 케어 프로토콜",
-                "profile": {
-                    "breed": "엑조틱 숏헤어 (Exotic Shorthair)",
-                    "lifespan": "12 ~ 15년",
-                    "sleep_pattern": "12 ~ 16시간 (온순함, 실내 수면 위주)",
-                    "temperament": "온순함, 조용함, 애교 많음, 느긋함, 장난기 있음"
-                },
-                "intro": "'털을 짧게 깎은 페르시안'으로 불리는 엑조틱 숏헤어(Exotic Shorthair)는 특유의 납작한 안면 구조와 동그란 눈, 순하고 조용한 성품으로 전 세계에서 사랑받는 품종입니다. 페르시안의 차분함과 아메리칸 숏헤어의 친근함을 동시에 지녔으나, 납작한 얼굴 구조(단두종)로 인해 단두종 호흡기 증후군(BAS)과 눈물샘 막힘(눈물 자국)에 매우 취약합니다. 또한 유전적으로 다낭성 신장질환(PKDef) 위험이 높고 체중 관리가 안 될 경우 호흡 곤란이 심해질 수 있습니다. 이번 가이드에서는 엑조틱 숏헤어의 신체 신호를 올바르게 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
-                "whyTitle": "엑조틱 숏헤어의 바디 랭귀지: 조용한 골골송(Purring)과 안면 마찰(Friction / Bunting)",
-                "whyDesc": "엑조틱 숏헤어는 목소리가 작고 조용하며, 신체 마찰과 기분 좋은 진동음으로 애정을 표현합니다. 보호자의 몸에 뺨이나 이마를 문지르는 **'안면 마찰(Bunting / Cheeking)'**은 자신의 페로몬을 묻혀 보호자를 자신의 가족으로 인정하는 신뢰 행동입니다. 반면 느긋하게 누워 조용히 목을 울리는 **'골골송(Purring)'**은 현재 상태에 대한 깊은 만족감과 심리적 안정을 나타냅니다.",
-                "body_signals": [
-                    {
-                        "name": "뺨과 이마를 보호자의 손이나 몸에 부드럽게 문지름 (Bunting / Cheeking)",
-                        "meaning": "자신의 안면 페로몬을 묻혀 소유권을 표시하고 깊은 애정과 친밀감을 표현하는 대표적인 애정 신호입니다.",
-                        "response": "손가락으로 턱 밑이나 뺨을 다정하게 쓸어내려 주며 부드러운 목소리로 응답해 줍니다."
-                    },
-                    {
-                        "name": "눈을 반쯤 감고 편안한 자세로 조용히 목을 울림 (Purring)",
-                        "meaning": "현재 환경과 보호자의 존재에 대해 완벽한 안도감과 스트레스 없는 편안함을 느끼고 있다는 신호입니다.",
-                        "response": "무리하게 움직이지 말고 그대로 편안히 쉴 수 있도록 조용하고 따뜻한 환경을 유지해 줍니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 안면 주름·눈물 자국 위생 청결 및 PKDef 예방을 위한 습식 사료 급여",
-                        "text": "단두종 특성상 눈물샘이 짧아 눈물이 많이 흐르므로 전용 닦개로 눈물 자국과 주름 사이를 청결히 닦아주고, 신장 건강(PKDef 예방)을 위해 습식 사료로 음수량을 채워줍니다."
-                    },
-                    {
-                        "name": "낮: 실내 온·습도 조절(호흡기 보호) 및 적정 체중 유지를 위한 저강도 놀이",
-                        "text": "짧은 기도로 인해 열 발산이 어렵고 더위에 약하므로 실내 온도를 22~24°C로 유지하고, 과격하지 않은 낚싯대 놀이로 비만을 예방합니다."
-                    },
-                    {
-                        "name": "저녁: 빽빽한 이중모 빗질 및 조용한 수면 공간 제공",
-                        "text": "단모지만 빽빽한 이중모 구조를 지녀 죽은 털 제거를 위해 매일 빗질을 해주고, 호흡에 방해가 되지 않도록 먼지 없는 깨끗한 모래 환경을 점검합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "엑조틱 숏헤어는 왜 코를 골거나 거친 숨소리를 내나요?",
-                        "answer": "엑조틱 숏헤어는 비강이 짧고 비공(콧구멍)이 좁은 단두종 구조를 가지고 있어 정상적인 상태에서도 약간의 코골이나 거친 숨소리가 날 수 있습니다(단두종 호흡기 증후군, BAS). 그러나 개구 호흡(입을 벌리고 숨쉼), 잇몸 청색증, 또는 숨쉴 때 그르렁거리는 소리가 심해진다면 즉시 수의사의 진료를 받아야 합니다."
-                    },
-                    {
-                        "question": "다낭성 신장질환(PKDef)은 어떻게 예방하고 관리해야 하나요?",
-                        "answer": "다낭성 신장질환(PKDef)은 페르시안 계통 품종에 발생하는 치명적인 유전성 질환으로, 신장에 물낭선(낭종)이 생겨 신장 기능을 떨어뜨립니다. 입양 시 유전자 검사(PKDef DNA test) 여부를 확인하고, 1세 이후 매년 정기적인 신장 초음파 및 혈액 검사를 실시하며 평소 습식 사료를 통해 충분한 음수량을 확보해야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Exotic Shorthair Behavioral Signals and 3-Step Daily Routine for Brachycephalic Airway Syndrome (BAS) and Polycystic Kidney Disease (PKDef) Care",
-                "description": "Care guide for the adorable Exotic Shorthair. Interpret bunting and purring signals, manage tear stains, airflow, and prevent PKDef in 3 steps.",
-                "authority": "Cat Fanciers' Association (CFA) & The International Cat Association (TICA) Care Standards",
-                "profile": {
-                    "breed": "Exotic Shorthair",
-                    "lifespan": "12 - 15 Years",
-                    "sleep_pattern": "12 - 16 Hours (Placid, prefers comfortable indoor resting)",
-                    "temperament": "Gentle, Quiet, Affectionate, Easygoing, Playful"
-                },
-                "intro": "Often referred to as the 'Persian in Pajamas,' the Exotic Shorthair is cherished worldwide for its flat face, round eyes, and quiet, sweet personality. Combining the placid nature of the Persian with the playful friendliness of the American Shorthair, they are wonderful companions. However, their brachycephalic (flat-faced) facial structure makes them highly susceptible to Brachycephalic Airway Syndrome (BAS) and tear duct overflow. Additionally, they carry a genetic risk for Polycystic Kidney Disease (PKDef). In this guide, presents a 3-step daily care routine to decode your Exotic Shorthair's body language and protect their health.",
-                "whyTitle": "Exotic Shorthair Body Language: Gentle Purring and Bunting (Head-Rubbing)",
-                "whyDesc": "Exotic Shorthairs have soft voices and express affection through physical contact and subtle vibrations. Rubbing their cheeks or forehead against your hand or body **'Bunting / Cheeking'** deposits facial pheromones, marking you as trusted family. Conversely, lying comfortably while emitting a quiet, rhythmic vibration **'Purring'** signals complete contentment and psychological safety in their environment.",
-                "body_signals": [
-                    {
-                        "name": "Gently Rubbing Cheeks and Forehead Against Owner (Bunting / Cheeking)",
-                        "meaning": "A signature sign of affection that deposits facial pheromones to claim the owner as family and show deep trust.",
-                        "response": "Respond gently by stroking their chin or cheeks and speaking in a calm, soothing voice."
-                    },
-                    {
-                        "name": "Lying Relaxed with Half-Closed Eyes while Purring Softly (Purring)",
-                        "meaning": "Indicates complete emotional comfort, contentment, and a stress-free state in their current surroundings.",
-                        "response": "Maintain a quiet, warm environment so they can continue to rest peacefully without sudden disruptions."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Facial Fold & Tear Stain Hygiene & Wet Feeding for PKDef Prevention",
-                        "text": "Wipe facial folds and tear overflow gently with a damp wipe due to short tear ducts, and feed wet food to ensure high hydration for kidney health."
-                    },
-                    {
-                        "name": "Afternoon: Climate Control (Airway Protection) & Low-Impact Weight Management Play",
-                        "text": "Keep indoor temperature cool (22°C–24°C) as flat-faced breeds overheat easily, engaging in gentle rod toy play to prevent obesity."
-                    },
-                    {
-                        "name": "Evening: Dense Double-Coat Brushing & Low-Dust Litter Box Maintenance",
-                        "text": "Brush daily to remove loose fur from their plush double coat, ensuring a clean, low-dust litter environment to prevent airway irritation."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why does my Exotic Shorthair snore or breathe noisily?",
-                        "answer": "Exotic Shorthairs have a shortened facial structure with compressed nasal passages (Brachycephalic Airway Syndrome, BAS), causing mild snorting or snoring naturally. However, if you observe open-mouth breathing, bluish gums, or severe wheezing, consult a veterinarian immediately."
-                    },
-                    {
-                        "question": "How should Polycystic Kidney Disease (PKDef) be managed and prevented?",
-                        "answer": "Polycystic Kidney Disease (PKDef) is a fatal inherited condition common in Persian-derived breeds where fluid-filled cysts develop in the kidneys. Ensure genetic screening (PKDef DNA test) at adoption, schedule annual renal ultrasound and blood tests after age 1, and maintain high daily water intake through wet food."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "エキゾチックショートヘアの親愛サイン解読と短頭種気道症候群(BAS)・多胞性腎病変(PKDef)管理のための3ステップデイリールーティン",
-                "description": "愛くるしいぺちゃ顔が魅力のエキゾチックショートヘア（Exotic Shorthair）。スリスリ（フェイシャルバンティング）やゴロゴロ音の解読、目元・気道ケアおよびPKDef予防のための3ステップホームケアを紹介します。",
-                "authority": "CFA（猫愛好家協会）およびTICA（国際猫協会）飼育基準",
-                "profile": {
-                    "breed": "エキゾチックショートヘア (Exotic Shorthair)",
-                    "lifespan": "12 〜 15年",
-                    "sleep_pattern": "12 〜 16時間 (おとなしく、室内での睡眠が中心)",
-                    "temperament": "穏やか、静か、甘えん坊、のんびり、茶目っ気がある"
-                },
-                "intro": "「短毛種のペルシャ」と称されるエキゾチックショートヘア（Exotic Shorthair）は、平らな顔立ちと丸い瞳、穏やかで静かな性格で世界中から愛されている人気品種です。ペルシャの落ち着きとアメリカンショートヘアのフレンドリーさを兼ね備えていますが、つぶれた顔立ち（短頭種）のため短頭種気道症候群（BAS）や鼻涙管の詰まり（涙やけ）を起こしやすい特徴があります。また遺伝的に多胞性腎病変（PKDef）のリスクが高く、肥満になると呼吸が苦しくなるため体重管理が重要です。本記事では、エキゾチックショートヘアのサインを解読し健康を守る3ステップルーティンをお届けします。",
-                "whyTitle": "エキゾチックショートヘアのボディランゲージ：静かなゴロゴロ音(Purring)と顔の擦り付け(Bunting / Cheeking)",
-                "whyDesc": "エキゾチックショートヘアは鳴き声が小さく静かで、身体の摩擦や心地よい振動音で愛情を表現します。飼い主の手や体に頬や額を擦り付ける**「顔の擦り付け（Bunting / Cheeking）」**は、自分のフェロモンを付けて家族として認める信頼行動です。一方、のんびりと横たわり静かに喉を鳴らす**「ゴロゴロ音（Purring）」**は、現在の環境に対する深い満足感と心身の安定を示しています。",
-                "body_signals": [
-                    {
-                        "name": "頬や額を飼い主の手や体に優しく擦り付ける (Bunting / Cheeking)",
-                        "meaning": "自分のフェロモンを付けて所有権を示し、深い愛着と親密感を表す代表的な親愛サインです。",
-                        "response": "指先で顎の下や頬を優しく撫で返し、穏やかな声で応えてあげましょう。"
-                    },
-                    {
-                        "name": "目を半開きにしてリラックスした姿勢で静かに喉を鳴らす (Purring)",
-                        "meaning": "現在の環境や飼い主の存在に対して完全な安心感とストレスのない快適さを感じているサインです。",
-                        "response": "無理に動かさず、そのまま安心して休めるよう静かで温かい環境を保ちましょう。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：顔のシワ・涙やけの衛生ケア＆PKDef予防のためのウェットフード給餌",
-                        "text": "鼻涙管が短い短頭種のため涙が出やすく、専用コットンでシワと目元を拭き取り、腎臓の健康（PKDef予防）のためにウェットフードで水分を補給します。"
-                    },
-                    {
-                        "name": "昼：室内温湿度管理（気道保護）と適正体重維持のための低強度な遊び",
-                        "text": "体温調節が苦手で暑さに弱いため室温を22〜24℃に保ち、体に負担のかからないじゃらし遊びで肥満を予防します。"
-                    },
-                    {
-                        "name": "夜：密なダブルコートのブラッシングと低ホコリ環境の点検",
-                        "text": "短毛ですが密なダブルコートを持つため毎日のブラッシングで抜け毛を取り除き、気道を刺激しない低ホコリなトイレ環境を維持します。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "エキゾチックショートヘアはなぜいびきをかいたり荒い息をするのですか？",
-                        "answer": "エキゾチックショートヘアは鼻腔が短く鼻孔が狭い短頭種構造（短頭種気道症候群、BAS）を持つため、正常な状態でも軽いいびきや鼻音がすることがあります。しかし、口を開けて息をする（開口呼吸）、歯茎が紫っぽくなる（チアノーゼ）、呼吸音がゼーゼーと激しくなる場合は、直ちに獣医師の診察を受けてください。"
-                    },
-                    {
-                        "question": "多胞性腎病変（PKDef）はどのように予防・管理すればよいですか？",
-                        "answer": "多胞性腎病変（PKDef）はペルシャ系の猫に見られる遺伝性疾患で、腎臓に嚢胞（水たまり）ができて腎機能が低下します。お迎え時に遺伝子検査（PKDef DNA検査）を確認し、1歳以降は毎年定期的な超音波検査と血液検査を行い、日頃からウェットフードで十分な水分を摂らせることが大切です。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "异国短毛猫行为信号解读与短头颅呼吸道综合征 (BAS) 及多囊肾病 (PKDef) 预防的 3 步日常流程",
-                "description": "拥有扁平可爱面容的异国短毛猫（Exotic Shorthair/加菲猫）护理指南。解读蹭脸与咕噜声信号，护理面部褶皱与眼痕，预防 PKDef 的 3 步骤家庭护理。",
-                "authority": "猫爱好者协会 (CFA) 与国际猫协会 (TICA) 护理标准",
-                "profile": {
-                    "breed": "异国短毛猫 (Exotic Shorthair / 加菲猫)",
-                    "lifespan": "12 ~ 15年",
-                    "sleep_pattern": "12 ~ 16小时 (温顺，以室内休息为主)",
-                    "temperament": "温顺、安静、粘人、随和、带有一丝爱玩的天性"
-                },
-                "intro": "被称为“穿睡衣的波斯猫”的异国短毛猫（Exotic Shorthair/加菲猫），凭其标志性的扁平面庞、圆硕的大眼以及温和安静的性格深受全球喜爱。它们兼具波斯猫的沉稳与美国短毛猫的亲和，但由于特殊的扁平面部结构（短头结构），极易患短头颅呼吸道综合征（BAS）以及鼻泪管堵塞（泪痕）。此外，它们基因上携带多囊肾病（PKDef）风险，控制体重对维持呼吸顺畅至关重要。本指南将带您准确解读异国短毛猫肢体语言，并通过 3 步骤日常护理维护其健康。",
-                "whyTitle": "异国短毛猫肢体语言：安静的咕噜声 (Purring) 与面部蹭蹭 (Bunting / Cheeking)",
-                "whyDesc": "异国短毛猫叫声柔和细小，主要通过肢体接触与舒缓的振动声表达爱意。用面颊或额头温柔地蹭主人的手或身体**“面部蹭蹭 (Bunting / Cheeking)”**，是涂抹面部腺体费洛蒙、将主人标记为信任家族的最高爱意表达。相反，放松地躺着并发出规律的**“咕噜声 (Purring)”**，则表明其对当下环境感到极度的安心与心理满足。",
-                "body_signals": [
-                    {
-                        "name": "用面颊和额头温柔蹭主人的手或身体 (Bunting / Cheeking)",
-                        "meaning": "涂抹自身面部费洛蒙标记归属权，表达深厚信任与依恋的代表性爱意行为。",
-                        "response": "用手指温柔抚摸其下巴或面颊，并用轻柔的声音给予回应。"
-                    },
-                    {
-                        "name": "半合双眼，呈放松姿态并发出安静的咕噜声 (Purring)",
-                        "meaning": "表达对当下环境和主人陪伴感到绝对放松、无压力与无比舒适。",
-                        "response": "保持环境安静温暖，切勿突然惊扰，让其安心休息。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：面部褶皱与泪痕清洁及投喂湿粮预防多囊肾病 (PKDef)",
-                        "text": "因鼻泪管短极易流泪，需用温和湿巾清洁眼周与褶皱；投喂高水分湿粮以保护肾脏健康（预防 PKDef）。"
-                    },
-                    {
-                        "name": "中午：室内温湿度控制（保护呼吸道）与适度温和的游戏",
-                        "text": "短头结构散热能力差、怕热，应将室温维持在 22°C~24°C，并进行温和的逗猫棒互动以控制体重。"
-                    },
-                    {
-                        "name": "晚上：浓密双层被毛梳理与低粉尘猫砂环境维护",
-                        "text": "虽为短毛但拥有浓密双层底毛，需每日梳理浮毛，并保持猫砂盆清洁无粉尘，避免刺激呼吸道。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "异国短毛猫为什么经常打呼噜或发出粗重的呼吸声？",
-                        "answer": "异国短毛猫面部结构平扁、鼻道较短且鼻孔狭窄（短头颅呼吸道综合征，BAS），因此在正常状态下也可能发出轻微的呼噜声或鼾声。但如果出现张口呼吸、牙龈发绀（紫绀）或剧烈的哮喘声，必须立即送往宠物医院就诊。"
-                    },
-                    {
-                        "question": "如何预防与管理多囊肾病（PKDef）？",
-                        "answer": "多囊肾病（PKDef）是波斯猫系常见的遗传性致命疾病，会导致肾脏产生水肿囊肿并逐渐破坏肾功能。建议在领养时确认 DNA 基因检测结果，1 岁后每年定期进行肾脏 B 超与血液检查，日常通过湿粮保证充足饮水量。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Señales de conducta en el Exótico de Pelo Corto y rutina diaria de 3 pasos para el síndrome braquicefálico (BAS) y la poliquistosis renal (PKDef)",
-                "description": "Guía de cuidado para el adorable Exótico de Pelo Corto (Exotic Shorthair). Interprete los roces faciales y ronroneos, limpie pliegues, proteja sus vías respiratorias y prevenga la PKDef en 3 pasos.",
-                "authority": "Cat Fanciers' Association (CFA) y Normas de The International Cat Association (TICA)",
-                "profile": {
-                    "breed": "Exótico de Pelo Corto (Exotic Shorthair)",
-                    "lifespan": "12 ~ 15 años",
-                    "sleep_pattern": "12 ~ 16 horas (Tranquilo, prefiere el descanso tranquilo en interiores)",
-                    "temperament": "Dulce, Tranquilo, Afectuoso, Sosegado, Juguetón"
-                },
-                "intro": "Conocido popularmente como el 'Persa en pijama' debido a su pelaje corto y denso, el Exótico de Pelo Corto (Exotic Shorthair) es amado en todo el mundo por su cara chata, ojos redondos y temperamento dulce. Combina la naturaleza tranquila del Persa con la amabilidad del Americano de Pelo Corto. Sin embargo, su estructura facial braquicefálica los hace muy vulnerables al Síndrome Braquicefálico Respiratorio (BAS) y al lagrimeo constante. Además, tienen predisposición genética a la Poliquistosis Renal (PKDef). En esta guía, presenta una rutina de 3 pasos para cuidar su salud.",
-                "whyTitle": "Lenguaje corporal del Exótico de Pelo Corto: Ronroneo suave y roces faciales (Bunting / Cheeking)",
-                "whyDesc": "El Exótico de Pelo Corto tiene una voz muy suave y expresa su afecto a través del contacto físico. Frotar sus mejillas o frente contra tus manos o cuerpo **'Roces faciales (Bunting / Cheeking)'** deposita feromonas faciales para marcarte como parte de su familia. Por otro lado, descansar relajado mientras emite una vibración rítmica **'Ronroneo (Purring)'** indica bienestar absoluto y seguridad psicológica.",
-                "body_signals": [
-                    {
-                        "name": "Frotar suavemente las mejillas y la frente contra el dueño (Bunting / Cheeking)",
-                        "meaning": "Muestra de afecto característica que deposita feromonas faciales para marcar al dueño con confianza y cariño.",
-                        "response": "Responda acariciando suavemente su barbilla o mejillas con una voz tranquila y pausada."
-                    },
-                    {
-                        "name": "Estar tumbado con ojos entreabiertos ronroneando suavemente (Purring)",
-                        "meaning": "Señal de calma total, bienestar y ausencia de estrés en su entorno actual.",
-                        "response": "Mantenga un ambiente cálido y silencioso para que continúe descansando sin interrupciones."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Limpieza de pliegues faciales y manchas de lágrimas junto con comida húmeda para prevenir PKDef",
-                        "text": "Limpie suavemente los pliegues del rostro debido al lagrimeo constante por sus conductos cortos, y ofrezca alimento húmedo para hidratar los riñones."
-                    },
-                    {
-                        "name": "Tarde: Control del clima (protección respiratoria) y juego moderado para el control de peso",
-                        "text": "Mantenga la casa fresca (22°C–24°C) ya que las razas chatas toleran mal el calor, y juegue suavemente con cañas para evitar la obesidad."
-                    },
-                    {
-                        "name": "Noche: Cepillado del manto doble denso y mantenimiento de arena sin polvo",
-                        "text": "Aunque es de pelo corto, posee una capa doble tupida que requiere cepillado diario; mantenga su arenero limpio de polvo para no irritar sus vías respiratorias."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué mi Exótico de Pelo Corto ronca o respira con ruidos?",
-                        "answer": "Los Exóticos de Pelo Corto tienen conductos nasales acortados y orificios estrechos (Síndrome Braquicefálico Respiratorio, BAS), por lo que es normal que produzcan leves ronquidos. Sin embargo, si observa respiración por la boca, encías azuladas o dificultad respiratoria severa, acuda de inmediato al veterinario."
-                    },
-                    {
-                        "question": "¿Cómo se debe controlar y prevenir la Poliquistosis Renal (PKDef)?",
-                        "answer": "La Poliquistosis Renal (PKDef) es una patología hereditaria grave común en la línea Persa que genera quistes de líquido en los riñones. Exija pruebas genéticas (PKDef DNA test) al adoptar, realice ecografías renales y analíticas de sangre anuales a partir del primer año, y fomente el consumo de agua mediante comida húmeda."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Signaux comportementaux de l'Exotic Shorthair et routine quotidienne en 3 étapes pour le syndrome brachycéphale (BAS) et la polykystose rénale (PKDef)",
-                "description": "Guide de soins pour l'adorable Exotic Shorthair. Décryptez le frottement facial et le ronronnement, nettoyez les plis du visage, préservez sa respiration et prévenez la PKDef en 3 étapes.",
-                "authority": "Cat Fanciers' Association (CFA) & Normes de The International Cat Association (TICA)",
-                "profile": {
-                    "breed": "Exotic Shorthair",
-                    "lifespan": "12 ~ 15 ans",
-                    "sleep_pattern": "12 ~ 16 heures (Calme, préfère le repos en intérieur)",
-                    "temperament": "Doux, Silencieux, Affectueux, Paisible, Joueur"
-                },
-                "intro": "Surnommé le 'Persan en pyjama' en raison de sa fourrure courte et dense, l'Exotic Shorthair est apprécié dans le monde entier pour sa tête plate, ses grands yeux ronds et sa douceur. Il combine le calme du Persan et la gentillesse de l'American Shorthair. Toutefois, sa morphologie brachycéphale le rend sensible au Syndrome Respiratoire des Races Brachycéphales (BAS) et aux écoulements lacrymaux. Il présente aussi un risque génétique de Polykystose Rénale (PKDef). Dans ce guide, vous présente une routine en 3 étapes pour préserver sa santé.",
-                "whyTitle": "Langage corporel de l'Exotic Shorthair : Ronronnement doux et frottement facial (Bunting / Cheeking)",
-                "whyDesc": "L'Exotic Shorthair possède une voix très douce et exprime son affection par le contact physique. Frotter ses joues ou son front contre vous **« Frottement facial (Bunting / Cheeking) »** dépose des phéromones apaisantes pour vous marquer comme sa famille. De plus, s'étendre confortablement en émettant une vibration régulière **« Ronronnement (Purring) »** témoigne d'une sérénité totale.",
-                "body_signals": [
-                    {
-                        "name": "Frotter doucement ses joues et son front contre son maître (Bunting / Cheeking)",
-                        "meaning": "Comportement d'affection marquant son maître avec ses phéromones faciales pour exprimer une totale confiance.",
-                        "response": "Répondez-lui en lui caressant délicatement le menton ou les joues d'une voix apaisante."
-                    },
-                    {
-                        "name": "Être allongé les yeux mi-clos en ronronnant doucement (Purring)",
-                        "meaning": "Signe d'un bien-être parfait, d'un sentiment de sécurité et d'une absence totale de stress.",
-                        "response": "Conservez une atmosphère calme et chaleureuse pour qu'il puisse continuer à se reposer paisiblement."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Soin des yeux et des plis du visage & alimentation humide anti-PKDef",
-                        "text": "Nettoyez délicatement les plis du visage sujets aux traces de larmes, et donnez de la nourriture humide pour favoriser l'hydratation rénale."
-                    },
-                    {
-                        "name": "Après-midi : Contrôle de la température (protection respiratoire) & jeu doux",
-                        "text": "Maintenez la pièce fraîche (22°C–24°C) car les races à nez plat supportent mal la chaleur, et stimulez-le doucement avec un plumet."
-                    },
-                    {
-                        "name": "Soir : Brossage du sous-poil dense & litière sans poussière",
-                        "text": "Bien que court, son pelage est dense et nécessite un brossage quotidien ; utilisez une litière dépoussiérée pour ne pas irriter ses voies respiratoires."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi mon Exotic Shorthair ronfle-t-il ou a-t-il une respiration bruyante ?",
-                        "answer": "L'Exotic Shorthair possède des canaux nasaux raccourcis (Syndrome Respiratoire Brachycéphale, BAS), ce qui provoque naturellement de légers ronflements. Cependant, si votre chat respire la bouche ouverte, a les gencives bleutées ou siffle fortement en respirant, consultez immédiatement un vétérinaire."
-                    },
-                    {
-                        "question": "Comment prévenir et gérer la Polykystose Rénale (PKDef) ?",
-                        "answer": "La Polykystose Rénale (PKDef) est une maladie héréditaire grave fréquente chez les chats issus du Persan, entraînant la formation de kystes sur les reins. Vérifiez le test ADN (PKDef) lors de l'adoption, effectuez un suivi échographique et sanguin annuel dès l'âge de 1 an, et favorisez la prise d'eau avec de la pâtée."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Verhaltenssignale der Exotic Shorthair und 3-Schritte-Tagesroutine für das brachyzephale Atemwegssyndrom (BAS) und Polyzystische Nierenerkrankung (PKDef)",
-                "description": "Pflegeanleitung für die niedliche Exotic Shorthair (Exotische Kurzhaarkatze). Köpfchengeben und Schnurren verstehen, Gesichtsfalten pflegen, Atemwege schützen und PKDef in 3 Schritten vorbeugen.",
-                "authority": "Cat Fanciers' Association (CFA) & Standards der The International Cat Association (TICA)",
-                "profile": {
-                    "breed": "Exotic Shorthair (Exotische Kurzhaarkatze)",
-                    "lifespan": "12 ~ 15 Jahre",
-                    "sleep_pattern": "12 ~ 16 Stunden (Ruhig, bevorzugt entspanntes Schlafen im Haus)",
-                    "temperament": "Sanftmütig, Ruhig, Verschmust, Gelassen, Verspielt"
-                },
-                "intro": "Oft als 'Perserkatze in Pyjamas' bezeichnet, ist die Exotic Shorthair für ihr flaches Gesicht, ihre großen Kugelaugen und ihr ruhiges, liebevolles Wesen weltbekannt. Sie vereint die Sanftmut der Perserkatze mit der unkomplizierten Art der Amerikanischen Kurzhaarkatze. Aufgrund ihrer flachen Gesichtsstruktur (Brachyzephalie) neigt sie jedoch zum Brachyzephalen Atemwegssyndrom (BAS) und Tränenkanalverstopfungen. Zudem besteht ein genetisches Risiko für die Polyzystische Nierenerkrankung (PKDef). In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für die Gesundheit Ihrer Exotic Shorthair.",
-                "whyTitle": "Körpersprache der Exotic Shorthair: Sanftes Schnurren und Köpfchengeben (Bunting / Cheeking)",
-                "whyDesc": "Die Exotic Shorthair hat eine sehr leise Stimme und zeigt Zuneigung vor allem durch Körperkontakt. Das sanfte Reiben von Wangen oder Stirn an Ihrer Hand **'Köpfchengeben (Bunting / Cheeking)'** überträgt Gesichtspheromone und markiert Sie als vertrautes Familienmitglied. Das ruhige Liegen mit tiefem, rhythmischem Brummen **'Schnurren (Purring)'** signalisiert dagegen absolute Zufriedenheit und seelische Entspannung.",
-                "body_signals": [
-                    {
-                        "name": "Wangen und Stirn sanft am Halter reiben (Bunting / Cheeking)",
-                        "meaning": "Typischer Vertrauensbeweis, bei dem Pheromone übertragen werden, um den Halter als Familie zu markieren.",
-                        "response": "Antworten Sie liebevoll mit sanftem Kraulen an Kinn und Wangen mit ruhiger Stimme."
-                    },
-                    {
-                        "name": "Mit halb geschlossenen Augen entspannt liegen und leise brummen (Purring)",
-                        "meaning": "Zeichen für vollkommenes Wohlbefinden, Sicherheitsgefühl und Schmerzfreiheit in der Umgebung.",
-                        "response": "Bewahren Sie ein ruhiges, warmes Umfeld, damit das Tier ungestört weiterschlafen kann."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Reinigung der Gesichtsfalten & Nassfütterung zur PKDef-Vorsorge",
-                        "text": "Wischen Sie Augenränder und Falten wegen des Tränenflusses vorsichtig ab, und füttern Sie Nassfutter zur Durchspülung der Nieren."
-                    },
-                    {
-                        "name": "Mittag: Angenehmes Raumklima (Atemwegsschutz) & Sanftes Spiel zur Gewichtskontrolle",
-                        "text": "Halten Sie den Raum kühl (22 °C–24 °C), da Rassen mit flachem Gesicht Hitze schlecht ausgleichen; schonendes Spiel beugt Übergewicht vor."
-                    },
-                    {
-                        "name": "Abend: Bürsten des dichten Doppelfells & Staubarme Katzenstreu nutzen",
-                        "text": "Trotz Kurzhaar besitzt sie dichtes Unterfell, das täglich gebürstet werden sollte; nutzen Sie staubfreie Streu zur Schonung der Atemwege."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum schnarcht meine Exotic Shorthair oder atmet manchmal laut?",
-                        "answer": "Die Exotic Shorthair hat verkürzte Nasenwege und engere Nasenlöcher (Brachyzephales Atemwegssyndrom, BAS), weshalb leichtes Schnorcheln vollkommen normal sein kann. Sollte die Katze jedoch durch den Mund atmen, blaue Schleimhäute zeigen oder schwer nach Luft ringen, suchen Sie sofort einen Tierarzt auf."
-                    },
-                    {
-                        "question": "Wie beuge ich der Polyzystischen Nierenerkrankung (PKDef) vor?",
-                        "answer": "Die Polyzystische Nierenerkrankung (PKDef) ist eine tödliche Erbkrankheit der Perserlinie, bei der Zysten das Nierengewebe zerstören. Achten Sie beim Kauf auf DNA-Tests der Elterntiere, lassen Sie ab dem 1. Lebensjahr jährliche Ultraschall- und Blutuntersuchungen durchführen und sorgen Sie für hohe Flüssigkeitsaufnahme."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Sinais comportamentais do Exotic Shorthair e rotina diária de 3 passos para síndrome braquicefálica (BAS) e doença renal policística (PKDef)",
-                "description": "Guia de cuidados para o adorável Exotic Shorthair. Interprete os roçados faciais e ronronados, limpe as dobras do rosto, proteja a respiração e previna a PKDef em 3 passos.",
-                "authority": "Cat Fanciers' Association (CFA) & Padrões da The International Cat Association (TICA)",
-                "profile": {
-                    "breed": "Exotic Shorthair (Exótico de Pelo Curto)",
-                    "lifespan": "12 ~ 15 anos",
-                    "sleep_pattern": "12 ~ 16 horas (Calmo, prefere o descanso tranquilo em ambientes internos)",
-                    "temperament": "Dócil, Silencioso, Afetuoso, Calmo, Brincalhão"
-                },
-                "intro": "Conhecido como o 'Persa de pijama' devido ao seu pelo curto e denso, o Exotic Shorthair é amado no mundo todo por sua cara achatada, olhos redondos e temperamento calmo. Ele combina a docilidade do Persa com o carisma do American Shorthair. No entanto, sua estrutura braquicefálica torna a raça propensa à Síndrome Respiratória Braquicefálica (BAS) e ao lacrimejamento constante. Além disso, possuem risco genético para Doença Renal Policística (PKDef). Neste guia, apresenta uma rotina de 3 passos para cuidar da saúde do seu pet.",
-                "whyTitle": "Linguagem corporal do Exotic Shorthair: Ronronado suave e roçado facial (Bunting / Cheeking)",
-                "whyDesc": "O Exotic Shorthair possui uma voz muito suave e demonstra afeto através do contato físico. Roçar as bochechas ou testa contra suas mãos ou corpo **'Roçado facial (Bunting / Cheeking)'** deposita feromônios para marcar você como família. Por outro lado, descansar relaxado enquanto emite uma vibração suave **'Ronronado (Purring)'** indica bem-estar completo e segurança emocional.",
-                "body_signals": [
-                    {
-                        "name": "Roçar suavemente as bochechas e a testa no tutor (Bunting / Cheeking)",
-                        "meaning": "Demonstração de afeto típica que deposita feromônios faciais para marcar o tutor com confiança e carinho.",
-                        "response": "Responda acariciando suavemente o queixo ou as bochechas enquanto fala com voz calma."
-                    },
-                    {
-                        "name": "Ficar deitado com olhos semiabertos ronronando suavemente (Purring)",
-                        "meaning": "Sinal de tranquilidade total, bem-estar e ausência de estresse no ambiente atual.",
-                        "response": "Mantenha o ambiente silencioso e aquecido para que ele continue descansando em paz."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Limpeza das dobras faciais e lágrimas com ração úmida anti-PKDef",
-                        "text": "Limpe as dobras do rosto com pano úmido devido ao lacrimejamento, e ofereça alimento úmido para garantir alta hidratação renal."
-                    },
-                    {
-                        "name": "Tarde: Controle de temperatura (proteção respiratória) e brincadeiras leves",
-                        "text": "Mantenha a casa fresca (22°C–24°C) pois gatos de cara achatada sofrem com o calor; brinque levemente com varinhas para evitar a obesidade."
-                    },
-                    {
-                        "name": "Noite: Escovação da pelagem dupla e manutenção de areia sem poeira",
-                        "text": "Apesar do pelo curto, possui subpelo denso que requer escovação diária; mantenha a caixa de areia sem poeira para não irritar as vias aéreas."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Por que o meu Exotic Shorthair ronca ou respira com ruído?",
-                        "answer": "Os gatos Exotic Shorthair têm canais nasais encurtados (Síndrome Respiratória Braquicefálica, BAS), tornando normal um leve ronco. Porém, se observar o gato respirando pela boca, gengivas arroxeadas ou chiado forte ao respirar, consulte um veterinário imediatamente."
-                    },
-                    {
-                        "question": "Como prevenir e controlar a Doença Renal Policística (PKDef)?",
-                        "answer": "A Doença Renal Policística (PKDef) é uma patologia hereditária grave comum na linhagem Persa, causando cistos nos rins. Exija teste de DNA (PKDef) ao adotar, realize ultrassom renal e exames de sangue anuais após o 1 ano de idade, e estimule o consumo de água com sachês úmidos."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Sinyal Perilaku Exotic Shorthair dan Rutinitas Harian 3 Langkah Perawatan Sindrom Saluran Napas Brasisefalik (BAS) serta Ginjal Polikistik (PKDef)",
-                "description": "Panduan perawatan kucing menggemaskan Exotic Shorthair. Pahami gesekan wajah bunting dan dengkuran purring, bersihkan lipatan wajah, jaga saluran napas, serta cegah PKDef dalam 3 langkah.",
-                "authority": "Standar Perawatan Cat Fanciers' Association (CFA) & The International Cat Association (TICA)",
-                "profile": {
-                    "breed": "Exotic Shorthair",
-                    "lifespan": "12 ~ 15 tahun",
-                    "sleep_pattern": "12 ~ 16 jam (Tenang, menyukai tidur di dalam rumah)",
-                    "temperament": "Lembut, Tenang, Penyayang, Santai, Manja"
-                },
-                "intro": "Sering dijuluki 'Persia Berbaju Tidur' karena bulunya yang pendek dan tebal, Exotic Shorthair sangat dicintai di seluruh dunia karena wajahnya yang pesek, matanya yang bulat, serta sifatnya yang lembut. Mereka menggabungkan ketenangan Persia dengan keceriaan American Shorthair. Namun, struktur wajahnya yang pesek (brasisefalik) membuat mereka sangat rentan terhadap Sindrom Saluran Napas Brasisefalik (BAS) dan penyumbatan saluran air mata. Selain itu, mereka membawa risiko genetik Penyakit Ginjal Polikistik (PKDef). Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk merawat kesehatan Exotic Shorthair Anda.",
-                "whyTitle": "Bahasa Tubuh Exotic Shorthair: Dengkuran Lembut (Purring) dan Gesekan Wajah (Bunting / Cheeking)",
-                "whyDesc": "Exotic Shorthair memiliki suara yang sangat lembut dan menyampaikan rasa sayang melalui kontak fisik. Menggosokkan pipi atau dahi ke tangan atau tubuh Anda **'Gesekan Wajah (Bunting / Cheeking)'** melepaskan feromon wajah untuk menandai Anda sebagai keluarga. Sebaliknya, berbaring rileks sambil mengeluarkan getaran lembut **'Dengkuran (Purring)'** menandakan rasa nyaman dan keamanan emosional sepenuhnya.",
-                "body_signals": [
-                    {
-                        "name": "Menggosokkan Pipi dan Dahi secara Lembut ke Tubuh Pemilik (Bunting / Cheeking)",
-                        "meaning": "Tanda kasih sayang khas yang menempelkan feromon wajah untuk menandai pemilik dengan penuh rasa percaya.",
-                        "response": "Balas dengan mengelus lembut bagian dagu atau pipinya sambil berbicara dengan suara yang tenang."
-                    },
-                    {
-                        "name": "Berbaring Santai dengan Mata Setengah Terpejam Sambil Mendengkur Lembut (Purring)",
-                        "meaning": "Sinyal kenyamanan total, kebahagiaan, dan kondisi bebas stres di lingkungannya saat ini.",
-                        "response": "Jaga suasana tetap tenang dan hangat agar kucing dapat terus beristirahat dengan damai."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Pembersihan Lipatan Wajah & Noda Air Mata serta Pakan Basah Anti-PKDef",
-                        "text": "Bersihkan lipatan wajah secara lembut karena saluran air mata yang pendek rentan berair, dan berikan pakan basah untuk hidrasi ginjal."
-                    },
-                    {
-                        "name": "Siang: Kontrol Suhu Ruangan (Perlindungan Napas) & Permainan Ringan Manajemen Berat Badan",
-                        "text": "Jaga suhu ruangan tetap sejuk (22°C–24°C) karena ras pesek tidak tahan panas; ajak bermain ringan untuk mencegah obesitas."
-                    },
-                    {
-                        "name": "Malam: Penyisiran Bulu Ganda yang Tebal & Pemeliharaan Pasir Bebas Debu",
-                        "text": "Meskipun berbulu pendek, bulu ganda mereka tebal sehingga perlu disisir setiap hari; gunakan pasir bebas debu agar tidak mengiritasi pernapasan."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa Exotic Shorthair saya sering ngorok atau bernapas agak berat?",
-                        "answer": "Exotic Shorthair memiliki saluran hidung yang pendek dan sempit (Sindrom Saluran Napas Brasisefalik, BAS), sehingga wajar jika mengeluarkan suara ngorok halus. Namun, jika kucing bernapas melalui mulut, gusi tampak kebiruan, atau napasnya berbunyi bengek yang berat, segera bawa ke dokter hewan."
-                    },
-                    {
-                        "question": "Bagaimana cara mencegah dan mengelola Penyakit Ginjal Polikistik (PKDef)?",
-                        "answer": "Penyakit Ginjal Polikistik (PKDef) adalah kondisi genetik berbahaya yang umum pada garis keturunan Persia, di mana kista berisi cairan merusak fungsi ginjal. Pastikan tes DNA (PKDef) saat adopsi, lakukan USG ginjal dan tes darah rutin tahunan setelah usia 1 tahun, serta jaga asupan air dari pakan basah."
-                    }
-                ]
-            }
+  "exotic-shorthair-care": {
+    "pubDate": "2026-03-22",
+    "updatedDate": "2026-03-22",
+    "locales": {
+      "ko": {
+        "title": "엑조틱 숏헤어의 애정 신호 해석과 단두종 호흡기 증후군(BAS) 및 다낭성 신장질환(PKDef) 관리를 위한 3단계 데일리 케어",
+        "description": "눌린 얼굴과 순한 성격이 매력적인 엑조틱 숏헤어(Exotic Shorthair). 안면 마찰(Bunting) 및 골골송 신호 해석, 눈물샘·호흡기 케어 및 PKDef 예방을 위한 3단계 홈케어 루틴을 소개합니다.",
+        "authority": "CFA (고양이애호가협회) 및 TICA (국제고양이협회) 케어 프로토콜",
+        "profile": {
+          "breed": "엑조틱 숏헤어 (Exotic Shorthair)",
+          "lifespan": "12 ~ 15년",
+          "sleep_pattern": "12 ~ 16시간 (온순함, 실내 수면 위주)",
+          "temperament": "온순함, 조용함, 애교 많음, 느긋함, 장난기 있음"
         },
-        "heroImage": "/images/blog/exotic_shorthair_care.webp"
-    }
+        "intro": "'털을 짧게 깎은 페르시안'으로 불리는 엑조틱 숏헤어(Exotic Shorthair)는 특유의 납작한 안면 구조와 동그란 눈, 순하고 조용한 성품으로 전 세계에서 사랑받는 품종입니다. 페르시안의 차분함과 아메리칸 숏헤어의 친근함을 동시에 지녔으나, 납작한 얼굴 구조(단두종)로 인해 단두종 호흡기 증후군(BAS)과 눈물샘 막힘(눈물 자국)에 매우 취약합니다. 또한 유전적으로 다낭성 신장질환(PKDef) 위험이 높고 체중 관리가 안 될 경우 호흡 곤란이 심해질 수 있습니다. 이번 가이드에서는 엑조틱 숏헤어의 신체 신호를 올바르게 이해하고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
+        "whyTitle": "엑조틱 숏헤어의 바디 랭귀지: 조용한 골골송(Purring)과 안면 마찰(Friction / Bunting)",
+        "whyDesc": "엑조틱 숏헤어는 목소리가 작고 조용하며, 신체 마찰과 기분 좋은 진동음으로 애정을 표현합니다. 보호자의 몸에 뺨이나 이마를 문지르는 **'안면 마찰(Bunting / Cheeking)'**은 자신의 페로몬을 묻혀 보호자를 자신의 가족으로 인정하는 신뢰 행동입니다. 반면 느긋하게 누워 조용히 목을 울리는 **'골골송(Purring)'**은 현재 상태에 대한 깊은 만족감과 심리적 안정을 나타냅니다.",
+        "body_signals": [
+          {
+            "name": "뺨과 이마를 보호자의 손이나 몸에 부드럽게 문지름 (Bunting / Cheeking)",
+            "meaning": "자신의 안면 페로몬을 묻혀 소유권을 표시하고 깊은 애정과 친밀감을 표현하는 대표적인 애정 신호입니다.",
+            "response": "손가락으로 턱 밑이나 뺨을 다정하게 쓸어내려 주며 부드러운 목소리로 응답해 줍니다."
+          },
+          {
+            "name": "눈을 반쯤 감고 편안한 자세로 조용히 목을 울림 (Purring)",
+            "meaning": "현재 환경과 보호자의 존재에 대해 완벽한 안도감과 스트레스 없는 편안함을 느끼고 있다는 신호입니다.",
+            "response": "무리하게 움직이지 말고 그대로 편안히 쉴 수 있도록 조용하고 따뜻한 환경을 유지해 줍니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 안면 주름·눈물 자국 위생 청결 및 PKDef 예방을 위한 습식 사료 급여",
+            "text": "단두종 특성상 눈물샘이 짧아 눈물이 많이 흐르므로 전용 닦개로 눈물 자국과 주름 사이를 청결히 닦아주고, 신장 건강(PKDef 예방)을 위해 습식 사료로 음수량을 채워줍니다."
+          },
+          {
+            "name": "낮: 실내 온·습도 조절(호흡기 보호) 및 적정 체중 유지를 위한 저강도 놀이",
+            "text": "짧은 기도로 인해 열 발산이 어렵고 더위에 약하므로 실내 온도를 22~24°C로 유지하고, 과격하지 않은 낚싯대 놀이로 비만을 예방합니다."
+          },
+          {
+            "name": "저녁: 빽빽한 이중모 빗질 및 조용한 수면 공간 제공",
+            "text": "단모지만 빽빽한 이중모 구조를 지녀 죽은 털 제거를 위해 매일 빗질을 해주고, 호흡에 방해가 되지 않도록 먼지 없는 깨끗한 모래 환경을 점검합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "엑조틱 숏헤어는 왜 코를 골거나 거친 숨소리를 내나요?",
+            "answer": "엑조틱 숏헤어는 비강이 짧고 비공(콧구멍)이 좁은 단두종 구조를 가지고 있어 정상적인 상태에서도 약간의 코골이나 거친 숨소리가 날 수 있습니다(단두종 호흡기 증후군, BAS). 그러나 개구 호흡(입을 벌리고 숨쉼), 잇몸 청색증, 또는 숨쉴 때 그르렁거리는 소리가 심해진다면 즉시 수의사의 진료를 받아야 합니다."
+          },
+          {
+            "question": "다낭성 신장질환(PKDef)은 어떻게 예방하고 관리해야 하나요?",
+            "answer": "다낭성 신장질환(PKDef)은 페르시안 계통 품종에 발생하는 치명적인 유전성 질환으로, 신장에 물낭선(낭종)이 생겨 신장 기능을 떨어뜨립니다. 입양 시 유전자 검사(PKDef DNA test) 여부를 확인하고, 1세 이후 매년 정기적인 신장 초음파 및 혈액 검사를 실시하며 평소 습식 사료를 통해 충분한 음수량을 확보해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Exotic Shorthair Behavioral Signals and 3-Step Daily Routine for Brachycephalic Airway Syndrome (BAS) and Polycystic Kidney Disease (PKDef) Care",
+        "description": "Care guide for the adorable Exotic Shorthair. Interpret bunting and purring signals, manage tear stains, airflow, and prevent PKDef in 3 steps.",
+        "authority": "Cat Fanciers' Association (CFA) & The International Cat Association (TICA) Care Standards",
+        "profile": {
+          "breed": "Exotic Shorthair",
+          "lifespan": "12 - 15 Years",
+          "sleep_pattern": "12 - 16 Hours (Placid, prefers comfortable indoor resting)",
+          "temperament": "Gentle, Quiet, Affectionate, Easygoing, Playful"
+        },
+        "intro": "Often referred to as the 'Persian in Pajamas,' the Exotic Shorthair is cherished worldwide for its flat face, round eyes, and quiet, sweet personality. Combining the placid nature of the Persian with the playful friendliness of the American Shorthair, they are wonderful companions. However, their brachycephalic (flat-faced) facial structure makes them highly susceptible to Brachycephalic Airway Syndrome (BAS) and tear duct overflow. Additionally, they carry a genetic risk for Polycystic Kidney Disease (PKDef). In this guide, presents a 3-step daily care routine to decode your Exotic Shorthair's body language and protect their health.",
+        "whyTitle": "Exotic Shorthair Body Language: Gentle Purring and Bunting (Head-Rubbing)",
+        "whyDesc": "Exotic Shorthairs have soft voices and express affection through physical contact and subtle vibrations. Rubbing their cheeks or forehead against your hand or body **'Bunting / Cheeking'** deposits facial pheromones, marking you as trusted family. Conversely, lying comfortably while emitting a quiet, rhythmic vibration **'Purring'** signals complete contentment and psychological safety in their environment.",
+        "body_signals": [
+          {
+            "name": "Gently Rubbing Cheeks and Forehead Against Owner (Bunting / Cheeking)",
+            "meaning": "A signature sign of affection that deposits facial pheromones to claim the owner as family and show deep trust.",
+            "response": "Respond gently by stroking their chin or cheeks and speaking in a calm, soothing voice."
+          },
+          {
+            "name": "Lying Relaxed with Half-Closed Eyes while Purring Softly (Purring)",
+            "meaning": "Indicates complete emotional comfort, contentment, and a stress-free state in their current surroundings.",
+            "response": "Maintain a quiet, warm environment so they can continue to rest peacefully without sudden disruptions."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Facial Fold & Tear Stain Hygiene & Wet Feeding for PKDef Prevention",
+            "text": "Wipe facial folds and tear overflow gently with a damp wipe due to short tear ducts, and feed wet food to ensure high hydration for kidney health."
+          },
+          {
+            "name": "Afternoon: Climate Control (Airway Protection) & Low-Impact Weight Management Play",
+            "text": "Keep indoor temperature cool (22°C–24°C) as flat-faced breeds overheat easily, engaging in gentle rod toy play to prevent obesity."
+          },
+          {
+            "name": "Evening: Dense Double-Coat Brushing & Low-Dust Litter Box Maintenance",
+            "text": "Brush daily to remove loose fur from their plush double coat, ensuring a clean, low-dust litter environment to prevent airway irritation."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why does my Exotic Shorthair snore or breathe noisily?",
+            "answer": "Exotic Shorthairs have a shortened facial structure with compressed nasal passages (Brachycephalic Airway Syndrome, BAS), causing mild snorting or snoring naturally. However, if you observe open-mouth breathing, bluish gums, or severe wheezing, consult a veterinarian immediately."
+          },
+          {
+            "question": "How should Polycystic Kidney Disease (PKDef) be managed and prevented?",
+            "answer": "Polycystic Kidney Disease (PKDef) is a fatal inherited condition common in Persian-derived breeds where fluid-filled cysts develop in the kidneys. Ensure genetic screening (PKDef DNA test) at adoption, schedule annual renal ultrasound and blood tests after age 1, and maintain high daily water intake through wet food."
+          }
+        ]
+      },
+      "ja": {
+        "title": "エキゾチックショートヘアの親愛サイン解読と短頭種気道症候群(BAS)・多胞性腎病変(PKDef)管理のための3ステップデイリールーティン",
+        "description": "愛くるしいぺちゃ顔が魅力のエキゾチックショートヘア（Exotic Shorthair）。スリスリ（フェイシャルバンティング）やゴロゴロ音の解読、目元・気道ケアおよびPKDef予防のための3ステップホームケアを紹介します。",
+        "authority": "CFA（猫愛好家協会）およびTICA（国際猫協会）飼育基準",
+        "profile": {
+          "breed": "エキゾチックショートヘア (Exotic Shorthair)",
+          "lifespan": "12 〜 15年",
+          "sleep_pattern": "12 〜 16時間 (おとなしく、室内での睡眠が中心)",
+          "temperament": "穏やか、静か、甘えん坊、のんびり、茶目っ気がある"
+        },
+        "intro": "「短毛種のペルシャ」と称されるエキゾチックショートヘア（Exotic Shorthair）は、平らな顔立ちと丸い瞳、穏やかで静かな性格で世界中から愛されている人気品種です。ペルシャの落ち着きとアメリカンショートヘアのフレンドリーさを兼ね備えていますが、つぶれた顔立ち（短頭種）のため短頭種気道症候群（BAS）や鼻涙管の詰まり（涙やけ）を起こしやすい特徴があります。また遺伝的に多胞性腎病変（PKDef）のリスクが高く、肥満になると呼吸が苦しくなるため体重管理が重要です。本記事では、エキゾチックショートヘアのサインを解読し健康を守る3ステップルーティンをお届けします。",
+        "whyTitle": "エキゾチックショートヘアのボディランゲージ：静かなゴロゴロ音(Purring)と顔の擦り付け(Bunting / Cheeking)",
+        "whyDesc": "エキゾチックショートヘアは鳴き声が小さく静かで、身体の摩擦や心地よい振動音で愛情を表現します。飼い主の手や体に頬や額を擦り付ける**「顔の擦り付け（Bunting / Cheeking）」**は、自分のフェロモンを付けて家族として認める信頼行動です。一方、のんびりと横たわり静かに喉を鳴らす**「ゴロゴロ音（Purring）」**は、現在の環境に対する深い満足感と心身の安定を示しています。",
+        "body_signals": [
+          {
+            "name": "頬や額を飼い主の手や体に優しく擦り付ける (Bunting / Cheeking)",
+            "meaning": "自分のフェロモンを付けて所有権を示し、深い愛着と親密感を表す代表的な親愛サインです。",
+            "response": "指先で顎の下や頬を優しく撫で返し、穏やかな声で応えてあげましょう。"
+          },
+          {
+            "name": "目を半開きにしてリラックスした姿勢で静かに喉を鳴らす (Purring)",
+            "meaning": "現在の環境や飼い主の存在に対して完全な安心感とストレスのない快適さを感じているサインです。",
+            "response": "無理に動かさず、そのまま安心して休めるよう静かで温かい環境を保ちましょう。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：顔のシワ・涙やけの衛生ケア＆PKDef予防のためのウェットフード給餌",
+            "text": "鼻涙管が短い短頭種のため涙が出やすく、専用コットンでシワと目元を拭き取り、腎臓の健康（PKDef予防）のためにウェットフードで水分を補給します。"
+          },
+          {
+            "name": "昼：室内温湿度管理（気道保護）と適正体重維持のための低強度な遊び",
+            "text": "体温調節が苦手で暑さに弱いため室温を22〜24℃に保ち、体に負担のかからないじゃらし遊びで肥満を予防します。"
+          },
+          {
+            "name": "夜：密なダブルコートのブラッシングと低ホコリ環境の点検",
+            "text": "短毛ですが密なダブルコートを持つため毎日のブラッシングで抜け毛を取り除き、気道を刺激しない低ホコリなトイレ環境を維持します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "エキゾチックショートヘアはなぜいびきをかいたり荒い息をするのですか？",
+            "answer": "エキゾチックショートヘアは鼻腔が短く鼻孔が狭い短頭種構造（短頭種気道症候群、BAS）を持つため、正常な状態でも軽いいびきや鼻音がすることがあります。しかし、口を開けて息をする（開口呼吸）、歯茎が紫っぽくなる（チアノーゼ）、呼吸音がゼーゼーと激しくなる場合は、直ちに獣医師の診察を受けてください。"
+          },
+          {
+            "question": "多胞性腎病変（PKDef）はどのように予防・管理すればよいですか？",
+            "answer": "多胞性腎病変（PKDef）はペルシャ系の猫に見られる遺伝性疾患で、腎臓に嚢胞（水たまり）ができて腎機能が低下します。お迎え時に遺伝子検査（PKDef DNA検査）を確認し、1歳以降は毎年定期的な超音波検査と血液検査を行い、日頃からウェットフードで十分な水分を摂らせることが大切です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "异国短毛猫行为信号解读与短头颅呼吸道综合征 (BAS) 及多囊肾病 (PKDef) 预防的 3 步日常流程",
+        "description": "拥有扁平可爱面容的异国短毛猫（Exotic Shorthair/加菲猫）护理指南。解读蹭脸与咕噜声信号，护理面部褶皱与眼痕，预防 PKDef 的 3 步骤家庭护理。",
+        "authority": "猫爱好者协会 (CFA) 与国际猫协会 (TICA) 护理标准",
+        "profile": {
+          "breed": "异国短毛猫 (Exotic Shorthair / 加菲猫)",
+          "lifespan": "12 ~ 15年",
+          "sleep_pattern": "12 ~ 16小时 (温顺，以室内休息为主)",
+          "temperament": "温顺、安静、粘人、随和、带有一丝爱玩的天性"
+        },
+        "intro": "被称为“穿睡衣的波斯猫”的异国短毛猫（Exotic Shorthair/加菲猫），凭其标志性的扁平面庞、圆硕的大眼以及温和安静的性格深受全球喜爱。它们兼具波斯猫的沉稳与美国短毛猫的亲和，但由于特殊的扁平面部结构（短头结构），极易患短头颅呼吸道综合征（BAS）以及鼻泪管堵塞（泪痕）。此外，它们基因上携带多囊肾病（PKDef）风险，控制体重对维持呼吸顺畅至关重要。本指南将带您准确解读异国短毛猫肢体语言，并通过 3 步骤日常护理维护其健康。",
+        "whyTitle": "异国短毛猫肢体语言：安静的咕噜声 (Purring) 与面部蹭蹭 (Bunting / Cheeking)",
+        "whyDesc": "异国短毛猫叫声柔和细小，主要通过肢体接触与舒缓的振动声表达爱意。用面颊或额头温柔地蹭主人的手或身体**“面部蹭蹭 (Bunting / Cheeking)”**，是涂抹面部腺体费洛蒙、将主人标记为信任家族的最高爱意表达。相反，放松地躺着并发出规律的**“咕噜声 (Purring)”**，则表明其对当下环境感到极度的安心与心理满足。",
+        "body_signals": [
+          {
+            "name": "用面颊和额头温柔蹭主人的手或身体 (Bunting / Cheeking)",
+            "meaning": "涂抹自身面部费洛蒙标记归属权，表达深厚信任与依恋的代表性爱意行为。",
+            "response": "用手指温柔抚摸其下巴或面颊，并用轻柔的声音给予回应。"
+          },
+          {
+            "name": "半合双眼，呈放松姿态并发出安静的咕噜声 (Purring)",
+            "meaning": "表达对当下环境和主人陪伴感到绝对放松、无压力与无比舒适。",
+            "response": "保持环境安静温暖，切勿突然惊扰，让其安心休息。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：面部褶皱与泪痕清洁及投喂湿粮预防多囊肾病 (PKDef)",
+            "text": "因鼻泪管短极易流泪，需用温和湿巾清洁眼周与褶皱；投喂高水分湿粮以保护肾脏健康（预防 PKDef）。"
+          },
+          {
+            "name": "中午：室内温湿度控制（保护呼吸道）与适度温和的游戏",
+            "text": "短头结构散热能力差、怕热，应将室温维持在 22°C~24°C，并进行温和的逗猫棒互动以控制体重。"
+          },
+          {
+            "name": "晚上：浓密双层被毛梳理与低粉尘猫砂环境维护",
+            "text": "虽为短毛但拥有浓密双层底毛，需每日梳理浮毛，并保持猫砂盆清洁无粉尘，避免刺激呼吸道。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "异国短毛猫为什么经常打呼噜或发出粗重的呼吸声？",
+            "answer": "异国短毛猫面部结构平扁、鼻道较短且鼻孔狭窄（短头颅呼吸道综合征，BAS），因此在正常状态下也可能发出轻微的呼噜声或鼾声。但如果出现张口呼吸、牙龈发绀（紫绀）或剧烈的哮喘声，必须立即送往宠物医院就诊。"
+          },
+          {
+            "question": "如何预防与管理多囊肾病（PKDef）？",
+            "answer": "多囊肾病（PKDef）是波斯猫系常见的遗传性致命疾病，会导致肾脏产生水肿囊肿并逐渐破坏肾功能。建议在领养时确认 DNA 基因检测结果，1 岁后每年定期进行肾脏 B 超与血液检查，日常通过湿粮保证充足饮水量。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Señales de conducta en el Exótico de Pelo Corto y rutina diaria de 3 pasos para el síndrome braquicefálico (BAS) y la poliquistosis renal (PKDef)",
+        "description": "Guía de cuidado para el adorable Exótico de Pelo Corto (Exotic Shorthair). Interprete los roces faciales y ronroneos, limpie pliegues, proteja sus vías respiratorias y prevenga la PKDef en 3 pasos.",
+        "authority": "Cat Fanciers' Association (CFA) y Normas de The International Cat Association (TICA)",
+        "profile": {
+          "breed": "Exótico de Pelo Corto (Exotic Shorthair)",
+          "lifespan": "12 ~ 15 años",
+          "sleep_pattern": "12 ~ 16 horas (Tranquilo, prefiere el descanso tranquilo en interiores)",
+          "temperament": "Dulce, Tranquilo, Afectuoso, Sosegado, Juguetón"
+        },
+        "intro": "Conocido popularmente como el 'Persa en pijama' debido a su pelaje corto y denso, el Exótico de Pelo Corto (Exotic Shorthair) es amado en todo el mundo por su cara chata, ojos redondos y temperamento dulce. Combina la naturaleza tranquila del Persa con la amabilidad del Americano de Pelo Corto. Sin embargo, su estructura facial braquicefálica los hace muy vulnerables al Síndrome Braquicefálico Respiratorio (BAS) y al lagrimeo constante. Además, tienen predisposición genética a la Poliquistosis Renal (PKDef). En esta guía, presenta una rutina de 3 pasos para cuidar su salud.",
+        "whyTitle": "Lenguaje corporal del Exótico de Pelo Corto: Ronroneo suave y roces faciales (Bunting / Cheeking)",
+        "whyDesc": "El Exótico de Pelo Corto tiene una voz muy suave y expresa su afecto a través del contacto físico. Frotar sus mejillas o frente contra tus manos o cuerpo **'Roces faciales (Bunting / Cheeking)'** deposita feromonas faciales para marcarte como parte de su familia. Por otro lado, descansar relajado mientras emite una vibración rítmica **'Ronroneo (Purring)'** indica bienestar absoluto y seguridad psicológica.",
+        "body_signals": [
+          {
+            "name": "Frotar suavemente las mejillas y la frente contra el dueño (Bunting / Cheeking)",
+            "meaning": "Muestra de afecto característica que deposita feromonas faciales para marcar al dueño con confianza y cariño.",
+            "response": "Responda acariciando suavemente su barbilla o mejillas con una voz tranquila y pausada."
+          },
+          {
+            "name": "Estar tumbado con ojos entreabiertos ronroneando suavemente (Purring)",
+            "meaning": "Señal de calma total, bienestar y ausencia de estrés en su entorno actual.",
+            "response": "Mantenga un ambiente cálido y silencioso para que continúe descansando sin interrupciones."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Limpieza de pliegues faciales y manchas de lágrimas junto con comida húmeda para prevenir PKDef",
+            "text": "Limpie suavemente los pliegues del rostro debido al lagrimeo constante por sus conductos cortos, y ofrezca alimento húmedo para hidratar los riñones."
+          },
+          {
+            "name": "Tarde: Control del clima (protección respiratoria) y juego moderado para el control de peso",
+            "text": "Mantenga la casa fresca (22°C–24°C) ya que las razas chatas toleran mal el calor, y juegue suavemente con cañas para evitar la obesidad."
+          },
+          {
+            "name": "Noche: Cepillado del manto doble denso y mantenimiento de arena sin polvo",
+            "text": "Aunque es de pelo corto, posee una capa doble tupida que requiere cepillado diario; mantenga su arenero limpio de polvo para no irritar sus vías respiratorias."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué mi Exótico de Pelo Corto ronca o respira con ruidos?",
+            "answer": "Los Exóticos de Pelo Corto tienen conductos nasales acortados y orificios estrechos (Síndrome Braquicefálico Respiratorio, BAS), por lo que es normal que produzcan leves ronquidos. Sin embargo, si observa respiración por la boca, encías azuladas o dificultad respiratoria severa, acuda de inmediato al veterinario."
+          },
+          {
+            "question": "¿Cómo se debe controlar y prevenir la Poliquistosis Renal (PKDef)?",
+            "answer": "La Poliquistosis Renal (PKDef) es una patología hereditaria grave común en la línea Persa que genera quistes de líquido en los riñones. Exija pruebas genéticas (PKDef DNA test) al adoptar, realice ecografías renales y analíticas de sangre anuales a partir del primer año, y fomente el consumo de agua mediante comida húmeda."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Signaux comportementaux de l'Exotic Shorthair et routine quotidienne en 3 étapes pour le syndrome brachycéphale (BAS) et la polykystose rénale (PKDef)",
+        "description": "Guide de soins pour l'adorable Exotic Shorthair. Décryptez le frottement facial et le ronronnement, nettoyez les plis du visage, préservez sa respiration et prévenez la PKDef en 3 étapes.",
+        "authority": "Cat Fanciers' Association (CFA) & Normes de The International Cat Association (TICA)",
+        "profile": {
+          "breed": "Exotic Shorthair",
+          "lifespan": "12 ~ 15 ans",
+          "sleep_pattern": "12 ~ 16 heures (Calme, préfère le repos en intérieur)",
+          "temperament": "Doux, Silencieux, Affectueux, Paisible, Joueur"
+        },
+        "intro": "Surnommé le 'Persan en pyjama' en raison de sa fourrure courte et dense, l'Exotic Shorthair est apprécié dans le monde entier pour sa tête plate, ses grands yeux ronds et sa douceur. Il combine le calme du Persan et la gentillesse de l'American Shorthair. Toutefois, sa morphologie brachycéphale le rend sensible au Syndrome Respiratoire des Races Brachycéphales (BAS) et aux écoulements lacrymaux. Il présente aussi un risque génétique de Polykystose Rénale (PKDef). Dans ce guide, vous présente une routine en 3 étapes pour préserver sa santé.",
+        "whyTitle": "Langage corporel de l'Exotic Shorthair : Ronronnement doux et frottement facial (Bunting / Cheeking)",
+        "whyDesc": "L'Exotic Shorthair possède une voix très douce et exprime son affection par le contact physique. Frotter ses joues ou son front contre vous **« Frottement facial (Bunting / Cheeking) »** dépose des phéromones apaisantes pour vous marquer comme sa famille. De plus, s'étendre confortablement en émettant une vibration régulière **« Ronronnement (Purring) »** témoigne d'une sérénité totale.",
+        "body_signals": [
+          {
+            "name": "Frotter doucement ses joues et son front contre son maître (Bunting / Cheeking)",
+            "meaning": "Comportement d'affection marquant son maître avec ses phéromones faciales pour exprimer une totale confiance.",
+            "response": "Répondez-lui en lui caressant délicatement le menton ou les joues d'une voix apaisante."
+          },
+          {
+            "name": "Être allongé les yeux mi-clos en ronronnant doucement (Purring)",
+            "meaning": "Signe d'un bien-être parfait, d'un sentiment de sécurité et d'une absence totale de stress.",
+            "response": "Conservez une atmosphère calme et chaleureuse pour qu'il puisse continuer à se reposer paisiblement."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Soin des yeux et des plis du visage & alimentation humide anti-PKDef",
+            "text": "Nettoyez délicatement les plis du visage sujets aux traces de larmes, et donnez de la nourriture humide pour favoriser l'hydratation rénale."
+          },
+          {
+            "name": "Après-midi : Contrôle de la température (protection respiratoire) & jeu doux",
+            "text": "Maintenez la pièce fraîche (22°C–24°C) car les races à nez plat supportent mal la chaleur, et stimulez-le doucement avec un plumet."
+          },
+          {
+            "name": "Soir : Brossage du sous-poil dense & litière sans poussière",
+            "text": "Bien que court, son pelage est dense et nécessite un brossage quotidien ; utilisez une litière dépoussiérée pour ne pas irriter ses voies respiratoires."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi mon Exotic Shorthair ronfle-t-il ou a-t-il une respiration bruyante ?",
+            "answer": "L'Exotic Shorthair possède des canaux nasaux raccourcis (Syndrome Respiratoire Brachycéphale, BAS), ce qui provoque naturellement de légers ronflements. Cependant, si votre chat respire la bouche ouverte, a les gencives bleutées ou siffle fortement en respirant, consultez immédiatement un vétérinaire."
+          },
+          {
+            "question": "Comment prévenir et gérer la Polykystose Rénale (PKDef) ?",
+            "answer": "La Polykystose Rénale (PKDef) est une maladie héréditaire grave fréquente chez les chats issus du Persan, entraînant la formation de kystes sur les reins. Vérifiez le test ADN (PKDef) lors de l'adoption, effectuez un suivi échographique et sanguin annuel dès l'âge de 1 an, et favorisez la prise d'eau avec de la pâtée."
+          }
+        ]
+      },
+      "de": {
+        "title": "Verhaltenssignale der Exotic Shorthair und 3-Schritte-Tagesroutine für das brachyzephale Atemwegssyndrom (BAS) und Polyzystische Nierenerkrankung (PKDef)",
+        "description": "Pflegeanleitung für die niedliche Exotic Shorthair (Exotische Kurzhaarkatze). Köpfchengeben und Schnurren verstehen, Gesichtsfalten pflegen, Atemwege schützen und PKDef in 3 Schritten vorbeugen.",
+        "authority": "Cat Fanciers' Association (CFA) & Standards der The International Cat Association (TICA)",
+        "profile": {
+          "breed": "Exotic Shorthair (Exotische Kurzhaarkatze)",
+          "lifespan": "12 ~ 15 Jahre",
+          "sleep_pattern": "12 ~ 16 Stunden (Ruhig, bevorzugt entspanntes Schlafen im Haus)",
+          "temperament": "Sanftmütig, Ruhig, Verschmust, Gelassen, Verspielt"
+        },
+        "intro": "Oft als 'Perserkatze in Pyjamas' bezeichnet, ist die Exotic Shorthair für ihr flaches Gesicht, ihre großen Kugelaugen und ihr ruhiges, liebevolles Wesen weltbekannt. Sie vereint die Sanftmut der Perserkatze mit der unkomplizierten Art der Amerikanischen Kurzhaarkatze. Aufgrund ihrer flachen Gesichtsstruktur (Brachyzephalie) neigt sie jedoch zum Brachyzephalen Atemwegssyndrom (BAS) und Tränenkanalverstopfungen. Zudem besteht ein genetisches Risiko für die Polyzystische Nierenerkrankung (PKDef). In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für die Gesundheit Ihrer Exotic Shorthair.",
+        "whyTitle": "Körpersprache der Exotic Shorthair: Sanftes Schnurren und Köpfchengeben (Bunting / Cheeking)",
+        "whyDesc": "Die Exotic Shorthair hat eine sehr leise Stimme und zeigt Zuneigung vor allem durch Körperkontakt. Das sanfte Reiben von Wangen oder Stirn an Ihrer Hand **'Köpfchengeben (Bunting / Cheeking)'** überträgt Gesichtspheromone und markiert Sie als vertrautes Familienmitglied. Das ruhige Liegen mit tiefem, rhythmischem Brummen **'Schnurren (Purring)'** signalisiert dagegen absolute Zufriedenheit und seelische Entspannung.",
+        "body_signals": [
+          {
+            "name": "Wangen und Stirn sanft am Halter reiben (Bunting / Cheeking)",
+            "meaning": "Typischer Vertrauensbeweis, bei dem Pheromone übertragen werden, um den Halter als Familie zu markieren.",
+            "response": "Antworten Sie liebevoll mit sanftem Kraulen an Kinn und Wangen mit ruhiger Stimme."
+          },
+          {
+            "name": "Mit halb geschlossenen Augen entspannt liegen und leise brummen (Purring)",
+            "meaning": "Zeichen für vollkommenes Wohlbefinden, Sicherheitsgefühl und Schmerzfreiheit in der Umgebung.",
+            "response": "Bewahren Sie ein ruhiges, warmes Umfeld, damit das Tier ungestört weiterschlafen kann."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Reinigung der Gesichtsfalten & Nassfütterung zur PKDef-Vorsorge",
+            "text": "Wischen Sie Augenränder und Falten wegen des Tränenflusses vorsichtig ab, und füttern Sie Nassfutter zur Durchspülung der Nieren."
+          },
+          {
+            "name": "Mittag: Angenehmes Raumklima (Atemwegsschutz) & Sanftes Spiel zur Gewichtskontrolle",
+            "text": "Halten Sie den Raum kühl (22 °C–24 °C), da Rassen mit flachem Gesicht Hitze schlecht ausgleichen; schonendes Spiel beugt Übergewicht vor."
+          },
+          {
+            "name": "Abend: Bürsten des dichten Doppelfells & Staubarme Katzenstreu nutzen",
+            "text": "Trotz Kurzhaar besitzt sie dichtes Unterfell, das täglich gebürstet werden sollte; nutzen Sie staubfreie Streu zur Schonung der Atemwege."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum schnarcht meine Exotic Shorthair oder atmet manchmal laut?",
+            "answer": "Die Exotic Shorthair hat verkürzte Nasenwege und engere Nasenlöcher (Brachyzephales Atemwegssyndrom, BAS), weshalb leichtes Schnorcheln vollkommen normal sein kann. Sollte die Katze jedoch durch den Mund atmen, blaue Schleimhäute zeigen oder schwer nach Luft ringen, suchen Sie sofort einen Tierarzt auf."
+          },
+          {
+            "question": "Wie beuge ich der Polyzystischen Nierenerkrankung (PKDef) vor?",
+            "answer": "Die Polyzystische Nierenerkrankung (PKDef) ist eine tödliche Erbkrankheit der Perserlinie, bei der Zysten das Nierengewebe zerstören. Achten Sie beim Kauf auf DNA-Tests der Elterntiere, lassen Sie ab dem 1. Lebensjahr jährliche Ultraschall- und Blutuntersuchungen durchführen und sorgen Sie für hohe Flüssigkeitsaufnahme."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Sinais comportamentais do Exotic Shorthair e rotina diária de 3 passos para síndrome braquicefálica (BAS) e doença renal policística (PKDef)",
+        "description": "Guia de cuidados para o adorável Exotic Shorthair. Interprete os roçados faciais e ronronados, limpe as dobras do rosto, proteja a respiração e previna a PKDef em 3 passos.",
+        "authority": "Cat Fanciers' Association (CFA) & Padrões da The International Cat Association (TICA)",
+        "profile": {
+          "breed": "Exotic Shorthair (Exótico de Pelo Curto)",
+          "lifespan": "12 ~ 15 anos",
+          "sleep_pattern": "12 ~ 16 horas (Calmo, prefere o descanso tranquilo em ambientes internos)",
+          "temperament": "Dócil, Silencioso, Afetuoso, Calmo, Brincalhão"
+        },
+        "intro": "Conhecido como o 'Persa de pijama' devido ao seu pelo curto e denso, o Exotic Shorthair é amado no mundo todo por sua cara achatada, olhos redondos e temperamento calmo. Ele combina a docilidade do Persa com o carisma do American Shorthair. No entanto, sua estrutura braquicefálica torna a raça propensa à Síndrome Respiratória Braquicefálica (BAS) e ao lacrimejamento constante. Além disso, possuem risco genético para Doença Renal Policística (PKDef). Neste guia, apresenta uma rotina de 3 passos para cuidar da saúde do seu pet.",
+        "whyTitle": "Linguagem corporal do Exotic Shorthair: Ronronado suave e roçado facial (Bunting / Cheeking)",
+        "whyDesc": "O Exotic Shorthair possui uma voz muito suave e demonstra afeto através do contato físico. Roçar as bochechas ou testa contra suas mãos ou corpo **'Roçado facial (Bunting / Cheeking)'** deposita feromônios para marcar você como família. Por outro lado, descansar relaxado enquanto emite uma vibração suave **'Ronronado (Purring)'** indica bem-estar completo e segurança emocional.",
+        "body_signals": [
+          {
+            "name": "Roçar suavemente as bochechas e a testa no tutor (Bunting / Cheeking)",
+            "meaning": "Demonstração de afeto típica que deposita feromônios faciais para marcar o tutor com confiança e carinho.",
+            "response": "Responda acariciando suavemente o queixo ou as bochechas enquanto fala com voz calma."
+          },
+          {
+            "name": "Ficar deitado com olhos semiabertos ronronando suavemente (Purring)",
+            "meaning": "Sinal de tranquilidade total, bem-estar e ausência de estresse no ambiente atual.",
+            "response": "Mantenha o ambiente silencioso e aquecido para que ele continue descansando em paz."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Limpeza das dobras faciais e lágrimas com ração úmida anti-PKDef",
+            "text": "Limpe as dobras do rosto com pano úmido devido ao lacrimejamento, e ofereça alimento úmido para garantir alta hidratação renal."
+          },
+          {
+            "name": "Tarde: Controle de temperatura (proteção respiratória) e brincadeiras leves",
+            "text": "Mantenha a casa fresca (22°C–24°C) pois gatos de cara achatada sofrem com o calor; brinque levemente com varinhas para evitar a obesidade."
+          },
+          {
+            "name": "Noite: Escovação da pelagem dupla e manutenção de areia sem poeira",
+            "text": "Apesar do pelo curto, possui subpelo denso que requer escovação diária; mantenha a caixa de areia sem poeira para não irritar as vias aéreas."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que o meu Exotic Shorthair ronca ou respira com ruído?",
+            "answer": "Os gatos Exotic Shorthair têm canais nasais encurtados (Síndrome Respiratória Braquicefálica, BAS), tornando normal um leve ronco. Porém, se observar o gato respirando pela boca, gengivas arroxeadas ou chiado forte ao respirar, consulte um veterinário imediatamente."
+          },
+          {
+            "question": "Como prevenir e controlar a Doença Renal Policística (PKDef)?",
+            "answer": "A Doença Renal Policística (PKDef) é uma patologia hereditária grave comum na linhagem Persa, causando cistos nos rins. Exija teste de DNA (PKDef) ao adotar, realize ultrassom renal e exames de sangue anuais após o 1 ano de idade, e estimule o consumo de água com sachês úmidos."
+          }
+        ]
+      },
+      "id": {
+        "title": "Sinyal Perilaku Exotic Shorthair dan Rutinitas Harian 3 Langkah Perawatan Sindrom Saluran Napas Brasisefalik (BAS) serta Ginjal Polikistik (PKDef)",
+        "description": "Panduan perawatan kucing menggemaskan Exotic Shorthair. Pahami gesekan wajah bunting dan dengkuran purring, bersihkan lipatan wajah, jaga saluran napas, serta cegah PKDef dalam 3 langkah.",
+        "authority": "Standar Perawatan Cat Fanciers' Association (CFA) & The International Cat Association (TICA)",
+        "profile": {
+          "breed": "Exotic Shorthair",
+          "lifespan": "12 ~ 15 tahun",
+          "sleep_pattern": "12 ~ 16 jam (Tenang, menyukai tidur di dalam rumah)",
+          "temperament": "Lembut, Tenang, Penyayang, Santai, Manja"
+        },
+        "intro": "Sering dijuluki 'Persia Berbaju Tidur' karena bulunya yang pendek dan tebal, Exotic Shorthair sangat dicintai di seluruh dunia karena wajahnya yang pesek, matanya yang bulat, serta sifatnya yang lembut. Mereka menggabungkan ketenangan Persia dengan keceriaan American Shorthair. Namun, struktur wajahnya yang pesek (brasisefalik) membuat mereka sangat rentan terhadap Sindrom Saluran Napas Brasisefalik (BAS) dan penyumbatan saluran air mata. Selain itu, mereka membawa risiko genetik Penyakit Ginjal Polikistik (PKDef). Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk merawat kesehatan Exotic Shorthair Anda.",
+        "whyTitle": "Bahasa Tubuh Exotic Shorthair: Dengkuran Lembut (Purring) dan Gesekan Wajah (Bunting / Cheeking)",
+        "whyDesc": "Exotic Shorthair memiliki suara yang sangat lembut dan menyampaikan rasa sayang melalui kontak fisik. Menggosokkan pipi atau dahi ke tangan atau tubuh Anda **'Gesekan Wajah (Bunting / Cheeking)'** melepaskan feromon wajah untuk menandai Anda sebagai keluarga. Sebaliknya, berbaring rileks sambil mengeluarkan getaran lembut **'Dengkuran (Purring)'** menandakan rasa nyaman dan keamanan emosional sepenuhnya.",
+        "body_signals": [
+          {
+            "name": "Menggosokkan Pipi dan Dahi secara Lembut ke Tubuh Pemilik (Bunting / Cheeking)",
+            "meaning": "Tanda kasih sayang khas yang menempelkan feromon wajah untuk menandai pemilik dengan penuh rasa percaya.",
+            "response": "Balas dengan mengelus lembut bagian dagu atau pipinya sambil berbicara dengan suara yang tenang."
+          },
+          {
+            "name": "Berbaring Santai dengan Mata Setengah Terpejam Sambil Mendengkur Lembut (Purring)",
+            "meaning": "Sinyal kenyamanan total, kebahagiaan, dan kondisi bebas stres di lingkungannya saat ini.",
+            "response": "Jaga suasana tetap tenang dan hangat agar kucing dapat terus beristirahat dengan damai."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pembersihan Lipatan Wajah & Noda Air Mata serta Pakan Basah Anti-PKDef",
+            "text": "Bersihkan lipatan wajah secara lembut karena saluran air mata yang pendek rentan berair, dan berikan pakan basah untuk hidrasi ginjal."
+          },
+          {
+            "name": "Siang: Kontrol Suhu Ruangan (Perlindungan Napas) & Permainan Ringan Manajemen Berat Badan",
+            "text": "Jaga suhu ruangan tetap sejuk (22°C–24°C) karena ras pesek tidak tahan panas; ajak bermain ringan untuk mencegah obesitas."
+          },
+          {
+            "name": "Malam: Penyisiran Bulu Ganda yang Tebal & Pemeliharaan Pasir Bebas Debu",
+            "text": "Meskipun berbulu pendek, bulu ganda mereka tebal sehingga perlu disisir setiap hari; gunakan pasir bebas debu agar tidak mengiritasi pernapasan."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa Exotic Shorthair saya sering ngorok atau bernapas agak berat?",
+            "answer": "Exotic Shorthair memiliki saluran hidung yang pendek dan sempit (Sindrom Saluran Napas Brasisefalik, BAS), sehingga wajar jika mengeluarkan suara ngorok halus. Namun, jika kucing bernapas melalui mulut, gusi tampak kebiruan, atau napasnya berbunyi bengek yang berat, segera bawa ke dokter hewan."
+          },
+          {
+            "question": "Bagaimana cara mencegah dan mengelola Penyakit Ginjal Polikistik (PKDef)?",
+            "answer": "Penyakit Ginjal Polikistik (PKDef) adalah kondisi genetik berbahaya yang umum pada garis keturunan Persia, di mana kista berisi cairan merusak fungsi ginjal. Pastikan tes DNA (PKDef) saat adopsi, lakukan USG ginjal dan tes darah rutin tahunan setelah usia 1 tahun, serta jaga asupan air dari pakan basah."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/exotic_shorthair_care.webp"
+  }
 }

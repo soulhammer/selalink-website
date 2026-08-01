@@ -1,459 +1,459 @@
 {
-    "sulcata-tortoise-care": {
-        "pubDate": "2026-06-08",
-        "updatedDate": "2026-06-08",
-        "locales": {
-            "ko": {
-                "title": "설카타 육지거북의 UVB 온열 조명 세팅과 고섬유질 식단 및 피라미딩 방지 3단계 루틴",
-                "description": "세계 3대 대형 육지거북 설카타의 사육 가이드. 등갑 피라미딩 예방 고섬유질 식단, UVB·온열 조명 세팅, 사육장 관리 3단계 루틴을 소개합니다.",
-                "authority": "세계파충류양서류수의학회(ARAV) 및 Tortoise Trust 임상 가이드라인",
-                "profile": {
-                    "breed": "설카타 육지거북 (Centrochelys sulcata)",
-                    "lifespan": "50 ~ 100년 이상 (사육 환경 최적화 시)",
-                    "sleep_pattern": "10 ~ 12시간 (주행성 - 야간은 따뜻한 은신처 휴식)",
-                    "temperament": "온순함, 대식가, 힘이 강함, 야외 사육 권장"
-                },
-                "intro": "설카타 육지거북은 성체 체중 45~90kg에 달하는 대형 종입니다. 초식성으로 고섬유질·저단백 식단과 UVB 조명, 습도 관리가 필수적입니다. 단백질 과다 공급 시 등갑이 솟구치는 피라미딩 기형이 발생합니다. 이번 가이드에서 피라미딩 방지와 조명 관리 3단계 루틴을 정리해 드립니다.",
-                "whyTitle": "설카타 육지거북의 생태 본능: 머리 숨기기 방어와 피라미딩 기형",
-                "whyDesc": "위협 시 머리를 넣고 가시 다리로 입구를 막는 **'머리 숨기기(Head Retraction)'** 자세를 취합니다. 영양 불균형 및 건조함 시 등갑이 솟구치는 **'피라미딩(Pyramiding)'** 기형이 나타납니다.",
-                "body_signals": [
-                    {
-                        "name": "머리 숨기기 (Head Retraction)",
-                        "meaning": "위협 시 머리를 숨기고 거친 숨소리를 내는 방어 반응입니다.",
-                        "response": "자극하지 말고 조용히 물러나 안정을 취하게 합니다."
-                    },
-                    {
-                        "name": "등갑 솟구침 (Pyramiding)",
-                        "meaning": "등갑 마디가 솟구쳐 자라는 기형 신호입니다.",
-                        "response": "고섬유질 건초 위주 식단 전환 및 습도·UVB를 강화합니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: UVB 조명 및 핫존(32~35℃)·쿨존(26~28℃) 점검",
-                        "text": "UVB 및 온열 램프 작동을 확인하여 칼슘 합성 및 적정 온도를 유지합니다."
-                    },
-                    {
-                        "name": "낮: 고섬유질 건초 급여 및 미온수 온욕",
-                        "text": "티모시 건초 및 잡초를 급여하고 배설 촉진을 위한 온욕을 진행합니다."
-                    },
-                    {
-                        "name": "밤: 잔여 야채 청소 및 야간 최소 온도(22~24℃) 유지",
-                        "text": "남은 음식을 치우고 야간 체온 저하를 방지합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "피라미딩 예방의 핵심은 무엇인가요?",
-                        "answer": "고섬유질 식단(70%+ 건초), 적절한 사육장 습도(50~60%), UVB 조사를 통한 칼슘 합성이 필수적입니다."
-                    },
-                    {
-                        "question": "실내 아파트에서 사육이 가능한가요?",
-                        "answer": "권장하지 않습니다. 성체 체중 50kg 이상으로 힘이 매우 강해 넓은 야외 사육장이 필요합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Sulcata Tortoise Lighting Setup and 3-Step High-Fiber Diet & Pyramiding Prevention Routine",
-                "description": "Care guide for the Sulcata Tortoise. Learn about high-fiber diets for pyramiding prevention, UVB/basking lighting setup, and a 3-step routine.",
-                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Tortoise Trust",
-                "profile": {
-                    "breed": "Sulcata Tortoise (Centrochelys sulcata)",
-                    "lifespan": "50 - 100+ Years (In optimized captive conditions)",
-                    "sleep_pattern": "10 - 12 Hours (Diurnal - Rests in warm hides at night)",
-                    "temperament": "Docile, Gluttonous, Strong, Outdoor Enclosure Preferred"
-                },
-                "intro": "The Sulcata Tortoise is the 3rd largest tortoise, reaching 45–90 kg. As herbivores, high-fiber diets, UVB lighting, and hydration prevent shell pyramiding. This guide presents a 3-step care routine.",
-                "whyTitle": "Sulcata Tortoise Instincts: Head Retraction and Pyramiding Deformity",
-                "whyDesc": "They execute **'Head Retraction'** when threatened. Excess protein and low humidity cause **'Pyramiding'**, where scutes grow vertically.",
-                "body_signals": [
-                    {
-                        "name": "Head Retraction",
-                        "meaning": "Pulling the head inside and exhaling as a defense response.",
-                        "response": "Avoid physical handling and retreat quietly."
-                    },
-                    {
-                        "name": "Pyramiding Deformation",
-                        "meaning": "Vertical scute growth caused by excess protein or dryness.",
-                        "response": "Shift to high-fiber hay, adjust humidity, and enhance UVB exposure."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: UVB & Temperature Check (Hot 32–35°C / Cool 26–28°C)",
-                        "text": "Verify lamp functionality for vitamin D3 synthesis and thermal control."
-                    },
-                    {
-                        "name": "Afternoon: High-Fiber Hay Feeding & Lukewarm Soaking",
-                        "text": "Offer Timothy hay and provide a lukewarm water soak for hydration."
-                    },
-                    {
-                        "name": "Evening: Waste Clean-up & Night Temp Maintenance (22–24°C)",
-                        "text": "Remove food leftovers and maintain safe nighttime heating."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "What is key to preventing pyramiding?",
-                        "answer": "A high-fiber diet (70%+ grasses/hay), 50–60% humidity, and sufficient UVB exposure for calcium absorption."
-                    },
-                    {
-                        "question": "Is apartment housing suitable?",
-                        "answer": "Not recommended. Adults exceed 50 kg and require a spacious outdoor enclosure."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ケヅメリクガメのUVB保温照明と高繊維食・甲羅ピラミッディング防止3ステップルーティン",
-                "description": "ケヅメリクガメの飼育ガイド。甲羅変形(ピラミッディング)を防ぐ高繊維食、UVB・保温灯設置、3ステップケアを解説します。",
-                "authority": "世界爬虫類両生類獣医学会 (ARAV) & Tortoise Trust",
-                "profile": {
-                    "breed": "ケヅメリクガメ (Centrochelys sulcata)",
-                    "lifespan": "50 〜 100年以上 (最適な飼育環境下)",
-                    "sleep_pattern": "10 〜 12時間 (昼行性 - 夜間シェルターで休息)",
-                    "temperament": "温厚、大食い、力が強い、屋外飼育推奨"
-                },
-                "intro": "成体で45〜90kgになる世界第3位のリクガメです。高繊維・低タンパク食とUVB、湿度管理が必須で、タンパク過多はピラミッディングを引き起こします。3ステップルーティンを解説します。",
-                "whyTitle": "ケヅメリクガメの本能：頭部格納防衛とピラミッディング",
-                "whyDesc": "危険時に頭を引込める**「頭部格納」**をとります。栄養偏重や乾燥で甲羅が盛り上がる**「ピラミッディング」**が生じます。",
-                "body_signals": [
-                    {
-                        "name": "頭部格納 (Head Retraction)",
-                        "meaning": "頭を引き込め息を吐き出す防御反応です。",
-                        "response": "無理に触らず静かに離れます。"
-                    },
-                    {
-                        "name": "甲羅の隆起 (Pyramiding)",
-                        "meaning": "甲羅がピラミッド状に隆起する変形サインです。",
-                        "response": "牧草中心食に切り替え、湿度とUVBを強化します。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：UVB保温灯・温度点検 (ホット32〜35℃/クール26〜28℃)",
-                        "text": "ライトの正常作動を確認し、カルシウム代謝と適正体温を維持します。"
-                    },
-                    {
-                        "name": "昼：高繊維チモシー給餌と温浴",
-                        "text": "チモシー牧草を与え、排泄促進のためのぬるま湯温浴を行います。"
-                    },
-                    {
-                        "name": "夜：残餌清掃と夜間保温 (22〜24℃)",
-                        "text": "食べ残しを取り除き、夜間の冷え込みを防ぎます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "ピラミッディング防止の鍵は何ですか？",
-                        "answer": "高繊維食(牧草70%+), 適切な湿度維持(50〜60%), UVB照射によるカルシウム吸収です。"
-                    },
-                    {
-                        "question": "室内マンションでの飼育は可能ですか？",
-                        "answer": "非推奨です。成体は50kgを超え非常に強力なため、広い屋外庭が必須です。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "苏卡达陆龟UVB加热灯设置与高纤维饮食防隆背3阶段日常护理流程",
-                "description": "苏卡达陆龟饲养指南。介绍预防龟甲畸形（隆背）的高纤维饮食、UVB加热灯搭建及3阶段护理流程。",
-                "authority": "世界爬行动物与两栖动物兽医师协会 (ARAV) 及 Tortoise Trust",
-                "profile": {
-                    "breed": "苏卡达陆龟 (Centrochelys sulcata)",
-                    "lifespan": "50 ~ 100年以上 (人工饲养环境最优化时)",
-                    "sleep_pattern": "10 ~ 12小时 (昼行性 - 夜间躲避穴休息)",
-                    "temperament": "温和、食量大、力量强、建议户外饲养"
-                },
-                "intro": "苏卡达是体型第三大陆龟，成体达45~90公斤。高纤维低蛋白饮食与UVB光照至关重要，高蛋白或干燥会导致隆背。今天介绍3阶段护理流程。",
-                "whyTitle": "苏卡达陆龟的生态本能：缩头防御与隆背畸形",
-                "whyDesc": "受惊时采取**“缩头防守”**；营养失衡或干燥会导致背甲异常耸立的**“隆背”**畸形。",
-                "body_signals": [
-                    {
-                        "name": "缩头防守 (Head Retraction)",
-                        "meaning": "受惊时缩回头部并急促呼气的防御反应。",
-                        "response": "切勿强行触碰，保持安静远离。"
-                    },
-                    {
-                        "name": "隆背畸形 (Pyramiding)",
-                        "meaning": "背甲呈现金字塔状耸立的畸形信号。",
-                        "response": "调整为高纤维牧草主食，增加环境湿度与UVB光照。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：UVB与温度检查 (热区32~35°C/冷区26~28°C)",
-                        "text": "检查灯具与温度，确保钙质合成与体温调节。"
-                    },
-                    {
-                        "name": "白天：高纤维干草投喂与温浴",
-                        "text": "喂食提摩西草并用温水泡澡以促进排泄。"
-                    },
-                    {
-                        "name": "晚上：清理残渣与夜间保温 (22~24°C)",
-                        "text": "清理食物残渣并维持适宜夜间温度。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "预防隆背的关键是什么？",
-                        "answer": "高纤维饮食(70%+干草)、适宜湿度(50~60%)及充分的UVB光照。"
-                    },
-                    {
-                        "question": "适合公寓室内饲养吗？",
-                        "answer": "不建议。成体超过50公斤且力量强劲，必须具备户外饲养场地。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Configuración de iluminación para tortuga sulcata y rutina de 3 pasos para prevenir el piramidismo",
-                "description": "Guía de cuidado para la tortuga sulcata. Conozca su dieta alta en fibra para prevenir el piramidismo, la instalación de iluminación UVB y la rutina de 3 pasos.",
-                "authority": "Pautas Clínicas de la ARAV & Tortoise Trust",
-                "profile": {
-                    "breed": "Tortuga Sulcata (Centrochelys sulcata)",
-                    "lifespan": "50 - 100+ años (en condiciones optimizadas)",
-                    "sleep_pattern": "10 - 12 horas (diurna - descansa de noche)",
-                    "temperament": "Dócil, glotona, fuerte, requiere área exterior"
-                },
-                "intro": "Es la 3ª tortuga más grande (45-90 kg). Su dieta herbívora requiere alta fibra, baja proteína, iluminación UVB y humedad para evitar el piramidismo del caparazón. Presentamos su rutina de 3 pasos.",
-                "whyTitle": "Instintos de la tortuga sulcata: Retracción de cabeza y piramidismo",
-                "whyDesc": "Usan la **'Retracción de cabeza'** ante amenazas. La alta proteína y sequedad causan **'Piramidismo'**, donde los escudos crecen verticalmente.",
-                "body_signals": [
-                    {
-                        "name": "Retracción de cabeza (Head Retraction)",
-                        "meaning": "Esconder la cabeza resoplando como respuesta defensiva.",
-                        "response": "Evite manipularla y retírese suavemente."
-                    },
-                    {
-                        "name": "Deformidad por piramidismo (Pyramiding)",
-                        "meaning": "Crecimiento piramidal del caparazón por desnutrición.",
-                        "response": "Cambiar a heno alto en fibra, ajustar humedad y aumentar UVB."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Control UVB y temperaturas (Zona Caliente 32–35 °C / Fría 26–28 °C)",
-                        "text": "Verificar lámparas para la síntesis de vitamina D3."
-                    },
-                    {
-                        "name": "Tarde: Alimentación con heno e hidratación",
-                        "text": "Ofrecer heno Timothy y baño tibio para la digestión."
-                    },
-                    {
-                        "name": "Noche: Limpieza de restos y temperatura nocturna (22–24 °C)",
-                        "text": "Retirar comida sobrante y mantener el calor nocturno."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Cuál es la clave para evitar el piramidismo?",
-                        "answer": "Dieta basada en heno (70%+), humedad adecuada (50–60%) y luz UVB constante."
-                    },
-                    {
-                        "question": "¿Es apta para apartamentos?",
-                        "answer": "No recomendada. Supera los 50 kg y requiere espacio exterior amplio."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Éclairage pour tortue sulcata et routine en 3 étapes pour prévenir le pyramideur",
-                "description": "Guide de soin pour la tortue sulcata. Découvrez son alimentation riche en fibres pour éviter le pyramideur, la configuration UVB et la routine en 3 étapes.",
-                "authority": "Directives Cliniques de l'ARAV & Tortoise Trust",
-                "profile": {
-                    "breed": "Tortue Sulcata (Centrochelys sulcata)",
-                    "lifespan": "50 - 100+ ans (en captivité optimisée)",
-                    "sleep_pattern": "10 - 12 heures (diurne - abris chauds)",
-                    "temperament": "Docile, gloutonne, puissante, enclos extérieur recommandé"
-                },
-                "intro": "C'est la 3e plus grande tortue (45-90 kg). Un régime riche en fibres, pauvre en protéines, un éclairage UVB et de l'humidité sont cruciaux pour éviter le pyramideur. Ce guide vous propose la routine en 3 étapes.",
-                "whyTitle": "Instincts de la tortue sulcata : Rétraction de la tête et pyramideur",
-                "whyDesc": "Elle adopte la **'Rétraction de la tête'** en cas de menace. L'excès de protéines et le manque d'humidité provoquent le **'Pyramideur'**.",
-                "body_signals": [
-                    {
-                        "name": "Rétraction de la tête (Head Retraction)",
-                        "meaning": "Rétracter la tête en soufflant comme réaction défensive.",
-                        "response": "Éviter les manipulations et laisser l'animal au calme."
-                    },
-                    {
-                        "name": "Déformation en pyramide (Pyramiding)",
-                        "meaning": "Croissance verticale des écailles causée par la sécheresse.",
-                        "response": "Passer au foin riche en fibres, augmenter l'humidité et les UVB."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Contrôle UVB et températures (Zone Chaude 32–35 °C / Fraîche 26–28 °C)",
-                        "text": "Vérifier le bon fonctionnement des lampes."
-                    },
-                    {
-                        "name": "Après-midi : Foin riche en fibres et bain tiède",
-                        "text": "Donner du foin de fléole et faire un bain de trempage."
-                    },
-                    {
-                        "name": "Soir : Nettoyage des restes et maintien nocturne (22–24 °C)",
-                        "text": "Retirer la nourriture non consommée et maintenir la chaleur."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Quelle est la clé pour éviter le pyramideur ?",
-                        "answer": "Une alimentation de foin (70%+), de l'humidité (50–60%) et l'exposition UVB."
-                    },
-                    {
-                        "question": "Est-elle adaptée en appartement ?",
-                        "answer": "Déconseillée. Elle dépasse 50 kg et nécessite un grand enclos extérieur."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Beleuchtung für die Spornschildkröte und 3-Schritt-Routine zur Vorbeugung von Höckerbildung",
-                "description": "Haltungsleitfaden für die Spornschildkröte (Sulcata). Erfahren Sie alles über rohfaserreiche Ernährung zur Vermeidung von Höckerbildung und die 3-Schritt-Pflege.",
-                "authority": "Richtlinien der ARAV & Tortoise Trust",
-                "profile": {
-                    "breed": "Spornschildkröte (Centrochelys sulcata)",
-                    "lifespan": "50 - 100+ Jahre (bei optimaler Haltung)",
-                    "sleep_pattern": "10 - 12 Stunden (tagaktiv - warme Verstecke)",
-                    "temperament": "Friedlich, gefräßig, kräftig, Freigehege empfohlen"
-                },
-                "intro": "Die Spornschildkröte wird 45–90 kg schwer. Rohfaserreiches Futter, UVB-Licht und Feuchtigkeit verhindern die Höckerbildung des Panzers. Heute erklärt  die 3-Schritt-Routine.",
-                "whyTitle": "Instinkte der Spornschildkröte: Kopf-Rückzug und Höckerbildung",
-                "whyDesc": "Bei Gefahr zeigt sie den **'Kopf-Rückzug'**. Eiweißüberschuss und Trockenheit führen zur **'Höckerbildung (Pyramiding)'**.",
-                "body_signals": [
-                    {
-                        "name": "Kopf-Rückzug (Head Retraction)",
-                        "meaning": "Einziehen des Kopfes mit Zischen als Schutzreaktion.",
-                        "response": "Das Tier ungestört lassen und sich zurückziehen."
-                    },
-                    {
-                        "name": "Höckerbildung (Pyramiding)",
-                        "meaning": "Steil nach oben wachsende Panzerschilder durch Fehlernährung.",
-                        "response": "Auf Heudiät umstellen, Luftfeuchte und UVB erhöhen."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: UVB- & Temperaturkontrolle (Aufwärmplatz 32–35 °C / Kühl 26–28 °C)",
-                        "text": "Lampen zur D3-Synthese prüfen."
-                    },
-                    {
-                        "name": "Nachmittag: Fütterung von Heu & lauwarmes Bad",
-                        "text": "Timothy-Heu füttern und baden zur Verdauungsförderung."
-                    },
-                    {
-                        "name": "Abend: Futterreste entfernen & Nachttemperatur (22–24 °C)",
-                        "text": "Reste säubern und die Heizung kontrollieren."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Was ist der Schlüssel gegen Höckerbildung?",
-                        "answer": "Rohfaserreiches Heu (70%+), Luftfeuchte (50–60%) und UVB-Licht."
-                    },
-                    {
-                        "question": "Für Wohnungen geeignet?",
-                        "answer": "Nicht empfohlen. Tiere werden über 50 kg schwer und brauchen Freigehege."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Configuração de iluminação para a tartaruga-sulcata e rotina de 3 passos contra a piramidização",
-                "description": "Guia de cuidados com a tartaruga-sulcata. Saiba como a dieta rica em fibras previne a piramidização, a configuração de lâmpadas UVB e a rotina em 3 passos.",
-                "authority": "Diretrizes Clínicas da ARAV & Tortoise Trust",
-                "profile": {
-                    "breed": "Tartaruga-Sulcata (Centrochelys sulcata)",
-                    "lifespan": "50 - 100+ anos (em cativeiro otimizado)",
-                    "sleep_pattern": "10 - 12 horas (diurna - descansa à noite)",
-                    "temperament": "Dócil, glutona, forte, espaço exterior recomendado"
-                },
-                "intro": "É a 3ª maior tartaruga do mundo (45-90 kg). Dieta rica em fibras, lâmpada UVB e humidade são cruciais para evitar a piramidização da carapaça. Apresentamos a rotina em 3 passos.",
-                "whyTitle": "Instintos da tartaruga-sulcata: Retração da cabeça e piramidização",
-                "whyDesc": "Perante ameaças usam a **'Retração da cabeça'**. Proteína em excesso e ar seco causam a deformidade de **'Piramidização'**.",
-                "body_signals": [
-                    {
-                        "name": "Retração da cabeça (Head Retraction)",
-                        "meaning": "Esconder a cabeça bufando como resposta defensiva.",
-                        "response": "Deixar o animal sossegado sem o manipular."
-                    },
-                    {
-                        "name": "Deformação por piramidização (Pyramiding)",
-                        "meaning": "Crescimento piramidal das escamas na carapaça.",
-                        "response": "Mudar para feno rico em fibras, aumentar humidade e UVB."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Controlo de UVB e temperaturas (Zona Quente 32–35 °C / Fria 26–28 °C)",
-                        "text": "Verificar lâmpadas para a síntese de vitamina D3."
-                    },
-                    {
-                        "name": "Tarde: Alimentação com feno e banho morno",
-                        "text": "Oferecer feno Timothy e banho morno para hidratação."
-                    },
-                    {
-                        "name": "Noite: Limpeza de restos e temperatura noturna (22–24 °C)",
-                        "text": "Remover comida não consumida e manter o aquecimento."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Qual a chave para evitar a piramidização?",
-                        "answer": "Dieta de feno (70%+), humidade (50–60%) e exposição regular a luz UVB."
-                    },
-                    {
-                        "question": "É adequada para apartamentos?",
-                        "answer": "Não recomendada. Pesa mais de 50 kg e exige espaço exterior amplo."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Pengaturan Pencahayaan Kura-kura Sulcata dan Rutinitas 3 Langkah Diet Tinggi Serat & Pencegahan Piramidisasi",
-                "description": "Panduan perawatan kura-kura Sulcata. Pelajari diet tinggi serat untuk mencegah piramidisasi, pengaturan lampu UVB, dan 3 langkah rutinitas harian.",
-                "authority": "Panduan Klinis ARAV & Tortoise Trust",
-                "profile": {
-                    "breed": "Kura-kura Sulcata (Centrochelys sulcata)",
-                    "lifespan": "50 - 100+ tahun (pada kondisi penangkaran optimal)",
-                    "sleep_pattern": "10 - 12 jam (diurnal - tidur di tempat hangat)",
-                    "temperament": "Penurut, rakus, kuat, disarankan kandang luar"
-                },
-                "intro": "Kura-kura Sulcata adalah spesies terbesar ke-3 di dunia (45-90 kg). Diet tinggi serat, lampu UVB, dan kelembapan sangat penting untuk mencegah piramidisasi tempurung. Dalam panduan ini, membagikan 3 langkah rutinitas.",
-                "whyTitle": "Insting Kura-kura Sulcata: Menarik Kepala dan Piramidisasi Tempurung",
-                "whyDesc": "Saat terancam, mereka melakukan **'Menarik Kepala'**. Protein berlebih dan udara kering menyebabkan **'Piramidisasi'**, di mana lempeng tempurung tumbuh mencuat ke atas.",
-                "body_signals": [
-                    {
-                        "name": "Menarik Kepala (Head Retraction)",
-                        "meaning": "Menarik kepala dan mendesis sebagai respon pertahanan.",
-                        "response": "Biarkan tenang tanpa gangguan."
-                    },
-                    {
-                        "name": "Deformasi Piramidisasi (Pyramiding)",
-                        "meaning": "Tempurung tumbuh mencuat berbentuk piramida.",
-                        "response": "Ganti pakan ke jerami tinggi serat, sesuaikan kelembapan dan UVB."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Cek Lampu UVB & Suhu (Panas 32–35 °C / Dingin 26–28 °C)",
-                        "text": "Periksa fungsi lampu untuk sintesis D3."
-                    },
-                    {
-                        "name": "Siang: Pemberian Jerami Tinggi Serat & Rendam Air Hangat",
-                        "text": "Berikan jerami Timothy dan rendam air hangat."
-                    },
-                    {
-                        "name": "Malam: Bersihkan Sisa Pakan & Jaga Suhu Malam (22–24 °C)",
-                        "text": "Buang sisa pakan dan jaga kehangatan malam."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apa kunci mencegah piramidisasi?",
-                        "answer": "Diet jerami (70%+), kelembapan (50–60%), dan paparan sinar UVB."
-                    },
-                    {
-                        "question": "Apakah cocok dipelihara di apartemen?",
-                        "answer": "Tidak disarankan. Bobotnya melebihi 50 kg dan membutuhkan area luar yang luas."
-                    }
-                ]
-            }
+  "sulcata-tortoise-care": {
+    "pubDate": "2026-06-08",
+    "updatedDate": "2026-06-08",
+    "locales": {
+      "ko": {
+        "title": "설카타 육지거북의 UVB 온열 조명 세팅과 고섬유질 식단 및 피라미딩 방지 3단계 루틴",
+        "description": "세계 3대 대형 육지거북 설카타의 사육 가이드. 등갑 피라미딩 예방 고섬유질 식단, UVB·온열 조명 세팅, 사육장 관리 3단계 루틴을 소개합니다.",
+        "authority": "세계파충류양서류수의학회(ARAV) 및 Tortoise Trust 임상 가이드라인",
+        "profile": {
+          "breed": "설카타 육지거북 (Centrochelys sulcata)",
+          "lifespan": "50 ~ 100년 이상 (사육 환경 최적화 시)",
+          "sleep_pattern": "10 ~ 12시간 (주행성 - 야간은 따뜻한 은신처 휴식)",
+          "temperament": "온순함, 대식가, 힘이 강함, 야외 사육 권장"
         },
-        "heroImage": "/images/blog/sulcata_tortoise_care.webp"
-    }
+        "intro": "설카타 육지거북은 성체 체중 45~90kg에 달하는 대형 종입니다. 초식성으로 고섬유질·저단백 식단과 UVB 조명, 습도 관리가 필수적입니다. 단백질 과다 공급 시 등갑이 솟구치는 피라미딩 기형이 발생합니다. 이번 가이드에서 피라미딩 방지와 조명 관리 3단계 루틴을 정리해 드립니다.",
+        "whyTitle": "설카타 육지거북의 생태 본능: 머리 숨기기 방어와 피라미딩 기형",
+        "whyDesc": "위협 시 머리를 넣고 가시 다리로 입구를 막는 **'머리 숨기기(Head Retraction)'** 자세를 취합니다. 영양 불균형 및 건조함 시 등갑이 솟구치는 **'피라미딩(Pyramiding)'** 기형이 나타납니다.",
+        "body_signals": [
+          {
+            "name": "머리 숨기기 (Head Retraction)",
+            "meaning": "위협 시 머리를 숨기고 거친 숨소리를 내는 방어 반응입니다.",
+            "response": "자극하지 말고 조용히 물러나 안정을 취하게 합니다."
+          },
+          {
+            "name": "등갑 솟구침 (Pyramiding)",
+            "meaning": "등갑 마디가 솟구쳐 자라는 기형 신호입니다.",
+            "response": "고섬유질 건초 위주 식단 전환 및 습도·UVB를 강화합니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: UVB 조명 및 핫존(32~35℃)·쿨존(26~28℃) 점검",
+            "text": "UVB 및 온열 램프 작동을 확인하여 칼슘 합성 및 적정 온도를 유지합니다."
+          },
+          {
+            "name": "낮: 고섬유질 건초 급여 및 미온수 온욕",
+            "text": "티모시 건초 및 잡초를 급여하고 배설 촉진을 위한 온욕을 진행합니다."
+          },
+          {
+            "name": "밤: 잔여 야채 청소 및 야간 최소 온도(22~24℃) 유지",
+            "text": "남은 음식을 치우고 야간 체온 저하를 방지합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "피라미딩 예방의 핵심은 무엇인가요?",
+            "answer": "고섬유질 식단(70%+ 건초), 적절한 사육장 습도(50~60%), UVB 조사를 통한 칼슘 합성이 필수적입니다."
+          },
+          {
+            "question": "실내 아파트에서 사육이 가능한가요?",
+            "answer": "권장하지 않습니다. 성체 체중 50kg 이상으로 힘이 매우 강해 넓은 야외 사육장이 필요합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Sulcata Tortoise Lighting Setup and 3-Step High-Fiber Diet & Pyramiding Prevention Routine",
+        "description": "Care guide for the Sulcata Tortoise. Learn about high-fiber diets for pyramiding prevention, UVB/basking lighting setup, and a 3-step routine.",
+        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Tortoise Trust",
+        "profile": {
+          "breed": "Sulcata Tortoise (Centrochelys sulcata)",
+          "lifespan": "50 - 100+ Years (In optimized captive conditions)",
+          "sleep_pattern": "10 - 12 Hours (Diurnal - Rests in warm hides at night)",
+          "temperament": "Docile, Gluttonous, Strong, Outdoor Enclosure Preferred"
+        },
+        "intro": "The Sulcata Tortoise is the 3rd largest tortoise, reaching 45–90 kg. As herbivores, high-fiber diets, UVB lighting, and hydration prevent shell pyramiding. This guide presents a 3-step care routine.",
+        "whyTitle": "Sulcata Tortoise Instincts: Head Retraction and Pyramiding Deformity",
+        "whyDesc": "They execute **'Head Retraction'** when threatened. Excess protein and low humidity cause **'Pyramiding'**, where scutes grow vertically.",
+        "body_signals": [
+          {
+            "name": "Head Retraction",
+            "meaning": "Pulling the head inside and exhaling as a defense response.",
+            "response": "Avoid physical handling and retreat quietly."
+          },
+          {
+            "name": "Pyramiding Deformation",
+            "meaning": "Vertical scute growth caused by excess protein or dryness.",
+            "response": "Shift to high-fiber hay, adjust humidity, and enhance UVB exposure."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: UVB & Temperature Check (Hot 32–35°C / Cool 26–28°C)",
+            "text": "Verify lamp functionality for vitamin D3 synthesis and thermal control."
+          },
+          {
+            "name": "Afternoon: High-Fiber Hay Feeding & Lukewarm Soaking",
+            "text": "Offer Timothy hay and provide a lukewarm water soak for hydration."
+          },
+          {
+            "name": "Evening: Waste Clean-up & Night Temp Maintenance (22–24°C)",
+            "text": "Remove food leftovers and maintain safe nighttime heating."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "What is key to preventing pyramiding?",
+            "answer": "A high-fiber diet (70%+ grasses/hay), 50–60% humidity, and sufficient UVB exposure for calcium absorption."
+          },
+          {
+            "question": "Is apartment housing suitable?",
+            "answer": "Not recommended. Adults exceed 50 kg and require a spacious outdoor enclosure."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ケヅメリクガメのUVB保温照明と高繊維食・甲羅ピラミッディング防止3ステップルーティン",
+        "description": "ケヅメリクガメの飼育ガイド。甲羅変形(ピラミッディング)を防ぐ高繊維食、UVB・保温灯設置、3ステップケアを解説します。",
+        "authority": "世界爬虫類両生類獣医学会 (ARAV) & Tortoise Trust",
+        "profile": {
+          "breed": "ケヅメリクガメ (Centrochelys sulcata)",
+          "lifespan": "50 〜 100年以上 (最適な飼育環境下)",
+          "sleep_pattern": "10 〜 12時間 (昼行性 - 夜間シェルターで休息)",
+          "temperament": "温厚、大食い、力が強い、屋外飼育推奨"
+        },
+        "intro": "成体で45〜90kgになる世界第3位のリクガメです。高繊維・低タンパク食とUVB、湿度管理が必須で、タンパク過多はピラミッディングを引き起こします。3ステップルーティンを解説します。",
+        "whyTitle": "ケヅメリクガメの本能：頭部格納防衛とピラミッディング",
+        "whyDesc": "危険時に頭を引込める**「頭部格納」**をとります。栄養偏重や乾燥で甲羅が盛り上がる**「ピラミッディング」**が生じます。",
+        "body_signals": [
+          {
+            "name": "頭部格納 (Head Retraction)",
+            "meaning": "頭を引き込め息を吐き出す防御反応です。",
+            "response": "無理に触らず静かに離れます。"
+          },
+          {
+            "name": "甲羅の隆起 (Pyramiding)",
+            "meaning": "甲羅がピラミッド状に隆起する変形サインです。",
+            "response": "牧草中心食に切り替え、湿度とUVBを強化します。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：UVB保温灯・温度点検 (ホット32〜35℃/クール26〜28℃)",
+            "text": "ライトの正常作動を確認し、カルシウム代謝と適正体温を維持します。"
+          },
+          {
+            "name": "昼：高繊維チモシー給餌と温浴",
+            "text": "チモシー牧草を与え、排泄促進のためのぬるま湯温浴を行います。"
+          },
+          {
+            "name": "夜：残餌清掃と夜間保温 (22〜24℃)",
+            "text": "食べ残しを取り除き、夜間の冷え込みを防ぎます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ピラミッディング防止の鍵は何ですか？",
+            "answer": "高繊維食(牧草70%+), 適切な湿度維持(50〜60%), UVB照射によるカルシウム吸収です。"
+          },
+          {
+            "question": "室内マンションでの飼育は可能ですか？",
+            "answer": "非推奨です。成体は50kgを超え非常に強力なため、広い屋外庭が必須です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "苏卡达陆龟UVB加热灯设置与高纤维饮食防隆背3阶段日常护理流程",
+        "description": "苏卡达陆龟饲养指南。介绍预防龟甲畸形（隆背）的高纤维饮食、UVB加热灯搭建及3阶段护理流程。",
+        "authority": "世界爬行动物与两栖动物兽医师协会 (ARAV) 及 Tortoise Trust",
+        "profile": {
+          "breed": "苏卡达陆龟 (Centrochelys sulcata)",
+          "lifespan": "50 ~ 100年以上 (人工饲养环境最优化时)",
+          "sleep_pattern": "10 ~ 12小时 (昼行性 - 夜间躲避穴休息)",
+          "temperament": "温和、食量大、力量强、建议户外饲养"
+        },
+        "intro": "苏卡达是体型第三大陆龟，成体达45~90公斤。高纤维低蛋白饮食与UVB光照至关重要，高蛋白或干燥会导致隆背。今天介绍3阶段护理流程。",
+        "whyTitle": "苏卡达陆龟的生态本能：缩头防御与隆背畸形",
+        "whyDesc": "受惊时采取**“缩头防守”**；营养失衡或干燥会导致背甲异常耸立的**“隆背”**畸形。",
+        "body_signals": [
+          {
+            "name": "缩头防守 (Head Retraction)",
+            "meaning": "受惊时缩回头部并急促呼气的防御反应。",
+            "response": "切勿强行触碰，保持安静远离。"
+          },
+          {
+            "name": "隆背畸形 (Pyramiding)",
+            "meaning": "背甲呈现金字塔状耸立的畸形信号。",
+            "response": "调整为高纤维牧草主食，增加环境湿度与UVB光照。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：UVB与温度检查 (热区32~35°C/冷区26~28°C)",
+            "text": "检查灯具与温度，确保钙质合成与体温调节。"
+          },
+          {
+            "name": "白天：高纤维干草投喂与温浴",
+            "text": "喂食提摩西草并用温水泡澡以促进排泄。"
+          },
+          {
+            "name": "晚上：清理残渣与夜间保温 (22~24°C)",
+            "text": "清理食物残渣并维持适宜夜间温度。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "预防隆背的关键是什么？",
+            "answer": "高纤维饮食(70%+干草)、适宜湿度(50~60%)及充分的UVB光照。"
+          },
+          {
+            "question": "适合公寓室内饲养吗？",
+            "answer": "不建议。成体超过50公斤且力量强劲，必须具备户外饲养场地。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Configuración de iluminación para tortuga sulcata y rutina de 3 pasos para prevenir el piramidismo",
+        "description": "Guía de cuidado para la tortuga sulcata. Conozca su dieta alta en fibra para prevenir el piramidismo, la instalación de iluminación UVB y la rutina de 3 pasos.",
+        "authority": "Pautas Clínicas de la ARAV & Tortoise Trust",
+        "profile": {
+          "breed": "Tortuga Sulcata (Centrochelys sulcata)",
+          "lifespan": "50 - 100+ años (en condiciones optimizadas)",
+          "sleep_pattern": "10 - 12 horas (diurna - descansa de noche)",
+          "temperament": "Dócil, glotona, fuerte, requiere área exterior"
+        },
+        "intro": "Es la 3ª tortuga más grande (45-90 kg). Su dieta herbívora requiere alta fibra, baja proteína, iluminación UVB y humedad para evitar el piramidismo del caparazón. Presentamos su rutina de 3 pasos.",
+        "whyTitle": "Instintos de la tortuga sulcata: Retracción de cabeza y piramidismo",
+        "whyDesc": "Usan la **'Retracción de cabeza'** ante amenazas. La alta proteína y sequedad causan **'Piramidismo'**, donde los escudos crecen verticalmente.",
+        "body_signals": [
+          {
+            "name": "Retracción de cabeza (Head Retraction)",
+            "meaning": "Esconder la cabeza resoplando como respuesta defensiva.",
+            "response": "Evite manipularla y retírese suavemente."
+          },
+          {
+            "name": "Deformidad por piramidismo (Pyramiding)",
+            "meaning": "Crecimiento piramidal del caparazón por desnutrición.",
+            "response": "Cambiar a heno alto en fibra, ajustar humedad y aumentar UVB."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Control UVB y temperaturas (Zona Caliente 32–35 °C / Fría 26–28 °C)",
+            "text": "Verificar lámparas para la síntesis de vitamina D3."
+          },
+          {
+            "name": "Tarde: Alimentación con heno e hidratación",
+            "text": "Ofrecer heno Timothy y baño tibio para la digestión."
+          },
+          {
+            "name": "Noche: Limpieza de restos y temperatura nocturna (22–24 °C)",
+            "text": "Retirar comida sobrante y mantener el calor nocturno."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Cuál es la clave para evitar el piramidismo?",
+            "answer": "Dieta basada en heno (70%+), humedad adecuada (50–60%) y luz UVB constante."
+          },
+          {
+            "question": "¿Es apta para apartamentos?",
+            "answer": "No recomendada. Supera los 50 kg y requiere espacio exterior amplio."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Éclairage pour tortue sulcata et routine en 3 étapes pour prévenir le pyramideur",
+        "description": "Guide de soin pour la tortue sulcata. Découvrez son alimentation riche en fibres pour éviter le pyramideur, la configuration UVB et la routine en 3 étapes.",
+        "authority": "Directives Cliniques de l'ARAV & Tortoise Trust",
+        "profile": {
+          "breed": "Tortue Sulcata (Centrochelys sulcata)",
+          "lifespan": "50 - 100+ ans (en captivité optimisée)",
+          "sleep_pattern": "10 - 12 heures (diurne - abris chauds)",
+          "temperament": "Docile, gloutonne, puissante, enclos extérieur recommandé"
+        },
+        "intro": "C'est la 3e plus grande tortue (45-90 kg). Un régime riche en fibres, pauvre en protéines, un éclairage UVB et de l'humidité sont cruciaux pour éviter le pyramideur. Ce guide vous propose la routine en 3 étapes.",
+        "whyTitle": "Instincts de la tortue sulcata : Rétraction de la tête et pyramideur",
+        "whyDesc": "Elle adopte la **'Rétraction de la tête'** en cas de menace. L'excès de protéines et le manque d'humidité provoquent le **'Pyramideur'**.",
+        "body_signals": [
+          {
+            "name": "Rétraction de la tête (Head Retraction)",
+            "meaning": "Rétracter la tête en soufflant comme réaction défensive.",
+            "response": "Éviter les manipulations et laisser l'animal au calme."
+          },
+          {
+            "name": "Déformation en pyramide (Pyramiding)",
+            "meaning": "Croissance verticale des écailles causée par la sécheresse.",
+            "response": "Passer au foin riche en fibres, augmenter l'humidité et les UVB."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Contrôle UVB et températures (Zone Chaude 32–35 °C / Fraîche 26–28 °C)",
+            "text": "Vérifier le bon fonctionnement des lampes."
+          },
+          {
+            "name": "Après-midi : Foin riche en fibres et bain tiède",
+            "text": "Donner du foin de fléole et faire un bain de trempage."
+          },
+          {
+            "name": "Soir : Nettoyage des restes et maintien nocturne (22–24 °C)",
+            "text": "Retirer la nourriture non consommée et maintenir la chaleur."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Quelle est la clé pour éviter le pyramideur ?",
+            "answer": "Une alimentation de foin (70%+), de l'humidité (50–60%) et l'exposition UVB."
+          },
+          {
+            "question": "Est-elle adaptée en appartement ?",
+            "answer": "Déconseillée. Elle dépasse 50 kg et nécessite un grand enclos extérieur."
+          }
+        ]
+      },
+      "de": {
+        "title": "Beleuchtung für die Spornschildkröte und 3-Schritt-Routine zur Vorbeugung von Höckerbildung",
+        "description": "Haltungsleitfaden für die Spornschildkröte (Sulcata). Erfahren Sie alles über rohfaserreiche Ernährung zur Vermeidung von Höckerbildung und die 3-Schritt-Pflege.",
+        "authority": "Richtlinien der ARAV & Tortoise Trust",
+        "profile": {
+          "breed": "Spornschildkröte (Centrochelys sulcata)",
+          "lifespan": "50 - 100+ Jahre (bei optimaler Haltung)",
+          "sleep_pattern": "10 - 12 Stunden (tagaktiv - warme Verstecke)",
+          "temperament": "Friedlich, gefräßig, kräftig, Freigehege empfohlen"
+        },
+        "intro": "Die Spornschildkröte wird 45–90 kg schwer. Rohfaserreiches Futter, UVB-Licht und Feuchtigkeit verhindern die Höckerbildung des Panzers. Heute erklärt  die 3-Schritt-Routine.",
+        "whyTitle": "Instinkte der Spornschildkröte: Kopf-Rückzug und Höckerbildung",
+        "whyDesc": "Bei Gefahr zeigt sie den **'Kopf-Rückzug'**. Eiweißüberschuss und Trockenheit führen zur **'Höckerbildung (Pyramiding)'**.",
+        "body_signals": [
+          {
+            "name": "Kopf-Rückzug (Head Retraction)",
+            "meaning": "Einziehen des Kopfes mit Zischen als Schutzreaktion.",
+            "response": "Das Tier ungestört lassen und sich zurückziehen."
+          },
+          {
+            "name": "Höckerbildung (Pyramiding)",
+            "meaning": "Steil nach oben wachsende Panzerschilder durch Fehlernährung.",
+            "response": "Auf Heudiät umstellen, Luftfeuchte und UVB erhöhen."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: UVB- & Temperaturkontrolle (Aufwärmplatz 32–35 °C / Kühl 26–28 °C)",
+            "text": "Lampen zur D3-Synthese prüfen."
+          },
+          {
+            "name": "Nachmittag: Fütterung von Heu & lauwarmes Bad",
+            "text": "Timothy-Heu füttern und baden zur Verdauungsförderung."
+          },
+          {
+            "name": "Abend: Futterreste entfernen & Nachttemperatur (22–24 °C)",
+            "text": "Reste säubern und die Heizung kontrollieren."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Was ist der Schlüssel gegen Höckerbildung?",
+            "answer": "Rohfaserreiches Heu (70%+), Luftfeuchte (50–60%) und UVB-Licht."
+          },
+          {
+            "question": "Für Wohnungen geeignet?",
+            "answer": "Nicht empfohlen. Tiere werden über 50 kg schwer und brauchen Freigehege."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Configuração de iluminação para a tartaruga-sulcata e rotina de 3 passos contra a piramidização",
+        "description": "Guia de cuidados com a tartaruga-sulcata. Saiba como a dieta rica em fibras previne a piramidização, a configuração de lâmpadas UVB e a rotina em 3 passos.",
+        "authority": "Diretrizes Clínicas da ARAV & Tortoise Trust",
+        "profile": {
+          "breed": "Tartaruga-Sulcata (Centrochelys sulcata)",
+          "lifespan": "50 - 100+ anos (em cativeiro otimizado)",
+          "sleep_pattern": "10 - 12 horas (diurna - descansa à noite)",
+          "temperament": "Dócil, glutona, forte, espaço exterior recomendado"
+        },
+        "intro": "É a 3ª maior tartaruga do mundo (45-90 kg). Dieta rica em fibras, lâmpada UVB e humidade são cruciais para evitar a piramidização da carapaça. Apresentamos a rotina em 3 passos.",
+        "whyTitle": "Instintos da tartaruga-sulcata: Retração da cabeça e piramidização",
+        "whyDesc": "Perante ameaças usam a **'Retração da cabeça'**. Proteína em excesso e ar seco causam a deformidade de **'Piramidização'**.",
+        "body_signals": [
+          {
+            "name": "Retração da cabeça (Head Retraction)",
+            "meaning": "Esconder a cabeça bufando como resposta defensiva.",
+            "response": "Deixar o animal sossegado sem o manipular."
+          },
+          {
+            "name": "Deformação por piramidização (Pyramiding)",
+            "meaning": "Crescimento piramidal das escamas na carapaça.",
+            "response": "Mudar para feno rico em fibras, aumentar humidade e UVB."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Controlo de UVB e temperaturas (Zona Quente 32–35 °C / Fria 26–28 °C)",
+            "text": "Verificar lâmpadas para a síntese de vitamina D3."
+          },
+          {
+            "name": "Tarde: Alimentação com feno e banho morno",
+            "text": "Oferecer feno Timothy e banho morno para hidratação."
+          },
+          {
+            "name": "Noite: Limpeza de restos e temperatura noturna (22–24 °C)",
+            "text": "Remover comida não consumida e manter o aquecimento."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Qual a chave para evitar a piramidização?",
+            "answer": "Dieta de feno (70%+), humidade (50–60%) e exposição regular a luz UVB."
+          },
+          {
+            "question": "É adequada para apartamentos?",
+            "answer": "Não recomendada. Pesa mais de 50 kg e exige espaço exterior amplo."
+          }
+        ]
+      },
+      "id": {
+        "title": "Pengaturan Pencahayaan Kura-kura Sulcata dan Rutinitas 3 Langkah Diet Tinggi Serat & Pencegahan Piramidisasi",
+        "description": "Panduan perawatan kura-kura Sulcata. Pelajari diet tinggi serat untuk mencegah piramidisasi, pengaturan lampu UVB, dan 3 langkah rutinitas harian.",
+        "authority": "Panduan Klinis ARAV & Tortoise Trust",
+        "profile": {
+          "breed": "Kura-kura Sulcata (Centrochelys sulcata)",
+          "lifespan": "50 - 100+ tahun (pada kondisi penangkaran optimal)",
+          "sleep_pattern": "10 - 12 jam (diurnal - tidur di tempat hangat)",
+          "temperament": "Penurut, rakus, kuat, disarankan kandang luar"
+        },
+        "intro": "Kura-kura Sulcata adalah spesies terbesar ke-3 di dunia (45-90 kg). Diet tinggi serat, lampu UVB, dan kelembapan sangat penting untuk mencegah piramidisasi tempurung. Dalam panduan ini, membagikan 3 langkah rutinitas.",
+        "whyTitle": "Insting Kura-kura Sulcata: Menarik Kepala dan Piramidisasi Tempurung",
+        "whyDesc": "Saat terancam, mereka melakukan **'Menarik Kepala'**. Protein berlebih dan udara kering menyebabkan **'Piramidisasi'**, di mana lempeng tempurung tumbuh mencuat ke atas.",
+        "body_signals": [
+          {
+            "name": "Menarik Kepala (Head Retraction)",
+            "meaning": "Menarik kepala dan mendesis sebagai respon pertahanan.",
+            "response": "Biarkan tenang tanpa gangguan."
+          },
+          {
+            "name": "Deformasi Piramidisasi (Pyramiding)",
+            "meaning": "Tempurung tumbuh mencuat berbentuk piramida.",
+            "response": "Ganti pakan ke jerami tinggi serat, sesuaikan kelembapan dan UVB."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Cek Lampu UVB & Suhu (Panas 32–35 °C / Dingin 26–28 °C)",
+            "text": "Periksa fungsi lampu untuk sintesis D3."
+          },
+          {
+            "name": "Siang: Pemberian Jerami Tinggi Serat & Rendam Air Hangat",
+            "text": "Berikan jerami Timothy dan rendam air hangat."
+          },
+          {
+            "name": "Malam: Bersihkan Sisa Pakan & Jaga Suhu Malam (22–24 °C)",
+            "text": "Buang sisa pakan dan jaga kehangatan malam."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apa kunci mencegah piramidisasi?",
+            "answer": "Diet jerami (70%+), kelembapan (50–60%), dan paparan sinar UVB."
+          },
+          {
+            "question": "Apakah cocok dipelihara di apartemen?",
+            "answer": "Tidak disarankan. Bobotnya melebihi 50 kg dan membutuhkan area luar yang luas."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/sulcata_tortoise_care.webp"
+  }
 }

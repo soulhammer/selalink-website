@@ -1,406 +1,406 @@
 {
-    "how-to-store-mussel": {
-        "ingId": "mussel",
-        "pubDate": "2026-02-23",
-        "updatedDate": "2026-02-23",
-        "heroImage": "/images/blog/mussel_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "홍합 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 홍합의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "국립수산과학원(NIFS) & 미국 식품의약국(FDA) & USDA",
-                "intro": "싱싱한 생물 홍합을 사 왔다가 냉장고 안에서 금방 죽어 비린내가 진동하고 전부 버렸던 경험 있으시죠? 🦪\n\n홍합은 살아있는 상태로 보관해야 하는 대표적인 여과 섭식(Filter Feeding) 패류입니다. 수돗물(담수)에 직접 담그면 삼투압 쇼크(Osmotic Shock)로 인해 세포가 용해(Lysis)되어 사멸하며, 폐사 직후 자가 융해(Autolysis)와 세균 증식이 빠르게 일어나 트리메틸아민(TMA) 부패 악취를 유발합니다.\n\n이번 가이드에서는 국립수산과학원(NIFS)과 미국 식품의약국(FDA)의 공인 가이드라인을 바탕으로, 홍합을 질식이나 삼투압 폐사 없이 신선하게 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "수돗물(담수) 침수 및 밀폐 용기 보관 금지 ⚠️",
-                        "desc": "홍합을 염분이 없는 수돗물에 담그면 삼투압 차이로 세포가 파괴되어 즉시 폐사합니다. 또한 밀폐 용기에 뚜껑을 닫아 보관하면 산소 결핍으로 질식사하므로 반드시 통풍이 되는 상태를 유지해야 합니다."
-                    },
-                    {
-                        "title": "폐사한 홍합 및 입을 닫지 않는 홍합 섭취 주의 🛑",
-                        "desc": "폐사한 홍합은 자가 융해 작용으로 트리메틸아민(TMA) 부패 악취와 독소를 생성하고 식중독균이 증식합니다. 껍데기를 가볍게 두드렸을 때 입을 닫지 않거나 깨진 홍합은 이미 폐사한 상태이므로 즉시 버려야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "젖은 키친타월을 덮어 통풍 용기에 냉장 보관하기 — 생물 저온 보관 (2~3일) 🦪",
-                        "text": "살아있는 홍합은 저온에서 최소한의 자가 호흡을 유지시켜야 합니다. 💡 보관 팁: 씻지 않은 홍합을 구멍 뚫린 바구니나 오목한 그릇에 담고 젖은 키친타월이나 젖은 천을 덮어 냉장고(1~4℃)에 넣으세요. 뚜껑을 밀폐하지 말고 공기가 통하게 보관해야 2~3일간 생존합니다."
-                    },
-                    {
-                        "name": "해수 농도 염수로 세척 및 족사 손질하기 — 위생 손질 🌊",
-                        "text": "조리 직전 세척 시에는 맹수가 아닌 해수 농도의 염수를 사용해야 합니다. 💡 보관 팁: 찬물 1L에 소금 약 30g(3%)을 녹인 염수로 겉면을 가볍게 씻고, 껍데기 밖으로 삐져나온 족사(수염)는 조리 직전에 잡아당겨 제거하세요."
-                    },
-                    {
-                        "name": "장기 보관 시 가열하여 삶은 뒤 국물과 함께 냉동하기 — 익힘 냉동 보관 (30~60일) 🧊",
-                        "text": "생물 홍합을 그대로 냉동하면 해동 후 과육의 수분이 빠져나가 조직이 질겨집니다. 💡 보관 팁: 홍합을 가볍게 삶아낸 뒤 알맹이만 발라내어 식힌 육수와 함께 밀폐 용기에 담아 냉동(-18℃ 이하) 보관하면 1~2달간 맛과 영양이 보존됩니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "홍합을 수돗물에 담그면 왜 금방 죽고 비린내가 나나요?",
-                        "answer": "홍합은 해수 패류이므로 염분이 없는 수돗물에 들어가면 삼투압 쇼크로 세포가 파괴(Lysis)되어 사멸합니다. 사멸 즉시 효소에 의한 자가 융해(Autolysis)와 세균 증식이 시작되어 비린 트리메틸아민(TMA) 부패 악취가 발생합니다."
-                    },
-                    {
-                        "question": "홍합이 살았는지 죽었는지 어떻게 구분하나요?",
-                        "answer": "껍데기가 살짝 열려있을 때 손가락으로 톡톡 두드려보세요. 살아있는 홍합은 자극을 받아 천천히 입을 다뭅니다. 두드려도 반응이 없거나 껍데기가 깨진 것, 구린 악취가 나는 것은 사멸하여 부패가 진행된 것이므로 반드시 폐기해야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Mussels Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for mussels based on official safety guidelines.",
-                "authority": "NIFS & FDA & USDA",
-                "intro": "Have you ever bought fresh live mussels, only to find them dead and emitting a harsh fishy odor inside your fridge? 🦪\n\nMussels are live filter-feeding bivalves. Submerging them directly in tap water (freshwater) causes osmotic shock, leading to cell lysis and rapid death. Immediately upon dying, autolysis and bacterial proliferation occur, releasing unpleasant trimethylamine (TMA) rot odors.\n\nBased on official guidelines from the National Institute of Fisheries Science (NIFS) and the US FDA, this 3-step scientific storage guide demonstrates how to store live mussels safely without suffocation or osmotic death. 🛡️",
-                "whyTitle": "Why Store Mussels This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never submerge in tap water or seal in airtight containers ⚠️",
-                        "desc": "Submerging mussels in un-salted tap water causes cell lysis from osmotic shock, killing them instantly. Sealing them in airtight containers cuts off oxygen, causing suffocation. Always keep them unsealed and breathable."
-                    },
-                    {
-                        "title": "Beware of dead mussels and those that fail to close 🛑",
-                        "desc": "Dead mussels undergo autolysis, producing toxic compounds, TMA foul odors, and rapid bacterial growth. If an open shell does not close when tapped gently, the mussel is dead and must be discarded immediately."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Cover with a damp paper towel in a breathable container — Live Cold Storage (2–3 Days) 🦪",
-                        "text": "Live mussels must maintain minimal respiration at low temperatures. 💡 Storage Tip: Place unwashed mussels in a colander or open bowl, cover with a damp paper towel or cloth, and refrigerate (1–4°C / 34–39°F). Do not seal with a lid so oxygen can circulate."
-                    },
-                    {
-                        "name": "Rinse in 3% saltwater and trim byssus threads — Hygienic Prep 🌊",
-                        "text": "When cleaning mussels, avoid plain tap water submersion. 💡 Storage Tip: Rinse briefly in cold 3% saltwater (30g salt per 1L water) and pull off the byssus threads (beards) right before cooking to maintain viability."
-                    },
-                    {
-                        "name": "Steam and freeze with broth for long-term storage — Cooked Frozen Storage (30–60 Days) 🧊",
-                        "text": "Freezing raw mussels degrades their cellular moisture, leaving the meat tough and rubbery. 💡 Storage Tip: Lightly steam or boil fresh mussels, remove meat from shells, and freeze the meat together with strained broth in airtight containers at -18°C (0°F)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why do mussels die quickly and smell fishy when submerged in tap water?",
-                        "answer": "Mussels are marine bivalves. Tap water lacks salinity, causing osmotic shock that bursts their cells (lysis) and kills them. Death triggers autolysis and rapid bacterial growth, generating smelly trimethylamine (TMA)."
-                    },
-                    {
-                        "question": "How can I tell if live mussels are dead or spoiled?",
-                        "answer": "Gently tap shells that are slightly open; live mussels will slowly clamp shut. If a shell stays open after tapping, is broken, or emits a foul odor, the mussel is dead and must be thrown away immediately."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ムール貝（ホン合）を新鮮に保つ保存方法：科学保管ガイド",
-                "description": "公的安全基準に基づくムール貝の最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "国立水産科学院(NIFS) & FDA & USDA",
-                "intro": "新鮮なムール貝を買ってきたのに、冷蔵庫の中で死んでしまい強い生臭さが発生して破棄した経験はありませんか？🦪\n\nムール貝は生きた状態で保存・流通する代表的な濾過摂食（Filter Feeding）二枚貝です。水道水（淡水）に直接浸すと浸透圧ショック（Osmotic Shock）により細胞が破壊（Lysis）されて死滅し、死滅直後から自己融解（Autolysis）と細菌繁殖が急速に進行してトリメチルアミン（TMA）由来の腐敗臭を放ちます。\n\n本記事では、国立水産科学院（NIFS）および米国食品医薬品局（FDA）の公式ガイドラインに基づき、窒息や死滅を防ぎ新鮮さを保つ3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "水道水への浸漬および密閉容器での保存は絶対厳禁です ⚠️",
-                        "desc": "水道水に浸すと浸透圧の差で細胞が破裂し即死します。また、密閉容器に蓋をして保存すると酸素不足で窒息死するため、必ず空気の通る状態で保管してください。"
-                    },
-                    {
-                        "title": "死んだ貝や口の閉じない貝の調理・摂取に注意してください 🛑",
-                        "desc": "死んだムール貝は自己融解によりトリメチルアミン（TMA）悪臭や毒性を発生させ、食中毒菌が増殖します。指で軽く叩いても殻を閉じない貝は死んでいるため、直ちに廃棄してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "濡らしたペーパータオルを被せ通気性のある容器で冷蔵保存する — 生体低温保存 (2〜3日間) 🦪",
-                        "text": "生きたムール貝は低温下で最小限の呼吸を維持させる必要があります。💡保存のコツ：洗っていないムール貝を水切りのあるボウル等に入れ、濡らしたキッチンペーパーを被せて冷蔵庫（1〜4℃）へ。密閉せず空気を循環させます。"
-                    },
-                    {
-                        "name": "塩水で軽く洗浄し足糸（足の毛）を下処理する — 衛生下処理 🌊",
-                        "text": "洗浄時は真水に浸さず海水の塩分濃度（約3%）の冷水を使用します。💡保存のコツ：調理直前に3%の塩水で表面を洗い、殻から出ている足糸（足の毛）を引き抜いて処理してください。"
-                    },
-                    {
-                        "name": "長期保存は加熱して汁ごと冷凍保存する — 加熱冷凍保存 (30〜60日間) 🧊",
-                        "text": "生体のまま冷凍すると解凍後に身が縮み食感が損なわれます。💡保存のコツ：軽く蒸すか茹でて身を取り出し、煮汁と一緒に冷凍用密閉容器に入れて冷凍庫（-18℃以下）で保存すると旨味が保たれます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "ムール貝を水道水に浸すとすぐ死んで臭くなるのはなぜですか？",
-                        "answer": "海水性の二枚貝であるため、塩分のない水道水に入ると浸透圧ショックで細胞が破壊（Lysis）され死滅します。死滅と同時に自己融解（Autolysis）と細菌増殖が始まり、生臭いトリメチルアミン（TMA）腐敗臭が発生します。"
-                    },
-                    {
-                        "question": "ムール貝が生きているか死んでいるかどうやって見分けますか？",
-                        "answer": "殻が少し開いている時に指で軽く叩いてみてください。生きている貝は刺激を受けてゆっくり口を閉じます。叩いても反応がないものや殻が割れているもの、異臭がするものは死滅しているため必ず破棄してください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持贻贝（青口贝/红合）新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解贻贝的最佳储存温度、方式及保鲜时长。",
-                "authority": "韩国国立水产科学院(NIFS) & FDA & USDA",
-                "intro": "您是否遇到过买回来的新鲜活贻贝，放在冰箱里却很快死亡并散发浓烈腥臭味的情况？🦪\n\n贻贝属于活体滤食性（Filter Feeding）双壳贝类。若直接将其浸泡在自来水（淡水）中，会因渗透压休克（Osmotic Shock）导致细胞溶解（Lysis）而死亡；死亡后会迅速发生溶酶自溶（Autolysis）与细菌滋生，释放出刺鼻的三甲胺（TMA）腐败臭味。\n\n本指南基于韩国国立水产科学院（NIFS）及美国FDA的权威指南，为您介绍3步科学保存秘诀，防止贻贝窒息与死亡，长久保持鲜美。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "切勿浸泡在自来水中或使用密封盒储存 ⚠️",
-                        "desc": "将贻贝浸泡在无盐分的自来水中会导致细胞因渗透压破坏而立即死亡。装入密封盒盖紧盖子会因缺氧而窒息死亡，因此必须保持透气。"
-                    },
-                    {
-                        "title": "切勿食用已死亡或无法闭合壳口的贻贝 🛑",
-                        "desc": "死亡的贻贝会因自溶作用产生三甲胺（TMA）腐败臭味和毒素，极易滋生致病菌。轻敲壳面时无法闭合或外壳破损的贻贝代表已经死亡，必须立即丢弃。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "盖上湿纸巾并存放在透气容器中冷藏 — 活体低温保存 (2~3天) 🦪",
-                        "text": "活贻贝需在低温下维持极低限度的呼吸。💡储存小贴士：将未清洗的贻贝装入有孔沥水篮或开口碗中，盖上湿纸巾，放入冰箱（1~4℃）冷藏。切勿密封，保持空气流通可存活2~3天。"
-                    },
-                    {
-                        "name": "用淡盐水冲洗并拔除足丝 — 卫生预处理 🌊",
-                        "text": "烹饪前清洗时，切勿用纯清水浸泡。💡储存小贴士：使用浓度约为3%的冷盐水（1升水加30克盐）轻柔冲洗表面，并在下锅前拔除露出壳外的足丝（胡须）。"
-                    },
-                    {
-                        "name": "长期保存请煮熟后连同汤汁分装冷冻 — 熟制冷冻保存 (30~60天) 🧊",
-                        "text": "直接冷冻生贻贝会导致解冻后水分流失、肉质变韧。💡储存小贴士：将贻贝轻微蒸煮后剥出贝肉，与滤净的煮贝汤汁一同装入密封盒冷冻（-18℃以下），可保鲜1~2个月。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "为什么贻贝泡在自来水里会迅速死亡并产生恶臭？",
-                        "answer": "贻贝属于海水贝类，放入无盐自来水中会发生渗透压休克导致细胞破裂（Lysis）死亡。死亡后酶促自溶（Autolysis）与细菌迅速繁殖，从而产生刺鼻的三甲胺（TMA）腥臭味。"
-                    },
-                    {
-                        "question": "如何判断贻贝是活的还是已经死亡变质？",
-                        "answer": "当贝壳微张时，用手指轻轻敲击壳面，活贻贝受刺激会缓慢闭合。若敲击后无反应、贝壳破损或散发腥臭异味，说明贻贝已死亡变质，必须丢弃。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener los mejillones frescos: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para los mejillones según las directrices oficiales de seguridad.",
-                "authority": "NIFS & FDA & USDA",
-                "intro": "¿Alguna vez compró mejillones vivos y descubrió que morían rápidamente en el refrigerador desprendiendo un fuerte olor a pescado? 🦪\n\nLos mejillones son moluscos bivalvos filtradores que se comercializan vivos. Sumergirlos en agua del grifo (agua dulce) les provoca un choque osmótico que causa lisis celular y su muerte rápida. Tras morir, ocurre una autólisis y proliferación bacteriana que libera trimetilamina (TMA), responsable del hedor a putrefacción.\n\nBasado en directrices del Instituto Nacional de Ciencias Pesqueras (NIFS) y la FDA, esta guía le enseña a conservar los mejillones vivos de forma segura en 3 pasos. 🛡️",
-                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Nunca sumerja en agua del grifo ni selle en recipientes herméticos ⚠️",
-                        "desc": "El agua del grifo causa lisis celular por choque osmótico, matándolos al instante. Cerrarlos herméticamente reduce el oxígeno provocando asfixia. Manténgalos siempre destapados y con aireación."
-                    },
-                    {
-                        "title": "Tenga cuidado con los mejillones muertos o que no se cierren 🛑",
-                        "desc": "Los mejillones muertos sufren autólisis generando olor a TMA y toxinas. Si una concha abierta no se cierra al darle un suave golpecito, el mejillón está muerto y debe desecharse de inmediato."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Cubra con un paño húmedo en un recipiente abierto y refrigere — Conservación en frío (2–3 días) 🦪",
-                        "text": "Los mejillones vivos requieren una respiración mínima a baja temperatura. 💡 Consejo de almacenamiento: Colóquelos sin lavar en un escurridor o bol abierto, cúbralos con papel absorbente húmedo y refrigere (1–4 °C). No selle la tapa."
-                    },
-                    {
-                        "name": "Lave con agua salada al 3% y retire el biso — Limpieza higiénica 🌊",
-                        "text": "Al limpiarlos, evite sumergirlos en agua dulce. 💡 Consejo de almacenamiento: Enjuáguelos brevemente en agua fría con sal al 3% (30 g de sal por litro) y retire el biso (barbas) justo antes de cocinar."
-                    },
-                    {
-                        "name": "Cocine al vapor y congele con su caldo para almacenamiento prolongado — Congelación cocida (30–60 días) 🧊",
-                        "text": "Congelar mejillones crudos destruye su textura dejándolos gomosos. 💡 Consejo de almacenamiento: Cocínelos al vapor brevemente, retire la carne y congélela junto con el caldo colado en recipientes herméticos a -18 °C."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué los mejillones mueren rápido y huelen mal en agua del grifo?",
-                        "answer": "Porque son bivalvos marinos. El agua dulce carece de salinidad, provocando un choque osmótico que rompe sus células (lisis). Al morir se inicia la autólisis y el crecimiento bacteriano que genera trimetilamina (TMA)."
-                    },
-                    {
-                        "question": "¿Cómo saber si los mejillones están vivos o muertos?",
-                        "answer": "Toque suavemente la concha si está ligeramente abierta; si está vivo se cerrará despacio. Si no responde al golpecito, la concha está rota o desprende mal olor, el mejillón está muerto y debe desecharse."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver les moules fraîches : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les moules selon les directives officielles de sécurité.",
-                "authority": "NIFS & FDA & USDA",
-                "intro": "Avez-vous déjà acheté des moules fraîches pour constater qu'elles mouraient rapidement au réfrigérateur en dégageant une odeur de poisson rance ? 🦪\n\nLes moules sont des mollusques bivalves filtreurs vivants. Les immerger dans l'eau du robinet (eau douce) provoque un choc osmotique entraînant la lyse cellulaire et la mort. Dès leur mort, l'autolyse et la prolifération bactérienne libèrent de la triméthylamine (TMA), responsable de mauvaises odeurs.\n\nBasé sur les conseils du NIFS et de la FDA, ce guide en 3 étapes vous explique comment conserver vos moules vivantes en toute sécurité. 🛡️",
-                "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne jamais immerger dans l'eau du robinet ni sceller hermétiquement ⚠️",
-                        "desc": "L'eau du robinet provoque la lyse des cellules par choc osmotique, tuant les moules instantanément. Les sceller dans une boîte étanche entraîne leur asphyxie par manque d'oxygène."
-                    },
-                    {
-                        "title": "Attention aux moules mortes ou à celles qui restent ouvertes 🛑",
-                        "desc": "Les moules mortes subissent une autolyse produisant de la TMA et des bactéries. Si une coquille ouverte ne se referme pas lorsqu'on la tapote, la moule est morte et doit être jetée."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Recouvrir d'un linge humide dans un récipient aéré et réfrigérer — Stockage vivant (2–3 jours) 🦪",
-                        "text": "Les moules vivantes ont besoin d'une respiration minimale au frais. 💡 Astuce de conservation : Placez les moules non lavées dans un égouttoir, recouvrez-les d'un essuie-tout humide et mettez-les au réfrigérateur (1–4 °C) sans fermer le couvercle."
-                    },
-                    {
-                        "name": "Rincer à l'eau salée à 3 % et ôter le byssus — Préparation hygiénique 🌊",
-                        "text": "Évitez toute immersion dans de l'eau douce. 💡 Astuce de conservation : Rincez rapidement dans de l'eau froide salée à 3 % (30 g de sel/L) et retirez le byssus (la barbe) juste avant la cuisson."
-                    },
-                    {
-                        "name": "Cuire à la vapeur et congeler avec le jus pour une longue conservation — Congélation cuite (30–60 jours) 🧊",
-                        "text": "Congeler des moules crues altère leur texture qui devient caoutchouteuse. 💡 Astuce de conservation : Faites-les cuire rapidement, prélevez la chair et congelez-la avec son jus filtré dans une boîte hermétique à -18 °C."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi les moules meurent-elles rapidement dans l'eau du robinet ?",
-                        "answer": "Les moules sont des bivalves marins. L'eau douce crée un choc osmotique qui fait éclater leurs cellules (lyse). Leur mort déclenche l'autolyse et le développement de bactéries sécrétant de la triméthylamine (TMA)."
-                    },
-                    {
-                        "question": "Comment savoir si une moule est vivante ou morte ?",
-                        "answer": "Tapotez doucement la coquille d'une moule entrouverte : si elle est vivante, elle se referme lentement. Si elle reste ouverte, si la coquille est cassée ou sent mauvais, elle est morte et doit être jetée."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Miesmuscheln richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Miesmuscheln basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "NIFS & FDA & USDA",
-                "intro": "Haben Sie schon einmal frische Miesmuscheln gekauft, nur um festzustellen, dass sie im Kühlschrank schnell starben und intensiv nach Fisch rochen? 🦪\n\nMiesmuscheln sind lebende, filtrierende Muscheln. Das Eintauchen in Leitungswasser (Süßwasser) führt zu einem osmotischen Schock, der Zelllysis und schnellen Tod verursacht. Nach dem Absterben setzen Autolyse und Bakterienwachstum ein, die fischiges Trimethylamin (TMA) freisetzen.\n\nBasierend auf offiziellen Richtlinien zeigen wir Ihnen in dieser 3-Schritte-Anleitung, wie Sie Miesmuscheln ohne Erstickung oder Zelltod frisch lagern. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Niemals in Leitungswasser legen oder luftdicht verschließen ⚠️",
-                        "desc": "Leitungswasser zerstört Muschelzellen durch osmotischen Schock sofort. Das Lagern in luftdichten Dosen führt zu Erstickung durch Sauerstoffmangel. Halten Sie Muscheln stets belüftet."
-                    },
-                    {
-                        "title": "Achten Sie auf abgestorbene oder geöffnete Muscheln 🛑",
-                        "desc": "Tote Muscheln unterliegen der Autolyse und bilden TMA-Verbindungen sowie Keime. Schließt sich eine leicht geöffnete Schale beim Antippen nicht, ist die Muschel tot und muss entsorgt werden."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Mit feuchtem Tuch abdecken und belüftet kühlen — Lebendlagerung (2–3 Tage) 🦪",
-                        "text": "Lebende Muscheln benötigen bei kühlen Temperaturen minimale Atmung. 💡 Lagerungstipp: Ungewaschene Muscheln in ein Sieb oder eine offene Schüssel geben, mit feuchtem Küchenpapier abdecken und im Kühlschrank (1–4 °C) aufbewahren."
-                    },
-                    {
-                        "name": "In 3%igem Salzwasser waschen und Byssusfäden entfernen — Hygienische Vorbereitung 🌊",
-                        "text": "Vermeiden Sie klares Süßwasser beim Reinigen. 💡 Lagerungstipp: Kurz in kaltem 3%igem Salzwasser (30 g Salz pro 1 L) abspülen und die Byssusfäden (Bart) erst direkt vor dem Kochen abziehen."
-                    },
-                    {
-                        "name": "Garen und mit Sud einfrieren für Langzeitlagerung — Gefrierlagerung gekocht (30–60 Tage) 🧊",
-                        "text": "Das Einfrieren roher Muscheln macht das Muschelfleisch zäh und zähflüssig. 💡 Lagerungstipp: Muscheln kurz dämpfen, Fleisch herauslösen und zusammen mit dem Sud in luftdichten Dosen bei -18 °C einfrieren."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum sterben Muscheln in Leitungswasser so schnell?",
-                        "answer": "Miesmuscheln sind Meerestiere. Süßwasser entzieht ihnen Salze und bringt Zellen durch osmotischen Schock zum Platzen (Lysis). Nach dem Tod entstehen durch Autolyse unangenehme TMA-Gerüche."
-                    },
-                    {
-                        "question": "Woran erkenne ich, ob Miesmuscheln noch leben?",
-                        "answer": "Klopfen Sie leicht auf eine leicht geöffnete Schale: Lebende Muscheln schließen sich langsam. Bleibt die Schale offen oder riecht sie unangenehm, ist die Muschel tot und muss weg geworfen werden."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar mexilhões frescos: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para mexilhões com base em diretrizes oficiais de segurança.",
-                "authority": "NIFS & FDA & USDA",
-                "intro": "Você já comprou mexilhões frescos e percebeu que eles morreram rapidamente na geladeira soltando um forte cheiro de peixe? 🦪\n\nOs mexilhões são moluscos bivalves filtradores vivos. Submergi-los em água da torneira (água doce) causa um choque osmótico que leva à lise celular e morte rápida. Após a morte, ocorre autólise e proliferação bacteriana, liberando trimetilamina (TMA), responsável pelo mau cheiro.\n\nCom base em diretrizes do NIFS e da FDA, este guia em 3 etapas mostra como armazenar mexilhões vivos em segurança sem sufocamento ou morte osmótica. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca mergulhe em água da torneira nem sele em potes herméticos ⚠️",
-                        "desc": "A água doce causa choque osmótico e destrói as células do mexilhão imediatamente. Fechar o recipiente hermeticamente reduz o oxigênio e causa sufocamento. Deixe-os sempre arejados."
-                    },
-                    {
-                        "title": "Cuidado com mexilhões mortos ou que não fecham a concha 🛑",
-                        "desc": "Mexilhões mortos sofrem autólise, gerando cheiro de TMA e bactérias. Se a concha estiver aberta e não fechar com um leve toque, o mexilhão está morto e deve ser descartado."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Cubra com papel-toalha úmido em pote arejado e refrigere — Conservação viva (2–3 dias) 🦪",
-                        "text": "Mexilhões vivos precisam manter uma respiração mínima no frio. 💡 Dica de conservação: Coloque os mexilhões sem lavar em um escorredor ou tigela aberta, cubra com papel-toalha úmido e guarde na geladeira (1–4 °C)."
-                    },
-                    {
-                        "name": "Lave em água salgada a 3% e remova o bisso — Limpeza higiênica 🌊",
-                        "text": "Ao limpar, evite submergir em água doce. 💡 Dica de conservação: Lave rapidamente em água fria com 3% de sal (30 g por litro) e puxe o bisso (barba) apenas imediatamente antes do cozimento."
-                    },
-                    {
-                        "name": "Cozinhe no vapor e congele com o caldo para longa conservação — Congelamento cozido (30–60 dias) 🧊",
-                        "text": "Congelar mexilhões crus destrói a textura do alimento, deixando-o borrachudo. 💡 Dica de conservação: Cozinhe rapidamente no vapor, retire o miolo e congele junto com o caldo num pote hermético a -18 °C."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Por que os mexilhões morrem rápido na água da torneira?",
-                        "answer": "Porque são bivalves marinhos. A água doce provoca choque osmótico, fazendo as células se romperem (lise). A morte desencadeia autólise e proliferação de bactérias que produzem trimetilamina (TMA)."
-                    },
-                    {
-                        "question": "Como saber se o mexilhão está vivo ou morto?",
-                        "answer": "Bata levemente na concha se ela estiver um pouco aberta: se estiver vivo, ele se fechará devagar. Se não fechar, estiver quebrado ou com cheiro forte, o mexilhão está morto e deve ser jogado fora."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Kerang Hijau / Mussels agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk kerang berdasarkan pedoman keselamatan resmi.",
-                "authority": "NIFS & FDA & USDA",
-                "intro": "Pernahkah Anda membeli kerang segar lalu mendapatinya cepat mati di kulkas dan mengeluarkan bau amis yang menyengat? 🦪\n\nKerang hijau (mussels) adalah hewan bivalvia penyaring yang dijual dalam keadaan hidup. Merendamnya dalam air keran (air tawar) menyebabkan syok osmotik yang memicu lisis sel dan kematian mendadak. Begitu mati, proses autolisis dan bakteriasi akan menghasilkan bau pembusukan trimetilamina (TMA).\n\nBerdasarkan panduan resmi NIFS dan FDA, panduan 3 langkah ini menjelaskan metode penyimpanan ilmiah agar kerang tetap hidup segar tanpa mati lemas. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan pernah merendam di air keran atau menutup rapat dalam wadah kedap udara ⚠️",
-                        "desc": "Merendam kerang di air tawar merusak sel akibat syok osmotik hingga mati seketika. Menutup rapat wadah akan membuat kerang mati lemas karena kekurangan oksigen. Pastikan wadah memiliki sirkulasi udara."
-                    },
-                    {
-                        "title": "Waspadai kerang yang sudah mati atau tidak menutup 🛑",
-                        "desc": "Kerang yang mati mengalami autolisis yang menghasilkan racun, bau busuk TMA, dan kuman. Jika cangkang yang terbuka tidak menutup saat diketuk perlahan, kerang sudah mati dan harus segera dibuang."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Tutup dengan tisu dapur basah di wadah terbuka lalu simpan di kulkas — Simpan Hidup Dingin (2–3 Hari) 🦪",
-                        "text": "Kerang hidup membutuhkan respirasi minimal pada suhu rendah. 💡 Tips Penyimpanan: Letakkan kerang belum dicuci di wadah terbuka/baskom berlubang, tutup dengan tisu dapur basah, lalu masukkan ke kulkas (1–4°C)."
-                    },
-                    {
-                        "name": "Bilas dengan air garam 3% dan bersihkan serabut byssus — Pembersihan Higienis 🌊",
-                        "text": "Saat membersihkan, hindari merendam di air tawar. 💡 Tips Penyimpanan: Bilas sebentar dengan air garam 3% (30gr garam per 1L air) dan cabut serabut byssus (jenggot) tepat sebelum dimasak."
-                    },
-                    {
-                        "name": "Kukus dan bekukan bersama air kaldu untuk penyimpanan jangka panjang — Beku Matang (30–60 Hari) 🧊",
-                        "text": "Membekukan kerang mentah merusak tekstur dagingnya menjadi alot. 💡 Tips Penyimpanan: Kukus kerang sebentar, ambil dagingnya, lalu bekukan daging bersama kaldu rebusannya di wadah kedap udara (-18°C)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa kerang cepat mati dan berbau amis saat direndam air keran?",
-                        "answer": "Kerang adalah hewan laut. Air tawar tidak memiliki kadar garam sehingga memicu syok osmotik yang memecahkan sel (lisis). Kematian memicu autolisis dan bakteri yang menghasilkan senyawa amis trimetilamina (TMA)."
-                    },
-                    {
-                        "question": "Bagaimana cara mengetahui apakah kerang masih hidup atau sudah mati?",
-                        "answer": "Ketuk pelan cangkang yang sedikit terbuka; kerang hidup akan menutup perlahan. Jika tidak merespons, cangkangnya retak, atau berbau busuk menyengat, kerang sudah mati dan harus dibuang."
-                    }
-                ]
-            }
-        }
+  "how-to-store-mussel": {
+    "ingId": "mussel",
+    "pubDate": "2026-02-23",
+    "updatedDate": "2026-02-23",
+    "heroImage": "/images/blog/mussel_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "홍합 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 홍합의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "국립수산과학원(NIFS) & 미국 식품의약국(FDA) & USDA",
+        "intro": "싱싱한 생물 홍합을 사 왔다가 냉장고 안에서 금방 죽어 비린내가 진동하고 전부 버렸던 경험 있으시죠? 🦪\n\n홍합은 살아있는 상태로 보관해야 하는 대표적인 여과 섭식(Filter Feeding) 패류입니다. 수돗물(담수)에 직접 담그면 삼투압 쇼크(Osmotic Shock)로 인해 세포가 용해(Lysis)되어 사멸하며, 폐사 직후 자가 융해(Autolysis)와 세균 증식이 빠르게 일어나 트리메틸아민(TMA) 부패 악취를 유발합니다.\n\n이번 가이드에서는 국립수산과학원(NIFS)과 미국 식품의약국(FDA)의 공인 가이드라인을 바탕으로, 홍합을 질식이나 삼투압 폐사 없이 신선하게 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "수돗물(담수) 침수 및 밀폐 용기 보관 금지 ⚠️",
+            "desc": "홍합을 염분이 없는 수돗물에 담그면 삼투압 차이로 세포가 파괴되어 즉시 폐사합니다. 또한 밀폐 용기에 뚜껑을 닫아 보관하면 산소 결핍으로 질식사하므로 반드시 통풍이 되는 상태를 유지해야 합니다."
+          },
+          {
+            "title": "폐사한 홍합 및 입을 닫지 않는 홍합 섭취 주의 🛑",
+            "desc": "폐사한 홍합은 자가 융해 작용으로 트리메틸아민(TMA) 부패 악취와 독소를 생성하고 식중독균이 증식합니다. 껍데기를 가볍게 두드렸을 때 입을 닫지 않거나 깨진 홍합은 이미 폐사한 상태이므로 즉시 버려야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "젖은 키친타월을 덮어 통풍 용기에 냉장 보관하기 — 생물 저온 보관 (2~3일) 🦪",
+            "text": "살아있는 홍합은 저온에서 최소한의 자가 호흡을 유지시켜야 합니다. 💡 보관 팁: 씻지 않은 홍합을 구멍 뚫린 바구니나 오목한 그릇에 담고 젖은 키친타월이나 젖은 천을 덮어 냉장고(1~4℃)에 넣으세요. 뚜껑을 밀폐하지 말고 공기가 통하게 보관해야 2~3일간 생존합니다."
+          },
+          {
+            "name": "해수 농도 염수로 세척 및 족사 손질하기 — 위생 손질 🌊",
+            "text": "조리 직전 세척 시에는 맹수가 아닌 해수 농도의 염수를 사용해야 합니다. 💡 보관 팁: 찬물 1L에 소금 약 30g(3%)을 녹인 염수로 겉면을 가볍게 씻고, 껍데기 밖으로 삐져나온 족사(수염)는 조리 직전에 잡아당겨 제거하세요."
+          },
+          {
+            "name": "장기 보관 시 가열하여 삶은 뒤 국물과 함께 냉동하기 — 익힘 냉동 보관 (30~60일) 🧊",
+            "text": "생물 홍합을 그대로 냉동하면 해동 후 과육의 수분이 빠져나가 조직이 질겨집니다. 💡 보관 팁: 홍합을 가볍게 삶아낸 뒤 알맹이만 발라내어 식힌 육수와 함께 밀폐 용기에 담아 냉동(-18℃ 이하) 보관하면 1~2달간 맛과 영양이 보존됩니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "홍합을 수돗물에 담그면 왜 금방 죽고 비린내가 나나요?",
+            "answer": "홍합은 해수 패류이므로 염분이 없는 수돗물에 들어가면 삼투압 쇼크로 세포가 파괴(Lysis)되어 사멸합니다. 사멸 즉시 효소에 의한 자가 융해(Autolysis)와 세균 증식이 시작되어 비린 트리메틸아민(TMA) 부패 악취가 발생합니다."
+          },
+          {
+            "question": "홍합이 살았는지 죽었는지 어떻게 구분하나요?",
+            "answer": "껍데기가 살짝 열려있을 때 손가락으로 톡톡 두드려보세요. 살아있는 홍합은 자극을 받아 천천히 입을 다뭅니다. 두드려도 반응이 없거나 껍데기가 깨진 것, 구린 악취가 나는 것은 사멸하여 부패가 진행된 것이므로 반드시 폐기해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Mussels Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for mussels based on official safety guidelines.",
+        "authority": "NIFS & FDA & USDA",
+        "intro": "Have you ever bought fresh live mussels, only to find them dead and emitting a harsh fishy odor inside your fridge? 🦪\n\nMussels are live filter-feeding bivalves. Submerging them directly in tap water (freshwater) causes osmotic shock, leading to cell lysis and rapid death. Immediately upon dying, autolysis and bacterial proliferation occur, releasing unpleasant trimethylamine (TMA) rot odors.\n\nBased on official guidelines from the National Institute of Fisheries Science (NIFS) and the US FDA, this 3-step scientific storage guide demonstrates how to store live mussels safely without suffocation or osmotic death. 🛡️",
+        "whyTitle": "Why Store Mussels This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never submerge in tap water or seal in airtight containers ⚠️",
+            "desc": "Submerging mussels in un-salted tap water causes cell lysis from osmotic shock, killing them instantly. Sealing them in airtight containers cuts off oxygen, causing suffocation. Always keep them unsealed and breathable."
+          },
+          {
+            "title": "Beware of dead mussels and those that fail to close 🛑",
+            "desc": "Dead mussels undergo autolysis, producing toxic compounds, TMA foul odors, and rapid bacterial growth. If an open shell does not close when tapped gently, the mussel is dead and must be discarded immediately."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Cover with a damp paper towel in a breathable container — Live Cold Storage (2–3 Days) 🦪",
+            "text": "Live mussels must maintain minimal respiration at low temperatures. 💡 Storage Tip: Place unwashed mussels in a colander or open bowl, cover with a damp paper towel or cloth, and refrigerate (1–4°C / 34–39°F). Do not seal with a lid so oxygen can circulate."
+          },
+          {
+            "name": "Rinse in 3% saltwater and trim byssus threads — Hygienic Prep 🌊",
+            "text": "When cleaning mussels, avoid plain tap water submersion. 💡 Storage Tip: Rinse briefly in cold 3% saltwater (30g salt per 1L water) and pull off the byssus threads (beards) right before cooking to maintain viability."
+          },
+          {
+            "name": "Steam and freeze with broth for long-term storage — Cooked Frozen Storage (30–60 Days) 🧊",
+            "text": "Freezing raw mussels degrades their cellular moisture, leaving the meat tough and rubbery. 💡 Storage Tip: Lightly steam or boil fresh mussels, remove meat from shells, and freeze the meat together with strained broth in airtight containers at -18°C (0°F)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why do mussels die quickly and smell fishy when submerged in tap water?",
+            "answer": "Mussels are marine bivalves. Tap water lacks salinity, causing osmotic shock that bursts their cells (lysis) and kills them. Death triggers autolysis and rapid bacterial growth, generating smelly trimethylamine (TMA)."
+          },
+          {
+            "question": "How can I tell if live mussels are dead or spoiled?",
+            "answer": "Gently tap shells that are slightly open; live mussels will slowly clamp shut. If a shell stays open after tapping, is broken, or emits a foul odor, the mussel is dead and must be thrown away immediately."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ムール貝（ホン合）を新鮮に保つ保存方法：科学保管ガイド",
+        "description": "公的安全基準に基づくムール貝の最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "国立水産科学院(NIFS) & FDA & USDA",
+        "intro": "新鮮なムール貝を買ってきたのに、冷蔵庫の中で死んでしまい強い生臭さが発生して破棄した経験はありませんか？🦪\n\nムール貝は生きた状態で保存・流通する代表的な濾過摂食（Filter Feeding）二枚貝です。水道水（淡水）に直接浸すと浸透圧ショック（Osmotic Shock）により細胞が破壊（Lysis）されて死滅し、死滅直後から自己融解（Autolysis）と細菌繁殖が急速に進行してトリメチルアミン（TMA）由来の腐敗臭を放ちます。\n\n本記事では、国立水産科学院（NIFS）および米国食品医薬品局（FDA）の公式ガイドラインに基づき、窒息や死滅を防ぎ新鮮さを保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "水道水への浸漬および密閉容器での保存は絶対厳禁です ⚠️",
+            "desc": "水道水に浸すと浸透圧の差で細胞が破裂し即死します。また、密閉容器に蓋をして保存すると酸素不足で窒息死するため、必ず空気の通る状態で保管してください。"
+          },
+          {
+            "title": "死んだ貝や口の閉じない貝の調理・摂取に注意してください 🛑",
+            "desc": "死んだムール貝は自己融解によりトリメチルアミン（TMA）悪臭や毒性を発生させ、食中毒菌が増殖します。指で軽く叩いても殻を閉じない貝は死んでいるため、直ちに廃棄してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "濡らしたペーパータオルを被せ通気性のある容器で冷蔵保存する — 生体低温保存 (2〜3日間) 🦪",
+            "text": "生きたムール貝は低温下で最小限の呼吸を維持させる必要があります。💡保存のコツ：洗っていないムール貝を水切りのあるボウル等に入れ、濡らしたキッチンペーパーを被せて冷蔵庫（1〜4℃）へ。密閉せず空気を循環させます。"
+          },
+          {
+            "name": "塩水で軽く洗浄し足糸（足の毛）を下処理する — 衛生下処理 🌊",
+            "text": "洗浄時は真水に浸さず海水の塩分濃度（約3%）の冷水を使用します。💡保存のコツ：調理直前に3%の塩水で表面を洗い、殻から出ている足糸（足の毛）を引き抜いて処理してください。"
+          },
+          {
+            "name": "長期保存は加熱して汁ごと冷凍保存する — 加熱冷凍保存 (30〜60日間) 🧊",
+            "text": "生体のまま冷凍すると解凍後に身が縮み食感が損なわれます。💡保存のコツ：軽く蒸すか茹でて身を取り出し、煮汁と一緒に冷凍用密閉容器に入れて冷凍庫（-18℃以下）で保存すると旨味が保たれます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ムール貝を水道水に浸すとすぐ死んで臭くなるのはなぜですか？",
+            "answer": "海水性の二枚貝であるため、塩分のない水道水に入ると浸透圧ショックで細胞が破壊（Lysis）され死滅します。死滅と同時に自己融解（Autolysis）と細菌増殖が始まり、生臭いトリメチルアミン（TMA）腐敗臭が発生します。"
+          },
+          {
+            "question": "ムール貝が生きているか死んでいるかどうやって見分けますか？",
+            "answer": "殻が少し開いている時に指で軽く叩いてみてください。生きている貝は刺激を受けてゆっくり口を閉じます。叩いても反応がないものや殻が割れているもの、異臭がするものは死滅しているため必ず破棄してください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持贻贝（青口贝/红合）新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解贻贝的最佳储存温度、方式及保鲜时长。",
+        "authority": "韩国国立水产科学院(NIFS) & FDA & USDA",
+        "intro": "您是否遇到过买回来的新鲜活贻贝，放在冰箱里却很快死亡并散发浓烈腥臭味的情况？🦪\n\n贻贝属于活体滤食性（Filter Feeding）双壳贝类。若直接将其浸泡在自来水（淡水）中，会因渗透压休克（Osmotic Shock）导致细胞溶解（Lysis）而死亡；死亡后会迅速发生溶酶自溶（Autolysis）与细菌滋生，释放出刺鼻的三甲胺（TMA）腐败臭味。\n\n本指南基于韩国国立水产科学院（NIFS）及美国FDA的权威指南，为您介绍3步科学保存秘诀，防止贻贝窒息与死亡，长久保持鲜美。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "切勿浸泡在自来水中或使用密封盒储存 ⚠️",
+            "desc": "将贻贝浸泡在无盐分的自来水中会导致细胞因渗透压破坏而立即死亡。装入密封盒盖紧盖子会因缺氧而窒息死亡，因此必须保持透气。"
+          },
+          {
+            "title": "切勿食用已死亡或无法闭合壳口的贻贝 🛑",
+            "desc": "死亡的贻贝会因自溶作用产生三甲胺（TMA）腐败臭味和毒素，极易滋生致病菌。轻敲壳面时无法闭合或外壳破损的贻贝代表已经死亡，必须立即丢弃。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "盖上湿纸巾并存放在透气容器中冷藏 — 活体低温保存 (2~3天) 🦪",
+            "text": "活贻贝需在低温下维持极低限度的呼吸。💡储存小贴士：将未清洗的贻贝装入有孔沥水篮或开口碗中，盖上湿纸巾，放入冰箱（1~4℃）冷藏。切勿密封，保持空气流通可存活2~3天。"
+          },
+          {
+            "name": "用淡盐水冲洗并拔除足丝 — 卫生预处理 🌊",
+            "text": "烹饪前清洗时，切勿用纯清水浸泡。💡储存小贴士：使用浓度约为3%的冷盐水（1升水加30克盐）轻柔冲洗表面，并在下锅前拔除露出壳外的足丝（胡须）。"
+          },
+          {
+            "name": "长期保存请煮熟后连同汤汁分装冷冻 — 熟制冷冻保存 (30~60天) 🧊",
+            "text": "直接冷冻生贻贝会导致解冻后水分流失、肉质变韧。💡储存小贴士：将贻贝轻微蒸煮后剥出贝肉，与滤净的煮贝汤汁一同装入密封盒冷冻（-18℃以下），可保鲜1~2个月。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "为什么贻贝泡在自来水里会迅速死亡并产生恶臭？",
+            "answer": "贻贝属于海水贝类，放入无盐自来水中会发生渗透压休克导致细胞破裂（Lysis）死亡。死亡后酶促自溶（Autolysis）与细菌迅速繁殖，从而产生刺鼻的三甲胺（TMA）腥臭味。"
+          },
+          {
+            "question": "如何判断贻贝是活的还是已经死亡变质？",
+            "answer": "当贝壳微张时，用手指轻轻敲击壳面，活贻贝受刺激会缓慢闭合。若敲击后无反应、贝壳破损或散发腥臭异味，说明贻贝已死亡变质，必须丢弃。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener los mejillones frescos: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para los mejillones según las directrices oficiales de seguridad.",
+        "authority": "NIFS & FDA & USDA",
+        "intro": "¿Alguna vez compró mejillones vivos y descubrió que morían rápidamente en el refrigerador desprendiendo un fuerte olor a pescado? 🦪\n\nLos mejillones son moluscos bivalvos filtradores que se comercializan vivos. Sumergirlos en agua del grifo (agua dulce) les provoca un choque osmótico que causa lisis celular y su muerte rápida. Tras morir, ocurre una autólisis y proliferación bacteriana que libera trimetilamina (TMA), responsable del hedor a putrefacción.\n\nBasado en directrices del Instituto Nacional de Ciencias Pesqueras (NIFS) y la FDA, esta guía le enseña a conservar los mejillones vivos de forma segura en 3 pasos. 🛡️",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Nunca sumerja en agua del grifo ni selle en recipientes herméticos ⚠️",
+            "desc": "El agua del grifo causa lisis celular por choque osmótico, matándolos al instante. Cerrarlos herméticamente reduce el oxígeno provocando asfixia. Manténgalos siempre destapados y con aireación."
+          },
+          {
+            "title": "Tenga cuidado con los mejillones muertos o que no se cierren 🛑",
+            "desc": "Los mejillones muertos sufren autólisis generando olor a TMA y toxinas. Si una concha abierta no se cierra al darle un suave golpecito, el mejillón está muerto y debe desecharse de inmediato."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Cubra con un paño húmedo en un recipiente abierto y refrigere — Conservación en frío (2–3 días) 🦪",
+            "text": "Los mejillones vivos requieren una respiración mínima a baja temperatura. 💡 Consejo de almacenamiento: Colóquelos sin lavar en un escurridor o bol abierto, cúbralos con papel absorbente húmedo y refrigere (1–4 °C). No selle la tapa."
+          },
+          {
+            "name": "Lave con agua salada al 3% y retire el biso — Limpieza higiénica 🌊",
+            "text": "Al limpiarlos, evite sumergirlos en agua dulce. 💡 Consejo de almacenamiento: Enjuáguelos brevemente en agua fría con sal al 3% (30 g de sal por litro) y retire el biso (barbas) justo antes de cocinar."
+          },
+          {
+            "name": "Cocine al vapor y congele con su caldo para almacenamiento prolongado — Congelación cocida (30–60 días) 🧊",
+            "text": "Congelar mejillones crudos destruye su textura dejándolos gomosos. 💡 Consejo de almacenamiento: Cocínelos al vapor brevemente, retire la carne y congélela junto con el caldo colado en recipientes herméticos a -18 °C."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué los mejillones mueren rápido y huelen mal en agua del grifo?",
+            "answer": "Porque son bivalvos marinos. El agua dulce carece de salinidad, provocando un choque osmótico que rompe sus células (lisis). Al morir se inicia la autólisis y el crecimiento bacteriano que genera trimetilamina (TMA)."
+          },
+          {
+            "question": "¿Cómo saber si los mejillones están vivos o muertos?",
+            "answer": "Toque suavemente la concha si está ligeramente abierta; si está vivo se cerrará despacio. Si no responde al golpecito, la concha está rota o desprende mal olor, el mejillón está muerto y debe desecharse."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver les moules fraîches : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les moules selon les directives officielles de sécurité.",
+        "authority": "NIFS & FDA & USDA",
+        "intro": "Avez-vous déjà acheté des moules fraîches pour constater qu'elles mouraient rapidement au réfrigérateur en dégageant une odeur de poisson rance ? 🦪\n\nLes moules sont des mollusques bivalves filtreurs vivants. Les immerger dans l'eau du robinet (eau douce) provoque un choc osmotique entraînant la lyse cellulaire et la mort. Dès leur mort, l'autolyse et la prolifération bactérienne libèrent de la triméthylamine (TMA), responsable de mauvaises odeurs.\n\nBasé sur les conseils du NIFS et de la FDA, ce guide en 3 étapes vous explique comment conserver vos moules vivantes en toute sécurité. 🛡️",
+        "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne jamais immerger dans l'eau du robinet ni sceller hermétiquement ⚠️",
+            "desc": "L'eau du robinet provoque la lyse des cellules par choc osmotique, tuant les moules instantanément. Les sceller dans une boîte étanche entraîne leur asphyxie par manque d'oxygène."
+          },
+          {
+            "title": "Attention aux moules mortes ou à celles qui restent ouvertes 🛑",
+            "desc": "Les moules mortes subissent une autolyse produisant de la TMA et des bactéries. Si une coquille ouverte ne se referme pas lorsqu'on la tapote, la moule est morte et doit être jetée."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Recouvrir d'un linge humide dans un récipient aéré et réfrigérer — Stockage vivant (2–3 jours) 🦪",
+            "text": "Les moules vivantes ont besoin d'une respiration minimale au frais. 💡 Astuce de conservation : Placez les moules non lavées dans un égouttoir, recouvrez-les d'un essuie-tout humide et mettez-les au réfrigérateur (1–4 °C) sans fermer le couvercle."
+          },
+          {
+            "name": "Rincer à l'eau salée à 3 % et ôter le byssus — Préparation hygiénique 🌊",
+            "text": "Évitez toute immersion dans de l'eau douce. 💡 Astuce de conservation : Rincez rapidement dans de l'eau froide salée à 3 % (30 g de sel/L) et retirez le byssus (la barbe) juste avant la cuisson."
+          },
+          {
+            "name": "Cuire à la vapeur et congeler avec le jus pour une longue conservation — Congélation cuite (30–60 jours) 🧊",
+            "text": "Congeler des moules crues altère leur texture qui devient caoutchouteuse. 💡 Astuce de conservation : Faites-les cuire rapidement, prélevez la chair et congelez-la avec son jus filtré dans une boîte hermétique à -18 °C."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi les moules meurent-elles rapidement dans l'eau du robinet ?",
+            "answer": "Les moules sont des bivalves marins. L'eau douce crée un choc osmotique qui fait éclater leurs cellules (lyse). Leur mort déclenche l'autolyse et le développement de bactéries sécrétant de la triméthylamine (TMA)."
+          },
+          {
+            "question": "Comment savoir si une moule est vivante ou morte ?",
+            "answer": "Tapotez doucement la coquille d'une moule entrouverte : si elle est vivante, elle se referme lentement. Si elle reste ouverte, si la coquille est cassée ou sent mauvais, elle est morte et doit être jetée."
+          }
+        ]
+      },
+      "de": {
+        "title": "Miesmuscheln richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Miesmuscheln basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "NIFS & FDA & USDA",
+        "intro": "Haben Sie schon einmal frische Miesmuscheln gekauft, nur um festzustellen, dass sie im Kühlschrank schnell starben und intensiv nach Fisch rochen? 🦪\n\nMiesmuscheln sind lebende, filtrierende Muscheln. Das Eintauchen in Leitungswasser (Süßwasser) führt zu einem osmotischen Schock, der Zelllysis und schnellen Tod verursacht. Nach dem Absterben setzen Autolyse und Bakterienwachstum ein, die fischiges Trimethylamin (TMA) freisetzen.\n\nBasierend auf offiziellen Richtlinien zeigen wir Ihnen in dieser 3-Schritte-Anleitung, wie Sie Miesmuscheln ohne Erstickung oder Zelltod frisch lagern. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Niemals in Leitungswasser legen oder luftdicht verschließen ⚠️",
+            "desc": "Leitungswasser zerstört Muschelzellen durch osmotischen Schock sofort. Das Lagern in luftdichten Dosen führt zu Erstickung durch Sauerstoffmangel. Halten Sie Muscheln stets belüftet."
+          },
+          {
+            "title": "Achten Sie auf abgestorbene oder geöffnete Muscheln 🛑",
+            "desc": "Tote Muscheln unterliegen der Autolyse und bilden TMA-Verbindungen sowie Keime. Schließt sich eine leicht geöffnete Schale beim Antippen nicht, ist die Muschel tot und muss entsorgt werden."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Mit feuchtem Tuch abdecken und belüftet kühlen — Lebendlagerung (2–3 Tage) 🦪",
+            "text": "Lebende Muscheln benötigen bei kühlen Temperaturen minimale Atmung. 💡 Lagerungstipp: Ungewaschene Muscheln in ein Sieb oder eine offene Schüssel geben, mit feuchtem Küchenpapier abdecken und im Kühlschrank (1–4 °C) aufbewahren."
+          },
+          {
+            "name": "In 3%igem Salzwasser waschen und Byssusfäden entfernen — Hygienische Vorbereitung 🌊",
+            "text": "Vermeiden Sie klares Süßwasser beim Reinigen. 💡 Lagerungstipp: Kurz in kaltem 3%igem Salzwasser (30 g Salz pro 1 L) abspülen und die Byssusfäden (Bart) erst direkt vor dem Kochen abziehen."
+          },
+          {
+            "name": "Garen und mit Sud einfrieren für Langzeitlagerung — Gefrierlagerung gekocht (30–60 Tage) 🧊",
+            "text": "Das Einfrieren roher Muscheln macht das Muschelfleisch zäh und zähflüssig. 💡 Lagerungstipp: Muscheln kurz dämpfen, Fleisch herauslösen und zusammen mit dem Sud in luftdichten Dosen bei -18 °C einfrieren."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum sterben Muscheln in Leitungswasser so schnell?",
+            "answer": "Miesmuscheln sind Meerestiere. Süßwasser entzieht ihnen Salze und bringt Zellen durch osmotischen Schock zum Platzen (Lysis). Nach dem Tod entstehen durch Autolyse unangenehme TMA-Gerüche."
+          },
+          {
+            "question": "Woran erkenne ich, ob Miesmuscheln noch leben?",
+            "answer": "Klopfen Sie leicht auf eine leicht geöffnete Schale: Lebende Muscheln schließen sich langsam. Bleibt die Schale offen oder riecht sie unangenehm, ist die Muschel tot und muss weg geworfen werden."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar mexilhões frescos: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para mexilhões com base em diretrizes oficiais de segurança.",
+        "authority": "NIFS & FDA & USDA",
+        "intro": "Você já comprou mexilhões frescos e percebeu que eles morreram rapidamente na geladeira soltando um forte cheiro de peixe? 🦪\n\nOs mexilhões são moluscos bivalves filtradores vivos. Submergi-los em água da torneira (água doce) causa um choque osmótico que leva à lise celular e morte rápida. Após a morte, ocorre autólise e proliferação bacteriana, liberando trimetilamina (TMA), responsável pelo mau cheiro.\n\nCom base em diretrizes do NIFS e da FDA, este guia em 3 etapas mostra como armazenar mexilhões vivos em segurança sem sufocamento ou morte osmótica. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca mergulhe em água da torneira nem sele em potes herméticos ⚠️",
+            "desc": "A água doce causa choque osmótico e destrói as células do mexilhão imediatamente. Fechar o recipiente hermeticamente reduz o oxigênio e causa sufocamento. Deixe-os sempre arejados."
+          },
+          {
+            "title": "Cuidado com mexilhões mortos ou que não fecham a concha 🛑",
+            "desc": "Mexilhões mortos sofrem autólise, gerando cheiro de TMA e bactérias. Se a concha estiver aberta e não fechar com um leve toque, o mexilhão está morto e deve ser descartado."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Cubra com papel-toalha úmido em pote arejado e refrigere — Conservação viva (2–3 dias) 🦪",
+            "text": "Mexilhões vivos precisam manter uma respiração mínima no frio. 💡 Dica de conservação: Coloque os mexilhões sem lavar em um escorredor ou tigela aberta, cubra com papel-toalha úmido e guarde na geladeira (1–4 °C)."
+          },
+          {
+            "name": "Lave em água salgada a 3% e remova o bisso — Limpeza higiênica 🌊",
+            "text": "Ao limpar, evite submergir em água doce. 💡 Dica de conservação: Lave rapidamente em água fria com 3% de sal (30 g por litro) e puxe o bisso (barba) apenas imediatamente antes do cozimento."
+          },
+          {
+            "name": "Cozinhe no vapor e congele com o caldo para longa conservação — Congelamento cozido (30–60 dias) 🧊",
+            "text": "Congelar mexilhões crus destrói a textura do alimento, deixando-o borrachudo. 💡 Dica de conservação: Cozinhe rapidamente no vapor, retire o miolo e congele junto com o caldo num pote hermético a -18 °C."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que os mexilhões morrem rápido na água da torneira?",
+            "answer": "Porque são bivalves marinhos. A água doce provoca choque osmótico, fazendo as células se romperem (lise). A morte desencadeia autólise e proliferação de bactérias que produzem trimetilamina (TMA)."
+          },
+          {
+            "question": "Como saber se o mexilhão está vivo ou morto?",
+            "answer": "Bata levemente na concha se ela estiver um pouco aberta: se estiver vivo, ele se fechará devagar. Se não fechar, estiver quebrado ou com cheiro forte, o mexilhão está morto e deve ser jogado fora."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Kerang Hijau / Mussels agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk kerang berdasarkan pedoman keselamatan resmi.",
+        "authority": "NIFS & FDA & USDA",
+        "intro": "Pernahkah Anda membeli kerang segar lalu mendapatinya cepat mati di kulkas dan mengeluarkan bau amis yang menyengat? 🦪\n\nKerang hijau (mussels) adalah hewan bivalvia penyaring yang dijual dalam keadaan hidup. Merendamnya dalam air keran (air tawar) menyebabkan syok osmotik yang memicu lisis sel dan kematian mendadak. Begitu mati, proses autolisis dan bakteriasi akan menghasilkan bau pembusukan trimetilamina (TMA).\n\nBerdasarkan panduan resmi NIFS dan FDA, panduan 3 langkah ini menjelaskan metode penyimpanan ilmiah agar kerang tetap hidup segar tanpa mati lemas. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan pernah merendam di air keran atau menutup rapat dalam wadah kedap udara ⚠️",
+            "desc": "Merendam kerang di air tawar merusak sel akibat syok osmotik hingga mati seketika. Menutup rapat wadah akan membuat kerang mati lemas karena kekurangan oksigen. Pastikan wadah memiliki sirkulasi udara."
+          },
+          {
+            "title": "Waspadai kerang yang sudah mati atau tidak menutup 🛑",
+            "desc": "Kerang yang mati mengalami autolisis yang menghasilkan racun, bau busuk TMA, dan kuman. Jika cangkang yang terbuka tidak menutup saat diketuk perlahan, kerang sudah mati dan harus segera dibuang."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Tutup dengan tisu dapur basah di wadah terbuka lalu simpan di kulkas — Simpan Hidup Dingin (2–3 Hari) 🦪",
+            "text": "Kerang hidup membutuhkan respirasi minimal pada suhu rendah. 💡 Tips Penyimpanan: Letakkan kerang belum dicuci di wadah terbuka/baskom berlubang, tutup dengan tisu dapur basah, lalu masukkan ke kulkas (1–4°C)."
+          },
+          {
+            "name": "Bilas dengan air garam 3% dan bersihkan serabut byssus — Pembersihan Higienis 🌊",
+            "text": "Saat membersihkan, hindari merendam di air tawar. 💡 Tips Penyimpanan: Bilas sebentar dengan air garam 3% (30gr garam per 1L air) dan cabut serabut byssus (jenggot) tepat sebelum dimasak."
+          },
+          {
+            "name": "Kukus dan bekukan bersama air kaldu untuk penyimpanan jangka panjang — Beku Matang (30–60 Hari) 🧊",
+            "text": "Membekukan kerang mentah merusak tekstur dagingnya menjadi alot. 💡 Tips Penyimpanan: Kukus kerang sebentar, ambil dagingnya, lalu bekukan daging bersama kaldu rebusannya di wadah kedap udara (-18°C)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa kerang cepat mati dan berbau amis saat direndam air keran?",
+            "answer": "Kerang adalah hewan laut. Air tawar tidak memiliki kadar garam sehingga memicu syok osmotik yang memecahkan sel (lisis). Kematian memicu autolisis dan bakteri yang menghasilkan senyawa amis trimetilamina (TMA)."
+          },
+          {
+            "question": "Bagaimana cara mengetahui apakah kerang masih hidup atau sudah mati?",
+            "answer": "Ketuk pelan cangkang yang sedikit terbuka; kerang hidup akan menutup perlahan. Jika tidak merespons, cangkangnya retak, atau berbau busuk menyengat, kerang sudah mati dan harus dibuang."
+          }
+        ]
+      }
     }
+  }
 }

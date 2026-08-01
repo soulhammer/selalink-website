@@ -1,459 +1,459 @@
 {
-    "electric-blue-crayfish-care": {
-        "pubDate": "2026-04-27",
-        "updatedDate": "2026-04-27",
-        "locales": {
-            "ko": {
-                "title": "일렉트릭 블루 가재 탈피 후 은신처 확보와 합사 주의·칼슘 공급 3단계 사육 루틴",
-                "description": "강렬한 코발트블루 색상의 관상용 갑각류 일렉트릭 블루 가재 사육 가이드. 탈피(Ecdysis) 후 약해진 갑각 보호, 갑각 형성을 위한 칼슘 공급, 합사 주의 및 3단계 케어 루틴을 소개합니다.",
-                "authority": "세계갑각류학회(The Crustacean Society) 및 관상용 갑각류 임상 가이드라인",
-                "profile": {
-                    "breed": "일렉트릭 블루 가재 (Procambarus alleni / Electric Blue Crayfish)",
-                    "lifespan": "3 ~ 5년 (사육 환경 최적화 시)",
-                    "sleep_pattern": "10 ~ 12시간 (야행성/박명성 - 주간에는 은신처에서 휴식)",
-                    "temperament": "영역 의식 강함, 공격적, 호기심 많음, 단독 생활 권장"
-                },
-                "intro": "일렉트릭 블루 가재(Procambarus alleni)는 눈부신 코발트블루 발색으로 담수 관상어 어항에서 독보적인 인기를 누리는 관상용 갑각류입니다. 성체가 되면 10~15cm까지 자라며, 강한 집게발과 호기심 어린 행동이 매력적입니다. 하지만 갑각류 특성상 성장을 위해 주기적으로 껍질을 벗는 탈피(Ecdysis)를 거치는데, 탈피 직후에는 몸이 말랑하여 다른 수중 생물이나 동족에게 공격받기 매우 쉽습니다. 또한 갑각을 튼튼하게 형성하기 위한 칼슘/마그네슘 미네랄 공급이 필수적이며, 밑바닥 물고기나 소형 새우와의 합사는 사냥 및 동족상잔(Cannibalism)을 유발하므로 주의해야 합니다. 이번 가이드에서 일렉트릭 블루 가재의 탈피 및 방어 신호와 3단계 사육 루틴을 정리해 드립니다.",
-                "whyTitle": "일렉트릭 블루 가재의 생태 본능: 탈피 전 행동 변화와 집게 치켜들기 위협 신호",
-                "whyDesc": "일렉트릭 블루 가재는 천적을 느끼면 두 집게발을 높이 들어 올려 몸집을 크게 보이는 **'집게 치켜들기(Claw Display)'** 위협 태세를 취합니다. 한편 탈피 직전에는 먹이를 거부하고 은신처 깊숙이 숨어 움직임을 최소화하는 **'탈피 전 은신(Pre-molt Hiding)'** 행동을 보입니다.",
-                "body_signals": [
-                    {
-                        "name": "집게발 치켜들기 및 방어 자세 (Claw Display & Defense)",
-                        "meaning": "두 집게발을 넓게 벌리고 위로 들어 올려 경계하는 행동으로, 자신의 영역을 지키거나 외부 자극에 반응하는 위협 신호입니다.",
-                        "response": "뜰채나 손을 무리하게 넣지 말고, 조용히 관찰하여 스트레스를 줄여줍니다."
-                    },
-                    {
-                        "name": "먹이 거부 및 은신처 잠입 (Pre-molt Anorexia & Hiding)",
-                        "meaning": "사료를 먹지 않고 은신처 내부에서 나오지 않는 현상으로, 기존 갑각을 벗어던지는 탈피(Molting)가 임박했음을 의미합니다.",
-                        "response": "무리한 수조 청소나 합사어의 접근을 차단하고, 탈피용 PVC 파이프나 돌 은신처를 충분히 배치해 줍니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 수질 GH/KH(칼슘 미네랄) 및 수온(20~25℃) 점검",
-                        "text": "미네랄 수치(GH 6~15 dGH, pH 7.0~8.0)를 확인하고, 갑각 형성을 돕는 칼슘 첨가제나 오징어 뼈(Cuttlebone) 상태를 점검합니다."
-                    },
-                    {
-                        "name": "낮: 탈피 껍질 유무 및 은신처 상태 점검",
-                        "text": "벗어놓은 탈피 껍질은 가재가 스스로 먹어 칼슘을 재섭취하므로 2~3일간 치우지 않고 그대로 둡니다."
-                    },
-                    {
-                        "name": "밤: 갑각류 전용 침강성 사료 급여 및 여과기 수류 조정",
-                        "text": "야행성 활동에 맞춰 고칼슘 침강성 사료나 신선한 채소를 급여하고, 탈피 직후 유영력이 떨어진 가재가 수류에 쓸리지 않도록 여과기를 점검합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "일렉트릭 블루 가재가 벗어놓은 탈피 껍질을 바로 치워야 하나요?",
-                        "answer": "치우지 않는 것이 좋습니다! 가재는 탈피 후 자신이 벗어던진 껍질을 스스로 먹어 치우면서 껍질 속 칼슘과 미네랄을 재흡수하여 새로운 갑각을 빠르게 단단하게 만듭니다. 3일 이상 지나도 먹지 않고 남은 찌꺼기만 수질 오염 방지를 위해 치워주세요."
-                    },
-                    {
-                        "question": "체리새우나 소형 열대어와 함께 합사해도 괜찮나요?",
-                        "answer": "합사를 권장하지 않습니다. 가재는 기회가 되면 야간에 잠든 소형 물고기나 새우, 안시 같은 바닥층 물고기를 강력한 집게발로 사냥합니다. 또한 수초를 뿌리째 뽑거나 잘라버리는 습성이 있으므로 단독 사육이나 빠른 상층성 수초 없는 어항이 안전합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Electric Blue Crayfish Post-Molt Shelter and 3-Step Calcium & Tankmate Care Routine",
-                "description": "Essential care guide for the Electric Blue Crayfish. Learn about soft-shell protection after molting, calcium supplementation for exoskeleton hardening, tankmate precautions, and a 3-step routine.",
-                "authority": "The Crustacean Society & Ornamental Crustacean Clinical Guidelines",
-                "profile": {
-                    "breed": "Electric Blue Crayfish (Procambarus alleni)",
-                    "lifespan": "3 - 5 Years (In optimized captive conditions)",
-                    "sleep_pattern": "10 - 12 Hours (Nocturnal / Crepuscular - Rests in hides during daylight)",
-                    "temperament": "Territorial, Aggressive, Curious, Solitary Preferred"
-                },
-                "intro": "The Electric Blue Crayfish (Procambarus alleni) is a stunning freshwater crustacean famous for its vibrant cobalt blue coloration. Reaching 10 to 15 cm as adults, they feature powerful claws and engaging behaviors. However, like all crustaceans, they undergo periodic molting (ecdysis) to grow. Immediately after molting, their soft exoskeleton leaves them extremely vulnerable to predation and cannibalism. Providing adequate calcium/magnesium minerals for shell hardening and avoiding cohabitation with slow bottom fish or dwarf shrimp is vital. In this guide, outlines Electric Blue Crayfish behavioral signals and shares a 3-step husbandry routine.",
-                "whyTitle": "Electric Blue Crayfish Instincts: Pre-molt Behavioral Shifts and Claw Threat Displays",
-                "whyDesc": "When threatened, Electric Blue Crayfish execute a **'Claw Display'**, raising both chelae high to appear larger. Prior to molting, they refuse food and retreat deep inside caves in a **'Pre-molt Hiding'** strategy to minimize movement and vulnerability.",
-                "body_signals": [
-                    {
-                        "name": "Claw Display & Defensive Posture",
-                        "meaning": "Widening and raising pincers upward, signaling territorial defense or a warning response to physical stimuli.",
-                        "response": "Avoid inserting nets or hands unnecessarily; observe quietly to minimize stress."
-                    },
-                    {
-                        "name": "Pre-molt Anorexia & Hiding",
-                        "meaning": "Refusing food pellets and staying hidden in dark shelters, indicating imminent ecdysis (molting).",
-                        "response": "Prevent disturbance by tankmates and ensure adequate PVC pipes or rock caves are available."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Water Hardness (GH/KH) & Temperature Check (20–25°C)",
-                        "text": "Verify mineral parameters (GH 6–15 dGH, pH 7.0–8.0) and inspect calcium supplements or cuttlebone availability."
-                    },
-                    {
-                        "name": "Afternoon: Exuvia Inspection & Hide Maintenance",
-                        "text": "Leave the shed exoskeleton (exuvia) in the tank for 2–3 days, as the crayfish ingests it to recycle calcium."
-                    },
-                    {
-                        "name": "Evening: Sinking Invertebrate Pellet Feeding & Filter Flow Adjustment",
-                        "text": "Provide high-calcium sinking pellets or fresh blanched vegetables at night, and ensure filter currents are gentle for soft post-molt individuals."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Should I immediately remove the shed exoskeleton after my crayfish molts?",
-                        "answer": "No! Crayfish consume their own molted shell (exuvia) to reabsorb essential calcium and minerals needed to harden their new exoskeleton quickly. Only remove leftover unconsumed pieces after 3 days to maintain water cleanliness."
-                    },
-                    {
-                        "question": "Is it safe to keep Electric Blue Crayfish with dwarf shrimp or small fish?",
-                        "answer": "Cohabitation is not recommended. Crayfish are opportunistic hunters that will catch sleeping fish, bottom-dwellers, and dwarf shrimp with their pincers. They also uproot aquatic plants, making single-specimen tanks ideal."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "エレクトリックブルーザリガニの脱皮後シェルター確保とカルシウム補給・混泳3ステップルーティン",
-                "description": "コバルトブルーの鮮やかな甲殻類エレクトリックブルーザリガニの飼育ガイド。脱皮(Ecdysis)後の保護、甲殻形成のためのカルシウム補給、混泳の注意点と3ステップケアを解説します。",
-                "authority": "世界甲殻類学会 (The Crustacean Society) および 観賞用甲殻類臨床ガイドライン",
-                "profile": {
-                    "breed": "エレクトリックブルーザリガニ (Procambarus alleni / Electric Blue Crayfish)",
-                    "lifespan": "3 〜 5年 (最適な飼育環境下)",
-                    "sleep_pattern": "10 〜 12時間 (夜行性/薄明薄暮性 - 日中はシェルターで休む)",
-                    "temperament": "縄張り意識が強い、攻撃的、好奇心旺盛、単独飼育推奨"
-                },
-                "intro": "エレクトリックブルーザリガニ（Procambarus alleni）は、鮮やかなコバルトブルーの体色でアクアリウムで高い人気を誇る観賞用甲殻類です。成体になると10〜15cmに成長し、大きなハサミと活発な行動が魅力です。しかし甲殻類であるため、成長のために定期的な脱皮（Ecdysis）を行いますが、脱皮直後は体が柔らかく他魚や同種からの攻撃に非常に脆弱になります。また、硬い甲殻を形成するためのカルシウム・マグネシウムの補給が不可欠であり、底生魚や小型エビとの混泳は捕食や共食いを引き起こすため注意が必要です。本記事では、本種の行動サインと3ステップ日常管理を解説します。",
-                "whyTitle": "エレクトリックブルーザリガニの本能：脱皮前の行動変化とハサミの威嚇サイン",
-                "whyDesc": "外敵を感じると、2つのハサミを高く持ち上げて体を大きく見せる**「ハサミ持ち上げ威嚇（Claw Display）」**姿勢をとります。一方、脱皮直前には餌を拒否し、シェルターの奥深くに隠れて動きを最小限にする**「脱皮前潜伏（Pre-molt Hiding）」**行動を見せます。",
-                "body_signals": [
-                    {
-                        "name": "ハサミの持ち上げと防衛姿勢 (Claw Display & Defense)",
-                        "meaning": "ハサミを大きく広げて持ち上げる威嚇ポーズで、縄張りを守り外部刺激に反応するサインです。",
-                        "response": "網や手を無駄に入れず、静かに観察してストレスを軽減させます。"
-                    },
-                    {
-                        "name": "拒食とシェルターへの潜伏 (Pre-molt Anorexia & Hiding)",
-                        "meaning": "餌を食べず暗い隠れ家から出てこない現象で、古くなった殻を脱ぎ捨てる脱皮（Molting）が間近に迫っているサインです。",
-                        "response": "水槽掃除や他魚の接近を避け、脱皮用のPVCパイプや石組シェルターを十分に用意します。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：GH/KH(カルシウム)測定と水温(20〜25℃)チェック",
-                        "text": "ミネラル数値（GH 6〜15 dGH、pH 7.0〜8.0）を確認し、甲殻の形成を助けるカルシウム添加剤やカットルボーンの状態を点検します。"
-                    },
-                    {
-                        "name": "昼：脱皮殻の確認とシェルター点検",
-                        "text": "脱皮した殻は自分で食べてカルシウムを再摂取するため、2〜3日は取り除かずにそのままにしておきます。"
-                    },
-                    {
-                        "name": "夜：沈降性甲殻類フードの給餌とフィルター水流の調整",
-                        "text": "夜間に合わせて高カルシウムの沈下性フードを与え、脱皮直後の個体が強い水流に流されないよう調整します。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "脱皮したあとの殻はすぐに取り除いた方がいいですか？",
-                        "answer": "取り除かないでください！ザリガニは脱皮後、自分が脱ぎ捨てた殻を食べることでカルシウムやミネラルを再吸収し、新しい殻を素早く硬化させます。3日以上経っても食べ残された破片のみ取り除いてください。"
-                    },
-                    {
-                        "question": "チェリーエビや小型熱帯魚と混泳させても大丈夫ですか？",
-                        "answer": "混泳は推奨されません。ザリガニは夜間に眠っている小型魚やエビ、コリドラスなどの底生魚をハサミで捕食します。また水草を根抜いたり切断する習性があるため、単独飼育が最も safe です。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "蓝魔虾（电光蓝小龙虾）蜕皮后隐蔽所与补钙及混养3阶段日常护理流程",
-                "description": "拥有璀璨钴蓝色泽的观赏甲壳类蓝魔虾（Procambarus alleni）饲养指南。介绍蜕皮（Ecdysis）后软壳保护、硬壳补钙、混养注意事项及3阶段日常护理流程。",
-                "authority": "世界甲壳动物学会 (The Crustacean Society) 及 观赏甲壳类临床指南",
-                "profile": {
-                    "breed": "蓝魔虾 / 电光蓝小龙虾 (Procambarus alleni / Electric Blue Crayfish)",
-                    "lifespan": "3 ~ 5年 (人工饲养环境最优化时)",
-                    "sleep_pattern": "10 ~ 12小时 (夜行性/晨昏性 - 白天在躲避穴中休息)",
-                    "temperament": "领地意识强、具攻击性、好奇心强、建议单缸独养"
-                },
-                "intro": "蓝魔虾（Procambarus alleni）以其如宝石般耀眼的钴蓝色发色，在淡水观赏水族箱中享有极高的人气。成体体长可达10~15厘米，粗壮的螯肢与好奇的举止极具观赏性。然而作为甲壳类动物，它们必须通过定期蜕皮（Ecdysis）来实现生长，而在蜕皮刚结束时，新壳柔软，极易遭到同缸鱼类或同类的攻击。此外，补充足够的钙与镁矿物质对于新壳的硬化至关重要，与底栖鱼类或小型观赏虾混养极易引发捕食与相残（Cannibalism）。本指南将为您梳理蓝魔虾的行为信号与3阶段日常护理流程。",
-                "whyTitle": "蓝魔虾的生态本能：蜕皮前行为变化与举螯防卫信号",
-                "whyDesc": "当感知到威胁时，蓝魔虾会高高举起一对大螯，摆出**“举螯示威（Claw Display）”**姿态以扩张威慑力。而在蜕皮前夕，它们会停止进食，躲入躲避穴深处进行**“蜕皮前潜伏（Pre-molt Hiding）”**以降低风险。",
-                "body_signals": [
-                    {
-                        "name": "举螯示威与防卫姿态 (Claw Display & Defense)",
-                        "meaning": "张开并向上举起双螯，属于宣示领地主权或对外部刺激作出回应的防御警告信号。",
-                        "response": "切勿强行插入鱼网或上手触碰，保持安静观察以减少其压力。"
-                    },
-                    {
-                        "name": "拒食与潜伏躲避穴 (Pre-molt Anorexia & Hiding)",
-                        "meaning": "停止进食且不再离开黑暗躲避穴，代表即脱去旧壳进入蜕皮（Molting）阶段。",
-                        "response": "避免打扰与换水，防止混养鱼类靠近，并确保箱内有足够的PVC管道或岩石窟洞。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：水质硬度（GH/KH）与水温（20~25°C）检查",
-                        "text": "检查钙镁矿物质数值（GH 6~15 dGH，pH 7.0~8.0），并补充有助于甲壳硬化的钙质添加剂或墨鱼骨（Cuttlebone）。"
-                    },
-                    {
-                        "name": "白天：蜕皮旧壳检查与躲避穴维护",
-                        "text": "蜕下旧壳（Exuvia）无需立即清理，蓝魔虾会吃掉旧壳以重新吸收其中的钙质与矿物质。"
-                    },
-                    {
-                        "name": "晚上：投喂甲壳类沉底饲料与调节水流",
-                        "text": "夜间投喂高钙沉底饲料或焯水蔬菜，并调小水流，防止刚蜕皮体弱的蓝魔虾被冲走。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "蓝魔虾蜕下的旧壳需要立刻捞出来清理掉吗？",
-                        "answer": "不需要！蓝魔虾在蜕皮后会自行啃食蜕下的旧壳，借此重新吸收旧壳中的钙质与矿物质，帮助新外壳快速硬化。仅需在3天后将未吃完的碎渣捞出即可。"
-                    },
-                    {
-                        "question": "可以把蓝魔虾和樱花虾或小型热带鱼混养吗？",
-                        "answer": "不建议混养。蓝魔虾是机会主义猎手，会在夜间利用大螯捕食熟睡的小型鱼类、观赏虾或底栖鱼（如异型鱼）。此外它们还有剪断和剪拔水草的习性，单缸独养最为安全。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Configuración de refugio para el cangrejo azul eléctrico tras la muda y rutina de 3 pasos de calcio y convivencia",
-                "description": "Guía esencial de cuidado para el cangrejo azul eléctrico (Procambarus alleni). Conozca la protección del exoesqueleto blando tras la muda (ecdisis), la suplementación de calcio, precauciones de convivencia y rutina de 3 pasos.",
-                "authority": "The Crustacean Society & Guías Clínicas para Crustáceos Ornamentales",
-                "profile": {
-                    "breed": "Cangrejo Azul Eléctrico (Procambarus alleni)",
-                    "lifespan": "3 ~ 5 años (en condiciones optimizadas)",
-                    "sleep_pattern": "10 ~ 12 horas (nocturno / crepuscular: descansa en refugios de día)",
-                    "temperament": "Territorial, agresivo, curioso, se recomienda alojamiento individual"
-                },
-                "intro": "El cangrejo azul eléctrico (Procambarus alleni) es un crustáceo de agua dulce famoso por su deslumbrante color azul cobalto. Alcanza de 10 a 15 cm de adulto y destaca por sus potentes pinzas. Como todos los crustáceos, pasa por mudas periódicas (ecdisis) para crecer. Tras mudar, su cuerpo blando lo deja vulnerable a depredadores y al canibalismo. Proporcionar minerales de calcio/magnesio para endurecer la cáscara y evitar la convivencia con peces de fondo o camarones es vital. En esta guía, explicamos sus señales y una rutina de 3 pasos.",
-                "whyTitle": "Instintos del cangrejo azul eléctrico: Cambios pre-muda y despliegue de pinzas",
-                "whyDesc": "Ante amenazas, el cangrejo azul eléctrico realiza un **'Despliegue de pinzas (Claw Display)'**, levantando sus quelas para verse más grande. Antes de mudar, rechaza la comida y se esconde profundamente en **'Ocultamiento pre-muda'** para minimizar riesgos.",
-                "body_signals": [
-                    {
-                        "name": "Despliegue de pinzas y postura defensiva (Claw Display & Defense)",
-                        "meaning": "Levantar y abrir las pinzas hacia arriba, señalando defensa territorial o respuesta de advertencia.",
-                        "response": "Evite introducir redes o manos; observe en silencio para reducir el estrés."
-                    },
-                    {
-                        "name": "Rechazo de alimento y ocultamiento (Pre-molt Anorexia & Hiding)",
-                        "meaning": "Dejar de comer y permanecer dentro de cueva oscuras, indicando una muda (ecdisis) inminente.",
-                        "response": "Evite molestias en el acuario y asegure tubos de PVC o cueva de piedra adecuadas."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Control de dureza (GH/KH) y temperatura (20–25 °C)",
-                        "text": "Verifique los parámetros minerales (GH 6–15 dGH, pH 7.0–8.0) y revise la presencia de suplementos de calcio o hueso de jibia."
-                    },
-                    {
-                        "name": "Tarde: Inspección del exoesqueleto mudado y refugios",
-                        "text": "Deje la muda (exuvia) en el tanque durante 2 o 3 días, ya que el cangrejo la ingerirá para reciclar calcio."
-                    },
-                    {
-                        "name": "Noche: Alimentación con alimento de fondo y ajuste de filtro",
-                        "text": "Suministre gránulos de fondo ricos en calcio por la noche y ajuste el filtro para no arrastrar al ejemplar blando."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Debo retirar inmediatamente la piel o exoesqueleto mudado?",
-                        "answer": "¡No! El cangrejo consume su propia muda (exuvia) para reabsorber el calcio y minerales necesarios para endurecer su nuevo caparazón rápidamente. Retire solo los restos no consumidos tras 3 días."
-                    },
-                    {
-                        "question": "¿Se puede mantener con gambas enanas o peces pequeños?",
-                        "answer": "No es recomendable. Son cazadores oportunistas que atraparán peces lentos, peces de fondo y gambas con sus pinzas mientras duermen. Además, desentierran plantas acuáticas, siendo ideal el mantenimiento individual."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Aménagement d'abris pour l'écrevisse bleue électrique après la mue et routine en 3 étapes de calcium et de cohabitation",
-                "description": "Guide de soin pour l'écrevisse bleue électrique (Procambarus alleni). Découvrez la protection de la carapace molle après la mue (exuviation), l'apport en calcium, les précautions de cohabitation et une routine en 3 étapes.",
-                "authority": "The Crustacean Society & Directives Cliniques pour Crustacés Ornementaux",
-                "profile": {
-                    "breed": "Écrevisse Bleue Électrique (Procambarus alleni)",
-                    "lifespan": "3 ~ 5 ans (en captivité optimisée)",
-                    "sleep_pattern": "10 ~ 12 heures (nocturne / crépusculaire : se repose dans des caches le jour)",
-                    "temperament": "Territoriale, agressive, curieuse, maintenance individuelle recommandée"
-                },
-                "intro": "L'écrevisse bleue électrique (Procambarus alleni) est un crustacé d'eau douce très prisé pour sa couleur bleu cobalt étincelante. Atteignant 10 à 15 cm à l'âge adulte, elle possède de puissantes pinces. Comme tous les crustacés, elle effectue des mues régulières pour grandir. Juste après la mue, sa carapace molle la rend très vulnérable à la prédation. Il est essentiel de lui fournir du calcium pour durcir sa carapace et d'éviter la cohabitation avec des poissons de fond ou petites crevettes. Dans ce guide, décrypte ses signaux et vous propose une routine en 3 étapes.",
-                "whyTitle": "Instincts de l'écrevisse bleue électrique : Changements pré-mue et déploiement de pinces",
-                "whyDesc": "Face au danger, l'écrevisse effectue un **'Déploiement des pinces (Claw Display)'** pour paraître plus imposante. Avant de muer, elle cesse de s'alimenter et se réfugie au fond d'une cache lors du **'Cachotterie pré-mue'**.",
-                "body_signals": [
-                    {
-                        "name": "Déploiement des pinces et posture défensive (Claw Display & Defense)",
-                        "meaning": "Lever et écarter les pinces vers le haut, signalant une défense territoriale ou un avertissement.",
-                        "response": "Évitez d'introduire des épuisettes ou vos mains ; observez calmement pour réduire le stress."
-                    },
-                    {
-                        "name": "Refus de nourriture et enfouissement (Pre-molt Anorexia & Hiding)",
-                        "meaning": "Cesser de s'alimenter et rester cachée dans une cavité sombre, annonçant une mue (exuviation) imminente.",
-                        "response": "Évitez les perturbations dans l'aquarium et fournissez des tuyaux en PVC ou des roches creuses."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Dureté de l'eau (GH/KH) et température (20–25 °C)",
-                        "text": "Vérifiez les minéraux (GH 6–15 dGH, pH 7.0–8.0) et contrôlez la présence d'os de seiche ou de suppléments de calcium."
-                    },
-                    {
-                        "name": "Après-midi : Inspection de l'exuvie et entretien des caches",
-                        "text": "Laissez l'ancienne carapace (exuvie) dans le bac pendant 2 à 3 jours, car l'écrevisse la mange pour recycler le calcium."
-                    },
-                    {
-                        "name": "Soir : Distribution de granulés coulants et réglage du filtre",
-                        "text": "Distribuez des granulés coulants riches en calcium la nuit et réduisez le courant du filtre pour l'écrevisse fragilisée."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Faut-il retirer immédiatement l'exuvie (ancienne carapace) après la mue ?",
-                        "answer": "Non ! L'écrevisse mange sa propre exuvie pour réabsorber le calcium nécessaire au durcissement rapide de sa nouvelle carapace. Ne retirez que les morceaux non consommés après 3 jours."
-                    },
-                    {
-                        "question": "Peut-on la maintenir avec des crevettes naines ou de petits poissons ?",
-                        "answer": "Ce n'est pas recommandé. L'écrevisse est un chasseur opportuniste qui attrape les poissons endormis et les crevettes avec ses pinces. De plus, elle déracine les plantes, rendant le bac spécifique idéal."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Verstecksicherung für den Blauen Floridakrebs nach der Häutung und 3-Schritt-Kalzium- & Vergesellschaftungsroutine",
-                "description": "Haltungsleitfaden für den Blauen Floridakrebs (Procambarus alleni). Erfahren Sie alles über den Schutz nach der Häutung, Kalziumzufuhr zur Panzerhärtung, Vergesellschaftung und die 3-Schritt-Pflege.",
-                "authority": "The Crustacean Society & Klinische Richtlinien für Zierkrebse",
-                "profile": {
-                    "breed": "Blauer Floridakrebs (Procambarus alleni / Electric Blue Crayfish)",
-                    "lifespan": "3 ~ 5 Jahre (bei optimaler Haltung)",
-                    "sleep_pattern": "10 ~ 12 Stunden (nacht- / dämmerungsaktiv - ruht tagsüber in Verstecken)",
-                    "temperament": "Territorial, aggressiv, neugierig, Einzelhaltung empfohlen"
-                },
-                "intro": "Der Blaue Floridakrebs (Procambarus alleni) gehört wegen seiner strahlenden kobaltblauen Farbe zu den populärsten Zierkrebsen im Süßwasseraquarium. Er wird 10 bis 15 cm groß und besitzt kräftige Scheren. Wie alle Krebse häutet er sich regelmäßig zum Wachsen. Unmittelbar nach der Häutung ist sein weicher Panzer extrem anfällig für Angriffe. Eine ausreichende Kalziumversorgung zur Panzerhärtung sowie der Verzicht auf die Vergesellschaftung mit bodenbewohnenden Fischen oder Zwerggarnelen ist essenziell. Heute erklärt  Verhaltenssignale und eine 3-Schritt-Routine.",
-                "whyTitle": "Instinkte des Blauen Floridakrebses: Häutungsverhalten und Scheren-Imponierhaltung",
-                "whyDesc": "Bei Bedrohung zeigt der Krebs eine **'Scheren-Imponierhaltung (Claw Display)'**, indem er beide Scheren hochhebt. Vor der Häutung verweigert er Futter und zieht sich tief in Verstecke zurück (**'Vor-Häutungs-Verstecken'**).",
-                "body_signals": [
-                    {
-                        "name": "Scheren-Imponierhaltung und Abwehrpostur (Claw Display & Defense)",
-                        "meaning": "Anheben und Öffnen der Scheren nach oben zur Revierverteidigung oder als Warnung bei Störungen.",
-                        "response": "Vermeiden Sie unnötiges Hantieren im Aquarium; beobachten Sie das Tier ruhig."
-                    },
-                    {
-                        "name": "Futterverweigerung und Rückzug (Pre-molt Anorexia & Hiding)",
-                        "meaning": "Einstellen der Futteraufnahme und Verbleiben im Versteck als Zeichen der bevorstehenden Häutung (Ecdysis).",
-                        "response": "Vermeiden Sie Störungen im Becken und stellen Sie ausreichende PVC-Rohre oder Steinverstecke bereit."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Gesamthärte (GH/KH) & Temperaturkontrolle (20–25 °C)",
-                        "text": "Überprüfen Sie die Mineralwerte (GH 6–15 dGH, pH 7,0–8,0) und kontrollieren Sie Kalziumzusätze oder Sepiaschalen."
-                    },
-                    {
-                        "name": "Nachmittag: Kontrolle der Exuvie & Verstecksicherung",
-                        "text": "Lassen Sie die abgestreifte Häutungshülle (Exuvie) 2–3 Tage im Becken, da der Krebs sie zur Kalziumaufnahme frisst."
-                    },
-                    {
-                        "name": "Abend: Fütterung von sinkendem Krebsfutter & Filterströmung",
-                        "text": "Füttern Sie abends kalziumreiche Futtertabletten und reduzieren Sie die Strömung für frisch gehäutete Krebse."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Sollte man die Häutungshülle nach der Häutung sofort entfernen?",
-                        "answer": "Nein! Der Krebs frisst seine eigene Exuvie, um Kalzium und Mineralien für die schnelle Erhärtung des neuen Panzers aufzunehmen. Entfernen Sie erst nach 3 Tagen unaufgefressene Reste."
-                    },
-                    {
-                        "question": "Kann man den Krebs mit Zwerggarnelen oder kleinen Fischen halten?",
-                        "answer": "Davon wird abgeraten. Krebse sind Gelegenheitsschlächter, die schlafende Fische, Bodenfische und Garnelen mit ihren Scheren fangen. Einzelhaltung im Artbecken ist ideal."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Configuração de abrigo para o lagostim-azul-elétrico pós-muda e rotina de 3 passos de cálcio e convivência",
-                "description": "Guia de cuidados com o lagostim-azul-elétrico (Procambarus alleni). Saiba mais sobre a proteção pós-muda (ecdise), suplementação de cálcio, precauções de convivência e rotina em 3 passos.",
-                "authority": "The Crustacean Society & Diretrizes Clínicas para Crustáceos Ornamentais",
-                "profile": {
-                    "breed": "Lagostim-Azul-Elétrico (Procambarus alleni / Electric Blue Crayfish)",
-                    "lifespan": "3 ~ 5 anos (em cativeiro otimizado)",
-                    "sleep_pattern": "10 ~ 12 horas (noturno / crepuscular: descansa em esconderijos de dia)",
-                    "temperament": "Territorial, agressivo, curioso, manutenção individual recomendada"
-                },
-                "intro": "O lagostim-azul-elétrico (Procambarus alleni) é um crustáceo de água doce famoso pela sua cor azul-cobalto vibrante. Atinge 10 a 15 cm em adulto e possui garras potentes. Como todos os crustáceos, passa por mudas periódicas (ecdise) para crescer. Após a muda, o seu exoesqueleto mole deixa-o muito vulnerável. Fornecer cálcio para endurecer a carcaça e evitar a convivência com peixes de fundo ou camarões é fundamental. Neste guia, explicamos os seus sinais e uma rotina de 3 passos.",
-                "whyTitle": "Instintos do lagostim-azul-elétrico: Comportamento pré-muda e exibição de pinças",
-                "whyDesc": "Perante ameaças, o lagostim exibe uma **'Exibição de pinças (Claw Display)'**, levantando as garras para parecer maior. Antes da muda, recusa comida e esconde-se num **'Ocultamento pré-muda'** para minimizar riscos.",
-                "body_signals": [
-                    {
-                        "name": "Exibição de pinças e postura defensiva (Claw Display & Defense)",
-                        "meaning": "Levantar e abrir as garras para cima, sinalizando defesa territorial ou resposta a estímulos.",
-                        "response": "Evite colocar redes ou mãos no aquário; observe silenciosamente para reduzir o stresse."
-                    },
-                    {
-                        "name": "Recusa de comida e ocultamento (Pre-molt Anorexia & Hiding)",
-                        "meaning": "Deixar de comer e permanecer dentro de tocas escuras, indicando ecdise (muda) iminente.",
-                        "response": "Evite perturbar o aquário e garanta tubos de PVC ou tocas de pedras adequadas."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Controlo de dureza (GH/KH) e temperatura (20–25 °C)",
-                        "text": "Verifique os minerais (GH 6–15 dGH, pH 7.0–8.0) e inspecione a presença de osso de siba ou cálcio."
-                    },
-                    {
-                        "name": "Tarde: Inspeção do exoesqueleto mudado e tocas",
-                        "text": "Deixe a muda (exúvia) no aquário por 2 a 3 dias, pois o lagostim vai ingeri-la para reciclar cálcio."
-                    },
-                    {
-                        "name": "Noite: Alimentação com ração afundante e ajuste do filtro",
-                        "text": "Ofereça grânulos de fundo ricos em cálcio à noite e reduza o fluxo do filtro para o espécime fragilizado."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Devo retirar a carcaça mudada imediatamente?",
-                        "answer": "Não! O lagostim consome a sua própria exúvia para reabsorver cálcio e minerais necessários para endurecer a nova carcaça rapidamente. Retire apenas os restos não consumidos após 3 dias."
-                    },
-                    {
-                        "question": "Pode ser mantido com camarões anões ou peixes pequenos?",
-                        "answer": "Não é recomendado. São caçadores oportunistas que apanharão peixes lentos, peixes de fundo e camarões com as suas garras. Manter um único espécime é a opção ideal."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Pengaturan Tempat Sembunyi Lobster Blue Moon Pasca-Ganti Kulit dan Rutinitas 3 Langkah Kalsium & Kohabitasi",
-                "description": "Panduan perawatan Lobster Blue Moon / Electric Blue Crayfish (Procambarus alleni). Pelajari perlindungan pasca-molting, suplementasi kalsium, pencegahan kanibalisme, dan 3 langkah rutinitas harian.",
-                "authority": "The Crustacean Society & Panduan Klinis Krustasea Hias",
-                "profile": {
-                    "breed": "Lobster Blue Moon / Electric Blue Crayfish (Procambarus alleni)",
-                    "lifespan": "3 ~ 5 tahun (pada kondisi penangkaran optimal)",
-                    "sleep_pattern": "10 ~ 12 jam (nokturnal / krepuskular - beristirahat di tempat sembunyi saat siang)",
-                    "temperament": "Teritorial, agresif, ingin tahu, disarankan pemeliharaan tunggal"
-                },
-                "intro": "Lobster Blue Moon (Procambarus alleni) adalah krustasea air tawar hias yang sangat populer karena warna biru kobalnya yang menawan. Tumbuh hingga 10–15 cm saat dewasa, mereka memiliki capit yang kuat. Namun seperti krustasea lainnya, mereka mengalami ganti kulit (ekdisis) secara berkala untuk tumbuh. Pasca-ganti kulit, tubuh mereka yang lunak membuat mereka sangat rentan diserang. Penyediaan kalsium untuk mengeraskan cangkang serta menghindari pemeliharaan bersama ikan dasar atau udang kecil sangat penting. Dalam panduan ini, membagikan 3 langkah rutinitas perawatan.",
-                "whyTitle": "Insting Lobster Blue Moon: Perubahan Perilaku Pra-Molting dan Tampilan Capit",
-                "whyDesc": "Saat terancam, lobster ini melakukan **'Tampilan Capit (Claw Display)'**, mengangkat kedua capitnya. Sebelum ganti kulit, mereka menolak makan dan bersembunyi di dalam goa dalam strategi **'Sembunyi Pra-Molting'**.",
-                "body_signals": [
-                    {
-                        "name": "Tampilan Capit & Posisi Pertahanan (Claw Display & Defense)",
-                        "meaning": "Membuka dan mengangkat capit ke atas, menandakan pertahanan teritorial atau peringatan terhadap gangguan.",
-                        "response": "Hindari memasukkan serokan atau tangan; amati dengan tenang untuk mengurangi stres."
-                    },
-                    {
-                        "name": "Menolak Makan & Bersembunyi (Pre-molt Anorexia & Hiding)",
-                        "meaning": "Menolak pakan dan tetap bersembunyi di tempat gelap, menandakan ganti kulit (ekdisis) akan segera terjadi.",
-                        "response": "Cegah gangguan di akuarium dan sediakan pipa PVC atau goa batu yang cukup."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Pemeriksaan Kesadahan Air (GH/KH) & Suhu (20–25 °C)",
-                        "text": "Periksa kadar mineral (GH 6–15 dGH, pH 7.0–8.0) serta ketersediaan kalsium atau tulang sotong."
-                    },
-                    {
-                        "name": "Siang: Pemeriksaan Cangkang Bekas & Tempat Sembunyi",
-                        "text": "Biarkan cangkang bekas (eksuvia) di akuarium selama 2–3 hari karena lobster akan memakannya untuk memulihkan kalsium."
-                    },
-                    {
-                        "name": "Malam: Pemberian Pelet Tenggelam & Pengaturan Arus Filter",
-                        "text": "Berikan pelet tenggelam tinggi kalsium pada malam hari dan kecilkan arus filter agar lobster yang baru ganti kulit tidak terseret."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apakah cangkang bekas ganti kulit harus segera dibuang?",
-                        "answer": "Jangan dibuang! Lobster akan memakan cangkang bekasnya sendiri untuk menyerap kembali kalsium dan mineral yang dibutuhkan untuk mengeraskan cangkang barunya dengan cepat. Buang sisa cangkang hanya jika tidak dimakan setelah 3 hari."
-                    },
-                    {
-                        "question": "Bolehkah menggabungkan lobster ini dengan udang hias kecil atau ikan kecil?",
-                        "answer": "Sangat tidak disarankan. Lobster adalah pemburu oportunis yang akan menangkap ikan yang sedang tidur, ikan dasar, atau udang hias dengan capitnya. Dipelihara secara tunggal (single tank) adalah opsi terbaik."
-                    }
-                ]
-            }
+  "electric-blue-crayfish-care": {
+    "pubDate": "2026-04-27",
+    "updatedDate": "2026-04-27",
+    "locales": {
+      "ko": {
+        "title": "일렉트릭 블루 가재 탈피 후 은신처 확보와 합사 주의·칼슘 공급 3단계 사육 루틴",
+        "description": "강렬한 코발트블루 색상의 관상용 갑각류 일렉트릭 블루 가재 사육 가이드. 탈피(Ecdysis) 후 약해진 갑각 보호, 갑각 형성을 위한 칼슘 공급, 합사 주의 및 3단계 케어 루틴을 소개합니다.",
+        "authority": "세계갑각류학회(The Crustacean Society) 및 관상용 갑각류 임상 가이드라인",
+        "profile": {
+          "breed": "일렉트릭 블루 가재 (Procambarus alleni / Electric Blue Crayfish)",
+          "lifespan": "3 ~ 5년 (사육 환경 최적화 시)",
+          "sleep_pattern": "10 ~ 12시간 (야행성/박명성 - 주간에는 은신처에서 휴식)",
+          "temperament": "영역 의식 강함, 공격적, 호기심 많음, 단독 생활 권장"
         },
-        "heroImage": "/images/blog/electric_blue_crayfish_care.webp"
-    }
+        "intro": "일렉트릭 블루 가재(Procambarus alleni)는 눈부신 코발트블루 발색으로 담수 관상어 어항에서 독보적인 인기를 누리는 관상용 갑각류입니다. 성체가 되면 10~15cm까지 자라며, 강한 집게발과 호기심 어린 행동이 매력적입니다. 하지만 갑각류 특성상 성장을 위해 주기적으로 껍질을 벗는 탈피(Ecdysis)를 거치는데, 탈피 직후에는 몸이 말랑하여 다른 수중 생물이나 동족에게 공격받기 매우 쉽습니다. 또한 갑각을 튼튼하게 형성하기 위한 칼슘/마그네슘 미네랄 공급이 필수적이며, 밑바닥 물고기나 소형 새우와의 합사는 사냥 및 동족상잔(Cannibalism)을 유발하므로 주의해야 합니다. 이번 가이드에서 일렉트릭 블루 가재의 탈피 및 방어 신호와 3단계 사육 루틴을 정리해 드립니다.",
+        "whyTitle": "일렉트릭 블루 가재의 생태 본능: 탈피 전 행동 변화와 집게 치켜들기 위협 신호",
+        "whyDesc": "일렉트릭 블루 가재는 천적을 느끼면 두 집게발을 높이 들어 올려 몸집을 크게 보이는 **'집게 치켜들기(Claw Display)'** 위협 태세를 취합니다. 한편 탈피 직전에는 먹이를 거부하고 은신처 깊숙이 숨어 움직임을 최소화하는 **'탈피 전 은신(Pre-molt Hiding)'** 행동을 보입니다.",
+        "body_signals": [
+          {
+            "name": "집게발 치켜들기 및 방어 자세 (Claw Display & Defense)",
+            "meaning": "두 집게발을 넓게 벌리고 위로 들어 올려 경계하는 행동으로, 자신의 영역을 지키거나 외부 자극에 반응하는 위협 신호입니다.",
+            "response": "뜰채나 손을 무리하게 넣지 말고, 조용히 관찰하여 스트레스를 줄여줍니다."
+          },
+          {
+            "name": "먹이 거부 및 은신처 잠입 (Pre-molt Anorexia & Hiding)",
+            "meaning": "사료를 먹지 않고 은신처 내부에서 나오지 않는 현상으로, 기존 갑각을 벗어던지는 탈피(Molting)가 임박했음을 의미합니다.",
+            "response": "무리한 수조 청소나 합사어의 접근을 차단하고, 탈피용 PVC 파이프나 돌 은신처를 충분히 배치해 줍니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 수질 GH/KH(칼슘 미네랄) 및 수온(20~25℃) 점검",
+            "text": "미네랄 수치(GH 6~15 dGH, pH 7.0~8.0)를 확인하고, 갑각 형성을 돕는 칼슘 첨가제나 오징어 뼈(Cuttlebone) 상태를 점검합니다."
+          },
+          {
+            "name": "낮: 탈피 껍질 유무 및 은신처 상태 점검",
+            "text": "벗어놓은 탈피 껍질은 가재가 스스로 먹어 칼슘을 재섭취하므로 2~3일간 치우지 않고 그대로 둡니다."
+          },
+          {
+            "name": "밤: 갑각류 전용 침강성 사료 급여 및 여과기 수류 조정",
+            "text": "야행성 활동에 맞춰 고칼슘 침강성 사료나 신선한 채소를 급여하고, 탈피 직후 유영력이 떨어진 가재가 수류에 쓸리지 않도록 여과기를 점검합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "일렉트릭 블루 가재가 벗어놓은 탈피 껍질을 바로 치워야 하나요?",
+            "answer": "치우지 않는 것이 좋습니다! 가재는 탈피 후 자신이 벗어던진 껍질을 스스로 먹어 치우면서 껍질 속 칼슘과 미네랄을 재흡수하여 새로운 갑각을 빠르게 단단하게 만듭니다. 3일 이상 지나도 먹지 않고 남은 찌꺼기만 수질 오염 방지를 위해 치워주세요."
+          },
+          {
+            "question": "체리새우나 소형 열대어와 함께 합사해도 괜찮나요?",
+            "answer": "합사를 권장하지 않습니다. 가재는 기회가 되면 야간에 잠든 소형 물고기나 새우, 안시 같은 바닥층 물고기를 강력한 집게발로 사냥합니다. 또한 수초를 뿌리째 뽑거나 잘라버리는 습성이 있으므로 단독 사육이나 빠른 상층성 수초 없는 어항이 안전합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Electric Blue Crayfish Post-Molt Shelter and 3-Step Calcium & Tankmate Care Routine",
+        "description": "Essential care guide for the Electric Blue Crayfish. Learn about soft-shell protection after molting, calcium supplementation for exoskeleton hardening, tankmate precautions, and a 3-step routine.",
+        "authority": "The Crustacean Society & Ornamental Crustacean Clinical Guidelines",
+        "profile": {
+          "breed": "Electric Blue Crayfish (Procambarus alleni)",
+          "lifespan": "3 - 5 Years (In optimized captive conditions)",
+          "sleep_pattern": "10 - 12 Hours (Nocturnal / Crepuscular - Rests in hides during daylight)",
+          "temperament": "Territorial, Aggressive, Curious, Solitary Preferred"
+        },
+        "intro": "The Electric Blue Crayfish (Procambarus alleni) is a stunning freshwater crustacean famous for its vibrant cobalt blue coloration. Reaching 10 to 15 cm as adults, they feature powerful claws and engaging behaviors. However, like all crustaceans, they undergo periodic molting (ecdysis) to grow. Immediately after molting, their soft exoskeleton leaves them extremely vulnerable to predation and cannibalism. Providing adequate calcium/magnesium minerals for shell hardening and avoiding cohabitation with slow bottom fish or dwarf shrimp is vital. In this guide, outlines Electric Blue Crayfish behavioral signals and shares a 3-step husbandry routine.",
+        "whyTitle": "Electric Blue Crayfish Instincts: Pre-molt Behavioral Shifts and Claw Threat Displays",
+        "whyDesc": "When threatened, Electric Blue Crayfish execute a **'Claw Display'**, raising both chelae high to appear larger. Prior to molting, they refuse food and retreat deep inside caves in a **'Pre-molt Hiding'** strategy to minimize movement and vulnerability.",
+        "body_signals": [
+          {
+            "name": "Claw Display & Defensive Posture",
+            "meaning": "Widening and raising pincers upward, signaling territorial defense or a warning response to physical stimuli.",
+            "response": "Avoid inserting nets or hands unnecessarily; observe quietly to minimize stress."
+          },
+          {
+            "name": "Pre-molt Anorexia & Hiding",
+            "meaning": "Refusing food pellets and staying hidden in dark shelters, indicating imminent ecdysis (molting).",
+            "response": "Prevent disturbance by tankmates and ensure adequate PVC pipes or rock caves are available."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Water Hardness (GH/KH) & Temperature Check (20–25°C)",
+            "text": "Verify mineral parameters (GH 6–15 dGH, pH 7.0–8.0) and inspect calcium supplements or cuttlebone availability."
+          },
+          {
+            "name": "Afternoon: Exuvia Inspection & Hide Maintenance",
+            "text": "Leave the shed exoskeleton (exuvia) in the tank for 2–3 days, as the crayfish ingests it to recycle calcium."
+          },
+          {
+            "name": "Evening: Sinking Invertebrate Pellet Feeding & Filter Flow Adjustment",
+            "text": "Provide high-calcium sinking pellets or fresh blanched vegetables at night, and ensure filter currents are gentle for soft post-molt individuals."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Should I immediately remove the shed exoskeleton after my crayfish molts?",
+            "answer": "No! Crayfish consume their own molted shell (exuvia) to reabsorb essential calcium and minerals needed to harden their new exoskeleton quickly. Only remove leftover unconsumed pieces after 3 days to maintain water cleanliness."
+          },
+          {
+            "question": "Is it safe to keep Electric Blue Crayfish with dwarf shrimp or small fish?",
+            "answer": "Cohabitation is not recommended. Crayfish are opportunistic hunters that will catch sleeping fish, bottom-dwellers, and dwarf shrimp with their pincers. They also uproot aquatic plants, making single-specimen tanks ideal."
+          }
+        ]
+      },
+      "ja": {
+        "title": "エレクトリックブルーザリガニの脱皮後シェルター確保とカルシウム補給・混泳3ステップルーティン",
+        "description": "コバルトブルーの鮮やかな甲殻類エレクトリックブルーザリガニの飼育ガイド。脱皮(Ecdysis)後の保護、甲殻形成のためのカルシウム補給、混泳の注意点と3ステップケアを解説します。",
+        "authority": "世界甲殻類学会 (The Crustacean Society) および 観賞用甲殻類臨床ガイドライン",
+        "profile": {
+          "breed": "エレクトリックブルーザリガニ (Procambarus alleni / Electric Blue Crayfish)",
+          "lifespan": "3 〜 5年 (最適な飼育環境下)",
+          "sleep_pattern": "10 〜 12時間 (夜行性/薄明薄暮性 - 日中はシェルターで休む)",
+          "temperament": "縄張り意識が強い、攻撃的、好奇心旺盛、単独飼育推奨"
+        },
+        "intro": "エレクトリックブルーザリガニ（Procambarus alleni）は、鮮やかなコバルトブルーの体色でアクアリウムで高い人気を誇る観賞用甲殻類です。成体になると10〜15cmに成長し、大きなハサミと活発な行動が魅力です。しかし甲殻類であるため、成長のために定期的な脱皮（Ecdysis）を行いますが、脱皮直後は体が柔らかく他魚や同種からの攻撃に非常に脆弱になります。また、硬い甲殻を形成するためのカルシウム・マグネシウムの補給が不可欠であり、底生魚や小型エビとの混泳は捕食や共食いを引き起こすため注意が必要です。本記事では、本種の行動サインと3ステップ日常管理を解説します。",
+        "whyTitle": "エレクトリックブルーザリガニの本能：脱皮前の行動変化とハサミの威嚇サイン",
+        "whyDesc": "外敵を感じると、2つのハサミを高く持ち上げて体を大きく見せる**「ハサミ持ち上げ威嚇（Claw Display）」**姿勢をとります。一方、脱皮直前には餌を拒否し、シェルターの奥深くに隠れて動きを最小限にする**「脱皮前潜伏（Pre-molt Hiding）」**行動を見せます。",
+        "body_signals": [
+          {
+            "name": "ハサミの持ち上げと防衛姿勢 (Claw Display & Defense)",
+            "meaning": "ハサミを大きく広げて持ち上げる威嚇ポーズで、縄張りを守り外部刺激に反応するサインです。",
+            "response": "網や手を無駄に入れず、静かに観察してストレスを軽減させます。"
+          },
+          {
+            "name": "拒食とシェルターへの潜伏 (Pre-molt Anorexia & Hiding)",
+            "meaning": "餌を食べず暗い隠れ家から出てこない現象で、古くなった殻を脱ぎ捨てる脱皮（Molting）が間近に迫っているサインです。",
+            "response": "水槽掃除や他魚の接近を避け、脱皮用のPVCパイプや石組シェルターを十分に用意します。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：GH/KH(カルシウム)測定と水温(20〜25℃)チェック",
+            "text": "ミネラル数値（GH 6〜15 dGH、pH 7.0〜8.0）を確認し、甲殻の形成を助けるカルシウム添加剤やカットルボーンの状態を点検します。"
+          },
+          {
+            "name": "昼：脱皮殻の確認とシェルター点検",
+            "text": "脱皮した殻は自分で食べてカルシウムを再摂取するため、2〜3日は取り除かずにそのままにしておきます。"
+          },
+          {
+            "name": "夜：沈降性甲殻類フードの給餌とフィルター水流の調整",
+            "text": "夜間に合わせて高カルシウムの沈下性フードを与え、脱皮直後の個体が強い水流に流されないよう調整します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "脱皮したあとの殻はすぐに取り除いた方がいいですか？",
+            "answer": "取り除かないでください！ザリガニは脱皮後、自分が脱ぎ捨てた殻を食べることでカルシウムやミネラルを再吸収し、新しい殻を素早く硬化させます。3日以上経っても食べ残された破片のみ取り除いてください。"
+          },
+          {
+            "question": "チェリーエビや小型熱帯魚と混泳させても大丈夫ですか？",
+            "answer": "混泳は推奨されません。ザリガニは夜間に眠っている小型魚やエビ、コリドラスなどの底生魚をハサミで捕食します。また水草を根抜いたり切断する習性があるため、単独飼育が最も safe です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "蓝魔虾（电光蓝小龙虾）蜕皮后隐蔽所与补钙及混养3阶段日常护理流程",
+        "description": "拥有璀璨钴蓝色泽的观赏甲壳类蓝魔虾（Procambarus alleni）饲养指南。介绍蜕皮（Ecdysis）后软壳保护、硬壳补钙、混养注意事项及3阶段日常护理流程。",
+        "authority": "世界甲壳动物学会 (The Crustacean Society) 及 观赏甲壳类临床指南",
+        "profile": {
+          "breed": "蓝魔虾 / 电光蓝小龙虾 (Procambarus alleni / Electric Blue Crayfish)",
+          "lifespan": "3 ~ 5年 (人工饲养环境最优化时)",
+          "sleep_pattern": "10 ~ 12小时 (夜行性/晨昏性 - 白天在躲避穴中休息)",
+          "temperament": "领地意识强、具攻击性、好奇心强、建议单缸独养"
+        },
+        "intro": "蓝魔虾（Procambarus alleni）以其如宝石般耀眼的钴蓝色发色，在淡水观赏水族箱中享有极高的人气。成体体长可达10~15厘米，粗壮的螯肢与好奇的举止极具观赏性。然而作为甲壳类动物，它们必须通过定期蜕皮（Ecdysis）来实现生长，而在蜕皮刚结束时，新壳柔软，极易遭到同缸鱼类或同类的攻击。此外，补充足够的钙与镁矿物质对于新壳的硬化至关重要，与底栖鱼类或小型观赏虾混养极易引发捕食与相残（Cannibalism）。本指南将为您梳理蓝魔虾的行为信号与3阶段日常护理流程。",
+        "whyTitle": "蓝魔虾的生态本能：蜕皮前行为变化与举螯防卫信号",
+        "whyDesc": "当感知到威胁时，蓝魔虾会高高举起一对大螯，摆出**“举螯示威（Claw Display）”**姿态以扩张威慑力。而在蜕皮前夕，它们会停止进食，躲入躲避穴深处进行**“蜕皮前潜伏（Pre-molt Hiding）”**以降低风险。",
+        "body_signals": [
+          {
+            "name": "举螯示威与防卫姿态 (Claw Display & Defense)",
+            "meaning": "张开并向上举起双螯，属于宣示领地主权或对外部刺激作出回应的防御警告信号。",
+            "response": "切勿强行插入鱼网或上手触碰，保持安静观察以减少其压力。"
+          },
+          {
+            "name": "拒食与潜伏躲避穴 (Pre-molt Anorexia & Hiding)",
+            "meaning": "停止进食且不再离开黑暗躲避穴，代表即脱去旧壳进入蜕皮（Molting）阶段。",
+            "response": "避免打扰与换水，防止混养鱼类靠近，并确保箱内有足够的PVC管道或岩石窟洞。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：水质硬度（GH/KH）与水温（20~25°C）检查",
+            "text": "检查钙镁矿物质数值（GH 6~15 dGH，pH 7.0~8.0），并补充有助于甲壳硬化的钙质添加剂或墨鱼骨（Cuttlebone）。"
+          },
+          {
+            "name": "白天：蜕皮旧壳检查与躲避穴维护",
+            "text": "蜕下旧壳（Exuvia）无需立即清理，蓝魔虾会吃掉旧壳以重新吸收其中的钙质与矿物质。"
+          },
+          {
+            "name": "晚上：投喂甲壳类沉底饲料与调节水流",
+            "text": "夜间投喂高钙沉底饲料或焯水蔬菜，并调小水流，防止刚蜕皮体弱的蓝魔虾被冲走。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "蓝魔虾蜕下的旧壳需要立刻捞出来清理掉吗？",
+            "answer": "不需要！蓝魔虾在蜕皮后会自行啃食蜕下的旧壳，借此重新吸收旧壳中的钙质与矿物质，帮助新外壳快速硬化。仅需在3天后将未吃完的碎渣捞出即可。"
+          },
+          {
+            "question": "可以把蓝魔虾和樱花虾或小型热带鱼混养吗？",
+            "answer": "不建议混养。蓝魔虾是机会主义猎手，会在夜间利用大螯捕食熟睡的小型鱼类、观赏虾或底栖鱼（如异型鱼）。此外它们还有剪断和剪拔水草的习性，单缸独养最为安全。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Configuración de refugio para el cangrejo azul eléctrico tras la muda y rutina de 3 pasos de calcio y convivencia",
+        "description": "Guía esencial de cuidado para el cangrejo azul eléctrico (Procambarus alleni). Conozca la protección del exoesqueleto blando tras la muda (ecdisis), la suplementación de calcio, precauciones de convivencia y rutina de 3 pasos.",
+        "authority": "The Crustacean Society & Guías Clínicas para Crustáceos Ornamentales",
+        "profile": {
+          "breed": "Cangrejo Azul Eléctrico (Procambarus alleni)",
+          "lifespan": "3 ~ 5 años (en condiciones optimizadas)",
+          "sleep_pattern": "10 ~ 12 horas (nocturno / crepuscular: descansa en refugios de día)",
+          "temperament": "Territorial, agresivo, curioso, se recomienda alojamiento individual"
+        },
+        "intro": "El cangrejo azul eléctrico (Procambarus alleni) es un crustáceo de agua dulce famoso por su deslumbrante color azul cobalto. Alcanza de 10 a 15 cm de adulto y destaca por sus potentes pinzas. Como todos los crustáceos, pasa por mudas periódicas (ecdisis) para crecer. Tras mudar, su cuerpo blando lo deja vulnerable a depredadores y al canibalismo. Proporcionar minerales de calcio/magnesio para endurecer la cáscara y evitar la convivencia con peces de fondo o camarones es vital. En esta guía, explicamos sus señales y una rutina de 3 pasos.",
+        "whyTitle": "Instintos del cangrejo azul eléctrico: Cambios pre-muda y despliegue de pinzas",
+        "whyDesc": "Ante amenazas, el cangrejo azul eléctrico realiza un **'Despliegue de pinzas (Claw Display)'**, levantando sus quelas para verse más grande. Antes de mudar, rechaza la comida y se esconde profundamente en **'Ocultamiento pre-muda'** para minimizar riesgos.",
+        "body_signals": [
+          {
+            "name": "Despliegue de pinzas y postura defensiva (Claw Display & Defense)",
+            "meaning": "Levantar y abrir las pinzas hacia arriba, señalando defensa territorial o respuesta de advertencia.",
+            "response": "Evite introducir redes o manos; observe en silencio para reducir el estrés."
+          },
+          {
+            "name": "Rechazo de alimento y ocultamiento (Pre-molt Anorexia & Hiding)",
+            "meaning": "Dejar de comer y permanecer dentro de cueva oscuras, indicando una muda (ecdisis) inminente.",
+            "response": "Evite molestias en el acuario y asegure tubos de PVC o cueva de piedra adecuadas."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Control de dureza (GH/KH) y temperatura (20–25 °C)",
+            "text": "Verifique los parámetros minerales (GH 6–15 dGH, pH 7.0–8.0) y revise la presencia de suplementos de calcio o hueso de jibia."
+          },
+          {
+            "name": "Tarde: Inspección del exoesqueleto mudado y refugios",
+            "text": "Deje la muda (exuvia) en el tanque durante 2 o 3 días, ya que el cangrejo la ingerirá para reciclar calcio."
+          },
+          {
+            "name": "Noche: Alimentación con alimento de fondo y ajuste de filtro",
+            "text": "Suministre gránulos de fondo ricos en calcio por la noche y ajuste el filtro para no arrastrar al ejemplar blando."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Debo retirar inmediatamente la piel o exoesqueleto mudado?",
+            "answer": "¡No! El cangrejo consume su propia muda (exuvia) para reabsorber el calcio y minerales necesarios para endurecer su nuevo caparazón rápidamente. Retire solo los restos no consumidos tras 3 días."
+          },
+          {
+            "question": "¿Se puede mantener con gambas enanas o peces pequeños?",
+            "answer": "No es recomendable. Son cazadores oportunistas que atraparán peces lentos, peces de fondo y gambas con sus pinzas mientras duermen. Además, desentierran plantas acuáticas, siendo ideal el mantenimiento individual."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Aménagement d'abris pour l'écrevisse bleue électrique après la mue et routine en 3 étapes de calcium et de cohabitation",
+        "description": "Guide de soin pour l'écrevisse bleue électrique (Procambarus alleni). Découvrez la protection de la carapace molle après la mue (exuviation), l'apport en calcium, les précautions de cohabitation et une routine en 3 étapes.",
+        "authority": "The Crustacean Society & Directives Cliniques pour Crustacés Ornementaux",
+        "profile": {
+          "breed": "Écrevisse Bleue Électrique (Procambarus alleni)",
+          "lifespan": "3 ~ 5 ans (en captivité optimisée)",
+          "sleep_pattern": "10 ~ 12 heures (nocturne / crépusculaire : se repose dans des caches le jour)",
+          "temperament": "Territoriale, agressive, curieuse, maintenance individuelle recommandée"
+        },
+        "intro": "L'écrevisse bleue électrique (Procambarus alleni) est un crustacé d'eau douce très prisé pour sa couleur bleu cobalt étincelante. Atteignant 10 à 15 cm à l'âge adulte, elle possède de puissantes pinces. Comme tous les crustacés, elle effectue des mues régulières pour grandir. Juste après la mue, sa carapace molle la rend très vulnérable à la prédation. Il est essentiel de lui fournir du calcium pour durcir sa carapace et d'éviter la cohabitation avec des poissons de fond ou petites crevettes. Dans ce guide, décrypte ses signaux et vous propose une routine en 3 étapes.",
+        "whyTitle": "Instincts de l'écrevisse bleue électrique : Changements pré-mue et déploiement de pinces",
+        "whyDesc": "Face au danger, l'écrevisse effectue un **'Déploiement des pinces (Claw Display)'** pour paraître plus imposante. Avant de muer, elle cesse de s'alimenter et se réfugie au fond d'une cache lors du **'Cachotterie pré-mue'**.",
+        "body_signals": [
+          {
+            "name": "Déploiement des pinces et posture défensive (Claw Display & Defense)",
+            "meaning": "Lever et écarter les pinces vers le haut, signalant une défense territoriale ou un avertissement.",
+            "response": "Évitez d'introduire des épuisettes ou vos mains ; observez calmement pour réduire le stress."
+          },
+          {
+            "name": "Refus de nourriture et enfouissement (Pre-molt Anorexia & Hiding)",
+            "meaning": "Cesser de s'alimenter et rester cachée dans une cavité sombre, annonçant une mue (exuviation) imminente.",
+            "response": "Évitez les perturbations dans l'aquarium et fournissez des tuyaux en PVC ou des roches creuses."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Dureté de l'eau (GH/KH) et température (20–25 °C)",
+            "text": "Vérifiez les minéraux (GH 6–15 dGH, pH 7.0–8.0) et contrôlez la présence d'os de seiche ou de suppléments de calcium."
+          },
+          {
+            "name": "Après-midi : Inspection de l'exuvie et entretien des caches",
+            "text": "Laissez l'ancienne carapace (exuvie) dans le bac pendant 2 à 3 jours, car l'écrevisse la mange pour recycler le calcium."
+          },
+          {
+            "name": "Soir : Distribution de granulés coulants et réglage du filtre",
+            "text": "Distribuez des granulés coulants riches en calcium la nuit et réduisez le courant du filtre pour l'écrevisse fragilisée."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Faut-il retirer immédiatement l'exuvie (ancienne carapace) après la mue ?",
+            "answer": "Non ! L'écrevisse mange sa propre exuvie pour réabsorber le calcium nécessaire au durcissement rapide de sa nouvelle carapace. Ne retirez que les morceaux non consommés après 3 jours."
+          },
+          {
+            "question": "Peut-on la maintenir avec des crevettes naines ou de petits poissons ?",
+            "answer": "Ce n'est pas recommandé. L'écrevisse est un chasseur opportuniste qui attrape les poissons endormis et les crevettes avec ses pinces. De plus, elle déracine les plantes, rendant le bac spécifique idéal."
+          }
+        ]
+      },
+      "de": {
+        "title": "Verstecksicherung für den Blauen Floridakrebs nach der Häutung und 3-Schritt-Kalzium- & Vergesellschaftungsroutine",
+        "description": "Haltungsleitfaden für den Blauen Floridakrebs (Procambarus alleni). Erfahren Sie alles über den Schutz nach der Häutung, Kalziumzufuhr zur Panzerhärtung, Vergesellschaftung und die 3-Schritt-Pflege.",
+        "authority": "The Crustacean Society & Klinische Richtlinien für Zierkrebse",
+        "profile": {
+          "breed": "Blauer Floridakrebs (Procambarus alleni / Electric Blue Crayfish)",
+          "lifespan": "3 ~ 5 Jahre (bei optimaler Haltung)",
+          "sleep_pattern": "10 ~ 12 Stunden (nacht- / dämmerungsaktiv - ruht tagsüber in Verstecken)",
+          "temperament": "Territorial, aggressiv, neugierig, Einzelhaltung empfohlen"
+        },
+        "intro": "Der Blaue Floridakrebs (Procambarus alleni) gehört wegen seiner strahlenden kobaltblauen Farbe zu den populärsten Zierkrebsen im Süßwasseraquarium. Er wird 10 bis 15 cm groß und besitzt kräftige Scheren. Wie alle Krebse häutet er sich regelmäßig zum Wachsen. Unmittelbar nach der Häutung ist sein weicher Panzer extrem anfällig für Angriffe. Eine ausreichende Kalziumversorgung zur Panzerhärtung sowie der Verzicht auf die Vergesellschaftung mit bodenbewohnenden Fischen oder Zwerggarnelen ist essenziell. Heute erklärt  Verhaltenssignale und eine 3-Schritt-Routine.",
+        "whyTitle": "Instinkte des Blauen Floridakrebses: Häutungsverhalten und Scheren-Imponierhaltung",
+        "whyDesc": "Bei Bedrohung zeigt der Krebs eine **'Scheren-Imponierhaltung (Claw Display)'**, indem er beide Scheren hochhebt. Vor der Häutung verweigert er Futter und zieht sich tief in Verstecke zurück (**'Vor-Häutungs-Verstecken'**).",
+        "body_signals": [
+          {
+            "name": "Scheren-Imponierhaltung und Abwehrpostur (Claw Display & Defense)",
+            "meaning": "Anheben und Öffnen der Scheren nach oben zur Revierverteidigung oder als Warnung bei Störungen.",
+            "response": "Vermeiden Sie unnötiges Hantieren im Aquarium; beobachten Sie das Tier ruhig."
+          },
+          {
+            "name": "Futterverweigerung und Rückzug (Pre-molt Anorexia & Hiding)",
+            "meaning": "Einstellen der Futteraufnahme und Verbleiben im Versteck als Zeichen der bevorstehenden Häutung (Ecdysis).",
+            "response": "Vermeiden Sie Störungen im Becken und stellen Sie ausreichende PVC-Rohre oder Steinverstecke bereit."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Gesamthärte (GH/KH) & Temperaturkontrolle (20–25 °C)",
+            "text": "Überprüfen Sie die Mineralwerte (GH 6–15 dGH, pH 7,0–8,0) und kontrollieren Sie Kalziumzusätze oder Sepiaschalen."
+          },
+          {
+            "name": "Nachmittag: Kontrolle der Exuvie & Verstecksicherung",
+            "text": "Lassen Sie die abgestreifte Häutungshülle (Exuvie) 2–3 Tage im Becken, da der Krebs sie zur Kalziumaufnahme frisst."
+          },
+          {
+            "name": "Abend: Fütterung von sinkendem Krebsfutter & Filterströmung",
+            "text": "Füttern Sie abends kalziumreiche Futtertabletten und reduzieren Sie die Strömung für frisch gehäutete Krebse."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Sollte man die Häutungshülle nach der Häutung sofort entfernen?",
+            "answer": "Nein! Der Krebs frisst seine eigene Exuvie, um Kalzium und Mineralien für die schnelle Erhärtung des neuen Panzers aufzunehmen. Entfernen Sie erst nach 3 Tagen unaufgefressene Reste."
+          },
+          {
+            "question": "Kann man den Krebs mit Zwerggarnelen oder kleinen Fischen halten?",
+            "answer": "Davon wird abgeraten. Krebse sind Gelegenheitsschlächter, die schlafende Fische, Bodenfische und Garnelen mit ihren Scheren fangen. Einzelhaltung im Artbecken ist ideal."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Configuração de abrigo para o lagostim-azul-elétrico pós-muda e rotina de 3 passos de cálcio e convivência",
+        "description": "Guia de cuidados com o lagostim-azul-elétrico (Procambarus alleni). Saiba mais sobre a proteção pós-muda (ecdise), suplementação de cálcio, precauções de convivência e rotina em 3 passos.",
+        "authority": "The Crustacean Society & Diretrizes Clínicas para Crustáceos Ornamentais",
+        "profile": {
+          "breed": "Lagostim-Azul-Elétrico (Procambarus alleni / Electric Blue Crayfish)",
+          "lifespan": "3 ~ 5 anos (em cativeiro otimizado)",
+          "sleep_pattern": "10 ~ 12 horas (noturno / crepuscular: descansa em esconderijos de dia)",
+          "temperament": "Territorial, agressivo, curioso, manutenção individual recomendada"
+        },
+        "intro": "O lagostim-azul-elétrico (Procambarus alleni) é um crustáceo de água doce famoso pela sua cor azul-cobalto vibrante. Atinge 10 a 15 cm em adulto e possui garras potentes. Como todos os crustáceos, passa por mudas periódicas (ecdise) para crescer. Após a muda, o seu exoesqueleto mole deixa-o muito vulnerável. Fornecer cálcio para endurecer a carcaça e evitar a convivência com peixes de fundo ou camarões é fundamental. Neste guia, explicamos os seus sinais e uma rotina de 3 passos.",
+        "whyTitle": "Instintos do lagostim-azul-elétrico: Comportamento pré-muda e exibição de pinças",
+        "whyDesc": "Perante ameaças, o lagostim exibe uma **'Exibição de pinças (Claw Display)'**, levantando as garras para parecer maior. Antes da muda, recusa comida e esconde-se num **'Ocultamento pré-muda'** para minimizar riscos.",
+        "body_signals": [
+          {
+            "name": "Exibição de pinças e postura defensiva (Claw Display & Defense)",
+            "meaning": "Levantar e abrir as garras para cima, sinalizando defesa territorial ou resposta a estímulos.",
+            "response": "Evite colocar redes ou mãos no aquário; observe silenciosamente para reduzir o stresse."
+          },
+          {
+            "name": "Recusa de comida e ocultamento (Pre-molt Anorexia & Hiding)",
+            "meaning": "Deixar de comer e permanecer dentro de tocas escuras, indicando ecdise (muda) iminente.",
+            "response": "Evite perturbar o aquário e garanta tubos de PVC ou tocas de pedras adequadas."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Controlo de dureza (GH/KH) e temperatura (20–25 °C)",
+            "text": "Verifique os minerais (GH 6–15 dGH, pH 7.0–8.0) e inspecione a presença de osso de siba ou cálcio."
+          },
+          {
+            "name": "Tarde: Inspeção do exoesqueleto mudado e tocas",
+            "text": "Deixe a muda (exúvia) no aquário por 2 a 3 dias, pois o lagostim vai ingeri-la para reciclar cálcio."
+          },
+          {
+            "name": "Noite: Alimentação com ração afundante e ajuste do filtro",
+            "text": "Ofereça grânulos de fundo ricos em cálcio à noite e reduza o fluxo do filtro para o espécime fragilizado."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Devo retirar a carcaça mudada imediatamente?",
+            "answer": "Não! O lagostim consome a sua própria exúvia para reabsorver cálcio e minerais necessários para endurecer a nova carcaça rapidamente. Retire apenas os restos não consumidos após 3 dias."
+          },
+          {
+            "question": "Pode ser mantido com camarões anões ou peixes pequenos?",
+            "answer": "Não é recomendado. São caçadores oportunistas que apanharão peixes lentos, peixes de fundo e camarões com as suas garras. Manter um único espécime é a opção ideal."
+          }
+        ]
+      },
+      "id": {
+        "title": "Pengaturan Tempat Sembunyi Lobster Blue Moon Pasca-Ganti Kulit dan Rutinitas 3 Langkah Kalsium & Kohabitasi",
+        "description": "Panduan perawatan Lobster Blue Moon / Electric Blue Crayfish (Procambarus alleni). Pelajari perlindungan pasca-molting, suplementasi kalsium, pencegahan kanibalisme, dan 3 langkah rutinitas harian.",
+        "authority": "The Crustacean Society & Panduan Klinis Krustasea Hias",
+        "profile": {
+          "breed": "Lobster Blue Moon / Electric Blue Crayfish (Procambarus alleni)",
+          "lifespan": "3 ~ 5 tahun (pada kondisi penangkaran optimal)",
+          "sleep_pattern": "10 ~ 12 jam (nokturnal / krepuskular - beristirahat di tempat sembunyi saat siang)",
+          "temperament": "Teritorial, agresif, ingin tahu, disarankan pemeliharaan tunggal"
+        },
+        "intro": "Lobster Blue Moon (Procambarus alleni) adalah krustasea air tawar hias yang sangat populer karena warna biru kobalnya yang menawan. Tumbuh hingga 10–15 cm saat dewasa, mereka memiliki capit yang kuat. Namun seperti krustasea lainnya, mereka mengalami ganti kulit (ekdisis) secara berkala untuk tumbuh. Pasca-ganti kulit, tubuh mereka yang lunak membuat mereka sangat rentan diserang. Penyediaan kalsium untuk mengeraskan cangkang serta menghindari pemeliharaan bersama ikan dasar atau udang kecil sangat penting. Dalam panduan ini, membagikan 3 langkah rutinitas perawatan.",
+        "whyTitle": "Insting Lobster Blue Moon: Perubahan Perilaku Pra-Molting dan Tampilan Capit",
+        "whyDesc": "Saat terancam, lobster ini melakukan **'Tampilan Capit (Claw Display)'**, mengangkat kedua capitnya. Sebelum ganti kulit, mereka menolak makan dan bersembunyi di dalam goa dalam strategi **'Sembunyi Pra-Molting'**.",
+        "body_signals": [
+          {
+            "name": "Tampilan Capit & Posisi Pertahanan (Claw Display & Defense)",
+            "meaning": "Membuka dan mengangkat capit ke atas, menandakan pertahanan teritorial atau peringatan terhadap gangguan.",
+            "response": "Hindari memasukkan serokan atau tangan; amati dengan tenang untuk mengurangi stres."
+          },
+          {
+            "name": "Menolak Makan & Bersembunyi (Pre-molt Anorexia & Hiding)",
+            "meaning": "Menolak pakan dan tetap bersembunyi di tempat gelap, menandakan ganti kulit (ekdisis) akan segera terjadi.",
+            "response": "Cegah gangguan di akuarium dan sediakan pipa PVC atau goa batu yang cukup."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pemeriksaan Kesadahan Air (GH/KH) & Suhu (20–25 °C)",
+            "text": "Periksa kadar mineral (GH 6–15 dGH, pH 7.0–8.0) serta ketersediaan kalsium atau tulang sotong."
+          },
+          {
+            "name": "Siang: Pemeriksaan Cangkang Bekas & Tempat Sembunyi",
+            "text": "Biarkan cangkang bekas (eksuvia) di akuarium selama 2–3 hari karena lobster akan memakannya untuk memulihkan kalsium."
+          },
+          {
+            "name": "Malam: Pemberian Pelet Tenggelam & Pengaturan Arus Filter",
+            "text": "Berikan pelet tenggelam tinggi kalsium pada malam hari dan kecilkan arus filter agar lobster yang baru ganti kulit tidak terseret."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah cangkang bekas ganti kulit harus segera dibuang?",
+            "answer": "Jangan dibuang! Lobster akan memakan cangkang bekasnya sendiri untuk menyerap kembali kalsium dan mineral yang dibutuhkan untuk mengeraskan cangkang barunya dengan cepat. Buang sisa cangkang hanya jika tidak dimakan setelah 3 hari."
+          },
+          {
+            "question": "Bolehkah menggabungkan lobster ini dengan udang hias kecil atau ikan kecil?",
+            "answer": "Sangat tidak disarankan. Lobster adalah pemburu oportunis yang akan menangkap ikan yang sedang tidur, ikan dasar, atau udang hias dengan capitnya. Dipelihara secara tunggal (single tank) adalah opsi terbaik."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/electric_blue_crayfish_care.webp"
+  }
 }

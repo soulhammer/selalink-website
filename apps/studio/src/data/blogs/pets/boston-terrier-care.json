@@ -1,459 +1,459 @@
 {
-    "boston-terrier-care": {
-        "pubDate": "2026-02-05",
-        "updatedDate": "2026-02-05",
-        "locales": {
-            "ko": {
-                "title": "보스턴 테리어 단두종 호흡기 증후군과 안구 케어: 호흡 보호와 안구 건강 3단계 데일리 루틴",
-                "description": "납작한 머리 구조(단두종)와 돌출된 눈이 특징인 보스턴 테리어 케어법. 단두종 호흡기 증후군 예방, 체온 관리, 안구 상처 방지 3단계 루틴을 다룹니다.",
-                "authority": "미국케넬클럽(AKC) 견종 표준 및 미국수의사회(AVMA) 임상 가이드라인",
-                "profile": {
-                    "breed": "보스턴 테리어 (Boston Terrier)",
-                    "lifespan": "11 ~ 13년",
-                    "sleep_pattern": "12 ~ 14시간 (성견의 수면 및 휴식 수면)",
-                    "temperament": "친근함, 활발함, 영리함, 온순함, 다정함"
-                },
-                "intro": "신사 같은 턱시도 무늬와 귀여운 납작한 얼굴을 가진 보스턴 테리어는 '아메리칸 젠틀맨'이라 불리며 많은 사랑을 받는 반려견입니다. 하지만 단두종(Brachycephalic) 특성상 기도가 좁아 단두종 호흡기 증후군과 고열에 취약하며, 돌출된 큰 눈 때문에 각막 상처나 백내장 위험이 높습니다. 이번 가이드에서는 보스턴 테리어의 호흡 및 안구 신호를 분석하고, 건강을 지키기 위한 3단계 홈케어 루틴을 소개합니다.",
-                "whyTitle": "보스턴 테리어의 신체 시그널: 거친 가쁜 숨소리(개헐떡임)와 눈 비빔 행동",
-                "whyDesc": "보스턴 테리어가 **'목에서 크고 거친 숨소리를 내며 과도하게 헐떡이는 행동'**을 보인다면 호흡 곤란이나 체온 상승의 위험 신호입니다. 또한 **'발로 눈을 자꾸 비비거나 눈을 찡그리는 모습'**은 돌출된 안구에 각막 손상이 발생했을 가능성을 의미합니다.",
-                "body_signals": [
-                    {
-                        "name": "거친 숨소리와 과도한 헐떡임 (Stertor & Heavy Panting)",
-                        "meaning": "좁은 비강과 연두개 과대증으로 인해 공기 흐름이 막히거나 체온 조절이 되지 않아 호흡 곤란을 겪는 상태입니다.",
-                        "response": "즉시 시원하고 습도가 낮은 실내로 이동시키고, 시원한 물을 공급하며 상태가 악화되면 수의사의 진료를 받습니다."
-                    },
-                    {
-                        "name": "눈 비빔 및 찡그림 (Eye Rubbing & Squinting)",
-                        "meaning": "돌출된 안구 구조로 인해 먼지나 충격으로 각막 상처(각막 궤양)가 생겼거나 자극을 느껴 통증을 호소하는 신호입니다.",
-                        "response": "눈을 비비지 못하도록 넥카라를 씌우고, 인공눈물로 세정한 뒤 조속히 안과 검진을 받습니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 안구 상태 확인 및 얼굴 주름 청소",
-                        "text": "눈에 충혈이나 분비물이 없는지 확인하고, 코 주변 주름 사이에 습기가 차지 않도록 저자극 물티슈로 깨끗이 닦아 말려줍니다."
-                    },
-                    {
-                        "name": "낮: 실내 온·습도 관리 및 짧은 산책",
-                        "text": "체온 조절을 위해 실내 온도를 20~23℃로 유지하고, 더운 낮 시간대를 피해 그늘진 곳에서 15~20분 내외의 짧은 산책을 진행합니다."
-                    },
-                    {
-                        "name": "저녁: 인공눈물 투여 및 저강도 노즈워크",
-                        "text": "건조해지기 쉬운 안구에 보습용 인공눈물을 투여하고, 격렬한 운동 대신 노즈워크 장난감으로 자극 없이 스트레스를 해소해 줍니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "보스턴 테리어는 더위에 왜 이렇게 약한가요?",
-                        "answer": "단두종은 코와 기도가 짧아 호흡을 통한 체온 조절 능력이 일반 견종보다 현저히 떨어집니다. 한여름에는 열사병 위험이 크므로 에어컨을 가동하여 20~23℃의 시원한 환경을 유지해야 합니다."
-                    },
-                    {
-                        "question": "안구 상처(각막 궤양)를 예방하려면 어떻게 해야 하나요?",
-                        "answer": "눈이 앞으로 돌출되어 있어 풀숲이나 뾰족한 물건에 부딪히기 쉽습니다. 산책 시 숲풀 진입을 자제하고, 정기적으로 인공눈물을 넣어 건조함을 막아주며 얼굴 주변 털과 주름을 깨끗이 유지해 주세요."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Boston Terrier Brachycephalic Airway Syndrome & Eye Care: A 3-Step Daily Routine for Respiratory and Ocular Health",
-                "description": "Essential care guide for the tuxedo-patterned Boston Terrier. Learn how to prevent Brachycephalic Airway Obstructive Syndrome (BAOS), manage heat sensitivity, and protect their prominent eyes.",
-                "authority": "American Kennel Club (AKC) Breed Standard and American Veterinary Medical Association (AVMA) Clinical Guidelines",
-                "profile": {
-                    "breed": "Boston Terrier",
-                    "lifespan": "11 ~ 13 Years",
-                    "sleep_pattern": "12 ~ 14 Hours (Adult Sleep and Rest Pattern)",
-                    "temperament": "Friendly, Lively, Intelligent, Gentle, Affectionate"
-                },
-                "intro": "Known as the 'American Gentleman' for their tuxedo-like coat and sweet demeanor, the Boston Terrier is a cherished companion. However, as a brachycephalic (flat-faced) breed, their shortened airways make them susceptible to Brachycephalic Airway Obstructive Syndrome (BAOS) and heat exhaustion. Additionally, their large, prominent eyes are prone to corneal ulcers and dry eyes. In this guide, decodes the respiratory and ocular distress signals of the Boston Terrier and outlines a 3-step daily care routine to safeguard their health.",
-                "whyTitle": "Boston Terrier Physical Signals: Heavy Stertorous Gasping and Eye Rubbing",
-                "whyDesc": "If a Boston Terrier displays **'loud, labored breathing with heavy panting'**, it is a critical warning of airway distress or overheating. Conversely, **'frequent eye rubbing or squinting'** indicates potential corneal abrasion or ocular discomfort due to their prominent eye structure.",
-                "body_signals": [
-                    {
-                        "name": "Heavy Stertorous Gasping (Laborious Panting)",
-                        "meaning": "Narrow nostrils and an elongated soft palate obstruct airflow, making it difficult to regulate body temperature and breathe properly.",
-                        "response": "Move the dog to a cool, air-conditioned room immediately, provide fresh water, and seek veterinary attention if heavy panting persists."
-                    },
-                    {
-                        "name": "Eye Rubbing & Squinting (Ocular Discomfort)",
-                        "meaning": "Prominent eyes exposed to dust or minor impacts can suffer corneal ulcers or irritation, causing pain and light sensitivity.",
-                        "response": "Apply an Elizabethan collar to prevent rubbing, flush the eye with sterile saline, and visit a veterinarian for a fluorescein stain test."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Eye Inspection & Facial Wrinkle Cleaning",
-                        "text": "Inspect the eyes for redness or discharge, and clean facial folds with a mild wipe, ensuring skin folds remain completely dry."
-                    },
-                    {
-                        "name": "Afternoon: Climate Control & Short Low-Impact Walk",
-                        "text": "Maintain room temperatures at 20–23°C (68–73°F) and schedule short 15-to-20-minute walks during cooler hours to prevent heat stress."
-                    },
-                    {
-                        "name": "Evening: Lubricating Eye Drops & Indoor Nosework Play",
-                        "text": "Administer veterinary eye lubricating drops to prevent dryness, and engage in gentle indoor nosework games rather than strenuous exercise."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why are Boston Terriers so vulnerable to high temperatures?",
-                        "answer": "Due to their shortened nasal passages and flattened muzzles, Boston Terriers cannot cool themselves efficiently through panting. In hot weather, maintain room temperatures between 20–23°C (68–73°F) with air conditioning to prevent heatstroke."
-                    },
-                    {
-                        "question": "How can I protect my Boston Terrier's eyes from injuries?",
-                        "answer": "Their protruding eyes lack deep socket protection. Avoid letting them walk through dense bushes or tall grass, administer hydrating eye drops daily, and keep facial folds clean to reduce bacterial growth."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ボストン・テリアの短頭種気道症候群＆眼ケア：呼吸保護と眼の健康を守る3ステップ日常ルーティン",
-                "description": "タキシード模様と愛らしいペチャ顔が特徴のボストン・テリア。短頭種気道症候群の予防、熱中症対策、突き出た目の保護を行う3ステップケアを解説します。",
-                "authority": "アメリカンケネルクラブ(AKC) 犬種標準およびアメリカ獣医師会(AVMA) 臨床ガイドライン",
-                "profile": {
-                    "breed": "ボストン・テリア (Boston Terrier)",
-                    "lifespan": "11 〜 13年",
-                    "sleep_pattern": "12 〜 14時間 (成犬の睡眠および休息)",
-                    "temperament": "フレンドリー、活発、賢い、温厚、情が深い"
-                },
-                "intro": "タキシードを着たような毛並みと愛嬌たっぷりの平らな顔から「アメリカン・ジェントルマン」と呼ばれるボストン・テリア。しかし短頭種（ペチャ顔）特有の狭い気道を持つため、短頭種気道症候群（BAOS）や熱中症にかかりやすく、大きくて突き出た目により角膜潰瘍やドライアイのリスクが高まります。今回はボストン・テリアの呼吸と目のサインを読み解き、健康を守る3ステップ日常ルーティンをご提案します。",
-                "whyTitle": "ボストン・テリアのボディランゲージ：荒い呼吸（いびき音）と目をこする動作",
-                "whyDesc": "ボストン・テリアが**「のどを鳴らして激しくハァハァと息をする」**場合、気道閉塞や体温上昇の危険サインです。また**「前足で頻繁に目をこすったり目を細める」**行動は、突き出た眼球に傷がついている可能性を示しています。",
-                "body_signals": [
-                    {
-                        "name": "荒い呼吸と激しいハァハァ音 (Stertor & Heavy Panting)",
-                        "meaning": "狭い鼻孔や伸ばされた軟口蓋により空気の通り道が狭まり、体温調節がうまくできず息苦しさを感じている状態です。",
-                        "response": "すぐに涼しいエアコンの効いた室内に移動させ、新鮮な水を与え、状態が改善しない場合は獣医師の診察を受けてください。"
-                    },
-                    {
-                        "name": "目をこする・目を細める (Eye Rubbing & Squinting)",
-                        "meaning": "突起した眼球構造のため、ゴミや衝撃で角膜に傷（角膜潰瘍）がついたり、乾燥による痛みを感じているサインです。",
-                        "response": "エリザベスカラーを装着して患部を保護し、人工涙液で洗浄後、速やかに動物病院の眼科検査を受けてください。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：目の状態確認と顔のシワの掃除",
-                        "text": "目の充血や目ヤニの有無を確認し、鼻の周りのシワに湿気が溜まらないよう低刺激シートで拭いて乾燥させます。"
-                    },
-                    {
-                        "name": "昼：室内の温・湿度管理と短い散歩",
-                        "text": "体温調節のため室温を20〜23℃に保ち、暑い時間帯を避けて日陰で15〜20分程度の短い散歩を行います。"
-                    },
-                    {
-                        "name": "夜：人工涙液の点眼とノーズワーク遊び",
-                        "text": "乾燥しやすい目に保湿用点眼薬を投与し、激しい運動の代わりにノーズワークおもちゃでストレスを解消させます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "ボストン・テリアはなぜ暑さに弱いのですか？",
-                        "answer": "短頭種は鼻腔が短く、パンティング（開口呼吸）による体温調節能力が低いためです。夏場はエアコンで室温を20〜23℃に保ち、熱中症を徹底的に防ぐ必要があります。"
-                    },
-                    {
-                        "question": "角膜潰瘍などの目のトラブルを防ぐにはどうすればよいですか？",
-                        "answer": "目が前に出ているため、草むらや鋭い角にぶつかりやすいです。散歩時に草むらへ入らせないようにし、日常的に目薬で保湿し、顔のシワを清潔に保つことが予防になります。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "波士顿梗犬短头颅气道综合征与眼部护理：保护呼吸与眼部健康的3步日常护理流程",
-                "description": "针对拥有燕尾服花纹与平脸特征的波士顿梗犬护理。介绍预防短头颅阻塞性气道综合征（BAOS）、体温管理及保护突出眼球的3步日常护理流程。",
-                "authority": "美国犬业俱乐部 (AKC) 犬种标准与美国兽医学会 (AVMA) 临床护理指南",
-                "profile": {
-                    "breed": "波士顿梗犬 (Boston Terrier)",
-                    "lifespan": "11 ~ 13年",
-                    "sleep_pattern": "12 ~ 14小时 (成犬睡眠与休息)",
-                    "temperament": "友好、活泼、聪明、温和、亲切"
-                },
-                "intro": "波士顿梗犬拥有如燕尾服般优雅的被毛和憨态可掬的扁平面容，被称为“美国绅士”，深受大家喜爱。但由于其短头颅（Brachycephalic）的生理结构，气道狭窄极易引发短头颅气道综合征和中暑，且大而突出的眼球易发生角膜溃疡或干眼症。本指南为您解析波士顿梗犬的呼吸与眼部警示信号，并提供守护其健康的3步日常护理流程。",
-                "whyTitle": "波士顿梗犬的肢体语言：粗重喘气（呼噜声）与用爪揉眼",
-                "whyDesc": "当波士顿梗犬出现 **“喉咙发出粗重呼噜声并剧烈喘息”** 时，这是气道阻塞或体温过高的危险信号。而 **“频繁用爪揉眼或眯眼”** 则意味着其突出的眼球可能发生了角膜损伤或受到刺激。",
-                "body_signals": [
-                    {
-                        "name": "粗重喘气与剧烈呼噜声 (Stertor & Heavy Panting)",
-                        "meaning": "鼻孔狭窄及软腭过长导致气流受阻，机体无法有效散热，引发呼吸困难。",
-                        "response": "请立即将其转移至凉爽干燥的空调房内，提供饮水，若喘息持续不缓解需及时就医。"
-                    },
-                    {
-                        "name": "揉眼与眯眼 (Eye Rubbing & Squinting)",
-                        "meaning": "突出的眼球易受灰尘或碰撞伤害，可能导致角膜溃疡或刺痛感。",
-                        "response": "佩戴伊丽莎白圈防止抓挠，使用生理盐水冲洗后，尽快前往动物医院进行眼科检查。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：眼部检查与面部褶皱清洁",
-                        "text": "检查眼部是否有充血或分泌物，用温和湿巾擦拭鼻周褶皱，保持褶皱内部干燥清洁。"
-                    },
-                    {
-                        "name": "中午：室内温湿度管控与短时散步",
-                        "text": "保持室内温度在 20–23°C，避开高温时段，在阴凉处进行 15–20 分钟的轻松散步。"
-                    },
-                    {
-                        "name": "晚上：眼部润滑滴眼液与室内嗅闻游戏",
-                        "text": "使用宠物专用人工泪液湿润眼球，并通过室内嗅闻玩具消耗精力，避免剧烈运动。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "为什么波士顿梗犬如此不耐热？",
-                        "answer": "短头犬种的鼻腔和气道较短，通过呼吸散热的能力远低于普通犬种。夏季极易发生中暑，必须开启空调将室温维持在 20–23°C。"
-                    },
-                    {
-                        "question": "如何预防波士顿梗犬发生角膜溃疡？",
-                        "answer": "由于其眼球突出缺乏深眼窝保护，散步时应避免进入灌木丛，日常使用人工泪液保持眼部湿润，并定期清洁面部褶皱以减少细菌滋生。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cuidado del Síndrome Braquicefálico y Ocular del Boston Terrier: Rutina diaria de 3 pasos para la salud respiratoria y ocular",
-                "description": "Guía de cuidado para el Boston Terrier con patrón de esmoquin. Conozca cómo prevenir el Síndrome Braquicefálico, controlar el calor y proteger sus ojos prominentes.",
-                "authority": "Estándar del American Kennel Club (AKC) y Directrices Clínicas de la American Veterinary Medical Association (AVMA)",
-                "profile": {
-                    "breed": "Boston Terrier",
-                    "lifespan": "11 ~ 13 años",
-                    "sleep_pattern": "12 ~ 14 horas (patrón de descanso de perro adulto)",
-                    "temperament": "Amigable, Vivo, Inteligente, Dulce, Afectuoso"
-                },
-                "intro": "Conocido como el 'Caballero Americano' por su pelaje tipo esmoquin y su carácter afable, el Boston Terrier es un perro de compañía encantador. No obstante, al ser una raza braquicefálica (de cara chata), sus vías respiratorias estrechas lo hacen propenso al Síndrome Braquicefálico y al golpe de calor. Además, sus ojos grandes y prominentes son vulnerables a úlceras corneales y sequedad. En esta guía, descifra sus señales respiratorias y oculares para presentarle una rutina diaria de 3 pasos.",
-                "whyTitle": "Señales corporales del Boston Terrier: Jadeo ruidoso con estertor y frotado de ojos",
-                "whyDesc": "Si un Boston Terrier muestra un **'jadeo ruidoso y dificultoso con estertor'**, es un aviso crítico de obstrucción respiratoria o sobrecalentamiento. Por otro lado, el **'frotado frecuente de ojos o el entrecerrar los párpados'** indica posibles lesiones corneales o irritación ocular.",
-                "body_signals": [
-                    {
-                        "name": "Jadeo ruidoso con estertor (Stertor & Heavy Panting)",
-                        "meaning": "Orificios nasales estrechos y un paladar blando elongado dificultan el flujo de aire y la termorregulación, provocando disnea.",
-                        "response": "Llévelo de inmediato a una estancia fresca con aire acondicionado, ofrézcale agua y acuda al veterinario si la fatiga persiste."
-                    },
-                    {
-                        "name": "Frotado de ojos y párpados entrecerrados (Eye Rubbing)",
-                        "meaning": "Los ojos prominentes son vulnerables a roces o polvo, pudiendo sufrir úlceras corneales u oclusión dolorosa.",
-                        "response": "Colóquele un collar isabelino para evitar el rascado, limpie el ojo con suero fisiológico y consulte al veterinario."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Inspección ocular y limpieza de pliegues faciales",
-                        "text": "Revise que los ojos no tengan secreciones o enrojecimiento y limpie suavemente los pliegues de la cara manteniéndolos secos."
-                    },
-                    {
-                        "name": "Tarde: Control climático y paseos breves de bajo impacto",
-                        "text": "Mantenga la temperatura ambiente entre 20 y 23 °C y realice paseos cortos de 15 a 20 minutos en horas frescas para evitar el estrés térmico."
-                    },
-                    {
-                        "name": "Noche: Gotas oftálmicas lubricantes y juegos de olfato",
-                        "text": "Aplique lágrimas artificiales de uso veterinario para hidratar los ojos y estimule su mente con juegos tranquilos de olfato."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué el Boston Terrier es tan sensible al calor?",
-                        "answer": "Las razas braquicefálicas tienen vías respiratorias cortas que reducen su capacidad para disipar el calor mediante el jadeo. En épocas calurosas es imprescindible mantener un ambiente climatizado entre 20 y 23 °C."
-                    },
-                    {
-                        "question": "¿Cómo puedo proteger los ojos de mi Boston Terrier?",
-                        "answer": "Sus ojos saltones carecen de la protección de una órbita profunda. Evite que se introduzca en matorrales, aplique lágrimas artificiales a diario y mantenga secos sus pliegues faciales."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Soins du Boston Terrier (Syndrome Brachycéphale et Santé Oculaire) : Routine quotidienne en 3 étapes pour la respiration et les yeux",
-                "description": "Guide de soin pour le Boston Terrier au pelage smoking. Apprenez à prévenir le Syndrome Obstructif des Voies Respiratoires (SOVR), gérer la chaleur et protéger ses yeux saillants.",
-                "authority": "Standard de l'American Kennel Club (AKC) et Directives Cliniques de l'American Veterinary Medical Association (AVMA)",
-                "profile": {
-                    "breed": "Boston Terrier",
-                    "lifespan": "11 ~ 13 ans",
-                    "sleep_pattern": "12 ~ 14 heures (sommeil et repos du chien adulte)",
-                    "temperament": "Amical, Vif, Intelligent, Doux, Affectueux"
-                },
-                "intro": "Surnommé le 'Gentleman Américain' en raison de son pelage évoquant un smoking et de sa douceur, le Boston Terrier est un chien de compagnie très apprécié. Cependant, en tant que race brachycéphale (à face plate), la brièveté de ses voies respiratoires l'expose au Syndrome Obstructif des Voies Respiratoires et aux coups de chaleur. De plus, ses grands yeux proéminents sont sujets aux ulcères cornéens et à la sécheresse oculaire. Ce guide vous propose une routine de soin en 3 étapes pour protéger sa santé.",
-                "whyTitle": "Langage corporel du Boston Terrier : Halètement bruyant (stertor) et frottement des yeux",
-                "whyDesc": "Si un Boston Terrier présente un **« halètement bruyant accompagné de stertor »**, c'est le signe d'une détresse respiratoire ou d'un coup de chaud. Par ailleurs, s'il **« se frotte fréquemment les yeux ou cligne de la paupière »**, cela indique une blessure cornéenne ou une irritation due à ses yeux saillants.",
-                "body_signals": [
-                    {
-                        "name": "Halètement bruyant et stertoreux (Heavy Panting)",
-                        "meaning": "Des narines étroites et un voile du palais trop long entravent la circulation de l'air, rendant le refroidissement corporel difficile.",
-                        "response": "Placez immédiatement le chien dans une pièce fraîche et climatisée, donnez-lui de l'eau fraîche et consultez un vétérinaire si l'essoufflement persiste."
-                    },
-                    {
-                        "name": "Frottement des yeux et clignement (Eye Rubbing)",
-                        "meaning": "Ses yeux proéminents exposés à la poussière ou aux chocs peuvent subir des ulcères cornéens douloureux.",
-                        "response": "Mettez-lui une collerette pour éviter les grattages, rincez l'œil avec une solution saline stérile et consultez un vétérinaire."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Examen oculaire et nettoyage des plis du visage",
-                        "text": "Vérifiez l'absence de rougeurs aux yeux et nettoyez délicatement les plis de la face avec une lingette douce en veillant à bien les sécher."
-                    },
-                    {
-                        "name": "Midi : Gestion du climat intérieur et courtes promenades",
-                        "text": "Maintenez la température intérieure entre 20 et 23 °C et privilégiez de courtes sorties de 15 à 20 minutes aux heures les plus fraîches."
-                    },
-                    {
-                        "name": "Soir : Gouttes oculaires hydratantes et jeux de fouille",
-                        "text": "Appliquez des larmes artificielles vétérinaires pour humidifier la cornée et proposez des jeux d'occupation calmes comme le nosework."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi le Boston Terrier est-il si vulnérable à la chaleur ?",
-                        "answer": "Son museau court limite sa capacité à réguler sa température par le halètement. En été, il est indispensable de maintenir un environnement rafraîchi par la climatisation entre 20 et 23 °C."
-                    },
-                    {
-                        "question": "Comment protéger les yeux proéminents du Boston Terrier ?",
-                        "answer": "Ses yeux globe-trotteurs manquent de protection osseuse. Évitez les promenades dans les hautes herbes, instillez quotidiennement des gouttes réhydratantes et gardez les plis faciaux propres."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Boston Terrier Brachyzephales Syndrom & Augenpflege: Tägliche 3-Schritte-Routine für Atemwege und Augengesundheit",
-                "description": "Pflegeanleitung für den Boston Terrier im Tuxedo-Look. Erfahren Sie, wie Sie das Brachyzephale Atemwegssyndrom vorbeugen, Hitze vermeiden und die Augen schützen.",
-                "authority": "Standard des American Kennel Club (AKC) und Klinische Leitlinien der American Veterinary Medical Association (AVMA)",
-                "profile": {
-                    "breed": "Boston Terrier",
-                    "lifespan": "11 ~ 13 Jahre",
-                    "sleep_pattern": "12 ~ 14 Stunden (Schlaf und Ruhe eines ausgewachsenen Hundes)",
-                    "temperament": "Freundlich, Lebhaft, Intelligent, Sanftmütig, Anhänglich"
-                },
-                "intro": "Wegen seines eleganten Fells im Frack-Design und seines charmanten Wesens wird der Boston Terrier liebevoll als 'American Gentleman' bezeichnet. Als brachyzephale (kurzköpfige) Rasse neigt er jedoch aufgrund verengter Atemwege zum Brachyzephalen Atemwegssyndrom (BAOS) und ist extrem hitzeempfindlich. Seine großen, leicht hervorstehenden Augen sind zudem anfällig für Hornhautgeschwüre.  entschlüsselt die Atemwegs- und Augensignale des Boston Terriers und stellt eine 3-Schritte-Routine vor.",
-                "whyTitle": "Körpersprache des Boston Terriers: Lautes Röcheln (Stertor) und Reiben der Augen",
-                "whyDesc": "Zeigt ein Boston Terrier **'lautes, angestrengtes Keuchen mit Röchelgeräuschen'**, ist dies ein Alarmsignal für Atemnot oder Überhitzung. **'Häufiges Reiben der Augen mit den Pfoten'** deutet dagegen auf Verletzungen der Hornhaut oder Reizungen hin.",
-                "body_signals": [
-                    {
-                        "name": "Lautes Röcheln und angestrengtes Keuchen (Stertor & Heavy Panting)",
-                        "meaning": "Verengte Nasenlöcher und ein verlängertes Gaumensegel behindern die Luftzufuhr und erschweren die Regulierung der Körpertemperatur.",
-                        "response": "Bringen Sie den Hund sofort in einen kühlen, klimatisierten Raum, geben Sie frisches Wasser und suchen Sie bei anhaltender Atemnot einen Tierarzt auf."
-                    },
-                    {
-                        "name": "Reiben der Augen & Zukneifen (Eye Rubbing & Squinting)",
-                        "meaning": "Die hervortretenden Augen sind anfällig für Fremdkörper oder Hornhautverletzungen (Hornhautgeschwüre), was Schmerzen verursacht.",
-                        "response": "Legen Sie einen Halskragen an, um das Reiben zu verhindern, spülen Sie das Auge mit Augenspülung und lassen Sie es tierärztlich untersuchen."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Augenkontrolle & Pflege der Gesichtsfalten",
-                        "text": "Überprüfen Sie die Augen auf Rötungen und reinigen Sie die Hautfalten im Gesicht sanft mit einem feuchten Tuch, um sie danach gut zu trocknen."
-                    },
-                    {
-                        "name": "Mittag: Raumklimatisierung & Kurzer Spaziergang",
-                        "text": "Halten Sie die Raumtemperatur bei 20–23 °C und beschränken Sie Spaziergänge in den kühlen Stunden auf kurze 15–20 Minuten."
-                    },
-                    {
-                        "name": "Abend: Befeuchtende Augentropfen & Ruhiges Schnüffelspiel",
-                        "text": "Geben Sie befeuchtende Augentropfen ein, um das Austrocknen der Hornhaut zu verhindern, und lasten Sie den Hund mit Schnüffelspielen geistig aus."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum reagiert der Boston Terrier so empfindlich auf Hitze?",
-                        "answer": "Durch die verkürzten Nasenwege können kurzköpfige Hunde ihre Körpertemperatur durch Hecheln nur unzureichend regulieren. Bei warmem Wetter muss der Raum mit einer Klimaanlage auf 20–23 °C gekühlt werden."
-                    },
-                    {
-                        "question": "Wie kann man Hornhautverletzungen bei den Augen vermeiden?",
-                        "answer": "Da die hervortretenden Augen kaum Schutz durch die Augenhöhle genießen, sollte der Hund nicht durch hohes Gras laufen. Tägliche Augentropfen und saubere Gesichtsfalten reduzieren Infektionsrisiken."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Cuidado da Síndrome Braquicefálica e Ocular do Boston Terrier: Rotina diária de 3 passos para a saúde respiratória e ocular",
-                "description": "Guia de cuidados para o Boston Terrier de pelagem estilo tuxedo. Saiba como prevenir a Síndrome Braquicefálica, controlar o calor e proteger seus olhos proeminentes.",
-                "authority": "Padrão do American Kennel Club (AKC) e Diretrizes Clínicas da American Veterinary Medical Association (AVMA)",
-                "profile": {
-                    "breed": "Boston Terrier",
-                    "lifespan": "11 ~ 13 anos",
-                    "sleep_pattern": "12 ~ 14 horas (padrão de descanso de cão adulto)",
-                    "temperament": "Amigável, Visto, Inteligente, Gentil, Afetuoso"
-                },
-                "intro": "Conhecido como o 'Cavalheiro Americano' devido à sua pelagem que lembra um tuxedo e ao seu temperamento dócil, o Boston Terrier é um companheiro adorável. No entanto, por ser uma raça braquicefálica (de focinho achatado), suas vias aéreas estreitas o tornam propenso à Síndrome Braquicefálica e à hipertermia. Além disso, seus olhos grandes e salientes exigem atenção contra úlceras de córnea. O Este guia  uma rotina de 3 passos para cuidar da saúde do seu cão.",
-                "whyTitle": "Sinais corporais do Boston Terrier: Arfar ruidoso com estertor e ato de coçar os olhos",
-                "whyDesc": "Se um Boston Terrier apresentar um **'arfar ruidoso e com esforço respiratório'**, este é um alerta crítico de obstrução das vias aéreas ou superaquecimento. Já o hábito de **'coçar os olhos com as patas ou piscar excessivamente'** indica lesões na córnea ou desconforto ocular.",
-                "body_signals": [
-                    {
-                        "name": "Arfar ruidoso com estertor (Stertor & Heavy Panting)",
-                        "meaning": "Narinas estreitas e palato mole prolongado dificultam a passagem do ar e a regulação da temperatura corporal.",
-                        "response": "Leve o cão imediatamente para um ambiente fresco e climatizado, ofereça água e consulte o veterinário se a respiração continuar arfante."
-                    },
-                    {
-                        "name": "Ato de coçar os olhos e piscar (Eye Rubbing)",
-                        "meaning": "Os olhos salientes ficam expostos a poeira e pequenos impactos, podendo sofrer úlceras corneanas dolorosas.",
-                        "response": "Coloque um colar elizabetano para evitar arranhões, lave o olho com soro fisiológico e busque atendimento veterinário."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Inspeção ocular e limpeza das dobras faciais",
-                        "text": "Verifique se os olhos estão vermelhos ou com secreções e limpe suavemente as dobras da face, mantendo a pele bem seca."
-                    },
-                    {
-                        "name": "Tarde: Controle de temperatura e passeios curtos",
-                        "text": "Mantenha a temperatura ambiente entre 20 e 23 °C e faça passeios curtos de 15 a 20 minutos nos horários mais frescos do dia."
-                    },
-                    {
-                        "name": "Noite: Colírio lubrificante e brincadeiras de olfato",
-                        "text": "Aplique lágrimas artificiais veterinárias para hidratar a córnea e faça atividades calmas de olfato dentro de casa."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Por que o Boston Terrier é tão sensível ao calor?",
-                        "answer": "O focinho encurtado reduz a capacidade da raça de dissipar o calor corporal através do arfar. Durante o verão, é indispensável manter o ambiente climatizado com ar-condicionado entre 20 e 23 °C."
-                    },
-                    {
-                        "question": "Como prevenir lesões nos olhos do Boston Terrier?",
-                        "answer": "Seus olhos proeminentes não possuem proteção profunda da órbita ocular. Evite que o cão entre em arbustos, aplique colírios lubrificantes diariamente e mantenha as dobras faciais higienizadas."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Panduan Perawatan Anjing Boston Terrier: Sindrom Saluran Napas Brakisefalik dan Perawatan Mata melalui 3 Langkah Rutinitas Harian",
-                "description": "Panduan perawatan esensial untuk anjing Boston Terrier berbulu motif tuksedo. Pelajari cara mencegah Sindrom Brakisefalik, mengatasi sensitivitas suhu, dan merawat matanya.",
-                "authority": "Standar Trah American Kennel Club (AKC) & Pedoman Klinis American Veterinary Medical Association (AVMA)",
-                "profile": {
-                    "breed": "Boston Terrier",
-                    "lifespan": "11 ~ 13 tahun",
-                    "sleep_pattern": "12 ~ 14 jam (pola tidur dan istirahat anjing dewasa)",
-                    "temperament": "Ramah, Lincah, Cerdas, Lembut, Penyayang"
-                },
-                "intro": "Dijuluki 'American Gentleman' karena motif bulunya yang menyerupai tuksedo dan sifatnya yang manis, Boston Terrier adalah anjing pendamping yang sangat dicintai. Namun, sebagai ras brakisefalik (berwajah pipih), saluran napasnya yang pendek membuat mereka rentan terhadap Sindrom Saluran Napas Brakisefalik (BAOS) dan serangan panas. Selain itu, matanya yang besar dan agak menonjol rentan mengalami ulkus kornea. Dalam panduan ini, mengulas sinyal pernapasan dan mata Boston Terrier serta menyajikan 3 langkah rutinitas harian.",
-                "whyTitle": "Bahasa Tubuh Boston Terrier: Napas Terdengar Kasar (Ngorok) dan Menggosok Mata",
-                "whyDesc": "Jika Boston Terrier menunjukkan **'napas terengah-engah dan terdengar ngorok kasar'**, ini adalah sinyal bahaya gangguan saluran napas atau kegerahan. Sementara itu, **'sering menggosok mata dengan kaki'** menandakan adanya iritasi atau luka pada kornea matanya.",
-                "body_signals": [
-                    {
-                        "name": "Napas Terdengar Kasar & Terengah-Engah (Stertor & Heavy Panting)",
-                        "meaning": "Lubang hidung yang sempit dan langit-langit mulut yang panjang menghambat aliran udara, membuat anjing sulit mengatur suhu tubuh.",
-                        "response": "Segera bawa ke ruangan ber-AC yang sejuk, berikan air minum, dan hubungi dokter hewan jika napas terengah-engah tidak mereda."
-                    },
-                    {
-                        "name": "Menggosok Mata & Memicingkan Mata (Eye Rubbing & Squinting)",
-                        "meaning": "Mata yang menonjol mudah terkena debu atau benturan, yang dapat memicu ulkus kornea atau rasa nyeri pada mata.",
-                        "response": "Pasang kerah Elizabethan (E-collar) agar mata tidak digosok, bilas dengan cairan obat tetes mata steril, dan periksakan ke dokter hewan."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Pemeriksaan Mata & Pembersihan Lipatan Wajah",
-                        "text": "Periksa kondisi mata dari kemerahan atau kotoran, lalu bersihkan lipatan kulit di sekitar hidung dengan tisu lembut dan pastikan tetap kering."
-                    },
-                    {
-                        "name": "Siang: Kontrol Suhu Ruangan & Jalan-Jalan Singkat",
-                        "text": "Jaga suhu ruangan pada 20–23 °C dan lakukan jalan-jalan singkat selama 15–20 menit di tempat teduh pada waktu yang tidak panas."
-                    },
-                    {
-                        "name": "Malam: Tetes Mata Pelembap & Permainan Olfaktori",
-                        "text": "Berikan obat tetes mata pelembap khusus hewan untuk mencegah kekeringan, dan ajak bermain permainan olfaktori (nosework) yang tenang di dalam rumah."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa Boston Terrier sangat tidak tahan terhadap cuaca panas?",
-                        "answer": "Ras brakisefalik memiliki saluran hidung yang pendek sehingga kemampuan melepaskan panas tubuh melalui napas sangat terbatas. Pada cuaca panas, penggunaan AC untuk menjaga suhu 20–23 °C sangat mutlak diperlukan."
-                    },
-                    {
-                        "question": "Bagaimana cara mencegah iritasi dan luka pada mata Boston Terrier?",
-                        "answer": "Matanya yang agak menonjol tidak terlindungi oleh rongga mata yang dalam. Hindari mengajak anjing berjalan menembus semak-semak, berikan tetes mata pelembap secara rutin, dan jaga kebersihan lipatan wajahnya."
-                    }
-                ]
-            }
+  "boston-terrier-care": {
+    "pubDate": "2026-02-05",
+    "updatedDate": "2026-02-05",
+    "locales": {
+      "ko": {
+        "title": "보스턴 테리어 단두종 호흡기 증후군과 안구 케어: 호흡 보호와 안구 건강 3단계 데일리 루틴",
+        "description": "납작한 머리 구조(단두종)와 돌출된 눈이 특징인 보스턴 테리어 케어법. 단두종 호흡기 증후군 예방, 체온 관리, 안구 상처 방지 3단계 루틴을 다룹니다.",
+        "authority": "미국케넬클럽(AKC) 견종 표준 및 미국수의사회(AVMA) 임상 가이드라인",
+        "profile": {
+          "breed": "보스턴 테리어 (Boston Terrier)",
+          "lifespan": "11 ~ 13년",
+          "sleep_pattern": "12 ~ 14시간 (성견의 수면 및 휴식 수면)",
+          "temperament": "친근함, 활발함, 영리함, 온순함, 다정함"
         },
-        "heroImage": "/images/blog/boston_terrier_care.webp"
-    }
+        "intro": "신사 같은 턱시도 무늬와 귀여운 납작한 얼굴을 가진 보스턴 테리어는 '아메리칸 젠틀맨'이라 불리며 많은 사랑을 받는 반려견입니다. 하지만 단두종(Brachycephalic) 특성상 기도가 좁아 단두종 호흡기 증후군과 고열에 취약하며, 돌출된 큰 눈 때문에 각막 상처나 백내장 위험이 높습니다. 이번 가이드에서는 보스턴 테리어의 호흡 및 안구 신호를 분석하고, 건강을 지키기 위한 3단계 홈케어 루틴을 소개합니다.",
+        "whyTitle": "보스턴 테리어의 신체 시그널: 거친 가쁜 숨소리(개헐떡임)와 눈 비빔 행동",
+        "whyDesc": "보스턴 테리어가 **'목에서 크고 거친 숨소리를 내며 과도하게 헐떡이는 행동'**을 보인다면 호흡 곤란이나 체온 상승의 위험 신호입니다. 또한 **'발로 눈을 자꾸 비비거나 눈을 찡그리는 모습'**은 돌출된 안구에 각막 손상이 발생했을 가능성을 의미합니다.",
+        "body_signals": [
+          {
+            "name": "거친 숨소리와 과도한 헐떡임 (Stertor & Heavy Panting)",
+            "meaning": "좁은 비강과 연두개 과대증으로 인해 공기 흐름이 막히거나 체온 조절이 되지 않아 호흡 곤란을 겪는 상태입니다.",
+            "response": "즉시 시원하고 습도가 낮은 실내로 이동시키고, 시원한 물을 공급하며 상태가 악화되면 수의사의 진료를 받습니다."
+          },
+          {
+            "name": "눈 비빔 및 찡그림 (Eye Rubbing & Squinting)",
+            "meaning": "돌출된 안구 구조로 인해 먼지나 충격으로 각막 상처(각막 궤양)가 생겼거나 자극을 느껴 통증을 호소하는 신호입니다.",
+            "response": "눈을 비비지 못하도록 넥카라를 씌우고, 인공눈물로 세정한 뒤 조속히 안과 검진을 받습니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 안구 상태 확인 및 얼굴 주름 청소",
+            "text": "눈에 충혈이나 분비물이 없는지 확인하고, 코 주변 주름 사이에 습기가 차지 않도록 저자극 물티슈로 깨끗이 닦아 말려줍니다."
+          },
+          {
+            "name": "낮: 실내 온·습도 관리 및 짧은 산책",
+            "text": "체온 조절을 위해 실내 온도를 20~23℃로 유지하고, 더운 낮 시간대를 피해 그늘진 곳에서 15~20분 내외의 짧은 산책을 진행합니다."
+          },
+          {
+            "name": "저녁: 인공눈물 투여 및 저강도 노즈워크",
+            "text": "건조해지기 쉬운 안구에 보습용 인공눈물을 투여하고, 격렬한 운동 대신 노즈워크 장난감으로 자극 없이 스트레스를 해소해 줍니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "보스턴 테리어는 더위에 왜 이렇게 약한가요?",
+            "answer": "단두종은 코와 기도가 짧아 호흡을 통한 체온 조절 능력이 일반 견종보다 현저히 떨어집니다. 한여름에는 열사병 위험이 크므로 에어컨을 가동하여 20~23℃의 시원한 환경을 유지해야 합니다."
+          },
+          {
+            "question": "안구 상처(각막 궤양)를 예방하려면 어떻게 해야 하나요?",
+            "answer": "눈이 앞으로 돌출되어 있어 풀숲이나 뾰족한 물건에 부딪히기 쉽습니다. 산책 시 숲풀 진입을 자제하고, 정기적으로 인공눈물을 넣어 건조함을 막아주며 얼굴 주변 털과 주름을 깨끗이 유지해 주세요."
+          }
+        ]
+      },
+      "en": {
+        "title": "Boston Terrier Brachycephalic Airway Syndrome & Eye Care: A 3-Step Daily Routine for Respiratory and Ocular Health",
+        "description": "Essential care guide for the tuxedo-patterned Boston Terrier. Learn how to prevent Brachycephalic Airway Obstructive Syndrome (BAOS), manage heat sensitivity, and protect their prominent eyes.",
+        "authority": "American Kennel Club (AKC) Breed Standard and American Veterinary Medical Association (AVMA) Clinical Guidelines",
+        "profile": {
+          "breed": "Boston Terrier",
+          "lifespan": "11 ~ 13 Years",
+          "sleep_pattern": "12 ~ 14 Hours (Adult Sleep and Rest Pattern)",
+          "temperament": "Friendly, Lively, Intelligent, Gentle, Affectionate"
+        },
+        "intro": "Known as the 'American Gentleman' for their tuxedo-like coat and sweet demeanor, the Boston Terrier is a cherished companion. However, as a brachycephalic (flat-faced) breed, their shortened airways make them susceptible to Brachycephalic Airway Obstructive Syndrome (BAOS) and heat exhaustion. Additionally, their large, prominent eyes are prone to corneal ulcers and dry eyes. In this guide, decodes the respiratory and ocular distress signals of the Boston Terrier and outlines a 3-step daily care routine to safeguard their health.",
+        "whyTitle": "Boston Terrier Physical Signals: Heavy Stertorous Gasping and Eye Rubbing",
+        "whyDesc": "If a Boston Terrier displays **'loud, labored breathing with heavy panting'**, it is a critical warning of airway distress or overheating. Conversely, **'frequent eye rubbing or squinting'** indicates potential corneal abrasion or ocular discomfort due to their prominent eye structure.",
+        "body_signals": [
+          {
+            "name": "Heavy Stertorous Gasping (Laborious Panting)",
+            "meaning": "Narrow nostrils and an elongated soft palate obstruct airflow, making it difficult to regulate body temperature and breathe properly.",
+            "response": "Move the dog to a cool, air-conditioned room immediately, provide fresh water, and seek veterinary attention if heavy panting persists."
+          },
+          {
+            "name": "Eye Rubbing & Squinting (Ocular Discomfort)",
+            "meaning": "Prominent eyes exposed to dust or minor impacts can suffer corneal ulcers or irritation, causing pain and light sensitivity.",
+            "response": "Apply an Elizabethan collar to prevent rubbing, flush the eye with sterile saline, and visit a veterinarian for a fluorescein stain test."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Eye Inspection & Facial Wrinkle Cleaning",
+            "text": "Inspect the eyes for redness or discharge, and clean facial folds with a mild wipe, ensuring skin folds remain completely dry."
+          },
+          {
+            "name": "Afternoon: Climate Control & Short Low-Impact Walk",
+            "text": "Maintain room temperatures at 20–23°C (68–73°F) and schedule short 15-to-20-minute walks during cooler hours to prevent heat stress."
+          },
+          {
+            "name": "Evening: Lubricating Eye Drops & Indoor Nosework Play",
+            "text": "Administer veterinary eye lubricating drops to prevent dryness, and engage in gentle indoor nosework games rather than strenuous exercise."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why are Boston Terriers so vulnerable to high temperatures?",
+            "answer": "Due to their shortened nasal passages and flattened muzzles, Boston Terriers cannot cool themselves efficiently through panting. In hot weather, maintain room temperatures between 20–23°C (68–73°F) with air conditioning to prevent heatstroke."
+          },
+          {
+            "question": "How can I protect my Boston Terrier's eyes from injuries?",
+            "answer": "Their protruding eyes lack deep socket protection. Avoid letting them walk through dense bushes or tall grass, administer hydrating eye drops daily, and keep facial folds clean to reduce bacterial growth."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ボストン・テリアの短頭種気道症候群＆眼ケア：呼吸保護と眼の健康を守る3ステップ日常ルーティン",
+        "description": "タキシード模様と愛らしいペチャ顔が特徴のボストン・テリア。短頭種気道症候群の予防、熱中症対策、突き出た目の保護を行う3ステップケアを解説します。",
+        "authority": "アメリカンケネルクラブ(AKC) 犬種標準およびアメリカ獣医師会(AVMA) 臨床ガイドライン",
+        "profile": {
+          "breed": "ボストン・テリア (Boston Terrier)",
+          "lifespan": "11 〜 13年",
+          "sleep_pattern": "12 〜 14時間 (成犬の睡眠および休息)",
+          "temperament": "フレンドリー、活発、賢い、温厚、情が深い"
+        },
+        "intro": "タキシードを着たような毛並みと愛嬌たっぷりの平らな顔から「アメリカン・ジェントルマン」と呼ばれるボストン・テリア。しかし短頭種（ペチャ顔）特有の狭い気道を持つため、短頭種気道症候群（BAOS）や熱中症にかかりやすく、大きくて突き出た目により角膜潰瘍やドライアイのリスクが高まります。今回はボストン・テリアの呼吸と目のサインを読み解き、健康を守る3ステップ日常ルーティンをご提案します。",
+        "whyTitle": "ボストン・テリアのボディランゲージ：荒い呼吸（いびき音）と目をこする動作",
+        "whyDesc": "ボストン・テリアが**「のどを鳴らして激しくハァハァと息をする」**場合、気道閉塞や体温上昇の危険サインです。また**「前足で頻繁に目をこすったり目を細める」**行動は、突き出た眼球に傷がついている可能性を示しています。",
+        "body_signals": [
+          {
+            "name": "荒い呼吸と激しいハァハァ音 (Stertor & Heavy Panting)",
+            "meaning": "狭い鼻孔や伸ばされた軟口蓋により空気の通り道が狭まり、体温調節がうまくできず息苦しさを感じている状態です。",
+            "response": "すぐに涼しいエアコンの効いた室内に移動させ、新鮮な水を与え、状態が改善しない場合は獣医師の診察を受けてください。"
+          },
+          {
+            "name": "目をこする・目を細める (Eye Rubbing & Squinting)",
+            "meaning": "突起した眼球構造のため、ゴミや衝撃で角膜に傷（角膜潰瘍）がついたり、乾燥による痛みを感じているサインです。",
+            "response": "エリザベスカラーを装着して患部を保護し、人工涙液で洗浄後、速やかに動物病院の眼科検査を受けてください。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：目の状態確認と顔のシワの掃除",
+            "text": "目の充血や目ヤニの有無を確認し、鼻の周りのシワに湿気が溜まらないよう低刺激シートで拭いて乾燥させます。"
+          },
+          {
+            "name": "昼：室内の温・湿度管理と短い散歩",
+            "text": "体温調節のため室温を20〜23℃に保ち、暑い時間帯を避けて日陰で15〜20分程度の短い散歩を行います。"
+          },
+          {
+            "name": "夜：人工涙液の点眼とノーズワーク遊び",
+            "text": "乾燥しやすい目に保湿用点眼薬を投与し、激しい運動の代わりにノーズワークおもちゃでストレスを解消させます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ボストン・テリアはなぜ暑さに弱いのですか？",
+            "answer": "短頭種は鼻腔が短く、パンティング（開口呼吸）による体温調節能力が低いためです。夏場はエアコンで室温を20〜23℃に保ち、熱中症を徹底的に防ぐ必要があります。"
+          },
+          {
+            "question": "角膜潰瘍などの目のトラブルを防ぐにはどうすればよいですか？",
+            "answer": "目が前に出ているため、草むらや鋭い角にぶつかりやすいです。散歩時に草むらへ入らせないようにし、日常的に目薬で保湿し、顔のシワを清潔に保つことが予防になります。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "波士顿梗犬短头颅气道综合征与眼部护理：保护呼吸与眼部健康的3步日常护理流程",
+        "description": "针对拥有燕尾服花纹与平脸特征的波士顿梗犬护理。介绍预防短头颅阻塞性气道综合征（BAOS）、体温管理及保护突出眼球的3步日常护理流程。",
+        "authority": "美国犬业俱乐部 (AKC) 犬种标准与美国兽医学会 (AVMA) 临床护理指南",
+        "profile": {
+          "breed": "波士顿梗犬 (Boston Terrier)",
+          "lifespan": "11 ~ 13年",
+          "sleep_pattern": "12 ~ 14小时 (成犬睡眠与休息)",
+          "temperament": "友好、活泼、聪明、温和、亲切"
+        },
+        "intro": "波士顿梗犬拥有如燕尾服般优雅的被毛和憨态可掬的扁平面容，被称为“美国绅士”，深受大家喜爱。但由于其短头颅（Brachycephalic）的生理结构，气道狭窄极易引发短头颅气道综合征和中暑，且大而突出的眼球易发生角膜溃疡或干眼症。本指南为您解析波士顿梗犬的呼吸与眼部警示信号，并提供守护其健康的3步日常护理流程。",
+        "whyTitle": "波士顿梗犬的肢体语言：粗重喘气（呼噜声）与用爪揉眼",
+        "whyDesc": "当波士顿梗犬出现 **“喉咙发出粗重呼噜声并剧烈喘息”** 时，这是气道阻塞或体温过高的危险信号。而 **“频繁用爪揉眼或眯眼”** 则意味着其突出的眼球可能发生了角膜损伤或受到刺激。",
+        "body_signals": [
+          {
+            "name": "粗重喘气与剧烈呼噜声 (Stertor & Heavy Panting)",
+            "meaning": "鼻孔狭窄及软腭过长导致气流受阻，机体无法有效散热，引发呼吸困难。",
+            "response": "请立即将其转移至凉爽干燥的空调房内，提供饮水，若喘息持续不缓解需及时就医。"
+          },
+          {
+            "name": "揉眼与眯眼 (Eye Rubbing & Squinting)",
+            "meaning": "突出的眼球易受灰尘或碰撞伤害，可能导致角膜溃疡或刺痛感。",
+            "response": "佩戴伊丽莎白圈防止抓挠，使用生理盐水冲洗后，尽快前往动物医院进行眼科检查。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：眼部检查与面部褶皱清洁",
+            "text": "检查眼部是否有充血或分泌物，用温和湿巾擦拭鼻周褶皱，保持褶皱内部干燥清洁。"
+          },
+          {
+            "name": "中午：室内温湿度管控与短时散步",
+            "text": "保持室内温度在 20–23°C，避开高温时段，在阴凉处进行 15–20 分钟的轻松散步。"
+          },
+          {
+            "name": "晚上：眼部润滑滴眼液与室内嗅闻游戏",
+            "text": "使用宠物专用人工泪液湿润眼球，并通过室内嗅闻玩具消耗精力，避免剧烈运动。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "为什么波士顿梗犬如此不耐热？",
+            "answer": "短头犬种的鼻腔和气道较短，通过呼吸散热的能力远低于普通犬种。夏季极易发生中暑，必须开启空调将室温维持在 20–23°C。"
+          },
+          {
+            "question": "如何预防波士顿梗犬发生角膜溃疡？",
+            "answer": "由于其眼球突出缺乏深眼窝保护，散步时应避免进入灌木丛，日常使用人工泪液保持眼部湿润，并定期清洁面部褶皱以减少细菌滋生。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cuidado del Síndrome Braquicefálico y Ocular del Boston Terrier: Rutina diaria de 3 pasos para la salud respiratoria y ocular",
+        "description": "Guía de cuidado para el Boston Terrier con patrón de esmoquin. Conozca cómo prevenir el Síndrome Braquicefálico, controlar el calor y proteger sus ojos prominentes.",
+        "authority": "Estándar del American Kennel Club (AKC) y Directrices Clínicas de la American Veterinary Medical Association (AVMA)",
+        "profile": {
+          "breed": "Boston Terrier",
+          "lifespan": "11 ~ 13 años",
+          "sleep_pattern": "12 ~ 14 horas (patrón de descanso de perro adulto)",
+          "temperament": "Amigable, Vivo, Inteligente, Dulce, Afectuoso"
+        },
+        "intro": "Conocido como el 'Caballero Americano' por su pelaje tipo esmoquin y su carácter afable, el Boston Terrier es un perro de compañía encantador. No obstante, al ser una raza braquicefálica (de cara chata), sus vías respiratorias estrechas lo hacen propenso al Síndrome Braquicefálico y al golpe de calor. Además, sus ojos grandes y prominentes son vulnerables a úlceras corneales y sequedad. En esta guía, descifra sus señales respiratorias y oculares para presentarle una rutina diaria de 3 pasos.",
+        "whyTitle": "Señales corporales del Boston Terrier: Jadeo ruidoso con estertor y frotado de ojos",
+        "whyDesc": "Si un Boston Terrier muestra un **'jadeo ruidoso y dificultoso con estertor'**, es un aviso crítico de obstrucción respiratoria o sobrecalentamiento. Por otro lado, el **'frotado frecuente de ojos o el entrecerrar los párpados'** indica posibles lesiones corneales o irritación ocular.",
+        "body_signals": [
+          {
+            "name": "Jadeo ruidoso con estertor (Stertor & Heavy Panting)",
+            "meaning": "Orificios nasales estrechos y un paladar blando elongado dificultan el flujo de aire y la termorregulación, provocando disnea.",
+            "response": "Llévelo de inmediato a una estancia fresca con aire acondicionado, ofrézcale agua y acuda al veterinario si la fatiga persiste."
+          },
+          {
+            "name": "Frotado de ojos y párpados entrecerrados (Eye Rubbing)",
+            "meaning": "Los ojos prominentes son vulnerables a roces o polvo, pudiendo sufrir úlceras corneales u oclusión dolorosa.",
+            "response": "Colóquele un collar isabelino para evitar el rascado, limpie el ojo con suero fisiológico y consulte al veterinario."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Inspección ocular y limpieza de pliegues faciales",
+            "text": "Revise que los ojos no tengan secreciones o enrojecimiento y limpie suavemente los pliegues de la cara manteniéndolos secos."
+          },
+          {
+            "name": "Tarde: Control climático y paseos breves de bajo impacto",
+            "text": "Mantenga la temperatura ambiente entre 20 y 23 °C y realice paseos cortos de 15 a 20 minutos en horas frescas para evitar el estrés térmico."
+          },
+          {
+            "name": "Noche: Gotas oftálmicas lubricantes y juegos de olfato",
+            "text": "Aplique lágrimas artificiales de uso veterinario para hidratar los ojos y estimule su mente con juegos tranquilos de olfato."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué el Boston Terrier es tan sensible al calor?",
+            "answer": "Las razas braquicefálicas tienen vías respiratorias cortas que reducen su capacidad para disipar el calor mediante el jadeo. En épocas calurosas es imprescindible mantener un ambiente climatizado entre 20 y 23 °C."
+          },
+          {
+            "question": "¿Cómo puedo proteger los ojos de mi Boston Terrier?",
+            "answer": "Sus ojos saltones carecen de la protección de una órbita profunda. Evite que se introduzca en matorrales, aplique lágrimas artificiales a diario y mantenga secos sus pliegues faciales."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Soins du Boston Terrier (Syndrome Brachycéphale et Santé Oculaire) : Routine quotidienne en 3 étapes pour la respiration et les yeux",
+        "description": "Guide de soin pour le Boston Terrier au pelage smoking. Apprenez à prévenir le Syndrome Obstructif des Voies Respiratoires (SOVR), gérer la chaleur et protéger ses yeux saillants.",
+        "authority": "Standard de l'American Kennel Club (AKC) et Directives Cliniques de l'American Veterinary Medical Association (AVMA)",
+        "profile": {
+          "breed": "Boston Terrier",
+          "lifespan": "11 ~ 13 ans",
+          "sleep_pattern": "12 ~ 14 heures (sommeil et repos du chien adulte)",
+          "temperament": "Amical, Vif, Intelligent, Doux, Affectueux"
+        },
+        "intro": "Surnommé le 'Gentleman Américain' en raison de son pelage évoquant un smoking et de sa douceur, le Boston Terrier est un chien de compagnie très apprécié. Cependant, en tant que race brachycéphale (à face plate), la brièveté de ses voies respiratoires l'expose au Syndrome Obstructif des Voies Respiratoires et aux coups de chaleur. De plus, ses grands yeux proéminents sont sujets aux ulcères cornéens et à la sécheresse oculaire. Ce guide vous propose une routine de soin en 3 étapes pour protéger sa santé.",
+        "whyTitle": "Langage corporel du Boston Terrier : Halètement bruyant (stertor) et frottement des yeux",
+        "whyDesc": "Si un Boston Terrier présente un **« halètement bruyant accompagné de stertor »**, c'est le signe d'une détresse respiratoire ou d'un coup de chaud. Par ailleurs, s'il **« se frotte fréquemment les yeux ou cligne de la paupière »**, cela indique une blessure cornéenne ou une irritation due à ses yeux saillants.",
+        "body_signals": [
+          {
+            "name": "Halètement bruyant et stertoreux (Heavy Panting)",
+            "meaning": "Des narines étroites et un voile du palais trop long entravent la circulation de l'air, rendant le refroidissement corporel difficile.",
+            "response": "Placez immédiatement le chien dans une pièce fraîche et climatisée, donnez-lui de l'eau fraîche et consultez un vétérinaire si l'essoufflement persiste."
+          },
+          {
+            "name": "Frottement des yeux et clignement (Eye Rubbing)",
+            "meaning": "Ses yeux proéminents exposés à la poussière ou aux chocs peuvent subir des ulcères cornéens douloureux.",
+            "response": "Mettez-lui une collerette pour éviter les grattages, rincez l'œil avec une solution saline stérile et consultez un vétérinaire."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Examen oculaire et nettoyage des plis du visage",
+            "text": "Vérifiez l'absence de rougeurs aux yeux et nettoyez délicatement les plis de la face avec une lingette douce en veillant à bien les sécher."
+          },
+          {
+            "name": "Midi : Gestion du climat intérieur et courtes promenades",
+            "text": "Maintenez la température intérieure entre 20 et 23 °C et privilégiez de courtes sorties de 15 à 20 minutes aux heures les plus fraîches."
+          },
+          {
+            "name": "Soir : Gouttes oculaires hydratantes et jeux de fouille",
+            "text": "Appliquez des larmes artificielles vétérinaires pour humidifier la cornée et proposez des jeux d'occupation calmes comme le nosework."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi le Boston Terrier est-il si vulnérable à la chaleur ?",
+            "answer": "Son museau court limite sa capacité à réguler sa température par le halètement. En été, il est indispensable de maintenir un environnement rafraîchi par la climatisation entre 20 et 23 °C."
+          },
+          {
+            "question": "Comment protéger les yeux proéminents du Boston Terrier ?",
+            "answer": "Ses yeux globe-trotteurs manquent de protection osseuse. Évitez les promenades dans les hautes herbes, instillez quotidiennement des gouttes réhydratantes et gardez les plis faciaux propres."
+          }
+        ]
+      },
+      "de": {
+        "title": "Boston Terrier Brachyzephales Syndrom & Augenpflege: Tägliche 3-Schritte-Routine für Atemwege und Augengesundheit",
+        "description": "Pflegeanleitung für den Boston Terrier im Tuxedo-Look. Erfahren Sie, wie Sie das Brachyzephale Atemwegssyndrom vorbeugen, Hitze vermeiden und die Augen schützen.",
+        "authority": "Standard des American Kennel Club (AKC) und Klinische Leitlinien der American Veterinary Medical Association (AVMA)",
+        "profile": {
+          "breed": "Boston Terrier",
+          "lifespan": "11 ~ 13 Jahre",
+          "sleep_pattern": "12 ~ 14 Stunden (Schlaf und Ruhe eines ausgewachsenen Hundes)",
+          "temperament": "Freundlich, Lebhaft, Intelligent, Sanftmütig, Anhänglich"
+        },
+        "intro": "Wegen seines eleganten Fells im Frack-Design und seines charmanten Wesens wird der Boston Terrier liebevoll als 'American Gentleman' bezeichnet. Als brachyzephale (kurzköpfige) Rasse neigt er jedoch aufgrund verengter Atemwege zum Brachyzephalen Atemwegssyndrom (BAOS) und ist extrem hitzeempfindlich. Seine großen, leicht hervorstehenden Augen sind zudem anfällig für Hornhautgeschwüre.  entschlüsselt die Atemwegs- und Augensignale des Boston Terriers und stellt eine 3-Schritte-Routine vor.",
+        "whyTitle": "Körpersprache des Boston Terriers: Lautes Röcheln (Stertor) und Reiben der Augen",
+        "whyDesc": "Zeigt ein Boston Terrier **'lautes, angestrengtes Keuchen mit Röchelgeräuschen'**, ist dies ein Alarmsignal für Atemnot oder Überhitzung. **'Häufiges Reiben der Augen mit den Pfoten'** deutet dagegen auf Verletzungen der Hornhaut oder Reizungen hin.",
+        "body_signals": [
+          {
+            "name": "Lautes Röcheln und angestrengtes Keuchen (Stertor & Heavy Panting)",
+            "meaning": "Verengte Nasenlöcher und ein verlängertes Gaumensegel behindern die Luftzufuhr und erschweren die Regulierung der Körpertemperatur.",
+            "response": "Bringen Sie den Hund sofort in einen kühlen, klimatisierten Raum, geben Sie frisches Wasser und suchen Sie bei anhaltender Atemnot einen Tierarzt auf."
+          },
+          {
+            "name": "Reiben der Augen & Zukneifen (Eye Rubbing & Squinting)",
+            "meaning": "Die hervortretenden Augen sind anfällig für Fremdkörper oder Hornhautverletzungen (Hornhautgeschwüre), was Schmerzen verursacht.",
+            "response": "Legen Sie einen Halskragen an, um das Reiben zu verhindern, spülen Sie das Auge mit Augenspülung und lassen Sie es tierärztlich untersuchen."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Augenkontrolle & Pflege der Gesichtsfalten",
+            "text": "Überprüfen Sie die Augen auf Rötungen und reinigen Sie die Hautfalten im Gesicht sanft mit einem feuchten Tuch, um sie danach gut zu trocknen."
+          },
+          {
+            "name": "Mittag: Raumklimatisierung & Kurzer Spaziergang",
+            "text": "Halten Sie die Raumtemperatur bei 20–23 °C und beschränken Sie Spaziergänge in den kühlen Stunden auf kurze 15–20 Minuten."
+          },
+          {
+            "name": "Abend: Befeuchtende Augentropfen & Ruhiges Schnüffelspiel",
+            "text": "Geben Sie befeuchtende Augentropfen ein, um das Austrocknen der Hornhaut zu verhindern, und lasten Sie den Hund mit Schnüffelspielen geistig aus."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum reagiert der Boston Terrier so empfindlich auf Hitze?",
+            "answer": "Durch die verkürzten Nasenwege können kurzköpfige Hunde ihre Körpertemperatur durch Hecheln nur unzureichend regulieren. Bei warmem Wetter muss der Raum mit einer Klimaanlage auf 20–23 °C gekühlt werden."
+          },
+          {
+            "question": "Wie kann man Hornhautverletzungen bei den Augen vermeiden?",
+            "answer": "Da die hervortretenden Augen kaum Schutz durch die Augenhöhle genießen, sollte der Hund nicht durch hohes Gras laufen. Tägliche Augentropfen und saubere Gesichtsfalten reduzieren Infektionsrisiken."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Cuidado da Síndrome Braquicefálica e Ocular do Boston Terrier: Rotina diária de 3 passos para a saúde respiratória e ocular",
+        "description": "Guia de cuidados para o Boston Terrier de pelagem estilo tuxedo. Saiba como prevenir a Síndrome Braquicefálica, controlar o calor e proteger seus olhos proeminentes.",
+        "authority": "Padrão do American Kennel Club (AKC) e Diretrizes Clínicas da American Veterinary Medical Association (AVMA)",
+        "profile": {
+          "breed": "Boston Terrier",
+          "lifespan": "11 ~ 13 anos",
+          "sleep_pattern": "12 ~ 14 horas (padrão de descanso de cão adulto)",
+          "temperament": "Amigável, Visto, Inteligente, Gentil, Afetuoso"
+        },
+        "intro": "Conhecido como o 'Cavalheiro Americano' devido à sua pelagem que lembra um tuxedo e ao seu temperamento dócil, o Boston Terrier é um companheiro adorável. No entanto, por ser uma raça braquicefálica (de focinho achatado), suas vias aéreas estreitas o tornam propenso à Síndrome Braquicefálica e à hipertermia. Além disso, seus olhos grandes e salientes exigem atenção contra úlceras de córnea. O Este guia  uma rotina de 3 passos para cuidar da saúde do seu cão.",
+        "whyTitle": "Sinais corporais do Boston Terrier: Arfar ruidoso com estertor e ato de coçar os olhos",
+        "whyDesc": "Se um Boston Terrier apresentar um **'arfar ruidoso e com esforço respiratório'**, este é um alerta crítico de obstrução das vias aéreas ou superaquecimento. Já o hábito de **'coçar os olhos com as patas ou piscar excessivamente'** indica lesões na córnea ou desconforto ocular.",
+        "body_signals": [
+          {
+            "name": "Arfar ruidoso com estertor (Stertor & Heavy Panting)",
+            "meaning": "Narinas estreitas e palato mole prolongado dificultam a passagem do ar e a regulação da temperatura corporal.",
+            "response": "Leve o cão imediatamente para um ambiente fresco e climatizado, ofereça água e consulte o veterinário se a respiração continuar arfante."
+          },
+          {
+            "name": "Ato de coçar os olhos e piscar (Eye Rubbing)",
+            "meaning": "Os olhos salientes ficam expostos a poeira e pequenos impactos, podendo sofrer úlceras corneanas dolorosas.",
+            "response": "Coloque um colar elizabetano para evitar arranhões, lave o olho com soro fisiológico e busque atendimento veterinário."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Inspeção ocular e limpeza das dobras faciais",
+            "text": "Verifique se os olhos estão vermelhos ou com secreções e limpe suavemente as dobras da face, mantendo a pele bem seca."
+          },
+          {
+            "name": "Tarde: Controle de temperatura e passeios curtos",
+            "text": "Mantenha a temperatura ambiente entre 20 e 23 °C e faça passeios curtos de 15 a 20 minutos nos horários mais frescos do dia."
+          },
+          {
+            "name": "Noite: Colírio lubrificante e brincadeiras de olfato",
+            "text": "Aplique lágrimas artificiais veterinárias para hidratar a córnea e faça atividades calmas de olfato dentro de casa."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que o Boston Terrier é tão sensível ao calor?",
+            "answer": "O focinho encurtado reduz a capacidade da raça de dissipar o calor corporal através do arfar. Durante o verão, é indispensável manter o ambiente climatizado com ar-condicionado entre 20 e 23 °C."
+          },
+          {
+            "question": "Como prevenir lesões nos olhos do Boston Terrier?",
+            "answer": "Seus olhos proeminentes não possuem proteção profunda da órbita ocular. Evite que o cão entre em arbustos, aplique colírios lubrificantes diariamente e mantenha as dobras faciais higienizadas."
+          }
+        ]
+      },
+      "id": {
+        "title": "Panduan Perawatan Anjing Boston Terrier: Sindrom Saluran Napas Brakisefalik dan Perawatan Mata melalui 3 Langkah Rutinitas Harian",
+        "description": "Panduan perawatan esensial untuk anjing Boston Terrier berbulu motif tuksedo. Pelajari cara mencegah Sindrom Brakisefalik, mengatasi sensitivitas suhu, dan merawat matanya.",
+        "authority": "Standar Trah American Kennel Club (AKC) & Pedoman Klinis American Veterinary Medical Association (AVMA)",
+        "profile": {
+          "breed": "Boston Terrier",
+          "lifespan": "11 ~ 13 tahun",
+          "sleep_pattern": "12 ~ 14 jam (pola tidur dan istirahat anjing dewasa)",
+          "temperament": "Ramah, Lincah, Cerdas, Lembut, Penyayang"
+        },
+        "intro": "Dijuluki 'American Gentleman' karena motif bulunya yang menyerupai tuksedo dan sifatnya yang manis, Boston Terrier adalah anjing pendamping yang sangat dicintai. Namun, sebagai ras brakisefalik (berwajah pipih), saluran napasnya yang pendek membuat mereka rentan terhadap Sindrom Saluran Napas Brakisefalik (BAOS) dan serangan panas. Selain itu, matanya yang besar dan agak menonjol rentan mengalami ulkus kornea. Dalam panduan ini, mengulas sinyal pernapasan dan mata Boston Terrier serta menyajikan 3 langkah rutinitas harian.",
+        "whyTitle": "Bahasa Tubuh Boston Terrier: Napas Terdengar Kasar (Ngorok) dan Menggosok Mata",
+        "whyDesc": "Jika Boston Terrier menunjukkan **'napas terengah-engah dan terdengar ngorok kasar'**, ini adalah sinyal bahaya gangguan saluran napas atau kegerahan. Sementara itu, **'sering menggosok mata dengan kaki'** menandakan adanya iritasi atau luka pada kornea matanya.",
+        "body_signals": [
+          {
+            "name": "Napas Terdengar Kasar & Terengah-Engah (Stertor & Heavy Panting)",
+            "meaning": "Lubang hidung yang sempit dan langit-langit mulut yang panjang menghambat aliran udara, membuat anjing sulit mengatur suhu tubuh.",
+            "response": "Segera bawa ke ruangan ber-AC yang sejuk, berikan air minum, dan hubungi dokter hewan jika napas terengah-engah tidak mereda."
+          },
+          {
+            "name": "Menggosok Mata & Memicingkan Mata (Eye Rubbing & Squinting)",
+            "meaning": "Mata yang menonjol mudah terkena debu atau benturan, yang dapat memicu ulkus kornea atau rasa nyeri pada mata.",
+            "response": "Pasang kerah Elizabethan (E-collar) agar mata tidak digosok, bilas dengan cairan obat tetes mata steril, dan periksakan ke dokter hewan."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pemeriksaan Mata & Pembersihan Lipatan Wajah",
+            "text": "Periksa kondisi mata dari kemerahan atau kotoran, lalu bersihkan lipatan kulit di sekitar hidung dengan tisu lembut dan pastikan tetap kering."
+          },
+          {
+            "name": "Siang: Kontrol Suhu Ruangan & Jalan-Jalan Singkat",
+            "text": "Jaga suhu ruangan pada 20–23 °C dan lakukan jalan-jalan singkat selama 15–20 menit di tempat teduh pada waktu yang tidak panas."
+          },
+          {
+            "name": "Malam: Tetes Mata Pelembap & Permainan Olfaktori",
+            "text": "Berikan obat tetes mata pelembap khusus hewan untuk mencegah kekeringan, dan ajak bermain permainan olfaktori (nosework) yang tenang di dalam rumah."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa Boston Terrier sangat tidak tahan terhadap cuaca panas?",
+            "answer": "Ras brakisefalik memiliki saluran hidung yang pendek sehingga kemampuan melepaskan panas tubuh melalui napas sangat terbatas. Pada cuaca panas, penggunaan AC untuk menjaga suhu 20–23 °C sangat mutlak diperlukan."
+          },
+          {
+            "question": "Bagaimana cara mencegah iritasi dan luka pada mata Boston Terrier?",
+            "answer": "Matanya yang agak menonjol tidak terlindungi oleh rongga mata yang dalam. Hindari mengajak anjing berjalan menembus semak-semak, berikan tetes mata pelembap secara rutin, dan jaga kebersihan lipatan wajahnya."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/boston_terrier_care.webp"
+  }
 }

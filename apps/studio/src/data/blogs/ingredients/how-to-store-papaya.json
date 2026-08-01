@@ -1,406 +1,406 @@
 {
-    "how-to-store-papaya": {
-        "ingId": "papaya",
-        "pubDate": "2026-07-20",
-        "updatedDate": "2026-07-20",
-        "heroImage": "/images/blog/papaya_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "파파야 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 파파야의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "미국 농무부(USDA) & 농촌진흥청(RDA) & 식품의약품안전처(MFDS)",
-                "intro": "달콤하고 부드러운 열대과일 파파야, 사 오자마자 냉장고에 넣었다가 껍질에 검은 반점이 생기고 익지도 않은 채 썩어버린 경험 있으시죠? 🥭\n\n파파야는 대표적인 후숙 열대과일로, 10℃ 이하의 저온에 약해 덜 익은 상태로 냉장 보관하면 냉해(Chilling Injury)를 입어 후숙이 중단되고 조직이 쉽게 부패합니다. 특히 껍질의 색상 변화에 맞춰 상온과 냉장 보관을 올바르게 전환하는 것이 신선함과 당도를 극대화하는 핵심입니다.\n\n이번 가이드에서는 USDA와 농촌진흥청의 과학적 가이드라인에 기반하여, 파파야의 냉해를 막고 최상의 당도를 유지하는 3단계 보관 비법을 전해드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "열대과일의 생리적 특성과 저온 장애(냉해) 메커니즘을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 영양소 보존에 필수적입니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "덜 익은 초록색 파파야는 절대로 냉장고에 넣지 마세요 🚫",
-                        "desc": "껍질이 초록색인 미숙 파파야를 10℃ 이하 저온에 보관하면 냉해를 입어 더 이상 익지 않고 껍질에 푹 들어간 수반 반점(pitting)이 생기며 부패합니다. 반드시 껍질의 70~80%가 노랗게 변할 때까지 상온에서 후숙시켜야 합니다."
-                    },
-                    {
-                        "title": "후숙 전에는 물로 씻지 마세요 💧",
-                        "desc": "파파야 표면에 수분이 남으면 곰팡이 포자가 유입되어 무름 현상이 발생합니다. 흙이나 이물질은 마른 천으로 가볍게 닦아내고 세척은 섭취 또는 껍질을 벗기기 직전에 하세요."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "덜 익은 파파야는 상온(18~25℃)에서 후숙시키기 — 상온 후숙 🥭",
-                        "text": "초록빛이 도는 파파야는 직사광선을 피해 서늘하고 통풍이 잘되는 상온(18~25℃)에 두세요. 💡 보관 팁: 껍질이 70~80% 노랗게 변하고 손으로 살짝 눌렀을 때 약간 들어갈 때가 최적의 후숙 상태입니다. 빠른 후숙을 원하면 사과나 바나나와 함께 종이봉투에 담아두세요."
-                    },
-                    {
-                        "name": "완숙된 파파야는 7~10℃ 저온 냉장 보관하기 — 냉장 보관 (3~5일) ❄️",
-                        "text": "노랗게 완숙된 파파야는 과육이 무르기 쉽고 과후숙이 진행되므로 저온으로 부패를 억제해야 합니다. 💡 보관 팁: 신문지나 키친타월로 감싼 뒤 비닐봉지에 담아 냉장고 야채칸(7~10℃)에 보관하세요. 완숙 후 3~5일간 가장 달콤하고 신선한 상태로 드실 수 있습니다."
-                    },
-                    {
-                        "name": "씨와 껍질 제거 후 깍둑썰기하여 냉동 보관하기 — 장기 냉동 (6~12개월) 🧊",
-                        "text": "남은 파파야를 오랫동안 보관하려면 냉동 보관이 가장 좋습니다. 💡 보관 팁: 반으로 갈라 씨를 긁어내고 껍질을 벗긴 뒤 한 입 크기로 깍둑썰기하세요. 쟁반에 펼쳐 1차 냉동한 후 냉동용 지퍼백에 담아 -18℃ 이하에서 보관하면 6~12개월간 스무디나 디저트용으로 유용하게 쓸 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "자르고 남은 파파야는 어떻게 보관해야 하나요?",
-                        "answer": "자른 파파야는 산소와 접촉하여 표면 수분이 날아가므로 씨 부위를 긁어내고 단면에 식품용 랩을 밀착 포장하거나 밀폐 용기에 담아 0~4℃ 냉장 보관해야 합니다. 자른 파파야는 1~2일 이내에 드시는 것이 가장 좋습니다."
-                    },
-                    {
-                        "question": "파파야 표면에 검은 반점이 생겼는데 상한 건가요?",
-                        "answer": "파파야 껍질에 생기는 작은 검은 반점(탄저병 또는 냉해 흔적)은 과일이 무르기 시작하는 신호이지만, 과육 내부까지 악취나 곰팡이가 퍼지지 않았다면 반점 부위를 도려내고 드셔도 됩니다. 단, 표면이 무너져 끈적이고 시큼한 악취가 난다면 즉시 폐기해야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Papaya Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for papaya based on official safety guidelines.",
-                "authority": "USDA & RDA & MFDS",
-                "intro": "Have you ever brought home a sweet, luscious papaya only to put it straight into the fridge, where it developed dark spots and spoiled before ripening? 🥭\n\nPapayas are climacteric tropical fruits highly susceptible to chilling injury at temperatures below 10°C (50°F). Refrigerating unripe green papayas stops the ripening process and damages cell tissue, causing rapid decay. Transitioning from room temperature to cold storage based on skin color is the key to maximizing sweetness and freshness.\n\nIn this guide, shares a scientifically proven 3-step storage guide based on guidelines from the USDA and RDA to prevent chilling injury and maintain peak papaya sweetness. 🛡️",
-                "whyTitle": "Why Store Papaya This Way? Scientific Facts",
-                "whyDesc": "Understanding the physiological characteristics and chilling injury mechanisms of tropical fruits is essential for maintaining freshness and preserving nutrients.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never refrigerate unripe green papayas 🚫",
-                        "desc": "Storing green papayas below 10°C (50°F) causes chilling injury, halting ripening permanently and causing skin pitting, discoloration, and softening. Always ripen papayas at room temperature until the skin is 70–80% yellow."
-                    },
-                    {
-                        "title": "Do not wash before ripening 💧",
-                        "desc": "Leaving water on papaya skin creates ideal conditions for mold spores, causing fruit rot. Wipe away dirt with a dry cloth and wash the papaya only right before slicing or eating."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Ripen green papayas at room temperature (18–25°C) — Ambient Ripening 🥭",
-                        "text": "Keep greenish papayas in a cool, well-ventilated area away from direct sunlight at 18–25°C (65–77°F). 💡 Storage Tip: Papayas are fully ripe when skin turns 70–80% yellow/orange and yields slightly to gentle pressure. To speed up ripening, seal in a paper bag with an apple or banana."
-                    },
-                    {
-                        "name": "Refrigerate ripe papayas at 7–10°C — Cold Storage (3–5 Days) ❄️",
-                        "text": "Fully ripe papayas soften rapidly and can over-ripen; cool storage slows decay. 💡 Storage Tip: Wrap ripe papayas in paper towels or newspaper, place in a plastic bag, and store in the crisper drawer (7–10°C / 45–50°F). Enjoy within 3–5 days for maximum sweetness."
-                    },
-                    {
-                        "name": "Deseed, peel, cube, and freeze — Long-Term Freezing (6–12 Months) 🧊",
-                        "text": "Freezing is the best method for long-term preservation of excess papaya. 💡 Storage Tip: Cut in half, scoop out seeds, peel, and cube into bite-sized pieces. Flash freeze on a tray first, then transfer into freezer Ziploc bags below -18°C (-0.4°F) for 6–12 months of smoothie-ready papaya."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "How should I store cut leftover papaya?",
-                        "answer": "Cut papaya loses moisture rapidly upon air exposure. Scoop out remaining seeds, wrap the exposed flesh tightly with plastic wrap or store in an airtight container, and refrigerate at 0–4°C. Consume within 1–2 days."
-                    },
-                    {
-                        "question": "My papaya skin developed black spots. Is it spoiled?",
-                        "answer": "Small black spots on the skin are often signs of anthracnose or mild chilling injury. As long as the inner flesh smells fresh and shows no mold or softness, you can slice away the spot and eat the rest. However, if the fruit feels mushy, slimy, or sour, discard it immediately."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "パパイヤを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくパパイヤの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "米国農務省(USDA) & 農村振興庁(RDA) & 食品医薬品安全処(MFDS)",
-                "intro": "甘くてトロピカルな風味のパパイヤ。買ってきてすぐに冷蔵庫に入れたら、皮に黒い斑点ができて熟さないまま傷んでしまった経験はありませんか？ 🥭\n\nパパイヤは代表的な追熟型の熱帯果実で、10℃以下の低温に弱いため未熟な状態で冷蔵保存すると低温障害（Chilling Injury）を起こし、追熟が止まり組織が急速に腐敗します。皮の色の変化に合わせて常温保存と冷蔵保存を正しく切り替えることが、甘みと鮮度を最大限に引き出す鍵となります。\n\n本記事では、USDAと農村振興庁の科学的ガイドラインに基づき、低温障害を防ぎ最高の甘さを維持する3段階の保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "熱帯果実の生理的特性と低温障害のメカニズムを理解し、正しい保存方法を実践することは鮮度維持と栄養素の保持において不可欠です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "青い未熟なパパイヤは絶対に冷蔵庫に入れないでください 🚫",
-                        "desc": "皮が緑色の未熟なパパイヤを10℃以下の低温で保存すると低温障害を起こし、追熟しなくなるだけでなく皮に凹みの斑点（pitting）ができて腐敗します。必ず皮の70〜80%が黄色くなるまで常温で追熟させてください。"
-                    },
-                    {
-                        "title": "追熟前には水洗いしないでください 💧",
-                        "desc": "パパイヤの表面に水分が残るとカビの胞子が入り込み、軟化・腐敗の原因になります。汚れは乾いた布で拭き取り、洗うのは食べる直前または皮をむく直前にしてください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "青いパパイヤは常温(18〜25℃)で追熟させる — 常温追熟 🥭",
-                        "text": "青みが残るパパイヤは直射日光を避け、風通しの良い涼しい常温（18〜25℃）に置きます。💡保存のコツ：皮の70〜80%が黄色くなり、手で優しく押したときに少し凹むくらいが最高の食べ頃です。早く追熟させたい場合はリンゴやバナナと一緒に紙袋に入れておきます。"
-                    },
-                    {
-                        "name": "完熟したパパイヤは7〜10℃の低温で冷蔵保存する — 冷蔵保存 (3〜5日間) ❄️",
-                        "text": "黄色く完熟したパパイヤは果肉が柔らかくなりやすいため、低温で腐敗を抑える必要があります。💡保存のコツ：新聞紙やキッチンペーパーで包み、ポリ袋に入れて冷蔵庫の野菜室（7〜10℃）で保存します。完熟後3〜5日間美味しく召し上がれます。"
-                    },
-                    {
-                        "name": "種と皮を取り除き角切りにして冷凍保存する — 長期冷凍 (6〜12ヶ月間) 🧊",
-                        "text": "残ったパパイヤを長期保存するには冷凍保存が最も適しています。💡保存のコツ：半分に切って種を取り除き、皮をむいて一口大の角切りにします。バットに広げて予備冷凍した後、冷凍用ジッパーバッグに入れて-18℃以下で保存すれば、6〜12ヶ月間スムージー等に活用できます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "カットして残ったパパイヤはどのように保存すべきですか？",
-                        "answer": "カットしたパパイヤは空気中の酸素と触れて水分が失われるため、種をかき出し、断面にラップをぴったり密着させるか密閉容器に入れて0〜4℃で冷蔵保存してください。1〜2日以内にお召し上がりいただくのがベストです。"
-                    },
-                    {
-                        "question": "パパイヤの皮に黒い斑点ができましたが傷んでいますか？",
-                        "answer": "皮にできる小さな黒い斑点（炭疽病や低温障害の痕）は果実が柔らかくなり始めたサインですが、果肉内部まで酸敗臭やカビが及んでいなければ黒い部分を切り落として食べることができます。ただし、表面がドロドロに崩れて酸っぱい臭いがする場合は破棄してください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持木瓜新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解木瓜的最佳储存温度、方式和保鲜时长。",
-                "authority": "美国农务部(USDA) & 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "买回甘甜软糯的热带木瓜，买回家就直接放入冰箱，结果表皮长出黑斑且未熟先烂，您遇到过这种情况吗？ 🥭\n\n木瓜是典型的后熟型热带水果，极易受10℃以下的低温冷害（Chilling Injury）。在未熟状态下冷藏会导致后熟中断，细胞组织破裂腐烂。根据果皮颜色及时从常温切换为冷藏保存，是保持木瓜高糖度与新鲜度的核心秘诀。\n\n本指南将基于 USDA 和 RDA 的科学指南，为您介绍防止冷害、完美保持木瓜甜度与口感的 3 步储存秘诀。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解热带水果的生理特性与低温冷害机制，并采用正确的储存方法，对于保持新鲜度和保存营养成分至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "切勿将未熟的青木瓜放入冰箱 🚫",
-                        "desc": "将果皮发青的未熟木瓜置于10℃以下的低温环境中会导致冷害，使其永久停止后熟，表皮还会出现凹陷斑点并加速腐烂。必须在常温下催熟至果皮70~80%变黄。"
-                    },
-                    {
-                        "title": "催熟前切勿用水清洗 💧",
-                        "desc": "木瓜表皮留有水分极易滋生霉菌孢子导致果实变软腐烂。表面的泥土杂质用干布轻擦即可，清洗请留到切开或食用前进行。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "未熟木瓜置于常温(18~25℃)下催熟 — 常温催熟 🥭",
-                        "text": "青色木瓜应放在避光、通风良好的阴凉常温处（18~25℃）。💡储存小贴士：当表皮70~80%变黄且手感微微变软时，即为最佳食用状态。如需快速催熟，可与苹果或香蕉一同放入纸袋中。"
-                    },
-                    {
-                        "name": "熟透的木瓜置于7~10℃冷藏 — 冷藏储存 (3~5天) ❄️",
-                        "text": "变黄熟透的木瓜果肉容易变软过熟，需置于低温环境中抑制腐烂。💡储存小贴士：用报纸或厨房纸巾包裹后装入保鲜袋，放入冰箱蔬菜保鲜抽屉（7~10℃）。熟透后可保鲜3~5天。"
-                    },
-                    {
-                        "name": "去籽去皮切块冷冻 — 长期冷冻 (6~12个月) 🧊",
-                        "text": "若有剩余木瓜，冷冻是长期保存的最佳选择。💡储存小贴士：对半切开舀出木瓜籽，削皮后切成一口大小的方块。先平铺在盘中预冻，再转入冷冻拉链袋于-18℃以下冷冻，可保存6~12个月，非常适合做果汁或甜品。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "切开吃剩的木瓜应该如何保存？",
-                        "answer": "切开的木瓜接触空气后水分极易流失。应舀出果核，用保鲜膜将切面紧密包裹，或装入密封保鲜盒中，置于0~4℃冷藏，并在1~2天内食用完毕。"
-                    },
-                    {
-                        "question": "木瓜表皮长了黑斑，是坏了吗？",
-                        "answer": "木瓜皮上的小黑斑（炭疽病或轻微冷害痕迹）通常是果实开始变软的信号，只要果肉内部没有发酸臭味或长霉，将黑斑部位切除后即可安全食用。但若表皮塌陷粘手并散发酸臭味，请立即丢弃。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener la papaya fresca: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la papaya según las directrices oficiales de seguridad.",
-                "authority": "USDA & RDA & MFDS",
-                "intro": "¿Alguna vez compró una papaya dulce y suave, solo para meterla directamente al refrigerador y descubrir que le salían manchas negras y se pudría antes de madurar? 🥭\n\nLa papaya es una fruta tropical climatérica altamente susceptible a daños por frío (chilling injury) a temperaturas inferiores a 10 °C. Refrigerar una papaya verde e inmadura detiene el proceso de maduración, daña sus células y acelera la descomposición. Cambiar de temperatura ambiente a refrigeración según el color de su piel es la clave para maximizar la dulzura.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por el USDA y la RDA para evitar daños por frío y mantener la dulzura de la papaya. 🛡️",
-                "whyTitle": "¿Por qué almacenarla así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas y los mecanismos de daño por frío de las frutas tropicales es fundamental para mantener la frescura y conservar sus nutrientes.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Nunca refrigere una papaya verde e inmadura 🚫",
-                        "desc": "Guardar papayas verdes por debajo de 10 °C provoca daños por frío, deteniendo la maduración de forma permanente y causando grietas o manchas hundidas en la piel. Madúrelas siempre a temperatura ambiente hasta que el 70-80% de la piel esté amarilla."
-                    },
-                    {
-                        "title": "No la lave antes de que madure 💧",
-                        "desc": "La humedad atrapada en la piel de la papaya estimula el crecimiento de moho, ablandando la fruta. Limpie la suciedad con un paño seco y lávela justo antes de cortarla o comerla."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Madure la papaya verde a temperatura ambiente (18 a 25 °C) — Maduración 🥭",
-                        "text": "Mantenga la papaya verdosa en un lugar fresco, bien ventilado y sin luz solar directa (18–25 °C). 💡 Consejo de almacenamiento: La papaya alcanza su punto óptimo cuando el 70–80% de la piel es amarilla. Para acelerar la maduración, colóquela en una bolsa de papel con una manzana o plátano."
-                    },
-                    {
-                        "name": "Refrigere la papaya madura a 7–10 °C — Almacenamiento (3 a 5 días) ❄️",
-                        "text": "La papaya completamente madura se ablanda rápido; la refrigeración lenta previene la descomposición. 💡 Consejo de almacenamiento: Envuelva la papaya en papel o toallas de cocina, colóquela en una bolsa plástica y guárdela en el cajón de verduras (7–10 °C). Consúmala en 3 a 5 días."
-                    },
-                    {
-                        "name": "Retire semillas, pele, corte en cubos y congele — Congelación (6 a 12 meses) 🧊",
-                        "text": "Congelar es el mejor método para conservar el exceso de papaya a largo plazo. 💡 Consejo de almacenamiento: Corte por la mitad, retire las semillas, pele y corte en cubos. Congele los trozos en una bandeja y luego transfiéralos a bolsas Ziploc a -18 °C. Dura de 6 a 12 meses."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Cómo debo almacenar la papaya cortada que me sobró?",
-                        "answer": "La papaya cortada pierde humedad rápidamente. Retire las semillas restantes, envuelva la pulpa expuesta firmemente con film plástico o colóquela en un recipiente hermético y refrigérela a 0–4 °C. Consúmala en un plazo de 1 a 2 días."
-                    },
-                    {
-                        "question": "A mi papaya le salieron manchas negras en la piel. ¿Se echó a perder?",
-                        "answer": "Las pequeñas manchas negras en la piel suelen ser marcas de antracnosis o leve daño por frío. Mientras la pulpa interior huela fresca y no esté suave o mohosa, puede cortar la parte manchada y comer el resto. Si se siente pegajosa o huele agrio, deséchela."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver la papaye fraîche : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la papaye selon les directives officielles de sécurité.",
-                "authority": "USDA & RDA & MFDS",
-                "intro": "Avez-vous déjà acheté une belle papaye bien douce pour la placer directement au réfrigérateur, où elle s'est couverte de taches noires et a pourri avant de mûrir ? 🥭\n\nLa papaye est un fruit tropical climatérique très sensible au froid (chilling injury) en dessous de 10 °C. Réfrigérer une papaye verte arrête le processus de maturation, abîme ses tissus et provoque son pourrissement. Alterner entre température ambiante et réfrigération selon la couleur de la peau est le secret d'une pulpe sucrée.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et du RDA pour éviter les dégâts du froid et préserver la douceur de la papaye. 🛡️",
-                "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques et les mécanismes de sensibilité au froid des fruits tropicaux est essentiel pour maintenir la fraîcheur et préserver les nutriments.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne réfrigérez jamais une papaye verte non mûre 🚫",
-                        "desc": "Conserver des papayes vertes en dessous de 10 °C provoque des blessures dues au froid, stoppe la maturation et crée des taches enfoncées sur la peau. Laissez-les mûrir à température ambiante jusqu'à ce que la peau soit à 70-80% jaune."
-                    },
-                    {
-                        "title": "Ne la lavez pas avant le mûrissement 💧",
-                        "desc": "L'humidité emprisonnée sur la peau de la papaye favorise le développement des moisissures. Essuyez la terre avec un chiffon sec et ne la lavez que juste avant de la couper ou de la consommer."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Faire mûrir la papaye verte à température ambiante (18 à 25 °C) — Maturation 🥭",
-                        "text": "Placez la papaye verte dans un endroit frais et aéré, à l'abri de la lumière directe (18 à 25 °C). 💡 Astuce de conservation : La papaye est mûre lorsque la peau est jaune à 70–80%. Pour accélérer le mûrissement, placez-la dans un sachet en papier avec une pomme ou une banane."
-                    },
-                    {
-                        "name": "Réfrigérer la papaye mûre entre 7 et 10 °C — Stockage (3 à 5 jours) ❄️",
-                        "text": "Une papaye bien mûre se ramollit vite; le froid ralentit la dégradation. 💡 Astuce de conservation : Enveloppez la papaye dans du papier essuie-tout, placez-la dans un sachet plastique et conservez-la dans le bac à légumes (7 à 10 °C). Consommez-la sous 3 à 5 jours."
-                    },
-                    {
-                        "name": "Épépiner, peler, couper en dés et congeler — Congélation (6 à 12 mois) 🧊",
-                        "text": "La congélation est idéale pour conserver les restes de papaye à long terme. 💡 Astuce de conservation : Coupez en deux, retirez les graines, pelez et coupez en dés. Pré-congelez sur une plaque puis transférez dans un sac congélation à -18 °C pendant 6 à 12 mois."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Comment conserver de la papaye déjà entamée ?",
-                        "answer": "La papaye coupée se dessèche vite. Retirez les graines, enveloppez la chair entamée dans du film étirable ou placez-la dans une boîte hermétique au réfrigérateur (0–4 °C). Consommez-la dans les 1 à 2 jours."
-                    },
-                    {
-                        "question": "Des taches noires sont apparues sur ma papaye. Est-elle périmée ?",
-                        "answer": "De petites taches noires sur la peau résultent souvent d'un léger coup de froid. Tant que la chair intérieure ne dégage pas d'odeur sûre et n'est pas moisie, vous pouvez retirer la zone marquée et manger le reste. Si la chair est gluante ou très aigre, jetez-la."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Papaya richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Papaya basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "USDA & RDA & MFDS",
-                "intro": "Haben Sie schon einmal eine süße Papaya gekauft und sie direkt in den Kühlschrank gelegt, wo sie schwarze Flecken bekam und verfaulte, bevor sie reif wurde? 🥭\n\nPapayas sind klimakterische Tropenfrüchte, die extrem empfindlich auf Kälteschäden (Chilling Injury) unter 10 °C reagieren. Das Kühlen unreifer grüner Papayas stoppt den Reifeprozess und führt zu rascher Fäulnis. Der Wechsel von Raumtemperatur zu Kühllagerung je nach Schalenfarbe ist der Schlüssel für maximale Süße.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von USDA und RDA basiert, um Kälteschäden zu vermeiden und die Süße der Papaya zu bewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der physiologischen Eigenschaften und Kälteschaden-Mechanismen von Tropenfrüchten ist entscheidend für Frische und Nährstofferhalt.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Unreife grüne Papayas niemals in den Kühlschrank legen 🚫",
-                        "desc": "Grüne Papayas unter 10 °C zu lagern führt zu Kälteschäden, wodurch die Reifung dauerhaft stoppt und Dellen sowie Flecken auf der Schale entstehen. Immer bei Raumtemperatur nachreifen lassen, bis die Schale zu 70–80% gelb ist."
-                    },
-                    {
-                        "title": "Vor dem Nachreifen nicht waschen 💧",
-                        "desc": "Wasser auf der Schale begünstigt Schimmelbildung. Wischen Sie Schmutz nur mit einem trockenen Tuch ab und waschen Sie die Papaya erst direkt vor dem Aufschneiden."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Grüne Papayas bei Raumtemperatur (18–25 °C) nachreifen lassen — Nachreifung 🥭",
-                        "text": "Lagern Sie grünliche Papayas an einem kühlen, gut belüfteten Ort ohne direkte Sonneneinstrahlung (18–25 °C). 💡 Lagerungstipp: Die Papaya ist reif, wenn die Schale zu 70–80% gelb ist. Zum schnellen Nachreifen zusammen mit einem Apfel in eine Papiertüte legen."
-                    },
-                    {
-                        "name": "Reife Papayas bei 7–10 °C kühlen — Kühllagerung (3–5 Tage) ❄️",
-                        "text": "Vollreife Papayas werden schnell weich; Kühlung verlangsamt den Verderb. 💡 Lagerungstipp: Reife Papayas in Küchenpapier wickeln, in einen Plastikbeutel legen und ins Gemüsefach (7–10 °C) legen. Innerhalb von 3–5 Tagen verzehren."
-                    },
-                    {
-                        "name": "Entkernen, schälen, würfeln und einfrieren — Langzeitkühlung (6–12 Monate) 🧊",
-                        "text": "Einfrieren ist die beste Methode zur Dauerlagerung von Papayaresteten. 💡 Lagerungstipp: Halbieren, Kerne herauskratzen, schälen und würfeln. Die Würfel vorgefrieren und dann in Gefrierbeuteln bei unter -18 °C aufbewahren (hält 6–12 Monate)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Wie sollte man angeschnittene Papaya aufbewahren?",
-                        "answer": "Angeschnittene Papaya verliert an der Luft schnell Feuchtigkeit. Entfernen Sie die Kerne, wickeln Sie die Schnittfläche fest in Frischhaltefolie oder legen Sie sie in eine Dichtdose bei 0–4 °C. Innerhalb von 1–2 Tagen verzehren."
-                    },
-                    {
-                        "question": "Meine Papaya hat schwarze Flecken auf der Schale. Ist sie schlecht?",
-                        "answer": "Kleine schwarze Flecken sind oft Anzeichen leichter Kälteschäden. Solange das Fruchtfleisch frisch riecht und keinen Schimmel zeigt, kann man die Stelle großzügig wegschneiden. Bei riechbarem Verderb oder Schmierigkeit sofort entsorgen."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar mamão (papaya) fresco: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para o mamão com base em diretrizes oficiais de segurança.",
-                "authority": "USDA & RDA & MFDS",
-                "intro": "Você já comprou um mamão doce e macio e o colocou direto na geladeira, onde ele ganhou manchas escuras e estragou antes de amadurecer? 🥭\n\nO mamão é uma fruta tropical climatérica muito sensível a danos por frio (chilling injury) em temperaturas abaixo de 10 °C. Refrigerar o mamão verde interrompe o amadurecimento, danifica o tecido da fruta e acelera a deterioração. Alternar da temperatura ambiente para a geladeira conforme a cor da casca é o segredo para ter o máximo de doçura.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes do USDA e da RDA para evitar danos por frio e manter o mamão doce e fresco. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas e os mecanismos de danos por frio das frutas tropicais é essencial para manter o frescor e preservar os nutrientes.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca refrigere o mamão verde e verde-amarelado 🚫",
-                        "desc": "Guardar mamões verdes abaixo de 10 °C causa danos por frio, interrompendo o amadurecimento e provocando manchas afundadas na casca. Amadureça-os sempre à temperatura ambiente até que 70-80% da casca esteja amarela."
-                    },
-                    {
-                        "title": "Não lave antes de amadurecer 💧",
-                        "desc": "A umidade retida na casca do mamão estimula o aparecimento de mofo. Limpe a sujeira com um pano seco e lave apenas no momento de cortar ou consumir."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Amadureça o mamão verde à temperatura ambiente (18 a 25 °C) — Amadurecimento 🥭",
-                        "text": "Mantenha o mamão verde em local fresco, bem ventilado e longe da luz solar (18–25 °C). 💡 Dica de conservação: O mamão está no ponto ideal quando 70–80% da casca fica amarela. Para acelerar, coloque num saco de papel com uma maçã ou banana."
-                    },
-                    {
-                        "name": "Refrigere o mamão maduro a 7–10 °C — Armazenamento (3 a 5 dias) ❄️",
-                        "text": "O mamão bem maduro amolece rápido; a refrigeração desacelera a deterioração. 💡 Dica de conservação: Envolva o mamão em papel-toalha, coloque num saco plástico e guarde na gaveta de legumes (7–10 °C). Consuma em 3 a 5 dias."
-                    },
-                    {
-                        "name": "Retire sementes, descasque, corte em cubos e congele — Congelamento (6 a 12 meses) 🧊",
-                        "text": "Congelar é a melhor forma de guardar o excesso de mamão por longo prazo. 💡 Dica de conservação: Corte ao meio, retire as sementes, descasque e corte em cubos. Congele os pedaços numa bandeja e transfira para sacos Ziploc a -18 °C por 6 a 12 meses."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Como devo guardar o mamão cortado que sobrou?",
-                        "answer": "O mamão cortado perde umidade rapidamente. Retire as sementes restantes, envolva a polpa com filme plástico ou coloque num pote hermético e refrigere a 0–4 °C. Consuma em até 1 a 2 dias."
-                    },
-                    {
-                        "question": "Apareceram manchas pretas na casca do meu mamão. Estragou?",
-                        "answer": "Pequenas manchas pretas na casca costumam ser sinais de antracnose ou leve dano por frio. Se a polpa por dentro estiver cheirosa e sem mofo, você pode cortar a parte manchada e comer o resto. Se estiver pegajosa ou azeda, descarte."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Pepaya agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk pepaya berdasarkan pedoman keselamatan resmi.",
-                "authority": "USDA & RDA & MFDS",
-                "intro": "Pernahkah Anda membeli pepaya yang manis lalu langsung menyimpannya di kulkas, hanya untuk mendapati kulitnya muncul bercak hitam dan membusuk sebelum matang? 🥭\n\nPepaya adalah buah tropis klimakterik yang sangat rentan terhadap kerusakan dingin (chilling injury) pada suhu di bawah 10°C. Menyimpan pepaya mentah di kulkas akan menghentikan proses pematangan, merusak jaringan sel, dan mempercepat pembusukan. Mengubah tempat penyimpanan dari suhu ruang ke kulkas berdasarkan warna kulit adalah kunci utama untuk memaksimalkan kemanisan.\n\nDalam panduan ini, kami membagikan panduan penyimpanan pepaya 3 langkah berbasis ilmiah berdasarkan pedoman USDA dan RDA untuk mencegah kerusakan dingin dan menjaga kemanisan pepaya. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis dan mekanisme kerusakan dingin pada buah tropis sangat penting untuk menjaga kesegaran dan nutrisi.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan pernah menyimpan pepaya mentah yang masih hijau di kulkas 🚫",
-                        "desc": "Menyimpan pepaya hijau pada suhu di bawah 10°C menyebabkan kerusakan dingin, menghentikan pematangan secara permanen, dan menimbulkan cekungan bercak pada kulit. Selalu peram pepaya di suhu ruang hingga 70–80% kulitnya menguning."
-                    },
-                    {
-                        "title": "Jangan dicuci sebelum matang 💧",
-                        "desc": "Air yang tertinggal pada kulit pepaya memicu tumbuhnya spora jamur yang menyebabkan pembusukan buah. Lap kotoran dengan kain kering dan cucilah tepat sebelum dipotong atau dimakan."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Pemeram pepaya hijau pada suhu ruang (18–25°C) — Pemeraman 🥭",
-                        "text": "Letakkan pepaya hijau di tempat yang sejuk, berventilasi baik, dan terhindar dari sinar matahari langsung (18–25°C). 💡 Tips Penyimpanan: Pepaya matang sempurna saat 70–80% kulitnya berwarna kuning. Untuk mempercepat pematangan, simpan dalam kantong kertas bersama apel atau pisang."
-                    },
-                    {
-                        "name": "Simpan pepaya matang di kulkas pada suhu 7–10°C — Simpan Dingin (3–5 Hari) ❄️",
-                        "text": "Pepaya yang matang sempurna mudah lembek; suhu dingin memperlambat pembusukan. 💡 Tips Penyimpanan: Bungkus pepaya dengan kertas/tisu dapur, masukkan ke dalam kantong plastik, lalu simpan di laci sayuran (7–10°C). Habiskan dalam 3–5 hari."
-                    },
-                    {
-                        "name": "Buang biji, kupas, potong dadu, lalu bekukan — Pembekuan (6–12 Bulan) 🧊",
-                        "text": "Membekukan adalah cara terbaik untuk menyimpan sisa pepaya dalam jangka panjang. 💡 Tips Penyimpanan: Belah dua, buang bijinya, kupas, dan potong dadu. Bekukan awal di atas nampan, lalu pindahkan ke kantong Ziploc freezer di bawah -18°C selama 6–12 bulan."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Bagaimana cara menyimpan sisa pepaya yang sudah dipotong?",
-                        "answer": "Pepaya terpotong kehilangan kelembapan dengan cepat. Buang sisa bijinya, bungkus daging buah secara rapat dengan plastik wrap atau masukkan ke dalam wadah kedap udara, lalu simpan di kulkas (0–4°C). Habiskan dalam 1–2 hari."
-                    },
-                    {
-                        "question": "Bercak hitam muncul di kulit pepaya saya. Apakah sudah busuk?",
-                        "answer": "Bercak hitam kecil pada kulit biasanya adalah tanda antraknosa atau kerusakan dingin ringan. Selama daging buah bagian dalam masih beraroma segar dan tidak berjamur, Anda dapat memotong bagian bercak tersebut dan memakan sisanya. Jika lembek berlendir atau berbau asam, segera buang."
-                    }
-                ]
-            }
-        }
+  "how-to-store-papaya": {
+    "ingId": "papaya",
+    "pubDate": "2026-07-20",
+    "updatedDate": "2026-07-20",
+    "heroImage": "/images/blog/papaya_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "파파야 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 파파야의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "미국 농무부(USDA) & 농촌진흥청(RDA) & 식품의약품안전처(MFDS)",
+        "intro": "달콤하고 부드러운 열대과일 파파야, 사 오자마자 냉장고에 넣었다가 껍질에 검은 반점이 생기고 익지도 않은 채 썩어버린 경험 있으시죠? 🥭\n\n파파야는 대표적인 후숙 열대과일로, 10℃ 이하의 저온에 약해 덜 익은 상태로 냉장 보관하면 냉해(Chilling Injury)를 입어 후숙이 중단되고 조직이 쉽게 부패합니다. 특히 껍질의 색상 변화에 맞춰 상온과 냉장 보관을 올바르게 전환하는 것이 신선함과 당도를 극대화하는 핵심입니다.\n\n이번 가이드에서는 USDA와 농촌진흥청의 과학적 가이드라인에 기반하여, 파파야의 냉해를 막고 최상의 당도를 유지하는 3단계 보관 비법을 전해드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "열대과일의 생리적 특성과 저온 장애(냉해) 메커니즘을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 영양소 보존에 필수적입니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "덜 익은 초록색 파파야는 절대로 냉장고에 넣지 마세요 🚫",
+            "desc": "껍질이 초록색인 미숙 파파야를 10℃ 이하 저온에 보관하면 냉해를 입어 더 이상 익지 않고 껍질에 푹 들어간 수반 반점(pitting)이 생기며 부패합니다. 반드시 껍질의 70~80%가 노랗게 변할 때까지 상온에서 후숙시켜야 합니다."
+          },
+          {
+            "title": "후숙 전에는 물로 씻지 마세요 💧",
+            "desc": "파파야 표면에 수분이 남으면 곰팡이 포자가 유입되어 무름 현상이 발생합니다. 흙이나 이물질은 마른 천으로 가볍게 닦아내고 세척은 섭취 또는 껍질을 벗기기 직전에 하세요."
+          }
+        ],
+        "steps": [
+          {
+            "name": "덜 익은 파파야는 상온(18~25℃)에서 후숙시키기 — 상온 후숙 🥭",
+            "text": "초록빛이 도는 파파야는 직사광선을 피해 서늘하고 통풍이 잘되는 상온(18~25℃)에 두세요. 💡 보관 팁: 껍질이 70~80% 노랗게 변하고 손으로 살짝 눌렀을 때 약간 들어갈 때가 최적의 후숙 상태입니다. 빠른 후숙을 원하면 사과나 바나나와 함께 종이봉투에 담아두세요."
+          },
+          {
+            "name": "완숙된 파파야는 7~10℃ 저온 냉장 보관하기 — 냉장 보관 (3~5일) ❄️",
+            "text": "노랗게 완숙된 파파야는 과육이 무르기 쉽고 과후숙이 진행되므로 저온으로 부패를 억제해야 합니다. 💡 보관 팁: 신문지나 키친타월로 감싼 뒤 비닐봉지에 담아 냉장고 야채칸(7~10℃)에 보관하세요. 완숙 후 3~5일간 가장 달콤하고 신선한 상태로 드실 수 있습니다."
+          },
+          {
+            "name": "씨와 껍질 제거 후 깍둑썰기하여 냉동 보관하기 — 장기 냉동 (6~12개월) 🧊",
+            "text": "남은 파파야를 오랫동안 보관하려면 냉동 보관이 가장 좋습니다. 💡 보관 팁: 반으로 갈라 씨를 긁어내고 껍질을 벗긴 뒤 한 입 크기로 깍둑썰기하세요. 쟁반에 펼쳐 1차 냉동한 후 냉동용 지퍼백에 담아 -18℃ 이하에서 보관하면 6~12개월간 스무디나 디저트용으로 유용하게 쓸 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "자르고 남은 파파야는 어떻게 보관해야 하나요?",
+            "answer": "자른 파파야는 산소와 접촉하여 표면 수분이 날아가므로 씨 부위를 긁어내고 단면에 식품용 랩을 밀착 포장하거나 밀폐 용기에 담아 0~4℃ 냉장 보관해야 합니다. 자른 파파야는 1~2일 이내에 드시는 것이 가장 좋습니다."
+          },
+          {
+            "question": "파파야 표면에 검은 반점이 생겼는데 상한 건가요?",
+            "answer": "파파야 껍질에 생기는 작은 검은 반점(탄저병 또는 냉해 흔적)은 과일이 무르기 시작하는 신호이지만, 과육 내부까지 악취나 곰팡이가 퍼지지 않았다면 반점 부위를 도려내고 드셔도 됩니다. 단, 표면이 무너져 끈적이고 시큼한 악취가 난다면 즉시 폐기해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Papaya Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for papaya based on official safety guidelines.",
+        "authority": "USDA & RDA & MFDS",
+        "intro": "Have you ever brought home a sweet, luscious papaya only to put it straight into the fridge, where it developed dark spots and spoiled before ripening? 🥭\n\nPapayas are climacteric tropical fruits highly susceptible to chilling injury at temperatures below 10°C (50°F). Refrigerating unripe green papayas stops the ripening process and damages cell tissue, causing rapid decay. Transitioning from room temperature to cold storage based on skin color is the key to maximizing sweetness and freshness.\n\nIn this guide, shares a scientifically proven 3-step storage guide based on guidelines from the USDA and RDA to prevent chilling injury and maintain peak papaya sweetness. 🛡️",
+        "whyTitle": "Why Store Papaya This Way? Scientific Facts",
+        "whyDesc": "Understanding the physiological characteristics and chilling injury mechanisms of tropical fruits is essential for maintaining freshness and preserving nutrients.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never refrigerate unripe green papayas 🚫",
+            "desc": "Storing green papayas below 10°C (50°F) causes chilling injury, halting ripening permanently and causing skin pitting, discoloration, and softening. Always ripen papayas at room temperature until the skin is 70–80% yellow."
+          },
+          {
+            "title": "Do not wash before ripening 💧",
+            "desc": "Leaving water on papaya skin creates ideal conditions for mold spores, causing fruit rot. Wipe away dirt with a dry cloth and wash the papaya only right before slicing or eating."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Ripen green papayas at room temperature (18–25°C) — Ambient Ripening 🥭",
+            "text": "Keep greenish papayas in a cool, well-ventilated area away from direct sunlight at 18–25°C (65–77°F). 💡 Storage Tip: Papayas are fully ripe when skin turns 70–80% yellow/orange and yields slightly to gentle pressure. To speed up ripening, seal in a paper bag with an apple or banana."
+          },
+          {
+            "name": "Refrigerate ripe papayas at 7–10°C — Cold Storage (3–5 Days) ❄️",
+            "text": "Fully ripe papayas soften rapidly and can over-ripen; cool storage slows decay. 💡 Storage Tip: Wrap ripe papayas in paper towels or newspaper, place in a plastic bag, and store in the crisper drawer (7–10°C / 45–50°F). Enjoy within 3–5 days for maximum sweetness."
+          },
+          {
+            "name": "Deseed, peel, cube, and freeze — Long-Term Freezing (6–12 Months) 🧊",
+            "text": "Freezing is the best method for long-term preservation of excess papaya. 💡 Storage Tip: Cut in half, scoop out seeds, peel, and cube into bite-sized pieces. Flash freeze on a tray first, then transfer into freezer Ziploc bags below -18°C (-0.4°F) for 6–12 months of smoothie-ready papaya."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "How should I store cut leftover papaya?",
+            "answer": "Cut papaya loses moisture rapidly upon air exposure. Scoop out remaining seeds, wrap the exposed flesh tightly with plastic wrap or store in an airtight container, and refrigerate at 0–4°C. Consume within 1–2 days."
+          },
+          {
+            "question": "My papaya skin developed black spots. Is it spoiled?",
+            "answer": "Small black spots on the skin are often signs of anthracnose or mild chilling injury. As long as the inner flesh smells fresh and shows no mold or softness, you can slice away the spot and eat the rest. However, if the fruit feels mushy, slimy, or sour, discard it immediately."
+          }
+        ]
+      },
+      "ja": {
+        "title": "パパイヤを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくパパイヤの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "米国農務省(USDA) & 農村振興庁(RDA) & 食品医薬品安全処(MFDS)",
+        "intro": "甘くてトロピカルな風味のパパイヤ。買ってきてすぐに冷蔵庫に入れたら、皮に黒い斑点ができて熟さないまま傷んでしまった経験はありませんか？ 🥭\n\nパパイヤは代表的な追熟型の熱帯果実で、10℃以下の低温に弱いため未熟な状態で冷蔵保存すると低温障害（Chilling Injury）を起こし、追熟が止まり組織が急速に腐敗します。皮の色の変化に合わせて常温保存と冷蔵保存を正しく切り替えることが、甘みと鮮度を最大限に引き出す鍵となります。\n\n本記事では、USDAと農村振興庁の科学的ガイドラインに基づき、低温障害を防ぎ最高の甘さを維持する3段階の保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "熱帯果実の生理的特性と低温障害のメカニズムを理解し、正しい保存方法を実践することは鮮度維持と栄養素の保持において不可欠です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "青い未熟なパパイヤは絶対に冷蔵庫に入れないでください 🚫",
+            "desc": "皮が緑色の未熟なパパイヤを10℃以下の低温で保存すると低温障害を起こし、追熟しなくなるだけでなく皮に凹みの斑点（pitting）ができて腐敗します。必ず皮の70〜80%が黄色くなるまで常温で追熟させてください。"
+          },
+          {
+            "title": "追熟前には水洗いしないでください 💧",
+            "desc": "パパイヤの表面に水分が残るとカビの胞子が入り込み、軟化・腐敗の原因になります。汚れは乾いた布で拭き取り、洗うのは食べる直前または皮をむく直前にしてください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "青いパパイヤは常温(18〜25℃)で追熟させる — 常温追熟 🥭",
+            "text": "青みが残るパパイヤは直射日光を避け、風通しの良い涼しい常温（18〜25℃）に置きます。💡保存のコツ：皮の70〜80%が黄色くなり、手で優しく押したときに少し凹むくらいが最高の食べ頃です。早く追熟させたい場合はリンゴやバナナと一緒に紙袋に入れておきます。"
+          },
+          {
+            "name": "完熟したパパイヤは7〜10℃の低温で冷蔵保存する — 冷蔵保存 (3〜5日間) ❄️",
+            "text": "黄色く完熟したパパイヤは果肉が柔らかくなりやすいため、低温で腐敗を抑える必要があります。💡保存のコツ：新聞紙やキッチンペーパーで包み、ポリ袋に入れて冷蔵庫の野菜室（7〜10℃）で保存します。完熟後3〜5日間美味しく召し上がれます。"
+          },
+          {
+            "name": "種と皮を取り除き角切りにして冷凍保存する — 長期冷凍 (6〜12ヶ月間) 🧊",
+            "text": "残ったパパイヤを長期保存するには冷凍保存が最も適しています。💡保存のコツ：半分に切って種を取り除き、皮をむいて一口大の角切りにします。バットに広げて予備冷凍した後、冷凍用ジッパーバッグに入れて-18℃以下で保存すれば、6〜12ヶ月間スムージー等に活用できます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "カットして残ったパパイヤはどのように保存すべきですか？",
+            "answer": "カットしたパパイヤは空気中の酸素と触れて水分が失われるため、種をかき出し、断面にラップをぴったり密着させるか密閉容器に入れて0〜4℃で冷蔵保存してください。1〜2日以内にお召し上がりいただくのがベストです。"
+          },
+          {
+            "question": "パパイヤの皮に黒い斑点ができましたが傷んでいますか？",
+            "answer": "皮にできる小さな黒い斑点（炭疽病や低温障害の痕）は果実が柔らかくなり始めたサインですが、果肉内部まで酸敗臭やカビが及んでいなければ黒い部分を切り落として食べることができます。ただし、表面がドロドロに崩れて酸っぱい臭いがする場合は破棄してください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持木瓜新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解木瓜的最佳储存温度、方式和保鲜时长。",
+        "authority": "美国农务部(USDA) & 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "买回甘甜软糯的热带木瓜，买回家就直接放入冰箱，结果表皮长出黑斑且未熟先烂，您遇到过这种情况吗？ 🥭\n\n木瓜是典型的后熟型热带水果，极易受10℃以下的低温冷害（Chilling Injury）。在未熟状态下冷藏会导致后熟中断，细胞组织破裂腐烂。根据果皮颜色及时从常温切换为冷藏保存，是保持木瓜高糖度与新鲜度的核心秘诀。\n\n本指南将基于 USDA 和 RDA 的科学指南，为您介绍防止冷害、完美保持木瓜甜度与口感的 3 步储存秘诀。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解热带水果的生理特性与低温冷害机制，并采用正确的储存方法，对于保持新鲜度和保存营养成分至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "切勿将未熟的青木瓜放入冰箱 🚫",
+            "desc": "将果皮发青的未熟木瓜置于10℃以下的低温环境中会导致冷害，使其永久停止后熟，表皮还会出现凹陷斑点并加速腐烂。必须在常温下催熟至果皮70~80%变黄。"
+          },
+          {
+            "title": "催熟前切勿用水清洗 💧",
+            "desc": "木瓜表皮留有水分极易滋生霉菌孢子导致果实变软腐烂。表面的泥土杂质用干布轻擦即可，清洗请留到切开或食用前进行。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "未熟木瓜置于常温(18~25℃)下催熟 — 常温催熟 🥭",
+            "text": "青色木瓜应放在避光、通风良好的阴凉常温处（18~25℃）。💡储存小贴士：当表皮70~80%变黄且手感微微变软时，即为最佳食用状态。如需快速催熟，可与苹果或香蕉一同放入纸袋中。"
+          },
+          {
+            "name": "熟透的木瓜置于7~10℃冷藏 — 冷藏储存 (3~5天) ❄️",
+            "text": "变黄熟透的木瓜果肉容易变软过熟，需置于低温环境中抑制腐烂。💡储存小贴士：用报纸或厨房纸巾包裹后装入保鲜袋，放入冰箱蔬菜保鲜抽屉（7~10℃）。熟透后可保鲜3~5天。"
+          },
+          {
+            "name": "去籽去皮切块冷冻 — 长期冷冻 (6~12个月) 🧊",
+            "text": "若有剩余木瓜，冷冻是长期保存的最佳选择。💡储存小贴士：对半切开舀出木瓜籽，削皮后切成一口大小的方块。先平铺在盘中预冻，再转入冷冻拉链袋于-18℃以下冷冻，可保存6~12个月，非常适合做果汁或甜品。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "切开吃剩的木瓜应该如何保存？",
+            "answer": "切开的木瓜接触空气后水分极易流失。应舀出果核，用保鲜膜将切面紧密包裹，或装入密封保鲜盒中，置于0~4℃冷藏，并在1~2天内食用完毕。"
+          },
+          {
+            "question": "木瓜表皮长了黑斑，是坏了吗？",
+            "answer": "木瓜皮上的小黑斑（炭疽病或轻微冷害痕迹）通常是果实开始变软的信号，只要果肉内部没有发酸臭味或长霉，将黑斑部位切除后即可安全食用。但若表皮塌陷粘手并散发酸臭味，请立即丢弃。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener la papaya fresca: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la papaya según las directrices oficiales de seguridad.",
+        "authority": "USDA & RDA & MFDS",
+        "intro": "¿Alguna vez compró una papaya dulce y suave, solo para meterla directamente al refrigerador y descubrir que le salían manchas negras y se pudría antes de madurar? 🥭\n\nLa papaya es una fruta tropical climatérica altamente susceptible a daños por frío (chilling injury) a temperaturas inferiores a 10 °C. Refrigerar una papaya verde e inmadura detiene el proceso de maduración, daña sus células y acelera la descomposición. Cambiar de temperatura ambiente a refrigeración según el color de su piel es la clave para maximizar la dulzura.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por el USDA y la RDA para evitar daños por frío y mantener la dulzura de la papaya. 🛡️",
+        "whyTitle": "¿Por qué almacenarla así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas y los mecanismos de daño por frío de las frutas tropicales es fundamental para mantener la frescura y conservar sus nutrientes.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Nunca refrigere una papaya verde e inmadura 🚫",
+            "desc": "Guardar papayas verdes por debajo de 10 °C provoca daños por frío, deteniendo la maduración de forma permanente y causando grietas o manchas hundidas en la piel. Madúrelas siempre a temperatura ambiente hasta que el 70-80% de la piel esté amarilla."
+          },
+          {
+            "title": "No la lave antes de que madure 💧",
+            "desc": "La humedad atrapada en la piel de la papaya estimula el crecimiento de moho, ablandando la fruta. Limpie la suciedad con un paño seco y lávela justo antes de cortarla o comerla."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Madure la papaya verde a temperatura ambiente (18 a 25 °C) — Maduración 🥭",
+            "text": "Mantenga la papaya verdosa en un lugar fresco, bien ventilado y sin luz solar directa (18–25 °C). 💡 Consejo de almacenamiento: La papaya alcanza su punto óptimo cuando el 70–80% de la piel es amarilla. Para acelerar la maduración, colóquela en una bolsa de papel con una manzana o plátano."
+          },
+          {
+            "name": "Refrigere la papaya madura a 7–10 °C — Almacenamiento (3 a 5 días) ❄️",
+            "text": "La papaya completamente madura se ablanda rápido; la refrigeración lenta previene la descomposición. 💡 Consejo de almacenamiento: Envuelva la papaya en papel o toallas de cocina, colóquela en una bolsa plástica y guárdela en el cajón de verduras (7–10 °C). Consúmala en 3 a 5 días."
+          },
+          {
+            "name": "Retire semillas, pele, corte en cubos y congele — Congelación (6 a 12 meses) 🧊",
+            "text": "Congelar es el mejor método para conservar el exceso de papaya a largo plazo. 💡 Consejo de almacenamiento: Corte por la mitad, retire las semillas, pele y corte en cubos. Congele los trozos en una bandeja y luego transfiéralos a bolsas Ziploc a -18 °C. Dura de 6 a 12 meses."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Cómo debo almacenar la papaya cortada que me sobró?",
+            "answer": "La papaya cortada pierde humedad rápidamente. Retire las semillas restantes, envuelva la pulpa expuesta firmemente con film plástico o colóquela en un recipiente hermético y refrigérela a 0–4 °C. Consúmala en un plazo de 1 a 2 días."
+          },
+          {
+            "question": "A mi papaya le salieron manchas negras en la piel. ¿Se echó a perder?",
+            "answer": "Las pequeñas manchas negras en la piel suelen ser marcas de antracnosis o leve daño por frío. Mientras la pulpa interior huela fresca y no esté suave o mohosa, puede cortar la parte manchada y comer el resto. Si se siente pegajosa o huele agrio, deséchela."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver la papaye fraîche : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour la papaye selon les directives officielles de sécurité.",
+        "authority": "USDA & RDA & MFDS",
+        "intro": "Avez-vous déjà acheté une belle papaye bien douce pour la placer directement au réfrigérateur, où elle s'est couverte de taches noires et a pourri avant de mûrir ? 🥭\n\nLa papaye est un fruit tropical climatérique très sensible au froid (chilling injury) en dessous de 10 °C. Réfrigérer une papaye verte arrête le processus de maturation, abîme ses tissus et provoque son pourrissement. Alterner entre température ambiante et réfrigération selon la couleur de la peau est le secret d'une pulpe sucrée.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et du RDA pour éviter les dégâts du froid et préserver la douceur de la papaye. 🛡️",
+        "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques et les mécanismes de sensibilité au froid des fruits tropicaux est essentiel pour maintenir la fraîcheur et préserver les nutriments.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne réfrigérez jamais une papaye verte non mûre 🚫",
+            "desc": "Conserver des papayes vertes en dessous de 10 °C provoque des blessures dues au froid, stoppe la maturation et crée des taches enfoncées sur la peau. Laissez-les mûrir à température ambiante jusqu'à ce que la peau soit à 70-80% jaune."
+          },
+          {
+            "title": "Ne la lavez pas avant le mûrissement 💧",
+            "desc": "L'humidité emprisonnée sur la peau de la papaye favorise le développement des moisissures. Essuyez la terre avec un chiffon sec et ne la lavez que juste avant de la couper ou de la consommer."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Faire mûrir la papaye verte à température ambiante (18 à 25 °C) — Maturation 🥭",
+            "text": "Placez la papaye verte dans un endroit frais et aéré, à l'abri de la lumière directe (18 à 25 °C). 💡 Astuce de conservation : La papaye est mûre lorsque la peau est jaune à 70–80%. Pour accélérer le mûrissement, placez-la dans un sachet en papier avec une pomme ou une banane."
+          },
+          {
+            "name": "Réfrigérer la papaye mûre entre 7 et 10 °C — Stockage (3 à 5 jours) ❄️",
+            "text": "Une papaye bien mûre se ramollit vite; le froid ralentit la dégradation. 💡 Astuce de conservation : Enveloppez la papaye dans du papier essuie-tout, placez-la dans un sachet plastique et conservez-la dans le bac à légumes (7 à 10 °C). Consommez-la sous 3 à 5 jours."
+          },
+          {
+            "name": "Épépiner, peler, couper en dés et congeler — Congélation (6 à 12 mois) 🧊",
+            "text": "La congélation est idéale pour conserver les restes de papaye à long terme. 💡 Astuce de conservation : Coupez en deux, retirez les graines, pelez et coupez en dés. Pré-congelez sur une plaque puis transférez dans un sac congélation à -18 °C pendant 6 à 12 mois."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Comment conserver de la papaye déjà entamée ?",
+            "answer": "La papaye coupée se dessèche vite. Retirez les graines, enveloppez la chair entamée dans du film étirable ou placez-la dans une boîte hermétique au réfrigérateur (0–4 °C). Consommez-la dans les 1 à 2 jours."
+          },
+          {
+            "question": "Des taches noires sont apparues sur ma papaye. Est-elle périmée ?",
+            "answer": "De petites taches noires sur la peau résultent souvent d'un léger coup de froid. Tant que la chair intérieure ne dégage pas d'odeur sûre et n'est pas moisie, vous pouvez retirer la zone marquée et manger le reste. Si la chair est gluante ou très aigre, jetez-la."
+          }
+        ]
+      },
+      "de": {
+        "title": "Papaya richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Papaya basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "USDA & RDA & MFDS",
+        "intro": "Haben Sie schon einmal eine süße Papaya gekauft und sie direkt in den Kühlschrank gelegt, wo sie schwarze Flecken bekam und verfaulte, bevor sie reif wurde? 🥭\n\nPapayas sind klimakterische Tropenfrüchte, die extrem empfindlich auf Kälteschäden (Chilling Injury) unter 10 °C reagieren. Das Kühlen unreifer grüner Papayas stoppt den Reifeprozess und führt zu rascher Fäulnis. Der Wechsel von Raumtemperatur zu Kühllagerung je nach Schalenfarbe ist der Schlüssel für maximale Süße.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien von USDA und RDA basiert, um Kälteschäden zu vermeiden und die Süße der Papaya zu bewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der physiologischen Eigenschaften und Kälteschaden-Mechanismen von Tropenfrüchten ist entscheidend für Frische und Nährstofferhalt.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Unreife grüne Papayas niemals in den Kühlschrank legen 🚫",
+            "desc": "Grüne Papayas unter 10 °C zu lagern führt zu Kälteschäden, wodurch die Reifung dauerhaft stoppt und Dellen sowie Flecken auf der Schale entstehen. Immer bei Raumtemperatur nachreifen lassen, bis die Schale zu 70–80% gelb ist."
+          },
+          {
+            "title": "Vor dem Nachreifen nicht waschen 💧",
+            "desc": "Wasser auf der Schale begünstigt Schimmelbildung. Wischen Sie Schmutz nur mit einem trockenen Tuch ab und waschen Sie die Papaya erst direkt vor dem Aufschneiden."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Grüne Papayas bei Raumtemperatur (18–25 °C) nachreifen lassen — Nachreifung 🥭",
+            "text": "Lagern Sie grünliche Papayas an einem kühlen, gut belüfteten Ort ohne direkte Sonneneinstrahlung (18–25 °C). 💡 Lagerungstipp: Die Papaya ist reif, wenn die Schale zu 70–80% gelb ist. Zum schnellen Nachreifen zusammen mit einem Apfel in eine Papiertüte legen."
+          },
+          {
+            "name": "Reife Papayas bei 7–10 °C kühlen — Kühllagerung (3–5 Tage) ❄️",
+            "text": "Vollreife Papayas werden schnell weich; Kühlung verlangsamt den Verderb. 💡 Lagerungstipp: Reife Papayas in Küchenpapier wickeln, in einen Plastikbeutel legen und ins Gemüsefach (7–10 °C) legen. Innerhalb von 3–5 Tagen verzehren."
+          },
+          {
+            "name": "Entkernen, schälen, würfeln und einfrieren — Langzeitkühlung (6–12 Monate) 🧊",
+            "text": "Einfrieren ist die beste Methode zur Dauerlagerung von Papayaresteten. 💡 Lagerungstipp: Halbieren, Kerne herauskratzen, schälen und würfeln. Die Würfel vorgefrieren und dann in Gefrierbeuteln bei unter -18 °C aufbewahren (hält 6–12 Monate)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Wie sollte man angeschnittene Papaya aufbewahren?",
+            "answer": "Angeschnittene Papaya verliert an der Luft schnell Feuchtigkeit. Entfernen Sie die Kerne, wickeln Sie die Schnittfläche fest in Frischhaltefolie oder legen Sie sie in eine Dichtdose bei 0–4 °C. Innerhalb von 1–2 Tagen verzehren."
+          },
+          {
+            "question": "Meine Papaya hat schwarze Flecken auf der Schale. Ist sie schlecht?",
+            "answer": "Kleine schwarze Flecken sind oft Anzeichen leichter Kälteschäden. Solange das Fruchtfleisch frisch riecht und keinen Schimmel zeigt, kann man die Stelle großzügig wegschneiden. Bei riechbarem Verderb oder Schmierigkeit sofort entsorgen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar mamão (papaya) fresco: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para o mamão com base em diretrizes oficiais de segurança.",
+        "authority": "USDA & RDA & MFDS",
+        "intro": "Você já comprou um mamão doce e macio e o colocou direto na geladeira, onde ele ganhou manchas escuras e estragou antes de amadurecer? 🥭\n\nO mamão é uma fruta tropical climatérica muito sensível a danos por frio (chilling injury) em temperaturas abaixo de 10 °C. Refrigerar o mamão verde interrompe o amadurecimento, danifica o tecido da fruta e acelera a deterioração. Alternar da temperatura ambiente para a geladeira conforme a cor da casca é o segredo para ter o máximo de doçura.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes do USDA e da RDA para evitar danos por frio e manter o mamão doce e fresco. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas e os mecanismos de danos por frio das frutas tropicais é essencial para manter o frescor e preservar os nutrientes.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca refrigere o mamão verde e verde-amarelado 🚫",
+            "desc": "Guardar mamões verdes abaixo de 10 °C causa danos por frio, interrompendo o amadurecimento e provocando manchas afundadas na casca. Amadureça-os sempre à temperatura ambiente até que 70-80% da casca esteja amarela."
+          },
+          {
+            "title": "Não lave antes de amadurecer 💧",
+            "desc": "A umidade retida na casca do mamão estimula o aparecimento de mofo. Limpe a sujeira com um pano seco e lave apenas no momento de cortar ou consumir."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Amadureça o mamão verde à temperatura ambiente (18 a 25 °C) — Amadurecimento 🥭",
+            "text": "Mantenha o mamão verde em local fresco, bem ventilado e longe da luz solar (18–25 °C). 💡 Dica de conservação: O mamão está no ponto ideal quando 70–80% da casca fica amarela. Para acelerar, coloque num saco de papel com uma maçã ou banana."
+          },
+          {
+            "name": "Refrigere o mamão maduro a 7–10 °C — Armazenamento (3 a 5 dias) ❄️",
+            "text": "O mamão bem maduro amolece rápido; a refrigeração desacelera a deterioração. 💡 Dica de conservação: Envolva o mamão em papel-toalha, coloque num saco plástico e guarde na gaveta de legumes (7–10 °C). Consuma em 3 a 5 dias."
+          },
+          {
+            "name": "Retire sementes, descasque, corte em cubos e congele — Congelamento (6 a 12 meses) 🧊",
+            "text": "Congelar é a melhor forma de guardar o excesso de mamão por longo prazo. 💡 Dica de conservação: Corte ao meio, retire as sementes, descasque e corte em cubos. Congele os pedaços numa bandeja e transfira para sacos Ziploc a -18 °C por 6 a 12 meses."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Como devo guardar o mamão cortado que sobrou?",
+            "answer": "O mamão cortado perde umidade rapidamente. Retire as sementes restantes, envolva a polpa com filme plástico ou coloque num pote hermético e refrigere a 0–4 °C. Consuma em até 1 a 2 dias."
+          },
+          {
+            "question": "Apareceram manchas pretas na casca do meu mamão. Estragou?",
+            "answer": "Pequenas manchas pretas na casca costumam ser sinais de antracnose ou leve dano por frio. Se a polpa por dentro estiver cheirosa e sem mofo, você pode cortar a parte manchada e comer o resto. Se estiver pegajosa ou azeda, descarte."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Pepaya agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk pepaya berdasarkan pedoman keselamatan resmi.",
+        "authority": "USDA & RDA & MFDS",
+        "intro": "Pernahkah Anda membeli pepaya yang manis lalu langsung menyimpannya di kulkas, hanya untuk mendapati kulitnya muncul bercak hitam dan membusuk sebelum matang? 🥭\n\nPepaya adalah buah tropis klimakterik yang sangat rentan terhadap kerusakan dingin (chilling injury) pada suhu di bawah 10°C. Menyimpan pepaya mentah di kulkas akan menghentikan proses pematangan, merusak jaringan sel, dan mempercepat pembusukan. Mengubah tempat penyimpanan dari suhu ruang ke kulkas berdasarkan warna kulit adalah kunci utama untuk memaksimalkan kemanisan.\n\nDalam panduan ini, kami membagikan panduan penyimpanan pepaya 3 langkah berbasis ilmiah berdasarkan pedoman USDA dan RDA untuk mencegah kerusakan dingin dan menjaga kemanisan pepaya. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis dan mekanisme kerusakan dingin pada buah tropis sangat penting untuk menjaga kesegaran dan nutrisi.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan pernah menyimpan pepaya mentah yang masih hijau di kulkas 🚫",
+            "desc": "Menyimpan pepaya hijau pada suhu di bawah 10°C menyebabkan kerusakan dingin, menghentikan pematangan secara permanen, dan menimbulkan cekungan bercak pada kulit. Selalu peram pepaya di suhu ruang hingga 70–80% kulitnya menguning."
+          },
+          {
+            "title": "Jangan dicuci sebelum matang 💧",
+            "desc": "Air yang tertinggal pada kulit pepaya memicu tumbuhnya spora jamur yang menyebabkan pembusukan buah. Lap kotoran dengan kain kering dan cucilah tepat sebelum dipotong atau dimakan."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Pemeram pepaya hijau pada suhu ruang (18–25°C) — Pemeraman 🥭",
+            "text": "Letakkan pepaya hijau di tempat yang sejuk, berventilasi baik, dan terhindar dari sinar matahari langsung (18–25°C). 💡 Tips Penyimpanan: Pepaya matang sempurna saat 70–80% kulitnya berwarna kuning. Untuk mempercepat pematangan, simpan dalam kantong kertas bersama apel atau pisang."
+          },
+          {
+            "name": "Simpan pepaya matang di kulkas pada suhu 7–10°C — Simpan Dingin (3–5 Hari) ❄️",
+            "text": "Pepaya yang matang sempurna mudah lembek; suhu dingin memperlambat pembusukan. 💡 Tips Penyimpanan: Bungkus pepaya dengan kertas/tisu dapur, masukkan ke dalam kantong plastik, lalu simpan di laci sayuran (7–10°C). Habiskan dalam 3–5 hari."
+          },
+          {
+            "name": "Buang biji, kupas, potong dadu, lalu bekukan — Pembekuan (6–12 Bulan) 🧊",
+            "text": "Membekukan adalah cara terbaik untuk menyimpan sisa pepaya dalam jangka panjang. 💡 Tips Penyimpanan: Belah dua, buang bijinya, kupas, dan potong dadu. Bekukan awal di atas nampan, lalu pindahkan ke kantong Ziploc freezer di bawah -18°C selama 6–12 bulan."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Bagaimana cara menyimpan sisa pepaya yang sudah dipotong?",
+            "answer": "Pepaya terpotong kehilangan kelembapan dengan cepat. Buang sisa bijinya, bungkus daging buah secara rapat dengan plastik wrap atau masukkan ke dalam wadah kedap udara, lalu simpan di kulkas (0–4°C). Habiskan dalam 1–2 hari."
+          },
+          {
+            "question": "Bercak hitam muncul di kulit pepaya saya. Apakah sudah busuk?",
+            "answer": "Bercak hitam kecil pada kulit biasanya adalah tanda antraknosa atau kerusakan dingin ringan. Selama daging buah bagian dalam masih beraroma segar dan tidak berjamur, Anda dapat memotong bagian bercak tersebut dan memakan sisanya. Jika lembek berlendir atau berbau asam, segera buang."
+          }
+        ]
+      }
     }
+  }
 }

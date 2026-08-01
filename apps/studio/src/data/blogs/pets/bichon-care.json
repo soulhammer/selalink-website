@@ -1,459 +1,459 @@
 {
-    "bichon-care": {
-        "pubDate": "2026-05-10",
-        "updatedDate": "2026-05-10",
-        "locales": {
-            "ko": {
-                "title": "비숑 프리제 곱슬모 케어: 엉킴 방지와 비숑타임 대처 3단계 루틴",
-                "description": "하이바 헬멧 머리로 유명한 친근한 비숑 프리제. 얇고 조밀해 쉽게 엉키는 곱슬털 관리 팁과 갑작스러운 에너지 폭발(비숑타임)의 안전 대처 루틴을 알아봅니다.",
-                "authority": "Bichon Frise Club of America 가이드라인 및 AVMA 수의학 지침",
-                "profile": {
-                    "breed": "비숑 프리제 (Bichon Frise)",
-                    "lifespan": "12 ~ 15년",
-                    "sleep_pattern": "12 ~ 14시간 (보호자 발밑 동침)",
-                    "temperament": "명랑함, 쾌활함, 애교 많음, 사교적"
-                },
-                "intro": "솜사탕처럼 하얗고 보송보송한 비숑 프리제는 지치지 않는 쾌활함과 극강의 사랑스러움으로 많은 반려인들에게 행복을 주는 견종입니다. 하지만 곱슬거리는 얇은 장모는 빗질을 멈추면 속털부터 단단히 뭉치며, 귀와 다리 주변의 털 엉킴은 피부염을 직접 유발합니다. 또한 실내 생활에서 과도한 에너지가 폭발할 때 나타나는 급격한 전속력 질주 행동(일명 비숑타임, FRAPs)은 관절에 큰 무리를 줍니다. 이번 가이드에서는 비숑의 유쾌한 몸짓 신호를 해독하고, 엉킴 없는 코트 브러싱과 비숑타임 시 부상 방지를 돕는 3단계 케어 루틴을 소개합니다.",
-                "whyTitle": "비숑 프리제의 바디 랭귀지: 비숑 타임과 관심의 신호",
-                "whyDesc": "비숑 프리제는 흥분할 때 실내를 맹렬히 질주하는 **'비숑 타임(Bichon Blitz)'** 행동을 통해 에너지를 순간적으로 소비합니다. 이는 본능적인 에너지의 배출 현상입니다. 또한 보호자의 무릎이나 팔을 앞발로 가볍게 툭툭 치는 **'앞발 치기(Paw Tap)'** 행동은 관심을 끌고 놀이를 요청하는 애정적인 평화 시그널입니다.",
-                "body_signals": [
-                    {
-                        "name": "비숑 타임 (Bichon Blitz)",
-                        "meaning": "체내에 쌓인 잔여 에너지를 격렬한 움직임을 통해 빠르게 발산시키는 본능적인 놀이 요청 행동입니다.",
-                        "response": "달리는 통로의 가구나 미끄러운 바닥에 안전 매트를 보충하고 자연스럽게 멈추길 지켜보세요."
-                    },
-                    {
-                        "name": "앞발로 툭툭 치기 (Paw Tap)",
-                        "meaning": "자신에게 관심을 보이고 교감해 달라는 비숑 프리제 특유의 평화롭고 친근한 의사소통입니다.",
-                        "response": "부드럽게 눈을 맞춘 후 쓰다듬어 주거나, 간단한 앉아/손 훈련으로 인지 자극을 보충하세요."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 가벼운 장난감 추적 터그 놀이",
-                        "text": "실내 가구나 문틀 충돌을 방지하기 위해 아침에는 부드러운 직물의 터그 장난감을 흔들어 에너지를 서서히 소비시키고 이완 상태를 도모합니다."
-                    },
-                    {
-                        "name": "낮: 철제 콤과 슬리커를 교차한 10분 빗질 교육",
-                        "text": "조밀한 곱슬 털뭉치가 피부를 조이지 않도록 빗질 미스트를 뿌린 후 배와 다리 안쪽을 슬리커로 펴주고 콤 빗으로 한 올씩 엉킴을 확인합니다."
-                    },
-                    {
-                        "name": "저녁: 미세모 빗으로 눈가 털 빗기 및 눈물자국 건조",
-                        "text": "흰 모질이 눈물로 오염되거나 피부염을 일으키지 않도록 안구 주변을 전용 안면 빗으로 쓸어주고 눈가 수분을 화장솜으로 건조하게 닦아 줍니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "비숑 타임(Bichon Blitz) 시 어떻게 진정시켜야 하나요?",
-                        "answer": "비숑 타임은 지극히 자연스러운 감정 표출 행동이므로 억지로 붙잡아 소리를 지르면 놀이로 오인해 더 크게 달릴 수 있습니다. 달릴 때 미끄러져 슬개골이 탈구되지 않도록 거실 매트를 정돈하고 가만히 지켜보며 안정을 취하게 하세요."
-                    },
-                    {
-                        "question": "비숑 프리제의 털 뭉침은 왜 위험한가요?",
-                        "answer": "비숑의 털은 얇고 곱슬거리며 촘촘해 빗질을 거르면 털끼리 엉켜 하나의 두꺼운 부직포처럼 뭉칩니다. 이 상태가 오래되면 모근을 조여 피부를 옥죄며 혈액 순환을 차단해 접촉성 피부염과 가려움증을 초래합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Bichon Frise Curly Coat Care: A 3-Step Routine for Detangling and Bichon Blitz",
-                "description": "Famous for their white powder-puff look, Bichons are highly friendly. Discover a 3-step routine to manage their dense curly coat and safely handle sudden bursts of energy (FRAPs).",
-                "authority": "Bichon Frise Club of America Guidelines & AVMA Veterinary Health Standards",
-                "profile": {
-                    "breed": "Bichon Frise",
-                    "lifespan": "12 ~ 15 years",
-                    "sleep_pattern": "12 ~ 14 hours (sleeping at owner's feet)",
-                    "temperament": "Cheerful, Playful, Affectionate, Outgoing"
-                },
-                "intro": "Bichon Frises are known for their white, cotton-ball appearance and tireless, cheerful nature, bringing endless joy to many families. However, their thin, double curly coat easily tangles from the dense undercoat if brushing is neglected, and matting around the ears and legs directly triggers contact dermatitis. In addition, sudden bursts of high-speed running indoors—commonly known as the Bichon Blitz or FRAPs (Frenetic Random Activity Periods)—put immense strain on their patellas and spine. In this guide, decodes the joyful body language signals of the Bichon Frise and shares a 3-step daily routine to prevent coat matting and avoid injuries during the Bichon Blitz.",
-                "whyTitle": "Bichon Frise Body Language: Bichon Blitz and Signals for Attention",
-                "whyDesc": "When excited, Bichons display **'Bichon Blitz'** (running frantically indoors) to instantly burn off residual energy. This is a natural instinctual release of energy. Additionally, tapping their owner's knee or arm with a paw (**'paw tap'**) is a peaceful, affectionate signal asking for attention and playtime.",
-                "body_signals": [
-                    {
-                        "name": "Bichon Blitz",
-                        "meaning": "An instinctual play behavior to quickly burn off residual energy through intense physical movement.",
-                        "response": "Add safety padding to furniture corners along their path, ensure floor mats are non-slip, and wait quietly for them to stop naturally."
-                    },
-                    {
-                        "name": "Paw Tap",
-                        "meaning": "A peaceful and friendly form of communication unique to Bichons to ask for attention and engagement.",
-                        "response": "Make gentle eye contact and pet them, or conduct a quick sit/paw obedience session to provide mental stimulation."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Light Toy Fetching and Gentle Tug-of-War Play",
-                        "text": "To prevent high-speed collisions with furniture or door frames, do a gentle tug-of-war in the morning using a soft fabric toy to gradually burn energy and promote a calm state."
-                    },
-                    {
-                        "name": "Afternoon: 10-Minute Brushing Routine Alternating Slicker Brush and Steel Comb",
-                        "text": "To prevent dense curly mats from constricting the skin, spritz grooming mist first, brush the belly and inner legs with a slicker brush, and then check strand by strand with a steel comb to ensure no tangles remain."
-                    },
-                    {
-                        "name": "Evening: Eye Area Brushing with a Fine-Tooth Comb and Tear Stain Drying",
-                        "text": "To keep their white coat from staining with tears or developing skin inflammation, gently comb the eye area with a specialized facial comb and dry excess moisture with a cotton pad."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "How should I calm a Bichon during a Bichon Blitz?",
-                        "answer": "The Bichon Blitz is a completely natural emotional release. Grabbing them forcibly or yelling can be mistaken for play, making them run harder. Arrange non-slip mats in the living room to prevent slippery floors from causing patellar luxation, and observe quietly until they calm down naturally."
-                    },
-                    {
-                        "question": "Why is fur matting dangerous for Bichons?",
-                        "answer": "Bichon fur is thin, curly, and dense. Skipping brushing causes the fur to tangle together into a thick, felt-like mat. Over time, these mats constrict the hair roots and skin, blocking blood circulation and leading to contact dermatitis and severe itching."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ビション・フリーゼの巻き毛ケア：もつれ防止とビションタイム対処の3段階ルーティン",
-                "description": "アフロヘアーのような頭で人気のビション・フリーゼ。絡まりやすい巻き毛の管理と、突然のエネルギー爆発（ビションタイム）への安全な対処法を紹介します。",
-                "authority": "Bichon Frise Club of Americaガイドライン＆AVMA獣医学指針",
-                "profile": {
-                    "breed": "ビション・フリーゼ (Bichon Frise)",
-                    "lifespan": "12 ~ 15年",
-                    "sleep_pattern": "12 ~ 14時間（飼い主の足元で就寝）",
-                    "temperament": "陽気、活発、甘えん坊、社交的"
-                },
-                "intro": "綿あめのように白くふわふわしたビション・フリーゼは、地道で陽気な性格と愛嬌で多くの飼い主に幸せを与える犬種です。しかし、細く密生したダブルコートの巻き毛はブラッシングを怠るとアンダーコートから固まり、耳や足の周りのもつれは接触性皮膚炎を直接引き起こします。また、室内で過剰なエネルギーが爆発する猛スピードのダッシュ行動（ビションタイム、FRAPs）は膝蓋骨や脊椎に大きな負担を与えます。本記事では、ビションの楽しげなボディランゲージを解読し、毛玉を防ぐブラッシングとビションタイム時のケガ予防を助ける3段階ケア operational ルーティンをご紹介します。",
-                "whyTitle": "ビション・フリーゼのボディランゲージ：ビションタイムと関心のサイン",
-                "whyDesc": "ビション・フリーゼは興奮すると室内を激しく走り回る**「ビションタイム（Bichon Blitz）」**を行い、体内のエネルギーを瞬間的に消費します。これは本能的なエネルギー発散行動です。また、飼い主の膝や腕を前脚で軽くたたく**「前脚タッチ（Paw Tap）」**は、注意を引いて遊んでほしいと伝える愛らしく平和的なサインです。",
-                "body_signals": [
-                    {
-                        "name": "ビションタイム (Bichon Blitz)",
-                        "meaning": "体内に溜まった余剰エネルギーを激しい動きによって素早く発散させる本能的な遊び要求行動です。",
-                        "response": "走るルートにある家具の角に protective パッドを設置し、滑り止めマットを敷いて自然に止まるまで静かに見守りましょう。"
-                    },
-                    {
-                        "name": "前脚タッチ (Paw Tap)",
-                        "meaning": "自分に関心を取り、ふれあいを求めるビション・フリーゼ特有の平和で友好的なコミュニケーションです。",
-                        "response": "優しく目を合わせてから撫でてあげるか、簡単な「おすわり/お手」のトレーニングで認知的な刺激を与えてあげましょう。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：軽いおもちゃ追いかけとターグ遊び",
-                        "text": "家具やドア枠への衝突を防ぐため、朝は柔らかい布製のおもちゃを揺らして引っ張り合いをしてエネルギーを徐々に消費させ、リラックス状態へと導きます。"
-                    },
-                    {
-                        "name": "昼：スリッカーとコームを交差させた10分間ブラッシング",
-                        "text": "密生した巻き毛の束が皮膚を締め付けないよう、ブラッシングミストを吹きかけてからお腹や脚の内側をスリッカーでほぐし、スチールコームで毛筋ごとに一本ずつもつれがないか確認します。"
-                    },
-                    {
-                        "name": "夜：極細コームによる目元ケアと涙やけの乾燥",
-                        "text": "白い被毛が涙で汚れたり皮膚炎を起こしたりしないよう、目の周りを専用の顔用コームで整え、目元の水分をコットンで乾かすように拭き取ります。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "ビションタイム（Bichon Blitz）の時はどうやって落ち着かせればいいですか？",
-                        "answer": "ビションタイムは非常に自然な感情発散行動です。無理に捕まえたり大声を出すと遊びと勘違いしてますます激しく走ってしまいます。フローリングで滑って膝蓋骨脱臼を起こさないようマットを整え、静かに見守って自然に落ち着くのを待ちましょう。"
-                    },
-                    {
-                        "question": "ビション・フリーゼの毛のもつれはなぜ危険ですか？",
-                        "answer": "ビションの毛は細く密生した巻き毛のため、ブラッシングを怠ると毛同士が絡まり合って分厚いフェルト状の毛玉になります。この状態が長く続くと毛根を引っ張って皮膚を締め付け、血行を阻害して接触性皮膚炎やかゆみを引き起こします。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "比熊犬卷毛护理：防止缠结与应对比熊时间（Bichon Blitz）的日常3步护理流程",
-                "description": "以“头盔圆头”发型闻名、性格友善的比熊犬。介绍一套管理易缠结卷毛的窍门，以及安全应对突发性能量释放（比熊时间）的日常3步护理流程。",
-                "authority": "美国比熊犬俱乐部指南与 AVMA 兽医学健康标准",
-                "profile": {
-                    "breed": "比熊犬 (Bichon Frise)",
-                    "lifespan": "12 ~ 15年",
-                    "sleep_pattern": "12 ~ 14小时（伴家长脚边就寝）",
-                    "temperament": "开朗、活泼、爱撒娇、社交能力强"
-                },
-                "intro": "像棉花糖一样洁白蓬松的比熊犬，因其永不疲倦的开朗性格和极致的可爱，给许多养宠家庭带来了无限幸福。然而，它们纤细密实的双层卷毛一旦停止梳理，就会从底毛开始严重缠结，耳部和四肢周围的毛发缠结会直接诱发接触性皮肤炎。此外，室内生活因精力过剩而突发的高速奔跑行为（俗称比熊时间/FRAPs）会给膝盖骨和脊椎带来巨大压力。今天，本指南将教您如何读懂比熊犬愉快的身体信号，并介绍一套防止卷毛缠结以及在“比熊时间”防受伤的3步日常护理流程。",
-                "whyTitle": "比熊犬的身体语言：比熊时间与寻求关注的信号",
-                "whyDesc": "比熊犬在兴奋时会通过在室内疯狂奔跑的**“比熊时间（Bichon Blitz）”**行为瞬间消耗剩余精力。这是本能的精力排解现象。此外，它们用前爪轻轻触碰家长手臂或膝盖的**“前爪触碰（Paw Tap）”**行为，则是寻求关注和请求玩耍的友好信号。",
-                "body_signals": [
-                    {
-                        "name": "比熊时间 (Bichon Blitz)",
-                        "meaning": "通过剧烈的运动快速释放体内积攒的剩余精力的本能玩耍请求行为。",
-                        "response": "在奔跑通道的家具边角添加防撞包角，铺好防滑垫，静静等待其自然停止。"
-                    },
-                    {
-                        "name": "前爪触碰 (Paw Tap)",
-                        "meaning": "请求关注及寻求互动的比熊犬特有的友好、亲近的沟通方式。",
-                        "response": "温柔地进行眼神交流并抚摸它们，或者通过简单的“坐下/握手”训练来补充其认知刺激。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早晨：轻松的玩具追踪与拉扯游戏",
-                        "text": "为了防止与室内家具或门框碰撞，早晨可以通过抖动柔软织物的拉扯玩具来慢慢消耗精力，促进其放松。"
-                    },
-                    {
-                        "name": "中午：钢排梳与针梳交替的10分钟梳理训练",
-                        "text": "为防止细密的卷毛团勒紧皮肤，喷洒理毛喷雾后，先用针梳梳开腹部和腿部内侧，再用钢排梳逐一确认有无缠结。"
-                    },
-                    {
-                        "name": "晚上：用细齿梳梳理眼周毛发并保持泪痕干燥",
-                        "text": "为防止白色毛发被泪水污染或引起皮肤炎，应使用专用的脸部梳理梳清理眼睛周围，并用化妆棉擦干眼角水分。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "在“比熊时间（Bichon Blitz）”时应该如何使其冷静？",
-                        "answer": "比熊时间是极其自然的情感释放行为，如果强行抓住并大声呵斥，它们可能会误认为是玩耍而跑得更凶。为防止奔跑时滑倒导致髌骨脱位，应铺好客厅防滑垫并静静观察，让其自然安静下来。"
-                    },
-                    {
-                        "question": "为什么比熊犬的毛发缠结非常危险？",
-                        "answer": "比熊犬的毛发细软、卷曲且密实，如果疏忽梳理，毛发会互相缠绕结成类似厚无纺布一样的毛毡。这种状态时间一长会勒紧毛根，阻断血液循环，从而引发接触性皮肤炎和瘙痒症。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cuidado del Manto Rizado del Bichón Frisé: Rutina diaria de 3 pasos para desenredar y lidiar con el Bichon Blitz",
-                "description": "Famoso por su cabeza de pompón blanca, el Bichón Frisé es muy amigable. Conozca una rutina diaria para cuidar su pelo rizado y manejar las explosiones de energía (Bichon Blitz).",
-                "authority": "Directrices del Bichon Frise Club of America y Estándares de Salud Veterinaria de la AVMA",
-                "profile": {
-                    "breed": "Bichón Frisé (Bichon Frise)",
-                    "lifespan": "12 ~ 15 años",
-                    "sleep_pattern": "12 ~ 14 horas (durmiendo a los pies del dueño)",
-                    "temperament": "Alegre, Juguetón, Afectuoso, Sociable"
-                },
-                "intro": "El Bichón Frisé es famoso por su pelaje blanco como el algodón y su alegre temperamento incansable, brindando una felicidad infinita a muchas familias. Sin embargo, su manto doble fino y rizado se enreda fácilmente desde el subpelo si se descuida el cepillado, y los nudos alrededor de orejas y patas provocan dermatitis por contacto directas. Además, las carreras repentinas a gran velocidad dentro de casa (el conocido 'Bichon Blitz' o FRAPs) ejercen un gran impacto en sus rótulas y columna. En esta guía, descifra el lenguaje corporal del Bichón Frisé y presenta una rutina diaria de 3 pasos para evitar nudos en el pelo y prevenir lesiones durante el Bichon Blitz.",
-                "whyTitle": "Lenguaje corporal del Bichón Frisé: Bichon Blitz y señales de atención",
-                "whyDesc": "Cuando están emocionados, los Bichons realizan el **'Bichon Blitz'** (correr frenéticamente por casa) para gastar al instante la energía sobrante. Se trata de un comportamiento de descarga energética instintivo. Asimismo, tocar la rodilla o el brazo del dueño con la pata (**'toque de pata'**) es una señal amigable y pacífica para pedir atención y juego.",
-                "body_signals": [
-                    {
-                        "name": "Bichon Blitz",
-                        "meaning": "Comportamiento de juego instintivo para quemar rápidamente la energía acumulada mediante una actividad física intensa.",
-                        "response": "Coloque protectores en las esquinas de los muebles en su ruta, asegure alfombras antideslizantes y espere tranquilamente a que se detenga de forma natural."
-                    },
-                    {
-                        "name": "Toque de pata (Paw Tap)",
-                        "meaning": "Forma pacífica y afectuosa de comunicación propia del Bichón Frisé para llamar la atención y pedir contacto.",
-                        "response": "Establezca contacto visual suavemente y acarícielo, o haga una sesión rápida de órdenes (sentado/dar la pata) para estimular su mente."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Juego liviano de rastreo de juguetes y tira y afloja suave",
-                        "text": "Para evitar colisiones con muebles o marcos de puertas, realice un juego suave de tira y afloja por la mañana con un juguete de tela para gastar energía progresivamente e inducir la calma."
-                    },
-                    {
-                        "name": "Tarde: Rutina de 10 minutos de cepillado alternando carda y peine de acero",
-                        "text": "Para evitar que los apretados rizos opriman la piel, aplique espray acondicionado primero, cepille el abdomen y cara interna de las patas con la carda y compruebe mechón por mechón con el peine de acero."
-                    },
-                    {
-                        "name": "Noche: Cepillado del área ocular con peine fino y secado de manchas de lágrimas",
-                        "text": "Para evitar que el pelo blanco se manche con lágrimas o desarrolle dermatitis, peine la zona periocular con un peine facial fino y seque el exceso de humedad con un disco de algodón."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Cómo debo calmar a mi Bichón durante un Bichon Blitz?",
-                        "answer": "El Bichon Blitz es una liberación emocional completamente natural. Intentar atraparlo a la fuerza o gritar puede interpretarse como un juego, haciendo que corra más rápido. Coloque alfombras antideslizantes para evitar que la superficie resbaladiza provoque luxación de rótula y espere con calma hasta que se tranquilice solo."
-                    },
-                    {
-                        "question": "¿Por qué es peligroso el enredo de pelo para los Bichons?",
-                        "answer": "El pelo del Bichón es fino, denso y rizado. Omitir el cepillado hace que los pelos se enreden formando pliegues compactos como fieltro. Con el tiempo, estos enredos oprimen las raíces del pelo y la piel, bloqueando la circulación sanguínea y provocando dermatitis de contacto y picor severo."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Soins du poil frisé du Bichon Frisé : Routine quotidienne en 3 étapes pour le démêlage et le quart d'heure de folie",
-                "description": "Célèbre pour son aspect de houppette blanche, le Bichon Frisé est très amical. Découvrez une routine quotidienne pour gérer son poil frisé et encadrer en sécurité son quart d'heure de folie (Bichon Blitz).",
-                "authority": "Directives du Bichon Frise Club of America et Normes de Santé Vétérinaire de l'AVMA",
-                "profile": {
-                    "breed": "Bichon Frisé (Bichon Frise)",
-                    "lifespan": "12 ~ 15 ans",
-                    "sleep_pattern": "12 ~ 14 heures (dort aux pieds de son maître)",
-                    "temperament": "Gai, Joueur, Affectueux, Sociable"
-                },
-                "intro": "Le Bichon Frisé est célèbre pour son pelage cotonneux et sa joie de vivre intarissable, apportant un bonheur infini à de nombreuses familles. Cependant, son pelage court, fin et très frisé s'emmêle facilement depuis le sous-poil si le brossage est négligé, et les nœuds autour des oreilles et des pattes déclenchent directement des dermatites de contact. De plus, les sprints frénétiques à grande vitesse en intérieur (le fameux 'Bichon Blitz' ou FRAPs) sollicitent énormément ses rotules et sa colonne vertébrale. Dans ce guide, décrypte le langage corporel joyeux du Bichon Frisé et vous propose une routine quotidienne en 3 étapes pour éviter les nœuds et prévenir les blessures pendant le Bichon Blitz.",
-                "whyTitle": "Langage corporel du Bichon Frisé : Bichon Blitz et recherche d'attention",
-                "whyDesc": "Sous le coup de l'excitation, le Bichon effectue le **« Bichon Blitz »** (courses folles en intérieur) pour brûler instantanément son surplus d'énergie. Il s'agit d'une décharge énergétique instinctive. De plus, tapoter le genou ou le bras de son maître avec sa patte (**« tapotement de patte »**) est un signal pacifique et affectueux pour demander de l'attention et du jeu.",
-                "body_signals": [
-                    {
-                        "name": "Bichon Blitz",
-                        "meaning": "Comportement de jeu instinctif visant à dépenser rapidement l'énergie résiduelle par une activité physique intense.",
-                        "response": "Installez des protections sur les angles des meubles le long de son parcours, posez des tapis antidérapants et attendez calmement qu'il s'arrête de lui-même."
-                    },
-                    {
-                        "name": "Tapotement de patte (Paw Tap)",
-                        "meaning": "Moyen de communication pacifique et amical propre au Bichon Frisé pour solliciter de l'attention et de l'interaction.",
-                        "response": "Établissez un contact visuel doux avant de le caresser, ou proposez une séance rapide d'apprentissage (assis/donne la patte) pour stimuler son esprit."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Jeu doux de lancer de jouet et traction modérée",
-                        "text": "Pour éviter les collisions avec les meubles ou les encadrements de portes, faites un jeu de traction doux le matin avec un doudou en tissu pour dépenser l'énergie progressivement."
-                    },
-                    {
-                        "name": "Midi : Session de 10 minutes de brossage alternant carde et peigne métallique",
-                        "text": "Pour éviter que les frisotis serrés ne serrent la peau, vaporisez un spray démêlant, brossez le ventre et l'intérieur des pattes avec la carde, puis vérifiez méche par mèche au peigne métallique."
-                    },
-                    {
-                        "name": "Soir : Démêlage du contour des yeux au peigne fin et séchage des larmes",
-                        "text": "Afin d'éviter que le poil blanc ne soit taché par les larmes ou ne développe une dermatite, peignez le contour des yeux avec un peigne facial fin et séchez l'humidité au coton."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Comment calmer un Bichon pendant son Bichon Blitz ?",
-                        "answer": "Le Bichon Blitz est une libération émotionnelle tout à fait naturelle. Vouloir l'attraper de force ou crier peut être interprété comme un jeu et l'inciter à courir encore plus vite. Disposez des tapis antidérapants pour éviter que le sol glissant ne provoque une luxation de la rotule et observez-le calmement jusqu'à ce qu'il se pose."
-                    },
-                    {
-                        "question": "Pourquoi les nœuds de poils sont-ils dangereux pour les Bichons ?",
-                        "answer": "Le poil du Bichon est fin, dense et frisé. Sans brossage, les poils s'enchevêtrent pour former une plaque de feutre épaisse. À la longue, cette plaque tire sur les racines, comprime la peau, coupe la circulation sanguine et provoque une dermatite de contact avec démangeaisons intenses."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Bichon Frise Lockenfellpflege: Tägliche 3-Schritte-Routine zum Entwirren und Umgang mit dem Bichon Blitz",
-                "description": "Bekannt für seinen weißen Puderquasten-Look ist der Bichon Frise sehr freundlich. Erfahren Sie, wie Sie das lockige Fell pflegen und sicher mit Energieausbrüchen (Bichon Blitz) umgehen.",
-                "authority": "Richtlinien des Bichon Frise Club of America und AVMA-Veterinärgesundheitsstandards",
-                "profile": {
-                    "breed": "Bichon Frise (Bichon Frise)",
-                    "lifespan": "12 ~ 15 Jahre",
-                    "sleep_pattern": "12 ~ 14 Stunden (schläft zu Füßen des Besitzers)",
-                    "temperament": "Fröhlich, Verspielt, Anhänglich, Aufgeschlossen"
-                },
-                "intro": "Bichon Frises sind bekannt für ihr weißes, wattebauschartiges Fell und ihr unermüdliches fröhliches Wesen, mit dem sie ihren Haltern große Freude bereiten. Das feine, dichte gelockte Doppelhaar verfilzt jedoch schnell von der Unterwolle her, wenn das Bürsten vernachlässigt wird; Verfilzungen an Ohren und Beinen lösen direkt Kontaktdermatitis aus. Zudem belasten plötzliche Hochgeschwindigkeitssprints im Haus (der 'Bichon Blitz' oder FRAPs) die Kniescheiben und die Wirbelsäule erheblich. Heute entschlüsselt  die freudige Körpersprache des Bichon Frise und stellt eine tägliche 3-Schritte-Routine vor, um Verfilzungen zu vermeiden und Verletzungen beim Bichon Blitz vorzubeugen.",
-                "whyTitle": "Körpersprache des Bichon Frise: Bichon Blitz und Aufmerksamkeitszeichen",
-                "whyDesc": "Bei Aufregung zeigen Bichons den **'Bichon Blitz'** (hektisches Umherrennen im Haus), um überschüssige Energie sofort abzubauen. Dies ist ein natürlicher Trieb zum Energieabbau. Zudem ist das sanfte Tippen auf das Knie oder den Arm des Halters mit der Pfote (**'Pfotentipp'**) ein liebevolles, friedliches Zeichen, um Aufmerksamkeit und Spielzeit einzufordern.",
-                "body_signals": [
-                    {
-                        "name": "Bichon Blitz",
-                        "meaning": "Instinktives Spielverhalten, um aufgestaute Restenergie durch intensive körperliche Bewegung rasch abzubauen.",
-                        "response": "Bringen Sie an Möbelkanten entlang der Laufstrecke einen Schutz an, sichern Sie rutschfeste Matten und warten Sie ruhig ab, bis der Hund von selbst anhält."
-                    },
-                    {
-                        "name": "Pfotentipp (Paw Tap)",
-                        "meaning": "Eine friedliche und freundliche Form der Kommunikation, die typisch für den Bichon Frise ist, um Aufmerksamkeit zu erbitten.",
-                        "response": "Suchen Sie sanften Blickkontakt und streicheln Sie ihn, oder führen Sie ein kurzes Training (Sitz/Pfote) durch, um den Geist auszulasten."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Leichtes Spielzeug-Apportieren und sanftes Zerrspiel",
-                        "text": "Um Zusammenstöße mit Möbeln oder Türrahmen zu vermeiden, spielen Sie morgens ein sanftes Zerrspiel mit einem Stoffspielzeug, um Energie kontrolliert abzubauen."
-                    },
-                    {
-                        "name": "Mittag: 10-Minuten-Bürstentraining im Wechsel von Zupfbürste und Metallkamm",
-                        "text": "Damit die dichten Locken die Haut nicht einschnüren, sprühen Sie zuerst Pflegespray auf, bürsten Bauch und Beininnenseiten mit der Zupfbürste aus und prüfen mit dem Metallkamm Strähne für Strähne auf Knoten."
-                    },
-                    {
-                        "name": "Abend: Kämmen der Augenpartie mit feinem Kamm und Trocknen von Tränenspuren",
-                        "text": "Damit das weiße Fell nicht durch Tränen verfärbt wird oder Hautentzündungen entstehen, kämmen Sie die Augenpartie mit einem feinen Gesichtskamm und trocknen Sie Feuchtigkeit mit einem Wattepad ab."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Wie kann ich einen Bichon während des Bichon Blitz beruhigen?",
-                        "answer": "Der Bichon Blitz ist ein völlig natürlicher Gefühlsausdruck. Festhalten oder Anschreien kann als Spiel missverstanden werden und den Hund noch schneller rennen lassen. Legen Sie rutschfeste Matten aus, damit der Hund auf glattem Boden keine Patellaluxation erleidet, und warten Sie ruhig ab."
-                    },
-                    {
-                        "question": "Warum ist Fellverfilzung für Bichons gefährlich?",
-                        "answer": "Das Fell des Bichon ist fein, dicht und gelockt. Ohne regelmäßiges Bürsten verknoten die Haare zu dicken, filzartigen Matten. Diese ziehen an den Haarwurzeln, schnüren die Haut ein, hemmen die Durchblutung und führen zu schmerzhafter Kontaktdermatitis und starkem Juckreiz."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Cuidado do Pelo Encaracolado do Bichon Frisé: Rotina diária de 3 passos para desembaraçar e lidar com o Bichon Blitz",
-                "description": "Famoso por sua aparência de pompom de algodão, o Bichon Frisé é muito amigável. Descubra uma rotina diária para cuidar de sua pelagem encaracolada e lidar com o Bichon Blitz.",
-                "authority": "Diretrizes do Bichon Frise Club of America e Padrões de Saúde Veterinária da AVMA",
-                "profile": {
-                    "breed": "Bichon Frisé (Bichon Frise)",
-                    "lifespan": "12 ~ 15 anos",
-                    "sleep_pattern": "12 ~ 14 horas (dorme aos pés do tutor)",
-                    "temperament": "Alegre, Brincalhão, Afetuoso, Sociável"
-                },
-                "intro": "O Bichon Frisé é conhecido por sua pelagem branca como algodão e sua natureza alegre e incansável, trazendo felicidade a muitas famílias. No entanto, seu pelo duplo, fino e encaracolado embaraça facilmente desde o subpelo se a escovação for negligenciada, e os nós nas orelhas e patas causam dermatite de contato direta. Além disso, corridas repentinas em alta velocidade dentro de casa (o chamado 'Bichon Blitz' ou FRAPs) causam grande impacto nas patelas e na coluna. Neste guia, analisa a linguagem corporal do Bichon Frisé e ensina uma rotina diária de 3 passos para evitar nós e prevenir lesões durante o Bichon Blitz.",
-                "whyTitle": "Linguagem corporal do Bichon Frisé: Bichon Blitz e busca de atenção",
-                "whyDesc": "Quando animados, os Bichons realizam o **'Bichon Blitz'** (correr freneticamente pela casa) para gastar instantaneamente a energia acumulada. Trata-se de um comportamento instintivo de liberação energética. Além disso, tocar o joelho ou o braço do tutor com a pata (**'toque de pata'**) é um sinal pacífico e afetuoso para pedir atenção e brincadeiras.",
-                "body_signals": [
-                    {
-                        "name": "Bichon Blitz",
-                        "meaning": "Comportamento instintivo de brincadeira para queimar rapidamente a energia acumulada por meio de atividade física intensa.",
-                        "response": "Coloque protetores nas quinas dos móveis ao longo do trajeto, garanta tapetes antiderrapantes e espere calmamente até que ele pare sozinho."
-                    },
-                    {
-                        "name": "Toque de pata (Paw Tap)",
-                        "meaning": "Forma pacífica e amigável de comunicação característica do Bichon Frisé para pedir atenção e interação.",
-                        "response": "Faça contato visual suavemente e afague-o, ou faça uma sessão rápida de comandos (senta/dá a pata) para estimular a mente dele."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Brincadeira leve de buscar brinquedos e cabo de guerra suave",
-                        "text": "Para evitar colisões com móveis ou batentes de portas, faça um cabo de guerra suave pela manhã com um brinquedo de tecido para gastar a energia gradualmente."
-                    },
-                    {
-                        "name": "Tarde: Rotina de 10 minutos de escovação alternando rasqueadeira e pente de aço",
-                        "text": "Para evitar que os nós apertados comprimam a pele, borrife spray condicionante, escove o abdômen e a parte interna das patas com a rasqueadeira e confira mecha por mecha com o pente de aço."
-                    },
-                    {
-                        "name": "Noite: Escovação da área dos olhos com pente fino e secagem das lágrimas",
-                        "text": "Para evitar que o pelo branco fique manchado de lágrimas ou desenvolva dermatite, penteie a região dos olhos com um pente facial fino e seque a umidade com um disco de algodão."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Como devo acalmar um Bichon durante o Bichon Blitz?",
-                        "answer": "O Bichon Blitz é uma liberação emocional completamente natural. Tentar segurar à força ou gritar pode ser interpretado como brincadeira, fazendo-o correr ainda mais. Coloque tapetes antiderrapantes para evitar que o chão liso cause luxação de patela e aguarde com calma até que ele se acalme sozinho."
-                    },
-                    {
-                        "question": "Por que o pelo embaraçado é perigoso para os Bichons?",
-                        "answer": "O pelo do Bichon é fino, denso e encaracolado. Deixar de escovar faz com que os fios se entrelacem formando placas espessas como feltro. Com o tempo, essas placas puxam as raízes dos pelos, sufocam a pele, impedem a circulação sanguínea e causam dermatite de contato e coceira severa."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Perawatan Bulu Keriting Bichon Frise: Rutinitas Harian 3 Langkah untuk Bulu Kusut dan Bichon Blitz",
-                "description": "Terkenal dengan tampilan bulat putihnya, Bichon sangat ramah. Temukan rutinitas harian untuk mengelola bulu keriting mereka dan menangani ledakan energi (Bichon Blitz) secara aman.",
-                "authority": "Pedoman Bichon Frise Club of America & Standar Kesehatan Dokter Hewan AVMA",
-                "profile": {
-                    "breed": "Bichon Frise (Bichon Frise)",
-                    "lifespan": "12 ~ 15 tahun",
-                    "sleep_pattern": "12 ~ 14 jam (tidur di kaki pemilik)",
-                    "temperament": "Ceria, Lincah, Penuh Kasih Sayang, Ramah"
-                },
-                "intro": "Bichon Frise dikenal dengan bulunya yang putih bagaikan kapas serta sifatnya yang sangat ceria, memberikan kebahagiaan bagi banyak keluarga. Namun, bulu ganda keriting mereka yang tipis dan padat mudah kusut dari bulu halus lapisan dalam jika jarang disikat, dan gumpalan bulu di sekitar telinga serta kaki memicu dermatitis kontak secara langsung. Selain itu, aksi berlari kencang secara mendadak di dalam rumah (Bichon Blitz atau FRAPs) memberikan tekanan besar pada tempurung lutut (patela) dan tulang belakang mereka. Dalam panduan ini, mengulas bahasa tubuh bahagia Bichon Frise dan membagikan 3 langkah rutinitas harian untuk mencegah bulu menggumpal dan menghindari cedera saat Bichon Blitz.",
-                "whyTitle": "Bahasa Tubuh Bichon Frise: Bichon Blitz dan Sinyal Mencari Perhatian",
-                "whyDesc": "Saat bersemangat, Bichon menunjukkan **'Bichon Blitz'** (berlari kencang di dalam rumah) untuk membakar sisa energi secara instan. Ini adalah bentuk pelepasan energi yang alami. Selain itu, menepuk lutut atau lengan pemilik dengan kaki depan (**'paw tap'**) adalah sinyal ramah dan penuh kasih sayang untuk meminta perhatian dan ajakan bermain.",
-                "body_signals": [
-                    {
-                        "name": "Bichon Blitz",
-                        "meaning": "Perilaku bermain naluriah untuk membakar sisa energi dengan cepat melalui gerakan fisik yang intens.",
-                        "response": "Pasang pelindung di sudut furnitur sepanjang jalur larinya, sediakan keset antiselip, dan tunggu dengan tenang hingga mereka berhenti secara alami."
-                    },
-                    {
-                        "name": "Tepukan Kaki Depan (Paw Tap)",
-                        "meaning": "Bentuk komunikasi ramah dan damai yang khas dari Bichon Frise untuk meminta perhatian dan interaksi.",
-                        "response": "Lakukan kontak mata yang lembut lalu belai mereka, atau lakukan sesi kepatuhan singkat (duduk/salam) untuk memberikan stimulasi mental."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Permainan Ambil Mainan Ringan dan Tarik-Tambang Lembut",
-                        "text": "Untuk mencegah benturan keras dengan furnitur atau bingkai pintu, lakukan permainan tarik-tambang lembut di pagi hari menggunakan mainan kain untuk membakar energi secara bertahap."
-                    },
-                    {
-                        "name": "Siang: Menyikat 10 Menit Bergantian Menggunakan Sikat Slicker dan Sisir Besi",
-                        "text": "Agar gumpalan bulu keriting tidak menjepit kulit, semprotkan mist pelurus bulu terlebih dahulu, sikat bagian perut dan kaki dalam dengan sikat slicker, lalu periksa helai demi helai menggunakan sisir besi."
-                    },
-                    {
-                        "name": "Malam: Menyikat Area Mata dengan Sisir Halus dan Mengeringkan Noda Air Mata",
-                        "text": "Agar bulu putih tidak ternoda air mata atau memicu dermatitis, sisir area sekitar mata secara lembut dengan sisir wajah halus dan keringkan sisa air mata menggunakan kapas."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Bagaimana cara menenangkan Bichon saat terjadi Bichon Blitz?",
-                        "answer": "Bichon Blitz adalah pelampiasan emosi yang sangat alami. Menangkap mereka secara paksa atau berteriak dapat dianggap sebagai ajakan bermain, membuat mereka berlari lebih kencang. Pasang keset antiselip di ruang tamu agar lantai yang licin tidak menyebabkan dislokasi patela, lalu perhatikan dengan tenang hingga mereka mereda sendiri."
-                    },
-                    {
-                        "question": "Mengapa gumpalan bulu kusut berbahaya bagi Bichon Frise?",
-                        "answer": "Bulu Bichon tipis, padat, dan keriting. Melewatkan sesi menyikat bulu membuat helai bulu saling terbelit hingga membentuk gumpalan keras seperti kain felt. Seiring waktu, gumpalan ini menarik akar rambut, menjepit kulit, menyumbat sirkulasi darah, serta menyebabkan dermatitis kontak dan rasa gatal yang parah."
-                    }
-                ]
-            }
+  "bichon-care": {
+    "pubDate": "2026-05-10",
+    "updatedDate": "2026-05-10",
+    "locales": {
+      "ko": {
+        "title": "비숑 프리제 곱슬모 케어: 엉킴 방지와 비숑타임 대처 3단계 루틴",
+        "description": "하이바 헬멧 머리로 유명한 친근한 비숑 프리제. 얇고 조밀해 쉽게 엉키는 곱슬털 관리 팁과 갑작스러운 에너지 폭발(비숑타임)의 안전 대처 루틴을 알아봅니다.",
+        "authority": "Bichon Frise Club of America 가이드라인 및 AVMA 수의학 지침",
+        "profile": {
+          "breed": "비숑 프리제 (Bichon Frise)",
+          "lifespan": "12 ~ 15년",
+          "sleep_pattern": "12 ~ 14시간 (보호자 발밑 동침)",
+          "temperament": "명랑함, 쾌활함, 애교 많음, 사교적"
         },
-        "heroImage": "/images/blog/bichon_care.webp"
-    }
+        "intro": "솜사탕처럼 하얗고 보송보송한 비숑 프리제는 지치지 않는 쾌활함과 극강의 사랑스러움으로 많은 반려인들에게 행복을 주는 견종입니다. 하지만 곱슬거리는 얇은 장모는 빗질을 멈추면 속털부터 단단히 뭉치며, 귀와 다리 주변의 털 엉킴은 피부염을 직접 유발합니다. 또한 실내 생활에서 과도한 에너지가 폭발할 때 나타나는 급격한 전속력 질주 행동(일명 비숑타임, FRAPs)은 관절에 큰 무리를 줍니다. 이번 가이드에서는 비숑의 유쾌한 몸짓 신호를 해독하고, 엉킴 없는 코트 브러싱과 비숑타임 시 부상 방지를 돕는 3단계 케어 루틴을 소개합니다.",
+        "whyTitle": "비숑 프리제의 바디 랭귀지: 비숑 타임과 관심의 신호",
+        "whyDesc": "비숑 프리제는 흥분할 때 실내를 맹렬히 질주하는 **'비숑 타임(Bichon Blitz)'** 행동을 통해 에너지를 순간적으로 소비합니다. 이는 본능적인 에너지의 배출 현상입니다. 또한 보호자의 무릎이나 팔을 앞발로 가볍게 툭툭 치는 **'앞발 치기(Paw Tap)'** 행동은 관심을 끌고 놀이를 요청하는 애정적인 평화 시그널입니다.",
+        "body_signals": [
+          {
+            "name": "비숑 타임 (Bichon Blitz)",
+            "meaning": "체내에 쌓인 잔여 에너지를 격렬한 움직임을 통해 빠르게 발산시키는 본능적인 놀이 요청 행동입니다.",
+            "response": "달리는 통로의 가구나 미끄러운 바닥에 안전 매트를 보충하고 자연스럽게 멈추길 지켜보세요."
+          },
+          {
+            "name": "앞발로 툭툭 치기 (Paw Tap)",
+            "meaning": "자신에게 관심을 보이고 교감해 달라는 비숑 프리제 특유의 평화롭고 친근한 의사소통입니다.",
+            "response": "부드럽게 눈을 맞춘 후 쓰다듬어 주거나, 간단한 앉아/손 훈련으로 인지 자극을 보충하세요."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 가벼운 장난감 추적 터그 놀이",
+            "text": "실내 가구나 문틀 충돌을 방지하기 위해 아침에는 부드러운 직물의 터그 장난감을 흔들어 에너지를 서서히 소비시키고 이완 상태를 도모합니다."
+          },
+          {
+            "name": "낮: 철제 콤과 슬리커를 교차한 10분 빗질 교육",
+            "text": "조밀한 곱슬 털뭉치가 피부를 조이지 않도록 빗질 미스트를 뿌린 후 배와 다리 안쪽을 슬리커로 펴주고 콤 빗으로 한 올씩 엉킴을 확인합니다."
+          },
+          {
+            "name": "저녁: 미세모 빗으로 눈가 털 빗기 및 눈물자국 건조",
+            "text": "흰 모질이 눈물로 오염되거나 피부염을 일으키지 않도록 안구 주변을 전용 안면 빗으로 쓸어주고 눈가 수분을 화장솜으로 건조하게 닦아 줍니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "비숑 타임(Bichon Blitz) 시 어떻게 진정시켜야 하나요?",
+            "answer": "비숑 타임은 지극히 자연스러운 감정 표출 행동이므로 억지로 붙잡아 소리를 지르면 놀이로 오인해 더 크게 달릴 수 있습니다. 달릴 때 미끄러져 슬개골이 탈구되지 않도록 거실 매트를 정돈하고 가만히 지켜보며 안정을 취하게 하세요."
+          },
+          {
+            "question": "비숑 프리제의 털 뭉침은 왜 위험한가요?",
+            "answer": "비숑의 털은 얇고 곱슬거리며 촘촘해 빗질을 거르면 털끼리 엉켜 하나의 두꺼운 부직포처럼 뭉칩니다. 이 상태가 오래되면 모근을 조여 피부를 옥죄며 혈액 순환을 차단해 접촉성 피부염과 가려움증을 초래합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Bichon Frise Curly Coat Care: A 3-Step Routine for Detangling and Bichon Blitz",
+        "description": "Famous for their white powder-puff look, Bichons are highly friendly. Discover a 3-step routine to manage their dense curly coat and safely handle sudden bursts of energy (FRAPs).",
+        "authority": "Bichon Frise Club of America Guidelines & AVMA Veterinary Health Standards",
+        "profile": {
+          "breed": "Bichon Frise",
+          "lifespan": "12 ~ 15 years",
+          "sleep_pattern": "12 ~ 14 hours (sleeping at owner's feet)",
+          "temperament": "Cheerful, Playful, Affectionate, Outgoing"
+        },
+        "intro": "Bichon Frises are known for their white, cotton-ball appearance and tireless, cheerful nature, bringing endless joy to many families. However, their thin, double curly coat easily tangles from the dense undercoat if brushing is neglected, and matting around the ears and legs directly triggers contact dermatitis. In addition, sudden bursts of high-speed running indoors—commonly known as the Bichon Blitz or FRAPs (Frenetic Random Activity Periods)—put immense strain on their patellas and spine. In this guide, decodes the joyful body language signals of the Bichon Frise and shares a 3-step daily routine to prevent coat matting and avoid injuries during the Bichon Blitz.",
+        "whyTitle": "Bichon Frise Body Language: Bichon Blitz and Signals for Attention",
+        "whyDesc": "When excited, Bichons display **'Bichon Blitz'** (running frantically indoors) to instantly burn off residual energy. This is a natural instinctual release of energy. Additionally, tapping their owner's knee or arm with a paw (**'paw tap'**) is a peaceful, affectionate signal asking for attention and playtime.",
+        "body_signals": [
+          {
+            "name": "Bichon Blitz",
+            "meaning": "An instinctual play behavior to quickly burn off residual energy through intense physical movement.",
+            "response": "Add safety padding to furniture corners along their path, ensure floor mats are non-slip, and wait quietly for them to stop naturally."
+          },
+          {
+            "name": "Paw Tap",
+            "meaning": "A peaceful and friendly form of communication unique to Bichons to ask for attention and engagement.",
+            "response": "Make gentle eye contact and pet them, or conduct a quick sit/paw obedience session to provide mental stimulation."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Light Toy Fetching and Gentle Tug-of-War Play",
+            "text": "To prevent high-speed collisions with furniture or door frames, do a gentle tug-of-war in the morning using a soft fabric toy to gradually burn energy and promote a calm state."
+          },
+          {
+            "name": "Afternoon: 10-Minute Brushing Routine Alternating Slicker Brush and Steel Comb",
+            "text": "To prevent dense curly mats from constricting the skin, spritz grooming mist first, brush the belly and inner legs with a slicker brush, and then check strand by strand with a steel comb to ensure no tangles remain."
+          },
+          {
+            "name": "Evening: Eye Area Brushing with a Fine-Tooth Comb and Tear Stain Drying",
+            "text": "To keep their white coat from staining with tears or developing skin inflammation, gently comb the eye area with a specialized facial comb and dry excess moisture with a cotton pad."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "How should I calm a Bichon during a Bichon Blitz?",
+            "answer": "The Bichon Blitz is a completely natural emotional release. Grabbing them forcibly or yelling can be mistaken for play, making them run harder. Arrange non-slip mats in the living room to prevent slippery floors from causing patellar luxation, and observe quietly until they calm down naturally."
+          },
+          {
+            "question": "Why is fur matting dangerous for Bichons?",
+            "answer": "Bichon fur is thin, curly, and dense. Skipping brushing causes the fur to tangle together into a thick, felt-like mat. Over time, these mats constrict the hair roots and skin, blocking blood circulation and leading to contact dermatitis and severe itching."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ビション・フリーゼの巻き毛ケア：もつれ防止とビションタイム対処の3段階ルーティン",
+        "description": "アフロヘアーのような頭で人気のビション・フリーゼ。絡まりやすい巻き毛の管理と、突然のエネルギー爆発（ビションタイム）への安全な対処法を紹介します。",
+        "authority": "Bichon Frise Club of Americaガイドライン＆AVMA獣医学指針",
+        "profile": {
+          "breed": "ビション・フリーゼ (Bichon Frise)",
+          "lifespan": "12 ~ 15年",
+          "sleep_pattern": "12 ~ 14時間（飼い主の足元で就寝）",
+          "temperament": "陽気、活発、甘えん坊、社交的"
+        },
+        "intro": "綿あめのように白くふわふわしたビション・フリーゼは、地道で陽気な性格と愛嬌で多くの飼い主に幸せを与える犬種です。しかし、細く密生したダブルコートの巻き毛はブラッシングを怠るとアンダーコートから固まり、耳や足の周りのもつれは接触性皮膚炎を直接引き起こします。また、室内で過剰なエネルギーが爆発する猛スピードのダッシュ行動（ビションタイム、FRAPs）は膝蓋骨や脊椎に大きな負担を与えます。本記事では、ビションの楽しげなボディランゲージを解読し、毛玉を防ぐブラッシングとビションタイム時のケガ予防を助ける3段階ケア operational ルーティンをご紹介します。",
+        "whyTitle": "ビション・フリーゼのボディランゲージ：ビションタイムと関心のサイン",
+        "whyDesc": "ビション・フリーゼは興奮すると室内を激しく走り回る**「ビションタイム（Bichon Blitz）」**を行い、体内のエネルギーを瞬間的に消費します。これは本能的なエネルギー発散行動です。また、飼い主の膝や腕を前脚で軽くたたく**「前脚タッチ（Paw Tap）」**は、注意を引いて遊んでほしいと伝える愛らしく平和的なサインです。",
+        "body_signals": [
+          {
+            "name": "ビションタイム (Bichon Blitz)",
+            "meaning": "体内に溜まった余剰エネルギーを激しい動きによって素早く発散させる本能的な遊び要求行動です。",
+            "response": "走るルートにある家具の角に protective パッドを設置し、滑り止めマットを敷いて自然に止まるまで静かに見守りましょう。"
+          },
+          {
+            "name": "前脚タッチ (Paw Tap)",
+            "meaning": "自分に関心を取り、ふれあいを求めるビション・フリーゼ特有の平和で友好的なコミュニケーションです。",
+            "response": "優しく目を合わせてから撫でてあげるか、簡単な「おすわり/お手」のトレーニングで認知的な刺激を与えてあげましょう。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：軽いおもちゃ追いかけとターグ遊び",
+            "text": "家具やドア枠への衝突を防ぐため、朝は柔らかい布製のおもちゃを揺らして引っ張り合いをしてエネルギーを徐々に消費させ、リラックス状態へと導きます。"
+          },
+          {
+            "name": "昼：スリッカーとコームを交差させた10分間ブラッシング",
+            "text": "密生した巻き毛の束が皮膚を締め付けないよう、ブラッシングミストを吹きかけてからお腹や脚の内側をスリッカーでほぐし、スチールコームで毛筋ごとに一本ずつもつれがないか確認します。"
+          },
+          {
+            "name": "夜：極細コームによる目元ケアと涙やけの乾燥",
+            "text": "白い被毛が涙で汚れたり皮膚炎を起こしたりしないよう、目の周りを専用の顔用コームで整え、目元の水分をコットンで乾かすように拭き取ります。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ビションタイム（Bichon Blitz）の時はどうやって落ち着かせればいいですか？",
+            "answer": "ビションタイムは非常に自然な感情発散行動です。無理に捕まえたり大声を出すと遊びと勘違いしてますます激しく走ってしまいます。フローリングで滑って膝蓋骨脱臼を起こさないようマットを整え、静かに見守って自然に落ち着くのを待ちましょう。"
+          },
+          {
+            "question": "ビション・フリーゼの毛のもつれはなぜ危険ですか？",
+            "answer": "ビションの毛は細く密生した巻き毛のため、ブラッシングを怠ると毛同士が絡まり合って分厚いフェルト状の毛玉になります。この状態が長く続くと毛根を引っ張って皮膚を締め付け、血行を阻害して接触性皮膚炎やかゆみを引き起こします。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "比熊犬卷毛护理：防止缠结与应对比熊时间（Bichon Blitz）的日常3步护理流程",
+        "description": "以“头盔圆头”发型闻名、性格友善的比熊犬。介绍一套管理易缠结卷毛的窍门，以及安全应对突发性能量释放（比熊时间）的日常3步护理流程。",
+        "authority": "美国比熊犬俱乐部指南与 AVMA 兽医学健康标准",
+        "profile": {
+          "breed": "比熊犬 (Bichon Frise)",
+          "lifespan": "12 ~ 15年",
+          "sleep_pattern": "12 ~ 14小时（伴家长脚边就寝）",
+          "temperament": "开朗、活泼、爱撒娇、社交能力强"
+        },
+        "intro": "像棉花糖一样洁白蓬松的比熊犬，因其永不疲倦的开朗性格和极致的可爱，给许多养宠家庭带来了无限幸福。然而，它们纤细密实的双层卷毛一旦停止梳理，就会从底毛开始严重缠结，耳部和四肢周围的毛发缠结会直接诱发接触性皮肤炎。此外，室内生活因精力过剩而突发的高速奔跑行为（俗称比熊时间/FRAPs）会给膝盖骨和脊椎带来巨大压力。今天，本指南将教您如何读懂比熊犬愉快的身体信号，并介绍一套防止卷毛缠结以及在“比熊时间”防受伤的3步日常护理流程。",
+        "whyTitle": "比熊犬的身体语言：比熊时间与寻求关注的信号",
+        "whyDesc": "比熊犬在兴奋时会通过在室内疯狂奔跑的**“比熊时间（Bichon Blitz）”**行为瞬间消耗剩余精力。这是本能的精力排解现象。此外，它们用前爪轻轻触碰家长手臂或膝盖的**“前爪触碰（Paw Tap）”**行为，则是寻求关注和请求玩耍的友好信号。",
+        "body_signals": [
+          {
+            "name": "比熊时间 (Bichon Blitz)",
+            "meaning": "通过剧烈的运动快速释放体内积攒的剩余精力的本能玩耍请求行为。",
+            "response": "在奔跑通道的家具边角添加防撞包角，铺好防滑垫，静静等待其自然停止。"
+          },
+          {
+            "name": "前爪触碰 (Paw Tap)",
+            "meaning": "请求关注及寻求互动的比熊犬特有的友好、亲近的沟通方式。",
+            "response": "温柔地进行眼神交流并抚摸它们，或者通过简单的“坐下/握手”训练来补充其认知刺激。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早晨：轻松的玩具追踪与拉扯游戏",
+            "text": "为了防止与室内家具或门框碰撞，早晨可以通过抖动柔软织物的拉扯玩具来慢慢消耗精力，促进其放松。"
+          },
+          {
+            "name": "中午：钢排梳与针梳交替的10分钟梳理训练",
+            "text": "为防止细密的卷毛团勒紧皮肤，喷洒理毛喷雾后，先用针梳梳开腹部和腿部内侧，再用钢排梳逐一确认有无缠结。"
+          },
+          {
+            "name": "晚上：用细齿梳梳理眼周毛发并保持泪痕干燥",
+            "text": "为防止白色毛发被泪水污染或引起皮肤炎，应使用专用的脸部梳理梳清理眼睛周围，并用化妆棉擦干眼角水分。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "在“比熊时间（Bichon Blitz）”时应该如何使其冷静？",
+            "answer": "比熊时间是极其自然的情感释放行为，如果强行抓住并大声呵斥，它们可能会误认为是玩耍而跑得更凶。为防止奔跑时滑倒导致髌骨脱位，应铺好客厅防滑垫并静静观察，让其自然安静下来。"
+          },
+          {
+            "question": "为什么比熊犬的毛发缠结非常危险？",
+            "answer": "比熊犬的毛发细软、卷曲且密实，如果疏忽梳理，毛发会互相缠绕结成类似厚无纺布一样的毛毡。这种状态时间一长会勒紧毛根，阻断血液循环，从而引发接触性皮肤炎和瘙痒症。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cuidado del Manto Rizado del Bichón Frisé: Rutina diaria de 3 pasos para desenredar y lidiar con el Bichon Blitz",
+        "description": "Famoso por su cabeza de pompón blanca, el Bichón Frisé es muy amigable. Conozca una rutina diaria para cuidar su pelo rizado y manejar las explosiones de energía (Bichon Blitz).",
+        "authority": "Directrices del Bichon Frise Club of America y Estándares de Salud Veterinaria de la AVMA",
+        "profile": {
+          "breed": "Bichón Frisé (Bichon Frise)",
+          "lifespan": "12 ~ 15 años",
+          "sleep_pattern": "12 ~ 14 horas (durmiendo a los pies del dueño)",
+          "temperament": "Alegre, Juguetón, Afectuoso, Sociable"
+        },
+        "intro": "El Bichón Frisé es famoso por su pelaje blanco como el algodón y su alegre temperamento incansable, brindando una felicidad infinita a muchas familias. Sin embargo, su manto doble fino y rizado se enreda fácilmente desde el subpelo si se descuida el cepillado, y los nudos alrededor de orejas y patas provocan dermatitis por contacto directas. Además, las carreras repentinas a gran velocidad dentro de casa (el conocido 'Bichon Blitz' o FRAPs) ejercen un gran impacto en sus rótulas y columna. En esta guía, descifra el lenguaje corporal del Bichón Frisé y presenta una rutina diaria de 3 pasos para evitar nudos en el pelo y prevenir lesiones durante el Bichon Blitz.",
+        "whyTitle": "Lenguaje corporal del Bichón Frisé: Bichon Blitz y señales de atención",
+        "whyDesc": "Cuando están emocionados, los Bichons realizan el **'Bichon Blitz'** (correr frenéticamente por casa) para gastar al instante la energía sobrante. Se trata de un comportamiento de descarga energética instintivo. Asimismo, tocar la rodilla o el brazo del dueño con la pata (**'toque de pata'**) es una señal amigable y pacífica para pedir atención y juego.",
+        "body_signals": [
+          {
+            "name": "Bichon Blitz",
+            "meaning": "Comportamiento de juego instintivo para quemar rápidamente la energía acumulada mediante una actividad física intensa.",
+            "response": "Coloque protectores en las esquinas de los muebles en su ruta, asegure alfombras antideslizantes y espere tranquilamente a que se detenga de forma natural."
+          },
+          {
+            "name": "Toque de pata (Paw Tap)",
+            "meaning": "Forma pacífica y afectuosa de comunicación propia del Bichón Frisé para llamar la atención y pedir contacto.",
+            "response": "Establezca contacto visual suavemente y acarícielo, o haga una sesión rápida de órdenes (sentado/dar la pata) para estimular su mente."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Juego liviano de rastreo de juguetes y tira y afloja suave",
+            "text": "Para evitar colisiones con muebles o marcos de puertas, realice un juego suave de tira y afloja por la mañana con un juguete de tela para gastar energía progresivamente e inducir la calma."
+          },
+          {
+            "name": "Tarde: Rutina de 10 minutos de cepillado alternando carda y peine de acero",
+            "text": "Para evitar que los apretados rizos opriman la piel, aplique espray acondicionado primero, cepille el abdomen y cara interna de las patas con la carda y compruebe mechón por mechón con el peine de acero."
+          },
+          {
+            "name": "Noche: Cepillado del área ocular con peine fino y secado de manchas de lágrimas",
+            "text": "Para evitar que el pelo blanco se manche con lágrimas o desarrolle dermatitis, peine la zona periocular con un peine facial fino y seque el exceso de humedad con un disco de algodón."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Cómo debo calmar a mi Bichón durante un Bichon Blitz?",
+            "answer": "El Bichon Blitz es una liberación emocional completamente natural. Intentar atraparlo a la fuerza o gritar puede interpretarse como un juego, haciendo que corra más rápido. Coloque alfombras antideslizantes para evitar que la superficie resbaladiza provoque luxación de rótula y espere con calma hasta que se tranquilice solo."
+          },
+          {
+            "question": "¿Por qué es peligroso el enredo de pelo para los Bichons?",
+            "answer": "El pelo del Bichón es fino, denso y rizado. Omitir el cepillado hace que los pelos se enreden formando pliegues compactos como fieltro. Con el tiempo, estos enredos oprimen las raíces del pelo y la piel, bloqueando la circulación sanguínea y provocando dermatitis de contacto y picor severo."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Soins du poil frisé du Bichon Frisé : Routine quotidienne en 3 étapes pour le démêlage et le quart d'heure de folie",
+        "description": "Célèbre pour son aspect de houppette blanche, le Bichon Frisé est très amical. Découvrez une routine quotidienne pour gérer son poil frisé et encadrer en sécurité son quart d'heure de folie (Bichon Blitz).",
+        "authority": "Directives du Bichon Frise Club of America et Normes de Santé Vétérinaire de l'AVMA",
+        "profile": {
+          "breed": "Bichon Frisé (Bichon Frise)",
+          "lifespan": "12 ~ 15 ans",
+          "sleep_pattern": "12 ~ 14 heures (dort aux pieds de son maître)",
+          "temperament": "Gai, Joueur, Affectueux, Sociable"
+        },
+        "intro": "Le Bichon Frisé est célèbre pour son pelage cotonneux et sa joie de vivre intarissable, apportant un bonheur infini à de nombreuses familles. Cependant, son pelage court, fin et très frisé s'emmêle facilement depuis le sous-poil si le brossage est négligé, et les nœuds autour des oreilles et des pattes déclenchent directement des dermatites de contact. De plus, les sprints frénétiques à grande vitesse en intérieur (le fameux 'Bichon Blitz' ou FRAPs) sollicitent énormément ses rotules et sa colonne vertébrale. Dans ce guide, décrypte le langage corporel joyeux du Bichon Frisé et vous propose une routine quotidienne en 3 étapes pour éviter les nœuds et prévenir les blessures pendant le Bichon Blitz.",
+        "whyTitle": "Langage corporel du Bichon Frisé : Bichon Blitz et recherche d'attention",
+        "whyDesc": "Sous le coup de l'excitation, le Bichon effectue le **« Bichon Blitz »** (courses folles en intérieur) pour brûler instantanément son surplus d'énergie. Il s'agit d'une décharge énergétique instinctive. De plus, tapoter le genou ou le bras de son maître avec sa patte (**« tapotement de patte »**) est un signal pacifique et affectueux pour demander de l'attention et du jeu.",
+        "body_signals": [
+          {
+            "name": "Bichon Blitz",
+            "meaning": "Comportement de jeu instinctif visant à dépenser rapidement l'énergie résiduelle par une activité physique intense.",
+            "response": "Installez des protections sur les angles des meubles le long de son parcours, posez des tapis antidérapants et attendez calmement qu'il s'arrête de lui-même."
+          },
+          {
+            "name": "Tapotement de patte (Paw Tap)",
+            "meaning": "Moyen de communication pacifique et amical propre au Bichon Frisé pour solliciter de l'attention et de l'interaction.",
+            "response": "Établissez un contact visuel doux avant de le caresser, ou proposez une séance rapide d'apprentissage (assis/donne la patte) pour stimuler son esprit."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Jeu doux de lancer de jouet et traction modérée",
+            "text": "Pour éviter les collisions avec les meubles ou les encadrements de portes, faites un jeu de traction doux le matin avec un doudou en tissu pour dépenser l'énergie progressivement."
+          },
+          {
+            "name": "Midi : Session de 10 minutes de brossage alternant carde et peigne métallique",
+            "text": "Pour éviter que les frisotis serrés ne serrent la peau, vaporisez un spray démêlant, brossez le ventre et l'intérieur des pattes avec la carde, puis vérifiez méche par mèche au peigne métallique."
+          },
+          {
+            "name": "Soir : Démêlage du contour des yeux au peigne fin et séchage des larmes",
+            "text": "Afin d'éviter que le poil blanc ne soit taché par les larmes ou ne développe une dermatite, peignez le contour des yeux avec un peigne facial fin et séchez l'humidité au coton."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Comment calmer un Bichon pendant son Bichon Blitz ?",
+            "answer": "Le Bichon Blitz est une libération émotionnelle tout à fait naturelle. Vouloir l'attraper de force ou crier peut être interprété comme un jeu et l'inciter à courir encore plus vite. Disposez des tapis antidérapants pour éviter que le sol glissant ne provoque une luxation de la rotule et observez-le calmement jusqu'à ce qu'il se pose."
+          },
+          {
+            "question": "Pourquoi les nœuds de poils sont-ils dangereux pour les Bichons ?",
+            "answer": "Le poil du Bichon est fin, dense et frisé. Sans brossage, les poils s'enchevêtrent pour former une plaque de feutre épaisse. À la longue, cette plaque tire sur les racines, comprime la peau, coupe la circulation sanguine et provoque une dermatite de contact avec démangeaisons intenses."
+          }
+        ]
+      },
+      "de": {
+        "title": "Bichon Frise Lockenfellpflege: Tägliche 3-Schritte-Routine zum Entwirren und Umgang mit dem Bichon Blitz",
+        "description": "Bekannt für seinen weißen Puderquasten-Look ist der Bichon Frise sehr freundlich. Erfahren Sie, wie Sie das lockige Fell pflegen und sicher mit Energieausbrüchen (Bichon Blitz) umgehen.",
+        "authority": "Richtlinien des Bichon Frise Club of America und AVMA-Veterinärgesundheitsstandards",
+        "profile": {
+          "breed": "Bichon Frise (Bichon Frise)",
+          "lifespan": "12 ~ 15 Jahre",
+          "sleep_pattern": "12 ~ 14 Stunden (schläft zu Füßen des Besitzers)",
+          "temperament": "Fröhlich, Verspielt, Anhänglich, Aufgeschlossen"
+        },
+        "intro": "Bichon Frises sind bekannt für ihr weißes, wattebauschartiges Fell und ihr unermüdliches fröhliches Wesen, mit dem sie ihren Haltern große Freude bereiten. Das feine, dichte gelockte Doppelhaar verfilzt jedoch schnell von der Unterwolle her, wenn das Bürsten vernachlässigt wird; Verfilzungen an Ohren und Beinen lösen direkt Kontaktdermatitis aus. Zudem belasten plötzliche Hochgeschwindigkeitssprints im Haus (der 'Bichon Blitz' oder FRAPs) die Kniescheiben und die Wirbelsäule erheblich. Heute entschlüsselt  die freudige Körpersprache des Bichon Frise und stellt eine tägliche 3-Schritte-Routine vor, um Verfilzungen zu vermeiden und Verletzungen beim Bichon Blitz vorzubeugen.",
+        "whyTitle": "Körpersprache des Bichon Frise: Bichon Blitz und Aufmerksamkeitszeichen",
+        "whyDesc": "Bei Aufregung zeigen Bichons den **'Bichon Blitz'** (hektisches Umherrennen im Haus), um überschüssige Energie sofort abzubauen. Dies ist ein natürlicher Trieb zum Energieabbau. Zudem ist das sanfte Tippen auf das Knie oder den Arm des Halters mit der Pfote (**'Pfotentipp'**) ein liebevolles, friedliches Zeichen, um Aufmerksamkeit und Spielzeit einzufordern.",
+        "body_signals": [
+          {
+            "name": "Bichon Blitz",
+            "meaning": "Instinktives Spielverhalten, um aufgestaute Restenergie durch intensive körperliche Bewegung rasch abzubauen.",
+            "response": "Bringen Sie an Möbelkanten entlang der Laufstrecke einen Schutz an, sichern Sie rutschfeste Matten und warten Sie ruhig ab, bis der Hund von selbst anhält."
+          },
+          {
+            "name": "Pfotentipp (Paw Tap)",
+            "meaning": "Eine friedliche und freundliche Form der Kommunikation, die typisch für den Bichon Frise ist, um Aufmerksamkeit zu erbitten.",
+            "response": "Suchen Sie sanften Blickkontakt und streicheln Sie ihn, oder führen Sie ein kurzes Training (Sitz/Pfote) durch, um den Geist auszulasten."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Leichtes Spielzeug-Apportieren und sanftes Zerrspiel",
+            "text": "Um Zusammenstöße mit Möbeln oder Türrahmen zu vermeiden, spielen Sie morgens ein sanftes Zerrspiel mit einem Stoffspielzeug, um Energie kontrolliert abzubauen."
+          },
+          {
+            "name": "Mittag: 10-Minuten-Bürstentraining im Wechsel von Zupfbürste und Metallkamm",
+            "text": "Damit die dichten Locken die Haut nicht einschnüren, sprühen Sie zuerst Pflegespray auf, bürsten Bauch und Beininnenseiten mit der Zupfbürste aus und prüfen mit dem Metallkamm Strähne für Strähne auf Knoten."
+          },
+          {
+            "name": "Abend: Kämmen der Augenpartie mit feinem Kamm und Trocknen von Tränenspuren",
+            "text": "Damit das weiße Fell nicht durch Tränen verfärbt wird oder Hautentzündungen entstehen, kämmen Sie die Augenpartie mit einem feinen Gesichtskamm und trocknen Sie Feuchtigkeit mit einem Wattepad ab."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Wie kann ich einen Bichon während des Bichon Blitz beruhigen?",
+            "answer": "Der Bichon Blitz ist ein völlig natürlicher Gefühlsausdruck. Festhalten oder Anschreien kann als Spiel missverstanden werden und den Hund noch schneller rennen lassen. Legen Sie rutschfeste Matten aus, damit der Hund auf glattem Boden keine Patellaluxation erleidet, und warten Sie ruhig ab."
+          },
+          {
+            "question": "Warum ist Fellverfilzung für Bichons gefährlich?",
+            "answer": "Das Fell des Bichon ist fein, dicht und gelockt. Ohne regelmäßiges Bürsten verknoten die Haare zu dicken, filzartigen Matten. Diese ziehen an den Haarwurzeln, schnüren die Haut ein, hemmen die Durchblutung und führen zu schmerzhafter Kontaktdermatitis und starkem Juckreiz."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Cuidado do Pelo Encaracolado do Bichon Frisé: Rotina diária de 3 passos para desembaraçar e lidar com o Bichon Blitz",
+        "description": "Famoso por sua aparência de pompom de algodão, o Bichon Frisé é muito amigável. Descubra uma rotina diária para cuidar de sua pelagem encaracolada e lidar com o Bichon Blitz.",
+        "authority": "Diretrizes do Bichon Frise Club of America e Padrões de Saúde Veterinária da AVMA",
+        "profile": {
+          "breed": "Bichon Frisé (Bichon Frise)",
+          "lifespan": "12 ~ 15 anos",
+          "sleep_pattern": "12 ~ 14 horas (dorme aos pés do tutor)",
+          "temperament": "Alegre, Brincalhão, Afetuoso, Sociável"
+        },
+        "intro": "O Bichon Frisé é conhecido por sua pelagem branca como algodão e sua natureza alegre e incansável, trazendo felicidade a muitas famílias. No entanto, seu pelo duplo, fino e encaracolado embaraça facilmente desde o subpelo se a escovação for negligenciada, e os nós nas orelhas e patas causam dermatite de contato direta. Além disso, corridas repentinas em alta velocidade dentro de casa (o chamado 'Bichon Blitz' ou FRAPs) causam grande impacto nas patelas e na coluna. Neste guia, analisa a linguagem corporal do Bichon Frisé e ensina uma rotina diária de 3 passos para evitar nós e prevenir lesões durante o Bichon Blitz.",
+        "whyTitle": "Linguagem corporal do Bichon Frisé: Bichon Blitz e busca de atenção",
+        "whyDesc": "Quando animados, os Bichons realizam o **'Bichon Blitz'** (correr freneticamente pela casa) para gastar instantaneamente a energia acumulada. Trata-se de um comportamento instintivo de liberação energética. Além disso, tocar o joelho ou o braço do tutor com a pata (**'toque de pata'**) é um sinal pacífico e afetuoso para pedir atenção e brincadeiras.",
+        "body_signals": [
+          {
+            "name": "Bichon Blitz",
+            "meaning": "Comportamento instintivo de brincadeira para queimar rapidamente a energia acumulada por meio de atividade física intensa.",
+            "response": "Coloque protetores nas quinas dos móveis ao longo do trajeto, garanta tapetes antiderrapantes e espere calmamente até que ele pare sozinho."
+          },
+          {
+            "name": "Toque de pata (Paw Tap)",
+            "meaning": "Forma pacífica e amigável de comunicação característica do Bichon Frisé para pedir atenção e interação.",
+            "response": "Faça contato visual suavemente e afague-o, ou faça uma sessão rápida de comandos (senta/dá a pata) para estimular a mente dele."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Brincadeira leve de buscar brinquedos e cabo de guerra suave",
+            "text": "Para evitar colisões com móveis ou batentes de portas, faça um cabo de guerra suave pela manhã com um brinquedo de tecido para gastar a energia gradualmente."
+          },
+          {
+            "name": "Tarde: Rotina de 10 minutos de escovação alternando rasqueadeira e pente de aço",
+            "text": "Para evitar que os nós apertados comprimam a pele, borrife spray condicionante, escove o abdômen e a parte interna das patas com a rasqueadeira e confira mecha por mecha com o pente de aço."
+          },
+          {
+            "name": "Noite: Escovação da área dos olhos com pente fino e secagem das lágrimas",
+            "text": "Para evitar que o pelo branco fique manchado de lágrimas ou desenvolva dermatite, penteie a região dos olhos com um pente facial fino e seque a umidade com um disco de algodão."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Como devo acalmar um Bichon durante o Bichon Blitz?",
+            "answer": "O Bichon Blitz é uma liberação emocional completamente natural. Tentar segurar à força ou gritar pode ser interpretado como brincadeira, fazendo-o correr ainda mais. Coloque tapetes antiderrapantes para evitar que o chão liso cause luxação de patela e aguarde com calma até que ele se acalme sozinho."
+          },
+          {
+            "question": "Por que o pelo embaraçado é perigoso para os Bichons?",
+            "answer": "O pelo do Bichon é fino, denso e encaracolado. Deixar de escovar faz com que os fios se entrelacem formando placas espessas como feltro. Com o tempo, essas placas puxam as raízes dos pelos, sufocam a pele, impedem a circulação sanguínea e causam dermatite de contato e coceira severa."
+          }
+        ]
+      },
+      "id": {
+        "title": "Perawatan Bulu Keriting Bichon Frise: Rutinitas Harian 3 Langkah untuk Bulu Kusut dan Bichon Blitz",
+        "description": "Terkenal dengan tampilan bulat putihnya, Bichon sangat ramah. Temukan rutinitas harian untuk mengelola bulu keriting mereka dan menangani ledakan energi (Bichon Blitz) secara aman.",
+        "authority": "Pedoman Bichon Frise Club of America & Standar Kesehatan Dokter Hewan AVMA",
+        "profile": {
+          "breed": "Bichon Frise (Bichon Frise)",
+          "lifespan": "12 ~ 15 tahun",
+          "sleep_pattern": "12 ~ 14 jam (tidur di kaki pemilik)",
+          "temperament": "Ceria, Lincah, Penuh Kasih Sayang, Ramah"
+        },
+        "intro": "Bichon Frise dikenal dengan bulunya yang putih bagaikan kapas serta sifatnya yang sangat ceria, memberikan kebahagiaan bagi banyak keluarga. Namun, bulu ganda keriting mereka yang tipis dan padat mudah kusut dari bulu halus lapisan dalam jika jarang disikat, dan gumpalan bulu di sekitar telinga serta kaki memicu dermatitis kontak secara langsung. Selain itu, aksi berlari kencang secara mendadak di dalam rumah (Bichon Blitz atau FRAPs) memberikan tekanan besar pada tempurung lutut (patela) dan tulang belakang mereka. Dalam panduan ini, mengulas bahasa tubuh bahagia Bichon Frise dan membagikan 3 langkah rutinitas harian untuk mencegah bulu menggumpal dan menghindari cedera saat Bichon Blitz.",
+        "whyTitle": "Bahasa Tubuh Bichon Frise: Bichon Blitz dan Sinyal Mencari Perhatian",
+        "whyDesc": "Saat bersemangat, Bichon menunjukkan **'Bichon Blitz'** (berlari kencang di dalam rumah) untuk membakar sisa energi secara instan. Ini adalah bentuk pelepasan energi yang alami. Selain itu, menepuk lutut atau lengan pemilik dengan kaki depan (**'paw tap'**) adalah sinyal ramah dan penuh kasih sayang untuk meminta perhatian dan ajakan bermain.",
+        "body_signals": [
+          {
+            "name": "Bichon Blitz",
+            "meaning": "Perilaku bermain naluriah untuk membakar sisa energi dengan cepat melalui gerakan fisik yang intens.",
+            "response": "Pasang pelindung di sudut furnitur sepanjang jalur larinya, sediakan keset antiselip, dan tunggu dengan tenang hingga mereka berhenti secara alami."
+          },
+          {
+            "name": "Tepukan Kaki Depan (Paw Tap)",
+            "meaning": "Bentuk komunikasi ramah dan damai yang khas dari Bichon Frise untuk meminta perhatian dan interaksi.",
+            "response": "Lakukan kontak mata yang lembut lalu belai mereka, atau lakukan sesi kepatuhan singkat (duduk/salam) untuk memberikan stimulasi mental."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Permainan Ambil Mainan Ringan dan Tarik-Tambang Lembut",
+            "text": "Untuk mencegah benturan keras dengan furnitur atau bingkai pintu, lakukan permainan tarik-tambang lembut di pagi hari menggunakan mainan kain untuk membakar energi secara bertahap."
+          },
+          {
+            "name": "Siang: Menyikat 10 Menit Bergantian Menggunakan Sikat Slicker dan Sisir Besi",
+            "text": "Agar gumpalan bulu keriting tidak menjepit kulit, semprotkan mist pelurus bulu terlebih dahulu, sikat bagian perut dan kaki dalam dengan sikat slicker, lalu periksa helai demi helai menggunakan sisir besi."
+          },
+          {
+            "name": "Malam: Menyikat Area Mata dengan Sisir Halus dan Mengeringkan Noda Air Mata",
+            "text": "Agar bulu putih tidak ternoda air mata atau memicu dermatitis, sisir area sekitar mata secara lembut dengan sisir wajah halus dan keringkan sisa air mata menggunakan kapas."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Bagaimana cara menenangkan Bichon saat terjadi Bichon Blitz?",
+            "answer": "Bichon Blitz adalah pelampiasan emosi yang sangat alami. Menangkap mereka secara paksa atau berteriak dapat dianggap sebagai ajakan bermain, membuat mereka berlari lebih kencang. Pasang keset antiselip di ruang tamu agar lantai yang licin tidak menyebabkan dislokasi patela, lalu perhatikan dengan tenang hingga mereka mereda sendiri."
+          },
+          {
+            "question": "Mengapa gumpalan bulu kusut berbahaya bagi Bichon Frise?",
+            "answer": "Bulu Bichon tipis, padat, dan keriting. Melewatkan sesi menyikat bulu membuat helai bulu saling terbelit hingga membentuk gumpalan keras seperti kain felt. Seiring waktu, gumpalan ini menarik akar rambut, menjepit kulit, menyumbat sirkulasi darah, serta menyebabkan dermatitis kontak dan rasa gatal yang parah."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/bichon_care.webp"
+  }
 }

@@ -1,459 +1,459 @@
 {
-    "japanese-spitz-care": {
-        "pubDate": "2026-04-08",
-        "updatedDate": "2026-04-08",
-        "locales": {
-            "ko": {
-                "title": "재패니즈 스피츠 슬개골 탈구와 이중모 케어: 관절 보호와 털 관리 3단계 데일리 루틴",
-                "description": "순백의 이중모와 맑은 눈망울을 가진 재패니즈 스피츠 케어법. 슬개골 탈구 예방, 눈물자국 관리, 빗질 3단계 루틴을 다룹니다.",
-                "authority": "세계애견연맹(FCI) 견종 표준 No.262 및 일본케넬클럽(JKC) 정형외과 임상 가이드라인",
-                "profile": {
-                    "breed": "재패니즈 스피츠 (Japanese Spitz)",
-                    "lifespan": "12 ~ 15년",
-                    "sleep_pattern": "12 ~ 14시간 (성견의 수면 및 휴식 수면)",
-                    "temperament": "영리함, 경계심 있음, 활발함, 충성스러움, 다정함"
-                },
-                "intro": "풍성한 순백의 이중모와 밝고 영리한 성격을 지닌 재패니즈 스피츠는 사랑스러운 반려견입니다. 하지만 소형~중형견 특유의 슬개골 탈구(Patellar Luxation) 위험이 높고, 하얀 털 때문에 눈가 눈물자국과 환절기 털 빠짐 관리가 필수적입니다. 이번 가이드에서는 재패니즈 스피츠의 관절 신호와 행동 시그널을 분석하고, 슬개골 보호 및 모질 유지를 위한 3단계 홈케어 루틴을 소개합니다.",
-                "whyTitle": "재패니즈 스피츠의 신체 시그널: 톡톡 튀는 듯한 절뚝거림(스키핑)과 헛짖음",
-                "whyDesc": "재패니즈 스피츠가 산책이나 놀이 중 **'한쪽 뒷다리를 들고 깡충깡충 걷는 모습(Skipping Step)'**을 보인다면 슬개골 탈구의 대표적인 신호입니다. 반면 외부 소리에 반응해 **'날카롭게 연속으로 짖는 행동'**은 스피츠 계열 특유의 뛰어난 경계심과 영역 보호 본능에서 비롯됩니다.",
-                "body_signals": [
-                    {
-                        "name": "한쪽 다리를 튀듯 드는 걸음 (Skipping Step)",
-                        "meaning": "무릎 슬개골이 유구 홈에서 벗어나 순간적인 통증이나 이물감을 느껴 다리를 들고 걷는 상태입니다.",
-                        "response": "억지로 다리를 꺾지 말고 동물병원에서 슬개골 탈구 기수(1~4기) 진단을 받은 뒤, 실내 매트 설치와 관절 영양제 급여를 시작합니다."
-                    },
-                    {
-                        "name": "날카로운 경계 짖음 (Sharp Alert Barking)",
-                        "meaning": "뛰어난 청각과 경계심으로 인해 낯선 소리나 외부인의 접근에 반응하여 영역을 지키려는 행동입니다.",
-                        "response": "소리 둔감화 훈련과 노즈워크 활동을 통해 불안감을 낮추고 헛짖음을 완화해 줍니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 뒷다리 관절 체크 & 슬리커 브러싱",
-                        "text": "기상 후 뒷다리 관절의 뻣뻣함이나 통증 반응이 없는지 확인하고, 슬리커 브러시와 핀 브러시로 죽은 속털을 빗어내어 털 엉킴을 예방합니다."
-                    },
-                    {
-                        "name": "낮: 미끄럼 방지 매트 점검 & 평지 산책",
-                        "text": "실내 바닥에 미끄럼 방지 매트가 잘 깔려 있는지 점검하고, 관절에 무리가 가지 않는 평지 위주의 산책(하루 30~40분)으로 에너지를 발산시킵니다."
-                    },
-                    {
-                        "name": "저녁: 눈물자국 세정 & 층별 속털 빗질",
-                        "text": "눈가 착색을 막기 위해 전용 세정 패드로 눈물 자국을 부드럽게 닦아주고, 저녁 빗질로 먼지와 이물질을 제거합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "재패니즈 스피츠의 하얀 털을 유지하기 위해 목욕을 자주 시켜야 하나요?",
-                        "answer": "아닙니다. 재패니즈 스피츠의 겉털은 먼지나 흙이 말라 떨어지는 성질이 있어 자주 목욕시키면 피부가 건조해집니다. 3~4주에 1회 목욕이 적당하며 매일 빗질해 주는 것이 훨씬 효과적입니다."
-                    },
-                    {
-                        "question": "슬개골 탈구를 예방하려면 어떻게 해야 하나요?",
-                        "answer": "체중 관리가 가장 중요합니다. 관절에 무리를 주는 미끄러운 바닥에 매트를 깔고, 두 다리로 서기나 높은 곳에서 점프하는 행동을 금지하며 글루코사민 계열 관절 영양제를 급여하세요."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Japanese Spitz Patellar Luxation and Double Coat Care: A 3-Step Daily Routine for Joint Health and Coat Maintenance",
-                "description": "Essential care for the snow-white double-coated Japanese Spitz. Learn how to prevent patellar luxation, manage tear stains, and maintain their coat through a 3-step daily routine.",
-                "authority": "Fédération Cynologique Internationale (FCI) Breed Standard No. 262 and Japan Kennel Club (JKC) Veterinary Orthopedic Guidelines",
-                "profile": {
-                    "breed": "Japanese Spitz",
-                    "lifespan": "12 ~ 15 Years",
-                    "sleep_pattern": "12 ~ 14 Hours (Adult Sleep and Rest Pattern)",
-                    "temperament": "Intelligent, Alert, Playful, Loyal, Affectionate"
-                },
-                "intro": "Boasting a lush snow-white double coat and a keen, watchful nature, the Japanese Spitz is a highly intelligent and devoted companion dog. However, as a small-to-medium breed, they are genetically predisposed to Patellar Luxation (dislocation of the kneecap). Additionally, their pure white fur makes tear staining around the eyes noticeable, and their dense undercoat requires structured grooming, especially during seasonal shedding. In this guide, decodes the joint pain and behavioral signals of the Japanese Spitz and outlines a 3-step daily care routine for joint protection and coat maintenance.",
-                "whyTitle": "Japanese Spitz Physical Signals: Skipping Step (Limping) and Sharp Alert Barking",
-                "whyDesc": "If a Japanese Spitz suddenly displays a **'skipping step or running on three legs'** while walking or playing, this is a classic indicator of patellar luxation. Conversely, **'sharp continuous barking'** in response to environmental stimuli stems from their strong watchdog heritage and keen territorial alertness.",
-                "body_signals": [
-                    {
-                        "name": "Skipping Step (Intermittent Limping)",
-                        "meaning": "The kneecap has slipped out of its groove in the knee joint, causing temporary pain or discomfort, leading the dog to hold the leg up briefly.",
-                        "response": "Avoid forcefully bending the leg. Have an exotic or orthopedic vet evaluate the knee grade (Grades 1–4), install non-slip mats at home, and start joint supplements."
-                    },
-                    {
-                        "name": "Sharp Alert Barking",
-                        "meaning": "A reaction triggered by acute hearing and protective instincts when hearing unfamiliar sounds or seeing strangers near their territory.",
-                        "response": "Conduct sound desensitization training and provide mental enrichment like nosework toys to calm anxiety and reduce unnecessary barking."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Joint Health Inspection & Undercoat Slicker Brushing",
-                        "text": "Check hind leg joints for stiffness or discomfort upon waking. Gently brush the dense double coat using a slicker brush and pin brush along the grain of the fur to prevent matting."
-                    },
-                    {
-                        "name": "Afternoon: Indoor Anti-Slip Floor Check & Low-Impact Exercise",
-                        "text": "Ensure indoor living areas are covered with non-slip rugs or mats. Provide 30 to 40 minutes of flat-surface walking to burn energy without stressing the knee joints."
-                    },
-                    {
-                        "name": "Evening: Tear Stain Cleaning & Coat Line-Brushing",
-                        "text": "Wipe away tear discharge around the eyes using specialized eye-cleaning pads to prevent red yeast discoloration, and do a thorough evening line-brushing to remove debris."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Does the Japanese Spitz need frequent baths to keep its white coat clean?",
-                        "answer": "No. The outer coat of a Japanese Spitz has a unique texture that allows dried mud and dirt to fall off easily. Bathing too often strips natural oils and causes dry skin. Bathing once every 3 to 4 weeks paired with regular brushing is sufficient."
-                    },
-                    {
-                        "question": "How can I prevent patellar luxation in my Japanese Spitz?",
-                        "answer": "Weight management is critical, as obesity increases stress on knee joints. In addition, place non-slip mats on slippery floors, discourage jumping off furniture or standing on hind legs, and administer glucosamine/MSM joint supplements."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "日本スピッツの膝蓋骨脱臼＆ダブルコートケア：関節保護と抜け毛対策の3ステップ日常ルーティン",
-                "description": "純白のダブルコートと賢い性格を持つ日本スピッツ。膝蓋骨脱臼（パテラ）の予防と涙やけ、被毛のお手入れを行う3ステップのデイリーケアを解説します。",
-                "authority": "国際畜犬連盟(FCI) 犬種標準No.262およびジャパンケネルクラブ(JKC) 整形外科臨床ガイドライン",
-                "profile": {
-                    "breed": "日本スピッツ (Japanese Spitz)",
-                    "lifespan": "12 〜 15年",
-                    "sleep_pattern": "12 〜 14時間 (成犬の睡眠および休息)",
-                    "temperament": "賢い、好奇心旺盛、警戒心がある、忠実、活発"
-                },
-                "intro": "純白の豊かなダブルコート（二重毛）と明るく利発な性格を持つ日本スピッツは、深い愛情と忠誠心を備えたペットです。しかし小型〜中型犬特有の「膝蓋骨脱臼（パテラ）」にかかりやすく、真っ白な被毛ゆえに目元の涙やけや換毛期の毛玉ケアが欠かせません。今回は日本スピッツの関節異常や感情シグナルを読み解き、膝の保護と美毛維持のための3ステップ日常ルーティンをご紹介します。",
-                "whyTitle": "日本スピッツのボディランゲージ：スキップのような歩き方（スキッピング）と警戒吠え",
-                "whyDesc": "日本スピッツが散歩中や遊んでいる最中に**「片足を上げてひょこひょこと歩く（スキッピング）」**動作を見せた場合、膝蓋骨脱臼の典型的なシグナルです。一方、外部の音に反応して**「高く鋭い声で吠え続ける」**のは、スピッツ系特有のすぐれた警戒心と領域防衛本能によるものです。",
-                "body_signals": [
-                    {
-                        "name": "片足を浮かせるスキップ歩き (Skipping Step)",
-                        "meaning": "膝の皿（膝蓋骨）が正常な溝から外れ、瞬間的な痛みや違和感が生じたため足を上げて歩いている状態です。",
-                        "response": "無理に足を引っ張らず、動物病院でパテラの進行度（グレード1〜4）の診断を受け、滑り止めマットの敷設や関節サプリメントの給与を開始してください。"
-                    },
-                    {
-                        "name": "鋭い警戒吠え (Sharp Alert Barking)",
-                        "meaning": "優れた聴覚と警戒心により、見知らぬ音や訪問者に対して自分の縄張りを守ろうと警告を発している行動です。",
-                        "response": "音に対する脱感作トレーニングを行い、ノーズワークやおもちゃで精神的満足感を与えて興奮を落ち着かせます。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：膝関節のチェックとスリッカーブラッシング",
-                        "text": "起床時に関節の強張りや痛みの反応がないか確認し、スリッカーブラシとピンブラシを使ってアンダーコート（密生した毛）の絡まりを毛並みに沿って解きます。"
-                    },
-                    {
-                        "name": "昼：フローリングの滑り止め確認と関節に優しい散歩",
-                        "text": "室内床に滑り止めマットが配置されているか確認し、膝に負担をかけない平地メインの散歩（1日30〜40分）でエネルギーを発散させます。"
-                    },
-                    {
-                        "name": "夜：目元の涙やけ拭き取りと被毛のラインブラッシング",
-                        "text": "目の周りの分泌物を専用クレンジングシートで優しく拭き取って変色を防ぎ、夜のブラッシングで1日のホコリを除去して毛並みを整えます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "日本スピッツの白い毛を保つために頻繁にシャンプーすべきですか？",
-                        "answer": "いいえ。日本スピッツのオーバーコートは泥や汚れが乾くと落ちやすい特殊な質感を持っています。頻繁なシャンプーは皮膚の乾燥を招くため、月1〜2回程度にとどめ、毎日の丁寧なブラッシングを優先しましょう。"
-                    },
-                    {
-                        "question": "膝蓋骨脱臼（パテラ）を予防するにはどうすればよいですか？",
-                        "answer": "体重管理が最も重要です。肥満は膝への大きな負担となるため適正体重を維持し、フローリングに滑り止めマットを敷くこと、二本足立ちやソファからのジャンプを止めさせることが効果的です。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "日本银狐犬膝盖骨脱位与双层毛发护理：保护关节与防止掉毛的日常3步护理流程",
-                "description": "针对拥有雪白双层被毛与聪明性格的日本银狐犬（日本尖嘴犬）。介绍预防膝盖骨脱位（Patellar Luxation）、泪痕护理及毛发梳理的3步日常护理流程。",
-                "authority": "世界犬业联盟 (FCI) 犬种标准 No.262 与日本犬业俱乐部 (JKC) 骨科临床护理指南",
-                "profile": {
-                    "breed": "日本银狐犬 / 日本尖嘴犬 (Japanese Spitz)",
-                    "lifespan": "12 ~ 15年",
-                    "sleep_pattern": "12 ~ 14小时 (成犬睡眠与休息)",
-                    "temperament": "聪明、警惕、活泼、忠诚、温和"
-                },
-                "intro": "日本银狐犬以其雪白丰满的双层被毛和敏捷聪慧的性格深受喜爱。然而，作为中小型犬种，它们存在较高的膝盖骨脱位（Patellar Luxation）遗传风险。此外，纯白色的毛发极易显现眼部泪痕，且浓密的底层绒毛在换毛季节需要科学梳理。本指南为您解析日本银狐犬的骨骼与行为信号，并提供守护关节与毛发健康的3步日常护理流程。",
-                "whyTitle": "日本银狐犬的肢体语言：跳跃式单腿抬起与尖锐警惕吠叫",
-                "whyDesc": "当日本银狐犬在散步或玩耍时突然出现 **“抬起单条后腿跳跃式行走”** 的现象，这是膝盖骨脱位的典型前兆。而面对外部环境声音发出的 **“连续尖锐吠叫”**，则源于其天生的警惕本能与看家护主意识。",
-                "body_signals": [
-                    {
-                        "name": "抬腿跳跃式行走 (Skipping Step)",
-                        "meaning": "膝盖骨从滑车沟中脱出，引发瞬间疼痛或异物感，导致犬只抬起患肢不敢着地。",
-                        "response": "切勿强行拉伸腿部，应请兽医评估膝盖骨脱位等级（1~4级），并在家中铺设防滑垫、补充软骨关节营养品。"
-                    },
-                    {
-                        "name": "尖锐警惕吠叫 (Sharp Alert Barking)",
-                        "meaning": "听觉极度敏锐，当听到门外陌生声音或有人靠近时发出的警告性领地防御行为。",
-                        "response": "开展声音脱敏训练，并利用嗅闻玩具（Nosework）转移其注意力，以缓解焦虑和减少无意义吠叫。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：后肢关节检查与底毛梳理",
-                        "text": "起床后检查后肢关节是否有僵硬或触痛，使用针梳（Slicker Brush）顺着毛发纹理梳理浓密的底层绒毛，防止结块打结。"
-                    },
-                    {
-                        "name": "中午：室内防滑环境排查与低冲击散步",
-                        "text": "确认室内光滑地板已铺设防滑垫，并在平地上进行 30–40 分钟的日常散步，消耗精力同时避免加重膝关节负担。"
-                    },
-                    {
-                        "name": "晚上：眼部泪痕清洁与毛发分层梳理",
-                        "text": "使用专用的眼部清洁棉轻轻擦拭眼周分泌物以防毛发发红变色，并在夜间对双层毛发进行分层深层梳理，清除附着的灰尘。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "日本银狐犬需要经常洗澡来保持雪白吗？",
-                        "answer": "不需要。银狐犬的外层毛发具有防尘防泥的特殊质地，泥水干后易于刷落。频繁洗澡会破坏皮肤油脂屏障导致干燥，建议每 3~4 周洗一次，日常以坚持梳毛为主。"
-                    },
-                    {
-                        "question": "如何有效预防日本银狐犬发生膝盖骨脱位？",
-                        "answer": "控制体重是重中之重，肥胖会极大增加膝关节承受的压力。同时应铺设室内防滑垫、禁止双腿站立或从高处跳下，并定期补充氨基葡萄糖（Glucosamine）等关节保健品。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cuidado de la luxación patelar y el pelaje doble del Spitz Japonés: Rutina diaria de 3 pasos para proteger las articulaciones y controlar la muda",
-                "description": "Cuidados esenciales para el Spitz Japonés de manto doble blanco como la nieve. Conozca cómo prevenir la luxación de rótula, controlar las manchas de lágrimas y cepillar su pelaje.",
-                "authority": "Estándar de la Fédération Cynologique Internationale (FCI) Nº 262 y Pautas de Ortopedia Veterinaria del Japan Kennel Club (JKC)",
-                "profile": {
-                    "breed": "Spitz Japonés",
-                    "lifespan": "12 ~ 15 años",
-                    "sleep_pattern": "12 ~ 14 horas (patrón de descanso de perro adulto)",
-                    "temperament": "Inteligente, Alerta, Juguetón, Leal, Afectuoso"
-                },
-                "intro": "Con su deslumbrante pelaje doble blanco como la nieve y su naturaleza alerta y cariñosa, el Spitz Japonés es un perro de compañía excepcional. Sin embargo, debido a su tamaño pequeño a mediano, presenta una predisposición genética a la luxación de rótula (patelar). Además, su pelaje blanco requiere atención en las manchas de lágrimas bajo los ojos y un cepillado constante del manto interior durante las épocas de muda. En esta guía, descifra sus señales articulares y conductuales para ofrecerle una rutina de cuidado diario de 3 pasos.",
-                "whyTitle": "Señales corporales del Spitz Japonés: Pasos con saltos (cojera) y ladridos agudos de alerta",
-                "whyDesc": "Si un Spitz Japonés de repente **'camina dando saltitos o levantando una pata trasera'** durante un paseo, es una señal característica de luxación patelar. Por otro lado, un **'ladrido agudo y continuo'** ante ruidos extraños proviene de su arraigado instinto guardián y gran sensibilidad ambiental.",
-                "body_signals": [
-                    {
-                        "name": "Paso con salto o renquera intermitente (Skipping Step)",
-                        "meaning": "La rótula se ha deslazado de la ranura articular de la rodilla, provocando una molestia o dolor temporal que hace que el perro levante la pata.",
-                        "response": "No fuerce la articulación. Consulte con un veterinario especialista para determinar el grado de luxación (Grados 1 a 4), instale alfombras antideslizantes y proporcione condroprotectores."
-                    },
-                    {
-                        "name": "Ladrido agudo de alerta (Sharp Alert Barking)",
-                        "meaning": "Respuesta instintiva provocada por su oído agudo y deseo de proteger su hogar al percibir presencia o ruidos desconocidos.",
-                        "response": "Realice entrenamientos de desensibilización sonora y use juegos de olfato (nosework) para canalizar su energía y reducir los ladridos innecesarios."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Revisión articular e inspección con cepillo slicker",
-                        "text": "Examine la rigidez en las patas traseras al despertar. Cepille suavemente el denso subpelo usando un cepillo de púas metálicas (slicker) a favor del pelo para prevenir nudos."
-                    },
-                    {
-                        "name": "Tarde: Verificación del suelo antideslizante y paseos de bajo impacto",
-                        "text": "Asegúrese de que el suelo de casa tenga alfombras antideslizantes. Realice un paseo de 30 a 40 minutos en terreno plano para ejercitarlo sin sobrecargar las rodillas."
-                    },
-                    {
-                        "name": "Noche: Limpieza del lagrimal y cepillado profundo",
-                        "text": "Limpie las secreciones del área ocular con discos especiales para evitar la oxidación del pelo blanco, y realice un cepillado nocturno por capas para eliminar el polvo acumulado."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿El Spitz Japonés necesita baños frecuentes para mantener su pelo blanco?",
-                        "answer": "No. La capa externa del Spitz Japonés repele de manera natural la suciedad cuando se seca. Bañarlo en exceso elimina los aceites protectores de la piel. Un baño cada 3 o 4 semanas junto con un cepillado diario es más que suficiente."
-                    },
-                    {
-                        "question": "¿Cómo puedo prevenir la luxación de rótula en mi perro?",
-                        "answer": "El control de peso es fundamental, ya que el sobrepeso sobrecarga las rodillas. También es clave colocar suelos antideslizantes en casa, evitar que salte desde sofás o se ponga de pie sobre dos patas, y administrar suplementos articulares con glucosamina."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Soin de la luxation patellaire et du double pelage du Spitz Japonais : Routine quotidienne en 3 étapes pour protéger les articulations et limiter la mue",
-                "description": "Soins essentiels pour le Spitz Japonais au pelage blanc comme la neige. Apprenez à prévenir la luxation de la rotule, nettoyer les traces de larmes et entretenir sa fourrure.",
-                "authority": "Standard de la Fédération Cynologique Internationale (FCI) N° 262 et Directives d'Orthopédie Vétérinaire du Japan Kennel Club (JKC)",
-                "profile": {
-                    "breed": "Spitz Japonais",
-                    "lifespan": "12 ~ 15 ans",
-                    "sleep_pattern": "12 ~ 14 heures (sommeil et repos du chien adulte)",
-                    "temperament": "Intelligent, Attentif, Joueur, Loyal, Affectueux"
-                },
-                "intro": "Arborant une somptueuse fourrure double d'un blanc éclatant et un caractère vif et loyal, le Spitz Japonais est un compagnon très apprécié. Néanmoins, en tant que petit à moyen chien, il est sujet à la luxation de la rotule (luxation patellaire). De plus, son pelage blanc met en évidence les coulées larmoyantes sous les yeux, et son sous-poil dense nécessite un brossage régulier.  vous aide à décrypter les signaux physiques de votre Spitz et vous propose une routine en 3 étapes pour préserver ses articulations et sa beauté.",
-                "whyTitle": "Langage corporel du Spitz Japonais : Démarche en sautillant (boiterie) et aboiements d'alerte",
-                "whyDesc": "Si votre Spitz Japonais **« se met soudain à marcher sur trois pattes ou à sautiller »** pendant la course, il s'agit du signe caractéristique d'une rotule qui saute. Par ailleurs, des **« aboiements stridents et répétés »** face à des bruits extérieurs traduisent son instinct de garde naturel et sa grande vigilance.",
-                "body_signals": [
-                    {
-                        "name": "Sautillement sur trois pattes (Boiterie intermittente)",
-                        "meaning": "La rotule est sortie de son sillon articulaire, provoquant une gêne ou une douleur passagère qui incite le chien à lever la patte arrière.",
-                        "response": "Ne manipulez pas la patte brusquement. Consultez un vétérinaire pour établir le stade de la luxation (grades 1 à 4), posez des tapis antidérapants et donnez des compléments articulaires."
-                    },
-                    {
-                        "name": "Aboiement d'alerte strident (Sharp Alert Barking)",
-                        "meaning": "Réaction de protection du territoire déclenchée par son ouïe fine lorsqu'il entend des bruits inhabituels ou des inconnus.",
-                        "response": "Pratiquez des exercices de désensibilisation sonore et occupez son esprit avec des jeux de fouille (nosework) pour l'apaiser."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Contrôle des rotules et brossage du sous-poil",
-                        "text": "Vérifiez l'absence de raideur articulaire au réveil. Brossez délicatement le sous-poil épais avec une brosse carde (slicker) dans le sens du poil pour éviter les nœuds."
-                    },
-                    {
-                        "name": "Midi : Aménagement du sol antidérapant et promenade douce",
-                        "text": "Assurez-vous que les parquets sont recouverts de tapis antidérapants. Proposez une promenade de 30 à 40 minutes sur terrain plat pour dépenser son énergie sans brusquer ses genoux."
-                    },
-                    {
-                        "name": "Soir : Nettoyage des traces de larmes et brossage de finition",
-                        "text": "Nettoyez le contour des yeux avec une lotion adaptée pour éviter l'oxydation du poil blanc, puis réalisez un brossage en profondeur pour éliminer la poussière."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Faut-il laver souvent le Spitz Japonais pour maintenir la blancheur de son poil ?",
-                        "answer": "Non. Le poil de couverture du Spitz Japonais possède une texture autonettoyante : la boue séchée s'élimine naturellement au brossage. Des bains trop fréquents assèchent sa peau. Un bain toutes les 3 à 4 semaines couplé à un brossage quotidien suffit amplement."
-                    },
-                    {
-                        "question": "Comment prévenir la luxation de la rotule chez le Spitz Japonais ?",
-                        "answer": "Le contrôle du poids est capital pour ne pas surcharger les genoux. Il convient également de poser des tapis sur les sols glissants, d'éviter les sauts depuis le canapé ou la station debout sur les pattes arrière, et d'administrer des protecteurs articulaires."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Japan-Spitz Patellaluxation & Doppelfell-Pflege: Tägliche 3-Schritte-Routine für Gelenkschutz und Fellpflege",
-                "description": "Wichtige Pflege für den schneeweißen Japan-Spitz mit Doppelfell. Erfahren Sie, wie Sie Patellaluxation vorbeugen, Tränenspuren entfernen und das Fell pflegen.",
-                "authority": "Fédération Cynologique Internationale (FCI) Standard Nr. 262 & Orthopädische Leitlinien des Japan Kennel Club (JKC)",
-                "profile": {
-                    "breed": "Japan-Spitz (Japanese Spitz)",
-                    "lifespan": "12 ~ 15 Jahre",
-                    "sleep_pattern": "12 ~ 14 Stunden (Schlaf- und Ruhephasen beim ausgewachsenen Hund)",
-                    "temperament": "Intelligent, Wachsam, Verspielt, Treu, Anhänglich"
-                },
-                "intro": "Der Japan-Spitz besticht durch sein schneeweißes, dichtes Doppelfell und seinen klugen, wachsamen Charakter. Als kleine bis mittlere Hunderasse neigt er jedoch genetisch zu Kniescheibenverrenkungen (Patellaluxation). Zudem erfordert das reinweiße Fell Aufmerksamkeit bezüglich Tränensteinbildung unter den Augen sowie eine regelmäßige Unterwollpflege während des Fellwechsels.  erklärt die Gelenk- und Verhaltenssignale des Japan-Spitzes und zeigt eine 3-Schritte-Tagesroutine zum Schutz der Gelenke und des Fells.",
-                "whyTitle": "Körpersprache des Japan-Spitz: Hüpfendes Laufen (Hinken) und wachsames Bellen",
-                "whyDesc": "Zeigt der Japan-Spitz beim Laufen plötzlich **'ein hüpfendes Aufziehen eines Hinterbeins'**, ist dies das klassische Anzeichen einer herausgesprungenen Kniescheibe. Ein **'schrilles, anhaltendes Bellen'** bei Geräuschen beruht hingegen auf seinem ausgeprägten Wachtrieb und seiner Wachsamkeit.",
-                "body_signals": [
-                    {
-                        "name": "Hüpfendes Aufziehen des Beins (Skipping Step)",
-                        "meaning": "Die Kniescheibe ist aus ihrer Führungsrinne gerutscht, was einen kurzen Schmerz verursacht und den Hund veranlasst, das Bein anzuheben.",
-                        "response": "Biegen Sie das Bein nicht gewaltsam. Lassen Sie den Grad der Luxation (Grad 1–4) beim Tierarzt abklären, verlegen Sie Anti-Rutsch-Matten und geben Sie Gelenknährstoffe."
-                    },
-                    {
-                        "name": "Schrilles Alarmbellen (Sharp Alert Barking)",
-                        "meaning": "Eine Reaktion aufgrund seines feinen Gehörs und Schutztriebs beim Wahrnehmen fremder Geräusche oder Personen.",
-                        "response": "Führen Sie Desensibilisierungstraining für Geräusche durch und nutzen Sie Schnüffelspiele (Nosework), um seinen Geist auszulasten und das Bellen zu reduzieren."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Gelenk-Check & Unterwolle ausbürsten",
-                        "text": "Überprüfen Sie nach dem Aufstehen die Hinterbeine auf Steifigkeit. Bürsten Sie das dichte Unterfell sanft mit einer Zupfbürste (Slicker Brush) in Wuchsrichtung aus, um Verfilzungen vorzubeugen."
-                    },
-                    {
-                        "name": "Mittag: Rutschfeste Böden prüfen & Gelenkschonender Spaziergang",
-                        "text": "Stellen Sie sicher, dass glatte Böden im Haus mit Anti-Rutsch-Matten abgedeckt sind. Bieten Sie 30–40 Minuten Spaziergang auf ebenem Gelände zur Auslastung ohne Gelenkbelastung."
-                    },
-                    {
-                        "name": "Abend: Tränenspuren reinigen & Tiefenpflege der Fellschichten",
-                        "text": "Wischen Sie Tränenflüssigkeit um die Augen mit speziellen Reinigungspads ab, um Verfärbungen zu verhindern, und entfernen Sie abends Staub durch gründliches Ausbürsten."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Muss der Japan-Spitz häufig gebadet werden, damit sein Fell weiß bleibt?",
-                        "answer": "Nein. Das Deckhaar besitzt eine schmutzabweisende Struktur, sodass getrockneter Schlamm einfach ausgebürstet werden kann. Zu häufiges Baden trocknet die Haut aus. Ein Bad alle 3 bis 4 Wochen zusammen mit täglichem Bürsten ist völlig ausreichend."
-                    },
-                    {
-                        "question": "Wie kann ich einer Patellaluxation beim Japan-Spitz vorbeugen?",
-                        "answer": "Gewichtskontrolle ist essenziell, da Übergewicht die Knie stark belastet. Legen Sie zudem rutschfeste Matten aus, vermeiden Sie Männchen-Machen sowie Sprünge von Möbeln und füttern Sie Glucosamin-Gelenkergänzungen."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Cuidado da Luxação de Patela e Pelagem Dupla do Spitz Japonês: Rotina diária de 3 passos para proteção articular e manutenção do pelo",
-                "description": "Cuidados essenciais para o Spitz Japonês de pelagem dupla branca como a neve. Saiba como prevenir a luxação patelar, limpar manchas de lágrimas e cuidar do pelo.",
-                "authority": "Padrão da Fédération Cynologique Internationale (FCI) Nº 262 e Diretrizes Ortopédicas Veterinárias do Japan Kennel Club (JKC)",
-                "profile": {
-                    "breed": "Spitz Japonês",
-                    "lifespan": "12 ~ 15 anos",
-                    "sleep_pattern": "12 ~ 14 horas (padrão de descanso de cão adulto)",
-                    "temperament": "Inteligente, Alerta, Brincalhão, Leal, Afetuoso"
-                },
-                "intro": "Com uma pelagem dupla densa, branca como a neve, e uma personalidade inteligente e afetuosa, o Spitz Japonês é um excelente cão de companhia. Contudo, devido ao seu porte pequeno a médio, apresenta predisposição genética à luxação de patela (deslocamento da rótula). Além disso, a pelagem branca exige atenção com manchas de lágrimas sob os olhos e escovação constante do subpelo. Neste guia, decodifica os sinais articulares e comportamentais do Spitz Japonês e compartilha uma rotina de 3 passos para a sua saúde.",
-                "whyTitle": "Sinais corporais do Spitz Japonês: Passos em salto (manqueira) e latidos agudos de alerta",
-                "whyDesc": "Se o Spitz Japonês de repente **'caminhar dando pulinhos ou recolhendo uma pata traseira'**, este é um sinal clássico de luxação patelar. Já os **'latidos agudos e contínuos'** diante de barulhos externos vêm de sua forte sensibilidade territorial e instinto de proteção.",
-                "body_signals": [
-                    {
-                        "name": "Passo em salto ou manqueira intermitente (Skipping Step)",
-                        "meaning": "A patela desencaixou do sulco articular do joelho, causando desconforto ou dor temporária que faz o cão erguer a pata.",
-                        "response": "Não dobre a perna com força. Leve o cão ao veterinário para diagnosticar o grau da luxação (Graus 1 a 4), coloque tapetes antiderrapantes em casa e inicie condroprotetores."
-                    },
-                    {
-                        "name": "Latido agudo de alerta (Sharp Alert Barking)",
-                        "meaning": "Resposta acionada por sua audição aguçada ao perceber barulhos estranhos ou aproximação de pessoas na sua área.",
-                        "response": "Faça treinos de dessensibilização sonora e utilize brinquedos de olfato (nosework) para aliviar a ansiedade e diminuir latidos desnecessários."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Checagem articular e escovação do subpelo",
-                        "text": "Verifique se há rigidez nas patas traseiras ao acordar. Escove suavemente o subpelo denso com uma escova rasqueadeira (slicker) a favor do pelo para evitar nós."
-                    },
-                    {
-                        "name": "Tarde: Verificação do piso antiderrapante e passeios leves",
-                        "text": "Certifique-se de que os pisos lisos estejam cobertos com tapetes antiderrapantes. Faça passeios de 30 a 40 minutos em superfícies planas para gastar energia sem sobrecarregar os joelhos."
-                    },
-                    {
-                        "name": "Noite: Limpeza das lágrimas e escovação profunda",
-                        "text": "Limpe a região dos olhos com lenços específicos para evitar o amarelamento do pelo branco e faça uma escovação noturna em camadas para remover a poeira."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "O Spitz Japonês precisa de banhos frequentes para manter o pelo branco?",
-                        "answer": "Não. A camada externa da pelagem do Spitz Japonês repele naturalmente a sujeira seca. Banhos em excesso ressecam a pele. Um banho a cada 3 ou 4 semanas acompanhado de escovação diária é o ideal."
-                    },
-                    {
-                        "question": "Como posso prevenir a luxação de patela no Spitz Japonês?",
-                        "answer": "O controle de peso é fundamental para não sobrecarregar os joelhos. Além disso, coloque tapetes antiderrapantes nos ambientes, evite que o cão pule de sofás ou fique em duas patas, e forneça suplementos de glucosamina."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Panduan Perawatan Anjing Japanese Spitz: Luksasi Patela dan Perawatan Bulu Ganda melalui 3 Langkah Rutinitas Harian",
-                "description": "Perawatan esensial untuk anjing Japanese Spitz berbulu lebat putih bersih. Pelajari cara mencegah luksasi patela, mengatasi noda air mata, dan merawat bulunya.",
-                "authority": "Standar Trah Fédération Cynologique Internationale (FCI) No. 262 & Pedoman Ortopedi Dokter Hewan Japan Kennel Club (JKC)",
-                "profile": {
-                    "breed": "Japanese Spitz",
-                    "lifespan": "12 ~ 15 tahun",
-                    "sleep_pattern": "12 ~ 14 jam (pola tidur dan istirahat anjing dewasa)",
-                    "temperament": "Cerdas, Waspada, Ceria, Setia, Penyayang"
-                },
-                "intro": "Memiliki bulu ganda berwarna putih bersih yang lebat serta sifat yang cerdas dan setia, Japanese Spitz adalah anjing pendamping yang sangat populer. Namun, sebagai ras berukuran kecil hingga sedang, mereka memiliki risiko genetik terkena Luksasi Patela (pergeseran tempurung lutut). Selain itu, bulu putihnya mudah memperlihatkan noda air mata, dan bulu halusnya memerlukan penyisiran teratur. Dalam panduan ini, mengulas sinyal sendi dan perilaku Japanese Spitz serta menyajikan 3 langkah rutinitas harian untuk menjaga kesehatan mereka.",
-                "whyTitle": "Bahasa Tubuh Japanese Spitz: Jalan Melompat Satu Kaki (Pincang) dan Gonggongan Waspada",
-                "whyDesc": "Jika Japanese Spitz tiba-tiba **' berjalan sambil melompat-lompat atau mengangkat satu kaki belakang'** saat berjalan, ini adalah tanda utama luksasi patela. Di sisi lain, **'gonggongan nyaring dan terus-menerus'** terhadap suara luar berasal dari naluri kewaspadaan dan perlindungan wilayah yang kuat.",
-                "body_signals": [
-                    {
-                        "name": "Berjalan Melompat Satu Kaki (Skipping Step)",
-                        "meaning": "Tempurung lutut terlepas dari jalurnya, menyebabkan rasa nyeri atau tidak nyaman sesaat sehingga anjing mengangkat kakinya.",
-                        "response": "Jangan menekuk kaki secara paksa. Segera periksakan ke dokter hewan untuk menentukan tingkat luksasi (Tingkat 1–4), pasang karpet antislip, dan berikan suplemen sendi."
-                    },
-                    {
-                        "name": "Gonggongan Waspada Nyaring (Sharp Alert Barking)",
-                        "meaning": "Reaksi refleksif akibat pendengaran yang tajam saat mendengar suara asing atau melihat orang mendekati wilayahnya.",
-                        "response": "Lakukan latihan desensitisasi suara dan berikan permainan olfaktori (nosework) untuk menenangkan kecemasan dan mengurangi gonggongan berlebih."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Pemeriksaan Sendi & Penyisiran Bulu Halus (Undercoat)",
-                        "text": "Periksa kelenturan kaki belakang saat bangun tidur. Sisir bulu ganda yang tebal secara perlahan menggunakan slicker brush searah pertumbuhan bulu untuk mencegah kekusutan."
-                    },
-                    {
-                        "name": "Siang: Pemeriksaan Lantai Antislip & Jalan-Jalan Ringan",
-                        "text": "Pastikan lantai rumah yang licin telah dilapisi karpet antislip. Ajak berjalan-jalan di permukaan datar selama 30–40 menit untuk menyalurkan energi tanpa membebani lutut."
-                    },
-                    {
-                        "name": "Malam: Pembersihan Noda Air Mata & Penyisiran Mendalam",
-                        "text": "Usap area sekitar mata dengan tisu pembersih khusus untuk mencegah perubahan warna bulu, lalu lakukan penyisiran malam hari untuk mengangkat debu yang menempel."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apakah Japanese Spitz harus sering dimandikan agar bulunya tetap putih?",
-                        "answer": "Tidak. Bulu luar Japanese Spitz memiliki tekstur khusus yang membuat lumpur kering mudah terlepas saat disisir. Mandi terlalu sering justru membuat kulitnya kering. Mandikan setiap 3 hingga 4 minggu sekali disertai penyisiran rutin setiap hari sudah sangat cukup."
-                    },
-                    {
-                        "question": "Bagaimana cara mencegah terjadinya luksasi patela pada Japanese Spitz?",
-                        "answer": "Menjaga berat badan ideal adalah kunci utama agar lutut tidak terbebani. Selain itu, pasang karpet antislip di lantai rumah, cegah anjing melompat dari sofa atau berdiri dengan dua kaki belakang, serta berikan suplemen sendi berbasis glukosamin."
-                    }
-                ]
-            }
+  "japanese-spitz-care": {
+    "pubDate": "2026-04-08",
+    "updatedDate": "2026-04-08",
+    "locales": {
+      "ko": {
+        "title": "재패니즈 스피츠 슬개골 탈구와 이중모 케어: 관절 보호와 털 관리 3단계 데일리 루틴",
+        "description": "순백의 이중모와 맑은 눈망울을 가진 재패니즈 스피츠 케어법. 슬개골 탈구 예방, 눈물자국 관리, 빗질 3단계 루틴을 다룹니다.",
+        "authority": "세계애견연맹(FCI) 견종 표준 No.262 및 일본케넬클럽(JKC) 정형외과 임상 가이드라인",
+        "profile": {
+          "breed": "재패니즈 스피츠 (Japanese Spitz)",
+          "lifespan": "12 ~ 15년",
+          "sleep_pattern": "12 ~ 14시간 (성견의 수면 및 휴식 수면)",
+          "temperament": "영리함, 경계심 있음, 활발함, 충성스러움, 다정함"
         },
-        "heroImage": "/images/blog/japanese_spitz_care.webp"
-    }
+        "intro": "풍성한 순백의 이중모와 밝고 영리한 성격을 지닌 재패니즈 스피츠는 사랑스러운 반려견입니다. 하지만 소형~중형견 특유의 슬개골 탈구(Patellar Luxation) 위험이 높고, 하얀 털 때문에 눈가 눈물자국과 환절기 털 빠짐 관리가 필수적입니다. 이번 가이드에서는 재패니즈 스피츠의 관절 신호와 행동 시그널을 분석하고, 슬개골 보호 및 모질 유지를 위한 3단계 홈케어 루틴을 소개합니다.",
+        "whyTitle": "재패니즈 스피츠의 신체 시그널: 톡톡 튀는 듯한 절뚝거림(스키핑)과 헛짖음",
+        "whyDesc": "재패니즈 스피츠가 산책이나 놀이 중 **'한쪽 뒷다리를 들고 깡충깡충 걷는 모습(Skipping Step)'**을 보인다면 슬개골 탈구의 대표적인 신호입니다. 반면 외부 소리에 반응해 **'날카롭게 연속으로 짖는 행동'**은 스피츠 계열 특유의 뛰어난 경계심과 영역 보호 본능에서 비롯됩니다.",
+        "body_signals": [
+          {
+            "name": "한쪽 다리를 튀듯 드는 걸음 (Skipping Step)",
+            "meaning": "무릎 슬개골이 유구 홈에서 벗어나 순간적인 통증이나 이물감을 느껴 다리를 들고 걷는 상태입니다.",
+            "response": "억지로 다리를 꺾지 말고 동물병원에서 슬개골 탈구 기수(1~4기) 진단을 받은 뒤, 실내 매트 설치와 관절 영양제 급여를 시작합니다."
+          },
+          {
+            "name": "날카로운 경계 짖음 (Sharp Alert Barking)",
+            "meaning": "뛰어난 청각과 경계심으로 인해 낯선 소리나 외부인의 접근에 반응하여 영역을 지키려는 행동입니다.",
+            "response": "소리 둔감화 훈련과 노즈워크 활동을 통해 불안감을 낮추고 헛짖음을 완화해 줍니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 뒷다리 관절 체크 & 슬리커 브러싱",
+            "text": "기상 후 뒷다리 관절의 뻣뻣함이나 통증 반응이 없는지 확인하고, 슬리커 브러시와 핀 브러시로 죽은 속털을 빗어내어 털 엉킴을 예방합니다."
+          },
+          {
+            "name": "낮: 미끄럼 방지 매트 점검 & 평지 산책",
+            "text": "실내 바닥에 미끄럼 방지 매트가 잘 깔려 있는지 점검하고, 관절에 무리가 가지 않는 평지 위주의 산책(하루 30~40분)으로 에너지를 발산시킵니다."
+          },
+          {
+            "name": "저녁: 눈물자국 세정 & 층별 속털 빗질",
+            "text": "눈가 착색을 막기 위해 전용 세정 패드로 눈물 자국을 부드럽게 닦아주고, 저녁 빗질로 먼지와 이물질을 제거합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "재패니즈 스피츠의 하얀 털을 유지하기 위해 목욕을 자주 시켜야 하나요?",
+            "answer": "아닙니다. 재패니즈 스피츠의 겉털은 먼지나 흙이 말라 떨어지는 성질이 있어 자주 목욕시키면 피부가 건조해집니다. 3~4주에 1회 목욕이 적당하며 매일 빗질해 주는 것이 훨씬 효과적입니다."
+          },
+          {
+            "question": "슬개골 탈구를 예방하려면 어떻게 해야 하나요?",
+            "answer": "체중 관리가 가장 중요합니다. 관절에 무리를 주는 미끄러운 바닥에 매트를 깔고, 두 다리로 서기나 높은 곳에서 점프하는 행동을 금지하며 글루코사민 계열 관절 영양제를 급여하세요."
+          }
+        ]
+      },
+      "en": {
+        "title": "Japanese Spitz Patellar Luxation and Double Coat Care: A 3-Step Daily Routine for Joint Health and Coat Maintenance",
+        "description": "Essential care for the snow-white double-coated Japanese Spitz. Learn how to prevent patellar luxation, manage tear stains, and maintain their coat through a 3-step daily routine.",
+        "authority": "Fédération Cynologique Internationale (FCI) Breed Standard No. 262 and Japan Kennel Club (JKC) Veterinary Orthopedic Guidelines",
+        "profile": {
+          "breed": "Japanese Spitz",
+          "lifespan": "12 ~ 15 Years",
+          "sleep_pattern": "12 ~ 14 Hours (Adult Sleep and Rest Pattern)",
+          "temperament": "Intelligent, Alert, Playful, Loyal, Affectionate"
+        },
+        "intro": "Boasting a lush snow-white double coat and a keen, watchful nature, the Japanese Spitz is a highly intelligent and devoted companion dog. However, as a small-to-medium breed, they are genetically predisposed to Patellar Luxation (dislocation of the kneecap). Additionally, their pure white fur makes tear staining around the eyes noticeable, and their dense undercoat requires structured grooming, especially during seasonal shedding. In this guide, decodes the joint pain and behavioral signals of the Japanese Spitz and outlines a 3-step daily care routine for joint protection and coat maintenance.",
+        "whyTitle": "Japanese Spitz Physical Signals: Skipping Step (Limping) and Sharp Alert Barking",
+        "whyDesc": "If a Japanese Spitz suddenly displays a **'skipping step or running on three legs'** while walking or playing, this is a classic indicator of patellar luxation. Conversely, **'sharp continuous barking'** in response to environmental stimuli stems from their strong watchdog heritage and keen territorial alertness.",
+        "body_signals": [
+          {
+            "name": "Skipping Step (Intermittent Limping)",
+            "meaning": "The kneecap has slipped out of its groove in the knee joint, causing temporary pain or discomfort, leading the dog to hold the leg up briefly.",
+            "response": "Avoid forcefully bending the leg. Have an exotic or orthopedic vet evaluate the knee grade (Grades 1–4), install non-slip mats at home, and start joint supplements."
+          },
+          {
+            "name": "Sharp Alert Barking",
+            "meaning": "A reaction triggered by acute hearing and protective instincts when hearing unfamiliar sounds or seeing strangers near their territory.",
+            "response": "Conduct sound desensitization training and provide mental enrichment like nosework toys to calm anxiety and reduce unnecessary barking."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Joint Health Inspection & Undercoat Slicker Brushing",
+            "text": "Check hind leg joints for stiffness or discomfort upon waking. Gently brush the dense double coat using a slicker brush and pin brush along the grain of the fur to prevent matting."
+          },
+          {
+            "name": "Afternoon: Indoor Anti-Slip Floor Check & Low-Impact Exercise",
+            "text": "Ensure indoor living areas are covered with non-slip rugs or mats. Provide 30 to 40 minutes of flat-surface walking to burn energy without stressing the knee joints."
+          },
+          {
+            "name": "Evening: Tear Stain Cleaning & Coat Line-Brushing",
+            "text": "Wipe away tear discharge around the eyes using specialized eye-cleaning pads to prevent red yeast discoloration, and do a thorough evening line-brushing to remove debris."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Does the Japanese Spitz need frequent baths to keep its white coat clean?",
+            "answer": "No. The outer coat of a Japanese Spitz has a unique texture that allows dried mud and dirt to fall off easily. Bathing too often strips natural oils and causes dry skin. Bathing once every 3 to 4 weeks paired with regular brushing is sufficient."
+          },
+          {
+            "question": "How can I prevent patellar luxation in my Japanese Spitz?",
+            "answer": "Weight management is critical, as obesity increases stress on knee joints. In addition, place non-slip mats on slippery floors, discourage jumping off furniture or standing on hind legs, and administer glucosamine/MSM joint supplements."
+          }
+        ]
+      },
+      "ja": {
+        "title": "日本スピッツの膝蓋骨脱臼＆ダブルコートケア：関節保護と抜け毛対策の3ステップ日常ルーティン",
+        "description": "純白のダブルコートと賢い性格を持つ日本スピッツ。膝蓋骨脱臼（パテラ）の予防と涙やけ、被毛のお手入れを行う3ステップのデイリーケアを解説します。",
+        "authority": "国際畜犬連盟(FCI) 犬種標準No.262およびジャパンケネルクラブ(JKC) 整形外科臨床ガイドライン",
+        "profile": {
+          "breed": "日本スピッツ (Japanese Spitz)",
+          "lifespan": "12 〜 15年",
+          "sleep_pattern": "12 〜 14時間 (成犬の睡眠および休息)",
+          "temperament": "賢い、好奇心旺盛、警戒心がある、忠実、活発"
+        },
+        "intro": "純白の豊かなダブルコート（二重毛）と明るく利発な性格を持つ日本スピッツは、深い愛情と忠誠心を備えたペットです。しかし小型〜中型犬特有の「膝蓋骨脱臼（パテラ）」にかかりやすく、真っ白な被毛ゆえに目元の涙やけや換毛期の毛玉ケアが欠かせません。今回は日本スピッツの関節異常や感情シグナルを読み解き、膝の保護と美毛維持のための3ステップ日常ルーティンをご紹介します。",
+        "whyTitle": "日本スピッツのボディランゲージ：スキップのような歩き方（スキッピング）と警戒吠え",
+        "whyDesc": "日本スピッツが散歩中や遊んでいる最中に**「片足を上げてひょこひょこと歩く（スキッピング）」**動作を見せた場合、膝蓋骨脱臼の典型的なシグナルです。一方、外部の音に反応して**「高く鋭い声で吠え続ける」**のは、スピッツ系特有のすぐれた警戒心と領域防衛本能によるものです。",
+        "body_signals": [
+          {
+            "name": "片足を浮かせるスキップ歩き (Skipping Step)",
+            "meaning": "膝の皿（膝蓋骨）が正常な溝から外れ、瞬間的な痛みや違和感が生じたため足を上げて歩いている状態です。",
+            "response": "無理に足を引っ張らず、動物病院でパテラの進行度（グレード1〜4）の診断を受け、滑り止めマットの敷設や関節サプリメントの給与を開始してください。"
+          },
+          {
+            "name": "鋭い警戒吠え (Sharp Alert Barking)",
+            "meaning": "優れた聴覚と警戒心により、見知らぬ音や訪問者に対して自分の縄張りを守ろうと警告を発している行動です。",
+            "response": "音に対する脱感作トレーニングを行い、ノーズワークやおもちゃで精神的満足感を与えて興奮を落ち着かせます。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：膝関節のチェックとスリッカーブラッシング",
+            "text": "起床時に関節の強張りや痛みの反応がないか確認し、スリッカーブラシとピンブラシを使ってアンダーコート（密生した毛）の絡まりを毛並みに沿って解きます。"
+          },
+          {
+            "name": "昼：フローリングの滑り止め確認と関節に優しい散歩",
+            "text": "室内床に滑り止めマットが配置されているか確認し、膝に負担をかけない平地メインの散歩（1日30〜40分）でエネルギーを発散させます。"
+          },
+          {
+            "name": "夜：目元の涙やけ拭き取りと被毛のラインブラッシング",
+            "text": "目の周りの分泌物を専用クレンジングシートで優しく拭き取って変色を防ぎ、夜のブラッシングで1日のホコリを除去して毛並みを整えます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "日本スピッツの白い毛を保つために頻繁にシャンプーすべきですか？",
+            "answer": "いいえ。日本スピッツのオーバーコートは泥や汚れが乾くと落ちやすい特殊な質感を持っています。頻繁なシャンプーは皮膚の乾燥を招くため、月1〜2回程度にとどめ、毎日の丁寧なブラッシングを優先しましょう。"
+          },
+          {
+            "question": "膝蓋骨脱臼（パテラ）を予防するにはどうすればよいですか？",
+            "answer": "体重管理が最も重要です。肥満は膝への大きな負担となるため適正体重を維持し、フローリングに滑り止めマットを敷くこと、二本足立ちやソファからのジャンプを止めさせることが効果的です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "日本银狐犬膝盖骨脱位与双层毛发护理：保护关节与防止掉毛的日常3步护理流程",
+        "description": "针对拥有雪白双层被毛与聪明性格的日本银狐犬（日本尖嘴犬）。介绍预防膝盖骨脱位（Patellar Luxation）、泪痕护理及毛发梳理的3步日常护理流程。",
+        "authority": "世界犬业联盟 (FCI) 犬种标准 No.262 与日本犬业俱乐部 (JKC) 骨科临床护理指南",
+        "profile": {
+          "breed": "日本银狐犬 / 日本尖嘴犬 (Japanese Spitz)",
+          "lifespan": "12 ~ 15年",
+          "sleep_pattern": "12 ~ 14小时 (成犬睡眠与休息)",
+          "temperament": "聪明、警惕、活泼、忠诚、温和"
+        },
+        "intro": "日本银狐犬以其雪白丰满的双层被毛和敏捷聪慧的性格深受喜爱。然而，作为中小型犬种，它们存在较高的膝盖骨脱位（Patellar Luxation）遗传风险。此外，纯白色的毛发极易显现眼部泪痕，且浓密的底层绒毛在换毛季节需要科学梳理。本指南为您解析日本银狐犬的骨骼与行为信号，并提供守护关节与毛发健康的3步日常护理流程。",
+        "whyTitle": "日本银狐犬的肢体语言：跳跃式单腿抬起与尖锐警惕吠叫",
+        "whyDesc": "当日本银狐犬在散步或玩耍时突然出现 **“抬起单条后腿跳跃式行走”** 的现象，这是膝盖骨脱位的典型前兆。而面对外部环境声音发出的 **“连续尖锐吠叫”**，则源于其天生的警惕本能与看家护主意识。",
+        "body_signals": [
+          {
+            "name": "抬腿跳跃式行走 (Skipping Step)",
+            "meaning": "膝盖骨从滑车沟中脱出，引发瞬间疼痛或异物感，导致犬只抬起患肢不敢着地。",
+            "response": "切勿强行拉伸腿部，应请兽医评估膝盖骨脱位等级（1~4级），并在家中铺设防滑垫、补充软骨关节营养品。"
+          },
+          {
+            "name": "尖锐警惕吠叫 (Sharp Alert Barking)",
+            "meaning": "听觉极度敏锐，当听到门外陌生声音或有人靠近时发出的警告性领地防御行为。",
+            "response": "开展声音脱敏训练，并利用嗅闻玩具（Nosework）转移其注意力，以缓解焦虑和减少无意义吠叫。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：后肢关节检查与底毛梳理",
+            "text": "起床后检查后肢关节是否有僵硬或触痛，使用针梳（Slicker Brush）顺着毛发纹理梳理浓密的底层绒毛，防止结块打结。"
+          },
+          {
+            "name": "中午：室内防滑环境排查与低冲击散步",
+            "text": "确认室内光滑地板已铺设防滑垫，并在平地上进行 30–40 分钟的日常散步，消耗精力同时避免加重膝关节负担。"
+          },
+          {
+            "name": "晚上：眼部泪痕清洁与毛发分层梳理",
+            "text": "使用专用的眼部清洁棉轻轻擦拭眼周分泌物以防毛发发红变色，并在夜间对双层毛发进行分层深层梳理，清除附着的灰尘。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "日本银狐犬需要经常洗澡来保持雪白吗？",
+            "answer": "不需要。银狐犬的外层毛发具有防尘防泥的特殊质地，泥水干后易于刷落。频繁洗澡会破坏皮肤油脂屏障导致干燥，建议每 3~4 周洗一次，日常以坚持梳毛为主。"
+          },
+          {
+            "question": "如何有效预防日本银狐犬发生膝盖骨脱位？",
+            "answer": "控制体重是重中之重，肥胖会极大增加膝关节承受的压力。同时应铺设室内防滑垫、禁止双腿站立或从高处跳下，并定期补充氨基葡萄糖（Glucosamine）等关节保健品。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cuidado de la luxación patelar y el pelaje doble del Spitz Japonés: Rutina diaria de 3 pasos para proteger las articulaciones y controlar la muda",
+        "description": "Cuidados esenciales para el Spitz Japonés de manto doble blanco como la nieve. Conozca cómo prevenir la luxación de rótula, controlar las manchas de lágrimas y cepillar su pelaje.",
+        "authority": "Estándar de la Fédération Cynologique Internationale (FCI) Nº 262 y Pautas de Ortopedia Veterinaria del Japan Kennel Club (JKC)",
+        "profile": {
+          "breed": "Spitz Japonés",
+          "lifespan": "12 ~ 15 años",
+          "sleep_pattern": "12 ~ 14 horas (patrón de descanso de perro adulto)",
+          "temperament": "Inteligente, Alerta, Juguetón, Leal, Afectuoso"
+        },
+        "intro": "Con su deslumbrante pelaje doble blanco como la nieve y su naturaleza alerta y cariñosa, el Spitz Japonés es un perro de compañía excepcional. Sin embargo, debido a su tamaño pequeño a mediano, presenta una predisposición genética a la luxación de rótula (patelar). Además, su pelaje blanco requiere atención en las manchas de lágrimas bajo los ojos y un cepillado constante del manto interior durante las épocas de muda. En esta guía, descifra sus señales articulares y conductuales para ofrecerle una rutina de cuidado diario de 3 pasos.",
+        "whyTitle": "Señales corporales del Spitz Japonés: Pasos con saltos (cojera) y ladridos agudos de alerta",
+        "whyDesc": "Si un Spitz Japonés de repente **'camina dando saltitos o levantando una pata trasera'** durante un paseo, es una señal característica de luxación patelar. Por otro lado, un **'ladrido agudo y continuo'** ante ruidos extraños proviene de su arraigado instinto guardián y gran sensibilidad ambiental.",
+        "body_signals": [
+          {
+            "name": "Paso con salto o renquera intermitente (Skipping Step)",
+            "meaning": "La rótula se ha deslazado de la ranura articular de la rodilla, provocando una molestia o dolor temporal que hace que el perro levante la pata.",
+            "response": "No fuerce la articulación. Consulte con un veterinario especialista para determinar el grado de luxación (Grados 1 a 4), instale alfombras antideslizantes y proporcione condroprotectores."
+          },
+          {
+            "name": "Ladrido agudo de alerta (Sharp Alert Barking)",
+            "meaning": "Respuesta instintiva provocada por su oído agudo y deseo de proteger su hogar al percibir presencia o ruidos desconocidos.",
+            "response": "Realice entrenamientos de desensibilización sonora y use juegos de olfato (nosework) para canalizar su energía y reducir los ladridos innecesarios."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Revisión articular e inspección con cepillo slicker",
+            "text": "Examine la rigidez en las patas traseras al despertar. Cepille suavemente el denso subpelo usando un cepillo de púas metálicas (slicker) a favor del pelo para prevenir nudos."
+          },
+          {
+            "name": "Tarde: Verificación del suelo antideslizante y paseos de bajo impacto",
+            "text": "Asegúrese de que el suelo de casa tenga alfombras antideslizantes. Realice un paseo de 30 a 40 minutos en terreno plano para ejercitarlo sin sobrecargar las rodillas."
+          },
+          {
+            "name": "Noche: Limpieza del lagrimal y cepillado profundo",
+            "text": "Limpie las secreciones del área ocular con discos especiales para evitar la oxidación del pelo blanco, y realice un cepillado nocturno por capas para eliminar el polvo acumulado."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿El Spitz Japonés necesita baños frecuentes para mantener su pelo blanco?",
+            "answer": "No. La capa externa del Spitz Japonés repele de manera natural la suciedad cuando se seca. Bañarlo en exceso elimina los aceites protectores de la piel. Un baño cada 3 o 4 semanas junto con un cepillado diario es más que suficiente."
+          },
+          {
+            "question": "¿Cómo puedo prevenir la luxación de rótula en mi perro?",
+            "answer": "El control de peso es fundamental, ya que el sobrepeso sobrecarga las rodillas. También es clave colocar suelos antideslizantes en casa, evitar que salte desde sofás o se ponga de pie sobre dos patas, y administrar suplementos articulares con glucosamina."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Soin de la luxation patellaire et du double pelage du Spitz Japonais : Routine quotidienne en 3 étapes pour protéger les articulations et limiter la mue",
+        "description": "Soins essentiels pour le Spitz Japonais au pelage blanc comme la neige. Apprenez à prévenir la luxation de la rotule, nettoyer les traces de larmes et entretenir sa fourrure.",
+        "authority": "Standard de la Fédération Cynologique Internationale (FCI) N° 262 et Directives d'Orthopédie Vétérinaire du Japan Kennel Club (JKC)",
+        "profile": {
+          "breed": "Spitz Japonais",
+          "lifespan": "12 ~ 15 ans",
+          "sleep_pattern": "12 ~ 14 heures (sommeil et repos du chien adulte)",
+          "temperament": "Intelligent, Attentif, Joueur, Loyal, Affectueux"
+        },
+        "intro": "Arborant une somptueuse fourrure double d'un blanc éclatant et un caractère vif et loyal, le Spitz Japonais est un compagnon très apprécié. Néanmoins, en tant que petit à moyen chien, il est sujet à la luxation de la rotule (luxation patellaire). De plus, son pelage blanc met en évidence les coulées larmoyantes sous les yeux, et son sous-poil dense nécessite un brossage régulier.  vous aide à décrypter les signaux physiques de votre Spitz et vous propose une routine en 3 étapes pour préserver ses articulations et sa beauté.",
+        "whyTitle": "Langage corporel du Spitz Japonais : Démarche en sautillant (boiterie) et aboiements d'alerte",
+        "whyDesc": "Si votre Spitz Japonais **« se met soudain à marcher sur trois pattes ou à sautiller »** pendant la course, il s'agit du signe caractéristique d'une rotule qui saute. Par ailleurs, des **« aboiements stridents et répétés »** face à des bruits extérieurs traduisent son instinct de garde naturel et sa grande vigilance.",
+        "body_signals": [
+          {
+            "name": "Sautillement sur trois pattes (Boiterie intermittente)",
+            "meaning": "La rotule est sortie de son sillon articulaire, provoquant une gêne ou une douleur passagère qui incite le chien à lever la patte arrière.",
+            "response": "Ne manipulez pas la patte brusquement. Consultez un vétérinaire pour établir le stade de la luxation (grades 1 à 4), posez des tapis antidérapants et donnez des compléments articulaires."
+          },
+          {
+            "name": "Aboiement d'alerte strident (Sharp Alert Barking)",
+            "meaning": "Réaction de protection du territoire déclenchée par son ouïe fine lorsqu'il entend des bruits inhabituels ou des inconnus.",
+            "response": "Pratiquez des exercices de désensibilisation sonore et occupez son esprit avec des jeux de fouille (nosework) pour l'apaiser."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Contrôle des rotules et brossage du sous-poil",
+            "text": "Vérifiez l'absence de raideur articulaire au réveil. Brossez délicatement le sous-poil épais avec une brosse carde (slicker) dans le sens du poil pour éviter les nœuds."
+          },
+          {
+            "name": "Midi : Aménagement du sol antidérapant et promenade douce",
+            "text": "Assurez-vous que les parquets sont recouverts de tapis antidérapants. Proposez une promenade de 30 à 40 minutes sur terrain plat pour dépenser son énergie sans brusquer ses genoux."
+          },
+          {
+            "name": "Soir : Nettoyage des traces de larmes et brossage de finition",
+            "text": "Nettoyez le contour des yeux avec une lotion adaptée pour éviter l'oxydation du poil blanc, puis réalisez un brossage en profondeur pour éliminer la poussière."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Faut-il laver souvent le Spitz Japonais pour maintenir la blancheur de son poil ?",
+            "answer": "Non. Le poil de couverture du Spitz Japonais possède une texture autonettoyante : la boue séchée s'élimine naturellement au brossage. Des bains trop fréquents assèchent sa peau. Un bain toutes les 3 à 4 semaines couplé à un brossage quotidien suffit amplement."
+          },
+          {
+            "question": "Comment prévenir la luxation de la rotule chez le Spitz Japonais ?",
+            "answer": "Le contrôle du poids est capital pour ne pas surcharger les genoux. Il convient également de poser des tapis sur les sols glissants, d'éviter les sauts depuis le canapé ou la station debout sur les pattes arrière, et d'administrer des protecteurs articulaires."
+          }
+        ]
+      },
+      "de": {
+        "title": "Japan-Spitz Patellaluxation & Doppelfell-Pflege: Tägliche 3-Schritte-Routine für Gelenkschutz und Fellpflege",
+        "description": "Wichtige Pflege für den schneeweißen Japan-Spitz mit Doppelfell. Erfahren Sie, wie Sie Patellaluxation vorbeugen, Tränenspuren entfernen und das Fell pflegen.",
+        "authority": "Fédération Cynologique Internationale (FCI) Standard Nr. 262 & Orthopädische Leitlinien des Japan Kennel Club (JKC)",
+        "profile": {
+          "breed": "Japan-Spitz (Japanese Spitz)",
+          "lifespan": "12 ~ 15 Jahre",
+          "sleep_pattern": "12 ~ 14 Stunden (Schlaf- und Ruhephasen beim ausgewachsenen Hund)",
+          "temperament": "Intelligent, Wachsam, Verspielt, Treu, Anhänglich"
+        },
+        "intro": "Der Japan-Spitz besticht durch sein schneeweißes, dichtes Doppelfell und seinen klugen, wachsamen Charakter. Als kleine bis mittlere Hunderasse neigt er jedoch genetisch zu Kniescheibenverrenkungen (Patellaluxation). Zudem erfordert das reinweiße Fell Aufmerksamkeit bezüglich Tränensteinbildung unter den Augen sowie eine regelmäßige Unterwollpflege während des Fellwechsels.  erklärt die Gelenk- und Verhaltenssignale des Japan-Spitzes und zeigt eine 3-Schritte-Tagesroutine zum Schutz der Gelenke und des Fells.",
+        "whyTitle": "Körpersprache des Japan-Spitz: Hüpfendes Laufen (Hinken) und wachsames Bellen",
+        "whyDesc": "Zeigt der Japan-Spitz beim Laufen plötzlich **'ein hüpfendes Aufziehen eines Hinterbeins'**, ist dies das klassische Anzeichen einer herausgesprungenen Kniescheibe. Ein **'schrilles, anhaltendes Bellen'** bei Geräuschen beruht hingegen auf seinem ausgeprägten Wachtrieb und seiner Wachsamkeit.",
+        "body_signals": [
+          {
+            "name": "Hüpfendes Aufziehen des Beins (Skipping Step)",
+            "meaning": "Die Kniescheibe ist aus ihrer Führungsrinne gerutscht, was einen kurzen Schmerz verursacht und den Hund veranlasst, das Bein anzuheben.",
+            "response": "Biegen Sie das Bein nicht gewaltsam. Lassen Sie den Grad der Luxation (Grad 1–4) beim Tierarzt abklären, verlegen Sie Anti-Rutsch-Matten und geben Sie Gelenknährstoffe."
+          },
+          {
+            "name": "Schrilles Alarmbellen (Sharp Alert Barking)",
+            "meaning": "Eine Reaktion aufgrund seines feinen Gehörs und Schutztriebs beim Wahrnehmen fremder Geräusche oder Personen.",
+            "response": "Führen Sie Desensibilisierungstraining für Geräusche durch und nutzen Sie Schnüffelspiele (Nosework), um seinen Geist auszulasten und das Bellen zu reduzieren."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Gelenk-Check & Unterwolle ausbürsten",
+            "text": "Überprüfen Sie nach dem Aufstehen die Hinterbeine auf Steifigkeit. Bürsten Sie das dichte Unterfell sanft mit einer Zupfbürste (Slicker Brush) in Wuchsrichtung aus, um Verfilzungen vorzubeugen."
+          },
+          {
+            "name": "Mittag: Rutschfeste Böden prüfen & Gelenkschonender Spaziergang",
+            "text": "Stellen Sie sicher, dass glatte Böden im Haus mit Anti-Rutsch-Matten abgedeckt sind. Bieten Sie 30–40 Minuten Spaziergang auf ebenem Gelände zur Auslastung ohne Gelenkbelastung."
+          },
+          {
+            "name": "Abend: Tränenspuren reinigen & Tiefenpflege der Fellschichten",
+            "text": "Wischen Sie Tränenflüssigkeit um die Augen mit speziellen Reinigungspads ab, um Verfärbungen zu verhindern, und entfernen Sie abends Staub durch gründliches Ausbürsten."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Muss der Japan-Spitz häufig gebadet werden, damit sein Fell weiß bleibt?",
+            "answer": "Nein. Das Deckhaar besitzt eine schmutzabweisende Struktur, sodass getrockneter Schlamm einfach ausgebürstet werden kann. Zu häufiges Baden trocknet die Haut aus. Ein Bad alle 3 bis 4 Wochen zusammen mit täglichem Bürsten ist völlig ausreichend."
+          },
+          {
+            "question": "Wie kann ich einer Patellaluxation beim Japan-Spitz vorbeugen?",
+            "answer": "Gewichtskontrolle ist essenziell, da Übergewicht die Knie stark belastet. Legen Sie zudem rutschfeste Matten aus, vermeiden Sie Männchen-Machen sowie Sprünge von Möbeln und füttern Sie Glucosamin-Gelenkergänzungen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Cuidado da Luxação de Patela e Pelagem Dupla do Spitz Japonês: Rotina diária de 3 passos para proteção articular e manutenção do pelo",
+        "description": "Cuidados essenciais para o Spitz Japonês de pelagem dupla branca como a neve. Saiba como prevenir a luxação patelar, limpar manchas de lágrimas e cuidar do pelo.",
+        "authority": "Padrão da Fédération Cynologique Internationale (FCI) Nº 262 e Diretrizes Ortopédicas Veterinárias do Japan Kennel Club (JKC)",
+        "profile": {
+          "breed": "Spitz Japonês",
+          "lifespan": "12 ~ 15 anos",
+          "sleep_pattern": "12 ~ 14 horas (padrão de descanso de cão adulto)",
+          "temperament": "Inteligente, Alerta, Brincalhão, Leal, Afetuoso"
+        },
+        "intro": "Com uma pelagem dupla densa, branca como a neve, e uma personalidade inteligente e afetuosa, o Spitz Japonês é um excelente cão de companhia. Contudo, devido ao seu porte pequeno a médio, apresenta predisposição genética à luxação de patela (deslocamento da rótula). Além disso, a pelagem branca exige atenção com manchas de lágrimas sob os olhos e escovação constante do subpelo. Neste guia, decodifica os sinais articulares e comportamentais do Spitz Japonês e compartilha uma rotina de 3 passos para a sua saúde.",
+        "whyTitle": "Sinais corporais do Spitz Japonês: Passos em salto (manqueira) e latidos agudos de alerta",
+        "whyDesc": "Se o Spitz Japonês de repente **'caminhar dando pulinhos ou recolhendo uma pata traseira'**, este é um sinal clássico de luxação patelar. Já os **'latidos agudos e contínuos'** diante de barulhos externos vêm de sua forte sensibilidade territorial e instinto de proteção.",
+        "body_signals": [
+          {
+            "name": "Passo em salto ou manqueira intermitente (Skipping Step)",
+            "meaning": "A patela desencaixou do sulco articular do joelho, causando desconforto ou dor temporária que faz o cão erguer a pata.",
+            "response": "Não dobre a perna com força. Leve o cão ao veterinário para diagnosticar o grau da luxação (Graus 1 a 4), coloque tapetes antiderrapantes em casa e inicie condroprotetores."
+          },
+          {
+            "name": "Latido agudo de alerta (Sharp Alert Barking)",
+            "meaning": "Resposta acionada por sua audição aguçada ao perceber barulhos estranhos ou aproximação de pessoas na sua área.",
+            "response": "Faça treinos de dessensibilização sonora e utilize brinquedos de olfato (nosework) para aliviar a ansiedade e diminuir latidos desnecessários."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Checagem articular e escovação do subpelo",
+            "text": "Verifique se há rigidez nas patas traseiras ao acordar. Escove suavemente o subpelo denso com uma escova rasqueadeira (slicker) a favor do pelo para evitar nós."
+          },
+          {
+            "name": "Tarde: Verificação do piso antiderrapante e passeios leves",
+            "text": "Certifique-se de que os pisos lisos estejam cobertos com tapetes antiderrapantes. Faça passeios de 30 a 40 minutos em superfícies planas para gastar energia sem sobrecarregar os joelhos."
+          },
+          {
+            "name": "Noite: Limpeza das lágrimas e escovação profunda",
+            "text": "Limpe a região dos olhos com lenços específicos para evitar o amarelamento do pelo branco e faça uma escovação noturna em camadas para remover a poeira."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "O Spitz Japonês precisa de banhos frequentes para manter o pelo branco?",
+            "answer": "Não. A camada externa da pelagem do Spitz Japonês repele naturalmente a sujeira seca. Banhos em excesso ressecam a pele. Um banho a cada 3 ou 4 semanas acompanhado de escovação diária é o ideal."
+          },
+          {
+            "question": "Como posso prevenir a luxação de patela no Spitz Japonês?",
+            "answer": "O controle de peso é fundamental para não sobrecarregar os joelhos. Além disso, coloque tapetes antiderrapantes nos ambientes, evite que o cão pule de sofás ou fique em duas patas, e forneça suplementos de glucosamina."
+          }
+        ]
+      },
+      "id": {
+        "title": "Panduan Perawatan Anjing Japanese Spitz: Luksasi Patela dan Perawatan Bulu Ganda melalui 3 Langkah Rutinitas Harian",
+        "description": "Perawatan esensial untuk anjing Japanese Spitz berbulu lebat putih bersih. Pelajari cara mencegah luksasi patela, mengatasi noda air mata, dan merawat bulunya.",
+        "authority": "Standar Trah Fédération Cynologique Internationale (FCI) No. 262 & Pedoman Ortopedi Dokter Hewan Japan Kennel Club (JKC)",
+        "profile": {
+          "breed": "Japanese Spitz",
+          "lifespan": "12 ~ 15 tahun",
+          "sleep_pattern": "12 ~ 14 jam (pola tidur dan istirahat anjing dewasa)",
+          "temperament": "Cerdas, Waspada, Ceria, Setia, Penyayang"
+        },
+        "intro": "Memiliki bulu ganda berwarna putih bersih yang lebat serta sifat yang cerdas dan setia, Japanese Spitz adalah anjing pendamping yang sangat populer. Namun, sebagai ras berukuran kecil hingga sedang, mereka memiliki risiko genetik terkena Luksasi Patela (pergeseran tempurung lutut). Selain itu, bulu putihnya mudah memperlihatkan noda air mata, dan bulu halusnya memerlukan penyisiran teratur. Dalam panduan ini, mengulas sinyal sendi dan perilaku Japanese Spitz serta menyajikan 3 langkah rutinitas harian untuk menjaga kesehatan mereka.",
+        "whyTitle": "Bahasa Tubuh Japanese Spitz: Jalan Melompat Satu Kaki (Pincang) dan Gonggongan Waspada",
+        "whyDesc": "Jika Japanese Spitz tiba-tiba **' berjalan sambil melompat-lompat atau mengangkat satu kaki belakang'** saat berjalan, ini adalah tanda utama luksasi patela. Di sisi lain, **'gonggongan nyaring dan terus-menerus'** terhadap suara luar berasal dari naluri kewaspadaan dan perlindungan wilayah yang kuat.",
+        "body_signals": [
+          {
+            "name": "Berjalan Melompat Satu Kaki (Skipping Step)",
+            "meaning": "Tempurung lutut terlepas dari jalurnya, menyebabkan rasa nyeri atau tidak nyaman sesaat sehingga anjing mengangkat kakinya.",
+            "response": "Jangan menekuk kaki secara paksa. Segera periksakan ke dokter hewan untuk menentukan tingkat luksasi (Tingkat 1–4), pasang karpet antislip, dan berikan suplemen sendi."
+          },
+          {
+            "name": "Gonggongan Waspada Nyaring (Sharp Alert Barking)",
+            "meaning": "Reaksi refleksif akibat pendengaran yang tajam saat mendengar suara asing atau melihat orang mendekati wilayahnya.",
+            "response": "Lakukan latihan desensitisasi suara dan berikan permainan olfaktori (nosework) untuk menenangkan kecemasan dan mengurangi gonggongan berlebih."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pemeriksaan Sendi & Penyisiran Bulu Halus (Undercoat)",
+            "text": "Periksa kelenturan kaki belakang saat bangun tidur. Sisir bulu ganda yang tebal secara perlahan menggunakan slicker brush searah pertumbuhan bulu untuk mencegah kekusutan."
+          },
+          {
+            "name": "Siang: Pemeriksaan Lantai Antislip & Jalan-Jalan Ringan",
+            "text": "Pastikan lantai rumah yang licin telah dilapisi karpet antislip. Ajak berjalan-jalan di permukaan datar selama 30–40 menit untuk menyalurkan energi tanpa membebani lutut."
+          },
+          {
+            "name": "Malam: Pembersihan Noda Air Mata & Penyisiran Mendalam",
+            "text": "Usap area sekitar mata dengan tisu pembersih khusus untuk mencegah perubahan warna bulu, lalu lakukan penyisiran malam hari untuk mengangkat debu yang menempel."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah Japanese Spitz harus sering dimandikan agar bulunya tetap putih?",
+            "answer": "Tidak. Bulu luar Japanese Spitz memiliki tekstur khusus yang membuat lumpur kering mudah terlepas saat disisir. Mandi terlalu sering justru membuat kulitnya kering. Mandikan setiap 3 hingga 4 minggu sekali disertai penyisiran rutin setiap hari sudah sangat cukup."
+          },
+          {
+            "question": "Bagaimana cara mencegah terjadinya luksasi patela pada Japanese Spitz?",
+            "answer": "Menjaga berat badan ideal adalah kunci utama agar lutut tidak terbebani. Selain itu, pasang karpet antislip di lantai rumah, cegah anjing melompat dari sofa atau berdiri dengan dua kaki belakang, serta berikan suplemen sendi berbasis glukosamin."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/japanese_spitz_care.webp"
+  }
 }

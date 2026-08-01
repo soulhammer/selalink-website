@@ -1,459 +1,459 @@
 {
-    "shetland-sheepdog-care": {
-        "pubDate": "2026-07-18",
-        "updatedDate": "2026-07-18",
-        "locales": {
-            "ko": {
-                "title": "셔틀랜드 시프도그(셀티)의 민감성 신호 해석과 MDR1 유전 변이·이중모 엉킴 예방을 위한 3단계 데일리 케어",
-                "description": "충직하고 똑똑한 셔틀랜드 시프도그(Shetland Sheepdog/Sheltie). MDR1 약물 민감성, 짖음·경계 바디 랭귀지 해독, 빽빽한 이중모 및 관절 관리를 위한 3단계 홈케어 루틴을 소개합니다.",
-                "authority": "American Kennel Club (AKC) Breed Standard & Cornell University College of Veterinary Medicine Research",
-                "profile": {
-                    "breed": "셔틀랜드 시프도그 / 셀티 (Shetland Sheepdog / Sheltie)",
-                    "lifespan": "12 ~ 14년",
-                    "sleep_pattern": "10 ~ 12시간 (보호자 옆이나 경계하기 좋은 높은 명당 선호)",
-                    "temperament": "극도로 똑똑함, 충성스러움, 민감함, 경계심 높음, 활발함"
-                },
-                "intro": "풍성한 갈기와 우아한 외모를 자랑하는 셔틀랜드 시프도그(Shetland Sheepdog), 일명 '셀티(Sheltie)'는 목양견 출신답게 매우 뛰어난 지능과 높은 충성심을 가진 품종입니다. 그러나 감각이 매우 예리하고 소리에 민감하여 작은 자극에도 쉽게 반응하고 헛짖음이나 경계 행동을 보이기 쉽습니다. 또한 셀티 품종은 특정 구충제나 약물 복용 시 뇌로 약물이 침투해 중독 증상을 일으키는 'MDR1(유전자 변이)' 유전적 위험이 높으며, 풍성한 이중모(Double coat) 관리를 소홀히 하면 심각한 피부염과 털 엉킴이 발생합니다. 이번 가이드에서는 셀티의 스트레스 및 약물 이상 신호를 진단하고 건강을 지키는 3단계 케어 루틴을 소개합니다.",
-                "whyTitle": "셔틀랜드 시프도그의 바디 랭귀지: 약물 중독 이상 신호와 과자극 경계 짖음",
-                "whyDesc": "셀티는 소리와 환경 변화에 매우 민감하게 반응합니다. 외부 자극에 대해 귀를 뒤로 밀착하고 입술을 핥으며 날카롭게 연속으로 짖는 **'과자극 경계 짖음'**은 극심한 스트레스 및 불안 신호입니다. 또한 구충제나 심장사상충 약 복용 후 몸을 비틀거리거나 침을 흘리고 둔해지는 **'MDR1 약물 반응'**은 즉각적인 응급 처치가 필요한 치명적인 신호입니다.",
-                "body_signals": [
-                    {
-                        "name": "구충제 복용 후 비틀거림 및 과도한 침 흘림 (MDR1 Drug Toxicity Signal)",
-                        "meaning": "MDR1 유전 변이로 인해 약물이 뇌혈관 장벽(BBB)을 통과하여 중추신경계 중독을 일으킬 때 나타나는 응급 상태입니다.",
-                        "response": "투여한 약물을 즉시 확인하고 투여를 중단한 뒤, 24시간 동물병원 응급실로 이송하여 약물 배출 및 진정·대응 처치를 받아야 합니다."
-                    },
-                    {
-                        "name": "귀를 뒤로 밀착하고 날카롭게 연속 짖음 (Hyper-Reactivity / Alarm Barking)",
-                        "meaning": "작은 소리나 낯선 자극에 대해 심각한 경계와 과자극 스트레스를 느끼고 있음을 나타내는 바디 랭귀지입니다.",
-                        "response": "자극 원인을 즉시 차단하고 '기다려' 명령으로 시선을 보호자에게 돌린 후, 시각·청각적으로 안정된 공간으로 유도합니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 정량 급식과 관절 보호 및 MDR1 위험 약물 사전 체크",
-                        "text": "비만으로 인한 슬개골 및 고관절 부담을 줄이기 위해 칼로리 정량 공급을 준수하고, 구충제 및 처방약 투여 전 반드시 MDR1 변이 유무를 수의사와 확인합니다."
-                    },
-                    {
-                        "name": "낮: 목양 본능 해소를 위한 지능 퍼즐 및 소음 탈감작 훈련",
-                        "text": "높은 지능을 충족시키는 노즈워크 퍼즐 게임과 외부 소음에 의연해지는 둔감화 훈련을 병행하여 스트레스성 헛짖음을 예방합니다."
-                    },
-                    {
-                        "name": "저녁: 이중모 죽은 털 제거 빗질 및 관절 모니터링",
-                        "text": "풍성한 겉털과 빽빽한 속털을 슬리커 및 핀 브러시로 매일 빗어주어 털 엉킴과 핑거 피부염을 예방하고 보행 시 관절 상태를 점검합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "셀티에게 치명적인 MDR1 유전자 변이란 무엇인가요?",
-                        "answer": "약물을 뇌 밖으로 배출하는 P-당단백질(P-glycoprotein) 형성 유전에 변이가 생기는 현상입니다. 이 변이가 있는 셀티에게 이버멕틴(Ivermectin) 등의 특정 구충제나 로페라마이드 등을 투여하면 뇌로 약물이 쉽게 침투해 신경 마비나 사망에 이를 수 있습니다. 사전 유전자 검사와 수의사 상담이 필수적입니다."
-                    },
-                    {
-                        "question": "셀티의 심한 헛짖음과 이중모 털 빠짐은 어떻게 관리해야 하나요?",
-                        "answer": "셀티는 목양견 출신으로 욕구가 해소되지 않으면 작은 소리에도 짖기 쉽습니다. 매일 산책과 뇌를 쓰는 지능 놀이로 에너지를 충분히 소비시켜야 합니다. 또한 빽빽한 이중모 구조이므로 언더코트 렉(속털 전용 빗)을 사용해 주 2~3회 이상 속털까지 깊이 빗어줘야 털 뭉침과 피부 질환을 방지할 수 있습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Sheltie Sensitivity & Health Care: A 3-Step Daily Routine for MDR1 Gene Safety, Barking Control, and Double-Coat Maintenance",
-                "description": "Shetland Sheepdogs are highly intelligent and loyal, but prone to MDR1 drug toxicity and double coat matting. Learn a 3-step daily routine for health, grooming, and training.",
-                "authority": "American Kennel Club (AKC) Breed Standard & Cornell University College of Veterinary Medicine Research",
-                "profile": {
-                    "breed": "Shetland Sheepdog / Sheltie",
-                    "lifespan": "12 - 14 Years",
-                    "sleep_pattern": "10 - 12 Hours (Prefers sleeping near owners or at vantage points for alertness)",
-                    "temperament": "Highly Intelligent, Loyal, Sensitive, Alert, Energetic"
-                },
-                "intro": "Renowned for their lush mane and elegant coat, the Shetland Sheepdog (or Sheltie) is a working herding breed boasting incredible intelligence and devotion. However, their acute senses and high noise sensitivity often trigger reactive barking and alarm behaviors. Furthermore, Shelties carry a high genetic risk for the MDR1 gene mutation, which allows certain antiparasitic medications to cross the blood-brain barrier and cause severe neurotoxicity. In addition, neglecting their dense double coat can cause severe skin irritation and matted fur. In this guide, decodes Sheltie distress signals and outlines a 3-step daily care routine.",
-                "whyTitle": "Sheltie Body Language: Drug Toxicity Warnings and Overstimulation Barking",
-                "whyDesc": "Shelties react strongly to environmental sounds and changes. Pinned-back ears, lip-licking, and sharp, repetitive barking indicate severe overstimulation and distress. Additionally, staggering, drooling, or lethargy after taking flea or deworming medications are critical signs of an MDR1 drug toxicity reaction requiring immediate emergency care.",
-                "body_signals": [
-                    {
-                        "name": "Staggering & Excessive Drooling After Deworming (MDR1 Drug Toxicity Signal)",
-                        "meaning": "An emergency medical condition caused by the MDR1 mutation allowing antiparasitic drugs past the blood-brain barrier into the central nervous system.",
-                        "response": "Identify the administered medication immediately, stop usage, and transport the dog to an emergency veterinary clinic for detoxification and supportive care."
-                    },
-                    {
-                        "name": "Pinned-Back Ears & Sharp Repetitive Barking (Hyper-Reactivity / Alarm Barking)",
-                        "meaning": "Body language indicating severe stress, high alertness, and overstimulation from subtle sounds or unfamiliar stimuli.",
-                        "response": "Block the triggering stimulus immediately, redirect the dog's focus to the owner with a 'stay' command, and guide them to a calm environment."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Portioned Feeding for Joint Protection & Pre-Medication MDR1 Check",
-                        "text": "Follow strict caloric portions to prevent obesity and joint strain, and always verify the MDR1 mutation status with a veterinarian before administering dewormers or prescription medications."
-                    },
-                    {
-                        "name": "Afternoon: Mental Puzzle Games for Herding Instincts & Sound Desensitization",
-                        "text": "Provide nosework puzzle games to satisfy their high intellect and conduct noise desensitization training to prevent stress-induced reactive barking."
-                    },
-                    {
-                        "name": "Evening: Undercoat Brushing for Double Coat Care & Joint Monitoring",
-                        "text": "Brush both outer and undercoats daily with slicker and pin brushes to prevent matting and skin dermatitis while checking joint mobility during movement."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "What is the MDR1 gene mutation in Shelties, and why is it dangerous?",
-                        "answer": "It is a genetic defect affecting P-glycoprotein, which normally pumps harmful substances out of the brain. When a Sheltie with this mutation takes drugs like Ivermectin or Loperamide, the medication crosses into the brain, causing paralysis, seizures, or fatal neurotoxicity. DNA testing and vet consultation are essential."
-                    },
-                    {
-                        "question": "How can I manage excessive barking and heavy shedding in a Sheltie?",
-                        "answer": "As former herding dogs, Shelties bark when under-stimulated. Daily physical exercise combined with mental puzzle games exhausts their energy. For heavy shedding, brush their dense undercoat 2-3 times a week using an undercoat rake to remove dead fur and prevent skin infections."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "シェットランド・シープドッグ（シェルティ）の過敏サイン解読とMDR1遺伝子変異・ダブルコート絡まり予防の日常3段階ルーティン",
-                "description": "忠実で賢いシェットランド・シープドッグ（シェルティ）。MDR1薬物過敏症、無駄吠え・警戒ボディランゲージの解読、密生したダブルコートと関節ケアの3ステップを紹介します。",
-                "authority": "AKC（アメリカンケネルクラブ）品種標準およびコーネル大学獣医学部研究データ",
-                "profile": {
-                    "breed": "シェットランド・シープドッグ / シェルティ (Shetland Sheepdog / Sheltie)",
-                    "lifespan": "12 〜 14年",
-                    "sleep_pattern": "10 〜 12時間（飼い主のそばや見渡しの良い場所を好む）",
-                    "temperament": "極めて賢い、忠実、繊細・過敏、警戒心が強い、活発"
-                },
-                "intro": "豊かなたてがみと優雅な姿を誇るシェットランド・シープドッグ（シェルティ）は、牧羊犬由来の優れた知能と高い忠誠心を持つ犬種です。しかし、非常に感覚が鋭く音に敏感なため、外部の刺激に過剰反応して無駄吠えや警戒行動を起こしやすい傾向があります。また、シェルティは特定の駆虫薬などで脳に薬物が到達して中毒を引き起こす「MDR1遺伝子変異」のリスクが高く、密生したダブルコート（被毛）のケアを怠ると深刻な皮膚炎を起こします。本記事では、シェルティのSOSサインと健康を守る3段階ルーティンを紹介します。",
-                "whyTitle": "シェットランド・シープドッグのボディランゲージ：薬物中毒の警告サインと過刺激による警戒吠え",
-                "whyDesc": "シェルティは音や環境の変化に非常に敏感です。耳を後ろに伏せ、口元を舐めながら甲高い声で連続して吠える**「過刺激警戒吠え」**は強いストレスと不安のサインです。また、駆虫薬やフィラリア予防薬の投与後にふらつき、よだれを垂らし、ぐったりする**「MDR1薬物反応」**は直ちに緊急治療が必要な危険信号です。",
-                "body_signals": [
-                    {
-                        "name": "駆虫薬投与後のふらつき・過剰なよだれ (MDR1 Drug Toxicity Signal)",
-                        "meaning": "MDR1遺伝子変異により、薬物が血液脳関門（BBB）を通過して中枢神経中毒を引き起こしている緊急状態です。",
-                        "response": "投与した薬物を確認して直ちに使用を中止し、救急動物病院へ搬送して薬物排出や処置を受けてください。"
-                    },
-                    {
-                        "name": "耳を後ろに伏せて甲高く連続して吠える (Hyper-Reactivity / Alarm Barking)",
-                        "meaning": "物音や見知らぬ刺激に対し、強い警戒と過刺激によるストレスを感じているボディランゲージです。",
-                        "response": "刺激の原因を遮断し、「マテ」の指示で意識を飼い主に向けさせ、落ち着ける環境へ誘導します。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：関節保護のための定量給餌とMDR1危険薬物の事前確認",
-                        "text": "肥満による膝蓋骨・股関節への負担を減らすため給餌量を厳守し、駆虫薬等の投与前に必ずMDR1変異の有無を獣医師と確認します。"
-                    },
-                    {
-                        "name": "昼：牧羊本能を満たす知育パズルと騒音慣らしトレーニング",
-                        "text": "高い知能を満たすノーズワークパズルや、外部の音に慣れさせるトレーニングでストレス性の無駄吠えを予防します。"
-                    },
-                    {
-                        "name": "夜：ダブルコートのアンダーコート除去と関節状態の確認",
-                        "text": "豊かな被毛と密生したアンダーコートをスリッカーブラシで毎日ブラッシングし、毛玉や皮膚炎を防ぎつつ関節の歩行状態を点検します。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "シェルティにとって危険なMDR1遺伝子変異とは何ですか？",
-                        "answer": "薬物を脳外へ排出するP糖タンパク質生成遺伝子に変異が生じる現象です。変異を持つシェルティにイバーメクチン等の特定の駆虫薬やロペラミドを与えると、脳内へ薬物が侵入し神経麻痺や死亡を招く恐れがあります。遺伝子検査と獣医師への相談が不可欠です。"
-                    },
-                    {
-                        "question": "シェルティの激しい無駄吠えと換毛期の抜け毛はどう管理すればよいですか？",
-                        "answer": "牧羊犬としての欲求が満たされないと吠えやすくなります。毎日の運動と頭を使うパズル遊びでエネルギーを消費させましょう。またダブルコートのため、アンダーコートレーキを用いて週2〜3回以上奥の抜け毛を取り除くことが皮膚病予防に効果的です。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "喜乐蒂牧羊犬敏感信号解读与预防MDR1基因突变及双层毛发打结的3步日常护理",
-                "description": "忠诚聪明的喜乐蒂牧羊犬(Sheltie)。解读MDR1药物敏感性、吠叫与警戒肢体语言，提供密实双层毛发及关节护理的3步骤日常流程。",
-                "authority": "AKC (美国犬业俱乐部) 品种标准与康奈尔大学兽医学院研究数据",
-                "profile": {
-                    "breed": "喜乐蒂牧羊犬 (Shetland Sheepdog / Sheltie)",
-                    "lifespan": "12 ~ 14年",
-                    "sleep_pattern": "10 ~ 12小时（偏爱主人身旁或视野开阔的警戒位置）",
-                    "temperament": "极度聪明、忠诚、敏感、警惕性高、活泼"
-                },
-                "intro": "拥有丰满围脖与优雅姿态的喜乐蒂牧羊犬（Sheltie）源自牧羊犬种，具备极高的智力与忠诚度。然而，它们感官极其敏锐且对声音高度敏感，容易因外界刺激出现过度反应和警戒吠叫。此外，喜乐蒂存在“MDR1基因突变”的高遗传风险，服用某些驱虫药或药物时易使药物穿透脑血管屏障引发中枢神经中毒；若忽视其密实双层毛发（Double coat）的梳理，极易引发严重皮肤炎与毛发打结。本指南将为您解析喜乐蒂的SOS异常信号并提供3步护理流程。",
-                "whyTitle": "喜乐蒂牧羊犬的肢体语言：药物中毒异常信号与过度刺激警戒吠叫",
-                "whyDesc": "喜乐蒂对声音和环境变化非常敏感。耳朵向后贴紧、频繁舔嘴唇并发出尖锐连续的**“过度刺激警戒吠叫”**是极度压力与焦虑的信号。此外，在服用驱虫药或心丝虫药后出现步态蹒跚、大量流涎、精神萎靡等**“MDR1药物反应”**，则是需要立即送医救治的致命警报。",
-                "body_signals": [
-                    {
-                        "name": "服用驱虫药后步态蹒跚与大量流涎 (MDR1 Drug Toxicity Signal)",
-                        "meaning": "因MDR1基因突变导致抗寄生虫药物穿透脑血管屏障（BBB）引发中枢神经中毒的紧急状态。",
-                        "response": "确认所用药名并立即停药，送往24小时急诊宠物医院进行排毒与对症救治。"
-                    },
-                    {
-                        "name": "耳朵向后紧贴并发出尖锐连续吠叫 (Hyper-Reactivity / Alarm Barking)",
-                        "meaning": "针对微小声音或陌生刺激表达高度警惕与过度刺激压力的肢体语言。",
-                        "response": "阻断刺激源，通过“等待”指令将注意力引回主人身上，并引导至安静环境。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：定时定量给食保护关节与MDR1药物风险预检",
-                        "text": "严格控制喂食量以减轻肥胖对髌骨与髋关节的压力，并在使用驱虫药或处方药前确认MDR1基因状况。"
-                    },
-                    {
-                        "name": "中午：满足牧羊天性的益智玩具与噪音脱敏训练",
-                        "text": "提供嗅闻益智玩具消耗其高智商精力，并通过噪音脱敏训练预防应激性乱吠。"
-                    },
-                    {
-                        "name": "晚上：双层绒毛去死毛梳理与关节状态监测",
-                        "text": "每日使用针梳与排梳梳理丰厚的外毛与密实的底毛，预防毛发打结及皮肤炎，并监测关节活动度。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "什么是对喜乐蒂致命的MDR1基因突变？",
-                        "answer": "这是影响合成P-糖蛋白（负责将毒素排出大脑）的基因发生突变的现象。具有此突变的喜乐蒂若使用伊维菌素（Ivermectin）等某些驱虫药或洛哌丁胺，药物无法被阻挡在大脑外，会导致神经麻痹甚至死亡。进行基因检测及咨询兽医至关重要。"
-                    },
-                    {
-                        "question": "喜乐蒂爱乱吠和掉毛严重该如何管理？",
-                        "answer": "作为牧羊犬，精力无法释放时极易对风吹草动吠叫。每日充沛的运动结合智力游戏能有效消耗精力。双层毛发需每周使用底毛梳（Undercoat rake）深入梳理2-3次以上，清除死毛以防打结和皮肤病。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cuidado de sensibilidad y salud del Shetland Sheepdog (Sheltie): Rutina diaria de 3 pasos para seguridad con gen MDR1, control de ladridos y mantenimiento del manto doble",
-                "description": "El Shetland Sheepdog es inteligente y leal, pero propenso a la toxicidad farmacológica por gen MDR1 y nudos en su doble manto. Conozca una rutina diaria de 3 pasos.",
-                "authority": "Estándar de raza del American Kennel Club (AKC) e investigaciones del Cornell University College of Veterinary Medicine",
-                "profile": {
-                    "breed": "Shetland Sheepdog / Sheltie",
-                    "lifespan": "12 ~ 14 años",
-                    "sleep_pattern": "10 ~ 12 horas (prefiere dormir cerca del dueño o en puntos altos de observación)",
-                    "temperament": "Muy inteligente, Leal, Sensible, Alerta, Energético"
-                },
-                "intro": "Conocido por su majestuosa melena y porte elegante, el Shetland Sheepdog (Sheltie) es una raza de pastoreo de gran inteligencia y devoción. Sin embargo, sus sentidos agudos y su alta sensibilidad sonora con frecuencia desencadenan ladridos reactivos y estados de alerta. Además, presenta una alta predisposición genética a la mutación del gen MDR1, la cual permite que ciertos antiparasitarios atraviesen la barrera hematoencefálica causando neurotoxicidad grave. Por otro lado, descuidar su denso doble manto provoca nudos e irritaciones cutáneas. En esta guía, descifra sus señales de alerta y presenta una rutina de 3 pasos.",
-                "whyTitle": "Lenguaje corporal del Sheltie: Toxicidad farmacológica y ladridos por sobreestimulación",
-                "whyDesc": "Los Shelties reaccionan intensamente a los sonidos y cambios ambientales. Las orejas pegadas hacia atrás, el lamedor de hocico y los **'ladridos agudos y repetitivos'** indican sobreestimulación y estrés. Asimismo, la falta de coordinación, salivación excesiva o letargo tras tomar antiparasitarios son síntomas de **'toxicidad por gen MDR1'** que requieren atención veterinaria urgente.",
-                "body_signals": [
-                    {
-                        "name": "Tambaleo y salivación excesiva tras desparasitar (MDR1 Drug Toxicity Signal)",
-                        "meaning": "Estado de emergencia médica donde la mutación MDR1 permite que fármacos antiparasitarios crucen la barrera hematoencefálica afectando el sistema nervioso central.",
-                        "response": "Identifique el medicamento administrado, suspenda su uso inmediatamente e ingrese de urgencia al perro en un centro veterinario para desintoxicación."
-                    },
-                    {
-                        "name": "Orejas pegadas hacia atrás y ladridos agudos continuos (Hyper-Reactivity / Alarm Barking)",
-                        "meaning": "Lenguaje corporal que refleja gran alerta, sobreestimulación y estrés ante pequeños ruidos o estímulos extraños.",
-                        "response": "Bloquee la fuente del estímulo, redirija la atención del perro hacia el dueño mediante la orden 'quieto' y proporcione calma."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Control de raciones para cuidar articulaciones y verificación de MDR1",
-                        "text": "Mantenga porciones calóricas estrictas para prevenir la obesidad y la sobrecarga articular, y verifique el estado del gen MDR1 con el veterinario antes de administrar antiparasitarios."
-                    },
-                    {
-                        "name": "Tarde: Juegos mentales para el instinto de pastoreo y desensibilización sonora",
-                        "text": "Ofrezca juguetes interactivos de olfato para canalizar su inteligencia y realice entrenamiento de desensibilización al ruido para evitar ladridos por estrés."
-                    },
-                    {
-                        "name": "Noche: Cepillado del manto doble para eliminar pelo muerto y chequeo articular",
-                        "text": "Cepille el manto externo e interno diariamente con un cepillo de púas o slicker para evitar nudos y dermatitis, evaluando la movilidad articular."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Qué es la mutación del gen MDR1 en los Shelties y por qué es peligrosa?",
-                        "answer": "Es una alteración genética en la proteína P-glicoproteína, encargada de expulsar toxinas del cerebro. Si un Sheltie con esta mutación consume fármacos como ivermectina o loperamida, estos penetran en el cerebro provocando parálisis o la muerte. El test genético y la consulta veterinaria son fundamentales."
-                    },
-                    {
-                        "question": "¿Cómo controlar los ladridos excesivos y la muda intensiva del Sheltie?",
-                        "answer": "Al ser perros de pastoreo, ladran si no satisfacen su necesidad de actividad. Combine ejercicio físico diario con juegos de estimulación mental. Para la muda, utilice un rastrillo para manto interno (undercoat rake) de 2 a 3 veces por semana para remover el pelo muerto y prevenir problemas dermatológicos."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Sensibilité et santé du Shetland Sheepdog (Sheltie) : Routine quotidienne en 3 étapes pour la sécurité MDR1, le contrôle des aboiements et l'entretien du double pelage",
-                "description": "Le Shetland Sheepdog est intelligent et fidèle, mais sujet à la sensibilité médicamenteuse MDR1 et aux nœuds dans le pelage. Découvrez une routine en 3 étapes.",
-                "authority": "Normes de l'American Kennel Club (AKC) & Recherches de la Faculté de Médecine Vétérinaire de l'Université Cornell",
-                "profile": {
-                    "breed": "Shetland Sheepdog / Sheltie",
-                    "lifespan": "12 ~ 14 ans",
-                    "sleep_pattern": "10 ~ 12 heures (préfère dormir près de son maître ou sur un point d'observation)",
-                    "temperament": "Très intelligent, Fidèle, Sensible, Attentif, Énergique"
-                },
-                "intro": "Célèbre pour sa crinière fournie et son allure élégante, le Shetland Sheepdog (Sheltie) est un chien de berger doté d'une intelligence et d'une loyauté exceptionnelles. Cependant, sa grande sensibilité auditive et son hypervigilance déclenchent facilement des aboiements réactifs. De plus, la race présente un risque génétique élevé lié à la mutation du gène MDR1, qui permet à certains antiparasitaires de traverser la barrière hémato-encéphalique et d'entraîner une grave neurotoxicité. Enfin, le manque d'entretien de son dense double pelage cause des nœuds et des irritations de la peau. Dans ce guide, décrypte ses signaux et vous propose une routine en 3 étapes.",
-                "whyTitle": "Langage corporel du Sheltie : Toxicité médicamenteuse et aboiements de surstimulation",
-                "whyDesc": "Le Sheltie réagit fortement aux bruits et aux changements d'environnement. Les oreilles plaquées en arrière, le léchage des babines et les **'aboiements aigus à répétition'** traduisent un état de surstimulation et de stress. De plus, une démarche titubante, une salivation excessive ou une léthargie après un vermifuge sont des signes de **'toxicité médicamenteuse MDR1'** nécessitant une intervention d'urgence.",
-                "body_signals": [
-                    {
-                        "name": "Démarche titubante et salivation excessive après un antiparasitaire (MDR1 Drug Toxicity Signal)",
-                        "meaning": "Urgence médicale due à la mutation MDR1 laissant passer les molécules toxiques à travers la barrière hémato-encéphalique vers le système nerveux central.",
-                        "response": "Notez le médicament administré, arrêtez le traitement et emmenez immédiatement le chien en clinique vétérinaire d'urgence pour une prise en charge détoxifiante."
-                    },
-                    {
-                        "name": "Oreilles plaquées en arrière et aboiements aigus répétitifs (Hyper-Reactivity / Alarm Barking)",
-                        "meaning": "Signal corporel indiquant une grande vigilance, de l'anxiété et une surstimulation face à des bruits ou stimuli inconnus.",
-                        "response": "Isolez le chien de la source de stimulation, redirigez son attention vers vous avec un ordre 'pas bouger' et offrez-lui un cadre apaisant."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Rationnement strict pour protéger les articulations & vérification du gène MDR1",
-                        "text": "Respectez des portions précises pour éviter le surpoids et préserver les articulations, et vérifiez le statut MDR1 auprès d'un vétérinaire avant d'administrer tout médicament."
-                    },
-                    {
-                        "name": "Après-midi : Jeux de réflexion pour l'instinct de berger & désensibilisation au bruit",
-                        "text": "Proposez des tapis de fouille pour stimuler son intellect et réalisez des exercices de désensibilisation sonore pour éviter les aboiements de stress."
-                    },
-                    {
-                        "name": "Soir : Brossage du sous-poil pour le double pelage & suivi articulaire",
-                        "text": "Brossez quotidiennement le pelage de couverture et le sous-poil avec une brosse carde pour éviter les bourres de poils et la dermatite tout en contrôlant la mobilité."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Qu'est-ce que la mutation du gène MDR1 chez le Sheltie et pourquoi est-elle dangereuse ?",
-                        "answer": "C'est une anomalie de la protéine P-glycoprotéine qui élimine normalement les toxines du cerveau. Si un Sheltie porteur prend des molécules comme l'ivermectine ou le lopéramide, celles-ci pénètrent dans le cerveau, provoquant une paralysie ou le décès. Le dépistage génétique et le conseil vétérinaire sont indispensables."
-                    },
-                    {
-                        "question": "Comment gérer les aboiements intempestifs et les pertes de poils massives du Sheltie ?",
-                        "answer": "En tant que chien de berger, le Sheltie aboie s'il manque d'activité. Associez de l'exercice physique quotidien à des jeux de réflexion. Pour la mue, utilisez un râteau pour sous-poil (undercoat rake) 2 à 3 fois par semaine pour retirer les poils morts en profondeur."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Empfindlichkeit und Gesundheit des Shetland Sheepdog (Sheltie): 3-Schritte-Tagesroutine für MDR1-Gensicherheit, Bellen-Kontrolle und Doppel-Fellpflege",
-                "description": "Shetland Sheepdogs sind klug und treu, neigen jedoch zu MDR1-Arzneimittelüberempfindlichkeit und verfilztem Fell. Lernen Sie eine 3-Schritte-Routine für Training und Gesundheit kennen.",
-                "authority": "American Kennel Club (AKC) Rassestandard & Studien der Cornell University College of Veterinary Medicine",
-                "profile": {
-                    "breed": "Shetland Sheepdog / Sheltie",
-                    "lifespan": "12 ~ 14 Jahre",
-                    "sleep_pattern": "10 ~ 12 Stunden (schläft bevorzugt nahe am Halter oder an aussichtsreichen Kontrollpunkten)",
-                    "temperament": "Äußerst intelligent, Treu, Sensibel, Wachsam, Lebhaft"
-                },
-                "intro": "Berühmt für seine üppige Mähne und sein elegantes Erscheinungsbild ist der Shetland Sheepdog (Sheltie) ein Hütehund von herausragender Intelligenz und Loyalität. Seine feinen Sinne und die hohe Geräuschempfindlichkeit führen jedoch leicht zu reaktivem Bellen und Alarmverhalten. Zudem trägt die Rasse ein hohes genetisches Risiko für die MDR1-Genmutation, wodurch bestimmte Entwurmungs- und Arzneimittel die Blut-Hirn-Schranke überwinden und schwere Neurotoxizität auslösen können. Wird das dichte Doppelfell (Double Coat) vernachlässigt, entstehen rasch Verfilzungen und Hautentzündungen. Heute entschlüsselt  die Warnsignale des Shelties und stellt eine 3-Schritte-Routine vor.",
-                "whyTitle": "Körpersprache des Shelties: Arzneimittel-Toxizität und Bellen durch Überstimulation",
-                "whyDesc": "Shelties reagieren äußerst sensibel auf Geräusche und Umweltveränderungen. Nach hinten angelegte Ohren, Belecken der Lefzen und **'hohes, anhaltendes Bellen'** deuten auf Überstimulation und Stress hin. Zudem sind Torkeln, übermäßiger Speichelfluss oder Abgeschlagenheit nach der Gabe von Wurm- oder Flohmitteln Anzeichen einer **'MDR1-Arzneimitteltoxizität'**, die sofortige Notfallhilfe erfordert.",
-                "body_signals": [
-                    {
-                        "name": "Torkeln und übermäßiger Speichelfluss nach Wurmkur (MDR1 Drug Toxicity Signal)",
-                        "meaning": "Notfallzustand durch die MDR1-Mutation, bei der Wirkstoffe die Blut-Hirn-Schranke passieren und das zentrale Nervensystem vergiften.",
-                        "response": "Verabreichtes Medikament identifizieren, Gabe stoppen und den Hund umgehend in eine Notfall-Tierklinik zur Entgiftung und Behandlung bringen."
-                    },
-                    {
-                        "name": "Angelegte Ohren und schrilles, anhaltendes Bellen (Hyper-Reactivity / Alarm Barking)",
-                        "meaning": "Körpersprache, die auf hohe Wachsamkeit, Überstimulation und Stress durch leise Geräusche oder fremde Reize hinweist.",
-                        "response": "Reizquelle abschirmen, die Aufmerksamkeit des Hundes mit dem Kommando 'Bleib' auf den Halter lenken und Ruhe schaffen."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Portionierte Fütterung zum Gelenkschutz & MDR1-Medikamenten-Pre-Check",
-                        "text": "Kalorienmenge strikt einhalten, um Übergewicht und Gelenkbelastung zu vermeiden, und vor Medikamentengaben stets den MDR1-Status mit dem Tierarzt prüfen."
-                    },
-                    {
-                        "name": "Mittag: Denkspiele für den Hütetrieb & Geräusche-Desensibilisierung",
-                        "text": "Intelligenzspielzeuge und Schnüffelmatten nutzen sowie Desensibilisierungstraining durchführen, um stressbedingtes Bellen zu reduzieren."
-                    },
-                    {
-                        "name": "Abend: Unterwolle-Ausbürsten für das Doppelfell & Gelenkkontrolle",
-                        "text": "Deckhaar und dichtes Unterfell täglich mit einer Zupfbürste kämmen, um Verfilzungen und Dermatitis vorzubeugen und die Beweglichkeit zu prüfen."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Was ist die MDR1-Genmutation beim Sheltie und warum ist sie so gefährlich?",
-                        "answer": "Es handelt sich um einen Gendefekt des P-Glykoproteins, das normalerweise Giftstoffe aus dem Gehirn transportiert. Fehlt dieses Protein, gelangen Wirkstoffe wie Ivermectin oder Loperamid ins Gehirn und führen zu Lähmungen oder zum Tod. Ein Gentest und tierärztliche Beratung sind unerlässlich."
-                    },
-                    {
-                        "question": "Wie lässt sich übermäßiges Bellen und starkes Haaren beim Sheltie kontrollieren?",
-                        "answer": "Als ursprüngliche Hütehunde bellen Shelties bei Unterforderung. Tägliche körperliche und geistige Auslastung schafft Abhilfe. Gegen das Haaren sollte die dichte Unterwolle 2-3 Mal pro Woche mit einem Unterwollrechen (Undercoat Rake) gründlich ausgekämmt werden."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Sensibilidade e cuidado de saúde do Shetland Sheepdog (Sheltie): Rotina diária de 3 passos para segurança do gen MDR1, controle de latidos e manutenção da pelagem dupla",
-                "description": "O Shetland Sheepdog é inteligente e leal, mas propenso à sensibilidade a medicamentos pelo gen MDR1 e nós na pelagem dupla. Conheça uma rotina de 3 passos.",
-                "authority": "Padrão de raça do American Kennel Club (AKC) e pesquisas do Cornell University College of Veterinary Medicine",
-                "profile": {
-                    "breed": "Shetland Sheepdog / Sheltie",
-                    "lifespan": "12 ~ 14 anos",
-                    "sleep_pattern": "10 ~ 12 horas (prefere dormir perto do tutor ou em pontos altos de observação)",
-                    "temperament": "Extremamente inteligente, Leal, Sensível, Alerta, Energético"
-                },
-                "intro": "Famoso por sua juba abundante e porte elegante, o Shetland Sheepdog (Sheltie) é uma raça de pastoreio dotada de inteligência e lealdade excepcionais. Contudo, seus sentidos apurados e a alta sensibilidade sonora frequentemente provocam latidos reativos e comportamentos de alerta. Além disso, a raça possui alto risco genético para a mutação do gênio MDR1, que permite que certos antiparasitários ultrapassem a barreira hematoencefálica causando neurotoxicidade grave. O descuido com sua densa pelagem dupla resulta em nós e dermatites. Neste guia, decifra os sinais do Sheltie e apresenta uma rotina em 3 passos.",
-                "whyTitle": "Linguagem corporal do Sheltie: Toxicidade por medicamentos e latidos por sobre-estimulação",
-                "whyDesc": "Os Shelties reagem intensamente a barulhos e mudanças no ambiente. Orelhas encostadas para trás, lamber os lábios e **'latidos agudos e repetitivos'** indicam sobre-estimulação e estresse. Além disso, descoordenação, salivação excessiva ou prostração após tomar vermífugos são sinais de **'toxicidade por mutação no gen MDR1'** que exigem socorro veterinário urgente.",
-                "body_signals": [
-                    {
-                        "name": "Cambalear e salivação excessiva após vermífugo (MDR1 Drug Toxicity Signal)",
-                        "meaning": "Emergência médica em que a mutação MDR1 permite que fármacos atravessem a barreira hematoencefálica afetando o sistema nervoso central.",
-                        "response": "Identifique o medicamento administrado, interrompa o uso e leve o cão imediatamente a um hospital veterinário de emergência para desintoxicação."
-                    },
-                    {
-                        "name": "Orelhas coladas para trás e latidos agudos contínuos (Hyper-Reactivity / Alarm Barking)",
-                        "meaning": "Linguagem corporal que reflete grande alerta, estresse e sobre-estimulação diante de pequenos ruídos ou estímulos estranhos.",
-                        "response": "Bloqueie a fonte do estímulo, redirecione a atenção do cão para o tutor com o comando 'fica' e promova um ambiente calmo."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Controle de porções para proteger as articulações e verificação de MDR1",
-                        "text": "Siga quantidades rigorosas de calorias para prevenir a obesidade e sobrecarga articular, e verifique o status do gen MDR1 com o veterinário antes de administrar antiparasitários."
-                    },
-                    {
-                        "name": "Tarde: Jogos mentais para o instinto de pastoreio e dessensibilização sonora",
-                        "text": "Ofereça brinquedos de enriquecimento ambiental para canalizar sua inteligência e faça treinos de dessensibilização a ruídos para evitar latidos por estresse."
-                    },
-                    {
-                        "name": "Noite: Escovação do subpelo da pelagem dupla e monitoramento articular",
-                        "text": "Escove a pelagem externa e o subpelo diariamente com escova rasqueadeira para evitar nós e dermatites, avaliando a mobilidade das articulações."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "O que é a mutação do gênio MDR1 no Sheltie e por que é perigosa?",
-                        "answer": "É uma alteração genética na glicoproteína P, responsável por expelir toxinas do cérebro. Se um Sheltie com essa mutação consome remédios como ivermectina ou loperamida, eles penetram no cérebro provocando paralisia ou morte. Teste genético e consulta veterinária são essenciais."
-                    },
-                    {
-                        "question": "Como controlar latidos excessivos e a queda intensa de pelos do Sheltie?",
-                        "answer": "Sendo cães de pastoreio, latem quando não têm estímulo suficiente. Combine exercício físico diário com jogos de raciocínio. Para a queda, use um rastelo de subpelo (undercoat rake) 2 a 3 vezes por semana para remover os pelos mortos e evitar problemas de pele."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Perawatan Sensitivitas & Kesehatan Shetland Sheepdog (Sheltie): Rutinitas Harian 3 Langkah untuk Keamanan Gen MDR1, Kontrol Gonggongan, dan Perawatan Bulu Ganda",
-                "description": "Shetland Sheepdog cerdas dan setia, tetapi rentan terhadap sensitivitas obat gen MDR1 dan bulu ganda menggumpal. Pelajari rutinitas harian 3 langkah.",
-                "authority": "Standar Ras American Kennel Club (AKC) & Penelitian Cornell University College of Veterinary Medicine",
-                "profile": {
-                    "breed": "Shetland Sheepdog / Sheltie",
-                    "lifespan": "12 ~ 14 tahun",
-                    "sleep_pattern": "10 ~ 12 jam (menyukai tidur di dekat pemilik atau area pengawasan yang jelas)",
-                    "temperament": "Sangat Cerdas, Setia, Sensitif, Waspada, Energetik"
-                },
-                "intro": "Dikenal dengan surainya yang lebat dan penampilannya yang anggun, Shetland Sheepdog (Sheltie) adalah ras anjing penggembala yang memiliki kecerdasan dan kesetiaan luar biasa. Namun, indramu yang tajam dan sensitivitas tinggi terhadap suara sering kali memicu gonggongan reaktif dan sikap terlalu waspada. Selain itu, ras ini memiliki risiko genetis tinggi terhadap mutasi gen MDR1, yang memungkinkan obat cacing tertentu menembus penghalang darah-otak dan menyebabkan keracunan saraf parah. Pengabaian terhadap bulu ganda (Double coat) yang tebal juga dapat memicu gumpalan bulu dan iritasi kulit parah. Dalam panduan ini, mengulas sinyal bahaya Sheltie dan menyajikan rutinitas perawatan 3 langkah.",
-                "whyTitle": "Bahasa Tubuh Sheltie: Tanda Keracunan Obat dan Gonggongan Akibat Overstimulasi",
-                "whyDesc": "Sheltie bereaksi sangat kuat terhadap suara dan perubahan lingkungan. Telinga menekuk ke belakang, menjilat bibir, dan **'gonggongan melengking berulang'** menandakan overstimulasi dan stres parah. Selain itu, jalan sempoyongan, air liur berlebihan, atau lemas setelah meminum obat cacing adalah sinyal **'keracunan obat gen MDR1'** yang membutuhkan penanganan medis darurat.",
-                "body_signals": [
-                    {
-                        "name": "Jalan Sempoyongan & Air Liur Berlebihan Setelah Obat Cacing (MDR1 Drug Toxicity Signal)",
-                        "meaning": "Kondisi darurat medis akibat mutasi gen MDR1 yang membiarkan zat obat antiparasit menembus penghalang darah-otak ke sistem saraf pusat.",
-                        "response": "Segera identifikasi obat yang diberikan, hentikan penggunaan, dan bawa anjing ke rumah sakit hewan darurat untuk detoksifikasi dan perawatan."
-                    },
-                    {
-                        "name": "Telinga Menekuk ke Belakang & Gonggongan Melengking Berulang (Hyper-Reactivity / Alarm Barking)",
-                        "meaning": "Bahasa tubuh yang menunjukkan kewaspadaan tinggi, overstimulasi, dan stres akibat suara kecil atau stimulasi asing.",
-                        "response": "Blokir sumber pemicu, alihkan perhatian anjing ke pemilik dengan perintah 'diam/tunggu', dan ciptakan suasana tenang."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Kontrol Porsi Makan Ketat untuk Sendi & Pemeriksaan Risiko Obat MDR1",
-                        "text": "Patuhi porsi kalori ketat untuk mencegah obesitas dan beban sendi, serta selalu periksa status gen MDR1 dengan dokter hewan sebelum memberikan obat cacing atau obat resep."
-                    },
-                    {
-                        "name": "Siang: Permainan Puzzle Asah Otak untuk Naluri Penggembala & Desensitisasi Suara",
-                        "text": "Sediakan permainan puzzle hidung untuk menyalurkan kecerdasannya dan lakukan latihan desensitisasi suara untuk mencegah gonggongan akibat stres."
-                    },
-                    {
-                        "name": "Malam: Menyikat Bulu Halus (Undercoat) & Pemantauan Kesehatan Sendi",
-                        "text": "Sikat bulu luar dan bulu halus dalam setiap hari dengan sikat slicker untuk mencegah penggumpalan dan dermatitis sambil memantau fleksibilitas sendi."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apa itu mutasi gen MDR1 pada Sheltie dan mengapa sangat berbahaya?",
-                        "answer": "Ini adalah kelainan genetik pada P-glikoprotein yang bertugas membuang racun keluar dari otak. Jika Sheltie dengan mutasi ini mengonsumsi obat seperti Ivermectin atau Loperamide, obat masuk ke otak dan menyebabkan kelumpuhan hingga kematian. Tes genetik dan konsultasi dokter hewan sangat wajib."
-                    },
-                    {
-                        "question": "Bagaimana cara mengatasi gonggongan berlebihan dan bulu rontok parah pada Sheltie?",
-                        "answer": "Sebagai anjing penggembala, Sheltie akan menggonggong jika kurang mendapat stimulasi. Kombinasikan olahraga harian dengan permainan mental. Untuk bulu rontok, gunakan sisir khusus undercoat (undercoat rake) 2-3 kali seminggu untuk membuang bulu mati di bagian dalam agar tidak menggumpal."
-                    }
-                ]
-            }
+  "shetland-sheepdog-care": {
+    "pubDate": "2026-07-18",
+    "updatedDate": "2026-07-18",
+    "locales": {
+      "ko": {
+        "title": "셔틀랜드 시프도그(셀티)의 민감성 신호 해석과 MDR1 유전 변이·이중모 엉킴 예방을 위한 3단계 데일리 케어",
+        "description": "충직하고 똑똑한 셔틀랜드 시프도그(Shetland Sheepdog/Sheltie). MDR1 약물 민감성, 짖음·경계 바디 랭귀지 해독, 빽빽한 이중모 및 관절 관리를 위한 3단계 홈케어 루틴을 소개합니다.",
+        "authority": "American Kennel Club (AKC) Breed Standard & Cornell University College of Veterinary Medicine Research",
+        "profile": {
+          "breed": "셔틀랜드 시프도그 / 셀티 (Shetland Sheepdog / Sheltie)",
+          "lifespan": "12 ~ 14년",
+          "sleep_pattern": "10 ~ 12시간 (보호자 옆이나 경계하기 좋은 높은 명당 선호)",
+          "temperament": "극도로 똑똑함, 충성스러움, 민감함, 경계심 높음, 활발함"
         },
-        "heroImage": "/images/blog/shetland_sheepdog_care.webp"
-    }
+        "intro": "풍성한 갈기와 우아한 외모를 자랑하는 셔틀랜드 시프도그(Shetland Sheepdog), 일명 '셀티(Sheltie)'는 목양견 출신답게 매우 뛰어난 지능과 높은 충성심을 가진 품종입니다. 그러나 감각이 매우 예리하고 소리에 민감하여 작은 자극에도 쉽게 반응하고 헛짖음이나 경계 행동을 보이기 쉽습니다. 또한 셀티 품종은 특정 구충제나 약물 복용 시 뇌로 약물이 침투해 중독 증상을 일으키는 'MDR1(유전자 변이)' 유전적 위험이 높으며, 풍성한 이중모(Double coat) 관리를 소홀히 하면 심각한 피부염과 털 엉킴이 발생합니다. 이번 가이드에서는 셀티의 스트레스 및 약물 이상 신호를 진단하고 건강을 지키는 3단계 케어 루틴을 소개합니다.",
+        "whyTitle": "셔틀랜드 시프도그의 바디 랭귀지: 약물 중독 이상 신호와 과자극 경계 짖음",
+        "whyDesc": "셀티는 소리와 환경 변화에 매우 민감하게 반응합니다. 외부 자극에 대해 귀를 뒤로 밀착하고 입술을 핥으며 날카롭게 연속으로 짖는 **'과자극 경계 짖음'**은 극심한 스트레스 및 불안 신호입니다. 또한 구충제나 심장사상충 약 복용 후 몸을 비틀거리거나 침을 흘리고 둔해지는 **'MDR1 약물 반응'**은 즉각적인 응급 처치가 필요한 치명적인 신호입니다.",
+        "body_signals": [
+          {
+            "name": "구충제 복용 후 비틀거림 및 과도한 침 흘림 (MDR1 Drug Toxicity Signal)",
+            "meaning": "MDR1 유전 변이로 인해 약물이 뇌혈관 장벽(BBB)을 통과하여 중추신경계 중독을 일으킬 때 나타나는 응급 상태입니다.",
+            "response": "투여한 약물을 즉시 확인하고 투여를 중단한 뒤, 24시간 동물병원 응급실로 이송하여 약물 배출 및 진정·대응 처치를 받아야 합니다."
+          },
+          {
+            "name": "귀를 뒤로 밀착하고 날카롭게 연속 짖음 (Hyper-Reactivity / Alarm Barking)",
+            "meaning": "작은 소리나 낯선 자극에 대해 심각한 경계와 과자극 스트레스를 느끼고 있음을 나타내는 바디 랭귀지입니다.",
+            "response": "자극 원인을 즉시 차단하고 '기다려' 명령으로 시선을 보호자에게 돌린 후, 시각·청각적으로 안정된 공간으로 유도합니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 정량 급식과 관절 보호 및 MDR1 위험 약물 사전 체크",
+            "text": "비만으로 인한 슬개골 및 고관절 부담을 줄이기 위해 칼로리 정량 공급을 준수하고, 구충제 및 처방약 투여 전 반드시 MDR1 변이 유무를 수의사와 확인합니다."
+          },
+          {
+            "name": "낮: 목양 본능 해소를 위한 지능 퍼즐 및 소음 탈감작 훈련",
+            "text": "높은 지능을 충족시키는 노즈워크 퍼즐 게임과 외부 소음에 의연해지는 둔감화 훈련을 병행하여 스트레스성 헛짖음을 예방합니다."
+          },
+          {
+            "name": "저녁: 이중모 죽은 털 제거 빗질 및 관절 모니터링",
+            "text": "풍성한 겉털과 빽빽한 속털을 슬리커 및 핀 브러시로 매일 빗어주어 털 엉킴과 핑거 피부염을 예방하고 보행 시 관절 상태를 점검합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "셀티에게 치명적인 MDR1 유전자 변이란 무엇인가요?",
+            "answer": "약물을 뇌 밖으로 배출하는 P-당단백질(P-glycoprotein) 형성 유전에 변이가 생기는 현상입니다. 이 변이가 있는 셀티에게 이버멕틴(Ivermectin) 등의 특정 구충제나 로페라마이드 등을 투여하면 뇌로 약물이 쉽게 침투해 신경 마비나 사망에 이를 수 있습니다. 사전 유전자 검사와 수의사 상담이 필수적입니다."
+          },
+          {
+            "question": "셀티의 심한 헛짖음과 이중모 털 빠짐은 어떻게 관리해야 하나요?",
+            "answer": "셀티는 목양견 출신으로 욕구가 해소되지 않으면 작은 소리에도 짖기 쉽습니다. 매일 산책과 뇌를 쓰는 지능 놀이로 에너지를 충분히 소비시켜야 합니다. 또한 빽빽한 이중모 구조이므로 언더코트 렉(속털 전용 빗)을 사용해 주 2~3회 이상 속털까지 깊이 빗어줘야 털 뭉침과 피부 질환을 방지할 수 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Sheltie Sensitivity & Health Care: A 3-Step Daily Routine for MDR1 Gene Safety, Barking Control, and Double-Coat Maintenance",
+        "description": "Shetland Sheepdogs are highly intelligent and loyal, but prone to MDR1 drug toxicity and double coat matting. Learn a 3-step daily routine for health, grooming, and training.",
+        "authority": "American Kennel Club (AKC) Breed Standard & Cornell University College of Veterinary Medicine Research",
+        "profile": {
+          "breed": "Shetland Sheepdog / Sheltie",
+          "lifespan": "12 - 14 Years",
+          "sleep_pattern": "10 - 12 Hours (Prefers sleeping near owners or at vantage points for alertness)",
+          "temperament": "Highly Intelligent, Loyal, Sensitive, Alert, Energetic"
+        },
+        "intro": "Renowned for their lush mane and elegant coat, the Shetland Sheepdog (or Sheltie) is a working herding breed boasting incredible intelligence and devotion. However, their acute senses and high noise sensitivity often trigger reactive barking and alarm behaviors. Furthermore, Shelties carry a high genetic risk for the MDR1 gene mutation, which allows certain antiparasitic medications to cross the blood-brain barrier and cause severe neurotoxicity. In addition, neglecting their dense double coat can cause severe skin irritation and matted fur. In this guide, decodes Sheltie distress signals and outlines a 3-step daily care routine.",
+        "whyTitle": "Sheltie Body Language: Drug Toxicity Warnings and Overstimulation Barking",
+        "whyDesc": "Shelties react strongly to environmental sounds and changes. Pinned-back ears, lip-licking, and sharp, repetitive barking indicate severe overstimulation and distress. Additionally, staggering, drooling, or lethargy after taking flea or deworming medications are critical signs of an MDR1 drug toxicity reaction requiring immediate emergency care.",
+        "body_signals": [
+          {
+            "name": "Staggering & Excessive Drooling After Deworming (MDR1 Drug Toxicity Signal)",
+            "meaning": "An emergency medical condition caused by the MDR1 mutation allowing antiparasitic drugs past the blood-brain barrier into the central nervous system.",
+            "response": "Identify the administered medication immediately, stop usage, and transport the dog to an emergency veterinary clinic for detoxification and supportive care."
+          },
+          {
+            "name": "Pinned-Back Ears & Sharp Repetitive Barking (Hyper-Reactivity / Alarm Barking)",
+            "meaning": "Body language indicating severe stress, high alertness, and overstimulation from subtle sounds or unfamiliar stimuli.",
+            "response": "Block the triggering stimulus immediately, redirect the dog's focus to the owner with a 'stay' command, and guide them to a calm environment."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Portioned Feeding for Joint Protection & Pre-Medication MDR1 Check",
+            "text": "Follow strict caloric portions to prevent obesity and joint strain, and always verify the MDR1 mutation status with a veterinarian before administering dewormers or prescription medications."
+          },
+          {
+            "name": "Afternoon: Mental Puzzle Games for Herding Instincts & Sound Desensitization",
+            "text": "Provide nosework puzzle games to satisfy their high intellect and conduct noise desensitization training to prevent stress-induced reactive barking."
+          },
+          {
+            "name": "Evening: Undercoat Brushing for Double Coat Care & Joint Monitoring",
+            "text": "Brush both outer and undercoats daily with slicker and pin brushes to prevent matting and skin dermatitis while checking joint mobility during movement."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "What is the MDR1 gene mutation in Shelties, and why is it dangerous?",
+            "answer": "It is a genetic defect affecting P-glycoprotein, which normally pumps harmful substances out of the brain. When a Sheltie with this mutation takes drugs like Ivermectin or Loperamide, the medication crosses into the brain, causing paralysis, seizures, or fatal neurotoxicity. DNA testing and vet consultation are essential."
+          },
+          {
+            "question": "How can I manage excessive barking and heavy shedding in a Sheltie?",
+            "answer": "As former herding dogs, Shelties bark when under-stimulated. Daily physical exercise combined with mental puzzle games exhausts their energy. For heavy shedding, brush their dense undercoat 2-3 times a week using an undercoat rake to remove dead fur and prevent skin infections."
+          }
+        ]
+      },
+      "ja": {
+        "title": "シェットランド・シープドッグ（シェルティ）の過敏サイン解読とMDR1遺伝子変異・ダブルコート絡まり予防の日常3段階ルーティン",
+        "description": "忠実で賢いシェットランド・シープドッグ（シェルティ）。MDR1薬物過敏症、無駄吠え・警戒ボディランゲージの解読、密生したダブルコートと関節ケアの3ステップを紹介します。",
+        "authority": "AKC（アメリカンケネルクラブ）品種標準およびコーネル大学獣医学部研究データ",
+        "profile": {
+          "breed": "シェットランド・シープドッグ / シェルティ (Shetland Sheepdog / Sheltie)",
+          "lifespan": "12 〜 14年",
+          "sleep_pattern": "10 〜 12時間（飼い主のそばや見渡しの良い場所を好む）",
+          "temperament": "極めて賢い、忠実、繊細・過敏、警戒心が強い、活発"
+        },
+        "intro": "豊かなたてがみと優雅な姿を誇るシェットランド・シープドッグ（シェルティ）は、牧羊犬由来の優れた知能と高い忠誠心を持つ犬種です。しかし、非常に感覚が鋭く音に敏感なため、外部の刺激に過剰反応して無駄吠えや警戒行動を起こしやすい傾向があります。また、シェルティは特定の駆虫薬などで脳に薬物が到達して中毒を引き起こす「MDR1遺伝子変異」のリスクが高く、密生したダブルコート（被毛）のケアを怠ると深刻な皮膚炎を起こします。本記事では、シェルティのSOSサインと健康を守る3段階ルーティンを紹介します。",
+        "whyTitle": "シェットランド・シープドッグのボディランゲージ：薬物中毒の警告サインと過刺激による警戒吠え",
+        "whyDesc": "シェルティは音や環境の変化に非常に敏感です。耳を後ろに伏せ、口元を舐めながら甲高い声で連続して吠える**「過刺激警戒吠え」**は強いストレスと不安のサインです。また、駆虫薬やフィラリア予防薬の投与後にふらつき、よだれを垂らし、ぐったりする**「MDR1薬物反応」**は直ちに緊急治療が必要な危険信号です。",
+        "body_signals": [
+          {
+            "name": "駆虫薬投与後のふらつき・過剰なよだれ (MDR1 Drug Toxicity Signal)",
+            "meaning": "MDR1遺伝子変異により、薬物が血液脳関門（BBB）を通過して中枢神経中毒を引き起こしている緊急状態です。",
+            "response": "投与した薬物を確認して直ちに使用を中止し、救急動物病院へ搬送して薬物排出や処置を受けてください。"
+          },
+          {
+            "name": "耳を後ろに伏せて甲高く連続して吠える (Hyper-Reactivity / Alarm Barking)",
+            "meaning": "物音や見知らぬ刺激に対し、強い警戒と過刺激によるストレスを感じているボディランゲージです。",
+            "response": "刺激の原因を遮断し、「マテ」の指示で意識を飼い主に向けさせ、落ち着ける環境へ誘導します。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：関節保護のための定量給餌とMDR1危険薬物の事前確認",
+            "text": "肥満による膝蓋骨・股関節への負担を減らすため給餌量を厳守し、駆虫薬等の投与前に必ずMDR1変異の有無を獣医師と確認します。"
+          },
+          {
+            "name": "昼：牧羊本能を満たす知育パズルと騒音慣らしトレーニング",
+            "text": "高い知能を満たすノーズワークパズルや、外部の音に慣れさせるトレーニングでストレス性の無駄吠えを予防します。"
+          },
+          {
+            "name": "夜：ダブルコートのアンダーコート除去と関節状態の確認",
+            "text": "豊かな被毛と密生したアンダーコートをスリッカーブラシで毎日ブラッシングし、毛玉や皮膚炎を防ぎつつ関節の歩行状態を点検します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "シェルティにとって危険なMDR1遺伝子変異とは何ですか？",
+            "answer": "薬物を脳外へ排出するP糖タンパク質生成遺伝子に変異が生じる現象です。変異を持つシェルティにイバーメクチン等の特定の駆虫薬やロペラミドを与えると、脳内へ薬物が侵入し神経麻痺や死亡を招く恐れがあります。遺伝子検査と獣医師への相談が不可欠です。"
+          },
+          {
+            "question": "シェルティの激しい無駄吠えと換毛期の抜け毛はどう管理すればよいですか？",
+            "answer": "牧羊犬としての欲求が満たされないと吠えやすくなります。毎日の運動と頭を使うパズル遊びでエネルギーを消費させましょう。またダブルコートのため、アンダーコートレーキを用いて週2〜3回以上奥の抜け毛を取り除くことが皮膚病予防に効果的です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "喜乐蒂牧羊犬敏感信号解读与预防MDR1基因突变及双层毛发打结的3步日常护理",
+        "description": "忠诚聪明的喜乐蒂牧羊犬(Sheltie)。解读MDR1药物敏感性、吠叫与警戒肢体语言，提供密实双层毛发及关节护理的3步骤日常流程。",
+        "authority": "AKC (美国犬业俱乐部) 品种标准与康奈尔大学兽医学院研究数据",
+        "profile": {
+          "breed": "喜乐蒂牧羊犬 (Shetland Sheepdog / Sheltie)",
+          "lifespan": "12 ~ 14年",
+          "sleep_pattern": "10 ~ 12小时（偏爱主人身旁或视野开阔的警戒位置）",
+          "temperament": "极度聪明、忠诚、敏感、警惕性高、活泼"
+        },
+        "intro": "拥有丰满围脖与优雅姿态的喜乐蒂牧羊犬（Sheltie）源自牧羊犬种，具备极高的智力与忠诚度。然而，它们感官极其敏锐且对声音高度敏感，容易因外界刺激出现过度反应和警戒吠叫。此外，喜乐蒂存在“MDR1基因突变”的高遗传风险，服用某些驱虫药或药物时易使药物穿透脑血管屏障引发中枢神经中毒；若忽视其密实双层毛发（Double coat）的梳理，极易引发严重皮肤炎与毛发打结。本指南将为您解析喜乐蒂的SOS异常信号并提供3步护理流程。",
+        "whyTitle": "喜乐蒂牧羊犬的肢体语言：药物中毒异常信号与过度刺激警戒吠叫",
+        "whyDesc": "喜乐蒂对声音和环境变化非常敏感。耳朵向后贴紧、频繁舔嘴唇并发出尖锐连续的**“过度刺激警戒吠叫”**是极度压力与焦虑的信号。此外，在服用驱虫药或心丝虫药后出现步态蹒跚、大量流涎、精神萎靡等**“MDR1药物反应”**，则是需要立即送医救治的致命警报。",
+        "body_signals": [
+          {
+            "name": "服用驱虫药后步态蹒跚与大量流涎 (MDR1 Drug Toxicity Signal)",
+            "meaning": "因MDR1基因突变导致抗寄生虫药物穿透脑血管屏障（BBB）引发中枢神经中毒的紧急状态。",
+            "response": "确认所用药名并立即停药，送往24小时急诊宠物医院进行排毒与对症救治。"
+          },
+          {
+            "name": "耳朵向后紧贴并发出尖锐连续吠叫 (Hyper-Reactivity / Alarm Barking)",
+            "meaning": "针对微小声音或陌生刺激表达高度警惕与过度刺激压力的肢体语言。",
+            "response": "阻断刺激源，通过“等待”指令将注意力引回主人身上，并引导至安静环境。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：定时定量给食保护关节与MDR1药物风险预检",
+            "text": "严格控制喂食量以减轻肥胖对髌骨与髋关节的压力，并在使用驱虫药或处方药前确认MDR1基因状况。"
+          },
+          {
+            "name": "中午：满足牧羊天性的益智玩具与噪音脱敏训练",
+            "text": "提供嗅闻益智玩具消耗其高智商精力，并通过噪音脱敏训练预防应激性乱吠。"
+          },
+          {
+            "name": "晚上：双层绒毛去死毛梳理与关节状态监测",
+            "text": "每日使用针梳与排梳梳理丰厚的外毛与密实的底毛，预防毛发打结及皮肤炎，并监测关节活动度。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "什么是对喜乐蒂致命的MDR1基因突变？",
+            "answer": "这是影响合成P-糖蛋白（负责将毒素排出大脑）的基因发生突变的现象。具有此突变的喜乐蒂若使用伊维菌素（Ivermectin）等某些驱虫药或洛哌丁胺，药物无法被阻挡在大脑外，会导致神经麻痹甚至死亡。进行基因检测及咨询兽医至关重要。"
+          },
+          {
+            "question": "喜乐蒂爱乱吠和掉毛严重该如何管理？",
+            "answer": "作为牧羊犬，精力无法释放时极易对风吹草动吠叫。每日充沛的运动结合智力游戏能有效消耗精力。双层毛发需每周使用底毛梳（Undercoat rake）深入梳理2-3次以上，清除死毛以防打结和皮肤病。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cuidado de sensibilidad y salud del Shetland Sheepdog (Sheltie): Rutina diaria de 3 pasos para seguridad con gen MDR1, control de ladridos y mantenimiento del manto doble",
+        "description": "El Shetland Sheepdog es inteligente y leal, pero propenso a la toxicidad farmacológica por gen MDR1 y nudos en su doble manto. Conozca una rutina diaria de 3 pasos.",
+        "authority": "Estándar de raza del American Kennel Club (AKC) e investigaciones del Cornell University College of Veterinary Medicine",
+        "profile": {
+          "breed": "Shetland Sheepdog / Sheltie",
+          "lifespan": "12 ~ 14 años",
+          "sleep_pattern": "10 ~ 12 horas (prefiere dormir cerca del dueño o en puntos altos de observación)",
+          "temperament": "Muy inteligente, Leal, Sensible, Alerta, Energético"
+        },
+        "intro": "Conocido por su majestuosa melena y porte elegante, el Shetland Sheepdog (Sheltie) es una raza de pastoreo de gran inteligencia y devoción. Sin embargo, sus sentidos agudos y su alta sensibilidad sonora con frecuencia desencadenan ladridos reactivos y estados de alerta. Además, presenta una alta predisposición genética a la mutación del gen MDR1, la cual permite que ciertos antiparasitarios atraviesen la barrera hematoencefálica causando neurotoxicidad grave. Por otro lado, descuidar su denso doble manto provoca nudos e irritaciones cutáneas. En esta guía, descifra sus señales de alerta y presenta una rutina de 3 pasos.",
+        "whyTitle": "Lenguaje corporal del Sheltie: Toxicidad farmacológica y ladridos por sobreestimulación",
+        "whyDesc": "Los Shelties reaccionan intensamente a los sonidos y cambios ambientales. Las orejas pegadas hacia atrás, el lamedor de hocico y los **'ladridos agudos y repetitivos'** indican sobreestimulación y estrés. Asimismo, la falta de coordinación, salivación excesiva o letargo tras tomar antiparasitarios son síntomas de **'toxicidad por gen MDR1'** que requieren atención veterinaria urgente.",
+        "body_signals": [
+          {
+            "name": "Tambaleo y salivación excesiva tras desparasitar (MDR1 Drug Toxicity Signal)",
+            "meaning": "Estado de emergencia médica donde la mutación MDR1 permite que fármacos antiparasitarios crucen la barrera hematoencefálica afectando el sistema nervioso central.",
+            "response": "Identifique el medicamento administrado, suspenda su uso inmediatamente e ingrese de urgencia al perro en un centro veterinario para desintoxicación."
+          },
+          {
+            "name": "Orejas pegadas hacia atrás y ladridos agudos continuos (Hyper-Reactivity / Alarm Barking)",
+            "meaning": "Lenguaje corporal que refleja gran alerta, sobreestimulación y estrés ante pequeños ruidos o estímulos extraños.",
+            "response": "Bloquee la fuente del estímulo, redirija la atención del perro hacia el dueño mediante la orden 'quieto' y proporcione calma."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Control de raciones para cuidar articulaciones y verificación de MDR1",
+            "text": "Mantenga porciones calóricas estrictas para prevenir la obesidad y la sobrecarga articular, y verifique el estado del gen MDR1 con el veterinario antes de administrar antiparasitarios."
+          },
+          {
+            "name": "Tarde: Juegos mentales para el instinto de pastoreo y desensibilización sonora",
+            "text": "Ofrezca juguetes interactivos de olfato para canalizar su inteligencia y realice entrenamiento de desensibilización al ruido para evitar ladridos por estrés."
+          },
+          {
+            "name": "Noche: Cepillado del manto doble para eliminar pelo muerto y chequeo articular",
+            "text": "Cepille el manto externo e interno diariamente con un cepillo de púas o slicker para evitar nudos y dermatitis, evaluando la movilidad articular."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Qué es la mutación del gen MDR1 en los Shelties y por qué es peligrosa?",
+            "answer": "Es una alteración genética en la proteína P-glicoproteína, encargada de expulsar toxinas del cerebro. Si un Sheltie con esta mutación consume fármacos como ivermectina o loperamida, estos penetran en el cerebro provocando parálisis o la muerte. El test genético y la consulta veterinaria son fundamentales."
+          },
+          {
+            "question": "¿Cómo controlar los ladridos excesivos y la muda intensiva del Sheltie?",
+            "answer": "Al ser perros de pastoreo, ladran si no satisfacen su necesidad de actividad. Combine ejercicio físico diario con juegos de estimulación mental. Para la muda, utilice un rastrillo para manto interno (undercoat rake) de 2 a 3 veces por semana para remover el pelo muerto y prevenir problemas dermatológicos."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Sensibilité et santé du Shetland Sheepdog (Sheltie) : Routine quotidienne en 3 étapes pour la sécurité MDR1, le contrôle des aboiements et l'entretien du double pelage",
+        "description": "Le Shetland Sheepdog est intelligent et fidèle, mais sujet à la sensibilité médicamenteuse MDR1 et aux nœuds dans le pelage. Découvrez une routine en 3 étapes.",
+        "authority": "Normes de l'American Kennel Club (AKC) & Recherches de la Faculté de Médecine Vétérinaire de l'Université Cornell",
+        "profile": {
+          "breed": "Shetland Sheepdog / Sheltie",
+          "lifespan": "12 ~ 14 ans",
+          "sleep_pattern": "10 ~ 12 heures (préfère dormir près de son maître ou sur un point d'observation)",
+          "temperament": "Très intelligent, Fidèle, Sensible, Attentif, Énergique"
+        },
+        "intro": "Célèbre pour sa crinière fournie et son allure élégante, le Shetland Sheepdog (Sheltie) est un chien de berger doté d'une intelligence et d'une loyauté exceptionnelles. Cependant, sa grande sensibilité auditive et son hypervigilance déclenchent facilement des aboiements réactifs. De plus, la race présente un risque génétique élevé lié à la mutation du gène MDR1, qui permet à certains antiparasitaires de traverser la barrière hémato-encéphalique et d'entraîner une grave neurotoxicité. Enfin, le manque d'entretien de son dense double pelage cause des nœuds et des irritations de la peau. Dans ce guide, décrypte ses signaux et vous propose une routine en 3 étapes.",
+        "whyTitle": "Langage corporel du Sheltie : Toxicité médicamenteuse et aboiements de surstimulation",
+        "whyDesc": "Le Sheltie réagit fortement aux bruits et aux changements d'environnement. Les oreilles plaquées en arrière, le léchage des babines et les **'aboiements aigus à répétition'** traduisent un état de surstimulation et de stress. De plus, une démarche titubante, une salivation excessive ou une léthargie après un vermifuge sont des signes de **'toxicité médicamenteuse MDR1'** nécessitant une intervention d'urgence.",
+        "body_signals": [
+          {
+            "name": "Démarche titubante et salivation excessive après un antiparasitaire (MDR1 Drug Toxicity Signal)",
+            "meaning": "Urgence médicale due à la mutation MDR1 laissant passer les molécules toxiques à travers la barrière hémato-encéphalique vers le système nerveux central.",
+            "response": "Notez le médicament administré, arrêtez le traitement et emmenez immédiatement le chien en clinique vétérinaire d'urgence pour une prise en charge détoxifiante."
+          },
+          {
+            "name": "Oreilles plaquées en arrière et aboiements aigus répétitifs (Hyper-Reactivity / Alarm Barking)",
+            "meaning": "Signal corporel indiquant une grande vigilance, de l'anxiété et une surstimulation face à des bruits ou stimuli inconnus.",
+            "response": "Isolez le chien de la source de stimulation, redirigez son attention vers vous avec un ordre 'pas bouger' et offrez-lui un cadre apaisant."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Rationnement strict pour protéger les articulations & vérification du gène MDR1",
+            "text": "Respectez des portions précises pour éviter le surpoids et préserver les articulations, et vérifiez le statut MDR1 auprès d'un vétérinaire avant d'administrer tout médicament."
+          },
+          {
+            "name": "Après-midi : Jeux de réflexion pour l'instinct de berger & désensibilisation au bruit",
+            "text": "Proposez des tapis de fouille pour stimuler son intellect et réalisez des exercices de désensibilisation sonore pour éviter les aboiements de stress."
+          },
+          {
+            "name": "Soir : Brossage du sous-poil pour le double pelage & suivi articulaire",
+            "text": "Brossez quotidiennement le pelage de couverture et le sous-poil avec une brosse carde pour éviter les bourres de poils et la dermatite tout en contrôlant la mobilité."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Qu'est-ce que la mutation du gène MDR1 chez le Sheltie et pourquoi est-elle dangereuse ?",
+            "answer": "C'est une anomalie de la protéine P-glycoprotéine qui élimine normalement les toxines du cerveau. Si un Sheltie porteur prend des molécules comme l'ivermectine ou le lopéramide, celles-ci pénètrent dans le cerveau, provoquant une paralysie ou le décès. Le dépistage génétique et le conseil vétérinaire sont indispensables."
+          },
+          {
+            "question": "Comment gérer les aboiements intempestifs et les pertes de poils massives du Sheltie ?",
+            "answer": "En tant que chien de berger, le Sheltie aboie s'il manque d'activité. Associez de l'exercice physique quotidien à des jeux de réflexion. Pour la mue, utilisez un râteau pour sous-poil (undercoat rake) 2 à 3 fois par semaine pour retirer les poils morts en profondeur."
+          }
+        ]
+      },
+      "de": {
+        "title": "Empfindlichkeit und Gesundheit des Shetland Sheepdog (Sheltie): 3-Schritte-Tagesroutine für MDR1-Gensicherheit, Bellen-Kontrolle und Doppel-Fellpflege",
+        "description": "Shetland Sheepdogs sind klug und treu, neigen jedoch zu MDR1-Arzneimittelüberempfindlichkeit und verfilztem Fell. Lernen Sie eine 3-Schritte-Routine für Training und Gesundheit kennen.",
+        "authority": "American Kennel Club (AKC) Rassestandard & Studien der Cornell University College of Veterinary Medicine",
+        "profile": {
+          "breed": "Shetland Sheepdog / Sheltie",
+          "lifespan": "12 ~ 14 Jahre",
+          "sleep_pattern": "10 ~ 12 Stunden (schläft bevorzugt nahe am Halter oder an aussichtsreichen Kontrollpunkten)",
+          "temperament": "Äußerst intelligent, Treu, Sensibel, Wachsam, Lebhaft"
+        },
+        "intro": "Berühmt für seine üppige Mähne und sein elegantes Erscheinungsbild ist der Shetland Sheepdog (Sheltie) ein Hütehund von herausragender Intelligenz und Loyalität. Seine feinen Sinne und die hohe Geräuschempfindlichkeit führen jedoch leicht zu reaktivem Bellen und Alarmverhalten. Zudem trägt die Rasse ein hohes genetisches Risiko für die MDR1-Genmutation, wodurch bestimmte Entwurmungs- und Arzneimittel die Blut-Hirn-Schranke überwinden und schwere Neurotoxizität auslösen können. Wird das dichte Doppelfell (Double Coat) vernachlässigt, entstehen rasch Verfilzungen und Hautentzündungen. Heute entschlüsselt  die Warnsignale des Shelties und stellt eine 3-Schritte-Routine vor.",
+        "whyTitle": "Körpersprache des Shelties: Arzneimittel-Toxizität und Bellen durch Überstimulation",
+        "whyDesc": "Shelties reagieren äußerst sensibel auf Geräusche und Umweltveränderungen. Nach hinten angelegte Ohren, Belecken der Lefzen und **'hohes, anhaltendes Bellen'** deuten auf Überstimulation und Stress hin. Zudem sind Torkeln, übermäßiger Speichelfluss oder Abgeschlagenheit nach der Gabe von Wurm- oder Flohmitteln Anzeichen einer **'MDR1-Arzneimitteltoxizität'**, die sofortige Notfallhilfe erfordert.",
+        "body_signals": [
+          {
+            "name": "Torkeln und übermäßiger Speichelfluss nach Wurmkur (MDR1 Drug Toxicity Signal)",
+            "meaning": "Notfallzustand durch die MDR1-Mutation, bei der Wirkstoffe die Blut-Hirn-Schranke passieren und das zentrale Nervensystem vergiften.",
+            "response": "Verabreichtes Medikament identifizieren, Gabe stoppen und den Hund umgehend in eine Notfall-Tierklinik zur Entgiftung und Behandlung bringen."
+          },
+          {
+            "name": "Angelegte Ohren und schrilles, anhaltendes Bellen (Hyper-Reactivity / Alarm Barking)",
+            "meaning": "Körpersprache, die auf hohe Wachsamkeit, Überstimulation und Stress durch leise Geräusche oder fremde Reize hinweist.",
+            "response": "Reizquelle abschirmen, die Aufmerksamkeit des Hundes mit dem Kommando 'Bleib' auf den Halter lenken und Ruhe schaffen."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Portionierte Fütterung zum Gelenkschutz & MDR1-Medikamenten-Pre-Check",
+            "text": "Kalorienmenge strikt einhalten, um Übergewicht und Gelenkbelastung zu vermeiden, und vor Medikamentengaben stets den MDR1-Status mit dem Tierarzt prüfen."
+          },
+          {
+            "name": "Mittag: Denkspiele für den Hütetrieb & Geräusche-Desensibilisierung",
+            "text": "Intelligenzspielzeuge und Schnüffelmatten nutzen sowie Desensibilisierungstraining durchführen, um stressbedingtes Bellen zu reduzieren."
+          },
+          {
+            "name": "Abend: Unterwolle-Ausbürsten für das Doppelfell & Gelenkkontrolle",
+            "text": "Deckhaar und dichtes Unterfell täglich mit einer Zupfbürste kämmen, um Verfilzungen und Dermatitis vorzubeugen und die Beweglichkeit zu prüfen."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Was ist die MDR1-Genmutation beim Sheltie und warum ist sie so gefährlich?",
+            "answer": "Es handelt sich um einen Gendefekt des P-Glykoproteins, das normalerweise Giftstoffe aus dem Gehirn transportiert. Fehlt dieses Protein, gelangen Wirkstoffe wie Ivermectin oder Loperamid ins Gehirn und führen zu Lähmungen oder zum Tod. Ein Gentest und tierärztliche Beratung sind unerlässlich."
+          },
+          {
+            "question": "Wie lässt sich übermäßiges Bellen und starkes Haaren beim Sheltie kontrollieren?",
+            "answer": "Als ursprüngliche Hütehunde bellen Shelties bei Unterforderung. Tägliche körperliche und geistige Auslastung schafft Abhilfe. Gegen das Haaren sollte die dichte Unterwolle 2-3 Mal pro Woche mit einem Unterwollrechen (Undercoat Rake) gründlich ausgekämmt werden."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Sensibilidade e cuidado de saúde do Shetland Sheepdog (Sheltie): Rotina diária de 3 passos para segurança do gen MDR1, controle de latidos e manutenção da pelagem dupla",
+        "description": "O Shetland Sheepdog é inteligente e leal, mas propenso à sensibilidade a medicamentos pelo gen MDR1 e nós na pelagem dupla. Conheça uma rotina de 3 passos.",
+        "authority": "Padrão de raça do American Kennel Club (AKC) e pesquisas do Cornell University College of Veterinary Medicine",
+        "profile": {
+          "breed": "Shetland Sheepdog / Sheltie",
+          "lifespan": "12 ~ 14 anos",
+          "sleep_pattern": "10 ~ 12 horas (prefere dormir perto do tutor ou em pontos altos de observação)",
+          "temperament": "Extremamente inteligente, Leal, Sensível, Alerta, Energético"
+        },
+        "intro": "Famoso por sua juba abundante e porte elegante, o Shetland Sheepdog (Sheltie) é uma raça de pastoreio dotada de inteligência e lealdade excepcionais. Contudo, seus sentidos apurados e a alta sensibilidade sonora frequentemente provocam latidos reativos e comportamentos de alerta. Além disso, a raça possui alto risco genético para a mutação do gênio MDR1, que permite que certos antiparasitários ultrapassem a barreira hematoencefálica causando neurotoxicidade grave. O descuido com sua densa pelagem dupla resulta em nós e dermatites. Neste guia, decifra os sinais do Sheltie e apresenta uma rotina em 3 passos.",
+        "whyTitle": "Linguagem corporal do Sheltie: Toxicidade por medicamentos e latidos por sobre-estimulação",
+        "whyDesc": "Os Shelties reagem intensamente a barulhos e mudanças no ambiente. Orelhas encostadas para trás, lamber os lábios e **'latidos agudos e repetitivos'** indicam sobre-estimulação e estresse. Além disso, descoordenação, salivação excessiva ou prostração após tomar vermífugos são sinais de **'toxicidade por mutação no gen MDR1'** que exigem socorro veterinário urgente.",
+        "body_signals": [
+          {
+            "name": "Cambalear e salivação excessiva após vermífugo (MDR1 Drug Toxicity Signal)",
+            "meaning": "Emergência médica em que a mutação MDR1 permite que fármacos atravessem a barreira hematoencefálica afetando o sistema nervoso central.",
+            "response": "Identifique o medicamento administrado, interrompa o uso e leve o cão imediatamente a um hospital veterinário de emergência para desintoxicação."
+          },
+          {
+            "name": "Orelhas coladas para trás e latidos agudos contínuos (Hyper-Reactivity / Alarm Barking)",
+            "meaning": "Linguagem corporal que reflete grande alerta, estresse e sobre-estimulação diante de pequenos ruídos ou estímulos estranhos.",
+            "response": "Bloqueie a fonte do estímulo, redirecione a atenção do cão para o tutor com o comando 'fica' e promova um ambiente calmo."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Controle de porções para proteger as articulações e verificação de MDR1",
+            "text": "Siga quantidades rigorosas de calorias para prevenir a obesidade e sobrecarga articular, e verifique o status do gen MDR1 com o veterinário antes de administrar antiparasitários."
+          },
+          {
+            "name": "Tarde: Jogos mentais para o instinto de pastoreio e dessensibilização sonora",
+            "text": "Ofereça brinquedos de enriquecimento ambiental para canalizar sua inteligência e faça treinos de dessensibilização a ruídos para evitar latidos por estresse."
+          },
+          {
+            "name": "Noite: Escovação do subpelo da pelagem dupla e monitoramento articular",
+            "text": "Escove a pelagem externa e o subpelo diariamente com escova rasqueadeira para evitar nós e dermatites, avaliando a mobilidade das articulações."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "O que é a mutação do gênio MDR1 no Sheltie e por que é perigosa?",
+            "answer": "É uma alteração genética na glicoproteína P, responsável por expelir toxinas do cérebro. Se um Sheltie com essa mutação consome remédios como ivermectina ou loperamida, eles penetram no cérebro provocando paralisia ou morte. Teste genético e consulta veterinária são essenciais."
+          },
+          {
+            "question": "Como controlar latidos excessivos e a queda intensa de pelos do Sheltie?",
+            "answer": "Sendo cães de pastoreio, latem quando não têm estímulo suficiente. Combine exercício físico diário com jogos de raciocínio. Para a queda, use um rastelo de subpelo (undercoat rake) 2 a 3 vezes por semana para remover os pelos mortos e evitar problemas de pele."
+          }
+        ]
+      },
+      "id": {
+        "title": "Perawatan Sensitivitas & Kesehatan Shetland Sheepdog (Sheltie): Rutinitas Harian 3 Langkah untuk Keamanan Gen MDR1, Kontrol Gonggongan, dan Perawatan Bulu Ganda",
+        "description": "Shetland Sheepdog cerdas dan setia, tetapi rentan terhadap sensitivitas obat gen MDR1 dan bulu ganda menggumpal. Pelajari rutinitas harian 3 langkah.",
+        "authority": "Standar Ras American Kennel Club (AKC) & Penelitian Cornell University College of Veterinary Medicine",
+        "profile": {
+          "breed": "Shetland Sheepdog / Sheltie",
+          "lifespan": "12 ~ 14 tahun",
+          "sleep_pattern": "10 ~ 12 jam (menyukai tidur di dekat pemilik atau area pengawasan yang jelas)",
+          "temperament": "Sangat Cerdas, Setia, Sensitif, Waspada, Energetik"
+        },
+        "intro": "Dikenal dengan surainya yang lebat dan penampilannya yang anggun, Shetland Sheepdog (Sheltie) adalah ras anjing penggembala yang memiliki kecerdasan dan kesetiaan luar biasa. Namun, indramu yang tajam dan sensitivitas tinggi terhadap suara sering kali memicu gonggongan reaktif dan sikap terlalu waspada. Selain itu, ras ini memiliki risiko genetis tinggi terhadap mutasi gen MDR1, yang memungkinkan obat cacing tertentu menembus penghalang darah-otak dan menyebabkan keracunan saraf parah. Pengabaian terhadap bulu ganda (Double coat) yang tebal juga dapat memicu gumpalan bulu dan iritasi kulit parah. Dalam panduan ini, mengulas sinyal bahaya Sheltie dan menyajikan rutinitas perawatan 3 langkah.",
+        "whyTitle": "Bahasa Tubuh Sheltie: Tanda Keracunan Obat dan Gonggongan Akibat Overstimulasi",
+        "whyDesc": "Sheltie bereaksi sangat kuat terhadap suara dan perubahan lingkungan. Telinga menekuk ke belakang, menjilat bibir, dan **'gonggongan melengking berulang'** menandakan overstimulasi dan stres parah. Selain itu, jalan sempoyongan, air liur berlebihan, atau lemas setelah meminum obat cacing adalah sinyal **'keracunan obat gen MDR1'** yang membutuhkan penanganan medis darurat.",
+        "body_signals": [
+          {
+            "name": "Jalan Sempoyongan & Air Liur Berlebihan Setelah Obat Cacing (MDR1 Drug Toxicity Signal)",
+            "meaning": "Kondisi darurat medis akibat mutasi gen MDR1 yang membiarkan zat obat antiparasit menembus penghalang darah-otak ke sistem saraf pusat.",
+            "response": "Segera identifikasi obat yang diberikan, hentikan penggunaan, dan bawa anjing ke rumah sakit hewan darurat untuk detoksifikasi dan perawatan."
+          },
+          {
+            "name": "Telinga Menekuk ke Belakang & Gonggongan Melengking Berulang (Hyper-Reactivity / Alarm Barking)",
+            "meaning": "Bahasa tubuh yang menunjukkan kewaspadaan tinggi, overstimulasi, dan stres akibat suara kecil atau stimulasi asing.",
+            "response": "Blokir sumber pemicu, alihkan perhatian anjing ke pemilik dengan perintah 'diam/tunggu', dan ciptakan suasana tenang."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Kontrol Porsi Makan Ketat untuk Sendi & Pemeriksaan Risiko Obat MDR1",
+            "text": "Patuhi porsi kalori ketat untuk mencegah obesitas dan beban sendi, serta selalu periksa status gen MDR1 dengan dokter hewan sebelum memberikan obat cacing atau obat resep."
+          },
+          {
+            "name": "Siang: Permainan Puzzle Asah Otak untuk Naluri Penggembala & Desensitisasi Suara",
+            "text": "Sediakan permainan puzzle hidung untuk menyalurkan kecerdasannya dan lakukan latihan desensitisasi suara untuk mencegah gonggongan akibat stres."
+          },
+          {
+            "name": "Malam: Menyikat Bulu Halus (Undercoat) & Pemantauan Kesehatan Sendi",
+            "text": "Sikat bulu luar dan bulu halus dalam setiap hari dengan sikat slicker untuk mencegah penggumpalan dan dermatitis sambil memantau fleksibilitas sendi."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apa itu mutasi gen MDR1 pada Sheltie dan mengapa sangat berbahaya?",
+            "answer": "Ini adalah kelainan genetik pada P-glikoprotein yang bertugas membuang racun keluar dari otak. Jika Sheltie dengan mutasi ini mengonsumsi obat seperti Ivermectin atau Loperamide, obat masuk ke otak dan menyebabkan kelumpuhan hingga kematian. Tes genetik dan konsultasi dokter hewan sangat wajib."
+          },
+          {
+            "question": "Bagaimana cara mengatasi gonggongan berlebihan dan bulu rontok parah pada Sheltie?",
+            "answer": "Sebagai anjing penggembala, Sheltie akan menggonggong jika kurang mendapat stimulasi. Kombinasikan olahraga harian dengan permainan mental. Untuk bulu rontok, gunakan sisir khusus undercoat (undercoat rake) 2-3 kali seminggu untuk membuang bulu mati di bagian dalam agar tidak menggumpal."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/shetland_sheepdog_care.webp"
+  }
 }

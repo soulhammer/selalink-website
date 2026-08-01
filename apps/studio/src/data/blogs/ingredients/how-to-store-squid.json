@@ -1,406 +1,406 @@
 {
-    "how-to-store-squid": {
-        "ingId": "squid",
-        "pubDate": "2026-05-08",
-        "updatedDate": "2026-05-08",
-        "heroImage": "/images/blog/squid_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "오징어 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 오징어의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "국립수산과학원(NIFS) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)",
-                "intro": "오징어를 냉동실에 얼려두었다가 다른 냉동식품에 해산물 비린내가 잔뜩 배어 난감했던 적 있으시죠? 🦑\n\n오징어는 수분 함량이 높고 내장 부위에 미생물과 자기분해 효소(Protease)가 집중되어 있어, 손질하지 않고 보관할 경우 내부부터 빠르게 부패하는 특성이 있습니다. 유출된 수액(드립)은 트리메틸아민(TMA) 비린내를 유발하고 냉장고 내부의 다른 식재료까지 오염시킵니다.\n\n이번 가이드에서는 국립수산과학원(NIFS)과 식품의약품안전처(MFDS)의 수산물 안전 가이드라인을 바탕으로, 비린내를 원천 차단하고 해동 후에도 쫄깃한 식감을 지켜주는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "장기 냉동 시 살짝 데친 후 보관하면 질겨짐을 방지할 수 있습니다 ⚠️",
-                        "desc": "오랫동안 냉동 보관할 오징어는 생으로 얼리기보다 끓는 물에 식초 한 방울이나 소금을 넣고 10~15초간 살짝 데친(블랜칭) 뒤 식혀서 수분을 완전히 빼고 냉동 보관하세요. 해동 시 수분 유출이 적어 질겨지지 않고 쫄깃한 식감이 유지됩니다."
-                    },
-                    {
-                        "title": "생오징어의 냉장 보관은 1~2일(48시간) 이내로 제한하세요 ❄️",
-                        "desc": "생물 수산물은 단백질 조직이 연하고 수분이 많아 냉장실(0~4℃)에서도 부패균 및 저온 세균 증식 속도가 매우 빠릅니다. 구매 즉시 손질하여 48시간 이내에 조리하고, 남은 것은 즉시 냉동(-18℃ 이하) 보관해야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "내장, 먹물주머니, 빨판 이물질 완벽 제거하기 — 비린내 및 부패 원인 차단 🦑",
-                        "text": "오징어의 내장과 빨판의 이물질은 비린내와 세균 번식의 주원인입니다. 💡 보관 팁: 몸통을 갈라 내장, 먹물주머니, 뼈를 깨끗이 떼어내고, 다리 빨판의 링 이물질을 굵은소금이나 밀가루로 문질러 흐르는 물에 깨끗이 씻어내세요."
-                    },
-                    {
-                        "name": "수분을 완벽히 닦아내고 랩으로 개별 밀봉하기 — 냉장 보관 (1~2일) 📦",
-                        "text": "세척 후 남은 수분은 냉동 시 얼음 결정을 형성하여 해동 시 세포벽을 파괴하고 살을 흐물거리게 만듭니다. 💡 보관 팁: 키친타월로 오징어 몸통 안팎의 물기를 100% 완벽히 닦아낸 뒤, 1회분씩 식품용 랩으로 초밀착 랩핑하세요."
-                    },
-                    {
-                        "name": "지퍼백에 담아 이중 밀봉 후 냉동하기 — 냉동 보관 (60~90일) ❄️",
-                        "text": "해산물 특유의 휘발성 냄새 입자는 냉장고 안에서 다른 식품으로 쉽게 이동합니다. 💡 보관 팁: 랩으로 싼 오징어를 냉동 지퍼백에 넣고 공기를 완전히 빼낸 뒤 냉동실(-18℃ 이하)에 보관하세요. 이중 밀봉을 통해 냄새 배임을 차단하고 냉동 상해(Freezer Burn)를 예방합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "생오징어의 내장을 제거하지 않고 그대로 냉장 보관하면 왜 위험한가요?",
-                        "answer": "생오징어 내장에는 자기분해 효소와 수많은 미생물이 집중되어 있어 채취 직후부터 급속한 부패가 시작됩니다. 내장을 제거하지 않으면 쓴맛과 극심한 비린내(트리메틸아민)가 발생하고, 부패균이 과육 내부로 빠르게 침투하여 주변 식재료까지 오염시킵니다. 반드시 구매 즉시 내장과 먹물주머니를 떼어내고 씻어서 보관해야 합니다."
-                    },
-                    {
-                        "question": "냉동 오징어를 해동할 때 비린내와 살이 질겨지는 현상을 막는 방법은?",
-                        "answer": "가장 좋은 방법은 사용 전날 냉장실(0~4℃)로 이동시켜 서서히 해동하는 '냉장 해동'입니다. 급히 해동할 경우 랩을 벗기지 않은 밀봉 상태 그대로 찬물에 담가 해동하세요. 해동 시 약간의 청주, 미림, 또는 레몬즙을 뿌려두면 비린내 원인 성분(TMA)을 효과적으로 중화하고 육즙 유출을 막아 쫄깃한 식감을 살릴 수 있습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Squid Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for squid based on official safety guidelines.",
-                "authority": "NIFS & MFDS & USDA",
-                "intro": "Have you ever frozen fresh squid only to find that pungent seafood odors transferred to all your other frozen foods? 🦑\n\nSquid is high in moisture, and its internal organs contain dense concentrations of microorganisms and digestive enzymes (proteases). If stored uncleaned, these enzymes trigger rapid autolysis and decomposition, releasing fishy trimethylamine (TMA) odors that easily taint neighboring foods.\n\nIn this guide, shares a scientifically proven 3-step storage guide based on guidelines from the National Institute of Fisheries Science (NIFS) and USDA to eliminate fishy odors, prevent freezer burn, and maintain a tender, chewy texture. 🛡️",
-                "whyTitle": "Why Store Squid This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Blanching before freezing prevents toughness during long-term storage ⚠️",
-                        "desc": "When freezing squid for extended periods, blanching sliced squid in boiling water with a drop of vinegar or salt for 10–15 seconds, then cooling and drying it completely before freezing, stops enzyme activity and maintains a chewy, tender texture upon thawing."
-                    },
-                    {
-                        "title": "Limit raw squid refrigeration to 1–2 days (48 hours) max ❄️",
-                        "desc": "Raw seafood has soft protein structures and high water activity, allowing psychrotrophic spoilage bacteria to multiply rapidly even in the fridge (0–4°C). Clean and cook raw squid within 48 hours or freeze immediately below -18°C."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Completely remove guts, ink sac, and suction cup ring debris — Block Fishy Odors & Rot 🦑",
-                        "text": "Squid viscera and suction cup impurities are the primary sources of fishy odors and bacterial growth. 💡 Storage Tip: Slice the mantle open, remove entrails, ink sac, and quill (backbone). Rub the tentacles with coarse salt or flour under running water to scrub away chitinous suction rings."
-                    },
-                    {
-                        "name": "Dry surface moisture 100% and wrap tightly in plastic wrap — Cold Storage (1–2 Days) 📦",
-                        "text": "Residual moisture forms large ice crystals during freezing, rupturing muscle cell walls and leaving the squid mushy upon thawing. 💡 Storage Tip: Firmly pat both inside and outside the squid mantle dry with paper towels, then wrap single portions tightly in plastic wrap."
-                    },
-                    {
-                        "name": "Double-seal in a freezer Ziploc bag and freeze — Frozen Storage (60–90 Days) ❄️",
-                        "text": "Volatile fishy odor molecules easily travel to other frozen foods inside the freezer. 💡 Storage Tip: Place wrapped squid inside a freezer Ziploc bag, press out all air, and store below -18°C (-0.4°F). Double sealing blocks cross-odor contamination and prevents freezer burn."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why is it dangerous to refrigerate raw squid without removing the viscera (guts)?",
-                        "answer": "Raw squid viscera contain high concentrations of autolytic enzymes and microorganisms that initiate rapid decomposition immediately post-harvest. Leaving guts intact produces severe fishy odors (trimethylamine) and bitter off-flavors while allowing spoilage bacteria to invade the mantle flesh. Always eviscerate, wash, and dry raw squid right after purchase."
-                    },
-                    {
-                        "question": "How can I prevent fishy odors and tough texture when thawing frozen squid?",
-                        "answer": "The optimal method is slow refrigerator thawing by transferring the frozen squid to the fridge (0–4°C) 12 hours before cooking. For fast thawing, submerge the sealed, wrapped squid in cold water. Sprinkling a dash of cooking wine (sake/mirin) or lemon juice during thawing neutralizes trimethylamine (TMA) and retains moisture for a tender, chewy bite."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "イカを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくイカの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "国立水産科学部(NIFS) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)",
-                "intro": "生のイカを冷凍庫に入れておいたら、他の冷凍食品に海鮮特有の生臭いニオイが移って困った経験はありませんか？🦑\n\nイカは水分含有量が高く、内臓部分に微生物や自己分解酵素（プロテアーゼ）が集中しているため、下処理せずに保存すると内部から急速に腐敗が進みます。流出した水分（ドリップ）はトリメチルアミン（TMA）生臭さを発生させ、周囲の食材を汚染します。\n\n本記事では、国立水産科学院（NIFS）および食品医薬品安全処（MFDS）のガイドラインに基づき、生臭さを完全に遮断し、解凍後も柔らかくプリプリとした食感を保つ3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "長期冷凍時は軽く下茹でしてから保存すると身が硬くなるのを防げます ⚠️",
-                        "desc": "長期間冷凍保存するイカは、生のまま凍らせるよりも沸騰したお湯に酢や塩を少し入れ、10〜15秒間サッと下茹で（ブランチング）してから冷まし、水分を完全にとっと冷凍すると解凍後も硬くならずプリプリの食感を維持できます。"
-                    },
-                    {
-                        "title": "生イカの冷蔵保存は1〜2日（48時間）以内に制限してください ❄️",
-                        "desc": "生の水産物はタンパク質組織が柔らかく水分が多いため、冷蔵室（0〜4℃）でも腐敗菌の繁殖が非常に早いです。購入後すぐに下処理をして48時間以内に使い切るか、残りは直ちに冷凍（-18℃以下）保存してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "内臓、スミ袋、吸盤の汚れを完全に除去する — 臭みと腐敗の原因を遮断 🦑",
-                        "text": "イカの内臓や吸盤の汚れは生臭さや雑菌繁殖の主な原因です。💡保存のコツ：胴体を開いて内臓、スミ袋、軟骨を取り除き、足の吸盤についたリング状の角質汚れを粗塩や小麦粉でもみ洗いしながら流れる水で綺麗に洗い流してください。"
-                    },
-                    {
-                        "name": "水分を完全に拭き取りラップで個別に密閉する — 冷蔵保存 (1〜2日) 📦",
-                        "text": "洗った後に残った水分は冷凍時に氷の結晶を作り、解凍時に細胞壁を壊して身をフニャフニャにします。💡保存のコツ：ペーパータオルで胴体の内側と外側の水気を100%完全に拭き取り、1回分ずつラップでぴったり密着包装してください。"
-                    },
-                    {
-                        "name": "ジッパーバッグに入れて二重密閉し冷凍する — 冷凍保存 (60〜90日) ❄️",
-                        "text": "水産物特有のにおい成分は冷凍庫内で他の食品に移りやすいです。💡保存のコツ：ラップで包んだイカを冷凍用ジッパーバッグに入れ、空気をしっかり抜いて冷凍室（-18℃以下）で保存してください。二重密閉によりにおい移りを防ぎ冷凍障害（フリーザーバーン）を防止します。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "生イカの内臓を取り除かずにそのまま冷蔵保存すると危険な理由は何ですか？",
-                        "answer": "生イカの内臓には自己分解酵素と多数の微生物が集中しており、水揚げ直後から急速な腐敗が始まるためです。内臓を残したままだと苦味や激しい生臭さ（トリメチルアミン）が発生し、腐敗菌が身の内部へ侵入して他の食材まで汚染します。必ず購入直後に内臓とスミ袋を取り除き、洗ってから保存してください。"
-                    },
-                    {
-                        "question": "冷凍イカを解凍する際、生臭さと身が硬くなるのを防ぐ方法は？",
-                        "answer": "最も良い方法は、使用前日に冷蔵室（0〜4℃）に移してじっくり解凍する「冷蔵解凍」です。急ぎの場合はラップのまま水に浸けて解凍してください。解凍時に少量の料理酒、みりん、またはレモン汁を振っておくと、生臭さの原因物質（TMA）を中和し旨味の流出を防いでジューシーで柔らかい食感を復元できます。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持乌贼/鱿鱼新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解乌贼/鱿鱼的最佳储存温度、方式和保鲜时长。",
-                "authority": "韩国国立水产科学部(NIFS) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)",
-                "intro": "您是否曾将生鱿鱼塞进冷冻室，结果导致其他冷冻食品全都沾上了难闻的海鲜腥味？🦑\n\n鱿鱼含水量高，且内脏部分集中了大量的微生物和自溶酶（Protease）。如果不经处理直接储存，内脏会在酶的作用下急剧腐败，释放出刺鼻的三甲胺（TMA）腥味，并污染冰箱里的其他食材。\n\n本指南基于韩国国立水产科学部(NIFS)和韩国食品医药品安全处(MFDS)的指南，为您带来3步科学保存秘诀，帮您彻底隔绝腥味，保持解冻后依然鲜嫩Q弹。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "长期冷冻前焯水烫漂可防止肉质变柴变硬 ⚠️",
-                        "desc": "需长期冷冻的鱿鱼，相比生冻，更建议放入加有少许盐或几滴醋的沸水中快速焯烫（烫漂）10~15秒，捞出冷却并彻底吸干水分后再冷冻。这样能中止酶活性，解冻后依然保持Q弹鲜嫩。"
-                    },
-                    {
-                        "title": "生鱿鱼冷藏保存请严格控制在1~2天（48小时）以内 ❄️",
-                        "desc": "生鲜水产品蛋白质组织娇嫩且水分活性高，即便在冷藏室（0~4℃）中，耐冷腐败菌也会迅速繁殖。请务必在买回后立即处理并在48小时内烹饪，剩余部分应立即冷冻（-18℃以下）。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "彻底清除内脏、墨囊及吸盘角质杂质 — 阻断腥味与腐败源头 🦑",
-                        "text": "鱿鱼内脏与吸盘上的污垢是产生腥味和滋生细菌的主因。💡储存小贴士：剖开鱼腹去除内脏、墨囊与透明软骨，用粗盐或面粉揉搓清洗鱿鱼须，将吸盘内的角质环污垢在流水下彻底洗净。"
-                    },
-                    {
-                        "name": "彻底吸干表面水分并用保鲜膜单份包裹 — 冷藏保存 (1~2天) 📦",
-                        "text": "清洗后残余的水分在冷冻时会形成大冰晶，破坏肌肉细胞壁，导致解冻后肉质松软无弹性。💡储存小贴士：用厨房纸巾将鱿鱼内外水分100%吸干，按单次食用量用保鲜膜紧密包裹。"
-                    },
-                    {
-                        "name": "装入拉链袋双层密封后冷冻 — 冷冻保存 (60~90天) ❄️",
-                        "text": "海鲜特有的挥发性气味极易在冷冻室内串味。💡储存小贴士：将包好的鱿鱼装入冷冻拉链袋，挤出袋内空气后存放在冷冻室（-18℃以下）。双层密封可阻断异味扩散并防止冻伤（Freezer Burn）。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "为什么生鱿鱼不能带内脏直接冷藏保存？",
-                        "answer": "生鱿鱼内脏中集中了大量自溶酶和微生物，捕捞后即刻开始急剧腐败。如果不清除内脏，会产生苦味和严重的腥臭味（三甲胺），腐败菌会迅速侵入鱼肉内部并污染周围食材。因此买回后必须立即摘除内脏和墨囊，清洗吸干后保存。"
-                    },
-                    {
-                        "question": "解冻冷冻鱿鱼时，如何防止腥味和肉质变柴？",
-                        "answer": "最佳解冻方式是提前一天移入冷藏室（0~4℃）缓慢解冻。若急用，可保持密封包裹状态浸泡在冷水中解冻。解冻时淋上少许料酒、味醂或柠檬汁，可以有效中和三甲胺腥味成分，锁住水分，恢复Q弹鲜嫩口感。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener el calamar fresco: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el calamar según las directrices oficiales de seguridad.",
-                "authority": "NIFS & MFDS & USDA",
-                "intro": "¿Alguna vez congeló calamar fresco solo para descubrir que todos los demás alimentos del congelador absorbían un desagradable olor a marisco? 🦑\n\nEl calamar tiene un alto contenido de agua y sus vísceras concentran microorganismos y enzimas digestivas (proteasas). Si se guarda sin limpiar, las enzimas provocan una rápida autólisis, desprendiendo trimetilamina (TMA), el compuesto responsable del olor a pescado.\n\nEn esta guía se comparte una guía científica en 3 pasos basada en directrices del Instituto Nacional de Ciencias Pesqueras (NIFS) y el USDA para eliminar los malos olores, prevenir la quemadura por congelación y mantener una textura tierna. 🛡️",
-                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Escaldar antes de congelar evita que la carne se vuelva dura ⚠️",
-                        "desc": "Al congelar calamar por períodos prolongados, escaldar las piezas en agua hirviendo con una gota de vinagre o sal durante 10–15 segundos, enfriar y secar bien antes de congelar, frena las enzimas y mantiene una textura tierna al descongelar."
-                    },
-                    {
-                        "title": "Limite la refrigeración de calamar crudo a máximo 1 o 2 días (48 horas) ❄️",
-                        "desc": "Los mariscos crudos tienen estructuras de proteína suaves y alta humedad, permitiendo que las bacterias crezcan rápido incluso en el refrigerador (0-4 °C). Limpie y cocine el calamar crudo en 48 horas o congele a menos de -18 °C."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Retire vísceras, bolsa de tinta y residuos de las ventosas — Bloquee el olor a pescado 🦑",
-                        "text": "Las vísceras y la suciedad en las ventosas causan el mal olor y las bacterias. 💡 Consejo de almacenamiento: Abra el manto, retire las tripas, la bolsa de tinta y la pluma. Frote los tentáculos con sal gruesa o harina bajo agua corriente para eliminar los anillos quitinosos."
-                    },
-                    {
-                        "name": "Seque la humedad superficial al 100% y envuelva firmemente — Refrigeración (1–2 días) 📦",
-                        "text": "La humedad residual forma cristales de hielo al congelar, rompiendo las paredes celulares y ablandando la carne al descongelar. 💡 Consejo de almacenamiento: Seque bien el interior y exterior del manto con toallas de papel y envuelva en film plástico porciones individuales."
-                    },
-                    {
-                        "name": "Guarde en bolsas Ziploc con doble sellado y congele — Congelación (60–90 días) ❄️",
-                        "text": "Las moléculas volátiles del olor a marisco se transmiten a otros alimentos en el congelador. 💡 Consejo de almacenamiento: Coloque el calamar envuelto en una bolsa Ziploc para congelador, saque el aire y congele a menos de -18 °C. El doble sellado evita contaminación de olores y quemadura por congelación."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué es peligroso refrigerar calamar crudo sin retirar las vísceras (tripas)?",
-                        "answer": "Las vísceras del calamar contienen altas concentraciones de enzimas autolíticas y microorganismos que inician una rápida descomposición tras la pesca. Dejar las tripas produce olores fétidos (trimetilamina) y sabor amargo, permitiendo que las bacterias invadan la carne. Eviscere, lave y seque siempre el calamar justo después de comprarlo."
-                    },
-                    {
-                        "question": "¿Cómo puedo evitar el olor a pescado y la textura dura al descongelar calamar congelado?",
-                        "answer": "El método óptimo es la descongelación lenta pasando el calamar al refrigerador (0-4 °C) 12 horas antes de cocinar. Para una descongelación rápida, sumerja el paquete sellado en agua fría. Rociar un chorrito de vino de cocina (mirin) o jugo de limón durante la descongelación neutraliza la trimetilamina (TMA) y retiene la humedad."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver le calamar frais : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le calamar selon les directives officielles de sécurité.",
-                "authority": "NIFS & MFDS & USDA",
-                "intro": "Avez-vous déjà congelé du calamar frais pour constater ensuite que tous les autres aliments du congélateur avaient pris una forte odeur de marée ? 🦑\n\nLe calamar possède una forte teneur en eau et ses viscères concentrent des micro-organismes ainsi que des enzymes digestives (protéases). S'il est stocké non vidé, ces enzymes provoquent una autolyse rapide, dégageant de la triméthylamine (TMA) responsable des odeurs fortes.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations de l'Institut National des Sciences Halieutiques (NIFS) et du USDA pour éliminer les odeurs, éviter les brûlures de congélation et garder une chair tendre. 🛡️",
-                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Blanchir avant de congeler évite que la chair ne devienne coriace ⚠️",
-                        "desc": "Pour una congélation prolongée, blanchir le calamar 10 à 15 secondes dans l'eau bouillante additionnée d'une goutte de vinaigre ou de sel, puis le refroidir et le sécher, stoppe les enzymes et préserve une texture tendre au dégel."
-                    },
-                    {
-                        "title": "Limitez la conservation du calamar cru au réfrigérateur à 1 ou 2 jours (48 heures) ❄️",
-                        "desc": "Les produits de la mer crus ont une chair tendre et une forte activité de l'eau, ce qui permet aux bactéries de se multiplier rapidement même au réfrigérateur (0–4 °C). Videz et cuisez le calamar cru sous 48 heures ou congelez sous -18 °C."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Retirer viscères, poche d'encre et nettoyer les ventouses — Bloquer l'odeur de marée 🦑",
-                        "text": "Les entrailles et les ventouses sales sont les sources majeures de mauvaises odeurs et de bactéries. 💡 Astuce de conservation : Ouvrez le manteau, ôtez les viscères, la poche d'encre et la plume. Frottez les tentaculess au gros sel ou à la farine sous l'eau pour enlever les anneaux chitineux."
-                    },
-                    {
-                        "name": "Sécher l'humidité à 100 % et filmer hermétiquement — Réfrigération (1–2 jours) 📦",
-                        "text": "L'eau résiduelle forme de gros cristaux de glace qui déchirent les cellules et rendent le calamar mou au dégel. 💡 Astuce de conservation : Épongez soigneusement l'intérieur et l'extérieur du manteau avec de l'essuie-tout et enveloppez fermement les portions dans du film étirable."
-                    },
-                    {
-                        "name": "Placer en sac Ziploc à double scellage et congeler — Congélation (60–90 jours) ❄️",
-                        "text": "Les molécules odorantes volatiles du poisson se propagent très facilement dans le congélateur. 💡 Astuce de conservation : Glissez le calamar filmé dans un sac congélation Ziploc, chassez l'air et congelez sous -18 °C pour bloquer les odeurs et éviter le dessèchement."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi est-il dangereux de réfrigérer le calamar cru sans le vider ?",
-                        "answer": "Les viscères du calamar contiennent une forte concentration d'enzymes autolytiques et de bactéries qui amorcent une décomposition rapide dès la pêche. Ne pas le vider produit une amertume et des odeurs fétides (triméthylamine) tout en laissant les bactéries pénétrer la chair. Videz, lavez et séchez toujours le calamar immédiatement après l'achat."
-                    },
-                    {
-                        "question": "Comment éviter l'odeur de marée et une chair dure lors de la décongélation du calamar ?",
-                        "answer": "La meilleure méthode est la décongélation lente au réfrigérateur (0–4 °C) pendant 12 heures. Pour une décongélation rapide, plongez le sachet scellé dans l'eau froide. Arroser le calamar d'un trait d'alcool de cuisine (saké/mirin) ou de jus de citron neutralise la triméthylamine (TMA) et conserve sa texture tendre."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Tintenfisch richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Tintenfisch basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "NIFS & MFDS & USDA",
-                "intro": "Haben Sie frischen Tintenfisch im Gefrierfach gelagert, nur um festzustellen, dass andere gefrorene Lebensmittel einen penetranten Fischgeruch annahmen? 🦑\n\nTintenfisch besitzt einen hohen Wassergehalt und seine Innereien konzentrieren Mikroorganismen und Verdauungsenzyme (Proteasen). Wird er ungereinigt gelagert, lösen diese Enzyme schnelle Autolyse aus, was zu Fischgeruch (Trimethylamin) führt.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien des National Institute of Fisheries Science (NIFS) und der USDA basiert, um Fischgeruch zu stoppen, Gefrierbrand zu verhindern und das Fleisch zart zu halten. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Kurzes Blanchieren vor dem Einfrieren verhindert zähes Fleisch ⚠️",
-                        "desc": "Soll Tintenfisch lange eingefroren werden, verhindert ein kurzes Blanchieren (10–15 Sekunden in kochendem Wasser mit etwas Essig oder Salz) vor dem Abkühlen und Trocknen die Enzymaktivität. So bleibt das Fleisch nach dem Auftauen zart."
-                    },
-                    {
-                        "title": "Lagern Sie rohen Tintenfisch maximal 1–2 Tage (48 Stunden) im Kühlschrank ❄️",
-                        "desc": "Frische Meeresfrüchte haben ein weiches Eiweißgewebe und hohe Wasseraktivität, wodurch sich Bakterien selbst im Kühlschrank (0–4 °C) schnell vermehren. Verarbeiten Sie Tintenfisch innerhalb von 48 Stunden oder frieren Sie ihn unter -18 °C ein."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Innereien, Tintenbeutel und Saugnapfringe vollständig entfernen — Fischgeruch stoppen 🦑",
-                        "text": "Innereien und Schmutz an den Saugnäpfen verursachen Fischgeruch und Keimwachstum. 💡 Lagerungstipp: Schneiden Sie den Mantel auf, entfernen Sie Innereien, Tintenbeutel und Schulp. Reiben Sie die Fangarme mit grobem Salz oder Mehl unter fließendem Wasser ab."
-                    },
-                    {
-                        "name": "Feuchtigkeit zu 100 % abtupfen und eng in Folie wickeln — Kühllagerung (1–2 Tage) 📦",
-                        "text": "Restfeuchte bildet beim Einfrieren große Eiskristalle, welche die Zellwände zerstören und das Fleisch beim Auftauen matschig machen. 💡 Lagerungstipp: Tupfen Sie den Mantel innen und außen mit Küchenpapier gründlich trocken und wickeln Sie Einzelportionen fest ein."
-                    },
-                    {
-                        "name": "In Ziploc-Beuteln doppelt versiegeln und einfrieren — Gefrierlagerung (60–90 Tage) ❄️",
-                        "text": "Flüchtige Geruchsstoffe von Fisch übertragen sich im Gefrierfach leicht auf andere Produkte. 💡 Lagerungstipp: Legen Sie den gewickelten Tintenfisch in einen Ziploc-Gefrierbeutel, pressen Sie die Luft heraus und frieren Sie ihn bei unter -18 °C ein."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum ist es gefährlich, rohen Tintenfisch mit Innereien im Kühlschrank zu lagern?",
-                        "answer": "In den Innereien von Tintenfischen konzentrieren sich Autolyse-Enzyme und Bakterien, die direkt nach dem Fang den Verfall einleiten. Verbleiben die Innereien im Fisch, entstehen Bitterstoffe und stechender Fischgeruch (Trimethylamin), und Bakterien dringen tief ins Fleisch ein. Waschen und reinigen Sie Tintenfisch immer sofort nach dem Kauf."
-                    },
-                    {
-                        "question": "Wie verhindert man Fischgeruch und zähes Fleisch beim Auftauen von gefrorenem Tintenfisch?",
-                        "answer": "Die beste Methode ist das langsame Auftauen im Kühlschrank (0–4 °C) über 12 Stunden. Für schnelles Auftauen legen Sie den versiegelten Beutel in kaltes Wasser. Das Beträufeln mit etwas Kochwein (Sake/Mirin) oder Zitronensaft beim Auftauen neutralisiert Trimethylamin (TMA) und hält das Fleisch zart."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar lula fresca: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para lula com base em diretrizes oficiais de segurança.",
-                "authority": "NIFS & MFDS & USDA",
-                "intro": "Você já congelou lula fresca e descobriu que outros alimentos do freezer absorveram um cheiro forte de peixe? 🦑\n\nA lula possui alto teor de água e suas vísceras concentram microrganismos e enzimas digestivas (proteases). Se armazenada sem limpar, essas enzimas causam autólise rápida, liberando trimetilamina (TMA), responsável pelo odor característico de frutos do mar.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes do Instituto Nacional de Ciência Pesqueira (NIFS) e do USDA para eliminar odores, prevenir queimaduras de gelo e manter a carne macia e saborosa. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Aferventar antes de congelar evita que a carne fique dura ⚠️",
-                        "desc": "Para congelamento prolongado, aferventar a lula fatiada em água fervente com uma gota de vinagre ou sal por 10 a 15 segundos, resfriar e secar bem antes de congelar, interrompe a ação das enzimas e mantém a textura macia ao descongelar."
-                    },
-                    {
-                        "title": "Limite a refrigeração da lula crua a no máximo 1 a 2 dias (48 horas) ❄️",
-                        "desc": "Frutos do mar crus têm tecido proteico macio e alta atividade de água, permitindo que bactérias se multiplicam rápido na geladeira (0–4 °C). Limpe e cozinhe a lula crua em 48 horas ou congele imediatamente a menos de -18 °C."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Remova vísceras, bolsa de tinta e sujeira das ventosas — Bloqueie o cheiro de peixe 🦑",
-                        "text": "As vísceras e a sujeira nas ventosas são as principais fontes de maus odores e bactérias. 💡 Dica de conservação: Abra o manto, retire as tripas, a bolsa de tinta e a concha interna. Esfregue os tentáculos com sal grosso ou farinha em água corrente para remover os anéis de quitina."
-                    },
-                    {
-                        "name": "Seque 100% da umidade e embrulhe bem com filme plástico — Refrigeração (1–2 dias) 📦",
-                        "text": "A umidade residual forma grandes cristais de gelo ao congelar, rompendo as paredes celulares e deixando a lula mole ao descongelar. 💡 Dica de conservação: Seque bem o interior e o exterior do manto com papel-toalha e embrulhe porções individuais em filme plástico."
-                    },
-                    {
-                        "name": "Guarde em saco Ziploc com dupla vedação e congele — Congelamento (60–90 dias) ❄️",
-                        "text": "As moléculas voláteis de odor de peixe passam facilmente para outros alimentos no freezer. 💡 Dica de conservação: Coloque a lula embrulhada em um saco Ziploc para freezer, retire o ar e congele a menos de -18 °C. A dupla vedação evita a contaminação de odores e a queimadura de gelo."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Por que é perigoso refrigerar lula crua sem remover as vísceras (tripas)?",
-                        "answer": "As vísceras da lula contêm altas concentrações de enzimas autolíticas e microrganismos que iniciam a decomposição rápida logo após a pesca. Manter as tripas gera amargor e odor forte (trimetilamina), permitindo que bactérias invadam a carne. Remova sempre as vísceras, lave e seque a lula logo após a compra."
-                    },
-                    {
-                        "question": "Como posso evitar o cheiro forte de peixe e a textura dura ao descongelar lula congelada?",
-                        "answer": "O melhor método é o descongelamento lento na geladeira (0–4 °C) por 12 horas. Para descongelar rápido, mergulhe a embalagem selada em água fria. Borrifar um pouco de vinho de culinária (saquê/mirin) ou suco de limão durante o descongelamento neutraliza a trimetilamina (TMA) e retém a umidade para manter a carne macia."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Cumi-cumi agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk cumi-cumi berdasarkan pedoman keselamatan resmi.",
-                "authority": "NIFS & MFDS & USDA",
-                "intro": "Pernahkah Anda membekukan cumi-cumi segar lalu mendapati makanan lain di freezer ikut berbau amis menyengat? 🦑\n\nCumi-cumi memiliki kadar air yang tinggi dan bagian dalam perutnya mengonsentrasikan mikroorganisme serta enzim pencernaan (protease). Jika disimpan tanpa dibersihkan, enzim ini memicu autolisis cepat, melepaskan zat trimetilamina (TMA) yang berbau amis dan mencemari makanan lain.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman National Institute of Fisheries Science (NIFS) dan USDA untuk menghilangkan bau amis, mencegah freezer burn, dan menjaga tekstur cumi-cumi tetap kenyal dan lembut. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Rebus sebentar (blanching) sebelum dibekukan agar cumi tidak ulet/keras ⚠️",
-                        "desc": "Untuk penyimpanan beku jangka panjang, merebus irisan cumi dalam air mendidih dengan sedikit cuka atau garam selama 10–15 detik (blanching), lalu mendinginkan dan mengeringkannya sebelum dibekukan, akan menghentikan aktivitas enzim dan menjaga tekstur tetap empuk saat dicairkan."
-                    },
-                    {
-                        "title": "Batasi penyimpanan cumi mentah di kulkas maksimal 1–2 hari (48 jam) ❄️",
-                        "desc": "Seafood mentah memiliki jaringan protein yang lembut dan aktivitas air yang tinggi, sehingga bakteri pembusuk berkembang biak dengan cepat bahkan di kulkas (0–4°C). Bersihkan dan masak cumi mentah dalam 48 jam atau segera bekukan di bawah suhu -18°C."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Buang isi perut, kantong tinta, dan kotoran tentakel sepenuhnya — Cegah Bau Amis & Pembusukan 🦑",
-                        "text": "Jeroan cumi dan kotoran pada alat hisap tentakel adalah sumber utama bau amis dan bakteri. 💡 Tips Penyimpanan: Belah bagian badan cumi, buang jeroan, kantong tinta, dan tulang transparan. Gosok tentakel dengan garam kasar atau tepung di bawah air mengalir untuk membersihkan cincin kitin."
-                    },
-                    {
-                        "name": "Keringkan air permukaan 100% lalu bungkus rapat dengan plastik wrap — Simpan Dingin (1–2 Hari) 📦",
-                        "text": "Sisa air permukaan membentuk kristal es besar saat dibekukan, merusak dinding sel otot dan membuat cumi lembek saat dicairkan. 💡 Tips Penyimpanan: Lap bagian dalam dan luar cumi hingga benar-benar kering dengan tisu dapur, lalu bungkus rapat porsi sekali makan dengan plastik wrap."
-                    },
-                    {
-                        "name": "Segel ganda dalam kantong Ziploc freezer lalu bekukan — Simpan Beku (60–90 Hari) ❄️",
-                        "text": "Molekul bau amis mudah menyebar ke makanan lain di dalam freezer. 💡 Tips Penyimpanan: Masukkan cumi yang telah dibungkus ke dalam kantong Ziploc freezer, tekan keluar semua udara, lalu simpan di bawah suhu -18°C. Penyegelan ganda menahan penyebaran bau dan mencegah freezer burn."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa berbahaya menyimpan cumi mentah di kulkas tanpa membuang isi perutnya (jeroan)?",
-                        "answer": "Isi perut cumi mentah mengandung konsentrasi tinggi enzim autolitik dan mikroorganisme yang memicu pembusukan cepat segera setelah ditangkap. Membiarkan jeroan menghasilkan rasa pahit dan bau amis menyengat (trimetilamina), serta membiarkan bakteri pembusuk meresap ke dalam daging. Selalu buang jeroan, cuci, dan keringkan cumi segera setelah dibeli."
-                    },
-                    {
-                        "question": "Bagaimana cara mencegah bau amis dan tekstur ulet/keras saat mencairkan cumi beku?",
-                        "answer": "Metode terbaik adalah pencairan lambat dengan memindahkan cumi beku ke kulkas (0–4°C) 12 jam sebelum dimasak. Untuk pencairan cepat, rendam kemasan cumi yang masih tersegel rapat dalam air dingin. Percikan sedikit alkohol masak (sake/mirin) atau air perasan lemon saat mencairkan akan menetralisir trimetilamina (TMA) dan mengunci kelembapan agar cumi tetap empuk dan kenyal."
-                    }
-                ]
-            }
-        }
+  "how-to-store-squid": {
+    "ingId": "squid",
+    "pubDate": "2026-05-08",
+    "updatedDate": "2026-05-08",
+    "heroImage": "/images/blog/squid_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "오징어 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 오징어의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "국립수산과학원(NIFS) & 식품의약품안전처(MFDS) & 미국 농무부(USDA)",
+        "intro": "오징어를 냉동실에 얼려두었다가 다른 냉동식품에 해산물 비린내가 잔뜩 배어 난감했던 적 있으시죠? 🦑\n\n오징어는 수분 함량이 높고 내장 부위에 미생물과 자기분해 효소(Protease)가 집중되어 있어, 손질하지 않고 보관할 경우 내부부터 빠르게 부패하는 특성이 있습니다. 유출된 수액(드립)은 트리메틸아민(TMA) 비린내를 유발하고 냉장고 내부의 다른 식재료까지 오염시킵니다.\n\n이번 가이드에서는 국립수산과학원(NIFS)과 식품의약품안전처(MFDS)의 수산물 안전 가이드라인을 바탕으로, 비린내를 원천 차단하고 해동 후에도 쫄깃한 식감을 지켜주는 3단계 과학적 보관 비법을 전해드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "장기 냉동 시 살짝 데친 후 보관하면 질겨짐을 방지할 수 있습니다 ⚠️",
+            "desc": "오랫동안 냉동 보관할 오징어는 생으로 얼리기보다 끓는 물에 식초 한 방울이나 소금을 넣고 10~15초간 살짝 데친(블랜칭) 뒤 식혀서 수분을 완전히 빼고 냉동 보관하세요. 해동 시 수분 유출이 적어 질겨지지 않고 쫄깃한 식감이 유지됩니다."
+          },
+          {
+            "title": "생오징어의 냉장 보관은 1~2일(48시간) 이내로 제한하세요 ❄️",
+            "desc": "생물 수산물은 단백질 조직이 연하고 수분이 많아 냉장실(0~4℃)에서도 부패균 및 저온 세균 증식 속도가 매우 빠릅니다. 구매 즉시 손질하여 48시간 이내에 조리하고, 남은 것은 즉시 냉동(-18℃ 이하) 보관해야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "내장, 먹물주머니, 빨판 이물질 완벽 제거하기 — 비린내 및 부패 원인 차단 🦑",
+            "text": "오징어의 내장과 빨판의 이물질은 비린내와 세균 번식의 주원인입니다. 💡 보관 팁: 몸통을 갈라 내장, 먹물주머니, 뼈를 깨끗이 떼어내고, 다리 빨판의 링 이물질을 굵은소금이나 밀가루로 문질러 흐르는 물에 깨끗이 씻어내세요."
+          },
+          {
+            "name": "수분을 완벽히 닦아내고 랩으로 개별 밀봉하기 — 냉장 보관 (1~2일) 📦",
+            "text": "세척 후 남은 수분은 냉동 시 얼음 결정을 형성하여 해동 시 세포벽을 파괴하고 살을 흐물거리게 만듭니다. 💡 보관 팁: 키친타월로 오징어 몸통 안팎의 물기를 100% 완벽히 닦아낸 뒤, 1회분씩 식품용 랩으로 초밀착 랩핑하세요."
+          },
+          {
+            "name": "지퍼백에 담아 이중 밀봉 후 냉동하기 — 냉동 보관 (60~90일) ❄️",
+            "text": "해산물 특유의 휘발성 냄새 입자는 냉장고 안에서 다른 식품으로 쉽게 이동합니다. 💡 보관 팁: 랩으로 싼 오징어를 냉동 지퍼백에 넣고 공기를 완전히 빼낸 뒤 냉동실(-18℃ 이하)에 보관하세요. 이중 밀봉을 통해 냄새 배임을 차단하고 냉동 상해(Freezer Burn)를 예방합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "생오징어의 내장을 제거하지 않고 그대로 냉장 보관하면 왜 위험한가요?",
+            "answer": "생오징어 내장에는 자기분해 효소와 수많은 미생물이 집중되어 있어 채취 직후부터 급속한 부패가 시작됩니다. 내장을 제거하지 않으면 쓴맛과 극심한 비린내(트리메틸아민)가 발생하고, 부패균이 과육 내부로 빠르게 침투하여 주변 식재료까지 오염시킵니다. 반드시 구매 즉시 내장과 먹물주머니를 떼어내고 씻어서 보관해야 합니다."
+          },
+          {
+            "question": "냉동 오징어를 해동할 때 비린내와 살이 질겨지는 현상을 막는 방법은?",
+            "answer": "가장 좋은 방법은 사용 전날 냉장실(0~4℃)로 이동시켜 서서히 해동하는 '냉장 해동'입니다. 급히 해동할 경우 랩을 벗기지 않은 밀봉 상태 그대로 찬물에 담가 해동하세요. 해동 시 약간의 청주, 미림, 또는 레몬즙을 뿌려두면 비린내 원인 성분(TMA)을 효과적으로 중화하고 육즙 유출을 막아 쫄깃한 식감을 살릴 수 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Squid Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for squid based on official safety guidelines.",
+        "authority": "NIFS & MFDS & USDA",
+        "intro": "Have you ever frozen fresh squid only to find that pungent seafood odors transferred to all your other frozen foods? 🦑\n\nSquid is high in moisture, and its internal organs contain dense concentrations of microorganisms and digestive enzymes (proteases). If stored uncleaned, these enzymes trigger rapid autolysis and decomposition, releasing fishy trimethylamine (TMA) odors that easily taint neighboring foods.\n\nIn this guide, shares a scientifically proven 3-step storage guide based on guidelines from the National Institute of Fisheries Science (NIFS) and USDA to eliminate fishy odors, prevent freezer burn, and maintain a tender, chewy texture. 🛡️",
+        "whyTitle": "Why Store Squid This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Blanching before freezing prevents toughness during long-term storage ⚠️",
+            "desc": "When freezing squid for extended periods, blanching sliced squid in boiling water with a drop of vinegar or salt for 10–15 seconds, then cooling and drying it completely before freezing, stops enzyme activity and maintains a chewy, tender texture upon thawing."
+          },
+          {
+            "title": "Limit raw squid refrigeration to 1–2 days (48 hours) max ❄️",
+            "desc": "Raw seafood has soft protein structures and high water activity, allowing psychrotrophic spoilage bacteria to multiply rapidly even in the fridge (0–4°C). Clean and cook raw squid within 48 hours or freeze immediately below -18°C."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Completely remove guts, ink sac, and suction cup ring debris — Block Fishy Odors & Rot 🦑",
+            "text": "Squid viscera and suction cup impurities are the primary sources of fishy odors and bacterial growth. 💡 Storage Tip: Slice the mantle open, remove entrails, ink sac, and quill (backbone). Rub the tentacles with coarse salt or flour under running water to scrub away chitinous suction rings."
+          },
+          {
+            "name": "Dry surface moisture 100% and wrap tightly in plastic wrap — Cold Storage (1–2 Days) 📦",
+            "text": "Residual moisture forms large ice crystals during freezing, rupturing muscle cell walls and leaving the squid mushy upon thawing. 💡 Storage Tip: Firmly pat both inside and outside the squid mantle dry with paper towels, then wrap single portions tightly in plastic wrap."
+          },
+          {
+            "name": "Double-seal in a freezer Ziploc bag and freeze — Frozen Storage (60–90 Days) ❄️",
+            "text": "Volatile fishy odor molecules easily travel to other frozen foods inside the freezer. 💡 Storage Tip: Place wrapped squid inside a freezer Ziploc bag, press out all air, and store below -18°C (-0.4°F). Double sealing blocks cross-odor contamination and prevents freezer burn."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why is it dangerous to refrigerate raw squid without removing the viscera (guts)?",
+            "answer": "Raw squid viscera contain high concentrations of autolytic enzymes and microorganisms that initiate rapid decomposition immediately post-harvest. Leaving guts intact produces severe fishy odors (trimethylamine) and bitter off-flavors while allowing spoilage bacteria to invade the mantle flesh. Always eviscerate, wash, and dry raw squid right after purchase."
+          },
+          {
+            "question": "How can I prevent fishy odors and tough texture when thawing frozen squid?",
+            "answer": "The optimal method is slow refrigerator thawing by transferring the frozen squid to the fridge (0–4°C) 12 hours before cooking. For fast thawing, submerge the sealed, wrapped squid in cold water. Sprinkling a dash of cooking wine (sake/mirin) or lemon juice during thawing neutralizes trimethylamine (TMA) and retains moisture for a tender, chewy bite."
+          }
+        ]
+      },
+      "ja": {
+        "title": "イカを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくイカの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "国立水産科学部(NIFS) & 食品医薬品安全処(MFDS) & 米国農務省(USDA)",
+        "intro": "生のイカを冷凍庫に入れておいたら、他の冷凍食品に海鮮特有の生臭いニオイが移って困った経験はありませんか？🦑\n\nイカは水分含有量が高く、内臓部分に微生物や自己分解酵素（プロテアーゼ）が集中しているため、下処理せずに保存すると内部から急速に腐敗が進みます。流出した水分（ドリップ）はトリメチルアミン（TMA）生臭さを発生させ、周囲の食材を汚染します。\n\n本記事では、国立水産科学院（NIFS）および食品医薬品安全処（MFDS）のガイドラインに基づき、生臭さを完全に遮断し、解凍後も柔らかくプリプリとした食感を保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "長期冷凍時は軽く下茹でしてから保存すると身が硬くなるのを防げます ⚠️",
+            "desc": "長期間冷凍保存するイカは、生のまま凍らせるよりも沸騰したお湯に酢や塩を少し入れ、10〜15秒間サッと下茹で（ブランチング）してから冷まし、水分を完全にとっと冷凍すると解凍後も硬くならずプリプリの食感を維持できます。"
+          },
+          {
+            "title": "生イカの冷蔵保存は1〜2日（48時間）以内に制限してください ❄️",
+            "desc": "生の水産物はタンパク質組織が柔らかく水分が多いため、冷蔵室（0〜4℃）でも腐敗菌の繁殖が非常に早いです。購入後すぐに下処理をして48時間以内に使い切るか、残りは直ちに冷凍（-18℃以下）保存してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "内臓、スミ袋、吸盤の汚れを完全に除去する — 臭みと腐敗の原因を遮断 🦑",
+            "text": "イカの内臓や吸盤の汚れは生臭さや雑菌繁殖の主な原因です。💡保存のコツ：胴体を開いて内臓、スミ袋、軟骨を取り除き、足の吸盤についたリング状の角質汚れを粗塩や小麦粉でもみ洗いしながら流れる水で綺麗に洗い流してください。"
+          },
+          {
+            "name": "水分を完全に拭き取りラップで個別に密閉する — 冷蔵保存 (1〜2日) 📦",
+            "text": "洗った後に残った水分は冷凍時に氷の結晶を作り、解凍時に細胞壁を壊して身をフニャフニャにします。💡保存のコツ：ペーパータオルで胴体の内側と外側の水気を100%完全に拭き取り、1回分ずつラップでぴったり密着包装してください。"
+          },
+          {
+            "name": "ジッパーバッグに入れて二重密閉し冷凍する — 冷凍保存 (60〜90日) ❄️",
+            "text": "水産物特有のにおい成分は冷凍庫内で他の食品に移りやすいです。💡保存のコツ：ラップで包んだイカを冷凍用ジッパーバッグに入れ、空気をしっかり抜いて冷凍室（-18℃以下）で保存してください。二重密閉によりにおい移りを防ぎ冷凍障害（フリーザーバーン）を防止します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "生イカの内臓を取り除かずにそのまま冷蔵保存すると危険な理由は何ですか？",
+            "answer": "生イカの内臓には自己分解酵素と多数の微生物が集中しており、水揚げ直後から急速な腐敗が始まるためです。内臓を残したままだと苦味や激しい生臭さ（トリメチルアミン）が発生し、腐敗菌が身の内部へ侵入して他の食材まで汚染します。必ず購入直後に内臓とスミ袋を取り除き、洗ってから保存してください。"
+          },
+          {
+            "question": "冷凍イカを解凍する際、生臭さと身が硬くなるのを防ぐ方法は？",
+            "answer": "最も良い方法は、使用前日に冷蔵室（0〜4℃）に移してじっくり解凍する「冷蔵解凍」です。急ぎの場合はラップのまま水に浸けて解凍してください。解凍時に少量の料理酒、みりん、またはレモン汁を振っておくと、生臭さの原因物質（TMA）を中和し旨味の流出を防いでジューシーで柔らかい食感を復元できます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持乌贼/鱿鱼新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解乌贼/鱿鱼的最佳储存温度、方式和保鲜时长。",
+        "authority": "韩国国立水产科学部(NIFS) & 韩国食品医药品安全处(MFDS) & 美国农务部(USDA)",
+        "intro": "您是否曾将生鱿鱼塞进冷冻室，结果导致其他冷冻食品全都沾上了难闻的海鲜腥味？🦑\n\n鱿鱼含水量高，且内脏部分集中了大量的微生物和自溶酶（Protease）。如果不经处理直接储存，内脏会在酶的作用下急剧腐败，释放出刺鼻的三甲胺（TMA）腥味，并污染冰箱里的其他食材。\n\n本指南基于韩国国立水产科学部(NIFS)和韩国食品医药品安全处(MFDS)的指南，为您带来3步科学保存秘诀，帮您彻底隔绝腥味，保持解冻后依然鲜嫩Q弹。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "长期冷冻前焯水烫漂可防止肉质变柴变硬 ⚠️",
+            "desc": "需长期冷冻的鱿鱼，相比生冻，更建议放入加有少许盐或几滴醋的沸水中快速焯烫（烫漂）10~15秒，捞出冷却并彻底吸干水分后再冷冻。这样能中止酶活性，解冻后依然保持Q弹鲜嫩。"
+          },
+          {
+            "title": "生鱿鱼冷藏保存请严格控制在1~2天（48小时）以内 ❄️",
+            "desc": "生鲜水产品蛋白质组织娇嫩且水分活性高，即便在冷藏室（0~4℃）中，耐冷腐败菌也会迅速繁殖。请务必在买回后立即处理并在48小时内烹饪，剩余部分应立即冷冻（-18℃以下）。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "彻底清除内脏、墨囊及吸盘角质杂质 — 阻断腥味与腐败源头 🦑",
+            "text": "鱿鱼内脏与吸盘上的污垢是产生腥味和滋生细菌的主因。💡储存小贴士：剖开鱼腹去除内脏、墨囊与透明软骨，用粗盐或面粉揉搓清洗鱿鱼须，将吸盘内的角质环污垢在流水下彻底洗净。"
+          },
+          {
+            "name": "彻底吸干表面水分并用保鲜膜单份包裹 — 冷藏保存 (1~2天) 📦",
+            "text": "清洗后残余的水分在冷冻时会形成大冰晶，破坏肌肉细胞壁，导致解冻后肉质松软无弹性。💡储存小贴士：用厨房纸巾将鱿鱼内外水分100%吸干，按单次食用量用保鲜膜紧密包裹。"
+          },
+          {
+            "name": "装入拉链袋双层密封后冷冻 — 冷冻保存 (60~90天) ❄️",
+            "text": "海鲜特有的挥发性气味极易在冷冻室内串味。💡储存小贴士：将包好的鱿鱼装入冷冻拉链袋，挤出袋内空气后存放在冷冻室（-18℃以下）。双层密封可阻断异味扩散并防止冻伤（Freezer Burn）。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "为什么生鱿鱼不能带内脏直接冷藏保存？",
+            "answer": "生鱿鱼内脏中集中了大量自溶酶和微生物，捕捞后即刻开始急剧腐败。如果不清除内脏，会产生苦味和严重的腥臭味（三甲胺），腐败菌会迅速侵入鱼肉内部并污染周围食材。因此买回后必须立即摘除内脏和墨囊，清洗吸干后保存。"
+          },
+          {
+            "question": "解冻冷冻鱿鱼时，如何防止腥味和肉质变柴？",
+            "answer": "最佳解冻方式是提前一天移入冷藏室（0~4℃）缓慢解冻。若急用，可保持密封包裹状态浸泡在冷水中解冻。解冻时淋上少许料酒、味醂或柠檬汁，可以有效中和三甲胺腥味成分，锁住水分，恢复Q弹鲜嫩口感。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener el calamar fresco: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el calamar según las directrices oficiales de seguridad.",
+        "authority": "NIFS & MFDS & USDA",
+        "intro": "¿Alguna vez congeló calamar fresco solo para descubrir que todos los demás alimentos del congelador absorbían un desagradable olor a marisco? 🦑\n\nEl calamar tiene un alto contenido de agua y sus vísceras concentran microorganismos y enzimas digestivas (proteasas). Si se guarda sin limpiar, las enzimas provocan una rápida autólisis, desprendiendo trimetilamina (TMA), el compuesto responsable del olor a pescado.\n\nEn esta guía se comparte una guía científica en 3 pasos basada en directrices del Instituto Nacional de Ciencias Pesqueras (NIFS) y el USDA para eliminar los malos olores, prevenir la quemadura por congelación y mantener una textura tierna. 🛡️",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Escaldar antes de congelar evita que la carne se vuelva dura ⚠️",
+            "desc": "Al congelar calamar por períodos prolongados, escaldar las piezas en agua hirviendo con una gota de vinagre o sal durante 10–15 segundos, enfriar y secar bien antes de congelar, frena las enzimas y mantiene una textura tierna al descongelar."
+          },
+          {
+            "title": "Limite la refrigeración de calamar crudo a máximo 1 o 2 días (48 horas) ❄️",
+            "desc": "Los mariscos crudos tienen estructuras de proteína suaves y alta humedad, permitiendo que las bacterias crezcan rápido incluso en el refrigerador (0-4 °C). Limpie y cocine el calamar crudo en 48 horas o congele a menos de -18 °C."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Retire vísceras, bolsa de tinta y residuos de las ventosas — Bloquee el olor a pescado 🦑",
+            "text": "Las vísceras y la suciedad en las ventosas causan el mal olor y las bacterias. 💡 Consejo de almacenamiento: Abra el manto, retire las tripas, la bolsa de tinta y la pluma. Frote los tentáculos con sal gruesa o harina bajo agua corriente para eliminar los anillos quitinosos."
+          },
+          {
+            "name": "Seque la humedad superficial al 100% y envuelva firmemente — Refrigeración (1–2 días) 📦",
+            "text": "La humedad residual forma cristales de hielo al congelar, rompiendo las paredes celulares y ablandando la carne al descongelar. 💡 Consejo de almacenamiento: Seque bien el interior y exterior del manto con toallas de papel y envuelva en film plástico porciones individuales."
+          },
+          {
+            "name": "Guarde en bolsas Ziploc con doble sellado y congele — Congelación (60–90 días) ❄️",
+            "text": "Las moléculas volátiles del olor a marisco se transmiten a otros alimentos en el congelador. 💡 Consejo de almacenamiento: Coloque el calamar envuelto en una bolsa Ziploc para congelador, saque el aire y congele a menos de -18 °C. El doble sellado evita contaminación de olores y quemadura por congelación."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué es peligroso refrigerar calamar crudo sin retirar las vísceras (tripas)?",
+            "answer": "Las vísceras del calamar contienen altas concentraciones de enzimas autolíticas y microorganismos que inician una rápida descomposición tras la pesca. Dejar las tripas produce olores fétidos (trimetilamina) y sabor amargo, permitiendo que las bacterias invadan la carne. Eviscere, lave y seque siempre el calamar justo después de comprarlo."
+          },
+          {
+            "question": "¿Cómo puedo evitar el olor a pescado y la textura dura al descongelar calamar congelado?",
+            "answer": "El método óptimo es la descongelación lenta pasando el calamar al refrigerador (0-4 °C) 12 horas antes de cocinar. Para una descongelación rápida, sumerja el paquete sellado en agua fría. Rociar un chorrito de vino de cocina (mirin) o jugo de limón durante la descongelación neutraliza la trimetilamina (TMA) y retiene la humedad."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver le calamar frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le calamar selon les directives officielles de sécurité.",
+        "authority": "NIFS & MFDS & USDA",
+        "intro": "Avez-vous déjà congelé du calamar frais pour constater ensuite que tous les autres aliments du congélateur avaient pris una forte odeur de marée ? 🦑\n\nLe calamar possède una forte teneur en eau et ses viscères concentrent des micro-organismes ainsi que des enzymes digestives (protéases). S'il est stocké non vidé, ces enzymes provoquent una autolyse rapide, dégageant de la triméthylamine (TMA) responsable des odeurs fortes.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations de l'Institut National des Sciences Halieutiques (NIFS) et du USDA pour éliminer les odeurs, éviter les brûlures de congélation et garder une chair tendre. 🛡️",
+        "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Blanchir avant de congeler évite que la chair ne devienne coriace ⚠️",
+            "desc": "Pour una congélation prolongée, blanchir le calamar 10 à 15 secondes dans l'eau bouillante additionnée d'une goutte de vinaigre ou de sel, puis le refroidir et le sécher, stoppe les enzymes et préserve une texture tendre au dégel."
+          },
+          {
+            "title": "Limitez la conservation du calamar cru au réfrigérateur à 1 ou 2 jours (48 heures) ❄️",
+            "desc": "Les produits de la mer crus ont une chair tendre et une forte activité de l'eau, ce qui permet aux bactéries de se multiplier rapidement même au réfrigérateur (0–4 °C). Videz et cuisez le calamar cru sous 48 heures ou congelez sous -18 °C."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Retirer viscères, poche d'encre et nettoyer les ventouses — Bloquer l'odeur de marée 🦑",
+            "text": "Les entrailles et les ventouses sales sont les sources majeures de mauvaises odeurs et de bactéries. 💡 Astuce de conservation : Ouvrez le manteau, ôtez les viscères, la poche d'encre et la plume. Frottez les tentaculess au gros sel ou à la farine sous l'eau pour enlever les anneaux chitineux."
+          },
+          {
+            "name": "Sécher l'humidité à 100 % et filmer hermétiquement — Réfrigération (1–2 jours) 📦",
+            "text": "L'eau résiduelle forme de gros cristaux de glace qui déchirent les cellules et rendent le calamar mou au dégel. 💡 Astuce de conservation : Épongez soigneusement l'intérieur et l'extérieur du manteau avec de l'essuie-tout et enveloppez fermement les portions dans du film étirable."
+          },
+          {
+            "name": "Placer en sac Ziploc à double scellage et congeler — Congélation (60–90 jours) ❄️",
+            "text": "Les molécules odorantes volatiles du poisson se propagent très facilement dans le congélateur. 💡 Astuce de conservation : Glissez le calamar filmé dans un sac congélation Ziploc, chassez l'air et congelez sous -18 °C pour bloquer les odeurs et éviter le dessèchement."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi est-il dangereux de réfrigérer le calamar cru sans le vider ?",
+            "answer": "Les viscères du calamar contiennent une forte concentration d'enzymes autolytiques et de bactéries qui amorcent une décomposition rapide dès la pêche. Ne pas le vider produit une amertume et des odeurs fétides (triméthylamine) tout en laissant les bactéries pénétrer la chair. Videz, lavez et séchez toujours le calamar immédiatement après l'achat."
+          },
+          {
+            "question": "Comment éviter l'odeur de marée et une chair dure lors de la décongélation du calamar ?",
+            "answer": "La meilleure méthode est la décongélation lente au réfrigérateur (0–4 °C) pendant 12 heures. Pour une décongélation rapide, plongez le sachet scellé dans l'eau froide. Arroser le calamar d'un trait d'alcool de cuisine (saké/mirin) ou de jus de citron neutralise la triméthylamine (TMA) et conserve sa texture tendre."
+          }
+        ]
+      },
+      "de": {
+        "title": "Tintenfisch richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Tintenfisch basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "NIFS & MFDS & USDA",
+        "intro": "Haben Sie frischen Tintenfisch im Gefrierfach gelagert, nur um festzustellen, dass andere gefrorene Lebensmittel einen penetranten Fischgeruch annahmen? 🦑\n\nTintenfisch besitzt einen hohen Wassergehalt und seine Innereien konzentrieren Mikroorganismen und Verdauungsenzyme (Proteasen). Wird er ungereinigt gelagert, lösen diese Enzyme schnelle Autolyse aus, was zu Fischgeruch (Trimethylamin) führt.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien des National Institute of Fisheries Science (NIFS) und der USDA basiert, um Fischgeruch zu stoppen, Gefrierbrand zu verhindern und das Fleisch zart zu halten. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Kurzes Blanchieren vor dem Einfrieren verhindert zähes Fleisch ⚠️",
+            "desc": "Soll Tintenfisch lange eingefroren werden, verhindert ein kurzes Blanchieren (10–15 Sekunden in kochendem Wasser mit etwas Essig oder Salz) vor dem Abkühlen und Trocknen die Enzymaktivität. So bleibt das Fleisch nach dem Auftauen zart."
+          },
+          {
+            "title": "Lagern Sie rohen Tintenfisch maximal 1–2 Tage (48 Stunden) im Kühlschrank ❄️",
+            "desc": "Frische Meeresfrüchte haben ein weiches Eiweißgewebe und hohe Wasseraktivität, wodurch sich Bakterien selbst im Kühlschrank (0–4 °C) schnell vermehren. Verarbeiten Sie Tintenfisch innerhalb von 48 Stunden oder frieren Sie ihn unter -18 °C ein."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Innereien, Tintenbeutel und Saugnapfringe vollständig entfernen — Fischgeruch stoppen 🦑",
+            "text": "Innereien und Schmutz an den Saugnäpfen verursachen Fischgeruch und Keimwachstum. 💡 Lagerungstipp: Schneiden Sie den Mantel auf, entfernen Sie Innereien, Tintenbeutel und Schulp. Reiben Sie die Fangarme mit grobem Salz oder Mehl unter fließendem Wasser ab."
+          },
+          {
+            "name": "Feuchtigkeit zu 100 % abtupfen und eng in Folie wickeln — Kühllagerung (1–2 Tage) 📦",
+            "text": "Restfeuchte bildet beim Einfrieren große Eiskristalle, welche die Zellwände zerstören und das Fleisch beim Auftauen matschig machen. 💡 Lagerungstipp: Tupfen Sie den Mantel innen und außen mit Küchenpapier gründlich trocken und wickeln Sie Einzelportionen fest ein."
+          },
+          {
+            "name": "In Ziploc-Beuteln doppelt versiegeln und einfrieren — Gefrierlagerung (60–90 Tage) ❄️",
+            "text": "Flüchtige Geruchsstoffe von Fisch übertragen sich im Gefrierfach leicht auf andere Produkte. 💡 Lagerungstipp: Legen Sie den gewickelten Tintenfisch in einen Ziploc-Gefrierbeutel, pressen Sie die Luft heraus und frieren Sie ihn bei unter -18 °C ein."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum ist es gefährlich, rohen Tintenfisch mit Innereien im Kühlschrank zu lagern?",
+            "answer": "In den Innereien von Tintenfischen konzentrieren sich Autolyse-Enzyme und Bakterien, die direkt nach dem Fang den Verfall einleiten. Verbleiben die Innereien im Fisch, entstehen Bitterstoffe und stechender Fischgeruch (Trimethylamin), und Bakterien dringen tief ins Fleisch ein. Waschen und reinigen Sie Tintenfisch immer sofort nach dem Kauf."
+          },
+          {
+            "question": "Wie verhindert man Fischgeruch und zähes Fleisch beim Auftauen von gefrorenem Tintenfisch?",
+            "answer": "Die beste Methode ist das langsame Auftauen im Kühlschrank (0–4 °C) über 12 Stunden. Für schnelles Auftauen legen Sie den versiegelten Beutel in kaltes Wasser. Das Beträufeln mit etwas Kochwein (Sake/Mirin) oder Zitronensaft beim Auftauen neutralisiert Trimethylamin (TMA) und hält das Fleisch zart."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar lula fresca: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para lula com base em diretrizes oficiais de segurança.",
+        "authority": "NIFS & MFDS & USDA",
+        "intro": "Você já congelou lula fresca e descobriu que outros alimentos do freezer absorveram um cheiro forte de peixe? 🦑\n\nA lula possui alto teor de água e suas vísceras concentram microrganismos e enzimas digestivas (proteases). Se armazenada sem limpar, essas enzimas causam autólise rápida, liberando trimetilamina (TMA), responsável pelo odor característico de frutos do mar.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes do Instituto Nacional de Ciência Pesqueira (NIFS) e do USDA para eliminar odores, prevenir queimaduras de gelo e manter a carne macia e saborosa. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Aferventar antes de congelar evita que a carne fique dura ⚠️",
+            "desc": "Para congelamento prolongado, aferventar a lula fatiada em água fervente com uma gota de vinagre ou sal por 10 a 15 segundos, resfriar e secar bem antes de congelar, interrompe a ação das enzimas e mantém a textura macia ao descongelar."
+          },
+          {
+            "title": "Limite a refrigeração da lula crua a no máximo 1 a 2 dias (48 horas) ❄️",
+            "desc": "Frutos do mar crus têm tecido proteico macio e alta atividade de água, permitindo que bactérias se multiplicam rápido na geladeira (0–4 °C). Limpe e cozinhe a lula crua em 48 horas ou congele imediatamente a menos de -18 °C."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Remova vísceras, bolsa de tinta e sujeira das ventosas — Bloqueie o cheiro de peixe 🦑",
+            "text": "As vísceras e a sujeira nas ventosas são as principais fontes de maus odores e bactérias. 💡 Dica de conservação: Abra o manto, retire as tripas, a bolsa de tinta e a concha interna. Esfregue os tentáculos com sal grosso ou farinha em água corrente para remover os anéis de quitina."
+          },
+          {
+            "name": "Seque 100% da umidade e embrulhe bem com filme plástico — Refrigeração (1–2 dias) 📦",
+            "text": "A umidade residual forma grandes cristais de gelo ao congelar, rompendo as paredes celulares e deixando a lula mole ao descongelar. 💡 Dica de conservação: Seque bem o interior e o exterior do manto com papel-toalha e embrulhe porções individuais em filme plástico."
+          },
+          {
+            "name": "Guarde em saco Ziploc com dupla vedação e congele — Congelamento (60–90 dias) ❄️",
+            "text": "As moléculas voláteis de odor de peixe passam facilmente para outros alimentos no freezer. 💡 Dica de conservação: Coloque a lula embrulhada em um saco Ziploc para freezer, retire o ar e congele a menos de -18 °C. A dupla vedação evita a contaminação de odores e a queimadura de gelo."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que é perigoso refrigerar lula crua sem remover as vísceras (tripas)?",
+            "answer": "As vísceras da lula contêm altas concentrações de enzimas autolíticas e microrganismos que iniciam a decomposição rápida logo após a pesca. Manter as tripas gera amargor e odor forte (trimetilamina), permitindo que bactérias invadam a carne. Remova sempre as vísceras, lave e seque a lula logo após a compra."
+          },
+          {
+            "question": "Como posso evitar o cheiro forte de peixe e a textura dura ao descongelar lula congelada?",
+            "answer": "O melhor método é o descongelamento lento na geladeira (0–4 °C) por 12 horas. Para descongelar rápido, mergulhe a embalagem selada em água fria. Borrifar um pouco de vinho de culinária (saquê/mirin) ou suco de limão durante o descongelamento neutraliza a trimetilamina (TMA) e retém a umidade para manter a carne macia."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Cumi-cumi agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk cumi-cumi berdasarkan pedoman keselamatan resmi.",
+        "authority": "NIFS & MFDS & USDA",
+        "intro": "Pernahkah Anda membekukan cumi-cumi segar lalu mendapati makanan lain di freezer ikut berbau amis menyengat? 🦑\n\nCumi-cumi memiliki kadar air yang tinggi dan bagian dalam perutnya mengonsentrasikan mikroorganisme serta enzim pencernaan (protease). Jika disimpan tanpa dibersihkan, enzim ini memicu autolisis cepat, melepaskan zat trimetilamina (TMA) yang berbau amis dan mencemari makanan lain.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman National Institute of Fisheries Science (NIFS) dan USDA untuk menghilangkan bau amis, mencegah freezer burn, dan menjaga tekstur cumi-cumi tetap kenyal dan lembut. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Rebus sebentar (blanching) sebelum dibekukan agar cumi tidak ulet/keras ⚠️",
+            "desc": "Untuk penyimpanan beku jangka panjang, merebus irisan cumi dalam air mendidih dengan sedikit cuka atau garam selama 10–15 detik (blanching), lalu mendinginkan dan mengeringkannya sebelum dibekukan, akan menghentikan aktivitas enzim dan menjaga tekstur tetap empuk saat dicairkan."
+          },
+          {
+            "title": "Batasi penyimpanan cumi mentah di kulkas maksimal 1–2 hari (48 jam) ❄️",
+            "desc": "Seafood mentah memiliki jaringan protein yang lembut dan aktivitas air yang tinggi, sehingga bakteri pembusuk berkembang biak dengan cepat bahkan di kulkas (0–4°C). Bersihkan dan masak cumi mentah dalam 48 jam atau segera bekukan di bawah suhu -18°C."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Buang isi perut, kantong tinta, dan kotoran tentakel sepenuhnya — Cegah Bau Amis & Pembusukan 🦑",
+            "text": "Jeroan cumi dan kotoran pada alat hisap tentakel adalah sumber utama bau amis dan bakteri. 💡 Tips Penyimpanan: Belah bagian badan cumi, buang jeroan, kantong tinta, dan tulang transparan. Gosok tentakel dengan garam kasar atau tepung di bawah air mengalir untuk membersihkan cincin kitin."
+          },
+          {
+            "name": "Keringkan air permukaan 100% lalu bungkus rapat dengan plastik wrap — Simpan Dingin (1–2 Hari) 📦",
+            "text": "Sisa air permukaan membentuk kristal es besar saat dibekukan, merusak dinding sel otot dan membuat cumi lembek saat dicairkan. 💡 Tips Penyimpanan: Lap bagian dalam dan luar cumi hingga benar-benar kering dengan tisu dapur, lalu bungkus rapat porsi sekali makan dengan plastik wrap."
+          },
+          {
+            "name": "Segel ganda dalam kantong Ziploc freezer lalu bekukan — Simpan Beku (60–90 Hari) ❄️",
+            "text": "Molekul bau amis mudah menyebar ke makanan lain di dalam freezer. 💡 Tips Penyimpanan: Masukkan cumi yang telah dibungkus ke dalam kantong Ziploc freezer, tekan keluar semua udara, lalu simpan di bawah suhu -18°C. Penyegelan ganda menahan penyebaran bau dan mencegah freezer burn."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa berbahaya menyimpan cumi mentah di kulkas tanpa membuang isi perutnya (jeroan)?",
+            "answer": "Isi perut cumi mentah mengandung konsentrasi tinggi enzim autolitik dan mikroorganisme yang memicu pembusukan cepat segera setelah ditangkap. Membiarkan jeroan menghasilkan rasa pahit dan bau amis menyengat (trimetilamina), serta membiarkan bakteri pembusuk meresap ke dalam daging. Selalu buang jeroan, cuci, dan keringkan cumi segera setelah dibeli."
+          },
+          {
+            "question": "Bagaimana cara mencegah bau amis dan tekstur ulet/keras saat mencairkan cumi beku?",
+            "answer": "Metode terbaik adalah pencairan lambat dengan memindahkan cumi beku ke kulkas (0–4°C) 12 jam sebelum dimasak. Untuk pencairan cepat, rendam kemasan cumi yang masih tersegel rapat dalam air dingin. Percikan sedikit alkohol masak (sake/mirin) atau air perasan lemon saat mencairkan akan menetralisir trimetilamina (TMA) dan mengunci kelembapan agar cumi tetap empuk dan kenyal."
+          }
+        ]
+      }
     }
+  }
 }

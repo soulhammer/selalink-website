@@ -1,459 +1,459 @@
 {
-    "crested-gecko-care": {
-        "pubDate": "2026-07-15",
-        "updatedDate": "2026-07-15",
-        "locales": {
-            "ko": {
-                "title": "크레스티드 게코의 탈피·습도 케어와 행동 신호를 위한 3단계 데일리 홈케어",
-                "description": "속눈썹 도마뱀 크레스티드 게코(Crested Gecko). MBD(대사성 뼈 질환) 예방과 적정 습도(60%~80%), 꼬리 자르기·꼬리 흔들기 신호 해석을 위한 3단계 홈케어 루틴을 소개합니다.",
-                "authority": "국제 파충류 보전 수의학 프로토콜 및 USARK Care Standards",
-                "profile": {
-                    "breed": "크레스티드 게코 / 속눈썹 도마뱀 (Crested Gecko)",
-                    "lifespan": "15 ~ 20년",
-                    "sleep_pattern": "12 ~ 14시간 (야행성, 낮 동안 은신처 휴식)",
-                    "temperament": "온순함, 호기심 많음, 나무위성(Arboreal), 환경 변화에 민감"
-                },
-                "intro": "속눈썹을 닮은 벼슬 장식이 특징인 크레스티드 게코(Crested Gecko)는 온순한 성격과 인공 사료(슈퍼푸드) 급여의 편리함으로 전 세계에서 가장 사랑받는 붙이도마뱀입니다. 하지만 나무위성(Arboreal) 파충류로서 높이가 높은 사육장 환경과 적정 습도(60%~80%), 서늘한 온도(20°C~26°C) 관리가 필수적입니다. 특히 칼슘 흡수 부족으로 인한 MBD(대사성 뼈 질환)를 예방해야 하며, 한번 잘린 꼬리는 재생되지 않으므로 스트레스 방지가 중요합니다. 이번 가이드에서는 크레스티드 게코의 신체 신호를 읽고 건강을 지키는 3단계 홈케어 루틴을 소개합니다.",
-                "whyTitle": "크레스티드 게코의 바디 랭귀지: S자 꼬리 흔들기와 혀 핥기 (Eye Wiping)",
-                "whyDesc": "크레스티드 게코는 꼬리의 움직임과 혀 핥기로 감정 상태를 표현합니다. 꼬리를 S자로 세우고 천천히 흔드는 행동은 위협을 느끼거나 위장/경계 중임을 나타내는 **'경계 및 위협 신호(Tail S-Wagging)'**입니다. 반면 눈동자나 코 주변을 혀로 쓱 핥는 것은 눈꺼풀이 없는 눈에 수분을 공급하고 냄새 입자를 수집하는 자연스러운 **'위생 및 탐색 신호(Eye Wiping)'**입니다.",
-                "body_signals": [
-                    {
-                        "name": "꼬리를 S자로 세우고 천천히 흔듦 (Tail S-Wagging)",
-                        "meaning": "포식자나 위협을 느꼈을 때 자해 절단(자투) 전에 보이는 극심한 경계 및 스트레스 반응입니다.",
-                        "response": "핸들링을 즉시 중단하고 어둡고 조용한 은신처로 돌려보내 안정을 취하게 합니다."
-                    },
-                    {
-                        "name": "혀로 눈동자나 입 주변을 쓱 핥음 (Eye Wiping / Tongue Flicking)",
-                        "meaning": "눈꺼풀이 없는 눈 표면에 수분을 공급하고 자콥슨 기관으로 냄새 입자를 전달하는 자연스러운 행동입니다.",
-                        "response": "정상적인 행동이므로 방해하지 말고, 사육장 내 습도(60%~80%)가 적절한지 점검해 줍니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 사육장 벽면 분무 및 서늘한 온·습도 점검",
-                        "text": "사육장 벽면에 분무하여 벽면 물방울을 핥아먹을 수 있도록 수분을 공급하고, 서늘한 주간 온도(22°C~25°C)를 유지합니다."
-                    },
-                    {
-                        "name": "낮: 직사광선 차단 및 은신처 수면 환경 모니터링",
-                        "text": "28°C 이상의 고온에 매우 취약하므로 서늘하고 어두운 장소에서 숙면을 취할 수 있도록 직사광선을 차단합니다."
-                    },
-                    {
-                        "name": "저녁: 슈퍼푸드 급여 및 야간 습도(70%~80%) 분무",
-                        "text": "2~3일에 한 번 칼슘이 첨가된 슈퍼푸드를 급여하고, 야행성 활동을 위해 사육장 전체에 촉촉하게 분무해 줍니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "크레스티드 게코는 꼬리가 잘리면 다시 자라나나요?",
-                        "answer": "아니요, 크레스티드 게코는 다른 도마뱀과 달리 한번 잘린 꼬리가 다시 재생되지 않으며 잘린 자리는 버튼 모양으로 굳어집니다. 따라서 강하게 꼬리를 잡거나 극심한 스트레스를 주지 않도록 주의해야 합니다."
-                    },
-                    {
-                        "question": "생먹이(귀뚜라미)를 꼭 먹여야 하나요? 슈퍼푸드만 먹여도 되나요?",
-                        "answer": "크레스티드 게코 전용 영양 가루인 '슈퍼푸드(MRP)'만으로도 완벽한 영양 공급이 가능합니다. 다만 칼슘 흡수 부족으로 인한 MBD(대사성 뼈 질환)를 예방하기 위해 칼슘제 첨가 여부를 주기적으로 확인해야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Crested Gecko Humidity, Shedding, and Behavioral Signals Care: A 3-Step Daily Routine",
-                "description": "Care guide for the mysterious Crested Gecko. Prevent MBD, maintain optimal humidity (60%–80%), and decode tail-wagging and eye-wiping signals with a 3-step daily routine.",
-                "authority": "International Reptile Conservation Protocols & USARK Veterinary Care Standards",
-                "profile": {
-                    "breed": "Crested Gecko / Eyelash Gecko (Crested Gecko)",
-                    "lifespan": "15 - 20 Years",
-                    "sleep_pattern": "12 - 14 Hours (Nocturnal, Rests in hides during the day)",
-                    "temperament": "Docile, Curious, Arboreal, Sensitive to Environmental Changes"
-                },
-                "intro": "Famous for the eyelash-like crests above their eyes, the Crested Gecko (Correlophus ciliatus) is one of the most beloved pet reptiles worldwide due to its gentle nature and convenient powdered diet (Superfood / Meal Replacement Powder). As an arboreal reptile, providing a tall enclosure, proper humidity cycles (60%–80%), and cool temperatures (20°C–26°C) is essential. Preventing Metabolic Bone Disease (MBD) caused by calcium deficiency is crucial, and since a dropped tail does not regenerate, avoiding stress is a priority. In this guide, presents a 3-step daily care routine to read your Crested Gecko's body signals and maintain its health.",
-                "whyTitle": "Crested Gecko Body Language: S-Tail Wagging and Eye Wiping",
-                "whyDesc": "Crested Geckos communicate their emotional state through tail movements and tongue gestures. Raising the tail into an S-shape and slowly waving it is a **'Guarding & Threat Signal (Tail S-Wagging)'** indicating defensive alert or extreme stress before tail autotomy. Conversely, sweeping their tongue over their eyecaps or snout is a natural **'Hygiene & Exploration Signal (Eye Wiping)'** to moisten lidless eyes and gather odor particles.",
-                "body_signals": [
-                    {
-                        "name": "Raising Tail in an S-Shape and Slowly Waving (Tail S-Wagging)",
-                        "meaning": "An extreme alert and stress warning displayed when feeling threatened by predators or handling, often preceding tail drop.",
-                        "response": "Immediately stop handling and return them to a dark, quiet enclosure to rest and calm down."
-                    },
-                    {
-                        "name": "Licking Eyeballs or Mouth Area with Tongue (Eye Wiping / Tongue Flicking)",
-                        "meaning": "A natural behavior that hydrates the lidless eye surface and delivers scent particles to the Jacobson's organ.",
-                        "response": "This is completely normal behavior, so do not disturb them, and verify that enclosure humidity (60%–80%) is appropriate."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Enclosure Wall Misting & Cool Temp/Humidity Check",
-                        "text": "Mist the enclosure walls so they can lap up water droplets, and maintain a cool daytime temperature (22°C–25°C)."
-                    },
-                    {
-                        "name": "Afternoon: Direct Sunlight Block & Dark Hide Sleep Monitoring",
-                        "text": "Protect the gecko from direct sunlight as they are highly vulnerable to temperatures above 28°C, ensuring a cool and dark resting place."
-                    },
-                    {
-                        "name": "Evening: Powdered Superfood Feeding & Nighttime Misting (70%–80%)",
-                        "text": "Offer calcium-fortified superfood every 2–3 days and mist the enclosure thoroughly to support nocturnal activity and shedding."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Does a Crested Gecko's tail grow back if it drops?",
-                        "answer": "No, unlike many other lizards, a Crested Gecko's tail does not regenerate once dropped, and the detached site heals into a smooth button-shaped stump. Therefore, be careful never to grab their tail firmly or cause severe stress."
-                    },
-                    {
-                        "question": "Do I need to feed live insects, or is superfood enough?",
-                        "answer": "A complete commercial Crested Gecko Diet (MRP / Superfood) alone provides full nutrition. However, you must periodically check calcium fortification to prevent Metabolic Bone Disease (MBD) caused by calcium deficiency."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "クレスティッドゲッコーの脱皮・湿度ケアと行動サイン解読のための3ステップデイリールーティン",
-                "description": "まつ毛のような突起が特徴的なオウカンミカドヤモリ（クレスティッドゲッコー）。MBD（骨代謝疾患）の予防、適正湿度（60%〜80%）、自尾・尻尾振りのサインを読み解く3ステップホームケアを紹介します。",
-                "authority": "国際爬虫類保全プロトコル＆USARK飼育基準",
-                "profile": {
-                    "breed": "オウカンミカドヤモリ / クレスティッドゲッコー (Crested Gecko)",
-                    "lifespan": "15 〜 20年",
-                    "sleep_pattern": "12 〜 14時間 (夜行性、昼間はシェルターで休息)",
-                    "temperament": "温厚、好奇心旺盛、樹上性、環境変化に敏感"
-                },
-                "intro": "目の上の王冠（まつ毛）のような突起が特徴的なクレスティッドゲッコー（オウカンミカドヤモリ）は、温厚な性格と専用人工飼料（スーパーフード）で飼育できる手軽さから、世界中で愛されている樹上性ヤモリです。樹上性爬虫類として高さのあるケージ環境と適正湿度（60%〜80%）、涼しい室温（20°C〜26°C）の維持が不可欠です。特にカルシウム吸収不足によるMBD（代謝性骨疾患）の予防と、一度切れたら再生しない尻尾を守るためのストレス管理が重要です。本記事では、クレスティッドゲッコーの身体サインを読み解き、健康を守る3ステップルーティンをお届けします。",
-                "whyTitle": "クレスティッドゲッコーのボディランゲージ：S字尻尾振りと目を舐める動作 (Eye Wiping)",
-                "whyDesc": "クレスティッドゲッコーは尻尾の動きと舌の動きで感情状態を表現します。尻尾をS字に持ち上げてゆっくり振る行動は、脅威を感じて警戒・威嚇している**「警戒・威嚇サイン（Tail S-Wagging）」**であり、自尾（尻尾切り）の前に見せる反応です。一方、舌で目や口の周りを舐める行動は、まぶたのない目を潤し匂い粒子を集める自然な**「衛生・探索サイン（Eye Wiping）」**です。",
-                "body_signals": [
-                    {
-                        "name": "尻尾をS字に立ててゆっくり振る (Tail S-Wagging)",
-                        "meaning": "捕食者や脅威を感じた際に見せる自尾（尻尾切り）直前の極度の警戒およびストレス反応です。",
-                        "response": "ハンドリングを直ちに中止し、暗く静かなシェルターへ戻して休ませてください。"
-                    },
-                    {
-                        "name": "舌で目や口の周りを舐める (Eye Wiping / Tongue Flicking)",
-                        "meaning": "まぶたのない目の表面を湿らせ、ヤコブソン器官へ匂い粒子を運ぶ正常な行動です。",
-                        "response": "正常な行動ですので邪魔をせず、ケージ内の湿度（60%〜80%）が適正か確認してください。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：ケージ壁面への霧吹き＆涼しい温湿度の確認",
-                        "text": "壁面についた水滴を舐めて給水できるよう霧吹きを行い、涼しい昼間温度（22°C〜25°C）を保ちます。"
-                    },
-                    {
-                        "name": "昼：直射日光の遮断＆シェルターでの睡眠環境モニタリング",
-                        "text": "28°C以上の高温に非常に弱いため、直射日光を避けて涼しく暗い場所で静かに休ませます。"
-                    },
-                    {
-                        "name": "夜：人工飼料（スーパーフード）の給餌＆夜間湿度（70%〜80%）の噴霧",
-                        "text": "2〜3日に1回カルシウムの入った人工フードを与え、夜間の活動と脱皮を助けるためにしっかりと霧吹きします。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "クレスティッドゲッコーの尻尾は切れたら再生しますか？",
-                        "answer": "いいえ、クレスティッドゲッコーは他の多くのヤモリと異なり、一度切れた尻尾は二度と再生せず、切れた跡は丸いボタン状になります。そのため、無理に尻尾を掴んだり大きなストレスを与えないよう注意しましょう。"
-                    },
-                    {
-                        "question": "生き餌（コオロギ）は必須ですか？スーパーフードだけで育てられますか？",
-                        "answer": "クレスティッドゲッコー専用の人工飼料（スーパーフード/MRP）だけで十分な栄養補給が可能です。ただし、カルシウム吸収不足によるMBD（代謝性骨疾患）を防ぐため、カルシウム添加の有無を定期的に確認してください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "睫角守宫脱皮与湿度护理及肢体信号解读的3步日常护理流程",
-                "description": "睫角守宫（Crested Gecko）护理指南。介绍骨骼代谢病（MBD）预防、适宜湿度（60%~80%）维持，以及断尾前兆与甩尾信号解读的3步骤家庭护理。",
-                "authority": "国际爬行动物保育协议与 USARK 兽医护理标准",
-                "profile": {
-                    "breed": "睫角守宫 (Crested Gecko)",
-                    "lifespan": "15 ~ 20年",
-                    "sleep_pattern": "12 ~ 14小时 (夜行性，白天在躲避穴休息)",
-                    "temperament": "温和、好奇、树栖型、对环境变化敏感"
-                },
-                "intro": "睫角守宫（Crested Gecko）因眼睛上方如睫毛般的刺状突起而得名，因其温和的性格和可使用人工果泥（Superfood / MRP）喂养的便利性，成为全球最受欢迎的树栖守宫。作为树栖爬行动物，提供高高的饲养缸、适宜的湿度（60%~80%）及凉爽的温度（20°C~26°C）至关重要。此外，需通过补充钙质预防骨骼代谢病（MBD），且由于断尾后无法再生，控制应激反应是重中之重。本指南将带您准确解读睫角守宫的肢体语言，并通过3步骤日常护理维护其健康。",
-                "whyTitle": "睫角守宫的肢体语言：S型甩尾与舌头舔眼 (Eye Wiping)",
-                "whyDesc": "睫角守宫通过尾部动作与舌头行为表达情绪。将尾巴抬起成S型并缓慢摆动，是感到威胁或极度紧张时的**“警惕与防御信号 (Tail S-Wagging)”**，也是自残断尾前的预警。相反，用舌头舔拭眼睛或嘴边，则是为没有眼睑的眼睛保湿并收集气味分子的正常**“卫生与探索信号 (Eye Wiping)”**。",
-                "body_signals": [
-                    {
-                        "name": "尾巴抬起呈S型并缓慢摆动 (Tail S-Wagging)",
-                        "meaning": "受到捕食者威胁或强应激时发出的极度警惕警告，极易引发自我断尾。",
-                        "response": "立即停止上手互动，将其放回黑暗安静的躲避穴中静养。"
-                    },
-                    {
-                        "name": "用舌头舔拭眼球或嘴边 (Eye Wiping / Tongue Flicking)",
-                        "meaning": "为无眼睑的眼球表面清洁保湿，并将气味分子传送至锄鼻器的正常行为。",
-                        "response": "属于正常生理行为无需打扰，请检查缸内湿度（60%~80%）是否适宜。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：缸壁喷水补水与白天温湿度检查",
-                        "text": "向缸壁喷水以便其舔拭水滴补水，并维持凉爽的白天温度（22°C~25°C）。"
-                    },
-                    {
-                        "name": "中午：遮蔽阳光与躲避穴睡眠环境监测",
-                        "text": "睫角守宫极度怕热（高于28°C易致死），应避免阳光直射，提供阴凉黑暗的休息环境。"
-                    },
-                    {
-                        "name": "晚上：果泥喂食与夜间喷水湿润 (70%~80%)",
-                        "text": "每2~3天喂食一次添加钙粉的专用果泥（Superfood），并在夜间充分喷水以支持其活动与蜕皮。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "睫角守宫断尾后还会再长出来吗？",
-                        "answer": "不会。与许多其他蜥蜴不同，睫角守宫断尾后无法再生，尾巴断裂处会愈合成光滑的按钮状。因此请勿抓握其尾巴或使其遭受剧烈惊吓。"
-                    },
-                    {
-                        "question": "必须喂食活体昆虫吗？只喂专用果泥可以吗？",
-                        "answer": "完全可以。市售的睫角守宫专用配合饲料（果泥/MRP）已包含全面的营养。只需注意定期补充钙质与维生素D3，即可有效预防骨骼代谢病（MBD）。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Rutina diaria de 3 pasos para el cuidado de humedad, muda y señales de conducta del Gecko Crestado",
-                "description": "Guía de cuidado para el Gecko Crestado (Crested Gecko). Prevenga la EMO, mantenga la humedad ideal (60%-80%) e interprete las señales de la cola y limpieza ocular con una rutina de 3 pasos.",
-                "authority": "Protocolo Internacional de Conservación de Reptiles y Estándares Veterinarios de USARK",
-                "profile": {
-                    "breed": "Gecko Crestado (Crested Gecko)",
-                    "lifespan": "15 ~ 20 años",
-                    "sleep_pattern": "12 ~ 14 horas (Nocturno, descansa en refugios durante el día)",
-                    "temperament": "Dócil, Curioso, Arborícola, Sensible a los cambios ambientales"
-                },
-                "intro": "Famoso por las crestas en forma de pestañas sobre sus ojos, el Gecko Crestado (Correlophus ciliatus) es uno de los reptiles de compañía más populares del mundo gracias a su carácter dócil y a la comodidad de su dieta en polvo (Superfood / MRP). Como reptil arborícola, requiere un terrario alto, ciclos de humedad adecuados (60%-80%) y temperaturas frescas (20°C-26°C). Prevenir la Enfermedad Ósea Metabólica (EMO) por falta de calcio es vital, y dado que su cola no se regenera si la pierde, evitar el estrés es primordial. En esta guía, presenta una rutina de 3 pasos para interpretar sus señales corporales y cuidar su salud.",
-                "whyTitle": "Lenguaje corporal del Gecko Crestado: Movimiento en S de la cola y limpieza ocular (Eye Wiping)",
-                "whyDesc": "Los geckos crestados comunican su estado emocional mediante el movimiento de su cola y lengua. Levantar la cola en forma de S y moverla lentamente es una **'Señal de alerta y amenaza (Tail S-Wagging)'** previa a la autotomía (soltar la cola). Por el contrario, pasar la lengua sobre sus ojos o hocico es una **'Señal natural de higiene y exploración (Eye Wiping)'** para hidratar sus ojos sin párpados y captar partículas de olor.",
-                "body_signals": [
-                    {
-                        "name": "Cola levantada en forma de S con movimiento lento (Tail S-Wagging)",
-                        "meaning": "Advertencia de estrés defensivo extremo exhibido ante amenazas o manipulación, que suele preceder a la pérdida de la cola.",
-                        "response": "Detenga la manipulación de inmediato y regréselo a un refugio oscuro y tranquilo para que se calme."
-                    },
-                    {
-                        "name": "Lamerse los ojos o el hocico con la lengua (Eye Wiping / Tongue Flicking)",
-                        "meaning": "Comportamiento natural que hidrata la superficie ocular sin párpados y transporta moléculas de olor al órgano de Jacobson.",
-                        "response": "Es un comportamiento normal; no lo moleste y verifique que la humedad del terrario (60%-80%) sea la adecuada."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Pulverización de las paredes y control de temperatura/humedad",
-                        "text": "Rocíe agua en las paredes del terrario para que pueda beber las gotas y mantenga una temperatura diurna fresca (22°C-25°C)."
-                    },
-                    {
-                        "name": "Tarde: Bloqueo de luz solar directa y monitoreo del refugio",
-                        "text": "Proteja al gecko de la luz solar directa ya que es muy vulnerable a temperaturas superiores a 28°C, garantizando un descanso fresco y oscuro."
-                    },
-                    {
-                        "name": "Noche: Alimentación con papilla en polvo y pulverización nocturna (70%-80%)",
-                        "text": "Ofrezca alimento preparado en polvo con calcio cada 2-3 días y rocíe bien el terrario para favorecer la actividad nocturna y la muda."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Vuelve a crecer la cola del Gecko Crestado si la pierde?",
-                        "answer": "No. A diferencia de otras lagartijas, el Gecko Crestado no vuelve a regenerar su cola tras perderla; el área cicatriza en forma de botón liso. Por lo tanto, tenga cuidado de no sujetar su cola con fuerza ni causarle un estrés extremo."
-                    },
-                    {
-                        "question": "¿Es obligatorio alimentar con insectos vivos o basta con la papilla (superfood)?",
-                        "answer": "La papilla comercial para Gecko Crestado (MRP / Superfood) proporciona una nutrición completa por sí sola. Sin embargo, debe verificar periódicamente la adición de calcio para prevenir la Enfermedad Ósea Metabólica (EMO)."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Routine quotidienne en 3 étapes pour la mue, l'humidité et les signaux comportementaux du Gecko à Crête",
-                "description": "Guide de soins pour le Gecko à Crête (Crested Gecko). Prévenez la MBD, maintenez l'humidité (60%–80%) et décryptez les signaux de queue et de nettoyage des yeux en 3 étapes.",
-                "authority": "Protocole International de Conservation des Reptiles & Normes Vétérinaires USARK",
-                "profile": {
-                    "breed": "Gecko à Crête (Crested Gecko)",
-                    "lifespan": "15 ~ 20 ans",
-                    "sleep_pattern": "12 ~ 14 heures (Nocturne, se repose dans des cachettes le jour)",
-                    "temperament": "Docile, Curieux, Arboricole, Sensible aux changements d'environnement"
-                },
-                "intro": "Célèbre pour les crêtes en forme de cils au-dessus de ses yeux, le Gecko à Crête (Correlophus ciliatus) est l'un des reptiles de compagnie les plus populaires au monde en raison de sa douceur et de la simplicité de son alimentation en poudre (Superfood / MRP). En tant que reptile arboricole, un terrarium haut, une humidité bien gérée (60%–80%) et des températures fraîches (20°C–26°C) sont essentiels. Prévenir la Maladie Osseuse Métabolique (MBD) due au manque de calcium est crucial, et comme sa queue ne repousse pas en cas d'autotomie, la gestion du stress est prioritaire. Dans ce guide, vous présente une routine en 3 étapes pour décrypter ses signaux et préserver sa santé.",
-                "whyTitle": "Langage corporel du Gecko à Crête : Ondulation de la queue en S et nettoyage des yeux (Eye Wiping)",
-                "whyDesc": "Le Gecko à Crête exprime ses émotions par les mouvements de sa queue et de sa langue. Lever la queue en forme de S et l'agiter lentement est un **« Signal d'alerte et de menace (Tail S-Wagging) »** précédant l'autotomie (perte de la queue). À l'inverse, passer sa langue sur ses yeux ou son museau est un **« Signal naturel d'hygiène et d'exploration (Eye Wiping) »** pour hydrater ses yeux sans paupières et capter les odeurs.",
-                "body_signals": [
-                    {
-                        "name": "Queue levée en S et agitée lentement (Tail S-Wagging)",
-                        "meaning": "Avertissement de stress défensif extrême face à une menace ou manipulation, précédant souvent la perte de la queue.",
-                        "response": "Cessez immédiatement toute manipulation et remettez-le dans une cachette sombre et calme pour qu'il se apaise."
-                    },
-                    {
-                        "name": "Léchage des yeux ou de la bouche (Eye Wiping / Tongue Flicking)",
-                        "meaning": "Comportement naturel qui hydrate la surface de ses yeux sans paupières et transporte les molécules d'odeur vers l'organe de Jacobson.",
-                        "response": "C'est un comportement normal ; ne le dérangez pas et vérifiez que l'humidité du terrarium (60%–80%) est adéquate."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Pulvérisation des parois & contrôle de température/humidité",
-                        "text": "Vaporisez de l'eau sur les vitres pour qu'il puisse boire les gouttelettes, et maintenez une température diurne fraîche (22°C–25°C)."
-                    },
-                    {
-                        "name": "Après-midi : Protection contre le soleil direct & surveillance du repos",
-                        "text": "Protégez le gecko de la lumière directe du soleil car il est très sensible aux températures supérieures à 28°C, lui assurant un repos frais."
-                    },
-                    {
-                        "name": "Soir : Repas de papille en poudre & vaporisation nocturne (70%–80%)",
-                        "text": "Proposez une papille enrichie en calcium tous les 2-3 jours et vaporisez bien le terrarium pour l'activité nocturne et la mue."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "La queue du Gecko à Crête repousse-t-elle s'il la perd ?",
-                        "answer": "Non. Contrairement à d'autres lézards, le Gecko à Crête ne régénère pas sa queue après l'avoir perdue ; le moignon cicatrise en forme de bouton lisse. Veillez donc à ne pas saisir brutalement sa queue ni lui causer de stress intense."
-                    },
-                    {
-                        "question": "Faut-il obligatoirement donner des insectes vivants ou la papille (superfood) suffit-elle ?",
-                        "answer": "La papille commerciale complète (MRP / Superfood) suffit à elle seule à couvrir ses besoins nutritionnels. Cependant, vous devez vérifier régulièrement la supplémentation en calcium pour prévenir la MBD."
-                    }
-                ]
-            },
-            "de": {
-                "title": "3-Schritte-Tagesroutine für Häutung, Luftfeuchtigkeit und Körpersprache des Kronengeckos",
-                "description": "Pflegeanleitung für den Kronengecko (Crested Gecko). MBD vorbeugen, optimale Luftfeuchtigkeit (60 %–80 %) halten und Schwanz- sowie Augenputzsignale verstehen.",
-                "authority": "Internationales Reptilienschutz-Protokoll & USARK Tiermedizinische Standards",
-                "profile": {
-                    "breed": "Kronengecko (Crested Gecko)",
-                    "lifespan": "15 ~ 20 Jahre",
-                    "sleep_pattern": "12 ~ 14 Stunden (Nachtaktiv, ruht tagsüber in Verstecken)",
-                    "temperament": "Sanftmütig, Neugierig, Baumbewohnend, Empfindlich gegenüber Umweltveränderungen"
-                },
-                "intro": "Der für seine wimpernartigen Kammschuppen bekannte Kronengecko (Correlophus ciliatus) gehört wegen seines friedlichen Wesens und der einfachen Fütterung mit Pulvernahrung (Superfood / MRP) zu den weltweit beliebtesten Heimreptilien. Als baumbewohnendes Reptil benötigt er ein hohes Terrarium, passende Luftfeuchtigkeitszyklen (60 %–80 %) und kühle Temperaturen (20 °C–26 °C). Die Vorbeugung der Metabolischen Knochenerkrankung (MBD) durch Calcium ist entscheidend. Da ein abgeworfener Schwanz nicht nachwächst, steht Stressvermeidung an erster Stelle. Heute präsentiert  eine 3-Schritte-Routine für Ihren Kronengecko.",
-                "whyTitle": "Körpersprache des Kronengeckos: S-förmiges Schwanzwedeln und Augenputzen (Eye Wiping)",
-                "whyDesc": "Kronengeckos drücken ihren Gemütszustand über Schwanz- und Zungenbewegungen aus. Das Anheben des Schwanzes in S-Form mit langsamem Wedeln ist ein **'Abwehr- und Warnsignal (Tail S-Wagging)'** vor dem Schwanzabwurf (Autotomie). Das Überlecken der Augen oder des Mauls mit der Zunge ist dagegen ein natürliches **'Hygiene- und Erkundungssignal (Eye Wiping)'**, um die lidlosen Augen zu befeuchten und Geruchspartikel aufzunehmen.",
-                "body_signals": [
-                    {
-                        "name": "Schwanz S-förmig aufgestellt und langsam gewedelt (Tail S-Wagging)",
-                        "meaning": "Extreme Abwehr- und Stresswarnung bei Bedrohung oder Handling, die oft dem Schwanzabwurf vorausgeht.",
-                        "response": "Beenden Sie das Handling sofort und setzen Sie ihn in ein dunkles, ruhiges Versteck zurück, damit er sich beruhigt."
-                    },
-                    {
-                        "name": "Befeuchten der Augen oder des Mauls mit der Zunge (Eye Wiping / Tongue Flicking)",
-                        "meaning": "Natürliches Verhalten zur Befeuchtung der lidlosen Augen und zur Übertragung von Geruchsmolekülen an das Jacobson-Organ.",
-                        "response": "Dies ist völlig normal; stören Sie ihn nicht und prüfen Sie, ob die Luftfeuchtigkeit im Terrarium (60 %–80 %) angemessen ist."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Sprühen der Terrarienwände & Kontrolle von Temperatur und Feuchtigkeit",
-                        "text": "Sprühen Sie Wasser an die Wände, damit der Gecko Tropfen auflecken kann, und halten Sie eine kühle Tagestemperatur (22 °C–25 °C)."
-                    },
-                    {
-                        "name": "Mittag: Schutz vor direktem Sonnenlicht & Ruheplatzüberwachung",
-                        "text": "Schützen Sie den Gecko vor direkter Sonne, da Temperaturen über 28 °C gefährlich sind, und sorgen Sie für einen kühlen, dunklen Ruheplatz."
-                    },
-                    {
-                        "name": "Abend: Fütterung von Pulver-Superfood & Abendliches Sprühen (70 %–80 %)",
-                        "text": "Bieten Sie alle 2–3 Tage mit Calcium angereichertes Superfood an und sprühen Sie das Terrarium gründlich für die Nachtaktivität und Häutung."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Wächst der Schwanz eines Kronengeckos nach, wenn er abgeworfen wurde?",
-                        "answer": "Nein, im Gegensatz zu vielen anderen Eidechsen regeneriert sich der Schwanz eines Kronengeckos nach dem Abwurf nicht mehr; die Stelle heilt als glatter Stumpf ab. Achten Sie daher darauf, den Schwanz niemals festzugreifen oder extremen Stress zu verursachen."
-                    },
-                    {
-                        "question": "Muss ich Lebendinsekten füttern oder reicht das Fertigfutter (Superfood)?",
-                        "answer": "Ein vollwertiges Anrührfutter für Kronengeckos (MRP / Superfood) reicht als Alleinfutter aus. Sie sollten jedoch regelmäßig auf eine ausreichende Calciumversorgung achten, um der Metabolischen Knochenerkrankung (MBD) vorzubeugen."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Rotina diária de 3 passos para o cuidado com umidade, muda de pele e sinais comportamentais do Gecko-Cristado",
-                "description": "Guia de cuidados para o Gecko-Cristado (Crested Gecko). Previna a EMO, mantenha a umidade ideal (60%-80%) e entenda os sinais do rabo e limpeza ocular com uma rotina em 3 passos.",
-                "authority": "Protocolo Internacional de Conservação de Répteis & Padrões Veterinários da USARK",
-                "profile": {
-                    "breed": "Gecko-Cristado (Crested Gecko)",
-                    "lifespan": "15 ~ 20 anos",
-                    "sleep_pattern": "12 ~ 14 horas (Noturno, descansa em abrigos durante o dia)",
-                    "temperament": "Dócil, Curioso, Arborícola, Sensível a mudanças ambientais"
-                },
-                "intro": "Famoso pelas cristas em forma de cílios sobre os olhos, o Gecko-Cristado (Correlophus ciliatus) é um dos répteis de estimação mais populares do mundo devido ao seu temperamento dócil e à praticidade de sua dieta em pó (Superfood / MRP). Como réptil arborícola, necessita de um terrário alto, ciclos de umidade adequados (60%-80%) e temperaturas amenas (20°C-26°C). Prevenir a Doença Óssea Metabólica (EMO) pela falta de cálcio é vital, e como sua cauda não se regenera caso seja perdida, evitar o estresse é prioridade. Neste guia, apresenta uma rotina de 3 passos para entender seus sinais e cuidar da sua saúde.",
-                "whyTitle": "Linguagem corporal do Gecko-Cristado: Movimento em S da cauda e limpeza ocular (Eye Wiping)",
-                "whyDesc": "Os geckos-cristados comunicam seu estado emocional através dos movimentos da cauda e da língua. Levantar a cauda em formato de S e balançá-la lentamente é um **'Sinal de alerta e ameaça (Tail S-Wagging)'** anterior à autotomia (perda da cauda). Por outro lado, passar a língua sobre os olhos ou focinho é um **'Sinal natural de higiene e exploração (Eye Wiping)'** para hidratar os olhos sem pálpebras e captar partículas de odor.",
-                "body_signals": [
-                    {
-                        "name": "Cauda levantada em formato de S com movimento lento (Tail S-Wagging)",
-                        "meaning": "Aviso de estresse defensivo extremo exibido diante de ameaças ou manuseio, que costuma anteceder a perda da cauda.",
-                        "response": "Interrompa o manuseio imediatamente e retorne-o a um abrigo escuro e tranquilo para que se acalme."
-                    },
-                    {
-                        "name": "Lamber os olhos ou o focinho com a língua (Eye Wiping / Tongue Flicking)",
-                        "meaning": "Comportamento natural que hidrata a superfície ocular sem pálpebras e transporta moléculas de odor ao órgão de Jacobson.",
-                        "response": "É um comportamento totalmente normal; não o perturbe e verifique se a umidade do terrário (60%-80%) está adequada."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Borrifação das paredes do terrário & controle de temperatura e umidade",
-                        "text": "Borrife água nas paredes do terrário para que ele possa beber as gotas e mantenha uma temperatura diurna amena (22°C-25°C)."
-                    },
-                    {
-                        "name": "Tarde: Proteção contra luz solar direta & monitoramento do abrigo",
-                        "text": "Proteja o gecko da luz solar direta, pois ele é muito sensível a temperaturas acima de 28°C, garantindo um descanso fresco."
-                    },
-                    {
-                        "name": "Noite: Alimentação com ração em pó e borrifação noturna (70%-80%)",
-                        "text": "Ofereça alimento em pó enriquecido com cálcio a cada 2-3 dias e borrife bem o terrário para apoiar a atividade noturna e a troca de pele."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "A cauda do Gecko-Cristado cresce de volta se for perdida?",
-                        "answer": "Não. Ao contrário de muitos outros lagartos, o Gecko-Cristado não regenera sua cauda após perdê-la; o local cicatriza formando um cotoco liso. Por isso, tenha cuidado para não segurar sua cauda com força nem causar estresse extremo."
-                    },
-                    {
-                        "question": "É obrigatório oferecer insetos vivos ou a ração em pó (superfood) é suficiente?",
-                        "answer": "A ração comercial completa em pó para Gecko-Cristado (MRP / Superfood) fornece nutrição completa por si só. No entanto, você deve verificar periodicamente a suplementação de cálcio para prevenir a Doença Óssea Metabólica (EMO)."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Perawatan Kelembapan, Ganti Kulit, dan Sinyal Perilaku Crested Gecko: Rutinitas Harian 3 Langkah",
-                "description": "Panduan perawatan Crested Gecko yang unik. Cegah MBD, jaga kelembapan ideal (60%–80%), dan pahami gerakan ekor serta usapan mata dalam 3 langkah.",
-                "authority": "Protokol Konservasi Reptil Internasional & Standar Perawatan Medis USARK",
-                "profile": {
-                    "breed": "Crested Gecko (Crested Gecko)",
-                    "lifespan": "15 ~ 20 tahun",
-                    "sleep_pattern": "12 ~ 14 jam (Nokturnal, beristirahat di tempat sembunyi saat siang)",
-                    "temperament": "Jinak, Penasaran, Arboreal (Pohon), Sensitif terhadap perubahan lingkungan"
-                },
-                "intro": "Terkenal dengan jambul mirip bulu mata di atas matanya, Crested Gecko (Correlophus ciliatus) adalah salah satu reptil peliharaan paling populer di dunia berkat sifatnya yang jinak dan kemudahan pakan serbuknya (Superfood / MRP). Sebagai reptil arboreal, menyediakan kandang yang tinggi, siklus kelembapan yang tepat (60%–80%), dan suhu sejuk (20°C–26°C) sangatlah penting. Mencegah Penyakit Tulang Metabolik (MBD) akibat kekurangan kalsium sangat krusial, dan karena ekornya yang putus tidak dapat tumbuh kembali, meminimalkan stres adalah prioritas utama. Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk memahami sinyal tubuh dan menjaga kesehatannya.",
-                "whyTitle": "Bahasa Tubuh Crested Gecko: Gerakan Ekor Bentuk S dan Usapan Mata (Eye Wiping)",
-                "whyDesc": "Crested Gecko menyampaikan kondisi emosionalnya melalui gerakan ekor dan lidah. Mengangkat ekor membentuk huruf S dan mengibaskannya secara perlahan adalah **'Sinyal Kewaspadaan & Ancaman (Tail S-Wagging)'** sebelum memutus ekornya (autotomi). Sebaliknya, menjilat mata atau sekitar moncongnya adalah **'Sinyal Kebersihan & Eksplorasi Alami (Eye Wiping)'** untuk melembapkan mata tanpa kelopak dan mengumpulkan partikel aroma.",
-                "body_signals": [
-                    {
-                        "name": "Ekor Diangkat Bentuk S dan Dikibaskan Perlahan (Tail S-Wagging)",
-                        "meaning": "Peringatan stres defensif ekstrem saat merasa terancam atau penanganan kasar, sering kali mendahului pelepasan ekor.",
-                        "response": "Segera hentikan penanganan dan kembalikan mereka ke tempat sembunyi yang gelap dan tenang agar kembali tenang."
-                    },
-                    {
-                        "name": "Menjilat Bola Mata atau Sekitar Mulut dengan Lidah (Eye Wiping / Tongue Flicking)",
-                        "meaning": "Perilaku alami yang melembapkan permukaan mata tanpa kelopak dan mengirimkan molekul aroma ke organ Jacobson.",
-                        "response": "Ini adalah perilaku yang sangat normal; jangan ganggu mereka dan pastikan kelembapan kandang (60%–80%) sudah sesuai."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Penyemprotan Dinding Kandang & Pemeriksaan Suhu/Kelembapan",
-                        "text": "Semprotkan air pada dinding kandang agar mereka dapat menjilat bulir air, dan jaga suhu siang hari tetap sejuk (22°C–25°C)."
-                    },
-                    {
-                        "name": "Siang: Perlindungan dari Sinar Matahari Langsung & Pemantauan Istirahat",
-                        "text": "Lindungi gecko dari sinar matahari langsung karena mereka sangat rentan terhadap suhu di atas 28°C, memastikan tempat istirahat yang sejuk dan gelap."
-                    },
-                    {
-                        "name": "Malam: Pemberian Pakan Serbuk & Penyemprotan Malam Hari (70%–80%)",
-                        "text": "Berikan pakan serbuk berformulasi kalsium setiap 2–3 hari sekali dan semprot kandang dengan baik untuk mendukung aktivitas malam dan ganti kulit."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apakah ekor Crested Gecko bisa tumbuh kembali jika putus?",
-                        "answer": "Tidak. Berbeda dengan banyak spesies kadal lainnya, ekor Crested Gecko tidak akan tumbuh kembali setelah putus; bagian yang putus akan sembuh menjadi buntung yang halus. Oleh karena itu, berhati-hatilah agar tidak memegang ekornya dengan kencang atau menyebabkan stres berat."
-                    },
-                    {
-                        "question": "Apakah wajib memberi pakan serangga hidup, atau pakan serbuk (superfood) saja sudah cukup?",
-                        "answer": "Pakan komersial serbuk khusus Crested Gecko (MRP / Superfood) saja sudah menyediakan nutrisi yang lengkap. Namun, Anda harus memeriksa penambahan kalsium secara berkala untuk mencegah Penyakit Tulang Metabolik (MBD)."
-                    }
-                ]
-            }
+  "crested-gecko-care": {
+    "pubDate": "2026-07-15",
+    "updatedDate": "2026-07-15",
+    "locales": {
+      "ko": {
+        "title": "크레스티드 게코의 탈피·습도 케어와 행동 신호를 위한 3단계 데일리 홈케어",
+        "description": "속눈썹 도마뱀 크레스티드 게코(Crested Gecko). MBD(대사성 뼈 질환) 예방과 적정 습도(60%~80%), 꼬리 자르기·꼬리 흔들기 신호 해석을 위한 3단계 홈케어 루틴을 소개합니다.",
+        "authority": "국제 파충류 보전 수의학 프로토콜 및 USARK Care Standards",
+        "profile": {
+          "breed": "크레스티드 게코 / 속눈썹 도마뱀 (Crested Gecko)",
+          "lifespan": "15 ~ 20년",
+          "sleep_pattern": "12 ~ 14시간 (야행성, 낮 동안 은신처 휴식)",
+          "temperament": "온순함, 호기심 많음, 나무위성(Arboreal), 환경 변화에 민감"
         },
-        "heroImage": "/images/blog/crested_gecko_care.webp"
-    }
+        "intro": "속눈썹을 닮은 벼슬 장식이 특징인 크레스티드 게코(Crested Gecko)는 온순한 성격과 인공 사료(슈퍼푸드) 급여의 편리함으로 전 세계에서 가장 사랑받는 붙이도마뱀입니다. 하지만 나무위성(Arboreal) 파충류로서 높이가 높은 사육장 환경과 적정 습도(60%~80%), 서늘한 온도(20°C~26°C) 관리가 필수적입니다. 특히 칼슘 흡수 부족으로 인한 MBD(대사성 뼈 질환)를 예방해야 하며, 한번 잘린 꼬리는 재생되지 않으므로 스트레스 방지가 중요합니다. 이번 가이드에서는 크레스티드 게코의 신체 신호를 읽고 건강을 지키는 3단계 홈케어 루틴을 소개합니다.",
+        "whyTitle": "크레스티드 게코의 바디 랭귀지: S자 꼬리 흔들기와 혀 핥기 (Eye Wiping)",
+        "whyDesc": "크레스티드 게코는 꼬리의 움직임과 혀 핥기로 감정 상태를 표현합니다. 꼬리를 S자로 세우고 천천히 흔드는 행동은 위협을 느끼거나 위장/경계 중임을 나타내는 **'경계 및 위협 신호(Tail S-Wagging)'**입니다. 반면 눈동자나 코 주변을 혀로 쓱 핥는 것은 눈꺼풀이 없는 눈에 수분을 공급하고 냄새 입자를 수집하는 자연스러운 **'위생 및 탐색 신호(Eye Wiping)'**입니다.",
+        "body_signals": [
+          {
+            "name": "꼬리를 S자로 세우고 천천히 흔듦 (Tail S-Wagging)",
+            "meaning": "포식자나 위협을 느꼈을 때 자해 절단(자투) 전에 보이는 극심한 경계 및 스트레스 반응입니다.",
+            "response": "핸들링을 즉시 중단하고 어둡고 조용한 은신처로 돌려보내 안정을 취하게 합니다."
+          },
+          {
+            "name": "혀로 눈동자나 입 주변을 쓱 핥음 (Eye Wiping / Tongue Flicking)",
+            "meaning": "눈꺼풀이 없는 눈 표면에 수분을 공급하고 자콥슨 기관으로 냄새 입자를 전달하는 자연스러운 행동입니다.",
+            "response": "정상적인 행동이므로 방해하지 말고, 사육장 내 습도(60%~80%)가 적절한지 점검해 줍니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 사육장 벽면 분무 및 서늘한 온·습도 점검",
+            "text": "사육장 벽면에 분무하여 벽면 물방울을 핥아먹을 수 있도록 수분을 공급하고, 서늘한 주간 온도(22°C~25°C)를 유지합니다."
+          },
+          {
+            "name": "낮: 직사광선 차단 및 은신처 수면 환경 모니터링",
+            "text": "28°C 이상의 고온에 매우 취약하므로 서늘하고 어두운 장소에서 숙면을 취할 수 있도록 직사광선을 차단합니다."
+          },
+          {
+            "name": "저녁: 슈퍼푸드 급여 및 야간 습도(70%~80%) 분무",
+            "text": "2~3일에 한 번 칼슘이 첨가된 슈퍼푸드를 급여하고, 야행성 활동을 위해 사육장 전체에 촉촉하게 분무해 줍니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "크레스티드 게코는 꼬리가 잘리면 다시 자라나나요?",
+            "answer": "아니요, 크레스티드 게코는 다른 도마뱀과 달리 한번 잘린 꼬리가 다시 재생되지 않으며 잘린 자리는 버튼 모양으로 굳어집니다. 따라서 강하게 꼬리를 잡거나 극심한 스트레스를 주지 않도록 주의해야 합니다."
+          },
+          {
+            "question": "생먹이(귀뚜라미)를 꼭 먹여야 하나요? 슈퍼푸드만 먹여도 되나요?",
+            "answer": "크레스티드 게코 전용 영양 가루인 '슈퍼푸드(MRP)'만으로도 완벽한 영양 공급이 가능합니다. 다만 칼슘 흡수 부족으로 인한 MBD(대사성 뼈 질환)를 예방하기 위해 칼슘제 첨가 여부를 주기적으로 확인해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Crested Gecko Humidity, Shedding, and Behavioral Signals Care: A 3-Step Daily Routine",
+        "description": "Care guide for the mysterious Crested Gecko. Prevent MBD, maintain optimal humidity (60%–80%), and decode tail-wagging and eye-wiping signals with a 3-step daily routine.",
+        "authority": "International Reptile Conservation Protocols & USARK Veterinary Care Standards",
+        "profile": {
+          "breed": "Crested Gecko / Eyelash Gecko (Crested Gecko)",
+          "lifespan": "15 - 20 Years",
+          "sleep_pattern": "12 - 14 Hours (Nocturnal, Rests in hides during the day)",
+          "temperament": "Docile, Curious, Arboreal, Sensitive to Environmental Changes"
+        },
+        "intro": "Famous for the eyelash-like crests above their eyes, the Crested Gecko (Correlophus ciliatus) is one of the most beloved pet reptiles worldwide due to its gentle nature and convenient powdered diet (Superfood / Meal Replacement Powder). As an arboreal reptile, providing a tall enclosure, proper humidity cycles (60%–80%), and cool temperatures (20°C–26°C) is essential. Preventing Metabolic Bone Disease (MBD) caused by calcium deficiency is crucial, and since a dropped tail does not regenerate, avoiding stress is a priority. In this guide, presents a 3-step daily care routine to read your Crested Gecko's body signals and maintain its health.",
+        "whyTitle": "Crested Gecko Body Language: S-Tail Wagging and Eye Wiping",
+        "whyDesc": "Crested Geckos communicate their emotional state through tail movements and tongue gestures. Raising the tail into an S-shape and slowly waving it is a **'Guarding & Threat Signal (Tail S-Wagging)'** indicating defensive alert or extreme stress before tail autotomy. Conversely, sweeping their tongue over their eyecaps or snout is a natural **'Hygiene & Exploration Signal (Eye Wiping)'** to moisten lidless eyes and gather odor particles.",
+        "body_signals": [
+          {
+            "name": "Raising Tail in an S-Shape and Slowly Waving (Tail S-Wagging)",
+            "meaning": "An extreme alert and stress warning displayed when feeling threatened by predators or handling, often preceding tail drop.",
+            "response": "Immediately stop handling and return them to a dark, quiet enclosure to rest and calm down."
+          },
+          {
+            "name": "Licking Eyeballs or Mouth Area with Tongue (Eye Wiping / Tongue Flicking)",
+            "meaning": "A natural behavior that hydrates the lidless eye surface and delivers scent particles to the Jacobson's organ.",
+            "response": "This is completely normal behavior, so do not disturb them, and verify that enclosure humidity (60%–80%) is appropriate."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Enclosure Wall Misting & Cool Temp/Humidity Check",
+            "text": "Mist the enclosure walls so they can lap up water droplets, and maintain a cool daytime temperature (22°C–25°C)."
+          },
+          {
+            "name": "Afternoon: Direct Sunlight Block & Dark Hide Sleep Monitoring",
+            "text": "Protect the gecko from direct sunlight as they are highly vulnerable to temperatures above 28°C, ensuring a cool and dark resting place."
+          },
+          {
+            "name": "Evening: Powdered Superfood Feeding & Nighttime Misting (70%–80%)",
+            "text": "Offer calcium-fortified superfood every 2–3 days and mist the enclosure thoroughly to support nocturnal activity and shedding."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Does a Crested Gecko's tail grow back if it drops?",
+            "answer": "No, unlike many other lizards, a Crested Gecko's tail does not regenerate once dropped, and the detached site heals into a smooth button-shaped stump. Therefore, be careful never to grab their tail firmly or cause severe stress."
+          },
+          {
+            "question": "Do I need to feed live insects, or is superfood enough?",
+            "answer": "A complete commercial Crested Gecko Diet (MRP / Superfood) alone provides full nutrition. However, you must periodically check calcium fortification to prevent Metabolic Bone Disease (MBD) caused by calcium deficiency."
+          }
+        ]
+      },
+      "ja": {
+        "title": "クレスティッドゲッコーの脱皮・湿度ケアと行動サイン解読のための3ステップデイリールーティン",
+        "description": "まつ毛のような突起が特徴的なオウカンミカドヤモリ（クレスティッドゲッコー）。MBD（骨代謝疾患）の予防、適正湿度（60%〜80%）、自尾・尻尾振りのサインを読み解く3ステップホームケアを紹介します。",
+        "authority": "国際爬虫類保全プロトコル＆USARK飼育基準",
+        "profile": {
+          "breed": "オウカンミカドヤモリ / クレスティッドゲッコー (Crested Gecko)",
+          "lifespan": "15 〜 20年",
+          "sleep_pattern": "12 〜 14時間 (夜行性、昼間はシェルターで休息)",
+          "temperament": "温厚、好奇心旺盛、樹上性、環境変化に敏感"
+        },
+        "intro": "目の上の王冠（まつ毛）のような突起が特徴的なクレスティッドゲッコー（オウカンミカドヤモリ）は、温厚な性格と専用人工飼料（スーパーフード）で飼育できる手軽さから、世界中で愛されている樹上性ヤモリです。樹上性爬虫類として高さのあるケージ環境と適正湿度（60%〜80%）、涼しい室温（20°C〜26°C）の維持が不可欠です。特にカルシウム吸収不足によるMBD（代謝性骨疾患）の予防と、一度切れたら再生しない尻尾を守るためのストレス管理が重要です。本記事では、クレスティッドゲッコーの身体サインを読み解き、健康を守る3ステップルーティンをお届けします。",
+        "whyTitle": "クレスティッドゲッコーのボディランゲージ：S字尻尾振りと目を舐める動作 (Eye Wiping)",
+        "whyDesc": "クレスティッドゲッコーは尻尾の動きと舌の動きで感情状態を表現します。尻尾をS字に持ち上げてゆっくり振る行動は、脅威を感じて警戒・威嚇している**「警戒・威嚇サイン（Tail S-Wagging）」**であり、自尾（尻尾切り）の前に見せる反応です。一方、舌で目や口の周りを舐める行動は、まぶたのない目を潤し匂い粒子を集める自然な**「衛生・探索サイン（Eye Wiping）」**です。",
+        "body_signals": [
+          {
+            "name": "尻尾をS字に立ててゆっくり振る (Tail S-Wagging)",
+            "meaning": "捕食者や脅威を感じた際に見せる自尾（尻尾切り）直前の極度の警戒およびストレス反応です。",
+            "response": "ハンドリングを直ちに中止し、暗く静かなシェルターへ戻して休ませてください。"
+          },
+          {
+            "name": "舌で目や口の周りを舐める (Eye Wiping / Tongue Flicking)",
+            "meaning": "まぶたのない目の表面を湿らせ、ヤコブソン器官へ匂い粒子を運ぶ正常な行動です。",
+            "response": "正常な行動ですので邪魔をせず、ケージ内の湿度（60%〜80%）が適正か確認してください。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：ケージ壁面への霧吹き＆涼しい温湿度の確認",
+            "text": "壁面についた水滴を舐めて給水できるよう霧吹きを行い、涼しい昼間温度（22°C〜25°C）を保ちます。"
+          },
+          {
+            "name": "昼：直射日光の遮断＆シェルターでの睡眠環境モニタリング",
+            "text": "28°C以上の高温に非常に弱いため、直射日光を避けて涼しく暗い場所で静かに休ませます。"
+          },
+          {
+            "name": "夜：人工飼料（スーパーフード）の給餌＆夜間湿度（70%〜80%）の噴霧",
+            "text": "2〜3日に1回カルシウムの入った人工フードを与え、夜間の活動と脱皮を助けるためにしっかりと霧吹きします。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "クレスティッドゲッコーの尻尾は切れたら再生しますか？",
+            "answer": "いいえ、クレスティッドゲッコーは他の多くのヤモリと異なり、一度切れた尻尾は二度と再生せず、切れた跡は丸いボタン状になります。そのため、無理に尻尾を掴んだり大きなストレスを与えないよう注意しましょう。"
+          },
+          {
+            "question": "生き餌（コオロギ）は必須ですか？スーパーフードだけで育てられますか？",
+            "answer": "クレスティッドゲッコー専用の人工飼料（スーパーフード/MRP）だけで十分な栄養補給が可能です。ただし、カルシウム吸収不足によるMBD（代謝性骨疾患）を防ぐため、カルシウム添加の有無を定期的に確認してください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "睫角守宫脱皮与湿度护理及肢体信号解读的3步日常护理流程",
+        "description": "睫角守宫（Crested Gecko）护理指南。介绍骨骼代谢病（MBD）预防、适宜湿度（60%~80%）维持，以及断尾前兆与甩尾信号解读的3步骤家庭护理。",
+        "authority": "国际爬行动物保育协议与 USARK 兽医护理标准",
+        "profile": {
+          "breed": "睫角守宫 (Crested Gecko)",
+          "lifespan": "15 ~ 20年",
+          "sleep_pattern": "12 ~ 14小时 (夜行性，白天在躲避穴休息)",
+          "temperament": "温和、好奇、树栖型、对环境变化敏感"
+        },
+        "intro": "睫角守宫（Crested Gecko）因眼睛上方如睫毛般的刺状突起而得名，因其温和的性格和可使用人工果泥（Superfood / MRP）喂养的便利性，成为全球最受欢迎的树栖守宫。作为树栖爬行动物，提供高高的饲养缸、适宜的湿度（60%~80%）及凉爽的温度（20°C~26°C）至关重要。此外，需通过补充钙质预防骨骼代谢病（MBD），且由于断尾后无法再生，控制应激反应是重中之重。本指南将带您准确解读睫角守宫的肢体语言，并通过3步骤日常护理维护其健康。",
+        "whyTitle": "睫角守宫的肢体语言：S型甩尾与舌头舔眼 (Eye Wiping)",
+        "whyDesc": "睫角守宫通过尾部动作与舌头行为表达情绪。将尾巴抬起成S型并缓慢摆动，是感到威胁或极度紧张时的**“警惕与防御信号 (Tail S-Wagging)”**，也是自残断尾前的预警。相反，用舌头舔拭眼睛或嘴边，则是为没有眼睑的眼睛保湿并收集气味分子的正常**“卫生与探索信号 (Eye Wiping)”**。",
+        "body_signals": [
+          {
+            "name": "尾巴抬起呈S型并缓慢摆动 (Tail S-Wagging)",
+            "meaning": "受到捕食者威胁或强应激时发出的极度警惕警告，极易引发自我断尾。",
+            "response": "立即停止上手互动，将其放回黑暗安静的躲避穴中静养。"
+          },
+          {
+            "name": "用舌头舔拭眼球或嘴边 (Eye Wiping / Tongue Flicking)",
+            "meaning": "为无眼睑的眼球表面清洁保湿，并将气味分子传送至锄鼻器的正常行为。",
+            "response": "属于正常生理行为无需打扰，请检查缸内湿度（60%~80%）是否适宜。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：缸壁喷水补水与白天温湿度检查",
+            "text": "向缸壁喷水以便其舔拭水滴补水，并维持凉爽的白天温度（22°C~25°C）。"
+          },
+          {
+            "name": "中午：遮蔽阳光与躲避穴睡眠环境监测",
+            "text": "睫角守宫极度怕热（高于28°C易致死），应避免阳光直射，提供阴凉黑暗的休息环境。"
+          },
+          {
+            "name": "晚上：果泥喂食与夜间喷水湿润 (70%~80%)",
+            "text": "每2~3天喂食一次添加钙粉的专用果泥（Superfood），并在夜间充分喷水以支持其活动与蜕皮。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "睫角守宫断尾后还会再长出来吗？",
+            "answer": "不会。与许多其他蜥蜴不同，睫角守宫断尾后无法再生，尾巴断裂处会愈合成光滑的按钮状。因此请勿抓握其尾巴或使其遭受剧烈惊吓。"
+          },
+          {
+            "question": "必须喂食活体昆虫吗？只喂专用果泥可以吗？",
+            "answer": "完全可以。市售的睫角守宫专用配合饲料（果泥/MRP）已包含全面的营养。只需注意定期补充钙质与维生素D3，即可有效预防骨骼代谢病（MBD）。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Rutina diaria de 3 pasos para el cuidado de humedad, muda y señales de conducta del Gecko Crestado",
+        "description": "Guía de cuidado para el Gecko Crestado (Crested Gecko). Prevenga la EMO, mantenga la humedad ideal (60%-80%) e interprete las señales de la cola y limpieza ocular con una rutina de 3 pasos.",
+        "authority": "Protocolo Internacional de Conservación de Reptiles y Estándares Veterinarios de USARK",
+        "profile": {
+          "breed": "Gecko Crestado (Crested Gecko)",
+          "lifespan": "15 ~ 20 años",
+          "sleep_pattern": "12 ~ 14 horas (Nocturno, descansa en refugios durante el día)",
+          "temperament": "Dócil, Curioso, Arborícola, Sensible a los cambios ambientales"
+        },
+        "intro": "Famoso por las crestas en forma de pestañas sobre sus ojos, el Gecko Crestado (Correlophus ciliatus) es uno de los reptiles de compañía más populares del mundo gracias a su carácter dócil y a la comodidad de su dieta en polvo (Superfood / MRP). Como reptil arborícola, requiere un terrario alto, ciclos de humedad adecuados (60%-80%) y temperaturas frescas (20°C-26°C). Prevenir la Enfermedad Ósea Metabólica (EMO) por falta de calcio es vital, y dado que su cola no se regenera si la pierde, evitar el estrés es primordial. En esta guía, presenta una rutina de 3 pasos para interpretar sus señales corporales y cuidar su salud.",
+        "whyTitle": "Lenguaje corporal del Gecko Crestado: Movimiento en S de la cola y limpieza ocular (Eye Wiping)",
+        "whyDesc": "Los geckos crestados comunican su estado emocional mediante el movimiento de su cola y lengua. Levantar la cola en forma de S y moverla lentamente es una **'Señal de alerta y amenaza (Tail S-Wagging)'** previa a la autotomía (soltar la cola). Por el contrario, pasar la lengua sobre sus ojos o hocico es una **'Señal natural de higiene y exploración (Eye Wiping)'** para hidratar sus ojos sin párpados y captar partículas de olor.",
+        "body_signals": [
+          {
+            "name": "Cola levantada en forma de S con movimiento lento (Tail S-Wagging)",
+            "meaning": "Advertencia de estrés defensivo extremo exhibido ante amenazas o manipulación, que suele preceder a la pérdida de la cola.",
+            "response": "Detenga la manipulación de inmediato y regréselo a un refugio oscuro y tranquilo para que se calme."
+          },
+          {
+            "name": "Lamerse los ojos o el hocico con la lengua (Eye Wiping / Tongue Flicking)",
+            "meaning": "Comportamiento natural que hidrata la superficie ocular sin párpados y transporta moléculas de olor al órgano de Jacobson.",
+            "response": "Es un comportamiento normal; no lo moleste y verifique que la humedad del terrario (60%-80%) sea la adecuada."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Pulverización de las paredes y control de temperatura/humedad",
+            "text": "Rocíe agua en las paredes del terrario para que pueda beber las gotas y mantenga una temperatura diurna fresca (22°C-25°C)."
+          },
+          {
+            "name": "Tarde: Bloqueo de luz solar directa y monitoreo del refugio",
+            "text": "Proteja al gecko de la luz solar directa ya que es muy vulnerable a temperaturas superiores a 28°C, garantizando un descanso fresco y oscuro."
+          },
+          {
+            "name": "Noche: Alimentación con papilla en polvo y pulverización nocturna (70%-80%)",
+            "text": "Ofrezca alimento preparado en polvo con calcio cada 2-3 días y rocíe bien el terrario para favorecer la actividad nocturna y la muda."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Vuelve a crecer la cola del Gecko Crestado si la pierde?",
+            "answer": "No. A diferencia de otras lagartijas, el Gecko Crestado no vuelve a regenerar su cola tras perderla; el área cicatriza en forma de botón liso. Por lo tanto, tenga cuidado de no sujetar su cola con fuerza ni causarle un estrés extremo."
+          },
+          {
+            "question": "¿Es obligatorio alimentar con insectos vivos o basta con la papilla (superfood)?",
+            "answer": "La papilla comercial para Gecko Crestado (MRP / Superfood) proporciona una nutrición completa por sí sola. Sin embargo, debe verificar periódicamente la adición de calcio para prevenir la Enfermedad Ósea Metabólica (EMO)."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Routine quotidienne en 3 étapes pour la mue, l'humidité et les signaux comportementaux du Gecko à Crête",
+        "description": "Guide de soins pour le Gecko à Crête (Crested Gecko). Prévenez la MBD, maintenez l'humidité (60%–80%) et décryptez les signaux de queue et de nettoyage des yeux en 3 étapes.",
+        "authority": "Protocole International de Conservation des Reptiles & Normes Vétérinaires USARK",
+        "profile": {
+          "breed": "Gecko à Crête (Crested Gecko)",
+          "lifespan": "15 ~ 20 ans",
+          "sleep_pattern": "12 ~ 14 heures (Nocturne, se repose dans des cachettes le jour)",
+          "temperament": "Docile, Curieux, Arboricole, Sensible aux changements d'environnement"
+        },
+        "intro": "Célèbre pour les crêtes en forme de cils au-dessus de ses yeux, le Gecko à Crête (Correlophus ciliatus) est l'un des reptiles de compagnie les plus populaires au monde en raison de sa douceur et de la simplicité de son alimentation en poudre (Superfood / MRP). En tant que reptile arboricole, un terrarium haut, une humidité bien gérée (60%–80%) et des températures fraîches (20°C–26°C) sont essentiels. Prévenir la Maladie Osseuse Métabolique (MBD) due au manque de calcium est crucial, et comme sa queue ne repousse pas en cas d'autotomie, la gestion du stress est prioritaire. Dans ce guide, vous présente une routine en 3 étapes pour décrypter ses signaux et préserver sa santé.",
+        "whyTitle": "Langage corporel du Gecko à Crête : Ondulation de la queue en S et nettoyage des yeux (Eye Wiping)",
+        "whyDesc": "Le Gecko à Crête exprime ses émotions par les mouvements de sa queue et de sa langue. Lever la queue en forme de S et l'agiter lentement est un **« Signal d'alerte et de menace (Tail S-Wagging) »** précédant l'autotomie (perte de la queue). À l'inverse, passer sa langue sur ses yeux ou son museau est un **« Signal naturel d'hygiène et d'exploration (Eye Wiping) »** pour hydrater ses yeux sans paupières et capter les odeurs.",
+        "body_signals": [
+          {
+            "name": "Queue levée en S et agitée lentement (Tail S-Wagging)",
+            "meaning": "Avertissement de stress défensif extrême face à une menace ou manipulation, précédant souvent la perte de la queue.",
+            "response": "Cessez immédiatement toute manipulation et remettez-le dans une cachette sombre et calme pour qu'il se apaise."
+          },
+          {
+            "name": "Léchage des yeux ou de la bouche (Eye Wiping / Tongue Flicking)",
+            "meaning": "Comportement naturel qui hydrate la surface de ses yeux sans paupières et transporte les molécules d'odeur vers l'organe de Jacobson.",
+            "response": "C'est un comportement normal ; ne le dérangez pas et vérifiez que l'humidité du terrarium (60%–80%) est adéquate."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Pulvérisation des parois & contrôle de température/humidité",
+            "text": "Vaporisez de l'eau sur les vitres pour qu'il puisse boire les gouttelettes, et maintenez une température diurne fraîche (22°C–25°C)."
+          },
+          {
+            "name": "Après-midi : Protection contre le soleil direct & surveillance du repos",
+            "text": "Protégez le gecko de la lumière directe du soleil car il est très sensible aux températures supérieures à 28°C, lui assurant un repos frais."
+          },
+          {
+            "name": "Soir : Repas de papille en poudre & vaporisation nocturne (70%–80%)",
+            "text": "Proposez une papille enrichie en calcium tous les 2-3 jours et vaporisez bien le terrarium pour l'activité nocturne et la mue."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "La queue du Gecko à Crête repousse-t-elle s'il la perd ?",
+            "answer": "Non. Contrairement à d'autres lézards, le Gecko à Crête ne régénère pas sa queue après l'avoir perdue ; le moignon cicatrise en forme de bouton lisse. Veillez donc à ne pas saisir brutalement sa queue ni lui causer de stress intense."
+          },
+          {
+            "question": "Faut-il obligatoirement donner des insectes vivants ou la papille (superfood) suffit-elle ?",
+            "answer": "La papille commerciale complète (MRP / Superfood) suffit à elle seule à couvrir ses besoins nutritionnels. Cependant, vous devez vérifier régulièrement la supplémentation en calcium pour prévenir la MBD."
+          }
+        ]
+      },
+      "de": {
+        "title": "3-Schritte-Tagesroutine für Häutung, Luftfeuchtigkeit und Körpersprache des Kronengeckos",
+        "description": "Pflegeanleitung für den Kronengecko (Crested Gecko). MBD vorbeugen, optimale Luftfeuchtigkeit (60 %–80 %) halten und Schwanz- sowie Augenputzsignale verstehen.",
+        "authority": "Internationales Reptilienschutz-Protokoll & USARK Tiermedizinische Standards",
+        "profile": {
+          "breed": "Kronengecko (Crested Gecko)",
+          "lifespan": "15 ~ 20 Jahre",
+          "sleep_pattern": "12 ~ 14 Stunden (Nachtaktiv, ruht tagsüber in Verstecken)",
+          "temperament": "Sanftmütig, Neugierig, Baumbewohnend, Empfindlich gegenüber Umweltveränderungen"
+        },
+        "intro": "Der für seine wimpernartigen Kammschuppen bekannte Kronengecko (Correlophus ciliatus) gehört wegen seines friedlichen Wesens und der einfachen Fütterung mit Pulvernahrung (Superfood / MRP) zu den weltweit beliebtesten Heimreptilien. Als baumbewohnendes Reptil benötigt er ein hohes Terrarium, passende Luftfeuchtigkeitszyklen (60 %–80 %) und kühle Temperaturen (20 °C–26 °C). Die Vorbeugung der Metabolischen Knochenerkrankung (MBD) durch Calcium ist entscheidend. Da ein abgeworfener Schwanz nicht nachwächst, steht Stressvermeidung an erster Stelle. Heute präsentiert  eine 3-Schritte-Routine für Ihren Kronengecko.",
+        "whyTitle": "Körpersprache des Kronengeckos: S-förmiges Schwanzwedeln und Augenputzen (Eye Wiping)",
+        "whyDesc": "Kronengeckos drücken ihren Gemütszustand über Schwanz- und Zungenbewegungen aus. Das Anheben des Schwanzes in S-Form mit langsamem Wedeln ist ein **'Abwehr- und Warnsignal (Tail S-Wagging)'** vor dem Schwanzabwurf (Autotomie). Das Überlecken der Augen oder des Mauls mit der Zunge ist dagegen ein natürliches **'Hygiene- und Erkundungssignal (Eye Wiping)'**, um die lidlosen Augen zu befeuchten und Geruchspartikel aufzunehmen.",
+        "body_signals": [
+          {
+            "name": "Schwanz S-förmig aufgestellt und langsam gewedelt (Tail S-Wagging)",
+            "meaning": "Extreme Abwehr- und Stresswarnung bei Bedrohung oder Handling, die oft dem Schwanzabwurf vorausgeht.",
+            "response": "Beenden Sie das Handling sofort und setzen Sie ihn in ein dunkles, ruhiges Versteck zurück, damit er sich beruhigt."
+          },
+          {
+            "name": "Befeuchten der Augen oder des Mauls mit der Zunge (Eye Wiping / Tongue Flicking)",
+            "meaning": "Natürliches Verhalten zur Befeuchtung der lidlosen Augen und zur Übertragung von Geruchsmolekülen an das Jacobson-Organ.",
+            "response": "Dies ist völlig normal; stören Sie ihn nicht und prüfen Sie, ob die Luftfeuchtigkeit im Terrarium (60 %–80 %) angemessen ist."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Sprühen der Terrarienwände & Kontrolle von Temperatur und Feuchtigkeit",
+            "text": "Sprühen Sie Wasser an die Wände, damit der Gecko Tropfen auflecken kann, und halten Sie eine kühle Tagestemperatur (22 °C–25 °C)."
+          },
+          {
+            "name": "Mittag: Schutz vor direktem Sonnenlicht & Ruheplatzüberwachung",
+            "text": "Schützen Sie den Gecko vor direkter Sonne, da Temperaturen über 28 °C gefährlich sind, und sorgen Sie für einen kühlen, dunklen Ruheplatz."
+          },
+          {
+            "name": "Abend: Fütterung von Pulver-Superfood & Abendliches Sprühen (70 %–80 %)",
+            "text": "Bieten Sie alle 2–3 Tage mit Calcium angereichertes Superfood an und sprühen Sie das Terrarium gründlich für die Nachtaktivität und Häutung."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Wächst der Schwanz eines Kronengeckos nach, wenn er abgeworfen wurde?",
+            "answer": "Nein, im Gegensatz zu vielen anderen Eidechsen regeneriert sich der Schwanz eines Kronengeckos nach dem Abwurf nicht mehr; die Stelle heilt als glatter Stumpf ab. Achten Sie daher darauf, den Schwanz niemals festzugreifen oder extremen Stress zu verursachen."
+          },
+          {
+            "question": "Muss ich Lebendinsekten füttern oder reicht das Fertigfutter (Superfood)?",
+            "answer": "Ein vollwertiges Anrührfutter für Kronengeckos (MRP / Superfood) reicht als Alleinfutter aus. Sie sollten jedoch regelmäßig auf eine ausreichende Calciumversorgung achten, um der Metabolischen Knochenerkrankung (MBD) vorzubeugen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Rotina diária de 3 passos para o cuidado com umidade, muda de pele e sinais comportamentais do Gecko-Cristado",
+        "description": "Guia de cuidados para o Gecko-Cristado (Crested Gecko). Previna a EMO, mantenha a umidade ideal (60%-80%) e entenda os sinais do rabo e limpeza ocular com uma rotina em 3 passos.",
+        "authority": "Protocolo Internacional de Conservação de Répteis & Padrões Veterinários da USARK",
+        "profile": {
+          "breed": "Gecko-Cristado (Crested Gecko)",
+          "lifespan": "15 ~ 20 anos",
+          "sleep_pattern": "12 ~ 14 horas (Noturno, descansa em abrigos durante o dia)",
+          "temperament": "Dócil, Curioso, Arborícola, Sensível a mudanças ambientais"
+        },
+        "intro": "Famoso pelas cristas em forma de cílios sobre os olhos, o Gecko-Cristado (Correlophus ciliatus) é um dos répteis de estimação mais populares do mundo devido ao seu temperamento dócil e à praticidade de sua dieta em pó (Superfood / MRP). Como réptil arborícola, necessita de um terrário alto, ciclos de umidade adequados (60%-80%) e temperaturas amenas (20°C-26°C). Prevenir a Doença Óssea Metabólica (EMO) pela falta de cálcio é vital, e como sua cauda não se regenera caso seja perdida, evitar o estresse é prioridade. Neste guia, apresenta uma rotina de 3 passos para entender seus sinais e cuidar da sua saúde.",
+        "whyTitle": "Linguagem corporal do Gecko-Cristado: Movimento em S da cauda e limpeza ocular (Eye Wiping)",
+        "whyDesc": "Os geckos-cristados comunicam seu estado emocional através dos movimentos da cauda e da língua. Levantar a cauda em formato de S e balançá-la lentamente é um **'Sinal de alerta e ameaça (Tail S-Wagging)'** anterior à autotomia (perda da cauda). Por outro lado, passar a língua sobre os olhos ou focinho é um **'Sinal natural de higiene e exploração (Eye Wiping)'** para hidratar os olhos sem pálpebras e captar partículas de odor.",
+        "body_signals": [
+          {
+            "name": "Cauda levantada em formato de S com movimento lento (Tail S-Wagging)",
+            "meaning": "Aviso de estresse defensivo extremo exibido diante de ameaças ou manuseio, que costuma anteceder a perda da cauda.",
+            "response": "Interrompa o manuseio imediatamente e retorne-o a um abrigo escuro e tranquilo para que se acalme."
+          },
+          {
+            "name": "Lamber os olhos ou o focinho com a língua (Eye Wiping / Tongue Flicking)",
+            "meaning": "Comportamento natural que hidrata a superfície ocular sem pálpebras e transporta moléculas de odor ao órgão de Jacobson.",
+            "response": "É um comportamento totalmente normal; não o perturbe e verifique se a umidade do terrário (60%-80%) está adequada."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Borrifação das paredes do terrário & controle de temperatura e umidade",
+            "text": "Borrife água nas paredes do terrário para que ele possa beber as gotas e mantenha uma temperatura diurna amena (22°C-25°C)."
+          },
+          {
+            "name": "Tarde: Proteção contra luz solar direta & monitoramento do abrigo",
+            "text": "Proteja o gecko da luz solar direta, pois ele é muito sensível a temperaturas acima de 28°C, garantindo um descanso fresco."
+          },
+          {
+            "name": "Noite: Alimentação com ração em pó e borrifação noturna (70%-80%)",
+            "text": "Ofereça alimento em pó enriquecido com cálcio a cada 2-3 dias e borrife bem o terrário para apoiar a atividade noturna e a troca de pele."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "A cauda do Gecko-Cristado cresce de volta se for perdida?",
+            "answer": "Não. Ao contrário de muitos outros lagartos, o Gecko-Cristado não regenera sua cauda após perdê-la; o local cicatriza formando um cotoco liso. Por isso, tenha cuidado para não segurar sua cauda com força nem causar estresse extremo."
+          },
+          {
+            "question": "É obrigatório oferecer insetos vivos ou a ração em pó (superfood) é suficiente?",
+            "answer": "A ração comercial completa em pó para Gecko-Cristado (MRP / Superfood) fornece nutrição completa por si só. No entanto, você deve verificar periodicamente a suplementação de cálcio para prevenir a Doença Óssea Metabólica (EMO)."
+          }
+        ]
+      },
+      "id": {
+        "title": "Perawatan Kelembapan, Ganti Kulit, dan Sinyal Perilaku Crested Gecko: Rutinitas Harian 3 Langkah",
+        "description": "Panduan perawatan Crested Gecko yang unik. Cegah MBD, jaga kelembapan ideal (60%–80%), dan pahami gerakan ekor serta usapan mata dalam 3 langkah.",
+        "authority": "Protokol Konservasi Reptil Internasional & Standar Perawatan Medis USARK",
+        "profile": {
+          "breed": "Crested Gecko (Crested Gecko)",
+          "lifespan": "15 ~ 20 tahun",
+          "sleep_pattern": "12 ~ 14 jam (Nokturnal, beristirahat di tempat sembunyi saat siang)",
+          "temperament": "Jinak, Penasaran, Arboreal (Pohon), Sensitif terhadap perubahan lingkungan"
+        },
+        "intro": "Terkenal dengan jambul mirip bulu mata di atas matanya, Crested Gecko (Correlophus ciliatus) adalah salah satu reptil peliharaan paling populer di dunia berkat sifatnya yang jinak dan kemudahan pakan serbuknya (Superfood / MRP). Sebagai reptil arboreal, menyediakan kandang yang tinggi, siklus kelembapan yang tepat (60%–80%), dan suhu sejuk (20°C–26°C) sangatlah penting. Mencegah Penyakit Tulang Metabolik (MBD) akibat kekurangan kalsium sangat krusial, dan karena ekornya yang putus tidak dapat tumbuh kembali, meminimalkan stres adalah prioritas utama. Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk memahami sinyal tubuh dan menjaga kesehatannya.",
+        "whyTitle": "Bahasa Tubuh Crested Gecko: Gerakan Ekor Bentuk S dan Usapan Mata (Eye Wiping)",
+        "whyDesc": "Crested Gecko menyampaikan kondisi emosionalnya melalui gerakan ekor dan lidah. Mengangkat ekor membentuk huruf S dan mengibaskannya secara perlahan adalah **'Sinyal Kewaspadaan & Ancaman (Tail S-Wagging)'** sebelum memutus ekornya (autotomi). Sebaliknya, menjilat mata atau sekitar moncongnya adalah **'Sinyal Kebersihan & Eksplorasi Alami (Eye Wiping)'** untuk melembapkan mata tanpa kelopak dan mengumpulkan partikel aroma.",
+        "body_signals": [
+          {
+            "name": "Ekor Diangkat Bentuk S dan Dikibaskan Perlahan (Tail S-Wagging)",
+            "meaning": "Peringatan stres defensif ekstrem saat merasa terancam atau penanganan kasar, sering kali mendahului pelepasan ekor.",
+            "response": "Segera hentikan penanganan dan kembalikan mereka ke tempat sembunyi yang gelap dan tenang agar kembali tenang."
+          },
+          {
+            "name": "Menjilat Bola Mata atau Sekitar Mulut dengan Lidah (Eye Wiping / Tongue Flicking)",
+            "meaning": "Perilaku alami yang melembapkan permukaan mata tanpa kelopak dan mengirimkan molekul aroma ke organ Jacobson.",
+            "response": "Ini adalah perilaku yang sangat normal; jangan ganggu mereka dan pastikan kelembapan kandang (60%–80%) sudah sesuai."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Penyemprotan Dinding Kandang & Pemeriksaan Suhu/Kelembapan",
+            "text": "Semprotkan air pada dinding kandang agar mereka dapat menjilat bulir air, dan jaga suhu siang hari tetap sejuk (22°C–25°C)."
+          },
+          {
+            "name": "Siang: Perlindungan dari Sinar Matahari Langsung & Pemantauan Istirahat",
+            "text": "Lindungi gecko dari sinar matahari langsung karena mereka sangat rentan terhadap suhu di atas 28°C, memastikan tempat istirahat yang sejuk dan gelap."
+          },
+          {
+            "name": "Malam: Pemberian Pakan Serbuk & Penyemprotan Malam Hari (70%–80%)",
+            "text": "Berikan pakan serbuk berformulasi kalsium setiap 2–3 hari sekali dan semprot kandang dengan baik untuk mendukung aktivitas malam dan ganti kulit."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah ekor Crested Gecko bisa tumbuh kembali jika putus?",
+            "answer": "Tidak. Berbeda dengan banyak spesies kadal lainnya, ekor Crested Gecko tidak akan tumbuh kembali setelah putus; bagian yang putus akan sembuh menjadi buntung yang halus. Oleh karena itu, berhati-hatilah agar tidak memegang ekornya dengan kencang atau menyebabkan stres berat."
+          },
+          {
+            "question": "Apakah wajib memberi pakan serangga hidup, atau pakan serbuk (superfood) saja sudah cukup?",
+            "answer": "Pakan komersial serbuk khusus Crested Gecko (MRP / Superfood) saja sudah menyediakan nutrisi yang lengkap. Namun, Anda harus memeriksa penambahan kalsium secara berkala untuk mencegah Penyakit Tulang Metabolik (MBD)."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/crested_gecko_care.webp"
+  }
 }

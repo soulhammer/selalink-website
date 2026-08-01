@@ -1,406 +1,406 @@
 {
-    "how-to-store-pineapple": {
-        "ingId": "pineapple",
-        "pubDate": "2026-04-20",
-        "updatedDate": "2026-04-20",
-        "heroImage": "/images/blog/pineapple_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "파인애플 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 파인애플의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
-                "intro": "달콤하고 즙이 많은 파인애플을 사 왔는데, 며칠 지나지 않아 밑동부터 곰팡이가 피거나 위쪽만 시고 아래쪽만 단 경험 다들 있으시죠? 🍍\n\n파인애플은 수확 후에는 당도가 더 이상 올라가지 않는 대표적인 비후숙(Non-climacteric) 과일입니다. 당분이 무거운 밑동(아래쪽)에 집중되어 있어 세워둔 채 방치하면 당도 불균형이 생기고 밑동부터 무름병이 발생하기 쉽습니다. 또한 7℃ 이하의 너무 차가운 기운에 오래 노출되면 냉해(Chilling injury)를 입어 과육이 갈색으로 변합니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 파인애플의 과즙과 당도를 균일하게 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "통파인애플을 상온에 오래 두어 후숙시키려 하지 마세요 ⚠️",
-                        "desc": "파인애플은 수확 순간 당도가 고정되는 비후숙 과일입니다. 상온에 오래 둘수록 당도가 높아지는 것이 아니라 산도가 떨어지고 발효(부패)가 진행되므로 구매 후 빠른 시일 내에 섭취해야 합니다."
-                    },
-                    {
-                        "title": "7℃ 이하의 너무 차가운 냉기에 직접 노출시키지 마세요 (냉해 주의) ❄️",
-                        "desc": "열대 과일인 파인애플은 7℃ 이하에서 장기간 보관 시 과육이 회갈색으로 변하고 심지가 단단해지는 냉해 현상이 발생합니다. 냉장 보관 시 온도가 적정한 야채칸을 이용해야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "통파인애플 크라운(잎)을 잘라내고 거꾸로 세워 보관하기 — 당도 재분배 팁 🔄",
-                        "text": "파인애플의 당분은 아래쪽에 집중되어 있습니다. 💡 보관 팁: 위쪽의 잎(크라운)을 칼로 잘라낸 뒤, 신문지나 키친타월로 감싸 아래위가 뒤집히도록 거꾸로 세워 상온(1~2일) 또는 냉장고에 보관하세요. 밑동에 쏠려 있던 당분이 과육 전체로 골고루 퍼집니다."
-                    },
-                    {
-                        "name": "손질한 파인애플 밀폐 용기에 담아 냉장 보관하기 — 냉장 보관 (5~7일) 📦",
-                        "text": "껍질을 벗기고 잘라낸 과육은 공기와 접촉하면 산화되고 수분이 날아갑니다. 💡 보관 팁: 먹기 좋은 크기로 썰어 바닥에 키친타월을 깐 밀폐 용기(또는 지퍼백)에 담아 냉장고 야채칸(7~10℃)에 보관해 주세요."
-                    },
-                    {
-                        "name": "한 입 크기로 깍둑썰기하여 냉동 보관하기 — 장기 보관 (1~3개월) 🧊",
-                        "text": "파인애플을 완벽한 상태로 오래 보관하는 가장 좋은 방법은 냉동입니다. 💡 보관 팁: 껍질과 심지를 제거하고 한 입 크기로 잘라 쟁반에 겹치지 않게 깔아 급속 냉동한 후, 지퍼백에 옮겨 담아 냉동실(-18℃ 이하)에 보관하면 스무디나 디저트용으로 유용합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "파인애플을 먹을 때 혀가 따갑고 쓰라린 이유는 무엇인가요?",
-                        "answer": "파인애플에 풍부하게 들어있는 단백질 분해 효소인 '브로멜라인(Bromelain)'이 구강 점막의 단백질을 분해하기 때문입니다. 파인애플을 구우면 효소가 파괴되어 혀가 쓰라린 현상 없이 더 달콤하게 즐길 수 있습니다."
-                    },
-                    {
-                        "question": "맛있는 파인애플을 고르는 방법이 있나요?",
-                        "answer": "잎(크라운)이 싱싱한 초록색을 띠고, 바닥면의 색상이 노란빛을 띠며, 달콤한 향이 강하게 나는 것이 좋습니다. 손으로 눌렀을 때 너무 말랑하지 않고 적당한 탄력이 있는 것을 선택하세요."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Store Pineapple Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for pineapple based on official safety guidelines.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Have you ever bought a sweet, juicy pineapple only to find it molding at the bottom or sour at the top and sweet only at the base? 🍍\n\nPineapples are classic non-climacteric fruits, meaning their sugar content does not increase after harvest. Because natural sugars concentrate heavily at the base (bottom), leaving a pineapple upright causes an uneven sugar distribution and encourages bottom rot. Additionally, prolonged exposure to cold temperatures below 7°C causes chilling injury, turning the flesh brown.\n\nIn this guide, introduces a scientifically proven 3-step pineapple storage guide recommended by agriculture and food safety experts to evenly distribute sweetness and maximize freshness. 🛡️",
-                "whyTitle": "Why Store Pineapple This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Do not leave whole pineapples at room temperature to ripen ⚠️",
-                        "desc": "Pineapples are non-climacteric fruits whose sweetness is locked at harvest. Leaving them at room temperature does not make them sweeter; instead, acidity drops and fermentation (spoilage) begins. Consume promptly after purchase."
-                    },
-                    {
-                        "title": "Avoid direct cold exposure below 7°C (Prevent Chilling Injury) ❄️",
-                        "desc": "As tropical fruits, pineapples stored below 7°C (45°F) for extended periods suffer chilling injury, causing flesh browning and hardening of the core. Use the refrigerator crisper drawer for optimal cold storage."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Cut off the crown (top leaves) and store upside down — Sweetness Redistribution Hack 🔄",
-                        "text": "Natural sugars sink and concentrate at the base of the fruit. 💡 Storage Tip: Slice off the leafy crown, wrap the pineapple in paper towels or newspaper, and stand it upside down on its top end for 1–2 days at room temperature or in the fridge. This allows gravity to redistribute sugars evenly throughout the flesh."
-                    },
-                    {
-                        "name": "Store cut fruit in airtight containers in the fridge — Cold Storage (5–7 Days) 📦",
-                        "text": "Once peeled and sliced, pineapple flesh oxidizes and loses moisture rapidly upon contact with air. 💡 Storage Tip: Cut into bite-sized pieces, place them in an airtight container lined with paper towels, and store in the crisper drawer (7–10°C / 45–50°F)."
-                    },
-                    {
-                        "name": "Dice into bite-sized chunks and freeze — Long-Term Storage (1–3 Months) 🧊",
-                        "text": "Freezing is the best method to preserve fresh pineapple flavor for long periods. 💡 Storage Tip: Remove skin and tough core, cut into chunks, pre-freeze on a tray in a single layer so they don't stick together, then transfer to a Ziploc bag in the freezer (-18°C or below)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why does my tongue sting or burn when I eat fresh pineapple?",
-                        "answer": "This sensation is caused by 'Bromelain,' a potent proteolytic (protein-digesting) enzyme naturally present in pineapple that temporarily breaks down proteins in your oral mucosa. Grilling or heating pineapple denatures bromelain, making it sweeter and gentler on the tongue."
-                    },
-                    {
-                        "question": "How do I select a ripe and sweet pineapple at the store?",
-                        "answer": "Look for dark green, fresh leaves on the crown, a body with a warm golden-yellow color radiating from the base, a sweet tropical aroma from the bottom stem, and a firm feel that yields slightly to gentle pressure."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "パイナップルを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくパイナップルの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "甘くてジューシーなパイナップルを買ってきたのに、数日経つとお尻（底）からカビが生えたり、上側は酸っぱく底だけ甘かった経験はありませんか？🍍\n\nパイナップルは収穫後に糖度が上がらない代表的な「非追熟（ノン・クライマクテリック）型」の果物です。糖分が底の部分に集中しているため、立てたまま放置すると甘さにムラができ、底から腐敗しやすくなります。また、7℃以下の冷気に長期間晒されると低温障害を起こし、果肉が褐色に変色します。\n\n本記事では、農学および食品安全の専門家が推奨する、パイナップルの果汁と甘みを均一に保つ3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "丸ごとのパイナップルを常温に長く置いて追熟させようとしないでください ⚠️",
-                        "desc": "パイナップルは収穫した瞬間に糖度が固定される非追熟果物です。常温に長く置いても甘くはならず、酸味が抜けて発酵（腐敗）が進むため、購入後は早めにお召し上がりください。"
-                    },
-                    {
-                        "title": "7℃以下の過度な冷気に直接晒さないでください（低温障害に注意） ❄️",
-                        "desc": "熱帯果実であるパイナップルは7℃以下で長期保存すると、果肉が灰褐色に変色し芯が硬くなる低温障害が発生します。冷蔵保存時は適温の野菜室を使用してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "クラウン（葉）を切り落とし、逆さまに立てて保存する — 甘みの再分散裏ワザ 🔄",
-                        "text": "パイナップルの糖分は底に沈んで集中しています。💡保存のコツ：上部の葉（クラウン）を包丁で切り落とし、新聞紙やキッチンペーパーで包んで上下逆さまにして常温（1〜2日）または冷蔵庫で保存します。底に溜まっていた甘みが全体に行き渡ります。"
-                    },
-                    {
-                        "name": "カットした果肉は密閉容器に入れて冷蔵保存する — 冷蔵保存 (5〜7日間) 📦",
-                        "text": "皮をむいてカットした果肉は空気に触れると酸化し、水分が抜けます。💡保存のコツ：食べやすい大きさに切り、底にキッチンペーパーを敷いた密閉容器（またはジッパーバッグ）に入れて冷蔵庫の野菜室（7〜10℃）で保存してください。"
-                    },
-                    {
-                        "name": "一口大に角切りして冷凍保存する — 長期保存 (1〜3ヶ月間) 🧊",
-                        "text": "パイナップルを長期間美味しさを保って保存するには冷凍が最適です。💡保存の コツ：皮と芯を取り除いて一口大に切り、バットに重ならないよう並べて急速冷凍した後、ジッパーバッグに移して冷凍室（-18℃以下）で保存します。スムージーなどに便利です。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "パイナップルを食べると舌がピリピリ痛むのはなぜですか？",
-                        "answer": "パイナップルに豊富に含まれるタンパク質分解酵素「ブロメライン（ブロメライン）」が、口腔粘膜のタンパク質を分解するためです。パイナップルを加熱（焼くなど）すると酵素が失活し、ピリピリ感なくより甘く楽しむことができます。"
-                    },
-                    {
-                        "question": "美味しいパイナップルの選び方はありますか？",
-                        "answer": "クラウン（葉）が濃い緑色でみずみずしく、底面が黄色みがかっていて、底から甘いトロピカルな香りが漂うものを選びましょう。手で持った時にずっしりと重みがあり、軽く押した時に適度な弾力があるものが良好です。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持菠萝新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解菠萝的最佳储存温度、方式和保鲜时长。",
-                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "您是否买回香甜多汁的菠萝，放了几天却发现底部发霉，或者顶部发酸只有底部发甜？🍍\n\n菠萝是典型的非呼吸跃变型（Non-climacteric）水果，采摘后糖度不会再增加。由于天然糖分高度集中在菠萝底部，如果一直竖着顺放，会导致糖分分布极不均匀，且底部极易受潮腐烂。此外，若长时间暴露于7℃以下的冷气中，会发生冷害（Chilling injury）导致果肉变褐色。\n\n本指南将为您介绍由农业及食品安全专家推荐的3步科学菠萝保鲜秘诀，帮您均匀分散甜度并长久保持新鲜。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "切勿将整颗菠萝长期置于常温下试图“催熟” ⚠️",
-                        "desc": "菠萝属于非呼吸跃变型水果，采摘时糖度已固定。常温久放不会变甜，反而会导致酸度下降并加速发酵腐烂。买回后请尽快食用。"
-                    },
-                    {
-                        "title": "切勿直接暴露于7℃以下的强冷气中（注意防冷害） ❄️",
-                        "desc": "菠萝作为热带水果，在7℃以下长期冷藏会发生冷害，导致果肉变灰褐、果芯变硬。冷藏时请务必存放在温度适宜的蔬菜抽屉中。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "切除顶部冠芽（叶子）并倒立放置 — 糖分重分布窍门 🔄",
-                        "text": "菠萝的糖分自然沉淀并集中在底部。💡储存小贴士：用刀切掉顶部绿叶（冠芽），用纸巾或报纸包裹，将其颠倒头朝下倒立摆放于常温（1~2天）或冰箱中。重力会让底部的糖分均匀渗透至整颗果肉。"
-                    },
-                    {
-                        "name": "切块果肉装入密封盒冷藏 — 冷藏保存 (5~7天) 📦",
-                        "text": "去皮切开后的果肉接触空气极易氧化且流失水分。💡储存小贴士：切成适口小块，放入底部垫有厨房纸巾的密封保鲜盒（或拉链袋）中，存放在冰箱蔬菜抽屉（7~10℃）中。"
-                    },
-                    {
-                        "name": "切成一口大小小块冷冻 — 长期保存 (1~3个月) 🧊",
-                        "text": "冷冻是长久封存新鲜菠萝风味的最佳方式。💡储存小贴士：去皮去芯后切成小块，在托盘上铺平预冻防止粘连，随后转移至冷冻拉链袋中放入冷冻室（-18℃以下）保存，非常适合做冰沙。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "吃菠萝时为什么舌头会有刺痛麻木感？",
-                        "answer": "这是因为菠萝中富含一种名为“菠萝蛋白酶（Bromelain）”的强效蛋白分解酶，它会分解口腔黏膜蛋白。将菠萝加热（如烤菠萝）可使蛋白酶失活，食用时便不会刺痛且口感更甜。"
-                    },
-                    {
-                        "question": "挑选优质香甜菠萝有什么技巧？",
-                        "answer": "选择顶部冠芽呈鲜绿色、菠萝底部呈现明亮黄色、底蒂散发出浓郁热带果香的菠萝。用手轻压时应感觉沉甸甸且具有适度弹性。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener la piña fresca: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la piña según las directrices oficiales de seguridad.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "¿Alguna vez compró una piña jugosa y dulce solo para descubrir que se mohoseaba por abajo o que estaba ácida en la parte superior y dulce solo en la base? 🍍\n\nLa piña es una fruta no climatérica, lo que significa que su contenido de azúcar no aumenta después de la cosecha. Dado que los azúcares naturales se concentran en la base, dejar la piña de pie produce una distribución desigual y favorece la pudrición inferior. Además, la exposición prolongada a temperaturas inferiores a 7 °C causa daño por frío (chilling injury).\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria para redistribuir la dulzura y maximizar la frescura. 🛡️",
-                "whyTitle": "¿Por qué almacenarla así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "No deje la piña entera a temperatura ambiente para madurar ⚠️",
-                        "desc": "La piña es una fruta no climatérica cuya dulzura queda fijada al cosechar. Dejarla a temperatura ambiente no la volverá más dulce; en cambio, la acidez cae y comienza la fermentación (pudrición). Consúmala pronto."
-                    },
-                    {
-                        "title": "Evite la exposición directa al frío por debajo de 7 °C (Evite el daño por frío) ❄️",
-                        "desc": "Al ser una fruta tropical, conservar la piña por debajo de 7 °C por tiempo prolongado causa daño por frío, oscureciendo la pulpa y endureciendo el centro. Use el cajón de verduras del refrigerador."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Corte la corona (hojas) y guarde boca abajo — Truco para redistribuir la dulzura 🔄",
-                        "text": "Los azúcares naturales se asientan y concentran en la base. 💡 Consejo de almacenamiento: Corte la corona de hojas, envuelva la piña en papel de cocina o periódico y colóquela boca abajo (apoyada sobre el corte) durante 1–2 días a temperatura ambiente o en el refrigerador. La gravedad distribuirá el azúcar."
-                    },
-                    {
-                        "name": "Guarde la fruta troceada en recipientes herméticos en el refrigerador — Almacenamiento refrigerado (5 a 7 días) 📦",
-                        "text": "Una vez pelada y cortada, la pulpa se oxida y pierde humedad rápidamente al contacto con el aire. 💡 Consejo de almacenamiento: Corte en trozos, colóquelos en un recipiente hermético con papel de cocina en el fondo y guarde en el cajón de verduras (7–10 °C)."
-                    },
-                    {
-                        "name": "Corte en cubos y congele — Almacenamiento congelado (1 a 3 meses) 🧊",
-                        "text": "Congelar es el mejor método para conservar el sabor fresco de la piña durante mucho tiempo. 💡 Consejo de almacenamiento: Retire la piel y el centro duro, corte en trozos, congele previamente en una bandeja en una sola capa para que no se peguen y pase a una bolsa Ziploc en el congelador (-18 °C o menos)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué me pica o escatima la lengua al comer piña fresca?",
-                        "answer": "Esta sensación es causada por la 'Bromeleína', una potente enzima proteolítica (digestora de proteínas) presente en la piña que descompone temporalmente las proteínas de la mucosa bucal. Asar o calentar la piña desnaturaliza la bromeleína, haciéndola más dulce y suave."
-                    },
-                    {
-                        "question": "¿Cómo elijo una piña madura y dulce en la tienda?",
-                        "answer": "Busque hojas de verde oscuro en la corona, una piel con tono dorado cálido que irradie desde la base, un aroma dulce tropical en el tallo inferior y una firmeza con ligera flexibilidad al presionar suavemente."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver l'ananas frais : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour l'ananas selon les directives officielles de sécurité.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Avez-vous déjà acheté un ananas bien doux pour constater qu'il moisissait par le bas ou qu'il était acide en haut et sucré uniquement à la base ? 🍍\n\nL'ananas est un fruit non climactérique, ce qui signifie que sa teneur en sucre n'augmente plus après la récolte. Les sucres se concentrant fortement dans la base, laisser l'ananas debout crée une répartition inégale et favorise le pourrissement du bas. De plus, une exposition prolongée au froid sous 7 °C provoque des lésions dues au froid.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts pour répartir la douceur et maximiser la fraîcheur de votre ananas. 🛡️",
-                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne laissez pas l'ananas entier à température ambiante pour le faire mûrir ⚠️",
-                        "desc": "L'ananas est un fruit non climactérique dont la teneur en sucre est fixée à la cueillette. Le laisser mûrir ne le rendra pas plus doux ; l'acidité chute et la fermentation (pourrissement) commence. Consommez-le rapidement."
-                    },
-                    {
-                        "title": "Évitez l'exposition directe au froid sous 7 °C (Attention aux dégâts du froid) ❄️",
-                        "desc": "En tant que fruit tropical, conserver l'ananas sous 7 °C sur une longue période provoque des brûlures par le froid : la chair brunit et le cœur durcit. Utilisez le bac à légumes du réfrigérateur."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Couper la couronne (feuilles) et conserver à l'envers — Astuce de répartition du sucre 🔄",
-                        "text": "Les sucres naturels s'accumulent au bas du fruit. 💡 Astuce de conservation : Tranchez la couronne de feuilles, enveloppez l'ananas dans du papier essuie-tout ou du journal et posez-le à l'envers (sur la coupe) pendant 1 à 2 jours à température ambiante ou au frais. La gravité diffusera le sucre."
-                    },
-                    {
-                        "name": "Conserver les morceaux dans des boîtes hermétiques au réfrigérateur — Stockage frais (5 à 7 jours) 📦",
-                        "text": "Une fois pelée et coupée, la chair de l'ananas s'oxyde et se dessèche au contact de l'air. 💡 Astuce de conservation : Coupez-le en dés, placez-les dans une boîte hermétique tapissée de papier essuie-tout et rangez-les dans le bac à légumes (7–10 °C)."
-                    },
-                    {
-                        "name": "Couper en dés et congeler — Stockage congelé (1 à 3 mois) 🧊",
-                        "text": "La congélation est la meilleure méthode pour préserver la saveur fraîche de l'ananas sur le long terme. 💡 Astuce de conservation : Retirez la peau et le cœur dur, coupez en morceaux, pré-congelez sur une plaque sans qu'ils ne se touchent, puis transférez dans un sac Ziploc au congélateur (-18 °C ou moins)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi la langue picote-t-elle quand on mange de l'ananas frais ?",
-                        "answer": "Cette sensation est causée par la 'Bromélaïne', une enzyme protéolytique (qui digère les protéines) présente dans l'ananas et qui dégrade temporairement les protéines de la muqueuse buccale. Griller ou cuire l'ananas détruit la bromélaïne, le rendant plus doux et indolore."
-                    },
-                    {
-                        "question": "Comment choisir un ananas bien mûr et sucré ?",
-                        "answer": "Choisissez un ananas aux feuilles vert foncé bien fraîches, avec une écorce dorée tirant sur le jaune à la base, un parfum tropical sucré au niveau de la tige, et une chair légèrement souple sous une pression douce."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Ananas richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Ananas basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Haben Sie eine süße Ananas gekauft, nur um festzustellen, dass sie am Boden schimmelte oder oben sauer und nur an der Basis süß war? 🍍\n\nAnanas gehört zu den nicht-klimakterischen Früchten, was bedeutet, dass ihr Zuckergehalt nach der Ernte nicht mehr steigt. Da sich der Zucker am Strunkboden sammelt, führt aufrechtes Stehen zu ungleicher Süße und Bodenfäule. Zudem führt Kälte unter 7 °C zu Kälteschäden (Chilling Injury) und braunem Fruchtfleisch.\n\nHIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Süße Ihrer Ananas gleichmäßig zu verteilen und die Frische zu maximieren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Ganze Ananas nicht bei Raumtemperatur 'nachreifen' lassen ⚠️",
-                        "desc": "Ananas ist eine nicht-klimakterische Frucht, deren Süße bei der Ernte feststeht. Langes Stehen bei Raumtemperatur macht sie nicht süßer, sondern baut Säure ab und leitet die Gärung (Verderb) ein. Nach dem Kauf zügig verbrauchen."
-                    },
-                    {
-                        "title": "Kälteeinwirkung unter 7 °C vermeiden (Kälteschaden verhindern) ❄️",
-                        "desc": "Als tropische Frucht erleidet die Ananas bei Temperaturen unter 7 °C Kälteschäden, was zu braunem Fruchtfleisch und einem verhärteten Strunk führt. Nutzen Sie stets das Gemüsefach des Kühlschranks."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Krone (Blätter) abschneiden und auf den Kopf stellen — Süße-Verteilungs-Trick 🔄",
-                        "text": "Der Fruchtzucker sinkt nach unten und sammelt sich am Boden. 💡 Lagerungstipp: Schneiden Sie den Blätterschopf ab, wickeln Sie die Ananas in Papier und stellen Sie sie für 1–2 Tage auf den Kopf (auf die Schnittfläche). Die Schwerkraft verteilt den Zucker gleichmäßig."
-                    },
-                    {
-                        "name": "Geschnittene Ananas luftdicht gekühlt lagern — Kühllagerung (5–7 Tage) 📦",
-                        "text": "Einmal geschält und geschnitten, oxidiert das Fruchtfleisch an der Luft und verliert Feuchtigkeit. 💡 Lagerungstipp: In mundgerechte Stücke schneiden, in eine mit Küchenpapier ausgelegte luftdichte Dose geben und im Gemüsefach (7–10 °C) aufbewahren."
-                    },
-                    {
-                        "name": "In Stücke schneiden und einfrieren — Gefrierlagerung (1–3 Monate) 🧊",
-                        "text": "Einfrieren ist die beste Methode, um den frischen Ananasgeschmack lange zu konservieren. 💡 Lagerungstipp: Schale und harten Strunk entfernen, würfeln, auf einem Tablett einzeln vorfrieren und dann in Ziploc-Beutel im Gefrierfach (-18 °C oder kälter) lagern."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum brennt oder brennt meine Zunge beim Essen von frischer Ananas?",
-                        "answer": "Das liegt am Enzym 'Bromelain', einem eiweißspaltenden Enzym in der Ananas, das die Eiweiße der Mundschleimhaut kurzzeitig angreift. Wenn Sie Ananas anbraten oder erhitzen, wird das Enzym zerstört und sie schmeckt süßer ohne Zungenbrennen."
-                    },
-                    {
-                        "question": "Wie erkenne ich eine reife und süße Ananas beim Kauf?",
-                        "answer": "Achten Sie auf saftig-grüne Blätter an der Krone, eine von der Basis ausgehende gelb-goldene Färbung der Schale, einen süßen tropischen Duft am Boden und ein leichtes Nachgeben bei sanftem Druck."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar abacaxi fresco: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para o abacaxi com base em diretrizes oficiais de segurança.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Você já comprou um abacaxi doce e suculento e descobriu que ele mofou por baixo ou que estava azedo em cima e doce apenas na base? 🍍\n\nO abacaxi é uma fruta não climatérica, o que significa que seu teor de açúcar não aumenta após a colheita. Como os açúcares naturais se concentram na base, deixar o abacaxi em pé causa uma distribuição desigual e favorece o apodrecimento inferior. Além disso, a exposição ao frio abaixo de 7 °C causa danos por frio (chilling injury).\n\nNeste guia, apresentamos um guia de conservação em 3 etapas recomendado por especialistas para redistribuir a doçura e manter seu abacaxi fresco. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Não deixe o abacaxi inteiro em temperatura ambiente para amadurecer ⚠️",
-                        "desc": "O abacaxi é uma fruta não climatérica cujo teor de açúcar fica fixado na colheita. Deixá-lo fora não o deixará mais doce; a acidez cai e inicia-se a fermentação. Consuma rapidamente após a compra."
-                    },
-                    {
-                        "title": "Evite exposição direta ao frio abaixo de 7 °C (Evite danos por frio) ❄️",
-                        "desc": "Fruta tropical, manter o abacaxi abaixo de 7 °C por muito tempo causa danos por frio, escurecendo a polpa e endurecendo o miolo. Guarde na gaveta de legumes da geladeira."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Corte a coroa (folhas) e guarde de cabeça para baixo — Truque para redistribuir a doçura 🔄",
-                        "text": "Os açúcares concentram-se no fundo da fruta. 💡 Dica de conservação: Corte a coroa de folhas, envolva em papel-toalha ou jornal e apoie o abacaxi de cabeça para baixo por 1 a 2 dias. A gravidade distribuirá a doçura por toda a polpa."
-                    },
-                    {
-                        "name": "Guarde a fruta cortada em potes herméticos na geladeira — Refrigeração (5 a 7 dias) 📦",
-                        "text": "Uma vez descascado e cortado, a polpa oxida e perde água rapidamente em contato com o ar. 💡 Dica de conservação: Corte em cubos, coloque em um pote hermético com papel-toalha no fundo e guarde na gaveta de legumes (7–10 °C)."
-                    },
-                    {
-                        "name": "Corte em cubos e congele — Conservação congelada (1 a 3 meses) 🧊",
-                        "text": "O congelamento é o melhor método para preservar o sabor fresco do abacaxi por longo prazo. 💡 Dica de conservação: Retire a casca e o miolo duro, corte em cubos, congele numa bandeja e depois transfira para um saco Ziploc no freezer (-18 °C)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Por que a língua pinica ou queima ao comer abacaxi fresco?",
-                        "answer": "Essa sensação é causada pela 'Bromelina', uma enzima proteolítica presente no abacaxi que digere temporariamente as proteínas da mucosa bucal. Grelhar ou aquecer o abacaxi destrói a bromelina, deixando-o mais doce e sem pinicar."
-                    },
-                    {
-                        "question": "Como escolher um abacaxi bem maduro e doce na feira?",
-                        "answer": "Procure folhas verde-escuras e frescas na coroa, casca amarelada/dourada subindo da base, aroma doce tropical no fundo e firmeza com leve flexibilidade ao pressionar suavemente."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Nanas agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk nanas berdasarkan pedoman keselamatan resmi.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Pernahkah Anda membeli nanas yang manis dan berair, lalu mendapatinya berjamur di bagian bawah atau asam di bagian atas dan manis hanya di bagian dasar? 🍍\n\nNanas adalah buah non-klimakterik, yang berarti kadar gulanya tidak akan bertambah setelah dipanen. Karena gula alami mengendap dan terkonsentrasi di bagian dasar, membiarkan nanas berdiri tegak menyebabkan distribusi rasa manis tidak merata dan memicu pembusukan di bagian bawah. Selain itu, paparan suhu di bawah 7°C dapat menyebabkan kerusakan akibat suhu dingin (chilling injury).\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli pertanian untuk meratakan rasa manis dan menjaga kesegaran nanas Anda. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan membiarkan nanas utuh pada suhu ruang untuk 'dimatangkan' ⚠️",
-                        "desc": "Nanas adalah buah non-klimakterik yang tingkat kemanisannya sudah terkunci saat dipanen. Membiarkannya terlalu lama di suhu ruang tidak akan membuatnya lebih manis, melainkan menurunkan kadar asam dan memicu fermentasi (pembusukan)."
-                    },
-                    {
-                        "title": "Hindari paparan suhu dingin langsung di bawah 7°C (Cegah Chilling Injury) ❄️",
-                        "desc": "Sebagai buah tropis, menyimpan nanas di bawah 7°C dalam waktu lama menyebabkan chilling injury yang membuat daging buah kecokelatan dan bagian tengahnya mengeras. Gunakan laci sayur kulkas."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Potong mahkota (daun) dan simpan dalam posisi terbalik — Trik Meratakan Rasa Manis 🔄",
-                        "text": "Gula alami nanas mengendap di bagian bawah buah. 💡 Tips Penyimpanan: Potong mahkota daunnya, bungkus nanas dengan tisu dapur atau koran, lalu berdirikan secara terbalik (bagian potongan di bawah) selama 1–2 hari. Gravitasi akan menyebarkan kadar gula ke seluruh daging buah."
-                    },
-                    {
-                        "name": "Simpan potongan nanas dalam wadah kedap udara di kulkas — Simpan Dingin (5–7 Hari) 📦",
-                        "text": "Setelah dikupas dan dipotong, daging nanas cepat teroksidasi dan kehilangan air jika terpapar udara. 💡 Tips Penyimpanan: Potong seukuran satu gigitan, masukkan ke wadah kedap udara yang dilapisi tisu dapur, lalu simpan di laci sayur kulkas (7–10°C)."
-                    },
-                    {
-                        "name": "Potong dadu seukuran satu gigitan lalu bekukan — Simpan Beku (1–3 Bulan) 🧊",
-                        "text": "Membekukan adalah cara terbaik untuk mengunci rasa segar nanas dalam jangka panjang. 💡 Tips Penyimpanan: Buang kulit dan bagian tengah yang keras, potong dadu, bekukan terlebih dahulu di atas nampan agar tidak lengket, lalu pindahkan ke kantong Ziploc di freezer (-18°C atau lebih rendah)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa lidah terasa gatal atau perih saat makan nanas segar?",
-                        "answer": "Rasa perih ini disebabkan oleh 'Bromelain,' enzim pemecah protein (proteolitik) alami pada nanas yang mengikis sementara protein pada mukosa mulut. Memanggang atau memasak nanas akan merusak enzim bromelain sehingga nanas menjadi lebih manis dan tidak membuat lidah perih."
-                    },
-                    {
-                        "question": "Bagaimana cara memilih nanas yang matang dan manis di toko?",
-                        "answer": "Pilihlah nanas dengan mahkota daun berwarna hijau segar, kulit berwarna kuning keemasan yang memancar dari bagian bawah, beraroma manis khas buah tropis dari bagian bawahnya, serta terasa padat namun sedikit membal saat ditekan lembut."
-                    }
-                ]
-            }
-        }
+  "how-to-store-pineapple": {
+    "ingId": "pineapple",
+    "pubDate": "2026-04-20",
+    "updatedDate": "2026-04-20",
+    "heroImage": "/images/blog/pineapple_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "파인애플 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 파인애플의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+        "intro": "달콤하고 즙이 많은 파인애플을 사 왔는데, 며칠 지나지 않아 밑동부터 곰팡이가 피거나 위쪽만 시고 아래쪽만 단 경험 다들 있으시죠? 🍍\n\n파인애플은 수확 후에는 당도가 더 이상 올라가지 않는 대표적인 비후숙(Non-climacteric) 과일입니다. 당분이 무거운 밑동(아래쪽)에 집중되어 있어 세워둔 채 방치하면 당도 불균형이 생기고 밑동부터 무름병이 발생하기 쉽습니다. 또한 7℃ 이하의 너무 차가운 기운에 오래 노출되면 냉해(Chilling injury)를 입어 과육이 갈색으로 변합니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들이 권장하는 파인애플의 과즙과 당도를 균일하게 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "통파인애플을 상온에 오래 두어 후숙시키려 하지 마세요 ⚠️",
+            "desc": "파인애플은 수확 순간 당도가 고정되는 비후숙 과일입니다. 상온에 오래 둘수록 당도가 높아지는 것이 아니라 산도가 떨어지고 발효(부패)가 진행되므로 구매 후 빠른 시일 내에 섭취해야 합니다."
+          },
+          {
+            "title": "7℃ 이하의 너무 차가운 냉기에 직접 노출시키지 마세요 (냉해 주의) ❄️",
+            "desc": "열대 과일인 파인애플은 7℃ 이하에서 장기간 보관 시 과육이 회갈색으로 변하고 심지가 단단해지는 냉해 현상이 발생합니다. 냉장 보관 시 온도가 적정한 야채칸을 이용해야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "통파인애플 크라운(잎)을 잘라내고 거꾸로 세워 보관하기 — 당도 재분배 팁 🔄",
+            "text": "파인애플의 당분은 아래쪽에 집중되어 있습니다. 💡 보관 팁: 위쪽의 잎(크라운)을 칼로 잘라낸 뒤, 신문지나 키친타월로 감싸 아래위가 뒤집히도록 거꾸로 세워 상온(1~2일) 또는 냉장고에 보관하세요. 밑동에 쏠려 있던 당분이 과육 전체로 골고루 퍼집니다."
+          },
+          {
+            "name": "손질한 파인애플 밀폐 용기에 담아 냉장 보관하기 — 냉장 보관 (5~7일) 📦",
+            "text": "껍질을 벗기고 잘라낸 과육은 공기와 접촉하면 산화되고 수분이 날아갑니다. 💡 보관 팁: 먹기 좋은 크기로 썰어 바닥에 키친타월을 깐 밀폐 용기(또는 지퍼백)에 담아 냉장고 야채칸(7~10℃)에 보관해 주세요."
+          },
+          {
+            "name": "한 입 크기로 깍둑썰기하여 냉동 보관하기 — 장기 보관 (1~3개월) 🧊",
+            "text": "파인애플을 완벽한 상태로 오래 보관하는 가장 좋은 방법은 냉동입니다. 💡 보관 팁: 껍질과 심지를 제거하고 한 입 크기로 잘라 쟁반에 겹치지 않게 깔아 급속 냉동한 후, 지퍼백에 옮겨 담아 냉동실(-18℃ 이하)에 보관하면 스무디나 디저트용으로 유용합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "파인애플을 먹을 때 혀가 따갑고 쓰라린 이유는 무엇인가요?",
+            "answer": "파인애플에 풍부하게 들어있는 단백질 분해 효소인 '브로멜라인(Bromelain)'이 구강 점막의 단백질을 분해하기 때문입니다. 파인애플을 구우면 효소가 파괴되어 혀가 쓰라린 현상 없이 더 달콤하게 즐길 수 있습니다."
+          },
+          {
+            "question": "맛있는 파인애플을 고르는 방법이 있나요?",
+            "answer": "잎(크라운)이 싱싱한 초록색을 띠고, 바닥면의 색상이 노란빛을 띠며, 달콤한 향이 강하게 나는 것이 좋습니다. 손으로 눌렀을 때 너무 말랑하지 않고 적당한 탄력이 있는 것을 선택하세요."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Store Pineapple Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for pineapple based on official safety guidelines.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Have you ever bought a sweet, juicy pineapple only to find it molding at the bottom or sour at the top and sweet only at the base? 🍍\n\nPineapples are classic non-climacteric fruits, meaning their sugar content does not increase after harvest. Because natural sugars concentrate heavily at the base (bottom), leaving a pineapple upright causes an uneven sugar distribution and encourages bottom rot. Additionally, prolonged exposure to cold temperatures below 7°C causes chilling injury, turning the flesh brown.\n\nIn this guide, introduces a scientifically proven 3-step pineapple storage guide recommended by agriculture and food safety experts to evenly distribute sweetness and maximize freshness. 🛡️",
+        "whyTitle": "Why Store Pineapple This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Do not leave whole pineapples at room temperature to ripen ⚠️",
+            "desc": "Pineapples are non-climacteric fruits whose sweetness is locked at harvest. Leaving them at room temperature does not make them sweeter; instead, acidity drops and fermentation (spoilage) begins. Consume promptly after purchase."
+          },
+          {
+            "title": "Avoid direct cold exposure below 7°C (Prevent Chilling Injury) ❄️",
+            "desc": "As tropical fruits, pineapples stored below 7°C (45°F) for extended periods suffer chilling injury, causing flesh browning and hardening of the core. Use the refrigerator crisper drawer for optimal cold storage."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Cut off the crown (top leaves) and store upside down — Sweetness Redistribution Hack 🔄",
+            "text": "Natural sugars sink and concentrate at the base of the fruit. 💡 Storage Tip: Slice off the leafy crown, wrap the pineapple in paper towels or newspaper, and stand it upside down on its top end for 1–2 days at room temperature or in the fridge. This allows gravity to redistribute sugars evenly throughout the flesh."
+          },
+          {
+            "name": "Store cut fruit in airtight containers in the fridge — Cold Storage (5–7 Days) 📦",
+            "text": "Once peeled and sliced, pineapple flesh oxidizes and loses moisture rapidly upon contact with air. 💡 Storage Tip: Cut into bite-sized pieces, place them in an airtight container lined with paper towels, and store in the crisper drawer (7–10°C / 45–50°F)."
+          },
+          {
+            "name": "Dice into bite-sized chunks and freeze — Long-Term Storage (1–3 Months) 🧊",
+            "text": "Freezing is the best method to preserve fresh pineapple flavor for long periods. 💡 Storage Tip: Remove skin and tough core, cut into chunks, pre-freeze on a tray in a single layer so they don't stick together, then transfer to a Ziploc bag in the freezer (-18°C or below)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why does my tongue sting or burn when I eat fresh pineapple?",
+            "answer": "This sensation is caused by 'Bromelain,' a potent proteolytic (protein-digesting) enzyme naturally present in pineapple that temporarily breaks down proteins in your oral mucosa. Grilling or heating pineapple denatures bromelain, making it sweeter and gentler on the tongue."
+          },
+          {
+            "question": "How do I select a ripe and sweet pineapple at the store?",
+            "answer": "Look for dark green, fresh leaves on the crown, a body with a warm golden-yellow color radiating from the base, a sweet tropical aroma from the bottom stem, and a firm feel that yields slightly to gentle pressure."
+          }
+        ]
+      },
+      "ja": {
+        "title": "パイナップルを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくパイナップルの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "甘くてジューシーなパイナップルを買ってきたのに、数日経つとお尻（底）からカビが生えたり、上側は酸っぱく底だけ甘かった経験はありませんか？🍍\n\nパイナップルは収穫後に糖度が上がらない代表的な「非追熟（ノン・クライマクテリック）型」の果物です。糖分が底の部分に集中しているため、立てたまま放置すると甘さにムラができ、底から腐敗しやすくなります。また、7℃以下の冷気に長期間晒されると低温障害を起こし、果肉が褐色に変色します。\n\n本記事では、農学および食品安全の専門家が推奨する、パイナップルの果汁と甘みを均一に保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "丸ごとのパイナップルを常温に長く置いて追熟させようとしないでください ⚠️",
+            "desc": "パイナップルは収穫した瞬間に糖度が固定される非追熟果物です。常温に長く置いても甘くはならず、酸味が抜けて発酵（腐敗）が進むため、購入後は早めにお召し上がりください。"
+          },
+          {
+            "title": "7℃以下の過度な冷気に直接晒さないでください（低温障害に注意） ❄️",
+            "desc": "熱帯果実であるパイナップルは7℃以下で長期保存すると、果肉が灰褐色に変色し芯が硬くなる低温障害が発生します。冷蔵保存時は適温の野菜室を使用してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "クラウン（葉）を切り落とし、逆さまに立てて保存する — 甘みの再分散裏ワザ 🔄",
+            "text": "パイナップルの糖分は底に沈んで集中しています。💡保存のコツ：上部の葉（クラウン）を包丁で切り落とし、新聞紙やキッチンペーパーで包んで上下逆さまにして常温（1〜2日）または冷蔵庫で保存します。底に溜まっていた甘みが全体に行き渡ります。"
+          },
+          {
+            "name": "カットした果肉は密閉容器に入れて冷蔵保存する — 冷蔵保存 (5〜7日間) 📦",
+            "text": "皮をむいてカットした果肉は空気に触れると酸化し、水分が抜けます。💡保存のコツ：食べやすい大きさに切り、底にキッチンペーパーを敷いた密閉容器（またはジッパーバッグ）に入れて冷蔵庫の野菜室（7〜10℃）で保存してください。"
+          },
+          {
+            "name": "一口大に角切りして冷凍保存する — 長期保存 (1〜3ヶ月間) 🧊",
+            "text": "パイナップルを長期間美味しさを保って保存するには冷凍が最適です。💡保存の コツ：皮と芯を取り除いて一口大に切り、バットに重ならないよう並べて急速冷凍した後、ジッパーバッグに移して冷凍室（-18℃以下）で保存します。スムージーなどに便利です。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "パイナップルを食べると舌がピリピリ痛むのはなぜですか？",
+            "answer": "パイナップルに豊富に含まれるタンパク質分解酵素「ブロメライン（ブロメライン）」が、口腔粘膜のタンパク質を分解するためです。パイナップルを加熱（焼くなど）すると酵素が失活し、ピリピリ感なくより甘く楽しむことができます。"
+          },
+          {
+            "question": "美味しいパイナップルの選び方はありますか？",
+            "answer": "クラウン（葉）が濃い緑色でみずみずしく、底面が黄色みがかっていて、底から甘いトロピカルな香りが漂うものを選びましょう。手で持った時にずっしりと重みがあり、軽く押した時に適度な弾力があるものが良好です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持菠萝新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解菠萝的最佳储存温度、方式和保鲜时长。",
+        "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "您是否买回香甜多汁的菠萝，放了几天却发现底部发霉，或者顶部发酸只有底部发甜？🍍\n\n菠萝是典型的非呼吸跃变型（Non-climacteric）水果，采摘后糖度不会再增加。由于天然糖分高度集中在菠萝底部，如果一直竖着顺放，会导致糖分分布极不均匀，且底部极易受潮腐烂。此外，若长时间暴露于7℃以下的冷气中，会发生冷害（Chilling injury）导致果肉变褐色。\n\n本指南将为您介绍由农业及食品安全专家推荐的3步科学菠萝保鲜秘诀，帮您均匀分散甜度并长久保持新鲜。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "切勿将整颗菠萝长期置于常温下试图“催熟” ⚠️",
+            "desc": "菠萝属于非呼吸跃变型水果，采摘时糖度已固定。常温久放不会变甜，反而会导致酸度下降并加速发酵腐烂。买回后请尽快食用。"
+          },
+          {
+            "title": "切勿直接暴露于7℃以下的强冷气中（注意防冷害） ❄️",
+            "desc": "菠萝作为热带水果，在7℃以下长期冷藏会发生冷害，导致果肉变灰褐、果芯变硬。冷藏时请务必存放在温度适宜的蔬菜抽屉中。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "切除顶部冠芽（叶子）并倒立放置 — 糖分重分布窍门 🔄",
+            "text": "菠萝的糖分自然沉淀并集中在底部。💡储存小贴士：用刀切掉顶部绿叶（冠芽），用纸巾或报纸包裹，将其颠倒头朝下倒立摆放于常温（1~2天）或冰箱中。重力会让底部的糖分均匀渗透至整颗果肉。"
+          },
+          {
+            "name": "切块果肉装入密封盒冷藏 — 冷藏保存 (5~7天) 📦",
+            "text": "去皮切开后的果肉接触空气极易氧化且流失水分。💡储存小贴士：切成适口小块，放入底部垫有厨房纸巾的密封保鲜盒（或拉链袋）中，存放在冰箱蔬菜抽屉（7~10℃）中。"
+          },
+          {
+            "name": "切成一口大小小块冷冻 — 长期保存 (1~3个月) 🧊",
+            "text": "冷冻是长久封存新鲜菠萝风味的最佳方式。💡储存小贴士：去皮去芯后切成小块，在托盘上铺平预冻防止粘连，随后转移至冷冻拉链袋中放入冷冻室（-18℃以下）保存，非常适合做冰沙。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "吃菠萝时为什么舌头会有刺痛麻木感？",
+            "answer": "这是因为菠萝中富含一种名为“菠萝蛋白酶（Bromelain）”的强效蛋白分解酶，它会分解口腔黏膜蛋白。将菠萝加热（如烤菠萝）可使蛋白酶失活，食用时便不会刺痛且口感更甜。"
+          },
+          {
+            "question": "挑选优质香甜菠萝有什么技巧？",
+            "answer": "选择顶部冠芽呈鲜绿色、菠萝底部呈现明亮黄色、底蒂散发出浓郁热带果香的菠萝。用手轻压时应感觉沉甸甸且具有适度弹性。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener la piña fresca: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la piña según las directrices oficiales de seguridad.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "¿Alguna vez compró una piña jugosa y dulce solo para descubrir que se mohoseaba por abajo o que estaba ácida en la parte superior y dulce solo en la base? 🍍\n\nLa piña es una fruta no climatérica, lo que significa que su contenido de azúcar no aumenta después de la cosecha. Dado que los azúcares naturales se concentran en la base, dejar la piña de pie produce una distribución desigual y favorece la pudrición inferior. Además, la exposición prolongada a temperaturas inferiores a 7 °C causa daño por frío (chilling injury).\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria para redistribuir la dulzura y maximizar la frescura. 🛡️",
+        "whyTitle": "¿Por qué almacenarla así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "No deje la piña entera a temperatura ambiente para madurar ⚠️",
+            "desc": "La piña es una fruta no climatérica cuya dulzura queda fijada al cosechar. Dejarla a temperatura ambiente no la volverá más dulce; en cambio, la acidez cae y comienza la fermentación (pudrición). Consúmala pronto."
+          },
+          {
+            "title": "Evite la exposición directa al frío por debajo de 7 °C (Evite el daño por frío) ❄️",
+            "desc": "Al ser una fruta tropical, conservar la piña por debajo de 7 °C por tiempo prolongado causa daño por frío, oscureciendo la pulpa y endureciendo el centro. Use el cajón de verduras del refrigerador."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Corte la corona (hojas) y guarde boca abajo — Truco para redistribuir la dulzura 🔄",
+            "text": "Los azúcares naturales se asientan y concentran en la base. 💡 Consejo de almacenamiento: Corte la corona de hojas, envuelva la piña en papel de cocina o periódico y colóquela boca abajo (apoyada sobre el corte) durante 1–2 días a temperatura ambiente o en el refrigerador. La gravedad distribuirá el azúcar."
+          },
+          {
+            "name": "Guarde la fruta troceada en recipientes herméticos en el refrigerador — Almacenamiento refrigerado (5 a 7 días) 📦",
+            "text": "Una vez pelada y cortada, la pulpa se oxida y pierde humedad rápidamente al contacto con el aire. 💡 Consejo de almacenamiento: Corte en trozos, colóquelos en un recipiente hermético con papel de cocina en el fondo y guarde en el cajón de verduras (7–10 °C)."
+          },
+          {
+            "name": "Corte en cubos y congele — Almacenamiento congelado (1 a 3 meses) 🧊",
+            "text": "Congelar es el mejor método para conservar el sabor fresco de la piña durante mucho tiempo. 💡 Consejo de almacenamiento: Retire la piel y el centro duro, corte en trozos, congele previamente en una bandeja en una sola capa para que no se peguen y pase a una bolsa Ziploc en el congelador (-18 °C o menos)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué me pica o escatima la lengua al comer piña fresca?",
+            "answer": "Esta sensación es causada por la 'Bromeleína', una potente enzima proteolítica (digestora de proteínas) presente en la piña que descompone temporalmente las proteínas de la mucosa bucal. Asar o calentar la piña desnaturaliza la bromeleína, haciéndola más dulce y suave."
+          },
+          {
+            "question": "¿Cómo elijo una piña madura y dulce en la tienda?",
+            "answer": "Busque hojas de verde oscuro en la corona, una piel con tono dorado cálido que irradie desde la base, un aroma dulce tropical en el tallo inferior y una firmeza con ligera flexibilidad al presionar suavemente."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver l'ananas frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour l'ananas selon les directives officielles de sécurité.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Avez-vous déjà acheté un ananas bien doux pour constater qu'il moisissait par le bas ou qu'il était acide en haut et sucré uniquement à la base ? 🍍\n\nL'ananas est un fruit non climactérique, ce qui signifie que sa teneur en sucre n'augmente plus après la récolte. Les sucres se concentrant fortement dans la base, laisser l'ananas debout crée une répartition inégale et favorise le pourrissement du bas. De plus, une exposition prolongée au froid sous 7 °C provoque des lésions dues au froid.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts pour répartir la douceur et maximiser la fraîcheur de votre ananas. 🛡️",
+        "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne laissez pas l'ananas entier à température ambiante pour le faire mûrir ⚠️",
+            "desc": "L'ananas est un fruit non climactérique dont la teneur en sucre est fixée à la cueillette. Le laisser mûrir ne le rendra pas plus doux ; l'acidité chute et la fermentation (pourrissement) commence. Consommez-le rapidement."
+          },
+          {
+            "title": "Évitez l'exposition directe au froid sous 7 °C (Attention aux dégâts du froid) ❄️",
+            "desc": "En tant que fruit tropical, conserver l'ananas sous 7 °C sur une longue période provoque des brûlures par le froid : la chair brunit et le cœur durcit. Utilisez le bac à légumes du réfrigérateur."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Couper la couronne (feuilles) et conserver à l'envers — Astuce de répartition du sucre 🔄",
+            "text": "Les sucres naturels s'accumulent au bas du fruit. 💡 Astuce de conservation : Tranchez la couronne de feuilles, enveloppez l'ananas dans du papier essuie-tout ou du journal et posez-le à l'envers (sur la coupe) pendant 1 à 2 jours à température ambiante ou au frais. La gravité diffusera le sucre."
+          },
+          {
+            "name": "Conserver les morceaux dans des boîtes hermétiques au réfrigérateur — Stockage frais (5 à 7 jours) 📦",
+            "text": "Une fois pelée et coupée, la chair de l'ananas s'oxyde et se dessèche au contact de l'air. 💡 Astuce de conservation : Coupez-le en dés, placez-les dans une boîte hermétique tapissée de papier essuie-tout et rangez-les dans le bac à légumes (7–10 °C)."
+          },
+          {
+            "name": "Couper en dés et congeler — Stockage congelé (1 à 3 mois) 🧊",
+            "text": "La congélation est la meilleure méthode pour préserver la saveur fraîche de l'ananas sur le long terme. 💡 Astuce de conservation : Retirez la peau et le cœur dur, coupez en morceaux, pré-congelez sur une plaque sans qu'ils ne se touchent, puis transférez dans un sac Ziploc au congélateur (-18 °C ou moins)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi la langue picote-t-elle quand on mange de l'ananas frais ?",
+            "answer": "Cette sensation est causée par la 'Bromélaïne', une enzyme protéolytique (qui digère les protéines) présente dans l'ananas et qui dégrade temporairement les protéines de la muqueuse buccale. Griller ou cuire l'ananas détruit la bromélaïne, le rendant plus doux et indolore."
+          },
+          {
+            "question": "Comment choisir un ananas bien mûr et sucré ?",
+            "answer": "Choisissez un ananas aux feuilles vert foncé bien fraîches, avec une écorce dorée tirant sur le jaune à la base, un parfum tropical sucré au niveau de la tige, et une chair légèrement souple sous une pression douce."
+          }
+        ]
+      },
+      "de": {
+        "title": "Ananas richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Ananas basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Haben Sie eine süße Ananas gekauft, nur um festzustellen, dass sie am Boden schimmelte oder oben sauer und nur an der Basis süß war? 🍍\n\nAnanas gehört zu den nicht-klimakterischen Früchten, was bedeutet, dass ihr Zuckergehalt nach der Ernte nicht mehr steigt. Da sich der Zucker am Strunkboden sammelt, führt aufrechtes Stehen zu ungleicher Süße und Bodenfäule. Zudem führt Kälte unter 7 °C zu Kälteschäden (Chilling Injury) und braunem Fruchtfleisch.\n\nHIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Süße Ihrer Ananas gleichmäßig zu verteilen und die Frische zu maximieren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Ganze Ananas nicht bei Raumtemperatur 'nachreifen' lassen ⚠️",
+            "desc": "Ananas ist eine nicht-klimakterische Frucht, deren Süße bei der Ernte feststeht. Langes Stehen bei Raumtemperatur macht sie nicht süßer, sondern baut Säure ab und leitet die Gärung (Verderb) ein. Nach dem Kauf zügig verbrauchen."
+          },
+          {
+            "title": "Kälteeinwirkung unter 7 °C vermeiden (Kälteschaden verhindern) ❄️",
+            "desc": "Als tropische Frucht erleidet die Ananas bei Temperaturen unter 7 °C Kälteschäden, was zu braunem Fruchtfleisch und einem verhärteten Strunk führt. Nutzen Sie stets das Gemüsefach des Kühlschranks."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Krone (Blätter) abschneiden und auf den Kopf stellen — Süße-Verteilungs-Trick 🔄",
+            "text": "Der Fruchtzucker sinkt nach unten und sammelt sich am Boden. 💡 Lagerungstipp: Schneiden Sie den Blätterschopf ab, wickeln Sie die Ananas in Papier und stellen Sie sie für 1–2 Tage auf den Kopf (auf die Schnittfläche). Die Schwerkraft verteilt den Zucker gleichmäßig."
+          },
+          {
+            "name": "Geschnittene Ananas luftdicht gekühlt lagern — Kühllagerung (5–7 Tage) 📦",
+            "text": "Einmal geschält und geschnitten, oxidiert das Fruchtfleisch an der Luft und verliert Feuchtigkeit. 💡 Lagerungstipp: In mundgerechte Stücke schneiden, in eine mit Küchenpapier ausgelegte luftdichte Dose geben und im Gemüsefach (7–10 °C) aufbewahren."
+          },
+          {
+            "name": "In Stücke schneiden und einfrieren — Gefrierlagerung (1–3 Monate) 🧊",
+            "text": "Einfrieren ist die beste Methode, um den frischen Ananasgeschmack lange zu konservieren. 💡 Lagerungstipp: Schale und harten Strunk entfernen, würfeln, auf einem Tablett einzeln vorfrieren und dann in Ziploc-Beutel im Gefrierfach (-18 °C oder kälter) lagern."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum brennt oder brennt meine Zunge beim Essen von frischer Ananas?",
+            "answer": "Das liegt am Enzym 'Bromelain', einem eiweißspaltenden Enzym in der Ananas, das die Eiweiße der Mundschleimhaut kurzzeitig angreift. Wenn Sie Ananas anbraten oder erhitzen, wird das Enzym zerstört und sie schmeckt süßer ohne Zungenbrennen."
+          },
+          {
+            "question": "Wie erkenne ich eine reife und süße Ananas beim Kauf?",
+            "answer": "Achten Sie auf saftig-grüne Blätter an der Krone, eine von der Basis ausgehende gelb-goldene Färbung der Schale, einen süßen tropischen Duft am Boden und ein leichtes Nachgeben bei sanftem Druck."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar abacaxi fresco: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para o abacaxi com base em diretrizes oficiais de segurança.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Você já comprou um abacaxi doce e suculento e descobriu que ele mofou por baixo ou que estava azedo em cima e doce apenas na base? 🍍\n\nO abacaxi é uma fruta não climatérica, o que significa que seu teor de açúcar não aumenta após a colheita. Como os açúcares naturais se concentram na base, deixar o abacaxi em pé causa uma distribuição desigual e favorece o apodrecimento inferior. Além disso, a exposição ao frio abaixo de 7 °C causa danos por frio (chilling injury).\n\nNeste guia, apresentamos um guia de conservação em 3 etapas recomendado por especialistas para redistribuir a doçura e manter seu abacaxi fresco. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Não deixe o abacaxi inteiro em temperatura ambiente para amadurecer ⚠️",
+            "desc": "O abacaxi é uma fruta não climatérica cujo teor de açúcar fica fixado na colheita. Deixá-lo fora não o deixará mais doce; a acidez cai e inicia-se a fermentação. Consuma rapidamente após a compra."
+          },
+          {
+            "title": "Evite exposição direta ao frio abaixo de 7 °C (Evite danos por frio) ❄️",
+            "desc": "Fruta tropical, manter o abacaxi abaixo de 7 °C por muito tempo causa danos por frio, escurecendo a polpa e endurecendo o miolo. Guarde na gaveta de legumes da geladeira."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Corte a coroa (folhas) e guarde de cabeça para baixo — Truque para redistribuir a doçura 🔄",
+            "text": "Os açúcares concentram-se no fundo da fruta. 💡 Dica de conservação: Corte a coroa de folhas, envolva em papel-toalha ou jornal e apoie o abacaxi de cabeça para baixo por 1 a 2 dias. A gravidade distribuirá a doçura por toda a polpa."
+          },
+          {
+            "name": "Guarde a fruta cortada em potes herméticos na geladeira — Refrigeração (5 a 7 dias) 📦",
+            "text": "Uma vez descascado e cortado, a polpa oxida e perde água rapidamente em contato com o ar. 💡 Dica de conservação: Corte em cubos, coloque em um pote hermético com papel-toalha no fundo e guarde na gaveta de legumes (7–10 °C)."
+          },
+          {
+            "name": "Corte em cubos e congele — Conservação congelada (1 a 3 meses) 🧊",
+            "text": "O congelamento é o melhor método para preservar o sabor fresco do abacaxi por longo prazo. 💡 Dica de conservação: Retire a casca e o miolo duro, corte em cubos, congele numa bandeja e depois transfira para um saco Ziploc no freezer (-18 °C)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que a língua pinica ou queima ao comer abacaxi fresco?",
+            "answer": "Essa sensação é causada pela 'Bromelina', uma enzima proteolítica presente no abacaxi que digere temporariamente as proteínas da mucosa bucal. Grelhar ou aquecer o abacaxi destrói a bromelina, deixando-o mais doce e sem pinicar."
+          },
+          {
+            "question": "Como escolher um abacaxi bem maduro e doce na feira?",
+            "answer": "Procure folhas verde-escuras e frescas na coroa, casca amarelada/dourada subindo da base, aroma doce tropical no fundo e firmeza com leve flexibilidade ao pressionar suavemente."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Nanas agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk nanas berdasarkan pedoman keselamatan resmi.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Pernahkah Anda membeli nanas yang manis dan berair, lalu mendapatinya berjamur di bagian bawah atau asam di bagian atas dan manis hanya di bagian dasar? 🍍\n\nNanas adalah buah non-klimakterik, yang berarti kadar gulanya tidak akan bertambah setelah dipanen. Karena gula alami mengendap dan terkonsentrasi di bagian dasar, membiarkan nanas berdiri tegak menyebabkan distribusi rasa manis tidak merata dan memicu pembusukan di bagian bawah. Selain itu, paparan suhu di bawah 7°C dapat menyebabkan kerusakan akibat suhu dingin (chilling injury).\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli pertanian untuk meratakan rasa manis dan menjaga kesegaran nanas Anda. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan membiarkan nanas utuh pada suhu ruang untuk 'dimatangkan' ⚠️",
+            "desc": "Nanas adalah buah non-klimakterik yang tingkat kemanisannya sudah terkunci saat dipanen. Membiarkannya terlalu lama di suhu ruang tidak akan membuatnya lebih manis, melainkan menurunkan kadar asam dan memicu fermentasi (pembusukan)."
+          },
+          {
+            "title": "Hindari paparan suhu dingin langsung di bawah 7°C (Cegah Chilling Injury) ❄️",
+            "desc": "Sebagai buah tropis, menyimpan nanas di bawah 7°C dalam waktu lama menyebabkan chilling injury yang membuat daging buah kecokelatan dan bagian tengahnya mengeras. Gunakan laci sayur kulkas."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Potong mahkota (daun) dan simpan dalam posisi terbalik — Trik Meratakan Rasa Manis 🔄",
+            "text": "Gula alami nanas mengendap di bagian bawah buah. 💡 Tips Penyimpanan: Potong mahkota daunnya, bungkus nanas dengan tisu dapur atau koran, lalu berdirikan secara terbalik (bagian potongan di bawah) selama 1–2 hari. Gravitasi akan menyebarkan kadar gula ke seluruh daging buah."
+          },
+          {
+            "name": "Simpan potongan nanas dalam wadah kedap udara di kulkas — Simpan Dingin (5–7 Hari) 📦",
+            "text": "Setelah dikupas dan dipotong, daging nanas cepat teroksidasi dan kehilangan air jika terpapar udara. 💡 Tips Penyimpanan: Potong seukuran satu gigitan, masukkan ke wadah kedap udara yang dilapisi tisu dapur, lalu simpan di laci sayur kulkas (7–10°C)."
+          },
+          {
+            "name": "Potong dadu seukuran satu gigitan lalu bekukan — Simpan Beku (1–3 Bulan) 🧊",
+            "text": "Membekukan adalah cara terbaik untuk mengunci rasa segar nanas dalam jangka panjang. 💡 Tips Penyimpanan: Buang kulit dan bagian tengah yang keras, potong dadu, bekukan terlebih dahulu di atas nampan agar tidak lengket, lalu pindahkan ke kantong Ziploc di freezer (-18°C atau lebih rendah)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa lidah terasa gatal atau perih saat makan nanas segar?",
+            "answer": "Rasa perih ini disebabkan oleh 'Bromelain,' enzim pemecah protein (proteolitik) alami pada nanas yang mengikis sementara protein pada mukosa mulut. Memanggang atau memasak nanas akan merusak enzim bromelain sehingga nanas menjadi lebih manis dan tidak membuat lidah perih."
+          },
+          {
+            "question": "Bagaimana cara memilih nanas yang matang dan manis di toko?",
+            "answer": "Pilihlah nanas dengan mahkota daun berwarna hijau segar, kulit berwarna kuning keemasan yang memancar dari bagian bawah, beraroma manis khas buah tropis dari bagian bawahnya, serta terasa padat namun sedikit membal saat ditekan lembut."
+          }
+        ]
+      }
     }
+  }
 }

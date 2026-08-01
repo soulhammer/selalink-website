@@ -1,406 +1,406 @@
 {
-    "how-to-store-coconut-oil": {
-        "ingId": "coconut-oil",
-        "pubDate": "2026-03-16",
-        "updatedDate": "2026-03-16",
-        "heroImage": "/images/blog/coconut_oil_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "코코넛 오일 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 코코넛 오일의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS) & APCC",
-                "intro": "코코넛 오일을 보관하다가 갑자기 굳어서 하얗게 변하거나, 반대로 맑게 녹아내려 당황하신 적 있으시죠? 🥥\n\n코코넛 오일은 포화지방산 비율이 약 90%로 매우 높아 식물성 오일 중 화학적 구조가 가장 안정적인 오일입니다. 따라서 다른 오일에 비해 산패(Rancidity) 속도가 현저히 느리지만, 보관 온도(약 24℃ 기준)에 따라 고체와 액체로 성상이 달라지는 독특한 물리적 특성을 지니고 있습니다.\n\n이번 가이드에서는 USDA, 식품의약품안전처 및 아시아태평양코코넛협회(APCC)의 검증된 가이드라인을 바탕으로, 코코넛 오일의 달콤한 풍미와 영양을 오랫동안 신선하게 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "수분이나 이물질(물방울, 음식물 찌꺼기)이 들어가지 않게 주의하세요 💧",
-                        "desc": "코코넛 오일 자체는 포화지방이 많아 산패에 매우 강하지만, 수분이나 음식물 찌꺼기가 들어가면 가수분해 반응이 일어나거나 곰팡이 및 세균이 번식하는 결정적인 원인이 됩니다. 반드시 물기가 없고 깨끗한 전용 스푼을 사용하세요."
-                    },
-                    {
-                        "title": "가스레인지 주변 열원이나 직사광선을 반드시 피하세요 ☀️",
-                        "desc": "직사광선의 자외선이나 가스레인지 주변의 강한 열기는 오일의 지방산 분해를 유발하고 고유의 달콤한 아로마 성분을 쉽게 파괴합니다. 열원과 멀리 떨어진 어둡고 서늘한 장소에 보관해야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "20~24℃의 서늘하고 어두운 상온에 보관하기 — 상온 밀봉 보관 (360~720일) 📦",
-                        "text": "코코넛 오일은 반드시 냉장 보관할 필요가 없으며, 서늘한 상온에서 가장 사용하기 편리합니다. 💡 보관 팁: 직사광선이 닿지 않는 팬트리나 찬장(20~24℃)에 보관하세요. 개봉 후에도 이 조건에서는 1~2년 동안 특유의 고소한 풍미와 신선함이 완벽히 유지됩니다."
-                    },
-                    {
-                        "name": "사용 직후 뚜껑을 꼭 닫아 공기(산소) 접촉 차단하기 — 밀봉 보관 🧴",
-                        "text": "포화지방산이 풍부하여 공기 중 산소에 의한 산화 반응에는 강한 편이지만, 장기간 공기에 노출되면 향이 날아가고 서서히 산패가 진행됩니다. 💡 보관 팁: 사용 후 용기 입구를 마른 천으로 깔끔히 닦아내고 뚜껑을 밀폐하여 산소 접촉을 차단해 주세요."
-                    },
-                    {
-                        "name": "고체 상태로 오래 보관하거나 장기 보관 시 냉장 보관하기 — 저온 보관 ❄️",
-                        "text": "24℃ 이하에서는 자연스럽게 고체(버터 형태)로 굳어지며, 냉장 보관하면 고체 성상이 유지되어 보존 기간이 더욱 늘어납니다. 💡 보관 팁: 고체 형태로 스푼으로 떠서 사용하고 싶거나, 한여름철 녹았다 굳었다를 반복하는 것이 싫다면 냉장 보관(0~10℃)하셔도 전혀 무방합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "코코넛 오일이 투명하게 녹았다가 하얗게 굳었는데 상한 건가요?",
-                        "answer": "절대 상한 것이 아닙니다! 코코넛 오일의 녹는점은 약 24℃(75°F)로, 24℃ 이상에서는 투명한 액체가 되고 24℃ 이하에서는 하얗게 굳어 고체가 됩니다. 이는 단순한 온도 변화에 따른 물리적 성상 변화일 뿐 품질이나 영양 성분에는 아무런 영향이 없습니다."
-                    },
-                    {
-                        "question": "코코넛 오일의 산패 여부는 어떻게 확인하나요?",
-                        "answer": "정상적인 코코넛 오일은 달콤하고 고소한 향을 풍기며 맑은 투명색(액체)이나 깨끗한 하얀색(고체)을 띱니다. 만약 오일에서 퀴퀴하거나 시큼한 페인트 냄새(산패취)가 나거나, 표면에 검은색/초록색 점(곰팡이)이 생겼거나, 황갈색으로 변색되었다면 변질된 것이므로 폐기해야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Coconut Oil Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for coconut oil based on official safety guidelines.",
-                "authority": "USDA & MFDS & APCC",
-                "intro": "Have you ever stored coconut oil only to find it frozen hard and solid white, or melted into a clear liquid during summer? 🥥\n\nCoconut oil is composed of nearly 90% saturated fatty acids, making it one of the most chemically stable plant oils against oxidation (rancidity). However, it exhibits a unique physical property: its melting point is around 24°C (75°F), meaning it changes naturally between solid and liquid depending on room temperature.\n\nIn this guide, introduces a scientifically proven 3-step coconut oil storage guide based on guidelines from the USDA, MFDS, and the Asian and Pacific Coconut Community (APCC) to preserve its sweet flavor and nutritional quality. 🛡️",
-                "whyTitle": "Why Store Coconut Oil This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Prevent moisture and foreign food particles from entering 💧",
-                        "desc": "While pure coconut oil strongly resists lipid oxidation, moisture droplets or food crumbs induce hydrolysis and fungal/bacterial growth. Always use a clean, dry dedicated spoon when scooping."
-                    },
-                    {
-                        "title": "Keep away from stove heat and direct sunlight ☀️",
-                        "desc": "Ultraviolet light and high ambient heat near cooking appliances breakdown fatty acids and destroy delicate aromatic compounds. Store it in a dark, cool place away from heat sources."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Store in a cool, dark pantry at 20–24°C — Sealed Pantry Storage (360–720 Days) 📦",
-                        "text": "Coconut oil does not require mandatory refrigeration and is most convenient to use at cool room temperature. 💡 Storage Tip: Store in a dark pantry or cabinet away from sunlight (20–24°C / 68–75°F). In these conditions, opened coconut oil easily maintains its flavor and freshness for 1 to 2 years."
-                    },
-                    {
-                        "name": "Close lid tightly after use to block oxygen — Airtight Sealing 🧴",
-                        "text": "Although high saturated fat content protects against rapid oxidation, long exposure to air evaporates volatile aromas and slowly degrades oil quality. 💡 Storage Tip: Wipe the rim clean with a dry cloth after use and seal the lid tightly to block air."
-                    },
-                    {
-                        "name": "Refrigerate for long-term storage or solid butter consistency — Cold Storage ❄️",
-                        "text": "Below 24°C, coconut oil solidifies naturally into a scoopable butter-like state. 💡 Storage Tip: If you prefer a solid state for scooping or want to prevent melting during hot summer months, refrigerating coconut oil (0–10°C / 32–50°F) is completely safe and extends shelf life further."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "My coconut oil melted into liquid and then froze into a white solid. Has it gone bad?",
-                        "answer": "Not at all! Coconut oil has a melting point of approximately 24°C (75°F). Above 24°C, it becomes a clear liquid; below 24°C, it solidifies into a milky white fat. This physical transition is purely temperature-dependent and does not affect quality, safety, or nutrition."
-                    },
-                    {
-                        "question": "How can I tell if coconut oil has gone rancid?",
-                        "answer": "Fresh coconut oil smells sweet and coconutty, appearing clear (liquid) or white (solid). If it develops a sour, stale, or chemical odor, turns yellowish-brown, or shows dark/green spots (mold), the oil has degraded and should be discarded."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ココナッツオイルを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくココナッツオイルの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS) & APCC",
-                "intro": "ココナッツオイルを保存していたら、突然真っ白に固まったり、逆に透明に溶けたりして驚いたことはありませんか？🥥\n\nココナッツオイルは約90%が飽和脂肪酸で構成されており、植物油の中で最も化学構造が安定しているオイルです。酸化（酸化腐敗）が非常に起きにくい反面、約24℃を境に固体と液体へ状態が変化するユニークな物理的特性を持っています。\n\n本記事では、USDA、食品医薬品安全処およびアジア太平洋ココナッツコミュニティ（APCC）のガイドラインに基づき、ココナッツオイルの甘い風味と栄養を長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "水分や異物（水滴や食べかす）が入らないよう注意してください 💧",
-                        "desc": "ココナッツオイル自体は飽和脂肪酸が多く酸化に強いですが、水滴や食べかすが混入すると加水分解やカビ・細菌繁殖の決定的な原因になります。必ず乾いた清潔な専用スプーンを使用してください。"
-                    },
-                    {
-                        "title": "コンロの熱や直射日光を必ず避けてください ☀️",
-                        "desc": "直射日光の紫外線や調理器具周辺の強い熱は脂肪酸を分解し、特有の甘いアロマ成分を破壊します。熱源から離れた暗く涼しい場所に保管してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "20〜24℃の涼しく暗い常温で保存する — 常温密閉保存 (360〜720日間) 📦",
-                        "text": "ココナッツオイルは必ずしも冷蔵保存する必要はなく、涼しい常温で保管するのが最も使いやすく便利です。💡保存のコツ：直射日光の当たらないパントリーや棚（20〜24℃）で保管してください。開封後もこの条件であれば1〜2年間は風味と鮮度が完璧に保たれます。"
-                    },
-                    {
-                        "name": "使用後はすぐにキャップをしっかり閉めて空気（酸素）を遮断する — 密閉保存 🧴",
-                        "text": "飽和脂肪酸が豊富で酸素による酸化には強いですが、長期間空気と触れると香りが飛んで徐々に品質が低下します。💡保存のコツ：使用後は容器の口を乾いた布で拭き取り、蓋を密閉して酸素との接触を防ぎましょう。"
-                    },
-                    {
-                        "name": "固体のまま長期保存したい場合は冷蔵保存する — 低温保存 ❄️",
-                        "text": "24℃以下では自然に固形（バター状）になり、冷蔵保存すると固形状態が維持されてより長く保存できます。💡保存のコツ：スプーンですくって使いたい場合や、夏場に溶けたり固まったりを繰り返すのが気になる場合は冷蔵（0〜10℃）保存しても全く問題ありません。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "透明に溶けたり白く固まったりしますが、腐っているのでしょうか？",
-                        "answer": "決して腐っているわけではありません！ココナッツオイルの融点は約24℃です。24℃以上では透明な液体になり、24℃以下では乳白色の固体に固まります。これは単純な温度変化による物理的な変化であり、品質や栄養成分には一切影響ありません。"
-                    },
-                    {
-                        "question": "ココナッツオイルが酸化・変質しているかどうかはどう確認しますか？",
-                        "answer": "正常なココナッツオイルは甘く香ばしい香りがし、透明（液体）または綺麗な白色（固体）をしています。古い塗料のような酸っぱい臭い（酸敗臭）がしたり、表面に黒や緑の斑点（カビ）が発生した場合、または黄褐色に変色した場合は変質しているため廃棄してください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持椰子油新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解椰子油的最佳储存温度、方式及保鲜时长。",
-                "authority": "美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & APCC",
-                "intro": "储存椰子油时，您是否遇到过它突然凝固变白，或者又融化成清澈液体的情况？🥥\n\n椰子油的饱和脂肪酸含量高达90%左右，是植物油中化学结构最稳定的油脂之一。因此它的氧化酸败（Rancidity）速度极其缓慢，但具有在24℃左右随温度变化在固态与液态之间切换的独特物理特性。\n\n本指南基于USDA、韩国MFDS及亚太椰子共同体（APCC）的权威指南，为您带来3步科学保存秘诀，帮您长久锁定椰子油的香甜风味与营养成分。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "严防水分及食物残渣进入 💧",
-                        "desc": "纯椰子油本身抗氧化能力极强，但如果混入水滴或食物残渣，会导致水解反应并滋生霉菌与细菌。取用时请务必使用无水干燥的干净专用勺。"
-                    },
-                    {
-                        "title": "务必避开灶台热源与阳光直射 ☀️",
-                        "desc": "阳光中的紫外线和灶台周围的高热会加速脂肪酸分解，破坏椰子油特有的香甜芳香物质。请存放在远离热源的阴凉黑暗处。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "存放在20~24℃的阴凉避光常温处 — 常温密封保存 (360~720天) 📦",
-                        "text": "椰子油无需强制冷藏，在阴凉常温下最方便取用。💡储存小贴士：存放在避光的食品柜或橱柜中（20~24℃）。开封后在此条件下，其特有的浓郁香味与新鲜度可完美保持1~2年。"
-                    },
-                    {
-                        "name": "用后立即盖紧瓶盖隔绝空气（氧气） — 密封保存 🧴",
-                        "text": "虽然丰富的饱和脂肪酸使其抗氧化能力强，但长期暴露于空气中会导致香味散失并缓慢变质。💡储存小贴士：取用后用干布拭净瓶口，紧闭瓶盖以阻断氧气接触。"
-                    },
-                    {
-                        "name": "长期保存或喜欢固态膏状时可冷藏 — 低温保存 ❄️",
-                        "text": "在24℃以下时会自然凝固成黄油状，冷藏可维持固态形态并进一步延长保质期。💡储存小贴士：若习惯用勺挖取膏状使用，或想避免夏季反复融化凝固，放入冰箱冷藏（0~10℃）完全可行。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "椰子油融化成透明液体后又凝固成白色固体，是变质了吗？",
-                        "answer": "完全没有变质！椰子油的熔点约为24℃。高于24℃时呈清澈液体，低于24℃时凝固成乳白色固体。这只是随温度变化的物理形态改变，对其品质和营养成分毫无影响。"
-                    },
-                    {
-                        "question": "如何判断椰子油是否已经氧化酸败？",
-                        "answer": "新鲜的椰子油散发香甜的椰香，呈现清澈（液态）或洁白（固态）。如果散发出刺鼻酸臭味、油漆味，表面出现黑色/绿色斑点（霉菌），或颜色变成黄褐色，说明已经变质，应予丢弃。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener el aceite de coco fresco: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para el aceite de coco según las directrices oficiales de seguridad.",
-                "authority": "USDA & MFDS & APCC",
-                "intro": "¿Alguna vez guardó aceite de coco y notó que se congelaba en un sólido blanco o se derretía como líquido transparente durante el verano? 🥥\n\nEl aceite de coco está compuesto por casi un 90% de ácidos grasos saturados, lo que lo convierte en uno de los aceites vegetales más estables frente a la oxidación. Sin embargo, posee una propiedad física única: su punto de fusión es de unos 24 °C, por lo que cambia naturalmente entre sólido y líquido según la temperatura ambiente.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por el USDA, el MFDS y la Comunidad del Coco para Asia y el Pacífico (APCC) para preservar su aroma dulce y calidad nutricional. 🛡️",
-                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Evite la entrada de humedad o restos de alimentos 💧",
-                        "desc": "Aunque el aceite de coco puro resiste la oxidación, la entrada de agua o migas provoca hidrólisis y crecimiento de moho o bacterias. Use siempre una cuchara limpia y completamente seca al servirlo."
-                    },
-                    {
-                        "title": "Manténgalo alejado del calor de los fogones y la luz solar directa ☀️",
-                        "desc": "La radiación ultravioleta y el calor extremo cerca de los electrodomésticos descomponen los ácidos grasos y destruyen los aromas suaves. Guárdelo en un lugar oscuro y fresco."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Guarde en una despensa fresca y oscura a 20–24 °C — Almacenamiento hermético (360–720 días) 📦",
-                        "text": "El aceite de coco no requiere refrigeración obligatoria y es más cómodo de usar a temperatura ambiente fresca. 💡 Consejo de almacenamiento: Guárdelo en una despensa o armario oscuro (20–24 °C). En estas condiciones, el aceite abierto conserva su sabor y frescura de 1 a 2 años."
-                    },
-                    {
-                        "name": "Cierre la tapa herméticamente tras cada uso — Sellado hermético 🧴",
-                        "text": "Aunque su alto contenido de grasas saturadas lo protege de la oxidación rápida, la exposición prolongada al aire volatiliza sus aromas. 💡 Consejo de almacenamiento: Limpie el borde con un paño seco después de usar y cierre bien la tapa."
-                    },
-                    {
-                        "name": "Refrigere para un almacenamiento prolongado o textura sólida — Almacenamiento en frío ❄️",
-                        "text": "Por debajo de los 24 °C se solidifica naturalmente en una textura similar a la mantequilla. 💡 Consejo de almacenamiento: Si prefiere usarlo en estado sólido o evitar que se derrita en verano, refrigerarlo (0–10 °C) es totalmente seguro y prolonga su conservación."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mi aceite de coco se derritió y luego se congeló en un sólido blanco. ¿Se ha estropeado?",
-                        "answer": "¡En absoluto! El aceite de coco tiene un punto de fusión de unos 24 °C. Por encima de 24 °C es un líquido transparente y por debajo se solidifica en un tono blanco lechoso. Es un cambio físico natural por la temperatura y no afecta a su calidad ni a sus nutrientes."
-                    },
-                    {
-                        "question": "¿Cómo puedo saber si el aceite de coco se ha enranciado?",
-                        "answer": "El aceite de coco fresco huele dulce y agradable a coco, siendo transparente (líquido) o blanco (sólido). Si desprende un olor agrio, rancio o químico, cambia a un tono pardo o presenta manchas oscuras/verdes (moho), el aceite se ha deteriorado y debe desecharse."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver l'huile de coco fraîche : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour l'huile de coco selon les directives officielles de sécurité.",
-                "authority": "USDA & MFDS & APCC",
-                "intro": "Avez-vous déjà remarqué que votre huile de coco se figeait en un bloc blanc en hiver ou fondait en un liquide transparent en été ? 🥥\n\nComposée à près de 90 % d'acides gras saturés, l'huile de coco est l'une des huiles végétales les plus stables sur le plan chimique contre le rancissement. Elle possède toutefois una propriété physique unique : son point de fusion se situe autour de 24 °C, passant naturellement de l'état solide à liquide selon la température ambiante.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA, du MFDS et de la Communauté du Cocotier pour l'Asie et le Pacifique (APCC) pour préserver ses nutriments et sa saveur. 🛡️",
-                "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Évitez toute intrusion d'humidité ou de résidus alimentaires 💧",
-                        "desc": "Même si l'huile de coco pur résiste bien à l'oxydation, des gouttes d'eau ou des miettes déclenchent une hydrolyse et le développement de moisissures. Utilisez toujours une cuillère propre et bien sèche."
-                    },
-                    {
-                        "title": "Conservez à l'abri de la chaleur des plaques et des rayons du soleil ☀️",
-                        "desc": "Les rayons UV et la chaleur forte près des appareils de cuisson dégradent les acides gras et détruisent les arômes délicats de la noix de coco. Conservez-la dans un endroit sombre et frais."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Conserver dans un placard frais et sombre à 20–24 °C — Stockage étanche (360–720 jours) 📦",
-                        "text": "L'huile de coco ne nécessite pas obligatoirement de réfrigération et reste plus facile à utiliser à température ambiante fraîche. 💡 Astuce de conservation : Rangez-la dans un placard sombre (20–24 °C). Dans ces conditions, l'huile ouverte conserve son goût parfait pendant 1 à 2 ans."
-                    },
-                    {
-                        "name": "Bien refermer le couvercle après usage pour bloquer l'oxygène — Scellage hermétique 🧴",
-                        "text": "Bien que sa teneur élevée en graisses saturées la protège du rancissement rapide, une exposition prolongée à l'air volatilise ses arômes. 💡 Astuce de conservation : Essuyez le rebord avec un chiffon sec après usage et refermez fermement le couvercle."
-                    },
-                    {
-                        "name": "Réfrigérer pour un stockage longue durée ou une consistance solide — Stockage au frais ❄️",
-                        "text": "En dessous de 24 °C, elle se solidifie naturellement sous forme de beurre à tartiner. 💡 Astuce de conservation : Si vous préférez une consistance solide à prélever à la cuillère ou souhaitez éviter les fontes estivales, la réfrigérer (0–10 °C) est totalement sans danger et prolonge sa durée de vie."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mon huile de coco a fondu puis s'est figée en un bloc blanc. Est-elle périmée ?",
-                        "answer": "Pas du tout ! L'huile de coco a un point de fusion d'environ 24 °C. Au-dessus de 24 °C, elle devient un liquide transparent ; en dessous, elle se fige en une masse blanche. Ce changement physique dépend uniquement de la température et n'altère en rien sa qualité ni ses nutriments."
-                    },
-                    {
-                        "question": "Comment savoir si l'huile de coco est rance ?",
-                        "answer": "Une huile de coco fraîche dégage une agréable odeur sucrée de noix de coco et se présente sous forme limpide (liquide) ou très blanche (solide). Si elle dégage une odeur rance, peinte ou aigre, qu'elle jaunit ou présente des taches sombres/vertes (moisissures), elle est altérée et doit être jetée."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Kokosöl richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Kokosöl basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "USDA & MFDS & APCC",
-                "intro": "Haben Sie schon einmal Kokosöl gelagert und bemerkt, dass es im Winter hart und weiß wird, im Sommer aber zu einer klaren Flüssigkeit schmilzt? 🥥\n\nKokosöl besteht zu fast 90 % aus gesättigten Fettsäuren und gehört damit zu den chemisch stabilsten Pflanzenölen gegen Ranzigwerden. Es besitzt jedoch eine einzigartige physikalische Eigenschaft: Sein Schmelzpunkt liegt bei etwa 24 °C, sodass es je nach Raumtemperatur ganz natürlich zwischen fest und flüssig wechselt.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um das süße Aroma und die Nährstoffe Ihres Kokosöls langfristig zu bewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Eindringen von Feuchtigkeit oder Speiseresten unbedingt verhindern 💧",
-                        "desc": "Reines Kokosöl ist extrem oxidationsbeständig, doch Wassertropfen oder Krümel lösen Hydrolyse aus und führen zu Schimmelbildung. Verwenden Sie zum Entnehmen immer einen sauberen, trockenen Löffel."
-                    },
-                    {
-                        "title": "Vor Herdwärme und direktem Sonnenlicht schützen ☀️",
-                        "desc": "UV-Strahlung und starke Hitze am Herd spalten Fettsäuren und zerstören die feinen Aromastoffe des Kokosöls. Lagern Sie das Öl an einem dunklen, kühlen Ort abseits von Hitzequellen."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Bei 20–24 °C im kühlen, dunklen Vorratsschrank lagern — Dicht verschlossene Lagerung (360–720 Tage) 📦",
-                        "text": "Kokosöl muss nicht zwingend im Kühlschrank gelagert werden und lässt sich bei kühler Raumtemperatur am besten verwenden. 💡 Lagerungstipp: Bewahren Sie es im dunklen Vorratsschrank (20–24 °C) auf. Unter diesen Bedingungen hält sich geöffnetes Kokosöl problemlos 1 bis 2 Jahre frisch."
-                    },
-                    {
-                        "name": "Deckel nach Gebrauch sofort fest verschließen — Luftdichter Verschluss 🧴",
-                        "text": "Obwohl der hohe Gehalt an gesättigten Fettsäuren vor schneller Oxidation schützt, verfliegen bei langer Luftzufuhr die Aromen. 💡 Lagerungstipp: Wischen Sie den Rand mit einem trockenen Tuch ab und verschließen Sie den Deckel fest."
-                    },
-                    {
-                        "name": "Für Langzeitlagerung oder feste Konsistenz im Kühlschrank aufbewahren — Kaltlagerung ❄️",
-                        "text": "Unter 24 °C verfestigt sich Kokosöl ganz natürlich zu einer butterähnlichen Masse. 💡 Lagerungstipp: Wenn Sie eine feste Konsistenz zum Löffeln bevorzugen oder das Schmelzen im Sommer verhindern wollen, ist die Lagerung im Kühlschrank (0–10 °C) völlig unbedenklich und verlängert die Haltbarkeit weiter."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mein Kokosöl ist geschmolzen und dann wieder weiß geworden. Ist es verdorben?",
-                        "answer": "Keineswegs! Kokosöl hat einen Schmelzpunkt von ca. 24 °C. Über 24 °C wird es zu einer klaren Flüssigkeit, unter 24 °C erstarrt es zu einer milchig-weißen Masse. Diese physikalische Zustandsänderung ist rein temperaturbedingt und hat keinen Einfluss auf Qualität oder Nährstoffe."
-                    },
-                    {
-                        "question": "Woran erkenne ich, ob Kokosöl ranzig geworden ist?",
-                        "answer": "Frisches Kokosöl duftet angenehm süßlich nach Kokos und ist klar (flüssig) oder weiß (fest). Riecht das Öl stechend, sauer oder nach Farbe, verfärbt es sich gelblich-braun oder zeigt dunkle/grüne Flecken (Schimmel), ist es verdorben und muss entsorgt werden."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar óleo de coco fresco: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para o óleo de coco com base em diretrizes oficiais de segurança.",
-                "authority": "USDA & MFDS & APCC",
-                "intro": "Você já guardou óleo de coco e percebeu que ele congelou em um bloco sólido branco no inverno ou derreteu virando um líquido transparente no verão? 🥥\n\nO óleo de coco é composto por quase 90% de ácidos graxos saturados, sendo um dos óleos vegetais mais estáveis quimicamente contra a oxidação (rancificação). Porém, possui uma propriedade física única: seu ponto de fusão é de cerca de 24 °C, alternando naturalmente entre sólido e líquido dependendo da temperatura ambiente.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes do USDA, MFDS e da Comunidade do Coco para Ásia e Pacífico (APCC) para manter seu aroma e qualidade nutricional. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Evite a entrada de umidade ou resíduos de alimentos 💧",
-                        "desc": "Embora o óleo de coco puro seja resistente à oxidação, gotas de água ou farelos de comida causam hidrólise e proliferação de fungos e bactérias. Use sempre uma colher limpa e bem seca ao retirar o produto."
-                    },
-                    {
-                        "title": "Mantenha longe do calor do fogão e da luz solar direta ☀️",
-                        "desc": "A radiação ultravioleta e o calor forte perto do fogão quebram as cadeias de ácidos graxos e destroem os compostos aromáticos suaves do coco. Guarde-o em local escuro e fresco."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Guarde em armário fresco e escuro a 20–24 °C — Armazenamento selado (360–720 dias) 📦",
-                        "text": "O óleo de coco não precisa obrigatoriamente de refrigeração e é mais prático de usar em temperatura ambiente fresca. 💡 Dica de conservação: Guarde em um armário escuro ou despensa (20–24 °C). Nessas condições, o óleo aberto mantém seu aroma e frescor por 1 a 2 anos."
-                    },
-                    {
-                        "name": "Feche bem a tampa após o uso para bloquear o ar — Vedação hermética 🧴",
-                        "text": "Embora o alto teor de gorduras saturadas proteja contra a oxidação rápida, a exposição prolongada ao ar volatiliza seus aromas. 💡 Dica de conservação: Limpe a borda do pote com um pano seco após o uso e feche a tampa com firmeza."
-                    },
-                    {
-                        "name": "Refrigere para longa conservação ou textura sólida — Armazenamento refrigerado ❄️",
-                        "text": "Abaixo de 24 °C ele se solidifica naturalmente em um creme estilo manteiga. 💡 Dica de conservação: Se você prefere usá-lo em estado sólido ou quer evitar que derreta no verão, guardá-lo na geladeira (0–10 °C) é totalmente seguro e estende ainda mais a durabilidade."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Meu óleo de coco derreteu e depois endureceu virando uma massa branca. Ele estragou?",
-                        "answer": "De forma alguma! O óleo de coco tem ponto de fusão de cerca de 24 °C. Acima de 24 °C ele fica líquido e transparente; abaixo de 24 °C ele endurece virando uma massa branca leitosa. Essa mudança física depende apenas da temperatura e não afeta em nada a qualidade ou os nutrientes."
-                    },
-                    {
-                        "question": "Como posso saber se o óleo de coco ranceou?",
-                        "answer": "O óleo de coco fresco tem cheiro doce e suave de coco, sendo transparente (líquido) ou bem branco (sólido). Se apresentar cheiro azedo, râncio ou de tinta, cor amarelada/acastanhada ou manchas escuras/verdes (mofo), ele estragou e deve ser descartado."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Minyak Kelapa (Coconut Oil) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk minyak kelapa berdasarkan pedoman keselamatan resmi.",
-                "authority": "USDA & MFDS & APCC",
-                "intro": "Pernahkah Anda menyimpan minyak kelapa lalu mendapati teksturnya membeku keras berwarna putih, atau cair bening saat suhu udara panas? 🥥\n\nMinyak kelapa terdiri dari hampir 90% asam lemak jenuh, menjadikannya salah satu minyak nabati paling stabil secara kimia terhadap oksidasi (ketengikan). Namun, minyak kelapa memiliki sifat fisik yang unik: titik lelehnya berada di sekitar 24°C, sehingga wajar jika teksturnya berubah secara alami antara padat dan cair tergantung suhu ruangan.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman USDA, MFDS, dan Asian and Pacific Coconut Community (APCC) untuk menjaga aroma manis dan kualitas nutrisi minyak kelapa Anda. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Cegah masuknya kelembapan atau sisa makanan 💧",
-                        "desc": "Meskipun minyak kelapa murni sangat tahan terhadap oksidasi, tetesan air atau remahan makanan dapat memicu hidrolisis dan tumbuhnya jamur/bakteri. Selalu gunakan sendok bersih dan kering saat mengambil minyak."
-                    },
-                    {
-                        "title": "Jauhkan dari panas kompor dan sinar matahari langsung ☀️",
-                        "desc": "Sinar ultraviolet dan suhu panas di dekat peralatan memasak dapat merusak asam lemak dan menghancurkan senyawa aroma manis minyak kelapa. Simpan di tempat yang gelap dan sejuk."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Simpan di rak dapur sejuk dan gelap pada suhu 20–24°C — Simpan Wadah Tertutup (360–720 Hari) 📦",
-                        "text": "Minyak kelapa tidak wajib disimpan di kulkas dan paling nyaman digunakan pada suhu ruang sejuk. 💡 Tips Penyimpanan: Simpan di lemari dapur yang gelap (20–24°C). Dalam kondisi ini, minyak kelapa yang sudah dibuka dapat bertahan 1 hingga 2 tahun dengan rasa dan kesegaran yang terjaga."
-                    },
-                    {
-                        "name": "Tutup wadah rapat-rapat setelah digunakan — Segel Kedap Udara 🧴",
-                        "text": "Meskipun kandungan lemak jenuhnya yang tinggi melindungi dari oksidasi cepat, paparan udara jangka panjang akan menguapkan aromanya. 💡 Tips Penyimpanan: Lap bagian bibir wadah dengan kain kering setelah digunakan dan tutup rapat kembali."
-                    },
-                    {
-                        "name": "Simpan di kulkas untuk masa simpan lama atau tekstur padat — Simpan Dingin ❄️",
-                        "text": "Di bawah suhu 24°C, minyak kelapa akan membeku secara alami menjadi tekstur padat seperti mentega. 💡 Tips Penyimpanan: Jika Anda lebih suka tekstur padat yang mudah disendok atau ingin mencegah minyak mencair saat musim panas, menyimpannya di kulkas (0–10°C) sangat aman dan memperpanjang masa simpannya."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Minyak kelapa saya mencair lalu membeku kembali menjadi padatan putih. Apakah sudah basi?",
-                        "answer": "Sama sekali tidak basi! Minyak kelapa memiliki titik leleh sekitar 24°C. Di atas 24°C teksturnya menjadi cair bening, dan di bawah 24°C memadat menjadi warna putih susu. Perubahan fisik ini murni akibat suhu dan tidak memengaruhi kualitas maupun nutrisinya."
-                    },
-                    {
-                        "question": "Bagaimana cara mengetahui jika minyak kelapa sudah tengik?",
-                        "answer": "Minyak kelapa yang segar berbau manis khas kelapa dan berwarna bening (cair) atau putih bersih (padat). Jika berbau tengik, asam, atau seperti cat, berubah warna menjadi kekuningan/kecokelatan, atau muncul bintik hitam/hijau (jamur), minyak sudah rusak dan harus dibuang."
-                    }
-                ]
-            }
-        }
+  "how-to-store-coconut-oil": {
+    "ingId": "coconut-oil",
+    "pubDate": "2026-03-16",
+    "updatedDate": "2026-03-16",
+    "heroImage": "/images/blog/coconut_oil_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "코코넛 오일 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 코코넛 오일의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS) & APCC",
+        "intro": "코코넛 오일을 보관하다가 갑자기 굳어서 하얗게 변하거나, 반대로 맑게 녹아내려 당황하신 적 있으시죠? 🥥\n\n코코넛 오일은 포화지방산 비율이 약 90%로 매우 높아 식물성 오일 중 화학적 구조가 가장 안정적인 오일입니다. 따라서 다른 오일에 비해 산패(Rancidity) 속도가 현저히 느리지만, 보관 온도(약 24℃ 기준)에 따라 고체와 액체로 성상이 달라지는 독특한 물리적 특성을 지니고 있습니다.\n\n이번 가이드에서는 USDA, 식품의약품안전처 및 아시아태평양코코넛협회(APCC)의 검증된 가이드라인을 바탕으로, 코코넛 오일의 달콤한 풍미와 영양을 오랫동안 신선하게 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "수분이나 이물질(물방울, 음식물 찌꺼기)이 들어가지 않게 주의하세요 💧",
+            "desc": "코코넛 오일 자체는 포화지방이 많아 산패에 매우 강하지만, 수분이나 음식물 찌꺼기가 들어가면 가수분해 반응이 일어나거나 곰팡이 및 세균이 번식하는 결정적인 원인이 됩니다. 반드시 물기가 없고 깨끗한 전용 스푼을 사용하세요."
+          },
+          {
+            "title": "가스레인지 주변 열원이나 직사광선을 반드시 피하세요 ☀️",
+            "desc": "직사광선의 자외선이나 가스레인지 주변의 강한 열기는 오일의 지방산 분해를 유발하고 고유의 달콤한 아로마 성분을 쉽게 파괴합니다. 열원과 멀리 떨어진 어둡고 서늘한 장소에 보관해야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "20~24℃의 서늘하고 어두운 상온에 보관하기 — 상온 밀봉 보관 (360~720일) 📦",
+            "text": "코코넛 오일은 반드시 냉장 보관할 필요가 없으며, 서늘한 상온에서 가장 사용하기 편리합니다. 💡 보관 팁: 직사광선이 닿지 않는 팬트리나 찬장(20~24℃)에 보관하세요. 개봉 후에도 이 조건에서는 1~2년 동안 특유의 고소한 풍미와 신선함이 완벽히 유지됩니다."
+          },
+          {
+            "name": "사용 직후 뚜껑을 꼭 닫아 공기(산소) 접촉 차단하기 — 밀봉 보관 🧴",
+            "text": "포화지방산이 풍부하여 공기 중 산소에 의한 산화 반응에는 강한 편이지만, 장기간 공기에 노출되면 향이 날아가고 서서히 산패가 진행됩니다. 💡 보관 팁: 사용 후 용기 입구를 마른 천으로 깔끔히 닦아내고 뚜껑을 밀폐하여 산소 접촉을 차단해 주세요."
+          },
+          {
+            "name": "고체 상태로 오래 보관하거나 장기 보관 시 냉장 보관하기 — 저온 보관 ❄️",
+            "text": "24℃ 이하에서는 자연스럽게 고체(버터 형태)로 굳어지며, 냉장 보관하면 고체 성상이 유지되어 보존 기간이 더욱 늘어납니다. 💡 보관 팁: 고체 형태로 스푼으로 떠서 사용하고 싶거나, 한여름철 녹았다 굳었다를 반복하는 것이 싫다면 냉장 보관(0~10℃)하셔도 전혀 무방합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "코코넛 오일이 투명하게 녹았다가 하얗게 굳었는데 상한 건가요?",
+            "answer": "절대 상한 것이 아닙니다! 코코넛 오일의 녹는점은 약 24℃(75°F)로, 24℃ 이상에서는 투명한 액체가 되고 24℃ 이하에서는 하얗게 굳어 고체가 됩니다. 이는 단순한 온도 변화에 따른 물리적 성상 변화일 뿐 품질이나 영양 성분에는 아무런 영향이 없습니다."
+          },
+          {
+            "question": "코코넛 오일의 산패 여부는 어떻게 확인하나요?",
+            "answer": "정상적인 코코넛 오일은 달콤하고 고소한 향을 풍기며 맑은 투명색(액체)이나 깨끗한 하얀색(고체)을 띱니다. 만약 오일에서 퀴퀴하거나 시큼한 페인트 냄새(산패취)가 나거나, 표면에 검은색/초록색 점(곰팡이)이 생겼거나, 황갈색으로 변색되었다면 변질된 것이므로 폐기해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Coconut Oil Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for coconut oil based on official safety guidelines.",
+        "authority": "USDA & MFDS & APCC",
+        "intro": "Have you ever stored coconut oil only to find it frozen hard and solid white, or melted into a clear liquid during summer? 🥥\n\nCoconut oil is composed of nearly 90% saturated fatty acids, making it one of the most chemically stable plant oils against oxidation (rancidity). However, it exhibits a unique physical property: its melting point is around 24°C (75°F), meaning it changes naturally between solid and liquid depending on room temperature.\n\nIn this guide, introduces a scientifically proven 3-step coconut oil storage guide based on guidelines from the USDA, MFDS, and the Asian and Pacific Coconut Community (APCC) to preserve its sweet flavor and nutritional quality. 🛡️",
+        "whyTitle": "Why Store Coconut Oil This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Prevent moisture and foreign food particles from entering 💧",
+            "desc": "While pure coconut oil strongly resists lipid oxidation, moisture droplets or food crumbs induce hydrolysis and fungal/bacterial growth. Always use a clean, dry dedicated spoon when scooping."
+          },
+          {
+            "title": "Keep away from stove heat and direct sunlight ☀️",
+            "desc": "Ultraviolet light and high ambient heat near cooking appliances breakdown fatty acids and destroy delicate aromatic compounds. Store it in a dark, cool place away from heat sources."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Store in a cool, dark pantry at 20–24°C — Sealed Pantry Storage (360–720 Days) 📦",
+            "text": "Coconut oil does not require mandatory refrigeration and is most convenient to use at cool room temperature. 💡 Storage Tip: Store in a dark pantry or cabinet away from sunlight (20–24°C / 68–75°F). In these conditions, opened coconut oil easily maintains its flavor and freshness for 1 to 2 years."
+          },
+          {
+            "name": "Close lid tightly after use to block oxygen — Airtight Sealing 🧴",
+            "text": "Although high saturated fat content protects against rapid oxidation, long exposure to air evaporates volatile aromas and slowly degrades oil quality. 💡 Storage Tip: Wipe the rim clean with a dry cloth after use and seal the lid tightly to block air."
+          },
+          {
+            "name": "Refrigerate for long-term storage or solid butter consistency — Cold Storage ❄️",
+            "text": "Below 24°C, coconut oil solidifies naturally into a scoopable butter-like state. 💡 Storage Tip: If you prefer a solid state for scooping or want to prevent melting during hot summer months, refrigerating coconut oil (0–10°C / 32–50°F) is completely safe and extends shelf life further."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "My coconut oil melted into liquid and then froze into a white solid. Has it gone bad?",
+            "answer": "Not at all! Coconut oil has a melting point of approximately 24°C (75°F). Above 24°C, it becomes a clear liquid; below 24°C, it solidifies into a milky white fat. This physical transition is purely temperature-dependent and does not affect quality, safety, or nutrition."
+          },
+          {
+            "question": "How can I tell if coconut oil has gone rancid?",
+            "answer": "Fresh coconut oil smells sweet and coconutty, appearing clear (liquid) or white (solid). If it develops a sour, stale, or chemical odor, turns yellowish-brown, or shows dark/green spots (mold), the oil has degraded and should be discarded."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ココナッツオイルを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくココナッツオイルの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS) & APCC",
+        "intro": "ココナッツオイルを保存していたら、突然真っ白に固まったり、逆に透明に溶けたりして驚いたことはありませんか？🥥\n\nココナッツオイルは約90%が飽和脂肪酸で構成されており、植物油の中で最も化学構造が安定しているオイルです。酸化（酸化腐敗）が非常に起きにくい反面、約24℃を境に固体と液体へ状態が変化するユニークな物理的特性を持っています。\n\n本記事では、USDA、食品医薬品安全処およびアジア太平洋ココナッツコミュニティ（APCC）のガイドラインに基づき、ココナッツオイルの甘い風味と栄養を長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "水分や異物（水滴や食べかす）が入らないよう注意してください 💧",
+            "desc": "ココナッツオイル自体は飽和脂肪酸が多く酸化に強いですが、水滴や食べかすが混入すると加水分解やカビ・細菌繁殖の決定的な原因になります。必ず乾いた清潔な専用スプーンを使用してください。"
+          },
+          {
+            "title": "コンロの熱や直射日光を必ず避けてください ☀️",
+            "desc": "直射日光の紫外線や調理器具周辺の強い熱は脂肪酸を分解し、特有の甘いアロマ成分を破壊します。熱源から離れた暗く涼しい場所に保管してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "20〜24℃の涼しく暗い常温で保存する — 常温密閉保存 (360〜720日間) 📦",
+            "text": "ココナッツオイルは必ずしも冷蔵保存する必要はなく、涼しい常温で保管するのが最も使いやすく便利です。💡保存のコツ：直射日光の当たらないパントリーや棚（20〜24℃）で保管してください。開封後もこの条件であれば1〜2年間は風味と鮮度が完璧に保たれます。"
+          },
+          {
+            "name": "使用後はすぐにキャップをしっかり閉めて空気（酸素）を遮断する — 密閉保存 🧴",
+            "text": "飽和脂肪酸が豊富で酸素による酸化には強いですが、長期間空気と触れると香りが飛んで徐々に品質が低下します。💡保存のコツ：使用後は容器の口を乾いた布で拭き取り、蓋を密閉して酸素との接触を防ぎましょう。"
+          },
+          {
+            "name": "固体のまま長期保存したい場合は冷蔵保存する — 低温保存 ❄️",
+            "text": "24℃以下では自然に固形（バター状）になり、冷蔵保存すると固形状態が維持されてより長く保存できます。💡保存のコツ：スプーンですくって使いたい場合や、夏場に溶けたり固まったりを繰り返すのが気になる場合は冷蔵（0〜10℃）保存しても全く問題ありません。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "透明に溶けたり白く固まったりしますが、腐っているのでしょうか？",
+            "answer": "決して腐っているわけではありません！ココナッツオイルの融点は約24℃です。24℃以上では透明な液体になり、24℃以下では乳白色の固体に固まります。これは単純な温度変化による物理的な変化であり、品質や栄養成分には一切影響ありません。"
+          },
+          {
+            "question": "ココナッツオイルが酸化・変質しているかどうかはどう確認しますか？",
+            "answer": "正常なココナッツオイルは甘く香ばしい香りがし、透明（液体）または綺麗な白色（固体）をしています。古い塗料のような酸っぱい臭い（酸敗臭）がしたり、表面に黒や緑の斑点（カビ）が発生した場合、または黄褐色に変色した場合は変質しているため廃棄してください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持椰子油新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解椰子油的最佳储存温度、方式及保鲜时长。",
+        "authority": "美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & APCC",
+        "intro": "储存椰子油时，您是否遇到过它突然凝固变白，或者又融化成清澈液体的情况？🥥\n\n椰子油的饱和脂肪酸含量高达90%左右，是植物油中化学结构最稳定的油脂之一。因此它的氧化酸败（Rancidity）速度极其缓慢，但具有在24℃左右随温度变化在固态与液态之间切换的独特物理特性。\n\n本指南基于USDA、韩国MFDS及亚太椰子共同体（APCC）的权威指南，为您带来3步科学保存秘诀，帮您长久锁定椰子油的香甜风味与营养成分。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "严防水分及食物残渣进入 💧",
+            "desc": "纯椰子油本身抗氧化能力极强，但如果混入水滴或食物残渣，会导致水解反应并滋生霉菌与细菌。取用时请务必使用无水干燥的干净专用勺。"
+          },
+          {
+            "title": "务必避开灶台热源与阳光直射 ☀️",
+            "desc": "阳光中的紫外线和灶台周围的高热会加速脂肪酸分解，破坏椰子油特有的香甜芳香物质。请存放在远离热源的阴凉黑暗处。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "存放在20~24℃的阴凉避光常温处 — 常温密封保存 (360~720天) 📦",
+            "text": "椰子油无需强制冷藏，在阴凉常温下最方便取用。💡储存小贴士：存放在避光的食品柜或橱柜中（20~24℃）。开封后在此条件下，其特有的浓郁香味与新鲜度可完美保持1~2年。"
+          },
+          {
+            "name": "用后立即盖紧瓶盖隔绝空气（氧气） — 密封保存 🧴",
+            "text": "虽然丰富的饱和脂肪酸使其抗氧化能力强，但长期暴露于空气中会导致香味散失并缓慢变质。💡储存小贴士：取用后用干布拭净瓶口，紧闭瓶盖以阻断氧气接触。"
+          },
+          {
+            "name": "长期保存或喜欢固态膏状时可冷藏 — 低温保存 ❄️",
+            "text": "在24℃以下时会自然凝固成黄油状，冷藏可维持固态形态并进一步延长保质期。💡储存小贴士：若习惯用勺挖取膏状使用，或想避免夏季反复融化凝固，放入冰箱冷藏（0~10℃）完全可行。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "椰子油融化成透明液体后又凝固成白色固体，是变质了吗？",
+            "answer": "完全没有变质！椰子油的熔点约为24℃。高于24℃时呈清澈液体，低于24℃时凝固成乳白色固体。这只是随温度变化的物理形态改变，对其品质和营养成分毫无影响。"
+          },
+          {
+            "question": "如何判断椰子油是否已经氧化酸败？",
+            "answer": "新鲜的椰子油散发香甜的椰香，呈现清澈（液态）或洁白（固态）。如果散发出刺鼻酸臭味、油漆味，表面出现黑色/绿色斑点（霉菌），或颜色变成黄褐色，说明已经变质，应予丢弃。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener el aceite de coco fresco: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para el aceite de coco según las directrices oficiales de seguridad.",
+        "authority": "USDA & MFDS & APCC",
+        "intro": "¿Alguna vez guardó aceite de coco y notó que se congelaba en un sólido blanco o se derretía como líquido transparente durante el verano? 🥥\n\nEl aceite de coco está compuesto por casi un 90% de ácidos grasos saturados, lo que lo convierte en uno de los aceites vegetales más estables frente a la oxidación. Sin embargo, posee una propiedad física única: su punto de fusión es de unos 24 °C, por lo que cambia naturalmente entre sólido y líquido según la temperatura ambiente.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por el USDA, el MFDS y la Comunidad del Coco para Asia y el Pacífico (APCC) para preservar su aroma dulce y calidad nutricional. 🛡️",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Evite la entrada de humedad o restos de alimentos 💧",
+            "desc": "Aunque el aceite de coco puro resiste la oxidación, la entrada de agua o migas provoca hidrólisis y crecimiento de moho o bacterias. Use siempre una cuchara limpia y completamente seca al servirlo."
+          },
+          {
+            "title": "Manténgalo alejado del calor de los fogones y la luz solar directa ☀️",
+            "desc": "La radiación ultravioleta y el calor extremo cerca de los electrodomésticos descomponen los ácidos grasos y destruyen los aromas suaves. Guárdelo en un lugar oscuro y fresco."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Guarde en una despensa fresca y oscura a 20–24 °C — Almacenamiento hermético (360–720 días) 📦",
+            "text": "El aceite de coco no requiere refrigeración obligatoria y es más cómodo de usar a temperatura ambiente fresca. 💡 Consejo de almacenamiento: Guárdelo en una despensa o armario oscuro (20–24 °C). En estas condiciones, el aceite abierto conserva su sabor y frescura de 1 a 2 años."
+          },
+          {
+            "name": "Cierre la tapa herméticamente tras cada uso — Sellado hermético 🧴",
+            "text": "Aunque su alto contenido de grasas saturadas lo protege de la oxidación rápida, la exposición prolongada al aire volatiliza sus aromas. 💡 Consejo de almacenamiento: Limpie el borde con un paño seco después de usar y cierre bien la tapa."
+          },
+          {
+            "name": "Refrigere para un almacenamiento prolongado o textura sólida — Almacenamiento en frío ❄️",
+            "text": "Por debajo de los 24 °C se solidifica naturalmente en una textura similar a la mantequilla. 💡 Consejo de almacenamiento: Si prefiere usarlo en estado sólido o evitar que se derrita en verano, refrigerarlo (0–10 °C) es totalmente seguro y prolonga su conservación."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mi aceite de coco se derritió y luego se congeló en un sólido blanco. ¿Se ha estropeado?",
+            "answer": "¡En absoluto! El aceite de coco tiene un punto de fusión de unos 24 °C. Por encima de 24 °C es un líquido transparente y por debajo se solidifica en un tono blanco lechoso. Es un cambio físico natural por la temperatura y no afecta a su calidad ni a sus nutrientes."
+          },
+          {
+            "question": "¿Cómo puedo saber si el aceite de coco se ha enranciado?",
+            "answer": "El aceite de coco fresco huele dulce y agradable a coco, siendo transparente (líquido) o blanco (sólido). Si desprende un olor agrio, rancio o químico, cambia a un tono pardo o presenta manchas oscuras/verdes (moho), el aceite se ha deteriorado y debe desecharse."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver l'huile de coco fraîche : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour l'huile de coco selon les directives officielles de sécurité.",
+        "authority": "USDA & MFDS & APCC",
+        "intro": "Avez-vous déjà remarqué que votre huile de coco se figeait en un bloc blanc en hiver ou fondait en un liquide transparent en été ? 🥥\n\nComposée à près de 90 % d'acides gras saturés, l'huile de coco est l'une des huiles végétales les plus stables sur le plan chimique contre le rancissement. Elle possède toutefois una propriété physique unique : son point de fusion se situe autour de 24 °C, passant naturellement de l'état solide à liquide selon la température ambiante.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA, du MFDS et de la Communauté du Cocotier pour l'Asie et le Pacifique (APCC) pour préserver ses nutriments et sa saveur. 🛡️",
+        "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Évitez toute intrusion d'humidité ou de résidus alimentaires 💧",
+            "desc": "Même si l'huile de coco pur résiste bien à l'oxydation, des gouttes d'eau ou des miettes déclenchent une hydrolyse et le développement de moisissures. Utilisez toujours une cuillère propre et bien sèche."
+          },
+          {
+            "title": "Conservez à l'abri de la chaleur des plaques et des rayons du soleil ☀️",
+            "desc": "Les rayons UV et la chaleur forte près des appareils de cuisson dégradent les acides gras et détruisent les arômes délicats de la noix de coco. Conservez-la dans un endroit sombre et frais."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Conserver dans un placard frais et sombre à 20–24 °C — Stockage étanche (360–720 jours) 📦",
+            "text": "L'huile de coco ne nécessite pas obligatoirement de réfrigération et reste plus facile à utiliser à température ambiante fraîche. 💡 Astuce de conservation : Rangez-la dans un placard sombre (20–24 °C). Dans ces conditions, l'huile ouverte conserve son goût parfait pendant 1 à 2 ans."
+          },
+          {
+            "name": "Bien refermer le couvercle après usage pour bloquer l'oxygène — Scellage hermétique 🧴",
+            "text": "Bien que sa teneur élevée en graisses saturées la protège du rancissement rapide, une exposition prolongée à l'air volatilise ses arômes. 💡 Astuce de conservation : Essuyez le rebord avec un chiffon sec après usage et refermez fermement le couvercle."
+          },
+          {
+            "name": "Réfrigérer pour un stockage longue durée ou une consistance solide — Stockage au frais ❄️",
+            "text": "En dessous de 24 °C, elle se solidifie naturellement sous forme de beurre à tartiner. 💡 Astuce de conservation : Si vous préférez une consistance solide à prélever à la cuillère ou souhaitez éviter les fontes estivales, la réfrigérer (0–10 °C) est totalement sans danger et prolonge sa durée de vie."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mon huile de coco a fondu puis s'est figée en un bloc blanc. Est-elle périmée ?",
+            "answer": "Pas du tout ! L'huile de coco a un point de fusion d'environ 24 °C. Au-dessus de 24 °C, elle devient un liquide transparent ; en dessous, elle se fige en une masse blanche. Ce changement physique dépend uniquement de la température et n'altère en rien sa qualité ni ses nutriments."
+          },
+          {
+            "question": "Comment savoir si l'huile de coco est rance ?",
+            "answer": "Une huile de coco fraîche dégage une agréable odeur sucrée de noix de coco et se présente sous forme limpide (liquide) ou très blanche (solide). Si elle dégage une odeur rance, peinte ou aigre, qu'elle jaunit ou présente des taches sombres/vertes (moisissures), elle est altérée et doit être jetée."
+          }
+        ]
+      },
+      "de": {
+        "title": "Kokosöl richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Kokosöl basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "USDA & MFDS & APCC",
+        "intro": "Haben Sie schon einmal Kokosöl gelagert und bemerkt, dass es im Winter hart und weiß wird, im Sommer aber zu einer klaren Flüssigkeit schmilzt? 🥥\n\nKokosöl besteht zu fast 90 % aus gesättigten Fettsäuren und gehört damit zu den chemisch stabilsten Pflanzenölen gegen Ranzigwerden. Es besitzt jedoch eine einzigartige physikalische Eigenschaft: Sein Schmelzpunkt liegt bei etwa 24 °C, sodass es je nach Raumtemperatur ganz natürlich zwischen fest und flüssig wechselt.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um das süße Aroma und die Nährstoffe Ihres Kokosöls langfristig zu bewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Eindringen von Feuchtigkeit oder Speiseresten unbedingt verhindern 💧",
+            "desc": "Reines Kokosöl ist extrem oxidationsbeständig, doch Wassertropfen oder Krümel lösen Hydrolyse aus und führen zu Schimmelbildung. Verwenden Sie zum Entnehmen immer einen sauberen, trockenen Löffel."
+          },
+          {
+            "title": "Vor Herdwärme und direktem Sonnenlicht schützen ☀️",
+            "desc": "UV-Strahlung und starke Hitze am Herd spalten Fettsäuren und zerstören die feinen Aromastoffe des Kokosöls. Lagern Sie das Öl an einem dunklen, kühlen Ort abseits von Hitzequellen."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Bei 20–24 °C im kühlen, dunklen Vorratsschrank lagern — Dicht verschlossene Lagerung (360–720 Tage) 📦",
+            "text": "Kokosöl muss nicht zwingend im Kühlschrank gelagert werden und lässt sich bei kühler Raumtemperatur am besten verwenden. 💡 Lagerungstipp: Bewahren Sie es im dunklen Vorratsschrank (20–24 °C) auf. Unter diesen Bedingungen hält sich geöffnetes Kokosöl problemlos 1 bis 2 Jahre frisch."
+          },
+          {
+            "name": "Deckel nach Gebrauch sofort fest verschließen — Luftdichter Verschluss 🧴",
+            "text": "Obwohl der hohe Gehalt an gesättigten Fettsäuren vor schneller Oxidation schützt, verfliegen bei langer Luftzufuhr die Aromen. 💡 Lagerungstipp: Wischen Sie den Rand mit einem trockenen Tuch ab und verschließen Sie den Deckel fest."
+          },
+          {
+            "name": "Für Langzeitlagerung oder feste Konsistenz im Kühlschrank aufbewahren — Kaltlagerung ❄️",
+            "text": "Unter 24 °C verfestigt sich Kokosöl ganz natürlich zu einer butterähnlichen Masse. 💡 Lagerungstipp: Wenn Sie eine feste Konsistenz zum Löffeln bevorzugen oder das Schmelzen im Sommer verhindern wollen, ist die Lagerung im Kühlschrank (0–10 °C) völlig unbedenklich und verlängert die Haltbarkeit weiter."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mein Kokosöl ist geschmolzen und dann wieder weiß geworden. Ist es verdorben?",
+            "answer": "Keineswegs! Kokosöl hat einen Schmelzpunkt von ca. 24 °C. Über 24 °C wird es zu einer klaren Flüssigkeit, unter 24 °C erstarrt es zu einer milchig-weißen Masse. Diese physikalische Zustandsänderung ist rein temperaturbedingt und hat keinen Einfluss auf Qualität oder Nährstoffe."
+          },
+          {
+            "question": "Woran erkenne ich, ob Kokosöl ranzig geworden ist?",
+            "answer": "Frisches Kokosöl duftet angenehm süßlich nach Kokos und ist klar (flüssig) oder weiß (fest). Riecht das Öl stechend, sauer oder nach Farbe, verfärbt es sich gelblich-braun oder zeigt dunkle/grüne Flecken (Schimmel), ist es verdorben und muss entsorgt werden."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar óleo de coco fresco: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para o óleo de coco com base em diretrizes oficiais de segurança.",
+        "authority": "USDA & MFDS & APCC",
+        "intro": "Você já guardou óleo de coco e percebeu que ele congelou em um bloco sólido branco no inverno ou derreteu virando um líquido transparente no verão? 🥥\n\nO óleo de coco é composto por quase 90% de ácidos graxos saturados, sendo um dos óleos vegetais mais estáveis quimicamente contra a oxidação (rancificação). Porém, possui uma propriedade física única: seu ponto de fusão é de cerca de 24 °C, alternando naturalmente entre sólido e líquido dependendo da temperatura ambiente.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes do USDA, MFDS e da Comunidade do Coco para Ásia e Pacífico (APCC) para manter seu aroma e qualidade nutricional. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Evite a entrada de umidade ou resíduos de alimentos 💧",
+            "desc": "Embora o óleo de coco puro seja resistente à oxidação, gotas de água ou farelos de comida causam hidrólise e proliferação de fungos e bactérias. Use sempre uma colher limpa e bem seca ao retirar o produto."
+          },
+          {
+            "title": "Mantenha longe do calor do fogão e da luz solar direta ☀️",
+            "desc": "A radiação ultravioleta e o calor forte perto do fogão quebram as cadeias de ácidos graxos e destroem os compostos aromáticos suaves do coco. Guarde-o em local escuro e fresco."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Guarde em armário fresco e escuro a 20–24 °C — Armazenamento selado (360–720 dias) 📦",
+            "text": "O óleo de coco não precisa obrigatoriamente de refrigeração e é mais prático de usar em temperatura ambiente fresca. 💡 Dica de conservação: Guarde em um armário escuro ou despensa (20–24 °C). Nessas condições, o óleo aberto mantém seu aroma e frescor por 1 a 2 anos."
+          },
+          {
+            "name": "Feche bem a tampa após o uso para bloquear o ar — Vedação hermética 🧴",
+            "text": "Embora o alto teor de gorduras saturadas proteja contra a oxidação rápida, a exposição prolongada ao ar volatiliza seus aromas. 💡 Dica de conservação: Limpe a borda do pote com um pano seco após o uso e feche a tampa com firmeza."
+          },
+          {
+            "name": "Refrigere para longa conservação ou textura sólida — Armazenamento refrigerado ❄️",
+            "text": "Abaixo de 24 °C ele se solidifica naturalmente em um creme estilo manteiga. 💡 Dica de conservação: Se você prefere usá-lo em estado sólido ou quer evitar que derreta no verão, guardá-lo na geladeira (0–10 °C) é totalmente seguro e estende ainda mais a durabilidade."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Meu óleo de coco derreteu e depois endureceu virando uma massa branca. Ele estragou?",
+            "answer": "De forma alguma! O óleo de coco tem ponto de fusão de cerca de 24 °C. Acima de 24 °C ele fica líquido e transparente; abaixo de 24 °C ele endurece virando uma massa branca leitosa. Essa mudança física depende apenas da temperatura e não afeta em nada a qualidade ou os nutrientes."
+          },
+          {
+            "question": "Como posso saber se o óleo de coco ranceou?",
+            "answer": "O óleo de coco fresco tem cheiro doce e suave de coco, sendo transparente (líquido) ou bem branco (sólido). Se apresentar cheiro azedo, râncio ou de tinta, cor amarelada/acastanhada ou manchas escuras/verdes (mofo), ele estragou e deve ser descartado."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Minyak Kelapa (Coconut Oil) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk minyak kelapa berdasarkan pedoman keselamatan resmi.",
+        "authority": "USDA & MFDS & APCC",
+        "intro": "Pernahkah Anda menyimpan minyak kelapa lalu mendapati teksturnya membeku keras berwarna putih, atau cair bening saat suhu udara panas? 🥥\n\nMinyak kelapa terdiri dari hampir 90% asam lemak jenuh, menjadikannya salah satu minyak nabati paling stabil secara kimia terhadap oksidasi (ketengikan). Namun, minyak kelapa memiliki sifat fisik yang unik: titik lelehnya berada di sekitar 24°C, sehingga wajar jika teksturnya berubah secara alami antara padat dan cair tergantung suhu ruangan.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman USDA, MFDS, dan Asian and Pacific Coconut Community (APCC) untuk menjaga aroma manis dan kualitas nutrisi minyak kelapa Anda. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Cegah masuknya kelembapan atau sisa makanan 💧",
+            "desc": "Meskipun minyak kelapa murni sangat tahan terhadap oksidasi, tetesan air atau remahan makanan dapat memicu hidrolisis dan tumbuhnya jamur/bakteri. Selalu gunakan sendok bersih dan kering saat mengambil minyak."
+          },
+          {
+            "title": "Jauhkan dari panas kompor dan sinar matahari langsung ☀️",
+            "desc": "Sinar ultraviolet dan suhu panas di dekat peralatan memasak dapat merusak asam lemak dan menghancurkan senyawa aroma manis minyak kelapa. Simpan di tempat yang gelap dan sejuk."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Simpan di rak dapur sejuk dan gelap pada suhu 20–24°C — Simpan Wadah Tertutup (360–720 Hari) 📦",
+            "text": "Minyak kelapa tidak wajib disimpan di kulkas dan paling nyaman digunakan pada suhu ruang sejuk. 💡 Tips Penyimpanan: Simpan di lemari dapur yang gelap (20–24°C). Dalam kondisi ini, minyak kelapa yang sudah dibuka dapat bertahan 1 hingga 2 tahun dengan rasa dan kesegaran yang terjaga."
+          },
+          {
+            "name": "Tutup wadah rapat-rapat setelah digunakan — Segel Kedap Udara 🧴",
+            "text": "Meskipun kandungan lemak jenuhnya yang tinggi melindungi dari oksidasi cepat, paparan udara jangka panjang akan menguapkan aromanya. 💡 Tips Penyimpanan: Lap bagian bibir wadah dengan kain kering setelah digunakan dan tutup rapat kembali."
+          },
+          {
+            "name": "Simpan di kulkas untuk masa simpan lama atau tekstur padat — Simpan Dingin ❄️",
+            "text": "Di bawah suhu 24°C, minyak kelapa akan membeku secara alami menjadi tekstur padat seperti mentega. 💡 Tips Penyimpanan: Jika Anda lebih suka tekstur padat yang mudah disendok atau ingin mencegah minyak mencair saat musim panas, menyimpannya di kulkas (0–10°C) sangat aman dan memperpanjang masa simpannya."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Minyak kelapa saya mencair lalu membeku kembali menjadi padatan putih. Apakah sudah basi?",
+            "answer": "Sama sekali tidak basi! Minyak kelapa memiliki titik leleh sekitar 24°C. Di atas 24°C teksturnya menjadi cair bening, dan di bawah 24°C memadat menjadi warna putih susu. Perubahan fisik ini murni akibat suhu dan tidak memengaruhi kualitas maupun nutrisinya."
+          },
+          {
+            "question": "Bagaimana cara mengetahui jika minyak kelapa sudah tengik?",
+            "answer": "Minyak kelapa yang segar berbau manis khas kelapa dan berwarna bening (cair) atau putih bersih (padat). Jika berbau tengik, asam, atau seperti cat, berubah warna menjadi kekuningan/kecokelatan, atau muncul bintik hitam/hijau (jamur), minyak sudah rusak dan harus dibuang."
+          }
+        ]
+      }
     }
+  }
 }

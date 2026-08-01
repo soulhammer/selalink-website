@@ -1,406 +1,406 @@
 {
-    "how-to-store-cranberries": {
-        "ingId": "cranberries",
-        "pubDate": "2026-05-06",
-        "updatedDate": "2026-05-06",
-        "heroImage": "/images/blog/cranberry_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "크랜베리 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 크랜베리의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 食品医薬品安全処(MFDS)",
-                "intro": "샐러드나 음료 재료로 인기가 높은 생 크랜베리를 살 때, 딸기나 블루베리처럼 금방 곰팡이가 피거나 물러질까 봐 걱정되신 적 있으시죠? 🫐\n\n크랜베리는 자체적으로 강한 천연 보존제 성분인 벤조산(Benzoic acid)과 다양한 유기산을 풍부하게 함유하여 pH가 2.3~2.5 수준으로 매우 낮습니다. 덕분에 베리류 중 천연 항균 및 항곰팡이 능력이 가장 뛰어납니다. 다만, 수분이 빠져나가 과피(껍질)에 미세한 균열이 생기면 곰팡이가 침투할 수 있으므로 90~95%의 높은 상대습도를 유지하는 증산작용 제어가 핵심입니다.\n\n이번 가이드에서는 USDA, FDA, 식품의약품안전처의 검증된 가이드라인을 바탕으로, 크랜베리의 상큼한 맛과 탱글탱글한 신선함을 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 천연 유기산 성분과 과피 호흡 및 증산 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "수분 손실로 인한 과피 균열 및 곰팡이 침투를 막으세요 ⚠️",
-                        "desc": "크랜베리는 수분이 빠져나가면 껍질에 미세한 균열이 발생하여 곰팡이가 침투하기 쉬운 상태가 됩니다. 90~95% 수준의 높은 상대습도를 유지할 수 있도록 천공(구멍이 뚫린) 비닐백에 넣어 보관해야 합니다."
-                    },
-                    {
-                        "title": "보관 전 미리 물로 세척하지 마세요 💧",
-                        "desc": "보관 전에 생 크랜베리를 물로 씻으면 표면의 천연 보호막(왁스층)이 벗겨지고 과피 사이에 잔여 수분이 남아 곰팡이 번식의 원인이 됩니다. 반드시 섭취 직전에만 씻어주세요."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "천공 비닐백에 넣어 습도를 유지하며 냉장 보관하기 — 냉장 보관 (21~28일) ❄️",
-                        "text": "생 크랜베리는 높은 천연 벤조산 함량 덕분에 베리류 중 보존성이 가장 뛰어납니다. 💡 보관 팁: 구멍이 미세하게 뚫린 천공 비닐백이나 지퍼백에 넣어 냉장고 야채칸(0~4℃, 상대습도 90~95%)에 보관하세요. 딸기나 블루베리보다 훨씬 긴 3~4주 동안 탱글함을 유지합니다."
-                    },
-                    {
-                        "name": "물러지거나 손상된 과실은 즉시 선별하여 격리하기 — 품질 선별 🔎",
-                        "text": "상처가 나거나 무른 크랜베리는 천연 벤조산 방어막이 깨져 곰팡이가 생기기 쉽고, 주변의 신선한 크랜베리까지 오염시킵니다. 💡 보관 팁: 보관 전 손상된 알갱이를 골라내어 신선한 크랜베리만 보관하세요."
-                    },
-                    {
-                        "name": "장기 보관 시 세척 및 건조 후 급속 냉동하기 — 냉동 보관 (300~360일) 🧊",
-                        "text": "1개월 이상 오랫동안 보존하고 싶다면 냉동 보관이 가장 좋은 방법입니다. 💡 보관 팁: 물로 깨끗이 씻은 후 물기를 완전히 닦아내고 밀폐 용기나 이중 지퍼백에 담아 냉동실(-18℃ 이하)에 보관하세요. 10~12개월 동안 영양 손실 없이 신선하게 사용할 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "크랜베리는 왜 딸기나 블루베리보다 냉장 보관 기간이 훨씬 긴가요?",
-                        "answer": "크랜베리는 자체적으로 강한 천연 항균 및 항곰팡이 물질인 벤조산(Benzoic acid)과 다양한 유기산을 함유하고 있어 pH가 2.3~2.5로 매우 낮습니다. 이 강력한 산성 환경 덕분에 미생물 증식이 억제되어 생물 상태에서도 3~4주간 신선하게 보존됩니다."
-                    },
-                    {
-                        "question": "크랜베리를 보관할 때 구멍이 뚫린 비닐(천공 비닐)을 사용하는 이유는 무엇인가요?",
-                        "answer": "크랜베리의 과피는 수분이 빠져나갈 경우 미세한 균열이 생겨 곰팡이가 침투합니다. 구멍이 살짝 뚫린 비닐백은 적절한 통기성을 제공하면서도 90~95%의 높은 상대습도를 유지해 주어, 수분 증산작용을 억제하고 곰팡이 감염을 방지합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Cranberries Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for cranberries based on official safety guidelines.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "When buying fresh cranberries for salads or juices, have you ever worried they might spoil or grow mold quickly like strawberries or blueberries? 🫐\n\nCranberries naturally contain rich amounts of benzoic acid—a potent natural preservative—and organic acids, creating a strongly acidic environment with a pH between 2.3 and 2.5. This endows them with superior natural antibacterial and antifungal properties compared to most berries. However, when moisture evaporates, micro-cracks form in the skin, allowing mold to invade. Thus, maintaining 90–95% relative humidity while regulating respiration is the scientific secret to long storage.\n\nIn this guide, we share a scientifically proven 3-step cranberry storage guide based on guidelines from the USDA, FDA, and MFDS to safely preserve their tart flavor and firm texture. 🛡️",
-                "whyTitle": "Why Store Cranberries This Way? Scientific Facts",
-                "whyDesc": "Understanding the natural organic acid composition and skin respiration characteristics of cranberries is essential for maintaining freshness and preventing spoilage.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Prevent skin micro-cracks and mold invasion caused by moisture loss ⚠️",
-                        "desc": "When cranberries lose moisture, micro-cracks develop in their skin, rendering them vulnerable to mold infection. Storing them in perforated plastic bags maintains high relative humidity (90–95%) to prevent transpiration."
-                    },
-                    {
-                        "title": "Do not wash cranberries prior to storage 💧",
-                        "desc": "Washing raw cranberries before storage strips away their protective natural wax layer and leaves moisture trapped on the skin, inviting mold growth. Always wash them right before consumption."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Keep in perforated plastic bags to maintain humidity — Refrigerated Storage (21–28 Days) ❄️",
-                        "text": "Fresh cranberries boast the longest shelf life among berries thanks to their high benzoic acid content. 💡 Storage Tip: Place cranberries in a perforated plastic bag or breathable container in the crisper drawer (0–4°C / 32–39°F, 90–95% RH) to keep them firm and fresh for 3 to 4 weeks."
-                    },
-                    {
-                        "name": "Sort and discard soft or damaged berries immediately — Quality Sorting 🔎",
-                        "text": "Soft, bruised, or damaged berries lose their natural benzoic acid defense, making them prone to mold and contaminating surrounding sound fruits. 💡 Storage Tip: Inspect and sort out defective cranberries before storing."
-                    },
-                    {
-                        "name": "Wash, dry thoroughly, and freeze for long-term storage — Frozen Storage (300–360 Days) 🧊",
-                        "text": "If storing for longer than a month, freezing is the optimal method. 💡 Storage Tip: Rinse cranberries clean, dry them completely with towels, and freeze in airtight bags below -18°C (0°F). Preserves nutrients and texture for 10 to 12 months."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why do fresh cranberries last so much longer in the fridge than strawberries or blueberries?",
-                        "answer": "Cranberries naturally contain abundant benzoic acid, a natural antimicrobial preservative, along with organic acids that drop their pH to 2.3–2.5. This strongly acidic environment suppresses microbial growth, allowing fresh cranberries to stay fresh for 3 to 4 weeks."
-                    },
-                    {
-                        "question": "Why should cranberries be stored in perforated plastic bags?",
-                        "answer": "When cranberries lose moisture, micro-cracks open in their skin where mold spores can enter. Perforated plastic bags allow necessary air exchange while maintaining a high relative humidity of 90–95%, preventing moisture loss and mold invasion."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "クランベリーを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくクランベリーの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
-                "intro": "サラダやドリンクの材料として人気の生クランベリーを購入する際、イチゴやブルーベリーのようにすぐに傷んだりカビが生えたりすることを心配したことはありませんか？🫐\n\nクランベリーは、強力な天然防腐剤成分である安息香酸（Benzoic acid）と多様な有機酸を豊富に含み、pHが2.3〜2.5という強い酸性環境を持っています。このおかげでベリー類の中で最高の天然抗菌・抗カビ能力を誇ります。しかし、水分が抜けて果皮（皮）に微細な亀裂が生じるとカビが侵入しやすくなるため、90〜95%の相対湿度を維持する蒸散制御が重要です。\n\n本記事では、USDA、FDA、食品医薬品安全処のガイドラインに基づき、クランベリーの甘酸っぱい味わいと弾力ある新鮮さを保つ3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？ 科学的ファクト",
-                "whyDesc": "食材ごとの天然有機酸成分や果皮の呼吸・蒸散特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "水分損失による果皮の亀裂とカビの侵入を防いでください ⚠️",
-                        "desc": "クランベリーは水分が抜けると皮に微細な亀裂が生じ、カビが侵入しやすい状態になります。90〜95%の高い相対湿度を維持できるよう、有孔（穴あき）ポリ袋に入れて保存してください。"
-                    },
-                    {
-                        "title": "保存前にあらかじめ水洗いしないでください 💧",
-                        "desc": "保存前に生のクランベリーを水洗いすると、表面の天然保護膜（ワックス層）が剥がれ、果皮の間に残った水分がカビ繁殖の原因になります。必ず食べる直前に洗ってください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "有孔ポリ袋に入れて湿度を保ち冷蔵保存する — 冷蔵保存 (21〜28日間) ❄️",
-                        "text": "生のクランベリーは高い天然安息香酸含有量のおかげで、ベリー類の中で最も保存性に優れています。💡保存のコツ：微細な穴が開いた有孔ポリ袋やジッパーバッグに入れ、冷蔵庫の野菜室（0〜4℃、相対湿度90〜95%）で保存してください。イチゴやブルーベリーよりはるかに長い3〜4週間、弾力を維持できます。"
-                    },
-                    {
-                        "name": "傷んだ果実や柔らかくなった果実はすぐに選別して取り除く — 品質選別 🔎",
-                        "text": "傷がついたり柔らかくなったクランベリーは天然の安息香酸バリアが壊れ、カビが発生しやすく周囲の新鮮な果実まで汚染します。💡保存のコツ：保存前に傷んだ粒を選別し、新鮮なクランベリーのみを保存してください。"
-                    },
-                    {
-                        "name": "長期保存時は洗って水気を拭き取り急速冷凍する — 冷凍保存 (300〜360日間) 🧊",
-                        "text": "1ヶ月以上長期間保存したい場合は冷凍保存が最適です。💡保存のコツ：水できれいに洗った後、完全に水分を拭き取り、密閉容器や二重ジッパーバッグに入れて冷凍室（-18℃以下）で保存してください。10〜12ヶ月間栄養を損なわずに使用できます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "クランベリーはなぜイチゴやブルーベリーより冷蔵保存期間が長いのですか？",
-                        "answer": "クランベリーは強力な天然抗菌・抗カビ物質である安息香酸（Benzoic acid）と多様な有機酸を含んでおり、pHが2.3〜2.5と極めて低いためです。 this 強力な酸性環境によって微生物の繁殖が抑えられ、生のままでも3〜4週間新鮮に保存できます。"
-                    },
-                    {
-                        "question": "クランベリーを保存する際に穴の開いた袋（有孔ポリ袋）を使う理由は何ですか？",
-                        "answer": "クランベリーの果皮は水分が抜けると微細な亀裂が生じ、カビ胞子が侵入します。穴の開いた袋は適度な通気性を与えつつ、90〜95%の高い相対湿度を維持できるため、水分蒸散を抑えてカビの感染を防ぎます。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持蔓越莓（Cranberries）新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解蔓越莓的最佳储存温度、方式及保鲜时长。",
-                "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "购买新鲜蔓越莓用于制作沙拉或饮品时，您是否担心它会像草莓或蓝莓一样迅速变质发霉？🫐\n\n蔓越莓本身富含强效天然防腐成分安息香酸（苯甲酸，Benzoic acid）及多种有机酸，其pH值低至2.3~2.5。得益于此，它在浆果类水果中拥有最出色的天然抗菌和抗霉菌能力。然而，如果蒸发失水导致果皮出现微小裂纹，霉菌便会乘虚而入。因此，保持90~95%的高相对湿度以控制蒸腾作用，是蔓越莓长久保鲜的科学秘诀。\n\n本指南基于USDA、FDA及韩国MFDS的权威指南，为您带来3步科学保存秘诀，帮您长久锁定蔓越莓的酸甜风味与紧实口感。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的天然有机酸成分与果皮呼吸蒸腾特性并遵循正确的储存方法，对于维持新鲜度与食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "严防失水导致果皮裂纹及霉菌侵入 ⚠️",
-                        "desc": "蔓越莓一旦失水，果皮就会产生微小裂缝，极易遭受霉菌侵袭。必须将其放入打孔塑料袋中储存，以维持90~95%的高相对湿度。"
-                    },
-                    {
-                        "title": "储存前切勿提前水洗 💧",
-                        "desc": "储存前清洗鲜蔓越莓会洗掉果皮表面的天然蜡质保护层，且残余水分会滞留在果皮间，诱发霉菌滋生。请务必在食用前才清洗。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "放入打孔塑料袋维持湿度并冷藏 — 冷藏储存 (21~28天) ❄️",
-                        "text": "鲜蔓越莓凭借高含量的天然安息香酸，是浆果中耐储性最强的种类。💡储存小贴士：放入有微孔的打孔保鲜袋中，置于冰箱蔬菜抽屉（0~4℃，相对湿度90~95%），可保持紧实新鲜长达3~4周。"
-                    },
-                    {
-                        "name": "及时剔除变软或破损的果实 — 品质筛选 🔎",
-                        "text": "破损或变软的蔓越莓丧失了天然安息香酸屏障，极易发霉并污染周围的新鲜果实。💡储存小贴士：储存前仔细检查并挑出次果，仅保留完好无损的果实。"
-                    },
-                    {
-                        "name": "长期保存请洗净擦干后快速冷冻 — 冷冻保存 (300~360天) 🧊",
-                        "text": "若计划保存1个月以上，冷冻是最佳选择。💡储存小贴士：用清水洗净后彻底擦干水分，装入密封袋或双层拉链袋置于冷冻室（-18℃以下），可完好保存10~12个月。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "为什么鲜蔓越莓的冷藏保鲜期比草莓或蓝莓长得多？",
-                        "answer": "因为蔓越莓含有丰富的天然强效抑菌成分安息香酸（苯甲酸）以及多种有机酸，使其pH值处于2.3~2.5的强酸性范围。这种环境能极大地抑制微生物滋生，因此在鲜果状态下也能冷藏保存3~4周。"
-                    },
-                    {
-                        "question": "保存蔓越莓时为什么要使用打孔塑料袋？",
-                        "answer": "蔓越莓果皮失水后会产生微小裂痕，给霉菌孢子可乘之机。打孔保鲜袋在提供适度透气的同时，能维持90~95%的高相对湿度，有效抑制水分蒸腾作用并防止霉菌感染。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener los arándanos rojos (cranberries) frescos: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para los arándanos rojos según las directrices oficiales de seguridad.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "¿Alguna vez compró arándanos rojos frescos para ensaladas o jugos y le preocupó que se echaran a perder rápidamente como las fresas o los arándanos azules? 🫐\n\nLos arándanos rojos contienen de forma natural abundante ácido benzoico—un potente conservante natural—y ácidos orgánicos, creando un entorno fuertemente ácido con un pH de 2,3 a 2,5. Esto les confiere propiedades antibacterianas y antifúngicas superiores a las de la mayoría de las bayas. Sin embargo, cuando pierden humedad, se forman microgrietas en su piel por las que puede penetrar el moho. Mantener un 90-95% de humedad relativa mediante bolsas perforadas es el secreto científico para una larga conservación.\n\nEn esta guía se presenta una guía científica en 3 pasos basada en las directrices del USDA, la FDA y el MFDS para conservar su sabor ácido y su firmeza de forma segura. 🛡️",
-                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-                "whyDesc": "Comprender la composición de ácidos orgánicos y la respiración de la piel de los arándanos rojos es esencial para mantener la frescura y evitar el deterioro.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Evite las microgrietas por deshidratación y el ataque de moho ⚠️",
-                        "desc": "Cuando los arándanos rojos pierden humedad, se abren microgrietas en la piel que facilitan la invasión de moho. Guardarlos en bolsas de plástico perforadas mantiene una humedad relativa alta (90–95%) para frenar la transpiración."
-                    },
-                    {
-                        "title": "No lave los arándanos rojos antes de guardarlos 💧",
-                        "desc": "Lavar los arándanos rojos antes de guardarlos elimina su capa natural de cera protectora y deja agua retenida en la piel, lo que favorece el crecimiento de moho. Lávelos justo antes de consumirlos."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Guarde en bolsas de plástico perforadas para conservar la humedad — Temp. Refrigerada (21–28 días) ❄️",
-                        "text": "Los arándanos rojos frescos poseen la mayor durabilidad entre las bayas gracias a su alto contenido de ácido benzoico. 💡 Consejo de almacenamiento: Colóquelos en bolsas de plástico perforadas en el cajón de verduras del refrigerador (0–4 °C, 90–95% HR) para mantenerlos firmes de 3 a 4 semanas."
-                    },
-                    {
-                        "name": "Seleccione y retire inmediatamente las bayas blandas o dañadas — Control de Calidad 🔎",
-                        "text": "Las bayas blandas o golpeadas pierden su barrera natural de ácido benzoico, volviéndose propensas al moho y contaminando las frutas sanas. 💡 Consejo de almacenamiento: Revise y retire las piezas dañadas antes de guardar."
-                    },
-                    {
-                        "name": "Lave, seque por completo y congele para una larga conservación — Congelación (300–360 días) 🧊",
-                        "text": "Si desea conservarlos durante más de un mes, la congelación es la opción perfecta. 💡 Consejo de almacenamiento: Lávelos bien, séquelos por completo con papel absorbente y congélelos en bolsas herméticas por debajo de -18 °C. Conservan sus nutrientes de 10 a 12 meses."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué los arándanos rojos duran mucho más en el refrigerador que las fresas o moras?",
-                        "answer": "Los arándanos rojos contienen ácido benzoico natural, un potente antimicrobiano, junto con ácidos orgánicos que reducen su pH a 2,3–2,5. Este entorno fuertemente ácido inhibe la proliferación microbiana, lo que permite que se conserven frescos durante 3 a 4 semanas."
-                    },
-                    {
-                        "question": "¿Por qué se deben usar bolsas de plástico perforadas para guardar arándanos rojos?",
-                        "answer": "La piel del arándano rojo genera microgrietas si pierde humedad, abriendo paso a las esporas de moho. Las bolsas perforadas permiten la ventilación adecuada manteniendo una humedad relativa del 90–95%, lo que previene la deshidratación y el moho."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver les cranberries (canneberges) fraîches : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les cranberries selon les directives officielles de sécurité.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "En achetant des cranberries fraîches pour vos salades ou jus, avez-vous déjà craint qu'elles ne s'abîment rapidement comme les fraises ou les myrtilles ? 🫐\n\nLes cranberries contiennent naturellement une grande quantité d'acide benzoïque—un puissant conservateur naturel—ainsi que des acides organiques, leur conférant un pH très acide situé entre 2,3 et 2,5. Elles possèdent ainsi les meilleures propriétés antibactériennes et antifongiques parmi les fruits rouges. Cependant, lorsque l'eau s'évapore, de micro-fissures apparaissent sur leur peau, permettant à la moisissure d'entrer. Maintenir un taux d'humidité de 90–95 % grâce à un sachet perforé est le secret scientifique d'une longue conservation.\n\nDans ce guide, nous vous présentons un guide scientifique en 3 étapes basé sur les recommandations de l'USDA, de la FDA et du MFDS pour préserver leur fraîcheur ferme et leur goût acidulé. 🛡️",
-                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre la composition en acides organiques et la transpiration cutanée des cranberries est essentiel pour maintenir leur fraîcheur et éviter l'altération.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Évitez les micro-fissures de la peau et l'invasion de moisissure ⚠️",
-                        "desc": "Lorsque la canneberge perd son humidité, de fines fentes se forment sur la peau, la rendant vulnérable aux moisissures. Le stockage dans un sachet en plastique perforé maintient une humidité relative de 90–95 %."
-                    },
-                    {
-                        "title": "Ne lavez pas les cranberries avant le stockage 💧",
-                        "desc": "Laver les cranberries fraîches avant de les ranger élimine leur couche de cire naturelle protectrice et laisse de l'eau sur la peau, favorisant les moisissures. Lavez-les uniquement juste avant consommation."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Conserver en sachet plastique perforé pour maintenir l'humidité — Stockage Réfrigéré (21–28 jours) ❄️",
-                        "text": "Les cranberries fraîches ont la durée de conservation la plus longue parmi les baies grâce à leur taux élevé d'acide benzoïque. 💡 Astuce de conservation : Placez-les dans un sachet perforé dans le bac à légumes (0–4 °C, 90–95 % HR) pour préserver leur fermeté pendant 3 à 4 semaines."
-                    },
-                    {
-                        "name": "Trier et jeter immédiatement les fruits moux ou abîmés — Tri Qualité 🔎",
-                        "text": "Les baies amollies ou abîmées perdent leur barrière d'acide benzoïque, devenant sujettes aux moisissures et contaminant les fruits sains. 💡 Astuce de conservation : Inspectez et retirez les baies défectueuses avant de ranger."
-                    },
-                    {
-                        "name": "Laver, sécher soigneusement et congeler pour une longue conservation — Congélation (300–360 jours) 🧊",
-                        "text": "Pour une conservation supérieure à un mois, la congélation est optimale. 💡 Astuce de conservation : Rincez les cranberries, séchez-les complètement au papier absorbant et congelez-les en sachet hermétique sous -18 °C. Préserve les nutriments pendant 10 à 12 mois."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi les cranberries fraîches se conservent-elles plus longtemps au frais que les fraises ?",
-                        "answer": "Les cranberries contiennent abondamment de l'acide benzoïque, un conservateur naturel, ainsi que des acides organiques qui abaissent leur pH à 2,3–2,5. Ce milieu très acide empêche le développement des micro-organismes, leur permettant de rester fraîches 3 à 4 semaines."
-                    },
-                    {
-                        "question": "Pourquoi faut-il utiliser un sachet plastique perforé pour conserver les cranberries ?",
-                        "answer": "La peau des cranberries se fendille en cas de perte d'humidité, laissant entrer les moisissures. Un sachet perforé permet une aération adaptée tout en maintenant une humidité élevée de 90–95 %, évitant le dessèchement."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Cranberries richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Cranberries basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Haben Sie beim Kauf frischer Cranberries schon einmal befürchtet, dass diese wie Erdbeeren oder Blaubeeren rasch schimmeln oder weich werden? 🫐\n\nCranberries enthalten von Natur aus reichlich Benzoesäure—ein starkes natürliches Konservierungsmittel—sowie organische Säuren, die für einen sehr sauren pH-Wert von 2,3 bis 2,5 sorgen. Dadurch besitzen sie unter allen Beeren die stärksten natürlichen antimikrobiellen Eigenschaften. Wenn jedoch Feuchtigkeit entweicht, entstehen Mikrorisse in der Schale, durch die Schimmelpilze eindringen können. Die Regulierung der Transpiration bei 90–95 % Luftfeuchtigkeit ist daher das wissenschaftliche Geheimnis langer Haltbarkeit.\n\nIn diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien der USDA, FDA und MFDS basiert, um die Knackigkeit und das fruchtige Aroma zu bewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der Zusammensetzung organischer Säuren und der Schalenatmung von Cranberries ist entscheidend für den Erhalt der Frische.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Mikrorisse der Schale und Schimmelfall durch Austrocknung vermeiden ⚠️",
-                        "desc": "Verlieren Cranberries Feuchtigkeit, entstehen Risse in der Schale, wodurch Schimmelsporen leicht eindringen. Die Lagerung in gelochten Plastikbeuteln hält die relative Luftfeuchtigkeit hoch (90–95 %)."
-                    },
-                    {
-                        "title": "Cranberries vor der Lagerung keinesfalls waschen 💧",
-                        "desc": "Das Waschen roher Cranberries vor dem Einlagern entfernt die natürliche Schutzwachsschicht und hinterlässt Wasser auf der Schale, was Schimmel begünstigt. Immer erst direkt vor dem Verzehr waschen."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "In gelochten Plastikbeuteln im Kühlschrank lagern — Kaltlagerung (21–28 Tage) ❄️",
-                        "text": "Frische Cranberries haben dank ihres Benzoesäuregehalts die längste Haltbarkeit unter den Beeren. 💡 Lagerungstipp: In einem gelochten Beutel im Gemüsefach (0–4 °C, 90–95 % r.F.) aufbewahren, um sie 3 bis 4 Wochen knackig zu halten."
-                    },
-                    {
-                        "name": "Weiche oder beschädigte Beeren sofort aussortieren — Qualitätskontrolle 🔎",
-                        "text": "Beschädigte oder weiche Beeren verlieren ihren natürlichen Benzoesäureschutz und schimmeln leicht, was gesunde Beeren anstecken kann. 💡 Lagerungstipp: Vor dem Einlagern fehlerhafte Beeren aussortieren."
-                    },
-                    {
-                        "name": "Für Langzeitlagerung waschen, trocknen und einfrieren — Gefrierlagerung (300–360 Tage) 🧊",
-                        "text": "Möchten Sie Cranberries länger als einen Monat aufbewahren, ist Einfrieren ideal. 💡 Lagerungstipp: Cranberries gründlich waschen, mit Tuch abtrocknen und in Gefrierbeuteln unter -18 °C einfrieren. Hält Nährstoffe 10 bis 12 Monate frisch."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum halten frische Cranberries im Kühlschrank so viel länger als Erdbeeren?",
-                        "answer": "Cranberries enthalten reichlich natürliche Benzoesäure und organische Säuren, die ihren pH-Wert auf 2,3–2,5 senken. Dieses stark saure Milieu hemmt das Mikrobenwachstum effektiv, sodass sie 3 bis 4 Wochen frisch bleiben."
-                    },
-                    {
-                        "question": "Warum sollten Cranberries in gelochten Beuteln gelagert werden?",
-                        "answer": "Verlieren Cranberries Feuchtigkeit, bekommt die Schale Risse, durch die Schimmel eindringt. Gelochte Beutel ermöglichen die nötige Belüftung und halten gleichzeitig die Luftfeuchtigkeit bei 90–95 %, was Austrocknung verhindert."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar cranberries frescos: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para cranberries com base em diretrizes oficiais de segurança.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Ao comprar cranberries frescos para saladas ou sucos, você já ficou com medo de que estragassem rapidamente como morangos ou mirtilos? 🫐\n\nOs cranberries contêm naturalmente uma quantidade abundante de ácido benzoico—um potente conservante natural—e ácidos orgânicos, criando um ambiente altamente ácido com pH entre 2,3 e 2,5. Isso lhes confere propriedades antibacterianas e antifúngicas superiores às da maioria das frutas vermelhas. Porém, quando perdem umidade, surgem microfissuras na casca por onde o mofo pode entrar. Manter a umidade relativa entre 90 e 95% em sacos perfurados é o segredo científico para uma longa conservação.\n\nNeste guia, apresentamos um guia científico em 3 etapas baseado em diretrizes da USDA, FDA e MFDS para preservar o sabor e a firmeza dos seus cranberries com segurança. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Compreender a composição de ácidos orgânicos e a transpiração da casca dos cranberries é essencial para manter o frescor e evitar a deterioração.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Evite microfissuras na casca e mofo por perda de umidade ⚠️",
-                        "desc": "Quando os cranberries perdem água, formam-se microfissuras na casca que facilitam a entrada de mofo. Armazená-los em sacos plásticos perfurados mantém alta umidade relativa (90–95%)."
-                    },
-                    {
-                        "title": "Não lave os cranberries antes de guardar 💧",
-                        "desc": "Lavar os cranberries antes do armazenamento remove a camada natural de cera protetora e deixa água retida na casca, favorecendo o mofo. Lave apenas imediatamente antes do consumo."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Guarde em sacos plásticos perfurados para reter umidade — Armazenamento refrigerado (21–28 dias) ❄️",
-                        "text": "Cranberries frescos têm a maior durabilidade entre as frutas vermelhas devido ao alto teor de ácido benzoico. 💡 Dica de conservação: Mantenha-os em saco perfurado na gaveta de legumes (0–4 °C, 90–95% UR) para mantê-los firmes por 3 a 4 semanas."
-                    },
-                    {
-                        "name": "Separe e descarte frutas macias ou danificadas imediatamente — Triagem de Qualidade 🔎",
-                        "text": "Frutas amassadas perdem sua barreira natural de ácido benzoico, ficando propensas ao mofo e contaminando as frutas sadias. 💡 Dica de conservação: Inspecione e retire as frutas danificadas antes de guardar."
-                    },
-                    {
-                        "name": "Lave, seque bem e congele para longa conservação — Congelamento (300–360 dias) 🧊",
-                        "text": "Para guardar por mais de um mês, o congelamento é a melhor opção. 💡 Dica de conservação: Lave os cranberries, seque completamente com papel-toalha e congele em sacos herméticos abaixo de -18 °C. Preserva nutrientes por 10 a 12 meses."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Por que os cranberries frescos duram muito mais na geladeira do que os morangos?",
-                        "answer": "Os cranberries contêm ácido benzoico natural, um potente antimicrobiano, além de ácidos orgânicos que reduzem seu pH para 2,3–2,5. Esse meio muito ácido inibe microrganismos, permitindo que fiquem frescos por 3 a 4 semanas."
-                    },
-                    {
-                        "question": "Por que se deve usar sacos plásticos perfurados para guardar cranberries?",
-                        "answer": "A casca do cranberry trinca se houver perda de umidade, permitindo a entrada de esporos de mofo. Sacos perfurados garantem ventilação adequada mantendo a umidade relativa elevada (90–95%), evitando a desidratação."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Buah Cranberry agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk buah cranberry berdasarkan pedoman keselamatan resmi.",
-                "authority": "USDA & FDA & MFDS",
-                "intro": "Saat membeli buah cranberry segar untuk salad atau jus, pernahkah Anda khawatir buah ini cepat busuk atau berjamur seperti stroberi atau blueberry? 🫐\n\nBuah cranberry secara alami kaya akan asam benzoat—pengawet alami yang kuat—dan asam organik, menciptakan lingkungan sangat asam dengan pH antara 2,3 hingga 2,5. Hal ini memberinya kemampuan antibakteri dan antijamur alami yang luar biasa dibanding buah beri lainnya. Namun, jika kelembapan hilang, retakan halus akan muncul pada kulit buah sehingga jamur dapat masuk. Oleh karena itu, menjaga kelembapan relatif 90–95% menggunakan kantong plastik berlubang adalah rahasia ilmiah penyimpanannya.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan standar USDA, FDA, dan MFDS untuk menjaga rasa segar asam dan tekstur renyahnya. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami komposisi asam organik alami dan karakteristik respirasi kulit buah cranberry sangat penting untuk menjaga kesegaran dan mencegah pembusukan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Cegah retakan kulit dan invasi jamur akibat kehilangan kelembapan ⚠️",
-                        "desc": "Saat cranberry kehilangan cairan, retakan mikroskopis muncul pada kulitnya sehingga mudah terserang jamur. Menyimpannya dalam kantong plastik berlubang menjaga kelembapan relatif tetap tinggi (90–95%)."
-                    },
-                    {
-                        "title": "Jangan mencuci cranberry sebelum disimpan 💧",
-                        "desc": "Mencuci cranberry segar sebelum disimpan akan mengikis lapisan lilin pelindung alaminya dan menyisakan air pada kulit buah yang memicu jamur. Selalu cuci tepat sebelum dikonsumsi."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Simpan dalam kantong plastik berlubang untuk menjaga kelembapan — Simpan Kulkas (21–28 Hari) ❄️",
-                        "text": "Cranberry segar memiliki masa simpan paling lama di antara buah beri berkat kandungan asam benzoatnya yang tinggi. 💡 Tips Penyimpanan: Masukkan ke kantong plastik berlubang di laci sayur kulkas (0–4°C, kelembapan 90–95%) agar tetap renyah selama 3 hingga 4 minggu."
-                    },
-                    {
-                        "name": "Sortir dan buang buah yang lembek atau rusak — Sortir Kualitas 🔎",
-                        "text": "Buah yang lembek atau memar kehilangan pertahanan asam benzoat alaminya sehingga mudah berjamur dan menulari buah yang segar. 💡 Tips Penyimpanan: Periksa dan sisihkan buah yang rusak sebelum disimpan."
-                    },
-                    {
-                        "name": "Cuci, keringkan hingga tuntas, lalu bekukan untuk jangka panjang — Simpan Beku (300–360 Hari) 🧊",
-                        "text": "Jika ingin menyimpan lebih dari sebulan, pembekuan adalah metode terbaik. 💡 Tips Penyimpanan: Cuci bersih cranberry, keringkan dengan tisu hingga tuntas, lalu bekukan dalam kantong kedap udara di bawah -18°C. Menjaga nutrisi selama 10 hingga 12 bulan."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa cranberry segar bertahan jauh lebih lama di kulkas dibanding stroberi?",
-                        "answer": "Cranberry kaya akan asam benzoat alami (pengawet antimikroba) serta asam organik yang menurunkan pH-nya hingga 2,3–2,5. Lingkungan yang sangat asam ini menekan pertumbuhan mikroba, memungkinkan cranberry segar bertahan hingga 3–4 minggu."
-                    },
-                    {
-                        "question": "Mengapa harus menggunakan kantong plastik berlubang untuk menyimpan cranberry?",
-                        "answer": "Kulit cranberry akan retak jika kehilangan kelembapan, membuka jalan bagi spora jamur. Kantong plastik berlubang memberikan sirkulasi udara yang pas sekaligus mempertahankan kelembapan relatif tinggi 90–95%, mencegah dehidrasi buah."
-                    }
-                ]
-            }
-        }
+  "how-to-store-cranberries": {
+    "ingId": "cranberries",
+    "pubDate": "2026-05-06",
+    "updatedDate": "2026-05-06",
+    "heroImage": "/images/blog/cranberry_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "크랜베리 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 크랜베리의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "미국 농무부(USDA) & 미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
+        "intro": "샐러드나 음료 재료로 인기가 높은 생 크랜베리를 살 때, 딸기나 블루베리처럼 금방 곰팡이가 피거나 물러질까 봐 걱정되신 적 있으시죠? 🫐\n\n크랜베리는 자체적으로 강한 천연 보존제 성분인 벤조산(Benzoic acid)과 다양한 유기산을 풍부하게 함유하여 pH가 2.3~2.5 수준으로 매우 낮습니다. 덕분에 베리류 중 천연 항균 및 항곰팡이 능력이 가장 뛰어납니다. 다만, 수분이 빠져나가 과피(껍질)에 미세한 균열이 생기면 곰팡이가 침투할 수 있으므로 90~95%의 높은 상대습도를 유지하는 증산작용 제어가 핵심입니다.\n\n이번 가이드에서는 USDA, FDA, 식품의약품안전처의 검증된 가이드라인을 바탕으로, 크랜베리의 상큼한 맛과 탱글탱글한 신선함을 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 천연 유기산 성분과 과피 호흡 및 증산 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "수분 손실로 인한 과피 균열 및 곰팡이 침투를 막으세요 ⚠️",
+            "desc": "크랜베리는 수분이 빠져나가면 껍질에 미세한 균열이 발생하여 곰팡이가 침투하기 쉬운 상태가 됩니다. 90~95% 수준의 높은 상대습도를 유지할 수 있도록 천공(구멍이 뚫린) 비닐백에 넣어 보관해야 합니다."
+          },
+          {
+            "title": "보관 전 미리 물로 세척하지 마세요 💧",
+            "desc": "보관 전에 생 크랜베리를 물로 씻으면 표면의 천연 보호막(왁스층)이 벗겨지고 과피 사이에 잔여 수분이 남아 곰팡이 번식의 원인이 됩니다. 반드시 섭취 직전에만 씻어주세요."
+          }
+        ],
+        "steps": [
+          {
+            "name": "천공 비닐백에 넣어 습도를 유지하며 냉장 보관하기 — 냉장 보관 (21~28일) ❄️",
+            "text": "생 크랜베리는 높은 천연 벤조산 함량 덕분에 베리류 중 보존성이 가장 뛰어납니다. 💡 보관 팁: 구멍이 미세하게 뚫린 천공 비닐백이나 지퍼백에 넣어 냉장고 야채칸(0~4℃, 상대습도 90~95%)에 보관하세요. 딸기나 블루베리보다 훨씬 긴 3~4주 동안 탱글함을 유지합니다."
+          },
+          {
+            "name": "물러지거나 손상된 과실은 즉시 선별하여 격리하기 — 품질 선별 🔎",
+            "text": "상처가 나거나 무른 크랜베리는 천연 벤조산 방어막이 깨져 곰팡이가 생기기 쉽고, 주변의 신선한 크랜베리까지 오염시킵니다. 💡 보관 팁: 보관 전 손상된 알갱이를 골라내어 신선한 크랜베리만 보관하세요."
+          },
+          {
+            "name": "장기 보관 시 세척 및 건조 후 급속 냉동하기 — 냉동 보관 (300~360일) 🧊",
+            "text": "1개월 이상 오랫동안 보존하고 싶다면 냉동 보관이 가장 좋은 방법입니다. 💡 보관 팁: 물로 깨끗이 씻은 후 물기를 완전히 닦아내고 밀폐 용기나 이중 지퍼백에 담아 냉동실(-18℃ 이하)에 보관하세요. 10~12개월 동안 영양 손실 없이 신선하게 사용할 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "크랜베리는 왜 딸기나 블루베리보다 냉장 보관 기간이 훨씬 긴가요?",
+            "answer": "크랜베리는 자체적으로 강한 천연 항균 및 항곰팡이 물질인 벤조산(Benzoic acid)과 다양한 유기산을 함유하고 있어 pH가 2.3~2.5로 매우 낮습니다. 이 강력한 산성 환경 덕분에 미생물 증식이 억제되어 생물 상태에서도 3~4주간 신선하게 보존됩니다."
+          },
+          {
+            "question": "크랜베리를 보관할 때 구멍이 뚫린 비닐(천공 비닐)을 사용하는 이유는 무엇인가요?",
+            "answer": "크랜베리의 과피는 수분이 빠져나갈 경우 미세한 균열이 생겨 곰팡이가 침투합니다. 구멍이 살짝 뚫린 비닐백은 적절한 통기성을 제공하면서도 90~95%의 높은 상대습도를 유지해 주어, 수분 증산작용을 억제하고 곰팡이 감염을 방지합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Cranberries Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for cranberries based on official safety guidelines.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "When buying fresh cranberries for salads or juices, have you ever worried they might spoil or grow mold quickly like strawberries or blueberries? 🫐\n\nCranberries naturally contain rich amounts of benzoic acid—a potent natural preservative—and organic acids, creating a strongly acidic environment with a pH between 2.3 and 2.5. This endows them with superior natural antibacterial and antifungal properties compared to most berries. However, when moisture evaporates, micro-cracks form in the skin, allowing mold to invade. Thus, maintaining 90–95% relative humidity while regulating respiration is the scientific secret to long storage.\n\nIn this guide, we share a scientifically proven 3-step cranberry storage guide based on guidelines from the USDA, FDA, and MFDS to safely preserve their tart flavor and firm texture. 🛡️",
+        "whyTitle": "Why Store Cranberries This Way? Scientific Facts",
+        "whyDesc": "Understanding the natural organic acid composition and skin respiration characteristics of cranberries is essential for maintaining freshness and preventing spoilage.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Prevent skin micro-cracks and mold invasion caused by moisture loss ⚠️",
+            "desc": "When cranberries lose moisture, micro-cracks develop in their skin, rendering them vulnerable to mold infection. Storing them in perforated plastic bags maintains high relative humidity (90–95%) to prevent transpiration."
+          },
+          {
+            "title": "Do not wash cranberries prior to storage 💧",
+            "desc": "Washing raw cranberries before storage strips away their protective natural wax layer and leaves moisture trapped on the skin, inviting mold growth. Always wash them right before consumption."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Keep in perforated plastic bags to maintain humidity — Refrigerated Storage (21–28 Days) ❄️",
+            "text": "Fresh cranberries boast the longest shelf life among berries thanks to their high benzoic acid content. 💡 Storage Tip: Place cranberries in a perforated plastic bag or breathable container in the crisper drawer (0–4°C / 32–39°F, 90–95% RH) to keep them firm and fresh for 3 to 4 weeks."
+          },
+          {
+            "name": "Sort and discard soft or damaged berries immediately — Quality Sorting 🔎",
+            "text": "Soft, bruised, or damaged berries lose their natural benzoic acid defense, making them prone to mold and contaminating surrounding sound fruits. 💡 Storage Tip: Inspect and sort out defective cranberries before storing."
+          },
+          {
+            "name": "Wash, dry thoroughly, and freeze for long-term storage — Frozen Storage (300–360 Days) 🧊",
+            "text": "If storing for longer than a month, freezing is the optimal method. 💡 Storage Tip: Rinse cranberries clean, dry them completely with towels, and freeze in airtight bags below -18°C (0°F). Preserves nutrients and texture for 10 to 12 months."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why do fresh cranberries last so much longer in the fridge than strawberries or blueberries?",
+            "answer": "Cranberries naturally contain abundant benzoic acid, a natural antimicrobial preservative, along with organic acids that drop their pH to 2.3–2.5. This strongly acidic environment suppresses microbial growth, allowing fresh cranberries to stay fresh for 3 to 4 weeks."
+          },
+          {
+            "question": "Why should cranberries be stored in perforated plastic bags?",
+            "answer": "When cranberries lose moisture, micro-cracks open in their skin where mold spores can enter. Perforated plastic bags allow necessary air exchange while maintaining a high relative humidity of 90–95%, preventing moisture loss and mold invasion."
+          }
+        ]
+      },
+      "ja": {
+        "title": "クランベリーを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくクランベリーの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "米国農務省(USDA) & 米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
+        "intro": "サラダやドリンクの材料として人気の生クランベリーを購入する際、イチゴやブルーベリーのようにすぐに傷んだりカビが生えたりすることを心配したことはありませんか？🫐\n\nクランベリーは、強力な天然防腐剤成分である安息香酸（Benzoic acid）と多様な有機酸を豊富に含み、pHが2.3〜2.5という強い酸性環境を持っています。このおかげでベリー類の中で最高の天然抗菌・抗カビ能力を誇ります。しかし、水分が抜けて果皮（皮）に微細な亀裂が生じるとカビが侵入しやすくなるため、90〜95%の相対湿度を維持する蒸散制御が重要です。\n\n本記事では、USDA、FDA、食品医薬品安全処のガイドラインに基づき、クランベリーの甘酸っぱい味わいと弾力ある新鮮さを保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？ 科学的ファクト",
+        "whyDesc": "食材ごとの天然有機酸成分や果皮の呼吸・蒸散特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "水分損失による果皮の亀裂とカビの侵入を防いでください ⚠️",
+            "desc": "クランベリーは水分が抜けると皮に微細な亀裂が生じ、カビが侵入しやすい状態になります。90〜95%の高い相対湿度を維持できるよう、有孔（穴あき）ポリ袋に入れて保存してください。"
+          },
+          {
+            "title": "保存前にあらかじめ水洗いしないでください 💧",
+            "desc": "保存前に生のクランベリーを水洗いすると、表面の天然保護膜（ワックス層）が剥がれ、果皮の間に残った水分がカビ繁殖の原因になります。必ず食べる直前に洗ってください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "有孔ポリ袋に入れて湿度を保ち冷蔵保存する — 冷蔵保存 (21〜28日間) ❄️",
+            "text": "生のクランベリーは高い天然安息香酸含有量のおかげで、ベリー類の中で最も保存性に優れています。💡保存のコツ：微細な穴が開いた有孔ポリ袋やジッパーバッグに入れ、冷蔵庫の野菜室（0〜4℃、相対湿度90〜95%）で保存してください。イチゴやブルーベリーよりはるかに長い3〜4週間、弾力を維持できます。"
+          },
+          {
+            "name": "傷んだ果実や柔らかくなった果実はすぐに選別して取り除く — 品質選別 🔎",
+            "text": "傷がついたり柔らかくなったクランベリーは天然の安息香酸バリアが壊れ、カビが発生しやすく周囲の新鮮な果実まで汚染します。💡保存のコツ：保存前に傷んだ粒を選別し、新鮮なクランベリーのみを保存してください。"
+          },
+          {
+            "name": "長期保存時は洗って水気を拭き取り急速冷凍する — 冷凍保存 (300〜360日間) 🧊",
+            "text": "1ヶ月以上長期間保存したい場合は冷凍保存が最適です。💡保存のコツ：水できれいに洗った後、完全に水分を拭き取り、密閉容器や二重ジッパーバッグに入れて冷凍室（-18℃以下）で保存してください。10〜12ヶ月間栄養を損なわずに使用できます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "クランベリーはなぜイチゴやブルーベリーより冷蔵保存期間が長いのですか？",
+            "answer": "クランベリーは強力な天然抗菌・抗カビ物質である安息香酸（Benzoic acid）と多様な有機酸を含んでおり、pHが2.3〜2.5と極めて低いためです。 this 強力な酸性環境によって微生物の繁殖が抑えられ、生のままでも3〜4週間新鮮に保存できます。"
+          },
+          {
+            "question": "クランベリーを保存する際に穴の開いた袋（有孔ポリ袋）を使う理由は何ですか？",
+            "answer": "クランベリーの果皮は水分が抜けると微細な亀裂が生じ、カビ胞子が侵入します。穴の開いた袋は適度な通気性を与えつつ、90〜95%の高い相対湿度を維持できるため、水分蒸散を抑えてカビの感染を防ぎます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持蔓越莓（Cranberries）新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解蔓越莓的最佳储存温度、方式及保鲜时长。",
+        "authority": "美国农务部(USDA) & 美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "购买新鲜蔓越莓用于制作沙拉或饮品时，您是否担心它会像草莓或蓝莓一样迅速变质发霉？🫐\n\n蔓越莓本身富含强效天然防腐成分安息香酸（苯甲酸，Benzoic acid）及多种有机酸，其pH值低至2.3~2.5。得益于此，它在浆果类水果中拥有最出色的天然抗菌和抗霉菌能力。然而，如果蒸发失水导致果皮出现微小裂纹，霉菌便会乘虚而入。因此，保持90~95%的高相对湿度以控制蒸腾作用，是蔓越莓长久保鲜的科学秘诀。\n\n本指南基于USDA、FDA及韩国MFDS的权威指南，为您带来3步科学保存秘诀，帮您长久锁定蔓越莓的酸甜风味与紧实口感。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的天然有机酸成分与果皮呼吸蒸腾特性并遵循正确的储存方法，对于维持新鲜度与食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "严防失水导致果皮裂纹及霉菌侵入 ⚠️",
+            "desc": "蔓越莓一旦失水，果皮就会产生微小裂缝，极易遭受霉菌侵袭。必须将其放入打孔塑料袋中储存，以维持90~95%的高相对湿度。"
+          },
+          {
+            "title": "储存前切勿提前水洗 💧",
+            "desc": "储存前清洗鲜蔓越莓会洗掉果皮表面的天然蜡质保护层，且残余水分会滞留在果皮间，诱发霉菌滋生。请务必在食用前才清洗。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "放入打孔塑料袋维持湿度并冷藏 — 冷藏储存 (21~28天) ❄️",
+            "text": "鲜蔓越莓凭借高含量的天然安息香酸，是浆果中耐储性最强的种类。💡储存小贴士：放入有微孔的打孔保鲜袋中，置于冰箱蔬菜抽屉（0~4℃，相对湿度90~95%），可保持紧实新鲜长达3~4周。"
+          },
+          {
+            "name": "及时剔除变软或破损的果实 — 品质筛选 🔎",
+            "text": "破损或变软的蔓越莓丧失了天然安息香酸屏障，极易发霉并污染周围的新鲜果实。💡储存小贴士：储存前仔细检查并挑出次果，仅保留完好无损的果实。"
+          },
+          {
+            "name": "长期保存请洗净擦干后快速冷冻 — 冷冻保存 (300~360天) 🧊",
+            "text": "若计划保存1个月以上，冷冻是最佳选择。💡储存小贴士：用清水洗净后彻底擦干水分，装入密封袋或双层拉链袋置于冷冻室（-18℃以下），可完好保存10~12个月。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "为什么鲜蔓越莓的冷藏保鲜期比草莓或蓝莓长得多？",
+            "answer": "因为蔓越莓含有丰富的天然强效抑菌成分安息香酸（苯甲酸）以及多种有机酸，使其pH值处于2.3~2.5的强酸性范围。这种环境能极大地抑制微生物滋生，因此在鲜果状态下也能冷藏保存3~4周。"
+          },
+          {
+            "question": "保存蔓越莓时为什么要使用打孔塑料袋？",
+            "answer": "蔓越莓果皮失水后会产生微小裂痕，给霉菌孢子可乘之机。打孔保鲜袋在提供适度透气的同时，能维持90~95%的高相对湿度，有效抑制水分蒸腾作用并防止霉菌感染。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener los arándanos rojos (cranberries) frescos: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para los arándanos rojos según las directrices oficiales de seguridad.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "¿Alguna vez compró arándanos rojos frescos para ensaladas o jugos y le preocupó que se echaran a perder rápidamente como las fresas o los arándanos azules? 🫐\n\nLos arándanos rojos contienen de forma natural abundante ácido benzoico—un potente conservante natural—y ácidos orgánicos, creando un entorno fuertemente ácido con un pH de 2,3 a 2,5. Esto les confiere propiedades antibacterianas y antifúngicas superiores a las de la mayoría de las bayas. Sin embargo, cuando pierden humedad, se forman microgrietas en su piel por las que puede penetrar el moho. Mantener un 90-95% de humedad relativa mediante bolsas perforadas es el secreto científico para una larga conservación.\n\nEn esta guía se presenta una guía científica en 3 pasos basada en las directrices del USDA, la FDA y el MFDS para conservar su sabor ácido y su firmeza de forma segura. 🛡️",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender la composición de ácidos orgánicos y la respiración de la piel de los arándanos rojos es esencial para mantener la frescura y evitar el deterioro.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Evite las microgrietas por deshidratación y el ataque de moho ⚠️",
+            "desc": "Cuando los arándanos rojos pierden humedad, se abren microgrietas en la piel que facilitan la invasión de moho. Guardarlos en bolsas de plástico perforadas mantiene una humedad relativa alta (90–95%) para frenar la transpiración."
+          },
+          {
+            "title": "No lave los arándanos rojos antes de guardarlos 💧",
+            "desc": "Lavar los arándanos rojos antes de guardarlos elimina su capa natural de cera protectora y deja agua retenida en la piel, lo que favorece el crecimiento de moho. Lávelos justo antes de consumirlos."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Guarde en bolsas de plástico perforadas para conservar la humedad — Temp. Refrigerada (21–28 días) ❄️",
+            "text": "Los arándanos rojos frescos poseen la mayor durabilidad entre las bayas gracias a su alto contenido de ácido benzoico. 💡 Consejo de almacenamiento: Colóquelos en bolsas de plástico perforadas en el cajón de verduras del refrigerador (0–4 °C, 90–95% HR) para mantenerlos firmes de 3 a 4 semanas."
+          },
+          {
+            "name": "Seleccione y retire inmediatamente las bayas blandas o dañadas — Control de Calidad 🔎",
+            "text": "Las bayas blandas o golpeadas pierden su barrera natural de ácido benzoico, volviéndose propensas al moho y contaminando las frutas sanas. 💡 Consejo de almacenamiento: Revise y retire las piezas dañadas antes de guardar."
+          },
+          {
+            "name": "Lave, seque por completo y congele para una larga conservación — Congelación (300–360 días) 🧊",
+            "text": "Si desea conservarlos durante más de un mes, la congelación es la opción perfecta. 💡 Consejo de almacenamiento: Lávelos bien, séquelos por completo con papel absorbente y congélelos en bolsas herméticas por debajo de -18 °C. Conservan sus nutrientes de 10 a 12 meses."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué los arándanos rojos duran mucho más en el refrigerador que las fresas o moras?",
+            "answer": "Los arándanos rojos contienen ácido benzoico natural, un potente antimicrobiano, junto con ácidos orgánicos que reducen su pH a 2,3–2,5. Este entorno fuertemente ácido inhibe la proliferación microbiana, lo que permite que se conserven frescos durante 3 a 4 semanas."
+          },
+          {
+            "question": "¿Por qué se deben usar bolsas de plástico perforadas para guardar arándanos rojos?",
+            "answer": "La piel del arándano rojo genera microgrietas si pierde humedad, abriendo paso a las esporas de moho. Las bolsas perforadas permiten la ventilación adecuada manteniendo una humedad relativa del 90–95%, lo que previene la deshidratación y el moho."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver les cranberries (canneberges) fraîches : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les cranberries selon les directives officielles de sécurité.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "En achetant des cranberries fraîches pour vos salades ou jus, avez-vous déjà craint qu'elles ne s'abîment rapidement comme les fraises ou les myrtilles ? 🫐\n\nLes cranberries contiennent naturellement une grande quantité d'acide benzoïque—un puissant conservateur naturel—ainsi que des acides organiques, leur conférant un pH très acide situé entre 2,3 et 2,5. Elles possèdent ainsi les meilleures propriétés antibactériennes et antifongiques parmi les fruits rouges. Cependant, lorsque l'eau s'évapore, de micro-fissures apparaissent sur leur peau, permettant à la moisissure d'entrer. Maintenir un taux d'humidité de 90–95 % grâce à un sachet perforé est le secret scientifique d'une longue conservation.\n\nDans ce guide, nous vous présentons un guide scientifique en 3 étapes basé sur les recommandations de l'USDA, de la FDA et du MFDS pour préserver leur fraîcheur ferme et leur goût acidulé. 🛡️",
+        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre la composition en acides organiques et la transpiration cutanée des cranberries est essentiel pour maintenir leur fraîcheur et éviter l'altération.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Évitez les micro-fissures de la peau et l'invasion de moisissure ⚠️",
+            "desc": "Lorsque la canneberge perd son humidité, de fines fentes se forment sur la peau, la rendant vulnérable aux moisissures. Le stockage dans un sachet en plastique perforé maintient une humidité relative de 90–95 %."
+          },
+          {
+            "title": "Ne lavez pas les cranberries avant le stockage 💧",
+            "desc": "Laver les cranberries fraîches avant de les ranger élimine leur couche de cire naturelle protectrice et laisse de l'eau sur la peau, favorisant les moisissures. Lavez-les uniquement juste avant consommation."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Conserver en sachet plastique perforé pour maintenir l'humidité — Stockage Réfrigéré (21–28 jours) ❄️",
+            "text": "Les cranberries fraîches ont la durée de conservation la plus longue parmi les baies grâce à leur taux élevé d'acide benzoïque. 💡 Astuce de conservation : Placez-les dans un sachet perforé dans le bac à légumes (0–4 °C, 90–95 % HR) pour préserver leur fermeté pendant 3 à 4 semaines."
+          },
+          {
+            "name": "Trier et jeter immédiatement les fruits moux ou abîmés — Tri Qualité 🔎",
+            "text": "Les baies amollies ou abîmées perdent leur barrière d'acide benzoïque, devenant sujettes aux moisissures et contaminant les fruits sains. 💡 Astuce de conservation : Inspectez et retirez les baies défectueuses avant de ranger."
+          },
+          {
+            "name": "Laver, sécher soigneusement et congeler pour une longue conservation — Congélation (300–360 jours) 🧊",
+            "text": "Pour une conservation supérieure à un mois, la congélation est optimale. 💡 Astuce de conservation : Rincez les cranberries, séchez-les complètement au papier absorbant et congelez-les en sachet hermétique sous -18 °C. Préserve les nutriments pendant 10 à 12 mois."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi les cranberries fraîches se conservent-elles plus longtemps au frais que les fraises ?",
+            "answer": "Les cranberries contiennent abondamment de l'acide benzoïque, un conservateur naturel, ainsi que des acides organiques qui abaissent leur pH à 2,3–2,5. Ce milieu très acide empêche le développement des micro-organismes, leur permettant de rester fraîches 3 à 4 semaines."
+          },
+          {
+            "question": "Pourquoi faut-il utiliser un sachet plastique perforé pour conserver les cranberries ?",
+            "answer": "La peau des cranberries se fendille en cas de perte d'humidité, laissant entrer les moisissures. Un sachet perforé permet une aération adaptée tout en maintenant une humidité élevée de 90–95 %, évitant le dessèchement."
+          }
+        ]
+      },
+      "de": {
+        "title": "Cranberries richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Cranberries basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Haben Sie beim Kauf frischer Cranberries schon einmal befürchtet, dass diese wie Erdbeeren oder Blaubeeren rasch schimmeln oder weich werden? 🫐\n\nCranberries enthalten von Natur aus reichlich Benzoesäure—ein starkes natürliches Konservierungsmittel—sowie organische Säuren, die für einen sehr sauren pH-Wert von 2,3 bis 2,5 sorgen. Dadurch besitzen sie unter allen Beeren die stärksten natürlichen antimikrobiellen Eigenschaften. Wenn jedoch Feuchtigkeit entweicht, entstehen Mikrorisse in der Schale, durch die Schimmelpilze eindringen können. Die Regulierung der Transpiration bei 90–95 % Luftfeuchtigkeit ist daher das wissenschaftliche Geheimnis langer Haltbarkeit.\n\nIn diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien der USDA, FDA und MFDS basiert, um die Knackigkeit und das fruchtige Aroma zu bewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der Zusammensetzung organischer Säuren und der Schalenatmung von Cranberries ist entscheidend für den Erhalt der Frische.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Mikrorisse der Schale und Schimmelfall durch Austrocknung vermeiden ⚠️",
+            "desc": "Verlieren Cranberries Feuchtigkeit, entstehen Risse in der Schale, wodurch Schimmelsporen leicht eindringen. Die Lagerung in gelochten Plastikbeuteln hält die relative Luftfeuchtigkeit hoch (90–95 %)."
+          },
+          {
+            "title": "Cranberries vor der Lagerung keinesfalls waschen 💧",
+            "desc": "Das Waschen roher Cranberries vor dem Einlagern entfernt die natürliche Schutzwachsschicht und hinterlässt Wasser auf der Schale, was Schimmel begünstigt. Immer erst direkt vor dem Verzehr waschen."
+          }
+        ],
+        "steps": [
+          {
+            "name": "In gelochten Plastikbeuteln im Kühlschrank lagern — Kaltlagerung (21–28 Tage) ❄️",
+            "text": "Frische Cranberries haben dank ihres Benzoesäuregehalts die längste Haltbarkeit unter den Beeren. 💡 Lagerungstipp: In einem gelochten Beutel im Gemüsefach (0–4 °C, 90–95 % r.F.) aufbewahren, um sie 3 bis 4 Wochen knackig zu halten."
+          },
+          {
+            "name": "Weiche oder beschädigte Beeren sofort aussortieren — Qualitätskontrolle 🔎",
+            "text": "Beschädigte oder weiche Beeren verlieren ihren natürlichen Benzoesäureschutz und schimmeln leicht, was gesunde Beeren anstecken kann. 💡 Lagerungstipp: Vor dem Einlagern fehlerhafte Beeren aussortieren."
+          },
+          {
+            "name": "Für Langzeitlagerung waschen, trocknen und einfrieren — Gefrierlagerung (300–360 Tage) 🧊",
+            "text": "Möchten Sie Cranberries länger als einen Monat aufbewahren, ist Einfrieren ideal. 💡 Lagerungstipp: Cranberries gründlich waschen, mit Tuch abtrocknen und in Gefrierbeuteln unter -18 °C einfrieren. Hält Nährstoffe 10 bis 12 Monate frisch."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum halten frische Cranberries im Kühlschrank so viel länger als Erdbeeren?",
+            "answer": "Cranberries enthalten reichlich natürliche Benzoesäure und organische Säuren, die ihren pH-Wert auf 2,3–2,5 senken. Dieses stark saure Milieu hemmt das Mikrobenwachstum effektiv, sodass sie 3 bis 4 Wochen frisch bleiben."
+          },
+          {
+            "question": "Warum sollten Cranberries in gelochten Beuteln gelagert werden?",
+            "answer": "Verlieren Cranberries Feuchtigkeit, bekommt die Schale Risse, durch die Schimmel eindringt. Gelochte Beutel ermöglichen die nötige Belüftung und halten gleichzeitig die Luftfeuchtigkeit bei 90–95 %, was Austrocknung verhindert."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar cranberries frescos: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para cranberries com base em diretrizes oficiais de segurança.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Ao comprar cranberries frescos para saladas ou sucos, você já ficou com medo de que estragassem rapidamente como morangos ou mirtilos? 🫐\n\nOs cranberries contêm naturalmente uma quantidade abundante de ácido benzoico—um potente conservante natural—e ácidos orgânicos, criando um ambiente altamente ácido com pH entre 2,3 e 2,5. Isso lhes confere propriedades antibacterianas e antifúngicas superiores às da maioria das frutas vermelhas. Porém, quando perdem umidade, surgem microfissuras na casca por onde o mofo pode entrar. Manter a umidade relativa entre 90 e 95% em sacos perfurados é o segredo científico para uma longa conservação.\n\nNeste guia, apresentamos um guia científico em 3 etapas baseado em diretrizes da USDA, FDA e MFDS para preservar o sabor e a firmeza dos seus cranberries com segurança. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Compreender a composição de ácidos orgânicos e a transpiração da casca dos cranberries é essencial para manter o frescor e evitar a deterioração.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Evite microfissuras na casca e mofo por perda de umidade ⚠️",
+            "desc": "Quando os cranberries perdem água, formam-se microfissuras na casca que facilitam a entrada de mofo. Armazená-los em sacos plásticos perfurados mantém alta umidade relativa (90–95%)."
+          },
+          {
+            "title": "Não lave os cranberries antes de guardar 💧",
+            "desc": "Lavar os cranberries antes do armazenamento remove a camada natural de cera protetora e deixa água retida na casca, favorecendo o mofo. Lave apenas imediatamente antes do consumo."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Guarde em sacos plásticos perfurados para reter umidade — Armazenamento refrigerado (21–28 dias) ❄️",
+            "text": "Cranberries frescos têm a maior durabilidade entre as frutas vermelhas devido ao alto teor de ácido benzoico. 💡 Dica de conservação: Mantenha-os em saco perfurado na gaveta de legumes (0–4 °C, 90–95% UR) para mantê-los firmes por 3 a 4 semanas."
+          },
+          {
+            "name": "Separe e descarte frutas macias ou danificadas imediatamente — Triagem de Qualidade 🔎",
+            "text": "Frutas amassadas perdem sua barreira natural de ácido benzoico, ficando propensas ao mofo e contaminando as frutas sadias. 💡 Dica de conservação: Inspecione e retire as frutas danificadas antes de guardar."
+          },
+          {
+            "name": "Lave, seque bem e congele para longa conservação — Congelamento (300–360 dias) 🧊",
+            "text": "Para guardar por mais de um mês, o congelamento é a melhor opção. 💡 Dica de conservação: Lave os cranberries, seque completamente com papel-toalha e congele em sacos herméticos abaixo de -18 °C. Preserva nutrientes por 10 a 12 meses."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que os cranberries frescos duram muito mais na geladeira do que os morangos?",
+            "answer": "Os cranberries contêm ácido benzoico natural, um potente antimicrobiano, além de ácidos orgânicos que reduzem seu pH para 2,3–2,5. Esse meio muito ácido inibe microrganismos, permitindo que fiquem frescos por 3 a 4 semanas."
+          },
+          {
+            "question": "Por que se deve usar sacos plásticos perfurados para guardar cranberries?",
+            "answer": "A casca do cranberry trinca se houver perda de umidade, permitindo a entrada de esporos de mofo. Sacos perfurados garantem ventilação adequada mantendo a umidade relativa elevada (90–95%), evitando a desidratação."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Buah Cranberry agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk buah cranberry berdasarkan pedoman keselamatan resmi.",
+        "authority": "USDA & FDA & MFDS",
+        "intro": "Saat membeli buah cranberry segar untuk salad atau jus, pernahkah Anda khawatir buah ini cepat busuk atau berjamur seperti stroberi atau blueberry? 🫐\n\nBuah cranberry secara alami kaya akan asam benzoat—pengawet alami yang kuat—dan asam organik, menciptakan lingkungan sangat asam dengan pH antara 2,3 hingga 2,5. Hal ini memberinya kemampuan antibakteri dan antijamur alami yang luar biasa dibanding buah beri lainnya. Namun, jika kelembapan hilang, retakan halus akan muncul pada kulit buah sehingga jamur dapat masuk. Oleh karena itu, menjaga kelembapan relatif 90–95% menggunakan kantong plastik berlubang adalah rahasia ilmiah penyimpanannya.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan standar USDA, FDA, dan MFDS untuk menjaga rasa segar asam dan tekstur renyahnya. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami komposisi asam organik alami dan karakteristik respirasi kulit buah cranberry sangat penting untuk menjaga kesegaran dan mencegah pembusukan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Cegah retakan kulit dan invasi jamur akibat kehilangan kelembapan ⚠️",
+            "desc": "Saat cranberry kehilangan cairan, retakan mikroskopis muncul pada kulitnya sehingga mudah terserang jamur. Menyimpannya dalam kantong plastik berlubang menjaga kelembapan relatif tetap tinggi (90–95%)."
+          },
+          {
+            "title": "Jangan mencuci cranberry sebelum disimpan 💧",
+            "desc": "Mencuci cranberry segar sebelum disimpan akan mengikis lapisan lilin pelindung alaminya dan menyisakan air pada kulit buah yang memicu jamur. Selalu cuci tepat sebelum dikonsumsi."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Simpan dalam kantong plastik berlubang untuk menjaga kelembapan — Simpan Kulkas (21–28 Hari) ❄️",
+            "text": "Cranberry segar memiliki masa simpan paling lama di antara buah beri berkat kandungan asam benzoatnya yang tinggi. 💡 Tips Penyimpanan: Masukkan ke kantong plastik berlubang di laci sayur kulkas (0–4°C, kelembapan 90–95%) agar tetap renyah selama 3 hingga 4 minggu."
+          },
+          {
+            "name": "Sortir dan buang buah yang lembek atau rusak — Sortir Kualitas 🔎",
+            "text": "Buah yang lembek atau memar kehilangan pertahanan asam benzoat alaminya sehingga mudah berjamur dan menulari buah yang segar. 💡 Tips Penyimpanan: Periksa dan sisihkan buah yang rusak sebelum disimpan."
+          },
+          {
+            "name": "Cuci, keringkan hingga tuntas, lalu bekukan untuk jangka panjang — Simpan Beku (300–360 Hari) 🧊",
+            "text": "Jika ingin menyimpan lebih dari sebulan, pembekuan adalah metode terbaik. 💡 Tips Penyimpanan: Cuci bersih cranberry, keringkan dengan tisu hingga tuntas, lalu bekukan dalam kantong kedap udara di bawah -18°C. Menjaga nutrisi selama 10 hingga 12 bulan."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa cranberry segar bertahan jauh lebih lama di kulkas dibanding stroberi?",
+            "answer": "Cranberry kaya akan asam benzoat alami (pengawet antimikroba) serta asam organik yang menurunkan pH-nya hingga 2,3–2,5. Lingkungan yang sangat asam ini menekan pertumbuhan mikroba, memungkinkan cranberry segar bertahan hingga 3–4 minggu."
+          },
+          {
+            "question": "Mengapa harus menggunakan kantong plastik berlubang untuk menyimpan cranberry?",
+            "answer": "Kulit cranberry akan retak jika kehilangan kelembapan, membuka jalan bagi spora jamur. Kantong plastik berlubang memberikan sirkulasi udara yang pas sekaligus mempertahankan kelembapan relatif tinggi 90–95%, mencegah dehidrasi buah."
+          }
+        ]
+      }
     }
+  }
 }

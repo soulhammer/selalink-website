@@ -1,406 +1,406 @@
 {
-    "how-to-store-shallot": {
-        "ingId": "shallot",
-        "pubDate": "2026-03-16",
-        "updatedDate": "2026-03-16",
-        "heroImage": "/images/blog/shallot_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "샬롯 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 샬롯의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS) & UC Davis Postharvest Center",
-                "intro": "프랑스 요리나 동남아 요리에 자주 쓰이는 샬롯을 사 왔다가 순식간에 싹이 나거나 푸른곰팡이가 피어 버린 적 있으시죠? 🧅\n\n샬롯은 일반 양파보다 고형분 농도와 알린(Alliin) 유전체가 높아 풍미가 뛰어난 식재료입니다. 그러나 상대 습도가 70%를 넘어가면 생리적 휴면기(Dormancy)가 깨져 발아(Sprouting)가 촉진되고, 푸른곰팡이(Penicillium)가 번식하기 쉬운 특성을 가지고 있습니다.\n\n이번 가이드에서는 UC Davis 사후수확관리센터와 미국 농무부(USDA)의 공인 가이드라인을 바탕으로, 샬롯을 무름이나 싹틔움 없이 6개월 이상 신선하게 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "껍질째 샬롯의 일반 냉장 보관 및 습기 밀폐 금지 ⚠️",
-                        "desc": "통샬롯을 비닐봉지에 넣어 일반 냉장고에 보관하면 높은 습도로 인해 수분이 차올라 휴면기가 깨집니다. 조직이 무르고 푸른곰팡이(Penicillium)가 피어나므로 반드시 서늘하고 통풍이 잘되는 상온 암소에 보관해야 합니다."
-                    },
-                    {
-                        "title": "감자와 함께 보관하거나 직사광선에 노출시키지 마세요 🛑",
-                        "desc": "감자에서 방출되는 수분과 가스는 샬롯의 발아를 촉진하며, 직사광선은 샬롯 내부 온도와 호흡률을 높여 빠르게 시들게 만듭니다. 빛이 차단된 통풍이 잘되는 양파망이나 그물망을 사용해야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "10~12℃의 서늘하고 어두운 장소에서 통풍 보관하기 — 상온 통풍 보관 (180일 이상) 🧅",
-                        "text": "통샬롯은 10~12℃, 상대 습도 60~65% 환경에서 호흡률이 최소화되어 휴면 상태가 안정적으로 유지됩니다. 💡 보관 팁: 그물망이나 통풍이 잘되는 바구니에 담아 햇빛이 들지 않는 팬트리나 서늘한 베란다 그늘에 보관하면 6개월 이상 신선함이 유지됩니다."
-                    },
-                    {
-                        "name": "껍질을 깐 샬롯은 밀폐 용기에 담아 냉장 보관하기 — 껍질 벗긴 샬롯 냉장 (14~21일) ❄️",
-                        "text": "껍질을 이미 깐 샬롯은 상온에 두면 단면이 금방 건조해지거나 세균에 오염됩니다. 💡 보관 팁: 껍질을 깐 샬롯은 물기를 완전히 제거한 뒤 키친타월을 깔은 밀폐 용기에 담아 냉장고(1~4℃)에 보관하면 2~3주간 신선하게 사용할 수 있습니다."
-                    },
-                    {
-                        "name": "다진 샬롯이나 남은 샬롯은 올리브유와 함께 밀봉 또는 냉동하기 — 다진 샬롯 장기 보관 (30~60일) 🧊",
-                        "text": "요리 후 남은 샬롯은 잘게 다져 보관하는 것이 유용합니다. 💡 보관 팁: 다진 샬롯을 얼음 트레이에 담고 올리브유를 살짝 넣어 냉동하면 향 성분 유실 없이 요리 시 바로 사용할 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "샬롯을 냉장고에 넣었더니 쉽게 무르고 곰팡이가 피는 이유는 무엇인가요?",
-                        "answer": "샬롯은 상대 습도가 70%를 넘으면 생리적 휴면 상태가 깨집니다. 냉장고 야채칸의 높은 습도와 밀폐 환경은 샬롯 내부 수분을 증발시키지 못해 조직이 무너지고 푸른곰팡이(Penicillium) 발아가 촉진되기 때문입니다."
-                    },
-                    {
-                        "question": "샬롯에서 싹이 났을 때 먹어도 안전한가요?",
-                        "answer": "감자와 달리 샬롯에서 난 싹에는 솔라닌 같은 독소가 없으므로 섭취 자체는 안전합니다. 다만 싹이 나면 알맹이의 영양과 수분이 싹으로 이동해 알맹이가 푸석해지고 풍미가 떨어지므로 싹이 나기 전 서늘하고 건조하게 보관하는 것이 좋습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Shallots Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for shallots based on official safety guidelines.",
-                "authority": "USDA & MFDS & UC Davis Postharvest Center",
-                "intro": "Have you ever bought fresh shallots for French or Southeast Asian dishes, only to find them sprouting or covered in blue mold shortly after? 🧅\n\nShallots feature higher dry matter solids and alliin genome concentrations than standard bulb onions, giving them rich culinary value. However, when relative humidity exceeds 70%, their physiological dormancy breaks, triggering rapid sprouting and blue mold (*Penicillium*) growth.\n\nBased on official guidelines from the UC Davis Postharvest Technology Center and USDA, this 3-step scientific storage guide demonstrates how to keep shallots fresh for over 6 months without softening or sprouting. 🛡️",
-                "whyTitle": "Why Store Shallots This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Do not refrigerate unpeeled whole shallots in plastic bags ⚠️",
-                        "desc": "Storing whole unpeeled shallots in high-humidity refrigerator compartments traps moisture and breaks dormancy. The tissue collapses rapidly and fosters blue mold (*Penicillium*) growth. Always store them at cool room temperatures in a dry, ventilated space."
-                    },
-                    {
-                        "title": "Avoid storing near potatoes or in direct sunlight 🛑",
-                        "desc": "Moisture and gases emitted by potatoes promote sprouting in shallots. Direct sunlight increases internal temperature and respiration rates, causing them to wither quickly. Use breathable mesh bags kept in dark areas."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Store unpeeled shallots in a cool, dark, ventilated area at 10–12°C — Room Ventilation (180+ Days) 🧅",
-                        "text": "Whole shallots maintain stable dormancy when kept at 10–12°C (50–54°F) with 60–65% relative humidity, minimizing respiration. 💡 Storage Tip: Keep in a mesh bag or wire basket inside a dark, cool pantry or shade to preserve freshness for 6+ months."
-                    },
-                    {
-                        "name": "Refrigerate peeled shallots in an airtight container — Peeled Cold Storage (14–21 Days) ❄️",
-                        "text": "Once peeled, exposure to open air dries out the flesh and invites bacterial contamination. 💡 Storage Tip: Thoroughly dry peeled shallots, place them in a paper towel-lined airtight container, and store in the fridge (1–4°C / 34–39°F) for 2–3 weeks."
-                    },
-                    {
-                        "name": "Minced or leftover shallots frozen with olive oil — Long-term Minced Storage (30–60 Days) 🧊",
-                        "text": "Mincing leftover shallots is an efficient way to preserve flavor. 💡 Storage Tip: Place minced shallots in an ice cube tray, cover lightly with olive oil, and freeze. They can be dropped directly into pans when cooking."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why do whole shallots turn soft and moldy inside the refrigerator?",
-                        "answer": "Shallots break their physiological dormancy when relative humidity exceeds 70%. High moisture inside refrigerator crisper drawers prevents moisture evaporation, causing tissue breakdown and triggering blue mold (*Penicillium*) germination."
-                    },
-                    {
-                        "question": "Is it safe to eat shallots that have begun sprouting?",
-                        "answer": "Unlike potatoes, sprouted shallots do not produce toxic solanine, making them safe to eat. However, sprouting drains nutrients and moisture from the bulb, making the flesh spongy and weakening its flavor. Store cool and dry to prevent sprouting."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "エシャロット/シャルロットを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくエシャロットの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS) & UC Davis Postharvest Center",
-                "intro": "フランス料理や東南アジア料理によく使われるエシャロットを購入したものの、すぐに芽が出たり青カビが生えてしまったりした経験はありませんか？🧅\n\nエシャロットは一般的な玉ねぎよりも固形分濃度とアリン（Alliin）遺伝体が高く、豊かな風味を持つ食材です。しかし、相対湿度が70%を超えると生理的休眠（Dormancy）が破られ、発芽（Sprouting）が促進されるとともに青カビ（Penicillium）が繁殖しやすい特性を持っています。\n\n本記事では、UC Davis事後収穫管理センターおよびUSDAの公式ガイドラインに基づき、エシャロットの傷みや発芽を防ぎ6ヶ月以上新鮮に保つ3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "皮付きエシャロットの通常冷蔵保存および湿気密閉は厳禁です ⚠️",
-                        "desc": "皮付きのままポリ袋に入れて冷蔵庫に保存すると、高い湿度で水分がこもり休眠状態が破られます。組織が柔らかくなり青カビ（Penicillium）が発生するため、必ず風通しの良い涼しい常温の dark place に保管してください。"
-                    },
-                    {
-                        "title": "ジャガイモと一緒に保存したり直射日光に晒さないでください 🛑",
-                        "desc": "ジャガイモから放出される水分やガスはエシャロットの発芽を促し、直射日光は内部温度と呼吸量を高めて急速にしおらせます。光を遮断できる風通しの良いネット袋をご使用ください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "10〜12℃の涼しく暗い場所で通気保存する — 常温通風保存 (180日以上) 🧅",
-                        "text": "皮付きのエシャロットは10〜12℃、相対湿度60〜65%の環境下で呼吸率が最小化され、休眠状態が安定して維持されます。💡保存のコツ：ネット袋や通気性の良いバスケットに入れ、光の当たらないパントリー等で保管すると6ヶ月以上長持ちします。"
-                    },
-                    {
-                        "name": "皮をむいたエシャロットは密閉容器に入れて冷蔵保存する — むきエシャロット冷蔵 (14〜21日間) ❄️",
-                        "text": "皮をむいたエシャロットは常温に放置すると切り口がすぐ乾燥し細菌に汚染されます。💡保存のコツ：水気を完全に拭き取り、キッチンペーパーを敷いた密閉容器に入れて冷蔵庫（1〜4℃）で保管すると2〜3週間新鮮さを保てます。"
-                    },
-                    {
-                        "name": "みじん切りのエシャロットはオリーブオイルと一緒に freezer 保存する — 長期冷凍保存 (30〜60日間) 🧊",
-                        "text": "使い切れなかったエシャロットは細かく刻んで保存するのが便利です。💡保存のコツ：みじん切りにしたエシャロットを製氷トレイに入れ、オリーブオイルを少しかけて冷凍すると、風味を損なわずにそのまま調理に使えます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "エシャロットを冷蔵庫に入れるとすぐ柔らかくなりカビが生える理由は何ですか？",
-                        "answer": "相対湿度が70%を超えると生理的休眠状態が破られるためです。冷蔵庫の野菜室の高湿度と密閉環境によって内部水分が蒸発できず、組織が崩れて青カビ（Penicillium）の発芽が促進されるためです。"
-                    },
-                    {
-                        "question": "エシャロットから芽が出てしまった場合、食べても安全ですか？",
-                        "answer": "ジャガイモとは異なり、エシャロットの芽にはソラニンのような毒素はないため摂取自体は安全です。ただし、芽が出ると本体の栄養と水分が奪われて食感が悪くなり風味が落ちるため、芽が出る前に涼しく乾燥した場所で保管することをお勧めします。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持干葱/夏洛特红葱头（Shallots）新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解红葱头的最佳储存温度、方式及保鲜时长。",
-                "authority": "UC Davis Postharvest Center & USDA & MFDS",
-                "intro": "购买用于法餐或东南亚料理的红葱头（Shallots）后，您是否遇到过它没几天就发芽或长满青霉菌的情况？🧅\n\n红葱头（夏洛特红葱）比普通洋葱含有更高的干物质固形物与蒜氨酸（Alliin）基因组，风味极为浓郁。然而，当相对湿度超过70%时，其生理休眠期（Dormancy）会被打破，引发快速发芽，并极易滋生青霉菌（*Penicillium*）。\n\n本指南基于UC Davis采后技术中心及USDA的权威指南，为您介绍3步科学保存秘诀，帮 your Shallots 保持6个月以上干爽新鲜、不发芽发霉。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "带皮整头红葱头切勿直接放入冰箱冷藏或塑料袋密封 ⚠️",
-                        "desc": "将整头红葱头装入塑料袋冷藏会导致高湿度积聚，打破休眠期，使其快速变软崩解并滋生青霉菌（*Penicillium*）。务必保存在阴凉通风的常温避光处。"
-                    },
-                    {
-                        "title": "切勿与土豆存放在一起或暴露于阳光直射下 🛑",
-                        "desc": "土豆释放的水分与气体易诱发红葱头发芽；阳光直射则会提高内部温度与呼吸作用，加速干瘪。请使用避光透气的网袋存放。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "在10~12℃的阴凉通风避光处常温保存 — 常温通风保存 (180天以上) 🧅",
-                        "text": "整头红葱头在10~12℃、相对湿度60~65%的环境中呼吸率最低，休眠状态最稳定。💡储存小贴士：装入网袋或透气编织篮，置于无阳光直射的食品柜或避光阴凉处，可保鲜6个月以上。"
-                    },
-                    {
-                        "name": "剥皮红葱头装入密封盒冷藏保存 — 去皮冷藏保存 (14~21天) ❄️",
-                        "text": "去皮后的红葱头在常温下表面易干燥开裂且易受细菌污染。💡储存小贴士：抹干表面水分，铺垫厨房纸巾装入密封盒，放入冰箱（1~4℃）冷藏，可保鲜2~3周。"
-                    },
-                    {
-                        "name": "切碎的红葱头混合橄榄油冷冻 — 长期碎葱保存 (30~60天) 🧊",
-                        "text": "用剩的红葱头切碎分装是保留风味的高效方法。💡储存小贴士：将红葱头碎放入冰格中，倒入少许橄榄油冷冻，下锅炒菜时可直接取用，香气不流失。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "为什么红葱头放在冰箱冷藏室里反而容易发软发霉？",
-                        "answer": "因为当相对湿度高于70%时，红葱头的生理休眠状态会被打破。冰箱冷藏室及抽屉的高湿度无法使红葱头内部水分蒸发，导致组织破坏并促使青霉菌（*Penicillium*）孢子发芽。"
-                    },
-                    {
-                        "question": "发芽的红葱头还可以食用吗？",
-                        "answer": "与土豆不同，红葱头发芽不会产生龙葵素等毒素，食用是安全的。但发芽会消耗葱头本身的营养与水分，导致肉质发空、风味变淡，因此建议在发芽前于干燥阴凉处保存。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener las chalotas (Shallots) frescas: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para las chalotas según las directrices oficiales de seguridad.",
-                "authority": "USDA & MFDS & UC Davis Postharvest Center",
-                "intro": "¿Alguna vez compró chalotas frescas para sus recetas y descubrió que germinaban o se cubrían de moho azul al poco tiempo? 🧅\n\nLas chalotas poseen una concentración de sólidos y genoma de aliína (Alliin) más alta que las cebollas comunes, aportando un sabor excepcional. Sin embargo, cuando la humedad relativa supera el 70%, rompen su latencia biológica (Dormancy), lo que provoca una germinación rápida y la formación de moho azul (*Penicillium*).\n\nBasado en recomendaciones oficiales de UC Davis y el USDA, esta guía le enseña un método científico en 3 pasos para conservar las chalotas frescas durante más de 6 meses. 🛡️",
-                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "No refrigere chalotas enteras con piel en bolsas de plástico ⚠️",
-                        "desc": "Almacenar chalotas enteras con piel en cajones de refrigerador con alta humedad atrapes la humedad y rompe su latencia. Los tejidos se ablandan y se desarrolla moho azul (*Penicillium*). Almacénelas a temperatura ambiente en un espacio seco y ventilado."
-                    },
-                    {
-                        "title": "Evite guardarlas junto a patatas o bajo la luz solar directa 🛑",
-                        "desc": "La humedad y los gases emitidos por las patatas aceleran la germinación de las chalotas. La luz solar aumenta la temperatura interna y la tasa de respiración. Use bolsas de malla transpirables en lugares oscuros."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Almacene chalotas enteras en un lugar fresco, oscuro y ventilado a 10–12 °C — Ventilación a temp. ambiente (180+ días) 🧅",
-                        "text": "Las chalotas enteras mantienen una latencia estable a 10–12 °C y 60–65% de humedad relativa, reduciendo su respiración al mínimo. 💡 Consejo de almacenamiento: Guárdelas en una cesta de malla en una despensa oscura y fresca para conservar la frescura por más de 6 meses."
-                    },
-                    {
-                        "name": "Refrigere las chalotas peladas en un recipiente hermético — Almacenamiento pelado en frío (14–21 días) ❄️",
-                        "text": "Una vez peladas, la exposición al aire libre seca su carne y favorece la contaminación bacteriana. 💡 Consejo de almacenamiento: Seque bien las chalotas peladas, colóquelas sobre papel absorbente dentro de un contenedor cerrado en el refrigerador (1–4 °C)."
-                    },
-                    {
-                        "name": "Congele las chalotas picadas con aceite de oliva — Almacenamiento picado a largo plazo (30–60 días) 🧊",
-                        "text": "Picar las chalotas sobrantes es una excelente forma de conservar su aroma. 💡 Consejo de almacenamiento: Coloque las chalotas picadas en una cubitera de hielo, cubra con un poco de aceite de oliva y congele."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué las chalotas se ablandan y enmohecen dentro del refrigerador?",
-                        "answer": "Las chalotas rompen su latencia fisiológica cuando la humedad relativa supera el 70%. La alta humedad del refrigerador impide la evaporación del agua celular, ablandando los tejidos y activando las esporas de moho azul (*Penicillium*)."
-                    },
-                    {
-                        "question": "¿Es seguro comer chalotas que han empezado a brotar?",
-                        "answer": "A diferencia de las patatas, las chalotas brotadas no contienen solanina tóxica, por lo que son seguras para comer. Sin embargo, el brote consume nutrientes y agua del bulbo, debilitando su sabor y textura."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver les échalotes fraîches : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les échalotes selon les directives officielles de sécurité.",
-                "authority": "USDA & MFDS & UC Davis Postharvest Center",
-                "intro": "Avez-vous déjà acheté des échalotes fraîches pour vos recettes pour découvrir qu'elles germaient ou se couvraient de moisissure bleue peu de temps après ? 🧅\n\nLes échalotes possèdent une teneur en matière sèche et une concentration en alliine (Alliin) plus élevées que les oignons classiques. Cependant, dès que l'humidité relative dépasse 70 %, leur dormance physiologique (Dormancy) est brisée, provoquant une germination rapide et le développement de moisissure bleue (*Penicillium*).\n\nBasé sur les conseils officiels de UC Davis et du USDA, ce guide en 3 étapes vous explique comment conserver vos échalotes fraîches pendant plus de 6 mois sans ramollissement. 🛡️",
-                "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne pas réfrigérer les échalotes entières non pelées dans des sacs en plastique ⚠️",
-                        "desc": "Ranger des échalotes entières au réfrigérateur retient l'humidité et rompt leur dormance. Les tissus ramollissent rapidement et favorisent la moisissure bleue (*Penicillium*). Conservez-les toujours à température ambiante dans un endroit sec et aéré."
-                    },
-                    {
-                        "title": "Éviter de les stocker près des pommes de terre ou au soleil 🛑",
-                        "desc": "L'humidité et les gaz émis par les pommes de terre stimulent la germination des échalotes. La lumière directe du soleil augmente la température et accélère leur dessèchement. Utilisez des filets respirants."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Conserver les échalotes non pelées dans un endroit frais, sombre et aéré à 10–12 °C — Aération à temp. ambiante (180+ jours) 🧅",
-                        "text": "Les échalotes entières conservent leur dormance à 10–12 °C et 60–65 % d'humidité relative. 💡 Astuce de conservation : Gardez-les dans un filet ou un panier aéré dans un cellier sombre pour préserver leur fraîcheur plus de 6 mois."
-                    },
-                    {
-                        "name": "Réfrigérer les échalotes épluchées dans une boîte hermétique — Stockage épluché au frais (14–21 jours) ❄️",
-                        "text": "Une fois épluchées, l'exposition à l'air assèche la chair et favorise les bactéries. 💡 Astuce de conservation : Séchez les échalotes épluchées, placez-les sur du papier essuie-tout dans une boîte hermétique au frais (1–4 °C)."
-                    },
-                    {
-                        "name": "Congeler les échalotes hachées avec de l'huile d'olive — Congélation hachée longue durée (30–60 jours) 🧊",
-                        "text": "Hacher les restes d'échalotes est idéal pour conserver leurs arômes. 💡 Astuce de conservation : Répartissez les échalotes hachées dans un bac à glaçons, recouvrez d'un peu d'huile d'olive et congelez."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi les échalotes ramollissent-elles et moisissent-elles au réfrigérateur ?",
-                        "answer": "Les échalotes rompent leur dormance physiologique dès que l'humidité dépasse 70 %. L'humidité élevée du réfrigérateur empêche l'évaporation de l'eau cellulaire, détruisant les tissus et favorisant la moisissure bleue (*Penicillium*)."
-                    },
-                    {
-                        "question": "Peut-on consommer sans danger des échalotes qui ont germé ?",
-                        "answer": "Contrairement aux pommes de terre, les échalotes germées ne contiennent pas de solanine toxique et sont consommables. Cependant, le germe puise les nutriments et l'eau du bulbe, altérant sa saveur et sa texture."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Schalotten richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Schalotten basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "USDA & MFDS & UC Davis Postharvest Center",
-                "intro": "Haben Sie schon einmal Schalotten gekauft, nur um festzustellen, dass sie nach kurzer Zeit austrieben oder sich Blauschimmel bildete? 🧅\n\nSchalotten weisen einen höheren Trockensubstanz- und Alliin-Gehalt auf als herkömmliche Haushaltszwiebeln. Übersteigt die relative Luftfeuchtigkeit jedoch 70 %, wird ihre physiologische Keimruhe (Dormancy) gebrochen, was schnelles Austreiben und Blauschimmelbefall (*Penicillium*) auslöst.\n\nBasierend auf offiziellen Empfehlungen zeigen wir Ihnen in diesem 3-Schritte-Ratgeber, wie Sie Schalotten über 6 Monate lang ohne Weichwerden oder Keimen frisch halten. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Ungeschälte Schalotten keinesfalls in Plastiktüten im Kühlschrank lagern ⚠️",
-                        "desc": "Die Lagerung ganzer Schalotten im feuchten Kühlschrank staut Feuchtigkeit und bricht die Keimruhe. Das Gewebe wird weich und bildet Blauschimmel (*Penicillium*). Lagern Sie sie stets trocken und belüftet bei kühler Raumtemperatur."
-                    },
-                    {
-                        "title": "Nicht zusammen mit Kartoffeln oder unter Sonneneinstrahlung aufbewahren 🛑",
-                        "desc": "Gase und Feuchtigkeit aus Kartoffeln regen Schalotten zum Keimen an. Direktes Sonnenlicht erhöht die Temperatur und Atmung der Schalotten. Nutzen Sie dunkle, luftdurchlässige Netzbeutel."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Ungeschälte Schalotten kühl, dunkel und belüftet bei 10–12 °C lagern — Raumlüftung (180+ Tage) 🧅",
-                        "text": "Ganze Schalotten behalten bei 10–12 °C und 60–65 % relativer Luftfeuchtigkeit eine stabile Keimruhe bei minimaler Atmung. 💡 Lagerungstipp: In einem Netzbeutel in einer kühlen, dunklen Speisekammer aufbewahren (hält 6+ Monate)."
-                    },
-                    {
-                        "name": "Geschälte Schalotten luftdicht im Kühlschrank aufbewahren — Geschälte Kühllagerung (14–21 Tage) ❄️",
-                        "text": "Geschälte Schalotten trocknen an der Luft schnell aus und ziehen Bakterien an. 💡 Lagerungstipp: Gut abtrocknen, in einer mit Küchenpapier ausgelegten Frischhaltedose im Kühlschrank (1–4 °C) lagern."
-                    },
-                    {
-                        "name": "Gehackte Schalotten mit Olivenöl einfrieren — Langzeit-Tiefkühlung (30–60 Tage) 🧊",
-                        "text": "Das Einfrieren gehackter Schalotten bewahrt ihr Aroma optimal. 💡 Lagerungstipp: Gehackte Schalotten in Eiswürfelformen füllen, mit etwas Olivenöl bedecken und einfrieren."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum werden Schalotten im Kühlschrank weich und schimmelig?",
-                        "answer": "Bei einer Luftfeuchtigkeit von über 70 % wird die Keimruhe gebrochen. Die hohe Feuchtigkeit im Kühlschrank verhindert das Verdampfen der Zellflüssigkeit, wodurch das Gewebe kollabiert und Blauschimmel (*Penicillium*) gedeiht."
-                    },
-                    {
-                        "question": "Kann man ausgetriebene Schalotten noch bedenkenlos essen?",
-                        "answer": "Anders als bei Kartoffeln bildet sich in Schalottenkeimen kein giftiges Solanin; sie sind ungiftig. Allerdings entzieht das Keimen der Knolle Feuchtigkeit und Nährstoffe, wodurch das Fleisch schwammig wird."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar echalotas / chalotas (Shallots) frescas: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para echalotas com base em diretrizes oficiais de segurança.",
-                "authority": "USDA & MFDS & UC Davis Postharvest Center",
-                "intro": "Você já comprou echalotas (chalotas) frescas e percebeu que elas brotaram ou criaram mofo azul pouco tempo depois? 🧅\n\nAs echalotas possuem maior teor de sólidos e genoma de aliína (Alliin) do que as cebolas comuns. No entanto, quando a umidade relativa ultrapassa 70%, sua dormência biológica (Dormancy) é interrompida, acelerando o brotamento e o surgimento de mofo azul (*Penicillium*).\n\nCom base em diretrizes do UC Davis e do USDA, este guia em 3 etapas ensina como conservar echalotas frescas por mais de 6 meses sem amolecer. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Não refrigere echalotas inteiras com casca em sacos plásticos ⚠️",
-                        "desc": "Guardar echalotas inteiras na geladeira retém umidade e quebra a dormência. Os tecidos amolecem rapidamente e favorecem o mofo azul (*Penicillium*). Guarde-as sempre em temperatura ambiente, em local seco e arejado."
-                    },
-                    {
-                        "title": "Evite armazenar perto de batatas ou sob luz solar direta 🛑",
-                        "desc": "A umidade e os gases das batatas estimulam o brotamento das echalotas. A luz solar direta aumenta a temperatura interna e acelera o ressecamento. Use sacos de malha respirável em locais escuros."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Guarde echalotas inteiras em local fresco, escuro e arejado a 10–12 °C — Ventilação em temp. ambiente (180+ dias) 🧅",
-                        "text": "Echalotas inteiras mantêm a dormência estável a 10–12 °C e 60–65% de umidade relativa. 💡 Dica de conservação: Guarde em saco de malha na despensa escura para manter o frescor por mais de 6 meses."
-                    },
-                    {
-                        "name": "Refrigere echalotas descascadas em um pote hermético — Conservação descascada em frio (14–21 dias) ❄️",
-                        "text": "Após descascadas, a exposição ao ar resseca a polpa e atrai bactérias. 💡 Dica de conservação: Seque bem as echalotas descascadas e guarde-as sobre papel-toalha num pote fechado na geladeira (1–4 °C)."
-                    },
-                    {
-                        "name": "Congele echalotas picadas com azeite de oliva — Congelamento picado de longa duração (30–60 dias) 🧊",
-                        "text": "Picar as echalotas restantes é excelente para preservar o aroma. 💡 Dica de conservação: Coloque as echalotas picadas numa fôrma de gelo, cubra com azeite e congele."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Por que as echalotas amolecem e mofam dentro da geladeira?",
-                        "answer": "As echalotas perdem a dormência fisiológica quando a umidade ultrapassa 70%. A umidade elevada da geladeira impede a evaporação da água celular, destruindo os tecidos e ativando o mofo azul (*Penicillium*)."
-                    },
-                    {
-                        "question": "É seguro comer echalotas que começaram a brotar?",
-                        "answer": "Diferente das batatas, os brotos da echalota não possuem solanina tóxica e podem ser consumidos. No entanto, o broto consome os nutrientes do bulbo, deixando a textura esponjosa e fraca."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Bawang Shallot / Bawang Prei Perancis agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk bawang shallot berdasarkan pedoman keselamatan resmi.",
-                "authority": "USDA & MFDS & UC Davis Postharvest Center",
-                "intro": "Pernahkah Anda membeli bawang shallot untuk masakan lalu mendapatinya cepat bertunas atau berjamur biru tidak lama kemudian? 🧅\n\nBawang shallot memiliki kandungan padatan dan genom aliin (Alliin) yang lebih tinggi dibanding bawang bombay biasa. Namun, jika kelembapan relatif melebihi 70%, masa dormansi biologisnya (Dormancy) akan terganggu sehingga memicu pertunasan cepat dan pertumbuhan jamur biru (*Penicillium*).\n\nBerdasarkan pedoman resmi UC Davis dan USDA, panduan 3 langkah ini menjelaskan metode ilmiah untuk menyimpan bawang shallot tetap segar hingga lebih dari 6 bulan tanpa membusuk. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan menyimpan shallot utuh berkulit di kantong plastik dalam kulkas ⚠️",
-                        "desc": "Menyimpan shallot utuh di dalam kulkas akan memerangkap kelembapan dan merusak masa dormansi. Jaringannya akan lembek dan memicu jamur biru (*Penicillium*). Selalu simpan pada suhu ruang sejuk dan kering."
-                    },
-                    {
-                        "title": "Hindari menyimpan dekat kentang atau terpapar sinar matahari langsung 🛑",
-                        "desc": "Gas dan kelembapan dari kentang merangsang pertunasan shallot. Sinar matahari meningkatkan suhu internal dan laju respirasi. Gunakan kantong jaring di tempat gelap."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Simpan shallot utuh di tempat sejuk, gelap, dan berangin pada suhu 10–12°C — Sirkulasi Suhu Ruang (180+ Hari) 🧅",
-                        "text": "Shallot utuh menjaga dormansi stabil pada suhu 10–12°C dan kelembapan 60–65%. 💡 Tips Penyimpanan: Letakkan dalam kantong jaring atau keranjang di dapur gelap untuk menjaga kesegaran hingga 6+ bulan."
-                    },
-                    {
-                        "name": "Simpan shallot kupas dalam wadah kedap udara di kulkas — Simpan Dingin Kupas (14–21 Hari) ❄️",
-                        "text": "Setelah dikupas, paparan udara membuat dagingnya kering dan dihinggapi bakteri. 💡 Tips Penyimpanan: Keringkan shallot kupas, lapisi wadah dengan tisu dapur, lalu simpan di kulkas (1–4°C)."
-                    },
-                    {
-                        "name": "Bekukan cincangan shallot bersama minyak zaitun — Simpan Cincang Jangka Panjang (30–60 Hari) 🧊",
-                        "text": "Mencincang sisa shallot adalah cara efisien menjaga aromanya. 💡 Tips Penyimpanan: Masukkan cincangan shallot ke cetakan es batu, tuang sedikit minyak zaitun, lalu bekukan."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa bawang shallot menjadi lembek dan berjamur di dalam kulkas?",
-                        "answer": "Shallot kehilangan dormansi fisiologisnya saat kelembapan melebihi 70%. Kelembapan tinggi di kulkas mencegah penguapan air sel, merusak jaringan dan memicu spora jamur biru (*Penicillium*)."
-                    },
-                    {
-                        "question": "Apakah aman mengonsumsi shallot yang sudah mulai bertunas?",
-                        "answer": "Berbeda dengan kentang, tunas shallot tidak mengandung racun solanin sehingga aman dikonsumsi. Namun, tunas menyerap nutrisi dan air dari umbi sehingga teksturnya menjadi kempis."
-                    }
-                ]
-            }
-        }
+  "how-to-store-shallot": {
+    "ingId": "shallot",
+    "pubDate": "2026-03-16",
+    "updatedDate": "2026-03-16",
+    "heroImage": "/images/blog/shallot_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "샬롯 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 샬롯의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS) & UC Davis Postharvest Center",
+        "intro": "프랑스 요리나 동남아 요리에 자주 쓰이는 샬롯을 사 왔다가 순식간에 싹이 나거나 푸른곰팡이가 피어 버린 적 있으시죠? 🧅\n\n샬롯은 일반 양파보다 고형분 농도와 알린(Alliin) 유전체가 높아 풍미가 뛰어난 식재료입니다. 그러나 상대 습도가 70%를 넘어가면 생리적 휴면기(Dormancy)가 깨져 발아(Sprouting)가 촉진되고, 푸른곰팡이(Penicillium)가 번식하기 쉬운 특성을 가지고 있습니다.\n\n이번 가이드에서는 UC Davis 사후수확관리센터와 미국 농무부(USDA)의 공인 가이드라인을 바탕으로, 샬롯을 무름이나 싹틔움 없이 6개월 이상 신선하게 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "껍질째 샬롯의 일반 냉장 보관 및 습기 밀폐 금지 ⚠️",
+            "desc": "통샬롯을 비닐봉지에 넣어 일반 냉장고에 보관하면 높은 습도로 인해 수분이 차올라 휴면기가 깨집니다. 조직이 무르고 푸른곰팡이(Penicillium)가 피어나므로 반드시 서늘하고 통풍이 잘되는 상온 암소에 보관해야 합니다."
+          },
+          {
+            "title": "감자와 함께 보관하거나 직사광선에 노출시키지 마세요 🛑",
+            "desc": "감자에서 방출되는 수분과 가스는 샬롯의 발아를 촉진하며, 직사광선은 샬롯 내부 온도와 호흡률을 높여 빠르게 시들게 만듭니다. 빛이 차단된 통풍이 잘되는 양파망이나 그물망을 사용해야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "10~12℃의 서늘하고 어두운 장소에서 통풍 보관하기 — 상온 통풍 보관 (180일 이상) 🧅",
+            "text": "통샬롯은 10~12℃, 상대 습도 60~65% 환경에서 호흡률이 최소화되어 휴면 상태가 안정적으로 유지됩니다. 💡 보관 팁: 그물망이나 통풍이 잘되는 바구니에 담아 햇빛이 들지 않는 팬트리나 서늘한 베란다 그늘에 보관하면 6개월 이상 신선함이 유지됩니다."
+          },
+          {
+            "name": "껍질을 깐 샬롯은 밀폐 용기에 담아 냉장 보관하기 — 껍질 벗긴 샬롯 냉장 (14~21일) ❄️",
+            "text": "껍질을 이미 깐 샬롯은 상온에 두면 단면이 금방 건조해지거나 세균에 오염됩니다. 💡 보관 팁: 껍질을 깐 샬롯은 물기를 완전히 제거한 뒤 키친타월을 깔은 밀폐 용기에 담아 냉장고(1~4℃)에 보관하면 2~3주간 신선하게 사용할 수 있습니다."
+          },
+          {
+            "name": "다진 샬롯이나 남은 샬롯은 올리브유와 함께 밀봉 또는 냉동하기 — 다진 샬롯 장기 보관 (30~60일) 🧊",
+            "text": "요리 후 남은 샬롯은 잘게 다져 보관하는 것이 유용합니다. 💡 보관 팁: 다진 샬롯을 얼음 트레이에 담고 올리브유를 살짝 넣어 냉동하면 향 성분 유실 없이 요리 시 바로 사용할 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "샬롯을 냉장고에 넣었더니 쉽게 무르고 곰팡이가 피는 이유는 무엇인가요?",
+            "answer": "샬롯은 상대 습도가 70%를 넘으면 생리적 휴면 상태가 깨집니다. 냉장고 야채칸의 높은 습도와 밀폐 환경은 샬롯 내부 수분을 증발시키지 못해 조직이 무너지고 푸른곰팡이(Penicillium) 발아가 촉진되기 때문입니다."
+          },
+          {
+            "question": "샬롯에서 싹이 났을 때 먹어도 안전한가요?",
+            "answer": "감자와 달리 샬롯에서 난 싹에는 솔라닌 같은 독소가 없으므로 섭취 자체는 안전합니다. 다만 싹이 나면 알맹이의 영양과 수분이 싹으로 이동해 알맹이가 푸석해지고 풍미가 떨어지므로 싹이 나기 전 서늘하고 건조하게 보관하는 것이 좋습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Shallots Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for shallots based on official safety guidelines.",
+        "authority": "USDA & MFDS & UC Davis Postharvest Center",
+        "intro": "Have you ever bought fresh shallots for French or Southeast Asian dishes, only to find them sprouting or covered in blue mold shortly after? 🧅\n\nShallots feature higher dry matter solids and alliin genome concentrations than standard bulb onions, giving them rich culinary value. However, when relative humidity exceeds 70%, their physiological dormancy breaks, triggering rapid sprouting and blue mold (*Penicillium*) growth.\n\nBased on official guidelines from the UC Davis Postharvest Technology Center and USDA, this 3-step scientific storage guide demonstrates how to keep shallots fresh for over 6 months without softening or sprouting. 🛡️",
+        "whyTitle": "Why Store Shallots This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Do not refrigerate unpeeled whole shallots in plastic bags ⚠️",
+            "desc": "Storing whole unpeeled shallots in high-humidity refrigerator compartments traps moisture and breaks dormancy. The tissue collapses rapidly and fosters blue mold (*Penicillium*) growth. Always store them at cool room temperatures in a dry, ventilated space."
+          },
+          {
+            "title": "Avoid storing near potatoes or in direct sunlight 🛑",
+            "desc": "Moisture and gases emitted by potatoes promote sprouting in shallots. Direct sunlight increases internal temperature and respiration rates, causing them to wither quickly. Use breathable mesh bags kept in dark areas."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Store unpeeled shallots in a cool, dark, ventilated area at 10–12°C — Room Ventilation (180+ Days) 🧅",
+            "text": "Whole shallots maintain stable dormancy when kept at 10–12°C (50–54°F) with 60–65% relative humidity, minimizing respiration. 💡 Storage Tip: Keep in a mesh bag or wire basket inside a dark, cool pantry or shade to preserve freshness for 6+ months."
+          },
+          {
+            "name": "Refrigerate peeled shallots in an airtight container — Peeled Cold Storage (14–21 Days) ❄️",
+            "text": "Once peeled, exposure to open air dries out the flesh and invites bacterial contamination. 💡 Storage Tip: Thoroughly dry peeled shallots, place them in a paper towel-lined airtight container, and store in the fridge (1–4°C / 34–39°F) for 2–3 weeks."
+          },
+          {
+            "name": "Minced or leftover shallots frozen with olive oil — Long-term Minced Storage (30–60 Days) 🧊",
+            "text": "Mincing leftover shallots is an efficient way to preserve flavor. 💡 Storage Tip: Place minced shallots in an ice cube tray, cover lightly with olive oil, and freeze. They can be dropped directly into pans when cooking."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why do whole shallots turn soft and moldy inside the refrigerator?",
+            "answer": "Shallots break their physiological dormancy when relative humidity exceeds 70%. High moisture inside refrigerator crisper drawers prevents moisture evaporation, causing tissue breakdown and triggering blue mold (*Penicillium*) germination."
+          },
+          {
+            "question": "Is it safe to eat shallots that have begun sprouting?",
+            "answer": "Unlike potatoes, sprouted shallots do not produce toxic solanine, making them safe to eat. However, sprouting drains nutrients and moisture from the bulb, making the flesh spongy and weakening its flavor. Store cool and dry to prevent sprouting."
+          }
+        ]
+      },
+      "ja": {
+        "title": "エシャロット/シャルロットを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくエシャロットの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS) & UC Davis Postharvest Center",
+        "intro": "フランス料理や東南アジア料理によく使われるエシャロットを購入したものの、すぐに芽が出たり青カビが生えてしまったりした経験はありませんか？🧅\n\nエシャロットは一般的な玉ねぎよりも固形分濃度とアリン（Alliin）遺伝体が高く、豊かな風味を持つ食材です。しかし、相対湿度が70%を超えると生理的休眠（Dormancy）が破られ、発芽（Sprouting）が促進されるとともに青カビ（Penicillium）が繁殖しやすい特性を持っています。\n\n本記事では、UC Davis事後収穫管理センターおよびUSDAの公式ガイドラインに基づき、エシャロットの傷みや発芽を防ぎ6ヶ月以上新鮮に保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "皮付きエシャロットの通常冷蔵保存および湿気密閉は厳禁です ⚠️",
+            "desc": "皮付きのままポリ袋に入れて冷蔵庫に保存すると、高い湿度で水分がこもり休眠状態が破られます。組織が柔らかくなり青カビ（Penicillium）が発生するため、必ず風通しの良い涼しい常温の dark place に保管してください。"
+          },
+          {
+            "title": "ジャガイモと一緒に保存したり直射日光に晒さないでください 🛑",
+            "desc": "ジャガイモから放出される水分やガスはエシャロットの発芽を促し、直射日光は内部温度と呼吸量を高めて急速にしおらせます。光を遮断できる風通しの良いネット袋をご使用ください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "10〜12℃の涼しく暗い場所で通気保存する — 常温通風保存 (180日以上) 🧅",
+            "text": "皮付きのエシャロットは10〜12℃、相対湿度60〜65%の環境下で呼吸率が最小化され、休眠状態が安定して維持されます。💡保存のコツ：ネット袋や通気性の良いバスケットに入れ、光の当たらないパントリー等で保管すると6ヶ月以上長持ちします。"
+          },
+          {
+            "name": "皮をむいたエシャロットは密閉容器に入れて冷蔵保存する — むきエシャロット冷蔵 (14〜21日間) ❄️",
+            "text": "皮をむいたエシャロットは常温に放置すると切り口がすぐ乾燥し細菌に汚染されます。💡保存のコツ：水気を完全に拭き取り、キッチンペーパーを敷いた密閉容器に入れて冷蔵庫（1〜4℃）で保管すると2〜3週間新鮮さを保てます。"
+          },
+          {
+            "name": "みじん切りのエシャロットはオリーブオイルと一緒に freezer 保存する — 長期冷凍保存 (30〜60日間) 🧊",
+            "text": "使い切れなかったエシャロットは細かく刻んで保存するのが便利です。💡保存のコツ：みじん切りにしたエシャロットを製氷トレイに入れ、オリーブオイルを少しかけて冷凍すると、風味を損なわずにそのまま調理に使えます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "エシャロットを冷蔵庫に入れるとすぐ柔らかくなりカビが生える理由は何ですか？",
+            "answer": "相対湿度が70%を超えると生理的休眠状態が破られるためです。冷蔵庫の野菜室の高湿度と密閉環境によって内部水分が蒸発できず、組織が崩れて青カビ（Penicillium）の発芽が促進されるためです。"
+          },
+          {
+            "question": "エシャロットから芽が出てしまった場合、食べても安全ですか？",
+            "answer": "ジャガイモとは異なり、エシャロットの芽にはソラニンのような毒素はないため摂取自体は安全です。ただし、芽が出ると本体の栄養と水分が奪われて食感が悪くなり風味が落ちるため、芽が出る前に涼しく乾燥した場所で保管することをお勧めします。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持干葱/夏洛特红葱头（Shallots）新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解红葱头的最佳储存温度、方式及保鲜时长。",
+        "authority": "UC Davis Postharvest Center & USDA & MFDS",
+        "intro": "购买用于法餐或东南亚料理的红葱头（Shallots）后，您是否遇到过它没几天就发芽或长满青霉菌的情况？🧅\n\n红葱头（夏洛特红葱）比普通洋葱含有更高的干物质固形物与蒜氨酸（Alliin）基因组，风味极为浓郁。然而，当相对湿度超过70%时，其生理休眠期（Dormancy）会被打破，引发快速发芽，并极易滋生青霉菌（*Penicillium*）。\n\n本指南基于UC Davis采后技术中心及USDA的权威指南，为您介绍3步科学保存秘诀，帮 your Shallots 保持6个月以上干爽新鲜、不发芽发霉。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "带皮整头红葱头切勿直接放入冰箱冷藏或塑料袋密封 ⚠️",
+            "desc": "将整头红葱头装入塑料袋冷藏会导致高湿度积聚，打破休眠期，使其快速变软崩解并滋生青霉菌（*Penicillium*）。务必保存在阴凉通风的常温避光处。"
+          },
+          {
+            "title": "切勿与土豆存放在一起或暴露于阳光直射下 🛑",
+            "desc": "土豆释放的水分与气体易诱发红葱头发芽；阳光直射则会提高内部温度与呼吸作用，加速干瘪。请使用避光透气的网袋存放。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "在10~12℃的阴凉通风避光处常温保存 — 常温通风保存 (180天以上) 🧅",
+            "text": "整头红葱头在10~12℃、相对湿度60~65%的环境中呼吸率最低，休眠状态最稳定。💡储存小贴士：装入网袋或透气编织篮，置于无阳光直射的食品柜或避光阴凉处，可保鲜6个月以上。"
+          },
+          {
+            "name": "剥皮红葱头装入密封盒冷藏保存 — 去皮冷藏保存 (14~21天) ❄️",
+            "text": "去皮后的红葱头在常温下表面易干燥开裂且易受细菌污染。💡储存小贴士：抹干表面水分，铺垫厨房纸巾装入密封盒，放入冰箱（1~4℃）冷藏，可保鲜2~3周。"
+          },
+          {
+            "name": "切碎的红葱头混合橄榄油冷冻 — 长期碎葱保存 (30~60天) 🧊",
+            "text": "用剩的红葱头切碎分装是保留风味的高效方法。💡储存小贴士：将红葱头碎放入冰格中，倒入少许橄榄油冷冻，下锅炒菜时可直接取用，香气不流失。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "为什么红葱头放在冰箱冷藏室里反而容易发软发霉？",
+            "answer": "因为当相对湿度高于70%时，红葱头的生理休眠状态会被打破。冰箱冷藏室及抽屉的高湿度无法使红葱头内部水分蒸发，导致组织破坏并促使青霉菌（*Penicillium*）孢子发芽。"
+          },
+          {
+            "question": "发芽的红葱头还可以食用吗？",
+            "answer": "与土豆不同，红葱头发芽不会产生龙葵素等毒素，食用是安全的。但发芽会消耗葱头本身的营养与水分，导致肉质发空、风味变淡，因此建议在发芽前于干燥阴凉处保存。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener las chalotas (Shallots) frescas: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para las chalotas según las directrices oficiales de seguridad.",
+        "authority": "USDA & MFDS & UC Davis Postharvest Center",
+        "intro": "¿Alguna vez compró chalotas frescas para sus recetas y descubrió que germinaban o se cubrían de moho azul al poco tiempo? 🧅\n\nLas chalotas poseen una concentración de sólidos y genoma de aliína (Alliin) más alta que las cebollas comunes, aportando un sabor excepcional. Sin embargo, cuando la humedad relativa supera el 70%, rompen su latencia biológica (Dormancy), lo que provoca una germinación rápida y la formación de moho azul (*Penicillium*).\n\nBasado en recomendaciones oficiales de UC Davis y el USDA, esta guía le enseña un método científico en 3 pasos para conservar las chalotas frescas durante más de 6 meses. 🛡️",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "No refrigere chalotas enteras con piel en bolsas de plástico ⚠️",
+            "desc": "Almacenar chalotas enteras con piel en cajones de refrigerador con alta humedad atrapes la humedad y rompe su latencia. Los tejidos se ablandan y se desarrolla moho azul (*Penicillium*). Almacénelas a temperatura ambiente en un espacio seco y ventilado."
+          },
+          {
+            "title": "Evite guardarlas junto a patatas o bajo la luz solar directa 🛑",
+            "desc": "La humedad y los gases emitidos por las patatas aceleran la germinación de las chalotas. La luz solar aumenta la temperatura interna y la tasa de respiración. Use bolsas de malla transpirables en lugares oscuros."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Almacene chalotas enteras en un lugar fresco, oscuro y ventilado a 10–12 °C — Ventilación a temp. ambiente (180+ días) 🧅",
+            "text": "Las chalotas enteras mantienen una latencia estable a 10–12 °C y 60–65% de humedad relativa, reduciendo su respiración al mínimo. 💡 Consejo de almacenamiento: Guárdelas en una cesta de malla en una despensa oscura y fresca para conservar la frescura por más de 6 meses."
+          },
+          {
+            "name": "Refrigere las chalotas peladas en un recipiente hermético — Almacenamiento pelado en frío (14–21 días) ❄️",
+            "text": "Una vez peladas, la exposición al aire libre seca su carne y favorece la contaminación bacteriana. 💡 Consejo de almacenamiento: Seque bien las chalotas peladas, colóquelas sobre papel absorbente dentro de un contenedor cerrado en el refrigerador (1–4 °C)."
+          },
+          {
+            "name": "Congele las chalotas picadas con aceite de oliva — Almacenamiento picado a largo plazo (30–60 días) 🧊",
+            "text": "Picar las chalotas sobrantes es una excelente forma de conservar su aroma. 💡 Consejo de almacenamiento: Coloque las chalotas picadas en una cubitera de hielo, cubra con un poco de aceite de oliva y congele."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué las chalotas se ablandan y enmohecen dentro del refrigerador?",
+            "answer": "Las chalotas rompen su latencia fisiológica cuando la humedad relativa supera el 70%. La alta humedad del refrigerador impide la evaporación del agua celular, ablandando los tejidos y activando las esporas de moho azul (*Penicillium*)."
+          },
+          {
+            "question": "¿Es seguro comer chalotas que han empezado a brotar?",
+            "answer": "A diferencia de las patatas, las chalotas brotadas no contienen solanina tóxica, por lo que son seguras para comer. Sin embargo, el brote consume nutrientes y agua del bulbo, debilitando su sabor y textura."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver les échalotes fraîches : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les échalotes selon les directives officielles de sécurité.",
+        "authority": "USDA & MFDS & UC Davis Postharvest Center",
+        "intro": "Avez-vous déjà acheté des échalotes fraîches pour vos recettes pour découvrir qu'elles germaient ou se couvraient de moisissure bleue peu de temps après ? 🧅\n\nLes échalotes possèdent une teneur en matière sèche et une concentration en alliine (Alliin) plus élevées que les oignons classiques. Cependant, dès que l'humidité relative dépasse 70 %, leur dormance physiologique (Dormancy) est brisée, provoquant une germination rapide et le développement de moisissure bleue (*Penicillium*).\n\nBasé sur les conseils officiels de UC Davis et du USDA, ce guide en 3 étapes vous explique comment conserver vos échalotes fraîches pendant plus de 6 mois sans ramollissement. 🛡️",
+        "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne pas réfrigérer les échalotes entières non pelées dans des sacs en plastique ⚠️",
+            "desc": "Ranger des échalotes entières au réfrigérateur retient l'humidité et rompt leur dormance. Les tissus ramollissent rapidement et favorisent la moisissure bleue (*Penicillium*). Conservez-les toujours à température ambiante dans un endroit sec et aéré."
+          },
+          {
+            "title": "Éviter de les stocker près des pommes de terre ou au soleil 🛑",
+            "desc": "L'humidité et les gaz émis par les pommes de terre stimulent la germination des échalotes. La lumière directe du soleil augmente la température et accélère leur dessèchement. Utilisez des filets respirants."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Conserver les échalotes non pelées dans un endroit frais, sombre et aéré à 10–12 °C — Aération à temp. ambiante (180+ jours) 🧅",
+            "text": "Les échalotes entières conservent leur dormance à 10–12 °C et 60–65 % d'humidité relative. 💡 Astuce de conservation : Gardez-les dans un filet ou un panier aéré dans un cellier sombre pour préserver leur fraîcheur plus de 6 mois."
+          },
+          {
+            "name": "Réfrigérer les échalotes épluchées dans une boîte hermétique — Stockage épluché au frais (14–21 jours) ❄️",
+            "text": "Une fois épluchées, l'exposition à l'air assèche la chair et favorise les bactéries. 💡 Astuce de conservation : Séchez les échalotes épluchées, placez-les sur du papier essuie-tout dans une boîte hermétique au frais (1–4 °C)."
+          },
+          {
+            "name": "Congeler les échalotes hachées avec de l'huile d'olive — Congélation hachée longue durée (30–60 jours) 🧊",
+            "text": "Hacher les restes d'échalotes est idéal pour conserver leurs arômes. 💡 Astuce de conservation : Répartissez les échalotes hachées dans un bac à glaçons, recouvrez d'un peu d'huile d'olive et congelez."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi les échalotes ramollissent-elles et moisissent-elles au réfrigérateur ?",
+            "answer": "Les échalotes rompent leur dormance physiologique dès que l'humidité dépasse 70 %. L'humidité élevée du réfrigérateur empêche l'évaporation de l'eau cellulaire, détruisant les tissus et favorisant la moisissure bleue (*Penicillium*)."
+          },
+          {
+            "question": "Peut-on consommer sans danger des échalotes qui ont germé ?",
+            "answer": "Contrairement aux pommes de terre, les échalotes germées ne contiennent pas de solanine toxique et sont consommables. Cependant, le germe puise les nutriments et l'eau du bulbe, altérant sa saveur et sa texture."
+          }
+        ]
+      },
+      "de": {
+        "title": "Schalotten richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Schalotten basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "USDA & MFDS & UC Davis Postharvest Center",
+        "intro": "Haben Sie schon einmal Schalotten gekauft, nur um festzustellen, dass sie nach kurzer Zeit austrieben oder sich Blauschimmel bildete? 🧅\n\nSchalotten weisen einen höheren Trockensubstanz- und Alliin-Gehalt auf als herkömmliche Haushaltszwiebeln. Übersteigt die relative Luftfeuchtigkeit jedoch 70 %, wird ihre physiologische Keimruhe (Dormancy) gebrochen, was schnelles Austreiben und Blauschimmelbefall (*Penicillium*) auslöst.\n\nBasierend auf offiziellen Empfehlungen zeigen wir Ihnen in diesem 3-Schritte-Ratgeber, wie Sie Schalotten über 6 Monate lang ohne Weichwerden oder Keimen frisch halten. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Ungeschälte Schalotten keinesfalls in Plastiktüten im Kühlschrank lagern ⚠️",
+            "desc": "Die Lagerung ganzer Schalotten im feuchten Kühlschrank staut Feuchtigkeit und bricht die Keimruhe. Das Gewebe wird weich und bildet Blauschimmel (*Penicillium*). Lagern Sie sie stets trocken und belüftet bei kühler Raumtemperatur."
+          },
+          {
+            "title": "Nicht zusammen mit Kartoffeln oder unter Sonneneinstrahlung aufbewahren 🛑",
+            "desc": "Gase und Feuchtigkeit aus Kartoffeln regen Schalotten zum Keimen an. Direktes Sonnenlicht erhöht die Temperatur und Atmung der Schalotten. Nutzen Sie dunkle, luftdurchlässige Netzbeutel."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Ungeschälte Schalotten kühl, dunkel und belüftet bei 10–12 °C lagern — Raumlüftung (180+ Tage) 🧅",
+            "text": "Ganze Schalotten behalten bei 10–12 °C und 60–65 % relativer Luftfeuchtigkeit eine stabile Keimruhe bei minimaler Atmung. 💡 Lagerungstipp: In einem Netzbeutel in einer kühlen, dunklen Speisekammer aufbewahren (hält 6+ Monate)."
+          },
+          {
+            "name": "Geschälte Schalotten luftdicht im Kühlschrank aufbewahren — Geschälte Kühllagerung (14–21 Tage) ❄️",
+            "text": "Geschälte Schalotten trocknen an der Luft schnell aus und ziehen Bakterien an. 💡 Lagerungstipp: Gut abtrocknen, in einer mit Küchenpapier ausgelegten Frischhaltedose im Kühlschrank (1–4 °C) lagern."
+          },
+          {
+            "name": "Gehackte Schalotten mit Olivenöl einfrieren — Langzeit-Tiefkühlung (30–60 Tage) 🧊",
+            "text": "Das Einfrieren gehackter Schalotten bewahrt ihr Aroma optimal. 💡 Lagerungstipp: Gehackte Schalotten in Eiswürfelformen füllen, mit etwas Olivenöl bedecken und einfrieren."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum werden Schalotten im Kühlschrank weich und schimmelig?",
+            "answer": "Bei einer Luftfeuchtigkeit von über 70 % wird die Keimruhe gebrochen. Die hohe Feuchtigkeit im Kühlschrank verhindert das Verdampfen der Zellflüssigkeit, wodurch das Gewebe kollabiert und Blauschimmel (*Penicillium*) gedeiht."
+          },
+          {
+            "question": "Kann man ausgetriebene Schalotten noch bedenkenlos essen?",
+            "answer": "Anders als bei Kartoffeln bildet sich in Schalottenkeimen kein giftiges Solanin; sie sind ungiftig. Allerdings entzieht das Keimen der Knolle Feuchtigkeit und Nährstoffe, wodurch das Fleisch schwammig wird."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar echalotas / chalotas (Shallots) frescas: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para echalotas com base em diretrizes oficiais de segurança.",
+        "authority": "USDA & MFDS & UC Davis Postharvest Center",
+        "intro": "Você já comprou echalotas (chalotas) frescas e percebeu que elas brotaram ou criaram mofo azul pouco tempo depois? 🧅\n\nAs echalotas possuem maior teor de sólidos e genoma de aliína (Alliin) do que as cebolas comuns. No entanto, quando a umidade relativa ultrapassa 70%, sua dormência biológica (Dormancy) é interrompida, acelerando o brotamento e o surgimento de mofo azul (*Penicillium*).\n\nCom base em diretrizes do UC Davis e do USDA, este guia em 3 etapas ensina como conservar echalotas frescas por mais de 6 meses sem amolecer. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Não refrigere echalotas inteiras com casca em sacos plásticos ⚠️",
+            "desc": "Guardar echalotas inteiras na geladeira retém umidade e quebra a dormência. Os tecidos amolecem rapidamente e favorecem o mofo azul (*Penicillium*). Guarde-as sempre em temperatura ambiente, em local seco e arejado."
+          },
+          {
+            "title": "Evite armazenar perto de batatas ou sob luz solar direta 🛑",
+            "desc": "A umidade e os gases das batatas estimulam o brotamento das echalotas. A luz solar direta aumenta a temperatura interna e acelera o ressecamento. Use sacos de malha respirável em locais escuros."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Guarde echalotas inteiras em local fresco, escuro e arejado a 10–12 °C — Ventilação em temp. ambiente (180+ dias) 🧅",
+            "text": "Echalotas inteiras mantêm a dormência estável a 10–12 °C e 60–65% de umidade relativa. 💡 Dica de conservação: Guarde em saco de malha na despensa escura para manter o frescor por mais de 6 meses."
+          },
+          {
+            "name": "Refrigere echalotas descascadas em um pote hermético — Conservação descascada em frio (14–21 dias) ❄️",
+            "text": "Após descascadas, a exposição ao ar resseca a polpa e atrai bactérias. 💡 Dica de conservação: Seque bem as echalotas descascadas e guarde-as sobre papel-toalha num pote fechado na geladeira (1–4 °C)."
+          },
+          {
+            "name": "Congele echalotas picadas com azeite de oliva — Congelamento picado de longa duração (30–60 dias) 🧊",
+            "text": "Picar as echalotas restantes é excelente para preservar o aroma. 💡 Dica de conservação: Coloque as echalotas picadas numa fôrma de gelo, cubra com azeite e congele."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que as echalotas amolecem e mofam dentro da geladeira?",
+            "answer": "As echalotas perdem a dormência fisiológica quando a umidade ultrapassa 70%. A umidade elevada da geladeira impede a evaporação da água celular, destruindo os tecidos e ativando o mofo azul (*Penicillium*)."
+          },
+          {
+            "question": "É seguro comer echalotas que começaram a brotar?",
+            "answer": "Diferente das batatas, os brotos da echalota não possuem solanina tóxica e podem ser consumidos. No entanto, o broto consome os nutrientes do bulbo, deixando a textura esponjosa e fraca."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Bawang Shallot / Bawang Prei Perancis agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk bawang shallot berdasarkan pedoman keselamatan resmi.",
+        "authority": "USDA & MFDS & UC Davis Postharvest Center",
+        "intro": "Pernahkah Anda membeli bawang shallot untuk masakan lalu mendapatinya cepat bertunas atau berjamur biru tidak lama kemudian? 🧅\n\nBawang shallot memiliki kandungan padatan dan genom aliin (Alliin) yang lebih tinggi dibanding bawang bombay biasa. Namun, jika kelembapan relatif melebihi 70%, masa dormansi biologisnya (Dormancy) akan terganggu sehingga memicu pertunasan cepat dan pertumbuhan jamur biru (*Penicillium*).\n\nBerdasarkan pedoman resmi UC Davis dan USDA, panduan 3 langkah ini menjelaskan metode ilmiah untuk menyimpan bawang shallot tetap segar hingga lebih dari 6 bulan tanpa membusuk. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan menyimpan shallot utuh berkulit di kantong plastik dalam kulkas ⚠️",
+            "desc": "Menyimpan shallot utuh di dalam kulkas akan memerangkap kelembapan dan merusak masa dormansi. Jaringannya akan lembek dan memicu jamur biru (*Penicillium*). Selalu simpan pada suhu ruang sejuk dan kering."
+          },
+          {
+            "title": "Hindari menyimpan dekat kentang atau terpapar sinar matahari langsung 🛑",
+            "desc": "Gas dan kelembapan dari kentang merangsang pertunasan shallot. Sinar matahari meningkatkan suhu internal dan laju respirasi. Gunakan kantong jaring di tempat gelap."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Simpan shallot utuh di tempat sejuk, gelap, dan berangin pada suhu 10–12°C — Sirkulasi Suhu Ruang (180+ Hari) 🧅",
+            "text": "Shallot utuh menjaga dormansi stabil pada suhu 10–12°C dan kelembapan 60–65%. 💡 Tips Penyimpanan: Letakkan dalam kantong jaring atau keranjang di dapur gelap untuk menjaga kesegaran hingga 6+ bulan."
+          },
+          {
+            "name": "Simpan shallot kupas dalam wadah kedap udara di kulkas — Simpan Dingin Kupas (14–21 Hari) ❄️",
+            "text": "Setelah dikupas, paparan udara membuat dagingnya kering dan dihinggapi bakteri. 💡 Tips Penyimpanan: Keringkan shallot kupas, lapisi wadah dengan tisu dapur, lalu simpan di kulkas (1–4°C)."
+          },
+          {
+            "name": "Bekukan cincangan shallot bersama minyak zaitun — Simpan Cincang Jangka Panjang (30–60 Hari) 🧊",
+            "text": "Mencincang sisa shallot adalah cara efisien menjaga aromanya. 💡 Tips Penyimpanan: Masukkan cincangan shallot ke cetakan es batu, tuang sedikit minyak zaitun, lalu bekukan."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa bawang shallot menjadi lembek dan berjamur di dalam kulkas?",
+            "answer": "Shallot kehilangan dormansi fisiologisnya saat kelembapan melebihi 70%. Kelembapan tinggi di kulkas mencegah penguapan air sel, merusak jaringan dan memicu spora jamur biru (*Penicillium*)."
+          },
+          {
+            "question": "Apakah aman mengonsumsi shallot yang sudah mulai bertunas?",
+            "answer": "Berbeda dengan kentang, tunas shallot tidak mengandung racun solanin sehingga aman dikonsumsi. Namun, tunas menyerap nutrisi dan air dari umbi sehingga teksturnya menjadi kempis."
+          }
+        ]
+      }
     }
+  }
 }

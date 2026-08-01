@@ -1,315 +1,315 @@
 {
-    "baekseok-vocabulary-collection": {
-        "pubDate": "2026-04-14",
-        "updatedDate": "2026-04-14",
-        "heroImage": "/images/blog/baekseok_vocabulary_collection.webp",
-        "locales": {
-            "ko": {
-                "title": "언어의 결을 살리는 수집의 힘: 백석 시인의 토속어·방언 '어휘 수집' 루틴",
-                "description": "시인 백석은 사라져가는 토속어와 방언을 수첩에 꼼꼼히 수집하여 자신만의 시적 언어 자산을 구축했습니다. 의미 기억 확장과 언어적 인출을 돕는 단어 수집 습관을 다룹니다.",
-                "authority": "국립한글박물관 및 1930년대 《조선일보》·《문장》 원문 데이터베이스 & 안도현 저 《백석 평전》(다산책방) & 의미 기억(Semantic Memory) 확장 및 의미적 점화(Semantic Priming) 뇌과학 연구",
-                "intro": "\"언어는 민족의 정서가 담긴 그릇이며, 단어 하나에 삶의 온도와 풍경이 스며 있다.\" ✍️\n\n1930년대 모던 보이이자 한국 현대시사에서 가장 독창적이고 감각적인 언어 미학을 구축한 시인, 백석(白石). 북관(함경도)과 서북 지방(평안도), 만주 일대를 유랑하며 고향의 정감 어린 언어를 다채로운 시적 서사로 완성해 낸 그는, 사라져가는 우리말과 토속어를 수첩에 모으는 열정적인 어휘 수집가였습니다.\n\n백석은 여행지와 일상에서 마주친 장터 사람들, 마을 어르신들의 입을 통해 전해지는 사투리와 민속 풍속어, 정감 어린 옛 단어들을 작은 수첩에 정성스럽게 기록했습니다. '여우난골족', '고주박이', '자식' 등 시집 《Deer》에 아로새겨진 세련되고 감각적인 시어들은 단순한 영감이 아닌, 수첩 속에 차곡차곡 쌓인 '어휘 데이터베이스'에서 시작되었습니다. 안도현의 평전 증언처럼, 백석에게 어휘 수집은 억압받던 시대 속에서 우리말의 숨결을 보존하고 자신의 언어적 외연을 극대화하는 인지적 루틴이자 창작의 자산이었습니다.\n\n오늘 포스트에서는 백석 시인의 토속어 수집 루틴에 담긴 의미 기억(Semantic Memory) 확장과 의미적 점화(Semantic Priming)의 뇌과학적 원리를 소개합니다.",
-                "whyTitle": "의미 기억 체계 확장과 의미적 점화 효과가 유도하는 표현의 풍부함",
-                "whyDesc": "새로운 단어나 인상적인 표현을 발견하고 기록하는 행위는 뇌의 <strong>'의미 기억(Semantic Memory)'</strong> 체계를 확장하고 <strong>'의미적 점화(Semantic Priming)'</strong> 효과를 발휘합니다.\n\n단순히 알고 있는 단어만 돌려쓰는 고착 상태에서 벗어나 낯설고 매력적인 어휘를 외부화하여 저장하면, 측두엽의 의미 네트워크(Semantic Network) 연관성이 치밀해집니다. 이는 기획이나 글쓰기 상황에서 원하는 단어를 빠르게 뇌에서 인출(Lexical Retrieval)하도록 도와주며, 전두엽의 표현력과 문장 구성 역량을 혁신적으로 향상시켜 줍니다.",
-                "cautionTitle": "단순한 단어 나열을 피하고 맥락과 감정을 함께 수집하세요",
-                "cautionDesc": "백석 시인의 어휘 수집 핵심은 사전적 정의만 적는 것이 아니라 그 단어가 쓰인 상황, 정서, 풍경의 맥락을 함께 기록하는 것입니다. 맥락이 상실된 단어 수집은 뇌에서 활성화되지 못하므로, 그 표현이 준 정감과 사용 맥락을 함께 적어두는 것이 핵심입니다.",
-                "steps": [
-                    {
-                        "title": "일상과 콘텐츠 속에서 마음을 흔드는 표현 포착하기",
-                        "desc": "대화, 책, 영화, 길거리 간판 등에서 감각적이거나 낯선 단어, 근사한 문장을 발견했을 때 즉시 포착합니다."
-                    },
-                    {
-                        "title": "수첩이나 메모 앱에 단어와 함께 사용 맥락·감정 기록하기",
-                        "desc": "단어 자체만 적지 말고, 그 단어가 쓰였던 상황, 느꼈던 감정이나 이미지적 맥락을 1~2줄로 함께 기록합니다."
-                    },
-                    {
-                        "title": "수집된 어휘 데이터베이스를 재검토하여 커뮤니케이션 및 글쓰기에 적용하기",
-                        "desc": "주기적으로 단어장을 펼쳐보며 기억을 점화시키고, 이메일, 기획서, SNS 글쓰기 시 적재적소에 어휘를 활용해 표현의 폭을 넓힙니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "방언이나 낯선 단어 대신 트렌디한 신조어나 카피 문구를 수집해도 동일한 효과가 있나요?",
-                        "answer": "네, 완벽히 동일합니다. 백석이 방언을 수집한 본질은 '자신만의 독창적 어휘 창고를 구축하는 것'이었습니다. 현대인에게는 브랜드 네이밍, 카피라이팅, 감각적인 비유 표현이나 신조어 수집이 의미 네트워크 확장과 표현력 향상에 동일한 인지적 효과를 제공합니다."
-                    },
-                    {
-                        "question": "수집한 단어가 너무 많아져 정리하기 힘들 때는 어떻게 해야 하나요?",
-                        "answer": "카테고리별(예: 감정 표현, 비유적 묘사, 설득/카피 문구)로 3~5개 폴더를 나누어 기록하는 것이 좋습니다. 백석 시인이 정교하게 어휘를 모았듯, 수집된 어휘에 태그나 카테고리를 부여하면 필요할 때 전두엽에서 단어를 즉각 인출하기가 훨씬 쉬워집니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "The Power of Collecting Words for Rich Expression: Poet Baek Seok's Native Vocabulary & Dialect Collection Routine",
-                "description": "Poet Baek Seok meticulously gathered disappearing native words and regional dialects in his notebook to build a rich poetic language asset. Discover word collection habits that enhance semantic memory expansion and lexical retrieval.",
-                "authority": "National Hangeul Museum Archives & 1930s Chosun Ilbo and Munjang Original Text Databases & Ahn Do-hyun's Biography 'Baek Seok Pyeongjeon' (Dasan Books) & Cognitive Neuroscience Research on Semantic Memory Expansion and Semantic Priming",
-                "intro": "\"Language is a vessel holding a nation's emotion, and a single word breathes with the warmth and scenery of life.\" ✍️\n\nBaek Seok, a modern icon of the 1930s who built one of the most original and sensory language aesthetics in modern Korean poetry history, was a passionate collector of native words. Wandering through the Hamgyong, Pyongan, and Manchurian regions, he captured the warm, affectionate vernacular of his homeland into vibrant poetic narratives.\n\nBaek Seok meticulously recorded in a small notebook regional dialects, folklore terminology, and evocative ancient words passed down orally by marketplace folks and village elders. Sophisticated, sensory poetic diction embedded in his collection 'Deer' originated not from random inspiration, but from a structured 'vocabulary database' accumulated in his notebooks. As attested in Ahn Do-hyun's biography, collecting vocabulary was Baek Seok's cognitive routine and creative asset to preserve the breath of native language during an oppressive colonial era while maximizing his linguistic reach.\n\nIn today's post, we introduce the neuroscientific principles of Semantic Memory expansion and Semantic Priming embedded in poet Baek Seok's native vocabulary collection routine.",
-                "whyTitle": "Richness of Expression Induced by Semantic Memory Expansion and Semantic Priming",
-                "whyDesc": "Discovering and recording new words or striking expressions expands the brain's <strong>'Semantic Memory'</strong> system and induces a powerful <strong>'Semantic Priming'</strong> effect.\n\nMoving beyond a fixed vocabulary state to externalize and store novel, compelling diction dense-packs the semantic network (Semantic Network) in the temporal lobe. This aids rapid lexical retrieval (Lexical Retrieval) from the brain during planning or writing, dramatically elevating prefrontal expressiveness and sentence construction capabilities.",
-                "cautionTitle": "Avoid Simple Word Lists and Collect Context and Emotion Together",
-                "cautionDesc": "The core of Baek Seok's vocabulary collection was not listing dictionary definitions, but recording the situational, emotional, and sensory context where words were used. Contextless word lists fail to activate properly in neural networks, so always note the emotional nuance and usage context alongside the word.",
-                "steps": [
-                    {
-                        "title": "Capture Moving Expressions in Daily Life and Content",
-                        "desc": "Immediately capture evocative or novel words, vivid metaphors, or striking phrases encountered in conversations, books, media, or street signs."
-                    },
-                    {
-                        "title": "Record Words with Usage Context and Emotion in Notebooks or Apps",
-                        "desc": "Do not write words in isolation; record 1 to 2 lines capturing the scenario, emotional resonance, or visual context in which the word appeared."
-                    },
-                    {
-                        "title": "Review Vocabulary Database and Apply to Writing and Communication",
-                        "desc": "Periodically review your word bank to prime memory networks, deploying precise vocabulary into emails, project proposals, and creative writing."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Does collecting trendy new terms or copywriting phrases yield the same effect as collecting dialects?",
-                        "answer": "Yes, absolutely. The essence of Baek Seok's habit was building a personal, unique vocabulary reservoir. For modern professionals, gathering brand naming ideas, copywriting phrases, or evocative metaphors delivers the exact same cognitive benefits for semantic network expansion and expressive fluency."
-                    },
-                    {
-                        "question": "How should I manage my collection if the number of gathered words becomes overwhelming?",
-                        "answer": "Organize your notes into 3 to 5 categorical folders (e.g., Emotional Nuances, Metaphorical Descriptions, Persuasive Copy). Applying tags or categories to your vocabulary database makes it significantly easier for the prefrontal cortex to retrieve specific words instantly when needed."
-                    }
-                ]
-            },
-            "zh": {
-                "title": "赋予语言纹理的收集之力：诗人白石的土语·方言“词汇收集”惯例",
-                "description": "诗人白石在笔记本中细致地搜集逐渐消失的土语与方言，构建了属于自己的诗意语言资产。探索有助于扩展语义记忆与词汇调取的词汇收集习惯。",
-                "authority": "韩国国立韩文博物馆及1930年代《朝鲜日报》·《文章》原文数据库 & 安度玹著《白石平传》（多山茶房） & 语义记忆（Semantic Memory）扩展与语义启动（Semantic Priming）认知神经科学研究",
-                "intro": "“语言是盛载民族情感的容器，单单一个词汇里便浸润着生活的温度与风景。” ✍️\n\n作为20世纪30年代的摩登青年以及韩国现代诗歌史上构建了最独特、敏锐语言美学的诗人——白石（Baek Seok）。他在咸镜道、平安道及满洲一带流浪，将故乡富于温情的语言化作丰富多彩的诗意叙事，是一位热忱的词汇收集家。\n\n白石将旅行途中的集市人群、村庄长者口口相传的方言、民俗风物词及富于情致的古老词汇，认认真真地记录在随身的小笔记本上。刻印在其代表作诗集《鹿》中典雅而敏锐的诗语，并非源于偶然的灵感，而是始于笔记本里一点一滴沉淀下来的“词汇数据库”。正如安度玹平传所述，对白石而言，搜集词汇是在压抑的时代里保存母语呼吸、将自身语言外延最大化的认知惯例与创作资产。\n\n在今天的文章中，我们将介绍白石诗人的土语搜集惯例中蕴含的语义记忆（Semantic Memory）扩展与语义启动（Semantic Priming）的脑科学原理。",
-                "whyTitle": "语义记忆体系扩展与语义启动效应带来的丰富表达力",
-                "whyDesc": "发现并记录新词汇或令人印象深刻的表达，在脑科学上会扩展大脑的<strong>“语义记忆（Semantic Memory）”</strong>体系，并产生强烈的<strong>“语义启动（Semantic Priming）”</strong>效应。\n\n摆脱仅重复使用既有词汇的固化状态，将陌生而有魅力的词汇外部化储存，会使颞叶的语义网络（Semantic Network）关联更加紧密。这有助于在策划或写作时从大脑中迅速调取（Lexical Retrieval）所需词汇，显著提升前额叶的表达力与句子构筑能力。",
-                "cautionTitle": "避免单纯罗列词汇，连同语境与情感一并收集",
-                "cautionDesc": "白石词汇收集的核心并非仅仅抄写字典定义，而是记录该词汇使用时的场景、情感与风景语境。失去语境的词汇很难在大脑网络中被有效激活，因此记录下该表达带来的情致与使用上下文才是关键所在。",
-                "steps": [
-                    {
-                        "title": "在日常与内容中捕捉触动心灵的表达",
-                        "desc": "在对话、书籍、电影或街头招牌中发现生动、新颖的词汇或精彩语句时，立即予以捕捉。"
-                    },
-                    {
-                        "title": "在笔记本或备忘录App中记录词汇及其使用语境与情感",
-                        "desc": "不要孤立地只写词汇本身，用1~2行文字记录下该词汇出现的场景、感受到的情绪或视觉语境。"
-                    },
-                    {
-                        "title": "复盘收集的词汇数据库并应用于沟通与写作",
-                        "desc": "定期翻阅词汇本以启动记忆网络，在撰写邮件、策划案或社交媒体文案时恰如其分地运用，拓宽表达广度。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "收集流行的网络新词或广告文案句，是否具有与搜集方言相同的效果？",
-                        "answer": "是的，完全相同。白石搜集方言的本质在于“构建属于自己的独特词汇库”。对于现代人而言，搜集品牌命名、文案金句、敏锐的比喻表达或新词，在扩展语义网络与提升表达流畅度上具有完全相同的认知效应。"
-                    },
-                    {
-                        "question": "搜集的词汇过多导致难以整理时该如何处理？",
-                        "answer": "建议按类别（如：情感表达、比喻描写、说服/文案语句）划分为3~5个文件夹进行记录。正如白石细致整理词汇一样，为收集的词汇打上标签或分类，能让前额叶在需要时更轻松地即时调取词汇。"
-                    }
-                ]
-            },
-            "ja": {
-                "title": "言葉のきめを活かす収集の力：詩人・白石（ペク・ソク）のお国言葉・方言「語彙収集」ルーティン",
-                "description": "詩人の白石は、失われつつあるお国言葉や方言を手帳に丁寧に収集し、独自の詩的言語資産を構築しました。意味記憶の拡張と言語的引き出しを助ける単語収集習慣をご紹介します。",
-                "authority": "国立ハングル博物館および1930年代『朝鮮日報』・『文章』原文データベース ＆ 安度眩（アン・ドヒョン）著『白石評伝』 ＆ 意味記憶（Semantic Memory）拡張および意味的プライミング（Semantic Priming）の脳科学研究",
-                "intro": "「言語は民族の情緒が込められた器であり、たった一つの単語にも生の温度と風景が染み込んでいる。」 ✍️\n\n1930年代のモダンボーイであり、韓国現代詩史上最も独創的で感覚的な言語美学を構築した詩人、白石（ペク・ソク）。咸鏡道や平安道、満州一帯を放浪し、故郷の温かみあふれる言葉を多彩な詩的叙事へと結実させた彼は、失われゆく母国語とお国言葉を手帳に集める情熱的な語彙収集家でした。\n\n白石は旅先や日常で出会った市場の人々、村の長老たちの口から伝わる方言や民俗風俗語、情味あふれる古い単語を小さな手帳に心を込めて記録しました。詩集『鹿』に刻まれた洗練された感覚的な詩語は、単なるインスピレーションではなく、手帳の中にコツコツと蓄積された「語彙データベース」から始まりました。安度眩の評伝の証言のように、白石にとって語彙の収集は、抑圧された時代の中で母国語の息吹を保存し、自身の言語的外縁を極大化する認知的ルーティンであり創作の資産でした。\n\n本日の記事では、詩人・白石のお国言葉収集ルーティンに隠された意味記憶（Semantic Memory）拡張と意味的プライミング（Semantic Priming）の脳科学的原理をご紹介します。",
-                "whyTitle": "意味記憶体系の拡張と意味的プライミング効果が導く表現の豊かさ",
-                "whyDesc": "新しい単語や印象的な表現を発見して記録する行為は、脳の<strong>「意味記憶（Semantic Memory）」</strong>体系を拡張し、強力な<strong>「意味的プライミング（Semantic Priming）」</strong>効果を発揮します。\n\n単に知っている単語だけを使い回す固着状態から抜け出し、慣れない魅力的な語彙を外部化して保存すると、側頭葉の意味ネットワーク（Semantic Network）の関連性が緻密になります。これは企画や執筆の際に望む単語を脳から迅速に引き出す（Lexical Retrieval）助けとなり、前頭葉の表現力と文章構成能力を革新的に向上させてくれます。",
-                "cautionTitle": "単なる単語の羅列を避け、文脈と感情を一緒に収集してください",
-                "cautionDesc": "白石の語彙収集の核心は、辞書的な定義だけを書き留めるのではなく、その単語が使われた状況、情緒、風景の文脈を一緒に記録することにあります。文脈が失われた単語収集は脳内で効果的に活性化されないため、その表現が与えた情味と使用文脈を添えて書き留めることが鍵となります。",
-                "steps": [
-                    {
-                        "title": "日常やコンテンツの中から心揺さぶる表現を捉える",
-                        "desc": "会話、本、映画、街頭の看板などから感覚的・斬新な単語や魅力的なフレーズを発見した際、即座に捉えます。"
-                    },
-                    {
-                        "title": "手帳やメモアプリに単語とともに使用文脈・感情を記録する",
-                        "desc": "単語単体だけを記すのではなく、その単語が使われた状況、感じた感情や視覚的文脈を1〜2行で一緒に記録します。"
-                    },
-                    {
-                        "title": "収集された語彙データベースを再検証しコミュニケーションや執筆に適用する",
-                        "desc": "定期的に単語帳を開いて記憶をプライミングさせ、メール、企画書、SNS執筆時に適材適所で語彙を活用して表現の幅を広げます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "方言や珍しい単語の代わりにトレンディな新語やコピーのフレーズを収集しても同じ効果が得られますか？",
-                        "answer": "はい、完全に同じです。白石が方言を収集した本質は「自分だけの独創的な語彙倉庫を構築すること」にありました。現代人にとってネーミング、コピーライティング、感覚的な比喩表現や新語の収集は、意味ネットワークの拡張と表現力向上においてまったく同じ認知的効果をもたらします。"
-                    },
-                    {
-                        "question": "収集した単語が多くなりすぎて整理が難しくなった場合はどうすればよいですか？",
-                        "answer": "カテゴリー別（例：感情表現、比喩的描写、説得/コピー表現）に3〜5個のフォルダに分けて記録することをお勧めします。白石が精緻に語彙を集めたように、収集した語彙にタグやカテゴリーを付与することで、必要な時に前頭葉から単語を即座に引き出しやすくなります。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "El Poder de Coleccionar Palabras para una Expresión Rica: La Rutina de Recopilación de Vocabulario Nativo y Dialectos del Poeta Baek Seok",
-                "description": "El poeta Baek Seok recopiló meticulosamente palabras nativas en peligro de desaparición y dialectos regionales en su cuaderno para construir un rico activo lingüístico poético. Descubra hábitos de recolección de palabras que potencian la memoria semántica y la recuperación léxica.",
-                "authority": "Archivos del Museo Nacional Hangeul & Bases de datos de textos originales de Chosun Ilbo y Munjang de los años 1930 & Biografía de Ahn Do-hyun 'Baek Seok Pyeongjeon' e Investigación en Neurociencia Cognitiva sobre la Expansión de la Memoria Semántica y la Primación Semántica",
-                "intro": "\"El lenguaje es un recipiente que contiene la emoción de un pueblo, y una sola palabra respira con la calidez y el paisaje de la vida.\" ✍️\n\nBaek Seok, un ícono moderno de la década de 1930 que construyó una de las estéticas lingüísticas más originales y sensoriales en la historia de la poesía coreana moderna, fue un apasionado coleccionista de palabras nativas. Deambulando por las regiones de Hamgyong, Pyongan y Manchuria, plasmó el afectuoso lenguaje vernáculo de su tierra natal en vibrantes narrativas poéticas.\n\nBaek Seok registraba meticulosamente en un pequeño cuaderno dialectos regionales, terminología del folclore y evocadoras palabras antiguas transmitidas oralmente por la gente de los mercados y los ancianos de las aldeas. La dicción poética sofisticada y sensorial de su colección 'El Ciervo' no nació de una inspiración fortuita, sino de una 'base de datos de vocabulario' acumulada paso a paso en sus cuadernos. Como atestigua la biografía de Ahn Do-hyun, coleccionar vocabulario era la rutina cognitiva de Baek Seok para preservar el aliento de la lengua materna durante la era colonial al tiempo que maximizaba su alcance expresivo.\n\nEn la publicación de hoy, presentamos los principios neurocientíficos de la expansión de la Memoria Semántica y la Primación Semántica presentes en la rutina de recolección de vocabulario del poeta Baek Seok.",
-                "whyTitle": "Riqueza de Expresión Inducida por la Expansión de la Memoria Semántica y la Primación Semántica",
-                "whyDesc": "Descubrir y registrar nuevas palabras o expresiones impactantes expande el sistema de <strong>'Memoria Semántica (Semantic Memory)'</strong> del cerebro y genera un poderoso efecto de <strong>'Primación Semántica (Semantic Priming)'</strong>.\n\nSuperar un estado de vocabulario fijo para externalizar y almacenar términos novedosos densifica la red semántica (Semantic Network) en el lóbulo temporal. Esto facilita una rápida recuperación léxica (Lexical Retrieval) del cerebro durante la planificación o escritura, elevando drásticamente la capacidad expresiva prefrontal.",
-                "cautionTitle": "Evite Listas Simples de Palabras y Recopile el Contexto y la Emoción",
-                "cautionDesc": "El núcleo de la recolección de Baek Seok no era anotar definiciones de diccionario, sino registrar el contexto situacional, emocional y sensorial en que se usaban las palabras. Las palabras sin contexto no se activan eficazmente en las redes neuronales; anote siempre el matiz emocional junto con el término.",
-                "steps": [
-                    {
-                        "title": "Capturar Expresiones Evocadoras en la Vida Cotidiana y Contenidos",
-                        "desc": "Capture de inmediato palabras novedosas, metáforas vívidas o frases impactantes encontradas en conversaciones, libros, medios o carteles."
-                    },
-                    {
-                        "title": "Registrar Palabras con Contexto y Emoción en Cuadernos o Aplicaciones",
-                        "desc": "No escriba palabras aisladas; anote de 1 a 2 líneas que capten la escena, la resonancia emocional o el contexto visual donde apareció la palabra."
-                    },
-                    {
-                        "title": "Revisar la Base de Datos de Vocabulario y Aplicar en la Escritura",
-                        "desc": "Revise periódicamente su banco de palabras para activar las redes de memoria, aplicando un vocabulario preciso en correos, propuestas y escritos creativos."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Coleccionar nuevos términos populares o frases publicitarías genera el mismo efecto que coleccionar dialectos?",
-                        "answer": "Sí, absolutamente. La esencia del hábito de Baek Seok era construir un depósito de vocabulario personal e único. Para los profesionales modernos, recopilar ideas de naming, frases de copywriting o metáforas evocadoras produce exactamente los mismos beneficios cognitivos para la red semántica."
-                    },
-                    {
-                        "question": "¿Cómo debo gestionar mi colección si el volumen de palabras recopiladas se vuelve abrumador?",
-                        "answer": "Organice sus notas en 3 a 5 carpetas categóricas (ej. Matices Emocionales, Descripciones Metafóricas, Frases Persuasivas). Aplicar etiquetas o categorías facilita enormemente que la corteza prefrontal recupere palabras específicas cuando las necesite."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Le pouvoir de la collecte de mots pour une expression riche : La routine de collecte de vocabulaire natif et dialectes du poète Baek Seok",
-                "description": "Le poète Baek Seok recueillait méticuleusement les mots natifs en voie de disparition et les dialectes régionaux dans son carnet pour se constituer un riche patrimoine linguistique. Découvrez des habitudes de collecte de mots qui favorisent l'expansion de la mémoire sémantique et la récupération lexicale.",
-                "authority": "Archives du Musée National du Hangeul & Bases de données des textes originaux de Chosun Ilbo et Munjang des années 1930 & Biographie d'Ahn Do-hyun 'Baek Seok Pyeongjeon' & Recherche en Neurosciences Cognitives sur l'Expansion de la Mémoire Sémantique et l'Amorçage Sémantique",
-                "intro": "« La langue est un vase contenant l'émotion d'un peuple, et un seul mot respire la chaleur et le paysage de la vie. » ✍️\n\nBaek Seok, icône moderne des années 1930 ayant bâti l'une des esthétiques linguistiques les plus originales et sensorielles de l'histoire de la poésie coréenne moderne, était un passionné de collecte de mots natifs. Parcourant les régions de Hamgyong, Pyongan et la Mandchourie, il a immortalisé la langue vernaculaire chaleureuse de sa patrie dans de vibrants récits poétiques.\n\nBaek Seok notait méticuleusement dans un petit carnet les dialectes régionaux, le vocabulaire folklorique et les termes anciens transmis oralement par les gens des marchés et les aînés. La diction poétique raffinée de son recueil 'Le Cerf' ne découlait pas d'une inspiration fortuite, mais d'une 'base de données de vocabulaire' accumulée dans ses carnets. Comme le confirme la biographie d'Ahn Do-hyun, collecter le vocabulaire était la routine cognitive de Baek Seok pour préserver le souffle de la langue maternelle durant l'ère coloniale tout en démultipliant sa portée expressive.\n\nDans l'article d'aujourd'hui, nous présentons les principes de neurosciences cognitives de l'expansion de la Mémoire Sémantique et de l'Amorçage Sémantique ancrés dans la routine du poète Baek Seok.",
-                "whyTitle": "Richesse d'expression induite par l'expansion de la mémoire sémantique et l'amorçage sémantique",
-                "whyDesc": "Découvrir et enregistrer de nouveaux mots ou expressions marquantes élargit le système de <strong>« Mémoire Sémantique (Semantic Memory) »</strong> du cerveau et induit un puissant effet d'<strong>« Amorçage Sémantique (Semantic Priming) »</strong>.\n\nDépasser un vocabulaire figé pour externaliser des termes inédits densifie le réseau sémantique (Semantic Network) dans le lobe temporal. Cela facilite la récupération lexicale rapide (Lexical Retrieval) lors de la planification ou de la rédaction, élevant considérablement les capacités d'expression du cortex préfrontal.",
-                "cautionTitle": "Évitez les simples listes de mots et collectez le contexte et l'émotion",
-                "cautionDesc": "Le cœur de la méthode de Baek Seok n'était pas de recopier des définitions de dictionnaire, mais d'enregistrer le contexte situationnel, émotionnel et visuel dans lequel le mot était employé. Des mots sans contexte ne s'activent pas efficacement dans les réseaux neuronaux ; notez toujours la nuance émotionnelle avec le terme.",
-                "steps": [
-                    {
-                        "title": "Capturer les Expressions Évocatrices dans la Vie Quotidienne et les Contenus",
-                        "desc": "Saisissez immédiatement les mots nouveaux, les métaphores captivantes ou les phrases marquantes croisés dans des conversations, livres ou médias."
-                    },
-                    {
-                        "title": "Consigner les Mots avec leur Contexte et Émotion dans un Carnet ou une App",
-                        "desc": "Ne notez pas les mots de façon isolée ; rédigez 1 à 2 lignes décrivant la scène, l'émotion ou le contexte visuel de leur apparition."
-                    },
-                    {
-                        "title": "Revoir la Base de Vocabulaire et l'Appliquer à la Rédaction et la Communication",
-                        "desc": "Consultez régulièrement votre banque de mots pour amorcer vos réseaux de mémoire et employer un vocabulaire précis dans vos écrits."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Collecter des néologismes à la mode ou des formules de rédaction publicitaire a-t-il le même effet que collecter des dialectes ?",
-                        "answer": "Oui, tout à fait. L'essence de l'habitude de Baek Seok consistait à bâtir un réservoir de vocabulaire personnel et unique. Pour les professionnels modernes, rassembler des idées de naming, formules accrocheuses ou métaphores produit exactement les mêmes bénéfices cognitifs pour le réseau sémantique."
-                    },
-                    {
-                        "question": "Comment gérer ma collection si le volume de mots devient trop important ?",
-                        "answer": "Organisez vos notes en 3 à 5 dossiers thématiques (ex. Nuances Émotionnelles, Métaphores, Formules Persuasives). Ajouter des étiquettes ou catégories permet au cortex préfrontal de retrouver instantanément les mots précis en cas de besoin."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Die Macht des Wortesammelns für reichen Ausdruck: Dichter Baek Seoks Routine zur Erfassung von Dialekten und Wortschatz",
-                "description": "Der Dichter Baek Seok sammelte verschwindende heimatliche Wörter und regionale Dialekte akribisch in Notizbüchern, um einen reichen sprachlichen Schatz aufzubauen. Entdecken Sie Wortsammlungsgewohnheiten, die das semantische Gedächtnis und den Wortabruf stärken.",
-                "authority": "Nationales Hangeul-Museum Archiv & 1930er Chosun Ilbo und Munjang Originaltext-Datenbanken & Ahn Do-hyuns Biografie 'Baek Seok Pyeongjeon' & Kognitionspsychologische Forschung zu semantischer Gedächtniserweiterung und semantischem Priming",
-                "intro": "\"Sprache ist ein Gefäß für das Gefühl eines Volkes, und in einem einzigen Wort atmet die Wärme und Landschaft des Lebens.\" ✍️\n\nBaek Seok, eine moderne Ikone der 1930er Jahre, der eine der originellsten Sprachästhetiken der modernen koreanischen Lyrik schuf, war ein leidenschaftlicher Wortsammler. Auf seinen Reisen durch die Regionen Hamgyong, Pyongan und die Mandschurei fing er die heimatliche Mundart in lebendigen poetischen Erzählungen ein.\n\nIn einem kleinen Notizbuch hielt Baek Seok regionale Dialekte, Volkstumsbegriffe und alte Wörter fest, die ihm auf Märkten und von Dorfältesten überliefert wurden. Die poetische Sprache seiner Sammlung 'Der Hirsch' entsprang nicht bloßem Zufall, sondern einer akribisch aufgebauten 'Wortschatz-Datenbank'. Wie Ahn Do-hyuns Biografie bezeugt, war das Wortesammeln für Baek Seok eine kognitive Routine, um die Muttersprache in Kolonialzeiten zu bewahren und die eigene Ausdruckskraft zu maximieren.\n\nIm heutigen Beitrag stellen wir die kognitionswissenschaftlichen Prinzipien der Erweiterung des semantischen Gedächtnisses (Semantic Memory) und des semantischen Primings (Semantic Priming) in Baek Seoks Routine vor.",
-                "whyTitle": "Reichtum des Ausdrucks durch Erweiterung des semantischen Gedächtnisses und semantisches Priming",
-                "whyDesc": "Das Entdecken und Festhalten neuer Wörter oder prägnanter Ausdrücke erweitert das <strong>'semantische Gedächtnis (Semantic Memory)'</strong> des Gehirns und erzeugt einen starken <strong>'semantischen Priming-Effekt (Semantic Priming)'</strong>.\n\nDas Verlassen eines starren Wortschatzes zugunsten des Speicherns neuer Begriffe verdichtet das semantische Netzwerk (Semantic Network) im Temporal lappen. Dies erleichtert den schnellen Wortabruf (Lexical Retrieval) bei Konzeption oder Ausarbeitung und verbessert die präfrontale Ausdrucksfähigkeit erheblich.",
-                "cautionTitle": "Vermeiden Sie reine Wortlisten und erfassen Sie Kontext und Emotionen",
-                "cautionDesc": "Der Kern von Baek Seoks Wortsammlung bestand nicht im Notieren von Wörterbuchdefinitionen, sondern im Festhalten des situativen, emotionalen und visuellen Kontextes. Kontextlose Wörter werden im Gehirn nicht effektiv aktiviert; notieren Sie stets die emotionale Nuance zusammen mit dem Begriff.",
-                "steps": [
-                    {
-                        "title": "Prägnante Ausdrücke im Alltag und in Medien erfassen",
-                        "desc": "Halten Sie neuartige Wörter, bildhafte Metaphern oder treffende Formulierungen aus Gesprächen, Büchern oder Medien sofort fest."
-                    },
-                    {
-                        "title": "Wörter mit Kontext und Gefühl in Notizbüchern oder Apps notieren",
-                        "desc": "Schreiben Sie Wörter nicht isoliert auf; ergänzen Sie 1 bis 2 Zeilen zur Situation, zur emotionalen Wirkung oder zum visuellen Kontext."
-                    },
-                    {
-                        "title": "Wortschatz-Datenbank durchgehen und beim Schreiben anwenden",
-                        "desc": "Gehen Sie Ihre Wortsammlung regelmäßig durch, um Gedächtnisnetzwerke zu aktivieren und präzise Begriffe in Mails, Konzepten und Texten einzusetzen."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Hat das Sammeln von modernen Trendwörtern oder Werbesprüchen denselben Effekt wie das Sammeln von Dialekten?",
-                        "answer": "Ja, absolut. Der Kern von Baek Seoks Gewohnheit war der Aufbau eines eigenen Wortspeichers. Für moderne Berufstätige bietet das Sammeln von Markennamen, Copywriting-Phrasen oder Metaphern exakt dieselben kognitiven Vorteile für die Netzwerkerweiterung."
-                    },
-                    {
-                        "question": "Wie sollte ich meine Sammlung verwalten, wenn die Wortanzahl zu groß wird?",
-                        "answer": "Gliedern Sie Ihre Notizen in 3 bis 5 Ordner (z. B. Emotionale Nuancen, Metaphern, Überzeugende Formulierungen). Das Vergeben von Tags oder Kategorien erleichtert dem Präfrontalkortex das gezielte Abrufen passender Wörter im Bedarfsfall enorm."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "O Poder de Colecionar Palavras para uma Expressão Rica: A Rotina de Coleta de Vocabulário Nativo e Dialetos do Poeta Baek Seok",
-                "description": "O poeta Baek Seok reuniu meticulosamente palavras nativas em risco de desaparecimento e dialetos regionais em seu caderno para construir um rico acervo linguístico poético. Descubra hábitos de coleta de palavras que aprimoram a memória semântica e a recuperação léxica.",
-                "authority": "Arquivos do Museu Nacional Hangeul & Bancos de dados de textos originais do Chosun Ilbo e Munjang da década de 1930 & Biografia de Ahn Do-hyun 'Baek Seok Pyeongjeon' & Pesquisa em Neurociência Cognitiva sobre Expansão da Memória Semântica e Priming Semântico",
-                "intro": "\"A linguagem é um vaso que contém a emoção de um povo, e uma única palavra respira com o calor e a paisagem da vida.\" ✍️\n\nBaek Seok, um ícone moderno da década de 1930 que construiu uma das estéticas linguísticas mais originais e sensoriais da história da poesia coreana moderna, foi um apaixonado colecionador de palavras nativas. Vagando pelas regiões de Hamgyong, Pyongan e Manchúria, ele capturou a afetuosa linguagem vernácula de sua terra natal em vibrantes narrativas poéticas.\n\nBaek Seok registrava meticulosamente em um pequeno caderno dialetos regionais, terminologia folclórica e antigas palavras evocativas transmitidas oralmente pelo povo dos mercados e anciãos das aldeias. A dicção poética sofisticada de sua coletânea 'O Cervo' não nasceu de uma inspiração casual, mas de uma 'base de dados de vocabulário' acumulada em seus cadernos. Como atesta a biografia de Ahn Do-hyun, colecionar vocabulário era a rotina cognitiva de Baek Seok para preservar a língua materna durante a era colonial enquanto maximizava seu alcance expressivo.\n\nNo artigo de hoje, apresentamos os princípios neurocientíficos da expansão da Memória Semântica e do Priming Semântico presentes na rotina do poeta Baek Seok.",
-                "whyTitle": "Riqueza de Expressão Induzida pela Expansão da Memória Semântica e Priming Semântico",
-                "whyDesc": "Descobrir e registrar novas palavras ou expressões marcantes expande o sistema de <strong>'Memória Semântica (Semantic Memory)'</strong> do cérebro e gera um poderoso efeito de <strong>'Priming Semântico (Semantic Priming)'</strong>.\n\nSuperar um vocabulário fixo para armazenar termos inéditos densifica a rede semântica (Semantic Network) no lobo temporal. Isso facilita uma rápida recuperação léxica (Lexical Retrieval) do cérebro durante o planejamento ou escrita, elevando drasticamente a capacidade expressiva pré-frontal.",
-                "cautionTitle": "Evite Listas Simples de Palavras e Registre o Contexto e a Emoção",
-                "cautionDesc": "O cerne da coleta de Baek Seok não era anotar definições de dicionário, mas registrar o contexto situacional, emocional e sensorial em que as palavras eram usadas. Palavras sem contexto não são ativadas eficientemente nas redes neurais; anote sempre a nuance emocional junto com o termo.",
-                "steps": [
-                    {
-                        "title": "Capturar Expressões Marcantes na Vida Cotidiana e Conteúdos",
-                        "desc": "Capture imediatamente palavras inovadoras, metáforas vívidas ou frases marcantes encontradas em conversas, livros ou mídias."
-                    },
-                    {
-                        "title": "Registrar Palavras com Contexto e Emoção em Cadernos ou Apps",
-                        "desc": "Não escreva palavras isoladas; adicione 1 a 2 linhas descrevendo a cena, a emoção ou o contexto visual de sua aparição."
-                    },
-                    {
-                        "title": "Revisar a Base de Vocabulário e Aplicar na Escrita e Comunicação",
-                        "desc": "Revise periodicamente seu banco de palavras para ativar redes de memória, aplicando um vocabulário preciso em e-mails, projetos e textos."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Colecionar novos termos populares ou frases publicitárias gera o mesmo efeito que colecionar dialetos?",
-                        "answer": "Sim, com certeza. A essência do hábito de Baek Seok era construir um repositório de vocabulário pessoal e único. Para os profissionais modernos, reunir ideias de naming, frases marcantes ou metáforas produz exatamente os mesmos benefícios cognitivos para a rede semântica."
-                    },
-                    {
-                        "question": "Como devo gerenciar minha coleção se o volume de palavras se tornar excessivo?",
-                        "answer": "Organize suas notas em 3 a 5 pastas temáticas (ex. Nuances Emocionais, Descrições Metafóricas, Frases Persuasivas). Adicionar tags ou categorias facilita enormemente para o córtex pré-frontal resgatar palavras específicas quando necessário."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Kekuatan Mengumpulkan Kata untuk Ekspresi yang Kaya: Rutinitas Pengumpulan Kosakata dan Dialek Penyair Baek Seok",
-                "description": "Penyair Baek Seok mengumpulkan kata-kata asli dan dialek regional yang mulai menghilang ke dalam buku catatannya untuk membangun aset bahasa puitis yang kaya. Pelajari kebiasaan mengumpulkan kata yang meningkatkan memori semantik dan pemanggilan leksikal.",
-                "authority": "Arsip Museum Nasional Hangeul & Basis Data Teks Asli Chosun Ilbo dan Munjang Tahun 1930-an & Biografi Ahn Do-hyun 'Baek Seok Pyeongjeon' & Penelitian Neurosains Kognitif tentang Ekspansi Memori Semantik dan Priming Semantik",
-                "intro": "\"Bahasa adalah wadah yang menampung emosi suatu bangsa, dan satu kata bernapas dengan kehangatan dan pemandangan kehidupan.\" ✍️\n\nBaek Seok, ikon modern tahun 1930-an yang membangun estetika bahasa paling orisinal dalam sejarah puisi Korea modern, adalah seorang pengumpul kata-kata asli yang berdedikasi. Berkelana di wilayah Hamgyong, Pyongan, dan Manchuria, ia menangkap bahasa daerah yang hangat dari tanah airnya ke dalam narasi puitis yang hidup.\n\nBaek Seok mencatat secara teliti dialek daerah, istilah cerita rakyat, dan kata-kata kuno yang disampaikan secara lisan oleh masyarakat pasar dan tetua desa ke dalam buku catatan kecil. Diksi puitis yang canggih dalam kumpulan puisinya 'Rusa' bersumber dari 'basis data kosakata' yang terakumulasi di buku catatannya. Seperti yang dicatat dalam biografi Ahn Do-hyun, mengumpulkan kosakata adalah rutinitas kognitif Baek Seok untuk melestarikan bahasa ibunda di era kolonial sekaligus memaksimalkan jangkauan ekspresinya.\n\nDalam postingan hari ini, kami memperkenalkan prinsip-prinsip neurosains tentang ekspansi Memori Semantik dan Priming Semantik yang tertanam dalam rutinitas penyair Baek Seok.",
-                "whyTitle": "Kekayaan Ekspresi yang Dihasilkan dari Ekspansi Memori Semantik dan Priming Semantik",
-                "whyDesc": "Menemukan dan mencatat kata-kata baru atau ekspresi menarik memperluas sistem <strong>'Memori Semantik (Semantic Memory)'</strong> otak dan menghasilkan efek <strong>'Priming Semantik (Semantic Priming)'</strong> yang kuat.\n\nMelampaui kosakata yang kaku untuk menyimpan istilah-istilah baru akan memadatkan jaringan semantik (Semantic Network) di lobus temporal. Ini membantu pemanggilan leksikal yang cepat (Lexical Retrieval) dari otak saat merencanakan atau menulis, meningkatkan kemampuan ekspresi prefrontal secara drastis.",
-                "cautionTitle": "Hindari Daftar Kata Sederhana dan Catat Konteks Serta Emosinya",
-                "cautionDesc": "Inti dari pengumpulan kata Baek Seok bukanlah mencatat definisi kamus, melainkan merekam konteks situasi, emosi, dan visual tempat kata tersebut digunakan. Kata tanpa konteks tidak teraktivasi secara efektif dalam jaringan saraf; selalu catat nuansa emosional bersama istilah tersebut.",
-                "steps": [
-                    {
-                        "title": "Tangkap Ekspresi Berkesan dalam Kehidupan Sehari-hari dan Konten",
-                        "desc": "Segera tangkap kata-kata baru, metafora yang hidup, atau frasa menarik yang ditemui dalam percakapan, buku, media, atau papan tanda."
-                    },
-                    {
-                        "title": "Catat Kata Bersama Konteks Penggunaan dan Emosi di Buku Catatan atau Aplikasi",
-                        "desc": "Jangan menulis kata secara terisolasi; tambahkan 1 hingga 2 baris yang menggambarkan adegan, emosi, atau konteks visual kemunculannya."
-                    },
-                    {
-                        "title": "Tinjau Basis Data Kosakata dan Terapkan dalam Penulisan dan Komunikasi",
-                        "desc": "Tinjau bank kata Anda secara berkala untuk memicu jaringan memori, menerapkan kosakata yang presisi dalam email, proposal, dan tulisan."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apakah mengumpulkan istilah tren baru atau frasa periklanan memberikan efek yang sama dengan mengumpulkan dialek?",
-                        "answer": "Ya, tentu saja. Inti dari kebiasaan Baek Seok adalah membangun lumbung kosakata pribadi yang unik. Bagi profesional modern, mengumpulkan ide penamaan merek, frasa copywriting, atau metafora memberikan manfaat kognitif yang persis sama untuk ekspansi jaringan semantik."
-                    },
-                    {
-                        "question": "Bagaimana cara mengelola koleksi jika jumlah kata yang dikumpulkan menjadi terlalu banyak?",
-                        "answer": "Organisasikan catatan Anda ke dalam 3 hingga 5 folder kategori (misalnya, Nuansa Emosional, Deskripsi Metaforis, Frasa Persuasif). Memberikan tag atau kategori memudahkan korteks prefrontal untuk memanggil kata spesifik secara instan saat dibutuhkan."
-                    }
-                ]
-            }
-        }
+  "baekseok-vocabulary-collection": {
+    "pubDate": "2026-04-14",
+    "updatedDate": "2026-04-14",
+    "heroImage": "/images/blog/baekseok_vocabulary_collection.webp",
+    "locales": {
+      "ko": {
+        "title": "언어의 결을 살리는 수집의 힘: 백석 시인의 토속어·방언 '어휘 수집' 루틴",
+        "description": "시인 백석은 사라져가는 토속어와 방언을 수첩에 꼼꼼히 수집하여 자신만의 시적 언어 자산을 구축했습니다. 의미 기억 확장과 언어적 인출을 돕는 단어 수집 습관을 다룹니다.",
+        "authority": "국립한글박물관 및 1930년대 《조선일보》·《문장》 원문 데이터베이스 & 안도현 저 《백석 평전》(다산책방) & 의미 기억(Semantic Memory) 확장 및 의미적 점화(Semantic Priming) 뇌과학 연구",
+        "intro": "\"언어는 민족의 정서가 담긴 그릇이며, 단어 하나에 삶의 온도와 풍경이 스며 있다.\" ✍️\n\n1930년대 모던 보이이자 한국 현대시사에서 가장 독창적이고 감각적인 언어 미학을 구축한 시인, 백석(白石). 북관(함경도)과 서북 지방(평안도), 만주 일대를 유랑하며 고향의 정감 어린 언어를 다채로운 시적 서사로 완성해 낸 그는, 사라져가는 우리말과 토속어를 수첩에 모으는 열정적인 어휘 수집가였습니다.\n\n백석은 여행지와 일상에서 마주친 장터 사람들, 마을 어르신들의 입을 통해 전해지는 사투리와 민속 풍속어, 정감 어린 옛 단어들을 작은 수첩에 정성스럽게 기록했습니다. '여우난골족', '고주박이', '자식' 등 시집 《Deer》에 아로새겨진 세련되고 감각적인 시어들은 단순한 영감이 아닌, 수첩 속에 차곡차곡 쌓인 '어휘 데이터베이스'에서 시작되었습니다. 안도현의 평전 증언처럼, 백석에게 어휘 수집은 억압받던 시대 속에서 우리말의 숨결을 보존하고 자신의 언어적 외연을 극대화하는 인지적 루틴이자 창작의 자산이었습니다.\n\n오늘 포스트에서는 백석 시인의 토속어 수집 루틴에 담긴 의미 기억(Semantic Memory) 확장과 의미적 점화(Semantic Priming)의 뇌과학적 원리를 소개합니다.",
+        "whyTitle": "의미 기억 체계 확장과 의미적 점화 효과가 유도하는 표현의 풍부함",
+        "whyDesc": "새로운 단어나 인상적인 표현을 발견하고 기록하는 행위는 뇌의 <strong>'의미 기억(Semantic Memory)'</strong> 체계를 확장하고 <strong>'의미적 점화(Semantic Priming)'</strong> 효과를 발휘합니다.\n\n단순히 알고 있는 단어만 돌려쓰는 고착 상태에서 벗어나 낯설고 매력적인 어휘를 외부화하여 저장하면, 측두엽의 의미 네트워크(Semantic Network) 연관성이 치밀해집니다. 이는 기획이나 글쓰기 상황에서 원하는 단어를 빠르게 뇌에서 인출(Lexical Retrieval)하도록 도와주며, 전두엽의 표현력과 문장 구성 역량을 혁신적으로 향상시켜 줍니다.",
+        "cautionTitle": "단순한 단어 나열을 피하고 맥락과 감정을 함께 수집하세요",
+        "cautionDesc": "백석 시인의 어휘 수집 핵심은 사전적 정의만 적는 것이 아니라 그 단어가 쓰인 상황, 정서, 풍경의 맥락을 함께 기록하는 것입니다. 맥락이 상실된 단어 수집은 뇌에서 활성화되지 못하므로, 그 표현이 준 정감과 사용 맥락을 함께 적어두는 것이 핵심입니다.",
+        "steps": [
+          {
+            "title": "일상과 콘텐츠 속에서 마음을 흔드는 표현 포착하기",
+            "desc": "대화, 책, 영화, 길거리 간판 등에서 감각적이거나 낯선 단어, 근사한 문장을 발견했을 때 즉시 포착합니다."
+          },
+          {
+            "title": "수첩이나 메모 앱에 단어와 함께 사용 맥락·감정 기록하기",
+            "desc": "단어 자체만 적지 말고, 그 단어가 쓰였던 상황, 느꼈던 감정이나 이미지적 맥락을 1~2줄로 함께 기록합니다."
+          },
+          {
+            "title": "수집된 어휘 데이터베이스를 재검토하여 커뮤니케이션 및 글쓰기에 적용하기",
+            "desc": "주기적으로 단어장을 펼쳐보며 기억을 점화시키고, 이메일, 기획서, SNS 글쓰기 시 적재적소에 어휘를 활용해 표현의 폭을 넓힙니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "방언이나 낯선 단어 대신 트렌디한 신조어나 카피 문구를 수집해도 동일한 효과가 있나요?",
+            "answer": "네, 완벽히 동일합니다. 백석이 방언을 수집한 본질은 '자신만의 독창적 어휘 창고를 구축하는 것'이었습니다. 현대인에게는 브랜드 네이밍, 카피라이팅, 감각적인 비유 표현이나 신조어 수집이 의미 네트워크 확장과 표현력 향상에 동일한 인지적 효과를 제공합니다."
+          },
+          {
+            "question": "수집한 단어가 너무 많아져 정리하기 힘들 때는 어떻게 해야 하나요?",
+            "answer": "카테고리별(예: 감정 표현, 비유적 묘사, 설득/카피 문구)로 3~5개 폴더를 나누어 기록하는 것이 좋습니다. 백석 시인이 정교하게 어휘를 모았듯, 수집된 어휘에 태그나 카테고리를 부여하면 필요할 때 전두엽에서 단어를 즉각 인출하기가 훨씬 쉬워집니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "The Power of Collecting Words for Rich Expression: Poet Baek Seok's Native Vocabulary & Dialect Collection Routine",
+        "description": "Poet Baek Seok meticulously gathered disappearing native words and regional dialects in his notebook to build a rich poetic language asset. Discover word collection habits that enhance semantic memory expansion and lexical retrieval.",
+        "authority": "National Hangeul Museum Archives & 1930s Chosun Ilbo and Munjang Original Text Databases & Ahn Do-hyun's Biography 'Baek Seok Pyeongjeon' (Dasan Books) & Cognitive Neuroscience Research on Semantic Memory Expansion and Semantic Priming",
+        "intro": "\"Language is a vessel holding a nation's emotion, and a single word breathes with the warmth and scenery of life.\" ✍️\n\nBaek Seok, a modern icon of the 1930s who built one of the most original and sensory language aesthetics in modern Korean poetry history, was a passionate collector of native words. Wandering through the Hamgyong, Pyongan, and Manchurian regions, he captured the warm, affectionate vernacular of his homeland into vibrant poetic narratives.\n\nBaek Seok meticulously recorded in a small notebook regional dialects, folklore terminology, and evocative ancient words passed down orally by marketplace folks and village elders. Sophisticated, sensory poetic diction embedded in his collection 'Deer' originated not from random inspiration, but from a structured 'vocabulary database' accumulated in his notebooks. As attested in Ahn Do-hyun's biography, collecting vocabulary was Baek Seok's cognitive routine and creative asset to preserve the breath of native language during an oppressive colonial era while maximizing his linguistic reach.\n\nIn today's post, we introduce the neuroscientific principles of Semantic Memory expansion and Semantic Priming embedded in poet Baek Seok's native vocabulary collection routine.",
+        "whyTitle": "Richness of Expression Induced by Semantic Memory Expansion and Semantic Priming",
+        "whyDesc": "Discovering and recording new words or striking expressions expands the brain's <strong>'Semantic Memory'</strong> system and induces a powerful <strong>'Semantic Priming'</strong> effect.\n\nMoving beyond a fixed vocabulary state to externalize and store novel, compelling diction dense-packs the semantic network (Semantic Network) in the temporal lobe. This aids rapid lexical retrieval (Lexical Retrieval) from the brain during planning or writing, dramatically elevating prefrontal expressiveness and sentence construction capabilities.",
+        "cautionTitle": "Avoid Simple Word Lists and Collect Context and Emotion Together",
+        "cautionDesc": "The core of Baek Seok's vocabulary collection was not listing dictionary definitions, but recording the situational, emotional, and sensory context where words were used. Contextless word lists fail to activate properly in neural networks, so always note the emotional nuance and usage context alongside the word.",
+        "steps": [
+          {
+            "title": "Capture Moving Expressions in Daily Life and Content",
+            "desc": "Immediately capture evocative or novel words, vivid metaphors, or striking phrases encountered in conversations, books, media, or street signs."
+          },
+          {
+            "title": "Record Words with Usage Context and Emotion in Notebooks or Apps",
+            "desc": "Do not write words in isolation; record 1 to 2 lines capturing the scenario, emotional resonance, or visual context in which the word appeared."
+          },
+          {
+            "title": "Review Vocabulary Database and Apply to Writing and Communication",
+            "desc": "Periodically review your word bank to prime memory networks, deploying precise vocabulary into emails, project proposals, and creative writing."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Does collecting trendy new terms or copywriting phrases yield the same effect as collecting dialects?",
+            "answer": "Yes, absolutely. The essence of Baek Seok's habit was building a personal, unique vocabulary reservoir. For modern professionals, gathering brand naming ideas, copywriting phrases, or evocative metaphors delivers the exact same cognitive benefits for semantic network expansion and expressive fluency."
+          },
+          {
+            "question": "How should I manage my collection if the number of gathered words becomes overwhelming?",
+            "answer": "Organize your notes into 3 to 5 categorical folders (e.g., Emotional Nuances, Metaphorical Descriptions, Persuasive Copy). Applying tags or categories to your vocabulary database makes it significantly easier for the prefrontal cortex to retrieve specific words instantly when needed."
+          }
+        ]
+      },
+      "zh": {
+        "title": "赋予语言纹理的收集之力：诗人白石的土语·方言“词汇收集”惯例",
+        "description": "诗人白石在笔记本中细致地搜集逐渐消失的土语与方言，构建了属于自己的诗意语言资产。探索有助于扩展语义记忆与词汇调取的词汇收集习惯。",
+        "authority": "韩国国立韩文博物馆及1930年代《朝鲜日报》·《文章》原文数据库 & 安度玹著《白石平传》（多山茶房） & 语义记忆（Semantic Memory）扩展与语义启动（Semantic Priming）认知神经科学研究",
+        "intro": "“语言是盛载民族情感的容器，单单一个词汇里便浸润着生活的温度与风景。” ✍️\n\n作为20世纪30年代的摩登青年以及韩国现代诗歌史上构建了最独特、敏锐语言美学的诗人——白石（Baek Seok）。他在咸镜道、平安道及满洲一带流浪，将故乡富于温情的语言化作丰富多彩的诗意叙事，是一位热忱的词汇收集家。\n\n白石将旅行途中的集市人群、村庄长者口口相传的方言、民俗风物词及富于情致的古老词汇，认认真真地记录在随身的小笔记本上。刻印在其代表作诗集《鹿》中典雅而敏锐的诗语，并非源于偶然的灵感，而是始于笔记本里一点一滴沉淀下来的“词汇数据库”。正如安度玹平传所述，对白石而言，搜集词汇是在压抑的时代里保存母语呼吸、将自身语言外延最大化的认知惯例与创作资产。\n\n在今天的文章中，我们将介绍白石诗人的土语搜集惯例中蕴含的语义记忆（Semantic Memory）扩展与语义启动（Semantic Priming）的脑科学原理。",
+        "whyTitle": "语义记忆体系扩展与语义启动效应带来的丰富表达力",
+        "whyDesc": "发现并记录新词汇或令人印象深刻的表达，在脑科学上会扩展大脑的<strong>“语义记忆（Semantic Memory）”</strong>体系，并产生强烈的<strong>“语义启动（Semantic Priming）”</strong>效应。\n\n摆脱仅重复使用既有词汇的固化状态，将陌生而有魅力的词汇外部化储存，会使颞叶的语义网络（Semantic Network）关联更加紧密。这有助于在策划或写作时从大脑中迅速调取（Lexical Retrieval）所需词汇，显著提升前额叶的表达力与句子构筑能力。",
+        "cautionTitle": "避免单纯罗列词汇，连同语境与情感一并收集",
+        "cautionDesc": "白石词汇收集的核心并非仅仅抄写字典定义，而是记录该词汇使用时的场景、情感与风景语境。失去语境的词汇很难在大脑网络中被有效激活，因此记录下该表达带来的情致与使用上下文才是关键所在。",
+        "steps": [
+          {
+            "title": "在日常与内容中捕捉触动心灵的表达",
+            "desc": "在对话、书籍、电影或街头招牌中发现生动、新颖的词汇或精彩语句时，立即予以捕捉。"
+          },
+          {
+            "title": "在笔记本或备忘录App中记录词汇及其使用语境与情感",
+            "desc": "不要孤立地只写词汇本身，用1~2行文字记录下该词汇出现的场景、感受到的情绪或视觉语境。"
+          },
+          {
+            "title": "复盘收集的词汇数据库并应用于沟通与写作",
+            "desc": "定期翻阅词汇本以启动记忆网络，在撰写邮件、策划案或社交媒体文案时恰如其分地运用，拓宽表达广度。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "收集流行的网络新词或广告文案句，是否具有与搜集方言相同的效果？",
+            "answer": "是的，完全相同。白石搜集方言的本质在于“构建属于自己的独特词汇库”。对于现代人而言，搜集品牌命名、文案金句、敏锐的比喻表达或新词，在扩展语义网络与提升表达流畅度上具有完全相同的认知效应。"
+          },
+          {
+            "question": "搜集的词汇过多导致难以整理时该如何处理？",
+            "answer": "建议按类别（如：情感表达、比喻描写、说服/文案语句）划分为3~5个文件夹进行记录。正如白石细致整理词汇一样，为收集的词汇打上标签或分类，能让前额叶在需要时更轻松地即时调取词汇。"
+          }
+        ]
+      },
+      "ja": {
+        "title": "言葉のきめを活かす収集の力：詩人・白石（ペク・ソク）のお国言葉・方言「語彙収集」ルーティン",
+        "description": "詩人の白石は、失われつつあるお国言葉や方言を手帳に丁寧に収集し、独自の詩的言語資産を構築しました。意味記憶の拡張と言語的引き出しを助ける単語収集習慣をご紹介します。",
+        "authority": "国立ハングル博物館および1930年代『朝鮮日報』・『文章』原文データベース ＆ 安度眩（アン・ドヒョン）著『白石評伝』 ＆ 意味記憶（Semantic Memory）拡張および意味的プライミング（Semantic Priming）の脳科学研究",
+        "intro": "「言語は民族の情緒が込められた器であり、たった一つの単語にも生の温度と風景が染み込んでいる。」 ✍️\n\n1930年代のモダンボーイであり、韓国現代詩史上最も独創的で感覚的な言語美学を構築した詩人、白石（ペク・ソク）。咸鏡道や平安道、満州一帯を放浪し、故郷の温かみあふれる言葉を多彩な詩的叙事へと結実させた彼は、失われゆく母国語とお国言葉を手帳に集める情熱的な語彙収集家でした。\n\n白石は旅先や日常で出会った市場の人々、村の長老たちの口から伝わる方言や民俗風俗語、情味あふれる古い単語を小さな手帳に心を込めて記録しました。詩集『鹿』に刻まれた洗練された感覚的な詩語は、単なるインスピレーションではなく、手帳の中にコツコツと蓄積された「語彙データベース」から始まりました。安度眩の評伝の証言のように、白石にとって語彙の収集は、抑圧された時代の中で母国語の息吹を保存し、自身の言語的外縁を極大化する認知的ルーティンであり創作の資産でした。\n\n本日の記事では、詩人・白石のお国言葉収集ルーティンに隠された意味記憶（Semantic Memory）拡張と意味的プライミング（Semantic Priming）の脳科学的原理をご紹介します。",
+        "whyTitle": "意味記憶体系の拡張と意味的プライミング効果が導く表現の豊かさ",
+        "whyDesc": "新しい単語や印象的な表現を発見して記録する行為は、脳の<strong>「意味記憶（Semantic Memory）」</strong>体系を拡張し、強力な<strong>「意味的プライミング（Semantic Priming）」</strong>効果を発揮します。\n\n単に知っている単語だけを使い回す固着状態から抜け出し、慣れない魅力的な語彙を外部化して保存すると、側頭葉の意味ネットワーク（Semantic Network）の関連性が緻密になります。これは企画や執筆の際に望む単語を脳から迅速に引き出す（Lexical Retrieval）助けとなり、前頭葉の表現力と文章構成能力を革新的に向上させてくれます。",
+        "cautionTitle": "単なる単語の羅列を避け、文脈と感情を一緒に収集してください",
+        "cautionDesc": "白石の語彙収集の核心は、辞書的な定義だけを書き留めるのではなく、その単語が使われた状況、情緒、風景の文脈を一緒に記録することにあります。文脈が失われた単語収集は脳内で効果的に活性化されないため、その表現が与えた情味と使用文脈を添えて書き留めることが鍵となります。",
+        "steps": [
+          {
+            "title": "日常やコンテンツの中から心揺さぶる表現を捉える",
+            "desc": "会話、本、映画、街頭の看板などから感覚的・斬新な単語や魅力的なフレーズを発見した際、即座に捉えます。"
+          },
+          {
+            "title": "手帳やメモアプリに単語とともに使用文脈・感情を記録する",
+            "desc": "単語単体だけを記すのではなく、その単語が使われた状況、感じた感情や視覚的文脈を1〜2行で一緒に記録します。"
+          },
+          {
+            "title": "収集された語彙データベースを再検証しコミュニケーションや執筆に適用する",
+            "desc": "定期的に単語帳を開いて記憶をプライミングさせ、メール、企画書、SNS執筆時に適材適所で語彙を活用して表現の幅を広げます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "方言や珍しい単語の代わりにトレンディな新語やコピーのフレーズを収集しても同じ効果が得られますか？",
+            "answer": "はい、完全に同じです。白石が方言を収集した本質は「自分だけの独創的な語彙倉庫を構築すること」にありました。現代人にとってネーミング、コピーライティング、感覚的な比喩表現や新語の収集は、意味ネットワークの拡張と表現力向上においてまったく同じ認知的効果をもたらします。"
+          },
+          {
+            "question": "収集した単語が多くなりすぎて整理が難しくなった場合はどうすればよいですか？",
+            "answer": "カテゴリー別（例：感情表現、比喩的描写、説得/コピー表現）に3〜5個のフォルダに分けて記録することをお勧めします。白石が精緻に語彙を集めたように、収集した語彙にタグやカテゴリーを付与することで、必要な時に前頭葉から単語を即座に引き出しやすくなります。"
+          }
+        ]
+      },
+      "es": {
+        "title": "El Poder de Coleccionar Palabras para una Expresión Rica: La Rutina de Recopilación de Vocabulario Nativo y Dialectos del Poeta Baek Seok",
+        "description": "El poeta Baek Seok recopiló meticulosamente palabras nativas en peligro de desaparición y dialectos regionales en su cuaderno para construir un rico activo lingüístico poético. Descubra hábitos de recolección de palabras que potencian la memoria semántica y la recuperación léxica.",
+        "authority": "Archivos del Museo Nacional Hangeul & Bases de datos de textos originales de Chosun Ilbo y Munjang de los años 1930 & Biografía de Ahn Do-hyun 'Baek Seok Pyeongjeon' e Investigación en Neurociencia Cognitiva sobre la Expansión de la Memoria Semántica y la Primación Semántica",
+        "intro": "\"El lenguaje es un recipiente que contiene la emoción de un pueblo, y una sola palabra respira con la calidez y el paisaje de la vida.\" ✍️\n\nBaek Seok, un ícono moderno de la década de 1930 que construyó una de las estéticas lingüísticas más originales y sensoriales en la historia de la poesía coreana moderna, fue un apasionado coleccionista de palabras nativas. Deambulando por las regiones de Hamgyong, Pyongan y Manchuria, plasmó el afectuoso lenguaje vernáculo de su tierra natal en vibrantes narrativas poéticas.\n\nBaek Seok registraba meticulosamente en un pequeño cuaderno dialectos regionales, terminología del folclore y evocadoras palabras antiguas transmitidas oralmente por la gente de los mercados y los ancianos de las aldeas. La dicción poética sofisticada y sensorial de su colección 'El Ciervo' no nació de una inspiración fortuita, sino de una 'base de datos de vocabulario' acumulada paso a paso en sus cuadernos. Como atestigua la biografía de Ahn Do-hyun, coleccionar vocabulario era la rutina cognitiva de Baek Seok para preservar el aliento de la lengua materna durante la era colonial al tiempo que maximizaba su alcance expresivo.\n\nEn la publicación de hoy, presentamos los principios neurocientíficos de la expansión de la Memoria Semántica y la Primación Semántica presentes en la rutina de recolección de vocabulario del poeta Baek Seok.",
+        "whyTitle": "Riqueza de Expresión Inducida por la Expansión de la Memoria Semántica y la Primación Semántica",
+        "whyDesc": "Descubrir y registrar nuevas palabras o expresiones impactantes expande el sistema de <strong>'Memoria Semántica (Semantic Memory)'</strong> del cerebro y genera un poderoso efecto de <strong>'Primación Semántica (Semantic Priming)'</strong>.\n\nSuperar un estado de vocabulario fijo para externalizar y almacenar términos novedosos densifica la red semántica (Semantic Network) en el lóbulo temporal. Esto facilita una rápida recuperación léxica (Lexical Retrieval) del cerebro durante la planificación o escritura, elevando drásticamente la capacidad expresiva prefrontal.",
+        "cautionTitle": "Evite Listas Simples de Palabras y Recopile el Contexto y la Emoción",
+        "cautionDesc": "El núcleo de la recolección de Baek Seok no era anotar definiciones de diccionario, sino registrar el contexto situacional, emocional y sensorial en que se usaban las palabras. Las palabras sin contexto no se activan eficazmente en las redes neuronales; anote siempre el matiz emocional junto con el término.",
+        "steps": [
+          {
+            "title": "Capturar Expresiones Evocadoras en la Vida Cotidiana y Contenidos",
+            "desc": "Capture de inmediato palabras novedosas, metáforas vívidas o frases impactantes encontradas en conversaciones, libros, medios o carteles."
+          },
+          {
+            "title": "Registrar Palabras con Contexto y Emoción en Cuadernos o Aplicaciones",
+            "desc": "No escriba palabras aisladas; anote de 1 a 2 líneas que capten la escena, la resonancia emocional o el contexto visual donde apareció la palabra."
+          },
+          {
+            "title": "Revisar la Base de Datos de Vocabulario y Aplicar en la Escritura",
+            "desc": "Revise periódicamente su banco de palabras para activar las redes de memoria, aplicando un vocabulario preciso en correos, propuestas y escritos creativos."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Coleccionar nuevos términos populares o frases publicitarías genera el mismo efecto que coleccionar dialectos?",
+            "answer": "Sí, absolutamente. La esencia del hábito de Baek Seok era construir un depósito de vocabulario personal e único. Para los profesionales modernos, recopilar ideas de naming, frases de copywriting o metáforas evocadoras produce exactamente los mismos beneficios cognitivos para la red semántica."
+          },
+          {
+            "question": "¿Cómo debo gestionar mi colección si el volumen de palabras recopiladas se vuelve abrumador?",
+            "answer": "Organice sus notas en 3 a 5 carpetas categóricas (ej. Matices Emocionales, Descripciones Metafóricas, Frases Persuasivas). Aplicar etiquetas o categorías facilita enormemente que la corteza prefrontal recupere palabras específicas cuando las necesite."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Le pouvoir de la collecte de mots pour une expression riche : La routine de collecte de vocabulaire natif et dialectes du poète Baek Seok",
+        "description": "Le poète Baek Seok recueillait méticuleusement les mots natifs en voie de disparition et les dialectes régionaux dans son carnet pour se constituer un riche patrimoine linguistique. Découvrez des habitudes de collecte de mots qui favorisent l'expansion de la mémoire sémantique et la récupération lexicale.",
+        "authority": "Archives du Musée National du Hangeul & Bases de données des textes originaux de Chosun Ilbo et Munjang des années 1930 & Biographie d'Ahn Do-hyun 'Baek Seok Pyeongjeon' & Recherche en Neurosciences Cognitives sur l'Expansion de la Mémoire Sémantique et l'Amorçage Sémantique",
+        "intro": "« La langue est un vase contenant l'émotion d'un peuple, et un seul mot respire la chaleur et le paysage de la vie. » ✍️\n\nBaek Seok, icône moderne des années 1930 ayant bâti l'une des esthétiques linguistiques les plus originales et sensorielles de l'histoire de la poésie coréenne moderne, était un passionné de collecte de mots natifs. Parcourant les régions de Hamgyong, Pyongan et la Mandchourie, il a immortalisé la langue vernaculaire chaleureuse de sa patrie dans de vibrants récits poétiques.\n\nBaek Seok notait méticuleusement dans un petit carnet les dialectes régionaux, le vocabulaire folklorique et les termes anciens transmis oralement par les gens des marchés et les aînés. La diction poétique raffinée de son recueil 'Le Cerf' ne découlait pas d'une inspiration fortuite, mais d'une 'base de données de vocabulaire' accumulée dans ses carnets. Comme le confirme la biographie d'Ahn Do-hyun, collecter le vocabulaire était la routine cognitive de Baek Seok pour préserver le souffle de la langue maternelle durant l'ère coloniale tout en démultipliant sa portée expressive.\n\nDans l'article d'aujourd'hui, nous présentons les principes de neurosciences cognitives de l'expansion de la Mémoire Sémantique et de l'Amorçage Sémantique ancrés dans la routine du poète Baek Seok.",
+        "whyTitle": "Richesse d'expression induite par l'expansion de la mémoire sémantique et l'amorçage sémantique",
+        "whyDesc": "Découvrir et enregistrer de nouveaux mots ou expressions marquantes élargit le système de <strong>« Mémoire Sémantique (Semantic Memory) »</strong> du cerveau et induit un puissant effet d'<strong>« Amorçage Sémantique (Semantic Priming) »</strong>.\n\nDépasser un vocabulaire figé pour externaliser des termes inédits densifie le réseau sémantique (Semantic Network) dans le lobe temporal. Cela facilite la récupération lexicale rapide (Lexical Retrieval) lors de la planification ou de la rédaction, élevant considérablement les capacités d'expression du cortex préfrontal.",
+        "cautionTitle": "Évitez les simples listes de mots et collectez le contexte et l'émotion",
+        "cautionDesc": "Le cœur de la méthode de Baek Seok n'était pas de recopier des définitions de dictionnaire, mais d'enregistrer le contexte situationnel, émotionnel et visuel dans lequel le mot était employé. Des mots sans contexte ne s'activent pas efficacement dans les réseaux neuronaux ; notez toujours la nuance émotionnelle avec le terme.",
+        "steps": [
+          {
+            "title": "Capturer les Expressions Évocatrices dans la Vie Quotidienne et les Contenus",
+            "desc": "Saisissez immédiatement les mots nouveaux, les métaphores captivantes ou les phrases marquantes croisés dans des conversations, livres ou médias."
+          },
+          {
+            "title": "Consigner les Mots avec leur Contexte et Émotion dans un Carnet ou une App",
+            "desc": "Ne notez pas les mots de façon isolée ; rédigez 1 à 2 lignes décrivant la scène, l'émotion ou le contexte visuel de leur apparition."
+          },
+          {
+            "title": "Revoir la Base de Vocabulaire et l'Appliquer à la Rédaction et la Communication",
+            "desc": "Consultez régulièrement votre banque de mots pour amorcer vos réseaux de mémoire et employer un vocabulaire précis dans vos écrits."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Collecter des néologismes à la mode ou des formules de rédaction publicitaire a-t-il le même effet que collecter des dialectes ?",
+            "answer": "Oui, tout à fait. L'essence de l'habitude de Baek Seok consistait à bâtir un réservoir de vocabulaire personnel et unique. Pour les professionnels modernes, rassembler des idées de naming, formules accrocheuses ou métaphores produit exactement les mêmes bénéfices cognitifs pour le réseau sémantique."
+          },
+          {
+            "question": "Comment gérer ma collection si le volume de mots devient trop important ?",
+            "answer": "Organisez vos notes en 3 à 5 dossiers thématiques (ex. Nuances Émotionnelles, Métaphores, Formules Persuasives). Ajouter des étiquettes ou catégories permet au cortex préfrontal de retrouver instantanément les mots précis en cas de besoin."
+          }
+        ]
+      },
+      "de": {
+        "title": "Die Macht des Wortesammelns für reichen Ausdruck: Dichter Baek Seoks Routine zur Erfassung von Dialekten und Wortschatz",
+        "description": "Der Dichter Baek Seok sammelte verschwindende heimatliche Wörter und regionale Dialekte akribisch in Notizbüchern, um einen reichen sprachlichen Schatz aufzubauen. Entdecken Sie Wortsammlungsgewohnheiten, die das semantische Gedächtnis und den Wortabruf stärken.",
+        "authority": "Nationales Hangeul-Museum Archiv & 1930er Chosun Ilbo und Munjang Originaltext-Datenbanken & Ahn Do-hyuns Biografie 'Baek Seok Pyeongjeon' & Kognitionspsychologische Forschung zu semantischer Gedächtniserweiterung und semantischem Priming",
+        "intro": "\"Sprache ist ein Gefäß für das Gefühl eines Volkes, und in einem einzigen Wort atmet die Wärme und Landschaft des Lebens.\" ✍️\n\nBaek Seok, eine moderne Ikone der 1930er Jahre, der eine der originellsten Sprachästhetiken der modernen koreanischen Lyrik schuf, war ein leidenschaftlicher Wortsammler. Auf seinen Reisen durch die Regionen Hamgyong, Pyongan und die Mandschurei fing er die heimatliche Mundart in lebendigen poetischen Erzählungen ein.\n\nIn einem kleinen Notizbuch hielt Baek Seok regionale Dialekte, Volkstumsbegriffe und alte Wörter fest, die ihm auf Märkten und von Dorfältesten überliefert wurden. Die poetische Sprache seiner Sammlung 'Der Hirsch' entsprang nicht bloßem Zufall, sondern einer akribisch aufgebauten 'Wortschatz-Datenbank'. Wie Ahn Do-hyuns Biografie bezeugt, war das Wortesammeln für Baek Seok eine kognitive Routine, um die Muttersprache in Kolonialzeiten zu bewahren und die eigene Ausdruckskraft zu maximieren.\n\nIm heutigen Beitrag stellen wir die kognitionswissenschaftlichen Prinzipien der Erweiterung des semantischen Gedächtnisses (Semantic Memory) und des semantischen Primings (Semantic Priming) in Baek Seoks Routine vor.",
+        "whyTitle": "Reichtum des Ausdrucks durch Erweiterung des semantischen Gedächtnisses und semantisches Priming",
+        "whyDesc": "Das Entdecken und Festhalten neuer Wörter oder prägnanter Ausdrücke erweitert das <strong>'semantische Gedächtnis (Semantic Memory)'</strong> des Gehirns und erzeugt einen starken <strong>'semantischen Priming-Effekt (Semantic Priming)'</strong>.\n\nDas Verlassen eines starren Wortschatzes zugunsten des Speicherns neuer Begriffe verdichtet das semantische Netzwerk (Semantic Network) im Temporal lappen. Dies erleichtert den schnellen Wortabruf (Lexical Retrieval) bei Konzeption oder Ausarbeitung und verbessert die präfrontale Ausdrucksfähigkeit erheblich.",
+        "cautionTitle": "Vermeiden Sie reine Wortlisten und erfassen Sie Kontext und Emotionen",
+        "cautionDesc": "Der Kern von Baek Seoks Wortsammlung bestand nicht im Notieren von Wörterbuchdefinitionen, sondern im Festhalten des situativen, emotionalen und visuellen Kontextes. Kontextlose Wörter werden im Gehirn nicht effektiv aktiviert; notieren Sie stets die emotionale Nuance zusammen mit dem Begriff.",
+        "steps": [
+          {
+            "title": "Prägnante Ausdrücke im Alltag und in Medien erfassen",
+            "desc": "Halten Sie neuartige Wörter, bildhafte Metaphern oder treffende Formulierungen aus Gesprächen, Büchern oder Medien sofort fest."
+          },
+          {
+            "title": "Wörter mit Kontext und Gefühl in Notizbüchern oder Apps notieren",
+            "desc": "Schreiben Sie Wörter nicht isoliert auf; ergänzen Sie 1 bis 2 Zeilen zur Situation, zur emotionalen Wirkung oder zum visuellen Kontext."
+          },
+          {
+            "title": "Wortschatz-Datenbank durchgehen und beim Schreiben anwenden",
+            "desc": "Gehen Sie Ihre Wortsammlung regelmäßig durch, um Gedächtnisnetzwerke zu aktivieren und präzise Begriffe in Mails, Konzepten und Texten einzusetzen."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Hat das Sammeln von modernen Trendwörtern oder Werbesprüchen denselben Effekt wie das Sammeln von Dialekten?",
+            "answer": "Ja, absolut. Der Kern von Baek Seoks Gewohnheit war der Aufbau eines eigenen Wortspeichers. Für moderne Berufstätige bietet das Sammeln von Markennamen, Copywriting-Phrasen oder Metaphern exakt dieselben kognitiven Vorteile für die Netzwerkerweiterung."
+          },
+          {
+            "question": "Wie sollte ich meine Sammlung verwalten, wenn die Wortanzahl zu groß wird?",
+            "answer": "Gliedern Sie Ihre Notizen in 3 bis 5 Ordner (z. B. Emotionale Nuancen, Metaphern, Überzeugende Formulierungen). Das Vergeben von Tags oder Kategorien erleichtert dem Präfrontalkortex das gezielte Abrufen passender Wörter im Bedarfsfall enorm."
+          }
+        ]
+      },
+      "pt": {
+        "title": "O Poder de Colecionar Palavras para uma Expressão Rica: A Rotina de Coleta de Vocabulário Nativo e Dialetos do Poeta Baek Seok",
+        "description": "O poeta Baek Seok reuniu meticulosamente palavras nativas em risco de desaparecimento e dialetos regionais em seu caderno para construir um rico acervo linguístico poético. Descubra hábitos de coleta de palavras que aprimoram a memória semântica e a recuperação léxica.",
+        "authority": "Arquivos do Museu Nacional Hangeul & Bancos de dados de textos originais do Chosun Ilbo e Munjang da década de 1930 & Biografia de Ahn Do-hyun 'Baek Seok Pyeongjeon' & Pesquisa em Neurociência Cognitiva sobre Expansão da Memória Semântica e Priming Semântico",
+        "intro": "\"A linguagem é um vaso que contém a emoção de um povo, e uma única palavra respira com o calor e a paisagem da vida.\" ✍️\n\nBaek Seok, um ícone moderno da década de 1930 que construiu uma das estéticas linguísticas mais originais e sensoriais da história da poesia coreana moderna, foi um apaixonado colecionador de palavras nativas. Vagando pelas regiões de Hamgyong, Pyongan e Manchúria, ele capturou a afetuosa linguagem vernácula de sua terra natal em vibrantes narrativas poéticas.\n\nBaek Seok registrava meticulosamente em um pequeno caderno dialetos regionais, terminologia folclórica e antigas palavras evocativas transmitidas oralmente pelo povo dos mercados e anciãos das aldeias. A dicção poética sofisticada de sua coletânea 'O Cervo' não nasceu de uma inspiração casual, mas de uma 'base de dados de vocabulário' acumulada em seus cadernos. Como atesta a biografia de Ahn Do-hyun, colecionar vocabulário era a rotina cognitiva de Baek Seok para preservar a língua materna durante a era colonial enquanto maximizava seu alcance expressivo.\n\nNo artigo de hoje, apresentamos os princípios neurocientíficos da expansão da Memória Semântica e do Priming Semântico presentes na rotina do poeta Baek Seok.",
+        "whyTitle": "Riqueza de Expressão Induzida pela Expansão da Memória Semântica e Priming Semântico",
+        "whyDesc": "Descobrir e registrar novas palavras ou expressões marcantes expande o sistema de <strong>'Memória Semântica (Semantic Memory)'</strong> do cérebro e gera um poderoso efeito de <strong>'Priming Semântico (Semantic Priming)'</strong>.\n\nSuperar um vocabulário fixo para armazenar termos inéditos densifica a rede semântica (Semantic Network) no lobo temporal. Isso facilita uma rápida recuperação léxica (Lexical Retrieval) do cérebro durante o planejamento ou escrita, elevando drasticamente a capacidade expressiva pré-frontal.",
+        "cautionTitle": "Evite Listas Simples de Palavras e Registre o Contexto e a Emoção",
+        "cautionDesc": "O cerne da coleta de Baek Seok não era anotar definições de dicionário, mas registrar o contexto situacional, emocional e sensorial em que as palavras eram usadas. Palavras sem contexto não são ativadas eficientemente nas redes neurais; anote sempre a nuance emocional junto com o termo.",
+        "steps": [
+          {
+            "title": "Capturar Expressões Marcantes na Vida Cotidiana e Conteúdos",
+            "desc": "Capture imediatamente palavras inovadoras, metáforas vívidas ou frases marcantes encontradas em conversas, livros ou mídias."
+          },
+          {
+            "title": "Registrar Palavras com Contexto e Emoção em Cadernos ou Apps",
+            "desc": "Não escreva palavras isoladas; adicione 1 a 2 linhas descrevendo a cena, a emoção ou o contexto visual de sua aparição."
+          },
+          {
+            "title": "Revisar a Base de Vocabulário e Aplicar na Escrita e Comunicação",
+            "desc": "Revise periodicamente seu banco de palavras para ativar redes de memória, aplicando um vocabulário preciso em e-mails, projetos e textos."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Colecionar novos termos populares ou frases publicitárias gera o mesmo efeito que colecionar dialetos?",
+            "answer": "Sim, com certeza. A essência do hábito de Baek Seok era construir um repositório de vocabulário pessoal e único. Para os profissionais modernos, reunir ideias de naming, frases marcantes ou metáforas produz exatamente os mesmos benefícios cognitivos para a rede semântica."
+          },
+          {
+            "question": "Como devo gerenciar minha coleção se o volume de palavras se tornar excessivo?",
+            "answer": "Organize suas notas em 3 a 5 pastas temáticas (ex. Nuances Emocionais, Descrições Metafóricas, Frases Persuasivas). Adicionar tags ou categorias facilita enormemente para o córtex pré-frontal resgatar palavras específicas quando necessário."
+          }
+        ]
+      },
+      "id": {
+        "title": "Kekuatan Mengumpulkan Kata untuk Ekspresi yang Kaya: Rutinitas Pengumpulan Kosakata dan Dialek Penyair Baek Seok",
+        "description": "Penyair Baek Seok mengumpulkan kata-kata asli dan dialek regional yang mulai menghilang ke dalam buku catatannya untuk membangun aset bahasa puitis yang kaya. Pelajari kebiasaan mengumpulkan kata yang meningkatkan memori semantik dan pemanggilan leksikal.",
+        "authority": "Arsip Museum Nasional Hangeul & Basis Data Teks Asli Chosun Ilbo dan Munjang Tahun 1930-an & Biografi Ahn Do-hyun 'Baek Seok Pyeongjeon' & Penelitian Neurosains Kognitif tentang Ekspansi Memori Semantik dan Priming Semantik",
+        "intro": "\"Bahasa adalah wadah yang menampung emosi suatu bangsa, dan satu kata bernapas dengan kehangatan dan pemandangan kehidupan.\" ✍️\n\nBaek Seok, ikon modern tahun 1930-an yang membangun estetika bahasa paling orisinal dalam sejarah puisi Korea modern, adalah seorang pengumpul kata-kata asli yang berdedikasi. Berkelana di wilayah Hamgyong, Pyongan, dan Manchuria, ia menangkap bahasa daerah yang hangat dari tanah airnya ke dalam narasi puitis yang hidup.\n\nBaek Seok mencatat secara teliti dialek daerah, istilah cerita rakyat, dan kata-kata kuno yang disampaikan secara lisan oleh masyarakat pasar dan tetua desa ke dalam buku catatan kecil. Diksi puitis yang canggih dalam kumpulan puisinya 'Rusa' bersumber dari 'basis data kosakata' yang terakumulasi di buku catatannya. Seperti yang dicatat dalam biografi Ahn Do-hyun, mengumpulkan kosakata adalah rutinitas kognitif Baek Seok untuk melestarikan bahasa ibunda di era kolonial sekaligus memaksimalkan jangkauan ekspresinya.\n\nDalam postingan hari ini, kami memperkenalkan prinsip-prinsip neurosains tentang ekspansi Memori Semantik dan Priming Semantik yang tertanam dalam rutinitas penyair Baek Seok.",
+        "whyTitle": "Kekayaan Ekspresi yang Dihasilkan dari Ekspansi Memori Semantik dan Priming Semantik",
+        "whyDesc": "Menemukan dan mencatat kata-kata baru atau ekspresi menarik memperluas sistem <strong>'Memori Semantik (Semantic Memory)'</strong> otak dan menghasilkan efek <strong>'Priming Semantik (Semantic Priming)'</strong> yang kuat.\n\nMelampaui kosakata yang kaku untuk menyimpan istilah-istilah baru akan memadatkan jaringan semantik (Semantic Network) di lobus temporal. Ini membantu pemanggilan leksikal yang cepat (Lexical Retrieval) dari otak saat merencanakan atau menulis, meningkatkan kemampuan ekspresi prefrontal secara drastis.",
+        "cautionTitle": "Hindari Daftar Kata Sederhana dan Catat Konteks Serta Emosinya",
+        "cautionDesc": "Inti dari pengumpulan kata Baek Seok bukanlah mencatat definisi kamus, melainkan merekam konteks situasi, emosi, dan visual tempat kata tersebut digunakan. Kata tanpa konteks tidak teraktivasi secara efektif dalam jaringan saraf; selalu catat nuansa emosional bersama istilah tersebut.",
+        "steps": [
+          {
+            "title": "Tangkap Ekspresi Berkesan dalam Kehidupan Sehari-hari dan Konten",
+            "desc": "Segera tangkap kata-kata baru, metafora yang hidup, atau frasa menarik yang ditemui dalam percakapan, buku, media, atau papan tanda."
+          },
+          {
+            "title": "Catat Kata Bersama Konteks Penggunaan dan Emosi di Buku Catatan atau Aplikasi",
+            "desc": "Jangan menulis kata secara terisolasi; tambahkan 1 hingga 2 baris yang menggambarkan adegan, emosi, atau konteks visual kemunculannya."
+          },
+          {
+            "title": "Tinjau Basis Data Kosakata dan Terapkan dalam Penulisan dan Komunikasi",
+            "desc": "Tinjau bank kata Anda secara berkala untuk memicu jaringan memori, menerapkan kosakata yang presisi dalam email, proposal, dan tulisan."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah mengumpulkan istilah tren baru atau frasa periklanan memberikan efek yang sama dengan mengumpulkan dialek?",
+            "answer": "Ya, tentu saja. Inti dari kebiasaan Baek Seok adalah membangun lumbung kosakata pribadi yang unik. Bagi profesional modern, mengumpulkan ide penamaan merek, frasa copywriting, atau metafora memberikan manfaat kognitif yang persis sama untuk ekspansi jaringan semantik."
+          },
+          {
+            "question": "Bagaimana cara mengelola koleksi jika jumlah kata yang dikumpulkan menjadi terlalu banyak?",
+            "answer": "Organisasikan catatan Anda ke dalam 3 hingga 5 folder kategori (misalnya, Nuansa Emosional, Deskripsi Metaforis, Frasa Persuasif). Memberikan tag atau kategori memudahkan korteks prefrontal untuk memanggil kata spesifik secara instan saat dibutuhkan."
+          }
+        ]
+      }
     }
+  }
 }

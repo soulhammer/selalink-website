@@ -1,459 +1,459 @@
 {
-    "veiled-chameleon-care": {
-        "pubDate": "2026-02-03",
-        "updatedDate": "2026-02-03",
-        "locales": {
-            "ko": {
-                "title": "베일드 카멜레온 수직형 메쉬 사육장 세팅과 물방울 드리퍼 및 UV 라이트 3단계 케어 루틴",
-                "description": "세계적인 입문용 카멜레온 베일드 카멜레온 케어 가이드. 메쉬 사육장 환기, UVB 및 온열 조명 세팅, 흐르는 물(드리퍼) 공급과 탈수 예방 3단계 루틴을 알아봅니다.",
-                "authority": "세계파충류·양서류수의학회(ARAV: Association of Reptilian and Amphibian Veterinarians) 임상 가이드라인 및 Chameleon Academy 사육 표준",
-                "profile": {
-                    "breed": "베일드 카멜레온 (Veiled Chameleon / Chamaeleo calyptratus)",
-                    "lifespan": "수컷 6 ~ 8년 / 암컷 4 ~ 6년",
-                    "sleep_pattern": "주행성 (밤에는 높은 나뭇가지를 감싸 쥐고 수면)",
-                    "temperament": "독립적, 영역 경계심 강함, 스트레스에 극도로 예민함, 단독 사육 필수"
-                },
-                "intro": "베일드 카멜레온(Chamaeleo calyptratus)은 머리 위의 웅장한 투구(Crest/Cask)와 감정에 따른 화려한 체색 변화 능력으로 잘 알려진 예멘과 사우디아라비아 원산의 주행성 나무위성(Arboreal) 파충류입니다. 높은 체고와 입체적인 구조물을 선호하며, 관상 가치가 높아 전 세계 카멜레온 집사들에게 1순위 입문 종으로 꼽힙니다. 그러나 멈춰 있는 물그릇을 인식하지 못하고 나뭇잎에 맺힌 물방울만 마시는 독특한 습성이 있어 물방울 드리퍼(Dripper)나 자동 미스팅 시스템이 필수적입니다. 또한 고온다습한 갇힌 공기에 취약하여 상부 호흡기 질환에 쉽게 노출되므로 통풍이 잘되는 수직형 메쉬(Mesh) 사육장과 적절한 UVB/스팟 조명 세팅이 생명 유지에 핵심입니다. 이번 가이드에서는 베일드 카멜레온의 경계 시그널과 수직형 환경 세팅, 수분 공급 3단계 관리 루틴을 다룹니다.",
-                "whyTitle": "베일드 카멜레온의 체색 변화와 방어 신호: 입 벌리기(Gaping)와 몸 부풀리기",
-                "whyDesc": "카멜레온은 위장뿐만 아니라 체온 조절, 스트레스 표현, 위협 전달을 위해 체색을 급격히 바꿉니다. 어두운색이나 검은 반점은 스트레스와 저체온의 신호이며, 입을 크게 벌리고 몸을 납작하게 부풀리는 행동은 강력한 경고 신호입니다.",
-                "body_signals": [
-                    {
-                        "name": "입 벌리기 및 몸 부풀리기 (Gaping & Puffing)",
-                        "meaning": "위협을 느껴 상대방에게 경고하거나, 사육장 내부 온도가 지나치게 높아 체온을 낮추려는 방어 및 체온 조절 행동입니다.",
-                        "response": "손을 대지 말고 즉시 거리를 두어 안정을 유도하며, 사육장 상부 바스킹 존의 온도가 적정 범위를 초과했는지 점검합니다."
-                    },
-                    {
-                        "name": "체색 어두워짐 및 검은 반점 (Dark Coloration)",
-                        "meaning": "체온이 낮아 열을 흡수하려 하거나, 새로운 환경 변화 및 지속적인 시선 노출로 극심한 불안감과 스트레스를 겪고 있음을 뜻합니다.",
-                        "response": "사육장 내부 온도와 UVB 조명 작동 여부를 확인하고, 사육장 주변에 가림막을 설치해 과도한 자극을 차단해 줍니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: UVB 및 바스킹 조명 점등과 수분(드리퍼) 공급",
-                        "text": "주행성 생체 리듬에 맞춰 UVB 라이트와 스팟 램프를 켜 체온을 올리게 하고, 나뭇잎에 물방울이 맺히도록 드리퍼나 미스팅기를 가동합니다."
-                    },
-                    {
-                        "name": "낮: 메쉬 사육장 통풍 상태 및 바스킹 존 온도 점검",
-                        "text": "메쉬 사육장의 공기 순환 상태를 확인하고, 일열 지점(Basking Zone 32~35°C)과 사육장 하부(22~25°C)의 열구배가 잘 유지되는지 점검합니다."
-                    },
-                    {
-                        "name": "저녁: 먹이 잔여물 제거 및 완전 소등을 통한 수면 유도",
-                        "text": "밤에 카멜레온의 피부를 물어뜯을 수 있는 살아있는 귀뚜라미를 사육장에서 완전히 제거하고, 모든 조명을 꺼 깊은 수면 환경을 조성합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "카멜레온 사육장에 일반 물그릇을 놓아두면 안 되나요?",
-                        "answer": "베일드 카멜레온은 멈춰 있는 물을 수분으로 인식하지 못합니다. 물그릇이 있어도 마시지 못해 극심한 탈수로 사망할 수 있으므로, 반드시 나뭇잎에서 떨어지는 물방울 드리퍼(Dripper)나 분무 시스템을 통해 수분을 공급해야 합니다."
-                    },
-                    {
-                        "question": "유리 사육장 대신 왜 수직형 메쉬(망) 사육장을 사용해야 하나요?",
-                        "answer": "카멜레온은 정체된 공기와 과도한 습기에 매우 취약하여 밀폐된 유리 사육장에서는 치명적인 상부 호흡기 감염(URI)에 걸리기 쉽습니다. 바람이 잘 통하는 수직형 메쉬 사육장을 사용해야 호흡기 질환을 예방하고 건강을 유지할 수 있습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Veiled Chameleon Vertical Screen Enclosure Setup, Dripper Water Care, and 3-Step Care Routine with UVB Lighting",
-                "description": "Essential care guide for the Veiled Chameleon (Chamaeleo calyptratus). Learn about screen enclosure ventilation, UVB/basking lighting setups, water dripper hydration, and 3-step daily care.",
-                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) Clinical Guidelines and Chameleon Academy Captive Care Standards",
-                "profile": {
-                    "breed": "Veiled Chameleon (Chamaeleo calyptratus)",
-                    "lifespan": "Males: 6 ~ 8 Years / Females: 4 ~ 6 Years",
-                    "sleep_pattern": "Diurnal (Sleeps Perched on Elevated Branches at Night)",
-                    "temperament": "Solitary, Highly Territorial, Stress-Sensitive, Arboreal"
-                },
-                "intro": "The Veiled Chameleon (Chamaeleo calyptratus) is a striking diurnal, arboreal reptile native to Yemen and Saudi Arabia, famous for the majestic helmet-like crest (cask) atop its head and its vivid color-changing abilities. Preferring height and three-dimensional branch structures, it is widely regarded as the top beginner species among chameleon keepers. However, because they do not recognize standing water in bowls and only drink water droplets off leaves, a water dripper or automated misting system is strictly mandatory. Furthermore, they are highly susceptible to upper respiratory infections in stagnant air, making a well-ventilated vertical screen enclosure and proper UVB/basking lighting essential for their survival. In this guide, we detail Veiled Chameleon defense signals, vertical setup management, and a 3-step daily hydration routine.",
-                "whyTitle": "Veiled Chameleon Color Signals and Defense Behaviors: Gaping and Puffing",
-                "whyDesc": "Chameleons alter their color not only for camouflage, but primarily to regulate body temperature, express stress, and display warnings. Dark colorations or black spots indicate stress or hypothermia, while gaping the mouth widely and puffing up the body serves as a strong warning signal.",
-                "body_signals": [
-                    {
-                        "name": "Gaping & Body Puffing",
-                        "meaning": "A defensive warning stance triggered by fear or an attempt to cool down when ambient temperatures in the enclosure are excessively high.",
-                        "response": "Step back immediately without attempting to handle the animal, and verify that the basking zone temperature has not exceeded safe limits."
-                    },
-                    {
-                        "name": "Dark Coloration & Stress Spots",
-                        "meaning": "Indicates the chameleon is trying to absorb heat due to low temperatures, or is experiencing severe stress from environmental changes.",
-                        "response": "Check enclosure temperature gradients and UVB function, and provide visual barriers around the cage to minimize external stress."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: UVB/Basking Activation & Water Dripper Operation",
-                        "text": "Turn on UVB and basking spot lamps to raise body temperature, and start the water dripper or mister to form drinking droplets on leaves."
-                    },
-                    {
-                        "name": "Afternoon: Ventilation & Basking Zone Temperature Check",
-                        "text": "Inspect screen cage airflow and ensure the thermal gradient between the basking site (32–35°C / 90–95°F) and lower zone (22–25°C / 72–77°F) is maintained."
-                    },
-                    {
-                        "name": "Evening: Removing Live Feeder Insects & Dark Sleep Setup",
-                        "text": "Remove uneaten live crickets that could bite the chameleon overnight, and turn off all lights to provide complete darkness for restful sleep."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Can I use a regular water bowl for a Veiled Chameleon?",
-                        "answer": "No. Veiled Chameleons do not recognize standing water in a bowl as drinkable. They can dehydrate and die even with a full water dish present. You must provide water via a dripping system or misting on leaves."
-                    },
-                    {
-                        "question": "Why should I use a vertical screen enclosure instead of a glass terrarium?",
-                        "answer": "Chameleons are extremely prone to fatal upper respiratory infections (URI) in stagnant, humid glass enclosures. Vertical full-screen mesh cages ensure continuous airflow, preventing bacterial growth and respiratory disease."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "エボシカメレオンの通気性メッシュケージ設置と水滴ドリップ・UVBライト3ステップ日常ケア",
-                "description": "カメレオン飼育の代表種エボシカメレオン（Veiled Chameleon）の飼育ガイド。メッシュケージの通気性、UVB/バスキングライトの設定、滴下式給水（ドリップ）と脱水予防の3ステップを解説。",
-                "authority": "世界爬虫類・両生類獣医学会（ARAV）臨床ガイドラインおよび Chameleon Academy 飼育基準",
-                "profile": {
-                    "breed": "エボシカメレオン (Veiled Chameleon / Chamaeleo calyptratus)",
-                    "lifespan": "オス：6 〜 8年 / メス：4 〜 6年",
-                    "sleep_pattern": "昼行性 (夜間は高所の枝にしっかり捕まって睡眠)",
-                    "temperament": "単独性、縄張り意識が強い、ストレスに非常に繊細、樹上性"
-                },
-                "intro": "エボシカメレオン（Chamaeleo calyptratus）は、頭頂部の立派なカスク（烏帽子状の突起）と豊かな体色変化能力で知られるイエメン・サウジアラビア原産の樹上性爬虫類です。高さを活かした立体的なレイアウトを好み、鑑賞価値の高さから世界中のカメレオン飼育者から入門種として絶大な人気を誇ります。しかし、水鉢に溜まった水を取り込まない独特の習性があり、葉についた水滴しか飲まないため、ドリップ（滴下）装置や自動ミスティングシステムが必須です。また、湿気が停滞した空気に弱く呼吸器感染症を引き起こしやすいため、通気性の良い縦型メッシュケージと適切なUVB・バスキングライトの設置が生命維持の鍵となります。本記事では、エボシカメレオンの警戒サインと環境構築、水分補給の3ステップ管理ルーチンを解説します。",
-                "whyTitle": "エボシカメレオンの体色変化と警戒サイン：口開け（ガピング）と威嚇行動",
-                "whyDesc": "カメレオンは擬態だけでなく、体温調節やストレス、体調不良を表現するために体色を変えます。黒っぽい体色や斑点はストレスや低体温のサインであり、口を大きく開けて体を平らに膨らませる行動は強い威嚇・警戒を示しています。",
-                "body_signals": [
-                    {
-                        "name": "口開け・体を膨らます行動 (Gaping & Puffing)",
-                        "meaning": "恐怖を感じて威嚇しているか、またはケージ内の温度が高すぎて体温を下げようとしている放熱行動です。",
-                        "response": "触ろうとせずすぐに距離を置いて落ち着かせ、バスキングスポットの温度が適正範囲を超えていないか確認します。"
-                    },
-                    {
-                        "name": "体色が黒く変色・黒斑点 (Dark Coloration)",
-                        "meaning": "体温を上げるために光を吸収しようとしているか、環境の変化や過度な視線による強いストレスを感じています。",
-                        "response": "ケージ内の温度とUVBライトの照射状態を確認し、ケージ周囲に目隠しを設置して刺激を遮断します。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：UVB・バスキングライト点灯とドリップ給水開始",
-                        "text": "昼行性のリズムに合わせてUVBライトとスポットランプを点灯して体温を上げさせ、葉に水滴が付くようドリッパーや噴霧器を作動させます。"
-                    },
-                    {
-                        "name": "昼：メッシュケージの通気とバスキングゾーン温度チェック",
-                        "text": "ケージ内の空気循環がスムーズか確認し、バスキングゾーン（32〜35℃）とケージ下部（22〜25℃）の温度勾配を維持します。"
-                    },
-                    {
-                        "name": "夜：残った生き餌の回収と完全消灯による睡眠環境づくり",
-                        "text": "夜間にカメレオンを噛む危険がある生きたコオロギをケージから取り除き、全てのライトを消して暗闇の中で休ませます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "カメレオンのケージに通常の水鉢を置いてはいけませんか？",
-                        "answer": "エボシカメレオンは静止した水を飲み水として認識できません。水鉢があっても飲めずに重度の脱水症状で死亡する恐れがあるため、必ず葉から滴り落ちる水滴（ドリッパー）やミストで水分を供給してください。"
-                    },
-                    {
-                        "question": "なぜガラスケージではなく縦型のメッシュケージを使う必要があるのですか？",
-                        "answer": "カメレオンはケージ内に停滞した空気や過剰な湿気に弱く、密閉されたガラス容器では呼吸器感染症（URI）にかかりやすいためです。風通しの良い縦型メッシュケージを使用することで、呼吸器の健康を守ることができます。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "高冠变色龙竖向网笼环境搭建、滴水器给水与UVB照明3阶段日常护理流程",
-                "description": "高冠变色龙（Chamaeleo calyptratus）护理指南。了解网笼通风设置、UVB晒背灯配置、滴水器给水习性与预防脱水的3阶段日常护理。",
-                "authority": "世界爬行类与两栖类兽医学会 (ARAV) 临床指南及 Chameleon Academy 饲育标准",
-                "profile": {
-                    "breed": "高冠变色龙 (Veiled Chameleon / Chamaeleo calyptratus)",
-                    "lifespan": "雄性：6 ~ 8年 / 雌性：4 ~ 6年",
-                    "sleep_pattern": "昼行性 (夜间抓握高处树枝睡觉)",
-                    "temperament": "独居性、领地意识极强、对压力极为敏感、树栖性"
-                },
-                "intro": "高冠变色龙（Chamaeleo calyptratus）原产于也门和沙特阿拉伯，因其头顶高耸的冠脊（Cask）和极其丰富的体色变幻能力而闻名，是一种昼行性树栖爬行动物。它们喜欢高耸且具有丰富攀爬枝条的立体空间，是全球变色龙爱好者眼中最经典的入门首选品种。然而，它们无法识别静止的水盆，仅饮用挂在树叶上的流动水滴，因此必须配备滴水器（Dripper）或自动喷雾系统。此外，它们对停滞的闷热空气极度敏感，极易患上上呼吸道感染，因此良好的竖向全网笼（Mesh Cage）与合理的UVB/晒背灯设置是维持其生命的核心。本指南将为您解析高冠变色龙的情绪警示信号、竖向环境搭建以及水份供给3阶段日常护理流程。",
-                "whyTitle": "高冠变色龙的体色变幻与防御信号：张嘴（Gaping）与身体膨胀",
-                "whyDesc": "变色龙改变体色不仅用于伪装，更是调节体温、表达压力和发出警告的主要方式。体色变暗或出现黑斑通常代表低体温或压力过大，而张大嘴巴、将身体压扁膨胀则是极其严厉的防御警告。",
-                "body_signals": [
-                    {
-                        "name": "张嘴与身体膨胀 (Gaping & Puffing)",
-                        "meaning": "因受到惊吓而发出的防御警告，或者因饲养盒内温度过高而试图张嘴散热的散热行为。",
-                        "response": "请勿尝试上手，立即后退保持距离，并检查晒背区的温度是否超过了安全范围。"
-                    },
-                    {
-                        "name": "体色变暗及黑斑 (Dark Coloration)",
-                        "meaning": "体温偏低正吸收热量，或是因环境剧烈变化、过多的人类注视而承受着巨大的心理压力。",
-                        "response": "检查笼内温度与UVB灯具工作状态，在笼舍周围设置遮挡物以减少外界干扰。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：开启UVB晒背灯与滴水器给水",
-                        "text": "配合昼行性作息开启UVB灯与晒背灯帮助其提升体温，同时启动滴水器或喷雾器，使树叶上形成可供饮用的水滴。"
-                    },
-                    {
-                        "name": "中午：网笼通风排查与晒背区温度监测",
-                        "text": "检查全网笼空气流通状况，确保晒背区（32~35°C）与底部区域（22~25°C）形成合理的温差梯度。"
-                    },
-                    {
-                        "name": "晚上：清理活体残渣与全黑睡眠环境搭建",
-                        "text": "清除笼内未吃完的蟋蟀（防止夜间咬伤变色龙），关掉所有灯具，确保其在完全黑暗的环境中舒适睡眠。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "可以在变色龙笼子里放普通水盆给它喝水吗？",
-                        "answer": "不可以。高冠变色龙无法识别静止的水。即使放了水盆，它们也会因找不到水源而严重脱水甚至死亡。必须通过滴水器（Dripper）或在树叶上喷雾的方式提供流动水滴。"
-                    },
-                    {
-                        "question": "为什么必须使用竖向网笼而不能用玻璃缸？",
-                        "answer": "变色龙对停滞不闷通的空气和积聚的湿气极度敏感，在密闭玻璃缸中极易诱发致命的上呼吸道感染（URI）。使用透气良好的竖向网笼能有效保持空气循环，预防呼吸道疾病。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Guía del terrario de malla vertical para el camaleón velado, sistema de goteo y rutina de 3 pasos con luz UVB",
-                "description": "Guía esencial para el cuidado del camaleón velado (Chamaeleo calyptratus). Conozca la ventilación en terrarios de malla, iluminación UVB/calor, hidratación por goteo y rutina diaria en 3 pasos.",
-                "authority": "Pautas Clínicas de la Asociación de Veterinarios de Reptiles y Anfibios (ARAV) y Estándares de Chameleon Academy",
-                "profile": {
-                    "breed": "Camaleón Velado (Chamaeleo calyptratus)",
-                    "lifespan": "Machos: 6 ~ 8 años / Hembras: 4 ~ 6 años",
-                    "sleep_pattern": "Diurno (Duerme posado en las ramas más altas por la noche)",
-                    "temperament": "Solitario, altamente territorial, muy sensible al estrés, arborícola"
-                },
-                "intro": "El camaleón velado (Chamaeleo calyptratus) es un reptil arborícola y diurno nativo de Yemen y Arabia Saudita, famoso por el majestuoso casco o cresta sobre su cabeza y su capacidad para cambiar de color. Al preferir estructuras verticales y ramas dinámicas, es la opción número uno entre los aficionados a los camaleones. Sin embargo, dado que no reconocen el agua estancada en bebederos y solo beben gotas sobre las hojas, un sistema de goteo (Dripper) o nebulización es obligatorio. Además, su alta sensibilidad a las infecciones respiratorias en ambientes cerrados exige el uso de terrarios verticales de malla con buena ventilación e iluminación UVB. En esta guía, cubrimos sus señales de advertencia, configuración de terrario y rutina diaria de 3 pasos.",
-                "whyTitle": "Señales de color y comportamientos defensivos del camaleón velado: Boca abierta (Gaping) e hinchazón",
-                "whyDesc": "Los camaleones cambian de color no solo para camuflarse, sino principalmente para regular su temperatura corporal y expresar estrés o dominancia. Los tonos oscuros reflejan frío o estrés elevado, mientras que abrir la boca e hinchar el cuerpo es una clara señal de advertencia.",
-                "body_signals": [
-                    {
-                        "name": "Boca abierta e hinchazón (Gaping & Puffing)",
-                        "meaning": "Postura defensiva por miedo o un intento de regular su temperatura si la zona de asoleamiento del terrario está demasiado caliente.",
-                        "response": "No intente manipularlo; aléjese de inmediato para no estresarlo y verifique que la temperatura de la lámpara de calor sea la adecuada."
-                    },
-                    {
-                        "name": "Coloración oscura o manchas (Dark Coloration)",
-                        "meaning": "Indica que el camaleón busca absorber calor por baja temperatura o sufre de estrés continuo por cambios en el entorno.",
-                        "response": "Revise el gradiente térmico y la luz UVB, y coloque protecciones visuales alrededor de la malla para darle privacidad."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Encendido de luz UVB/calor y activación del goteo",
-                        "text": "Encienda las luces UVB y la lámpara de calor para activar su metabolismo, y ponga en marcha el sistema de goteo para formar gotas en las hojas."
-                    },
-                    {
-                        "name": "Tarde: Control de ventilación y gradiente de temperatura",
-                        "text": "Verifique el flujo de aire en el terrario de malla y asegúrese de mantener la zona de asoleamiento a 32–35 °C y la zona inferior a 22–25 °C."
-                    },
-                    {
-                        "name": "Noche: Retirada de insectos vivos y apagado total de luces",
-                        "text": "Retire grillos no consumidos para evitar que muerdan al camaleón durante la noche y apague todas las luces para garantizar un descanso en oscuridad."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Puedo poner un recipiente con agua estancada para mi camaleón velado?",
-                        "answer": "No. El camaleón velado no reconoce el agua inmóvil como fuente de bebida. Podría morir por deshidratación grave aun teniendo un plato lleno. Debe suministrarle agua obligatoriamente mediante un sistema de goteo o pulverización sobre las hojas."
-                    },
-                    {
-                        "question": "¿Por qué se debe usar un terrario de malla vertical en lugar de uno de cristal?",
-                        "answer": "Los camaleones son muy propensos a sufrir infecciones respiratorias graves (URI) si se les mantiene en recintos de cristal con aire estancado y humedad acumulada. Un terrario vertical de malla garantiza una circulación de aire constante, manteniéndolo saludable."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Guide du terrarium en grillage vertical pour caméléon casqué, goutte-à-goutte et routine en 3 étapes avec éclairage UVB",
-                "description": "Guide de soin essentiel pour le caméléon casqué (Chamaeleo calyptratus). Découvrez la ventilation en terrarium grillagé, la lumière UVB, le goutte-à-goutte et la routine en 3 étapes.",
-                "authority": "Directives Cliniques de l'Association of Reptilian and Amphibian Veterinarians (ARAV) et Normes de Chameleon Academy",
-                "profile": {
-                    "breed": "Caméléon Casqué (Veiled Chameleon / Chamaeleo calyptratus)",
-                    "lifespan": "Mâles : 6 ~ 8 ans / Femelles : 4 ~ 6 ans",
-                    "sleep_pattern": "Diurne (Dort perché sur les branches élevées la nuit)",
-                    "temperament": "Solitaire, très territorial, extrêmement sensible au stress, arboricole"
-                },
-                "intro": "Le caméléon casqué (Chamaeleo calyptratus) est un reptile arboricole diurne originaire du Yémen et d'Arabie saoudite, célèbre pour la haute crête (casque) qui surmonte sa tête et ses facultés de changement de couleur. Préférant la hauteur et les structures en branches, il est la référence numéro un pour débuter dans l'élevage des caméléons. Cependant, comme il ne reconnaît pas l'eau stagnante dans une gamelle et ne boit que les gouttes d'eau sur le feuillage, un goutte-à-goutte (Dripper) ou un système d'aspersion est indispensable. De plus, très vulnérable aux infections respiratoires en milieu confiné, il nécessite un terrarium vertical entièrement en grillage et un éclairage UVB/chauffant adapté. Dans ce guide, nous détaillons ses signaux de défense, l'aménagement de son terrarium et sa routine d'hydratation quotidienne.",
-                "whyTitle": "Signaux de couleur et comportements de défense du caméléon casqué : Ouverture de gueule (Gaping) et gonflement",
-                "whyDesc": "Le caméléon modifie sa couleur non seulement pour se camoufler, mais aussi pour réguler sa température et exprimer son stress. Une coloration sombre traduit le froid ou l'anxiété, tandis que gonfler son corps et ouvrir largement la gueule constitue un avertissement défensif majeur.",
-                "body_signals": [
-                    {
-                        "name": "Gueule ouverte et gonflement du corps (Gaping & Puffing)",
-                        "meaning": "Comportement de défense face à une menace ou tentative de régulation thermique si le point chaud du terrarium est excessivement élevé.",
-                        "response": "Éloignez-vous immédiatement sans chercher à le manipuler, et contrôlez la température sous la lampe chauffante."
-                    },
-                    {
-                        "name": "Teinte sombre et taches noires (Dark Coloration)",
-                        "meaning": "Le caméléon cherche à absorber la chaleur en raison d'une température trop basse, ou subit un stress important lié à son environnement.",
-                        "response": "Vérifiez les températures et le néon UVB, puis installez des brise-vues autour du terrarium pour lui offrir plus de sérénité."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Activation de l'éclairage UVB/chauffant et du goutte-à-goutte",
-                        "text": "Allumez les lampes UVB et chauffante pour réchauffer son organisme, puis lancez le goutte-à-goutte afin de former des gouttes d'eau sur les feuilles."
-                    },
-                    {
-                        "name": "Après-midi : Contrôle de la ventilation et du gradient thermique",
-                        "text": "Vérifiez la circulation de l'air dans le terrarium grillagé et assurez-vous de maintenir 32–35 °C au point chaud et 22–25 °C dans la zone basse."
-                    },
-                    {
-                        "name": "Soir : Retrait des insectes vivants et obscurité totale",
-                        "text": "Retirez tous les grillons vivants susceptibles de le mordre durant la nuit, puis éteignez toutes les lumières pour lui garantir un sommeil réparateur."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Puis-je mettre une gamelle d'eau classique dans le terrarium du caméléon casqué ?",
-                        "answer": "Non. Le caméléon casqué ne perçoit pas l'eau immobile comme de l'eau potable. Il peut mourir de déshydratation sévère à côté d'une gamelle pleine. Il est impératif de lui fournir de l'eau par goutte-à-goutte ou par pulvérisation sur le feuillage."
-                    },
-                    {
-                        "question": "Pourquoi privilégier un terrarium vertical en grillage plutôt qu'en verre ?",
-                        "answer": "Les caméléons sont particulièrement sujets aux infections respiratoires supérieures (URI) lorsque l'air et l'humidité stagnent dans un terrarium en verre. Un terrarium vertical en grillage assure un renouvellement d'air constant, garant de leur santé."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Jemenchamäleon Netz-Terrarium Einrichtung, Tröpfchensystem und 3-Schritte-Routine mit UVB-Beleuchtung",
-                "description": "Leitfaden für das Jemenchamäleon (Chamaeleo calyptratus). Erfahren Sie alles über Belüftung im Netz-Terrarium, UVB-/Basking-Licht, Tröpfchen-Wasserversorgung und 3-Schritte-Pflege.",
-                "authority": "Klinische Richtlinien der Association of Reptilian and Amphibian Veterinarians (ARAV) und Chameleon Academy Haltungsstandards",
-                "profile": {
-                    "breed": "Jemenchamäleon (Veiled Chameleon / Chamaeleo calyptratus)",
-                    "lifespan": "Männchen: 6 ~ 8 Jahre / Weibchen: 4 ~ 6 Jahre",
-                    "sleep_pattern": "Tagaktiv (Schläft nachts auf hohen Ästen geklammert)",
-                    "temperament": "Einzelgängerisch, sehr territorial, extrem stressempfindlich, baumbewohnend"
-                },
-                "intro": "Das Jemenchamäleon (Chamaeleo calyptratus) ist ein tagaktives, baumbewohnendes Reptil aus dem Jemen und Saudi-Arabien, das für seinen imposanten Helm (Cask) auf dem Kopf und seine beeindruckenden Farbwechsel bekannt ist. Da es hohe, gut strukturierte Kletterbereiche bevorzugt, gilt es als die beliebteste Einsteigerart unter Chamäleon-Haltern. Da Chamäleons stehendes Wasser in Wasserschalen jedoch nicht erkennen und ausschließlich Wassertropfen von Blättern trinken, ist ein Tröpfchensystem (Dripper) oder eine Beregnungsanlage zwingend erforderlich. Zudem sind sie in stickiger Luft sehr anfällig für Atemwegsinfektionen, weshalb ein gut belüftetes Netz-Terrarium (Flexarium) und passende UVB-/Wärmestrahler lebensnotwendig sind. Heute erklärt  die Warnsignale des Jemenchamäleons, die Einrichtung des Terrariums und die tägliche Pflege.",
-                "whyTitle": "Farbwechsel und Abwehrverhalten des Jemenchamäleons: Maulaufreißen (Gaping) und Aufblähen",
-                "whyDesc": "Chamäleons wechseln ihre Farbe nicht nur zur Tarnung, sondern vor allem zur Wärmeregulierung und zum Ausdruck von Stress. Dunkle Verfärbungen deuten auf Kälte oder Stress hin, während das weite Öffnen des Mauls und das Aufblähen des Körpers ein deutliches Warnsignal sind.",
-                "body_signals": [
-                    {
-                        "name": "Maulaufreißen & Aufblähen (Gaping & Puffing)",
-                        "meaning": "Abwehrverhalten bei Bedrohung oder ein Versuch zur Wärmeregulierung, wenn es am Sonnenplatz im Terrarium zu heiß ist.",
-                        "response": "Treten Sie sofort zurück, ohne das Tier zu berühren, und überprüfen Sie die Temperatur unter dem Wärmestrahler."
-                    },
-                    {
-                        "name": "Dunkle Verfärbung & Stressflecken (Dark Coloration)",
-                        "meaning": "Das Chamäleon versucht wegen zu niedriger Temperatur Wärme aufzunehmen oder leidet unter starkem Stress durch Veränderungen.",
-                        "response": "Prüfen Sie das Temperaturgefälle und die UVB-Lampe und bringen Sie einen Sichtschutz um das Terrarium an."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Einschalten von UVB/Wärmelampe & Start des Tröpfchensystems",
-                        "text": "Schalten Sie die UVB- und Wärmelampen ein, um die Körpertemperatur zu steigern, und aktivieren Sie den Dripper für Trinktropfen auf den Blättern."
-                    },
-                    {
-                        "name": "Nachmittag: Belüftungs- & Temperaturkontrolle im Netz-Terrarium",
-                        "text": "Kontrollieren Sie die Luftzirkulation im Netz-Terrarium und stellen Sie sicher, dass der Sonnenplatz bei 32–35 °C und der untere Bereich bei 22–25 °C liegt."
-                    },
-                    {
-                        "name": "Abend: Entfernen von Futterinsekten & vollständige Dunkelheit",
-                        "text": "Entfernen Sie nicht gefressene Heimchen, die das Chamäleon nachts anknabbern könnten, und schalten Sie alle Lichter für die Nachtruhe aus."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Kann ich eine normale Wasserschale für mein Jemenchamäleon verwenden?",
-                        "answer": "Nein. Jemenchamäleons erkennen stehendes Wasser in einer Schale nicht als Trinkwasser. Sie können selbst neben einer vollen Schale verdursten. Das Wasser muss zwingend über ein Tröpfchensystem oder durch Besprühen der Blätter bereitgestellt werden."
-                    },
-                    {
-                        "question": "Warum sollte man ein Netz-Terrarium anstelle eines Glasterrariums verwenden?",
-                        "answer": "Chamäleons neigen in geschlossenen Glasterrarien mit stehender, feuchter Luft schnell zu tödlichen Atemwegsinfektionen (URI). Ein hochformatiges Netz-Terrarium sorgt für kontinuierliche Frischluftzufuhr und schützt die Gesundheit des Tieres."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Guia de terrário vertical de rede para camaleão-velado, sistema de gotejamento e rotina de 3 passos com luz UVB",
-                "description": "Guia de cuidados essenciais para o camaleão-velado (Chamaeleo calyptratus). Saiba mais sobre ventilação em terrários de tela, iluminação UVB, hidratação por gotejamento e rotina diária em 3 passos.",
-                "authority": "Diretrizes Clínicas da Associação de Veterinários de Répteis e Anfíbios (ARAV) e Padrões da Chameleon Academy",
-                "profile": {
-                    "breed": "Camaleão-Velado (Chamaeleo calyptratus)",
-                    "lifespan": "Machos: 6 ~ 8 anos / Fêmeas: 4 ~ 6 anos",
-                    "sleep_pattern": "Diurno (Dorme empoleirado nos galhos mais altos à noite)",
-                    "temperament": "Solitário, muito territorial, extremamente sensível ao estresse, arborícola"
-                },
-                "intro": "O camaleão-velado (Chamaeleo calyptratus) é um réptil arborícola e diurno nativo do Iêmen e da Arábia Saudita, famoso pela impressionante crista (elmo) no topo da cabeça e pela sua capacidade de mudar de cor. Como prefere estruturas verticais e galhos para escalada, é a espécie número um escolhida por iniciantes na criação de camaleões. Contudo, visto que não reconhecem água parada em tigelas e bebem apenas gotículas nas folhas, um gotejador (Dripper) ou sistema de nebulização é obrigatório. Além disso, devido à sua vulnerabilidade a infecções respiratórias em ar abafado, o uso de terrários verticais de tela e iluminação UVB adequada é vital. Neste guia, detalhamos os seus sinais defensivos, a montagem do terrário e a rotina diária de hidratação.",
-                "whyTitle": "Sinais de cor e comportamentos defensivos do camaleão-velado: Boca aberta (Gaping) e corpo inflado",
-                "whyDesc": "Os camaleões mudam de cor não apenas para se camuflar, mas principalmente para regular a temperatura e expressar estresse. Tons escuros indicam frio ou estresse elevado, enquanto abrir bem a boca e inflar o corpo é um sinal claro de advertência.",
-                "body_signals": [
-                    {
-                        "name": "Boca aberta e corpo inflado (Gaping & Puffing)",
-                        "meaning": "Uma postura defensiva contra ameaças ou uma tentativa de resfriamento corporal caso a área de aquecimento do terrário esteja quente demais.",
-                        "response": "Afaste-se imediatamente sem tentar manipulá-lo e verifique se a temperatura da lâmpada de aquecimento está dentro dos limites seguros."
-                    },
-                    {
-                        "name": "Coloração escura e manchas de estresse (Dark Coloration)",
-                        "meaning": "Indica que o camaleão está tentando absorver calor devido à baixa temperatura ou está enfrentando alto estresse devido a mudanças no ambiente.",
-                        "response": "Verifique o gradiente térmico e a iluminação UVB do terrário e coloque proteções visuais ao redor da tela para evitar estresse externo."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Ativação da iluminação UVB/aquecimento e início do gotejamento",
-                        "text": "Ligue as lâmpadas UVB e de aquecimento para elevar a temperatura corporal e inicie o gotejador para formar gotas de água nas folhas."
-                    },
-                    {
-                        "name": "Tarde: Verificação da ventilação e gradiente de temperatura",
-                        "text": "Inspecione o fluxo de ar no terrário de rede e garanta a manutenção da zona de aquecimento em 32–35 °C e da zona inferior em 22–25 °C."
-                    },
-                    {
-                        "name": "Noite: Remoção de insetos vivos e ambiente escuro para dormir",
-                        "text": "Retire os grilos vivos não consumidos que possam morder o camaleão durante a noite e desligue todas as luzes para garantir o descanso."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Posso usar um bebedouro comum com água parada para o camaleão-velado?",
-                        "answer": "Não. O camaleão-velado não reconhece água parada em uma tigela como potável. Ele pode morrer de desidratação severa mesmo com a tigela cheia. Forneça água obrigatoriamente por gotejamento ou borrifando nas folhas."
-                    },
-                    {
-                        "question": "Por que devo usar um terrário vertical de rede em vez de um de vidro?",
-                        "answer": "Os camaleões são extremamente suscetíveis a infecções respiratórias graves (URI) em recintos fechados de vidro com ar abafado. O terrário vertical de rede garante ventilação contínua e previne doenças respiratórias."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Panduan Setting Kandang Jaring Vertikal Bunglon Veiled, Perawatan Air Dripper, dan Rutin 3 Langkah Lampu UVB",
-                "description": "Panduan perawatan esensial bunglon Veiled (Chamaeleo calyptratus). Pelajari ventilasi kandang jaring, pencahayaan UVB/penghangat, sistem air dripper, dan rutin harian 3 langkah.",
-                "authority": "Pedoman Klinis Association of Reptilian and Amphibian Veterinarians (ARAV) dan Standar Pemeliharaan Chameleon Academy",
-                "profile": {
-                    "breed": "Bunglon Veiled (Veiled Chameleon / Chamaeleo calyptratus)",
-                    "lifespan": "Jantan: 6 ~ 8 Tahun / Betina: 4 ~ 6 Tahun",
-                    "sleep_pattern": "Diurnal (Tidur Cengkeram pada Dahan Tinggi di Malam Hari)",
-                    "temperament": "Soliter, Sangat Teritorial, Sangat Sensitif Terhadap Stres, Arborial"
-                },
-                "intro": "Bunglon Veiled (Chamaeleo calyptratus) adalah reptil arborial diurnal asal Yaman dan Arab Saudi yang terkenal dengan mahkota (crest/cask) megah di kepala serta kemampuan perubahan warna tubuhnya. Menyukai ketinggian dan struktur dahan yang rumit, spesies ini menjadi pilihan utama pemula pemelihara bunglon. Namun, karena mereka tidak mengenali air tenang di mangkuk dan hanya meminum tetesan air di dedaunan, sistem air dripper atau misting otomatis sangat wajib digunakan. Selain itu, mereka sangat rentan terhadap infeksi saluran pernapasan pada udara pengap, sehingga kandang jaring (mesh) vertikal dengan sirkulasi udara baik serta pencahayaan UVB sangat vital. Dalam panduan ini, kami mengulas sinyal pertahanan bunglon Veiled, pengaturan kandang vertikal, dan rutin hidrasi 3 langkah.",
-                "whyTitle": "Sinyal Warna dan Perilaku Pertahanan Bunglon Veiled: Mulut Terbuka (Gaping) dan Menggelembungkan Tubuh",
-                "whyDesc": "Bunglon mengubah warna tubuh bukan hanya untuk kamuflase, melainkan untuk mengatur suhu tubuh dan mengekspresikan stres. Warna gelap menunjukkan rasa dingin atau stres berat, sedangkan membuka mulut lebar-lebar dan menggelembungkan tubuh merupakan sinyal peringatan keras.",
-                "body_signals": [
-                    {
-                        "name": "Mulut Terbuka & Tubuh Menggelembung (Gaping & Puffing)",
-                        "meaning": "Sikap bertahan karena merasa terancam, atau upaya menurunkan suhu tubuh saat area basking di dalam kandang terlalu panas.",
-                        "response": "Segera mundur tanpa mencoba memegangnya, dan pastikan suhu di bawah lampu basking tidak melebihi batas aman."
-                    },
-                    {
-                        "name": "Warna Tubuh Gelap & Bintik Stres (Dark Coloration)",
-                        "meaning": "Menunjukkan bunglon berusaha menyerap panas akibat suhu rendah, atau mengalami stres berat akibat perubahan lingkungan.",
-                        "response": "Periksa gradien suhu dan pencahayaan UVB kandang, serta pasang penghalang visual di sekitar kandang untuk mengurangi stres eksternal."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Aktivasi Lampu UVB/Penghangat & Pengoperasian Dripper",
-                        "text": "Nyalakan lampu UVB dan basking untuk menaikkan suhu tubuh, lalu jalankan dripper agar terbentuk tetesan air minum di dedaunan."
-                    },
-                    {
-                        "name": "Siang: Pemeriksaan Ventilasi & Suhu Area Basking",
-                        "text": "Periksa sirkulasi udara kandang jaring dan pastikan gradien suhu antara area basking (32–35 °C) dan area bawah (22–25 °C) terjaga."
-                    },
-                    {
-                        "name": "Malam: Pembersihan Serangga Hidup & Pengondisian Gelap untuk Tidur",
-                        "text": "Bersihkan jangkrik hidup yang tersisa agar tidak menggigit bunglon saat malam, lalu matikan semua lampu untuk menciptakan suasana tidur yang gelap."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Bolehkah saya menggunakan mangkuk air biasa untuk bunglon Veiled?",
-                        "answer": "Tidak boleh. Bunglon Veiled tidak mengenali air tenang di dalam mangkuk sebagai air minum. Mereka bisa mati karena dehidrasi parah meskipun ada mangkuk air penuh. Air wajib diberikan melalui sistem dripper atau semprotan pada daun."
-                    },
-                    {
-                        "question": "Mengapa harus menggunakan kandang jaring vertikal dibanding kandang kaca?",
-                        "answer": "Bunglon sangat rentan terhadap infeksi saluran pernapasan atas (URI) yang fatal jika dipelihara di kandang kaca tertutup dengan udara pengap. Kandang jaring vertikal menjamin sirkulasi udara terus-menerus sehingga menjaga kesehatan pernapasan."
-                    }
-                ]
-            }
+  "veiled-chameleon-care": {
+    "pubDate": "2026-02-03",
+    "updatedDate": "2026-02-03",
+    "locales": {
+      "ko": {
+        "title": "베일드 카멜레온 수직형 메쉬 사육장 세팅과 물방울 드리퍼 및 UV 라이트 3단계 케어 루틴",
+        "description": "세계적인 입문용 카멜레온 베일드 카멜레온 케어 가이드. 메쉬 사육장 환기, UVB 및 온열 조명 세팅, 흐르는 물(드리퍼) 공급과 탈수 예방 3단계 루틴을 알아봅니다.",
+        "authority": "세계파충류·양서류수의학회(ARAV: Association of Reptilian and Amphibian Veterinarians) 임상 가이드라인 및 Chameleon Academy 사육 표준",
+        "profile": {
+          "breed": "베일드 카멜레온 (Veiled Chameleon / Chamaeleo calyptratus)",
+          "lifespan": "수컷 6 ~ 8년 / 암컷 4 ~ 6년",
+          "sleep_pattern": "주행성 (밤에는 높은 나뭇가지를 감싸 쥐고 수면)",
+          "temperament": "독립적, 영역 경계심 강함, 스트레스에 극도로 예민함, 단독 사육 필수"
         },
-        "heroImage": "/images/blog/veiled_chameleon_care.webp"
-    }
+        "intro": "베일드 카멜레온(Chamaeleo calyptratus)은 머리 위의 웅장한 투구(Crest/Cask)와 감정에 따른 화려한 체색 변화 능력으로 잘 알려진 예멘과 사우디아라비아 원산의 주행성 나무위성(Arboreal) 파충류입니다. 높은 체고와 입체적인 구조물을 선호하며, 관상 가치가 높아 전 세계 카멜레온 집사들에게 1순위 입문 종으로 꼽힙니다. 그러나 멈춰 있는 물그릇을 인식하지 못하고 나뭇잎에 맺힌 물방울만 마시는 독특한 습성이 있어 물방울 드리퍼(Dripper)나 자동 미스팅 시스템이 필수적입니다. 또한 고온다습한 갇힌 공기에 취약하여 상부 호흡기 질환에 쉽게 노출되므로 통풍이 잘되는 수직형 메쉬(Mesh) 사육장과 적절한 UVB/스팟 조명 세팅이 생명 유지에 핵심입니다. 이번 가이드에서는 베일드 카멜레온의 경계 시그널과 수직형 환경 세팅, 수분 공급 3단계 관리 루틴을 다룹니다.",
+        "whyTitle": "베일드 카멜레온의 체색 변화와 방어 신호: 입 벌리기(Gaping)와 몸 부풀리기",
+        "whyDesc": "카멜레온은 위장뿐만 아니라 체온 조절, 스트레스 표현, 위협 전달을 위해 체색을 급격히 바꿉니다. 어두운색이나 검은 반점은 스트레스와 저체온의 신호이며, 입을 크게 벌리고 몸을 납작하게 부풀리는 행동은 강력한 경고 신호입니다.",
+        "body_signals": [
+          {
+            "name": "입 벌리기 및 몸 부풀리기 (Gaping & Puffing)",
+            "meaning": "위협을 느껴 상대방에게 경고하거나, 사육장 내부 온도가 지나치게 높아 체온을 낮추려는 방어 및 체온 조절 행동입니다.",
+            "response": "손을 대지 말고 즉시 거리를 두어 안정을 유도하며, 사육장 상부 바스킹 존의 온도가 적정 범위를 초과했는지 점검합니다."
+          },
+          {
+            "name": "체색 어두워짐 및 검은 반점 (Dark Coloration)",
+            "meaning": "체온이 낮아 열을 흡수하려 하거나, 새로운 환경 변화 및 지속적인 시선 노출로 극심한 불안감과 스트레스를 겪고 있음을 뜻합니다.",
+            "response": "사육장 내부 온도와 UVB 조명 작동 여부를 확인하고, 사육장 주변에 가림막을 설치해 과도한 자극을 차단해 줍니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: UVB 및 바스킹 조명 점등과 수분(드리퍼) 공급",
+            "text": "주행성 생체 리듬에 맞춰 UVB 라이트와 스팟 램프를 켜 체온을 올리게 하고, 나뭇잎에 물방울이 맺히도록 드리퍼나 미스팅기를 가동합니다."
+          },
+          {
+            "name": "낮: 메쉬 사육장 통풍 상태 및 바스킹 존 온도 점검",
+            "text": "메쉬 사육장의 공기 순환 상태를 확인하고, 일열 지점(Basking Zone 32~35°C)과 사육장 하부(22~25°C)의 열구배가 잘 유지되는지 점검합니다."
+          },
+          {
+            "name": "저녁: 먹이 잔여물 제거 및 완전 소등을 통한 수면 유도",
+            "text": "밤에 카멜레온의 피부를 물어뜯을 수 있는 살아있는 귀뚜라미를 사육장에서 완전히 제거하고, 모든 조명을 꺼 깊은 수면 환경을 조성합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "카멜레온 사육장에 일반 물그릇을 놓아두면 안 되나요?",
+            "answer": "베일드 카멜레온은 멈춰 있는 물을 수분으로 인식하지 못합니다. 물그릇이 있어도 마시지 못해 극심한 탈수로 사망할 수 있으므로, 반드시 나뭇잎에서 떨어지는 물방울 드리퍼(Dripper)나 분무 시스템을 통해 수분을 공급해야 합니다."
+          },
+          {
+            "question": "유리 사육장 대신 왜 수직형 메쉬(망) 사육장을 사용해야 하나요?",
+            "answer": "카멜레온은 정체된 공기와 과도한 습기에 매우 취약하여 밀폐된 유리 사육장에서는 치명적인 상부 호흡기 감염(URI)에 걸리기 쉽습니다. 바람이 잘 통하는 수직형 메쉬 사육장을 사용해야 호흡기 질환을 예방하고 건강을 유지할 수 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Veiled Chameleon Vertical Screen Enclosure Setup, Dripper Water Care, and 3-Step Care Routine with UVB Lighting",
+        "description": "Essential care guide for the Veiled Chameleon (Chamaeleo calyptratus). Learn about screen enclosure ventilation, UVB/basking lighting setups, water dripper hydration, and 3-step daily care.",
+        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) Clinical Guidelines and Chameleon Academy Captive Care Standards",
+        "profile": {
+          "breed": "Veiled Chameleon (Chamaeleo calyptratus)",
+          "lifespan": "Males: 6 ~ 8 Years / Females: 4 ~ 6 Years",
+          "sleep_pattern": "Diurnal (Sleeps Perched on Elevated Branches at Night)",
+          "temperament": "Solitary, Highly Territorial, Stress-Sensitive, Arboreal"
+        },
+        "intro": "The Veiled Chameleon (Chamaeleo calyptratus) is a striking diurnal, arboreal reptile native to Yemen and Saudi Arabia, famous for the majestic helmet-like crest (cask) atop its head and its vivid color-changing abilities. Preferring height and three-dimensional branch structures, it is widely regarded as the top beginner species among chameleon keepers. However, because they do not recognize standing water in bowls and only drink water droplets off leaves, a water dripper or automated misting system is strictly mandatory. Furthermore, they are highly susceptible to upper respiratory infections in stagnant air, making a well-ventilated vertical screen enclosure and proper UVB/basking lighting essential for their survival. In this guide, we detail Veiled Chameleon defense signals, vertical setup management, and a 3-step daily hydration routine.",
+        "whyTitle": "Veiled Chameleon Color Signals and Defense Behaviors: Gaping and Puffing",
+        "whyDesc": "Chameleons alter their color not only for camouflage, but primarily to regulate body temperature, express stress, and display warnings. Dark colorations or black spots indicate stress or hypothermia, while gaping the mouth widely and puffing up the body serves as a strong warning signal.",
+        "body_signals": [
+          {
+            "name": "Gaping & Body Puffing",
+            "meaning": "A defensive warning stance triggered by fear or an attempt to cool down when ambient temperatures in the enclosure are excessively high.",
+            "response": "Step back immediately without attempting to handle the animal, and verify that the basking zone temperature has not exceeded safe limits."
+          },
+          {
+            "name": "Dark Coloration & Stress Spots",
+            "meaning": "Indicates the chameleon is trying to absorb heat due to low temperatures, or is experiencing severe stress from environmental changes.",
+            "response": "Check enclosure temperature gradients and UVB function, and provide visual barriers around the cage to minimize external stress."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: UVB/Basking Activation & Water Dripper Operation",
+            "text": "Turn on UVB and basking spot lamps to raise body temperature, and start the water dripper or mister to form drinking droplets on leaves."
+          },
+          {
+            "name": "Afternoon: Ventilation & Basking Zone Temperature Check",
+            "text": "Inspect screen cage airflow and ensure the thermal gradient between the basking site (32–35°C / 90–95°F) and lower zone (22–25°C / 72–77°F) is maintained."
+          },
+          {
+            "name": "Evening: Removing Live Feeder Insects & Dark Sleep Setup",
+            "text": "Remove uneaten live crickets that could bite the chameleon overnight, and turn off all lights to provide complete darkness for restful sleep."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Can I use a regular water bowl for a Veiled Chameleon?",
+            "answer": "No. Veiled Chameleons do not recognize standing water in a bowl as drinkable. They can dehydrate and die even with a full water dish present. You must provide water via a dripping system or misting on leaves."
+          },
+          {
+            "question": "Why should I use a vertical screen enclosure instead of a glass terrarium?",
+            "answer": "Chameleons are extremely prone to fatal upper respiratory infections (URI) in stagnant, humid glass enclosures. Vertical full-screen mesh cages ensure continuous airflow, preventing bacterial growth and respiratory disease."
+          }
+        ]
+      },
+      "ja": {
+        "title": "エボシカメレオンの通気性メッシュケージ設置と水滴ドリップ・UVBライト3ステップ日常ケア",
+        "description": "カメレオン飼育の代表種エボシカメレオン（Veiled Chameleon）の飼育ガイド。メッシュケージの通気性、UVB/バスキングライトの設定、滴下式給水（ドリップ）と脱水予防の3ステップを解説。",
+        "authority": "世界爬虫類・両生類獣医学会（ARAV）臨床ガイドラインおよび Chameleon Academy 飼育基準",
+        "profile": {
+          "breed": "エボシカメレオン (Veiled Chameleon / Chamaeleo calyptratus)",
+          "lifespan": "オス：6 〜 8年 / メス：4 〜 6年",
+          "sleep_pattern": "昼行性 (夜間は高所の枝にしっかり捕まって睡眠)",
+          "temperament": "単独性、縄張り意識が強い、ストレスに非常に繊細、樹上性"
+        },
+        "intro": "エボシカメレオン（Chamaeleo calyptratus）は、頭頂部の立派なカスク（烏帽子状の突起）と豊かな体色変化能力で知られるイエメン・サウジアラビア原産の樹上性爬虫類です。高さを活かした立体的なレイアウトを好み、鑑賞価値の高さから世界中のカメレオン飼育者から入門種として絶大な人気を誇ります。しかし、水鉢に溜まった水を取り込まない独特の習性があり、葉についた水滴しか飲まないため、ドリップ（滴下）装置や自動ミスティングシステムが必須です。また、湿気が停滞した空気に弱く呼吸器感染症を引き起こしやすいため、通気性の良い縦型メッシュケージと適切なUVB・バスキングライトの設置が生命維持の鍵となります。本記事では、エボシカメレオンの警戒サインと環境構築、水分補給の3ステップ管理ルーチンを解説します。",
+        "whyTitle": "エボシカメレオンの体色変化と警戒サイン：口開け（ガピング）と威嚇行動",
+        "whyDesc": "カメレオンは擬態だけでなく、体温調節やストレス、体調不良を表現するために体色を変えます。黒っぽい体色や斑点はストレスや低体温のサインであり、口を大きく開けて体を平らに膨らませる行動は強い威嚇・警戒を示しています。",
+        "body_signals": [
+          {
+            "name": "口開け・体を膨らます行動 (Gaping & Puffing)",
+            "meaning": "恐怖を感じて威嚇しているか、またはケージ内の温度が高すぎて体温を下げようとしている放熱行動です。",
+            "response": "触ろうとせずすぐに距離を置いて落ち着かせ、バスキングスポットの温度が適正範囲を超えていないか確認します。"
+          },
+          {
+            "name": "体色が黒く変色・黒斑点 (Dark Coloration)",
+            "meaning": "体温を上げるために光を吸収しようとしているか、環境の変化や過度な視線による強いストレスを感じています。",
+            "response": "ケージ内の温度とUVBライトの照射状態を確認し、ケージ周囲に目隠しを設置して刺激を遮断します。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：UVB・バスキングライト点灯とドリップ給水開始",
+            "text": "昼行性のリズムに合わせてUVBライトとスポットランプを点灯して体温を上げさせ、葉に水滴が付くようドリッパーや噴霧器を作動させます。"
+          },
+          {
+            "name": "昼：メッシュケージの通気とバスキングゾーン温度チェック",
+            "text": "ケージ内の空気循環がスムーズか確認し、バスキングゾーン（32〜35℃）とケージ下部（22〜25℃）の温度勾配を維持します。"
+          },
+          {
+            "name": "夜：残った生き餌の回収と完全消灯による睡眠環境づくり",
+            "text": "夜間にカメレオンを噛む危険がある生きたコオロギをケージから取り除き、全てのライトを消して暗闇の中で休ませます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "カメレオンのケージに通常の水鉢を置いてはいけませんか？",
+            "answer": "エボシカメレオンは静止した水を飲み水として認識できません。水鉢があっても飲めずに重度の脱水症状で死亡する恐れがあるため、必ず葉から滴り落ちる水滴（ドリッパー）やミストで水分を供給してください。"
+          },
+          {
+            "question": "なぜガラスケージではなく縦型のメッシュケージを使う必要があるのですか？",
+            "answer": "カメレオンはケージ内に停滞した空気や過剰な湿気に弱く、密閉されたガラス容器では呼吸器感染症（URI）にかかりやすいためです。風通しの良い縦型メッシュケージを使用することで、呼吸器の健康を守ることができます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "高冠变色龙竖向网笼环境搭建、滴水器给水与UVB照明3阶段日常护理流程",
+        "description": "高冠变色龙（Chamaeleo calyptratus）护理指南。了解网笼通风设置、UVB晒背灯配置、滴水器给水习性与预防脱水的3阶段日常护理。",
+        "authority": "世界爬行类与两栖类兽医学会 (ARAV) 临床指南及 Chameleon Academy 饲育标准",
+        "profile": {
+          "breed": "高冠变色龙 (Veiled Chameleon / Chamaeleo calyptratus)",
+          "lifespan": "雄性：6 ~ 8年 / 雌性：4 ~ 6年",
+          "sleep_pattern": "昼行性 (夜间抓握高处树枝睡觉)",
+          "temperament": "独居性、领地意识极强、对压力极为敏感、树栖性"
+        },
+        "intro": "高冠变色龙（Chamaeleo calyptratus）原产于也门和沙特阿拉伯，因其头顶高耸的冠脊（Cask）和极其丰富的体色变幻能力而闻名，是一种昼行性树栖爬行动物。它们喜欢高耸且具有丰富攀爬枝条的立体空间，是全球变色龙爱好者眼中最经典的入门首选品种。然而，它们无法识别静止的水盆，仅饮用挂在树叶上的流动水滴，因此必须配备滴水器（Dripper）或自动喷雾系统。此外，它们对停滞的闷热空气极度敏感，极易患上上呼吸道感染，因此良好的竖向全网笼（Mesh Cage）与合理的UVB/晒背灯设置是维持其生命的核心。本指南将为您解析高冠变色龙的情绪警示信号、竖向环境搭建以及水份供给3阶段日常护理流程。",
+        "whyTitle": "高冠变色龙的体色变幻与防御信号：张嘴（Gaping）与身体膨胀",
+        "whyDesc": "变色龙改变体色不仅用于伪装，更是调节体温、表达压力和发出警告的主要方式。体色变暗或出现黑斑通常代表低体温或压力过大，而张大嘴巴、将身体压扁膨胀则是极其严厉的防御警告。",
+        "body_signals": [
+          {
+            "name": "张嘴与身体膨胀 (Gaping & Puffing)",
+            "meaning": "因受到惊吓而发出的防御警告，或者因饲养盒内温度过高而试图张嘴散热的散热行为。",
+            "response": "请勿尝试上手，立即后退保持距离，并检查晒背区的温度是否超过了安全范围。"
+          },
+          {
+            "name": "体色变暗及黑斑 (Dark Coloration)",
+            "meaning": "体温偏低正吸收热量，或是因环境剧烈变化、过多的人类注视而承受着巨大的心理压力。",
+            "response": "检查笼内温度与UVB灯具工作状态，在笼舍周围设置遮挡物以减少外界干扰。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：开启UVB晒背灯与滴水器给水",
+            "text": "配合昼行性作息开启UVB灯与晒背灯帮助其提升体温，同时启动滴水器或喷雾器，使树叶上形成可供饮用的水滴。"
+          },
+          {
+            "name": "中午：网笼通风排查与晒背区温度监测",
+            "text": "检查全网笼空气流通状况，确保晒背区（32~35°C）与底部区域（22~25°C）形成合理的温差梯度。"
+          },
+          {
+            "name": "晚上：清理活体残渣与全黑睡眠环境搭建",
+            "text": "清除笼内未吃完的蟋蟀（防止夜间咬伤变色龙），关掉所有灯具，确保其在完全黑暗的环境中舒适睡眠。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "可以在变色龙笼子里放普通水盆给它喝水吗？",
+            "answer": "不可以。高冠变色龙无法识别静止的水。即使放了水盆，它们也会因找不到水源而严重脱水甚至死亡。必须通过滴水器（Dripper）或在树叶上喷雾的方式提供流动水滴。"
+          },
+          {
+            "question": "为什么必须使用竖向网笼而不能用玻璃缸？",
+            "answer": "变色龙对停滞不闷通的空气和积聚的湿气极度敏感，在密闭玻璃缸中极易诱发致命的上呼吸道感染（URI）。使用透气良好的竖向网笼能有效保持空气循环，预防呼吸道疾病。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Guía del terrario de malla vertical para el camaleón velado, sistema de goteo y rutina de 3 pasos con luz UVB",
+        "description": "Guía esencial para el cuidado del camaleón velado (Chamaeleo calyptratus). Conozca la ventilación en terrarios de malla, iluminación UVB/calor, hidratación por goteo y rutina diaria en 3 pasos.",
+        "authority": "Pautas Clínicas de la Asociación de Veterinarios de Reptiles y Anfibios (ARAV) y Estándares de Chameleon Academy",
+        "profile": {
+          "breed": "Camaleón Velado (Chamaeleo calyptratus)",
+          "lifespan": "Machos: 6 ~ 8 años / Hembras: 4 ~ 6 años",
+          "sleep_pattern": "Diurno (Duerme posado en las ramas más altas por la noche)",
+          "temperament": "Solitario, altamente territorial, muy sensible al estrés, arborícola"
+        },
+        "intro": "El camaleón velado (Chamaeleo calyptratus) es un reptil arborícola y diurno nativo de Yemen y Arabia Saudita, famoso por el majestuoso casco o cresta sobre su cabeza y su capacidad para cambiar de color. Al preferir estructuras verticales y ramas dinámicas, es la opción número uno entre los aficionados a los camaleones. Sin embargo, dado que no reconocen el agua estancada en bebederos y solo beben gotas sobre las hojas, un sistema de goteo (Dripper) o nebulización es obligatorio. Además, su alta sensibilidad a las infecciones respiratorias en ambientes cerrados exige el uso de terrarios verticales de malla con buena ventilación e iluminación UVB. En esta guía, cubrimos sus señales de advertencia, configuración de terrario y rutina diaria de 3 pasos.",
+        "whyTitle": "Señales de color y comportamientos defensivos del camaleón velado: Boca abierta (Gaping) e hinchazón",
+        "whyDesc": "Los camaleones cambian de color no solo para camuflarse, sino principalmente para regular su temperatura corporal y expresar estrés o dominancia. Los tonos oscuros reflejan frío o estrés elevado, mientras que abrir la boca e hinchar el cuerpo es una clara señal de advertencia.",
+        "body_signals": [
+          {
+            "name": "Boca abierta e hinchazón (Gaping & Puffing)",
+            "meaning": "Postura defensiva por miedo o un intento de regular su temperatura si la zona de asoleamiento del terrario está demasiado caliente.",
+            "response": "No intente manipularlo; aléjese de inmediato para no estresarlo y verifique que la temperatura de la lámpara de calor sea la adecuada."
+          },
+          {
+            "name": "Coloración oscura o manchas (Dark Coloration)",
+            "meaning": "Indica que el camaleón busca absorber calor por baja temperatura o sufre de estrés continuo por cambios en el entorno.",
+            "response": "Revise el gradiente térmico y la luz UVB, y coloque protecciones visuales alrededor de la malla para darle privacidad."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Encendido de luz UVB/calor y activación del goteo",
+            "text": "Encienda las luces UVB y la lámpara de calor para activar su metabolismo, y ponga en marcha el sistema de goteo para formar gotas en las hojas."
+          },
+          {
+            "name": "Tarde: Control de ventilación y gradiente de temperatura",
+            "text": "Verifique el flujo de aire en el terrario de malla y asegúrese de mantener la zona de asoleamiento a 32–35 °C y la zona inferior a 22–25 °C."
+          },
+          {
+            "name": "Noche: Retirada de insectos vivos y apagado total de luces",
+            "text": "Retire grillos no consumidos para evitar que muerdan al camaleón durante la noche y apague todas las luces para garantizar un descanso en oscuridad."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Puedo poner un recipiente con agua estancada para mi camaleón velado?",
+            "answer": "No. El camaleón velado no reconoce el agua inmóvil como fuente de bebida. Podría morir por deshidratación grave aun teniendo un plato lleno. Debe suministrarle agua obligatoriamente mediante un sistema de goteo o pulverización sobre las hojas."
+          },
+          {
+            "question": "¿Por qué se debe usar un terrario de malla vertical en lugar de uno de cristal?",
+            "answer": "Los camaleones son muy propensos a sufrir infecciones respiratorias graves (URI) si se les mantiene en recintos de cristal con aire estancado y humedad acumulada. Un terrario vertical de malla garantiza una circulación de aire constante, manteniéndolo saludable."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Guide du terrarium en grillage vertical pour caméléon casqué, goutte-à-goutte et routine en 3 étapes avec éclairage UVB",
+        "description": "Guide de soin essentiel pour le caméléon casqué (Chamaeleo calyptratus). Découvrez la ventilation en terrarium grillagé, la lumière UVB, le goutte-à-goutte et la routine en 3 étapes.",
+        "authority": "Directives Cliniques de l'Association of Reptilian and Amphibian Veterinarians (ARAV) et Normes de Chameleon Academy",
+        "profile": {
+          "breed": "Caméléon Casqué (Veiled Chameleon / Chamaeleo calyptratus)",
+          "lifespan": "Mâles : 6 ~ 8 ans / Femelles : 4 ~ 6 ans",
+          "sleep_pattern": "Diurne (Dort perché sur les branches élevées la nuit)",
+          "temperament": "Solitaire, très territorial, extrêmement sensible au stress, arboricole"
+        },
+        "intro": "Le caméléon casqué (Chamaeleo calyptratus) est un reptile arboricole diurne originaire du Yémen et d'Arabie saoudite, célèbre pour la haute crête (casque) qui surmonte sa tête et ses facultés de changement de couleur. Préférant la hauteur et les structures en branches, il est la référence numéro un pour débuter dans l'élevage des caméléons. Cependant, comme il ne reconnaît pas l'eau stagnante dans une gamelle et ne boit que les gouttes d'eau sur le feuillage, un goutte-à-goutte (Dripper) ou un système d'aspersion est indispensable. De plus, très vulnérable aux infections respiratoires en milieu confiné, il nécessite un terrarium vertical entièrement en grillage et un éclairage UVB/chauffant adapté. Dans ce guide, nous détaillons ses signaux de défense, l'aménagement de son terrarium et sa routine d'hydratation quotidienne.",
+        "whyTitle": "Signaux de couleur et comportements de défense du caméléon casqué : Ouverture de gueule (Gaping) et gonflement",
+        "whyDesc": "Le caméléon modifie sa couleur non seulement pour se camoufler, mais aussi pour réguler sa température et exprimer son stress. Une coloration sombre traduit le froid ou l'anxiété, tandis que gonfler son corps et ouvrir largement la gueule constitue un avertissement défensif majeur.",
+        "body_signals": [
+          {
+            "name": "Gueule ouverte et gonflement du corps (Gaping & Puffing)",
+            "meaning": "Comportement de défense face à une menace ou tentative de régulation thermique si le point chaud du terrarium est excessivement élevé.",
+            "response": "Éloignez-vous immédiatement sans chercher à le manipuler, et contrôlez la température sous la lampe chauffante."
+          },
+          {
+            "name": "Teinte sombre et taches noires (Dark Coloration)",
+            "meaning": "Le caméléon cherche à absorber la chaleur en raison d'une température trop basse, ou subit un stress important lié à son environnement.",
+            "response": "Vérifiez les températures et le néon UVB, puis installez des brise-vues autour du terrarium pour lui offrir plus de sérénité."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Activation de l'éclairage UVB/chauffant et du goutte-à-goutte",
+            "text": "Allumez les lampes UVB et chauffante pour réchauffer son organisme, puis lancez le goutte-à-goutte afin de former des gouttes d'eau sur les feuilles."
+          },
+          {
+            "name": "Après-midi : Contrôle de la ventilation et du gradient thermique",
+            "text": "Vérifiez la circulation de l'air dans le terrarium grillagé et assurez-vous de maintenir 32–35 °C au point chaud et 22–25 °C dans la zone basse."
+          },
+          {
+            "name": "Soir : Retrait des insectes vivants et obscurité totale",
+            "text": "Retirez tous les grillons vivants susceptibles de le mordre durant la nuit, puis éteignez toutes les lumières pour lui garantir un sommeil réparateur."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Puis-je mettre une gamelle d'eau classique dans le terrarium du caméléon casqué ?",
+            "answer": "Non. Le caméléon casqué ne perçoit pas l'eau immobile comme de l'eau potable. Il peut mourir de déshydratation sévère à côté d'une gamelle pleine. Il est impératif de lui fournir de l'eau par goutte-à-goutte ou par pulvérisation sur le feuillage."
+          },
+          {
+            "question": "Pourquoi privilégier un terrarium vertical en grillage plutôt qu'en verre ?",
+            "answer": "Les caméléons sont particulièrement sujets aux infections respiratoires supérieures (URI) lorsque l'air et l'humidité stagnent dans un terrarium en verre. Un terrarium vertical en grillage assure un renouvellement d'air constant, garant de leur santé."
+          }
+        ]
+      },
+      "de": {
+        "title": "Jemenchamäleon Netz-Terrarium Einrichtung, Tröpfchensystem und 3-Schritte-Routine mit UVB-Beleuchtung",
+        "description": "Leitfaden für das Jemenchamäleon (Chamaeleo calyptratus). Erfahren Sie alles über Belüftung im Netz-Terrarium, UVB-/Basking-Licht, Tröpfchen-Wasserversorgung und 3-Schritte-Pflege.",
+        "authority": "Klinische Richtlinien der Association of Reptilian and Amphibian Veterinarians (ARAV) und Chameleon Academy Haltungsstandards",
+        "profile": {
+          "breed": "Jemenchamäleon (Veiled Chameleon / Chamaeleo calyptratus)",
+          "lifespan": "Männchen: 6 ~ 8 Jahre / Weibchen: 4 ~ 6 Jahre",
+          "sleep_pattern": "Tagaktiv (Schläft nachts auf hohen Ästen geklammert)",
+          "temperament": "Einzelgängerisch, sehr territorial, extrem stressempfindlich, baumbewohnend"
+        },
+        "intro": "Das Jemenchamäleon (Chamaeleo calyptratus) ist ein tagaktives, baumbewohnendes Reptil aus dem Jemen und Saudi-Arabien, das für seinen imposanten Helm (Cask) auf dem Kopf und seine beeindruckenden Farbwechsel bekannt ist. Da es hohe, gut strukturierte Kletterbereiche bevorzugt, gilt es als die beliebteste Einsteigerart unter Chamäleon-Haltern. Da Chamäleons stehendes Wasser in Wasserschalen jedoch nicht erkennen und ausschließlich Wassertropfen von Blättern trinken, ist ein Tröpfchensystem (Dripper) oder eine Beregnungsanlage zwingend erforderlich. Zudem sind sie in stickiger Luft sehr anfällig für Atemwegsinfektionen, weshalb ein gut belüftetes Netz-Terrarium (Flexarium) und passende UVB-/Wärmestrahler lebensnotwendig sind. Heute erklärt  die Warnsignale des Jemenchamäleons, die Einrichtung des Terrariums und die tägliche Pflege.",
+        "whyTitle": "Farbwechsel und Abwehrverhalten des Jemenchamäleons: Maulaufreißen (Gaping) und Aufblähen",
+        "whyDesc": "Chamäleons wechseln ihre Farbe nicht nur zur Tarnung, sondern vor allem zur Wärmeregulierung und zum Ausdruck von Stress. Dunkle Verfärbungen deuten auf Kälte oder Stress hin, während das weite Öffnen des Mauls und das Aufblähen des Körpers ein deutliches Warnsignal sind.",
+        "body_signals": [
+          {
+            "name": "Maulaufreißen & Aufblähen (Gaping & Puffing)",
+            "meaning": "Abwehrverhalten bei Bedrohung oder ein Versuch zur Wärmeregulierung, wenn es am Sonnenplatz im Terrarium zu heiß ist.",
+            "response": "Treten Sie sofort zurück, ohne das Tier zu berühren, und überprüfen Sie die Temperatur unter dem Wärmestrahler."
+          },
+          {
+            "name": "Dunkle Verfärbung & Stressflecken (Dark Coloration)",
+            "meaning": "Das Chamäleon versucht wegen zu niedriger Temperatur Wärme aufzunehmen oder leidet unter starkem Stress durch Veränderungen.",
+            "response": "Prüfen Sie das Temperaturgefälle und die UVB-Lampe und bringen Sie einen Sichtschutz um das Terrarium an."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Einschalten von UVB/Wärmelampe & Start des Tröpfchensystems",
+            "text": "Schalten Sie die UVB- und Wärmelampen ein, um die Körpertemperatur zu steigern, und aktivieren Sie den Dripper für Trinktropfen auf den Blättern."
+          },
+          {
+            "name": "Nachmittag: Belüftungs- & Temperaturkontrolle im Netz-Terrarium",
+            "text": "Kontrollieren Sie die Luftzirkulation im Netz-Terrarium und stellen Sie sicher, dass der Sonnenplatz bei 32–35 °C und der untere Bereich bei 22–25 °C liegt."
+          },
+          {
+            "name": "Abend: Entfernen von Futterinsekten & vollständige Dunkelheit",
+            "text": "Entfernen Sie nicht gefressene Heimchen, die das Chamäleon nachts anknabbern könnten, und schalten Sie alle Lichter für die Nachtruhe aus."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Kann ich eine normale Wasserschale für mein Jemenchamäleon verwenden?",
+            "answer": "Nein. Jemenchamäleons erkennen stehendes Wasser in einer Schale nicht als Trinkwasser. Sie können selbst neben einer vollen Schale verdursten. Das Wasser muss zwingend über ein Tröpfchensystem oder durch Besprühen der Blätter bereitgestellt werden."
+          },
+          {
+            "question": "Warum sollte man ein Netz-Terrarium anstelle eines Glasterrariums verwenden?",
+            "answer": "Chamäleons neigen in geschlossenen Glasterrarien mit stehender, feuchter Luft schnell zu tödlichen Atemwegsinfektionen (URI). Ein hochformatiges Netz-Terrarium sorgt für kontinuierliche Frischluftzufuhr und schützt die Gesundheit des Tieres."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Guia de terrário vertical de rede para camaleão-velado, sistema de gotejamento e rotina de 3 passos com luz UVB",
+        "description": "Guia de cuidados essenciais para o camaleão-velado (Chamaeleo calyptratus). Saiba mais sobre ventilação em terrários de tela, iluminação UVB, hidratação por gotejamento e rotina diária em 3 passos.",
+        "authority": "Diretrizes Clínicas da Associação de Veterinários de Répteis e Anfíbios (ARAV) e Padrões da Chameleon Academy",
+        "profile": {
+          "breed": "Camaleão-Velado (Chamaeleo calyptratus)",
+          "lifespan": "Machos: 6 ~ 8 anos / Fêmeas: 4 ~ 6 anos",
+          "sleep_pattern": "Diurno (Dorme empoleirado nos galhos mais altos à noite)",
+          "temperament": "Solitário, muito territorial, extremamente sensível ao estresse, arborícola"
+        },
+        "intro": "O camaleão-velado (Chamaeleo calyptratus) é um réptil arborícola e diurno nativo do Iêmen e da Arábia Saudita, famoso pela impressionante crista (elmo) no topo da cabeça e pela sua capacidade de mudar de cor. Como prefere estruturas verticais e galhos para escalada, é a espécie número um escolhida por iniciantes na criação de camaleões. Contudo, visto que não reconhecem água parada em tigelas e bebem apenas gotículas nas folhas, um gotejador (Dripper) ou sistema de nebulização é obrigatório. Além disso, devido à sua vulnerabilidade a infecções respiratórias em ar abafado, o uso de terrários verticais de tela e iluminação UVB adequada é vital. Neste guia, detalhamos os seus sinais defensivos, a montagem do terrário e a rotina diária de hidratação.",
+        "whyTitle": "Sinais de cor e comportamentos defensivos do camaleão-velado: Boca aberta (Gaping) e corpo inflado",
+        "whyDesc": "Os camaleões mudam de cor não apenas para se camuflar, mas principalmente para regular a temperatura e expressar estresse. Tons escuros indicam frio ou estresse elevado, enquanto abrir bem a boca e inflar o corpo é um sinal claro de advertência.",
+        "body_signals": [
+          {
+            "name": "Boca aberta e corpo inflado (Gaping & Puffing)",
+            "meaning": "Uma postura defensiva contra ameaças ou uma tentativa de resfriamento corporal caso a área de aquecimento do terrário esteja quente demais.",
+            "response": "Afaste-se imediatamente sem tentar manipulá-lo e verifique se a temperatura da lâmpada de aquecimento está dentro dos limites seguros."
+          },
+          {
+            "name": "Coloração escura e manchas de estresse (Dark Coloration)",
+            "meaning": "Indica que o camaleão está tentando absorver calor devido à baixa temperatura ou está enfrentando alto estresse devido a mudanças no ambiente.",
+            "response": "Verifique o gradiente térmico e a iluminação UVB do terrário e coloque proteções visuais ao redor da tela para evitar estresse externo."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Ativação da iluminação UVB/aquecimento e início do gotejamento",
+            "text": "Ligue as lâmpadas UVB e de aquecimento para elevar a temperatura corporal e inicie o gotejador para formar gotas de água nas folhas."
+          },
+          {
+            "name": "Tarde: Verificação da ventilação e gradiente de temperatura",
+            "text": "Inspecione o fluxo de ar no terrário de rede e garanta a manutenção da zona de aquecimento em 32–35 °C e da zona inferior em 22–25 °C."
+          },
+          {
+            "name": "Noite: Remoção de insetos vivos e ambiente escuro para dormir",
+            "text": "Retire os grilos vivos não consumidos que possam morder o camaleão durante a noite e desligue todas as luzes para garantir o descanso."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Posso usar um bebedouro comum com água parada para o camaleão-velado?",
+            "answer": "Não. O camaleão-velado não reconhece água parada em uma tigela como potável. Ele pode morrer de desidratação severa mesmo com a tigela cheia. Forneça água obrigatoriamente por gotejamento ou borrifando nas folhas."
+          },
+          {
+            "question": "Por que devo usar um terrário vertical de rede em vez de um de vidro?",
+            "answer": "Os camaleões são extremamente suscetíveis a infecções respiratórias graves (URI) em recintos fechados de vidro com ar abafado. O terrário vertical de rede garante ventilação contínua e previne doenças respiratórias."
+          }
+        ]
+      },
+      "id": {
+        "title": "Panduan Setting Kandang Jaring Vertikal Bunglon Veiled, Perawatan Air Dripper, dan Rutin 3 Langkah Lampu UVB",
+        "description": "Panduan perawatan esensial bunglon Veiled (Chamaeleo calyptratus). Pelajari ventilasi kandang jaring, pencahayaan UVB/penghangat, sistem air dripper, dan rutin harian 3 langkah.",
+        "authority": "Pedoman Klinis Association of Reptilian and Amphibian Veterinarians (ARAV) dan Standar Pemeliharaan Chameleon Academy",
+        "profile": {
+          "breed": "Bunglon Veiled (Veiled Chameleon / Chamaeleo calyptratus)",
+          "lifespan": "Jantan: 6 ~ 8 Tahun / Betina: 4 ~ 6 Tahun",
+          "sleep_pattern": "Diurnal (Tidur Cengkeram pada Dahan Tinggi di Malam Hari)",
+          "temperament": "Soliter, Sangat Teritorial, Sangat Sensitif Terhadap Stres, Arborial"
+        },
+        "intro": "Bunglon Veiled (Chamaeleo calyptratus) adalah reptil arborial diurnal asal Yaman dan Arab Saudi yang terkenal dengan mahkota (crest/cask) megah di kepala serta kemampuan perubahan warna tubuhnya. Menyukai ketinggian dan struktur dahan yang rumit, spesies ini menjadi pilihan utama pemula pemelihara bunglon. Namun, karena mereka tidak mengenali air tenang di mangkuk dan hanya meminum tetesan air di dedaunan, sistem air dripper atau misting otomatis sangat wajib digunakan. Selain itu, mereka sangat rentan terhadap infeksi saluran pernapasan pada udara pengap, sehingga kandang jaring (mesh) vertikal dengan sirkulasi udara baik serta pencahayaan UVB sangat vital. Dalam panduan ini, kami mengulas sinyal pertahanan bunglon Veiled, pengaturan kandang vertikal, dan rutin hidrasi 3 langkah.",
+        "whyTitle": "Sinyal Warna dan Perilaku Pertahanan Bunglon Veiled: Mulut Terbuka (Gaping) dan Menggelembungkan Tubuh",
+        "whyDesc": "Bunglon mengubah warna tubuh bukan hanya untuk kamuflase, melainkan untuk mengatur suhu tubuh dan mengekspresikan stres. Warna gelap menunjukkan rasa dingin atau stres berat, sedangkan membuka mulut lebar-lebar dan menggelembungkan tubuh merupakan sinyal peringatan keras.",
+        "body_signals": [
+          {
+            "name": "Mulut Terbuka & Tubuh Menggelembung (Gaping & Puffing)",
+            "meaning": "Sikap bertahan karena merasa terancam, atau upaya menurunkan suhu tubuh saat area basking di dalam kandang terlalu panas.",
+            "response": "Segera mundur tanpa mencoba memegangnya, dan pastikan suhu di bawah lampu basking tidak melebihi batas aman."
+          },
+          {
+            "name": "Warna Tubuh Gelap & Bintik Stres (Dark Coloration)",
+            "meaning": "Menunjukkan bunglon berusaha menyerap panas akibat suhu rendah, atau mengalami stres berat akibat perubahan lingkungan.",
+            "response": "Periksa gradien suhu dan pencahayaan UVB kandang, serta pasang penghalang visual di sekitar kandang untuk mengurangi stres eksternal."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Aktivasi Lampu UVB/Penghangat & Pengoperasian Dripper",
+            "text": "Nyalakan lampu UVB dan basking untuk menaikkan suhu tubuh, lalu jalankan dripper agar terbentuk tetesan air minum di dedaunan."
+          },
+          {
+            "name": "Siang: Pemeriksaan Ventilasi & Suhu Area Basking",
+            "text": "Periksa sirkulasi udara kandang jaring dan pastikan gradien suhu antara area basking (32–35 °C) dan area bawah (22–25 °C) terjaga."
+          },
+          {
+            "name": "Malam: Pembersihan Serangga Hidup & Pengondisian Gelap untuk Tidur",
+            "text": "Bersihkan jangkrik hidup yang tersisa agar tidak menggigit bunglon saat malam, lalu matikan semua lampu untuk menciptakan suasana tidur yang gelap."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Bolehkah saya menggunakan mangkuk air biasa untuk bunglon Veiled?",
+            "answer": "Tidak boleh. Bunglon Veiled tidak mengenali air tenang di dalam mangkuk sebagai air minum. Mereka bisa mati karena dehidrasi parah meskipun ada mangkuk air penuh. Air wajib diberikan melalui sistem dripper atau semprotan pada daun."
+          },
+          {
+            "question": "Mengapa harus menggunakan kandang jaring vertikal dibanding kandang kaca?",
+            "answer": "Bunglon sangat rentan terhadap infeksi saluran pernapasan atas (URI) yang fatal jika dipelihara di kandang kaca tertutup dengan udara pengap. Kandang jaring vertikal menjamin sirkulasi udara terus-menerus sehingga menjaga kesehatan pernapasan."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/veiled_chameleon_care.webp"
+  }
 }

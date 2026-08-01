@@ -1,459 +1,459 @@
 {
-    "english-bulldog-care": {
-        "pubDate": "2026-02-10",
-        "updatedDate": "2026-02-10",
-        "locales": {
-            "ko": {
-                "title": "잉글리시 불독 얼굴 주름 위생과 단두종 체온 관리를 위한 3단계 데일리 케어",
-                "description": "묵묵하고 순한 반전 매력의 잉글리시 불독. 얼굴 안면 주름 간찰진(피부염) 예방과 짧은 비강 구조에 맞춘 체온 조절 중심의 3단계 가이드라인을 소개합니다.",
-                "authority": "세계애견연맹(FCI) 품종 표준 및 미국켄넬클럽(AKC) 수의학 임상 가이드라인",
-                "profile": {
-                    "breed": "잉글리시 불독 (English Bulldog)",
-                    "lifespan": "8 ~ 10년",
-                    "sleep_pattern": "12 ~ 14시간 (단두종 호흡 특성으로 인한 고요한 실내 휴식)",
-                    "temperament": "순함, 느긋함, 용맹함, 충성심 높음, 고집 있음, 다정함"
-                },
-                "intro": "잉글리시 불독은 특유의 깊은 얼굴 주름과 육중하고 단단한 체구, 순하고 온화한 성품으로 전 세계에서 꾸준히 사랑받는 대표적인 중형견입니다. 프렌치 불독보다 골격이 훨씬 크고 가슴 폭이 넓은 전통 불독 체형을 가졌으며, 눌린 코 구조(단두종)로 인해 열에 매우 약하고 체온 조절 능력이 떨어집니다. 또한 얼굴 주름과 꼬리 포켓 사이에 습기와 노폐물이 차면 세균 및 효모균성 간찰진(피부염)이 쉽게 발생합니다. 이번 가이드에서는 잉글리시 불독의 본능적 표현 신호를 해석하고, 주름 위생과 열사병 예방을 위한 3단계 데일리 홈케어 루틴을 다룹니다.",
-                "whyTitle": "잉글리시 불독의 소통 방법: 기분 좋은 꿀꿀 소리와 열감 신호",
-                "whyDesc": "잉글리시 불독은 감정이 안정되었거나 기분이 좋을 때 돼지 소리와 비슷한 나긋나긋한 **'가릉가릉(Happy Grunting)'** 소리를 내며 보호자 옆에 몸을 밀착합니다. 그러나 체온이 올라가거나 호흡이 가빠지면 혀를 길게 빼고 거친 **'개헐떡임(Heavy Panting)'**을 보이며 바닥에 납작 엎드려 위험 신호를 보냅니다.",
-                "body_signals": [
-                    {
-                        "name": "나긋나긋한 가릉 소리와 몸 밀착 (Happy Grunting)",
-                        "meaning": "심리적 안도감과 충성심의 표현이며, 보호자 곁에서 편안하게 휴식을 취하고 싶다는 우호적인 신호입니다.",
-                        "response": "차분한 목소리로 화답해주고 가슴이나 턱 밑을 부드럽게 쓰다듬어 안정감을 줍니다."
-                    },
-                    {
-                        "name": "거친 개헐떡임과 바닥 납작 엎드림 (Heavy Panting)",
-                        "meaning": "단두종 호흡기 자극이나 실내외 높은 온도로 인해 체온 조절 한계에 도달했다는 위험 경고 신호입니다.",
-                        "response": "즉시 운동을 중단하고 에어컨이 작동하는 시원한 장소로 이동시킨 후 미지근한 물을 제공합니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 얼굴 주름 습기 제거 및 서늘한 시간대 짧은 산책",
-                        "text": "아침 일찍 무알코올 저자극 닦개로 안면 주름과 코 주변 습기를 닦아내고 완벽히 말려줍니다. 온도가 올라가기 전 15~20분 내외의 가벼운 산책을 진행합니다."
-                    },
-                    {
-                        "name": "낮: 실내 적정 온도(20~22℃) 유지 및 실내 감각 놀이",
-                        "text": "열사병 방지를 위해 실내 온도를 20~22℃, 습도를 50% 이하로 세팅합니다. 격렬한 운동 대신 저강도 장난감 놀이로 스트레스를 해소합니다."
-                    },
-                    {
-                        "name": "저녁: 꼬리 포켓·발가락 케어 및 체중 관리 식단",
-                        "text": "꼬리 안쪽 주름(꼬리 포켓)과 발가락 사이를 청결히 소독 및 건조합니다. 관절과 호흡기에 부담을 주지 않도록 정량의 고단백 저지방 식단을 급여합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "프렌치 불독과 잉글리시 불독은 어떻게 다른가요?",
-                        "answer": "프렌치 불독은 체중 8~14kg의 소형/중형견으로 솟아오른 박쥐 귀(Bat ears)를 가진 반면, 잉글리시 불독은 체중 20~25kg에 달하는 대형 골격과 접힌 장미 귀(Rose ears), 더 깊은 얼굴 주름과 넓은 가슴을 가졌습니다."
-                    },
-                    {
-                        "question": "얼굴 주름 사이에 빨갛게 진물이 나는데 어떻게 해야 하나요?",
-                        "answer": "주름 사이에 땀과 눈물이 고여 발생한 곰팡이/세균성 피부염(간찰진)입니다. 습기를 매일 닦아 건조하게 유지하고, 증상이 심할 경우 수의사 처방 림프용 세정제나 항균 ointments를 사용해야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "English Bulldog Facial Wrinkle Hygiene and Brachycephalic Thermal Care Daily Routine",
-                "description": "Caring for the gentle, calm English Bulldog. Learn how to prevent intertrigo in facial skin folds and manage temperature for brachycephalic airway health.",
-                "authority": "FCI Breed Standards and American Kennel Club (AKC) Veterinary Clinical Guidelines",
-                "profile": {
-                    "breed": "English Bulldog",
-                    "lifespan": "8 - 10 Years",
-                    "sleep_pattern": "12 - 14 Hours (Quiet Indoor Rest Suited for Brachycephalic Physiology)",
-                    "temperament": "Gentle, Calm, Courageous, Loyal, Stubborn, Affectionate"
-                },
-                "intro": "The English Bulldog is an iconic medium-sized breed cherished globally for its deep facial wrinkles, sturdy stocky build, and surprisingly gentle demeanor. Featuring a much broader chest and heavier bone structure than the French Bulldog, this traditional breed possesses a short, brachycephalic muzzle that makes thermal regulation difficult. Accumulated moisture and debris within their facial folds and tail pocket can rapidly lead to bacterial or yeast intertrigo (skin fold dermatitis). In this guide, breaks down English Bulldog communication signals and outlines a 3-step homecare routine for wrinkle hygiene and heatstroke prevention.",
-                "whyTitle": "English Bulldog Communication: Contented Grunts and Thermal Distress Signals",
-                "whyDesc": "When emotionally relaxed, English Bulldogs express satisfaction by producing soft **'Happy Grunting'** noises while leaning their heavy bodies against their owners. However, when overheating or struggling to breathe, they extend their tongue, engage in **'Heavy Panting'**, and lie flat on cooling surfaces as a distress warning.",
-                "body_signals": [
-                    {
-                        "name": "Soft Grunting and Body Leaning (Happy Grunting)",
-                        "meaning": "A sign of deep emotional security and loyalty, communicating a desire to rest peacefully alongside their caregiver.",
-                        "response": "Respond with a calm voice and gently stroke their chest or under the chin to reinforce relaxation."
-                    },
-                    {
-                        "name": "Heavy Panting and Flat Lying (Heavy Panting)",
-                        "meaning": "An urgent warning sign that high temperatures or physical exertion have exceeded their thermal regulation limits.",
-                        "response": "Immediately cease all activity, move them to an air-conditioned area, and offer small amounts of lukewarm water."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Facial Wrinkle Drying & Cool Hours Walk",
-                        "text": "Wipe moisture from facial folds with non-alcoholic wipes before drying thoroughly. Conduct a short 15-20 minute walk early in the morning before temperatures rise."
-                    },
-                    {
-                        "name": "Afternoon: Climate Control (20-22°C) & Low-Impact Enrichment",
-                        "text": "Maintain indoor temperatures at 20-22°C with humidity under 50% to prevent heat stress. Replace strenuous exercise with low-impact indoor enrichment games."
-                    },
-                    {
-                        "name": "Evening: Tail Pocket & Paw Care + Calorie-Controlled Diet",
-                        "text": "Clean and dry the tail pocket and interdigital spaces between paws. Feed a balanced, high-protein diet to prevent obesity and protect joints and airways."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "What is the key difference between a French Bulldog and an English Bulldog?",
-                        "answer": "French Bulldogs weigh 8-14 kg and possess upright 'bat ears', whereas English Bulldogs weigh 20-25 kg, boasting a much heavier skeletal frame, folded 'rose ears', deeper facial wrinkles, and a broader chest."
-                    },
-                    {
-                        "question": "How do I prevent and treat red, irritated skin within facial wrinkles?",
-                        "answer": "Skin fold irritation (intertrigo) occurs when moisture and tears accumulate. Wipe wrinkles daily and ensure they remain completely dry. If inflamed, consult a vet for medicated antiseptic or antifungal wipes."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "イングリッシュ・ブルドッグの顔のシワ衛生と短頭種向け体温管理の3ステップ日常ルーティン",
-                "description": "穏やかで愛らしいギャップ萌えのイングリッシュ・ブルドッグ。顔のシワの皮膚炎（擦疹）予防と、短頭種特有の熱中症を防ぐ体温管理の3ステップガイドを解説します。",
-                "authority": "国際畜犬連盟（FCI）犬種標準およびアメリカンケネルクラブ（AKC）獣医臨床ガイドライン",
-                "profile": {
-                    "breed": "イングリッシュ・ブルドッグ (English Bulldog)",
-                    "lifespan": "8 〜 10年",
-                    "sleep_pattern": "12 〜 14時間 (短頭種の呼吸特性に合わせた静かな室内休息)",
-                    "temperament": "穏やか、のんびり、勇猛、忠実、頑固、愛嬌たっぷり"
-                },
-                "intro": "イングリッシュ・ブルドッグは、深く刻まれた顔のシワとどっしりとした体格、そして見た目に反した温厚な性格で世界中から愛されている中型犬です。フレンチ・ブルドッグよりも骨太で幅広な胸を持つ伝統的なブルドッグの体型をしており、つぶれた鼻（短頭種）の構造上、熱に非常に弱く体温調節が苦手です。また、シワや尾のくぼみ（テールポケット）に湿気が溜まると、細菌や真菌による皮膚炎（擦疹）が発生しやすくなります。本記事では、ブルドッグの感情サインと、シワの清潔保持・熱中症予防のための3ステップ日常ルーティンを紹介します。",
-                "whyTitle": "イングリッシュ・ブルドッグの感情表現：ご機嫌な鼻鳴らしと体温上昇サイン",
-                "whyDesc": "イングリッシュ・ブルドッグはリラックスしている時、豚のような可愛らしい**「鼻鳴らし（Happy Grunting）」**をしながら飼い主に体をすり寄せます。しかし、体温が上がったり呼吸が苦しくなると、舌を長く出して激しく**「荒い息遣い（Heavy Panting）」**をし、床にべったり伏せて危険を知らせます。",
-                "body_signals": [
-                    {
-                        "name": "愛らしい鼻鳴らしと体の密着 (Happy Grunting)",
-                        "meaning": "精神的な安心感と深い忠誠心の表れであり、飼い主のそばで落ち着いて過ごしたいという親愛のサインです。",
-                        "response": "穏やかな声で話しかけ、胸やあごの下を優しく撫でて安心させてあげましょう。"
-                    },
-                    {
-                        "name": "荒い息遣いと床へのべた伏せ (Heavy Panting)",
-                        "meaning": "気温の上昇や運動により体温調節の限界に達したことを示す、緊急性の高い警戒サインです。",
-                        "response": "すぐに運動を中止し、エアコンの効いた涼しい室内に移動させてぬるま湯を与えてください。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：シワの水分拭き取りと涼しい時間帯の短いお散歩",
-                        "text": "朝一番にノンアルコールのウェットティッシュでシワと鼻周りの汚れを拭き、しっかり乾燥させます。気温が上がる前に15〜20分程度の軽いお散歩を行います。"
-                    },
-                    {
-                        "name": "昼：室内適温（20〜22℃）の維持と低負荷の室内遊び",
-                        "text": "熱中症予防のため室温20〜22℃、湿度50%以下を維持します。激しい運動は避け、知育玩具など低負荷の室内遊びでストレスを解消します。"
-                    },
-                    {
-                        "name": "夜：テールポケット・指間のケアと体重管理フード",
-                        "text": "尻尾のくぼみ（テールポケット）や足の指間の汚れを清拭・乾燥させます。関節や呼吸器に負担をかけないよう、 calibrated された高タンパク・低脂質フードを与えます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "フレンチ・ブルドッグとイングリッシュ・ブルドッグの違いは何ですか？",
-                        "answer": "フレンチ・ブルドッグは体重8〜14kgで立ち耳（バット・イヤーズ）を持ちますが、イングリッシュ・ブルドッグは体重20〜25kgの大きな骨格と折りたたまれた薔薇耳（ローズ・イヤーズ）、より深いシワと広い胸幅を持っています。"
-                    },
-                    {
-                        "question": "顔のシワの間が赤くただれてしまった場合の対処法は？",
-                        "answer": "涙や汗が溜まって起きるシワの皮膚炎（擦疹）です。毎日シワの間を拭いて完全乾燥させてください。炎症がひどい場合は、獣医師から処方された薬用洗浄液や軟膏を使用する必要があります。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "英国斗牛犬面部褶皱卫生与短头犬体温管理的3阶段日常护理指南",
-                "description": "针对外表威猛、性格温顺的反差萌英国斗牛犬。学习预防面部褶皱间擦疹（皮肤炎）及适应其短头呼吸道结构的3阶段日常护理流程。",
-                "authority": "世界犬业联盟 (FCI) 犬种标准及美国犬业俱乐部 (AKC) 兽医临床指南",
-                "profile": {
-                    "breed": "英国斗牛犬 (English Cocker Spaniel / English Bulldog)",
-                    "lifespan": "8 ~ 10年",
-                    "sleep_pattern": "12 ~ 14小时 (适应短头气道特征的安静室内休息)",
-                    "temperament": "温和、悠闲、勇猛、忠诚、固执、亲人"
-                },
-                "intro": "英国斗牛犬以其标志性的深面部褶皱、粗壮结实的体格以及出人意料的温和性格而闻名世界。它们拥有比法国斗牛犬更大、胸宽更广的传统斗牛犬骨骼，但由于扁平的鼻腔结构（短头犬），极度不耐热且散热能力较差。此外，当湿气和污垢积聚在面部褶皱和尾巴窝（Tail pocket）中时，极易引发细菌或真菌性间擦疹。本指南将解析英国斗牛犬的情感表达信号，并分享褶皱清洁与预防中暑的3阶段日常护理流程。",
-                "whyTitle": "英国斗牛犬的交流方式：愉快的哼哧声与体温预警信号",
-                "whyDesc": "当情绪放松或感到高兴时，英国斗牛犬会发出类似小猪哼哼的**“愉快哼哧声 (Happy Grunting)”**，并将沉重的身体紧贴主人。然而，当体温过高或呼吸困难时，它们会伸长舌头剧烈**“喘息 (Heavy Panting)”**，并贴地平躺发出危险信号。",
-                "body_signals": [
-                    {
-                        "name": "温柔的哼哧声与身体紧贴 (Happy Grunting)",
-                        "meaning": "代表心理上的安全感与忠诚，表达希望在主人身边安静休息的亲昵意图。",
-                        "response": "用温和的声音回应，轻轻抚摸其胸部或下巴以巩固放松状态。"
-                    },
-                    {
-                        "name": "剧烈喘息与贴地平躺 (Heavy Panting)",
-                        "meaning": "表明因高温或运动导致体温调节已达极限，是极其危险的中暑警示信号。",
-                        "response": "立即停止运动，转移至有空调的凉爽室内，并提供少量温水。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：面部褶皱去湿与凉爽时段短途散步",
-                        "text": "清晨用无酒精湿巾擦拭面部褶皱及鼻子周围，并彻底晾干。在气温升高前进行15-20分钟的轻度散步。"
-                    },
-                    {
-                        "name": "白天：维持室内适宜温度(20-22℃)与低强度室内游戏",
-                        "text": "将室内温度保持在20-22℃、湿度保持在50%以下以防中暑。用低强度的室内藏食游戏替代剧烈运动。"
-                    },
-                    {
-                        "name": "晚上：尾巴窝与指间护理 + 体重控制饮食",
-                        "text": "清洁并干燥尾巴根部褶皱（尾巴窝）和脚趾间缝隙。喂食定量的高蛋白低脂饮食，避免肥胖增加关节与呼吸道负担。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "法国斗牛犬与英国斗牛犬有什么区别？",
-                        "answer": "法国斗牛犬体重约8-14kg，拥有直立的“蝙蝠耳”；而英国斗牛犬体重可达20-25kg，骨骼更沉重，拥有折叠的“玫瑰耳”、更深的面部褶皱和更宽阔的胸膛。"
-                    },
-                    {
-                        "question": "面部褶皱发红发炎该如何处理？",
-                        "answer": "这是因眼泪或汗水积聚导致的褶皱间擦疹（皮肤炎）。每天必须擦拭并保持绝对干燥。若炎症严重，需咨询兽医使用专用抗菌洗剂或软膏。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Higiene de arrugas y cuidado térmico braquicefálico del Bulldog Inglés: Rutina de 3 pasos",
-                "description": "Cuidados para el dócil y tranquilo Bulldog Inglés. Descubra cómo prevenir la intertrigo en los pliegues faciales y controlar la temperatura corporal en perros braquicefálicos.",
-                "authority": "Estándares de la FCI y Guías Clínicas Veterinarias del American Kennel Club (AKC)",
-                "profile": {
-                    "breed": "Bulldog Inglés (English Bulldog)",
-                    "lifespan": "8 ~ 10 años",
-                    "sleep_pattern": "12 ~ 14 horas (descanso en interiores adaptado a su fisiología braquicefálica)",
-                    "temperament": "Dócil, calmado, valiente, leal, terco, afectuoso"
-                },
-                "intro": "El Bulldog Inglés es una icónica raza de tamaño mediano amada en todo el mundo por sus profundas arrugas faciales, su cuerpo robusto y compacto, y su carácter sorprendentemente dócil. Posee un tórax más ancho y una estructura ósea más pesada que el Bulldog Francés. Sin embargo, su hocico chato (condición braquicefálica) dificulta la autorregulación de la temperatura corporal, haciéndolo muy vulnerable al golpe de calor. Además, la humedad atrapada en sus arrugas y en el pliegue de la cola (tail pocket) puede causar dermatitis por intertrigo. En esta guía, explicamos sus señales de comunicación y la rutina de 3 pasos para proteger su salud.",
-                "whyTitle": "Comunicación del Bulldog Inglés: Gruñidos de satisfacción y señales de calor",
-                "whyDesc": "Cuando se siente seguro y feliz, el Bulldog Inglés emite suaves **'Gruñidos Agradables' (Happy Grunting)** similares a los de un cerdito mientras apoya su pesado cuerpo contra su dueño. Por el contrario, ante el calor excesivo, extiende la lengua, realiza un **'Jadeo Pesado' (Heavy Panting)** y se tumba totalmente plano sobre el suelo.",
-                "body_signals": [
-                    {
-                        "name": "Gruñidos suaves y apoyo corporal (Happy Grunting)",
-                        "meaning": "Expresión de apego y confianza total; indica que desea descansar de forma apacible junto a su cuidador.",
-                        "response": "Háblele con voz pausada y acaricie suavemente su pecho para reforzar su tranquilidad."
-                    },
-                    {
-                        "name": "Jadeo intenso y postura tendida plana (Heavy Panting)",
-                        "meaning": "Alarma de estrés térmico grave; indica que el esfuerzo o la temperatura han superado su capacidad de refrigeración.",
-                        "response": "Detenga la actividad inmediatamente, llévelo a un ambiente con aire acondicionado y ofrézcale poca agua fresca."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Limpieza de arrugas y paseo en horas frescas",
-                        "text": "Limpie los pliegues faciales con toallitas sin alcohol y séquelos minuciosamente. Realice un paseo corto de 15 a 20 minutos temprano antes de que suba la temperatura."
-                    },
-                    {
-                        "name": "Tarde: Control ambiental (20-22 °C) y juegos sin esfuerzo",
-                        "text": "Mantenga la casa entre 20 y 22 °C con humedad inferior al 50%. Sustituya el ejercicio duro por juegos de estimulación mental en interiores."
-                    },
-                    {
-                        "name": "Noche: Higiene del pliegue de la cola y dieta de control de peso",
-                        "text": "Desinfecte y seque la cavidad de la cola (tail pocket) y los espacios interdigitales. Adminístrele una dieta equilibrada para evitar el sobrepeso que daña sus articulaciones."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿En qué se diferencian el Bulldog Francés y el Bulldog Inglés?",
-                        "answer": "El Bulldog Francés pesa entre 8 y 14 kg y tiene orejas de murciélago erguidas. El Bulldog Inglés pesa entre 20 y 25 kg, tiene una estructura ósea mucho más pesada, orejas en rosa plegadas, arrugas más profundas y un pecho más ancho."
-                    },
-                    {
-                        "question": "¿Cómo tratar la irritación o enrojecimiento entre las arrugas?",
-                        "answer": "Se trata de intertrigo (dermatitis de pliegues) causado por la acumulación de lágrimas y sudor. Limpie las arrugas a diario y manténgalas secas. Si la piel está muy inflamada, consulte al veterinario para usar toallitas antisépticas."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Hygiène des rides du Bulldog Anglais et soins thermiques pour brachycéphales : Routine en 3 étapes",
-                "description": "Prendre soin du Bulldog Anglais au caractère calme et affectueux. Découvrez comment prévenir l'intertrigo des plis faciaux et réguler la température de ce chien brachycéphale.",
-                "authority": "Standard de race FCI et Recommandations Vétérinaires de l'AKC",
-                "profile": {
-                    "breed": "Bulldog Anglais (English Bulldog)",
-                    "lifespan": "8 ~ 10 ans",
-                    "sleep_pattern": "12 ~ 14 heures (repos calme en intérieur adapté à sa physiologie brachycéphale)",
-                    "temperament": "Doux, calme, courageux, loyal, têtu, affectueux"
-                },
-                "intro": "Le Bulldog Anglais est une race moyenne emblématique appréciée dans le monde entier pour ses rides faciales caractéristiques, sa musculature trapue et son tempérament doux. Possédant un poitrail plus large et une ossature plus lourde que le Bouledogue Français, sa face aplatie (morphologie brachycéphale) rend la régulation de sa température corporelle difficile face à la chaleur. De plus, l'humidité accumulée dans ses plis et dans la poche de sa queue (tail pocket) favorise l'intertrigo (dermatite des plis). Dans ce guide, vous explique son langage corporel et la routine en 3 étapes pour sa santé.",
-                "whyTitle": "Communication du Bulldog Anglais : Grognevoles joyeux et signaux de détresse thermique",
-                "whyDesc": "Lorsqu'il est serein, le Bulldog Anglais pousse de doux **'Grognements Joyeux' (Happy Grunting)** semblables à de petits grognements de porcelet tout en collant son corps massif contre son maître. En revanche, lorsqu'il souffre de la chaleur, il tire la langue, subit un **'Halètement Intense' (Heavy Panting)** et s'étale de tout son long sur le sol.",
-                "body_signals": [
-                    {
-                        "name": "Grognements doux et appui corporel (Happy Grunting)",
-                        "meaning": "Preuve de confiance absolue et de loyauté, exprimant le désir de se reposer paisiblement à vos côtés.",
-                        "response": "Parlez-lui calmement et caressez doucement son poitrail ou sous son menton pour prolonger ce moment."
-                    },
-                    {
-                        "name": "Halètement intense et position étalée au sol (Heavy Panting)",
-                        "meaning": "Signal d'alarme indiquant que la température ou l'effort a dépassé les capacités de thermorégulation du chien.",
-                        "response": "Stoppez immédiatement l'effort, placez-le dans une pièce fraîche et climatisée et donnez-lui un peu d'eau tiède."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Séchage des rides et courte promenade à la fraîche",
-                        "text": "Nettoyez les plis du visage avec une lingette douce sans alcool et séchez-les parfaitement. Effectuez une promenade de 15 à 20 minutes tôt le matin avant les chaleurs."
-                    },
-                    {
-                        "name": "Après-midi : Climatisation (20-22 °C) et jeux d'éveil calmes",
-                        "text": "Maintenez la température intérieure entre 20 et 22 °C. Remplacez l'exercice physique brutal par des jeux de réflexion ou d'occupation à faible intensité."
-                    },
-                    {
-                        "name": "Soir : Soin du pli de la queue et alimentation équilibrée",
-                        "text": "Désinfectez et séchez la poche de la queue (tail pocket) ainsi que les espaces entre les coussinets. Distribuez une ration adaptée pour éviter le surpoids qui pèse sur le souffle."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Quelles sont les différences entre le Bouledogue Français et le Bulldog Anglais ?",
-                        "answer": "Le Bouledogue Français pèse 8 à 14 kg et porte des oreilles 'de chauve-souris' dressées. Le Bulldog Anglais pèse 20 à 25 kg, possède une ossature beaucoup plus lourde, des oreilles 'en rose' pliées, des rides plus profondes et une poitrine très large."
-                    },
-                    {
-                        "question": "Comment traiter les rougeurs et l'humidité entre les rides du visage ?",
-                        "answer": "Il s'agit d'intertrigo provoqué par les larmes et la transpiration. Essuyez les plis tous les jours et veillez à ce qu'ils restent secs. En cas d'infection, consultez un vétérinaire pour obtenir un traitement antiseptique adapté."
-                    }
-                ]
-            },
-            "de": {
-                "title": "English Bulldog Faltenhygiene und 3-Schritte-Tagesroutine zur Thermoregulation bei Brachyzephalie",
-                "description": "Pflege für die sanftmütige, ruhige English Bulldog. Erfahren Sie, wie Sie Intertrigo in den Gesichtsfalten vorbeugen und die Körpertemperatur des brachyzephalen Hundes regulieren.",
-                "authority": "FCI-Rassestandard und Veterinär-Protokolle des American Kennel Club (AKC)",
-                "profile": {
-                    "breed": "English Bulldog",
-                    "lifespan": "8 ~ 10 Jahre",
-                    "sleep_pattern": "12 ~ 14 Stunden (ruhige Innenraum-Rast, angepasst an die brachyzephale Atmung)",
-                    "temperament": "Sanftmütig, ruhig, mutig, loyal, stur, liebevoll"
-                },
-                "intro": "Die English Bulldog ist eine weltberühmte mittelgroße Hunderasse, die für ihre tiefen Gesichtsfalten, ihren breiten Körperbau und ihr überraschend sanftes Wesen geschätzt wird. Sie besitzt einen deutlich schwereren Knochenbau und eine breitere Brust als die Französische Bulldogge. Durch den verkürzten Nasenbereich (Brachyzephalie) fällt der Rasse die Hitzeregulierung jedoch sehr schwer. Zudem führt Feuchtigkeit in den Hautfalten und der Schwanztasche (Tail pocket) schnell zu Bakterien- und Hefepilz-Dermatitis (Intertrigo).  erklärt die Körpersprache der Englischen Bulldogge und zeigt eine 3-Schritte-Routine für Faltenpflege und Hitzeschutz.",
-                "whyTitle": "Kommunikation der Englischen Bulldogge: Zufriedenes Grunzen und Hitzestress-Signale",
-                "whyDesc": "Ist die Englische Bulldogge entspannt, erzeugt sie leise **'Glückliche Grunzgeräusche' (Happy Grunting)** und schmiegt ihren schweren Körper an ihren Halter. Überhitzt der Hund jedoch oder bekommt schwer Luft, streckt er die Zunge weit heraus, zeigt **'Starkes Hecheln' (Heavy Panting)** und legt sich flach auf den Boden.",
-                "body_signals": [
-                    {
-                        "name": "Leises Grunzen und Anschmiegen (Happy Grunting)",
-                        "meaning": "Ein Ausdruck tiefer Bindung und Gelassenheit; zeigt den Wunsch, entspannt in Ihrer Nähe zu ruhen.",
-                        "response": "Sprechen Sie mit ruhiger Stimme und streicheln Sie sanft die Brust, um das Wohlbefinden zu fördern."
-                    },
-                    {
-                        "name": "Starkes Hecheln und flaches Aufliegen (Heavy Panting)",
-                        "meaning": "Dringendes Warnsignal für Hitzestress; die Körpertemperatur hat das regulierbare Limit überschritten.",
-                        "response": "Brechen Sie jede Aktivität sofort ab, bringen Sie den Hund in einen klimatisierten Raum und geben Sie etwas lauwarmes Wasser."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Gesichtsfalten trocknen & Kurzer Spaziergang in der kühlen Frühe",
-                        "text": "Reinigen Sie die Gesichtsfalten morgens mit alkoholfreien Pflegetüchern und trocknen Sie sie gründlich ab. Gehen Sie früh morgens für 15-20 Minuten spazieren."
-                    },
-                    {
-                        "name": "Nachmittag: Raumklima kontrollieren (20-22 °C) & Ruhige Beschäftigung",
-                        "text": "Halten Sie die Raumtemperatur bei 20-22 °C und die Luftfeuchtigkeit unter 50 %. Ersetzen Sie anstrengenden Sport durch Denk- und Suchspiele im Haus."
-                    },
-                    {
-                        "name": "Abend: Schwanztaschen- & Pfotenpflege + Ernährung zur Gewichtskontrolle",
-                        "text": "Säubern und trocknen Sie die Hautfalte an der Schwanzwurzel (Tail pocket) sowie die Zehenzwischenräume. Füttern Sie eine ausgewogene Mahlzeit zur Vermeidung von Übergewicht."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Worin unterscheiden sich Französische und Englische Bulldoggen?",
-                        "answer": "Französische Bulldoggen wiegen 8-14 kg und haben stehende 'Fledermausohren'. Englische Bulldoggen wiegen 20-25 kg, haben ein massiveres Skelett, gefaltete 'Rosenohren', tiefere Falten und eine deutlich breitere Brust."
-                    },
-                    {
-                        "question": "Was tun bei Rötungen und Feuchtigkeit in den Gesichtsfalten?",
-                        "answer": "Es handelt sich um Intertrigo (Hautfaltendermatitis) durch Tränenflüssigkeit und Schweiß. Reinigen und trocknen Sie die Falten täglich. Bei starken Entzündungen wenden Sie vom Tierarzt verordnete antiseptische Tücher an."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Higiene de rugas do Bulldog Inglês e cuidados térmicos para braquicefálicos: Rotina de 3 passos",
-                "description": "Cuidados para o dócil e calmo Bulldog Inglês. Saiba como prevenir a intertrigo nas dobras faciais e controlar a temperatura corporal em cães braquicefálicos.",
-                "authority": "Padrões de Raça da FCI e Diretrizes Clínicas Veterinárias do AKC",
-                "profile": {
-                    "breed": "Bulldog Inglês (English Bulldog)",
-                    "lifespan": "8 ~ 10 anos",
-                    "sleep_pattern": "12 ~ 14 horas (repouso tranquilo em ambiente interno adaptado à fisiologia)",
-                    "temperament": "Dócil, calmo, corajoso, leal, teimoso, afetuoso"
-                },
-                "intro": "O Bulldog Inglês é uma raça de porte médio famosa mundialmente pelas suas profundas rugas faciais, estrutura física atarracada e temperamento surpreendentemente dócil. Possui um tórax mais largo e ossatura mais pesada que o Bulldog Francês. Contudo, devido ao focinho achatado (fisiologia braquicefálica), apresenta grande dificuldade para regular a temperatura em dias quentes. Além disso, a umidade retida nas dobras faciais e na dobra da cauda (tail pocket) pode causar dermatite por intertrigo. Neste guia, explicamos os seus sinais de comunicação e a rotina de 3 passos para cuidar da sua saúde.",
-                "whyTitle": "Comunicação do Bulldog Inglês: Ronronar alegre e sinais de estresse térmico",
-                "whyDesc": "Quando está relaxado e feliz, o Bulldog Inglês emite suaves **'Roncados Alegres' (Happy Grunting)** semelhantes aos de um porquinho enquanto encosta o seu corpo pesado no tutor. Por outro lado, sob calor excessivo, ele coloca a língua para fora, exibe um **'Ofegar Intenso' (Heavy Panting)** e deita-se reto no chão.",
-                "body_signals": [
-                    {
-                        "name": "Roncados suaves e apoio do corpo (Happy Grunting)",
-                        "meaning": "Sinal de profunda confiança e afeição; demonstra que o cão deseja descansar tranquilamente ao seu lado.",
-                        "response": "Fale com tom suave e acaricie o peito ou embaixo do queixo para reforçar a sensação de segurança."
-                    },
-                    {
-                        "name": "Arfar pesado e deitar esticado no chão (Heavy Panting)",
-                        "meaning": "Aviso de emergência para estresse térmico; indica que a temperatura ultrapassou a capacidade de refrigeração corporal.",
-                        "response": "Interrompa qualquer atividade imediatamente, leve o cão para um local com ar-condicionado e ofereça pouca água morna."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Secagem de rugas e passeio curto em horário fresco",
-                        "text": "Limpe as dobras do rosto com lenço sem álcool e seque completamente. Faça um passeio leve de 15 a 20 minutos bem cedo, antes que o calor aumente."
-                    },
-                    {
-                        "name": "Tarde: Climatização (20-22 °C) e brincadeiras leves",
-                        "text": "Mantenha a casa entre 20 e 22 °C e umidade abaixo de 50%. Substitua exercícios pesados por jogos mentais e de faro no ambiente interno."
-                    },
-                    {
-                        "name": "Noite: Higiene da dobra da cauda e dieta controlada",
-                        "text": "Desinfete e seque o bolsão da cauda (tail pocket) e os espaços entre as patas. Ofereça alimento de alta qualidade na quantidade correta para evitar o excesso de peso."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Qual a diferença entre o Bulldog Francês e o Bulldog Inglês?",
-                        "answer": "O Bulldog Francês pesa de 8 a 14 kg e tem orelhas de morcego eretas. O Bulldog Inglês pesa de 20 a 25 kg, possui ossatura muito mais pesada, orelhas em rosa dobradas, rugas faciais mais profundas e peito bem mais largo."
-                    },
-                    {
-                        "question": "Como tratar a vermelhidão e assaduras entre as rugas do rosto?",
-                        "answer": "Trata-se de intertrigo (dermatite de dobras) causado pelo acúmulo de lágrima e suor. Limpe e seque as dobras diariamente. Em casos graves, consulte um veterinário para usar lenços antissépticos prescritos."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Higiene Kerutan Wajah English Bulldog dan Perawatan Suhu Tubuh Brakhisefalik 3 Langkah",
-                "description": "Perawatan untuk English Bulldog yang tenang dan penyayang. Pelajari cara mencegah intertrigo (dermatitis lipatan kulit) dan kelola suhu tubuh anjing bernapas pendek.",
-                "authority": "Standar Ras FCI dan Panduan Klinis Dokter Hewan American Kennel Club (AKC)",
-                "profile": {
-                    "breed": "English Bulldog",
-                    "lifespan": "8 ~ 10 tahun",
-                    "sleep_pattern": "12 ~ 14 jam (istirahat tenang di dalam ruangan sesuai fisiologi brakhisefalik)",
-                    "temperament": "Lembut, tenang, pemberani, setia, agak keras kepala, penyayang"
-                },
-                "intro": "English Bulldog adalah ras anjing berukuran sedang yang sangat populer di seluruh dunia berkat kerutan wajahnya yang khas, tubuhnya yang kekar, serta sifatnya yang sangat lembut. Anjing ini memiliki tulang yang lebih berat dan dada yang lebih lebar dibanding French Bulldog. Namun, karena struktur moncongnya yang pendek (brakhisefalik), English Bulldog sangat sensitif terhadap udara panas dan sulit mengatur suhu tubuhnya. Selain itu, kelembapan yang terperangkap di lipatan wajah dan kantong ekor (tail pocket) dapat memicu dermatitis lipatan kulit (intertrigo). Dalam panduan ini, membagikan panduan bahasa tubuh dan 3 langkah perawatan harian untuk kebersihan dan kesehatannya.",
-                "whyTitle": "Komunikasi English Bulldog: Dengkur Ceria dan Sinyal Bahaya Panas",
-                "whyDesc": "Saat merasa nyaman dan bahagia, English Bulldog akan mengeluarkan suara **'Dengkur Ceria' (Happy Grunting)** yang lembut mirip suara babi kecil sambil menyandarkan tubuhnya ke pemilik. Namun saat mengalami kepanasan, anjing ini akan menjulurkan lidahnya, mengalami **'Napas Terengah-engah' (Heavy Panting)**, dan berbaring telungkup di lantai.",
-                "body_signals": [
-                    {
-                        "name": "Dengkur Lembut dan Menyandarkan Tubuh (Happy Grunting)",
-                        "meaning": "Ungkapan rasa aman dan kesetiaan mendalam; menandakan keinginannya untuk bersantai dengan tenang di dekat pemiliknya.",
-                        "response": "Bicaralah dengan suara lembut dan elus bagian dada atau bawah dagunya untuk memberinya rasa nyaman."
-                    },
-                    {
-                        "name": "Napas Terengah-engah dan Berbaring Telungkup (Heavy Panting)",
-                        "meaning": "Peringatan darurat bahwa suhu tubuh atau aktivitas fisik telah melewati batas toleransi termalnya.",
-                        "response": "Hentikan aktivitas seketika, pindahkan ke ruangan ber-AC yang sejuk, dan berikan sedikit air minum."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Pengeringan Lipatan Wajah & Jalan Pagi Saat Udara Sejuk",
-                        "text": "Bersihkan kerutan wajah dengan tisu bebas alkohol dan keringkan sampai tuntas. Ajak jalan santai selama 15-20 menit di pagi hari sebelum udara panas."
-                    },
-                    {
-                        "name": "Siang: Pengaturan Suhu Ruangan (20-22°C) & Permainan Ringan",
-                        "text": "Jaga suhu ruangan antara 20-22°C dengan kelembapan di bawah 50%. Ganti olahraga berat dengan permainan stimulasi otak di dalam rumah."
-                    },
-                    {
-                        "name": "Malam: Perawatan Lipatan Ekor & Diet Pengontrol Berat Badan",
-                        "text": "Bersihkan dan keringkan area kantong ekor (tail pocket) serta sela-sela jari kaki. Berikan porsi makan teratur agar tidak terjadi obesitas yang memberatkan pernapasan."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apa perbedaan utama antara French Bulldog dan English Bulldog?",
-                        "answer": "French Bulldog berbobot 8-14 kg dan memiliki telinga tegak 'seperti kelelawar'. Sedangkan English Bulldog berbobot 20-25 kg dengan kerangka tulang jauh lebih besar, telinga terlipat 'seperti mawar', kerutan wajah lebih dalam, dan dada lebih lebar."
-                    },
-                    {
-                        "question": "Bagaimana cara mengatasi kemerahan dan lecet di antara lipatan wajah?",
-                        "answer": "Kondisi tersebut adalah intertrigo (dermatitis lipatan kulit) akibat penumpukan air mata dan keringat. Bersihkan dan keringkan lipatan setiap hari. Jika peradangan parah, konsultasikan ke dokter hewan untuk mendapat pengobatan yang tepat."
-                    }
-                ]
-            }
+  "english-bulldog-care": {
+    "pubDate": "2026-02-10",
+    "updatedDate": "2026-02-10",
+    "locales": {
+      "ko": {
+        "title": "잉글리시 불독 얼굴 주름 위생과 단두종 체온 관리를 위한 3단계 데일리 케어",
+        "description": "묵묵하고 순한 반전 매력의 잉글리시 불독. 얼굴 안면 주름 간찰진(피부염) 예방과 짧은 비강 구조에 맞춘 체온 조절 중심의 3단계 가이드라인을 소개합니다.",
+        "authority": "세계애견연맹(FCI) 품종 표준 및 미국켄넬클럽(AKC) 수의학 임상 가이드라인",
+        "profile": {
+          "breed": "잉글리시 불독 (English Bulldog)",
+          "lifespan": "8 ~ 10년",
+          "sleep_pattern": "12 ~ 14시간 (단두종 호흡 특성으로 인한 고요한 실내 휴식)",
+          "temperament": "순함, 느긋함, 용맹함, 충성심 높음, 고집 있음, 다정함"
         },
-        "heroImage": "/images/blog/english_bulldog_care.webp"
-    }
+        "intro": "잉글리시 불독은 특유의 깊은 얼굴 주름과 육중하고 단단한 체구, 순하고 온화한 성품으로 전 세계에서 꾸준히 사랑받는 대표적인 중형견입니다. 프렌치 불독보다 골격이 훨씬 크고 가슴 폭이 넓은 전통 불독 체형을 가졌으며, 눌린 코 구조(단두종)로 인해 열에 매우 약하고 체온 조절 능력이 떨어집니다. 또한 얼굴 주름과 꼬리 포켓 사이에 습기와 노폐물이 차면 세균 및 효모균성 간찰진(피부염)이 쉽게 발생합니다. 이번 가이드에서는 잉글리시 불독의 본능적 표현 신호를 해석하고, 주름 위생과 열사병 예방을 위한 3단계 데일리 홈케어 루틴을 다룹니다.",
+        "whyTitle": "잉글리시 불독의 소통 방법: 기분 좋은 꿀꿀 소리와 열감 신호",
+        "whyDesc": "잉글리시 불독은 감정이 안정되었거나 기분이 좋을 때 돼지 소리와 비슷한 나긋나긋한 **'가릉가릉(Happy Grunting)'** 소리를 내며 보호자 옆에 몸을 밀착합니다. 그러나 체온이 올라가거나 호흡이 가빠지면 혀를 길게 빼고 거친 **'개헐떡임(Heavy Panting)'**을 보이며 바닥에 납작 엎드려 위험 신호를 보냅니다.",
+        "body_signals": [
+          {
+            "name": "나긋나긋한 가릉 소리와 몸 밀착 (Happy Grunting)",
+            "meaning": "심리적 안도감과 충성심의 표현이며, 보호자 곁에서 편안하게 휴식을 취하고 싶다는 우호적인 신호입니다.",
+            "response": "차분한 목소리로 화답해주고 가슴이나 턱 밑을 부드럽게 쓰다듬어 안정감을 줍니다."
+          },
+          {
+            "name": "거친 개헐떡임과 바닥 납작 엎드림 (Heavy Panting)",
+            "meaning": "단두종 호흡기 자극이나 실내외 높은 온도로 인해 체온 조절 한계에 도달했다는 위험 경고 신호입니다.",
+            "response": "즉시 운동을 중단하고 에어컨이 작동하는 시원한 장소로 이동시킨 후 미지근한 물을 제공합니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 얼굴 주름 습기 제거 및 서늘한 시간대 짧은 산책",
+            "text": "아침 일찍 무알코올 저자극 닦개로 안면 주름과 코 주변 습기를 닦아내고 완벽히 말려줍니다. 온도가 올라가기 전 15~20분 내외의 가벼운 산책을 진행합니다."
+          },
+          {
+            "name": "낮: 실내 적정 온도(20~22℃) 유지 및 실내 감각 놀이",
+            "text": "열사병 방지를 위해 실내 온도를 20~22℃, 습도를 50% 이하로 세팅합니다. 격렬한 운동 대신 저강도 장난감 놀이로 스트레스를 해소합니다."
+          },
+          {
+            "name": "저녁: 꼬리 포켓·발가락 케어 및 체중 관리 식단",
+            "text": "꼬리 안쪽 주름(꼬리 포켓)과 발가락 사이를 청결히 소독 및 건조합니다. 관절과 호흡기에 부담을 주지 않도록 정량의 고단백 저지방 식단을 급여합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "프렌치 불독과 잉글리시 불독은 어떻게 다른가요?",
+            "answer": "프렌치 불독은 체중 8~14kg의 소형/중형견으로 솟아오른 박쥐 귀(Bat ears)를 가진 반면, 잉글리시 불독은 체중 20~25kg에 달하는 대형 골격과 접힌 장미 귀(Rose ears), 더 깊은 얼굴 주름과 넓은 가슴을 가졌습니다."
+          },
+          {
+            "question": "얼굴 주름 사이에 빨갛게 진물이 나는데 어떻게 해야 하나요?",
+            "answer": "주름 사이에 땀과 눈물이 고여 발생한 곰팡이/세균성 피부염(간찰진)입니다. 습기를 매일 닦아 건조하게 유지하고, 증상이 심할 경우 수의사 처방 림프용 세정제나 항균 ointments를 사용해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "English Bulldog Facial Wrinkle Hygiene and Brachycephalic Thermal Care Daily Routine",
+        "description": "Caring for the gentle, calm English Bulldog. Learn how to prevent intertrigo in facial skin folds and manage temperature for brachycephalic airway health.",
+        "authority": "FCI Breed Standards and American Kennel Club (AKC) Veterinary Clinical Guidelines",
+        "profile": {
+          "breed": "English Bulldog",
+          "lifespan": "8 - 10 Years",
+          "sleep_pattern": "12 - 14 Hours (Quiet Indoor Rest Suited for Brachycephalic Physiology)",
+          "temperament": "Gentle, Calm, Courageous, Loyal, Stubborn, Affectionate"
+        },
+        "intro": "The English Bulldog is an iconic medium-sized breed cherished globally for its deep facial wrinkles, sturdy stocky build, and surprisingly gentle demeanor. Featuring a much broader chest and heavier bone structure than the French Bulldog, this traditional breed possesses a short, brachycephalic muzzle that makes thermal regulation difficult. Accumulated moisture and debris within their facial folds and tail pocket can rapidly lead to bacterial or yeast intertrigo (skin fold dermatitis). In this guide, breaks down English Bulldog communication signals and outlines a 3-step homecare routine for wrinkle hygiene and heatstroke prevention.",
+        "whyTitle": "English Bulldog Communication: Contented Grunts and Thermal Distress Signals",
+        "whyDesc": "When emotionally relaxed, English Bulldogs express satisfaction by producing soft **'Happy Grunting'** noises while leaning their heavy bodies against their owners. However, when overheating or struggling to breathe, they extend their tongue, engage in **'Heavy Panting'**, and lie flat on cooling surfaces as a distress warning.",
+        "body_signals": [
+          {
+            "name": "Soft Grunting and Body Leaning (Happy Grunting)",
+            "meaning": "A sign of deep emotional security and loyalty, communicating a desire to rest peacefully alongside their caregiver.",
+            "response": "Respond with a calm voice and gently stroke their chest or under the chin to reinforce relaxation."
+          },
+          {
+            "name": "Heavy Panting and Flat Lying (Heavy Panting)",
+            "meaning": "An urgent warning sign that high temperatures or physical exertion have exceeded their thermal regulation limits.",
+            "response": "Immediately cease all activity, move them to an air-conditioned area, and offer small amounts of lukewarm water."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Facial Wrinkle Drying & Cool Hours Walk",
+            "text": "Wipe moisture from facial folds with non-alcoholic wipes before drying thoroughly. Conduct a short 15-20 minute walk early in the morning before temperatures rise."
+          },
+          {
+            "name": "Afternoon: Climate Control (20-22°C) & Low-Impact Enrichment",
+            "text": "Maintain indoor temperatures at 20-22°C with humidity under 50% to prevent heat stress. Replace strenuous exercise with low-impact indoor enrichment games."
+          },
+          {
+            "name": "Evening: Tail Pocket & Paw Care + Calorie-Controlled Diet",
+            "text": "Clean and dry the tail pocket and interdigital spaces between paws. Feed a balanced, high-protein diet to prevent obesity and protect joints and airways."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "What is the key difference between a French Bulldog and an English Bulldog?",
+            "answer": "French Bulldogs weigh 8-14 kg and possess upright 'bat ears', whereas English Bulldogs weigh 20-25 kg, boasting a much heavier skeletal frame, folded 'rose ears', deeper facial wrinkles, and a broader chest."
+          },
+          {
+            "question": "How do I prevent and treat red, irritated skin within facial wrinkles?",
+            "answer": "Skin fold irritation (intertrigo) occurs when moisture and tears accumulate. Wipe wrinkles daily and ensure they remain completely dry. If inflamed, consult a vet for medicated antiseptic or antifungal wipes."
+          }
+        ]
+      },
+      "ja": {
+        "title": "イングリッシュ・ブルドッグの顔のシワ衛生と短頭種向け体温管理の3ステップ日常ルーティン",
+        "description": "穏やかで愛らしいギャップ萌えのイングリッシュ・ブルドッグ。顔のシワの皮膚炎（擦疹）予防と、短頭種特有の熱中症を防ぐ体温管理の3ステップガイドを解説します。",
+        "authority": "国際畜犬連盟（FCI）犬種標準およびアメリカンケネルクラブ（AKC）獣医臨床ガイドライン",
+        "profile": {
+          "breed": "イングリッシュ・ブルドッグ (English Bulldog)",
+          "lifespan": "8 〜 10年",
+          "sleep_pattern": "12 〜 14時間 (短頭種の呼吸特性に合わせた静かな室内休息)",
+          "temperament": "穏やか、のんびり、勇猛、忠実、頑固、愛嬌たっぷり"
+        },
+        "intro": "イングリッシュ・ブルドッグは、深く刻まれた顔のシワとどっしりとした体格、そして見た目に反した温厚な性格で世界中から愛されている中型犬です。フレンチ・ブルドッグよりも骨太で幅広な胸を持つ伝統的なブルドッグの体型をしており、つぶれた鼻（短頭種）の構造上、熱に非常に弱く体温調節が苦手です。また、シワや尾のくぼみ（テールポケット）に湿気が溜まると、細菌や真菌による皮膚炎（擦疹）が発生しやすくなります。本記事では、ブルドッグの感情サインと、シワの清潔保持・熱中症予防のための3ステップ日常ルーティンを紹介します。",
+        "whyTitle": "イングリッシュ・ブルドッグの感情表現：ご機嫌な鼻鳴らしと体温上昇サイン",
+        "whyDesc": "イングリッシュ・ブルドッグはリラックスしている時、豚のような可愛らしい**「鼻鳴らし（Happy Grunting）」**をしながら飼い主に体をすり寄せます。しかし、体温が上がったり呼吸が苦しくなると、舌を長く出して激しく**「荒い息遣い（Heavy Panting）」**をし、床にべったり伏せて危険を知らせます。",
+        "body_signals": [
+          {
+            "name": "愛らしい鼻鳴らしと体の密着 (Happy Grunting)",
+            "meaning": "精神的な安心感と深い忠誠心の表れであり、飼い主のそばで落ち着いて過ごしたいという親愛のサインです。",
+            "response": "穏やかな声で話しかけ、胸やあごの下を優しく撫でて安心させてあげましょう。"
+          },
+          {
+            "name": "荒い息遣いと床へのべた伏せ (Heavy Panting)",
+            "meaning": "気温の上昇や運動により体温調節の限界に達したことを示す、緊急性の高い警戒サインです。",
+            "response": "すぐに運動を中止し、エアコンの効いた涼しい室内に移動させてぬるま湯を与えてください。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：シワの水分拭き取りと涼しい時間帯の短いお散歩",
+            "text": "朝一番にノンアルコールのウェットティッシュでシワと鼻周りの汚れを拭き、しっかり乾燥させます。気温が上がる前に15〜20分程度の軽いお散歩を行います。"
+          },
+          {
+            "name": "昼：室内適温（20〜22℃）の維持と低負荷の室内遊び",
+            "text": "熱中症予防のため室温20〜22℃、湿度50%以下を維持します。激しい運動は避け、知育玩具など低負荷の室内遊びでストレスを解消します。"
+          },
+          {
+            "name": "夜：テールポケット・指間のケアと体重管理フード",
+            "text": "尻尾のくぼみ（テールポケット）や足の指間の汚れを清拭・乾燥させます。関節や呼吸器に負担をかけないよう、 calibrated された高タンパク・低脂質フードを与えます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "フレンチ・ブルドッグとイングリッシュ・ブルドッグの違いは何ですか？",
+            "answer": "フレンチ・ブルドッグは体重8〜14kgで立ち耳（バット・イヤーズ）を持ちますが、イングリッシュ・ブルドッグは体重20〜25kgの大きな骨格と折りたたまれた薔薇耳（ローズ・イヤーズ）、より深いシワと広い胸幅を持っています。"
+          },
+          {
+            "question": "顔のシワの間が赤くただれてしまった場合の対処法は？",
+            "answer": "涙や汗が溜まって起きるシワの皮膚炎（擦疹）です。毎日シワの間を拭いて完全乾燥させてください。炎症がひどい場合は、獣医師から処方された薬用洗浄液や軟膏を使用する必要があります。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "英国斗牛犬面部褶皱卫生与短头犬体温管理的3阶段日常护理指南",
+        "description": "针对外表威猛、性格温顺的反差萌英国斗牛犬。学习预防面部褶皱间擦疹（皮肤炎）及适应其短头呼吸道结构的3阶段日常护理流程。",
+        "authority": "世界犬业联盟 (FCI) 犬种标准及美国犬业俱乐部 (AKC) 兽医临床指南",
+        "profile": {
+          "breed": "英国斗牛犬 (English Cocker Spaniel / English Bulldog)",
+          "lifespan": "8 ~ 10年",
+          "sleep_pattern": "12 ~ 14小时 (适应短头气道特征的安静室内休息)",
+          "temperament": "温和、悠闲、勇猛、忠诚、固执、亲人"
+        },
+        "intro": "英国斗牛犬以其标志性的深面部褶皱、粗壮结实的体格以及出人意料的温和性格而闻名世界。它们拥有比法国斗牛犬更大、胸宽更广的传统斗牛犬骨骼，但由于扁平的鼻腔结构（短头犬），极度不耐热且散热能力较差。此外，当湿气和污垢积聚在面部褶皱和尾巴窝（Tail pocket）中时，极易引发细菌或真菌性间擦疹。本指南将解析英国斗牛犬的情感表达信号，并分享褶皱清洁与预防中暑的3阶段日常护理流程。",
+        "whyTitle": "英国斗牛犬的交流方式：愉快的哼哧声与体温预警信号",
+        "whyDesc": "当情绪放松或感到高兴时，英国斗牛犬会发出类似小猪哼哼的**“愉快哼哧声 (Happy Grunting)”**，并将沉重的身体紧贴主人。然而，当体温过高或呼吸困难时，它们会伸长舌头剧烈**“喘息 (Heavy Panting)”**，并贴地平躺发出危险信号。",
+        "body_signals": [
+          {
+            "name": "温柔的哼哧声与身体紧贴 (Happy Grunting)",
+            "meaning": "代表心理上的安全感与忠诚，表达希望在主人身边安静休息的亲昵意图。",
+            "response": "用温和的声音回应，轻轻抚摸其胸部或下巴以巩固放松状态。"
+          },
+          {
+            "name": "剧烈喘息与贴地平躺 (Heavy Panting)",
+            "meaning": "表明因高温或运动导致体温调节已达极限，是极其危险的中暑警示信号。",
+            "response": "立即停止运动，转移至有空调的凉爽室内，并提供少量温水。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：面部褶皱去湿与凉爽时段短途散步",
+            "text": "清晨用无酒精湿巾擦拭面部褶皱及鼻子周围，并彻底晾干。在气温升高前进行15-20分钟的轻度散步。"
+          },
+          {
+            "name": "白天：维持室内适宜温度(20-22℃)与低强度室内游戏",
+            "text": "将室内温度保持在20-22℃、湿度保持在50%以下以防中暑。用低强度的室内藏食游戏替代剧烈运动。"
+          },
+          {
+            "name": "晚上：尾巴窝与指间护理 + 体重控制饮食",
+            "text": "清洁并干燥尾巴根部褶皱（尾巴窝）和脚趾间缝隙。喂食定量的高蛋白低脂饮食，避免肥胖增加关节与呼吸道负担。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "法国斗牛犬与英国斗牛犬有什么区别？",
+            "answer": "法国斗牛犬体重约8-14kg，拥有直立的“蝙蝠耳”；而英国斗牛犬体重可达20-25kg，骨骼更沉重，拥有折叠的“玫瑰耳”、更深的面部褶皱和更宽阔的胸膛。"
+          },
+          {
+            "question": "面部褶皱发红发炎该如何处理？",
+            "answer": "这是因眼泪或汗水积聚导致的褶皱间擦疹（皮肤炎）。每天必须擦拭并保持绝对干燥。若炎症严重，需咨询兽医使用专用抗菌洗剂或软膏。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Higiene de arrugas y cuidado térmico braquicefálico del Bulldog Inglés: Rutina de 3 pasos",
+        "description": "Cuidados para el dócil y tranquilo Bulldog Inglés. Descubra cómo prevenir la intertrigo en los pliegues faciales y controlar la temperatura corporal en perros braquicefálicos.",
+        "authority": "Estándares de la FCI y Guías Clínicas Veterinarias del American Kennel Club (AKC)",
+        "profile": {
+          "breed": "Bulldog Inglés (English Bulldog)",
+          "lifespan": "8 ~ 10 años",
+          "sleep_pattern": "12 ~ 14 horas (descanso en interiores adaptado a su fisiología braquicefálica)",
+          "temperament": "Dócil, calmado, valiente, leal, terco, afectuoso"
+        },
+        "intro": "El Bulldog Inglés es una icónica raza de tamaño mediano amada en todo el mundo por sus profundas arrugas faciales, su cuerpo robusto y compacto, y su carácter sorprendentemente dócil. Posee un tórax más ancho y una estructura ósea más pesada que el Bulldog Francés. Sin embargo, su hocico chato (condición braquicefálica) dificulta la autorregulación de la temperatura corporal, haciéndolo muy vulnerable al golpe de calor. Además, la humedad atrapada en sus arrugas y en el pliegue de la cola (tail pocket) puede causar dermatitis por intertrigo. En esta guía, explicamos sus señales de comunicación y la rutina de 3 pasos para proteger su salud.",
+        "whyTitle": "Comunicación del Bulldog Inglés: Gruñidos de satisfacción y señales de calor",
+        "whyDesc": "Cuando se siente seguro y feliz, el Bulldog Inglés emite suaves **'Gruñidos Agradables' (Happy Grunting)** similares a los de un cerdito mientras apoya su pesado cuerpo contra su dueño. Por el contrario, ante el calor excesivo, extiende la lengua, realiza un **'Jadeo Pesado' (Heavy Panting)** y se tumba totalmente plano sobre el suelo.",
+        "body_signals": [
+          {
+            "name": "Gruñidos suaves y apoyo corporal (Happy Grunting)",
+            "meaning": "Expresión de apego y confianza total; indica que desea descansar de forma apacible junto a su cuidador.",
+            "response": "Háblele con voz pausada y acaricie suavemente su pecho para reforzar su tranquilidad."
+          },
+          {
+            "name": "Jadeo intenso y postura tendida plana (Heavy Panting)",
+            "meaning": "Alarma de estrés térmico grave; indica que el esfuerzo o la temperatura han superado su capacidad de refrigeración.",
+            "response": "Detenga la actividad inmediatamente, llévelo a un ambiente con aire acondicionado y ofrézcale poca agua fresca."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Limpieza de arrugas y paseo en horas frescas",
+            "text": "Limpie los pliegues faciales con toallitas sin alcohol y séquelos minuciosamente. Realice un paseo corto de 15 a 20 minutos temprano antes de que suba la temperatura."
+          },
+          {
+            "name": "Tarde: Control ambiental (20-22 °C) y juegos sin esfuerzo",
+            "text": "Mantenga la casa entre 20 y 22 °C con humedad inferior al 50%. Sustituya el ejercicio duro por juegos de estimulación mental en interiores."
+          },
+          {
+            "name": "Noche: Higiene del pliegue de la cola y dieta de control de peso",
+            "text": "Desinfecte y seque la cavidad de la cola (tail pocket) y los espacios interdigitales. Adminístrele una dieta equilibrada para evitar el sobrepeso que daña sus articulaciones."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿En qué se diferencian el Bulldog Francés y el Bulldog Inglés?",
+            "answer": "El Bulldog Francés pesa entre 8 y 14 kg y tiene orejas de murciélago erguidas. El Bulldog Inglés pesa entre 20 y 25 kg, tiene una estructura ósea mucho más pesada, orejas en rosa plegadas, arrugas más profundas y un pecho más ancho."
+          },
+          {
+            "question": "¿Cómo tratar la irritación o enrojecimiento entre las arrugas?",
+            "answer": "Se trata de intertrigo (dermatitis de pliegues) causado por la acumulación de lágrimas y sudor. Limpie las arrugas a diario y manténgalas secas. Si la piel está muy inflamada, consulte al veterinario para usar toallitas antisépticas."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Hygiène des rides du Bulldog Anglais et soins thermiques pour brachycéphales : Routine en 3 étapes",
+        "description": "Prendre soin du Bulldog Anglais au caractère calme et affectueux. Découvrez comment prévenir l'intertrigo des plis faciaux et réguler la température de ce chien brachycéphale.",
+        "authority": "Standard de race FCI et Recommandations Vétérinaires de l'AKC",
+        "profile": {
+          "breed": "Bulldog Anglais (English Bulldog)",
+          "lifespan": "8 ~ 10 ans",
+          "sleep_pattern": "12 ~ 14 heures (repos calme en intérieur adapté à sa physiologie brachycéphale)",
+          "temperament": "Doux, calme, courageux, loyal, têtu, affectueux"
+        },
+        "intro": "Le Bulldog Anglais est une race moyenne emblématique appréciée dans le monde entier pour ses rides faciales caractéristiques, sa musculature trapue et son tempérament doux. Possédant un poitrail plus large et une ossature plus lourde que le Bouledogue Français, sa face aplatie (morphologie brachycéphale) rend la régulation de sa température corporelle difficile face à la chaleur. De plus, l'humidité accumulée dans ses plis et dans la poche de sa queue (tail pocket) favorise l'intertrigo (dermatite des plis). Dans ce guide, vous explique son langage corporel et la routine en 3 étapes pour sa santé.",
+        "whyTitle": "Communication du Bulldog Anglais : Grognevoles joyeux et signaux de détresse thermique",
+        "whyDesc": "Lorsqu'il est serein, le Bulldog Anglais pousse de doux **'Grognements Joyeux' (Happy Grunting)** semblables à de petits grognements de porcelet tout en collant son corps massif contre son maître. En revanche, lorsqu'il souffre de la chaleur, il tire la langue, subit un **'Halètement Intense' (Heavy Panting)** et s'étale de tout son long sur le sol.",
+        "body_signals": [
+          {
+            "name": "Grognements doux et appui corporel (Happy Grunting)",
+            "meaning": "Preuve de confiance absolue et de loyauté, exprimant le désir de se reposer paisiblement à vos côtés.",
+            "response": "Parlez-lui calmement et caressez doucement son poitrail ou sous son menton pour prolonger ce moment."
+          },
+          {
+            "name": "Halètement intense et position étalée au sol (Heavy Panting)",
+            "meaning": "Signal d'alarme indiquant que la température ou l'effort a dépassé les capacités de thermorégulation du chien.",
+            "response": "Stoppez immédiatement l'effort, placez-le dans une pièce fraîche et climatisée et donnez-lui un peu d'eau tiède."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Séchage des rides et courte promenade à la fraîche",
+            "text": "Nettoyez les plis du visage avec une lingette douce sans alcool et séchez-les parfaitement. Effectuez une promenade de 15 à 20 minutes tôt le matin avant les chaleurs."
+          },
+          {
+            "name": "Après-midi : Climatisation (20-22 °C) et jeux d'éveil calmes",
+            "text": "Maintenez la température intérieure entre 20 et 22 °C. Remplacez l'exercice physique brutal par des jeux de réflexion ou d'occupation à faible intensité."
+          },
+          {
+            "name": "Soir : Soin du pli de la queue et alimentation équilibrée",
+            "text": "Désinfectez et séchez la poche de la queue (tail pocket) ainsi que les espaces entre les coussinets. Distribuez une ration adaptée pour éviter le surpoids qui pèse sur le souffle."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Quelles sont les différences entre le Bouledogue Français et le Bulldog Anglais ?",
+            "answer": "Le Bouledogue Français pèse 8 à 14 kg et porte des oreilles 'de chauve-souris' dressées. Le Bulldog Anglais pèse 20 à 25 kg, possède une ossature beaucoup plus lourde, des oreilles 'en rose' pliées, des rides plus profondes et une poitrine très large."
+          },
+          {
+            "question": "Comment traiter les rougeurs et l'humidité entre les rides du visage ?",
+            "answer": "Il s'agit d'intertrigo provoqué par les larmes et la transpiration. Essuyez les plis tous les jours et veillez à ce qu'ils restent secs. En cas d'infection, consultez un vétérinaire pour obtenir un traitement antiseptique adapté."
+          }
+        ]
+      },
+      "de": {
+        "title": "English Bulldog Faltenhygiene und 3-Schritte-Tagesroutine zur Thermoregulation bei Brachyzephalie",
+        "description": "Pflege für die sanftmütige, ruhige English Bulldog. Erfahren Sie, wie Sie Intertrigo in den Gesichtsfalten vorbeugen und die Körpertemperatur des brachyzephalen Hundes regulieren.",
+        "authority": "FCI-Rassestandard und Veterinär-Protokolle des American Kennel Club (AKC)",
+        "profile": {
+          "breed": "English Bulldog",
+          "lifespan": "8 ~ 10 Jahre",
+          "sleep_pattern": "12 ~ 14 Stunden (ruhige Innenraum-Rast, angepasst an die brachyzephale Atmung)",
+          "temperament": "Sanftmütig, ruhig, mutig, loyal, stur, liebevoll"
+        },
+        "intro": "Die English Bulldog ist eine weltberühmte mittelgroße Hunderasse, die für ihre tiefen Gesichtsfalten, ihren breiten Körperbau und ihr überraschend sanftes Wesen geschätzt wird. Sie besitzt einen deutlich schwereren Knochenbau und eine breitere Brust als die Französische Bulldogge. Durch den verkürzten Nasenbereich (Brachyzephalie) fällt der Rasse die Hitzeregulierung jedoch sehr schwer. Zudem führt Feuchtigkeit in den Hautfalten und der Schwanztasche (Tail pocket) schnell zu Bakterien- und Hefepilz-Dermatitis (Intertrigo).  erklärt die Körpersprache der Englischen Bulldogge und zeigt eine 3-Schritte-Routine für Faltenpflege und Hitzeschutz.",
+        "whyTitle": "Kommunikation der Englischen Bulldogge: Zufriedenes Grunzen und Hitzestress-Signale",
+        "whyDesc": "Ist die Englische Bulldogge entspannt, erzeugt sie leise **'Glückliche Grunzgeräusche' (Happy Grunting)** und schmiegt ihren schweren Körper an ihren Halter. Überhitzt der Hund jedoch oder bekommt schwer Luft, streckt er die Zunge weit heraus, zeigt **'Starkes Hecheln' (Heavy Panting)** und legt sich flach auf den Boden.",
+        "body_signals": [
+          {
+            "name": "Leises Grunzen und Anschmiegen (Happy Grunting)",
+            "meaning": "Ein Ausdruck tiefer Bindung und Gelassenheit; zeigt den Wunsch, entspannt in Ihrer Nähe zu ruhen.",
+            "response": "Sprechen Sie mit ruhiger Stimme und streicheln Sie sanft die Brust, um das Wohlbefinden zu fördern."
+          },
+          {
+            "name": "Starkes Hecheln und flaches Aufliegen (Heavy Panting)",
+            "meaning": "Dringendes Warnsignal für Hitzestress; die Körpertemperatur hat das regulierbare Limit überschritten.",
+            "response": "Brechen Sie jede Aktivität sofort ab, bringen Sie den Hund in einen klimatisierten Raum und geben Sie etwas lauwarmes Wasser."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Gesichtsfalten trocknen & Kurzer Spaziergang in der kühlen Frühe",
+            "text": "Reinigen Sie die Gesichtsfalten morgens mit alkoholfreien Pflegetüchern und trocknen Sie sie gründlich ab. Gehen Sie früh morgens für 15-20 Minuten spazieren."
+          },
+          {
+            "name": "Nachmittag: Raumklima kontrollieren (20-22 °C) & Ruhige Beschäftigung",
+            "text": "Halten Sie die Raumtemperatur bei 20-22 °C und die Luftfeuchtigkeit unter 50 %. Ersetzen Sie anstrengenden Sport durch Denk- und Suchspiele im Haus."
+          },
+          {
+            "name": "Abend: Schwanztaschen- & Pfotenpflege + Ernährung zur Gewichtskontrolle",
+            "text": "Säubern und trocknen Sie die Hautfalte an der Schwanzwurzel (Tail pocket) sowie die Zehenzwischenräume. Füttern Sie eine ausgewogene Mahlzeit zur Vermeidung von Übergewicht."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Worin unterscheiden sich Französische und Englische Bulldoggen?",
+            "answer": "Französische Bulldoggen wiegen 8-14 kg und haben stehende 'Fledermausohren'. Englische Bulldoggen wiegen 20-25 kg, haben ein massiveres Skelett, gefaltete 'Rosenohren', tiefere Falten und eine deutlich breitere Brust."
+          },
+          {
+            "question": "Was tun bei Rötungen und Feuchtigkeit in den Gesichtsfalten?",
+            "answer": "Es handelt sich um Intertrigo (Hautfaltendermatitis) durch Tränenflüssigkeit und Schweiß. Reinigen und trocknen Sie die Falten täglich. Bei starken Entzündungen wenden Sie vom Tierarzt verordnete antiseptische Tücher an."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Higiene de rugas do Bulldog Inglês e cuidados térmicos para braquicefálicos: Rotina de 3 passos",
+        "description": "Cuidados para o dócil e calmo Bulldog Inglês. Saiba como prevenir a intertrigo nas dobras faciais e controlar a temperatura corporal em cães braquicefálicos.",
+        "authority": "Padrões de Raça da FCI e Diretrizes Clínicas Veterinárias do AKC",
+        "profile": {
+          "breed": "Bulldog Inglês (English Bulldog)",
+          "lifespan": "8 ~ 10 anos",
+          "sleep_pattern": "12 ~ 14 horas (repouso tranquilo em ambiente interno adaptado à fisiologia)",
+          "temperament": "Dócil, calmo, corajoso, leal, teimoso, afetuoso"
+        },
+        "intro": "O Bulldog Inglês é uma raça de porte médio famosa mundialmente pelas suas profundas rugas faciais, estrutura física atarracada e temperamento surpreendentemente dócil. Possui um tórax mais largo e ossatura mais pesada que o Bulldog Francês. Contudo, devido ao focinho achatado (fisiologia braquicefálica), apresenta grande dificuldade para regular a temperatura em dias quentes. Além disso, a umidade retida nas dobras faciais e na dobra da cauda (tail pocket) pode causar dermatite por intertrigo. Neste guia, explicamos os seus sinais de comunicação e a rotina de 3 passos para cuidar da sua saúde.",
+        "whyTitle": "Comunicação do Bulldog Inglês: Ronronar alegre e sinais de estresse térmico",
+        "whyDesc": "Quando está relaxado e feliz, o Bulldog Inglês emite suaves **'Roncados Alegres' (Happy Grunting)** semelhantes aos de um porquinho enquanto encosta o seu corpo pesado no tutor. Por outro lado, sob calor excessivo, ele coloca a língua para fora, exibe um **'Ofegar Intenso' (Heavy Panting)** e deita-se reto no chão.",
+        "body_signals": [
+          {
+            "name": "Roncados suaves e apoio do corpo (Happy Grunting)",
+            "meaning": "Sinal de profunda confiança e afeição; demonstra que o cão deseja descansar tranquilamente ao seu lado.",
+            "response": "Fale com tom suave e acaricie o peito ou embaixo do queixo para reforçar a sensação de segurança."
+          },
+          {
+            "name": "Arfar pesado e deitar esticado no chão (Heavy Panting)",
+            "meaning": "Aviso de emergência para estresse térmico; indica que a temperatura ultrapassou a capacidade de refrigeração corporal.",
+            "response": "Interrompa qualquer atividade imediatamente, leve o cão para um local com ar-condicionado e ofereça pouca água morna."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Secagem de rugas e passeio curto em horário fresco",
+            "text": "Limpe as dobras do rosto com lenço sem álcool e seque completamente. Faça um passeio leve de 15 a 20 minutos bem cedo, antes que o calor aumente."
+          },
+          {
+            "name": "Tarde: Climatização (20-22 °C) e brincadeiras leves",
+            "text": "Mantenha a casa entre 20 e 22 °C e umidade abaixo de 50%. Substitua exercícios pesados por jogos mentais e de faro no ambiente interno."
+          },
+          {
+            "name": "Noite: Higiene da dobra da cauda e dieta controlada",
+            "text": "Desinfete e seque o bolsão da cauda (tail pocket) e os espaços entre as patas. Ofereça alimento de alta qualidade na quantidade correta para evitar o excesso de peso."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Qual a diferença entre o Bulldog Francês e o Bulldog Inglês?",
+            "answer": "O Bulldog Francês pesa de 8 a 14 kg e tem orelhas de morcego eretas. O Bulldog Inglês pesa de 20 a 25 kg, possui ossatura muito mais pesada, orelhas em rosa dobradas, rugas faciais mais profundas e peito bem mais largo."
+          },
+          {
+            "question": "Como tratar a vermelhidão e assaduras entre as rugas do rosto?",
+            "answer": "Trata-se de intertrigo (dermatite de dobras) causado pelo acúmulo de lágrima e suor. Limpe e seque as dobras diariamente. Em casos graves, consulte um veterinário para usar lenços antissépticos prescritos."
+          }
+        ]
+      },
+      "id": {
+        "title": "Higiene Kerutan Wajah English Bulldog dan Perawatan Suhu Tubuh Brakhisefalik 3 Langkah",
+        "description": "Perawatan untuk English Bulldog yang tenang dan penyayang. Pelajari cara mencegah intertrigo (dermatitis lipatan kulit) dan kelola suhu tubuh anjing bernapas pendek.",
+        "authority": "Standar Ras FCI dan Panduan Klinis Dokter Hewan American Kennel Club (AKC)",
+        "profile": {
+          "breed": "English Bulldog",
+          "lifespan": "8 ~ 10 tahun",
+          "sleep_pattern": "12 ~ 14 jam (istirahat tenang di dalam ruangan sesuai fisiologi brakhisefalik)",
+          "temperament": "Lembut, tenang, pemberani, setia, agak keras kepala, penyayang"
+        },
+        "intro": "English Bulldog adalah ras anjing berukuran sedang yang sangat populer di seluruh dunia berkat kerutan wajahnya yang khas, tubuhnya yang kekar, serta sifatnya yang sangat lembut. Anjing ini memiliki tulang yang lebih berat dan dada yang lebih lebar dibanding French Bulldog. Namun, karena struktur moncongnya yang pendek (brakhisefalik), English Bulldog sangat sensitif terhadap udara panas dan sulit mengatur suhu tubuhnya. Selain itu, kelembapan yang terperangkap di lipatan wajah dan kantong ekor (tail pocket) dapat memicu dermatitis lipatan kulit (intertrigo). Dalam panduan ini, membagikan panduan bahasa tubuh dan 3 langkah perawatan harian untuk kebersihan dan kesehatannya.",
+        "whyTitle": "Komunikasi English Bulldog: Dengkur Ceria dan Sinyal Bahaya Panas",
+        "whyDesc": "Saat merasa nyaman dan bahagia, English Bulldog akan mengeluarkan suara **'Dengkur Ceria' (Happy Grunting)** yang lembut mirip suara babi kecil sambil menyandarkan tubuhnya ke pemilik. Namun saat mengalami kepanasan, anjing ini akan menjulurkan lidahnya, mengalami **'Napas Terengah-engah' (Heavy Panting)**, dan berbaring telungkup di lantai.",
+        "body_signals": [
+          {
+            "name": "Dengkur Lembut dan Menyandarkan Tubuh (Happy Grunting)",
+            "meaning": "Ungkapan rasa aman dan kesetiaan mendalam; menandakan keinginannya untuk bersantai dengan tenang di dekat pemiliknya.",
+            "response": "Bicaralah dengan suara lembut dan elus bagian dada atau bawah dagunya untuk memberinya rasa nyaman."
+          },
+          {
+            "name": "Napas Terengah-engah dan Berbaring Telungkup (Heavy Panting)",
+            "meaning": "Peringatan darurat bahwa suhu tubuh atau aktivitas fisik telah melewati batas toleransi termalnya.",
+            "response": "Hentikan aktivitas seketika, pindahkan ke ruangan ber-AC yang sejuk, dan berikan sedikit air minum."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pengeringan Lipatan Wajah & Jalan Pagi Saat Udara Sejuk",
+            "text": "Bersihkan kerutan wajah dengan tisu bebas alkohol dan keringkan sampai tuntas. Ajak jalan santai selama 15-20 menit di pagi hari sebelum udara panas."
+          },
+          {
+            "name": "Siang: Pengaturan Suhu Ruangan (20-22°C) & Permainan Ringan",
+            "text": "Jaga suhu ruangan antara 20-22°C dengan kelembapan di bawah 50%. Ganti olahraga berat dengan permainan stimulasi otak di dalam rumah."
+          },
+          {
+            "name": "Malam: Perawatan Lipatan Ekor & Diet Pengontrol Berat Badan",
+            "text": "Bersihkan dan keringkan area kantong ekor (tail pocket) serta sela-sela jari kaki. Berikan porsi makan teratur agar tidak terjadi obesitas yang memberatkan pernapasan."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apa perbedaan utama antara French Bulldog dan English Bulldog?",
+            "answer": "French Bulldog berbobot 8-14 kg dan memiliki telinga tegak 'seperti kelelawar'. Sedangkan English Bulldog berbobot 20-25 kg dengan kerangka tulang jauh lebih besar, telinga terlipat 'seperti mawar', kerutan wajah lebih dalam, dan dada lebih lebar."
+          },
+          {
+            "question": "Bagaimana cara mengatasi kemerahan dan lecet di antara lipatan wajah?",
+            "answer": "Kondisi tersebut adalah intertrigo (dermatitis lipatan kulit) akibat penumpukan air mata dan keringat. Bersihkan dan keringkan lipatan setiap hari. Jika peradangan parah, konsultasikan ke dokter hewan untuk mendapat pengobatan yang tepat."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/english_bulldog_care.webp"
+  }
 }

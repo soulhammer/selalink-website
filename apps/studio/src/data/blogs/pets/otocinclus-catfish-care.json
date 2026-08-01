@@ -1,459 +1,459 @@
 {
-    "otocinclus-catfish-care": {
-        "pubDate": "2026-05-19",
-        "updatedDate": "2026-05-19",
-        "locales": {
-            "ko": {
-                "title": "오토싱크루스 수초 어항 이끼 영양 보충과 안전한 합사 및 물잡이 후 입수 노하우 3단계 케어 루틴",
-                "description": "수초 어항의 필수 청소 물고기 오토싱크루스(Otocinclus Catfish) 케어 가이드. 이끼 부식성 영양 보충(아구창 예방), 순한 어종과의 합사, 완전히 안정화된 수조 입수 3단계 루틴을 알아봅니다.",
-                "authority": "관상용 수생생물 보존·사육 표준 및 관상용 수족관 케어 가이드라인(OATA)",
-                "profile": {
-                    "breed": "오토싱크루스 (Otocinclus Catfish / Otocinclus vittatus)",
-                    "lifespan": "3 ~ 5년",
-                    "sleep_pattern": "주·야간 공존 (수풀이나 수조 벽면에 입을 붙이고 수시로 휴식 및 바이오필름 탐식)",
-                    "temperament": "극도로 온순함, 평화로움, 소심함, 사회적(군영 습성)"
-                },
-                "intro": "오토싱크루스(Otocinclus spp.)는 남미 아마존강 수계 원산의 소형 흡착형 메기과 어류로, 수초 어항을 가꾸는 전 세계 수족관 집사들에게 필수적인 '천연 이끼 제거반'입니다. 성체 크기가 약 3~4cm에 불과하여 매우 귀엽고, 다른 어종이나 새우를 전혀 공격하지 않는 완벽한 평화주의적 성격을 지니고 있습니다. 그러나 야생에서는 수초와 구조물 표면의 미세 조류(이끼) 및 미생물막(Biofilm)을 주로 먹고살기 때문에, 이끼가 부족한 깨끗한 어항이나 신설 수조에 입수할 경우 영양 실조로 아사(Starvation)하기 매우 쉽습니다. 또한, 수질 변화 및 여과 미생물층(물잡이) 미완성에 극도로 예민하므로 반드시 생태계가 완전히 구축된 어항에 적응(물맞춤) 단계를 거쳐 입수시켜야 합니다. 이번 가이드에서는 오토싱크루스의 행동 신호와 이끼 영양 보충법, 안전한 입수를 돕는 3단계 케어 루틴을 다룹니다.",
-                "whyTitle": "오토싱크루스의 행동 특성: 배의 빵빵함(식사 상태)과 군영 및 수면 급상승 행동",
-                "whyDesc": "오토싱크루스는 건강할 때 배가 동그랗고 통통하며(올챙이 배), 동료들과 무리를 지어 수초 잎을 청소합니다. 반면 배가 오목하게 들어가거나 이유 없이 수면으로 자주 쏘아 올려 헤엄치는 것은 영양 결핍이나 산소 부족, 수질 오염의 위험 신호입니다.",
-                "body_signals": [
-                    {
-                        "name": "동그랗게 부푼 배와 수초 벽면 흡착 (Plump Belly & Leaf Grazing)",
-                        "meaning": "어항 내 바이오필름과 이끼를 충분히 섭취하여 영양 상태가 양호하고 환경에 잘 적응했음을 뜻합니다.",
-                        "response": "현재의 먹이 환경과 수질을 유지하며 일정한 조명 시간을 제공해 이끼 생성을 돕습니다."
-                    },
-                    {
-                        "name": "오목하게 들어간 배 및 수면 급상승 (Sunken Belly & Surface Darting)",
-                        "meaning": "이끼 부족으로 인한 심각한 영양 실조 상태이거나, 수조 내 용존 산소 부족 및 암모니아/아질산 수치 상승으로 인한 호흡 곤란 신호입니다.",
-                        "response": "즉시 데친 애호박이나 소형 전용 식물성 웨이퍼 사료를 공급하고, 에어레이션을 강화하여 수질 수치를 점검합니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 복부(배 상태) 관찰 및 수온·용존산소 점검",
-                        "text": "유리 벽면에 붙어 있는 오토싱의 배가 통통한지 확인하고, 수온(22~26°C)과 여과기 출수량을 점검하여 충분한 산소를 공급합니다."
-                    },
-                    {
-                        "name": "낮: 이끼 및 바이오필름 형성 상태 점검과 조명 관리",
-                        "text": "수초 잎과 구조물 표면의 이끼량을 점검하고, 이끼 생성이 부족할 경우 조명 시간을 적절히 유지하거나 생물막 활성화제를 투여합니다."
-                    },
-                    {
-                        "name": "저녁: 식물성 보충 사료(데친 애호박/플래코 침강성 웨이퍼) 급여",
-                        "text": "이끼가 부족한 어항에는 밤 사이 먹을 수 있도록 데친 애호박 한 조각이나 소형 침강성 식물성 사료를 넣어주고 다음 날 잔여물을 치웁니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "오토싱크루스는 왜 어항을 세팅하자마자 넣으면 안 되나요?",
-                        "answer": "새로 세팅한 어항은 오토싱의 주식인 미세 조류(이끼)와 바이오필름이 전혀 형성되어 있지 않아 몇 일 내에 영양 실조로 아사하게 됩니다. 또한 여과 미생물 자리가 잡히지 않은 신설 어항의 수질 변화에 매우 약하므로, 최소 1~2개월 이상 물잡이가 완료되고 주황색/갈색 이끼가 안정적으로 끼기 시작할 때 입수시켜야 합니다."
-                    },
-                    {
-                        "question": "어항에 이끼가 없는데 오토싱 사료 적응은 어떻게 시키나요?",
-                        "answer": "어항 내 자연 이끼가 부족하면 데친 애호박(껍질 제거 후 2~3분 데침)이나 오이, 소형 식물성 스피루리나 침강성 웨이퍼를 수조 바닥에 놓아주어야 합니다. 초기에는 사료인 줄 모를 수 있으므로 수초 사이에 고정해 두고 조명을 끈 야간에 자연스럽게 갉아먹도록 유도하는 것이 좋습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Otocinclus Catfish Algae Nutrition Supplementation, Safe Tankmates, and 3-Step Established Tank Introduction Routine",
-                "description": "Essential care guide for the essential clean-up fish Otocinclus Catfish (Otocinclus spp.). Learn about herbivorous nutrition, peaceful community tankmates, and a 3-step routine for established tanks.",
-                "authority": "Ornamental Aquatic Trade Association (OATA) Guidelines and International Freshwater Aquarium Care Standards",
-                "profile": {
-                    "breed": "Otocinclus Catfish / Dwarf Suckermouth (Otocinclus spp.)",
-                    "lifespan": "3 ~ 5 Years",
-                    "sleep_pattern": "Diurnal & Nocturnal (Rests attached to leaves/glass while grazing on biofilm)",
-                    "temperament": "Extremely Docile, Peaceful, Timid, Social (Shoaling Instinct)"
-                },
-                "intro": "The Otocinclus Catfish (Otocinclus spp.) is a tiny suckermouth armored catfish native to the Amazon River basin, widely celebrated as the ultimate 'natural algae cleaner' for planted aquariums globally. Reaching a compact adult size of just 3–4 cm (1.2–1.5 inches), they are exceptionally peaceful and will never attack or harass other fish, dwarf shrimp, or invertebrates. However, because their wild diet consists almost entirely of micro-algae and soft bio-films coating plant leaves and decor, introducing them to newly set up or overly clean tanks frequently results in fatal starvation. Furthermore, they are highly sensitive to fluctuating water parameters and unestablished nitrogen cycles, requiring introduction only into fully matured aquariums via gradual acclimation. In this guide, we detail Otocinclus behavior signals, nutritional supplementation, and a 3-step care routine.",
-                "whyTitle": "Otocinclus Behavioral Signals: Plump Belly (Nutritional Health) vs. Surface Darting & Sunken Belly",
-                "whyDesc": "Healthy Otocinclus exhibit round, plump 'potbellies' and graze peacefully in small groups across plant leaves. Conversely, a sunken belly or frequent, frantic darting to the water surface indicates severe starvation, lack of dissolved oxygen, or nitrogen waste spikes.",
-                "body_signals": [
-                    {
-                        "name": "Plump Belly & Leaf Grazing",
-                        "meaning": "Indicates adequate consumption of bio-film and algae, signifying good nutritional health and comfortable acclimatization.",
-                        "response": "Maintain current feeding parameters, water quality, and lighting schedules to support natural algae growth."
-                    },
-                    {
-                        "name": "Sunken Belly & Surface Darting",
-                        "meaning": "A critical distress signal indicating starvation due to lack of algae, or respiratory stress from low dissolved oxygen/high ammonia levels.",
-                        "response": "Immediately supplement with blanched zucchini or sinking algae wafers, increase aeration, and test water parameters."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Abdominal (Belly) Observation & Oxygenation Check",
-                        "text": "Inspect the bellies of Otocinclus resting on glass for plumpness, verifying water temperature (22–26°C / 72–79°F) and adequate filter flow for aeration."
-                    },
-                    {
-                        "name": "Afternoon: Bio-film Level Inspection & Lighting Management",
-                        "text": "Check algae availability on plant leaves and decor; balance daily photoperiods to encourage natural micro-algae growth without inducing nuisance algae."
-                    },
-                    {
-                        "name": "Evening: Herbivorous Supplementation (Blanched Zucchini / Algae Wafers)",
-                        "text": "Provide a small slice of blanched zucchini or a sinking herbivore wafer before lights-out if natural algae is low, removing uneaten remains the next day."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why shouldn't Otocinclus be introduced to a brand-new aquarium?",
-                        "answer": "Brand-new aquariums lack the essential micro-algae and mature bio-films that Otocinclus depend on for food, leading to rapid starvation. Additionally, they are extremely sensitive to immature nitrogen cycles. Always wait at least 1–2 months until the tank ecosystem is fully established and soft green/brown algae is present."
-                    },
-                    {
-                        "question": "How do I feed Otocinclus if there isn't enough natural algae in the tank?",
-                        "answer": "Supplement their diet with blanched vegetables like zucchini or cucumber (boiled for 2–3 minutes with skin removed) and small sinking spirulina/algae wafers. Anchor the food near plant leaves and offer it near lights-out so they can graze comfortably in the dark."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "オトシンクルスのコケ栄養補給と安全な混泳・水槽立ち上げ後導入3ステップ日常ケア",
-                "description": "水草水槽の必須コケ取り魚オトシンクルス（Otocinclus Catfish）飼育ガイド。草食性栄養補給（餓死予防）、大人しい他魚との混泳、十分に立ち上がった水槽への導入3ステップを解説。",
-                "authority": "観賞用水生生物保全・飼育基準および観賞魚ケアガイドライン（OATA）",
-                "profile": {
-                    "breed": "オトシンクルス (Otocinclus Catfish / Otocinclus vittatus)",
-                    "lifespan": "3 〜 5年",
-                    "sleep_pattern": "昼夜共存 (水草やガラス面に口を吸着させて休息しつつバイオフィルムをツマツマ食す)",
-                    "temperament": "極めて温和、平和的、臆病、社会性(群れを成す習性)"
-                },
-                "intro": "オトシンクルス（Otocinclus spp.）は、南米アマゾン川水系原産の小型吸着型ナマズの仲間で、水草水槽を育てる世界中のアクアリストにとって欠かせない「天然のコケ掃除屋」です。体長は成魚でも約3〜4cmと非常に可愛らしく、他の魚やミナミヌマエビ、ヤマトヌマエビなどを攻撃しない完全な平和主義者です。しかし、野性では水草や流木に付着した微細藻類（コケ）や微生物膜（バイオフィルム）を主食としているため、コケの 生えていない綺麗すぎる水槽やセット直後の新設水槽に導入すると、栄養失調で餓死（Starvation）してしまう危険性が高いです。また、水質の急変や未完成の水生生態系に敏感なため、必ず十分水が立ち上がった安定した水槽へ慎重に水合わせをして導入する必要があります。本記事では、オトシンクルスの行動サインと栄養補給法、安全な導入を助ける3ステップ日常ケアを解説します。",
-                "whyTitle": "オトシンクルスの行動特徴：お腹のふくらみ（栄養状態）と群泳・水面への急上昇行動",
-                "whyDesc": "健康なオトシンクルスは、お腹が丸くぽっこりと膨らみ（オタマジャクシ腹）、仲間と群れを成して水草の葉を掃除します。一方、お腹がへこんでいたり、水面に向かって頻繁に飛び上がるように泳ぐのは、餓死の危機や酸素不足、窒素中毒の警告サインです。",
-                "body_signals": [
-                    {
-                        "name": "ふっくらしたお腹と葉面への吸着 (Plump Belly & Leaf Grazing)",
-                        "meaning": "水槽内のバイオフィルムやコケを十分に摂取できており、栄養状態が良く環境に適応しているサインです。",
-                        "response": "現在の給餌環境と水質を維持し、適切な照明時間を確保して自然なコケの発生を維持します。"
-                    },
-                    {
-                        "name": "へこんだお腹と水面への急上昇 (Sunken Belly & Surface Darting)",
-                        "meaning": "コケ不足による深刻な栄養失調、または溶存酸素不足やアンモニア・亜硝酸濃度上昇による息苦しさのサインです。",
-                        "response": "直ちに茹でたズッキーニや沈下性のプレコ/植物性ウェハーフードを与え、エアレーションを強化して水質を点検します。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：腹部（お腹のふくらみ）の観察と水温・酸素量の確認",
-                        "text": "ガラス面に張り付いているオトシンのお腹がぽっこりしているか確認し、水温（22〜26℃）とフィルターの出水量・エアレーションを確認します。"
-                    },
-                    {
-                        "name": "昼：コケ・バイオフィルムの発生状況と照明の管理",
-                        "text": "水草の葉や構造物のコケ量を確認し、コケが少ない場合は照明時間を適正に維持して微細藻類の発生を促します。"
-                    },
-                    {
-                        "name": "夜：植物性補給フード（茹でたズッキーニ/沈下性ウェハー）の給餌",
-                        "text": "コケが不足している水槽には、夜間に食べられるよう茹でたズッキーニや植物性ウェハーを投与し、翌朝に残餌を回収します。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "なぜオトシンクルスを水槽セット直後に導入してはいけないのですか？",
-                        "answer": "セットしたばかりの新設水槽には、オトシンクルスの主食である微細藻類やバイオフィルムが全く存在しないため、数日で餓死してしまいます。また、濾過バクテリアが定着していない未完成な水質にも弱いため、最低でも1〜2ヶ月以上水槽を回し、柔らかい緑藻や茶ゴケが安定して発生してから導入してください。"
-                    },
-                    {
-                        "question": "水槽にコケが少ない場合、どのように人工飼料に慣れさせればよいですか？",
-                        "answer": "茹でたズッキーニ（皮をむき2〜3分熱湯で茹でたもの）やキュウリ、小粒のスピルリナ入り沈下性ウェハーフードを底床に置きます。最初はエサと認識しないことがあるため、水草の近くに weighted で fixed し、消灯後の暗い時間帯に静かにツマツマ食せる環境を作ってあげることが有効です。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "筛耳鲶(Otocinclus/小精灵 Fish)藻类营养补充、安全混养与开缸稳定后入缸3阶段日常护理流程",
-                "description": "草缸必备工具鱼筛耳鲶（小精灵/Otocinclus Catfish）护理指南。了解食藻性营养补充（预防饿死）、温和品种混养以及完全定水后入缸3阶段日常护理。",
-                "authority": "观赏水生生物保育与饲育标准及观赏水族护理指南 (OATA)",
-                "profile": {
-                    "breed": "筛耳鲶 / 小精灵鱼 (Otocinclus Catfish / Otocinclus vittatus)",
-                    "lifespan": "3 ~ 5年",
-                    "sleep_pattern": "昼夜共存 (吸附于水草或缸壁休息，同时不断啃食生物膜)",
-                    "temperament": "极度温和、和平、胆小、具有群游习性"
-                },
-                "intro": "筛耳鲶（Otocinclus spp.，俗称“小精灵鱼”）是原产于南美洲亚马逊河流域的小型吸盘式甲鲶科鱼类，是全球草缸玩家眼中的“天然藻类清理者”。成鱼体长仅约 3~4 cm，性格极其温和，绝不会攻击或骚扰其他鱼类、观赏虾或无脊椎动物。然而，由于它们在野生环境中几乎完全以水草和造景石表面的微藻及生物膜（Biofilm）为食，如果将其放人过于干净或刚刚搭建的新开水缸中，极易因缺乏食物而饿死（Starvation）。此外，它们对水质波动及未建立好的硝化系统极度敏感，因此必须在水缸生态完全建立稳定后，经过过水适应才能入缸。本指南将为您解析小精灵鱼的行为信号、营养补充技巧及3阶段日常护理流程。",
-                "whyTitle": "小精灵鱼的行为习性：圆滚滚的肚子（营养状况）与群游及急冲水面",
-                "whyDesc": "健康的小精灵鱼肚子会像蝌蚪一样呈圆滚滚的形状，并与同伴结伴清理水草叶片。相反，如果肚子凹陷，或无故频繁急冲至水面，则是严重营养不良、水中缺氧或氨氮毒素超标的危急信号。",
-                "body_signals": [
-                    {
-                        "name": "圆滚滚的肚子与吸附叶片啃食 (Plump Belly & Leaf Grazing)",
-                        "meaning": "代表摄入了足够的生物膜与藻类，营养状况良好且已完全适应水缸环境。",
-                        "response": "维持当前喂食与水质环境，保持合理的照光时间以促进藻类自然生长。"
-                    },
-                    {
-                        "name": "肚子凹陷与频繁急冲水面 (Sunken Belly & Surface Darting)",
-                        "meaning": "因缺乏藻类导致严重营养不良，或是水体溶氧不足、氨氮毒素升高导致的呼吸困难信号。",
-                        "response": "立即投喂烫熟的西葫芦或沉底植物性异型贴片饲料，加大打氧并检测水质。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：观察腹部（肚子饱满度）与水温溶氧检测",
-                        "text": "观察吸附在缸壁上的小精灵鱼肚子是否圆润，检查水温（22~26°C）与过滤器出水量以确保溶氧充足。"
-                    },
-                    {
-                        "name": "中午：检查藻类与生物膜生成状态并管理光照",
-                        "text": "检查水草叶片上的藻类储备，若藻类不足可适当维持合理的每日光照时间以促进微藻生长。"
-                    },
-                    {
-                        "name": "晚上：投喂植物性补充饲料（烫熟西葫芦/沉底螺旋藻片）",
-                        "text": "在藻类不足的水缸中，关灯前投喂一小片烫熟的西葫芦或沉底植物性饲料，次日清晨捞出残渣。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "为什么不能在刚开缸时就放入小精灵鱼？",
-                        "answer": "刚搭建的新缸完全没有小精灵鱼的主食——微藻和成熟的生物膜，放入后几天内就会因断粮而饿死。此外，新缸的硝化系统尚未建立，水质剧烈波动会导致其死亡。建议至少开缸 1~2 个月、水质完全稳定且长出褐藻/绿藻后再入缸。"
-                    },
-                    {
-                        "question": "如果缸里没有足够的藻类，如何驯化小精灵鱼吃人工饲料？",
-                        "answer": "可以投喂去皮烫熟（沸水煮 2~3 分钟）的西葫芦切片、黄瓜切片，或是含有螺旋藻的小粒沉底片状饲料。初期它们可能不知道是食物，可用重物固定在水草附近，并在关灯后的夜晚让其安心啃食。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Guía de suplementación nutricional de algas para el siluro Otocinclus, compañeros seguros y rutina de 3 pasos para acuarios maduros",
-                "description": "Guía esencial de cuidado para el pez limpia-algas Otocinclus Catfish (Otocinclus spp.). Nutrición herbívora, compañeros pacíficos y rutina de 3 pasos para acuarios maduros.",
-                "authority": "Pautas de la Ornamental Aquatic Trade Association (OATA) y Estándares Internacionales de Cuidados de Acuarios de Agua Dulce",
-                "profile": {
-                    "breed": "Pez Otocinclus / Siluro Enano (Otocinclus spp.)",
-                    "lifespan": "3 ~ 5 años",
-                    "sleep_pattern": "Diurno y nocturno (Descansa adherido a hojas o cristales mientras pastorea biofilme)",
-                    "temperament": "Extremadamente dócil, pacífico, tímido, social (Instinto de cardumen)"
-                },
-                "intro": "El siluro Otocinclus (Otocinclus spp.) es un pequeño bagre acorazado con boca de ventosa nativo de la cuenca del Amazonas, famoso mundialmente como el limpia-algas natural ideal para acuarios plantados. Con un tamaño adulto de solo 3–4 cm, es absolutamente pacífico y jamás atacará a otros peces o gambas enanas. Sin embargo, dado que su dieta salvaje se compone casi exclusivamente de microalgas y biofilme sobre hojas y piedras, introducirlos en acuarios nuevos o demasiado limpios suele causar la muerte por inanición. Además, son muy sensibles a las oscilaciones de parámetros y al ciclo del nitrógeno incompleto, por lo que deben introducirse únicamente en acuarios maduros. En esta guía, cubrimos sus señales, nutrición y rutina diaria.",
-                "whyTitle": "Señales de comportamiento del Otocinclus: Barriga abultada (Salud) vs. Subidas rápidas a la superficie y vientre hundido",
-                "whyDesc": "Los Otocinclus sanos presentan vientres redondeados y abultados mientras pastorean en pequeños grupos. Por el contrario, un vientre hundido o nadar frenéticamente hacia la superficie indica inanición severa, falta de oxígeno disuelto o picos de amoníaco/nitritos.",
-                "body_signals": [
-                    {
-                        "name": "Barriga abultada y pastoreo en hojas",
-                        "meaning": "Indica un consumo adecuado de biofilme y algas, reflejando buena salud nutricional y correcta aclimatación.",
-                        "response": "Mantenga los parámetros del agua y las horas de luz para favorecer el crecimiento natural de algas."
-                    },
-                    {
-                        "name": "Vientre hundido y subidas rápidas a la superficie",
-                        "meaning": "Señal crítica de inanición por falta de algas o asfixia por bajo oxígeno disuelto/altos tóxicos.",
-                        "response": "Suministre de inmediato calabacín hervido o pastillas de espirulina fundentes, aumente la aireación y controle el agua."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Observación del vientre y comprobación de oxigenación",
-                        "text": "Examine si el vientre de los Otocinclus pegados al cristal está abultado, comprobando la temperatura (22–26 °C) y el flujo del filtro."
-                    },
-                    {
-                        "name": "Tarde: Inspección del nivel de biofilme y control de luz",
-                        "text": "Compruebe la presencia de algas en las hojas y equilibre el fotoperíodo diario para estimular microalgas naturales."
-                    },
-                    {
-                        "name": "Noche: Suplementación herbívora (Calabacín hervido / Pastillas de algas)",
-                        "text": "Coloque una rodaja de calabacín hervido o una pastilla de fondo antes de apagar la luz si faltan algas, retirando restos al día siguiente."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué no se debe introducir el Otocinclus en un acuario recién montado?",
-                        "answer": "Los acuarios recién montados carecen de las microalgas y el biofilme maduro indispensables para su alimento, lo que provoca su muerte por inanición en pocos días. Además, son extremadamente sensibles a acuarios sin ciclar. Espere al menos 1 o 2 meses hasta que el acuario esté maduro y tenga algas suaves."
-                    },
-                    {
-                        "question": "¿Cómo alimento al Otocinclus si no hay suficientes algas en el acuario?",
-                        "answer": "Complemente su dieta con verduras peladas y hervidas durante 2-3 minutos (como calabacín o pepino) y pastillas de fondo a base de espirulina. Fije la verdura cerca de las plantas y ofrézcala antes de apagar la luz para que pastoreen durante la noche."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Guide de supplémentation en algues pour l'Otocinclus, poissons cohabitants et routine en 3 étapes pour aquarium rodé",
-                "description": "Guide de soin essentiel pour le poisson nettoyeur Otocinclus Catfish (Otocinclus spp.). Nutrition herbivore, cohabitation pacifique et routine en 3 étapes pour aquarium mature.",
-                "authority": "Directives de l'Ornamental Aquatic Trade Association (OATA) et Normes Internationales de Maintien en Aquarium d'Eau Douce",
-                "profile": {
-                    "breed": "Poisson Otocinclus / Silure Nain (Otocinclus spp.)",
-                    "lifespan": "3 ~ 5 ans",
-                    "sleep_pattern": "Diurne et nocturne (Se repose ventousé aux vitres/feuilles tout en pâturant le biofilm)",
-                    "temperament": "Extrêmement docile, paisible, timide, social (Instinct de groupe)"
-                },
-                "intro": "L'Otocinclus (Otocinclus spp.) est un minuscule poisson-chat ventouse originaire du bassin de l'Amazone, mondialement reconnu comme le 'nettoyeur d'algues naturel' idéal pour les aquariums plantés. Atteignant une taille adulte de seulement 3 à 4 cm, il est parfaitement pacifique et n'attaquera jamais les autres poissons ou crevettes naines. Cependant, son régime naturel étant quasi exclusivement composé de micro-algues et de biofilms sur les feuilles, l'introduire dans un aquarium trop propre ou fraîchement installé conduit souvent à une starvation (mort par faim). De plus, très sensible aux variations de paramètres d'eau, il doit impérativement être introduit dans un aquarium mature. Dans ce guide, découvrez ses signaux, sa nutrition et sa routine de soin.",
-                "whyTitle": "Signaux comportementaux de l'Otocinclus : Ventre rebondi (Bonne santé) vs Fusées vers la surface et ventre creux",
-                "whyDesc": "Les Otocinclus en bonne santé arborent un ventre bien rond en forme de 'têtard' lorsqu'ils broutent en groupe. À l'inverse, un ventre creux ou des montées frénétiques vers la surface signalent une sous-nutrition grave, un manque d'oxygène ou un pic de pollution.",
-                "body_signals": [
-                    {
-                        "name": "Ventre bien rond et broutement des feuilles",
-                        "meaning": "Indique une consommation suffisante de biofilm et d'algues, preuve d'une excellente santé et d'une bonne acclimatation.",
-                        "response": "Conservez les paramètres d'eau actuels et la durée d'éclairage pour maintenir la pousse naturelle des algues."
-                    },
-                    {
-                        "name": "Ventre creux et montées brusques à la surface",
-                        "meaning": "Signal de détresse critique révélant une famine par manque d'algues ou une détresse respiratoire (manque d'oxygène/ammoniac).",
-                        "response": "Donnez immédiatement de la courgette blanchie ou des pastilles de fond à la spiruline, augmentez l'aération et testez l'eau."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Observation du ventre et contrôle de l'oxygénation",
-                        "text": "Observez le ventre des Otocinclus collés à la vitre pour vérifier qu'il est rebondi, contrôlez la température (22–26 °C) et le brassage."
-                    },
-                    {
-                        "name": "Après-midi : Inspection du biofilm et gestion de l'éclairage",
-                        "text": "Vérifiez la présence d'algues sur le feuillage et équilibrez la durée d'éclairage quotidienne pour stimuler les micro-algues."
-                    },
-                    {
-                        "name": "Soir : Apport de nourriture herbivore (Courgette blanchie / Pastilles de fond)",
-                        "text": "Déposez une rondelle de courgette blanchie ou une pastille d'algues avant l'extinction des feux si le bac manque d'algues, puis retirez les restes le lendemain."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi ne faut-il pas introduire les Otocinclus dans un aquarium neuf ?",
-                        "answer": "Un aquarium fraîchement installé ne contient pas les micro-algues et le biofilm mûr indispensables à leur survie, ce qui les condamne à mourir de faim en quelques jours. De plus, ils supportent très mal le cycle d'azote incomplet. Attendez au moins 1 à 2 mois que l'écosystème soit mature et garni d'algues."
-                    },
-                    {
-                        "question": "Comment nourrir les Otocinclus s'il n'y a pas assez d'algues dans le bac ?",
-                        "answer": "Complétez leur alimentation avec des légumes blanchis 2 à 3 min à l'eau bouillante (courgette, concombre épluché) ou des pastilles de fond à la spiruline. Fixez le légume près des plantes et distribuez la nourriture au moment de l'extinction des feux."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Ohrgitter-Harnischwels (Otocinclus) Algen-Nahrungsergänzung, Vergesellschaftung und 3-Schritte-Pflege für eingefahrene Becken",
-                "description": "Leitfaden für den Ohrgitter-Harnischwels (Otocinclus spp.). Erfahren Sie alles über pflanzliche Ernährung, friedliche Mitbewohner und die 3-Schritte-Einwöhnung in eingefahrene Aquarien.",
-                "authority": "Richtlinien der Ornamental Aquatic Trade Association (OATA) und Internationale Aquaristik-Standards",
-                "profile": {
-                    "breed": "Ohrgitter-Harnischwels / Otocinclus (Otocinclus spp.)",
-                    "lifespan": "3 ~ 5 Jahre",
-                    "sleep_pattern": "Tag- und nachtaktiv (Ruht an Scheiben/Blättern und weidet Biofilm ab)",
-                    "temperament": "Extrem friedlich, ruhig, scheu, gesellig (Gruppenfisch)"
-                },
-                "intro": "Der Ohrgitter-Harnischwels (Otocinclus spp., oft 'Oto' genannt) ist ein kleiner Saugwels aus dem Südamerika-Amazonasbecken und gilt weltweit als einer der besten 'natürlichen Algenfresser' für Pflanzenaquarien. Mit einer Endgröße von nur 3–4 cm ist er absolut friedlich und greift niemals andere Fische oder Zwerggarnelen an. Da er sich in freier Wildbahn jedoch fast ausschließlich von Aufwuchs, Aufwuchsalgen und Mikro-Biofilmen auf Pflanzenblättern ernährt, verhungert er in neu eingerichteten oder zu sauberen Becken sehr schnell. Zudem reagiert er äußerst empfindlich auf schwankende Wasserwerte und unvollständige Einfahrphasen. Heute erklärt  Verhalten, Ernährung und die 3-Schritte-Routine.",
-                "whyTitle": "Verhalten des Otocinclus: Kugelbauch (Gesundheitszustand) vs. Hochschießen zur Oberfläche & Eingelegter Bauch",
-                "whyDesc": "Gesunde Otocinclus zeigen runde 'Kugelbäuche' und weiden in kleinen Gruppen Blätter ab. Ein eingefallener Bauch oder häufiges, hektisches Hochschießen an die Wasseroberfläche deutet hingegen auf Verhungern, Sauerstoffmangel oder Nitritbelastung hin.",
-                "body_signals": [
-                    {
-                        "name": "Kugelbauch & Abweiden von Blättern",
-                        "meaning": "Zeigt eine ausreichende Aufnahme von Biofilm und Algen an – Zeichen für gute Ernährung und gelungene Eingewöhnung.",
-                        "response": "Behalten Sie die aktuellen Fütterungsparameter und Wasserwerte bei, um das natürliche Algenwachstum zu fördern."
-                    },
-                    {
-                        "name": "Eingefallener Bauch & Hochschießen zur Oberfläche",
-                        "meaning": "Kritisches Stresssignal für Verhungern wegen Algenmangels oder Atemnot durch Sauerstoffmangel/Schadstoffe.",
-                        "response": "Füttern Sie sofort überbrühte Zucchini oder Welstabletten, erhöhen Sie die Belüftung und prüfen Sie die Wasserwerte."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Bauchbeobachtung & Sauerstoffkontrolle",
-                        "text": "Überprüfen Sie die Bäuche der an der Scheibe haftenden Welse auf Rundung und kontrollieren Sie Wassertemperatur (22–26 °C) und Filterströmung."
-                    },
-                    {
-                        "name": "Nachmittag: Biofilm-Inspektion & Lichtmanagement",
-                        "text": "Prüfen Sie das Algenangebot auf Blättern und Deko; stimmen Sie die tägliche Beleuchtungsdauer ab, um feine Algen zu fördern."
-                    },
-                    {
-                        "name": "Abend: Pflanzliche Zusatzfütterung (Überbrühte Zucchini / Algentabletten)",
-                        "text": "Geben Sie vor dem Ausschalten des Lichts eine überbrühte Zucchinischeibe oder eine Welstablette ins Becken, falls Algen fehlen, und entfernen Sie Reste am Morgen."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum sollte man Otocinclus nicht in ein neu eingerichtetes Aquarium einsetzen?",
-                        "answer": "Neu eingerichtete Becken besitzen noch keinen reifen Biofilm und keine Mikroalgen, die als Hauptnahrung dienen. Die Fische verhungern dort innerhalb weniger Tage. Zudem sind sie sehr empfindlich gegenüber unreifen Wasserwerten. Warten Sie mindestens 1–2 Monate, bis das Becken gut eingefahren ist."
-                    },
-                    {
-                        "question": "Wie füttere ich Otocinclus richtig, wenn nicht genügend Algen vorhanden sind?",
-                        "answer": "Ergänzen Sie das Futter mit überbrühtem Gemüsen wie Zucchini oder Gurke (2–3 Minuten gekocht, geschält) und pflanzlichen Sinktabletten mit Spirulina. Befestigen Sie das Gemüse in der Nähe von Pflanzen und füttern Sie kurz vor dem Ausschalten des Lichts."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Guia de suplementação de algas para limpa-vidros (Otocinclus), companheiros seguros e rotina de 3 passos para aquários maturados",
-                "description": "Guia de cuidados essenciais para o peixe limpa-vidros Otocinclus Catfish (Otocinclus spp.). Nutrição herbívora, companheiros pacíficos e rotina de 3 passos para aquários estabilizados.",
-                "authority": "Diretrizes da Ornamental Aquatic Trade Association (OATA) e Padrões Internacionais de Aquarismo de Água Doce",
-                "profile": {
-                    "breed": "Peixe Limpa-Vidros / Otocinclus (Otocinclus spp.)",
-                    "lifespan": "3 ~ 5 anos",
-                    "sleep_pattern": "Diurno e noturno (Descansa fixado a folhas ou vidros enquanto pastoreia o biofilme)",
-                    "temperament": "Extremamente dócil, pacífico, tímido, social (Instinto de cardume)"
-                },
-                "intro": "O limpa-vidros (Otocinclus spp.) é um pequeno cascudo ventosa nativo da bacia do rio Amazonas, amplamente reconhecido como o 'faixa-preta dos limpadores de algas' para aquários plantados em todo o mundo. Atingindo um tamanho adulto de apenas 3–4 cm, é totalmente pacífico e nunca atacará outros peixes ou camarões anões. Contudo, como a sua dieta selvagem consiste quase exclusivamente de microalgas e biofilme nas folhas e troncos, colocá-lo em aquários recém-montados ou limpos demais frequentemente resulta em morte por fome (inanição). Além disso, é muito sensível a oscilações de parâmetros e à ciclagem incompleta, devendo ser introduzido apenas em aquários maduros. Neste guia, explicamos os seus sinais, nutrição e rotina diária.",
-                "whyTitle": "Sinais de comportamento do Otocinclus: Barriga roliça (Saúde) vs. Subidas rápidas à superfície e barriga funda",
-                "whyDesc": "Otocinclus saudáveis exibem barrigas bem redondas em formato de 'girino' enquanto pastoreiam em grupo. Por outro lado, uma barriga afundada ou subidas frenéticas à superfície indicam fome severa, falta de oxigênio dissolvido ou picos de amônia e nitrito.",
-                "body_signals": [
-                    {
-                        "name": "Barriga roliça e pastoreio nas folhas",
-                        "meaning": "Indica consumo adequado de biofilme e algas, demonstrando boa saúde nutricional e correta aclimatatação.",
-                        "response": "Mantenha os parâmetros de água atuais e o tempo de iluminação para promover o crescimento natural de algas."
-                    },
-                    {
-                        "name": "Barriga funda e subidas rápidas à superfície",
-                        "meaning": "Sinal crítico de estresse por falta de algas (fome) ou asfixia por baixo oxigênio dissolvido/toxinas altas.",
-                        "response": "Forneça imediatamente abobrinha aferventada ou ração de fundo para peixes herbívoros, aumente a aeração e teste a água."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Observação da barriga e verificação de oxigenação",
-                        "text": "Examine se a barriga dos Otocinclus fixados ao vidro está roliça, checando a temperatura (22–26 °C) e a vazão do filtro."
-                    },
-                    {
-                        "name": "Tarde: Inspeção do nível de biofilme e controle de iluminação",
-                        "text": "Verifique a presença de algas nas folhas e equilibre o fotoperíodo diário para estimular microalgas naturais."
-                    },
-                    {
-                        "name": "Noite: Suplementação herbívora (Abobrinha aferventada / Ração de fundo)",
-                        "text": "Coloque uma fatia de abobrinha aferventada ou ração de fundo de spirulina antes de apagar a luz se faltarem algas, retirando sobras no dia seguinte."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Por que não se deve colocar o Otocinclus em um aquário recém-montado?",
-                        "answer": "Aquários recém-montados não possuem as microalgas e o biofilme maduro indispensáveis para a sua alimentação, levando o peixe a morrer de fome em poucos dias. Além disso, eles são muito sensíveis a aquários sem ciclagem completa. Espere pelo menos 1 a 2 meses até o aquário maturar."
-                    },
-                    {
-                        "question": "Como alimentar o Otocinclus se não houver algas suficientes no aquário?",
-                        "answer": "Complemente a sua dieta com vegetais descascados e aferventados por 2 a 3 minutos (como abobrinha ou pepino) e rações afundáveis à base de spirulina. Fixe o vegetal perto das plantas e ofereça a comida perto da hora de apagar as luzes."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Panduan Suplemen Nutrisi Alga Ikan Otocinclus, Teman Satu Akuarium yang Aman, dan Rutin 3 Langkah untuk Akuarium Matang",
-                "description": "Panduan perawatan esensial ikan pembersih alga Otocinclus Catfish (Otocinclus spp.). Nutrisi herbivora, teman akuarium yang damai, dan rutin 3 langkah untuk akuarium yang sudah matang.",
-                "authority": "Pedoman Ornamental Aquatic Trade Association (OATA) dan Standar Pemeliharaan Akuarium Air Tawar Internasional",
-                "profile": {
-                    "breed": "Ikan Otocinclus / Ikan Pembersih Kaca Kerdil (Otocinclus spp.)",
-                    "lifespan": "3 ~ 5 Tahun",
-                    "sleep_pattern": "Diurnal & Nokturnal (Istirahat menempel di daun/kaca sambil memakan biofilm)",
-                    "temperament": "Sangat Penurut, Damai, Pemalu, Sosial (Insting Berkelompok)"
-                },
-                "intro": "Ikan Otocinclus (Otocinclus spp.) adalah ikan lele kerdil pemakan alga asal Sungai Amazon yang terkenal sebagai 'pembersih alga alami' terbaik untuk akuarium tumbuhan (planted tank). Dengan ukuran dewasa hanya 3–4 cm, ikan ini sangat damai dan tidak akan pernah menyerang ikan lain maupun udang hias kerdil. Namun, karena makanan alaminya hampir sepenuhnya terdiri dari mikroalga dan biofilm halus di daun dan dekorasi, memasukkannya ke akuarium baru atau yang terlalu bersih sering kali berujung pada kematian akibat kelaparan. Selain itu, mereka sangat sensitif terhadap perubahan parameter air, sehingga wajib dimasukkan ke akuarium yang sudah matang. Dalam panduan ini, kami membagikan panduan sinyal perilaku, suplemen nutrisi, dan rutin 3 langkah harian.",
-                "whyTitle": "Sinyal Perilaku Otocinclus: Perut Buncit (Kesehatan) vs Berenang Cepat ke Permukaan & Perut Cekung",
-                "whyDesc": "Otocinclus yang sehat memiliki perut membulat buncit seperti kecebong saat memakan alga bersama kelompoknya. Sebaliknya, perut yang cekung atau sering berenang cepat ke permukaan air menandakan kelaparan parah, kekurangan oksigen terlarut, or lonjakan racun amonia/nitrit.",
-                "body_signals": [
-                    {
-                        "name": "Perut Buncit & Memakan Alga di Daun",
-                        "meaning": "Menandakan konsumsi biofilm dan alga yang cukup, menunjukkan kesehatan nutrisi yang baik dan aklimatisasi yang nyaman.",
-                        "response": "Pertahankan parameter air dan pencahayaan saat ini untuk mendukung pertumbuhan alga alami."
-                    },
-                    {
-                        "name": "Perut Cekung & Berenang Cepat ke Permukaan",
-                        "meaning": "Sinyal bahaya akibat kelaparan karena kurang alga, atau gangguan pernapasan akibat kurang oksigen terlarut/amonia tinggi.",
-                        "response": "Segera berikan potongan sukini rebus atau pelet alga tenggelam, tingkatkan aerasi, dan periksa parameter air."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Pengamatan Perut & Pemeriksaan Oksigenasi Air",
-                        "text": "Periksa kebulatan perut Otocinclus yang menempel di kaca, serta pastikan suhu air (22–26 °C) dan aliran filter berjalan baik."
-                    },
-                    {
-                        "name": "Siang: Pemeriksaan Tingkat Biofilm & Manajemen Pencahayaan",
-                        "text": "Periksa ketersediaan alga pada daun tanaman, lalu atur durasi lampu harian untuk merangsang pertumbuhan mikroalga alami."
-                    },
-                    {
-                        "name": "Malam: Pemberian Pakan Herbivora Tambahan (Sukini Rebus / Pelet Alga)",
-                        "text": "Berikan sepotong sukini rebus atau pelet tenggelam sebelum lampu dimatikan jika alga alami kurang, lalu bersihkan sisanya besok pagi."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa Otocinclus tidak boleh dimasukkan ke akuarium yang baru jadi?",
-                        "answer": "Akuarium yang baru jadi tidak memiliki mikroalga dan biofilm matang yang menjadi makanan utama Otocinclus, sehingga mereka akan mati kelaparan dalam beberapa hari. Selain itu, mereka sangat sensitif terhadap siklus nitrogen yang belum matang. Tunggulah minimal 1–2 bulan hingga akuarium matang dan memiliki alga halus."
-                    },
-                    {
-                        "question": "Bagaimana cara memberi makan Otocinclus jika tidak ada cukup alga di akuarium?",
-                        "answer": "Tambahkan makanan mereka dengan sayuran rebus seperti sukini atau timun (direbus 2–3 menit dan dikupas kulitnya) serta pelet tenggelam ber kandungan spirulina. Tancapkan sayuran di dekat tanaman dan berikan saat lampu akan dimatikan."
-                    }
-                ]
-            }
+  "otocinclus-catfish-care": {
+    "pubDate": "2026-05-19",
+    "updatedDate": "2026-05-19",
+    "locales": {
+      "ko": {
+        "title": "오토싱크루스 수초 어항 이끼 영양 보충과 안전한 합사 및 물잡이 후 입수 노하우 3단계 케어 루틴",
+        "description": "수초 어항의 필수 청소 물고기 오토싱크루스(Otocinclus Catfish) 케어 가이드. 이끼 부식성 영양 보충(아구창 예방), 순한 어종과의 합사, 완전히 안정화된 수조 입수 3단계 루틴을 알아봅니다.",
+        "authority": "관상용 수생생물 보존·사육 표준 및 관상용 수족관 케어 가이드라인(OATA)",
+        "profile": {
+          "breed": "오토싱크루스 (Otocinclus Catfish / Otocinclus vittatus)",
+          "lifespan": "3 ~ 5년",
+          "sleep_pattern": "주·야간 공존 (수풀이나 수조 벽면에 입을 붙이고 수시로 휴식 및 바이오필름 탐식)",
+          "temperament": "극도로 온순함, 평화로움, 소심함, 사회적(군영 습성)"
         },
-        "heroImage": "/images/blog/otocinclus_catfish_care.webp"
-    }
+        "intro": "오토싱크루스(Otocinclus spp.)는 남미 아마존강 수계 원산의 소형 흡착형 메기과 어류로, 수초 어항을 가꾸는 전 세계 수족관 집사들에게 필수적인 '천연 이끼 제거반'입니다. 성체 크기가 약 3~4cm에 불과하여 매우 귀엽고, 다른 어종이나 새우를 전혀 공격하지 않는 완벽한 평화주의적 성격을 지니고 있습니다. 그러나 야생에서는 수초와 구조물 표면의 미세 조류(이끼) 및 미생물막(Biofilm)을 주로 먹고살기 때문에, 이끼가 부족한 깨끗한 어항이나 신설 수조에 입수할 경우 영양 실조로 아사(Starvation)하기 매우 쉽습니다. 또한, 수질 변화 및 여과 미생물층(물잡이) 미완성에 극도로 예민하므로 반드시 생태계가 완전히 구축된 어항에 적응(물맞춤) 단계를 거쳐 입수시켜야 합니다. 이번 가이드에서는 오토싱크루스의 행동 신호와 이끼 영양 보충법, 안전한 입수를 돕는 3단계 케어 루틴을 다룹니다.",
+        "whyTitle": "오토싱크루스의 행동 특성: 배의 빵빵함(식사 상태)과 군영 및 수면 급상승 행동",
+        "whyDesc": "오토싱크루스는 건강할 때 배가 동그랗고 통통하며(올챙이 배), 동료들과 무리를 지어 수초 잎을 청소합니다. 반면 배가 오목하게 들어가거나 이유 없이 수면으로 자주 쏘아 올려 헤엄치는 것은 영양 결핍이나 산소 부족, 수질 오염의 위험 신호입니다.",
+        "body_signals": [
+          {
+            "name": "동그랗게 부푼 배와 수초 벽면 흡착 (Plump Belly & Leaf Grazing)",
+            "meaning": "어항 내 바이오필름과 이끼를 충분히 섭취하여 영양 상태가 양호하고 환경에 잘 적응했음을 뜻합니다.",
+            "response": "현재의 먹이 환경과 수질을 유지하며 일정한 조명 시간을 제공해 이끼 생성을 돕습니다."
+          },
+          {
+            "name": "오목하게 들어간 배 및 수면 급상승 (Sunken Belly & Surface Darting)",
+            "meaning": "이끼 부족으로 인한 심각한 영양 실조 상태이거나, 수조 내 용존 산소 부족 및 암모니아/아질산 수치 상승으로 인한 호흡 곤란 신호입니다.",
+            "response": "즉시 데친 애호박이나 소형 전용 식물성 웨이퍼 사료를 공급하고, 에어레이션을 강화하여 수질 수치를 점검합니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 복부(배 상태) 관찰 및 수온·용존산소 점검",
+            "text": "유리 벽면에 붙어 있는 오토싱의 배가 통통한지 확인하고, 수온(22~26°C)과 여과기 출수량을 점검하여 충분한 산소를 공급합니다."
+          },
+          {
+            "name": "낮: 이끼 및 바이오필름 형성 상태 점검과 조명 관리",
+            "text": "수초 잎과 구조물 표면의 이끼량을 점검하고, 이끼 생성이 부족할 경우 조명 시간을 적절히 유지하거나 생물막 활성화제를 투여합니다."
+          },
+          {
+            "name": "저녁: 식물성 보충 사료(데친 애호박/플래코 침강성 웨이퍼) 급여",
+            "text": "이끼가 부족한 어항에는 밤 사이 먹을 수 있도록 데친 애호박 한 조각이나 소형 침강성 식물성 사료를 넣어주고 다음 날 잔여물을 치웁니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "오토싱크루스는 왜 어항을 세팅하자마자 넣으면 안 되나요?",
+            "answer": "새로 세팅한 어항은 오토싱의 주식인 미세 조류(이끼)와 바이오필름이 전혀 형성되어 있지 않아 몇 일 내에 영양 실조로 아사하게 됩니다. 또한 여과 미생물 자리가 잡히지 않은 신설 어항의 수질 변화에 매우 약하므로, 최소 1~2개월 이상 물잡이가 완료되고 주황색/갈색 이끼가 안정적으로 끼기 시작할 때 입수시켜야 합니다."
+          },
+          {
+            "question": "어항에 이끼가 없는데 오토싱 사료 적응은 어떻게 시키나요?",
+            "answer": "어항 내 자연 이끼가 부족하면 데친 애호박(껍질 제거 후 2~3분 데침)이나 오이, 소형 식물성 스피루리나 침강성 웨이퍼를 수조 바닥에 놓아주어야 합니다. 초기에는 사료인 줄 모를 수 있으므로 수초 사이에 고정해 두고 조명을 끈 야간에 자연스럽게 갉아먹도록 유도하는 것이 좋습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Otocinclus Catfish Algae Nutrition Supplementation, Safe Tankmates, and 3-Step Established Tank Introduction Routine",
+        "description": "Essential care guide for the essential clean-up fish Otocinclus Catfish (Otocinclus spp.). Learn about herbivorous nutrition, peaceful community tankmates, and a 3-step routine for established tanks.",
+        "authority": "Ornamental Aquatic Trade Association (OATA) Guidelines and International Freshwater Aquarium Care Standards",
+        "profile": {
+          "breed": "Otocinclus Catfish / Dwarf Suckermouth (Otocinclus spp.)",
+          "lifespan": "3 ~ 5 Years",
+          "sleep_pattern": "Diurnal & Nocturnal (Rests attached to leaves/glass while grazing on biofilm)",
+          "temperament": "Extremely Docile, Peaceful, Timid, Social (Shoaling Instinct)"
+        },
+        "intro": "The Otocinclus Catfish (Otocinclus spp.) is a tiny suckermouth armored catfish native to the Amazon River basin, widely celebrated as the ultimate 'natural algae cleaner' for planted aquariums globally. Reaching a compact adult size of just 3–4 cm (1.2–1.5 inches), they are exceptionally peaceful and will never attack or harass other fish, dwarf shrimp, or invertebrates. However, because their wild diet consists almost entirely of micro-algae and soft bio-films coating plant leaves and decor, introducing them to newly set up or overly clean tanks frequently results in fatal starvation. Furthermore, they are highly sensitive to fluctuating water parameters and unestablished nitrogen cycles, requiring introduction only into fully matured aquariums via gradual acclimation. In this guide, we detail Otocinclus behavior signals, nutritional supplementation, and a 3-step care routine.",
+        "whyTitle": "Otocinclus Behavioral Signals: Plump Belly (Nutritional Health) vs. Surface Darting & Sunken Belly",
+        "whyDesc": "Healthy Otocinclus exhibit round, plump 'potbellies' and graze peacefully in small groups across plant leaves. Conversely, a sunken belly or frequent, frantic darting to the water surface indicates severe starvation, lack of dissolved oxygen, or nitrogen waste spikes.",
+        "body_signals": [
+          {
+            "name": "Plump Belly & Leaf Grazing",
+            "meaning": "Indicates adequate consumption of bio-film and algae, signifying good nutritional health and comfortable acclimatization.",
+            "response": "Maintain current feeding parameters, water quality, and lighting schedules to support natural algae growth."
+          },
+          {
+            "name": "Sunken Belly & Surface Darting",
+            "meaning": "A critical distress signal indicating starvation due to lack of algae, or respiratory stress from low dissolved oxygen/high ammonia levels.",
+            "response": "Immediately supplement with blanched zucchini or sinking algae wafers, increase aeration, and test water parameters."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Abdominal (Belly) Observation & Oxygenation Check",
+            "text": "Inspect the bellies of Otocinclus resting on glass for plumpness, verifying water temperature (22–26°C / 72–79°F) and adequate filter flow for aeration."
+          },
+          {
+            "name": "Afternoon: Bio-film Level Inspection & Lighting Management",
+            "text": "Check algae availability on plant leaves and decor; balance daily photoperiods to encourage natural micro-algae growth without inducing nuisance algae."
+          },
+          {
+            "name": "Evening: Herbivorous Supplementation (Blanched Zucchini / Algae Wafers)",
+            "text": "Provide a small slice of blanched zucchini or a sinking herbivore wafer before lights-out if natural algae is low, removing uneaten remains the next day."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why shouldn't Otocinclus be introduced to a brand-new aquarium?",
+            "answer": "Brand-new aquariums lack the essential micro-algae and mature bio-films that Otocinclus depend on for food, leading to rapid starvation. Additionally, they are extremely sensitive to immature nitrogen cycles. Always wait at least 1–2 months until the tank ecosystem is fully established and soft green/brown algae is present."
+          },
+          {
+            "question": "How do I feed Otocinclus if there isn't enough natural algae in the tank?",
+            "answer": "Supplement their diet with blanched vegetables like zucchini or cucumber (boiled for 2–3 minutes with skin removed) and small sinking spirulina/algae wafers. Anchor the food near plant leaves and offer it near lights-out so they can graze comfortably in the dark."
+          }
+        ]
+      },
+      "ja": {
+        "title": "オトシンクルスのコケ栄養補給と安全な混泳・水槽立ち上げ後導入3ステップ日常ケア",
+        "description": "水草水槽の必須コケ取り魚オトシンクルス（Otocinclus Catfish）飼育ガイド。草食性栄養補給（餓死予防）、大人しい他魚との混泳、十分に立ち上がった水槽への導入3ステップを解説。",
+        "authority": "観賞用水生生物保全・飼育基準および観賞魚ケアガイドライン（OATA）",
+        "profile": {
+          "breed": "オトシンクルス (Otocinclus Catfish / Otocinclus vittatus)",
+          "lifespan": "3 〜 5年",
+          "sleep_pattern": "昼夜共存 (水草やガラス面に口を吸着させて休息しつつバイオフィルムをツマツマ食す)",
+          "temperament": "極めて温和、平和的、臆病、社会性(群れを成す習性)"
+        },
+        "intro": "オトシンクルス（Otocinclus spp.）は、南米アマゾン川水系原産の小型吸着型ナマズの仲間で、水草水槽を育てる世界中のアクアリストにとって欠かせない「天然のコケ掃除屋」です。体長は成魚でも約3〜4cmと非常に可愛らしく、他の魚やミナミヌマエビ、ヤマトヌマエビなどを攻撃しない完全な平和主義者です。しかし、野性では水草や流木に付着した微細藻類（コケ）や微生物膜（バイオフィルム）を主食としているため、コケの 生えていない綺麗すぎる水槽やセット直後の新設水槽に導入すると、栄養失調で餓死（Starvation）してしまう危険性が高いです。また、水質の急変や未完成の水生生態系に敏感なため、必ず十分水が立ち上がった安定した水槽へ慎重に水合わせをして導入する必要があります。本記事では、オトシンクルスの行動サインと栄養補給法、安全な導入を助ける3ステップ日常ケアを解説します。",
+        "whyTitle": "オトシンクルスの行動特徴：お腹のふくらみ（栄養状態）と群泳・水面への急上昇行動",
+        "whyDesc": "健康なオトシンクルスは、お腹が丸くぽっこりと膨らみ（オタマジャクシ腹）、仲間と群れを成して水草の葉を掃除します。一方、お腹がへこんでいたり、水面に向かって頻繁に飛び上がるように泳ぐのは、餓死の危機や酸素不足、窒素中毒の警告サインです。",
+        "body_signals": [
+          {
+            "name": "ふっくらしたお腹と葉面への吸着 (Plump Belly & Leaf Grazing)",
+            "meaning": "水槽内のバイオフィルムやコケを十分に摂取できており、栄養状態が良く環境に適応しているサインです。",
+            "response": "現在の給餌環境と水質を維持し、適切な照明時間を確保して自然なコケの発生を維持します。"
+          },
+          {
+            "name": "へこんだお腹と水面への急上昇 (Sunken Belly & Surface Darting)",
+            "meaning": "コケ不足による深刻な栄養失調、または溶存酸素不足やアンモニア・亜硝酸濃度上昇による息苦しさのサインです。",
+            "response": "直ちに茹でたズッキーニや沈下性のプレコ/植物性ウェハーフードを与え、エアレーションを強化して水質を点検します。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：腹部（お腹のふくらみ）の観察と水温・酸素量の確認",
+            "text": "ガラス面に張り付いているオトシンのお腹がぽっこりしているか確認し、水温（22〜26℃）とフィルターの出水量・エアレーションを確認します。"
+          },
+          {
+            "name": "昼：コケ・バイオフィルムの発生状況と照明の管理",
+            "text": "水草の葉や構造物のコケ量を確認し、コケが少ない場合は照明時間を適正に維持して微細藻類の発生を促します。"
+          },
+          {
+            "name": "夜：植物性補給フード（茹でたズッキーニ/沈下性ウェハー）の給餌",
+            "text": "コケが不足している水槽には、夜間に食べられるよう茹でたズッキーニや植物性ウェハーを投与し、翌朝に残餌を回収します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "なぜオトシンクルスを水槽セット直後に導入してはいけないのですか？",
+            "answer": "セットしたばかりの新設水槽には、オトシンクルスの主食である微細藻類やバイオフィルムが全く存在しないため、数日で餓死してしまいます。また、濾過バクテリアが定着していない未完成な水質にも弱いため、最低でも1〜2ヶ月以上水槽を回し、柔らかい緑藻や茶ゴケが安定して発生してから導入してください。"
+          },
+          {
+            "question": "水槽にコケが少ない場合、どのように人工飼料に慣れさせればよいですか？",
+            "answer": "茹でたズッキーニ（皮をむき2〜3分熱湯で茹でたもの）やキュウリ、小粒のスピルリナ入り沈下性ウェハーフードを底床に置きます。最初はエサと認識しないことがあるため、水草の近くに weighted で fixed し、消灯後の暗い時間帯に静かにツマツマ食せる環境を作ってあげることが有効です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "筛耳鲶(Otocinclus/小精灵 Fish)藻类营养补充、安全混养与开缸稳定后入缸3阶段日常护理流程",
+        "description": "草缸必备工具鱼筛耳鲶（小精灵/Otocinclus Catfish）护理指南。了解食藻性营养补充（预防饿死）、温和品种混养以及完全定水后入缸3阶段日常护理。",
+        "authority": "观赏水生生物保育与饲育标准及观赏水族护理指南 (OATA)",
+        "profile": {
+          "breed": "筛耳鲶 / 小精灵鱼 (Otocinclus Catfish / Otocinclus vittatus)",
+          "lifespan": "3 ~ 5年",
+          "sleep_pattern": "昼夜共存 (吸附于水草或缸壁休息，同时不断啃食生物膜)",
+          "temperament": "极度温和、和平、胆小、具有群游习性"
+        },
+        "intro": "筛耳鲶（Otocinclus spp.，俗称“小精灵鱼”）是原产于南美洲亚马逊河流域的小型吸盘式甲鲶科鱼类，是全球草缸玩家眼中的“天然藻类清理者”。成鱼体长仅约 3~4 cm，性格极其温和，绝不会攻击或骚扰其他鱼类、观赏虾或无脊椎动物。然而，由于它们在野生环境中几乎完全以水草和造景石表面的微藻及生物膜（Biofilm）为食，如果将其放人过于干净或刚刚搭建的新开水缸中，极易因缺乏食物而饿死（Starvation）。此外，它们对水质波动及未建立好的硝化系统极度敏感，因此必须在水缸生态完全建立稳定后，经过过水适应才能入缸。本指南将为您解析小精灵鱼的行为信号、营养补充技巧及3阶段日常护理流程。",
+        "whyTitle": "小精灵鱼的行为习性：圆滚滚的肚子（营养状况）与群游及急冲水面",
+        "whyDesc": "健康的小精灵鱼肚子会像蝌蚪一样呈圆滚滚的形状，并与同伴结伴清理水草叶片。相反，如果肚子凹陷，或无故频繁急冲至水面，则是严重营养不良、水中缺氧或氨氮毒素超标的危急信号。",
+        "body_signals": [
+          {
+            "name": "圆滚滚的肚子与吸附叶片啃食 (Plump Belly & Leaf Grazing)",
+            "meaning": "代表摄入了足够的生物膜与藻类，营养状况良好且已完全适应水缸环境。",
+            "response": "维持当前喂食与水质环境，保持合理的照光时间以促进藻类自然生长。"
+          },
+          {
+            "name": "肚子凹陷与频繁急冲水面 (Sunken Belly & Surface Darting)",
+            "meaning": "因缺乏藻类导致严重营养不良，或是水体溶氧不足、氨氮毒素升高导致的呼吸困难信号。",
+            "response": "立即投喂烫熟的西葫芦或沉底植物性异型贴片饲料，加大打氧并检测水质。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：观察腹部（肚子饱满度）与水温溶氧检测",
+            "text": "观察吸附在缸壁上的小精灵鱼肚子是否圆润，检查水温（22~26°C）与过滤器出水量以确保溶氧充足。"
+          },
+          {
+            "name": "中午：检查藻类与生物膜生成状态并管理光照",
+            "text": "检查水草叶片上的藻类储备，若藻类不足可适当维持合理的每日光照时间以促进微藻生长。"
+          },
+          {
+            "name": "晚上：投喂植物性补充饲料（烫熟西葫芦/沉底螺旋藻片）",
+            "text": "在藻类不足的水缸中，关灯前投喂一小片烫熟的西葫芦或沉底植物性饲料，次日清晨捞出残渣。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "为什么不能在刚开缸时就放入小精灵鱼？",
+            "answer": "刚搭建的新缸完全没有小精灵鱼的主食——微藻和成熟的生物膜，放入后几天内就会因断粮而饿死。此外，新缸的硝化系统尚未建立，水质剧烈波动会导致其死亡。建议至少开缸 1~2 个月、水质完全稳定且长出褐藻/绿藻后再入缸。"
+          },
+          {
+            "question": "如果缸里没有足够的藻类，如何驯化小精灵鱼吃人工饲料？",
+            "answer": "可以投喂去皮烫熟（沸水煮 2~3 分钟）的西葫芦切片、黄瓜切片，或是含有螺旋藻的小粒沉底片状饲料。初期它们可能不知道是食物，可用重物固定在水草附近，并在关灯后的夜晚让其安心啃食。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Guía de suplementación nutricional de algas para el siluro Otocinclus, compañeros seguros y rutina de 3 pasos para acuarios maduros",
+        "description": "Guía esencial de cuidado para el pez limpia-algas Otocinclus Catfish (Otocinclus spp.). Nutrición herbívora, compañeros pacíficos y rutina de 3 pasos para acuarios maduros.",
+        "authority": "Pautas de la Ornamental Aquatic Trade Association (OATA) y Estándares Internacionales de Cuidados de Acuarios de Agua Dulce",
+        "profile": {
+          "breed": "Pez Otocinclus / Siluro Enano (Otocinclus spp.)",
+          "lifespan": "3 ~ 5 años",
+          "sleep_pattern": "Diurno y nocturno (Descansa adherido a hojas o cristales mientras pastorea biofilme)",
+          "temperament": "Extremadamente dócil, pacífico, tímido, social (Instinto de cardumen)"
+        },
+        "intro": "El siluro Otocinclus (Otocinclus spp.) es un pequeño bagre acorazado con boca de ventosa nativo de la cuenca del Amazonas, famoso mundialmente como el limpia-algas natural ideal para acuarios plantados. Con un tamaño adulto de solo 3–4 cm, es absolutamente pacífico y jamás atacará a otros peces o gambas enanas. Sin embargo, dado que su dieta salvaje se compone casi exclusivamente de microalgas y biofilme sobre hojas y piedras, introducirlos en acuarios nuevos o demasiado limpios suele causar la muerte por inanición. Además, son muy sensibles a las oscilaciones de parámetros y al ciclo del nitrógeno incompleto, por lo que deben introducirse únicamente en acuarios maduros. En esta guía, cubrimos sus señales, nutrición y rutina diaria.",
+        "whyTitle": "Señales de comportamiento del Otocinclus: Barriga abultada (Salud) vs. Subidas rápidas a la superficie y vientre hundido",
+        "whyDesc": "Los Otocinclus sanos presentan vientres redondeados y abultados mientras pastorean en pequeños grupos. Por el contrario, un vientre hundido o nadar frenéticamente hacia la superficie indica inanición severa, falta de oxígeno disuelto o picos de amoníaco/nitritos.",
+        "body_signals": [
+          {
+            "name": "Barriga abultada y pastoreo en hojas",
+            "meaning": "Indica un consumo adecuado de biofilme y algas, reflejando buena salud nutricional y correcta aclimatación.",
+            "response": "Mantenga los parámetros del agua y las horas de luz para favorecer el crecimiento natural de algas."
+          },
+          {
+            "name": "Vientre hundido y subidas rápidas a la superficie",
+            "meaning": "Señal crítica de inanición por falta de algas o asfixia por bajo oxígeno disuelto/altos tóxicos.",
+            "response": "Suministre de inmediato calabacín hervido o pastillas de espirulina fundentes, aumente la aireación y controle el agua."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Observación del vientre y comprobación de oxigenación",
+            "text": "Examine si el vientre de los Otocinclus pegados al cristal está abultado, comprobando la temperatura (22–26 °C) y el flujo del filtro."
+          },
+          {
+            "name": "Tarde: Inspección del nivel de biofilme y control de luz",
+            "text": "Compruebe la presencia de algas en las hojas y equilibre el fotoperíodo diario para estimular microalgas naturales."
+          },
+          {
+            "name": "Noche: Suplementación herbívora (Calabacín hervido / Pastillas de algas)",
+            "text": "Coloque una rodaja de calabacín hervido o una pastilla de fondo antes de apagar la luz si faltan algas, retirando restos al día siguiente."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué no se debe introducir el Otocinclus en un acuario recién montado?",
+            "answer": "Los acuarios recién montados carecen de las microalgas y el biofilme maduro indispensables para su alimento, lo que provoca su muerte por inanición en pocos días. Además, son extremadamente sensibles a acuarios sin ciclar. Espere al menos 1 o 2 meses hasta que el acuario esté maduro y tenga algas suaves."
+          },
+          {
+            "question": "¿Cómo alimento al Otocinclus si no hay suficientes algas en el acuario?",
+            "answer": "Complemente su dieta con verduras peladas y hervidas durante 2-3 minutos (como calabacín o pepino) y pastillas de fondo a base de espirulina. Fije la verdura cerca de las plantas y ofrézcala antes de apagar la luz para que pastoreen durante la noche."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Guide de supplémentation en algues pour l'Otocinclus, poissons cohabitants et routine en 3 étapes pour aquarium rodé",
+        "description": "Guide de soin essentiel pour le poisson nettoyeur Otocinclus Catfish (Otocinclus spp.). Nutrition herbivore, cohabitation pacifique et routine en 3 étapes pour aquarium mature.",
+        "authority": "Directives de l'Ornamental Aquatic Trade Association (OATA) et Normes Internationales de Maintien en Aquarium d'Eau Douce",
+        "profile": {
+          "breed": "Poisson Otocinclus / Silure Nain (Otocinclus spp.)",
+          "lifespan": "3 ~ 5 ans",
+          "sleep_pattern": "Diurne et nocturne (Se repose ventousé aux vitres/feuilles tout en pâturant le biofilm)",
+          "temperament": "Extrêmement docile, paisible, timide, social (Instinct de groupe)"
+        },
+        "intro": "L'Otocinclus (Otocinclus spp.) est un minuscule poisson-chat ventouse originaire du bassin de l'Amazone, mondialement reconnu comme le 'nettoyeur d'algues naturel' idéal pour les aquariums plantés. Atteignant une taille adulte de seulement 3 à 4 cm, il est parfaitement pacifique et n'attaquera jamais les autres poissons ou crevettes naines. Cependant, son régime naturel étant quasi exclusivement composé de micro-algues et de biofilms sur les feuilles, l'introduire dans un aquarium trop propre ou fraîchement installé conduit souvent à une starvation (mort par faim). De plus, très sensible aux variations de paramètres d'eau, il doit impérativement être introduit dans un aquarium mature. Dans ce guide, découvrez ses signaux, sa nutrition et sa routine de soin.",
+        "whyTitle": "Signaux comportementaux de l'Otocinclus : Ventre rebondi (Bonne santé) vs Fusées vers la surface et ventre creux",
+        "whyDesc": "Les Otocinclus en bonne santé arborent un ventre bien rond en forme de 'têtard' lorsqu'ils broutent en groupe. À l'inverse, un ventre creux ou des montées frénétiques vers la surface signalent une sous-nutrition grave, un manque d'oxygène ou un pic de pollution.",
+        "body_signals": [
+          {
+            "name": "Ventre bien rond et broutement des feuilles",
+            "meaning": "Indique une consommation suffisante de biofilm et d'algues, preuve d'une excellente santé et d'une bonne acclimatation.",
+            "response": "Conservez les paramètres d'eau actuels et la durée d'éclairage pour maintenir la pousse naturelle des algues."
+          },
+          {
+            "name": "Ventre creux et montées brusques à la surface",
+            "meaning": "Signal de détresse critique révélant une famine par manque d'algues ou une détresse respiratoire (manque d'oxygène/ammoniac).",
+            "response": "Donnez immédiatement de la courgette blanchie ou des pastilles de fond à la spiruline, augmentez l'aération et testez l'eau."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Observation du ventre et contrôle de l'oxygénation",
+            "text": "Observez le ventre des Otocinclus collés à la vitre pour vérifier qu'il est rebondi, contrôlez la température (22–26 °C) et le brassage."
+          },
+          {
+            "name": "Après-midi : Inspection du biofilm et gestion de l'éclairage",
+            "text": "Vérifiez la présence d'algues sur le feuillage et équilibrez la durée d'éclairage quotidienne pour stimuler les micro-algues."
+          },
+          {
+            "name": "Soir : Apport de nourriture herbivore (Courgette blanchie / Pastilles de fond)",
+            "text": "Déposez une rondelle de courgette blanchie ou une pastille d'algues avant l'extinction des feux si le bac manque d'algues, puis retirez les restes le lendemain."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi ne faut-il pas introduire les Otocinclus dans un aquarium neuf ?",
+            "answer": "Un aquarium fraîchement installé ne contient pas les micro-algues et le biofilm mûr indispensables à leur survie, ce qui les condamne à mourir de faim en quelques jours. De plus, ils supportent très mal le cycle d'azote incomplet. Attendez au moins 1 à 2 mois que l'écosystème soit mature et garni d'algues."
+          },
+          {
+            "question": "Comment nourrir les Otocinclus s'il n'y a pas assez d'algues dans le bac ?",
+            "answer": "Complétez leur alimentation avec des légumes blanchis 2 à 3 min à l'eau bouillante (courgette, concombre épluché) ou des pastilles de fond à la spiruline. Fixez le légume près des plantes et distribuez la nourriture au moment de l'extinction des feux."
+          }
+        ]
+      },
+      "de": {
+        "title": "Ohrgitter-Harnischwels (Otocinclus) Algen-Nahrungsergänzung, Vergesellschaftung und 3-Schritte-Pflege für eingefahrene Becken",
+        "description": "Leitfaden für den Ohrgitter-Harnischwels (Otocinclus spp.). Erfahren Sie alles über pflanzliche Ernährung, friedliche Mitbewohner und die 3-Schritte-Einwöhnung in eingefahrene Aquarien.",
+        "authority": "Richtlinien der Ornamental Aquatic Trade Association (OATA) und Internationale Aquaristik-Standards",
+        "profile": {
+          "breed": "Ohrgitter-Harnischwels / Otocinclus (Otocinclus spp.)",
+          "lifespan": "3 ~ 5 Jahre",
+          "sleep_pattern": "Tag- und nachtaktiv (Ruht an Scheiben/Blättern und weidet Biofilm ab)",
+          "temperament": "Extrem friedlich, ruhig, scheu, gesellig (Gruppenfisch)"
+        },
+        "intro": "Der Ohrgitter-Harnischwels (Otocinclus spp., oft 'Oto' genannt) ist ein kleiner Saugwels aus dem Südamerika-Amazonasbecken und gilt weltweit als einer der besten 'natürlichen Algenfresser' für Pflanzenaquarien. Mit einer Endgröße von nur 3–4 cm ist er absolut friedlich und greift niemals andere Fische oder Zwerggarnelen an. Da er sich in freier Wildbahn jedoch fast ausschließlich von Aufwuchs, Aufwuchsalgen und Mikro-Biofilmen auf Pflanzenblättern ernährt, verhungert er in neu eingerichteten oder zu sauberen Becken sehr schnell. Zudem reagiert er äußerst empfindlich auf schwankende Wasserwerte und unvollständige Einfahrphasen. Heute erklärt  Verhalten, Ernährung und die 3-Schritte-Routine.",
+        "whyTitle": "Verhalten des Otocinclus: Kugelbauch (Gesundheitszustand) vs. Hochschießen zur Oberfläche & Eingelegter Bauch",
+        "whyDesc": "Gesunde Otocinclus zeigen runde 'Kugelbäuche' und weiden in kleinen Gruppen Blätter ab. Ein eingefallener Bauch oder häufiges, hektisches Hochschießen an die Wasseroberfläche deutet hingegen auf Verhungern, Sauerstoffmangel oder Nitritbelastung hin.",
+        "body_signals": [
+          {
+            "name": "Kugelbauch & Abweiden von Blättern",
+            "meaning": "Zeigt eine ausreichende Aufnahme von Biofilm und Algen an – Zeichen für gute Ernährung und gelungene Eingewöhnung.",
+            "response": "Behalten Sie die aktuellen Fütterungsparameter und Wasserwerte bei, um das natürliche Algenwachstum zu fördern."
+          },
+          {
+            "name": "Eingefallener Bauch & Hochschießen zur Oberfläche",
+            "meaning": "Kritisches Stresssignal für Verhungern wegen Algenmangels oder Atemnot durch Sauerstoffmangel/Schadstoffe.",
+            "response": "Füttern Sie sofort überbrühte Zucchini oder Welstabletten, erhöhen Sie die Belüftung und prüfen Sie die Wasserwerte."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Bauchbeobachtung & Sauerstoffkontrolle",
+            "text": "Überprüfen Sie die Bäuche der an der Scheibe haftenden Welse auf Rundung und kontrollieren Sie Wassertemperatur (22–26 °C) und Filterströmung."
+          },
+          {
+            "name": "Nachmittag: Biofilm-Inspektion & Lichtmanagement",
+            "text": "Prüfen Sie das Algenangebot auf Blättern und Deko; stimmen Sie die tägliche Beleuchtungsdauer ab, um feine Algen zu fördern."
+          },
+          {
+            "name": "Abend: Pflanzliche Zusatzfütterung (Überbrühte Zucchini / Algentabletten)",
+            "text": "Geben Sie vor dem Ausschalten des Lichts eine überbrühte Zucchinischeibe oder eine Welstablette ins Becken, falls Algen fehlen, und entfernen Sie Reste am Morgen."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum sollte man Otocinclus nicht in ein neu eingerichtetes Aquarium einsetzen?",
+            "answer": "Neu eingerichtete Becken besitzen noch keinen reifen Biofilm und keine Mikroalgen, die als Hauptnahrung dienen. Die Fische verhungern dort innerhalb weniger Tage. Zudem sind sie sehr empfindlich gegenüber unreifen Wasserwerten. Warten Sie mindestens 1–2 Monate, bis das Becken gut eingefahren ist."
+          },
+          {
+            "question": "Wie füttere ich Otocinclus richtig, wenn nicht genügend Algen vorhanden sind?",
+            "answer": "Ergänzen Sie das Futter mit überbrühtem Gemüsen wie Zucchini oder Gurke (2–3 Minuten gekocht, geschält) und pflanzlichen Sinktabletten mit Spirulina. Befestigen Sie das Gemüse in der Nähe von Pflanzen und füttern Sie kurz vor dem Ausschalten des Lichts."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Guia de suplementação de algas para limpa-vidros (Otocinclus), companheiros seguros e rotina de 3 passos para aquários maturados",
+        "description": "Guia de cuidados essenciais para o peixe limpa-vidros Otocinclus Catfish (Otocinclus spp.). Nutrição herbívora, companheiros pacíficos e rotina de 3 passos para aquários estabilizados.",
+        "authority": "Diretrizes da Ornamental Aquatic Trade Association (OATA) e Padrões Internacionais de Aquarismo de Água Doce",
+        "profile": {
+          "breed": "Peixe Limpa-Vidros / Otocinclus (Otocinclus spp.)",
+          "lifespan": "3 ~ 5 anos",
+          "sleep_pattern": "Diurno e noturno (Descansa fixado a folhas ou vidros enquanto pastoreia o biofilme)",
+          "temperament": "Extremamente dócil, pacífico, tímido, social (Instinto de cardume)"
+        },
+        "intro": "O limpa-vidros (Otocinclus spp.) é um pequeno cascudo ventosa nativo da bacia do rio Amazonas, amplamente reconhecido como o 'faixa-preta dos limpadores de algas' para aquários plantados em todo o mundo. Atingindo um tamanho adulto de apenas 3–4 cm, é totalmente pacífico e nunca atacará outros peixes ou camarões anões. Contudo, como a sua dieta selvagem consiste quase exclusivamente de microalgas e biofilme nas folhas e troncos, colocá-lo em aquários recém-montados ou limpos demais frequentemente resulta em morte por fome (inanição). Além disso, é muito sensível a oscilações de parâmetros e à ciclagem incompleta, devendo ser introduzido apenas em aquários maduros. Neste guia, explicamos os seus sinais, nutrição e rotina diária.",
+        "whyTitle": "Sinais de comportamento do Otocinclus: Barriga roliça (Saúde) vs. Subidas rápidas à superfície e barriga funda",
+        "whyDesc": "Otocinclus saudáveis exibem barrigas bem redondas em formato de 'girino' enquanto pastoreiam em grupo. Por outro lado, uma barriga afundada ou subidas frenéticas à superfície indicam fome severa, falta de oxigênio dissolvido ou picos de amônia e nitrito.",
+        "body_signals": [
+          {
+            "name": "Barriga roliça e pastoreio nas folhas",
+            "meaning": "Indica consumo adequado de biofilme e algas, demonstrando boa saúde nutricional e correta aclimatatação.",
+            "response": "Mantenha os parâmetros de água atuais e o tempo de iluminação para promover o crescimento natural de algas."
+          },
+          {
+            "name": "Barriga funda e subidas rápidas à superfície",
+            "meaning": "Sinal crítico de estresse por falta de algas (fome) ou asfixia por baixo oxigênio dissolvido/toxinas altas.",
+            "response": "Forneça imediatamente abobrinha aferventada ou ração de fundo para peixes herbívoros, aumente a aeração e teste a água."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Observação da barriga e verificação de oxigenação",
+            "text": "Examine se a barriga dos Otocinclus fixados ao vidro está roliça, checando a temperatura (22–26 °C) e a vazão do filtro."
+          },
+          {
+            "name": "Tarde: Inspeção do nível de biofilme e controle de iluminação",
+            "text": "Verifique a presença de algas nas folhas e equilibre o fotoperíodo diário para estimular microalgas naturais."
+          },
+          {
+            "name": "Noite: Suplementação herbívora (Abobrinha aferventada / Ração de fundo)",
+            "text": "Coloque uma fatia de abobrinha aferventada ou ração de fundo de spirulina antes de apagar a luz se faltarem algas, retirando sobras no dia seguinte."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que não se deve colocar o Otocinclus em um aquário recém-montado?",
+            "answer": "Aquários recém-montados não possuem as microalgas e o biofilme maduro indispensáveis para a sua alimentação, levando o peixe a morrer de fome em poucos dias. Além disso, eles são muito sensíveis a aquários sem ciclagem completa. Espere pelo menos 1 a 2 meses até o aquário maturar."
+          },
+          {
+            "question": "Como alimentar o Otocinclus se não houver algas suficientes no aquário?",
+            "answer": "Complemente a sua dieta com vegetais descascados e aferventados por 2 a 3 minutos (como abobrinha ou pepino) e rações afundáveis à base de spirulina. Fixe o vegetal perto das plantas e ofereça a comida perto da hora de apagar as luzes."
+          }
+        ]
+      },
+      "id": {
+        "title": "Panduan Suplemen Nutrisi Alga Ikan Otocinclus, Teman Satu Akuarium yang Aman, dan Rutin 3 Langkah untuk Akuarium Matang",
+        "description": "Panduan perawatan esensial ikan pembersih alga Otocinclus Catfish (Otocinclus spp.). Nutrisi herbivora, teman akuarium yang damai, dan rutin 3 langkah untuk akuarium yang sudah matang.",
+        "authority": "Pedoman Ornamental Aquatic Trade Association (OATA) dan Standar Pemeliharaan Akuarium Air Tawar Internasional",
+        "profile": {
+          "breed": "Ikan Otocinclus / Ikan Pembersih Kaca Kerdil (Otocinclus spp.)",
+          "lifespan": "3 ~ 5 Tahun",
+          "sleep_pattern": "Diurnal & Nokturnal (Istirahat menempel di daun/kaca sambil memakan biofilm)",
+          "temperament": "Sangat Penurut, Damai, Pemalu, Sosial (Insting Berkelompok)"
+        },
+        "intro": "Ikan Otocinclus (Otocinclus spp.) adalah ikan lele kerdil pemakan alga asal Sungai Amazon yang terkenal sebagai 'pembersih alga alami' terbaik untuk akuarium tumbuhan (planted tank). Dengan ukuran dewasa hanya 3–4 cm, ikan ini sangat damai dan tidak akan pernah menyerang ikan lain maupun udang hias kerdil. Namun, karena makanan alaminya hampir sepenuhnya terdiri dari mikroalga dan biofilm halus di daun dan dekorasi, memasukkannya ke akuarium baru atau yang terlalu bersih sering kali berujung pada kematian akibat kelaparan. Selain itu, mereka sangat sensitif terhadap perubahan parameter air, sehingga wajib dimasukkan ke akuarium yang sudah matang. Dalam panduan ini, kami membagikan panduan sinyal perilaku, suplemen nutrisi, dan rutin 3 langkah harian.",
+        "whyTitle": "Sinyal Perilaku Otocinclus: Perut Buncit (Kesehatan) vs Berenang Cepat ke Permukaan & Perut Cekung",
+        "whyDesc": "Otocinclus yang sehat memiliki perut membulat buncit seperti kecebong saat memakan alga bersama kelompoknya. Sebaliknya, perut yang cekung atau sering berenang cepat ke permukaan air menandakan kelaparan parah, kekurangan oksigen terlarut, or lonjakan racun amonia/nitrit.",
+        "body_signals": [
+          {
+            "name": "Perut Buncit & Memakan Alga di Daun",
+            "meaning": "Menandakan konsumsi biofilm dan alga yang cukup, menunjukkan kesehatan nutrisi yang baik dan aklimatisasi yang nyaman.",
+            "response": "Pertahankan parameter air dan pencahayaan saat ini untuk mendukung pertumbuhan alga alami."
+          },
+          {
+            "name": "Perut Cekung & Berenang Cepat ke Permukaan",
+            "meaning": "Sinyal bahaya akibat kelaparan karena kurang alga, atau gangguan pernapasan akibat kurang oksigen terlarut/amonia tinggi.",
+            "response": "Segera berikan potongan sukini rebus atau pelet alga tenggelam, tingkatkan aerasi, dan periksa parameter air."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pengamatan Perut & Pemeriksaan Oksigenasi Air",
+            "text": "Periksa kebulatan perut Otocinclus yang menempel di kaca, serta pastikan suhu air (22–26 °C) dan aliran filter berjalan baik."
+          },
+          {
+            "name": "Siang: Pemeriksaan Tingkat Biofilm & Manajemen Pencahayaan",
+            "text": "Periksa ketersediaan alga pada daun tanaman, lalu atur durasi lampu harian untuk merangsang pertumbuhan mikroalga alami."
+          },
+          {
+            "name": "Malam: Pemberian Pakan Herbivora Tambahan (Sukini Rebus / Pelet Alga)",
+            "text": "Berikan sepotong sukini rebus atau pelet tenggelam sebelum lampu dimatikan jika alga alami kurang, lalu bersihkan sisanya besok pagi."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa Otocinclus tidak boleh dimasukkan ke akuarium yang baru jadi?",
+            "answer": "Akuarium yang baru jadi tidak memiliki mikroalga dan biofilm matang yang menjadi makanan utama Otocinclus, sehingga mereka akan mati kelaparan dalam beberapa hari. Selain itu, mereka sangat sensitif terhadap siklus nitrogen yang belum matang. Tunggulah minimal 1–2 bulan hingga akuarium matang dan memiliki alga halus."
+          },
+          {
+            "question": "Bagaimana cara memberi makan Otocinclus jika tidak ada cukup alga di akuarium?",
+            "answer": "Tambahkan makanan mereka dengan sayuran rebus seperti sukini atau timun (direbus 2–3 menit dan dikupas kulitnya) serta pelet tenggelam ber kandungan spirulina. Tancapkan sayuran di dekat tanaman dan berikan saat lampu akan dimatikan."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/otocinclus_catfish_care.webp"
+  }
 }

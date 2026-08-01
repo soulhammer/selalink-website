@@ -1,459 +1,459 @@
 {
-    "gargoyle-gecko-care": {
-        "pubDate": "2026-05-02",
-        "updatedDate": "2026-05-02",
-        "locales": {
-            "ko": {
-                "title": "가고일 게코의 파이어업 신호와 적정 온도·습도 관리를 위한 3단계 데일리 케어",
-                "description": "뉴칼레도니아의 매력적인 도마뱀 가고일 게코(Gargoyle Gecko). 발색 변화(파이어업) 신호 구별법, 적정 온도(22°C~25°C) 유지와 야간 분무 케어를 위한 3단계 루틴.",
-                "authority": "International Herpetological Society (IHS) & Reptile Veterinary Care Protocols",
-                "profile": {
-                    "breed": "가고일 게코 (Gargoyle Gecko / Rhacodactylus auriculatus)",
-                    "lifespan": "15 ~ 20년",
-                    "sleep_pattern": "12 ~ 14시간 (주간 수목성 은신처 수면, 야간 활동)",
-                    "temperament": "온순함, 느긋함, 때로 경계심 있음, 독자적 영역 의식"
-                },
-                "intro": "머리의 작은 뿔 모양 돌기와 오묘한 패턴이 가고일 석상을 닮은 가고일 게코(Gargoyle Gecko)는 뉴칼레도니아 남부가 원산지인 매력적인 붙이도마뱀입니다. 국제 파충류학회(IHS) 프로토콜에 따르면, 가고일 게코는 28°C 이상의 고온에 극도로 취약하며 서늘한 온도는 물론 주기적인 습도 구배(주간 50~60%, 야간 70~80%) 관리가 필수적입니다. 특히 크레스티드 게코와 달리 꼬리가 자르면 완벽히 재생된다는 특징이 있으며, 전용 슈퍼푸드(CGD) 급여와 적정 수온/습도 유지가 건강의 핵심입니다.",
-                "whyTitle": "가고일 게코의 신체 신호: 파이어업(Fire Up)과 삐빅 소리/꼬리 떨림",
-                "whyDesc": "가고일 게코는 환경과 감정 변화에 따라 피부 색소(파이어업)와 행동으로 상태를 표현합니다. 몸의 색이 짙어지거나 꼬리를 흔들며 소리를 내는 신호를 정확히 읽어 스트레스를 줄여주어야 합니다.",
-                "body_signals": [
-                    {
-                        "name": "피부 색상이 짙고 선명하게 변함 (Firing Up)",
-                        "meaning": "야간 활동성 증가, 습도/온도 변화, 또는 호기심과 경계심에 따른 자연스러운 혈류 및 색소 활성화 신호입니다.",
-                        "response": "사육장 내부 온도(22°C~25°C)와 습도 상태를 점검하고 자극을 주지 않도록 유의합니다."
-                    },
-                    {
-                        "name": "꼬리를 좌우로 흔들고 삐빅 소리를 냄 (Tail Twitching & Squeaking)",
-                        "meaning": "과도한 핸들링, 방해받음 또는 위협을 느꼈을 때 보이는 극심한 스트레스 및 자가 방어 경고 신호입니다.",
-                        "response": "즉시 핸들링을 멈추고 사육장 내 서늘하고 어두운 은신처로 돌려보내 휴식을 취하게 합니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 수면 상태 확인, 서늘한 온도(22°C~25°C) 모니터링 및 습도 환기",
-                        "text": "야간 활동을 마친 게코가 주간 은신처에 잘 자리잡았는지 확인하고 사육장 온도가 26°C를 넘지 않도록 환기시킵니다."
-                    },
-                    {
-                        "name": "낮: 잔여 슈퍼푸드 수거 및 주간 건조 구간(습도 50~60%) 유지",
-                        "text": "변질되기 쉬운 슈퍼푸드 그릇을 꺼내 청결을 유지하고, 과습으로 인한 곰팡이 방지를 위해 사육장을 적절히 말려줍니다."
-                    },
-                    {
-                        "name": "저녁: 야간 분무(습도 70~80% 유도) 및 슈퍼푸드/생먹이 급여",
-                        "text": "사육장 벽면에 깨끗한 물을 분무하여 물방울을 핥아먹게 돕고, 주 3~4회 전용 슈퍼푸드나 디칼슘 처리된 귀뚜라미를 제공합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "가고일 게코도 크레스티드 게코처럼 꼬리가 자르면 다시 안 자라나요?",
-                        "answer": "아닙니다! 크레스티드 게코와 달리 가고일 게코는 꼬리가 자라나도 몇 달 안에 완벽하게 재생활착됩니다. 단, 재생 중에는 스트레스 방지와 영양 공급이 중요합니다."
-                    },
-                    {
-                        "question": "여름철에 사육장 온도가 28°C 이상 올라가면 위험한가요?",
-                        "answer": "매우 위험합니다! 뉴칼레도니아 저온종인 가고일 게코는 28°C 이상의 고온에 노출되면 열스트레스로 사망할 수 있습니다. 에어컨이나 냉각 팬을 이용해 22°C~25°C를 유지해야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Gargoyle Gecko Firing Up Signals and 3-Step Care Routine for Temperature and Humidity Management",
-                "description": "Care guide for the striking Gargoyle Gecko. Learn to decode color-changing firing up signals, maintain cool temperatures (22°C - 25°C), and manage nighttime misting routines.",
-                "authority": "International Herpetological Society (IHS) & Reptile Veterinary Care Protocols",
-                "profile": {
-                    "breed": "Gargoyle Gecko (Rhacodactylus auriculatus)",
-                    "lifespan": "15 - 20 Years",
-                    "sleep_pattern": "12 - 14 Hours (Sleeps in arboreal hides during the day, active at night)",
-                    "temperament": "Docile, Calm, Occasionally Cautious, Territorial"
-                },
-                "intro": "Named for the distinct cranial crest bumps and marbled patterns reminiscent of stone gargoyles, the Gargoyle Gecko is a captivating arboreal lizard native to southern New Caledonia. According to International Herpetological Society (IHS) care protocols, Gargoyle Geckos are extremely sensitive to temperatures above 28°C and require cool living conditions alongside a structured humidity gradient (50%-60% during the day, 70%-80% at night). Unlike Crested Geckos, Gargoyle Geckos can fully regenerate their tails, making diet (Crested Gecko Diet/CGD) and environmental control the key factors for their longevity.",
-                "whyTitle": "Gargoyle Gecko Body Signals: Firing Up and Tail Twitching/Squeaking",
-                "whyDesc": "Gargoyle Geckos convey their emotions and physical state through vivid skin color changes (firing up) and distinct behavioral cues. Recognizing darkened coloration or defensive tail movements helps minimize stress.",
-                "body_signals": [
-                    {
-                        "name": "Skin Color Darkens or Brightens Vividly (Firing Up)",
-                        "meaning": "A natural physiological response triggered by nighttime activity, temperature/humidity shifts, or heightened alertness.",
-                        "response": "Check that enclosure temperatures remain cool (22°C - 25°C) and ensure proper humidity without over-handling."
-                    },
-                    {
-                        "name": "Tail Twitching/Wagging & Squeaking Sounds (Tail Twitching & Squeaking)",
-                        "meaning": "A defensive warning signal indicating extreme stress, discomfort from rough handling, or feeling threatened.",
-                        "response": "Immediately stop handling and return the gecko to a dark, cool hide inside its terrarium to rest peacefully."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Sleep Status Check, Cool Temperature Monitoring (22°C - 25°C) & Ventilation",
-                        "text": "Ensure the gecko has settled safely in its daytime arboreal hide after nocturnal activity and verify that terrarium temperatures do not exceed 26°C."
-                    },
-                    {
-                        "name": "Afternoon: Remaining Diet Removal & Daytime Drying Period (50% - 60% Humidity)",
-                        "text": "Remove uneaten prepared diet to maintain sanitation and allow the terrarium to dry out slightly to prevent fungal or bacterial growth."
-                    },
-                    {
-                        "name": "Evening: Nighttime Misting (70% - 80% Humidity) & Diet/Insect Feeding",
-                        "text": "Mist the terrarium walls with clean water to encourage drinking from droplets, and offer fresh Crested Gecko Diet (CGD) or calcium-dusted feeder insects 3-4 times a week."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Does a Gargoyle Gecko's tail fail to regrow if dropped, like a Crested Gecko?",
-                        "answer": "No! Unlike Crested Geckos, Gargoyle Geckos have the remarkable ability to fully regenerate dropped tails within a few months. However, adequate nutrition and minimal stress are essential during regeneration."
-                    },
-                    {
-                        "question": "Is it dangerous if the terrarium temperature rises above 28°C in summer?",
-                        "answer": "Extremely dangerous! As a cool-climate species from New Caledonia, temperatures above 28°C can cause severe heat stress and fatal hyperthermia. Use room air conditioning or cooling fans to keep temperatures between 22°C and 25°C."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ガーゴイルゲッコウのファイヤーアップサインと適正温湿度 management のための3ステップデイリーケア",
-                "description": "ニューカレドニアの魅力的なトカゲ・ガーゴイルゲッコウ（ツノミカドヤモリ）。体色変化（ファイヤーアップ）サインの見分け方、22°C〜25°Cの低温維持と夜間霧吹きケアの3ステップルーティン。",
-                "authority": "国際爬虫類学会 (IHS) & 爬虫類獣医ケアプロトコル",
-                "profile": {
-                    "breed": "ガーゴイルゲッコウ / ツノミカドヤモリ (Rhacodactylus auriculatus)",
-                    "lifespan": "15 〜 20年",
-                    "sleep_pattern": "12 〜 14時間 (日中は樹上シェルターで就寝、夜行性)",
-                    "temperament": "温厚、おっとり、時折警戒心が強い、縄張り意識あり"
-                },
-                "intro": "頭部の小さな角状の突起と神秘的な模様がガーゴイル（石像）を思わせるガーゴイルゲッコウ（ツノミカドヤモリ）は、ニューカレドニア南部原産の魅力的な樹上性ヤモリです。国際爬虫類学会（IHS）のプロトコルによると、ガーゴイルゲッコウは28°C以上の高温に非常に脆弱であり、涼しい飼育環境と適切な湿度勾配（昼間50〜60%、夜間70〜80%）の維持が不可欠です。クレスティッドゲッコウと異なり、尾が自切しても再生する特徴があり、専用の人工飼料（CGD）給餌と適正温湿度の維持が健康長寿の鍵となります。",
-                "whyTitle": "ガーゴイルゲッコウの身体シグナル：ファイヤーアップ（体色変化）と鳴き声・尾の振動",
-                "whyDesc": "ガーゴイルゲッコウは環境や感情の変化に応じて体色（ファイヤーアップ）や行動で状態を表現します。色が濃くなる現象や尾を振って鳴くサインを正しく読み取り、ストレスを軽減させましょう。",
-                "body_signals": [
-                    {
-                        "name": "体色が濃く鮮やかに変化する (Firing Up)",
-                        "meaning": "夜間の活動開始、湿度・温度の変化、または好奇心や警戒による自然な血流と色素の活性化サインです。",
-                        "response": "ケージ内の温度（22°C〜25°C）と湿度を確認し、過度な刺激を与えずに見守りましょう。"
-                    },
-                    {
-                        "name": "尾を左右に振って「キュッ」と鳴く (Tail Twitching & Squeaking)",
-                        "meaning": "過度なハンドリングや威嚇、恐怖を感じた際に見せる強いストレスと self-defense の警告サインです。",
-                        "response": "直ちにハンドリングを中止し、ケージ内の涼しく薄暗い隠れ家に戻して休ませてください。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：睡眠状態の確認、適温（22°C〜25°C）のモニタリングと換気",
-                        "text": "夜間活動を終えたヤモリが昼用シェルターで休息しているか確認し、ケージ内温度が26°Cを超えないよう換気します。"
-                    },
-                    {
-                        "name": "昼：残った人工飼料の回収と昼間の乾燥期間（湿度50〜60%）維持",
-                        "text": "傷みやすい人工フード（CGD）の皿を取り除いて清潔を保ち、カビ発生を防ぐためケージ内を適度に乾燥させます。"
-                    },
-                    {
-                        "name": "夜：夜間霧吹き（湿度70〜80%へ誘導）と人工フード/生餌の給餌",
-                        "text": "ケージ壁面に清潔な水をスプレーして水滴を舐め取らせ、週3〜4回専用フードやカルシウムをまぶしたコオロギを与えます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "ガーゴイルゲッコウはクレスティッドゲッコウのように尾が切れたら再生しませんか？",
-                        "answer": "いいえ！クレスティッドゲッコウと異なり、ガーゴイルゲッコウは尾が自切しても数ヶ月で完全に再生します。ただし、再生中は栄養補給とストレス軽減が重要です。"
-                    },
-                    {
-                        "question": "夏場にケージの温度が28°C以上に上がると危険ですか？",
-                        "answer": "非常に危険です！ニューカレドニア原産の低温種であるガーゴイルゲッコウは、28°C以上の高温に晒されると熱ストレスで死に至る恐れがあります。エアコンや冷却ファンで22°C〜25°Cを維持してください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "盖勾胜蜥蜴发色信号与温度·湿度管理的3步日常护理",
-                "description": "新喀里多尼亚迷人蜥蜴盖勾胜蜥蜴（Gargoyle Gecko）。解读发色（Firing Up）变化信号、维持22°C~25°C低温环境与夜间喷水护理的3步日常流程。",
-                "authority": "国际两栖爬行动物学会 (IHS) 与爬行动物兽医护理协议",
-                "profile": {
-                    "breed": "盖勾胜蜥蜴 / 盖勾骨趾虎 (Gargoyle Gecko / Rhacodactylus auriculatus)",
-                    "lifespan": "15 ~ 20年",
-                    "sleep_pattern": "12 ~ 14小时 (白天在树栖隐蔽处睡觉，夜行性)",
-                    "temperament": "温和、迟钝、偶尔警惕、具有领地意识"
-                },
-                "intro": "因头部微小的角状突起和大理石纹理酷似石雕盖勾胜（Gargoyle）而得名的盖勾胜蜥蜴，是原产于新喀里多尼亚南部的迷人树栖守宫。根据国际两栖爬行动物学会（IHS）护理协议，盖勾胜蜥蜴对28°C以上的高温极度敏感，必须维持凉爽的生存环境以及合理的湿度梯度（白天50%~60%，夜间70%~80%）。与睫角守宫不同，盖勾胜蜥蜴断尾后可以完美再生，喂食专用果泥（CGD）与维持适宜温湿度是其健康长寿的关键。",
-                "whyTitle": "盖勾胜蜥蜴的身体信号：发色状态（Firing Up）与摆尾吱叫",
-                "whyDesc": "盖勾胜蜥蜴会通过鲜明的皮肤颜色变化（Firing Up）与特定的行为动作反映其生理与心理状态。准确识别体色加深或防御性摆尾动作有助于减少其应激压力。",
-                "body_signals": [
-                    {
-                        "name": "皮肤颜色显著变深变鲜艳 (Firing Up)",
-                        "meaning": "夜间活动开始、温湿度变化或因好奇/警惕引发的自然血液流动与色素细胞激活信号。",
-                        "response": "检查饲养箱内部温度（22°C~25°C）与湿度状态，保持环境稳定勿过度打扰。"
-                    },
-                    {
-                        "name": "左右摇摆尾巴并发出吱吱声 (Tail Twitching & Squeaking)",
-                        "meaning": "因过度抓握、受到惊吓或感到威胁而表现出的强烈应激与自我防御警告信号。",
-                        "response": "立即停止抓握上手，将其放回饲养箱内凉爽黑暗的躲避穴中静养。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：检查睡眠状态、监测凉爽温度（22°C~25°C）与通风",
-                        "text": "确认夜行活动结束后的蜥蜴已安全进入树栖躲避穴，并确保饲养箱温度不超过26°C。"
-                    },
-                    {
-                        "name": "中午：清理剩余果泥与维持白天干燥区间（湿度50%~60%）",
-                        "text": "取出易变质的果泥食盆保持卫生，并让饲养箱适当干燥以防止细菌与霉菌滋生。"
-                    },
-                    {
-                        "name": "晚上：夜间喷水（提升湿度至70%~80%）与果泥/活体昆虫喂食",
-                        "text": "向饲养箱壁喷洒干净清水供其舔舐水滴，每周3~4次提供专用果泥（CGD）或蘸有钙粉的饲料昆虫。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "盖勾胜蜥蜴像睫角守宫一样断尾后就不会再长出来了吗？",
-                        "answer": "不会！与睫角守宫不同，盖勾胜蜥蜴具有强大的尾部再生能力，断尾后可在数月内重新生长完整。但在再生期间需保证充足营养与低压力环境。"
-                    },
-                    {
-                        "question": "夏季饲养箱温度超过28°C会有危险吗？",
-                        "answer": "非常危险！作为原产于新喀里多尼亚的喜低温物种，超过28°C的高温会导致严重的热应激甚至致死。请务必使用空调或冷却风扇将温度控制在22°C~25°C。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Señales de coloración (Firing Up) del Gecko Gárgola y rutina de 3 pasos para el control de temperatura y humedad",
-                "description": "Guía de cuidado para el deslumbrante Gecko Gárgola (Gargoyle Gecko). Aprenda a interpretar los cambios de color, mantener temperaturas frescas (22°C ~ 25°C) y el rociado nocturno.",
-                "authority": "Sociedad Herpetológica Internacional (IHS) y Protocolos de Cuidado Veterinario de Reptiles",
-                "profile": {
-                    "breed": "Gecko Gárgola (Rhacodactylus auriculatus)",
-                    "lifespan": "15 ~ 20 años",
-                    "sleep_pattern": "12 ~ 14 horas (Duerme en refugios arborícolas durante el día, nocturno)",
-                    "temperament": "Dócil, Calmo, Ocasionalmente Cauteloso, Territorial"
-                },
-                "intro": "Llamado así por las protuberancias craneales y patrones marmoleados que recuerdan a las gárgolas de piedra, el Gecko Gárgola es un fascinante lagarto arborícola nativo del sur de Nueva Caledonia. Según los protocolos de la Sociedad Herpetológica Internacional (IHS), estos geckos son muy sensibles a temperaturas superiores a 28°C y requieren condiciones frescas con un gradiente de humedad (50%-60% de día, 70%-80% de noche). A diferencia del Gecko Crestado, el Gecko Gárgola sí puede regenerar su cola por completo, siendo la dieta preparada (CGD) y el control ambiental los pilares de su salud.",
-                "whyTitle": "Lenguaje corporal del Gecko Gárgola: Coloración intensa (Firing Up) y chillidos con cola",
-                "whyDesc": "Los Geckos Gárgola expresan su estado físico y emocional mediante intensos cambios de color de piel (Firing Up) y señales conductuales. Reconocer la piel oscurecida o movimientos defensivos reduce su estrés.",
-                "body_signals": [
-                    {
-                        "name": "Oscurecimiento o brillo intenso del color de la piel (Firing Up)",
-                        "meaning": "Una respuesta fisiológica natural desencadenada por la actividad nocturna, cambios de temperatura/humedad o alerta.",
-                        "response": "Verifique que la temperatura del terrario se mantenga fresca (22°C ~ 25°C) y asegure una humedad adecuada sin manipularlo en exceso."
-                    },
-                    {
-                        "name": "Movimiento rápido de cola y emisión de chillidos (Tail Twitching & Squeaking)",
-                        "meaning": "Una señal defensiva de advertencia que indica estrés extremo, incomodidad por manipulación o amenaza.",
-                        "response": "Detenga de inmediato la manipulación y regrese al gecko a un refugio oscuro y fresco dentro de su terrario."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Control de sueño, monitoreo de temperatura fresca (22°C ~ 25°C) y ventilación",
-                        "text": "Verifique que el gecko descanse en su refugio arborícola tras la actividad nocturna y asegúrese de que el terrario no supere los 26°C."
-                    },
-                    {
-                        "name": "Tarde: Retiro de comida restante y periodo de secado diurno (50% ~ 60% Humedad)",
-                        "text": "Retire el alimento sobrante para mantener la higiene y permita que el terrario se seque ligeramente para evitar hongos y bacterias."
-                    },
-                    {
-                        "name": "Noche: Rociado nocturno (70% ~ 80% Humedad) y alimentación con papilla o insectos",
-                        "text": "Rocíe las paredes del terrario con agua limpia para que beba las gotas y ofrezca dieta preparada (CGD) o insectos espolvoreados con calcio 3-4 veces por semana."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Si un Gecko Gárgola pierde la cola, no vuelve a crecer como en el Gecko Crestado?",
-                        "answer": "¡No! A diferencia de los Geckos Crestados, los Geckos Gárgola poseen la notable capacidad de regenerar por completo su cola en unos pocos meses. Sin embargo, se requiere buena nutrición y bajo estrés durante el proceso."
-                    },
-                    {
-                        "question": "¿Es peligroso si la temperatura del terrario supera los 28°C en verano?",
-                        "answer": "¡Extremadamente peligroso! Al ser una especie de clima fresco de Nueva Caledonia, temperaturas superiores a 28°C causan choque térmico fatal. Utilice aire acondicionado o ventiladores de refrigeración para mantener entre 22°C y 25°C."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Signaux d'infolration (Firing Up) du Gecko Gargouille et routine en 3 étapes pour la température et l'humidité",
-                "description": "Guide de soins pour le fascinant Gecko Gargouille (Gargoyle Gecko). Apprenez à décoder ses changements de couleur, à maintenir une température fraîche (22°C ~ 25°C) et la pulvérisation nocturne.",
-                "authority": "Société Herpétologique Internationale (IHS) & Protocoles de Soins Vétérinaires pour Reptiles",
-                "profile": {
-                    "breed": "Gecko Gargouille (Rhacodactylus auriculatus)",
-                    "lifespan": "15 ~ 20 ans",
-                    "sleep_pattern": "12 ~ 14 heures (Dort dans des cachettes arboricoles le jour, nocturne)",
-                    "temperament": "Docile, Calme, Parfois Prudent, Territorial"
-                },
-                "intro": "Nommé pour les petites bosses crâniennes et motifs marbrés évoquant les gargouilles de pierre, le Gecko Gargouille est un magnifique lézard arboricole originaire du sud de la Nouvelle-Calédonie. Selon les protocoles de la Société Herpétologique Internationale (IHS), il est très sensible aux températures supérieures à 28°C et nécessite un environnement frais avec un gradient d'humidité (50%-60% le jour, 70%-80% la nuit). Contrairement au Gecko À Crête, le Gecko Gargouille peut régénérer entièrement sa queue, rendant une alimentation adaptée (CGD) et le contrôle du climat essentiels.",
-                "whyTitle": "Langage corporel du Gecko Gargouille : Changement de couleur (Firing Up) et cris avec frétillement de queue",
-                "whyDesc": "Le Gecko Gargouille exprime son état physique et émotionnel par des changements de couleur intenses (Firing Up) et des signaux comportementaux. Reconnaître une teinte assombrie ou un mouvement défensif aide à réduire son stress.",
-                "body_signals": [
-                    {
-                        "name": "Couleur de peau s'assombrissant ou devenant très vive (Firing Up)",
-                        "meaning": "Réponse physiologique naturelle déclenchée par l'activité nocturne, les variations de température/humidité ou la vigilance.",
-                        "response": "Vérifiez que la température du terrarium reste fraîche (22°C ~ 25°C) et assurez une bonne humidité sans manipulation excessive."
-                    },
-                    {
-                        "name": "Frétillement de la queue et petits cris aigus (Tail Twitching & Squeaking)",
-                        "meaning": "Signal d'avertissement défensif indiquant un stress extrême, une gêne due à la manipulation ou un sentiment de menace.",
-                        "response": "Stoppez immédiatement la manipulation et remettez le gecko dans une cachette sombre et fraîche de son terrarium."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Contrôle du sommeil, surveillance de la température fraîche (22°C ~ 25°C) et aération",
-                        "text": "Vérifiez que le gecko repose paisiblement dans sa cachette arboricole après sa nuit et assurez-vous que le bac ne dépasse pas 26°C."
-                    },
-                    {
-                        "name": "Après-midi : Retrait de la nourriture restante et période de séchage diurne (50% ~ 60% Humidité)",
-                        "text": "Retirez la nourriture inutilisée pour préserver l'hygiène et laissez le terrarium sécher légèrement pour éviter les moisissures."
-                    },
-                    {
-                        "name": "Soir : Pulvérisation nocturne (70% ~ 80% Humidité) et repas de substitut ou d'insectes",
-                        "text": "Vaporisez de l'eau propre sur les parois pour qu'il s'abreuve des gouttelettes, et proposez de la nourriture lyophilisée (CGD) ou des insectes saupoudrés de calcium 3-4 fois par semaine."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "La queue d'un Gecko Gargouille repousse-t-elle si elle est coupée, contrairement au Gecko À Crête ?",
-                        "answer": "Oui ! Contrairement au Gecko À Crête, le Gecko Gargouille possède l'extraordinaire capacité de régénérer entièrement sa queue en quelques mois. Une bonne nutrition et un environnement calme sont néanmoins nécessaires."
-                    },
-                    {
-                        "question": "Est-ce dangereux si la température du terrarium dépasse 28°C en été ?",
-                        "answer": "Extrêmement dangereux ! Étant une espèce de climat frais originaire de Nouvelle-Calédonie, une température supérieure à 28°C provoque un coup de chaleur mortel. Utilisez la climatisation ou des ventilateurs pour maintenir entre 22°C et 25°C."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Gargoyle Gecko Farbwechsel-Signale (Firing Up) und 3-Schritte-Tagesroutine für Temperatur und Luftfeuchtigkeit",
-                "description": "Pflegeanleitung für den faszinierenden Höcker-Kronengecko (Gargoyle Gecko). Lernen Sie Farbwechsel-Signale zu verstehen, kühle Temperaturen (22°C ~ 25°C) zu halten und die Abend-Sprühroutine zu steuern.",
-                "authority": "International Herpetological Society (IHS) & Richtlinien für Terraristik und Reptilienmedizin",
-                "profile": {
-                    "breed": "Höcker-Kronengecko / Gargoyle Gecko (Rhacodactylus auriculatus)",
-                    "lifespan": "15 ~ 20 Jahre",
-                    "sleep_pattern": "12 ~ 14 Stunden (Schläft tagsüber in baumbewohnenden Verstecken, nachtaktiv)",
-                    "temperament": "Sanftmütig, Ruhig, Gelegentlich vorsichtig, Territorial"
-                },
-                "intro": "Der wegen seiner kranialen Höcker und marmorierten Muster an steinere Wasserspeier erinnernde Höcker-Kronengecko (Gargoyle Gecko) ist eine faszinierende baumbewohnende Eidechse aus dem Süden Neukaledoniens. Laut den Pflegestandards der International Herpetological Society (IHS) reagieren diese Geckos extrem empfindlich auf Temperaturen über 28°C und benötigen kühle Haltungsbedingungen sowie ein feuchtes Umgebungsklima (50%-60% tagsüber, 70%-80% nachts). Im Gegensatz zum Kronengecko kann der Höcker-Kronengecko seinen Schwanz vollständig regenerieren. Eine ausgewogene Ernährung (CGD) und Klimakontrolle sind der Schlüssel für ein langes Leben.",
-                "whyTitle": "Körpersprache des Gargoyle Geckos: Intensiver Farbwechsel (Firing Up) und Schwanzzucken mit Fiepen",
-                "whyDesc": "Gargoyle Geckos drücken ihren körperlichen und emotionalen Zustand durch deutliche Hautfarbänderungen (Firing Up) und Verhaltensweisen aus. Das Erkennen von dunklen Hauttönen oder Abwehrbewegungen hilft, Stress zu vermeiden.",
-                "body_signals": [
-                    {
-                        "name": "Hautfarbe dunkelt nach oder wird intensiv leuchtend (Firing Up)",
-                        "meaning": "Eine natürliche physiologische Reaktion, ausgelöst durch Nachtaktivität, Temperatur-/Feuchtigkeitswechsel oder erhöhte Wachsamkeit.",
-                        "response": "Überprüfen Sie, ob die Terrarientemperatur kühl bleibt (22°C ~ 25°C) und sorgen Sie für passende Feuchtigkeit ohne unnötiges Hantieren."
-                    },
-                    {
-                        "name": "Schwanzzucken/-wedeln und leises Fiepen (Tail Twitching & Squeaking)",
-                        "meaning": "Ein defensives Warnsignal bei extremem Stress, Überforderung beim Handling oder Bedrohungsgefühl.",
-                        "response": "Beenden Sie das Handling sofort und setzen Sie den Gecko in ein kühles, dunkles Versteck im Terrarium zurück."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Schlafkontrolle, Überwachung kühler Temperaturen (22°C ~ 25°C) & Belüftung",
-                        "text": "Vergewissern Sie sich, dass der Gecko nach der Nacht ruht, und stellen Sie sicher, dass die Temperatur im Terrarium 26°C nicht überschreitet."
-                    },
-                    {
-                        "name": "Mittag: Entnahme von Futterresten & Abtrocknungsphase am Tag (50% ~ 60% Feuchtigkeit)",
-                        "text": "Entfernen Sie unverbrauchten Brei für optimale Hygiene und lassen Sie das Terrarium leicht abtrocknen, um Schimmelbildung zu vermeiden."
-                    },
-                    {
-                        "name": "Abend: Abendsprühen (70% ~ 80% Feuchtigkeit) & Fütterung von Brei oder Insekten",
-                        "text": "Sprühen Sie sauberes Wasser an die Wände, damit der Gecko Tropfen lecken kann, und bieten Sie 3-4 Mal pro Woche Spezialbrei (CGD) oder bestäubte Insekten an."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Wächst der Schwanz eines Gargoyle Geckos nach dem Abwerfen nach, anders als beim Kronengecko?",
-                        "answer": "Ja! Im Gegensatz zu Kronengeckos besitzen Gargoyle Geckos die Fähigkeit, abgeworfene Schwänze innerhalb weniger Monate vollständig zu regenerieren. Gute Ernährung und Ruhe sind währenddessen essenziell."
-                    },
-                    {
-                        "question": "Ist es gefährlich, wenn die Terrarientemperatur im Sommer über 28°C steigt?",
-                        "answer": "Extrem gefährlich! Als Kaltklima-Art aus Neukaledonien führt eine Temperatur von über 28°C zu tödlichem Hitzestress. Nutzen Sie Klimaanlagen oder Kühlventilatoren, um die Temperatur zwischen 22°C und 25°C zu halten."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Sinais de coloração (Firing Up) do Gecko Gárgula e rotina de 3 passos para controle de temperatura e umidade",
-                "description": "Guia de cuidados para o impressionante Gecko Gárgula (Gargoyle Gecko). Aprenda a interpretar mudanças de cor (Firing Up), manter temperaturas frias (22°C ~ 25°C) e a borrifação noturna.",
-                "authority": "Sociedade Herpetológica Internacional (IHS) & Protocolos de Cuidados Veterinários com Répteis",
-                "profile": {
-                    "breed": "Gecko Gárgula (Rhacodactylus auriculatus)",
-                    "lifespan": "15 ~ 20 anos",
-                    "sleep_pattern": "12 ~ 14 horas (Dorme em abrigos arborícolas durante o dia, noturno)",
-                    "temperament": "Dócil, Calmo, Ocasionalmente Cauteloso, Territorial"
-                },
-                "intro": "Nomeado pelas saliências cranianas e padrões marmorizados que lembram gárgulas de pedra, o Gecko Gárgula é um réptil arborícola fascinante nativo do sul da Nova Caledônia. Segundo os protocolos da Sociedade Herpetológica Internacional (IHS), estes geckos são extremamente sensíveis a temperaturas acima de 28°C e exigem um ambiente fresco com gradiente de umidade (50%-60% de dia, 70%-80% à noite). Ao contrário do Gecko Cristado, o Gecko Gárgula pode regenerar sua cauda completamente, sendo a dieta apropriada (CGD) e o controle do clima essenciais para sua saúde.",
-                "whyTitle": "Linguagem corporal do Gecko Gárgula: Mudança de cor (Firing Up) e guinchos com agitação da cauda",
-                "whyDesc": "Os Geckos Gárgula expressam seu estado físico e emocional por meio de intensas mudanças na cor da pele (Firing Up) e comportamentos específicos. Reconhecer a pele escurecida ou movimentos defensivos ajuda a reduzir o estresse.",
-                "body_signals": [
-                    {
-                        "name": "Coloração da pele escurece ou fica muito vívida (Firing Up)",
-                        "meaning": "Uma resposta fisiológica natural desencadeada por atividade noturna, variações de temperatura/umidade ou alerta.",
-                        "response": "Verifique se a temperatura do terrário permanece fresca (22°C ~ 25°C) e garanta a umidade correta sem manuseio excessivo."
-                    },
-                    {
-                        "name": "Cauda balançando rápido e emissão de guinchos (Tail Twitching & Squeaking)",
-                        "meaning": "Um sinal de alerta defensivo que indica estresse extremo, desconforto ao ser manuseado ou ameaça.",
-                        "response": "Pare o manuseio imediatamente e retorne o gecko para um abrigo escuro e fresco dentro do terrário."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Verificação do sono, monitoramento de temperatura fresca (22°C ~ 25°C) e ventilação",
-                        "text": "Confirme se o gecko está descansando no abrigo arborícola após a noite e garanta que a temperatura não ultrapasse 26°C."
-                    },
-                    {
-                        "name": "Tarde: Remoção de sobras de alimento e período de secagem diurna (50% ~ 60% Umidade)",
-                        "text": "Retire o alimento não consumido para manter a higiene e permita que o terrário seque ligeiramente para evitar fungos e bactérias."
-                    },
-                    {
-                        "name": "Noite: Borrifação noturna (70% ~ 80% Umidade) e alimentação com papá ou insetos",
-                        "text": "Borrife água limpa nas paredes do terrário para ele lamber as gotas e ofereça dieta preparada (CGD) ou insetos polvilhados com cálcio 3-4 vezes por semana."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Se o Gecko Gárgula perder a cauda, ela não cresce de novo como ocorre no Gecko Cristado?",
-                        "answer": "Não! Ao contrário dos Geckos Cristados, os Geckos Gárgula têm a incrível capacidade de regenerar totalmente a cauda em poucos meses. Boa nutrição e ambiente calmo são essenciais no processo."
-                    },
-                    {
-                        "question": "É perigoso se a temperatura do terrário passar de 28°C no verão?",
-                        "answer": "Extremamente perigoso! Por ser uma espécie de clima fresco da Nova Caledônia, temperaturas acima de 28°C causam estresse térmico fatal. Use ar-condicionado ou coolers para manter entre 22°C e 25°C."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Sinyal Perubahan Warna (Firing Up) Tokek Gargoyle dan Rutinitas 3 Langkah Perawatan Suhu & Kelembapan",
-                "description": "Panduan perawatan Tokek Gargoyle (Gargoyle Gecko). Pelajari cara membaca sinyal perubahan warna (firing up), menjaga suhu dingin (22°C ~ 25°C), dan penyemprotan air malam hari.",
-                "authority": "International Herpetological Society (IHS) & Protokol Perawatan Medis Reptil",
-                "profile": {
-                    "breed": "Tokek Gargoyle (Rhacodactylus auriculatus)",
-                    "lifespan": "15 ~ 20 Tahun",
-                    "sleep_pattern": "12 ~ 14 Jam (Tidur di tempat sembunyi pepohonan saat siang, nokturnal)",
-                    "temperament": "Jinak, Tenang, Kadang Waspada, Teritorial"
-                },
-                "intro": "Dinamai karena tonjolan kepala khas dan pola marmer yang menyerupai patung gargoyle, Tokek Gargoyle adalah kadal pohon mempesona yang berasal dari Kaledonia Baru bagian selatan. Menurut protokol International Herpetological Society (IHS), tokek ini sangat rentan terhadap suhu di atas 28°C dan membutuhkan kondisi hidup yang sejuk serta gradasi kelembapan (50%-60% di siang hari, 70%-80% di malam hari). Berbeda dengan Crested Gecko, Tokek Gargoyle mampu menumbuhkan kembali ekornya yang putus secara sempurna, menjadikan pola makan (CGD) dan kontrol suhu sebagai kunci utama usianya.",
-                "whyTitle": "Bahasa Tubuh Tokek Gargoyle: Perubahan Warna (Firing Up) dan Gerakan Ekor Berdecit",
-                "whyDesc": "Tokek Gargoyle mengekspresikan kondisi fisik dan emosinya melalui perubahan warna kulit yang kontras (firing up) serta perilaku tertentu. Memahami warna kulit yang menggelap atau gerakan ekor defensif membantu mengurangi tingkat stresnya.",
-                "body_signals": [
-                    {
-                        "name": "Warna Kulit Menggelap atau Menjadi Sangat Cerah (Firing Up)",
-                        "meaning": "Respons fisiologis alami yang dipicu oleh aktivitas malam hari, perubahan suhu/kelembapan, atau kewaspadaan.",
-                        "response": "Pastikan suhu terarium tetap sejuk (22°C ~ 25°C) dan jaga kelembapan yang cukup tanpa memegang tokek secara berlebihan."
-                    },
-                    {
-                        "name": "Ekor Mengibas/Mengepak & Mengeluarkan Suara Decitan (Tail Twitching & Squeaking)",
-                        "meaning": "Sinyal peringatan defensif yang menunjukkan stres berat, rasa tidak nyaman akibat penanganan kasar, atau rasa terancam.",
-                        "response": "Hentikan penanganan segera dan kembalikan tokek ke tempat sembunyi yang gelap dan sejuk di dalam terarium."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Pemeriksaan Tidur, Pemantauan Suhu Sejuk (22°C ~ 25°C) & Ventilasi",
-                        "text": "Pastikan tokek beristirahat dengan aman di tempat sembunyi pohon setelah beraktivitas malam dan pastikan suhu tidak melebihi 26°C."
-                    },
-                    {
-                        "name": "Siang: Pembersihan Sisa Makanan & Periode Pengeringan Siang (Kelembapan 50% ~ 60%)",
-                        "text": "Angkat sisa makanan pakan racikan agar tetap higienis dan biarkan terarium sedikit mengering untuk mencegah jamur dan bakteri."
-                    },
-                    {
-                        "name": "Malam: Penyemprotan Air Malam (Kelembapan 70% ~ 80%) & Pemberian Makanan/Serangga",
-                        "text": "Semprotkan air bersih ke dinding terarium agar tokek dapat menjilat tetesan air, lalu berikan pakan racikan (CGD) atau serangga ber-kalsium 3-4 kali seminggu."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apakah ekor Tokek Gargoyle tidak akan tumbuh lagi jika putus seperti Crested Gecko?",
-                        "answer": "Tidak! Berbeda dengan Crested Gecko, Tokek Gargoyle memiliki kemampuan luar biasa untuk menumbuhkan kembali ekornya hingga utuh dalam beberapa bulan. Namun, nutrisi baik dan lingkungan tenang sangat dibutuhkan saat proses regenerasi."
-                    },
-                    {
-                        "question": "Apakah berbahaya jika suhu terarium naik di atas 28°C saat musim panas?",
-                        "answer": "Sangat berbahaya! Sebagai spesies iklim sejuk dari Kaledonia Baru, suhu di atas 28°C dapat menyebabkan stres panas fatal (hyperthermia). Gunakan AC ruangan atau pendingin untuk menjaga suhu antara 22°C hingga 25°C."
-                    }
-                ]
-            }
+  "gargoyle-gecko-care": {
+    "pubDate": "2026-05-02",
+    "updatedDate": "2026-05-02",
+    "locales": {
+      "ko": {
+        "title": "가고일 게코의 파이어업 신호와 적정 온도·습도 관리를 위한 3단계 데일리 케어",
+        "description": "뉴칼레도니아의 매력적인 도마뱀 가고일 게코(Gargoyle Gecko). 발색 변화(파이어업) 신호 구별법, 적정 온도(22°C~25°C) 유지와 야간 분무 케어를 위한 3단계 루틴.",
+        "authority": "International Herpetological Society (IHS) & Reptile Veterinary Care Protocols",
+        "profile": {
+          "breed": "가고일 게코 (Gargoyle Gecko / Rhacodactylus auriculatus)",
+          "lifespan": "15 ~ 20년",
+          "sleep_pattern": "12 ~ 14시간 (주간 수목성 은신처 수면, 야간 활동)",
+          "temperament": "온순함, 느긋함, 때로 경계심 있음, 독자적 영역 의식"
         },
-        "heroImage": "/images/blog/gargoyle_gecko_care.webp"
-    }
+        "intro": "머리의 작은 뿔 모양 돌기와 오묘한 패턴이 가고일 석상을 닮은 가고일 게코(Gargoyle Gecko)는 뉴칼레도니아 남부가 원산지인 매력적인 붙이도마뱀입니다. 국제 파충류학회(IHS) 프로토콜에 따르면, 가고일 게코는 28°C 이상의 고온에 극도로 취약하며 서늘한 온도는 물론 주기적인 습도 구배(주간 50~60%, 야간 70~80%) 관리가 필수적입니다. 특히 크레스티드 게코와 달리 꼬리가 자르면 완벽히 재생된다는 특징이 있으며, 전용 슈퍼푸드(CGD) 급여와 적정 수온/습도 유지가 건강의 핵심입니다.",
+        "whyTitle": "가고일 게코의 신체 신호: 파이어업(Fire Up)과 삐빅 소리/꼬리 떨림",
+        "whyDesc": "가고일 게코는 환경과 감정 변화에 따라 피부 색소(파이어업)와 행동으로 상태를 표현합니다. 몸의 색이 짙어지거나 꼬리를 흔들며 소리를 내는 신호를 정확히 읽어 스트레스를 줄여주어야 합니다.",
+        "body_signals": [
+          {
+            "name": "피부 색상이 짙고 선명하게 변함 (Firing Up)",
+            "meaning": "야간 활동성 증가, 습도/온도 변화, 또는 호기심과 경계심에 따른 자연스러운 혈류 및 색소 활성화 신호입니다.",
+            "response": "사육장 내부 온도(22°C~25°C)와 습도 상태를 점검하고 자극을 주지 않도록 유의합니다."
+          },
+          {
+            "name": "꼬리를 좌우로 흔들고 삐빅 소리를 냄 (Tail Twitching & Squeaking)",
+            "meaning": "과도한 핸들링, 방해받음 또는 위협을 느꼈을 때 보이는 극심한 스트레스 및 자가 방어 경고 신호입니다.",
+            "response": "즉시 핸들링을 멈추고 사육장 내 서늘하고 어두운 은신처로 돌려보내 휴식을 취하게 합니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 수면 상태 확인, 서늘한 온도(22°C~25°C) 모니터링 및 습도 환기",
+            "text": "야간 활동을 마친 게코가 주간 은신처에 잘 자리잡았는지 확인하고 사육장 온도가 26°C를 넘지 않도록 환기시킵니다."
+          },
+          {
+            "name": "낮: 잔여 슈퍼푸드 수거 및 주간 건조 구간(습도 50~60%) 유지",
+            "text": "변질되기 쉬운 슈퍼푸드 그릇을 꺼내 청결을 유지하고, 과습으로 인한 곰팡이 방지를 위해 사육장을 적절히 말려줍니다."
+          },
+          {
+            "name": "저녁: 야간 분무(습도 70~80% 유도) 및 슈퍼푸드/생먹이 급여",
+            "text": "사육장 벽면에 깨끗한 물을 분무하여 물방울을 핥아먹게 돕고, 주 3~4회 전용 슈퍼푸드나 디칼슘 처리된 귀뚜라미를 제공합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "가고일 게코도 크레스티드 게코처럼 꼬리가 자르면 다시 안 자라나요?",
+            "answer": "아닙니다! 크레스티드 게코와 달리 가고일 게코는 꼬리가 자라나도 몇 달 안에 완벽하게 재생활착됩니다. 단, 재생 중에는 스트레스 방지와 영양 공급이 중요합니다."
+          },
+          {
+            "question": "여름철에 사육장 온도가 28°C 이상 올라가면 위험한가요?",
+            "answer": "매우 위험합니다! 뉴칼레도니아 저온종인 가고일 게코는 28°C 이상의 고온에 노출되면 열스트레스로 사망할 수 있습니다. 에어컨이나 냉각 팬을 이용해 22°C~25°C를 유지해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Gargoyle Gecko Firing Up Signals and 3-Step Care Routine for Temperature and Humidity Management",
+        "description": "Care guide for the striking Gargoyle Gecko. Learn to decode color-changing firing up signals, maintain cool temperatures (22°C - 25°C), and manage nighttime misting routines.",
+        "authority": "International Herpetological Society (IHS) & Reptile Veterinary Care Protocols",
+        "profile": {
+          "breed": "Gargoyle Gecko (Rhacodactylus auriculatus)",
+          "lifespan": "15 - 20 Years",
+          "sleep_pattern": "12 - 14 Hours (Sleeps in arboreal hides during the day, active at night)",
+          "temperament": "Docile, Calm, Occasionally Cautious, Territorial"
+        },
+        "intro": "Named for the distinct cranial crest bumps and marbled patterns reminiscent of stone gargoyles, the Gargoyle Gecko is a captivating arboreal lizard native to southern New Caledonia. According to International Herpetological Society (IHS) care protocols, Gargoyle Geckos are extremely sensitive to temperatures above 28°C and require cool living conditions alongside a structured humidity gradient (50%-60% during the day, 70%-80% at night). Unlike Crested Geckos, Gargoyle Geckos can fully regenerate their tails, making diet (Crested Gecko Diet/CGD) and environmental control the key factors for their longevity.",
+        "whyTitle": "Gargoyle Gecko Body Signals: Firing Up and Tail Twitching/Squeaking",
+        "whyDesc": "Gargoyle Geckos convey their emotions and physical state through vivid skin color changes (firing up) and distinct behavioral cues. Recognizing darkened coloration or defensive tail movements helps minimize stress.",
+        "body_signals": [
+          {
+            "name": "Skin Color Darkens or Brightens Vividly (Firing Up)",
+            "meaning": "A natural physiological response triggered by nighttime activity, temperature/humidity shifts, or heightened alertness.",
+            "response": "Check that enclosure temperatures remain cool (22°C - 25°C) and ensure proper humidity without over-handling."
+          },
+          {
+            "name": "Tail Twitching/Wagging & Squeaking Sounds (Tail Twitching & Squeaking)",
+            "meaning": "A defensive warning signal indicating extreme stress, discomfort from rough handling, or feeling threatened.",
+            "response": "Immediately stop handling and return the gecko to a dark, cool hide inside its terrarium to rest peacefully."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Sleep Status Check, Cool Temperature Monitoring (22°C - 25°C) & Ventilation",
+            "text": "Ensure the gecko has settled safely in its daytime arboreal hide after nocturnal activity and verify that terrarium temperatures do not exceed 26°C."
+          },
+          {
+            "name": "Afternoon: Remaining Diet Removal & Daytime Drying Period (50% - 60% Humidity)",
+            "text": "Remove uneaten prepared diet to maintain sanitation and allow the terrarium to dry out slightly to prevent fungal or bacterial growth."
+          },
+          {
+            "name": "Evening: Nighttime Misting (70% - 80% Humidity) & Diet/Insect Feeding",
+            "text": "Mist the terrarium walls with clean water to encourage drinking from droplets, and offer fresh Crested Gecko Diet (CGD) or calcium-dusted feeder insects 3-4 times a week."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Does a Gargoyle Gecko's tail fail to regrow if dropped, like a Crested Gecko?",
+            "answer": "No! Unlike Crested Geckos, Gargoyle Geckos have the remarkable ability to fully regenerate dropped tails within a few months. However, adequate nutrition and minimal stress are essential during regeneration."
+          },
+          {
+            "question": "Is it dangerous if the terrarium temperature rises above 28°C in summer?",
+            "answer": "Extremely dangerous! As a cool-climate species from New Caledonia, temperatures above 28°C can cause severe heat stress and fatal hyperthermia. Use room air conditioning or cooling fans to keep temperatures between 22°C and 25°C."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ガーゴイルゲッコウのファイヤーアップサインと適正温湿度 management のための3ステップデイリーケア",
+        "description": "ニューカレドニアの魅力的なトカゲ・ガーゴイルゲッコウ（ツノミカドヤモリ）。体色変化（ファイヤーアップ）サインの見分け方、22°C〜25°Cの低温維持と夜間霧吹きケアの3ステップルーティン。",
+        "authority": "国際爬虫類学会 (IHS) & 爬虫類獣医ケアプロトコル",
+        "profile": {
+          "breed": "ガーゴイルゲッコウ / ツノミカドヤモリ (Rhacodactylus auriculatus)",
+          "lifespan": "15 〜 20年",
+          "sleep_pattern": "12 〜 14時間 (日中は樹上シェルターで就寝、夜行性)",
+          "temperament": "温厚、おっとり、時折警戒心が強い、縄張り意識あり"
+        },
+        "intro": "頭部の小さな角状の突起と神秘的な模様がガーゴイル（石像）を思わせるガーゴイルゲッコウ（ツノミカドヤモリ）は、ニューカレドニア南部原産の魅力的な樹上性ヤモリです。国際爬虫類学会（IHS）のプロトコルによると、ガーゴイルゲッコウは28°C以上の高温に非常に脆弱であり、涼しい飼育環境と適切な湿度勾配（昼間50〜60%、夜間70〜80%）の維持が不可欠です。クレスティッドゲッコウと異なり、尾が自切しても再生する特徴があり、専用の人工飼料（CGD）給餌と適正温湿度の維持が健康長寿の鍵となります。",
+        "whyTitle": "ガーゴイルゲッコウの身体シグナル：ファイヤーアップ（体色変化）と鳴き声・尾の振動",
+        "whyDesc": "ガーゴイルゲッコウは環境や感情の変化に応じて体色（ファイヤーアップ）や行動で状態を表現します。色が濃くなる現象や尾を振って鳴くサインを正しく読み取り、ストレスを軽減させましょう。",
+        "body_signals": [
+          {
+            "name": "体色が濃く鮮やかに変化する (Firing Up)",
+            "meaning": "夜間の活動開始、湿度・温度の変化、または好奇心や警戒による自然な血流と色素の活性化サインです。",
+            "response": "ケージ内の温度（22°C〜25°C）と湿度を確認し、過度な刺激を与えずに見守りましょう。"
+          },
+          {
+            "name": "尾を左右に振って「キュッ」と鳴く (Tail Twitching & Squeaking)",
+            "meaning": "過度なハンドリングや威嚇、恐怖を感じた際に見せる強いストレスと self-defense の警告サインです。",
+            "response": "直ちにハンドリングを中止し、ケージ内の涼しく薄暗い隠れ家に戻して休ませてください。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：睡眠状態の確認、適温（22°C〜25°C）のモニタリングと換気",
+            "text": "夜間活動を終えたヤモリが昼用シェルターで休息しているか確認し、ケージ内温度が26°Cを超えないよう換気します。"
+          },
+          {
+            "name": "昼：残った人工飼料の回収と昼間の乾燥期間（湿度50〜60%）維持",
+            "text": "傷みやすい人工フード（CGD）の皿を取り除いて清潔を保ち、カビ発生を防ぐためケージ内を適度に乾燥させます。"
+          },
+          {
+            "name": "夜：夜間霧吹き（湿度70〜80%へ誘導）と人工フード/生餌の給餌",
+            "text": "ケージ壁面に清潔な水をスプレーして水滴を舐め取らせ、週3〜4回専用フードやカルシウムをまぶしたコオロギを与えます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ガーゴイルゲッコウはクレスティッドゲッコウのように尾が切れたら再生しませんか？",
+            "answer": "いいえ！クレスティッドゲッコウと異なり、ガーゴイルゲッコウは尾が自切しても数ヶ月で完全に再生します。ただし、再生中は栄養補給とストレス軽減が重要です。"
+          },
+          {
+            "question": "夏場にケージの温度が28°C以上に上がると危険ですか？",
+            "answer": "非常に危険です！ニューカレドニア原産の低温種であるガーゴイルゲッコウは、28°C以上の高温に晒されると熱ストレスで死に至る恐れがあります。エアコンや冷却ファンで22°C〜25°Cを維持してください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "盖勾胜蜥蜴发色信号与温度·湿度管理的3步日常护理",
+        "description": "新喀里多尼亚迷人蜥蜴盖勾胜蜥蜴（Gargoyle Gecko）。解读发色（Firing Up）变化信号、维持22°C~25°C低温环境与夜间喷水护理的3步日常流程。",
+        "authority": "国际两栖爬行动物学会 (IHS) 与爬行动物兽医护理协议",
+        "profile": {
+          "breed": "盖勾胜蜥蜴 / 盖勾骨趾虎 (Gargoyle Gecko / Rhacodactylus auriculatus)",
+          "lifespan": "15 ~ 20年",
+          "sleep_pattern": "12 ~ 14小时 (白天在树栖隐蔽处睡觉，夜行性)",
+          "temperament": "温和、迟钝、偶尔警惕、具有领地意识"
+        },
+        "intro": "因头部微小的角状突起和大理石纹理酷似石雕盖勾胜（Gargoyle）而得名的盖勾胜蜥蜴，是原产于新喀里多尼亚南部的迷人树栖守宫。根据国际两栖爬行动物学会（IHS）护理协议，盖勾胜蜥蜴对28°C以上的高温极度敏感，必须维持凉爽的生存环境以及合理的湿度梯度（白天50%~60%，夜间70%~80%）。与睫角守宫不同，盖勾胜蜥蜴断尾后可以完美再生，喂食专用果泥（CGD）与维持适宜温湿度是其健康长寿的关键。",
+        "whyTitle": "盖勾胜蜥蜴的身体信号：发色状态（Firing Up）与摆尾吱叫",
+        "whyDesc": "盖勾胜蜥蜴会通过鲜明的皮肤颜色变化（Firing Up）与特定的行为动作反映其生理与心理状态。准确识别体色加深或防御性摆尾动作有助于减少其应激压力。",
+        "body_signals": [
+          {
+            "name": "皮肤颜色显著变深变鲜艳 (Firing Up)",
+            "meaning": "夜间活动开始、温湿度变化或因好奇/警惕引发的自然血液流动与色素细胞激活信号。",
+            "response": "检查饲养箱内部温度（22°C~25°C）与湿度状态，保持环境稳定勿过度打扰。"
+          },
+          {
+            "name": "左右摇摆尾巴并发出吱吱声 (Tail Twitching & Squeaking)",
+            "meaning": "因过度抓握、受到惊吓或感到威胁而表现出的强烈应激与自我防御警告信号。",
+            "response": "立即停止抓握上手，将其放回饲养箱内凉爽黑暗的躲避穴中静养。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：检查睡眠状态、监测凉爽温度（22°C~25°C）与通风",
+            "text": "确认夜行活动结束后的蜥蜴已安全进入树栖躲避穴，并确保饲养箱温度不超过26°C。"
+          },
+          {
+            "name": "中午：清理剩余果泥与维持白天干燥区间（湿度50%~60%）",
+            "text": "取出易变质的果泥食盆保持卫生，并让饲养箱适当干燥以防止细菌与霉菌滋生。"
+          },
+          {
+            "name": "晚上：夜间喷水（提升湿度至70%~80%）与果泥/活体昆虫喂食",
+            "text": "向饲养箱壁喷洒干净清水供其舔舐水滴，每周3~4次提供专用果泥（CGD）或蘸有钙粉的饲料昆虫。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "盖勾胜蜥蜴像睫角守宫一样断尾后就不会再长出来了吗？",
+            "answer": "不会！与睫角守宫不同，盖勾胜蜥蜴具有强大的尾部再生能力，断尾后可在数月内重新生长完整。但在再生期间需保证充足营养与低压力环境。"
+          },
+          {
+            "question": "夏季饲养箱温度超过28°C会有危险吗？",
+            "answer": "非常危险！作为原产于新喀里多尼亚的喜低温物种，超过28°C的高温会导致严重的热应激甚至致死。请务必使用空调或冷却风扇将温度控制在22°C~25°C。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Señales de coloración (Firing Up) del Gecko Gárgola y rutina de 3 pasos para el control de temperatura y humedad",
+        "description": "Guía de cuidado para el deslumbrante Gecko Gárgola (Gargoyle Gecko). Aprenda a interpretar los cambios de color, mantener temperaturas frescas (22°C ~ 25°C) y el rociado nocturno.",
+        "authority": "Sociedad Herpetológica Internacional (IHS) y Protocolos de Cuidado Veterinario de Reptiles",
+        "profile": {
+          "breed": "Gecko Gárgola (Rhacodactylus auriculatus)",
+          "lifespan": "15 ~ 20 años",
+          "sleep_pattern": "12 ~ 14 horas (Duerme en refugios arborícolas durante el día, nocturno)",
+          "temperament": "Dócil, Calmo, Ocasionalmente Cauteloso, Territorial"
+        },
+        "intro": "Llamado así por las protuberancias craneales y patrones marmoleados que recuerdan a las gárgolas de piedra, el Gecko Gárgola es un fascinante lagarto arborícola nativo del sur de Nueva Caledonia. Según los protocolos de la Sociedad Herpetológica Internacional (IHS), estos geckos son muy sensibles a temperaturas superiores a 28°C y requieren condiciones frescas con un gradiente de humedad (50%-60% de día, 70%-80% de noche). A diferencia del Gecko Crestado, el Gecko Gárgola sí puede regenerar su cola por completo, siendo la dieta preparada (CGD) y el control ambiental los pilares de su salud.",
+        "whyTitle": "Lenguaje corporal del Gecko Gárgola: Coloración intensa (Firing Up) y chillidos con cola",
+        "whyDesc": "Los Geckos Gárgola expresan su estado físico y emocional mediante intensos cambios de color de piel (Firing Up) y señales conductuales. Reconocer la piel oscurecida o movimientos defensivos reduce su estrés.",
+        "body_signals": [
+          {
+            "name": "Oscurecimiento o brillo intenso del color de la piel (Firing Up)",
+            "meaning": "Una respuesta fisiológica natural desencadenada por la actividad nocturna, cambios de temperatura/humedad o alerta.",
+            "response": "Verifique que la temperatura del terrario se mantenga fresca (22°C ~ 25°C) y asegure una humedad adecuada sin manipularlo en exceso."
+          },
+          {
+            "name": "Movimiento rápido de cola y emisión de chillidos (Tail Twitching & Squeaking)",
+            "meaning": "Una señal defensiva de advertencia que indica estrés extremo, incomodidad por manipulación o amenaza.",
+            "response": "Detenga de inmediato la manipulación y regrese al gecko a un refugio oscuro y fresco dentro de su terrario."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Control de sueño, monitoreo de temperatura fresca (22°C ~ 25°C) y ventilación",
+            "text": "Verifique que el gecko descanse en su refugio arborícola tras la actividad nocturna y asegúrese de que el terrario no supere los 26°C."
+          },
+          {
+            "name": "Tarde: Retiro de comida restante y periodo de secado diurno (50% ~ 60% Humedad)",
+            "text": "Retire el alimento sobrante para mantener la higiene y permita que el terrario se seque ligeramente para evitar hongos y bacterias."
+          },
+          {
+            "name": "Noche: Rociado nocturno (70% ~ 80% Humedad) y alimentación con papilla o insectos",
+            "text": "Rocíe las paredes del terrario con agua limpia para que beba las gotas y ofrezca dieta preparada (CGD) o insectos espolvoreados con calcio 3-4 veces por semana."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Si un Gecko Gárgola pierde la cola, no vuelve a crecer como en el Gecko Crestado?",
+            "answer": "¡No! A diferencia de los Geckos Crestados, los Geckos Gárgola poseen la notable capacidad de regenerar por completo su cola en unos pocos meses. Sin embargo, se requiere buena nutrición y bajo estrés durante el proceso."
+          },
+          {
+            "question": "¿Es peligroso si la temperatura del terrario supera los 28°C en verano?",
+            "answer": "¡Extremadamente peligroso! Al ser una especie de clima fresco de Nueva Caledonia, temperaturas superiores a 28°C causan choque térmico fatal. Utilice aire acondicionado o ventiladores de refrigeración para mantener entre 22°C y 25°C."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Signaux d'infolration (Firing Up) du Gecko Gargouille et routine en 3 étapes pour la température et l'humidité",
+        "description": "Guide de soins pour le fascinant Gecko Gargouille (Gargoyle Gecko). Apprenez à décoder ses changements de couleur, à maintenir une température fraîche (22°C ~ 25°C) et la pulvérisation nocturne.",
+        "authority": "Société Herpétologique Internationale (IHS) & Protocoles de Soins Vétérinaires pour Reptiles",
+        "profile": {
+          "breed": "Gecko Gargouille (Rhacodactylus auriculatus)",
+          "lifespan": "15 ~ 20 ans",
+          "sleep_pattern": "12 ~ 14 heures (Dort dans des cachettes arboricoles le jour, nocturne)",
+          "temperament": "Docile, Calme, Parfois Prudent, Territorial"
+        },
+        "intro": "Nommé pour les petites bosses crâniennes et motifs marbrés évoquant les gargouilles de pierre, le Gecko Gargouille est un magnifique lézard arboricole originaire du sud de la Nouvelle-Calédonie. Selon les protocoles de la Société Herpétologique Internationale (IHS), il est très sensible aux températures supérieures à 28°C et nécessite un environnement frais avec un gradient d'humidité (50%-60% le jour, 70%-80% la nuit). Contrairement au Gecko À Crête, le Gecko Gargouille peut régénérer entièrement sa queue, rendant une alimentation adaptée (CGD) et le contrôle du climat essentiels.",
+        "whyTitle": "Langage corporel du Gecko Gargouille : Changement de couleur (Firing Up) et cris avec frétillement de queue",
+        "whyDesc": "Le Gecko Gargouille exprime son état physique et émotionnel par des changements de couleur intenses (Firing Up) et des signaux comportementaux. Reconnaître une teinte assombrie ou un mouvement défensif aide à réduire son stress.",
+        "body_signals": [
+          {
+            "name": "Couleur de peau s'assombrissant ou devenant très vive (Firing Up)",
+            "meaning": "Réponse physiologique naturelle déclenchée par l'activité nocturne, les variations de température/humidité ou la vigilance.",
+            "response": "Vérifiez que la température du terrarium reste fraîche (22°C ~ 25°C) et assurez une bonne humidité sans manipulation excessive."
+          },
+          {
+            "name": "Frétillement de la queue et petits cris aigus (Tail Twitching & Squeaking)",
+            "meaning": "Signal d'avertissement défensif indiquant un stress extrême, une gêne due à la manipulation ou un sentiment de menace.",
+            "response": "Stoppez immédiatement la manipulation et remettez le gecko dans une cachette sombre et fraîche de son terrarium."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Contrôle du sommeil, surveillance de la température fraîche (22°C ~ 25°C) et aération",
+            "text": "Vérifiez que le gecko repose paisiblement dans sa cachette arboricole après sa nuit et assurez-vous que le bac ne dépasse pas 26°C."
+          },
+          {
+            "name": "Après-midi : Retrait de la nourriture restante et période de séchage diurne (50% ~ 60% Humidité)",
+            "text": "Retirez la nourriture inutilisée pour préserver l'hygiène et laissez le terrarium sécher légèrement pour éviter les moisissures."
+          },
+          {
+            "name": "Soir : Pulvérisation nocturne (70% ~ 80% Humidité) et repas de substitut ou d'insectes",
+            "text": "Vaporisez de l'eau propre sur les parois pour qu'il s'abreuve des gouttelettes, et proposez de la nourriture lyophilisée (CGD) ou des insectes saupoudrés de calcium 3-4 fois par semaine."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "La queue d'un Gecko Gargouille repousse-t-elle si elle est coupée, contrairement au Gecko À Crête ?",
+            "answer": "Oui ! Contrairement au Gecko À Crête, le Gecko Gargouille possède l'extraordinaire capacité de régénérer entièrement sa queue en quelques mois. Une bonne nutrition et un environnement calme sont néanmoins nécessaires."
+          },
+          {
+            "question": "Est-ce dangereux si la température du terrarium dépasse 28°C en été ?",
+            "answer": "Extrêmement dangereux ! Étant une espèce de climat frais originaire de Nouvelle-Calédonie, une température supérieure à 28°C provoque un coup de chaleur mortel. Utilisez la climatisation ou des ventilateurs pour maintenir entre 22°C et 25°C."
+          }
+        ]
+      },
+      "de": {
+        "title": "Gargoyle Gecko Farbwechsel-Signale (Firing Up) und 3-Schritte-Tagesroutine für Temperatur und Luftfeuchtigkeit",
+        "description": "Pflegeanleitung für den faszinierenden Höcker-Kronengecko (Gargoyle Gecko). Lernen Sie Farbwechsel-Signale zu verstehen, kühle Temperaturen (22°C ~ 25°C) zu halten und die Abend-Sprühroutine zu steuern.",
+        "authority": "International Herpetological Society (IHS) & Richtlinien für Terraristik und Reptilienmedizin",
+        "profile": {
+          "breed": "Höcker-Kronengecko / Gargoyle Gecko (Rhacodactylus auriculatus)",
+          "lifespan": "15 ~ 20 Jahre",
+          "sleep_pattern": "12 ~ 14 Stunden (Schläft tagsüber in baumbewohnenden Verstecken, nachtaktiv)",
+          "temperament": "Sanftmütig, Ruhig, Gelegentlich vorsichtig, Territorial"
+        },
+        "intro": "Der wegen seiner kranialen Höcker und marmorierten Muster an steinere Wasserspeier erinnernde Höcker-Kronengecko (Gargoyle Gecko) ist eine faszinierende baumbewohnende Eidechse aus dem Süden Neukaledoniens. Laut den Pflegestandards der International Herpetological Society (IHS) reagieren diese Geckos extrem empfindlich auf Temperaturen über 28°C und benötigen kühle Haltungsbedingungen sowie ein feuchtes Umgebungsklima (50%-60% tagsüber, 70%-80% nachts). Im Gegensatz zum Kronengecko kann der Höcker-Kronengecko seinen Schwanz vollständig regenerieren. Eine ausgewogene Ernährung (CGD) und Klimakontrolle sind der Schlüssel für ein langes Leben.",
+        "whyTitle": "Körpersprache des Gargoyle Geckos: Intensiver Farbwechsel (Firing Up) und Schwanzzucken mit Fiepen",
+        "whyDesc": "Gargoyle Geckos drücken ihren körperlichen und emotionalen Zustand durch deutliche Hautfarbänderungen (Firing Up) und Verhaltensweisen aus. Das Erkennen von dunklen Hauttönen oder Abwehrbewegungen hilft, Stress zu vermeiden.",
+        "body_signals": [
+          {
+            "name": "Hautfarbe dunkelt nach oder wird intensiv leuchtend (Firing Up)",
+            "meaning": "Eine natürliche physiologische Reaktion, ausgelöst durch Nachtaktivität, Temperatur-/Feuchtigkeitswechsel oder erhöhte Wachsamkeit.",
+            "response": "Überprüfen Sie, ob die Terrarientemperatur kühl bleibt (22°C ~ 25°C) und sorgen Sie für passende Feuchtigkeit ohne unnötiges Hantieren."
+          },
+          {
+            "name": "Schwanzzucken/-wedeln und leises Fiepen (Tail Twitching & Squeaking)",
+            "meaning": "Ein defensives Warnsignal bei extremem Stress, Überforderung beim Handling oder Bedrohungsgefühl.",
+            "response": "Beenden Sie das Handling sofort und setzen Sie den Gecko in ein kühles, dunkles Versteck im Terrarium zurück."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Schlafkontrolle, Überwachung kühler Temperaturen (22°C ~ 25°C) & Belüftung",
+            "text": "Vergewissern Sie sich, dass der Gecko nach der Nacht ruht, und stellen Sie sicher, dass die Temperatur im Terrarium 26°C nicht überschreitet."
+          },
+          {
+            "name": "Mittag: Entnahme von Futterresten & Abtrocknungsphase am Tag (50% ~ 60% Feuchtigkeit)",
+            "text": "Entfernen Sie unverbrauchten Brei für optimale Hygiene und lassen Sie das Terrarium leicht abtrocknen, um Schimmelbildung zu vermeiden."
+          },
+          {
+            "name": "Abend: Abendsprühen (70% ~ 80% Feuchtigkeit) & Fütterung von Brei oder Insekten",
+            "text": "Sprühen Sie sauberes Wasser an die Wände, damit der Gecko Tropfen lecken kann, und bieten Sie 3-4 Mal pro Woche Spezialbrei (CGD) oder bestäubte Insekten an."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Wächst der Schwanz eines Gargoyle Geckos nach dem Abwerfen nach, anders als beim Kronengecko?",
+            "answer": "Ja! Im Gegensatz zu Kronengeckos besitzen Gargoyle Geckos die Fähigkeit, abgeworfene Schwänze innerhalb weniger Monate vollständig zu regenerieren. Gute Ernährung und Ruhe sind währenddessen essenziell."
+          },
+          {
+            "question": "Ist es gefährlich, wenn die Terrarientemperatur im Sommer über 28°C steigt?",
+            "answer": "Extrem gefährlich! Als Kaltklima-Art aus Neukaledonien führt eine Temperatur von über 28°C zu tödlichem Hitzestress. Nutzen Sie Klimaanlagen oder Kühlventilatoren, um die Temperatur zwischen 22°C und 25°C zu halten."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Sinais de coloração (Firing Up) do Gecko Gárgula e rotina de 3 passos para controle de temperatura e umidade",
+        "description": "Guia de cuidados para o impressionante Gecko Gárgula (Gargoyle Gecko). Aprenda a interpretar mudanças de cor (Firing Up), manter temperaturas frias (22°C ~ 25°C) e a borrifação noturna.",
+        "authority": "Sociedade Herpetológica Internacional (IHS) & Protocolos de Cuidados Veterinários com Répteis",
+        "profile": {
+          "breed": "Gecko Gárgula (Rhacodactylus auriculatus)",
+          "lifespan": "15 ~ 20 anos",
+          "sleep_pattern": "12 ~ 14 horas (Dorme em abrigos arborícolas durante o dia, noturno)",
+          "temperament": "Dócil, Calmo, Ocasionalmente Cauteloso, Territorial"
+        },
+        "intro": "Nomeado pelas saliências cranianas e padrões marmorizados que lembram gárgulas de pedra, o Gecko Gárgula é um réptil arborícola fascinante nativo do sul da Nova Caledônia. Segundo os protocolos da Sociedade Herpetológica Internacional (IHS), estes geckos são extremamente sensíveis a temperaturas acima de 28°C e exigem um ambiente fresco com gradiente de umidade (50%-60% de dia, 70%-80% à noite). Ao contrário do Gecko Cristado, o Gecko Gárgula pode regenerar sua cauda completamente, sendo a dieta apropriada (CGD) e o controle do clima essenciais para sua saúde.",
+        "whyTitle": "Linguagem corporal do Gecko Gárgula: Mudança de cor (Firing Up) e guinchos com agitação da cauda",
+        "whyDesc": "Os Geckos Gárgula expressam seu estado físico e emocional por meio de intensas mudanças na cor da pele (Firing Up) e comportamentos específicos. Reconhecer a pele escurecida ou movimentos defensivos ajuda a reduzir o estresse.",
+        "body_signals": [
+          {
+            "name": "Coloração da pele escurece ou fica muito vívida (Firing Up)",
+            "meaning": "Uma resposta fisiológica natural desencadeada por atividade noturna, variações de temperatura/umidade ou alerta.",
+            "response": "Verifique se a temperatura do terrário permanece fresca (22°C ~ 25°C) e garanta a umidade correta sem manuseio excessivo."
+          },
+          {
+            "name": "Cauda balançando rápido e emissão de guinchos (Tail Twitching & Squeaking)",
+            "meaning": "Um sinal de alerta defensivo que indica estresse extremo, desconforto ao ser manuseado ou ameaça.",
+            "response": "Pare o manuseio imediatamente e retorne o gecko para um abrigo escuro e fresco dentro do terrário."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Verificação do sono, monitoramento de temperatura fresca (22°C ~ 25°C) e ventilação",
+            "text": "Confirme se o gecko está descansando no abrigo arborícola após a noite e garanta que a temperatura não ultrapasse 26°C."
+          },
+          {
+            "name": "Tarde: Remoção de sobras de alimento e período de secagem diurna (50% ~ 60% Umidade)",
+            "text": "Retire o alimento não consumido para manter a higiene e permita que o terrário seque ligeiramente para evitar fungos e bactérias."
+          },
+          {
+            "name": "Noite: Borrifação noturna (70% ~ 80% Umidade) e alimentação com papá ou insetos",
+            "text": "Borrife água limpa nas paredes do terrário para ele lamber as gotas e ofereça dieta preparada (CGD) ou insetos polvilhados com cálcio 3-4 vezes por semana."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Se o Gecko Gárgula perder a cauda, ela não cresce de novo como ocorre no Gecko Cristado?",
+            "answer": "Não! Ao contrário dos Geckos Cristados, os Geckos Gárgula têm a incrível capacidade de regenerar totalmente a cauda em poucos meses. Boa nutrição e ambiente calmo são essenciais no processo."
+          },
+          {
+            "question": "É perigoso se a temperatura do terrário passar de 28°C no verão?",
+            "answer": "Extremamente perigoso! Por ser uma espécie de clima fresco da Nova Caledônia, temperaturas acima de 28°C causam estresse térmico fatal. Use ar-condicionado ou coolers para manter entre 22°C e 25°C."
+          }
+        ]
+      },
+      "id": {
+        "title": "Sinyal Perubahan Warna (Firing Up) Tokek Gargoyle dan Rutinitas 3 Langkah Perawatan Suhu & Kelembapan",
+        "description": "Panduan perawatan Tokek Gargoyle (Gargoyle Gecko). Pelajari cara membaca sinyal perubahan warna (firing up), menjaga suhu dingin (22°C ~ 25°C), dan penyemprotan air malam hari.",
+        "authority": "International Herpetological Society (IHS) & Protokol Perawatan Medis Reptil",
+        "profile": {
+          "breed": "Tokek Gargoyle (Rhacodactylus auriculatus)",
+          "lifespan": "15 ~ 20 Tahun",
+          "sleep_pattern": "12 ~ 14 Jam (Tidur di tempat sembunyi pepohonan saat siang, nokturnal)",
+          "temperament": "Jinak, Tenang, Kadang Waspada, Teritorial"
+        },
+        "intro": "Dinamai karena tonjolan kepala khas dan pola marmer yang menyerupai patung gargoyle, Tokek Gargoyle adalah kadal pohon mempesona yang berasal dari Kaledonia Baru bagian selatan. Menurut protokol International Herpetological Society (IHS), tokek ini sangat rentan terhadap suhu di atas 28°C dan membutuhkan kondisi hidup yang sejuk serta gradasi kelembapan (50%-60% di siang hari, 70%-80% di malam hari). Berbeda dengan Crested Gecko, Tokek Gargoyle mampu menumbuhkan kembali ekornya yang putus secara sempurna, menjadikan pola makan (CGD) dan kontrol suhu sebagai kunci utama usianya.",
+        "whyTitle": "Bahasa Tubuh Tokek Gargoyle: Perubahan Warna (Firing Up) dan Gerakan Ekor Berdecit",
+        "whyDesc": "Tokek Gargoyle mengekspresikan kondisi fisik dan emosinya melalui perubahan warna kulit yang kontras (firing up) serta perilaku tertentu. Memahami warna kulit yang menggelap atau gerakan ekor defensif membantu mengurangi tingkat stresnya.",
+        "body_signals": [
+          {
+            "name": "Warna Kulit Menggelap atau Menjadi Sangat Cerah (Firing Up)",
+            "meaning": "Respons fisiologis alami yang dipicu oleh aktivitas malam hari, perubahan suhu/kelembapan, atau kewaspadaan.",
+            "response": "Pastikan suhu terarium tetap sejuk (22°C ~ 25°C) dan jaga kelembapan yang cukup tanpa memegang tokek secara berlebihan."
+          },
+          {
+            "name": "Ekor Mengibas/Mengepak & Mengeluarkan Suara Decitan (Tail Twitching & Squeaking)",
+            "meaning": "Sinyal peringatan defensif yang menunjukkan stres berat, rasa tidak nyaman akibat penanganan kasar, atau rasa terancam.",
+            "response": "Hentikan penanganan segera dan kembalikan tokek ke tempat sembunyi yang gelap dan sejuk di dalam terarium."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pemeriksaan Tidur, Pemantauan Suhu Sejuk (22°C ~ 25°C) & Ventilasi",
+            "text": "Pastikan tokek beristirahat dengan aman di tempat sembunyi pohon setelah beraktivitas malam dan pastikan suhu tidak melebihi 26°C."
+          },
+          {
+            "name": "Siang: Pembersihan Sisa Makanan & Periode Pengeringan Siang (Kelembapan 50% ~ 60%)",
+            "text": "Angkat sisa makanan pakan racikan agar tetap higienis dan biarkan terarium sedikit mengering untuk mencegah jamur dan bakteri."
+          },
+          {
+            "name": "Malam: Penyemprotan Air Malam (Kelembapan 70% ~ 80%) & Pemberian Makanan/Serangga",
+            "text": "Semprotkan air bersih ke dinding terarium agar tokek dapat menjilat tetesan air, lalu berikan pakan racikan (CGD) atau serangga ber-kalsium 3-4 kali seminggu."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah ekor Tokek Gargoyle tidak akan tumbuh lagi jika putus seperti Crested Gecko?",
+            "answer": "Tidak! Berbeda dengan Crested Gecko, Tokek Gargoyle memiliki kemampuan luar biasa untuk menumbuhkan kembali ekornya hingga utuh dalam beberapa bulan. Namun, nutrisi baik dan lingkungan tenang sangat dibutuhkan saat proses regenerasi."
+          },
+          {
+            "question": "Apakah berbahaya jika suhu terarium naik di atas 28°C saat musim panas?",
+            "answer": "Sangat berbahaya! Sebagai spesies iklim sejuk dari Kaledonia Baru, suhu di atas 28°C dapat menyebabkan stres panas fatal (hyperthermia). Gunakan AC ruangan atau pendingin untuk menjaga suhu antara 22°C hingga 25°C."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/gargoyle_gecko_care.webp"
+  }
 }

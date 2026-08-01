@@ -1,406 +1,406 @@
 {
-    "how-to-store-matcha-powder": {
-        "ingId": "matcha-powder",
-        "pubDate": "2026-03-02",
-        "updatedDate": "2026-03-02",
-        "heroImage": "/images/blog/matcha_powder_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "말차 가루 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 말차 가루의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "일본 농림수산성(MAFF) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "말차 가루를 개봉해두었다가 특유의 선명한 초록빛이 칙칙한 갈색으로 변하거나 향이 날아가 당황하신 적 있으시죠? 🍵\n\n말차 가루는 차나무 잎을 맷돌이나 미세 분쇄기로 매우 가늘게 빻아 만든 식재료로, 입자가 매우 미세하여 공기와 빛에 노출되는 표면적이 극도로 넓습니다. 이 때문에 강력한 항산화 성분인 카테킨(EGCG)과 선명한 색을 내는 엽록소(Chlorophyll)가 UV/빛과 공기 중 산소에 노출되면 순식간에 광산화(Photo-oxidation)되어 갈색으로 변하고 영양소가 파괴됩니다. 또한 높은 흡습성(Hygroscopicity)을 가져 습기를 흡수하면 덩어리지고 곰팡이가 쉽게 번식합니다.\n\n이번 가이드에서는 일본 농림수산성(MAFF), USDA, 식품의약품안전처의 검증된 가이드라인을 바탕으로, 말차 가루의 선명한 빛깔과 유효 성분을 오랫동안 신선하게 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 입자 구조와 생화학적 성분 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 영양소 파괴 방지와 선명한 색상 유지에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "직사광선 및 형광등 빛(UV)과 산소 노출을 강력히 차단하세요 ☀️",
-                        "desc": "말차 가루의 미세 입자는 표면적이 넓어 빛과 산소에 노출되는 즉시 광산화 반응이 일어나 카테킨(EGCG)과 엽록소가 파괴되고 갈색으로 변색됩니다. 반드시 빛이 완전히 차단되는 차광 밀폐 용기(차광 캔, 알루미늄 지퍼백 등)에 보관해야 합니다."
-                    },
-                    {
-                        "title": "습기 유입으로 인한 뭉침 및 곰팡이 번식을 주의하세요 💧",
-                        "desc": "말차 가루는 흡습성(Hygroscopicity)이 매우 높아 공기 중 수분을 빠르게 흡수합니다. 수분이 들어가면 입자가 뭉치고 미생물이 번식하기 좋은 환경이 되므로, 물기가 없는 건조한 전용 도구만 사용해야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "개봉 전에는 차광 상태로 냉동 또는 냉장 보관하기 — 저온 보관 (360일) 📦",
-                        "text": "미개봉 말차 가루는 빛과 공기가 차단된 상태에서 저온 보관할 때 신선도가 가장 오래 유지됩니다. 💡 보관 팁: 차광 포장 그대로 냉동실(-18℃ 이하)이나 냉장고 야채칸(0~5℃)에 보관하세요. 개봉 전 상태에서는 1년 동안 선명한 색과 영양 성분이 변질 없이 유지됩니다."
-                    },
-                    {
-                        "name": "개봉 후에는 차광 밀폐 용기에 담아 냉장 보관하기 — 냉장 보관 (30~60일) ❄️",
-                        "text": "개봉 즉시 산소와 결합하기 시작하므로 신속한 차광 및 저온 보관이 필수적입니다. 💡 보관 팁: 알루미늄 파우치나 불투명 차광 용기에 담아 냉장고(0~5℃)에 보관하세요. 개봉 후에는 1~2개월 이내에 소비하는 것이 최상의 맛과 카테킨 함량을 즐기는 방법입니다."
-                    },
-                    {
-                        "name": "냉장고에서 꺼낸 직후에는 상온 완충 후 개봉하기 — 결로 방지 🌡️",
-                        "text": "차가운 상태의 차통을 바로 열면 내부와 외부의 온도 차이로 인해 용기 내부에 결로(이슬 맺힘)가 발생하여 말차 가루가 습기를 먹게 됩니다. 💡 보관 팁: 냉장고에서 꺼낸 뒤 용기가 상온과 비슷한 온도가 될 때까지 10~15분간 기다렸다가 개봉해 주세요."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "말차 가루 색깔이 초록색에서 갈색으로 변했는데 먹어도 되나요?",
-                        "answer": "섭취해도 건강에 유해하지는 않지만 품질이 크게 저하된 상태입니다! 갈변 현상은 빛과 산소에 의해 카테킨(EGCG)과 엽록소가 파괴된 광산화 반응 결과입니다. 변색된 말차 가루는 항산화 성분이 크게 줄어들고 특유의 풋풋한 향과 감칠맛이 사라져 쓰거나 밋밋한 맛이 납니다."
-                    },
-                    {
-                        "question": "개봉한 말차 가루를 상온 찬장에 보관해도 괜찮나요?",
-                        "answer": "상온 보관은 추천하지 않습니다! 말차 가루는 미세 입자 구조라 상온의 빛, 산소, 습기에 매우 취약합니다. 상온에 두면 몇 주 만에 색이 변하고 흡습으로 인해 덩어리가 집니다. 반드시 빛이 차단되는 차광 밀폐 용기에 담아 냉장 보관해야 선명한 초록빛과 풍미를 유지할 수 있습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Matcha Powder Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for Matcha Powder based on official safety guidelines.",
-                "authority": "MAFF & USDA & MFDS",
-                "intro": "Have you ever opened a pouch of matcha powder only to find its vivid green color dulled to a brownish hue and its aromatic freshness gone? 🍵\n\nMatcha powder is made by stone-grinding shade-grown tea leaves into ultra-fine particles. This creates an extremely large surface area exposed to oxygen and light. As a result, its key antioxidants—catechins (EGCG)—and vibrant green chlorophyll rapidly undergo photo-oxidation when exposed to UV light, ambient light, and air, destroying nutrients and browning the powder. Furthermore, matcha exhibits high hygroscopicity, quickly absorbing atmospheric moisture which causes clumping and mold growth.\n\nIn this guide, we share a scientifically proven 3-step matcha powder storage guide based on standards from MAFF (Japan), USDA, and MFDS to preserve its bright green color, umami flavor, and active nutrients. 🛡️",
-                "whyTitle": "Why Store Matcha Powder This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique particle structure and biochemical composition of each food item and applying proper storage methods is essential for preventing nutrient loss and maintaining vibrant color.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Strongly shield from light (UV) and oxygen exposure ☀️",
-                        "desc": "Because ultra-fine matcha particles have a massive surface area, light and oxygen trigger rapid photo-oxidation, degrading catechins (EGCG) and chlorophyll into a dull brown. Always store in a light-proof, opaque airtight container (such as a dark tin or aluminum pouch)."
-                    },
-                    {
-                        "title": "Beware of moisture absorption causing clumping and mold growth 💧",
-                        "desc": "Matcha powder is highly hygroscopic and rapidly absorbs ambient moisture. Dampness leads to particle clumping and creates a breeding ground for microorganisms. Always use completely dry utensils."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Store unopened packages in the freezer or refrigerator — Cold Storage (360 Days) 📦",
-                        "text": "Unopened matcha powder stays freshest when kept frozen or chilled away from light and oxygen. 💡 Storage Tip: Keep unopened original packaging in the freezer (below -18°C) or refrigerator crisper (0–5°C / 32–41°F). Sealed matcha maintains its vibrant color and nutrient profile for up to 1 year."
-                    },
-                    {
-                        "name": "Keep opened matcha in an opaque airtight container in the fridge — Refrigerated Storage (30–60 Days) ❄️",
-                        "text": "Once opened, rapid oxygen and light exposure begin degradation. 💡 Storage Tip: Transfer opened matcha into an opaque, airtight light-proof container and refrigerate at 0–5°C (32–41°F). Consume within 1 to 2 months for peak EGCG content and flavor."
-                    },
-                    {
-                        "name": "Allow container to reach room temperature before opening — Prevent Condensation 🌡️",
-                        "text": "Opening a cold matcha container immediately creates condensation inside due to temperature differences, exposing the powder to moisture. 💡 Storage Tip: Wait 10 to 15 minutes after removing from the fridge until the container reaches room temperature before opening."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "My matcha powder turned from bright green to brownish. Is it still safe to consume?",
-                        "answer": "Yes, it is safe, but its quality and nutrition have significantly degraded! The color change is a result of photo-oxidation breaking down chlorophyll and catechins (EGCG) from exposure to light and air. While not harmful, it loses its vibrant umami flavor, fresh aroma, and antioxidant benefits."
-                    },
-                    {
-                        "question": "Can I store opened matcha powder in a room-temperature pantry?",
-                        "answer": "Room temperature storage is not recommended! Ultra-fine matcha particles degrade rapidly when exposed to ambient heat, humidity, light, and oxygen. Storing it at room temperature causes rapid browning and clumping within weeks. Always store opened matcha in a light-proof airtight container in the refrigerator."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "抹茶パウダーを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づく抹茶パウダーの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "農林水産省(MAFF) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "抹茶パウダーを開封して置いておいたら、特有の鮮やかな緑色がくすんだ茶色に変色したり、香りが飛んでしまったりして驚いたことはありませんか？🍵\n\n抹茶パウダーは茶葉を石臼などで超微粒子に粉砕して作られるため、空気や光に触れる表面積が極めて広いという特徴を持っています。そのため、強力な抗酸化成分であるカテキン（EGCG）や鮮やかな色を出す葉緑素（クロロフィル）が、紫外線や光、空気中の酸素に触れると一瞬で光酸化（Photo-oxidation）を起こし、茶色く変色して栄養素が破壊されてしまいます。また、高い吸湿性（Hygroscopicity）を持つため、湿気を吸うとダマになりカビが繁殖しやすくなります。\n\n本記事では、農林水産省（MAFF）、USDA、食品医薬品安全処のガイドラインに基づき、抹茶の鮮やかな色と有効成分を長期間保つ3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？ 科学的ファクト",
-                "whyDesc": "食材ごとの固有の粒子構造や生化学的成分特性を理解し、それに合った正しい保存方法を実践することは、栄養素の破壊防止と鮮やかな色彩の維持において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "直射日光・蛍光灯の光（UV）と酸素への露出を強力に遮断してください ☀️",
-                        "desc": "抹茶パウダーの粒子は表面積が広いため、光や酸素に触れるとすぐに光酸化反応を起こし、カテキン（EGCG）やクロロフィルが破壊されて茶色に変色します。必ず光を完全に遮る遮光密閉容器（遮光缶やアルミジッパーバッグなど）で保管してください。"
-                    },
-                    {
-                        "title": "湿気混入によるダマやカビの発生に注意してください 💧",
-                        "desc": "抹茶パウダーは吸湿性（Hygroscopicity）が非常に高く、空気中の水分を急速に吸収します。水分が入ると粒子が固まり微生物が繁殖しやすくなるため、必ず水気のない乾いた器具を使用してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "開封前は遮光状態で冷凍または冷蔵保存する — 低温保存 (360日間) 📦",
-                        "text": "未開封の抹茶パウダーは、光と空気が遮断された状態で低温保存することで鮮度が最も長く保たれます。💡保存のコツ：遮光包装のまま冷凍室（-18℃以下）または冷蔵庫の野菜室（0〜5℃）で保存してください。未開封であれば1年間、鮮やかな色と栄養成分が維持されます。"
-                    },
-                    {
-                        "name": "開封後は遮光密閉容器に入れて冷蔵保存する — 冷蔵保存 (30〜60日間) ❄️",
-                        "text": "開封した瞬間から酸素と結合し始めるため、迅速な遮光と低温保存が不可欠です。💡保存のコツ：アルミパウチや不透明な遮光容器に移し、冷蔵庫（0〜5℃）で保存してください。開封後は1〜2ヶ月以内に使い切るのが最も美味しい状態とカテキン量を味わうコツです。"
-                    },
-                    {
-                        "name": "冷蔵庫から出した直後は常温に戻してから開封する — 結露防止 🌡️",
-                        "text": "キンキンに冷えた状態で缶を開けると、温度差により容器内部に結露（水滴）が発生し、抹茶が湿気を吸ってしまいます。💡保存のコツ：冷蔵庫から取り出したら、容器が常温近くになるまで10〜15分ほど待ってから開封してください。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "抹茶パウダーの色が緑から茶色に変色しましたが、使っても大丈夫ですか？",
-                        "answer": "使用しても体に害はありませんが、品質は大きく低下しています！変色現象は、光や酸素によってカテキン（EGCG）やクロロフィルが破壊された光酸化反応の結果です。変色した抹茶は抗酸化成分が大幅に減少し、抹茶特有の爽やかな風味や旨味が消えて苦味や雑味が目立つようになります。"
-                    },
-                    {
-                        "question": "開封した抹茶パウダーを常温の棚に保管してもいいですか？",
-                        "answer": "常温保存はおすすめできません！抹茶パウダーは微粒子構造のため、常温の光、酸素、湿気に非常に弱いです。常温に置くと数週間で色が変わり、吸湿してダマになります。必ず光を遮る遮光密閉容器に入れて冷蔵保存することで、鮮やかな緑色と風味を維持できます。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持抹茶粉新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解抹茶粉的最佳储存温度、方式及保鲜时长。",
-                "authority": "日本农林水产省(MAFF) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "您是否曾遇到过开封后的抹茶粉，其原本鲜艳的翠绿色变成了沉闷的褐色，特有的鲜香气味也挥发殆尽的情况？🍵\n\n抹茶粉是由遮阴覆盖栽培的茶叶经石磨或超细粉碎技术研磨而成的，其颗粒极其微细，暴露于空气和光照下的比表面积极大。因此，其核心抗氧化成分儿茶素（EGCG）和呈现鲜艳绿色的叶绿素（Chlorophyll）在接触紫外线、光照及空气中的氧气时，会迅速发生光氧化（Photo-oxidation）反应，导致变褐和营养破坏。此外，抹茶粉具有很强的吸湿性（Hygroscopicity），吸收水分后极易结块并滋生霉菌。\n\n本指南基于日本农林水产省（MAFF）、USDA及韩国MFDS的权威标准，为您带来3步科学保存秘诀，帮您长久锁定抹茶粉的翠绿色彩与营养活性。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的颗粒结构与生物化学成分特性并遵循正确的储存方法，对于防止营养成分破坏与维持鲜艳色彩至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "严防光照（紫外线）与氧气暴露 ☀️",
-                        "desc": "超细抹茶颗粒的比表面积巨大，接触光照和氧气会立即引发光氧化反应，破坏儿茶素（EGCG）和叶绿素并使其变褐色。务必存放在完全避光的密封容器（如遮光铁罐、铝箔拉链袋）中。"
-                    },
-                    {
-                        "title": "谨防吸湿导致结块与霉菌滋生 💧",
-                        "desc": "抹茶粉具有极高的吸湿性（Hygroscopicity），会迅速吸收空气中的潮气。水分进入后会导致颗粒结块并为微生物滋生创造条件。取用时请务必使用干燥无水的干净工具。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "开封前避光冷冻或冷藏保存 — 低温保存 (360天) 📦",
-                        "text": "未开封的抹茶粉在隔绝光线和空气的低温环境下保鲜期最长。💡储存小贴士：保持原装遮光包装放入冷冻室（-18℃以下）或冷藏室（0~5℃）。未开封状态下，其鲜艳色彩与营养成分可完好保持1年。"
-                    },
-                    {
-                        "name": "开封后装入避光密封罐冷藏 — 冷藏保存 (30~60天) ❄️",
-                        "text": "开封瞬间即开始与氧气接触，因此迅速避光与低温冷藏至关重要。💡储存小贴士：装入铝箔袋或不透明避光罐中放入冰箱冷藏（0~5℃）。开封后建议在1~2个月内用完，以享受最佳的风味与儿茶素活性。"
-                    },
-                    {
-                        "name": "从冰箱取出后置于常温回温后再开封 — 防止凝露 🌡️",
-                        "text": "若直接打开冰冷的抹茶罐，温差会导致罐内产生凝露（水珠），使抹茶粉吸潮变质。💡储存小贴士：从冰箱取出后，请静置10~15分钟，待容器恢复至常温后再打开使用。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "抹茶粉的颜色从翠绿变成了褐色，还能食用吗？",
-                        "answer": "可以安全食用，但其品质和营养价值已大幅下降！变色是叶绿素和儿茶素（EGCG）因光照和氧气作用发生光氧化的自然结果。变褐色后的抹茶粉抗氧化成分大幅减少，特有的清香与鲜甜风味也会消失，口感会变得发苦发平淡。"
-                    },
-                    {
-                        "question": "开封后的抹茶粉可以放在常温橱柜里吗？",
-                        "answer": "不建议常温保存！抹茶粉微粒结构对常温下的光照、氧气和湿气极其敏感。放在常温下短短几周内就会变色结块。务必装入避光密封容器并放入冰箱冷藏，才能长久保持其鲜艳的翠绿色与风味。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener el té matcha en polvo fresco: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para el té matcha en polvo según las directrices oficiales de seguridad.",
-                "authority": "MAFF & USDA & MFDS",
-                "intro": "¿Alguna vez abrió un paquete de té matcha en polvo solo para descubrir que su vibrante color verde se había volcado a un tono marrón apagado y su frescura había desaparecido? 🍵\n\nEl té matcha en polvo se elabora moliendo hojas de té cultivadas a la sombra hasta obtener partículas extremadamente finas. Esto crea una superficie masiva expuesta al oxígeno y a la luz. Como resultado, sus potentes antioxidantes—las catequinas (EGCG)—y la clorofila que le da su color verde vivo se fotooxidan rápidamente (Photo-oxidation) al contacto con los rayos UV, la luz ambiental y el aire, destruyendo nutrientes y oscureciendo el polvo. Además, el matcha posee una alta higroscopicidad (Hygroscopicity), por lo que absorbe la humedad del aire provocando grumos y moho.\n\nEn esta guía se presenta una guía científica en 3 pasos basada en las directrices de la MAFF (Japón), el USDA y el MFDS para conservar su vivo color verde, su sabor umami y sus nutrientes. 🛡️",
-                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-                "whyDesc": "Comprender la estructura de partículas y la composición bioquímica de cada alimento es fundamental para evitar la pérdida de nutrientes y mantener un color vibrante.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Proteja fuertemente de la luz (UV) y de la exposición al oxígeno ☀️",
-                        "desc": "Las partículas ultra finas del matcha tienen una superficie masiva, por lo que la luz y el oxígeno desencadenan una rápida fotooxidación que degrada las catequinas (EGCG) y la clorofila a un color marrón. Guárdelo siempre en un recipiente hermético y opaco a la luz (como una lata oscura o bolsa de aluminio)."
-                    },
-                    {
-                        "title": "Evite la absorción de humedad para prevenir grumos y moho 💧",
-                        "desc": "El té matcha es altamente higroscópico y absorbe rápidamente la humedad ambiental. La humedad genera grumos y un entorno propenso a microorganismos. Use siempre utensilios completamente secos."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Guarde los paquetes sin abrir en el congelador o refrigerador — Temp. Baja (360 días) 📦",
-                        "text": "El matcha sin abrir se mantiene fresco por más tiempo si se conserva congelado o refrigerado al abrigo de la luz. 💡 Consejo de almacenamiento: Conserve el paquete original opaco en el congelador (bajo -18 °C) o refrigerador (0–5 °C). Sin abrir, mantendrá su color y nutrientes durante 1 año."
-                    },
-                    {
-                        "name": "Guarde el matcha abierto en un recipiente opaco y hermético en el refrigerador — Almacenamiento Refrigerado (30–60 días) ❄️",
-                        "text": "Una vez abierto, la exposición al oxígeno y luz acelera la degradación. 💡 Consejo de almacenamiento: Traslade el matcha a un recipiente hermético opaco y refrigérelo (0–5 °C). Consúmalo en un plazo de 1 a 2 meses para disfrutar del máximo contenido de EGCG y sabor."
-                    },
-                    {
-                        "name": "Deje que el recipiente alcance la temperatura ambiente antes de abrirlo — Evite la condensación 🌡️",
-                        "text": "Abrir un recipiente de matcha frío genera condensación instantánea en el interior debido a la diferencia de temperatura, humedeciendo el polvo. 💡 Consejo de almacenamiento: Espere de 10 a 15 minutos tras sacarlo del refrigerador antes de abrir."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mi matcha en polvo pasó de verde brillante a marrón. ¿Es seguro consumirlo?",
-                        "answer": "Sí, es seguro, pero su calidad y nutrición se han reducido drásticamente. El cambio de color es el resultado de la fotooxidación que destruye la clorofila y las catequinas (EGCG) al contacto con la luz y el aire. Pierde su sabor umami fresco y sus beneficios antioxidantes."
-                    },
-                    {
-                        "question": "¿Puedo guardar el matcha abierto en la despensa a temperatura ambiente?",
-                        "answer": "No se recomienda guardarlo a temperatura ambiente. Sus finas partículas se degradan rápido con el calor, humedad, luz y oxígeno ambientales, volviéndose marrón y apelmazándose en pocas semanas. Guárdelo siempre en un recipiente opaco y hermético en el refrigerador."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver le thé matcha en poudre frais : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le thé matcha en poudre selon les directives officielles de sécurité.",
-                "authority": "MAFF & USDA & MFDS",
-                "intro": "Avez-vous déjà ouvert un sachet de thé matcha en poudre pour constater que sa couleur vert vif s'était ternie en un brun verdâtre et que son arôme avait disparu ? 🍵\n\nLe matcha en poudre est obtenu en broyant des feuilles de thé ombragées en de très fines particules. Cela crée une surface d'exposition au dioxygène et à la lumière extrêmement vaste. En conséquence, ses antioxydants clés—les catéchines (EGCG)—et la chlorophylle qui lui donne sa belle couleur verte subissent une photo-oxydation rapide sous l'effet des UV, de la lumière et de l'air, détruisant ses nutriments et brunissant la poudre. De plus, le matcha est très hygroscopique et absorbe rapidement l'humidité ambiante, ce qui provoque des grumeaux et du moisissement.\n\nDans ce guide, nous vous présentons un guide scientifique en 3 étapes basé sur les normes du MAFF (Japon), de l'USDA et du MFDS pour préserver sa couleur vert éclatant, sa saveur umami et ses nutriments. 🛡️",
-                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre la structure particulaire et la composition biochimique de chaque ingrédient est essentiel pour éviter la dégradation des nutriments et maintenir une couleur éclatante.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Protégez impérativement de la lumière (UV) et de l'oxygène ☀️",
-                        "desc": "En raison de la immense surface d'exposition des particules de matcha, la lumière et l'oxygène déclenchent une photo-oxydation rapide qui détruit les catéchines (EGCG) et la chlorophylle. Conservez-le toujours dans un récipient étanche et opaque (boîte métallique sombre ou sachet en aluminium)."
-                    },
-                    {
-                        "title": "Évitez l'absorption d'humidité pour empêcher les grumeaux et moisissures 💧",
-                        "desc": "Le matcha est extrêmement hygroscopique et absorbe rapidement l'humidité de l'air. L'humidité agglutine la poudre et favorise les moisissures. Utilisez toujours des ustensiles parfaitement secs."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Conserver les sachets non ouverts au congélateur ou au réfrigérateur — Stockage au Frais (360 jours) 📦",
-                        "text": "Le matcha non ouvert se conserve le plus longtemps lorsqu'il est congelé ou réfrigéré à l'abri de la lumière. 💡 Astuce de conservation : Gardez l'emballage d'origine opaque au congélateur (sous -18 °C) ou au réfrigérateur (0–5 °C). Non ouvert, il préserve sa couleur et ses nutriments pendant 1 an."
-                    },
-                    {
-                        "name": "Conserver le matcha ouvert dans un conteneur opaque et étanche au réfrigérateur — Stockage Réfrigéré (30–60 jours) ❄️",
-                        "text": "Dès l'ouverture, l'oxygène et la lumière dégradent le produit. 💡 Astuce de conservation : Transférez le matcha dans un conteneur hermétique opaque et placez-le au réfrigérateur (0–5 °C). Consommez dans les 1 à 2 mois pour bénéficier d'un taux maximal de catéchines et de saveur."
-                    },
-                    {
-                        "name": "Laisser le récipient revenir à température ambiante avant de l'ouvrir — Éviter la condensation 🌡️",
-                        "text": "Ouvrir un pot de matcha froid crée immédiatement de la condensation à l'intérieur en raison du choc thermique, ce qui humidifie la poudre. 💡 Astuce de conservation : Attendez 10 à 15 minutes après l'avoir sorti du réfrigérateur avant de l'ouvrir."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Ma poudre de matcha est devenue brunâtre au lieu de vert éclatant. Est-elle toujours propre à la consommation ?",
-                        "answer": "Oui, elle reste propre à la consommation, mais sa qualité et sa valeur nutritionnelle ont fortement diminué ! Ce changement de couleur résulte de la photo-oxydation qui détruit la chlorophylle et les catéchines (EGCG). Elle perd sa saveur umami fraîche et ses bienfaits antioxydants."
-                    },
-                    {
-                        "question": "Puis-je conserver du matcha ouvert dans mon placard à température ambiante ?",
-                        "answer": "La conservation à température ambiante est déconseillée ! Les fines particules se dégradent très vite sous l'effet de la chaleur, de l'humidité, de la lumière et de l'air ambiants, entraînant brunissement et grumeaux en quelques semaines. Conservez-le toujours au réfrigérateur dans un récipient opaque et étanche."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Matcha-Pulver richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Matcha-Pulver basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "MAFF & USDA & MFDS",
-                "intro": "Haben Sie schon einmal eine Packung Matcha-Pulver geöffnet und festgestellt, dass das leuchtende Grün zu einem blassen Braun nachgedunkelt war und das frische Aroma fehlte? 🍵\n\nMatcha-Pulver wird hergestellt, indem beschattete Teeblätter zu extrem feinen Partikeln vermahlen werden. Dadurch entsteht eine riesige Oberfläche, die Sauerstoff und Licht ausgesetzt ist. Infolgedessen unterliegen die wertvollen Antioxidantien—Catechine (EGCG)—und das kräftig grüne Chlorophyll einer raschen Photooxidation durch UV-Licht und Luft, was Nährstoffe zerstört und das Pulver bräunt. Zudem ist Matcha stark hygroskopisch und nimmt schnell Luftfeuchtigkeit auf, was zu Klumpen und Schimmelbildung führt.\n\nIn diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien des MAFF (Japan), der USDA und der MFDS basiert, um die kräftig grüne Farbe, den Umami-Geschmack und die Nährstoffe Ihres Matchas zu bewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der Partikelstruktur und der biochemischen Zusammensetzung jedes Lebensmittels ist entscheidend, um den Nährstoffabbau zu verhindern und die kräftige Farbe zu erhalten.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Vor Licht (UV) und Sauerstoffkontakt strikt schützen ☀️",
-                        "desc": "Da extrem feine Matcha-Partikel eine riesige Oberfläche haben, lösen Licht und Sauerstoff eine schnelle Photooxidation aus, die Catechine (EGCG) und Chlorophyll zerstört. Lagern Sie Matcha stets in einem lichtdichten, luftdichten Behälter (z. B. einer dunklen Dose oder Alubeutel)."
-                    },
-                    {
-                        "title": "Feuchtigkeitsaufnahme vermeiden, um Klumpen und Schimmel zu verhindern 💧",
-                        "desc": "Matcha-Pulver ist stark hygroskopisch und nimmt Umgebungsfeuchtigkeit rasch auf. Feuchtigkeit führt zu Klumpenbildung und mikrobiellem Wachstum. Verwenden Sie stets komplett trockene Utensilien."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Ungeöffnete Packungen im Gefrier- oder Kühlschrank lagern — Kaltlagerung (360 Tage) 📦",
-                        "text": "Ungeöffnetes Matcha-Pulver bleibt am längsten frisch, wenn es licht- und luftgeschützt eingefroren oder gekühlt wird. 💡 Lagerungstipp: Bewahren Sie die ungeöffnete Originalverpackung im Gefrierfach (unter -18 °C) oder Gemüsefach (0–5 °C) auf. Verschlossen bleibt die grüne Farbe und der Nährstoffgehalt 1 Jahr lang erhalten."
-                    },
-                    {
-                        "name": "Geöffneten Matcha in einer lichtdichten Dose im Kühlschrank aufbewahren — Kühllagerung (30–60 Tage) ❄️",
-                        "text": "Nach dem Öffnen setzt die Degradation durch Sauerstoff und Licht ein. 💡 Lagerungstipp: Füllen Sie den Matcha in einen lichtdichten, luftdichten Behälter um und kühlen Sie ihn bei 0–5 °C. Innerhalb von 1 bis 2 Monaten verbrauchen für optimalen EGCG-Gehalt und Geschmack."
-                    },
-                    {
-                        "name": "Behälter vor dem Öffnen auf Raumtemperatur erwärmen lassen — Kondenswasser verhindern 🌡️",
-                        "text": "Öffnet man eine kalte Matcha-Dose sofort, entsteht durch den Temperaturunterschied Kondensfeuchtigkeit im Inneren. 💡 Lagerungstipp: Warten Sie nach dem Entnehmen aus dem Kühlschrank 10 bis 15 Minuten, bis die Dose Raumtemperatur erreicht hat."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mein Matcha-Pulver hat sich braun verfärbt. Kann ich es noch verwenden?",
-                        "answer": "Ja, es ist gesundheitlich unbedenklich, aber die Qualität und der Nährstoffgehalt sind stark gesunken! Die Verfärbung ist das Ergebnis von Photooxidation, die Chlorophyll und Catechine (EGCG) durch Licht und Luft abbaut. Der frische Umami-Geschmack und die antioxidative Wirkung gehen verloren."
-                    },
-                    {
-                        "question": "Kann ich geöffnetes Matcha-Pulver im Vorratsschrank bei Raumtemperatur aufbewahren?",
-                        "answer": "Eine Lagerung bei Raumtemperatur wird nicht empfohlen! Die feinen Matcha-Partikel bauen bei Raumwärme, Feuchtigkeit, Licht und Sauerstoff schnell ab, verfärben sich braun und verklumpen binnen weniger Wochen. Lagern Sie Matcha geöffnet immer in einer lichtdichten Dose im Kühlschrank."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar o chá matcha em pó fresco: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para o chá matcha em pó com base em diretrizes oficiais de segurança.",
-                "authority": "MAFF & USDA & MFDS",
-                "intro": "Você já abriu um pacote de chá matcha em pó e descobriu que sua cor verde vibrante havia mudado para um tom castanho opaco e seu aroma fresco havia sumido? 🍵\n\nO matcha em pó é produzido moendo folhas de chá cultivadas à sombra até obter partículas ultra finas. Isso cria uma área de superfície enorme exposta ao oxigênio e à luz. Como resultado, seus principais antioxidantes—as catequinas (EGCG)—e a clorofila que dá a cor verde sofrem fotooxidação rápida (Photo-oxidation) quando expostos aos raios UV, luz e ar, destruindo nutrientes e escurecendo o pó. Além disso, o matcha é altamente higroscópico (Hygroscopicity), absorvendo a umidade do ar rapidamente, o que causa empelotamento e mofo.\n\nNeste guia, apresentamos um guia científico em 3 etapas baseado em diretrizes da MAFF (Japão), USDA e MFDS para preservar sua cor verde brilhante, sabor umami e nutrientes ativos. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender a estrutura de partículas e a composição bioquímica de cada alimento é essencial para evitar a perda de nutrientes e manter uma cor vibrante.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Proteja rigorosamente contra luz (UV) e exposição ao oxigênio ☀️",
-                        "desc": "Como as partículas ultra finas do matcha têm uma superfície imensa, a luz e o oxigênio causam fotooxidação rápida, degradando as catequinas (EGCG) e a clorofila para uma cor castanha. Guarde sempre em recipiente hermético e opaco (como lata escura ou saco de alumínio)."
-                    },
-                    {
-                        "title": "Evite a absorção de umidade para prevenir empelotamento e mofo 💧",
-                        "desc": "O matcha em pó é altamente higroscópico e absorve a umidade do ar rapidamente. A umidade gera grumos e cria ambiente favorável para microrganismos. Use sempre utensílios totalmente secos."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Guarde os pacotes fechados no congelador ou geladeira — Armazenamento Frio (360 dias) 📦",
-                        "text": "O matcha fechado permanece fresco por mais tempo quando mantido congelado ou refrigerado ao abrigo da luz. 💡 Dica de conservação: Mantenha a embalagem original opaca no congelador (abaixo de -18 °C) ou na geladeira (0–5 °C). Fechado, manterá sua cor e nutrientes por 1 ano."
-                    },
-                    {
-                        "name": "Guarde o matcha aberto em um recipiente opaco e hermético na geladeira — Armazenamento Refrigerado (30–60 dias) ❄️",
-                        "text": "Após aberto, a exposição ao oxigênio e luz acelera a degradação. 💡 Dica de conservação: Transfira o matcha para um recipiente hermético opaco e guarde na geladeira (0–5 °C). Consuma em 1 a 2 meses para obter o máximo sabor e teor de EGCG."
-                    },
-                    {
-                        "name": "Deixe o recipiente atingir a temperatura ambiente antes de abrir — Evite condensação 🌡️",
-                        "text": "Abrir o recipiente de matcha gelado gera condensação imediata no interior devido ao choque térmico, umedecendo o pó. 💡 Dica de conservação: Aguarde de 10 a 15 minutos após retirar da geladeira antes de abrir."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Meu matcha em pó mudou de verde brilhante para castanho. Ainda é seguro consumir?",
-                        "answer": "Sim, é seguro consumir, mas sua qualidade e valor nutricional caíram drasticamente! A mudança de cor é resultado da fotooxidação que destrói a clorofila e as catequinas (EGCG) em contato com a luz e o ar. Ele perde seu sabor umami fresco e os benefícios antioxidantes."
-                    },
-                    {
-                        "question": "Posso guardar o matcha aberto no armário em temperatura ambiente?",
-                        "answer": "Não é recomendável guardar em temperatura ambiente! As partículas finas do matcha se degradam rapidamente com o calor, umidade, luz e oxigênio do ambiente, ficando castanhas e empelotadas em poucas semanas. Guarde sempre o matcha aberto na geladeira em um recipiente opaco e hermético."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Bubuk Matcha agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk bubuk Matcha berdasarkan pedoman keselamatan resmi.",
-                "authority": "MAFF & USDA & MFDS",
-                "intro": "Pernahkah Anda membuka kemasan bubuk matcha lalu menemukan warna hijau cerahnya telah pudar menjadi kecokelatan dan aroma segarnya hilang? 🍵\n\nBubuk matcha dibuat dengan menggiling daun teh yang ditanam di bawah naungan menjadi partikel sangat halus. Hal ini menciptakan luas permukaan yang sangat besar yang terpapar oksigen dan cahaya. Akibatnya, antioksidan utamanya—katekina (EGCG)—dan klorofil yang memberikan warna hijau cerah akan mengalami foto-oksidasi (Photo-oxidation) cepat saat terpapar sinar UV, cahaya, dan udara, yang merusak nutrisi dan memicu warna kecokelatan. Selain itu, matcha memiliki higroskopisitas (Hygroscopicity) tinggi sehingga cepat menyerap kelembapan udara yang menyebabkan penggumpalan dan jamur.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan standar MAFF (Jepang), USDA, dan MFDS untuk menjaga warna hijau cerah, rasa umami, dan nutrisi aktif matcha Anda. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami struktur partikel dan komposisi biokimia unik dari setiap bahan makanan sangat penting untuk mencegah kerusakan nutrisi dan mempertahankan warna yang cerah.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Lindungi secara ketat dari paparan cahaya (UV) dan oksigen ☀️",
-                        "desc": "Partikel ultra-halus matcha memiliki luas permukaan masif sehingga cahaya dan oksigen memicu foto-oksidasi cepat, merusak katekina (EGCG) dan klorofil menjadi cokelat pudar. Selalu simpan dalam wadah kedap udara yang buram/kedap cahaya (seperti kaleng gelap atau kantong aluminium)."
-                    },
-                    {
-                        "title": "Waspadai penyerapan kelembapan yang menyebabkan penggumpalan dan jamur 💧",
-                        "desc": "Bubuk matcha sangat higroskopis dan cepat menyerap kelembapan udara. Kelembapan memicu penggumpalan dan menciptakan lingkungan bagi mikroorganisme. Selalu gunakan peralatan yang benar-benar kering."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Simpan kemasan yang belum dibuka di freezer atau kulkas — Simpan Dingin (360 Hari) 📦",
-                        "text": "Bubuk matcha yang belum dibuka bertahan paling segar jika disimpan beku atau dingin terlindung dari cahaya. 💡 Tips Penyimpanan: Simpan kemasan asli yang kedap cahaya di freezer (di bawah -18°C) atau kulkas (0–5°C). Dalam keadaan tertutup rapat, warna cerah dan nutrisinya terjaga hingga 1 tahun."
-                    },
-                    {
-                        "name": "Simpan matcha yang sudah dibuka dalam wadah kedap udara buram di kulkas — Simpan Kulkas (30–60 Hari) ❄️",
-                        "text": "Setelah dibuka, paparan oksigen dan cahaya mulai merusak kualitasnya. 💡 Tips Penyimpanan: Pindahkan matcha yang sudah dibuka ke dalam wadah kedap udara buram lalu simpan di kulkas (0–5°C). Konsumsi dalam 1 hingga 2 bulan untuk menikmati kadar EGCG dan rasa terbaik."
-                    },
-                    {
-                        "name": "Biarkan wadah mencapai suhu ruang sebelum dibuka — Mencegah Kondensasi 🌡️",
-                        "text": "Membuka wadah matcha yang dingin secara langsung akan memicu kondensasi (embun) di dalam wadah akibat perbedaan suhu, membuat bubuk lembap. 💡 Tips Penyimpanan: Tunggu 10 hingga 15 menit setelah dikeluarkan dari kulkas hingga wadah mencapai suhu ruang sebelum dibuka."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Bubuk matcha saya berubah warna dari hijau cerah menjadi kecokelatan. Apakah masih aman dikonsumsi?",
-                        "answer": "Ya, masih aman dikonsumsi, tetapi kualitas dan nutrisinya telah menurun drastis! Perubahan warna adalah hasil dari foto-oksidasi yang merusak klorofil dan katekina (EGCG) akibat paparan cahaya dan udara. Matcha kehilangan rasa umami segar dan manfaat antioksidannya."
-                    },
-                    {
-                        "question": "Bolehkah menyimpan bubuk matcha yang sudah dibuka di lemari dapur suhu ruang?",
-                        "answer": "Penyimpanan di suhu ruang tidak disarankan! Partikel halus matcha rusak dengan sangat cepat oleh panas, kelembapan, cahaya, dan udara di suhu ruang, berubah menjadi cokelat dan menggumpal dalam beberapa minggu. Selalu simpan matcha yang sudah dibuka di kulkas dalam wadah kedap udara buram."
-                    }
-                ]
-            }
-        }
+  "how-to-store-matcha-powder": {
+    "ingId": "matcha-powder",
+    "pubDate": "2026-03-02",
+    "updatedDate": "2026-03-02",
+    "heroImage": "/images/blog/matcha_powder_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "말차 가루 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 말차 가루의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "일본 농림수산성(MAFF) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+        "intro": "말차 가루를 개봉해두었다가 특유의 선명한 초록빛이 칙칙한 갈색으로 변하거나 향이 날아가 당황하신 적 있으시죠? 🍵\n\n말차 가루는 차나무 잎을 맷돌이나 미세 분쇄기로 매우 가늘게 빻아 만든 식재료로, 입자가 매우 미세하여 공기와 빛에 노출되는 표면적이 극도로 넓습니다. 이 때문에 강력한 항산화 성분인 카테킨(EGCG)과 선명한 색을 내는 엽록소(Chlorophyll)가 UV/빛과 공기 중 산소에 노출되면 순식간에 광산화(Photo-oxidation)되어 갈색으로 변하고 영양소가 파괴됩니다. 또한 높은 흡습성(Hygroscopicity)을 가져 습기를 흡수하면 덩어리지고 곰팡이가 쉽게 번식합니다.\n\n이번 가이드에서는 일본 농림수산성(MAFF), USDA, 식품의약품안전처의 검증된 가이드라인을 바탕으로, 말차 가루의 선명한 빛깔과 유효 성분을 오랫동안 신선하게 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 입자 구조와 생화학적 성분 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 영양소 파괴 방지와 선명한 색상 유지에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "직사광선 및 형광등 빛(UV)과 산소 노출을 강력히 차단하세요 ☀️",
+            "desc": "말차 가루의 미세 입자는 표면적이 넓어 빛과 산소에 노출되는 즉시 광산화 반응이 일어나 카테킨(EGCG)과 엽록소가 파괴되고 갈색으로 변색됩니다. 반드시 빛이 완전히 차단되는 차광 밀폐 용기(차광 캔, 알루미늄 지퍼백 등)에 보관해야 합니다."
+          },
+          {
+            "title": "습기 유입으로 인한 뭉침 및 곰팡이 번식을 주의하세요 💧",
+            "desc": "말차 가루는 흡습성(Hygroscopicity)이 매우 높아 공기 중 수분을 빠르게 흡수합니다. 수분이 들어가면 입자가 뭉치고 미생물이 번식하기 좋은 환경이 되므로, 물기가 없는 건조한 전용 도구만 사용해야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "개봉 전에는 차광 상태로 냉동 또는 냉장 보관하기 — 저온 보관 (360일) 📦",
+            "text": "미개봉 말차 가루는 빛과 공기가 차단된 상태에서 저온 보관할 때 신선도가 가장 오래 유지됩니다. 💡 보관 팁: 차광 포장 그대로 냉동실(-18℃ 이하)이나 냉장고 야채칸(0~5℃)에 보관하세요. 개봉 전 상태에서는 1년 동안 선명한 색과 영양 성분이 변질 없이 유지됩니다."
+          },
+          {
+            "name": "개봉 후에는 차광 밀폐 용기에 담아 냉장 보관하기 — 냉장 보관 (30~60일) ❄️",
+            "text": "개봉 즉시 산소와 결합하기 시작하므로 신속한 차광 및 저온 보관이 필수적입니다. 💡 보관 팁: 알루미늄 파우치나 불투명 차광 용기에 담아 냉장고(0~5℃)에 보관하세요. 개봉 후에는 1~2개월 이내에 소비하는 것이 최상의 맛과 카테킨 함량을 즐기는 방법입니다."
+          },
+          {
+            "name": "냉장고에서 꺼낸 직후에는 상온 완충 후 개봉하기 — 결로 방지 🌡️",
+            "text": "차가운 상태의 차통을 바로 열면 내부와 외부의 온도 차이로 인해 용기 내부에 결로(이슬 맺힘)가 발생하여 말차 가루가 습기를 먹게 됩니다. 💡 보관 팁: 냉장고에서 꺼낸 뒤 용기가 상온과 비슷한 온도가 될 때까지 10~15분간 기다렸다가 개봉해 주세요."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "말차 가루 색깔이 초록색에서 갈색으로 변했는데 먹어도 되나요?",
+            "answer": "섭취해도 건강에 유해하지는 않지만 품질이 크게 저하된 상태입니다! 갈변 현상은 빛과 산소에 의해 카테킨(EGCG)과 엽록소가 파괴된 광산화 반응 결과입니다. 변색된 말차 가루는 항산화 성분이 크게 줄어들고 특유의 풋풋한 향과 감칠맛이 사라져 쓰거나 밋밋한 맛이 납니다."
+          },
+          {
+            "question": "개봉한 말차 가루를 상온 찬장에 보관해도 괜찮나요?",
+            "answer": "상온 보관은 추천하지 않습니다! 말차 가루는 미세 입자 구조라 상온의 빛, 산소, 습기에 매우 취약합니다. 상온에 두면 몇 주 만에 색이 변하고 흡습으로 인해 덩어리가 집니다. 반드시 빛이 차단되는 차광 밀폐 용기에 담아 냉장 보관해야 선명한 초록빛과 풍미를 유지할 수 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Matcha Powder Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for Matcha Powder based on official safety guidelines.",
+        "authority": "MAFF & USDA & MFDS",
+        "intro": "Have you ever opened a pouch of matcha powder only to find its vivid green color dulled to a brownish hue and its aromatic freshness gone? 🍵\n\nMatcha powder is made by stone-grinding shade-grown tea leaves into ultra-fine particles. This creates an extremely large surface area exposed to oxygen and light. As a result, its key antioxidants—catechins (EGCG)—and vibrant green chlorophyll rapidly undergo photo-oxidation when exposed to UV light, ambient light, and air, destroying nutrients and browning the powder. Furthermore, matcha exhibits high hygroscopicity, quickly absorbing atmospheric moisture which causes clumping and mold growth.\n\nIn this guide, we share a scientifically proven 3-step matcha powder storage guide based on standards from MAFF (Japan), USDA, and MFDS to preserve its bright green color, umami flavor, and active nutrients. 🛡️",
+        "whyTitle": "Why Store Matcha Powder This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique particle structure and biochemical composition of each food item and applying proper storage methods is essential for preventing nutrient loss and maintaining vibrant color.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Strongly shield from light (UV) and oxygen exposure ☀️",
+            "desc": "Because ultra-fine matcha particles have a massive surface area, light and oxygen trigger rapid photo-oxidation, degrading catechins (EGCG) and chlorophyll into a dull brown. Always store in a light-proof, opaque airtight container (such as a dark tin or aluminum pouch)."
+          },
+          {
+            "title": "Beware of moisture absorption causing clumping and mold growth 💧",
+            "desc": "Matcha powder is highly hygroscopic and rapidly absorbs ambient moisture. Dampness leads to particle clumping and creates a breeding ground for microorganisms. Always use completely dry utensils."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Store unopened packages in the freezer or refrigerator — Cold Storage (360 Days) 📦",
+            "text": "Unopened matcha powder stays freshest when kept frozen or chilled away from light and oxygen. 💡 Storage Tip: Keep unopened original packaging in the freezer (below -18°C) or refrigerator crisper (0–5°C / 32–41°F). Sealed matcha maintains its vibrant color and nutrient profile for up to 1 year."
+          },
+          {
+            "name": "Keep opened matcha in an opaque airtight container in the fridge — Refrigerated Storage (30–60 Days) ❄️",
+            "text": "Once opened, rapid oxygen and light exposure begin degradation. 💡 Storage Tip: Transfer opened matcha into an opaque, airtight light-proof container and refrigerate at 0–5°C (32–41°F). Consume within 1 to 2 months for peak EGCG content and flavor."
+          },
+          {
+            "name": "Allow container to reach room temperature before opening — Prevent Condensation 🌡️",
+            "text": "Opening a cold matcha container immediately creates condensation inside due to temperature differences, exposing the powder to moisture. 💡 Storage Tip: Wait 10 to 15 minutes after removing from the fridge until the container reaches room temperature before opening."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "My matcha powder turned from bright green to brownish. Is it still safe to consume?",
+            "answer": "Yes, it is safe, but its quality and nutrition have significantly degraded! The color change is a result of photo-oxidation breaking down chlorophyll and catechins (EGCG) from exposure to light and air. While not harmful, it loses its vibrant umami flavor, fresh aroma, and antioxidant benefits."
+          },
+          {
+            "question": "Can I store opened matcha powder in a room-temperature pantry?",
+            "answer": "Room temperature storage is not recommended! Ultra-fine matcha particles degrade rapidly when exposed to ambient heat, humidity, light, and oxygen. Storing it at room temperature causes rapid browning and clumping within weeks. Always store opened matcha in a light-proof airtight container in the refrigerator."
+          }
+        ]
+      },
+      "ja": {
+        "title": "抹茶パウダーを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づく抹茶パウダーの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "農林水産省(MAFF) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "抹茶パウダーを開封して置いておいたら、特有の鮮やかな緑色がくすんだ茶色に変色したり、香りが飛んでしまったりして驚いたことはありませんか？🍵\n\n抹茶パウダーは茶葉を石臼などで超微粒子に粉砕して作られるため、空気や光に触れる表面積が極めて広いという特徴を持っています。そのため、強力な抗酸化成分であるカテキン（EGCG）や鮮やかな色を出す葉緑素（クロロフィル）が、紫外線や光、空気中の酸素に触れると一瞬で光酸化（Photo-oxidation）を起こし、茶色く変色して栄養素が破壊されてしまいます。また、高い吸湿性（Hygroscopicity）を持つため、湿気を吸うとダマになりカビが繁殖しやすくなります。\n\n本記事では、農林水産省（MAFF）、USDA、食品医薬品安全処のガイドラインに基づき、抹茶の鮮やかな色と有効成分を長期間保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？ 科学的ファクト",
+        "whyDesc": "食材ごとの固有の粒子構造や生化学的成分特性を理解し、それに合った正しい保存方法を実践することは、栄養素の破壊防止と鮮やかな色彩の維持において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "直射日光・蛍光灯の光（UV）と酸素への露出を強力に遮断してください ☀️",
+            "desc": "抹茶パウダーの粒子は表面積が広いため、光や酸素に触れるとすぐに光酸化反応を起こし、カテキン（EGCG）やクロロフィルが破壊されて茶色に変色します。必ず光を完全に遮る遮光密閉容器（遮光缶やアルミジッパーバッグなど）で保管してください。"
+          },
+          {
+            "title": "湿気混入によるダマやカビの発生に注意してください 💧",
+            "desc": "抹茶パウダーは吸湿性（Hygroscopicity）が非常に高く、空気中の水分を急速に吸収します。水分が入ると粒子が固まり微生物が繁殖しやすくなるため、必ず水気のない乾いた器具を使用してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "開封前は遮光状態で冷凍または冷蔵保存する — 低温保存 (360日間) 📦",
+            "text": "未開封の抹茶パウダーは、光と空気が遮断された状態で低温保存することで鮮度が最も長く保たれます。💡保存のコツ：遮光包装のまま冷凍室（-18℃以下）または冷蔵庫の野菜室（0〜5℃）で保存してください。未開封であれば1年間、鮮やかな色と栄養成分が維持されます。"
+          },
+          {
+            "name": "開封後は遮光密閉容器に入れて冷蔵保存する — 冷蔵保存 (30〜60日間) ❄️",
+            "text": "開封した瞬間から酸素と結合し始めるため、迅速な遮光と低温保存が不可欠です。💡保存のコツ：アルミパウチや不透明な遮光容器に移し、冷蔵庫（0〜5℃）で保存してください。開封後は1〜2ヶ月以内に使い切るのが最も美味しい状態とカテキン量を味わうコツです。"
+          },
+          {
+            "name": "冷蔵庫から出した直後は常温に戻してから開封する — 結露防止 🌡️",
+            "text": "キンキンに冷えた状態で缶を開けると、温度差により容器内部に結露（水滴）が発生し、抹茶が湿気を吸ってしまいます。💡保存のコツ：冷蔵庫から取り出したら、容器が常温近くになるまで10〜15分ほど待ってから開封してください。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "抹茶パウダーの色が緑から茶色に変色しましたが、使っても大丈夫ですか？",
+            "answer": "使用しても体に害はありませんが、品質は大きく低下しています！変色現象は、光や酸素によってカテキン（EGCG）やクロロフィルが破壊された光酸化反応の結果です。変色した抹茶は抗酸化成分が大幅に減少し、抹茶特有の爽やかな風味や旨味が消えて苦味や雑味が目立つようになります。"
+          },
+          {
+            "question": "開封した抹茶パウダーを常温の棚に保管してもいいですか？",
+            "answer": "常温保存はおすすめできません！抹茶パウダーは微粒子構造のため、常温の光、酸素、湿気に非常に弱いです。常温に置くと数週間で色が変わり、吸湿してダマになります。必ず光を遮る遮光密閉容器に入れて冷蔵保存することで、鮮やかな緑色と風味を維持できます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持抹茶粉新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解抹茶粉的最佳储存温度、方式及保鲜时长。",
+        "authority": "日本农林水产省(MAFF) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "您是否曾遇到过开封后的抹茶粉，其原本鲜艳的翠绿色变成了沉闷的褐色，特有的鲜香气味也挥发殆尽的情况？🍵\n\n抹茶粉是由遮阴覆盖栽培的茶叶经石磨或超细粉碎技术研磨而成的，其颗粒极其微细，暴露于空气和光照下的比表面积极大。因此，其核心抗氧化成分儿茶素（EGCG）和呈现鲜艳绿色的叶绿素（Chlorophyll）在接触紫外线、光照及空气中的氧气时，会迅速发生光氧化（Photo-oxidation）反应，导致变褐和营养破坏。此外，抹茶粉具有很强的吸湿性（Hygroscopicity），吸收水分后极易结块并滋生霉菌。\n\n本指南基于日本农林水产省（MAFF）、USDA及韩国MFDS的权威标准，为您带来3步科学保存秘诀，帮您长久锁定抹茶粉的翠绿色彩与营养活性。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的颗粒结构与生物化学成分特性并遵循正确的储存方法，对于防止营养成分破坏与维持鲜艳色彩至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "严防光照（紫外线）与氧气暴露 ☀️",
+            "desc": "超细抹茶颗粒的比表面积巨大，接触光照和氧气会立即引发光氧化反应，破坏儿茶素（EGCG）和叶绿素并使其变褐色。务必存放在完全避光的密封容器（如遮光铁罐、铝箔拉链袋）中。"
+          },
+          {
+            "title": "谨防吸湿导致结块与霉菌滋生 💧",
+            "desc": "抹茶粉具有极高的吸湿性（Hygroscopicity），会迅速吸收空气中的潮气。水分进入后会导致颗粒结块并为微生物滋生创造条件。取用时请务必使用干燥无水的干净工具。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "开封前避光冷冻或冷藏保存 — 低温保存 (360天) 📦",
+            "text": "未开封的抹茶粉在隔绝光线和空气的低温环境下保鲜期最长。💡储存小贴士：保持原装遮光包装放入冷冻室（-18℃以下）或冷藏室（0~5℃）。未开封状态下，其鲜艳色彩与营养成分可完好保持1年。"
+          },
+          {
+            "name": "开封后装入避光密封罐冷藏 — 冷藏保存 (30~60天) ❄️",
+            "text": "开封瞬间即开始与氧气接触，因此迅速避光与低温冷藏至关重要。💡储存小贴士：装入铝箔袋或不透明避光罐中放入冰箱冷藏（0~5℃）。开封后建议在1~2个月内用完，以享受最佳的风味与儿茶素活性。"
+          },
+          {
+            "name": "从冰箱取出后置于常温回温后再开封 — 防止凝露 🌡️",
+            "text": "若直接打开冰冷的抹茶罐，温差会导致罐内产生凝露（水珠），使抹茶粉吸潮变质。💡储存小贴士：从冰箱取出后，请静置10~15分钟，待容器恢复至常温后再打开使用。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "抹茶粉的颜色从翠绿变成了褐色，还能食用吗？",
+            "answer": "可以安全食用，但其品质和营养价值已大幅下降！变色是叶绿素和儿茶素（EGCG）因光照和氧气作用发生光氧化的自然结果。变褐色后的抹茶粉抗氧化成分大幅减少，特有的清香与鲜甜风味也会消失，口感会变得发苦发平淡。"
+          },
+          {
+            "question": "开封后的抹茶粉可以放在常温橱柜里吗？",
+            "answer": "不建议常温保存！抹茶粉微粒结构对常温下的光照、氧气和湿气极其敏感。放在常温下短短几周内就会变色结块。务必装入避光密封容器并放入冰箱冷藏，才能长久保持其鲜艳的翠绿色与风味。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener el té matcha en polvo fresco: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para el té matcha en polvo según las directrices oficiales de seguridad.",
+        "authority": "MAFF & USDA & MFDS",
+        "intro": "¿Alguna vez abrió un paquete de té matcha en polvo solo para descubrir que su vibrante color verde se había volcado a un tono marrón apagado y su frescura había desaparecido? 🍵\n\nEl té matcha en polvo se elabora moliendo hojas de té cultivadas a la sombra hasta obtener partículas extremadamente finas. Esto crea una superficie masiva expuesta al oxígeno y a la luz. Como resultado, sus potentes antioxidantes—las catequinas (EGCG)—y la clorofila que le da su color verde vivo se fotooxidan rápidamente (Photo-oxidation) al contacto con los rayos UV, la luz ambiental y el aire, destruyendo nutrientes y oscureciendo el polvo. Además, el matcha posee una alta higroscopicidad (Hygroscopicity), por lo que absorbe la humedad del aire provocando grumos y moho.\n\nEn esta guía se presenta una guía científica en 3 pasos basada en las directrices de la MAFF (Japón), el USDA y el MFDS para conservar su vivo color verde, su sabor umami y sus nutrientes. 🛡️",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender la estructura de partículas y la composición bioquímica de cada alimento es fundamental para evitar la pérdida de nutrientes y mantener un color vibrante.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Proteja fuertemente de la luz (UV) y de la exposición al oxígeno ☀️",
+            "desc": "Las partículas ultra finas del matcha tienen una superficie masiva, por lo que la luz y el oxígeno desencadenan una rápida fotooxidación que degrada las catequinas (EGCG) y la clorofila a un color marrón. Guárdelo siempre en un recipiente hermético y opaco a la luz (como una lata oscura o bolsa de aluminio)."
+          },
+          {
+            "title": "Evite la absorción de humedad para prevenir grumos y moho 💧",
+            "desc": "El té matcha es altamente higroscópico y absorbe rápidamente la humedad ambiental. La humedad genera grumos y un entorno propenso a microorganismos. Use siempre utensilios completamente secos."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Guarde los paquetes sin abrir en el congelador o refrigerador — Temp. Baja (360 días) 📦",
+            "text": "El matcha sin abrir se mantiene fresco por más tiempo si se conserva congelado o refrigerado al abrigo de la luz. 💡 Consejo de almacenamiento: Conserve el paquete original opaco en el congelador (bajo -18 °C) o refrigerador (0–5 °C). Sin abrir, mantendrá su color y nutrientes durante 1 año."
+          },
+          {
+            "name": "Guarde el matcha abierto en un recipiente opaco y hermético en el refrigerador — Almacenamiento Refrigerado (30–60 días) ❄️",
+            "text": "Una vez abierto, la exposición al oxígeno y luz acelera la degradación. 💡 Consejo de almacenamiento: Traslade el matcha a un recipiente hermético opaco y refrigérelo (0–5 °C). Consúmalo en un plazo de 1 a 2 meses para disfrutar del máximo contenido de EGCG y sabor."
+          },
+          {
+            "name": "Deje que el recipiente alcance la temperatura ambiente antes de abrirlo — Evite la condensación 🌡️",
+            "text": "Abrir un recipiente de matcha frío genera condensación instantánea en el interior debido a la diferencia de temperatura, humedeciendo el polvo. 💡 Consejo de almacenamiento: Espere de 10 a 15 minutos tras sacarlo del refrigerador antes de abrir."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mi matcha en polvo pasó de verde brillante a marrón. ¿Es seguro consumirlo?",
+            "answer": "Sí, es seguro, pero su calidad y nutrición se han reducido drásticamente. El cambio de color es el resultado de la fotooxidación que destruye la clorofila y las catequinas (EGCG) al contacto con la luz y el aire. Pierde su sabor umami fresco y sus beneficios antioxidantes."
+          },
+          {
+            "question": "¿Puedo guardar el matcha abierto en la despensa a temperatura ambiente?",
+            "answer": "No se recomienda guardarlo a temperatura ambiente. Sus finas partículas se degradan rápido con el calor, humedad, luz y oxígeno ambientales, volviéndose marrón y apelmazándose en pocas semanas. Guárdelo siempre en un recipiente opaco y hermético en el refrigerador."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver le thé matcha en poudre frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le thé matcha en poudre selon les directives officielles de sécurité.",
+        "authority": "MAFF & USDA & MFDS",
+        "intro": "Avez-vous déjà ouvert un sachet de thé matcha en poudre pour constater que sa couleur vert vif s'était ternie en un brun verdâtre et que son arôme avait disparu ? 🍵\n\nLe matcha en poudre est obtenu en broyant des feuilles de thé ombragées en de très fines particules. Cela crée une surface d'exposition au dioxygène et à la lumière extrêmement vaste. En conséquence, ses antioxydants clés—les catéchines (EGCG)—et la chlorophylle qui lui donne sa belle couleur verte subissent une photo-oxydation rapide sous l'effet des UV, de la lumière et de l'air, détruisant ses nutriments et brunissant la poudre. De plus, le matcha est très hygroscopique et absorbe rapidement l'humidité ambiante, ce qui provoque des grumeaux et du moisissement.\n\nDans ce guide, nous vous présentons un guide scientifique en 3 étapes basé sur les normes du MAFF (Japon), de l'USDA et du MFDS pour préserver sa couleur vert éclatant, sa saveur umami et ses nutriments. 🛡️",
+        "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre la structure particulaire et la composition biochimique de chaque ingrédient est essentiel pour éviter la dégradation des nutriments et maintenir une couleur éclatante.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Protégez impérativement de la lumière (UV) et de l'oxygène ☀️",
+            "desc": "En raison de la immense surface d'exposition des particules de matcha, la lumière et l'oxygène déclenchent une photo-oxydation rapide qui détruit les catéchines (EGCG) et la chlorophylle. Conservez-le toujours dans un récipient étanche et opaque (boîte métallique sombre ou sachet en aluminium)."
+          },
+          {
+            "title": "Évitez l'absorption d'humidité pour empêcher les grumeaux et moisissures 💧",
+            "desc": "Le matcha est extrêmement hygroscopique et absorbe rapidement l'humidité de l'air. L'humidité agglutine la poudre et favorise les moisissures. Utilisez toujours des ustensiles parfaitement secs."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Conserver les sachets non ouverts au congélateur ou au réfrigérateur — Stockage au Frais (360 jours) 📦",
+            "text": "Le matcha non ouvert se conserve le plus longtemps lorsqu'il est congelé ou réfrigéré à l'abri de la lumière. 💡 Astuce de conservation : Gardez l'emballage d'origine opaque au congélateur (sous -18 °C) ou au réfrigérateur (0–5 °C). Non ouvert, il préserve sa couleur et ses nutriments pendant 1 an."
+          },
+          {
+            "name": "Conserver le matcha ouvert dans un conteneur opaque et étanche au réfrigérateur — Stockage Réfrigéré (30–60 jours) ❄️",
+            "text": "Dès l'ouverture, l'oxygène et la lumière dégradent le produit. 💡 Astuce de conservation : Transférez le matcha dans un conteneur hermétique opaque et placez-le au réfrigérateur (0–5 °C). Consommez dans les 1 à 2 mois pour bénéficier d'un taux maximal de catéchines et de saveur."
+          },
+          {
+            "name": "Laisser le récipient revenir à température ambiante avant de l'ouvrir — Éviter la condensation 🌡️",
+            "text": "Ouvrir un pot de matcha froid crée immédiatement de la condensation à l'intérieur en raison du choc thermique, ce qui humidifie la poudre. 💡 Astuce de conservation : Attendez 10 à 15 minutes après l'avoir sorti du réfrigérateur avant de l'ouvrir."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Ma poudre de matcha est devenue brunâtre au lieu de vert éclatant. Est-elle toujours propre à la consommation ?",
+            "answer": "Oui, elle reste propre à la consommation, mais sa qualité et sa valeur nutritionnelle ont fortement diminué ! Ce changement de couleur résulte de la photo-oxydation qui détruit la chlorophylle et les catéchines (EGCG). Elle perd sa saveur umami fraîche et ses bienfaits antioxydants."
+          },
+          {
+            "question": "Puis-je conserver du matcha ouvert dans mon placard à température ambiante ?",
+            "answer": "La conservation à température ambiante est déconseillée ! Les fines particules se dégradent très vite sous l'effet de la chaleur, de l'humidité, de la lumière et de l'air ambiants, entraînant brunissement et grumeaux en quelques semaines. Conservez-le toujours au réfrigérateur dans un récipient opaque et étanche."
+          }
+        ]
+      },
+      "de": {
+        "title": "Matcha-Pulver richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Matcha-Pulver basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "MAFF & USDA & MFDS",
+        "intro": "Haben Sie schon einmal eine Packung Matcha-Pulver geöffnet und festgestellt, dass das leuchtende Grün zu einem blassen Braun nachgedunkelt war und das frische Aroma fehlte? 🍵\n\nMatcha-Pulver wird hergestellt, indem beschattete Teeblätter zu extrem feinen Partikeln vermahlen werden. Dadurch entsteht eine riesige Oberfläche, die Sauerstoff und Licht ausgesetzt ist. Infolgedessen unterliegen die wertvollen Antioxidantien—Catechine (EGCG)—und das kräftig grüne Chlorophyll einer raschen Photooxidation durch UV-Licht und Luft, was Nährstoffe zerstört und das Pulver bräunt. Zudem ist Matcha stark hygroskopisch und nimmt schnell Luftfeuchtigkeit auf, was zu Klumpen und Schimmelbildung führt.\n\nIn diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Richtlinien des MAFF (Japan), der USDA und der MFDS basiert, um die kräftig grüne Farbe, den Umami-Geschmack und die Nährstoffe Ihres Matchas zu bewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der Partikelstruktur und der biochemischen Zusammensetzung jedes Lebensmittels ist entscheidend, um den Nährstoffabbau zu verhindern und die kräftige Farbe zu erhalten.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Vor Licht (UV) und Sauerstoffkontakt strikt schützen ☀️",
+            "desc": "Da extrem feine Matcha-Partikel eine riesige Oberfläche haben, lösen Licht und Sauerstoff eine schnelle Photooxidation aus, die Catechine (EGCG) und Chlorophyll zerstört. Lagern Sie Matcha stets in einem lichtdichten, luftdichten Behälter (z. B. einer dunklen Dose oder Alubeutel)."
+          },
+          {
+            "title": "Feuchtigkeitsaufnahme vermeiden, um Klumpen und Schimmel zu verhindern 💧",
+            "desc": "Matcha-Pulver ist stark hygroskopisch und nimmt Umgebungsfeuchtigkeit rasch auf. Feuchtigkeit führt zu Klumpenbildung und mikrobiellem Wachstum. Verwenden Sie stets komplett trockene Utensilien."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Ungeöffnete Packungen im Gefrier- oder Kühlschrank lagern — Kaltlagerung (360 Tage) 📦",
+            "text": "Ungeöffnetes Matcha-Pulver bleibt am längsten frisch, wenn es licht- und luftgeschützt eingefroren oder gekühlt wird. 💡 Lagerungstipp: Bewahren Sie die ungeöffnete Originalverpackung im Gefrierfach (unter -18 °C) oder Gemüsefach (0–5 °C) auf. Verschlossen bleibt die grüne Farbe und der Nährstoffgehalt 1 Jahr lang erhalten."
+          },
+          {
+            "name": "Geöffneten Matcha in einer lichtdichten Dose im Kühlschrank aufbewahren — Kühllagerung (30–60 Tage) ❄️",
+            "text": "Nach dem Öffnen setzt die Degradation durch Sauerstoff und Licht ein. 💡 Lagerungstipp: Füllen Sie den Matcha in einen lichtdichten, luftdichten Behälter um und kühlen Sie ihn bei 0–5 °C. Innerhalb von 1 bis 2 Monaten verbrauchen für optimalen EGCG-Gehalt und Geschmack."
+          },
+          {
+            "name": "Behälter vor dem Öffnen auf Raumtemperatur erwärmen lassen — Kondenswasser verhindern 🌡️",
+            "text": "Öffnet man eine kalte Matcha-Dose sofort, entsteht durch den Temperaturunterschied Kondensfeuchtigkeit im Inneren. 💡 Lagerungstipp: Warten Sie nach dem Entnehmen aus dem Kühlschrank 10 bis 15 Minuten, bis die Dose Raumtemperatur erreicht hat."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mein Matcha-Pulver hat sich braun verfärbt. Kann ich es noch verwenden?",
+            "answer": "Ja, es ist gesundheitlich unbedenklich, aber die Qualität und der Nährstoffgehalt sind stark gesunken! Die Verfärbung ist das Ergebnis von Photooxidation, die Chlorophyll und Catechine (EGCG) durch Licht und Luft abbaut. Der frische Umami-Geschmack und die antioxidative Wirkung gehen verloren."
+          },
+          {
+            "question": "Kann ich geöffnetes Matcha-Pulver im Vorratsschrank bei Raumtemperatur aufbewahren?",
+            "answer": "Eine Lagerung bei Raumtemperatur wird nicht empfohlen! Die feinen Matcha-Partikel bauen bei Raumwärme, Feuchtigkeit, Licht und Sauerstoff schnell ab, verfärben sich braun und verklumpen binnen weniger Wochen. Lagern Sie Matcha geöffnet immer in einer lichtdichten Dose im Kühlschrank."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar o chá matcha em pó fresco: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para o chá matcha em pó com base em diretrizes oficiais de segurança.",
+        "authority": "MAFF & USDA & MFDS",
+        "intro": "Você já abriu um pacote de chá matcha em pó e descobriu que sua cor verde vibrante havia mudado para um tom castanho opaco e seu aroma fresco havia sumido? 🍵\n\nO matcha em pó é produzido moendo folhas de chá cultivadas à sombra até obter partículas ultra finas. Isso cria uma área de superfície enorme exposta ao oxigênio e à luz. Como resultado, seus principais antioxidantes—as catequinas (EGCG)—e a clorofila que dá a cor verde sofrem fotooxidação rápida (Photo-oxidation) quando expostos aos raios UV, luz e ar, destruindo nutrientes e escurecendo o pó. Além disso, o matcha é altamente higroscópico (Hygroscopicity), absorvendo a umidade do ar rapidamente, o que causa empelotamento e mofo.\n\nNeste guia, apresentamos um guia científico em 3 etapas baseado em diretrizes da MAFF (Japão), USDA e MFDS para preservar sua cor verde brilhante, sabor umami e nutrientes ativos. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender a estrutura de partículas e a composição bioquímica de cada alimento é essencial para evitar a perda de nutrientes e manter uma cor vibrante.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Proteja rigorosamente contra luz (UV) e exposição ao oxigênio ☀️",
+            "desc": "Como as partículas ultra finas do matcha têm uma superfície imensa, a luz e o oxigênio causam fotooxidação rápida, degradando as catequinas (EGCG) e a clorofila para uma cor castanha. Guarde sempre em recipiente hermético e opaco (como lata escura ou saco de alumínio)."
+          },
+          {
+            "title": "Evite a absorção de umidade para prevenir empelotamento e mofo 💧",
+            "desc": "O matcha em pó é altamente higroscópico e absorve a umidade do ar rapidamente. A umidade gera grumos e cria ambiente favorável para microrganismos. Use sempre utensílios totalmente secos."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Guarde os pacotes fechados no congelador ou geladeira — Armazenamento Frio (360 dias) 📦",
+            "text": "O matcha fechado permanece fresco por mais tempo quando mantido congelado ou refrigerado ao abrigo da luz. 💡 Dica de conservação: Mantenha a embalagem original opaca no congelador (abaixo de -18 °C) ou na geladeira (0–5 °C). Fechado, manterá sua cor e nutrientes por 1 ano."
+          },
+          {
+            "name": "Guarde o matcha aberto em um recipiente opaco e hermético na geladeira — Armazenamento Refrigerado (30–60 dias) ❄️",
+            "text": "Após aberto, a exposição ao oxigênio e luz acelera a degradação. 💡 Dica de conservação: Transfira o matcha para um recipiente hermético opaco e guarde na geladeira (0–5 °C). Consuma em 1 a 2 meses para obter o máximo sabor e teor de EGCG."
+          },
+          {
+            "name": "Deixe o recipiente atingir a temperatura ambiente antes de abrir — Evite condensação 🌡️",
+            "text": "Abrir o recipiente de matcha gelado gera condensação imediata no interior devido ao choque térmico, umedecendo o pó. 💡 Dica de conservação: Aguarde de 10 a 15 minutos após retirar da geladeira antes de abrir."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Meu matcha em pó mudou de verde brilhante para castanho. Ainda é seguro consumir?",
+            "answer": "Sim, é seguro consumir, mas sua qualidade e valor nutricional caíram drasticamente! A mudança de cor é resultado da fotooxidação que destrói a clorofila e as catequinas (EGCG) em contato com a luz e o ar. Ele perde seu sabor umami fresco e os benefícios antioxidantes."
+          },
+          {
+            "question": "Posso guardar o matcha aberto no armário em temperatura ambiente?",
+            "answer": "Não é recomendável guardar em temperatura ambiente! As partículas finas do matcha se degradam rapidamente com o calor, umidade, luz e oxigênio do ambiente, ficando castanhas e empelotadas em poucas semanas. Guarde sempre o matcha aberto na geladeira em um recipiente opaco e hermético."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Bubuk Matcha agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk bubuk Matcha berdasarkan pedoman keselamatan resmi.",
+        "authority": "MAFF & USDA & MFDS",
+        "intro": "Pernahkah Anda membuka kemasan bubuk matcha lalu menemukan warna hijau cerahnya telah pudar menjadi kecokelatan dan aroma segarnya hilang? 🍵\n\nBubuk matcha dibuat dengan menggiling daun teh yang ditanam di bawah naungan menjadi partikel sangat halus. Hal ini menciptakan luas permukaan yang sangat besar yang terpapar oksigen dan cahaya. Akibatnya, antioksidan utamanya—katekina (EGCG)—dan klorofil yang memberikan warna hijau cerah akan mengalami foto-oksidasi (Photo-oxidation) cepat saat terpapar sinar UV, cahaya, dan udara, yang merusak nutrisi dan memicu warna kecokelatan. Selain itu, matcha memiliki higroskopisitas (Hygroscopicity) tinggi sehingga cepat menyerap kelembapan udara yang menyebabkan penggumpalan dan jamur.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan standar MAFF (Jepang), USDA, dan MFDS untuk menjaga warna hijau cerah, rasa umami, dan nutrisi aktif matcha Anda. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami struktur partikel dan komposisi biokimia unik dari setiap bahan makanan sangat penting untuk mencegah kerusakan nutrisi dan mempertahankan warna yang cerah.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Lindungi secara ketat dari paparan cahaya (UV) dan oksigen ☀️",
+            "desc": "Partikel ultra-halus matcha memiliki luas permukaan masif sehingga cahaya dan oksigen memicu foto-oksidasi cepat, merusak katekina (EGCG) dan klorofil menjadi cokelat pudar. Selalu simpan dalam wadah kedap udara yang buram/kedap cahaya (seperti kaleng gelap atau kantong aluminium)."
+          },
+          {
+            "title": "Waspadai penyerapan kelembapan yang menyebabkan penggumpalan dan jamur 💧",
+            "desc": "Bubuk matcha sangat higroskopis dan cepat menyerap kelembapan udara. Kelembapan memicu penggumpalan dan menciptakan lingkungan bagi mikroorganisme. Selalu gunakan peralatan yang benar-benar kering."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Simpan kemasan yang belum dibuka di freezer atau kulkas — Simpan Dingin (360 Hari) 📦",
+            "text": "Bubuk matcha yang belum dibuka bertahan paling segar jika disimpan beku atau dingin terlindung dari cahaya. 💡 Tips Penyimpanan: Simpan kemasan asli yang kedap cahaya di freezer (di bawah -18°C) atau kulkas (0–5°C). Dalam keadaan tertutup rapat, warna cerah dan nutrisinya terjaga hingga 1 tahun."
+          },
+          {
+            "name": "Simpan matcha yang sudah dibuka dalam wadah kedap udara buram di kulkas — Simpan Kulkas (30–60 Hari) ❄️",
+            "text": "Setelah dibuka, paparan oksigen dan cahaya mulai merusak kualitasnya. 💡 Tips Penyimpanan: Pindahkan matcha yang sudah dibuka ke dalam wadah kedap udara buram lalu simpan di kulkas (0–5°C). Konsumsi dalam 1 hingga 2 bulan untuk menikmati kadar EGCG dan rasa terbaik."
+          },
+          {
+            "name": "Biarkan wadah mencapai suhu ruang sebelum dibuka — Mencegah Kondensasi 🌡️",
+            "text": "Membuka wadah matcha yang dingin secara langsung akan memicu kondensasi (embun) di dalam wadah akibat perbedaan suhu, membuat bubuk lembap. 💡 Tips Penyimpanan: Tunggu 10 hingga 15 menit setelah dikeluarkan dari kulkas hingga wadah mencapai suhu ruang sebelum dibuka."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Bubuk matcha saya berubah warna dari hijau cerah menjadi kecokelatan. Apakah masih aman dikonsumsi?",
+            "answer": "Ya, masih aman dikonsumsi, tetapi kualitas dan nutrisinya telah menurun drastis! Perubahan warna adalah hasil dari foto-oksidasi yang merusak klorofil dan katekina (EGCG) akibat paparan cahaya dan udara. Matcha kehilangan rasa umami segar dan manfaat antioksidannya."
+          },
+          {
+            "question": "Bolehkah menyimpan bubuk matcha yang sudah dibuka di lemari dapur suhu ruang?",
+            "answer": "Penyimpanan di suhu ruang tidak disarankan! Partikel halus matcha rusak dengan sangat cepat oleh panas, kelembapan, cahaya, dan udara di suhu ruang, berubah menjadi cokelat dan menggumpal dalam beberapa minggu. Selalu simpan matcha yang sudah dibuka di kulkas dalam wadah kedap udara buram."
+          }
+        ]
+      }
     }
+  }
 }

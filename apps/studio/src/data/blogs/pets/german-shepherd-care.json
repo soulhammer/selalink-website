@@ -1,459 +1,459 @@
 {
-    "german-shepherd-care": {
-        "pubDate": "2026-03-01",
-        "updatedDate": "2026-03-01",
-        "locales": {
-            "ko": {
-                "title": "저먼 셰퍼드의 경계 신호 해석과 관절 및 이중모 관리를 위한 3단계 데일리 케어",
-                "description": "용맹하고 충성스러운 저먼 셰퍼드. 특유의 바디 랭귀지 해석과 고관절 이형성증 예방, 빽빽한 이중모 털 빠짐 관리를 위한 3단계 홈케어 루틴을 소개합니다.",
-                "authority": "세계저먼셰퍼드협회(WUSV) 및 미국 저먼 셰퍼드 클럽(GSDCA) 수의학 케어 스탠다드",
-                "profile": {
-                    "breed": "저먼 셰퍼드 (German Shepherd Dog)",
-                    "lifespan": "9 ~ 13년",
-                    "sleep_pattern": "10 ~ 12시간 (고에너지 경계·작업 수행형)",
-                    "temperament": "충성스러움, 영리함, 용맹함, 높은 경계심 및 작업 의지"
-                },
-                "intro": "저먼 셰퍼드는 뛰어난 지능과 용맹함, 그리고 높은 충성심으로 세계 최고의 군견이자 경찰견, 반려견으로 사랑받는 품종입니다. 하지만 뛰어난 작업 의욕만큼이나 충분한 신체적·정신적 자극이 주어지지 않으면 스트레스로 인한 경계 공격성이나 파괴적 행동을 보일 수 있습니다. 또한 체구 구조상 고관절 및 팔꿈치 이형성증(Dysplasia)에 취약하며, 빽빽한 이중모 피모 특성상 털 빠짐이 매우 심합니다. 이번 가이드에서는 저먼 셰퍼드의 바디 랭귀지를 올바르게 이해하고 관절과 피모를 건강하게 지키는 3단계 케어 루틴을 소개합니다.",
-                "whyTitle": "저먼 셰퍼드의 바디 랭귀지: 귀의 각도와 집중 신호",
-                "whyDesc": "저먼 셰퍼드는 귀의 움직임과 몸의 자세를 통해 감정을 명확히 표현합니다. 쫑긋 세운 귀를 전방으로 향하고 우뚝 서는 것은 **'고경계 상태(Alert Posture)'**로 주변 환경을 감시하는 본능적 행동입니다. 반면 음성이나 명령을 들을 때 **'고개를 갸웃거리는 행동(Head Tilting)'**은 음향의 위치를 정확히 파악하고 보호자의 의도를 파악하려는 고도의 인지 집중 신호입니다.",
-                "body_signals": [
-                    {
-                        "name": "귀를 바짝 세우고 몸을 경직되게 세움 (Alert & Guarding Posture)",
-                        "meaning": "외부 자극이나 낯선 대상에 대한 강한 경계 및 환경 감시 상태입니다.",
-                        "response": "긴장을 완화하기 위해 차분한 목소리로 차단 명령을 내리고 리드 줄을 조이지 않은 채 보호자에게 집중하도록 유도합니다."
-                    },
-                    {
-                        "name": "보호자를 바라보며 고개를 왼쪽 오른쪽으로 갸웃거림 (Head Tilting)",
-                        "meaning": "보호자의 목소리와 시각적 신호를 정확히 분석하려는 적극적인 호기심과 인지 집중 상태입니다.",
-                        "response": "명확하고 밝은 톤으로 명령어를 반복해 주고 올바른 행동을 했을 때 즉시 명확하게 보상해 줍니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 복종 훈련을 결합한 인터벌 산책",
-                        "text": "단순한 걷기 외에 '기다려', '옆에 앉아' 등 정교한 명령어 훈련을 병행하여 두뇌와 신체 에너지를 동시에 소모시킵니다."
-                    },
-                    {
-                        "name": "낮: 고난도 노즈워크 및 작업 수행 모사 놀이",
-                        "text": "복잡한 장난감이나 숨겨진 물건 찾기 게임(노즈워크)을 제공하여 특유의 작업 욕구를 충족시키고 무기력감을 예방합니다."
-                    },
-                    {
-                        "name": "저녁: 이중모 죽은 털 제거 빗질 및 고관절 온열 마사지",
-                        "text": "슬리커 빗과 언더코트 레이크로 이중모 속 털을 빗겨주고, 체중 부담을 받는 고관절과 뒷다리 근육을 부드럽게 마사지합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "저먼 셰퍼드의 고관절 이형성증 예방을 위해 어떻게 관리해야 하나요?",
-                        "answer": "유전적 요인이 크지만 적정 체중 유지와 관절 관리가 핵심입니다. 미끄러운 실내 바닥에 매트를 깔아주고, 어릴 때 급격한 체중 증가나 격렬한 과속 점프를 제한하며 관절 보조제를 꾸준히 급여하는 것이 좋습니다."
-                    },
-                    {
-                        "question": "털 빠짐이 너무 심한데 빗질은 얼마나 자주 해야 하나요?",
-                        "answer": "저먼 셰퍼드는 빽빽한 이중모를 가지고 있어 '독일 셰퍼드 Shedder(털 뿜뿜이)'라는 별명이 있을 정도로 털이 많이 빠집니다. 매일 5~10분씩 언더코트 전용 빗으로 죽은 속털을 제거해 주고, 털갈이 시기에는 주기적인 목욕과 브러싱을 병행해야 피부 질환을 예방할 수 있습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "German Shepherd Dog Guarding Signals and 3-Step Daily Care Routine for Joint and Double Coat Management",
-                "description": "Care guide for the loyal German Shepherd Dog. Understand guarding body language, prevent hip dysplasia, and manage heavy shedding with a 3-step routine.",
-                "authority": "World Union of German Shepherd Dog Clubs (WUSV) & German Shepherd Dog Club of America (GSDCA) Veterinary Standards",
-                "profile": {
-                    "breed": "German Shepherd Dog",
-                    "lifespan": "9 - 13 Years",
-                    "sleep_pattern": "10 - 12 Hours (High-Energy & Working Guard Type)",
-                    "temperament": "Loyal, Intelligent, Courageous, High Alertness & Work Drive"
-                },
-                "intro": "German Shepherds are renowned worldwide as top police, military, and family dogs due to their exceptional intelligence, bravery, and loyalty. However, without adequate physical and mental stimulation matching their strong working drive, they can develop boundary aggression or destructive behaviors from stress. Additionally, their body structure makes them prone to hip and elbow dysplasia, and their dense double coat results in heavy shedding. In this guide, presents a 3-step daily care routine to decode your German Shepherd's body language and keep their joints and coat healthy.",
-                "whyTitle": "German Shepherd Body Language: Ear Angles and Focus Signals",
-                "whyDesc": "German Shepherds express emotions clearly through ear movements and posture. Pricking their ears forward while standing tall indicates an **'Alert Posture'**, an instinctual state for monitoring surroundings. Conversely, **'Head Tilting'** while listening is a high-level cognitive focus signal to pinpoint sound location and understand owner intent.",
-                "body_signals": [
-                    {
-                        "name": "Ears Pricked Forward & Rigid Stance (Alert & Guarding Posture)",
-                        "meaning": "A strong environmental monitoring warning caused by external stimuli or strangers.",
-                        "response": "Issue a calm disengagement command without tightening the leash, redirecting their focus back to the owner."
-                    },
-                    {
-                        "name": "Head Tilting Left and Right While Staring (Head Tilting)",
-                        "meaning": "An active curiosity and cognitive focus aimed at analyzing the owner's voice and visual cues.",
-                        "response": "Repeat commands in a clear, upbeat tone and immediately reward correct ."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Interval Walking Combined with Obedience Training",
-                        "text": "Combine walking with precise commands like 'stay' or 'heel' to burn mental and physical energy simultaneously."
-                    },
-                    {
-                        "name": "Afternoon: Advanced Nosework & Working Simulation Games",
-                        "text": "Provide complex puzzle toys or scent search games to satisfy their working drive and prevent boredom."
-                    },
-                    {
-                        "name": "Evening: Double Coat Deshedding Brushing & Hip Warm Massage",
-                        "text": "Remove dead undercoat fur with a slicker brush and undercoat rake, followed by a gentle massage on heavy-bearing hip joints."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "How can I prevent hip dysplasia in my German Shepherd?",
-                        "answer": "While genetics play a major role, maintaining an ideal weight and joint care are crucial. Cover slippery indoor floors with mats, avoid sudden weight gains or high-impact jumping during growth, and provide joint supplements continuously."
-                    },
-                    {
-                        "question": "Why do German Shepherds shed so much and how often should I brush them?",
-                        "answer": "German Shepherds have a dense double coat and are nicknamed 'German Shedders' due to constant heavy shedding. Brush daily for 5-10 minutes with an undercoat rake, and increase brushing and baths during seasonal coat blows to prevent skin issues."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ジャーマン・シェパードの警戒サイン解読と関節・二重毛ケアのための3ステップデイリールーティン",
-                "description": "勇敢で忠実なジャーマン・シェパード。ボディランゲージの解読、股関節形成不全の予防、濃密な二重毛の抜け毛ケアのための3ステップホームケアを紹介します。",
-                "authority": "世界ジャーマン・シェパード犬協会連盟(WUSV)＆アメリカ・ジャーマン・シェパード・ドッグ・クラブ(GSDCA)獣医ケア基準",
-                "profile": {
-                    "breed": "ジャーマン・シェパード・ドッグ (German Shepherd Dog)",
-                    "lifespan": "9 〜 13年",
-                    "sleep_pattern": "10 〜 12時間 (高エネルギー・警戒作業型)",
-                    "temperament": "忠実、聡明、勇敢、高い警戒心と作業欲求"
-                },
-                "intro": "ジャーマン・シェパードは卓越した知能と勇敢さ、高い忠誠心で世界最高の警察犬・軍導犬・家庭犬として愛されています。しかし、旺盛な作業欲求に見合う十分な運動や頭脳刺激がないと、ストレスから警戒攻撃性や破壊行動を起こすことがあります。また、体型構造上、股関節や肘関節の形成不全（Dysplasia）を起こしやすく、濃密な二重毛のため抜け毛が非常に多いです。本記事では、ジャーマン・シェパードのボディランゲージを正しく理解し、関節と被毛の健康を守る3ステップルーティンをお届けします。",
-                "whyTitle": "ジャーマン・シェパードのボディランゲージ：耳の角度と集中サイン",
-                "whyDesc": "ジャーマン・シェパードは耳の動きと姿勢で感情を明確に表現します。ピンと立てた耳を前方に向けて堂々と立つのは**「高度警戒姿勢（Alert Posture）」**であり、周囲を監視する本能的行動です。一方、声や指示を聞く際の**「首を傾げる動作（Head Tilting）」**は、音の位置を正確に把握し、飼い主の意図を理解しようとする高度な認知集中サインです。",
-                "body_signals": [
-                    {
-                        "name": "耳を立てて体を緊張させる (Alert & Guarding Posture)",
-                        "meaning": "外部刺激や見知らぬ対象に対する強い警戒および環境監視状態です。",
-                        "response": "緊張を和らげるため、落ち着いた声で解除コマンドを出し、リードを引っ張らずに飼い主へ意識を向けさせます。"
-                    },
-                    {
-                        "name": "飼い主を見つめて首を左右に傾げる (Head Tilting)",
-                        "meaning": "飼い主の声や視覚サインを正確に分析しようとする積極的な好奇心と認知集中状態です。",
-                        "response": "明るいトーンで指示を繰り返し、正しい行動をしたらすぐに明確にご褒美を与えます。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：服従訓練を交えたインターバル散歩",
-                        "text": "単なる歩行だけでなく「待て」「ヒール（ついて）」などの精密な指示を交え、脳と身体エネルギーを同時に消費させます。"
-                    },
-                    {
-                        "name": "昼：高難度ノーズワークと作業シミュレーション遊び",
-                        "text": "複雑な知育玩具や宝探し（ノーズワーク）を提供し、作業欲求を満たして退屈を防ぎます。"
-                    },
-                    {
-                        "name": "夜：二重毛の抜け毛除去ブラッシングと股関節マッサージ",
-                        "text": "スリッカーブラシとアンダーコートレーキで死毛を取り除き、負担のかかる股関節周囲を優しくマッサージします。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "股関節形成不全を予防するにはどうすればよいですか？",
-                        "answer": "遺伝的要因が大きいですが、適正体重の維持と関節ケアが不可欠です。滑りやすい室内にマットを敷き、成長期の急激な体重増加や激しいジャンプを避け、関節サプリメントを継続的に与えましょう。"
-                    },
-                    {
-                        "question": "抜け毛がひどいのですが、ブラッシングはどれくらいの頻度で行うべきですか？",
-                        "answer": "密度の高い二重毛を持つため「ジャーマン・シェッダー（毛噴射犬）」と呼ばれるほど抜けます。アンダーコート用ブラシで毎日5〜10分ブラッシングし、換毛期には定期的なシャンプーと念入りなケアで皮膚トラブルを防ぎましょう。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "德牧（德国牧羊犬）警戒信号解读与关节及双层毛护理的3步日常流程",
-                "description": "勇敢忠诚的德国牧羊犬护理指南。解读其肢体语言，预防髋关节发育不良，并应对双层毛严重脱落的3步骤家庭护理。",
-                "authority": "世界德国牧羊犬协会 (WUSV) 与美国德国牧羊犬协会 (GSDCA) 兽医护理标准",
-                "profile": {
-                    "breed": "德国牧羊犬 (German Shepherd Dog)",
-                    "lifespan": "9 ~ 13年",
-                    "sleep_pattern": "10 ~ 12小时 (高能量警惕工作型)",
-                    "temperament": "忠诚、聪慧、勇敢、高度警惕与工作热忱"
-                },
-                "intro": "德国牧羊犬（德牧）凭借卓越的智商、勇敢与高度忠诚，成为全球最受欢迎的军警犬与家庭犬。然而，若无法满足其强烈的工作欲与运动需求，它们容易因压力产生过度警惕的攻击性或破坏行为。此外，其体型结构极易引发髋关节和肘关节发育不良，且浓密的双层毛在换毛季脱落极其严重。本指南将带您解读德牧的身体语言，并通过3步骤日常护理保护其关节与被毛健康。",
-                "whyTitle": "德国牧羊犬的肢体语言：耳朵角度与专注信号",
-                "whyDesc": "德牧通过耳朵动作的姿态清晰地表达情绪。双耳直立向前并挺拔站立，代表处于**“高度警惕姿态 (Alert Posture)”**，是观察周围环境的本能表现。相反，听指令时**“歪头的动作 (Head Tilting)”**则是为了精准定位声音来源并理解主人意图的高阶认知专注信号。",
-                "body_signals": [
-                    {
-                        "name": "双耳直立且身体紧绷 (Alert & Guarding Posture)",
-                        "meaning": "对外部刺激或陌生目标产生强烈警惕与环境监控状态。",
-                        "response": "用平静的语气下达解除指令，切勿紧拉牵引绳，引导其将注意力转移回主人身上。"
-                    },
-                    {
-                        "name": "注视主人并左右歪头 (Head Tilting)",
-                        "meaning": "试图精确分析主人的声音与视觉信号的积极好奇心与认知专注状态。",
-                        "response": "用清晰明亮的语气重复指令，并在其做出正确反应时立即给予明确奖励。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：结合服从性训练的变速跑散步",
-                        "text": "在散步中穿插“等待”、“随行”等精细指令，同时消耗大脑与体能的能量。"
-                    },
-                    {
-                        "name": "中午：高难度嗅闻 (Nosework) 与模拟工作游戏",
-                        "text": "提供复杂的益智玩具或寻物游戏，满足其工作天性并预防无聊。"
-                    },
-                    {
-                        "name": "晚上：双层毛浮毛梳理与髋关节温热按摩",
-                        "text": "使用针梳和开结梳清理底层浮毛，并轻柔按摩承受体重的髋关节的肌肉。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "如何预防德牧的髋关节发育不良？",
-                        "answer": "虽然遗传因素影响较大，但保持理想体重的关节护理至关重要。在易滑室内铺设防滑垫，避免幼犬期体重暴增或剧烈跳跃，并持续补充关节保健品。"
-                    },
-                    {
-                        "question": "德牧掉毛非常严重，应该多久梳一次毛？",
-                        "answer": "德牧拥有极其浓密的双层毛，甚至被称为“掉毛怪 (German Shedder)”。建议每天用专用底层梳梳理5~10分钟，换毛期应结合定期洗澡与深度梳理以预防皮肤病。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Señales de alerta del Pastor Alemán y rutina diaria de 3 pasos para el cuidado articular y del manto doble",
-                "description": "Guía para el leal Pastor Alemán. Interprete su lenguaje corporal, prevenga la displasia de cadera y controle la muda intensa con una rutina de 3 pasos.",
-                "authority": "Unión Mundial de Clubes del Perro Pastor Alemán (WUSV) y Estándares Veterinarios del GSDCA",
-                "profile": {
-                    "breed": "Pastor Alemán (German Shepherd Dog)",
-                    "lifespan": "9 ~ 13 años",
-                    "sleep_pattern": "10 ~ 12 horas (alta energía y perro de trabajo/alerta)",
-                    "temperament": "Leal, Inteligente, Valiente, Elevada alerta e impulso de trabajo"
-                },
-                "intro": "El Pastor Alemán es admirado globalmente como perro de trabajo, policía y compañía por su excepcional inteligencia, valor y lealtad. Sin embargo, si no se satisfacen sus altas necesidades de estimulación física y mental, puede desarrollar conductas destructivas o agresividad territorial por estrés. Además, su anatomía lo hace propenso a la displasia de cadera y codo, y su manto doble causa una muda abundante. En esta guía, presenta una rutina de 3 pasos para interpretar el lenguaje corporal de su Pastor Alemán y proteger sus articulaciones y pelaje.",
-                "whyTitle": "Lenguaje corporal del Pastor Alemán: Ángulo de las orejas y señales de enfoque",
-                "whyDesc": "El Pastor Alemán expresa sus emociones con claridad mediante la postura y el movimiento de sus orejas. Mantener las orejas erguidas hacia adelante en postura firme indica una **'Postura de Alerta'**, un estado instintivo para vigilar el entorno. Por el contrario, **'Inclinar la cabeza'** al escuchar es una señal de alta concentración cognitiva para ubicar el sonido e interpretar la intención del dueño.",
-                "body_signals": [
-                    {
-                        "name": "Orejas erguidas y postura corporal rígida (Alert & Guarding Posture)",
-                        "meaning": "Estado de intensa vigilancia ambiental y advertencia ante estímulos externos o extraños.",
-                        "response": "Emita una orden de desconexión con voz firme pero tranquila sin tensar la correa, redirigiendo su atención hacia usted."
-                    },
-                    {
-                        "name": "Mirar al dueño e inclinar la cabeza a ambos lados (Head Tilting)",
-                        "meaning": "Curiosidad activa y enfoque cognitivo para analizar las señales auditivas y visuales del dueño.",
-                        "response": "Repita los comandos en un tono claro y alegre, recompensando de inmediato la respuesta correcta."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Paseo a intervalos combinado con entrenamiento de obediencia",
-                        "text": "Incorpore órdenes precisas como 'junto' o 'espera' durante la caminata para exigir esfuerzo mental y físico simultáneo."
-                    },
-                    {
-                        "name": "Tarde: Juegos avanzados de rastreo (Nosework) y simulación de trabajo",
-                        "text": "Proporcione juguetes rompecabezas complejos o búsquedas de olores para canalizar su impulso de trabajo y evitar el aburrimiento."
-                    },
-                    {
-                        "name": "Noche: Cepillado de manto doble para pelo muerto y masaje tibio de caderas",
-                        "text": "Retire el subpelo muerto con un cepillo slicker y un rastrillo para manto, y realice masajes suaves en las articulaciones de la cadera."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Cómo puedo prevenir la displasia de cadera en mi Pastor Alemán?",
-                        "answer": "Aunque existe un componente genético significativo, mantener un peso adecuado y cuidar las articulaciones es fundamental. Coloque alfombras en suelos resbaladizos, evite saltos de alto impacto en la etapa de crecimiento y suministre condroprotectores continuamente."
-                    },
-                    {
-                        "question": "Mi Pastor Alemán suelta muchísimo pelo, ¿con qué frecuencia debo cepillarlo?",
-                        "answer": "Poseen un manto doble denso y son apodados 'German Shedders' por su constante muda. Cepille diariamente durante 5-10 minutos con un rastrillo de subpelo, e incremente la frecuencia y los baños durante las épocas de muda estacional."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Signaux d'alerte du Berger Allemand et routine quotidienne en 3 étapes pour les articulations et le double pelage",
-                "description": "Guide de soins pour le loyal Berger Allemand. Décryptez son langage corporel, prévenez la dysplasie de la hanche et gérez la mue grâce à une routine en 3 étapes.",
-                "authority": "Union Mondiale des Clubs de Chiens de Berger Allemand (WUSV) & Normes Vétérinaires du GSDCA",
-                "profile": {
-                    "breed": "Berger Allemand (German Shepherd Dog)",
-                    "lifespan": "9 ~ 13 ans",
-                    "sleep_pattern": "10 ~ 12 heures (très actif, chien de travail et de garde)",
-                    "temperament": "Loyal, Intelligent, Courageux, Vigilance élevée et besoin de travail"
-                },
-                "intro": "Le Berger Allemand est reconnu dans le monde entier comme un chien policier, militaire et familial d'exception grâce à son intelligence, son courage et sa fidélité. Cependant, sans une stimulation physique et mentale suffisante correspondant à son fort besoin de travail, il peut développer une agressivité de garde ou des comportements destructeurs dus au stress. De plus, sa morphologie le rend vulnérable à la dysplasie de la hanche et du coude, et son double pelage entraîne une mue importante. Dans ce guide, vous présente une routine en 3 étapes pour comprendre votre Berger Allemand et préserver sa santé.",
-                "whyTitle": "Langage corporel du Berger Allemand : Orientation des oreilles et signaux de concentration",
-                "whyDesc": "Le Berger Allemand exprime clairement ses émotions par ses oreilles et sa posture. Garder les oreilles dressées vers l'avant en position droite traduit une **« Posture d'alerte »**, un état instinctif de surveillance. En revanche, **« Pencher la tête »** lorsqu'il écoute est un signal de forte concentration cognitive visant à localiser les sons et à comprendre les intentions de son maître.",
-                "body_signals": [
-                    {
-                        "name": "Oreilles dressées et corps tendu (Alert & Guarding Posture)",
-                        "meaning": "État de vigilance intense et de surveillance face à des stimuli extérieurs ou des inconnus.",
-                        "response": "Donnez un ordre de renoncement d'un ton calme sans tendre la laisse, puis redirigez son attention vers vous."
-                    },
-                    {
-                        "name": "Regarder le maître en penchant la tête de gauche à droite (Head Tilting)",
-                        "meaning": "Curiosité active et concentration visant à analyser précisément les signaux vocaux et visuels du maître.",
-                        "response": "Répétez l'ordre d'un ton clair et enjoué, puis récompensés immédiatement le bon comportement."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Promenade fractionnée combinée à des exercices d'obéissance",
-                        "text": "Incorporez des ordres stricts comme « au pied » ou « pas bouger » pour dépenser simultanément son énergie mentale et physique."
-                    },
-                    {
-                        "name": "Après-midi : Jeux de recherche olfactive (Nosework) avancés et simulation de travail",
-                        "text": "Proposez des puzzles complexes ou des jeux de recherche d'objets pour satisfaire son instinct de travail et éviter l'ennui."
-                    },
-                    {
-                        "name": "Soir : Brossage du sous-poil mort & massage doux des hanches",
-                        "text": "Éliminez le sous-poil mort à l'aide d'un râteau anti-mue et massez délicatement la zone des hanches et des cuisses."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Comment prévenir la dysplasie de la hanche chez le Berger Allemand ?",
-                        "answer": "Même si la génétique joue un rôle majeur, le maintien d'un poids de forme est crucial. Installez des tapis sur les sols glissants, évitez les sauts violents pendant la croissance et donnez des compléments articulaires."
-                    },
-                    {
-                        "question": "Pourquoi mon Berger Allemand perd-il autant de poils et à quelle fréquence le brosser ?",
-                        "answer": "Doté d'un sous-poil très dense, il est surnommé « German Shedder » pour sa mue abondante. Brossez-le quotidiennement 5 à 10 minutes avec un peigne démêloir, et intensifiez le brossage lors des mues saisonnières."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Körpersprache des Deutschen Schäferhundes und 3-Schritte-Tagesroutine für Gelenke und Unterwolle",
-                "description": "Pflegeanleitung für den treuen Deutschen Schäferhund. Verstehen Sie Warnsignale, beugen Sie Hüftdysplasie vor und bewältigen Sie den Fellwechsel mit einer 3-Schritte-Routine.",
-                "authority": "Weltunion der Vereine für Deutsche Schäferhunde (WUSV) & Tiermedizinische Standards des SV",
-                "profile": {
-                    "breed": "Deutscher Schäferhund (German Shepherd Dog)",
-                    "lifespan": "9 ~ 13 Jahre",
-                    "sleep_pattern": "10 ~ 12 Stunden (hohe Energie, Arbeits- & Wachhund)",
-                    "temperament": "Treu, Intelligent, Mutig, Hohe Wachsamkeit & Arbeitstrieb"
-                },
-                "intro": "Der Deutsche Schäferhund ist dank seiner Intelligenz, seines Mutes und seiner Loyalität weltbekannt als Dienst-, Schutz- und Familienhund. Ohne ausreichende körperliche und geistige Auslastung, die seinem starken Arbeitstrieb gerecht wird, kann er jedoch stressbedingtes Territorial- oder Fehlverhalten entwickeln. Zudem ist die Rasse anfällig für Hüft- und Ellenbogendysplasie (HD/ED) und neigt durch das dichte doppelte Haarkleid zu starkem Haaren. Heute präsentiert  eine 3-Schritte-Routine, um die Körpersprache Ihres Schäferhundes zu verstehen und seine Gelenke sowie sein Fell gesund zu halten.",
-                "whyTitle": "Körpersprache des Deutschen Schäferhundes: Ohrenstellung und Fokus",
-                "whyDesc": "Der Deutsche Schäferhund drückt Emotionen präzise über Ohrenstellung und Körperhaltung aus. Aufgerichtete, nach vorne gerichtete Ohren und eine stramme Haltung signalisieren eine **'Aufmerksame Schutzhaltung' (Alert Posture)** zur Überwachung der Umgebung. Das **'Schiefhalten des Kopfes' (Head Tilting)** beim Zuhören ist dagegen ein Zeichen hoher kognitiver Konzentration, um Geräusche zu orten und die Absicht des Halters zu erfassen.",
-                "body_signals": [
-                    {
-                        "name": "Aufgerichtete Ohren & angespannte Körperhaltung (Alert & Guarding Posture)",
-                        "meaning": "Hohe Wachsamkeit und Umweltüberwachung aufgrund von Außenreizen oder Fremden.",
-                        "response": "Geben Sie mit ruhiger Stimme ein Abbruchkommando, ohne die Leine zu straffen, und lenken Sie den Fokus auf sich."
-                    },
-                    {
-                        "name": "Blick zum Halter mit seitlich geneigtem Kopf (Head Tilting)",
-                        "meaning": "Aktive Neugier und kognitive Konzentration zur Analyse von Stimme und Sichtzeichen des Halters.",
-                        "response": "Wiederholen Sie Kommandos in deutlichem, freundlichem Ton und belohnen Sie richtiges Verhalten sofort."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Intervall-Spaziergang kombiniert mit Unterordnungsübungen",
-                        "text": "Bauen Sie Präzisionskommandos wie 'Fuß' oder 'Bleib' ein, um Geist und Körper gleichzeitig zu fordern."
-                    },
-                    {
-                        "name": "Mittag: Anspruchsvolle Nasenarbeit (Nosework) & Arbeitssimulation",
-                        "text": "Bieten Sie komplexe Intelligenzspielzeuge oder Suchspiele an, um den Arbeitstrieb zu befriedigen und Unterforderung vorzubeugen."
-                    },
-                    {
-                        "name": "Abend: Ausbürsten der Unterwolle & Wärmende Gelenkmassage",
-                        "text": "Entfernen Sie abgestorbene Unterwolle mit einem Unterwollrechen und massieren Sie die beanspruchten Hüftgelenke sanft."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Wie kann ich einer Hüftdysplasie (HD) beim Deutschen Schäferhund vorbeugen?",
-                        "answer": "Neben der genetischen Veranlagung ist ein ideales Körpergewicht entscheidend. Rutschige Böden im Haus mit Matten auslegen, langes Treppensteigen oder hohe Sprünge im Wachstum vermeiden und Gelenknährstoffe zufüttern."
-                    },
-                    {
-                        "question": "Warum haart mein Schäferhund so stark und wie oft muss ich ihn bürsten?",
-                        "answer": "Durch sein dichtes doppeltes Haarkleid zählt er zu den stark haarenden Rassen. Bürsten Sie täglich 5–10 Minuten mit einem Unterwollkamm; im Fellwechsel helfen regelmäßiges Bürsten und Baden, Hautprobleme zu vermeiden."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Sinais de alerta do Pastor Alemão e rotina diária de 3 passos para cuidados articulares e pelagem dupla",
-                "description": "Guia para o leal Pastor Alemão. Interprete sua linguagem corporal, previna a displasia de quadril e controle a queda de pelos com uma rotina de 3 passos.",
-                "authority": "União Mundial dos Clubes de Cães Pastor Alemão (WUSV) e Padrões Veterinários do GSDCA",
-                "profile": {
-                    "breed": "Pastor Alemão (German Shepherd Dog)",
-                    "lifespan": "9 ~ 13 anos",
-                    "sleep_pattern": "10 ~ 12 horas (alta energia, trabalho e alerta)",
-                    "temperament": "Leal, Inteligente, Corajoso, Alta vigilância e impulso de trabalho"
-                },
-                "intro": "O Pastor Alemão é admirado no mundo todo como cão policial, militar e de família por sua inteligência, coragem e lealdade excepcionais. Contudo, sem estímulos físicos e mentais adequados para responder ao seu forte impulso de trabalho, ele pode desenvolver agressividade territorial ou comportamentos destrutivos por estresse. Além disso, a estrutura física da raça favorece a displasia de quadril e cotovelo, e sua pelagem dupla espessa causa uma queda intensa de pelos. Neste guia, apresenta uma rotina de 3 passos para entender a linguagem corporal do seu Pastor Alemão e proteger suas articulações e pelagem.",
-                "whyTitle": "Linguagem corporal do Pastor Alemão: Ângulo das orelhas e sinais de foco",
-                "whyDesc": "O Pastor Alemão expressa suas emoções com clareza através da postura e do movimento das orelhas. Manter as orelhas eretas voltadas para a frente e o corpo firme indica uma **'Postura de Alerta'**, um estado instintivo de vigilância. Já o ato de **'Inclinar a cabeça'** ao ouvir o tutor é um sinal de alto foco cognitivo para localizar o som e compreender o comando.",
-                "body_signals": [
-                    {
-                        "name": "Orelhas eretas e postura corporal rígida (Alert & Guarding Posture)",
-                        "meaning": "Estado de intensa vigilância e alerta ambiental diante de estímulos externos ou estranhos.",
-                        "response": "Dê um comando de liberação em tom calmo sem puxar a guia, redirecionando o foco do cão para você."
-                    },
-                    {
-                        "name": "Olhar para o tutor inclinando a cabeça para os lados (Head Tilting)",
-                        "meaning": "Curiosidade ativa e foco cognitivo voltados para analisar os sinais sonoros e visuais do tutor.",
-                        "response": "Repita os comandos com clareza e entusiasmo, recompensando imediatamente a resposta correta."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Passeio intervalado combinado com treino de obediência",
-                        "text": "Insira comandos precisos como 'junto' ou 'fica' durante a caminhada para exercitar mente e corpo simultaneamente."
-                    },
-                    {
-                        "name": "Tarde: Jogos avançados de faro (Nosework) e simulação de trabalho",
-                        "text": "Ofereça brinquedos interativos complexos ou busca de objetos para satisfazer seu impulso de trabalho e evitar o tédio."
-                    },
-                    {
-                        "name": "Noite: Escovação da pelagem dupla & massagem morna nas articulações",
-                        "text": "Remova os pelos mortos do subpelo com uma rasqueadeira e faça uma massagem suave na região do quadril."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Como posso prevenir a displasia de quadril no meu Pastor Alemão?",
-                        "answer": "Embora exista forte fator genético, manter o peso ideal e cuidar das articulações é fundamental. Cubra pisos escorregadios com tapetes, evite saltos de alto impacto durante o crescimento e forneça suplementos articulares."
-                    },
-                    {
-                        "question": "Por que o Pastor Alemão solta tanto pelo e com que frequência devo escová-lo?",
-                        "answer": "Eles possuem pelagem dupla densa e são conhecidos pelo alto volume de queda. Escove diariamente por 5 a 10 minutos com um rastelo para subpelo e intensifique os banhos e escovações na época de troca de pelagem."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Isyarat Kewaspadaan German Shepherd dan Rutinitas Harian 3 Langkah Perawatan Sendi serta Bulu Ganda",
-                "description": "Panduan perawatan anjing leal German Shepherd. Pahami bahasa tubuh kewaspadaan, cegah displasia pinggul, dan kelola kerontokan bulu ganda dalam 3 langkah.",
-                "authority": "World Union of German Shepherd Dog Clubs (WUSV) & Standar Medis Veteriner GSDCA",
-                "profile": {
-                    "breed": "German Shepherd (German Shepherd Dog)",
-                    "lifespan": "9 ~ 13 Tahun",
-                    "sleep_pattern": "10 ~ 12 Jam (Energi Tinggi, Tipe Kerja & Penjaga)",
-                    "temperament": "Setia, Cerdas, Pemberani, Kewaspadaan & Dorongan Kerja Tinggi"
-                },
-                "intro": "German Shepherd diakui di seluruh dunia sebagai anjing polisi, militer, dan keluarga yang luar biasa berkat kecerdasan, keberanian, dan kesetiannya. Namun, tanpa stimulasi fisik dan mental yang cukup untuk memenuhi dorongan kerjanya yang tinggi, mereka dapat mengalami perilaku teritorial atau destruktif akibat stres. Selain itu, struktur tubuh mereka rentan terhadap displasia pinggul dan siku, serta bulu ganda mereka yang lebat menyebabkan kerontokan parah. Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk memahami bahasa tubuh German Shepherd serta menjaga kesehatan sendi dan bulu mereka.",
-                "whyTitle": "Bahasa Tubuh German Shepherd: Sudut Telinga dan Sinyal Fokus",
-                "whyDesc": "German Shepherd mengekspresikan emosi dengan jelas melalui gerakan telinga dan postur tubuh. Telinga yang tegak menghadap ke depan dengan tubuh tegap menandakan **'Postura Waspada' (Alert Posture)**, kondisi naluriah untuk mengawasi lingkungan. Sebaliknya, **'Miringkan Kepala' (Head Tilting)** saat mendengarkan adalah sinyal fokus kognitif tinggi untuk memetakan sumber suara dan memahami maksud pemilik.",
-                "body_signals": [
-                    {
-                        "name": "Telinga Tegak & Postur Tubuh Kaku (Alert & Guarding Posture)",
-                        "meaning": "Status kewaspadaan tinggi dan pemantauan lingkungan akibat rangsangan luar atau orang asing.",
-                        "response": "Berikan perintah pengalihan dengan suara tenang tanpa menarik tali penuntun secara kencang, alihkan fokusnya kembali ke pemilik."
-                    },
-                    {
-                        "name": "Menatap Pemilik Sambil Memiringkan Kepala ke Kiri dan Kanan (Head Tilting)",
-                        "meaning": "Rasa ingin tahu aktif dan fokus kognitif untuk menganalisis suara dan isyarat visual pemilik.",
-                        "response": "Ulangi perintah dengan nada jelas dan ceria, lalu segera berikan pujian atau hadiah saat merespons dengan benar."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Jalan Lintas Interval Dikombinasikan dengan Latihan Kepatuhan",
-                        "text": "Sisipkan perintah presisi seperti 'tumit' atau 'diam' saat berjalan untuk membakar energi fisik dan mental sekaligus."
-                    },
-                    {
-                        "name": "Siang: Permainan Penciuman (Nosework) Tingkat Lanjut & Simulasi Kerja",
-                        "text": "Sediakan mainan puzzle rumit atau pencarian benda untuk memuaskan naluri kerja dan mencegah kebosanan."
-                    },
-                    {
-                        "name": "Malam: Menyikat Bulu Ganda & Pijat Hangat Sendi Pinggul",
-                        "text": "Rontokkan bulu halus yang mati dengan sikat slicker dan sisir undercoat, lalu pijat lembut area sendi pinggul."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Bagaimana cara mencegah displasia pinggul pada German Shepherd?",
-                        "answer": "Meskipun faktor genetik sangat berpengaruh, menjaga berat badan ideal dan perawatan sendi adalah kuncinya. Pasang matras pada lantai licin, hindari lompatan tinggi saat masa pertumbuhan, dan berikan suplemen sendi secara teratur."
-                    },
-                    {
-                        "question": "Mengapa German Shepherd sangat banyak rontok dan seberapa sering harus disikat?",
-                        "answer": "Mereka memiliki bulu ganda lebat dan dijuluki 'German Shedder' karena volume kerontokannya yang tinggi. Sikat setiap hari selama 5-10 menit dengan sisir undercoat, serta tingkatkan mandi dan penyikatan saat musim rontok bulu."
-                    }
-                ]
-            }
+  "german-shepherd-care": {
+    "pubDate": "2026-03-01",
+    "updatedDate": "2026-03-01",
+    "locales": {
+      "ko": {
+        "title": "저먼 셰퍼드의 경계 신호 해석과 관절 및 이중모 관리를 위한 3단계 데일리 케어",
+        "description": "용맹하고 충성스러운 저먼 셰퍼드. 특유의 바디 랭귀지 해석과 고관절 이형성증 예방, 빽빽한 이중모 털 빠짐 관리를 위한 3단계 홈케어 루틴을 소개합니다.",
+        "authority": "세계저먼셰퍼드협회(WUSV) 및 미국 저먼 셰퍼드 클럽(GSDCA) 수의학 케어 스탠다드",
+        "profile": {
+          "breed": "저먼 셰퍼드 (German Shepherd Dog)",
+          "lifespan": "9 ~ 13년",
+          "sleep_pattern": "10 ~ 12시간 (고에너지 경계·작업 수행형)",
+          "temperament": "충성스러움, 영리함, 용맹함, 높은 경계심 및 작업 의지"
         },
-        "heroImage": "/images/blog/german_shepherd_care.webp"
-    }
+        "intro": "저먼 셰퍼드는 뛰어난 지능과 용맹함, 그리고 높은 충성심으로 세계 최고의 군견이자 경찰견, 반려견으로 사랑받는 품종입니다. 하지만 뛰어난 작업 의욕만큼이나 충분한 신체적·정신적 자극이 주어지지 않으면 스트레스로 인한 경계 공격성이나 파괴적 행동을 보일 수 있습니다. 또한 체구 구조상 고관절 및 팔꿈치 이형성증(Dysplasia)에 취약하며, 빽빽한 이중모 피모 특성상 털 빠짐이 매우 심합니다. 이번 가이드에서는 저먼 셰퍼드의 바디 랭귀지를 올바르게 이해하고 관절과 피모를 건강하게 지키는 3단계 케어 루틴을 소개합니다.",
+        "whyTitle": "저먼 셰퍼드의 바디 랭귀지: 귀의 각도와 집중 신호",
+        "whyDesc": "저먼 셰퍼드는 귀의 움직임과 몸의 자세를 통해 감정을 명확히 표현합니다. 쫑긋 세운 귀를 전방으로 향하고 우뚝 서는 것은 **'고경계 상태(Alert Posture)'**로 주변 환경을 감시하는 본능적 행동입니다. 반면 음성이나 명령을 들을 때 **'고개를 갸웃거리는 행동(Head Tilting)'**은 음향의 위치를 정확히 파악하고 보호자의 의도를 파악하려는 고도의 인지 집중 신호입니다.",
+        "body_signals": [
+          {
+            "name": "귀를 바짝 세우고 몸을 경직되게 세움 (Alert & Guarding Posture)",
+            "meaning": "외부 자극이나 낯선 대상에 대한 강한 경계 및 환경 감시 상태입니다.",
+            "response": "긴장을 완화하기 위해 차분한 목소리로 차단 명령을 내리고 리드 줄을 조이지 않은 채 보호자에게 집중하도록 유도합니다."
+          },
+          {
+            "name": "보호자를 바라보며 고개를 왼쪽 오른쪽으로 갸웃거림 (Head Tilting)",
+            "meaning": "보호자의 목소리와 시각적 신호를 정확히 분석하려는 적극적인 호기심과 인지 집중 상태입니다.",
+            "response": "명확하고 밝은 톤으로 명령어를 반복해 주고 올바른 행동을 했을 때 즉시 명확하게 보상해 줍니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 복종 훈련을 결합한 인터벌 산책",
+            "text": "단순한 걷기 외에 '기다려', '옆에 앉아' 등 정교한 명령어 훈련을 병행하여 두뇌와 신체 에너지를 동시에 소모시킵니다."
+          },
+          {
+            "name": "낮: 고난도 노즈워크 및 작업 수행 모사 놀이",
+            "text": "복잡한 장난감이나 숨겨진 물건 찾기 게임(노즈워크)을 제공하여 특유의 작업 욕구를 충족시키고 무기력감을 예방합니다."
+          },
+          {
+            "name": "저녁: 이중모 죽은 털 제거 빗질 및 고관절 온열 마사지",
+            "text": "슬리커 빗과 언더코트 레이크로 이중모 속 털을 빗겨주고, 체중 부담을 받는 고관절과 뒷다리 근육을 부드럽게 마사지합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "저먼 셰퍼드의 고관절 이형성증 예방을 위해 어떻게 관리해야 하나요?",
+            "answer": "유전적 요인이 크지만 적정 체중 유지와 관절 관리가 핵심입니다. 미끄러운 실내 바닥에 매트를 깔아주고, 어릴 때 급격한 체중 증가나 격렬한 과속 점프를 제한하며 관절 보조제를 꾸준히 급여하는 것이 좋습니다."
+          },
+          {
+            "question": "털 빠짐이 너무 심한데 빗질은 얼마나 자주 해야 하나요?",
+            "answer": "저먼 셰퍼드는 빽빽한 이중모를 가지고 있어 '독일 셰퍼드 Shedder(털 뿜뿜이)'라는 별명이 있을 정도로 털이 많이 빠집니다. 매일 5~10분씩 언더코트 전용 빗으로 죽은 속털을 제거해 주고, 털갈이 시기에는 주기적인 목욕과 브러싱을 병행해야 피부 질환을 예방할 수 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "German Shepherd Dog Guarding Signals and 3-Step Daily Care Routine for Joint and Double Coat Management",
+        "description": "Care guide for the loyal German Shepherd Dog. Understand guarding body language, prevent hip dysplasia, and manage heavy shedding with a 3-step routine.",
+        "authority": "World Union of German Shepherd Dog Clubs (WUSV) & German Shepherd Dog Club of America (GSDCA) Veterinary Standards",
+        "profile": {
+          "breed": "German Shepherd Dog",
+          "lifespan": "9 - 13 Years",
+          "sleep_pattern": "10 - 12 Hours (High-Energy & Working Guard Type)",
+          "temperament": "Loyal, Intelligent, Courageous, High Alertness & Work Drive"
+        },
+        "intro": "German Shepherds are renowned worldwide as top police, military, and family dogs due to their exceptional intelligence, bravery, and loyalty. However, without adequate physical and mental stimulation matching their strong working drive, they can develop boundary aggression or destructive behaviors from stress. Additionally, their body structure makes them prone to hip and elbow dysplasia, and their dense double coat results in heavy shedding. In this guide, presents a 3-step daily care routine to decode your German Shepherd's body language and keep their joints and coat healthy.",
+        "whyTitle": "German Shepherd Body Language: Ear Angles and Focus Signals",
+        "whyDesc": "German Shepherds express emotions clearly through ear movements and posture. Pricking their ears forward while standing tall indicates an **'Alert Posture'**, an instinctual state for monitoring surroundings. Conversely, **'Head Tilting'** while listening is a high-level cognitive focus signal to pinpoint sound location and understand owner intent.",
+        "body_signals": [
+          {
+            "name": "Ears Pricked Forward & Rigid Stance (Alert & Guarding Posture)",
+            "meaning": "A strong environmental monitoring warning caused by external stimuli or strangers.",
+            "response": "Issue a calm disengagement command without tightening the leash, redirecting their focus back to the owner."
+          },
+          {
+            "name": "Head Tilting Left and Right While Staring (Head Tilting)",
+            "meaning": "An active curiosity and cognitive focus aimed at analyzing the owner's voice and visual cues.",
+            "response": "Repeat commands in a clear, upbeat tone and immediately reward correct ."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Interval Walking Combined with Obedience Training",
+            "text": "Combine walking with precise commands like 'stay' or 'heel' to burn mental and physical energy simultaneously."
+          },
+          {
+            "name": "Afternoon: Advanced Nosework & Working Simulation Games",
+            "text": "Provide complex puzzle toys or scent search games to satisfy their working drive and prevent boredom."
+          },
+          {
+            "name": "Evening: Double Coat Deshedding Brushing & Hip Warm Massage",
+            "text": "Remove dead undercoat fur with a slicker brush and undercoat rake, followed by a gentle massage on heavy-bearing hip joints."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "How can I prevent hip dysplasia in my German Shepherd?",
+            "answer": "While genetics play a major role, maintaining an ideal weight and joint care are crucial. Cover slippery indoor floors with mats, avoid sudden weight gains or high-impact jumping during growth, and provide joint supplements continuously."
+          },
+          {
+            "question": "Why do German Shepherds shed so much and how often should I brush them?",
+            "answer": "German Shepherds have a dense double coat and are nicknamed 'German Shedders' due to constant heavy shedding. Brush daily for 5-10 minutes with an undercoat rake, and increase brushing and baths during seasonal coat blows to prevent skin issues."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ジャーマン・シェパードの警戒サイン解読と関節・二重毛ケアのための3ステップデイリールーティン",
+        "description": "勇敢で忠実なジャーマン・シェパード。ボディランゲージの解読、股関節形成不全の予防、濃密な二重毛の抜け毛ケアのための3ステップホームケアを紹介します。",
+        "authority": "世界ジャーマン・シェパード犬協会連盟(WUSV)＆アメリカ・ジャーマン・シェパード・ドッグ・クラブ(GSDCA)獣医ケア基準",
+        "profile": {
+          "breed": "ジャーマン・シェパード・ドッグ (German Shepherd Dog)",
+          "lifespan": "9 〜 13年",
+          "sleep_pattern": "10 〜 12時間 (高エネルギー・警戒作業型)",
+          "temperament": "忠実、聡明、勇敢、高い警戒心と作業欲求"
+        },
+        "intro": "ジャーマン・シェパードは卓越した知能と勇敢さ、高い忠誠心で世界最高の警察犬・軍導犬・家庭犬として愛されています。しかし、旺盛な作業欲求に見合う十分な運動や頭脳刺激がないと、ストレスから警戒攻撃性や破壊行動を起こすことがあります。また、体型構造上、股関節や肘関節の形成不全（Dysplasia）を起こしやすく、濃密な二重毛のため抜け毛が非常に多いです。本記事では、ジャーマン・シェパードのボディランゲージを正しく理解し、関節と被毛の健康を守る3ステップルーティンをお届けします。",
+        "whyTitle": "ジャーマン・シェパードのボディランゲージ：耳の角度と集中サイン",
+        "whyDesc": "ジャーマン・シェパードは耳の動きと姿勢で感情を明確に表現します。ピンと立てた耳を前方に向けて堂々と立つのは**「高度警戒姿勢（Alert Posture）」**であり、周囲を監視する本能的行動です。一方、声や指示を聞く際の**「首を傾げる動作（Head Tilting）」**は、音の位置を正確に把握し、飼い主の意図を理解しようとする高度な認知集中サインです。",
+        "body_signals": [
+          {
+            "name": "耳を立てて体を緊張させる (Alert & Guarding Posture)",
+            "meaning": "外部刺激や見知らぬ対象に対する強い警戒および環境監視状態です。",
+            "response": "緊張を和らげるため、落ち着いた声で解除コマンドを出し、リードを引っ張らずに飼い主へ意識を向けさせます。"
+          },
+          {
+            "name": "飼い主を見つめて首を左右に傾げる (Head Tilting)",
+            "meaning": "飼い主の声や視覚サインを正確に分析しようとする積極的な好奇心と認知集中状態です。",
+            "response": "明るいトーンで指示を繰り返し、正しい行動をしたらすぐに明確にご褒美を与えます。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：服従訓練を交えたインターバル散歩",
+            "text": "単なる歩行だけでなく「待て」「ヒール（ついて）」などの精密な指示を交え、脳と身体エネルギーを同時に消費させます。"
+          },
+          {
+            "name": "昼：高難度ノーズワークと作業シミュレーション遊び",
+            "text": "複雑な知育玩具や宝探し（ノーズワーク）を提供し、作業欲求を満たして退屈を防ぎます。"
+          },
+          {
+            "name": "夜：二重毛の抜け毛除去ブラッシングと股関節マッサージ",
+            "text": "スリッカーブラシとアンダーコートレーキで死毛を取り除き、負担のかかる股関節周囲を優しくマッサージします。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "股関節形成不全を予防するにはどうすればよいですか？",
+            "answer": "遺伝的要因が大きいですが、適正体重の維持と関節ケアが不可欠です。滑りやすい室内にマットを敷き、成長期の急激な体重増加や激しいジャンプを避け、関節サプリメントを継続的に与えましょう。"
+          },
+          {
+            "question": "抜け毛がひどいのですが、ブラッシングはどれくらいの頻度で行うべきですか？",
+            "answer": "密度の高い二重毛を持つため「ジャーマン・シェッダー（毛噴射犬）」と呼ばれるほど抜けます。アンダーコート用ブラシで毎日5〜10分ブラッシングし、換毛期には定期的なシャンプーと念入りなケアで皮膚トラブルを防ぎましょう。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "德牧（德国牧羊犬）警戒信号解读与关节及双层毛护理的3步日常流程",
+        "description": "勇敢忠诚的德国牧羊犬护理指南。解读其肢体语言，预防髋关节发育不良，并应对双层毛严重脱落的3步骤家庭护理。",
+        "authority": "世界德国牧羊犬协会 (WUSV) 与美国德国牧羊犬协会 (GSDCA) 兽医护理标准",
+        "profile": {
+          "breed": "德国牧羊犬 (German Shepherd Dog)",
+          "lifespan": "9 ~ 13年",
+          "sleep_pattern": "10 ~ 12小时 (高能量警惕工作型)",
+          "temperament": "忠诚、聪慧、勇敢、高度警惕与工作热忱"
+        },
+        "intro": "德国牧羊犬（德牧）凭借卓越的智商、勇敢与高度忠诚，成为全球最受欢迎的军警犬与家庭犬。然而，若无法满足其强烈的工作欲与运动需求，它们容易因压力产生过度警惕的攻击性或破坏行为。此外，其体型结构极易引发髋关节和肘关节发育不良，且浓密的双层毛在换毛季脱落极其严重。本指南将带您解读德牧的身体语言，并通过3步骤日常护理保护其关节与被毛健康。",
+        "whyTitle": "德国牧羊犬的肢体语言：耳朵角度与专注信号",
+        "whyDesc": "德牧通过耳朵动作的姿态清晰地表达情绪。双耳直立向前并挺拔站立，代表处于**“高度警惕姿态 (Alert Posture)”**，是观察周围环境的本能表现。相反，听指令时**“歪头的动作 (Head Tilting)”**则是为了精准定位声音来源并理解主人意图的高阶认知专注信号。",
+        "body_signals": [
+          {
+            "name": "双耳直立且身体紧绷 (Alert & Guarding Posture)",
+            "meaning": "对外部刺激或陌生目标产生强烈警惕与环境监控状态。",
+            "response": "用平静的语气下达解除指令，切勿紧拉牵引绳，引导其将注意力转移回主人身上。"
+          },
+          {
+            "name": "注视主人并左右歪头 (Head Tilting)",
+            "meaning": "试图精确分析主人的声音与视觉信号的积极好奇心与认知专注状态。",
+            "response": "用清晰明亮的语气重复指令，并在其做出正确反应时立即给予明确奖励。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：结合服从性训练的变速跑散步",
+            "text": "在散步中穿插“等待”、“随行”等精细指令，同时消耗大脑与体能的能量。"
+          },
+          {
+            "name": "中午：高难度嗅闻 (Nosework) 与模拟工作游戏",
+            "text": "提供复杂的益智玩具或寻物游戏，满足其工作天性并预防无聊。"
+          },
+          {
+            "name": "晚上：双层毛浮毛梳理与髋关节温热按摩",
+            "text": "使用针梳和开结梳清理底层浮毛，并轻柔按摩承受体重的髋关节的肌肉。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "如何预防德牧的髋关节发育不良？",
+            "answer": "虽然遗传因素影响较大，但保持理想体重的关节护理至关重要。在易滑室内铺设防滑垫，避免幼犬期体重暴增或剧烈跳跃，并持续补充关节保健品。"
+          },
+          {
+            "question": "德牧掉毛非常严重，应该多久梳一次毛？",
+            "answer": "德牧拥有极其浓密的双层毛，甚至被称为“掉毛怪 (German Shedder)”。建议每天用专用底层梳梳理5~10分钟，换毛期应结合定期洗澡与深度梳理以预防皮肤病。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Señales de alerta del Pastor Alemán y rutina diaria de 3 pasos para el cuidado articular y del manto doble",
+        "description": "Guía para el leal Pastor Alemán. Interprete su lenguaje corporal, prevenga la displasia de cadera y controle la muda intensa con una rutina de 3 pasos.",
+        "authority": "Unión Mundial de Clubes del Perro Pastor Alemán (WUSV) y Estándares Veterinarios del GSDCA",
+        "profile": {
+          "breed": "Pastor Alemán (German Shepherd Dog)",
+          "lifespan": "9 ~ 13 años",
+          "sleep_pattern": "10 ~ 12 horas (alta energía y perro de trabajo/alerta)",
+          "temperament": "Leal, Inteligente, Valiente, Elevada alerta e impulso de trabajo"
+        },
+        "intro": "El Pastor Alemán es admirado globalmente como perro de trabajo, policía y compañía por su excepcional inteligencia, valor y lealtad. Sin embargo, si no se satisfacen sus altas necesidades de estimulación física y mental, puede desarrollar conductas destructivas o agresividad territorial por estrés. Además, su anatomía lo hace propenso a la displasia de cadera y codo, y su manto doble causa una muda abundante. En esta guía, presenta una rutina de 3 pasos para interpretar el lenguaje corporal de su Pastor Alemán y proteger sus articulaciones y pelaje.",
+        "whyTitle": "Lenguaje corporal del Pastor Alemán: Ángulo de las orejas y señales de enfoque",
+        "whyDesc": "El Pastor Alemán expresa sus emociones con claridad mediante la postura y el movimiento de sus orejas. Mantener las orejas erguidas hacia adelante en postura firme indica una **'Postura de Alerta'**, un estado instintivo para vigilar el entorno. Por el contrario, **'Inclinar la cabeza'** al escuchar es una señal de alta concentración cognitiva para ubicar el sonido e interpretar la intención del dueño.",
+        "body_signals": [
+          {
+            "name": "Orejas erguidas y postura corporal rígida (Alert & Guarding Posture)",
+            "meaning": "Estado de intensa vigilancia ambiental y advertencia ante estímulos externos o extraños.",
+            "response": "Emita una orden de desconexión con voz firme pero tranquila sin tensar la correa, redirigiendo su atención hacia usted."
+          },
+          {
+            "name": "Mirar al dueño e inclinar la cabeza a ambos lados (Head Tilting)",
+            "meaning": "Curiosidad activa y enfoque cognitivo para analizar las señales auditivas y visuales del dueño.",
+            "response": "Repita los comandos en un tono claro y alegre, recompensando de inmediato la respuesta correcta."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Paseo a intervalos combinado con entrenamiento de obediencia",
+            "text": "Incorpore órdenes precisas como 'junto' o 'espera' durante la caminata para exigir esfuerzo mental y físico simultáneo."
+          },
+          {
+            "name": "Tarde: Juegos avanzados de rastreo (Nosework) y simulación de trabajo",
+            "text": "Proporcione juguetes rompecabezas complejos o búsquedas de olores para canalizar su impulso de trabajo y evitar el aburrimiento."
+          },
+          {
+            "name": "Noche: Cepillado de manto doble para pelo muerto y masaje tibio de caderas",
+            "text": "Retire el subpelo muerto con un cepillo slicker y un rastrillo para manto, y realice masajes suaves en las articulaciones de la cadera."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Cómo puedo prevenir la displasia de cadera en mi Pastor Alemán?",
+            "answer": "Aunque existe un componente genético significativo, mantener un peso adecuado y cuidar las articulaciones es fundamental. Coloque alfombras en suelos resbaladizos, evite saltos de alto impacto en la etapa de crecimiento y suministre condroprotectores continuamente."
+          },
+          {
+            "question": "Mi Pastor Alemán suelta muchísimo pelo, ¿con qué frecuencia debo cepillarlo?",
+            "answer": "Poseen un manto doble denso y son apodados 'German Shedders' por su constante muda. Cepille diariamente durante 5-10 minutos con un rastrillo de subpelo, e incremente la frecuencia y los baños durante las épocas de muda estacional."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Signaux d'alerte du Berger Allemand et routine quotidienne en 3 étapes pour les articulations et le double pelage",
+        "description": "Guide de soins pour le loyal Berger Allemand. Décryptez son langage corporel, prévenez la dysplasie de la hanche et gérez la mue grâce à une routine en 3 étapes.",
+        "authority": "Union Mondiale des Clubs de Chiens de Berger Allemand (WUSV) & Normes Vétérinaires du GSDCA",
+        "profile": {
+          "breed": "Berger Allemand (German Shepherd Dog)",
+          "lifespan": "9 ~ 13 ans",
+          "sleep_pattern": "10 ~ 12 heures (très actif, chien de travail et de garde)",
+          "temperament": "Loyal, Intelligent, Courageux, Vigilance élevée et besoin de travail"
+        },
+        "intro": "Le Berger Allemand est reconnu dans le monde entier comme un chien policier, militaire et familial d'exception grâce à son intelligence, son courage et sa fidélité. Cependant, sans une stimulation physique et mentale suffisante correspondant à son fort besoin de travail, il peut développer une agressivité de garde ou des comportements destructeurs dus au stress. De plus, sa morphologie le rend vulnérable à la dysplasie de la hanche et du coude, et son double pelage entraîne une mue importante. Dans ce guide, vous présente une routine en 3 étapes pour comprendre votre Berger Allemand et préserver sa santé.",
+        "whyTitle": "Langage corporel du Berger Allemand : Orientation des oreilles et signaux de concentration",
+        "whyDesc": "Le Berger Allemand exprime clairement ses émotions par ses oreilles et sa posture. Garder les oreilles dressées vers l'avant en position droite traduit une **« Posture d'alerte »**, un état instinctif de surveillance. En revanche, **« Pencher la tête »** lorsqu'il écoute est un signal de forte concentration cognitive visant à localiser les sons et à comprendre les intentions de son maître.",
+        "body_signals": [
+          {
+            "name": "Oreilles dressées et corps tendu (Alert & Guarding Posture)",
+            "meaning": "État de vigilance intense et de surveillance face à des stimuli extérieurs ou des inconnus.",
+            "response": "Donnez un ordre de renoncement d'un ton calme sans tendre la laisse, puis redirigez son attention vers vous."
+          },
+          {
+            "name": "Regarder le maître en penchant la tête de gauche à droite (Head Tilting)",
+            "meaning": "Curiosité active et concentration visant à analyser précisément les signaux vocaux et visuels du maître.",
+            "response": "Répétez l'ordre d'un ton clair et enjoué, puis récompensés immédiatement le bon comportement."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Promenade fractionnée combinée à des exercices d'obéissance",
+            "text": "Incorporez des ordres stricts comme « au pied » ou « pas bouger » pour dépenser simultanément son énergie mentale et physique."
+          },
+          {
+            "name": "Après-midi : Jeux de recherche olfactive (Nosework) avancés et simulation de travail",
+            "text": "Proposez des puzzles complexes ou des jeux de recherche d'objets pour satisfaire son instinct de travail et éviter l'ennui."
+          },
+          {
+            "name": "Soir : Brossage du sous-poil mort & massage doux des hanches",
+            "text": "Éliminez le sous-poil mort à l'aide d'un râteau anti-mue et massez délicatement la zone des hanches et des cuisses."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Comment prévenir la dysplasie de la hanche chez le Berger Allemand ?",
+            "answer": "Même si la génétique joue un rôle majeur, le maintien d'un poids de forme est crucial. Installez des tapis sur les sols glissants, évitez les sauts violents pendant la croissance et donnez des compléments articulaires."
+          },
+          {
+            "question": "Pourquoi mon Berger Allemand perd-il autant de poils et à quelle fréquence le brosser ?",
+            "answer": "Doté d'un sous-poil très dense, il est surnommé « German Shedder » pour sa mue abondante. Brossez-le quotidiennement 5 à 10 minutes avec un peigne démêloir, et intensifiez le brossage lors des mues saisonnières."
+          }
+        ]
+      },
+      "de": {
+        "title": "Körpersprache des Deutschen Schäferhundes und 3-Schritte-Tagesroutine für Gelenke und Unterwolle",
+        "description": "Pflegeanleitung für den treuen Deutschen Schäferhund. Verstehen Sie Warnsignale, beugen Sie Hüftdysplasie vor und bewältigen Sie den Fellwechsel mit einer 3-Schritte-Routine.",
+        "authority": "Weltunion der Vereine für Deutsche Schäferhunde (WUSV) & Tiermedizinische Standards des SV",
+        "profile": {
+          "breed": "Deutscher Schäferhund (German Shepherd Dog)",
+          "lifespan": "9 ~ 13 Jahre",
+          "sleep_pattern": "10 ~ 12 Stunden (hohe Energie, Arbeits- & Wachhund)",
+          "temperament": "Treu, Intelligent, Mutig, Hohe Wachsamkeit & Arbeitstrieb"
+        },
+        "intro": "Der Deutsche Schäferhund ist dank seiner Intelligenz, seines Mutes und seiner Loyalität weltbekannt als Dienst-, Schutz- und Familienhund. Ohne ausreichende körperliche und geistige Auslastung, die seinem starken Arbeitstrieb gerecht wird, kann er jedoch stressbedingtes Territorial- oder Fehlverhalten entwickeln. Zudem ist die Rasse anfällig für Hüft- und Ellenbogendysplasie (HD/ED) und neigt durch das dichte doppelte Haarkleid zu starkem Haaren. Heute präsentiert  eine 3-Schritte-Routine, um die Körpersprache Ihres Schäferhundes zu verstehen und seine Gelenke sowie sein Fell gesund zu halten.",
+        "whyTitle": "Körpersprache des Deutschen Schäferhundes: Ohrenstellung und Fokus",
+        "whyDesc": "Der Deutsche Schäferhund drückt Emotionen präzise über Ohrenstellung und Körperhaltung aus. Aufgerichtete, nach vorne gerichtete Ohren und eine stramme Haltung signalisieren eine **'Aufmerksame Schutzhaltung' (Alert Posture)** zur Überwachung der Umgebung. Das **'Schiefhalten des Kopfes' (Head Tilting)** beim Zuhören ist dagegen ein Zeichen hoher kognitiver Konzentration, um Geräusche zu orten und die Absicht des Halters zu erfassen.",
+        "body_signals": [
+          {
+            "name": "Aufgerichtete Ohren & angespannte Körperhaltung (Alert & Guarding Posture)",
+            "meaning": "Hohe Wachsamkeit und Umweltüberwachung aufgrund von Außenreizen oder Fremden.",
+            "response": "Geben Sie mit ruhiger Stimme ein Abbruchkommando, ohne die Leine zu straffen, und lenken Sie den Fokus auf sich."
+          },
+          {
+            "name": "Blick zum Halter mit seitlich geneigtem Kopf (Head Tilting)",
+            "meaning": "Aktive Neugier und kognitive Konzentration zur Analyse von Stimme und Sichtzeichen des Halters.",
+            "response": "Wiederholen Sie Kommandos in deutlichem, freundlichem Ton und belohnen Sie richtiges Verhalten sofort."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Intervall-Spaziergang kombiniert mit Unterordnungsübungen",
+            "text": "Bauen Sie Präzisionskommandos wie 'Fuß' oder 'Bleib' ein, um Geist und Körper gleichzeitig zu fordern."
+          },
+          {
+            "name": "Mittag: Anspruchsvolle Nasenarbeit (Nosework) & Arbeitssimulation",
+            "text": "Bieten Sie komplexe Intelligenzspielzeuge oder Suchspiele an, um den Arbeitstrieb zu befriedigen und Unterforderung vorzubeugen."
+          },
+          {
+            "name": "Abend: Ausbürsten der Unterwolle & Wärmende Gelenkmassage",
+            "text": "Entfernen Sie abgestorbene Unterwolle mit einem Unterwollrechen und massieren Sie die beanspruchten Hüftgelenke sanft."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Wie kann ich einer Hüftdysplasie (HD) beim Deutschen Schäferhund vorbeugen?",
+            "answer": "Neben der genetischen Veranlagung ist ein ideales Körpergewicht entscheidend. Rutschige Böden im Haus mit Matten auslegen, langes Treppensteigen oder hohe Sprünge im Wachstum vermeiden und Gelenknährstoffe zufüttern."
+          },
+          {
+            "question": "Warum haart mein Schäferhund so stark und wie oft muss ich ihn bürsten?",
+            "answer": "Durch sein dichtes doppeltes Haarkleid zählt er zu den stark haarenden Rassen. Bürsten Sie täglich 5–10 Minuten mit einem Unterwollkamm; im Fellwechsel helfen regelmäßiges Bürsten und Baden, Hautprobleme zu vermeiden."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Sinais de alerta do Pastor Alemão e rotina diária de 3 passos para cuidados articulares e pelagem dupla",
+        "description": "Guia para o leal Pastor Alemão. Interprete sua linguagem corporal, previna a displasia de quadril e controle a queda de pelos com uma rotina de 3 passos.",
+        "authority": "União Mundial dos Clubes de Cães Pastor Alemão (WUSV) e Padrões Veterinários do GSDCA",
+        "profile": {
+          "breed": "Pastor Alemão (German Shepherd Dog)",
+          "lifespan": "9 ~ 13 anos",
+          "sleep_pattern": "10 ~ 12 horas (alta energia, trabalho e alerta)",
+          "temperament": "Leal, Inteligente, Corajoso, Alta vigilância e impulso de trabalho"
+        },
+        "intro": "O Pastor Alemão é admirado no mundo todo como cão policial, militar e de família por sua inteligência, coragem e lealdade excepcionais. Contudo, sem estímulos físicos e mentais adequados para responder ao seu forte impulso de trabalho, ele pode desenvolver agressividade territorial ou comportamentos destrutivos por estresse. Além disso, a estrutura física da raça favorece a displasia de quadril e cotovelo, e sua pelagem dupla espessa causa uma queda intensa de pelos. Neste guia, apresenta uma rotina de 3 passos para entender a linguagem corporal do seu Pastor Alemão e proteger suas articulações e pelagem.",
+        "whyTitle": "Linguagem corporal do Pastor Alemão: Ângulo das orelhas e sinais de foco",
+        "whyDesc": "O Pastor Alemão expressa suas emoções com clareza através da postura e do movimento das orelhas. Manter as orelhas eretas voltadas para a frente e o corpo firme indica uma **'Postura de Alerta'**, um estado instintivo de vigilância. Já o ato de **'Inclinar a cabeça'** ao ouvir o tutor é um sinal de alto foco cognitivo para localizar o som e compreender o comando.",
+        "body_signals": [
+          {
+            "name": "Orelhas eretas e postura corporal rígida (Alert & Guarding Posture)",
+            "meaning": "Estado de intensa vigilância e alerta ambiental diante de estímulos externos ou estranhos.",
+            "response": "Dê um comando de liberação em tom calmo sem puxar a guia, redirecionando o foco do cão para você."
+          },
+          {
+            "name": "Olhar para o tutor inclinando a cabeça para os lados (Head Tilting)",
+            "meaning": "Curiosidade ativa e foco cognitivo voltados para analisar os sinais sonoros e visuais do tutor.",
+            "response": "Repita os comandos com clareza e entusiasmo, recompensando imediatamente a resposta correta."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Passeio intervalado combinado com treino de obediência",
+            "text": "Insira comandos precisos como 'junto' ou 'fica' durante a caminhada para exercitar mente e corpo simultaneamente."
+          },
+          {
+            "name": "Tarde: Jogos avançados de faro (Nosework) e simulação de trabalho",
+            "text": "Ofereça brinquedos interativos complexos ou busca de objetos para satisfazer seu impulso de trabalho e evitar o tédio."
+          },
+          {
+            "name": "Noite: Escovação da pelagem dupla & massagem morna nas articulações",
+            "text": "Remova os pelos mortos do subpelo com uma rasqueadeira e faça uma massagem suave na região do quadril."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Como posso prevenir a displasia de quadril no meu Pastor Alemão?",
+            "answer": "Embora exista forte fator genético, manter o peso ideal e cuidar das articulações é fundamental. Cubra pisos escorregadios com tapetes, evite saltos de alto impacto durante o crescimento e forneça suplementos articulares."
+          },
+          {
+            "question": "Por que o Pastor Alemão solta tanto pelo e com que frequência devo escová-lo?",
+            "answer": "Eles possuem pelagem dupla densa e são conhecidos pelo alto volume de queda. Escove diariamente por 5 a 10 minutos com um rastelo para subpelo e intensifique os banhos e escovações na época de troca de pelagem."
+          }
+        ]
+      },
+      "id": {
+        "title": "Isyarat Kewaspadaan German Shepherd dan Rutinitas Harian 3 Langkah Perawatan Sendi serta Bulu Ganda",
+        "description": "Panduan perawatan anjing leal German Shepherd. Pahami bahasa tubuh kewaspadaan, cegah displasia pinggul, dan kelola kerontokan bulu ganda dalam 3 langkah.",
+        "authority": "World Union of German Shepherd Dog Clubs (WUSV) & Standar Medis Veteriner GSDCA",
+        "profile": {
+          "breed": "German Shepherd (German Shepherd Dog)",
+          "lifespan": "9 ~ 13 Tahun",
+          "sleep_pattern": "10 ~ 12 Jam (Energi Tinggi, Tipe Kerja & Penjaga)",
+          "temperament": "Setia, Cerdas, Pemberani, Kewaspadaan & Dorongan Kerja Tinggi"
+        },
+        "intro": "German Shepherd diakui di seluruh dunia sebagai anjing polisi, militer, dan keluarga yang luar biasa berkat kecerdasan, keberanian, dan kesetiannya. Namun, tanpa stimulasi fisik dan mental yang cukup untuk memenuhi dorongan kerjanya yang tinggi, mereka dapat mengalami perilaku teritorial atau destruktif akibat stres. Selain itu, struktur tubuh mereka rentan terhadap displasia pinggul dan siku, serta bulu ganda mereka yang lebat menyebabkan kerontokan parah. Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk memahami bahasa tubuh German Shepherd serta menjaga kesehatan sendi dan bulu mereka.",
+        "whyTitle": "Bahasa Tubuh German Shepherd: Sudut Telinga dan Sinyal Fokus",
+        "whyDesc": "German Shepherd mengekspresikan emosi dengan jelas melalui gerakan telinga dan postur tubuh. Telinga yang tegak menghadap ke depan dengan tubuh tegap menandakan **'Postura Waspada' (Alert Posture)**, kondisi naluriah untuk mengawasi lingkungan. Sebaliknya, **'Miringkan Kepala' (Head Tilting)** saat mendengarkan adalah sinyal fokus kognitif tinggi untuk memetakan sumber suara dan memahami maksud pemilik.",
+        "body_signals": [
+          {
+            "name": "Telinga Tegak & Postur Tubuh Kaku (Alert & Guarding Posture)",
+            "meaning": "Status kewaspadaan tinggi dan pemantauan lingkungan akibat rangsangan luar atau orang asing.",
+            "response": "Berikan perintah pengalihan dengan suara tenang tanpa menarik tali penuntun secara kencang, alihkan fokusnya kembali ke pemilik."
+          },
+          {
+            "name": "Menatap Pemilik Sambil Memiringkan Kepala ke Kiri dan Kanan (Head Tilting)",
+            "meaning": "Rasa ingin tahu aktif dan fokus kognitif untuk menganalisis suara dan isyarat visual pemilik.",
+            "response": "Ulangi perintah dengan nada jelas dan ceria, lalu segera berikan pujian atau hadiah saat merespons dengan benar."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Jalan Lintas Interval Dikombinasikan dengan Latihan Kepatuhan",
+            "text": "Sisipkan perintah presisi seperti 'tumit' atau 'diam' saat berjalan untuk membakar energi fisik dan mental sekaligus."
+          },
+          {
+            "name": "Siang: Permainan Penciuman (Nosework) Tingkat Lanjut & Simulasi Kerja",
+            "text": "Sediakan mainan puzzle rumit atau pencarian benda untuk memuaskan naluri kerja dan mencegah kebosanan."
+          },
+          {
+            "name": "Malam: Menyikat Bulu Ganda & Pijat Hangat Sendi Pinggul",
+            "text": "Rontokkan bulu halus yang mati dengan sikat slicker dan sisir undercoat, lalu pijat lembut area sendi pinggul."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Bagaimana cara mencegah displasia pinggul pada German Shepherd?",
+            "answer": "Meskipun faktor genetik sangat berpengaruh, menjaga berat badan ideal dan perawatan sendi adalah kuncinya. Pasang matras pada lantai licin, hindari lompatan tinggi saat masa pertumbuhan, dan berikan suplemen sendi secara teratur."
+          },
+          {
+            "question": "Mengapa German Shepherd sangat banyak rontok dan seberapa sering harus disikat?",
+            "answer": "Mereka memiliki bulu ganda lebat dan dijuluki 'German Shedder' karena volume kerontokannya yang tinggi. Sikat setiap hari selama 5-10 menit dengan sisir undercoat, serta tingkatkan mandi dan penyikatan saat musim rontok bulu."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/german_shepherd_care.webp"
+  }
 }

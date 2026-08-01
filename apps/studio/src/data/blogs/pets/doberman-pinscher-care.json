@@ -1,459 +1,459 @@
 {
-    "doberman-pinscher-care": {
-        "pubDate": "2026-01-15",
-        "updatedDate": "2026-01-15",
-        "locales": {
-            "ko": {
-                "title": "도베르만 핀셔의 충성·경계 신호 해석과 확장성 심근병증(DCM) 및 위확장-꼬임(GDV) 예방을 위한 3단계 데일리 케어",
-                "description": "용맹하고 우아한 대형견 도베르만 핀셔(Doberman Pinscher). 몸 기대기(Dobie Lean) 및 고정 시선 경계 신호 해석, DCM·위꼬임 예방 및 에너지 발산을 위한 3단계 홈케어 루틴을 소개합니다.",
-                "authority": "미국 케넬 클럽 (AKC) 및 Doberman Pinscher Club of America (DPCA) 케어 프로토콜",
-                "profile": {
-                    "breed": "도베르만 핀셔 (Doberman Pinscher)",
-                    "lifespan": "10 ~ 12년",
-                    "sleep_pattern": "12 ~ 14시간 (고강도 운동 후 깊은 수면)",
-                    "temperament": "충직함, 영리함, 경계심 강함, 에너제틱, 보호 본능"
-                },
-                "intro": "뛰어난 지능과 우아한 체형, 강렬한 충성심을 지닌 도베르만 핀셔(Doberman Pinscher)는 전 세계에서 사랑받는 경비견이자 가족의 반려견입니다. 도베르만은 보호자에 대한 애정이 깊지만, 유전적으로 확장성 심근병증(DCM) 발병률이 매우 높으며 깊은 가슴 구조로 인해 식사 후 급격한 운동 시 위확장-꼬임(GDV/위비틀림)이 발생하기 쉽습니다. 또한 단모종으로 추위에 약하고 복종 훈련과 충분한 풍부화 활동이 이루어지지 않으면 스트레스 행동을 보일 수 있습니다. 이번 가이드에서는 도베르만 핀셔의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
-                "whyTitle": "도베르만 핀셔의 바디 랭귀지: 몸 기대기(Dobie Lean)와 고정 시선 경계(Hard Stare)",
-                "whyDesc": "도베르만은 신체 접촉과 시선 변화로 애정과 경계 상태를 명확히 표현합니다. 보호자의 다리나 몸에 체중을 실어 바짝 붙는 **'몸 기대기(Dobie Lean)'**는 보호자를 독점하고 안도감을 느끼는 최고의 애정 표시입니다. 반면 몸을 일자로 꼿꼿이 세우고 목을 높이 들어 대상을 뚫어지게 응시하는 **'고정 시선 경계(Hard Stare / Stiff Stance)'**는 낯선 대상에 대한 강한 경계와 공격 전 차단 신호입니다.",
-                "body_signals": [
-                    {
-                        "name": "보호자의 다리나 몸에 온몸을 밀착하여 체중을 기댐 (Dobie Lean)",
-                        "meaning": "보호자에 대한 깊은 신뢰와 애착, 그리고 신체적 안도감을 표출하는 도베르만 특유의 대표적 애정 행동입니다.",
-                        "response": "차분하게 쓰다듬어 주며 애정에 응답하고, 보호자가 든든한 리더임을 인식시켜 안정감을 줍니다."
-                    },
-                    {
-                        "name": "몸이 굳어진 채 목을 세우고 대상을 고정 응시함 (Hard Stare / Stiff Stance)",
-                        "meaning": "잠재적 위협이나 영역 침범에 대응하는 강한 경계 및 즉각적 반응 직전의 경고 신호입니다.",
-                        "response": "줄을 짧게 잡고 자극 대상을 시야에서 차단한 후 '앉아'나 '나 봐' 명령어로 시선을 보호자에게 돌립니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 고단백 식사 급여 및 위꼬임(GDV) 예방을 위한 식후 휴식 점검",
-                        "text": "깊은 가슴 체형의 위꼬임 방지를 위해 슬로우 식기를 사용하고, 식사 직후 1시간 동안은 뛸듯한 과격한 운동을 엄격히 금지합니다."
-                    },
-                    {
-                        "name": "낮: 고강도 운동(60분 이상) 및 지능 개발 브레인 게임",
-                        "text": "풍부한 에너지와 높은 지능 충족을 위해 러닝, 플러시 폴 등의 운동과 노즈워크 및 복종 훈련을 병행합니다."
-                    },
-                    {
-                        "name": "저녁: 피모·피부 상태 점검 및 단모종 체온 유지(보온 의류 준비)",
-                        "text": "싱글 코트 단모 특성상 추위에 민감하므로 실내 온도를 따뜻하게 유지하고, 외출 시 체온 조절용 의류 착용 및 피부 건조 여부를 점검합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "도베르만에게 심장 질환(DCM, 확장성 심근병증)이 왜 그렇게 위험한가요?",
-                        "answer": "확장성 심근병증(DCM)은 도베르만 핀셔 종의 50% 이상에서 나타날 정도로 치명적인 유전성 질환입니다. 심장 근육이 얇아지고 커지면서 펌프 기능을 잃게 되며, 초기 증상이 거의 없이 갑작스러운 무기력이나 무증상 정지로 나타날 수 있습니다. 1~2세 이후부터 매년 정기적인 심초음파 및 24시간 홀터 모니터링 검사를 실시하는 것이 생명 연장의 핵심입니다."
-                    },
-                    {
-                        "question": "식사 후 운동하면 왜 치명적인 위꼬임(GDV)이 생기나요?",
-                        "answer": "도베르만처럼 흉곽(가슴)이 깊고 넓은 대형견은 위장이 자유롭게 움직일 수 있는 공간이 커 식사 후 공기를 많이 삼키거나 갑자기 움직이면 위가 가스로 부풀어 오르며 꼬이는 위확장-꼬임(GDV)이 잘 발생합니다. 이는 몇 시간 내에 혈류를 차단해 쇼크와 사망을 유발하므로, 자율 급식보다는 나누어 급여하고 식후 최소 1시간은 조용히 휴식하게 해야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Doberman Pinscher Behavioral Signals and 3-Step Daily Routine for DCM Heart Health and GDV Bloat Prevention",
-                "description": "Care guide for the noble Doberman Pinscher. Interpret the Dobie Lean and Hard Stare, prevent DCM cardiomyopathy and GDV bloat, and manage high energy in 3 steps.",
-                "authority": "American Kennel Club (AKC) & Doberman Pinscher Club of America (DPCA) Care Standards",
-                "profile": {
-                    "breed": "Doberman Pinscher",
-                    "lifespan": "10 - 12 Years",
-                    "sleep_pattern": "12 - 14 Hours (Restful deep sleep after vigorous exercise)",
-                    "temperament": "Loyal, Highly Intelligent, Alert, Energetic, Protective"
-                },
-                "intro": "Renowned for their intelligence, elegant physique, and unwavering loyalty, the Doberman Pinscher is a cherished companion and working dog worldwide. While deeply devoted to their families, Dobermans are genetically predisposed to Dilated Cardiomyopathy (DCM) and, due to their deep-chested structure, are highly vulnerable to fatal Gastric Dilatation-Volvulus (GDV/Bloat). Furthermore, their single short coat makes them sensitive to cold, and without sufficient physical and mental stimulation, they can develop stress behaviors. In this guide, presents a 3-step daily care routine to decode your Doberman's body signals and safeguard their health.",
-                "whyTitle": "Doberman Pinscher Body Language: The Dobie Lean and the Hard Stare",
-                "whyDesc": "Dobermans communicate affection and territorial alertness through distinct physical postures and eye contact. Pressing their full weight against your legs or body **'The Dobie Lean'** is their signature display of deep trust, affection, and desire for closeness. Conversely, standing completely rigid with a raised neck and an unblinking gaze **'The Hard Stare / Stiff Stance'** is an explicit alert signal indicating high arousal, threat assessment, and potential defense.",
-                "body_signals": [
-                    {
-                        "name": "Pressing Full Body Weight Against Owner's Legs (Dobie Lean)",
-                        "meaning": "A signature Doberman affection display showing profound trust, attachment, and physical reassurance toward their owner.",
-                        "response": "Respond calmly with gentle petting to reinforce bond and reaffirm your confident leadership."
-                    },
-                    {
-                        "name": "Standing Rigid with Raised Neck and Unblinking Gaze (Hard Stare / Stiff Stance)",
-                        "meaning": "A high-alert posture triggered by potential threats or territorial intrusion, signaling readiness to react.",
-                        "response": "Shorten the leash, block their line of sight to the trigger, and redirect attention using 'Sit' or 'Look at Me' commands."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: High-Protein Meal & Strict Post-Meal Rest to Prevent GDV Bloat",
-                        "text": "Feed using a slow-feeder bowl to reduce air swallowing, and strictly enforce a 1-hour calm rest period after eating with no vigorous running."
-                    },
-                    {
-                        "name": "Afternoon: High-Intensity Physical Exercise (60+ Min) & Mental Enrichment",
-                        "text": "Satisfy their high drive with activities like running, flirt pole, or agility, combined with obedience training and nosework games."
-                    },
-                    {
-                        "name": "Evening: Coat & Skin Inspection & Cold Weather Protection",
-                        "text": "Inspect their single short coat for dryness or irritation, maintain warm indoor ambient temperatures, and use protective apparel during cold walks."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why is Dilated Cardiomyopathy (DCM) particularly dangerous for Dobermans?",
-                        "answer": "Dilated Cardiomyopathy (DCM) is a fatal inherited heart disease affecting over 50% of Doberman Pinschers. The heart muscle thins and enlarges, losing its ability to pump blood effectively. Because early stages are often asymptomatic until sudden weakness or cardiac collapse occurs, annual screening with echocardiograms and 24-hour Holter monitoring starting at 1–2 years old is essential for early detection."
-                    },
-                    {
-                        "question": "Why can exercise right after eating cause life-threatening GDV (Bloat)?",
-                        "answer": "Dobermans have deep, narrow chests, giving the stomach room to rotate. Eating rapidly or exercising immediately after a meal can cause the stomach to fill with gas and twist on itself (GDV/Bloat). This cuts off blood supply to vital organs within hours, causing rapid shock. To prevent this, divide daily food portions, use slow feeders, and keep them completely calm for at least one hour post-meal."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ドーベルマン・ピンシャーの忠誠・警戒サイン解読と拡張型心筋症(DCM)・胃拡張捻転(GDV)予防のための3ステップデイリールーティン",
-                "description": "気高く勇敢な大型犬ドーベルマン・ピンシャー（Doberman Pinscher）。ドビーリーン（寄りかかり）やハードステア（固直視線）の解読、DCMや胃捻転予防のための3ステップホームケアを紹介します。",
-                "authority": "アメリカンケネルクラブ(AKC)およびDoberman Pinscher Club of America(DPCA)飼育基準",
-                "profile": {
-                    "breed": "ドーベルマン・ピンシャー (Doberman Pinscher)",
-                    "lifespan": "10 〜 12年",
-                    "sleep_pattern": "12 〜 14時間 (十分な運動後の質の高い睡眠)",
-                    "temperament": "忠実、極めて知的、警戒心が強い、エネルギッシュ、保護本能"
-                },
-                "intro": "優れた知性と優雅な体躯、強い忠誠心を持つドーベルマン・ピンシャー（Doberman Pinscher）は、世界中で愛されている警備犬・家庭犬です。家族への愛情が深い反面、遺伝的に拡張型心筋症（DCM）の発症率が非常に高く、深い胸の構造から食後の激しい運動により致命的な胃拡張・捻転症候群（GDV）を起こしやすい犬種です。またシングルコートの短毛種のため寒さに弱く、十分な運動と頭脳プレイが不足するとストレス行動を起こします。本記事では、ドーベルマンのサインを正確に解読し健康を守る3ステップルーティンをお届けします。",
-                "whyTitle": "ドーベルマンのボディランゲージ：ドビーリーン(Dobie Lean)と固直警戒視線(Hard Stare)",
-                "whyDesc": "ドーベルマンは身体の密着と視線の変化で愛情や警戒を明確に表現します。飼い主の脚や体に全身の体重を預けて寄りかかる**「ドビーリーン（Dobie Lean）」**は、深い信頼と安心感を求める最高の愛情表現です。一方、体を固直させて首を高く上げ、対象をじっと見つめる**「ハードステア（Hard Stare / Stiff Stance）」**は、見知らぬ対象への強い警戒と攻撃直前の警告サインです。",
-                "body_signals": [
-                    {
-                        "name": "飼い主の脚や体に全身の体重を預けて寄りかかる (Dobie Lean)",
-                        "meaning": "飼い主への深い信頼と愛着、身体的安心感を示すドーベルマン特有の代表的な愛情表現です。",
-                        "response": "優しく撫でて愛情に応え、飼い主が頼もしいリーダーであることを感じさせて安心感を与えましょう。"
-                    },
-                    {
-                        "name": "体を硬直させて首を上げ、対象を固定注視する (Hard Stare / Stiff Stance)",
-                        "meaning": "潜在的な脅威や縄張り侵入に対応する強い警戒状態であり、即座の行動直前の警告姿勢です。",
-                        "response": "リードを短く持ち、対象への視線を遮って「おすわり」や「アイコンタクト」で意識を飼い主へ向けさせます。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：高タンパク食の給餌と胃捻転(GDV)予防のための食後安静管理",
-                        "text": "空気の呑み込みを防ぐため早食い防止食器を使用し、食後1時間は激しい運動を厳禁として静かに休ませます。"
-                    },
-                    {
-                        "name": "昼：高強度運動(60分以上)と知的知育トレーニング",
-                        "text": "運動欲求と知性を満たすため、ランニングやフライングディスクなどの運動とノーズワークや服従訓練を組み合わせます。"
-                    },
-                    {
-                        "name": "夜：被毛・皮膚チェックと短毛種の防寒対策",
-                        "text": "シングルコートで寒さに敏感なため室温を暖かく保ち、散歩時の防寒着着用と皮膚の乾燥状態を点検します。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "ドーベルマンにとって拡張型心筋症(DCM)がなぜそれほど危険なのですか？",
-                        "answer": "拡張型心筋症（DCM）はドーベルマンの50%以上に見られる非常に危険な遺伝性心臓疾患です。心筋が薄く広がりポンプ機能を失います。初期段階では無症状のことが多く、突然の発作や衰弱で発覚することがあるため、1〜2歳以降は毎年超音波検査と24時間ホルター心電図検査を受けることが生命維持の鍵となります。"
-                    },
-                    {
-                        "question": "食後の運動でなぜ致死的な胃拡張捻転(GDV)が起きるのですか？",
-                        "answer": "ドーベルマンのように胸が深く狭い犬種は、胃が回旋しやすい解剖学的特徴を持ちます。食後にガスが溜まった状態で激しく動くと胃が捻転し（GDV）、数時間で血流が遮断されショック死に至ります。これを防ぐため、フードは回数を分けて与え、食後少なくとも1時間は完全に安静にさせてください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "杜宾犬行为信号解读与扩张型心肌病(DCM)及胃扭转(GDV)预防的3步日常流程",
-                "description": "威猛高贵的威严大型犬杜宾犬（Doberman Pinscher）。解读杜宾靠（Dobie Lean）与凝视警戒信号，预防DCM心肌病及胃扭转，管理高能量的3步骤家庭护理。",
-                "authority": "美国犬业俱乐部 (AKC) 与美国杜宾犬协会 (DPCA) 护理标准",
-                "profile": {
-                    "breed": "杜宾犬 (Doberman Pinscher)",
-                    "lifespan": "10 ~ 12年",
-                    "sleep_pattern": "12 ~ 14小时 (充分运动后的深度高质量睡眠)",
-                    "temperament": "忠诚、极度聪明、警惕性高、精力充沛、保护欲强"
-                },
-                "intro": "拥有极高智商、优雅体型与强烈忠诚度的杜宾犬（Doberman Pinscher）是全球最受喜爱的护卫犬与家庭伴侣犬。虽然杜宾犬对家庭极为依恋，但基因上极易患扩张型心肌病（DCM），且因深胸结构，极易在饭后剧烈运动时引发致死性的胃扩张-扭转（GDV）。此外，被毛为单层短毛，极其怕冷，若缺乏足够的运动与智力消耗，容易产生压力行为。本指南将带您准确解读杜宾犬肢体语言，并通过3步骤日常护理维护其健康。",
-                "whyTitle": "杜宾犬肢体语言：杜宾靠 (Dobie Lean) 与凝视警戒 (Hard Stare)",
-                "whyDesc": "杜宾犬通过身体贴合与眼神变化清晰表达爱意与警戒状态。将全身重量倾斜倚靠在主人的腿部或身体上**“杜宾靠 (Dobie Lean)”**，是表达深度信任、爱意与寻求安全感的独特色姿态。相反，身体紧绷硬直、竖起脖子并死死盯着目标**“凝视警戒 (Hard Stare / Stiff Stance)”**，则是对陌生目标的强烈警惕与攻击前的警告信号。",
-                "body_signals": [
-                    {
-                        "name": "全身重量倾斜并紧贴主人腿部 (Dobie Lean)",
-                        "meaning": "表达对主人极度信任、依恋与寻求身体安全感的杜宾犬代表性爱意行为。",
-                        "response": "温和地抚摸回应其爱意，让其感受到主人是值得信赖的领袖，给予安全感。"
-                    },
-                    {
-                        "name": "身体硬直、竖起脖子并紧盯目标 (Hard Stare / Stiff Stance)",
-                        "meaning": "应对潜在威胁或领地侵犯的极高警惕姿态，预示可能随时做出反应。",
-                        "response": "收短牵引绳，遮挡其看向刺激源的视线，并用“坐下”或“看我”指令转移注意力。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：投喂高蛋白主粮与预防胃扭转 (GDV) 饭后严格休息",
-                        "text": "使用慢食碗防止吞入过多空气，饭后1小时内严格禁止剧烈奔跑与跳跃，保持安静休息。"
-                    },
-                    {
-                        "name": "中午：高强度户外运动（60分钟以上）与智力开发训练",
-                        "text": "结合跑步、逗引棒等高消耗运动与嗅闻游戏、服从性训练，满足其高运动量与高智力需求。"
-                    },
-                    {
-                        "name": "晚上：被毛皮肤检查与短毛防寒保暖",
-                        "text": "单层短毛对寒冷敏感，需保持室内温暖，外出时穿戴保暖衣物并检查皮肤干燥状况。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "为什么扩张型心肌病（DCM）对杜宾犬如此致命？",
-                        "answer": "扩张型心肌病（DCM）是一种高发于杜宾犬（发生率超过50%）的遗传性心脏病。心肌变薄变大，失去泵血功能。由于早期往往无症状，常表现为突然衰竭或猝死，因此从1~2岁起每年定期进行心脏彩超与24小时动态心电图（Holter）检查是延长其寿命的关键。"
-                    },
-                    {
-                        "question": "为什么饭后运动会引发致命的胃扭转（GDV）？",
-                        "answer": "杜宾犬胸腔深而狭窄，胃部在体腔内活动空间大。若进食过快吞入气体或饭后剧烈运动，胃部极易膨胀并发生翻转（GDV），在数小时内阻断血液循环导致休克死亡。预防方法是分餐饲喂、使用慢食碗，并在饭后保持至少1小时的完全安静。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Señales de conducta en el Doberman Pinscher y rutina diaria de 3 pasos para la salud cardiaca (DCM) y prevención de torsión gástrica (GDV)",
-                "description": "Guía de cuidado para el noble Doberman Pinscher. Interprete el 'Dobie Lean' y la mirada fija de alerta, prevenga la miocardiopatía DCM y la torsión gástrica GDV en 3 pasos.",
-                "authority": "American Kennel Club (AKC) y Normas del Doberman Pinscher Club of America (DPCA)",
-                "profile": {
-                    "breed": "Doberman Pinscher",
-                    "lifespan": "10 ~ 12 años",
-                    "sleep_pattern": "12 ~ 14 horas (Sueño profundo y reparador tras ejercicio intenso)",
-                    "temperament": "Leal, Muy inteligente, Alerta, Energético, Protector"
-                },
-                "intro": "Reconocido por su inteligencia, cuerpo elegante e inquebrantable lealtad, el Doberman Pinscher es un perro de trabajo y compañero muy amado en todo el mundo. Aunque es sumamente devoto a su familia, genéticamente es propenso a la Miocardiopatía Dilatada (DCM) y, debido a su pecho profundo, corre alto riesgo de sufrir la letal Torsión Gástrica (GDV). Además, su pelaje corto de capa única lo hace sensible al frío, y requiere abundante ejercicio físico y mental. En esta guía, presenta una rutina de 3 pasos para descifrar su lenguaje corporal y proteger su salud.",
-                "whyTitle": "Lenguaje corporal del Doberman: El 'Dobie Lean' y la mirada fija de alerta (Hard Stare)",
-                "whyDesc": "Los Dobermans comunican afecto y alerta territorial mediante posturas corporales y contacto visual. Apoyar todo su peso contra tus piernas o cuerpo **'Dobie Lean'** es su muestra característica de profunda confianza y cariño. Por el contrario, mantenerse rígido con el cuello erguido y la mirada fija **'Mirada fija de alerta (Hard Stare / Stiff Stance)'** es una señal clara de alta alerta y posible reacción defensiva ante una amenaza.",
-                "body_signals": [
-                    {
-                        "name": "Apoyar todo el peso del cuerpo contra las piernas del dueño (Dobie Lean)",
-                        "meaning": "Muestra de afecto icónica del Doberman que demuestra confianza absoluta, apego y búsqueda de seguridad física.",
-                        "response": "Responda con caricias suaves para reforzar el vínculo y reafirmar su liderazgo tranquilo y seguro."
-                    },
-                    {
-                        "name": "Cuerpo rígido, cuello erguido y mirada fija hacia el objetivo (Hard Stare / Stiff Stance)",
-                        "meaning": "Postura de alerta máxima ante una posible amenaza o intrusión territorial, indicando disposición a actuar.",
-                        "response": "Acorte la correa, bloquee la visión hacia el estímulo y redirija la atención con órdenes como 'Sienta' o 'Mírame'."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Alimento alto en proteína y reposo estricto tras comer para prevenir torsión gástrica (GDV)",
-                        "text": "Utilice un comedero lento para evitar la ingesta excesiva de aire y exija 1 hora de descanso tranquilo sin carreras."
-                    },
-                    {
-                        "name": "Tarde: Ejercicio físico de alta intensidad (60+ min) y estimulación mental",
-                        "text": "Combine actividades intensas como correr o agility con entrenamiento de obediencia y juegos de olfato para canalizar su energía."
-                    },
-                    {
-                        "name": "Noche: Inspección de piel y pelaje junto con protección contra el frío",
-                        "text": "Su pelaje corto carece de subcapa, por lo que debe mantener una temperatura interior cálida y usar abrigo durante paseos fríos."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué la Miocardiopatía Dilatada (DCM) es tan peligrosa en el Doberman?",
-                        "answer": "La Miocardiopatía Dilatada (DCM) es una enfermedad cardíaca hereditaria letal que afecta a más del 50% de los Doberman Pinschers. El músculo cardíaco se adelgaza y dilata, perdiendo la capacidad de bombear sangre. Dado que suele ser asintomática hasta fases avanzadas, realizar ecocardiogramas anuales y monitoreo Holter de 24 horas a partir de los 1 o 2 años es vital para su detección temprana."
-                    },
-                    {
-                        "question": "¿Por qué el ejercicio justo después de comer causa la letal Torsión Gástrica (GDV)?",
-                        "answer": "Los Dobermans tienen un tórax profundo y estrecho, lo que da espacio para que el estómago gire. Si comen rápido o hacen ejercicio intenso tras alimentarse, el estómago se llena de gas y se tuerce sobre sí mismo (GDV), cortando el riego sanguíneo y causando shock en horas. Para prevenirlo, divida las raciones, use comederos lentos y garantice al menos 1 hora de reposo total tras la comida."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Signaux comportementaux du Dobermann et routine quotidienne en 3 étapes pour la santé cardiaque (DCM) et la prévention de la torsion d'estomac (GDV)",
-                "description": "Guide de soins pour le noble Dobermann. Décryptez le 'Dobie Lean' et le regard fixe d'alerte, prévenez la myocardiopathie DCM et la torsion d'estomac GDV en 3 étapes.",
-                "authority": "American Kennel Club (AKC) & Normes du Doberman Pinscher Club of America (DPCA)",
-                "profile": {
-                    "breed": "Dobermann (Doberman Pinscher)",
-                    "lifespan": "10 ~ 12 ans",
-                    "sleep_pattern": "12 ~ 14 heures (Sommeil réparateur après un exercice soutenu)",
-                    "temperament": "Loyal, Très intelligent, Attentif, Énergique, Protecteur"
-                },
-                "intro": "Reconnu pour son intelligence supérieure, sa carrure élégante et sa fidélité indéfectible, le Dobermann est un chien de travail et un compagnon très apprécié dans le monde entier. Bien que très attaché à sa famille, il est génétiquement prédisposé à la Cardiomyopathie Dilatée (DCM) et, en raison de sa poitrine profonde, présente un risque élevé de Torsion d'Estomac (GDV). De plus, son poil court sans sous-poil le rend sensible au froid. Dans ce guide, vous présente une routine en 3 étapes pour décoder ses signaux et préserver sa santé.",
-                "whyTitle": "Langage corporel du Dobermann : Le 'Dobie Lean' et le regard fixe d'alerte (Hard Stare)",
-                "whyDesc": "Le Dobermann exprime son affection et son niveau d'alerte par la posture et le contact visuel. S'appuyer de tout son poids contre vos jambes **« Dobie Lean »** est sa signature d'affection profonde et de recherche de réconfort. À l'inverse, se figer le cou tendu et fixer intensément sa cible **« Regard fixe d'alerte (Hard Stare / Stiff Stance) »** est un signal clair de haute vigilance et de réaction défensive imminente.",
-                "body_signals": [
-                    {
-                        "name": "S'appuyer de tout son poids contre les jambes du maître (Dobie Lean)",
-                        "meaning": "Preuve d'affection emblématique du Dobermann témoignant d'une confiance absolue, d'un fort attachement et d'un besoin de proximité.",
-                        "response": "Répondez par des caresses calmes pour renforcer le lien et lui montrer que vous êtes un leader sécurisant."
-                    },
-                    {
-                        "name": "Corps immobile, cou redressé et regard fixe sur la cible (Hard Stare / Stiff Stance)",
-                        "meaning": "Posture d'alerte maximale face à une menace potentielle ou une intrusion, indiquant une préparation à l'action.",
-                        "response": "Raccourcissez la laisse, coupez la ligne de vue vers le stimulus et redirigez son attention avec 'Assis' ou 'Regarde-moi'."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Repas riche en protéines & repos strict après manger pour éviter la torsion d'estomac (GDV)",
-                        "text": "Utilisez une gamelle anti-glouton pour limiter l'ingestion d'air et imposez 1 heure de calme absolu après le repas sans course."
-                    },
-                    {
-                        "name": "Après-midi : Exercice physique soutenu (60+ min) & stimulation mentale",
-                        "text": "Combinez des activités intenses (course, flirt pole) avec du travail d'obéissance et des jeux de recherche olfactive."
-                    },
-                    {
-                        "name": "Soir : Inspection de la peau/du poil & protection contre le froid",
-                        "text": "Son poil court sans sous-poil ne protège pas du froid : maintenez un intérieur chaud et équipez-le d'un manteau lors des promenades hivernales."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi la Cardiomyopathie Dilatée (DCM) est-elle si redoutable chez le Dobermann ?",
-                        "answer": "La Cardiomyopathie Dilatée (DCM) est une maladie cardiaque héréditaire mortelle touchant plus de 50 % des Dobermanns. Le muscle cardiaque s'amincit et se dilate, perdant sa capacité de pompage. Comme la maladie reste souvent asymptomatique jusqu'à un stade avancé, des échographies cardiaques annuelles et un enregistrement Holter de 24h dès l'âge de 1 à 2 ans sont indispensables."
-                    },
-                    {
-                        "question": "Pourquoi l'exercice juste après le repas provoque-t-il une Torsion d'Estomac (GDV) mortelle ?",
-                        "answer": "Le Dobermann possède un thorax profond laissant de l'espace à l'estomac pour pivoter. L'ingestion rapide de nourriture ou l'effort physique immédiat peut faire gonfler l'estomac et le retourner sur lui-même (GDV), coupant la circulation sanguine et provoquant un état de choc en quelques heures. Fractionnez les repas, utilisez une gamelle anti-glouton et observez 1 heure de repos strict après chaque repas."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Verhaltenssignale beim Dobermann Pinscher und 3-Schritte-Tagesroutine für Herzgesundheit (DCM) und Magendrehung-Prophylaxe (GDV)",
-                "description": "Pflegeanleitung für den edlen Dobermann Pinscher. Den 'Dobie Lean' und Drohfixieren verstehen, DCM-Kardiomyopathie sowie Magendrehung vermeiden und Energie in 3 Schritten managen.",
-                "authority": "American Kennel Club (AKC) & Standards des Dobermann Pinscher Club of America (DPCA)",
-                "profile": {
-                    "breed": "Dobermann Pinscher",
-                    "lifespan": "10 ~ 12 Jahre",
-                    "sleep_pattern": "12 ~ 14 Stunden (Erholsamer Tiefschlaf nach intensiver Bewegung)",
-                    "temperament": "Treu, Hochintelligent, Wachsam, Energetisch, Beschützerisch"
-                },
-                "intro": "Bekannt für hohe Intelligenz, eleganten Körperbau und bedingungslose Treue ist der Dobermann Pinscher weltweit ein geschätzter Arbeits- und Familienhund. So eng er sich an seine Familie bindet, so stark ist er genetisch für die Dilatative Kardiomyopathie (DCM) gefährdet und neigt durch seinen tiefen Brustkorb zur lebensgefährlichen Magendrehung (GDV). Zudem reagiert sein kurzes Fell empfindlich auf Kälte, und er benötigt viel körperliche sowie geistige Auslastung. In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für die Gesundheit Ihres Dobermanns.",
-                "whyTitle": "Körpersprache des Dobermanns: Der 'Dobie Lean' und das Drohfixieren (Hard Stare)",
-                "whyDesc": "Dobermänner drücken Zuneigung und Wachsamkeit klar durch Körperkontakt und Blickverhalten aus. Das Anlehnen des gesamten Körpergewichts an die Beine des Halters **'Dobie Lean'** ist ihr Markenzeichen für tiefes Vertrauen und Anhänglichkeit. Das starre Verharren mit erhobenem Hals und festem Blick **'Drohfixieren (Hard Stare / Stiff Stance)'** ist dagegen ein deutliches Warnsignal bei Bedrohung oder Reizüberflutung.",
-                "body_signals": [
-                    {
-                        "name": "Anlehnen des gesamten Körpergewichts an die Beine des Halters (Dobie Lean)",
-                        "meaning": "Typischer Vertrauensbeweis des Dobermanns, der Nähe, Zuneigung und körperliche Rückversicherung ausdrückt.",
-                        "response": "Reagieren Sie ruhig mit Streicheln, um die Bindung zu stärken und ihm eine souveräne Führung zu vermitteln."
-                    },
-                    {
-                        "name": "Erstarrte Körperhaltung mit erhobenem Hals und fixierendem Blick (Hard Stare / Stiff Stance)",
-                        "meaning": "Hohe Alertheit gegenüber Reizen oder Revierbedrohungen; signalisiert unmittelbare Reaktionsbereitschaft.",
-                        "response": "Leine kurz nehmen, Sichtkontakt zum Reiz unterbrechen und die Aufmerksamkeit mit 'Sitz' oder 'Schau mich an' umlenken."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Proteinreiche Fütterung & Strikte Ruhe nach dem Fressen zur GDV-Prophylaxe",
-                        "text": "Nutzen Sie Anti-Schling-Näpfe gegen Luftschlucken und halten Sie nach dem Fressen eine 1-stündige strikte Ruhephase ohne Toben ein."
-                    },
-                    {
-                        "name": "Mittag: Intensives Bewegungsprogramm (60+ Min) & Geistige Auslastung",
-                        "text": "Kombinieren Sie ausdauernden Sport (Laufen, Reizangel) mit Gehorsamstraining und Suchspielen für den wachen Verstand."
-                    },
-                    {
-                        "name": "Abend: Fell- & Hautkontrolle sowie Kälteschutz für das kurze Fell",
-                        "text": "Das kurze Fell ohne Unterwolle schützt kaum vor Kälte: Halten Sie Innenräume warm und nutzen Sie bei Kälte einen Hundemantel."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum ist die Dilatative Kardiomyopathie (DCM) beim Dobermann so gefährlich?",
-                        "answer": "Die Dilatative Kardiomyopathie (DCM) ist eine tödliche erblich bedingte Herzerkrankung, von der über 50 % aller Dobermänner betroffen sind. Der Herzmuskel erschlafft und vergrößert sich, wodurch die Pumpleistung versagt. Da DCM lange beschwerdefrei verläuft, sind jährliche Herzultraschall- und 24-Stunden-Holter-Untersuchungen ab dem 1. bis 2. Lebensjahr überlebenswichtig."
-                    },
-                    {
-                        "question": "Warum führt Bewegung direkt nach dem Fressen zur tödlichen Magendrehung (GDV)?",
-                        "answer": "Dobermänner besitzen einen tiefen, schmalen Brustkorb, der dem Magen Raum zum Drehen lässt. Zu schnelles Fressen oder Bewegung direkt nach der Mahlzeit kann dazu führen, dass sich der Magen mit Gas füllt und um die eigene Achse dreht (GDV). Dies schneidet die Blutzufuhr ab und führt binnen Stunden zum Schock. Füttern Sie in Portionen und sorgen Sie für mindestens 1 Stunde absolute Ruhe nach dem Fressen."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Sinais comportamentais do Doberman Pinscher e rotina diária de 3 passos para saúde cardíaca (DCM) e prevenção de torção gástrica (GDV)",
-                "description": "Guia de cuidados para o nobre Doberman Pinscher. Interprete o 'Dobie Lean' e o olhar fixo de alerta, previna a cardiomiopatia DCM e a torção gástrica em 3 passos.",
-                "authority": "American Kennel Club (AKC) & Padrões do Doberman Pinscher Club of America (DPCA)",
-                "profile": {
-                    "breed": "Doberman Pinscher",
-                    "lifespan": "10 ~ 12 anos",
-                    "sleep_pattern": "12 ~ 14 horas (Sono profundo e reparador após exercício intenso)",
-                    "temperament": "Leal, Muito inteligente, Alerta, Energético, Protetor"
-                },
-                "intro": "Reconhecido por sua inteligência, físico elegante e lealdade inabalável, o Doberman Pinscher é um cão de trabalho e companheiro amado no mundo todo. Embora seja extremamente devotado à família, é geneticamente predisposto à Cardiomiopatia Dilatada (DCM) e, devido ao tórax profundo, possui alto risco de Torção Gástrica (GDV). Além disso, sua pelagem curta sem subpelo o torna sensível ao frio, exigindo bastante atividade física e mental. Neste guia, apresenta uma rotina de 3 passos para interpretar seus sinais e proteger sua saúde.",
-                "whyTitle": "Linguagem corporal do Doberman: O 'Dobie Lean' e o olhar fixo de alerta (Hard Stare)",
-                "whyDesc": "Os Dobermans expressam afeto e alerta territorial por meio do contato físico e visual. Encostar todo o peso do corpo contra suas pernas **'Dobie Lean'** é sua demonstração característica de profunda confiança e carinho. Por outro lado, manter o corpo rígido, o pescoço erguido e o olhar fixo no alvo **'Olhar fixo de alerta (Hard Stare / Stiff Stance)'** é um sinal claro de alta vigilância e potencial reação defensiva.",
-                "body_signals": [
-                    {
-                        "name": "Encostar todo o peso do corpo nas pernas do tutor (Dobie Lean)",
-                        "meaning": "Demonstração de afeto icônica do Doberman que sinaliza confiança absoluta, apego e busca por segurança física.",
-                        "response": "Responda com carinhos calmos para reforçar o vínculo e reafirmar sua liderança tranquila."
-                    },
-                    {
-                        "name": "Corpo Rígido, pescoço erguido e olhar fixo no objetivo (Hard Stare / Stiff Stance)",
-                        "meaning": "Postura de alerta máximo diante de uma ameaça potencial ou invasão territorial, indicando prontidão para agir.",
-                        "response": "Encurte a guia, bloqueie a visão para o estímulo e redirecione a atenção com comandos como 'Senta' ou 'Olha para mim'."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Alimentação rica em proteínas & repouso estrito pós-refeição contra torção gástrica (GDV)",
-                        "text": "Utilize comediros lentos para evitar engolir ar e garanta 1 hora de descanso tranquilo sem corridas após comer."
-                    },
-                    {
-                        "name": "Tarde: Exercício físico intenso (60+ min) & estimulação mental",
-                        "text": "Combine atividades de alto gasto energético com treinos de obediência e jogos de faro para canalizar sua inteligência."
-                    },
-                    {
-                        "name": "Noite: Inspeção de pele e pelagem com proteção contra o frio",
-                        "text": "A pelagem curta sem subpelo não protege contra o frio: mantenha ambientes internos aquecidos e use roupas térmicas em passeios frios."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Por que a Cardiomiopatia Dilatada (DCM) é tão perigosa para o Doberman?",
-                        "answer": "A Cardiomiopatia Dilatada (DCM) é uma doença cardíaca hereditária fatal que afeta mais de 50% dos Dobermans. O músculo cardíaco se delgada e dilata, perdendo a capacidade de bombear sangue. Como costuma ser assintomática até estágios avançados, exames anuais de ecocardiograma e Holter de 24 horas a partir dos 1 a 2 anos de idade são cruciais."
-                    },
-                    {
-                        "question": "Por que o exercício logo após comer causa a fatal Torção Gástrica (GDV)?",
-                        "answer": "Os Dobermans possuem o tórax fundo e estreito, dando espaço para o estômago girar. Comer rápido ou se exercitar logo após a refeição faz o estômago inflar de gás e torcer sobre si mesmo (GDV), bloqueando a circulação sanguínea em poucas horas. Fracione as refeições, use comediros lentos e exija ao menos 1 hora de repouso absoluto pós-refeição."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Sinyal Perilaku Doberman Pinscher dan Rutinitas Harian 3 Langkah Perawatan Kesehatan Jantung (DCM) serta Pencegahan Torsi Lambung (GDV)",
-                "description": "Panduan perawatan anjing gagah Doberman Pinscher. Pahami 'Dobie Lean' dan tatapan tajam siaga, cegah kardiomiopati DCM serta kembung GDV dalam 3 langkah.",
-                "authority": "American Kennel Club (AKC) & Standar Perawatan Doberman Pinscher Club of America (DPCA)",
-                "profile": {
-                    "breed": "Doberman Pinscher",
-                    "lifespan": "10 ~ 12 tahun",
-                    "sleep_pattern": "12 ~ 14 jam (Tidur nyenyak berkualitas setelah aktivitas fisik intens)",
-                    "temperament": "Setia, Sangat Cerdas, Waspada, Energetik, Protektif"
-                },
-                "intro": "Dikenal karena kecerdasannya yang tinggi, tubuhnya yang elegan, dan kesetiaannya yang tak tergoyahkan, Doberman Pinscher adalah anjing kerja dan pendamping yang sangat dicintai di seluruh dunia. Meskipun sangat setia kepada keluarganya, secara genetik Doberman berisiko tinggi terkena Dilated Cardiomyopathy (DCM) dan karena struktur dadanya yang dalam, mereka rentan mengalami kondisi fatal Gastric Dilatation-Volvulus (GDV/torsi lambung). Selain itu, bulu pendeknya membuat mereka sensitif terhadap dingin, sehingga membutuhkan stimulasi fisik dan mental yang cukup. Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk merawat Doberman Anda.",
-                "whyTitle": "Bahasa Tubuh Doberman: 'Dobie Lean' dan Tatapan Tajam Siaga (Hard Stare)",
-                "whyDesc": "Doberman menyampaikan kasih sayang dan kewaspadaan melalui kontak fisik dan tatapan mata. Menyandarkan seluruh berat badannya ke kaki pemilik **'Dobie Lean'** adalah tanda khas dari kepercayaan dan rasa sayang yang mendalam. Sebaliknya, berdiri kaku dengan leher tegak dan menatap tajam tanpa berkedip **'Tatapan Tajam Siaga (Hard Stare / Stiff Stance)'** adalah sinyal kewaspadaan tinggi sebelum merespons ancaman.",
-                "body_signals": [
-                    {
-                        "name": "Menyandarkan Seluruh Berat Badan ke Kaki Pemilik (Dobie Lean)",
-                        "meaning": "Tanda kasih sayang ikonik khas Doberman yang menunjukkan rasa percaya, ikatan batin, dan pencarian rasa aman fisik.",
-                        "response": "Respons dengan elusan lembut untuk memperkuat ikatan dan menegaskan kepemimpinan yang tenang."
-                    },
-                    {
-                        "name": "Tubuh Kaku, Leher Tegak, dan Menatap Tajam Target (Hard Stare / Stiff Stance)",
-                        "meaning": "Postur siaga tinggi terhadap potensi ancaman atau gangguan wilayah, menandakan kesiapan untuk bertindak.",
-                        "response": "Pendekkan tali tuntun, halangi pandangannya dari pemicu, dan alihkan perhatian dengan perintah 'Duduk' atau 'Lihat Saya'."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Pakan Tinggi Protein & Istirahat Ketat Pasca-Makan untuk Mencegah GDV",
-                        "text": "Gunakan tempat makan slow-feeder untuk mencegah tertelannya udara, dan wajibkan istirahat tenang selama 1 jam tanpa lari-lari."
-                    },
-                    {
-                        "name": "Siang: Latihan Fisik Intensif (60+ Menit) & Stimulasi Otak",
-                        "text": "Kombinasikan olahraga fisik tinggi seperti lari atau agility dengan pelatihan kepatuhan dan permainan olah penciuman."
-                    },
-                    {
-                        "name": "Malam: Pemeriksaan Bulu/Kulit & Perlindungan Suhu Dingin",
-                        "text": "Bulu pendek tanpa lapis dalam kurang tahan dingin: jaga suhu ruangan tetap hangat dan gunakan pakaian pelindung saat berjalan di cuaca dingin."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa penyakit Dilated Cardiomyopathy (DCM) sangat berbahaya bagi Doberman?",
-                        "answer": "Dilated Cardiomyopathy (DCM) adalah penyakit jantung keturunan fatal yang menyerang lebih dari 50% Doberman Pinscher. Otot jantung menipis dan membesar, kehilangan kemampuan memompa darah. Karena stadium awal sering tanpa gejala hingga terjadi kelemahan mendadak, pemeriksaan ultrasonografi jantung (Echocardiogram) dan Holter 24 jam setiap tahun sejak usia 1–2 tahun sangat penting."
-                    },
-                    {
-                        "question": "Mengapa olahraga setelah makan dapat memicu Torsi Lambung (GDV) yang mematikan?",
-                        "answer": "Doberman memiliki rongga dada yang dalam dan sempit, memberi ruang bagi lambung untuk berputar. Makan terlalu cepat atau berolahraga langsung setelah makan dapat membuat lambung terisi gas dan terpelintir (GDV), memotong aliran darah dan memicu syok dalam hitungan jam. Berikan pakan terbagi, gunakan slow feeder, dan pastikan anjing istirahat total minimal 1 jam setelah makan."
-                    }
-                ]
-            }
+  "doberman-pinscher-care": {
+    "pubDate": "2026-01-15",
+    "updatedDate": "2026-01-15",
+    "locales": {
+      "ko": {
+        "title": "도베르만 핀셔의 충성·경계 신호 해석과 확장성 심근병증(DCM) 및 위확장-꼬임(GDV) 예방을 위한 3단계 데일리 케어",
+        "description": "용맹하고 우아한 대형견 도베르만 핀셔(Doberman Pinscher). 몸 기대기(Dobie Lean) 및 고정 시선 경계 신호 해석, DCM·위꼬임 예방 및 에너지 발산을 위한 3단계 홈케어 루틴을 소개합니다.",
+        "authority": "미국 케넬 클럽 (AKC) 및 Doberman Pinscher Club of America (DPCA) 케어 프로토콜",
+        "profile": {
+          "breed": "도베르만 핀셔 (Doberman Pinscher)",
+          "lifespan": "10 ~ 12년",
+          "sleep_pattern": "12 ~ 14시간 (고강도 운동 후 깊은 수면)",
+          "temperament": "충직함, 영리함, 경계심 강함, 에너제틱, 보호 본능"
         },
-        "heroImage": "/images/blog/doberman_pinscher_care.webp"
-    }
+        "intro": "뛰어난 지능과 우아한 체형, 강렬한 충성심을 지닌 도베르만 핀셔(Doberman Pinscher)는 전 세계에서 사랑받는 경비견이자 가족의 반려견입니다. 도베르만은 보호자에 대한 애정이 깊지만, 유전적으로 확장성 심근병증(DCM) 발병률이 매우 높으며 깊은 가슴 구조로 인해 식사 후 급격한 운동 시 위확장-꼬임(GDV/위비틀림)이 발생하기 쉽습니다. 또한 단모종으로 추위에 약하고 복종 훈련과 충분한 풍부화 활동이 이루어지지 않으면 스트레스 행동을 보일 수 있습니다. 이번 가이드에서는 도베르만 핀셔의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
+        "whyTitle": "도베르만 핀셔의 바디 랭귀지: 몸 기대기(Dobie Lean)와 고정 시선 경계(Hard Stare)",
+        "whyDesc": "도베르만은 신체 접촉과 시선 변화로 애정과 경계 상태를 명확히 표현합니다. 보호자의 다리나 몸에 체중을 실어 바짝 붙는 **'몸 기대기(Dobie Lean)'**는 보호자를 독점하고 안도감을 느끼는 최고의 애정 표시입니다. 반면 몸을 일자로 꼿꼿이 세우고 목을 높이 들어 대상을 뚫어지게 응시하는 **'고정 시선 경계(Hard Stare / Stiff Stance)'**는 낯선 대상에 대한 강한 경계와 공격 전 차단 신호입니다.",
+        "body_signals": [
+          {
+            "name": "보호자의 다리나 몸에 온몸을 밀착하여 체중을 기댐 (Dobie Lean)",
+            "meaning": "보호자에 대한 깊은 신뢰와 애착, 그리고 신체적 안도감을 표출하는 도베르만 특유의 대표적 애정 행동입니다.",
+            "response": "차분하게 쓰다듬어 주며 애정에 응답하고, 보호자가 든든한 리더임을 인식시켜 안정감을 줍니다."
+          },
+          {
+            "name": "몸이 굳어진 채 목을 세우고 대상을 고정 응시함 (Hard Stare / Stiff Stance)",
+            "meaning": "잠재적 위협이나 영역 침범에 대응하는 강한 경계 및 즉각적 반응 직전의 경고 신호입니다.",
+            "response": "줄을 짧게 잡고 자극 대상을 시야에서 차단한 후 '앉아'나 '나 봐' 명령어로 시선을 보호자에게 돌립니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 고단백 식사 급여 및 위꼬임(GDV) 예방을 위한 식후 휴식 점검",
+            "text": "깊은 가슴 체형의 위꼬임 방지를 위해 슬로우 식기를 사용하고, 식사 직후 1시간 동안은 뛸듯한 과격한 운동을 엄격히 금지합니다."
+          },
+          {
+            "name": "낮: 고강도 운동(60분 이상) 및 지능 개발 브레인 게임",
+            "text": "풍부한 에너지와 높은 지능 충족을 위해 러닝, 플러시 폴 등의 운동과 노즈워크 및 복종 훈련을 병행합니다."
+          },
+          {
+            "name": "저녁: 피모·피부 상태 점검 및 단모종 체온 유지(보온 의류 준비)",
+            "text": "싱글 코트 단모 특성상 추위에 민감하므로 실내 온도를 따뜻하게 유지하고, 외출 시 체온 조절용 의류 착용 및 피부 건조 여부를 점검합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "도베르만에게 심장 질환(DCM, 확장성 심근병증)이 왜 그렇게 위험한가요?",
+            "answer": "확장성 심근병증(DCM)은 도베르만 핀셔 종의 50% 이상에서 나타날 정도로 치명적인 유전성 질환입니다. 심장 근육이 얇아지고 커지면서 펌프 기능을 잃게 되며, 초기 증상이 거의 없이 갑작스러운 무기력이나 무증상 정지로 나타날 수 있습니다. 1~2세 이후부터 매년 정기적인 심초음파 및 24시간 홀터 모니터링 검사를 실시하는 것이 생명 연장의 핵심입니다."
+          },
+          {
+            "question": "식사 후 운동하면 왜 치명적인 위꼬임(GDV)이 생기나요?",
+            "answer": "도베르만처럼 흉곽(가슴)이 깊고 넓은 대형견은 위장이 자유롭게 움직일 수 있는 공간이 커 식사 후 공기를 많이 삼키거나 갑자기 움직이면 위가 가스로 부풀어 오르며 꼬이는 위확장-꼬임(GDV)이 잘 발생합니다. 이는 몇 시간 내에 혈류를 차단해 쇼크와 사망을 유발하므로, 자율 급식보다는 나누어 급여하고 식후 최소 1시간은 조용히 휴식하게 해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Doberman Pinscher Behavioral Signals and 3-Step Daily Routine for DCM Heart Health and GDV Bloat Prevention",
+        "description": "Care guide for the noble Doberman Pinscher. Interpret the Dobie Lean and Hard Stare, prevent DCM cardiomyopathy and GDV bloat, and manage high energy in 3 steps.",
+        "authority": "American Kennel Club (AKC) & Doberman Pinscher Club of America (DPCA) Care Standards",
+        "profile": {
+          "breed": "Doberman Pinscher",
+          "lifespan": "10 - 12 Years",
+          "sleep_pattern": "12 - 14 Hours (Restful deep sleep after vigorous exercise)",
+          "temperament": "Loyal, Highly Intelligent, Alert, Energetic, Protective"
+        },
+        "intro": "Renowned for their intelligence, elegant physique, and unwavering loyalty, the Doberman Pinscher is a cherished companion and working dog worldwide. While deeply devoted to their families, Dobermans are genetically predisposed to Dilated Cardiomyopathy (DCM) and, due to their deep-chested structure, are highly vulnerable to fatal Gastric Dilatation-Volvulus (GDV/Bloat). Furthermore, their single short coat makes them sensitive to cold, and without sufficient physical and mental stimulation, they can develop stress behaviors. In this guide, presents a 3-step daily care routine to decode your Doberman's body signals and safeguard their health.",
+        "whyTitle": "Doberman Pinscher Body Language: The Dobie Lean and the Hard Stare",
+        "whyDesc": "Dobermans communicate affection and territorial alertness through distinct physical postures and eye contact. Pressing their full weight against your legs or body **'The Dobie Lean'** is their signature display of deep trust, affection, and desire for closeness. Conversely, standing completely rigid with a raised neck and an unblinking gaze **'The Hard Stare / Stiff Stance'** is an explicit alert signal indicating high arousal, threat assessment, and potential defense.",
+        "body_signals": [
+          {
+            "name": "Pressing Full Body Weight Against Owner's Legs (Dobie Lean)",
+            "meaning": "A signature Doberman affection display showing profound trust, attachment, and physical reassurance toward their owner.",
+            "response": "Respond calmly with gentle petting to reinforce bond and reaffirm your confident leadership."
+          },
+          {
+            "name": "Standing Rigid with Raised Neck and Unblinking Gaze (Hard Stare / Stiff Stance)",
+            "meaning": "A high-alert posture triggered by potential threats or territorial intrusion, signaling readiness to react.",
+            "response": "Shorten the leash, block their line of sight to the trigger, and redirect attention using 'Sit' or 'Look at Me' commands."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: High-Protein Meal & Strict Post-Meal Rest to Prevent GDV Bloat",
+            "text": "Feed using a slow-feeder bowl to reduce air swallowing, and strictly enforce a 1-hour calm rest period after eating with no vigorous running."
+          },
+          {
+            "name": "Afternoon: High-Intensity Physical Exercise (60+ Min) & Mental Enrichment",
+            "text": "Satisfy their high drive with activities like running, flirt pole, or agility, combined with obedience training and nosework games."
+          },
+          {
+            "name": "Evening: Coat & Skin Inspection & Cold Weather Protection",
+            "text": "Inspect their single short coat for dryness or irritation, maintain warm indoor ambient temperatures, and use protective apparel during cold walks."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why is Dilated Cardiomyopathy (DCM) particularly dangerous for Dobermans?",
+            "answer": "Dilated Cardiomyopathy (DCM) is a fatal inherited heart disease affecting over 50% of Doberman Pinschers. The heart muscle thins and enlarges, losing its ability to pump blood effectively. Because early stages are often asymptomatic until sudden weakness or cardiac collapse occurs, annual screening with echocardiograms and 24-hour Holter monitoring starting at 1–2 years old is essential for early detection."
+          },
+          {
+            "question": "Why can exercise right after eating cause life-threatening GDV (Bloat)?",
+            "answer": "Dobermans have deep, narrow chests, giving the stomach room to rotate. Eating rapidly or exercising immediately after a meal can cause the stomach to fill with gas and twist on itself (GDV/Bloat). This cuts off blood supply to vital organs within hours, causing rapid shock. To prevent this, divide daily food portions, use slow feeders, and keep them completely calm for at least one hour post-meal."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ドーベルマン・ピンシャーの忠誠・警戒サイン解読と拡張型心筋症(DCM)・胃拡張捻転(GDV)予防のための3ステップデイリールーティン",
+        "description": "気高く勇敢な大型犬ドーベルマン・ピンシャー（Doberman Pinscher）。ドビーリーン（寄りかかり）やハードステア（固直視線）の解読、DCMや胃捻転予防のための3ステップホームケアを紹介します。",
+        "authority": "アメリカンケネルクラブ(AKC)およびDoberman Pinscher Club of America(DPCA)飼育基準",
+        "profile": {
+          "breed": "ドーベルマン・ピンシャー (Doberman Pinscher)",
+          "lifespan": "10 〜 12年",
+          "sleep_pattern": "12 〜 14時間 (十分な運動後の質の高い睡眠)",
+          "temperament": "忠実、極めて知的、警戒心が強い、エネルギッシュ、保護本能"
+        },
+        "intro": "優れた知性と優雅な体躯、強い忠誠心を持つドーベルマン・ピンシャー（Doberman Pinscher）は、世界中で愛されている警備犬・家庭犬です。家族への愛情が深い反面、遺伝的に拡張型心筋症（DCM）の発症率が非常に高く、深い胸の構造から食後の激しい運動により致命的な胃拡張・捻転症候群（GDV）を起こしやすい犬種です。またシングルコートの短毛種のため寒さに弱く、十分な運動と頭脳プレイが不足するとストレス行動を起こします。本記事では、ドーベルマンのサインを正確に解読し健康を守る3ステップルーティンをお届けします。",
+        "whyTitle": "ドーベルマンのボディランゲージ：ドビーリーン(Dobie Lean)と固直警戒視線(Hard Stare)",
+        "whyDesc": "ドーベルマンは身体の密着と視線の変化で愛情や警戒を明確に表現します。飼い主の脚や体に全身の体重を預けて寄りかかる**「ドビーリーン（Dobie Lean）」**は、深い信頼と安心感を求める最高の愛情表現です。一方、体を固直させて首を高く上げ、対象をじっと見つめる**「ハードステア（Hard Stare / Stiff Stance）」**は、見知らぬ対象への強い警戒と攻撃直前の警告サインです。",
+        "body_signals": [
+          {
+            "name": "飼い主の脚や体に全身の体重を預けて寄りかかる (Dobie Lean)",
+            "meaning": "飼い主への深い信頼と愛着、身体的安心感を示すドーベルマン特有の代表的な愛情表現です。",
+            "response": "優しく撫でて愛情に応え、飼い主が頼もしいリーダーであることを感じさせて安心感を与えましょう。"
+          },
+          {
+            "name": "体を硬直させて首を上げ、対象を固定注視する (Hard Stare / Stiff Stance)",
+            "meaning": "潜在的な脅威や縄張り侵入に対応する強い警戒状態であり、即座の行動直前の警告姿勢です。",
+            "response": "リードを短く持ち、対象への視線を遮って「おすわり」や「アイコンタクト」で意識を飼い主へ向けさせます。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：高タンパク食の給餌と胃捻転(GDV)予防のための食後安静管理",
+            "text": "空気の呑み込みを防ぐため早食い防止食器を使用し、食後1時間は激しい運動を厳禁として静かに休ませます。"
+          },
+          {
+            "name": "昼：高強度運動(60分以上)と知的知育トレーニング",
+            "text": "運動欲求と知性を満たすため、ランニングやフライングディスクなどの運動とノーズワークや服従訓練を組み合わせます。"
+          },
+          {
+            "name": "夜：被毛・皮膚チェックと短毛種の防寒対策",
+            "text": "シングルコートで寒さに敏感なため室温を暖かく保ち、散歩時の防寒着着用と皮膚の乾燥状態を点検します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ドーベルマンにとって拡張型心筋症(DCM)がなぜそれほど危険なのですか？",
+            "answer": "拡張型心筋症（DCM）はドーベルマンの50%以上に見られる非常に危険な遺伝性心臓疾患です。心筋が薄く広がりポンプ機能を失います。初期段階では無症状のことが多く、突然の発作や衰弱で発覚することがあるため、1〜2歳以降は毎年超音波検査と24時間ホルター心電図検査を受けることが生命維持の鍵となります。"
+          },
+          {
+            "question": "食後の運動でなぜ致死的な胃拡張捻転(GDV)が起きるのですか？",
+            "answer": "ドーベルマンのように胸が深く狭い犬種は、胃が回旋しやすい解剖学的特徴を持ちます。食後にガスが溜まった状態で激しく動くと胃が捻転し（GDV）、数時間で血流が遮断されショック死に至ります。これを防ぐため、フードは回数を分けて与え、食後少なくとも1時間は完全に安静にさせてください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "杜宾犬行为信号解读与扩张型心肌病(DCM)及胃扭转(GDV)预防的3步日常流程",
+        "description": "威猛高贵的威严大型犬杜宾犬（Doberman Pinscher）。解读杜宾靠（Dobie Lean）与凝视警戒信号，预防DCM心肌病及胃扭转，管理高能量的3步骤家庭护理。",
+        "authority": "美国犬业俱乐部 (AKC) 与美国杜宾犬协会 (DPCA) 护理标准",
+        "profile": {
+          "breed": "杜宾犬 (Doberman Pinscher)",
+          "lifespan": "10 ~ 12年",
+          "sleep_pattern": "12 ~ 14小时 (充分运动后的深度高质量睡眠)",
+          "temperament": "忠诚、极度聪明、警惕性高、精力充沛、保护欲强"
+        },
+        "intro": "拥有极高智商、优雅体型与强烈忠诚度的杜宾犬（Doberman Pinscher）是全球最受喜爱的护卫犬与家庭伴侣犬。虽然杜宾犬对家庭极为依恋，但基因上极易患扩张型心肌病（DCM），且因深胸结构，极易在饭后剧烈运动时引发致死性的胃扩张-扭转（GDV）。此外，被毛为单层短毛，极其怕冷，若缺乏足够的运动与智力消耗，容易产生压力行为。本指南将带您准确解读杜宾犬肢体语言，并通过3步骤日常护理维护其健康。",
+        "whyTitle": "杜宾犬肢体语言：杜宾靠 (Dobie Lean) 与凝视警戒 (Hard Stare)",
+        "whyDesc": "杜宾犬通过身体贴合与眼神变化清晰表达爱意与警戒状态。将全身重量倾斜倚靠在主人的腿部或身体上**“杜宾靠 (Dobie Lean)”**，是表达深度信任、爱意与寻求安全感的独特色姿态。相反，身体紧绷硬直、竖起脖子并死死盯着目标**“凝视警戒 (Hard Stare / Stiff Stance)”**，则是对陌生目标的强烈警惕与攻击前的警告信号。",
+        "body_signals": [
+          {
+            "name": "全身重量倾斜并紧贴主人腿部 (Dobie Lean)",
+            "meaning": "表达对主人极度信任、依恋与寻求身体安全感的杜宾犬代表性爱意行为。",
+            "response": "温和地抚摸回应其爱意，让其感受到主人是值得信赖的领袖，给予安全感。"
+          },
+          {
+            "name": "身体硬直、竖起脖子并紧盯目标 (Hard Stare / Stiff Stance)",
+            "meaning": "应对潜在威胁或领地侵犯的极高警惕姿态，预示可能随时做出反应。",
+            "response": "收短牵引绳，遮挡其看向刺激源的视线，并用“坐下”或“看我”指令转移注意力。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：投喂高蛋白主粮与预防胃扭转 (GDV) 饭后严格休息",
+            "text": "使用慢食碗防止吞入过多空气，饭后1小时内严格禁止剧烈奔跑与跳跃，保持安静休息。"
+          },
+          {
+            "name": "中午：高强度户外运动（60分钟以上）与智力开发训练",
+            "text": "结合跑步、逗引棒等高消耗运动与嗅闻游戏、服从性训练，满足其高运动量与高智力需求。"
+          },
+          {
+            "name": "晚上：被毛皮肤检查与短毛防寒保暖",
+            "text": "单层短毛对寒冷敏感，需保持室内温暖，外出时穿戴保暖衣物并检查皮肤干燥状况。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "为什么扩张型心肌病（DCM）对杜宾犬如此致命？",
+            "answer": "扩张型心肌病（DCM）是一种高发于杜宾犬（发生率超过50%）的遗传性心脏病。心肌变薄变大，失去泵血功能。由于早期往往无症状，常表现为突然衰竭或猝死，因此从1~2岁起每年定期进行心脏彩超与24小时动态心电图（Holter）检查是延长其寿命的关键。"
+          },
+          {
+            "question": "为什么饭后运动会引发致命的胃扭转（GDV）？",
+            "answer": "杜宾犬胸腔深而狭窄，胃部在体腔内活动空间大。若进食过快吞入气体或饭后剧烈运动，胃部极易膨胀并发生翻转（GDV），在数小时内阻断血液循环导致休克死亡。预防方法是分餐饲喂、使用慢食碗，并在饭后保持至少1小时的完全安静。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Señales de conducta en el Doberman Pinscher y rutina diaria de 3 pasos para la salud cardiaca (DCM) y prevención de torsión gástrica (GDV)",
+        "description": "Guía de cuidado para el noble Doberman Pinscher. Interprete el 'Dobie Lean' y la mirada fija de alerta, prevenga la miocardiopatía DCM y la torsión gástrica GDV en 3 pasos.",
+        "authority": "American Kennel Club (AKC) y Normas del Doberman Pinscher Club of America (DPCA)",
+        "profile": {
+          "breed": "Doberman Pinscher",
+          "lifespan": "10 ~ 12 años",
+          "sleep_pattern": "12 ~ 14 horas (Sueño profundo y reparador tras ejercicio intenso)",
+          "temperament": "Leal, Muy inteligente, Alerta, Energético, Protector"
+        },
+        "intro": "Reconocido por su inteligencia, cuerpo elegante e inquebrantable lealtad, el Doberman Pinscher es un perro de trabajo y compañero muy amado en todo el mundo. Aunque es sumamente devoto a su familia, genéticamente es propenso a la Miocardiopatía Dilatada (DCM) y, debido a su pecho profundo, corre alto riesgo de sufrir la letal Torsión Gástrica (GDV). Además, su pelaje corto de capa única lo hace sensible al frío, y requiere abundante ejercicio físico y mental. En esta guía, presenta una rutina de 3 pasos para descifrar su lenguaje corporal y proteger su salud.",
+        "whyTitle": "Lenguaje corporal del Doberman: El 'Dobie Lean' y la mirada fija de alerta (Hard Stare)",
+        "whyDesc": "Los Dobermans comunican afecto y alerta territorial mediante posturas corporales y contacto visual. Apoyar todo su peso contra tus piernas o cuerpo **'Dobie Lean'** es su muestra característica de profunda confianza y cariño. Por el contrario, mantenerse rígido con el cuello erguido y la mirada fija **'Mirada fija de alerta (Hard Stare / Stiff Stance)'** es una señal clara de alta alerta y posible reacción defensiva ante una amenaza.",
+        "body_signals": [
+          {
+            "name": "Apoyar todo el peso del cuerpo contra las piernas del dueño (Dobie Lean)",
+            "meaning": "Muestra de afecto icónica del Doberman que demuestra confianza absoluta, apego y búsqueda de seguridad física.",
+            "response": "Responda con caricias suaves para reforzar el vínculo y reafirmar su liderazgo tranquilo y seguro."
+          },
+          {
+            "name": "Cuerpo rígido, cuello erguido y mirada fija hacia el objetivo (Hard Stare / Stiff Stance)",
+            "meaning": "Postura de alerta máxima ante una posible amenaza o intrusión territorial, indicando disposición a actuar.",
+            "response": "Acorte la correa, bloquee la visión hacia el estímulo y redirija la atención con órdenes como 'Sienta' o 'Mírame'."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Alimento alto en proteína y reposo estricto tras comer para prevenir torsión gástrica (GDV)",
+            "text": "Utilice un comedero lento para evitar la ingesta excesiva de aire y exija 1 hora de descanso tranquilo sin carreras."
+          },
+          {
+            "name": "Tarde: Ejercicio físico de alta intensidad (60+ min) y estimulación mental",
+            "text": "Combine actividades intensas como correr o agility con entrenamiento de obediencia y juegos de olfato para canalizar su energía."
+          },
+          {
+            "name": "Noche: Inspección de piel y pelaje junto con protección contra el frío",
+            "text": "Su pelaje corto carece de subcapa, por lo que debe mantener una temperatura interior cálida y usar abrigo durante paseos fríos."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué la Miocardiopatía Dilatada (DCM) es tan peligrosa en el Doberman?",
+            "answer": "La Miocardiopatía Dilatada (DCM) es una enfermedad cardíaca hereditaria letal que afecta a más del 50% de los Doberman Pinschers. El músculo cardíaco se adelgaza y dilata, perdiendo la capacidad de bombear sangre. Dado que suele ser asintomática hasta fases avanzadas, realizar ecocardiogramas anuales y monitoreo Holter de 24 horas a partir de los 1 o 2 años es vital para su detección temprana."
+          },
+          {
+            "question": "¿Por qué el ejercicio justo después de comer causa la letal Torsión Gástrica (GDV)?",
+            "answer": "Los Dobermans tienen un tórax profundo y estrecho, lo que da espacio para que el estómago gire. Si comen rápido o hacen ejercicio intenso tras alimentarse, el estómago se llena de gas y se tuerce sobre sí mismo (GDV), cortando el riego sanguíneo y causando shock en horas. Para prevenirlo, divida las raciones, use comederos lentos y garantice al menos 1 hora de reposo total tras la comida."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Signaux comportementaux du Dobermann et routine quotidienne en 3 étapes pour la santé cardiaque (DCM) et la prévention de la torsion d'estomac (GDV)",
+        "description": "Guide de soins pour le noble Dobermann. Décryptez le 'Dobie Lean' et le regard fixe d'alerte, prévenez la myocardiopathie DCM et la torsion d'estomac GDV en 3 étapes.",
+        "authority": "American Kennel Club (AKC) & Normes du Doberman Pinscher Club of America (DPCA)",
+        "profile": {
+          "breed": "Dobermann (Doberman Pinscher)",
+          "lifespan": "10 ~ 12 ans",
+          "sleep_pattern": "12 ~ 14 heures (Sommeil réparateur après un exercice soutenu)",
+          "temperament": "Loyal, Très intelligent, Attentif, Énergique, Protecteur"
+        },
+        "intro": "Reconnu pour son intelligence supérieure, sa carrure élégante et sa fidélité indéfectible, le Dobermann est un chien de travail et un compagnon très apprécié dans le monde entier. Bien que très attaché à sa famille, il est génétiquement prédisposé à la Cardiomyopathie Dilatée (DCM) et, en raison de sa poitrine profonde, présente un risque élevé de Torsion d'Estomac (GDV). De plus, son poil court sans sous-poil le rend sensible au froid. Dans ce guide, vous présente une routine en 3 étapes pour décoder ses signaux et préserver sa santé.",
+        "whyTitle": "Langage corporel du Dobermann : Le 'Dobie Lean' et le regard fixe d'alerte (Hard Stare)",
+        "whyDesc": "Le Dobermann exprime son affection et son niveau d'alerte par la posture et le contact visuel. S'appuyer de tout son poids contre vos jambes **« Dobie Lean »** est sa signature d'affection profonde et de recherche de réconfort. À l'inverse, se figer le cou tendu et fixer intensément sa cible **« Regard fixe d'alerte (Hard Stare / Stiff Stance) »** est un signal clair de haute vigilance et de réaction défensive imminente.",
+        "body_signals": [
+          {
+            "name": "S'appuyer de tout son poids contre les jambes du maître (Dobie Lean)",
+            "meaning": "Preuve d'affection emblématique du Dobermann témoignant d'une confiance absolue, d'un fort attachement et d'un besoin de proximité.",
+            "response": "Répondez par des caresses calmes pour renforcer le lien et lui montrer que vous êtes un leader sécurisant."
+          },
+          {
+            "name": "Corps immobile, cou redressé et regard fixe sur la cible (Hard Stare / Stiff Stance)",
+            "meaning": "Posture d'alerte maximale face à une menace potentielle ou une intrusion, indiquant une préparation à l'action.",
+            "response": "Raccourcissez la laisse, coupez la ligne de vue vers le stimulus et redirigez son attention avec 'Assis' ou 'Regarde-moi'."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Repas riche en protéines & repos strict après manger pour éviter la torsion d'estomac (GDV)",
+            "text": "Utilisez une gamelle anti-glouton pour limiter l'ingestion d'air et imposez 1 heure de calme absolu après le repas sans course."
+          },
+          {
+            "name": "Après-midi : Exercice physique soutenu (60+ min) & stimulation mentale",
+            "text": "Combinez des activités intenses (course, flirt pole) avec du travail d'obéissance et des jeux de recherche olfactive."
+          },
+          {
+            "name": "Soir : Inspection de la peau/du poil & protection contre le froid",
+            "text": "Son poil court sans sous-poil ne protège pas du froid : maintenez un intérieur chaud et équipez-le d'un manteau lors des promenades hivernales."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi la Cardiomyopathie Dilatée (DCM) est-elle si redoutable chez le Dobermann ?",
+            "answer": "La Cardiomyopathie Dilatée (DCM) est une maladie cardiaque héréditaire mortelle touchant plus de 50 % des Dobermanns. Le muscle cardiaque s'amincit et se dilate, perdant sa capacité de pompage. Comme la maladie reste souvent asymptomatique jusqu'à un stade avancé, des échographies cardiaques annuelles et un enregistrement Holter de 24h dès l'âge de 1 à 2 ans sont indispensables."
+          },
+          {
+            "question": "Pourquoi l'exercice juste après le repas provoque-t-il une Torsion d'Estomac (GDV) mortelle ?",
+            "answer": "Le Dobermann possède un thorax profond laissant de l'espace à l'estomac pour pivoter. L'ingestion rapide de nourriture ou l'effort physique immédiat peut faire gonfler l'estomac et le retourner sur lui-même (GDV), coupant la circulation sanguine et provoquant un état de choc en quelques heures. Fractionnez les repas, utilisez une gamelle anti-glouton et observez 1 heure de repos strict après chaque repas."
+          }
+        ]
+      },
+      "de": {
+        "title": "Verhaltenssignale beim Dobermann Pinscher und 3-Schritte-Tagesroutine für Herzgesundheit (DCM) und Magendrehung-Prophylaxe (GDV)",
+        "description": "Pflegeanleitung für den edlen Dobermann Pinscher. Den 'Dobie Lean' und Drohfixieren verstehen, DCM-Kardiomyopathie sowie Magendrehung vermeiden und Energie in 3 Schritten managen.",
+        "authority": "American Kennel Club (AKC) & Standards des Dobermann Pinscher Club of America (DPCA)",
+        "profile": {
+          "breed": "Dobermann Pinscher",
+          "lifespan": "10 ~ 12 Jahre",
+          "sleep_pattern": "12 ~ 14 Stunden (Erholsamer Tiefschlaf nach intensiver Bewegung)",
+          "temperament": "Treu, Hochintelligent, Wachsam, Energetisch, Beschützerisch"
+        },
+        "intro": "Bekannt für hohe Intelligenz, eleganten Körperbau und bedingungslose Treue ist der Dobermann Pinscher weltweit ein geschätzter Arbeits- und Familienhund. So eng er sich an seine Familie bindet, so stark ist er genetisch für die Dilatative Kardiomyopathie (DCM) gefährdet und neigt durch seinen tiefen Brustkorb zur lebensgefährlichen Magendrehung (GDV). Zudem reagiert sein kurzes Fell empfindlich auf Kälte, und er benötigt viel körperliche sowie geistige Auslastung. In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für die Gesundheit Ihres Dobermanns.",
+        "whyTitle": "Körpersprache des Dobermanns: Der 'Dobie Lean' und das Drohfixieren (Hard Stare)",
+        "whyDesc": "Dobermänner drücken Zuneigung und Wachsamkeit klar durch Körperkontakt und Blickverhalten aus. Das Anlehnen des gesamten Körpergewichts an die Beine des Halters **'Dobie Lean'** ist ihr Markenzeichen für tiefes Vertrauen und Anhänglichkeit. Das starre Verharren mit erhobenem Hals und festem Blick **'Drohfixieren (Hard Stare / Stiff Stance)'** ist dagegen ein deutliches Warnsignal bei Bedrohung oder Reizüberflutung.",
+        "body_signals": [
+          {
+            "name": "Anlehnen des gesamten Körpergewichts an die Beine des Halters (Dobie Lean)",
+            "meaning": "Typischer Vertrauensbeweis des Dobermanns, der Nähe, Zuneigung und körperliche Rückversicherung ausdrückt.",
+            "response": "Reagieren Sie ruhig mit Streicheln, um die Bindung zu stärken und ihm eine souveräne Führung zu vermitteln."
+          },
+          {
+            "name": "Erstarrte Körperhaltung mit erhobenem Hals und fixierendem Blick (Hard Stare / Stiff Stance)",
+            "meaning": "Hohe Alertheit gegenüber Reizen oder Revierbedrohungen; signalisiert unmittelbare Reaktionsbereitschaft.",
+            "response": "Leine kurz nehmen, Sichtkontakt zum Reiz unterbrechen und die Aufmerksamkeit mit 'Sitz' oder 'Schau mich an' umlenken."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Proteinreiche Fütterung & Strikte Ruhe nach dem Fressen zur GDV-Prophylaxe",
+            "text": "Nutzen Sie Anti-Schling-Näpfe gegen Luftschlucken und halten Sie nach dem Fressen eine 1-stündige strikte Ruhephase ohne Toben ein."
+          },
+          {
+            "name": "Mittag: Intensives Bewegungsprogramm (60+ Min) & Geistige Auslastung",
+            "text": "Kombinieren Sie ausdauernden Sport (Laufen, Reizangel) mit Gehorsamstraining und Suchspielen für den wachen Verstand."
+          },
+          {
+            "name": "Abend: Fell- & Hautkontrolle sowie Kälteschutz für das kurze Fell",
+            "text": "Das kurze Fell ohne Unterwolle schützt kaum vor Kälte: Halten Sie Innenräume warm und nutzen Sie bei Kälte einen Hundemantel."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum ist die Dilatative Kardiomyopathie (DCM) beim Dobermann so gefährlich?",
+            "answer": "Die Dilatative Kardiomyopathie (DCM) ist eine tödliche erblich bedingte Herzerkrankung, von der über 50 % aller Dobermänner betroffen sind. Der Herzmuskel erschlafft und vergrößert sich, wodurch die Pumpleistung versagt. Da DCM lange beschwerdefrei verläuft, sind jährliche Herzultraschall- und 24-Stunden-Holter-Untersuchungen ab dem 1. bis 2. Lebensjahr überlebenswichtig."
+          },
+          {
+            "question": "Warum führt Bewegung direkt nach dem Fressen zur tödlichen Magendrehung (GDV)?",
+            "answer": "Dobermänner besitzen einen tiefen, schmalen Brustkorb, der dem Magen Raum zum Drehen lässt. Zu schnelles Fressen oder Bewegung direkt nach der Mahlzeit kann dazu führen, dass sich der Magen mit Gas füllt und um die eigene Achse dreht (GDV). Dies schneidet die Blutzufuhr ab und führt binnen Stunden zum Schock. Füttern Sie in Portionen und sorgen Sie für mindestens 1 Stunde absolute Ruhe nach dem Fressen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Sinais comportamentais do Doberman Pinscher e rotina diária de 3 passos para saúde cardíaca (DCM) e prevenção de torção gástrica (GDV)",
+        "description": "Guia de cuidados para o nobre Doberman Pinscher. Interprete o 'Dobie Lean' e o olhar fixo de alerta, previna a cardiomiopatia DCM e a torção gástrica em 3 passos.",
+        "authority": "American Kennel Club (AKC) & Padrões do Doberman Pinscher Club of America (DPCA)",
+        "profile": {
+          "breed": "Doberman Pinscher",
+          "lifespan": "10 ~ 12 anos",
+          "sleep_pattern": "12 ~ 14 horas (Sono profundo e reparador após exercício intenso)",
+          "temperament": "Leal, Muito inteligente, Alerta, Energético, Protetor"
+        },
+        "intro": "Reconhecido por sua inteligência, físico elegante e lealdade inabalável, o Doberman Pinscher é um cão de trabalho e companheiro amado no mundo todo. Embora seja extremamente devotado à família, é geneticamente predisposto à Cardiomiopatia Dilatada (DCM) e, devido ao tórax profundo, possui alto risco de Torção Gástrica (GDV). Além disso, sua pelagem curta sem subpelo o torna sensível ao frio, exigindo bastante atividade física e mental. Neste guia, apresenta uma rotina de 3 passos para interpretar seus sinais e proteger sua saúde.",
+        "whyTitle": "Linguagem corporal do Doberman: O 'Dobie Lean' e o olhar fixo de alerta (Hard Stare)",
+        "whyDesc": "Os Dobermans expressam afeto e alerta territorial por meio do contato físico e visual. Encostar todo o peso do corpo contra suas pernas **'Dobie Lean'** é sua demonstração característica de profunda confiança e carinho. Por outro lado, manter o corpo rígido, o pescoço erguido e o olhar fixo no alvo **'Olhar fixo de alerta (Hard Stare / Stiff Stance)'** é um sinal claro de alta vigilância e potencial reação defensiva.",
+        "body_signals": [
+          {
+            "name": "Encostar todo o peso do corpo nas pernas do tutor (Dobie Lean)",
+            "meaning": "Demonstração de afeto icônica do Doberman que sinaliza confiança absoluta, apego e busca por segurança física.",
+            "response": "Responda com carinhos calmos para reforçar o vínculo e reafirmar sua liderança tranquila."
+          },
+          {
+            "name": "Corpo Rígido, pescoço erguido e olhar fixo no objetivo (Hard Stare / Stiff Stance)",
+            "meaning": "Postura de alerta máximo diante de uma ameaça potencial ou invasão territorial, indicando prontidão para agir.",
+            "response": "Encurte a guia, bloqueie a visão para o estímulo e redirecione a atenção com comandos como 'Senta' ou 'Olha para mim'."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Alimentação rica em proteínas & repouso estrito pós-refeição contra torção gástrica (GDV)",
+            "text": "Utilize comediros lentos para evitar engolir ar e garanta 1 hora de descanso tranquilo sem corridas após comer."
+          },
+          {
+            "name": "Tarde: Exercício físico intenso (60+ min) & estimulação mental",
+            "text": "Combine atividades de alto gasto energético com treinos de obediência e jogos de faro para canalizar sua inteligência."
+          },
+          {
+            "name": "Noite: Inspeção de pele e pelagem com proteção contra o frio",
+            "text": "A pelagem curta sem subpelo não protege contra o frio: mantenha ambientes internos aquecidos e use roupas térmicas em passeios frios."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que a Cardiomiopatia Dilatada (DCM) é tão perigosa para o Doberman?",
+            "answer": "A Cardiomiopatia Dilatada (DCM) é uma doença cardíaca hereditária fatal que afeta mais de 50% dos Dobermans. O músculo cardíaco se delgada e dilata, perdendo a capacidade de bombear sangue. Como costuma ser assintomática até estágios avançados, exames anuais de ecocardiograma e Holter de 24 horas a partir dos 1 a 2 anos de idade são cruciais."
+          },
+          {
+            "question": "Por que o exercício logo após comer causa a fatal Torção Gástrica (GDV)?",
+            "answer": "Os Dobermans possuem o tórax fundo e estreito, dando espaço para o estômago girar. Comer rápido ou se exercitar logo após a refeição faz o estômago inflar de gás e torcer sobre si mesmo (GDV), bloqueando a circulação sanguínea em poucas horas. Fracione as refeições, use comediros lentos e exija ao menos 1 hora de repouso absoluto pós-refeição."
+          }
+        ]
+      },
+      "id": {
+        "title": "Sinyal Perilaku Doberman Pinscher dan Rutinitas Harian 3 Langkah Perawatan Kesehatan Jantung (DCM) serta Pencegahan Torsi Lambung (GDV)",
+        "description": "Panduan perawatan anjing gagah Doberman Pinscher. Pahami 'Dobie Lean' dan tatapan tajam siaga, cegah kardiomiopati DCM serta kembung GDV dalam 3 langkah.",
+        "authority": "American Kennel Club (AKC) & Standar Perawatan Doberman Pinscher Club of America (DPCA)",
+        "profile": {
+          "breed": "Doberman Pinscher",
+          "lifespan": "10 ~ 12 tahun",
+          "sleep_pattern": "12 ~ 14 jam (Tidur nyenyak berkualitas setelah aktivitas fisik intens)",
+          "temperament": "Setia, Sangat Cerdas, Waspada, Energetik, Protektif"
+        },
+        "intro": "Dikenal karena kecerdasannya yang tinggi, tubuhnya yang elegan, dan kesetiaannya yang tak tergoyahkan, Doberman Pinscher adalah anjing kerja dan pendamping yang sangat dicintai di seluruh dunia. Meskipun sangat setia kepada keluarganya, secara genetik Doberman berisiko tinggi terkena Dilated Cardiomyopathy (DCM) dan karena struktur dadanya yang dalam, mereka rentan mengalami kondisi fatal Gastric Dilatation-Volvulus (GDV/torsi lambung). Selain itu, bulu pendeknya membuat mereka sensitif terhadap dingin, sehingga membutuhkan stimulasi fisik dan mental yang cukup. Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk merawat Doberman Anda.",
+        "whyTitle": "Bahasa Tubuh Doberman: 'Dobie Lean' dan Tatapan Tajam Siaga (Hard Stare)",
+        "whyDesc": "Doberman menyampaikan kasih sayang dan kewaspadaan melalui kontak fisik dan tatapan mata. Menyandarkan seluruh berat badannya ke kaki pemilik **'Dobie Lean'** adalah tanda khas dari kepercayaan dan rasa sayang yang mendalam. Sebaliknya, berdiri kaku dengan leher tegak dan menatap tajam tanpa berkedip **'Tatapan Tajam Siaga (Hard Stare / Stiff Stance)'** adalah sinyal kewaspadaan tinggi sebelum merespons ancaman.",
+        "body_signals": [
+          {
+            "name": "Menyandarkan Seluruh Berat Badan ke Kaki Pemilik (Dobie Lean)",
+            "meaning": "Tanda kasih sayang ikonik khas Doberman yang menunjukkan rasa percaya, ikatan batin, dan pencarian rasa aman fisik.",
+            "response": "Respons dengan elusan lembut untuk memperkuat ikatan dan menegaskan kepemimpinan yang tenang."
+          },
+          {
+            "name": "Tubuh Kaku, Leher Tegak, dan Menatap Tajam Target (Hard Stare / Stiff Stance)",
+            "meaning": "Postur siaga tinggi terhadap potensi ancaman atau gangguan wilayah, menandakan kesiapan untuk bertindak.",
+            "response": "Pendekkan tali tuntun, halangi pandangannya dari pemicu, dan alihkan perhatian dengan perintah 'Duduk' atau 'Lihat Saya'."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pakan Tinggi Protein & Istirahat Ketat Pasca-Makan untuk Mencegah GDV",
+            "text": "Gunakan tempat makan slow-feeder untuk mencegah tertelannya udara, dan wajibkan istirahat tenang selama 1 jam tanpa lari-lari."
+          },
+          {
+            "name": "Siang: Latihan Fisik Intensif (60+ Menit) & Stimulasi Otak",
+            "text": "Kombinasikan olahraga fisik tinggi seperti lari atau agility dengan pelatihan kepatuhan dan permainan olah penciuman."
+          },
+          {
+            "name": "Malam: Pemeriksaan Bulu/Kulit & Perlindungan Suhu Dingin",
+            "text": "Bulu pendek tanpa lapis dalam kurang tahan dingin: jaga suhu ruangan tetap hangat dan gunakan pakaian pelindung saat berjalan di cuaca dingin."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa penyakit Dilated Cardiomyopathy (DCM) sangat berbahaya bagi Doberman?",
+            "answer": "Dilated Cardiomyopathy (DCM) adalah penyakit jantung keturunan fatal yang menyerang lebih dari 50% Doberman Pinscher. Otot jantung menipis dan membesar, kehilangan kemampuan memompa darah. Karena stadium awal sering tanpa gejala hingga terjadi kelemahan mendadak, pemeriksaan ultrasonografi jantung (Echocardiogram) dan Holter 24 jam setiap tahun sejak usia 1–2 tahun sangat penting."
+          },
+          {
+            "question": "Mengapa olahraga setelah makan dapat memicu Torsi Lambung (GDV) yang mematikan?",
+            "answer": "Doberman memiliki rongga dada yang dalam dan sempit, memberi ruang bagi lambung untuk berputar. Makan terlalu cepat atau berolahraga langsung setelah makan dapat membuat lambung terisi gas dan terpelintir (GDV), memotong aliran darah dan memicu syok dalam hitungan jam. Berikan pakan terbagi, gunakan slow feeder, dan pastikan anjing istirahat total minimal 1 jam setelah makan."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/doberman_pinscher_care.webp"
+  }
 }

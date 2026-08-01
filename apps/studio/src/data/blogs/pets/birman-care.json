@@ -1,459 +1,459 @@
 {
-    "birman-care": {
-        "pubDate": "2026-07-20",
-        "updatedDate": "2026-07-20",
-        "locales": {
-            "ko": {
-                "title": "버만 고양이의 피모 빗질과 순한 성격에 맞춘 3단계 정서 케어 루틴",
-                "description": "사파이어빛 푸른 눈과 하얀 장갑 털이 특징인 버만 고양이 사육 가이드. 실키 코트 털 관리, 비대성 심근증(HCM) 건강 체크, 3단계 애정 케어 루틴을 소개합니다.",
-                "authority": "국제고양이협회(TICA) / 고양이해선협회(CFA) 품종 표준 및 코넬 고양이 건강 센터(Cornell Feline Health Center) 가이드라인",
-                "profile": {
-                    "breed": "버만 고양이 / 버마의 성묘 (Birman Cat / Sacred Cat of Burma)",
-                    "lifespan": "12 ~ 16년 (사육 환경 최적화 시)",
-                    "sleep_pattern": "12 ~ 16시간 (성묘 적정 수면)",
-                    "temperament": "얌전함, 다정함, 조용함, 사람을 좋아함, 온순함"
-                },
-                "intro": "버만 고양이(Birman Cat)는 사파이어처럼 빛나는 푸른 눈과 하얀 장갑을 낀 듯한 발이 특징인 대표적인 단포인트 장모종 고양이입니다. 얌전하고 조용한 성격으로 보호자와 깊은 정서적 유대를 형성하며, 속털이 적어 다른 장모종에 비해 털 엉킴이 적은 실키 코트를 지녔습니다. 하지만 예민한 정서를 위해 규칙적인 놀이와 빗질이 필요하며, 품종 특성상 비대성 심근증(HCM)과 신장 건강을 주기적으로 체크해 주는 것이 중요합니다. 이번 가이드에서 버만 고양이의 교감 신호와 3단계 케어 루틴을 정리해 드립니다.",
-                "whyTitle": "버만 고양이의 생태 본능: 골골송 부비부비와 꼬리 탁탁 스트레스 신호",
-                "whyDesc": "버만은 다정한 표정으로 볼을 비비는 **'부비부비 및 부드러운 가르랑(Soft Purring & Nuzzling)'**으로 깊은 신뢰를 표합니다. 반면 과도한 자극을 받거나 불안할 때는 **'꼬리 탁탁 치기(Tail Flicking)'**로 거부 의사를 보입니다.",
-                "body_signals": [
-                    {
-                        "name": "볼 비비기 및 울음 (Soft Purring & Nuzzling)",
-                        "meaning": "보호자에게 몸이나 볼을 비비며 부드럽게 소리를 내는 행동으로, 높은 애정과 안정감을 나타냅니다.",
-                        "response": "부드럽게 턱 밑이나 머리를 쓸어내리며 애정으로 응답해 줍니다."
-                    },
-                    {
-                        "name": "꼬리 바닥 치기 및 마징가 귀 (Tail Flicking & Flat Ears)",
-                        "meaning": "꼬리로 바닥을 탁탁 치거나 귀를 뒤로 눕히는 표현으로, 스트레스나 스킨십 과부하 신호입니다.",
-                        "response": "스킨십을 즉시 중단하고 고양이가 스스로 안정을 취하도록 혼자만의 시간을 줍니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 음수량 확인 및 습식 사료 공급",
-                        "text": "신장 및 비뇨기 건강을 위해 신선한 물을 채우고 수분 함량이 높은 습식 사료를 공급합니다."
-                    },
-                    {
-                        "name": "낮: 실키 코트 부드러운 빗질 및 장갑 발 점검",
-                        "text": "슬리커 브러시로 엉킴을 예방하는 가벼운 빗질을 해주고, 하얀 장갑 털의 위생 상태를 체크합니다."
-                    },
-                    {
-                        "name": "밤: 1대1 교감 낚시 놀이 및 정서적 스킨십",
-                        "text": "부드러운 깃털 장난감으로 가벼운 정서적 운동을 진행한 뒤 포근한 잠자리에서 휴식을 취하게 합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "버만 고양이는 털이 많이 엉키는 편인가요?",
-                        "answer": "아닙니다. 빽빽한 속털이 적은 싱글 스타일의 실키 코트라 페르시안 등에 비해 털 엉킴이 훨씬 적습니다. 주 2~3회 가벼운 빗질로도 충분히 아름다운 모질을 유지할 수 있습니다."
-                    },
-                    {
-                        "question": "주의해야 할 건강 질환은 무엇이 있나요?",
-                        "answer": "유전적으로 비대성 심근증(HCM) 위험이 있으므로 정기적인 심장 초음파 검진이 권장되며, 수분 섭취를 통한 신장 및 비뇨기 질환 예방이 중요합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Birman Cat Silky Coat Grooming and 3-Step Affectionate Care Routine",
-                "description": "Essential care guide for the Birman cat, renowned for its sapphire blue eyes and white gloved paws. Learn about silky coat grooming, Hypertrophic Cardiomyopathy (HCM) monitoring, and a 3-step bonding routine.",
-                "authority": "Cat Fanciers' Association (CFA) / The International Cat Association (TICA) & Cornell Feline Health Center",
-                "profile": {
-                    "breed": "Birman Cat / Sacred Cat of Burma",
-                    "lifespan": "12 - 16 Years (In optimized captive conditions)",
-                    "sleep_pattern": "12 - 16 Hours (Adult cat pattern)",
-                    "temperament": "Gentle, Affectionate, Quiet, People-oriented, Docile"
-                },
-                "intro": "The Birman cat is an elegant semi-longhair breed celebrated for its striking sapphire blue eyes and pure white paws known as 'gloves'. Gentle and quiet, Birmans thrive on close emotional bonds with their owners. Their single, silky coat lacks a dense undercoat, making it less prone to matting than other longhaired breeds. However, regular grooming, gentle play, and health screenings for Hypertrophic Cardiomyopathy (HCM) and renal wellness are essential. In this guide, outlines Birman communication signals and a 3-step daily routine.",
-                "whyTitle": "Birman Instincts: Soft Purr Nuzzling and Tail Flicking Stress Cues",
-                "whyDesc": "Birmans express affection by rubbing their cheeks in **'Soft Purring & Nuzzling'**. When overstimulated or stressed, they signal discomfort by **'Tail Flicking'** against the floor.",
-                "body_signals": [
-                    {
-                        "name": "Soft Purring & Nuzzling",
-                        "meaning": "Rubbing cheeks against the owner while purring, indicating deep affection and security.",
-                        "response": "Respond with gentle strokes under the chin and affectionate vocal praise."
-                    },
-                    {
-                        "name": "Tail Flicking & Flat Ears",
-                        "meaning": "Thumping the tail or flattening ears backward, signaling overstimulation or discomfort.",
-                        "response": "Cease petting immediately and allow the cat quiet personal space."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Hydration Check & Wet Food Feeding",
-                        "text": "Refill clean water bowls and provide moisture-rich wet food to support renal health."
-                    },
-                    {
-                        "name": "Afternoon: Silky Coat Combing & Paw Inspection",
-                        "text": "Gently comb the semi-long coat with a pin brush and inspect the cleanliness of white gloves."
-                    },
-                    {
-                        "name": "Evening: Interactive Wand Play & Gentle Bonding",
-                        "text": "Engage in light feather wand play to stimulate mood before a peaceful night's rest."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Is the Birman cat's coat prone to severe matting?",
-                        "answer": "No. Birmans lack a heavy undercoat, so their silky fur mats far less than Persians. Combing 2–3 times a week is sufficient to keep their coat healthy."
-                    },
-                    {
-                        "question": "What health conditions require regular screening?",
-                        "answer": "Birmans can be prone to Hypertrophic Cardiomyopathy (HCM). Regular cardiac ultrasounds and encouraging adequate water intake for kidney health are recommended."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "バーマンのシルキーコートのお手入れと優しい性格に応じた3ステップケアルーチン",
-                "description": "サファイアブルーの目と白い手袋のような前足が特徴的なバーマンの飼育ガイド。毛玉を防ぐシルキーコートのお手入れ、心臓病(HCM)予防、3ステップケアを解説します。",
-                "authority": "CFA / TICA 犬猫血統登録団体 & コーネル大学猫健康センター (Cornell Feline Health Center)",
-                "profile": {
-                    "breed": "バーマン / ビルマの神聖な猫 (Birman Cat)",
-                    "lifespan": "12 〜 16年 (最適な飼育環境下)",
-                    "sleep_pattern": "12 〜 16時間 (成猫の適正睡眠)",
-                    "temperament": "穏やか、愛情深い、静か、人好き、従順"
-                },
-                "intro": "バーマンは、美しいサファイアブルーの瞳と「グローブ」と呼ばれる白い手袋をはめたような足元が魅力の長毛種です。穏やかで優しい性格を持ち、飼い主との深い絆を好みます。アンダーコートが少ないシルキーコートのため、他の長毛種に比べ毛がもつれにくいのが特徴です。しかし、スキンシップや定期的なブラッシング、肥大型心筋症（HCM）や腎臓の健康管理が欠かせません。今回はバーマンのコミュニケーションサインと3ステップ日常ルーチンを解説します。",
-                "whyTitle": "バーマンの本能：すりすりゴロゴロと尻尾パタパタサイン",
-                "whyDesc": "信頼する飼い主に頬を擦りつける**「すりすりゴロゴロ」**で愛情を表現します。一方、刺激過多や不快感を感じると**「尻尾パタパタ」**で拒否を示します。",
-                "body_signals": [
-                    {
-                        "name": "すりすりゴロゴロ (Soft Purring & Nuzzling)",
-                        "meaning": "頬を擦りつけながら喉を鳴らす行動で、強い親愛と安心感のサインです。",
-                        "response": "顎の下や頭を優しく撫でて応えてあげます。"
-                    },
-                    {
-                        "name": "尻尾パタパタと伏せ耳 (Tail Flicking & Flat Ears)",
-                        "meaning": "尻尾を床に打ち付けたり耳を倒す表現で、ストレスや撫ですぎのサインです。",
-                        "response": "すぐに撫でるのをやめ、一人で落ち着ける時間を与えます。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：水分補給確認とウェットフード給与",
-                        "text": "腎臓と尿路の健康のため新鮮な水を用意し、水分量の多いウェットフードを与えます。"
-                    },
-                    {
-                        "name": "昼：シルキーコートのブラッシングと足元チェック",
-                        "text": "コームで優しくとかして毛玉を予防し、白い手袋毛の汚れを点検します。"
-                    },
-                    {
-                        "name": "夜：じゃらし遊びとスキンシップ",
-                        "text": "柔らかい羽のおもちゃで適度に運動させ、静かな環境で休ませます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "バーマンの毛はもつれやすいですか？",
-                        "answer": "いいえ。アンダーコートが少ないシルキーな毛質のためペルシャ等に比べもつれにくいです。週2〜3回のブラッシングで十分に美しい毛並みを維持できます。"
-                    },
-                    {
-                        "question": "注意すべき遺伝性疾患はありますか？",
-                        "answer": "肥大型心筋症（HCM）の傾向があるため定期的な心臓検診が推奨されます。また水分摂取を促し腎臓の健康を保つことも大切です。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "伯曼猫丝滑被毛梳理与温和性格3阶段日常护理流程",
-                "description": "拥有蓝宝石般眼眸与白手套足部的伯曼猫饲养指南。介绍丝滑被毛理毛技巧、肥大性心肌病（HCM）健康监测及3阶段日常护理流程。",
-                "authority": "CFA / TICA 纯种猫协会标准 及 康奈尔猫科健康中心 (Cornell Feline Health Center)",
-                "profile": {
-                    "breed": "伯曼猫 / 缅甸圣猫 (Birman Cat)",
-                    "lifespan": "12 ~ 16年 (人工饲养环境最优化时)",
-                    "sleep_pattern": "12 ~ 16小时 (成猫适宜睡眠)",
-                    "temperament": "温和、亲人、安静、黏人、性格顺从"
-                },
-                "intro": "伯曼猫（Birman Cat）以深邃如蓝宝石的眼睛和四肢末端如戴白手套般的“手套毛”而闻名。它们性格极其温和安静，非常热衷于与主人建立亲密的感情。由于缺少密集的底毛，其丝滑被毛比其他长毛猫更不易打结。尽管如此，定期的被毛梳理、温和的陪玩互动以及对肥大性心肌病（HCM）和肾脏健康定期检查依然不可或缺。本指南为您整理伯曼猫的情感信号与3阶段日常护理流程。",
-                "whyTitle": "伯曼猫的生态本能：蹭蹭咕噜与甩尾抗拒信号",
-                "whyDesc": "伯曼猫表达爱意时会用面颊**“蹭蹭咕噜（Soft Purring & Nuzzling）”**；而当感到压力或抚摸过度时，则会通过**“拍打尾巴（Tail Flicking）”**表达抗拒。",
-                "body_signals": [
-                    {
-                        "name": "蹭蹭咕噜 (Soft Purring & Nuzzling)",
-                        "meaning": "用面颊摩擦主人并发出温柔咕噜声，代表极高的信任与依恋。",
-                        "response": "温柔抚摸其下巴或头部作为回应。"
-                    },
-                    {
-                        "name": "拍打尾巴与飞机耳 (Tail Flicking & Flat Ears)",
-                        "meaning": "用尾巴拍打地面或耳朵向后压平，代表抚摸过度或内心烦躁。",
-                        "response": "立即停止上手抚摸，给其独立安静的空间。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：饮水量检查与湿粮喂食",
-                        "text": "准备干净饮用水，喂食高含水量的湿粮罐头以维护肾脏与泌尿系统健康。"
-                    },
-                    {
-                        "name": "白天：丝滑被毛梳理与足部检查",
-                        "text": "用排梳轻轻梳理被毛防止防结，并检查白色手套毛的卫生状况。"
-                    },
-                    {
-                        "name": "晚上：羽毛棒互动与陪伴",
-                        "text": "用逗猫棒进行适度温和的运动，随后安排在温暖舒适的环境中休息。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "伯曼猫的毛发容易打结吗？",
-                        "answer": "不易打结。伯曼猫属于缺乏密集底毛的单层丝滑被毛，相比波斯猫等更不易结块，每周梳理2~3次即可保持靓丽。"
-                    },
-                    {
-                        "question": "需要重点预防哪些疾病？",
-                        "answer": "伯曼猫存在肥大性心肌病（HCM）的遗传风险，建议定期做心超检查；同时多鼓励饮水以预防肾脏疾病。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cepillado del pelaje sedoso del gato Birmano y rutina de 3 pasos de cuidado afectuoso",
-                "description": "Guía de cuidado del gato Birmano, famoso por sus ojos azul zafiro y sus guantes blancos. Conozca el mantenimiento de su pelaje sedoso, la salud del miocardio (HCM) y la rutina de 3 pasos.",
-                "authority": "Estándares CFA / TICA & Cornell Feline Health Center",
-                "profile": {
-                    "breed": "Gato Sagrado de Birmania / Birmano (Birman Cat)",
-                    "lifespan": "12 - 16 años (en condiciones optimizadas)",
-                    "sleep_pattern": "12 - 16 horas (patrón adulto)",
-                    "temperament": "Dócil, afectuoso, tranquilo, orientado a las personas"
-                },
-                "intro": "El gato Birmano es una elegante raza semilarga famosa por sus ojos azul zafiro y sus patas con guantes blancos. Dóciles y tranquilos, crean fuertes lazos emocionales con sus dueños. Su pelaje sedoso carece de un subpelo denso, por lo que se enreda menos que el de otros gatos de pelo largo. No obstante, el cepillado regular y los chequeos para la Cardiomiopatía Hipertrófica (HCM) son esenciales. En esta guía se presenta mos su rutina de 3 pasos.",
-                "whyTitle": "Instintos del gato Birmano: Ronroneo cariñoso y movimientos de cola por estrés",
-                "whyDesc": "Expresan cariño frotando sus mejillas en **'Ronroneo cariñoso'**. Si se sobreestimulan, lo indican con **'Movimientos de cola'** contra el suelo.",
-                "body_signals": [
-                    {
-                        "name": "Ronroneo cariñoso (Soft Purring & Nuzzling)",
-                        "meaning": "Frotar las mejillas contra el dueño mientras ronronea, mostrando profundo afecto.",
-                        "response": "Responda con caricias suaves bajo la barbilla."
-                    },
-                    {
-                        "name": "Movimientos de cola y orejas planas (Tail Flicking & Flat Ears)",
-                        "meaning": "Golpear la cola contra el suelo o aplanar las orejas, señalando sobreestimulación.",
-                        "response": "Detenga las caricias de inmediato y déjele espacio."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Control de hidratación y comida húmeda",
-                        "text": "Renovar agua fresca y ofrecer comida húmeda para cuidar la salud renal."
-                    },
-                    {
-                        "name": "Tarde: Cepillado del pelaje sedoso y revisión de patas",
-                        "text": "Cepillar suavemente el pelo semilargo y revisar la limpieza de los guantes blancos."
-                    },
-                    {
-                        "name": "Noche: Juego interactivo con plumero y descanso",
-                        "text": "Jugar con un plumero suave para ejercitarlo antes de descansar."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿El pelaje del gato Birmano se enreda fácilmente?",
-                        "answer": "No. Al carecer de subpelo denso, su pelo sedoso se enreda mucho menos que el del gato Persa. Cepillarlo 2-3 veces por semana es suficiente."
-                    },
-                    {
-                        "question": "¿Qué problemas de salud requieren atención?",
-                        "answer": "Pueden ser propensos a la Cardiomiopatía Hipertrófica (HCM). Se recomiendan ecocardiogramas periódicos y fomentar la ingesta de agua."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Brossage du pelage soyeux du Sacré de Birmanie et routine en 3 étapes de soins affectueux",
-                "description": "Guide de soin pour le Sacré de Birmanie, célèbre pour ses yeux bleu saphir et ses gants blancs. Découvrez le soin de son pelage soyeux, la surveillance de la CMH et la routine en 3 étapes.",
-                "authority": "Normes CFA / TICA & Cornell Feline Health Center",
-                "profile": {
-                    "breed": "Sacré de Birmanie (Birman Cat)",
-                    "lifespan": "12 - 16 ans (en captivité optimisée)",
-                    "sleep_pattern": "12 - 16 heures (adulte)",
-                    "temperament": "Doux, affectueux, calme, très proche de l'homme"
-                },
-                "intro": "Le Sacré de Birmanie est une race mi-longue élégante reconnue pour ses yeux bleu saphir et ses pieds gantés de blanc. Doux et paisible, il aime les liens étroits avec ses maîtres. Son pelage soyeux possède peu de sous-poil, ce qui limite les nœuds par rapport à d'autres chats à poils longs. Toutefois, un brossage régulier et un suivi de la Cardiomyopathie Hypertrophique (CMH) sont nécessaires. Ce guide vous propose sa routine en 3 étapes.",
-                "whyTitle": "Instincts du Sacré de Birmanie : Ronronnement câlin et battements de queue",
-                "whyDesc": "Il exprime sa tendresse par des **'Frottements et ronronnements'**. S'il est surstimulé, il le montre par des **'Battements de queue'** impatients.",
-                "body_signals": [
-                    {
-                        "name": "Frottements et ronronnements (Soft Purring & Nuzzling)",
-                        "meaning": "Frotter ses joues contre son maître en ronronnant, signe de grande affection.",
-                        "response": "Répondez par des caresses sous le menton."
-                    },
-                    {
-                        "name": "Battements de queue et oreilles couchées (Tail Flicking & Flat Ears)",
-                        "meaning": "Taper la queue sur le sol ou coucher les oreilles, signalant un agacement.",
-                        "response": "Cessez les caresses et laissez-lui de l'espace."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Hydratation et pâtée humide",
-                        "text": "Renouveler l'eau fraîche et donner de la pâtée humide pour préserver les reins."
-                    },
-                    {
-                        "name": "Après-midi : Brossage du pelage et soin des gants",
-                        "text": "Brosser délicatement le pelage soyeux et vérifier la propreté des gants blancs."
-                    },
-                    {
-                        "name": "Soir : Jeu doux avec plumet et câlins",
-                        "text": "Jouer avec un plumet en douceur avant une nuit calme."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Le pelage du Sacré de Birmanie s'emmêle-t-il facilement ?",
-                        "answer": "Non. Ayant peu de sous-poil, sa fourrure soyeuse s'emmêle beaucoup moins que celle du Persan. Un brossage 2 à 3 fois par semaine suffit."
-                    },
-                    {
-                        "question": "Quelles maladies surveiller ?",
-                        "answer": "Il existe un risque génétique de Cardiomyopathie Hypertrophique (CMH). Un dépistage cardiaque régulier et une bonne hydratation sont conseillés."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Fellpflege der Heiligen Birma und 3-Schritt-Schmusewelt-Routine für sanfte Katzen",
-                "description": "Haltungsleitfaden für die Heilige Birma. Erfahren Sie alles über die Pflege des seidigen Halblanghaarfells, die Vorbeugung von Herzerkrankungen (HCM) und die 3-Schritt-Pflege.",
-                "authority": "CFA / TICA Rassestandards & Cornell Feline Health Center",
-                "profile": {
-                    "breed": "Heilige Birma (Birman Cat)",
-                    "lifespan": "12 - 16 Jahre (bei optimaler Haltung)",
-                    "sleep_pattern": "12 - 16 Stunden (ausgewachsen)",
-                    "temperament": "Sanftmütig, liebevoll, ruhig, menschenbezogen"
-                },
-                "intro": "Die Heilige Birma ist bekannt für ihre tiefblauen Saphiraugen und ihre blütenweißen 'Handschuhe' an den Pfoten. Diese sanftmütige Rasse baut eine enge Bindung zu ihren Menschen auf. Das seidige Halblanghaarfell besitzt kaum Unterwolle und verknotet daher seltener als bei anderen Langhaarkatzen. Dennoch sind regelmäßiges Bürsten und Untersuchungen auf Hypertrophe Kardiomyopathie (HCM) wichtig. Heute erklärt  die 3-Schritt-Routine.",
-                "whyTitle": "Instinkte der Heiligen Birma: Schnurr-Kopfschmiegen und Schwanzschlagen",
-                "whyDesc": "Zuneigung zeigt sie durch **'Schnurr-Kopfschmiegen'**. Wenn ihr Reize zu viel werden, signalisiert sie dies durch **'Schwanzschlagen'** auf den Boden.",
-                "body_signals": [
-                    {
-                        "name": "Schnurr-Kopfschmiegen (Soft Purring & Nuzzling)",
-                        "meaning": "Reiben der Wange am Halter unter Schnurren, Ausdruck von großem Vertrauen.",
-                        "response": "Streicheln Sie das Kinn und sprechen Sie leise mit ihr."
-                    },
-                    {
-                        "name": "Schwanzschlagen & Flachlegen der Ohren (Tail Flicking & Flat Ears)",
-                        "meaning": "Schlagen mit der Schwanzspitze auf den Boden, Signal für Überstimulation.",
-                        "response": "Stoppen Sie das Streicheln und lassen Sie der Katze Ruhe."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Frisches Wasser & Nassfütterung",
-                        "text": "Frisches Wasser bereitstellen und Nassfutter zur Nierenunterstützung füttern."
-                    },
-                    {
-                        "name": "Nachmittag: Fellpflege & Pfoten-Check",
-                        "text": "Seidiges Fell sanft kämmen und die weißen Handschuhe auf Sauberkeit prüfen."
-                    },
-                    {
-                        "name": "Abend: Sanftes Spiel mit der Federangel & Kuscheln",
-                        "text": "Ruhiges Spiel mit der Spielangel vor dem Schlafengehen anbieten."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Neigt das Fell der Heiligen Birma zu Verfilzungen?",
-                        "answer": "Nein. Da Unterwolle fehlt, verfilzt das seidige Haar deutlich weniger als bei Persern. 2–3 Mal Kämmen pro Woche reicht völlig aus."
-                    },
-                    {
-                        "question": "Welche Krankheiten sollten überwacht werden?",
-                        "answer": "Ein Risiko für Hypertrophe Kardiomyopathie (HCM) besteht. Regelmäßige Herzultraschall-Untersuchungen und gute Flüssigkeitszufuhr werden empfohlen."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Escovação da pelagem sedosa do gato Sagrado da Birmânia e rotina de 3 passos de carinho",
-                "description": "Guia de cuidados com o gato Sagrado da Birmânia (Birmanês). Saiba mais sobre o manejo da pelagem sedosa, prevenção da miocardiopatia (HCM) e rotina de afeto em 3 passos.",
-                "authority": "Padrões CFA / TICA e Cornell Feline Health Center",
-                "profile": {
-                    "breed": "Sagrado da Birmânia / Birmanês (Birman Cat)",
-                    "lifespan": "12 - 16 anos (em cativeiro otimizado)",
-                    "sleep_pattern": "12 - 16 horas (padrão adulto)",
-                    "temperament": "Dócil, afetuoso, calmo, orientado a pessoas"
-                },
-                "intro": "O Sagrado da Birmânia é um gato elegante famoso pelos olhos azul-safira e patas com luvas brancas. Dóceis e calmos, formam fortes laços com os donos. A sua pelagem sedosa tem pouco subpelo, entrelaçando menos do que a de outros gatos de pelo longo. Ainda assim, escovação regular e exames para Miocardiopatia Hipertrófica (HCM) são vitais. Neste guia, apresentamos mos a rotina em 3 passos.",
-                "whyTitle": "Instintos do gato Birmanês: Ronrono carinhoso e abanar de cauda",
-                "whyDesc": "Demonstram afeto esfregando as bochechas num **'Ronrono carinhoso'**. Se ficarem sobrestimulados, indicam-no com **'Abanar de cauda'** contra o chão.",
-                "body_signals": [
-                    {
-                        "name": "Ronrono carinhoso (Soft Purring & Nuzzling)",
-                        "meaning": "Esfregar as bochechas no dono enquanto ronrona, mostrando profundo afeto.",
-                        "response": "Retribua com festas suaves debaixo do queixo."
-                    },
-                    {
-                        "name": "Abanar de cauda e orelhas baixas (Tail Flicking & Flat Ears)",
-                        "meaning": "Bater com a cauda no chão ou baixar as orelhas, indicando desconforto.",
-                        "response": "Pare de acariciar imediatamente e dê-lhe espaço."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Hidratação e comida húmida",
-                        "text": "Renovar a água limpa e oferecer ração húmida para proteger a saúde renal."
-                    },
-                    {
-                        "name": "Tarde: Escovação da pelagem e inspeção das patas",
-                        "text": "Petear suavemente o pelo semilongo e verificar a limpeza das luvas brancas."
-                    },
-                    {
-                        "name": "Noite: Brincadeira com varinha de penas e descanso",
-                        "text": "Brincar com uma varinha suave antes de uma noite tranquila."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "A pelagem do Sagrado da Birmânia ganha nós facilmente?",
-                        "answer": "Não. Como tem pouco subpelo, a pelagem sedosa ganha muito menos nós que a do gato Persa. Escovar 2 a 3 vezes por semana é suficiente."
-                    },
-                    {
-                        "question": "Que problemas de saúde exigem atenção?",
-                        "answer": "Podem ter predisposição para Miocardiopatia Hipertrófica (HCM). Acompanhamento cardíaco periódico e boa hidratação renal são recomendados."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Perawatan Bulu Sutra Kucing Birman dan Rutinitas 3 Langkah Kasih Sayang",
-                "description": "Panduan perawatan kucing Birman yang terkenal dengan mata biru safir dan kaus kaki putihnya. Pelajari perawatan bulu sutra, pencegahan kardiomiopati (HCM), dan 3 langkah rutinitas harian.",
-                "authority": "Standar Ras CFA / TICA & Cornell Feline Health Center",
-                "profile": {
-                    "breed": "Kucing Birman / Sacred Cat of Burma",
-                    "lifespan": "12 - 16 tahun (pada kondisi penangkaran optimal)",
-                    "sleep_pattern": "12 - 16 jam (pola tidur dewasa)",
-                    "temperament": "Penurut, penuh kasih sayang, tenang, ramah"
-                },
-                "intro": "Kucing Birman adalah ras anggun yang terkenal dengan mata biru safirnya yang memikat dan cakar berbulu putih seperti kaus kaki. Lembut dan tenang, Birman sangat menyukai hubungan dekat dengan pemiliknya. Bulu sutra mereka tidak memiliki lapisan bulu bawah yang tebal, sehingga jarang menggumpal dibanding ras bulu panjang lainnya. Namun penyisiran rutin, permainan lembut, dan pemeriksaan kardiomiopati (HCM) tetap penting. Dalam panduan ini, membagikan 3 langkah rutinitas perawatan.",
-                "whyTitle": "Insting Kucing Birman: Dengkur Manja dan Kibasan Ekor Stres",
-                "whyDesc": "Mereka menunjukkan kasih sayang dengan **'Dengkur Manja'** sambil menggesekkan pipi. Saat merasa kewalahan, mereka menunjukkan sinyal **'Kibasan Ekor'** ke lantai.",
-                "body_signals": [
-                    {
-                        "name": "Dengkur Manja & Gesek Pipi (Soft Purring & Nuzzling)",
-                        "meaning": "Menggesekkan pipi ke pemilik sambil berdengkur, menandakan rasa percaya dan kasih sayang.",
-                        "response": "Balas dengan belaian lembut di bawah dagu dan pujian."
-                    },
-                    {
-                        "name": "Kibasan Ekor & Telinga Rebah (Tail Flicking & Flat Ears)",
-                        "meaning": "Menepuk ekor ke lantai atau merebahkan telinga, menandakan stimulasi berlebihan.",
-                        "response": "Hentikan belaian segera dan beri kucing ruang pribadi yang tenang."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Pemeriksaan Cairan & Makanan Basah",
-                        "text": "Isi ulang air bersih dan berikan makanan basah kaya cairan untuk kesehatan ginjal."
-                    },
-                    {
-                        "name": "Siang: Menyisir Bulu Sutra & Cek Kaus Kaki Putih",
-                        "text": "Sisir bulu halus secara perlahan dan periksa kebersihan bulu putih di kakinya."
-                    },
-                    {
-                        "name": "Malam: Bermain Tongkat Bulu & Bersantai",
-                        "text": "Ajak bermain mainan bulu dengan lembut untuk stimulasi emosional sebelum tidur."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apakah bulu kucing Birman mudah menggumpal?",
-                        "answer": "Tidak. Karena Birman tidak memiliki lapisan bulu bawah yang tebal, bulunya jauh lebih jarang menggumpal dibanding kucing Persia. Menyisirnya 2–3 kali seminggu sudah cukup."
-                    },
-                    {
-                        "question": "Penyakit apa yang perlu diwaspadai?",
-                        "answer": "Ras ini memiliki kecenderungan kardiomiopati hipertrofik (HCM). Pemeriksaan USG jantung berkala dan asupan air yang cukup sangat disarankan."
-                    }
-                ]
-            }
+  "birman-care": {
+    "pubDate": "2026-07-20",
+    "updatedDate": "2026-07-20",
+    "locales": {
+      "ko": {
+        "title": "버만 고양이의 피모 빗질과 순한 성격에 맞춘 3단계 정서 케어 루틴",
+        "description": "사파이어빛 푸른 눈과 하얀 장갑 털이 특징인 버만 고양이 사육 가이드. 실키 코트 털 관리, 비대성 심근증(HCM) 건강 체크, 3단계 애정 케어 루틴을 소개합니다.",
+        "authority": "국제고양이협회(TICA) / 고양이해선협회(CFA) 품종 표준 및 코넬 고양이 건강 센터(Cornell Feline Health Center) 가이드라인",
+        "profile": {
+          "breed": "버만 고양이 / 버마의 성묘 (Birman Cat / Sacred Cat of Burma)",
+          "lifespan": "12 ~ 16년 (사육 환경 최적화 시)",
+          "sleep_pattern": "12 ~ 16시간 (성묘 적정 수면)",
+          "temperament": "얌전함, 다정함, 조용함, 사람을 좋아함, 온순함"
         },
-        "heroImage": "/images/blog/birman_care.webp"
-    }
+        "intro": "버만 고양이(Birman Cat)는 사파이어처럼 빛나는 푸른 눈과 하얀 장갑을 낀 듯한 발이 특징인 대표적인 단포인트 장모종 고양이입니다. 얌전하고 조용한 성격으로 보호자와 깊은 정서적 유대를 형성하며, 속털이 적어 다른 장모종에 비해 털 엉킴이 적은 실키 코트를 지녔습니다. 하지만 예민한 정서를 위해 규칙적인 놀이와 빗질이 필요하며, 품종 특성상 비대성 심근증(HCM)과 신장 건강을 주기적으로 체크해 주는 것이 중요합니다. 이번 가이드에서 버만 고양이의 교감 신호와 3단계 케어 루틴을 정리해 드립니다.",
+        "whyTitle": "버만 고양이의 생태 본능: 골골송 부비부비와 꼬리 탁탁 스트레스 신호",
+        "whyDesc": "버만은 다정한 표정으로 볼을 비비는 **'부비부비 및 부드러운 가르랑(Soft Purring & Nuzzling)'**으로 깊은 신뢰를 표합니다. 반면 과도한 자극을 받거나 불안할 때는 **'꼬리 탁탁 치기(Tail Flicking)'**로 거부 의사를 보입니다.",
+        "body_signals": [
+          {
+            "name": "볼 비비기 및 울음 (Soft Purring & Nuzzling)",
+            "meaning": "보호자에게 몸이나 볼을 비비며 부드럽게 소리를 내는 행동으로, 높은 애정과 안정감을 나타냅니다.",
+            "response": "부드럽게 턱 밑이나 머리를 쓸어내리며 애정으로 응답해 줍니다."
+          },
+          {
+            "name": "꼬리 바닥 치기 및 마징가 귀 (Tail Flicking & Flat Ears)",
+            "meaning": "꼬리로 바닥을 탁탁 치거나 귀를 뒤로 눕히는 표현으로, 스트레스나 스킨십 과부하 신호입니다.",
+            "response": "스킨십을 즉시 중단하고 고양이가 스스로 안정을 취하도록 혼자만의 시간을 줍니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 음수량 확인 및 습식 사료 공급",
+            "text": "신장 및 비뇨기 건강을 위해 신선한 물을 채우고 수분 함량이 높은 습식 사료를 공급합니다."
+          },
+          {
+            "name": "낮: 실키 코트 부드러운 빗질 및 장갑 발 점검",
+            "text": "슬리커 브러시로 엉킴을 예방하는 가벼운 빗질을 해주고, 하얀 장갑 털의 위생 상태를 체크합니다."
+          },
+          {
+            "name": "밤: 1대1 교감 낚시 놀이 및 정서적 스킨십",
+            "text": "부드러운 깃털 장난감으로 가벼운 정서적 운동을 진행한 뒤 포근한 잠자리에서 휴식을 취하게 합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "버만 고양이는 털이 많이 엉키는 편인가요?",
+            "answer": "아닙니다. 빽빽한 속털이 적은 싱글 스타일의 실키 코트라 페르시안 등에 비해 털 엉킴이 훨씬 적습니다. 주 2~3회 가벼운 빗질로도 충분히 아름다운 모질을 유지할 수 있습니다."
+          },
+          {
+            "question": "주의해야 할 건강 질환은 무엇이 있나요?",
+            "answer": "유전적으로 비대성 심근증(HCM) 위험이 있으므로 정기적인 심장 초음파 검진이 권장되며, 수분 섭취를 통한 신장 및 비뇨기 질환 예방이 중요합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Birman Cat Silky Coat Grooming and 3-Step Affectionate Care Routine",
+        "description": "Essential care guide for the Birman cat, renowned for its sapphire blue eyes and white gloved paws. Learn about silky coat grooming, Hypertrophic Cardiomyopathy (HCM) monitoring, and a 3-step bonding routine.",
+        "authority": "Cat Fanciers' Association (CFA) / The International Cat Association (TICA) & Cornell Feline Health Center",
+        "profile": {
+          "breed": "Birman Cat / Sacred Cat of Burma",
+          "lifespan": "12 - 16 Years (In optimized captive conditions)",
+          "sleep_pattern": "12 - 16 Hours (Adult cat pattern)",
+          "temperament": "Gentle, Affectionate, Quiet, People-oriented, Docile"
+        },
+        "intro": "The Birman cat is an elegant semi-longhair breed celebrated for its striking sapphire blue eyes and pure white paws known as 'gloves'. Gentle and quiet, Birmans thrive on close emotional bonds with their owners. Their single, silky coat lacks a dense undercoat, making it less prone to matting than other longhaired breeds. However, regular grooming, gentle play, and health screenings for Hypertrophic Cardiomyopathy (HCM) and renal wellness are essential. In this guide, outlines Birman communication signals and a 3-step daily routine.",
+        "whyTitle": "Birman Instincts: Soft Purr Nuzzling and Tail Flicking Stress Cues",
+        "whyDesc": "Birmans express affection by rubbing their cheeks in **'Soft Purring & Nuzzling'**. When overstimulated or stressed, they signal discomfort by **'Tail Flicking'** against the floor.",
+        "body_signals": [
+          {
+            "name": "Soft Purring & Nuzzling",
+            "meaning": "Rubbing cheeks against the owner while purring, indicating deep affection and security.",
+            "response": "Respond with gentle strokes under the chin and affectionate vocal praise."
+          },
+          {
+            "name": "Tail Flicking & Flat Ears",
+            "meaning": "Thumping the tail or flattening ears backward, signaling overstimulation or discomfort.",
+            "response": "Cease petting immediately and allow the cat quiet personal space."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Hydration Check & Wet Food Feeding",
+            "text": "Refill clean water bowls and provide moisture-rich wet food to support renal health."
+          },
+          {
+            "name": "Afternoon: Silky Coat Combing & Paw Inspection",
+            "text": "Gently comb the semi-long coat with a pin brush and inspect the cleanliness of white gloves."
+          },
+          {
+            "name": "Evening: Interactive Wand Play & Gentle Bonding",
+            "text": "Engage in light feather wand play to stimulate mood before a peaceful night's rest."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Is the Birman cat's coat prone to severe matting?",
+            "answer": "No. Birmans lack a heavy undercoat, so their silky fur mats far less than Persians. Combing 2–3 times a week is sufficient to keep their coat healthy."
+          },
+          {
+            "question": "What health conditions require regular screening?",
+            "answer": "Birmans can be prone to Hypertrophic Cardiomyopathy (HCM). Regular cardiac ultrasounds and encouraging adequate water intake for kidney health are recommended."
+          }
+        ]
+      },
+      "ja": {
+        "title": "バーマンのシルキーコートのお手入れと優しい性格に応じた3ステップケアルーチン",
+        "description": "サファイアブルーの目と白い手袋のような前足が特徴的なバーマンの飼育ガイド。毛玉を防ぐシルキーコートのお手入れ、心臓病(HCM)予防、3ステップケアを解説します。",
+        "authority": "CFA / TICA 犬猫血統登録団体 & コーネル大学猫健康センター (Cornell Feline Health Center)",
+        "profile": {
+          "breed": "バーマン / ビルマの神聖な猫 (Birman Cat)",
+          "lifespan": "12 〜 16年 (最適な飼育環境下)",
+          "sleep_pattern": "12 〜 16時間 (成猫の適正睡眠)",
+          "temperament": "穏やか、愛情深い、静か、人好き、従順"
+        },
+        "intro": "バーマンは、美しいサファイアブルーの瞳と「グローブ」と呼ばれる白い手袋をはめたような足元が魅力の長毛種です。穏やかで優しい性格を持ち、飼い主との深い絆を好みます。アンダーコートが少ないシルキーコートのため、他の長毛種に比べ毛がもつれにくいのが特徴です。しかし、スキンシップや定期的なブラッシング、肥大型心筋症（HCM）や腎臓の健康管理が欠かせません。今回はバーマンのコミュニケーションサインと3ステップ日常ルーチンを解説します。",
+        "whyTitle": "バーマンの本能：すりすりゴロゴロと尻尾パタパタサイン",
+        "whyDesc": "信頼する飼い主に頬を擦りつける**「すりすりゴロゴロ」**で愛情を表現します。一方、刺激過多や不快感を感じると**「尻尾パタパタ」**で拒否を示します。",
+        "body_signals": [
+          {
+            "name": "すりすりゴロゴロ (Soft Purring & Nuzzling)",
+            "meaning": "頬を擦りつけながら喉を鳴らす行動で、強い親愛と安心感のサインです。",
+            "response": "顎の下や頭を優しく撫でて応えてあげます。"
+          },
+          {
+            "name": "尻尾パタパタと伏せ耳 (Tail Flicking & Flat Ears)",
+            "meaning": "尻尾を床に打ち付けたり耳を倒す表現で、ストレスや撫ですぎのサインです。",
+            "response": "すぐに撫でるのをやめ、一人で落ち着ける時間を与えます。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：水分補給確認とウェットフード給与",
+            "text": "腎臓と尿路の健康のため新鮮な水を用意し、水分量の多いウェットフードを与えます。"
+          },
+          {
+            "name": "昼：シルキーコートのブラッシングと足元チェック",
+            "text": "コームで優しくとかして毛玉を予防し、白い手袋毛の汚れを点検します。"
+          },
+          {
+            "name": "夜：じゃらし遊びとスキンシップ",
+            "text": "柔らかい羽のおもちゃで適度に運動させ、静かな環境で休ませます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "バーマンの毛はもつれやすいですか？",
+            "answer": "いいえ。アンダーコートが少ないシルキーな毛質のためペルシャ等に比べもつれにくいです。週2〜3回のブラッシングで十分に美しい毛並みを維持できます。"
+          },
+          {
+            "question": "注意すべき遺伝性疾患はありますか？",
+            "answer": "肥大型心筋症（HCM）の傾向があるため定期的な心臓検診が推奨されます。また水分摂取を促し腎臓の健康を保つことも大切です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "伯曼猫丝滑被毛梳理与温和性格3阶段日常护理流程",
+        "description": "拥有蓝宝石般眼眸与白手套足部的伯曼猫饲养指南。介绍丝滑被毛理毛技巧、肥大性心肌病（HCM）健康监测及3阶段日常护理流程。",
+        "authority": "CFA / TICA 纯种猫协会标准 及 康奈尔猫科健康中心 (Cornell Feline Health Center)",
+        "profile": {
+          "breed": "伯曼猫 / 缅甸圣猫 (Birman Cat)",
+          "lifespan": "12 ~ 16年 (人工饲养环境最优化时)",
+          "sleep_pattern": "12 ~ 16小时 (成猫适宜睡眠)",
+          "temperament": "温和、亲人、安静、黏人、性格顺从"
+        },
+        "intro": "伯曼猫（Birman Cat）以深邃如蓝宝石的眼睛和四肢末端如戴白手套般的“手套毛”而闻名。它们性格极其温和安静，非常热衷于与主人建立亲密的感情。由于缺少密集的底毛，其丝滑被毛比其他长毛猫更不易打结。尽管如此，定期的被毛梳理、温和的陪玩互动以及对肥大性心肌病（HCM）和肾脏健康定期检查依然不可或缺。本指南为您整理伯曼猫的情感信号与3阶段日常护理流程。",
+        "whyTitle": "伯曼猫的生态本能：蹭蹭咕噜与甩尾抗拒信号",
+        "whyDesc": "伯曼猫表达爱意时会用面颊**“蹭蹭咕噜（Soft Purring & Nuzzling）”**；而当感到压力或抚摸过度时，则会通过**“拍打尾巴（Tail Flicking）”**表达抗拒。",
+        "body_signals": [
+          {
+            "name": "蹭蹭咕噜 (Soft Purring & Nuzzling)",
+            "meaning": "用面颊摩擦主人并发出温柔咕噜声，代表极高的信任与依恋。",
+            "response": "温柔抚摸其下巴或头部作为回应。"
+          },
+          {
+            "name": "拍打尾巴与飞机耳 (Tail Flicking & Flat Ears)",
+            "meaning": "用尾巴拍打地面或耳朵向后压平，代表抚摸过度或内心烦躁。",
+            "response": "立即停止上手抚摸，给其独立安静的空间。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：饮水量检查与湿粮喂食",
+            "text": "准备干净饮用水，喂食高含水量的湿粮罐头以维护肾脏与泌尿系统健康。"
+          },
+          {
+            "name": "白天：丝滑被毛梳理与足部检查",
+            "text": "用排梳轻轻梳理被毛防止防结，并检查白色手套毛的卫生状况。"
+          },
+          {
+            "name": "晚上：羽毛棒互动与陪伴",
+            "text": "用逗猫棒进行适度温和的运动，随后安排在温暖舒适的环境中休息。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "伯曼猫的毛发容易打结吗？",
+            "answer": "不易打结。伯曼猫属于缺乏密集底毛的单层丝滑被毛，相比波斯猫等更不易结块，每周梳理2~3次即可保持靓丽。"
+          },
+          {
+            "question": "需要重点预防哪些疾病？",
+            "answer": "伯曼猫存在肥大性心肌病（HCM）的遗传风险，建议定期做心超检查；同时多鼓励饮水以预防肾脏疾病。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cepillado del pelaje sedoso del gato Birmano y rutina de 3 pasos de cuidado afectuoso",
+        "description": "Guía de cuidado del gato Birmano, famoso por sus ojos azul zafiro y sus guantes blancos. Conozca el mantenimiento de su pelaje sedoso, la salud del miocardio (HCM) y la rutina de 3 pasos.",
+        "authority": "Estándares CFA / TICA & Cornell Feline Health Center",
+        "profile": {
+          "breed": "Gato Sagrado de Birmania / Birmano (Birman Cat)",
+          "lifespan": "12 - 16 años (en condiciones optimizadas)",
+          "sleep_pattern": "12 - 16 horas (patrón adulto)",
+          "temperament": "Dócil, afectuoso, tranquilo, orientado a las personas"
+        },
+        "intro": "El gato Birmano es una elegante raza semilarga famosa por sus ojos azul zafiro y sus patas con guantes blancos. Dóciles y tranquilos, crean fuertes lazos emocionales con sus dueños. Su pelaje sedoso carece de un subpelo denso, por lo que se enreda menos que el de otros gatos de pelo largo. No obstante, el cepillado regular y los chequeos para la Cardiomiopatía Hipertrófica (HCM) son esenciales. En esta guía se presenta mos su rutina de 3 pasos.",
+        "whyTitle": "Instintos del gato Birmano: Ronroneo cariñoso y movimientos de cola por estrés",
+        "whyDesc": "Expresan cariño frotando sus mejillas en **'Ronroneo cariñoso'**. Si se sobreestimulan, lo indican con **'Movimientos de cola'** contra el suelo.",
+        "body_signals": [
+          {
+            "name": "Ronroneo cariñoso (Soft Purring & Nuzzling)",
+            "meaning": "Frotar las mejillas contra el dueño mientras ronronea, mostrando profundo afecto.",
+            "response": "Responda con caricias suaves bajo la barbilla."
+          },
+          {
+            "name": "Movimientos de cola y orejas planas (Tail Flicking & Flat Ears)",
+            "meaning": "Golpear la cola contra el suelo o aplanar las orejas, señalando sobreestimulación.",
+            "response": "Detenga las caricias de inmediato y déjele espacio."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Control de hidratación y comida húmeda",
+            "text": "Renovar agua fresca y ofrecer comida húmeda para cuidar la salud renal."
+          },
+          {
+            "name": "Tarde: Cepillado del pelaje sedoso y revisión de patas",
+            "text": "Cepillar suavemente el pelo semilargo y revisar la limpieza de los guantes blancos."
+          },
+          {
+            "name": "Noche: Juego interactivo con plumero y descanso",
+            "text": "Jugar con un plumero suave para ejercitarlo antes de descansar."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿El pelaje del gato Birmano se enreda fácilmente?",
+            "answer": "No. Al carecer de subpelo denso, su pelo sedoso se enreda mucho menos que el del gato Persa. Cepillarlo 2-3 veces por semana es suficiente."
+          },
+          {
+            "question": "¿Qué problemas de salud requieren atención?",
+            "answer": "Pueden ser propensos a la Cardiomiopatía Hipertrófica (HCM). Se recomiendan ecocardiogramas periódicos y fomentar la ingesta de agua."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Brossage du pelage soyeux du Sacré de Birmanie et routine en 3 étapes de soins affectueux",
+        "description": "Guide de soin pour le Sacré de Birmanie, célèbre pour ses yeux bleu saphir et ses gants blancs. Découvrez le soin de son pelage soyeux, la surveillance de la CMH et la routine en 3 étapes.",
+        "authority": "Normes CFA / TICA & Cornell Feline Health Center",
+        "profile": {
+          "breed": "Sacré de Birmanie (Birman Cat)",
+          "lifespan": "12 - 16 ans (en captivité optimisée)",
+          "sleep_pattern": "12 - 16 heures (adulte)",
+          "temperament": "Doux, affectueux, calme, très proche de l'homme"
+        },
+        "intro": "Le Sacré de Birmanie est une race mi-longue élégante reconnue pour ses yeux bleu saphir et ses pieds gantés de blanc. Doux et paisible, il aime les liens étroits avec ses maîtres. Son pelage soyeux possède peu de sous-poil, ce qui limite les nœuds par rapport à d'autres chats à poils longs. Toutefois, un brossage régulier et un suivi de la Cardiomyopathie Hypertrophique (CMH) sont nécessaires. Ce guide vous propose sa routine en 3 étapes.",
+        "whyTitle": "Instincts du Sacré de Birmanie : Ronronnement câlin et battements de queue",
+        "whyDesc": "Il exprime sa tendresse par des **'Frottements et ronronnements'**. S'il est surstimulé, il le montre par des **'Battements de queue'** impatients.",
+        "body_signals": [
+          {
+            "name": "Frottements et ronronnements (Soft Purring & Nuzzling)",
+            "meaning": "Frotter ses joues contre son maître en ronronnant, signe de grande affection.",
+            "response": "Répondez par des caresses sous le menton."
+          },
+          {
+            "name": "Battements de queue et oreilles couchées (Tail Flicking & Flat Ears)",
+            "meaning": "Taper la queue sur le sol ou coucher les oreilles, signalant un agacement.",
+            "response": "Cessez les caresses et laissez-lui de l'espace."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Hydratation et pâtée humide",
+            "text": "Renouveler l'eau fraîche et donner de la pâtée humide pour préserver les reins."
+          },
+          {
+            "name": "Après-midi : Brossage du pelage et soin des gants",
+            "text": "Brosser délicatement le pelage soyeux et vérifier la propreté des gants blancs."
+          },
+          {
+            "name": "Soir : Jeu doux avec plumet et câlins",
+            "text": "Jouer avec un plumet en douceur avant une nuit calme."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Le pelage du Sacré de Birmanie s'emmêle-t-il facilement ?",
+            "answer": "Non. Ayant peu de sous-poil, sa fourrure soyeuse s'emmêle beaucoup moins que celle du Persan. Un brossage 2 à 3 fois par semaine suffit."
+          },
+          {
+            "question": "Quelles maladies surveiller ?",
+            "answer": "Il existe un risque génétique de Cardiomyopathie Hypertrophique (CMH). Un dépistage cardiaque régulier et une bonne hydratation sont conseillés."
+          }
+        ]
+      },
+      "de": {
+        "title": "Fellpflege der Heiligen Birma und 3-Schritt-Schmusewelt-Routine für sanfte Katzen",
+        "description": "Haltungsleitfaden für die Heilige Birma. Erfahren Sie alles über die Pflege des seidigen Halblanghaarfells, die Vorbeugung von Herzerkrankungen (HCM) und die 3-Schritt-Pflege.",
+        "authority": "CFA / TICA Rassestandards & Cornell Feline Health Center",
+        "profile": {
+          "breed": "Heilige Birma (Birman Cat)",
+          "lifespan": "12 - 16 Jahre (bei optimaler Haltung)",
+          "sleep_pattern": "12 - 16 Stunden (ausgewachsen)",
+          "temperament": "Sanftmütig, liebevoll, ruhig, menschenbezogen"
+        },
+        "intro": "Die Heilige Birma ist bekannt für ihre tiefblauen Saphiraugen und ihre blütenweißen 'Handschuhe' an den Pfoten. Diese sanftmütige Rasse baut eine enge Bindung zu ihren Menschen auf. Das seidige Halblanghaarfell besitzt kaum Unterwolle und verknotet daher seltener als bei anderen Langhaarkatzen. Dennoch sind regelmäßiges Bürsten und Untersuchungen auf Hypertrophe Kardiomyopathie (HCM) wichtig. Heute erklärt  die 3-Schritt-Routine.",
+        "whyTitle": "Instinkte der Heiligen Birma: Schnurr-Kopfschmiegen und Schwanzschlagen",
+        "whyDesc": "Zuneigung zeigt sie durch **'Schnurr-Kopfschmiegen'**. Wenn ihr Reize zu viel werden, signalisiert sie dies durch **'Schwanzschlagen'** auf den Boden.",
+        "body_signals": [
+          {
+            "name": "Schnurr-Kopfschmiegen (Soft Purring & Nuzzling)",
+            "meaning": "Reiben der Wange am Halter unter Schnurren, Ausdruck von großem Vertrauen.",
+            "response": "Streicheln Sie das Kinn und sprechen Sie leise mit ihr."
+          },
+          {
+            "name": "Schwanzschlagen & Flachlegen der Ohren (Tail Flicking & Flat Ears)",
+            "meaning": "Schlagen mit der Schwanzspitze auf den Boden, Signal für Überstimulation.",
+            "response": "Stoppen Sie das Streicheln und lassen Sie der Katze Ruhe."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Frisches Wasser & Nassfütterung",
+            "text": "Frisches Wasser bereitstellen und Nassfutter zur Nierenunterstützung füttern."
+          },
+          {
+            "name": "Nachmittag: Fellpflege & Pfoten-Check",
+            "text": "Seidiges Fell sanft kämmen und die weißen Handschuhe auf Sauberkeit prüfen."
+          },
+          {
+            "name": "Abend: Sanftes Spiel mit der Federangel & Kuscheln",
+            "text": "Ruhiges Spiel mit der Spielangel vor dem Schlafengehen anbieten."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Neigt das Fell der Heiligen Birma zu Verfilzungen?",
+            "answer": "Nein. Da Unterwolle fehlt, verfilzt das seidige Haar deutlich weniger als bei Persern. 2–3 Mal Kämmen pro Woche reicht völlig aus."
+          },
+          {
+            "question": "Welche Krankheiten sollten überwacht werden?",
+            "answer": "Ein Risiko für Hypertrophe Kardiomyopathie (HCM) besteht. Regelmäßige Herzultraschall-Untersuchungen und gute Flüssigkeitszufuhr werden empfohlen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Escovação da pelagem sedosa do gato Sagrado da Birmânia e rotina de 3 passos de carinho",
+        "description": "Guia de cuidados com o gato Sagrado da Birmânia (Birmanês). Saiba mais sobre o manejo da pelagem sedosa, prevenção da miocardiopatia (HCM) e rotina de afeto em 3 passos.",
+        "authority": "Padrões CFA / TICA e Cornell Feline Health Center",
+        "profile": {
+          "breed": "Sagrado da Birmânia / Birmanês (Birman Cat)",
+          "lifespan": "12 - 16 anos (em cativeiro otimizado)",
+          "sleep_pattern": "12 - 16 horas (padrão adulto)",
+          "temperament": "Dócil, afetuoso, calmo, orientado a pessoas"
+        },
+        "intro": "O Sagrado da Birmânia é um gato elegante famoso pelos olhos azul-safira e patas com luvas brancas. Dóceis e calmos, formam fortes laços com os donos. A sua pelagem sedosa tem pouco subpelo, entrelaçando menos do que a de outros gatos de pelo longo. Ainda assim, escovação regular e exames para Miocardiopatia Hipertrófica (HCM) são vitais. Neste guia, apresentamos mos a rotina em 3 passos.",
+        "whyTitle": "Instintos do gato Birmanês: Ronrono carinhoso e abanar de cauda",
+        "whyDesc": "Demonstram afeto esfregando as bochechas num **'Ronrono carinhoso'**. Se ficarem sobrestimulados, indicam-no com **'Abanar de cauda'** contra o chão.",
+        "body_signals": [
+          {
+            "name": "Ronrono carinhoso (Soft Purring & Nuzzling)",
+            "meaning": "Esfregar as bochechas no dono enquanto ronrona, mostrando profundo afeto.",
+            "response": "Retribua com festas suaves debaixo do queixo."
+          },
+          {
+            "name": "Abanar de cauda e orelhas baixas (Tail Flicking & Flat Ears)",
+            "meaning": "Bater com a cauda no chão ou baixar as orelhas, indicando desconforto.",
+            "response": "Pare de acariciar imediatamente e dê-lhe espaço."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Hidratação e comida húmida",
+            "text": "Renovar a água limpa e oferecer ração húmida para proteger a saúde renal."
+          },
+          {
+            "name": "Tarde: Escovação da pelagem e inspeção das patas",
+            "text": "Petear suavemente o pelo semilongo e verificar a limpeza das luvas brancas."
+          },
+          {
+            "name": "Noite: Brincadeira com varinha de penas e descanso",
+            "text": "Brincar com uma varinha suave antes de uma noite tranquila."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "A pelagem do Sagrado da Birmânia ganha nós facilmente?",
+            "answer": "Não. Como tem pouco subpelo, a pelagem sedosa ganha muito menos nós que a do gato Persa. Escovar 2 a 3 vezes por semana é suficiente."
+          },
+          {
+            "question": "Que problemas de saúde exigem atenção?",
+            "answer": "Podem ter predisposição para Miocardiopatia Hipertrófica (HCM). Acompanhamento cardíaco periódico e boa hidratação renal são recomendados."
+          }
+        ]
+      },
+      "id": {
+        "title": "Perawatan Bulu Sutra Kucing Birman dan Rutinitas 3 Langkah Kasih Sayang",
+        "description": "Panduan perawatan kucing Birman yang terkenal dengan mata biru safir dan kaus kaki putihnya. Pelajari perawatan bulu sutra, pencegahan kardiomiopati (HCM), dan 3 langkah rutinitas harian.",
+        "authority": "Standar Ras CFA / TICA & Cornell Feline Health Center",
+        "profile": {
+          "breed": "Kucing Birman / Sacred Cat of Burma",
+          "lifespan": "12 - 16 tahun (pada kondisi penangkaran optimal)",
+          "sleep_pattern": "12 - 16 jam (pola tidur dewasa)",
+          "temperament": "Penurut, penuh kasih sayang, tenang, ramah"
+        },
+        "intro": "Kucing Birman adalah ras anggun yang terkenal dengan mata biru safirnya yang memikat dan cakar berbulu putih seperti kaus kaki. Lembut dan tenang, Birman sangat menyukai hubungan dekat dengan pemiliknya. Bulu sutra mereka tidak memiliki lapisan bulu bawah yang tebal, sehingga jarang menggumpal dibanding ras bulu panjang lainnya. Namun penyisiran rutin, permainan lembut, dan pemeriksaan kardiomiopati (HCM) tetap penting. Dalam panduan ini, membagikan 3 langkah rutinitas perawatan.",
+        "whyTitle": "Insting Kucing Birman: Dengkur Manja dan Kibasan Ekor Stres",
+        "whyDesc": "Mereka menunjukkan kasih sayang dengan **'Dengkur Manja'** sambil menggesekkan pipi. Saat merasa kewalahan, mereka menunjukkan sinyal **'Kibasan Ekor'** ke lantai.",
+        "body_signals": [
+          {
+            "name": "Dengkur Manja & Gesek Pipi (Soft Purring & Nuzzling)",
+            "meaning": "Menggesekkan pipi ke pemilik sambil berdengkur, menandakan rasa percaya dan kasih sayang.",
+            "response": "Balas dengan belaian lembut di bawah dagu dan pujian."
+          },
+          {
+            "name": "Kibasan Ekor & Telinga Rebah (Tail Flicking & Flat Ears)",
+            "meaning": "Menepuk ekor ke lantai atau merebahkan telinga, menandakan stimulasi berlebihan.",
+            "response": "Hentikan belaian segera dan beri kucing ruang pribadi yang tenang."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pemeriksaan Cairan & Makanan Basah",
+            "text": "Isi ulang air bersih dan berikan makanan basah kaya cairan untuk kesehatan ginjal."
+          },
+          {
+            "name": "Siang: Menyisir Bulu Sutra & Cek Kaus Kaki Putih",
+            "text": "Sisir bulu halus secara perlahan dan periksa kebersihan bulu putih di kakinya."
+          },
+          {
+            "name": "Malam: Bermain Tongkat Bulu & Bersantai",
+            "text": "Ajak bermain mainan bulu dengan lembut untuk stimulasi emosional sebelum tidur."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah bulu kucing Birman mudah menggumpal?",
+            "answer": "Tidak. Karena Birman tidak memiliki lapisan bulu bawah yang tebal, bulunya jauh lebih jarang menggumpal dibanding kucing Persia. Menyisirnya 2–3 kali seminggu sudah cukup."
+          },
+          {
+            "question": "Penyakit apa yang perlu diwaspadai?",
+            "answer": "Ras ini memiliki kecenderungan kardiomiopati hipertrofik (HCM). Pemeriksaan USG jantung berkala dan asupan air yang cukup sangat disarankan."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/birman_care.webp"
+  }
 }

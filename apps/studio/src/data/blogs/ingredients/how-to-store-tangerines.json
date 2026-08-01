@@ -1,406 +1,406 @@
 {
-    "how-to-store-tangerines": {
-        "ingId": "tangerine",
-        "pubDate": "2026-03-19",
-        "updatedDate": "2026-03-19",
-        "heroImage": "/images/blog/tangerine_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "감귤 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 감귤의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
-                "intro": "겨울철 박스째 사두고 먹는 상큼달콤한 감귤, 아래쪽에 깔린 귤이 무르고 푸른곰팡이가 피어 몽땅 버려본 경험 있으시죠? 🍊\n\n감귤은 수분이 많고 껍질이 얇아 서로 눌리거나 습기가 차면 금방 부패하는 대표적인 과일입니다. 특히 귤 표면에 붙어있는 미세한 곰팡이 포자가 상온의 습기와 만나면 번식 속도가 비약적으로 빨라집니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들의 검증된 가이드라인을 바탕으로, 감귤이 무르거나 곰팡이 피지 않게 끝까지 아삭하고 달콤하게 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "곰팡이가 핀 귤은 즉시 버리고 주변 귤도 세척하세요 🍊",
-                        "desc": "귤 표면에 푸른곰팡이나 검은곰팡이가 생기면 포자가 주변 귤로 빠르게 퍼집니다. 곰팡이가 핀 귤은 즉시 버리고, 맞닿아 있던 주변 귤도 골라내어 깨끗이 씻어 건조 후 먼저 드셔야 합니다."
-                    },
-                    {
-                        "title": "귤을 여러 겹으로 높게 쌓아두지 마세요 📦",
-                        "desc": "귤을 박스째 겹겹이 쌓아두면 아래쪽 귤이 무게에 눌려 껍질이 터지고 육즙이 흘러나옵니다. 이 습기가 상자 전체로 퍼져 곰팡이 번식의 결정적인 원인이 됩니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "소금물 세척 후 물기 완벽히 말리기 — 곰팡이 포자 제거 & 건조 💧",
-                        "text": "귤 표면에 묻어있는 곰팡이 포자와 이물질을 세척하면 보관 기간이 비약적으로 늘어납니다. 💡 보관 팁: 옅은 소금물(또는 베이킹소다물)에 귤을 1~2분간 씻은 뒤, 물기를 키친타월이나 마른 천으로 완벽히 닦아내고 완전히 말려주세요."
-                    },
-                    {
-                        "name": "신문지나 키친타월로 층층이 격리하여 쌓기 — 무름 방지 & 습기 조절 📰",
-                        "text": "귤끼리 서로 직접 닿지 않도록 공간을 두고 통풍이 잘 되게 해주는 것이 핵심입니다. 💡 보관 팁: 보관 용기나 박스 바닥에 신문지나 키친타월을 깔고, 귤을 서로 닿지 않게 배치한 뒤 그 위에 다시 신문지를 덮는 방식으로 층층이 쌓아주세요."
-                    },
-                    {
-                        "name": "서늘하고 통풍이 잘되는 상온(3~7℃)에 보관하기 — 상온/냉장 보관 (2~3주) ❄️",
-                        "text": "온도가 너무 높으면 귤의 호흡 작용이 활발해져 신맛이 빠지고 무르기 쉬우며, 너무 낮으면 냉해를 입습니다. 💡 보관 팁: 베란다 등 직사광선이 들지 않는 서늘하고 통풍이 잘되는 곳(3~7℃)에 보관하세요. 집안이 따뜻하다면 냉장고 야채칸에 보관하되, 드시기 30분 전에 상온에 꺼내두면 단맛이 살아납니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "귤에 곰팡이가 피었을 때 그 부분만 떼어내고 먹어도 되나요?",
-                        "answer": "절대 안 됩니다. 감귤류는 무르고 수분이 많아 표면에 곰팡이가 조금만 보여도 포자와 균사가 과육 깊숙이 이미 침투해 있습니다. 곰팡이가 핀 귤은 통째로 폐기해야 합니다."
-                    },
-                    {
-                        "question": "귤은 냉장고에 보관하는 것이 좋은가요, 상온에 보관하는 것이 좋은가요?",
-                        "answer": "겨울철 통풍이 잘되는 서늘한 베란다(3~7℃)가 있다면 상온 보관이 단맛을 유지하는 데 가장 좋습니다. 다만 실내 온도가 높거나 장기 보관을 원할 경우 신문지로 감싸 냉장고 야채칸에 보관하는 것이 안전합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Tangerines Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for tangerines based on official safety guidelines.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Have you ever bought a whole box of sweet tangerines only to find the bottom layers crushed, mushy, and covered in green mold? 🍊\n\nTangerines have high moisture content and thin peels, making them prone to crushing, humidity trapped between fruits, and rapid decay. In particular, microscopic mold spores on the peel proliferate explosively when exposed to moisture and ambient warmth.\n\nIn this guide, introduces a scientifically proven 3-step tangerine storage guide recommended by agriculture and food safety experts to keep your citrus sweet, firm, and mold-free. 🛡️",
-                "whyTitle": "Why Store Tangerines This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Discard moldy tangerines immediately and wash surrounding ones 🍊",
-                        "desc": "When blue or green mold forms on a tangerine's surface, spores rapidly spread to neighboring fruits. Discard moldy tangerines immediately, separate adjacent fruit, wash them thoroughly, dry them completely, and consume them first."
-                    },
-                    {
-                        "title": "Do not stack tangerines too deep in multiple layers 📦",
-                        "desc": "Stacking tangerines in deep boxes crushes the bottom fruits under weight, causing them to burst and leak juice. Trapped moisture spreads throughout the box, serving as the primary trigger for mold proliferation."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Wash in diluted saltwater and dry thoroughly — Mold Spore Removal & Drying 💧",
-                        "text": "Washing away microscopic mold spores and impurities from the peel dramatically extends shelf life. 💡 Storage Tip: Soak tangerines in mild saltwater (or baking soda water) for 1–2 minutes, then dry each fruit completely with paper towels or a dry cloth."
-                    },
-                    {
-                        "name": "Layer with newspaper or paper towels — Moisture Control & Cushioning 📰",
-                        "text": "Preventing fruits from touching directly while ensuring adequate ventilation is essential. 💡 Storage Tip: Line the bottom of a storage box with newspaper or paper towels, place tangerines in a single layer without touching, cover with another sheet of newspaper, and repeat."
-                    },
-                    {
-                        "name": "Store in a cool, ventilated area at 3–7°C — Cool Storage (2–3 Weeks) ❄️",
-                        "text": "Excessive room warmth increases respiration, causing acidity and flavor loss, while freezing temperatures induce chilling injury. 💡 Storage Tip: Store in a shaded, well-ventilated balcony or pantry (3–7°C). If indoor temperatures are high, store in the refrigerator crisper drawer wrapped in paper."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Can I just cut off the moldy part of a tangerine and eat the rest?",
-                        "answer": "Absolutely not. Citrus fruits are soft and watery, meaning mold hyphae and spores penetrate deep into the pulp long before mold becomes visible on the outside. Always discard moldy tangerines entirely."
-                    },
-                    {
-                        "question": "Is it better to store tangerines in the refrigerator or at room temperature?",
-                        "answer": "In winter, storing tangerines in a cool, well-ventilated balcony (3–7°C) is ideal for preserving sweet flavor. However, if indoor heat is high or long-term storage is needed, wrapping them in newspaper and placing them in the refrigerator crisper drawer is safest."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "みかん（柑橘）を新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくみかんの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "箱買いした甘くて美味しいみかん、底の方にあったみかんが潰れて青カビが生えてしまい、まとめて捨ててしまった経験はありませんか？🍊\n\nみかんは水分が多く皮が薄いため、重みで潰れたり湿気がこもると急速に傷みやすい繊細な果物です。特に皮の表面についた微小なカビの胞子は、湿気と温度によって爆発的に繁殖します。\n\n本記事では、専門家が推奨してみかんを潰さずカビを生やさずに最後まで甘く美味しく保つ3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "カビが生えたみかんはすぐに捨て、周囲のみかんも洗ってください 🍊",
-                        "desc": "表面に青カビや黒カビが発生すると、胞子が周囲のみかんに急速に広がります。カビたみかんはすぐに破棄し、接触していた周囲の果実も選別してきれいに洗い、しっかり乾かしてから先にお召し上がりください。"
-                    },
-                    {
-                        "title": "みかんを何層にも高く積み重ねないでください 📦",
-                        "desc": "箱の中にみかんを何層も重ねて放置すると、底のみかんが重みで潰れて皮が破れ、果汁が漏れ出します。この湿気が箱全体に広がり、カビが大量発生する直接の原因となります。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "薄い塩水で洗って完全に乾かす — カビ胞子の除去＆乾燥 💧",
-                        "text": "皮の表面についているカビの胞子や汚れを洗い流すことで、保存期間が飛躍的に伸びます。💡保存のコツ：薄い塩水（または重曹水）に1〜2分浸して洗い、キッチンペーパーや乾いた布で水分を完全に拭き取ってしっかり乾燥させます。"
-                    },
-                    {
-                        "name": "新聞紙やキッチンペーパーで層ごとに隔離して重ねる — 潰れ防止＆湿度調整 📰",
-                        "text": "みかん同士が直接触れ合わないよう空間を作り、通気性を確保することが何より重要です。💡保存のコツ：箱の底に新聞紙を敷き、みかん同士が触れないよう並べたら、上から新聞紙をかぶせ、さらに重ねていくように保存します。"
-                    },
-                    {
-                        "name": "風通しの良い涼しい場所（3〜7℃）で保存する — 常温・冷蔵保存 (2〜3週間) ❄️",
-                        "text": "室温が高すぎると呼吸作用で酸味が抜けて傷みやすくなり、低すぎると低温障害を起こします。💡保存のコツ：直射日光の当たらない涼しいベランダ等（3〜7℃）で保存します。室内が暖かい場合は、新聞紙に包んで冷蔵庫の野菜室で保存するのが安全です。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "みかんにカビが生えた場合、その部分だけ取り除けば食べられますか？",
-                        "answer": "絶対にやめてください。柑橘類は柔らかく水分が多いため、表面に少しでもカビが見える場合、すでに菌糸や胞子が果肉の奥深くまで侵入しています。カビの生えたみかんは丸ごと廃棄してください。"
-                    },
-                    {
-                        "question": "みかんは冷蔵庫と常温のどちらで保存するのが良いですか？",
-                        "answer": "冬場であれば、風通しの良い涼しいベランダ（3〜7℃）での常温保存が甘みを維持するのに最適です。ただし、室温が高い場合や長期保存したい場合は、新聞紙で包んで冷蔵庫の野菜室に入れるのが最も安全です。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持柑橘新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解柑橘的最佳储存温度、方式和保鲜时长。",
-                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "您是否曾买回一整箱酸甜可口的柑橘，却发现压在底部的橘子变软压破并长满青霉，不得不全部扔掉？🍊\n\n柑橘含水量高且果皮较薄，互相挤压或受潮极易腐烂。特别是果皮表面附着的微量霉菌孢子，在常温和湿气刺激下会呈爆发式繁殖。\n\n本指南基于权威专家指南，为您带来3步科学保存秘诀，帮您防止柑橘变软发霉，长久保持鲜甜口感。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "长霉的柑橘请立即丢弃并清洗周围果实 🍊",
-                        "desc": "柑橘表面一旦出现青霉或黑霉，孢子会迅速扩散至周边果实。请立即扔掉长霉的橘子，并将挨着的邻近橘子挑选出来彻底清洗、擦干后优先食用。"
-                    },
-                    {
-                        "title": "切勿将柑橘多层高高堆叠 📦",
-                        "desc": "整箱多层堆叠柑橘会导致底部果实因承受重压而破皮漏汁。这种湿气会在整箱内蔓延，成为霉菌大量滋生的决定性因素。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "淡盐水清洗后彻底晾干 — 清除霉菌孢子与干燥 💧",
-                        "text": "洗去果皮表面附着的霉菌孢子与杂质可极大延长保存期。💡储存小贴士：将柑橘浸泡在淡盐水（或小苏打水）中清洗1~2分钟，随后用厨房纸巾擦干并彻底晾干水分。"
-                    },
-                    {
-                        "name": "用报纸或厨房纸巾隔层堆叠 — 防压防软与湿度调节 📰",
-                        "text": "关键在于避免柑橘直接接触并保持良好通风。💡储存小贴士：在箱底铺上报纸或厨房纸巾，平铺摆放柑橘使其互不接触，再盖上一层报纸，以此类推分层堆叠。"
-                    },
-                    {
-                        "name": "置于阴凉通风的常温环境(3~7℃) — 阴凉/冷藏保存 (2~3周) ❄️",
-                        "text": "温度过高会加速柑橘呼吸作用导致酸甜度流失并变软，温度过低则易受冻害。💡储存小贴士：请置于阳台等无阳光直射且通风良好（3~7℃）处。若室内较热，可用报纸包裹后放入冰箱保鲜抽屉。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "柑橘发霉后把发霉部分剥掉还可以食用吗？",
-                        "answer": "绝对不可以。柑橘类水果质地软且水分多，即使表面仅有一点点霉斑，霉菌菌丝和孢子也早已深入果肉内部。发霉的柑橘必须整颗丢弃。"
-                    },
-                    {
-                        "question": "柑橘保存在冰箱好还是常温好？",
-                        "answer": "在冬季，若有通风良好的阴凉阳台（3~7℃），常温保存最有助于维持甜度。但如果室内温度较高或需要长期保存，用报纸包裹后放入冰箱蔬菜保鲜抽屉保存最为安全。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener las mandarinas frescas: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para las mandarinas según las directrices oficiales de seguridad.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "¿Alguna vez compró una caja entera de mandarinas dulces, solo para descubrir que las capas inferiores se aplastaban, ablandaban y cubrían de moho verde? 🍊\n\nLas mandarinas tienen un alto contenido de agua y pieles delgadas, lo que las hace propensas al aplastamiento, atrapamiento de humedad e inminente descomposición. Las esporas microscópicas de moho en la piel proliferan rápidamente con la humedad ambiental.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por expertos para mantener sus mandarinas firmes, dulces y libres de moho por semanas. 🛡️",
-                "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Deseche de inmediato las mandarinas con moho y lave las cercanas 🍊",
-                        "desc": "Cuando aparece moho verde o azul en la piel, las esporas se propagan rápidamente a los frutos vecinos. Deseche la fruta con moho, sepárela de las adyacentes, lávelas bien, séquelas por completo y consúmalas primero."
-                    },
-                    {
-                        "title": "No apile las mandarinas en muchas capas altas 📦",
-                        "desc": "Apilar mandarinas en cajas profundas aplasta los frutos del fondo, haciendo que se rompan y liberen jugo. Esta humedad atrapada se extiende por toda la caja y desencadena moho."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Lave con agua salada diluida y seque por completo — Eliminar esporas y secar 💧",
-                        "text": "Lavar las esporas microscópicas de la piel prolonga notablemente su vida útil. 💡 Consejo de almacenamiento: Remoje las mandarinas en agua con sal o bicarbonato durante 1-2 minutos, luego séquelas individualmente con papel absorbente."
-                    },
-                    {
-                        "name": "Separe por capas con papel periódico o absorbente — Control de humedad y protección 📰",
-                        "text": "Es esencial evitar que los frutos se toquen entre sí y asegurar ventilación. 💡 Consejo de almacenamiento: Cubra el fondo de la caja con papel periódico, coloque una capa de mandarinas sin tocarse, vuelva a cubrir con papel y repita."
-                    },
-                    {
-                        "name": "Conserve en un lugar fresco y ventilado a 3–7 °C — Conservación fresca (2 a 3 semanas) ❄️",
-                        "text": "El calor excesivo aumenta la respiración y destruye el sabor, mientras que el frío congelante causa daños por helada. 💡 Consejo de almacenamiento: Guarde en un balcón o despensa a la sombra (3–7 °C). Si su casa es cálida, envuélvalas en papel y guárdelas en el cajón del refrigerador."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Puedo retirar la parte mohosa de una mandarina y comer el resto?",
-                        "answer": "Absolutamente no. Los cítricos son blandos y muy jugosos, lo que permite que las hifas del moho penetren profundamente en la pulpa mucho antes de que el moho sea visible por fuera. Deseche siempre la fruta mohosa por completo."
-                    },
-                    {
-                        "question": "¿Es mejor guardar las mandarinas en el refrigerador o a temperatura ambiente?",
-                        "answer": "En invierno, un balcón fresco y ventilado (3–7 °C) es óptimo para mantener su dulzura. Sin embargo, si la temperatura interior es alta o busca almacenamiento prolongado, envuélvalas en papel periódico y guárdelas en el cajón de verduras del refrigerador."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver les mandarines fraîches : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les mandarines selon les directives officielles de sécurité.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Avez-vous déjà acheté une cagette de mandarines douces, pour découvrir que les fruits du fond étaient écrasés, ramollis et couverte de moisissure verte ? 🍊\n\nLa mandarine est un fruit riche en eau et à la peau fine, très vulnérable à la pression et à l'humidité. Les esporillons microscopiques de moisissure présents sur la peau se multiplient à une vitesse fulgurante en présence d'humidité.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts pour maintenir vos mandarines fermes, sucrées et sans moisissure. 🛡️",
-                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Jetez immédiatement les mandarines moisies et lavez les fruits voisins 🍊",
-                        "desc": "Dès qu'une moisissure verte ou bleue apparaît, les spores contaminent très rapidement les autres mandarines. Écartez le fruit moisi, lavez soigneusement les fruits en contact, séchez-les et consommez-les en priorité."
-                    },
-                    {
-                        "title": "Ne superposez pas les mandarines sur trop de couches 📦",
-                        "desc": "Empiler trop de mandarines écrase les fruits du dessous sous leur propre poids, ce qui fait éclater la peau. Le jus libéré crée une humidité propice à l'apparition massive de moisissures."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Laver à l'eau salée puis sécher parfaitement — Élimination des spores & Séchage 💧",
-                        "text": "Rincer les spores de moisissures de la peau prolonge considérablement la durée de vie du fruit. 💡 Astuce de conservation : Faites tremper les mandarines 1 à 2 minutes dans de l'eau légèrement salée, puis séchez-les entièrement avec du papier absorbant."
-                    },
-                    {
-                        "name": "Isoler en couches avec du papier journal ou absorbant — Protection & Contrôle de l'humidité 📰",
-                        "text": "L'objectif est d'éviter tout contact direct entre les fruits tout en assurant une bonne aération. 💡 Astuce de conservation : Tapissez le fond d'une caisse de papier journal, déposez les mandarines sans qu'elles se touchent, recouvrez de papier et répétez l'opération."
-                    },
-                    {
-                        "name": "Conserver dans un endroit frais et aéré (3 à 7 °C) — Stockage frais (2 à 3 semaines) ❄️",
-                        "text": "Une chaleur ambiante accélère la perte de saveur tandis que le gel cause des dégâts dus au froid. 💡 Astuce de conservation : Stockez les mandarines sur un balcon abrité ou dans un cellier frais (3 à 7 °C). Si l'intérieur est chauffé, enveloppez-les et placez-les au bac à légumes du réfrigérateur."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Peut-on enlever la partie moisie d'une mandarine et manger le reste ?",
-                        "answer": "Absolument pas. Les agrumes étant très juteux et tendres, les filaments de moisissure s'étendent rapidement au cœur de la pulpe bien avant d'être visibles sur la peau. Toute mandarine touchée par la moisissure doit être jetée."
-                    },
-                    {
-                        "question": "Est-il préférable de conserver les mandarines au réfrigérateur ou à température ambiante ?",
-                        "answer": "En hiver, un balcon frais et bien aéré (3 à 7 °C) est idéal pour préserver le goût sucré. Si la température intérieure est élevée ou si vous souhaitez les garder plus longtemps, il est plus sûr de les envelopper dans du papier journal et de les placer au réfrigérateur."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Mandarinen richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Mandarinen basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Haben Sie schon einmal eine ganze Kiste süßer Mandarinen gekauft, nur um festzustellen, dass die unteren Früchte zerdrückt, matschig und voller grünem Schimmel waren? 🍊\n\nMandarinen haben einen hohen Wassergehalt und eine dünne Schale, wodurch sie extrem anfällig für Druckstellen und Feuchtigkeitsstau sind. Die mikroskopischen Schimmelsporen auf der Schale vermehren sich bei Raumtemperatur und Feuchtigkeit rasend schnell.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um Ihre Mandarinen fest, süß und schimmelfrei zu halten. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Schimmelige Mandarinen sofort entsorgen und umliegende Früchte waschen 🍊",
-                        "desc": "Sobald sich grüner Schimmel bildet, verteilen sich die Sporen blitzschnell auf benachbarte Früchte. Entsorgen Sie befallene Mandarinen sofort, waschen Sie die umliegenden Früchte gründlich, trocknen Sie sie ab und verbrauchen Sie sie zuerst."
-                    },
-                    {
-                        "title": "Mandarinen nicht zu hoch stapeln 📦",
-                        "desc": "Das Stapeln in tiefen Kisten zerquetscht die unteren Früchte. Der austretende Saft erzeugt eine feuchte Umgebung in der Kiste, die Hauptursache für Schimmelbefall."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "In Salzwasser waschen und vollständig trocknen — Schimmelsporen entfernen 💧",
-                        "text": "Das Abwaschen der Sporen verlängert die Haltbarkeit beträchtlich. 💡 Lagerungstipp: Mandarinen 1–2 Minuten in leichtem Salzwasser (oder Natronwasser) baden, danach mit Küchenpapier einzeln gründlich abtrocknen."
-                    },
-                    {
-                        "name": "Mit Zeitungspapier schichtweise trennen — Feuchtigkeitskontrolle & Druckschutz 📰",
-                        "text": "Wichtig ist, dass sich die Früchte nicht berühren und gut belüftet bleiben. 💡 Lagerungstipp: Den Kistenboden mit Zeitungspapier auslegen, Mandarinen mit Abstand nebeneinanderlegen, mit Zeitungspapier abdecken und die nächste Schicht auflegen."
-                    },
-                    {
-                        "name": "Kühl und gut belüftet bei 3–7 °C lagern — Kühle Lagerung (2–3 Wochen) ❄️",
-                        "text": "Zu warme Raumluft lässt die Frucht schnell alt und sauer werden, Frost führt zu Kälteschäden. 💡 Lagerungstipp: An einem schattigen, kühlen Ort (z. B. Balkon/Vorratsraum bei 3–7 °C) aufbewahren. Bei warmer Wohnung in Zeitung gewickelt ins Gemüsefach des Kühlschranks legen."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Kann man die schimmelige Stelle einer Mandarine abschneiden und den Rest essen?",
-                        "answer": "Auf keinen Fall. Zitrusfrüchte sind weich und saftreich, weshalb Schimmelpilzfäden das Fruchtfleisch längst durchzogen haben, bevor der Schimmel außen sichtbar wird. Entsorgen Sie schimmelige Mandarinen immer komplett."
-                    },
-                    {
-                        "question": "Sollte man Mandarinen im Kühlschrank oder bei Raumtemperatur lagern?",
-                        "answer": "Im Winter ist ein kühler, gut belüfteter Ort (3–7 °C) ideal, um das süße Aroma zu bewahren. Ist die Wohnung warm oder eine längere Lagerung gewünscht, empfiehlt sich das Einwickeln in Zeitungspapier und die Lagerung im Gemüsefach des Kühlschranks."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar mandarinas e tangerinas frescas: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para mandarinas com base em diretrizes oficiais de segurança.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Você já comprou uma caixa cheia de tangerinas doces e descobriu que as frutas do fundo ficaram amassadas, moles e cobertas de mofo verde? 🍊\n\nAs mandarinas possuem alto teor de água e casca fina, sendo propensas ao esmagamento, acúmulo de umidade e apodrecimento rápido. Esporos microscópicos de fungos presentes na casca se multiplicam velozmente sob umidade e calor.\n\nNeste guia, apresentamos um guia em 3 etapas baseado em diretrizes de especialistas para manter suas tangerinas firmes, doces e livres de mofo. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Descarte tangerinas mofadas imediatamente e lave as frutas vizinhas 🍊",
-                        "desc": "Quando surge mofo verde ou azul na casca, os esporos se espalham rapidamente para as frutas ao redor. Jogue fora as frutas mofadas, separe as que estavam em contato, lave-as bem, seque totalmente e consuma-as primeiro."
-                    },
-                    {
-                        "title": "Não empilhe as tangerinas em muitas camadas 📦",
-                        "desc": "Empilhar muitas frutas em caixas fundas esmaga as tangerinas do fundo. O suco vazado cria um ambiente úmido na caixa, sendo a causa principal do surgimento de mofo."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Lave em água salgada e seque completamente — Remoção de esporos & Secagem 💧",
-                        "text": "Lavar os esporos de mofo da casca aumenta significativamente o tempo de conservação. 💡 Dica de conservação: Deixe as tangerinas de molho em água com um pouco de sal ou bicarbonato por 1 a 2 minutos e seque cada uma com papel-toalha."
-                    },
-                    {
-                        "name": "Separe em camadas com jornal ou papel-toalha — Controle de umidade & Proteção 📰",
-                        "text": "Evitar o contato direto entre as frutas e garantir ventilação é fundamental. 💡 Dica de conservação: Forre o fundo da caixa com jornal, organize as tangerinas sem que se encostem, cubra com mais jornal e repita a camada."
-                    },
-                    {
-                        "name": "Guarde em local fresco e ventilado de 3 a 7 °C — Conservação fresca (2 a 3 semanas) ❄️",
-                        "text": "O calor acelera a perda de acidez e sabor, enquanto o frio excessivo causa danos por congelamento. 💡 Dica de conservação: Guarde em uma varanda ou despensa arejada (3 a 7 °C). Se o ambiente for quente, envolva em jornal e coloque na gaveta de legumes da geladeira."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Posso retirar a parte com mofo e comer o restante da tangerina?",
-                        "answer": "Jamais faça isso. Os cítricos são macios e muito suculentos, o que significa que os fungos se espalham por toda a polpa muito antes de se tornarem visíveis por fora. Descarte a fruta mofada por inteiro."
-                    },
-                    {
-                        "question": "É melhor guardar as tangerinas na geladeira ou em temperatura ambiente?",
-                        "answer": "No inverno, uma varanda fresca e bem ventilada (3 a 7 °C) é ideal para manter o sabor adocicado. Porém, se a casa for quente ou para armazenar por mais tempo, o mais seguro é embrulhá-las em jornal e guardar na gaveta de legumes da geladeira."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Jeruk Mandarin agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk jeruk mandarin berdasarkan pedoman keselamatan resmi.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Pernahkah Anda membeli satu kotak jeruk mandarin yang manis, lalu mendapati bagian bawahnya hancur, lembek, dan tertutup jamur hijau? 🍊\n\nJeruk mandarin memiliki kadar air yang tinggi dan kulit yang tipis, membuatnya mudah tertekan, terjebak kelembapan, dan cepat membusuk. Spora jamur mikroskopis pada kulitnya akan berkembang biak dengan cepat jika terkena kelembapan udara.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli untuk menjaga jeruk mandarin Anda tetap manis, padat, dan bebas jamur. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Segera buang jeruk yang berjamur dan cuci jeruk di sekitarnya 🍊",
-                        "desc": "Ketika jamur hijau atau biru muncul pada kulit jeruk, sporanya akan dengan cepat menyebar ke buah lain di sekitarnya. Buang jeruk yang berjamur, pisahkan jeruk yang bersentuhan dengannya, cuci bersih, keringkan, dan konsumsi terlebih dahulu."
-                    },
-                    {
-                        "title": "Jangan menumpuk jeruk terlalu tinggi 📦",
-                        "desc": "Menumpuk jeruk dalam wadah yang dalam akan menekan buah di lapisan bawah hingga pecah dan mengeluarkan cairan. Kelembapan ini akan menyebar ke seluruh wadah dan memicu pertumbuhan jamur masif."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Cuci dengan air garam encer lalu keringkan hingga tuntas — Hilangkan Spora Jamur & Pengeringan 💧",
-                        "text": "Mencuci spora jamur dan kotoran dari kulit jeruk dapat memperpanjang masa simpannya secara signifikan. 💡 Tips Penyimpanan: Rendam jeruk dalam air garam ringan (atau air baking soda) selama 1–2 menit, lalu keringkan setiap buah dengan tisu dapur."
-                    },
-                    {
-                        "name": "Tata berlapis dengan koran atau tisu dapur — Kontrol Kelembapan & Perlindungan 📰",
-                        "text": "Kunci utamanya adalah mencegah buah saling bersentuhan secara langsung dan menjaga sirkulasi udara. 💡 Tips Penyimpanan: Alasi dasar wadah dengan kertas koran, tata jeruk agar tidak saling bersentuhan, tutup dengan koran lagi, lalu ulangi untuk lapisan berikutnya."
-                    },
-                    {
-                        "name": "Simpan di tempat sejuk dan berangin pada suhu 3–7°C — Penyimpanan Sejuk (2–3 Minggu) ❄️",
-                        "text": "Suhu ruangan yang terlalu hangat membuat rasa manisnya cepat hilang, sedangkan suhu terlalu dingin menyebabkan kerusakan akibat pembekuan. 💡 Tips Penyimpanan: Simpan di area yang teduh dan berangin (3–7°C). Jika suhu dalam rumah hangat, bungkus dengan kertas koran lalu simpan di laci sayur kulkas."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Bolehkah saya membuang bagian yang berjamur saja lalu memakan sisa jeruknya?",
-                        "answer": "Sangat tidak boleh. Buah sitrus bertekstur lunak dan kaya air, yang berarti jaringan jamur dan sporanya telah menyebar jauh ke dalam daging buah sebelum terlihat dari luar. Selalu buang jeruk yang berjamur secara utuh."
-                    },
-                    {
-                        "question": "Apakah lebih baik menyimpan jeruk mandarin di dalam kulkas atau pada suhu ruang?",
-                        "answer": "Saat cuaca dingin, menyimpan jeruk di area yang sejuk dan berangin (3–7°C) adalah cara terbaik untuk mempertahankan rasa manisnya. Namun jika suhu ruangan hangat atau untuk penyimpanan jangka panjang, membungkusnya dengan koran dan menyimpannya di laci sayur kulkas adalah cara paling aman."
-                    }
-                ]
-            }
-        }
+  "how-to-store-tangerines": {
+    "ingId": "tangerine",
+    "pubDate": "2026-03-19",
+    "updatedDate": "2026-03-19",
+    "heroImage": "/images/blog/tangerine_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "감귤 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 감귤의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+        "intro": "겨울철 박스째 사두고 먹는 상큼달콤한 감귤, 아래쪽에 깔린 귤이 무르고 푸른곰팡이가 피어 몽땅 버려본 경험 있으시죠? 🍊\n\n감귤은 수분이 많고 껍질이 얇아 서로 눌리거나 습기가 차면 금방 부패하는 대표적인 과일입니다. 특히 귤 표면에 붙어있는 미세한 곰팡이 포자가 상온의 습기와 만나면 번식 속도가 비약적으로 빨라집니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들의 검증된 가이드라인을 바탕으로, 감귤이 무르거나 곰팡이 피지 않게 끝까지 아삭하고 달콤하게 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "곰팡이가 핀 귤은 즉시 버리고 주변 귤도 세척하세요 🍊",
+            "desc": "귤 표면에 푸른곰팡이나 검은곰팡이가 생기면 포자가 주변 귤로 빠르게 퍼집니다. 곰팡이가 핀 귤은 즉시 버리고, 맞닿아 있던 주변 귤도 골라내어 깨끗이 씻어 건조 후 먼저 드셔야 합니다."
+          },
+          {
+            "title": "귤을 여러 겹으로 높게 쌓아두지 마세요 📦",
+            "desc": "귤을 박스째 겹겹이 쌓아두면 아래쪽 귤이 무게에 눌려 껍질이 터지고 육즙이 흘러나옵니다. 이 습기가 상자 전체로 퍼져 곰팡이 번식의 결정적인 원인이 됩니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "소금물 세척 후 물기 완벽히 말리기 — 곰팡이 포자 제거 & 건조 💧",
+            "text": "귤 표면에 묻어있는 곰팡이 포자와 이물질을 세척하면 보관 기간이 비약적으로 늘어납니다. 💡 보관 팁: 옅은 소금물(또는 베이킹소다물)에 귤을 1~2분간 씻은 뒤, 물기를 키친타월이나 마른 천으로 완벽히 닦아내고 완전히 말려주세요."
+          },
+          {
+            "name": "신문지나 키친타월로 층층이 격리하여 쌓기 — 무름 방지 & 습기 조절 📰",
+            "text": "귤끼리 서로 직접 닿지 않도록 공간을 두고 통풍이 잘 되게 해주는 것이 핵심입니다. 💡 보관 팁: 보관 용기나 박스 바닥에 신문지나 키친타월을 깔고, 귤을 서로 닿지 않게 배치한 뒤 그 위에 다시 신문지를 덮는 방식으로 층층이 쌓아주세요."
+          },
+          {
+            "name": "서늘하고 통풍이 잘되는 상온(3~7℃)에 보관하기 — 상온/냉장 보관 (2~3주) ❄️",
+            "text": "온도가 너무 높으면 귤의 호흡 작용이 활발해져 신맛이 빠지고 무르기 쉬우며, 너무 낮으면 냉해를 입습니다. 💡 보관 팁: 베란다 등 직사광선이 들지 않는 서늘하고 통풍이 잘되는 곳(3~7℃)에 보관하세요. 집안이 따뜻하다면 냉장고 야채칸에 보관하되, 드시기 30분 전에 상온에 꺼내두면 단맛이 살아납니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "귤에 곰팡이가 피었을 때 그 부분만 떼어내고 먹어도 되나요?",
+            "answer": "절대 안 됩니다. 감귤류는 무르고 수분이 많아 표면에 곰팡이가 조금만 보여도 포자와 균사가 과육 깊숙이 이미 침투해 있습니다. 곰팡이가 핀 귤은 통째로 폐기해야 합니다."
+          },
+          {
+            "question": "귤은 냉장고에 보관하는 것이 좋은가요, 상온에 보관하는 것이 좋은가요?",
+            "answer": "겨울철 통풍이 잘되는 서늘한 베란다(3~7℃)가 있다면 상온 보관이 단맛을 유지하는 데 가장 좋습니다. 다만 실내 온도가 높거나 장기 보관을 원할 경우 신문지로 감싸 냉장고 야채칸에 보관하는 것이 안전합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Tangerines Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for tangerines based on official safety guidelines.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Have you ever bought a whole box of sweet tangerines only to find the bottom layers crushed, mushy, and covered in green mold? 🍊\n\nTangerines have high moisture content and thin peels, making them prone to crushing, humidity trapped between fruits, and rapid decay. In particular, microscopic mold spores on the peel proliferate explosively when exposed to moisture and ambient warmth.\n\nIn this guide, introduces a scientifically proven 3-step tangerine storage guide recommended by agriculture and food safety experts to keep your citrus sweet, firm, and mold-free. 🛡️",
+        "whyTitle": "Why Store Tangerines This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Discard moldy tangerines immediately and wash surrounding ones 🍊",
+            "desc": "When blue or green mold forms on a tangerine's surface, spores rapidly spread to neighboring fruits. Discard moldy tangerines immediately, separate adjacent fruit, wash them thoroughly, dry them completely, and consume them first."
+          },
+          {
+            "title": "Do not stack tangerines too deep in multiple layers 📦",
+            "desc": "Stacking tangerines in deep boxes crushes the bottom fruits under weight, causing them to burst and leak juice. Trapped moisture spreads throughout the box, serving as the primary trigger for mold proliferation."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Wash in diluted saltwater and dry thoroughly — Mold Spore Removal & Drying 💧",
+            "text": "Washing away microscopic mold spores and impurities from the peel dramatically extends shelf life. 💡 Storage Tip: Soak tangerines in mild saltwater (or baking soda water) for 1–2 minutes, then dry each fruit completely with paper towels or a dry cloth."
+          },
+          {
+            "name": "Layer with newspaper or paper towels — Moisture Control & Cushioning 📰",
+            "text": "Preventing fruits from touching directly while ensuring adequate ventilation is essential. 💡 Storage Tip: Line the bottom of a storage box with newspaper or paper towels, place tangerines in a single layer without touching, cover with another sheet of newspaper, and repeat."
+          },
+          {
+            "name": "Store in a cool, ventilated area at 3–7°C — Cool Storage (2–3 Weeks) ❄️",
+            "text": "Excessive room warmth increases respiration, causing acidity and flavor loss, while freezing temperatures induce chilling injury. 💡 Storage Tip: Store in a shaded, well-ventilated balcony or pantry (3–7°C). If indoor temperatures are high, store in the refrigerator crisper drawer wrapped in paper."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Can I just cut off the moldy part of a tangerine and eat the rest?",
+            "answer": "Absolutely not. Citrus fruits are soft and watery, meaning mold hyphae and spores penetrate deep into the pulp long before mold becomes visible on the outside. Always discard moldy tangerines entirely."
+          },
+          {
+            "question": "Is it better to store tangerines in the refrigerator or at room temperature?",
+            "answer": "In winter, storing tangerines in a cool, well-ventilated balcony (3–7°C) is ideal for preserving sweet flavor. However, if indoor heat is high or long-term storage is needed, wrapping them in newspaper and placing them in the refrigerator crisper drawer is safest."
+          }
+        ]
+      },
+      "ja": {
+        "title": "みかん（柑橘）を新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくみかんの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "箱買いした甘くて美味しいみかん、底の方にあったみかんが潰れて青カビが生えてしまい、まとめて捨ててしまった経験はありませんか？🍊\n\nみかんは水分が多く皮が薄いため、重みで潰れたり湿気がこもると急速に傷みやすい繊細な果物です。特に皮の表面についた微小なカビの胞子は、湿気と温度によって爆発的に繁殖します。\n\n本記事では、専門家が推奨してみかんを潰さずカビを生やさずに最後まで甘く美味しく保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "カビが生えたみかんはすぐに捨て、周囲のみかんも洗ってください 🍊",
+            "desc": "表面に青カビや黒カビが発生すると、胞子が周囲のみかんに急速に広がります。カビたみかんはすぐに破棄し、接触していた周囲の果実も選別してきれいに洗い、しっかり乾かしてから先にお召し上がりください。"
+          },
+          {
+            "title": "みかんを何層にも高く積み重ねないでください 📦",
+            "desc": "箱の中にみかんを何層も重ねて放置すると、底のみかんが重みで潰れて皮が破れ、果汁が漏れ出します。この湿気が箱全体に広がり、カビが大量発生する直接の原因となります。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "薄い塩水で洗って完全に乾かす — カビ胞子の除去＆乾燥 💧",
+            "text": "皮の表面についているカビの胞子や汚れを洗い流すことで、保存期間が飛躍的に伸びます。💡保存のコツ：薄い塩水（または重曹水）に1〜2分浸して洗い、キッチンペーパーや乾いた布で水分を完全に拭き取ってしっかり乾燥させます。"
+          },
+          {
+            "name": "新聞紙やキッチンペーパーで層ごとに隔離して重ねる — 潰れ防止＆湿度調整 📰",
+            "text": "みかん同士が直接触れ合わないよう空間を作り、通気性を確保することが何より重要です。💡保存のコツ：箱の底に新聞紙を敷き、みかん同士が触れないよう並べたら、上から新聞紙をかぶせ、さらに重ねていくように保存します。"
+          },
+          {
+            "name": "風通しの良い涼しい場所（3〜7℃）で保存する — 常温・冷蔵保存 (2〜3週間) ❄️",
+            "text": "室温が高すぎると呼吸作用で酸味が抜けて傷みやすくなり、低すぎると低温障害を起こします。💡保存のコツ：直射日光の当たらない涼しいベランダ等（3〜7℃）で保存します。室内が暖かい場合は、新聞紙に包んで冷蔵庫の野菜室で保存するのが安全です。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "みかんにカビが生えた場合、その部分だけ取り除けば食べられますか？",
+            "answer": "絶対にやめてください。柑橘類は柔らかく水分が多いため、表面に少しでもカビが見える場合、すでに菌糸や胞子が果肉の奥深くまで侵入しています。カビの生えたみかんは丸ごと廃棄してください。"
+          },
+          {
+            "question": "みかんは冷蔵庫と常温のどちらで保存するのが良いですか？",
+            "answer": "冬場であれば、風通しの良い涼しいベランダ（3〜7℃）での常温保存が甘みを維持するのに最適です。ただし、室温が高い場合や長期保存したい場合は、新聞紙で包んで冷蔵庫の野菜室に入れるのが最も安全です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持柑橘新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解柑橘的最佳储存温度、方式和保鲜时长。",
+        "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "您是否曾买回一整箱酸甜可口的柑橘，却发现压在底部的橘子变软压破并长满青霉，不得不全部扔掉？🍊\n\n柑橘含水量高且果皮较薄，互相挤压或受潮极易腐烂。特别是果皮表面附着的微量霉菌孢子，在常温和湿气刺激下会呈爆发式繁殖。\n\n本指南基于权威专家指南，为您带来3步科学保存秘诀，帮您防止柑橘变软发霉，长久保持鲜甜口感。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "长霉的柑橘请立即丢弃并清洗周围果实 🍊",
+            "desc": "柑橘表面一旦出现青霉或黑霉，孢子会迅速扩散至周边果实。请立即扔掉长霉的橘子，并将挨着的邻近橘子挑选出来彻底清洗、擦干后优先食用。"
+          },
+          {
+            "title": "切勿将柑橘多层高高堆叠 📦",
+            "desc": "整箱多层堆叠柑橘会导致底部果实因承受重压而破皮漏汁。这种湿气会在整箱内蔓延，成为霉菌大量滋生的决定性因素。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "淡盐水清洗后彻底晾干 — 清除霉菌孢子与干燥 💧",
+            "text": "洗去果皮表面附着的霉菌孢子与杂质可极大延长保存期。💡储存小贴士：将柑橘浸泡在淡盐水（或小苏打水）中清洗1~2分钟，随后用厨房纸巾擦干并彻底晾干水分。"
+          },
+          {
+            "name": "用报纸或厨房纸巾隔层堆叠 — 防压防软与湿度调节 📰",
+            "text": "关键在于避免柑橘直接接触并保持良好通风。💡储存小贴士：在箱底铺上报纸或厨房纸巾，平铺摆放柑橘使其互不接触，再盖上一层报纸，以此类推分层堆叠。"
+          },
+          {
+            "name": "置于阴凉通风的常温环境(3~7℃) — 阴凉/冷藏保存 (2~3周) ❄️",
+            "text": "温度过高会加速柑橘呼吸作用导致酸甜度流失并变软，温度过低则易受冻害。💡储存小贴士：请置于阳台等无阳光直射且通风良好（3~7℃）处。若室内较热，可用报纸包裹后放入冰箱保鲜抽屉。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "柑橘发霉后把发霉部分剥掉还可以食用吗？",
+            "answer": "绝对不可以。柑橘类水果质地软且水分多，即使表面仅有一点点霉斑，霉菌菌丝和孢子也早已深入果肉内部。发霉的柑橘必须整颗丢弃。"
+          },
+          {
+            "question": "柑橘保存在冰箱好还是常温好？",
+            "answer": "在冬季，若有通风良好的阴凉阳台（3~7℃），常温保存最有助于维持甜度。但如果室内温度较高或需要长期保存，用报纸包裹后放入冰箱蔬菜保鲜抽屉保存最为安全。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener las mandarinas frescas: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para las mandarinas según las directrices oficiales de seguridad.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "¿Alguna vez compró una caja entera de mandarinas dulces, solo para descubrir que las capas inferiores se aplastaban, ablandaban y cubrían de moho verde? 🍊\n\nLas mandarinas tienen un alto contenido de agua y pieles delgadas, lo que las hace propensas al aplastamiento, atrapamiento de humedad e inminente descomposición. Las esporas microscópicas de moho en la piel proliferan rápidamente con la humedad ambiental.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por expertos para mantener sus mandarinas firmes, dulces y libres de moho por semanas. 🛡️",
+        "whyTitle": "¿Por qué almacenarlas así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Deseche de inmediato las mandarinas con moho y lave las cercanas 🍊",
+            "desc": "Cuando aparece moho verde o azul en la piel, las esporas se propagan rápidamente a los frutos vecinos. Deseche la fruta con moho, sepárela de las adyacentes, lávelas bien, séquelas por completo y consúmalas primero."
+          },
+          {
+            "title": "No apile las mandarinas en muchas capas altas 📦",
+            "desc": "Apilar mandarinas en cajas profundas aplasta los frutos del fondo, haciendo que se rompan y liberen jugo. Esta humedad atrapada se extiende por toda la caja y desencadena moho."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Lave con agua salada diluida y seque por completo — Eliminar esporas y secar 💧",
+            "text": "Lavar las esporas microscópicas de la piel prolonga notablemente su vida útil. 💡 Consejo de almacenamiento: Remoje las mandarinas en agua con sal o bicarbonato durante 1-2 minutos, luego séquelas individualmente con papel absorbente."
+          },
+          {
+            "name": "Separe por capas con papel periódico o absorbente — Control de humedad y protección 📰",
+            "text": "Es esencial evitar que los frutos se toquen entre sí y asegurar ventilación. 💡 Consejo de almacenamiento: Cubra el fondo de la caja con papel periódico, coloque una capa de mandarinas sin tocarse, vuelva a cubrir con papel y repita."
+          },
+          {
+            "name": "Conserve en un lugar fresco y ventilado a 3–7 °C — Conservación fresca (2 a 3 semanas) ❄️",
+            "text": "El calor excesivo aumenta la respiración y destruye el sabor, mientras que el frío congelante causa daños por helada. 💡 Consejo de almacenamiento: Guarde en un balcón o despensa a la sombra (3–7 °C). Si su casa es cálida, envuélvalas en papel y guárdelas en el cajón del refrigerador."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Puedo retirar la parte mohosa de una mandarina y comer el resto?",
+            "answer": "Absolutamente no. Los cítricos son blandos y muy jugosos, lo que permite que las hifas del moho penetren profundamente en la pulpa mucho antes de que el moho sea visible por fuera. Deseche siempre la fruta mohosa por completo."
+          },
+          {
+            "question": "¿Es mejor guardar las mandarinas en el refrigerador o a temperatura ambiente?",
+            "answer": "En invierno, un balcón fresco y ventilado (3–7 °C) es óptimo para mantener su dulzura. Sin embargo, si la temperatura interior es alta o busca almacenamiento prolongado, envuélvalas en papel periódico y guárdelas en el cajón de verduras del refrigerador."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver les mandarines fraîches : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les mandarines selon les directives officielles de sécurité.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Avez-vous déjà acheté une cagette de mandarines douces, pour découvrir que les fruits du fond étaient écrasés, ramollis et couverte de moisissure verte ? 🍊\n\nLa mandarine est un fruit riche en eau et à la peau fine, très vulnérable à la pression et à l'humidité. Les esporillons microscopiques de moisissure présents sur la peau se multiplient à une vitesse fulgurante en présence d'humidité.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes recommandé par des experts pour maintenir vos mandarines fermes, sucrées et sans moisissure. 🛡️",
+        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Jetez immédiatement les mandarines moisies et lavez les fruits voisins 🍊",
+            "desc": "Dès qu'une moisissure verte ou bleue apparaît, les spores contaminent très rapidement les autres mandarines. Écartez le fruit moisi, lavez soigneusement les fruits en contact, séchez-les et consommez-les en priorité."
+          },
+          {
+            "title": "Ne superposez pas les mandarines sur trop de couches 📦",
+            "desc": "Empiler trop de mandarines écrase les fruits du dessous sous leur propre poids, ce qui fait éclater la peau. Le jus libéré crée une humidité propice à l'apparition massive de moisissures."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Laver à l'eau salée puis sécher parfaitement — Élimination des spores & Séchage 💧",
+            "text": "Rincer les spores de moisissures de la peau prolonge considérablement la durée de vie du fruit. 💡 Astuce de conservation : Faites tremper les mandarines 1 à 2 minutes dans de l'eau légèrement salée, puis séchez-les entièrement avec du papier absorbant."
+          },
+          {
+            "name": "Isoler en couches avec du papier journal ou absorbant — Protection & Contrôle de l'humidité 📰",
+            "text": "L'objectif est d'éviter tout contact direct entre les fruits tout en assurant une bonne aération. 💡 Astuce de conservation : Tapissez le fond d'une caisse de papier journal, déposez les mandarines sans qu'elles se touchent, recouvrez de papier et répétez l'opération."
+          },
+          {
+            "name": "Conserver dans un endroit frais et aéré (3 à 7 °C) — Stockage frais (2 à 3 semaines) ❄️",
+            "text": "Une chaleur ambiante accélère la perte de saveur tandis que le gel cause des dégâts dus au froid. 💡 Astuce de conservation : Stockez les mandarines sur un balcon abrité ou dans un cellier frais (3 à 7 °C). Si l'intérieur est chauffé, enveloppez-les et placez-les au bac à légumes du réfrigérateur."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Peut-on enlever la partie moisie d'une mandarine et manger le reste ?",
+            "answer": "Absolument pas. Les agrumes étant très juteux et tendres, les filaments de moisissure s'étendent rapidement au cœur de la pulpe bien avant d'être visibles sur la peau. Toute mandarine touchée par la moisissure doit être jetée."
+          },
+          {
+            "question": "Est-il préférable de conserver les mandarines au réfrigérateur ou à température ambiante ?",
+            "answer": "En hiver, un balcon frais et bien aéré (3 à 7 °C) est idéal pour préserver le goût sucré. Si la température intérieure est élevée ou si vous souhaitez les garder plus longtemps, il est plus sûr de les envelopper dans du papier journal et de les placer au réfrigérateur."
+          }
+        ]
+      },
+      "de": {
+        "title": "Mandarinen richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Mandarinen basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Haben Sie schon einmal eine ganze Kiste süßer Mandarinen gekauft, nur um festzustellen, dass die unteren Früchte zerdrückt, matschig und voller grünem Schimmel waren? 🍊\n\nMandarinen haben einen hohen Wassergehalt und eine dünne Schale, wodurch sie extrem anfällig für Druckstellen und Feuchtigkeitsstau sind. Die mikroskopischen Schimmelsporen auf der Schale vermehren sich bei Raumtemperatur und Feuchtigkeit rasend schnell.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um Ihre Mandarinen fest, süß und schimmelfrei zu halten. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Schimmelige Mandarinen sofort entsorgen und umliegende Früchte waschen 🍊",
+            "desc": "Sobald sich grüner Schimmel bildet, verteilen sich die Sporen blitzschnell auf benachbarte Früchte. Entsorgen Sie befallene Mandarinen sofort, waschen Sie die umliegenden Früchte gründlich, trocknen Sie sie ab und verbrauchen Sie sie zuerst."
+          },
+          {
+            "title": "Mandarinen nicht zu hoch stapeln 📦",
+            "desc": "Das Stapeln in tiefen Kisten zerquetscht die unteren Früchte. Der austretende Saft erzeugt eine feuchte Umgebung in der Kiste, die Hauptursache für Schimmelbefall."
+          }
+        ],
+        "steps": [
+          {
+            "name": "In Salzwasser waschen und vollständig trocknen — Schimmelsporen entfernen 💧",
+            "text": "Das Abwaschen der Sporen verlängert die Haltbarkeit beträchtlich. 💡 Lagerungstipp: Mandarinen 1–2 Minuten in leichtem Salzwasser (oder Natronwasser) baden, danach mit Küchenpapier einzeln gründlich abtrocknen."
+          },
+          {
+            "name": "Mit Zeitungspapier schichtweise trennen — Feuchtigkeitskontrolle & Druckschutz 📰",
+            "text": "Wichtig ist, dass sich die Früchte nicht berühren und gut belüftet bleiben. 💡 Lagerungstipp: Den Kistenboden mit Zeitungspapier auslegen, Mandarinen mit Abstand nebeneinanderlegen, mit Zeitungspapier abdecken und die nächste Schicht auflegen."
+          },
+          {
+            "name": "Kühl und gut belüftet bei 3–7 °C lagern — Kühle Lagerung (2–3 Wochen) ❄️",
+            "text": "Zu warme Raumluft lässt die Frucht schnell alt und sauer werden, Frost führt zu Kälteschäden. 💡 Lagerungstipp: An einem schattigen, kühlen Ort (z. B. Balkon/Vorratsraum bei 3–7 °C) aufbewahren. Bei warmer Wohnung in Zeitung gewickelt ins Gemüsefach des Kühlschranks legen."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Kann man die schimmelige Stelle einer Mandarine abschneiden und den Rest essen?",
+            "answer": "Auf keinen Fall. Zitrusfrüchte sind weich und saftreich, weshalb Schimmelpilzfäden das Fruchtfleisch längst durchzogen haben, bevor der Schimmel außen sichtbar wird. Entsorgen Sie schimmelige Mandarinen immer komplett."
+          },
+          {
+            "question": "Sollte man Mandarinen im Kühlschrank oder bei Raumtemperatur lagern?",
+            "answer": "Im Winter ist ein kühler, gut belüfteter Ort (3–7 °C) ideal, um das süße Aroma zu bewahren. Ist die Wohnung warm oder eine längere Lagerung gewünscht, empfiehlt sich das Einwickeln in Zeitungspapier und die Lagerung im Gemüsefach des Kühlschranks."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar mandarinas e tangerinas frescas: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para mandarinas com base em diretrizes oficiais de segurança.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Você já comprou uma caixa cheia de tangerinas doces e descobriu que as frutas do fundo ficaram amassadas, moles e cobertas de mofo verde? 🍊\n\nAs mandarinas possuem alto teor de água e casca fina, sendo propensas ao esmagamento, acúmulo de umidade e apodrecimento rápido. Esporos microscópicos de fungos presentes na casca se multiplicam velozmente sob umidade e calor.\n\nNeste guia, apresentamos um guia em 3 etapas baseado em diretrizes de especialistas para manter suas tangerinas firmes, doces e livres de mofo. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Descarte tangerinas mofadas imediatamente e lave as frutas vizinhas 🍊",
+            "desc": "Quando surge mofo verde ou azul na casca, os esporos se espalham rapidamente para as frutas ao redor. Jogue fora as frutas mofadas, separe as que estavam em contato, lave-as bem, seque totalmente e consuma-as primeiro."
+          },
+          {
+            "title": "Não empilhe as tangerinas em muitas camadas 📦",
+            "desc": "Empilhar muitas frutas em caixas fundas esmaga as tangerinas do fundo. O suco vazado cria um ambiente úmido na caixa, sendo a causa principal do surgimento de mofo."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Lave em água salgada e seque completamente — Remoção de esporos & Secagem 💧",
+            "text": "Lavar os esporos de mofo da casca aumenta significativamente o tempo de conservação. 💡 Dica de conservação: Deixe as tangerinas de molho em água com um pouco de sal ou bicarbonato por 1 a 2 minutos e seque cada uma com papel-toalha."
+          },
+          {
+            "name": "Separe em camadas com jornal ou papel-toalha — Controle de umidade & Proteção 📰",
+            "text": "Evitar o contato direto entre as frutas e garantir ventilação é fundamental. 💡 Dica de conservação: Forre o fundo da caixa com jornal, organize as tangerinas sem que se encostem, cubra com mais jornal e repita a camada."
+          },
+          {
+            "name": "Guarde em local fresco e ventilado de 3 a 7 °C — Conservação fresca (2 a 3 semanas) ❄️",
+            "text": "O calor acelera a perda de acidez e sabor, enquanto o frio excessivo causa danos por congelamento. 💡 Dica de conservação: Guarde em uma varanda ou despensa arejada (3 a 7 °C). Se o ambiente for quente, envolva em jornal e coloque na gaveta de legumes da geladeira."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Posso retirar a parte com mofo e comer o restante da tangerina?",
+            "answer": "Jamais faça isso. Os cítricos são macios e muito suculentos, o que significa que os fungos se espalham por toda a polpa muito antes de se tornarem visíveis por fora. Descarte a fruta mofada por inteiro."
+          },
+          {
+            "question": "É melhor guardar as tangerinas na geladeira ou em temperatura ambiente?",
+            "answer": "No inverno, uma varanda fresca e bem ventilada (3 a 7 °C) é ideal para manter o sabor adocicado. Porém, se a casa for quente ou para armazenar por mais tempo, o mais seguro é embrulhá-las em jornal e guardar na gaveta de legumes da geladeira."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Jeruk Mandarin agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk jeruk mandarin berdasarkan pedoman keselamatan resmi.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Pernahkah Anda membeli satu kotak jeruk mandarin yang manis, lalu mendapati bagian bawahnya hancur, lembek, dan tertutup jamur hijau? 🍊\n\nJeruk mandarin memiliki kadar air yang tinggi dan kulit yang tipis, membuatnya mudah tertekan, terjebak kelembapan, dan cepat membusuk. Spora jamur mikroskopis pada kulitnya akan berkembang biak dengan cepat jika terkena kelembapan udara.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli untuk menjaga jeruk mandarin Anda tetap manis, padat, dan bebas jamur. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Segera buang jeruk yang berjamur dan cuci jeruk di sekitarnya 🍊",
+            "desc": "Ketika jamur hijau atau biru muncul pada kulit jeruk, sporanya akan dengan cepat menyebar ke buah lain di sekitarnya. Buang jeruk yang berjamur, pisahkan jeruk yang bersentuhan dengannya, cuci bersih, keringkan, dan konsumsi terlebih dahulu."
+          },
+          {
+            "title": "Jangan menumpuk jeruk terlalu tinggi 📦",
+            "desc": "Menumpuk jeruk dalam wadah yang dalam akan menekan buah di lapisan bawah hingga pecah dan mengeluarkan cairan. Kelembapan ini akan menyebar ke seluruh wadah dan memicu pertumbuhan jamur masif."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Cuci dengan air garam encer lalu keringkan hingga tuntas — Hilangkan Spora Jamur & Pengeringan 💧",
+            "text": "Mencuci spora jamur dan kotoran dari kulit jeruk dapat memperpanjang masa simpannya secara signifikan. 💡 Tips Penyimpanan: Rendam jeruk dalam air garam ringan (atau air baking soda) selama 1–2 menit, lalu keringkan setiap buah dengan tisu dapur."
+          },
+          {
+            "name": "Tata berlapis dengan koran atau tisu dapur — Kontrol Kelembapan & Perlindungan 📰",
+            "text": "Kunci utamanya adalah mencegah buah saling bersentuhan secara langsung dan menjaga sirkulasi udara. 💡 Tips Penyimpanan: Alasi dasar wadah dengan kertas koran, tata jeruk agar tidak saling bersentuhan, tutup dengan koran lagi, lalu ulangi untuk lapisan berikutnya."
+          },
+          {
+            "name": "Simpan di tempat sejuk dan berangin pada suhu 3–7°C — Penyimpanan Sejuk (2–3 Minggu) ❄️",
+            "text": "Suhu ruangan yang terlalu hangat membuat rasa manisnya cepat hilang, sedangkan suhu terlalu dingin menyebabkan kerusakan akibat pembekuan. 💡 Tips Penyimpanan: Simpan di area yang teduh dan berangin (3–7°C). Jika suhu dalam rumah hangat, bungkus dengan kertas koran lalu simpan di laci sayur kulkas."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Bolehkah saya membuang bagian yang berjamur saja lalu memakan sisa jeruknya?",
+            "answer": "Sangat tidak boleh. Buah sitrus bertekstur lunak dan kaya air, yang berarti jaringan jamur dan sporanya telah menyebar jauh ke dalam daging buah sebelum terlihat dari luar. Selalu buang jeruk yang berjamur secara utuh."
+          },
+          {
+            "question": "Apakah lebih baik menyimpan jeruk mandarin di dalam kulkas atau pada suhu ruang?",
+            "answer": "Saat cuaca dingin, menyimpan jeruk di area yang sejuk dan berangin (3–7°C) adalah cara terbaik untuk mempertahankan rasa manisnya. Namun jika suhu ruangan hangat atau untuk penyimpanan jangka panjang, membungkusnya dengan koran dan menyimpannya di laci sayur kulkas adalah cara paling aman."
+          }
+        ]
+      }
     }
+  }
 }

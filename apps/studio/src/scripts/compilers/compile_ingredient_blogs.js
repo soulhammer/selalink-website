@@ -3,7 +3,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 import { cleanMarkdown } from '../../utils/compilerHelper.js';
-import { renderIngredientStepCard, renderEvidenceBox, renderCautionBox, renderFaqSection } from '../../utils/blogTemplates.js';
+import { renderIngredientStepCard, renderEvidenceBox, renderCautionBox, renderFaqSection, renderFreshSnapCtaBox } from '../../utils/blogTemplates.js';
 import { compileMasterJsonCollection } from './compile_blog_base.js';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -38,14 +38,15 @@ function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
     }
   }
 
-  const enData = master.locales?.['en'] || master.locales?.['ko'] || {};
-  const locData = master.locales?.[lang] || enData;
-  if (!locData || (!locData.title && !enData.title)) return '';
+  const enData = master.locales?.['en'] || {};
+  const koData = master.locales?.['ko'] || {};
+  const locData = master.locales?.[lang] || (lang === 'ko' ? koData : enData);
+  if (!locData || (!locData.title && !enData.title && !koData.title)) return '';
 
-  const title = locData.title || enData.title || '';
-  const desc = locData.description || enData.description || '';
-  const auth = locData.authority || enData.authority || '';
-  const intro = locData.intro || enData.intro || '';
+  const title = locData.title || enData.title || (lang === 'ko' ? koData.title : '') || '';
+  const desc = locData.description || enData.description || (lang === 'ko' ? koData.description : '') || '';
+  const auth = locData.authority || enData.authority || (lang === 'ko' ? koData.authority : '') || '';
+  const intro = locData.intro || enData.intro || (lang === 'ko' ? koData.intro : '') || '';
 
   const safeClean = (txt) => typeof txt === 'string' ? cleanMarkdown(txt) : (txt ? cleanMarkdown(String(txt)) : '');
   const escapeYaml = (str) => typeof str === 'string' ? str.replace(/\\/g, '\\\\').replace(/"/g, '\\"') : '';
@@ -126,6 +127,7 @@ function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
   const guideTitle = locData.guideTitle || enData.guideTitle || labels.ingredientGuideTitle[lang] || labels.ingredientGuideTitle['en'];
 
   const evidenceBoxHtml = auth ? renderEvidenceBox(lang, auth, 'ingredients') : '';
+  const appCtaHtml = renderFreshSnapCtaBox(lang);
 
   let markdown = `---
 layout: "../../../layouts/BlogPostLayout.astro"
@@ -145,6 +147,8 @@ ${faqsYaml}
 ${intro}
 
 ${evidenceBoxHtml}
+
+${appCtaHtml}
 
 ---
 

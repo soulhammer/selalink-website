@@ -1,459 +1,459 @@
 {
-    "dwarf-gourami-care": {
-        "pubDate": "2026-04-09",
-        "updatedDate": "2026-04-09",
-        "locales": {
-            "ko": {
-                "title": "드워프 구라미 라비린스 공기 호흡 관리와 발색·합사 수조 3단계 루틴",
-                "description": "화려한 네온 스트라이프의 드워프 구라미 맞춤 케어. 라비린스 기관을 보호하는 수면 공기 관리, 합사 가능한 평화로운 수조 환경, 발색 유지 영양 관리를 다룹니다.",
-                "authority": "세계관상어협회 (OFI) 수질 관리 표준 및 관상어 의학 임상 가이드라인",
-                "profile": {
-                    "breed": "드워프 구라미 (Dwarf Gourami / Trichogaster lalius)",
-                    "lifespan": "3 ~ 5년",
-                    "sleep_pattern": "8 ~ 10시간 (야간 조명 소등 후 수초나 구조물 근처에서 정지 휴식)",
-                    "temperament": "평화로움, 온순함, 수줍음, 영역 의식 (동종 수컷 간)"
-                },
-                "intro": "드워프 구라미는 선명한 붉은색과 네온 블루 스트라이프가 조화를 이루는 화려한 외형과 온순한 성격으로 전 세계 아쿠아리스트들에게 사랑받는 대표적인 소형 열대어입니다. 아가미 외에 공기 중 산소를 직접 호흡할 수 있는 '라비린스(Labyrinth) 기관'을 가지고 있어 수면 위 공기 환경 관리가 필수적입니다. 또한 실지느러미 모양으로 변형된 가슴지느러미로 물속 환경을 탐색하는 독특한 습성이 있습니다. 이번 가이드에서는 드워프 구라미의 본능 시그널을 해석하고, 수면 공기 보호, 발색 유지 영양, 합사 수조 유지를 위한 3단계 홈케어 루틴을 소개합니다.",
-                "whyTitle": "드워프 구라미의 본능 시그널: 수면 공기 들이마시기와 실지느러미 촉수 탐색",
-                "whyDesc": "드워프 구라미는 용존 산소가 부족하거나 라비린스 기관을 활용하고자 할 때 수면 위로 주둥이를 내밀어 공기를 들이마시는 호흡 행동을 합니다. 또한 실처럼 길게 변형된 가슴지느러미(촉수)를 안테나처럼 앞뒤로 움직여 수초나 바위, 주변 물고기를 다정하게 터치하며 환경을 탐색합니다.",
-                "body_signals": [
-                    {
-                        "name": "수면 공기 들이마시기 (Surface Breathing)",
-                        "meaning": "라비린스 기관을 이용한 정상적인 공기 호흡 행동이자, 수조 내 용존 산소량 및 수면 온도 상태를 나타내는 신호입니다.",
-                        "response": "수면 위 공기 온도가 수온과 유사하도록 뚜껑을 덮어 찬 공기 유입을 막고, 환기 구멍을 확보해 줍니다."
-                    },
-                    {
-                        "name": "실지느러미 촉수 탐색 (Pelvic Fin Feeling)",
-                        "meaning": "감각 세포가 집약된 가슴지느러미로 주변 사물이나 동료를 인식하고 호기심을 해소하는 탐색 행동입니다.",
-                        "response": "지느러미가 찢어지지 않도록 날카로운 수조 구조물을 제거하고 풍성한 수초 환경을 제공합니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: 수온·수면 공기 온도 점검 및 카로티노이드 사료 급여",
-                        "text": "수온(24~28°C)과 수면 위 공기 온도 차이를 점검하고, 선명한 붉은색과 네온 블루 발색 유지를 위해 아스타잔틴이 풍부한 관상어 전용 사료를 급여합니다."
-                    },
-                    {
-                        "name": "낮: 약한 수류 유지 및 부유 수초 그늘 환경 점검",
-                        "text": "수류에 약한 체형 특성을 고려하여 필터 수류를 약하게 조절하고, 안정감을 주는 부유 수초(아마존 프로그비트 등) 상태를 점검합니다."
-                    },
-                    {
-                        "name": "밤: 생먹이/냉동 먹이 급여 및 조명 소등을 통한 휴식",
-                        "text": "냉동 브라인쉬림프나 장구벌레 등 고단백 생먹이로 영양을 보충하고, 조명을 단계적으로 소등하여 스트레스 없는 수초 사이 휴식을 유도합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "드워프 구라미는 어떤 물고기와 합사가 가능한가요?",
-                        "answer": "네온테트라, 라스보라, 코리도라스, 오토싱 등 온순하고 작은 소형 열대어와 합사가 잘 됩니다. 단, 지느러미를 물어뜯는 수마트라(바브류)나 같은 라비린스 과인 수컷 베타, 동종 수컷 구라미와는 영역 다툼이 생길 수 있으므로 피해야 합니다."
-                    },
-                    {
-                        "question": "수조 뚜껑을 반드시 덮어야 하는 이유는 무엇인가요?",
-                        "answer": "드워프 구라미의 라비린스 기관은 수면 위의 공기를 호흡합니다. 차가운 건조 공기가 직접 유입되면 라비린스 기관에 감염이나 손상이 생길 수 있으므로, 수조 뚜껑을 덮어 수면 위 공기를 따뜻하고 습하게 유지해야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Dwarf Gourami Labyrinth Air-Breathing Care and 3-Step Routine for Coloration & Community Tank",
-                "description": "Essential care for the brilliant neon-striped Dwarf Gourami. Learn to manage surface air for their labyrinth organ, set up a peaceful community aquarium, and enhance natural colors.",
-                "authority": "Ornamental Fish International (OFI) Water Quality Standards and Aquatic Veterinary Clinical Guidelines",
-                "profile": {
-                    "breed": "Dwarf Gourami (Trichogaster lalius)",
-                    "lifespan": "3 ~ 5 Years",
-                    "sleep_pattern": "8 ~ 10 Hours (Polyphasic - Resting Stationary Near Plants at Night)",
-                    "temperament": "Peaceful, Gentle, Shy, Territorial (Male-to-Male)"
-                },
-                "intro": "The Dwarf Gourami (Trichogaster lalius) is a renowned tropical freshwater fish loved worldwide for its vibrant neon blue and orange-red stripes and gentle disposition. Equipped with a specialized 'labyrinth organ,' they possess the unique ability to breathe atmospheric oxygen directly from the water surface. They also feature modified thread-like pelvic fins used as feelers to explore their environment. In this guide, we decode Dwarf Gourami instinctual signals and present a 3-step homecare routine for surface air protection, color-enhancing nutrition, and harmonious community tank maintenance.",
-                "whyTitle": "Dwarf Gourami Instincts: Surface Air Gulping and Thread-like Fin Feeling",
-                "whyDesc": "Dwarf Gouramis regularly surface to gulp atmospheric air using their specialized labyrinth organ. Additionally, they extend their modified, thread-like pelvic fins forward like sensory antennae to gently touch aquatic plants, substrate, and fellow tankmates to navigate their surroundings.",
-                "body_signals": [
-                    {
-                        "name": "Surface Air Gulping (Surface Breathing)",
-                        "meaning": "Normal atmospheric oxygen intake using the labyrinth organ; also reflects ambient air temperature and dissolved oxygen levels.",
-                        "response": "Keep an aquarium lid fitted to retain warm, humid air over the water surface, preventing cold drafts from shocking the labyrinth organ."
-                    },
-                    {
-                        "name": "Pelvic Fin Feeling (Feeler Exploration)",
-                        "meaning": "Sensory exploration behavior using nerve-rich thread-like fins to inspect objects, plants, or tankmates out of curiosity.",
-                        "response": "Remove sharp decorations that could tear their delicate feelers and provide dense live plants for comfortable exploration."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: Water & Air Temp Check and Carotenoid Color Feeding",
-                        "text": "Ensure water temperature remains stable (24–28°C / 75–82°F) and feed astaxanthin-enriched flakes or pellets to promote vivid neon and red coloration."
-                    },
-                    {
-                        "name": "Afternoon: Low Water Flow Adjustment & Floating Plant Care",
-                        "text": "Adjust filter outlets to create gentle, low-current water flow suited for their body shape, and check floating plants (e.g., Frogbit) that provide shade and security."
-                    },
-                    {
-                        "name": "Evening: High-Protein Live/Frozen Feeding & Gradual Dimming",
-                        "text": "Offer nutrient-dense frozen bloodworms or brine shrimp for metabolic health, then gradually dim tank lights to encourage stress-free evening rest among plant foliage."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Which tankmates are compatible with Dwarf Gouramis?",
-                        "answer": "They thrive alongside peaceful, small community fish such as Neon Tetras, Harlequin Rasboras, Corydoras, and Otocinclus. Avoid aggressive fin-nippers (e.g., Tiger Barbs) or other territorial labyrinth fish (like male Bettas or rival male Gouramis)."
-                    },
-                    {
-                        "question": "Why is an aquarium cover/lid essential for Dwarf Gouramis?",
-                        "answer": "Because Dwarf Gouramis inhale air above the water line into their delicate labyrinth organ. A lid traps humidity and warmth, preventing cold room air from causing organ damage or respiratory inflammation."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ドワーフグラミーのラビリンス器官ケアと発色・混泳水槽の3ステップルーティン",
-                "description": "鮮やかなネオンストライプが美しいドワーフグラミーの専門ケア。ラビリンス器官を守る水面空気管理、平和な混泳環境、鮮やかな発色を保つ栄養管理を解説します。",
-                "authority": "世界観賞魚協会 (OFI) 水質管理基準および観賞魚医学臨床ガイドライン",
-                "profile": {
-                    "breed": "ドワーフグラミー (Dwarf Gourami / Trichogaster lalius)",
-                    "lifespan": "3 〜 5年",
-                    "sleep_pattern": "8 〜 10時間 (夜間消灯後、水草や障害物の付近で静止して休息)",
-                    "temperament": "平和、温和、臆病、なわばり意識 (オス同士)"
-                },
-                "intro": "鮮やかなオレンジレッドとネオンブルーのストライプが美しく映えるドワーフグラミーは、世界中のアクアリストに愛される小型熱帯魚の代表格です。エラ呼吸だけでなく、水面の空気から直接酸素を取り込む特殊な「ラビリンス器官」を持っているため、水面上の空気環境の管理が欠かせません。また、糸状に変化した胸ビレ（触手）を使って周りの環境を探るユニークな習性があります。本記事では、ドワーフグラミーの習性サインを解読し、水面空気の保護・発色維持・平和な混泳水槽を維持する3ステップ日常ケアをご紹介します。",
-                "whyTitle": "ドワーフグラミーの習性サイン：水面での空気呼吸と胸ビレ触手での探索",
-                "whyDesc": "ドワーフグラミーはラビリンス器官を使って直接酸素を補給するため、時折水面に口を出して空気を取り込む呼吸行動を行います。また、触覚細胞が発達した糸状の腹ビレ（触手）をアンテナのように動かし、水草や流木、混泳魚に優しく触れて周囲の状況を察知します。",
-                "body_signals": [
-                    {
-                        "name": "水面での空気呼吸 (Surface Breathing)",
-                        "meaning": "ラビリンス器官による正常な空気呼吸行動であり、水面上の空気温度や水中の溶存酸素量を示すサインです。",
-                        "response": "水槽のフタをしっかり閉めて水面上の空気温度と湿度を高く保ち、冷たい空気の落ち込みを防ぎます。"
-                    },
-                    {
-                        "name": "胸ビレ（触手）による探索 (Pelvic Fin Feeling)",
-                        "meaning": "感覚細胞が集中した腹ビレを使って障害物や仲間を確かめる、好奇心旺盛な探索行動です。",
-                        "response": "繊細なヒレが傷つかないよう鋭利なレイアウト素材を避け、水草を豊富に配置してあげましょう。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：水温・空気温度チェックとアスタキサンチン給餌",
-                        "text": "水温（24〜28℃）と水面上空気の温度差を確認し、鮮やかなネオンカラーと赤色を維持するためアスタキサンチン配合フードを与えます。"
-                    },
-                    {
-                        "name": "昼：緩やかな水流の維持と浮き草の影環境チェック",
-                        "text": "強い水流に弱いためフィルターの吐出口を調整して水流を弱め、安心感を与えるアマゾンフロッグピットなどの浮き草の状態を点検します。"
-                    },
-                    {
-                        "name": "夜：高タンパク生餌・冷凍餌の給餌と段階的消灯",
-                        "text": "冷凍赤虫やブラインシュリンプを与えて栄養を補給し、水槽照明を徐々に暗くして水草の陰でストレスなく休ませます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "ドワーフグラミーと混泳できるおすすめの熱帯魚は？",
-                        "answer": "ネオンテトラ、ラスボラ、コリドラス、オトシンクルスなどの温和で大人しい小型熱帯魚と非常に相性が良いです。ただし、ヒレをかじるスマトラや、同じラビリンス類であるベタ（オス）や他のグラミーのオス同士は争うため避けましょう。"
-                    },
-                    {
-                        "question": "なぜ水槽のフタを閉める必要がありますか？",
-                        "answer": "ドワーフグラミーは水面上の空気を取り込んでラビリンス器官で呼吸します。冷たく乾燥した外気が直接触れると、ラビリンス器官に障害や炎症を起こすリスクがあるため、フタをして保温・保湿することが必須です。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "侏儒丽丽鱼（Dwarf Gourami）迷鳃呼吸护理与发色·混养水族箱3阶段日常指南",
-                "description": "针对拥有绚丽霓虹条纹的侏儒丽丽鱼（Dwarf Gourami）专属护理。学习保护其迷鳃器官的水面空气管理、和平混养环境设置及维持靓丽色彩的营养供给。",
-                "authority": "国际观赏鱼协会 (OFI) 水质管理标准与观赏鱼临床兽医学指南",
-                "profile": {
-                    "breed": "侏儒丽丽鱼 / 拉利毛足鲈 (Dwarf Gourami / Trichogaster lalius)",
-                    "lifespan": "3 ~ 5年",
-                    "sleep_pattern": "8 ~ 10小时 (夜间熄灯后在水草与遮蔽物旁静止休息)",
-                    "temperament": "和平、温和、害羞、有领地意识 (同种雄性之间)"
-                },
-                "intro": "侏儒丽丽鱼（Dwarf Gourami）以其绚丽的霓虹蓝与鲜艳橙红条纹相间的外表，以及温和的性格深受全球水族爱好者的喜爱。它们拥有除了鳃之外可以直接呼吸空气中氧气的特殊“迷鳃器官（Labyrinth Organ）”，因此水面上的空气环境管理至关重要。此外，它们还拥有由腹鳍演化而来的丝状触手，用以探索水下环境。本指南将解析侏儒丽丽鱼的本能信号，并分享保护水面空气、维持靓丽发色与保持混养缸和谐的3阶段每日护理流程。",
-                "whyTitle": "侏儒丽丽鱼的本能信号：水面换气与丝状腹鳍触摸探索",
-                "whyDesc": "侏儒丽丽鱼需要借助迷鳃器官补充氧气，因此会定期将嘴伸出水面进行吞咽空气的呼吸行为。同时，它们演化成丝状的腹鳍富含触觉细胞，会像天线一样前后移动，温柔地触碰水草、沉木或同伴以感知周围环境。",
-                "body_signals": [
-                    {
-                        "name": "水面吞咽空气 (Surface Breathing)",
-                        "meaning": "利用迷鳃器官进行的正常呼吸行为，同时也反映了水面空气温度与水体溶氧量状态。",
-                        "response": "盖紧水族箱盖子以保持水面上方空气温暖湿润，防止冷空气吸入刺激迷鳃器官。"
-                    },
-                    {
-                        "name": "丝状腹鳍触摸探索 (Pelvic Fin Feeling)",
-                        "meaning": "利用高度敏感的腹鳍触碰周围物体或同伴，出自好奇心探索环境的本能行为。",
-                        "response": "移除可能撕裂其娇嫩触手的尖锐装饰物，并种植密集的真水草供其探索。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：水温与水面气温检查及富含虾青素饲料喂食",
-                        "text": "检查水温（24–28°C）与水面空气温差，投喂富含虾青素的高品质观赏鱼饲料以维持其靓丽色彩。"
-                    },
-                    {
-                        "name": "中午：微弱水流调节与浮萍遮荫环境检查",
-                        "text": "考虑到其不善强水流的体型，将过滤器水流调至缓和状态，并检查圆心萍等浮水植物是否提供良好的遮荫与安全感。"
-                    },
-                    {
-                        "name": "晚上：高蛋白冷冻/活体喂食与渐进式熄灯",
-                        "text": "投喂丰年虾或血虫补充营养，随后渐进式关闭水族箱灯光，引导其在水草丛中无压力地休息。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "侏儒丽丽鱼适合与哪些观赏鱼混养？",
-                        "answer": "它们非常适合与温和的小型热带鱼混养，如红绿灯鱼、宝莲灯、三角灯鱼、鼠鱼和红线绿葵等。但应避免与爱咬鳍的虎皮鱼，或同样拥有领地意识的斗鱼（雄性）及其他丽丽鱼雄鱼混养。"
-                    },
-                    {
-                        "question": "为什么水族箱必须盖上盖子？",
-                        "answer": "侏儒丽丽鱼需要直接吸入水面上的空气。如果室内冷空气直接接触水面，会导致吸入的空气过冷，从而损害其娇嫩的迷鳃器官引发呼吸道感染。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Guía de cuidado del órgano laberinto del Gurami Enano y rutina de 3 pasos para coloración y acuario comunitario",
-                "description": "Cuidado esencial para el vistoso Gurami Enano (Dwarf Gourami) de rayas neón. Aprenda a gestionar el aire superficial para su órgano laberinto, configurar un acuario comunitario pacífico y realzar sus colores.",
-                "authority": "Estándares de Calidad del Agua de Ornamental Fish International (OFI) y Guías de Medicina Veterinaria Acuática",
-                "profile": {
-                    "breed": "Gurami Enano (Dwarf Gourami / Trichogaster lalius)",
-                    "lifespan": "3 ~ 5 años",
-                    "sleep_pattern": "8 ~ 10 horas (polifásico: descanso inmóvil cerca de las plantas por la noche)",
-                    "temperament": "Pacífico, dócil, tímido, territorial (entre machos de la misma especie)"
-                },
-                "intro": "El Gurami Enano (Trichogaster lalius) es un pez tropical de agua dulce emblemático, adorado mundialmente por sus vívidas franjas azul neón y rojo-naranja y su carácter pacífico. Dotado de un 'órgano laberinto' especializado, posee la capacidad única de respirar oxígeno atmosférico directamente de la superficie del agua. Además, cuenta con aletas pélvicas filiformes que utiliza como antenas táctiles para explorar su entorno. En esta guía, desciframos las señales instintivas del Gurami Enano y presentamos una rutina de 3 pasos para proteger el aire superficial, realzar su coloración y mantener un acuario comunitario armónico.",
-                "whyTitle": "Instintos del Gurami Enano: Bocanadas de aire en la superficie y exploración táctil",
-                "whyDesc": "El Gurami Enano sube periódicamente a la superficie para tomar aire atmosférico a través de su órgano laberinto. Asimismo, extiende sus aletas pélvicas modificadas en forma de hilos hacia adelante para tocar suavemente las plantas, el sustrato y a sus compañeros de acuario.",
-                "body_signals": [
-                    {
-                        "name": "Bocanadas de aire en la superficie (Surface Breathing)",
-                        "meaning": "Ingreso normal de oxígeno atmosférico usando el órgano laberinto; también refleja la temperatura del aire ambiente y el nivel de oxígeno disuelto.",
-                        "response": "Coloque una tapa en el acuario para retener el aire cálido y húmedo sobre la superficie, evitando corrientes frías que puedan dañar su sistema respiratorio."
-                    },
-                    {
-                        "name": "Exploración con aletas filiformes (Pelvic Fin Feeling)",
-                        "meaning": "Comportamiento sensorial con sus aletas enriquecidas de terminaciones nerviosas para inspeccionar objetos, plantas y peces por curiosidad.",
-                        "response": "Retire decoraciones afiladas que puedan rasgar sus finos filamentos y proporcione plantas naturales abundantes."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Control de temperatura de agua y aire y alimento rico en carotenoides",
-                        "text": "Verifique que la temperatura del agua se mantenga estable (24–28 °C) y proporcione alimento con astaxantina para potenciar los tonos rojos y azul neón."
-                    },
-                    {
-                        "name": "Tarde: Ajuste de corriente suave y cuidado de plantas flotantes",
-                        "text": "Reduzca el flujo del filtro para evitar corrientes fuertes e inspeccione plantas flotantes que brinden sombra y tranquilidad."
-                    },
-                    {
-                        "name": "Noche: Alimentación viva/congelada rica en proteínas y apagado gradual de luces",
-                        "text": "Ofrezca larva roja o artemia congelada para complementar su nutrición, y atenúe las luces gradualmente para un descanso nocturno sin estrés."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Qué peces son compatibles con el Gurami Enano?",
-                        "answer": "Son ideales para compartir tanque con peces pequeños y pacíficos como Tetras Neón, Rasboras, Corydoras y Otocinclus. Evite peces mordedores de aletas (como el Barbo Tigre) o peces laberinto territoriales (como Bettas machos u otros Guramis machos)."
-                    },
-                    {
-                        "question": "¿Por qué es imprescindible poner tapa al acuario?",
-                        "answer": "El Gurami Enano inhala el aire situado inmediatamente sobre el agua. Una tapa conserva el calor y la humedad, evitando que el aire frío de la habitación dañe su delicado órgano laberinto."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Soins de l'organe labyrinthe du Gourami Nain et routine en 3 étapes pour la coloration et l'aquarium communautaire",
-                "description": "Soins essentiels pour le brillant Gourami Nain (Dwarf Gourami) aux rayures néon. Apprenez à gérer l'air de surface pour son organe labyrinthe, aménager un bac communautaire paisible et rehausser ses couleurs.",
-                "authority": "Normes de Qualité de l'Eau de l'Ornamental Fish International (OFI) et Directives Cliniques de Médecine Vétérinaire Aquatique",
-                "profile": {
-                    "breed": "Gourami Nain (Dwarf Gourami / Trichogaster lalius)",
-                    "lifespan": "3 ~ 5 ans",
-                    "sleep_pattern": "8 ~ 10 heures (polyphasique : repos immobile près des plantes la nuit)",
-                    "temperament": "Paisible, doux, timide, territorial (entre mâles de la même espèce)"
-                },
-                "intro": "Le Gourami Nain (Trichogaster lalius) est un poisson d'eau douce tropicale emblématique, très apprécié dans le monde entier pour ses rayures bleu néon et rouge-orange et son comportement paisible. Équipé d'un 'organe labyrinthe' spécialisé, il possède la capacité unique de respirer l'oxygène atmosphérique à la surface de l'eau. Il possède également des nageoires pelviennes filiformes qu'il utilise comme antennes tactiles pour explorer son environnement. Dans ce guide, nous décryptons les signaux instinctifs du Gourami Nain et vous proposons une routine en 3 étapes pour préserver l'air de surface, optimiser sa coloration et maintenir la concorde dans votre aquarium.",
-                "whyTitle": "Instincts du Gourami Nain : Prise d'air en surface et exploration avec les nageoires filiformes",
-                "whyDesc": "Le Gourami Nain monte régulièrement à la surface pour avaler de l'air ambiant grâce à son organe labyrinthe. De plus, il déploie ses nageoires pelviennes transformées en longs fils tactiles pour toucher doucement les plantes, le décor et ses compagnons de bac.",
-                "body_signals": [
-                    {
-                        "name": "Prise d'air à la surface (Surface Breathing)",
-                        "meaning": "Aspiration normale d'oxygène atmosphérique via l'organe labyrinthe ; témoigne aussi de la température de l'air ambiant et de l'oxygénation de l'eau.",
-                        "response": "Maintenez un couvercle sur l'aquarium pour piéger un air chaud et humide au-dessus de l'eau, évitant ainsi les courants d'air froids."
-                    },
-                    {
-                        "name": "Exploration tactile des nageoires (Pelvic Fin Feeling)",
-                        "meaning": "Comportement sensoriel à l'aide de nageoires filiformes riches en terminaisons nerveuses pour inspecter le décor et les poissons voisins.",
-                        "response": "Éliminez les éléments de décor tranchants qui pourraient déchirer ses filaments et offrez un bac bien planté."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Contrôle des températures de l'eau/air et alimentation riche en caroténoïdes",
-                        "text": "Vérifiez la stabilité de l'eau (24–28 °C) et distribuez des flocons ou granulés riches en astaxanthine pour faire ressortir les pigments néon et rouges."
-                    },
-                    {
-                        "name": "Après-midi : Maintien d'un courant doux et entretien des plantes flottantes",
-                        "text": "Réglez la filtration pour conserver un brassage léger adapté à sa nage, et vérifiez que les plantes flottantes lui offrent des zones d'ombre rassurantes."
-                    },
-                    {
-                        "name": "Soir : Repas protéiné congelé/vivant et extinction progressive des feux",
-                        "text": "Proposez des vers de vase ou des artémias congelés pour un apport protéique optimal, puis diminuez progressivement l'éclairage pour favoriser un repos nocturne sans stress."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Quels poissons peuvent cohabiter avec le Gourami Nain ?",
-                        "answer": "Il s'entend très bien avec de petits poissons paisibles comme les Tétras Néon, les Rasboras, les Corydoras et les Otocinclus. Évitez les poissons mordeurs de nageoires (comme le Barbeau Tigre) et les autres mâles territoriaux à labyrinthe (comme les Bettas mâles ou d'autres Gouramis mâles)."
-                    },
-                    {
-                        "question": "Pourquoi faut-il impérativement utiliser un couvercle d'aquarium ?",
-                        "answer": "Le Gourami Nain respire l'air situé directement au-dessus du plan d'eau. Un couvercle conserve la chaleur et l'humidité nécessaires pour éviter que l'air froid de la pièce ne blesse son organe labyrinthe fragile."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Zwergfadenfisch Labyrinth-Atempflege und 3-Schritte-Routine für Ausfärbung & Gesellschaftsbecken",
-                "description": "Essenzielle Pflege für den prachtvollen Zwergfadenfisch (Dwarf Gourami) mit Neonstreifen. Erfahren Sie, wie Sie die Oberflächenluft für das Labyrinthorgan pflegen, ein friedliches Aquarium einrichten und die Farben fördern.",
-                "authority": "Wasserqualitätsstandards der Ornamental Fish International (OFI) und Aquaristik-Veterinärmedizinische Leitlinien",
-                "profile": {
-                    "breed": "Zwergfadenfisch (Dwarf Gourami / Trichogaster lalius)",
-                    "lifespan": "3 ~ 5 Jahre",
-                    "sleep_pattern": "8 ~ 10 Stunden (polyphasisch - ruhiges Verharren nahe Pflanzen in der Nacht)",
-                    "temperament": "Friedlich, sanft, scheu, revierbildend (unter Männchen)"
-                },
-                "intro": "Der Zwergfadenfisch (Trichogaster lalius) ist ein weltweit beliebter tropischer Süßwasserfisch, der durch seine leuchtend neonblauen und orangeroten Streifen sowie sein ruhiges Gemüt besticht. Ausgestattet mit einem speziellen 'Labyrinthorgan' kann er atmosphärischen Sauerstoff direkt an der Wasseroberfläche atmen. Zudem besitzt er fadenförmig umgewandelte Bauchflossen, die er wie Fühler zur Erkundung der Umgebung nutzt. Heute entschlüsselt  die Verhaltensweisen des Zwergfadenfischs und zeigt eine 3-Schritte-Routine für den Schutz der Oberflächenluft, farbfördernde Ernährung und ein harmonisches Gesellschaftsbecken.",
-                "whyTitle": "Instinkte des Zwergfadenfischs: Luftschnappen an der Oberfläche und Ertasten mit Fadenflossen",
-                "whyDesc": "Zwergfadenfische steigen regelmäßig an die Wasseroberfläche auf, um mit ihrem Labyrinthorgan Luft aufzunehmen. Zudem strecken sie ihre fadenförmigen Bauchflossen nach vorne aus, um Wasserpflanzen, Einrichtungsgegenstände und Mitbewohner sanft zu ertasten.",
-                "body_signals": [
-                    {
-                        "name": "Luftschnappen an der Oberfläche (Surface Breathing)",
-                        "meaning": "Normale Sauerstoffaufnahme aus der Luft über das Labyrinthorgan; zeigt auch Raumlufttemperatur und Sauerstoffsättigung an.",
-                        "response": "Setzen Sie eine Aquarienabdeckung ein, um feuchtwarme Luft über dem Wasser zu halten und kalte Zugluft vom Atemorgan fernzuhalten."
-                    },
-                    {
-                        "name": "Ertasten mit den Fadenflossen (Pelvic Fin Feeling)",
-                        "meaning": "Sensorisches Erkundungsverhalten mit den nervenreichen Fadenflossen, um Objekte und andere Fische neugierig zu untersuchen.",
-                        "response": "Entfernen Sie scharfkantige Dekorationen, die die empfindlichen Fäden verletzen könnten, und bieten Sie dichte Bepflanzung."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: Wasser- & Lufttemperaturkontrolle und Carotinoid-Fütterung",
-                        "text": "Prüfen Sie die Wassertemperatur (24–28 °C) und füttern Sie astaxanthinreiches Markenfutter für kräftige Neon- und Rottöne."
-                    },
-                    {
-                        "name": "Nachmittag: Sanfte Strömungseinstellung & Schwimmpflanzen-Pflege",
-                        "text": "Drosseln Sie die Filterströmung auf ein ruhiges Niveau und kontrollieren Sie Schwimmpflanzen (z. B. Muschelblumen), die Schatten und Schutz bieten."
-                    },
-                    {
-                        "name": "Abend: Proteinreiche Lebend-/Frostfütterung & stufenweises Dimmen",
-                        "text": "Geben Sie Frost-Mückenlarven oder Artemia für eine optimale Nährstoffversorgung und dimmen Sie das Licht langsam für eine stressfreie Nachtruhe."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Welche Fische passen zum Zwergfadenfisch im Gesellschaftsbecken?",
-                        "answer": "Er eignet sich hervorragend für die Vergesellschaftung mit kleinen, friedlichen Arten wie Neonsalmlern, Keilfleckbärblingen, Panzerwelsen und Ohrgitter-Harnischwelsen. Meiden Sie Flossenbeißer (wie Sumatrabarben) und andere revierbildende Labyrinthfische (wie Kampffisch-Männchen oder rivalisierende Fadenfisch-Männchen)."
-                    },
-                    {
-                        "question": "Warum ist eine Abdeckung für das Aquarium zwingend erforderlich?",
-                        "answer": "Der Zwergfadenfisch atmet die Luft direkt über der Wasseroberfläche ein. Eine Abdeckung hält die Luft warm und feucht, wodurch verhindert wird, dass kalte Raumluft zu Entzündungen des Labyrinthorgans führt."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Guia de cuidados com o órgão labirinto do Gourami Anão e rotina de 3 passos para coloração e aquário comunitário",
-                "description": "Cuidados essenciais para o vibrante Gourami Anão (Dwarf Gourami) de listras néon. Saiba como gerir o ar da superfície para o seu órgão labirinto, montar um aquário comunitário tranquilo e realçar as suas cores.",
-                "authority": "Padrões de Qualidade da Água da Ornamental Fish International (OFI) e Diretrizes Clínicas de Medicina Veterinária Aquática",
-                "profile": {
-                    "breed": "Gourami Anão (Dwarf Gourami / Trichogaster lalius)",
-                    "lifespan": "3 ~ 5 anos",
-                    "sleep_pattern": "8 ~ 10 horas (polifásico: repouso imóvel junto às plantas à noite)",
-                    "temperament": "Pacífico, dócil, tímido, territorial (entre machos da mesma espécie)"
-                },
-                "intro": "O Gourami Anão (Trichogaster lalius) é um dos peixes tropicais de água doce mais populares do mundo, admirado pelas suas cores vibrantes azul néon e vermelho-alaranjado e pelo seu temperamento calmo. Dotado de um 'órgão labirinto' especializado, possui a capacidade única de respirar oxigénio atmosférico diretamente da superfície da água. Além disso, apresenta barbatanas pélvicas em forma de fios que utiliza como antenas táteis para explorar o ambiente. Neste guia, descodificamos os sinais instintivos do Gourami Anão e apresentamos uma rotina de 3 passos para proteger o ar de superfície, potencializar a sua coloração e manter a harmonia no aquário comunitário.",
-                "whyTitle": "Instintos do Gourami Anão: Respiração de ar na superfície e exploração com barbatanas táteis",
-                "whyDesc": "O Gourami Anão sobe regularmente à superfície para aspirar ar atmosférico através do seu órgão labirinto. Além disso, projeta as suas barbatanas pélvicas modificadas em forma de fios para tocar suavemente nas plantas, no substrato e noutros peixes do aquário.",
-                "body_signals": [
-                    {
-                        "name": "Respiração de ar na superfície (Surface Breathing)",
-                        "meaning": "Absorção normal de oxigénio atmosférico pelo órgão labirinto; também reflete a temperatura do ar ambiente e os níveis de oxigénio dissolvido.",
-                        "response": "Mantenha a tampa do aquário fechada para reter o ar quente e húmido na superfície, evitando correntes de ar frio que possam prejudicar a sua saúde respiratória."
-                    },
-                    {
-                        "name": "Exploração tátil com barbatanas pélvicas (Pelvic Fin Feeling)",
-                        "meaning": "Comportamento sensorial no qual utiliza barbatanas ricas em terminações nervosas para examinar plantas, rochas e companheiros de aquário.",
-                        "response": "Remova objetos decorativos pontiagudos que possam rasgar os seus fios delicados e providencie um aquário bem plantado."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Controlo da temperatura da água/ar e alimentação rica em carotenoides",
-                        "text": "Verifique a estabilidade da água (24–28 °C) e forneça flocos ou granulados com astaxantina para intensificar os tons néon e vermelhos."
-                    },
-                    {
-                        "name": "Tarde: Ajuste de corrente suave e cuidados com plantas flutuantes",
-                        "text": "Reduza o fluxo do filtro para manter uma corrente suave e verifique se as plantas flutuantes oferecem zonas de sombra reconfortantes."
-                    },
-                    {
-                        "name": "Noite: Refeição proteica congelada/viva e apagar gradual das luzes",
-                        "text": "Alimente com larvas de mosquito ou artémia congelada para aporte nutricional e reduza gradualmente a iluminação para um descanso noturno sem stresse."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Quais peixes são compatíveis com o Gourami Anão?",
-                        "answer": "São ideais para conviver com peixes pequenos e tranquilos, como Tetras Néon, Rasboras, Corydoras e Otocinclus. Evite peixes mordeores de barbatanas (como o Barbo Tigre) ou outros peixes territoriais com órgão labirinto (como Bettas machos ou outros Gouramis machos)."
-                    },
-                    {
-                        "question": "Por que é indispensável utilizar tampa no aquário?",
-                        "answer": "O Gourami Anão respira o ar situado imediatamente acima da superfície da água. A tampa retém o calor e a humidade, impedindo que o ar frio do ambiente cause infeções no seu delicado órgão labirinto."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Panduan Perawatan Organ Labirin Dwarf Gourami dan Rutinitas 3 Langkah Warna & Akuarium Komunitas",
-                "description": "Perawatan esensial untuk ikan Dwarf Gourami bergaris neon yang menawan. Pelajari cara mengelola udara permukaan untuk organ labirinnya, mengatur akuarium komunitas yang damai, dan mempercantik warnanya.",
-                "authority": "Standar Kualitas Air Ornamental Fish International (OFI) dan Panduan Klinis Kedokteran Hewan Akuatik",
-                "profile": {
-                    "breed": "Dwarf Gourami (Trichogaster lalius)",
-                    "lifespan": "3 ~ 5 tahun",
-                    "sleep_pattern": "8 ~ 10 jam (polifasik - beristirahat diam di dekat tanaman pada malam hari)",
-                    "temperament": "Damai, lembut, pemalu, teritorial (antar sesama jantan)"
-                },
-                "intro": "Dwarf Gourami (Trichogaster lalius) adalah ikan air tawar tropis populer yang dicintai di seluruh dunia karena pola garis biru neon dan merah-oranye yang mencolok serta sifatnya yang tenang. Dilengkapi dengan 'organ labirin' khusus, mereka memiliki kemampuan unik untuk menghirup oksigen atmosfer secara langsung dari permukaan air. Selain itu, mereka memiliki sirip dada berupa benang halus yang digunakan seperti antena peraba untuk menjelajahi lingkungan sekitar. Dalam panduan ini, kami mengulas sinyal naluriah Dwarf Gourami dan membagikan 3 langkah rutinitas harian untuk menjaga udara permukaan, meningkatkan warna alami, dan menjaga keharmonisan akuarium komunitas.",
-                "whyTitle": "Insting Dwarf Gourami: Menghirup Udara Permukaan dan Meraba dengan Sirip Benang",
-                "whyDesc": "Dwarf Gourami secara berkala naik ke permukaan air untuk menghirup udara atmosfer menggunakan organ labirinnya. Selain itu, mereka menjulurkan sirip dada berbentuk benang ke depan untuk menyentuh tanaman air, ornamen, dan teman seakuarium secara lembut guna mengenali lingkungan.",
-                "body_signals": [
-                    {
-                        "name": "Menghirup Udara Permukaan (Surface Breathing)",
-                        "meaning": "Proses pengambilan oksigen atmosfer secara normal menggunakan organ labirin; juga mencerminkan suhu udara permukaan dan kadar oksigen terlarut.",
-                        "response": "Pasang penutup akuarium untuk menjaga udara di atas permukaan air tetap hangat dan lembap, mencegah udara dingin merusak organ pernapasan."
-                    },
-                    {
-                        "name": "Eksplorasi Sirip Benang (Pelvic Fin Feeling)",
-                        "meaning": "Perilaku sensorik menggunakan sirip dada yang kaya saraf untuk memeriksa objek dan teman seakuarium karena rasa ingin tahu.",
-                        "response": "Singkirkan dekorasi tajam yang dapat merobek sirip benangnya yang halus dan sediakan tanaman air hidup yang rindang."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Pemeriksaan Suhu Air & Udara serta Pemberian Pakan Karotenoid",
-                        "text": "Pastikan suhu air stabil (24–28°C) dan berikan pakan kaya astaxanthin untuk memperjelas pigmen warna biru neon dan merah."
-                    },
-                    {
-                        "name": "Siang: Pengaturan Arus Lembut & Perawatan Tanaman Mengapung",
-                        "text": "Atur aliran filter agar tetap lembut sesuai dengan kemampuan renangnya, serta periksa tanaman mengapung yang memberikan peneduh dan rasa aman."
-                    },
-                    {
-                        "name": "Malam: Pemberian Pakan Protein Tinggi & Meredupkan Lampu Bertahap",
-                        "text": "Berikan cacing darah atau artemia beku untuk asupan nutrisi berkualitas, lalu redupkan lampu akuarium secara bertahap agar mereka dapat beristirahat tanpa stres."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Ikan apa saja yang cocok dipelihara bersama Dwarf Gourami?",
-                        "answer": "Mereka sangat cocok digabung dengan ikan kecil yang damai seperti Neon Tetra, Harlequin Rasbora, Corydoras, dan Otocinclus. Hindari ikan jahil yang suka menggigit sirip (seperti Tiger Barb) atau ikan labirin teritorial lainnya (seperti Betta jantan atau Gourami jantan lainnya)."
-                    },
-                    {
-                        "question": "Mengapa penutup akuarium sangat wajib digunakan?",
-                        "answer": "Dwarf Gourami menghirup udara tepat di atas permukaan air. Penutup akuarium berfungsi menahan panas dan kelembapan agar udara dingin dari luar ruangan tidak merusak organ labirinnya yang sensitif."
-                    }
-                ]
-            }
+  "dwarf-gourami-care": {
+    "pubDate": "2026-04-09",
+    "updatedDate": "2026-04-09",
+    "locales": {
+      "ko": {
+        "title": "드워프 구라미 라비린스 공기 호흡 관리와 발색·합사 수조 3단계 루틴",
+        "description": "화려한 네온 스트라이프의 드워프 구라미 맞춤 케어. 라비린스 기관을 보호하는 수면 공기 관리, 합사 가능한 평화로운 수조 환경, 발색 유지 영양 관리를 다룹니다.",
+        "authority": "세계관상어협회 (OFI) 수질 관리 표준 및 관상어 의학 임상 가이드라인",
+        "profile": {
+          "breed": "드워프 구라미 (Dwarf Gourami / Trichogaster lalius)",
+          "lifespan": "3 ~ 5년",
+          "sleep_pattern": "8 ~ 10시간 (야간 조명 소등 후 수초나 구조물 근처에서 정지 휴식)",
+          "temperament": "평화로움, 온순함, 수줍음, 영역 의식 (동종 수컷 간)"
         },
-        "heroImage": "/images/blog/dwarf_gourami_care.webp"
-    }
+        "intro": "드워프 구라미는 선명한 붉은색과 네온 블루 스트라이프가 조화를 이루는 화려한 외형과 온순한 성격으로 전 세계 아쿠아리스트들에게 사랑받는 대표적인 소형 열대어입니다. 아가미 외에 공기 중 산소를 직접 호흡할 수 있는 '라비린스(Labyrinth) 기관'을 가지고 있어 수면 위 공기 환경 관리가 필수적입니다. 또한 실지느러미 모양으로 변형된 가슴지느러미로 물속 환경을 탐색하는 독특한 습성이 있습니다. 이번 가이드에서는 드워프 구라미의 본능 시그널을 해석하고, 수면 공기 보호, 발색 유지 영양, 합사 수조 유지를 위한 3단계 홈케어 루틴을 소개합니다.",
+        "whyTitle": "드워프 구라미의 본능 시그널: 수면 공기 들이마시기와 실지느러미 촉수 탐색",
+        "whyDesc": "드워프 구라미는 용존 산소가 부족하거나 라비린스 기관을 활용하고자 할 때 수면 위로 주둥이를 내밀어 공기를 들이마시는 호흡 행동을 합니다. 또한 실처럼 길게 변형된 가슴지느러미(촉수)를 안테나처럼 앞뒤로 움직여 수초나 바위, 주변 물고기를 다정하게 터치하며 환경을 탐색합니다.",
+        "body_signals": [
+          {
+            "name": "수면 공기 들이마시기 (Surface Breathing)",
+            "meaning": "라비린스 기관을 이용한 정상적인 공기 호흡 행동이자, 수조 내 용존 산소량 및 수면 온도 상태를 나타내는 신호입니다.",
+            "response": "수면 위 공기 온도가 수온과 유사하도록 뚜껑을 덮어 찬 공기 유입을 막고, 환기 구멍을 확보해 줍니다."
+          },
+          {
+            "name": "실지느러미 촉수 탐색 (Pelvic Fin Feeling)",
+            "meaning": "감각 세포가 집약된 가슴지느러미로 주변 사물이나 동료를 인식하고 호기심을 해소하는 탐색 행동입니다.",
+            "response": "지느러미가 찢어지지 않도록 날카로운 수조 구조물을 제거하고 풍성한 수초 환경을 제공합니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: 수온·수면 공기 온도 점검 및 카로티노이드 사료 급여",
+            "text": "수온(24~28°C)과 수면 위 공기 온도 차이를 점검하고, 선명한 붉은색과 네온 블루 발색 유지를 위해 아스타잔틴이 풍부한 관상어 전용 사료를 급여합니다."
+          },
+          {
+            "name": "낮: 약한 수류 유지 및 부유 수초 그늘 환경 점검",
+            "text": "수류에 약한 체형 특성을 고려하여 필터 수류를 약하게 조절하고, 안정감을 주는 부유 수초(아마존 프로그비트 등) 상태를 점검합니다."
+          },
+          {
+            "name": "밤: 생먹이/냉동 먹이 급여 및 조명 소등을 통한 휴식",
+            "text": "냉동 브라인쉬림프나 장구벌레 등 고단백 생먹이로 영양을 보충하고, 조명을 단계적으로 소등하여 스트레스 없는 수초 사이 휴식을 유도합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "드워프 구라미는 어떤 물고기와 합사가 가능한가요?",
+            "answer": "네온테트라, 라스보라, 코리도라스, 오토싱 등 온순하고 작은 소형 열대어와 합사가 잘 됩니다. 단, 지느러미를 물어뜯는 수마트라(바브류)나 같은 라비린스 과인 수컷 베타, 동종 수컷 구라미와는 영역 다툼이 생길 수 있으므로 피해야 합니다."
+          },
+          {
+            "question": "수조 뚜껑을 반드시 덮어야 하는 이유는 무엇인가요?",
+            "answer": "드워프 구라미의 라비린스 기관은 수면 위의 공기를 호흡합니다. 차가운 건조 공기가 직접 유입되면 라비린스 기관에 감염이나 손상이 생길 수 있으므로, 수조 뚜껑을 덮어 수면 위 공기를 따뜻하고 습하게 유지해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Dwarf Gourami Labyrinth Air-Breathing Care and 3-Step Routine for Coloration & Community Tank",
+        "description": "Essential care for the brilliant neon-striped Dwarf Gourami. Learn to manage surface air for their labyrinth organ, set up a peaceful community aquarium, and enhance natural colors.",
+        "authority": "Ornamental Fish International (OFI) Water Quality Standards and Aquatic Veterinary Clinical Guidelines",
+        "profile": {
+          "breed": "Dwarf Gourami (Trichogaster lalius)",
+          "lifespan": "3 ~ 5 Years",
+          "sleep_pattern": "8 ~ 10 Hours (Polyphasic - Resting Stationary Near Plants at Night)",
+          "temperament": "Peaceful, Gentle, Shy, Territorial (Male-to-Male)"
+        },
+        "intro": "The Dwarf Gourami (Trichogaster lalius) is a renowned tropical freshwater fish loved worldwide for its vibrant neon blue and orange-red stripes and gentle disposition. Equipped with a specialized 'labyrinth organ,' they possess the unique ability to breathe atmospheric oxygen directly from the water surface. They also feature modified thread-like pelvic fins used as feelers to explore their environment. In this guide, we decode Dwarf Gourami instinctual signals and present a 3-step homecare routine for surface air protection, color-enhancing nutrition, and harmonious community tank maintenance.",
+        "whyTitle": "Dwarf Gourami Instincts: Surface Air Gulping and Thread-like Fin Feeling",
+        "whyDesc": "Dwarf Gouramis regularly surface to gulp atmospheric air using their specialized labyrinth organ. Additionally, they extend their modified, thread-like pelvic fins forward like sensory antennae to gently touch aquatic plants, substrate, and fellow tankmates to navigate their surroundings.",
+        "body_signals": [
+          {
+            "name": "Surface Air Gulping (Surface Breathing)",
+            "meaning": "Normal atmospheric oxygen intake using the labyrinth organ; also reflects ambient air temperature and dissolved oxygen levels.",
+            "response": "Keep an aquarium lid fitted to retain warm, humid air over the water surface, preventing cold drafts from shocking the labyrinth organ."
+          },
+          {
+            "name": "Pelvic Fin Feeling (Feeler Exploration)",
+            "meaning": "Sensory exploration behavior using nerve-rich thread-like fins to inspect objects, plants, or tankmates out of curiosity.",
+            "response": "Remove sharp decorations that could tear their delicate feelers and provide dense live plants for comfortable exploration."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: Water & Air Temp Check and Carotenoid Color Feeding",
+            "text": "Ensure water temperature remains stable (24–28°C / 75–82°F) and feed astaxanthin-enriched flakes or pellets to promote vivid neon and red coloration."
+          },
+          {
+            "name": "Afternoon: Low Water Flow Adjustment & Floating Plant Care",
+            "text": "Adjust filter outlets to create gentle, low-current water flow suited for their body shape, and check floating plants (e.g., Frogbit) that provide shade and security."
+          },
+          {
+            "name": "Evening: High-Protein Live/Frozen Feeding & Gradual Dimming",
+            "text": "Offer nutrient-dense frozen bloodworms or brine shrimp for metabolic health, then gradually dim tank lights to encourage stress-free evening rest among plant foliage."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Which tankmates are compatible with Dwarf Gouramis?",
+            "answer": "They thrive alongside peaceful, small community fish such as Neon Tetras, Harlequin Rasboras, Corydoras, and Otocinclus. Avoid aggressive fin-nippers (e.g., Tiger Barbs) or other territorial labyrinth fish (like male Bettas or rival male Gouramis)."
+          },
+          {
+            "question": "Why is an aquarium cover/lid essential for Dwarf Gouramis?",
+            "answer": "Because Dwarf Gouramis inhale air above the water line into their delicate labyrinth organ. A lid traps humidity and warmth, preventing cold room air from causing organ damage or respiratory inflammation."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ドワーフグラミーのラビリンス器官ケアと発色・混泳水槽の3ステップルーティン",
+        "description": "鮮やかなネオンストライプが美しいドワーフグラミーの専門ケア。ラビリンス器官を守る水面空気管理、平和な混泳環境、鮮やかな発色を保つ栄養管理を解説します。",
+        "authority": "世界観賞魚協会 (OFI) 水質管理基準および観賞魚医学臨床ガイドライン",
+        "profile": {
+          "breed": "ドワーフグラミー (Dwarf Gourami / Trichogaster lalius)",
+          "lifespan": "3 〜 5年",
+          "sleep_pattern": "8 〜 10時間 (夜間消灯後、水草や障害物の付近で静止して休息)",
+          "temperament": "平和、温和、臆病、なわばり意識 (オス同士)"
+        },
+        "intro": "鮮やかなオレンジレッドとネオンブルーのストライプが美しく映えるドワーフグラミーは、世界中のアクアリストに愛される小型熱帯魚の代表格です。エラ呼吸だけでなく、水面の空気から直接酸素を取り込む特殊な「ラビリンス器官」を持っているため、水面上の空気環境の管理が欠かせません。また、糸状に変化した胸ビレ（触手）を使って周りの環境を探るユニークな習性があります。本記事では、ドワーフグラミーの習性サインを解読し、水面空気の保護・発色維持・平和な混泳水槽を維持する3ステップ日常ケアをご紹介します。",
+        "whyTitle": "ドワーフグラミーの習性サイン：水面での空気呼吸と胸ビレ触手での探索",
+        "whyDesc": "ドワーフグラミーはラビリンス器官を使って直接酸素を補給するため、時折水面に口を出して空気を取り込む呼吸行動を行います。また、触覚細胞が発達した糸状の腹ビレ（触手）をアンテナのように動かし、水草や流木、混泳魚に優しく触れて周囲の状況を察知します。",
+        "body_signals": [
+          {
+            "name": "水面での空気呼吸 (Surface Breathing)",
+            "meaning": "ラビリンス器官による正常な空気呼吸行動であり、水面上の空気温度や水中の溶存酸素量を示すサインです。",
+            "response": "水槽のフタをしっかり閉めて水面上の空気温度と湿度を高く保ち、冷たい空気の落ち込みを防ぎます。"
+          },
+          {
+            "name": "胸ビレ（触手）による探索 (Pelvic Fin Feeling)",
+            "meaning": "感覚細胞が集中した腹ビレを使って障害物や仲間を確かめる、好奇心旺盛な探索行動です。",
+            "response": "繊細なヒレが傷つかないよう鋭利なレイアウト素材を避け、水草を豊富に配置してあげましょう。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：水温・空気温度チェックとアスタキサンチン給餌",
+            "text": "水温（24〜28℃）と水面上空気の温度差を確認し、鮮やかなネオンカラーと赤色を維持するためアスタキサンチン配合フードを与えます。"
+          },
+          {
+            "name": "昼：緩やかな水流の維持と浮き草の影環境チェック",
+            "text": "強い水流に弱いためフィルターの吐出口を調整して水流を弱め、安心感を与えるアマゾンフロッグピットなどの浮き草の状態を点検します。"
+          },
+          {
+            "name": "夜：高タンパク生餌・冷凍餌の給餌と段階的消灯",
+            "text": "冷凍赤虫やブラインシュリンプを与えて栄養を補給し、水槽照明を徐々に暗くして水草の陰でストレスなく休ませます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ドワーフグラミーと混泳できるおすすめの熱帯魚は？",
+            "answer": "ネオンテトラ、ラスボラ、コリドラス、オトシンクルスなどの温和で大人しい小型熱帯魚と非常に相性が良いです。ただし、ヒレをかじるスマトラや、同じラビリンス類であるベタ（オス）や他のグラミーのオス同士は争うため避けましょう。"
+          },
+          {
+            "question": "なぜ水槽のフタを閉める必要がありますか？",
+            "answer": "ドワーフグラミーは水面上の空気を取り込んでラビリンス器官で呼吸します。冷たく乾燥した外気が直接触れると、ラビリンス器官に障害や炎症を起こすリスクがあるため、フタをして保温・保湿することが必須です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "侏儒丽丽鱼（Dwarf Gourami）迷鳃呼吸护理与发色·混养水族箱3阶段日常指南",
+        "description": "针对拥有绚丽霓虹条纹的侏儒丽丽鱼（Dwarf Gourami）专属护理。学习保护其迷鳃器官的水面空气管理、和平混养环境设置及维持靓丽色彩的营养供给。",
+        "authority": "国际观赏鱼协会 (OFI) 水质管理标准与观赏鱼临床兽医学指南",
+        "profile": {
+          "breed": "侏儒丽丽鱼 / 拉利毛足鲈 (Dwarf Gourami / Trichogaster lalius)",
+          "lifespan": "3 ~ 5年",
+          "sleep_pattern": "8 ~ 10小时 (夜间熄灯后在水草与遮蔽物旁静止休息)",
+          "temperament": "和平、温和、害羞、有领地意识 (同种雄性之间)"
+        },
+        "intro": "侏儒丽丽鱼（Dwarf Gourami）以其绚丽的霓虹蓝与鲜艳橙红条纹相间的外表，以及温和的性格深受全球水族爱好者的喜爱。它们拥有除了鳃之外可以直接呼吸空气中氧气的特殊“迷鳃器官（Labyrinth Organ）”，因此水面上的空气环境管理至关重要。此外，它们还拥有由腹鳍演化而来的丝状触手，用以探索水下环境。本指南将解析侏儒丽丽鱼的本能信号，并分享保护水面空气、维持靓丽发色与保持混养缸和谐的3阶段每日护理流程。",
+        "whyTitle": "侏儒丽丽鱼的本能信号：水面换气与丝状腹鳍触摸探索",
+        "whyDesc": "侏儒丽丽鱼需要借助迷鳃器官补充氧气，因此会定期将嘴伸出水面进行吞咽空气的呼吸行为。同时，它们演化成丝状的腹鳍富含触觉细胞，会像天线一样前后移动，温柔地触碰水草、沉木或同伴以感知周围环境。",
+        "body_signals": [
+          {
+            "name": "水面吞咽空气 (Surface Breathing)",
+            "meaning": "利用迷鳃器官进行的正常呼吸行为，同时也反映了水面空气温度与水体溶氧量状态。",
+            "response": "盖紧水族箱盖子以保持水面上方空气温暖湿润，防止冷空气吸入刺激迷鳃器官。"
+          },
+          {
+            "name": "丝状腹鳍触摸探索 (Pelvic Fin Feeling)",
+            "meaning": "利用高度敏感的腹鳍触碰周围物体或同伴，出自好奇心探索环境的本能行为。",
+            "response": "移除可能撕裂其娇嫩触手的尖锐装饰物，并种植密集的真水草供其探索。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：水温与水面气温检查及富含虾青素饲料喂食",
+            "text": "检查水温（24–28°C）与水面空气温差，投喂富含虾青素的高品质观赏鱼饲料以维持其靓丽色彩。"
+          },
+          {
+            "name": "中午：微弱水流调节与浮萍遮荫环境检查",
+            "text": "考虑到其不善强水流的体型，将过滤器水流调至缓和状态，并检查圆心萍等浮水植物是否提供良好的遮荫与安全感。"
+          },
+          {
+            "name": "晚上：高蛋白冷冻/活体喂食与渐进式熄灯",
+            "text": "投喂丰年虾或血虫补充营养，随后渐进式关闭水族箱灯光，引导其在水草丛中无压力地休息。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "侏儒丽丽鱼适合与哪些观赏鱼混养？",
+            "answer": "它们非常适合与温和的小型热带鱼混养，如红绿灯鱼、宝莲灯、三角灯鱼、鼠鱼和红线绿葵等。但应避免与爱咬鳍的虎皮鱼，或同样拥有领地意识的斗鱼（雄性）及其他丽丽鱼雄鱼混养。"
+          },
+          {
+            "question": "为什么水族箱必须盖上盖子？",
+            "answer": "侏儒丽丽鱼需要直接吸入水面上的空气。如果室内冷空气直接接触水面，会导致吸入的空气过冷，从而损害其娇嫩的迷鳃器官引发呼吸道感染。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Guía de cuidado del órgano laberinto del Gurami Enano y rutina de 3 pasos para coloración y acuario comunitario",
+        "description": "Cuidado esencial para el vistoso Gurami Enano (Dwarf Gourami) de rayas neón. Aprenda a gestionar el aire superficial para su órgano laberinto, configurar un acuario comunitario pacífico y realzar sus colores.",
+        "authority": "Estándares de Calidad del Agua de Ornamental Fish International (OFI) y Guías de Medicina Veterinaria Acuática",
+        "profile": {
+          "breed": "Gurami Enano (Dwarf Gourami / Trichogaster lalius)",
+          "lifespan": "3 ~ 5 años",
+          "sleep_pattern": "8 ~ 10 horas (polifásico: descanso inmóvil cerca de las plantas por la noche)",
+          "temperament": "Pacífico, dócil, tímido, territorial (entre machos de la misma especie)"
+        },
+        "intro": "El Gurami Enano (Trichogaster lalius) es un pez tropical de agua dulce emblemático, adorado mundialmente por sus vívidas franjas azul neón y rojo-naranja y su carácter pacífico. Dotado de un 'órgano laberinto' especializado, posee la capacidad única de respirar oxígeno atmosférico directamente de la superficie del agua. Además, cuenta con aletas pélvicas filiformes que utiliza como antenas táctiles para explorar su entorno. En esta guía, desciframos las señales instintivas del Gurami Enano y presentamos una rutina de 3 pasos para proteger el aire superficial, realzar su coloración y mantener un acuario comunitario armónico.",
+        "whyTitle": "Instintos del Gurami Enano: Bocanadas de aire en la superficie y exploración táctil",
+        "whyDesc": "El Gurami Enano sube periódicamente a la superficie para tomar aire atmosférico a través de su órgano laberinto. Asimismo, extiende sus aletas pélvicas modificadas en forma de hilos hacia adelante para tocar suavemente las plantas, el sustrato y a sus compañeros de acuario.",
+        "body_signals": [
+          {
+            "name": "Bocanadas de aire en la superficie (Surface Breathing)",
+            "meaning": "Ingreso normal de oxígeno atmosférico usando el órgano laberinto; también refleja la temperatura del aire ambiente y el nivel de oxígeno disuelto.",
+            "response": "Coloque una tapa en el acuario para retener el aire cálido y húmedo sobre la superficie, evitando corrientes frías que puedan dañar su sistema respiratorio."
+          },
+          {
+            "name": "Exploración con aletas filiformes (Pelvic Fin Feeling)",
+            "meaning": "Comportamiento sensorial con sus aletas enriquecidas de terminaciones nerviosas para inspeccionar objetos, plantas y peces por curiosidad.",
+            "response": "Retire decoraciones afiladas que puedan rasgar sus finos filamentos y proporcione plantas naturales abundantes."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Control de temperatura de agua y aire y alimento rico en carotenoides",
+            "text": "Verifique que la temperatura del agua se mantenga estable (24–28 °C) y proporcione alimento con astaxantina para potenciar los tonos rojos y azul neón."
+          },
+          {
+            "name": "Tarde: Ajuste de corriente suave y cuidado de plantas flotantes",
+            "text": "Reduzca el flujo del filtro para evitar corrientes fuertes e inspeccione plantas flotantes que brinden sombra y tranquilidad."
+          },
+          {
+            "name": "Noche: Alimentación viva/congelada rica en proteínas y apagado gradual de luces",
+            "text": "Ofrezca larva roja o artemia congelada para complementar su nutrición, y atenúe las luces gradualmente para un descanso nocturno sin estrés."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Qué peces son compatibles con el Gurami Enano?",
+            "answer": "Son ideales para compartir tanque con peces pequeños y pacíficos como Tetras Neón, Rasboras, Corydoras y Otocinclus. Evite peces mordedores de aletas (como el Barbo Tigre) o peces laberinto territoriales (como Bettas machos u otros Guramis machos)."
+          },
+          {
+            "question": "¿Por qué es imprescindible poner tapa al acuario?",
+            "answer": "El Gurami Enano inhala el aire situado inmediatamente sobre el agua. Una tapa conserva el calor y la humedad, evitando que el aire frío de la habitación dañe su delicado órgano laberinto."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Soins de l'organe labyrinthe du Gourami Nain et routine en 3 étapes pour la coloration et l'aquarium communautaire",
+        "description": "Soins essentiels pour le brillant Gourami Nain (Dwarf Gourami) aux rayures néon. Apprenez à gérer l'air de surface pour son organe labyrinthe, aménager un bac communautaire paisible et rehausser ses couleurs.",
+        "authority": "Normes de Qualité de l'Eau de l'Ornamental Fish International (OFI) et Directives Cliniques de Médecine Vétérinaire Aquatique",
+        "profile": {
+          "breed": "Gourami Nain (Dwarf Gourami / Trichogaster lalius)",
+          "lifespan": "3 ~ 5 ans",
+          "sleep_pattern": "8 ~ 10 heures (polyphasique : repos immobile près des plantes la nuit)",
+          "temperament": "Paisible, doux, timide, territorial (entre mâles de la même espèce)"
+        },
+        "intro": "Le Gourami Nain (Trichogaster lalius) est un poisson d'eau douce tropicale emblématique, très apprécié dans le monde entier pour ses rayures bleu néon et rouge-orange et son comportement paisible. Équipé d'un 'organe labyrinthe' spécialisé, il possède la capacité unique de respirer l'oxygène atmosphérique à la surface de l'eau. Il possède également des nageoires pelviennes filiformes qu'il utilise comme antennes tactiles pour explorer son environnement. Dans ce guide, nous décryptons les signaux instinctifs du Gourami Nain et vous proposons une routine en 3 étapes pour préserver l'air de surface, optimiser sa coloration et maintenir la concorde dans votre aquarium.",
+        "whyTitle": "Instincts du Gourami Nain : Prise d'air en surface et exploration avec les nageoires filiformes",
+        "whyDesc": "Le Gourami Nain monte régulièrement à la surface pour avaler de l'air ambiant grâce à son organe labyrinthe. De plus, il déploie ses nageoires pelviennes transformées en longs fils tactiles pour toucher doucement les plantes, le décor et ses compagnons de bac.",
+        "body_signals": [
+          {
+            "name": "Prise d'air à la surface (Surface Breathing)",
+            "meaning": "Aspiration normale d'oxygène atmosphérique via l'organe labyrinthe ; témoigne aussi de la température de l'air ambiant et de l'oxygénation de l'eau.",
+            "response": "Maintenez un couvercle sur l'aquarium pour piéger un air chaud et humide au-dessus de l'eau, évitant ainsi les courants d'air froids."
+          },
+          {
+            "name": "Exploration tactile des nageoires (Pelvic Fin Feeling)",
+            "meaning": "Comportement sensoriel à l'aide de nageoires filiformes riches en terminaisons nerveuses pour inspecter le décor et les poissons voisins.",
+            "response": "Éliminez les éléments de décor tranchants qui pourraient déchirer ses filaments et offrez un bac bien planté."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Contrôle des températures de l'eau/air et alimentation riche en caroténoïdes",
+            "text": "Vérifiez la stabilité de l'eau (24–28 °C) et distribuez des flocons ou granulés riches en astaxanthine pour faire ressortir les pigments néon et rouges."
+          },
+          {
+            "name": "Après-midi : Maintien d'un courant doux et entretien des plantes flottantes",
+            "text": "Réglez la filtration pour conserver un brassage léger adapté à sa nage, et vérifiez que les plantes flottantes lui offrent des zones d'ombre rassurantes."
+          },
+          {
+            "name": "Soir : Repas protéiné congelé/vivant et extinction progressive des feux",
+            "text": "Proposez des vers de vase ou des artémias congelés pour un apport protéique optimal, puis diminuez progressivement l'éclairage pour favoriser un repos nocturne sans stress."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Quels poissons peuvent cohabiter avec le Gourami Nain ?",
+            "answer": "Il s'entend très bien avec de petits poissons paisibles comme les Tétras Néon, les Rasboras, les Corydoras et les Otocinclus. Évitez les poissons mordeurs de nageoires (comme le Barbeau Tigre) et les autres mâles territoriaux à labyrinthe (comme les Bettas mâles ou d'autres Gouramis mâles)."
+          },
+          {
+            "question": "Pourquoi faut-il impérativement utiliser un couvercle d'aquarium ?",
+            "answer": "Le Gourami Nain respire l'air situé directement au-dessus du plan d'eau. Un couvercle conserve la chaleur et l'humidité nécessaires pour éviter que l'air froid de la pièce ne blesse son organe labyrinthe fragile."
+          }
+        ]
+      },
+      "de": {
+        "title": "Zwergfadenfisch Labyrinth-Atempflege und 3-Schritte-Routine für Ausfärbung & Gesellschaftsbecken",
+        "description": "Essenzielle Pflege für den prachtvollen Zwergfadenfisch (Dwarf Gourami) mit Neonstreifen. Erfahren Sie, wie Sie die Oberflächenluft für das Labyrinthorgan pflegen, ein friedliches Aquarium einrichten und die Farben fördern.",
+        "authority": "Wasserqualitätsstandards der Ornamental Fish International (OFI) und Aquaristik-Veterinärmedizinische Leitlinien",
+        "profile": {
+          "breed": "Zwergfadenfisch (Dwarf Gourami / Trichogaster lalius)",
+          "lifespan": "3 ~ 5 Jahre",
+          "sleep_pattern": "8 ~ 10 Stunden (polyphasisch - ruhiges Verharren nahe Pflanzen in der Nacht)",
+          "temperament": "Friedlich, sanft, scheu, revierbildend (unter Männchen)"
+        },
+        "intro": "Der Zwergfadenfisch (Trichogaster lalius) ist ein weltweit beliebter tropischer Süßwasserfisch, der durch seine leuchtend neonblauen und orangeroten Streifen sowie sein ruhiges Gemüt besticht. Ausgestattet mit einem speziellen 'Labyrinthorgan' kann er atmosphärischen Sauerstoff direkt an der Wasseroberfläche atmen. Zudem besitzt er fadenförmig umgewandelte Bauchflossen, die er wie Fühler zur Erkundung der Umgebung nutzt. Heute entschlüsselt  die Verhaltensweisen des Zwergfadenfischs und zeigt eine 3-Schritte-Routine für den Schutz der Oberflächenluft, farbfördernde Ernährung und ein harmonisches Gesellschaftsbecken.",
+        "whyTitle": "Instinkte des Zwergfadenfischs: Luftschnappen an der Oberfläche und Ertasten mit Fadenflossen",
+        "whyDesc": "Zwergfadenfische steigen regelmäßig an die Wasseroberfläche auf, um mit ihrem Labyrinthorgan Luft aufzunehmen. Zudem strecken sie ihre fadenförmigen Bauchflossen nach vorne aus, um Wasserpflanzen, Einrichtungsgegenstände und Mitbewohner sanft zu ertasten.",
+        "body_signals": [
+          {
+            "name": "Luftschnappen an der Oberfläche (Surface Breathing)",
+            "meaning": "Normale Sauerstoffaufnahme aus der Luft über das Labyrinthorgan; zeigt auch Raumlufttemperatur und Sauerstoffsättigung an.",
+            "response": "Setzen Sie eine Aquarienabdeckung ein, um feuchtwarme Luft über dem Wasser zu halten und kalte Zugluft vom Atemorgan fernzuhalten."
+          },
+          {
+            "name": "Ertasten mit den Fadenflossen (Pelvic Fin Feeling)",
+            "meaning": "Sensorisches Erkundungsverhalten mit den nervenreichen Fadenflossen, um Objekte und andere Fische neugierig zu untersuchen.",
+            "response": "Entfernen Sie scharfkantige Dekorationen, die die empfindlichen Fäden verletzen könnten, und bieten Sie dichte Bepflanzung."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: Wasser- & Lufttemperaturkontrolle und Carotinoid-Fütterung",
+            "text": "Prüfen Sie die Wassertemperatur (24–28 °C) und füttern Sie astaxanthinreiches Markenfutter für kräftige Neon- und Rottöne."
+          },
+          {
+            "name": "Nachmittag: Sanfte Strömungseinstellung & Schwimmpflanzen-Pflege",
+            "text": "Drosseln Sie die Filterströmung auf ein ruhiges Niveau und kontrollieren Sie Schwimmpflanzen (z. B. Muschelblumen), die Schatten und Schutz bieten."
+          },
+          {
+            "name": "Abend: Proteinreiche Lebend-/Frostfütterung & stufenweises Dimmen",
+            "text": "Geben Sie Frost-Mückenlarven oder Artemia für eine optimale Nährstoffversorgung und dimmen Sie das Licht langsam für eine stressfreie Nachtruhe."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Welche Fische passen zum Zwergfadenfisch im Gesellschaftsbecken?",
+            "answer": "Er eignet sich hervorragend für die Vergesellschaftung mit kleinen, friedlichen Arten wie Neonsalmlern, Keilfleckbärblingen, Panzerwelsen und Ohrgitter-Harnischwelsen. Meiden Sie Flossenbeißer (wie Sumatrabarben) und andere revierbildende Labyrinthfische (wie Kampffisch-Männchen oder rivalisierende Fadenfisch-Männchen)."
+          },
+          {
+            "question": "Warum ist eine Abdeckung für das Aquarium zwingend erforderlich?",
+            "answer": "Der Zwergfadenfisch atmet die Luft direkt über der Wasseroberfläche ein. Eine Abdeckung hält die Luft warm und feucht, wodurch verhindert wird, dass kalte Raumluft zu Entzündungen des Labyrinthorgans führt."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Guia de cuidados com o órgão labirinto do Gourami Anão e rotina de 3 passos para coloração e aquário comunitário",
+        "description": "Cuidados essenciais para o vibrante Gourami Anão (Dwarf Gourami) de listras néon. Saiba como gerir o ar da superfície para o seu órgão labirinto, montar um aquário comunitário tranquilo e realçar as suas cores.",
+        "authority": "Padrões de Qualidade da Água da Ornamental Fish International (OFI) e Diretrizes Clínicas de Medicina Veterinária Aquática",
+        "profile": {
+          "breed": "Gourami Anão (Dwarf Gourami / Trichogaster lalius)",
+          "lifespan": "3 ~ 5 anos",
+          "sleep_pattern": "8 ~ 10 horas (polifásico: repouso imóvel junto às plantas à noite)",
+          "temperament": "Pacífico, dócil, tímido, territorial (entre machos da mesma espécie)"
+        },
+        "intro": "O Gourami Anão (Trichogaster lalius) é um dos peixes tropicais de água doce mais populares do mundo, admirado pelas suas cores vibrantes azul néon e vermelho-alaranjado e pelo seu temperamento calmo. Dotado de um 'órgão labirinto' especializado, possui a capacidade única de respirar oxigénio atmosférico diretamente da superfície da água. Além disso, apresenta barbatanas pélvicas em forma de fios que utiliza como antenas táteis para explorar o ambiente. Neste guia, descodificamos os sinais instintivos do Gourami Anão e apresentamos uma rotina de 3 passos para proteger o ar de superfície, potencializar a sua coloração e manter a harmonia no aquário comunitário.",
+        "whyTitle": "Instintos do Gourami Anão: Respiração de ar na superfície e exploração com barbatanas táteis",
+        "whyDesc": "O Gourami Anão sobe regularmente à superfície para aspirar ar atmosférico através do seu órgão labirinto. Além disso, projeta as suas barbatanas pélvicas modificadas em forma de fios para tocar suavemente nas plantas, no substrato e noutros peixes do aquário.",
+        "body_signals": [
+          {
+            "name": "Respiração de ar na superfície (Surface Breathing)",
+            "meaning": "Absorção normal de oxigénio atmosférico pelo órgão labirinto; também reflete a temperatura do ar ambiente e os níveis de oxigénio dissolvido.",
+            "response": "Mantenha a tampa do aquário fechada para reter o ar quente e húmido na superfície, evitando correntes de ar frio que possam prejudicar a sua saúde respiratória."
+          },
+          {
+            "name": "Exploração tátil com barbatanas pélvicas (Pelvic Fin Feeling)",
+            "meaning": "Comportamento sensorial no qual utiliza barbatanas ricas em terminações nervosas para examinar plantas, rochas e companheiros de aquário.",
+            "response": "Remova objetos decorativos pontiagudos que possam rasgar os seus fios delicados e providencie um aquário bem plantado."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Controlo da temperatura da água/ar e alimentação rica em carotenoides",
+            "text": "Verifique a estabilidade da água (24–28 °C) e forneça flocos ou granulados com astaxantina para intensificar os tons néon e vermelhos."
+          },
+          {
+            "name": "Tarde: Ajuste de corrente suave e cuidados com plantas flutuantes",
+            "text": "Reduza o fluxo do filtro para manter uma corrente suave e verifique se as plantas flutuantes oferecem zonas de sombra reconfortantes."
+          },
+          {
+            "name": "Noite: Refeição proteica congelada/viva e apagar gradual das luzes",
+            "text": "Alimente com larvas de mosquito ou artémia congelada para aporte nutricional e reduza gradualmente a iluminação para um descanso noturno sem stresse."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Quais peixes são compatíveis com o Gourami Anão?",
+            "answer": "São ideais para conviver com peixes pequenos e tranquilos, como Tetras Néon, Rasboras, Corydoras e Otocinclus. Evite peixes mordeores de barbatanas (como o Barbo Tigre) ou outros peixes territoriais com órgão labirinto (como Bettas machos ou outros Gouramis machos)."
+          },
+          {
+            "question": "Por que é indispensável utilizar tampa no aquário?",
+            "answer": "O Gourami Anão respira o ar situado imediatamente acima da superfície da água. A tampa retém o calor e a humidade, impedindo que o ar frio do ambiente cause infeções no seu delicado órgão labirinto."
+          }
+        ]
+      },
+      "id": {
+        "title": "Panduan Perawatan Organ Labirin Dwarf Gourami dan Rutinitas 3 Langkah Warna & Akuarium Komunitas",
+        "description": "Perawatan esensial untuk ikan Dwarf Gourami bergaris neon yang menawan. Pelajari cara mengelola udara permukaan untuk organ labirinnya, mengatur akuarium komunitas yang damai, dan mempercantik warnanya.",
+        "authority": "Standar Kualitas Air Ornamental Fish International (OFI) dan Panduan Klinis Kedokteran Hewan Akuatik",
+        "profile": {
+          "breed": "Dwarf Gourami (Trichogaster lalius)",
+          "lifespan": "3 ~ 5 tahun",
+          "sleep_pattern": "8 ~ 10 jam (polifasik - beristirahat diam di dekat tanaman pada malam hari)",
+          "temperament": "Damai, lembut, pemalu, teritorial (antar sesama jantan)"
+        },
+        "intro": "Dwarf Gourami (Trichogaster lalius) adalah ikan air tawar tropis populer yang dicintai di seluruh dunia karena pola garis biru neon dan merah-oranye yang mencolok serta sifatnya yang tenang. Dilengkapi dengan 'organ labirin' khusus, mereka memiliki kemampuan unik untuk menghirup oksigen atmosfer secara langsung dari permukaan air. Selain itu, mereka memiliki sirip dada berupa benang halus yang digunakan seperti antena peraba untuk menjelajahi lingkungan sekitar. Dalam panduan ini, kami mengulas sinyal naluriah Dwarf Gourami dan membagikan 3 langkah rutinitas harian untuk menjaga udara permukaan, meningkatkan warna alami, dan menjaga keharmonisan akuarium komunitas.",
+        "whyTitle": "Insting Dwarf Gourami: Menghirup Udara Permukaan dan Meraba dengan Sirip Benang",
+        "whyDesc": "Dwarf Gourami secara berkala naik ke permukaan air untuk menghirup udara atmosfer menggunakan organ labirinnya. Selain itu, mereka menjulurkan sirip dada berbentuk benang ke depan untuk menyentuh tanaman air, ornamen, dan teman seakuarium secara lembut guna mengenali lingkungan.",
+        "body_signals": [
+          {
+            "name": "Menghirup Udara Permukaan (Surface Breathing)",
+            "meaning": "Proses pengambilan oksigen atmosfer secara normal menggunakan organ labirin; juga mencerminkan suhu udara permukaan dan kadar oksigen terlarut.",
+            "response": "Pasang penutup akuarium untuk menjaga udara di atas permukaan air tetap hangat dan lembap, mencegah udara dingin merusak organ pernapasan."
+          },
+          {
+            "name": "Eksplorasi Sirip Benang (Pelvic Fin Feeling)",
+            "meaning": "Perilaku sensorik menggunakan sirip dada yang kaya saraf untuk memeriksa objek dan teman seakuarium karena rasa ingin tahu.",
+            "response": "Singkirkan dekorasi tajam yang dapat merobek sirip benangnya yang halus dan sediakan tanaman air hidup yang rindang."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pemeriksaan Suhu Air & Udara serta Pemberian Pakan Karotenoid",
+            "text": "Pastikan suhu air stabil (24–28°C) dan berikan pakan kaya astaxanthin untuk memperjelas pigmen warna biru neon dan merah."
+          },
+          {
+            "name": "Siang: Pengaturan Arus Lembut & Perawatan Tanaman Mengapung",
+            "text": "Atur aliran filter agar tetap lembut sesuai dengan kemampuan renangnya, serta periksa tanaman mengapung yang memberikan peneduh dan rasa aman."
+          },
+          {
+            "name": "Malam: Pemberian Pakan Protein Tinggi & Meredupkan Lampu Bertahap",
+            "text": "Berikan cacing darah atau artemia beku untuk asupan nutrisi berkualitas, lalu redupkan lampu akuarium secara bertahap agar mereka dapat beristirahat tanpa stres."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Ikan apa saja yang cocok dipelihara bersama Dwarf Gourami?",
+            "answer": "Mereka sangat cocok digabung dengan ikan kecil yang damai seperti Neon Tetra, Harlequin Rasbora, Corydoras, dan Otocinclus. Hindari ikan jahil yang suka menggigit sirip (seperti Tiger Barb) atau ikan labirin teritorial lainnya (seperti Betta jantan atau Gourami jantan lainnya)."
+          },
+          {
+            "question": "Mengapa penutup akuarium sangat wajib digunakan?",
+            "answer": "Dwarf Gourami menghirup udara tepat di atas permukaan air. Penutup akuarium berfungsi menahan panas dan kelembapan agar udara dingin dari luar ruangan tidak merusak organ labirinnya yang sensitif."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/dwarf_gourami_care.webp"
+  }
 }

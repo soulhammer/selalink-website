@@ -1,406 +1,406 @@
 {
-    "how-to-store-cauliflower": {
-        "ingId": "cauliflower",
-        "pubDate": "2026-02-25",
-        "updatedDate": "2026-02-25",
-        "heroImage": "/images/blog/cauliflower_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "콜리플라워 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 콜리플라워의 최적 보관 온도, 글루코시놀레이트 영양소 보존 및 에틸렌 차단 황화 방지 가이드를 확인하세요.",
-                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "담백한 맛과 뛰어난 영양, 다이어터들의 탄수화물 대체재로 전 세계에서 사랑받는 대표적인 십자화과 채소 콜리플라워! 하지만 사온 지 얼마 안 되어 금방 노랗게 변색되거나 검은 반점이 생겨 버린 경험 다들 있으시죠? 🥦\n\n콜리플라워는 수확 후 호흡률이 매우 높은 채소로, 시간이 지남에 따라 강력한 항암 물질인 **글루코시놀레이트(Glucosinolate)**와 비타민 C가 빠르게 자가 분해됩니다. 또한 사과나 바나나 등에서 방출되는 천연 에틸렌(Ethylene) 가스에 노출되면 황화 현상(노란 변색)과 함께 엽록소 및 조직 파괴가 급격히 진행됩니다.\n\n이번 가이드에서는 농업 및 식품 안전 기관의 공인된 지침을 바탕으로, 콜리플라워의 호흡속도를 낮추고 핵심 영양소를 보존하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "에틸렌 방출 과일 및 채소와 엄격히 격리하세요 ⚠️",
-                        "desc": "콜리플라워는 에틸렌 가스에 매우 민감합니다. 사과, 바나나, 토마토 등 에틸렌을 다량 방출하는 식재료와 같은 공간에 두면 꽃봉오리가 순식간에 노랗게 변하고 조직이 무너지므로 완전히 분리 보관해야 합니다."
-                    },
-                    {
-                        "title": "보관 전 물로 씻지 말고 높은 습도를 유지하세요 💧",
-                        "desc": "보관 전 물로 씻으면 꽃봉오리 틈새에 수분이 갇혀 곰팡이와 검은 반점이 생기기 쉽습니다. 마른 상태를 유지하되, 상대습도 90~95% 환경을 조성해 수분 증발을 막아야 아삭함이 오래 유지됩니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "씻지 않은 상태로 키친타월 감싸기 — 수분 조절 및 착색 방지 📦",
-                        "text": "콜리플라워 표면에 묻은 이물질만 털어내고, 키친타월이나 신문지로 겉면을 감싸주세요. 💡 보관 팁: 잎이 붙어있다면 잎을 제거하지 말고 그대로 감싸는 것이 수분 보호에 유리합니다. 키친타월이 과도한 습기는 흡수하고 건조함은 막아주어 곰팡이 발생과 황화 현상을 1차적으로 방지합니다."
-                    },
-                    {
-                        "name": "0~2℃ 및 상대습도 90~95% 저온 냉장 보관하기 — 저온 신선 보관 (1~2주) ❄️",
-                        "text": "콜리플라워의 호흡률을 극소화하여 영양소 분해를 막는 최적 온도는 0~2℃입니다. 💡 보관 팁: 키친타월로 감싼 콜리플라워를 느슨한 비닐봉지나 밀폐 용기에 담아 냉장고 야채실(0~2℃)에 보관하세요. 글루코시놀레이트와 비타민 C 소실이 최소화되어 1~2주간 신선하게 유지됩니다."
-                    },
-                    {
-                        "name": "살짝 데친 후 -18℃ 이하 장기 냉동 보관하기 — 데침(Blanching) 냉동 보관 (10~12개월) 🧊",
-                        "text": "콜리플라워를 오랫동안 보관하려면 데침(Blanching) 과정을 거쳐 효소 활성을 정지시켜야 합니다. 💡 보관 팁: 한 입 크기로 잘라 소금물에 1~2분간 살짝 데친 후 찬물에 식히고 수분을 완전 제거하세요. 그 후 지퍼백에 밀봉해 냉동실(-18℃ 이하)에 보관하면 영양 손실 없이 10~12개월간 활용할 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "콜리플라워 표면에 검은 반점(점상 변색)이 생겼는데 먹어도 되나요?",
-                        "answer": "표면에 생긴 미세한 검은 반점은 수분과 공기 노출로 인한 산화 현상 또는 초기 곰팡이일 수 있습니다. 반점이 넓지 않고 내부 과육이 단단하다면 칼로 검은 부분만 깊게 도려낸 후 데쳐서 드셔도 무방합니다. 하지만 넓은 부위에 곰팡이가 피었거나 악취가 난다면 즉시 폐기해야 합니다."
-                    },
-                    {
-                        "question": "냉동 전 왜 생으로 얼리지 않고 살짝 데쳐야 하나요?",
-                        "answer": "콜리플라워를 생으로 냉동하면 내부 자가 분해 효소가 계속 활성화되어 영양소(비타민 C, 글루코시놀레이트)가 파괴되고 해동 시 살이 물러져 수용성 즙이 다 빠져나갑니다. 끓는 물에 살짝 데치면 이 효소가 불활성화되어 맛, 색상, 아삭한 식감 및 영양소를 완벽히 보존할 수 있습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Cauliflower Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for cauliflower based on official safety guidelines to preserve glucosinolates and prevent ethylene yellowing.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Beloved globally as a nutrient-dense cruciferous vegetable and a low-carb substitute in Western and Indian cuisine! However, have you ever stored cauliflower only to find it turning yellow or developing black spots? 🥦\n\nCauliflower has a very high post-harvest respiration rate, causing its powerful anti-cancer compound **Glucosinolate** and Vitamin C to rapidly decompose. Additionally, exposure to natural Ethylene gas emitted by fruits accelerates yellowing (chlorophyll breakdown) and tissue degradation.\n\nIn this guide, we introduce a scientifically proven 3-step cauliflower storage guide based on guidelines from agricultural and food safety authorities to slow respiration and protect key nutrients. 🛡️",
-                "whyTitle": "Why Store Cauliflower This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Strictly isolate from ethylene-emitting produce ⚠️",
-                        "desc": "Cauliflower is extremely sensitive to ethylene gas. Storing it near apples, bananas, or tomatoes causes rapid yellowing of curds and structural collapse. Keep them completely separated."
-                    },
-                    {
-                        "title": "Do not wash before storing; maintain high humidity 💧",
-                        "desc": "Washing before storage traps moisture between florets, promoting mold and dark spots. Keep dry while maintaining 90–95% relative humidity to preserve crispness."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Wrap unwashed head in paper towels — Moisture Control & Browning Protection 📦",
-                        "text": "Brush off any dirt without washing and wrap the head in paper towels. 💡 Storage Tip: Leaving outer leaves attached helps retain moisture. Paper towels absorb excess humidity and prevent drying out, providing a barrier against yellowing."
-                    },
-                    {
-                        "name": "Refrigerate at 0–2°C and 90–95% RH — Cold Storage (1–2 Weeks) ❄️",
-                        "text": "The optimal temperature to minimize respiration rate and nutrient breakdown is 0–2°C (32–36°F) with 90–95% relative humidity. 💡 Storage Tip: Place the wrapped head in a loose plastic bag or container in the crisper drawer to keep it fresh for 1 to 2 weeks."
-                    },
-                    {
-                        "name": "Blanch and flash freeze below -18°C — Freezer Storage (10–12 Months) 🧊",
-                        "text": "For long-term storage, blanching is essential to deactivate auto-lytic enzymes. 💡 Storage Tip: Cut into florets, blanch in boiling salted water for 1–2 minutes, cool in ice water, dry completely, and freeze in Ziploc bags (-18°C / 0°F) for 10 to 12 months."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Is cauliflower with tiny black spots on the head safe to eat?",
-                        "answer": "Minor black specks on the surface are typically oxidation or superficial mold caused by moisture and light exposure. If curds remain firm, slice off the spots deeply and cook. However, if spots are widespread or mushy, discard immediately."
-                    },
-                    {
-                        "question": "Why must cauliflower be blanched before freezing instead of frozen raw?",
-                        "answer": "Freezing raw cauliflower allows internal enzymes to remain active, destroying Vitamin C and glucosinolates while making the florets mushy upon thawing. Blanching deactivates these enzymes, locking in color, crisp texture, and nutrients."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "カリフラワーを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくカリフラワーの最適な保存温度、グルコシノレートの栄養保持、エチレンによる黄化防止ガイドをご確認ください。",
-                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "低糖質ダイエットの主食代替品や西洋・インド料理で世界中で愛されるアブラナ科野菜のカリフラワー！ですが、買ってきたばかりなのにすぐに黄色く変色したり、黒い斑点ができて捨ててしまった経験はありませんか？🥦\n\nカリフラワーは収穫後の呼吸率が非常に高い野菜で、時間の経過とともに強力な抗がん物質である**グルコシノレート（Glucosinolate）**やビタミンCが急速に自己分解されます。また、リンゴやバナナなどから発生するエチレンガスに触れると、黄化現象（黄変）と葉緑素・組織の破壊が急激に進みます。\n\n本記事では、農学および食品安全機関の公認ガイドラインに基づき、カリフラワーの呼吸速度を抑え、核心栄養素を守る3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "エチレンガスを放出する果物・野菜と厳重に隔離してください ⚠️",
-                        "desc": "カリフラワーはエチレンガスに非常に敏感です。リンゴ、バナナ、トマトなどエチレンを多く放出する食材と同じ場所に置くと、蕾がすぐに黄色くなり組織が崩れてしまうため、完全に分けて保存する必要があります。"
-                    },
-                    {
-                        "title": "保存前に水洗いせず、高い湿度を維持してください 💧",
-                        "desc": "保存前に水洗いすると蕾の隙間に水分が溜まり、カビや黒い斑点が発生しやすくなります。濡らさない状態を保ちつつ、相対湿度90〜95%の環境を作って水分蒸発を防ぐことでシャキシャキ感が長持ちします。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "洗わずにキッチンペーパーで包む — 水分調節＆黄化防止 📦",
-                        "text": "カリフラワー表面の汚れを払い落とし、キッチンペーパーや新聞紙で外側を包みます。💡保存のコツ：葉がついている場合は切り落とさずそのまま包む方が水分保持に効果的です。ペーパーが余分な湿気を吸収し乾燥を防ぎます。"
-                    },
-                    {
-                        "name": "0〜2℃および相対湿度90〜95%の低温で冷蔵保存する — 低温鮮度保存 (1〜2週間) ❄️",
-                        "text": "カリフラワーの呼吸率を最小限に抑え栄養分解を防ぐ最適温度は0〜2℃です。💡保存のコツ：ペーパーで包んだカリフラワーをポリ袋にふんわり入れ、冷蔵庫の野菜室（0〜2℃）で保存します。グルコシノレートとビタミンCの損失を抑え1〜2週間新鮮さを維持できます。"
-                    },
-                    {
-                        "name": "サッと固ゆで（ブランチング）して-18℃以下で冷凍保存する — 冷凍保存 (10〜12ヶ月) 🧊",
-                        "text": "カリフラワーを長期保存するには、下ゆで（ブランチング）して酵素の働きを止める必要があります。💡保存のコツ：一口大に切って塩水で1〜2分サッとゆで、冷水で冷まして水気を完全に切ります。ジッパー袋で密閉して冷凍室（-18℃以下）に入れれば10〜12ヶ月保存可能です。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "カリフラワーの表面に黒い斑点ができましたが食べられますか？",
-                        "answer": "表面の微細な黒い斑点は、水分や空気への露出による酸化、または初期のカビの可能性があります。斑点が広がっておらず内部が硬い場合は、黒い部分を包丁で深めに削り落として加熱調理すれば問題ありません。ただし、広い範囲にカビが生えていたり臭いがある場合は廃棄してください。"
-                    },
-                    {
-                        "question": "なぜ生のまま冷凍せず、サッとゆでてから冷凍するのですか？",
-                        "answer": "カリフラワーを生のまま冷凍すると、内部の酵素が働き続けてビタミンCやグルコシノレートが破壊され、解凍時に身が崩れて水分が抜け出てしまいます。沸騰したお湯でサッとゆでることで酵素を失活させ、味・色・食感・栄養を完璧に保存できます。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持花菜（花椰菜）新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解花菜（菜花/花椰菜）的最佳储存温度、保留硫代葡萄糖苷营养及防止乙烯致黄变降解的科学方法。",
-                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "花菜（花椰菜）作为低碳水替代食材及全球各菜系中的明星十字花科蔬菜，深受大众喜爱！但您是否有过刚买回来的花菜很快发黄或长出黑斑的经历？🥦\n\n花菜采收后呼吸率极高，随着时间推移，其所含的强效抗癌物质**硫代葡萄糖苷（Glucosinolate）**及维生素C会快速自我分解。此外，接触到苹果、香蕉等释放的乙烯气体时，花菜会迅速发生黄化（变黄）及叶绿素与组织破坏。\n\n本指南基于权威农业与食品安全机构的指导方针，为您介绍3步科学花菜保存秘诀，降低呼吸速率并锁住核心营养。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "严禁与释放乙烯的水果和蔬菜混放 ⚠️",
-                        "desc": "花菜对乙烯气体极度敏感。若与苹果、香蕉、番茄等大量释放乙烯的食材存放在一起，花球会迅速变黄并导致结构塌陷，务必彻底隔离存放。"
-                    },
-                    {
-                        "title": "储存前切勿清洗，保持高湿度环境 💧",
-                        "desc": "储存前用水清洗会导致水分滞留在花球缝隙中，极易引发霉变和黑斑。保持干燥状态的同时，需维持90~95%的相对湿度以防止水分蒸发，延长爽脆口感。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "无需清洗，用厨房纸巾包裹 — 控湿防黄变 📦",
-                        "text": "掸去花菜表面的泥土杂质，直接用厨房纸巾或报纸将整头花菜包裹好。💡储存小贴士：外层绿叶无需摘除，绿叶有助于锁住水分。厨房纸巾既能吸收多余湿气又能防止干枯，是防止黄化的第一道屏障。"
-                    },
-                    {
-                        "name": "0~2℃及90~95%相对湿度下冷藏 — 低温保鲜 (1~2周) ❄️",
-                        "text": "降低花菜呼吸率、阻止营养分解的最佳温度为0~2℃。💡储存小贴士：将包好的花菜装入松弛的保鲜袋或保鲜盒中，放入冰箱冷藏保鲜抽屉（0~2℃）。这能将硫代葡萄糖苷和维生素C的流失降至最低，保鲜1~2周。"
-                    },
-                    {
-                        "name": "焯水后在-18℃以下长期冷冻 — 焯水（Blanching）冷冻 (10~12个月) 🧊",
-                        "text": "若要长期保存花菜，必须经过焯水过程以灭活自分解酶。💡储存小贴士：切成小朵，放入淡盐沸水中焯水1~2分钟，捞出过冰水冷却并彻底晾干水分。装入拉链袋密封后放入冷冻室（-18℃以下），可保存10~12个月。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "花菜表面长了细小黑斑还能吃吗？",
-                        "answer": "花菜表面微小的黑斑通常是因水分和空气暴露引起的氧化或初期霉菌。若黑斑范围较小且内部果肉依然紧实，用刀将黑色部分深层削去后焯水熟透即可食用。但如果黑斑大面积扩散或散发异味，请立即丢弃。"
-                    },
-                    {
-                        "question": "为什么冷冻前不能生冻，必须先焯水？",
-                        "answer": "若将生花菜直接冷冻，其内部的酶仍会保持活性，持续破坏维生素C和硫代葡萄糖苷，且解冻后花朵会发软发绵、水分流失。沸水焯水可以使这些酶失活，完美锁住口感、颜色与营养。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener la coliflor fresca: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para la coliflor según las directrices oficiales para preservar glucosinolatos y evitar el amarilleamiento por etileno.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "¡La coliflor es una verdura crucífera amada mundialmente como sustituto bajo en carbohidratos e ingrediente clave en la cocina internacional! Sin embargo, ¿alguna vez la guardó solo para ver cómo se ponía amarilla o le salían manchas negras? 🥦\n\nLa coliflor tiene una tasa de respiración poscosecha muy alta, lo que provoca que su potente compuesto fotosaludable **glucosinolato** y la vitamina C se descompongan rápidamente. Además, la exposición al gas etileno acelera el amarilleamiento y el deterioro del tejido.\n\nEn esta guía se presenta una guía científica en 3 pasos respaldada por autoridades agrícolas para ralentizar su respiración y proteger sus nutrientes. 🛡️",
-                "whyTitle": "¿Por qué almacenarla así? Datos científicos",
-                "whyDesc": "Comprender las características únicas de cada ingrediente y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Aísle estrictamente de frutas y verduras que emitan etileno ⚠️",
-                        "desc": "La coliflor es extremadamente sensible al gas etileno. Almacenarla cerca de manzanas, plátanos o tomates causa un rápido amarilleamiento de los floretes y ablandamiento del tejido."
-                    },
-                    {
-                        "title": "No la lave antes de guardarla; mantenga una alta humedad 💧",
-                        "desc": "Lavar la coliflor antes de guardarla atrapa agua entre los floretes, favoreciendo el moho y las manchas oscuras. Manténgala seca y conserve una humedad relativa del 90–95 %."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Envuelva la cabeza sin lavar en papel absorbente — Control de Humedad 📦",
-                        "text": "Limpie el polvo sin lavar y envuelva la coliflor en papel de cocina. 💡 Consejo de almacenamiento: Dejar las hojas exteriores ayuda a retener la humedad. El papel absorbe el exceso de humedad y evita que se seque."
-                    },
-                    {
-                        "name": "Refrigere a 0–2 °C y 90–95 % de HR — Refrigeración (1 a 2 semanas) ❄️",
-                        "text": "La temperatura óptima para reducir la tasa de respiración y detener la pérdida de nutrientes es de 0 a 2 °C. 💡 Consejo de almacenamiento: Guarde la coliflor envuelta en una bolsa plástica holgada en el cajón de verduras (0–2 °C) de 1 a 2 semanas."
-                    },
-                    {
-                        "name": "Escalde y congele por debajo de -18 °C — Congelación (10 a 12 meses) 🧊",
-                        "text": "Para guardar la coliflor a largo plazo, escaldarla es esencial para desactivar las enzimas de degradación. 💡 Consejo de almacenamiento: Corte en floretes, escalde en agua hirviendo con sal durante 1–2 minutos, enfríe en agua helada, seque bien y congele en bolsas Ziploc (-18 °C)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Es seguro comer coliflor con pequeñas manchas negras en la superficie?",
-                        "answer": "Las pequeñas pecas negras suelen ser oxidación o moho superficial por humedad. Si la masa se mantiene firme, corte las partes oscuras profundamente y cocínela. Si las manchas están muy extendidas, deséchela."
-                    },
-                    {
-                        "question": "¿Por qué se debe escaldar la coliflor antes de congelarla en lugar de congelarla cruda?",
-                        "answer": "Congelar la coliflor cruda permite que las enzimas internas sigan activas, destruyendo la vitamina C y los glucosinolatos, además de ablandar la verdura. Escaldarla desactiva estas enzimas, conservando su textura crujiente y nutrientes."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver le chou-fleur frais : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le chou-fleur selon les directives officielles afin de préserver les glucosinolates et d'éviter le jaunissement par l'éthylène.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Apprécié dans le monde entier comme légume crucifère et alternative pauvre en glucides, le chou-fleur est un incontournable de la cuisine moderne ! Cependant, vous est-il déjà arrivé de le conserver pour le retrouver jauni ou couvert de taches noires ? 🥦\n\nLe chou-fleur a un taux de respiration très élevé après la récolte, ce qui entraîne la décomposition rapide de ses **glucosinolates** (composés anticancéreux) et de la vitamine C. De plus, l'exposition à l'éthylène accélère son jaunissement et la dégradation de ses tissus.\n\nDans ce guide, nous vous proposons une méthode scientifique en 3 étapes pour ralentir la respiration du chou-fleur et préserver ses nutriments. 🛡️",
-                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Isolez strictement des fruits et légumes émetteurs d'éthylène ⚠️",
-                        "desc": "Le chou-fleur est très sensible à l'éthylène. Le stocker près de pommes, bananes ou tomates provoque un jaunissement rapide des fleurettes et un amollissement de la structure."
-                    },
-                    {
-                        "title": "Ne le lavez pas avant le stockage ; maintenez une forte humidité 💧",
-                        "desc": "Laver le chou-fleur avant stockage piège l'eau entre les fleurettes, favorisant moisissures et taches noires. Gardez-le sec avec une humidité relative de 90 à 95 %."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Envelopper la tête non lavée dans du papier absorbant — Contrôle de l'Humidité 📦",
-                        "text": "Éliminez la poussière sans laver et enveloppez le chou-fleur dans du papier absorbant. 💡 Astuce de conservation : Laisser les feuilles extérieures aide à retenir l'humidité. Le papier absorbe l'excès d'eau et évite le dessèchement."
-                    },
-                    {
-                        "name": "Réfrigérer à 0–2 °C et 90–95 % d'HR — Conservation au Frais (1–2 semaines) ❄️",
-                        "text": "La température idéale pour ralentir la respiration et stopper la perte de nutriments est de 0 à 2 °C. 💡 Astuce de conservation : Placez le chou-fleur emballé dans un sachet plastique perforé au bac à légumes (0–2 °C) pendant 1 à 2 semaines."
-                    },
-                    {
-                        "name": "Blanchir et congeler sous -18 °C — Congélation (10–12 mois) 🧊",
-                        "text": "Pour conserver le chou-fleur longtemps, le blanchiment est indispensable pour désactiver les enzymes de dégradation. 💡 Astuce de conservation : Coupez en fleurettes, blanchissez dans l'eau bouillante salée pendant 1 à 2 minutes, refroidissez dans l'eau glacée, séchez et congelez (-18 °C)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Un chou-fleur ayant de petites taches noires est-il propre à la consommation ?",
-                        "answer": "Les petites taches noires sont généralement dues à l'oxydation ou à de la moisissure superficielle. Si la chair reste ferme, coupez largement les zones noires et cuisez le chou-fleur. Si les taches sont étendues, jetez-le."
-                    },
-                    {
-                        "question": "Pourquoi faut-il blanchir le chou-fleur avant de le congeler au lieu de le congeler cru ?",
-                        "answer": "Congeler le chou-fleur cru laisse ses enzymes actives, détruisant la vitamine C et les glucosinolates tout en rendant les fleurettes molles à la décongélation. Le blanchiment désactive ces enzymes, préservant texture et nutriments."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Blumenkohl richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Blumenkohl basierend auf offiziellen Sicherheitsrichtlinien zum Erhalt von Glucosinolaten und Schutz vor Ethylen-Vergilbung.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Blumenkohl ist weltweit als nährstoffreiches Kohlgemüse und kohlenhydratarmer Ersatz für Reis und Mehl beliebt! Doch haben Sie Blumenkohl schon einmal gelagert und festgestellt, dass er gelb wurde oder schwarze Flecken bekam? 🥦\n\nBlumenkohl hat nach der Ernte eine sehr hohe Atmungsrate, wodurch sich seine wertvollen **Glucosinolate** und Vitamin C schnell abbauen. Zudem führt die Belastung durch Ethylengas zu einer raschen Vergilbung und Gewebeschädigung.\n\nIn diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritte-Lagerungsratgeber vor, um die Atmung zu verlangsamen und wertvolle Nährstoffe zu sichern. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Strikt von ethylenabgebenden Früchten trennen ⚠️",
-                        "desc": "Blumenkohl reagiert äußerst empfindlich auf Ethylengas. Die Lagerung neben Äpfeln, Bananen oder Tomaten führt zu schneller Vergilbung und Gewebeverfall."
-                    },
-                    {
-                        "title": "Vor der Lagerung nicht waschen; hohe Luftfeuchtigkeit halten 💧",
-                        "desc": "Waschen vor der Lagerung schließt Wasser in den Röschen ein und fördert Schimmel sowie schwarze Flecken. Trocken halten bei 90–95 % relativer Luftfeuchtigkeit."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Ungewaschenen Kopf in Küchenpapier einwickeln — Feuchtigkeitskontrolle 📦",
-                        "text": "Befreien Sie den Blumenkohl trocken von Schmutz und wickeln Sie ihn in Küchenpapier ein. 💡 Lagerungstipp: Äußere Blätter dranlassen, da sie Feuchtigkeit speichern. Das Papier nimmt überschüssige Nässe auf."
-                    },
-                    {
-                        "name": "Bei 0–2 °C und 90–95 % LF kühlen — Kühllagerung (1–2 Wochen) ❄️",
-                        "text": "Die optimale Temperatur zur Senkung der Atmungsrate liegt bei 0–2 °C. 💡 Lagerungstipp: Lagern Sie den eingewickelten Blumenkohl in einem gelockerten Plastikbeutel im Gemüsefach (0–2 °C) für 1–2 Wochen."
-                    },
-                    {
-                        "name": "Blanchieren und unter -18 °C einfrieren — Gefrierlagerung (10–12 Monate) 🧊",
-                        "text": "Für die Langzeitlagerung ist Blanchieren erforderlich, um abbauende Enzyme zu deaktivieren. 💡 Lagerungstipp: In Röschen schneiden, 1–2 Minuten in Salzwasser blanchieren, im Eiswasser abkühlen, trocknen und einfrieren (-18 °C)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Ist Blumenkohl mit kleinen schwarzen Flecken noch essbar?",
-                        "answer": "Kleine schwarze Flecken sind meist Oxidation oder oberflächlicher Schimmel. Wenn der Kopf fest ist, schneiden Sie die Stellen großzügig ab und kochen Sie ihn. Bei großflächigem Befall entsorgen."
-                    },
-                    {
-                        "question": "Warum muss Blumenkohl vor dem Einfrieren blanchiert werden?",
-                        "answer": "Roh eingefrorener Blumenkohl baut durch aktive Enzyme Vitamin C und Glucosinolate ab und wird beim Auftauen matschig. Blanchieren stoppt diese Enzyme und erhält Nährstoffe und Textur."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar couve-flor fresca: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para a couve-flor com base em diretrizes oficiais para preservar glucosinolatos e evitar o amarelecimento por etileno.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "A couve-flor é um vegetal crucífero adorado no mundo todo como substituto com baixo teor de carboidratos em diversas receitas! No entanto, você já a guardou e percebeu que ela ficou amarelada ou com manchas escuras? 🥦\n\nA couve-flor possui uma taxa de respiração pós-colheita muito alta, o que faz com que o **glucosinolato** (composto anticancerígeno) e a vitamina C se decomponham rapidamente. Além disso, a exposição ao gás etileno acelera o amarelecimento e a degradação dos tecidos.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes oficiais para desacelerar a respiração e proteger os nutrientes essenciais. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Compreender as características únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Isole estritamente de frutas e vegetais que emitem etileno ⚠️",
-                        "desc": "A couve-flor é extremamente sensível ao etileno. Guardá-la perto de maçãs, bananas ou tomates causa amarelecimento rápido dos floretes e deterioração."
-                    },
-                    {
-                        "title": "Não lave antes de guardar; mantenha alta umidade 💧",
-                        "desc": "Lavar antes de guardar retém água entre os floretes, estimulando mofo e manchas escuras. Mantenha seca e conserve umidade relativa de 90 a 95 %."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Envolva a cabeça sem lavar em papel toalha — Controle de Umidade 📦",
-                        "text": "Limpe a sujeira a seco e envolva a couve-flor em papel toalha. 💡 Dica de conservação: Manter as folhas externas ajuda a reter umidade. O papel absorve o excesso de umidade e evita o ressecamento."
-                    },
-                    {
-                        "name": "Refrigerar a 0–2 °C e 90–95 % de UR — Refrigeração (1 a 2 semanas) ❄️",
-                        "text": "A temperatura ideal para desacelerar a respiração e evitar a perda de nutrientes é de 0 a 2 °C. 💡 Dica de conservação: Guarde a couve-flor envolvida em um saco plástico frouxo na gaveta de legumes (0–2 °C) por 1 a 2 semanas."
-                    },
-                    {
-                        "name": "Aferventar (blanching) e congelar abaixo de -18 °C — Congelamento (10 a 12 meses) 🧊",
-                        "text": "Para guardar a longo prazo, aferventar é essencial para inativar enzimas de degradação. 💡 Dica de conservação: Corte em floretes, afervente em água fervente com sal por 1–2 minutos, resfrie em água gelada, seque e congele (-18 °C)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "É seguro comer couve-flor com pequenas manchas escuras na superfície?",
-                        "answer": "Pequenas manchas escuras são geralmente oxidação ou mofo superficial. Se a estrutura continuar firme, corte as partes escuras profundamente e cozinhe. Se as manchas forem grandes, descarte."
-                    },
-                    {
-                        "question": "Por que a couve-flor deve ser aferventada antes de congelar em vez de ser congelada crua?",
-                        "answer": "Congelar a couve-flor crua mantém as enzimas ativas, destruindo a vitamina C e os glucosinolatos, além de deixar os floretes moles. Aferventar inativa essas enzimas, preservando textura e nutrientes."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Kembang Kol agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk kembang kol berdasarkan pedoman keselamatan resmi untuk menjaga glukosinolat dan mencegah penggulingan akibat etilen.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Kembang kol adalah sayuran kubis-kubisan populer di seluruh dunia sebagai pengganti karbohidrat sehat dan bahan masakan yang lezat! Namun, pernahkah Anda menyimpannya lalu mendapatinya berubah menjadi kuning atau berbintik hitam? 🥦\n\nKembang kol memiliki laju respirasi pascapanen yang sangat tinggi, membuat kandungan **glukosinolat** (senyawa antikanker) dan Vitamin C mengalami pembusukan mandiri secara cepat. Selain itu, paparan gas etilen mempercepat proses kuningasi dan kerusakan jaringan.\n\nDalam panduan ini, kami membagikan panduan penyimpanan kembang kol 3 langkah berbasis ilmiah untuk memperlambat respirasi dan melindungi nutrisi pentingnya. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Pisahkan secara ketat dari buah dan sayur penghasil etilen ⚠️",
-                        "desc": "Kembang kol sangat sensitif terhadap gas etilen. Menyimpannya di dekat apel, pisang, atau tomat menyebabkan kembang kol cepat menguning dan hancur."
-                    },
-                    {
-                        "title": "Jangan dicuci sebelum disimpan; jaga kelembapan tinggi 💧",
-                        "desc": "Mencuci kembang kol sebelum disimpan mengunci air di antara bunga, memicu jamur dan bintik hitam. Biarkan tetap kering sambil menjaga kelembapan relatif 90–95%."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Bungkus bonggol tanpa dicuci dengan tisu dapur — Kontrol Kelembapan 📦",
-                        "text": "Bersihkan kotoran tanpa mencuci dan bungkus kembang kol dengan tisu dapur. 💡 Tips Penyimpanan: Membiarkan daun luar tetap menempel membantu menahan kelembapan. Tisu menyerap kelebihan air dan mencegah kekeringan."
-                    },
-                    {
-                        "name": "Simpan di kulkas pada suhu 0–2°C & kelembapan 90–95% — Dingin (1–2 Minggu) ❄️",
-                        "text": "Suhu terbaik untuk memperlambat respirasi dan hilangnya nutrisi adalah 0–2°C. 💡 Tips Penyimpanan: Simpan kembang kol yang sudah dibungkus dalam kantong plastik longgar di laci sayur (0–2°C) selama 1 hingga 2 minggu."
-                    },
-                    {
-                        "name": "Rebus sebentar (blanching) lalu bekukan di bawah -18°C — Pembekuan (10–12 Bulan) 🧊",
-                        "text": "Untuk penyimpanan jangka panjang, perebusan sebentar penting untuk menghentikan enzim perusak. 💡 Tips Penyimpanan: Potong per kuntum, rebus dalam air garam mendidih selama 1–2 menit, tiriskan di air es, keringkan, lalu bekukan (-18°C)."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apakah kembang kol dengan bintik hitam kecil masih aman dimakan?",
-                        "answer": "Bintik hitam kecil biasanya disebabkan oleh oksidasi atau jamur permukaan. Jika tekstur masih padat, potong bagian hitam agak dalam lalu masak hingga matang. Jika bintik hitam menyebar luas, segera buang."
-                    },
-                    {
-                        "question": "Mengapa kembang kol harus direbus sebentar sebelum dibekukan daripada dibekukan mentah?",
-                        "answer": "Membekukan kembang kol mentah membuat enzim di dalamnya tetap aktif, merusak Vitamin C dan glukosinolat serta membuat tekstur menjadi lembek saat dicairkan. Perebusan sebentar menghentikan enzim ini sehingga tekstur dan nutrisi terjaga."
-                    }
-                ]
-            }
-        }
+  "how-to-store-cauliflower": {
+    "ingId": "cauliflower",
+    "pubDate": "2026-02-25",
+    "updatedDate": "2026-02-25",
+    "heroImage": "/images/blog/cauliflower_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "콜리플라워 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 콜리플라워의 최적 보관 온도, 글루코시놀레이트 영양소 보존 및 에틸렌 차단 황화 방지 가이드를 확인하세요.",
+        "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+        "intro": "담백한 맛과 뛰어난 영양, 다이어터들의 탄수화물 대체재로 전 세계에서 사랑받는 대표적인 십자화과 채소 콜리플라워! 하지만 사온 지 얼마 안 되어 금방 노랗게 변색되거나 검은 반점이 생겨 버린 경험 다들 있으시죠? 🥦\n\n콜리플라워는 수확 후 호흡률이 매우 높은 채소로, 시간이 지남에 따라 강력한 항암 물질인 **글루코시놀레이트(Glucosinolate)**와 비타민 C가 빠르게 자가 분해됩니다. 또한 사과나 바나나 등에서 방출되는 천연 에틸렌(Ethylene) 가스에 노출되면 황화 현상(노란 변색)과 함께 엽록소 및 조직 파괴가 급격히 진행됩니다.\n\n이번 가이드에서는 농업 및 식품 안전 기관의 공인된 지침을 바탕으로, 콜리플라워의 호흡속도를 낮추고 핵심 영양소를 보존하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "에틸렌 방출 과일 및 채소와 엄격히 격리하세요 ⚠️",
+            "desc": "콜리플라워는 에틸렌 가스에 매우 민감합니다. 사과, 바나나, 토마토 등 에틸렌을 다량 방출하는 식재료와 같은 공간에 두면 꽃봉오리가 순식간에 노랗게 변하고 조직이 무너지므로 완전히 분리 보관해야 합니다."
+          },
+          {
+            "title": "보관 전 물로 씻지 말고 높은 습도를 유지하세요 💧",
+            "desc": "보관 전 물로 씻으면 꽃봉오리 틈새에 수분이 갇혀 곰팡이와 검은 반점이 생기기 쉽습니다. 마른 상태를 유지하되, 상대습도 90~95% 환경을 조성해 수분 증발을 막아야 아삭함이 오래 유지됩니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "씻지 않은 상태로 키친타월 감싸기 — 수분 조절 및 착색 방지 📦",
+            "text": "콜리플라워 표면에 묻은 이물질만 털어내고, 키친타월이나 신문지로 겉면을 감싸주세요. 💡 보관 팁: 잎이 붙어있다면 잎을 제거하지 말고 그대로 감싸는 것이 수분 보호에 유리합니다. 키친타월이 과도한 습기는 흡수하고 건조함은 막아주어 곰팡이 발생과 황화 현상을 1차적으로 방지합니다."
+          },
+          {
+            "name": "0~2℃ 및 상대습도 90~95% 저온 냉장 보관하기 — 저온 신선 보관 (1~2주) ❄️",
+            "text": "콜리플라워의 호흡률을 극소화하여 영양소 분해를 막는 최적 온도는 0~2℃입니다. 💡 보관 팁: 키친타월로 감싼 콜리플라워를 느슨한 비닐봉지나 밀폐 용기에 담아 냉장고 야채실(0~2℃)에 보관하세요. 글루코시놀레이트와 비타민 C 소실이 최소화되어 1~2주간 신선하게 유지됩니다."
+          },
+          {
+            "name": "살짝 데친 후 -18℃ 이하 장기 냉동 보관하기 — 데침(Blanching) 냉동 보관 (10~12개월) 🧊",
+            "text": "콜리플라워를 오랫동안 보관하려면 데침(Blanching) 과정을 거쳐 효소 활성을 정지시켜야 합니다. 💡 보관 팁: 한 입 크기로 잘라 소금물에 1~2분간 살짝 데친 후 찬물에 식히고 수분을 완전 제거하세요. 그 후 지퍼백에 밀봉해 냉동실(-18℃ 이하)에 보관하면 영양 손실 없이 10~12개월간 활용할 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "콜리플라워 표면에 검은 반점(점상 변색)이 생겼는데 먹어도 되나요?",
+            "answer": "표면에 생긴 미세한 검은 반점은 수분과 공기 노출로 인한 산화 현상 또는 초기 곰팡이일 수 있습니다. 반점이 넓지 않고 내부 과육이 단단하다면 칼로 검은 부분만 깊게 도려낸 후 데쳐서 드셔도 무방합니다. 하지만 넓은 부위에 곰팡이가 피었거나 악취가 난다면 즉시 폐기해야 합니다."
+          },
+          {
+            "question": "냉동 전 왜 생으로 얼리지 않고 살짝 데쳐야 하나요?",
+            "answer": "콜리플라워를 생으로 냉동하면 내부 자가 분해 효소가 계속 활성화되어 영양소(비타민 C, 글루코시놀레이트)가 파괴되고 해동 시 살이 물러져 수용성 즙이 다 빠져나갑니다. 끓는 물에 살짝 데치면 이 효소가 불활성화되어 맛, 색상, 아삭한 식감 및 영양소를 완벽히 보존할 수 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Cauliflower Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for cauliflower based on official safety guidelines to preserve glucosinolates and prevent ethylene yellowing.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Beloved globally as a nutrient-dense cruciferous vegetable and a low-carb substitute in Western and Indian cuisine! However, have you ever stored cauliflower only to find it turning yellow or developing black spots? 🥦\n\nCauliflower has a very high post-harvest respiration rate, causing its powerful anti-cancer compound **Glucosinolate** and Vitamin C to rapidly decompose. Additionally, exposure to natural Ethylene gas emitted by fruits accelerates yellowing (chlorophyll breakdown) and tissue degradation.\n\nIn this guide, we introduce a scientifically proven 3-step cauliflower storage guide based on guidelines from agricultural and food safety authorities to slow respiration and protect key nutrients. 🛡️",
+        "whyTitle": "Why Store Cauliflower This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Strictly isolate from ethylene-emitting produce ⚠️",
+            "desc": "Cauliflower is extremely sensitive to ethylene gas. Storing it near apples, bananas, or tomatoes causes rapid yellowing of curds and structural collapse. Keep them completely separated."
+          },
+          {
+            "title": "Do not wash before storing; maintain high humidity 💧",
+            "desc": "Washing before storage traps moisture between florets, promoting mold and dark spots. Keep dry while maintaining 90–95% relative humidity to preserve crispness."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Wrap unwashed head in paper towels — Moisture Control & Browning Protection 📦",
+            "text": "Brush off any dirt without washing and wrap the head in paper towels. 💡 Storage Tip: Leaving outer leaves attached helps retain moisture. Paper towels absorb excess humidity and prevent drying out, providing a barrier against yellowing."
+          },
+          {
+            "name": "Refrigerate at 0–2°C and 90–95% RH — Cold Storage (1–2 Weeks) ❄️",
+            "text": "The optimal temperature to minimize respiration rate and nutrient breakdown is 0–2°C (32–36°F) with 90–95% relative humidity. 💡 Storage Tip: Place the wrapped head in a loose plastic bag or container in the crisper drawer to keep it fresh for 1 to 2 weeks."
+          },
+          {
+            "name": "Blanch and flash freeze below -18°C — Freezer Storage (10–12 Months) 🧊",
+            "text": "For long-term storage, blanching is essential to deactivate auto-lytic enzymes. 💡 Storage Tip: Cut into florets, blanch in boiling salted water for 1–2 minutes, cool in ice water, dry completely, and freeze in Ziploc bags (-18°C / 0°F) for 10 to 12 months."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Is cauliflower with tiny black spots on the head safe to eat?",
+            "answer": "Minor black specks on the surface are typically oxidation or superficial mold caused by moisture and light exposure. If curds remain firm, slice off the spots deeply and cook. However, if spots are widespread or mushy, discard immediately."
+          },
+          {
+            "question": "Why must cauliflower be blanched before freezing instead of frozen raw?",
+            "answer": "Freezing raw cauliflower allows internal enzymes to remain active, destroying Vitamin C and glucosinolates while making the florets mushy upon thawing. Blanching deactivates these enzymes, locking in color, crisp texture, and nutrients."
+          }
+        ]
+      },
+      "ja": {
+        "title": "カリフラワーを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくカリフラワーの最適な保存温度、グルコシノレートの栄養保持、エチレンによる黄化防止ガイドをご確認ください。",
+        "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "低糖質ダイエットの主食代替品や西洋・インド料理で世界中で愛されるアブラナ科野菜のカリフラワー！ですが、買ってきたばかりなのにすぐに黄色く変色したり、黒い斑点ができて捨ててしまった経験はありませんか？🥦\n\nカリフラワーは収穫後の呼吸率が非常に高い野菜で、時間の経過とともに強力な抗がん物質である**グルコシノレート（Glucosinolate）**やビタミンCが急速に自己分解されます。また、リンゴやバナナなどから発生するエチレンガスに触れると、黄化現象（黄変）と葉緑素・組織の破壊が急激に進みます。\n\n本記事では、農学および食品安全機関の公認ガイドラインに基づき、カリフラワーの呼吸速度を抑え、核心栄養素を守る3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "エチレンガスを放出する果物・野菜と厳重に隔離してください ⚠️",
+            "desc": "カリフラワーはエチレンガスに非常に敏感です。リンゴ、バナナ、トマトなどエチレンを多く放出する食材と同じ場所に置くと、蕾がすぐに黄色くなり組織が崩れてしまうため、完全に分けて保存する必要があります。"
+          },
+          {
+            "title": "保存前に水洗いせず、高い湿度を維持してください 💧",
+            "desc": "保存前に水洗いすると蕾の隙間に水分が溜まり、カビや黒い斑点が発生しやすくなります。濡らさない状態を保ちつつ、相対湿度90〜95%の環境を作って水分蒸発を防ぐことでシャキシャキ感が長持ちします。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "洗わずにキッチンペーパーで包む — 水分調節＆黄化防止 📦",
+            "text": "カリフラワー表面の汚れを払い落とし、キッチンペーパーや新聞紙で外側を包みます。💡保存のコツ：葉がついている場合は切り落とさずそのまま包む方が水分保持に効果的です。ペーパーが余分な湿気を吸収し乾燥を防ぎます。"
+          },
+          {
+            "name": "0〜2℃および相対湿度90〜95%の低温で冷蔵保存する — 低温鮮度保存 (1〜2週間) ❄️",
+            "text": "カリフラワーの呼吸率を最小限に抑え栄養分解を防ぐ最適温度は0〜2℃です。💡保存のコツ：ペーパーで包んだカリフラワーをポリ袋にふんわり入れ、冷蔵庫の野菜室（0〜2℃）で保存します。グルコシノレートとビタミンCの損失を抑え1〜2週間新鮮さを維持できます。"
+          },
+          {
+            "name": "サッと固ゆで（ブランチング）して-18℃以下で冷凍保存する — 冷凍保存 (10〜12ヶ月) 🧊",
+            "text": "カリフラワーを長期保存するには、下ゆで（ブランチング）して酵素の働きを止める必要があります。💡保存のコツ：一口大に切って塩水で1〜2分サッとゆで、冷水で冷まして水気を完全に切ります。ジッパー袋で密閉して冷凍室（-18℃以下）に入れれば10〜12ヶ月保存可能です。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "カリフラワーの表面に黒い斑点ができましたが食べられますか？",
+            "answer": "表面の微細な黒い斑点は、水分や空気への露出による酸化、または初期のカビの可能性があります。斑点が広がっておらず内部が硬い場合は、黒い部分を包丁で深めに削り落として加熱調理すれば問題ありません。ただし、広い範囲にカビが生えていたり臭いがある場合は廃棄してください。"
+          },
+          {
+            "question": "なぜ生のまま冷凍せず、サッとゆでてから冷凍するのですか？",
+            "answer": "カリフラワーを生のまま冷凍すると、内部の酵素が働き続けてビタミンCやグルコシノレートが破壊され、解凍時に身が崩れて水分が抜け出てしまいます。沸騰したお湯でサッとゆでることで酵素を失活させ、味・色・食感・栄養を完璧に保存できます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持花菜（花椰菜）新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解花菜（菜花/花椰菜）的最佳储存温度、保留硫代葡萄糖苷营养及防止乙烯致黄变降解的科学方法。",
+        "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "花菜（花椰菜）作为低碳水替代食材及全球各菜系中的明星十字花科蔬菜，深受大众喜爱！但您是否有过刚买回来的花菜很快发黄或长出黑斑的经历？🥦\n\n花菜采收后呼吸率极高，随着时间推移，其所含的强效抗癌物质**硫代葡萄糖苷（Glucosinolate）**及维生素C会快速自我分解。此外，接触到苹果、香蕉等释放的乙烯气体时，花菜会迅速发生黄化（变黄）及叶绿素与组织破坏。\n\n本指南基于权威农业与食品安全机构的指导方针，为您介绍3步科学花菜保存秘诀，降低呼吸速率并锁住核心营养。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "严禁与释放乙烯的水果和蔬菜混放 ⚠️",
+            "desc": "花菜对乙烯气体极度敏感。若与苹果、香蕉、番茄等大量释放乙烯的食材存放在一起，花球会迅速变黄并导致结构塌陷，务必彻底隔离存放。"
+          },
+          {
+            "title": "储存前切勿清洗，保持高湿度环境 💧",
+            "desc": "储存前用水清洗会导致水分滞留在花球缝隙中，极易引发霉变和黑斑。保持干燥状态的同时，需维持90~95%的相对湿度以防止水分蒸发，延长爽脆口感。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "无需清洗，用厨房纸巾包裹 — 控湿防黄变 📦",
+            "text": "掸去花菜表面的泥土杂质，直接用厨房纸巾或报纸将整头花菜包裹好。💡储存小贴士：外层绿叶无需摘除，绿叶有助于锁住水分。厨房纸巾既能吸收多余湿气又能防止干枯，是防止黄化的第一道屏障。"
+          },
+          {
+            "name": "0~2℃及90~95%相对湿度下冷藏 — 低温保鲜 (1~2周) ❄️",
+            "text": "降低花菜呼吸率、阻止营养分解的最佳温度为0~2℃。💡储存小贴士：将包好的花菜装入松弛的保鲜袋或保鲜盒中，放入冰箱冷藏保鲜抽屉（0~2℃）。这能将硫代葡萄糖苷和维生素C的流失降至最低，保鲜1~2周。"
+          },
+          {
+            "name": "焯水后在-18℃以下长期冷冻 — 焯水（Blanching）冷冻 (10~12个月) 🧊",
+            "text": "若要长期保存花菜，必须经过焯水过程以灭活自分解酶。💡储存小贴士：切成小朵，放入淡盐沸水中焯水1~2分钟，捞出过冰水冷却并彻底晾干水分。装入拉链袋密封后放入冷冻室（-18℃以下），可保存10~12个月。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "花菜表面长了细小黑斑还能吃吗？",
+            "answer": "花菜表面微小的黑斑通常是因水分和空气暴露引起的氧化或初期霉菌。若黑斑范围较小且内部果肉依然紧实，用刀将黑色部分深层削去后焯水熟透即可食用。但如果黑斑大面积扩散或散发异味，请立即丢弃。"
+          },
+          {
+            "question": "为什么冷冻前不能生冻，必须先焯水？",
+            "answer": "若将生花菜直接冷冻，其内部的酶仍会保持活性，持续破坏维生素C和硫代葡萄糖苷，且解冻后花朵会发软发绵、水分流失。沸水焯水可以使这些酶失活，完美锁住口感、颜色与营养。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener la coliflor fresca: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos para la coliflor según las directrices oficiales para preservar glucosinolatos y evitar el amarilleamiento por etileno.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "¡La coliflor es una verdura crucífera amada mundialmente como sustituto bajo en carbohidratos e ingrediente clave en la cocina internacional! Sin embargo, ¿alguna vez la guardó solo para ver cómo se ponía amarilla o le salían manchas negras? 🥦\n\nLa coliflor tiene una tasa de respiración poscosecha muy alta, lo que provoca que su potente compuesto fotosaludable **glucosinolato** y la vitamina C se descompongan rápidamente. Además, la exposición al gas etileno acelera el amarilleamiento y el deterioro del tejido.\n\nEn esta guía se presenta una guía científica en 3 pasos respaldada por autoridades agrícolas para ralentizar su respiración y proteger sus nutrientes. 🛡️",
+        "whyTitle": "¿Por qué almacenarla así? Datos científicos",
+        "whyDesc": "Comprender las características únicas de cada ingrediente y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Aísle estrictamente de frutas y verduras que emitan etileno ⚠️",
+            "desc": "La coliflor es extremadamente sensible al gas etileno. Almacenarla cerca de manzanas, plátanos o tomates causa un rápido amarilleamiento de los floretes y ablandamiento del tejido."
+          },
+          {
+            "title": "No la lave antes de guardarla; mantenga una alta humedad 💧",
+            "desc": "Lavar la coliflor antes de guardarla atrapa agua entre los floretes, favoreciendo el moho y las manchas oscuras. Manténgala seca y conserve una humedad relativa del 90–95 %."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Envuelva la cabeza sin lavar en papel absorbente — Control de Humedad 📦",
+            "text": "Limpie el polvo sin lavar y envuelva la coliflor en papel de cocina. 💡 Consejo de almacenamiento: Dejar las hojas exteriores ayuda a retener la humedad. El papel absorbe el exceso de humedad y evita que se seque."
+          },
+          {
+            "name": "Refrigere a 0–2 °C y 90–95 % de HR — Refrigeración (1 a 2 semanas) ❄️",
+            "text": "La temperatura óptima para reducir la tasa de respiración y detener la pérdida de nutrientes es de 0 a 2 °C. 💡 Consejo de almacenamiento: Guarde la coliflor envuelta en una bolsa plástica holgada en el cajón de verduras (0–2 °C) de 1 a 2 semanas."
+          },
+          {
+            "name": "Escalde y congele por debajo de -18 °C — Congelación (10 a 12 meses) 🧊",
+            "text": "Para guardar la coliflor a largo plazo, escaldarla es esencial para desactivar las enzimas de degradación. 💡 Consejo de almacenamiento: Corte en floretes, escalde en agua hirviendo con sal durante 1–2 minutos, enfríe en agua helada, seque bien y congele en bolsas Ziploc (-18 °C)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Es seguro comer coliflor con pequeñas manchas negras en la superficie?",
+            "answer": "Las pequeñas pecas negras suelen ser oxidación o moho superficial por humedad. Si la masa se mantiene firme, corte las partes oscuras profundamente y cocínela. Si las manchas están muy extendidas, deséchela."
+          },
+          {
+            "question": "¿Por qué se debe escaldar la coliflor antes de congelarla en lugar de congelarla cruda?",
+            "answer": "Congelar la coliflor cruda permite que las enzimas internas sigan activas, destruyendo la vitamina C y los glucosinolatos, además de ablandar la verdura. Escaldarla desactiva estas enzimas, conservando su textura crujiente y nutrientes."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver le chou-fleur frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le chou-fleur selon les directives officielles afin de préserver les glucosinolates et d'éviter le jaunissement par l'éthylène.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Apprécié dans le monde entier comme légume crucifère et alternative pauvre en glucides, le chou-fleur est un incontournable de la cuisine moderne ! Cependant, vous est-il déjà arrivé de le conserver pour le retrouver jauni ou couvert de taches noires ? 🥦\n\nLe chou-fleur a un taux de respiration très élevé après la récolte, ce qui entraîne la décomposition rapide de ses **glucosinolates** (composés anticancéreux) et de la vitamine C. De plus, l'exposition à l'éthylène accélère son jaunissement et la dégradation de ses tissus.\n\nDans ce guide, nous vous proposons une méthode scientifique en 3 étapes pour ralentir la respiration du chou-fleur et préserver ses nutriments. 🛡️",
+        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Isolez strictement des fruits et légumes émetteurs d'éthylène ⚠️",
+            "desc": "Le chou-fleur est très sensible à l'éthylène. Le stocker près de pommes, bananes ou tomates provoque un jaunissement rapide des fleurettes et un amollissement de la structure."
+          },
+          {
+            "title": "Ne le lavez pas avant le stockage ; maintenez une forte humidité 💧",
+            "desc": "Laver le chou-fleur avant stockage piège l'eau entre les fleurettes, favorisant moisissures et taches noires. Gardez-le sec avec une humidité relative de 90 à 95 %."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Envelopper la tête non lavée dans du papier absorbant — Contrôle de l'Humidité 📦",
+            "text": "Éliminez la poussière sans laver et enveloppez le chou-fleur dans du papier absorbant. 💡 Astuce de conservation : Laisser les feuilles extérieures aide à retenir l'humidité. Le papier absorbe l'excès d'eau et évite le dessèchement."
+          },
+          {
+            "name": "Réfrigérer à 0–2 °C et 90–95 % d'HR — Conservation au Frais (1–2 semaines) ❄️",
+            "text": "La température idéale pour ralentir la respiration et stopper la perte de nutriments est de 0 à 2 °C. 💡 Astuce de conservation : Placez le chou-fleur emballé dans un sachet plastique perforé au bac à légumes (0–2 °C) pendant 1 à 2 semaines."
+          },
+          {
+            "name": "Blanchir et congeler sous -18 °C — Congélation (10–12 mois) 🧊",
+            "text": "Pour conserver le chou-fleur longtemps, le blanchiment est indispensable pour désactiver les enzymes de dégradation. 💡 Astuce de conservation : Coupez en fleurettes, blanchissez dans l'eau bouillante salée pendant 1 à 2 minutes, refroidissez dans l'eau glacée, séchez et congelez (-18 °C)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Un chou-fleur ayant de petites taches noires est-il propre à la consommation ?",
+            "answer": "Les petites taches noires sont généralement dues à l'oxydation ou à de la moisissure superficielle. Si la chair reste ferme, coupez largement les zones noires et cuisez le chou-fleur. Si les taches sont étendues, jetez-le."
+          },
+          {
+            "question": "Pourquoi faut-il blanchir le chou-fleur avant de le congeler au lieu de le congeler cru ?",
+            "answer": "Congeler le chou-fleur cru laisse ses enzymes actives, détruisant la vitamine C et les glucosinolates tout en rendant les fleurettes molles à la décongélation. Le blanchiment désactive ces enzymes, préservant texture et nutriments."
+          }
+        ]
+      },
+      "de": {
+        "title": "Blumenkohl richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Blumenkohl basierend auf offiziellen Sicherheitsrichtlinien zum Erhalt von Glucosinolaten und Schutz vor Ethylen-Vergilbung.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Blumenkohl ist weltweit als nährstoffreiches Kohlgemüse und kohlenhydratarmer Ersatz für Reis und Mehl beliebt! Doch haben Sie Blumenkohl schon einmal gelagert und festgestellt, dass er gelb wurde oder schwarze Flecken bekam? 🥦\n\nBlumenkohl hat nach der Ernte eine sehr hohe Atmungsrate, wodurch sich seine wertvollen **Glucosinolate** und Vitamin C schnell abbauen. Zudem führt die Belastung durch Ethylengas zu einer raschen Vergilbung und Gewebeschädigung.\n\nIn diesem Ratgeber stellen wir Ihnen einen wissenschaftlich geprüften 3-Schritte-Lagerungsratgeber vor, um die Atmung zu verlangsamen und wertvolle Nährstoffe zu sichern. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Strikt von ethylenabgebenden Früchten trennen ⚠️",
+            "desc": "Blumenkohl reagiert äußerst empfindlich auf Ethylengas. Die Lagerung neben Äpfeln, Bananen oder Tomaten führt zu schneller Vergilbung und Gewebeverfall."
+          },
+          {
+            "title": "Vor der Lagerung nicht waschen; hohe Luftfeuchtigkeit halten 💧",
+            "desc": "Waschen vor der Lagerung schließt Wasser in den Röschen ein und fördert Schimmel sowie schwarze Flecken. Trocken halten bei 90–95 % relativer Luftfeuchtigkeit."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Ungewaschenen Kopf in Küchenpapier einwickeln — Feuchtigkeitskontrolle 📦",
+            "text": "Befreien Sie den Blumenkohl trocken von Schmutz und wickeln Sie ihn in Küchenpapier ein. 💡 Lagerungstipp: Äußere Blätter dranlassen, da sie Feuchtigkeit speichern. Das Papier nimmt überschüssige Nässe auf."
+          },
+          {
+            "name": "Bei 0–2 °C und 90–95 % LF kühlen — Kühllagerung (1–2 Wochen) ❄️",
+            "text": "Die optimale Temperatur zur Senkung der Atmungsrate liegt bei 0–2 °C. 💡 Lagerungstipp: Lagern Sie den eingewickelten Blumenkohl in einem gelockerten Plastikbeutel im Gemüsefach (0–2 °C) für 1–2 Wochen."
+          },
+          {
+            "name": "Blanchieren und unter -18 °C einfrieren — Gefrierlagerung (10–12 Monate) 🧊",
+            "text": "Für die Langzeitlagerung ist Blanchieren erforderlich, um abbauende Enzyme zu deaktivieren. 💡 Lagerungstipp: In Röschen schneiden, 1–2 Minuten in Salzwasser blanchieren, im Eiswasser abkühlen, trocknen und einfrieren (-18 °C)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Ist Blumenkohl mit kleinen schwarzen Flecken noch essbar?",
+            "answer": "Kleine schwarze Flecken sind meist Oxidation oder oberflächlicher Schimmel. Wenn der Kopf fest ist, schneiden Sie die Stellen großzügig ab und kochen Sie ihn. Bei großflächigem Befall entsorgen."
+          },
+          {
+            "question": "Warum muss Blumenkohl vor dem Einfrieren blanchiert werden?",
+            "answer": "Roh eingefrorener Blumenkohl baut durch aktive Enzyme Vitamin C und Glucosinolate ab und wird beim Auftauen matschig. Blanchieren stoppt diese Enzyme und erhält Nährstoffe und Textur."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar couve-flor fresca: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para a couve-flor com base em diretrizes oficiais para preservar glucosinolatos e evitar o amarelecimento por etileno.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "A couve-flor é um vegetal crucífero adorado no mundo todo como substituto com baixo teor de carboidratos em diversas receitas! No entanto, você já a guardou e percebeu que ela ficou amarelada ou com manchas escuras? 🥦\n\nA couve-flor possui uma taxa de respiração pós-colheita muito alta, o que faz com que o **glucosinolato** (composto anticancerígeno) e a vitamina C se decomponham rapidamente. Além disso, a exposição ao gás etileno acelera o amarelecimento e a degradação dos tecidos.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes oficiais para desacelerar a respiração e proteger os nutrientes essenciais. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Compreender as características únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Isole estritamente de frutas e vegetais que emitem etileno ⚠️",
+            "desc": "A couve-flor é extremamente sensível ao etileno. Guardá-la perto de maçãs, bananas ou tomates causa amarelecimento rápido dos floretes e deterioração."
+          },
+          {
+            "title": "Não lave antes de guardar; mantenha alta umidade 💧",
+            "desc": "Lavar antes de guardar retém água entre os floretes, estimulando mofo e manchas escuras. Mantenha seca e conserve umidade relativa de 90 a 95 %."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Envolva a cabeça sem lavar em papel toalha — Controle de Umidade 📦",
+            "text": "Limpe a sujeira a seco e envolva a couve-flor em papel toalha. 💡 Dica de conservação: Manter as folhas externas ajuda a reter umidade. O papel absorve o excesso de umidade e evita o ressecamento."
+          },
+          {
+            "name": "Refrigerar a 0–2 °C e 90–95 % de UR — Refrigeração (1 a 2 semanas) ❄️",
+            "text": "A temperatura ideal para desacelerar a respiração e evitar a perda de nutrientes é de 0 a 2 °C. 💡 Dica de conservação: Guarde a couve-flor envolvida em um saco plástico frouxo na gaveta de legumes (0–2 °C) por 1 a 2 semanas."
+          },
+          {
+            "name": "Aferventar (blanching) e congelar abaixo de -18 °C — Congelamento (10 a 12 meses) 🧊",
+            "text": "Para guardar a longo prazo, aferventar é essencial para inativar enzimas de degradação. 💡 Dica de conservação: Corte em floretes, afervente em água fervente com sal por 1–2 minutos, resfrie em água gelada, seque e congele (-18 °C)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "É seguro comer couve-flor com pequenas manchas escuras na superfície?",
+            "answer": "Pequenas manchas escuras são geralmente oxidação ou mofo superficial. Se a estrutura continuar firme, corte as partes escuras profundamente e cozinhe. Se as manchas forem grandes, descarte."
+          },
+          {
+            "question": "Por que a couve-flor deve ser aferventada antes de congelar em vez de ser congelada crua?",
+            "answer": "Congelar a couve-flor crua mantém as enzimas ativas, destruindo a vitamina C e os glucosinolatos, além de deixar os floretes moles. Aferventar inativa essas enzimas, preservando textura e nutrientes."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Kembang Kol agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk kembang kol berdasarkan pedoman keselamatan resmi untuk menjaga glukosinolat dan mencegah penggulingan akibat etilen.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Kembang kol adalah sayuran kubis-kubisan populer di seluruh dunia sebagai pengganti karbohidrat sehat dan bahan masakan yang lezat! Namun, pernahkah Anda menyimpannya lalu mendapatinya berubah menjadi kuning atau berbintik hitam? 🥦\n\nKembang kol memiliki laju respirasi pascapanen yang sangat tinggi, membuat kandungan **glukosinolat** (senyawa antikanker) dan Vitamin C mengalami pembusukan mandiri secara cepat. Selain itu, paparan gas etilen mempercepat proses kuningasi dan kerusakan jaringan.\n\nDalam panduan ini, kami membagikan panduan penyimpanan kembang kol 3 langkah berbasis ilmiah untuk memperlambat respirasi dan melindungi nutrisi pentingnya. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Pisahkan secara ketat dari buah dan sayur penghasil etilen ⚠️",
+            "desc": "Kembang kol sangat sensitif terhadap gas etilen. Menyimpannya di dekat apel, pisang, atau tomat menyebabkan kembang kol cepat menguning dan hancur."
+          },
+          {
+            "title": "Jangan dicuci sebelum disimpan; jaga kelembapan tinggi 💧",
+            "desc": "Mencuci kembang kol sebelum disimpan mengunci air di antara bunga, memicu jamur dan bintik hitam. Biarkan tetap kering sambil menjaga kelembapan relatif 90–95%."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Bungkus bonggol tanpa dicuci dengan tisu dapur — Kontrol Kelembapan 📦",
+            "text": "Bersihkan kotoran tanpa mencuci dan bungkus kembang kol dengan tisu dapur. 💡 Tips Penyimpanan: Membiarkan daun luar tetap menempel membantu menahan kelembapan. Tisu menyerap kelebihan air dan mencegah kekeringan."
+          },
+          {
+            "name": "Simpan di kulkas pada suhu 0–2°C & kelembapan 90–95% — Dingin (1–2 Minggu) ❄️",
+            "text": "Suhu terbaik untuk memperlambat respirasi dan hilangnya nutrisi adalah 0–2°C. 💡 Tips Penyimpanan: Simpan kembang kol yang sudah dibungkus dalam kantong plastik longgar di laci sayur (0–2°C) selama 1 hingga 2 minggu."
+          },
+          {
+            "name": "Rebus sebentar (blanching) lalu bekukan di bawah -18°C — Pembekuan (10–12 Bulan) 🧊",
+            "text": "Untuk penyimpanan jangka panjang, perebusan sebentar penting untuk menghentikan enzim perusak. 💡 Tips Penyimpanan: Potong per kuntum, rebus dalam air garam mendidih selama 1–2 menit, tiriskan di air es, keringkan, lalu bekukan (-18°C)."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah kembang kol dengan bintik hitam kecil masih aman dimakan?",
+            "answer": "Bintik hitam kecil biasanya disebabkan oleh oksidasi atau jamur permukaan. Jika tekstur masih padat, potong bagian hitam agak dalam lalu masak hingga matang. Jika bintik hitam menyebar luas, segera buang."
+          },
+          {
+            "question": "Mengapa kembang kol harus direbus sebentar sebelum dibekukan daripada dibekukan mentah?",
+            "answer": "Membekukan kembang kol mentah membuat enzim di dalamnya tetap aktif, merusak Vitamin C dan glukosinolat serta membuat tekstur menjadi lembek saat dicairkan. Perebusan sebentar menghentikan enzim ini sehingga tekstur dan nutrisi terjaga."
+          }
+        ]
+      }
     }
+  }
 }

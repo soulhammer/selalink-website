@@ -1,406 +1,406 @@
 {
-    "how-to-store-zucchini": {
-        "ingId": "zucchini",
-        "pubDate": "2026-04-03",
-        "updatedDate": "2026-04-03",
-        "heroImage": "/images/blog/zucchini_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "애호박(주키니) 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 애호박의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
-                "intro": "애호박을 사두고 며칠 뒤에 쓰려고 꺼냈더니 표면이 물러지고 곰팡이가 피어 버린 적 있으시죠? 🥒\n\n애호박과 주키니는 수분 함량이 90% 이상으로 매우 높아 습기에 민감하며, 온도 변화나 냉해에 취약한 과채류입니다. 제대로 감싸지 않은 채 냉장고에 그대로 두면 수분이 쉽게 증발하여 껍질이 쭈글쭈글해지거나, 반대로 밀폐된 수분으로 인해 표면이 쉽게 무르고 썩게 됩니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들의 검증된 가이드라인을 바탕으로, 애호박의 아삭함과 신선도를 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "보관하기 전에 절대로 물로 씻지 마세요 💧",
-                        "desc": "애호박 표면에 물기가 남아있는 상태로 보관하면 수분이 갇혀 무름 현상이 일어나고 곰팡이가 피기 매우 쉬운 환경이 됩니다. 흙이나 이물질은 마른 천이나 키친타월로 가볍게 털어내고, 씻는 것은 조리 직전에 하세요."
-                    },
-                    {
-                        "title": "지나치게 낮은 온도로 보관하지 마세요 ❄️",
-                        "desc": "애호박은 저온에 취약하여 0~2℃ 이하의 강한 냉기에 노출되면 무름과 변색을 유발하는 냉해(Chilling Injury)를 입기 쉽습니다. 냉장고 내 온도가 비교적 완만한 야채칸(신선실)에 보관해야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "수분을 흡수하는 키친타월로 감싸기 — 수분 조절 포장 🧻",
-                        "text": "애호박 표면에서 나오는 자체 수분이 맺히면 표면이 물러지는 원인이 됩니다. 💡 보관 팁: 씻지 않은 애호박을 키친타월이나 신문지로 한 개씩 감싸주세요. 키친타월이 애호박의 자체 호흡으로 생기는 습기를 흡수하여 무름 현상을 방지해 줍니다."
-                    },
-                    {
-                        "name": "비닐팩에 담아 야채칸 보관하기 — 냉장 보관 (7~10일) 🥒",
-                        "text": "키친타월로 감싼 애호박을 비닐 지퍼백이나 위생봉투에 담아 수분 증발을 막아줍니다. 💡 보관 팁: 봉지 입구를 완전히 밀폐하기보다는 약간의 숨구멍을 남겨둔 채 냉장고 야채칸(4~7℃)에 보관하세요. 약 7~10일간 아삭한 상태가 유지됩니다."
-                    },
-                    {
-                        "name": "썰어서 살짝 데친 후 냉동 보관하기 — 장기 냉동 보관 (1~2달) 🧊",
-                        "text": "오래 보관해야 할 때는 조리 용도에 맞게 썰어 냉동하는 것이 좋습니다. 💡 보관 팁: 용도에 맞게 썰어 소금물에 살짝 데친(블랜칭) 후 수분을 완전히 제거하여 지퍼백에 소분 후 냉동 보관(-18℃ 이하)하세요. 찌개나 볶음용으로 1~2개월간 사용할 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "사용하고 남은 애호박 조각은 어떻게 보관해야 하나요?",
-                        "answer": "자른 단면에서 수분이 나오며 균이 번식하기 쉽습니다. 단면을 키친타월이나 랩으로 밀착 밀봉한 뒤 지퍼백에 넣어 냉장 보관하고, 2~3일 이내에 빠르게 사용하시는 것이 좋습니다."
-                    },
-                    {
-                        "question": "애호박을 씻지 않고 보관해도 위생상 괜찮나요?",
-                        "answer": "네, 괜찮습니다. 겉면의 흙은 마른 타월로 털어내어 보관하는 것이 수분 유입으로 인한 부패를 막아줍니다. 조리 직전에 흐르는 물에 깨끗이 씻어서 사용하시면 위생적으로 안전합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Store Zucchini (Courgette): Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for zucchini based on official safety guidelines.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Have you ever bought fresh zucchini only to find it soft, mushy, or moldy after a few days in the fridge? 🥒\n\nZucchini contains over 90% water, making it extremely sensitive to moisture, temperature fluctuations, and chilling injury. Leaving it unprotected in the refrigerator causes moisture evaporation and skin shriveling, while trapped humidity leads to softening and decay.\n\nIn this guide, introduces a scientifically proven 3-step storage guide based on expert guidelines from agricultural and food safety authorities to maximize your zucchini's crispness and shelf life. 🛡️",
-                "whyTitle": "Why Store Zucchini This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never wash zucchini before storing 💧",
-                        "desc": "Storing wet zucchini traps moisture on the skin, causing it to soften rapidly and creating an ideal environment for mold growth. Wipe off dirt or debris with a dry cloth or paper towel, and wash right before cooking."
-                    },
-                    {
-                        "title": "Avoid storing at overly cold temperatures ❄️",
-                        "desc": "Zucchini is sensitive to cold temperatures (below 0–2°C) and suffers from chilling injury, leading to pitting, water-soaked spots, and decay. Keep it in the warmer crisper drawer of your refrigerator."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Wrap individually with paper towels — Moisture Control Wrapping 🧻",
-                        "text": "Condensation from the zucchini's natural respiration leads to surface softening. 💡 Storage Tip: Wrap each dry, unwashed zucchini in a paper towel or newspaper. The paper absorbs excess moisture released by the vegetable, preventing decay."
-                    },
-                    {
-                        "name": "Place in a plastic bag in the crisper drawer — Cold Storage (7–10 Days) 🥒",
-                        "text": "Enclosing wrapped zucchini in a perforated plastic bag prevents moisture loss while maintaining airflow. 💡 Storage Tip: Place wrapped zucchini in a bag left slightly open and store in the refrigerator crisper drawer (4–7°C / 39–45°F). It will stay crisp for 7 to 10 days."
-                    },
-                    {
-                        "name": "Slice, blanch, and freeze for long-term storage — Freezer Storage (1–2 Months) 🧊",
-                        "text": "For extended storage, slicing and blanching preserves texture and nutrients before freezing. 💡 Storage Tip: Slice zucchini to desired shapes, blanch briefly in boiling salted water, pat completely dry, and store in airtight Ziploc bags below -18°C for 1 to 2 months."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "How should I store partially used or cut zucchini?",
-                        "answer": "Cut surfaces lose moisture quickly and are vulnerable to bacteria. Tightly wrap the cut end with plastic wrap or a paper towel, seal it in a Ziploc bag, refrigerate, and consume within 2 to 3 days."
-                    },
-                    {
-                        "question": "Is it safe and hygienic to store zucchini without washing it first?",
-                        "answer": "Yes, it is safer. Leaving zucchini unwashed prevents excess moisture from triggering decay. Simply wipe off dry dirt before storing, and wash thoroughly under running water right before cooking."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ズッキーニ（韓国カボチャ）を新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくズッキーニの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "ズッキーニ（韓国カボチャ）を買っておき、数日後に使おうとして取り出したら、表面が柔らかく傷んでいたりカビが生えていた経験はありませんか？🥒\n\nズッキーニは水分含有量が90%以上と非常に高いため湿気に敏感で、温度変化や低温障害に弱い果菜類です。包まずにそのまま冷蔵庫に入れておくと水分が蒸発して皮がシワシワになり、逆に密閉して水分がこもると表面が腐りやすくなります。\n\n本記事では、農学および食品安全の専門家による検証済みガイドラインに基づき、ズッキーニのシャキシャキ感と新鮮さを長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "保存する前に絶対に水で洗わないでください 💧",
-                        "desc": "表面に水気が残った状態で保存すると、湿気が閉じ込められて軟化現象が起き、カビが非常に生えやすくなります。土や汚れは乾いた布やキッチンペーパーで軽く拭き取り、洗うのは調理直前にしてください。"
-                    },
-                    {
-                        "title": "極端に低い meintenance 温度は避けてください ❄️",
-                        "desc": "ズッキーニは低温に弱く、0〜2℃以下の強い冷気に晒されると、軟化や変色を引き起こす「低温障害（Chilling Injury）」を受けやすくなります。冷蔵庫内の温度が比較的水準を保てる野菜室に保存してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "水分を吸収するキッチンペーパーで包む — 水分調整ラッピング 🧻",
-                        "text": "ズッキーニ自体から出る水分が表面に付着すると軟化の原因になります。💡保存のコツ：洗っていないズッキーニを1本ずつキッチンペーパーや新聞紙で包んでください。ペーパーが自身の呼吸で発生する湿気を吸収し、傷みを防ぎます。"
-                    },
-                    {
-                        "name": "ポリ袋に入れて野菜室で保存する — 冷蔵保存 (7〜10日間) 🥒",
-                        "text": "ペーパーで包んだズッキーニをポリ袋やジッパーバッグに入れ、水分の蒸発を防ぎます。💡保存のコツ：袋の口を完全には密閉せず、少し空気の通り道を作った状態で冷蔵庫の野菜室（4〜7℃）に保存します。約7〜10日間新鮮さが保たれます。"
-                    },
-                    {
-                        "name": "カットして軽く湯通ししてから冷凍する — 冷凍保存 (1〜2ヶ月間) 🧊",
-                        "text": "長期間保存したい場合は、用途に合わせてカットし冷凍するのがおすすめです。💡保存のコツ：料理に合わせて切り、塩水でサッと湯通し（ブリーチング）した後、しっかりと水気を切ってジッパーバッグに小分けし冷凍室（-18℃以下）で保存します。スープや炒め物用に1〜2ヶ月間使用できます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "使いかけのズッキーニの切り口はどのように保存すればよいですか？",
-                        "answer": "カットした断面から水分が出て菌が繁殖しやすくなります。断面をラップやキッチンペーパーでぴったりと密閉し、ジッパーバッグに入れて冷蔵保存し、2〜3日以内に使い切るのが望ましいです。"
-                    },
-                    {
-                        "question": "ズッキーニを洗わずに保存しても衛生的に大丈夫ですか？",
-                        "answer": "はい、問題ありません。表面の土は乾いたタオルで拭き取って保存する方が、水分混入による腐敗を防げます。調理直前に流水できれいに洗って使用すれば衛生的に安全です。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持西葫芦新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解西葫芦的最佳储存温度、方式和保鲜时长。",
-                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "您是否曾买回鲜嫩的西葫芦，放进冰箱几天后拿出来却发现表面变软、甚至发霉变质？🥒\n\n西葫芦的含水量高达90%以上，对湿气极度敏感，同时也是易受温度变化和冻伤影响的果菜类食材。如果不加包裹直接放入冰箱，水分容易蒸发导致果皮起皱；反之如果密封积聚湿气，又会导致表面迅速腐烂。\n\n本指南基于农业及食品安全专家的权威指南，为您介绍3步科学保存秘诀，帮您长久保持西葫芦的爽脆与新鲜。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "储存前切勿用水清洗 💧",
-                        "desc": "西葫芦带水储存会导致内部湿气积聚，引发变软软化，并为霉菌滋生提供绝佳环境。泥土或杂质用干布或厨房纸巾轻擦干净即可，清洗请留到烹饪前进行。"
-                    },
-                    {
-                        "title": "切勿存放在过低温度的环境下 ❄️",
-                        "desc": "西葫芦对低温敏感，暴露于0~2℃以下的强冷气中容易发生冻伤（Chilling Injury），导致表皮凹陷、变色和腐烂。应存放在温度相对温和的冰箱蔬菜抽屉中。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "用吸水厨房纸巾包裹 — 控湿吸水包裹 🧻",
-                        "text": "西葫芦自身呼吸作用释放的水汽冷凝在表皮上是导致变软腐烂的主因。💡储存小贴士：用厨房纸巾或报纸将未经清洗的西葫芦逐个包裹。纸巾能吸收自身呼吸产生的湿气，有效防止变软。"
-                    },
-                    {
-                        "name": "装入保鲜袋置于蔬菜抽屉 — 冷藏储存 (7~10天) 🥒",
-                        "text": "将裹好纸巾的西葫芦装入塑料保鲜袋或拉链袋中，防止水分蒸发。💡储存小贴士：不要将袋口完全封死，留少许透气缝隙，放入冰箱蔬菜保鲜抽屉（4~7℃）保存。可保持7至10天爽脆口感。"
-                    },
-                    {
-                        "name": "切片焯水后冷冻 — 长期冷冻保存 (1~2个月) 🧊",
-                        "text": "如需长期保存，建议按烹饪需求切片并焯水后再冷冻。💡储存小贴士：切成所需形状，放入盐水中焯水片刻，彻底擦干水分后分装入拉链袋，置于冷冻室（-18℃以下）保存，可保存1~2个月。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "用剩的切开西葫芦应该如何保存？",
-                        "answer": "切开的断面容易渗出水分并滋生细菌。请用保鲜膜或厨房纸巾紧密包裹切面，装入拉链袋冷藏保存，并建议在2~3天内尽快食用完毕。"
-                    },
-                    {
-                        "question": "西葫芦不洗直接保存卫生吗？",
-                        "answer": "是的，这样更安全。表面泥土用干毛巾擦拭后保存，能有效避免水分带入引发腐烂。只需在烹饪前用流动水彻底清洗干净即可保障卫生。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener los calabacines (zucchini) frescos: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para los calabacines según las directrices oficiales de seguridad.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "¿Alguna vez compró calabacines frescos y, tras unos días en el refrigerador, descubrió que se habían vuelto blandos, arrugados o con moho? 🥒\n\nEl calabacín contiene más del 90% de agua, lo que lo hace sumamente sensible a la humedad, las variaciones de temperatura y el daño por frío. Guardarlo sin protección hace que pierda agua y se arrugue, mientras que la humedad atrapada acelera su descomposición.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria para maximizar la frescura de sus calabacines. 🛡️",
-                "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Nunca lave los calabacines antes de guardarlos 💧",
-                        "desc": "Guardar calabacines húmedos atrapa el agua en la piel, ablandándolos rápidamente y favoreciendo el crecimiento de moho. Limpie el polvo o la tierra con un paño seco o papel de cocina y lávelos justo antes de cocinar."
-                    },
-                    {
-                        "title": "Evite almacenarlos a temperaturas demasiado bajas ❄️",
-                        "desc": "El calabacín es sensible al frío excesivo (por debajo de 0-2 °C) y sufre daño por congelación, manifestado en manchas oscuras, ablandamiento y deterioro. Consérvelo en el cajón de las verduras del refrigerador."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Envuelva individualmente con papel de cocina — Control de humedad 🧻",
-                        "text": "La condensación provocada por la transpiración natural del calabacín ablanda la superficie. 💡 Consejo de almacenamiento: Envuelva cada calabacín seco sin lavar en papel de cocina o papel periódico. El papel absorbe la humedad generada, evitando la descomposición."
-                    },
-                    {
-                        "name": "Coloque en una bolsa de plástico en el cajón de verduras — Refrigeración (7–10 días) 🥒",
-                        "text": "Introducir los calabacines envueltos en una bolsa de plástico evita la evaporación de agua. 💡 Consejo de almacenamiento: Guarde los calabacines envueltos dentro de una bolsa ligeramente abierta en el cajón de verduras (4-7 °C). Se mantendrán firmes de 7 a 10 días."
-                    },
-                    {
-                        "name": "Corte, blanquee y congele para almacenamiento prolongado — Conservación (1–2 meses) 🧊",
-                        "text": "Para un almacenamiento prolongado, cortar y blanquear conserva la textura y los nutrientes. 💡 Consejo de almacenamiento: Corte en rodajas o cubos, blanquee brevemente en agua hirviendo con sal, seque bien y guarde en bolsas herméticas por debajo de -18 °C de 1 a 2 meses."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Cómo debo guardar un calabacín ya cortado o empezado?",
-                        "answer": "La superficie cortada pierde humedad rápido y atrae bacterias. Cubra el corte firmemente con film plástico o papel de cocina, guarde en una bolsa Ziploc en el refrigerador y consuma en 2 a 3 días."
-                    },
-                    {
-                        "question": "¿Es seguro e higiénico guardar el calabacín sin lavarlo primero?",
-                        "answer": "Sí, es más seguro. Mantenerlo seco evita que la humedad desencadene la pudrición. Simplemente limpie la suciedad en seco antes de guardarlo y lávelo bien bajo el grifo justo antes de cocinar."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver les courgettes fraîches : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les courgettes selon les directives officielles de sécurité.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Avez-vous déjà acheté des courgettes fraîches pour constater après quelques jours au réfrigérateur qu'elles étaient devenues molles, flétries ou moisies ? 🥒\n\nLa courgette contient plus de 90 % d'eau, ce qui la rend extrêmement sensible à l'humidité, aux variations de température et au froid excessif. La laisser sans protection entraîne l'évaporation de l'eau et le flétrissement de la peau, tandis que l'humidité emprisonnée accélère le pourrissement.\n\nDans ce guide, vous présente un guide scientifique en 3 étapes recommandé par des experts agricoles et de sécurité alimentaire pour préserver la fraîcheur de vos courgettes. 🛡️",
-                "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne lavez jamais les courgettes avant de les stocker 💧",
-                        "desc": "Stockerv une courgette humide emprisonne l'eau sur sa peau, la ramollissant rapidement et créant un milieu idéal pour le développement de moisissures. Essuyez la terre avec un chiffon sec ou du papier absorbant, et ne la lavez qu'au moment de cuisiner."
-                    },
-                    {
-                        "title": "Évitez de les stocker à des températures trop basses ❄️",
-                        "desc": "La courgette est sensible au froid intense (sous 0–2 °C) et souffre de lésions dues au gel, entraînant des taches brunes et le pourrissement. Conservez-la dans le bac à légumes du réfrigérateur."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Envelopper individuellement dans du papier absorbant — Contrôle de l'humidité 🧻",
-                        "text": "La condensation issue de la respiration naturelle de la courgette ramollit la peau. 💡 Astuce de conservation : Enveloppez chaque courgette sèche et non lavée dans du papier essuie-tout ou du journal. Le papier absorbe l'humidité rejetée, évitant le pourrissement."
-                    },
-                    {
-                        "name": "Placer dans un sachet plastique dans le bac à légumes — Stockage (7 à 10 jours) 🥒",
-                        "text": "Mettre la courgette enveloppée dans un sachet plastique limite l'évaporation de l'eau. 💡 Astuce de conservation : Déposez la courgette enveloppée dans un sachet légèrement ouvert et placez-la dans le bac à légumes du frigo (4–7 °C). Elle restera ferme pendant 7 à 10 jours."
-                    },
-                    {
-                        "name": "Couper, blanchir et congeler pour une longue conservation — Stockage (1 à 2 mois) 🧊",
-                        "text": "Pour une longue conservation, la découper et la blanchir préserve sa texture et ses nutriments. 💡 Astuce de conservation : Coupez la courgette en rondelles ou dés, blanchissez-la rapidement dans l'eau bouillante salée, séchez-la soigneusement et congelez-la sous -18 °C pendant 1 à 2 mois."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Comment conserver une courgette entamée ?",
-                        "answer": "La partie coupée perd vite son eau et attire les bactéries. Enveloppez fermement la tranche avec du film étirable ou du papier absorbant, placez-la dans un sac congélation au réfrigérateur et consommez-la sous 2 à 3 jours."
-                    },
-                    {
-                        "question": "Est-il sûr de conserver les courgettes sans les laver au préalable ?",
-                        "answer": "Oui, c'est même préférable. Ne pas la laver évite que l'humidité ne déclenche le pourrissement. Essuyez simplement la terre à sec avant de la stocker, puis lavez-la soigneusement sous l'eau avant de la cuisiner."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Zucchini richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Zucchini basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Haben Sie schon einmal frische Zucchini gekauft, nur um nach wenigen Tagen im Kühlschrank festzustellen, dass sie weich, schrumpelig oder schimmelig geworden sind? 🥒\n\nZucchini bestehen zu über 90 % aus Wasser und reagieren extrem empfindlich auf Feuchtigkeit, Temperaturschwankungen und Kälteschäden. Ungeschützt im Kühlschrank verdunstet ihr Wasser und die Schale schrumpelt, während eingesperrte Feuchtigkeit zu Weichheit und Fäulnis führt.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Knackigkeit und Frische Ihrer Zucchini zu maximieren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Zucchini vor der Lagerung niemals waschen 💧",
-                        "desc": "Werden feuchte Zucchini gelagert, schließt dies Wasser an der Schale ein, was sie rasch weich werden lässt und Schimmelbildung fördert. Wischen Sie Erde nur mit einem trockenen Tuch oder Küchenpapier ab und waschen Sie sie erst direkt vor dem Kochen."
-                    },
-                    {
-                        "title": "Vermeiden Sie zu kalte Lagerungstemperaturen ❄️",
-                        "desc": "Zucchini sind kälteempfindlich (unter 0–2 °C) und erleiden Kälteschäden, die sich in wässrigen Stellen und schnellerem Verderb äußern. Lagern Sie Zucchini im etwas wärmeren Gemüsefach des Kühlschranks."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Einzeln in Küchenpapier einwickeln — Feuchtigkeitsregulierende Verpackung 🧻",
-                        "text": "Kondenswasser durch die natürliche Atmung der Zucchini lässt die Oberfläche weich werden. 💡 Lagerungstipp: Wickeln Sie jede ungewaschene, trockene Zucchini einzeln in Küchenpapier oder Zeitungspapier. Das Papier nimmt abgegebene Feuchtigkeit auf und schützt vor Fäulnis."
-                    },
-                    {
-                        "name": "In einen Plastikbeutel ins Gemüsefach legen — Kühllagerung (7–10 Tage) 🥒",
-                        "text": "Das Einlegen der umwickelten Zucchini in einen Plastikbeutel verhindert das Austrocknen. 💡 Lagerungstipp: Legen Sie die umwickelte Zucchini in einen leicht geöffneten Beutel ins Gemüsefach des Kühlschranks (4–7 °C). So bleibt sie 7 bis 10 Tage knackig."
-                    },
-                    {
-                        "name": "Schneiden, blanchieren und einfrieren — Gefrierlagerung (1–2 Monate) 🧊",
-                        "text": "Für die Langzeitlagerung erhält Anschneiden und Blanchieren vor dem Einfrieren Textur und Nährstoffe. 💡 Lagerungstipp: Zucchini in Scheiben oder Würfel schneiden, kurz in kochendem Salzwasser blanchieren, gründlich abtrocknen und im Gefrierbeutel bei unter -18 °C 1 bis 2 Monate einfrieren."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Wie bewahre ich eine angeschnittene Zucchini am besten auf?",
-                        "answer": "Die Schnittfläche verliert schnell Feuchtigkeit und ist anfällig für Keime. Wickeln Sie die Schnittfläche fest in Frischhaltefolie oder Küchenpapier, legen Sie das Stück in einen Ziploc-Beutel in den Kühlschrank und verbrauchen Sie es innerhalb von 2 bis 3 Tagen."
-                    },
-                    {
-                        "question": "Ist es sicher und hygienisch, Zucchini ungewaschen zu lagern?",
-                        "answer": "Ja, das ist sogar sicherer. Ungewaschene Zucchini verderben langsamer, da keine zusätzliche Feuchtigkeit vorhanden ist. Wischen Sie Schmutz vor der Lagerung nur trocken ab und waschen Sie die Zucchini erst gründlich vor der Zubereitung."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar abobrinha fresca: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para a abobrinha com base em diretrizes oficiais de segurança.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Você já comprou abobrinhas frescas e, após alguns dias na geladeira, percebeu que ficaram murchas, moles ou mofadas? 🥒\n\nA abobrinha contém mais de 90% de água, sendo extremamente sensível à umidade, variações de temperatura e danos por frio. Deixá-la desprotegida faz com que perca água e fique murcha, enquanto a umidade presa acelera sua deterioração.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas recomendado por especialistas para maximizar o frescor e a crocância da sua abobrinha. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Compreender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Regras essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca lave a abobrinha antes de guardar 💧",
-                        "desc": "Guardar a abobrinha úmida retém água na casca, amolecendo-a rapidamente e favorecendo o surgimento de mofo. Limpe a sujeira apenas com um pano seco ou papel toalha e lave somente no momento de cozinhar."
-                    },
-                    {
-                        "title": "Evite armazenar em temperaturas excessivamente frias ❄️",
-                        "desc": "A abobrinha é sensível ao frio intenso (abaixo de 0-2 °C) e sofre danos por congelamento, apresentando manchas escuras e amolecimento. Mantenha-a na gaveta de legumes da geladeira."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Embrulhe individualmente em papel toalha — Controle de umidade 🧻",
-                        "text": "A condensação da respiração natural da abobrinha amolece a casca. 💡 Dica de conservação: Envolva cada abobrinha seca e sem lavar em papel toalha ou jornal. O papel absorve a umidade liberada, evitando a deterioração."
-                    },
-                    {
-                        "name": "Coloque em um saco plástico na gaveta de legumes — Refrigeração (7–10 dias) 🥒",
-                        "text": "Colocar as abobrinhas embrulhadas em um saco plástico evita a perda de umidade. 💡 Dica de conservação: Guarde as abobrinhas embrulhadas em um saco levemente aberto na gaveta de legumes (4-7 °C). Elas permanecerão firmes por 7 a 10 dias."
-                    },
-                    {
-                        "name": "Corte, afervente e congele para longa conservação — Armazenamento (1–2 meses) 🧊",
-                        "text": "Para conservar por longo prazo, cortar e aferventar preserva a textura e os nutrientes. 💡 Dica de conservação: Corte em rodelas ou cubos, afervente rapidamente em água fervente com sal, seque bem e congele em sacos herméticos a menos de -18 °C por 1 a 2 meses."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Como devo guardar uma abobrinha cortada ou metade usada?",
-                        "answer": "A parte cortada perde umidade rapidamente e atrai bactérias. Envolva a ponta cortada firmemente com filme plástico ou papel toalha, guarde em um saco Ziploc na geladeira e consuma em 2 a 3 dias."
-                    },
-                    {
-                        "question": "É seguro guardar a abobrinha sem lavar primeiro?",
-                        "answer": "Sim, é até mais seguro. Não lavá-la impede que a umidade acelere o apodrecimento. Apenas limpe a terra a seco antes de guardar e lave bem sob água corrente antes de cozinhar."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Zucchini agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk zucchini berdasarkan pedoman keselamatan resmi.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Pernahkah Anda membeli zucchini segar lalu mendapatinya menjadi lembek, keriput, atau berjamur setelah beberapa hari di kulkas? 🥒\n\nZucchini mengandung lebih dari 90% air, menjadikannya sangat sensitif terhadap kelembapan, perubahan suhu, dan kerusakan akibat suhu dingin. Membiarkannya tanpa perlindungan menyebabkan penguapan air dan kulit keriput, sedangkan kelembapan yang terperangkap memicu pembusukan.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan rekomendasi ahli untuk memaksimalkan kesegaran dan tekstur renyah zucchini Anda. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan pernah mencuci zucchini sebelum disimpan 💧",
-                        "desc": "Menyimpan zucchini dalam kondisi basah akan memerangkap air pada kulitnya, membuatnya cepat melembek dan menjadi tempat berkembang nya jamur. Lap kotoran dengan kain kering atau tisu dapur, lalu cuci tepat sebelum dimasak."
-                    },
-                    {
-                        "title": "Hindari menyimpan pada suhu yang terlalu dingin ❄️",
-                        "desc": "Zucchini sensitif terhadap suhu terlalu dingin (di bawah 0–2°C) dan dapat mengalami pembekuan/chilling injury yang menyebabkan bercak basah dan pembusukan. Simpan di laci sayuran kulkas."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Bungkus satu per satu dengan tisu dapur — Kontrol Kelembapan 🧻",
-                        "text": "Kondensasi dari respirasi alami zucchini menyebabkan permukaannya lembek. 💡 Tips Penyimpanan: Bungkus setiap zucchini yang kering dan belum dicuci menggunakan tisu dapur atau kertas koran. Kertas akan menyerap kelembapan berlebih untuk mencegah pembusukan."
-                    },
-                    {
-                        "name": "Masukkan ke kantong plastik di laci sayuran — Simpan Dingin (7–10 Hari) 🥒",
-                        "text": "Memasukkan zucchini yang terbungkus ke dalam kantong plastik mencegah kehilangan kadar air. 💡 Tips Penyimpanan: Letakkan zucchini terbungkus di dalam kantong plastik yang sedikit terbuka di laci sayuran kulkas (4–7°C). Zucchini akan tetap renyah selama 7 hingga 10 hari."
-                    },
-                    {
-                        "name": "Potong, rebus sebentar (blanching), lalu bekukan — Simpan Beku (1–2 Bulan) 🧊",
-                        "text": "Untuk penyimpanan jangka panjang, memotong dan merebusnya sebentar menjaga tekstur dan nutrisi. 💡 Tips Penyimpanan: Potong sesuai selera, rebus sebentar dalam air garam mendidih, keringkan hingga tuntas, lalu bekukan dalam kantong kedap udara di bawah -18°C selama 1 hingga 2 bulan."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Bagaimana cara menyimpan zucchini yang sudah dipotong sebagian?",
-                        "answer": "Bagian potongan cepat kehilangan air dan rentan bakteri. Bungkus bagian potongan dengan plastik wrap atau tisu dapur hingga rapat, masukkan ke kantong Ziploc di kulkas, lalu habiskan dalam 2 hingga 3 hari."
-                    },
-                    {
-                        "question": "Apakah aman dan higienis menyimpan zucchini tanpa dicuci terlebih dahulu?",
-                        "answer": "Ya, justru lebih aman. Menyimpan tanpa dicuci mencegah kelembapan memicu pembusukan. Lap kotoran kering sebelum disimpan, lalu cuci bersih di bawah air mengalir tepat sebelum dimasak."
-                    }
-                ]
-            }
-        }
+  "how-to-store-zucchini": {
+    "ingId": "zucchini",
+    "pubDate": "2026-04-03",
+    "updatedDate": "2026-04-03",
+    "heroImage": "/images/blog/zucchini_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "애호박(주키니) 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 애호박의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+        "intro": "애호박을 사두고 며칠 뒤에 쓰려고 꺼냈더니 표면이 물러지고 곰팡이가 피어 버린 적 있으시죠? 🥒\n\n애호박과 주키니는 수분 함량이 90% 이상으로 매우 높아 습기에 민감하며, 온도 변화나 냉해에 취약한 과채류입니다. 제대로 감싸지 않은 채 냉장고에 그대로 두면 수분이 쉽게 증발하여 껍질이 쭈글쭈글해지거나, 반대로 밀폐된 수분으로 인해 표면이 쉽게 무르고 썩게 됩니다.\n\n이번 가이드에서는 농업 및 식품 안전 전문가들의 검증된 가이드라인을 바탕으로, 애호박의 아삭함과 신선도를 오랫동안 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "보관하기 전에 절대로 물로 씻지 마세요 💧",
+            "desc": "애호박 표면에 물기가 남아있는 상태로 보관하면 수분이 갇혀 무름 현상이 일어나고 곰팡이가 피기 매우 쉬운 환경이 됩니다. 흙이나 이물질은 마른 천이나 키친타월로 가볍게 털어내고, 씻는 것은 조리 직전에 하세요."
+          },
+          {
+            "title": "지나치게 낮은 온도로 보관하지 마세요 ❄️",
+            "desc": "애호박은 저온에 취약하여 0~2℃ 이하의 강한 냉기에 노출되면 무름과 변색을 유발하는 냉해(Chilling Injury)를 입기 쉽습니다. 냉장고 내 온도가 비교적 완만한 야채칸(신선실)에 보관해야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "수분을 흡수하는 키친타월로 감싸기 — 수분 조절 포장 🧻",
+            "text": "애호박 표면에서 나오는 자체 수분이 맺히면 표면이 물러지는 원인이 됩니다. 💡 보관 팁: 씻지 않은 애호박을 키친타월이나 신문지로 한 개씩 감싸주세요. 키친타월이 애호박의 자체 호흡으로 생기는 습기를 흡수하여 무름 현상을 방지해 줍니다."
+          },
+          {
+            "name": "비닐팩에 담아 야채칸 보관하기 — 냉장 보관 (7~10일) 🥒",
+            "text": "키친타월로 감싼 애호박을 비닐 지퍼백이나 위생봉투에 담아 수분 증발을 막아줍니다. 💡 보관 팁: 봉지 입구를 완전히 밀폐하기보다는 약간의 숨구멍을 남겨둔 채 냉장고 야채칸(4~7℃)에 보관하세요. 약 7~10일간 아삭한 상태가 유지됩니다."
+          },
+          {
+            "name": "썰어서 살짝 데친 후 냉동 보관하기 — 장기 냉동 보관 (1~2달) 🧊",
+            "text": "오래 보관해야 할 때는 조리 용도에 맞게 썰어 냉동하는 것이 좋습니다. 💡 보관 팁: 용도에 맞게 썰어 소금물에 살짝 데친(블랜칭) 후 수분을 완전히 제거하여 지퍼백에 소분 후 냉동 보관(-18℃ 이하)하세요. 찌개나 볶음용으로 1~2개월간 사용할 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "사용하고 남은 애호박 조각은 어떻게 보관해야 하나요?",
+            "answer": "자른 단면에서 수분이 나오며 균이 번식하기 쉽습니다. 단면을 키친타월이나 랩으로 밀착 밀봉한 뒤 지퍼백에 넣어 냉장 보관하고, 2~3일 이내에 빠르게 사용하시는 것이 좋습니다."
+          },
+          {
+            "question": "애호박을 씻지 않고 보관해도 위생상 괜찮나요?",
+            "answer": "네, 괜찮습니다. 겉면의 흙은 마른 타월로 털어내어 보관하는 것이 수분 유입으로 인한 부패를 막아줍니다. 조리 직전에 흐르는 물에 깨끗이 씻어서 사용하시면 위생적으로 안전합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Store Zucchini (Courgette): Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for zucchini based on official safety guidelines.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Have you ever bought fresh zucchini only to find it soft, mushy, or moldy after a few days in the fridge? 🥒\n\nZucchini contains over 90% water, making it extremely sensitive to moisture, temperature fluctuations, and chilling injury. Leaving it unprotected in the refrigerator causes moisture evaporation and skin shriveling, while trapped humidity leads to softening and decay.\n\nIn this guide, introduces a scientifically proven 3-step storage guide based on expert guidelines from agricultural and food safety authorities to maximize your zucchini's crispness and shelf life. 🛡️",
+        "whyTitle": "Why Store Zucchini This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never wash zucchini before storing 💧",
+            "desc": "Storing wet zucchini traps moisture on the skin, causing it to soften rapidly and creating an ideal environment for mold growth. Wipe off dirt or debris with a dry cloth or paper towel, and wash right before cooking."
+          },
+          {
+            "title": "Avoid storing at overly cold temperatures ❄️",
+            "desc": "Zucchini is sensitive to cold temperatures (below 0–2°C) and suffers from chilling injury, leading to pitting, water-soaked spots, and decay. Keep it in the warmer crisper drawer of your refrigerator."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Wrap individually with paper towels — Moisture Control Wrapping 🧻",
+            "text": "Condensation from the zucchini's natural respiration leads to surface softening. 💡 Storage Tip: Wrap each dry, unwashed zucchini in a paper towel or newspaper. The paper absorbs excess moisture released by the vegetable, preventing decay."
+          },
+          {
+            "name": "Place in a plastic bag in the crisper drawer — Cold Storage (7–10 Days) 🥒",
+            "text": "Enclosing wrapped zucchini in a perforated plastic bag prevents moisture loss while maintaining airflow. 💡 Storage Tip: Place wrapped zucchini in a bag left slightly open and store in the refrigerator crisper drawer (4–7°C / 39–45°F). It will stay crisp for 7 to 10 days."
+          },
+          {
+            "name": "Slice, blanch, and freeze for long-term storage — Freezer Storage (1–2 Months) 🧊",
+            "text": "For extended storage, slicing and blanching preserves texture and nutrients before freezing. 💡 Storage Tip: Slice zucchini to desired shapes, blanch briefly in boiling salted water, pat completely dry, and store in airtight Ziploc bags below -18°C for 1 to 2 months."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "How should I store partially used or cut zucchini?",
+            "answer": "Cut surfaces lose moisture quickly and are vulnerable to bacteria. Tightly wrap the cut end with plastic wrap or a paper towel, seal it in a Ziploc bag, refrigerate, and consume within 2 to 3 days."
+          },
+          {
+            "question": "Is it safe and hygienic to store zucchini without washing it first?",
+            "answer": "Yes, it is safer. Leaving zucchini unwashed prevents excess moisture from triggering decay. Simply wipe off dry dirt before storing, and wash thoroughly under running water right before cooking."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ズッキーニ（韓国カボチャ）を新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくズッキーニの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "ズッキーニ（韓国カボチャ）を買っておき、数日後に使おうとして取り出したら、表面が柔らかく傷んでいたりカビが生えていた経験はありませんか？🥒\n\nズッキーニは水分含有量が90%以上と非常に高いため湿気に敏感で、温度変化や低温障害に弱い果菜類です。包まずにそのまま冷蔵庫に入れておくと水分が蒸発して皮がシワシワになり、逆に密閉して水分がこもると表面が腐りやすくなります。\n\n本記事では、農学および食品安全の専門家による検証済みガイドラインに基づき、ズッキーニのシャキシャキ感と新鮮さを長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "保存する前に絶対に水で洗わないでください 💧",
+            "desc": "表面に水気が残った状態で保存すると、湿気が閉じ込められて軟化現象が起き、カビが非常に生えやすくなります。土や汚れは乾いた布やキッチンペーパーで軽く拭き取り、洗うのは調理直前にしてください。"
+          },
+          {
+            "title": "極端に低い meintenance 温度は避けてください ❄️",
+            "desc": "ズッキーニは低温に弱く、0〜2℃以下の強い冷気に晒されると、軟化や変色を引き起こす「低温障害（Chilling Injury）」を受けやすくなります。冷蔵庫内の温度が比較的水準を保てる野菜室に保存してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "水分を吸収するキッチンペーパーで包む — 水分調整ラッピング 🧻",
+            "text": "ズッキーニ自体から出る水分が表面に付着すると軟化の原因になります。💡保存のコツ：洗っていないズッキーニを1本ずつキッチンペーパーや新聞紙で包んでください。ペーパーが自身の呼吸で発生する湿気を吸収し、傷みを防ぎます。"
+          },
+          {
+            "name": "ポリ袋に入れて野菜室で保存する — 冷蔵保存 (7〜10日間) 🥒",
+            "text": "ペーパーで包んだズッキーニをポリ袋やジッパーバッグに入れ、水分の蒸発を防ぎます。💡保存のコツ：袋の口を完全には密閉せず、少し空気の通り道を作った状態で冷蔵庫の野菜室（4〜7℃）に保存します。約7〜10日間新鮮さが保たれます。"
+          },
+          {
+            "name": "カットして軽く湯通ししてから冷凍する — 冷凍保存 (1〜2ヶ月間) 🧊",
+            "text": "長期間保存したい場合は、用途に合わせてカットし冷凍するのがおすすめです。💡保存のコツ：料理に合わせて切り、塩水でサッと湯通し（ブリーチング）した後、しっかりと水気を切ってジッパーバッグに小分けし冷凍室（-18℃以下）で保存します。スープや炒め物用に1〜2ヶ月間使用できます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "使いかけのズッキーニの切り口はどのように保存すればよいですか？",
+            "answer": "カットした断面から水分が出て菌が繁殖しやすくなります。断面をラップやキッチンペーパーでぴったりと密閉し、ジッパーバッグに入れて冷蔵保存し、2〜3日以内に使い切るのが望ましいです。"
+          },
+          {
+            "question": "ズッキーニを洗わずに保存しても衛生的に大丈夫ですか？",
+            "answer": "はい、問題ありません。表面の土は乾いたタオルで拭き取って保存する方が、水分混入による腐敗を防げます。調理直前に流水できれいに洗って使用すれば衛生的に安全です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持西葫芦新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解西葫芦的最佳储存温度、方式和保鲜时长。",
+        "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "您是否曾买回鲜嫩的西葫芦，放进冰箱几天后拿出来却发现表面变软、甚至发霉变质？🥒\n\n西葫芦的含水量高达90%以上，对湿气极度敏感，同时也是易受温度变化和冻伤影响的果菜类食材。如果不加包裹直接放入冰箱，水分容易蒸发导致果皮起皱；反之如果密封积聚湿气，又会导致表面迅速腐烂。\n\n本指南基于农业及食品安全专家的权威指南，为您介绍3步科学保存秘诀，帮您长久保持西葫芦的爽脆与新鲜。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "储存前切勿用水清洗 💧",
+            "desc": "西葫芦带水储存会导致内部湿气积聚，引发变软软化，并为霉菌滋生提供绝佳环境。泥土或杂质用干布或厨房纸巾轻擦干净即可，清洗请留到烹饪前进行。"
+          },
+          {
+            "title": "切勿存放在过低温度的环境下 ❄️",
+            "desc": "西葫芦对低温敏感，暴露于0~2℃以下的强冷气中容易发生冻伤（Chilling Injury），导致表皮凹陷、变色和腐烂。应存放在温度相对温和的冰箱蔬菜抽屉中。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "用吸水厨房纸巾包裹 — 控湿吸水包裹 🧻",
+            "text": "西葫芦自身呼吸作用释放的水汽冷凝在表皮上是导致变软腐烂的主因。💡储存小贴士：用厨房纸巾或报纸将未经清洗的西葫芦逐个包裹。纸巾能吸收自身呼吸产生的湿气，有效防止变软。"
+          },
+          {
+            "name": "装入保鲜袋置于蔬菜抽屉 — 冷藏储存 (7~10天) 🥒",
+            "text": "将裹好纸巾的西葫芦装入塑料保鲜袋或拉链袋中，防止水分蒸发。💡储存小贴士：不要将袋口完全封死，留少许透气缝隙，放入冰箱蔬菜保鲜抽屉（4~7℃）保存。可保持7至10天爽脆口感。"
+          },
+          {
+            "name": "切片焯水后冷冻 — 长期冷冻保存 (1~2个月) 🧊",
+            "text": "如需长期保存，建议按烹饪需求切片并焯水后再冷冻。💡储存小贴士：切成所需形状，放入盐水中焯水片刻，彻底擦干水分后分装入拉链袋，置于冷冻室（-18℃以下）保存，可保存1~2个月。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "用剩的切开西葫芦应该如何保存？",
+            "answer": "切开的断面容易渗出水分并滋生细菌。请用保鲜膜或厨房纸巾紧密包裹切面，装入拉链袋冷藏保存，并建议在2~3天内尽快食用完毕。"
+          },
+          {
+            "question": "西葫芦不洗直接保存卫生吗？",
+            "answer": "是的，这样更安全。表面泥土用干毛巾擦拭后保存，能有效避免水分带入引发腐烂。只需在烹饪前用流动水彻底清洗干净即可保障卫生。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener los calabacines (zucchini) frescos: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para los calabacines según las directrices oficiales de seguridad.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "¿Alguna vez compró calabacines frescos y, tras unos días en el refrigerador, descubrió que se habían vuelto blandos, arrugados o con moho? 🥒\n\nEl calabacín contiene más del 90% de agua, lo que lo hace sumamente sensible a la humedad, las variaciones de temperatura y el daño por frío. Guardarlo sin protección hace que pierda agua y se arrugue, mientras que la humedad atrapada acelera su descomposición.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por expertos agrícolas y de seguridad alimentaria para maximizar la frescura de sus calabacines. 🛡️",
+        "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Nunca lave los calabacines antes de guardarlos 💧",
+            "desc": "Guardar calabacines húmedos atrapa el agua en la piel, ablandándolos rápidamente y favoreciendo el crecimiento de moho. Limpie el polvo o la tierra con un paño seco o papel de cocina y lávelos justo antes de cocinar."
+          },
+          {
+            "title": "Evite almacenarlos a temperaturas demasiado bajas ❄️",
+            "desc": "El calabacín es sensible al frío excesivo (por debajo de 0-2 °C) y sufre daño por congelación, manifestado en manchas oscuras, ablandamiento y deterioro. Consérvelo en el cajón de las verduras del refrigerador."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Envuelva individualmente con papel de cocina — Control de humedad 🧻",
+            "text": "La condensación provocada por la transpiración natural del calabacín ablanda la superficie. 💡 Consejo de almacenamiento: Envuelva cada calabacín seco sin lavar en papel de cocina o papel periódico. El papel absorbe la humedad generada, evitando la descomposición."
+          },
+          {
+            "name": "Coloque en una bolsa de plástico en el cajón de verduras — Refrigeración (7–10 días) 🥒",
+            "text": "Introducir los calabacines envueltos en una bolsa de plástico evita la evaporación de agua. 💡 Consejo de almacenamiento: Guarde los calabacines envueltos dentro de una bolsa ligeramente abierta en el cajón de verduras (4-7 °C). Se mantendrán firmes de 7 a 10 días."
+          },
+          {
+            "name": "Corte, blanquee y congele para almacenamiento prolongado — Conservación (1–2 meses) 🧊",
+            "text": "Para un almacenamiento prolongado, cortar y blanquear conserva la textura y los nutrientes. 💡 Consejo de almacenamiento: Corte en rodajas o cubos, blanquee brevemente en agua hirviendo con sal, seque bien y guarde en bolsas herméticas por debajo de -18 °C de 1 a 2 meses."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Cómo debo guardar un calabacín ya cortado o empezado?",
+            "answer": "La superficie cortada pierde humedad rápido y atrae bacterias. Cubra el corte firmemente con film plástico o papel de cocina, guarde en una bolsa Ziploc en el refrigerador y consuma en 2 a 3 días."
+          },
+          {
+            "question": "¿Es seguro e higiénico guardar el calabacín sin lavarlo primero?",
+            "answer": "Sí, es más seguro. Mantenerlo seco evita que la humedad desencadene la pudrición. Simplemente limpie la suciedad en seco antes de guardarlo y lávelo bien bajo el grifo justo antes de cocinar."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver les courgettes fraîches : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour les courgettes selon les directives officielles de sécurité.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Avez-vous déjà acheté des courgettes fraîches pour constater après quelques jours au réfrigérateur qu'elles étaient devenues molles, flétries ou moisies ? 🥒\n\nLa courgette contient plus de 90 % d'eau, ce qui la rend extrêmement sensible à l'humidité, aux variations de température et au froid excessif. La laisser sans protection entraîne l'évaporation de l'eau et le flétrissement de la peau, tandis que l'humidité emprisonnée accélère le pourrissement.\n\nDans ce guide, vous présente un guide scientifique en 3 étapes recommandé par des experts agricoles et de sécurité alimentaire pour préserver la fraîcheur de vos courgettes. 🛡️",
+        "whyTitle": "Pourquoi les conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne lavez jamais les courgettes avant de les stocker 💧",
+            "desc": "Stockerv une courgette humide emprisonne l'eau sur sa peau, la ramollissant rapidement et créant un milieu idéal pour le développement de moisissures. Essuyez la terre avec un chiffon sec ou du papier absorbant, et ne la lavez qu'au moment de cuisiner."
+          },
+          {
+            "title": "Évitez de les stocker à des températures trop basses ❄️",
+            "desc": "La courgette est sensible au froid intense (sous 0–2 °C) et souffre de lésions dues au gel, entraînant des taches brunes et le pourrissement. Conservez-la dans le bac à légumes du réfrigérateur."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Envelopper individuellement dans du papier absorbant — Contrôle de l'humidité 🧻",
+            "text": "La condensation issue de la respiration naturelle de la courgette ramollit la peau. 💡 Astuce de conservation : Enveloppez chaque courgette sèche et non lavée dans du papier essuie-tout ou du journal. Le papier absorbe l'humidité rejetée, évitant le pourrissement."
+          },
+          {
+            "name": "Placer dans un sachet plastique dans le bac à légumes — Stockage (7 à 10 jours) 🥒",
+            "text": "Mettre la courgette enveloppée dans un sachet plastique limite l'évaporation de l'eau. 💡 Astuce de conservation : Déposez la courgette enveloppée dans un sachet légèrement ouvert et placez-la dans le bac à légumes du frigo (4–7 °C). Elle restera ferme pendant 7 à 10 jours."
+          },
+          {
+            "name": "Couper, blanchir et congeler pour une longue conservation — Stockage (1 à 2 mois) 🧊",
+            "text": "Pour une longue conservation, la découper et la blanchir préserve sa texture et ses nutriments. 💡 Astuce de conservation : Coupez la courgette en rondelles ou dés, blanchissez-la rapidement dans l'eau bouillante salée, séchez-la soigneusement et congelez-la sous -18 °C pendant 1 à 2 mois."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Comment conserver une courgette entamée ?",
+            "answer": "La partie coupée perd vite son eau et attire les bactéries. Enveloppez fermement la tranche avec du film étirable ou du papier absorbant, placez-la dans un sac congélation au réfrigérateur et consommez-la sous 2 à 3 jours."
+          },
+          {
+            "question": "Est-il sûr de conserver les courgettes sans les laver au préalable ?",
+            "answer": "Oui, c'est même préférable. Ne pas la laver évite que l'humidité ne déclenche le pourrissement. Essuyez simplement la terre à sec avant de la stocker, puis lavez-la soigneusement sous l'eau avant de la cuisiner."
+          }
+        ]
+      },
+      "de": {
+        "title": "Zucchini richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Zucchini basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Haben Sie schon einmal frische Zucchini gekauft, nur um nach wenigen Tagen im Kühlschrank festzustellen, dass sie weich, schrumpelig oder schimmelig geworden sind? 🥒\n\nZucchini bestehen zu über 90 % aus Wasser und reagieren extrem empfindlich auf Feuchtigkeit, Temperaturschwankungen und Kälteschäden. Ungeschützt im Kühlschrank verdunstet ihr Wasser und die Schale schrumpelt, während eingesperrte Feuchtigkeit zu Weichheit und Fäulnis führt.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Knackigkeit und Frische Ihrer Zucchini zu maximieren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Zucchini vor der Lagerung niemals waschen 💧",
+            "desc": "Werden feuchte Zucchini gelagert, schließt dies Wasser an der Schale ein, was sie rasch weich werden lässt und Schimmelbildung fördert. Wischen Sie Erde nur mit einem trockenen Tuch oder Küchenpapier ab und waschen Sie sie erst direkt vor dem Kochen."
+          },
+          {
+            "title": "Vermeiden Sie zu kalte Lagerungstemperaturen ❄️",
+            "desc": "Zucchini sind kälteempfindlich (unter 0–2 °C) und erleiden Kälteschäden, die sich in wässrigen Stellen und schnellerem Verderb äußern. Lagern Sie Zucchini im etwas wärmeren Gemüsefach des Kühlschranks."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Einzeln in Küchenpapier einwickeln — Feuchtigkeitsregulierende Verpackung 🧻",
+            "text": "Kondenswasser durch die natürliche Atmung der Zucchini lässt die Oberfläche weich werden. 💡 Lagerungstipp: Wickeln Sie jede ungewaschene, trockene Zucchini einzeln in Küchenpapier oder Zeitungspapier. Das Papier nimmt abgegebene Feuchtigkeit auf und schützt vor Fäulnis."
+          },
+          {
+            "name": "In einen Plastikbeutel ins Gemüsefach legen — Kühllagerung (7–10 Tage) 🥒",
+            "text": "Das Einlegen der umwickelten Zucchini in einen Plastikbeutel verhindert das Austrocknen. 💡 Lagerungstipp: Legen Sie die umwickelte Zucchini in einen leicht geöffneten Beutel ins Gemüsefach des Kühlschranks (4–7 °C). So bleibt sie 7 bis 10 Tage knackig."
+          },
+          {
+            "name": "Schneiden, blanchieren und einfrieren — Gefrierlagerung (1–2 Monate) 🧊",
+            "text": "Für die Langzeitlagerung erhält Anschneiden und Blanchieren vor dem Einfrieren Textur und Nährstoffe. 💡 Lagerungstipp: Zucchini in Scheiben oder Würfel schneiden, kurz in kochendem Salzwasser blanchieren, gründlich abtrocknen und im Gefrierbeutel bei unter -18 °C 1 bis 2 Monate einfrieren."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Wie bewahre ich eine angeschnittene Zucchini am besten auf?",
+            "answer": "Die Schnittfläche verliert schnell Feuchtigkeit und ist anfällig für Keime. Wickeln Sie die Schnittfläche fest in Frischhaltefolie oder Küchenpapier, legen Sie das Stück in einen Ziploc-Beutel in den Kühlschrank und verbrauchen Sie es innerhalb von 2 bis 3 Tagen."
+          },
+          {
+            "question": "Ist es sicher und hygienisch, Zucchini ungewaschen zu lagern?",
+            "answer": "Ja, das ist sogar sicherer. Ungewaschene Zucchini verderben langsamer, da keine zusätzliche Feuchtigkeit vorhanden ist. Wischen Sie Schmutz vor der Lagerung nur trocken ab und waschen Sie die Zucchini erst gründlich vor der Zubereitung."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar abobrinha fresca: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para a abobrinha com base em diretrizes oficiais de segurança.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Você já comprou abobrinhas frescas e, após alguns dias na geladeira, percebeu que ficaram murchas, moles ou mofadas? 🥒\n\nA abobrinha contém mais de 90% de água, sendo extremamente sensível à umidade, variações de temperatura e danos por frio. Deixá-la desprotegida faz com que perca água e fique murcha, enquanto a umidade presa acelera sua deterioração.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas recomendado por especialistas para maximizar o frescor e a crocância da sua abobrinha. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Compreender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Regras essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca lave a abobrinha antes de guardar 💧",
+            "desc": "Guardar a abobrinha úmida retém água na casca, amolecendo-a rapidamente e favorecendo o surgimento de mofo. Limpe a sujeira apenas com um pano seco ou papel toalha e lave somente no momento de cozinhar."
+          },
+          {
+            "title": "Evite armazenar em temperaturas excessivamente frias ❄️",
+            "desc": "A abobrinha é sensível ao frio intenso (abaixo de 0-2 °C) e sofre danos por congelamento, apresentando manchas escuras e amolecimento. Mantenha-a na gaveta de legumes da geladeira."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Embrulhe individualmente em papel toalha — Controle de umidade 🧻",
+            "text": "A condensação da respiração natural da abobrinha amolece a casca. 💡 Dica de conservação: Envolva cada abobrinha seca e sem lavar em papel toalha ou jornal. O papel absorve a umidade liberada, evitando a deterioração."
+          },
+          {
+            "name": "Coloque em um saco plástico na gaveta de legumes — Refrigeração (7–10 dias) 🥒",
+            "text": "Colocar as abobrinhas embrulhadas em um saco plástico evita a perda de umidade. 💡 Dica de conservação: Guarde as abobrinhas embrulhadas em um saco levemente aberto na gaveta de legumes (4-7 °C). Elas permanecerão firmes por 7 a 10 dias."
+          },
+          {
+            "name": "Corte, afervente e congele para longa conservação — Armazenamento (1–2 meses) 🧊",
+            "text": "Para conservar por longo prazo, cortar e aferventar preserva a textura e os nutrientes. 💡 Dica de conservação: Corte em rodelas ou cubos, afervente rapidamente em água fervente com sal, seque bem e congele em sacos herméticos a menos de -18 °C por 1 a 2 meses."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Como devo guardar uma abobrinha cortada ou metade usada?",
+            "answer": "A parte cortada perde umidade rapidamente e atrai bactérias. Envolva a ponta cortada firmemente com filme plástico ou papel toalha, guarde em um saco Ziploc na geladeira e consuma em 2 a 3 dias."
+          },
+          {
+            "question": "É seguro guardar a abobrinha sem lavar primeiro?",
+            "answer": "Sim, é até mais seguro. Não lavá-la impede que a umidade acelere o apodrecimento. Apenas limpe a terra a seco antes de guardar e lave bem sob água corrente antes de cozinhar."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Zucchini agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk zucchini berdasarkan pedoman keselamatan resmi.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Pernahkah Anda membeli zucchini segar lalu mendapatinya menjadi lembek, keriput, atau berjamur setelah beberapa hari di kulkas? 🥒\n\nZucchini mengandung lebih dari 90% air, menjadikannya sangat sensitif terhadap kelembapan, perubahan suhu, dan kerusakan akibat suhu dingin. Membiarkannya tanpa perlindungan menyebabkan penguapan air dan kulit keriput, sedangkan kelembapan yang terperangkap memicu pembusukan.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan rekomendasi ahli untuk memaksimalkan kesegaran dan tekstur renyah zucchini Anda. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan pernah mencuci zucchini sebelum disimpan 💧",
+            "desc": "Menyimpan zucchini dalam kondisi basah akan memerangkap air pada kulitnya, membuatnya cepat melembek dan menjadi tempat berkembang nya jamur. Lap kotoran dengan kain kering atau tisu dapur, lalu cuci tepat sebelum dimasak."
+          },
+          {
+            "title": "Hindari menyimpan pada suhu yang terlalu dingin ❄️",
+            "desc": "Zucchini sensitif terhadap suhu terlalu dingin (di bawah 0–2°C) dan dapat mengalami pembekuan/chilling injury yang menyebabkan bercak basah dan pembusukan. Simpan di laci sayuran kulkas."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Bungkus satu per satu dengan tisu dapur — Kontrol Kelembapan 🧻",
+            "text": "Kondensasi dari respirasi alami zucchini menyebabkan permukaannya lembek. 💡 Tips Penyimpanan: Bungkus setiap zucchini yang kering dan belum dicuci menggunakan tisu dapur atau kertas koran. Kertas akan menyerap kelembapan berlebih untuk mencegah pembusukan."
+          },
+          {
+            "name": "Masukkan ke kantong plastik di laci sayuran — Simpan Dingin (7–10 Hari) 🥒",
+            "text": "Memasukkan zucchini yang terbungkus ke dalam kantong plastik mencegah kehilangan kadar air. 💡 Tips Penyimpanan: Letakkan zucchini terbungkus di dalam kantong plastik yang sedikit terbuka di laci sayuran kulkas (4–7°C). Zucchini akan tetap renyah selama 7 hingga 10 hari."
+          },
+          {
+            "name": "Potong, rebus sebentar (blanching), lalu bekukan — Simpan Beku (1–2 Bulan) 🧊",
+            "text": "Untuk penyimpanan jangka panjang, memotong dan merebusnya sebentar menjaga tekstur dan nutrisi. 💡 Tips Penyimpanan: Potong sesuai selera, rebus sebentar dalam air garam mendidih, keringkan hingga tuntas, lalu bekukan dalam kantong kedap udara di bawah -18°C selama 1 hingga 2 bulan."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Bagaimana cara menyimpan zucchini yang sudah dipotong sebagian?",
+            "answer": "Bagian potongan cepat kehilangan air dan rentan bakteri. Bungkus bagian potongan dengan plastik wrap atau tisu dapur hingga rapat, masukkan ke kantong Ziploc di kulkas, lalu habiskan dalam 2 hingga 3 hari."
+          },
+          {
+            "question": "Apakah aman dan higienis menyimpan zucchini tanpa dicuci terlebih dahulu?",
+            "answer": "Ya, justru lebih aman. Menyimpan tanpa dicuci mencegah kelembapan memicu pembusukan. Lap kotoran kering sebelum disimpan, lalu cuci bersih di bawah air mengalir tepat sebelum dimasak."
+          }
+        ]
+      }
     }
+  }
 }

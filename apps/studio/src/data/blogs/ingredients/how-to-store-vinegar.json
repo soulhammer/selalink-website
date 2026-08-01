@@ -1,406 +1,406 @@
 {
-    "how-to-store-vinegar": {
-        "ingId": "vinegar",
-        "pubDate": "2026-02-05",
-        "updatedDate": "2026-02-05",
-        "heroImage": "/images/blog/vinegar_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "식초 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 식초의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
-                "intro": "음식의 감칠맛을 더하고 천연 보존제로도 쓰이는 식초, 직사광선이 드는 창가나 가스레인지 옆에 그냥 두고 사용하신 적 있으시죠? 🍾\n\n식초는 초산(Acetic Acid) 성분의 강력한 산성 덕분에 자가 보존력이 매우 뛰어난 식재료입니다. 하지만 직사광선과 높은 열에 노출되면 풍미가 달아나고 색상이 변하거나, 공기 중 유기물과 반응해 침전물(식초모)이 생길 수 있습니다.\n\n이번 가이드에서는 식품 안전 기관의 검증된 가이드라인을 바탕으로, 식초의 깊은 풍미와 산도를 변함없이 오래 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "금속 용기에 이염/보관하지 마세요 ⚠️",
-                        "desc": "식초의 초산 성분은 철, 알루미늄, 구리 등 금속과 반응하여 용기를 부식시키고 유해 물질이 용출되거나 금속 맛이 날 수 있습니다. 반드시 오리지널 유리병이나 전용 플라스틱 용기에 보관하세요."
-                    },
-                    {
-                        "title": "사용 후 뚜껑을 꼭 밀봉하세요 🍾",
-                        "desc": "공기에 오랫동안 노출되면 초산 성분이 증발하여 산도가 떨어지고 풍미가 옅어지며, 먼지나 초파리가 들어가거나 초산균 침전물이 형성될 수 있습니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "직사광선과 열원 차단하기 — 서늘한 상온 보관 (15~25℃) 📦",
-                        "text": "식초는 햇빛이나 가스레인지 주변의 열기에 노출되면 산화가 촉진되고 색상 및 풍미가 변할 수 있습니다. 💡 보관 팁: 창가나 가스레인지 옆을 피해 직사광선이 들지 않는 어둡고 서늘한 찬장(15~25℃)에 보관해 주세요."
-                    },
-                    {
-                        "name": "사용 후 즉시 뚜껑을 꽉 닫아 밀폐하기 — 산도 & 풍미 보호 🍾",
-                        "text": "사용 후 뚜껑을 제대로 닫지 않으면 초산 성분이 증발하여 산도가 떨어지고 풍미가 옅어집니다. 💡 보관 팁: 사용 직후 용기 입구를 깨끗이 닦고 뚜껑을 밀봉하여 공기와의 접촉을 최소화해 주세요."
-                    },
-                    {
-                        "name": "원래 용기(유리병/PET) 그대로 보관하기 — 용기 안전성 유지 🏺",
-                        "text": "다른 용기로 옮겨 담을 때 불순물이 들어가거나 반응성 재질에 담길 위험이 있습니다. 💡 보관 팁: 제조사에서 제공한 오리지널 유리병이나 안전한 식음료용 플라스틱 용기 그대로 보관하는 것이 가장 안전합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "식초 바닥에 뿌연 침전물이 생겼는데 먹어도 되나요?",
-                        "answer": "식초 바닥에 생기는 침전물은 초산균과 셀룰로오스가 결합하여 생긴 '식초모(Mother of Vinegar)'로, 인체에 해롭지 않습니다. 체에 밭쳐 걸러내거나 그대로 사용하셔도 무방합니다."
-                    },
-                    {
-                        "question": "식초는 냉장 보관해야 하나요? 유통기한은 얼마나 되나요?",
-                        "answer": "식초는 자체 산도가 높아 세균이 번식할 수 없어 냉장 보관할 필요가 없으며, 상온의 서늘한 곳에 보관하면 거의 영구적으로 보존됩니다. 다만 최상의 풍미를 위해 개봉 후 2~3년 이내에 소비하는 것이 좋습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Store Vinegar: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for vinegar based on official safety guidelines.",
-                "authority": "FDA & MFDS",
-                "intro": "Have you ever left vinegar on a sunny windowsill or right next to your stovetop? 🍾\n\nThanks to its high concentration of acetic acid, vinegar is a self-preserving food with exceptional natural shelf stability. However, exposure to direct sunlight and high heat can degrade its delicate flavor, alter its color, or cause cloudy sediment to form from interactions with airborne microbes.\n\nIn this guide, introduces a scientifically proven 3-step storage guide based on safety guidelines from food safety authorities to help preserve vinegar's acidity and rich taste for years to come. 🛡️",
-                "whyTitle": "Why Store Vinegar This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never store vinegar in metal containers ⚠️",
-                        "desc": "Acetic acid in vinegar reacts aggressively with metals such as iron, aluminum, and copper, causing corrosion and leaching metallic flavors into the liquid. Always keep vinegar in its original glass or food-safe plastic bottle."
-                    },
-                    {
-                        "title": "Keep the bottle tightly sealed after every use 🍾",
-                        "desc": "Prolonged exposure to air causes acetic acid to evaporate, weakening acidity and aroma. It also allows dust, fruit flies, or wild bacteria to enter, which can lead to cloudy sediment formation."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Block direct sunlight and heat sources — Dark Pantry Storage (15–25°C) 📦",
-                        "text": "Exposing vinegar to heat or light accelerates oxidation, degrading both color and flavor profile. 💡 Storage Tip: Store vinegar in a cool, dark cabinet or pantry (15–25°C) away from windows and hot kitchen appliances."
-                    },
-                    {
-                        "name": "Wipe the spout and cap tightly after use — Preserve Acidity & Flavor 🍾",
-                        "text": "Leaving the bottle unsealed lets volatile acetic acid escape, lowering the overall acidity. 💡 Storage Tip: Clean the bottle neck after pouring and seal the cap tightly to minimize contact with oxygen."
-                    },
-                    {
-                        "name": "Keep in the original glass or food-safe plastic bottle — Container Safety 🏺",
-                        "text": "Decanting vinegar into unverified jars runs the risk of contamination or chemical reactivity. 💡 Storage Tip: Maintain vinegar in its original commercial glass or HDPE/PET plastic bottle for maximum safety."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Cloudy sediment formed at the bottom of my vinegar bottle. Is it safe?",
-                        "answer": "Yes! That cloudy formation is known as the 'Mother of Vinegar,' a natural byproduct of acetic acid bacteria and cellulose. It is completely harmless and can be strained out with a coffee filter or consumed safely."
-                    },
-                    {
-                        "question": "Does vinegar expire or require refrigeration?",
-                        "answer": "Vinegar's high acidity naturally inhibits bacterial growth, so refrigeration is unnecessary and it has an almost indefinite shelf life. For peak flavor quality, however, it is best used within 2–3 years after opening."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "酢（お酢）を長持ちさせる保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくお酢の最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
-                "intro": "料理に深みとさっぱりとした風味を与えるお酢を、コンロの横や日当たりの良い窓際に置いたままにしていませんか？🍾\n\nお酢は主成分である酢酸（Acetic Acid）の強力な酸性のおかげで、非常に高い殺菌力と self-preservation（自己保存性）を持つ食材です。しかし、直射日光や高い熱に晒されると風味や香りが飛んでしまったり、空気中の有機物と反応して濁りや沈殿物が生じることがあります。\n\n本記事では、食品安全機関のガイドラインに基づき、お酢の酸度と芳醇な風味を長期間変わらず維持する3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "金属製の容器に移し替えて保存しないでください ⚠️",
-                        "desc": "お酢に含まれる酢酸は鉄やアルミニウム、銅などの金属と強く反応し、容器を腐食させたり金属臭が移る原因になります。必ずオリジナルのガラス瓶や食品用プラスチック容器で保存してください。"
-                    },
-                    {
-                        "title": "使用後は蓋をしっかり閉めて密閉してください 🍾",
-                        "desc": "空気中に長く晒されると酢酸成分が蒸発して酸度が低下し、風味が弱まります。また、ほこりやコバエが侵入したり濁りの原因となる菌糸体が形成される恐れがあります。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "直射日光とコンロの熱を避ける — 冷暗所保存 (15〜25℃) 📦",
-                        "text": "お酢は日光やコンロ周囲の熱に晒されると酸化が進み、色や香りが劣化しやすくなります。💡保存のコツ：窓際やコンロ横を避け、直射日光の当たらない涼しく暗い戸棚（15〜25℃）で保存してください。"
-                    },
-                    {
-                        "name": "使用後は注ぎ口を拭きしっかり密閉する — 酸度＆風味の保護 🍾",
-                        "text": "蓋が緩んでいるとボラティリティ（揮発性）の高い酢酸成分が逃げてしまいます。💡保存のコツ：使用後はボトル口の液だれを清潔な布巾で拭き取り、すぐに蓋をしっかり閉めて空気との接触を最小限に抑えましょう。"
-                    },
-                    {
-                        "name": "元のガラス瓶やプラスチック容器のまま保管する — 容器の安全性維持 🏺",
-                        "text": "別の容器に移し替えると不純物が混入したり、反応性の高い材質に触れるリスクが生じます。💡保存のコツ：メーカーが提供する元のガラス瓶や専用のペットボトル容器のまま保管するのが最も安全です。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "お酢の底に白い濁りや沈殿物ができていますが、使えますか？",
-                        "answer": "お酢の底に見られる沈殿物は、酢酸菌とセルロースが結合してできる「酢母（Mother of Vinegar）」と呼ばれるもので、人体にはまったく無害です。茶こし等で漉していただくか、そのままお使いいただいても問題ありません。"
-                    },
-                    {
-                        "question": "お酢は冷蔵保存が必要ですか？賞味期限はありますか？",
-                        "answer": "お酢は酸度が非常に高く雑菌が繁殖できないため冷蔵保存の必要はなく、常温の冷暗所でほぼ半永久的に保存できます。ただし、最高の風味を楽しんでいただくためには開栓後2〜3年を目安に使い切ることをおすすめします。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何妥善保存食醋：科学储存指南",
-                "description": "根据官方食品安全指南，了解食醋的最佳储存温度、方式和保鲜时长。",
-                "authority": "美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "您是否曾随手将食醋放在阳关直射的窗台或高温的灶台旁？🍾\n\n食醋凭借其富含的醋酸（Acetic Acid）成分所具有的强酸性，是一种具备极强自我防腐能力的调味品。然而，若长期暴露于直射日光与高温下，其香气会挥发褪去，颜色也可能发生改变，甚至与空气中的微量有机物反应生成沉淀（醋母）。\n\n本指南基于权威食品安全机构的指南，为您带来3步科学保存秘诀，帮您长期锁定食醋的浓郁风味与酸度。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "切勿使用金属容器分装或储存 ⚠️",
-                        "desc": "食醋中的醋酸会与铁、铝、铜等金属发生化学反应，腐蚀容器并溶出金属异味甚至有害物质。请务必保留在原装玻璃瓶或食品级塑料瓶中。"
-                    },
-                    {
-                        "title": "使用后请务必拧紧密封瓶盖 🍾",
-                        "desc": "长期暴露于空气中会导致醋酸成分挥发，使酸度下降、风味变淡，还可能导致灰尘、果蝇侵入或促成醋酸菌沉淀物的产生。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "避开阳光直射与热源 — 阴凉橱柜常温保存 (15~25℃) 📦",
-                        "text": "阳光或灶台周围的高温会加速食醋氧化，导致色泽变深与风味劣化。💡储存小贴士：请远离窗户和灶台，置于避光、干燥且阴凉的橱柜（15~25℃）中保存。"
-                    },
-                    {
-                        "name": "用后及时擦净瓶口并盖紧 — 锁定酸度与香气 🍾",
-                        "text": "使用后若未盖紧，易挥发的醋酸分子会不断逸散。💡储存小贴士：倒完醋后用干净纸巾擦拭瓶口残留，并迅速紧闭瓶盖，最大限度减少与空气接触。"
-                    },
-                    {
-                        "name": "保持原装玻璃瓶或PET塑料瓶储存 — 确保容器安全 🏺",
-                        "text": "分装至未知材质的容器中存在杂质污染或化学反应的风险。💡储存小贴士：直接使用厂商提供的原装玻璃瓶或食品级PET塑料瓶保存最为安全。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "醋瓶底部出现了浑浊的沉淀物，还可以食用吗？",
-                        "answer": "瓶底出现的浑浊沉淀物是由醋酸菌与纤维素结合生成的“醋母”（Mother of Vinegar），对人体无毒无害。可用滤网过滤掉或直接正常食用。"
-                    },
-                    {
-                        "question": "食醋需要冷藏吗？保质期有多长？",
-                        "answer": "食醋自身极高的酸度使细菌无法生存，因此无需冷藏，在阴凉常温下几乎可无限期保存。但为了享受最佳口感与风味，建议开封后在2~3年内食用完毕。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo conservar el vinagre: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el vinagre según las directrices oficiales de seguridad.",
-                "authority": "FDA & MFDS",
-                "intro": "¿Alguna vez dejó la botella de vinagre al lado de la estufa o en el repisa de la ventana donde le da el sol? 🍾\n\nGracias a su alta concentración de ácido acético, el vinagre es un ingrediente autoconservante con una estabilidad natural extraordinaria. Sin embargo, la exposición a la luz solar directa y al calor degrada sus delicados aromas, altera su color y puede propiciar la aparición de sedimentos turbios.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por autoridades de seguridad alimentaria para mantener la acidez y el sabor intactos por años. 🛡️",
-                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Nunca almacene el vinagre en recipientes de metal ⚠️",
-                        "desc": "El ácido acético reacciona intensamente con metales como hierro, aluminio y cobre, provocando corrosión y filtrando sabores metálicos. Mantenga el vinagre en su botella de vidrio o plástico apto para alimentos."
-                    },
-                    {
-                        "title": "Cierre la botella herméticamente tras cada uso 🍾",
-                        "desc": "La exposición prolongada al aire provoca la evaporación del ácido acético, reduciendo la acidez y el aroma, además de permitir la entrada de polvo, insectos o formación de posos."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Proteja de la luz solar directa y fuentes de calor — Despensa fresca (15–25 °C) 📦",
-                        "text": "Exponer el vinagre al calor o a la luz acelera la oxidación, alterando su color y sabor. 💡 Consejo de almacenamiento: Guárdelo en un armario oscuro y fresco (15–25 °C) lejos de ventanas y electrodomésticos calientes."
-                    },
-                    {
-                        "name": "Limpie el vertedor y cierre bien el tapón — Protección de acidez y aroma 🍾",
-                        "text": "Si se deja destapado, el ácido acético volátil se evapora progresivamente. 💡 Consejo de almacenamiento: Limpie el cuello de la botella después de verter y selle bien la tapa para minimizar el contacto con el oxígeno."
-                    },
-                    {
-                        "name": "Conserve en la botella original de vidrio o plástico apto — Seguridad del envase 🏺",
-                        "text": "Trasvasar el vinagre a frascos no verificados conlleva el riesgo de contaminación o reactividad química. 💡 Consejo de almacenamiento: Mantenga el vinagre en su frasco original comercial."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Se formó un sedimento turbio en el fondo de la botella. ¿Es seguro usarlo?",
-                        "answer": "¡Sí! Esa formación turbia se conoce como la 'madre del vinagre', una colonia natural de bacterias del ácido acético. Es completamente inofensiva y se puede colar o consumir con total seguridad."
-                    },
-                    {
-                        "question": "¿El vinagre caduca o requiere refrigeración?",
-                        "answer": "La acidez del vinagre impide el crecimiento bacteriano, por lo que la refrigeración es innecesaria y tiene una vida útil casi indefinida. Para mantener su calidad aromática ideal, se sugiere consumir dentro de los 2–3 años tras su apertura."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver le vinaigre : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le vinaigre selon les directives officielles de sécurité.",
-                "authority": "FDA & MFDS",
-                "intro": "Avez-vous déjà laissé votre bouteille de vinaigre sur le rebord d'une fenêtre ensoleillée ou juste à côté de vos plaques de cuisson ? 🍾\n\nGrâce à sa forte teneur en acide acétique, le vinaigre est un aliment auto-conservateur d'une stabilité exceptionnelle. Cependant, l'exposition à la lumière directe du soleil et à la chaleur peut altérer sa saveur délicate, modifier sa couleur ou provoquer la formation d'un dépôt trouble.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations des autorités de sécurité alimentaire pour préserver l'acidité et la richesse gustative de votre vinaigre. 🛡️",
-                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne conservez jamais le vinaigre dans des récipients en métal ⚠️",
-                        "desc": "L'acide acétique attaque les métaux comme le fer, l'aluminium ou le cuivre, entraînant la corrosion du récipient et l'apparition d'un goût métallique. Conservez-le dans sa bouteille d'origine en verre ou en plastique alimentaire."
-                    },
-                    {
-                        "title": "Refermez hermétiquement la bouteille après chaque utilisation 🍾",
-                        "desc": "Une exposition prolongée à l'air entraîne l'évaporation de l'acide acétique, réduisant l'acidité et les arômes, et permet l'intrusion de poussières ou de drosophiles."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Éloigner de la lumière directe et de la chaleur — Placard frais et sombre (15–25 °C) 📦",
-                        "text": "L'exposition à la chaleur et à la lumière accélère l'oxydation. 💡 Astuce de conservation : Rangez le vinaigre dans un placard sombre et frais (15–25 °C), à l'écart des fenêtres et des sources de chaleur."
-                    },
-                    {
-                        "name": "Essuyer le goulot et fermer hermétiquement — Maintien de l'acidité et des arômes 🍾",
-                        "text": "Un flacon mal fermé laisse s'échapper les composants volatils de l'acide acétique. 💡 Astuce de conservation : Essuyez le goulot après usage et revissez fermement le bouchon pour limiter le contact avec l'air."
-                    },
-                    {
-                        "name": "Garder dans la bouteille en verre ou plastique d'origine — Sécurité du contenant 🏺",
-                        "text": "Transvaser le vinaigre dans d'autres récipients expose à des risques de contamination. 💡 Astuce de conservation : Conservez le vinaigre dans sa bouteille commerciale en verre ou en plastique PET d'origine."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Un dépôt trouble s'est formé au fond de la bouteille. Est-il encore consommable ?",
-                        "answer": "Oui ! Ce dépôt est appelé la « mère de vinaigre », une culture naturelle de bactéries acétiques et de cellulose. Elle est parfaitement inoffensive et peut être filtrée ou consommée sans aucun danger."
-                    },
-                    {
-                        "question": "Le vinaigre périme-t-il ou doit-il être placé au réfrigérateur ?",
-                        "answer": "L'acidité naturelle du vinaigre empêche le développement des bactéries. La réfrigération est donc inutile et sa durée de conservation est presque illimitée. Pour profiter de son meilleur profil aromatique, consommez-le dans les 2 à 3 ans suivant son ouverture."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Essig richtig aufbewahren: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Essig basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "FDA & MFDS",
-                "intro": "Haben Sie Ihren Essig schon einmal auf das sonnige Fensterbrett oder direkt neben den heißen Herd gestellt? 🍾\n\nDank seines hohen Gehalts an Essigsäure (Acetic Acid) ist Essig ein selbstkonservierendes Lebensmittel mit außergewöhnlich hoher Haltbarkeit. Dennoch können direkte Sonneneinstrahlung und Hitze die feinen Aromen beeinträchtigen, die Farbe verändern oder zu Eintrübungen führen.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um den Säuregehalt und das volle Aroma Ihres Essigs über Jahre hinweg zu bewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Essig niemals in Metallbehältern aufbewahren ⚠️",
-                        "desc": "Die Essigsäure reagiert stark mit Metallen wie Eisen, Aluminium und Kupfer. Dies führt zu Korrosion und lässt metallischen Geschmack in den Essig übergehen. Nutzen Sie immer die Original-Glas- oder Plastikflasche."
-                    },
-                    {
-                        "title": "Nach Gebrauch die Flasche stets fest verschließen 🍾",
-                        "desc": "Durch längeren Luftkontakt verdunstet die flüchtige Essigsäure, wodurch Säuregehalt und Aroma abnehmen. Zudem können Staub, Fruchtfliegen oder wilde Hefen eindringen."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Vor Sonnenlicht und Hitze schützen — Vorratskammer (15–25 °C) 📦",
-                        "text": "Licht und Wärme beschleunigen die Oxidation des Essigs. 💡 Lagerungstipp: Bewahren Sie Essig an einem dunklen, kühlen Ort (15–25 °C) fernab von Fenstern und Kochfeldern auf."
-                    },
-                    {
-                        "name": "Flaschenhals abwischen und fest verschließen — Säure & Aroma schützen 🍾",
-                        "text": "Wenn die Flasche offen bleibt, entweicht die Essigsäure kontinuierlich. 💡 Lagerungstipp: Reinigen Sie den Flaschenhals nach dem Ausgießen und drehen Sie den Deckel sofort fest zu."
-                    },
-                    {
-                        "name": "In der Original-Glas- oder PET-Flasche belassen — Behältersicherheit 🏺",
-                        "text": "Das Umfüllen in ungeeignete Gefäße birgt das Risiko von chemischen Reaktionen oder Verunreinigungen. 💡 Lagerungstipp: Belassen Sie den Essig in der vom Hersteller abgefüllten Flasche."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Am Flaschenboden hat sich ein trüber Satz gebildet. Ist der Essig noch gut?",
-                        "answer": "Ja! Bei diesem trüben Satz handelt es sich um die sogenannte 'Essigmutter' (Mother of Vinegar), eine natürliche Kultur aus Essigsäurebakterien. Sie ist völlig harmlos und kann einfach abgeseiht oder mitverwendet werden."
-                    },
-                    {
-                        "question": "Kann Essig ablaufen oder muss er in den Kühlschrank?",
-                        "answer": "Durch die hohe Eigen-Säure können sich keine Bakterien vermehren. Eine Kühlung im Kühlschrank ist nicht nötig und Essig ist nahezu unbegrenzt haltbar. Für das beste Geschmackserlebnis empfiehlt sich der Verbrauch innerhalb von 2–3 Jahren nach dem Öffnen."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar vinagre: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para o vinagre com base em diretrizes oficiais de segurança.",
-                "authority": "FDA & MFDS",
-                "intro": "Você já deixou a garrafa de vinagre na bancada ao lado do fogão ou perto de uma janela ensolarada? 🍾\n\nGraças ao seu alto teor de ácido acético, o vinagre é um alimento autoconservante com estabilidade natural incrível. No entanto, a exposição à luz solar direta e ao calor excessivo pode degradar seu sabor, alterar sua cor e levar à formação de sedimentos turvos.\n\nNeste guia, apresentamos um guia em 3 etapas baseado em diretrizes de segurança alimentar para preservar a acidez e o sabor marcante do seu vinagre por anos. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Regras essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca guarde o vinagre em recipientes de metal ⚠️",
-                        "desc": "O ácido acético reage fortemente com metais como ferro, alumínio e cobre, provocando corrosão e liberando sabores metálicos indesejados. Mantenha o vinagre na garrafa original de vidro ou plástico próprio para alimentos."
-                    },
-                    {
-                        "title": "Mantenha a garrafa bem fechada após o uso 🍾",
-                        "desc": "A exposição ao ar faz com que o ácido acético se evapore, reduzindo a acidez e o aroma, além de permitir a entrada de poeira ou moscas-das-frutas."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Proteja da luz solar direta e do calor — Armário fresco e escuro (15–25 °C) 📦",
-                        "text": "Expor o vinagre ao calor e à iluminação acelera a oxidação do produto. 💡 Dica de conservação: Guarde o vinagre em um armário ou despensa fresca (15–25 °C), longe de janelas e do fogão."
-                    },
-                    {
-                        "name": "Limpe o bocal e feche bem a tampa — Proteção da acidez e do sabor 🍾",
-                        "text": "Deixar o frasco mal selado permite a fuga do ácido acético volátil. 💡 Dica de conservação: Limpe o bocal após servir e feche a tampa firmemente para minimizar o contato com o oxigênio."
-                    },
-                    {
-                        "name": "Mantenha no frasco original de vidro ou plástico PET — Segurança do recipiente 🏺",
-                        "text": "Transferir o vinagre para recipientes não testados traz risco de reações químicas. 💡 Dica de conservação: Mantenha o vinagre em sua embalagem comercial original para garantir total segurança."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Formou-se um sedimento turvo no fundo da garrafa. Ainda é seguro usá-lo?",
-                        "answer": "Sim! Essa substância turva é conhecida como a 'mãe do vinagre', uma colônia natural de bactérias do ácido acético e celulose. Ela é totalmente inofensiva e pode ser filtrada ou consumida sem problemas."
-                    },
-                    {
-                        "question": "O vinagre expira ou precisa ser mantido na geladeira?",
-                        "answer": "A acidez natural do vinagre impede o crescimento de bactérias, sendo desnecessária a refrigeração. O vinagre tem uma validade praticamente ilimitada. Para apreciar o melhor sabor, recomenda-se consumir em até 2–3 anos após aberto."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Cuka agar Tetap Awet: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk cuka berdasarkan pedoman keselamatan resmi.",
-                "authority": "FDA & MFDS",
-                "intro": "Pernahkah Anda meninggalkan botol cuka di dekat jendela yang terkena sinar matahari atau di samping kompor yang panas? 🍾\n\nBerkat kandungan asam asetatnya yang tinggi, cuka adalah bahan makanan yang memiliki kemampuan pengawetan alami luar biasa. Namun, paparan sinar matahari langsung dan suhu panas dapat merusak aromanya, mengubah warnanya, serta memicu terbentuknya endapan keruh.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman keamanan pangan untuk menjaga tingkat keasaman dan kelezatan cuka Anda. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan pernah menyimpan cuka dalam wadah logam ⚠️",
-                        "desc": "Kandungan asam asetat pada cuka bereaksi kuat dengan logam seperti besi, aluminium, dan tembaga, yang menyebabkan korosi serta rasa logam. Selalu simpan cuka dalam botol kaca atau plastik khusus makanan."
-                    },
-                    {
-                        "title": "Tutup rapat botol cuka setiap kali selesai digunakan 🍾",
-                        "desc": "Paparan udara dalam jangka panjang menyebabkan asam asetat menguap sehingga menurunkan tingkat keasaman dan aroma, serta memungkinkan debu atau lalat buah masuk."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Jauhkan dari sinar matahari langsung dan sumber panas — Simpan di Dapur Sejuk (15–25°C) 📦",
-                        "text": "Membiarkan cuka terpapar panas dan cahaya mempercepat proses oksidasi. 💡 Tips Penyimpanan: Simpan cuka di dalam lemari dapur atau kabinet yang gelap dan sejuk (15–25°C) jauh dari jendela dan kompor."
-                    },
-                    {
-                        "name": "Lap mulut botol dan tutup rapat — Lindungi Keasaman & Aroma 🍾",
-                        "text": "Jika tidak ditutup rapat, senyawa asam asetat yang mudah menguap akan keluar. 💡 Tips Penyimpanan: Bersihkan sisa tetesan pada mulut botol lalu tutup hingga rapat untuk meminimalkan kontak dengan udara."
-                    },
-                    {
-                        "name": "Pertahankan botol kaca atau plastik asli — Keamanan Wadah 🏺",
-                        "text": "Memindahkan cuka ke wadah lain berisiko menimbulkan reaksi kimia atau kontaminasi. 💡 Tips Penyimpanan: Simpan cuka dalam botol kaca atau botol plastik PET asli dari pabrik."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Ada endapan keruh di dasar botol cuka, apakah masih aman digunakan?",
-                        "answer": "Ya! Endapan keruh tersebut dikenal sebagai 'Mother of Vinegar' (biang cuka), yaitu kultur alami dari bakteri asam asetat dan selulosa. Endapan ini sama sekali tidak berbahaya dan dapat disaring atau langsung digunakan."
-                    },
-                    {
-                        "question": "Apakah cuka bisa kedaluwarsa atau perlu disimpan di dalam kulkas?",
-                        "answer": "Sifat asam pada cuka mencegah pertumbuhan bakteri sehingga tidak perlu disimpan di dalam kulkas dan memiliki masa simpan yang hampir tanpa batas. Untuk kualitas rasa terbaik, disarankan untuk mengonsumsinya dalam waktu 2–3 tahun setelah dibuka."
-                    }
-                ]
-            }
-        }
+  "how-to-store-vinegar": {
+    "ingId": "vinegar",
+    "pubDate": "2026-02-05",
+    "updatedDate": "2026-02-05",
+    "heroImage": "/images/blog/vinegar_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "식초 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 식초의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "미국 식품의약국(FDA) & 식품의약품안전처(MFDS)",
+        "intro": "음식의 감칠맛을 더하고 천연 보존제로도 쓰이는 식초, 직사광선이 드는 창가나 가스레인지 옆에 그냥 두고 사용하신 적 있으시죠? 🍾\n\n식초는 초산(Acetic Acid) 성분의 강력한 산성 덕분에 자가 보존력이 매우 뛰어난 식재료입니다. 하지만 직사광선과 높은 열에 노출되면 풍미가 달아나고 색상이 변하거나, 공기 중 유기물과 반응해 침전물(식초모)이 생길 수 있습니다.\n\n이번 가이드에서는 식품 안전 기관의 검증된 가이드라인을 바탕으로, 식초의 깊은 풍미와 산도를 변함없이 오래 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "금속 용기에 이염/보관하지 마세요 ⚠️",
+            "desc": "식초의 초산 성분은 철, 알루미늄, 구리 등 금속과 반응하여 용기를 부식시키고 유해 물질이 용출되거나 금속 맛이 날 수 있습니다. 반드시 오리지널 유리병이나 전용 플라스틱 용기에 보관하세요."
+          },
+          {
+            "title": "사용 후 뚜껑을 꼭 밀봉하세요 🍾",
+            "desc": "공기에 오랫동안 노출되면 초산 성분이 증발하여 산도가 떨어지고 풍미가 옅어지며, 먼지나 초파리가 들어가거나 초산균 침전물이 형성될 수 있습니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "직사광선과 열원 차단하기 — 서늘한 상온 보관 (15~25℃) 📦",
+            "text": "식초는 햇빛이나 가스레인지 주변의 열기에 노출되면 산화가 촉진되고 색상 및 풍미가 변할 수 있습니다. 💡 보관 팁: 창가나 가스레인지 옆을 피해 직사광선이 들지 않는 어둡고 서늘한 찬장(15~25℃)에 보관해 주세요."
+          },
+          {
+            "name": "사용 후 즉시 뚜껑을 꽉 닫아 밀폐하기 — 산도 & 풍미 보호 🍾",
+            "text": "사용 후 뚜껑을 제대로 닫지 않으면 초산 성분이 증발하여 산도가 떨어지고 풍미가 옅어집니다. 💡 보관 팁: 사용 직후 용기 입구를 깨끗이 닦고 뚜껑을 밀봉하여 공기와의 접촉을 최소화해 주세요."
+          },
+          {
+            "name": "원래 용기(유리병/PET) 그대로 보관하기 — 용기 안전성 유지 🏺",
+            "text": "다른 용기로 옮겨 담을 때 불순물이 들어가거나 반응성 재질에 담길 위험이 있습니다. 💡 보관 팁: 제조사에서 제공한 오리지널 유리병이나 안전한 식음료용 플라스틱 용기 그대로 보관하는 것이 가장 안전합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "식초 바닥에 뿌연 침전물이 생겼는데 먹어도 되나요?",
+            "answer": "식초 바닥에 생기는 침전물은 초산균과 셀룰로오스가 결합하여 생긴 '식초모(Mother of Vinegar)'로, 인체에 해롭지 않습니다. 체에 밭쳐 걸러내거나 그대로 사용하셔도 무방합니다."
+          },
+          {
+            "question": "식초는 냉장 보관해야 하나요? 유통기한은 얼마나 되나요?",
+            "answer": "식초는 자체 산도가 높아 세균이 번식할 수 없어 냉장 보관할 필요가 없으며, 상온의 서늘한 곳에 보관하면 거의 영구적으로 보존됩니다. 다만 최상의 풍미를 위해 개봉 후 2~3년 이내에 소비하는 것이 좋습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Store Vinegar: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for vinegar based on official safety guidelines.",
+        "authority": "FDA & MFDS",
+        "intro": "Have you ever left vinegar on a sunny windowsill or right next to your stovetop? 🍾\n\nThanks to its high concentration of acetic acid, vinegar is a self-preserving food with exceptional natural shelf stability. However, exposure to direct sunlight and high heat can degrade its delicate flavor, alter its color, or cause cloudy sediment to form from interactions with airborne microbes.\n\nIn this guide, introduces a scientifically proven 3-step storage guide based on safety guidelines from food safety authorities to help preserve vinegar's acidity and rich taste for years to come. 🛡️",
+        "whyTitle": "Why Store Vinegar This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never store vinegar in metal containers ⚠️",
+            "desc": "Acetic acid in vinegar reacts aggressively with metals such as iron, aluminum, and copper, causing corrosion and leaching metallic flavors into the liquid. Always keep vinegar in its original glass or food-safe plastic bottle."
+          },
+          {
+            "title": "Keep the bottle tightly sealed after every use 🍾",
+            "desc": "Prolonged exposure to air causes acetic acid to evaporate, weakening acidity and aroma. It also allows dust, fruit flies, or wild bacteria to enter, which can lead to cloudy sediment formation."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Block direct sunlight and heat sources — Dark Pantry Storage (15–25°C) 📦",
+            "text": "Exposing vinegar to heat or light accelerates oxidation, degrading both color and flavor profile. 💡 Storage Tip: Store vinegar in a cool, dark cabinet or pantry (15–25°C) away from windows and hot kitchen appliances."
+          },
+          {
+            "name": "Wipe the spout and cap tightly after use — Preserve Acidity & Flavor 🍾",
+            "text": "Leaving the bottle unsealed lets volatile acetic acid escape, lowering the overall acidity. 💡 Storage Tip: Clean the bottle neck after pouring and seal the cap tightly to minimize contact with oxygen."
+          },
+          {
+            "name": "Keep in the original glass or food-safe plastic bottle — Container Safety 🏺",
+            "text": "Decanting vinegar into unverified jars runs the risk of contamination or chemical reactivity. 💡 Storage Tip: Maintain vinegar in its original commercial glass or HDPE/PET plastic bottle for maximum safety."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Cloudy sediment formed at the bottom of my vinegar bottle. Is it safe?",
+            "answer": "Yes! That cloudy formation is known as the 'Mother of Vinegar,' a natural byproduct of acetic acid bacteria and cellulose. It is completely harmless and can be strained out with a coffee filter or consumed safely."
+          },
+          {
+            "question": "Does vinegar expire or require refrigeration?",
+            "answer": "Vinegar's high acidity naturally inhibits bacterial growth, so refrigeration is unnecessary and it has an almost indefinite shelf life. For peak flavor quality, however, it is best used within 2–3 years after opening."
+          }
+        ]
+      },
+      "ja": {
+        "title": "酢（お酢）を長持ちさせる保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくお酢の最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "米国食品医薬品局(FDA) & 食品医薬品安全処(MFDS)",
+        "intro": "料理に深みとさっぱりとした風味を与えるお酢を、コンロの横や日当たりの良い窓際に置いたままにしていませんか？🍾\n\nお酢は主成分である酢酸（Acetic Acid）の強力な酸性のおかげで、非常に高い殺菌力と self-preservation（自己保存性）を持つ食材です。しかし、直射日光や高い熱に晒されると風味や香りが飛んでしまったり、空気中の有機物と反応して濁りや沈殿物が生じることがあります。\n\n本記事では、食品安全機関のガイドラインに基づき、お酢の酸度と芳醇な風味を長期間変わらず維持する3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "金属製の容器に移し替えて保存しないでください ⚠️",
+            "desc": "お酢に含まれる酢酸は鉄やアルミニウム、銅などの金属と強く反応し、容器を腐食させたり金属臭が移る原因になります。必ずオリジナルのガラス瓶や食品用プラスチック容器で保存してください。"
+          },
+          {
+            "title": "使用後は蓋をしっかり閉めて密閉してください 🍾",
+            "desc": "空気中に長く晒されると酢酸成分が蒸発して酸度が低下し、風味が弱まります。また、ほこりやコバエが侵入したり濁りの原因となる菌糸体が形成される恐れがあります。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "直射日光とコンロの熱を避ける — 冷暗所保存 (15〜25℃) 📦",
+            "text": "お酢は日光やコンロ周囲の熱に晒されると酸化が進み、色や香りが劣化しやすくなります。💡保存のコツ：窓際やコンロ横を避け、直射日光の当たらない涼しく暗い戸棚（15〜25℃）で保存してください。"
+          },
+          {
+            "name": "使用後は注ぎ口を拭きしっかり密閉する — 酸度＆風味の保護 🍾",
+            "text": "蓋が緩んでいるとボラティリティ（揮発性）の高い酢酸成分が逃げてしまいます。💡保存のコツ：使用後はボトル口の液だれを清潔な布巾で拭き取り、すぐに蓋をしっかり閉めて空気との接触を最小限に抑えましょう。"
+          },
+          {
+            "name": "元のガラス瓶やプラスチック容器のまま保管する — 容器の安全性維持 🏺",
+            "text": "別の容器に移し替えると不純物が混入したり、反応性の高い材質に触れるリスクが生じます。💡保存のコツ：メーカーが提供する元のガラス瓶や専用のペットボトル容器のまま保管するのが最も安全です。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "お酢の底に白い濁りや沈殿物ができていますが、使えますか？",
+            "answer": "お酢の底に見られる沈殿物は、酢酸菌とセルロースが結合してできる「酢母（Mother of Vinegar）」と呼ばれるもので、人体にはまったく無害です。茶こし等で漉していただくか、そのままお使いいただいても問題ありません。"
+          },
+          {
+            "question": "お酢は冷蔵保存が必要ですか？賞味期限はありますか？",
+            "answer": "お酢は酸度が非常に高く雑菌が繁殖できないため冷蔵保存の必要はなく、常温の冷暗所でほぼ半永久的に保存できます。ただし、最高の風味を楽しんでいただくためには開栓後2〜3年を目安に使い切ることをおすすめします。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何妥善保存食醋：科学储存指南",
+        "description": "根据官方食品安全指南，了解食醋的最佳储存温度、方式和保鲜时长。",
+        "authority": "美国食品药品监督管理局(FDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "您是否曾随手将食醋放在阳关直射的窗台或高温的灶台旁？🍾\n\n食醋凭借其富含的醋酸（Acetic Acid）成分所具有的强酸性，是一种具备极强自我防腐能力的调味品。然而，若长期暴露于直射日光与高温下，其香气会挥发褪去，颜色也可能发生改变，甚至与空气中的微量有机物反应生成沉淀（醋母）。\n\n本指南基于权威食品安全机构的指南，为您带来3步科学保存秘诀，帮您长期锁定食醋的浓郁风味与酸度。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "切勿使用金属容器分装或储存 ⚠️",
+            "desc": "食醋中的醋酸会与铁、铝、铜等金属发生化学反应，腐蚀容器并溶出金属异味甚至有害物质。请务必保留在原装玻璃瓶或食品级塑料瓶中。"
+          },
+          {
+            "title": "使用后请务必拧紧密封瓶盖 🍾",
+            "desc": "长期暴露于空气中会导致醋酸成分挥发，使酸度下降、风味变淡，还可能导致灰尘、果蝇侵入或促成醋酸菌沉淀物的产生。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "避开阳光直射与热源 — 阴凉橱柜常温保存 (15~25℃) 📦",
+            "text": "阳光或灶台周围的高温会加速食醋氧化，导致色泽变深与风味劣化。💡储存小贴士：请远离窗户和灶台，置于避光、干燥且阴凉的橱柜（15~25℃）中保存。"
+          },
+          {
+            "name": "用后及时擦净瓶口并盖紧 — 锁定酸度与香气 🍾",
+            "text": "使用后若未盖紧，易挥发的醋酸分子会不断逸散。💡储存小贴士：倒完醋后用干净纸巾擦拭瓶口残留，并迅速紧闭瓶盖，最大限度减少与空气接触。"
+          },
+          {
+            "name": "保持原装玻璃瓶或PET塑料瓶储存 — 确保容器安全 🏺",
+            "text": "分装至未知材质的容器中存在杂质污染或化学反应的风险。💡储存小贴士：直接使用厂商提供的原装玻璃瓶或食品级PET塑料瓶保存最为安全。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "醋瓶底部出现了浑浊的沉淀物，还可以食用吗？",
+            "answer": "瓶底出现的浑浊沉淀物是由醋酸菌与纤维素结合生成的“醋母”（Mother of Vinegar），对人体无毒无害。可用滤网过滤掉或直接正常食用。"
+          },
+          {
+            "question": "食醋需要冷藏吗？保质期有多长？",
+            "answer": "食醋自身极高的酸度使细菌无法生存，因此无需冷藏，在阴凉常温下几乎可无限期保存。但为了享受最佳口感与风味，建议开封后在2~3年内食用完毕。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo conservar el vinagre: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el vinagre según las directrices oficiales de seguridad.",
+        "authority": "FDA & MFDS",
+        "intro": "¿Alguna vez dejó la botella de vinagre al lado de la estufa o en el repisa de la ventana donde le da el sol? 🍾\n\nGracias a su alta concentración de ácido acético, el vinagre es un ingrediente autoconservante con una estabilidad natural extraordinaria. Sin embargo, la exposición a la luz solar directa y al calor degrada sus delicados aromas, altera su color y puede propiciar la aparición de sedimentos turbios.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por autoridades de seguridad alimentaria para mantener la acidez y el sabor intactos por años. 🛡️",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Nunca almacene el vinagre en recipientes de metal ⚠️",
+            "desc": "El ácido acético reacciona intensamente con metales como hierro, aluminio y cobre, provocando corrosión y filtrando sabores metálicos. Mantenga el vinagre en su botella de vidrio o plástico apto para alimentos."
+          },
+          {
+            "title": "Cierre la botella herméticamente tras cada uso 🍾",
+            "desc": "La exposición prolongada al aire provoca la evaporación del ácido acético, reduciendo la acidez y el aroma, además de permitir la entrada de polvo, insectos o formación de posos."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Proteja de la luz solar directa y fuentes de calor — Despensa fresca (15–25 °C) 📦",
+            "text": "Exponer el vinagre al calor o a la luz acelera la oxidación, alterando su color y sabor. 💡 Consejo de almacenamiento: Guárdelo en un armario oscuro y fresco (15–25 °C) lejos de ventanas y electrodomésticos calientes."
+          },
+          {
+            "name": "Limpie el vertedor y cierre bien el tapón — Protección de acidez y aroma 🍾",
+            "text": "Si se deja destapado, el ácido acético volátil se evapora progresivamente. 💡 Consejo de almacenamiento: Limpie el cuello de la botella después de verter y selle bien la tapa para minimizar el contacto con el oxígeno."
+          },
+          {
+            "name": "Conserve en la botella original de vidrio o plástico apto — Seguridad del envase 🏺",
+            "text": "Trasvasar el vinagre a frascos no verificados conlleva el riesgo de contaminación o reactividad química. 💡 Consejo de almacenamiento: Mantenga el vinagre en su frasco original comercial."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Se formó un sedimento turbio en el fondo de la botella. ¿Es seguro usarlo?",
+            "answer": "¡Sí! Esa formación turbia se conoce como la 'madre del vinagre', una colonia natural de bacterias del ácido acético. Es completamente inofensiva y se puede colar o consumir con total seguridad."
+          },
+          {
+            "question": "¿El vinagre caduca o requiere refrigeración?",
+            "answer": "La acidez del vinagre impide el crecimiento bacteriano, por lo que la refrigeración es innecesaria y tiene una vida útil casi indefinida. Para mantener su calidad aromática ideal, se sugiere consumir dentro de los 2–3 años tras su apertura."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver le vinaigre : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le vinaigre selon les directives officielles de sécurité.",
+        "authority": "FDA & MFDS",
+        "intro": "Avez-vous déjà laissé votre bouteille de vinaigre sur le rebord d'une fenêtre ensoleillée ou juste à côté de vos plaques de cuisson ? 🍾\n\nGrâce à sa forte teneur en acide acétique, le vinaigre est un aliment auto-conservateur d'une stabilité exceptionnelle. Cependant, l'exposition à la lumière directe du soleil et à la chaleur peut altérer sa saveur délicate, modifier sa couleur ou provoquer la formation d'un dépôt trouble.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations des autorités de sécurité alimentaire pour préserver l'acidité et la richesse gustative de votre vinaigre. 🛡️",
+        "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne conservez jamais le vinaigre dans des récipients en métal ⚠️",
+            "desc": "L'acide acétique attaque les métaux comme le fer, l'aluminium ou le cuivre, entraînant la corrosion du récipient et l'apparition d'un goût métallique. Conservez-le dans sa bouteille d'origine en verre ou en plastique alimentaire."
+          },
+          {
+            "title": "Refermez hermétiquement la bouteille après chaque utilisation 🍾",
+            "desc": "Une exposition prolongée à l'air entraîne l'évaporation de l'acide acétique, réduisant l'acidité et les arômes, et permet l'intrusion de poussières ou de drosophiles."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Éloigner de la lumière directe et de la chaleur — Placard frais et sombre (15–25 °C) 📦",
+            "text": "L'exposition à la chaleur et à la lumière accélère l'oxydation. 💡 Astuce de conservation : Rangez le vinaigre dans un placard sombre et frais (15–25 °C), à l'écart des fenêtres et des sources de chaleur."
+          },
+          {
+            "name": "Essuyer le goulot et fermer hermétiquement — Maintien de l'acidité et des arômes 🍾",
+            "text": "Un flacon mal fermé laisse s'échapper les composants volatils de l'acide acétique. 💡 Astuce de conservation : Essuyez le goulot après usage et revissez fermement le bouchon pour limiter le contact avec l'air."
+          },
+          {
+            "name": "Garder dans la bouteille en verre ou plastique d'origine — Sécurité du contenant 🏺",
+            "text": "Transvaser le vinaigre dans d'autres récipients expose à des risques de contamination. 💡 Astuce de conservation : Conservez le vinaigre dans sa bouteille commerciale en verre ou en plastique PET d'origine."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Un dépôt trouble s'est formé au fond de la bouteille. Est-il encore consommable ?",
+            "answer": "Oui ! Ce dépôt est appelé la « mère de vinaigre », une culture naturelle de bactéries acétiques et de cellulose. Elle est parfaitement inoffensive et peut être filtrée ou consommée sans aucun danger."
+          },
+          {
+            "question": "Le vinaigre périme-t-il ou doit-il être placé au réfrigérateur ?",
+            "answer": "L'acidité naturelle du vinaigre empêche le développement des bactéries. La réfrigération est donc inutile et sa durée de conservation est presque illimitée. Pour profiter de son meilleur profil aromatique, consommez-le dans les 2 à 3 ans suivant son ouverture."
+          }
+        ]
+      },
+      "de": {
+        "title": "Essig richtig aufbewahren: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Essig basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "FDA & MFDS",
+        "intro": "Haben Sie Ihren Essig schon einmal auf das sonnige Fensterbrett oder direkt neben den heißen Herd gestellt? 🍾\n\nDank seines hohen Gehalts an Essigsäure (Acetic Acid) ist Essig ein selbstkonservierendes Lebensmittel mit außergewöhnlich hoher Haltbarkeit. Dennoch können direkte Sonneneinstrahlung und Hitze die feinen Aromen beeinträchtigen, die Farbe verändern oder zu Eintrübungen führen.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um den Säuregehalt und das volle Aroma Ihres Essigs über Jahre hinweg zu bewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Essig niemals in Metallbehältern aufbewahren ⚠️",
+            "desc": "Die Essigsäure reagiert stark mit Metallen wie Eisen, Aluminium und Kupfer. Dies führt zu Korrosion und lässt metallischen Geschmack in den Essig übergehen. Nutzen Sie immer die Original-Glas- oder Plastikflasche."
+          },
+          {
+            "title": "Nach Gebrauch die Flasche stets fest verschließen 🍾",
+            "desc": "Durch längeren Luftkontakt verdunstet die flüchtige Essigsäure, wodurch Säuregehalt und Aroma abnehmen. Zudem können Staub, Fruchtfliegen oder wilde Hefen eindringen."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Vor Sonnenlicht und Hitze schützen — Vorratskammer (15–25 °C) 📦",
+            "text": "Licht und Wärme beschleunigen die Oxidation des Essigs. 💡 Lagerungstipp: Bewahren Sie Essig an einem dunklen, kühlen Ort (15–25 °C) fernab von Fenstern und Kochfeldern auf."
+          },
+          {
+            "name": "Flaschenhals abwischen und fest verschließen — Säure & Aroma schützen 🍾",
+            "text": "Wenn die Flasche offen bleibt, entweicht die Essigsäure kontinuierlich. 💡 Lagerungstipp: Reinigen Sie den Flaschenhals nach dem Ausgießen und drehen Sie den Deckel sofort fest zu."
+          },
+          {
+            "name": "In der Original-Glas- oder PET-Flasche belassen — Behältersicherheit 🏺",
+            "text": "Das Umfüllen in ungeeignete Gefäße birgt das Risiko von chemischen Reaktionen oder Verunreinigungen. 💡 Lagerungstipp: Belassen Sie den Essig in der vom Hersteller abgefüllten Flasche."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Am Flaschenboden hat sich ein trüber Satz gebildet. Ist der Essig noch gut?",
+            "answer": "Ja! Bei diesem trüben Satz handelt es sich um die sogenannte 'Essigmutter' (Mother of Vinegar), eine natürliche Kultur aus Essigsäurebakterien. Sie ist völlig harmlos und kann einfach abgeseiht oder mitverwendet werden."
+          },
+          {
+            "question": "Kann Essig ablaufen oder muss er in den Kühlschrank?",
+            "answer": "Durch die hohe Eigen-Säure können sich keine Bakterien vermehren. Eine Kühlung im Kühlschrank ist nicht nötig und Essig ist nahezu unbegrenzt haltbar. Für das beste Geschmackserlebnis empfiehlt sich der Verbrauch innerhalb von 2–3 Jahren nach dem Öffnen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar vinagre: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para o vinagre com base em diretrizes oficiais de segurança.",
+        "authority": "FDA & MFDS",
+        "intro": "Você já deixou a garrafa de vinagre na bancada ao lado do fogão ou perto de uma janela ensolarada? 🍾\n\nGraças ao seu alto teor de ácido acético, o vinagre é um alimento autoconservante com estabilidade natural incrível. No entanto, a exposição à luz solar direta e ao calor excessivo pode degradar seu sabor, alterar sua cor e levar à formação de sedimentos turvos.\n\nNeste guia, apresentamos um guia em 3 etapas baseado em diretrizes de segurança alimentar para preservar a acidez e o sabor marcante do seu vinagre por anos. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Regras essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca guarde o vinagre em recipientes de metal ⚠️",
+            "desc": "O ácido acético reage fortemente com metais como ferro, alumínio e cobre, provocando corrosão e liberando sabores metálicos indesejados. Mantenha o vinagre na garrafa original de vidro ou plástico próprio para alimentos."
+          },
+          {
+            "title": "Mantenha a garrafa bem fechada após o uso 🍾",
+            "desc": "A exposição ao ar faz com que o ácido acético se evapore, reduzindo a acidez e o aroma, além de permitir a entrada de poeira ou moscas-das-frutas."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Proteja da luz solar direta e do calor — Armário fresco e escuro (15–25 °C) 📦",
+            "text": "Expor o vinagre ao calor e à iluminação acelera a oxidação do produto. 💡 Dica de conservação: Guarde o vinagre em um armário ou despensa fresca (15–25 °C), longe de janelas e do fogão."
+          },
+          {
+            "name": "Limpe o bocal e feche bem a tampa — Proteção da acidez e do sabor 🍾",
+            "text": "Deixar o frasco mal selado permite a fuga do ácido acético volátil. 💡 Dica de conservação: Limpe o bocal após servir e feche a tampa firmemente para minimizar o contato com o oxigênio."
+          },
+          {
+            "name": "Mantenha no frasco original de vidro ou plástico PET — Segurança do recipiente 🏺",
+            "text": "Transferir o vinagre para recipientes não testados traz risco de reações químicas. 💡 Dica de conservação: Mantenha o vinagre em sua embalagem comercial original para garantir total segurança."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Formou-se um sedimento turvo no fundo da garrafa. Ainda é seguro usá-lo?",
+            "answer": "Sim! Essa substância turva é conhecida como a 'mãe do vinagre', uma colônia natural de bactérias do ácido acético e celulose. Ela é totalmente inofensiva e pode ser filtrada ou consumida sem problemas."
+          },
+          {
+            "question": "O vinagre expira ou precisa ser mantido na geladeira?",
+            "answer": "A acidez natural do vinagre impede o crescimento de bactérias, sendo desnecessária a refrigeração. O vinagre tem uma validade praticamente ilimitada. Para apreciar o melhor sabor, recomenda-se consumir em até 2–3 anos após aberto."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Cuka agar Tetap Awet: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk cuka berdasarkan pedoman keselamatan resmi.",
+        "authority": "FDA & MFDS",
+        "intro": "Pernahkah Anda meninggalkan botol cuka di dekat jendela yang terkena sinar matahari atau di samping kompor yang panas? 🍾\n\nBerkat kandungan asam asetatnya yang tinggi, cuka adalah bahan makanan yang memiliki kemampuan pengawetan alami luar biasa. Namun, paparan sinar matahari langsung dan suhu panas dapat merusak aromanya, mengubah warnanya, serta memicu terbentuknya endapan keruh.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman keamanan pangan untuk menjaga tingkat keasaman dan kelezatan cuka Anda. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan pernah menyimpan cuka dalam wadah logam ⚠️",
+            "desc": "Kandungan asam asetat pada cuka bereaksi kuat dengan logam seperti besi, aluminium, dan tembaga, yang menyebabkan korosi serta rasa logam. Selalu simpan cuka dalam botol kaca atau plastik khusus makanan."
+          },
+          {
+            "title": "Tutup rapat botol cuka setiap kali selesai digunakan 🍾",
+            "desc": "Paparan udara dalam jangka panjang menyebabkan asam asetat menguap sehingga menurunkan tingkat keasaman dan aroma, serta memungkinkan debu atau lalat buah masuk."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Jauhkan dari sinar matahari langsung dan sumber panas — Simpan di Dapur Sejuk (15–25°C) 📦",
+            "text": "Membiarkan cuka terpapar panas dan cahaya mempercepat proses oksidasi. 💡 Tips Penyimpanan: Simpan cuka di dalam lemari dapur atau kabinet yang gelap dan sejuk (15–25°C) jauh dari jendela dan kompor."
+          },
+          {
+            "name": "Lap mulut botol dan tutup rapat — Lindungi Keasaman & Aroma 🍾",
+            "text": "Jika tidak ditutup rapat, senyawa asam asetat yang mudah menguap akan keluar. 💡 Tips Penyimpanan: Bersihkan sisa tetesan pada mulut botol lalu tutup hingga rapat untuk meminimalkan kontak dengan udara."
+          },
+          {
+            "name": "Pertahankan botol kaca atau plastik asli — Keamanan Wadah 🏺",
+            "text": "Memindahkan cuka ke wadah lain berisiko menimbulkan reaksi kimia atau kontaminasi. 💡 Tips Penyimpanan: Simpan cuka dalam botol kaca atau botol plastik PET asli dari pabrik."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Ada endapan keruh di dasar botol cuka, apakah masih aman digunakan?",
+            "answer": "Ya! Endapan keruh tersebut dikenal sebagai 'Mother of Vinegar' (biang cuka), yaitu kultur alami dari bakteri asam asetat dan selulosa. Endapan ini sama sekali tidak berbahaya dan dapat disaring atau langsung digunakan."
+          },
+          {
+            "question": "Apakah cuka bisa kedaluwarsa atau perlu disimpan di dalam kulkas?",
+            "answer": "Sifat asam pada cuka mencegah pertumbuhan bakteri sehingga tidak perlu disimpan di dalam kulkas dan memiliki masa simpan yang hampir tanpa batas. Untuk kualitas rasa terbaik, disarankan untuk mengonsumsinya dalam waktu 2–3 tahun setelah dibuka."
+          }
+        ]
+      }
     }
+  }
 }

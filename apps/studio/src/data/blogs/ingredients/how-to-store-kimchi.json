@@ -1,406 +1,406 @@
 {
-    "how-to-store-kimchi": {
-        "ingId": "kimchi",
-        "pubDate": "2026-01-12",
-        "updatedDate": "2026-01-12",
-        "heroImage": "/images/blog/kimchi_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "김치 신선하게 보관하는 법: 과학적 발효 보관 가이드",
-                "description": "공인된 연구 기관 및 안전 가이드라인에 따른 김치의 발효 상태별 최적 보관 온도, 흰색 군덕지(산막효모) 방지법 및 보관 기간을 확인하세요.",
-                "authority": "세계김치연구소(WiKim) & 농촌진흥청(RDA) & 식품의약품안전처(MFDS)",
-                "intro": "한국인의 밥상에서 빠질 수 없는 김치! 하지만 보관을 조금만 잘못해도 금세 너무 찌개용으로 푹 익어버리거나, 표면에 하얀 막(군덕지)이 생겨 버려야 하나 고민한 적 있으시죠? 🥬\n\n김치는 유산균이 살아 숨 쉬는 대표적인 생균 발효 식품입니다. 발효 과정에서 젖산균이 유기산을 만들어내어 깊은 맛을 내지만, 온도가 높아지면 과도하게 산패되어 시어지고, 공기와 접촉하면 산막효모가 자라 흰색 막을 형성하게 됩니다.\n\n이번 가이드에서는 세계김치연구소와 식품 전문가들이 검증한 과학적 팩트를 바탕으로, 김치의 아삭한 식감과 깊은 풍미를 오랫동안 지켜주는 3단계 최적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "발효 미생물인 젖산균과 산막효모의 생리적 특성을 이해하고 이에 맞는 올바른 환경(온도·산소 차단)을 제공하는 것이 김치의 맛과 위생 관리에 있어 핵심입니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "표면에 하얀 막(산막효모)이 생겼다면 공기 접촉을 차단하세요 ⚠️",
-                        "desc": "김치 표면에 생기는 흰색 막은 독소가 없는 '산막효모(Pichia 등)'로, 김치가 공기(산소)와 접촉할 때 호흡하며 증식합니다. 유해균이나 곰팡이는 아니므로 하얀 부분만 걷어내고 씻어서 요리에 활용할 수 있으나, 이를 예방하려면 국물에 김치가 완전히 잠기도록 눌러주어야 합니다."
-                    },
-                    {
-                        "title": "국물 밖으로 김치가 노출되지 않도록 상시 관리하세요 🥬",
-                        "desc": "김치가 국물 위로 솟아올라 공기와 만나면 갈변 현상이 일어나고 아삭함이 사라지며 골(산막효모)이 쉽게 생깁니다. 항상 누름독이나 위생 비닐로 눌러 김치 국물 수면 아래로 들어가게 유지해야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "김치 국물에 완전히 잠기도록 누름판(또는 위생 비닐)으로 공기 차단하기 — 혐기 상태 유지 📦",
-                        "text": "김치 발효를 담당하는 젖산균(Leuconostoc, Lactobacillus)은 산소가 없는 환경에서 잘 자라는 혐기성 균이며, 흰 막을 만드는 효모는 산소를 필요로 합니다. 💡 보관 팁: 김치를 용기에 담은 후 80% 정도만 채우고, 누름판이나 위생 비닐, 우거지 등으로 상단을 꾹 눌러 김치가 국물 속에 완전히 잠기게 해주세요. 공기 접촉을 철저히 막아야 산화 및 산막효모 발생을 원천 차단할 수 있습니다."
-                    },
-                    {
-                        "name": "0 - 1℃ 저온 냉장 보관으로 유산균 증식 속도 제어하기 — 저온 발효 보관 (3 - 6개월) ❄️",
-                        "text": "온도가 높을수록 젖산균의 유기산 생성 속도가 비례하여 증가하여 김치가 쉽게 시어집니다. 💡 보관 팁: 김치의 최적 보관 온도는 0 - 1℃입니다. 이 온도에서는 김치가 얼지 않으면서도 유산균의 과도한 증식과 산패가 억제되어 톡 쏘는 청량감(류코노스톡 균)을 수개월간 유지할 수 있습니다. 0℃ 미만으로 내려가면 얼어서 과육 조직이 파괴되어 아삭함이 사라지므로 영하로 떨어지지 않게 주의하세요."
-                    },
-                    {
-                        "name": "입맛에 맞는 발효 상태별 맞춤 온도 제어하기 — 발효 단계별 맞춤 보관 🌡️",
-                        "text": "원하는 김치 맛에 따라 보관 온도를 다르게 설정하세요. 💡 보관 팁: 갓 담근 알싸한 겉절이 맛을 오래 유지하려면 담그자마자 -1 - 0℃ 김치냉장고에 바로 넣으세요. 알맞게 익은 맛을 원한다면 15 - 20℃ 상온에서 1 - 2일간 알맞게 발효시킨 후 0 - 1℃ 저온으로 옮겨 보관하면 맛있는 발효 상태를 오랫동안 보존할 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "김치 표면에 생긴 하얀 물질(군덕지)은 곰팡인가요? 먹어도 되나요?",
-                        "answer": "곰팡이가 아니라 효모가 만든 '산막효모(골)'입니다. 세계김치연구소 연구 결과 독성 유전자가 없어 인체에 무해한 것으로 확인되었습니다. 하얀 막 부분만 물로 깨끗이 씻어내거나 도려낸 후 찌개, 볶음, 찜 등 열을 가하는 요리에 활용하시면 안전하게 드실 수 있습니다."
-                    },
-                    {
-                        "question": "김치가 너무 시어버렸는데 버려야 하나요?",
-                        "answer": "신김치는 부패한 것이 아니라 젖산균이 유기산을 많이 만들어 산도가 높아진 상태입니다. 버리지 마시고 양념을 살짝 털어내어 김치찌개, 김치전, 김치찜 등으로 조리하거나, 조리 시 베이킹소다나 설탕을 한 스푼 넣으면 산미를 중화시켜 맛있게 즐기실 수 있습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Kimchi Fresh: Scientific Fermentation Storage Guide",
-                "description": "Check the optimal storage temperature per fermentation stage, methods to prevent white yeast film, and shelf life for kimchi based on official research guidelines.",
-                "authority": "WiKim & RDA & MFDS",
-                "intro": "Kimchi is an essential staple on the dining table! However, if stored improperly, it can quickly turn overly sour or develop a white film on the surface, making you wonder if it should be thrown away. 🥬\n\nKimchi is a prime living fermented food powered by beneficial lactic acid bacteria. During fermentation, these bacteria produce organic acids that create its deep, complex flavor. However, higher temperatures accelerate over-acidification, while contact with air allows film-forming yeast to grow and form a white layer.\n\nIn this guide, based on scientific facts verified by the World Institute of Kimchi (WiKim) and food safety experts, we introduce a 3-step optimal storage method to preserve kimchi's crisp texture and rich flavor over a long time. 🛡️",
-                "whyTitle": "Why Store Kimchi This Way? Scientific Facts",
-                "whyDesc": "Understanding the physiological traits of fermenting microorganisms—lactic acid bacteria and film-forming yeast—and providing the right environment (temperature control and oxygen exclusion) is key to maintaining kimchi's taste and hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Block air contact if a white layer (film-forming yeast) appears ⚠️",
-                        "desc": "The white layer on kimchi is caused by non-toxic 'film-forming yeast (Pichia spp.)', which thrives by consuming oxygen when exposed to air. Since it is not a harmful mold or toxin, you can simply scoop off the white layer, wash the top leaves, and use the rest for cooking. To prevent it, keep kimchi submerged in its brine."
-                    },
-                    {
-                        "title": "Keep kimchi submerged below the liquid surface at all times 🥬",
-                        "desc": "When kimchi rises above the brine and contacts air, oxidation causes browning, loss of crispness, and rapid yeast film formation. Always use a pressing plate or plastic wrap to keep kimchi pressed firmly below the brine."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Press down with a pressing plate (or plastic wrap) to block air — Maintain Anaerobic Conditions 📦",
-                        "text": "Lactic acid bacteria (Leuconostoc, Lactobacillus) responsible for kimchi fermentation thrive in anaerobic (oxygen-free) environments, while film-forming yeasts require oxygen to grow. 💡 Storage Tip: Fill the container only up to 80% capacity, then press down firmly on the top using a presser plate, plastic wrap, or outer cabbage leaves so that the kimchi remains fully submerged under its juice. Completely blocking air prevents oxidation and white yeast film."
-                    },
-                    {
-                        "name": "Control bacterial growth speed with cold refrigeration (0–1°C) — Low-Temperature Fermentation (3–6 Months) ❄️",
-                        "text": "Higher temperatures proportionally increase the organic acid production rate of lactic acid bacteria, causing kimchi to sour rapidly. 💡 Storage Tip: The optimal storage temperature for kimchi is 0–1°C (32–34°F). At this temperature, kimchi does not freeze, yet excessive bacterial multiplication and souring are suppressed, preserving a refreshing, carbonated tanginess (from Leuconostoc bacteria) for months. Avoid temperatures below 0°C to prevent frost damage that ruins crispness."
-                    },
-                    {
-                        "name": "Adjust storage temperature based on desired fermentation state — Customized Fermentation Control 🌡️",
-                        "text": "Set storage temperature according to your taste preference. 💡 Storage Tip: To maintain the fresh, unfermented state of freshly made kimchi (Geotjeori), place it directly into a kimchi refrigerator set at -1–0°C. If you prefer a properly aged flavor, let it ferment at room temperature (15–20°C) for 1–2 days first, then transfer it to cold storage at 0–1°C to lock in the optimal flavor for a long time."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Is the white substance (yeast film) on kimchi surface mold? Is it safe to eat?",
-                        "answer": "It is not mold, but 'film-forming yeast' created by yeasts. Research by the World Institute of Kimchi confirmed it contains no toxin genes and is harmless to the human body. Simply rinse off or remove the affected top layer and use the rest in cooked dishes like kimchi stew, stir-fries, or braised dishes."
-                    },
-                    {
-                        "question": "My kimchi has turned too sour. Do I need to throw it away?",
-                        "answer": "Overly sour kimchi is not spoiled; it simply has a high acidity because lactic acid bacteria produced abundant organic acids. Do not throw it away! Shake off the excess seasoning and cook it in kimchi stew, pancakes, or stews. Adding a pinch of baking soda or a spoonful of sugar during cooking neutralizes acidity for a delicious meal."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "キムチを新鮮に保つ保存方法：科学的発酵保管ガイド",
-                "description": "公的研究機関および安全ガイドラインに基づくキムチの発酵状態別の最適保存温度、白カビ状の膜（産膜酵母）防止法、保存期間をご確認ください。",
-                "authority": "World Institute of Kimchi (WiKim) & 農村振興庁(RDA) & 食品医薬品安全処(MFDS)",
-                "intro": "食卓に欠かせないキムチ！しかし、少し保存方法を間違えるとすぐに酸っぱくなりすぎたり、表面に白い膜（産膜酵母）が発生して捨てようか迷った経験はありませんか？🥬\n\nキムチは乳酸菌が生きている代表的な生菌発酵食品です。発酵過程で乳酸菌が有機酸を作り出し深い味わいを生み出しますが、温度が高くなると過度に酸化して酸っぱくなり、空気と接触すると産膜酵母が繁殖して白い膜を形成します。\n\n本記事では、世界キムチ研究所や食品専門家が検証した科学的ファクトに基づき、キムチのシャキシャキした食感と深い旨味を長く守る3段階の最適保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "発酵微生物である乳酸菌と産膜酵母の生理的特性を理解し、それに合った正しい環境（温度・酸素遮断）を提供することがキムチの味と衛生管理の鍵です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "表面に白い膜（産膜酵母）が発生したら空気接触を遮断してください ⚠️",
-                        "desc": "キムチの表面にできる白い膜は毒性のない「産膜酵母（Pichia等）」で、キムチが空気（酸素）と接触した際に呼吸して繁殖します。有害なカビや毒素ではないため、白い部分を取り除いて洗えば料理に活用できますが、予防するにはキムチが汁に完全に浸かるよう押し下げる必要があります。"
-                    },
-                    {
-                        "title": "キムチが汁の外に露出しないよう常に管理してください 🥬",
-                        "desc": "キムチが汁の上に浮き出て空気と触れると褐変現象が起き、シャキシャキ感が失われて白い膜がつきやすくなります。常に押し蓋やポリ袋で押さえ、キムチ汁の液面下に沈めた状態を維持してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "キムチが汁に完全に浸かるよう押し蓋（またはポリ袋）で空気を遮断する — 嫌気状態の維持 📦",
-                        "text": "キムチの発酵を担う乳酸菌（Leuconostoc, Lactobacillus）は酸素のない環境でよく育つ嫌気性菌であり、白い膜を作る酵母は酸素を必要とします。💡保存のコツ：容器にキムチを80%ほど詰め、押し蓋や衛生ポリ袋、外葉などで上部をしっかり押さえて汁の中に完全に沈めてください。空気との接触を徹底的に防ぐことで酸化と産膜酵母の発生を根本から遮断できます。"
-                    },
-                    {
-                        "name": "0〜1℃の低温冷蔵保存で乳酸菌の増殖速度を制御する — 低温発酵保存 (3〜6ヶ月間) ❄️",
-                        "text": "温度が高くなると乳酸菌の有機酸生成速度が比例して増大し、キムチがすぐに酸っぱくなります。💡保存のコツ：キムチの最適保存温度は0〜1℃です。この温度ではキムチが凍らず、乳酸菌の過剰な増殖と酸敗が抑えられ、清涼感のある爽やかな味（リューコノストック菌）を数ヶ月間維持できます。0℃未満になると凍って組織が破壊され食感が損なわれるためご注意ください。"
-                    },
-                    {
-                        "name": "好みの発酵状態に合わせて保存温度を調整する — 発酵段階別カスタマイズ保存 🌡️",
-                        "text": "希望するキムチの味に応じて保存温度を設定します。💡保存のコツ：漬けたての浅漬け（コッジョリ）の味を長く保ちたい場合は、漬けてすぐに-1〜0℃のキムチ冷蔵庫に入れてください。程よく熟した味が好みなら、15〜20℃の常温で1〜2日発酵させた後、0〜1℃の低温に移して保存すると美味しい発酵状態を長くキープできます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "キムチの表面にできた白い物質はカビですか？食べても大丈夫ですか？",
-                        "answer": "カビではなく、酵母が作った「産膜酵母」です。世界キムチ研究所の研究により、毒性遺伝子を持たず人体に無害であることが確認されています。白い膜の部分を水できれいに洗い流すか切り落とした後、チゲ、炒め物、蒸し煮など加熱料理に活用すれば安全にお召し上がりいただけます。"
-                    },
-                    {
-                        "question": "キムチが酸っぱくなりすぎてしまいましたが、捨てるべきですか？",
-                        "answer": "酸っぱくなったキムチは腐敗したのではなく、乳酸菌が有機酸を多く作って酸度が高くなった状態です。捨てずに薬味を軽く落としてキムチチゲやキムチチヂミ、キムチチムなどに調理するか、調理時にベーキングソーダや砂糖を少々加えると酸味が和らぎ美味しく召し上がれます。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持泡菜（Kimchi）新鲜：科学发酵储存指南",
-                "description": "根据官方研究机构及安全指南，了解泡菜不同发酵阶段的最佳储存温度、防止白色酵母膜（产膜酵母）的方法及保鲜时长。",
-                "authority": "世界泡菜研究所(WiKim) & 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "泡菜是餐桌上不可或缺的美食！但如果储存不当，很快就会变得过酸，或者表面长出一层白膜，让人犹豫是否该扔掉。🥬\n\n泡菜是益生乳酸菌活性的代表性发酵食品。发酵过程中乳酸菌会产生有机酸，赋予其深厚风味。然而温度过高会导致过度酸败，而接触空气则会促使产膜酵母繁殖并形成白膜。\n\n本指南基于世界泡菜研究所及食品专家验证的科学事实，为您介绍3步最佳储存秘诀，长久保持泡菜的爽脆口感与浓郁风味。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解发酵微生物（乳酸菌和产膜酵母）的生理特性，并提供适宜的环境（控制温度与隔绝氧气），是维持泡菜风味与食品卫生的核心所在。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事項",
-                "cautions": [
-                    {
-                        "title": "若表面出现白膜（产膜酵母），请立即隔绝空气 ⚠️",
-                        "desc": "泡菜表面形成的白膜是由无毒的“产膜酵母（Pichia等）”产生的，它在接触空气（氧气）时进行呼吸并繁殖。这并非有害霉菌或毒素，因此只需将白色部分撇去并洗净即可用于烹饪。要预防其产生，须将泡菜完全压入汤汁中。"
-                    },
-                    {
-                        "title": "切勿让泡菜裸露在汤汁上方 🥬",
-                        "desc": "当泡菜浮出汤汁接触空气时，会发生褐变、失去爽脆感并极易长白膜。务必始终使用压盘或保鲜膜将其紧紧压在泡菜汤汁液面以下。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "用压盘（或保鲜膜）将泡菜完全压入汤汁中以隔绝空气 — 维持厌氧状态 📦",
-                        "text": "主导泡菜发酵的乳酸菌（Leuconostoc, Lactobacillus）是在无氧环境中良好生长的厌氧菌，而形成白膜的酵母则需要氧气。💡储存小贴士：泡菜装至容器80%满即可，然后用压盘、保鲜膜或外层白菜叶将顶部紧紧压实，使泡菜完全浸没在汤汁中。彻底阻绝空气可从源头杜绝氧化与产膜酵母的产生。"
-                    },
-                    {
-                        "name": "0 - 1℃低温冷藏控制乳酸菌繁殖速度 — 低温发酵储存 (3 - 6个月) ❄️",
-                        "text": "温度越高，乳酸菌产生有机酸的速度按比例成倍增加，导致泡菜迅速变酸。💡储存小贴士：泡菜的最佳储存温度为0 - 1℃。在此温度下，泡菜既不会结冰，又能抑制乳酸菌的过度繁殖与酸败，使清爽口感（明沟菌/Leuconostoc）维持数月之久。请注意温度切勿低于0℃，以免冻伤破坏组织结构导致口感变软。"
-                    },
-                    {
-                        "name": "根据喜好的发酵状态调整储存温度 — 按发酵阶段定制储存 🌡️",
-                        "text": "根据您喜爱的泡菜口感设定储存温度。💡储存小贴士：若想长久保持刚腌制时的鲜嫩口感（Geotjeori），腌好后请立即放入-1 - 0℃的泡菜冰箱。若喜欢熟透的风味，可先在15 - 20℃常温下发酵1 - 2天，再转入0 - 1℃低温冷藏，即可长期锁定美味发酵状态。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "泡菜表面生成的白色物质（白膜）是霉菌吗？还能吃吗？",
-                        "answer": "这不是霉菌，而是酵母菌产生的“产膜酵母”。世界泡菜研究所的研究证实其不含毒性基因，对人体无害。只需用清水将白膜部分冲洗干净或切除，然后用于炖汤、炒菜、炖煮等加热烹饪中即可安全食用。"
-                    },
-                    {
-                        "question": "泡菜变得太酸了，需要扔掉吗？",
-                        "answer": "变酸的泡菜并没有变质，而是乳酸菌合成了大量有机酸导致酸度升高。请勿丢弃！稍微洗去或抖落多余酱汁后，可用于制作泡菜汤、泡菜饼、炖泡菜等。烹饪时加入少许小苏打或一勺白糖，可中和酸味，非常美味。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener el kimchi fresco: Guía científica de conservación y fermentación",
-                "description": "Descubra la temperatura de almacenamiento óptima según la etapa de fermentación, los métodos para prevenir la capa blanca de levadura y el tiempo de conservación del kimchi.",
-                "authority": "WiKim & RDA & MFDS",
-                "intro": "¡El kimchi es un elemento imprescindible en la mesa! Sin embargo, si se almacena de forma incorrecta, puede volverse demasiado ácido rápidamente o desarrollar una capa blanca en la superficie, lo que hace dudar de si tirarlo. 🥬\n\nEl kimchi es un alimento fermentado vivo powered por bacterias lácticas beneficiosas. Durante la fermentación, estas bacterias producen ácidos orgánicos que crean su sabor profundo. No obstante, las temperaturas altas aceleran la acidificación excesiva, mientras que el contacto con el aire permite que las levaduras micodérmicas proliferen formando una capa blanca.\n\nEn esta guía, basada en datos científicos verificados por el Instituto Mundial del Kimchi (WiKim) y expertos en seguridad alimentaria, presentamos un método de conservación en 3 pasos para preservar la textura crujiente y el sabor del kimchi durante mucho tiempo. 🛡️",
-                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-                "whyDesc": "Comprender los rasgos fisiológicos de los microorganismos de la fermentación (bacterias lácticas y levaduras micodérmicas) y proporcionar el entorno adecuado (control de temperatura y exclusión de oxígeno) es clave para mantener el sabor y la higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Bloquee el contacto con el aire si aparece una capa blanca (levadura micodérmica) ⚠️",
-                        "desc": "La capa blanca en la superficie del kimchi es causante de 'levaduras micodérmicas (Pichia spp.)' no tóxicas, que prosperan consumiendo oxígeno. Al no ser un moho dañino ni una toxina, basta con retirar la capa blanca, lavar la parte superior y cocinar el resto. Para prevenirla, mantenga el kimchi sumergido en su líquido."
-                    },
-                    {
-                        "title": "Mantenga el kimchi siempre sumergido bajo el líquido 🥬",
-                        "desc": "Si el kimchi sobresale de su jugo y entra en contacto con el aire, la oxidación causa oscurecimiento, pérdida de firmeza y rápida formación de la capa blanca. Use siempre una prensa o film transparente para mantenerlo sumergido."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Presione con un disco prensador (o film plástico) para bloquear el aire — Mantenga condiciones anaeróbicas 📦",
-                        "text": "Las bacterias del ácido láctico (Leuconostoc, Lactobacillus) responsables de la fermentación prosperan en ambientes anaeróbicos (sin oxígeno), mientras que las levaduras micodérmicas necesitan oxígeno. 💡 Consejo de almacenamiento: Llene el recipiente solo al 80% y presione firmemente con un prensador, film transparente o hojas exteriores de col para que el kimchi quede totalmente sumergido en su jugo. Bloquear el aire previene la oxidación y la capa blanca."
-                    },
-                    {
-                        "name": "Controle la velocidad de reproducción bacteriana refrigerando a 0–1 °C — Conservación a baja temperatura (3–6 meses) ❄️",
-                        "text": "Cuanto mayor es la temperatura, más rápido producen ácidos orgánicos las bacterias lácticas, haciendo que el kimchi se vuelva agrio rápidamente. 💡 Consejo de almacenamiento: La temperatura óptima es de 0 a 1 °C. A esta temperatura el kimchi no se congela, pero se frena la acidificación excesiva, manteniendo el toque efervescente y fresco (por Leuconostoc) durante meses. Evite temperaturas bajo 0 °C para no dañar su textura crujiente."
-                    },
-                    {
-                        "name": "Ajuste la temperatura según el punto de fermentación deseado — Control personalizado 🌡️",
-                        "text": "Ajuste la temperatura según su preferencia de sabor. 💡 Consejo de almacenamiento: Para mantener el kimchi recién hecho (Geotjeori) fresco, colóquelo de inmediato en un refrigerador para kimchi a -1–0 °C. Si prefiere un sabor maduro, déjelo fermentar a temperatura ambiente (15–20 °C) durante 1–2 días antes de pasarlo a 0–1 °C para conservar su sabor perfecto durante meses."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿La sustancia blanca en la superficie del kimchi es moho? ¿Es seguro comerlo?",
-                        "answer": "No es moho, sino una velo de 'levadura micodérmica'. Investigaciones del Instituto Mundial del Kimchi confirmaron que no contiene genes tóxicos y es inofensiva. Lave la capa blanca con agua o retírela y use el kimchi en platos cocinados como guisados, salteados o estofados."
-                    },
-                    {
-                        "question": "Mi kimchi se ha vuelto demasiado agrio. ¿Debo tirarlo?",
-                        "answer": "El kimchi muy agrio no está estropeado; simplemente tiene alta acidez por la gran cantidad de ácidos orgánicos producidos. ¡No lo tire! Retire el exceso de aliño y cocínelo en sopa de kimchi, tortillas o guisos. Añadir una pizca de bicarbonato de sodio o una cucharada de azúcar al cocinar neutraliza la acidez."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver le kimchi frais : Guide scientifique de fermentation et stockage",
-                "description": "Découvrez la température optimale de conservation selon l'état de fermentation, les méthodes anti-film blanc de levure et la durée de conservation du kimchi.",
-                "authority": "WiKim & RDA & MFDS",
-                "intro": "Le kimchi est un incontournable de la table ! Cependant, s'il est mal conservé, il peut devenir trop acide rapidement ou développer une fine pellicule blanche à la surface, vous faisant hésiter à le jeter. 🥬\n\nLe kimchi est un puissant aliment fermenté vivant enrichi en bactéries lactiques. Durant la fermentation, ces bactéries produisent des acides organiques qui lui confèrent sa saveur riche. Toutefois, des températures élevées accélèrent l'acidification, tandis que le contact avec l'air permet aux levures d'altération de former un voile blanc.\n\nDans ce guide, basé sur des faits scientifiques vérifiés par l'Institut Mondial du Kimchi (WiKim) et des experts alimentaires, nous vous présentons une méthode en 3 étapes pour préserver le croquant et le goût du kimchi pendant des mois. 🛡️",
-                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre la physiologie des micro-organismes de fermentation (bactéries lactiques et levures mycodermiques) et offrir un environnement adapté (contrôle de la température et exclusion de l'oxygène) est la clé de la qualité et de l'hygiène du kimchi.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Bloquez le contact avec l'air si un voile blanc (levure mycodermique) apparaît ⚠️",
-                        "desc": "La pellicule blanche à la surface du kimchi est formée par des 'levures mycodermiques (Pichia spp.)' non toxiques, qui se développent en consommant de l'oxygène. Comme il ne s'agit pas d'une moisissure nocive, il suffit de retirer la partie blanche, de la rincer et d'utiliser le reste en cuisine. Pour l'éviter, gardez le kimchi totalement immergé dans son jus."
-                    },
-                    {
-                        "title": "Gardez le kimchi constamment immergé sous le jus 🥬",
-                        "desc": "Si le kimchi dépasse du jus et touche l'air, l'oxydation provoque un brunissement, une perte de croquant et la formation rapide de levures. Utilisez toujours un presse-kimchi ou du film étirable pour le maintenir sous le liquide."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Presser avec un presse-aliment (ou film étirable) pour bloquer l'air — Maintenir l'anaérobiose 📦",
-                        "text": "Les bactéries lactiques (Leuconostoc, Lactobacillus) responsables de la fermentation s'épanouissent en milieu anaérobie (sans oxygène), tandis que les levures ont besoin d'oxygène. 💡 Astuce de conservation : Remplissez le récipient à 80% seulement et pressez fermement le dessus pour que le kimchi reste entièrement immergé dans son jus. Bloquer l'air élimine l'oxydation et le voile blanc."
-                    },
-                    {
-                        "name": "Contrôler la multiplication bactérienne par réfrigération froide (0–1 °C) — Fermentation à basse température (3–6 mois) ❄️",
-                        "text": "Plus la température est élevée, plus la production d'acides organiques augmente, rendant le kimchi trop acide. 💡 Astuce de conservation : La température idéale est de 0 à 1 °C. Le kimchi ne gèle pas, l'acidification est ralentie et la saveur pétillante et fraîche (due à Leuconostoc) est préservée pendant des mois. Évitez les températures négatives pour ne pas altérer le croquant."
-                    },
-                    {
-                        "name": "Ajuster la température selon le stade de fermentation souhaité — Contrôle sur mesure 🌡️",
-                        "text": "Réglez la température selon vos préférences gustatives. 💡 Astuce de conservation : Pour conserver le goût du kimchi frais (Geotjeori), placez-le immédiatement au réfrigérateur à kimchi à -1–0 °C. Si vous aimez le kimchi bien mûr, laissez-le fermenter à température ambiante (15–20 °C) pendant 1 à 2 jours avant de le transférer à 0–1 °C."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "La substance blanche à la surface du kimchi est-elle de la moisissure ? Est-ce consommable ?",
-                        "answer": "Ce n'est pas de la moisissure, mais une 'levure mycodermique'. Les recherches du WiKim confirment qu'elle ne contient pas de gènes toxiques et est inoffensive. Rincez ou retirez simplement la partie blanche et utilisez le kimchi dans des plats cuisinés (soupes, sautés, mijotés)."
-                    },
-                    {
-                        "question": "Mon kimchi est devenu trop acide. Dois-je le jeter ?",
-                        "answer": "Un kimchi très acide n'est pas périmé ; il a simplement développé beaucoup d'acides organiques. Ne le jetez pas ! Rincez légèrement l'assaisonnement et cuisinez-le en soupe, en galettes ou en mijoté. Ajouter une pincée de bicarbonate de soude ou une cuillère de sucre neutralise l'acidité."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Kimchi richtig frisch halten: Wissenschaftlicher Fermentations- und Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur je nach Fermentationsstufe, Methoden zur Vermeidung von weißem Hefefilm und die Haltbarkeit von Kimchi.",
-                "authority": "WiKim & RDA & MFDS",
-                "intro": "Kimchi ist von der Speisekarte nicht wegzudenken! Doch bei falscher Lagerung kann es schnell zu sauer werden oder einen weißen Film auf der Oberfläche bilden, sodass man sich fragt, ob man es wegwerfen muss. 🥬\n\nKimchi ist ein lebendiges, fermentiertes Lebensmittel voller wertvoller Milchsäurebakterien. Während der Fermentation produzieren diese Bakterien organische Säuren, die für den tiefen Geschmack sorgen. Hohe Temperaturen beschleunigen jedoch die Übersäuerung, während Luftkontakt Kahmhefen wachsen lässt, die eine weiße Schicht bilden.\n\nIn diesem Ratgeber stellen wir Ihnen auf Basis wissenschaftlicher Fakten des World Institute of Kimchi (WiKim) und von Lebensmittelexperten eine 3-Schritte-Methode vor, um die Knackigkeit und das Aroma von Kimchi monatelang zu bewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der Eigenschaften von Fermentationsmikroorganismen (Milchsäurebakterien und Kahmhefen) sowie das Schaffen der richtigen Umgebung (Temperaturkontrolle und Sauerstoffausschluss) ist der Schlüssel für Geschmack und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Bei weißem Film (Kahmhefe) sofort den Luftkontakt unterbinden ⚠️",
-                        "desc": "Der weiße Film auf Kimchi wird von ungiftigen 'Kahmhefen (Pichia spp.)' gebildet, die bei Sauerstoffkontakt wachsen. Da es sich nicht um schädlichen Schimmel handelt, können Sie die weiße Schicht einfach abheben, das Kimchi abwaschen und zum Kochen verwenden. Um dies zu verhindern, muss das Kimchi vollständig in der Flüssigkeit untergetaucht bleiben."
-                    },
-                    {
-                        "title": "Achten Sie darauf, dass Kimchi immer unter der Flüssigkeit bleibt 🥬",
-                        "desc": "Ragt Kimchi aus dem Sud heraus und kommt mit Luft in Berührung, führt Oxidation zu Verfärbungen, Verlust der Knackigkeit und schneller Hefebildung. Verwenden Sie stets einen Beschwerungsstein oder Frischhaltefolie zum Anpressen."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Mit einer Presse (oder Folie) herunterdrücken, um Luft auszuschließen — Anaerobe Bedingungen halten 📦",
-                        "text": "Die für die Fermentation verantwortlichen Milchsäurebakterien (Leuconostoc, Lactobacillus) gedeihen in sauerstofffreier Umgebung, während Hefen Sauerstoff benötigen. 💡 Lagerungstipp: Befüllen Sie das Gefäß nur zu 80 % und drücken Sie die Oberfläche mit einer Presse, Folie oder äußeren Kohlblättern fest nach unten, sodass das Kimchi komplett mit Sud bedeckt ist. Sauerstoffausschluss verhindert Oxidation und Hefefilme."
-                    },
-                    {
-                        "name": "Bakterienwachstum durch Kühlung bei 0–1 °C verlangsamen — Kaltfermentation (3–6 Monate) ❄️",
-                        "text": "Je höher die Temperatur, desto schneller produzieren Milchsäurebakterien Säure und das Kimchi wird rasch sauer. 💡 Lagerungstipp: Die optimale Lagertemperatur beträgt 0–1 °C. Bei dieser Temperatur gefriert Kimchi nicht, die Säurebildung wird gebremst und die erfrischende Spritzigkeit (durch Leuconostoc) bleibt monatelang erhalten. Temperaturen unter 0 °C vermeiden, um die Knackigkeit nicht zu zerstören."
-                    },
-                    {
-                        "name": "Temperatur je nach gewünschtem Fermentationsgrad anpassen — Individuelle Steuerung 🌡️",
-                        "text": "Stellen Sie die Lagertemperatur nach Ihrem Geschmack ein. 💡 Lagerungstipp: Um frisches Kimchi (Geotjeori) knackig zu halten, legen Sie es sofort bei -1–0 °C in den Kimchi-Kühlschrank. Bevorzugen Sie gereiften Geschmack, lassen Sie es 1–2 Tage bei Raumtemperatur (15–20 °C) anfermentieren und kühlen Sie es danach bei 0–1 °C."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Ist die weiße Schicht auf der Kimchi-Oberfläche Schimmel? Kann man es noch essen?",
-                        "answer": "Es ist kein Schimmel, sondern ein harmloser 'Kahmhefe-Film'. Untersuchungen des WiKim haben bestätigt, dass diese Hefen keine Toxingene enthalten. Waschen Sie die weiße Schicht einfach ab oder schneiden Sie sie weg und nutzen Sie das Kimchi für gekochte Gerichte wie Eintöpfe, Suppen oder Pfannengerichte."
-                    },
-                    {
-                        "question": "Mein Kimchi ist zu sauer geworden. Muss ich es wegwerfen?",
-                        "answer": "Zu saueres Kimchi ist nicht verdorben; es enthält lediglich sehr viele organische Säuren. Nicht wegwerfen! Waschen Sie die Würze leicht ab und kochen Sie daraus Kimchi-Eintopf, Pfannkuchen oder Schmorgerichte. Eine Prise Natron oder ein Löffel Zucker beim Kochen neutralisiert die Säure."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar o kimchi fresco: Guia científico de fermentação e armazenamento",
-                "description": "Descubra a temperatura de conservação ideal para cada estágio de fermentação, métodos para prevenir a película branca de levedura e a validade do kimchi.",
-                "authority": "WiKim & RDA & MFDS",
-                "intro": "O kimchi é indispensável na refeição! No entanto, se for armazenado incorretamente, pode ficar excessivamente azedo rapidamente ou desenvolver uma película branca na superfície, fazendo você duvidar se deve descartá-lo. 🥬\n\nO kimchi é um alimento fermentado vivo rico em bactérias láticas benéficas. Durante a fermentação, essas bactérias produzem ácidos orgânicos que garantem seu sabor profundo. Contudo, temperaturas elevadas aceleram a acidificação, enquanto o contato com o ar permite que leveduras micodérmicas cresçam e formem uma camada branca.\n\nNeste guia, baseado em fatos científicos verificados pelo Instituto Mundial do Kimchi (WiKim) e especialistas em alimentos, apresentamos um método em 3 etapas para preservar a crocância e o sabor do kimchi por muito tempo. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Compreender as características fisiológicas dos microrganismos da fermentação (bactérias láticas e leveduras micodérmicas) e fornecer o ambiente adequado (controle de temperatura e bloqueio de oxigênio) é a chave para a qualidade e higiene do kimchi.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Regras essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Bloqueie o contato com o ar se surgir uma camada branca (levedura micodérmica) ⚠️",
-                        "desc": "A camada branca na superfície do kimchi é formada por 'leveduras micodérmicas (Pichia spp.)' não tóxicas, que se desenvolvem consumindo oxigênio. Como não é um mofo prejudicial, basta remover a camada branca, lavar a parte superior e usar o restante no cozimento. Para prevenir, mantenha o kimchi submerso em seu caldo."
-                    },
-                    {
-                        "title": "Mantenha o kimchi sempre submerso no líquido 🥬",
-                        "desc": "Quando o kimchi fica exposto acima do caldo e entra em contato com o ar, a oxidação causa escurecimento, perda de crocância e rápida formação de levedura. Use sempre um prensador ou filme plástico para mantê-lo submerso."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Pressione com um disco prensador (ou filme plástico) para bloquear o ar — Mantenha condições anaeróbicas 📦",
-                        "text": "As bactérias do ácido lático (Leuconostoc, Lactobacillus) responsáveis pela fermentação prosperam em ambientes anaeróbicos (sem oxigênio), enquanto as leveduras precisam de oxigênio. 💡 Dica de conservação: Preencha o recipiente até 80% e pressione firmemente o topo para que o kimchi fique totalmente submerso em seu caldo. Bloquear o ar evita oxidação e o surgimento da camada branca."
-                    },
-                    {
-                        "name": "Controle a velocidade de multiplicação bacteriana refrigerando a 0–1 °C — Conservação a baixa temperatura (3–6 meses) ❄️",
-                        "text": "Quanto maior a temperatura, mais rápido as bactérias láticas produzem ácido, fazendo o kimchi azedar rapidamente. 💡 Dica de conservação: A temperatura ideal é de 0 a 1 °C. Nessa temperatura o kimchi não congela, mas a acidificação é desacelerada, mantendo o sabor refrescante e efervescente (por Leuconostoc) por meses. Evite temperaturas abaixo de 0 °C para não estragar a crocância."
-                    },
-                    {
-                        "name": "Ajuste a temperatura de acordo com o nível de fermentação desejado — Controle personalizado 🌡️",
-                        "text": "Defina a temperatura de conservação de acordo com sua preferência de sabor. 💡 Dica de conservação: Para manter o kimchi fresco (Geotjeori) crocante, coloque-o imediatamente em uma geladeira de kimchi a -1–0 °C. Se preferir um sabor bem fermentado, deixe fermentar a temperatura ambiente (15–20 °C) por 1–2 dias antes de transferir para 0–1 °C."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "A substância branca na superfície do kimchi é mofo? É seguro comer?",
-                        "answer": "Não é mofo, mas sim 'levedura micodérmica'. Pesquisas do WiKim confirmaram que ela não contém genes tóxicos e é inofensiva para a saúde. Lave a parte branca ou remova-a e utilize o kimchi em pratos cozidos como ensopados, refogados ou cozidos."
-                    },
-                    {
-                        "question": "Meu kimchi ficou azedo demais. Devo jogá-lo fora?",
-                        "answer": "O kimchi muito azedo não está estragado; apenas possui alta acidez devido à grande quantidade de ácidos orgânicos produzidos. Não jogue fora! Lave ligeiramente o tempero e cozinhe em ensopados, panquecas ou cozidos. Adicionar uma pitada de bicarbonato de sódio ou uma colher de açúcar ao cozinhar neutraliza a acidez."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Kimchi agar Tetap Segar: Panduan Fermentasi dan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu penyimpanan optimal per tahap fermentasi, cara mencegah lapisan ragi putih (fungi mikoderma), dan masa simpan kimchi berdasarkan panduan penelitian resmi.",
-                "authority": "WiKim & RDA & MFDS",
-                "intro": "Kimchi adalah hidangan wajib di meja makan! Namun, jika disimpan dengan cara yang salah, kimchi bisa menjadi terlalu asam dengan cepat atau membentuk lapisan putih di surfaces, membuat Anda ragu apakah harus membuangnya. 🥬\n\nKimchi adalah makanan fermentasi hidup yang kaya akan bakteri asam laktat baik. Selama fermentasi, bakteri ini menghasilkan asam organik yang menciptakan rasa lezat nan mendalam. Namun, suhu tinggi mempercepat proses pembentukan asam, sementara kontak dengan udara memicu pertumbuhan ragi yang membentuk lapisan putih.\n\nDalam panduan ini, berdasarkan fakta ilmiah yang diverifikasi oleh World Institute of Kimchi (WiKim) dan pakar keamanan pangan, kami membagikan metode penyimpanan 3 langkah untuk menjaga tekstur renyah dan cita rasa kimchi dalam waktu lama. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis mikroorganisme fermentasi (bakteri asam laktat dan ragi pelapis) serta menyediakan lingkungan yang tepat (kontrol suhu dan pemblokiran oksigen) adalah kunci utama menjaga kualitas dan kebersihan kimchi.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Segera blokir kontak udara jika muncul lapisan putih (ragi pelapis) ⚠️",
-                        "desc": "Lapisan putih pada permukaan kimchi disebabkan oleh 'ragi pelapis (Pichia spp.)' non-toksik yang berkembang saat terpapar oksigen. Karena bukan jamur berbahaya atau racun, Anda cukup membuang lapisan putihnya, mencuci bagian atasnya, dan menggunakannya untuk memasak. Untuk mencegahnya, pastikan kimchi selalu terendam dalam kuahnya."
-                    },
-                    {
-                        "title": "Pastikan kimchi selalu terendam di bawah permukaan kuah 🥬",
-                        "desc": "Jika kimchi menyembul keluar kuah dan bersentuhan dengan udara, oksidasi akan menyebabkan perubahan warna menjadi kecokelatan, kehilangan kerenyahan, dan mempercepat munculnya lapisan ragi. Selalu gunakan penekan atau plastik wrap agar kimchi tetap terendam."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Tekan dengan alat penekan (atau plastik wrap) untuk memblokir udara — Pertahankan Kondisi Anaerobik 📦",
-                        "text": "Bakteri asam laktat (Leuconostoc, Lactobacillus) yang berperan dalam fermentasi berkembang baik di lingkungan anaerobik (tanpa oksigen), sedangkan ragi membutuhkan oksigen. 💡 Tips Penyimpanan: Isi wadah hingga 80% saja, lalu tekan bagian atas secara rapat dengan alat penekan, plastik wrap, atau daun kubis luar agar kimchi terendam sepenuhnya dalam kuah. Memblokir udara mencegah oksidasi dan lapisan ragi putih."
-                    },
-                    {
-                        "name": "Kendalikan kecepatan perkembangbiakan bakteri dengan mendinginkan pada suhu 0–1°C — Fermentasi Suhu Rendah (3–6 Bulan) ❄️",
-                        "text": "Semakin tinggi suhu, semakin cepat bakteri asam laktat menghasilkan asam organik, membuat kimchi cepat asam. 💡 Tips Penyimpanan: Suhu ideal penyimpanan kimchi adalah 0–1°C. Pada suhu ini kimchi tidak membeku, namun pembentukan asam berlebih dapat ditekan sehingga rasa segar nan tajam (dari bakteri Leuconostoc) dapat bertahan selama berbulan-bulan. Hindari suhu di bawah 0°C agar tekstur renyah tidak rusak."
-                    },
-                    {
-                        "name": "Sesuaikan suhu penyimpanan berdasarkan tingkat fermentasi yang diinginkan — Kontrol Disesuaikan 🌡️",
-                        "text": "Atur suhu penyimpanan sesuai dengan preferensi rasa Anda. 💡 Tips Penyimpanan: Untuk mempertahankan rasa kimchi segar (Geotjeori) agar tetap renyah, langsung simpan di kulkas khusus kimchi pada suhu -1–0°C. Jika menyukai rasa yang matang pas, biarkan terfermentasi pada suhu ruang (15–20°C) selama 1–2 hari terlebih dahulu, lalu pindahkan ke suhu 0–1°C."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apakah lapisan putih di permukaan kimchi itu jamur? Apakah aman dimakan?",
-                        "answer": "Bukan jamur, melainkan 'ragi pelapis' yang dihasilkan oleh ragi. Penelitian WiKim mengonfirmasi bahwa ragi ini tidak memiliki gen racun dan tidak berbahaya bagi tubuh manusia. Cukup cuci bersih lapisan putihnya dengan air atau potong bagian atasnya, lalu gunakan untuk masakan berkuah, tumisan, atau rebusan."
-                    },
-                    {
-                        "question": "Kimchi saya menjadi terlalu asam. Apakah harus dibuang?",
-                        "answer": "Kimchi yang sangat asam tidak busuk; melainkan memiliki tingkat keasaman tinggi karena bakteri asam laktat menghasilkan banyak asam organik. Jangan dibuang! Cuci atau buang bumbu berlebih lalu masak menjadi sup kimchi (sup kimchi), dadar kimchi (dadar kimchi), atau tumisan. Menambahkan sedikit baking soda atau satu sendok gula saat memasak akan menetralisir rasa asam."
-                    }
-                ]
-            }
-        }
+  "how-to-store-kimchi": {
+    "ingId": "kimchi",
+    "pubDate": "2026-01-12",
+    "updatedDate": "2026-01-12",
+    "heroImage": "/images/blog/kimchi_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "김치 신선하게 보관하는 법: 과학적 발효 보관 가이드",
+        "description": "공인된 연구 기관 및 안전 가이드라인에 따른 김치의 발효 상태별 최적 보관 온도, 흰색 군덕지(산막효모) 방지법 및 보관 기간을 확인하세요.",
+        "authority": "세계김치연구소(WiKim) & 농촌진흥청(RDA) & 식품의약품안전처(MFDS)",
+        "intro": "한국인의 밥상에서 빠질 수 없는 김치! 하지만 보관을 조금만 잘못해도 금세 너무 찌개용으로 푹 익어버리거나, 표면에 하얀 막(군덕지)이 생겨 버려야 하나 고민한 적 있으시죠? 🥬\n\n김치는 유산균이 살아 숨 쉬는 대표적인 생균 발효 식품입니다. 발효 과정에서 젖산균이 유기산을 만들어내어 깊은 맛을 내지만, 온도가 높아지면 과도하게 산패되어 시어지고, 공기와 접촉하면 산막효모가 자라 흰색 막을 형성하게 됩니다.\n\n이번 가이드에서는 세계김치연구소와 식품 전문가들이 검증한 과학적 팩트를 바탕으로, 김치의 아삭한 식감과 깊은 풍미를 오랫동안 지켜주는 3단계 최적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "발효 미생물인 젖산균과 산막효모의 생리적 특성을 이해하고 이에 맞는 올바른 환경(온도·산소 차단)을 제공하는 것이 김치의 맛과 위생 관리에 있어 핵심입니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "표면에 하얀 막(산막효모)이 생겼다면 공기 접촉을 차단하세요 ⚠️",
+            "desc": "김치 표면에 생기는 흰색 막은 독소가 없는 '산막효모(Pichia 등)'로, 김치가 공기(산소)와 접촉할 때 호흡하며 증식합니다. 유해균이나 곰팡이는 아니므로 하얀 부분만 걷어내고 씻어서 요리에 활용할 수 있으나, 이를 예방하려면 국물에 김치가 완전히 잠기도록 눌러주어야 합니다."
+          },
+          {
+            "title": "국물 밖으로 김치가 노출되지 않도록 상시 관리하세요 🥬",
+            "desc": "김치가 국물 위로 솟아올라 공기와 만나면 갈변 현상이 일어나고 아삭함이 사라지며 골(산막효모)이 쉽게 생깁니다. 항상 누름독이나 위생 비닐로 눌러 김치 국물 수면 아래로 들어가게 유지해야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "김치 국물에 완전히 잠기도록 누름판(또는 위생 비닐)으로 공기 차단하기 — 혐기 상태 유지 📦",
+            "text": "김치 발효를 담당하는 젖산균(Leuconostoc, Lactobacillus)은 산소가 없는 환경에서 잘 자라는 혐기성 균이며, 흰 막을 만드는 효모는 산소를 필요로 합니다. 💡 보관 팁: 김치를 용기에 담은 후 80% 정도만 채우고, 누름판이나 위생 비닐, 우거지 등으로 상단을 꾹 눌러 김치가 국물 속에 완전히 잠기게 해주세요. 공기 접촉을 철저히 막아야 산화 및 산막효모 발생을 원천 차단할 수 있습니다."
+          },
+          {
+            "name": "0 - 1℃ 저온 냉장 보관으로 유산균 증식 속도 제어하기 — 저온 발효 보관 (3 - 6개월) ❄️",
+            "text": "온도가 높을수록 젖산균의 유기산 생성 속도가 비례하여 증가하여 김치가 쉽게 시어집니다. 💡 보관 팁: 김치의 최적 보관 온도는 0 - 1℃입니다. 이 온도에서는 김치가 얼지 않으면서도 유산균의 과도한 증식과 산패가 억제되어 톡 쏘는 청량감(류코노스톡 균)을 수개월간 유지할 수 있습니다. 0℃ 미만으로 내려가면 얼어서 과육 조직이 파괴되어 아삭함이 사라지므로 영하로 떨어지지 않게 주의하세요."
+          },
+          {
+            "name": "입맛에 맞는 발효 상태별 맞춤 온도 제어하기 — 발효 단계별 맞춤 보관 🌡️",
+            "text": "원하는 김치 맛에 따라 보관 온도를 다르게 설정하세요. 💡 보관 팁: 갓 담근 알싸한 겉절이 맛을 오래 유지하려면 담그자마자 -1 - 0℃ 김치냉장고에 바로 넣으세요. 알맞게 익은 맛을 원한다면 15 - 20℃ 상온에서 1 - 2일간 알맞게 발효시킨 후 0 - 1℃ 저온으로 옮겨 보관하면 맛있는 발효 상태를 오랫동안 보존할 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "김치 표면에 생긴 하얀 물질(군덕지)은 곰팡인가요? 먹어도 되나요?",
+            "answer": "곰팡이가 아니라 효모가 만든 '산막효모(골)'입니다. 세계김치연구소 연구 결과 독성 유전자가 없어 인체에 무해한 것으로 확인되었습니다. 하얀 막 부분만 물로 깨끗이 씻어내거나 도려낸 후 찌개, 볶음, 찜 등 열을 가하는 요리에 활용하시면 안전하게 드실 수 있습니다."
+          },
+          {
+            "question": "김치가 너무 시어버렸는데 버려야 하나요?",
+            "answer": "신김치는 부패한 것이 아니라 젖산균이 유기산을 많이 만들어 산도가 높아진 상태입니다. 버리지 마시고 양념을 살짝 털어내어 김치찌개, 김치전, 김치찜 등으로 조리하거나, 조리 시 베이킹소다나 설탕을 한 스푼 넣으면 산미를 중화시켜 맛있게 즐기실 수 있습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Kimchi Fresh: Scientific Fermentation Storage Guide",
+        "description": "Check the optimal storage temperature per fermentation stage, methods to prevent white yeast film, and shelf life for kimchi based on official research guidelines.",
+        "authority": "WiKim & RDA & MFDS",
+        "intro": "Kimchi is an essential staple on the dining table! However, if stored improperly, it can quickly turn overly sour or develop a white film on the surface, making you wonder if it should be thrown away. 🥬\n\nKimchi is a prime living fermented food powered by beneficial lactic acid bacteria. During fermentation, these bacteria produce organic acids that create its deep, complex flavor. However, higher temperatures accelerate over-acidification, while contact with air allows film-forming yeast to grow and form a white layer.\n\nIn this guide, based on scientific facts verified by the World Institute of Kimchi (WiKim) and food safety experts, we introduce a 3-step optimal storage method to preserve kimchi's crisp texture and rich flavor over a long time. 🛡️",
+        "whyTitle": "Why Store Kimchi This Way? Scientific Facts",
+        "whyDesc": "Understanding the physiological traits of fermenting microorganisms—lactic acid bacteria and film-forming yeast—and providing the right environment (temperature control and oxygen exclusion) is key to maintaining kimchi's taste and hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Block air contact if a white layer (film-forming yeast) appears ⚠️",
+            "desc": "The white layer on kimchi is caused by non-toxic 'film-forming yeast (Pichia spp.)', which thrives by consuming oxygen when exposed to air. Since it is not a harmful mold or toxin, you can simply scoop off the white layer, wash the top leaves, and use the rest for cooking. To prevent it, keep kimchi submerged in its brine."
+          },
+          {
+            "title": "Keep kimchi submerged below the liquid surface at all times 🥬",
+            "desc": "When kimchi rises above the brine and contacts air, oxidation causes browning, loss of crispness, and rapid yeast film formation. Always use a pressing plate or plastic wrap to keep kimchi pressed firmly below the brine."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Press down with a pressing plate (or plastic wrap) to block air — Maintain Anaerobic Conditions 📦",
+            "text": "Lactic acid bacteria (Leuconostoc, Lactobacillus) responsible for kimchi fermentation thrive in anaerobic (oxygen-free) environments, while film-forming yeasts require oxygen to grow. 💡 Storage Tip: Fill the container only up to 80% capacity, then press down firmly on the top using a presser plate, plastic wrap, or outer cabbage leaves so that the kimchi remains fully submerged under its juice. Completely blocking air prevents oxidation and white yeast film."
+          },
+          {
+            "name": "Control bacterial growth speed with cold refrigeration (0–1°C) — Low-Temperature Fermentation (3–6 Months) ❄️",
+            "text": "Higher temperatures proportionally increase the organic acid production rate of lactic acid bacteria, causing kimchi to sour rapidly. 💡 Storage Tip: The optimal storage temperature for kimchi is 0–1°C (32–34°F). At this temperature, kimchi does not freeze, yet excessive bacterial multiplication and souring are suppressed, preserving a refreshing, carbonated tanginess (from Leuconostoc bacteria) for months. Avoid temperatures below 0°C to prevent frost damage that ruins crispness."
+          },
+          {
+            "name": "Adjust storage temperature based on desired fermentation state — Customized Fermentation Control 🌡️",
+            "text": "Set storage temperature according to your taste preference. 💡 Storage Tip: To maintain the fresh, unfermented state of freshly made kimchi (Geotjeori), place it directly into a kimchi refrigerator set at -1–0°C. If you prefer a properly aged flavor, let it ferment at room temperature (15–20°C) for 1–2 days first, then transfer it to cold storage at 0–1°C to lock in the optimal flavor for a long time."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Is the white substance (yeast film) on kimchi surface mold? Is it safe to eat?",
+            "answer": "It is not mold, but 'film-forming yeast' created by yeasts. Research by the World Institute of Kimchi confirmed it contains no toxin genes and is harmless to the human body. Simply rinse off or remove the affected top layer and use the rest in cooked dishes like kimchi stew, stir-fries, or braised dishes."
+          },
+          {
+            "question": "My kimchi has turned too sour. Do I need to throw it away?",
+            "answer": "Overly sour kimchi is not spoiled; it simply has a high acidity because lactic acid bacteria produced abundant organic acids. Do not throw it away! Shake off the excess seasoning and cook it in kimchi stew, pancakes, or stews. Adding a pinch of baking soda or a spoonful of sugar during cooking neutralizes acidity for a delicious meal."
+          }
+        ]
+      },
+      "ja": {
+        "title": "キムチを新鮮に保つ保存方法：科学的発酵保管ガイド",
+        "description": "公的研究機関および安全ガイドラインに基づくキムチの発酵状態別の最適保存温度、白カビ状の膜（産膜酵母）防止法、保存期間をご確認ください。",
+        "authority": "World Institute of Kimchi (WiKim) & 農村振興庁(RDA) & 食品医薬品安全処(MFDS)",
+        "intro": "食卓に欠かせないキムチ！しかし、少し保存方法を間違えるとすぐに酸っぱくなりすぎたり、表面に白い膜（産膜酵母）が発生して捨てようか迷った経験はありませんか？🥬\n\nキムチは乳酸菌が生きている代表的な生菌発酵食品です。発酵過程で乳酸菌が有機酸を作り出し深い味わいを生み出しますが、温度が高くなると過度に酸化して酸っぱくなり、空気と接触すると産膜酵母が繁殖して白い膜を形成します。\n\n本記事では、世界キムチ研究所や食品専門家が検証した科学的ファクトに基づき、キムチのシャキシャキした食感と深い旨味を長く守る3段階の最適保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "発酵微生物である乳酸菌と産膜酵母の生理的特性を理解し、それに合った正しい環境（温度・酸素遮断）を提供することがキムチの味と衛生管理の鍵です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "表面に白い膜（産膜酵母）が発生したら空気接触を遮断してください ⚠️",
+            "desc": "キムチの表面にできる白い膜は毒性のない「産膜酵母（Pichia等）」で、キムチが空気（酸素）と接触した際に呼吸して繁殖します。有害なカビや毒素ではないため、白い部分を取り除いて洗えば料理に活用できますが、予防するにはキムチが汁に完全に浸かるよう押し下げる必要があります。"
+          },
+          {
+            "title": "キムチが汁の外に露出しないよう常に管理してください 🥬",
+            "desc": "キムチが汁の上に浮き出て空気と触れると褐変現象が起き、シャキシャキ感が失われて白い膜がつきやすくなります。常に押し蓋やポリ袋で押さえ、キムチ汁の液面下に沈めた状態を維持してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "キムチが汁に完全に浸かるよう押し蓋（またはポリ袋）で空気を遮断する — 嫌気状態の維持 📦",
+            "text": "キムチの発酵を担う乳酸菌（Leuconostoc, Lactobacillus）は酸素のない環境でよく育つ嫌気性菌であり、白い膜を作る酵母は酸素を必要とします。💡保存のコツ：容器にキムチを80%ほど詰め、押し蓋や衛生ポリ袋、外葉などで上部をしっかり押さえて汁の中に完全に沈めてください。空気との接触を徹底的に防ぐことで酸化と産膜酵母の発生を根本から遮断できます。"
+          },
+          {
+            "name": "0〜1℃の低温冷蔵保存で乳酸菌の増殖速度を制御する — 低温発酵保存 (3〜6ヶ月間) ❄️",
+            "text": "温度が高くなると乳酸菌の有機酸生成速度が比例して増大し、キムチがすぐに酸っぱくなります。💡保存のコツ：キムチの最適保存温度は0〜1℃です。この温度ではキムチが凍らず、乳酸菌の過剰な増殖と酸敗が抑えられ、清涼感のある爽やかな味（リューコノストック菌）を数ヶ月間維持できます。0℃未満になると凍って組織が破壊され食感が損なわれるためご注意ください。"
+          },
+          {
+            "name": "好みの発酵状態に合わせて保存温度を調整する — 発酵段階別カスタマイズ保存 🌡️",
+            "text": "希望するキムチの味に応じて保存温度を設定します。💡保存のコツ：漬けたての浅漬け（コッジョリ）の味を長く保ちたい場合は、漬けてすぐに-1〜0℃のキムチ冷蔵庫に入れてください。程よく熟した味が好みなら、15〜20℃の常温で1〜2日発酵させた後、0〜1℃の低温に移して保存すると美味しい発酵状態を長くキープできます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "キムチの表面にできた白い物質はカビですか？食べても大丈夫ですか？",
+            "answer": "カビではなく、酵母が作った「産膜酵母」です。世界キムチ研究所の研究により、毒性遺伝子を持たず人体に無害であることが確認されています。白い膜の部分を水できれいに洗い流すか切り落とした後、チゲ、炒め物、蒸し煮など加熱料理に活用すれば安全にお召し上がりいただけます。"
+          },
+          {
+            "question": "キムチが酸っぱくなりすぎてしまいましたが、捨てるべきですか？",
+            "answer": "酸っぱくなったキムチは腐敗したのではなく、乳酸菌が有機酸を多く作って酸度が高くなった状態です。捨てずに薬味を軽く落としてキムチチゲやキムチチヂミ、キムチチムなどに調理するか、調理時にベーキングソーダや砂糖を少々加えると酸味が和らぎ美味しく召し上がれます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持泡菜（Kimchi）新鲜：科学发酵储存指南",
+        "description": "根据官方研究机构及安全指南，了解泡菜不同发酵阶段的最佳储存温度、防止白色酵母膜（产膜酵母）的方法及保鲜时长。",
+        "authority": "世界泡菜研究所(WiKim) & 韩国农村振兴厅(RDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "泡菜是餐桌上不可或缺的美食！但如果储存不当，很快就会变得过酸，或者表面长出一层白膜，让人犹豫是否该扔掉。🥬\n\n泡菜是益生乳酸菌活性的代表性发酵食品。发酵过程中乳酸菌会产生有机酸，赋予其深厚风味。然而温度过高会导致过度酸败，而接触空气则会促使产膜酵母繁殖并形成白膜。\n\n本指南基于世界泡菜研究所及食品专家验证的科学事实，为您介绍3步最佳储存秘诀，长久保持泡菜的爽脆口感与浓郁风味。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解发酵微生物（乳酸菌和产膜酵母）的生理特性，并提供适宜的环境（控制温度与隔绝氧气），是维持泡菜风味与食品卫生的核心所在。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事項",
+        "cautions": [
+          {
+            "title": "若表面出现白膜（产膜酵母），请立即隔绝空气 ⚠️",
+            "desc": "泡菜表面形成的白膜是由无毒的“产膜酵母（Pichia等）”产生的，它在接触空气（氧气）时进行呼吸并繁殖。这并非有害霉菌或毒素，因此只需将白色部分撇去并洗净即可用于烹饪。要预防其产生，须将泡菜完全压入汤汁中。"
+          },
+          {
+            "title": "切勿让泡菜裸露在汤汁上方 🥬",
+            "desc": "当泡菜浮出汤汁接触空气时，会发生褐变、失去爽脆感并极易长白膜。务必始终使用压盘或保鲜膜将其紧紧压在泡菜汤汁液面以下。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "用压盘（或保鲜膜）将泡菜完全压入汤汁中以隔绝空气 — 维持厌氧状态 📦",
+            "text": "主导泡菜发酵的乳酸菌（Leuconostoc, Lactobacillus）是在无氧环境中良好生长的厌氧菌，而形成白膜的酵母则需要氧气。💡储存小贴士：泡菜装至容器80%满即可，然后用压盘、保鲜膜或外层白菜叶将顶部紧紧压实，使泡菜完全浸没在汤汁中。彻底阻绝空气可从源头杜绝氧化与产膜酵母的产生。"
+          },
+          {
+            "name": "0 - 1℃低温冷藏控制乳酸菌繁殖速度 — 低温发酵储存 (3 - 6个月) ❄️",
+            "text": "温度越高，乳酸菌产生有机酸的速度按比例成倍增加，导致泡菜迅速变酸。💡储存小贴士：泡菜的最佳储存温度为0 - 1℃。在此温度下，泡菜既不会结冰，又能抑制乳酸菌的过度繁殖与酸败，使清爽口感（明沟菌/Leuconostoc）维持数月之久。请注意温度切勿低于0℃，以免冻伤破坏组织结构导致口感变软。"
+          },
+          {
+            "name": "根据喜好的发酵状态调整储存温度 — 按发酵阶段定制储存 🌡️",
+            "text": "根据您喜爱的泡菜口感设定储存温度。💡储存小贴士：若想长久保持刚腌制时的鲜嫩口感（Geotjeori），腌好后请立即放入-1 - 0℃的泡菜冰箱。若喜欢熟透的风味，可先在15 - 20℃常温下发酵1 - 2天，再转入0 - 1℃低温冷藏，即可长期锁定美味发酵状态。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "泡菜表面生成的白色物质（白膜）是霉菌吗？还能吃吗？",
+            "answer": "这不是霉菌，而是酵母菌产生的“产膜酵母”。世界泡菜研究所的研究证实其不含毒性基因，对人体无害。只需用清水将白膜部分冲洗干净或切除，然后用于炖汤、炒菜、炖煮等加热烹饪中即可安全食用。"
+          },
+          {
+            "question": "泡菜变得太酸了，需要扔掉吗？",
+            "answer": "变酸的泡菜并没有变质，而是乳酸菌合成了大量有机酸导致酸度升高。请勿丢弃！稍微洗去或抖落多余酱汁后，可用于制作泡菜汤、泡菜饼、炖泡菜等。烹饪时加入少许小苏打或一勺白糖，可中和酸味，非常美味。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener el kimchi fresco: Guía científica de conservación y fermentación",
+        "description": "Descubra la temperatura de almacenamiento óptima según la etapa de fermentación, los métodos para prevenir la capa blanca de levadura y el tiempo de conservación del kimchi.",
+        "authority": "WiKim & RDA & MFDS",
+        "intro": "¡El kimchi es un elemento imprescindible en la mesa! Sin embargo, si se almacena de forma incorrecta, puede volverse demasiado ácido rápidamente o desarrollar una capa blanca en la superficie, lo que hace dudar de si tirarlo. 🥬\n\nEl kimchi es un alimento fermentado vivo powered por bacterias lácticas beneficiosas. Durante la fermentación, estas bacterias producen ácidos orgánicos que crean su sabor profundo. No obstante, las temperaturas altas aceleran la acidificación excesiva, mientras que el contacto con el aire permite que las levaduras micodérmicas proliferen formando una capa blanca.\n\nEn esta guía, basada en datos científicos verificados por el Instituto Mundial del Kimchi (WiKim) y expertos en seguridad alimentaria, presentamos un método de conservación en 3 pasos para preservar la textura crujiente y el sabor del kimchi durante mucho tiempo. 🛡️",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender los rasgos fisiológicos de los microorganismos de la fermentación (bacterias lácticas y levaduras micodérmicas) y proporcionar el entorno adecuado (control de temperatura y exclusión de oxígeno) es clave para mantener el sabor y la higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Bloquee el contacto con el aire si aparece una capa blanca (levadura micodérmica) ⚠️",
+            "desc": "La capa blanca en la superficie del kimchi es causante de 'levaduras micodérmicas (Pichia spp.)' no tóxicas, que prosperan consumiendo oxígeno. Al no ser un moho dañino ni una toxina, basta con retirar la capa blanca, lavar la parte superior y cocinar el resto. Para prevenirla, mantenga el kimchi sumergido en su líquido."
+          },
+          {
+            "title": "Mantenga el kimchi siempre sumergido bajo el líquido 🥬",
+            "desc": "Si el kimchi sobresale de su jugo y entra en contacto con el aire, la oxidación causa oscurecimiento, pérdida de firmeza y rápida formación de la capa blanca. Use siempre una prensa o film transparente para mantenerlo sumergido."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Presione con un disco prensador (o film plástico) para bloquear el aire — Mantenga condiciones anaeróbicas 📦",
+            "text": "Las bacterias del ácido láctico (Leuconostoc, Lactobacillus) responsables de la fermentación prosperan en ambientes anaeróbicos (sin oxígeno), mientras que las levaduras micodérmicas necesitan oxígeno. 💡 Consejo de almacenamiento: Llene el recipiente solo al 80% y presione firmemente con un prensador, film transparente o hojas exteriores de col para que el kimchi quede totalmente sumergido en su jugo. Bloquear el aire previene la oxidación y la capa blanca."
+          },
+          {
+            "name": "Controle la velocidad de reproducción bacteriana refrigerando a 0–1 °C — Conservación a baja temperatura (3–6 meses) ❄️",
+            "text": "Cuanto mayor es la temperatura, más rápido producen ácidos orgánicos las bacterias lácticas, haciendo que el kimchi se vuelva agrio rápidamente. 💡 Consejo de almacenamiento: La temperatura óptima es de 0 a 1 °C. A esta temperatura el kimchi no se congela, pero se frena la acidificación excesiva, manteniendo el toque efervescente y fresco (por Leuconostoc) durante meses. Evite temperaturas bajo 0 °C para no dañar su textura crujiente."
+          },
+          {
+            "name": "Ajuste la temperatura según el punto de fermentación deseado — Control personalizado 🌡️",
+            "text": "Ajuste la temperatura según su preferencia de sabor. 💡 Consejo de almacenamiento: Para mantener el kimchi recién hecho (Geotjeori) fresco, colóquelo de inmediato en un refrigerador para kimchi a -1–0 °C. Si prefiere un sabor maduro, déjelo fermentar a temperatura ambiente (15–20 °C) durante 1–2 días antes de pasarlo a 0–1 °C para conservar su sabor perfecto durante meses."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿La sustancia blanca en la superficie del kimchi es moho? ¿Es seguro comerlo?",
+            "answer": "No es moho, sino una velo de 'levadura micodérmica'. Investigaciones del Instituto Mundial del Kimchi confirmaron que no contiene genes tóxicos y es inofensiva. Lave la capa blanca con agua o retírela y use el kimchi en platos cocinados como guisados, salteados o estofados."
+          },
+          {
+            "question": "Mi kimchi se ha vuelto demasiado agrio. ¿Debo tirarlo?",
+            "answer": "El kimchi muy agrio no está estropeado; simplemente tiene alta acidez por la gran cantidad de ácidos orgánicos producidos. ¡No lo tire! Retire el exceso de aliño y cocínelo en sopa de kimchi, tortillas o guisos. Añadir una pizca de bicarbonato de sodio o una cucharada de azúcar al cocinar neutraliza la acidez."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver le kimchi frais : Guide scientifique de fermentation et stockage",
+        "description": "Découvrez la température optimale de conservation selon l'état de fermentation, les méthodes anti-film blanc de levure et la durée de conservation du kimchi.",
+        "authority": "WiKim & RDA & MFDS",
+        "intro": "Le kimchi est un incontournable de la table ! Cependant, s'il est mal conservé, il peut devenir trop acide rapidement ou développer une fine pellicule blanche à la surface, vous faisant hésiter à le jeter. 🥬\n\nLe kimchi est un puissant aliment fermenté vivant enrichi en bactéries lactiques. Durant la fermentation, ces bactéries produisent des acides organiques qui lui confèrent sa saveur riche. Toutefois, des températures élevées accélèrent l'acidification, tandis que le contact avec l'air permet aux levures d'altération de former un voile blanc.\n\nDans ce guide, basé sur des faits scientifiques vérifiés par l'Institut Mondial du Kimchi (WiKim) et des experts alimentaires, nous vous présentons une méthode en 3 étapes pour préserver le croquant et le goût du kimchi pendant des mois. 🛡️",
+        "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre la physiologie des micro-organismes de fermentation (bactéries lactiques et levures mycodermiques) et offrir un environnement adapté (contrôle de la température et exclusion de l'oxygène) est la clé de la qualité et de l'hygiène du kimchi.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Bloquez le contact avec l'air si un voile blanc (levure mycodermique) apparaît ⚠️",
+            "desc": "La pellicule blanche à la surface du kimchi est formée par des 'levures mycodermiques (Pichia spp.)' non toxiques, qui se développent en consommant de l'oxygène. Comme il ne s'agit pas d'une moisissure nocive, il suffit de retirer la partie blanche, de la rincer et d'utiliser le reste en cuisine. Pour l'éviter, gardez le kimchi totalement immergé dans son jus."
+          },
+          {
+            "title": "Gardez le kimchi constamment immergé sous le jus 🥬",
+            "desc": "Si le kimchi dépasse du jus et touche l'air, l'oxydation provoque un brunissement, une perte de croquant et la formation rapide de levures. Utilisez toujours un presse-kimchi ou du film étirable pour le maintenir sous le liquide."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Presser avec un presse-aliment (ou film étirable) pour bloquer l'air — Maintenir l'anaérobiose 📦",
+            "text": "Les bactéries lactiques (Leuconostoc, Lactobacillus) responsables de la fermentation s'épanouissent en milieu anaérobie (sans oxygène), tandis que les levures ont besoin d'oxygène. 💡 Astuce de conservation : Remplissez le récipient à 80% seulement et pressez fermement le dessus pour que le kimchi reste entièrement immergé dans son jus. Bloquer l'air élimine l'oxydation et le voile blanc."
+          },
+          {
+            "name": "Contrôler la multiplication bactérienne par réfrigération froide (0–1 °C) — Fermentation à basse température (3–6 mois) ❄️",
+            "text": "Plus la température est élevée, plus la production d'acides organiques augmente, rendant le kimchi trop acide. 💡 Astuce de conservation : La température idéale est de 0 à 1 °C. Le kimchi ne gèle pas, l'acidification est ralentie et la saveur pétillante et fraîche (due à Leuconostoc) est préservée pendant des mois. Évitez les températures négatives pour ne pas altérer le croquant."
+          },
+          {
+            "name": "Ajuster la température selon le stade de fermentation souhaité — Contrôle sur mesure 🌡️",
+            "text": "Réglez la température selon vos préférences gustatives. 💡 Astuce de conservation : Pour conserver le goût du kimchi frais (Geotjeori), placez-le immédiatement au réfrigérateur à kimchi à -1–0 °C. Si vous aimez le kimchi bien mûr, laissez-le fermenter à température ambiante (15–20 °C) pendant 1 à 2 jours avant de le transférer à 0–1 °C."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "La substance blanche à la surface du kimchi est-elle de la moisissure ? Est-ce consommable ?",
+            "answer": "Ce n'est pas de la moisissure, mais une 'levure mycodermique'. Les recherches du WiKim confirment qu'elle ne contient pas de gènes toxiques et est inoffensive. Rincez ou retirez simplement la partie blanche et utilisez le kimchi dans des plats cuisinés (soupes, sautés, mijotés)."
+          },
+          {
+            "question": "Mon kimchi est devenu trop acide. Dois-je le jeter ?",
+            "answer": "Un kimchi très acide n'est pas périmé ; il a simplement développé beaucoup d'acides organiques. Ne le jetez pas ! Rincez légèrement l'assaisonnement et cuisinez-le en soupe, en galettes ou en mijoté. Ajouter une pincée de bicarbonate de soude ou une cuillère de sucre neutralise l'acidité."
+          }
+        ]
+      },
+      "de": {
+        "title": "Kimchi richtig frisch halten: Wissenschaftlicher Fermentations- und Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur je nach Fermentationsstufe, Methoden zur Vermeidung von weißem Hefefilm und die Haltbarkeit von Kimchi.",
+        "authority": "WiKim & RDA & MFDS",
+        "intro": "Kimchi ist von der Speisekarte nicht wegzudenken! Doch bei falscher Lagerung kann es schnell zu sauer werden oder einen weißen Film auf der Oberfläche bilden, sodass man sich fragt, ob man es wegwerfen muss. 🥬\n\nKimchi ist ein lebendiges, fermentiertes Lebensmittel voller wertvoller Milchsäurebakterien. Während der Fermentation produzieren diese Bakterien organische Säuren, die für den tiefen Geschmack sorgen. Hohe Temperaturen beschleunigen jedoch die Übersäuerung, während Luftkontakt Kahmhefen wachsen lässt, die eine weiße Schicht bilden.\n\nIn diesem Ratgeber stellen wir Ihnen auf Basis wissenschaftlicher Fakten des World Institute of Kimchi (WiKim) und von Lebensmittelexperten eine 3-Schritte-Methode vor, um die Knackigkeit und das Aroma von Kimchi monatelang zu bewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der Eigenschaften von Fermentationsmikroorganismen (Milchsäurebakterien und Kahmhefen) sowie das Schaffen der richtigen Umgebung (Temperaturkontrolle und Sauerstoffausschluss) ist der Schlüssel für Geschmack und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Bei weißem Film (Kahmhefe) sofort den Luftkontakt unterbinden ⚠️",
+            "desc": "Der weiße Film auf Kimchi wird von ungiftigen 'Kahmhefen (Pichia spp.)' gebildet, die bei Sauerstoffkontakt wachsen. Da es sich nicht um schädlichen Schimmel handelt, können Sie die weiße Schicht einfach abheben, das Kimchi abwaschen und zum Kochen verwenden. Um dies zu verhindern, muss das Kimchi vollständig in der Flüssigkeit untergetaucht bleiben."
+          },
+          {
+            "title": "Achten Sie darauf, dass Kimchi immer unter der Flüssigkeit bleibt 🥬",
+            "desc": "Ragt Kimchi aus dem Sud heraus und kommt mit Luft in Berührung, führt Oxidation zu Verfärbungen, Verlust der Knackigkeit und schneller Hefebildung. Verwenden Sie stets einen Beschwerungsstein oder Frischhaltefolie zum Anpressen."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Mit einer Presse (oder Folie) herunterdrücken, um Luft auszuschließen — Anaerobe Bedingungen halten 📦",
+            "text": "Die für die Fermentation verantwortlichen Milchsäurebakterien (Leuconostoc, Lactobacillus) gedeihen in sauerstofffreier Umgebung, während Hefen Sauerstoff benötigen. 💡 Lagerungstipp: Befüllen Sie das Gefäß nur zu 80 % und drücken Sie die Oberfläche mit einer Presse, Folie oder äußeren Kohlblättern fest nach unten, sodass das Kimchi komplett mit Sud bedeckt ist. Sauerstoffausschluss verhindert Oxidation und Hefefilme."
+          },
+          {
+            "name": "Bakterienwachstum durch Kühlung bei 0–1 °C verlangsamen — Kaltfermentation (3–6 Monate) ❄️",
+            "text": "Je höher die Temperatur, desto schneller produzieren Milchsäurebakterien Säure und das Kimchi wird rasch sauer. 💡 Lagerungstipp: Die optimale Lagertemperatur beträgt 0–1 °C. Bei dieser Temperatur gefriert Kimchi nicht, die Säurebildung wird gebremst und die erfrischende Spritzigkeit (durch Leuconostoc) bleibt monatelang erhalten. Temperaturen unter 0 °C vermeiden, um die Knackigkeit nicht zu zerstören."
+          },
+          {
+            "name": "Temperatur je nach gewünschtem Fermentationsgrad anpassen — Individuelle Steuerung 🌡️",
+            "text": "Stellen Sie die Lagertemperatur nach Ihrem Geschmack ein. 💡 Lagerungstipp: Um frisches Kimchi (Geotjeori) knackig zu halten, legen Sie es sofort bei -1–0 °C in den Kimchi-Kühlschrank. Bevorzugen Sie gereiften Geschmack, lassen Sie es 1–2 Tage bei Raumtemperatur (15–20 °C) anfermentieren und kühlen Sie es danach bei 0–1 °C."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Ist die weiße Schicht auf der Kimchi-Oberfläche Schimmel? Kann man es noch essen?",
+            "answer": "Es ist kein Schimmel, sondern ein harmloser 'Kahmhefe-Film'. Untersuchungen des WiKim haben bestätigt, dass diese Hefen keine Toxingene enthalten. Waschen Sie die weiße Schicht einfach ab oder schneiden Sie sie weg und nutzen Sie das Kimchi für gekochte Gerichte wie Eintöpfe, Suppen oder Pfannengerichte."
+          },
+          {
+            "question": "Mein Kimchi ist zu sauer geworden. Muss ich es wegwerfen?",
+            "answer": "Zu saueres Kimchi ist nicht verdorben; es enthält lediglich sehr viele organische Säuren. Nicht wegwerfen! Waschen Sie die Würze leicht ab und kochen Sie daraus Kimchi-Eintopf, Pfannkuchen oder Schmorgerichte. Eine Prise Natron oder ein Löffel Zucker beim Kochen neutralisiert die Säure."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar o kimchi fresco: Guia científico de fermentação e armazenamento",
+        "description": "Descubra a temperatura de conservação ideal para cada estágio de fermentação, métodos para prevenir a película branca de levedura e a validade do kimchi.",
+        "authority": "WiKim & RDA & MFDS",
+        "intro": "O kimchi é indispensável na refeição! No entanto, se for armazenado incorretamente, pode ficar excessivamente azedo rapidamente ou desenvolver uma película branca na superfície, fazendo você duvidar se deve descartá-lo. 🥬\n\nO kimchi é um alimento fermentado vivo rico em bactérias láticas benéficas. Durante a fermentação, essas bactérias produzem ácidos orgânicos que garantem seu sabor profundo. Contudo, temperaturas elevadas aceleram a acidificação, enquanto o contato com o ar permite que leveduras micodérmicas cresçam e formem uma camada branca.\n\nNeste guia, baseado em fatos científicos verificados pelo Instituto Mundial do Kimchi (WiKim) e especialistas em alimentos, apresentamos um método em 3 etapas para preservar a crocância e o sabor do kimchi por muito tempo. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Compreender as características fisiológicas dos microrganismos da fermentação (bactérias láticas e leveduras micodérmicas) e fornecer o ambiente adequado (controle de temperatura e bloqueio de oxigênio) é a chave para a qualidade e higiene do kimchi.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Regras essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Bloqueie o contato com o ar se surgir uma camada branca (levedura micodérmica) ⚠️",
+            "desc": "A camada branca na superfície do kimchi é formada por 'leveduras micodérmicas (Pichia spp.)' não tóxicas, que se desenvolvem consumindo oxigênio. Como não é um mofo prejudicial, basta remover a camada branca, lavar a parte superior e usar o restante no cozimento. Para prevenir, mantenha o kimchi submerso em seu caldo."
+          },
+          {
+            "title": "Mantenha o kimchi sempre submerso no líquido 🥬",
+            "desc": "Quando o kimchi fica exposto acima do caldo e entra em contato com o ar, a oxidação causa escurecimento, perda de crocância e rápida formação de levedura. Use sempre um prensador ou filme plástico para mantê-lo submerso."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Pressione com um disco prensador (ou filme plástico) para bloquear o ar — Mantenha condições anaeróbicas 📦",
+            "text": "As bactérias do ácido lático (Leuconostoc, Lactobacillus) responsáveis pela fermentação prosperam em ambientes anaeróbicos (sem oxigênio), enquanto as leveduras precisam de oxigênio. 💡 Dica de conservação: Preencha o recipiente até 80% e pressione firmemente o topo para que o kimchi fique totalmente submerso em seu caldo. Bloquear o ar evita oxidação e o surgimento da camada branca."
+          },
+          {
+            "name": "Controle a velocidade de multiplicação bacteriana refrigerando a 0–1 °C — Conservação a baixa temperatura (3–6 meses) ❄️",
+            "text": "Quanto maior a temperatura, mais rápido as bactérias láticas produzem ácido, fazendo o kimchi azedar rapidamente. 💡 Dica de conservação: A temperatura ideal é de 0 a 1 °C. Nessa temperatura o kimchi não congela, mas a acidificação é desacelerada, mantendo o sabor refrescante e efervescente (por Leuconostoc) por meses. Evite temperaturas abaixo de 0 °C para não estragar a crocância."
+          },
+          {
+            "name": "Ajuste a temperatura de acordo com o nível de fermentação desejado — Controle personalizado 🌡️",
+            "text": "Defina a temperatura de conservação de acordo com sua preferência de sabor. 💡 Dica de conservação: Para manter o kimchi fresco (Geotjeori) crocante, coloque-o imediatamente em uma geladeira de kimchi a -1–0 °C. Se preferir um sabor bem fermentado, deixe fermentar a temperatura ambiente (15–20 °C) por 1–2 dias antes de transferir para 0–1 °C."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "A substância branca na superfície do kimchi é mofo? É seguro comer?",
+            "answer": "Não é mofo, mas sim 'levedura micodérmica'. Pesquisas do WiKim confirmaram que ela não contém genes tóxicos e é inofensiva para a saúde. Lave a parte branca ou remova-a e utilize o kimchi em pratos cozidos como ensopados, refogados ou cozidos."
+          },
+          {
+            "question": "Meu kimchi ficou azedo demais. Devo jogá-lo fora?",
+            "answer": "O kimchi muito azedo não está estragado; apenas possui alta acidez devido à grande quantidade de ácidos orgânicos produzidos. Não jogue fora! Lave ligeiramente o tempero e cozinhe em ensopados, panquecas ou cozidos. Adicionar uma pitada de bicarbonato de sódio ou uma colher de açúcar ao cozinhar neutraliza a acidez."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Kimchi agar Tetap Segar: Panduan Fermentasi dan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu penyimpanan optimal per tahap fermentasi, cara mencegah lapisan ragi putih (fungi mikoderma), dan masa simpan kimchi berdasarkan panduan penelitian resmi.",
+        "authority": "WiKim & RDA & MFDS",
+        "intro": "Kimchi adalah hidangan wajib di meja makan! Namun, jika disimpan dengan cara yang salah, kimchi bisa menjadi terlalu asam dengan cepat atau membentuk lapisan putih di surfaces, membuat Anda ragu apakah harus membuangnya. 🥬\n\nKimchi adalah makanan fermentasi hidup yang kaya akan bakteri asam laktat baik. Selama fermentasi, bakteri ini menghasilkan asam organik yang menciptakan rasa lezat nan mendalam. Namun, suhu tinggi mempercepat proses pembentukan asam, sementara kontak dengan udara memicu pertumbuhan ragi yang membentuk lapisan putih.\n\nDalam panduan ini, berdasarkan fakta ilmiah yang diverifikasi oleh World Institute of Kimchi (WiKim) dan pakar keamanan pangan, kami membagikan metode penyimpanan 3 langkah untuk menjaga tekstur renyah dan cita rasa kimchi dalam waktu lama. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis mikroorganisme fermentasi (bakteri asam laktat dan ragi pelapis) serta menyediakan lingkungan yang tepat (kontrol suhu dan pemblokiran oksigen) adalah kunci utama menjaga kualitas dan kebersihan kimchi.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Segera blokir kontak udara jika muncul lapisan putih (ragi pelapis) ⚠️",
+            "desc": "Lapisan putih pada permukaan kimchi disebabkan oleh 'ragi pelapis (Pichia spp.)' non-toksik yang berkembang saat terpapar oksigen. Karena bukan jamur berbahaya atau racun, Anda cukup membuang lapisan putihnya, mencuci bagian atasnya, dan menggunakannya untuk memasak. Untuk mencegahnya, pastikan kimchi selalu terendam dalam kuahnya."
+          },
+          {
+            "title": "Pastikan kimchi selalu terendam di bawah permukaan kuah 🥬",
+            "desc": "Jika kimchi menyembul keluar kuah dan bersentuhan dengan udara, oksidasi akan menyebabkan perubahan warna menjadi kecokelatan, kehilangan kerenyahan, dan mempercepat munculnya lapisan ragi. Selalu gunakan penekan atau plastik wrap agar kimchi tetap terendam."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Tekan dengan alat penekan (atau plastik wrap) untuk memblokir udara — Pertahankan Kondisi Anaerobik 📦",
+            "text": "Bakteri asam laktat (Leuconostoc, Lactobacillus) yang berperan dalam fermentasi berkembang baik di lingkungan anaerobik (tanpa oksigen), sedangkan ragi membutuhkan oksigen. 💡 Tips Penyimpanan: Isi wadah hingga 80% saja, lalu tekan bagian atas secara rapat dengan alat penekan, plastik wrap, atau daun kubis luar agar kimchi terendam sepenuhnya dalam kuah. Memblokir udara mencegah oksidasi dan lapisan ragi putih."
+          },
+          {
+            "name": "Kendalikan kecepatan perkembangbiakan bakteri dengan mendinginkan pada suhu 0–1°C — Fermentasi Suhu Rendah (3–6 Bulan) ❄️",
+            "text": "Semakin tinggi suhu, semakin cepat bakteri asam laktat menghasilkan asam organik, membuat kimchi cepat asam. 💡 Tips Penyimpanan: Suhu ideal penyimpanan kimchi adalah 0–1°C. Pada suhu ini kimchi tidak membeku, namun pembentukan asam berlebih dapat ditekan sehingga rasa segar nan tajam (dari bakteri Leuconostoc) dapat bertahan selama berbulan-bulan. Hindari suhu di bawah 0°C agar tekstur renyah tidak rusak."
+          },
+          {
+            "name": "Sesuaikan suhu penyimpanan berdasarkan tingkat fermentasi yang diinginkan — Kontrol Disesuaikan 🌡️",
+            "text": "Atur suhu penyimpanan sesuai dengan preferensi rasa Anda. 💡 Tips Penyimpanan: Untuk mempertahankan rasa kimchi segar (Geotjeori) agar tetap renyah, langsung simpan di kulkas khusus kimchi pada suhu -1–0°C. Jika menyukai rasa yang matang pas, biarkan terfermentasi pada suhu ruang (15–20°C) selama 1–2 hari terlebih dahulu, lalu pindahkan ke suhu 0–1°C."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah lapisan putih di permukaan kimchi itu jamur? Apakah aman dimakan?",
+            "answer": "Bukan jamur, melainkan 'ragi pelapis' yang dihasilkan oleh ragi. Penelitian WiKim mengonfirmasi bahwa ragi ini tidak memiliki gen racun dan tidak berbahaya bagi tubuh manusia. Cukup cuci bersih lapisan putihnya dengan air atau potong bagian atasnya, lalu gunakan untuk masakan berkuah, tumisan, atau rebusan."
+          },
+          {
+            "question": "Kimchi saya menjadi terlalu asam. Apakah harus dibuang?",
+            "answer": "Kimchi yang sangat asam tidak busuk; melainkan memiliki tingkat keasaman tinggi karena bakteri asam laktat menghasilkan banyak asam organik. Jangan dibuang! Cuci atau buang bumbu berlebih lalu masak menjadi sup kimchi (sup kimchi), dadar kimchi (dadar kimchi), atau tumisan. Menambahkan sedikit baking soda atau satu sendok gula saat memasak akan menetralisir rasa asam."
+          }
+        ]
+      }
     }
+  }
 }

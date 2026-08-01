@@ -1,406 +1,406 @@
 {
-    "how-to-store-oriental-melon": {
-        "ingId": "oriental-melon",
-        "pubDate": "2026-07-22",
-        "updatedDate": "2026-07-22",
-        "heroImage": "/images/blog/oriental_melon_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "참외 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 참외의 최적 보관 온도, 수분 차단 랩핑법 및 보관 기한을 확인하세요.",
-                "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
-                "intro": "선명한 노란 껍질 속 아삭한 과육과 달콤한 태자리가 매력적인 대표 여름 과일 참외! 💛\n\n참외 한 상자를 사왔다가 상온이나 냉장고에 그대로 두어 껍질이 쭈글쭈글해지고 내부 씨 부분(태자리)이 먼저 물러 발효된 냄새가 나 버려본 경험 다들 있으시죠?\n\n참외는 당도가 높고 수분 함량이 90% 이상인 과일로, 특히 씨가 들어있는 '태자리(Placenta)' 부위는 수분과 당분이 집중되어 있어 부패 세균과 효모가 가장 먼저 번식하는 취약한 부위입니다. 또한, 공기 중에 그대로 노출되면 껍질을 통해 수분이 계속 증발하여 특유의 아삭한 식감을 잃게 됩니다. 이번 가이드에서는 전문 기관의 검증된 원리를 바탕으로, 참외의 씨 부위 변질을 막고 아삭함과 단맛을 2주 이상(최대 14~20일) 오랫동안 유지해 주는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "참외 태자리(씨 부위)의 높은 당도 및 발효 반응 특성과 표피 수분 증발 기전을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 식감 유지와 위생 관리에 필수적입니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "보관 전 물로 씻지 마세요 💧",
-                        "desc": "참외 골(흰색 골짜기 부위)과 꼭지에 물기가 남아있으면 습기가 갇혀 곰팡이와 세균이 번식하기 매우 쉬운 환경이 됩니다. 마른 천으로 겉면의 먼지만 가볍게 털어내어 보관하고, 씻는 것은 먹기 직전에 하세요."
-                    },
-                    {
-                        "title": "상온에 장기간 방치하지 마세요 ⚠️",
-                        "desc": "상온(20℃ 이상)에서는 참외 내부 씨 부위(태자리)의 자가 발효가 빠르게 진행되어 알코올 냄새가 나고 과육이 물러집니다. 단단하고 아삭한 식감을 지키려면 반드시 저온 냉장 보관해야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "씻지 않은 상태로 식품용 랩으로 개별 포장하기 — 수분 증발 차단 랩핑 📦",
-                        "text": "참외의 아삭함을 유지하는 핵심 비법입니다. 💡 보관 팁: 물을 묻히지 않은 참외를 식품용 랩(또는 위생 비닐)으로 한 알씩 빈틈없이 꽁꽁 감싸주세요. 랩 포장이 참외 자체의 수분 증발을 완벽히 차단하여 껍질이 쭈글해지거나 과육이 푸석해지는 것을 막아줍니다."
-                    },
-                    {
-                        "name": "밀폐 지퍼백에 담아 0~5℃ 저온 냉장 보관하기 — 저온 냉장 보관 (14~20일) ❄️",
-                        "text": "태자리의 변질과 부패를 억제하는 저온 밀봉 단계입니다. 💡 보관 팁: 랩으로 포장한 참외를 지퍼백이나 밀폐 용기에 담아 이중 밀봉한 뒤, 냉장고 야채실(0~5℃)에 보관해 주세요. 태자리의 발효 작용이 현저히 낮아져 2주 이상 갓 수확한 듯한 아삭함과 달콤함을 지킬 수 있습니다."
-                    },
-                    {
-                        "name": "드시기 2~3시간 전 냉장실 깊숙이 차갑게 보관하기 — 당도 극대화 차갑게 먹기 🧊",
-                        "text": "참외의 과당은 저온에서 당도가 가장 높게 느껴집니다. 💡 보관 팁: 보관 중인 참외를 드시기 2~3시간 전에 차가운 서늘한 온도(2~5℃)로 맞추어 드시면 과당의 구조적 특성으로 인해 단맛이 더욱 극대화되어 시원하고 달콤하게 즐기실 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "참외를 잘랐을 때 씨 부위(태자리)가 물러있거나 물이 차 있는데 먹어도 되나요?",
-                        "answer": "참외 태자리가 투명하게 변하고 물이 차 있거나 시큼한 알코올 냄새가 난다면 '발효과(상한 참외)' 현상입니다. 이 경우 미생물이 번식하여 과육 내부까지 변질되었을 가능성이 높으므로 씨 부위를 도려내더라도 드시지 말고 폐기하는 것이 안전합니다."
-                    },
-                    {
-                        "question": "남은 자른 참외는 어떻게 보관해야 하나요?",
-                        "answer": "자른 참외는 수분 노출과 공기 접촉으로 인해 세균이 급격히 번식합니다. 자른 참외는 씨와 태자리를 숟가락으로 깨끗이 긁어낸 뒤 과육만 깍둑썰기하여 밀폐 용기에 담아 냉장 보관하고, 2~3일 이내에 빠르게 소비하는 것이 바람직합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Oriental Melons Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, moisture-locking plastic wrap method, and shelf life for Korean/Oriental melons based on official safety guidelines.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Oriental melons (Korean melons) are a beloved summer fruit with vibrant yellow skin, crisp white flesh, and a sweet seed center (placenta)! 💛\n\nHave you ever bought a box of Korean melons, left them out or in the fridge, only to find their skins wrinkled and the inner seed cavity fermented with a sour smell?\n\nOriental melons have over 90% water content and high sugar levels. The inner seed cavity ('placenta') is particularly concentrated with moisture and sugar, making it the most vulnerable area where spoilage bacteria and yeasts proliferate first. Furthermore, exposing them directly to ambient air causes continuous moisture loss through the rind, ruining their signature crunch. In this guide, introduces a scientifically proven 3-step storage guide based on expert standards to protect the seed core and preserve sweetness and crispness for over 2 weeks (14 to 20 days). 🛡️",
-                "whyTitle": "Why Store Oriental Melons This Way? Scientific Facts",
-                "whyDesc": "Understanding the high sugar concentration and fermentation characteristics of the placenta core, as well as rind transpiration mechanisms, is essential for preserving crunch and hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Do not wash oriental melons before storing 💧",
-                        "desc": "Trapping moisture in the white grooves and stem end of the melon creates an ideal breeding ground for mold and bacteria. Wipe off surface dust with a dry cloth before storing, and wash right before eating."
-                    },
-                    {
-                        "title": "Never leave oriental melons at room temperature for extended periods ⚠️",
-                        "desc": "At room temperature (above 20°C / 68°F), the inner seed cavity undergoes rapid self-fermentation, developing an alcoholic odor and mushy flesh. Cold refrigeration is mandatory to keep the flesh firm and crisp."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Wrap unwashed melons individually with food-grade plastic wrap — Moisture Barrier 📦",
-                        "text": "The key secret to maintaining signature crispness. 💡 Storage Tip: Keep dry, unwashed melons and wrap each one tightly with food-grade plastic wrap without leaving gaps. The wrap blocks moisture evaporation through the skin, preventing wrinkling or mealy texture."
-                    },
-                    {
-                        "name": "Place in airtight Ziploc bags and refrigerate at 0–5°C — Cold Storage (14–20 Days) ❄️",
-                        "text": "The cold sealing step to prevent seed cavity decay and fermentation. 💡 Storage Tip: Place plastic-wrapped melons in airtight Ziploc bags for double sealing and store in the refrigerator crisper drawer (0–5°C / 32–41°F). Slows down placenta fermentation, keeping them farm-fresh and crisp for over 2 weeks."
-                    },
-                    {
-                        "name": "Chill thoroughly at 2–5°C for 2–3 hours before serving — Maximize Sweetness 🧊",
-                        "text": "Fructose in fruit tastes noticeably sweeter at cold temperatures. 💡 Storage Tip: Chill stored melons thoroughly in the fridge (2–5°C) for 2 to 3 hours before eating. The structural property of fructose enhances the perception of sweetness when cold."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "When I cut an oriental melon, the seed cavity is watery, translucent, or smells sour. Is it safe to eat?",
-                        "answer": "If the inner seed cavity is translucent, filled with water, or smells sour/alcoholic, it has undergone internal fermentation ('fermented melon'). Microbes have likely invaded the inner flesh, so it is safer to discard the entire melon rather than just cutting away the seeds."
-                    },
-                    {
-                        "question": "How should leftover cut oriental melon be stored?",
-                        "answer": "Sliced oriental melon exposes high moisture to air, triggering rapid bacterial growth. Scoop out the seeds and soft placenta completely with a spoon, cube the firm white flesh, store in an airtight container in the fridge, and consume within 2 to 3 days."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "チャメ（韓国メロン）を新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくチャメ（オリエンタルメロン）の最適保存温度、水分遮断ラッピング法、保存期間をご確認ください。",
-                "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "鮮やかな黄色い皮とシャキシャキとした果肉、甘い種周り（胎座）が魅力的な夏の代表果物チャメ（韓国メロン）！💛\n\n一箱買ってきたものの常温や冷蔵庫にそのまま置いておいたら皮がシワシワになり、内部の種周り（胎座）が真っ先に傷んで発酵したような臭いがして捨ててしまった経験はありませんか？\n\nチャメは糖度が高く水分含有量が90%以上の果物で、特に種が入っている「胎座（Placenta）」部分は水分と糖分が集中しているため、腐敗細菌や酵母が最も繁殖しやすい脆弱な部位です。また、空気にそのまま露出すると皮から水分がどんどん蒸発し、特徴であるシャキシャキした食感が失われます。本記事では専門機関の検証済み原理に基づき、種周りの変質を防ぎシャキシャキ感と甘みを2週間以上（最大14〜20日間）保つ3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "チャメの胎座（種周り）の高い糖度と発酵反応の特性、果皮の水分蒸発メカニズムを理解し、適切な保存法を実践することが食感と衛生の維持に不可欠です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "保存する前に水で洗わないでください 💧",
-                        "desc": "チャメの溝（白い線）やヘタに水気が残っていると湿気がこもり、カビや細菌が繁殖しやすい環境になります。乾いた布で表面の汚れを軽く拭き取って保管し、洗うのは食べる直前にしてください。"
-                    },
-                    {
-                        "title": "常温に長期間放置しないでください ⚠️",
-                        "desc": "常温（20℃以上）では内部の種周り（胎座）の自己発酵が急速に進み、アルコール臭がして果肉が柔らかくなります。固くシャキシャキとした食感を保つには低温冷蔵保存が必須です。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "洗わずに食品用ラップで個別包装する — 水分蒸発防止ラッピング 📦",
-                        "text": "チャメのシャキシャキ感を保つ最大のポイントです。💡保存のコツ：水気をつけず、チャメを食品用ラップ（またはポリ袋）で1個ずつ隙間なくぴったり包みます。ラップ包装がチャメ自体の水分蒸発を完全に遮断し、皮のシワや果肉のパサつきを防ぎます。"
-                    },
-                    {
-                        "name": "ジッパーバッグに入れて0〜5℃の低温で冷蔵保存する — 低温冷蔵保存 (14〜20日間) ❄️",
-                        "text": "胎座の変質と腐敗を抑える低温密閉ステップです。💡保存のコツ：ラップで包んだチャメをジッパーバッグや密閉容器に入れて二重に密閉し、冷蔵庫の野菜室（0〜5℃）で保管します。胎座の発酵が大幅に抑えられ、2週間以上採りたてのような甘さとシャキシャキ感を維持できます。"
-                    },
-                    {
-                        "name": "食べる2〜3時間前に冷蔵室でしっかり冷やす — 甘みを極大化 🧊",
-                        "text": "チャメの果糖は低温で最も甘く感じられます。💡保存のコツ：食べる2〜3時間前にチャメをしっかり冷えた温度（2〜5℃）にしておくと、果糖の構造的特性により甘みが一層引き立ち、より美味しく召し上がれます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "チャメを切った時、種周り（胎座）が柔らかく水が溜まっていますが食べられますか？",
-                        "answer": "胎座が透明に変色して水が溜まっていたり、酸っぱいアルコール臭がする場合は「発酵果（傷んだチャメ）」現象です。微生物が繁殖して果肉内部まで変質している可能性が高いため、種周りを取り除いても食べずに廃棄するのが安全です。"
-                    },
-                    {
-                        "question": "カットしたチャメの残りはどのように保存すればよいですか？",
-                        "answer": "カットしたチャメは水分と空気との接触により細菌が急速に繁殖します。スプーンで種と胎座をきれいに取り除き、果肉だけを一口大に切って密閉容器に入れ冷蔵保存し、2〜3日以内に早く消費してください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持韩国甜瓜/香瓜新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解韩国甜瓜（Chameh）的最佳储存温度、保鲜膜锁水包裹法及保鲜时长。",
-                "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "鲜黄色的外皮下包裹着爽脆果肉与香甜瓜瓤，韩国甜瓜（香瓜/Chameh）是极具特色的夏日代表水果！💛\n\n您是否买过一箱甜瓜，放在常温或直接丢进冰箱，没过几天果皮就发皱，内部的瓜籽部位（瓜瓤）首先变软发酵散发出发酸的气味？\n\n韩国甜瓜含水量高达90%以上且含糖量高，尤其是带有甜籽的“瓜瓤（Placenta）”部位，水分与糖分高度集中，是腐败细菌与酵母菌最先滋生的脆弱部位。此外，直接暴露于空气中会导致水分透过果皮不断蒸发，丧失特有的爽脆口感。本指南基于权威机构验证的指南，带您掌握3步科学保鲜秘诀，防止瓜瓤变质，保持清甜爽脆长达2周以上（最长14~20天）。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解甜瓜瓜瓤（籽部）的高糖度与发酵特性，以及果皮蒸腾失水机制，对于保持清脆口感与食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "储存前切勿用水清洗 💧",
-                        "desc": "若甜瓜白槽（白色条纹处）和果蒂处留有水汽，极易形成湿气积聚，滋生霉菌与细菌。用干布擦去表皮灰尘即可，清洗请留到食用前进行。"
-                    },
-                    {
-                        "title": "切勿长期置于常温保存 ⚠️",
-                        "desc": "在常温（20℃以上）下，甜瓜内部瓜瓤会加速自我发酵，散发出酒味并使果肉发软。要保持紧致爽脆的口感，必须进行低温冷藏。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "无需清洗，用食品级保鲜膜逐颗包裹 — 锁水防干包裹 📦",
-                        "text": "保持甜瓜爽脆口感的核心技巧。💡储存小贴士：保持干燥无水状态，用食品级保鲜膜（或保鲜袋）将每颗甜瓜无缝紧密包裹。保鲜膜可完全阻断水分蒸发，防止果皮起皱或果肉变绵。"
-                    },
-                    {
-                        "name": "装入密封拉链袋，0~5℃低温冷藏 — 低温冷藏保存 (14~20天) ❄️",
-                        "text": "抑制瓜瓤变质与腐败的低温密封步骤。💡储存小贴士：将裹好保鲜膜的甜瓜装入拉链袋或保鲜盒中双层密封，放入冰箱蔬菜保鲜抽屉（0~5℃）。可极大延缓瓜瓤发酵，保持2周以上宛如刚采摘般的清甜爽脆。"
-                    },
-                    {
-                        "name": "食用前2~3小时放入冰箱深处冰镇 — 冰镇提升甜度 🧊",
-                        "text": "甜瓜中的果糖在低温下甜味感知最为强烈。💡储存小贴士：食用前2~3小时将甜瓜置于较冷的冰镇温度（2~5℃）。利用果糖在低温下的分子结构特性，可使口感更加甜爽可口。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "切开甜瓜时发现瓜瓤发软、渗水或有酒味，还能吃吗？",
-                        "answer": "若甜瓜瓜瓤变透明、积水或散发出酸酒味，属于“发酵果（变质甜瓜）”现象。此时微生物已大量繁殖并破坏内部果肉，即使挖掉籽部也不建议食用，应直接丢弃。"
-                    },
-                    {
-                        "question": "切开剩下的甜瓜该如何保存？",
-                        "answer": "切开的甜瓜暴露于空气和水分中会加速细菌滋生。用勺子将瓜籽和软瓤彻底刮净，仅保留紧实果肉切块装入密封盒冷藏，并在2~3天内尽快食用完毕。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener los melones orientales frescos: Guía científica de conservación",
-                "description": "Descubra la temperatura de almacenamiento, técnica de envoltura para retener la humedad y tiempo de conservación para melones coreanos/orientales según directrices oficiales.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "¡El melón oriental (melón coreano/Chameh) es una popular fruta de verano con su brillante piel amarilla, pulpa crujiente y dulce centro de semillas (placenta)! 💛\n\n¿Alguna vez compró una caja de melones coreanos, los dejó en la despensa o el refrigerador, y pocos días después encontró la piel arrugada y el centro fermentado con olor agrio?\n\nLos melones orientales contienen más de un 90 % de agua y un alto nivel de azúcar. La cavidad interna de las semillas ('placenta') concentra mucha humedad y azúcares, siendo la zona más vulnerable donde proliferan primero bacterias y levaduras. Además, exponerlos al aire provoca la pérdida constante de agua por la cáscara, arruinando su textura crujiente. En esta guía se presenta una guía en 3 pasos respaldada por expertos para proteger el centro de las semillas y mantener su dulzura y textura crocante por más de 2 semanas (14 a 20 días). 🛡️",
-                "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
-                "whyDesc": "Comprender la concentración de azúcares y fermentación de la placenta, así como la transpiración de la cáscara, es fundamental para mantener la textura crujiente y la higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "No lave los melones orientales antes de guardarlos 💧",
-                        "desc": "Atrapar agua en las ranuras blancas y el pedúnculo crea el entorno perfecto para hongos y bacterias. Limpie la suciedad con un paño seco y lávelos justo antes de comer."
-                    },
-                    {
-                        "title": "Nunca deje melones orientales a temperatura ambiente por periodos prolongados ⚠️",
-                        "desc": "A temperatura ambiente (más de 20 °C), la cavidad de semillas sufre una autofermentación rápida, desarrollando olor a alcohol y pulpa blanda. La refrigeración es obligatoria."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Envuelva los melones sin lavar individualmente con film plástico — Barrera de humedad 📦",
-                        "text": "El secreto definitivo para conservar la textura crocante. 💡 Consejo de almacenamiento: Sin lavar, envuelva cada melón firmemente con film transparente sin dejar aberturas. Esto frena la evaporación de agua evitando que la piel se arrugue."
-                    },
-                    {
-                        "name": "Guarde en bolsas Ziploc herméticas y refrigere a 0–5 °C — Refrigeración (14–20 días) ❄️",
-                        "text": "Paso de sellado frío para evitar la descomposición del centro. 💡 Consejo de almacenamiento: Coloque los melones envueltos en bolsas Ziploc herméticas y refrigere en el cajón de verduras (0–5 °C). Frena la fermentación de la placenta, conservándolos frescos más de 2 semanas."
-                    },
-                    {
-                        "name": "Enfríe a 2–5 °C durante 2 a 3 horas antes de servir — Máxima dulzura 🧊",
-                        "text": "La fructosa se percibe notoriamente más dulce a temperaturas frías. 💡 Consejo de almacenamiento: Enfríe bien los melones en el refrigerador (2–5 °C) unas horas antes de comer. La estructura molecular de la fructosa resalta el sabor dulce al servirse helado."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Al cortar el melón oriental, la cavidad de semillas está acuosa, translúcida o huele agrio. ¿Puedo comerlo?",
-                        "answer": "Si el centro de semillas está translúcido, lleno de líquido o huele a alcohol/ácido, ha sufrido fermentación interna. Los microbios habrán invadido la pulpa, por lo que se debe descartar el melón entero por seguridad."
-                    },
-                    {
-                        "question": "¿Cómo se debe guardar el melón oriental cortado sobrante?",
-                        "answer": "El melón cortado expuesto al aire desarrolla bacterias rápidamente. Retire las semillas y la placenta blanda por completo con una cuchara, corte la pulpa firme en cubos, guárdela en un recipiente hermético en el refrigerador y consúmala en 2 a 3 días."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver le melon oriental frais : Guide scientifique de conservation",
-                "description": "Découvrez la température de stockage optimale, la technique d'emballage sous film étirable et la durée de conservation du melon coréen selon les normes officielles.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Le melon oriental (melon coréen/Chameh) est un fruit d'été incontournable avec sa peau jaune vif, sa chair croquante et son cœur de graines très doux (placenta) ! 💛\n\nAvez-vous déjà acheté un carton de melons coréens pour les retrouver flétris avec un cœur fermenté dégageant une odeur aigre après quelques jours ?\n\nContenant plus de 90 % d'eau et riche en sucre, le melon oriental possède une cavités centrale ('placenta') très concentrée en eau et nutriments, ce qui en fait la zone la plus vulnérable où prolifèrent bactéries et levures. L'exposition à l'air ambiant entraîne une évaporation continue. Dans ce guide, vous présente un guide de conservation en 3 étapes pour protéger le cœur et préserver le croquant et le sucre pendant plus de 2 semaines (14 à 20 jours). 🛡️",
-                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre la concentration en sucre et la fermentescibilité de la cavité centrale, ainsi que la transpiration de l'écorce, est essentiel pour maintenir le croquant et la sécurité alimentaire.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne lavez pas les melons orientaux avant de les stocker 💧",
-                        "desc": "L'eau piégée dans les stries blanches et le pédoncule crée un milieu idéal pour les moisissures et bactéries. Essuyez la poussière avec un chiffon sec et ne lavez qu'au moment de déguster."
-                    },
-                    {
-                        "title": "Ne laissez jamais les melons orientaux longtemps à température ambiante ⚠️",
-                        "desc": "À température ambiante (au-dessus de 20 °C), le cœur subit une auto-fermentation rapide donnant une odeur d'alcool et une chair molle. La réfrigération est obligatoire pour préserver la fermeté."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Envelopper chaque melon non lavé dans du film étirable — Barrière d'humidité 📦",
-                        "text": "Le secret pour maintenir la texture croquante. 💡 Astuce de conservation : Sans les laver, enveloppez hermétiquement chaque melon dans du film plastique alimentaire. Cela bloque l'évaporation d'eau et évite le flétrissement."
-                    },
-                    {
-                        "name": "Placer en sachet Ziploc et réfrigérer à 0–5 °C — Stockage frais (14–20 jours) ❄️",
-                        "text": "L'étape de scellage à froid pour éviter la dégradation du cœur. 💡 Astuce de conservation : Placez les melons emballés dans un sachet Ziploc hermétique et réfrigérez dans le bac à légumes (0–5 °C). Ralentit la fermentation du placenta pendant plus de 2 semaines."
-                    },
-                    {
-                        "name": "Placer au frais à 2–5 °C pendant 2 à 3 heures avant dégustation — Mettre en valeur le sucre 🧊",
-                        "text": "Le fructose du melon est perçu comme beaucoup plus doux à basse température. 💡 Astuce de conservation : Mettez les melons bien au frais (2–5 °C) quelques heures avant de consommer pour exalter leur saveur sucrée."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "En coupant le melon oriental, le cœur est translucide, gorgé d'eau ou sent l'alcool. Est-il consommable ?",
-                        "answer": "Si le cœur est translucide, plein d'eau ou dégage une odeur d'alcool, il s'agit d'une fermentation interne. Les bactéries ayant envahi la chair, jetez tout le melon par sécurité au lieu de simplement retirer les graines."
-                    },
-                    {
-                        "question": "Comment conserver un morceau de melon oriental entamé ?",
-                        "answer": "Le melon coupé exposé à l'air favorise la multiplication bactérienne. Retirez entièrement les graines et le placenta mou à la cuillère, coupez la chair ferme en dés, rangez en boîte hermétique au frais et consommez sous 2 à 3 jours."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Orientalische Melonen richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, die Folien-Einwickelmethode zum Feuchtigkeitsschutz und die Haltbarkeit für koreanische Melonen nach offiziellen Richtlinien.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Die orientalische Melone (koreanische Melone/Chameh) ist eine beliebte Sommerfrucht mit leuchtend gelber Schale, knackigem weißem Fleisch und süßem Kerngehäuse! 💛\n\nHaben Sie schon einmal eine Kiste koreanischer Melonen gekauft und im Schrank oder Kühlschrank gelagert, nur um nach wenigen Tagen schrumpelige Schalen und ein vergorenes Kerngehäuse vorzufinden?\n\nOrientalische Melonen bestehen zu über 90 % aus Wasser und sind sehr zuckerreich. Das innere Kerngehäuse ('Plazenta') ist besonders zucker- und feuchtigkeitsreich und somit die anfälligste Stelle für Bakterien und Hefen. Ungeschützt verdunstet zudem Wasser über die Schale, was den Biss ruiniert. In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber, um das Kerngehäuse zu schützen und die Knackigkeit über 2 Wochen (14 bis 20 Tage) zu bewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der Zuckergehalte und Fermentationsneigung im Kerngehäuse sowie der Schalentranspiration ist entscheidend für Knackigkeit und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Orientalische Melonen vor der Lagerung nicht waschen 💧",
-                        "desc": "Wasser in den weißen Rillen und am Stielansatz fördert Schimmel- und Bakterienwachstum. Wischen Sie Staub mit einem trockenen Tuch ab und waschen Sie die Melonen erst direkt vor dem Verzehr."
-                    },
-                    {
-                        "title": "Melonen niemals lange bei Raumtemperatur lagern ⚠️",
-                        "desc": "Bei Raumtemperatur (über 20 °C) setzt im Kerngehäuse eine schnelle Selbstfermentation ein (Alkoholgeruch, weiches Fleisch). Kühllagerung ist zwingend erforderlich."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Ungewaschen einzeln fest in Frischhaltefolie einwickeln — Feuchtigkeitssperre 📦",
-                        "text": "Der entscheidende Trick für knackiges Fruchtfleisch. 💡 Lagerungstipp: Die trockene Melone einzeln lückenlos in Frischhaltefolie einwickeln. Die Folie blockiert das Verdampfen der Eigenfeuchte und verhindert Schrumpeln."
-                    },
-                    {
-                        "name": "In Ziploc-Beutel legen und bei 0–5 °C kühlen — Kühllagerung (14–20 Tage) ❄️",
-                        "text": "Kaltversiegelung gegen Verderb des Kerngehäuses. 💡 Lagerungstipp: Gewickelte Melonen in Ziploc-Beutel legen und im Gemüsefach (0–5 °C) lagern. Verlangsamt die Fermentation des Kerngehäuses für über 2 Wochen Frische."
-                    },
-                    {
-                        "name": "Vor dem Servieren 2–3 Stunden bei 2–5 °C kühlen — Süße intensivieren 🧊",
-                        "text": "Fruchtzucker schmeckt gekühlt deutlich süßer. 💡 Lagerungstipp: Kühlen Sie die Melonen vor dem Verzehr 2 bis 3 Stunden gründlich durch. Die Molekularstruktur der Fructose verstärkt die Süßewahrnehmung im kalten Zustand."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Beim Aufschneiden ist das Kerngehäuse glasig, wässrig oder riecht sauer. Kann man die Melone noch essen?",
-                        "answer": "Ist das Kerngehäuse glasig, voller Wasser oder riecht nach Alkohol, liegt eine 'vergorene Melone' vor. Da sich Mikroben ins Fruchtfleisch ausgebreitet haben, sollte die Melone komplett entsorgt werden."
-                    },
-                    {
-                        "question": "Wie bewahrt man angeschnittene orientalische Melonen auf?",
-                        "answer": "Angeschnittene Melonen bilden an der Luft schnell Bakterien. Kratzen Sie Kerne und das weiche Kerngehäuse mit einem Löffel vollständig heraus, würfeln Sie das feste Fleisch, kühlen Sie es luftdicht und verbrauchen Sie es binnen 2–3 Tagen."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar melão oriental fresco: Guia científico de armazenamento",
-                "description": "Descubra a temperatura de armazenamento, técnica de embalagem em filme plástico e tempo de conservação do melão coreano segundo diretrizes oficiais.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "O melão oriental (melão coreano/Chameh) é uma fruta de verão amada pela casca amarela vibrante, polpa crocante e centro de sementes doce (placenta)! 💛\n\nVocê já comprou uma caixa de melões coreanos, deixou na dispensa ou geladeira e poucos dias depois encontrou a casca murcha e o centro fermentado com cheiro azedo?\n\nOs melões orientais contêm mais de 90% de água e alto teor de açúcar. A cavidade interna das sementes ('placenta') é concentrada em umidade e açúcares, sendo a área mais vulnerável onde bactérias e leveduras proliferam primeiro. Além disso, a exposição ao ar causa perda contínua de água pela casca. Neste guia, apresentamos um guia em 3 etapas para proteger o centro de sementes e manter a crocância e o doçor por mais de 2 semanas (14 a 20 dias). 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Compreender a concentração de açúcares e fermentação da placenta, bem como a transpiração da casca, é essencial para manter a textura crocante e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Regras essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Não lave os melões orientais antes de guardar 💧",
-                        "desc": "Acumular água nas ranhuras brancas e no cabinho cria o ambiente perfeito para mofo e bactérias. Limpe a sujeira com pano seco e lave apenas na hora de comer."
-                    },
-                    {
-                        "title": "Nunca deixe melões orientais em temperatura ambiente por muito tempo ⚠️",
-                        "desc": "Em temperatura ambiente (acima de 20 °C), o centro de sementes passa por autofermentação rápida, desenvolvendo cheiro de álcool e polpa mole. A refrigeração é obrigatória."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Envolver os melões secos individualmente em filme plástico — Barreira de umidade 📦",
-                        "text": "O segredo para manter a textura crocante. 💡 Dica de conservação: Sem lavar, envolva cada melão firmemente em filme plástico sem deixar frestas. Isso impede a evaporação de água e evita que a casca murche."
-                    },
-                    {
-                        "name": "Guardar em sacos Ziploc herméticos e refrigerar a 0–5 °C — Refrigeração (14–20 dias) ❄️",
-                        "text": "Passo de vedação fria para evitar deterioração do centro. 💡 Dica de conservação: Coloque os melões embalados em sacos Ziploc herméticos e refrigere na gaveta de legumes (0–5 °C). Retarda a fermentação da placenta, mantendo-os frescos por mais de 2 semanas."
-                    },
-                    {
-                        "name": "Gelar a 2–5 °C por 2 a 3 horas antes de servir — Realçar o doçor 🧊",
-                        "text": "A frutose é percebida como muito mais doce em temperaturas frias. 💡 Dica de conservação: Gelar bem os melões na geladeira (2–5 °C) algumas horas antes de comer realça a sensação de doçor pela estrutura molecular da frutose."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Ao cortar o melão oriental, o centro de sementes está translúcido, aquoso ou com cheiro azedo. Posso comer?",
-                        "answer": "Se o centro de sementes estiver translúcido, cheio de líquido ou com cheiro de álcool/azedo, houve fermentação interna. Como micróbios invadiram a polpa, descarte o melão inteiro por segurança."
-                    },
-                    {
-                        "question": "Como devo guardar o melão oriental cortado que sobrou?",
-                        "answer": "O melão cortado exposto ao ar desenvolve bactérias rápido. Remova totalmente as sementes e a placenta macia com uma colher, corte a polpa firme em cubos, guarde em pote hermético na geladeira e consuma em 2 a 3 dias."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Melon Oriental (Melon Korea) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu penyimpanan optimal, teknik membungkus plastik wrap penahan kelembapan, dan masa simpan melon Korea berdasarkan pedoman keselamatan resmi.",
-                "authority": "RDA & USDA & MFDS",
-                "intro": "Melon Oriental (melon Korea/Chameh) adalah buah musim panas favorit dengan kulit kuning cerah, daging buah renyah, dan pusat biji (plasenta) yang sangat manis! 💛\n\nPernahkah Anda membeli satu kotak melon Korea, meninggalkannya di luar atau di kulkas, lalu menemukan kulitnya keriput dan rongga biji bagian dalamnya membusuk berbau asam?\n\nMelon Oriental memiliki kadar air lebih dari 90% dan kadar gula tinggi. Rongga biji bagian dalam ('plasenta') sangat terkonsentrasi air dan gula, menjadikannya area paling rentan tempat bakteri pembusuk dan ragi berkembang biak lebih dulu. Selain itu, membiarkannya terpapar udara luar menyebabkan penguapan air terus-menerus melalui kulit, merusak tekstur renyahnya. Dalam panduan ini, kami membagikan panduan 3 langkah berbasis ilmiah untuk melindungi bagian biji dan menjaga kerenyahan serta kemanisannya selama lebih dari 2 minggu (14 hingga 20 hari). 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami konsentrasi gula tinggi dan sifat fermentasi pada plasenta biji, serta transpirasi kulit buah sangat penting untuk menjaga kerenyahan dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan mencuci melon Oriental sebelum disimpan 💧",
-                        "desc": "Air yang terperangkap pada alur putih dan tangkai melon menciptakan lingkungan ideal bagi jamur dan bakteri. Lap debu permukaan dengan kain kering sebelum disimpan, dan cucilah tepat sebelum dimakan."
-                    },
-                    {
-                        "title": "Jangan biarkan melon Oriental di suhu ruang dalam jangka panjang ⚠️",
-                        "desc": "Di suhu ruang (di atas 20°C), rongga biji di dalam mengalami fermentasi mandiri secara cepat, menimbulkan bau alkohol dan daging lembek. Penyimpanan kulkas sangat wajib."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Bungkus melon kering secara individual dengan plastik wrap — Pelindung Lembap 📦",
-                        "text": "Kunci utama menjaga tekstur renyah yang khas. 💡 Tips Penyimpanan: Tanpa dicuci, bungkus setiap melon secara rapat menggunakan plastik wrap tanpa celah. Plastik wrap menahan penguapan air agar kulit tidak keriput."
-                    },
-                    {
-                        "name": "Masukkan ke kantong ziploc kedap udara dan simpan di kulkas (0–5°C) — Simpan Dingin (14–20 Hari) ❄️",
-                        "text": "Langkah penyegelan dingin untuk mencegah pembusukan rongga biji. 💡 Tips Penyimpanan: Masukkan melon terbungkus ke kantong ziploc kedap udara dan simpan di laci sayur kulkas (0–5°C). Memperlambat fermentasi plasenta, menjaganya tetap renyah hingga lebih dari 2 minggu."
-                    },
-                    {
-                        "name": "Dinginkan pada suhu 2–5°C selama 2–3 jam sebelum disajikan — Memaksimalkan Kemanisan 🧊",
-                        "text": "Fruktosa pada buah terasa jauh lebih manis saat dingin. 💡 Tips Penyimpanan: Dinginkan melon di kulkas (2–5°C) beberapa jam sebelum dimakan. Sifat molekuler fruktosa akan meningkatkan rasa manis saat disajikan dingin."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Saat melon Oriental dipotong, rongga bijinya transparan, berair, atau berbau asam. Apakah masih aman dimakan?",
-                        "answer": "Jika bagian bijinya menjadi transparan, dipenuhi air, atau berbau alkohol/asam, berarti telah terjadi fermentasi internal ('melon terfermentasi'). Mikroba telah menyebar ke daging buah, sehingga demi keamanan sebaiknya buang seluruh melon."
-                    },
-                    {
-                        "question": "Bagaimana cara menyimpan sisa melon Oriental yang sudah dipotong?",
-                        "answer": "Melon potong yang terpapar udara akan memicu pertumbuhan bakteri dengan cepat. Keruk biji dan plasenta yang lembek hingga bersih dengan sendok, potong dadu daging buahnya yang padat, simpan dalam wadah kedap udara di kulkas, dan habiskan dalam 2 hingga 3 hari."
-                    }
-                ]
-            }
-        }
+  "how-to-store-oriental-melon": {
+    "ingId": "oriental-melon",
+    "pubDate": "2026-07-22",
+    "updatedDate": "2026-07-22",
+    "heroImage": "/images/blog/oriental_melon_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "참외 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 참외의 최적 보관 온도, 수분 차단 랩핑법 및 보관 기한을 확인하세요.",
+        "authority": "농촌진흥청(RDA) & 미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+        "intro": "선명한 노란 껍질 속 아삭한 과육과 달콤한 태자리가 매력적인 대표 여름 과일 참외! 💛\n\n참외 한 상자를 사왔다가 상온이나 냉장고에 그대로 두어 껍질이 쭈글쭈글해지고 내부 씨 부분(태자리)이 먼저 물러 발효된 냄새가 나 버려본 경험 다들 있으시죠?\n\n참외는 당도가 높고 수분 함량이 90% 이상인 과일로, 특히 씨가 들어있는 '태자리(Placenta)' 부위는 수분과 당분이 집중되어 있어 부패 세균과 효모가 가장 먼저 번식하는 취약한 부위입니다. 또한, 공기 중에 그대로 노출되면 껍질을 통해 수분이 계속 증발하여 특유의 아삭한 식감을 잃게 됩니다. 이번 가이드에서는 전문 기관의 검증된 원리를 바탕으로, 참외의 씨 부위 변질을 막고 아삭함과 단맛을 2주 이상(최대 14~20일) 오랫동안 유지해 주는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "참외 태자리(씨 부위)의 높은 당도 및 발효 반응 특성과 표피 수분 증발 기전을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 식감 유지와 위생 관리에 필수적입니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "보관 전 물로 씻지 마세요 💧",
+            "desc": "참외 골(흰색 골짜기 부위)과 꼭지에 물기가 남아있으면 습기가 갇혀 곰팡이와 세균이 번식하기 매우 쉬운 환경이 됩니다. 마른 천으로 겉면의 먼지만 가볍게 털어내어 보관하고, 씻는 것은 먹기 직전에 하세요."
+          },
+          {
+            "title": "상온에 장기간 방치하지 마세요 ⚠️",
+            "desc": "상온(20℃ 이상)에서는 참외 내부 씨 부위(태자리)의 자가 발효가 빠르게 진행되어 알코올 냄새가 나고 과육이 물러집니다. 단단하고 아삭한 식감을 지키려면 반드시 저온 냉장 보관해야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "씻지 않은 상태로 식품용 랩으로 개별 포장하기 — 수분 증발 차단 랩핑 📦",
+            "text": "참외의 아삭함을 유지하는 핵심 비법입니다. 💡 보관 팁: 물을 묻히지 않은 참외를 식품용 랩(또는 위생 비닐)으로 한 알씩 빈틈없이 꽁꽁 감싸주세요. 랩 포장이 참외 자체의 수분 증발을 완벽히 차단하여 껍질이 쭈글해지거나 과육이 푸석해지는 것을 막아줍니다."
+          },
+          {
+            "name": "밀폐 지퍼백에 담아 0~5℃ 저온 냉장 보관하기 — 저온 냉장 보관 (14~20일) ❄️",
+            "text": "태자리의 변질과 부패를 억제하는 저온 밀봉 단계입니다. 💡 보관 팁: 랩으로 포장한 참외를 지퍼백이나 밀폐 용기에 담아 이중 밀봉한 뒤, 냉장고 야채실(0~5℃)에 보관해 주세요. 태자리의 발효 작용이 현저히 낮아져 2주 이상 갓 수확한 듯한 아삭함과 달콤함을 지킬 수 있습니다."
+          },
+          {
+            "name": "드시기 2~3시간 전 냉장실 깊숙이 차갑게 보관하기 — 당도 극대화 차갑게 먹기 🧊",
+            "text": "참외의 과당은 저온에서 당도가 가장 높게 느껴집니다. 💡 보관 팁: 보관 중인 참외를 드시기 2~3시간 전에 차가운 서늘한 온도(2~5℃)로 맞추어 드시면 과당의 구조적 특성으로 인해 단맛이 더욱 극대화되어 시원하고 달콤하게 즐기실 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "참외를 잘랐을 때 씨 부위(태자리)가 물러있거나 물이 차 있는데 먹어도 되나요?",
+            "answer": "참외 태자리가 투명하게 변하고 물이 차 있거나 시큼한 알코올 냄새가 난다면 '발효과(상한 참외)' 현상입니다. 이 경우 미생물이 번식하여 과육 내부까지 변질되었을 가능성이 높으므로 씨 부위를 도려내더라도 드시지 말고 폐기하는 것이 안전합니다."
+          },
+          {
+            "question": "남은 자른 참외는 어떻게 보관해야 하나요?",
+            "answer": "자른 참외는 수분 노출과 공기 접촉으로 인해 세균이 급격히 번식합니다. 자른 참외는 씨와 태자리를 숟가락으로 깨끗이 긁어낸 뒤 과육만 깍둑썰기하여 밀폐 용기에 담아 냉장 보관하고, 2~3일 이내에 빠르게 소비하는 것이 바람직합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Oriental Melons Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, moisture-locking plastic wrap method, and shelf life for Korean/Oriental melons based on official safety guidelines.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Oriental melons (Korean melons) are a beloved summer fruit with vibrant yellow skin, crisp white flesh, and a sweet seed center (placenta)! 💛\n\nHave you ever bought a box of Korean melons, left them out or in the fridge, only to find their skins wrinkled and the inner seed cavity fermented with a sour smell?\n\nOriental melons have over 90% water content and high sugar levels. The inner seed cavity ('placenta') is particularly concentrated with moisture and sugar, making it the most vulnerable area where spoilage bacteria and yeasts proliferate first. Furthermore, exposing them directly to ambient air causes continuous moisture loss through the rind, ruining their signature crunch. In this guide, introduces a scientifically proven 3-step storage guide based on expert standards to protect the seed core and preserve sweetness and crispness for over 2 weeks (14 to 20 days). 🛡️",
+        "whyTitle": "Why Store Oriental Melons This Way? Scientific Facts",
+        "whyDesc": "Understanding the high sugar concentration and fermentation characteristics of the placenta core, as well as rind transpiration mechanisms, is essential for preserving crunch and hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Do not wash oriental melons before storing 💧",
+            "desc": "Trapping moisture in the white grooves and stem end of the melon creates an ideal breeding ground for mold and bacteria. Wipe off surface dust with a dry cloth before storing, and wash right before eating."
+          },
+          {
+            "title": "Never leave oriental melons at room temperature for extended periods ⚠️",
+            "desc": "At room temperature (above 20°C / 68°F), the inner seed cavity undergoes rapid self-fermentation, developing an alcoholic odor and mushy flesh. Cold refrigeration is mandatory to keep the flesh firm and crisp."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Wrap unwashed melons individually with food-grade plastic wrap — Moisture Barrier 📦",
+            "text": "The key secret to maintaining signature crispness. 💡 Storage Tip: Keep dry, unwashed melons and wrap each one tightly with food-grade plastic wrap without leaving gaps. The wrap blocks moisture evaporation through the skin, preventing wrinkling or mealy texture."
+          },
+          {
+            "name": "Place in airtight Ziploc bags and refrigerate at 0–5°C — Cold Storage (14–20 Days) ❄️",
+            "text": "The cold sealing step to prevent seed cavity decay and fermentation. 💡 Storage Tip: Place plastic-wrapped melons in airtight Ziploc bags for double sealing and store in the refrigerator crisper drawer (0–5°C / 32–41°F). Slows down placenta fermentation, keeping them farm-fresh and crisp for over 2 weeks."
+          },
+          {
+            "name": "Chill thoroughly at 2–5°C for 2–3 hours before serving — Maximize Sweetness 🧊",
+            "text": "Fructose in fruit tastes noticeably sweeter at cold temperatures. 💡 Storage Tip: Chill stored melons thoroughly in the fridge (2–5°C) for 2 to 3 hours before eating. The structural property of fructose enhances the perception of sweetness when cold."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "When I cut an oriental melon, the seed cavity is watery, translucent, or smells sour. Is it safe to eat?",
+            "answer": "If the inner seed cavity is translucent, filled with water, or smells sour/alcoholic, it has undergone internal fermentation ('fermented melon'). Microbes have likely invaded the inner flesh, so it is safer to discard the entire melon rather than just cutting away the seeds."
+          },
+          {
+            "question": "How should leftover cut oriental melon be stored?",
+            "answer": "Sliced oriental melon exposes high moisture to air, triggering rapid bacterial growth. Scoop out the seeds and soft placenta completely with a spoon, cube the firm white flesh, store in an airtight container in the fridge, and consume within 2 to 3 days."
+          }
+        ]
+      },
+      "ja": {
+        "title": "チャメ（韓国メロン）を新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくチャメ（オリエンタルメロン）の最適保存温度、水分遮断ラッピング法、保存期間をご確認ください。",
+        "authority": "農村振興庁(RDA) & 米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "鮮やかな黄色い皮とシャキシャキとした果肉、甘い種周り（胎座）が魅力的な夏の代表果物チャメ（韓国メロン）！💛\n\n一箱買ってきたものの常温や冷蔵庫にそのまま置いておいたら皮がシワシワになり、内部の種周り（胎座）が真っ先に傷んで発酵したような臭いがして捨ててしまった経験はありませんか？\n\nチャメは糖度が高く水分含有量が90%以上の果物で、特に種が入っている「胎座（Placenta）」部分は水分と糖分が集中しているため、腐敗細菌や酵母が最も繁殖しやすい脆弱な部位です。また、空気にそのまま露出すると皮から水分がどんどん蒸発し、特徴であるシャキシャキした食感が失われます。本記事では専門機関の検証済み原理に基づき、種周りの変質を防ぎシャキシャキ感と甘みを2週間以上（最大14〜20日間）保つ3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "チャメの胎座（種周り）の高い糖度と発酵反応の特性、果皮の水分蒸発メカニズムを理解し、適切な保存法を実践することが食感と衛生の維持に不可欠です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "保存する前に水で洗わないでください 💧",
+            "desc": "チャメの溝（白い線）やヘタに水気が残っていると湿気がこもり、カビや細菌が繁殖しやすい環境になります。乾いた布で表面の汚れを軽く拭き取って保管し、洗うのは食べる直前にしてください。"
+          },
+          {
+            "title": "常温に長期間放置しないでください ⚠️",
+            "desc": "常温（20℃以上）では内部の種周り（胎座）の自己発酵が急速に進み、アルコール臭がして果肉が柔らかくなります。固くシャキシャキとした食感を保つには低温冷蔵保存が必須です。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "洗わずに食品用ラップで個別包装する — 水分蒸発防止ラッピング 📦",
+            "text": "チャメのシャキシャキ感を保つ最大のポイントです。💡保存のコツ：水気をつけず、チャメを食品用ラップ（またはポリ袋）で1個ずつ隙間なくぴったり包みます。ラップ包装がチャメ自体の水分蒸発を完全に遮断し、皮のシワや果肉のパサつきを防ぎます。"
+          },
+          {
+            "name": "ジッパーバッグに入れて0〜5℃の低温で冷蔵保存する — 低温冷蔵保存 (14〜20日間) ❄️",
+            "text": "胎座の変質と腐敗を抑える低温密閉ステップです。💡保存のコツ：ラップで包んだチャメをジッパーバッグや密閉容器に入れて二重に密閉し、冷蔵庫の野菜室（0〜5℃）で保管します。胎座の発酵が大幅に抑えられ、2週間以上採りたてのような甘さとシャキシャキ感を維持できます。"
+          },
+          {
+            "name": "食べる2〜3時間前に冷蔵室でしっかり冷やす — 甘みを極大化 🧊",
+            "text": "チャメの果糖は低温で最も甘く感じられます。💡保存のコツ：食べる2〜3時間前にチャメをしっかり冷えた温度（2〜5℃）にしておくと、果糖の構造的特性により甘みが一層引き立ち、より美味しく召し上がれます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "チャメを切った時、種周り（胎座）が柔らかく水が溜まっていますが食べられますか？",
+            "answer": "胎座が透明に変色して水が溜まっていたり、酸っぱいアルコール臭がする場合は「発酵果（傷んだチャメ）」現象です。微生物が繁殖して果肉内部まで変質している可能性が高いため、種周りを取り除いても食べずに廃棄するのが安全です。"
+          },
+          {
+            "question": "カットしたチャメの残りはどのように保存すればよいですか？",
+            "answer": "カットしたチャメは水分と空気との接触により細菌が急速に繁殖します。スプーンで種と胎座をきれいに取り除き、果肉だけを一口大に切って密閉容器に入れ冷蔵保存し、2〜3日以内に早く消費してください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持韩国甜瓜/香瓜新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解韩国甜瓜（Chameh）的最佳储存温度、保鲜膜锁水包裹法及保鲜时长。",
+        "authority": "韩国农村振兴厅(RDA) & 美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "鲜黄色的外皮下包裹着爽脆果肉与香甜瓜瓤，韩国甜瓜（香瓜/Chameh）是极具特色的夏日代表水果！💛\n\n您是否买过一箱甜瓜，放在常温或直接丢进冰箱，没过几天果皮就发皱，内部的瓜籽部位（瓜瓤）首先变软发酵散发出发酸的气味？\n\n韩国甜瓜含水量高达90%以上且含糖量高，尤其是带有甜籽的“瓜瓤（Placenta）”部位，水分与糖分高度集中，是腐败细菌与酵母菌最先滋生的脆弱部位。此外，直接暴露于空气中会导致水分透过果皮不断蒸发，丧失特有的爽脆口感。本指南基于权威机构验证的指南，带您掌握3步科学保鲜秘诀，防止瓜瓤变质，保持清甜爽脆长达2周以上（最长14~20天）。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解甜瓜瓜瓤（籽部）的高糖度与发酵特性，以及果皮蒸腾失水机制，对于保持清脆口感与食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "储存前切勿用水清洗 💧",
+            "desc": "若甜瓜白槽（白色条纹处）和果蒂处留有水汽，极易形成湿气积聚，滋生霉菌与细菌。用干布擦去表皮灰尘即可，清洗请留到食用前进行。"
+          },
+          {
+            "title": "切勿长期置于常温保存 ⚠️",
+            "desc": "在常温（20℃以上）下，甜瓜内部瓜瓤会加速自我发酵，散发出酒味并使果肉发软。要保持紧致爽脆的口感，必须进行低温冷藏。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "无需清洗，用食品级保鲜膜逐颗包裹 — 锁水防干包裹 📦",
+            "text": "保持甜瓜爽脆口感的核心技巧。💡储存小贴士：保持干燥无水状态，用食品级保鲜膜（或保鲜袋）将每颗甜瓜无缝紧密包裹。保鲜膜可完全阻断水分蒸发，防止果皮起皱或果肉变绵。"
+          },
+          {
+            "name": "装入密封拉链袋，0~5℃低温冷藏 — 低温冷藏保存 (14~20天) ❄️",
+            "text": "抑制瓜瓤变质与腐败的低温密封步骤。💡储存小贴士：将裹好保鲜膜的甜瓜装入拉链袋或保鲜盒中双层密封，放入冰箱蔬菜保鲜抽屉（0~5℃）。可极大延缓瓜瓤发酵，保持2周以上宛如刚采摘般的清甜爽脆。"
+          },
+          {
+            "name": "食用前2~3小时放入冰箱深处冰镇 — 冰镇提升甜度 🧊",
+            "text": "甜瓜中的果糖在低温下甜味感知最为强烈。💡储存小贴士：食用前2~3小时将甜瓜置于较冷的冰镇温度（2~5℃）。利用果糖在低温下的分子结构特性，可使口感更加甜爽可口。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "切开甜瓜时发现瓜瓤发软、渗水或有酒味，还能吃吗？",
+            "answer": "若甜瓜瓜瓤变透明、积水或散发出酸酒味，属于“发酵果（变质甜瓜）”现象。此时微生物已大量繁殖并破坏内部果肉，即使挖掉籽部也不建议食用，应直接丢弃。"
+          },
+          {
+            "question": "切开剩下的甜瓜该如何保存？",
+            "answer": "切开的甜瓜暴露于空气和水分中会加速细菌滋生。用勺子将瓜籽和软瓤彻底刮净，仅保留紧实果肉切块装入密封盒冷藏，并在2~3天内尽快食用完毕。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener los melones orientales frescos: Guía científica de conservación",
+        "description": "Descubra la temperatura de almacenamiento, técnica de envoltura para retener la humedad y tiempo de conservación para melones coreanos/orientales según directrices oficiales.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "¡El melón oriental (melón coreano/Chameh) es una popular fruta de verano con su brillante piel amarilla, pulpa crujiente y dulce centro de semillas (placenta)! 💛\n\n¿Alguna vez compró una caja de melones coreanos, los dejó en la despensa o el refrigerador, y pocos días después encontró la piel arrugada y el centro fermentado con olor agrio?\n\nLos melones orientales contienen más de un 90 % de agua y un alto nivel de azúcar. La cavidad interna de las semillas ('placenta') concentra mucha humedad y azúcares, siendo la zona más vulnerable donde proliferan primero bacterias y levaduras. Además, exponerlos al aire provoca la pérdida constante de agua por la cáscara, arruinando su textura crujiente. En esta guía se presenta una guía en 3 pasos respaldada por expertos para proteger el centro de las semillas y mantener su dulzura y textura crocante por más de 2 semanas (14 a 20 días). 🛡️",
+        "whyTitle": "¿Por qué almacenarlos así? Datos científicos",
+        "whyDesc": "Comprender la concentración de azúcares y fermentación de la placenta, así como la transpiración de la cáscara, es fundamental para mantener la textura crujiente y la higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "No lave los melones orientales antes de guardarlos 💧",
+            "desc": "Atrapar agua en las ranuras blancas y el pedúnculo crea el entorno perfecto para hongos y bacterias. Limpie la suciedad con un paño seco y lávelos justo antes de comer."
+          },
+          {
+            "title": "Nunca deje melones orientales a temperatura ambiente por periodos prolongados ⚠️",
+            "desc": "A temperatura ambiente (más de 20 °C), la cavidad de semillas sufre una autofermentación rápida, desarrollando olor a alcohol y pulpa blanda. La refrigeración es obligatoria."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Envuelva los melones sin lavar individualmente con film plástico — Barrera de humedad 📦",
+            "text": "El secreto definitivo para conservar la textura crocante. 💡 Consejo de almacenamiento: Sin lavar, envuelva cada melón firmemente con film transparente sin dejar aberturas. Esto frena la evaporación de agua evitando que la piel se arrugue."
+          },
+          {
+            "name": "Guarde en bolsas Ziploc herméticas y refrigere a 0–5 °C — Refrigeración (14–20 días) ❄️",
+            "text": "Paso de sellado frío para evitar la descomposición del centro. 💡 Consejo de almacenamiento: Coloque los melones envueltos en bolsas Ziploc herméticas y refrigere en el cajón de verduras (0–5 °C). Frena la fermentación de la placenta, conservándolos frescos más de 2 semanas."
+          },
+          {
+            "name": "Enfríe a 2–5 °C durante 2 a 3 horas antes de servir — Máxima dulzura 🧊",
+            "text": "La fructosa se percibe notoriamente más dulce a temperaturas frías. 💡 Consejo de almacenamiento: Enfríe bien los melones en el refrigerador (2–5 °C) unas horas antes de comer. La estructura molecular de la fructosa resalta el sabor dulce al servirse helado."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Al cortar el melón oriental, la cavidad de semillas está acuosa, translúcida o huele agrio. ¿Puedo comerlo?",
+            "answer": "Si el centro de semillas está translúcido, lleno de líquido o huele a alcohol/ácido, ha sufrido fermentación interna. Los microbios habrán invadido la pulpa, por lo que se debe descartar el melón entero por seguridad."
+          },
+          {
+            "question": "¿Cómo se debe guardar el melón oriental cortado sobrante?",
+            "answer": "El melón cortado expuesto al aire desarrolla bacterias rápidamente. Retire las semillas y la placenta blanda por completo con una cuchara, corte la pulpa firme en cubos, guárdela en un recipiente hermético en el refrigerador y consúmala en 2 a 3 días."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver le melon oriental frais : Guide scientifique de conservation",
+        "description": "Découvrez la température de stockage optimale, la technique d'emballage sous film étirable et la durée de conservation du melon coréen selon les normes officielles.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Le melon oriental (melon coréen/Chameh) est un fruit d'été incontournable avec sa peau jaune vif, sa chair croquante et son cœur de graines très doux (placenta) ! 💛\n\nAvez-vous déjà acheté un carton de melons coréens pour les retrouver flétris avec un cœur fermenté dégageant une odeur aigre après quelques jours ?\n\nContenant plus de 90 % d'eau et riche en sucre, le melon oriental possède une cavités centrale ('placenta') très concentrée en eau et nutriments, ce qui en fait la zone la plus vulnérable où prolifèrent bactéries et levures. L'exposition à l'air ambiant entraîne une évaporation continue. Dans ce guide, vous présente un guide de conservation en 3 étapes pour protéger le cœur et préserver le croquant et le sucre pendant plus de 2 semaines (14 à 20 jours). 🛡️",
+        "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre la concentration en sucre et la fermentescibilité de la cavité centrale, ainsi que la transpiration de l'écorce, est essentiel pour maintenir le croquant et la sécurité alimentaire.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne lavez pas les melons orientaux avant de les stocker 💧",
+            "desc": "L'eau piégée dans les stries blanches et le pédoncule crée un milieu idéal pour les moisissures et bactéries. Essuyez la poussière avec un chiffon sec et ne lavez qu'au moment de déguster."
+          },
+          {
+            "title": "Ne laissez jamais les melons orientaux longtemps à température ambiante ⚠️",
+            "desc": "À température ambiante (au-dessus de 20 °C), le cœur subit une auto-fermentation rapide donnant une odeur d'alcool et une chair molle. La réfrigération est obligatoire pour préserver la fermeté."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Envelopper chaque melon non lavé dans du film étirable — Barrière d'humidité 📦",
+            "text": "Le secret pour maintenir la texture croquante. 💡 Astuce de conservation : Sans les laver, enveloppez hermétiquement chaque melon dans du film plastique alimentaire. Cela bloque l'évaporation d'eau et évite le flétrissement."
+          },
+          {
+            "name": "Placer en sachet Ziploc et réfrigérer à 0–5 °C — Stockage frais (14–20 jours) ❄️",
+            "text": "L'étape de scellage à froid pour éviter la dégradation du cœur. 💡 Astuce de conservation : Placez les melons emballés dans un sachet Ziploc hermétique et réfrigérez dans le bac à légumes (0–5 °C). Ralentit la fermentation du placenta pendant plus de 2 semaines."
+          },
+          {
+            "name": "Placer au frais à 2–5 °C pendant 2 à 3 heures avant dégustation — Mettre en valeur le sucre 🧊",
+            "text": "Le fructose du melon est perçu comme beaucoup plus doux à basse température. 💡 Astuce de conservation : Mettez les melons bien au frais (2–5 °C) quelques heures avant de consommer pour exalter leur saveur sucrée."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "En coupant le melon oriental, le cœur est translucide, gorgé d'eau ou sent l'alcool. Est-il consommable ?",
+            "answer": "Si le cœur est translucide, plein d'eau ou dégage une odeur d'alcool, il s'agit d'une fermentation interne. Les bactéries ayant envahi la chair, jetez tout le melon par sécurité au lieu de simplement retirer les graines."
+          },
+          {
+            "question": "Comment conserver un morceau de melon oriental entamé ?",
+            "answer": "Le melon coupé exposé à l'air favorise la multiplication bactérienne. Retirez entièrement les graines et le placenta mou à la cuillère, coupez la chair ferme en dés, rangez en boîte hermétique au frais et consommez sous 2 à 3 jours."
+          }
+        ]
+      },
+      "de": {
+        "title": "Orientalische Melonen richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, die Folien-Einwickelmethode zum Feuchtigkeitsschutz und die Haltbarkeit für koreanische Melonen nach offiziellen Richtlinien.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Die orientalische Melone (koreanische Melone/Chameh) ist eine beliebte Sommerfrucht mit leuchtend gelber Schale, knackigem weißem Fleisch und süßem Kerngehäuse! 💛\n\nHaben Sie schon einmal eine Kiste koreanischer Melonen gekauft und im Schrank oder Kühlschrank gelagert, nur um nach wenigen Tagen schrumpelige Schalen und ein vergorenes Kerngehäuse vorzufinden?\n\nOrientalische Melonen bestehen zu über 90 % aus Wasser und sind sehr zuckerreich. Das innere Kerngehäuse ('Plazenta') ist besonders zucker- und feuchtigkeitsreich und somit die anfälligste Stelle für Bakterien und Hefen. Ungeschützt verdunstet zudem Wasser über die Schale, was den Biss ruiniert. In diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber, um das Kerngehäuse zu schützen und die Knackigkeit über 2 Wochen (14 bis 20 Tage) zu bewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der Zuckergehalte und Fermentationsneigung im Kerngehäuse sowie der Schalentranspiration ist entscheidend für Knackigkeit und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Orientalische Melonen vor der Lagerung nicht waschen 💧",
+            "desc": "Wasser in den weißen Rillen und am Stielansatz fördert Schimmel- und Bakterienwachstum. Wischen Sie Staub mit einem trockenen Tuch ab und waschen Sie die Melonen erst direkt vor dem Verzehr."
+          },
+          {
+            "title": "Melonen niemals lange bei Raumtemperatur lagern ⚠️",
+            "desc": "Bei Raumtemperatur (über 20 °C) setzt im Kerngehäuse eine schnelle Selbstfermentation ein (Alkoholgeruch, weiches Fleisch). Kühllagerung ist zwingend erforderlich."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Ungewaschen einzeln fest in Frischhaltefolie einwickeln — Feuchtigkeitssperre 📦",
+            "text": "Der entscheidende Trick für knackiges Fruchtfleisch. 💡 Lagerungstipp: Die trockene Melone einzeln lückenlos in Frischhaltefolie einwickeln. Die Folie blockiert das Verdampfen der Eigenfeuchte und verhindert Schrumpeln."
+          },
+          {
+            "name": "In Ziploc-Beutel legen und bei 0–5 °C kühlen — Kühllagerung (14–20 Tage) ❄️",
+            "text": "Kaltversiegelung gegen Verderb des Kerngehäuses. 💡 Lagerungstipp: Gewickelte Melonen in Ziploc-Beutel legen und im Gemüsefach (0–5 °C) lagern. Verlangsamt die Fermentation des Kerngehäuses für über 2 Wochen Frische."
+          },
+          {
+            "name": "Vor dem Servieren 2–3 Stunden bei 2–5 °C kühlen — Süße intensivieren 🧊",
+            "text": "Fruchtzucker schmeckt gekühlt deutlich süßer. 💡 Lagerungstipp: Kühlen Sie die Melonen vor dem Verzehr 2 bis 3 Stunden gründlich durch. Die Molekularstruktur der Fructose verstärkt die Süßewahrnehmung im kalten Zustand."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Beim Aufschneiden ist das Kerngehäuse glasig, wässrig oder riecht sauer. Kann man die Melone noch essen?",
+            "answer": "Ist das Kerngehäuse glasig, voller Wasser oder riecht nach Alkohol, liegt eine 'vergorene Melone' vor. Da sich Mikroben ins Fruchtfleisch ausgebreitet haben, sollte die Melone komplett entsorgt werden."
+          },
+          {
+            "question": "Wie bewahrt man angeschnittene orientalische Melonen auf?",
+            "answer": "Angeschnittene Melonen bilden an der Luft schnell Bakterien. Kratzen Sie Kerne und das weiche Kerngehäuse mit einem Löffel vollständig heraus, würfeln Sie das feste Fleisch, kühlen Sie es luftdicht und verbrauchen Sie es binnen 2–3 Tagen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar melão oriental fresco: Guia científico de armazenamento",
+        "description": "Descubra a temperatura de armazenamento, técnica de embalagem em filme plástico e tempo de conservação do melão coreano segundo diretrizes oficiais.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "O melão oriental (melão coreano/Chameh) é uma fruta de verão amada pela casca amarela vibrante, polpa crocante e centro de sementes doce (placenta)! 💛\n\nVocê já comprou uma caixa de melões coreanos, deixou na dispensa ou geladeira e poucos dias depois encontrou a casca murcha e o centro fermentado com cheiro azedo?\n\nOs melões orientais contêm mais de 90% de água e alto teor de açúcar. A cavidade interna das sementes ('placenta') é concentrada em umidade e açúcares, sendo a área mais vulnerável onde bactérias e leveduras proliferam primeiro. Além disso, a exposição ao ar causa perda contínua de água pela casca. Neste guia, apresentamos um guia em 3 etapas para proteger o centro de sementes e manter a crocância e o doçor por mais de 2 semanas (14 a 20 dias). 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Compreender a concentração de açúcares e fermentação da placenta, bem como a transpiração da casca, é essencial para manter a textura crocante e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Regras essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Não lave os melões orientais antes de guardar 💧",
+            "desc": "Acumular água nas ranhuras brancas e no cabinho cria o ambiente perfeito para mofo e bactérias. Limpe a sujeira com pano seco e lave apenas na hora de comer."
+          },
+          {
+            "title": "Nunca deixe melões orientais em temperatura ambiente por muito tempo ⚠️",
+            "desc": "Em temperatura ambiente (acima de 20 °C), o centro de sementes passa por autofermentação rápida, desenvolvendo cheiro de álcool e polpa mole. A refrigeração é obrigatória."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Envolver os melões secos individualmente em filme plástico — Barreira de umidade 📦",
+            "text": "O segredo para manter a textura crocante. 💡 Dica de conservação: Sem lavar, envolva cada melão firmemente em filme plástico sem deixar frestas. Isso impede a evaporação de água e evita que a casca murche."
+          },
+          {
+            "name": "Guardar em sacos Ziploc herméticos e refrigerar a 0–5 °C — Refrigeração (14–20 dias) ❄️",
+            "text": "Passo de vedação fria para evitar deterioração do centro. 💡 Dica de conservação: Coloque os melões embalados em sacos Ziploc herméticos e refrigere na gaveta de legumes (0–5 °C). Retarda a fermentação da placenta, mantendo-os frescos por mais de 2 semanas."
+          },
+          {
+            "name": "Gelar a 2–5 °C por 2 a 3 horas antes de servir — Realçar o doçor 🧊",
+            "text": "A frutose é percebida como muito mais doce em temperaturas frias. 💡 Dica de conservação: Gelar bem os melões na geladeira (2–5 °C) algumas horas antes de comer realça a sensação de doçor pela estrutura molecular da frutose."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Ao cortar o melão oriental, o centro de sementes está translúcido, aquoso ou com cheiro azedo. Posso comer?",
+            "answer": "Se o centro de sementes estiver translúcido, cheio de líquido ou com cheiro de álcool/azedo, houve fermentação interna. Como micróbios invadiram a polpa, descarte o melão inteiro por segurança."
+          },
+          {
+            "question": "Como devo guardar o melão oriental cortado que sobrou?",
+            "answer": "O melão cortado exposto ao ar desenvolve bactérias rápido. Remova totalmente as sementes e a placenta macia com uma colher, corte a polpa firme em cubos, guarde em pote hermético na geladeira e consuma em 2 a 3 dias."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Melon Oriental (Melon Korea) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu penyimpanan optimal, teknik membungkus plastik wrap penahan kelembapan, dan masa simpan melon Korea berdasarkan pedoman keselamatan resmi.",
+        "authority": "RDA & USDA & MFDS",
+        "intro": "Melon Oriental (melon Korea/Chameh) adalah buah musim panas favorit dengan kulit kuning cerah, daging buah renyah, dan pusat biji (plasenta) yang sangat manis! 💛\n\nPernahkah Anda membeli satu kotak melon Korea, meninggalkannya di luar atau di kulkas, lalu menemukan kulitnya keriput dan rongga biji bagian dalamnya membusuk berbau asam?\n\nMelon Oriental memiliki kadar air lebih dari 90% dan kadar gula tinggi. Rongga biji bagian dalam ('plasenta') sangat terkonsentrasi air dan gula, menjadikannya area paling rentan tempat bakteri pembusuk dan ragi berkembang biak lebih dulu. Selain itu, membiarkannya terpapar udara luar menyebabkan penguapan air terus-menerus melalui kulit, merusak tekstur renyahnya. Dalam panduan ini, kami membagikan panduan 3 langkah berbasis ilmiah untuk melindungi bagian biji dan menjaga kerenyahan serta kemanisannya selama lebih dari 2 minggu (14 hingga 20 hari). 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami konsentrasi gula tinggi dan sifat fermentasi pada plasenta biji, serta transpirasi kulit buah sangat penting untuk menjaga kerenyahan dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan mencuci melon Oriental sebelum disimpan 💧",
+            "desc": "Air yang terperangkap pada alur putih dan tangkai melon menciptakan lingkungan ideal bagi jamur dan bakteri. Lap debu permukaan dengan kain kering sebelum disimpan, dan cucilah tepat sebelum dimakan."
+          },
+          {
+            "title": "Jangan biarkan melon Oriental di suhu ruang dalam jangka panjang ⚠️",
+            "desc": "Di suhu ruang (di atas 20°C), rongga biji di dalam mengalami fermentasi mandiri secara cepat, menimbulkan bau alkohol dan daging lembek. Penyimpanan kulkas sangat wajib."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Bungkus melon kering secara individual dengan plastik wrap — Pelindung Lembap 📦",
+            "text": "Kunci utama menjaga tekstur renyah yang khas. 💡 Tips Penyimpanan: Tanpa dicuci, bungkus setiap melon secara rapat menggunakan plastik wrap tanpa celah. Plastik wrap menahan penguapan air agar kulit tidak keriput."
+          },
+          {
+            "name": "Masukkan ke kantong ziploc kedap udara dan simpan di kulkas (0–5°C) — Simpan Dingin (14–20 Hari) ❄️",
+            "text": "Langkah penyegelan dingin untuk mencegah pembusukan rongga biji. 💡 Tips Penyimpanan: Masukkan melon terbungkus ke kantong ziploc kedap udara dan simpan di laci sayur kulkas (0–5°C). Memperlambat fermentasi plasenta, menjaganya tetap renyah hingga lebih dari 2 minggu."
+          },
+          {
+            "name": "Dinginkan pada suhu 2–5°C selama 2–3 jam sebelum disajikan — Memaksimalkan Kemanisan 🧊",
+            "text": "Fruktosa pada buah terasa jauh lebih manis saat dingin. 💡 Tips Penyimpanan: Dinginkan melon di kulkas (2–5°C) beberapa jam sebelum dimakan. Sifat molekuler fruktosa akan meningkatkan rasa manis saat disajikan dingin."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Saat melon Oriental dipotong, rongga bijinya transparan, berair, atau berbau asam. Apakah masih aman dimakan?",
+            "answer": "Jika bagian bijinya menjadi transparan, dipenuhi air, atau berbau alkohol/asam, berarti telah terjadi fermentasi internal ('melon terfermentasi'). Mikroba telah menyebar ke daging buah, sehingga demi keamanan sebaiknya buang seluruh melon."
+          },
+          {
+            "question": "Bagaimana cara menyimpan sisa melon Oriental yang sudah dipotong?",
+            "answer": "Melon potong yang terpapar udara akan memicu pertumbuhan bakteri dengan cepat. Keruk biji dan plasenta yang lembek hingga bersih dengan sendok, potong dadu daging buahnya yang padat, simpan dalam wadah kedap udara di kulkas, dan habiskan dalam 2 hingga 3 hari."
+          }
+        ]
+      }
     }
+  }
 }

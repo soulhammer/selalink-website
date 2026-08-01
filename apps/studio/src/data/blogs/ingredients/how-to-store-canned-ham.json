@@ -1,406 +1,406 @@
 {
-    "how-to-store-canned-ham": {
-        "ingId": "canned-ham",
-        "pubDate": "2026-06-29",
-        "updatedDate": "2026-06-29",
-        "heroImage": "/images/blog/canned_ham_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "캔햄·스팸 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 캔햄(스팸)의 최적 보관 온도, 방식 및 개봉 후 보관 기한을 확인하세요.",
-                "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS) & 미국 식품의약국(FDA)",
-                "intro": "명절 선물이나 비상식량으로 필수품인 캔햄(스팸)을 사용하고 남았을 때, 캔째 뚜껑만 덮어 냉장고에 그대로 보관해 두신 적 있으시죠? 🥫\n\n캔햄은 개봉 전에는 완전 멸봉 상태로 상온에서 수년간 안전하게 보존되지만, 일단 캔을 따는 순간 외부 공기와 산소가 유입됩니다. 이때 캔 내철 표면의 주석 성분이 산화되면서 금속 맛이 고기에 스며들고, 지방 산패와 세균 오염이 급격히 진행됩니다.\n\n이번 가이드에서는 미국 농무부(USDA)와 식품의약품안전처의 가이드라인을 바탕으로, 개봉한 캔햄을 금속 맛 없이 끝까지 위생적이고 맛있게 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "개봉 후 절대로 오리지널 금속 캔째 보관하지 마세요 ⚠️",
-                        "desc": "캔을 개봉하면 내부 금속(주석/철) 표면이 산소와 반응하여 부식이 시작됩니다. 용출된 주석 성분이 햄에 스며들어 텁텁한 금속 맛이 나고 식품 안전상으로도 위험하므로, 반드시 다른 용기로 옮겨야 합니다."
-                    },
-                    {
-                        "title": "개봉 후 3~5일 이내에 반드시 소비하세요 🥩",
-                        "desc": "캔햄은 가공육으로 소금과 방부제 성분이 들어있지만, 개봉 후에는 일반 생고기처럼 세균 번식에 노출됩니다. 냉장 보관하더라도 개봉 후 3~5일이 지나면 변질되기 시작하므로 신속히 드셔야 합니다."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "개봉 즉시 밀폐용기나 위생 랩으로 옮겨 냉장 보관하기 — 개봉 후 냉장 보관 (3~5일) ❄️",
-                        "text": "개봉 후 남은 햄은 오리지널 캔에서 바로 꺼내야 합니다. 💡 보관 팁: 햄을 캔에서 통째로 꺼내어 유리나 플라스틱 밀폐 용기에 담거나, 식품용 랩으로 빈틈없이 감싸서 냉장고(0~4℃)에 보관하세요. 공기 접촉을 막아 표면 수분 증발과 냉장고 잡내 흡수를 방지해 줍니다."
-                    },
-                    {
-                        "name": "1회 분량씩 소분하여 랩으로 감싸기 — 소분 포장 📦",
-                        "text": "햄 전체를 통째로 보관하면 요리할 때마다 겉면에 칼이 닿아 공기와 균에 지속적으로 노출됩니다. 💡 보관 팁: 요리 목적에 맞게 슬라이스하거나 깍둑썰기하여 1회 사용할 분량씩 식품용 랩이나 종이 호일로 개별 포장한 뒤 밀폐용기에 넣는 것이 위생적입니다."
-                    },
-                    {
-                        "name": "장기 보관 시 소분 후 냉동실(-18℃ 이하) 보관하기 — 냉동 보관 (30~60일) 🧊",
-                        "text": "남은 햄을 5일 이내에 다 먹기 힘들다면 냉동 보관을 선택하세요. 💡 보관 팁: 1회분씩 슬라이스하여 랩으로 감싼 햄을 지퍼백에 이중 밀봉하여 냉동실(-18℃ 이하)에 두세요. 식감 손상을 줄이기 위해 1~2개월 이내에 소비하는 것이 좋으며, 해동 후 구이용으로 활용하기에 최적입니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "캔햄 표면에 흰색 지방 덩어리가 굳어있는데 상한 건가요?",
-                        "answer": "아닙니다! 캔햄 표면에 보이는 흰색 물질은 햄의 돼지고기 지방(라드)과 젤라틴이 차가운 온도로 인해 자연스럽게 응고된 것입니다. 상한 것이 아니며, 팬에 살짝 구우면 녹아 고소한 풍미를 내므로 안심하고 드셔도 됩니다."
-                    },
-                    {
-                        "question": "캔이 약간 부풀어 올랐거나 심하게 찌그러졌는데 먹어도 되나요?",
-                        "answer": "캔이 팽창했거나 심하게 찌그러졌다면 절대로 드시면 안 됩니다! 캔이 부풀어 오른 것은 내부에서 멸균되지 않은 혐기성 세균(보툴리누스균 등)이 기체를 발생시켰을 가능성이 높으며, 심하게 찌그러진 캔은 미세한 균열로 균이 침입했을 수 있으므로 안전을 위해 즉시 폐기해야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Canned Ham & SPAM Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life after opening for canned ham based on official safety guidelines.",
-                "authority": "USDA & MFDS & FDA",
-                "intro": "Have you ever opened a can of ham or SPAM, used half, and left the remainder inside the original tin back in the fridge? 🥫\n\nWhile canned ham is commercially sterile and shelf-stable at room temperature for years when unopened, opening the tin introduces oxygen. This reacts with the inner metal lining (tin/iron), causing tin oxidation that imparts a metallic flavor to the meat while accelerating lipid rancidity and bacterial growth.\n\nIn this guide, shares a scientifically proven 3-step storage guide based on guidelines from the USDA, FDA, and MFDS to keep your opened canned ham hygienic, flavor-rich, and metallic-taste-free. 🛡️",
-                "whyTitle": "Why Store Canned Ham This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Never store opened ham in its original metal can ⚠️",
-                        "desc": "Once opened, exposure to oxygen causes the interior tin/iron lining of the can to corrode. Leached tin imparts an unpleasant metallic flavor into the meat and poses food safety risks. Always transfer leftover ham to a non-metallic container."
-                    },
-                    {
-                        "title": "Consume within 3 to 5 days after opening 🥩",
-                        "desc": "Although canned ham contains salt and preservatives, opening it exposes the meat to airborne bacteria just like fresh pork. Even under refrigeration, it spoils after 3 to 5 days, so consume it promptly."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Transfer immediately to an airtight container and refrigerate — Refrigerated Storage (3–5 Days) ❄️",
-                        "text": "Always remove leftover ham from the original can right after opening. 💡 Storage Tip: Remove the ham completely from the can and place it in a glass or plastic airtight container, or wrap tightly in food-grade plastic wrap before refrigerating (0–4°C / 32–39°F) to prevent surface drying and fridge odor absorption."
-                    },
-                    {
-                        "name": "Portion into single-use sizes and wrap individually — Portion Wrap 📦",
-                        "text": "Storing the ham block as a whole exposes the meat to knife blades and air every time you slice off a piece. 💡 Storage Tip: Slice or dice the ham into single-cooking portions and wrap each portion tightly in plastic wrap or parchment paper before sealing in a container."
-                    },
-                    {
-                        "name": "Double-seal and freeze for long-term storage — Freezer Storage (30–60 Days) 🧊",
-                        "text": "If you cannot finish the opened ham within 5 days, freezing is the safest method. 💡 Storage Tip: Wrap sliced individual portions tightly in plastic wrap, place them inside a freezer Ziploc bag, and freeze below -18°C (0°F). Consume within 1 to 2 months for best texture, ideal for pan-frying."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "There is a layer of white gelatin/fat on my canned ham. Has it gone bad?",
-                        "answer": "No! The white substance on canned ham is natural pork fat (lard) and gelatin that solidifies when cold. It is completely safe to eat and melts into savory juices when cooked in a pan."
-                    },
-                    {
-                        "question": "The ham can is swollen or dented. Is it still safe to eat?",
-                        "answer": "No, never eat from a swollen or severely dented can! A bulging can indicates the growth of anaerobic bacteria (such as Clostridium botulinum) producing gas inside, while severe dents can cause micro-cracks that compromise sterility. Discard it immediately for your safety."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "缶詰ハム（スパム）を新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づく缶詰ハム（スパム）の最適な保存温度、保管方法、開封後の保存期間をご確認ください。",
-                "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS) & 米国食品医薬品局(FDA)",
-                "intro": "缶詰ハム（スパム）を開封して残った分を、缶のままラップをかけて冷蔵庫に入れていませんか？缶詰ハムは未開封であれば常温で数年間保存できる滅菌食品ですが、開封した瞬間に空気中の酸素が入り込みます。缶の内側の錫（スズ）や鉄が酸化して金属臭が肉に移り、脂質の酸化や雑菌繁殖が急激に進みます。本記事では、米国農務省（USDA）および食品医薬品安全処のガイドラインに基づき、開封後の缶詰ハムを金属臭なく衛生的に最後まで美味しく保存する3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "開封後は絶対に元の缶のまま保存しないでください ⚠️",
-                        "desc": "缶を開封すると内部の金属（スズや鉄）が酸素と反応して腐蝕が進みます。溶け出したスズの成分がハムに移って金属味がするだけでなく、衛生面でも危険なため、必ず別の容器に移し替えてください。"
-                    },
-                    {
-                        "title": "開封後は3〜5日以内に使い切ってください 🥩",
-                        "desc": "缶詰ハムには塩分や保存料が含まれていますが、開封後は生の肉と同様に雑菌の繁殖に晒されます。冷蔵保存であっても3〜5日を過ぎると傷み始めるため、早めにお召し上がりください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "開封後すぐに密閉容器へ移し替えて冷蔵保存する — 開封後冷蔵保存 (3〜5日間) ❄️",
-                        "text": "開封後はすぐに元の缶からハムを取り出してください。💡保存のコツ：ハムを缶から全て出し、ガラスやプラスチックの密閉容器に入れるか、ラップで隙間なく包んで冷蔵庫（0〜4℃）で保存します。表面の乾燥と冷蔵庫のにおい移りを防ぐことができます。"
-                    },
-                    {
-                        "name": "1回分ずつ小分けにしてラップで包む — 小分けラップ保存 📦",
-                        "text": "ハムを塊のまま保存すると、使うたびに包丁や空気に触れて衛生面で劣ります。💡保存のコツ：調理用途に合わせてスライスまたは角切りにし、1回に使う分量ごとにラップやクッキングシートで包んでから密閉容器に入れるのが衛生的です。"
-                    },
-                    {
-                        "name": "長期保存する場合は小分けにして冷凍（-18℃以下）保存する — 冷凍保存 (30〜60日間) 🧊",
-                        "text": "開封したハムを5日以内に使い切れない場合は冷凍保存を選択しましょう。💡保存のコツ：1回分ずつスライスしてラップで包んだハムをチャック付き袋に入れて冷凍室（-18℃以下）で保管します。食感を保つため1〜2ヶ月以内に消費するのが理想的で、解凍後は焼いて食べるのに適しています。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "缶詰ハムの表面に白い塊が固まっていますが、腐っていますか？",
-                        "answer": "腐っていません！缶詰ハムの表面にある白い物体は、豚肉の脂身（ラード）やゼラチンが冷えて自然に固まったものです。安全に召し上がっていただけますし、フライパンで焼くと溶けて香ばしい旨味に変わります。"
-                    },
-                    {
-                        "question": "缶が膨らんでいたり凹んでいたりしますが、食べても大丈夫ですか？",
-                        "answer": "缶が膨らんでいる（膨張）場合や、激しく凹んでいる場合は絶対に食べないでください！缶の膨らみは内部で嫌気性細菌（ボツリヌス菌など）がガスを発生させた可能性が高く、激しい凹みは微細な亀裂から雑菌が侵入している恐れがあるため、安全のため直ちに破棄してください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持午餐肉（罐头咸肉）新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解午餐肉/罐头咸肉的最佳储存温度、方式及开封后的保鲜时长。",
-                "authority": "美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & 美国食品药品监督管理局(FDA)",
-                "intro": "您是否曾将开封后没吃完的午餐肉（如世棒Spam）直接连同马口铁罐一起盖上保鲜膜存放在冰箱里？🥫\n\n罐头午餐肉在未开封时是经过商业无菌处理的常温耐储食品，但一旦开启，空气中的氧气便会涌入。罐内壁的镀锡铁在氧气作用下极易发生氧化腐蚀，不仅会导致金属异味渗入肉中，还会加速油脂酸败与细菌滋生。\n\n本指南将为您介绍基于美国USDA与韩国MFDS指南的3步科学午餐肉保存秘诀，帮您避免金属异味，卫生安心地保鲜每一块午餐肉。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "开封后切勿直接连同原装金属罐一起储存 ⚠️",
-                        "desc": "罐头一旦打开，内部金属（锡/铁）接触氧气会发生氧化与腐蚀。析出的锡元素渗入肉中会产生难闻的金属味，且存在食品安全隐患。因此必须将剩余肉块转移至非金属容器中。"
-                    },
-                    {
-                        "title": "开封后请务必在3~5天内食用完毕 🥩",
-                        "desc": "虽然午餐肉含有盐分和保鲜添加剂，但开封后便与普通鲜肉一样暴露于细菌环境中。即使冷藏，3~5天后也会开始变质，应尽快食用。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "开封后立即转移至密封容器并冷藏 — 开封冷藏保存 (3~5天) ❄️",
-                        "text": "开封后必须立即将剩余午餐肉从原金属罐中取出。💡储存小贴士：将午餐肉整块取出放入玻璃或塑料密封盒中，或用食品级保鲜膜紧密包裹后放入冰箱（0~4℃）冷藏，可防止表面干硬并阻隔冰箱异味。"
-                    },
-                    {
-                        "name": "切成单次食用量分装包裹 — 分块包装 📦",
-                        "text": "整块储存每次切用时都会让肉块接触刀具与空气，增加污染风险。💡储存小贴士：根据烹饪习惯切片或切丁，按单次用量用保鲜膜或烘焙纸单独包裹后再放入密封盒，更加卫生方便。"
-                    },
-                    {
-                        "name": "长期保存请分装后冷冻（-18℃以下） — 冷冻保存 (30~60天) 🧊",
-                        "text": "若开封后5天内无法吃完，冷冻是最佳方案。💡储存小贴士：将切片分装好的午餐肉用保鲜膜包紧，放入冷冻拉链袋中密封，置于冷冻室（-18℃以下）。为维持良好口感，建议在1~2个月内食用，解冻后煎食风味佳。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "午餐肉表面凝结了一层白色油脂，是变质了吗？",
-                        "answer": "不是变质！午餐肉表面的白色物质是猪肉油脂（猪油）和胶原蛋白在低温下自然凝固形成的。完全可以安全食用，下锅煎加热后会融化为香浓的肉汁与油脂。"
-                    },
-                    {
-                        "question": "午餐肉罐头膨胀鼓包或严重变形了，还能吃吗？",
-                        "answer": "绝对不能食用！罐头膨胀鼓包极有可能是内部厌氧菌（如肉毒杆菌）滋生繁殖产生气体所致；而严重凹陷变形的罐头可能存在肉眼难见的微小裂痕导致细菌侵入。出于安全考量，请务必立即丢弃。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener el jamón en lata y SPAM fresco: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos tras su apertura para el jamón en lata según las directrices oficiales de seguridad.",
-                "authority": "USDA & MFDS & FDA",
-                "intro": "¿Alguna vez abrió una lata de jamón o SPAM, usó la mitad y dejó el resto dentro de la propia lata de metal en el refrigerador? 🥫\n\nAunque el jamón en lata es un producto estéril y estable a temperatura ambiente durante años cuando está cerrado, su apertura introduce oxígeno. Este reacciona con el revestimiento metálico interno (estaño/hierro), provocando la oxidación del metal que transmite un sabor metálico a la carne y acelera el enranciamiento de los lípidos y las bacterias.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por el USDA, la FDA y el MFDS para mantener su jamón en lata abierto higiénico, sabroso y libre de sabores metálicos. 🛡️",
-                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "Nunca guarde el jamón abierto en su lata de metal original ⚠️",
-                        "desc": "Una vez abierta, la lata entra en contacto con el oxígeno y el recubrimiento de estaño/hierro se corroe. El estaño lixiviado transmite un desagradable sabor metálico a la carne y representa un riesgo sanitario. Pase siempre el sobrante a un recipiente no metálico."
-                    },
-                    {
-                        "title": "Consuma en un plazo de 3 a 5 días tras la apertura 🥩",
-                        "desc": "Aunque el jamón en lata contiene sal y conservantes, al abrirlo queda expuesto a bacterias como cualquier carne fresca. Incluso en refrigeración empieza a deteriorarse tras 3 a 5 días, por lo que debe consumirse con rapidez."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Transfiera inmediatamente a un recipiente hermético y refrigere — Almacenamiento refrigerado (3–5 días) ❄️",
-                        "text": "Retire siempre el jamón sobrante de la lata de metal justo después de abrirla. 💡 Consejo de almacenamiento: Extraiga el jamón y colóquelo en un recipiente hermético de cristal o plástico, o envuélvalo firmemente con film transparente antes de refrigerar (0–4 °C) para evitar el resecamiento."
-                    },
-                    {
-                        "name": "Corte en porciones individuales y envuelva por separado — Envoltorio en porciones 📦",
-                        "text": "Guardar el bloque entero expone la carne al cuchillo y al aire cada vez que corta una rebanada. 💡 Consejo de almacenamiento: Corte el jamón en lonchas o cubos según sus recetas y envuelva cada porción en film transparente o papel vegetal antes de guardarlas en el recipiente."
-                    },
-                    {
-                        "name": "Doble sellado y congelación para almacenamiento prolongado — Congelación (30–60 días) 🧊",
-                        "text": "Si no va a consumir el jamón en 5 días, la congelación es el método más seguro. 💡 Consejo de almacenamiento: Envuelva las lonchas porcionadas en film transparente, colóquelas en una bolsa Ziploc para congelador y congélelas por debajo de -18 °C. Consuma en 1 a 2 meses para conservar su mejor textura, ideal para dorar en la sartén."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Hay una capa de grasa blanca sólida sobre el jamón. ¿Se ha estropeado?",
-                        "answer": "¡No! Esa capa blanca es grasa de cerdo (manteca) y gelatina natural que se solidifica con el frío. Es totalmente segura de comer y se derrite en deliciosos jugos al cocinarla en la sartén."
-                    },
-                    {
-                        "question": "La lata de jamón está abombada o muy abollada. ¿Sigue siendo segura?",
-                        "answer": "¡No, nunca consuma un producto de una lata hinchada o muy abollada! Una lata abombada indica la presencia de bacterias anaerobias (como Clostridium botulinum) que producen gas en el interior, mientras que las abolladuras graves pueden causar fisuras microscópicas por las que entran bacterias. Deséchela de inmediato por seguridad."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver le jambon en boîte (SPAM) frais : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales après ouverture pour le jambon en boîte selon les directives officielles de sécurité.",
-                "authority": "USDA & MFDS & FDA",
-                "intro": "Avez-vous déjà ouvert une boîte de jambon ou de SPAM, utilisé la moitié et laissé le reste directement dans sa boîte métallique au réfrigérateur ? 🥫\n\nSi le jambon en conserve est stérile et se conserve des années à température ambiante tant qu'il est fermé, l'ouverture y introduit de l'oxygène. Cela fait réagir le métal intérieur (étain/fer), entraînant une oxydation qui donne un goût métallique à la viande tout en accélérant le rancissement des graisses et le développement bactérien.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA, de la FDA et du MFDS pour préserver votre jambon en boîte hygiénique, savoureux et sans goût métallique après ouverture. 🛡️",
-                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne conservez jamais le jambon ouvert dans sa boîte métallique d'origine ⚠️",
-                        "desc": "Une fois la boîte ouverte, l'exposition à l'oxygène corrode le revêtement en étain/fer. L'étain qui s'en détache donne un désagréable goût métallique à la viande et présente des risques sanitaires. Transférez toujours le jambon restants dans un récipient non métallique."
-                    },
-                    {
-                        "title": "Consommez dans les 3 à 5 jours suivant l'ouverture 🥩",
-                        "desc": "Bien que le jambon en conserve contienne du sel et des conservateurs, son ouverture l'expose aux bactéries comme de la viande fraîche. Même au réfrigérateur, il commence à se détériorer après 3 à 5 jours ; consommez-le rapidement."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Transférer immédiatement dans un récipient hermétique et réfrigérer — Conservation réfrigérée (3–5 jours) ❄️",
-                        "text": "Retirez toujours le jambon restant de la boîte métallique juste après l'avoir ouverte. 💡 Astuce de conservation : Sortez le bloc de jambon et placez-le dans une boîte hermétique en verre ou en plastique, ou enveloppez-le hermétiquement dans du film étirable avant de le réfrigérer (0–4 °C) pour éviter le dessèchement."
-                    },
-                    {
-                        "name": "Portionner en sous-unités et envelopper individuellement — Emballage individuel 📦",
-                        "text": "Garder le bloc entier expose la viande aux lames de couteau et à l'air à chaque fois que vous en coupez un morceau. 💡 Astuce de conservation : Tranchez ou découpez le jambon en dés selon vos besoins et enveloppez chaque portion dans du film étirable ou du papier cuisson avant de sceller le tout."
-                    },
-                    {
-                        "name": "Double-sceller et congeler pour un stockage prolongé — Congélation (30–60 jours) 🧊",
-                        "text": "Si vous ne pouvez pas consommer le jambon dans les 5 jours, la congélation est la solution. 💡 Astuce de conservation : Enveloppez les tranches individuellement dans du film étirable, placez-les dans un sac congélation Ziploc et congelez à -18 °C. Consommez dans les 1 à 2 mois pour préserver sa texture, idéal pour griller à la poêle."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Une couche de graisse blanche s'est figée sur le jambon. Est-il périmé ?",
-                        "answer": "Non ! La matière blanche sur le jambon en conserve est de la graisse de porc (saindoux) et de la gélatine naturelle qui se solidifient au froid. Elle est parfaitement propre à la consommation et fond en un jus savoureux à la cuisson."
-                    },
-                    {
-                        "question": "La boîte de jambon est bombée ou très déformée. Est-elle encore consommable ?",
-                        "answer": "Non, ne consommez jamais le produit d'une boîte bombée ou très cabossée ! Une boîte gonflée indique la prolifération de bactéries anaérobies (comme Clostridium botulinum) produisant des gaz, tandis que de fortes déformations peuvent créer des micro-fissures laissant entrer les bactéries. Jetez-la immédiatement par sécurité."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Dosenschinken & SPAM richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit nach dem Öffnen für Dosenschinken basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "USDA & MFDS & FDA",
-                "intro": "Haben Sie schon einmal eine Dose Schinken oder SPAM geöffnet, die Hälfte verbraucht und den Rest direkt in der geöffneten Metalldose im Kühlschrank aufbewahrt? 🥫\n\nUngeöffnet ist Dosenschinken kommerziell steril und bei Raumtemperatur jahrelang haltbar. Durch das Öffnen gelangt jedoch Sauerstoff in die Dose. Dieser reagiert mit der inneren Metallbeschichtung (Zinn/Eisen), was zu einer Zinnoxidation führt, die dem Fleisch einen metallischen Beigeschmack verleiht und die Fettoxidation beschleunigt.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Sicherheitsrichtlinien von USDA, FDA und MFDS basiert, um Ihren geöffneten Dosenschinken hygienisch, geschmackvoll und frei von Metallgeschmack zu halten. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Geöffneten Schinken niemals in der originalen Metalldose aufbewahren ⚠️",
-                        "desc": "Nach dem Öffnen führt Sauerstoffkontakt zur Korrosion der inneren Zinn-/Eisenbeschichtung. Das herausgelöste Zinn verleiht dem Fleisch einen unangenehmen Metallgeschmack und birgt gesundheitliche Risiken. Füllen Sie den Schinken immer in einen nicht-metallischen Behälter um."
-                    },
-                    {
-                        "title": "Nach dem Öffnen innerhalb von 3 bis 5 Tagen verbrauchen 🥩",
-                        "desc": "Obwohl Dosenschinken Salz und Konservierungsstoffe enthält, ist er nach dem Öffnen wie frisches Fleisch Bakterien ausgesetzt. Selbst im Kühlschrank beginnt er nach 3 bis 5 Tagen zu verderben, verbrauchen Sie ihn daher zügig."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Sofort in einen luftdichten Behälter umfüllen und kühlen — Kühllagerung (3–5 Tage) ❄️",
-                        "text": "Entnehmen Sie den Schinken nach dem Öffnen immer direkt aus der Metalldose. 💡 Lagerungstipp: Nehmen Sie den Schinken aus der Dose und geben Sie ihn in eine Glas- oder Plastikdose oder wickeln Sie ihn fest in Frischhaltefolie, bevor Sie ihn im Kühlschrank (0–4 °C) aufbewahren."
-                    },
-                    {
-                        "name": "In Portionsgrößen schneiden und einzeln einwickeln — Portionsverpackung 📦",
-                        "text": "Wird der Schinken als ganzer Block gelagert, kommt das Fleisch bei jedem Abschneiden mit dem Messer und der Luft in Kontakt. 💡 Lagerungstipp: Schneiden Sie den Schinken in Scheiben oder Würfel und wickeln Sie jede Portion fest in Frischhaltefolie oder Backpapier, bevor Sie ihn verschließen."
-                    },
-                    {
-                        "name": "Für die Langzeitlagerung doppelt versiegeln und einfrieren — Gefrierlagerung (30–60 Tage) 🧊",
-                        "text": "Wenn Sie den Schinken nicht innerhalb von 5 Tagen verbrauchen können, ist Einfrieren die beste Wahl. 💡 Lagerungstipp: Wickeln Sie die einzelnen Scheiben fest in Folie, geben Sie sie in einen Ziploc-Gefrierbeutel und frieren Sie sie bei unter -18 °C ein. Für optimale Textur innerhalb von 1 bis 2 Monaten verbrauchen."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Auf dem Dosenschinken befindet sich eine weiße Fett-/Gelatineschicht. Ist er verdorben?",
-                        "answer": "Nein! Bei der weißen Schicht handelt es sich um natürliches Schweinefett (Schmalz) und Gelatine, die bei Kälte fest werden. Das Fett ist völlig unbedenklich und schmilzt beim Anbraten in der Pfanne zu schmackhaftem Bratensaft."
-                    },
-                    {
-                        "question": "Die Schinkendose ist aufgebläht oder stark eingedrückt. Ist der Inhalt noch essbar?",
-                        "answer": "Nein, verzehren Sie niemals Schinken aus aufgeblähten oder stark eingedrückten Dosen! Eine Wölbung deutet auf das Wachstum anärober Bakterien (wie Clostridium botulinum) hin, die Gase bilden. Starke Dellen können Mikrorisse verursachen, durch die Keime eindringen. Entsorgen Sie die Dose sofort."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar presunto em lata (SPAM) fresco: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais após a abertura para o presunto em lata com base em diretrizes oficiais de segurança.",
-                "authority": "USDA & MFDS & FDA",
-                "intro": "Você já abriu uma lata de presunto (ou SPAM), usou a metade e guardou o restante dentro da própria lata de metal na geladeira? 🥫\n\nEmbora o presunto em lata seja comercialmente estéril e durável em temperatura ambiente por anos quando fechado, abri-lo introduz oxigênio. Isso faz com que o metal interno (estanho/ferro) reaja e oxide, transferindo um gosto metálico para a carne e acelerando a oxidação de gorduras e contaminação.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes do USDA, FDA e MFDS para manter seu presunto em lata aberto higiênico, saboroso e livre de gostos metálicos. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Nunca guarde o presunto aberto em sua lata de metal original ⚠️",
-                        "desc": "Após aberta, a exposição ao oxigênio corroi o revestimento interno de estanho/ferro da lata. O estanho lixiviado confere um gosto metálico desagradável à carne e traz riscos à saúde. Transfira sempre o produto para um pote não metálico."
-                    },
-                    {
-                        "title": "Consuma em até 3 a 5 dias após a abertura 🥩",
-                        "desc": "Apesar de conter sal e conservantes, o presunto em lata aberto fica exposto a bactérias como qualquer carne fresca. Mesmo na geladeira ele começa a estragar após 3 a 5 dias, devendo ser consumido rapidamente."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Transfira imediatamente para um pote hermético e refrigere — Refrigeração (3–5 dias) ❄️",
-                        "text": "Retire todo o presunto restante da lata de metal logo após a abertura. 💡 Dica de conservação: Retire o bloco e coloque-o num pote hermético de vidro ou plástico, ou envolva-o firmemente em filme plástico antes de refrigerar (0–4 °C) para evitar o ressecamento."
-                    },
-                    {
-                        "name": "Corte em porções individuais e embrulhe separadamente — Embalagem em porções 📦",
-                        "text": "Guardar o bloco inteiro expõe a carne à faca e ao ar a cada vez que você corta uma fatia. 💡 Dica de conservação: Fatie ou corte em cubos de acordo com suas receitas e embrulhe cada porção em filme plástico ou papel manteiga antes de guardar no pote."
-                    },
-                    {
-                        "name": "Sela em saco duplo e congele para armazenamento prolongado — Congelamento (30–60 dias) 🧊",
-                        "text": "Se não for consumir o presunto em 5 dias, o congelamento é a melhor opção. 💡 Dica de conservação: Embrulhe as fatias em filme plástico, coloque num saco Ziploc para freezer e congele a menos de -18 °C. Consuma em 1 a 2 meses para preservar a textura, ideal para grelhar na frigideira."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Há uma camada sólida de gordura branca sobre o presunto. Ele estragou?",
-                        "answer": "Não! A substância branca no presunto em lata é gordura suína (banha) e gelatina natural que se solidificam no frio. É totalmente segura para consumo e derrete formando um suco saboroso ao grelhar na frigideira."
-                    },
-                    {
-                        "question": "A lata de presunto está estufada ou muito amassada. Ainda é segura?",
-                        "answer": "Não, nunca consuma presunto de uma lata estufada ou muito amassada! Uma lata estufada indica proliferação de bactérias anaeróbicas (como Clostridium botulinum) produzindo gás, enquanto amassados graves podem gerar microfissuras que contaminam o produto. Descarte imediatamente."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Daging Kornet / Daging Kaleng (SPAM) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik setelah dibuka untuk daging olahan kaleng berdasarkan pedoman keselamatan resmi.",
-                "authority": "USDA & MFDS & FDA",
-                "intro": "Pernahkah Anda membuka kaleng daging olahan (kornet/SPAM), menggunakannya sebagian, lalu meninggalkan sisanya di dalam kaleng logam semula di kulkas? 🥫\n\nMeskipun daging olahan kaleng steril dan tahan lama pada suhu ruang saat belum dibuka, membuka kaleng akan memasukkan oksigen. Oksigen bereaksi dengan lapisan logam dalam kaleng (timah/besi), menyebabkan korosi yang memberikan rasa logam pada daging serta mempercepat ketengikan lemak dan bakteri.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman USDA, FDA, dan MFDS untuk menjaga daging kaleng Anda tetap higienis, lezat, dan bebas rasa logam setelah dibuka. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan pernah menyimpan daging kaleng yang sudah dibuka di dalam kaleng logam aslinya ⚠️",
-                        "desc": "Setelah dibuka, paparan oksigen menyebabkan lapisan logam timah/besi dalam kaleng terkorosi. Timah yang terlarut memberikan rasa logam yang tidak enak pada daging dan berisiko bagi kesehatan. Selalu pindahkan sisa daging ke wadah non-logam."
-                    },
-                    {
-                        "title": "Konsumsi dalam waktu 3 hingga 5 hari setelah dibuka 🥩",
-                        "desc": "Meskipun daging kaleng mengandung garam dan pengawet, membukanya membuat daging terpapar bakteri udara seperti daging segar. Bahkan di dalam kulkas, daging akan mulai rusak setelah 3–5 hari, jadi habiskan segera."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Segera pindahkan ke wadah kedap udara dan simpan di kulkas — Simpan Dingin (3–5 Hari) ❄️",
-                        "text": "Selalu keluarkan sisa daging dari kaleng logam tepat setelah dibuka. 💡 Tips Penyimpanan: Keluarkan seluruh daging dari kaleng dan masukkan ke dalam wadah kedap udara kaca/plastik, atau bungkus rapat dengan plastik wrap sebelum disimpan di kulkas (0–4°C) untuk mencegah permukaan mengering."
-                    },
-                    {
-                        "name": "Potong menjadi porsi sekali pakai dan bungkus terpisah — Bungkus Porsi 📦",
-                        "text": "Menyimpan daging dalam bentuk blok utuh membuat daging terpapar pisau dan udara setiap kali Anda memotongnya. 💡 Tips Penyimpanan: Iris atau potong dadu daging sesuai kebutuhan memasak dan bungkus setiap porsi dengan plastik wrap atau kertas roti sebelum disimpan dalam wadah."
-                    },
-                    {
-                        "name": "Segel ganda dan bekukan untuk penyimpanan jangka panjang — Simpan Freezer (30–60 Hari) 🧊",
-                        "text": "Jika Anda tidak dapat menghabiskan daging dalam waktu 5 hari, membekukannya adalah metode paling aman. 💡 Tips Penyimpanan: Bungkus irisan daging secara terpisah dengan plastik wrap, masukkan ke kantong Ziploc freezer, lalu bekukan di bawah -18°C. Habiskan dalam 1–2 bulan untuk tekstur terbaik, sangat cocok untuk digoreng."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Ada lapisan lemak putih yang memadat di permukaan daging kaleng. Apakah sudah basi?",
-                        "answer": "Tidak! Lapisan putih pada daging kaleng adalah lemak babi/sapi alami dan gelatin yang memadat saat dingin. Sangat aman dimakan dan akan mencair menjadi kuah gurih saat dimasak di atas wajan."
-                    },
-                    {
-                        "question": "Kaleng daging tampak kembung atau penyok parah. Apakah masih aman dimakan?",
-                        "answer": "Tidak, jangan pernah mengonsumsi makanan dari kaleng yang kembung atau penyok parah! Kaleng yang kembung menandakan adanya pertumbuhan bakteri anaerob (seperti Clostridium botulinum) yang menghasilkan gas, sedangkan penyok parah dapat menyebabkan retakan mikro yang mengontaminasi isi. Segera buang demi keselamatan Anda."
-                    }
-                ]
-            }
-        }
+  "how-to-store-canned-ham": {
+    "ingId": "canned-ham",
+    "pubDate": "2026-06-29",
+    "updatedDate": "2026-06-29",
+    "heroImage": "/images/blog/canned_ham_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "캔햄·스팸 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 캔햄(스팸)의 최적 보관 온도, 방식 및 개봉 후 보관 기한을 확인하세요.",
+        "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS) & 미국 식품의약국(FDA)",
+        "intro": "명절 선물이나 비상식량으로 필수품인 캔햄(스팸)을 사용하고 남았을 때, 캔째 뚜껑만 덮어 냉장고에 그대로 보관해 두신 적 있으시죠? 🥫\n\n캔햄은 개봉 전에는 완전 멸봉 상태로 상온에서 수년간 안전하게 보존되지만, 일단 캔을 따는 순간 외부 공기와 산소가 유입됩니다. 이때 캔 내철 표면의 주석 성분이 산화되면서 금속 맛이 고기에 스며들고, 지방 산패와 세균 오염이 급격히 진행됩니다.\n\n이번 가이드에서는 미국 농무부(USDA)와 식품의약품안전처의 가이드라인을 바탕으로, 개봉한 캔햄을 금속 맛 없이 끝까지 위생적이고 맛있게 보관하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적·화학적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "개봉 후 절대로 오리지널 금속 캔째 보관하지 마세요 ⚠️",
+            "desc": "캔을 개봉하면 내부 금속(주석/철) 표면이 산소와 반응하여 부식이 시작됩니다. 용출된 주석 성분이 햄에 스며들어 텁텁한 금속 맛이 나고 식품 안전상으로도 위험하므로, 반드시 다른 용기로 옮겨야 합니다."
+          },
+          {
+            "title": "개봉 후 3~5일 이내에 반드시 소비하세요 🥩",
+            "desc": "캔햄은 가공육으로 소금과 방부제 성분이 들어있지만, 개봉 후에는 일반 생고기처럼 세균 번식에 노출됩니다. 냉장 보관하더라도 개봉 후 3~5일이 지나면 변질되기 시작하므로 신속히 드셔야 합니다."
+          }
+        ],
+        "steps": [
+          {
+            "name": "개봉 즉시 밀폐용기나 위생 랩으로 옮겨 냉장 보관하기 — 개봉 후 냉장 보관 (3~5일) ❄️",
+            "text": "개봉 후 남은 햄은 오리지널 캔에서 바로 꺼내야 합니다. 💡 보관 팁: 햄을 캔에서 통째로 꺼내어 유리나 플라스틱 밀폐 용기에 담거나, 식품용 랩으로 빈틈없이 감싸서 냉장고(0~4℃)에 보관하세요. 공기 접촉을 막아 표면 수분 증발과 냉장고 잡내 흡수를 방지해 줍니다."
+          },
+          {
+            "name": "1회 분량씩 소분하여 랩으로 감싸기 — 소분 포장 📦",
+            "text": "햄 전체를 통째로 보관하면 요리할 때마다 겉면에 칼이 닿아 공기와 균에 지속적으로 노출됩니다. 💡 보관 팁: 요리 목적에 맞게 슬라이스하거나 깍둑썰기하여 1회 사용할 분량씩 식품용 랩이나 종이 호일로 개별 포장한 뒤 밀폐용기에 넣는 것이 위생적입니다."
+          },
+          {
+            "name": "장기 보관 시 소분 후 냉동실(-18℃ 이하) 보관하기 — 냉동 보관 (30~60일) 🧊",
+            "text": "남은 햄을 5일 이내에 다 먹기 힘들다면 냉동 보관을 선택하세요. 💡 보관 팁: 1회분씩 슬라이스하여 랩으로 감싼 햄을 지퍼백에 이중 밀봉하여 냉동실(-18℃ 이하)에 두세요. 식감 손상을 줄이기 위해 1~2개월 이내에 소비하는 것이 좋으며, 해동 후 구이용으로 활용하기에 최적입니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "캔햄 표면에 흰색 지방 덩어리가 굳어있는데 상한 건가요?",
+            "answer": "아닙니다! 캔햄 표면에 보이는 흰색 물질은 햄의 돼지고기 지방(라드)과 젤라틴이 차가운 온도로 인해 자연스럽게 응고된 것입니다. 상한 것이 아니며, 팬에 살짝 구우면 녹아 고소한 풍미를 내므로 안심하고 드셔도 됩니다."
+          },
+          {
+            "question": "캔이 약간 부풀어 올랐거나 심하게 찌그러졌는데 먹어도 되나요?",
+            "answer": "캔이 팽창했거나 심하게 찌그러졌다면 절대로 드시면 안 됩니다! 캔이 부풀어 오른 것은 내부에서 멸균되지 않은 혐기성 세균(보툴리누스균 등)이 기체를 발생시켰을 가능성이 높으며, 심하게 찌그러진 캔은 미세한 균열로 균이 침입했을 수 있으므로 안전을 위해 즉시 폐기해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Canned Ham & SPAM Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life after opening for canned ham based on official safety guidelines.",
+        "authority": "USDA & MFDS & FDA",
+        "intro": "Have you ever opened a can of ham or SPAM, used half, and left the remainder inside the original tin back in the fridge? 🥫\n\nWhile canned ham is commercially sterile and shelf-stable at room temperature for years when unopened, opening the tin introduces oxygen. This reacts with the inner metal lining (tin/iron), causing tin oxidation that imparts a metallic flavor to the meat while accelerating lipid rancidity and bacterial growth.\n\nIn this guide, shares a scientifically proven 3-step storage guide based on guidelines from the USDA, FDA, and MFDS to keep your opened canned ham hygienic, flavor-rich, and metallic-taste-free. 🛡️",
+        "whyTitle": "Why Store Canned Ham This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological and chemical characteristics of each food item and applying the right storage method is crucial for maintaining freshness and hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Never store opened ham in its original metal can ⚠️",
+            "desc": "Once opened, exposure to oxygen causes the interior tin/iron lining of the can to corrode. Leached tin imparts an unpleasant metallic flavor into the meat and poses food safety risks. Always transfer leftover ham to a non-metallic container."
+          },
+          {
+            "title": "Consume within 3 to 5 days after opening 🥩",
+            "desc": "Although canned ham contains salt and preservatives, opening it exposes the meat to airborne bacteria just like fresh pork. Even under refrigeration, it spoils after 3 to 5 days, so consume it promptly."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Transfer immediately to an airtight container and refrigerate — Refrigerated Storage (3–5 Days) ❄️",
+            "text": "Always remove leftover ham from the original can right after opening. 💡 Storage Tip: Remove the ham completely from the can and place it in a glass or plastic airtight container, or wrap tightly in food-grade plastic wrap before refrigerating (0–4°C / 32–39°F) to prevent surface drying and fridge odor absorption."
+          },
+          {
+            "name": "Portion into single-use sizes and wrap individually — Portion Wrap 📦",
+            "text": "Storing the ham block as a whole exposes the meat to knife blades and air every time you slice off a piece. 💡 Storage Tip: Slice or dice the ham into single-cooking portions and wrap each portion tightly in plastic wrap or parchment paper before sealing in a container."
+          },
+          {
+            "name": "Double-seal and freeze for long-term storage — Freezer Storage (30–60 Days) 🧊",
+            "text": "If you cannot finish the opened ham within 5 days, freezing is the safest method. 💡 Storage Tip: Wrap sliced individual portions tightly in plastic wrap, place them inside a freezer Ziploc bag, and freeze below -18°C (0°F). Consume within 1 to 2 months for best texture, ideal for pan-frying."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "There is a layer of white gelatin/fat on my canned ham. Has it gone bad?",
+            "answer": "No! The white substance on canned ham is natural pork fat (lard) and gelatin that solidifies when cold. It is completely safe to eat and melts into savory juices when cooked in a pan."
+          },
+          {
+            "question": "The ham can is swollen or dented. Is it still safe to eat?",
+            "answer": "No, never eat from a swollen or severely dented can! A bulging can indicates the growth of anaerobic bacteria (such as Clostridium botulinum) producing gas inside, while severe dents can cause micro-cracks that compromise sterility. Discard it immediately for your safety."
+          }
+        ]
+      },
+      "ja": {
+        "title": "缶詰ハム（スパム）を新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づく缶詰ハム（スパム）の最適な保存温度、保管方法、開封後の保存期間をご確認ください。",
+        "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS) & 米国食品医薬品局(FDA)",
+        "intro": "缶詰ハム（スパム）を開封して残った分を、缶のままラップをかけて冷蔵庫に入れていませんか？缶詰ハムは未開封であれば常温で数年間保存できる滅菌食品ですが、開封した瞬間に空気中の酸素が入り込みます。缶の内側の錫（スズ）や鉄が酸化して金属臭が肉に移り、脂質の酸化や雑菌繁殖が急激に進みます。本記事では、米国農務省（USDA）および食品医薬品安全処のガイドラインに基づき、開封後の缶詰ハムを金属臭なく衛生的に最後まで美味しく保存する3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的・化学的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "開封後は絶対に元の缶のまま保存しないでください ⚠️",
+            "desc": "缶を開封すると内部の金属（スズや鉄）が酸素と反応して腐蝕が進みます。溶け出したスズの成分がハムに移って金属味がするだけでなく、衛生面でも危険なため、必ず別の容器に移し替えてください。"
+          },
+          {
+            "title": "開封後は3〜5日以内に使い切ってください 🥩",
+            "desc": "缶詰ハムには塩分や保存料が含まれていますが、開封後は生の肉と同様に雑菌の繁殖に晒されます。冷蔵保存であっても3〜5日を過ぎると傷み始めるため、早めにお召し上がりください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "開封後すぐに密閉容器へ移し替えて冷蔵保存する — 開封後冷蔵保存 (3〜5日間) ❄️",
+            "text": "開封後はすぐに元の缶からハムを取り出してください。💡保存のコツ：ハムを缶から全て出し、ガラスやプラスチックの密閉容器に入れるか、ラップで隙間なく包んで冷蔵庫（0〜4℃）で保存します。表面の乾燥と冷蔵庫のにおい移りを防ぐことができます。"
+          },
+          {
+            "name": "1回分ずつ小分けにしてラップで包む — 小分けラップ保存 📦",
+            "text": "ハムを塊のまま保存すると、使うたびに包丁や空気に触れて衛生面で劣ります。💡保存のコツ：調理用途に合わせてスライスまたは角切りにし、1回に使う分量ごとにラップやクッキングシートで包んでから密閉容器に入れるのが衛生的です。"
+          },
+          {
+            "name": "長期保存する場合は小分けにして冷凍（-18℃以下）保存する — 冷凍保存 (30〜60日間) 🧊",
+            "text": "開封したハムを5日以内に使い切れない場合は冷凍保存を選択しましょう。💡保存のコツ：1回分ずつスライスしてラップで包んだハムをチャック付き袋に入れて冷凍室（-18℃以下）で保管します。食感を保つため1〜2ヶ月以内に消費するのが理想的で、解凍後は焼いて食べるのに適しています。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "缶詰ハムの表面に白い塊が固まっていますが、腐っていますか？",
+            "answer": "腐っていません！缶詰ハムの表面にある白い物体は、豚肉の脂身（ラード）やゼラチンが冷えて自然に固まったものです。安全に召し上がっていただけますし、フライパンで焼くと溶けて香ばしい旨味に変わります。"
+          },
+          {
+            "question": "缶が膨らんでいたり凹んでいたりしますが、食べても大丈夫ですか？",
+            "answer": "缶が膨らんでいる（膨張）場合や、激しく凹んでいる場合は絶対に食べないでください！缶の膨らみは内部で嫌気性細菌（ボツリヌス菌など）がガスを発生させた可能性が高く、激しい凹みは微細な亀裂から雑菌が侵入している恐れがあるため、安全のため直ちに破棄してください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持午餐肉（罐头咸肉）新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解午餐肉/罐头咸肉的最佳储存温度、方式及开封后的保鲜时长。",
+        "authority": "美国农务部(USDA) & 韩国食品医药品安全处(MFDS) & 美国食品药品监督管理局(FDA)",
+        "intro": "您是否曾将开封后没吃完的午餐肉（如世棒Spam）直接连同马口铁罐一起盖上保鲜膜存放在冰箱里？🥫\n\n罐头午餐肉在未开封时是经过商业无菌处理的常温耐储食品，但一旦开启，空气中的氧气便会涌入。罐内壁的镀锡铁在氧气作用下极易发生氧化腐蚀，不仅会导致金属异味渗入肉中，还会加速油脂酸败与细菌滋生。\n\n本指南将为您介绍基于美国USDA与韩国MFDS指南的3步科学午餐肉保存秘诀，帮您避免金属异味，卫生安心地保鲜每一块午餐肉。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理与化学特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "开封后切勿直接连同原装金属罐一起储存 ⚠️",
+            "desc": "罐头一旦打开，内部金属（锡/铁）接触氧气会发生氧化与腐蚀。析出的锡元素渗入肉中会产生难闻的金属味，且存在食品安全隐患。因此必须将剩余肉块转移至非金属容器中。"
+          },
+          {
+            "title": "开封后请务必在3~5天内食用完毕 🥩",
+            "desc": "虽然午餐肉含有盐分和保鲜添加剂，但开封后便与普通鲜肉一样暴露于细菌环境中。即使冷藏，3~5天后也会开始变质，应尽快食用。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "开封后立即转移至密封容器并冷藏 — 开封冷藏保存 (3~5天) ❄️",
+            "text": "开封后必须立即将剩余午餐肉从原金属罐中取出。💡储存小贴士：将午餐肉整块取出放入玻璃或塑料密封盒中，或用食品级保鲜膜紧密包裹后放入冰箱（0~4℃）冷藏，可防止表面干硬并阻隔冰箱异味。"
+          },
+          {
+            "name": "切成单次食用量分装包裹 — 分块包装 📦",
+            "text": "整块储存每次切用时都会让肉块接触刀具与空气，增加污染风险。💡储存小贴士：根据烹饪习惯切片或切丁，按单次用量用保鲜膜或烘焙纸单独包裹后再放入密封盒，更加卫生方便。"
+          },
+          {
+            "name": "长期保存请分装后冷冻（-18℃以下） — 冷冻保存 (30~60天) 🧊",
+            "text": "若开封后5天内无法吃完，冷冻是最佳方案。💡储存小贴士：将切片分装好的午餐肉用保鲜膜包紧，放入冷冻拉链袋中密封，置于冷冻室（-18℃以下）。为维持良好口感，建议在1~2个月内食用，解冻后煎食风味佳。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "午餐肉表面凝结了一层白色油脂，是变质了吗？",
+            "answer": "不是变质！午餐肉表面的白色物质是猪肉油脂（猪油）和胶原蛋白在低温下自然凝固形成的。完全可以安全食用，下锅煎加热后会融化为香浓的肉汁与油脂。"
+          },
+          {
+            "question": "午餐肉罐头膨胀鼓包或严重变形了，还能吃吗？",
+            "answer": "绝对不能食用！罐头膨胀鼓包极有可能是内部厌氧菌（如肉毒杆菌）滋生繁殖产生气体所致；而严重凹陷变形的罐头可能存在肉眼难见的微小裂痕导致细菌侵入。出于安全考量，请务必立即丢弃。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener el jamón en lata y SPAM fresco: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y el tiempo de conservación óptimos tras su apertura para el jamón en lata según las directrices oficiales de seguridad.",
+        "authority": "USDA & MFDS & FDA",
+        "intro": "¿Alguna vez abrió una lata de jamón o SPAM, usó la mitad y dejó el resto dentro de la propia lata de metal en el refrigerador? 🥫\n\nAunque el jamón en lata es un producto estéril y estable a temperatura ambiente durante años cuando está cerrado, su apertura introduce oxígeno. Este reacciona con el revestimiento metálico interno (estaño/hierro), provocando la oxidación del metal que transmite un sabor metálico a la carne y acelera el enranciamiento de los lípidos y las bacterias.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por el USDA, la FDA y el MFDS para mantener su jamón en lata abierto higiénico, sabroso y libre de sabores metálicos. 🛡️",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas y químicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "Nunca guarde el jamón abierto en su lata de metal original ⚠️",
+            "desc": "Una vez abierta, la lata entra en contacto con el oxígeno y el recubrimiento de estaño/hierro se corroe. El estaño lixiviado transmite un desagradable sabor metálico a la carne y representa un riesgo sanitario. Pase siempre el sobrante a un recipiente no metálico."
+          },
+          {
+            "title": "Consuma en un plazo de 3 a 5 días tras la apertura 🥩",
+            "desc": "Aunque el jamón en lata contiene sal y conservantes, al abrirlo queda expuesto a bacterias como cualquier carne fresca. Incluso en refrigeración empieza a deteriorarse tras 3 a 5 días, por lo que debe consumirse con rapidez."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Transfiera inmediatamente a un recipiente hermético y refrigere — Almacenamiento refrigerado (3–5 días) ❄️",
+            "text": "Retire siempre el jamón sobrante de la lata de metal justo después de abrirla. 💡 Consejo de almacenamiento: Extraiga el jamón y colóquelo en un recipiente hermético de cristal o plástico, o envuélvalo firmemente con film transparente antes de refrigerar (0–4 °C) para evitar el resecamiento."
+          },
+          {
+            "name": "Corte en porciones individuales y envuelva por separado — Envoltorio en porciones 📦",
+            "text": "Guardar el bloque entero expone la carne al cuchillo y al aire cada vez que corta una rebanada. 💡 Consejo de almacenamiento: Corte el jamón en lonchas o cubos según sus recetas y envuelva cada porción en film transparente o papel vegetal antes de guardarlas en el recipiente."
+          },
+          {
+            "name": "Doble sellado y congelación para almacenamiento prolongado — Congelación (30–60 días) 🧊",
+            "text": "Si no va a consumir el jamón en 5 días, la congelación es el método más seguro. 💡 Consejo de almacenamiento: Envuelva las lonchas porcionadas en film transparente, colóquelas en una bolsa Ziploc para congelador y congélelas por debajo de -18 °C. Consuma en 1 a 2 meses para conservar su mejor textura, ideal para dorar en la sartén."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Hay una capa de grasa blanca sólida sobre el jamón. ¿Se ha estropeado?",
+            "answer": "¡No! Esa capa blanca es grasa de cerdo (manteca) y gelatina natural que se solidifica con el frío. Es totalmente segura de comer y se derrite en deliciosos jugos al cocinarla en la sartén."
+          },
+          {
+            "question": "La lata de jamón está abombada o muy abollada. ¿Sigue siendo segura?",
+            "answer": "¡No, nunca consuma un producto de una lata hinchada o muy abollada! Una lata abombada indica la presencia de bacterias anaerobias (como Clostridium botulinum) que producen gas en el interior, mientras que las abolladuras graves pueden causar fisuras microscópicas por las que entran bacterias. Deséchela de inmediato por seguridad."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver le jambon en boîte (SPAM) frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales après ouverture pour le jambon en boîte selon les directives officielles de sécurité.",
+        "authority": "USDA & MFDS & FDA",
+        "intro": "Avez-vous déjà ouvert une boîte de jambon ou de SPAM, utilisé la moitié et laissé le reste directement dans sa boîte métallique au réfrigérateur ? 🥫\n\nSi le jambon en conserve est stérile et se conserve des années à température ambiante tant qu'il est fermé, l'ouverture y introduit de l'oxygène. Cela fait réagir le métal intérieur (étain/fer), entraînant une oxydation qui donne un goût métallique à la viande tout en accélérant le rancissement des graisses et le développement bactérien.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA, de la FDA et du MFDS pour préserver votre jambon en boîte hygiénique, savoureux et sans goût métallique après ouverture. 🛡️",
+        "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques et chimiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne conservez jamais le jambon ouvert dans sa boîte métallique d'origine ⚠️",
+            "desc": "Une fois la boîte ouverte, l'exposition à l'oxygène corrode le revêtement en étain/fer. L'étain qui s'en détache donne un désagréable goût métallique à la viande et présente des risques sanitaires. Transférez toujours le jambon restants dans un récipient non métallique."
+          },
+          {
+            "title": "Consommez dans les 3 à 5 jours suivant l'ouverture 🥩",
+            "desc": "Bien que le jambon en conserve contienne du sel et des conservateurs, son ouverture l'expose aux bactéries comme de la viande fraîche. Même au réfrigérateur, il commence à se détériorer après 3 à 5 jours ; consommez-le rapidement."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Transférer immédiatement dans un récipient hermétique et réfrigérer — Conservation réfrigérée (3–5 jours) ❄️",
+            "text": "Retirez toujours le jambon restant de la boîte métallique juste après l'avoir ouverte. 💡 Astuce de conservation : Sortez le bloc de jambon et placez-le dans une boîte hermétique en verre ou en plastique, ou enveloppez-le hermétiquement dans du film étirable avant de le réfrigérer (0–4 °C) pour éviter le dessèchement."
+          },
+          {
+            "name": "Portionner en sous-unités et envelopper individuellement — Emballage individuel 📦",
+            "text": "Garder le bloc entier expose la viande aux lames de couteau et à l'air à chaque fois que vous en coupez un morceau. 💡 Astuce de conservation : Tranchez ou découpez le jambon en dés selon vos besoins et enveloppez chaque portion dans du film étirable ou du papier cuisson avant de sceller le tout."
+          },
+          {
+            "name": "Double-sceller et congeler pour un stockage prolongé — Congélation (30–60 jours) 🧊",
+            "text": "Si vous ne pouvez pas consommer le jambon dans les 5 jours, la congélation est la solution. 💡 Astuce de conservation : Enveloppez les tranches individuellement dans du film étirable, placez-les dans un sac congélation Ziploc et congelez à -18 °C. Consommez dans les 1 à 2 mois pour préserver sa texture, idéal pour griller à la poêle."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Une couche de graisse blanche s'est figée sur le jambon. Est-il périmé ?",
+            "answer": "Non ! La matière blanche sur le jambon en conserve est de la graisse de porc (saindoux) et de la gélatine naturelle qui se solidifient au froid. Elle est parfaitement propre à la consommation et fond en un jus savoureux à la cuisson."
+          },
+          {
+            "question": "La boîte de jambon est bombée ou très déformée. Est-elle encore consommable ?",
+            "answer": "Non, ne consommez jamais le produit d'une boîte bombée ou très cabossée ! Une boîte gonflée indique la prolifération de bactéries anaérobies (comme Clostridium botulinum) produisant des gaz, tandis que de fortes déformations peuvent créer des micro-fissures laissant entrer les bactéries. Jetez-la immédiatement par sécurité."
+          }
+        ]
+      },
+      "de": {
+        "title": "Dosenschinken & SPAM richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit nach dem Öffnen für Dosenschinken basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "USDA & MFDS & FDA",
+        "intro": "Haben Sie schon einmal eine Dose Schinken oder SPAM geöffnet, die Hälfte verbraucht und den Rest direkt in der geöffneten Metalldose im Kühlschrank aufbewahrt? 🥫\n\nUngeöffnet ist Dosenschinken kommerziell steril und bei Raumtemperatur jahrelang haltbar. Durch das Öffnen gelangt jedoch Sauerstoff in die Dose. Dieser reagiert mit der inneren Metallbeschichtung (Zinn/Eisen), was zu einer Zinnoxidation führt, die dem Fleisch einen metallischen Beigeschmack verleiht und die Fettoxidation beschleunigt.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der auf Sicherheitsrichtlinien von USDA, FDA und MFDS basiert, um Ihren geöffneten Dosenschinken hygienisch, geschmackvoll und frei von Metallgeschmack zu halten. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen und chemischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Geöffneten Schinken niemals in der originalen Metalldose aufbewahren ⚠️",
+            "desc": "Nach dem Öffnen führt Sauerstoffkontakt zur Korrosion der inneren Zinn-/Eisenbeschichtung. Das herausgelöste Zinn verleiht dem Fleisch einen unangenehmen Metallgeschmack und birgt gesundheitliche Risiken. Füllen Sie den Schinken immer in einen nicht-metallischen Behälter um."
+          },
+          {
+            "title": "Nach dem Öffnen innerhalb von 3 bis 5 Tagen verbrauchen 🥩",
+            "desc": "Obwohl Dosenschinken Salz und Konservierungsstoffe enthält, ist er nach dem Öffnen wie frisches Fleisch Bakterien ausgesetzt. Selbst im Kühlschrank beginnt er nach 3 bis 5 Tagen zu verderben, verbrauchen Sie ihn daher zügig."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Sofort in einen luftdichten Behälter umfüllen und kühlen — Kühllagerung (3–5 Tage) ❄️",
+            "text": "Entnehmen Sie den Schinken nach dem Öffnen immer direkt aus der Metalldose. 💡 Lagerungstipp: Nehmen Sie den Schinken aus der Dose und geben Sie ihn in eine Glas- oder Plastikdose oder wickeln Sie ihn fest in Frischhaltefolie, bevor Sie ihn im Kühlschrank (0–4 °C) aufbewahren."
+          },
+          {
+            "name": "In Portionsgrößen schneiden und einzeln einwickeln — Portionsverpackung 📦",
+            "text": "Wird der Schinken als ganzer Block gelagert, kommt das Fleisch bei jedem Abschneiden mit dem Messer und der Luft in Kontakt. 💡 Lagerungstipp: Schneiden Sie den Schinken in Scheiben oder Würfel und wickeln Sie jede Portion fest in Frischhaltefolie oder Backpapier, bevor Sie ihn verschließen."
+          },
+          {
+            "name": "Für die Langzeitlagerung doppelt versiegeln und einfrieren — Gefrierlagerung (30–60 Tage) 🧊",
+            "text": "Wenn Sie den Schinken nicht innerhalb von 5 Tagen verbrauchen können, ist Einfrieren die beste Wahl. 💡 Lagerungstipp: Wickeln Sie die einzelnen Scheiben fest in Folie, geben Sie sie in einen Ziploc-Gefrierbeutel und frieren Sie sie bei unter -18 °C ein. Für optimale Textur innerhalb von 1 bis 2 Monaten verbrauchen."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Auf dem Dosenschinken befindet sich eine weiße Fett-/Gelatineschicht. Ist er verdorben?",
+            "answer": "Nein! Bei der weißen Schicht handelt es sich um natürliches Schweinefett (Schmalz) und Gelatine, die bei Kälte fest werden. Das Fett ist völlig unbedenklich und schmilzt beim Anbraten in der Pfanne zu schmackhaftem Bratensaft."
+          },
+          {
+            "question": "Die Schinkendose ist aufgebläht oder stark eingedrückt. Ist der Inhalt noch essbar?",
+            "answer": "Nein, verzehren Sie niemals Schinken aus aufgeblähten oder stark eingedrückten Dosen! Eine Wölbung deutet auf das Wachstum anärober Bakterien (wie Clostridium botulinum) hin, die Gase bilden. Starke Dellen können Mikrorisse verursachen, durch die Keime eindringen. Entsorgen Sie die Dose sofort."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar presunto em lata (SPAM) fresco: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais após a abertura para o presunto em lata com base em diretrizes oficiais de segurança.",
+        "authority": "USDA & MFDS & FDA",
+        "intro": "Você já abriu uma lata de presunto (ou SPAM), usou a metade e guardou o restante dentro da própria lata de metal na geladeira? 🥫\n\nEmbora o presunto em lata seja comercialmente estéril e durável em temperatura ambiente por anos quando fechado, abri-lo introduz oxigênio. Isso faz com que o metal interno (estanho/ferro) reaja e oxide, transferindo um gosto metálico para a carne e acelerando a oxidação de gorduras e contaminação.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas baseado em diretrizes do USDA, FDA e MFDS para manter seu presunto em lata aberto higiênico, saboroso e livre de gostos metálicos. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas e químicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Nunca guarde o presunto aberto em sua lata de metal original ⚠️",
+            "desc": "Após aberta, a exposição ao oxigênio corroi o revestimento interno de estanho/ferro da lata. O estanho lixiviado confere um gosto metálico desagradável à carne e traz riscos à saúde. Transfira sempre o produto para um pote não metálico."
+          },
+          {
+            "title": "Consuma em até 3 a 5 dias após a abertura 🥩",
+            "desc": "Apesar de conter sal e conservantes, o presunto em lata aberto fica exposto a bactérias como qualquer carne fresca. Mesmo na geladeira ele começa a estragar após 3 a 5 dias, devendo ser consumido rapidamente."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Transfira imediatamente para um pote hermético e refrigere — Refrigeração (3–5 dias) ❄️",
+            "text": "Retire todo o presunto restante da lata de metal logo após a abertura. 💡 Dica de conservação: Retire o bloco e coloque-o num pote hermético de vidro ou plástico, ou envolva-o firmemente em filme plástico antes de refrigerar (0–4 °C) para evitar o ressecamento."
+          },
+          {
+            "name": "Corte em porções individuais e embrulhe separadamente — Embalagem em porções 📦",
+            "text": "Guardar o bloco inteiro expõe a carne à faca e ao ar a cada vez que você corta uma fatia. 💡 Dica de conservação: Fatie ou corte em cubos de acordo com suas receitas e embrulhe cada porção em filme plástico ou papel manteiga antes de guardar no pote."
+          },
+          {
+            "name": "Sela em saco duplo e congele para armazenamento prolongado — Congelamento (30–60 dias) 🧊",
+            "text": "Se não for consumir o presunto em 5 dias, o congelamento é a melhor opção. 💡 Dica de conservação: Embrulhe as fatias em filme plástico, coloque num saco Ziploc para freezer e congele a menos de -18 °C. Consuma em 1 a 2 meses para preservar a textura, ideal para grelhar na frigideira."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Há uma camada sólida de gordura branca sobre o presunto. Ele estragou?",
+            "answer": "Não! A substância branca no presunto em lata é gordura suína (banha) e gelatina natural que se solidificam no frio. É totalmente segura para consumo e derrete formando um suco saboroso ao grelhar na frigideira."
+          },
+          {
+            "question": "A lata de presunto está estufada ou muito amassada. Ainda é segura?",
+            "answer": "Não, nunca consuma presunto de uma lata estufada ou muito amassada! Uma lata estufada indica proliferação de bactérias anaeróbicas (como Clostridium botulinum) produzindo gás, enquanto amassados graves podem gerar microfissuras que contaminam o produto. Descarte imediatamente."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Daging Kornet / Daging Kaleng (SPAM) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik setelah dibuka untuk daging olahan kaleng berdasarkan pedoman keselamatan resmi.",
+        "authority": "USDA & MFDS & FDA",
+        "intro": "Pernahkah Anda membuka kaleng daging olahan (kornet/SPAM), menggunakannya sebagian, lalu meninggalkan sisanya di dalam kaleng logam semula di kulkas? 🥫\n\nMeskipun daging olahan kaleng steril dan tahan lama pada suhu ruang saat belum dibuka, membuka kaleng akan memasukkan oksigen. Oksigen bereaksi dengan lapisan logam dalam kaleng (timah/besi), menyebabkan korosi yang memberikan rasa logam pada daging serta mempercepat ketengikan lemak dan bakteri.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman USDA, FDA, dan MFDS untuk menjaga daging kaleng Anda tetap higienis, lezat, dan bebas rasa logam setelah dibuka. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis dan kimia unik dari setiap bahan makanan serta menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan pernah menyimpan daging kaleng yang sudah dibuka di dalam kaleng logam aslinya ⚠️",
+            "desc": "Setelah dibuka, paparan oksigen menyebabkan lapisan logam timah/besi dalam kaleng terkorosi. Timah yang terlarut memberikan rasa logam yang tidak enak pada daging dan berisiko bagi kesehatan. Selalu pindahkan sisa daging ke wadah non-logam."
+          },
+          {
+            "title": "Konsumsi dalam waktu 3 hingga 5 hari setelah dibuka 🥩",
+            "desc": "Meskipun daging kaleng mengandung garam dan pengawet, membukanya membuat daging terpapar bakteri udara seperti daging segar. Bahkan di dalam kulkas, daging akan mulai rusak setelah 3–5 hari, jadi habiskan segera."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Segera pindahkan ke wadah kedap udara dan simpan di kulkas — Simpan Dingin (3–5 Hari) ❄️",
+            "text": "Selalu keluarkan sisa daging dari kaleng logam tepat setelah dibuka. 💡 Tips Penyimpanan: Keluarkan seluruh daging dari kaleng dan masukkan ke dalam wadah kedap udara kaca/plastik, atau bungkus rapat dengan plastik wrap sebelum disimpan di kulkas (0–4°C) untuk mencegah permukaan mengering."
+          },
+          {
+            "name": "Potong menjadi porsi sekali pakai dan bungkus terpisah — Bungkus Porsi 📦",
+            "text": "Menyimpan daging dalam bentuk blok utuh membuat daging terpapar pisau dan udara setiap kali Anda memotongnya. 💡 Tips Penyimpanan: Iris atau potong dadu daging sesuai kebutuhan memasak dan bungkus setiap porsi dengan plastik wrap atau kertas roti sebelum disimpan dalam wadah."
+          },
+          {
+            "name": "Segel ganda dan bekukan untuk penyimpanan jangka panjang — Simpan Freezer (30–60 Hari) 🧊",
+            "text": "Jika Anda tidak dapat menghabiskan daging dalam waktu 5 hari, membekukannya adalah metode paling aman. 💡 Tips Penyimpanan: Bungkus irisan daging secara terpisah dengan plastik wrap, masukkan ke kantong Ziploc freezer, lalu bekukan di bawah -18°C. Habiskan dalam 1–2 bulan untuk tekstur terbaik, sangat cocok untuk digoreng."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Ada lapisan lemak putih yang memadat di permukaan daging kaleng. Apakah sudah basi?",
+            "answer": "Tidak! Lapisan putih pada daging kaleng adalah lemak babi/sapi alami dan gelatin yang memadat saat dingin. Sangat aman dimakan dan akan mencair menjadi kuah gurih saat dimasak di atas wajan."
+          },
+          {
+            "question": "Kaleng daging tampak kembung atau penyok parah. Apakah masih aman dimakan?",
+            "answer": "Tidak, jangan pernah mengonsumsi makanan dari kaleng yang kembung atau penyok parah! Kaleng yang kembung menandakan adanya pertumbuhan bakteri anaerob (seperti Clostridium botulinum) yang menghasilkan gas, sedangkan penyok parah dapat menyebabkan retakan mikro yang mengontaminasi isi. Segera buang demi keselamatan Anda."
+          }
+        ]
+      }
     }
+  }
 }

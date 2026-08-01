@@ -1,459 +1,459 @@
 {
-    "green-iguana-care": {
-        "pubDate": "2026-06-18",
-        "updatedDate": "2026-06-18",
-        "locales": {
-            "ko": {
-                "title": "그린 이구아나의 행동 신호 해석과 대사성 뼈 질환(MBD) 및 신부전 예방을 위한 3단계 데일리 케어",
-                "description": "우아하고 야생미 넘치는 대형 파충류 그린 이구아나(Green Iguana). 목밑 듀랩(Dewlap) 확장·헤드 바빙 신호 해석, UVB 온·습도 케어, MBD·신부전 예방을 위한 3단계 홈케어 루틴을 소개합니다.",
-                "authority": "ARAV (세계 파충류·양서류 수의사회) 및 IRCF (국제 파충류 보존 재단) 케어 프로토콜",
-                "profile": {
-                    "breed": "그린 이구아나 (Green Iguana / Iguana iguana)",
-                    "lifespan": "15 ~ 20년 (올바른 케어 시 20년 이상)",
-                    "sleep_pattern": "10 ~ 12시간 (주행성, 밤에 높은 나뭇가지나 구조물에서 수면)",
-                    "temperament": "영역 의식 강함, 경계심 많음, 독립적, 영리함, 정성 어린 핸들링 필요"
-                },
-                "intro": "중남미 열대 우림이 원산지인 그린 이구아나(Green Iguana)는 강렬한 녹색 피모와 당당한 체구로 전 세계 파충류 사육자들에게 사랑받는 대표적인 주행성 대형 도마뱀입니다. 성체 시 1.5~2m까지 자라는 이구아나는 온순해 보이지만 강한 영역 본능을 지니고 있으며, 자외선(UVB) 부족과 칼슘 결핍으로 인한 대사성 뼈 질환(MBD)에 매우 취약합니다. 또한 완전 초식성(Herbivorous) 파충류이므로 동물성 단백질을 섭취할 경우 치명적인 통풍과 신부전이 발생합니다. 이번 가이드에서는 그린 이구아나의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
-                "whyTitle": "그린 이구아나의 바디 랭귀지: 듀랩 확장(Dewlap Extension)과 헤드 바빙(Head Bobbing / Tail Whip)",
-                "whyDesc": "그린 이구아나는 목 밑 피부인 듀랩과 머리의 움직임으로 위엄과 경계 신호를 구별합니다. 목 밑의 넓은 **'듀랩 확장(Dewlap Extension)'**과 천천히 고개를 위아래로 끄덕이는 **'헤드 바빙(Head Bobbing)'**은 자신의 영역과 위엄을 알리는 대표적인 커뮤니케이션 및 경계 행동입니다. 반면 몸을 옆으로 납작하게 부풀리고 꼬리를 채찍처럼 휘두르는 **'꼬리 치기(Tail Whipping / Side Stance)'**는 접근 시 강력한 타격을 가하겠다는 즉각적인 공격 전 경고 신호입니다.",
-                "body_signals": [
-                    {
-                        "name": "목 밑 듀랩(Dewlap)을 크게 펼치며 천천히 고개를 위아래로 흔듦 (Dewlap Extension & Head Bobbing)",
-                        "meaning": "보호자나 주변 환경을 향해 자신의 영역과 존재감을 알리고 세력을 과시하는 대표적인 표현 행동입니다.",
-                        "response": "차분하고 낮은 태도를 유지하며 갑작스러운 움직임으로 이구아나를 자극하지 않습니다."
-                    },
-                    {
-                        "name": "몸을 측면으로 납작하게 만들고 꼬리를 뒤로 유연하게 휘두름 (Tail Whipping / Stiff Stance)",
-                        "meaning": "극도의 위협이나 스트레스를 느꼈을 때 나타내는 최후의 공격 전 방어 및 채찍질 경고 신호입니다.",
-                        "response": "손을 무리하게 대지 말고 시야에서 자극 요소를 치운 뒤 수건 등으로 안전하게 거리를 둡니다."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "아침: UVB 자외선 등 점검, 바스킹존 온·습도 확인 및 100% 초식 칼슘 샐러드 급여",
-                        "text": "MBD 예방을 위해 바스킹존(35~38°C)과 UVB 출력 상태를 점검하고, 순수 초식에 맞춘 칼슘 풍부 야채(순무잎, 청경채, 치커리 등 칼슘:인 비율 2:1)를 급여합니다."
-                    },
-                    {
-                        "name": "낮: 높은 습도 유지(70~80%)를 위한 미스팅(Misting) 및 대형 케이지 내 등반 활동",
-                        "text": "탈피 부전과 신장 질환을 막기 위해 분무기로 높은 습도를 조성하고, 나무 위 생활(Arboreal) 본능을 충족할 높고 튼튼한 구조물에서 운동시킵니다."
-                    },
-                    {
-                        "name": "저녁: 소화 및 야간 체온 조절(24~26°C), 배설물 청소 및 10~12시간 완전 수면 환경",
-                        "text": "요산과 배설물을 청소하여 세균 감염을 방지하고, 밤 동안 체온이 떨어지지 않도록 세라믹 온열등으로 야간 온도를 유지하며 암막 환경을 제공합니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "이구아나에게 자외선(UVB) 램프와 칼슘 공급이 왜 생명과 직결되나요?",
-                        "answer": "그린 이구아나는 햇빛의 UVB를 받아 비타민 D3를 합성해야만 섭취한 칼슘을 흡수할 수 있습니다. UVB가 부족하거나 칼슘이 결핍되면 뼈가 얇아지고 턱이 물렁해지는 '대사성 뼈 질환(MBD/Metabolic Bone Disease)'이 발생하여 골절, 경련, 마비로 사망에 이릅니다. 매일 고출력 UVB 등 조사와 칼슘 파우더 첨가가 필수입니다."
-                    },
-                    {
-                        "question": "이구아나에게 귀뚜라미나 밀웜 같은 곤충이나 고기를 주면 안 되나요?",
-                        "answer": "절대 안 됩니다! 그린 이구아나는 생리학적으로 100% 초식성(Strict Herbivore) 파충류입니다. 동물성 단백질이나 사료, 곤충을 섭취하면 단백질 과다 소화 부산물인 요산이 체내에 쌓여 치명적인 신부전과 전신 통풍(Gout)을 유발하여 조기 사망합니다. 반드시 녹색 잎채소 중심으로 식단을 구성해야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "Green Iguana Behavioral Signals and 3-Step Daily Routine for Metabolic Bone Disease (MBD) and Kidney Failure Prevention",
-                "description": "Care guide for the majestic Green Iguana. Interpret dewlap extension and head bobbing, manage UVB lighting, humidity, and prevent MBD and renal failure in 3 steps.",
-                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & International Reptile Conservation Foundation (IRCF) Care Standards",
-                "profile": {
-                    "breed": "Green Iguana (Iguana iguana)",
-                    "lifespan": "15 - 20 Years (20+ years with optimal care)",
-                    "sleep_pattern": "10 - 12 Hours (Diurnal, sleeps in high branches at night)",
-                    "temperament": "Territorial, Highly Alert, Independent, Intelligent, Requires Patient Taming"
-                },
-                "intro": "Native to the tropical rainforests of Central and South America, the Green Iguana (Iguana iguana) is an iconic large diurnal lizard cherished by reptile enthusiasts worldwide. Growing up to 1.5 to 2 meters in length, these majestic reptiles possess strong territorial instincts and are exceptionally vulnerable to Metabolic Bone Disease (MBD) caused by inadequate Ultraviolet-B (UVB) radiation and calcium deficiencies. Furthermore, as strict herbivores, consuming animal protein induces fatal visceral gout and renal failure. In this guide, presents a 3-step daily care routine to decode your Green Iguana's body language and safeguard its health.",
-                "whyTitle": "Green Iguana Body Language: Dewlap Extension, Head Bobbing, and Tail Whipping",
-                "whyDesc": "Green Iguanas communicate dominance and defensive warnings using their throat fan (dewlap) and body movements. Fully expanding the colorful skin under their chin **'Dewlap Extension'** while rhythmically nodding their head **'Head Bobbing'** is a signature territorial display signaling presence and status. Conversely, flattening their body laterally and coiling their tail **'Tail Whipping / Side Stance'** is an explicit warning of an imminent powerful tail strike prior to biting.",
-                "body_signals": [
-                    {
-                        "name": "Flaring the Dewlap Wide while Slowly Bobbing Head Up and Down (Dewlap Extension & Head Bobbing)",
-                        "meaning": "A signature territorial communication assertion asserting dominance, presence, and environmental confidence.",
-                        "response": "Maintain a calm, low posture without making sudden movements that could be perceived as a challenge."
-                    },
-                    {
-                        "name": "Flattening Body Laterally and Whipping Tail Flexibly (Tail Whipping / Stiff Stance)",
-                        "meaning": "An extreme defensive warning indicating acute stress, feeling cornered, or impending physical aggression.",
-                        "response": "Avoid reaching in directly; remove visual stressors and use a towel for safe, non-threatening distance."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morning: UVB Lamp Output Check, Basking Temperature Control & 100% Herbivorous Calcium Salad",
-                        "text": "Inspect the basking zone (35°C–38°C) and UVB bulbs to prevent MBD, feeding calcium-rich greens (collard, turnip, mustard greens with 2:1 Ca:P ratio)."
-                    },
-                    {
-                        "name": "Afternoon: High Humidity Maintenance (70–80%) & Vertical Arboreal Climbing Enrichment",
-                        "text": "Mist the enclosure to maintain high humidity for proper shedding and renal hydration, providing sturdy vertical branches for climbing exercise."
-                    },
-                    {
-                        "name": "Evening: Waste Removal (Infection Prevention), Night Temperature Control (24–26°C) & Blackout Sleep",
-                        "text": "Clean urates and feces to prevent bacterial dermatitis, maintaining a warm night temperature using ceramic heat emitters in total darkness."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Why are high-output UVB lighting and calcium supplements vital for a Green Iguana's survival?",
-                        "answer": "Green Iguanas synthesize Vitamin D3 through skin exposure to UVB light, which enables dietary calcium absorption. Without adequate UVB or calcium, they develop Metabolic Bone Disease (MBD)—causing bone softening, rubber jaw, fractures, muscle tremors, and fatal paralysis. Daily high-output UVB lighting and dust-on calcium powder are strictly mandatory."
-                    },
-                    {
-                        "question": "Can I feed insects like crickets or mealworms to my Green Iguana?",
-                        "answer": "Absolutely not! Green Iguanas are obligate, 100% strict herbivores. Ingesting animal protein, insect protein, or commercial pet foods causes excessive uric acid buildup, leading to severe visceral gout, kidney failure, and premature death. Their diet must consist exclusively of leafy dark greens and safe vegetables."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "グリーンイグアナの威嚇・領土サイン解読と代謝性骨疾患(MBD)・痛風予防のための3ステップデイリールーティン",
-                "description": "堂々たる大自然の魅力を備えた大型爬虫類グリーンイグアナ（Green Iguana）。デュラップ(Dewlap)拡張やヘッドボビングの解読、UVB・温湿度ケア、MBD・腎不全予防の3ステップホームケアを紹介します。",
-                "authority": "ARAV（世界爬虫類・両生類獣医師会）およびIRCF（国際爬虫類保全財団）飼育基準",
-                "profile": {
-                    "breed": "グリーンイグアナ (Green Iguana / Iguana iguana)",
-                    "lifespan": "15 〜 20年 (適切なケアで20年以上)",
-                    "sleep_pattern": "10 〜 12時間 (昼行性、夜間は樹上の高所で就寝)",
-                    "temperament": "縄張り意識が強い、警戒心が強い、独立心がある、極めて知的、根気強い慣らしが必要"
-                },
-                "intro": "中南米の熱帯雨林原産のグリーンイグアナ（Green Iguana）は、鮮やかな緑色の体色と堂々たる体躯で世界中の爬虫類愛好家から愛されている代表的な昼行性大型トカゲです。成体で1.5〜2mに達する本種は、おとなしそうに見えて強い縄張り本能を持ち、紫外線（UVB）不足やカルシウム欠乏による代謝性骨疾患（MBD）に極めて脆弱です。また完全草食性（Strict Herbivore）の爬虫類であるため、動物性タンパク質を摂取すると致命的な痛風や腎不全を引き起こします。本記事では、グリーンイグアナのサインを解読し健康を守る3ステップルーティンをお届けします。",
-                "whyTitle": "グリーンイグアナのボディランゲージ：デュラップ拡張(Dewlap Extension)とヘッドボビング(Head Bobbing / Tail Whip)",
-                "whyDesc": "グリーンイグアナは喉の皮膚であるデュラップと頭部の動きで威厳と警戒を明確に表現します。喉下の赤く広い皮弁を広げる**「デュラップ拡張（Dewlap Extension）」**と頭を上下にゆっくり振る**「ヘッドボビング（Head Bobbing）」**は、自分の縄張りと存在感を誇示する代表的なコミュニケーションです。一方、体を横に平たく膨らませて尾を鞭のようにしならせる**「尾打ち（Tail Whipping / Side Stance）」**は、接近に対して強い攻撃を加える直前の緊急警告サインです。",
-                "body_signals": [
-                    {
-                        "name": "喉下のデュラップ(Dewlap)を大きく広げ、頭を上下にゆっくり振る (Dewlap Extension & Head Bobbing)",
-                        "meaning": "飼い主や周囲の環境に対して自分の縄張りと存在感を示し、優位性を誇示する表現行動です。",
-                        "response": "落ち着いた低い姿勢を保ち、突然の動作でイグアナを刺激しないようにしましょう。"
-                    },
-                    {
-                        "name": "体を横方向に平たくし、尾を後ろにしならせる (Tail Whipping / Stiff Stance)",
-                        "meaning": "極度の脅威やストレスを感じている際に見せる、攻撃・尾打ち直前の防衛警告サインです。",
-                        "response": "手を無理に伸ばさず視界から刺激要素を取り除き、タオルなどを使って安全な距離を保ちましょう。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "朝：UVB照射照射量の点検、バスキングエリアの温湿度確認＆100%草食カルシウムサラダの給餌",
-                        "text": "MBD予防のためバスキングゾーン（35〜38℃）とUVBの出力を確認し、カルシウム豊富な野菜（小松菜、チンゲンサイ、チコリなど Ca:P比 2:1）を与えます。"
-                    },
-                    {
-                        "name": "昼：高湿度維持（70〜80%）のための霧吹き（ミスティング）と大型ケージ内での登はん運動",
-                        "text": "脱皮不全や腎臓疾患を防ぐためにミストで高湿度を保ち、樹上性（Arboreal）本能を満たす頑丈な木で運動させます。"
-                    },
-                    {
-                        "name": "夜：排泄物清掃、夜間体温維持（24〜26℃）と10〜12時間の完全消灯睡眠環境",
-                        "text": "尿酸とフンを掃除して細菌感染を防ぎ、夜間に体温が下がらないよう保温球で適温を保ち、暗く静かな環境で休ませます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "イグアナにとって紫外線（UVB）ランプとカルシウム補給はなぜ生命に関わるのですか？",
-                        "answer": "グリーンイグアナは日光のUVBを浴びてビタミンD3を合成することで、初めて食物中のカルシウムを吸収できます。UVBやカルシウムが不足すると、骨が軟化して顎が変形する「代謝性骨疾患（MBD）」を発症し、骨折や痙攣、麻痺を引き起こして死亡します。毎日の高出力UVB照射とカルシウムパウダーの添加が必須です。"
-                    },
-                    {
-                        "question": "イグアナにコオロギやミルワームなどの昆虫や肉を与えてはいけませんか？",
-                        "answer": "絶対に与えてはいけません！グリーンイグアナは生理学的に100%の完全草食性（Strict Herbivore）です。動物性タンパク質やドッグフード、昆虫を摂取すると、消化副産物である尿酸が体内に蓄積し、致命的な内臓痛風や腎不全を引き起こして早期死亡します。必ず緑の葉野菜を中心とした食餌を与えてください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "绿鬣蜥行为信号解读与代谢性骨病 (MBD) 及肾衰竭预防的 3 步日常流程",
-                "description": "具有威严大自然魅力的著名大型爬宠绿鬣蜥（Green Iguana）。解读喉扇（Dewlap）张开与点头信号，维护 UVB 温湿度，预防 MBD 与肾衰竭的 3 步骤家庭护理。",
-                "authority": "世界两栖爬行类兽医师协会 (ARAV) 与国际爬行动物保护基金会 (IRCF) 护理标准",
-                "profile": {
-                    "breed": "绿鬣蜥 (Green Iguana / Iguana iguana)",
-                    "lifespan": "15 ~ 20年 (科学喂养可达20年以上)",
-                    "sleep_pattern": "10 ~ 12小时 (昼行性，夜间在树枝高处睡眠)",
-                    "temperament": "领地意识强、警惕性高、独立、极度聪明、需要耐心的驯化"
-                },
-                "intro": "原产于中南美洲热带雨林的绿鬣蜥（Green Iguana），凭其鲜艳的绿色肤色和威风凛凛的体型，是备受全球爬宠爱好者喜爱的代表性昼行性大型蜥蜴。成体体长可达 1.5~2 米，虽然看似温顺，但拥有极强的领地本能，且对因缺乏紫外线（UVB）与钙质引起的代谢性骨病（MBD）极度脆弱。此外，绿鬣蜥是严格的 100% 纯草食性（Strict Herbivore）爬行类，摄入动物性蛋白会导致致命的痛风与肾衰竭。本指南将带您准确解读绿鬣蜥肢体语言，并通过 3 步骤日常护理维护其健康。",
-                "whyTitle": "绿鬣蜥肢体语言：喉扇张开 (Dewlap Extension)、点头 (Head Bobbing) 与甩尾警告 (Tail Whipping)",
-                "whyDesc": "绿鬣蜥通过喉部皮扇（Dewlap）和头部动作清晰表达威严与领地警告。完全展开下巴下方鲜艳的皮扇**“喉扇张开 (Dewlap Extension)”**并配合有节奏地上下点头**“点头 (Head Bobbing)”**，是宣示领地主权与存在感的代表性行为。相反，侧向扁平化身体并灵活卷曲尾巴**“甩尾警告 (Tail Whipping / Side Stance)”**，则是受到逼近时即将发动猛烈尾巴抽打的紧急警告信号。",
-                "body_signals": [
-                    {
-                        "name": "张开下巴下方的喉扇 (Dewlap)，并缓慢上下点头 (Dewlap Extension & Head Bobbing)",
-                        "meaning": "向主人或周围环境宣示领地主权、展示存在感与建立威严的代表性沟通姿态。",
-                        "response": "保持平静低调的姿势，避免做出可能被视为挑衅的突然动作。"
-                    },
-                    {
-                        "name": "侧向压扁身体，将尾巴向后弯曲蓄力 (Tail Whipping / Stiff Stance)",
-                        "meaning": "感到极度威胁或压迫时发出的最后防卫警告，预示即将进行猛烈的甩尾抽打。",
-                        "response": "切勿强行抓握，撤离刺激源，必要时使用毛巾保持安全距离。"
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "早上：UVB 紫外线灯输出检查、晒背区温湿度确认与 100% 草食钙质蔬菜拼盘",
-                        "text": "检查晒背区（35°C~38°C）与 UVB 衰减情况以防 MBD，投喂富含钙质的绿叶蔬菜（芥菜、芜菁叶、羽衣甘蓝，钙磷比 2:1）。"
-                    },
-                    {
-                        "name": "中午：维持高湿度环境（70~80%）的喷雾 (Misting) 与高大型笼舍攀爬活动",
-                        "text": "使用喷雾器维持高湿度以防脱皮不全及肾脏病变，并提供稳固的树枝攀爬设施以满足其树栖（Arboreal）习性。"
-                    },
-                    {
-                        "name": "晚上：清理排泄物（预防感染）、夜间保温控制 (24°C~26°C) 与 10~12 小时完全黑暗睡眠",
-                        "text": "清理尿酸与粪便以防细菌性皮肤炎，夜间使用陶瓷加热灯维持温度，并提供完全无光的黑暗睡眠环境。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "为什么高输出 UVB 紫外线灯和补钙对绿鬣蜥的生命至关重要？",
-                        "answer": "绿鬣蜥必须通过皮肤照射 UVB 紫外线合成维生素 D3，才能吸收食物中的钙质。若缺乏 UVB 或钙质，会引发“代谢性骨病（MBD/Metabolic Bone Disease）”，导致骨质软化、橡皮软颚、骨折、抽搐甚至瘫痪死亡。每日高输出 UVB 照射与添加钙粉是绝对强制要求的。"
-                    },
-                    {
-                        "question": "可以给绿鬣蜥喂食蟋蟀、面包虫等昆虫或肉类吗？",
-                        "answer": "绝对不可以！绿鬣蜥生理上是 100% 严格的纯草食性（Strict Herbivore）动物。摄入动物蛋白、昆虫或普通宠物饲料，会导致过量尿酸在体内结晶堆积，引发严重内脏痛风、肾衰竭并导致猝死。必须严格喂食深色绿叶蔬菜与安全蔬果。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Señales de conducta en la Iguana Verde y rutina diaria de 3 pasos para la prevención de la enfermedad ósea metabólica (MBD) y la insuficiencia renal",
-                "description": "Guía de cuidado para la majestuosa Iguana Verde (Green Iguana). Interprete la extensión del papo (Dewlap) y el cabeceo, controle iluminación UVB y humedad, y prevenga MBD e insuficiencia renal en 3 pasos.",
-                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) y Normas de la International Reptile Conservation Foundation (IRCF)",
-                "profile": {
-                    "breed": "Iguana Verde (Green Iguana / Iguana iguana)",
-                    "lifespan": "15 ~ 20 años (Más de 20 años con cuidados óptimos)",
-                    "sleep_pattern": "10 ~ 12 horas (Diurna, duerme en ramas altas por la noche)",
-                    "temperament": "Territorial, Muy alerta, Independiente, Inteligente, Requiere amansamiento paciente"
-                },
-                "intro": "Originaria de las selvas tropicales de Centro y Sudamérica, la Iguana Verde (Iguana iguana) es un gran lagarto diurno icónico amado por apasionados de los reptiles en todo el mundo. Alcanzando de 1.5 a 2 metros de longitud, poseen fuertes instintos territoriales y son sumamente vulnerables a la Enfermedad Ósea Metabólica (MBD) provocada por la radiación Ultravioleta-B (UVB) inadecuada y la deficiencia de calcio. Además, al ser herbívoras estrictas (Strict Herbivore), la ingesta de proteína animal produce gota visceral e insuficiencia renal mortales. En esta guía, presenta una rutina de 3 pasos para cuidar su salud.",
-                "whyTitle": "Lenguaje corporal de la Iguana Verde: Extensión del papo (Dewlap Extension), cabeceo (Head Bobbing) y coletazo (Tail Whipping)",
-                "whyDesc": "La Iguana Verde comunica dominancia y advertencias defensivas mediante su abanico gular (papo) y movimientos corporales. Desplegar completamente la piel de la garganta **'Extensión del papo (Dewlap Extension)'** junto con un asentamiento rítmico de cabeza **'Cabeceo (Head Bobbing)'** es una exhibición territorial de estatus. En cambio, aplanar el cuerpo lateralmente y flexiblemente curvar la cola **'Coletazo (Tail Whipping / Side Stance)'** es un aviso directo de un látigo de cola inminente antes de morder.",
-                "body_signals": [
-                    {
-                        "name": "Desplegar el papo (Dewlap) completamente mientras asiente la cabeza despacio (Dewlap Extension & Head Bobbing)",
-                        "meaning": "Exhibición territorial característica que afirma dominancia, presencia y confianza en su entorno.",
-                        "response": "Mantenga una postura serena y baja sin hacer movimientos bruscos que puedan interpretarse como un reto."
-                    },
-                    {
-                        "name": "Aplanar el cuerpo lateralmente y preparar la cola para latiguear (Tail Whipping / Stiff Stance)",
-                        "meaning": "Advertencia defensiva extrema ante estrés agudo o amenaza; indica un azote violento con la cola.",
-                        "response": "No introduzca las manos directamente; retire los estímulos molestos y use una toalla para guardar distancia de seguridad."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Mañana: Revisión de lámpara UVB, control de temperatura en punto de asoleamiento y ensalada 100% herbívora rica en calcio",
-                        "text": "Examine la zona de asoleamiento (35°C–38°C) y tubos UVB para prevenir MBD, ofreciendo hojas verdes ricas en calcio (col rizada, berros, achicoria con relación Ca:P 2:1)."
-                    },
-                    {
-                        "name": "Tarde: Control de alta humedad (70–80%) mediante pulverización y enriquecimiento de trepa arbórea",
-                        "text": "Rocíe el terrario para mantener la humedad necesaria para la muda e hidratación renal, proporcionando ramas verticales sólidas."
-                    },
-                    {
-                        "name": "Noche: Limpieza de deyecciones (prevención de dermatitis), temperatura nocturna (24–26°C) y oscuridad total",
-                        "text": "Retire uratos y heces para evitar infecciones bacterianas, manteniendo calor nocturno mediante emisores cerámicos sin luz."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Por qué la luz UVB de alto rendimiento y el calcio son vitales para la supervivencia de la Iguana Verde?",
-                        "answer": "La Iguana Verde sintetiza Vitamina D3 mediante la exposición de la piel a la luz UVB, lo que permite absorber el calcio alimentario. Sin suficiente UVB o calcio, desarrollan Enfermedad Ósea Metabólica (MBD), lo que causa reblandecimiento óseo, mandíbula de goma, fracturas y parálisis letal. La lámpara UVB diaria y el polvo de calcio son obligatorios."
-                    },
-                    {
-                        "question": "¿Puedo alimentar a mi Iguana Verde con insectos como grillos o gusanos?",
-                        "answer": "¡Absolutamente no! La Iguana Verde es un reptil 100% herbívoro estricto. La ingesta de proteína animal o insectos acumula ácido úrico en sangre, causando gota visceral grave, insuficiencia renal y muerte prematura. Su dieta debe ser exclusivamente a base de hojas verdes oscuras y vegetales aptos."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Signaux comportementaux de l'Iguane Vert et routine quotidienne en 3 étapes pour la prévention de la maladie osseuse métabolique (MBD) et de l'insuffisance rénale",
-                "description": "Guide de soins pour le majestueux Iguane Vert (Green Iguana). Décryptez le déploiement du fanon (Dewlap) et le hochement de tête, contrôlez l'UVB et l'humidité, et prévenez la MBD et l'insuffisance rénale en 3 étapes.",
-                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Normes de l'International Reptile Conservation Foundation (IRCF)",
-                "profile": {
-                    "breed": "Iguane Vert (Green Iguana / Iguana iguana)",
-                    "lifespan": "15 ~ 20 ans (Plus de 20 ans avec des soins adaptés)",
-                    "sleep_pattern": "10 ~ 12 heures (Diurne, dort sur les hautes branches la nuit)",
-                    "temperament": "Territorial, Très attentif, Indépendant, Intelligent, Apprivoisement patient requis"
-                },
-                "intro": "Originaire des forêts tropicales d'Amérique centrale et du Sud, l'Iguane Vert (Iguana iguana) est un grand lézard diurne emblématique adoré des passionnés de reptiles. Pouvant atteindre 1,5 à 2 mètres de longueur, ce magnifique reptile possède un fort instinct territorial et se montre très vulnérable à la Maladie Osseuse Métabolique (MBD) provoquée par un manque de rayons Ultraviolet-B (UVB) et de calcium. De plus, étant un herbivore strict (Strict Herbivore), la consommation de protéines animales déclenche une goutte viscérale et une insuffisance rénale mortelles. Dans ce guide, vous présente une routine en 3 étapes pour préserver sa santé.",
-                "whyTitle": "Langage corporel de l'Iguane Vert : Déploiement du fanon (Dewlap Extension), hochement de tête (Head Bobbing) et coup de queue (Tail Whipping)",
-                "whyDesc": "L'Iguane Vert exprime sa dominance et ses avertissements par son fanon gulaire et ses mouvements. Déployer largement la peau sous sa gorge **« Déploiement du fanon (Dewlap Extension) »** tout en hochant la tête **« Hochement de tête (Head Bobbing) »** est sa signature territoriale. En revanche, aplatir son corps latéralement en faisant osciller sa queue **« Coup de queue (Tail Whipping / Side Stance) »** est un avertissement direct avant une frappe de queue violente.",
-                "body_signals": [
-                    {
-                        "name": "Déployer largement le fanon (Dewlap) en hochant lentement la tête (Dewlap Extension & Head Bobbing)",
-                        "meaning": "Comportement territorial affirmant la dominance, la présence et l'assurance de l'iguane dans son environnement.",
-                        "response": "Adoptez une posture calme et basse sans gestes brusques pouvant être perçus comme une provocation."
-                    },
-                    {
-                        "name": "Aplatir le corps sur le côté et courber la queue en fouet (Tail Whipping / Stiff Stance)",
-                        "meaning": "Avertissement défensif extrême indiquant un stress aigu ou une réaction d'attaque imminente.",
-                        "response": "N'approchez pas les mains directement ; éloignez la source de stress et utilisez une serviette pour vous protéger."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Matin : Vérification du néon UVB, température de point chaud & salade 100% herbivore riche en calcium",
-                        "text": "Contrôlez le point chaud (35°C–38°C) et les UVB pour éviter la MBD, en donnant des légumes riches en calcium (chou frisé, fanes de navet, chicorée avec ratio Ca:P 2:1)."
-                    },
-                    {
-                        "name": "Après-midi : Maintien d'une forte hygrométrie (70–80%) par vaporisation & installations de grimpe arboricole",
-                        "text": "Vaporisez le terrarium pour favoriser la mue et l'hydratation rénale, en offrant de solides branches verticales."
-                    },
-                    {
-                        "name": "Soir : Nettoyage des déjections (prévention des infections), chauffage nocturne (24–26°C) & obscurité totale",
-                        "text": "Retirez urates et fèces pour éviter les dermatites, en maintenant une chaleur nocturne douce par céramique chauffante."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Pourquoi la lampe UVB à forte puissance et le calcium sont-ils vitaux pour l'Iguane Vert ?",
-                        "answer": "L'Iguane Vert synthétise la vitamine D3 grâce à l'exposition de sa peau aux UVB, ce qui conditionne l'assimilation du calcium. Sans UVB ou sans calcium, il développe la Maladie Osseuse Métabolique (MBD) qui ramollit les os, déforme la mâchoire et provoque des fractures ainsi qu'une paralysie fatale. Le néon UVB quotidien et la poudre de calcium sont obligatoires."
-                    },
-                    {
-                        "question": "Puis-je donner des insectes (grillons, vers de farine) ou de la viande à mon Iguane Vert ?",
-                        "answer": "Absolument pas ! L'Iguane Vert est un animal 100 % herbivore strict. L'ingestion de protéines animales ou d'insectes entraîne une accumulation d'acide urique dans l'organisme, provoquant une goutte viscérale fulgurante, une insuffisance rénale et la mort. Son alimentation doit se composer exclusivement de feuilles vertes et de légumes adaptés."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Verhaltenssignale des Grünen Leguans und 3-Schritte-Tagesroutine für Metabolische Knochenerkrankung (MBD) und Nierenversagen-Prophylaxe",
-                "description": "Pflegeanleitung für den majestätischen Grünen Leguan (Green Iguana). Kehlfahnen-Aufstellen und Kopfnicken verstehen, UVB-Beleuchtung und Luftfeuchtigkeit steuern sowie MBD in 3 Schritten vorbeugen.",
-                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Standards der International Reptile Conservation Foundation (IRCF)",
-                "profile": {
-                    "breed": "Grüner Leguan (Green Iguana / Iguana iguana)",
-                    "lifespan": "15 ~ 20 Jahre (Bei optimaler Haltung über 20 Jahre)",
-                    "sleep_pattern": "10 ~ 12 Stunden (Tagaktiv, schläft nachts auf hohen Ästen)",
-                    "temperament": "Territorial, Sehr wachsam, Unabhängig, Intelligent, Geduldige Eingewöhnung nötig"
-                },
-                "intro": "Beheimatet in den tropischen Regenwäldern Mittel- und Südamerikas ist der Grüne Leguan (Iguana iguana) eine beeindruckende tagaktive Großechse, die Reptilienhalter weltweit fasziniert. Mit einer Endlänge von 1,5 bis 2 Metern besitzen diese Echsen ein starkes Revierverhalten und reagieren extrem empfindlich auf Metabolische Knochenerkrankung (MBD), die durch fehlendes UVB-Licht und Calciummangel entsteht. Als reine Pflanzenfresser (Strict Herbivore) führt die Aufnahme von tierischem Eiweiß bei ihnen zu tödlicher Gicht und Nierenversagen. In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für die Gesundheit Ihres Grünen Leguans.",
-                "whyTitle": "Körpersprache des Grünen Leguans: Kehlfahnen-Aufstellen (Dewlap Extension), Kopfnicken (Head Bobbing) und Schwanzschlagen (Tail Whipping)",
-                "whyDesc": "Der Grüne Leguan drückt Dominanz und Abwehrbereitschaft durch seine Kehlfahne (Dewlap) und Körperbewegungen aus. Das vollständige Abspreizen der Hautfalte unter dem Kinn **'Kehlfahnen-Aufstellen (Dewlap Extension)'** in Verbindung mit rhythmischem **'Kopfnicken (Head Bobbing)'** ist ein klassisches Imponierverhalten. Das seitliche Abflachen des Körpers und Ausholen mit dem Schwanz **'Schwanzschlagen (Tail Whipping / Side Stance)'** ist dagegen die letzte Warnung vor einem schmerzhaften Peitschenhieb.",
-                "body_signals": [
-                    {
-                        "name": "Weites Abspreizen der Kehlfahne (Dewlap) bei langsamem Auf- und Abbewegen des Kopfes (Dewlap Extension & Head Bobbing)",
-                        "meaning": "Typisches Territorialsignal zur Bekundung von Präsenz, Dominanz und Selbstbewusstsein im Revier.",
-                        "response": "Bewahren Sie eine ruhige, niedrige Körperhaltung ohne hektische Bewegungen."
-                    },
-                    {
-                        "name": "Seitliches Abflachen des Körpers und Anspannen des Schwanzes (Tail Whipping / Stiff Stance)",
-                        "meaning": "Drückt akuten Stress, Bedrängnis oder Abwehrbereitschaft aus; direkte Vorstufe zum Schwanzschlag.",
-                        "response": "Greifen Sie nicht hinein; entfernen Sie Störfaktoren und nutzen Sie ein Tuch für einen sicheren Abstand."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Morgen: UVB-Lampenkontrolle, Sonnenplatz-Temperaturprüfung & 100 % pflanzlicher Calcium-Salat",
-                        "text": "Prüfen Sie Sonnenplatz (35 °C–38 °C) und UVB-Strahlung zur MBD-Prophylaxe; füttern Sie calciumreiche Blattsalate (Ca:P-Verhältnis 2:1)."
-                    },
-                    {
-                        "name": "Mittag: Hohe Luftfeuchtigkeit (70–80 %) durch Sprühen & Kletter-Möglichkeiten für Baumbewohner",
-                        "text": "Sprühen Sie das Terrarium für die Häutung und Nierengesundheit ein und bieten Sie dicke Äste für baumbewohnende (Arboreal) Aktivität."
-                    },
-                    {
-                        "name": "Abend: Kotentfernung (Infektionsschutz), Nachttemperatur (24–26 °C) & Vollständige Nachtruhe",
-                        "text": "Entfernen Sie Ausscheidungen zur Vermeidung von Hautinfektionen, halten Sie die Nachttemperatur mit Keramikstrahlern aufrecht und dunkeln Sie ab."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Warum sind UVB-Beleuchtung und Calcium für das Überleben des Grünen Leguans überlebenswichtig?",
-                        "answer": "Der Grüne Leguan kann Vitamin D3 nur durch UVB-Bestrahlung der Haut bilden, was wiederum für die Calciumaufnahme unerlässlich ist. Fehlt UVB oder Calcium, entsteht die Metabolische Knochenerkrankung (MBD) – die Knochen erweichen, der Kiefer wird weich und es kommt zu tödlicher Lähmung. Leistungsstarke UVB-Röhren und Calcium-Pulver sind Pflicht."
-                    },
-                    {
-                        "question": "Darf ich meinem Grünen Leguan Insekten wie Heimchen oder Mehlwürmer füttern?",
-                        "answer": "Auf keinen Fall! Der Grüne Leguan ist ein 100 % reiner Pflanzenfresser. Tierisches Eiweiß, Insekten oder Hundefutter führen zu Harnsäureanreicherungen im Blut, was schwere Organgicht, Nierenversagen und den schnellen Tod verursacht. Die Nahrung darf ausschließlich aus dunklem Blattgemüse und geeigneten Pflanzen bestehen."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Sinais comportamentais da Iguana-Verde e rotina diária de 3 passos para prevenção da doença óssea metabólica (MBD) e insuficiência renal",
-                "description": "Guia de cuidados para a majestosa Iguana-Verde (Green Iguana). Interprete a extensão do papo (Dewlap) e o balançar de cabeça, controle iluminação UVB e umidade, e previna a MBD e falência renal em 3 passos.",
-                "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Padrões da International Reptile Conservation Foundation (IRCF)",
-                "profile": {
-                    "breed": "Iguana-Verde (Green Iguana / Iguana iguana)",
-                    "lifespan": "15 ~ 20 anos (Mais de 20 anos com cuidados adequados)",
-                    "sleep_pattern": "10 ~ 12 horas (Diurna, dorme em galhos altos à noite)",
-                    "temperament": "Territorial, Muito alerta, Independente, Inteligente, Requer amansamento paciente"
-                },
-                "intro": "Nativa das florestas tropicais das Américas Central e do Sul, a Iguana-Verde (Iguana iguana) é um grande lagarto diurno icônico amado por criadores de répteis no mundo todo. Podendo atingir de 1,5 a 2 metros de comprimento, possuem fortes instintos territoriais e são extremamente vulneráveis à Doença Óssea Metabólica (MBD) causada pela falta de radiação Ultravioleta-B (UVB) e deficiência de cálcio. Além disso, por serem herbívoros estritos (Strict Herbivore), a ingestão de proteína animal causa gota visceral e insuficiência renal fatais. Neste guia, apresenta uma rotina de 3 passos para cuidar da sua saúde.",
-                "whyTitle": "Linguagem corporal da Iguana-Verde: Extensão do papo (Dewlap Extension), balançar de cabeça (Head Bobbing) e chicotada de cauda (Tail Whipping)",
-                "whyDesc": "A Iguana-Verde comunica dominância e alertas de defesa por meio da papada gular e movimentos do corpo. Expandir totalmente a pele abaixo do queixo **'Extensão do papo (Dewlap Extension)'** ao mesmo tempo em que balança a cabeça **'Balançar de cabeça (Head Bobbing)'** é uma exibição territorial de status. Em contrapartida, achatar o corpo lateralmente e flexionar a cauda **'Chicotada de cauda (Tail Whipping / Side Stance)'** é um aviso direto de um golpe violento de cauda antes de morder.",
-                "body_signals": [
-                    {
-                        "name": "Abrir o papo (Dewlap) completamente enquanto balança a cabeça devagar (Dewlap Extension & Head Bobbing)",
-                        "meaning": "Exibição territorial característica que afirma dominância, presença e confiança no ambiente.",
-                        "response": "Mantenha uma postura calma e baixa sem fazer movimentos bruscos que possam ser vistos como ameaça."
-                    },
-                    {
-                        "name": "Achatar o corpo lateralmente e preparar a cauda para chicotear (Tail Whipping / Stiff Stance)",
-                        "meaning": "Aviso defensivo extremo diante de estresse agudo, indicando ataque iminente com a cauda.",
-                        "response": "Não aproxime as mãos diretamente; remova o estímulo e use uma toalha para manter distância de segurança."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Manhã: Checagem da lâmpada UVB, temperatura do ponto de aquecimento & salada 100% herbívora rica em cálcio",
-                        "text": "Verifique a área de aquecimento (35°C–38°C) e a lâmpada UVB para prevenir MBD, oferecendo folhas verdes ricas em cálcio (couve, mostarda, chicória com proporção Ca:P 2:1)."
-                    },
-                    {
-                        "name": "Tarde: Manutenção de alta umidade (70–80%) por borrifação e enriquecimento de escalada arbórea",
-                        "text": "Borrife o terrário para garantir a umidade necessária para a troca de pele e saúde renal, fornecendo galhos verticais firmes."
-                    },
-                    {
-                        "name": "Noite: Remoção de fezes (prevenção de infecções), controle de temperatura noturna (24–26°C) e escuridão total",
-                        "text": "Limpe uratos e fezes para evitar dermatites, mantendo o calor noturno com aquecedores cerâmicos em ambiente escuro."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Por que a iluminação UVB de alta potência e o cálcio são vitais para a sobrevivência da Iguana-Verde?",
-                        "answer": "A Iguana-Verde sintetiza Vitamina D3 através da exposição da pele à radiação UVB, o que permite absorver o cálcio dos alimentos. Sem UVB ou cálcio adequados, elas desenvolvem a Doença Óssea Metabólica (MBD), gerando amolecimento ósseo, mandíbula de borracha, fraturas e paralisia fatal. Lâmpadas UVB diárias e cálcio em pó são obrigatórios."
-                    },
-                    {
-                        "question": "Posso alimentar minha Iguana-Verde com insetos como grilos ou larvas?",
-                        "answer": "Jamais! A Iguana-Verde é um réptil 100% herbívoro estrito. A ingestão de proteína animal ou insetos gera acúmulo de ácido úrico no sangue, provocando gota visceral severa, insuficiência renal e morte precoce. Sua dieta deve consistir exclusivamente de folhas verdes escuras e vegetais adequados."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Sinyal Perilaku Iguana Hijau (Green Iguana) dan Rutinitas Harian 3 Langkah Perawatan Pencegahan Penyakit Tulang Metabolik (MBD) serta Gagal Ginjal",
-                "description": "Panduan perawatan reptil besar anggun Iguana Hijau (Green Iguana). Pahami kibasan gelambir leher (dewlap) dan anggukan kepala, kelola pencahayaan UVB dan kelembapan, serta cegah MBD dalam 3 langkah.",
-                "authority": "Standar Perawatan Association of Reptilian and Amphibian Veterinarians (ARAV) & International Reptile Conservation Foundation (IRCF)",
-                "profile": {
-                    "breed": "Iguana Hijau / Green Iguana (Iguana iguana)",
-                    "lifespan": "15 ~ 20 tahun (Lebih dari 20 tahun dengan perawatan optimal)",
-                    "sleep_pattern": "10 ~ 12 jam (Diurnal/aktif siang hari, tidur di dahan tinggi saat malam)",
-                    "temperament": "Sangat Teritorial, Waspada, Independen, Cerdas, Membutuhkan Penjinakan Sabar"
-                },
-                "intro": "Berasal dari hutan hujan tropis Amerika Tengah dan Selatan, Iguana Hijau (Iguana iguana) adalah kadal besar diurnal ikonis yang sangat dicintai oleh pecinta reptil di seluruh dunia. Dapa tumbuh hingga panjang 1,5 sampai 2 meter, reptil anggun ini memiliki insting teritorial yang kuat dan sangat rentan terhadap Penyakit Tulang Metabolik (MBD) akibat kurangnya radiasi Ultraviolet-B (UVB) dan kalsium. Selain itu, sebagai hewan herbivora murni (Strict Herbivore), konsumsi protein hewani dapat memicu asam urat organ dalam dan gagal ginjal yang mematikan. Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk merawat kesehatan Iguana Hijau Anda.",
-                "whyTitle": "Bahasa Tubuh Iguana Hijau: Merekarkan Dewlap (Gelambir), Anggukan Kepala (Head Bobbing), dan Sabetan Ekor (Tail Whipping)",
-                "whyDesc": "Iguana Hijau menyampaikan dominasi dan peringatan pertahanan melalui gelambir leher (dewlap) dan gerakan tubuhnya. Merekarkan lipatan kulit di bawah dagu **'Merekarkan Dewlap (Dewlap Extension)'** sambil menganggukkan kepala secara ritmis **'Anggukan Kepala (Head Bobbing)'** adalah tanda teritorial khas untuk menunjukkan dominasi. Sebaliknya, pipihkan tubuh ke samping dan melengkungkan ekor **'Sabetan Ekor (Tail Whipping / Side Stance)'** adalah peringatan tegas akan serangan ekor yang kuat sebelum menggigit.",
-                "body_signals": [
-                    {
-                        "name": "Merekarkan Gelambir Leher (Dewlap) Lebar-lebar Sambil Menganggukkan Kepala Perlahan (Dewlap Extension & Head Bobbing)",
-                        "meaning": "Komunikasi teritorial khas yang menunjukkan dominasi, kehadiran, dan rasa percaya diri di wilayahnya.",
-                        "response": "Jaga posisi tubuh Anda tetap tenang dan rendah tanpa membuat gerakan mendadak yang memicu provokasi."
-                    },
-                    {
-                        "name": "Memipihkan Tubuh ke Samping dan Mengayunkan Ekor secara Lentur (Tail Whipping / Stiff Stance)",
-                        "meaning": "Peringatan pertahanan ekstrem saat mengalami stres berat atau merasa terancam; pertanda akan menyabetkan ekor.",
-                        "response": "Jangan langsung menjangkau dengan tangan; jauhkan pemicu stres dan gunakan handuk untuk menjaga jarak aman."
-                    }
-                ],
-                "daily_routine": [
-                    {
-                        "name": "Pagi: Pemeriksaan Lampu UVB, Kontrol Suhu Basking & Saluran Kalsium 100% Herbivora",
-                        "text": "Periksa area basking (35°C–38°C) dan lampu UVB untuk mencegah MBD, lalu berikan sayuran hijau kaya kalsium (daun lobak, pakcoy, selada keriting dengan rasio Ca:P 2:1)."
-                    },
-                    {
-                        "name": "Siang: Menjaga Kelembapan Tinggi (70–80%) dengan Semprotan Air & Sarana Panjat Pohon (Arboreal)",
-                        "text": "Semprotkan air untuk menjaga kelembapan agar proses ganti kulit lancar dan ginjal terhidrasi, serta sediakan dahan kayu kokoh untuk memanjat."
-                    },
-                    {
-                        "name": "Malam: Pembersihan Kotoran (Pencegahan Infeksi), Suhu Malam (24–26°C) & Tidur Gelap Total",
-                        "text": "Bersihkan asam urat dan kotoran untuk mencegah infeksi kulit, jaga kehangatan malam menggunakan pemanas keramik tanpa cahaya."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mengapa sinar UVB intensitas tinggi dan kalsium sangat vital bagi kelangsungan hidup Iguana Hijau?",
-                        "answer": "Iguana Hijau menyintesis Vitamin D3 melalui paparan sinar UVB pada kulitnya, yang memungkinkan penyerapan kalsium makanan. Tanpa UVB atau kalsium yang cukup, mereka akan menderita Penyakit Tulang Metabolik (MBD)—menyebabkan tulang lunak, rahang lembek, patah tulang, dan kelumpuhan mematikan. Penggunaan lampu UVB dan taburan bubuk kalsium adalah hal yang wajib."
-                    },
-                    {
-                        "question": "Bolehkah saya memberi pakan serangga seperti jangkrik atau ulat bumbung kepada Iguana Hijau?",
-                        "answer": "Sangat tidak boleh! Iguana Hijau adalah reptil 100% herbivora murni. Mengonsumsi protein hewani, serangga, atau pakan hewan lain menyebabkan penumpukan asam urat berlebih yang memicu asam urat organ dalam (gout), gagal ginjal, dan kematian mendadak. Makanan mereka harus murni terdiri dari sayuran hijau dan daun-daunan yang aman."
-                    }
-                ]
-            }
+  "green-iguana-care": {
+    "pubDate": "2026-06-18",
+    "updatedDate": "2026-06-18",
+    "locales": {
+      "ko": {
+        "title": "그린 이구아나의 행동 신호 해석과 대사성 뼈 질환(MBD) 및 신부전 예방을 위한 3단계 데일리 케어",
+        "description": "우아하고 야생미 넘치는 대형 파충류 그린 이구아나(Green Iguana). 목밑 듀랩(Dewlap) 확장·헤드 바빙 신호 해석, UVB 온·습도 케어, MBD·신부전 예방을 위한 3단계 홈케어 루틴을 소개합니다.",
+        "authority": "ARAV (세계 파충류·양서류 수의사회) 및 IRCF (국제 파충류 보존 재단) 케어 프로토콜",
+        "profile": {
+          "breed": "그린 이구아나 (Green Iguana / Iguana iguana)",
+          "lifespan": "15 ~ 20년 (올바른 케어 시 20년 이상)",
+          "sleep_pattern": "10 ~ 12시간 (주행성, 밤에 높은 나뭇가지나 구조물에서 수면)",
+          "temperament": "영역 의식 강함, 경계심 많음, 독립적, 영리함, 정성 어린 핸들링 필요"
         },
-        "heroImage": "/images/blog/green_iguana_care.webp"
-    }
+        "intro": "중남미 열대 우림이 원산지인 그린 이구아나(Green Iguana)는 강렬한 녹색 피모와 당당한 체구로 전 세계 파충류 사육자들에게 사랑받는 대표적인 주행성 대형 도마뱀입니다. 성체 시 1.5~2m까지 자라는 이구아나는 온순해 보이지만 강한 영역 본능을 지니고 있으며, 자외선(UVB) 부족과 칼슘 결핍으로 인한 대사성 뼈 질환(MBD)에 매우 취약합니다. 또한 완전 초식성(Herbivorous) 파충류이므로 동물성 단백질을 섭취할 경우 치명적인 통풍과 신부전이 발생합니다. 이번 가이드에서는 그린 이구아나의 신체 신호를 정확히 읽어내고 건강을 지키는 3단계 데일리 케어 루틴을 소개합니다.",
+        "whyTitle": "그린 이구아나의 바디 랭귀지: 듀랩 확장(Dewlap Extension)과 헤드 바빙(Head Bobbing / Tail Whip)",
+        "whyDesc": "그린 이구아나는 목 밑 피부인 듀랩과 머리의 움직임으로 위엄과 경계 신호를 구별합니다. 목 밑의 넓은 **'듀랩 확장(Dewlap Extension)'**과 천천히 고개를 위아래로 끄덕이는 **'헤드 바빙(Head Bobbing)'**은 자신의 영역과 위엄을 알리는 대표적인 커뮤니케이션 및 경계 행동입니다. 반면 몸을 옆으로 납작하게 부풀리고 꼬리를 채찍처럼 휘두르는 **'꼬리 치기(Tail Whipping / Side Stance)'**는 접근 시 강력한 타격을 가하겠다는 즉각적인 공격 전 경고 신호입니다.",
+        "body_signals": [
+          {
+            "name": "목 밑 듀랩(Dewlap)을 크게 펼치며 천천히 고개를 위아래로 흔듦 (Dewlap Extension & Head Bobbing)",
+            "meaning": "보호자나 주변 환경을 향해 자신의 영역과 존재감을 알리고 세력을 과시하는 대표적인 표현 행동입니다.",
+            "response": "차분하고 낮은 태도를 유지하며 갑작스러운 움직임으로 이구아나를 자극하지 않습니다."
+          },
+          {
+            "name": "몸을 측면으로 납작하게 만들고 꼬리를 뒤로 유연하게 휘두름 (Tail Whipping / Stiff Stance)",
+            "meaning": "극도의 위협이나 스트레스를 느꼈을 때 나타내는 최후의 공격 전 방어 및 채찍질 경고 신호입니다.",
+            "response": "손을 무리하게 대지 말고 시야에서 자극 요소를 치운 뒤 수건 등으로 안전하게 거리를 둡니다."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "아침: UVB 자외선 등 점검, 바스킹존 온·습도 확인 및 100% 초식 칼슘 샐러드 급여",
+            "text": "MBD 예방을 위해 바스킹존(35~38°C)과 UVB 출력 상태를 점검하고, 순수 초식에 맞춘 칼슘 풍부 야채(순무잎, 청경채, 치커리 등 칼슘:인 비율 2:1)를 급여합니다."
+          },
+          {
+            "name": "낮: 높은 습도 유지(70~80%)를 위한 미스팅(Misting) 및 대형 케이지 내 등반 활동",
+            "text": "탈피 부전과 신장 질환을 막기 위해 분무기로 높은 습도를 조성하고, 나무 위 생활(Arboreal) 본능을 충족할 높고 튼튼한 구조물에서 운동시킵니다."
+          },
+          {
+            "name": "저녁: 소화 및 야간 체온 조절(24~26°C), 배설물 청소 및 10~12시간 완전 수면 환경",
+            "text": "요산과 배설물을 청소하여 세균 감염을 방지하고, 밤 동안 체온이 떨어지지 않도록 세라믹 온열등으로 야간 온도를 유지하며 암막 환경을 제공합니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "이구아나에게 자외선(UVB) 램프와 칼슘 공급이 왜 생명과 직결되나요?",
+            "answer": "그린 이구아나는 햇빛의 UVB를 받아 비타민 D3를 합성해야만 섭취한 칼슘을 흡수할 수 있습니다. UVB가 부족하거나 칼슘이 결핍되면 뼈가 얇아지고 턱이 물렁해지는 '대사성 뼈 질환(MBD/Metabolic Bone Disease)'이 발생하여 골절, 경련, 마비로 사망에 이릅니다. 매일 고출력 UVB 등 조사와 칼슘 파우더 첨가가 필수입니다."
+          },
+          {
+            "question": "이구아나에게 귀뚜라미나 밀웜 같은 곤충이나 고기를 주면 안 되나요?",
+            "answer": "절대 안 됩니다! 그린 이구아나는 생리학적으로 100% 초식성(Strict Herbivore) 파충류입니다. 동물성 단백질이나 사료, 곤충을 섭취하면 단백질 과다 소화 부산물인 요산이 체내에 쌓여 치명적인 신부전과 전신 통풍(Gout)을 유발하여 조기 사망합니다. 반드시 녹색 잎채소 중심으로 식단을 구성해야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "Green Iguana Behavioral Signals and 3-Step Daily Routine for Metabolic Bone Disease (MBD) and Kidney Failure Prevention",
+        "description": "Care guide for the majestic Green Iguana. Interpret dewlap extension and head bobbing, manage UVB lighting, humidity, and prevent MBD and renal failure in 3 steps.",
+        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & International Reptile Conservation Foundation (IRCF) Care Standards",
+        "profile": {
+          "breed": "Green Iguana (Iguana iguana)",
+          "lifespan": "15 - 20 Years (20+ years with optimal care)",
+          "sleep_pattern": "10 - 12 Hours (Diurnal, sleeps in high branches at night)",
+          "temperament": "Territorial, Highly Alert, Independent, Intelligent, Requires Patient Taming"
+        },
+        "intro": "Native to the tropical rainforests of Central and South America, the Green Iguana (Iguana iguana) is an iconic large diurnal lizard cherished by reptile enthusiasts worldwide. Growing up to 1.5 to 2 meters in length, these majestic reptiles possess strong territorial instincts and are exceptionally vulnerable to Metabolic Bone Disease (MBD) caused by inadequate Ultraviolet-B (UVB) radiation and calcium deficiencies. Furthermore, as strict herbivores, consuming animal protein induces fatal visceral gout and renal failure. In this guide, presents a 3-step daily care routine to decode your Green Iguana's body language and safeguard its health.",
+        "whyTitle": "Green Iguana Body Language: Dewlap Extension, Head Bobbing, and Tail Whipping",
+        "whyDesc": "Green Iguanas communicate dominance and defensive warnings using their throat fan (dewlap) and body movements. Fully expanding the colorful skin under their chin **'Dewlap Extension'** while rhythmically nodding their head **'Head Bobbing'** is a signature territorial display signaling presence and status. Conversely, flattening their body laterally and coiling their tail **'Tail Whipping / Side Stance'** is an explicit warning of an imminent powerful tail strike prior to biting.",
+        "body_signals": [
+          {
+            "name": "Flaring the Dewlap Wide while Slowly Bobbing Head Up and Down (Dewlap Extension & Head Bobbing)",
+            "meaning": "A signature territorial communication assertion asserting dominance, presence, and environmental confidence.",
+            "response": "Maintain a calm, low posture without making sudden movements that could be perceived as a challenge."
+          },
+          {
+            "name": "Flattening Body Laterally and Whipping Tail Flexibly (Tail Whipping / Stiff Stance)",
+            "meaning": "An extreme defensive warning indicating acute stress, feeling cornered, or impending physical aggression.",
+            "response": "Avoid reaching in directly; remove visual stressors and use a towel for safe, non-threatening distance."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morning: UVB Lamp Output Check, Basking Temperature Control & 100% Herbivorous Calcium Salad",
+            "text": "Inspect the basking zone (35°C–38°C) and UVB bulbs to prevent MBD, feeding calcium-rich greens (collard, turnip, mustard greens with 2:1 Ca:P ratio)."
+          },
+          {
+            "name": "Afternoon: High Humidity Maintenance (70–80%) & Vertical Arboreal Climbing Enrichment",
+            "text": "Mist the enclosure to maintain high humidity for proper shedding and renal hydration, providing sturdy vertical branches for climbing exercise."
+          },
+          {
+            "name": "Evening: Waste Removal (Infection Prevention), Night Temperature Control (24–26°C) & Blackout Sleep",
+            "text": "Clean urates and feces to prevent bacterial dermatitis, maintaining a warm night temperature using ceramic heat emitters in total darkness."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Why are high-output UVB lighting and calcium supplements vital for a Green Iguana's survival?",
+            "answer": "Green Iguanas synthesize Vitamin D3 through skin exposure to UVB light, which enables dietary calcium absorption. Without adequate UVB or calcium, they develop Metabolic Bone Disease (MBD)—causing bone softening, rubber jaw, fractures, muscle tremors, and fatal paralysis. Daily high-output UVB lighting and dust-on calcium powder are strictly mandatory."
+          },
+          {
+            "question": "Can I feed insects like crickets or mealworms to my Green Iguana?",
+            "answer": "Absolutely not! Green Iguanas are obligate, 100% strict herbivores. Ingesting animal protein, insect protein, or commercial pet foods causes excessive uric acid buildup, leading to severe visceral gout, kidney failure, and premature death. Their diet must consist exclusively of leafy dark greens and safe vegetables."
+          }
+        ]
+      },
+      "ja": {
+        "title": "グリーンイグアナの威嚇・領土サイン解読と代謝性骨疾患(MBD)・痛風予防のための3ステップデイリールーティン",
+        "description": "堂々たる大自然の魅力を備えた大型爬虫類グリーンイグアナ（Green Iguana）。デュラップ(Dewlap)拡張やヘッドボビングの解読、UVB・温湿度ケア、MBD・腎不全予防の3ステップホームケアを紹介します。",
+        "authority": "ARAV（世界爬虫類・両生類獣医師会）およびIRCF（国際爬虫類保全財団）飼育基準",
+        "profile": {
+          "breed": "グリーンイグアナ (Green Iguana / Iguana iguana)",
+          "lifespan": "15 〜 20年 (適切なケアで20年以上)",
+          "sleep_pattern": "10 〜 12時間 (昼行性、夜間は樹上の高所で就寝)",
+          "temperament": "縄張り意識が強い、警戒心が強い、独立心がある、極めて知的、根気強い慣らしが必要"
+        },
+        "intro": "中南米の熱帯雨林原産のグリーンイグアナ（Green Iguana）は、鮮やかな緑色の体色と堂々たる体躯で世界中の爬虫類愛好家から愛されている代表的な昼行性大型トカゲです。成体で1.5〜2mに達する本種は、おとなしそうに見えて強い縄張り本能を持ち、紫外線（UVB）不足やカルシウム欠乏による代謝性骨疾患（MBD）に極めて脆弱です。また完全草食性（Strict Herbivore）の爬虫類であるため、動物性タンパク質を摂取すると致命的な痛風や腎不全を引き起こします。本記事では、グリーンイグアナのサインを解読し健康を守る3ステップルーティンをお届けします。",
+        "whyTitle": "グリーンイグアナのボディランゲージ：デュラップ拡張(Dewlap Extension)とヘッドボビング(Head Bobbing / Tail Whip)",
+        "whyDesc": "グリーンイグアナは喉の皮膚であるデュラップと頭部の動きで威厳と警戒を明確に表現します。喉下の赤く広い皮弁を広げる**「デュラップ拡張（Dewlap Extension）」**と頭を上下にゆっくり振る**「ヘッドボビング（Head Bobbing）」**は、自分の縄張りと存在感を誇示する代表的なコミュニケーションです。一方、体を横に平たく膨らませて尾を鞭のようにしならせる**「尾打ち（Tail Whipping / Side Stance）」**は、接近に対して強い攻撃を加える直前の緊急警告サインです。",
+        "body_signals": [
+          {
+            "name": "喉下のデュラップ(Dewlap)を大きく広げ、頭を上下にゆっくり振る (Dewlap Extension & Head Bobbing)",
+            "meaning": "飼い主や周囲の環境に対して自分の縄張りと存在感を示し、優位性を誇示する表現行動です。",
+            "response": "落ち着いた低い姿勢を保ち、突然の動作でイグアナを刺激しないようにしましょう。"
+          },
+          {
+            "name": "体を横方向に平たくし、尾を後ろにしならせる (Tail Whipping / Stiff Stance)",
+            "meaning": "極度の脅威やストレスを感じている際に見せる、攻撃・尾打ち直前の防衛警告サインです。",
+            "response": "手を無理に伸ばさず視界から刺激要素を取り除き、タオルなどを使って安全な距離を保ちましょう。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "朝：UVB照射照射量の点検、バスキングエリアの温湿度確認＆100%草食カルシウムサラダの給餌",
+            "text": "MBD予防のためバスキングゾーン（35〜38℃）とUVBの出力を確認し、カルシウム豊富な野菜（小松菜、チンゲンサイ、チコリなど Ca:P比 2:1）を与えます。"
+          },
+          {
+            "name": "昼：高湿度維持（70〜80%）のための霧吹き（ミスティング）と大型ケージ内での登はん運動",
+            "text": "脱皮不全や腎臓疾患を防ぐためにミストで高湿度を保ち、樹上性（Arboreal）本能を満たす頑丈な木で運動させます。"
+          },
+          {
+            "name": "夜：排泄物清掃、夜間体温維持（24〜26℃）と10〜12時間の完全消灯睡眠環境",
+            "text": "尿酸とフンを掃除して細菌感染を防ぎ、夜間に体温が下がらないよう保温球で適温を保ち、暗く静かな環境で休ませます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "イグアナにとって紫外線（UVB）ランプとカルシウム補給はなぜ生命に関わるのですか？",
+            "answer": "グリーンイグアナは日光のUVBを浴びてビタミンD3を合成することで、初めて食物中のカルシウムを吸収できます。UVBやカルシウムが不足すると、骨が軟化して顎が変形する「代謝性骨疾患（MBD）」を発症し、骨折や痙攣、麻痺を引き起こして死亡します。毎日の高出力UVB照射とカルシウムパウダーの添加が必須です。"
+          },
+          {
+            "question": "イグアナにコオロギやミルワームなどの昆虫や肉を与えてはいけませんか？",
+            "answer": "絶対に与えてはいけません！グリーンイグアナは生理学的に100%の完全草食性（Strict Herbivore）です。動物性タンパク質やドッグフード、昆虫を摂取すると、消化副産物である尿酸が体内に蓄積し、致命的な内臓痛風や腎不全を引き起こして早期死亡します。必ず緑の葉野菜を中心とした食餌を与えてください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "绿鬣蜥行为信号解读与代谢性骨病 (MBD) 及肾衰竭预防的 3 步日常流程",
+        "description": "具有威严大自然魅力的著名大型爬宠绿鬣蜥（Green Iguana）。解读喉扇（Dewlap）张开与点头信号，维护 UVB 温湿度，预防 MBD 与肾衰竭的 3 步骤家庭护理。",
+        "authority": "世界两栖爬行类兽医师协会 (ARAV) 与国际爬行动物保护基金会 (IRCF) 护理标准",
+        "profile": {
+          "breed": "绿鬣蜥 (Green Iguana / Iguana iguana)",
+          "lifespan": "15 ~ 20年 (科学喂养可达20年以上)",
+          "sleep_pattern": "10 ~ 12小时 (昼行性，夜间在树枝高处睡眠)",
+          "temperament": "领地意识强、警惕性高、独立、极度聪明、需要耐心的驯化"
+        },
+        "intro": "原产于中南美洲热带雨林的绿鬣蜥（Green Iguana），凭其鲜艳的绿色肤色和威风凛凛的体型，是备受全球爬宠爱好者喜爱的代表性昼行性大型蜥蜴。成体体长可达 1.5~2 米，虽然看似温顺，但拥有极强的领地本能，且对因缺乏紫外线（UVB）与钙质引起的代谢性骨病（MBD）极度脆弱。此外，绿鬣蜥是严格的 100% 纯草食性（Strict Herbivore）爬行类，摄入动物性蛋白会导致致命的痛风与肾衰竭。本指南将带您准确解读绿鬣蜥肢体语言，并通过 3 步骤日常护理维护其健康。",
+        "whyTitle": "绿鬣蜥肢体语言：喉扇张开 (Dewlap Extension)、点头 (Head Bobbing) 与甩尾警告 (Tail Whipping)",
+        "whyDesc": "绿鬣蜥通过喉部皮扇（Dewlap）和头部动作清晰表达威严与领地警告。完全展开下巴下方鲜艳的皮扇**“喉扇张开 (Dewlap Extension)”**并配合有节奏地上下点头**“点头 (Head Bobbing)”**，是宣示领地主权与存在感的代表性行为。相反，侧向扁平化身体并灵活卷曲尾巴**“甩尾警告 (Tail Whipping / Side Stance)”**，则是受到逼近时即将发动猛烈尾巴抽打的紧急警告信号。",
+        "body_signals": [
+          {
+            "name": "张开下巴下方的喉扇 (Dewlap)，并缓慢上下点头 (Dewlap Extension & Head Bobbing)",
+            "meaning": "向主人或周围环境宣示领地主权、展示存在感与建立威严的代表性沟通姿态。",
+            "response": "保持平静低调的姿势，避免做出可能被视为挑衅的突然动作。"
+          },
+          {
+            "name": "侧向压扁身体，将尾巴向后弯曲蓄力 (Tail Whipping / Stiff Stance)",
+            "meaning": "感到极度威胁或压迫时发出的最后防卫警告，预示即将进行猛烈的甩尾抽打。",
+            "response": "切勿强行抓握，撤离刺激源，必要时使用毛巾保持安全距离。"
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "早上：UVB 紫外线灯输出检查、晒背区温湿度确认与 100% 草食钙质蔬菜拼盘",
+            "text": "检查晒背区（35°C~38°C）与 UVB 衰减情况以防 MBD，投喂富含钙质的绿叶蔬菜（芥菜、芜菁叶、羽衣甘蓝，钙磷比 2:1）。"
+          },
+          {
+            "name": "中午：维持高湿度环境（70~80%）的喷雾 (Misting) 与高大型笼舍攀爬活动",
+            "text": "使用喷雾器维持高湿度以防脱皮不全及肾脏病变，并提供稳固的树枝攀爬设施以满足其树栖（Arboreal）习性。"
+          },
+          {
+            "name": "晚上：清理排泄物（预防感染）、夜间保温控制 (24°C~26°C) 与 10~12 小时完全黑暗睡眠",
+            "text": "清理尿酸与粪便以防细菌性皮肤炎，夜间使用陶瓷加热灯维持温度，并提供完全无光的黑暗睡眠环境。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "为什么高输出 UVB 紫外线灯和补钙对绿鬣蜥的生命至关重要？",
+            "answer": "绿鬣蜥必须通过皮肤照射 UVB 紫外线合成维生素 D3，才能吸收食物中的钙质。若缺乏 UVB 或钙质，会引发“代谢性骨病（MBD/Metabolic Bone Disease）”，导致骨质软化、橡皮软颚、骨折、抽搐甚至瘫痪死亡。每日高输出 UVB 照射与添加钙粉是绝对强制要求的。"
+          },
+          {
+            "question": "可以给绿鬣蜥喂食蟋蟀、面包虫等昆虫或肉类吗？",
+            "answer": "绝对不可以！绿鬣蜥生理上是 100% 严格的纯草食性（Strict Herbivore）动物。摄入动物蛋白、昆虫或普通宠物饲料，会导致过量尿酸在体内结晶堆积，引发严重内脏痛风、肾衰竭并导致猝死。必须严格喂食深色绿叶蔬菜与安全蔬果。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Señales de conducta en la Iguana Verde y rutina diaria de 3 pasos para la prevención de la enfermedad ósea metabólica (MBD) y la insuficiencia renal",
+        "description": "Guía de cuidado para la majestuosa Iguana Verde (Green Iguana). Interprete la extensión del papo (Dewlap) y el cabeceo, controle iluminación UVB y humedad, y prevenga MBD e insuficiencia renal en 3 pasos.",
+        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) y Normas de la International Reptile Conservation Foundation (IRCF)",
+        "profile": {
+          "breed": "Iguana Verde (Green Iguana / Iguana iguana)",
+          "lifespan": "15 ~ 20 años (Más de 20 años con cuidados óptimos)",
+          "sleep_pattern": "10 ~ 12 horas (Diurna, duerme en ramas altas por la noche)",
+          "temperament": "Territorial, Muy alerta, Independiente, Inteligente, Requiere amansamiento paciente"
+        },
+        "intro": "Originaria de las selvas tropicales de Centro y Sudamérica, la Iguana Verde (Iguana iguana) es un gran lagarto diurno icónico amado por apasionados de los reptiles en todo el mundo. Alcanzando de 1.5 a 2 metros de longitud, poseen fuertes instintos territoriales y son sumamente vulnerables a la Enfermedad Ósea Metabólica (MBD) provocada por la radiación Ultravioleta-B (UVB) inadecuada y la deficiencia de calcio. Además, al ser herbívoras estrictas (Strict Herbivore), la ingesta de proteína animal produce gota visceral e insuficiencia renal mortales. En esta guía, presenta una rutina de 3 pasos para cuidar su salud.",
+        "whyTitle": "Lenguaje corporal de la Iguana Verde: Extensión del papo (Dewlap Extension), cabeceo (Head Bobbing) y coletazo (Tail Whipping)",
+        "whyDesc": "La Iguana Verde comunica dominancia y advertencias defensivas mediante su abanico gular (papo) y movimientos corporales. Desplegar completamente la piel de la garganta **'Extensión del papo (Dewlap Extension)'** junto con un asentamiento rítmico de cabeza **'Cabeceo (Head Bobbing)'** es una exhibición territorial de estatus. En cambio, aplanar el cuerpo lateralmente y flexiblemente curvar la cola **'Coletazo (Tail Whipping / Side Stance)'** es un aviso directo de un látigo de cola inminente antes de morder.",
+        "body_signals": [
+          {
+            "name": "Desplegar el papo (Dewlap) completamente mientras asiente la cabeza despacio (Dewlap Extension & Head Bobbing)",
+            "meaning": "Exhibición territorial característica que afirma dominancia, presencia y confianza en su entorno.",
+            "response": "Mantenga una postura serena y baja sin hacer movimientos bruscos que puedan interpretarse como un reto."
+          },
+          {
+            "name": "Aplanar el cuerpo lateralmente y preparar la cola para latiguear (Tail Whipping / Stiff Stance)",
+            "meaning": "Advertencia defensiva extrema ante estrés agudo o amenaza; indica un azote violento con la cola.",
+            "response": "No introduzca las manos directamente; retire los estímulos molestos y use una toalla para guardar distancia de seguridad."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Mañana: Revisión de lámpara UVB, control de temperatura en punto de asoleamiento y ensalada 100% herbívora rica en calcio",
+            "text": "Examine la zona de asoleamiento (35°C–38°C) y tubos UVB para prevenir MBD, ofreciendo hojas verdes ricas en calcio (col rizada, berros, achicoria con relación Ca:P 2:1)."
+          },
+          {
+            "name": "Tarde: Control de alta humedad (70–80%) mediante pulverización y enriquecimiento de trepa arbórea",
+            "text": "Rocíe el terrario para mantener la humedad necesaria para la muda e hidratación renal, proporcionando ramas verticales sólidas."
+          },
+          {
+            "name": "Noche: Limpieza de deyecciones (prevención de dermatitis), temperatura nocturna (24–26°C) y oscuridad total",
+            "text": "Retire uratos y heces para evitar infecciones bacterianas, manteniendo calor nocturno mediante emisores cerámicos sin luz."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Por qué la luz UVB de alto rendimiento y el calcio son vitales para la supervivencia de la Iguana Verde?",
+            "answer": "La Iguana Verde sintetiza Vitamina D3 mediante la exposición de la piel a la luz UVB, lo que permite absorber el calcio alimentario. Sin suficiente UVB o calcio, desarrollan Enfermedad Ósea Metabólica (MBD), lo que causa reblandecimiento óseo, mandíbula de goma, fracturas y parálisis letal. La lámpara UVB diaria y el polvo de calcio son obligatorios."
+          },
+          {
+            "question": "¿Puedo alimentar a mi Iguana Verde con insectos como grillos o gusanos?",
+            "answer": "¡Absolutamente no! La Iguana Verde es un reptil 100% herbívoro estricto. La ingesta de proteína animal o insectos acumula ácido úrico en sangre, causando gota visceral grave, insuficiencia renal y muerte prematura. Su dieta debe ser exclusivamente a base de hojas verdes oscuras y vegetales aptos."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Signaux comportementaux de l'Iguane Vert et routine quotidienne en 3 étapes pour la prévention de la maladie osseuse métabolique (MBD) et de l'insuffisance rénale",
+        "description": "Guide de soins pour le majestueux Iguane Vert (Green Iguana). Décryptez le déploiement du fanon (Dewlap) et le hochement de tête, contrôlez l'UVB et l'humidité, et prévenez la MBD et l'insuffisance rénale en 3 étapes.",
+        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Normes de l'International Reptile Conservation Foundation (IRCF)",
+        "profile": {
+          "breed": "Iguane Vert (Green Iguana / Iguana iguana)",
+          "lifespan": "15 ~ 20 ans (Plus de 20 ans avec des soins adaptés)",
+          "sleep_pattern": "10 ~ 12 heures (Diurne, dort sur les hautes branches la nuit)",
+          "temperament": "Territorial, Très attentif, Indépendant, Intelligent, Apprivoisement patient requis"
+        },
+        "intro": "Originaire des forêts tropicales d'Amérique centrale et du Sud, l'Iguane Vert (Iguana iguana) est un grand lézard diurne emblématique adoré des passionnés de reptiles. Pouvant atteindre 1,5 à 2 mètres de longueur, ce magnifique reptile possède un fort instinct territorial et se montre très vulnérable à la Maladie Osseuse Métabolique (MBD) provoquée par un manque de rayons Ultraviolet-B (UVB) et de calcium. De plus, étant un herbivore strict (Strict Herbivore), la consommation de protéines animales déclenche une goutte viscérale et une insuffisance rénale mortelles. Dans ce guide, vous présente une routine en 3 étapes pour préserver sa santé.",
+        "whyTitle": "Langage corporel de l'Iguane Vert : Déploiement du fanon (Dewlap Extension), hochement de tête (Head Bobbing) et coup de queue (Tail Whipping)",
+        "whyDesc": "L'Iguane Vert exprime sa dominance et ses avertissements par son fanon gulaire et ses mouvements. Déployer largement la peau sous sa gorge **« Déploiement du fanon (Dewlap Extension) »** tout en hochant la tête **« Hochement de tête (Head Bobbing) »** est sa signature territoriale. En revanche, aplatir son corps latéralement en faisant osciller sa queue **« Coup de queue (Tail Whipping / Side Stance) »** est un avertissement direct avant une frappe de queue violente.",
+        "body_signals": [
+          {
+            "name": "Déployer largement le fanon (Dewlap) en hochant lentement la tête (Dewlap Extension & Head Bobbing)",
+            "meaning": "Comportement territorial affirmant la dominance, la présence et l'assurance de l'iguane dans son environnement.",
+            "response": "Adoptez une posture calme et basse sans gestes brusques pouvant être perçus comme une provocation."
+          },
+          {
+            "name": "Aplatir le corps sur le côté et courber la queue en fouet (Tail Whipping / Stiff Stance)",
+            "meaning": "Avertissement défensif extrême indiquant un stress aigu ou une réaction d'attaque imminente.",
+            "response": "N'approchez pas les mains directement ; éloignez la source de stress et utilisez une serviette pour vous protéger."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Matin : Vérification du néon UVB, température de point chaud & salade 100% herbivore riche en calcium",
+            "text": "Contrôlez le point chaud (35°C–38°C) et les UVB pour éviter la MBD, en donnant des légumes riches en calcium (chou frisé, fanes de navet, chicorée avec ratio Ca:P 2:1)."
+          },
+          {
+            "name": "Après-midi : Maintien d'une forte hygrométrie (70–80%) par vaporisation & installations de grimpe arboricole",
+            "text": "Vaporisez le terrarium pour favoriser la mue et l'hydratation rénale, en offrant de solides branches verticales."
+          },
+          {
+            "name": "Soir : Nettoyage des déjections (prévention des infections), chauffage nocturne (24–26°C) & obscurité totale",
+            "text": "Retirez urates et fèces pour éviter les dermatites, en maintenant une chaleur nocturne douce par céramique chauffante."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Pourquoi la lampe UVB à forte puissance et le calcium sont-ils vitaux pour l'Iguane Vert ?",
+            "answer": "L'Iguane Vert synthétise la vitamine D3 grâce à l'exposition de sa peau aux UVB, ce qui conditionne l'assimilation du calcium. Sans UVB ou sans calcium, il développe la Maladie Osseuse Métabolique (MBD) qui ramollit les os, déforme la mâchoire et provoque des fractures ainsi qu'une paralysie fatale. Le néon UVB quotidien et la poudre de calcium sont obligatoires."
+          },
+          {
+            "question": "Puis-je donner des insectes (grillons, vers de farine) ou de la viande à mon Iguane Vert ?",
+            "answer": "Absolument pas ! L'Iguane Vert est un animal 100 % herbivore strict. L'ingestion de protéines animales ou d'insectes entraîne une accumulation d'acide urique dans l'organisme, provoquant une goutte viscérale fulgurante, une insuffisance rénale et la mort. Son alimentation doit se composer exclusivement de feuilles vertes et de légumes adaptés."
+          }
+        ]
+      },
+      "de": {
+        "title": "Verhaltenssignale des Grünen Leguans und 3-Schritte-Tagesroutine für Metabolische Knochenerkrankung (MBD) und Nierenversagen-Prophylaxe",
+        "description": "Pflegeanleitung für den majestätischen Grünen Leguan (Green Iguana). Kehlfahnen-Aufstellen und Kopfnicken verstehen, UVB-Beleuchtung und Luftfeuchtigkeit steuern sowie MBD in 3 Schritten vorbeugen.",
+        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Standards der International Reptile Conservation Foundation (IRCF)",
+        "profile": {
+          "breed": "Grüner Leguan (Green Iguana / Iguana iguana)",
+          "lifespan": "15 ~ 20 Jahre (Bei optimaler Haltung über 20 Jahre)",
+          "sleep_pattern": "10 ~ 12 Stunden (Tagaktiv, schläft nachts auf hohen Ästen)",
+          "temperament": "Territorial, Sehr wachsam, Unabhängig, Intelligent, Geduldige Eingewöhnung nötig"
+        },
+        "intro": "Beheimatet in den tropischen Regenwäldern Mittel- und Südamerikas ist der Grüne Leguan (Iguana iguana) eine beeindruckende tagaktive Großechse, die Reptilienhalter weltweit fasziniert. Mit einer Endlänge von 1,5 bis 2 Metern besitzen diese Echsen ein starkes Revierverhalten und reagieren extrem empfindlich auf Metabolische Knochenerkrankung (MBD), die durch fehlendes UVB-Licht und Calciummangel entsteht. Als reine Pflanzenfresser (Strict Herbivore) führt die Aufnahme von tierischem Eiweiß bei ihnen zu tödlicher Gicht und Nierenversagen. In diesem Ratgeber erfahren Sie eine 3-Schritte-Routine für die Gesundheit Ihres Grünen Leguans.",
+        "whyTitle": "Körpersprache des Grünen Leguans: Kehlfahnen-Aufstellen (Dewlap Extension), Kopfnicken (Head Bobbing) und Schwanzschlagen (Tail Whipping)",
+        "whyDesc": "Der Grüne Leguan drückt Dominanz und Abwehrbereitschaft durch seine Kehlfahne (Dewlap) und Körperbewegungen aus. Das vollständige Abspreizen der Hautfalte unter dem Kinn **'Kehlfahnen-Aufstellen (Dewlap Extension)'** in Verbindung mit rhythmischem **'Kopfnicken (Head Bobbing)'** ist ein klassisches Imponierverhalten. Das seitliche Abflachen des Körpers und Ausholen mit dem Schwanz **'Schwanzschlagen (Tail Whipping / Side Stance)'** ist dagegen die letzte Warnung vor einem schmerzhaften Peitschenhieb.",
+        "body_signals": [
+          {
+            "name": "Weites Abspreizen der Kehlfahne (Dewlap) bei langsamem Auf- und Abbewegen des Kopfes (Dewlap Extension & Head Bobbing)",
+            "meaning": "Typisches Territorialsignal zur Bekundung von Präsenz, Dominanz und Selbstbewusstsein im Revier.",
+            "response": "Bewahren Sie eine ruhige, niedrige Körperhaltung ohne hektische Bewegungen."
+          },
+          {
+            "name": "Seitliches Abflachen des Körpers und Anspannen des Schwanzes (Tail Whipping / Stiff Stance)",
+            "meaning": "Drückt akuten Stress, Bedrängnis oder Abwehrbereitschaft aus; direkte Vorstufe zum Schwanzschlag.",
+            "response": "Greifen Sie nicht hinein; entfernen Sie Störfaktoren und nutzen Sie ein Tuch für einen sicheren Abstand."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Morgen: UVB-Lampenkontrolle, Sonnenplatz-Temperaturprüfung & 100 % pflanzlicher Calcium-Salat",
+            "text": "Prüfen Sie Sonnenplatz (35 °C–38 °C) und UVB-Strahlung zur MBD-Prophylaxe; füttern Sie calciumreiche Blattsalate (Ca:P-Verhältnis 2:1)."
+          },
+          {
+            "name": "Mittag: Hohe Luftfeuchtigkeit (70–80 %) durch Sprühen & Kletter-Möglichkeiten für Baumbewohner",
+            "text": "Sprühen Sie das Terrarium für die Häutung und Nierengesundheit ein und bieten Sie dicke Äste für baumbewohnende (Arboreal) Aktivität."
+          },
+          {
+            "name": "Abend: Kotentfernung (Infektionsschutz), Nachttemperatur (24–26 °C) & Vollständige Nachtruhe",
+            "text": "Entfernen Sie Ausscheidungen zur Vermeidung von Hautinfektionen, halten Sie die Nachttemperatur mit Keramikstrahlern aufrecht und dunkeln Sie ab."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Warum sind UVB-Beleuchtung und Calcium für das Überleben des Grünen Leguans überlebenswichtig?",
+            "answer": "Der Grüne Leguan kann Vitamin D3 nur durch UVB-Bestrahlung der Haut bilden, was wiederum für die Calciumaufnahme unerlässlich ist. Fehlt UVB oder Calcium, entsteht die Metabolische Knochenerkrankung (MBD) – die Knochen erweichen, der Kiefer wird weich und es kommt zu tödlicher Lähmung. Leistungsstarke UVB-Röhren und Calcium-Pulver sind Pflicht."
+          },
+          {
+            "question": "Darf ich meinem Grünen Leguan Insekten wie Heimchen oder Mehlwürmer füttern?",
+            "answer": "Auf keinen Fall! Der Grüne Leguan ist ein 100 % reiner Pflanzenfresser. Tierisches Eiweiß, Insekten oder Hundefutter führen zu Harnsäureanreicherungen im Blut, was schwere Organgicht, Nierenversagen und den schnellen Tod verursacht. Die Nahrung darf ausschließlich aus dunklem Blattgemüse und geeigneten Pflanzen bestehen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Sinais comportamentais da Iguana-Verde e rotina diária de 3 passos para prevenção da doença óssea metabólica (MBD) e insuficiência renal",
+        "description": "Guia de cuidados para a majestosa Iguana-Verde (Green Iguana). Interprete a extensão do papo (Dewlap) e o balançar de cabeça, controle iluminação UVB e umidade, e previna a MBD e falência renal em 3 passos.",
+        "authority": "Association of Reptilian and Amphibian Veterinarians (ARAV) & Padrões da International Reptile Conservation Foundation (IRCF)",
+        "profile": {
+          "breed": "Iguana-Verde (Green Iguana / Iguana iguana)",
+          "lifespan": "15 ~ 20 anos (Mais de 20 anos com cuidados adequados)",
+          "sleep_pattern": "10 ~ 12 horas (Diurna, dorme em galhos altos à noite)",
+          "temperament": "Territorial, Muito alerta, Independente, Inteligente, Requer amansamento paciente"
+        },
+        "intro": "Nativa das florestas tropicais das Américas Central e do Sul, a Iguana-Verde (Iguana iguana) é um grande lagarto diurno icônico amado por criadores de répteis no mundo todo. Podendo atingir de 1,5 a 2 metros de comprimento, possuem fortes instintos territoriais e são extremamente vulneráveis à Doença Óssea Metabólica (MBD) causada pela falta de radiação Ultravioleta-B (UVB) e deficiência de cálcio. Além disso, por serem herbívoros estritos (Strict Herbivore), a ingestão de proteína animal causa gota visceral e insuficiência renal fatais. Neste guia, apresenta uma rotina de 3 passos para cuidar da sua saúde.",
+        "whyTitle": "Linguagem corporal da Iguana-Verde: Extensão do papo (Dewlap Extension), balançar de cabeça (Head Bobbing) e chicotada de cauda (Tail Whipping)",
+        "whyDesc": "A Iguana-Verde comunica dominância e alertas de defesa por meio da papada gular e movimentos do corpo. Expandir totalmente a pele abaixo do queixo **'Extensão do papo (Dewlap Extension)'** ao mesmo tempo em que balança a cabeça **'Balançar de cabeça (Head Bobbing)'** é uma exibição territorial de status. Em contrapartida, achatar o corpo lateralmente e flexionar a cauda **'Chicotada de cauda (Tail Whipping / Side Stance)'** é um aviso direto de um golpe violento de cauda antes de morder.",
+        "body_signals": [
+          {
+            "name": "Abrir o papo (Dewlap) completamente enquanto balança a cabeça devagar (Dewlap Extension & Head Bobbing)",
+            "meaning": "Exibição territorial característica que afirma dominância, presença e confiança no ambiente.",
+            "response": "Mantenha uma postura calma e baixa sem fazer movimentos bruscos que possam ser vistos como ameaça."
+          },
+          {
+            "name": "Achatar o corpo lateralmente e preparar a cauda para chicotear (Tail Whipping / Stiff Stance)",
+            "meaning": "Aviso defensivo extremo diante de estresse agudo, indicando ataque iminente com a cauda.",
+            "response": "Não aproxime as mãos diretamente; remova o estímulo e use uma toalha para manter distância de segurança."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Manhã: Checagem da lâmpada UVB, temperatura do ponto de aquecimento & salada 100% herbívora rica em cálcio",
+            "text": "Verifique a área de aquecimento (35°C–38°C) e a lâmpada UVB para prevenir MBD, oferecendo folhas verdes ricas em cálcio (couve, mostarda, chicória com proporção Ca:P 2:1)."
+          },
+          {
+            "name": "Tarde: Manutenção de alta umidade (70–80%) por borrifação e enriquecimento de escalada arbórea",
+            "text": "Borrife o terrário para garantir a umidade necessária para a troca de pele e saúde renal, fornecendo galhos verticais firmes."
+          },
+          {
+            "name": "Noite: Remoção de fezes (prevenção de infecções), controle de temperatura noturna (24–26°C) e escuridão total",
+            "text": "Limpe uratos e fezes para evitar dermatites, mantendo o calor noturno com aquecedores cerâmicos em ambiente escuro."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Por que a iluminação UVB de alta potência e o cálcio são vitais para a sobrevivência da Iguana-Verde?",
+            "answer": "A Iguana-Verde sintetiza Vitamina D3 através da exposição da pele à radiação UVB, o que permite absorver o cálcio dos alimentos. Sem UVB ou cálcio adequados, elas desenvolvem a Doença Óssea Metabólica (MBD), gerando amolecimento ósseo, mandíbula de borracha, fraturas e paralisia fatal. Lâmpadas UVB diárias e cálcio em pó são obrigatórios."
+          },
+          {
+            "question": "Posso alimentar minha Iguana-Verde com insetos como grilos ou larvas?",
+            "answer": "Jamais! A Iguana-Verde é um réptil 100% herbívoro estrito. A ingestão de proteína animal ou insetos gera acúmulo de ácido úrico no sangue, provocando gota visceral severa, insuficiência renal e morte precoce. Sua dieta deve consistir exclusivamente de folhas verdes escuras e vegetais adequados."
+          }
+        ]
+      },
+      "id": {
+        "title": "Sinyal Perilaku Iguana Hijau (Green Iguana) dan Rutinitas Harian 3 Langkah Perawatan Pencegahan Penyakit Tulang Metabolik (MBD) serta Gagal Ginjal",
+        "description": "Panduan perawatan reptil besar anggun Iguana Hijau (Green Iguana). Pahami kibasan gelambir leher (dewlap) dan anggukan kepala, kelola pencahayaan UVB dan kelembapan, serta cegah MBD dalam 3 langkah.",
+        "authority": "Standar Perawatan Association of Reptilian and Amphibian Veterinarians (ARAV) & International Reptile Conservation Foundation (IRCF)",
+        "profile": {
+          "breed": "Iguana Hijau / Green Iguana (Iguana iguana)",
+          "lifespan": "15 ~ 20 tahun (Lebih dari 20 tahun dengan perawatan optimal)",
+          "sleep_pattern": "10 ~ 12 jam (Diurnal/aktif siang hari, tidur di dahan tinggi saat malam)",
+          "temperament": "Sangat Teritorial, Waspada, Independen, Cerdas, Membutuhkan Penjinakan Sabar"
+        },
+        "intro": "Berasal dari hutan hujan tropis Amerika Tengah dan Selatan, Iguana Hijau (Iguana iguana) adalah kadal besar diurnal ikonis yang sangat dicintai oleh pecinta reptil di seluruh dunia. Dapa tumbuh hingga panjang 1,5 sampai 2 meter, reptil anggun ini memiliki insting teritorial yang kuat dan sangat rentan terhadap Penyakit Tulang Metabolik (MBD) akibat kurangnya radiasi Ultraviolet-B (UVB) dan kalsium. Selain itu, sebagai hewan herbivora murni (Strict Herbivore), konsumsi protein hewani dapat memicu asam urat organ dalam dan gagal ginjal yang mematikan. Dalam panduan ini, kami membagikan 3 langkah rutinitas harian untuk merawat kesehatan Iguana Hijau Anda.",
+        "whyTitle": "Bahasa Tubuh Iguana Hijau: Merekarkan Dewlap (Gelambir), Anggukan Kepala (Head Bobbing), dan Sabetan Ekor (Tail Whipping)",
+        "whyDesc": "Iguana Hijau menyampaikan dominasi dan peringatan pertahanan melalui gelambir leher (dewlap) dan gerakan tubuhnya. Merekarkan lipatan kulit di bawah dagu **'Merekarkan Dewlap (Dewlap Extension)'** sambil menganggukkan kepala secara ritmis **'Anggukan Kepala (Head Bobbing)'** adalah tanda teritorial khas untuk menunjukkan dominasi. Sebaliknya, pipihkan tubuh ke samping dan melengkungkan ekor **'Sabetan Ekor (Tail Whipping / Side Stance)'** adalah peringatan tegas akan serangan ekor yang kuat sebelum menggigit.",
+        "body_signals": [
+          {
+            "name": "Merekarkan Gelambir Leher (Dewlap) Lebar-lebar Sambil Menganggukkan Kepala Perlahan (Dewlap Extension & Head Bobbing)",
+            "meaning": "Komunikasi teritorial khas yang menunjukkan dominasi, kehadiran, dan rasa percaya diri di wilayahnya.",
+            "response": "Jaga posisi tubuh Anda tetap tenang dan rendah tanpa membuat gerakan mendadak yang memicu provokasi."
+          },
+          {
+            "name": "Memipihkan Tubuh ke Samping dan Mengayunkan Ekor secara Lentur (Tail Whipping / Stiff Stance)",
+            "meaning": "Peringatan pertahanan ekstrem saat mengalami stres berat atau merasa terancam; pertanda akan menyabetkan ekor.",
+            "response": "Jangan langsung menjangkau dengan tangan; jauhkan pemicu stres dan gunakan handuk untuk menjaga jarak aman."
+          }
+        ],
+        "daily_routine": [
+          {
+            "name": "Pagi: Pemeriksaan Lampu UVB, Kontrol Suhu Basking & Saluran Kalsium 100% Herbivora",
+            "text": "Periksa area basking (35°C–38°C) dan lampu UVB untuk mencegah MBD, lalu berikan sayuran hijau kaya kalsium (daun lobak, pakcoy, selada keriting dengan rasio Ca:P 2:1)."
+          },
+          {
+            "name": "Siang: Menjaga Kelembapan Tinggi (70–80%) dengan Semprotan Air & Sarana Panjat Pohon (Arboreal)",
+            "text": "Semprotkan air untuk menjaga kelembapan agar proses ganti kulit lancar dan ginjal terhidrasi, serta sediakan dahan kayu kokoh untuk memanjat."
+          },
+          {
+            "name": "Malam: Pembersihan Kotoran (Pencegahan Infeksi), Suhu Malam (24–26°C) & Tidur Gelap Total",
+            "text": "Bersihkan asam urat dan kotoran untuk mencegah infeksi kulit, jaga kehangatan malam menggunakan pemanas keramik tanpa cahaya."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mengapa sinar UVB intensitas tinggi dan kalsium sangat vital bagi kelangsungan hidup Iguana Hijau?",
+            "answer": "Iguana Hijau menyintesis Vitamin D3 melalui paparan sinar UVB pada kulitnya, yang memungkinkan penyerapan kalsium makanan. Tanpa UVB atau kalsium yang cukup, mereka akan menderita Penyakit Tulang Metabolik (MBD)—menyebabkan tulang lunak, rahang lembek, patah tulang, dan kelumpuhan mematikan. Penggunaan lampu UVB dan taburan bubuk kalsium adalah hal yang wajib."
+          },
+          {
+            "question": "Bolehkah saya memberi pakan serangga seperti jangkrik atau ulat bumbung kepada Iguana Hijau?",
+            "answer": "Sangat tidak boleh! Iguana Hijau adalah reptil 100% herbivora murni. Mengonsumsi protein hewani, serangga, atau pakan hewan lain menyebabkan penumpukan asam urat berlebih yang memicu asam urat organ dalam (gout), gagal ginjal, dan kematian mendadak. Makanan mereka harus murni terdiri dari sayuran hijau dan daun-daunan yang aman."
+          }
+        ]
+      }
+    },
+    "heroImage": "/images/blog/green_iguana_care.webp"
+  }
 }

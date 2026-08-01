@@ -1,406 +1,406 @@
 {
-    "how-to-store-yogurt": {
-        "ingId": "yogurt",
-        "pubDate": "2026-07-08",
-        "updatedDate": "2026-07-08",
-        "heroImage": "/images/blog/yogurt_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "요거트 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 요거트의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS)",
-                "intro": "대용량 요거트를 개봉해 두고 먹다가 표면에 물이 한가득 고이거나, 금세 곰팡이가 피어 버린 경험 있으시죠? 🥣\n\n요거트는 유산균이 살아 숨 쉬는 발효 유제품으로, 온도 변화와 외부 오염에 매우 민감합니다. 특히 입에 댔던 숟가락이나 수분이 들어가면 다른 미생물이 번식해 빠르게 변질되며, 온도가 불안정하면 유청 분리(Syneresis) 현상이 심해지고 산미가 과해집니다.\n\n이번 가이드에서는 식품 안전 전문가들이 권장하는 과학적이고 확실한 요거트 신선도 극대화 3단계 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "냉장고 문(도어) 선반에 보관하지 마세요 ⚠️",
-                        "desc": "냉장고 문 쪽은 문을 열고 닫을 때마다 온도 변화가 가장 크고 빛에 노출되기 쉽습니다. 온도가 주춤거리면 유산균 활동이 불안정해지고 유청 분리 및 변질이 빨라지므로, 온도가 일정하고 차가운 냉장고 안쪽 깊은 선반(0 ~ 4℃)에 보관하세요."
-                    },
-                    {
-                        "title": "침이나 물기가 묻은 숟가락을 사용하지 마세요 🥄",
-                        "desc": "입에 닿았던 숟가락이나 물기가 있는 도구로 요거트를 떠먹으면 침 속의 소화 효소와 외부 세균이 요거트에 들어가 미생물이 빠르게 번식하고 곰팡이가 피게 됩니다. 반드시 깨끗하고 물기 없는 전용 숟가락을 사용하세요."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "깨끗한 건조 숟가락으로 덜어내고 밀봉하기 — 오염 차단 및 위생 관리 📦",
-                        "text": "대용량 요거트는 용기째 바로 먹지 말고 먹을 만큼만 소독된 마른 숟가락으로 덜어내어 드세요. 💡 보관 팁: 덜어낸 후 용기 입구에 묻은 요거트를 키친타월로 가볍게 닦아내고 뚜껑을 완벽히 덮어 밀봉해야 공기 중 곰팡이 포자 유입을 막을 수 있습니다."
-                    },
-                    {
-                        "name": "0 ~ 4℃ 저온 냉장 보관하기 — 냉장 보관 (개봉 후 3 ~ 7일) ❄️",
-                        "text": "요거트 속 유산균의 과도한 산생성과 유청 분리를 막기 위해서는 고온 노출을 방지해야 합니다. 💡 보관 팁: 냉장고 가장 차가운 안쪽 선반(0 ~ 4℃)에 보관하세요. 미개봉 상태에서는 소비기한까지 안전하지만, 개봉 후에는 3 ~ 7일 이내에 소비하는 것이 가장 신선합니다."
-                    },
-                    {
-                        "name": "유청(맑은 물)은 버리지 말고 섞어 먹기 — 유청 관리 🥣",
-                        "text": "요거트 표면에 생기는 투명하고 맑은 물은 요거트 단백질과 수분이 자연스럽게 분리된 '유청(Whey)'입니다. 💡 보관 팁: 유청에는 단백질, 칼슘, 비타민 등 수용성 영양소가 집약되어 있으므로 상한 것이 아닙니다. 버리지 말고 숟가락으로 잘 골고루 섞어 드시면 부드러운 식감과 영양을 모두 챙길 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "요거트를 냉동 보관해도 유산균이 살아있나요?",
-                        "answer": "요거트를 냉동하면 유산균이 휴면 상태에 들어가 사멸하지는 않지만, 해동 시 유제품 단백질 결합이 깨져 수분과 덩어리가 분리되고 순두부처럼 몽글몽글해지는 식감 변형이 일어납니다. 따라서 완전히 해동해서 먹기보다는 아이스크림처럼 살짝 얼린 상태에서 바로 드시는 것을 추천합니다."
-                    },
-                    {
-                        "question": "요거트 표면에 곰팡이가 피거나 냄새가 나면 윗부분만 떠내고 먹어도 되나요?",
-                        "answer": "절대 안 됩니다. 수분이 많은 요거트에 곰팡이나 세균이 침투하면 눈에 보이지 않는 포자와 독소가 제품 전체로 빠르게 퍼집니다. 표면에 흰색, 녹색, 검은색 곰팡이가 보이거나 알코올 냄새, 시큼한 악취가 난다면 즉시 통째로 버려야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Keep Yogurt Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for yogurt based on official safety guidelines.",
-                "authority": "USDA & MFDS",
-                "intro": "Have you ever opened a tub of yogurt only to find a layer of liquid on top or mold forming before you could finish it? 🥣\n\nYogurt is a fermented dairy product containing live probiotics, making it highly sensitive to temperature fluctuations and external contamination. Using a saliva-contaminated spoon or introducing moisture allows unwanted microorganisms to multiply rapidly, while unstable temperatures accelerate whey separation (syneresis) and cause excessive sourness.\n\nIn this guide, shares a scientifically proven 3-step yogurt storage guide recommended by food safety experts to maximize freshness and probiotic vitality. 🛡️",
-                "whyTitle": "Why Store Yogurt This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Do not store yogurt on the refrigerator door shelf ⚠️",
-                        "desc": "The refrigerator door experiences severe temperature fluctuations and light exposure whenever opened. Unstable temperatures disrupt probiotic stability and accelerate whey separation and spoilage. Store yogurt on a cold, deep inner shelf (0–4°C) where temperatures remain constant."
-                    },
-                    {
-                        "title": "Never use a wet or saliva-contaminated spoon 🥄",
-                        "desc": "Scooping yogurt with a spoon that has touched your mouth or carries water introduces digestive enzymes and bacteria. This allows mold and unwanted microbes to thrive rapidly. Always use a clean, completely dry dedicated spoon."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Portion with a clean, dry spoon and seal tightly — Contamination Prevention 📦",
-                        "text": "Avoid eating directly from large yogurt tubs. Portion out what you need using a clean, dry spoon. 💡 Storage Tip: Wipe any yogurt drips around the rim with a paper towel and seal the lid tightly to prevent airborne mold spores from entering."
-                    },
-                    {
-                        "name": "Store at cold temperatures of 0–4°C — Cold Storage (3–7 Days After Opening) ❄️",
-                        "text": "Keeping yogurt consistently cold prevents excessive acid production by probiotics and controls syneresis. 💡 Storage Tip: Store on the deepest inner shelf of the fridge (0–4°C). Unopened yogurt lasts until its use-by date, but once opened, consume within 3 to 7 days."
-                    },
-                    {
-                        "name": "Stir in whey liquid rather than discarding it — Whey Management 🥣",
-                        "text": "The clear liquid that separates on top of yogurt is natural whey, a byproduct of milk protein breakdown. 💡 Storage Tip: Whey is rich in protein, calcium, and vitamins, and is not a sign of spoilage. Simply stir it back into the yogurt with a clean spoon to enjoy its full nutrients and creamy texture."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Do probiotics survive if yogurt is frozen?",
-                        "answer": "Freezing puts probiotics into a dormant state without killing them, but thawing breaks down milk proteins, creating a grainy, curdled texture. Rather than fully thawing frozen yogurt, eat it semi-frozen like a frozen yogurt treat."
-                    },
-                    {
-                        "question": "If mold forms on top, can I scrape off the surface and eat the rest?",
-                        "answer": "No, absolutely not. Because yogurt has high moisture content, mold spores and bacterial toxins spread deep throughout the entire tub invisibly. If white, green, or black mold appears, or if it emits a sour/alcoholic odor, discard the entire container immediately."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "ヨーグルトを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくヨーグルトの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "大容量のヨーグルトを開封して食べているうちに、表面に水（乳清）がたくさん溜まったり、すぐにカビが生えて捨ててしまった経験はありませんか？🥣\n\nヨーグルトは乳酸菌が生きている発酵乳製品で、温度変化や外界からの汚染に非常に敏感です。特に口をつけたスプーンや水分が入ると雑菌が繁殖して急速に変質し、温度が不安定だと水分分離（ホエイ分離）が進んで酸味が強くなってしまいます。\n\n本記事では、専門家が推奨するヨーグルトの鮮度と乳酸菌の活力を最大化する科学的で確実な3段階の保存のコツをご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合わせた正しい保存方法を実践することは 鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "冷蔵庫のドアポケットでの保存は避けてください ⚠️",
-                        "desc": "ドアポケットは開閉のたびに最も温度変化が大きく、光に晒されやすい場所です。温度が頻繁に変わると乳酸菌の活動が不安定になり、ホエイの分離や変質が早まるため、温度が一定で冷たい冷蔵庫の奥の棚（0〜4℃）で保存してください。"
-                    },
-                    {
-                        "title": "唾液や水気がついたスプーンを使用しないでください 🥄",
-                        "desc": "口をつけたスプーンや濡れた道具でヨーグルトをすくうと、唾液中の酵素や雑菌が侵入してカビや細菌が急速に繁殖します。必ず清潔で完全に乾いた専用のスプーンを使用してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "清潔で乾いたスプーンで取り分けて密閉する — 汚染防止と衛生管理 📦",
-                        "text": "大容量容器から直接食べず、食べる分だけ清潔で乾いたスプーンですくって取り分けましょう。💡保存のコツ：すくった後、容器のフチについたヨーグルトを軽く拭き取り、フタをしっかり閉めて空気中のカビ胞子の侵入を防ぎます。"
-                    },
-                    {
-                        "name": "0〜4℃の低温で冷蔵保存する — 冷蔵保存 (開封後3〜7日間) ❄️",
-                        "text": "乳酸菌による過剰な酸生成やホエイの分離を防ぐには、低温維持が不可欠です。💡保存のコツ：冷蔵庫の最も冷たい奥の棚（0〜4℃）で保存します。未開封なら賞味期限まで安全ですが、開封後は3〜7日以内に使い切るのが理想的です。"
-                    },
-                    {
-                        "name": "上澄み液（ホエイ）は捨てずに混ぜて食べる — ホエイ管理 🥣",
-                        "text": "ヨーグルトの表面に溜まる透明な液体は、タンパク質と水分が自然分離した「ホエイ（乳清）」です。💡保存のコツ：ホエイにはタンパク質やカルシウム、ビタミンが豊富に含まれており、傷んでいるわけではありません。捨てずにスプーンでよく混ぜて召し上がることで、栄養と滑らかな食感を両立できます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "ヨーグルトを冷凍保存しても乳酸菌は生きていますか？",
-                        "answer": "冷凍しても乳酸菌は休眠状態に入るため死滅はしませんが、解凍するとタンパク質の結合が壊れて水分と塊が分離し、ボソボソとした食感に変化してしまいます。完全解凍せず、フローズンヨーグルトのように少し凍った状態のまま召し上がるのがおすすめです。"
-                    },
-                    {
-                        "question": "表面にカビが生えたり匂いがする場合、上の部分だけ取り除けば食べられますか？",
-                        "answer": "絶対にやめてください。水分の多いヨーグルトにカビや細菌が侵入すると、目に見えない胞子や毒素が全体に急速に広がります。白、緑、黒などのカビが見られたり、アルコール臭や強い酸敗臭がする場合は、すぐに丸ごと破棄してください。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持酸奶新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解酸奶的最佳储存温度、方式和保鲜时长。",
-                "authority": "美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "您是否曾买回大桶酸奶，吃着吃着就发现表面积了一层水，甚至还没吃完就发霉变质？🥣\n\n酸奶是含有活性益生菌的发酵乳制品，对温度变化和外部污染极其敏感。尤其是接触过唾液的勺子或带入水汽，会导致杂菌剧烈繁殖，而温度不稳定则会加剧乳清析出（Syneresis）并使酸味过浓。\n\n本指南基于食品安全专家推荐的科学3步酸奶保鲜秘诀，帮您完美锁定酸奶的新鲜度与益生菌活性。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "切勿存放在冰箱门侧架上 ⚠️",
-                        "desc": "冰箱门侧架在开关时温度波动最大且易受光线照射。温度不稳定会破坏益生菌活性，加速乳清分离和变质。请务必将酸奶存放在温度恒定且冰冷的冰箱内侧深层隔板（0 ~ 4℃）上。"
-                    },
-                    {
-                        "title": "切勿使用带有唾液或水汽的勺子 🥄",
-                        "desc": "使用接触过口腔或带有水汽的勺子挖取酸奶，会将唾液中的消化酶和细菌带入酸奶中，导致霉菌和杂菌迅速滋生。请务必使用干净且彻底干燥的专用勺子。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "用干净干燥的勺子舀出并盖紧 — 阻绝污染 📦",
-                        "text": "大桶酸奶切勿直接对嘴食用，应用干净干燥的勺子舀出单次食用量。💡储存小贴士：舀完后用厨房纸巾擦净瓶口残余酸奶，紧扣盖子密封，防止空气中的霉菌孢子飘入。"
-                    },
-                    {
-                        "name": "存放在0 ~ 4℃低温冷藏 — 冷藏储存 (开封后3 ~ 7天) ❄️",
-                        "text": "保持恒定低温能防止益生菌过度发酵产生过浓酸味，并抑制乳清分离。💡储存小贴士：置于冰箱内侧深层（0 ~ 4℃）。未开封可保存至保质期，开封后建议在3 ~ 7天内食用完毕。"
-                    },
-                    {
-                        "name": "上层乳清切勿倒掉，搅拌均匀食用 — 乳清管理 🥣",
-                        "text": "酸奶表面析出的清澈液体是蛋白质与水分自然分离产生的“乳清（Whey）”。💡储存小贴士：乳清富含蛋白质、钙和维生素，并非变质。切勿倒掉，用勺子将其与酸奶充分搅拌均匀，即可兼顾口感与营养。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "冷冻酸奶后益生菌还能存活吗？",
-                        "answer": "冷冻会让益生菌进入休眠状态而不会死亡，但解冻会破坏乳蛋白结构，导致水固分离，出现豆腐渣般的结块口感。因此不建议彻底解冻，更适合像炒冰/冰淇淋一样在微冻状态下直接食用。"
-                    },
-                    {
-                        "question": "酸奶表面发霉或有异味，切掉表层还能吃吗？",
-                        "answer": "绝对不能。酸奶水分含量高，霉菌孢子和细菌毒素极易顺着液体快速渗透至整桶酸奶。一旦发现白色、绿色或黑色霉菌，或散发酒味、酸臭味，必须立即整桶丢弃。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener el yogurt fresco: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el yogurt según las directrices oficiales de seguridad.",
-                "authority": "USDA & MFDS",
-                "intro": "¿Alguna vez abrió un envase grande de yogurt y descubrió una capa de líquido encima o moho antes de terminarlo? 🥣\n\nEl yogurt es un lácteo fermentado que contiene bacterias lácticas (probióticos) vivas, lo que lo hace muy sensible a las variaciones de temperatura y a la contaminación externa. Usar una cuchara con saliva o introducir humedad permite que los microorganismos se multipliquen rápidamente, mientras que las temperaturas inestables aceleran la separación del suero (sinéresis) y aumentan la acidez.\n\nEn esta guía se comparte una guía de conservación del yogurt en 3 pasos respaldada por expertos para mantener su frescura y probióticos. 🛡️",
-                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "No guarde el yogurt en el estante de la puerta del refrigerador ⚠️",
-                        "desc": "La puerta del refrigerador experimenta los cambios de temperatura más drásticos cada vez que se abre. Las temperaturas fluctuantes alteran la estabilidad de los probióticos y aceleran la separación del suero y el deterioro. Guárdelo en un estante interior frío (0-4 °C)."
-                    },
-                    {
-                        "title": "Nunca use una cuchara mojada o con saliva 🥄",
-                        "desc": "Servir yogurt con una cuchara que ha tocado su boca o con gotas de agua introduce enzimas digestivas y bacterias, haciendo que el moho crezca rápidamente. Utilice siempre una cuchara limpia y completamente seca."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Sirva con una cuchara limpia y seca y selle bien — Prevención de contaminación 📦",
-                        "text": "Evite comer directamente del envase grande. Sirva la cantidad necesaria usando una cuchara limpia y seca. 💡 Consejo de almacenamiento: Limpie cualquier residuo alrededor del borde con papel absorbente y cierre la tapa herméticamente para evitar que entren esporas de moho."
-                    },
-                    {
-                        "name": "Conserve a baja temperatura (0 a 4 °C) — Refrigeración (3 a 7 días tras abrir) ❄️",
-                        "text": "Mantener el yogurt bien frío evita la producción excesiva de ácido y controla la separación del suero. 💡 Consejo de almacenamiento: Guárdelo en el estante interior más frío del refrigerador (0-4 °C). Sin abrir dura hasta la fecha de caducidad, pero una vez abierto consúmalo en 3 a 7 días."
-                    },
-                    {
-                        "name": "Mezcle el suero líquido en lugar de desecharlo — Gestión del suero 🥣",
-                        "text": "El líquido transparente que se separa en la superficie es suero de leche (Whey) natural. 💡 Consejo de almacenamiento: El suero es rico en proteínas, calcio y vitaminas, y no significa que esté malo. Simplemente mézclelo de nuevo con una cuchara para disfrutar de todos sus nutrientes."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Sobreviven los probióticos si se congela el yogurt?",
-                        "answer": "La congelación pone a los probióticos en estado latente sin matarlos, pero al descongelar se rompen las proteínas lácteas, creando una textura grumosa. En lugar de descongelarlo por completo, consúmalo semi-congelado como un helado de yogurt."
-                    },
-                    {
-                        "question": "Si aparece moho en la superficie, ¿puedo quitar la capa superior y comer el resto?",
-                        "answer": "No, en absoluto. Dado que el yogurt tiene un alto contenido de agua, los mohos y toxinas se extienden profundamente por todo el envase de forma invisible. Si observa moho blanco, verde o negro, o si huele a alcohol o agrio, deséchelo inmediatamente."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver le yaourt frais : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le yaourt selon les directives officielles de sécurité.",
-                "authority": "USDA & MFDS",
-                "intro": "Avez-vous déjà ouvert un grand pot de yaourt pour constater la présence d'un liquide à la surface ou de moisissures avant d'avoir pu le finir ? 🥣\n\nLe yaourt est un produit laitier fermenté contenant des probiotiques vivants, ce qui le rend très sensible aux variations de température et aux contaminations. Utiliser une cuillère ayant touché la bouche ou introduire de l'humidité favorise la prolifération bactérienne, tandis qu'une température instable accélère la séparation du petit-lait (synérèse) et accroît l'acidité.\n\nDans ce guide, vous présente un guide scientifique de conservation du yaourt en 3 étapes recommandé par des experts pour préserver sa fraîcheur. 🛡️",
-                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne stockez pas le yaourt dans la porte du réfrigérateur ⚠️",
-                        "desc": "La porte subit des variations de température importantes à chaque ouverture. Les écarts thermiques fragilisent les probiotiques et accélèrent la séparation du petit-lait. Conservez le yaourt sur une étagère intérieure bien froide (0–4 °C)."
-                    },
-                    {
-                        "title": "N'utilisez jamais une cuillère humide ou souillée par la salive 🥄",
-                        "desc": "Prendre du yaourt avec une cuillère ayant été portée à la bouche ou mouillée introduit des bactéries et des enzymes qui font rapidement moisir le yaourt. Utilisez toujours une cuillère propre et bien sèche."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Prélever avec une cuillère propre et sèche puis fermer hermétiquement — Prévention des contaminations 📦",
-                        "text": "Évitez de manger directement dans le grand pot. Prélevez la quantité souhaitée avec une cuillère propre et sèche. 💡 Astuce de conservation : Essuyez les bords du pot avec de l'essuie-tout et refermez bien le couvercle pour empêcher les spores de moisissure d'entrer."
-                    },
-                    {
-                        "name": "Conserver au frais entre 0 et 4 °C — Réfrigération (3 à 7 jours après ouverture) ❄️",
-                        "text": "Maintenir le yaourt à basse température empêche une production excessive d'acide et limite la synérèse. 💡 Astuce de conservation : Placez-le sur l'étagère intérieure la plus froide (0–4 °C). Non ouvert, il se conserve jusqu'à la DLC, mais consommez-le sous 3 à 7 jours après ouverture."
-                    },
-                    {
-                        "name": "Mélanger le petit-lait au lieu de le jeter — Gestion du sérum 🥣",
-                        "text": "Le liquide transparent qui se sépare à la surface est le petit-lait (lactosérum). 💡 Astuce de conservation : Ce liquide est riche en protéines, calcium et vitamines et ne signifie pas que le yaourt est périmé. Mélangez-le simplement avec une cuillère pour profiter de ses nutriments."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Les probiotiques survivent-ils si l'on congèle le yaourt ?",
-                        "answer": "La congélation met les probiotiques en état de dormance sans les tuer, mais la décongélation brise les protéines laitières, donnant une texture grumeleuse. Plutôt que de le décongeler complètement, consommez-le semi-congelé à la manière d'un frozen yogurt."
-                    },
-                    {
-                        "question": "Si de la moisissure apparaît en surface, puis-je gratter le dessus et manger le reste ?",
-                        "answer": "Absolument pas. En raison de sa forte teneur en eau, les moisissures et bactéries se propagent de manière invisible dans tout le pot. Si vous voyez de la moisissure blanche, verte ou noire, ou si une odeur d'alcool s'en dégage, jetez tout le pot immédiatement."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Joghurt richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Joghurt basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "USDA & MFDS",
-                "intro": "Haben Sie schon einmal einen großen Becher Joghurt geöffnet, nur um festzustellen, dass sich oben Flüssigkeit sammelte oder Schimmel entstand? 🥣\n\nJoghurt ist ein fermentiertes Milchprodukt mit lebenden Probiotika und reagiert extrem empfindlich auf Temperaturschwankungen und Verunreinigungen. Ein Löffel mit Speichel oder Feuchtigkeit führt zur schnellen Bakterienvermehrung, während unbeständige Temperaturen die Molkeabscheidung (Synärese) beschleunigen und den Joghurt zu sauer machen.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Frische und Probiotika Ihres Joghurts zu bewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Joghurt nicht in der Kühlschranktür lagern ⚠️",
-                        "desc": "In der Kühlschranktür schwanken die Temperaturen beim Öffnen am stärksten. Diese Temperaturschwankungen stören die Probiotika und beschleunigen Molkeabscheidung und Verderb. Lagern Sie Joghurt auf einem kühlen Innenregal (0–4 °C)."
-                    },
-                    {
-                        "title": "Niemals einen nassen oder mit Speichel benetzten Löffel verwenden 🥄",
-                        "desc": "Wenn Sie Joghurt mit einem gebrauchten oder feuchten Löffel entnehmen, gelangen Enzyme und Keime in den Becher. Dadurch bildet sich rasch Schimmel. Verwenden Sie stets einen sauberen, trockenen Löffel."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Mit sauberem, trockenem Löffel entnehmen und dicht verschließen — Kontaminationsschutz 📦",
-                        "text": "Essen Sie nicht direkt aus dem großen Becher. Entnehmen Sie die gewünschte Menge mit einem sauberen Löffel. 💡 Lagerungstipp: Wischen Sie Ränder mit Küchenpapier ab und verschließen Sie den Deckel fest, damit keine Schimmelsporen eindringen."
-                    },
-                    {
-                        "name": "Bei 0–4 °C im Kühlschrank lagern — Kühllagerung (3–7 Tage nach dem Öffnen) ❄️",
-                        "text": "Kälte verhindert übermäßige Säurebildung durch Milchsäurebakterien und stoppt die Synärese. 💡 Lagerungstipp: Auf dem kältesten Innenregal (0–4 °C) lagern. Ungeöffnet bis zum MHD haltbar, nach dem Öffnen innerhalb von 3 bis 7 Tagen verbrauchen."
-                    },
-                    {
-                        "name": "Flüssige Molke unterrühren statt wegzugießen — Molkemanagement 🥣",
-                        "text": "Die klare Flüssigkeit, die sich oben absetzt, ist natürliche Molke. 💡 Lagerungstipp: Molke enthält Proteine, Kalzium und Vitamine und ist kein Zeichen von Verderb. Rühren Sie die Flüssigkeit einfach mit einem Löffel unter, um Nährstoffe und Cremigkeit zu erhalten."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Überleben Probiotika, wenn man Joghurt einfriert?",
-                        "answer": "Durch das Einfrieren geraten Milchsäurebakterien in einen Ruhezustand, sterben aber nicht ab. Beim Auftauen bricht jedoch die Eiweißstruktur auf, wodurch der Joghurt krümelig wird. Genießen Sie gefrorenen Joghurt am besten leicht angetaut wie Frozen Joghurt."
-                    },
-                    {
-                        "question": "Kann man bei Schimmel auf der Oberfläche die obere Schicht abkratzen und den Rest essen?",
-                        "answer": "Nein, auf keinen Fall. Da Joghurt viel Wasser enthält, breiten sich Schimmelsporen und Bakterientoxine unsichtbar im gesamten Becher aus. Bei weißem, grünem oder schwarzem Schimmel sowie Alkoholgeruch den gesamten Becher sofort entsorgen."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar iogurte fresco: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para o iogurte com base em diretrizes oficiais de segurança.",
-                "authority": "USDA & MFDS",
-                "intro": "Você já abriu um pote grande de iogurte e percebeu uma camada de líquido por cima ou mofo antes de terminar de consumir? 🥣\n\nO iogurte é um laticínio fermentado que contém bactérias lácticas (probióticos) vivas, sendo muito sensível a variações de temperatura e contaminações. Usar uma colher com saliva ou introduzir umidade faz com que bactérias indesejadas se multipliquem, enquanto a temperatura instável acelera a separação do soro (sinérese) e aumenta a acidez.\n\nNeste guia, apresentamos um guia prático em 3 etapas recomendado por especialistas para manter o frescor e os probióticos do seu iogurte. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Não guarde o iogurte na prateleira da porta da geladeira ⚠️",
-                        "desc": "A porta da geladeira sofre as variações de temperatura mais drásticas a cada abertura. Mudanças constantes afetam a estabilidade dos probióticos e aceleram a separação do soro e a deterioração. Guarde o iogurte em uma prateleira interna bem fria (0-4 °C)."
-                    },
-                    {
-                        "title": "Nunca use uma colher molhada ou com saliva 🥄",
-                        "desc": "Retirar iogurte com uma colher que tocou a boca ou que tem água introduz enzimas digestivas e bactérias, fazendo o mofo crescer rapidamente. Use sempre uma colher limpa e bem seca."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Servir com colher limpa e seca e vedar bem — Prevenção de contaminação 📦",
-                        "text": "Evite comer direto no pote grande. Retire a quantidade desejada com uma colher limpa e seca. 💡 Dica de conservação: Limpe o excesso na borda com papel-toalha e feche bem a tampa para evitar a entrada de esporos de mofo."
-                    },
-                    {
-                        "name": "Conservar a baixa temperatura de 0 a 4 °C — Refrigeração (3 a 7 dias após aberto) ❄️",
-                        "text": "Manter o iogurte bem frio evita a produção excessiva de ácido e controla a separação do soro. 💡 Dica de conservação: Guarde na prateleira interna mais fria da geladeira (0-4 °C). Fechado dura até a data de validade; após aberto, consuma em 3 a 7 dias."
-                    },
-                    {
-                        "name": "Misturar o soro líquido em vez de descartá-lo — Gestão do soro 🥣",
-                        "text": "O líquido transparente que se separa na superfície é o soro do leite (Whey) natural. 💡 Dica de conservação: O soro é rico em proteínas, cálcio e vitaminas, e não significa que o iogurte estragou. Basta misturar novamente com uma colher para aproveitar seus nutrientes."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Os probióticos sobrevivem se o iogurte for congelado?",
-                        "answer": "O congelamento coloca os probióticos em estado de dormência sem matá-los, mas o descongelamento quebra as proteínas do leite, deixando uma textura coalhada. Em vez de descongelar totalmente, consuma-o semi-congelado como um frozen yogurt."
-                    },
-                    {
-                        "question": "Se aparecer mofo na superfície, posso retirar a camada de cima e comer o resto?",
-                        "answer": "Não, de jeito nenhum. Como o iogurte tem alto teor de água, esporos de mofo e toxinas se espalham de forma invisível por todo o pote. Se houver mofo branco, verde ou negro, ou cheiro de álcool/azedo, descarte o pote inteiro imediatamente."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Yogurt agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk yogurt berdasarkan pedoman keselamatan resmi.",
-                "authority": "USDA & MFDS",
-                "intro": "Pernahkah Anda membuka kemasan wadah besar yogurt lalu mendapati lapisan cairan menggenang di atasnya atau muncul jamur sebelum habis dimakan? 🥣\n\nYogurt adalah produk olahan susu fermentasi yang mengandung bakteri asam laktat (probiotik) hidup, menjadikannya sangat sensitif terhadap perubahan suhu dan kontaminasi luar. Menggunakan sendok bekas mulut atau memasukkan air membuat mikroba lain berkembang cepat, sedangkan suhu yang tidak stabil mempercepat pemisahan air dadih (sineresis) dan membuat rasanya terlalu asam.\n\nDalam panduan ini, kami membagikan panduan penyimpanan yogurt 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan untuk menjaga kesegaran dan keberlangsungan probiotiknya. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan menyimpan yogurt di rak pintu kulkas ⚠️",
-                        "desc": "Rak pintu kulkas mengalami perubahan suhu paling drastis setiap kali dibuka. Suhu yang berubah-ubah mengganggu stabilitas probiotik serta mempercepat pemisahan air dadih dan pembusukan. Simpan yogurt di rak bagian dalam yang dingin dan stabil (0–4°C)."
-                    },
-                    {
-                        "title": "Jangan pernah menggunakan sendok basah atau terkena air liur 🥄",
-                        "desc": "Mengambil yogurt dengan sendok yang tersentuh mulut atau basah akan memasukkan enzim pencernaan dan bakteri luar. Hal ini membuat jamur tumbuh dengan cepat. Selalu gunakan sendok khusus yang bersih dan benar-benar kering."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Ambil dengan sendok bersih dan kering lalu tutup rapat — Pencegahan Kontaminasi 📦",
-                        "text": "Hindari makan langsung dari wadah besar. Ambil porsi yang diinginkan menggunakan sendok bersih dan kering. 💡 Tips Penyimpanan: Lap sisa yogurt di pinggiran wadah dengan tisu dapur lalu tutup rapat untuk mencegah masuknya spora jamur."
-                    },
-                    {
-                        "name": "Simpan pada suhu dingin 0–4°C — Simpan Dingin (3–7 Hari Setelah Dibuka) ❄️",
-                        "text": "Menjaga suhu yogurt tetap dingin mencegah produksi asam berlebih oleh probiotik dan mengontrol sineresis. 💡 Tips Penyimpanan: Simpan di rak dalam kulkas paling dingin (0–4°C). Saat belum dibuka bertahan hingga tanggal kadaluarsa, namun setelah dibuka sebaiknya habiskan dalam 3 hingga 7 hari."
-                    },
-                    {
-                        "name": "Aduk kembali cairan air dadih (whey) daripada dibuang — Pengelolaan Whey 🥣",
-                        "text": "Cairan bening yang terpisah di permukaan yogurt adalah air dadih (whey) alami. 💡 Tips Penyimpanan: Whey kaya akan protein, kalsium, dan vitamin, serta bukan tanda yogurt rusak. Cukup aduk kembali hingga menyatu dengan sendok bersih untuk menikmati nutrisi utuh dan tekstur lembutnya."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Apakah probiotik tetap hidup jika yogurt dibekukan?",
-                        "answer": "Proses pembekuan membuat probiotik memasuki fase dorman (tidur) tanpa membunuhnya, tetapi pencairan akan merusak ikatan protein susu sehingga teksturnya menjadi menggumpal berair. Daripada dicairkan sepenuhnya, lebih baik nikmati dalam kondisi agak membeku seperti frozen yogurt."
-                    },
-                    {
-                        "question": "Jika muncul jamur di permukaan, mungkinkah membuang bagian atasnya saja dan memakan sisanya?",
-                        "answer": "Sama sekali tidak boleh. Karena yogurt memiliki kadar air yang tinggi, spora jamur dan racun bakteri menyebar secara tak kasat mata ke seluruh bagian wadah. Jika terlihat jamur berwarna putih, hijau, atau hitam, atau berbau alkohol/asam busuk, segera buang seluruh wadah."
-                    }
-                ]
-            }
-        }
+  "how-to-store-yogurt": {
+    "ingId": "yogurt",
+    "pubDate": "2026-07-08",
+    "updatedDate": "2026-07-08",
+    "heroImage": "/images/blog/yogurt_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "요거트 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 요거트의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+        "intro": "대용량 요거트를 개봉해 두고 먹다가 표면에 물이 한가득 고이거나, 금세 곰팡이가 피어 버린 경험 있으시죠? 🥣\n\n요거트는 유산균이 살아 숨 쉬는 발효 유제품으로, 온도 변화와 외부 오염에 매우 민감합니다. 특히 입에 댔던 숟가락이나 수분이 들어가면 다른 미생물이 번식해 빠르게 변질되며, 온도가 불안정하면 유청 분리(Syneresis) 현상이 심해지고 산미가 과해집니다.\n\n이번 가이드에서는 식품 안전 전문가들이 권장하는 과학적이고 확실한 요거트 신선도 극대화 3단계 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "냉장고 문(도어) 선반에 보관하지 마세요 ⚠️",
+            "desc": "냉장고 문 쪽은 문을 열고 닫을 때마다 온도 변화가 가장 크고 빛에 노출되기 쉽습니다. 온도가 주춤거리면 유산균 활동이 불안정해지고 유청 분리 및 변질이 빨라지므로, 온도가 일정하고 차가운 냉장고 안쪽 깊은 선반(0 ~ 4℃)에 보관하세요."
+          },
+          {
+            "title": "침이나 물기가 묻은 숟가락을 사용하지 마세요 🥄",
+            "desc": "입에 닿았던 숟가락이나 물기가 있는 도구로 요거트를 떠먹으면 침 속의 소화 효소와 외부 세균이 요거트에 들어가 미생물이 빠르게 번식하고 곰팡이가 피게 됩니다. 반드시 깨끗하고 물기 없는 전용 숟가락을 사용하세요."
+          }
+        ],
+        "steps": [
+          {
+            "name": "깨끗한 건조 숟가락으로 덜어내고 밀봉하기 — 오염 차단 및 위생 관리 📦",
+            "text": "대용량 요거트는 용기째 바로 먹지 말고 먹을 만큼만 소독된 마른 숟가락으로 덜어내어 드세요. 💡 보관 팁: 덜어낸 후 용기 입구에 묻은 요거트를 키친타월로 가볍게 닦아내고 뚜껑을 완벽히 덮어 밀봉해야 공기 중 곰팡이 포자 유입을 막을 수 있습니다."
+          },
+          {
+            "name": "0 ~ 4℃ 저온 냉장 보관하기 — 냉장 보관 (개봉 후 3 ~ 7일) ❄️",
+            "text": "요거트 속 유산균의 과도한 산생성과 유청 분리를 막기 위해서는 고온 노출을 방지해야 합니다. 💡 보관 팁: 냉장고 가장 차가운 안쪽 선반(0 ~ 4℃)에 보관하세요. 미개봉 상태에서는 소비기한까지 안전하지만, 개봉 후에는 3 ~ 7일 이내에 소비하는 것이 가장 신선합니다."
+          },
+          {
+            "name": "유청(맑은 물)은 버리지 말고 섞어 먹기 — 유청 관리 🥣",
+            "text": "요거트 표면에 생기는 투명하고 맑은 물은 요거트 단백질과 수분이 자연스럽게 분리된 '유청(Whey)'입니다. 💡 보관 팁: 유청에는 단백질, 칼슘, 비타민 등 수용성 영양소가 집약되어 있으므로 상한 것이 아닙니다. 버리지 말고 숟가락으로 잘 골고루 섞어 드시면 부드러운 식감과 영양을 모두 챙길 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "요거트를 냉동 보관해도 유산균이 살아있나요?",
+            "answer": "요거트를 냉동하면 유산균이 휴면 상태에 들어가 사멸하지는 않지만, 해동 시 유제품 단백질 결합이 깨져 수분과 덩어리가 분리되고 순두부처럼 몽글몽글해지는 식감 변형이 일어납니다. 따라서 완전히 해동해서 먹기보다는 아이스크림처럼 살짝 얼린 상태에서 바로 드시는 것을 추천합니다."
+          },
+          {
+            "question": "요거트 표면에 곰팡이가 피거나 냄새가 나면 윗부분만 떠내고 먹어도 되나요?",
+            "answer": "절대 안 됩니다. 수분이 많은 요거트에 곰팡이나 세균이 침투하면 눈에 보이지 않는 포자와 독소가 제품 전체로 빠르게 퍼집니다. 표면에 흰색, 녹색, 검은색 곰팡이가 보이거나 알코올 냄새, 시큼한 악취가 난다면 즉시 통째로 버려야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Keep Yogurt Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for yogurt based on official safety guidelines.",
+        "authority": "USDA & MFDS",
+        "intro": "Have you ever opened a tub of yogurt only to find a layer of liquid on top or mold forming before you could finish it? 🥣\n\nYogurt is a fermented dairy product containing live probiotics, making it highly sensitive to temperature fluctuations and external contamination. Using a saliva-contaminated spoon or introducing moisture allows unwanted microorganisms to multiply rapidly, while unstable temperatures accelerate whey separation (syneresis) and cause excessive sourness.\n\nIn this guide, shares a scientifically proven 3-step yogurt storage guide recommended by food safety experts to maximize freshness and probiotic vitality. 🛡️",
+        "whyTitle": "Why Store Yogurt This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Do not store yogurt on the refrigerator door shelf ⚠️",
+            "desc": "The refrigerator door experiences severe temperature fluctuations and light exposure whenever opened. Unstable temperatures disrupt probiotic stability and accelerate whey separation and spoilage. Store yogurt on a cold, deep inner shelf (0–4°C) where temperatures remain constant."
+          },
+          {
+            "title": "Never use a wet or saliva-contaminated spoon 🥄",
+            "desc": "Scooping yogurt with a spoon that has touched your mouth or carries water introduces digestive enzymes and bacteria. This allows mold and unwanted microbes to thrive rapidly. Always use a clean, completely dry dedicated spoon."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Portion with a clean, dry spoon and seal tightly — Contamination Prevention 📦",
+            "text": "Avoid eating directly from large yogurt tubs. Portion out what you need using a clean, dry spoon. 💡 Storage Tip: Wipe any yogurt drips around the rim with a paper towel and seal the lid tightly to prevent airborne mold spores from entering."
+          },
+          {
+            "name": "Store at cold temperatures of 0–4°C — Cold Storage (3–7 Days After Opening) ❄️",
+            "text": "Keeping yogurt consistently cold prevents excessive acid production by probiotics and controls syneresis. 💡 Storage Tip: Store on the deepest inner shelf of the fridge (0–4°C). Unopened yogurt lasts until its use-by date, but once opened, consume within 3 to 7 days."
+          },
+          {
+            "name": "Stir in whey liquid rather than discarding it — Whey Management 🥣",
+            "text": "The clear liquid that separates on top of yogurt is natural whey, a byproduct of milk protein breakdown. 💡 Storage Tip: Whey is rich in protein, calcium, and vitamins, and is not a sign of spoilage. Simply stir it back into the yogurt with a clean spoon to enjoy its full nutrients and creamy texture."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Do probiotics survive if yogurt is frozen?",
+            "answer": "Freezing puts probiotics into a dormant state without killing them, but thawing breaks down milk proteins, creating a grainy, curdled texture. Rather than fully thawing frozen yogurt, eat it semi-frozen like a frozen yogurt treat."
+          },
+          {
+            "question": "If mold forms on top, can I scrape off the surface and eat the rest?",
+            "answer": "No, absolutely not. Because yogurt has high moisture content, mold spores and bacterial toxins spread deep throughout the entire tub invisibly. If white, green, or black mold appears, or if it emits a sour/alcoholic odor, discard the entire container immediately."
+          }
+        ]
+      },
+      "ja": {
+        "title": "ヨーグルトを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくヨーグルトの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "大容量のヨーグルトを開封して食べているうちに、表面に水（乳清）がたくさん溜まったり、すぐにカビが生えて捨ててしまった経験はありませんか？🥣\n\nヨーグルトは乳酸菌が生きている発酵乳製品で、温度変化や外界からの汚染に非常に敏感です。特に口をつけたスプーンや水分が入ると雑菌が繁殖して急速に変質し、温度が不安定だと水分分離（ホエイ分離）が進んで酸味が強くなってしまいます。\n\n本記事では、専門家が推奨するヨーグルトの鮮度と乳酸菌の活力を最大化する科学的で確実な3段階の保存のコツをご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合わせた正しい保存方法を実践することは 鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "冷蔵庫のドアポケットでの保存は避けてください ⚠️",
+            "desc": "ドアポケットは開閉のたびに最も温度変化が大きく、光に晒されやすい場所です。温度が頻繁に変わると乳酸菌の活動が不安定になり、ホエイの分離や変質が早まるため、温度が一定で冷たい冷蔵庫の奥の棚（0〜4℃）で保存してください。"
+          },
+          {
+            "title": "唾液や水気がついたスプーンを使用しないでください 🥄",
+            "desc": "口をつけたスプーンや濡れた道具でヨーグルトをすくうと、唾液中の酵素や雑菌が侵入してカビや細菌が急速に繁殖します。必ず清潔で完全に乾いた専用のスプーンを使用してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "清潔で乾いたスプーンで取り分けて密閉する — 汚染防止と衛生管理 📦",
+            "text": "大容量容器から直接食べず、食べる分だけ清潔で乾いたスプーンですくって取り分けましょう。💡保存のコツ：すくった後、容器のフチについたヨーグルトを軽く拭き取り、フタをしっかり閉めて空気中のカビ胞子の侵入を防ぎます。"
+          },
+          {
+            "name": "0〜4℃の低温で冷蔵保存する — 冷蔵保存 (開封後3〜7日間) ❄️",
+            "text": "乳酸菌による過剰な酸生成やホエイの分離を防ぐには、低温維持が不可欠です。💡保存のコツ：冷蔵庫の最も冷たい奥の棚（0〜4℃）で保存します。未開封なら賞味期限まで安全ですが、開封後は3〜7日以内に使い切るのが理想的です。"
+          },
+          {
+            "name": "上澄み液（ホエイ）は捨てずに混ぜて食べる — ホエイ管理 🥣",
+            "text": "ヨーグルトの表面に溜まる透明な液体は、タンパク質と水分が自然分離した「ホエイ（乳清）」です。💡保存のコツ：ホエイにはタンパク質やカルシウム、ビタミンが豊富に含まれており、傷んでいるわけではありません。捨てずにスプーンでよく混ぜて召し上がることで、栄養と滑らかな食感を両立できます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "ヨーグルトを冷凍保存しても乳酸菌は生きていますか？",
+            "answer": "冷凍しても乳酸菌は休眠状態に入るため死滅はしませんが、解凍するとタンパク質の結合が壊れて水分と塊が分離し、ボソボソとした食感に変化してしまいます。完全解凍せず、フローズンヨーグルトのように少し凍った状態のまま召し上がるのがおすすめです。"
+          },
+          {
+            "question": "表面にカビが生えたり匂いがする場合、上の部分だけ取り除けば食べられますか？",
+            "answer": "絶対にやめてください。水分の多いヨーグルトにカビや細菌が侵入すると、目に見えない胞子や毒素が全体に急速に広がります。白、緑、黒などのカビが見られたり、アルコール臭や強い酸敗臭がする場合は、すぐに丸ごと破棄してください。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持酸奶新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解酸奶的最佳储存温度、方式和保鲜时长。",
+        "authority": "美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "您是否曾买回大桶酸奶，吃着吃着就发现表面积了一层水，甚至还没吃完就发霉变质？🥣\n\n酸奶是含有活性益生菌的发酵乳制品，对温度变化和外部污染极其敏感。尤其是接触过唾液的勺子或带入水汽，会导致杂菌剧烈繁殖，而温度不稳定则会加剧乳清析出（Syneresis）并使酸味过浓。\n\n本指南基于食品安全专家推荐的科学3步酸奶保鲜秘诀，帮您完美锁定酸奶的新鲜度与益生菌活性。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "切勿存放在冰箱门侧架上 ⚠️",
+            "desc": "冰箱门侧架在开关时温度波动最大且易受光线照射。温度不稳定会破坏益生菌活性，加速乳清分离和变质。请务必将酸奶存放在温度恒定且冰冷的冰箱内侧深层隔板（0 ~ 4℃）上。"
+          },
+          {
+            "title": "切勿使用带有唾液或水汽的勺子 🥄",
+            "desc": "使用接触过口腔或带有水汽的勺子挖取酸奶，会将唾液中的消化酶和细菌带入酸奶中，导致霉菌和杂菌迅速滋生。请务必使用干净且彻底干燥的专用勺子。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "用干净干燥的勺子舀出并盖紧 — 阻绝污染 📦",
+            "text": "大桶酸奶切勿直接对嘴食用，应用干净干燥的勺子舀出单次食用量。💡储存小贴士：舀完后用厨房纸巾擦净瓶口残余酸奶，紧扣盖子密封，防止空气中的霉菌孢子飘入。"
+          },
+          {
+            "name": "存放在0 ~ 4℃低温冷藏 — 冷藏储存 (开封后3 ~ 7天) ❄️",
+            "text": "保持恒定低温能防止益生菌过度发酵产生过浓酸味，并抑制乳清分离。💡储存小贴士：置于冰箱内侧深层（0 ~ 4℃）。未开封可保存至保质期，开封后建议在3 ~ 7天内食用完毕。"
+          },
+          {
+            "name": "上层乳清切勿倒掉，搅拌均匀食用 — 乳清管理 🥣",
+            "text": "酸奶表面析出的清澈液体是蛋白质与水分自然分离产生的“乳清（Whey）”。💡储存小贴士：乳清富含蛋白质、钙和维生素，并非变质。切勿倒掉，用勺子将其与酸奶充分搅拌均匀，即可兼顾口感与营养。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "冷冻酸奶后益生菌还能存活吗？",
+            "answer": "冷冻会让益生菌进入休眠状态而不会死亡，但解冻会破坏乳蛋白结构，导致水固分离，出现豆腐渣般的结块口感。因此不建议彻底解冻，更适合像炒冰/冰淇淋一样在微冻状态下直接食用。"
+          },
+          {
+            "question": "酸奶表面发霉或有异味，切掉表层还能吃吗？",
+            "answer": "绝对不能。酸奶水分含量高，霉菌孢子和细菌毒素极易顺着液体快速渗透至整桶酸奶。一旦发现白色、绿色或黑色霉菌，或散发酒味、酸臭味，必须立即整桶丢弃。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener el yogurt fresco: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el yogurt según las directrices oficiales de seguridad.",
+        "authority": "USDA & MFDS",
+        "intro": "¿Alguna vez abrió un envase grande de yogurt y descubrió una capa de líquido encima o moho antes de terminarlo? 🥣\n\nEl yogurt es un lácteo fermentado que contiene bacterias lácticas (probióticos) vivas, lo que lo hace muy sensible a las variaciones de temperatura y a la contaminación externa. Usar una cuchara con saliva o introducir humedad permite que los microorganismos se multipliquen rápidamente, mientras que las temperaturas inestables aceleran la separación del suero (sinéresis) y aumentan la acidez.\n\nEn esta guía se comparte una guía de conservación del yogurt en 3 pasos respaldada por expertos para mantener su frescura y probióticos. 🛡️",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "No guarde el yogurt en el estante de la puerta del refrigerador ⚠️",
+            "desc": "La puerta del refrigerador experimenta los cambios de temperatura más drásticos cada vez que se abre. Las temperaturas fluctuantes alteran la estabilidad de los probióticos y aceleran la separación del suero y el deterioro. Guárdelo en un estante interior frío (0-4 °C)."
+          },
+          {
+            "title": "Nunca use una cuchara mojada o con saliva 🥄",
+            "desc": "Servir yogurt con una cuchara que ha tocado su boca o con gotas de agua introduce enzimas digestivas y bacterias, haciendo que el moho crezca rápidamente. Utilice siempre una cuchara limpia y completamente seca."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Sirva con una cuchara limpia y seca y selle bien — Prevención de contaminación 📦",
+            "text": "Evite comer directamente del envase grande. Sirva la cantidad necesaria usando una cuchara limpia y seca. 💡 Consejo de almacenamiento: Limpie cualquier residuo alrededor del borde con papel absorbente y cierre la tapa herméticamente para evitar que entren esporas de moho."
+          },
+          {
+            "name": "Conserve a baja temperatura (0 a 4 °C) — Refrigeración (3 a 7 días tras abrir) ❄️",
+            "text": "Mantener el yogurt bien frío evita la producción excesiva de ácido y controla la separación del suero. 💡 Consejo de almacenamiento: Guárdelo en el estante interior más frío del refrigerador (0-4 °C). Sin abrir dura hasta la fecha de caducidad, pero una vez abierto consúmalo en 3 a 7 días."
+          },
+          {
+            "name": "Mezcle el suero líquido en lugar de desecharlo — Gestión del suero 🥣",
+            "text": "El líquido transparente que se separa en la superficie es suero de leche (Whey) natural. 💡 Consejo de almacenamiento: El suero es rico en proteínas, calcio y vitaminas, y no significa que esté malo. Simplemente mézclelo de nuevo con una cuchara para disfrutar de todos sus nutrientes."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Sobreviven los probióticos si se congela el yogurt?",
+            "answer": "La congelación pone a los probióticos en estado latente sin matarlos, pero al descongelar se rompen las proteínas lácteas, creando una textura grumosa. En lugar de descongelarlo por completo, consúmalo semi-congelado como un helado de yogurt."
+          },
+          {
+            "question": "Si aparece moho en la superficie, ¿puedo quitar la capa superior y comer el resto?",
+            "answer": "No, en absoluto. Dado que el yogurt tiene un alto contenido de agua, los mohos y toxinas se extienden profundamente por todo el envase de forma invisible. Si observa moho blanco, verde o negro, o si huele a alcohol o agrio, deséchelo inmediatamente."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver le yaourt frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le yaourt selon les directives officielles de sécurité.",
+        "authority": "USDA & MFDS",
+        "intro": "Avez-vous déjà ouvert un grand pot de yaourt pour constater la présence d'un liquide à la surface ou de moisissures avant d'avoir pu le finir ? 🥣\n\nLe yaourt est un produit laitier fermenté contenant des probiotiques vivants, ce qui le rend très sensible aux variations de température et aux contaminations. Utiliser une cuillère ayant touché la bouche ou introduire de l'humidité favorise la prolifération bactérienne, tandis qu'une température instable accélère la séparation du petit-lait (synérèse) et accroît l'acidité.\n\nDans ce guide, vous présente un guide scientifique de conservation du yaourt en 3 étapes recommandé par des experts pour préserver sa fraîcheur. 🛡️",
+        "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne stockez pas le yaourt dans la porte du réfrigérateur ⚠️",
+            "desc": "La porte subit des variations de température importantes à chaque ouverture. Les écarts thermiques fragilisent les probiotiques et accélèrent la séparation du petit-lait. Conservez le yaourt sur une étagère intérieure bien froide (0–4 °C)."
+          },
+          {
+            "title": "N'utilisez jamais une cuillère humide ou souillée par la salive 🥄",
+            "desc": "Prendre du yaourt avec une cuillère ayant été portée à la bouche ou mouillée introduit des bactéries et des enzymes qui font rapidement moisir le yaourt. Utilisez toujours une cuillère propre et bien sèche."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Prélever avec une cuillère propre et sèche puis fermer hermétiquement — Prévention des contaminations 📦",
+            "text": "Évitez de manger directement dans le grand pot. Prélevez la quantité souhaitée avec une cuillère propre et sèche. 💡 Astuce de conservation : Essuyez les bords du pot avec de l'essuie-tout et refermez bien le couvercle pour empêcher les spores de moisissure d'entrer."
+          },
+          {
+            "name": "Conserver au frais entre 0 et 4 °C — Réfrigération (3 à 7 jours après ouverture) ❄️",
+            "text": "Maintenir le yaourt à basse température empêche une production excessive d'acide et limite la synérèse. 💡 Astuce de conservation : Placez-le sur l'étagère intérieure la plus froide (0–4 °C). Non ouvert, il se conserve jusqu'à la DLC, mais consommez-le sous 3 à 7 jours après ouverture."
+          },
+          {
+            "name": "Mélanger le petit-lait au lieu de le jeter — Gestion du sérum 🥣",
+            "text": "Le liquide transparent qui se sépare à la surface est le petit-lait (lactosérum). 💡 Astuce de conservation : Ce liquide est riche en protéines, calcium et vitamines et ne signifie pas que le yaourt est périmé. Mélangez-le simplement avec une cuillère pour profiter de ses nutriments."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Les probiotiques survivent-ils si l'on congèle le yaourt ?",
+            "answer": "La congélation met les probiotiques en état de dormance sans les tuer, mais la décongélation brise les protéines laitières, donnant une texture grumeleuse. Plutôt que de le décongeler complètement, consommez-le semi-congelé à la manière d'un frozen yogurt."
+          },
+          {
+            "question": "Si de la moisissure apparaît en surface, puis-je gratter le dessus et manger le reste ?",
+            "answer": "Absolument pas. En raison de sa forte teneur en eau, les moisissures et bactéries se propagent de manière invisible dans tout le pot. Si vous voyez de la moisissure blanche, verte ou noire, ou si une odeur d'alcool s'en dégage, jetez tout le pot immédiatement."
+          }
+        ]
+      },
+      "de": {
+        "title": "Joghurt richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Joghurt basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "USDA & MFDS",
+        "intro": "Haben Sie schon einmal einen großen Becher Joghurt geöffnet, nur um festzustellen, dass sich oben Flüssigkeit sammelte oder Schimmel entstand? 🥣\n\nJoghurt ist ein fermentiertes Milchprodukt mit lebenden Probiotika und reagiert extrem empfindlich auf Temperaturschwankungen und Verunreinigungen. Ein Löffel mit Speichel oder Feuchtigkeit führt zur schnellen Bakterienvermehrung, während unbeständige Temperaturen die Molkeabscheidung (Synärese) beschleunigen und den Joghurt zu sauer machen.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Frische und Probiotika Ihres Joghurts zu bewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Joghurt nicht in der Kühlschranktür lagern ⚠️",
+            "desc": "In der Kühlschranktür schwanken die Temperaturen beim Öffnen am stärksten. Diese Temperaturschwankungen stören die Probiotika und beschleunigen Molkeabscheidung und Verderb. Lagern Sie Joghurt auf einem kühlen Innenregal (0–4 °C)."
+          },
+          {
+            "title": "Niemals einen nassen oder mit Speichel benetzten Löffel verwenden 🥄",
+            "desc": "Wenn Sie Joghurt mit einem gebrauchten oder feuchten Löffel entnehmen, gelangen Enzyme und Keime in den Becher. Dadurch bildet sich rasch Schimmel. Verwenden Sie stets einen sauberen, trockenen Löffel."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Mit sauberem, trockenem Löffel entnehmen und dicht verschließen — Kontaminationsschutz 📦",
+            "text": "Essen Sie nicht direkt aus dem großen Becher. Entnehmen Sie die gewünschte Menge mit einem sauberen Löffel. 💡 Lagerungstipp: Wischen Sie Ränder mit Küchenpapier ab und verschließen Sie den Deckel fest, damit keine Schimmelsporen eindringen."
+          },
+          {
+            "name": "Bei 0–4 °C im Kühlschrank lagern — Kühllagerung (3–7 Tage nach dem Öffnen) ❄️",
+            "text": "Kälte verhindert übermäßige Säurebildung durch Milchsäurebakterien und stoppt die Synärese. 💡 Lagerungstipp: Auf dem kältesten Innenregal (0–4 °C) lagern. Ungeöffnet bis zum MHD haltbar, nach dem Öffnen innerhalb von 3 bis 7 Tagen verbrauchen."
+          },
+          {
+            "name": "Flüssige Molke unterrühren statt wegzugießen — Molkemanagement 🥣",
+            "text": "Die klare Flüssigkeit, die sich oben absetzt, ist natürliche Molke. 💡 Lagerungstipp: Molke enthält Proteine, Kalzium und Vitamine und ist kein Zeichen von Verderb. Rühren Sie die Flüssigkeit einfach mit einem Löffel unter, um Nährstoffe und Cremigkeit zu erhalten."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Überleben Probiotika, wenn man Joghurt einfriert?",
+            "answer": "Durch das Einfrieren geraten Milchsäurebakterien in einen Ruhezustand, sterben aber nicht ab. Beim Auftauen bricht jedoch die Eiweißstruktur auf, wodurch der Joghurt krümelig wird. Genießen Sie gefrorenen Joghurt am besten leicht angetaut wie Frozen Joghurt."
+          },
+          {
+            "question": "Kann man bei Schimmel auf der Oberfläche die obere Schicht abkratzen und den Rest essen?",
+            "answer": "Nein, auf keinen Fall. Da Joghurt viel Wasser enthält, breiten sich Schimmelsporen und Bakterientoxine unsichtbar im gesamten Becher aus. Bei weißem, grünem oder schwarzem Schimmel sowie Alkoholgeruch den gesamten Becher sofort entsorgen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar iogurte fresco: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para o iogurte com base em diretrizes oficiais de segurança.",
+        "authority": "USDA & MFDS",
+        "intro": "Você já abriu um pote grande de iogurte e percebeu uma camada de líquido por cima ou mofo antes de terminar de consumir? 🥣\n\nO iogurte é um laticínio fermentado que contém bactérias lácticas (probióticos) vivas, sendo muito sensível a variações de temperatura e contaminações. Usar uma colher com saliva ou introduzir umidade faz com que bactérias indesejadas se multipliquem, enquanto a temperatura instável acelera a separação do soro (sinérese) e aumenta a acidez.\n\nNeste guia, apresentamos um guia prático em 3 etapas recomendado por especialistas para manter o frescor e os probióticos do seu iogurte. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Não guarde o iogurte na prateleira da porta da geladeira ⚠️",
+            "desc": "A porta da geladeira sofre as variações de temperatura mais drásticas a cada abertura. Mudanças constantes afetam a estabilidade dos probióticos e aceleram a separação do soro e a deterioração. Guarde o iogurte em uma prateleira interna bem fria (0-4 °C)."
+          },
+          {
+            "title": "Nunca use uma colher molhada ou com saliva 🥄",
+            "desc": "Retirar iogurte com uma colher que tocou a boca ou que tem água introduz enzimas digestivas e bactérias, fazendo o mofo crescer rapidamente. Use sempre uma colher limpa e bem seca."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Servir com colher limpa e seca e vedar bem — Prevenção de contaminação 📦",
+            "text": "Evite comer direto no pote grande. Retire a quantidade desejada com uma colher limpa e seca. 💡 Dica de conservação: Limpe o excesso na borda com papel-toalha e feche bem a tampa para evitar a entrada de esporos de mofo."
+          },
+          {
+            "name": "Conservar a baixa temperatura de 0 a 4 °C — Refrigeração (3 a 7 dias após aberto) ❄️",
+            "text": "Manter o iogurte bem frio evita a produção excessiva de ácido e controla a separação do soro. 💡 Dica de conservação: Guarde na prateleira interna mais fria da geladeira (0-4 °C). Fechado dura até a data de validade; após aberto, consuma em 3 a 7 dias."
+          },
+          {
+            "name": "Misturar o soro líquido em vez de descartá-lo — Gestão do soro 🥣",
+            "text": "O líquido transparente que se separa na superfície é o soro do leite (Whey) natural. 💡 Dica de conservação: O soro é rico em proteínas, cálcio e vitaminas, e não significa que o iogurte estragou. Basta misturar novamente com uma colher para aproveitar seus nutrientes."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Os probióticos sobrevivem se o iogurte for congelado?",
+            "answer": "O congelamento coloca os probióticos em estado de dormência sem matá-los, mas o descongelamento quebra as proteínas do leite, deixando uma textura coalhada. Em vez de descongelar totalmente, consuma-o semi-congelado como um frozen yogurt."
+          },
+          {
+            "question": "Se aparecer mofo na superfície, posso retirar a camada de cima e comer o resto?",
+            "answer": "Não, de jeito nenhum. Como o iogurte tem alto teor de água, esporos de mofo e toxinas se espalham de forma invisível por todo o pote. Se houver mofo branco, verde ou negro, ou cheiro de álcool/azedo, descarte o pote inteiro imediatamente."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Yogurt agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk yogurt berdasarkan pedoman keselamatan resmi.",
+        "authority": "USDA & MFDS",
+        "intro": "Pernahkah Anda membuka kemasan wadah besar yogurt lalu mendapati lapisan cairan menggenang di atasnya atau muncul jamur sebelum habis dimakan? 🥣\n\nYogurt adalah produk olahan susu fermentasi yang mengandung bakteri asam laktat (probiotik) hidup, menjadikannya sangat sensitif terhadap perubahan suhu dan kontaminasi luar. Menggunakan sendok bekas mulut atau memasukkan air membuat mikroba lain berkembang cepat, sedangkan suhu yang tidak stabil mempercepat pemisahan air dadih (sineresis) dan membuat rasanya terlalu asam.\n\nDalam panduan ini, kami membagikan panduan penyimpanan yogurt 3 langkah berbasis ilmiah yang direkomendasikan oleh ahli keamanan pangan untuk menjaga kesegaran dan keberlangsungan probiotiknya. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan menyimpan yogurt di rak pintu kulkas ⚠️",
+            "desc": "Rak pintu kulkas mengalami perubahan suhu paling drastis setiap kali dibuka. Suhu yang berubah-ubah mengganggu stabilitas probiotik serta mempercepat pemisahan air dadih dan pembusukan. Simpan yogurt di rak bagian dalam yang dingin dan stabil (0–4°C)."
+          },
+          {
+            "title": "Jangan pernah menggunakan sendok basah atau terkena air liur 🥄",
+            "desc": "Mengambil yogurt dengan sendok yang tersentuh mulut atau basah akan memasukkan enzim pencernaan dan bakteri luar. Hal ini membuat jamur tumbuh dengan cepat. Selalu gunakan sendok khusus yang bersih dan benar-benar kering."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Ambil dengan sendok bersih dan kering lalu tutup rapat — Pencegahan Kontaminasi 📦",
+            "text": "Hindari makan langsung dari wadah besar. Ambil porsi yang diinginkan menggunakan sendok bersih dan kering. 💡 Tips Penyimpanan: Lap sisa yogurt di pinggiran wadah dengan tisu dapur lalu tutup rapat untuk mencegah masuknya spora jamur."
+          },
+          {
+            "name": "Simpan pada suhu dingin 0–4°C — Simpan Dingin (3–7 Hari Setelah Dibuka) ❄️",
+            "text": "Menjaga suhu yogurt tetap dingin mencegah produksi asam berlebih oleh probiotik dan mengontrol sineresis. 💡 Tips Penyimpanan: Simpan di rak dalam kulkas paling dingin (0–4°C). Saat belum dibuka bertahan hingga tanggal kadaluarsa, namun setelah dibuka sebaiknya habiskan dalam 3 hingga 7 hari."
+          },
+          {
+            "name": "Aduk kembali cairan air dadih (whey) daripada dibuang — Pengelolaan Whey 🥣",
+            "text": "Cairan bening yang terpisah di permukaan yogurt adalah air dadih (whey) alami. 💡 Tips Penyimpanan: Whey kaya akan protein, kalsium, dan vitamin, serta bukan tanda yogurt rusak. Cukup aduk kembali hingga menyatu dengan sendok bersih untuk menikmati nutrisi utuh dan tekstur lembutnya."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Apakah probiotik tetap hidup jika yogurt dibekukan?",
+            "answer": "Proses pembekuan membuat probiotik memasuki fase dorman (tidur) tanpa membunuhnya, tetapi pencairan akan merusak ikatan protein susu sehingga teksturnya menjadi menggumpal berair. Daripada dicairkan sepenuhnya, lebih baik nikmati dalam kondisi agak membeku seperti frozen yogurt."
+          },
+          {
+            "question": "Jika muncul jamur di permukaan, mungkinkah membuang bagian atasnya saja dan memakan sisanya?",
+            "answer": "Sama sekali tidak boleh. Karena yogurt memiliki kadar air yang tinggi, spora jamur dan racun bakteri menyebar secara tak kasat mata ke seluruh bagian wadah. Jika terlihat jamur berwarna putih, hijau, atau hitam, atau berbau alkohol/asam busuk, segera buang seluruh wadah."
+          }
+        ]
+      }
     }
+  }
 }

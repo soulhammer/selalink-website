@@ -1,406 +1,406 @@
 {
-    "how-to-store-oats": {
-        "ingId": "oats",
-        "pubDate": "2026-02-16",
-        "updatedDate": "2026-02-16",
-        "heroImage": "/images/blog/oats_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "귀리·오트밀 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 귀리 및 오트밀의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS)",
-                "intro": "건강을 위해 구매한 귀리나 오트밀을 종이 상자째 찬장에 오래 두었다가 시큼하고 찌린 냄새가 나거나 벌레가 생겨 버린 경험 다들 있으시죠? 🌾\n\n귀리는 불포화지방산(지방 함량 약 5~9%)과 식이섬유가 풍부한 우수한 곡물이지만, 쌀이나 밀에 비해 지방 함량이 높아 공기 중의 산소, 빛, 열에 노출되면 지방 산화(산패)가 빠르게 일어납니다. 또한 화랑곡나방이나 쌀바구미 같은 곡물 해충이 가장 좋아하는 식재료이기도 합니다.\n\n이번 가이드에서는 미국 농무부(USDA)와 식품 안전 당국의 안전 가이드라인을 바탕으로 귀리·오트밀의 신선도와 고소한 풍미를 최대 1년 이상 지키는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "개봉 후 종이 상자나 비닐 포장재째 방치하지 마세요 🐛",
-                        "desc": "종이 상자나 얇은 비닐봉지는 화랑곡나방 유충 등 곡물 해충이 쉽게 뚫고 침입하며, 공기 중의 습기를 흡수하여 곰팡이가 번식하기 쉬운 환경을 만듭니다. 개봉 후에는 즉시 완벽한 밀폐 용기로 옮겨 담아야 합니다."
-                    },
-                    {
-                        "title": "습하고 온도가 높은 가스레인지 주변에 두지 마세요 ⚠️",
-                        "desc": "높은 습도와 열기는 귀리 속 지질 분해 효소를 활성화시켜 지방산 분해를 촉진하고 시큼하고 쩐내(산패)를 유발합니다. 반드시 서늘하고 건조한 환경을 유지해 주세요."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "BPA-free 밀폐 용기나 유리병에 담기 — 공기, 습기 및 해충 완전 차단 📦",
-                        "text": "귀리 보관의 핵심은 산소와 습기, 해충을 완벽히 차단하는 것입니다. 💡 보관 팁: 개봉한 귀리와 오트밀은 고무 패킹이 있는 유리병이나 밀폐 플라스틱 용기에 담아 뚜껑을 꼭 닫아 보관하세요."
-                    },
-                    {
-                        "name": "15~20℃ 서늘하고 어두운 상온 보관하기 — 적정 상온 보관 (1년) ☀️",
-                        "text": "귀리가 가장 안정적으로 유지되는 조건은 온도가 낮고 직사광선이 닿지 않는 건조한 환경입니다. 💡 보관 팁: 습도가 낮고 통풍이 잘되는 어두운 찬장이나 서랍 속에 보관하면 최대 1년간 신선함을 유지할 수 있습니다."
-                    },
-                    {
-                        "name": "장기 보관 시 소분하여 냉동 보관하기 — 장기 보관 (1~2년) ❄️",
-                        "text": "대용량 귀리를 사 두었거나 한여름철 습도가 높을 때는 냉동 보관이 가장 안전합니다. 💡 보관 팁: 지퍼백이나 밀폐 용기에 1회분씩 소분하여 냉동실(-18℃ 이하)에 보관하세요. 해충 발생을 100% 방지하고 산패 속도를 거의 멈출 수 있습니다."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "귀리/오트밀에서 퀴퀴하거나 시큼한 냄새가 나는데 먹어도 되나요?",
-                        "answer": "귀리 속 지방 성분이 산화(산패)되었을 때 발생하는 전형적인 신호입니다. 산패된 곡물은 영양소가 파괴되었을 뿐만 아니라 유해 물질을 생성하므로 아까워하지 말고 즉시 폐기해야 합니다."
-                    },
-                    {
-                        "question": "스틸컷 오트, 롤드 오트, 퀵 오트의 보관 기간에 차이가 있나요?",
-                        "answer": "가공 단계가 적을수록 보관 기간이 깁니다. 겉껍질만 벗긴 통귀리나 스틸컷 오트는 지방 산화가 적어 상대적으로 오랫동안 보관할 수 있지만, 눌러서 얇게 펼친 롤드 오트나 퀵 오트는 공기 접촉 면적이 넓어 산패 속도가 빠르므로 밀폐 보관에 더욱 신경 써야 합니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Store Oats & Oatmeal Fresh: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for oats and oatmeal based on official safety guidelines.",
-                "authority": "USDA & MFDS",
-                "intro": "Have you ever kept a cardboard box of oats in your pantry for a few months, only to find them smelling stale, rancid, or infested with grain bugs? 🌾\n\nOats are a highly nutritious grain rich in dietary fiber and healthy unsaturated fats (containing around 5–9% lipids). However, because of their higher fat content compared to rice or wheat, exposure to oxygen, light, and heat causes rapid lipid oxidation (rancidity). They are also a favorite target for common grain pests like pantry moths and weevils.\n\nIn this guide, introduces a scientifically proven 3-step storage guide recommended by the USDA and food safety authorities to keep your oats fresh, nutty, and safe for up to a year or more. 🛡️",
-                "whyTitle": "Why Store Oats This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Do not leave oats in their original cardboard or thin plastic bags 🐛",
-                        "desc": "Cardboard boxes and thin plastic wrappers are easily bored through by pantry moth larvae. They also absorb ambient humidity, creating an ideal environment for mold growth. Always transfer oats to an airtight container after opening."
-                    },
-                    {
-                        "title": "Avoid hot and humid areas near stovetops or ovens ⚠️",
-                        "desc": "High heat and humidity activate lipase enzymes in oats, accelerating fat breakdown and creating a sour, stale odor. Keep them in a consistently cool, dry environment."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Transfer to airtight glass jars or BPA-free containers — Complete Air, Moisture & Pest Barrier 📦",
-                        "text": "The key to preserving oats is completely blocking oxygen, moisture, and pests. 💡 Storage Tip: Pour opened oats or oatmeal into a glass jar with a rubber seal or an airtight plastic container and lock the lid tightly."
-                    },
-                    {
-                        "name": "Store in a cool, dark pantry at 15–20°C — Optimal Room Temperature Storage (1 Year) ☀️",
-                        "text": "Oats remain stable when stored in dry, dark places free from direct sunlight. 💡 Storage Tip: Keep containers in a low-humidity, well-ventilated dark cabinet or pantry to maintain freshness for up to 1 year."
-                    },
-                    {
-                        "name": "Portion and freeze for long-term storage — Extended Frozen Storage (1–2 Years) ❄️",
-                        "text": "If you buy bulk oats or live in hot, humid summer climates, freezing is the safest storage method. 💡 Storage Tip: Seal single-serving portions in Ziploc freezer bags or airtight containers and store below -18°C (-0.4°F). This completely halts pest growth and halts lipid oxidation."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "My oats have a sour, stale, or paint-like odor. Are they safe to eat?",
-                        "answer": "No. A stale or paint-like sour smell is a clear sign of lipid oxidation (rancidity). Rancid grains lose their nutritional value and contain free radicals and oxidized compounds, so they should be discarded immediately."
-                    },
-                    {
-                        "question": "Does shelf life vary between steel-cut, rolled, and quick oats?",
-                        "answer": "Yes. Less processed oats last longer. Steel-cut oats and whole oat groats have less surface area exposed to oxygen, resisting oxidation better. Rolled and quick oats are steamed and flattened, creating a larger surface area that speeds up rancidity, requiring extra airtight care."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "オートミール（燕麦）を新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくオートミール・燕麦の最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "健康のために買ったオートミールを紙箱のまま戸棚に入れておいたら、古くさい油臭さがしたり虫が発生して捨ててしまった経験はありませんか？🌾\n\n燕麦（オートミール）は食物繊維と不飽和脂肪酸（脂質約5〜9%）が豊富な優れた穀物ですが、米や小麦に比べて脂質含有量が高いため、空気中の酸素や光、熱に晒されると脂質の酸化（酸敗）が急速に進みます。また、メイガやコクゾウムシなどの穀物害虫が好む食材でもあります。\n\n本記事では、米国農務省（USDA）などの安全ガイドラインに基づき、オートミールの香ばしい風味と品質を1年以上守る3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "開封後に紙箱や薄い袋のまま放置しないでください 🐛",
-                        "desc": "紙箱や薄いビニール袋はメイガの幼虫などの害虫が容易に食い破って侵入します。また、空気中の湿気を吸ってカビが発生しやすくなるため、開封後はすぐに完全密閉できる容器に移し替えてください。"
-                    },
-                    {
-                        "title": "湿気が高く高温になるコンロの周辺に置かないでください ⚠️",
-                        "desc": "高温多湿は燕麦に含まれるリパーゼ（分解酵素）を活性化させ、脂質の分解を促進して古くさい酸敗臭の原因になります。必ず涼しく乾燥した環境を維持してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "BPAフリーの密閉容器やガラス瓶に移す — 空気・湿気・害虫の完全遮断 📦",
-                        "text": "オートミール保存の基本は酸素、湿気、害虫を遮断することです。💡保存のコツ：開封したオートミールはパッキン付きのガラス瓶や密閉容器に入れ、フタをしっかり閉めて保存してください。"
-                    },
-                    {
-                        "name": "15〜20℃の涼しく暗い常温で保存する — 最適な常温保存 (1年間) ☀️",
-                        "text": "燕麦が最も安定する条件は、室温が低く直射日光が当たらない乾燥した場所です。💡保存のコツ：湿度が低く風通しの良い暗い戸棚や引き出しの中に保管すれば、最大1年間新鮮さを保てます。"
-                    },
-                    {
-                        "name": "長期保存時は小分けにして冷凍保存する — 長期冷凍保存 (1〜2年間) ❄️",
-                        "text": "大容量を購入した場合や湿度が高い夏場は冷凍保存が最も安全です。💡保存のコツ：1回分ずつジッパーバッグや密閉容器に小分けし、冷凍室（-18℃以下）で保存します。害虫の発生を100%防ぎ、酸化をほぼ停止させることができます。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "オートミールから酸っぱいニオイや古い油臭さがしますが食べられますか？",
-                        "answer": "燕麦に含まれる脂質が酸化（酸敗）した際の典型的なサインです。酸敗した穀物は栄養が破壊されているだけでなく、体に有害な物質を生成するため、召し上がらずに直ちに廃棄してください。"
-                    },
-                    {
-                        "question": "スチールカット、ロールドオーツ、クイックオーツで保存期間に違いはありますか？",
-                        "answer": "加工度の低いものほど長持ちします。外皮を取り除いただけのスチールカットオーツは酸化しにくく長期間保存可能ですが、加熱して潰したロールドオーツやクイックオーツは空気との接触面積が広く酸化しやすいため、より厳重な密閉保存が必要です。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持燕麦/燕麦片新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解燕麦及燕麦片的最佳储存温度、方式和保鲜时长。",
-                "authority": "美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "您是否曾将买回家的燕麦片连同纸盒直接放在橱柜里，几个月后发现散发出酸腐油哈味甚至长了米虫？🌾\n\n燕麦是一种富含膳食纤维与优质不饱和脂肪酸（脂质含量约5~9%）的高营养谷物。然而，与大米或小麦相比，其较高的脂肪含量使其在接触空气中的氧气、光线和热量时极易发生油脂氧化酸败（Rancidity）。此外，它也是印度谷螟、象埠等粮害虫最喜爱的食物。\n\n本指南基于美国农务部(USDA)与食品安全指南，为您带来3步科学保存秘诀，帮您长久锁定燕麦的浓郁麦香与营养长达1年以上。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "拆封后切勿直接保留纸盒或薄塑料袋存放 🐛",
-                        "desc": "纸盒和薄塑料袋极易被蛾类幼虫咬破侵入，且会吸收空气中的湿气导致霉菌滋生。拆封后请务必立即转移至完全密封的保鲜容器中。"
-                    },
-                    {
-                        "title": "切勿存放在潮湿且高温的灶台周边 ⚠️",
-                        "desc": "高温和高湿会激活燕麦中的脂肪脂肪酶，加速脂肪酸分解并产生难闻的油哈酸败味。请务必保持阴凉干燥的环境。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "转移至不含BPA的密封盒或玻璃瓶中 — 彻底阻绝空气、湿气与害虫 📦",
-                        "text": "保存燕麦的核心在于彻底隔绝氧气、湿气与害虫。💡储存小贴士：将拆封后的燕麦片倒入带有橡胶密封圈的玻璃瓶或密封保鲜盒中，紧扣盒盖。"
-                    },
-                    {
-                        "name": "存放在15~20℃阴凉避光的常温处 — 适温常温保存 (1年) ☀️",
-                        "text": "燕麦保持稳定的最佳条件是低温、干燥且无阳光直射的环境。💡储存小贴士：存放在湿度低、通风良好的阴暗橱柜或抽屉中，可保鲜长达1年。"
-                    },
-                    {
-                        "name": "长期保存请分装后冷冻 — 长期冷冻保存 (1~2年) ❄️",
-                        "text": "购买大包装燕麦或在炎热潮湿的夏季，冷冻是安全的保存方式。💡储存小贴士：按单次用量装入冷冻拉链袋或密封盒中，放入冷冻室（-18℃以下）。这能100%杜绝害虫并近乎终止油脂氧化。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "燕麦散发出陈腐的油哈味或酸味，还能吃吗？",
-                        "answer": "这是燕麦中的脂肪发生氧化酸败的明确信号。酸败的谷物不仅营养破坏，还会产生过氧化物等有害物质，请勿食用，应立即丢弃。"
-                    },
-                    {
-                        "question": "钢切燕麦（Steel-cut）、压片燕麦（Rolled）和快熟燕麦（Quick）的保质期有区别吗？",
-                        "answer": "加工度越低，保质期越长。仅去壳切碎的钢切燕麦抗氧化能力强，保存时间最长；而经过蒸煮压平的压片燕麦和快熟燕麦由于与空气接触面积大，氧化速度更快，需要更加严格地密封保存。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo mantener la avena fresca: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la avena según las directrices oficiales de seguridad.",
-                "authority": "USDA & MFDS",
-                "intro": "¿Alguna vez guardó una caja de cartón de avena en la alacena por unos meses solo para descubrir que olía rancia o tenía gorgojos? 🌾\n\nLa avena es un grano rico en fibra y grasas insaturadas saludables (contiene entre 5 y 9% de lípidos). Sin embargo, debido a su mayor contenido de grasa en comparación con el arroz o el trigo, la exposición al oxígeno, la luz y el calor causa una rápida oxidación de los lípidos (rancidez). Además, es uno de los alimentos favoritos de las plagas del grano.\n\nEn esta guía se comparte una guía de conservación en 3 pasos respaldada por el USDA y autoridades de seguridad alimentaria para mantener su avena fresca y deliciosa por un año o más. 🛡️",
-                "whyTitle": "¿Por qué almacenarla así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "No deje la avena en su caja de cartón o bolsa de plástico original 🐛",
-                        "desc": "Las cajas de cartón y las bolsas plásticas delgadas son perforadas fácilmente por larvas de gorgojos. También absorben la humedad ambiental, creando el entorno idóneo para el moho. Transfiera siempre la avena a un contenedor hermético."
-                    },
-                    {
-                        "title": "Evite zonas calientes y húmedas cerca de estufas u hornos ⚠️",
-                        "desc": "El calor y la humedad activan las enzimas lipasas de la avena, acelerando la descomposición de sus grasas y generando un olor agrio y rancio. Manténgala en un ambiente fresco y seco."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Pase la avena a frascos de vidrio herméticos o recipientes sin BPA — Proteja contra aire, humedad y plagas 📦",
-                        "text": "La clave para conservar la avena es bloquear completamente el oxígeno, la humedad y los insectos. 💡 Consejo de almacenamiento: Vierta la avena abierta en un frasco de vidrio con sellado de goma o en un contenedor hermético de plástico."
-                    },
-                    {
-                        "name": "Guarde en una alacena fresca y oscura a 15–20 °C — Almacenamiento óptimo a temperatura ambiente (1 año) ☀️",
-                        "text": "La avena se mantiene estable en lugares secos y oscuros lejos de la luz solar directa. 💡 Consejo de almacenamiento: Guarde los contenedores en un armario oscuro y bien ventilado para mantener la frescura hasta por 1 año."
-                    },
-                    {
-                        "name": "Porcione y congele para almacenamiento a largo plazo — Conservación congelada (1 a 2 años) ❄️",
-                        "text": "Si compra avena a granel o vive en un clima cálido y húmedo, la congelación es la opción más segura. 💡 Consejo de almacenamiento: Selle porciones individuales en bolsas Ziploc para congelador y mantenga a menos de -18 °C."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mi avena tiene un olor agrio o rancio. ¿Es seguro comerla?",
-                        "answer": "No. Un olor agrio o a pintura es un signo evidente de oxidación lipídica (rancidez). Los granos rancios pierden sus nutrientes y contienen compuestos valiosos oxidados, por lo que deben desecharse de inmediato."
-                    },
-                    {
-                        "question": "¿Varía la vida útil entre la avena cortada (steel-cut), en copos (rolled) y de cocción rápida (quick)?",
-                        "answer": "Sí. La avena menos procesada dura más. La avena cortada (steel-cut) tiene menos superficie expuesta al oxígeno, resistiendo mejor la oxidación. La avena en copos y la rápida sufren un mayor procesamiento, lo que aumenta la superficie de contacto y acelera la rancidez, requiriendo mayor cuidado hermético."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver l'avoine et le flocons d'avoine frais : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour l'avoine selon les directives officielles de sécurité.",
-                "authority": "USDA & MFDS",
-                "intro": "Avez-vous déjà conservé une boîte en carton de flocons d'avoine dans votre placard pendant quelques mois, pour découvrir ensuite qu'ils avaient une odeur rance ou étaient infestés d'insectes ? 🌾\n\nL'avoine est une céréale très nutritive, riche en fibres et en acides gras insaturés (contient environ 5 à 9 % de lipides). Cependant, en raison de sa teneur en matières grasses plus élevée que celle du riz ou du blé, l'exposition à l'oxygène, à la lumière et à la chaleur entraîne une rapide oxidation des lipides (rancissement). C'est aussi une cible privilégiée pour les insectes des céréales comme les mites alimentaires.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et des experts en sécurité alimentaire pour préserver la fraîcheur de votre avoine pendant 1 an ou plus. 🛡️",
-                "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne laissez pas l'avoine dans son emballage en carton ou sachet d'origine 🐛",
-                        "desc": "Les boîtes en carton et les sachets en plastique fins sont facilement perforés par les larves d'insectes. Ils absorbent également l'humidité ambiante, favorisant la moisissure. Transférez toujours l'avoine dans un récipient hermétique après ouverture."
-                    },
-                    {
-                        "title": "Évitez les zones chaudes et humides près des plaques de cuisson ⚠️",
-                        "desc": "La chaleur et l'humidité activent les enzymes lipases de l'avoine, accélérant la décomposition des graisses et créant une odeur rance. Conservez-la dans un endroit frais et sec."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Transférer dans des bocaux en verre hermétiques ou des boîtes sans BPA — Protection contre l'air, l'humidité et les insectes 📦",
-                        "text": "La clé de la conservation de l'avoine est d'empêcher l'accès à l'oxygène, à l'humidité et aux parasites. 💡 Astuce de conservation : Versez l'avoine ouverte dans un bocal en verre avec joint en caoutchouc ou dans une boîte hermétique."
-                    },
-                    {
-                        "name": "Garder dans un placard frais et sombre à 15–20 °C — Stockage optimal à température ambiante (1 an) ☀️",
-                        "text": "L'avoine reste stable lorsqu'elle est conservée au sec et à l'abri de la lumière directe. 💡 Astuce de conservation : Conservez les récipients dans un placard sombre et bien ventilé pour maintenir la fraîcheur jusqu'à 1 an."
-                    },
-                    {
-                        "name": "Portionner et congeler pour un stockage longue durée — Stockage congelé (1 à 2 ans) ❄️",
-                        "text": "Si vous achetez de l'avoine en vrac ou en période d'été chaud et humide, la congélation est la méthode la plus sûre. 💡 Astuce de conservation : Scellez des portions individuelles dans des sachets congélation hermétiques à -18 °C."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Mon avoine a une odeur aigre ou rance. Est-elle propre à la consommation ?",
-                        "answer": "Non. Une odeur aigre ou de peinture est le signe d'une oxydation des lipides (rancissement). Les céréales rances perdent leurs valeurs nutritives et contiennent des radicaux libres ; elles doivent être jetées immédiatement."
-                    },
-                    {
-                        "question": "La durée de conservation varie-t-elle selon le type d'avoine (concassée, en flocons, rapide) ?",
-                        "answer": "Oui. L'avoine la moins transformée se conserve plus longtemps. L'avoine concassée (steel-cut) présente moins de surface exposée à l'air et résiste mieux à l'oxydation. Les flocons d'avoine traditionnels ou rapides subissent un aplatissement qui augmente la surface de contact avec l'air, accélérant le rancissement et exigeant un emballage très hermétique."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Haferflocken richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Haferflocken basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "USDA & MFDS",
-                "intro": "Haben Sie eine Schachtel Haferflocken schon einmal einige Monate im Schrank aufbewahrt, nur um festzustellen, dass sie alt und ranzig rochen oder von Schädlingen befallen waren? 🌾\n\nHafer ist ein sehr nährstoffreiches Getreide, das reich an Ballaststoffen und gesunden ungesättigten Fettsäuren ist (enthält ca. 5–9 % Fett). Aufgrund des im Vergleich zu Reis oder Weizen höheren Fettgehalts führt der Kontakt mit Sauerstoff, Licht und Wärme jedoch zu einer raschen Fettoxidation (Ranzigwerden). Zudem sind Haferflocken ein beliebtes Ziel für Vorratsschädlinge wie Lebensmittelmotten.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der von der USDA und Lebensmittelsicherheitsexperten empfohlen wird, um Ihre Haferflocken über ein Jahr lang frisch zu halten. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Haferflocken nicht in der Originalpappschachtel oder dünnen Beuteln lassen 🐛",
-                        "desc": "Pappschachteln und dünne Plastikfolien werden von Mottenlarven leicht durchgefressen. Sie nehmen zudem Luftfeuchtigkeit auf, was Schimmelbildung begünstigt. Füllen Sie Haferflocken nach dem Öffnen immer in ein luftdichtes Gefäß um."
-                    },
-                    {
-                        "title": "Warme und feuchte Bereiche nahe dem Herd meiden ⚠️",
-                        "desc": "Hitze und Feuchtigkeit aktivieren Lipase-Enzyme im Hafer, was den Fettabbau beschleunigt und zu ranzigem Geruch führt. Bewahren Sie Haferflocken stets an einem kühlen, trockenen Ort auf."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "In luftdichte Glasbehälter oder BPA-freie Dosen umfüllen — Schutz vor Luft, Feuchtigkeit und Schädlingen 📦",
-                        "text": "Der Schlüssel zur Lagerung von Haferflocken ist der vollständige Schutz vor Sauerstoff, Feuchtigkeit und Ungeziefer. 💡 Lagerungstipp: Füllen Sie geöffnete Haferflocken in ein Bügelglas mit Dichtung oder eine luftdichte Dose um."
-                    },
-                    {
-                        "name": "Bei 15–20 °C kühl und dunkel lagern — Optimale Raumtemperaturlagerung (1 Jahr) ☀️",
-                        "text": "Hafer bleibt stabil, wenn er an trockenen, dunklen Orten ohne direkte Sonneneinstrahlung gelagert wird. 💡 Lagerungstipp: Bewahren Sie die Behälter in einem trockenen, gut belüfteten Vorratsschrank auf, um die Frische bis zu 1 Jahr zu sichern."
-                    },
-                    {
-                        "name": "Für die Langzeitlagerung portionieren und einfrieren — Gefrierlagerung (1–2 Jahre) ❄️",
-                        "text": "Wenn Sie Haferflocken auf Vorrat kaufen oder in sehr feucht-warmen Sommern lagern, ist das Einfrieren die sicherste Methode. 💡 Lagerungstipp: Frieren Sie Tagesportionen im Ziploc-Gefrierbeutel bei unter -18 °C ein. Das stoppt Schädlingsbefall und Fettoxidation vollständig."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Meine Haferflocken riechen ranzig oder alt. Kann ich sie noch essen?",
-                        "answer": "Nein. Ein ranziger oder stechender Geruch ist ein klares Zeichen für Fettoxidation. Ranziges Getreide verliert seine Nährstoffe und bildet schädliche Peroxide, weshalb es sofort entsorgt werden sollte."
-                    },
-                    {
-                        "question": "Unterscheidet sich die Haltbarkeit von Haferkerne (Steel-Cut), kernigen und zarten Haferflocken?",
-                        "answer": "Ja. Weniger verarbeiteter Hafer hält länger. Steel-Cut-Hafer bietet weniger Angriffsfläche für Sauerstoff und widersteht der Oxidation besser. Zarte und Schmelzflocken werden gewalzt, wodurch die Oberfläche vergrößert wird, was das Ranzigwerden beschleunigt und eine besonders luftdichte Verpackung erfordert."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar aveia fresca: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para a aveia com base em diretrizes oficiais de segurança.",
-                "authority": "USDA & MFDS",
-                "intro": "Você já guardou uma caixa de papelão de aveia no armário por alguns meses e descobriu depois que ela estava com cheiro râncio ou com carunchos? 🌾\n\nA aveia é um cereal altamente nutritivo, rico em fibras e gorduras insaturadas saudáveis (contém cerca de 5 a 9% de lipídios). No entanto, devido ao seu maior teor de gordura em comparação ao arroz ou trigo, a exposição ao oxigênio, luz e calor causa rápida oxidação dos lipídios (rancificação). Além disso, é um dos alimentos favoritos de pragas de grãos.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas recomendado por especialistas do USDA para manter sua aveia fresca e saborosa por um ano ou mais. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Não deixe a aveia na caixa de papelão ou saco plástico original 🐛",
-                        "desc": "Caixas de papelão e sacos plásticos finos são facilmente furados por larvas de carunchos. Eles também absorvem a umidade do ar, favorecendo o mofo. Transfira sempre a aveia para um recipiente hermético após aberta."
-                    },
-                    {
-                        "title": "Evite áreas quentes e úmidas perto do fogão ou forno ⚠️",
-                        "desc": "O calor e a umidade ativam as enzimas lipase da aveia, acelerando a quebra das gorduras e gerando um odor râncio. Mantenha-a em um ambiente fresco e seco."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Transfira para potes de vidro herméticos ou potes sem BPA — Proteção contra ar, umidade e pragas 📦",
-                        "text": "O segredo para conservar a aveia é bloquear totalmente o oxigênio, a umidade e os insetos. 💡 Dica de conservação: Despeje a aveia aberta em um pote de vidro com vedação de borracha ou em um recipiente plástico hermético."
-                    },
-                    {
-                        "name": "Guarde em armário fresco e escuro a 15–20 °C — Armazenamento ideal (1 ano) ☀️",
-                        "text": "A aveia permanece estável quando guardada em locais secos e escuros, longe da luz solar direta. 💡 Dica de conservação: Mantenha os potes em um armário escuro e bem ventilado para preservar o frescor por até 1 ano."
-                    },
-                    {
-                        "name": "Divida em porções e congele para armazenamento de longo prazo — Conservação congelada (1 a 2 anos) ❄️",
-                        "text": "Se você compra aveia a granel ou vive em regiões quentes e úmidas, o congelamento é a opção mais segura. 💡 Dica de conservação: Sele porções individuais em sacos Ziploc para freezer e mantenha a menos de -18 °C."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Minha aveia está com cheiro azedo ou râncio. É seguro consumir?",
-                        "answer": "Não. O cheiro azedo ou de tinta é sinal claro de oxidação lipídica (rancificação). Grãos râncios perdem nutrientes e contêm compostos oxidados prejudiciais, devendo ser descartados imediatamente."
-                    },
-                    {
-                        "question": "A durabilidade varia entre aveia laminada (rolled), flocos finos (quick) e cortada (steel-cut)?",
-                        "answer": "Sim. A aveia menos processada dura mais. A aveia cortada (steel-cut) possui menor área exposta ao ar, resistindo melhor à oxidação. A aveia em flocos e a aveia fina passam por prensagem, aumentando a superfície de contato e acelerando a rancificação, exigindo pote bem vedado."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Oat & Oatmeal agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk oat dan oatmeal berdasarkan pedoman keselamatan resmi.",
-                "authority": "USDA & MFDS",
-                "intro": "Pernahkah Anda menyimpan kotak karton oatmeal di lemari dapur selama beberapa bulan, lalu mendapatinya berbau apek, tengik, atau dihinggapi kutu beras? 🌾\n\nOat adalah biji-bijian bernutrisi tinggi yang kaya akan serat dan lemak tak jenuh sehat (mengandung sekitar 5–9% lemak). Namun, karena kandungan lemaknya lebih tinggi dibanding beras atau gandum, paparan oksigen, cahaya, dan panas menyebabkan oksidasi lemak (ketengikan) yang cepat. Oat juga menjadi makanan favorit bagi hama biji-bijian.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh USDA untuk menjaga oatmeal Anda tetap segar dan gurih hingga 1 tahun atau lebih. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan biarkan oat dalam kemasan karton atau plastik tipis aslinya 🐛",
-                        "desc": "Kotak karton dan plastik tipis mudah ditembus oleh larva kutu. Kemasan ini juga menyerap kelembapan udara, menciptakan lingkungan yang disukai jamur. Selalu pindahkan oat ke wadah kedap udara setelah dibuka."
-                    },
-                    {
-                        "title": "Hindari area panas dan lembap di dekat kompor atau oven ⚠️",
-                        "desc": "Suhu panas dan kelembapan tinggi mengaktifkan enzim lipase pada oat, mempercepat pemecahan lemak dan menimbulkan bau tengik. Simpan di lingkungan yang sejuk dan kering."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Pindahkan ke toples kaca kedap udara atau wadah bebas BPA — Perlindungan Total dari Udara, Kelembapan & Hama 📦",
-                        "text": "Kunci menyimpan oat adalah menutup rapat akses oksigen, kelembapan, dan hama. 💡 Tips Penyimpanan: Tuang oat yang sudah dibuka ke dalam toples kaca berpelindung karet atau wadah plastik kedap udara lalu kunci rapat."
-                    },
-                    {
-                        "name": "Simpan di lemari sejuk dan gelap pada suhu 15–20°C — Simpan Suhu Ruang Optimal (1 Tahun) ☀️",
-                        "text": "Oat tetap stabil jika disimpan di tempat yang kering dan gelap jauh dari sinar matahari langsung. 💡 Tips Penyimpanan: Simpan wadah di dalam lemari dapur yang gelap dan berangin untuk menjaga kesegaran hingga 1 tahun."
-                    },
-                    {
-                        "name": "Bagi menjadi beberapa porsi lalu bekukan untuk jangka panjang — Simpan Beku (1–2 Tahun) ❄️",
-                        "text": "Jika Anda membeli oat dalam jumlah banyak atau berada di musim panas yang lembap, membekukannya adalah metode paling aman. 💡 Tips Penyimpanan: Bungkus porsi sekali makan dalam kantong Ziploc freezer di bawah -18°C untuk menghentikan pertumbuhan hama dan oksidasi lemak."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Oatmeal saya berbau asam, tengik, atau seperti cat. Apakah masih aman dimakan?",
-                        "answer": "Tidak aman. Bau asam atau tengik menyengat adalah tanda jelas dari oksidasi lemak (ketengikan). Biji-bijian yang tengik kehilangan nilai gizinya dan mengandung senyawa teroksidasi yang berbahaya, sehingga harus segera dibuang."
-                    },
-                    {
-                        "question": "Apakah masa simpan steel-cut oats, rolled oats, dan quick oats berbeda?",
-                        "answer": "Berbeda. Oat yang minim pemrosesan bertahan lebih lama. Steel-cut oats memiliki luas permukaan yang lebih kecil yang terpapar udara sehingga lebih tahan oksidasi. Sementara rolled oats dan quick-cooking oats mengalami pemipihan yang memperluas permukaan kontak udara, mempercepat ketengikan dan membutuhkan wadah yang sangat rapat."
-                    }
-                ]
-            }
-        }
+  "how-to-store-oats": {
+    "ingId": "oats",
+    "pubDate": "2026-02-16",
+    "updatedDate": "2026-02-16",
+    "heroImage": "/images/blog/oats_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "귀리·오트밀 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 귀리 및 오트밀의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+        "intro": "건강을 위해 구매한 귀리나 오트밀을 종이 상자째 찬장에 오래 두었다가 시큼하고 찌린 냄새가 나거나 벌레가 생겨 버린 경험 다들 있으시죠? 🌾\n\n귀리는 불포화지방산(지방 함량 약 5~9%)과 식이섬유가 풍부한 우수한 곡물이지만, 쌀이나 밀에 비해 지방 함량이 높아 공기 중의 산소, 빛, 열에 노출되면 지방 산화(산패)가 빠르게 일어납니다. 또한 화랑곡나방이나 쌀바구미 같은 곡물 해충이 가장 좋아하는 식재료이기도 합니다.\n\n이번 가이드에서는 미국 농무부(USDA)와 식품 안전 당국의 안전 가이드라인을 바탕으로 귀리·오트밀의 신선도와 고소한 풍미를 최대 1년 이상 지키는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "개봉 후 종이 상자나 비닐 포장재째 방치하지 마세요 🐛",
+            "desc": "종이 상자나 얇은 비닐봉지는 화랑곡나방 유충 등 곡물 해충이 쉽게 뚫고 침입하며, 공기 중의 습기를 흡수하여 곰팡이가 번식하기 쉬운 환경을 만듭니다. 개봉 후에는 즉시 완벽한 밀폐 용기로 옮겨 담아야 합니다."
+          },
+          {
+            "title": "습하고 온도가 높은 가스레인지 주변에 두지 마세요 ⚠️",
+            "desc": "높은 습도와 열기는 귀리 속 지질 분해 효소를 활성화시켜 지방산 분해를 촉진하고 시큼하고 쩐내(산패)를 유발합니다. 반드시 서늘하고 건조한 환경을 유지해 주세요."
+          }
+        ],
+        "steps": [
+          {
+            "name": "BPA-free 밀폐 용기나 유리병에 담기 — 공기, 습기 및 해충 완전 차단 📦",
+            "text": "귀리 보관의 핵심은 산소와 습기, 해충을 완벽히 차단하는 것입니다. 💡 보관 팁: 개봉한 귀리와 오트밀은 고무 패킹이 있는 유리병이나 밀폐 플라스틱 용기에 담아 뚜껑을 꼭 닫아 보관하세요."
+          },
+          {
+            "name": "15~20℃ 서늘하고 어두운 상온 보관하기 — 적정 상온 보관 (1년) ☀️",
+            "text": "귀리가 가장 안정적으로 유지되는 조건은 온도가 낮고 직사광선이 닿지 않는 건조한 환경입니다. 💡 보관 팁: 습도가 낮고 통풍이 잘되는 어두운 찬장이나 서랍 속에 보관하면 최대 1년간 신선함을 유지할 수 있습니다."
+          },
+          {
+            "name": "장기 보관 시 소분하여 냉동 보관하기 — 장기 보관 (1~2년) ❄️",
+            "text": "대용량 귀리를 사 두었거나 한여름철 습도가 높을 때는 냉동 보관이 가장 안전합니다. 💡 보관 팁: 지퍼백이나 밀폐 용기에 1회분씩 소분하여 냉동실(-18℃ 이하)에 보관하세요. 해충 발생을 100% 방지하고 산패 속도를 거의 멈출 수 있습니다."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "귀리/오트밀에서 퀴퀴하거나 시큼한 냄새가 나는데 먹어도 되나요?",
+            "answer": "귀리 속 지방 성분이 산화(산패)되었을 때 발생하는 전형적인 신호입니다. 산패된 곡물은 영양소가 파괴되었을 뿐만 아니라 유해 물질을 생성하므로 아까워하지 말고 즉시 폐기해야 합니다."
+          },
+          {
+            "question": "스틸컷 오트, 롤드 오트, 퀵 오트의 보관 기간에 차이가 있나요?",
+            "answer": "가공 단계가 적을수록 보관 기간이 깁니다. 겉껍질만 벗긴 통귀리나 스틸컷 오트는 지방 산화가 적어 상대적으로 오랫동안 보관할 수 있지만, 눌러서 얇게 펼친 롤드 오트나 퀵 오트는 공기 접촉 면적이 넓어 산패 속도가 빠르므로 밀폐 보관에 더욱 신경 써야 합니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Store Oats & Oatmeal Fresh: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for oats and oatmeal based on official safety guidelines.",
+        "authority": "USDA & MFDS",
+        "intro": "Have you ever kept a cardboard box of oats in your pantry for a few months, only to find them smelling stale, rancid, or infested with grain bugs? 🌾\n\nOats are a highly nutritious grain rich in dietary fiber and healthy unsaturated fats (containing around 5–9% lipids). However, because of their higher fat content compared to rice or wheat, exposure to oxygen, light, and heat causes rapid lipid oxidation (rancidity). They are also a favorite target for common grain pests like pantry moths and weevils.\n\nIn this guide, introduces a scientifically proven 3-step storage guide recommended by the USDA and food safety authorities to keep your oats fresh, nutty, and safe for up to a year or more. 🛡️",
+        "whyTitle": "Why Store Oats This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Do not leave oats in their original cardboard or thin plastic bags 🐛",
+            "desc": "Cardboard boxes and thin plastic wrappers are easily bored through by pantry moth larvae. They also absorb ambient humidity, creating an ideal environment for mold growth. Always transfer oats to an airtight container after opening."
+          },
+          {
+            "title": "Avoid hot and humid areas near stovetops or ovens ⚠️",
+            "desc": "High heat and humidity activate lipase enzymes in oats, accelerating fat breakdown and creating a sour, stale odor. Keep them in a consistently cool, dry environment."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Transfer to airtight glass jars or BPA-free containers — Complete Air, Moisture & Pest Barrier 📦",
+            "text": "The key to preserving oats is completely blocking oxygen, moisture, and pests. 💡 Storage Tip: Pour opened oats or oatmeal into a glass jar with a rubber seal or an airtight plastic container and lock the lid tightly."
+          },
+          {
+            "name": "Store in a cool, dark pantry at 15–20°C — Optimal Room Temperature Storage (1 Year) ☀️",
+            "text": "Oats remain stable when stored in dry, dark places free from direct sunlight. 💡 Storage Tip: Keep containers in a low-humidity, well-ventilated dark cabinet or pantry to maintain freshness for up to 1 year."
+          },
+          {
+            "name": "Portion and freeze for long-term storage — Extended Frozen Storage (1–2 Years) ❄️",
+            "text": "If you buy bulk oats or live in hot, humid summer climates, freezing is the safest storage method. 💡 Storage Tip: Seal single-serving portions in Ziploc freezer bags or airtight containers and store below -18°C (-0.4°F). This completely halts pest growth and halts lipid oxidation."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "My oats have a sour, stale, or paint-like odor. Are they safe to eat?",
+            "answer": "No. A stale or paint-like sour smell is a clear sign of lipid oxidation (rancidity). Rancid grains lose their nutritional value and contain free radicals and oxidized compounds, so they should be discarded immediately."
+          },
+          {
+            "question": "Does shelf life vary between steel-cut, rolled, and quick oats?",
+            "answer": "Yes. Less processed oats last longer. Steel-cut oats and whole oat groats have less surface area exposed to oxygen, resisting oxidation better. Rolled and quick oats are steamed and flattened, creating a larger surface area that speeds up rancidity, requiring extra airtight care."
+          }
+        ]
+      },
+      "ja": {
+        "title": "オートミール（燕麦）を新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくオートミール・燕麦の最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "健康のために買ったオートミールを紙箱のまま戸棚に入れておいたら、古くさい油臭さがしたり虫が発生して捨ててしまった経験はありませんか？🌾\n\n燕麦（オートミール）は食物繊維と不飽和脂肪酸（脂質約5〜9%）が豊富な優れた穀物ですが、米や小麦に比べて脂質含有量が高いため、空気中の酸素や光、熱に晒されると脂質の酸化（酸敗）が急速に進みます。また、メイガやコクゾウムシなどの穀物害虫が好む食材でもあります。\n\n本記事では、米国農務省（USDA）などの安全ガイドラインに基づき、オートミールの香ばしい風味と品質を1年以上守る3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "開封後に紙箱や薄い袋のまま放置しないでください 🐛",
+            "desc": "紙箱や薄いビニール袋はメイガの幼虫などの害虫が容易に食い破って侵入します。また、空気中の湿気を吸ってカビが発生しやすくなるため、開封後はすぐに完全密閉できる容器に移し替えてください。"
+          },
+          {
+            "title": "湿気が高く高温になるコンロの周辺に置かないでください ⚠️",
+            "desc": "高温多湿は燕麦に含まれるリパーゼ（分解酵素）を活性化させ、脂質の分解を促進して古くさい酸敗臭の原因になります。必ず涼しく乾燥した環境を維持してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "BPAフリーの密閉容器やガラス瓶に移す — 空気・湿気・害虫の完全遮断 📦",
+            "text": "オートミール保存の基本は酸素、湿気、害虫を遮断することです。💡保存のコツ：開封したオートミールはパッキン付きのガラス瓶や密閉容器に入れ、フタをしっかり閉めて保存してください。"
+          },
+          {
+            "name": "15〜20℃の涼しく暗い常温で保存する — 最適な常温保存 (1年間) ☀️",
+            "text": "燕麦が最も安定する条件は、室温が低く直射日光が当たらない乾燥した場所です。💡保存のコツ：湿度が低く風通しの良い暗い戸棚や引き出しの中に保管すれば、最大1年間新鮮さを保てます。"
+          },
+          {
+            "name": "長期保存時は小分けにして冷凍保存する — 長期冷凍保存 (1〜2年間) ❄️",
+            "text": "大容量を購入した場合や湿度が高い夏場は冷凍保存が最も安全です。💡保存のコツ：1回分ずつジッパーバッグや密閉容器に小分けし、冷凍室（-18℃以下）で保存します。害虫の発生を100%防ぎ、酸化をほぼ停止させることができます。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "オートミールから酸っぱいニオイや古い油臭さがしますが食べられますか？",
+            "answer": "燕麦に含まれる脂質が酸化（酸敗）した際の典型的なサインです。酸敗した穀物は栄養が破壊されているだけでなく、体に有害な物質を生成するため、召し上がらずに直ちに廃棄してください。"
+          },
+          {
+            "question": "スチールカット、ロールドオーツ、クイックオーツで保存期間に違いはありますか？",
+            "answer": "加工度の低いものほど長持ちします。外皮を取り除いただけのスチールカットオーツは酸化しにくく長期間保存可能ですが、加熱して潰したロールドオーツやクイックオーツは空気との接触面積が広く酸化しやすいため、より厳重な密閉保存が必要です。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持燕麦/燕麦片新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解燕麦及燕麦片的最佳储存温度、方式和保鲜时长。",
+        "authority": "美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "您是否曾将买回家的燕麦片连同纸盒直接放在橱柜里，几个月后发现散发出酸腐油哈味甚至长了米虫？🌾\n\n燕麦是一种富含膳食纤维与优质不饱和脂肪酸（脂质含量约5~9%）的高营养谷物。然而，与大米或小麦相比，其较高的脂肪含量使其在接触空气中的氧气、光线和热量时极易发生油脂氧化酸败（Rancidity）。此外，它也是印度谷螟、象埠等粮害虫最喜爱的食物。\n\n本指南基于美国农务部(USDA)与食品安全指南，为您带来3步科学保存秘诀，帮您长久锁定燕麦的浓郁麦香与营养长达1年以上。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "拆封后切勿直接保留纸盒或薄塑料袋存放 🐛",
+            "desc": "纸盒和薄塑料袋极易被蛾类幼虫咬破侵入，且会吸收空气中的湿气导致霉菌滋生。拆封后请务必立即转移至完全密封的保鲜容器中。"
+          },
+          {
+            "title": "切勿存放在潮湿且高温的灶台周边 ⚠️",
+            "desc": "高温和高湿会激活燕麦中的脂肪脂肪酶，加速脂肪酸分解并产生难闻的油哈酸败味。请务必保持阴凉干燥的环境。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "转移至不含BPA的密封盒或玻璃瓶中 — 彻底阻绝空气、湿气与害虫 📦",
+            "text": "保存燕麦的核心在于彻底隔绝氧气、湿气与害虫。💡储存小贴士：将拆封后的燕麦片倒入带有橡胶密封圈的玻璃瓶或密封保鲜盒中，紧扣盒盖。"
+          },
+          {
+            "name": "存放在15~20℃阴凉避光的常温处 — 适温常温保存 (1年) ☀️",
+            "text": "燕麦保持稳定的最佳条件是低温、干燥且无阳光直射的环境。💡储存小贴士：存放在湿度低、通风良好的阴暗橱柜或抽屉中，可保鲜长达1年。"
+          },
+          {
+            "name": "长期保存请分装后冷冻 — 长期冷冻保存 (1~2年) ❄️",
+            "text": "购买大包装燕麦或在炎热潮湿的夏季，冷冻是安全的保存方式。💡储存小贴士：按单次用量装入冷冻拉链袋或密封盒中，放入冷冻室（-18℃以下）。这能100%杜绝害虫并近乎终止油脂氧化。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "燕麦散发出陈腐的油哈味或酸味，还能吃吗？",
+            "answer": "这是燕麦中的脂肪发生氧化酸败的明确信号。酸败的谷物不仅营养破坏，还会产生过氧化物等有害物质，请勿食用，应立即丢弃。"
+          },
+          {
+            "question": "钢切燕麦（Steel-cut）、压片燕麦（Rolled）和快熟燕麦（Quick）的保质期有区别吗？",
+            "answer": "加工度越低，保质期越长。仅去壳切碎的钢切燕麦抗氧化能力强，保存时间最长；而经过蒸煮压平的压片燕麦和快熟燕麦由于与空气接触面积大，氧化速度更快，需要更加严格地密封保存。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo mantener la avena fresca: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para la avena según las directrices oficiales de seguridad.",
+        "authority": "USDA & MFDS",
+        "intro": "¿Alguna vez guardó una caja de cartón de avena en la alacena por unos meses solo para descubrir que olía rancia o tenía gorgojos? 🌾\n\nLa avena es un grano rico en fibra y grasas insaturadas saludables (contiene entre 5 y 9% de lípidos). Sin embargo, debido a su mayor contenido de grasa en comparación con el arroz o el trigo, la exposición al oxígeno, la luz y el calor causa una rápida oxidación de los lípidos (rancidez). Además, es uno de los alimentos favoritos de las plagas del grano.\n\nEn esta guía se comparte una guía de conservación en 3 pasos respaldada por el USDA y autoridades de seguridad alimentaria para mantener su avena fresca y deliciosa por un año o más. 🛡️",
+        "whyTitle": "¿Por qué almacenarla así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "No deje la avena en su caja de cartón o bolsa de plástico original 🐛",
+            "desc": "Las cajas de cartón y las bolsas plásticas delgadas son perforadas fácilmente por larvas de gorgojos. También absorben la humedad ambiental, creando el entorno idóneo para el moho. Transfiera siempre la avena a un contenedor hermético."
+          },
+          {
+            "title": "Evite zonas calientes y húmedas cerca de estufas u hornos ⚠️",
+            "desc": "El calor y la humedad activan las enzimas lipasas de la avena, acelerando la descomposición de sus grasas y generando un olor agrio y rancio. Manténgala en un ambiente fresco y seco."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Pase la avena a frascos de vidrio herméticos o recipientes sin BPA — Proteja contra aire, humedad y plagas 📦",
+            "text": "La clave para conservar la avena es bloquear completamente el oxígeno, la humedad y los insectos. 💡 Consejo de almacenamiento: Vierta la avena abierta en un frasco de vidrio con sellado de goma o en un contenedor hermético de plástico."
+          },
+          {
+            "name": "Guarde en una alacena fresca y oscura a 15–20 °C — Almacenamiento óptimo a temperatura ambiente (1 año) ☀️",
+            "text": "La avena se mantiene estable en lugares secos y oscuros lejos de la luz solar directa. 💡 Consejo de almacenamiento: Guarde los contenedores en un armario oscuro y bien ventilado para mantener la frescura hasta por 1 año."
+          },
+          {
+            "name": "Porcione y congele para almacenamiento a largo plazo — Conservación congelada (1 a 2 años) ❄️",
+            "text": "Si compra avena a granel o vive en un clima cálido y húmedo, la congelación es la opción más segura. 💡 Consejo de almacenamiento: Selle porciones individuales en bolsas Ziploc para congelador y mantenga a menos de -18 °C."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mi avena tiene un olor agrio o rancio. ¿Es seguro comerla?",
+            "answer": "No. Un olor agrio o a pintura es un signo evidente de oxidación lipídica (rancidez). Los granos rancios pierden sus nutrientes y contienen compuestos valiosos oxidados, por lo que deben desecharse de inmediato."
+          },
+          {
+            "question": "¿Varía la vida útil entre la avena cortada (steel-cut), en copos (rolled) y de cocción rápida (quick)?",
+            "answer": "Sí. La avena menos procesada dura más. La avena cortada (steel-cut) tiene menos superficie expuesta al oxígeno, resistiendo mejor la oxidación. La avena en copos y la rápida sufren un mayor procesamiento, lo que aumenta la superficie de contacto y acelera la rancidez, requiriendo mayor cuidado hermético."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver l'avoine et le flocons d'avoine frais : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour l'avoine selon les directives officielles de sécurité.",
+        "authority": "USDA & MFDS",
+        "intro": "Avez-vous déjà conservé une boîte en carton de flocons d'avoine dans votre placard pendant quelques mois, pour découvrir ensuite qu'ils avaient une odeur rance ou étaient infestés d'insectes ? 🌾\n\nL'avoine est une céréale très nutritive, riche en fibres et en acides gras insaturés (contient environ 5 à 9 % de lipides). Cependant, en raison de sa teneur en matières grasses plus élevée que celle du riz ou du blé, l'exposition à l'oxygène, à la lumière et à la chaleur entraîne une rapide oxidation des lipides (rancissement). C'est aussi une cible privilégiée pour les insectes des céréales comme les mites alimentaires.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et des experts en sécurité alimentaire pour préserver la fraîcheur de votre avoine pendant 1 an ou plus. 🛡️",
+        "whyTitle": "Pourquoi la conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne laissez pas l'avoine dans son emballage en carton ou sachet d'origine 🐛",
+            "desc": "Les boîtes en carton et les sachets en plastique fins sont facilement perforés par les larves d'insectes. Ils absorbent également l'humidité ambiante, favorisant la moisissure. Transférez toujours l'avoine dans un récipient hermétique après ouverture."
+          },
+          {
+            "title": "Évitez les zones chaudes et humides près des plaques de cuisson ⚠️",
+            "desc": "La chaleur et l'humidité activent les enzymes lipases de l'avoine, accélérant la décomposition des graisses et créant une odeur rance. Conservez-la dans un endroit frais et sec."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Transférer dans des bocaux en verre hermétiques ou des boîtes sans BPA — Protection contre l'air, l'humidité et les insectes 📦",
+            "text": "La clé de la conservation de l'avoine est d'empêcher l'accès à l'oxygène, à l'humidité et aux parasites. 💡 Astuce de conservation : Versez l'avoine ouverte dans un bocal en verre avec joint en caoutchouc ou dans une boîte hermétique."
+          },
+          {
+            "name": "Garder dans un placard frais et sombre à 15–20 °C — Stockage optimal à température ambiante (1 an) ☀️",
+            "text": "L'avoine reste stable lorsqu'elle est conservée au sec et à l'abri de la lumière directe. 💡 Astuce de conservation : Conservez les récipients dans un placard sombre et bien ventilé pour maintenir la fraîcheur jusqu'à 1 an."
+          },
+          {
+            "name": "Portionner et congeler pour un stockage longue durée — Stockage congelé (1 à 2 ans) ❄️",
+            "text": "Si vous achetez de l'avoine en vrac ou en période d'été chaud et humide, la congélation est la méthode la plus sûre. 💡 Astuce de conservation : Scellez des portions individuelles dans des sachets congélation hermétiques à -18 °C."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Mon avoine a une odeur aigre ou rance. Est-elle propre à la consommation ?",
+            "answer": "Non. Une odeur aigre ou de peinture est le signe d'une oxydation des lipides (rancissement). Les céréales rances perdent leurs valeurs nutritives et contiennent des radicaux libres ; elles doivent être jetées immédiatement."
+          },
+          {
+            "question": "La durée de conservation varie-t-elle selon le type d'avoine (concassée, en flocons, rapide) ?",
+            "answer": "Oui. L'avoine la moins transformée se conserve plus longtemps. L'avoine concassée (steel-cut) présente moins de surface exposée à l'air et résiste mieux à l'oxydation. Les flocons d'avoine traditionnels ou rapides subissent un aplatissement qui augmente la surface de contact avec l'air, accélérant le rancissement et exigeant un emballage très hermétique."
+          }
+        ]
+      },
+      "de": {
+        "title": "Haferflocken richtig frisch halten: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Haferflocken basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "USDA & MFDS",
+        "intro": "Haben Sie eine Schachtel Haferflocken schon einmal einige Monate im Schrank aufbewahrt, nur um festzustellen, dass sie alt und ranzig rochen oder von Schädlingen befallen waren? 🌾\n\nHafer ist ein sehr nährstoffreiches Getreide, das reich an Ballaststoffen und gesunden ungesättigten Fettsäuren ist (enthält ca. 5–9 % Fett). Aufgrund des im Vergleich zu Reis oder Weizen höheren Fettgehalts führt der Kontakt mit Sauerstoff, Licht und Wärme jedoch zu einer raschen Fettoxidation (Ranzigwerden). Zudem sind Haferflocken ein beliebtes Ziel für Vorratsschädlinge wie Lebensmittelmotten.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, der von der USDA und Lebensmittelsicherheitsexperten empfohlen wird, um Ihre Haferflocken über ein Jahr lang frisch zu halten. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Haferflocken nicht in der Originalpappschachtel oder dünnen Beuteln lassen 🐛",
+            "desc": "Pappschachteln und dünne Plastikfolien werden von Mottenlarven leicht durchgefressen. Sie nehmen zudem Luftfeuchtigkeit auf, was Schimmelbildung begünstigt. Füllen Sie Haferflocken nach dem Öffnen immer in ein luftdichtes Gefäß um."
+          },
+          {
+            "title": "Warme und feuchte Bereiche nahe dem Herd meiden ⚠️",
+            "desc": "Hitze und Feuchtigkeit aktivieren Lipase-Enzyme im Hafer, was den Fettabbau beschleunigt und zu ranzigem Geruch führt. Bewahren Sie Haferflocken stets an einem kühlen, trockenen Ort auf."
+          }
+        ],
+        "steps": [
+          {
+            "name": "In luftdichte Glasbehälter oder BPA-freie Dosen umfüllen — Schutz vor Luft, Feuchtigkeit und Schädlingen 📦",
+            "text": "Der Schlüssel zur Lagerung von Haferflocken ist der vollständige Schutz vor Sauerstoff, Feuchtigkeit und Ungeziefer. 💡 Lagerungstipp: Füllen Sie geöffnete Haferflocken in ein Bügelglas mit Dichtung oder eine luftdichte Dose um."
+          },
+          {
+            "name": "Bei 15–20 °C kühl und dunkel lagern — Optimale Raumtemperaturlagerung (1 Jahr) ☀️",
+            "text": "Hafer bleibt stabil, wenn er an trockenen, dunklen Orten ohne direkte Sonneneinstrahlung gelagert wird. 💡 Lagerungstipp: Bewahren Sie die Behälter in einem trockenen, gut belüfteten Vorratsschrank auf, um die Frische bis zu 1 Jahr zu sichern."
+          },
+          {
+            "name": "Für die Langzeitlagerung portionieren und einfrieren — Gefrierlagerung (1–2 Jahre) ❄️",
+            "text": "Wenn Sie Haferflocken auf Vorrat kaufen oder in sehr feucht-warmen Sommern lagern, ist das Einfrieren die sicherste Methode. 💡 Lagerungstipp: Frieren Sie Tagesportionen im Ziploc-Gefrierbeutel bei unter -18 °C ein. Das stoppt Schädlingsbefall und Fettoxidation vollständig."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Meine Haferflocken riechen ranzig oder alt. Kann ich sie noch essen?",
+            "answer": "Nein. Ein ranziger oder stechender Geruch ist ein klares Zeichen für Fettoxidation. Ranziges Getreide verliert seine Nährstoffe und bildet schädliche Peroxide, weshalb es sofort entsorgt werden sollte."
+          },
+          {
+            "question": "Unterscheidet sich die Haltbarkeit von Haferkerne (Steel-Cut), kernigen und zarten Haferflocken?",
+            "answer": "Ja. Weniger verarbeiteter Hafer hält länger. Steel-Cut-Hafer bietet weniger Angriffsfläche für Sauerstoff und widersteht der Oxidation besser. Zarte und Schmelzflocken werden gewalzt, wodurch die Oberfläche vergrößert wird, was das Ranzigwerden beschleunigt und eine besonders luftdichte Verpackung erfordert."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar aveia fresca: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para a aveia com base em diretrizes oficiais de segurança.",
+        "authority": "USDA & MFDS",
+        "intro": "Você já guardou uma caixa de papelão de aveia no armário por alguns meses e descobriu depois que ela estava com cheiro râncio ou com carunchos? 🌾\n\nA aveia é um cereal altamente nutritivo, rico em fibras e gorduras insaturadas saudáveis (contém cerca de 5 a 9% de lipídios). No entanto, devido ao seu maior teor de gordura em comparação ao arroz ou trigo, a exposição ao oxigênio, luz e calor causa rápida oxidação dos lipídios (rancificação). Além disso, é um dos alimentos favoritos de pragas de grãos.\n\nNeste guia, apresentamos um guia de conservação em 3 etapas recomendado por especialistas do USDA para manter sua aveia fresca e saborosa por um ano ou mais. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Não deixe a aveia na caixa de papelão ou saco plástico original 🐛",
+            "desc": "Caixas de papelão e sacos plásticos finos são facilmente furados por larvas de carunchos. Eles também absorvem a umidade do ar, favorecendo o mofo. Transfira sempre a aveia para um recipiente hermético após aberta."
+          },
+          {
+            "title": "Evite áreas quentes e úmidas perto do fogão ou forno ⚠️",
+            "desc": "O calor e a umidade ativam as enzimas lipase da aveia, acelerando a quebra das gorduras e gerando um odor râncio. Mantenha-a em um ambiente fresco e seco."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Transfira para potes de vidro herméticos ou potes sem BPA — Proteção contra ar, umidade e pragas 📦",
+            "text": "O segredo para conservar a aveia é bloquear totalmente o oxigênio, a umidade e os insetos. 💡 Dica de conservação: Despeje a aveia aberta em um pote de vidro com vedação de borracha ou em um recipiente plástico hermético."
+          },
+          {
+            "name": "Guarde em armário fresco e escuro a 15–20 °C — Armazenamento ideal (1 ano) ☀️",
+            "text": "A aveia permanece estável quando guardada em locais secos e escuros, longe da luz solar direta. 💡 Dica de conservação: Mantenha os potes em um armário escuro e bem ventilado para preservar o frescor por até 1 ano."
+          },
+          {
+            "name": "Divida em porções e congele para armazenamento de longo prazo — Conservação congelada (1 a 2 anos) ❄️",
+            "text": "Se você compra aveia a granel ou vive em regiões quentes e úmidas, o congelamento é a opção mais segura. 💡 Dica de conservação: Sele porções individuais em sacos Ziploc para freezer e mantenha a menos de -18 °C."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Minha aveia está com cheiro azedo ou râncio. É seguro consumir?",
+            "answer": "Não. O cheiro azedo ou de tinta é sinal claro de oxidação lipídica (rancificação). Grãos râncios perdem nutrientes e contêm compostos oxidados prejudiciais, devendo ser descartados imediatamente."
+          },
+          {
+            "question": "A durabilidade varia entre aveia laminada (rolled), flocos finos (quick) e cortada (steel-cut)?",
+            "answer": "Sim. A aveia menos processada dura mais. A aveia cortada (steel-cut) possui menor área exposta ao ar, resistindo melhor à oxidação. A aveia em flocos e a aveia fina passam por prensagem, aumentando a superfície de contato e acelerando a rancificação, exigindo pote bem vedado."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Oat & Oatmeal agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk oat dan oatmeal berdasarkan pedoman keselamatan resmi.",
+        "authority": "USDA & MFDS",
+        "intro": "Pernahkah Anda menyimpan kotak karton oatmeal di lemari dapur selama beberapa bulan, lalu mendapatinya berbau apek, tengik, atau dihinggapi kutu beras? 🌾\n\nOat adalah biji-bijian bernutrisi tinggi yang kaya akan serat dan lemak tak jenuh sehat (mengandung sekitar 5–9% lemak). Namun, karena kandungan lemaknya lebih tinggi dibanding beras atau gandum, paparan oksigen, cahaya, dan panas menyebabkan oksidasi lemak (ketengikan) yang cepat. Oat juga menjadi makanan favorit bagi hama biji-bijian.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah yang direkomendasikan oleh USDA untuk menjaga oatmeal Anda tetap segar dan gurih hingga 1 tahun atau lebih. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan biarkan oat dalam kemasan karton atau plastik tipis aslinya 🐛",
+            "desc": "Kotak karton dan plastik tipis mudah ditembus oleh larva kutu. Kemasan ini juga menyerap kelembapan udara, menciptakan lingkungan yang disukai jamur. Selalu pindahkan oat ke wadah kedap udara setelah dibuka."
+          },
+          {
+            "title": "Hindari area panas dan lembap di dekat kompor atau oven ⚠️",
+            "desc": "Suhu panas dan kelembapan tinggi mengaktifkan enzim lipase pada oat, mempercepat pemecahan lemak dan menimbulkan bau tengik. Simpan di lingkungan yang sejuk dan kering."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Pindahkan ke toples kaca kedap udara atau wadah bebas BPA — Perlindungan Total dari Udara, Kelembapan & Hama 📦",
+            "text": "Kunci menyimpan oat adalah menutup rapat akses oksigen, kelembapan, dan hama. 💡 Tips Penyimpanan: Tuang oat yang sudah dibuka ke dalam toples kaca berpelindung karet atau wadah plastik kedap udara lalu kunci rapat."
+          },
+          {
+            "name": "Simpan di lemari sejuk dan gelap pada suhu 15–20°C — Simpan Suhu Ruang Optimal (1 Tahun) ☀️",
+            "text": "Oat tetap stabil jika disimpan di tempat yang kering dan gelap jauh dari sinar matahari langsung. 💡 Tips Penyimpanan: Simpan wadah di dalam lemari dapur yang gelap dan berangin untuk menjaga kesegaran hingga 1 tahun."
+          },
+          {
+            "name": "Bagi menjadi beberapa porsi lalu bekukan untuk jangka panjang — Simpan Beku (1–2 Tahun) ❄️",
+            "text": "Jika Anda membeli oat dalam jumlah banyak atau berada di musim panas yang lembap, membekukannya adalah metode paling aman. 💡 Tips Penyimpanan: Bungkus porsi sekali makan dalam kantong Ziploc freezer di bawah -18°C untuk menghentikan pertumbuhan hama dan oksidasi lemak."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Oatmeal saya berbau asam, tengik, atau seperti cat. Apakah masih aman dimakan?",
+            "answer": "Tidak aman. Bau asam atau tengik menyengat adalah tanda jelas dari oksidasi lemak (ketengikan). Biji-bijian yang tengik kehilangan nilai gizinya dan mengandung senyawa teroksidasi yang berbahaya, sehingga harus segera dibuang."
+          },
+          {
+            "question": "Apakah masa simpan steel-cut oats, rolled oats, dan quick oats berbeda?",
+            "answer": "Berbeda. Oat yang minim pemrosesan bertahan lebih lama. Steel-cut oats memiliki luas permukaan yang lebih kecil yang terpapar udara sehingga lebih tahan oksidasi. Sementara rolled oats dan quick-cooking oats mengalami pemipihan yang memperluas permukaan kontak udara, mempercepat ketengikan dan membutuhkan wadah yang sangat rapat."
+          }
+        ]
+      }
     }
+  }
 }

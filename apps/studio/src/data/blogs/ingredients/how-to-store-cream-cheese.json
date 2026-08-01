@@ -1,406 +1,406 @@
 {
-    "how-to-store-cream-cheese": {
-        "ingId": "cream-cheese",
-        "pubDate": "2026-04-30",
-        "updatedDate": "2026-04-30",
-        "heroImage": "/images/blog/cream_cheese_storage_hack.webp",
-        "locales": {
-            "ko": {
-                "title": "크림치즈 신선하게 보관하는 법: 과학적 보관 가이드",
-                "description": "공인된 안전 가이드라인에 따른 크림치즈의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
-                "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS)",
-                "intro": "베이글에 쓱 발라 먹거나 디저트를 만들 때 빠질 수 없는 크림치즈, 개봉 후 냉장고에 넣어두었다가 며칠 못 가 표면에 곰팡이가 피어 버려본 경험 있으시죠? 🧀\n\n크림치즈는 숙성되지 않은 생치즈로, 수분 함량(50% 이상)과 유지방이 높아 다른 치즈에 비해 세균과 곰팡이 번식에 매우 취약한 식재료입니다. 또한 온도 변화에 민감하며, 주변의 강한 음식 냄새를 쉽게 흡수하는 특성이 있습니다.\n\n이번 가이드에서는 미국 농무부(USDA)와 식품의약품안전처(MFDS)의 검증된 안전 가이드라인을 바탕으로, 크림치즈의 부드러운 풍미와 질감을 오래 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
-                "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
-                "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
-                "guideTitle": "과학적으로 검증된 보관 가이드",
-                "cautionTitle": "보관 시 필수 규칙 및 주의사항",
-                "cautions": [
-                    {
-                        "title": "발라 먹는 용도라면 냉동 보관하지 마세요 ⚠️",
-                        "desc": "크림치즈를 냉동하면 내부의 수분이 얼면서 결빙 결정이 생기고 지방과 수분이 분리됩니다. 해동 후 질감이 퍼석퍼석하고 알갱이가 생겨(몽글몽글해짐) 스프레드로 발라 먹기 어려워집니다."
-                    },
-                    {
-                        "title": "사용할 때 깨끗하고 마른 도구를 사용하세요 🧀",
-                        "desc": "침이나 물기, 다른 음식물이 묻은 칼이나 스푼을 사용하면 수분과 균이 들어가 표면에 곰팡이가 피는 주요 원인이 됩니다. 반드시 소독되고 바싹 마른 도구로 덜어내어 사용하세요."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "개봉 후 밀착 랩핑하기 — 공기 차단 & 곰팡이 방지 📦",
-                        "text": "크림치즈 표면이 공기와 산소에 노출되면 수분이 마르고 곰팡이가 빠르게 피어납니다. 💡 보관 팁: 사용 후 단면에 식품용 랩을 공기 방울이 생기지 않도록 빈틈없이 밀착시켜 감싸주세요."
-                    },
-                    {
-                        "name": "밀폐 용기 담아 1~4℃ 저온 냉장 보관하기 — 냉장 보관 (개봉 후 7~10일) ❄️",
-                        "text": "냉장고 문 쪽은 문을 열고 닫을 때마다 온도 변화가 커 부패가 빨라집니다. 💡 보관 팁: 랩으로 감싼 크림치즈를 밀폐 용기나 지퍼백에 담아 이중으로 밀봉한 뒤, 냉장고 안쪽 깊은 선반(1~4℃)에 보관하세요."
-                    },
-                    {
-                        "name": "베이킹/요리용으로 소분 냉동 보관하기 — 장기 보관 (2개월) 🧊",
-                        "text": "장기 보관이 필요하다면 가열 요리 용도로만 냉동하는 것을 권장합니다. 💡 보관 팁: 1회 요리 분량(예: 50~100g)씩 소분하여 랩으로 밀착 포장한 뒤 지퍼백에 넣어 냉동실(-18℃ 이하)에 보관하세요."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "크림치즈 표면에 곰팡이가 약간 폈는데 그 부분만 깎아내고 먹어도 되나요?",
-                        "answer": "절대 안 됩니다. 단단한 하드 치즈와 달리 크림치즈는 수분 함량이 높은 생치즈이므로 표면에 곰팡이가 조금만 보여도 눈에 보이지 않는 곰팡이 포자와 균사가 내부 깊숙이 침투해 있습니다. 곰팡이가 핀 크림치즈는 통째로 폐기해야 합니다."
-                    },
-                    {
-                        "question": "냉동했던 크림치즈의 퍼석한 질감을 복구하는 방법이 있나요?",
-                        "answer": "해동된 크림치즈에 우유나 생크림을 살짝(1~2작은술) 넣고 거품기나 블렌더로 강력하게 믹싱하거나, 전자레인지에 5~10초간 살짝 데운 뒤 휘핑하면 분리된 지방과 수분이 재유화되어 한결 부드러워집니다. 치즈케이크, 소스, 베이킹용으로 활용하기 좋습니다."
-                    }
-                ]
-            },
-            "en": {
-                "title": "How to Store Cream Cheese: Scientific Storage Guide",
-                "description": "Check the optimal storage temperature, method, and shelf life for cream cheese based on official safety guidelines.",
-                "authority": "USDA & MFDS",
-                "intro": "Have you ever spread cream cheese on a bagel, stored the rest in the fridge, only to find mold growing on the surface days later? 🧀\n\nCream cheese is an unaged fresh cheese with high moisture content (over 50%) and milk fat, making it far more vulnerable to bacterial and mold growth than aged hard cheeses. It is also sensitive to temperature fluctuations and easily absorbs surrounding food odors.\n\nIn this guide, introduces a scientifically proven 3-step storage guide based on safety guidelines from the USDA and MFDS to keep your cream cheese creamy, fresh, and delicious. 🛡️",
-                "whyTitle": "Why Store Cream Cheese This Way? Scientific Facts",
-                "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
-                "guideTitle": "Scientifically Proven Storage Guide",
-                "cautionTitle": "Essential Storage Rules and Cautions",
-                "cautions": [
-                    {
-                        "title": "Do not freeze if intended for spreading ⚠️",
-                        "desc": "Freezing cream cheese causes ice crystals to form inside, separating milk fat from water. Once thawed, the texture becomes grainy, crumbly, and impossible to spread smoothly as a condiment."
-                    },
-                    {
-                        "title": "Always use clean, dry utensils 🧀",
-                        "desc": "Using a knife or spoon contaminated with moisture, saliva, or food residue introduces microbes into the cheese, triggering rapid mold growth. Always scoop with a dry, sanitized utensil."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Wrap tightly with plastic wrap after opening — Block Air & Prevent Mold 📦",
-                        "text": "Exposing cream cheese to air dries out its surface and accelerates mold growth. 💡 Storage Tip: After opening, press food-grade plastic wrap directly onto the cut surface without leaving air bubbles."
-                    },
-                    {
-                        "name": "Double-seal and refrigerate at 1–4°C — Cold Storage (7–10 Days After Opening) ❄️",
-                        "text": "Door shelves experience frequent temperature shifts that accelerate spoilage. 💡 Storage Tip: Place the wrapped cream cheese inside an airtight container or Ziploc bag on an inner shelf (1–4°C)."
-                    },
-                    {
-                        "name": "Portion and freeze for baking/cooking only — Long-Term Storage (2 Months) 🧊",
-                        "text": "If long-term storage is necessary, freezing is recommended solely for cooked dishes. 💡 Storage Tip: Portion into single-use amounts (e.g., 50–100g), wrap tightly in plastic, and store in a freezer Ziploc bag below -18°C."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Can I just cut off the moldy part of cream cheese and eat the rest?",
-                        "answer": "No! Unlike hard cheeses, cream cheese is a high-moisture soft cheese. Even a tiny speck of surface mold indicates invisible fungal hyphae and spores have penetrated deep inside. Discard the entire container."
-                    },
-                    {
-                        "question": "How can I fix the grainy texture of thawed cream cheese?",
-                        "answer": "Warm the thawed cream cheese slightly in the microwave (5–10 seconds), add 1–2 teaspoons of warm milk or heavy cream, and whisk vigorously with a mixer or blender to re-emulsify the fat and water for baking or sauces."
-                    }
-                ]
-            },
-            "ja": {
-                "title": "クリームチーズを新鮮に保つ保存方法：科学的保管ガイド",
-                "description": "公的安全基準に基づくクリームチーズの最適な保存温度、保管方法、保存期間をご確認ください。",
-                "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS)",
-                "intro": "ベーグルに塗ったりスイーツ作りに欠かせないクリームチーズ、開封後に冷蔵庫へ入れておいたら数日で表面にカビが生えて捨ててしまった経験はありませんか？🧀\n\nクリームチーズは熟成させないフレッシュチーズで、水分量（50%以上）と乳脂肪分が高く、ハード系チーズに比べてカビや雑菌が繁殖しやすい非常に繊細な食材です。また温度変化にも弱く、周囲の臭いを吸収しやすい特徴があります。\n\n本記事では、米国農務省（USDA）および食品医薬品安全処（MFDS）のガイドラインに基づき、クリームチーズのなめらかな風味と質感を長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
-                "whyTitle": "なぜこのように保存するのか？科学的ファクト",
-                "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
-                "guideTitle": "科学的に検証された保存ガイド",
-                "cautionTitle": "保存時の必須ルールと注意事項",
-                "cautions": [
-                    {
-                        "title": "塗って食べる用途なら冷凍保存は避けてください ⚠️",
-                        "desc": "クリームチーズを冷凍すると内部の水分が凍って脂肪と水分が分離します。解凍後はパサパサとしたボソボソの食感になり、スプレッドとして塗りにくくなります。"
-                    },
-                    {
-                        "title": "取り出す時は清潔で乾いた器具を使用してください 🧀",
-                        "desc": "水分や他の食材がついたナイフやスプーンを使用すると、カビや雑菌が侵入する原因になります。必ず消毒され乾燥した器具で取り出してください。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "開封後はラップを空気が入らないよう密着させる — 空気遮断＆カビ防止 📦",
-                        "text": "断面が空気に触れると乾燥しカビが発生しやすくなります。💡保存のコツ：使用後は断面にラップを気泡が入らないようぴったり密着させて包みます。"
-                    },
-                    {
-                        "name": "密閉容器に入れて1〜4℃で冷蔵保存する — 冷蔵保存 (開封後7〜10日間) ❄️",
-                        "text": "ドアポケットは開閉による温度変化が大きいため傷みやすくなります。💡保存のコツ：ラップで包んだクリームチーズを密閉容器やジッパーバッグに入れ、冷蔵庫の奥の棚（1〜4℃）で保存します。"
-                    },
-                    {
-                        "name": "製菓・料理用に小分けして冷凍保存する — 長期保存 (2ヶ月間) 🧊",
-                        "text": "長期保存が必要な場合は加熱料理用としてのみ冷凍をおすすめします。💡保存のコツ：1回分（50〜100g程度）ずつ小分けしてラップで包み、ジッパーバッグに入れて冷凍室（-18℃以下）で保存します。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "表面に少しカビが生えた場合、その部分を取り除けば食べられますか？",
-                        "answer": "絶対にやめてください。硬いハードチーズとは異なり、クリームチーズは水分が多いフレッシュチーズのため、表面にカビが見える場合、すでに目に見えない菌糸が内部深くまで侵入しています。丸ごと廃棄してください。"
-                    },
-                    {
-                        "question": "冷凍して分離したクリームチーズの食感を復元する方法はありますか？",
-                        "answer": "解凍したクリームチーズに温かい牛乳や生クリームを小さじ1〜2杯加え、電子レンジで5〜10秒ほど軽く温めてから泡立て器やミキサーで強力に撹拌すると、分離した脂肪と水分が再乳化して滑らかになり、チーズケーキやソース用として活用できます。"
-                    }
-                ]
-            },
-            "zh": {
-                "title": "如何保持奶油奶酪新鲜：科学储存指南",
-                "description": "根据官方食品安全指南，了解奶油奶酪的最佳储存温度、方式和保质时长。",
-                "authority": "美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
-                "intro": "抹面包或做烘焙时不可或缺的奶油奶酪，开封后放在冰箱里，没过几天表面就长出霉斑，不得不扔掉？🧀\n\n奶油奶酪属于未经发酵熟化的新鲜奶酪，水分含量高（50%以上）且富含乳脂，相比硬质奶酪极易滋生细菌和霉菌。此外，它对温度变化十分敏感，且极易吸收周围食物的异味。\n\n本指南基于权威专家指南，为您带来3步科学保存秘诀，帮您长久保持奶油奶酪的细腻质感与醇香。🛡️",
-                "whyTitle": "为什么要这样储存？科学原理",
-                "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
-                "guideTitle": "科学验证的储存指南",
-                "cautionTitle": "储存必需规则及注意事项",
-                "cautions": [
-                    {
-                        "title": "若用于直接涂抹，切勿冷冻保存 ⚠️",
-                        "desc": "冷冻奶油奶酪会导致内部水分结冰，破坏油水乳化结构。解冻后质地会变得粗糙呈渣状（豆腐渣状），无法顺滑涂抹。"
-                    },
-                    {
-                        "title": "取用时请务必使用干净干燥的工具 🧀",
-                        "desc": "使用沾有水汽、唾液或食物残渣的刀匙取用，会将细菌带入奶酪中导致快速发霉。请务必使用消毒且彻底擦干的干净工具。"
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "开封后紧贴切面包裹保鲜膜 — 阻绝空气与防霉 📦",
-                        "text": "奶油奶酪切面暴露于空气中会导致水分流失并快速长霉。💡储存小贴士：使用后用食品级保鲜膜无缝紧贴切面包裹，排除空气。"
-                    },
-                    {
-                        "name": "装入密封盒置于1~4℃冷藏 — 冷藏储存 (开封后7~10天) ❄️",
-                        "text": "冰箱门架温度波动大易导致变质。💡储存小贴士：将裹好保鲜膜的奶油奶酪放入密封盒或拉链袋中进行双层密封，置于冰箱内侧深处隔板（1~4℃）。"
-                    },
-                    {
-                        "name": "烘焙/烹饪用分装冷冻 — 长期保存 (2个月) 🧊",
-                        "text": "如需长期保存，仅建议冷冻后用于加热烹饪。💡储存小贴士：按单次用量（如50~100克）分装包裹，放入冷冻拉链袋存入-18℃以下冷冻室。"
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "奶油奶酪表面长了一点霉斑，切掉发霉部分还能吃吗？",
-                        "answer": "绝对不可以。与硬质奶酪不同，奶油奶酪属于高水分新鲜奶酪，即使表面只有微小霉斑，肉眼不可见的霉菌菌丝与孢子早已深入内部。发霉后必须整盒丢弃。"
-                    },
-                    {
-                        "question": "冷冻解冻后呈渣状的奶油奶酪有办法恢复顺滑吗？",
-                        "answer": "在解冻的奶油奶酪中加入1~2小勺温牛奶或淡奶油，微波加热5~10秒，用打蛋器或料理机高速打发，可使分离的油脂与水分重新乳化，非常适合制作芝士蛋糕、酱汁或烘焙。"
-                    }
-                ]
-            },
-            "es": {
-                "title": "Cómo conservar el queso crema fresco: Guía científica de conservación",
-                "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el queso crema según las directrices oficiales de seguridad.",
-                "authority": "USDA & MFDS",
-                "intro": "¿Alguna vez untó queso crema en un bagel, guardó el resto en el refrigerador y descubrió moho en la superficie pocos días después? 🧀\n\nEl queso crema es un queso fresco no madurado con alto contenido de humedad (más del 50%) y materia grasa, lo que lo hace mucho más vulnerable a las bacterias y al moho que los quesos maduros. Además, es sensible a los cambios de temperatura y absorbe fácilmente los olores cercanos.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por el USDA y el MFDS para mantener su queso crema fresco, cremoso y delicioso. 🛡️",
-                "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
-                "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
-                "guideTitle": "Guía de almacenamiento científicamente probada",
-                "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
-                "cautions": [
-                    {
-                        "title": "No lo congele si planea usarlo como untable ⚠️",
-                        "desc": "Congelar el queso crema forma cristales de hielo en su interior que separan la grasa del agua. Una vez descongelado, la textura se vuelve granulosa, quebradiza e imposible de untar suavemente."
-                    },
-                    {
-                        "title": "Utilice siempre utensilios limpios y secos 🧀",
-                        "desc": "Usar un cuchillo o cuchara con restos de agua, saliva o comida introduce microbios en el queso, desencadenando la aparición rápida de moho. Use siempre utensilios limpios y totalmente secos."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Envuelva firmemente con film plástico tras abrir — Bloquear el aire y evitar moho 📦",
-                        "text": "Exponer el queso crema al aire seca su superficie y acelera el desarrollo de hongos. 💡 Consejo de almacenamiento: Presione film transparente directamente sobre la superficie cortada sin dejar burbujas de aire."
-                    },
-                    {
-                        "name": "Guarde en un recipiente hermético a 1–4 °C — Refrigeración (7 a 10 días tras abrir) ❄️",
-                        "text": "Los estantes de la puerta sufren constantes variaciones de temperatura. 💡 Consejo de almacenamiento: Coloque el queso crema envuelto dentro de un recipiente hermético en un estante interior profundo (1–4 °C)."
-                    },
-                    {
-                        "name": "Porcione y congele solo para cocinar/hornear — Almacenamiento a largo plazo (2 meses) 🧊",
-                        "text": "Si necesita almacenarlo por más tiempo, la congelación solo se recomienda para recetas horneadas. 💡 Consejo de almacenamiento: Porcione en cantidades de uso (ej. 50–100 g), envuelva bien y congele a menos de -18 °C."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "¿Puedo recortar la parte con moho del queso crema y comer el resto?",
-                        "answer": "¡No! A diferencia de los quesos duros, el queso crema es un queso blando de alta humedad. Incluso una pequeña mancha de moho indica que las hifas fúngicas invisibles han penetrado en profundidad. Deseche el envase completo."
-                    },
-                    {
-                        "question": "¿Cómo puedo arreglar la textura granulosa del queso crema descongelado?",
-                        "answer": "Caliente ligeramente el queso crema en el microondas (5–10 segundos), añada 1–2 cucharaditas de leche tibia o crema de leche y bata con fuerza con un batidor o licuadora para reemulsionar la grasa y el agua para repostería o salsas."
-                    }
-                ]
-            },
-            "fr": {
-                "title": "Comment conserver le fromage à la crème (Cream Cheese) : Guide scientifique de conservation",
-                "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le cream cheese selon les directives officielles de sécurité.",
-                "authority": "USDA & MFDS",
-                "intro": "Avez-vous déjà étalé du fromage à la crème sur un bagel, puis rangé le reste au réfrigérateur pour y découvrir de la moisissure quelques jours plus tard ? 🧀\n\nLe fromage à la crème (cream cheese) est un fromage frais non affiné à forte teneur en eau (plus de 50 %) et en matières grasses, ce qui le rend bien plus vulnérable aux bactéries et moisissures que les fromages à pâte dure. De plus, il craint les écarts de température et absorbe facilement les odeurs.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et du MFDS pour préserver l'onctuosité et la fraîcheur de votre fromage à la crème. 🛡️",
-                "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
-                "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
-                "guideTitle": "Guide de conservation scientifiquement prouvé",
-                "cautionTitle": "Règles essentielles et précautions de stockage",
-                "cautions": [
-                    {
-                        "title": "Ne le congelez pas s'il est destiné à être tartiné ⚠️",
-                        "desc": "La congélation forme des cristaux de glace qui séparent l'eau de la matière grasse. Une fois décongelé, la texture devient grumeleuse, friable et impossible à étaler de manière homogène."
-                    },
-                    {
-                        "title": "Utilisez toujours des ustensiles propres et secs 🧀",
-                        "desc": "Prendre du fromage avec un couteau ou une cuillère humide ou souillée introduit des germes, favorisant l'apparition rapide de moisissures. Servez-vous toujours d'un ustensile désinfecté et bien sec."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Envelopper hermétiquement de film étirable après ouverture — Bloquer l'air & Éviter les moisissures 📦",
-                        "text": "Exposer la surface du fromage à l'air assèche la pâte et hâte la moisissure. 💡 Astuce de conservation : Appliquez du film plastique directement au contact de la surface coupée sans laisser de bulles d'air."
-                    },
-                    {
-                        "name": "Conserver en boîte hermétique entre 1 et 4 °C — Stockage réfrigéré (7 à 10 jours après ouverture) ❄️",
-                        "text": "Les balconnets de la porte subissent des variations thermiques qui accélèrent le périssement. 💡 Astuce de conservation : Placez le fromage emballé dans une boîte hermétique sur une étagère intérieure (1–4 °C)."
-                    },
-                    {
-                        "name": "Portionner et congeler uniquement pour la cuisine/pâtisserie — Longue durée (2 mois) 🧊",
-                        "text": "Si une conservation prolongée est requise, la congélation est réservée aux recettes cuites. 💡 Astuce de conservation : Divisez en portions (ex. 50 à 100 g), enveloppez fermement et congelez à -18 °C."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Puis-je couper la partie moisie du fromage à la crème et consommer le reste ?",
-                        "answer": "Absolument pas. Contrairement aux fromages à pâte dure, le cream cheese est un fromage frais très humide. La moindre moisissure en surface indique que le mycélium et les spores invisibles ont envahi tout le pot. Jetez le produit intégralement."
-                    },
-                    {
-                        "question": "Comment rattraper la texture grumeleuse du fromage à la crème décongelé ?",
-                        "answer": "Réchauffez légèrement le fromage au micro-ondes (5 à 10 secondes), ajoutez 1 à 2 cuillères à café de lait chaud ou de crème liquide, puis fouettez vigoureusement au batteur ou au mixeur pour réémulsionner l'ensemble avant de l'intégrer dans vos gâteaux ou sauces."
-                    }
-                ]
-            },
-            "de": {
-                "title": "Frischkäse (Cream Cheese) richtig aufbewahren: Wissenschaftlicher Lagerungsratgeber",
-                "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Frischkäse basierend auf offiziellen Sicherheitsrichtlinien.",
-                "authority": "USDA & MFDS",
-                "intro": "Haben Sie schon einmal Frischkäse auf Ihr Bagel gestrichen und den Rest im Kühlschrank aufbewahrt, nur um nach wenigen Tagen Schimmel auf der Oberfläche zu entdecken? 🧀\n\nFrischkäse ist ein ungereifter Käse mit hohem Wassergehalt (über 50 %) und hohem Fettgehalt. Dadurch ist er wesentlich anfälliger für Bakterien- und Schimmelwachstum als Hartkäse. Zudem reagiert er empfindlich auf Temperaturschwankungen und nimmt Fremdgerüche leicht an.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Cremigkeit und den frischen Geschmack Ihres Frischkäses lange zu bewahren. 🛡️",
-                "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
-                "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
-                "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
-                "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
-                "cautions": [
-                    {
-                        "title": "Nicht einfrieren, wenn er als Aufstrich gedacht ist ⚠️",
-                        "desc": "Beim Einfrieren von Frischkäse bilden sich Eiskristalle, die Fett und Wasser voneinander trennen. Nach dem Auftauen wird die Textur krümelig, wässrig und lässt sich nicht mehr geschmeidig streichen."
-                    },
-                    {
-                        "title": "Stets sauberes und trockenes Besteck verwenden 🧀",
-                        "desc": "Das Entnehmen mit einem feuchten oder benutzten Messer bringt Keime in den Käse, was rasch zu Schimmelbildung führt. Verwenden Sie immer sauberes, trockenes Besteck."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Nach dem Öffnen fest in Frischhaltefolie wickeln — Luftabschluss & Schimmelschutz 📦",
-                        "text": "Sauerstoff trocknet die Oberfläche aus und beschleunigt den Schimmelbefall. 💡 Lagerungstipp: Drücken Sie Frischhaltefolie direkt ohne Luftblasen auf die Schnittfläche des Frischkäses."
-                    },
-                    {
-                        "name": "Luftdicht verpacken und bei 1–4 °C kühlen — Kühllagerung (7–10 Tage nach Öffnung) ❄️",
-                        "text": "In der Kühlschranktür schwanken die Temperaturen am stärksten. 💡 Lagerungstipp: Geben Sie den eingewickelten Frischkäse in eine Frischhaltedose oder einen Ziploc-Beutel auf ein inneres Kühlschrankregal (1–4 °C)."
-                    },
-                    {
-                        "name": "Portionieren und nur zum Backen/Kochen einfrieren — Langzeitlagerung (2 Monate) 🧊",
-                        "text": "Für die Langzeitlagerung empfiehlt sich das Einfrieren ausschließlich zur Weiterverarbeitung in warmen Speisen. 💡 Lagerungstipp: In Portionen (z. B. 50–100 g) teilen, luftdicht einpacken und bei unter -18 °C einfrieren."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Kann man die schimmelige Stelle beim Frischkäse abschneiden und den Rest essen?",
-                        "answer": "Nein! Anders als bei Hartkäse handelt es sich bei Frischkäse um ein sehr feuchtes Produkt. Selbst bei kleinen Schimmelstellen haben die unsichtbaren Pilzfäden bereits das gesamte Produkt durchzogen. Entsorgen Sie die Packung komplett."
-                    },
-                    {
-                        "question": "Wie lässt sich die krümelige Textur von aufgetautem Frischkäse retten?",
-                        "answer": "Erwärmen Sie den aufgetauten Frischkäse kurz in der Mikrowelle (5–10 Sekunden), geben Sie 1–2 Teelöffel warme Milch oder Sahne hinzu und schlagen Sie ihn mit einem Mixer kräftig durch. Dadurch verbinden sich Fett und Wasser wieder ideal für Käsekuchen oder Soßen."
-                    }
-                ]
-            },
-            "pt": {
-                "title": "Como conservar cream cheese fresco: Guia científico de armazenamento",
-                "description": "Descubra a temperatura, método e tempo de conservação ideais para o cream cheese com base em diretrizes oficiais de segurança.",
-                "authority": "USDA & MFDS",
-                "intro": "Você já passou cream cheese no pão, guardou o restante na geladeira e descobriu mofo na superfície alguns dias depois? 🧀\n\nO cream cheese é um queijo fresco não maturado com alto teor de umidade (acima de 50%) e gordura láctea, o que o torna muito mais vulnerável a bactérias e fungos do que os queijos curados. Além disso, é sensível a variações de temperatura e absorve odores facilmente.\n\nNeste guia, apresentamos um guia em 3 etapas baseado em diretrizes do USDA e MFDS para manter seu cream cheese cremoso, fresco e saboroso por mais tempo. 🛡️",
-                "whyTitle": "Por que armazenar assim? Fatos científicos",
-                "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
-                "guideTitle": "Guia de armazenamento comprovado cientificamente",
-                "cautionTitle": "Reglas essenciais e precauções no armazenamento",
-                "cautions": [
-                    {
-                        "title": "Não congele se for utilizar como patê/espalhável ⚠️",
-                        "desc": "Congelar o cream cheese faz com que a água congele e se separe da gordura. Ao descongelar, a textura fica empelotada, granulada e impossível de espalhar suavemente."
-                    },
-                    {
-                        "title": "Use sempre utensílios limpos e secos 🧀",
-                        "desc": "Usar uma faca ou colher com umidade ou restos de comida introduz micróbios no queijo, acelerando o surgimento de mofo. Retire a porção desejada sempre com utensílios secos e limpos."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Envolva firmemente com filme plástico após abrir — Bloquear o ar e evitar mofo 📦",
-                        "text": "Expor a superfície do cream cheese ao ar resseca o produto e acelera a proliferação de mofo. 💡 Dica de conservação: Pressione o filme plástico diretamente sobre a superfície cortada sem deixar bolhas."
-                    },
-                    {
-                        "name": "Guarde em pote hermético de 1 a 4 °C — Refrigeração (7 a 10 dias após aberto) ❄️",
-                        "text": "As prateleiras da porta sofrem constantes variações de temperatura. 💡 Dica de conservação: Coloque o cream cheese embalado dentro de um pote hermético em uma prateleira interna bem fria (1 a 4 °C)."
-                    },
-                    {
-                        "name": "Porcione e congele apenas para receitas/cozimento — Longo prazo (2 meses) 🧊",
-                        "text": "Se precisar guardar por longo prazo, o congelamento só é recomendado para pratos que serão aquecidos. 💡 Dica de conservação: Divida em porções (ex: 50–100g), embale bem e congele a -18 °C."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Posso cortar a parte com mofo do cream cheese e comer o restante?",
-                        "answer": "Jamais faça isso. Ao contrário dos queijos duros, o cream cheese é um queijo fresco com muita umidade. O menor sinal de mofo indica que os fungos já se espalharam por todo o produto. Descarte a embalagem inteira."
-                    },
-                    {
-                        "question": "Como posso recuperar a textura granulada do cream cheese descongelado?",
-                        "answer": "Aqueça levemente o cream cheese no micro-ondas (5 a 10 segundos), adicione 1 a 2 colheres de chá de leite morno ou creme de leite e bata vigorosamente com um batedor ou liquidificador para reemulsificar a gordura e a água antes de usar em bolos ou molhos."
-                    }
-                ]
-            },
-            "id": {
-                "title": "Cara Menyimpan Krim Keju (Cream Cheese) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
-                "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk krim keju berdasarkan pedoman keselamatan resmi.",
-                "authority": "USDA & MFDS",
-                "intro": "Pernahkah Anda mengoleskan krim keju pada roti, menyimpan sisanya di kulkas, lalu mendapati jamur tumbuh di permukaannya beberapa hari kemudian? 🧀\n\nKrim keju adalah keju segar tanpa proses pemeraman yang memiliki kadar air tinggi (di atas 50%) dan lemak susu, membuatnya jauh lebih rentan terhadap bakteri dan jamur dibandingkan keju keras. Selain itu, krim keju sensitif terhadap perubahan suhu dan mudah menyerap bau makanan di sekitarnya.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman USDA dan MFDS untuk menjaga kelembutan dan kesegaran krim keju Anda. 🛡️",
-                "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
-                "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
-                "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
-                "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
-                "cautions": [
-                    {
-                        "title": "Jangan dibekukan jika ingin digunakan sebagai olesan ⚠️",
-                        "desc": "Membekukan krim keju membuat kandungan air di dalamnya membeku dan terpisah dari lemak susu. Setelah dicairkan, teksturnya akan menjadi bergumpal, kasar, dan tidak bisa dioleskan dengan lembut."
-                    },
-                    {
-                        "title": "Gunakan selalu peralatan yang bersih dan kering 🧀",
-                        "desc": "Menggunakan pisau atau sendok yang terkena air, air liur, atau sisa makanan akan memasukkan mikroba ke dalam keju, memicu pertumbuhan jamur dengan cepat. Selalu ambil krim keju dengan alat yang kering dan bersih."
-                    }
-                ],
-                "steps": [
-                    {
-                        "name": "Bungkus rapat dengan plastik wrap setelah dibuka — Tahan Udara & Cegah Jamur 📦",
-                        "text": "Membiarkan krim keju terpapar udara akan mengeringkan permukaannya dan mempercepat tumbuhnya jamur. 💡 Tips Penyimpanan: Tempelkan plastik wrap secara langsung pada permukaan keju tanpa ada rongga udara."
-                    },
-                    {
-                        "name": "Simpan dalam wadah kedap udara pada suhu 1–4°C — Penyimpanan Dingin (7–10 Hari Setelah Dibuka) ❄️",
-                        "text": "Rak pintu kulkas mengalami perubahan suhu yang sering sehingga mempercepat pembusukan. 💡 Tips Penyimpanan: Masukkan krim keju yang terbungkus ke dalam wadah kedap udara di rak bagian dalam (1–4°C)."
-                    },
-                    {
-                        "name": "Bagi porsi dan bekukan khusus untuk adonan/masakan — Simpan Jangka Panjang (2 Bulan) 🧊",
-                        "text": "Jika perlu disimpan lama, pembekuan hanya disarankan untuk bahan masakan yang dipanaskan. 💡 Tips Penyimpanan: Bagi menjadi porsi sekali pakai (misal 50–100g), bungkus rapat, lalu simpan di freezer di bawah -18°C."
-                    }
-                ],
-                "faqs": [
-                    {
-                        "question": "Bolehkah saya membuang bagian yang berjamur saja lalu memakan sisa krim kejunya?",
-                        "answer": "Sangat tidak boleh! Berbeda dengan keju keras, krim keju adalah keju basah berkelembapan tinggi. Adanya sedikit jamur di permukaan menandakan spora jamur yang tidak terlihat telah menyebar ke bagian dalam. Buang seluruh krim keju tersebut."
-                    },
-                    {
-                        "question": "Bagaimana cara memperbaiki tekstur krim keju beku yang pecah/bergumpal?",
-                        "answer": "Hangatkan sebentar krim keju di dalam microwave (5–10 detik), tambahkan 1–2 sendok teh susu hangat atau krim kental, lalu kocok kuat-kuat dengan mixer atau blender untuk menyatukan kembali lemak dan air sebelum diolah menjadi kue atau saus."
-                    }
-                ]
-            }
-        }
+  "how-to-store-cream-cheese": {
+    "ingId": "cream-cheese",
+    "pubDate": "2026-04-30",
+    "updatedDate": "2026-04-30",
+    "heroImage": "/images/blog/cream_cheese_storage_hack.webp",
+    "locales": {
+      "ko": {
+        "title": "크림치즈 신선하게 보관하는 법: 과학적 보관 가이드",
+        "description": "공인된 안전 가이드라인에 따른 크림치즈의 최적 보관 온도, 방식 및 보관 기한을 확인하세요.",
+        "authority": "미국 농무부(USDA) & 식품의약품안전처(MFDS)",
+        "intro": "베이글에 쓱 발라 먹거나 디저트를 만들 때 빠질 수 없는 크림치즈, 개봉 후 냉장고에 넣어두었다가 며칠 못 가 표면에 곰팡이가 피어 버려본 경험 있으시죠? 🧀\n\n크림치즈는 숙성되지 않은 생치즈로, 수분 함량(50% 이상)과 유지방이 높아 다른 치즈에 비해 세균과 곰팡이 번식에 매우 취약한 식재료입니다. 또한 온도 변화에 민감하며, 주변의 강한 음식 냄새를 쉽게 흡수하는 특성이 있습니다.\n\n이번 가이드에서는 미국 농무부(USDA)와 식품의약품안전처(MFDS)의 검증된 안전 가이드라인을 바탕으로, 크림치즈의 부드러운 풍미와 질감을 오래 유지하는 3단계 과학적 보관 비법을 소개해 드립니다. 🛡️",
+        "whyTitle": "왜 이렇게 보관해야 할까요? 과학적 팩트",
+        "whyDesc": "각 식재료의 고유한 생리적 특성을 이해하고 이에 맞는 올바른 보관법을 적용하는 것은 신선도 유지와 위생 관리에 있어 매우 중요합니다.",
+        "guideTitle": "과학적으로 검증된 보관 가이드",
+        "cautionTitle": "보관 시 필수 규칙 및 주의사항",
+        "cautions": [
+          {
+            "title": "발라 먹는 용도라면 냉동 보관하지 마세요 ⚠️",
+            "desc": "크림치즈를 냉동하면 내부의 수분이 얼면서 결빙 결정이 생기고 지방과 수분이 분리됩니다. 해동 후 질감이 퍼석퍼석하고 알갱이가 생겨(몽글몽글해짐) 스프레드로 발라 먹기 어려워집니다."
+          },
+          {
+            "title": "사용할 때 깨끗하고 마른 도구를 사용하세요 🧀",
+            "desc": "침이나 물기, 다른 음식물이 묻은 칼이나 스푼을 사용하면 수분과 균이 들어가 표면에 곰팡이가 피는 주요 원인이 됩니다. 반드시 소독되고 바싹 마른 도구로 덜어내어 사용하세요."
+          }
+        ],
+        "steps": [
+          {
+            "name": "개봉 후 밀착 랩핑하기 — 공기 차단 & 곰팡이 방지 📦",
+            "text": "크림치즈 표면이 공기와 산소에 노출되면 수분이 마르고 곰팡이가 빠르게 피어납니다. 💡 보관 팁: 사용 후 단면에 식품용 랩을 공기 방울이 생기지 않도록 빈틈없이 밀착시켜 감싸주세요."
+          },
+          {
+            "name": "밀폐 용기 담아 1~4℃ 저온 냉장 보관하기 — 냉장 보관 (개봉 후 7~10일) ❄️",
+            "text": "냉장고 문 쪽은 문을 열고 닫을 때마다 온도 변화가 커 부패가 빨라집니다. 💡 보관 팁: 랩으로 감싼 크림치즈를 밀폐 용기나 지퍼백에 담아 이중으로 밀봉한 뒤, 냉장고 안쪽 깊은 선반(1~4℃)에 보관하세요."
+          },
+          {
+            "name": "베이킹/요리용으로 소분 냉동 보관하기 — 장기 보관 (2개월) 🧊",
+            "text": "장기 보관이 필요하다면 가열 요리 용도로만 냉동하는 것을 권장합니다. 💡 보관 팁: 1회 요리 분량(예: 50~100g)씩 소분하여 랩으로 밀착 포장한 뒤 지퍼백에 넣어 냉동실(-18℃ 이하)에 보관하세요."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "크림치즈 표면에 곰팡이가 약간 폈는데 그 부분만 깎아내고 먹어도 되나요?",
+            "answer": "절대 안 됩니다. 단단한 하드 치즈와 달리 크림치즈는 수분 함량이 높은 생치즈이므로 표면에 곰팡이가 조금만 보여도 눈에 보이지 않는 곰팡이 포자와 균사가 내부 깊숙이 침투해 있습니다. 곰팡이가 핀 크림치즈는 통째로 폐기해야 합니다."
+          },
+          {
+            "question": "냉동했던 크림치즈의 퍼석한 질감을 복구하는 방법이 있나요?",
+            "answer": "해동된 크림치즈에 우유나 생크림을 살짝(1~2작은술) 넣고 거품기나 블렌더로 강력하게 믹싱하거나, 전자레인지에 5~10초간 살짝 데운 뒤 휘핑하면 분리된 지방과 수분이 재유화되어 한결 부드러워집니다. 치즈케이크, 소스, 베이킹용으로 활용하기 좋습니다."
+          }
+        ]
+      },
+      "en": {
+        "title": "How to Store Cream Cheese: Scientific Storage Guide",
+        "description": "Check the optimal storage temperature, method, and shelf life for cream cheese based on official safety guidelines.",
+        "authority": "USDA & MFDS",
+        "intro": "Have you ever spread cream cheese on a bagel, stored the rest in the fridge, only to find mold growing on the surface days later? 🧀\n\nCream cheese is an unaged fresh cheese with high moisture content (over 50%) and milk fat, making it far more vulnerable to bacterial and mold growth than aged hard cheeses. It is also sensitive to temperature fluctuations and easily absorbs surrounding food odors.\n\nIn this guide, introduces a scientifically proven 3-step storage guide based on safety guidelines from the USDA and MFDS to keep your cream cheese creamy, fresh, and delicious. 🛡️",
+        "whyTitle": "Why Store Cream Cheese This Way? Scientific Facts",
+        "whyDesc": "Understanding the unique physiological characteristics of each food item and applying proper storage methods is crucial for maintaining freshness and food hygiene.",
+        "guideTitle": "Scientifically Proven Storage Guide",
+        "cautionTitle": "Essential Storage Rules and Cautions",
+        "cautions": [
+          {
+            "title": "Do not freeze if intended for spreading ⚠️",
+            "desc": "Freezing cream cheese causes ice crystals to form inside, separating milk fat from water. Once thawed, the texture becomes grainy, crumbly, and impossible to spread smoothly as a condiment."
+          },
+          {
+            "title": "Always use clean, dry utensils 🧀",
+            "desc": "Using a knife or spoon contaminated with moisture, saliva, or food residue introduces microbes into the cheese, triggering rapid mold growth. Always scoop with a dry, sanitized utensil."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Wrap tightly with plastic wrap after opening — Block Air & Prevent Mold 📦",
+            "text": "Exposing cream cheese to air dries out its surface and accelerates mold growth. 💡 Storage Tip: After opening, press food-grade plastic wrap directly onto the cut surface without leaving air bubbles."
+          },
+          {
+            "name": "Double-seal and refrigerate at 1–4°C — Cold Storage (7–10 Days After Opening) ❄️",
+            "text": "Door shelves experience frequent temperature shifts that accelerate spoilage. 💡 Storage Tip: Place the wrapped cream cheese inside an airtight container or Ziploc bag on an inner shelf (1–4°C)."
+          },
+          {
+            "name": "Portion and freeze for baking/cooking only — Long-Term Storage (2 Months) 🧊",
+            "text": "If long-term storage is necessary, freezing is recommended solely for cooked dishes. 💡 Storage Tip: Portion into single-use amounts (e.g., 50–100g), wrap tightly in plastic, and store in a freezer Ziploc bag below -18°C."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Can I just cut off the moldy part of cream cheese and eat the rest?",
+            "answer": "No! Unlike hard cheeses, cream cheese is a high-moisture soft cheese. Even a tiny speck of surface mold indicates invisible fungal hyphae and spores have penetrated deep inside. Discard the entire container."
+          },
+          {
+            "question": "How can I fix the grainy texture of thawed cream cheese?",
+            "answer": "Warm the thawed cream cheese slightly in the microwave (5–10 seconds), add 1–2 teaspoons of warm milk or heavy cream, and whisk vigorously with a mixer or blender to re-emulsify the fat and water for baking or sauces."
+          }
+        ]
+      },
+      "ja": {
+        "title": "クリームチーズを新鮮に保つ保存方法：科学的保管ガイド",
+        "description": "公的安全基準に基づくクリームチーズの最適な保存温度、保管方法、保存期間をご確認ください。",
+        "authority": "米国農務省(USDA) & 食品医薬品安全処(MFDS)",
+        "intro": "ベーグルに塗ったりスイーツ作りに欠かせないクリームチーズ、開封後に冷蔵庫へ入れておいたら数日で表面にカビが生えて捨ててしまった経験はありませんか？🧀\n\nクリームチーズは熟成させないフレッシュチーズで、水分量（50%以上）と乳脂肪分が高く、ハード系チーズに比べてカビや雑菌が繁殖しやすい非常に繊細な食材です。また温度変化にも弱く、周囲の臭いを吸収しやすい特徴があります。\n\n本記事では、米国農務省（USDA）および食品医薬品安全処（MFDS）のガイドラインに基づき、クリームチーズのなめらかな風味と質感を長持ちさせる3段階の科学的保存法をご紹介します。🛡️",
+        "whyTitle": "なぜこのように保存するのか？科学的ファクト",
+        "whyDesc": "食材ごとの固有の生理的特性を理解し、それに合った正しい保存方法を実践することは、鮮度維持と衛生管理において非常に重要です。",
+        "guideTitle": "科学的に検証された保存ガイド",
+        "cautionTitle": "保存時の必須ルールと注意事項",
+        "cautions": [
+          {
+            "title": "塗って食べる用途なら冷凍保存は避けてください ⚠️",
+            "desc": "クリームチーズを冷凍すると内部の水分が凍って脂肪と水分が分離します。解凍後はパサパサとしたボソボソの食感になり、スプレッドとして塗りにくくなります。"
+          },
+          {
+            "title": "取り出す時は清潔で乾いた器具を使用してください 🧀",
+            "desc": "水分や他の食材がついたナイフやスプーンを使用すると、カビや雑菌が侵入する原因になります。必ず消毒され乾燥した器具で取り出してください。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "開封後はラップを空気が入らないよう密着させる — 空気遮断＆カビ防止 📦",
+            "text": "断面が空気に触れると乾燥しカビが発生しやすくなります。💡保存のコツ：使用後は断面にラップを気泡が入らないようぴったり密着させて包みます。"
+          },
+          {
+            "name": "密閉容器に入れて1〜4℃で冷蔵保存する — 冷蔵保存 (開封後7〜10日間) ❄️",
+            "text": "ドアポケットは開閉による温度変化が大きいため傷みやすくなります。💡保存のコツ：ラップで包んだクリームチーズを密閉容器やジッパーバッグに入れ、冷蔵庫の奥の棚（1〜4℃）で保存します。"
+          },
+          {
+            "name": "製菓・料理用に小分けして冷凍保存する — 長期保存 (2ヶ月間) 🧊",
+            "text": "長期保存が必要な場合は加熱料理用としてのみ冷凍をおすすめします。💡保存のコツ：1回分（50〜100g程度）ずつ小分けしてラップで包み、ジッパーバッグに入れて冷凍室（-18℃以下）で保存します。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "表面に少しカビが生えた場合、その部分を取り除けば食べられますか？",
+            "answer": "絶対にやめてください。硬いハードチーズとは異なり、クリームチーズは水分が多いフレッシュチーズのため、表面にカビが見える場合、すでに目に見えない菌糸が内部深くまで侵入しています。丸ごと廃棄してください。"
+          },
+          {
+            "question": "冷凍して分離したクリームチーズの食感を復元する方法はありますか？",
+            "answer": "解凍したクリームチーズに温かい牛乳や生クリームを小さじ1〜2杯加え、電子レンジで5〜10秒ほど軽く温めてから泡立て器やミキサーで強力に撹拌すると、分離した脂肪と水分が再乳化して滑らかになり、チーズケーキやソース用として活用できます。"
+          }
+        ]
+      },
+      "zh": {
+        "title": "如何保持奶油奶酪新鲜：科学储存指南",
+        "description": "根据官方食品安全指南，了解奶油奶酪的最佳储存温度、方式和保质时长。",
+        "authority": "美国农务部(USDA) & 韩国食品医药品安全处(MFDS)",
+        "intro": "抹面包或做烘焙时不可或缺的奶油奶酪，开封后放在冰箱里，没过几天表面就长出霉斑，不得不扔掉？🧀\n\n奶油奶酪属于未经发酵熟化的新鲜奶酪，水分含量高（50%以上）且富含乳脂，相比硬质奶酪极易滋生细菌和霉菌。此外，它对温度变化十分敏感，且极易吸收周围食物的异味。\n\n本指南基于权威专家指南，为您带来3步科学保存秘诀，帮您长久保持奶油奶酪的细腻质感与醇香。🛡️",
+        "whyTitle": "为什么要这样储存？科学原理",
+        "whyDesc": "了解每种食材固有的生理特性并遵循正确的储存方法，对于保持新鲜度和食品卫生至关重要。",
+        "guideTitle": "科学验证的储存指南",
+        "cautionTitle": "储存必需规则及注意事项",
+        "cautions": [
+          {
+            "title": "若用于直接涂抹，切勿冷冻保存 ⚠️",
+            "desc": "冷冻奶油奶酪会导致内部水分结冰，破坏油水乳化结构。解冻后质地会变得粗糙呈渣状（豆腐渣状），无法顺滑涂抹。"
+          },
+          {
+            "title": "取用时请务必使用干净干燥的工具 🧀",
+            "desc": "使用沾有水汽、唾液或食物残渣的刀匙取用，会将细菌带入奶酪中导致快速发霉。请务必使用消毒且彻底擦干的干净工具。"
+          }
+        ],
+        "steps": [
+          {
+            "name": "开封后紧贴切面包裹保鲜膜 — 阻绝空气与防霉 📦",
+            "text": "奶油奶酪切面暴露于空气中会导致水分流失并快速长霉。💡储存小贴士：使用后用食品级保鲜膜无缝紧贴切面包裹，排除空气。"
+          },
+          {
+            "name": "装入密封盒置于1~4℃冷藏 — 冷藏储存 (开封后7~10天) ❄️",
+            "text": "冰箱门架温度波动大易导致变质。💡储存小贴士：将裹好保鲜膜的奶油奶酪放入密封盒或拉链袋中进行双层密封，置于冰箱内侧深处隔板（1~4℃）。"
+          },
+          {
+            "name": "烘焙/烹饪用分装冷冻 — 长期保存 (2个月) 🧊",
+            "text": "如需长期保存，仅建议冷冻后用于加热烹饪。💡储存小贴士：按单次用量（如50~100克）分装包裹，放入冷冻拉链袋存入-18℃以下冷冻室。"
+          }
+        ],
+        "faqs": [
+          {
+            "question": "奶油奶酪表面长了一点霉斑，切掉发霉部分还能吃吗？",
+            "answer": "绝对不可以。与硬质奶酪不同，奶油奶酪属于高水分新鲜奶酪，即使表面只有微小霉斑，肉眼不可见的霉菌菌丝与孢子早已深入内部。发霉后必须整盒丢弃。"
+          },
+          {
+            "question": "冷冻解冻后呈渣状的奶油奶酪有办法恢复顺滑吗？",
+            "answer": "在解冻的奶油奶酪中加入1~2小勺温牛奶或淡奶油，微波加热5~10秒，用打蛋器或料理机高速打发，可使分离的油脂与水分重新乳化，非常适合制作芝士蛋糕、酱汁或烘焙。"
+          }
+        ]
+      },
+      "es": {
+        "title": "Cómo conservar el queso crema fresco: Guía científica de conservación",
+        "description": "Descubra la temperatura, el método y la duración de conservación óptimos para el queso crema según las directrices oficiales de seguridad.",
+        "authority": "USDA & MFDS",
+        "intro": "¿Alguna vez untó queso crema en un bagel, guardó el resto en el refrigerador y descubrió moho en la superficie pocos días después? 🧀\n\nEl queso crema es un queso fresco no madurado con alto contenido de humedad (más del 50%) y materia grasa, lo que lo hace mucho más vulnerable a las bacterias y al moho que los quesos maduros. Además, es sensible a los cambios de temperatura y absorbe fácilmente los olores cercanos.\n\nEn esta guía se presenta una guía de conservación en 3 pasos respaldada por el USDA y el MFDS para mantener su queso crema fresco, cremoso y delicioso. 🛡️",
+        "whyTitle": "¿Por qué almacenarlo así? Datos científicos",
+        "whyDesc": "Comprender las características fisiológicas únicas de cada alimento y aplicar el método de conservación adecuado es fundamental para mantener la frescura e higiene.",
+        "guideTitle": "Guía de almacenamiento científicamente probada",
+        "cautionTitle": "Reglas esenciales y precauciones de almacenamiento",
+        "cautions": [
+          {
+            "title": "No lo congele si planea usarlo como untable ⚠️",
+            "desc": "Congelar el queso crema forma cristales de hielo en su interior que separan la grasa del agua. Una vez descongelado, la textura se vuelve granulosa, quebradiza e imposible de untar suavemente."
+          },
+          {
+            "title": "Utilice siempre utensilios limpios y secos 🧀",
+            "desc": "Usar un cuchillo o cuchara con restos de agua, saliva o comida introduce microbios en el queso, desencadenando la aparición rápida de moho. Use siempre utensilios limpios y totalmente secos."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Envuelva firmemente con film plástico tras abrir — Bloquear el aire y evitar moho 📦",
+            "text": "Exponer el queso crema al aire seca su superficie y acelera el desarrollo de hongos. 💡 Consejo de almacenamiento: Presione film transparente directamente sobre la superficie cortada sin dejar burbujas de aire."
+          },
+          {
+            "name": "Guarde en un recipiente hermético a 1–4 °C — Refrigeración (7 a 10 días tras abrir) ❄️",
+            "text": "Los estantes de la puerta sufren constantes variaciones de temperatura. 💡 Consejo de almacenamiento: Coloque el queso crema envuelto dentro de un recipiente hermético en un estante interior profundo (1–4 °C)."
+          },
+          {
+            "name": "Porcione y congele solo para cocinar/hornear — Almacenamiento a largo plazo (2 meses) 🧊",
+            "text": "Si necesita almacenarlo por más tiempo, la congelación solo se recomienda para recetas horneadas. 💡 Consejo de almacenamiento: Porcione en cantidades de uso (ej. 50–100 g), envuelva bien y congele a menos de -18 °C."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "¿Puedo recortar la parte con moho del queso crema y comer el resto?",
+            "answer": "¡No! A diferencia de los quesos duros, el queso crema es un queso blando de alta humedad. Incluso una pequeña mancha de moho indica que las hifas fúngicas invisibles han penetrado en profundidad. Deseche el envase completo."
+          },
+          {
+            "question": "¿Cómo puedo arreglar la textura granulosa del queso crema descongelado?",
+            "answer": "Caliente ligeramente el queso crema en el microondas (5–10 segundos), añada 1–2 cucharaditas de leche tibia o crema de leche y bata con fuerza con un batidor o licuadora para reemulsionar la grasa y el agua para repostería o salsas."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment conserver le fromage à la crème (Cream Cheese) : Guide scientifique de conservation",
+        "description": "Découvrez la température, la méthode et la durée de conservation optimales pour le cream cheese selon les directives officielles de sécurité.",
+        "authority": "USDA & MFDS",
+        "intro": "Avez-vous déjà étalé du fromage à la crème sur un bagel, puis rangé le reste au réfrigérateur pour y découvrir de la moisissure quelques jours plus tard ? 🧀\n\nLe fromage à la crème (cream cheese) est un fromage frais non affiné à forte teneur en eau (plus de 50 %) et en matières grasses, ce qui le rend bien plus vulnérable aux bactéries et moisissures que les fromages à pâte dure. De plus, il craint les écarts de température et absorbe facilement les odeurs.\n\nDans ce guide, vous présente un guide scientifique de conservation en 3 étapes basé sur les recommandations du USDA et du MFDS pour préserver l'onctuosité et la fraîcheur de votre fromage à la crème. 🛡️",
+        "whyTitle": "Pourquoi le conserver ainsi ? Faits scientifiques",
+        "whyDesc": "Comprendre les caractéristiques physiologiques propres à chaque aliment et appliquer la bonne méthode de conservation est essentiel pour préserver la fraîcheur et l'hygiène.",
+        "guideTitle": "Guide de conservation scientifiquement prouvé",
+        "cautionTitle": "Règles essentielles et précautions de stockage",
+        "cautions": [
+          {
+            "title": "Ne le congelez pas s'il est destiné à être tartiné ⚠️",
+            "desc": "La congélation forme des cristaux de glace qui séparent l'eau de la matière grasse. Une fois décongelé, la texture devient grumeleuse, friable et impossible à étaler de manière homogène."
+          },
+          {
+            "title": "Utilisez toujours des ustensiles propres et secs 🧀",
+            "desc": "Prendre du fromage avec un couteau ou une cuillère humide ou souillée introduit des germes, favorisant l'apparition rapide de moisissures. Servez-vous toujours d'un ustensile désinfecté et bien sec."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Envelopper hermétiquement de film étirable après ouverture — Bloquer l'air & Éviter les moisissures 📦",
+            "text": "Exposer la surface du fromage à l'air assèche la pâte et hâte la moisissure. 💡 Astuce de conservation : Appliquez du film plastique directement au contact de la surface coupée sans laisser de bulles d'air."
+          },
+          {
+            "name": "Conserver en boîte hermétique entre 1 et 4 °C — Stockage réfrigéré (7 à 10 jours après ouverture) ❄️",
+            "text": "Les balconnets de la porte subissent des variations thermiques qui accélèrent le périssement. 💡 Astuce de conservation : Placez le fromage emballé dans une boîte hermétique sur une étagère intérieure (1–4 °C)."
+          },
+          {
+            "name": "Portionner et congeler uniquement pour la cuisine/pâtisserie — Longue durée (2 mois) 🧊",
+            "text": "Si une conservation prolongée est requise, la congélation est réservée aux recettes cuites. 💡 Astuce de conservation : Divisez en portions (ex. 50 à 100 g), enveloppez fermement et congelez à -18 °C."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Puis-je couper la partie moisie du fromage à la crème et consommer le reste ?",
+            "answer": "Absolument pas. Contrairement aux fromages à pâte dure, le cream cheese est un fromage frais très humide. La moindre moisissure en surface indique que le mycélium et les spores invisibles ont envahi tout le pot. Jetez le produit intégralement."
+          },
+          {
+            "question": "Comment rattraper la texture grumeleuse du fromage à la crème décongelé ?",
+            "answer": "Réchauffez légèrement le fromage au micro-ondes (5 à 10 secondes), ajoutez 1 à 2 cuillères à café de lait chaud ou de crème liquide, puis fouettez vigoureusement au batteur ou au mixeur pour réémulsionner l'ensemble avant de l'intégrer dans vos gâteaux ou sauces."
+          }
+        ]
+      },
+      "de": {
+        "title": "Frischkäse (Cream Cheese) richtig aufbewahren: Wissenschaftlicher Lagerungsratgeber",
+        "description": "Erfahren Sie die optimale Lagertemperatur, Methode und Haltbarkeit für Frischkäse basierend auf offiziellen Sicherheitsrichtlinien.",
+        "authority": "USDA & MFDS",
+        "intro": "Haben Sie schon einmal Frischkäse auf Ihr Bagel gestrichen und den Rest im Kühlschrank aufbewahrt, nur um nach wenigen Tagen Schimmel auf der Oberfläche zu entdecken? 🧀\n\nFrischkäse ist ein ungereifter Käse mit hohem Wassergehalt (über 50 %) und hohem Fettgehalt. Dadurch ist er wesentlich anfälliger für Bakterien- und Schimmelwachstum als Hartkäse. Zudem reagiert er empfindlich auf Temperaturschwankungen und nimmt Fremdgerüche leicht an.\n\nIn diesem Ratgeber erfahren Sie einen wissenschaftlich geprüften 3-Schritte-Ratgeber vor, um die Cremigkeit und den frischen Geschmack Ihres Frischkäses lange zu bewahren. 🛡️",
+        "whyTitle": "Warum so lagern? Wissenschaftliche Fakten",
+        "whyDesc": "Das Verständnis der einzigartigen physiologischen Eigenschaften jedes Lebensmittels und die Anwendung der richtigen Lagerungsmethode sind entscheidend für Frische und Hygiene.",
+        "guideTitle": "Wissenschaftlich geprüfter Lagerungsratgeber",
+        "cautionTitle": "Wichtige Regeln und Warnhinweise zur Lagerung",
+        "cautions": [
+          {
+            "title": "Nicht einfrieren, wenn er als Aufstrich gedacht ist ⚠️",
+            "desc": "Beim Einfrieren von Frischkäse bilden sich Eiskristalle, die Fett und Wasser voneinander trennen. Nach dem Auftauen wird die Textur krümelig, wässrig und lässt sich nicht mehr geschmeidig streichen."
+          },
+          {
+            "title": "Stets sauberes und trockenes Besteck verwenden 🧀",
+            "desc": "Das Entnehmen mit einem feuchten oder benutzten Messer bringt Keime in den Käse, was rasch zu Schimmelbildung führt. Verwenden Sie immer sauberes, trockenes Besteck."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Nach dem Öffnen fest in Frischhaltefolie wickeln — Luftabschluss & Schimmelschutz 📦",
+            "text": "Sauerstoff trocknet die Oberfläche aus und beschleunigt den Schimmelbefall. 💡 Lagerungstipp: Drücken Sie Frischhaltefolie direkt ohne Luftblasen auf die Schnittfläche des Frischkäses."
+          },
+          {
+            "name": "Luftdicht verpacken und bei 1–4 °C kühlen — Kühllagerung (7–10 Tage nach Öffnung) ❄️",
+            "text": "In der Kühlschranktür schwanken die Temperaturen am stärksten. 💡 Lagerungstipp: Geben Sie den eingewickelten Frischkäse in eine Frischhaltedose oder einen Ziploc-Beutel auf ein inneres Kühlschrankregal (1–4 °C)."
+          },
+          {
+            "name": "Portionieren und nur zum Backen/Kochen einfrieren — Langzeitlagerung (2 Monate) 🧊",
+            "text": "Für die Langzeitlagerung empfiehlt sich das Einfrieren ausschließlich zur Weiterverarbeitung in warmen Speisen. 💡 Lagerungstipp: In Portionen (z. B. 50–100 g) teilen, luftdicht einpacken und bei unter -18 °C einfrieren."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Kann man die schimmelige Stelle beim Frischkäse abschneiden und den Rest essen?",
+            "answer": "Nein! Anders als bei Hartkäse handelt es sich bei Frischkäse um ein sehr feuchtes Produkt. Selbst bei kleinen Schimmelstellen haben die unsichtbaren Pilzfäden bereits das gesamte Produkt durchzogen. Entsorgen Sie die Packung komplett."
+          },
+          {
+            "question": "Wie lässt sich die krümelige Textur von aufgetautem Frischkäse retten?",
+            "answer": "Erwärmen Sie den aufgetauten Frischkäse kurz in der Mikrowelle (5–10 Sekunden), geben Sie 1–2 Teelöffel warme Milch oder Sahne hinzu und schlagen Sie ihn mit einem Mixer kräftig durch. Dadurch verbinden sich Fett und Wasser wieder ideal für Käsekuchen oder Soßen."
+          }
+        ]
+      },
+      "pt": {
+        "title": "Como conservar cream cheese fresco: Guia científico de armazenamento",
+        "description": "Descubra a temperatura, método e tempo de conservação ideais para o cream cheese com base em diretrizes oficiais de segurança.",
+        "authority": "USDA & MFDS",
+        "intro": "Você já passou cream cheese no pão, guardou o restante na geladeira e descobriu mofo na superfície alguns dias depois? 🧀\n\nO cream cheese é um queijo fresco não maturado com alto teor de umidade (acima de 50%) e gordura láctea, o que o torna muito mais vulnerável a bactérias e fungos do que os queijos curados. Além disso, é sensível a variações de temperatura e absorve odores facilmente.\n\nNeste guia, apresentamos um guia em 3 etapas baseado em diretrizes do USDA e MFDS para manter seu cream cheese cremoso, fresco e saboroso por mais tempo. 🛡️",
+        "whyTitle": "Por que armazenar assim? Fatos científicos",
+        "whyDesc": "Comprender as características fisiológicas únicas de cada alimento e aplicar o método de conservação correto é essencial para manter o frescor e a higiene.",
+        "guideTitle": "Guia de armazenamento comprovado cientificamente",
+        "cautionTitle": "Reglas essenciais e precauções no armazenamento",
+        "cautions": [
+          {
+            "title": "Não congele se for utilizar como patê/espalhável ⚠️",
+            "desc": "Congelar o cream cheese faz com que a água congele e se separe da gordura. Ao descongelar, a textura fica empelotada, granulada e impossível de espalhar suavemente."
+          },
+          {
+            "title": "Use sempre utensílios limpos e secos 🧀",
+            "desc": "Usar uma faca ou colher com umidade ou restos de comida introduz micróbios no queijo, acelerando o surgimento de mofo. Retire a porção desejada sempre com utensílios secos e limpos."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Envolva firmemente com filme plástico após abrir — Bloquear o ar e evitar mofo 📦",
+            "text": "Expor a superfície do cream cheese ao ar resseca o produto e acelera a proliferação de mofo. 💡 Dica de conservação: Pressione o filme plástico diretamente sobre a superfície cortada sem deixar bolhas."
+          },
+          {
+            "name": "Guarde em pote hermético de 1 a 4 °C — Refrigeração (7 a 10 dias após aberto) ❄️",
+            "text": "As prateleiras da porta sofrem constantes variações de temperatura. 💡 Dica de conservação: Coloque o cream cheese embalado dentro de um pote hermético em uma prateleira interna bem fria (1 a 4 °C)."
+          },
+          {
+            "name": "Porcione e congele apenas para receitas/cozimento — Longo prazo (2 meses) 🧊",
+            "text": "Se precisar guardar por longo prazo, o congelamento só é recomendado para pratos que serão aquecidos. 💡 Dica de conservação: Divida em porções (ex: 50–100g), embale bem e congele a -18 °C."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Posso cortar a parte com mofo do cream cheese e comer o restante?",
+            "answer": "Jamais faça isso. Ao contrário dos queijos duros, o cream cheese é um queijo fresco com muita umidade. O menor sinal de mofo indica que os fungos já se espalharam por todo o produto. Descarte a embalagem inteira."
+          },
+          {
+            "question": "Como posso recuperar a textura granulada do cream cheese descongelado?",
+            "answer": "Aqueça levemente o cream cheese no micro-ondas (5 a 10 segundos), adicione 1 a 2 colheres de chá de leite morno ou creme de leite e bata vigorosamente com um batedor ou liquidificador para reemulsificar a gordura e a água antes de usar em bolos ou molhos."
+          }
+        ]
+      },
+      "id": {
+        "title": "Cara Menyimpan Krim Keju (Cream Cheese) agar Tetap Segar: Panduan Penyimpanan Ilmiah",
+        "description": "Ketahui suhu, metode, dan masa simpan terbaik untuk krim keju berdasarkan pedoman keselamatan resmi.",
+        "authority": "USDA & MFDS",
+        "intro": "Pernahkah Anda mengoleskan krim keju pada roti, menyimpan sisanya di kulkas, lalu mendapati jamur tumbuh di permukaannya beberapa hari kemudian? 🧀\n\nKrim keju adalah keju segar tanpa proses pemeraman yang memiliki kadar air tinggi (di atas 50%) dan lemak susu, membuatnya jauh lebih rentan terhadap bakteri dan jamur dibandingkan keju keras. Selain itu, krim keju sensitif terhadap perubahan suhu dan mudah menyerap bau makanan di sekitarnya.\n\nDalam panduan ini, kami membagikan panduan penyimpanan 3 langkah berbasis ilmiah berdasarkan pedoman USDA dan MFDS untuk menjaga kelembutan dan kesegaran krim keju Anda. 🛡️",
+        "whyTitle": "Mengapa Disimpan Seperti Ini? Fakta Ilmiah",
+        "whyDesc": "Memahami karakteristik fisiologis unik dari setiap bahan makanan dan menerapkan metode penyimpanan yang tepat sangat penting untuk menjaga kesegaran dan kebersihan.",
+        "guideTitle": "Panduan Penyimpanan yang Terbukti Secara Ilmiah",
+        "cautionTitle": "Aturan Penting dan Peringatan Penyimpanan",
+        "cautions": [
+          {
+            "title": "Jangan dibekukan jika ingin digunakan sebagai olesan ⚠️",
+            "desc": "Membekukan krim keju membuat kandungan air di dalamnya membeku dan terpisah dari lemak susu. Setelah dicairkan, teksturnya akan menjadi bergumpal, kasar, dan tidak bisa dioleskan dengan lembut."
+          },
+          {
+            "title": "Gunakan selalu peralatan yang bersih dan kering 🧀",
+            "desc": "Menggunakan pisau atau sendok yang terkena air, air liur, atau sisa makanan akan memasukkan mikroba ke dalam keju, memicu pertumbuhan jamur dengan cepat. Selalu ambil krim keju dengan alat yang kering dan bersih."
+          }
+        ],
+        "steps": [
+          {
+            "name": "Bungkus rapat dengan plastik wrap setelah dibuka — Tahan Udara & Cegah Jamur 📦",
+            "text": "Membiarkan krim keju terpapar udara akan mengeringkan permukaannya dan mempercepat tumbuhnya jamur. 💡 Tips Penyimpanan: Tempelkan plastik wrap secara langsung pada permukaan keju tanpa ada rongga udara."
+          },
+          {
+            "name": "Simpan dalam wadah kedap udara pada suhu 1–4°C — Penyimpanan Dingin (7–10 Hari Setelah Dibuka) ❄️",
+            "text": "Rak pintu kulkas mengalami perubahan suhu yang sering sehingga mempercepat pembusukan. 💡 Tips Penyimpanan: Masukkan krim keju yang terbungkus ke dalam wadah kedap udara di rak bagian dalam (1–4°C)."
+          },
+          {
+            "name": "Bagi porsi dan bekukan khusus untuk adonan/masakan — Simpan Jangka Panjang (2 Bulan) 🧊",
+            "text": "Jika perlu disimpan lama, pembekuan hanya disarankan untuk bahan masakan yang dipanaskan. 💡 Tips Penyimpanan: Bagi menjadi porsi sekali pakai (misal 50–100g), bungkus rapat, lalu simpan di freezer di bawah -18°C."
+          }
+        ],
+        "faqs": [
+          {
+            "question": "Bolehkah saya membuang bagian yang berjamur saja lalu memakan sisa krim kejunya?",
+            "answer": "Sangat tidak boleh! Berbeda dengan keju keras, krim keju adalah keju basah berkelembapan tinggi. Adanya sedikit jamur di permukaan menandakan spora jamur yang tidak terlihat telah menyebar ke bagian dalam. Buang seluruh krim keju tersebut."
+          },
+          {
+            "question": "Bagaimana cara memperbaiki tekstur krim keju beku yang pecah/bergumpal?",
+            "answer": "Hangatkan sebentar krim keju di dalam microwave (5–10 detik), tambahkan 1–2 sendok teh susu hangat atau krim kental, lalu kocok kuat-kuat dengan mixer atau blender untuk menyatukan kembali lemak dan air sebelum diolah menjadi kue atau saus."
+          }
+        ]
+      }
     }
+  }
 }
