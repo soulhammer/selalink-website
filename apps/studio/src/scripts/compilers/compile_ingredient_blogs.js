@@ -3,7 +3,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 import { cleanMarkdown } from '../../utils/compilerHelper.js';
-import { renderIngredientStepCard, renderEvidenceBox, renderCautionBox, renderFaqSection, renderFreshSnapCtaBox } from '../../utils/blogTemplates.js';
+import { renderIngredientStepCard, renderEvidenceBox, renderCautionBox, renderFaqSection, renderBuildSelfCtaBox } from '../../utils/blogTemplates.js';
 import { compileMasterJsonCollection } from './compile_blog_base.js';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -127,7 +127,7 @@ function renderLocaleMarkdown({ blogSlug, lang, data, histMeta }) {
   const guideTitle = locData.guideTitle || enData.guideTitle || labels.ingredientGuideTitle[lang] || labels.ingredientGuideTitle['en'];
 
   const evidenceBoxHtml = auth ? renderEvidenceBox(lang, auth, 'ingredients') : '';
-  const appCtaHtml = renderFreshSnapCtaBox(lang);
+  const appCtaHtml = renderBuildSelfCtaBox(lang);
 
   let markdown = `---
 layout: "../../../layouts/BlogPostLayout.astro"
