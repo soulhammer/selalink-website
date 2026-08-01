@@ -89,11 +89,11 @@
     "detail.calc.dday": "新鮮に食べられる期間があと {dday} 残っています。",
     "detail.calc.dday_minus": "推奨保存期間を {dday} 過ぎています！消費に十分注意するか状態を確認してください。",
     "detail.calc.dday_today": "本日が推奨保存期限の満了日です！なるべくお早めにお召し上がりください。",
-    "detail.promo.fresh": "毎回検索して残り期限を数えるのは面倒ではありませんか？ FreshSelf アプリならタップするだけで簡単に食材を登録できます。期限の3日前に通知を送って調理のタイミングをサポートします！",
-    "detail.promo.processed": "賞味期限の数字を毎回確認して手入力するのは面倒ではありませんか？ FreshSelf アプリならバーコードをスキャンして自動で商品名を読み込み、期限の文字をカメラで撮るだけで登録が完了します！",
-    "detail.promo.title.fresh": "🥬 生鮮食品のワンタップ簡単管理",
-    "detail.promo.title.processed": "🥫 加工食品のスマートスキャン登録",
-    "detail.promo.sub": "冷蔵庫をもっとスマートに管理したいですか？",
+    "detail.promo.fresh": "賞味期限3日前のプッシュ通知で、大切な食材を最後まで美味しく食べきれます。",
+    "detail.promo.processed": "バーコード撮影とカメラでおいしい期限を自動追跡します。",
+    "detail.promo.title.fresh": "今日買った食材、無駄なくスマートに保存！",
+    "detail.promo.title.processed": "バーコードで1秒！賞味期限を簡単登録",
+    "detail.promo.sub": "🌱 冷蔵庫をもっとスマートに",
     "detail.back": "← 他の食材の保存方法を検索する",
     "detail.days": "日",
     "detail.days.plural": "日",
@@ -123,7 +123,8 @@
     "detail.calc.state.prepped": "カット・下処理後 🔪",
     "app.learn_more_freshself": "FreshSelfの詳細を見る",
     "detail.calc.keep_fridge": "マイ冷蔵庫に保管する 🧊",
-    "detail.calc.keep_fridge.success": "冷蔵庫に登録完了！ ✓"
+    "detail.calc.keep_fridge.success": "冷蔵庫に登録完了！ ✓",
+    "detail.promo.badge_subtext": "✨ 100%無料 · 登録不要 · 広告なし · オフライン保存"
   },
   "detailSource": {
     "source.MFDS": "韓国食品医薬品安全処",

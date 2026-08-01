@@ -89,11 +89,11 @@
     "detail.calc.dday": "距离最佳食用期还剩 {dday}。",
     "detail.calc.dday_minus": "已超过最佳保存期 {dday}！请特别注意食用安全或检查状态。",
     "detail.calc.dday_today": "今天是推荐保存期的最后一天！请尽快食用。",
-    "detail.promo.fresh": "每次都要搜索并计算剩余保质期是否太麻烦？在FreshSelf应用中只需点击一下即可轻松注册。在到期前3天发送智能推送通知，帮您及时下厨！",
-    "detail.promo.processed": "每次都要手动输入保质期日期是否太繁琐？在FreshSelf应用中扫一扫条形码即可自动匹配品名，再用相机拍下保质期文字即可瞬间自动录入！",
-    "detail.promo.title.fresh": "🥬 生鲜食品一键轻松管理",
-    "detail.promo.title.processed": "🥫 加工食品智能扫码录入",
-    "detail.promo.sub": "想要更轻松地管理您的冰箱？",
+    "detail.promo.fresh": "临期前 3 天智能推送提醒，帮你完整享用每份新鲜食材。",
+    "detail.promo.processed": "扫描条形码与拍照自动跟踪食品保质期。",
+    "detail.promo.title.fresh": "今天买的食材，零浪费智能保存！",
+    "detail.promo.title.processed": "扫条形码 1 秒记录保质期！",
+    "detail.promo.sub": "🌱 智能冰箱轻松管理",
     "detail.back": "← 搜索其他食材保存法",
     "detail.days": "天",
     "detail.days.plural": "天",
@@ -123,7 +123,8 @@
     "detail.calc.state.prepped": "处理后 🔪",
     "app.learn_more_freshself": "了解更多关于 FreshSelf",
     "detail.calc.keep_fridge": "放入我的冰箱 🧊",
-    "detail.calc.keep_fridge.success": "已成功放入冰箱！ ✓"
+    "detail.calc.keep_fridge.success": "已成功放入冰箱！ ✓",
+    "detail.promo.badge_subtext": "✨ 100% 免费 · 免注册 · 无广告 · 离线存储"
   },
   "detailSource": {
     "source.MFDS": "韩国食品医药品安全处",

@@ -89,11 +89,11 @@
     "detail.calc.dday": "There are {dday} left to consume fresh.",
     "detail.calc.dday_minus": "The fresh storage period has passed by {dday}! Take special care or check the condition.",
     "detail.calc.dday_today": "Today is the recommended storage expiration date! Consume as soon as possible.",
-    "detail.promo.fresh": "Tired of searching and tracking shelf life manually? Register fresh food with a single touch in the FreshSelf app. It sends smart push notifications 3 days before expiration to help you cook in time!",
-    "detail.promo.processed": "Tired of typing expiry dates manually? Simply scan the barcode to auto-lookup the product name, and snap a photo of the expiry date to register it instantly in the FreshSelf app!",
-    "detail.promo.title.fresh": "🥬 Fresh Food One-Touch Management",
-    "detail.promo.title.processed": "🥫 Processed Food Smart Scanning",
-    "detail.promo.sub": "Want to manage your refrigerator more easily?",
+    "detail.promo.fresh": "Get smart push alerts 3 days before expiration to enjoy your fresh food safely.",
+    "detail.promo.processed": "Auto-track expiration dates by scanning barcodes and capturing packaging with your camera.",
+    "detail.promo.title.fresh": "Keep Today's Groceries Fresh Without Waste!",
+    "detail.promo.title.processed": "Scan Barcodes & Log Expiration in 1 Second!",
+    "detail.promo.sub": "🌱 Smarter Fridge Care",
     "detail.back": "← Search other food storage guides",
     "detail.days": "day",
     "detail.days.plural": "days",
@@ -123,7 +123,8 @@
     "detail.calc.state.prepped": "Prepped 🔪",
     "app.learn_more_freshself": "Learn More about FreshSelf",
     "detail.calc.keep_fridge": "Keep in My Fridge 🧊",
-    "detail.calc.keep_fridge.success": "Saved to Fridge! ✓"
+    "detail.calc.keep_fridge.success": "Saved to Fridge! ✓",
+    "detail.promo.badge_subtext": "✨ 100% Free · No Sign-up · No Ads · Offline Storage"
   },
   "detailSource": {
     "source.MFDS": "MFDS (Korea)",

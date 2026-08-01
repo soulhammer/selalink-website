@@ -89,11 +89,11 @@
     "detail.calc.dday": "Quedan {dday} para consumir de forma fresca.",
     "detail.calc.dday_minus": "¡El período de conservación recomendado se ha superado en {dday}! Tenga cuidado o revise el estado.",
     "detail.calc.dday_today": "¡Hoy es el último día del período recomendado! Consumir lo antes posible.",
-    "detail.promo.fresh": "¿Cansado de buscar y contar los días que le quedan a sus alimentos? Registre alimentos frescos con un solo toque en la app FreshSelf. ¡Le envía notificaciones inteligentes 3 días antes de caducar!",
-    "detail.promo.processed": "¿Aburrido de escribir fechas de caducidad a mano? ¡Escanee el código de barras para buscar el producto y tome una foto de la fecha para registrarla al instante en la app FreshSelf!",
-    "detail.promo.title.fresh": "🥬 Gestión Fácil de Alimentos Frescos",
-    "detail.promo.title.processed": "🥫 Escaneo Inteligente de Alimentos Procesados",
-    "detail.promo.sub": "¿Quiere gestionar su nevera con más facilidad?",
+    "detail.promo.fresh": "Recibe alertas 3 días antes del vencimiento para aprovechar tu comida al máximo.",
+    "detail.promo.processed": "Rastrea vencimientos automáticamente escaneando códigos de barras con tu cámara.",
+    "detail.promo.title.fresh": "¡Conserva tus compras de hoy sin desperdicios!",
+    "detail.promo.title.processed": "¡Registra vencimientos en 1 segundo con código de barras!",
+    "detail.promo.sub": "🌱 Control de Nevera Inteligente",
     "detail.back": "← Buscar otras guías de conservación",
     "detail.days": "día",
     "detail.days.plural": "días",
@@ -123,7 +123,8 @@
     "detail.calc.state.prepped": "Preparado 🔪",
     "app.learn_more_freshself": "Saber más sobre FreshSelf",
     "detail.calc.keep_fridge": "Guardar en mi nevera 🧊",
-    "detail.calc.keep_fridge.success": "¡Guardado en la nevera! ✓"
+    "detail.calc.keep_fridge.success": "¡Guardado en la nevera! ✓",
+    "detail.promo.badge_subtext": "✨ 100% Gratis · Sin Registro · Sin Anuncios · Modo Offline"
   },
   "detailSource": {
     "source.MFDS": "MFDS (Corea del Sur)",

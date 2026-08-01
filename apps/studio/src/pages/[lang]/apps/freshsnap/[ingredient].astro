@@ -1,6 +1,6 @@
 ---
 import Layout from '../../../../layouts/Layout.astro';
-import { languages } from '../../../../i18n/ui';
+import { languages, useTranslations } from '../../../../i18n/ui';
 import { ingredients } from '../../../../data/apps/freshsnap';
 
 export function getStaticPaths() {
@@ -18,6 +18,7 @@ export function getStaticPaths() {
 
 const { lang, ingredient } = Astro.params;
 const currentLang = (lang as string) || 'en';
+const tUi = useTranslations(currentLang as any);
 const currentItem = ingredients.find((item) => item.id === ingredient);
 
 if (!currentItem) {
@@ -313,48 +314,46 @@ const tSource = (key: string) => {
           </div>
         </div>
 
-        <!-- App Installation Promotional CTA (Polished Minimal Card, No Phone Mockup) -->
-        <div class="bento-card p-5 relative overflow-hidden border-purple-500/20 dark:border-purple-500/25" style="--glow-color: rgba(139,92,246,0.15);">
+        <!-- App Installation Promotional CTA (FreshSnap Emerald Premium Banner) -->
+        <div class="bento-card p-6 relative overflow-hidden rounded-3xl border border-emerald-100 dark:border-emerald-500/20 bg-gradient-to-br from-emerald-50/80 via-emerald-50/30 to-transparent dark:from-emerald-950/20 dark:via-emerald-950/10 dark:to-slate-900/30 backdrop-blur-md transition-all duration-300 hover:shadow-lg">
           <!-- Subtle spatial gradient -->
-          <div class="absolute -right-16 -bottom-16 w-40 h-40 bg-purple-600/10 rounded-full blur-[60px] pointer-events-none"></div>
+          <div class="absolute -right-16 -bottom-16 w-40 h-40 bg-emerald-600/10 rounded-full blur-[60px] pointer-events-none"></div>
           
-          <div class="relative z-10">
-            <span class="text-[9px] font-black uppercase tracking-widest text-purple-600 dark:text-purple-400 bg-purple-100 dark:bg-purple-950/40 px-2 py-0.5 rounded-full">
-              {t('detail.promo.sub')}
-            </span>
-            
-            <h2 class="text-base sm:text-lg font-extrabold text-slate-800 dark:text-slate-100 mt-2.5 mb-2">
-              {currentItem.isProcessed ? t('detail.promo.title.processed') : t('detail.promo.title.fresh')}
-            </h2>
-            
-            <p class="text-xs text-slate-600 dark:text-slate-300 leading-relaxed mb-4">
-              {currentItem.isProcessed ? t('detail.promo.processed') : t('detail.promo.fresh')}
-            </p>
+          <div class="relative z-10 flex flex-col justify-between h-full space-y-4">
+            <div class="space-y-3">
+              <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-extrabold border shadow-xs bg-emerald-100 dark:bg-emerald-500/20 text-emerald-800 dark:text-emerald-300 border-emerald-200 dark:border-emerald-500/30">
+                <span class="truncate">{t('detail.promo.sub')}</span>
+              </div>
+              
+              <div class="flex items-center gap-2 pt-1">
+                <img src={`${import.meta.env.BASE_URL}images/freshself/icon.png`} alt="FreshSelf App Icon" class="w-6 h-6 rounded-lg object-cover shadow-xs border border-emerald-200 dark:border-emerald-500/30 m-0 shrink-0" />
+                <span class="text-xs font-black text-emerald-600 dark:text-emerald-400 tracking-wider uppercase">FreshSelf</span>
+              </div>
 
-            <!-- Downloader buttons -->
-            <div class="flex flex-col gap-2.5">
+              <h2 class="text-base sm:text-lg font-black text-slate-900 dark:text-white leading-snug m-0">
+                {currentItem.isProcessed ? t('detail.promo.title.processed') : t('detail.promo.title.fresh')}
+              </h2>
+              
+              <p class="text-xs text-slate-600 dark:text-slate-400 font-medium leading-relaxed m-0">
+                {currentItem.isProcessed ? t('detail.promo.processed') : t('detail.promo.fresh')}
+              </p>
+            </div>
+
+            <!-- Single Google Play Downloader button -->
+            <div class="space-y-2 pt-2">
               <a 
                 href={`https://play.google.com/store/apps/details?id=com.selalink.freshself&hl=${currentLang}`}
                 target="_blank"
                 rel="noopener noreferrer"
-                class="flex items-center justify-center gap-2 bg-purple-600 hover:bg-purple-500 text-white py-2.5 rounded-xl font-bold text-xs sm:text-sm cursor-pointer shadow-sm shadow-purple-600/15 hover:scale-[1.01] active:scale-[0.99] transition-all duration-300"
+                class="inline-flex items-center justify-center gap-2 bg-emerald-600 hover:bg-emerald-700 text-white w-full py-3 rounded-2xl font-semibold text-xs sm:text-sm shadow-sm hover:shadow hover:scale-[1.01] active:scale-[0.99] transition-all duration-200 no-underline text-center"
               >
-                <span>Google Play Store</span> 📲
+                <img src={`${import.meta.env.BASE_URL}images/google_play_icon.webp`} alt="Google Play Icon" class="w-4 h-4 sm:w-5 sm:h-5 shrink-0 object-contain drop-shadow-sm m-0" />
+                <span class="whitespace-nowrap">{tUi('app.download_google_play')}</span>
               </a>
-              <button 
-                id="iosDownloadBtn"
-                class="flex items-center justify-center gap-2 bg-slate-900 dark:bg-white text-white dark:text-slate-900 py-2.5 rounded-xl font-bold text-xs sm:text-sm cursor-pointer hover:scale-[1.01] active:scale-[0.99] transition-all duration-300"
-              >
-                <span>iOS App Store</span> 🍏
-              </button>
-              
-              <!-- 상세 알아보기 서브 링크 추가 -->
-              <a 
-                href={`/${currentLang}/apps/freshself/`}
-                class="flex items-center justify-center px-4 py-2 rounded-xl border border-slate-200 dark:border-slate-800 text-slate-650 dark:text-slate-400 hover:bg-slate-50 dark:hover:bg-slate-900 hover:text-slate-900 dark:hover:text-white text-xs font-bold transition-all text-center select-none active:scale-[0.99]"
-              >
-                {t('app.learn_more_freshself') || 'Learn More about FreshSelf'} →
-              </a>
+
+              <div class="text-[10px] font-semibold text-slate-500 dark:text-slate-400 text-center w-full leading-relaxed pt-1">
+                {t('detail.promo.badge_subtext')}
+              </div>
             </div>
           </div>
         </div>

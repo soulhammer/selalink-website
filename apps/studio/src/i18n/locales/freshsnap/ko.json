@@ -89,11 +89,11 @@
     "detail.calc.dday": "신선하게 먹을 수 있는 시간이 {dday} 남았습니다.",
     "detail.calc.dday_minus": "신선 보관 기한이 {dday} 지났습니다! 소비에 각별히 주의하거나 상태를 확인하세요.",
     "detail.calc.dday_today": "오늘이 권장 보관 기한 만료일입니다! 가급적 빨리 소비하세요.",
-    "detail.promo.fresh": "매번 검색하고 남은 신선 기한을 세기 번거로우시죠? FreshSelf 앱에서 터치 한 번으로 간편하게 등록해 보세요. 유통기한 임박 3일 전 스마트 푸시 알림을 보내 요리를 시작하도록 돕습니다!",
-    "detail.promo.processed": "매번 유통기한 날짜를 직접 확인하고 타이핑하기 번거로우시죠? FreshSelf 앱에서 바코드를 스캔해 제품명을 자동으로 찾고, 유통기한을 카메라로 찰칵 찍기만 하면 알아서 날짜가 등록됩니다!",
-    "detail.promo.title.fresh": "🥬 신선식품 터치 한 번 간편 관리",
-    "detail.promo.title.processed": "🥫 가공식품 초고속 스마트 스캔",
-    "detail.promo.sub": "더 편리하게 냉장고와 보관 공간을 관리하고 싶다면?",
+    "detail.promo.fresh": "소비기한 임박 3일 전 Push 알림으로 아까운 식재료를 끝까지 신선하게 소비하도록 돕습니다.",
+    "detail.promo.processed": "카메라 찰칵 촬영과 바코드 스캔으로 유통기한을 알아서 추적해 줍니다.",
+    "detail.promo.title.fresh": "오늘 구매한 식재료, 버리지 말고 스마트하게!",
+    "detail.promo.title.processed": "가공식품 유통기한, 바코드로 1초 만에 등록!",
+    "detail.promo.sub": "🌱 더 쉬운 냉장고 관리",
     "detail.back": "← 다른 식재료 보관법 검색하기",
     "detail.days": "일",
     "detail.days.plural": "일",
@@ -123,7 +123,8 @@
     "detail.calc.state.prepped": "손질 후 🔪",
     "app.learn_more_freshself": "FreshSelf 상세 정보 알아보기",
     "detail.calc.keep_fridge": "나의 냉장고에 보관하기 🧊",
-    "detail.calc.keep_fridge.success": "냉장고에 등록 완료! ✓"
+    "detail.calc.keep_fridge.success": "냉장고에 등록 완료! ✓",
+    "detail.promo.badge_subtext": "✨ 100% 무료 · 회원가입 없음 · 광고 없음 · 오프라인 저장"
   },
   "detailSource": {
     "source.MFDS": "식품의약품안전처",

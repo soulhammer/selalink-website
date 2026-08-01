@@ -89,11 +89,11 @@
     "detail.calc.dday": "Restam {dday} para consumir de forma fresca.",
     "detail.calc.dday_minus": "O período de conservação recomendado passou há {dday}! Tenha cuidado ou verifique o estado do alimento.",
     "detail.calc.dday_today": "Hoje é o último dia do período recomendado de conservação! Consuma o quanto antes.",
-    "detail.promo.fresh": "Cansado de pesquisar e contar a validade dos alimentos manualmente? Registre alimentos frescos com um único toque na app FreshSelf. Ela envia notificações 3 dias antes do vencimento!",
-    "detail.promo.processed": "Cansado de digitar datas de validade? Escaneie o código de barras para identificar o produto e tire uma foto da data de validade para registrar tudo automaticamente na app FreshSelf!",
-    "detail.promo.title.fresh": "🥬 Controle Simples de Alimentos Frescos",
-    "detail.promo.title.processed": "🥫 Cadastro Inteligente de Itens Embalados",
-    "detail.promo.sub": "Deseja gerenciar sua geladeira com mais facilidade?",
+    "detail.promo.fresh": "Receba alertas 3 dias antes do vencimento para aproveitar seus alimentos ao máximo.",
+    "detail.promo.processed": "Rastreie vencimentos automaticamente escaneando códigos de barras com a câmera.",
+    "detail.promo.title.fresh": "Conserve suas compras de hoje sem desperdício!",
+    "detail.promo.title.processed": "Registre vencimentos em 1 segundo com código de barras!",
+    "detail.promo.sub": "🌱 Controle de Geladeira Inteligente",
     "detail.back": "← Pesquisar outros alimentos",
     "detail.days": "dia",
     "detail.days.plural": "dias",
@@ -123,7 +123,8 @@
     "detail.calc.state.prepped": "Preparado 🔪",
     "app.learn_more_freshself": "Saiba mais sobre o FreshSelf",
     "detail.calc.keep_fridge": "Guardar na minha geladeira 🧊",
-    "detail.calc.keep_fridge.success": "Guardado na geladeira! ✓"
+    "detail.calc.keep_fridge.success": "Guardado na geladeira! ✓",
+    "detail.promo.badge_subtext": "✨ 100% Grátis · Sem Cadastro · Sem Anúncios · Armazenamento Offline"
   },
   "detailSource": {
     "source.MFDS": "MFDS (Coreia do Sul)",

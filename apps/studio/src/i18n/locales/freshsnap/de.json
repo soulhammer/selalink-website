@@ -89,11 +89,11 @@
     "detail.calc.dday": "Sie haben noch {dday} Zeit für einen frischen Verzehr.",
     "detail.calc.dday_minus": "Die empfohlene Lagerdauer ist um {dday} überschritten! Vorsicht beim Verzehr.",
     "detail.calc.dday_today": "Heute läuft die empfohlene Lagerfrist ab! Verbrauchen Sie das Produkt schnellstmöglich.",
-    "detail.promo.fresh": "Keine Lust mehr, die Haltbarkeit manuell zu prüfen? Registrieren Sie frische Lebensmittel mit nur einem Fingertipp in der FreshSelf-App. Sie erhalten 3 Tage vor Ablauf Push-Meldungen!",
-    "detail.promo.processed": "Müssen Sie Ablaufdaten mühsam eintippen? Scannen Sie einfach den Barcode zur Produkterkennung und fotografieren Sie das Mindesthaltbarkeitsdatum für eine automatische Registrierung!",
-    "detail.promo.title.fresh": "🥬 Frische Vorräte einfach verwalten",
-    "detail.promo.title.processed": "🥫 Haltbare Vorräte schnell einscannen",
-    "detail.promo.sub": "Möchten Sie Ihren Kühlschrank einfacher verwalten?",
+    "detail.promo.fresh": "Erhalten Sie 3 Tage vor Ablauf Benachrichtigungen, um Essen rechtzeitig zu genießen.",
+    "detail.promo.processed": "Verfolgen Sie Verfallsdaten automatisch per Barcode-Scan und Foto.",
+    "detail.promo.title.fresh": "Bewahren Sie Ihre Einkäufe ohne Verschwendung auf!",
+    "detail.promo.title.processed": "Erfassen Sie Verfallsdaten in 1 Sekunde per Barcode!",
+    "detail.promo.sub": "🌱 Smarte Kühlschrankverwaltung",
     "detail.back": "← Nach anderen Lebensmitteln suchen",
     "detail.days": "Tag",
     "detail.days.plural": "Tage",
@@ -123,7 +123,8 @@
     "detail.calc.state.prepped": "Zubereitet 🔪",
     "app.learn_more_freshself": "Mehr über FreshSelf erfahren",
     "detail.calc.keep_fridge": "Im Kühlschrank aufbewahren 🧊",
-    "detail.calc.keep_fridge.success": "Im Kühlschrank gespeichert! ✓"
+    "detail.calc.keep_fridge.success": "Im Kühlschrank gespeichert! ✓",
+    "detail.promo.badge_subtext": "✨ 100% Kostenlos · Keine Registrierung · Keine Werbung · Offline-Speicher"
   },
   "detailSource": {
     "source.MFDS": "MFDS (Südkorea)",

@@ -89,11 +89,11 @@
     "detail.calc.dday": "Tersisa {dday} untuk dikonsumsi dalam kondisi segar.",
     "detail.calc.dday_minus": "Batas waktu penyimpanan segar telah terlewati selama {dday}! Berhati-hatilah atau periksa kondisinya.",
     "detail.calc.dday_today": "Hari ini adalah hari terakhir batas waktu penyimpanan yang disarankan! Segera konsumsi.",
-    "detail.promo.fresh": "Lelah mencari panduan dan menghitung sisa tanggal kedaluwarsa? Daftarkan bahan segar Anda dengan satu ketukan di aplikasi FreshSelf. Dapatkan notifikasi push pintar 3 hari sebelum kedaluwarsa!",
-    "detail.promo.processed": "Malas mengetik tanggal kedaluwarsa secara manual? Pindai kode batang untuk deteksi produk otomatis, lalu foto tanggal kedaluwarsanya untuk mendaftarkannya secara instan di FreshSelf!",
-    "detail.promo.title.fresh": "🥬 Manajemen Bahan Segar Praktis",
-    "detail.promo.title.processed": "🥫 Pindai Cerdas Bahan Makanan Kaleng",
-    "detail.promo.sub": "Ingin mengelola isi kulkas Anda dengan lebih mudah?",
+    "detail.promo.fresh": "Dapatkan peringatan 3 hari sebelum kadaluarsa untuk menikmati makanan dengan maksimal.",
+    "detail.promo.processed": "Lacak tanggal kadaluarsa secara otomatis dengan pemindaian kode batang.",
+    "detail.promo.title.fresh": "Simpan Belanjaan Hari Ini Tanpa Terbuang!",
+    "detail.promo.title.processed": "Catat Kadaluarsa dalam 1 Detik via Kode Batang!",
+    "detail.promo.sub": "🌱 Kelola Kulkas Lebih Pintar",
     "detail.back": "← Cari panduan penyimpanan bahan lain",
     "detail.days": "hari",
     "detail.days.plural": "hari",
@@ -123,7 +123,8 @@
     "detail.calc.state.prepped": "Sudah disiapkan 🔪",
     "app.learn_more_freshself": "Pelajari Lebih Lanjut tentang FreshSelf",
     "detail.calc.keep_fridge": "Simpan di kulkas saya 🧊",
-    "detail.calc.keep_fridge.success": "Disimpan di kulkas! ✓"
+    "detail.calc.keep_fridge.success": "Disimpan di kulkas! ✓",
+    "detail.promo.badge_subtext": "✨ 100% Gratis · Tanpa Daftar · Tanpa Iklan · Penyimpanan Offline"
   },
   "detailSource": {
     "source.MFDS": "MFDS (Corea Selatan)",
