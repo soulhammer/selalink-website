@@ -41,7 +41,7 @@ export function initBlogImageLightbox() {
       }
     });
 
-    const articleImages = document.querySelectorAll('article img');
+    const articleImages = document.querySelectorAll('article img:not(.not-prose img)');
     if (articleImages.length > 0 && lightboxImg) {
       articleImages.forEach((img) => {
         (img as HTMLElement).style.cursor = 'zoom-in';
