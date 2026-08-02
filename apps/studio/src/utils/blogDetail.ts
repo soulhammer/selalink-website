@@ -122,11 +122,34 @@ export function initBackToTopButton() {
   }
 }
 
+export function initPlayStoreLinkHandler() {
+  const downloadBtns = document.querySelectorAll('a[href*="play.google.com/store/apps/details"]');
+  if (downloadBtns.length > 0) {
+    downloadBtns.forEach((btn) => {
+      btn.addEventListener('click', (e) => {
+        const isAndroid = (typeof (navigator as any).userAgentData?.platform === 'string' && (navigator as any).userAgentData.platform === 'Android') || /Android/i.test(navigator.userAgent);
+        if (isAndroid) {
+          e.preventDefault();
+          const href = btn.getAttribute('href') || '';
+          const match = href.match(/id=([^&]+)/);
+          const langMatch = href.match(/hl=([^&]+)/);
+          const playStoreId = match ? match[1] : 'com.selalink.buildself';
+          const playStoreLang = langMatch ? langMatch[1] : 'ko';
+          const fallbackUrl = encodeURIComponent(`https://play.google.com/store/apps/details?id=${playStoreId}&hl=${playStoreLang}`);
+          const intentUrl = `intent://details?id=${playStoreId}#Intent;scheme=market;package=com.android.vending;S.browser_fallback_url=${fallbackUrl};end`;
+          window.location.href = intentUrl;
+        }
+      });
+    });
+  }
+}
+
 document.addEventListener('DOMContentLoaded', () => {
   initBlogImageLightbox();
   initReadingProgressBar();
   initTocObserver();
   initBackToTopButton();
+  initPlayStoreLinkHandler();
 });
 
 
