@@ -10,8 +10,13 @@
   <meta name="robots" content="noindex, nofollow">
   <meta http-equiv="refresh" content="0;url=https://play.google.com/store/apps/details?id=com.selalink.logself">
   <script is:inline>
-    // location.replace overrides history stack entry so user doesn't get stuck on back button
-    window.location.replace("https://play.google.com/store/apps/details?id=com.selalink.logself");
+    var isAndroid = (typeof navigator.userAgentData?.platform === 'string' && navigator.userAgentData.platform === 'Android') || /Android/i.test(navigator.userAgent);
+    if (isAndroid) {
+      var fallbackUrl = encodeURIComponent("https://play.google.com/store/apps/details?id=com.selalink.logself");
+      window.location.replace("intent://details?id=com.selalink.logself#Intent;scheme=market;package=com.android.vending;S.browser_fallback_url=" + fallbackUrl + ";end");
+    } else {
+      window.location.replace("https://play.google.com/store/apps/details?id=com.selalink.logself");
+    }
   </script>
 </head>
 <body style="background-color: #0f172a; color: #94a3b8; font-family: sans-serif; display: flex; align-items: center; justify-content: center; height: 100vh; margin: 0;">

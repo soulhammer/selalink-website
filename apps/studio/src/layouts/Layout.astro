@@ -387,6 +387,7 @@ const isProd = import.meta.env.PROD;
 		</script>
 
 		<ShortsPlayerModal lang={lang} />
+		<script src="../utils/playStoreHandler.ts"></script>
 
 		{appId === 'buildself' && (
 			<AppToast lang={lang} triggerId="bsIosDownloadBtn" toastId="bsToastNotification" />
