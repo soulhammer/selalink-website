@@ -198,10 +198,90 @@ export function renderBuildSelfCtaBox(lang) {
   const subtext = cta.subtext?.[lang] || cta.subtext?.['en'] || "✨ 100% 무료 · 회원가입 없음 · 광고 없음 · 오프라인 저장";
   const playStoreLink = `https://play.google.com/store/apps/details?id=com.selalink.buildself&hl=${lang}`;
 
-  return `<div class="my-8 relative overflow-hidden rounded-3xl border border-sky-100 dark:border-sky-500/20 p-6 md:p-8 bg-gradient-to-br from-sky-50/80 via-sky-50/40 to-transparent dark:from-sky-950/20 dark:via-sky-950/10 dark:to-slate-900/30 backdrop-blur-md transition-all duration-300 hover:shadow-lg not-prose">
+  const mentorNamesMap = {
+    ko: [
+      { name: "아인슈타인", file: "einstein.webp" },
+      { name: "세종대왕", file: "kingsejong.webp" },
+      { name: "니콜라 테슬라", file: "nikola_tesla.webp" },
+      { name: "이순신 장군", file: "yisunsin.webp" },
+      { name: "신사임당", file: "shin_saimdang.webp" },
+      { name: "에이브러햄 링컨", file: "abraham_lincoln.webp" },
+      { name: "레오나르도 다 빈치", file: "leonardo_da_vinci.webp" },
+      { name: "아이작 뉴턴", file: "isaac_newton.webp" },
+      { name: "마리 퀴리", file: "marie_sklodowska_curie.webp" },
+      { name: "플로렌스 나이팅게일", file: "florence_nightingale.webp" },
+      { name: "갈릴레오 갈릴레이", file: "galileo_galilei.webp" },
+      { name: "토마스 에디슨", file: "thomas_edison.webp" },
+      { name: "임마누엘 칸트", file: "immanuel_kant.webp" },
+      { name: "루트비히 판 베토벤", file: "ludwig_van_beethoven.webp" },
+      { name: "벤저민 프랭클린", file: "benjamin_franklin.webp" },
+      { name: "소크라테스", file: "socrates.webp" }
+    ],
+    zh: [
+      { name: "爱因斯坦", file: "einstein.webp" },
+      { name: "世宗大王", file: "kingsejong.webp" },
+      { name: "特斯拉", file: "nikola_tesla.webp" },
+      { name: "李舜臣", file: "yisunsin.webp" },
+      { name: "申师任堂", file: "shin_saimdang.webp" },
+      { name: "林肯", file: "abraham_lincoln.webp" },
+      { name: "达芬奇", file: "leonardo_da_vinci.webp" },
+      { name: "牛顿", file: "isaac_newton.webp" },
+      { name: "居里夫人", file: "marie_sklodowska_curie.webp" },
+      { name: "南丁格尔", file: "florence_nightingale.webp" },
+      { name: "伽利略", file: "galileo_galilei.webp" },
+      { name: "爱迪生", file: "thomas_edison.webp" },
+      { name: "康德", file: "immanuel_kant.webp" },
+      { name: "贝多芬", file: "ludwig_van_beethoven.webp" },
+      { name: "富兰克林", file: "benjamin_franklin.webp" },
+      { name: "苏格拉底", file: "socrates.webp" }
+    ],
+    ja: [
+      { name: "アインシュタイン", file: "einstein.webp" },
+      { name: "世宗大王", file: "kingsejong.webp" },
+      { name: "テスラ", file: "nikola_tesla.webp" },
+      { name: "李舜臣", file: "yisunsin.webp" },
+      { name: "申師任堂", file: "shin_saimdang.webp" },
+      { name: "リンカーン", file: "abraham_lincoln.webp" },
+      { name: "ダ・ヴィンチ", file: "leonardo_da_vinci.webp" },
+      { name: "ニュートン", file: "isaac_newton.webp" },
+      { name: "キュリー夫人", file: "marie_sklodowska_curie.webp" },
+      { name: "ナイチンゲール", file: "florence_nightingale.webp" },
+      { name: "ガリレオ", file: "galileo_galilei.webp" },
+      { name: "エジソン", file: "thomas_edison.webp" },
+      { name: "カント", file: "immanuel_kant.webp" },
+      { name: "ベートーヴェン", file: "ludwig_van_beethoven.webp" },
+      { name: "フランクリン", file: "benjamin_franklin.webp" },
+      { name: "ソクラテス", file: "socrates.webp" }
+    ],
+    default: [
+      { name: "Einstein", file: "einstein.webp" },
+      { name: "King Sejong", file: "kingsejong.webp" },
+      { name: "Nikola Tesla", file: "nikola_tesla.webp" },
+      { name: "Yi Sun-sin", file: "yisunsin.webp" },
+      { name: "Shin Saimdang", file: "shin_saimdang.webp" },
+      { name: "Abraham Lincoln", file: "abraham_lincoln.webp" },
+      { name: "Leonardo da Vinci", file: "leonardo_da_vinci.webp" },
+      { name: "Isaac Newton", file: "isaac_newton.webp" },
+      { name: "Marie Curie", file: "marie_sklodowska_curie.webp" },
+      { name: "Florence Nightingale", file: "florence_nightingale.webp" },
+      { name: "Galileo Galilei", file: "galileo_galilei.webp" },
+      { name: "Thomas Edison", file: "thomas_edison.webp" },
+      { name: "Immanuel Kant", file: "immanuel_kant.webp" },
+      { name: "Beethoven", file: "ludwig_van_beethoven.webp" },
+      { name: "Benjamin Franklin", file: "benjamin_franklin.webp" },
+      { name: "Socrates", file: "socrates.webp" }
+    ]
+  };
+
+  const mentors = mentorNamesMap[lang] || mentorNamesMap['default'];
+  const mentorLabelSuffix = lang === 'ko' ? ' 멘토' : (lang === 'zh' ? ' 导师' : (lang === 'ja' ? ' メンター' : ' Mentor'));
+
+  const renderMentorItems = mentors.map(m => `<div class="relative group shrink-0 py-1"><img src="/images/buildself/mentors/${m.file}" alt="${m.name}${mentorLabelSuffix}" class="w-14 h-14 md:w-16 md:h-16 rounded-full border-2 border-white dark:border-slate-800 ring-2 ring-amber-400/50 dark:ring-amber-400/40 group-hover:ring-amber-400 dark:group-hover:ring-amber-300 object-cover shadow-md transition-all duration-300 group-hover:scale-125 group-hover:z-30 group-hover:shadow-amber-500/40 dark:group-hover:shadow-amber-500/50 group-hover:shadow-xl cursor-pointer m-0" loading="lazy" /></div>`).join('');
+
+  return `<div class="my-8 relative overflow-hidden rounded-3xl border-2 border-sky-300/80 dark:border-sky-500/40 p-6 md:p-8 bg-gradient-to-br from-sky-100/90 via-sky-50/60 to-sky-100/30 dark:from-sky-950/40 dark:via-sky-950/20 dark:to-slate-900/50 backdrop-blur-md transition-all duration-300 hover:shadow-xl hover:shadow-sky-500/15 dark:hover:shadow-sky-500/25 not-prose">
   <div class="flex flex-col lg:flex-row items-center justify-between gap-6 md:gap-8 relative z-10">
     <div class="space-y-3.5 flex-1 min-w-0 max-w-xl w-full flex flex-col items-center text-center">
-      <div class="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-full text-xs font-extrabold border shadow-xs max-w-full mx-auto bg-sky-100 dark:bg-sky-500/20 text-sky-800 dark:text-sky-300 border-sky-200 dark:border-sky-500/30">
+      <div class="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-full text-xs font-extrabold border shadow-xs max-w-full mx-auto bg-sky-500/10 text-sky-800 dark:text-sky-300 border-sky-300 dark:border-sky-500/40 animate-pulse">
         <span>💬</span>
         <span class="truncate">${tag}</span>
       </div>
@@ -215,17 +295,21 @@ export function renderBuildSelfCtaBox(lang) {
         </h3>
       </div>
     </div>
-    <div class="flex flex-col items-center justify-center gap-3 shrink-0 w-full lg:w-[340px] pt-4 lg:pt-0 border-t lg:border-t-0 border-slate-200/40 dark:border-slate-700/30">
-      <div class="flex items-center justify-center -space-x-3 py-1" title="${labels.avatarTitles?.buildself?.[lang] || 'Join historical mentors and figures'}">
-        <img src="/images/buildself/mentors/einstein.webp" alt="Einstein Mentor" class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-30 hover:scale-110 transition-transform m-0" />
-        <img src="/images/buildself/mentors/kingsejong.webp" alt="King Sejong Mentor" class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-20 hover:scale-110 transition-transform m-0" />
-        <img src="/images/buildself/mentors/nikola_tesla.webp" alt="Nikola Tesla Mentor" class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-10 hover:scale-110 transition-transform m-0" />
-        <img src="/images/buildself/mentors/abraham_lincoln.webp" alt="Lincoln Mentor" class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-0 hover:scale-110 transition-transform m-0" />
-        <img src="/images/buildself/mentors/yisunsin.webp" alt="Yi Sun-sin Mentor" class="hidden sm:block w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-0 hover:scale-110 transition-transform m-0" />
-        <img src="/images/buildself/mentors/shin_saimdang.webp" alt="Shin Saimdang Mentor" class="hidden md:block w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-0 hover:scale-110 transition-transform m-0" />
+    <div class="flex flex-col items-center justify-center gap-4 md:gap-5 shrink-0 w-full lg:w-[360px] pt-5 lg:pt-0 border-t lg:border-t-0 border-slate-200/50 dark:border-slate-700/40">
+      <div class="relative w-full max-w-[360px] overflow-hidden py-3">
+        <div class="absolute left-0 top-0 bottom-0 w-8 bg-gradient-to-r from-sky-100/90 dark:from-slate-900/80 to-transparent z-20 pointer-events-none"></div>
+        <div class="absolute right-0 top-0 bottom-0 w-8 bg-gradient-to-l from-sky-100/90 dark:from-slate-900/80 to-transparent z-20 pointer-events-none"></div>
+        <div class="marquee-mentor-container flex w-max animate-mentor-marquee hover:[animation-play-state:paused] py-1.5">
+          <div class="flex items-center gap-3.5 px-2 shrink-0">
+            ${renderMentorItems}
+          </div>
+          <div class="flex items-center gap-3.5 px-2 shrink-0" aria-hidden="true">
+            ${renderMentorItems}
+          </div>
+        </div>
       </div>
       <div class="flex items-center justify-center w-full">
-        <a href="${playStoreLink}" target="_blank" rel="noopener noreferrer" class="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-2xl font-semibold text-xs sm:text-sm transition-all duration-200 focus:outline-none focus:ring-4 shadow-sm hover:shadow hover:scale-[1.01] active:scale-[0.99] text-center whitespace-nowrap w-full sm:w-auto bg-sky-600 hover:bg-sky-700 text-white focus:ring-sky-500/20 no-underline">
+        <a href="${playStoreLink}" target="_blank" rel="noopener noreferrer" class="inline-flex items-center justify-center gap-2 px-7 py-3.5 rounded-2xl font-bold text-xs sm:text-sm transition-all duration-200 focus:outline-none focus:ring-4 shadow-md hover:shadow-lg hover:scale-[1.02] active:scale-[0.99] text-center whitespace-nowrap w-full sm:w-auto bg-sky-600 hover:bg-sky-700 text-white focus:ring-sky-500/20 no-underline">
           <img src="/images/google_play_icon.webp" alt="Google Play Icon" class="w-4 h-4 sm:w-5 sm:h-5 shrink-0 object-contain drop-shadow-sm m-0" />
           <span class="whitespace-nowrap">${download}</span>
         </a>

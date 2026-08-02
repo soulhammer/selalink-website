@@ -88,6 +88,26 @@ const appDetails = {
 
 const activeDetails = (appDetails as Record<string, any>)[app] || appDetails.general;
 
+// BuildSelf 무한 롤링 마키용 위인 멘토 목록 (38+ 중 주요 16인)
+const buildselfMentors = [
+  { id: 'einstein', name: '아인슈타인', file: 'einstein.webp' },
+  { id: 'kingsejong', name: '세종대왕', file: 'kingsejong.webp' },
+  { id: 'nikola_tesla', name: '니콜라 테슬라', file: 'nikola_tesla.webp' },
+  { id: 'yisunsin', name: '이순신 장군', file: 'yisunsin.webp' },
+  { id: 'shin_saimdang', name: '신사임당', file: 'shin_saimdang.webp' },
+  { id: 'abraham_lincoln', name: '에이브러햄 링컨', file: 'abraham_lincoln.webp' },
+  { id: 'leonardo_da_vinci', name: '다 빈치', file: 'leonardo_da_vinci.webp' },
+  { id: 'isaac_newton', name: '아이작 뉴턴', file: 'isaac_newton.webp' },
+  { id: 'marie_sklodowska_curie', name: '마리 퀴리', file: 'marie_sklodowska_curie.webp' },
+  { id: 'florence_nightingale', name: '나이팅게일', file: 'florence_nightingale.webp' },
+  { id: 'galileo_galilei', name: '갈릴레이', file: 'galileo_galilei.webp' },
+  { id: 'thomas_edison', name: '에디슨', file: 'thomas_edison.webp' },
+  { id: 'immanuel_kant', name: '칸트', file: 'immanuel_kant.webp' },
+  { id: 'ludwig_van_beethoven', name: '베토벤', file: 'ludwig_van_beethoven.webp' },
+  { id: 'benjamin_franklin', name: '프랭클린', file: 'benjamin_franklin.webp' },
+  { id: 'socrates', name: '소크라테스', file: 'socrates.webp' }
+];
+
 // 앱 테마에 어울리는 글로우 스타일 변수 주입
 const styleVars = app === 'freshsnap'
   ? '--theme-color-light: rgba(16, 185, 129, 0.05); --theme-color-border-hover: rgba(16, 185, 129, 0.3); --theme-color-glow: rgba(16, 185, 129, 0.15);'
@@ -153,41 +173,45 @@ const styleVars = app === 'freshsnap'
         </div>
       </div>
       
-      <!-- Right Action Group (Fixed Width 340px to Guarantee Zero Overflow) -->
-      <div class="flex flex-col items-center justify-center gap-3 shrink-0 w-full lg:w-[340px] pt-4 lg:pt-0 border-t lg:border-t-0 border-slate-200/40 dark:border-slate-700/30">
-        <!-- 3D Mentor Avatar Ensemble Stack (BuildSelf) vs 3D Fruit Buddy Ensemble Stack (FreshSelf / PetSelf) -->
+      <!-- Right Action Group (Width 360px & Generous Vertical Spacing) -->
+      <div class="flex flex-col items-center justify-center gap-4 md:gap-5 shrink-0 w-full lg:w-[360px] pt-5 lg:pt-0 border-t lg:border-t-0 border-slate-200/50 dark:border-slate-700/40">
+        <!-- 3D Mentor Avatar Infinite Seamless Marquee (BuildSelf) vs 3D Fruit Buddy Ensemble Stack (FreshSelf / PetSelf) -->
         {app === 'buildself' ? (
-          <div class="flex items-center justify-center -space-x-3 py-1" title="역사 속 위인 멘토들과 함께하세요">
-            <img 
-              src={`${import.meta.env.BASE_URL}images/buildself/mentors/einstein.webp`} 
-              alt="Einstein Mentor" 
-              class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-30 hover:scale-110 transition-transform" 
-            />
-            <img 
-              src={`${import.meta.env.BASE_URL}images/buildself/mentors/kingsejong.webp`} 
-              alt="King Sejong Mentor" 
-              class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-20 hover:scale-110 transition-transform" 
-            />
-            <img 
-              src={`${import.meta.env.BASE_URL}images/buildself/mentors/nikola_tesla.webp`} 
-              alt="Nikola Tesla Mentor" 
-              class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-10 hover:scale-110 transition-transform" 
-            />
-            <img 
-              src={`${import.meta.env.BASE_URL}images/buildself/mentors/abraham_lincoln.webp`} 
-              alt="Lincoln Mentor" 
-              class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-0 hover:scale-110 transition-transform" 
-            />
-            <img 
-              src={`${import.meta.env.BASE_URL}images/buildself/mentors/yisunsin.webp`} 
-              alt="Yi Sun-sin Mentor" 
-              class="hidden sm:block w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-0 hover:scale-110 transition-transform" 
-            />
-            <img 
-              src={`${import.meta.env.BASE_URL}images/buildself/mentors/shin_saimdang.webp`} 
-              alt="Shin Saimdang Mentor" 
-              class="hidden md:block w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-0 hover:scale-110 transition-transform" 
-            />
+          <div class="relative w-full max-w-[360px] overflow-hidden py-3">
+            <!-- Left/Right Fade Out Gradient Masks for Smooth Edges -->
+            <div class="absolute left-0 top-0 bottom-0 w-8 bg-gradient-to-r from-sky-100/90 dark:from-slate-900/80 to-transparent z-20 pointer-events-none"></div>
+            <div class="absolute right-0 top-0 bottom-0 w-8 bg-gradient-to-l from-sky-100/90 dark:from-slate-900/80 to-transparent z-20 pointer-events-none"></div>
+            
+            <!-- Infinite Seamless Marquee Loop Track -->
+            <div class="marquee-mentor-container flex w-max animate-mentor-marquee hover:[animation-play-state:paused] py-1.5">
+              <!-- Track Copy 1 -->
+              <div class="flex items-center gap-3.5 px-2 shrink-0">
+                {buildselfMentors.map((mentor) => (
+                  <div class="relative group shrink-0 py-1">
+                    <img 
+                      src={`${import.meta.env.BASE_URL}images/buildself/mentors/${mentor.file}`} 
+                      alt={`${mentor.name} 멘토`} 
+                      class="w-14 h-14 md:w-16 md:h-16 rounded-full border-2 border-white dark:border-slate-800 ring-2 ring-amber-400/50 dark:ring-amber-400/40 group-hover:ring-amber-400 dark:group-hover:ring-amber-300 object-cover shadow-md transition-all duration-300 group-hover:scale-125 group-hover:z-30 group-hover:shadow-amber-500/40 dark:group-hover:shadow-amber-500/50 group-hover:shadow-xl cursor-pointer" 
+                      loading="lazy"
+                    />
+                  </div>
+                ))}
+              </div>
+
+              <!-- Track Copy 2 (Identical Duplicate for Smooth Infinite Seamless Loop) -->
+              <div class="flex items-center gap-3.5 px-2 shrink-0" aria-hidden="true">
+                {buildselfMentors.map((mentor) => (
+                  <div class="relative group shrink-0 py-1">
+                    <img 
+                      src={`${import.meta.env.BASE_URL}images/buildself/mentors/${mentor.file}`} 
+                      alt="" 
+                      class="w-14 h-14 md:w-16 md:h-16 rounded-full border-2 border-white dark:border-slate-800 ring-2 ring-amber-400/50 dark:ring-amber-400/40 group-hover:ring-amber-400 dark:group-hover:ring-amber-300 object-cover shadow-md transition-all duration-300 group-hover:scale-125 group-hover:z-30 group-hover:shadow-amber-500/40 dark:group-hover:shadow-amber-500/50 group-hover:shadow-xl cursor-pointer" 
+                      loading="lazy"
+                    />
+                  </div>
+                ))}
+              </div>
+            </div>
           </div>
         ) : (
           <div class="flex items-center justify-center -space-x-2.5 py-1" title="귀여운 3D 신선 과일/식재료 캐릭터들과 함께하세요">
@@ -315,3 +339,24 @@ const styleVars = app === 'freshsnap'
     </div>
   )}
 </div>
+
+<style>
+  .animate-mentor-marquee {
+    animation: mentor-marquee-scroll 28s linear infinite;
+    will-change: transform;
+  }
+  @keyframes mentor-marquee-scroll {
+    0% {
+      transform: translate3d(0, 0, 0);
+    }
+    100% {
+      transform: translate3d(-50%, 0, 0);
+    }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .animate-mentor-marquee {
+      animation: none;
+    }
+  }
+</style>
+
