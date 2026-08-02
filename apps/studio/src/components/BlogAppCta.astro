@@ -108,6 +108,18 @@ const buildselfMentors = [
   { id: 'socrates', name: '소크라테스', file: 'socrates.webp' }
 ];
 
+// FreshSelf / PetSelf / FreshSnap 무한 롤링 마키용 과일 Buddy 목록
+const freshselfBuddies = [
+  { id: 'apple', name: '사과', file: 'apple.webp' },
+  { id: 'avocado', name: '아보카도', file: 'avocado.webp' },
+  { id: 'banana', name: '바나나', file: 'banana.webp' },
+  { id: 'broccoli', name: '브로콜리', file: 'broccoli.webp' },
+  { id: 'orange', name: '오렌지', file: 'orange.webp' },
+  { id: 'strawberry', name: '딸기', file: 'strawberry.webp' },
+  { id: 'carrot', name: '당근', file: 'carrot.webp' },
+  { id: 'lemon', name: '레몬', file: 'lemon.webp' }
+];
+
 // 앱 테마에 어울리는 글로우 스타일 변수 주입
 const styleVars = app === 'freshsnap'
   ? '--theme-color-light: rgba(16, 185, 129, 0.05); --theme-color-border-hover: rgba(16, 185, 129, 0.3); --theme-color-glow: rgba(16, 185, 129, 0.15);'
@@ -214,37 +226,41 @@ const styleVars = app === 'freshsnap'
             </div>
           </div>
         ) : (
-          <div class="flex items-center justify-center -space-x-2.5 py-1" title="귀여운 3D 신선 과일/식재료 캐릭터들과 함께하세요">
-            <img 
-              src={`${import.meta.env.BASE_URL}images/freshself/fruits/apple.webp`} 
-              alt="Apple Buddy" 
-              class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-30 hover:scale-110 transition-transform bg-rose-50 dark:bg-rose-950/40" 
-            />
-            <img 
-              src={`${import.meta.env.BASE_URL}images/freshself/fruits/avocado.webp`} 
-              alt="Avocado Buddy" 
-              class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-20 hover:scale-110 transition-transform bg-emerald-50 dark:bg-emerald-950/40" 
-            />
-            <img 
-              src={`${import.meta.env.BASE_URL}images/freshself/fruits/banana.webp`} 
-              alt="Banana Buddy" 
-              class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-10 hover:scale-110 transition-transform bg-amber-50 dark:bg-amber-950/40" 
-            />
-            <img 
-              src={`${import.meta.env.BASE_URL}images/freshself/fruits/strawberry.webp`} 
-              alt="Strawberry Buddy" 
-              class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-0 hover:scale-110 transition-transform bg-red-50 dark:bg-red-950/40" 
-            />
-            <img 
-              src={`${import.meta.env.BASE_URL}images/freshself/fruits/orange.webp`} 
-              alt="Orange Buddy" 
-              class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-0 hover:scale-110 transition-transform bg-orange-50 dark:bg-orange-950/40" 
-            />
-            <img 
-              src={`${import.meta.env.BASE_URL}images/freshself/fruits/broccoli.webp`} 
-              alt="Broccoli Buddy" 
-              class="w-11 h-11 md:w-12 md:h-12 rounded-full border-2 border-white dark:border-slate-800 object-cover shadow-md z-0 hover:scale-110 transition-transform bg-green-50 dark:bg-green-950/40" 
-            />
+          <div class="relative w-full max-w-[360px] overflow-hidden py-3">
+            <!-- Left/Right Fade Out Gradient Masks for Smooth Edges -->
+            <div class="absolute left-0 top-0 bottom-0 w-8 bg-gradient-to-r from-emerald-100/90 dark:from-slate-900/80 to-transparent z-20 pointer-events-none"></div>
+            <div class="absolute right-0 top-0 bottom-0 w-8 bg-gradient-to-l from-emerald-100/90 dark:from-slate-900/80 to-transparent z-20 pointer-events-none"></div>
+            
+            <!-- Infinite Seamless Marquee Loop Track -->
+            <div class="marquee-mentor-container flex w-max animate-mentor-marquee hover:[animation-play-state:paused] py-1.5">
+              <!-- Track Copy 1 -->
+              <div class="flex items-center gap-3.5 px-2 shrink-0">
+                {freshselfBuddies.map((buddy) => (
+                  <div class="relative group shrink-0 py-1">
+                    <img 
+                      src={`${import.meta.env.BASE_URL}images/freshself/fruits/${buddy.file}`} 
+                      alt={`${buddy.name} Buddy`} 
+                      class="w-14 h-14 md:w-16 md:h-16 rounded-full border-2 border-white dark:border-slate-800 ring-2 ring-emerald-400/50 dark:ring-emerald-400/40 group-hover:ring-emerald-400 dark:group-hover:ring-emerald-300 object-cover shadow-md transition-all duration-300 group-hover:scale-125 group-hover:z-30 group-hover:shadow-emerald-500/40 dark:group-hover:shadow-emerald-500/50 group-hover:shadow-xl cursor-pointer" 
+                      loading="lazy"
+                    />
+                  </div>
+                ))}
+              </div>
+
+              <!-- Track Copy 2 (Identical Duplicate for Smooth Infinite Seamless Loop) -->
+              <div class="flex items-center gap-3.5 px-2 shrink-0" aria-hidden="true">
+                {freshselfBuddies.map((buddy) => (
+                  <div class="relative group shrink-0 py-1">
+                    <img 
+                      src={`${import.meta.env.BASE_URL}images/freshself/fruits/${buddy.file}`} 
+                      alt="" 
+                      class="w-14 h-14 md:w-16 md:h-16 rounded-full border-2 border-white dark:border-slate-800 ring-2 ring-emerald-400/50 dark:ring-emerald-400/40 group-hover:ring-emerald-400 dark:group-hover:ring-emerald-300 object-cover shadow-md transition-all duration-300 group-hover:scale-125 group-hover:z-30 group-hover:shadow-emerald-500/40 dark:group-hover:shadow-emerald-500/50 group-hover:shadow-xl cursor-pointer" 
+                      loading="lazy"
+                    />
+                  </div>
+                ))}
+              </div>
+            </div>
           </div>
         )}
 
